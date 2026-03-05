@@ -1,5 +1,5 @@
 ---
-title: "Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response"
+title: "Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response (Advisory No. 2020-03)"
 description: "SUBJECT : GUIDELINES FOR WORKPLACES AND ESTABLISHMENTS PROCESSING PERSONAL DATA FOR COVID-19 RESPONSE"
 aliases:
   - "Advisory No. 2020-03"
@@ -14,13 +14,9 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: c6d3d68a805e59ea57f1eeefbfb330daf638e8fd -->
-NPC Advisory No. 2020 - 03
 
-DATE                    :      23 October 2020
+**Advisory No. 2020-03**
 
-SUBJECT                 :      GUIDELINES      FOR   WORKPLACES    AND  
                                ESTABLISHMENTS PROCESSING PERSONAL DATA  
                                FOR COVID-19 RESPONSE
 
@@ -37,13 +33,13 @@ implementation of contact tracing, establishments implementing the above JMC are
 considered as PICs as they control the processing of personal and sensitive personal  
 information (collectively, personal data) of their employees, clients/customers, and visitors.
 
-As PICs, they are required to comply with the provisions of the Data Privacy Act of 2012  
-(DPA), its Implementing Rules and Regulations (IRR), and other issuances of the National  
+As PICs, they are required to comply with the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]  
+([[laws/data-privacy-act-of-2012|DPA]]), its Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and other issuances of the National  
 Privacy Commission (NPC), which includes respecting and upholding data subject rights.
 
 SECTION 3. Processing personal data for COVID-19 prevention and control. – Processing  
 personal data pursuant to or as may be required under a law or regulation to support the  
-government’s COVID-19 response is allowed under the DPA.
+government’s COVID-19 response is allowed under the [[laws/data-privacy-act-of-2012|DPA]].
 
 To ensure the protection of personal data, establishments shall adhere to the general data  
 privacy principles of transparency, legitimate purpose, and proportionality, implement  
@@ -105,7 +101,7 @@ Workplace Prevention and Control of COVID-19, JOINT MEMORANDUM CIRCULAR NO. 20-0
                    h) the duration for which data will be kept, which shall be for thirty (30) days  
                       for data collected through the employee health declaration form and  
                       client/visitor contact tracing form;4 and  
-                   i) the existence of rights available to the data subjects under the DPA,
+                   i) the existence of rights available to the data subjects under the [[laws/data-privacy-act-of-2012|DPA]],
 
 2  
   See: DTI-DOLE JMC No. 20-04, Annex A-1: Employee Health Declaration Form and Annex A-2: Client /Visitor Contact Tracing  
@@ -153,7 +149,7 @@ Checklist of Annex A: Customer Information and Health Checklist of DTI Memorandu
 
    E. Establishments shall be responsible for reminding their employees and third-party  
       service providers, such as security personnel, that using the collected personal data of  
-      employees, customers, or visitors for any other purpose is punishable under the DPA.
+      employees, customers, or visitors for any other purpose is punishable under the [[laws/data-privacy-act-of-2012|DPA]].
 
 SECTION 5. General guidelines. – The following guidelines are provided to ensure the  
 implementation of reasonable and appropriate safeguards in the processing of personal data  
@@ -423,7 +419,7 @@ entitled “Interim Guidelines on Health Care Provider Network during the COVID-
          including back up data, to ensure that stored personal data are beyond recovery. A  
          Data Disposal Policy shall be implemented accordingly.
 
-SECTION 6. Data subject rights. — The rights and redresses under the DPA are available to  
+SECTION 6. Data subject rights. — The rights and redresses under the [[laws/data-privacy-act-of-2012|DPA]] are available to  
 the employees, clients/customers, visitors, and their close contacts. Establishments and
 
 10  
@@ -446,12 +442,9 @@ Approved:
                  SGD.                                             SGD.  
     LEANDRO ANGELO Y. AGUIRRE                            JOHN HENRY D. NAGA  
       Deputy Privacy Commissioner                      Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Analysis and metadata]]
 - Raw source text: [[sources/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-No.-2020-03-FINAL.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

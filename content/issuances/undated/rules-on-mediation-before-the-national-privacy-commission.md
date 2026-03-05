@@ -1,5 +1,5 @@
 ---
-title: "Rules on Mediation before the National Privacy Commission"
+title: "Rules on Mediation before the National Privacy Commission (Circular No. 18-03)"
 description: "Section 1. Application and Interpretation. – In applying and construing the provisions of these Rules, consideration must be given to the need to promote candor among the parties, the confidentiality of the mediation process, and the independence of the determination and..."
 aliases:
   - "Circular No. 18-03"
@@ -14,17 +14,12 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 2bb8fe234785930f0fdf9b9828c9e3ed23232e60 -->
-NPC Circular 18-03
 
-DATE           :      18 December 2018
+**Circular No. 18-03**
 
-SUBJECT        :      RULES ON MEDIATION BEFORE THE NATIONAL PRIVACY  
                       COMMISSION
 
-        Pursuant to the authority vested in the National Privacy Commission through Section  
-7(b) of Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012,” to facilitate  
+        Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#Section 7(b)|Section 7(b) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],” to facilitate  
 or enable settlement of complaints through the use of alternative dispute resolution processes; and  
 consistent with Republic Act No. 9285, otherwise known as the “Alternative Dispute Resolution  
 Act of 2004,” declaring it the policy of the State to actively promote party autonomy in the  
@@ -32,8 +27,7 @@ resolution of disputes and the freedom of the parties to make their own arrangem
 their disputes, the following Rules on Mediation before the National Privacy Commission are  
 hereby prescribed and promulgated.
 
-                                       RULE I  
-                               PRELIMINARY PROVISIONS
+## RULE I PRELIMINARY PROVISIONS
 
 Section 1. Application and Interpretation. – In applying and construing the provisions of  
 these Rules, consideration must be given to the need to promote candor among the  
@@ -64,8 +58,7 @@ Section 3. Definition of Terms. –
    f. Mediation Officer – refers to the personnel of the Legal Division assigned or  
       designated by the Commission to conduct mediation.
 
-                                        RULE II  
-                                      PROCEDURE
+## RULE II PROCEDURE
 
 Section 1. Willingness to Mediate. – The parties, by mutual agreement, may signify their  
 interest to explore the possibility of settling the dispute by mediation during the  
@@ -160,8 +153,7 @@ Section 12. Field Mediation. – The personnel of the Legal Division shall be au
 conduct mediation proceedings between parties during the conduct of regional discovery  
 conferences by the Complaints and Investigation Division.
 
-                                     RULE III  
-                               GENERAL PROVISIONS
+## RULE III GENERAL PROVISIONS
 
 Section 1. Personal Appearance by the Parties. – Individual parties are required to  
 personally appear during mediation conferences. Representatives may appear on behalf  
@@ -223,8 +215,7 @@ Complainants may be exempted from the payment of the mediation fee and enter int
 mediation proceedings as indigents upon submission of a certificate of indigency issued  
 by the barangay captain at their place of residence.
 
-                                    RULE IV  
-                           MISCELLANEOUS PROVISIONS
+## RULE IV MISCELLANEOUS PROVISIONS
 
 Section 1. Amendments. – These Rules or any portion thereof may be amended or  
 supplemented by the Commission.
@@ -248,9 +239,7 @@ Approved:
               IVY D. PATDU                         LEANDRO ANGELO Y. AGUIRRE  
        Deputy Privacy Commissioner                   Deputy Privacy Commissioner
 
-Date: 18 December 2018
-
-                                                                       ANNEX “A”
+## ANNEX “A”
 
 Complainant/s                                                  CID Case No.
 
@@ -297,7 +286,7 @@ attached hereto.
                                                   ____________________________________  
                                                   Investigating Officer
 
-                                                                     ANNEX “B”
+## ANNEX “B”
 
 Complainant/s                                                 CID Case No.
 
@@ -320,7 +309,7 @@ preside over the mediation proceedings, on (date) __________________________ at 
 _______________ at the office of the National Privacy Commission, 5th floor PICC  
 Delegation Building, CCP Complex, Pasay City.
 
-      SO ORDERED.
+SO ORDERED.
 
       City of Pasay, (date) ____________________.
 
@@ -334,7 +323,7 @@ LD ADR Case No.
 ____________________________________  
 Mediation Officer
 
-                                                                    ANNEX “C”
+## ANNEX “C”
 
 Complainant/s                                                LD ADR Case No.
 
@@ -357,14 +346,14 @@ conference.
 __________________________     at   (time)   _______________    at   the   (place)  
 __________________________________________________________.
 
-      SO ORDERED.
+SO ORDERED.
 
       City of Pasay, (date) ____________________.
 
                                                 ____________________________________  
                                                 Mediation Officer
 
-                                                                     ANNEX “D”
+## ANNEX “D”
 
 Complainant/s                                                 LD ADR Case No.
 
@@ -435,7 +424,7 @@ Signature over printed name                    Signature over printed name
 ____________________________________           ____________________________________  
 Signature over printed name                    Signature over printed name
 
-                                                                     ANNEX “E”
+## ANNEX “E”
 
 Complainant/s                                                 LD ADR Case No.
 
@@ -478,7 +467,7 @@ confirmation by the Commission.
                                                  ____________________________________  
                                                  Mediation Officer
 
-                                                                      ANNEX “F”
+## ANNEX “F”
 
 Complainant/s                                                  LD ADR Case No.
 
@@ -497,14 +486,14 @@ for two (2) consecutive mediation conferences/caucuses.
        ____ Failure of respondent/s to appear without prior notice and justifiable reason  
 for two (2) consecutive mediation conferences/caucuses.
 
-      SO ORDERED.
+SO ORDERED.
 
       City of Pasay, (date) ____________________.
 
                                                   ____________________________________  
                                                   Mediation Officer
 
-                                                                       ANNEX “G”
+## ANNEX “G”
 
 Complainant/s                                                   CID Case No.
 
@@ -513,7 +502,7 @@ Complainant/s                                                   CID Case No.
 __________________________________________  
 Respondent/s
 
-             ORDER FOR RESUMPTION OF COMPLAINT PROCEEDINGS
+## ORDER FOR RESUMPTION OF COMPLAINT PROCEEDINGS
 
        On (date) _________________, Atty./Mr./Ms. ______________________________,  
 as mediation officer, issued a Notice of Non-Settlement of Dispute between the parties in  
@@ -528,18 +517,15 @@ resumption of the complaint proceedings on (date) __________________________ at
 (time) _______________ at the office of the National Privacy Commission, 5th floor PICC  
 Delegation Building, CCP Complex, Pasay City.
 
-         SO ORDERED.
+SO ORDERED.
 
          City of Pasay, (date) ____________________.
 
                                                    ____________________________________  
                                                    Investigating Officer
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/undated/rules-on-mediation-before-the-national-privacy-commission|Analysis and metadata]]
 - Raw source text: [[sources/undated/rules-on-mediation-before-the-national-privacy-commission|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-03_RulesonMediationwAnnexes.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

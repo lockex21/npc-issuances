@@ -1,5 +1,5 @@
 ---
-title: "Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras"
+title: "Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras (Circular No. 2025-01)"
 description: "SUBJECT : GUIDELINES ON THE PROCESSING OF PERSONAL DATA COLLECTED USING BODY-WORN CAMERAS"
 aliases:
   - "Circular No. 2025-01"
@@ -15,6 +15,9 @@ draft: false
 ---
 
 ## Issuance Text
+
+**Circular No. 2025-01**
+
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
 <!-- SEEDED ANNOTATED HASH: 694ac49b052fc2c82334e14461347d0544cf84c3 -->
 NPC Circular No. 2025 - 01

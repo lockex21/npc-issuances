@@ -12,8 +12,6 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: d9f80ae3b06615881c762c85366da6c4a6d22406 -->
                                                ADVISORY
 
 In view of the forthcoming migration of the online payments for fees and charges imposed  
@@ -68,13 +66,12 @@ For any questions, please send them to info@privacy.gov.ph
                             ATTY. MARIA THERESITA E. PATULA  
                                  Chairperson, NPC Fees Committee
 
-                                            15 March 2024
-<!-- END MANUAL ANNOTATED TEXT -->
+## Footnotes
+
+[^15]: March 2024
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2024/online-payment|Analysis and metadata]]
 - Raw source text: [[sources/2024/online-payment|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/03/Fees_Advisory_Final_15-March-2024.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

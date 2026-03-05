@@ -1,5 +1,5 @@
 ---
-title: "Guidance For The Use Of The ASEAN Model Contract Clauses And ASEAN Data Management Framework"
+title: "Guidance For The Use Of The ASEAN Model Contract Clauses And ASEAN Data Management Framework (Advisory No. 2021)"
 description: "SUBJECT : GUIDANCE FOR THE USE OF THE ASEAN MODEL CONTRACT CLAUSES AND ASEAN DATA MANAGEMENT FRAMEWORK"
 aliases:
   - "Advisory No. 2021"
@@ -14,26 +14,22 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: a00acf8d249a4faad2fe4aa487d66f427189d20b -->
-NPC Advisory No. 2021 - 02
 
-DATE                   :   28 June 2021
+**Advisory No. 2021**
 
-SUBJECT                :   GUIDANCE FOR THE USE OF THE ASEAN MODEL CONTRACT  
                            CLAUSES AND ASEAN DATA MANAGEMENT FRAMEWORK
 
-WHEREAS, Republic Act No. 10173, also known as the Data Privacy Act of 2012, provides  
+WHEREAS, [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], provides  
 that it is the policy of the State to protect the fundamental human right of privacy of commu-  
 nication while ensuring free flow of information to promote innovation and growth. The State  
 also recognizes its inherent obligation to ensure that personal information in information and  
 communications systems in the government and in the private sector are secured and pro-  
-tected;1
+tected;[^1]
 
 WHEREAS, the National Privacy Commission has the mandate to ensure proper and effective  
 coordination with data privacy regulators in other countries and private accountability  
 agents, and participate in international and regional initiatives for data privacy protection,  
-such as the Association of Southeast Nations (ASEAN);2
+such as the Association of Southeast Nations (ASEAN);[^2]
 
 WHEREAS, the ASEAN Digital Ministers (ADGMIN), with a view to enable harmonized  
 standards for data management and cross border data flows within ASEAN and to enable  
@@ -51,16 +47,12 @@ issues this advisory on the use of the ASEAN Model Contract Clauses and ASEAN Da
 agement Framework.
 
 SECTION 1. Scope. – This Advisory applies to all natural or juridical persons engaged in the  
-processing of personal data, subject to the applicable provisions of the Data Privacy Act of  
-2012 (DPA), its Implementing Rules and Regulations (IRR), and issuances by the National  
+processing of personal data, subject to the applicable provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), its Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and issuances by the National  
 Privacy Commission (NPC).
 
-1 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
-Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012],  
-Republic Act No. 10173 (2012), § 2.  
-2 Id., § 7(n).  
-3 ASEAN Member States include Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Sin-
+Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],  
+[[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012), § 2.  
 
 gapore, Thailand, and Viet Nam
 
@@ -77,14 +69,13 @@ ASEAN MCCs.
 SECTION 4. Definition of Terms. — Whenever used in this Advisory, the following terms  
 shall have their respective meanings as hereinafter set forth:
 
-    A. “Act” or “DPA” refers to Republic Act No. 10173, otherwise known as the Data Privacy  
-       Act of 2012;
+    A. “Act” or “[[laws/data-privacy-act-of-2012|DPA]]” refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
     B. “Data Management System” refers to a system which is concerned with the organiza-  
-       tion and control of data;4
+       tion and control of data;[^4]
 
     C. “Data Governance” refers to development and enforcement of policies related to the  
-       management of data;5
+       management of data;[^5]
 
     D. “Personal data” refers to personal information and sensitive personal information;
 
@@ -101,7 +92,7 @@ shall have their respective meanings as hereinafter set forth:
              nection with the individual’s personal, family or household affairs.
 
          There is control if the natural or juridical person or any other body decides on what  
-         information is collected, or the purpose or extent of its processing;6
+         information is collected, or the purpose or extent of its processing;[^6]
 
     F. “Personal information processor” or “PIP” refers to any natural or juridical person or  
        any other body to whom a PIC may outsource or instruct the processing of personal  
@@ -109,22 +100,17 @@ shall have their respective meanings as hereinafter set forth:
 
     G. “Processing” refers to any operation or any set of operations performed upon personal
 
-4  ISO, ISO/IEC TR 10032:2003(en) Information technology — Reference Model of Data Management, available at  
-[https://www.iso.org/obp/ui/#iso:std:iso-iec:38505:-1:ed-1:v1:en](https://www.iso.org/obp/ui/#iso:std:iso-iec:38505:-1:ed-1:v1:en) (last accessed April 15, 2021).  
-5 ISO, ISO 8000-2:2020(en) Data quality — Part 2: Vocabulary, available at [https://www.iso.org/obp/ui/#iso:std:iso:8000:-](https://www.iso.org/obp/ui/#iso:std:iso:8000:-)
 
-2:ed-4:v1:en:term:3.16.1 (last accessed April 15, 2021).  
-6 Data Privacy Act of 2012, § 3 (m).  
-7 Data Privacy Act of 2012, § 3 (n).
+2:ed-4:v[^1]:en:term:3.16.1 (last accessed April 15, 2021).  
 
            data including, but not limited to, the collection, recording, organization, storage, up-  
            dating or modification, retrieval, consultation, use, consolidation, blocking, erasure or  
-           destruction of data;8
+           destruction of data;[^8]
 
 SECTION 5. ASEAN Model Contract Clauses (MCCs) and ASEAN Data Management Frame-  
 work (DMF). — The ASEAN MCCs and ASEAN DMF are vital resources and tools for ASEAN  
 businesses to use in their data-related business operations and help build trust, transparency,  
-and accountability.9
+and accountability.[^9]
 
      A. The ASEAN MCCs are contractual terms and conditions that may be included in the  
         binding legal agreements between parties or entities transferring personal information  
@@ -139,13 +125,13 @@ and accountability.9
               MCCs in the transfer of personal data to other parties in other AMS.
 
            2. ASEAN MCCs may also be used by companies or organizations to fulfill its obli-  
-              gations under Section 21 of the DPA as one of the contractual or other reasonable  
+              gations under [[laws/data-privacy-act-of-2012#Section 21|Section 21 of the DPA]] as one of the contractual or other reasonable  
               means to provide a comparable level of protection while personal data are being  
               processed by a third party.
 
            3. Parties may, by written agreement, adopt or modify the ASEAN MCCs in accord-  
               ance with the principles set forth in the ASEAN Framework on Personal Data Pro-  
-              tection (2016) or as required by the DPA, its IRR and other relevant issuances of  
+              tection (2016) or as required by the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and other relevant issuances of  
               the NPC.
 
            4. Parties are not precluded from negotiating the terms or adding clauses as appro-  
@@ -165,8 +151,6 @@ and accountability.9
                 c) Data inventory  
                 d) Impact / Risk assessment
 
-8 Id. § 3(o).  
-9 The ASEAN MCCs can be accessed at [https://asean.org/storage/3-ASEAN-Model-Contractual-Clauses-for-Cross-Border-](https://asean.org/storage/3-ASEAN-Model-Contractual-Clauses-for-Cross-Border-)
 
 Data-Flows_Final.pdf and the ASEAN DMF document at [https://asean.org/storage/2-ASEAN-Data-Management-Frame-](https://asean.org/storage/2-ASEAN-Data-Management-Frame-)  
 work_Final.pdf
@@ -190,7 +174,7 @@ work_Final.pdf
 
    C. Annex A provides for Frequently Asked Questions on the ASEAN MCCs and DMF.
 
-SECTION 6. Effect. — The ASEAN MCCs and ASEAN DMF do not amend the DPA, its IRR,  
+SECTION 6. Effect. — The ASEAN MCCs and ASEAN DMF do not amend the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]],  
 and other related issuances of the NPC, and shall neither preclude, limit, nor constrain NPC’s  
 exercise of its regulatory rights, powers, and discretion.
 
@@ -208,7 +192,7 @@ Approved:
     LEANDRO ANGELO Y. AGUIRRE                             JOHN HENRY D. NAGA  
       Deputy Privacy Commissioner                       Deputy Privacy Commissioner
 
-                                             ANNEX A
+## ANNEX A
 
                      FAQs on the ASEAN MCCs and DMF  
 Background
@@ -252,7 +236,6 @@ ASEAN Model Contract Clauses (ASEAN MCCs)
    measures, and related obligations of the parties based on the ASEAN Framework on  
    Personal Data Protection (2016).
 
-                   5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307
 
 2. Is the use of the ASEAN MCCs mandatory?
 
@@ -325,11 +308,11 @@ ASEAN Model Contract Clauses (ASEAN MCCs)
    as agreed upon. There are also clauses as to the applicable law, should there be disputes  
    between the parties.
 
-10. Will the adoption of ASEAN MCCs amend the DPA, its IRR and related issuances?
+10. Will the adoption of ASEAN MCCs amend the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and related issuances?
 
-   The ASEAN MCCs do not amend the DPA, its IRR, and other related issuances of the  
+   The ASEAN MCCs do not amend the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other related issuances of the  
    National Privacy Commission (NPC). Rather, it may be used by companies to fulfill their  
-   obligations under Section 21 of the DPA as one of the contractual or other reasonable  
+   obligations under [[laws/data-privacy-act-of-2012#Section 21|Section 21 of the DPA]] as one of the contractual or other reasonable  
    means to provide a comparable level of protection while personal data are being processed  
    by a third party. Likewise, nothing in the MCCs shall preclude, limit, or constrain NPC’s  
    exercise of its regulatory rights, powers, and discretion.
@@ -382,26 +365,34 @@ ASEAN Data Management Framework (ASEAN DMF)
    datasets they have, assign it with the appropriate categories, manage their data, and  
    protect it accordingly in compliance with relevant regulations.
 
-6. Will the adoption of ASEAN DMF amend the DPA, its IRR and related issuances?
+6. Will the adoption of ASEAN DMF amend the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and related issuances?
 
    The adoption of the DMF does not require additions or amendments to existing domestic  
    laws and regulations. They do not create additional rights or obligations under the  
    domestic or international law of AMS.
 
-7. Will the NPC consider compliance with the ASEAN DMF as compliance with the DPA, its  
-   IRR and related issuances?
+7. Will the NPC consider compliance with the ASEAN DMF as compliance with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and related issuances?
 
    The DMF provides organizations with practical guidance to enable them to build their  
    own policies and procedures using a risk-based data management methodology. The  
    DMF is designed to provide voluntary and non-binding guidance based on best practices  
    in the area of data management for businesses within AMS. The content should not be  
    read as legal advice, nor construed as a tool for compliance to any law or regulation.
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
+[^2]: Id., § 7(n).
+[^3]: ASEAN Member States include Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Sin-
+[^4]: ISO, ISO/IEC TR 10032:2003(en) Information technology — Reference Model of Data Management, available at [https://www.iso.org/obp/ui/#iso:std:iso-iec:38505:-1:ed-1:v1:en](https://www.iso.org/obp/ui/#iso:std:iso-iec:38505:-1:ed-1:v1:en) (last accessed April 15, 2021).
+[^5]: ISO, ISO 8000-2:2020(en) Data quality — Part 2: Vocabulary, available at [https://www.iso.org/obp/ui/#iso:std:iso:8000:-](https://www.iso.org/obp/ui/#iso:std:iso:8000:-)
+[^6]: Data Privacy Act of 2012, § 3 (m).
+[^7]: Data Privacy Act of 2012, § 3 (n).
+[^8]: Id. § 3(o).
+[^9]: The ASEAN MCCs can be accessed at [https://asean.org/storage/3-ASEAN-Model-Contractual-Clauses-for-Cross-Border-](https://asean.org/storage/3-ASEAN-Model-Contractual-Clauses-for-Cross-Border-)
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Analysis and metadata]]
 - Raw source text: [[sources/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/06/Advisory-ASEAN-MCC-DMF_FINAL-signed.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

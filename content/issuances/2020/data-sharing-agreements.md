@@ -1,5 +1,5 @@
 ---
-title: "Data Sharing Agreements"
+title: "Data Sharing Agreements (Circular No. 2020-03)"
 description: "WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State recognizes the vital role of communication and information in nation-building. At the same time, Article II, Section 11 thereof emphasizes that the State values the dignity of every human person..."
 aliases:
   - "Circular No. 2020-03"
@@ -16,44 +16,37 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: e9a75b3a99090536a5efbfbbfce5a9d9ee212751 -->
-NPC Circular No. 2020-03
 
-DATE                :   23 December 2020
-
-SUBJECT             :   DATA SHARING AGREEMENTS
+**Circular No. 2020-03**
 
 WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State recognizes  
 the vital role of communication and information in nation-building. At the same time, Article  
 II, Section 11 thereof emphasizes that the State values the dignity of every human person and  
 guarantees full respect for human rights;
 
-WHEREAS, Section 2 of Republic Act No. 10173, also known as the Data Privacy Act of 2012,  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],  
 provides that it is the policy of the State to protect the fundamental human right of privacy of  
 communication while ensuring free flow of information to promote innovation and growth.  
 The State also recognizes its inherent obligation to ensure that personal information in  
 information and communications systems in the government and in the private sector are  
 secured and protected;
 
-WHEREAS, Section 21(a) of the Data Privacy Act of 2012 states that a personal information  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 21(a)|Section 21(a) of the DPA]] states that a personal information  
 controller is accountable for complying with the requirements of the law and shall use  
 contractual or other reasonable means to provide a comparable level of protection while the  
 information are being processed by a third party;
 
-WHEREAS, Section 20 of the Implementing Rules and Regulations of the Data Privacy Act of  
-2012 provides that further processing of personal data collected from a party other than the  
+WHEREAS, Section 20 of the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] provides that further processing of personal data collected from a party other than the  
 data subject shall be allowed under certain conditions;
 
-WHEREAS, pursuant to Section 7 of the Data Privacy Act of 2012, the National Privacy  
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the National Privacy  
 Commission is charged with the administration and implementation of the provisions of the  
 law, which includes ensuring the compliance by personal information controllers with the  
 provisions of the Act, and carrying out efforts to formulate and implement plans and policies  
 that strengthen the protection of personal information in the country, in coordination with  
 other government agencies and the private sector;
 
-WHEREAS, Section 9 of the Implementing Rules and Regulations of the Data Privacy Act of  
-2012 provides that, among the Commission’s functions, is to develop, promulgate, review or  
+WHEREAS, Section 9 of the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] provides that, among the Commission’s functions, is to develop, promulgate, review or  
 amend rules and regulations for the effective implementation of the Act;
 
 issues this Circular governing data sharing agreements.
@@ -68,8 +61,7 @@ It excludes arrangements between a PIC and a personal information processor (PIP
 SECTION 2. Definition of Terms. — For the purpose of this Circular, the following terms are  
 defined, as follows:
 
-   A. “Act” or “DPA” refers to Republic Act No. 10173, also known as the Data Privacy Act  
-      of 2012;
+   A. “Act” or “[[laws/data-privacy-act-of-2012|DPA]]” refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
    B. “Commission” or “NPC” refers to the National Privacy Commission;
 
@@ -90,7 +82,7 @@ defined, as follows:
       so;
 
    E. “Data Protection Officer” or “DPO” refers to an individual designated by the head of  
-      agency or organization to be accountable for its compliance with the Act, its IRR, and  
+      agency or organization to be accountable for its compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and  
       other issuances of the Commission: provided, that a government agency or private  
       entity may have more than one DPO;
 
@@ -125,7 +117,7 @@ J.   “Government Agency” refers to a government branch, body, or entity, inc
      government units, government-owned and controlled corporations, government  
      financial institutions, state colleges and universities;
 
-K. “IRR” refers to the Implementing Rules and Regulations of Republic Act No. 10173;
+K. “[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]” refers to the Implementing Rules and Regulations of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]];
 
 L. “Middleware” refers to any software or program that facilitates the exchange of data  
    between two applications or programs that are either within the same environment,  
@@ -196,7 +188,7 @@ among PICs only, and are governed by the following principles:
    A. Adherence to the data privacy principles of transparency, legitimate purpose, and  
       proportionality;
 
-   B. Fulfilment of all applicable requirements prescribed by the Act, its IRR, and other  
+   B. Fulfilment of all applicable requirements prescribed by the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other  
       issuances of the Commission;
 
    C. Recognition of and upholding the rights of affected data subjects, unless otherwise  
@@ -257,7 +249,7 @@ responsibilities of the parties, mechanisms through which data subjects may exer
 rights, among others.
 
 The execution of a DSA is a sound recourse and demonstrates accountable personal data  
-processing, as well as good faith in complying with the requirements of the DPA, its IRR, and  
+processing, as well as good faith in complying with the requirements of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and  
 issuances of the NPC. The Commission shall take this into account in case a complaint is filed  
 pertaining to such data sharing and/or in the course of any investigation relating thereto, as  
 well as in the conduct of compliance checks.
@@ -317,7 +309,7 @@ of a DSA:
          complaints by a data subject, and/or any investigation by the NPC: provided, that
 
           the NPC shall make the final determination as to which party is liable for any  
-          violation of the Act, its IRR, or any applicable NPC issuance; and  
+          violation of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any applicable NPC issuance; and  
        2. Procedure by which a data subject can access or obtain a copy of the DSA: provided,  
           that the parties may redact or prevent the disclosure of trade or industrial secrets,  
           confidential and proprietary business information, and any other detail or  
@@ -349,7 +341,7 @@ maintain a record of its data sharing arrangements, including the following:
 
 Such record will allow the effective management of the PIC’s third-party engagements. It  
 should be kept accurate and up to date to allow the PIC to address any related inquiries and  
-to demonstrate its compliance with the DPA.
+to demonstrate its compliance with the [[laws/data-privacy-act-of-2012|DPA]].
 
 SECTION 11. Security of shared personal data. —Adequate safeguards to protect personal  
 data should be put in place in every data sharing arrangement, subject to the conditions set  
@@ -360,7 +352,7 @@ secure through the use of any appropriate program, software, or any other approp
 such as the use of a secure encrypted link or a middleware.
 
 SECTION 12. Accountability. — All parties to a data sharing arrangement should comply  
-with the Act, its IRR, this Circular, and all applicable issuances of the Commission. Subject to  
+with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], this Circular, and all applicable issuances of the Commission. Subject to  
 the terms of the DSA, each party will be responsible for any personal data under its control or  
 custody, including those where the processing has been outsourced or subcontracted to a PIP.  
 This extends to personal data each party shares with or transfers to a third party located  
@@ -408,7 +400,7 @@ SECTION 16. Termination. — A data sharing may be terminated:
 
 Nothing in this Section prevents the Commission from ordering motu proprio the termination  
 of any data sharing, whether or not covered by a DSA, when a party is determined to have  
-violated the Act, its IRR, or any applicable issuance by the Commission.
+violated the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any applicable issuance by the Commission.
 
 SECTION 17. Return, destruction, or disposal of transferred personal data. — Unless  
 otherwise provided by the DSA, all personal data transferred to other parties by virtue of a  
@@ -437,7 +429,7 @@ SECTION 19. Separability Clause. — If any portion or provision of this Circula
 invalid or unconstitutional, the other provisions not affected thereby shall continue to be in  
 force and effect.
 
-SECTION 20. Repealing Clause. —This Circular supersedes in its entirety NPC Circular No. 16-02. The provisions of the IRR and all other issuances contrary to or inconsistent with the  
+SECTION 20. Repealing Clause. —This Circular supersedes in its entirety [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]]. The provisions of the IRR and all other issuances contrary to or inconsistent with the  
 provisions of this Circular are deemed repealed or modified accordingly.
 
 SECTION 21. Effectivity. —This Circular takes effect fifteen (15) days after its publication in  
@@ -452,12 +444,9 @@ Approved:
                   SGD.                                             SGD.  
      LEANDRO ANGELO Y. AGUIRRE                           JOHN HENRY D. NAGA  
        Deputy Privacy Commissioner                      Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2020/data-sharing-agreements|Analysis and metadata]]
 - Raw source text: [[sources/2020/data-sharing-agreements|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/01/Circular-Data-Sharing-Agreement-amending-16-02-21-Dec-2020-clean-copy-FINAL-LYA-and-JDN-signed-minor-edit.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

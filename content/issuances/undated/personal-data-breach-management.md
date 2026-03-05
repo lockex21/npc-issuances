@@ -1,5 +1,5 @@
 ---
-title: "Personal Data Breach Management"
+title: "Personal Data Breach Management (Circular No. 16-03)"
 description: "WHEREAS, the Philippine Constitution guarantees respect for the right to privacy, including information privacy, accorded recognition as inherent in the freedoms enjoyed by every Filipino, and at the same time, Article II, Section 11 of the Constitution emphasizes that the..."
 aliases:
   - "Circular No. 16-03"
@@ -15,12 +15,8 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: f11168fecbc1cb2b88ffb31931fc9c4da9c45e20 -->
-NPC Circular 16-03
 
-DATE               :   15 December 2016  
-SUBJECT            :   PERSONAL DATA BREACH MANAGEMENT
+**Circular No. 16-03**
 
         WHEREAS, the Philippine Constitution guarantees respect for the right to privacy,  
 including information privacy, accorded recognition as inherent in the freedoms enjoyed by  
@@ -30,7 +26,7 @@ rights;
 
         WHEREAS, Article II, Section 24, of the Constitution provides that the State recognizes  
 the vital role of communication and information in nation-building, and Section 2 of Republic  
-Act No. 10173, also known as the Data Privacy Act of 2012, provides that it is the policy of the  
+Act No. 10173, also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], provides that it is the policy of the  
 State to protect the fundamental human right of privacy of communication while ensuring free  
 flow of information to promote innovation and growth;
 
@@ -56,8 +52,7 @@ notification requirements;
        WHEREFORE, in consideration of these premises, the National Privacy Commission  
 hereby issues this Circular governing personal data breach management.
 
-                                        RULE I.  
-                                  GENERAL PROVISIONS
+## RULE I GENERAL PROVISIONS
 
 SECTION 1. Scope. These Rules apply to any natural and juridical person in the government or  
 private sector processing personal data in outside of the Philippines, subject to the relevant  
@@ -69,16 +64,15 @@ management and the procedure for personal data breach notification and other req
 SECTION 3. Definition of Terms. For the purpose of this Circular, the following terms are  
 defined, as follows:
 
-A.   “Act” refers to Republic Act No. 10173, otherwise known as the Data Privacy Act of  
-     2012;
+A.   “Act” refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
 C.   “Data Protection Officer” refers to an individual designated by the head of agency to  
      be accountable for the agency’s compliance with the Act: Provided, that the individual  
      must be an organic employee of the government agency: Provided further, that a  
      government agency may have more than one data protection officer;
 
-D.   “IRR” refers to the Implementing Rules and Regulations of Republic Act No. 10173,  
-     otherwise known as the Data Privacy Act of 2012;
+D.   “[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]” refers to the Implementing Rules and Regulations of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],  
+     otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
 E.   “Personal data” refers to all types of personal information;
 
@@ -136,8 +130,7 @@ L.   “Sensitive personal information” refers to personal information:
          4.   Specifically established by an executive order or an act of Congress to be kept  
               classified.
 
-                                     RULE II.  
-                          GUIDELINES FOR PERSONAL DATA  
+## RULE II GUIDELINES FOR PERSONAL DATA
                               BREACH MANAGEMENT
 
 SECTION 4. Security Incident Management Policy. A personal information controller or  
@@ -160,7 +153,7 @@ must ensure:
    D.    Mitigation of possible harm and negative consequences to a data subject in the event of  
          a personal data breach; and
 
-   E.    Compliance with the Act, its IRR, and all related issuances by the Commission  
+   E.    Compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all related issuances by the Commission  
          pertaining to personal data breach notification.
 
 SECTION 5. Data Breach Response Team. A personal information controller or personal  
@@ -176,7 +169,7 @@ The team shall be responsible for the following:
    B.    Management of security incidents and personal data breaches; and
 
    C.    Compliance by the personal information controller or personal information processor  
-         with the relevant provisions of the Act, its IRR, and all related issuances by the  
+         with the relevant provisions of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all related issuances by the  
          Commission on personal data breach management.
 
 The team must be ready to assess and evaluate a security incident, restore integrity to the  
@@ -191,8 +184,7 @@ In cases where the Data Protection Officer is not part of the Data Breach Respon
 Data Breach Response Team shall submit a written report addressed to the Data Protection  
 Officer detailing the actions taken in compliance with these Rules.
 
-                                    RULE III.  
-                         GUIDELINES FOR THE PREVENTION  
+## RULE III GUIDELINES FOR THE PREVENTION
                            OF PERSONAL DATA BREACH
 
 SECTION 6. Preventive or Minimization Measures. A security incident management policy  
@@ -219,7 +211,7 @@ breach. Such safeguards may include:
          assessment, and evaluation of the effectiveness of the security measures.
 
 SECTION 7. Availability, Integrity and Confidentiality of Personal Data. The implementation  
-of security measures shall be in accordance with the Act, its IRR, and other issuances of the  
+of security measures shall be in accordance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the  
 Commission. The security measures should be directed to ensuring the availability, integrity,  
 and confidentiality of the personal data being processed, and may include:
 
@@ -231,8 +223,7 @@ and confidentiality of the personal data being processed, and may include:
 
    D.    Data disposal and return of assets policy.
 
-                                    RULE IV.  
-                       GUIDELINES FOR INCIDENT RESPONSE  
+## RULE IV GUIDELINES FOR INCIDENT RESPONSE
                             POLICY AND PROCEDURE
 
 SECTION 8. Policies and Procedures. The personal information controller or personal  
@@ -302,8 +293,7 @@ person designated by the Chief Executive Officer or the Head of Agency, as the c
 The date of the last review and the schedule for the next succeeding review must always be  
 indicated in the documentation of the incident response policy and procedure.
 
-                                  RULE V.  
-                   PROCEDURE FOR PERSONAL DATA BREACH  
+## RULE V PROCEDURE FOR PERSONAL DATA BREACH
                    NOTIFICATION AND OTHER REQUIREMENTS
 
 SECTION 11. When notification is required. Notification shall be required upon knowledge of  
@@ -574,10 +564,8 @@ Approved:
                                 (Sgd.) RAYMUND E. LIBORO  
                                     Privacy Commissioner
 
-           (Sgd.) IVY D. PATDU                       (Sgd.)DAMIAN DOMINGO O. MAPA  
+(Sgd.) IVY D. PATDU                       (Sgd.)DAMIAN DOMINGO O. MAPA
         Deputy Privacy Commissioner                      Deputy Privacy Commissioner
-
-Date: December 15, 2016
 
                                         Summary
 
@@ -628,12 +616,9 @@ Other requirements             Cooperate with the Commission           where    
 
                                Documentation of all security incidents and the submission of  
                                an annual report to the Commission.
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/undated/personal-data-breach-management|Analysis and metadata]]
 - Raw source text: [[sources/undated/personal-data-breach-management|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/sgd-npc-circular-16-03-personal-data-breach-management.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

@@ -1,5 +1,5 @@
 ---
-title: "Guidelines on Consent"
+title: "Guidelines on Consent (Circular No. 2023-04)"
 description: "WHEREAS, under Section 9 of the Implementing Rules and Regulations of the DPA (IRR), the NPC is mandated to, among others, develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;"
 aliases:
   - "Circular No. 2023-04"
@@ -15,6 +15,9 @@ draft: false
 ---
 
 ## Issuance Text
+
+**Circular No. 2023-04**
+
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
 <!-- SEEDED ANNOTATED HASH: 9f5a9c193a2a603c3a8ed791c7b7d4bad1bef980 -->
 NPC Circular No. 2023 - 04

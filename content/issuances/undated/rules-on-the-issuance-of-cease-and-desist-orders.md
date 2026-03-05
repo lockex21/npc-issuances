@@ -1,5 +1,5 @@
 ---
-title: "Rules on the Issuance of Cease and Desist Orders"
+title: "Rules on the Issuance of Cease and Desist Orders (Circular No. 20-02)"
 description: "Section 3. Definition of Terms. - A. “Adverse Party” refers to a party against whom a Cease and Desist Order is sought. B. “Aggrieved Party” refers to a data subject who claims to be the subject of a privacy violation or personal data breach, including the latter’s duly..."
 aliases:
   - "Circular No. 20-02"
@@ -15,21 +15,19 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: b96b899d88ef028a9f47e30605fa342965f0a234 -->
-[[issuances/1988/faqs|NPC Circular No. 20-02]]
+
+**Circular No. 20-02**
 
                             RULES ON THE ISSUANCE OF  
                             CEASE AND DESIST ORDERS
 
         Pursuant to the authority vested in the National Privacy Commission through  
-Section 7(c) of Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012,”  
-(DPA) to issue cease and desist orders on the processing of personal data, the following Rules  
+[[laws/data-privacy-act-of-2012#Section 7(c)|Section 7(c) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],”  
+([[laws/data-privacy-act-of-2012|DPA]]) to issue cease and desist orders on the processing of personal data, the following Rules  
 on the Issuance of Cease and Desist Orders of the National Privacy Commission are hereby  
 prescribed and promulgated:
 
-                                     RULE I  
-                             PRELIMINARY PROVISIONS
+## RULE I PRELIMINARY PROVISIONS
 
 Section 1. Title. - These Rules shall be known as the Rules on the Issuance of Cease  
 and Desist Orders of the National Privacy Commission, or the “Rules”.
@@ -51,11 +49,11 @@ Section 3. Definition of Terms. -
    D. “Cease and Desist Order” or “CDO” refers to a type of injunction that  
       requires a natural or juridical person to stop its complained act of processing  
       personal information or the conduct of any act or practice in violation of the  
-      Data Privacy Act of 2012 (DPA).  
+      [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]).  
    E. “Commission” refers to the Privacy Commissioner and the two (2) Deputy  
       Privacy Commissioners, acting as a collegial body.  
    F. “Complaints and Investigation Division” or “CID” refers to the Division of  
-      conduct investigations regarding violations of the DPA, its Implementing
+      conduct investigations regarding violations of the [[laws/data-privacy-act-of-2012|DPA]], its Implementing
 
                                          Page 1 of 7
 
@@ -63,12 +61,11 @@ Section 3. Definition of Terms. -
       of the rights of data subjects and other matters affecting personal data.  
    G. “Compliance and Monitoring Division” or “CMD” refers to the Division of  
       compliance of personal information controllers (PICs) and personal  
-      information processors (PIPs) to ensure effective implementation of the DPA,  
-      its IRR and other related issuances.  
+      information processors (PIPs) to ensure effective implementation of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and other related issuances.  
    H. “Compliance Check” refers to the systematic and impartial evaluation of a  
       PIC or PIP, in whole or any part, process or aspect thereof, to determine  
       whether activities that involve the processing of personal data are carried out  
-      in accordance with the standards mandated by the DPA and other issuances  
+      in accordance with the standards mandated by the [[laws/data-privacy-act-of-2012|DPA]] and other issuances  
       of the Commission. It is an examination, which includes Privacy Sweeps,  
       Documents Submissions and On-Site Visits, as defined under NPC Circular  
       18-02, Guidelines on Compliance Checks, intended to determine whether a  
@@ -81,17 +78,16 @@ Section 3. Definition of Terms. -
    K. “Rules of Procedure” refers to NPC Circular 16-04 or the “Rules of Procedure  
       of the National Privacy Commission”, as may be amended.  
    L. “Sua Sponte Investigation” shall refer to an investigation initiated by the NPC  
-      itself for possible violation of the DPA by one or more entities.
+      itself for possible violation of the [[laws/data-privacy-act-of-2012|DPA]] by one or more entities.
 
-                                   RULE II  
-                           CEASE AND DESIST ORDER
+## RULE II CEASE AND DESIST ORDER
 
 Section 4. Grounds for the Issuance of Cease and Desist Order. – No CDO shall be  
 issued unless it is established by substantial evidence that all of the following  
 concur:
 
    A. the Adverse Party is doing, threatening or is about to do, is procuring to be  
-      done, some act or practice in violation of the DPA, its IRR, or other related  
+      done, some act or practice in violation of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or other related  
       issuances;  
    B. such act or practice is detrimental to national security or public interest, or the  
       CDO is necessary to preserve and protect the rights of a data subject; and  
@@ -211,8 +207,7 @@ Section 14. Not Stayed by Appeal. - The CDO shall not be stayed by an appeal tak
 therefrom or by a petition for certiorari, unless otherwise ordered by the appropriate  
 court, upon such terms as it may deem just.
 
-                                RULE III  
-                            MOTION TO LIFT  
+## RULE III MOTION TO LIFT
                     EXTENDED CEASE AND DESIST ORDER
 
 Section 15. Motion to Lift Extended CDO. - At any time during the effectivity of the  
@@ -248,8 +243,7 @@ within twelve (12) months from its lifting, subject to the penalties provided in
 Section 22 hereof. Beyond the said period, any future violation of the same adverse  
 party shall warrant the filing of a new application for the issuance of a CDO.
 
-                                  RULE IV  
-                         MISCELLANEOUS PROVISIONS
+## RULE IV MISCELLANEOUS PROVISIONS
 
 Section 19. Publication. The fact that a CDO has been issued and extended, after  
 giving the Adverse Party the opportunity to be heard, may be published when  
@@ -261,7 +255,7 @@ proceeding from the CDO proceeding.
 
 Section 21. Cumulative Remedy. – The remedy available under these Rules shall be  
 cumulative and in addition to, not exclusive of or in substitution for, any rights or  
-remedies available to the applicant under the DPA, its IRR or other related  
+remedies available to the applicant under the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] or other related  
 issuances: Provided, that when an applicant simultaneously or successively files an
 
                                       Page 6 of 7
@@ -306,12 +300,9 @@ LEANDRO ANGELO Y. AGUIRRE                                JOHN HENRY D. NAGA
 Deputy Privacy Commissioner                              Deputy Privacy Commissioner
 
                                       Page 7 of 7
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/undated/rules-on-the-issuance-of-cease-and-desist-orders|Analysis and metadata]]
 - Raw source text: [[sources/undated/rules-on-the-issuance-of-cease-and-desist-orders|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/NPC-Circular-20-02_Circular-Rules-on-CDO.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

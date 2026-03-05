@@ -1,5 +1,5 @@
 ---
-title: "2021 Rules of Procedure of the National Privacy Commission"
+title: "2021 Rules of Procedure of the National Privacy Commission (Circular No. 2021-01)"
 description: "SECTION 1. Title. – These Rules shall be known as the “2021 NPC Rules of Procedure”."
 aliases:
   - "2021 rules of procedure of the national privacy commission"
@@ -14,25 +14,19 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: b1e462975cab1965822450bf57c2fd5329f7b2fe -->
-NPC Circular No. 2021-01
 
-DATE          :      28 January 2021
+**Circular No. 2021-01**
 
-SUBJECT       :      2021 RULES OF PROCEDURE OF THE NATIONAL PRIVACY  
                      COMMISSION
 
-Pursuant to the authority vested in the National Privacy Commission through Section 7(b) of  
-Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012,” to receive  
+Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#Section 7(b)|Section 7(b) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],” to receive  
 complaints and institute investigations on matters affecting any personal information, the  
 following 2021 Rules of Procedure of the National Privacy Commission are hereby prescribed and  
 promulgated, repealing for this purpose [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] (Rules of Procedure) dated 15  
 December 2016 and [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|NPC Circular No. 18-03]] (Rules on Mediation before the National Privacy  
 Commission) dated 18 December 2018.
 
-                                      RULE I  
-                                GENERAL PROVISIONS
+## RULE I GENERAL PROVISIONS
 
 SECTION 1. Title. – These Rules shall be known as the “2021 NPC Rules of Procedure”.
 
@@ -47,7 +41,7 @@ before the NPC.
 SECTION 4. Definition of Terms. –
 
    a. AFFIRMATIVE DEFENSES – shall refer to any defense by the respondent which,  
-      if found to be credible, will negate liability under the Data Privacy Act of 2012,  
+      if found to be credible, will negate liability under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],  
       even if it is proven that the respondent in fact committed the alleged acts.
 
    b. BREACH INVESTIGATION – shall refer to an investigation conducted by the  
@@ -59,7 +53,7 @@ SECTION 4. Definition of Terms. –
 
      d. COMPLAINT INVESTIGATION – shall refer to an investigation conducted by  
         the NPC with respect to a formal complaint filed by a data subject or his/her  
-        representative for violation of the Data Privacy Act of 2012.
+        representative for violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
 
      e. COURIER – shall refer to any private mail carrier accredited by the Supreme  
         Court, the NPC, or by international conventions by which the Philippines is a  
@@ -74,12 +68,12 @@ SECTION 4. Definition of Terms. –
         untransformed electronic document and the signer’s public key can accurately  
         determine (1) whether the transformation was created using the private key that  
         corresponds to the signer’s public key” and (2) whether the initial electronic  
-        document had been altered after the transformation was made.1
+        document had been altered after the transformation was made.[^1]
 
      h. ELECTRONICALLY-STORED INFORMATION – refers to any information  
         which is received, recorded, transmitted, stored, processed, retrieved or produced  
         electronically. It shall include any print-out or output that accurately reflects the  
-        electronically-stored information.2
+        electronically-stored information.[^2]
 
      i. EVALUATING OFFICER – may refer to a member of the Compliance and  
         Monitoring Division (CMD) or a special committee or task force that may or may  
@@ -89,8 +83,6 @@ SECTION 4. Definition of Terms. –
           Investigation Division (CID) or a special committee or task force created that may  
           or may not include members from the CID created by order of the Commission.
 
-1 A.M. 01-7-01 (Re: Rules on Electronic Evidence)  
-2 See ibid.
 
     k. MEDIATION - refers to the voluntary process in which a mediation officer  
        facilitates communication and negotiation, and assists the parties in reaching a  
@@ -99,8 +91,7 @@ SECTION 4. Definition of Terms. –
     l. MEDIATION OFFICER - refers to the personnel assigned or designated by the  
        Commission to conduct mediation.
 
-    m. NPC – shall refer to the National Privacy Commission created under the Data  
-       Privacy Act of 2012.
+    m. NPC – shall refer to the National Privacy Commission created under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
 
     n. PERSONAL INFORMATION – refers to any information whether recorded in a  
        material form or not, from which the identity of an individual is apparent or can  
@@ -111,28 +102,25 @@ SECTION 4. Definition of Terms. –
     o. RULES – shall refer to the 2021 NPC Rules of Procedure unless otherwise stated.
 
     p. SUA SPONTE INVESTIGATION – shall refer to an investigation initiated by the  
-       NPC on its own for possible violation by one or more entities of the Data Privacy  
-       Act of 2012.
+       NPC on its own for possible violation by one or more entities of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
 
 SECTION 5. Enforcement Powers. – The Commission may use its enforcement powers  
 in the course of investigations to order cooperation of the subject of the investigation or  
 other interested individuals or entities; or to compel appropriate action to protect the  
 interests of data subjects.
 
-SECTION 6. Prescriptive Period of the Penal provision of the DPA – The Commission  
+SECTION 6. Prescriptive Period of the Penal provision of the [[laws/data-privacy-act-of-2012|DPA]] – The Commission  
 adopts the periods of prescription for violations penalized by specials acts as provided  
 under Act 33263 and any amendments thereto.
 
-3 Act 3326: An Act To Establish Periods Of Prescription For Violations Penalized By Special Acts And
 
 Municipal Ordinances And To Provide When Prescription Shall Begin To Run.
 
-                                      RULE II  
-                                    COMPLAINTS
+## RULE II COMPLAINTS
 
 SECTION 1. Who may file complaints. – Subject to Rule X of these Rules, data subjects  
 who are the subject of a privacy violation or personal data breach may file complaints for  
-violations of the Data Privacy Act of 2012: Provided, that a representative may file on  
+violations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]: Provided, that a representative may file on  
 behalf of a data subject if he/she is authorized by a special power of attorney.
 
 One or more data subjects may be represented by a single juridical entity: Provided, that  
@@ -155,8 +143,7 @@ has been sufficiently established and proven that:
 
 The NPC may waive any or all of the requirements of this Section at its discretion upon  
 (a) good cause shown, properly alleged and proved by the complainant; or (b) if the  
-allegations in the complaint involve a serious violation or breach of the Data Privacy Act  
-of 2012, taking into account the risk of harm to the affected data subject, including but  
+allegations in the complaint involve a serious violation or breach of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], taking into account the risk of harm to the affected data subject, including but  
 not limited to:
 
    i. when there is grave and irreparable damage which can only be prevented or  
@@ -185,7 +172,7 @@ proper form, as follows:
       who shall be referred to as the respondent: Provided, that in the case of juridical  
       persons, the responsible officers may also be included as respondents if they  
       participated in, or by their gross negligence, allowed the commission of the alleged  
-      violation of the Data Privacy Act of 2012. If not known, the complainant shall state  
+      violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]. If not known, the complainant shall state  
       the circumstances that may lead to the identity of the respondent.
 
    5. The complainant shall also provide in the complaint, if known: (a) respondent’s  
@@ -194,7 +181,7 @@ proper form, as follows:
 
    6. The complaint shall include a narration of the material facts and supporting  
       testimonial or documentary evidence, if any, all of which show: (a) the violation  
-      of the Data Privacy Act of 2012, its Implementing Rules and Regulations, or NPC  
+      of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], its Implementing Rules and Regulations, or NPC  
       issuances; or (b) the acts or omissions allegedly committed by respondent and in  
       the case of juridical persons, employees or agents who committed the offense  
       amounting to a privacy violation or personal data breach.
@@ -248,8 +235,7 @@ SECTION 7. Consolidation of cases. – Except when consolidation would result in
 or injustice, the NPC may, upon motion or in its discretion, consolidate two (2) or more  
 complaints involving common questions of law or fact and/or same parties.
 
-                                       RULE III  
-                                 FILING AND SERVICE
+## RULE III FILING AND SERVICE
 
 SECTION 1. Modes of filing. – The filing of all pleadings and other submissions shall be  
 made through any of the following modes:
@@ -330,8 +316,7 @@ serve its judgments, orders, or resolutions by electronic mail through the same 
 mail address used in the filing of the complaint or pleading, unless otherwise indicated  
 therein.
 
-                                      RULE IV  
-                             PRE-INVESTIGATION PHASE
+## RULE IV PRE-INVESTIGATION PHASE
 
 SECTION 1. Outright dismissal, when allowed. – Within thirty (30) calendar days from  
 receipt of the complaint, the investigating officer may give the complaint due course or  
@@ -343,7 +328,7 @@ dismiss the complaint without prejudice, on any the following grounds:
    2. The complainant did not give the respondent an opportunity to address the  
       complaint, unless failure to do so is justified;
 
-   3. The complaint does not pertain to a violation of the Data Privacy Act of 2012 or  
+   3. The complaint does not pertain to a violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] or  
       does not involve a privacy violation or personal data breach;
 
    4. There is insufficient information to substantiate the allegations in the complaint;  
@@ -418,8 +403,7 @@ appeal or motion for reconsideration may be taken for any interlocutory order ma
 the investigating officer but these may be included as an issue once the case has reached  
 the Commission for adjudication under Rule VIII of these Rules.
 
-                                     RULE V  
-                             PRELIMINARY CONFERENCE
+## RULE V PRELIMINARY CONFERENCE
 
 SECTION 1. Order to confer for preliminary conference. – No later than thirty (30)  
 calendar days from the lapse of the reglementary period to file the comment, the  
@@ -546,8 +530,7 @@ SECTION 7. Preliminary conference order. – Within fifteen (15) calendar days f
 termination of the preliminary conference, the investigating officer shall issue an order  
 which shall recite in detail the matters taken up.
 
-                                  RULE VI  
-                      ALTERNATIVE DISPUTE RESOLUTION
+## RULE VI ALTERNATIVE DISPUTE RESOLUTION
 
 SECTION 1. Willingness to mediate. – During the preliminary conference or at any stage  
 of the proceedings but before rendition of decision by the Commission, the parties by  
@@ -683,9 +666,6 @@ SECTION 15. Failure to reach settlement. – If the parties are unable to arrive
 settlement of their dispute, or it becomes apparent that a settlement, given the disparity  
 of the respective positions of the parties, is not likely or achievable within the sixty (60)  
 calendar day mediation period or the reasonable extension of such period under Section  
-11 of this Rule, the mediation officer may declare the mediation unsuccessful and  
-terminate the proceedings by issuing a Notice of Non-Settlement of Dispute and  
-furnishing copies to the investigating officer and the parties.
 
 SECTION 16. Resumption of complaint proceedings. – Upon receipt of the Notice of  
 Non- Settlement of Dispute issued by the mediation officer, the investigating officer or  
@@ -712,8 +692,7 @@ notes of the mediation officer, if any, shall likewise be inadmissible nor cogni
 court, tribunal, or body for whatever purpose and shall be securely destroyed upon  
 termination of the mediation proceedings.
 
-                                     RULE VII  
-                               INVESTIGATION PHASE
+## RULE VII INVESTIGATION PHASE
 
 SECTION 1. Examination of systems and procedures.– Upon termination of the  
 preliminary conference, the investigating officer shall decide whether there is a necessity  
@@ -755,8 +734,7 @@ The investigating officer may recommend either the dismissal of the case, with o
 prejudice, or the application of the Commission’s power to initiate sua sponte  
 investigations.
 
-                                       RULE VIII  
-                                       DECISION
+## RULE VIII DECISION
 
 SECTION 1. Action on the recommendations of the Investigating Officer. – The  
 Commission shall review the evidence presented, including the Fact-Finding Report and  
@@ -811,7 +789,7 @@ decision may include enforcement orders, including:
 
    e. impose fines for violations of the Act or issuances of the NPC; or
 
-   f. any other order to enforce compliance with the Data Privacy Act of 2012.
+   f. any other order to enforce compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
 
 SECTION 4. Appeal. – The decision of the Commission shall become final and executory  
 fifteen (15) calendar days after receipt of a copy by both parties. One motion for  
@@ -825,8 +803,7 @@ judgment or final order becomes executory shall be deemed as the date of its ent
 record shall contain the dispositive part of the judgment or final order with a certificate  
 that such judgment or final order has become final and executory.
 
-                                  RULE IX  
-                    BAN ON PROCESSING OF PERSONAL DATA
+## RULE IX BAN ON PROCESSING OF PERSONAL DATA
 
 SECTION 1. Temporary ban on processing of personal data. – Upon filing of the  
 complaint or at any time before the decision of the Commission becomes final and  
@@ -898,8 +875,7 @@ ban on respondent’s processing of personal data, the investigating officer sha
 their Fact-Finding Report a recommendation to the Commission for the issuance of an  
 order for a permanent ban on processing of personal data.
 
-                                     RULE X  
-                            SUA SPONTE INVESTIGATION
+## RULE X SUA SPONTE INVESTIGATION
 
 SECTION 1. Commencement.– The Commission may order an investigation of the  
 circumstances surrounding a possible data privacy violation or personal data breach in  
@@ -941,7 +917,7 @@ render its decision on the basis of available information under Rule VIII of the
 
 SECTION 7. Existence of a complaint during sua sponte investigation and vice versa,  
 effect. – If, during the proceedings of a sua sponte investigation, a formal complaint  
-relating to the same act or omission for violation of the Data Privacy Act of 2012 is filed  
+relating to the same act or omission for violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] is filed  
 against the respondent, the complaint proceedings shall follow the normal procedure  
 under these Rules: Provided, that the complaint proceedings shall not suspend the sua  
 sponte proceedings, or vice versa: Provided further, that discovery and mediation  
@@ -952,12 +928,10 @@ proceedings but not the sua sponte investigation.
 The preceding paragraph shall likewise apply if the complaint proceedings occurred first  
 and the NPC wishes to initiate a sua sponte investigation thereafter.
 
-                                     RULE XI  
-                              BREACH INVESTIGATION
+## RULE XI BREACH INVESTIGATION
 
 SECTION 1. Procedure for personal data breach notification. – The procedure for  
-personal data breach notification and other requirements shall be governed by the Data  
-Privacy Act of 2012, Implementing Rules and Regulations, and [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]],  
+personal data breach notification and other requirements shall be governed by the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Implementing Rules and Regulations, and [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]],  
 including any of its amendments. These Rules shall apply in a suppletory character.
 
 SECTION 2. Receipt of data breach notifications. – The CMD shall be the initial recipient  
@@ -988,7 +962,6 @@ officer shall review the completeness of the data breach notification and determ
 other documents needed to assess the PIC or PIP’s breach management.
 
 Moreover, the CMD shall monitor the compliance of the PIC or PIP with the periods in  
-[[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] and the subsequent extensions allowed under the preceding  
 sections.
 
 The CMD may order the submission of additional documents from the PIC or PIP; or in  
@@ -1041,8 +1014,7 @@ SECTION 11. Post-breach monitoring and compliance. – The CMD shall monitor and
 ensure compliance of PICs or PIPs to the judgments, resolutions or orders issued by the  
 Commission with respect to any data breach related cases.
 
-                                   RULE XII  
-                           MISCELLANEOUS PROVISIONS
+## RULE XII MISCELLANEOUS PROVISIONS
 
 SECTION 1. Transitory provision. – These Rules shall apply to all complaints filed after  
 its effectivity. It shall also apply to pending proceedings, except to the extent that their  
@@ -1090,12 +1062,16 @@ Approved:
                 (Sgd.)                                  (Sgd.)  
       JOHN HENRY DU NAGA                    LEANDRO ANGELO Y. AGUIRRE  
      Deputy Privacy Commissioner              Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^1]: A.M. 01-7-01 (Re: Rules on Electronic Evidence)
+[^2]: See ibid.
+[^3]: Act 3326: An Act To Establish Periods Of Prescription For Violations Penalized By Special Acts And
+[^11]: of this Rule, the mediation officer may declare the mediation unsuccessful and terminate the proceedings by issuing a Notice of Non-Settlement of Dispute and furnishing copies to the investigating officer and the parties.
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2021/2021-rules-of-procedure-of-the-national-privacy-commission|Analysis and metadata]]
 - Raw source text: [[sources/2021/2021-rules-of-procedure-of-the-national-privacy-commission|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/01/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

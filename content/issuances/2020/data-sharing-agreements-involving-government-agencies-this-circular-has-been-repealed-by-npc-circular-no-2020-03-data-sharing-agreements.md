@@ -1,5 +1,5 @@
 ---
-title: "Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.)"
+title: "Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.) (Circular No. 16-02)"
 description: "TO : ALL HEADS OF GOVERNMENT BRANCHES, BODIES OR ENTITIES, INCLUDING NATIONAL GOVERNMENT AGENCIES, BUREAUS OR OFFICES, CONSTITUTIONAL COMMISSIONS, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED AND –CONTROLLED CORPORATIONS, STATE COLLEGE AND UNIVERSITIES; HEADS OF PRIVATE ENTITIES"
 aliases:
   - "Circular No. 16-02"
@@ -16,50 +16,40 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 6a9e162a1c2e733a54f9a1ca9cde10358d28da80 -->
+
+**Circular No. 16-02**
+
                                 privacycommissioner@privacy.gov.ph
 
-NPC Circular 16-02
-
-DATE              :   10 October 2016
-
-TO                :   ALL HEADS OF GOVERNMENT BRANCHES, BODIES OR  
-                      ENTITIES,  INCLUDING    NATIONAL GOVERNMENT  
-                      AGENCIES, BUREAUS OR OFFICES, CONSTITUTIONAL  
-                      COMMISSIONS,     LOCAL    GOVERNMENT   UNITS,  
+## AGENCIES, BUREAUS OR OFFICES, CONSTITUTIONAL COMMISSIONS,     LOCAL    GOVERNMENT   UNITS,
                       GOVERNMENT-OWNED          AND    –CONTROLLED  
                       CORPORATIONS, STATE COLLEGE AND UNIVERSITIES;  
                       HEADS OF PRIVATE ENTITIES
 
-SUBJECT           :   DATA   SHARING      AGREEMENTS                             INVOLVING  
-                      GOVERNMENT AGENCIES
+SUBJECT           :   DATA   SHARING      AGREEMENTS                             INVOLVING GOVERNMENT AGENCIES
 
        WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State  
 recognizes the vital role of communication and information in nation-building. At the same  
 time, Article II, Section 11 thereof emphasizes that the State values the dignity of every human  
 person and guarantees full respect for human rights;
 
-       WHEREAS, Section 2 of Republic Act No. 10173, also known as the Data Privacy Act of  
-2012, provides that it is the policy of the State to protect the fundamental human right of  
+       WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], provides that it is the policy of the State to protect the fundamental human right of  
 privacy of communication while ensuring free flow of information to promote innovation and  
 growth. The State also recognizes its inherent obligation to ensure that personal information in  
 information and communications systems in the government and in the private sector are  
 secured and protected;
 
-       WHEREAS, Section 20 of the Implementing Rules and Regulations of the Data Privacy  
-Act of 2012 provides that further processing of personal data collected from a party other than  
+       WHEREAS, Section 20 of the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] provides that further processing of personal data collected from a party other than  
 the data subject shall be allowed under certain conditions;
 
-        WHEREAS, pursuant to Section 7 of the Data Privacy Act of 2012, the National Privacy  
+        WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the National Privacy  
 Commission is charged with the administration and implementation of the provisions of the  
 law, which includes ensuring the compliance by personal information controllers with the  
 provisions of the Act, and carrying out efforts to formulate and implement plans and policies  
 that strengthen the protection of personal information in the country, in coordination with other  
 government agencies and the private sector;
 
-       WHEREAS, Section 9 of the Implementing Rules and Regulations of the Data Privacy  
-Act of 2012 provides that, among the Commission’s functions, is to develop, promulgate,  
+       WHEREAS, Section 9 of the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] provides that, among the Commission’s functions, is to develop, promulgate,  
 review or amend rules and regulations for the effective implementation of the Act;
 
 hereby issues this Circular governing data sharing agreements involving government agencies.
@@ -80,20 +70,18 @@ personal data shall only be allowed if it is pursuant to the instructions of the
 information controller concerned.
 
 Data sharing agreements exclusively between private entities, or those for purpose of research,  
-shall be in accordance with the Implementing Rules and Regulations of the Data Privacy Act of  
-2012, or other issuances of the National Privacy Commission.
+shall be in accordance with the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], or other issuances of the National Privacy Commission.
 
 SECTION 3. Definition of Terms. For the purpose of this Circular, the following terms are  
 defined, as follows:
 
-   A.    “Act” refers to Republic Act No. 10173, otherwise known as the Data Privacy Act of  
-         2012;
+   A.    “Act” refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
    B.    “Commission” refers to the National Privacy Commission (NPC);
 
    C.    “Data Protection Officer” refers to an individual designated by the head of agency, or  
          the head of a private entity, to be accountable for the agency’s or entity’s compliance  
-         with the Act, its IRR, and other issuances of the Commission: Provided, that the  
+         with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the Commission: Provided, that the  
          individual must be an organic employee of the government agency or private entity:  
          Provided further, that a government agency or private entity may have more than one  
          data protection officer;
@@ -132,8 +120,8 @@ defined, as follows:
    J.    “Head of a private entity” refers to the head or decision-making body of a private  
          entity;
 
-   K.    “IRR” refers to the Implementing Rules and Regulations of Republic Act No. 10173,  
-         otherwise known as the Data Privacy Act of 2012;
+   K.    “[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]” refers to the Implementing Rules and Regulations of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],  
+         otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
    L.    “Middleware” refers to any software or program that facilitates the exchange of data  
          between two applications or programs that are either within the same environment, or  
@@ -245,7 +233,7 @@ writing and must comply with the following conditions:
          information request, or any complaint filed by a data subject and/or any investigation  
          by the Commission: Provided, that the Commission shall make the final determination  
          as to which personal information controller is liable for any breach or violation of the  
-         Act, its IRR, or any applicable issuance of the Commission.
+         Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any applicable issuance of the Commission.
 
    I.    It shall identify the method that shall be adopted for the secure return, destruction or  
          disposal of the shared data and the timeline therefor.
@@ -259,16 +247,16 @@ online access.
 
 SECTION 8. Transfer of Personal Data. Where a data sharing agreement involves the actual  
 transfer of personal data or a copy thereof from one party to another, such transfer shall comply  
-with the security requirements imposed by the Act, its IRR, and all applicable issuances of the  
+with the security requirements imposed by the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all applicable issuances of the  
 Commission.
 
 SECTION 9. Responsibility of the Parties. All parties to a data sharing agreement shall comply  
-with the Act, its IRR, and all applicable issuances of the Commission, including putting in place  
+with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all applicable issuances of the Commission, including putting in place  
 adequate safeguards for data privacy and security. The designated data protection officer shall  
 be accountable for ensuring such compliance.
 
 In the case of a government agency, the head of agency shall be responsible for complying with  
-the security requirements provided in the Act, its IRR and all applicable issuances of the  
+the security requirements provided in the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and all applicable issuances of the  
 Commission.
 
 SECTION 10. Accountability for Cross-border Transfer of Personal Data. Each party to a data  
@@ -290,8 +278,7 @@ parties thereto may consult with and invite comments thereon from:
          data sharing agreement deem necessary.
 
 Failure to conduct prior consultation by the parties shall not invalidate a data sharing  
-agreement: Provided, however, that in the event of a breach or a reported violation of the Act, its  
-IRR, or any issuance by the Commission, the latter shall take into account the conduct of such  
+agreement: Provided, however, that in the event of a breach or a reported violation of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any issuance by the Commission, the latter shall take into account the conduct of such  
 consultation in evaluating the circumstances surrounding the violation.
 
 SECTION 12. Security of Personal Data. Data sharing shall only be allowed where there are  
@@ -324,7 +311,7 @@ SECTION 16. Termination. A data sharing agreement may be terminated:
 
 Nothing in this Section shall prevent the Commission from ordering motu proprio the  
 termination of any data sharing agreement when a party is determined to have breached any of  
-its provisions, or when the agreement is in violation of the Act, its IRR, or any applicable  
+its provisions, or when the agreement is in violation of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any applicable  
 issuance by the Commission.
 
 SECTION 17. Return, Destruction, or Disposal of Transferred Personal Data. Unless otherwise  
@@ -394,12 +381,9 @@ Approved:
 
            (Sgd.) IVY D. PATDU                       (Sgd.) DAMIAN DOMINGO O. MAPA  
         Deputy Privacy Commissioner                       Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Analysis and metadata]]
 - Raw source text: [[sources/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-02-Data-Sharing-Agreements-Involving-Government-Agencies.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

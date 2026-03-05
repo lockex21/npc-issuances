@@ -1,5 +1,5 @@
 ---
-title: "Guidelines on the Use of Closed-circuit Television (CCTV) Systems (This Advisory has been repealed by NPC Circular No. 2024-02 - Closed-Circuit Television (CCTV) Systems.)"
+title: "Guidelines on the Use of Closed-circuit Television (CCTV) Systems (This Advisory has been repealed by NPC Circular No. 2024-02 - Closed-Circuit Television (CCTV) Systems.) (Advisory No. 2020-04)"
 description: "SECTION 1. General Principles. — This Advisory is governed by the following principles:"
 aliases:
   - "Advisory No. 2020-04"
@@ -16,13 +16,9 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 44e444c90ff928f71dd42d91946a98435b2e8f1d -->
-NPC Advisory No. 2020-04
 
-DATE           : 16 NOVEMBER 2020
+**Advisory No. 2020-04**
 
-SUBJECT        : GUIDELINES ON THE USE                                     OF       CLOSED-CIRCUIT  
                  TELEVISION (CCTV) SYSTEMS
 
 SECTION 1. General Principles. — This Advisory is governed by the following principles:
@@ -36,10 +32,9 @@ SECTION 1. General Principles. — This Advisory is governed by the following pr
       for specified and legitimate purposes.
 
    C. The capture, use, retention, and destruction of video and/or audio footages obtained  
-      from CCTVs are considered as processing of personal data under the Data Privacy Act  
-      of 2012 (DPA). Those who process personal data through CCTV systems, whether as  
-      PICs or PIPs shall comply with the Data Privacy Act of 2012, its Implementing Rules  
-      and Regulations (IRR) and relevant issuances of the National Privacy Commission  
+      from CCTVs are considered as processing of personal data under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]). Those who process personal data through CCTV systems, whether as  
+      PICs or PIPs shall comply with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], its Implementing Rules  
+      and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) and relevant issuances of the National Privacy Commission  
       (NPC).
 
 SECTION 2. Scope. —This Advisory shall apply to all PICs and PIPs engaged in the  
@@ -50,8 +45,7 @@ both video and audio capabilities.
 SECTION 3. Definition of Terms. — Whenever used in this Advisory, the following terms  
 shall have their respective meanings as hereinafter set forth:
 
-   A. “Act” or “DPA” refers to Republic Act No. 10173, otherwise known as the Data Privacy  
-      Act of 2012;
+   A. “Act” or “[[laws/data-privacy-act-of-2012|DPA]]” refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
    B. “Commission” or “NPC” refers to the National Privacy Commission;
 
@@ -67,7 +61,7 @@ shall have their respective meanings as hereinafter set forth:
        disclose the identity of an individual. The common types of masking include solid  
        color masked areas, where no details or movement in the scene covered by the masked  
        area can be viewed, and blurred masking or pixelated masking, where the resulting  
-       images enables a partial outline to be seen but with detailed features obscured.1
+       images enables a partial outline to be seen but with detailed features obscured.[^1]
 
     F. “Personal information” refers to any information whether recorded in a material form  
        or not, from which the identity of an individual is apparent or can be reasonably and  
@@ -108,10 +102,8 @@ shall have their respective meanings as hereinafter set forth:
 SECTION 4. Guidelines. — The processing of personal data in CCTV systems shall be subject  
 to the following guidelines:
 
-1 See: Singapore Personal Data Protection Commission, Advisory Guidelines on the PDPA for Selected Topics (revised 28
 
 March 2017).  
-2See generally: Privacy Commissioner of New Zealand, Privacy and CCTV: A Guide to the Privacy Act for Businesses,
 
 Agencies, and Organizations (2009).
 
@@ -126,7 +118,7 @@ A. Legitimate purpose. Prior to installing a CCTV system, the purpose/s for pers
    3.   Ensure public order and safety; and  
    4.   Other legitimate interests.
 
-   PICs shall identify an appropriate lawful basis for processing under the DPA and  
+   PICs shall identify an appropriate lawful basis for processing under the [[laws/data-privacy-act-of-2012|DPA]] and  
    provide such basis when required by the Commission.
 
 B. Proportionality. The PIC should evaluate whether the installation and operation of  
@@ -163,7 +155,7 @@ D. CCTV policy. PICs and PIPs are obliged to have a policy governing the operati
       necessary.
 
 E. Location and placement. To ensure that CCTV systems capture footages in a manner  
-   consistent with the DPA, the location and angles of the cameras must be carefully  
+   consistent with the [[laws/data-privacy-act-of-2012|DPA]], the location and angles of the cameras must be carefully  
    considered. CCTVs shall only be used to monitor the intended spaces, taking into  
    consideration the purpose for monitoring the same.
 
@@ -180,7 +172,7 @@ E. Location and placement. To ensure that CCTV systems capture footages in a man
 
    G. Obligations of PIPs. Entities that operate CCTV systems on behalf of and under the  
       instructions of PICs are considered as PIPs. As such, they shall likewise comply with  
-      all obligations under the DPA, its IRR, and other relevant issuances of the NPC. This  
+      all obligations under the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other relevant issuances of the NPC. This  
       includes, among others:
 
        1. Process strictly in accordance with instructions from the PIC;  
@@ -211,7 +203,7 @@ following instances:
        images of individuals beyond the boundaries of such property, particularly where it  
        monitors a public space, the CCTV system cannot be considered as being for a purely  
        personal, family or household purpose. As such, the operator of such CCTV system is  
-       deemed as a PIC and will be subjected to the obligations under the DPA and the  
+       deemed as a PIC and will be subjected to the obligations under the [[laws/data-privacy-act-of-2012|DPA]] and the  
        provisions of this Advisory.
 
    B. Security. The use of CCTVs as mandated by local government units (LGUs) for security  
@@ -222,7 +214,7 @@ following instances:
          strategic areas frequented by the public to support law enforcement and crime  
          prevention, deterrence, detection, and solution efforts of the government.
 
-    C. Employment. The DPA recognizes that PICs have a legitimate interest to protect their  
+    C. Employment. The [[laws/data-privacy-act-of-2012|DPA]] recognizes that PICs have a legitimate interest to protect their  
        assets, reputation, and business. To this end, PICs may monitor, through CCTVs, its  
        premises and employees’ use of company assets. Note, however, that employees do  
        not lose their privacy rights in the workplace. Personal data of the employees shall  
@@ -260,7 +252,6 @@ SECTION 7. Data subject request for access. — Any person whose image is record
 CCTV system has a right to reasonable access and/or be supplied with a copy of their own  
 personal data from the footage, subject to the provisions of Section 13 of this Advisory.
 
-3Department of Interior and Local Government, Directing Cities/Capital Towns To Require The Installation Of Closed-Circuit
 
 Televisions (CCTV) For Certain Business Establishments In Accordance With Section 16 (General Welfare Clause) Of  
 Republic Act No. 7160 To Support The Maintenance Of Peace And Order And Public Safety [Memorandum Circular No. 2014-119] (Sept. 15, 2014).
@@ -287,8 +278,7 @@ and shall consider the following:
 
 Where images of parties other than the requesting data subject and/or the person/s sought  
 to be identified as part of the request (e.g. identification of malefactors for investigation or law  
-enforcement purposes) appear on the CCTV footage, legitimate interest under Section 12(f) of  
-the DPA may apply as basis for disclosing, subject to Section 9 of this Advisory.
+enforcement purposes) appear on the CCTV footage, legitimate interest under [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]] may apply as basis for disclosing, subject to Section 9 of this Advisory.
 
 SECTION 8. Third party access request. When a person, other than a data subject, requests  
 for access to CCTV footage, it shall be treated as a third-party access request. The same policies  
@@ -296,9 +286,9 @@ and procedure as outlined in the previous section on data subject access request
 applicable.
 
 PICs should decide on the merits of the request for disclosure based on its internal policy, the  
-DPA, and other existing laws and regulations. Once a PIC has disclosed information to  
+[[laws/data-privacy-act-of-2012|DPA]], and other existing laws and regulations. Once a PIC has disclosed information to  
 another, the latter becomes responsible for the copy they hold. It is their responsibility to  
-comply with the DPA in relation to any further disclosures. The method of disclosing  
+comply with the [[laws/data-privacy-act-of-2012|DPA]] in relation to any further disclosures. The method of disclosing  
 information should be secure to ensure they are only seen by the intended recipient.
 
 CCTV footage may be disclosed for, but not limited to, the following purposes:
@@ -351,7 +341,7 @@ CCTV footage may be disclosed for, but not limited to, the following purposes:
 SECTION 9. Legitimate interest three-part test. In determining whether the data subject  
 access request, in instances when the CCTV footage includes other data subjects, under  
 Section 7, or the third-party access request under Section 8(E) may be allowed pursuant to  
-legitimate interest as provided for under Section 12(f) of the DPA, the following shall be  
+legitimate interest as provided for under [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]], the following shall be  
 considered:
 
     A. Purpose test - The existence of a legitimate interest must be clearly established,  
@@ -365,8 +355,7 @@ considered:
        impact of the processing on the data subjects.
 
 In this regard, CCTV footages requested for purposes of the protection of lawful rights and  
-interests or the establishment, exercise or defense of legal claims under Section 13(f) of the  
-DPA may be considered as legitimate interest.6
+interests or the establishment, exercise or defense of legal claims under [[laws/data-privacy-act-of-2012#Section 13(f)|Section 13(f) of the DPA]] may be considered as legitimate interest.6
 
 At all times, PICs shall be mindful that footage to be disclosed, either by viewing or providing  
 a copy, are only those that are necessary and not excessive to the purpose for which they are  
@@ -450,12 +439,15 @@ Approved:
                  SGD.                                            SGD.  
     LEANDRO ANGELO Y. AGUIRRE                          JOHN HENRY D. NAGA  
       Deputy Privacy Commissioner                     Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^1]: See: Singapore Personal Data Protection Commission, Advisory Guidelines on the PDPA for Selected Topics (revised 28
+[^2]: See generally: Privacy Commissioner of New Zealand, Privacy and CCTV: A Guide to the Privacy Act for Businesses,
+[^3]: Department of Interior and Local Government, Directing Cities/Capital Towns To Require The Installation Of Closed-Circuit
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Analysis and metadata]]
 - Raw source text: [[sources/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/Advisory-on-CCTV-16NOV2020-FINAL.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

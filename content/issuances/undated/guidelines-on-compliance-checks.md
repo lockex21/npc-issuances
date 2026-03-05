@@ -1,5 +1,5 @@
 ---
-title: "Guidelines on Compliance Checks"
+title: "Guidelines on Compliance Checks (Circular No. 18-02)"
 description: "WHEREAS, The right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution values the dignity of every human person..."
 aliases:
   - "Circular No. 18-02"
@@ -14,12 +14,8 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 5b60aa0a7c9ab82ed894f4350fc45f8556aa6d81 -->
-NPC Circular No. 18-02
 
-DATE             :    20 September 2018  
-SUBJECT          :    GUIDELINES ON COMPLIANCE CHECKS
+**Circular No. 18-02**
 
        WHEREAS, The right to privacy, which includes information privacy, is  
 constitutionally protected and accorded recognition independent of its identification  
@@ -28,20 +24,20 @@ the dignity of every human person and guarantees full respect for human rights;
 
        WHEREAS, Article II, Section 24, of the Constitution provides that the State  
 recognizes the vital role of communication and information in nation-building, and  
-Section 2 of Republic Act No. 10173, also known as the Data Privacy Act of 2012  
-(DPA), provides that it is the policy of the State to protect the fundamental human  
+[[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]  
+([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human  
 right of privacy of communication while ensuring free flow of information to  
 promote innovation and growth;
 
-       WHEREAS, Section 7 of the DPA provides that the National Privacy  
+       WHEREAS, [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]] provides that the National Privacy  
 Commission (Commission) shall administer and implement the provisions of the  
-DPA, monitor and ensure compliance of the country with international standards set  
+[[laws/data-privacy-act-of-2012|DPA]], monitor and ensure compliance of the country with international standards set  
 for data protection, and ensure compliance of Personal Information Controllers with  
-the provisions of the DPA, and Section 14 of the DPA also requires Personal  
+the provisions of the [[laws/data-privacy-act-of-2012|DPA]], and [[laws/data-privacy-act-of-2012#Section 14|Section 14 of the DPA]] also requires Personal  
 Information Processors to comply with all the requirements of the Act and other  
 applicable laws;
 
-       WHEREAS, Section 7 of the DPA provides that the Commission can compel  
+       WHEREAS, [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]] provides that the Commission can compel  
 any entity, government agency or instrumentality to abide by its orders or take  
 action on a matter affecting data privacy, or coordinate with government and the  
 private sector in implementing plans and policies to strengthen personal data  
@@ -73,13 +69,13 @@ Compliance Checks are undertaken for the following purposes:
       in all agencies, companies and organizations involved in the processing of  
       personal data;
 
-   B. Effectively administer and implement the DPA by strengthening the  
+   B. Effectively administer and implement the [[laws/data-privacy-act-of-2012|DPA]] by strengthening the  
       regulatory environment in the country and the Commission’s ability to  
       identify and take action on non-compliance, with the interest and welfare of  
       the people as a primary consideration; and,
 
    C. To emphasize the importance of accountability, to the end that PICs and PIPs  
-      are allowed the opportunity to demonstrate compliance with the DPA, its IRR  
+      are allowed the opportunity to demonstrate compliance with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]  
       and relevant rules and regulations, and to promote the building of trust  
       between data subjects and those involved in the processing of personal data,  
       whether the government or the private sector.
@@ -87,8 +83,8 @@ Compliance Checks are undertaken for the following purposes:
 SECTION 3. Definition of Terms. For the purpose of this Circular, the following  
 terms are defined, as follows:
 
-   A. “Act”or “DPA” refers to Republic Act No. 10173, otherwise known as the  
-      Data Privacy Act of 2012.
+   A. “Act”or “[[laws/data-privacy-act-of-2012|DPA]]” refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the  
+      [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
 
    B. “Certificate of No Significant Findings” refers to an issuance of the  
       Commission to a Personal Information Controller or Personal Information  
@@ -121,19 +117,17 @@ F. “Data Processing Systems” refers to the structure and procedure by which
    processing.
 
 G. “Data Protection Officer” refers to an individual designated by the head of  
-   agency or organization to be accountable for its compliance with the Act, its  
-   IRR, and other issuances of the Commission.
+   agency or organization to be accountable for its compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the Commission.
 
 H. “Documents Submission” refers to a mode of Compliance Check as defined  
    under Section 4 (B) of this Circular.
 
-I. “IRR” refers to the Implementing Rules and Regulations of Republic Act No.  
-   10173, otherwise known as the Data Privacy Act of 2012.
+I. “[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]” refers to the Implementing Rules and Regulations of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
 
 J. “Notice of Deficiencies” refers to a document issued by the Commission  
    indicating the deficiencies of a PIC or PIP found to be non-compliant upon the  
    conduct of a Compliance Check, taking into consideration the provisions of  
-   the DPA, its IRR, and the relevant issuances and orders of the NPC.
+   the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and the relevant issuances and orders of the NPC.
 
 K. “On-Site Visit” refers to a mode of Compliance Check as defined under  
    Section 4 (C) of this Circular.
@@ -158,14 +152,14 @@ M. “Personal Information Controller” (PIC) refers to a natural or juridical 
    P. “Privacy Sweep” refers to a mode of Compliance Check as defined under  
       Section 4 (A) of this Circular.
 
-       II.    GUIDELINES FOR THE CONDUCT OF COMPLIANCE CHECK
+## II.    GUIDELINES FOR THE CONDUCT OF COMPLIANCE CHECK
 
 SECTION 4. Modes of Compliance Checks. In ensuring compliance with the Act and  
 its related issuances, the Commission may employ any of the following modes of  
 Compliance Checks:
 
    A. Privacy Sweep. The Commission shall review a PICs or PIPs compliance with  
-      respect to its obligation under the DPA, and its related issuances based on  
+      respect to its obligation under the [[laws/data-privacy-act-of-2012|DPA]], and its related issuances based on  
       publicly available or accessible information, such as, but not limited to,  
       websites, mobile applications, raffle coupons, brochures, and privacy notices.  
       This is the initial mode of Compliance Check.
@@ -174,11 +168,11 @@ Compliance Checks:
       documents and additional information from a PIC or PIP that has undergone  
       a privacy sweep to, among others, clarify certain findings arising therefrom,  
       and to determine the level of compliance of the PIC or PIP with respect to its  
-      obligations under the DPA and its related issuances.
+      obligations under the [[laws/data-privacy-act-of-2012|DPA]] and its related issuances.
 
    C. On-Site Visit. The Commission may subject a PIC or PIP to an on-site visit if  
       there are persistent or substantial findings of non-compliance with the  
-      obligations indicated in the DPA and its related issuances.
+      obligations indicated in the [[laws/data-privacy-act-of-2012|DPA]] and its related issuances.
 
       Authorized personnel of the Commission shall conduct a targeted inspection  
       within the premises of a PIC or PIP that may include a presentation of  
@@ -206,7 +200,7 @@ any of the following considerations:
       d) Unsecured or publicly available personal data found on the internet that  
          may be traced to a PIC or PIP; and
 
-      e) Other considerations that indicate non-compliance with the DPA or the  
+      e) Other considerations that indicate non-compliance with the [[laws/data-privacy-act-of-2012|DPA]] or the  
          issuances of the Commission.
 
 In cases where the Complaints and Investigations Division (CID) of the Commission  
@@ -251,7 +245,7 @@ A Notice of Compliance Check will be sent in the following instances:
        identification tags issued by the Commission.
 
 SECTION 8. Issuance of Notice of Deficiencies. If the PIC or PIP is found to be non-  
-compliant with the DPA, its IRR, and other issuances of the Commission, the  
+compliant with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the Commission, the  
 Commission shall issue a Notice of Deficiencies indicating the period of time within  
 which to correct the identified deficiencies, which shall not be less than ten (10) days.  
 The DPO, or in the case of unregistered entities, the head of the organization, shall  
@@ -292,7 +286,7 @@ the satisfaction of the Commission.
 
 The issuance of this Certificate is without prejudice to any other recommendation  
 being made by the Commission for the improvement of the organization’s  
-compliance with the DPA and related issuances. The issuance of this Certificate does  
+compliance with the [[laws/data-privacy-act-of-2012|DPA]] and related issuances. The issuance of this Certificate does  
 not bar an investigation for any possible liability arising from complaints and/or  
 personal data breaches filed before the Commission.
 
@@ -328,11 +322,11 @@ allowed by law. In case of refusal, the following provisions shall govern:
       proceedings, as may be permitted by law, before the appropriate court, or  
       such other actions as may be available to the Commission.
 
-SECTION 14. Fines and Penalties. Failure to comply with the DPA, other issuances,  
+SECTION 14. Fines and Penalties. Failure to comply with the [[laws/data-privacy-act-of-2012|DPA]], other issuances,  
 or orders of the Commission may subject a PIC or PIP to fines and penalties as may  
 hereafter be prescribed by the Commission.
 
-                      III. MISCELLANEOUS PROVISIONS
+## III. MISCELLANEOUS PROVISIONS
 
 SECTION 15. Publication. To protect the public, and in keeping with the  
 Commission’s mandate to inform the public on data subject rights, as well as the  
@@ -355,13 +349,8 @@ Approved:
   (Sgd) IVY D. PATDU                   (Sgd) LEANDRO ANGELO Y. AGUIRRE  
 Deputy Privacy Commissioner                   Deputy Privacy Commissioner
 
-Date: 20 September 2018
-<!-- END MANUAL ANNOTATED TEXT -->
-
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/undated/guidelines-on-compliance-checks|Analysis and metadata]]
 - Raw source text: [[sources/undated/guidelines-on-compliance-checks|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-02_ComplianceCheck.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

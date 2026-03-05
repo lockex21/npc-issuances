@@ -1,5 +1,5 @@
 ---
-title: "Rules of Procedure"
+title: "Rules of Procedure (Circular No. 16-04)"
 description: "In the exercise of its quasi-judicial function, the Commission is authorized to receive complaints and institute investigations. In order to fulfill its mandate, it may compel any entity, government agency or instrumentality to abide by its orders or take action on a matter..."
 aliases:
   - "Circular No. 16-04"
@@ -15,22 +15,17 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 2139be11a0bfaca803523a59986c0c9c9f3a5b30 -->
+
+**Circular No. 16-04**
+
                                 privacycommissioner@privacy.gov.ph
 
-NPC Circular 16-04
+## COMMISSION
 
-DATE               :   15 December 2016  
-SUBJECT            :   RULES OF PROCEDURE OF THE NATIONAL PRIVACY  
-                       COMMISSION
-
-       Pursuant to the authority vested in the National Privacy Commission through Section 7  
-of Republic Act No. 10173, otherwise known as “The Data Privacy Act of 2012”, the following  
+       Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], otherwise known as “The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]”, the following  
 Rules of Procedure of the National Privacy Commission are hereby prescribed and promulgated:
 
-                                        RULE I.  
-                                PRELIMINARY PROVISIONS
+## RULE I PRELIMINARY PROVISIONS
 
 SECTION 1. General Principles. – The National Privacy Commission is an independent body  
 mandated to administer and implement provisions of the Data Privacy Act, and to monitor and  
@@ -47,8 +42,7 @@ SECTION 2. Scope and Coverage. – These rules shall apply to all complaints fil
 National Privacy Commission or such other grievances, requests for assistance or advisory  
 opinions, and other matters cognizable by the National Privacy Commission.
 
-                                     RULE II.  
-                         COMPLAINTS FOR VIOLATIONS OF THE  
+## RULE II COMPLAINTS FOR VIOLATIONS OF THE
                                 DATA PRIVACY ACT
 
 SECTION 3. Who may file complaints. – The National Privacy Commission, sua sponte, or  
@@ -165,8 +159,7 @@ The failure to comply with the requirements of this Section shall cause the matt
 evaluated as a request to the National Privacy Commission for an advisory opinion, and for the  
 National Privacy Commission to take such further action, as necessary.
 
-                                       RULE III.  
-                                PROCEDURE IN COMPLAINTS
+## RULE III PROCEDURE IN COMPLAINTS
 
 SECTION 11. Evaluation. – Upon receipt of the complaint, the National Privacy Commission  
 shall assign an investigating officer who shall conduct the proceedings.
@@ -401,8 +394,7 @@ Data Privacy Act.
 A copy of the decision shall be served upon the parties, for information and compliance with  
 any directive contained therein.
 
-                                  RULE IV.  
-               COMPLAINTS OF THE NATIONAL PRIVACY COMMISSION
+## RULE IV COMPLAINTS OF THE NATIONAL PRIVACY COMMISSION
 
 SECTION 23. Own initiative. – Depending on the nature of the incident, in cases of a possible  
 serious privacy violation or personal data breach, taking into account the risks of harm to a data  
@@ -420,8 +412,7 @@ fail without justification to submit an answer or appear before the National Pri
 Commission when so ordered, the Commission shall render its decision on the basis of available  
 information.
 
-                                   RULE V.  
-                    ALTERNATIVE MODES OF DISPUTE RESOLUTION
+## RULE V ALTERNATIVE MODES OF DISPUTE RESOLUTION
 
 SECTION 25. Alternative modes of dispute resolution. – The Commission shall facilitate or  
 enable settlement through the use of alternative dispute resolution processes, provided that if  
@@ -438,8 +429,7 @@ parties.
 SECTION 27. Failure to reach settlement. – In case the parties are unable to reach an amicable  
 settlement, the procedure for the resolution of complaints shall be followed.
 
-                                      RULE VI.  
-                           REQUESTS FOR ADVISORY OPINIONS
+## RULE VI REQUESTS FOR ADVISORY OPINIONS
 
 SECTION 28. Advisory Opinions. – An advisory opinion may be issued by the Commission on  
 matters relating to data privacy or personal data protection, at the instance of any party, or on  
@@ -467,16 +457,14 @@ The requesting party must provide contact details, including a valid electronic 
 where the Commission may send its orders or opinions. Advisory opinions issued by the  
 Commission may be made available to the public.
 
-                                            RULE VII.  
-                                            APPEALS
+## RULE VII APPEALS
 
 and executory fifteen (15) days after the receipt of a copy thereof by the party adversely  
 affected. One motion for reconsideration may be filed, which shall suspend the running of the  
 said period. Any appeal from the Decision shall be to the proper courts, in accordance with law  
 and rules.
 
-                                        RULE VIII.  
-                                   GENERAL PROVISIONS
+## RULE VIII GENERAL PROVISIONS
 
 SECTION 31. Confidentiality. – The Commission may ask for access to personal data that is  
 subject of any complaint and to collect the information necessary to perform its functions. The  
@@ -509,8 +497,6 @@ Approved:
 
            (Sgd.) IVY D. PATDU                       (Sgd.) DAMIAN DOMINGO O. MAPA  
         Deputy Privacy Commissioner                      Deputy Privacy Commissioner
-
-Date: December 15, 2016
 
 A Guide for the Data Subject
 
@@ -568,12 +554,9 @@ A Guide for the Data Subject
 
    5. Can I get additional information on this circular? You may request for additional  
       information on the procedure through info@privacy.gov.ph
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/undated/rules-of-procedure|Analysis and metadata]]
 - Raw source text: [[sources/undated/rules-of-procedure|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/sgd-npc-circular-16-04-rules-of-procedure.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

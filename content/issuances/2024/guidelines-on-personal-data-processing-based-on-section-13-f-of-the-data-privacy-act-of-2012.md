@@ -1,5 +1,5 @@
 ---
-title: "Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012"
+title: "Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012 (Advisory No. 2024-02)"
 description: "SUBJECT : GUIDELINES ON PERSONAL DATA PROCESSING BASED ON SECTION 13 (F) OF THE DATA PRIVACY ACT OF 2012"
 aliases:
   - "Advisory No. 2024-02"
@@ -14,6 +14,9 @@ draft: false
 ---
 
 ## Issuance Text
+
+**Advisory No. 2024-02**
+
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
 <!-- SEEDED ANNOTATED HASH: 1c64754afc0eaad75e9c561cd2490becd7e65f59 -->
 [[issuances/2024/guidelines-on-child-oriented-transparency|NPC Advisory No. 2024]] - 02

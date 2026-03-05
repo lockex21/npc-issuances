@@ -1,5 +1,5 @@
 ---
-title: "Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response"
+title: "Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response (Memorandum Circular No. 2020-9002)"
 description: "SUBJECT: Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response"
 aliases:
   - "Memorandum Circular No. 2020-9002"
@@ -15,8 +15,9 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 30b98240076aa2158090082baf48af9341e51195 -->
+
+**Memorandum Circular No. 2020-9002**
+
                               DEPARTMENT OF HEALTH
 
                                                                                    April   24, 2020  
@@ -37,8 +38,7 @@ sources; and undertakes apropos epidemiologic investigations and biomedical rese
 
         Thecollection and processing of COVID-19-related data consists of both personal and  
 sensitive personal information. The confidential nature of these data only underscores the  
-primacy of right of the patient to health privacy. This right is articulated in RA 10173 (Data  
-Privacy Act of 2012 [DPA]), which specifically provides for health privacy, establishes the  
+primacy of right of the patient to health privacy. This right is articulated in RA 10173 ([[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] [[laws/data-privacy-act-of-2012|DPA]]), which specifically provides for health privacy, establishes the  
 directive for data protection, and reinforces the right ofthe patient to data privacy.
 
         In responseto  the growing privacy concerns raised by various stakeholders during this  
@@ -47,14 +47,14 @@ of Health and the National Privacy Commission (NPC) hereby issue these guideline
 application of data protection and privacy principles in the collection, processing and disclosure  
 of COVID-19-related data in pursuit of disease surveillance and response.
 
-II. OBJECTIVE
+## II. OBJECTIVE
 
        This Joint Memorandum Circular implements the guidelines for the collection,  
 processing and disclosure of COVID-19-related data in pursuit of disease surveillance and  
 response, while protecting the data privacy rights of patients and individuals and ensuring the  
 confidentiality, integrity, and availability of their personal data.
 
-Ill. SCOPE AND COVERAGE
+## Ill. SCOPE AND COVERAGE
 
         This Joint Memorandum Circular shall apply to the implementation of the COVID-19  
 disease surveillance and response; and shall cover    all  
@@ -65,7 +65,7 @@ healthcare providers regulated by DOH and Philippine Health Insurance Corporatio
 the collection and processing of COVID-19-related data; all COVID-19 cases; and all  
 individuals identified as close contacts.
 
-IV. DEFINITION OF TERMS
+## IV. DEFINITION OF TERMS
 
        For the purpose of this Joint Memorandum Circular, the following terms are defined:  
        Anonymization is a process by which personally identifiable information (PII) is  
@@ -93,16 +93,16 @@ IV. DEFINITION OF TERMS
        and identified close contacts.  
        Data Protection Officer (DPO) is an individual who is accountable for ensuring  
        compliance with applicable laws and regulations relating to data privacy and security.  
-       (DPA)  
+       ([[laws/data-privacy-act-of-2012|DPA]])  
        Data Sharing  is     the disclosure or transfer to another government agency of personal  
        data and/or information under the control or custody of a Personal Information  
        Controller (PIC); Provided, that a PIC may be allowed to make such disclosure or  
        transfer if it is upon the instructions of the PIC concerned. The term excludes  
        outsourcing, or the disclosure or transfer of personal data by a personal information  
        controller to a personal information processor. (Implementing Rules and Regulations  
-       of the DPA)  
+       of the [[laws/data-privacy-act-of-2012|DPA]])  
    PN  
-       Data Subject refers to an individual whose personal information is processed. (DPA)  
+       Data Subject refers to an individual whose personal information is processed. ([[laws/data-privacy-act-of-2012|DPA]])  
        Healthcare Providers refer to any of the following:  
        a. Health care professional refers to doctor of medicine, nurse, midwife, dentist, or  
             other skilled allied professional or practitioner duly licensed to practice in the  
@@ -121,7 +121,7 @@ IV. DEFINITION OF TERMS
     a.  Personal information refers to any information, whether recorded in a material  
        form or not, from which the identity of an individual    is    apparent or can be reasonably  
        and directly ascertained by the entity holding the information, or when put together  
-       with other information would directly and certainly identify an individual. (DPA)  
+       with other information would directly and certainly identify an individual. ([[laws/data-privacy-act-of-2012|DPA]])  
     b. Sensitive personal information refers to personal information:  
           i. About an individual’s race, ethnic origin, marital status, age, color, and religious,  
              philosophical or political affiliations;  
@@ -133,7 +133,7 @@ IV. DEFINITION OF TERMS
              limited to, social security numbers, previous   or     current health records, licenses  
              or its denials, suspension or revocation, and tax returns; and  
         iv. Specifically established by an executive order or an act of Congress to be kept  
-             classified. (DPA)  
+             classified. ([[laws/data-privacy-act-of-2012|DPA]])  
 11. Personal health information refers to the individual's past, present or future physical  
     or mental health or condition, including demographic data, diagnosis and management,  
      medication history, health financing record, cost of services and any other information  
@@ -148,14 +148,14 @@ IV. DEFINITION OF TERMS
     personal information in connection with the individual’s personal, family or household  
     affairs. There is control if the natural or juridical person or any other body decides on  
     what information  
-                      is     collected, or the purpose or extentof    its processing. (DPA)  
+                      is     collected, or the purpose or extentof    its processing. ([[laws/data-privacy-act-of-2012|DPA]])  
 13. Personal information processor or “PIP” refers to any natural or juridical person or  
     any other body to whom a PIC may outsource or instruct the processing of personal  
-    data pertaining to a data subject. (DPA)  
+    data pertaining to a data subject. ([[laws/data-privacy-act-of-2012|DPA]])  
 14. Processing refers to any operation or any set of operations performed upon patient’s  
     data including, but not limited to, the collection, recording, organization, storage,  
     updating or modification, extraction, retrieval, consultation, use, consolidation,  
-    blocking, submission, disclosure, erasure or destruction of data. (DPA)  
+    blocking, submission, disclosure, erasure or destruction of data. ([[laws/data-privacy-act-of-2012|DPA]])  
 15. Pseudonymization refers to replacing one attribute (typically a unique attribute) in a  
     record by another. The natural person   is    therefore still likely to be identified indirectly;  
     accordingly, pseudonymization when used alone will not result in an anonymous  
@@ -194,7 +194,7 @@ V. GENERAL GUIDELINES
 
   3. The right to privacy of health information shall be protected at all times. The processing  
         of personal health information of COVID-19 cases and identified close contacts shall be  
-        in accordance with RA 10173, its IRR and other relevant issuances from the NPC, and  
+        in accordance with RA 10173, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and other relevant issuances from the NPC, and  
         shall adhere to the principles of transparency, legitimate purpose, and proportionality:  
         a. Patients/close contacts (data subjects) shall have a right to adequate information on  
            matters relating to the processing of their health information, including the nature,  
@@ -214,7 +214,7 @@ V. GENERAL GUIDELINES
         and DOH partner agencies   in    the collection, processing, and disclosure of COVID-19-  
         related data in pursuit of disease surveillance and response.
 
-VI. SPECIFIC GUIDELINES
+## VI. SPECIFIC GUIDELINES
 
 A. Implementation Governance  
    1. The Interagency Task Force for the Management of Emerging Infectious Diseases —  
@@ -326,7 +326,7 @@ F. Business Intelligence and Health Research
    2. All policy and biomedical researches related to COVID-19 surveillance and response  
       shall secure an Ethics Board approval prior to implementation.
 
-VII. ROLES AND RESPONSIBILITIES
+## VII. ROLES AND RESPONSIBILITIES
 
 A. Data Subjects (COVID-19 Cases, Close Contacts, and Other Informants)  
    1. Owner  
@@ -339,17 +339,15 @@ B. Department    of Health
      1. Provide policy directions and oversight, together with NPC, on all matters relating to  
         privacy and data protection, and processing and disclosure of COVID-19-related data.  
      2. Evaluate, monitor and direct activities relating to processing and disclosure of COVID-  
-        19-related data in pursuit of surveillance and response as provided under RA 11332, its  
-        IRR, and other issuances from the DOH.  
-     3. Observe and comply with RA 10173, its IRR, and other issuances from NPC in the  
+        19-related data in pursuit of surveillance and response as provided under RA 11332, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances from the DOH.  
+     3. Observe and comply with RA 10173, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances from NPC in the  
         processing and disclosure of COVID-19-related data as a personal information controller.
 
 C. National Privacy Commission  
    1. Provide policy directions and oversight, together with DOH, on       allmatters relating to  
       privacy  and data protection, and processing   and disclosure of COVID-19-related   data.  
    2. Evaluate, monitor and direct activities relating to privacy and data protection of COVID-  
-      19-related data in pursuit of surveillance and response as provided under RA 10173, its  
-      IRR, and other issuances from NPC.
+      19-related data in pursuit of surveillance and response as provided under RA 10173, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances from NPC.
 
 D. Healthcare Providers  
    1. Report to the DOH and  
@@ -378,27 +376,25 @@ F. DOH Partner Agencies (including Local Government Units)
       including guidelines on privacy and data protection, and processing and disclosure of  
        COVID-19-related data.
 
-VIII. PENALTY CLAUSE
+## VIII. PENALTY CLAUSE
 
 1.    Non-cooperation of any individual to disclose truthful and accurate information regarding  
      their health condition and exposure to COVID-19 to public health authorities and/or DOH  
      partner agencies, or of any individual or entity that should report and/or respond to COVID-  
-     19 surveillance and response, or any similar action insofaras   they  
-                                                                          relate to the provisions of
 
    this Joint Memorandum Circular shall be penalized in accordance with RA 11332  
    (Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern  
    Act), RA 11469 (Bayanihan to Heal as One Act), and other applicable laws, rules and  
    regulations.  
 2. Any privacy violation, or personal data breach, or security incident shall be penalized in  
-   accordance with RA 10173 (Data Privacy Act of 2012), or other applicable laws, rules, and  
+   accordance with RA 10173 ([[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]), or other applicable laws, rules, and  
                                                                   of  
    regulations. Exemptions for privacy violation include disclosures  personal health information  
    that is publicly known or becomes publicly known for causes not due to any unauthorized  
    act of any concerned implementer  of  these Guidelines, or public disclosure made by   the data  
    subject himself/herself.
 
-IX. REPEALING CLAUSE
+## IX. REPEALING CLAUSE
 
      All previous issuances that are inconsistent with any provisions of this Joint  
 Memorandum Circular are hereby amended, modified, or repealed accordingly.
@@ -409,7 +405,7 @@ X. SEPARABILITY CLAUSE
 unauthorized or rendered invalid by any court of law, those provisions not affected by such  
 declaration shall remain valid and in effect.
 
-XI. EFFECTIVITY
+## XI. EFFECTIVITY
 
          This Joint Memorandum Circular shall take effect immediately.
 
@@ -417,12 +413,13 @@ XI. EFFECTIVITY
      F        CISCOA. DUQUE     III,    MD, MSc              RAYMUND E. LIBORO  
                                                           Tivacy Commissioner and Chairman  
                Secretary
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^19]: surveillance and response, or any similar action insofaras   they relate to the provisions of
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Analysis and metadata]]
 - Raw source text: [[sources/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/jmc2020-0002v1.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

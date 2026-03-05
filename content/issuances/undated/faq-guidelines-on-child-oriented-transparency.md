@@ -12,8 +12,6 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 6bcd620f8b9b927810f86e78ae2c5d216b74ca2d -->
                  Advisory on Guidelines on Child-Oriented Transparency  
           Questions Raised During the Call for Public Input as of 17 December 2024
 
@@ -38,8 +36,8 @@ General Questions
 
 3. Why does the Advisory           The NPC recognizes children as data subjects and rights  
    directly         address        holders. Their lack of legal capacity to act does not diminish  
-   children, even though           the rights as data subjects under Republic Act No. 10173 or  
-   they lack the legal             the Data Privacy Act of 2012 (DPA).  
+   children, even though           the rights as data subjects under [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or  
+   they lack the legal             the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]).  
    capacity to act?
 
 4. When does the Advisory          The Advisory applies when PICs and PIPs are engaged in  
@@ -50,11 +48,10 @@ General Questions
 
                                    The Advisory also applies when the processing is done  
                                    outside the Philippines pursuant to the extraterritorial  
-                                   application of the DPA.
+                                   application of the [[laws/data-privacy-act-of-2012|DPA]].
 
-                                   As provided in Section 6 of the DPA and Section 4, Rule II of  
-                                   its Implementing Rules and Regulations (IRR), the DPA, its  
-                                   IRR, and issuances of the Commission apply to acts of  
+                                   As provided in [[laws/data-privacy-act-of-2012#Section 6|Section 6 of the DPA]] and Section 4, Rule II of  
+                                   its Implementing Rules and Regulations (IRR), the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances of the Commission apply to acts of  
                                    processing personal data performed in and outside the  
                                    Philippines      in      the      following       instances:
 
@@ -65,8 +62,8 @@ General Questions
                                          Philippine citizen or resident;  
                                       3. The entity has a link with the Philippines.
 
-                                  As the Advisory provides guidelines on how the DPA and  
-                                  its IRR applies in relation to the processing of children’s  
+                                  As the Advisory provides guidelines on how the [[laws/data-privacy-act-of-2012|DPA]] and  
+                                  its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] applies in relation to the processing of children’s  
                                   personal data, it will apply even when the processing is done  
                                   outside the Philippines.
 
@@ -90,15 +87,14 @@ General Questions
 
 7. What       are    the          Due to the nature of an advisory, this Advisory does not  
    enforcement                    introduce new obligations or penalties. It is based on  
-   mechanisms       and           existing obligations under the DPA, its IRR, and other  
+   mechanisms       and           existing obligations under the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other  
    penalties   for non-           issuances of the Commission.  
    compliance with the  
-   Advisory?                      Enforcement mechanisms established under the DPA, its  
-                                  IRR, and relevant issuances apply in relation to the  
+   Advisory?                      Enforcement mechanisms established under the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and relevant issuances apply in relation to the  
                                   Advisory.
 
 8. Will a PIC be given a          No. The Advisory provides clarification on existing  
-   period     to    ensure        obligations imposed under the DPA, its IRR, and other  
+   period     to    ensure        obligations imposed under the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other  
    compliance with the            issuances of the Commission.  
    provisions    of    the  
    Advisory?                      The Advisory only seeks to provide further guidance when  
@@ -199,7 +195,7 @@ Data Breach Notification
      guardian and the child?   precautions or other measures to protect themselves against  
                                the possible effects of the breach.
 
-                                   Section 20 (f) of the DPA requires PICs to notify their  
+                                   Section 20 (f) of the [[laws/data-privacy-act-of-2012|DPA]] requires PICs to notify their  
                                    affected data subjects of breaches in cases that fall under  
                                    mandatory breach notification. NPC Circular 16-03  
                                    (Personal Data Breach Management) provides the  
@@ -225,12 +221,9 @@ Accountability
                                   including personal data that has been subcontracted or  
                                   outsourced to their PIPs, in accordance with the Principle of  
                                   Accountability.
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/undated/faq-guidelines-on-child-oriented-transparency|Analysis and metadata]]
 - Raw source text: [[sources/undated/faq-guidelines-on-child-oriented-transparency|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/FAQs-Advisory-on-Guidelines-on-Child-Oriented-Transparency.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

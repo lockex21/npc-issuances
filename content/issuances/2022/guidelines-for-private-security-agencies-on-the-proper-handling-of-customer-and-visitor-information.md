@@ -1,5 +1,5 @@
 ---
-title: "Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information"
+title: "Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information (Circular No. 2022)"
 description: "SUBJECT : GUIDELINES FOR PRIVATE SECURITY AGENCIES ON THE PROPER HANDLING OF CUSTOMER AND VISITOR INFORMATION"
 aliases:
   - "Circular No. 2022"
@@ -15,21 +15,16 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: cfaf7356183427ba64b017b4d5996796995c650d -->
-[[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 2022]] – 03
 
- DATE                      :       05 December 2022
+**Circular No. 2022**
 
- SUBJECT                   :       GUIDELINES FOR PRIVATE SECURITY AGENCIES ON  
                                    THE PROPER HANDLING OF CUSTOMER AND  
                                    VISITOR INFORMATION
 
 WHEREAS, the National Privacy Commission (NPC) recognizes the vital role of Private Security  
 Agencies (PSA) and Security Guards in ensuring the safety and security of persons and properties;
 
-WHEREAS, entities classified as personal information controllers (PICs) under Republic Act No.  
-10173 or the Data Privacy Act of 2012 (DPA), generally engage PSAs and Security Guards to secure  
+WHEREAS, entities classified as personal information controllers (PICs) under [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), generally engage PSAs and Security Guards to secure  
 and control access to identified areas or properties, among others;
 
 WHEREAS, the NPC received reports concerning the apparent disregard by some Security  
@@ -40,7 +35,7 @@ Investigation Agencies Memorandum dated 15 June 2020 and the Housing and Land Us
 Regulatory Board Administrative Order 3, Series of 2017 dated 19 May 2017, PSAs and other  
 similar entities engaged by homeowners’ associations (HOA) do not have the authority to require  
 motorists to surrender their driver’s license, even temporarily, as a condition for entry to gated  
-communities, as such authority is lodged by law1 only upon the Land Transportation Office (LTO)  
+communities, as such authority is lodged by law[^1] only upon the Land Transportation Office (LTO)  
 or others it may deputize;
 
 WHEREAS, the sole purpose for requiring an Identification Card (ID) from the customers, visitors,  
@@ -48,13 +43,12 @@ and other data subjects is to verify their identity;
 
 WHEREAS, there is a need to inform and acquaint PSAs and Security Guards with the proper  
 processing of personal data during the performance of their duties to avoid violating the rights of  
-data subjects under the DPA;
+data subjects under the [[laws/data-privacy-act-of-2012|DPA]];
 
-WHEREAS, Section 11 of the DPA allows the processing of personal information subject to  
-compliance with the requirements of the DPA and other laws allowing disclosure of information  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 11|Section 11 of the DPA]] allows the processing of personal information subject to  
+compliance with the requirements of the [[laws/data-privacy-act-of-2012|DPA]] and other laws allowing disclosure of information  
 to the public, and adherence to the general principles of transparency, legitimate purpose, and
 
-1 Land Transportation and Traffic Code, § 29: Confiscation of Driver’s License. – Law enforcement and peace officers of
 
 other agencies duly deputized by the Director shall, in apprehending a driver for any violation of this Act or any regulations  
 issued pursuant thereto, or of local traffic rules and regulations not contrary to any provisions of this Act, confiscate the license  
@@ -67,27 +61,27 @@ ________________________________________________________________________________
 
 proportionality;
 
-WHEREAS, Section 14 of the DPA states that a PIC may subcontract the processing of personal  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 14|Section 14 of the DPA]] states that a PIC may subcontract the processing of personal  
 information: provided, that the PIC shall be responsible for ensuring that proper safeguards are in  
 place to ensure the confidentiality of the personal information processed, prevent its use for  
-unauthorized purposes, and generally, comply with the requirements of the DPA and other laws  
+unauthorized purposes, and generally, comply with the requirements of the [[laws/data-privacy-act-of-2012|DPA]] and other laws  
 for processing of personal information;
 
-WHEREAS, Section 21 (a) of the DPA further states that a PIC is accountable for complying with  
+WHEREAS, Section 21 (a) of the [[laws/data-privacy-act-of-2012|DPA]] further states that a PIC is accountable for complying with  
 the requirements of the law and shall use contractual or other reasonable means to provide a  
 comparable level of protection while the information are being processed by a third party;
 
 WHEREAS, PSAs and Security Guards engaged by a PIC are considered personal information  
-processors (PIPs) and are also bound to observe the requirements of the DPA and other applicable  
+processors (PIPs) and are also bound to observe the requirements of the [[laws/data-privacy-act-of-2012|DPA]] and other applicable  
 laws;
 
-WHEREAS, pursuant to Section 7 of the DPA, the NPC is charged with the administration and  
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the NPC is charged with the administration and  
 implementation of the provisions of the law, which includes ensuring the compliance by PICs with  
-the provisions of the DPA, and carrying out efforts to formulate and implement plans and policies  
+the provisions of the [[laws/data-privacy-act-of-2012|DPA]], and carrying out efforts to formulate and implement plans and policies  
 that strengthen the protection of personal information in the country, in coordination with other  
 government agencies and the private sector;
 
-WHEREAS, Section 9 of the Implementing Rules and Regulations of the DPA (IRR) provides that  
+WHEREAS, Section 9 of the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|DPA]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) provides that  
 the Commission shall, among its other functions, develop, promulgate, review or amend rules and  
 regulations for the effective implementation of the law;
 
@@ -100,20 +94,19 @@ SECTION 1. Scope. — This Circular shall apply to all PICs, and to PSAs and Sec
 acting as PIPs, in the processing of personal data of customers, visitors, and other data subjects as  
 part of their security services.
 
-SECTION 2. Definition of Terms. — The definition of terms in the DPA and its IRR, as amended,  
+SECTION 2. Definition of Terms. — The definition of terms in the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as amended,  
 are adopted herein. In addition, whenever used in this Circular, the following terms shall mean or  
 be understood as follows:
 
     A. “Private Security Agency” or “PSA” refers to any person or entity engaged in contracting,  
        recruitment, training, furnishing, or posting of Security Guards and other private security  
        personnel to individuals, corporation, offices, and organizations, whether private or  
-       public, for their security needs as the Philippine National Police (PNP) may approve;2
+       public, for their security needs as the Philippine National Police (PNP) may approve;[^2]
 
     B. “Security Guard” refers to any person who offers or renders personal service to watch or  
        secure either a residence, business establishment, buildings, compounds, areas, or  
        property, inspects, monitors, or performs bodily checks or searches of individuals or
 
-2 See: Department of Labor and Employment, Revised Guidelines Governing the Employment and Working Conditions of
 
 Security Guards and other Private Security Personnel in the Private Security Industry, Department Order No. 150-16, series  
 of 2016 [DOLE DO No. 150-16], § 2 (i) (Feb. 9. 2016).
@@ -123,7 +116,7 @@ of 2016 [DOLE DO No. 150-16], § 2 (i) (Feb. 9. 2016).
 
      C. “Service Agreement” refers to the contract between the PIC and the PSA acting as a PIP  
         containing the terms and conditions governing the performance or completion of security  
-        service, jobs, or work being farmed out for a definite or predetermined period;4
+        service, jobs, or work being farmed out for a definite or predetermined period;[^4]
 
      D. “Subcontracting” refers to the outsourcing, assignment, or delegation of the processing of  
         personal data by a PIC to a PIP. In this arrangement, the PIC retains control over the  
@@ -167,8 +160,6 @@ services of PSAs shall have the following obligations:
      C. Accountability. PICs shall use contractual or other reasonable means to ensure that proper  
         safeguards are in place to guarantee the confidentiality, integrity, availability of the
 
-3 Id. § 2 (h).  
-4 DOLE DO No. 150-16, § 2 (j).
 
          personal data processed, and to prevent its use for unauthorized purposes. PICs shall  
          ensure that a Subcontracting Agreement or Service Agreement is executed with PSAs prior  
@@ -181,8 +172,8 @@ services of PSAs shall have the following obligations:
          5. The geographic location of the processing under the agreement;  
          6. The obligations and rights of PICs;  
          7. The specific obligations of PSAs taking into consideration the mandatory stipulations  
-            under Section 44 (b) of the IRR of DPA; and  
-         8. The duty of PSAs to comply with the requirements of the DPA and its IRR, other  
+            under Section 44 (b) of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR of the DPA]]; and  
+         8. The duty of PSAs to comply with the requirements of the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], other  
             relevant issuances of the Commission, other applicable laws, and any other obligations  
             with the PICs.
 
@@ -205,7 +196,7 @@ services of PSAs shall have the following obligations:
                 fulfillment of the declared, specified, and legitimate purpose/s, or when the  
                 processing relevant to the purpose has been terminated.  
             b. For government agencies, the retention period under the applicable law shall be  
-                observed.5
+                observed.[^5]
 
 SECTION 4. Obligations of PSAs acting as PICs. — All PSAs acting as PICs shall have the  
 following obligations:
@@ -214,10 +205,9 @@ following obligations:
        the applicable Rules on the Registration of Data Processing Systems and Notifications  
        regarding Automated Decision-Making;
 
-    B. Training. PSAs shall provide trainings on the DPA, its IRR, and other relevant issuances of  
+    B. Training. PSAs shall provide trainings on the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other relevant issuances of  
        the Commission to all Security Guards prior to their assignment or deployment.
 
-5 See: National Archives of the Philippines, General Records Disposition Schedule common to all Government Agencies,
 
 series 2009 which provides for the retention period of two (2) years after date of last entry for logbooks (available at  
 [https://nationalarchives.gov.ph/wp-content/uploads/2015/04/NAP-Gen.-Circular-1-2-and-GRDS-2009.pdf](https://nationalarchives.gov.ph/wp-content/uploads/2015/04/NAP-Gen.-Circular-1-2-and-GRDS-2009.pdf)).
@@ -229,10 +219,10 @@ series 2009 which provides for the retention period of two (2) years after date 
             data;  
          2. The conduct of the training shall be properly documented at all times. The Commission  
             may require the submission of the same in accordance with the applicable provisions  
-            of the DPA, its IRR, and other issuances on the matter;
+            of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances on the matter;
 
     C. Inspection. All PSAs shall ensure that all Security Guards assigned or deployed are  
-       complying with the requirements of the DPA. For this purpose, PSAs shall conduct regular  
+       complying with the requirements of the [[laws/data-privacy-act-of-2012|DPA]]. For this purpose, PSAs shall conduct regular  
        onsite visits in establishments where its Security Guards are assigned or deployed.
 
 SECTION 5. Obligations of PSAs acting as PIPs. — All PSAs acting as PIPs shall have the  
@@ -277,7 +267,7 @@ following obligations:
        another auditor authorized by such PIC.
 
 SECTION 6. Penalties. — The processing of personal data in violation of this Circular shall carry  
-criminal, civil, and administrative liability pursuant to the provisions of the DPA and related  
+criminal, civil, and administrative liability pursuant to the provisions of the [[laws/data-privacy-act-of-2012|DPA]] and related  
 issuances of the Commission. This is without prejudice to the administrative penalties that may  
 be imposed under Republic Act No. 5487 or “An Act to Regulate the Organization and Operation  
 of Private Detective, Watchmen or Security Guards Agencies” and other applicable laws.
@@ -308,12 +298,17 @@ Approved:
                                                 SGD.  
                                    LEANDRO ANGELO Y. AGUIRRE  
                                      Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^1]: Land Transportation and Traffic Code, § 29: Confiscation of Driver’s License. – Law enforcement and peace officers of
+[^2]: See: Department of Labor and Employment, Revised Guidelines Governing the Employment and Working Conditions of
+[^3]: Id. § 2 (h).
+[^4]: DOLE DO No. 150-16, § 2 (j).
+[^5]: See: National Archives of the Philippines, General Records Disposition Schedule common to all Government Agencies,
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Analysis and metadata]]
 - Raw source text: [[sources/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

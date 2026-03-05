@@ -1,5 +1,5 @@
 ---
-title: "Annex 1"
+title: "Annex 1 (Circular No. 2022-04)"
 description: "SWORN DECLARATION AND UNDERTAKING FOR EXEMPTION FROM REGISTRATION OF DATA PROCESSING SYSTEMS"
 aliases:
   - "Circular No. 2022-04"
@@ -15,14 +15,14 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 82308821b45b55e73341bc069cb846eceb1f2030 -->
+
+**Circular No. 2022-04**
+
 ANNEX 1
 
-CITY OF _______________________) S.S.
+## CITY OF _______________________) S.S.
 
-       SWORN DECLARATION AND UNDERTAKING FOR EXEMPTION FROM  
-              REGISTRATION OF DATA PROCESSING SYSTEMS
+## SWORN DECLARATION AND UNDERTAKING FOR EXEMPTION FROM REGISTRATION OF DATA PROCESSING SYSTEMS
 
 I [Name of Data Protection Officer/Authorized Representative], of legal age, and residing at  
 [Address of DPO/Authorized Representative], after having been duly sworn in accordance  
@@ -83,18 +83,15 @@ SUBSCRIBED AND SWORN to before me this ____ day of ______, 20__, Affiant exhibit
 to me a competent proof of identity ___________________________________ issued at  
 _____________________ on _______________________.
 
-                                                                               NOTARY PUBLIC
+## NOTARY PUBLIC
 
 Doc No. _____;  
 Page No. ____;  
 Book No. ____;  
 Series of _____.
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2022/annex-1|Analysis and metadata]]
 - Raw source text: [[sources/2022/annex-1|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-Annex-1-1.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

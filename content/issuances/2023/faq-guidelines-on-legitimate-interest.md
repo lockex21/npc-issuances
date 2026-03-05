@@ -13,8 +13,6 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 12aba1b32ef51775148330130872ed59dd324a86 -->
                     Circular on Guidelines for Legitimate Interest  
          Questions Raised During the Public Consultation on 07 December 2023
 
@@ -32,11 +30,11 @@ General Questions
                                 valid legitimate interest.  
     2. When does                Legitimate interest applies as a lawful basis for processing  
        legitimate interest      personal information under Section 12 (f) of the Data Privacy  
-       apply as a lawful        Act (DPA). It is not a valid lawful basis when the processing  
+       apply as a lawful        Act ([[laws/data-privacy-act-of-2012|DPA]]). It is not a valid lawful basis when the processing  
        basis for                involves sensitive personal information, which has been  
        processing?              emphasized in Section 3 (B) of the Circular. The processing  
                                 of sensitive personal information may be based on other  
-                                lawful criteria under Section 13 of the DPA.
+                                lawful criteria under [[laws/data-privacy-act-of-2012#Section 13|Section 13 of the DPA]].
 
                                 The Circular applies if the specific processing of personal  
                                 information is based on legitimate interest, regardless of  
@@ -55,7 +53,7 @@ General Questions
     3. Whose legitimate         The legitimate interest of a PIC or a third party or parties to  
        interests are            whom the personal information is disclosed is considered.  
        considered?  
-                                This is based on Section 12 (f) of the DPA which specifically  
+                                This is based on Section 12 (f) of the [[laws/data-privacy-act-of-2012|DPA]] which specifically  
                                 identifies two (2) kinds of persons: (1) A PIC; and (2) a third  
                                 party or parties to whom the data is disclosed.
 
@@ -76,12 +74,12 @@ General Questions
                                   processing. If the processing is based on consent, the notice  
                                   should state that. If the processing is based on legitimate  
                                   interest, this should also be clearly declared. This is  
-                                  provided in Section 16 of the DPA and Section 34 (a) (2) (c)  
+                                  provided in [[laws/data-privacy-act-of-2012#Section 16|Section 16 of the DPA]] and Section 34 (a) (2) (c)  
                                   of its Implementing Rules and Regulations.
 
                                   To be clear, the Circular is not introducing a new basis for  
                                   processing. Legitimate interest has always been provided in  
-                                  the DPA. The purpose of the Circular is to clarify the concept  
+                                  the [[laws/data-privacy-act-of-2012|DPA]]. The purpose of the Circular is to clarify the concept  
                                   of legitimate interest to make it easier to utilize as a lawful  
                                   basis for processing personal information.
 
@@ -107,7 +105,7 @@ General Questions
         provisions of the  
         Circular?                 Section 8 (B) of the Circular provides that “A PIC must keep  
                                   the records of the legitimate interest assessment made as the  
-                                  basis for relying on Section 12 (f) of the DPA to process  
+                                  basis for relying on Section 12 (f) of the [[laws/data-privacy-act-of-2012|DPA]] to process  
                                   personal information.”
 
                                   The transitory period is limited to Section 8 (B) of the  
@@ -120,11 +118,11 @@ General Questions
 
                                Since the three (3) requisites for processing based on  
                                legitimate interest are not new and are just elaborations on  
-                               what is already provided in Section 12 (f) of the DPA, the  
+                               what is already provided in Section 12 (f) of the [[laws/data-privacy-act-of-2012|DPA]], the  
                                transitory period is just there to allow PICs or third parties  
                                to prepare the necessary documentation to show that they  
                                have satisfied all the requisites.  
-     7. In a scenario where It is important to remember that the DPA should not be used  
+     7. In a scenario where It is important to remember that the [[laws/data-privacy-act-of-2012|DPA]] should not be used  
         a party wishes to      to facilitate the perpetuation of fraud and scams. The PIC  
         stop the disclosure    cannot refuse to disclose the name and contact information  
         of information,        of a person involved in a scam under the guise of protecting  
@@ -174,7 +172,7 @@ Legitimate Interest of Third Parties
          third party to whom      interest.  
          personal  
          information         is  
-                                  Section 12 (f) of the DPA provides: “The processing is  
+                                  Section 12 (f) of the [[laws/data-privacy-act-of-2012|DPA]] provides: “The processing is  
          disclosed have a  
                                   necessary for the purposes of the legitimate interests  
          legitimate interest?  
@@ -206,10 +204,10 @@ Legitimate Interest of Third Parties
      11. Can a request for        It depends on the basis for the refusal to disclose. If the  
          information be           refusal is based solely on a lack of legitimate interest, then  
          rejected if the          that is not a proper reliance on that basis. Section 12 (f) of  
-         requesting party has     the DPA states that either the PIC or the third-party  
+         requesting party has     the [[laws/data-privacy-act-of-2012|DPA]] states that either the PIC or the third-party  
          legitimate interest?     recipient must have a legitimate interest. If the PIC has a  
-         Or is there a legal      lawful basis outside the DPA to prevent disclosure, then it  
-         obligation to            can rely on that. However, using the DPA as the sole reason  
+         Or is there a legal      lawful basis outside the [[laws/data-privacy-act-of-2012|DPA]] to prevent disclosure, then it  
+         obligation to            can rely on that. However, using the [[laws/data-privacy-act-of-2012|DPA]] as the sole reason  
          provide information      to not disclose could be problematic.  
          if the requesting  
          party has legitimate  
@@ -390,7 +388,7 @@ Requisites for Processing Based on Legitimate Interest
          expectations must         nature, and extent of the processing.  
          be given to the data  
          subject upon              Under Section 34 (b) under the Implementing Rules and  
-         obtaining consent to      Regulations of the DPA, the right to object is also not  
+         obtaining consent to      Regulations of the [[laws/data-privacy-act-of-2012|DPA]], the right to object is also not  
          be compliant to the       absolute. Data subjects can exercise it in instances when the  
          data subject’s right      basis for processing is consent or legitimate interest.  
          to be informed of  
@@ -554,7 +552,7 @@ Further Processing of Personal Information Based on Legitimate Interest
                                   person and he needs the personal information of the  
                                   accused in order to file the case, he can use as basis for  
                                   processing Section 13 (f) in relation to Section 12 (f) of the  
-                                  DPA even if personal information was originally collected  
+                                  [[laws/data-privacy-act-of-2012|DPA]] even if personal information was originally collected  
                                   based on consent.  
      31. Is consent required      No, consent is not required since there is already a lawful  
          for further              basis for that further processing. The lawful basis for the  
@@ -656,7 +654,7 @@ Sectoral Determination of Specific Legitimate Interest
          part of their rollout    Since health data likely falls under sensitive personal  
          to healthcare            information, legitimate interest may not be the most suitable  
          systems. In general,     criteria for processing. Instead, engaging in proper research,  
-         Medical Technology       relying on the provisions in Section 4 of the DPA, is  
+         Medical Technology       relying on the provisions in [[laws/data-privacy-act-of-2012#Section 4|Section 4 of the DPA]], is  
          Companies act as         recommended. This involves conducting proper research  
          processors.              that is cleared by an ethics board and documented  
                                   appropriately, among others.  
@@ -743,15 +741,12 @@ Processing carried out by Public Authorities
                                   for processing is legitimate interest, the data subject can  
                                   exercise their right to object. However, this will not stop the  
                                   processing if another basis for processing exists such as  
-                                  when pursuing a legal claim under Section 13 (f) of the DPA.  
+                                  when pursuing a legal claim under Section 13 (f) of the [[laws/data-privacy-act-of-2012|DPA]].  
                                   As always, these determinations are made on a case-to-case  
                                   basis.
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2023/faq-guidelines-on-legitimate-interest|Analysis and metadata]]
 - Raw source text: [[sources/2023/faq-guidelines-on-legitimate-interest|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

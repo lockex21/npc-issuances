@@ -1,5 +1,5 @@
 ---
-title: "Schedule of Fees and Charges of the National Privacy Commission"
+title: "Schedule of Fees and Charges of the National Privacy Commission (Circular No. 2023-01)"
 description: "WHEREAS, Executive Order No. 292, otherwise known as the “Administrative Code of 1987”, authorizes all agencies to charge fees, including honoraria, and other reasonable allowances, as compensation for consultation, seminars or training programs, or technical services rendered..."
 aliases:
   - "Circular No. 2023-01"
@@ -16,13 +16,9 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 47e3bd373c11855745c4a7a299541eea88e645ef -->
-NPC Circular No. 2023-01
 
-Date            :        17 May 2023
+**Circular No. 2023-01**
 
-Subject         :        SCHEDULE OF FEES AND CHARGES OF THE NATIONAL  
                          PRIVACY COMMISSION
 
        WHEREAS, Executive Order No. 292, otherwise known as the “Administrative Code  
@@ -31,7 +27,7 @@ allowances, as compensation for consultation, seminars or training programs, or 
 services rendered to other government agencies or private parties;
 
        WHEREAS, the National Privacy Commission (NPC) was created under Republic Act  
-No. (R.A.) 10173, otherwise known as the “Data Privacy Act of 2012” (DPA), in order to  
+No. (R.A.) 10173, otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]” ([[laws/data-privacy-act-of-2012|DPA]]), in order to  
 discharge the duty of the State to protect individual personal information in information and  
 communications systems in the government and the private sector;
 
@@ -286,12 +282,9 @@ Approved:
                 Sgd.                                                     On official leave  
 ATTY. LEANDRO ANGELO Y. AGUIRRE                                  ATTY. NERISSA N. DE JESUS  
    Deputy Privacy Commissioner                                     Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Analysis and metadata]]
 - Raw source text: [[sources/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Schedule-of-Fees-and-Charges-of-the-National-Privacy-Commission.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

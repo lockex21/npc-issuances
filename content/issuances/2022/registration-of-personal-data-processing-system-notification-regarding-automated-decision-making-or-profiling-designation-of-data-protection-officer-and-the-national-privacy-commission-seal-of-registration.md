@@ -1,5 +1,5 @@
 ---
-title: "REGISTRATION OF PERSONAL DATA PROCESSING SYSTEM, NOTIFICATION REGARDING AUTOMATED DECISION-MAKING OR PROFILING, DESIGNATION OF DATA PROTECTION OFFICER, AND THE NATIONAL PRIVACY COMMISSION SEAL OF REGISTRATION"
+title: "REGISTRATION OF PERSONAL DATA PROCESSING SYSTEM, NOTIFICATION REGARDING AUTOMATED DECISION-MAKING OR PROFILING, DESIGNATION OF DATA PROTECTION OFFICER, AND THE NATIONAL PRIVACY COMMISSION SEAL OF REGISTRATION (Circular No. 2022-04)"
 description: "WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State recognizes the vital role of communication and information in nation-building. At the same time, Article II, Section 11 thereof emphasizes that the State values the dignity of every human person..."
 aliases:
   - "Circular No. 2022-04"
@@ -15,13 +15,9 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 509b9a12ba91109e0c56297e852d7ea777242615 -->
-[[issuances/2022/annex-1|NPC Circular No. 2022-04]]
 
-DATE            :   05 December 2022
+**Circular No. 2022-04**
 
-SUBJECT         :   REGISTRATION OF PERSONAL DATA PROCESSING SYSTEM,  
                     NOTIFICATION REGARDING AUTOMATED DECISION-MAKING  
                     OR PROFILING, DESIGNATION OF DATA PROTECTION OFFICER,  
                     AND THE NATIONAL PRIVACY COMMISSION SEAL OF  
@@ -32,20 +28,19 @@ recognizes the vital role of communication and information in nation-building. A
 time, Article II, Section 11 thereof emphasizes that the State values the dignity of every human  
 person and guarantees full respect for human rights;
 
-        WHEREAS, Section 2 of Republic Act No. 10173, also known as the Data Privacy Act  
-of 2012 (DPA), provides that it is the policy of the State to protect the fundamental human  
+        WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human  
 right of privacy of communication while ensuring free flow of information to promote  
 innovation and growth. The State also recognizes its inherent obligation to ensure that  
 personal information in information and communications systems in the government and in  
 the private sector are secure and protected;
 
-       WHEREAS, Section 16 of the DPA and Section 34 of its Implementing Rules and  
-Regulations (IRR) provide that data subjects shall be furnished with and given access to their  
+       WHEREAS, [[laws/data-privacy-act-of-2012#Section 16|Section 16 of the DPA]] and Section 34 of its Implementing Rules and  
+Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) provide that data subjects shall be furnished with and given access to their  
 personal data that are being processed in Data Processing System, as well as the purpose,  
 scope, method, and manner of such processing, including the existence of automated decision-  
 making;
 
-        WHEREAS, pursuant to Section 7 of the DPA, the National Privacy Commission  
+        WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the National Privacy Commission  
 (NPC) is charged with the administration and implementation of the provisions of the law,  
 which includes ensuring the compliance by a personal information controller (PIC) with the  
 provisions thereof, publishing a compilation of an agency’s system of records and notices, and  
@@ -53,20 +48,20 @@ carrying out efforts to formulate and implement plans and policies that strength
 protection of personal data, in coordination with other government agencies and private  
 entities;
 
-        WHEREAS, Section 9 of the IRR provides that, among the NPC’s functions, is to  
+        WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 9|Section 9 of the IRR]] provides that, among the NPC’s functions, is to  
 develop, promulgate, review, or amend rules and regulations for the effective implementation  
-of the DPA;
+of the [[laws/data-privacy-act-of-2012|DPA]];
 
-      WHEREAS, Section 24 of the DPA states that, when entering into any contract that  
+      WHEREAS, [[laws/data-privacy-act-of-2012#Section 24|Section 24 of the DPA]] states that, when entering into any contract that  
 may involve accessing or requiring sensitive personal information from at least one thousand
 
 (1,000) individuals, a government agency shall require the contractor and its employees to  
-register its personal information processing system with the NPC in accordance with the DPA  
-and to comply with the law’s provisions. Furthermore, Section 14 of the DPA mandates that  
-a personal information processor (PIP) shall also comply with all requirements of the DPA  
+register its personal information processing system with the NPC in accordance with the [[laws/data-privacy-act-of-2012|DPA]]  
+and to comply with the law’s provisions. Furthermore, [[laws/data-privacy-act-of-2012#Section 14|Section 14 of the DPA]] mandates that  
+a personal information processor (PIP) shall also comply with all requirements of the [[laws/data-privacy-act-of-2012|DPA]]  
 and other applicable laws;
 
-        WHEREAS, in line with Sections 46 and 47 of the IRR, a PIC or PIP that employs fewer  
+        WHEREAS, in line with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 46 and 47 of the IRR]], a PIC or PIP that employs fewer  
 than two hundred fifty (250) persons shall not be required to register unless the processing it  
 carries out is likely to pose a risk to the rights and freedoms of data subjects, is not occasional,  
 or includes sensitive personal information of at least one thousand (1,000) individuals.  
@@ -88,15 +83,15 @@ involving automated decision-making or profiling;
 governing the registration of Data Processing System and Data Protection Officer, notification  
 regarding automated decision-making or profiling, and the NPC seal of registration:
 
-                                   PRELIMINARY PROVISIONS
+## PRELIMINARY PROVISIONS
 
 SECTION 1. Scope. The provisions of this Circular shall apply to any natural or juridical  
 person in the government or private sector processing personal data and operating in the  
-Philippines, subject to the relevant provisions of the DPA, its IRR, and other applicable  
+Philippines, subject to the relevant provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other applicable  
 issuances of the NPC.
 
 SECTION 2. Definition of Terms. For the purpose of this Circular, the definition of terms in  
-the Data Privacy Act of 2012 and it’s IRR are adopted, and the following terms are defined, as  
+the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] and it’s [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] are adopted, and the following terms are defined, as  
 follows:
 
    A. “Automated Decision-making” refers to a wholly or partially automated processing  
@@ -107,7 +102,7 @@ follows:
       companies or an individual consultant under contract with several separate PICs and  
       PIPs who is appointed or designated to be primarily responsible for ensuring the
 
-      compliance of each of the concerned entities with the DPA, its IRR and all other  
+      compliance of each of the concerned entities with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and all other  
       relevant issuances of the Commission;
 
  C. “Compliance Officer for Privacy” or “COP” refers to an individual that performs the  
@@ -115,7 +110,7 @@ follows:
     area of authority;
 
  D. “Data Protection Officer” or “DPO” refers to an individual designated by the head of  
-    agency or organization to ensure its compliance with the Act, its IRR, and other  
+    agency or organization to ensure its compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other  
     issuances of the Commission: Provided, that, except where allowed otherwise by law  
     or the Commission, the individual must be an organic employee of the government  
     agency or private entity: Provided further, that a government agency or private entity  
@@ -199,7 +194,7 @@ SECTION 3. Purpose. This Circular establishes the following:
         3. guarantee that information about Data Processing System owned by PICs or PIP  
            operating in the country are made accessible to the Commission to enable a more  
            efficient compliance monitoring process and uphold the exercise of data subject  
-           rights under the DPA; and
+           rights under the [[laws/data-privacy-act-of-2012|DPA]]; and
 
         4. promote transparency and accountability in the processing of personal data.
 
@@ -208,7 +203,7 @@ principles:
 
    A. Registration of an entity’s Data Processing System and DPO with the Commission  
       shall be one of the means through which a PIC or PIP demonstrates its compliance  
-      with the DPA, its IRR, and other relevant issuances of the NPC.
+      with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other relevant issuances of the NPC.
 
    B. Registration information submitted by a PIC or PIP to the NPC are presumed to  
       contain all required information on its Data Processing System that are active or  
@@ -225,8 +220,7 @@ principles:
    E. Any doubt in the interpretation of the provisions of this Circular shall be liberally  
       interpreted in a manner that would uphold the rights and interests of data subjects.
 
-                     REGISTRATION OF DATA PROCESSING SYSTEM  
-                          AND DATA PROTECTION OFFICER
+## REGISTRATION OF DATA PROCESSING SYSTEM AND DATA PROTECTION OFFICER
 
 SECTION 5. Mandatory Registration. A PIC or PIP that employs two hundred fifty (250) or  
 more persons, or those processing sensitive personal information of one thousand (1,000) or  
@@ -575,7 +569,7 @@ In case of death of an Individual Professional registrant, withdrawal may be don
 of kin through written notification with a copy of the death certificate attached as proof which  
 shall be submitted electronically via email.
 
-                         REGISTRY OF DATA PROCESSING SYSTEM
+## REGISTRY OF DATA PROCESSING SYSTEM
 
 SECTION 23. Maintenance of Registry. The Commission shall maintain a registry of PICs  
 and PIPs, and of the Data Processing Systems, and designated or appointed Data Protection  
@@ -602,8 +596,7 @@ explain why its removal should not be effected.
 SECTION 25. Non-inclusion of Confidential Information. Information classified by the  
 Constitution or any statute as confidential shall not be included in the registry.
 
-                           NOTIFICATION REGARDING  
-                    AUTOMATED DECISION-MAKING OR PROFILING
+## NOTIFICATION REGARDING AUTOMATED DECISION-MAKING OR PROFILING
 
 SECTION 26. Notification of Automated Decision-Making or Profiling. A PIC or PIP that  
 carries out any automated decision-making operation or profiling shall indicate in its  
@@ -638,7 +631,7 @@ SECTION 28. Availability of Additional Information. Upon request by the Commissi
 PIC or PIP shall make available additional information and supporting documents pertaining  
 to its automated decision-making or profiling operation.
 
-                                  SEAL OF REGISTRATION
+## SEAL OF REGISTRATION
 
 SECTION 29. Issuance of Seal of Registration. The Seal of Registration shall be issued  
 simultaneously with the Certificate of Registration which will also be available for download.
@@ -681,12 +674,12 @@ SECTION 34. Automatic Revocation or Withdrawal. In all instances wherein the Cer
 of Registration has been revoked, or the registration of the PIC or PIP has been validly  
 withdrawn, the Seal of Registration shall automatically be revoked or otherwise invalidated.
 
-                                  SANCTIONS AND PENALTIES
+## SANCTIONS AND PENALTIES
 
 SECTION 35. Revocation of Certificate of Registration. The Commission may revoke the  
 registration of a PIC or PIP on any of the following grounds:
 
-A. failure to comply with any of the provisions of the DPA, its IRR, or any relevant issuances  
+A. failure to comply with any of the provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any relevant issuances  
 of the Commission;
 
 B. motu proprio revocation upon failure to comply with any order, condition, or restriction  
@@ -697,7 +690,7 @@ franchise, or any other similar requirement provided by law;
 
 D. cessation of operations or of personal data processing;
 
-E. lack of capacity or inability to securely process personal data in accordance with the DPA  
+E. lack of capacity or inability to securely process personal data in accordance with the [[laws/data-privacy-act-of-2012|DPA]]  
 as determined by the Commission thru its compliance check function;
 
 F. issuance by the Commission of a temporary or permanent ban on data processing against  
@@ -732,18 +725,15 @@ processes set out in this Circular and noncompliance on the mandatory display of
 
 registration, the Commission may cause upon the PIC or PIP the service of a Cease and Desist  
 Order on the processing of personal data: Provided, that this is without prejudice to other  
-processes or reliefs as the Commission may be authorized to initiate pursuant to Section 7 of  
-the DPA and any other administrative, civil, or criminal penalties that the PIC or PIP may  
-incur under the DPA and other applicable laws.
+processes or reliefs as the Commission may be authorized to initiate pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]] and any other administrative, civil, or criminal penalties that the PIC or PIP may  
+incur under the [[laws/data-privacy-act-of-2012|DPA]] and other applicable laws.
 
-                                 MISCELLANEOUS PROVISIONS
+## MISCELLANEOUS PROVISIONS
 
 SECTION 39. Transitory Period. Notwithstanding the period in the first paragraph of Section  
-7 of this Circular; all covered PICs, and PIPs shall complete their Data Processing System and  
-DPO registration within one hundred eighty (180) days from the effectivity of this Circular.
 
-SECTION 40. Repealing Clause. This Circular supersedes in its entirety NPC Circular No. 17-  
-01. The provisions of the IRR and all other issuances contrary to or inconsistent with the  
+SECTION 40. Repealing Clause. This Circular supersedes in its entirety [[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-  
+01]]. The provisions of the IRR and all other issuances contrary to or inconsistent with the  
 provisions of this Circular are deemed repealed or modified accordingly.
 
 SECTION 41. Separability Clause. If any portion or provision of this Circular is declared null  
@@ -764,12 +754,13 @@ Approved:
                                               Sgd.  
                                 LEANDRO ANGELO Y. AGUIRRE  
                                   Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^7]: of this Circular; all covered PICs, and PIPs shall complete their Data Processing System and DPO registration within one hundred eighty (180) days from the effectivity of this Circular.
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|Analysis and metadata]]
 - Raw source text: [[sources/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-2.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

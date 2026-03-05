@@ -13,31 +13,23 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: a554b98e73b60f448084f13197fcf401cacef713 -->
-NPC Circular 2023-02
-
-Date           :       26 September 2023
-
-Subject        :       Data Privacy Competency Program
-
-        WHEREAS, Republic Act No. 10173 or the Data Privacy Act (DPA) mandates the  
+        WHEREAS, [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act ([[laws/data-privacy-act-of-2012|DPA]]) mandates the  
 National Privacy Commission (NPC) to administer and implement the provisions of the law,  
 and implement plans and policies that strengthen the protection of personal data formulate  
 in the country;
 
-        WHEREAS, Section 9 of the Implementing Rules and Regulations of the DPA (IRR)  
+        WHEREAS, Section 9 of the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|DPA]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]])  
 provides that the NPC shall develop, promulgate, review, or amend rules and regulations for  
-the effective implementation of the DPA;
+the effective implementation of the [[laws/data-privacy-act-of-2012|DPA]];
 
-      WHEREAS, Section 9 of the IRR states that the NPC shall undertake the necessary or  
+      WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 9|Section 9 of the IRR]] states that the NPC shall undertake the necessary or  
 appropriate efforts to inform and educate the public on data privacy, data protection, and fair  
 information rights and responsibilities;
 
         WHEREAS, the NPC, through the NPC PHIL-DPO Program, initiated the DPO  
 Accountability, Compliance, and Ethics (DPO ACE) training to capacitate Data Protection  
 Officers with the knowledge and skills necessary to effectively manage the compliance of their  
-respective organizations with the DPA;
+respective organizations with the [[laws/data-privacy-act-of-2012|DPA]];
 
        WHEREAS, the NPC, through the PHIL-DPO Program, launched its Training the  
 Trainers (T3) Program to grant provisional accreditation to Institutional Privacy Trainers (IPT)  
@@ -52,11 +44,11 @@ programs on data privacy through the issuance of a Circular;
 
        WHEREAS, the NPC seeks to enhance the accessibility and quality of data privacy  
 and protection trainings available in the Philippines in line with the recent developments in  
-the application and interpretation of the DPA;
+the application and interpretation of the [[laws/data-privacy-act-of-2012|DPA]];
 
         WHEREAS, the NPC shall develop a Data Privacy Competency Program (Program),  
-which shall be composed of courses on the fundamental and operational aspects of the DPA  
-essential for anyone who seeks to have a better understanding of the DPA and its application  
+which shall be composed of courses on the fundamental and operational aspects of the [[laws/data-privacy-act-of-2012|DPA]]  
+essential for anyone who seeks to have a better understanding of the [[laws/data-privacy-act-of-2012|DPA]] and its application  
 to actual situations, and other projects geared towards data privacy education;
 
          WHEREAS, the Program shall neither result in a specialized accreditation or  
@@ -89,7 +81,7 @@ specific License granted by the NPC.
 fundamental concepts and principles of Philippine data privacy law, and other courses  
 developed by the NPC under this Program.
 
-        SECTION 2. Definition of Terms. Terms used in the DPA and its IRR, as amended, are  
+        SECTION 2. Definition of Terms. Terms used in the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as amended, are  
 adopted herein. In addition, whenever used in this Circular, the following terms are defined  
 as follows:
 
@@ -221,12 +213,9 @@ publication in the Official Gazette or a newspaper of general circulation.
                           Sgd.                                              Sgd.  
        ATTY. LEANDRO ANGELO Y. AGUIRRE                         ATTY. NERISSA N. DE JESUS  
              Deputy Privacy Commissioner                       Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2023/data-privacy-competency-program|Analysis and metadata]]
 - Raw source text: [[sources/2023/data-privacy-competency-program|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/Circular-on-Data-Privacy-Competency-Program-2023.09.26.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

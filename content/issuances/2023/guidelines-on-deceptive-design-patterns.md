@@ -1,5 +1,5 @@
 ---
-title: "Guidelines on Deceptive Design Patterns"
+title: "Guidelines on Deceptive Design Patterns (Advisory No. 2023-01)"
 description: "WHEREAS, the NPC issued a Circular on the “Guidelines on Consent” to elaborate on the processing of personal data based on consent and to emphasize the fair processing of personal data in a manner that is neither manipulative nor unduly oppressive to data subjects;"
 aliases:
   - "Advisory No. 2023-01"
@@ -15,15 +15,10 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: e0278dfd0ccb1f6f844dfb48dd7e79a809194bd3 -->
-NPC Advisory No. 2023 - 01
 
-DATE                    :   07 November 2023
+**Advisory No. 2023-01**
 
-SUBJECT                 :   GUIDELINES ON DECEPTIVE DESIGN PATTERNS
-
-WHEREAS, Section 7 (g) of the Data Privacy Act of 2012 (DPA) provides that the National  
+WHEREAS, Section 7 (g) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]) provides that the National  
 Privacy Commission (NPC) is empowered to publish, on a regular basis, a guide to all laws  
 relating to data protection;
 
@@ -61,8 +56,8 @@ design patterns, and its impact on the lawful processing of personal data based 
 subject’s consent and in line with the general privacy principles. This Advisory aims to  
 prevent the usage of deceptive design patterns on analog and digital interfaces.
 
-SECTION 2. Definition of Terms. — Terms used in the DPA and its Implementing Rules  
-and Regulations (IRR), as amended, are adopted herein. In addition, whenever used in this  
+SECTION 2. Definition of Terms. — Terms used in the [[laws/data-privacy-act-of-2012|DPA]] and its Implementing Rules  
+and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), as amended, are adopted herein. In addition, whenever used in this  
 Advisory, the following terms are defined as follows:
 
     A. “Deceptive Design Patterns” refer to design techniques embedded on an analog or  
@@ -80,7 +75,7 @@ Advisory, the following terms are defined as follows:
        context, of the information made available to them;
 
     E. “Digital Interface” refers to any software, including a website or a part thereof, or  
-       computer or mobile application;1
+       computer or mobile application;[^1]
 
     F. “User Experience” or “UX” refers to the overall experience of a data subject using an  
        analog or digital interface in relation to its convenience, accessibility and credibility;
@@ -107,7 +102,6 @@ of prevalent deceptive design patterns:
          5. purposely complicate or muddle a data subject’s choices relating to the processing  
             of their personal data;
 
-1 REGULATION (EU) 2022/2065 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 October 2022 on
 
 a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act), Article 3 (m) (19 October  
 2022).
@@ -138,7 +132,7 @@ a Single Market For Digital Services and amending Directive 2000/31/EC (Digital 
 
 SECTION 4. Transparency. – A PIC shall ensure transparency in the presentation of  
 information to the data subject by avoiding deceptive design patterns. In accordance with the  
-DPA and the Guidelines on Consent, a PIC shall ensure that the data subject is aware of the  
+[[laws/data-privacy-act-of-2012|DPA]] and the Guidelines on Consent, a PIC shall ensure that the data subject is aware of the  
 nature, purpose, and extent of the processing of personal data.
 
 The user interface must provide a concise statement in clear, plain, consistent, and straight-  
@@ -181,12 +175,13 @@ Approved:
                  SGD.                                                SGD.  
     LEANDRO ANGELO Y. AGUIRRE                               NERISSA N. DE JESUS  
       Deputy Privacy Commissioner                         Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^1]: REGULATION (EU) 2022/2065 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 October 2022 on
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2023/guidelines-on-deceptive-design-patterns|Analysis and metadata]]
 - Raw source text: [[sources/2023/guidelines-on-deceptive-design-patterns|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

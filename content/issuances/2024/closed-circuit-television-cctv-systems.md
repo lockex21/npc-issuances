@@ -1,5 +1,5 @@
 ---
-title: "Closed-Circuit Television (CCTV) Systems"
+title: "Closed-Circuit Television (CCTV) Systems (Circular No. 2024-02)"
 description: "WHEREAS, CCTV systems process personal and sensitive personal information (collectively, personal data);"
 aliases:
   - "Circular No. 2024-02"
@@ -15,13 +15,8 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 04fa6606c9da89eafa9afbcc514269531d4ffc20 -->
-NPC Circular No. 2024 – 02
 
-DATE                    :   9 August 2024
-
-SUBJECT                 :   CLOSED-CIRCUIT TELEVISION (CCTV) SYSTEMS
+**Circular No. 2024-02**
 
 WHEREAS, the National Privacy Commission (NPC) previously issued [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|NPC Advisory No. 2020-04]], or the Guidelines on the Use of Closed-Circuit Television (CCTV) Systems, which  
 provides guidance to all personal information controllers (PICs) and personal information  
@@ -54,8 +49,8 @@ any of the following purposes:
         private and non-commercial residence or establishment, particularly where it  
         monitors a public space, such use cannot be considered purely for personal, family, or  
         household use. As such, the owner of the CCTV systems is a PIC and subject to the  
-        corresponding obligations under the Data Privacy Act of 2012 (DPA), its  
-        Implementing Rules and Regulations (IRR), and all relevant issuances of the NPC.
+        corresponding obligations under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), its  
+        Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and all relevant issuances of the NPC.
 
     B. Lawful surveillance. This Circular shall not apply to law enforcement, intelligence, and  
        investigative agencies and other government agencies conducting lawful surveillance
@@ -64,7 +59,7 @@ any of the following purposes:
           applicable requirements of the Philippine Constitution and other laws and regulations  
           regulating surveillance activities.
 
-SECTION 2. Definition of Terms. — The definition of terms used in the DPA and its IRR, as  
+SECTION 2. Definition of Terms. — The definition of terms used in the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as  
 amended, and other NPC issuances are adopted herein. In addition, whenever used in this  
 Circular, the following terms are defined as follows:
 
@@ -79,7 +74,7 @@ Circular, the following terms are defined as follows:
         being viewed, like blurring or covering faces, body parts, or other objects that will  
         reveal personal data;
 
-     D. “NPC” refers to the National Privacy Commission created under the DPA;
+     D. “NPC” refers to the National Privacy Commission created under the [[laws/data-privacy-act-of-2012|DPA]];
 
      E. “Personal, family, or household affairs” refers to the uses that are limited to those with  
         no connection to any professional activity and not intended for profit or commercial  
@@ -136,7 +131,7 @@ the data subject. For this purpose, PICs and its PIPs shall adhere to the follow
               conspicuous areas.  
            3. The nature, scope, and extent of surveillance, purpose, capabilities of the CCTV  
               systems, and other necessary information shall be provided to the data subjects in  
-              accordance with their right to be informed under the DPA.
+              accordance with their right to be informed under the [[laws/data-privacy-act-of-2012|DPA]].
 
      B. Legitimate purpose. PICs shall ensure that the purpose of processing is not contrary to  
         law, morals, or public policy, and that such purpose is clearly determined, specified,  
@@ -167,10 +162,10 @@ Edition), 2017, available at [https://www.sciencedirect.com/topics/computer-scie
            safeguards are in place when the processing is subcontracted to PIPs. PICs shall  
            demonstrate compliance by adhering to the general principles of privacy,  
            implementing safeguards, keeping appropriate records, upholding data subject rights  
-           and their other obligations under the DPA, IRR, and relevant issuances of the NPC.
+           and their other obligations under the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and relevant issuances of the NPC.
 
 SECTION 4. Lawful basis. — PICs shall identify the most appropriate lawful basis for  
-processing under the DPA and the same should be provided when required by the  
+processing under the [[laws/data-privacy-act-of-2012|DPA]] and the same should be provided when required by the  
 Commission.
 
         A. PICs shall determine the more appropriate lawful basis other than the consent of the  
@@ -180,12 +175,12 @@ Commission.
            such as those involving open surveillance in public and semi-public places.
 
         B. The processing of CCTV footage including sensitive personal information shall be  
-           based on the most appropriate lawful basis under Section 13 of the DPA.
+           based on the most appropriate lawful basis under [[laws/data-privacy-act-of-2012#Section 13|Section 13 of the DPA]].
 
 SECTION 5. Safeguards. — PICs and its PIPs shall implement reasonable and appropriate  
 security measures, including privacy by design principles, to protect personal data processed  
 against accidental, unlawful, or unauthorized use,5 to minimize privacy intrusion, and to  
-comply with the requirements under the DPA, its IRR, and relevant issuances of the NPC.
+comply with the requirements under the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and relevant issuances of the NPC.
 
         A. Policies. PICs and its PIPs shall establish policies that govern the operation of CCTV  
            systems, which include:
@@ -207,7 +202,7 @@ comply with the requirements under the DPA, its IRR, and relevant issuances of t
                     recording or copy thereof;  
                 b. Handling inquiries and complaints, if any; and
 
-    Data Privacy Act of 2012, § 20 (2012).
+    [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], § 20 (2012).
 
             c. Managing personal data breaches and security incidents involving the CCTV  
                 systems;  
@@ -226,7 +221,7 @@ comply with the requirements under the DPA, its IRR, and relevant issuances of t
        upon the implementation of CCTV systems:
 
         1. Location and placement. To ensure that CCTV systems capture footage in a manner  
-           consistent with the DPA and to avoid unreasonable intrusions on the data subjects’  
+           consistent with the [[laws/data-privacy-act-of-2012|DPA]] and to avoid unreasonable intrusions on the data subjects’  
            privacy, the PIC and its PIPs shall thoroughly consider the location and angles of  
            the cameras.  
            a. CCTVs shall only be used to monitor the intended spaces, taking into  
@@ -272,13 +267,12 @@ comply with the requirements under the DPA, its IRR, and relevant issuances of t
            derived from CCTV systems that utilize video analytics. PICs shall utilize PIAs to  
            assess and minimize potential privacy risks.
 
-        6. Assistance of PIPs. In accordance with Sections 43 and 44 of the IRR, PICs should  
+        6. Assistance of PIPs. In accordance with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 43 and 44 of the IRR]], PICs should  
            put in place contractual or other reasonable means to ensure the cooperation and  
            assistance of PIPs they have engaged to process personal data on their behalf.
 
 SECTION 6. Data subject request for access. — Any person whose personal data is recorded  
-on CCTV systems has a right to reasonable access to the same pursuant to Section 16 of the  
-DPA and Section 34 of the IRR.
+on CCTV systems has a right to reasonable access to the same pursuant to [[laws/data-privacy-act-of-2012#Section 16|Section 16 of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 34|Section 34 of the IRR]].
 
     A. PICs and PIPs shall establish policies allowing for access, and shall consider the  
        following:
@@ -302,7 +296,6 @@ DPA and Section 34 of the IRR.
        footage, such as a specific person sought to be identified as part of the request for  
        identification of malefactors for the protection of lawful rights and interests,  
        establishing legal claims, investigation, or law enforcement purposes, Section 12 (f) or  
-       13 (f) of the DPA may apply as the basis for the disclosure.
 
 SECTION 7. Third-party access request. — A third-party access request is a request to  
 access CCTV footage made by a person other than the data subject involved in the footage or  
@@ -313,18 +306,18 @@ image within the CCTV footage does not automatically classify such request as a 
 access request. Further, in handling third-party access requests, the same policies and  
 procedures outlined in the previous section shall apply.
 
-    A. PICs shall decide on the merits of the request for disclosure based on the DPA, IRR,  
+    A. PICs shall decide on the merits of the request for disclosure based on the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]],  
        relevant issuances of the NPC, and other existing laws and regulations.
 
         1. Once a PIC has disclosed information to the requesting party, the latter becomes  
            responsible for the copy they hold. It is the requesting party’s responsibility to  
-           comply with the DPA, its IRR, and other related issuances of the NPC in relation  
+           comply with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other related issuances of the NPC in relation  
            to any processing of the personal data involved in the CCTV footage requested.  
         2. The method for disclosing the requested information should be secure to ensure  
            access only by the intended recipient.
 
     B. Subject to the criteria provided for the lawful processing of personal data under  
-       Sections 12 and 13 of the DPA, CCTV footage may be disclosed in the following  
+       Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|DPA]], CCTV footage may be disclosed in the following  
        instances:
 
         1. Law enforcement and criminal investigations. With respect to requests for CCTV  
@@ -352,7 +345,7 @@ procedures outlined in the previous section shall apply.
 
         4. Request from the media. PICs and its PIPs are not obliged to release CCTV footages  
            to the media, unless there is a lawful basis for processing under Sections 12 or 13  
-           of the DPA or processing under a special case, specifically Section 4 (d) of the DPA.  
+           of the [[laws/data-privacy-act-of-2012|DPA]] or processing under a special case, specifically Section 4 (d) of the [[laws/data-privacy-act-of-2012|DPA]].  
            Further, the disclosure should always be with due regard to the general principles  
            of privacy, rights of data subjects, and codes of conduct and ethical standards of  
            journalism.  
@@ -364,7 +357,7 @@ procedures outlined in the previous section shall apply.
                amusement or entertainment purposes.  
             b. Law enforcement agencies may release CCTV footage to the media on a case-  
                to-case basis taking into account the lawful basis for processing of personal  
-               data under Sections 12 and 13 of the DPA, or processing under a special case,  
+               data under Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|DPA]], or processing under a special case,  
                considering the requirements of public order and safety, verification or  
                confirmation of identity, and other relevant factors.  
             c. Where the media’s request involves images of individuals other than the  
@@ -381,7 +374,7 @@ procedures outlined in the previous section shall apply.
            b. PICs must determine on a case-to-case basis if they will accede to such request  
                taking into consideration the general principles of privacy, the rights and  
                freedoms of the data subjects whose images are recorded by the CCTV systems,  
-               and a lawful basis for processing under Section 12 or Section 13 of the DPA.
+               and a lawful basis for processing under Section 12 or [[laws/data-privacy-act-of-2012#Section 13|Section 13 of the DPA]].
 
 SECTION 8. Response procedure. — The following shall be implemented:
 
@@ -493,8 +486,7 @@ Circular shall be interpreted in a manner mindful of the rights and interests of
 and without prejudice to the application of other pertinent laws and regulations on the matter.
 
 SECTION 12. Penalties. — The processing of personal data in violation of this Circular shall  
-carry criminal, civil, and administrative liability pursuant to the provisions of the DPA, its  
-IRR, and related issuances of the NPC.
+carry criminal, civil, and administrative liability pursuant to the provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and related issuances of the NPC.
 
 SECTION 13. Transitory Provisions. — PICs and PIPs shall be given a period of sixty (60)  
 calendar days from the effectivity of this Circular to comply with the requirements provided  
@@ -519,12 +511,13 @@ Approved:
                   SGD.                                                 SGD.  
      LEANDRO ANGELO Y. AGUIRRE                                NERISSA N. DE JESUS  
        Deputy Privacy Commissioner                          Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^13]: (f) of the DPA may apply as the basis for the disclosure.
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2024/closed-circuit-television-cctv-systems|Analysis and metadata]]
 - Raw source text: [[sources/2024/closed-circuit-television-cctv-systems|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-Circular-No.-2024-02-CCTV-Systems.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

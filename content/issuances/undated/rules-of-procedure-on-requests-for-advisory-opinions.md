@@ -1,5 +1,5 @@
 ---
-title: "Rules of procedure on requests for Advisory Opinions"
+title: "Rules of procedure on requests for Advisory Opinions (Circular No. 18-01)"
 description: "SECTION 1. General Principles. – The NPC is an independent body mandated by law to provide assistance on matters relating to privacy or data protection at the request of a national or local agency, a private entity or any person. It is authorized to promulgate rules to..."
 aliases:
   - "Circular No. 18-01"
@@ -14,20 +14,14 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: dd2d69c883cd088eff060bc0c6940f35f1b5e8ef -->
-DATE           : 10 SEPTEMBER 2018
 
-SUBJECT        : RULES OF PROCEDURE ON REQUESTS FOR ADVISORY  
-                 OPINIONS
+**Circular No. 18-01**
+
+SUBJECT        : RULES OF PROCEDURE ON REQUESTS FOR ADVISORY OPINIONS
 
 Pursuant to the authority vested in the National Privacy Commission (NPC) through Section  
-7 of Republic Act No. 10173, otherwise known as “The Data Privacy Act of 2012” (DPA), the  
-following guidelines for requests for advisory opinions of the NPC are hereby prescribed and  
-promulgated:
 
-                                       RULE I  
-                               PRELIMINARY PROVISIONS
+## RULE I PRELIMINARY PROVISIONS
 
 SECTION 1. General Principles. – The NPC is an independent body mandated by law  
 to provide assistance on matters relating to privacy or data protection at the request  
@@ -54,8 +48,7 @@ investigation and appropriate action, as may be necessary.
 SECTION 3. Scope and Coverage. – These rules shall apply to all requests for advisory  
 opinions cognizable by the NPC.
 
-                              RULE II  
-          REQUIREMENTS FOR REQUESTS FOR ADVISORY OPINIONS
+## RULE II REQUIREMENTS FOR REQUESTS FOR ADVISORY OPINIONS
 
 SECTION 4. Letter Request. – The requesting party shall submit a letter request for  
 the issuance of an advisory opinion, addressed to the Privacy Commissioner and  
@@ -70,7 +63,7 @@ The following information shall be indicated in the letter request:
        to be clarified or confirmed by the requesting party;  
     c. A comprehensive narrative of the factual circumstances and legal bases of the  
        request;  
-    d. An affidavit or certification1 that the subject of the request for advisory opinion  
+    d. An affidavit or certification[^1] that the subject of the request for advisory opinion  
        is not a matter pending in a case in litigation before the courts, the NPC or is  
        not subject of an ongoing investigation or compliance check; and  
     e. All relevant documents and attachments that will enable the NPC to  
@@ -83,9 +76,9 @@ SECTION 5. Subject of an advisory opinion.
 
     a.   The following may be the subject of an advisory opinion:
 
-         1. Interpretation of the provisions of the DPA, its Implementing Rules and  
-            Regulations (IRR) and NPC Issuances;  
-         2. Compliance requirements under the DPA and related issuances;  
+         1. Interpretation of the provisions of the [[laws/data-privacy-act-of-2012|DPA]], its Implementing Rules and  
+            Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) and NPC Issuances;  
+         2. Compliance requirements under the [[laws/data-privacy-act-of-2012|DPA]] and related issuances;  
          3. Enforcement of data privacy laws and regulations; and  
          4. Other related matters on personal data privacy, security, and protection.
 
@@ -98,9 +91,6 @@ SECTION 5. Subject of an advisory opinion.
          3. The request has previously been the subject of an advisory opinion;  
          4. The request posits questions, issues or concerns that are too general in  
             scope, overly abstract, anticipatory and speculative;
-
-1Affidavit duly notarized for individual data subjects and Secretary’s Certificate for juridical persons. This  
-documentary requirement may be waived in meritorious cases.
 
        5. The request requires a review and interpretation of contracts or an opinion  
           on the validity of contracts; or  
@@ -148,8 +138,7 @@ SECTION 9. Conference with the Requesting Party. – Where necessary, the NPC ma
 in its discretion, require the requesting party to attend a conference, for a more  
 exhaustive and thorough discussion of the matter.
 
-                                  RULE III  
-                             GENERAL PROVISIONS
+## RULE III GENERAL PROVISIONS
 
 SECTION 10. Release of Advisory Opinions. – The advisory opinion shall be released  
 to the requesting party not later than twenty (20) working days from date of receipt  
@@ -188,13 +177,13 @@ Approved:
         (Sgd) IVY D. PATDU                  (Sgd) LEANDRO ANGELO Y. AGUIRRE  
      Deputy Privacy Commissioner                   Deputy Privacy Commissioner
 
-Date: 19 SEPTEMBER 2018
-<!-- END MANUAL ANNOTATED TEXT -->
+## Footnotes
+
+[^1]: Affidavit duly notarized for individual data subjects and Secretary’s Certificate for juridical persons. This documentary requirement may be waived in meritorious cases.
+[^7]: of Republic Act No. 10173, otherwise known as “The Data Privacy Act of 2012” (DPA), the following guidelines for requests for advisory opinions of the NPC are hereby prescribed and promulgated:
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/undated/rules-of-procedure-on-requests-for-advisory-opinions|Analysis and metadata]]
 - Raw source text: [[sources/undated/rules-of-procedure-on-requests-for-advisory-opinions|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-01_Request_forAdvisory_Opinion.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

@@ -1,5 +1,5 @@
 ---
-title: "Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission"
+title: "Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission (Advisory No. 2020-02)"
 description: "WHEREAS, the Corona Virus Disease (COVID-19), has posed serious risks to the safety, lives and health of the citizens of the Philippines and has been declared as a pandemic by the World Health Organization (WHO) on 11 March 2020;1"
 aliases:
   - "Advisory No. 2020-02"
@@ -14,22 +14,20 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 025afef708a402aa32b75cb3429cefb3da667c08 -->
-NPC ADVISORY No. 2020-02
 
-SUBJECT:       GUIDELINES ON THE USE OF VIDEOCONFERENCING  
+**Advisory No. 2020-02**
+
                TECHNOLOGY FOR THE REMOTE APPEARANCE AND  
                TESTIMONY OF PARTIES BEFORE THE NATIONAL PRIVACY  
                COMMISSION
 
        WHEREAS, the Corona Virus Disease (COVID-19), has posed serious risks to the  
 safety, lives and health of the citizens of the Philippines and has been declared as a  
-pandemic by the World Health Organization (WHO) on 11 March 2020;1
+pandemic by the World Health Organization (WHO) on 11 March 2020;[^1]
 
        WHEREAS, by virtue Proclamation No. 922, series of 2020, the President declared  
 a State of Public Health Emergency throughout the Philippines and placed the entire  
-Luzon under Community Quarantine2 due to the COVID-19 pandemic;
+Luzon under Community Quarantine[^2] due to the COVID-19 pandemic;
 
        WHEREAS, the Department of Health, through Department Memorandum No.  
 2020-056 prescribed the strict observance of social distancing and other health measures  
@@ -46,21 +44,18 @@ difficult due to the strict enforcement of Community Quarantine, restricting unn
 travel, and the suspension of public transportation;
 
        WHEREAS, the use of videoconferencing technology has been widely accepted  
-for the remote appearance or testimony of the parties in other court proceedings3;
+for the remote appearance or testimony of the parties in other court proceedings[^3];
 
        WHEREAS, allowing the remote appearance and/or testimony of parties through  
 videoconferencing would reduce the risks of possible infection posed by face-to-face  
 interactions, and ensure the continuity of proceedings before the National Privacy  
 Commission;
 
-1 WHO Director-General's opening remarks at the media briefing on COVID-19 - 11 March 2020. (n.d.).
 
   Retrieved June 05, 2020, from [https://www.who.int/dg/speeches/detail/who-director-general-s-](https://www.who.int/dg/speeches/detail/who-director-general-s-)  
   opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020  
-2 Memorandum from the Executive Secretary dated 16 March 2020  
-3 A.M. 19-05-05-SC and A.C. 37-2020
 
-      WHEREAS, Section 7 of the Data Privacy Act of 2012 has vested authority to the  
+      WHEREAS, [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]] has vested authority to the  
 National Privacy Commission to prescribe and promulgate its Rules of Procedure;
 
        WHEREAS, in consideration of these premises, the National Privacy Commission  
@@ -144,9 +139,8 @@ I.    General Provisions
                   electronic document or any methodology or procedures employed or  
                   adopted by a person and executed or adopted by such person with the  
                   intention of authenticating or approving an electronic data message or  
-                  electronic document.4
+                  electronic document.[^4]
 
-4 R.A. No. 8792
 
 II.     Proceedings
 
@@ -157,7 +151,7 @@ II.     Proceedings
 
                  1.      Consent by parties – The parties to the complaint or investigation  
                  who may wish to avail of e-hearing shall express their written consent by  
-                 affixing their electronic signatures5 to the consent forms provided to them  
+                 affixing their electronic signatures[^5] to the consent forms provided to them  
                  and sending the same through e-mail to the concerned division or the  
                  Commission, copy furnished all the other concerned parties to the case at  
                  least three (3) days prior to the scheduled hearing.
@@ -172,7 +166,6 @@ II.     Proceedings
                  in a secure and reliable videoconferencing platform to be communicated to  
                  the parties to the case.
 
-5 Republic Act No. 8792, Section 8. Legal Recognition of Electronic Signatures. - An electronic signature on the
 
 electronic document shall be equivalent to the signature of a person on a written document if that signature  
 is proved by showing that a prescribed procedure, not alterable by the parties interested in the electronic  
@@ -235,7 +228,7 @@ response to the email invitation shall suffice. Provided, the orders issued by
 the concerned division or the Commission and sent through e-mail shall be
 
                 deemed received at the time of the electronic transmission of the order, or  
-                when available, at the time that the e-mail read receipt of the order is sent6.  
+                when available, at the time that the e-mail read receipt of the order is sent[^6].  
                 7.    Remote appearance – Parties to a complaint or investigation shall,  
                 upon order of the investigating officer/ mediation officer/ Commission,  
                 remotely appear via videoconferencing.
@@ -276,7 +269,6 @@ the concerned division or the Commission and sent through e-mail shall be
                 that they are within camera view and microphone range especially when  
                 speaking. Likewise, the same shall be ensured for those speaking within
 
-6 Supplemental application of Section 9, Rule 13 of A.M. No. 19-10-20-SC
 
 the conference room, so that he or she can be seen, heard and understood  
 by those appearing remotely from another location.
@@ -331,7 +323,7 @@ the Commission.
               the recording upon written application with and approval of the  
               Commission. Only the NPC shall be permitted to record the proceedings.  
               Any unauthorized recording of the proceedings shall be dealt with in  
-              accordance with the Data Privacy Act, its IRR, related issuances and laws  
+              accordance with the Data Privacy Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], related issuances and laws  
               of the Republic of the Philippines.
 
               2.     Subsequent orders from the investigating officer/ mediation  
@@ -342,7 +334,7 @@ the Commission.
               concerned division/ Commission.
 
               3.     The processing, including that of retention and disposal shall be in  
-              accordance with the National Archives Law, Data Privacy Act, its IRR, and  
+              accordance with the National Archives Law, Data Privacy Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and  
               other related issuances.
 
 III.   Effectivity
@@ -350,7 +342,6 @@ III.   Effectivity
               These Guidelines shall take effect immediately upon approval and shall  
               remain effective until the lifting of the State of Public Health Emergency.
 
-              03 August 2020.
 
        Approved:  
                                            (Sgd.)  
@@ -360,12 +351,18 @@ III.   Effectivity
                    (Sgd.)                                          (Sgd.)  
        LEANDRO ANGELO Y. AGUIRRE                             JOHN HENRY D. NAGA  
          Deputy Privacy Commissioner                        Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^1]: WHO Director-General's opening remarks at the media briefing on COVID-19 - 11 March 2020. (n.d.).
+[^2]: Memorandum from the Executive Secretary dated 16 March 2020
+[^3]: August 2020.
+[^4]: R.A. No. 8792
+[^5]: Republic Act No. 8792, Section 8. Legal Recognition of Electronic Signatures. - An electronic signature on the
+[^6]: Supplemental application of Section 9, Rule 13 of A.M. No. 19-10-20-SC
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Analysis and metadata]]
 - Raw source text: [[sources/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/FINAL-VERSION-Guidelines-on-the-Use-of-Videoconferencing-Technology-for-Remote-Appearance-before-the-NPC-OPC.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

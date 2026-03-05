@@ -1,5 +1,5 @@
 ---
-title: "Guidelines on Legitimate Interest"
+title: "Guidelines on Legitimate Interest (Circular No. 2023-07)"
 description: "WHEREAS, under Section 9 of the Implementing Rules and Regulations of the DPA (IRR), the NPC is mandated to develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;"
 aliases:
   - "Circular No. 2023-07"
@@ -15,26 +15,21 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: d57ad73d42cef2fe25fa894648d98b1e3ee28388 -->
-NPC Circular No. 2023 - 07
 
-DATE                    :   13 December 2023
+**Circular No. 2023-07**
 
-SUBJECT                 :   GUIDELINES ON LEGITIMATE INTEREST
-
-WHEREAS, Section 7 of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA)  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]] or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]])  
 provides that the National Privacy Commission (NPC) is charged with the administration  
-and implementation of the DPA, which includes ensuring the compliance of personal  
+and implementation of the [[laws/data-privacy-act-of-2012|DPA]], which includes ensuring the compliance of personal  
 information controllers (PICs), and carrying out efforts to formulate and implement plans  
 and policies that strengthen the protection of personal information in the country in  
 coordination with other government agencies and the private sector;
 
-WHEREAS, under Section 9 of the Implementing Rules and Regulations of the DPA (IRR),  
+WHEREAS, under Section 9 of the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|DPA]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]),  
 the NPC is mandated to develop, promulgate, review, or amend rules and regulations for  
-the effective implementation of the DPA;
+the effective implementation of the [[laws/data-privacy-act-of-2012|DPA]];
 
-WHEREAS, Section 12(f) of the DPA provides that personal information may be  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]] provides that personal information may be  
 processed based on a legitimate interest pursued by the PIC or by a third party to whom  
 the data is disclosed;
 
@@ -48,15 +43,15 @@ guidelines on legitimate interest as a lawful basis for processing personal info
 
 SECTION 1. Scope and Purpose. — This Circular applies to all PICs and third parties  
 engaged in the processing of personal information based on legitimate interest under  
-Section 12(f) of the DPA.
+[[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]].
 
 This Circular provides guidelines for PICs and third parties relying on legitimate interest  
 as a lawful basis to process personal information for a specific processing activity.
 
-SECTION 2. Definition of Terms. — The definition of terms in the DPA and its IRR, as  
+SECTION 2. Definition of Terms. — The definition of terms in the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as  
 amended, as well as in existing NPC issuances, are adopted herein.
 
-SECTION 3. General Considerations. — Section 12(f) of the DPA permits the processing  
+SECTION 3. General Considerations. — [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]] permits the processing  
 of personal information when the processing is necessary for the legitimate interests  
 pursued by the PIC or a third party to whom the personal information is disclosed, except
 
@@ -71,7 +66,7 @@ subject that require protection under the Philippine Constitution.
             processing of personal information. It cannot be relied upon when the  
             processing involves sensitive personal information and privileged information.
 
-     C.     The third party in Section 12(f) of the DPA refers to any natural or juridical  
+     C.     The third party in [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]] refers to any natural or juridical  
             person to whom personal information is disclosed and who is not the PIC, the  
             personal information processor (PIP), or the data subject of the specific  
             processing activity.
@@ -82,7 +77,7 @@ subject that require protection under the Philippine Constitution.
             legitimate interest of the PIC or third party through a legitimate interest  
             assessment.
 
-                PROCESSING BASED ON LEGITIMATE INTEREST
+## PROCESSING BASED ON LEGITIMATE INTEREST
 
 SECTION 4. Requisites for Processing Based on Legitimate Interest; Legitimate Interest  
 Assessment. — Processing based on legitimate interest requires the fulfillment of the  
@@ -150,7 +145,7 @@ The factors that may be considered include but are not limited to:
             acceptable under the circumstances taking into consideration the interest  
             established.
 
-          OBLIGATIONS OF THE PERSONAL INFORMATION CONTROLLER
+## OBLIGATIONS OF THE PERSONAL INFORMATION CONTROLLER
 
 SECTION 8. Documentation. — A PIC shall document the conduct and results of its  
 legitimate interest assessment.
@@ -159,7 +154,7 @@ legitimate interest assessment.
             interest as part of their regular process.
 
      B.     A PIC must keep the records of the legitimate interest assessment made as the  
-            basis for relying on Section 12(f) of the DPA to process personal information.
+            basis for relying on [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]] to process personal information.
 
      C.     In case of an investigation or a compliance check, the NPC may require the  
             submission of the records of the legitimate interest assessment.
@@ -188,9 +183,6 @@ the performance of their constitutional or statutory mandates.
 Legitimate interest may be considered the appropriate lawful basis for specific processing  
 activities carried out by government agencies that are not expressly provided in their  
 mandate and do not fall squarely on any of the other criteria for processing under Section  
-12 of the DPA or as a special case under Section 4 of the DPA. Legitimate interest may  
-apply as lawful basis for ancillary processing activities performed in the ordinary course  
-of business. In such cases, the PIC must conduct a legitimate interest assessment.
 
 SECTION 13. Interpretation. — Any doubt in the interpretation of any provision of this  
 Circular shall be liberally interpreted in a manner mindful of the rights and interests of  
@@ -198,7 +190,7 @@ the data subject.
 
 SECTION 14. Penalties. — The processing of personal data in violation of this Circular  
 shall carry criminal, civil, and administrative liability pursuant to the provisions of the  
-DPA, its IRR, and related issuances of the Commission.
+[[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and related issuances of the Commission.
 
 SECTION 15. Transitory Provision. — All affected PICs shall be given a period of ninety  
 (90) calendar days from the effectivity of this Circular to comply with the requirements  
@@ -224,12 +216,13 @@ Approved:
                  SGD.                                                SGD.  
     LEANDRO ANGELO Y. AGUIRRE                               NERISSA N. DE JESUS  
       Deputy Privacy Commissioner                         Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^12]: of the DPA or as a special case under Section 4 of the DPA. Legitimate interest may apply as lawful basis for ancillary processing activities performed in the ordinary course of business. In such cases, the PIC must conduct a legitimate interest assessment.
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2023/guidelines-on-legitimate-interest|Analysis and metadata]]
 - Raw source text: [[sources/2023/guidelines-on-legitimate-interest|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-No.-2023-07_Guidelines-on-Legitimate-Interest_13-December-2023.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

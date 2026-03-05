@@ -12,8 +12,6 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 177216eb007982610a87f04795bae240ca67ebdc -->
                        Circular on Data Privacy Competency Program  
                Questions Raised During the Public Consultation on 16 June 2023
 
@@ -45,10 +43,6 @@ I. DPO ACE and T3 Programs
 
      2. Will the passers of         No, they do not need to. They, however, can still claim that  
         the DPO ACE Level           they passed the DPO ACE Level 1 Examination.  
-        1 Examination need  
-        to get trained again        The NPC wants to emphasize that there is no professional  
-        to     renew    their       certification necessary to carry out the functions of a data  
-        certificates?               privacy professional in the Philippines.
 
                                     Under this new Program, data privacy professionals may  
                                     take other courses that are more suitable for the current or  
@@ -60,7 +54,7 @@ I. DPO ACE and T3 Programs
         qualifications              taught may no longer be applicable to how the NPC is
 
          acquired under the interpreting certain concepts under the Data Privacy Act  
-         DPO ACE training (DPA).  
+         DPO ACE training ([[laws/data-privacy-act-of-2012|DPA]]).  
          shall remain valid  
          for a period of one  
          (1) year from the  
@@ -440,7 +434,7 @@ X. Additional Questions during the Public Consultation
         IAPP in creating a         Information Privacy Professional/Europe (CIPP/E) and the  
         certification  like        CIPP/Asia (CIPP/A) were done by IAPP on their own.  
         CIPP/E for EU and  
-        LGPD of Brazil, a          The NPC is working with IAPP to ensure that the DPA of  
+        LGPD of Brazil, a          The NPC is working with IAPP to ensure that the [[laws/data-privacy-act-of-2012|DPA]] of  
         CIPP/Ph?                   2012 will be included in any course they will give under the  
                                    CIPP/A for Asia.
 
@@ -453,14 +447,14 @@ X. Additional Questions during the Public Consultation
         Program      being courses offered by the regulator is not new. There is  
         practiced in other something similar in Singapore where the Personal Data
 
-         countries/                Protection Commission (PDPC) provides some kind of DPA  
+         countries/                Protection Commission (PDPC) provides some kind of [[laws/data-privacy-act-of-2012|DPA]]  
          jurisdictions?            101 that can be used by practitioners as a jumping off point  
                                    to further their growth in this field. The practitioners can  
                                    take International Organization for Standardization (ISO)  
                                    and IAPP.
 
                                    Singapore also has programs that can be taken after getting  
-                                   the basic knowledge on DPA.
+                                   the basic knowledge on [[laws/data-privacy-act-of-2012|DPA]].
 
                                    Not exactly the same, but not dissimilar to some of the  
                                    different initiatives being done by data protection  
@@ -577,12 +571,13 @@ X. Additional Questions during the Public Consultation
          they required to before he/she can act as a privacy professional.  
          enroll to private  
          trainers?
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^1]: Examination need to get trained again        The NPC wants to emphasize that there is no professional to     renew    their       certification necessary to carry out the functions of a data certificates?               privacy professional in the Philippines.
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/undated/faq-data-privacy-competency-program|Analysis and metadata]]
 - Raw source text: [[sources/undated/faq-data-privacy-competency-program|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/FAQs-Circular-on-Data-Privacy-Competency-Program-Final.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

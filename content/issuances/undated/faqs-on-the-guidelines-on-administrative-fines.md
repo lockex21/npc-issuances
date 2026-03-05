@@ -11,29 +11,22 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 120f014a360466efcdebf27037d0470f64e4183f -->
         FREQUENTLY ASKED QUESTIONS ON THE GUIDELINES ON  
                      ADMINISTRATIVE FINES
 
 Section 1- Scope
 
 1. The Guidelines cover all Personal Information Controllers (PICs) and Personal  
-   Information Processors (PIPs) as defined by the Data Privacy Act of 2012 (DPA). Does  
+   Information Processors (PIPs) as defined by the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]). Does  
    this cover even PICs and PIPs established outside of the Philippines?
 
         Yes, the Circular covers PICs and PIPs established outside of the Philippines. Section  
-   1 of the Circular provides that it covers all PICs and PIPs as defined in the DPA, whether  
-   from the public or private sector. This also covers PICs and PIPs outside of the Philippines  
-   if they fall under the requisites found under Section 4 or Section 6 of the DPA. In such  
-   instances, the gross income of the foreign PIC or PIP within the Philippines that committed  
-   the infraction will be considered to determine the imposable fine.
 
 2. Will this apply to companies not registered with the National Privacy Commission  
    (NPC)?
 
        Yes, the Circular applies to entities not registered with the NPC, provided that those  
-   entities are covered by the DPA.
+   entities are covered by the [[laws/data-privacy-act-of-2012|DPA]].
 
 Section 2- Administrative Fines
 
@@ -58,9 +51,9 @@ Section 2- Administrative Fines
    beneficial exchange of information leads to the promotion of innovation and growth.
 
 4. Section 2 of the Circular provides that the PIP can be held equally liable as the PIC for  
-   administrative fines. Under the Principle of Accountability in the DPA, however, the  
+   administrative fines. Under the Principle of Accountability in the [[laws/data-privacy-act-of-2012|DPA]], however, the  
    PIC is liable for any violations even those performed by its subcontractors. Thus,  
-   following Section 21 of the DPA, shouldn’t the PIC be solely responsible and liable for  
+   following [[laws/data-privacy-act-of-2012#Section 21|Section 21 of the DPA]], shouldn’t the PIC be solely responsible and liable for  
    the administrative infractions committed by the PIP under its control, subject only to  
    contractual agreements between them on indemnity?
 
@@ -96,7 +89,7 @@ Section 2- Administrative Fines
    to determine if there is a need to revise the amount in the future.
 
 6. How will the type of infraction be determined? Is it by counting the number of  
-   provisions under Section 11 or Section 16 of the DPA that were violated by PIC or PIP’s  
+   provisions under Section 11 or [[laws/data-privacy-act-of-2012#Section 16|Section 16 of the DPA]] that were violated by PIC or PIP’s  
    single action?
 
            Yes, the type of infraction will be determined by taking into consideration the  
@@ -108,7 +101,7 @@ Section 2- Administrative Fines
 
 7. Under Other Infractions, it states that “any natural or juridical person processing  
    personal data that fails to comply with any Order, Resolution or Decision of the  
-   Commission, or of any of its duly authorized officers, pursuant to Section 7 of the DPA  
+   Commission, or of any of its duly authorized officers, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]]  
    and its corresponding implementing issuances shall be subject to an administrative  
    fine not exceeding Fifty Thousand Pesos (Php 50,000.00)”. How will this be determined  
    and computed?
@@ -141,12 +134,11 @@ Section 2- Administrative Fines
    concerned employee in a separate action or proceeding wherein it may show proof that it  
    has implemented appropriate measures.
 
-9. The Grave and Major Infractions penalizing the violation of Section 11 or Section 16 of  
-   the DPA are too broad and subject to different interpretations. Will the Commission  
+9. The Grave and Major Infractions penalizing the violation of Section 11 or [[laws/data-privacy-act-of-2012#Section 16|Section 16 of the DPA]] are too broad and subject to different interpretations. Will the Commission  
    issue further guidelines on these violations?
 
           No, the Commission has issuances on the interpretation of these general privacy  
-   principles under Section 11 and data subject rights under Section 16 of the DPA, which  
+   principles under Section 11 and data subject rights under [[laws/data-privacy-act-of-2012#Section 16|Section 16 of the DPA]], which  
    will guide the PICs and PIPs in determining whether an infraction may have been  
    committed. All parties will be given the opportunity to be heard, and due process will be  
    observed in accordance with the NPC Rules of Procedure.
@@ -154,7 +146,7 @@ Section 2- Administrative Fines
 10. Would there be guidelines released per sector just to have a view of what are reasonable  
     and appropriate for the Commission?
 
-           No, there will be no guidelines released per sector. The DPA, IRR and NPC  
+           No, there will be no guidelines released per sector. The [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and NPC  
    issuances are deemed sufficient to inform the public of the appropriate and reasonable  
    security measures expected of all PICs and PIPs.
 
@@ -164,11 +156,11 @@ Section 2- Administrative Fines
 
 11. Will the Commission consider a reasonable graduation per year in the imposition of  
     maximum penalty to allow companies to adopt, make changes, and put in measures and  
-    processes to avoid a violation of the DPA and its implementing rules and regulations?  
+    processes to avoid a violation of the [[laws/data-privacy-act-of-2012|DPA]] and its implementing rules and regulations?  
     This is still a relatively new law and not all companies have the expertise and/or system  
     to fully comply with the applicable provisions.
 
-           No, the DPA was enacted in 2012 and the Commission was constituted in 2016.  
+           No, the [[laws/data-privacy-act-of-2012|DPA]] was enacted in 2012 and the Commission was constituted in 2016.  
    Since then, the Commission has been actively promoting, educating, and assisting the  
    stakeholders, such as the PICs and PIPs. Hence, there is no need to allow additional time  
    for PICs and PIPs to adjust and prepare as the Commission has given these PICs and PIPs  
@@ -241,7 +233,7 @@ Section 6- Posting of Bond on Imposed Administrative Fines
 
 Section 7- Refusal to Comply
 
-19. Section 7 of the DPA and Section 4 of [[issuances/1988/faqs|NPC Circular No. 20-02]] on the Rules on the  
+19. [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]] and Section 4 of [[issuances/1988/faqs|NPC Circular No. 20-02]] on the Rules on the  
     Issuance of Cease-and-Desist Orders (CDO) identify the specific parameters within  
     which to issue a CDO. Refusal to pay is not a ground for the issuance of a CDO. How  
     can the foregoing provision be reconciled with Section 7 of the Circular on  
@@ -249,7 +241,7 @@ Section 7- Refusal to Comply
 
       As worded, Section 7 of the Circular used the word "may" which highlights the  
    Commission’s discretion to issue a CDO depending on the circumstances of each case. The  
-   Commission’s power to issue a CDO is rooted in the DPA. Following this, [[issuances/1988/faqs|NPC Circular No. 20-02]] provides for an initial list of the grounds for the issuance of a CDO. The
+   Commission’s power to issue a CDO is rooted in the [[laws/data-privacy-act-of-2012|DPA]]. Following this, [[issuances/1988/faqs|NPC Circular No. 20-02]] provides for an initial list of the grounds for the issuance of a CDO. The
 
    Commission, through this Circular, provides an additional ground for the issuance of a  
    CDO.
@@ -271,11 +263,10 @@ Section 10- Applicability Clause
 
 Other Matters
 
-21. Is the Commission authorized to impose administrative fines under the DPA?
+21. Is the Commission authorized to impose administrative fines under the [[laws/data-privacy-act-of-2012|DPA]]?
 
-           Yes, the Commission is authorized to impose administrative fines. Section 7 of the  
-   DPA mandates the Commission to: (1) to ensure compliance of the PICs and PIPs with the  
-   DPA; (2) compel or petition any entity, government agency or instrumentality to abide by  
+           Yes, the Commission is authorized to impose administrative fines. [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]] mandates the Commission to: (1) to ensure compliance of the PICs and PIPs with the  
+   [[laws/data-privacy-act-of-2012|DPA]]; (2) compel or petition any entity, government agency or instrumentality to abide by  
    its orders or take action on a matter affecting data privacy; and (3) monitor compliance  
    and recommend necessary action to meet minimum standards for protection of personal  
    information.
@@ -298,22 +289,23 @@ Other Matters
 
          Considering that the Commission exercises quasi-judicial functions as mandated  
    by law, and that such function is integral to the overall authority to administer and  
-   implement the DPA, the Commission has the power to impose administrative fines.
+   implement the [[laws/data-privacy-act-of-2012|DPA]], the Commission has the power to impose administrative fines.
 
 22. Do the administrative fines supersede the penalties enumerated under Sections 25 to  
-    33 of the DPA?
 
         No, the administrative fines do not supersede the penalties enumerated under the  
-DPA. On one hand, the penalties under Sections 25 to 33 of the DPA are criminal in nature,
+[[laws/data-privacy-act-of-2012|DPA]]. On one hand, the penalties under Sections 25 to 33 of the [[laws/data-privacy-act-of-2012|DPA]] are criminal in nature,
 
 nature, not punishable by imprisonment, imposed by the Commission after due notice  
 and hearing, and imposed on PICs or PIPs whether they are juridical or natural persons.
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^1]: of the Circular provides that it covers all PICs and PIPs as defined in the DPA, whether from the public or private sector. This also covers PICs and PIPs outside of the Philippines if they fall under the requisites found under Section 4 or Section 6 of the DPA. In such instances, the gross income of the foreign PIC or PIP within the Philippines that committed the infraction will be considered to determine the imposable fine.
+[^33]: of the DPA?
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/undated/faqs-on-the-guidelines-on-administrative-fines|Analysis and metadata]]
 - Raw source text: [[sources/undated/faqs-on-the-guidelines-on-administrative-fines|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/FAQs-on-the-Guidelines-on-Administrative-Fines-.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

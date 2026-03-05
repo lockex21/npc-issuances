@@ -1,5 +1,5 @@
 ---
-title: "Guidelines on Identification Cards"
+title: "Guidelines on Identification Cards (Circular No. 2023-03)"
 description: "WHEREAS, personal information controllers (PICs) issue physical or digital identification cards (ID cards) to their respective data subjects for identity verification in relation to the provision of goods and services as well as the implementation of safeguards for electronic..."
 aliases:
   - "Circular No. 2023-03"
@@ -14,13 +14,8 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 4ec5b97c212ffe3cf0a80de554747092fb77777b -->
-NPC Circular No. 2023 – 03
 
- DATE                   :   07 November 2023
-
- SUBJECT                :   GUIDELINES ON IDENTIFICATION CARDS
+**Circular No. 2023-03**
 
 WHEREAS, personal information controllers (PICs) issue physical or digital identification  
 cards (ID cards) to their respective data subjects for identity verification in relation to the  
@@ -29,11 +24,11 @@ systems and physical premises, among others;
 
 WHEREAS, the National Privacy Commission (NPC) recognizes that such processing activity  
 may have a legitimate purpose and a lawful basis for processing under Sections 12 and 13 of  
-the Data Privacy Act of 2012 (DPA);
+the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]);
 
-WHEREAS, Section 11 of the DPA allows the processing of personal and sensitive personal  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 11|Section 11 of the DPA]] allows the processing of personal and sensitive personal  
 information (collectively, personal data) subject to compliance with the requirements of the  
-DPA and other laws allowing disclosure of information to the public, and adherence to the  
+[[laws/data-privacy-act-of-2012|DPA]] and other laws allowing disclosure of information to the public, and adherence to the  
 general principles of privacy;
 
 WHEREAS, the principle of proportionality requires that the processing of personal data shall  
@@ -41,13 +36,13 @@ be adequate, relevant, suitable, necessary, and not excessive in relation to a d
 specified purpose, and that personal data shall be processed only if the purpose of the  
 processing could not be reasonably fulfilled by other means;
 
-WHEREAS, pursuant to Section 7 of the DPA, the NPC is charged with the administration  
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the NPC is charged with the administration  
 and implementation of the provisions of the law, which includes ensuring the compliance by  
-PICs with the provisions of the DPA, and carrying out efforts to formulate and implement  
+PICs with the provisions of the [[laws/data-privacy-act-of-2012|DPA]], and carrying out efforts to formulate and implement  
 plans and policies that strengthen the protection of personal data in the country, in  
 coordination with other government agencies and the private sector;
 
-WHEREAS, Section 9 of the Implementing Rules and Regulations of the DPA (IRR) provides  
+WHEREAS, Section 9 of the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|DPA]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) provides  
 that the Commission shall, among its other functions, develop, promulgate, review or amend  
 rules and regulations for the effective implementation of the law;
 
@@ -67,7 +62,7 @@ that identifies a data subject. ID cards include, but are not limited to, compan
 IDs, insurance cards, membership cards, and rewards or loyalty cards.
 
 SECTION 2. Definition of Terms. —Terms used herein shall have the respective meanings  
-provided in the DPA, its IRR, as amended, and other issuances of the NPC.
+provided in the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as amended, and other issuances of the NPC.
 
 SECTION 3. Contents of ID cards; proportionality. — All PICs issuing ID cards shall ensure  
 that only the necessary personal data are indicated therein in relation to the primary purpose  
@@ -93,7 +88,7 @@ of identifying the data subject.
 
 SECTION 4. Penalties. — Subject to the provisions of Section 3 (A) above, the processing of  
 personal data in violation of this Circular shall carry criminal, civil, and administrative  
-liability pursuant to the provisions of the DPA and related issuances of the Commission.
+liability pursuant to the provisions of the [[laws/data-privacy-act-of-2012|DPA]] and related issuances of the Commission.
 
 SECTION 5. Interpretation. —Any doubt in the interpretation of any provision of this  
 Circular shall be liberally interpreted in a manner mindful of the rights and interests of the  
@@ -103,7 +98,6 @@ SECTION 6. Transitory Provision. — PICs shall be given a period of one hundred
 (120) calendar days from the effectivity of this Circular to comply with the requirements  
 provided herein.
 
-1 See: International Telecommunication Union, Recommendation ITU-T X.1251, A framework for user control of digital
 
 identity, “3.2.3 digital identity: The digital representation of the information known about a specific individual, group or  
 organization”, available at [https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619](https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619) (last accessed 5 July 2023) and  
@@ -131,12 +125,13 @@ Approved:
                   SGD.                                                SGD.  
      LEANDRO ANGELO Y. AGUIRRE                               NERISSA N. DE JESUS  
        Deputy Privacy Commissioner                         Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^1]: See: International Telecommunication Union, Recommendation ITU-T X.1251, A framework for user control of digital
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2023/guidelines-on-identification-cards|Analysis and metadata]]
 - Raw source text: [[sources/2023/guidelines-on-identification-cards|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/Published-NPC-Circular-No.-2023-03_Guidelines-on-Identification-Cards_07Nov2023.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

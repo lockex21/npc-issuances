@@ -1,5 +1,5 @@
 ---
-title: "Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website"
+title: "Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website (Advisory No. 2020-01)"
 description: "SUBJECT: PROTOCOLS FOR THE PUBLICATION OF DECISIONS, RESOLUTIONS AND ORDERS ON THE NPC WEBSITE"
 aliases:
   - "Advisory No. 2020-01"
@@ -14,11 +14,9 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 22addf411a0bd4b60370e6d9b1ad4fa24c7dcb57 -->
-NPC ADVISORY 2020-01
 
-SUBJECT:      PROTOCOLS FOR THE PUBLICATION OF DECISIONS, RESOLUTIONS  
+**Advisory No. 2020-01**
+
               AND ORDERS ON THE NPC WEBSITE
 
 WHEREAS, Section 7(b) of the R.A. 10173 mandates the National Privacy Commission to receive  
@@ -110,12 +108,9 @@ Issued this 18th day of June 2020.
                 (SGD.)                                            (SGD.)  
       JOHN HENRY DU NAGA                              LEANDRO ANGELO Y. AGUIRRE  
       Deputy Privacy Commissioner                       Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Analysis and metadata]]
 - Raw source text: [[sources/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-2020-01-FINAL.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

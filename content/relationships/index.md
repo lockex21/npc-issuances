@@ -9,6 +9,9 @@ This page summarizes the automatic cross-reference graph derived from numbered c
 - Pages with outgoing references: **21**
 - Pages with backlinks: **23**
 
+## Browse
+- [[relationships/by-type/index|By type and year]]
+
 ## Most Referenced
 - [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines On The Processing Of Personal Data For Election Campaign Or Partisan Political Activity]] (3 references)
 - [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data]] (3 references)

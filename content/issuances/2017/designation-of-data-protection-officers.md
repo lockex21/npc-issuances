@@ -1,5 +1,5 @@
 ---
-title: "Designation of Data Protection Officers"
+title: "Designation of Data Protection Officers (Advisory No. 2017-01)"
 description: "WHEREAS, Article II, Section 24 of the 1987 Constitution provides that the State recognizes the vital role of communication and information in nation-building. At the same time, Article II, Section 11 thereof stresses that the State values the dignity of every human person and..."
 aliases:
   - "Advisory No. 2017-01"
@@ -15,9 +15,8 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 32262598f227f7384b5ae44041d125aa5dcf9ff8 -->
-DATE               :    14 MARCH 2017
+
+**Advisory No. 2017-01**
 
 SUBJECT            :    DESIGNATION OF DATA PROTECTION OFFICERS
 
@@ -30,28 +29,28 @@ and guarantees full respect for human rights. Finally, Article XIII, Section 21 
 Congress shall give highest priority to the enactment of measures that protect and enhance  
 the right of the people to human dignity;
 
-WHEREAS, Section 2 of Republic Act No. 10173, also known as the Data Privacy Act of 2012  
-(DPA), provides that it is the policy of the State to protect the fundamental human right of  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]  
+([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human right of  
 privacy of communication while ensuring free flow of information to promote innovation  
 and growth. The State also recognizes its inherent obligation to ensure that personal  
 information in information and communications systems in the government and in the  
 private sector are secured and protected;
 
-WHEREAS, Section 21(b) of the DPA and Section 50(b) of its Implementing Rules and  
-Regulations (IRR) provide that personal information controllers (PICs) shall designate an  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 21(b)|Section 21(b) of the DPA]] and Section 50(b) of its Implementing Rules and  
+Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) provide that personal information controllers (PICs) shall designate an  
 individual or individuals who are accountable for the organization’s compliance with this  
-Act. Section 14 of the DPA and Section 45 of the IRR also require personal information  
+Act. [[laws/data-privacy-act-of-2012#Section 14|Section 14 of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 45|Section 45 of the IRR]] also require personal information  
 processors (PIPs) to comply with all the requirements of the Act and other applicable laws,  
 including issuances by the NPC;
 
-WHEREAS, pursuant to Section 26(a) of the IRR, any natural or juridical person or other  
+WHEREAS, pursuant to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 26(a)|Section 26(a) of the IRR]], any natural or juridical person or other  
 body involved in the processing of personal data shall designate an individual or  
 individuals who shall function as data protection officer (DPO), compliance officer, or shall  
 otherwise be accountable for ensuring compliance with applicable laws and regulations for  
 the protection of data privacy and security;
 
 charged with the administration and implementation of the provisions of the law, which  
-includes ensuring compliance with the provisions of the DPA and with international  
+includes ensuring compliance with the provisions of the [[laws/data-privacy-act-of-2012|DPA]] and with international  
 standards for data protection, and carrying out efforts to formulate and implement plans  
 and policies that strengthen the protection of personal information in the country, in  
 coordination with other government agencies and the private sector;
@@ -66,7 +65,7 @@ Advisory that prescribes the guidelines for the designation of a DPO:
 
 These Guidelines shall apply to all natural or juridical persons, or any other body in the  
 government or private sector engaged in the processing of personal data within and outside  
-of the Philippines, subject to the applicable provisions of the DPA, its IRR, and issuances by  
+of the Philippines, subject to the applicable provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances by  
 the NPC.
 
                                     Definition of Terms
@@ -74,8 +73,7 @@ the NPC.
 Whenever used in this Advisory, the following terms shall have their respective meanings  
 as hereinafter set forth:
 
-   a. “Act” or “DPA” refers to Republic Act No. 10173, otherwise known as the Data  
-      Privacy Act of 2012;
+   a. “Act” or “[[laws/data-privacy-act-of-2012|DPA]]” refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
    b. “Commission” or “NPC” refers to the National Privacy Commission;
 
@@ -166,7 +164,7 @@ p. “Sensitive Personal Information” refers to personal information:
 
 These Guidelines shall be governed by the following general principles:
 
-    a. The responsibility for complying with the Act, its IRR, issuances by the NPC, and all  
+    a. The responsibility for complying with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], issuances by the NPC, and all  
        other applicable laws lies with the PIC or PIP.1 When necessary, it must be capable of  
        demonstrating its capacity to comply.
 
@@ -180,8 +178,7 @@ These Guidelines shall be governed by the following general principles:
                                             Mandatory Designation
 
 A PIC or PIP shall designate an individual or individuals who shall function as DPO. The  
-DPO shall be accountable for ensuring the compliance by the PIC or PIP with the DPA, its  
-IRR, issuances by the NPC, and other applicable laws and regulations relating to privacy  
+DPO shall be accountable for ensuring the compliance by the PIC or PIP with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], issuances by the NPC, and other applicable laws and regulations relating to privacy  
 and data protection.
 
 In certain cases, a PIC or PIP is allowed to designate a compliance officer for privacy (COP):
@@ -267,7 +264,7 @@ interest.
 
 A DPO shall, inter alia:
 
-    a. monitor the PIC’s or PIP’s compliance with the DPA, its IRR, issuances by the NPC  
+    a. monitor the PIC’s or PIP’s compliance with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], issuances by the NPC  
        and other applicable laws and policies. For this purpose, he or she may:
 
          1.)     collect information to identify the processing operations, activities, measures,  
@@ -404,7 +401,7 @@ recommended, as good practice, to document the reasons therefor.
 
                                        Accountability
 
-While the responsibility of complying with the DPA, its IRR, issuances by the NPC, and  
+While the responsibility of complying with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], issuances by the NPC, and  
 other applicable laws remains with the PIC or PIP, malfeasance, misfeasance, or nonfeasance  
 on the part of the DPO or COP relative to his designated functions may still be a ground for  
 administrative, civil, or criminal liability, in accordance with all applicable laws.
@@ -417,13 +414,8 @@ Approved:
            (Sgd.) IVY D. PATDU                   (Sgd.) DAMIAN DOMINGO O. MAPA  
         Deputy Privacy Commissioner                  Deputy Privacy Commissioner
 
-Date: 14 March 2017
-<!-- END MANUAL ANNOTATED TEXT -->
-
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2017/designation-of-data-protection-officers|Analysis and metadata]]
 - Raw source text: [[sources/2017/designation-of-data-protection-officers|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC-Advisory-2017-01-sgd.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

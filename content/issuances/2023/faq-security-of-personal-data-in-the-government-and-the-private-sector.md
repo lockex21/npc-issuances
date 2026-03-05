@@ -1,5 +1,5 @@
 ---
-title: "FAQ Security of Personal Data in the Government and the Private Sector"
+title: "FAQ Security of Personal Data in the Government and the Private Sector (Circular No. 2023-06)"
 description: "I. WHAT IS THE DIFFERENCE BETWEEN CIRCULAR NO. 2023-06 (SECURITY OF PERSONAL DATA IN THE GOVERNMENT AND PRIVATE SECTOR) AND CIRCULAR NO. 2016-01 (SECURITY OF PERSONAL DATA IN GOVERNMENT AGENCIES)?"
 aliases:
   - "Circular No. 2023-06"
@@ -16,13 +16,14 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 7adb3466cc92322cd08835a0a29ecd834bf68c96 -->
+
+**Circular No. 2023-06**
+
        FREQUENTLY ASKED QUESTIONS (FAQs) ON NPC CIRCULAR NO. 2023-06
 
-SECURITY OF PERSONAL DATA IN THE GOVERNMENT AND THE PRIVATE SECTOR
+## SECURITY OF PERSONAL DATA IN THE GOVERNMENT AND THE PRIVATE SECTOR
 
-GENERAL PROVISION
+## GENERAL PROVISION
 
 I.   WHAT IS THE DIFFERENCE BETWEEN CIRCULAR NO. 2023-06 (SECURITY OF  
      PERSONAL DATA IN THE GOVERNMENT AND PRIVATE SECTOR) AND  
@@ -33,7 +34,7 @@ I.   WHAT IS THE DIFFERENCE BETWEEN CIRCULAR NO. 2023-06 (SECURITY OF
      is limited to government agencies engaged in the processing of personal data. On the other  
      hand, Circular No. 2023-06 applies to all natural or juridical persons engaged in the  
      processing of personal data within and outside of the Philippines, subject to the applicable  
-     provisions of the DPA, its IRR, and other relevant issuances of the NPC. Thus, it covers  
+     provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other relevant issuances of the NPC. Thus, it covers  
      both the government and the private sectors.
 
      Circular 2023-06 repeals Circular 16-01, removing outdated sections and adding new  
@@ -41,8 +42,7 @@ I.   WHAT IS THE DIFFERENCE BETWEEN CIRCULAR NO. 2023-06 (SECURITY OF
      requirements were added to provide organizations with more flexibility in identifying the  
      appropriate security measures.
 
-II. ARE PERSONAL INFORMATION CONTROLLERS (PICs) NOW REQUIRED TO  
-    TRAIN ALL THEIR PERSONAL INFORMATION PROCESSORS (PIPs) ON  
+## II. ARE PERSONAL INFORMATION CONTROLLERS (PICs) NOW REQUIRED TO TRAIN ALL THEIR PERSONAL INFORMATION PROCESSORS (PIPs) ON
     PRIVACY AND DATA PROTECTION?
 
      Under Section 4(f) of Circular 2023-06, training its personnel is part of PICs’ and PIPs’  
@@ -50,22 +50,21 @@ II. ARE PERSONAL INFORMATION CONTROLLERS (PICs) NOW REQUIRED TO
      ensure that the PIPs they engage with have implemented adequate protection and training  
      on privacy and data protection policies.
 
-III. WILL THE NPC ORDER THE PIC TO SUBMIT THE PIP’S PRIVACY AND DATA  
-     PROTECTION POLICIES?
+## III. WILL THE NPC ORDER THE PIC TO SUBMIT THE PIP’S PRIVACY AND DATA PROTECTION POLICIES?
 
      Following on-site visits, compliance checks, and data breach notifications, the NPC may  
      require the submission of the PIC’s data protection policies, policies pertaining to third  
      parties, and contracts for review. However, submission of PIP’s policies is not required.
 
-STORAGE OF PERSONAL DATA
+## STORAGE OF PERSONAL DATA
 
-IV. IS THERE A DEFINITION FOR HIGH VOLUME OF DATA?
+## IV. IS THERE A DEFINITION FOR HIGH VOLUME OF DATA?
 
      There is no current definition of high volume of data. However, the criteria for  
      registration to the NPC, as stated in Section 5 of NPC Circular 2022-04, may serve as the  
      baseline for a high volume of data.
 
-ACCESS TO PERSONAL DATA
+## ACCESS TO PERSONAL DATA
 
 V. DOES ACCESS MEAN ONLY PHYSICAL ACCESS?
 
@@ -75,8 +74,7 @@ V. DOES ACCESS MEAN ONLY PHYSICAL ACCESS?
       occurs when personal data is stored in any physical media, such as a paper-based filing  
       system.
 
-VI. WILL THE PRESENCE OF A USERNAME, PASSWORD, AND APPROVER WHEN  
-    ACCESSING PERSONAL DATA WITHIN THE ORGANIZATION’S NETWORK  
+## VI. WILL THE PRESENCE OF A USERNAME, PASSWORD, AND APPROVER WHEN ACCESSING PERSONAL DATA WITHIN THE ORGANIZATION’S NETWORK
     SUFFICE TO MEET THE REQUIREMENT OF SECURITY MEASURES?
 
       Merely having a username, password, and approver may not be sufficient to meet the  
@@ -85,10 +83,9 @@ VI. WILL THE PRESENCE OF A USERNAME, PASSWORD, AND APPROVER WHEN
       addition, a PIC or a PIP is in the best position to determine appropriate security  
       measures to implement since it has knowledge of its IT infrastructure.
 
-TRANSFER OF PERSONAL DATA
+## TRANSFER OF PERSONAL DATA
 
-VII. IS THE USE OF A FAX MACHINE ALLOWED IF THE OFFICE LOCATION HAS  
-     NO ACCESS TO THE INTERNET AND THE ONLY WAY TO TRANSMIT  
+## VII. IS THE USE OF A FAX MACHINE ALLOWED IF THE OFFICE LOCATION HAS NO ACCESS TO THE INTERNET AND THE ONLY WAY TO TRANSMIT
      PERSONAL DATA IS VIA FAX MACHINE?
 
       No, fax machines pose a high privacy risk; hence, Section 26 of the Circular explicitly  
@@ -101,17 +98,15 @@ VII. IS THE USE OF A FAX MACHINE ALLOWED IF THE OFFICE LOCATION HAS
       or post shall use registered mail or, where appropriate, guaranteed parcel post services  
       and Private Express and/or Messengerial Delivery Service (PEMEDES).
 
-MISCELLANEOUS PROVISIONS
+## MISCELLANEOUS PROVISIONS
 
-VIII. WHAT CAN TRIGGER AN AUDIT OF THE PICS’ OR PIPS’ COMPLIANCE WITH  
-      THE DPA OF 2012?
+## VIII. WHAT CAN TRIGGER AN AUDIT OF THE PICS’ OR PIPS’ COMPLIANCE WITH THE [[laws/data-privacy-act-of-2012|DPA]] OF 2012?
 
       An audit can be triggered by various factors, such as investigations due to complaints,  
       reported breaches involving personal data, or part of regular monitoring and  
       enforcement activities of the NPC, such as compliance checks.
 
-IX.   DOES THE NPC HAVE ACCREDITED INDEPENDENT PARTIES, OR IS THE  
-      ORGANIZATION ALLOWED TO ENGAGE ANY INDEPENDENT PARTIES TO  
+## IX.   DOES THE NPC HAVE ACCREDITED INDEPENDENT PARTIES, OR IS THE ORGANIZATION ALLOWED TO ENGAGE ANY INDEPENDENT PARTIES TO
       CONDUCT VERIFICATION?
 
       The NPC does not accredit or specifically endorse any independent or third-party  
@@ -123,16 +118,13 @@ X.    WHEN WAS THE CIRCULAR PUBLISHED IN A NEWSPAPER OF GENERAL
       CIRCULATION?  
       The Circular was published in the Daily Tribune on March 15, 2024.
 
-XI.   WHEN IS THE EFFECTIVITY OF THIS CIRCULAR?  
+## XI.   WHEN IS THE EFFECTIVITY OF THIS CIRCULAR?
       The Circular took effect on March 30, 2024. As provided in Section 40 thereof, the  
       Circular takes effect fifteen (15) calendar days from the time it was published in a  
       newspaper of general circulation.
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|Analysis and metadata]]
 - Raw source text: [[sources/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/v12-19-2024_FAQ-NPC-Circular-2023-06_NNJ_JDN.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

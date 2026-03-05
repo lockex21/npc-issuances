@@ -1,5 +1,5 @@
 ---
-title: "Guidelines On Privacy Engineering In Systems Life Cycle Processes"
+title: "Guidelines On Privacy Engineering In Systems Life Cycle Processes (Advisory No. 2025-02)"
 description: "WHEREAS, pursuant to Chapter V, Section 20 (a) of the DPA, the personal information controller must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any accidental or unlawful..."
 aliases:
   - "Advisory No. 2025-02"
@@ -15,6 +15,9 @@ draft: false
 ---
 
 ## Issuance Text
+
+**Advisory No. 2025-02**
+
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
 <!-- SEEDED ANNOTATED HASH: f1c194847b191378f06198bc08c260102f90471f -->
     NPC Advisory No. 2025 – 02  

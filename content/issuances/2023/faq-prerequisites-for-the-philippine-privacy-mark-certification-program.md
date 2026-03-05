@@ -1,5 +1,5 @@
 ---
-title: "FAQ Prerequisites for the Philippine Privacy Mark Certification Program"
+title: "FAQ Prerequisites for the Philippine Privacy Mark Certification Program (Circular No. 2023-05)"
 description: "It provides the prerequisites for certifying personal information controllers (PICs) or personal information processors (PIPs) and accrediting certification bodies (CBs) under the PPM Certification Program."
 aliases:
   - "Circular No. 2023-05"
@@ -15,12 +15,12 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: cc7f86c1c2c9ad5680e1775e48f4781cf0452271 -->
+
+**Circular No. 2023-05**
+
         FREQUENTLY ASKED QUESTIONS (FAQs) ON NPC CIRCULAR NO. 2023-05
 
-       PREREQUISITES FOR THE PHILIPPINE PRIVACY MARK (PPM) CERTIFICATION  
-                                    PROGRAM
+## PREREQUISITES FOR THE PHILIPPINE PRIVACY MARK (PPM) CERTIFICATION PROGRAM
 
   I.     WHAT DOES THIS CIRCULAR CONTAIN?
 
@@ -28,13 +28,12 @@ draft: false
          personal information processors (PIPs) and accrediting certification bodies (CBs)  
          under the PPM Certification Program.
 
- II.     ARE PICs AND PIPs REQUIRED TO OBTAIN PPM CERTIFICATION  
-         PROGRAM?
+## II.     ARE PICs AND PIPs REQUIRED TO OBTAIN PPM CERTIFICATION PROGRAM?
 
          No, it only applies to PICs or PIPs that will voluntarily seek certification and to CBs  
          that will voluntarily seek accreditation under the PPM Certification Program.
 
-III.     ARE ACCREDITATION AND CERTIFICATION THE SAME?
+## III.     ARE ACCREDITATION AND CERTIFICATION THE SAME?
 
          No. Accreditation refers to a third-party attestation related to a conformity assessment  
          body conveying a formal demonstration of its competence to carry out specific  
@@ -47,7 +46,7 @@ III.     ARE ACCREDITATION AND CERTIFICATION THE SAME?
          accreditation. PICs and PIPs are the ones who undergo certification with specific  
          standard/s.
 
-IV.      ARE THE REQUIREMENTS THE SAME FOR PICs AND PIPs?
+## IV.      ARE THE REQUIREMENTS THE SAME FOR PICs AND PIPs?
 
          Yes, the requirements for PICs and PIPs are the same. Section 4 of the Circular states  
          that PICs or PIPs must be certified with the following standards:
@@ -65,15 +64,14 @@ IV.      ARE THE REQUIREMENTS THE SAME FOR PICs AND PIPs?
                 II.      ISO/IEC 27701 – privacy information management system (PIMS)  
                 III.     In addition, CBs must obtain accreditation based on ISO/IEC 17021-1.
 
- VI.    MAY ORGANIZATIONS OBTAIN ISO/IEC 27001 AND ISO/IEC 27701  
-        CERTIFICATIONS IN ANY ORDER, OR MUST THEY FOLLOW A PARTICULAR  
+## VI.    MAY ORGANIZATIONS OBTAIN ISO/IEC 27001 AND ISO/IEC 27701 CERTIFICATIONS IN ANY ORDER, OR MUST THEY FOLLOW A PARTICULAR
         SEQUENCE?  
         ISO/IEC 27701 (Privacy Information Management System [PIMS]) is an extension of  
         ISO/IEC 27001 (Information Security Management System [ISMS]); therefore, an  
         organization must secure the ISO/IEC 27001 Certification first before proceeding with  
         securing the ISO/IEC 27701 Certification.
 
-VII.    WHY IS THE STANDARD ISO/IEC 17021-1 PART OF THE REQUIREMENTS?The  
+## VII.    WHY IS THE STANDARD ISO/IEC 17021-1 PART OF THE REQUIREMENTS?The
         ISO/IEC 17021-1 is a global standard that contains requirements for bodies  
         engaged in auditing and certifying management systems. It defines the criteria for  
         assessing the competence, consistency, and impartiality of bodies providing audit and  
@@ -81,13 +79,11 @@ VII.    WHY IS THE STANDARD ISO/IEC 17021-1 PART OF THE REQUIREMENTS?The
         requirement for CBs to ensure that they are operating in a competent, impartial,  
         consistent, and reliable manner.
 
-VIII.    ARE THERE ANY ASSOCIATED COSTS OR FEES FOR ISO/IEC 27001 AND  
-        ISO/IEC 27701 CERTIFICATIONS?  
+## VIII.    ARE THERE ANY ASSOCIATED COSTS OR FEES FOR ISO/IEC 27001 AND ISO/IEC 27701 CERTIFICATIONS?
         Costs will be incurred when the interested participant undergoes certification with  
         chosen CBs on the ISO standards specified in the Circular.
 
-  IX.   WHAT HAPPENS IF PICs, PIPs, AND CBs FAIL TO COMPLETE THE  
-        REQUIREMENTS FOR CERTIFICATION OR ACCREDITATION UNDER  
+## IX.   WHAT HAPPENS IF PICs, PIPs, AND CBs FAIL TO COMPLETE THE REQUIREMENTS FOR CERTIFICATION OR ACCREDITATION UNDER
         SECTIONS 4 AND 5?  
         They shall not be qualified to apply for certification or accreditation, as the case may  
         be, under the PPM Certification Program.
@@ -97,20 +93,16 @@ VIII.    ARE THERE ANY ASSOCIATED COSTS OR FEES FOR ISO/IEC 27001 AND
         Yes, since there is no prohibition in the Circular regarding the transfer of ISO  
         Certification from one CB to another.
 
-  XI.    WHEN WAS THE CIRCULAR PUBLISHED IN A NEWSPAPER OF GENERAL  
-        CIRCULATION?  
+## XI.    WHEN WAS THE CIRCULAR PUBLISHED IN A NEWSPAPER OF GENERAL CIRCULATION?
         The Circular was published in the Daily Tribune on March 15, 2024.
 
- XII.    WHEN IS THE EFFECTIVITY OF THIS CIRCULAR?  
+## XII.    WHEN IS THE EFFECTIVITY OF THIS CIRCULAR?
         The Circular took effect on March 15, 2024. As provided in Section 9 thereof, the  
         Circular takes effect immediately after publication in one newspaper of general  
         circulation.
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program|Analysis and metadata]]
 - Raw source text: [[sources/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/v12-19-2024_FAQ-NPC-Circular-2023-05_LYA2_NNJ_JDN3.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

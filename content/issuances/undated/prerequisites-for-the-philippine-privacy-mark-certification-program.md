@@ -12,24 +12,14 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 3f69ab3482c6544aac6ddf19efe988bc073454c0 -->
-NPC Circular 2023-05
-
-Date           :       25 October 2023
-
-Subject        :       Prerequisites for the Philippine Privacy Mark  
-                       Certification Program
-
-       WHEREAS, Section 2 of Republic Act No. 10173, also known as the Data Privacy Act  
-of 2012 (DPA), provides that it is the policy of the State to protect the fundamental human  
+       WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human  
 right of privacy, of communication while ensuring free flow of information to promote  
 innovation and growth. The State recognizes the vital role of information and  
 communications in nation-building and its inherent obligation to ensure that personal data in  
 information and communications systems in the government and the private sector are  
 secured and protected;
 
-       WHEREAS, pursuant to Section 7 of the DPA, the National Privacy Commission  
+       WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the National Privacy Commission  
 (NPC) is charged with the administration and implementation of the provisions of the law,  
 which includes monitoring and ensuring compliance of the country with international  
 standards set for data protection, and carrying out efforts to formulate and implement plans  
@@ -44,7 +34,7 @@ to ensure the secure and protected processing of personal information;
         WHEREAS, the PPM Certification Program shall evaluate the processing activities of  
 organizations and the implementation of proper data protection measures and policies  
 through a management system. It will enable organizations to reduce risks and demonstrate  
-compliance with the DPA, its IRR and other Commission’s issuances, and data subjects to  
+compliance with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and other Commission’s issuances, and data subjects to  
 identify organizations they can trust with their personal data;
 
          WHEREAS, organizations and Certification Bodies who wish to voluntarily  
@@ -63,7 +53,7 @@ Certification Program.
 SECTION 2. Purpose. This Circular provides the prerequisites for certification of PICs or PIPs  
 and accreditation of CBs under the PPM Certification Program.
 
-SECTION 3. Definition of Terms. The definition of terms in the DPA and its IRR, as amended,  
+SECTION 3. Definition of Terms. The definition of terms in the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as amended,  
 are adopted herein. In addition, whenever used in this Circular, the following terms are  
 defined as follows:
 
@@ -126,7 +116,7 @@ SECTION 6. Failure to Comply. PICs, PIPs, or CBs that fail to comply with the pr
 for certification or accreditation stated in this Circular shall not be qualified to apply for  
 certification and accreditation under the PPM Certification Program, respectively.
 
-                      ADDITIONAL MISCELLANEOUS PROVISIONS
+## ADDITIONAL MISCELLANEOUS PROVISIONS
 
 SECTION 7. Amendments. These Rules shall be subject to regular review by the Commission.  
 Any amendment thereto shall be subject to the necessary consultations with the concerned  
@@ -148,12 +138,9 @@ newspaper of general circulation.
              SGD                                                             SGD  
 LEANDRO ANGELO Y. AGUIRRE                                           NERISSA N. DE JESUS  
   Deputy Privacy Commissioner                                     Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Analysis and metadata]]
 - Raw source text: [[sources/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/03/Prerequisites-for-the-Philippine-Privacy-Mark-Signed.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

@@ -1,5 +1,5 @@
 ---
-title: "Guidelines on the Use of Telemedicine in COVID-19 Response"
+title: "Guidelines on the Use of Telemedicine in COVID-19 Response (Memorandum Circular No. 2020)"
 description: "TO : ALL UNDERSECRETARIES, ASSISTANT SECRETARIES, DIRECTORS OF BUREAUS, REGIONAL OFFICES AND SERVICES; EXECUTIVE DIRECTORS OF SPECIALTY HOSPITALS, AND NATIONAL NUTRITION COUNCIL; CHIEFS OF MEDICAL CENTERS, HOSPITALS, SANITARIA AND _INSTITUTES; PRESIDENT OF THE. PHILIPPINE..."
 aliases:
   - "Memorandum Circular No. 2020-"
@@ -14,19 +14,15 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: b20b36bc9f77d4eb6e030507f2abe621e89dd76e -->
+
+**Memorandum Circular No. 2020**
+
                                                  Department of Health                                                         “"  
                                     OFFICE OF THE SECRETARY
 
                                                                                    April 7, 2020
 
-MEMORANDUM CIRCULAR No. 2020- 0016
-
-         TO                :   ALL UNDERSECRETARIES, ASSISTANT SECRETARIES,  
-                               DIRECTORS OF BUREAUS, REGIONAL OFFICES AND  
-                               SERVICES; EXECUTIVE DIRECTORS OF SPECIALTY  
-                               HOSPITALS, AND NATIONAL NUTRITION COUNCIL;  
+## SERVICES; EXECUTIVE DIRECTORS OF SPECIALTY HOSPITALS, AND NATIONAL NUTRITION COUNCIL;
                                CHIEFS OF MEDICAL CENTERS, HOSPITALS, SANITARIA  
                                AND _INSTITUTES;  PRESIDENT OF THE. PHILIPPINE  
                                HEALTH INSURANCE CORPORATION; DIRECTORS OF  
@@ -40,7 +36,6 @@ MEMORANDUM CIRCULAR No. 2020- 0016
                                “Guidelines on the Use of Telemedicine in COVID-19 Response”
 
     Attached for your information and guidance is a copy of the DOH-NPC Joint  
-Memorandum Circular No. 2020-0001 entitled “(Guidelines on the Use of Telemedicine in  
 COVID-19 Response dated March 28, 2020
 
         Dissemination of the information to all concerned is requested.
@@ -55,7 +50,7 @@ COVID-19 Response dated March 28, 2020
     .    Building 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, 1003 Manila « Trunk Line 651-7800 local 1113, 1108, 1135  
          Direct Line: 711-9502; 711-9503 Fax: 743-1829; 743-1786 @ URL; littp://www.doh.gov.ph; e-mail: fiduque@doh.gov.ph
 
-                              DEPARTMENT OF HEALTH
+## DEPARTMENT OF HEALTH
 
                                                                                  March 28, 2020  
 JOINT MEMORANDUM CIRCULAR No. 2020-_0001
@@ -74,7 +69,7 @@ adverse effects on their means of livelihood, and the severe disruption of econo
 arising from this health situation prompted further issuance of Republic Act No. 11469 that  
 placed the entire country in a state of national emergency.
 
-Il.     OBJECTIVES
+## Il.     OBJECTIVES
 
         The overall aim of this Joint Memorandum Circular is to enable patients to receive  
 health services even while staying at home except for serious conditions, emergencies, or to  
@@ -168,7 +163,7 @@ Circular:
                  iv. Risk of technology failure including confidentiality breach; and  
                   v. Policy on care coordination.
 
-VI. GUIDELINES
+## VI. GUIDELINES
 
 A. Healthcare Providers  
    1. All healthcare providers shall help unburden local health systems and health facilities  
@@ -256,19 +251,19 @@ C. Monitoring and Evaluation Framework
           d. Operational measures (access, acceptability, provider satisfaction, patient  
                satisfaction, data privacy and cybersecurity)
 
-VII. REPEALING CLAUSE
+## VII. REPEALING CLAUSE
 
      All previous issuances that are inconsistent with any provisions of this Joint  
 Memorandum Circular are hereby amended, modified, or repealed accordingly.
 
-VIII. SEPARABILITY CLAUSE
+## VIII. SEPARABILITY CLAUSE
 
                                                                                 is  
         In the event that any provision or part of this Joint Memorandum Circular   declared  
 unauthorized or rendered invalid by any court of law, those provisions not affected by such  
 declaration shall remain valid and in effect.
 
-IX. EFFECTIVITY
+## IX. EFFECTIVITY
 
         This Joint Memorandum Circular shall take effect immediately for the duration of the  
 declared Enhanced Community Quarantine for the management of COVID-19 health  
@@ -278,14 +273,11 @@ imposed quarantine  is lifted.
         epartment of Health  
                               Ill, MD, MSc             NDE.  YYMUND
 
-                                                                          LIBORO  
+## LIBORO
                                                      Privacy Commissioner and Chairman
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Analysis and metadata]]
 - Raw source text: [[sources/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/DOH-mc2020-0016.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

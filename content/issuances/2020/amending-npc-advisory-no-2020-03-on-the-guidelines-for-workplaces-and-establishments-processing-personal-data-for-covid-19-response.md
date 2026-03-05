@@ -1,5 +1,5 @@
 ---
-title: "Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response"
+title: "Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response (Advisory No. 2020-03)"
 description: "SUBJECT : AMENDING NPC ADVISORY NO. 2020 – 03 ON THE GUIDELINES FOR WORKPLACES AND ESTABLISHMENTS PROCESSING PERSONAL DATA FOR COVID-19 RESPONSE"
 aliases:
   - "Advisory No. 2020-03"
@@ -14,22 +14,18 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: c75feff7f0e76d5cd0e7cc644916bfd8e60ede11 -->
-NPC Advisory No. 2020 – 03 – A
 
-DATE                :       26 November 2020
+**Advisory No. 2020-03**
 
-SUBJECT             :       AMENDING NPC ADVISORY NO. 2020 – 03 ON THE  
                             GUIDELINES      FOR   WORKPLACES      AND  
                             ESTABLISHMENTS PROCESSING PERSONAL DATA  
                             FOR COVID-19 RESPONSE
 
-SECTION 1. This Advisory aims to amend Section 4 (A) of NPC Advisory No. 2020 – 03  
+SECTION 1. This Advisory aims to amend Section 4 (A) of [[issuances/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|NPC Advisory No. 2020 – 03]]  
 pertaining to the collection of information by workplaces and establishments as required for  
 COVID-19 prevention and control based on existing government issuances.
 
-SECTION 2. Section 4 (A) of NPC Advisory No. 2020 – 03 is hereby amended to read as  
+SECTION 2. Section 4 (A) of [[issuances/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|NPC Advisory No. 2020 – 03]] is hereby amended to read as  
 follows:
 
    “SECTION 4. Ensuring fairness and lawfulness in processing. – xxx                           xxx     xxx
@@ -41,7 +37,6 @@ follows:
 
 SECTION 3. Repealing Clause. – Any reference to the Department of Trade and Industry  
 (DTI) Customer Information and Health Checklist is hereby removed. The pertinent provisions of  
-NPC Advisory No. 2020 – 03 referring to the above DTI form are hereby repealed, amended,  
 or modified.
 
 Approved:
@@ -53,12 +48,9 @@ Approved:
                  SGD.                                                          SGD.  
     LEANDRO ANGELO Y. AGUIRRE                                         JOHN HENRY D. NAGA  
       Deputy Privacy Commissioner                                   Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Analysis and metadata]]
 - Raw source text: [[sources/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/Advisory-2020-03-A-FINAL.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

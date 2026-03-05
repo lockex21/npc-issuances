@@ -1,5 +1,5 @@
 ---
-title: "Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission"
+title: "Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission (Circular No. 2024-01)"
 description: "SECTION 1. Rule I, Sections 4 and 5 of the 2021 NPC Rules of Procedure are hereby amended and renumbered to read as follows:"
 aliases:
   - "Circular No. 2024-01"
@@ -14,17 +14,12 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 3ea5608cba54de49d6ea587c421f781ea7afbf75 -->
-NPC Circular 2024-01
 
-Date           :       26 January 2024
+**Circular No. 2024-01**
 
-Subject        :       AMENDMENTS TO CERTAIN PROVISIONS OF THE 2021 RULES  
                        OF PROCEDURE OF THE NATIONAL PRIVACY COMMISSION
 
-Pursuant to the authority vested in the National Privacy Commission (NPC) through Section 7(b) of  
-Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012” (DPA), to receive  
+Pursuant to the authority vested in the National Privacy Commission (NPC) through [[laws/data-privacy-act-of-2012#Section 7(b)|Section 7(b) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]” ([[laws/data-privacy-act-of-2012|DPA]]), to receive  
 complaints and institute investigations on matters affecting any personal information, the following  
 amendments are hereby prescribed and promulgated, repealing for this purpose certain provisions of  
 the 2021 Rules of Procedure of the NPC dated 28 January 2021.
@@ -32,11 +27,11 @@ the 2021 Rules of Procedure of the NPC dated 28 January 2021.
 SECTION 1. Rule I, Sections 4 and 5 of the 2021 NPC Rules of Procedure are hereby  
 amended and renumbered to read as follows:
 
-   “SECTION 4. Definition of Terms. – The terms defined in the DPA, and its rules, are  
+   “SECTION 4. Definition of Terms. – The terms defined in the [[laws/data-privacy-act-of-2012|DPA]], and its rules, are  
    adopted accordingly in this Circular.
 
        a. AFFIRMATIVE DEFENSES – shall refer to any defense by the respondent which,  
-           if found to be credible, will negate liability under the DPA, even if it is proven that  
+           if found to be credible, will negate liability under the [[laws/data-privacy-act-of-2012|DPA]], even if it is proven that  
            the respondent in fact committed the alleged acts.
 
        b. BREACH INVESTIGATION – shall refer to an investigation conducted by the  
@@ -48,13 +43,13 @@ amended and renumbered to read as follows:
 
        d. COMPLAINT INVESTIGATION – shall refer to an investigation conducted by  
            the NPC with respect to a formal complaint filed by a data subject or his or her  
-           representative for violation of the DPA.
+           representative for violation of the [[laws/data-privacy-act-of-2012|DPA]].
 
        e. COMPLIANCE CHECK – shall refer to the systematic and impartial evaluation of  
            a personal information controller (PIC) or personal information processor (PIP), in  
            whole or in any part, process, or aspect thereof, to determine whether activities  
            that involve the processing of personal data are carried out in accordance with the  
-           standards mandated by the DPA, IRR, and NPC issuances. It is an examination  
+           standards mandated by the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances. It is an examination  
            that includes Privacy Sweeps, Documents Submission, and On-Site Visits, which  
            intends to determine whether a PIC or PIP is able to demonstrate organizational  
            commitment, program controls, and review mechanisms intended to assure  
@@ -70,18 +65,18 @@ amended and renumbered to read as follows:
                untransformed electronic document and the signer’s public key can accurately  
                determine: (1) whether the transformation was created using the private key that  
                corresponds to the signer’s public key; and (2) whether the initial electronic  
-               document had been altered after the transformation was made.1
+               document had been altered after the transformation was made.[^1]
 
           h. DOCUMENTS SUBMISSION – shall refer to a mode of Compliance Check where  
                the NPC may require the submission of documents and additional information  
                from a PIC or PIP that has undergone a Privacy Sweep to, among others, clarify  
                certain findings arising therefrom and to determine the level of compliance of the  
-               PIC or PIP with respect to its obligations under the DPA, IRR, and NPC issuances.
+               PIC or PIP with respect to its obligations under the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances.
 
           i. ELECTRONICALLY-STORED INFORMATION – shall refer to any information  
                that is received, recorded, transmitted, stored, processed, retrieved, or produced  
                electronically. It shall include any printout or output that accurately reflects the  
-               electronically stored information.2
+               electronically stored information.[^2]
 
           j.   EVALUATING OFFICER – shall refer to a member of the Compliance and  
                Monitoring Division (CMD), a special committee, or task force (or respective  
@@ -104,11 +99,8 @@ amended and renumbered to read as follows:
                (2) corporations, institutions, and entities that are created by law for public interest  
                or purpose, and (3) corporations, partnerships, and associations for private interest  
                or purpose to which the law grants a juridical personality, separate and distinct  
-               from that of each shareholder, partner, or member.3
+               from that of each shareholder, partner, or member.[^3]
 
-1 Rules on Electronic Evidence, A.M. No. 01-7-01-SC, Rule 2, § 1(e) [July 17, 2001].  
-2 Id. Rule 2, § 1(h).  
-3 An Act to Ordain and Institute the Civil Code of the Philippines, [CIVIL CODE OF THE PHILIPPINES], Republic Act
 
 No. 386, Art. 44 (1949).
 
@@ -126,16 +118,16 @@ No. 386, Art. 44 (1949).
              thereof) that may or may not include members from the LD, created by order of  
              the Commission to provide support to Mediation Officers.
 
-         q. NPC – shall refer to the National Privacy Commission created under the DPA.
+         q. NPC – shall refer to the National Privacy Commission created under the [[laws/data-privacy-act-of-2012|DPA]].
 
          r. ON-SITE VISIT – shall refer to a mode of Compliance Check if there are persistent  
              or substantial findings of non-compliance of the PIC or PIP with the obligations  
-             indicated in the DPA, IRR, and NPC issuances.
+             indicated in the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances.
 
          s. PARTIES IN INTEREST – shall refer to a real party in interest who stands to be  
              benefited or injured by the judgment in the suit, or the party entitled to the avails  
              of the suit. Unless otherwise authorized by law or these Rules, every action must  
-             be prosecuted or defended in the name of the real party in interest.4
+             be prosecuted or defended in the name of the real party in interest.[^4]
 
          t. PRELIMINARY MEDIATION CONFERENCE – shall refer to the initial  
              mediation conference after the parties mutually agree to enter into the mediation  
@@ -144,7 +136,7 @@ No. 386, Art. 44 (1949).
 
          u. PRIVACY SWEEP – shall refer to the initial mode of Compliance Check where the  
              NPC shall review a PIC or PIP’s compliance with respect to its obligations under  
-             the DPA, IRR, and NPC issuances, based on publicly available or accessible  
+             the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances, based on publicly available or accessible  
              information, such as, but not limited to websites, mobile applications, raffle  
              coupons, brochures, and privacy notices.
 
@@ -158,15 +150,14 @@ No. 386, Art. 44 (1949).
          x. RULES – shall refer to the 2021 NPC Rules of Procedure, including its  
              amendments, unless otherwise stated.
 
-4 2019 Amendments to the 1997 Rules of Civil Procedure (A.M. No. 19-10-20-SC), [RULES OF COURT], Rule 3, § 2
 
 (May 1, 2020).
 
          y. SUA SPONTE INVESTIGATION – shall refer to an investigation initiated by the  
-              NPC on its own for possible violation of the DPA.”
+              NPC on its own for possible violation of the [[laws/data-privacy-act-of-2012|DPA]].”
 
          “SECTION 5. Enforcement Powers. – The Commission may use its enforcement  
-         powers under the DPA in the course of investigations to order cooperation of the  
+         powers under the [[laws/data-privacy-act-of-2012|DPA]] in the course of investigations to order cooperation of the  
          subject of the inquiries or other interested individuals or entities, including public  
          authorities, or to compel appropriate action to protect the interests of data subjects.”
 
@@ -175,7 +166,7 @@ as follows:
 
          “SECTION 1. Who may file complaints. – Subject to Rule X of these Rules, data  
          subjects who are affected by a privacy violation or data breach may file complaints for  
-         violations of the DPA: Provided, that a representative may file on behalf of a data  
+         violations of the [[laws/data-privacy-act-of-2012|DPA]]: Provided, that a representative may file on behalf of a data  
          subject if he or she is authorized by a special power of attorney. In the case of a minor  
          or a person alleged to be incompetent, the pertinent provisions of the Rules of Court  
          and its amendments shall apply. It is sufficient that proof establishing the relationship  
@@ -190,7 +181,7 @@ as follows:
          representing the juridical person acting as the representative of one or more data  
          subjects must be authorized to appear and act on behalf of the juridical person by a  
          Board Resolution contained in a duly notarized Secretary’s Certificate or its equivalent  
-         in case of government agencies5.
+         in case of government agencies[^5].
 
          In cases where the complainant is a non-resident citizen who has no authorized  
          representative in the Philippines or is unable to appoint such a representative, such  
@@ -210,7 +201,6 @@ as follows:
          electronic mail through the same electronic mail address used in the filing of the  
          complaint or pleading, or submission of document, unless otherwise indicated in the
 
-5 This includes a department, bureau, office, instrumentality, government-owned or controlled corporation, local
 
 government, state university and college, or a distinct unit in it.
 
@@ -230,7 +220,7 @@ government, state university and college, or a distinct unit in it.
 SECTION 4. Rule IV of the 2021 NPC Rules of Procedure is hereby amended and renumbered  
 to read as follows:
 
-      “RULE IV – PRE-INVESTIGATION PHASE
+“RULE IV – PRE-INVESTIGATION PHASE
 
       SECTION 1. Outright dismissal, when allowed. – Within thirty (30) calendar days  
       from receipt of the complaint, the Investigating Officer may give the complaint due  
@@ -242,7 +232,7 @@ to read as follows:
          2. The complainant does not give the respondent an opportunity to address the  
             complaint, unless failure to do so is justified;
 
-         3. The complaint does not pertain to a violation of the DPA or does not involve a  
+         3. The complaint does not pertain to a violation of the [[laws/data-privacy-act-of-2012|DPA]] or does not involve a  
             privacy violation or data breach;
 
          4. There is insufficient information to substantiate the allegations in the  
@@ -275,7 +265,7 @@ to read as follows:
 
          SECTION 5. Necessary party. – A necessary party is one who is not indispensable but  
          who ought to be joined as a party if complete relief is to be accorded as to those already  
-         parties, or for a complete determination or settlement of the claim subject of the action.6
+         parties, or for a complete determination or settlement of the claim subject of the action.[^6]
 
          SECTION 6. Non-joinder of necessary parties to be pleaded. – Whenever in any  
          complaint or pleading in which a claim is asserted a necessary party is not joined, the  
@@ -316,7 +306,6 @@ to read as follows:
         provisions of the Rules of Court and its amendments shall apply. It is sufficient that  
         proof establishing the relationship with the respondent be presented to the NPC as an
 
-6 RULES OF COURT, Rule 3, § 8.
 
         attachment to the comment. In case the minor or a person alleged to be incompetent is  
         represented by the father or mother, the birth certificate shall be considered sufficient  
@@ -326,7 +315,7 @@ to read as follows:
         In case the respondent is a juridical person, the representative filing the comment must  
         be authorized to appear and act on behalf of the juridical person by a Board Resolution  
         contained in a duly notarized Secretary’s Certificate, or its equivalent for a government  
-        agency7.
+        agency[^7].
 
         SECTION 10. Content of the comment. – The respondent shall raise all of his or her  
         defenses in the comment. No motions to dismiss shall be entertained: Provided, the  
@@ -366,7 +355,6 @@ to read as follows:
 
               1. The NPC has no jurisdiction over the subject matter;
 
-7 This includes a department, bureau, office, instrumentality, government-owned or controlled corporation, local
 
 government, state university and college, or a distinct unit in it.
 
@@ -394,7 +382,7 @@ government, state university and college, or a distinct unit in it.
 SECTION 5. Rule VI of the 2021 NPC Rules of Procedure is hereby amended and  
 renumbered to read as follows:
 
-     “RULE VI – ALTERNATIVE DISPUTE RESOLUTION
+“RULE VI – ALTERNATIVE DISPUTE RESOLUTION
 
      SECTION 1. Willingness to mediate. – During the preliminary conference or at any  
      stage of the proceedings but before endorsement of the case for decision by the Legal  
@@ -617,7 +605,7 @@ read as follows:
 SECTION 7. Rule VIII of the 2021 NPC Rules of Procedure is hereby amended and  
 renumbered to read as follows:
 
-       “RULE VIII – DECISION
+“RULE VIII – DECISION
 
       SECTION 1. Action on the recommendations of the Investigating Officer. – The  
       Commission shall review the evidence presented, including the Fact-Finding Report  
@@ -694,7 +682,7 @@ shall become final and executory within fifteen (15) calendar days from notice t
         b. a permanent ban on the processing of personal data;
 
         c. a recommendation to the Department of Justice for the prosecution and  
-            imposition of penalties specified in the DPA;
+            imposition of penalties specified in the [[laws/data-privacy-act-of-2012|DPA]];
 
         d. an order to conduct a sua sponte investigation under Rule X such as in cases  
             when the responsible officer of a juridical entity must be determined for  
@@ -704,9 +692,9 @@ shall become final and executory within fifteen (15) calendar days from notice t
             instrumentality to abide by its orders or take action on a matter affecting data  
             privacy;
 
-        f. an imposition of fines for violations of the DPA or NPC issuances; or
+        f. an imposition of fines for violations of the [[laws/data-privacy-act-of-2012|DPA]] or NPC issuances; or
 
-        g. any other order to enforce compliance with the DPA.
+        g. any other order to enforce compliance with the [[laws/data-privacy-act-of-2012|DPA]].
 
      SECTION 7. Motion for reconsideration on the decision issued by the Commission. –  
      The decision of the Commission shall become final and executory fifteen (15) calendar  
@@ -725,7 +713,7 @@ shall become final and executory within fifteen (15) calendar days from notice t
 SECTION 8. Rule X of the 2021 NPC Rules of Procedure is hereby amended and  
 renumbered to read as follows:
 
-     “RULE X – SUA SPONTE INVESTIGATION
+“RULE X – SUA SPONTE INVESTIGATION
 
          SECTION 1. Commencement.– The NPC, through the CID or a special committee or  
          task force assigned for such purpose, may initiate an investigation on the  
@@ -764,7 +752,7 @@ renumbered to read as follows:
          party. The representative shall be authorized by a special power of attorney. In case a  
          party is a juridical person, the representative shall be authorized to appear and act on  
          behalf of the juridical person by a Board Resolution contained in a duly notarized  
-         Secretary’s Certificate or its equivalent for a government agency8.
+         Secretary’s Certificate or its equivalent for a government agency[^8].
 
          The requested case files may be in the form of a physical copy or an electronic copy.  
          For physical copies, the same be in the form of a copy only or a certified true copy, at  
@@ -775,7 +763,6 @@ renumbered to read as follows:
          requesting party and the NPC, together with its attachments. Documents that are  
          internal in nature, such as, but not limited to, Technical Reports, Minutes of the
 
-8 This includes a department, bureau, office, instrumentality, government-owned or controlled corporation, local
 
 government, state university and college, or a distinct unit in it.
 
@@ -799,7 +786,7 @@ government, state university and college, or a distinct unit in it.
 
       SECTION 8. Existence of a complaint during sua sponte investigation and vice versa,  
       effect. – If, during the proceedings of a sua sponte investigation, a formal complaint  
-      relating to the same act or omission for violation of the DPA is filed against the  
+      relating to the same act or omission for violation of the [[laws/data-privacy-act-of-2012|DPA]] is filed against the  
       respondent, the complaint proceedings shall follow the normal procedure under these  
       Rules: Provided, that the complaint proceedings shall not suspend the sua sponte  
       proceedings, or vice versa: Provided further, that discovery and mediation proceedings  
@@ -813,10 +800,10 @@ government, state university and college, or a distinct unit in it.
 SECTION 9. Rule XI of the 2021 NPC Rules of Procedure is hereby amended to read as  
 follows:
 
-      “RULE XI – BREACH INVESTIGATION
+“RULE XI – BREACH INVESTIGATION
 
       SECTION 1. Procedure for data breach notification. – The procedure for data breach  
-      notification and other requirements shall be governed by the DPA, its IRR, and NPC  
+      notification and other requirements shall be governed by the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC  
       issuances pertaining to data breach management. These Rules shall apply in a  
       suppletory character.
 
@@ -870,7 +857,7 @@ documents required to assess the PIC or PIP’s breach management, the Evaluatin
 Officer shall prepare a Breach Notification Evaluation Report based on information  
 available on record.
 
-The report may contain a recommendation of a possible violation of the DPA arising  
+The report may contain a recommendation of a possible violation of the [[laws/data-privacy-act-of-2012|DPA]] arising  
 from the breach matter and a recommendation for the imposition of administrative  
 fines on other infractions.
 
@@ -908,7 +895,7 @@ Notification Evaluation Report, an Investigating Officer shall determine if ther
        investigation under Rule X.
 
        During the sua sponte investigation, if a breach notification is submitted by the PIC or  
-       PIP, the CID shall continue with its sua sponte investigation on violations of the DPA  
+       PIP, the CID shall continue with its sua sponte investigation on violations of the [[laws/data-privacy-act-of-2012|DPA]]  
        and NPC issuances for possible recommendations for prosecution with the  
        Department of Justice or imposition of administrative fines. The CMD shall, for its  
        part, evaluate the breach matter submitted and recommend the imposition of  
@@ -923,10 +910,10 @@ Notification Evaluation Report, an Investigating Officer shall determine if ther
 
 SECTION 10. This Rule has been included to read as follows:
 
-       “RULE XII – COMPLIANCE CHECKS
+“RULE XII – COMPLIANCE CHECKS
 
        SECTION 1. Procedure for Compliance Checks. – The procedure for Compliance  
-       Checks and other requirements shall be governed by the DPA, its IRR, and NPC  
+       Checks and other requirements shall be governed by the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC  
        issuances pertaining to Compliance Checks. These Rules shall apply in a suppletory  
        character.
 
@@ -957,7 +944,7 @@ SECTION 4. Issuance of Warning Letter or Notice of Documents Submission. –
     b. Notice of Documents Submission: when applicable – The CMD shall issue a  
        Notice of Document Submission in the following instances:  
          i. If after a Privacy Sweep, the CMD discovers that the PIC or PIP has failed  
-            to demonstrate substantial compliance with the DPA, its IRR, and other  
+            to demonstrate substantial compliance with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other  
             NPC issuances;  
         ii. If the CMD requires additional information to fully determine the PIC or  
             PIP’s level of compliance; or  
@@ -1008,7 +995,7 @@ of the request for extension and order the PIC or PIP to submit the same immedia
          SECTION 10. Conduct of On-Site Visit (OSV). – The CMD shall conduct an OSV to  
          the PIC or PIP’s principal place of business or where personal data is processed in  
          cases where there are persistent issues9or substantial findings of non-compliance with  
-         the obligations indicated in the DPA and NPC issuances.
+         the obligations indicated in the [[laws/data-privacy-act-of-2012|DPA]] and NPC issuances.
 
          Authorized personnel of the NPC shall conduct a focused inspection on the relevant  
          issues within the premises of a PIC or PIP that may include presentation of documents  
@@ -1032,11 +1019,10 @@ of the request for extension and order the PIC or PIP to submit the same immedia
               d) Unsecured or publicly available personal data found on the premises and on  
                  the internet that may be traced to a PIC or PIP;
 
-9 Persistent issues pertain to the inadequate implementation of security measures to address the heightened risk
 
 to the rights and freedoms of data subjects.
 
-   e) Other considerations that indicate non-compliance with the DPA, IRR, or NPC  
+   e) Other considerations that indicate non-compliance with the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or NPC  
       issuances; and  
    f) When, in the discretion of the CMD, there is an urgent need to ensure the  
       protection of voluminous personal data records and the same can only be done  
@@ -1068,11 +1054,11 @@ shall wear their identification cards at all times.
 
 SECTION 14. Issuance of Deficiency Report. – The CMD shall issue a Deficiency  
 Report based on the determination from the OSV that there are existing gaps in the  
-PIC or PIP’s compliance with the DPA, its IRR, and NPC issuances.
+PIC or PIP’s compliance with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances.
 
 SECTION 15. Issuance of Notice of Deficiencies. – If the PIC or PIP fails to address  
 the issues raised in a Deficiency Report or is determined to be non-compliant with the  
-DPA, its IRR, and other issuances of the NPC after being subjected to any of the modes  
+[[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the NPC after being subjected to any of the modes  
 of Compliance Checks, the CMD shall issue the Notice of Deficiencies indicating the  
 period of time within which to correct the identified deficiencies, which shall not be  
 less than ten (10) days from receipt of the Notice.
@@ -1140,15 +1126,15 @@ Certificate of No Significant Findings to a PIC or PIP that has undergone docume
          been addressed to the satisfaction of the NPC.
 
          The issuance of this certificate is without prejudice to any other recommendation being  
-         made by the CMD for the improvement of the PIC or PIP’s compliance with the DPA,  
-         IRR, and NPC issuances. The issuance of this certificate does not bar an investigation  
+         made by the CMD for the improvement of the PIC or PIP’s compliance with the [[laws/data-privacy-act-of-2012|DPA]],  
+         [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances. The issuance of this certificate does not bar an investigation  
          for any possible liability arising from complaints and/or personal data breaches filed  
          before the NPC.”
 
 SECTION 11. Rule XII of the 2021 NPC Rules of Procedure is hereby amended and  
 renumbered to read as follows:
 
-         “RULE XIII – MISCELLANEOUS PROVISIONS
+“RULE XIII – MISCELLANEOUS PROVISIONS
 
          SECTION 1. Transitory provision. – These Rules shall apply to all complaints filed  
          after its effectivity. It shall also apply to pending proceedings, except to the extent that  
@@ -1163,13 +1149,13 @@ renumbered to read as follows:
 
          SECTION 4. Request for case files. – Copies of the case files may be requested by any  
          party to the complaint or their authorized representative, lawful heirs, and assigns, in  
-         accordance with Section 17 of the DPA, or successors-in-interest, by filling-out the  
+         accordance with [[laws/data-privacy-act-of-2012#Section 17|Section 17 of the DPA]], or successors-in-interest, by filling-out the  
          request form before the General Records Unit of the NPC. The request for case files  
          may be in the form of a physical copy or an electronic copy, at the option and cost of  
          the requesting party. Provided, that the representative is authorized by a special power  
          of attorney. Provided further, that in case where a party is a juridical person, the  
          representative is authorized by a Board Resolution contained in a duly notarized  
-         Secretary’s Certificate or its equivalent for a government agency10. Provided finally, that  
+         Secretary’s Certificate or its equivalent for a government agency[^10]. Provided finally, that  
          in case where the files are requested by the heirs, assigns, or successors-in-interest,  
          proof of authority or relationship must be presented.
 
@@ -1184,7 +1170,6 @@ renumbered to read as follows:
          videoconferencing technology for the remote appearance and testimony of parties  
          before the NPC shall be governed by NPC issuances pertaining to the matter.
 
-10 This includes a department, bureau, office, instrumentality, government-owned or controlled corporation, local
 
 government, state university and college, or a distinct unit in it.
 
@@ -1222,12 +1207,22 @@ publication in a newspaper of general circulation.
                 SGD.                                                           SGD.  
 ATTY. LEANDRO ANGELO Y. AGUIRRE                                   ATTY. NERISSA N. DE JESUS  
      Deputy Privacy Commissioner                                  Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^1]: Rules on Electronic Evidence, A.M. No. 01-7-01-SC, Rule 2, § 1(e) [July 17, 2001].
+[^2]: Id. Rule 2, § 1(h).
+[^3]: An Act to Ordain and Institute the Civil Code of the Philippines, [CIVIL CODE OF THE PHILIPPINES], Republic Act
+[^4]: 2019 Amendments to the 1997 Rules of Civil Procedure (A.M. No. 19-10-20-SC), [RULES OF COURT], Rule 3, § 2
+[^5]: This includes a department, bureau, office, instrumentality, government-owned or controlled corporation, local
+[^6]: RULES OF COURT, Rule 3, § 8.
+[^7]: This includes a department, bureau, office, instrumentality, government-owned or controlled corporation, local
+[^8]: This includes a department, bureau, office, instrumentality, government-owned or controlled corporation, local
+[^9]: Persistent issues pertain to the inadequate implementation of security measures to address the heightened risk
+[^10]: This includes a department, bureau, office, instrumentality, government-owned or controlled corporation, local
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Analysis and metadata]]
 - Raw source text: [[sources/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-2024-01-Amendments-to-the-2021-Rules-of-Procedure-of-the-NPC-FOR-PUBLICATION.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

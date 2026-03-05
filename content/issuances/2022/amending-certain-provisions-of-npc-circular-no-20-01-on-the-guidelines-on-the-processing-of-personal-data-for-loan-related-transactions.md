@@ -1,5 +1,5 @@
 ---
-title: "Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions"
+title: "Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions (Circular No. 2022)"
 description: "SUBJECT : AMENDING CERTAIN PROVISIONS OF NPC CIRCULAR NO. 20-01 ON THE GUIDELINES ON THE PROCESSING OF PERSONAL DATA FOR LOAN-RELATED TRANSACTIONS"
 aliases:
   - "Circular No. 2022"
@@ -14,20 +14,16 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 42139971c20492253eb26a5206924b9779fd9da9 -->
-NPC Circular No. 2022 – 02
 
-DATE           : 01 December 2022
+**Circular No. 2022**
 
-SUBJECT        : AMENDING CERTAIN PROVISIONS OF [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC CIRCULAR NO. 20-01]] ON THE GUIDELINES ON THE PROCESSING OF  
                  PERSONAL DATA FOR LOAN-RELATED TRANSACTIONS
 
 SECTION 1. Objective. — This Circular aims to expound on [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 20-01]] to  
 respond to exigencies in the processing of personal data for loan-related transactions by  
 lending and financing companies and other persons acting as such.
 
-SECTION 2. Amendments. — The following provisions of NPC Circular No. 20–01 are  
+SECTION 2. Amendments. — The following provisions of [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 20–01]] are  
 hereby amended as stated below:
 
     A. In Section 3(A), fifth and sixth paragraphs shall be inserted to read:
@@ -44,8 +40,8 @@ hereby amended as stated below:
             such personal data of the data subject.
 
         6. The most appropriate format in providing details of processing to  
-           borrowers, as required by Section 16 (b) of the DPA and Section 34 (a) (2)  
-           of its Implementing Rules and Regulations (IRR), shall be the format  
+           borrowers, as required by Section 16 (b) of the [[laws/data-privacy-act-of-2012|DPA]] and Section 34 (a) (2)  
+           of its Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), shall be the format  
            which is aligned with the business processes of the LCs, FCs, or other  
            persons acting as such, with utmost consideration to the accessibility of  
            the information and convenience of the borrowers [e.g., if the loan  
@@ -106,7 +102,7 @@ hereby amended as stated below:
                     collection practices.
 
                4. Access to and processing of contact lists may be allowed for the  
-                  purpose of deriving proportional metadata1 about such contact lists  
+                  purpose of deriving proportional metadata[^1] about such contact lists  
                   subject to Section 3 (D) (1) and the requirements of Section 4.
 
                     “Contact list” refers to any compilation or list of information  
@@ -117,11 +113,10 @@ hereby amended as stated below:
                     Unbridled processing of contact list, in whatever form, is prohibited.  
                     “Unbridled processing” refers to processing, that is unconstrained,  
                     excessive, and disproportional to its purpose such as but is not limited  
-                    to:  
                         a) Processing that leads to harassment;  
                         b) Processing for collection of debt outside of the guarantors  
                            provided by the borrower; and  
-                        c) Processing that results in unfair collection practices.2
+                        c) Processing that results in unfair collection practices.[^2]
 
                5. Subject to the limitations of the immediately preceding paragraph, the  
                   processing of contact lists for purposes of identifying and contacting  
@@ -144,8 +139,6 @@ hereby amended as stated below:
              Registration of Data Processing Systems and Notifications regarding  
              Automated Decision-Making;
 
-1 Metadata as used in this Circular is understood to be any information that may define or describe contact lists.  
-2 Securities and Exchange Commission, “Prohibition on Unfair Debt Collection Practices of Financing Companies (FC) and
 
 Lending Companies (LC),” SEC Memorandum Circular No. 18, series of 2019 [SEC MEMO. CIRC. 18, s. 2019], § 1 (19 August  
 2019): Unfair collection practices are as those which use or involve threats of use of violence or other criminal means to harm  
@@ -162,7 +155,7 @@ legally taken.
            FCs, and other persons acting as such, shall ensure that appropriate  
            technical and contractual controls are in place to ensure appropriate  
            protection in the processing of personal data, taking into consideration  
-           Sections 28 to 29 and 43 to 45 of the IRR of the DPA;
+           Sections 28 to 29 and 43 to 45 of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR of the DPA]];
 
         J. Upon determination of any violation of this Circular, the NPC shall  
            revoke the registration of the PIC or PIP upon due notice and after  
@@ -172,8 +165,7 @@ legally taken.
         K. LCs, FCs, and other persons acting as such or PIPs or third-party service  
            providers whose Certificate of Registration has been revoked by the NPC  
            or those determined to have violated the registration requirements, shall  
-           be subject to penalties and disciplinary measures as provided in the DPA,  
-           its IRR and other issuances of the NPC.
+           be subject to penalties and disciplinary measures as provided in the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and other issuances of the NPC.
 
     D. Section 4 is hereby amended to read as follows:
 
@@ -215,14 +207,14 @@ legally taken.
 
          A. The guarantor’s separate consent must be obtained by the LC, FC or other  
             persons acting as such, in accordance with the applicable provisions of the  
-            DPA, particularly those on transparency, the right of data subjects to be  
+            [[laws/data-privacy-act-of-2012|DPA]], particularly those on transparency, the right of data subjects to be  
             informed, and consent as a lawful basis for processing personal data.
 
          B. For purposes of debt collection, LCs, FCs or persons acting as such may  
             only contact the guarantor. Contacting persons in the borrower's contact  
             list other than those who were named as guarantors is prohibited in  
             accordance with this Circular and the applicable issuances of the  
-            Securities and Exchange Commission on unfair debt collection practices.3
+            Securities and Exchange Commission on unfair debt collection practices.[^3]
 
     F. The succeeding Sections on Credit Data, Outsourcing, Rights of the data subject  
        are hereby renumbered accordingly:
@@ -241,7 +233,6 @@ registration system, whichever comes later.
 All online applications which will be made publicly available after the effectivity of this  
 Circular shall be registered with the Commission in accordance with Section 2 (C) of this
 
-3 See: Securities and Exchange Commission, “Prohibition on Unfair Debt Collection Practices of Financing Companies (FC)
 
 and Lending Companies (LC),” SEC Memorandum Circular No. 18, series of 2019 [SEC MEMO. CIRC. 18, s. 2019], § 1 (19  
 August 2019).
@@ -268,12 +259,15 @@ Approved:
                                             SGD.  
                                LEANDRO ANGELO Y. AGUIRRE  
                                  Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^1]: Metadata as used in this Circular is understood to be any information that may define or describe contact lists.
+[^2]: Securities and Exchange Commission, “Prohibition on Unfair Debt Collection Practices of Financing Companies (FC) and
+[^3]: See: Securities and Exchange Commission, “Prohibition on Unfair Debt Collection Practices of Financing Companies (FC)
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Analysis and metadata]]
 - Raw source text: [[sources/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-02-Amending-20-01-Loan-Related-Transactions.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

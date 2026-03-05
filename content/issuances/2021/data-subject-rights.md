@@ -1,5 +1,5 @@
 ---
-title: "Data Subject Rights"
+title: "Data Subject Rights (Advisory No. 2021-01)"
 description: "WHEREAS, the right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution emphasizes that the State values the..."
 aliases:
   - "Advisory No. 2021-01"
@@ -14,6 +14,9 @@ draft: false
 ---
 
 ## Issuance Text
+
+**Advisory No. 2021-01**
+
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
 <!-- SEEDED ANNOTATED HASH: ba97bc623e6f13ef0543a0cea68b79a8b0d9315c -->
 [[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|NPC Advisory No. 2021]] - 01

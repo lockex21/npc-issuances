@@ -1,5 +1,5 @@
 ---
-title: "Access to Personal Data Sheets of Government Personnel"
+title: "Access to Personal Data Sheets of Government Personnel (Advisory No. 2017-02)"
 description: "SUBJECT: ACCESS TO PERSONAL DATA SHEETS ano /07B- 08.31 1F 00 654 OF GOVERNMENT PERSONNEL"
 aliases:
   - "Advisory No. 2017-02"
@@ -15,22 +15,19 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 70a27c36a07e058bf1e056d8fc32ad06e8edb232 -->
+
+**Advisory No. 2017-02**
+
 ee as NATIONAL  
 Bustiea je wien COMMISSION
 
-NATICNAL PRIVACY COMMISSIC.
+## NATICNAL PRIVACY COMMISSIC.
 
-NPC Advisory No. 2017-02 MAR 34 2017
-
-DATE: 3 April 2017  
 By: ARG Time:
 
 [4B
 
-SUBJECT: ACCESS TO PERSONAL DATA SHEETS ano /07B- 08.31 1F 00 654  
-OF GOVERNMENT PERSONNEL
+SUBJECT: ACCESS TO PERSONAL DATA SHEETS ano /07B- 08.31 1F 00 654 OF GOVERNMENT PERSONNEL
 
 WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State recognizes  
 the vital role of communication and information in nation-building. At the same time, Article  
@@ -65,8 +62,6 @@ protected;
 WHEREAS, Section 4 of the DPA states that the law applies to the processing of all types of  
 personal information and to any person involved in personal information processing, except  
 for certain instances, including information that fall within matters of public concern. Section  
-11 of the law also permits the processing of personal information, provided there is compliance  
-with the requirements of the Act and other laws allowing the disclosure of information to the
 
 url: [http://privacy.gov-ph](http://privacy.gov-ph) email: info@privacy.gov.ph
 
@@ -77,7 +72,7 @@ Access to Personal Dat. ..eets of Government Personnel
 public and adherence to the principles of transparency, legitimate purpose and  
 proportionality;
 
-WHEREAS, Section 17 of the Implementing Rules and Regulations (IRR) of the DPA states that  
+WHEREAS, Section 17 of the Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) of the [[laws/data-privacy-act-of-2012|DPA]] states that  
 the processing of personal data shall be allowed, subject to compliance with the requirements  
 of the Act and other laws allowing disclosure of information to the public, and adherence to  
 the principles of transparency, legitimate purpose, and proportionality.
@@ -166,7 +161,7 @@ jurisprudence” 8 These exceptions were taken up in greater detail in the Memor
 by the Executive Secretary, dated 24 November 2016, and which had for its subject “Inventory  
 of Exceptions to Executive Order No. 2 (S. 2016)”.
 
-At the same time, there is also Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA),  
+At the same time, there is also [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]),  
 which is the Philippines’ first comprehensive data protection law. It aims to uphold the State’s  
 twin policies of protecting the right to privacy of communication, while ensuring the free flow  
 of information.’ In so doing, it sets certain parameters under which personal data may be  
@@ -179,7 +174,7 @@ penalties for specific offenses.
 Much has been said about the perceived conflict between the tenets of transparency and public  
 accountability ensured by the right to information, and an individual's right to privacy. Today,  
 this view has gone on to permeate the parallel implementation of such policies as EO 2 (2016)  
-on the one hand, and the DPA on the other. It bears stressing, however, that the purported  
+on the one hand, and the [[laws/data-privacy-act-of-2012|DPA]] on the other. It bears stressing, however, that the purported  
 inconsistencies between the two are more apparent than real. Not only are they both intended  
 to benefit the public interest, but, more often than not, their provisions complement and  
 reinforce each other, and are not contradictory as some observers are wont to suggest.
@@ -190,11 +185,8 @@ Re: Request of Philippine Center for Investigative Journalism (PCJ) for the 2008
 Worth (SALN) and Personal Data Sheet of the Court of Appeals Justice, AM No. 09-8-07-CA (13 June 2012). see also:  
 Legaspi vs. Civil Service Commission, G.R. No. L-72119 (29 May 1987).
 
-7 GR_No. L-72119 (29 May 1987).
 
-5 34.
-
-° DPA, §2.
+° [[laws/data-privacy-act-of-2012|DPA]], §2.
 
 Access to Personal Dai _aeets of Government Personnel
 
@@ -205,7 +197,7 @@ made if they are material or relevant to the subject matter of the request; (b) 
 arrangements against leaks or premature disclosure are established; and (c) disclosure shall  
 only be made when permitted or authorized by existing law or rules."
 
-The DPA, meanwhile, excludes from its scope those information that fall within matters of  
+The [[laws/data-privacy-act-of-2012|DPA]], meanwhile, excludes from its scope those information that fall within matters of  
 public concern. They include: (a) personal data relating to the position or functions of a current  
 or former government employee;!? (b) personal data relating to the service performed by a  
 current or former government contractor;!3 and (c) information regarding a benefit of a  
@@ -238,29 +230,19 @@ may lose some degree of privacy in the process, this does not, under any circums
 to a full or absolute surrender of such right. After all, his or her personal data is no less  
 susceptible to abuse and other perils such as unlawful or unauthorized processing.
 
-1 EO 2 (2016), §7.
 
 Nig.
 
-12 IRR of RA 10173, §5(a)(1); see also: RA 10173, §4(a).
 
-13 IRR of RA 10173, §5(a)(2); see also: RA 10173, §4(b).
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA 10173, §5(a)(3); see also: RA 10173, §4(c).
 
-IRR of RA 10173, §5(a)(3); see also: RA 10173, §4(c).
-
-1 Advincula vs. Dicen, G.R. No. 162403, (16 May 2005).
-
-16 Fiyllero vs. People, 533 SCRA 97, G.R. No. 170583, (12 September 2007), citing Lumancas v. Intas, 347 SCRA 22, G.R.  
-No. 133472 (5 December 2000).
-
-17 Rule 132, §19.
 
 Access to Personal Da: _aeets of Government Personnel
 
 Recommendations
 
 Disclosure of personal data shall only be allowed when permitted by existing laws. Under the  
-DPA, only those that relate to the position or function of an individual working for the  
+[[laws/data-privacy-act-of-2012|DPA]], only those that relate to the position or function of an individual working for the  
 government may be made available to the public. Other types of personal data, especially  
 sensitive personal information, may be released only if necessary to the declared, specified,  
 and legitimate purpose of the requesting party.
@@ -281,7 +263,7 @@ purpose.
 
 At the same time, the requesting party is obliged to use the data obtained only for the purpose  
 declared at the time of making the request. The individual must also commit to complying  
-with the provisions of the DPA.
+with the provisions of the [[laws/data-privacy-act-of-2012|DPA]].
 
 Suffice to say, each request should be evaluated in relation to its declared purpose. In all cases,  
 the rights of the data subject should be respected, including the right to be informed and  
@@ -295,13 +277,19 @@ Privacy Commissioner
 [Sgd] IVY D, PATDU [Sgd] DAMIAN DOMINGO O. MAPA  
 Deputy Privacy Commissioner Deputy Privacy Commissioner
 
-Date: 3 April 2017
-<!-- END MANUAL ANNOTATED TEXT -->
+## Footnotes
+
+[^1]: Advincula vs. Dicen, G.R. No. 162403, (16 May 2005).
+[^5]: 34.
+[^7]: GR_No. L-72119 (29 May 1987).
+[^11]: of the law also permits the processing of personal information, provided there is compliance with the requirements of the Act and other laws allowing the disclosure of information to the
+[^12]: IRR of RA 10173, §5(a)(1); see also: RA 10173, §4(a).
+[^13]: IRR of RA 10173, §5(a)(2); see also: RA 10173, §4(b).
+[^16]: Fiyllero vs. People, 533 SCRA 97, G.R. No. 170583, (12 September 2007), citing Lumancas v. Intas, 347 SCRA 22, G.R. No. 133472 (5 December 2000).
+[^17]: Rule 132, §19.
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2017/access-to-personal-data-sheets-of-government-personnel|Analysis and metadata]]
 - Raw source text: [[sources/2017/access-to-personal-data-sheets-of-government-personnel|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_Advisory_No.2017-02.pdf
 - OCR used during extraction: yes
-<!-- END GENERATED TEXT INFO -->

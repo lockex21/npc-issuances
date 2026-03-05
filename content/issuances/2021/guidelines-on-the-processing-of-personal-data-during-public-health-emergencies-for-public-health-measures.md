@@ -1,5 +1,5 @@
 ---
-title: "Guidelines On The Processing Of Personal Data During Public Health Emergencies For Public Health Measures"
+title: "Guidelines On The Processing Of Personal Data During Public Health Emergencies For Public Health Measures (Circular No. 2021-02)"
 description: "SUBJECT : GUIDELINES ON THE PROCESSING OF PERSONAL DATA DURING PUBLIC HEALTH EMERGENCIES FOR PUBLIC HEALTH MEASURES"
 aliases:
   - "Circular No. 2021-02"
@@ -14,6 +14,9 @@ draft: false
 ---
 
 ## Issuance Text
+
+**Circular No. 2021-02**
+
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
 <!-- SEEDED ANNOTATED HASH: 16e57753f95fffd2fed0bb8f11b5a36a9e4c6e8b -->
 NPC Circular No. 2021-02

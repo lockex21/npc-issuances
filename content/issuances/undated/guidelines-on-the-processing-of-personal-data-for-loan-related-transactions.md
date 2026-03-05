@@ -1,5 +1,5 @@
 ---
-title: "Guidelines on the Processing of Personal Data for Loan-Related Transactions"
+title: "Guidelines on the Processing of Personal Data for Loan-Related Transactions (Circular No. 20-01)"
 description: "SUBJECT : GUIDELINES ON THE PROCESSING OF PERSONAL DATA FOR LOAN-RELATED TRANSACTIONS"
 aliases:
   - "Circular No. 20-01"
@@ -14,13 +14,9 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: a96e2436bc1871afb8b085600b345b553f871add -->
-NPC Circular No. 20-01
 
-DATE          : 14 September 2020
+**Circular No. 20-01**
 
-SUBJECT       : GUIDELINES ON THE PROCESSING OF PERSONAL DATA FOR  
                 LOAN-RELATED TRANSACTIONS
 
 WHEREAS, the National Privacy Commission (NPC) has received numerous complaints against  
@@ -37,16 +33,16 @@ processed personal data of their clients without lawful basis under the law, and
 personal data about their clients and other individuals in their contact list causing damage to their  
 reputation, in violation of their rights and freedoms as data subjects;
 
-WHEREAS, Section 2 of Republic Act No. 10173 otherwise known as the Data Privacy Act of 2012  
-(DPA) provides that it is the policy of the State to protect the fundamental human right of privacy  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]] otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]  
+([[laws/data-privacy-act-of-2012|DPA]]) provides that it is the policy of the State to protect the fundamental human right of privacy  
 of communication while ensuring free flow of information to promote innovation and growth.  
 The State recognizes the vital role of information and communications technology in nation-  
 building and its inherent obligation to ensure that personal information in information and  
 communications systems in the government and in the private sector are secured and protected;
 
-WHEREAS, pursuant to Section 7 of the DPA, the NPC is charged with the administration and  
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the NPC is charged with the administration and  
 implementation of the provisions of the law, which includes ensuring compliance with the  
-provisions of the DPA and with international standards for data protection, and carrying out  
+provisions of the [[laws/data-privacy-act-of-2012|DPA]] and with international standards for data protection, and carrying out  
 efforts to formulate and implement plans and policies that strengthen the protection of personal  
 information in the country, in coordination with other government agencies and the private  
 sector;
@@ -55,7 +51,6 @@ WHEREFORE, in consideration of the foregoing premises, and without prejudice to 
 application of other pertinent laws and regulations on the matter, the NPC hereby issues this  
 Circular that prescribes the guidelines for processing of personal data for loan transactions.
 
-                      5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307
 
 SECTION 1. Scope. — This Circular shall apply to, among others, the processing of personal data  
 for purposes of loan processing activities,1 through any modality, by lending or financing  
@@ -79,18 +74,18 @@ operating under other special laws, which are primarily organized for the purpos
 credit facilities to consumers and to industrial, commercial, or agricultural enterprises, by direct  
 lending or by discounting or factoring commercial papers or accounts receivable, or by buying  
 and selling contracts, leases, chattel mortgages, or other evidences of indebtedness, or by financial  
-leasing of movable as well as immovable property.3
+leasing of movable as well as immovable property.[^3]
 
 While some entities are excluded from the definition above of lending and financing companies,  
 these entities remain to be within the jurisdiction of the NPC with respect to all other obligations  
-under the DPA, its Implementing Rules and Regulations (IRR), and applicable issuances of the  
+under the [[laws/data-privacy-act-of-2012|DPA]], its Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and applicable issuances of the  
 NPC.
 
 SECTION 2. Obligations of personal information controllers. — All entities engaged in the  
 processing of personal data for purposes of granting loan facilities are personal information  
 controllers (PICs). As PICs, they shall process personal and sensitive personal information  
 (collectively, personal data) of borrowers in accordance with any of the criteria for lawful  
-processing provided for under Sections 12 and 13 of the DPA. They shall implement reasonable  
+processing provided for under Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|DPA]]. They shall implement reasonable  
 and appropriate organizational, physical, and technical security measures for the protection of  
 personal data and uphold the rights of data subjects.
 
@@ -103,17 +98,15 @@ for purposes of soliciting, evaluating, granting and maintaining a loan facility
 shall include among others, activities to enforce Know-Your-Customer (KYC) policies, loan solicitation, submission of loan  
 application and required documents by the borrower, loan servicing, repayment of the loan, debt collection, and remedial measures  
 undertaken by the LCs, FCs, other persons acting as such, and their authorized representatives.  
-2An Act Governing the Establishment, Operation and Regulation of Lending Companies [Lending Company Regulation Act of
 
 2007], Republic Act No. 9474 (2007).  
-3 An Act Amending Republic Act No. 5980, As Amended, Otherwise Known As The Financing Company Act [Financing Company
 
 Act of 1998], Republic Act No. 8556 (1998).
 
 general guidelines:
 
-   A. Borrowers shall be provided all the details required under Section 16 (b) of the DPA and  
-      Section 34 (a)(2) of its IRR, in a clear language and in the most appropriate format.
+   A. Borrowers shall be provided all the details required under Section 16 (b) of the [[laws/data-privacy-act-of-2012|DPA]] and  
+      Section 34 (a)(2) of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], in a clear language and in the most appropriate format.
 
        1. The details shall include all the information concerning all phases of the loan  
           processing activity, from loan solicitation, loan origination, repayment, debt collection  
@@ -146,7 +139,7 @@ general guidelines:
        2. Should information be used for marketing, cross-selling, or sharing to third parties for  
            purposes of offering other products or services not related to loans, LCs, FCs and other  
            persons acting as such must have a separate lawful criterion for such processing  
-           pursuant to Sections 12 and/or 13 of the DPA.
+           pursuant to Sections 12 and/or 13 of the [[laws/data-privacy-act-of-2012|DPA]].
 
    C. LCs, FCs, and other persons acting as such shall limit the collection of personal data from  
       the borrowers to those which are adequate, relevant, suitable, necessary, and not excessive  
@@ -186,13 +179,13 @@ general guidelines:
    E. LCs, FCs, and other persons acting as such shall bear in mind that they are at all times  
       accountable for personal data under its control or custody. They shall not use any personal  
       data to engage in unfair collection practices as defined under SEC Memorandum Circular No. 18 series of 2019. Such practices may also be construed as a punishable act under the  
-      DPA; and
+      [[laws/data-privacy-act-of-2012|DPA]]; and
 
    F. LCs, FCs, and other persons acting as such shall adopt and implement reasonable policies  
       regarding the retention of the personal data of those whose loan applications were denied  
       and of borrowers who have fully settled their loans. Personal data shall not be retained in  
       perpetuity in contemplation of a possible future use yet to be determined. Otherwise,  
-      applicable penalties as provided for in the DPA may be imposed.
+      applicable penalties as provided for in the [[laws/data-privacy-act-of-2012|DPA]] may be imposed.
 
 SECTION 4. Character references. — Borrowers may be required to provide names and contact  
 numbers of character references to support the evaluation of the loan application and/or the loan  
@@ -209,13 +202,13 @@ were obtained. LCs, FCs and other persons acting as such shall also provide the 
 their personal data removed as a character reference, if the same is feasible.
 
 SECTION 5. Credit data. — Where the credit data of a borrower is required to be disclosed or  
-submitted pursuant to law or regulation, the relevant provisions of the DPA shall apply.
+submitted pursuant to law or regulation, the relevant provisions of the [[laws/data-privacy-act-of-2012|DPA]] shall apply.
 
 All other instances where LCs, FCs, and other persons acting as such either share credit data to a  
 third party or obtain personal data from other entities that may help determine creditworthiness  
-of their borrowers, must also be authorized under the DPA. LCs, FCs, and other persons acting  
+of their borrowers, must also be authorized under the [[laws/data-privacy-act-of-2012|DPA]]. LCs, FCs, and other persons acting  
 as such shall, at all times, ensure the protection of the rights and freedoms of the individual about  
-whom the personal data is processed in accordance with the DPA, its IRR and relevant NPC  
+whom the personal data is processed in accordance with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and relevant NPC  
 issuances.
 
 SECTION 6. Outsourcing. — LCs, FCs, and other persons acting as such may outsource any  
@@ -223,25 +216,24 @@ personal data processing activity it may deem appropriate. Details of the author
 third-party service providers shall be made available to borrowers to ensure that they are  
 transacting only with authorized individuals or entities.
 
-Parties to such outsourcing arrangements shall be guided by the provisions of the IRR of the DPA  
+Parties to such outsourcing arrangements shall be guided by the provisions of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR of the DPA]]  
 on Outsourcing and Subcontracting Agreements. Pursuant to the principle of accountability  
-under the DPA, PICs are expected to be responsible for any personal data under its control or  
+under the [[laws/data-privacy-act-of-2012|DPA]], PICs are expected to be responsible for any personal data under its control or  
 custody, including the processing of information that have been outsourced to a PIP.
 
 LCs, FCs, and other persons acting as such shall ensure, through contractual or other reasonable  
-means, that the PIPs are aware of their obligations under the DPA, its IRR and issuances of the  
+means, that the PIPs are aware of their obligations under the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and issuances of the  
 NPC, and may be held contractually liable to the PIC for violations of their agreement.
 
 SECTION 7. Rights of the data subject. — All borrowers shall be accorded their rights as  
-provided for under the DPA. Similar rights as may be provided for under other applicable laws,  
+provided for under the [[laws/data-privacy-act-of-2012|DPA]]. Similar rights as may be provided for under other applicable laws,  
 i.e. Section 4 (o) of the Credit Information System Act (CISA), shall be available to the borrower.
 
 LCs, FCs, and other persons acting as such shall adopt policies and procedures which enables  
-borrowers to exercise their rights under the DPA.
+borrowers to exercise their rights under the [[laws/data-privacy-act-of-2012|DPA]].
 
-In all cases, loan processing activities shall be consistent with the relevant provisions of the DPA,  
-its IRR and relevant issuances of the NPC. LCs, FCs, and other persons acting as such who shall  
-fail to do so shall be liable under the applicable provisions of the DPA.
+In all cases, loan processing activities shall be consistent with the relevant provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and relevant issuances of the NPC. LCs, FCs, and other persons acting as such who shall  
+fail to do so shall be liable under the applicable provisions of the [[laws/data-privacy-act-of-2012|DPA]].
 
 SECTION 8. Transitory Provisions. – Upon effectivity of this Circular, all LCs, FCs, and other  
 persons acting as such who are in possession of their borrowers’ contact list in whatever form, in  
@@ -267,12 +259,15 @@ Approved:
                   Sgd.                                              Sgd.  
      LEANDRO ANGELO Y. AGUIRRE                           JOHN HENRY D. NAGA  
       Deputy Privacy Commissioner                       Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^2]: An Act Governing the Establishment, Operation and Regulation of Lending Companies [Lending Company Regulation Act of
+[^3]: An Act Amending Republic Act No. 5980, As Amended, Otherwise Known As The Financing Company Act [Financing Company
+[^5]: th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Analysis and metadata]]
 - Raw source text: [[sources/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/NPC-Circular-No.-20-01.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

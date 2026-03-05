@@ -1,5 +1,5 @@
 ---
-title: "Guidelines on Privacy Impact Assessments"
+title: "Guidelines on Privacy Impact Assessments (Advisory No. 2017-03)"
 description: "WHEREAS, Article II, Section 11 of the 1987 Constitution declares that the State values the dignity of every human person and guarantees full respect for human rights, and Article XIII, Section 21 states that Congress shall give highest priority to the enactment of measures..."
 aliases:
   - "Advisory No. 2017-03"
@@ -14,9 +14,8 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 3aa3e0685aecebc1253528d2aae41a139d0778f7 -->
-DATE               :    31 July 2017
+
+**Advisory No. 2017-03**
 
 SUBJECT            :    GUIDELINES ON PRIVACY IMPACT ASSESSMENTS
 
@@ -29,22 +28,22 @@ that protect and enhance the right of the people to human dignity. At the same t
 enshrined in jurisprudence is the recognition of the right to privacy as a right fully  
 deserving of constitutional protection;
 
-WHEREAS, Section 2 of Republic Act No. 10173, also known as the Data Privacy Act of 2012  
-(DPA), provides that it is the policy of the State to protect the fundamental human right of  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]  
+([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human right of  
 privacy of communication while ensuring free flow of information to promote innovation  
 and growth. The State also recognizes its inherent obligation to ensure that personal  
 information in information and communications systems in the government and in the  
 private sector are secured and protected;
 
-WHEREAS, Section 20(c) of the DPA and Section 29 of its Implementing Rules and  
-Regulations (IRR) provide that the determination of the appropriate level of security for an  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 20(c)|Section 20(c) of the DPA]] and Section 29 of its Implementing Rules and  
+Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) provide that the determination of the appropriate level of security for an  
 agency or organization processing personal data shall take into account the nature of the  
 personal information to be protected, the risks represented by the processing to the rights  
 and freedoms of data subjects, the size of the organization and complexity of its operations,  
 current data privacy best practices, and the cost of security implementation;
 
-WHEREAS, pursuant to Section 7 of the DPA, the National Privacy Commission (NPC) is  
-mandated to administer and implement the provisions of the DPA, monitor and ensure  
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the National Privacy Commission (NPC) is  
+mandated to administer and implement the provisions of the [[laws/data-privacy-act-of-2012|DPA]], monitor and ensure  
 compliance of the country with international standards set for data protection, and  
 coordinate with government agencies and the private sector on efforts to formulate and  
 implement plans and policies that strengthen the protection of personal information in the  
@@ -63,15 +62,14 @@ Advisory that prescribes guidelines for the conduct of a Privacy Impact Assessme
 
 This Advisory shall apply to all natural or juridical persons, or any other body in the  
 government or private sector engaged in the processing of personal data within and outside  
-of the Philippines, subject to the applicable provisions of the DPA, its IRR, and other  
+of the Philippines, subject to the applicable provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other  
 relevant issuances of the NPC.
 
                                     Definition of Terms
 
 For the purpose of this Advisory, the following terms are defined, as follows:
 
-   A.    “Act” or “DPA” refers to Republic Act No. 10173, otherwise known as the Data  
-         Privacy Act of 2012;
+   A.    “Act” or “[[laws/data-privacy-act-of-2012|DPA]]” refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
    B.    “Commission” or “NPC” refers to the National Privacy Commission;
 
@@ -84,13 +82,13 @@ For the purpose of this Advisory, the following terms are defined, as follows:
          fraudulent misuse, unlawful destruction, alteration and contamination;
 
    E.    “Data Protection Officer” or “DPO” refers to an individual designated by the head  
-         of agency or organization to be accountable for its compliance with the Act, its IRR,  
+         of agency or organization to be accountable for its compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]],  
          and other issuances of the Commission: Provided, that, except where allowed  
          otherwise by law or the Commission, the individual must be an organic employee  
          of the government agency or private entity: Provided further, that a government  
          agency or private entity may have more than one DPO;
 
-   F.    “IRR” refers to the Implementing Rules and Regulations of the DPA;
+   F.    “[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]” refers to the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|DPA]];
 
    G.    “Personal data” refers to all types of personal information, including privileged  
          information;
@@ -221,7 +219,7 @@ The conduct of a PIA is intended to:
    B.    assist the PIC or PIP in preparing the records of its processing activities, and in  
          maintaining its privacy management program;
 
-   C.    facilitate compliance by the PIC or PIP with the DPA, its IRR, and other applicable  
+   C.    facilitate compliance by the PIC or PIP with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other applicable  
          issuances of the NPC, by determining:  
          a.     its adherence to the principles of transparency, legitimate purpose and  
                 proportionality;  
@@ -287,7 +285,7 @@ existing methodology, 1 provided the latter is acceptable based on the following
     Acceptable methodologies include ISO/IEC 29134, which provides standards for the conduct of the PIA.  
   This takes into consideration Art 29 Data Protection Working Party “Guidelines on Data Protection Impact Assessment  
 (DPIA) and determining whether processing is “likely to result in a high risk” for the purposes of Regulation 2016/679” (4  
-April 2017) and the provisions of the DPA.
+April 2017) and the provisions of the [[laws/data-privacy-act-of-2012|DPA]].
 
         3.)   sources of personal data and procedures for collection;  
         4.)   functional description of personal data processing, including a list of all  
@@ -302,7 +300,7 @@ April 2017) and the provisions of the DPA.
 
    2.   It includes an assessment of the adherence by the PIC or PIP to the data privacy  
         principles, the implementation of security measures, and the provision of  
-        mechanisms for the exercise by data subjects of their rights under the DPA.
+        mechanisms for the exercise by data subjects of their rights under the [[laws/data-privacy-act-of-2012|DPA]].
 
    3.   It identifies and evaluates the risks posed by a data processing system to the rights  
         and freedoms of affected data subjects, and proposes measures that address them.
@@ -494,7 +492,7 @@ required by law or policy, and other similar circumstances.
                               Compliance and Accountability
 
 The conduct of a PIA is one of the ways a PIC or PIP is able to demonstrate its compliance  
-with the DPA, its IRR, and related issuances of the NPC. It also represents a proactive  
+with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and related issuances of the NPC. It also represents a proactive  
 approach to the management of risks represented by personal data processing by ensuring  
 that the rights of data subjects are protected.
 
@@ -515,13 +513,8 @@ Approved:
           [Sgd] IVY D. PATDU                      [Sgd] DAMIAN DOMINGO O. MAPA  
        Deputy Privacy Commissioner                    Deputy Privacy Commissioner
 
-Date: 31 July 2017
-<!-- END MANUAL ANNOTATED TEXT -->
-
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2017/guidelines-on-privacy-impact-assessments|Analysis and metadata]]
 - Raw source text: [[sources/2017/guidelines-on-privacy-impact-assessments|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryNo.2017-03.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

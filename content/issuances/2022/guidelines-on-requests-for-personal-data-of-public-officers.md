@@ -1,5 +1,5 @@
 ---
-title: "Guidelines On Requests For Personal Data Of Public Officers"
+title: "Guidelines On Requests For Personal Data Of Public Officers (Advisory No. 2022-01)"
 description: "WHEREAS, the right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution emphasizes that the State values the..."
 aliases:
   - "Advisory No. 2022-01"
@@ -14,13 +14,9 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 974a3a41b28b8ba4ada9e5ea71f57d541102e8bc -->
-NPC Advisory No. 2022-01
 
-DATE                           :         04 February 2022
+**Advisory No. 2022-01**
 
-SUBJECT                        :         GUIDELINES ON REQUESTS FOR PERSONAL DATA OF  
                                          PUBLIC OFFICERS
 
 WHEREAS, the right to privacy, which includes information privacy, is constitutionally  
@@ -43,12 +39,11 @@ trust, and that public officers and employees must, at all times, be accountable
 serve them with utmost responsibility, integrity, loyalty and efficiency; act with patriotism  
 and justice, and lead modest lives;
 
-WHEREAS, Section 2 of Republic Act No. 10173 otherwise known as the Data Privacy Act of  
-2012 (DPA) provides that it is the policy of the State to protect the fundamental human right  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]] otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]) provides that it is the policy of the State to protect the fundamental human right  
 of privacy of communication while ensuring free flow of information to promote innovation  
 and growth;
 
-WHEREAS, Section 4 of the DPA states that the law applies to the processing of all types of  
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 4|Section 4 of the DPA]] states that the law applies to the processing of all types of  
 personal information and to any person involved in personal information processing, but  
 provides that the Act will not apply to specified information, including those information  
 processed for purposes of allowing public access to information that fall within matters of  
@@ -77,8 +72,7 @@ prosecution of offenses committed by public officers.
 SECTION 2. Definition of Terms. — Whenever used in this Advisory, the following terms  
 shall have their respective meanings as hereinafter set forth:
 
-    A. “Act” or “DPA” refers to Republic Act No. 10173, otherwise known as the Data Privacy  
-       Act of 2012;
+    A. “Act” or “[[laws/data-privacy-act-of-2012|DPA]]” refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
     B. “Consent of the data subject” refers to any freely given, specific, informed indication  
        of will, whereby the data subject agrees to the collection and processing of personal  
@@ -173,13 +167,13 @@ SECTION 3. General principles. — This Advisory is governed by the following pr
        disclosures required under other applicable laws.
 
          In these exceptional cases, these information relating to their position and official  
-         functions are not covered by the DPA.1 However, the exemption is not absolute. The  
+         functions are not covered by the [[laws/data-privacy-act-of-2012|DPA]].1 However, the exemption is not absolute. The  
          exclusion of such information from the scope of the law is interpreted as an exemption  
          from complying with the requirements of Sections 12 or 13 on lawful criteria for  
          processing; and the collection, access, use, disclosure, or other processing is limited to  
          the minimum extent necessary to achieve the purpose, function, or activity concerned.  
          Personal information controllers (PICs) undertaking the processing of such  
-         information remain to be subject to the other requirements of the DPA, including  
+         information remain to be subject to the other requirements of the [[laws/data-privacy-act-of-2012|DPA]], including  
          implementing security measures to protect personal data and upholding the rights of  
          the public officers as data subjects.
 
@@ -196,15 +190,13 @@ SECTION 5. Obligations of government agencies as personal information controller
 Government agencies are considered as personal information controllers (PICs) who exercise  
 control over the processing of personal data.
 
-    A. As PICs, they are required to comply with the provisions of the DPA, its IRR, and  
+    A. As PICs, they are required to comply with the provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and  
        issuances of the National Privacy Commission (NPC), specifically adherence to the
 
-1 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
-Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012],  
-Republic Act No. 10173, § 4 (a) (2012) and Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act  
+Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],  
+[[laws/data-privacy-act-of-2012|Republic Act No. 10173]], § 4 (a) (2012) and Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act  
 No. 10173, § 5 (2016).  
-2 National Archives of the Philippines, NAP General Circular No. 1, Rule 2 - Definitions, Document – refers to recorded
 
 information regardless of medium or characteristics. Frequently used interchangeably with “records” (Jan. 20, 2009).
 
@@ -295,7 +287,7 @@ requesting party, and shall consider the following factors:
                   or deduced due to incomplete redaction;  
              c) Redaction of physical copies of documents should be accomplished in such a  
                   way that redacted text cannot be made out when the document is held up to  
-                  the light; and that the ends, top or bottom of the text are not visible;5  
+                  the light; and that the ends, top or bottom of the text are not visible;[^5]  
              d) Redaction software shall be used correctly to ensure all redactions are  
                   irreversible prior to disclosure;  
              e) Black highlighting shall be used for redaction on white and pale backgrounds  
@@ -303,11 +295,8 @@ requesting party, and shall consider the following factors:
                   place; and  
              f) Redactions made to documents shall be consistent and logical as to form and
 
-3 Refers to the parents, spouse, and children, as well as any other relative within the fourth degree of consanguinity or affinity
 
 in the government service.  
-4 See: Civil Service Commission, Memorandum Circular No. 8, s. 2007 [MC No. 8, s. 2007] (May 17, 2007).  
-5 See: UK National Archives, Redaction toolkit - Editing exempt information from paper and electronic documents prior to
 
 release, available at [https://cdn.nationalarchives.gov.uk/documents/information-management/redaction_toolkit.pdf](https://cdn.nationalarchives.gov.uk/documents/information-management/redaction_toolkit.pdf) (last  
 accessed 2 November 2021)
@@ -356,13 +345,11 @@ SECTION 9. Consent of Public Officers. — If the requested document or informat
 specifically relates to the personal data of a public officer, but existing laws or regulations do  
 not require disclosure, the public officer may nevertheless consent to the disclosure of his or
 
-6 See: An Act Promoting Ease of Doing Business and Efficient Delivery of Government Services, mending for the purpose,
 
 Republic Act No. 9485, Otherwise known as the Anti-Red Tape Act of 2007, And For Other Purposes [Ease of Doing Business  
 and Efficient Government Service Delivery Act of 2018], Republic Act No. 11032, § 9 (b) (2018) and Office of the President,  
 Operationalizing in the Executive Branch the Constitutional Right to Information and the State Policies of Full Public  
 Disclosure and Transparency in the Public Service and Providing Guidelines Therefor, Executive Order No. 2 [E.O. No. 2] §  
-9 (d) (July 23, 2016).
 
 her personal data: provided, that consent shall be strictly construed in favor of the data subject:
 
@@ -372,7 +359,7 @@ her personal data: provided, that consent shall be strictly construed in favor o
      B. The government agency shall be accountable for the consent mechanisms it has  
         implemented. It shall keep records of consent forms or its equivalent, showing how  
         and when consent was obtained, and the information provided to the public officer at  
-        the time the consent was obtained.7
+        the time the consent was obtained.[^7]
 
 Notwithstanding the foregoing, the public officer may nevertheless disclose or release his or  
 her own personal data directly to the requesting party without any intervention from the  
@@ -392,16 +379,23 @@ Approved:
                                           LEANDRO ANGELO Y. AGUIRRE  
                                             Deputy Privacy Commissioner
 
-7 See generally: European Data Protection Board, Guidelines 05/2020 on consent under Regulation 2016/679 Version 1.1, §
 
 108 (4 May 2020), available at [https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_](https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_) consent_en.pdf  
 (last accessed 11 Sept 2021).
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
+[^2]: National Archives of the Philippines, NAP General Circular No. 1, Rule 2 - Definitions, Document – refers to recorded
+[^3]: Refers to the parents, spouse, and children, as well as any other relative within the fourth degree of consanguinity or affinity
+[^4]: See: Civil Service Commission, Memorandum Circular No. 8, s. 2007 [MC No. 8, s. 2007] (May 17, 2007).
+[^5]: See: UK National Archives, Redaction toolkit - Editing exempt information from paper and electronic documents prior to
+[^6]: See: An Act Promoting Ease of Doing Business and Efficient Delivery of Government Services, mending for the purpose,
+[^7]: See generally: European Data Protection Board, Guidelines 05/2020 on consent under Regulation 2016/679 Version 1.1, §
+[^9]: (d) (July 23, 2016).
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2022/guidelines-on-requests-for-personal-data-of-public-officers|Analysis and metadata]]
 - Raw source text: [[sources/2022/guidelines-on-requests-for-personal-data-of-public-officers|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/08/NPC-Advisory-No.-2022-01-Request-for-Personal-Data-of-Public-Officers.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

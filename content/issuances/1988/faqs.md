@@ -1,5 +1,5 @@
 ---
-title: "FAQs"
+title: "FAQs (Circular No. 20-02)"
 description: "Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO)"
 aliases:
   - "Circular No. 20-02"
@@ -14,8 +14,9 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: b90ef3daa78c805a040e285a224c15d172d62835 -->
+
+**Circular No. 20-02**
+
                             Frequently Asked Questions on the  
                Draft Rules on the Issuance of Cease and Desist Orders (CDO)
 
@@ -27,14 +28,14 @@ draft: false
    processing will be detrimental to national security and public interest.”
 
        No. At the outset, we note that this phrase is taken from Section 9(f)(3) of the  
-   Implementing Rules and Regulations (IRR) of the DPA which provides the functions of the  
+   Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) of the [[laws/data-privacy-act-of-2012|DPA]] which provides the functions of the  
    NPC including “Enforcement: Issuing cease and desist orders, or imposing a temporary or  
    permanent ban on the processing of personal data, upon finding that the processing will be  
    detrimental to national security or public interest, or if it is necessary to preserve and protect  
    the rights of data subjects.”
 
        The IRR, in adding the phrase “or if it necessary to preserve and protect the rights of  
-   data subjects” did not expand the DPA but rather limit the national security and public  
+   data subjects” did not expand the [[laws/data-privacy-act-of-2012|DPA]] but rather limit the national security and public  
    interest issue involved in data privacy cases, which is the protection and preservation of the  
    rights of a data subject. The addition of such a phrase prevents the issuance of a CDO for  
    national security and public interest cases outside the jurisdiction of the Commission.
@@ -69,7 +70,7 @@ draft: false
    Commission fails to render its decision within the said period, the CDO shall be deemed  
    automatically lifted (Section 12, CDO Rules).
 
-3. How can the NPC justify an ex parte CDO when the DPA does not authorize the NPC to  
+3. How can the NPC justify an ex parte CDO when the [[laws/data-privacy-act-of-2012|DPA]] does not authorize the NPC to  
    issue the same?
 
        Jurisprudence has recognized the implied power of quasi-judicial agencies to issue ex  
@@ -105,7 +106,7 @@ draft: false
    processing of personal information?
 
        The CDO is an independent action that covers the processing of personal information  
-   and the conduct of any act or practice in violation of the DPA. It is commenced motu propio  
+   and the conduct of any act or practice in violation of the [[laws/data-privacy-act-of-2012|DPA]]. It is commenced motu propio  
    by the Complaints and Investigation Division (CID) or the Compliance and Monitoring  
    Division (CMD), or through a verified application by the aggrieved party upon  
    recommendation by the CID. It is issued ex parte, after the conduct of verification and
@@ -238,10 +239,6 @@ draft: false
 19. Does the rule on exhaustion of administrative remedies apply in this case?
 
        No. Since an application for a CDO may proceed independently of a complaint, Section  
-   4 of NPC Circular 16-04 does not apply. The CDO is an extraordinary remedy that will give  
-   an applicant immediate relief in cases where the stringent criteria under the law are met.  
-   Requiring the applicant to comply with the rule on exhaustion will defeat the main purpose  
-   of the application, which is to prevent a grave or irreparable injury.
 
 20. What will be the basis of the CID for conducting a sua sponte investigation?
 
@@ -292,7 +289,7 @@ draft: false
 23. Does the “Aggrieved Party” include a juridical person? May the corporation file a  
     petition for issuance of CDO on behalf of its employees?
 
-       No, an aggrieved party or a data subject as contemplated by the DPA only refers to a  
+       No, an aggrieved party or a data subject as contemplated by the [[laws/data-privacy-act-of-2012|DPA]] only refers to a  
    natural person, privacy being a fundamental human right. (Advisory Opinion No. 2017-006)  
    However, according to NPC Circular 16-04, a natural person may be represented by a  
    juridical person (Section 3).
@@ -318,12 +315,13 @@ draft: false
                                          ---Nothing follows---
 
                                          Page 7 of 7
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^4]: of NPC Circular 16-04 does not apply. The CDO is an extraordinary remedy that will give an applicant immediate relief in cases where the stringent criteria under the law are met. Requiring the applicant to comply with the rule on exhaustion will defeat the main purpose of the application, which is to prevent a grave or irreparable injury.
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/1988/faqs|Analysis and metadata]]
 - Raw source text: [[sources/1988/faqs|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->
