@@ -10,6 +10,6 @@ Auto-generated topic cluster for **Cross Border Transfers**.
 - [[issuances/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data|Model Contractual Clauses for Cross-Border Transfers of Personal Data]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own synthesis, definitions, and extra wikilinks here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

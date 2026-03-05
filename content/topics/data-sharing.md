@@ -12,6 +12,6 @@ Auto-generated topic cluster for **Data Sharing**.
 - [[issuances/2020/data-sharing-agreements|Data Sharing Agreements]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own synthesis, definitions, and extra wikilinks here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

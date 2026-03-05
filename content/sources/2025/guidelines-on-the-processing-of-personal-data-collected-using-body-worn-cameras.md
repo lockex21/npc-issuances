@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras Source Text"
-description: "Generated extracted text for Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras."
+title: "Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras Raw Source Text"
+description: "Raw extracted text for Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras before manual annotation."
 aliases:
-  - "Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras Source Text"
+  - "Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras Raw Source Text"
 tags:
   - "source-text"
   - "year/2025"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras]]
-- PDF: [Open PDF](../../pdfs/SGD-NPC-Circular-No.-2025-01-Body-Worn-Cameras.pdf)
+- Companion note: [[notes/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2025/05/SGD-NPC-Circular-No.-2025-01-Body-Worn-Cameras.pdf
+- OCR used: no
 
 ## Extracted Text
                                   Republic of the Philippines  
@@ -69,7 +70,7 @@ protection reform package, Annex 2 Proposals for Amendments regarding exemption 
 activities (2013).
 
 Ref No.: PDD-25-00276                                       NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
     A. “Alternative Recording Device” or “ARD” refers to an electronic device or gadget with  
        a camera system, other than a BWC, that is capable of creating, generating, sending,  
        receiving, storing, displaying, and processing audio-visual recording and is capable of  
@@ -118,11 +119,11 @@ Ref No.: PDD-25-00276                                       NPC_PPO_PDD_CIRC-V2.
            collaboration and linkages with the community;
 
 2 Philippine National Police Manual  PNPM-DO-D-0-2-13-21, Revised Philippine National Police Operational  
-Procedure, September 2021, available at https://akg.pnp.gov.ph/wp-content/uploads/2024/01/POP-Manual-  
+Procedure, September 2021, available at [https://akg.pnp.gov.ph/wp-content/uploads/2024/01/POP-Manual-](https://akg.pnp.gov.ph/wp-content/uploads/2024/01/POP-Manual-)  
 2021.pdf (last accessed October 21, 2024).
 
 Ref No.: PDD-25-00276                                       NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+          URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                            2  
     E. “Law Enforcement Agencies” or “LEAs” refer to persons engaged in police operations  
        defined herein and other law enforcement functions, whether appointed, elected, or  
@@ -165,7 +166,7 @@ through BWCs or ARDs shall be subject to the following requirements.
 3 See generally: United Nations, Code of Conduct for Law Enforcement Officials, Adopted by General Assembly
 
 resolution 34/169 of 17 December 1979, available at  
-https://www.ohchr.org/Documents/ProfessionalInterest/codeofconduct.pdf (last accessed 19 June 2021).  
+[https://www.ohchr.org/Documents/ProfessionalInterest/codeofconduct.pdf](https://www.ohchr.org/Documents/ProfessionalInterest/codeofconduct.pdf) (last accessed 19 June 2021).  
 4 PNP Memorandum Circular No. 2018-009, § 4 (d).  
 5 An Act Strengthening The Regulation Of The Private Security Services Industry, Repealing For The Purpose,
 
@@ -177,10 +178,10 @@ No. 11917 (2022).
 No. 21-06-08-SC], Rule 1, § 4 (5) (June 29, 2021).  
 7 See: Cambridge Dictionary entry for vlogger, available at
 
-https://dictionary.cambridge.org/us/dictionary/english/vlogger (last accessed Jan. 10, 2025).
+[https://dictionary.cambridge.org/us/dictionary/english/vlogger](https://dictionary.cambridge.org/us/dictionary/english/vlogger) (last accessed Jan. 10, 2025).
 
 Ref No.: PDD-25-00276                                        NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+          URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                               3  
     A. Law enforcement; security. BWCs or ARDs shall be used in a manner consistent with the  
        aim of ensuring the protection of the fundamental rights and freedoms of all data  
@@ -229,13 +230,13 @@ Ref No.: PDD-25-00276                                        NPC_PPO_PDD_CIRC-V2
 
 8 See generally: UK Information Commissioner’s Office, Additional considerations for technologies other than CCTV -
 
-Body Worn Video (BWV), available at https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-  
+Body Worn Video (BWV), available at [https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-)  
 resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/additional-  
 considerations-for-technologies-other-than-cctv/?q=children#bwv (last accessed: 2 September 2024).  
 9 PNP Memorandum Circular No. 2018-009, § 6 (b).
 
 Ref No.: PDD-25-00276                                            NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+          URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                                       4  
             c. Proportionality. The processing of personal data through the use of BWCs or  
                ARDs shall be adequate, relevant, suitable, necessary, and not excessive in  
@@ -289,7 +290,7 @@ Ref No.: PDD-25-00276                                            NPC_PPO_PDD_CIR
 SECTION 4. Security measures. — PICs and PIPs shall implement reasonable and
 
 Ref No.: PDD-25-00276                                     NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                    5  
 appropriate organizational, technical, and physical safeguards, considering the need to  
 maintain confidentiality, integrity, and availability of personal data collected through BWCs  
@@ -339,11 +340,11 @@ or ARDs. These safeguards shall include the following:
 10 See generally: United Kingdom, Home Office Centre for Applied Science and Technology, Body-Worn Video
 
 Technical Guidance, available at  
-https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/  
+[https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/)  
 file/565608/body-worn-video-technical-guidance-1414.pdf (last accessed 21 June 2021).
 
 Ref No.: PDD-25-00276                                      NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                            6  
          1. The recordings shall be in a standard, open, non-proprietary format such that it  
             can be replayed in a freely available software;  
@@ -395,7 +396,7 @@ their rights under Sections 16 to 18 of the DPA shall be provided.
 11 PNP Memorandum Circular No. 2018-009, § 6 (c) (2) (i) and (5) (a).
 
 Ref No.: PDD-25-00276                                           NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+          URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                          7  
     A. The exercise of such rights is subject to reasonable limitations, such as when upholding  
        data subject rights would prevent, impair, or otherwise prejudice ongoing police  
@@ -448,7 +449,7 @@ Circular shall be liberally interpreted in a manner mindful of the rights and in
 12 See: ECA v. XXX, NPC Case No. 18-103 (2020).
 
 Ref No.: PDD-25-00276                                      NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+          URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                     8  
 data subjects, and without prejudice to the application of other pertinent laws and regulations  
 on the matter.
@@ -482,5 +483,5 @@ Approved:
         Deputy Privacy Commissioner                       Deputy Privacy Commissioner
 
 Ref No.: PDD-25-00276                                     NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                    9

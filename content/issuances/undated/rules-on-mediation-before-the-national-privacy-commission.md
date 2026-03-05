@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> Section 1. Application and Interpretation. – In applying and construing the provisions of these Rules, consideration must be given to the need to promote candor among the parties, the confidentiality of the mediation process, and the independence of the determination and...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                    Republic of the Philippines  
-                           NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 2bb8fe234785930f0fdf9b9828c9e3ed23232e60 -->
 NPC Circular 18-03
 
 DATE           :      18 December 2018
@@ -79,10 +63,6 @@ Section 3. Definition of Terms. –
 
    f. Mediation Officer – refers to the personnel of the Legal Division assigned or  
       designated by the Commission to conduct mediation.
-
-                                                                                                 1  
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
 
                                         RULE II  
                                       PROCEDURE
@@ -133,10 +113,6 @@ such information.
 Section 6. Mediation Period and Extension thereof. – The mediation officer shall  
 endeavor to achieve a mediated settlement of the dispute within fifteen (15) days from
 
-                                                                                           2  
-                                  Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION
-
 the preliminary mediation conference, but shall, in every case, be afforded the initial  
 period of sixty (60) days to achieve the same.
 
@@ -183,10 +159,6 @@ complaint proceedings, shall be furnished to all the parties.
 Section 12. Field Mediation. – The personnel of the Legal Division shall be authorized to  
 conduct mediation proceedings between parties during the conduct of regional discovery  
 conferences by the Complaints and Investigation Division.
-
-                                                                                            3  
-                                 Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
 
                                      RULE III  
                                GENERAL PROVISIONS
@@ -236,10 +208,6 @@ The mediation proceedings and all incidents thereto shall be kept strictly confi
 and all admissions or statements therein shall be inadmissible for any purpose in any  
 proceeding, unless otherwise specifically provided by law. However, evidence or
 
-                                                                                         4  
-                                  Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION
-
 information that is otherwise admissible or subject to discovery does not become  
 inadmissible or protected from discovery solely by reason of its use in mediation.
 
@@ -282,12 +250,8 @@ Approved:
 
 Date: 18 December 2018
 
-                                                                                            5  
-                                                                       ANNEX “A”  
-                                 Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+                                                                       ANNEX “A”
 
-__________________________________________                     ________________________  
 Complainant/s                                                  CID Case No.
 
       -   versus    -
@@ -331,15 +295,10 @@ evidenced by Official Receipt No. ____________ dated __________________, which i
 attached hereto.
 
                                                   ____________________________________  
-                                                  Signature over printed name  
                                                   Investigating Officer
 
-                                                                                         6  
-                                                                     ANNEX “B”  
-                                Republic of the Philippines  
-                        NATIONAL PRIVACY COMMISSION
+                                                                     ANNEX “B”
 
-__________________________________________                    ________________________  
 Complainant/s                                                 CID Case No.
 
       -   versus    -
@@ -373,15 +332,10 @@ ________________________
 LD ADR Case No.
 
 ____________________________________  
-Signature over printed name  
 Mediation Officer
 
-                                                                                     7  
-                                                                    ANNEX “C”  
-                               Republic of the Philippines  
-                       NATIONAL PRIVACY COMMISSION
+                                                                    ANNEX “C”
 
-__________________________________________                   ________________________  
 Complainant/s                                                LD ADR Case No.
 
       -   versus   -
@@ -408,15 +362,10 @@ __________________________________________________________.
       City of Pasay, (date) ____________________.
 
                                                 ____________________________________  
-                                                Signature over printed name  
                                                 Mediation Officer
 
-                                                                                    8  
-                                                                     ANNEX “D”  
-                                Republic of the Philippines  
-                        NATIONAL PRIVACY COMMISSION
+                                                                     ANNEX “D”
 
-__________________________________________                    ________________________  
 Complainant/s                                                 LD ADR Case No.
 
       -   versus    -
@@ -463,10 +412,6 @@ Agreement;
       do hereby relinquish, waive, release, acquit, and forever discharge each other of  
       and from any and all claims, disputes, complaints, causes of action, and rights
 
-                                                                                      9  
-                              Republic of the Philippines  
-                      NATIONAL PRIVACY COMMISSION
-
       based on actions or events which occurred prior to the date of this Mediated  
       Settlement Agreement.
 
@@ -490,12 +435,8 @@ Signature over printed name                    Signature over printed name
 ____________________________________           ____________________________________  
 Signature over printed name                    Signature over printed name
 
-                                                                                 10  
-                                                                     ANNEX “E”  
-                                Republic of the Philippines  
-                        NATIONAL PRIVACY COMMISSION
+                                                                     ANNEX “E”
 
-__________________________________________                    ________________________  
 Complainant/s                                                 LD ADR Case No.
 
       -   versus    -
@@ -535,15 +476,10 @@ confirmation by the Commission.
       City of Pasay, (date) ____________________.
 
                                                  ____________________________________  
-                                                 Signature over printed name  
                                                  Mediation Officer
 
-                                                                                    11  
-                                                                      ANNEX “F”  
-                                 Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+                                                                      ANNEX “F”
 
-__________________________________________                     ________________________  
 Complainant/s                                                  LD ADR Case No.
 
       -   versus    -
@@ -566,15 +502,10 @@ for two (2) consecutive mediation conferences/caucuses.
       City of Pasay, (date) ____________________.
 
                                                   ____________________________________  
-                                                  Signature over printed name  
                                                   Mediation Officer
 
-                                                                                       12  
-                                                                       ANNEX “G”  
-                                  Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION
+                                                                       ANNEX “G”
 
-__________________________________________                      ________________________  
 Complainant/s                                                   CID Case No.
 
          -   versus   -
@@ -602,32 +533,13 @@ Delegation Building, CCP Complex, Pasay City.
          City of Pasay, (date) ____________________.
 
                                                    ____________________________________  
-                                                   Signature over printed name  
                                                    Investigating Officer
-
-                                                                                      13
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 18-03
-- Type: Circular
-- Year: undated
-- Issued: Unknown
-- Pages: 13
-- Source PDF: [Open PDF](../../pdfs/Circular18-03_RulesonMediationwAnnexes.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-03_RulesonMediationwAnnexes.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/undated/rules-on-mediation-before-the-national-privacy-commission|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/undated/rules-on-mediation-before-the-national-privacy-commission]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/undated/rules-on-mediation-before-the-national-privacy-commission|Analysis and metadata]]
+- Raw source text: [[sources/undated/rules-on-mediation-before-the-national-privacy-commission|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-03_RulesonMediationwAnnexes.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

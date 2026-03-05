@@ -14,25 +14,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, the Philippine Constitution guarantees respect for the right to privacy, including information privacy, accorded recognition as inherent in the freedoms enjoyed by every Filipino, and at the same time, Article II, Section 11 of the Constitution emphasizes that the...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                 Republic of the Philippines  
-                       NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: f11168fecbc1cb2b88ffb31931fc9c4da9c45e20 -->
 NPC Circular 16-03
 
 DATE               :   15 December 2016  
@@ -83,15 +67,10 @@ SECTION 2. Purpose. These Rules provide the framework for personal data breach
 management and the procedure for personal data breach notification and other requirements.
 
 SECTION 3. Definition of Terms. For the purpose of this Circular, the following terms are  
-defined, as follows:  
-                                                                        NPC Circular No. 2016-03  
-                                                             Personal Data Breach Management  
-                                                                              15 December 2016
+defined, as follows:
 
 A.   “Act” refers to Republic Act No. 10173, otherwise known as the Data Privacy Act of  
      2012;
-
-B.   “Commission” refers to the National Privacy Commission;
 
 C.   “Data Protection Officer” refers to an individual designated by the head of agency to  
      be accountable for the agency’s compliance with the Act: Provided, that the individual  
@@ -146,11 +125,6 @@ L.   “Sensitive personal information” refers to personal information:
 
      1.   About an individual’s race, ethnic origin, marital status, age, color, and religious,  
           philosophical or political affiliations;
-
-                                            2  
-                                                                           NPC Circular No. 2016-03  
-                                                                Personal Data Breach Management  
-                                                                                 15 December 2016
 
          2.   About an individual’s health, education, genetic or sexual life of a person, or to  
               any proceeding for any offense committed or alleged to have been committed by  
@@ -209,11 +183,6 @@ The team must be ready to assess and evaluate a security incident, restore integ
 information and communications system, mitigate and remedy any resulting damage, and  
 comply with reporting requirements.
 
-                                                3  
-                                                                           NPC Circular No. 2016-03  
-                                                                Personal Data Breach Management  
-                                                                                 15 December 2016
-
 The functions of the Data Breach Response Team may be outsourced. Such outsourcing shall  
 not reduce the requirements found in the Act, the IRR or related issuance. The Data Protection  
 Officer shall remain accountable for compliance with applicable laws and regulations.
@@ -269,11 +238,6 @@ and confidentiality of the personal data being processed, and may include:
 SECTION 8. Policies and Procedures. The personal information controller or personal  
 information processor shall implement policies and procedures for guidance of its data breach  
 response team and other personnel in the event of a security incident. These may include:
-
-                                                4  
-                                                                           NPC Circular No. 2016-03  
-                                                                Personal Data Breach Management  
-                                                                                 15 December 2016
 
    A.    A procedure for the timely discovery of security incidents, including the identification  
          of person or persons responsible for regular monitoring and evaluation of security  
@@ -332,11 +296,6 @@ A procedure for post-breach review must be established for the purpose of improv
 personal data breach management policies and procedures of the personal information  
 controller or personal information processor.
 
-                                                5  
-                                                                           NPC Circular No. 2016-03  
-                                                                Personal Data Breach Management  
-                                                                                 15 December 2016
-
 SECTION 10. Regular Review. The incident response policy and procedure shall be subject to  
 regular revision and review, at least annually, by the Data Protection Officer, or any other  
 person designated by the Chief Executive Officer or the Head of Agency, as the case may be.  
@@ -392,11 +351,6 @@ to have been compromised involves:
    C.    Information required by applicable laws or rules to be confidential; or
 
    D.    Personal data of vulnerable groups.
-
-                                               6  
-                                                                              NPC Circular No. 2016-03  
-                                                                   Personal Data Breach Management  
-                                                                                    15 December 2016
 
 SECTION 14. Discovery of Vulnerability. A discovery of a vulnerability in the data processing  
 system that would allow access to personal data shall prompt the personal information  
@@ -456,11 +410,6 @@ the Commission of a personal data breach subject to the following procedures:
                d.  description or nature of the personal data breach;  
                e.  description of the likely consequences of the personal data breach; and
 
-                                                  7  
-                                                                           NPC Circular No. 2016-03  
-                                                                Personal Data Breach Management  
-                                                                                 15 December 2016
-
               f.   name and contact details of the data protection officer or any other  
                    accountable persons.
 
@@ -518,11 +467,6 @@ the data subjects affected by a personal data breach, subject to the following p
         request the Commission for an exemption from the notification requirement, or the  
         postponement of the notification.
 
-                                               8  
-                                                                             NPC Circular No. 2016-03  
-                                                                  Personal Data Breach Management  
-                                                                                   15 December 2016
-
         A personal information controller may be exempted from the notification requirement  
         where the Commission determines that such notification would not be in the public  
         interest or in the interest of the affected data subjects.
@@ -578,11 +522,6 @@ information controller from notification:
    C.   Age or legal capacity of affected data subjects: Provided, that in the case of minors or  
         other individuals without legal capacity, notification may be done through their legal  
         representatives.
-
-                                                 9  
-                                                                           NPC Circular No. 2016-03  
-                                                                Personal Data Breach Management  
-                                                                                 15 December 2016
 
 In evaluating if notification is unwarranted, the Commission may take into account the  
 compliance by the personal information controller with the law and existence of good faith in  
@@ -640,11 +579,6 @@ Approved:
 
 Date: December 15, 2016
 
-                                               10  
-                                                                        NPC Circular No. 2016-03  
-                                                             Personal Data Breach Management  
-                                                                              15 December 2016
-
                                         Summary
 
 What is subject to the         A security breach that:  
@@ -694,30 +628,12 @@ Other requirements             Cooperate with the Commission           where    
 
                                Documentation of all security incidents and the submission of  
                                an annual report to the Commission.
-
-                                            11
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 16-03
-- Type: Circular
-- Year: undated
-- Issued: Unknown
-- Pages: 11
-- Source PDF: [Open PDF](../../pdfs/sgd-npc-circular-16-03-personal-data-breach-management.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/sgd-npc-circular-16-03-personal-data-breach-management.pdf
-- Topic pages: [[topics/security|Security]]
-- Generated source note: [[sources/undated/personal-data-breach-management|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/undated/personal-data-breach-management]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/undated/personal-data-breach-management|Analysis and metadata]]
+- Raw source text: [[sources/undated/personal-data-breach-management|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/sgd-npc-circular-16-03-personal-data-breach-management.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

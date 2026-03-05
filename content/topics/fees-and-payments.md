@@ -11,6 +11,6 @@ Auto-generated topic cluster for **Fees And Payments**.
 - [[issuances/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Schedule of Fees and Charges of the National Privacy Commission]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own synthesis, definitions, and extra wikilinks here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

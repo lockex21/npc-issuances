@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> SECTION 1. Title. – These Rules shall be known as the “2021 NPC Rules of Procedure”.
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                  Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: b1e462975cab1965822450bf57c2fd5329f7b2fe -->
 NPC Circular No. 2021-01
 
 DATE          :      28 January 2021
@@ -68,9 +52,7 @@ SECTION 4. Definition of Terms. –
 
    b. BREACH INVESTIGATION – shall refer to an investigation conducted by the  
       NPC with respect to a data breach notification triggered by the applicable rules  
-      promulgated by the Commission.  
-                                       Republic of the Philippines  
-                             NATIONAL PRIVACY COMMISSION
+      promulgated by the Commission.
 
      c. COMMISSION – shall refer to the Privacy Commissioner and the two (2) Deputy  
         Privacy Commissioners, acting as a collegial body.
@@ -108,9 +90,7 @@ SECTION 4. Definition of Terms. –
           or may not include members from the CID created by order of the Commission.
 
 1 A.M. 01-7-01 (Re: Rules on Electronic Evidence)  
-2 See ibid.  
-                                        Republic of the Philippines  
-                              NATIONAL PRIVACY COMMISSION
+2 See ibid.
 
     k. MEDIATION - refers to the voluntary process in which a mediation officer  
        facilitates communication and negotiation, and assists the parties in reaching a  
@@ -145,9 +125,7 @@ under Act 33263 and any amendments thereto.
 
 3 Act 3326: An Act To Establish Periods Of Prescription For Violations Penalized By Special Acts And
 
-Municipal Ordinances And To Provide When Prescription Shall Begin To Run.  
-                                 Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+Municipal Ordinances And To Provide When Prescription Shall Begin To Run.
 
                                       RULE II  
                                     COMPLAINTS
@@ -185,9 +163,7 @@ not limited to:
       mitigated by action of the NPC;
 
    ii. when the respondent cannot provide any plain, speedy or adequate remedy to the  
-       alleged violation; or  
-                                   Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION
+       alleged violation; or
 
    iii. the action of the respondent is patently illegal.
 
@@ -223,9 +199,7 @@ proper form, as follows:
       the case of juridical persons, employees or agents who committed the offense  
       amounting to a privacy violation or personal data breach.
 
-   7. The complaint must include any and all reliefs sought by the complainant.  
-                                   Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION
+   7. The complaint must include any and all reliefs sought by the complainant.
 
    8. The complainant shall attach any and all correspondence with respondent on the  
       matter complained of and include a statement of the action taken by respondent  
@@ -261,9 +235,7 @@ owned and controlled corporations organized and incorporated under the Corporati
 Code; (b) the complaint is filed by an indigent complainant as defined in the Rules of  
 Court or as otherwise prescribed by NPC through an advisory; or (c) the NPC, upon  
 motion by the requesting party, waives this requirement based on discretion and for good  
-cause shown.  
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+cause shown.
 
 SECTION 5. Where to file complaints. – A complaint may be filed at any office of the  
 NPC.
@@ -299,9 +271,7 @@ attached to the record of the case. In the fourth case, the date of electronic t
 shall be considered as the date of filing provided that it is sufficient in form.
 
 All pleadings and other submissions other than the complaint must be accompanied by  
-an affidavit of service to the other party/parties.  
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+an affidavit of service to the other party/parties.
 
 Illegible, erroneous, and otherwise malfunctioning submissions by electronic mail shall  
 not be considered by the NPC.
@@ -339,9 +309,7 @@ places and for such time as the investigating officer or Commission may order, i
 case a copy of the order to comment shall be sent by registered mail to the last known  
 address of the respondent, or in any other manner the investigating officer or  
 Commission may deem sufficient. The complainant shall bear the cost referred to in this  
-Section.  
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+Section.
 
 SECTION 5. Service by NPC to unknown respondent or respondent whose whereabouts  
 are unknown. – In cases where the respondent is unknown, or whenever his or her  
@@ -376,9 +344,7 @@ dismiss the complaint without prejudice, on any the following grounds:
       complaint, unless failure to do so is justified;
 
    3. The complaint does not pertain to a violation of the Data Privacy Act of 2012 or  
-      does not involve a privacy violation or personal data breach;  
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+      does not involve a privacy violation or personal data breach;
 
    4. There is insufficient information to substantiate the allegations in the complaint;  
       or
@@ -415,9 +381,7 @@ shall not be allowed in the complaint proceedings:
 
    3. motions to declare respondent in default;
 
-   4. dilatory motions for postponement;  
-                                 Republic of the Philippines  
-                        NATIONAL PRIVACY COMMISSION
+   4. dilatory motions for postponement;
 
    5. replies or rejoinders, except if the preceding pleading incorporates an actionable  
       document;
@@ -452,9 +416,7 @@ SECTION 7. Authority of the investigating officer to rule on motions. – The in
 officer may directly rule on motions that do not fully dispose the case on the merits. No  
 appeal or motion for reconsideration may be taken for any interlocutory order made by  
 the investigating officer but these may be included as an issue once the case has reached  
-the Commission for adjudication under Rule VIII of these Rules.  
-                                   Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION
+the Commission for adjudication under Rule VIII of these Rules.
 
                                      RULE V  
                              PRELIMINARY CONFERENCE
@@ -492,9 +454,7 @@ parties shall discuss:
 
    2. the form in which each type of information will be produced;
 
-   3. the period within which the information will be produced;  
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+   3. the period within which the information will be produced;
 
    4. the method for asserting or preserving claims of privilege or of protection of the  
       information;
@@ -531,9 +491,7 @@ otherwise, the objection to the request and the reasons therefor.
 
 The requesting party may specify the form in which the electronically-stored information  
 is to be produced. Unless the parties otherwise agree or the investigating officer  
-otherwise orders: (1) if a request for production does not specify a form for producing a  
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+otherwise orders: (1) if a request for production does not specify a form for producing a
 
 type of electronically-stored information, the responding party shall produce the  
 information in the form in which it is ordinarily maintained or in a form that is reasonably  
@@ -571,9 +529,7 @@ stored information, even from a source that is reasonably accessible, if it is f
    d. the likely burden or expense of the proposed discovery outweighs the likely  
       benefit, taking into account the amount in controversy, the resources of the parties,  
       the importance of the issues, and the importance of the requested discovery in  
-      resolving the issues.  
-                                 Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+      resolving the issues.
 
 SECTION 5. Discovery of other information. - Discovery proceedings outside of the  
 production, inspection and storage of electronically stored information are allowed and  
@@ -610,9 +566,7 @@ a separate issuance shall be paid by the parties upon the filing of the Applicat
 Mediation.
 
 Parties may be exempted from the payment of the mediation fee under the same grounds  
-as Section 4, Rule II of these Rules.  
-                                 Republic of the Philippines  
-                        NATIONAL PRIVACY COMMISSION
+as Section 4, Rule II of these Rules.
 
 SECTION 4. Order to mediate, when issued. – The investigating officer or Commission,  
 as the case may be, shall issue an Order to Mediate, which shall state the following: (a)  
@@ -649,9 +603,7 @@ such information.
 
 SECTION 7. Personal appearance by the parties. – Individual parties are required to  
 personally appear during mediation conferences. Representatives may appear on behalf  
-of individual parties: Provided, that they are authorized by special power of attorney to  
-                                 Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+of individual parties: Provided, that they are authorized by special power of attorney to
 
 appear, offer, negotiate, accept, decide, and enter into a mediated settlement agreement  
 without additional consent or authority from the principal. If the party is a partnership,  
@@ -689,9 +641,7 @@ settlement agreement and its eventual enforcement.
 Lawyers who act as duly authorized representatives of juridical entities may directly  
 attend the mediation conference with all its concomitant rights and obligations.
 
-SECTION 10. Venue. – Mediation proceedings shall be conducted within the NPC  
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+SECTION 10. Venue. – Mediation proceedings shall be conducted within the NPC
 
 premises. Upon request of both parties, the mediation officer may authorize the conduct  
 of a mediation conference at any other venue, provided that all related expenses,  
@@ -727,9 +677,7 @@ officer.
 
 SECTION 14. Effect of confirmed Mediated Settlement Agreement. – A confirmed  
 mediated settlement agreement shall have the effect of a decision or judgment on the  
-complaint, and shall be enforced in accordance with the NPC’s rules and issuances.  
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+complaint, and shall be enforced in accordance with the NPC’s rules and issuances.
 
 SECTION 15. Failure to reach settlement. – If the parties are unable to arrive at a  
 settlement of their dispute, or it becomes apparent that a settlement, given the disparity  
@@ -762,9 +710,7 @@ from discovery solely by reason of its use in mediation.
 No transcript or minutes of the mediation proceedings shall be taken, and the personal  
 notes of the mediation officer, if any, shall likewise be inadmissible nor cognizable in any  
 court, tribunal, or body for whatever purpose and shall be securely destroyed upon  
-termination of the mediation proceedings.  
-                                 Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+termination of the mediation proceedings.
 
                                      RULE VII  
                                INVESTIGATION PHASE
@@ -802,9 +748,7 @@ submission of the Fact-Finding Report to the Commission, both parties shall be f
 with a notice that the case has been submitted for decision of the Commission.
 
 SECTION 4. Withdrawal of the complaint.– At any period before the submission of the  
-Fact-Finding Report, the complainant may withdraw the complaint upon approval of the  
-                                 Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+Fact-Finding Report, the complainant may withdraw the complaint upon approval of the
 
 investigating officer and upon such terms and conditions as the latter may deem proper.  
 The investigating officer may recommend either the dismissal of the case, with or without  
@@ -842,9 +786,7 @@ the case may be. The Commission, in its discretion, may resolve the issues separ
 jointly with the merits of the case.
 
 Once a given case has reached the Commission for adjudication, the investigating officer,  
-evaluating officer, special committee or task force shall transmit to the Commission any  
-                                 Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+evaluating officer, special committee or task force shall transmit to the Commission any
 
 pleadings, motions, and other submissions erroneously filed subsequent to the  
 endorsement of the main case to the Commission. Subject to the discretion of the  
@@ -881,9 +823,7 @@ reconsideration is filed within the time provided in these Rules, the judgment o
 order shall thereafter be entered in the book of entries of judgments. The date when the  
 judgment or final order becomes executory shall be deemed as the date of its entry. The  
 record shall contain the dispositive part of the judgment or final order with a certificate  
-that such judgment or final order has become final and executory.  
-                                  Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION
+that such judgment or final order has become final and executory.
 
                                   RULE IX  
                     BAN ON PROCESSING OF PERSONAL DATA
@@ -921,9 +861,7 @@ The notice of hearing shall indicate the scheduled date and venue for the hearin
 statement that respondent may appoint a duly authorized representative to appear at the  
 hearing in order to protect its interests. The complainant shall shoulder the cost of  
 personal service and ensure that the notice of hearing is received by respondent at least  
-five (5) calendar days before the scheduled date. If personal service is impracticable, the  
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+five (5) calendar days before the scheduled date. If personal service is impracticable, the
 
 notice of hearing shall be sent by complainant to respondent through private courier.  
 Upon service, the complainant shall file with the investigating officer an affidavit of  
@@ -958,9 +896,7 @@ SECTION 9. Permanent ban on processing of personal data.– If, after the termin
 the complaint proceedings, it appears that complainant is entitled to have a permanent  
 ban on respondent’s processing of personal data, the investigating officer shall include in  
 their Fact-Finding Report a recommendation to the Commission for the issuance of an  
-order for a permanent ban on processing of personal data.  
-                                   Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION
+order for a permanent ban on processing of personal data.
 
                                      RULE X  
                             SUA SPONTE INVESTIGATION
@@ -998,9 +934,7 @@ results of the investigation, the evidence gathered, and any recommendations.
 SECTION 6. Order to comment. – Upon receipt by the Commission of the Fact-Finding  
 Report, the respondent identified after the conduct of the preceding investigation shall  
 be provided a copy of the Fact-Finding Report and given an opportunity to submit a  
-comment. In cases where the respondent or respondents fail without justification to  
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+comment. In cases where the respondent or respondents fail without justification to
 
 submit an comment or appear before the NPC when so ordered, the Commission shall  
 render its decision on the basis of available information under Rule VIII of these Rules.
@@ -1037,9 +971,7 @@ Provided, extensions granted by the CMD shall not exceed a cumulative period of 
 (15) working days counted from the date of the initial request.
 
 SECTION 4. Preliminary requests that must be endorsed to the Commission. – CMD  
-shall endorse to the Commission the following requests from the PIC or PIP:  
-                                 Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+shall endorse to the Commission the following requests from the PIC or PIP:
 
    a. exemption or postponement to notify data subjects;
 
@@ -1077,9 +1009,7 @@ Evaluation Report, an investigating officer shall be assigned by the CID to dete
 there is a necessity to conduct an on-site or technical investigation. The investigating  
 officer shall request a proper authority from the NPC before conducting any on-site or  
 technical investigation. The investigating officer may also request assistance from  
-technical personnel of the NPC. In the course of the investigation, the complainant  
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+technical personnel of the NPC. In the course of the investigation, the complainant
 
 and/or respondent may be required to furnish additional information, document or  
 evidence, or to produce additional witnesses.
@@ -1116,9 +1046,7 @@ Commission with respect to any data breach related cases.
 
 SECTION 1. Transitory provision. – These Rules shall apply to all complaints filed after  
 its effectivity. It shall also apply to pending proceedings, except to the extent that their  
-application would not be feasible or would work injustice.  
-                                 Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
+application would not be feasible or would work injustice.
 
 SECTION 2. Procedure for cease and desist orders. – Procedure for the issuance of cease  
 and desist orders shall be governed by the appropriate circular issued and published by  
@@ -1151,9 +1079,7 @@ SECTION 8. Application of Rules of Court. – The Rules of Court shall apply in 
 suppletory character and whenever practicable and convenient.
 
 SECTION 9. Effectivity.– These Rules shall take effect fifteen (15) days after publication  
-in a newspaper of general circulation.  
-                           Republic of the Philippines  
-                    NATIONAL PRIVACY COMMISSION
+in a newspaper of general circulation.
 
 Approved:
 
@@ -1166,31 +1092,10 @@ Approved:
      Deputy Privacy Commissioner              Deputy Privacy Commissioner
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2021-01
-- Type: Circular
-- Year: 2021
-- Issued: Unknown
-- Pages: 30
-- Source PDF: [Open PDF](../../pdfs/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2021/01/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2021/2021-rules-of-procedure-of-the-national-privacy-commission|Generated source text]]
-
-### Automatic References Out
-- [[issuances/undated/guidelines-on-compliance-checks|Guidelines on Compliance Checks]]
-- [[issuances/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission]]
-- [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]]
-- [[issuances/undated/rules-of-procedure|Rules of Procedure]]
-- [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|Rules of procedure on requests for Advisory Opinions]]
-- [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|Rules on Mediation before the National Privacy Commission]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2021/2021-rules-of-procedure-of-the-national-privacy-commission]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2021/2021-rules-of-procedure-of-the-national-privacy-commission|Analysis and metadata]]
+- Raw source text: [[sources/2021/2021-rules-of-procedure-of-the-national-privacy-commission|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/01/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

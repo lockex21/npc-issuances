@@ -10,25 +10,9 @@ tags:
 draft: false
 ---
 
-> 1. The Guidelines cover all Personal Information Controllers (PICs) and Personal Information Processors (PIPs) as defined by the Data Privacy Act of 2012 (DPA). Does this cover even PICs and PIPs established outside of the Philippines?
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                               Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 120f014a360466efcdebf27037d0470f64e4183f -->
         FREQUENTLY ASKED QUESTIONS ON THE GUIDELINES ON  
                      ADMINISTRATIVE FINES
 
@@ -71,7 +55,8 @@ Section 2- Administrative Fines
    Philippines Law Center with the help of their economic consultant, has determined that  
    the use of percentage fines allows for the protection of the fundamental human right of  
    privacy of communication while ensuring free flow of information. This mutually  
-   beneficial exchange of information leads to the promotion of innovation and growth.  
+   beneficial exchange of information leads to the promotion of innovation and growth.
+
 4. Section 2 of the Circular provides that the PIP can be held equally liable as the PIC for  
    administrative fines. Under the Principle of Accountability in the DPA, however, the  
    PIC is liable for any violations even those performed by its subcontractors. Thus,  
@@ -119,7 +104,8 @@ Section 2- Administrative Fines
    However, the number of principles and rights violated will not be compounded with the  
    number of data subjects affected. Thus, to be considered a Major Infraction, the total  
    affected data subjects is one thousand or below (1-1,000), while for Grave Infractions, the  
-   number of affected data subjects exceeds one thousand (1,001 or more).  
+   number of affected data subjects exceeds one thousand (1,001 or more).
+
 7. Under Other Infractions, it states that “any natural or juridical person processing  
    personal data that fails to comply with any Order, Resolution or Decision of the  
    Commission, or of any of its duly authorized officers, pursuant to Section 7 of the DPA  
@@ -170,7 +156,8 @@ Section 2- Administrative Fines
 
            No, there will be no guidelines released per sector. The DPA, IRR and NPC  
    issuances are deemed sufficient to inform the public of the appropriate and reasonable  
-   security measures expected of all PICs and PIPs.  
+   security measures expected of all PICs and PIPs.
+
            The Commission shall evaluate PICs and PIPs based on the pleadings and evidence  
    submitted to it. Thus, the compliance of the PICs and PIPs on appropriate and reasonable  
    security measures shall be decided on a case-to-case basis.
@@ -212,7 +199,8 @@ Section 3- Factors Affecting Fines
        On the other hand, for natural and juridical entities established in the Philippines, the  
    “gross annual income” includes the income derived from all sources within and without  
    the Philippines, in adherence to the definition of “gross annual income” under the  
-   Philippine laws on Taxation.  
+   Philippine laws on Taxation.
+
 Section 4 – Due Process
 
 14. Will the 2021 Rules of Procedure of the NPC apply?
@@ -261,7 +249,8 @@ Section 7- Refusal to Comply
 
       As worded, Section 7 of the Circular used the word "may" which highlights the  
    Commission’s discretion to issue a CDO depending on the circumstances of each case. The  
-   Commission’s power to issue a CDO is rooted in the DPA. Following this, [[issuances/1988/faqs|NPC Circular No. 20-02]] provides for an initial list of the grounds for the issuance of a CDO. The  
+   Commission’s power to issue a CDO is rooted in the DPA. Following this, [[issuances/1988/faqs|NPC Circular No. 20-02]] provides for an initial list of the grounds for the issuance of a CDO. The
+
    Commission, through this Circular, provides an additional ground for the issuance of a  
    CDO.
 
@@ -312,38 +301,19 @@ Other Matters
    implement the DPA, the Commission has the power to impose administrative fines.
 
 22. Do the administrative fines supersede the penalties enumerated under Sections 25 to  
-    33 of the DPA?  
-        No, the administrative fines do not supersede the penalties enumerated under the  
-DPA. On one hand, the penalties under Sections 25 to 33 of the DPA are criminal in nature,  
-punishable by imprisonment or a fine, imposed by judicial courts, and only applicable to  
-natural persons. The Commission may recommend prosecution to the Department of  
-Justice but may not impose the criminal penalties itself.
+    33 of the DPA?
 
-       On the other hand, the penalties found under the Circular are administrative in  
+        No, the administrative fines do not supersede the penalties enumerated under the  
+DPA. On one hand, the penalties under Sections 25 to 33 of the DPA are criminal in nature,
+
 nature, not punishable by imprisonment, imposed by the Commission after due notice  
 and hearing, and imposed on PICs or PIPs whether they are juridical or natural persons.
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: None detected
-- Type: FAQ
-- Year: undated
-- Issued: Unknown
-- Pages: 7
-- Source PDF: [Open PDF](../../pdfs/FAQs-on-the-Guidelines-on-Administrative-Fines-.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/FAQs-on-the-Guidelines-on-Administrative-Fines-.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/undated/faqs-on-the-guidelines-on-administrative-fines|Generated source text]]
-
-### Automatic References Out
-- [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Rules on the Issuance of Cease and Desist Orders]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/undated/faqs-on-the-guidelines-on-administrative-fines]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/undated/faqs-on-the-guidelines-on-administrative-fines|Analysis and metadata]]
+- Raw source text: [[sources/undated/faqs-on-the-guidelines-on-administrative-fines|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/FAQs-on-the-Guidelines-on-Administrative-Fines-.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

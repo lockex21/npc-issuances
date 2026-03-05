@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> SUBJECT: AMENDING CERTAIN PROVISIONS OF NPC ADVISORY NO. 2020-01: PROTOCOLS FOR THE PUBLICATION OF DECISIONS, RESOLUTIONS AND ORDERS ON THE NPC WEBSITE
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                   Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 65e54965a418c887cb381b6ff21c0cffc7f0d12c -->
 ADVISORY 2020 – 01-A
 
 DATE:          20 NOVEMBER 2020
@@ -63,39 +47,20 @@ protocols set by Section 2 of Advisory 2020-01. Section 1 (b)(iii) of Advisory 2
 repealed.
 
 SECTION 4. EFFECTIVITY. - This guideline shall be effective immediately upon the approval of the  
-Commission.  
-                        Republic of the Philippines  
-               NATIONAL PRIVACY COMMISSION
+Commission.
 
                               (SGD.)  
-                   RAYMUND ENRIQUEZ LIBORO  
-                       Privacy Commissioner
+                   RAYMUND ENRIQUEZ LIBORO
 
           (SGD.)                                         (SGD.)  
 JOHN HENRY DU NAGA                              LEANDRO ANGELO Y. AGUIRRE  
 Deputy Privacy Commissioner                        Deputy Privacy Commissioner
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2020-01
-- Type: Advisory
-- Year: 2020
-- Issued: Unknown
-- Pages: 2
-- Source PDF: [Open PDF](../../pdfs/Amendment-to-Advisory-2020-01-Final.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2020/11/Amendment-to-Advisory-2020-01-Final.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2020/amending-certain-provisions-of-npc-advisory-no-2020-01-protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2020/amending-certain-provisions-of-npc-advisory-no-2020-01-protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2020/amending-certain-provisions-of-npc-advisory-no-2020-01-protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Analysis and metadata]]
+- Raw source text: [[sources/2020/amending-certain-provisions-of-npc-advisory-no-2020-01-protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/Amendment-to-Advisory-2020-01-Final.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

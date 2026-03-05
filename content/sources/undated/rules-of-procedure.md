@@ -1,20 +1,21 @@
 ---
-title: "Rules of Procedure Source Text"
-description: "Generated extracted text for Rules of Procedure."
+title: "Rules of Procedure Raw Source Text"
+description: "Raw extracted text for Rules of Procedure before manual annotation."
 aliases:
-  - "Rules of Procedure Source Text"
+  - "Rules of Procedure Raw Source Text"
 tags:
   - "source-text"
   - "year/undated"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/undated/rules-of-procedure|Rules of Procedure]]
-- PDF: [Open PDF](../../pdfs/sgd-npc-circular-16-04-rules-of-procedure.pdf)
+- Companion note: [[notes/undated/rules-of-procedure|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/sgd-npc-circular-16-04-rules-of-procedure.pdf
+- OCR used: no
 
 ## Extracted Text
                                  Republic of the Philippines  

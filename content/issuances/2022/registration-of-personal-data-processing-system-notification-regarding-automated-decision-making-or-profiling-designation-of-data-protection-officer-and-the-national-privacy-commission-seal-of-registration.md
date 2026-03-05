@@ -14,25 +14,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State recognizes the vital role of communication and information in nation-building. At the same time, Article II, Section 11 thereof emphasizes that the State values the dignity of every human person...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                  Republic of the Philippines  
-                             NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 509b9a12ba91109e0c56297e852d7ea777242615 -->
 [[issuances/2022/annex-1|NPC Circular No. 2022-04]]
 
 DATE            :   05 December 2022
@@ -76,10 +60,6 @@ of the DPA;
       WHEREAS, Section 24 of the DPA states that, when entering into any contract that  
 may involve accessing or requiring sensitive personal information from at least one thousand
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 (1,000) individuals, a government agency shall require the contractor and its employees to  
 register its personal information processing system with the NPC in accordance with the DPA  
 and to comply with the law’s provisions. Furthermore, Section 14 of the DPA mandates that  
@@ -127,10 +107,6 @@ follows:
       companies or an individual consultant under contract with several separate PICs and  
       PIPs who is appointed or designated to be primarily responsible for ensuring the
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
       compliance of each of the concerned entities with the DPA, its IRR and all other  
       relevant issuances of the Commission;
 
@@ -179,11 +155,8 @@ follows:
       For private organizations or government-owned and controlled corporations  
       organized as private corporations, the Head of Organization may be the President, the  
       Chief Executive Officer, or the Chairman of the Board of Directors or any officer of  
-      equivalent rank in the organization.  
-                                                                     NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
+      equivalent rank in the organization.
 
-5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
    I.   “Individual Professional” refers to individuals who are self-employed and who derive  
         income practicing their professions, with or without license from a regulatory board  
         or body, not being part of a partnership, firm, or other organization, which should  
@@ -233,10 +206,6 @@ SECTION 3. Purpose. This Circular establishes the following:
 SECTION 4. General Principles. This Circular shall be governed by the following general  
 principles:
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
    A. Registration of an entity’s Data Processing System and DPO with the Commission  
       shall be one of the means through which a PIC or PIP demonstrates its compliance  
       with the DPA, its IRR, and other relevant issuances of the NPC.
@@ -284,10 +253,6 @@ freedoms of data subjects shall register all Data Processing Systems.
            business name, partnership, firm, or other organization, shall not register  
            separately as an Individual Professional;
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
         3. An Individual Professional shall be considered as the de facto DPO.
 
 SECTION 6. Voluntary Registration. An application for registration by a PIC or PIP whose  
@@ -336,11 +301,8 @@ DPO shall register each entity individually. Approval of the Commission is not r
 Common DPO appointments.
 
 An Individual Professional shall register himself or herself as the DPO. In cases where the  
-Individual Professional contracts another person to act as DPO he or she shall indicate such  
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
+Individual Professional contracts another person to act as DPO he or she shall indicate such
 
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 fact and provide the required contact details of such person in the registration record. The  
 Commission through an Order may require a PIC or PIP to submit supporting documents  
 related to this submission.
@@ -388,10 +350,6 @@ equivalent rank.
 For Local Government Units (LGUs), the Provincial, City and Municipal levels shall designate  
 and register a DPO with a rank not lower than Department Head.
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 Cities and Municipalities can designate a COP at the Barangay level, provided that the COP  
 shall be under the supervision of the DPO of the corresponding City, or Municipality that the  
 Barangay is part of.
@@ -441,10 +399,6 @@ duly notarized and be accompanied by the following documents:
                               any other document that demonstrates the validity of the  
                               appointment or designation.
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                            b) SEC Certificate of Registration.
 
                            c) valid business permit.
@@ -493,11 +447,8 @@ shall provide the following registration information:
                    3.) primary purpose of the private entity or the constitutional or statutory  
                        mandate of the government agency;
 
-             B. brief description per Data Processing System:  
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
+             B. brief description per Data Processing System:
 
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                     1.) name of the system;
 
                     2.) basis for the processing of information;
@@ -546,10 +497,6 @@ specific purpose.
 SECTION 14. Validity. A Certificate of Registration shall be valid for one (1) year from its  
 date of issuance; provided, that the certificate may be revoked by the Commission on any of
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 the grounds provided for under Section 35 of this Circular and upon service of a Notice of  
 Revocation to the PIC or PIP.
 
@@ -598,11 +545,8 @@ with a schedule that shall be provided in a separate issuance.
 
 SECTION 20. Imposition of Administrative Fines. A PIC or PIP covered by Mandatory  
 Registration who shall be in violation of the same, shall be subject to the corresponding fine  
-in accordance with the Guidelines on Administrative Fines.  
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
+in accordance with the Guidelines on Administrative Fines.
 
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 A PIC or PIP who failed to comply with an Order of the Commission to submit documents in  
 relation to Section 5(A) and the last paragraph of Section 8 shall be liable for failure to register  
 and failure to comply with an Order of the Commission.
@@ -649,10 +593,6 @@ grounds:
 
    D. Expired and void registration; or
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
    E. Withdrawal of registration by the PIC due to cessation of business, cessation of  
       personal data processing, or death of the Individual Professional registrant.
 
@@ -698,11 +638,6 @@ SECTION 28. Availability of Additional Information. Upon request by the Commissi
 PIC or PIP shall make available additional information and supporting documents pertaining  
 to its automated decision-making or profiling operation.
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                              NATIONAL PRIVACY COMMISSION  
                                   SEAL OF REGISTRATION
 
 SECTION 29. Issuance of Seal of Registration. The Seal of Registration shall be issued  
@@ -746,10 +681,6 @@ SECTION 34. Automatic Revocation or Withdrawal. In all instances wherein the Cer
 of Registration has been revoked, or the registration of the PIC or PIP has been validly  
 withdrawn, the Seal of Registration shall automatically be revoked or otherwise invalidated.
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                   SANCTIONS AND PENALTIES
 
 SECTION 35. Revocation of Certificate of Registration. The Commission may revoke the  
@@ -797,11 +728,8 @@ registration.
 SECTION 38. Cease and Desist Order. When the Commission, upon notice and hearing, has  
 determined that a PIC or PIP violated this Circular, such as the failure to disclose its  
 automated decision-making or profiling operation through the appropriate notification  
-processes set out in this Circular and noncompliance on the mandatory display of the seal of  
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
+processes set out in this Circular and noncompliance on the mandatory display of the seal of
 
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 registration, the Commission may cause upon the PIC or PIP the service of a Cease and Desist  
 Order on the processing of personal data: Provided, that this is without prejudice to other  
 processes or reliefs as the Commission may be authorized to initiate pursuant to Section 7 of  
@@ -836,33 +764,12 @@ Approved:
                                               Sgd.  
                                 LEANDRO ANGELO Y. AGUIRRE  
                                   Deputy Privacy Commissioner
-
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2022-04
-- Type: Circular
-- Year: 2022
-- Issued: Unknown
-- Pages: 16
-- Source PDF: [Open PDF](../../pdfs/Circular-2022-04-2.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-2.pdf
-- Topic pages: [[topics/registration|Registration]]
-- Generated source note: [[sources/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|Generated source text]]
-
-### Automatic References Out
-- [[issuances/2022/annex-1|Annex 1]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|Analysis and metadata]]
+- Raw source text: [[sources/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-2.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

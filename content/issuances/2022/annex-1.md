@@ -14,25 +14,11 @@ tags:
 draft: false
 ---
 
-> SWORN DECLARATION AND UNDERTAKING FOR EXEMPTION FROM REGISTRATION OF DATA PROCESSING SYSTEMS
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
+<!-- SEEDED ANNOTATED HASH: 82308821b45b55e73341bc069cb846eceb1f2030 -->
 ANNEX 1
 
-REPUBLIC OF THE PHILIPPINES)  
 CITY OF _______________________) S.S.
 
        SWORN DECLARATION AND UNDERTAKING FOR EXEMPTION FROM  
@@ -74,10 +60,6 @@ with law, do hereby depose and state that:
       that failure to comply with such orders will be subject to fines and other applicable  
       penalties;
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
    5. I undertake to immediately inform the Commission by filing a new Sworn Declaration  
       and Undertaking within ten (10) days from any change in the declarations in number  
       1;
@@ -107,33 +89,12 @@ Doc No. _____;
 Page No. ____;  
 Book No. ____;  
 Series of _____.
-
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2022-04
-- Type: Circular
-- Year: 2022
-- Issued: Unknown
-- Pages: 2
-- Source PDF: [Open PDF](../../pdfs/Circular-2022-04-Annex-1-1.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-Annex-1-1.pdf
-- Topic pages: [[topics/registration|Registration]]
-- Generated source note: [[sources/2022/annex-1|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|REGISTRATION OF PERSONAL DATA PROCESSING SYSTEM, NOTIFICATION REGARDING AUTOMATED DECISION-MAKING OR PROFILING, DESIGNATION OF DATA PROTECTION OFFICER, AND THE NATIONAL PRIVACY COMMISSION SEAL OF REGISTRATION]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2022/annex-1]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2022/annex-1|Analysis and metadata]]
+- Raw source text: [[sources/2022/annex-1|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-Annex-1-1.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

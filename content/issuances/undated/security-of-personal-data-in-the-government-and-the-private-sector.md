@@ -12,27 +12,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, Section 2 of Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012” (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                Republic of the Philippines  
-                           NATIONAL PRIVACY COMMISSION  
-                          5th Floor, Philippine International Convention Center,  
-                          Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: a1aa6a1ff6010abb40bb1cc8aaec5148ea2b55e7 -->
 NPC Circular 2023-06
 
 Date           :       01 December 2023
@@ -75,8 +57,6 @@ access by agency personnel to sensitive personal information;
        WHEREFORE, the abovementioned premises considered, the NPC hereby issues this  
 Circular governing the security of personal data.
 
-                                                               NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                              RULE I.  
                                    GENERAL PROVISIONS
 
@@ -129,8 +109,6 @@ as follows:
    L. “Off-The-Shelf Software” refers to a software product that is ready-made and  
       commercially available for sale, lease, or license to the general public;
 
-                                                            NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
    M. “Password Policy” refers to a document or set of rules that passwords must satisfy to  
       increase the security and privacy of electronic devices;  
    N. “Privacy Engineering” refers to the integration of privacy concerns into engineering  
@@ -178,8 +156,6 @@ responsibilities:
    F. Periodically train employees, agents, personnel, or representatives on privacy and  
       data protection policies;
 
-                                                           NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-          URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
    G. Comply with the NPC’s orders when the PIC and its PIP’s privacy and data protection  
       policies are subject to review and assessment in terms of compliance with the  
       requirements of the DPA, its IRR, and all relevant issuances of the NPC.
@@ -230,8 +206,6 @@ SECTION 7. Privacy-By-Design and Privacy-By-Default.            A PIC or PIP sha
 Privacy-By-Design principles in its processing activities and enable Privacy-By-Default in its  
 data processing systems without requiring any action from its data subjects.
 
-                                                            NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 Further, a PIC or PIP must also conduct a PIA on its Off-The-Shelf Software, solutions, or data  
 processing systems, as outlined in Section 5 of this Circular.
 
@@ -281,8 +255,6 @@ ensure that only authorized personnel can access personal data on a “need to k
 Further, a PIC or PIP shall provide other mechanisms, such as authentication methods and  
 regular monitoring, to limit access to only authorized personnel.
 
-                                                            NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 A PIC must ensure that access to personal data is strictly regulated by issuing a security  
 clearance or its equivalent only to its authorized personnel. Any processing performed by a  
 PIP must be covered by the appropriate and necessary agreement that contains an equivalent  
@@ -330,16 +302,13 @@ ascertained which file was accessed, including when, where, and by whom. Such lo
 
 1  
   vinaypamnani-msft, “Manage Device Installation with Group Policy - Windows Client Management,” August 10, 2023,  
-https://learn.microsoft.com/en-us/windows/client-management/client-tools/manage-device-installation-with-group-policy.  
+[https://learn.microsoft.com/en-us/windows/client-management/client-tools/manage-device-installation-with-group-policy.](https://learn.microsoft.com/en-us/windows/client-management/client-tools/manage-device-installation-with-group-policy.)  
 2  
   “USB Security Software - USB Port Blocker & Analyzer | SolarWinds,” accessed October 24, 2023,  
-https://www.solarwinds.com/security-event-manager/use-cases/usb-security-analyzer.  
-3  
+[https://www.solarwinds.com/security-event-manager/use-cases/usb-security-analyzer.](https://www.solarwinds.com/security-event-manager/use-cases/usb-security-analyzer.)  
   Azharuddin@TWC, “How to Enable or Disable USB Ports in Windows 11/10,” The Windows Club, June 28, 2021,  
-https://www.thewindowsclub.com/disable-enable-usb-windowunlock-pen-drive-at-office-or-school-computer.
+[https://www.thewindowsclub.com/disable-enable-usb-windowunlock-pen-drive-at-office-or-school-computer.](https://www.thewindowsclub.com/disable-enable-usb-windowunlock-pen-drive-at-office-or-school-computer.)
 
-                                                                      NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 also indicate whether copies of the file were made. The PIC or PIP shall regularly review the  
 log records, including all applicable procedures.
 
@@ -389,8 +358,6 @@ or access controls when using personal productivity software, shall, when reason
 appropriate, implement security controls to prevent its personnel from printing or copying  
 personal data to personal productivity software such as word processors and spreadsheets.
 
-                                                               NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-              URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 SECTION 25. Removable or Portable Storage Media. - The use of removable or portable  
 storage media, such as compact discs (CD), digital versatile discs (DVD), and Universal Serial  
 Bus (USB) flash drives for processing personal data, shall be regulated: Provided, that if such  
@@ -440,8 +407,6 @@ SECTION 30. Procedures for Disposal and Destruction. - Procedures must be establ
 ensure secure and proper disposal and destruction of personal data that would render further  
 processing impossible. These include:
 
-                                                            NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
        1. Disposing and destroying personal data, regardless of how such files are stored;  
        2. Electronically disposing or destroying personal data in storage media which  
           involve the use of degaussers, erasers, encryption, or secure wiping programs as  
@@ -492,8 +457,6 @@ accordance with existing laws or regulations.
 The commencement of any action under this Circular is independent and without prejudice  
 to the filing of any action with the regular courts or other quasi-judicial bodies.
 
-                                                            NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 SECTION 36. Review. - This Circular shall be subject to regular review by the NPC.
 
 SECTION 37. - Transitory Period. - A PIC shall be given a transitory period of twelve (12)  
@@ -519,31 +482,12 @@ Approved:
              SGD                                                      SGD  
 LEANDRO ANGELO Y. AGUIRRE                                  NERISSA N. DE JESUS  
   Deputy Privacy Commissioner                             Deputy Privacy Commissioner
-
-                                                            NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: None detected
-- Type: Circular
-- Year: undated
-- Issued: Unknown
-- Pages: 10
-- Source PDF: [Open PDF](../../pdfs/NPC-Circular-Repeal-16-01-Signed.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf
-- Topic pages: [[topics/government|Government]], [[topics/security|Security]]
-- Generated source note: [[sources/undated/security-of-personal-data-in-the-government-and-the-private-sector|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/undated/security-of-personal-data-in-the-government-and-the-private-sector]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/undated/security-of-personal-data-in-the-government-and-the-private-sector|Analysis and metadata]]
+- Raw source text: [[sources/undated/security-of-personal-data-in-the-government-and-the-private-sector|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

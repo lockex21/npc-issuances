@@ -14,27 +14,9 @@ tags:
 draft: false
 ---
 
-> It provides the prerequisites for certifying personal information controllers (PICs) or personal information processors (PIPs) and accrediting certification bodies (CBs) under the PPM Certification Program.
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                  Republic of the Philippines  
-                             NATIONAL PRIVACY COMMISSION  
-                            5th Floor, Philippine International Convention Center,  
-                            Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: cc7f86c1c2c9ad5680e1775e48f4781cf0452271 -->
         FREQUENTLY ASKED QUESTIONS (FAQs) ON NPC CIRCULAR NO. 2023-05
 
        PREREQUISITES FOR THE PHILIPPINE PRIVACY MARK (PPM) CERTIFICATION  
@@ -83,8 +65,6 @@ IV.      ARE THE REQUIREMENTS THE SAME FOR PICs AND PIPs?
                 II.      ISO/IEC 27701 – privacy information management system (PIMS)  
                 III.     In addition, CBs must obtain accreditation based on ISO/IEC 17021-1.
 
-Ref No.: DSTSD-24-00134                                                NPC_DIT_GT-V1.0, R2.0, 04 March 2024  
-          URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
  VI.    MAY ORGANIZATIONS OBTAIN ISO/IEC 27001 AND ISO/IEC 27701  
         CERTIFICATIONS IN ANY ORDER, OR MUST THEY FOLLOW A PARTICULAR  
         SEQUENCE?  
@@ -125,31 +105,12 @@ VIII.    ARE THERE ANY ASSOCIATED COSTS OR FEES FOR ISO/IEC 27001 AND
         The Circular took effect on March 15, 2024. As provided in Section 9 thereof, the  
         Circular takes effect immediately after publication in one newspaper of general  
         circulation.
-
- Ref No.: DSTSD-24-00134                                          NPC_DIT_GT-V1.0, R2.0, 04 March 2024  
-          URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2023-05
-- Type: FAQ
-- Year: 2023
-- Issued: Unknown
-- Pages: 2
-- Source PDF: [Open PDF](../../pdfs/v12-19-2024_FAQ-NPC-Circular-2023-05_LYA2_NNJ_JDN3.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2024/12/v12-19-2024_FAQ-NPC-Circular-2023-05_LYA2_NNJ_JDN3.pdf
-- Topic pages: [[topics/training-certification|Training Certification]]
-- Generated source note: [[sources/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program|Analysis and metadata]]
+- Raw source text: [[sources/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/v12-19-2024_FAQ-NPC-Circular-2023-05_LYA2_NNJ_JDN3.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

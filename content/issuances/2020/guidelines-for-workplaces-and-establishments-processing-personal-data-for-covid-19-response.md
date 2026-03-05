@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> SUBJECT : GUIDELINES FOR WORKPLACES AND ESTABLISHMENTS PROCESSING PERSONAL DATA FOR COVID-19 RESPONSE
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                           Republic of the Philippines  
-                               NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: c6d3d68a805e59ea57f1eeefbfb330daf638e8fd -->
 NPC Advisory No. 2020 - 03
 
 DATE                    :      23 October 2020
@@ -73,13 +57,10 @@ in the workplaces.
 
     A. Establishments shall limit the collection of information to those purposes which are
 
-1  
  Department of Trade and Industry (DTI) and Department of Labor and Employment (DOLE), Supplemental Guidelines on  
 Workplace Prevention and Control of COVID-19, JOINT MEMORANDUM CIRCULAR NO. 20-04-A Series of 2020 [JMC No.  
 20-04-A] (15 Aug 2020).
 
-                  5th Floor Delegation Building, Philippine International Convention Center, Pasay City  
-                             URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph  
          required for COVID-19 prevention and control based on existing government  
          issuances: (1) Employee Health Declaration Form, (2) Client / Visitor Contact Tracing  
          Form; and (3) Customer Information and Health Checklist. 2
@@ -132,12 +113,9 @@ Form; DTI Memorandum Circular 20-37, Guidelines on the Minimum Health Protocols 
 Fastfood Establishments; and Updated Guidelines for Barbershops and Salons Pursuant to IATF Resolution No. 51 Series of 2020,  
 Amending for the Purpose DTI Memorandum Circular No. 20-28, Series of 2020, Annex A: Customer Information and Health  
 Checklist of Annex A: Customer Information and Health Checklist of DTI Memorandum Circular 20-38.  
-3  
   Id.  
-4  
   DTI-DOLE JMC No. 20-04-A, § II.D.I.e.v and III.C.4.d.
 
-                                                                                                                           2  
                   including how the employees, customers or visitors can exercise their data  
                   subject rights through an appropriate channel or procedure within the  
                   establishment.
@@ -190,7 +168,6 @@ for the COVID-19 response.
              distancing measures. At the same time, physical distancing provides  
              additional protection by eliminating the risk of shoulder surfing or data
 
-                                                                                                3  
    exposure among employees and clients/visitors.
 
 2. Where Quick Response (QR) codes are used, an employer may assign each of  
@@ -242,7 +219,6 @@ for the COVID-19 response.
           smartphones or tablets) for public use in their data entry, the following  
           must be complied with:
 
-                                                                                  4  
                        i.   The device’s operating system and security patches are kept up  
                             to date.  
                       ii.   The web browser’s autofill or autocomplete feature is disabled  
@@ -295,7 +271,6 @@ C. Use of the personal data collected. All establishments shall ensure that the 
            d) Client/Visitor Contact Tracing Form;  
            e) Employee Daily Health Declaration Form; or
 
-                                                                                            5  
                    f) Logbooks in facilities of exposure (cafeterias, shuttle services, locker rooms,  
                       sleeping quarters, production floor, comfort rooms, etc.).
 
@@ -350,10 +325,8 @@ C. Use of the personal data collected. All establishments shall ensure that the 
   See: Department of Health, Strategies in Health Facility Coordination in line with Department Memorandum No. 2020-0178  
 entitled “Interim Guidelines on Health Care Provider Network during the COVID-19 Pandemic, Department Memorandum 2020-  
 0334 (17 July 2020).  
-8  
   DTI-DOLE JMC No. 20-04-A, § III.D.3.a.
 
-                                                                                                                           6  
                       including encryption.
 
                  2. Establishments shall implement an access control policy which shall identify  
@@ -404,10 +377,8 @@ entitled “Interim Guidelines on Health Care Provider Network during the COVID-
                       a) Workplaces and establishments shall keep records of all submissions/  
                          transmittals of reportorial requirements.
 
-9  
     DTI-DOLE JMC No. 20-04-A, § Sections II.D.I.e.v and III.C.4.d.
 
-                                                                                                    7  
                     b) Comply with existing government regulations such as:
 
                         1. Reporting of COVID-19 test results to the DOH which should be done  
@@ -458,12 +429,9 @@ the employees, clients/customers, visitors, and their close contacts. Establishm
 10  
    Department of Health and National Privacy Commission, Privacy Guidelines on the Processing and Disclosure of COVID-19  
 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002, § VI (D) (2) (a) (24 April 2020).  
-11  
    See generally: DOH NPC JMC No. 2020-0002 and DOH DM No. 2020-0189.  
-12  
    See supra note 7.
 
-                                                                                                                             8  
 workplaces are bound to uphold data subject rights.
 
 Any doubt in the interpretation of any provision of this Advisory shall be liberally interpreted  
@@ -478,30 +446,12 @@ Approved:
                  SGD.                                             SGD.  
     LEANDRO ANGELO Y. AGUIRRE                            JOHN HENRY D. NAGA  
       Deputy Privacy Commissioner                      Deputy Privacy Commissioner
-
-                                                                                               9
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2020-03
-- Type: Advisory
-- Year: 2020
-- Issued: Unknown
-- Pages: 9
-- Source PDF: [Open PDF](../../pdfs/NPC-Advisory-No.-2020-03-FINAL.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-No.-2020-03-FINAL.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Analysis and metadata]]
+- Raw source text: [[sources/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-No.-2020-03-FINAL.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

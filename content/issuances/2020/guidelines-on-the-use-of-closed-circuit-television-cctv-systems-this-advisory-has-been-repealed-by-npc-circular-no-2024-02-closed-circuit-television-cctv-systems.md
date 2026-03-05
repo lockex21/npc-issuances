@@ -15,25 +15,9 @@ date: "2020-11-16"
 draft: false
 ---
 
-> SECTION 1. General Principles. — This Advisory is governed by the following principles:
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                     Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 44e444c90ff928f71dd42d91946a98435b2e8f1d -->
 NPC Advisory No. 2020-04
 
 DATE           : 16 NOVEMBER 2020
@@ -78,8 +62,6 @@ shall have their respective meanings as hereinafter set forth:
    D. “Data Subject” refers to an individual whose personal, sensitive personal, or  
       privileged information is processed;
 
-                   5/F Delegation Building, PICC Complex, Vicente Sotto St., Pasay City  
-                      URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph  
     E. “Masking” refers to concealing parts of the video or still imagery from view, which  
        may include masking certain body parts or inanimate objects that could potentially  
        disclose the identity of an individual. The common types of masking include solid  
@@ -133,7 +115,6 @@ March 2017).
 
 Agencies, and Organizations (2009).
 
-                                                                                                                        2  
 A. Legitimate purpose. Prior to installing a CCTV system, the purpose/s for personal data  
    processing using such system must be clearly determined. Such processing may be  
    permitted for the following purposes, except where the same are overridden by the  
@@ -186,7 +167,6 @@ E. Location and placement. To ensure that CCTV systems capture footages in a man
    considered. CCTVs shall only be used to monitor the intended spaces, taking into  
    consideration the purpose for monitoring the same.
 
-                                                                                           3  
        The use of CCTVs in areas where individuals have a heightened expectation of privacy  
        (i.e. fitting rooms, rest rooms, toilets, lactation or breastfeeding rooms, and other  
        similar places) is prohibited.
@@ -237,7 +217,6 @@ following instances:
    B. Security. The use of CCTVs as mandated by local government units (LGUs) for security  
       and peace and order purposes is recognized. Reference can be made to the Department
 
-                                                                                              4  
          of Interior and Local Government (DILG) Memorandum Circular No. 2014-1193 on the  
          requirement for the installation of CCTVs for certain business establishments and in  
          strategic areas frequented by the public to support law enforcement and crime  
@@ -284,13 +263,10 @@ personal data from the footage, subject to the provisions of Section 13 of this 
 3Department of Interior and Local Government, Directing Cities/Capital Towns To Require The Installation Of Closed-Circuit
 
 Televisions (CCTV) For Certain Business Establishments In Accordance With Section 16 (General Welfare Clause) Of  
-Republic Act No. 7160 To Support The Maintenance Of Peace And Order And Public Safety [Memorandum Circular No. 2014-119] (Sept. 15, 2014).  
-4 See: National Privacy Commission, NPC Advisory Opinion No. 2018-084 and 2018-090.  
-5 See: National Privacy Commission, Security of Personal Data in Government Agencies, Memorandum Circular No. 16-01
+Republic Act No. 7160 To Support The Maintenance Of Peace And Order And Public Safety [Memorandum Circular No. 2014-119] (Sept. 15, 2014).
 
 [NPC Circular 16-01] (October 10, 2016).
 
-                                                                                                                        5  
 PICs shall establish policies and procedures allowing for such access and/or obtaining a copy,  
 and shall consider the following:
 
@@ -342,7 +318,6 @@ CCTV footage may be disclosed for, but not limited to, the following purposes:
       a lawful order of a court of competent authority is allowed, taking into consideration  
       the pertinent rules on issuance of subpoena.
 
-                                                                                                  6  
     C. Administrative investigations. Use of CCTV footage for purposes of an administrative  
        investigation may be allowed. The requesting party must provide sufficient proof of  
        the investigation being conducted or the pending complaint before an administrative  
@@ -393,9 +368,6 @@ In this regard, CCTV footages requested for purposes of the protection of lawful
 interests or the establishment, exercise or defense of legal claims under Section 13(f) of the  
 DPA may be considered as legitimate interest.6
 
-6 KRL v. Trinity University, National Privacy Commission CID Case No. 17-K-003 (2019).
-
-                                                                                              7  
 At all times, PICs shall be mindful that footage to be disclosed, either by viewing or providing  
 a copy, are only those that are necessary and not excessive to the purpose for which they are  
 being disclosed.
@@ -446,7 +418,6 @@ extension and the final date of release.
 SECTION 13. Denial of request. — PICs may refuse to provide a copy of CCTV footages or  
 access thereto in the following instances:
 
-                                                                                               8  
    A. Incomplete information regarding the requested CCTV footage, as stated in Section 7;  
    B. The access request is frivolous or vexatious. The determination of what constitutes  
       frivolous or vexatious may be made on the basis of the particular circumstances of the  
@@ -479,30 +450,12 @@ Approved:
                  SGD.                                            SGD.  
     LEANDRO ANGELO Y. AGUIRRE                          JOHN HENRY D. NAGA  
       Deputy Privacy Commissioner                     Deputy Privacy Commissioner
-
-                                                                                             9
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2020-04
-- Type: Advisory
-- Year: 2020
-- Issued: November 16, 2020
-- Pages: 9
-- Source PDF: [Open PDF](../../pdfs/Advisory-on-CCTV-16NOV2020-FINAL.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2020/11/Advisory-on-CCTV-16NOV2020-FINAL.pdf
-- Topic pages: [[topics/cctv-surveillance|CCTV Surveillance]]
-- Generated source note: [[sources/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2024/closed-circuit-television-cctv-systems|Closed-Circuit Television (CCTV) Systems]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Analysis and metadata]]
+- Raw source text: [[sources/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/Advisory-on-CCTV-16NOV2020-FINAL.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

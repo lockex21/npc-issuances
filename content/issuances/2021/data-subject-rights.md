@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, the right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution emphasizes that the State values the...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                             Republic of the Philippines  
-                                 NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: ba97bc623e6f13ef0543a0cea68b79a8b0d9315c -->
 [[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|NPC Advisory No. 2021]] - 01
 
 DATE                     :       29 January 2021
@@ -80,8 +64,6 @@ the Private Sector, Creating for this Purpose a National Privacy Commission, and
 
 10173, § 34-36.
 
-                    5th Floor Delegation Building, Philippine International Convention Center, Pasay City  
-                               URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph  
 and issuances by the NPC.
 
 SECTION 2. General Principles. — This Advisory is governed by the following principles:
@@ -133,7 +115,6 @@ for the exercise of data subjects of their rights. The following shall be consid
       requesting party, ensuring that the requested information is only to the extent  
       necessary to confirm such identity.
 
-                                                                                                2  
           1. For persons requesting for and on behalf of another, the PIC may request for  
              evidence of proper authorization and supporting documents to validate the  
              authority and identity of the representative as well as to confirm the identity of the  
@@ -187,7 +168,6 @@ for the exercise of data subjects of their rights. The following shall be consid
 
 behalf of all of its members whose rights where violated.
 
-                                                                                                                          3  
                                           Rights of a Data Subject
 
 SECTION 6. Right to be Informed. — The data subject has the right to be informed whether  
@@ -236,10 +216,8 @@ the existence of automated decision-making and profiling.
          1. Language. Whether a privacy notice is communicated verbally or in writing, best  
             practices for clear and plain language must be observed. This does not, however,
 
-6 See: ECA v. XXX, NPC Case No. 18-103 (2020).  
-7 See: National Privacy Commission, NPC Advisory Opinion 2018- 013 (2018).
+6 See: ECA v. XXX, NPC Case No. 18-103 (2020).
 
-                                                                                                4  
                mean that the requirement to use clear and plain language necessitates using  
                layman’s terms in place of technical words at the risk of not capturing the complex  
                concepts they represent. PICs should determine whether an average member of  
@@ -287,7 +265,7 @@ interest.10
 8 See JVA v. U-PESO.PH LENDING CORPORATION (UPESO), NPC Case No. 19-498 (2020).  
 9 Florian Schaub, Rebecca Balebako, Adam L. Durity, and Lorrie Faith Cranor, A design space for effective privacy notices,
 
-In Proceedings of the Symposium on Usable Privacy and Security (SOUPS’15), available at https://www.usenix.org/system/  
+In Proceedings of the Symposium on Usable Privacy and Security (SOUPS’15), available at [https://www.usenix.org/system/](https://www.usenix.org/system/)  
 files/conference/soups2015/soups15-paper-schaub.pdf (2015) (last accessed 15 Jan 2021).  
 10 When processing is based on consent, the right to object is inherent since consent, by its nature and definition, may be
 
@@ -296,7 +274,6 @@ subject overrides such legitimate interest of the PIC or of a third party. For i
 to object where personal data are processed in circumstances where he or she does not reasonably expect further processing  
 or when the processing is causing substantial damage or distress to the data subject.
 
-                                                                                                                                 5  
       scope of the withdrawal of consent or objection and its consequences. This could mean  
       removal of the personal data from the PIC’s automated processing systems or its  
       suppression in mailing/profiling lists in a way that it would not be processed for  
@@ -348,7 +325,6 @@ processing of their personal data shall be subject to the following guidelines:
          in Section 8(A) should still be provided to the data subject where that specific  
          information is not publicly available.
 
-                                                                                                6  
        2. Repeated requests. The PIC may decide not to comply with repeated, identical, or  
           similar requests if such request for access has been previously granted unless a  
           reasonable interval of time from the previous request has elapsed.
@@ -401,7 +377,6 @@ period of time.
       particular circumstances of the request. A request may be considered as such when it  
       is made with no real purpose other than to harass, cause annoyance, or hamper the
 
-                                                                                                7  
        delivery and performance of service.
 
 SECTION 10. Right to Erasure or Blocking. — A data subject has the right to request for the  
@@ -454,7 +429,6 @@ the PIC’s filing system, in both live and back-up systems.
                      circumstances where data subjects can reasonably expect further  
                      processing.
 
-                                                                                              8  
               f) As may be provided by any existing law, rules, and regulations.
 
     C. PICs shall inform the recipients or third parties who have previously received such  
@@ -505,11 +479,10 @@ by the data subject.
 11 See: European Commission, Article 29 Data Protection Working Party, Guidelines on the right to data portability,
 
 Adopted on 13 December 2016 As last Revised and adopted on 5 April 2017, available at  
-https://webcache.googleusercontent.com/search?q=cache:N9BoIYGlK6UJ:https://ec.europa.eu/newsroom/document.cfm%3  
+[https://webcache.googleusercontent.com/search?q=cache:N9BoIYGlK6UJ:https://ec.europa.eu/newsroom/document.cfm%3](https://webcache.googleusercontent.com/search?q=cache:N9BoIYGlK6UJ:https://ec.europa.eu/newsroom/document.cfm%3)  
 Fdoc_id%3D44099+&cd=1&hl=en&ct=clnk&gl=ph (last accessed: 6 October 2020).  
 12 Id.
 
-                                                                                                                      9  
 Section 12. Right to Damages. — The data subjects have the right to be indemnified for any  
 damages sustained due to inaccurate, incomplete, outdated, false, unlawfully obtained, or  
 unauthorized use of their personal data, taking into account any violation of his or her rights  
@@ -561,7 +534,6 @@ rights, or when the processing of personal data is for the following purposes:
 
 SECTION 14. Denial of request. — Where a PIC denies or limits the exercise of data subject
 
-                                                                                               10  
 rights, the PIC should ensure that the data subject is clearly and fully informed of the reason  
 for the limitation or denial.
 
@@ -584,7 +556,6 @@ Approved:
      LEANDRO ANGELO Y. AGUIRRE                            JOHN HENRY D. NAGA  
        Deputy Privacy Commissioner                      Deputy Privacy Commissioner
 
-                                                                                               11  
                                                                      ANNEX A*
 
                                                        ACCESS REQUEST FORM
@@ -643,7 +614,6 @@ I declare that this form is accomplished by the undersigned and is a true, corre
 
  EMAIL ADDRESS                                                                    MOBILE NUMBER
 
-                                                                                                                                                            12  
 I declare that this form is accomplished by the undersigned as the authorized representative of the data subject. It is a true, correct, and complete statement of the  
 information contained herein. Enclosed is the proof of the authority to act on of behalf of the data subject. I authorize (NAME OF PERSONAL INFORMATION  
 CONTROLLER) to verify/validate the contents stated herein.
@@ -659,7 +629,6 @@ DATE RECEIVED:
 * PICs shall only require information that is necessary to the request and to confirm the identity of the requesting individual or his/her authorized  
 representative, taking into consideration the principle of proportionality.
 
-                                                                                                                                                                  13  
                                                                         ANNEX B*
 
                                                  RECTIFICATION REQUEST FORM  
@@ -707,7 +676,6 @@ DATE RECEIVED:
 * PICs shall only require information that is necessary to the request and to confirm the identity of the requesting individual or his/her authorized  
 representative, taking into consideration the principle of proportionality.
 
-                                                                                                                                                                  14  
                                                                       ANNEX C*  
                                                       ERASURE REQUEST FORM  
                                                (NAME OF PERSONAL INFORMATION CONTROLLER)
@@ -760,7 +728,6 @@ OF PERSONAL INFORMATION CONTROLLER) to verify/validate the contents stated herei
 
                                                           SIGNATURE OVER PRINTED NAME
 
-                                                                                                                                                             15  
  IV. AUTHORIZED REPRESENTATIVES
 
   FULL NAME
@@ -782,32 +749,12 @@ DATE RECEIVED:
 
 * PICs shall only require information that is necessary to the request and to confirm the identity of the requesting individual or his/her authorized  
 representative, taking into consideration the principle of proportionality.
-
-                                                                                                                                                                  16
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2021-01
-- Type: Advisory
-- Year: 2021
-- Issued: Unknown
-- Pages: 16
-- Source PDF: [Open PDF](../../pdfs/NPC-Advisory-2021-01-FINAL.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2021/02/NPC-Advisory-2021-01-FINAL.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2021/data-subject-rights|Generated source text]]
-
-### Automatic References Out
-- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines On The Processing Of Personal Data For Election Campaign Or Partisan Political Activity]]
-
-### Automatic Backlinks
-- [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data]]
-- [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Guidelines On The Processing Of Personal Data During Public Health Emergencies For Public Health Measures]]
-- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines On The Processing Of Personal Data For Election Campaign Or Partisan Political Activity]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2021/data-subject-rights]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2021/data-subject-rights|Analysis and metadata]]
+- Raw source text: [[sources/2021/data-subject-rights|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/02/NPC-Advisory-2021-01-FINAL.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

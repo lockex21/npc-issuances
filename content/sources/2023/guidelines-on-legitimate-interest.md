@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on Legitimate Interest Source Text"
-description: "Generated extracted text for Guidelines on Legitimate Interest."
+title: "Guidelines on Legitimate Interest Raw Source Text"
+description: "Raw extracted text for Guidelines on Legitimate Interest before manual annotation."
 aliases:
-  - "Guidelines on Legitimate Interest Source Text"
+  - "Guidelines on Legitimate Interest Raw Source Text"
 tags:
   - "source-text"
   - "year/2023"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2023/guidelines-on-legitimate-interest|Guidelines on Legitimate Interest]]
-- PDF: [Open PDF](../../pdfs/NPC-Circular-No.-2023-07_Guidelines-on-Legitimate-Interest_13-December-2023.pdf)
+- Companion note: [[notes/2023/guidelines-on-legitimate-interest|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-No.-2023-07_Guidelines-on-Legitimate-Interest_13-December-2023.pdf
+- OCR used: no
 
 ## Extracted Text
                                   Republic of the Philippines  
@@ -66,7 +67,7 @@ of personal information when the processing is necessary for the legitimate inte
 pursued by the PIC or a third party to whom the personal information is disclosed, except
 
 Ref No.: PDD-23-00143                                    NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023  
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 where such interests are overridden by fundamental rights and freedoms of the data  
 subject that require protection under the Philippine Constitution.
 
@@ -116,7 +117,7 @@ determination of the objective of the specific processing activity.
 
 Ref No.: PDD-23-00143                                NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
 
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                   2  
      B.     The purpose of the specific processing activity must not be contrary to laws,  
             morals, or public policy following the principle of legitimate purpose; and
@@ -168,7 +169,7 @@ legitimate interest assessment.
 
 Ref No.: PDD-23-00143                                NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
 
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                   3  
      A.     A PIC must regularly evaluate its compliance with the requisites for legitimate  
             interest as part of their regular process.
@@ -217,7 +218,7 @@ DPA, its IRR, and related issuances of the Commission.
 
 Ref No.: PDD-23-00143                                NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
 
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                   4  
 SECTION 15. Transitory Provision. — All affected PICs shall be given a period of ninety  
 (90) calendar days from the effectivity of this Circular to comply with the requirements  
@@ -246,5 +247,5 @@ Approved:
 
 Ref No.: PDD-23-00143                                NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
 
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                   5

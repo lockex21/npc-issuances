@@ -1,20 +1,21 @@
 ---
-title: "Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response Source Text"
-description: "Generated extracted text for Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response."
+title: "Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response Raw Source Text"
+description: "Raw extracted text for Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response before manual annotation."
 aliases:
-  - "Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response Source Text"
+  - "Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response Raw Source Text"
 tags:
   - "source-text"
   - "year/2020"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response]]
-- PDF: [Open PDF](../../pdfs/NPC-Advisory-No.-2020-03-FINAL.pdf)
+- Companion note: [[notes/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-No.-2020-03-FINAL.pdf
+- OCR used: no
 
 ## Extracted Text
                                            Republic of the Philippines  
@@ -67,7 +68,7 @@ Workplace Prevention and Control of COVID-19, JOINT MEMORANDUM CIRCULAR NO. 20-0
 20-04-A] (15 Aug 2020).
 
                   5th Floor Delegation Building, Philippine International Convention Center, Pasay City  
-                             URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph  
+                             URL: [https://privacy.gov.ph](https://privacy.gov.ph) Email Add: info@privacy.gov.ph  
          required for COVID-19 prevention and control based on existing government  
          issuances: (1) Employee Health Declaration Form, (2) Client / Visitor Contact Tracing  
          Form; and (3) Customer Information and Health Checklist. 2

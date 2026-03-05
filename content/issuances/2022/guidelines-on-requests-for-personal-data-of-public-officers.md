@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, the right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution emphasizes that the State values the...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                                       Republic of the Philippines  
-                                        NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 974a3a41b28b8ba4ada9e5ea71f57d541102e8bc -->
 NPC Advisory No. 2022-01
 
 DATE                           :         04 February 2022
@@ -74,16 +58,11 @@ WHEREAS, the inclusion of the right to information in the Constitution is a reco
 fundamental role of free and open exchange of information in a democracy meant to enhance  
 transparency and accountability in government;
 
-Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
-
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 WHEREAS, Section 3, Executive Order (EO) No. 2, s. 2016 provides that every Filipino shall  
 have access to information, official records, public records and to documents and papers  
 pertaining to official acts, transactions, or decisions, as well as to government research data  
 used as basis for policy development;
 
-WHEREFORE, in consideration of the foregoing premises, the National Privacy Commission  
 (NPC) hereby issues this Advisory on the Guidelines on Requests for Personal Data of Public  
 Officers.
 
@@ -128,11 +107,6 @@ shall have their respective meanings as hereinafter set forth:
        directly ascertained by the entity holding the information, or when put together with  
        other information would directly and certainly identify an individual;
 
-Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
-
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                                     2  
     H. “Personal information controller” or “PIC” refers to a person or organization who  
        controls the collection, holding, processing, or use of personal information, including  
        a person or organization who instructs another person or organization to collect, hold,  
@@ -182,11 +156,6 @@ Ref No.: PDD-21-0159                                                            
          4. Specifically established by an executive order or an act of Congress to be kept  
             classified.
 
-Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
-
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                                     3  
 SECTION 3. General principles. — This Advisory is governed by the following principles:
 
     A. The right to information on matters of public concern is imperative for transparent,  
@@ -239,11 +208,6 @@ No. 10173, § 5 (2016).
 
 information regardless of medium or characteristics. Frequently used interchangeably with “records” (Jan. 20, 2009).
 
-Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
-
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                                     4  
          principles of transparency, legitimate purpose, and proportionality; implement  
          reasonable and appropriate organizational, physical, and technical security measures  
          for the protection of personal data; and uphold the rights of their employees as data  
@@ -294,11 +258,6 @@ requesting party, and shall consider the following factors:
             a) About an individual’s personal data relating solely to the positions held, or  
                 functions in, or services performed for, the government;
 
-Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
-
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                                     5  
                b) On the proper performance of the duties and responsibilities of the individual  
                   in any specific case; or  
                c) Required for transparency and accountability in relation to the use of public  
@@ -350,14 +309,9 @@ in the government service.
 4 See: Civil Service Commission, Memorandum Circular No. 8, s. 2007 [MC No. 8, s. 2007] (May 17, 2007).  
 5 See: UK National Archives, Redaction toolkit - Editing exempt information from paper and electronic documents prior to
 
-release, available at https://cdn.nationalarchives.gov.uk/documents/information-management/redaction_toolkit.pdf (last  
+release, available at [https://cdn.nationalarchives.gov.uk/documents/information-management/redaction_toolkit.pdf](https://cdn.nationalarchives.gov.uk/documents/information-management/redaction_toolkit.pdf) (last  
 accessed 2 November 2021)
 
-Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
-
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                                     6  
                 substance. Where personal data is redacted in one part of a document for being  
                 irrelevant, unnecessary, or extraneous to the declared purpose, such reasoning,  
                 where applicable, shall likewise apply to subsequent evaluations of what shall  
@@ -410,11 +364,6 @@ Operationalizing in the Executive Branch the Constitutional Right to Information
 Disclosure and Transparency in the Public Service and Providing Guidelines Therefor, Executive Order No. 2 [E.O. No. 2] §  
 9 (d) (July 23, 2016).
 
-Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
-
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                                     7  
 her personal data: provided, that consent shall be strictly construed in favor of the data subject:
 
      A. The government agency has the responsibility to adequately demonstrate that the  
@@ -445,36 +394,14 @@ Approved:
 
 7 See generally: European Data Protection Board, Guidelines 05/2020 on consent under Regulation 2016/679 Version 1.1, §
 
-108 (4 May 2020), available at https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_ consent_en.pdf  
+108 (4 May 2020), available at [https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_](https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_) consent_en.pdf  
 (last accessed 11 Sept 2021).
-
-Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
-
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                                     8
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2022-01
-- Type: Advisory
-- Year: 2022
-- Issued: Unknown
-- Pages: 8
-- Source PDF: [Open PDF](../../pdfs/NPC-Advisory-No.-2022-01-Request-for-Personal-Data-of-Public-Officers.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2022/08/NPC-Advisory-No.-2022-01-Request-for-Personal-Data-of-Public-Officers.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2022/guidelines-on-requests-for-personal-data-of-public-officers|Generated source text]]
-
-### Automatic References Out
-- [[issuances/undated/security-of-personal-data-in-government-agencies|Security of Personal Data in Government Agencies]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2022/guidelines-on-requests-for-personal-data-of-public-officers]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2022/guidelines-on-requests-for-personal-data-of-public-officers|Analysis and metadata]]
+- Raw source text: [[sources/2022/guidelines-on-requests-for-personal-data-of-public-officers|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/08/NPC-Advisory-No.-2022-01-Request-for-Personal-Data-of-Public-Officers.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

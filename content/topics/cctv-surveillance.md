@@ -13,6 +13,6 @@ Auto-generated topic cluster for **CCTV Surveillance**.
 - [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Guidelines on the Use of Closed-circuit Television (CCTV) Systems (This Advisory has been repealed by NPC Circular No. 2024-02 - Closed-Circuit Television (CCTV) Systems.)]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own synthesis, definitions, and extra wikilinks here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

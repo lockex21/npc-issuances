@@ -14,6 +14,6 @@ Auto-generated topic cluster for **Training Certification**.
 - [[issuances/2023/data-privacy-competency-program|Data Privacy Competency Program]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own synthesis, definitions, and extra wikilinks here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

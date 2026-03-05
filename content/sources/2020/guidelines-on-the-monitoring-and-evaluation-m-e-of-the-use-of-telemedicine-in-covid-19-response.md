@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response Source Text"
-description: "Generated extracted text for Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response."
+title: "Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response Raw Source Text"
+description: "Raw extracted text for Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response before manual annotation."
 aliases:
-  - "Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response Source Text"
+  - "Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response Raw Source Text"
 tags:
   - "source-text"
   - "year/2020"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response]]
-- PDF: [Open PDF](../../pdfs/MC2020-0024-1.pdf)
+- Companion note: [[notes/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2021/11/MC2020-0024-1.pdf
+- OCR used: no
 
 ## Extracted Text
                                               Republic of the Philippines  
@@ -56,7 +57,7 @@ Monitoring and Evaluation (M&E)  of
                                       Health Facilities and Infrastructure Development Team
 
      Building 1, San Lazaro Compound, Rizal Avenue; Sta. Cruz, 1003 Manila e Trunk Line 651-7800 local 1113, 1108, 1135  
-     Direct Line: 711-9502; 711-9503 Fax: 743-1829; 74351786 @ URL: http://www.doh.gov.ph; e-mail: fiduque@doh.gov.ph  
+     Direct Line: 711-9502; 711-9503 Fax: 743-1829; 74351786 @ URL: [http://www.doh.gov.ph;](http://www.doh.gov.ph;) e-mail: fiduque@doh.gov.ph  
                                     Republic of the Philippines  
                              DEPARTMENT OF HEALTH  
                           NATIONAL PRIVACY COMMISSION
@@ -468,7 +469,7 @@ Very Truly Yours,
                                             Telemedicine platform being used
 
 Reference: Patdu, Ivy D. (19 March 2020). Privacy should not be an obstacle to           telemedicine.   Newsbytes.PH.   Retrieved from  
-http://newsbytes. ph/2020/03/patdu-privacy-should-not-be-an-obstacle-to-telemedicine/.  
+[http://newsbytes.](http://newsbytes.) ph/2020/03/patdu-privacy-should-not-be-an-obstacle-to-telemedicine/.  
           Annex 3.0. Program Documentations and Reports for Submission by Telemedicine  
           Partners
 
@@ -783,7 +784,7 @@ Very Truly Yours,
                                  Contact Details (i.e. address, phone number & email)
 
 Reference:      Patdu, Ivy D. (19 March 2020). Privacy should not be an obstacle to telemedicine.   Newsbytes.PH.   Retrieved from  
-      http://newsbytes.ph/2020/03/patdu-privacy-should-not-be-an-obstacle-to-telemedicine/.  
+      [http://newsbytes.ph/2020/03/patdu-privacy-should-not-be-an-obstacle-to-telemedicine/.](http://newsbytes.ph/2020/03/patdu-privacy-should-not-be-an-obstacle-to-telemedicine/.)  
 _|  
          3.6. ICT Solutions Provider Request Form
 
@@ -831,7 +832,7 @@ Category                        O Service/ICT Consultancy                     O 
                                 O Others (please specify):
 
             Building 9, San Lazaro Compound, Rizal Avenue, Sta. Cruz, 1003 Manila e Trunk Line 651-7800 Local 1947, 1926, and 1923  
-                                                         URL: http://www.doh.gov.ph  
+                                                         URL: [http://www.doh.gov.ph](http://www.doh.gov.ph)  
 Health System              O Data warehousing and business intelligence.  
 Dimensions   that the      0 Disease prevention and control, and health protection.  
 ICT   Solution aims to     O Epidemiological surveillance and response.  

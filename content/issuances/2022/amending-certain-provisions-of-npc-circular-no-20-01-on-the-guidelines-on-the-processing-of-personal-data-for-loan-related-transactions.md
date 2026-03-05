@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> SUBJECT : AMENDING CERTAIN PROVISIONS OF NPC CIRCULAR NO. 20-01 ON THE GUIDELINES ON THE PROCESSING OF PERSONAL DATA FOR LOAN-RELATED TRANSACTIONS
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                         Republic of the Philippines  
-                             NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 42139971c20492253eb26a5206924b9779fd9da9 -->
 NPC Circular No. 2022 – 02
 
 DATE           : 01 December 2022
@@ -71,10 +55,6 @@ hereby amended as stated below:
 
     B. Section 3 (D) is hereby amended to read as follows:
 
-Ref No.: PDD-21-0112                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
         D. Where online applications are used for loan processing activities, LCs,  
            FCs, or other persons acting as such shall be prohibited from conducting  
            unnecessary processing including requiring unnecessary permissions  
@@ -123,11 +103,6 @@ Ref No.: PDD-21-0112                                            NPC_PPO_ PDD _CI
                 shall the borrower’s photo be used to harass or embarrass the  
                 borrower in order to collect a delinquent loan or for any unfair
 
-Ref No.: PDD-21-0112                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                               2  
                     collection practices.
 
                4. Access to and processing of contact lists may be allowed for the  
@@ -177,11 +152,6 @@ Lending Companies (LC),” SEC Memorandum Circular No. 18, series of 2019 [SEC M
 the physical person, reputation or property of any person, as well as those which use threats to take any action that cannot be  
 legally taken.
 
-Ref No.: PDD-21-0112                                                      NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021
-
-   5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                             3  
         H. PIPs or third-party service providers operating in the Philippines,  
            engaged by LCs, FCs, and other persons acting as such, shall likewise be  
            required to register with the NPC whenever they are engaged in the  
@@ -227,11 +197,6 @@ Ref No.: PDD-21-0112                                                      NPC_PP
            with the option of having his or her personal data removed as a character  
            reference.
 
-Ref No.: PDD-21-0112                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                               4  
          D. Contacting character references for purposes other than for the  
             verification of identity and veracity of the information provided by the  
             borrower, such as but not limited to, marketing, cross-selling, or sharing  
@@ -281,11 +246,6 @@ Circular shall be registered with the Commission in accordance with Section 2 (C
 and Lending Companies (LC),” SEC Memorandum Circular No. 18, series of 2019 [SEC MEMO. CIRC. 18, s. 2019], § 1 (19  
 August 2019).
 
-Ref No.: PDD-21-0112                                                 NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021
-
-   5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                     5  
 Circular.
 
 SECTION 4. Separability Clause. — If any portion or provision of this Circular is  
@@ -308,35 +268,12 @@ Approved:
                                             SGD.  
                                LEANDRO ANGELO Y. AGUIRRE  
                                  Deputy Privacy Commissioner
-
-Ref No.: PDD-21-0112                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021
-
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                               6
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2022
-- Type: Circular
-- Year: 2022
-- Issued: Unknown
-- Pages: 6
-- Source PDF: [Open PDF](../../pdfs/NPC-Circular-No.-2022-–-02-Amending-20-01-Loan-Related-Transactions.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-02-Amending-20-01-Loan-Related-Transactions.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Generated source text]]
-
-### Automatic References Out
-- [[issuances/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information]]
-- [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Analysis and metadata]]
+- Raw source text: [[sources/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-02-Amending-20-01-Loan-Related-Transactions.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

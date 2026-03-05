@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> SUBJECT : AMENDING NPC ADVISORY NO. 2020 – 03 ON THE GUIDELINES FOR WORKPLACES AND ESTABLISHMENTS PROCESSING PERSONAL DATA FOR COVID-19 RESPONSE
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                        Republic of the Philippines  
-                            NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: c75feff7f0e76d5cd0e7cc644916bfd8e60ede11 -->
 NPC Advisory No. 2020 – 03 – A
 
 DATE                :       26 November 2020
@@ -69,31 +53,12 @@ Approved:
                  SGD.                                                          SGD.  
     LEANDRO ANGELO Y. AGUIRRE                                         JOHN HENRY D. NAGA  
       Deputy Privacy Commissioner                                   Deputy Privacy Commissioner
-
-               5th Floor Delegation Building, Philippine International Convention Center, Pasay City  
-                          URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2020-03
-- Type: Advisory
-- Year: 2020
-- Issued: Unknown
-- Pages: 1
-- Source PDF: [Open PDF](../../pdfs/Advisory-2020-03-A-FINAL.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2020/11/Advisory-2020-03-A-FINAL.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Analysis and metadata]]
+- Raw source text: [[sources/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/Advisory-2020-03-A-FINAL.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

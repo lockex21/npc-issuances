@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> SUBJECT : GUIDANCE FOR THE USE OF THE ASEAN MODEL CONTRACT CLAUSES AND ASEAN DATA MANAGEMENT FRAMEWORK
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                                           Republic of the Philippines  
-                                         NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: a00acf8d249a4faad2fe4aa487d66f427189d20b -->
 NPC Advisory No. 2021 - 02
 
 DATE                   :   28 June 2021
@@ -78,11 +62,8 @@ Republic Act No. 10173 (2012), § 2.
 2 Id., § 7(n).  
 3 ASEAN Member States include Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Sin-
 
-gapore, Thailand, and Viet Nam  
-Ref No.: PDD-21-0051                                                                                                NPC_PPO_PDD_AdTem-V1.0,R0.0, 05May 2021
+gapore, Thailand, and Viet Nam
 
-                           5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                    URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 SECTION 2. Rationale. — This Advisory aims to provide additional guidance to supplement  
 the ASEAN Model Contractual Clauses and ASEAN Data Management Framework as to how  
 PICs and PIPs in the Philippines may use these in their respective personal data processing.
@@ -129,14 +110,13 @@ shall have their respective meanings as hereinafter set forth:
     G. “Processing” refers to any operation or any set of operations performed upon personal
 
 4  ISO, ISO/IEC TR 10032:2003(en) Information technology — Reference Model of Data Management, available at  
-https://www.iso.org/obp/ui/#iso:std:iso-iec:38505:-1:ed-1:v1:en (last accessed April 15, 2021).  
-5 ISO, ISO 8000-2:2020(en) Data quality — Part 2: Vocabulary, available at https://www.iso.org/obp/ui/#iso:std:iso:8000:-
+[https://www.iso.org/obp/ui/#iso:std:iso-iec:38505:-1:ed-1:v1:en](https://www.iso.org/obp/ui/#iso:std:iso-iec:38505:-1:ed-1:v1:en) (last accessed April 15, 2021).  
+5 ISO, ISO 8000-2:2020(en) Data quality — Part 2: Vocabulary, available at [https://www.iso.org/obp/ui/#iso:std:iso:8000:-](https://www.iso.org/obp/ui/#iso:std:iso:8000:-)
 
 2:ed-4:v1:en:term:3.16.1 (last accessed April 15, 2021).  
 6 Data Privacy Act of 2012, § 3 (m).  
 7 Data Privacy Act of 2012, § 3 (n).
 
-                                                                                                                       2  
            data including, but not limited to, the collection, recording, organization, storage, up-  
            dating or modification, retrieval, consultation, use, consolidation, blocking, erasure or  
            destruction of data;8
@@ -186,12 +166,11 @@ and accountability.9
                 d) Impact / Risk assessment
 
 8 Id. § 3(o).  
-9 The ASEAN MCCs can be accessed at https://asean.org/storage/3-ASEAN-Model-Contractual-Clauses-for-Cross-Border-
+9 The ASEAN MCCs can be accessed at [https://asean.org/storage/3-ASEAN-Model-Contractual-Clauses-for-Cross-Border-](https://asean.org/storage/3-ASEAN-Model-Contractual-Clauses-for-Cross-Border-)
 
-Data-Flows_Final.pdf and the ASEAN DMF document at https://asean.org/storage/2-ASEAN-Data-Management-Frame-  
+Data-Flows_Final.pdf and the ASEAN DMF document at [https://asean.org/storage/2-ASEAN-Data-Management-Frame-](https://asean.org/storage/2-ASEAN-Data-Management-Frame-)  
 work_Final.pdf
 
-                                                                                                               3  
             e) Controls  
             f) Monitoring and continuous improvement
 
@@ -229,10 +208,6 @@ Approved:
     LEANDRO ANGELO Y. AGUIRRE                             JOHN HENRY D. NAGA  
       Deputy Privacy Commissioner                       Deputy Privacy Commissioner
 
-                                                                                               4  
-                                       Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION
-
                                              ANNEX A
 
                      FAQs on the ASEAN MCCs and DMF  
@@ -261,9 +236,9 @@ organizations implement these through public awareness, capacity building activi
 guidelines, and are expected to promote their use, especially among Micro, Small and  
 Medium Enterprises (MSMEs).
 
-The ASEAN MCCs can be accessed at https://asean.org/storage/3-ASEAN-Model-  
+The ASEAN MCCs can be accessed at [https://asean.org/storage/3-ASEAN-Model-](https://asean.org/storage/3-ASEAN-Model-)  
 Contractual-Clauses-for-Cross-Border-Data-Flows_Final.pdf and the ASEAN DMF document  
-at https://asean.org/storage/2-ASEAN-Data-Management-Framework_Final.pdf
+at [https://asean.org/storage/2-ASEAN-Data-Management-Framework_Final.pdf](https://asean.org/storage/2-ASEAN-Data-Management-Framework_Final.pdf)
 
 ASEAN Model Contract Clauses (ASEAN MCCs)
 
@@ -277,8 +252,8 @@ ASEAN Model Contract Clauses (ASEAN MCCs)
    measures, and related obligations of the parties based on the ASEAN Framework on  
    Personal Data Protection (2016).
 
-                   5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307  
-                         URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph  
+                   5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307
+
 2. Is the use of the ASEAN MCCs mandatory?
 
    The ASEAN MCCs are a voluntary standard designed to provide guidance on baseline  
@@ -329,7 +304,6 @@ ASEAN Model Contract Clauses (ASEAN MCCs)
    States’ (AMS) legal and regulatory requirements, protects personal data of Data Subjects  
    based on the principles of the ASEAN Framework on Personal Data Protection (2016), and
 
-                                                                                               2  
    promotes trust among citizens in the ASEAN digital ecosystem.
 
    To the extent possible and relevant to the ASEAN context, clauses are aligned with global  
@@ -382,7 +356,6 @@ ASEAN Data Management Framework (ASEAN DMF)
    It is aimed at helping businesses operating in the ASEAN to practice data governance  
    across all data types throughout the data lifecycle and consider adequate protection for
 
-                                                                                            3  
    different types of data. With a DMF in place, organizations would be better equipped to  
    protect data and instill trust and confidence in their customers and the organizations they  
    interact with, while the data is being leveraged for business innovation purposes.
@@ -423,30 +396,12 @@ ASEAN Data Management Framework (ASEAN DMF)
    DMF is designed to provide voluntary and non-binding guidance based on best practices  
    in the area of data management for businesses within AMS. The content should not be  
    read as legal advice, nor construed as a tool for compliance to any law or regulation.
-
-                                                                                             4
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2021
-- Type: Advisory
-- Year: 2021
-- Issued: Unknown
-- Pages: 8
-- Source PDF: [Open PDF](../../pdfs/Advisory-ASEAN-MCC-DMF_FINAL-signed.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2021/06/Advisory-ASEAN-MCC-DMF_FINAL-signed.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Generated source text]]
-
-### Automatic References Out
-- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines On The Processing Of Personal Data For Election Campaign Or Partisan Political Activity]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Analysis and metadata]]
+- Raw source text: [[sources/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/06/Advisory-ASEAN-MCC-DMF_FINAL-signed.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

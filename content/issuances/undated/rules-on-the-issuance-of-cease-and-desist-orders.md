@@ -1,6 +1,6 @@
 ---
 title: "Rules on the Issuance of Cease and Desist Orders"
-description: "Section 4. Grounds for the Issuance of Cease and Desist Order. – No CDO shall be issued unless it is established by substantial evidence that all of the following concur:"
+description: "Section 3. Definition of Terms. - A. “Adverse Party” refers to a party against whom a Cease and Desist Order is sought. B. “Aggrieved Party” refers to a data subject who claims to be the subject of a privacy violation or personal data breach, including the latter’s duly..."
 aliases:
   - "Circular No. 20-02"
   - "circular no. 20-02"
@@ -8,30 +8,15 @@ aliases:
   - "rules on the issuance of cease and desist orders"
 tags:
   - "issuance"
+  - "topic/security"
   - "type/circular"
   - "year/undated"
 draft: false
 ---
 
-> Section 4. Grounds for the Issuance of Cease and Desist Order. – No CDO shall be issued unless it is established by substantial evidence that all of the following concur:
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: b96b899d88ef028a9f47e30605fa342965f0a234 -->
 [[issuances/1988/faqs|NPC Circular No. 20-02]]
 
                             RULES ON THE ISSUANCE OF  
@@ -70,17 +55,13 @@ Section 3. Definition of Terms. -
    E. “Commission” refers to the Privacy Commissioner and the two (2) Deputy  
       Privacy Commissioners, acting as a collegial body.  
    F. “Complaints and Investigation Division” or “CID” refers to the Division of  
-      the National Privacy Commission whose function is to receive complaints and  
       conduct investigations regarding violations of the DPA, its Implementing
 
-                                         Page 1 of 7  
-                                Republic of the Philippines  
-                       NATIONAL PRIVACY COMMISSION
+                                         Page 1 of 7
 
       Rules and Regulations (IRR) and other related issuances, including violations  
       of the rights of data subjects and other matters affecting personal data.  
    G. “Compliance and Monitoring Division” or “CMD” refers to the Division of  
-      the National Privacy Commission whose function is to monitor the  
       compliance of personal information controllers (PICs) and personal  
       information processors (PIPs) to ensure effective implementation of the DPA,  
       its IRR and other related issuances.  
@@ -117,9 +98,7 @@ concur:
    C. the commission or continuance of such act or practice, unless restrained, will  
       cause grave and irreparable injury to a data subject.
 
-                                       Page 2 of 7  
-                                 Republic of the Philippines  
-                        NATIONAL PRIVACY COMMISSION
+                                       Page 2 of 7
 
 Section 5. Filing of Application. – An action for the issuance of a CDO may be  
 commenced upon the filing with the Commission of an application in writing,  
@@ -160,9 +139,7 @@ CDO.
 initiated or a complaint has been filed, including the contents of the application and  
 complaint, shall be confidential.
 
-                                        Page 3 of 7  
-                               Republic of the Philippines  
-                      NATIONAL PRIVACY COMMISSION
+                                        Page 3 of 7
 
       The rules on filing and service of processes under the Rules of Procedure of  
 the NPC shall apply.
@@ -204,9 +181,7 @@ Adverse Party, the Commission may order the conduct of a clarificatory hearing,
 whenever in its discretion, additional information is needed to make a decision on  
 the issued CDO. In case the Commission finds that a clarificatory hearing is
 
-                                      Page 4 of 7  
-                               Republic of the Philippines  
-                       NATIONAL PRIVACY COMMISSION
+                                      Page 4 of 7
 
 necessary, it shall issue a notice of hearing addressed to all the parties concerned  
 which shall indicate the scheduled time and date for the hearing.
@@ -248,9 +223,7 @@ establishing the ground/s relied upon, the relevant documentary, testimonial and
 object evidence supporting the motion, and the proof of service of the copy of the  
 motion to the applicant.
 
-                                      Page 5 of 7  
-                               Republic of the Philippines  
-                       NATIONAL PRIVACY COMMISSION
+                                      Page 5 of 7
 
 Section 16. Comment or Opposition to the Motion. - The applicant may file a  
 comment/opposition to the motion to lift within ten (10) days from receipt thereof  
@@ -291,9 +264,7 @@ cumulative and in addition to, not exclusive of or in substitution for, any righ
 remedies available to the applicant under the DPA, its IRR or other related  
 issuances: Provided, that when an applicant simultaneously or successively files an
 
-                                      Page 6 of 7  
-                               Republic of the Philippines  
-                      NATIONAL PRIVACY COMMISSION
+                                      Page 6 of 7
 
 application for a temporary ban and for a CDO, the proceeding on the application  
 for the temporary ban shall be suspended until the proceeding on the CDO is  
@@ -337,27 +308,10 @@ Deputy Privacy Commissioner                              Deputy Privacy Commissi
                                       Page 7 of 7
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 20-02
-- Type: Circular
-- Year: undated
-- Issued: Unknown
-- Pages: 7
-- Source PDF: [Open PDF](../../pdfs/NPC-Circular-20-02_Circular-Rules-on-CDO.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/NPC-Circular-20-02_Circular-Rules-on-CDO.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/undated/rules-on-the-issuance-of-cease-and-desist-orders|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/undated/faqs-on-the-guidelines-on-administrative-fines|FAQs on the Guidelines on Administrative Fines]]
-- [[issuances/2022/guidelines-on-administrative-fines|GUIDELINES ON ADMINISTRATIVE FINES]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/undated/rules-on-the-issuance-of-cease-and-desist-orders]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/undated/rules-on-the-issuance-of-cease-and-desist-orders|Analysis and metadata]]
+- Raw source text: [[sources/undated/rules-on-the-issuance-of-cease-and-desist-orders|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/NPC-Circular-20-02_Circular-Rules-on-CDO.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

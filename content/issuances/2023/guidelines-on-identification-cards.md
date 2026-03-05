@@ -13,27 +13,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, personal information controllers (PICs) issue physical or digital identification cards (ID cards) to their respective data subjects for identity verification in relation to the provision of goods and services as well as the implementation of safeguards for electronic...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                 Republic of the Philippines  
-                            NATIONAL PRIVACY COMMISSION  
-                            5th Floor, Philippine International Convention Center,  
-                            Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: 4ec5b97c212ffe3cf0a80de554747092fb77777b -->
 NPC Circular No. 2023 – 03
 
  DATE                   :   07 November 2023
@@ -77,9 +59,6 @@ respective data subjects: provided, that ID cards issued by government agencies 
 their respective regulatory mandate, such as but not limited to, driver’s license, passport,  
 Professional ID card of a Registered Professional, including for this purpose the Integrated
 
-Ref No.: PDD-23-00001                                    NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
-
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 Bar of the Philippines (IBP) Lawyers ID, Tax Identification Number (TIN) card, shall be  
 excluded from the scope of this Circular.
 
@@ -127,16 +106,12 @@ provided herein.
 1 See: International Telecommunication Union, Recommendation ITU-T X.1251, A framework for user control of digital
 
 identity, “3.2.3 digital identity: The digital representation of the information known about a specific individual, group or  
-organization”, available at https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619 (last accessed 5 July 2023) and  
+organization”, available at [https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619](https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619) (last accessed 5 July 2023) and  
 United Nations Conference on Trade and Development, Policy Brief No. 96, March 2022, Digital identity refers to the set of  
 electronically captured and stored attributes and credentials used to uniquely identify a person, which can include biographic  
 data (e.g. name and date of birth), biometric data (e.g. fingerprints and facial features) and/or government-issued identification,  
-available at: https://unctad.org/system/files/official-document/presspb2022d4_en.pdf (last accessed 5 July 2023).
+available at: [https://unctad.org/system/files/official-document/presspb2022d4_en.pdf](https://unctad.org/system/files/official-document/presspb2022d4_en.pdf) (last accessed 5 July 2023).
 
-Ref No.: PDD-23-00001                                               NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
-
-               URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                                 2  
 SECTION 7. Separability Clause. — If any portion or provision of this Circular is declared  
 null and void, or unconstitutional, the other provisions not affected thereby shall continue to  
 be in force and effect.
@@ -156,33 +131,12 @@ Approved:
                   SGD.                                                SGD.  
      LEANDRO ANGELO Y. AGUIRRE                               NERISSA N. DE JESUS  
        Deputy Privacy Commissioner                         Deputy Privacy Commissioner
-
-Ref No.: PDD-23-00001                                NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
-
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                  3
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2023-03
-- Type: Circular
-- Year: 2023
-- Issued: Unknown
-- Pages: 3
-- Source PDF: [Open PDF](../../pdfs/Published-NPC-Circular-No.-2023-03_Guidelines-on-Identification-Cards_07Nov2023.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2023/11/Published-NPC-Circular-No.-2023-03_Guidelines-on-Identification-Cards_07Nov2023.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2023/guidelines-on-identification-cards|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2023/guidelines-on-identification-cards]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2023/guidelines-on-identification-cards|Analysis and metadata]]
+- Raw source text: [[sources/2023/guidelines-on-identification-cards|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/Published-NPC-Circular-No.-2023-03_Guidelines-on-Identification-Cards_07Nov2023.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

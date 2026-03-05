@@ -10,6 +10,6 @@ Generated notes for **1988**.
 - [[issuances/1988/faqs|FAQs]] (Circular No. 20-02)
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add year-specific context, milestones, or legislative notes here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

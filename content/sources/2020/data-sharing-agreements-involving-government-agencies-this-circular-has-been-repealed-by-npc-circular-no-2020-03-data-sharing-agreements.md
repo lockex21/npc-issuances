@@ -1,20 +1,21 @@
 ---
-title: "Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.) Source Text"
-description: "Generated extracted text for Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.)."
+title: "Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.) Raw Source Text"
+description: "Raw extracted text for Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.) before manual annotation."
 aliases:
-  - "Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.) Source Text"
+  - "Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.) Raw Source Text"
 tags:
   - "source-text"
   - "year/2020"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.)]]
-- PDF: [Open PDF](../../pdfs/Sgd-NPC-Circular-16-02-Data-Sharing-Agreements-Involving-Government-Agencies.pdf)
+- Companion note: [[notes/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-02-Data-Sharing-Agreements-Involving-Government-Agencies.pdf
+- OCR used: no
 
 ## Extracted Text
                                 Republic of the Philippines  

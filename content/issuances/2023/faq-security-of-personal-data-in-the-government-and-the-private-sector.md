@@ -15,27 +15,9 @@ tags:
 draft: false
 ---
 
-> I. WHAT IS THE DIFFERENCE BETWEEN CIRCULAR NO. 2023-06 (SECURITY OF PERSONAL DATA IN THE GOVERNMENT AND PRIVATE SECTOR) AND CIRCULAR NO. 2016-01 (SECURITY OF PERSONAL DATA IN GOVERNMENT AGENCIES)?
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                  Republic of the Philippines  
-                             NATIONAL PRIVACY COMMISSION  
-                           5th Floor, Philippine International Convention Center,  
-                           Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: 7adb3466cc92322cd08835a0a29ecd834bf68c96 -->
        FREQUENTLY ASKED QUESTIONS (FAQs) ON NPC CIRCULAR NO. 2023-06
 
 SECURITY OF PERSONAL DATA IN THE GOVERNMENT AND THE PRIVATE SECTOR
@@ -85,8 +67,6 @@ IV. IS THERE A DEFINITION FOR HIGH VOLUME OF DATA?
 
 ACCESS TO PERSONAL DATA
 
-Ref No.: DSTSD-24-00135                                               NPC_DIT_GT-V1.0, R2.0, 04 March 2024  
-          URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
 V. DOES ACCESS MEAN ONLY PHYSICAL ACCESS?
 
       No, access can be physical or online. Rule IV of the Circular covers security measures  
@@ -139,8 +119,6 @@ IX.   DOES THE NPC HAVE ACCREDITED INDEPENDENT PARTIES, OR IS THE
       or PIPs from engaging with independent parties to conduct audits, but it does not  
       require them to engage in independent verification or certification by a third party.
 
-Ref No.: DSTSD-24-00135                                          NPC_DIT_GT-V1.0, R2.0, 04 March 2024  
-         URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
 X.    WHEN WAS THE CIRCULAR PUBLISHED IN A NEWSPAPER OF GENERAL  
       CIRCULATION?  
       The Circular was published in the Daily Tribune on March 15, 2024.
@@ -149,31 +127,12 @@ XI.   WHEN IS THE EFFECTIVITY OF THIS CIRCULAR?
       The Circular took effect on March 30, 2024. As provided in Section 40 thereof, the  
       Circular takes effect fifteen (15) calendar days from the time it was published in a  
       newspaper of general circulation.
-
-Ref No.: DSTSD-24-00135                                          NPC_DIT_GT-V1.0, R2.0, 04 March 2024  
-         URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2023-06
-- Type: FAQ
-- Year: 2023
-- Issued: Unknown
-- Pages: 3
-- Source PDF: [Open PDF](../../pdfs/v12-19-2024_FAQ-NPC-Circular-2023-06_NNJ_JDN.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2024/12/v12-19-2024_FAQ-NPC-Circular-2023-06_NNJ_JDN.pdf
-- Topic pages: [[topics/government|Government]], [[topics/security|Security]]
-- Generated source note: [[sources/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|Analysis and metadata]]
+- Raw source text: [[sources/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/v12-19-2024_FAQ-NPC-Circular-2023-06_NNJ_JDN.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

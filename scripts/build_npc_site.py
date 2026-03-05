@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import re
 import shutil
@@ -22,17 +23,18 @@ ROOT = Path(__file__).resolve().parent.parent
 CACHE_DIR = ROOT / "cache"
 PDF_DIR = CACHE_DIR / "pdfs"
 TEXT_DIR = CACHE_DIR / "text"
+RAW_TEXT_DIR = CACHE_DIR / "text_raw"
+OCR_DIR = CACHE_DIR / "ocr"
 DATA_DIR = ROOT / "data"
 CONTENT_DIR = ROOT / "content"
-CONTENT_PDF_DIR = CONTENT_DIR / "pdfs"
 SOURCE_NOTES_DIR = CONTENT_DIR / "sources"
+NOTES_DIR = CONTENT_DIR / "notes"
 INDEX_CACHE = CACHE_DIR / "advisories-circulars.html"
 ISSUANCES_JSON = DATA_DIR / "issuances.json"
 OVERRIDES_JSON = DATA_DIR / "overrides.json"
 SOURCE_URL = "https://privacy.gov.ph/pips-and-pics/advisories-circulars/"
 USER_AGENT = "Mozilla/5.0 (compatible; NPC-Issuance-Wiki/1.0)"
-MANUAL_START = "<!-- BEGIN MANUAL CONTENT -->"
-MANUAL_END = "<!-- END MANUAL CONTENT -->"
+TEXT_PIPELINE_VERSION = 4
 SUMMARY_START = "<!-- BEGIN MANUAL SUMMARY -->"
 SUMMARY_END = "<!-- END MANUAL SUMMARY -->"
 LINKS_START = "<!-- BEGIN MANUAL LINKS -->"
@@ -41,8 +43,11 @@ ANNOTATED_START = "<!-- BEGIN MANUAL ANNOTATED TEXT -->"
 ANNOTATED_END = "<!-- END MANUAL ANNOTATED TEXT -->"
 RECORD_START = "<!-- BEGIN GENERATED RECORD -->"
 RECORD_END = "<!-- END GENERATED RECORD -->"
-SOURCE_EMBED_START = "<!-- BEGIN GENERATED SOURCE EMBED -->"
-SOURCE_EMBED_END = "<!-- END GENERATED SOURCE EMBED -->"
+TEXT_INFO_START = "<!-- BEGIN GENERATED TEXT INFO -->"
+TEXT_INFO_END = "<!-- END GENERATED TEXT INFO -->"
+INDEX_MANUAL_START = "<!-- BEGIN MANUAL INDEX NOTES -->"
+INDEX_MANUAL_END = "<!-- END MANUAL INDEX NOTES -->"
+ANNOTATED_SEED_PREFIX = "<!-- SEEDED ANNOTATED HASH: "
 
 REFERENCE_PATTERN = re.compile(
     r"\b(?:(?:National\s+Privacy\s+Commission|NPC)\s+)?"
@@ -65,6 +70,7 @@ DATE_PATTERN = re.compile(
     r"\s+(?P<day>\d{1,2}),\s+(?P<year>20\d{2}|19\d{2})\b"
 )
 WS_RE = re.compile(r"\s+")
+URL_PATTERN = re.compile(r"https?://[^\s<>)\]}]+")
 
 TOPIC_RULES: dict[str, tuple[str, ...]] = {
     "ai": ("artificial intelligence", r"\bai\b"),
@@ -215,6 +221,7 @@ class Issuance:
     source_url: str
     pdf_path: str
     text_path: str
+    raw_text_path: str
     slug: str
     year: str
     kind: str
@@ -229,7 +236,9 @@ class Issuance:
     outgoing_refs: list[str]
     incoming_refs: list[str]
     content_path: str
+    notes_path: str
     source_note_path: str
+    ocr_used: bool
 
     def as_dict(self) -> dict[str, Any]:
         return self.__dict__.copy()
@@ -267,11 +276,165 @@ def load_cached_index() -> list[dict[str, str]]:
     return parse_pdf_index(INDEX_CACHE.read_text(encoding="utf-8"))
 
 
-def extract_text(pdf_path: Path, text_path: Path) -> str:
-    text_path.parent.mkdir(parents=True, exist_ok=True)
-    if not text_path.exists() or text_path.stat().st_mtime < pdf_path.stat().st_mtime:
-        run_command(["pdftotext", "-layout", str(pdf_path), str(text_path)])
-    return text_path.read_text(encoding="utf-8", errors="replace")
+def has_meaningful_text(text: str) -> bool:
+    alpha_chars = sum(1 for char in text if char.isalpha())
+    return alpha_chars >= 180
+
+
+def run_ocr_to_sidecar(pdf_path: Path, sidecar_path: Path, ocr_pdf_path: Path) -> str:
+    sidecar_path.parent.mkdir(parents=True, exist_ok=True)
+    ocr_pdf_path.parent.mkdir(parents=True, exist_ok=True)
+    run_command(
+        [
+            "ocrmypdf",
+            "--skip-text",
+            "--optimize",
+            "0",
+            "--language",
+            "eng",
+            "--sidecar",
+            str(sidecar_path),
+            str(pdf_path),
+            str(ocr_pdf_path),
+        ]
+    )
+    if sidecar_path.exists():
+        return sidecar_path.read_text(encoding="utf-8", errors="replace")
+    fallback = sidecar_path.with_suffix(".fallback.txt")
+    run_command(["pdftotext", "-layout", str(ocr_pdf_path), str(fallback)])
+    return fallback.read_text(encoding="utf-8", errors="replace")
+
+
+def detect_header_footer_boilerplate(pages: list[list[str]]) -> set[str]:
+    if not pages:
+        return set()
+    top_window = 7
+    bottom_window = 7
+    threshold = max(2, int(len(pages) * 0.4))
+    counts: Counter[str] = Counter()
+
+    for page in pages:
+        if not page:
+            continue
+        top_lines = [normalize_space(line).lower() for line in page[:top_window] if normalize_space(line)]
+        bottom_lines = [
+            normalize_space(line).lower() for line in page[max(0, len(page) - bottom_window) :] if normalize_space(line)
+        ]
+        counts.update(top_lines)
+        counts.update(bottom_lines)
+
+    boilerplate = set()
+    for line, count in counts.items():
+        if count < threshold:
+            continue
+        if len(line) < 6:
+            continue
+        boilerplate.add(line)
+    return boilerplate
+
+
+def clean_extracted_text(text: str) -> str:
+    pages_raw = [page for page in text.replace("\r\n", "\n").split("\f") if normalize_space(page)]
+    if not pages_raw:
+        return normalize_space(text)
+    pages = [[line.rstrip() for line in page.splitlines()] for page in pages_raw]
+    boilerplate = detect_header_footer_boilerplate(pages)
+    top_window = 8
+    bottom_window = 8
+    edge_noise_patterns = (
+        "national privacy commission",
+        "republic of the philippines",
+        "philippine international convention center",
+        "the upper class tower",
+        "quezon ave.",
+        "pasay city",
+        "quezon city",
+        "ref no.:",
+        "url: https://www.privacy.gov.ph",
+        "email add:",
+        "tel no.",
+        "npc_ppo_",
+    )
+
+    cleaned_pages: list[str] = []
+    for page in pages:
+        kept: list[str] = []
+        last_index = len(page) - 1
+        for idx, line in enumerate(page):
+            normalized = normalize_space(line)
+            lowered = normalized.lower()
+            if not normalized:
+                kept.append("")
+                continue
+            edge = idx < top_window or idx > last_index - bottom_window
+            if edge and lowered in boilerplate:
+                continue
+            if edge and re.fullmatch(r"\d{1,3}", lowered):
+                continue
+            if edge and any(pattern in lowered for pattern in edge_noise_patterns):
+                continue
+            kept.append(line)
+        while kept and not normalize_space(kept[0]):
+            kept.pop(0)
+        while kept and not normalize_space(kept[-1]):
+            kept.pop()
+        cleaned_pages.append("\n".join(kept))
+
+    compact_pages = [page for page in cleaned_pages if normalize_space(page)]
+    return "\n\n".join(compact_pages)
+
+
+def extract_text(pdf_path: Path, raw_text_path: Path, cleaned_text_path: Path) -> tuple[str, str, bool]:
+    raw_text_path.parent.mkdir(parents=True, exist_ok=True)
+    cleaned_text_path.parent.mkdir(parents=True, exist_ok=True)
+    ocr_used = False
+    ocr_marker_path = cleaned_text_path.with_suffix(".meta.json")
+    clean_version = None
+    if ocr_marker_path.exists():
+        try:
+            clean_version = json.loads(ocr_marker_path.read_text(encoding="utf-8")).get("pipeline_version")
+        except json.JSONDecodeError:
+            clean_version = None
+    needs_refresh = (
+        not cleaned_text_path.exists()
+        or not raw_text_path.exists()
+        or cleaned_text_path.stat().st_mtime < pdf_path.stat().st_mtime
+        or clean_version != TEXT_PIPELINE_VERSION
+    )
+
+    if needs_refresh:
+        run_command(["pdftotext", "-layout", str(pdf_path), str(raw_text_path)])
+        raw_text = raw_text_path.read_text(encoding="utf-8", errors="replace")
+        if not has_meaningful_text(raw_text):
+            ocr_used = True
+            sidecar_path = raw_text_path.with_suffix(".ocr.txt")
+            ocr_pdf_path = OCR_DIR / pdf_path.name
+            raw_text = run_ocr_to_sidecar(pdf_path, sidecar_path, ocr_pdf_path)
+            raw_text_path.write_text(raw_text, encoding="utf-8")
+        cleaned = clean_extracted_text(raw_text)
+        cleaned_text_path.write_text(cleaned, encoding="utf-8")
+    else:
+        if not raw_text_path.exists():
+            run_command(["pdftotext", "-layout", str(pdf_path), str(raw_text_path)])
+        if not cleaned_text_path.exists():
+            cleaned = clean_extracted_text(raw_text_path.read_text(encoding="utf-8", errors="replace"))
+            cleaned_text_path.write_text(cleaned, encoding="utf-8")
+        raw_text = raw_text_path.read_text(encoding="utf-8", errors="replace")
+        cleaned = cleaned_text_path.read_text(encoding="utf-8", errors="replace")
+
+    if needs_refresh:
+        ocr_marker_path.write_text(
+            json.dumps({"ocr_used": ocr_used, "pipeline_version": TEXT_PIPELINE_VERSION}, indent=2),
+            encoding="utf-8",
+        )
+    elif ocr_marker_path.exists():
+        try:
+            meta = json.loads(ocr_marker_path.read_text(encoding="utf-8"))
+            ocr_used = bool(meta.get("ocr_used"))
+        except json.JSONDecodeError:
+            ocr_used = False
+
+    return raw_text, cleaned, ocr_used
 
 
 def extract_pdf_metadata(pdf_path: Path) -> dict[str, str]:
@@ -467,16 +630,17 @@ def build_records(index_entries: list[dict[str, str]], refresh: bool) -> list[Is
         title = normalize_space(entry["title"]).strip(" -")
         basename = Path(urllib.parse.urlparse(url).path).name
         pdf_path = PDF_DIR / basename
-        text_path = TEXT_DIR / f"{pdf_path.stem}.txt"
+        raw_text_path = RAW_TEXT_DIR / f"{pdf_path.stem}.txt"
+        cleaned_text_path = TEXT_DIR / f"{pdf_path.stem}.txt"
 
         if refresh or not pdf_path.exists():
             download_file(url, pdf_path)
 
-        text = extract_text(pdf_path, text_path)
+        raw_text, cleaned_text, ocr_used = extract_text(pdf_path, raw_text_path, cleaned_text_path)
         meta = extract_pdf_metadata(pdf_path)
-        canonical_reference = infer_canonical_reference(title, text, url)
+        canonical_reference = infer_canonical_reference(title, cleaned_text, url)
         issue_date, issue_date_iso = infer_issue_date(title, url)
-        year = infer_year(title, text, canonical_reference, url, issue_date_iso)
+        year = infer_year(title, cleaned_text, canonical_reference, url, issue_date_iso)
         base_slug = slugify(title)
         slug = base_slug
         suffix = 2
@@ -485,10 +649,11 @@ def build_records(index_entries: list[dict[str, str]], refresh: bool) -> list[Is
             suffix += 1
         seen_slugs.add(slug)
 
-        excerpt = build_excerpt(text, title)
-        kind = infer_kind(title, text, url, canonical_reference)
+        excerpt = build_excerpt(cleaned_text, title)
+        kind = infer_kind(title, cleaned_text, url, canonical_reference)
         tags = sorted({"issuance", f"year/{year}", *infer_topic_tags(title, excerpt, kind)})
         content_path = f"content/issuances/{year}/{slug}.md"
+        notes_path = f"content/notes/{year}/{slug}.md"
         source_note_path = f"content/sources/{year}/{slug}.md"
 
         record = Issuance(
@@ -496,7 +661,8 @@ def build_records(index_entries: list[dict[str, str]], refresh: bool) -> list[Is
             reference_label=prettify_reference(canonical_reference),
             source_url=url,
             pdf_path=relative_path(pdf_path),
-            text_path=relative_path(text_path),
+            text_path=relative_path(cleaned_text_path),
+            raw_text_path=relative_path(raw_text_path),
             slug=slug,
             year=year,
             kind=kind,
@@ -507,11 +673,13 @@ def build_records(index_entries: list[dict[str, str]], refresh: bool) -> list[Is
             issue_date=issue_date,
             issue_date_iso=issue_date_iso,
             page_count=int(meta["Pages"]) if meta.get("Pages", "").isdigit() else None,
-            citations=detect_citations(text),
+            citations=detect_citations(cleaned_text),
             outgoing_refs=[],
             incoming_refs=[],
             content_path=content_path,
+            notes_path=notes_path,
             source_note_path=source_note_path,
+            ocr_used=ocr_used,
         )
 
         override = overrides.get(record.slug) or overrides.get(record.title)
@@ -561,19 +729,6 @@ def ensure_seed_files() -> None:
         OVERRIDES_JSON.write_text("{}\n", encoding="utf-8")
 
 
-def load_manual_block(path: Path, default_body: str) -> str:
-    if path.exists():
-        content = path.read_text(encoding="utf-8")
-        match = re.search(
-            rf"{re.escape(MANUAL_START)}\n?(?P<body>.*?){re.escape(MANUAL_END)}",
-            content,
-            re.DOTALL,
-        )
-        if match:
-            return match.group("body").strip("\n")
-    return default_body
-
-
 def extract_block(path: Path, start_marker: str, end_marker: str, default_body: str) -> str:
     if path.exists():
         content = path.read_text(encoding="utf-8")
@@ -589,6 +744,35 @@ def extract_block(path: Path, start_marker: str, end_marker: str, default_body: 
 
 def render_block(start_marker: str, body: str, end_marker: str) -> str:
     return f"{start_marker}\n{body.rstrip()}\n{end_marker}"
+
+
+def seed_annotated_block(text: str) -> str:
+    digest = hashlib.sha1(text.encode("utf-8", errors="ignore")).hexdigest()
+    return f"{ANNOTATED_SEED_PREFIX}{digest} -->\n{text}"
+
+
+def has_seed_marker(block: str) -> bool:
+    return block.strip().startswith(ANNOTATED_SEED_PREFIX)
+
+
+def split_seeded_block(block: str) -> tuple[str | None, str]:
+    lines = block.splitlines()
+    if not lines:
+        return None, ""
+    first = lines[0].strip()
+    if not (first.startswith(ANNOTATED_SEED_PREFIX) and first.endswith(" -->")):
+        return None, block
+    recorded_hash = first.removeprefix(ANNOTATED_SEED_PREFIX).removesuffix(" -->").strip()
+    body = "\n".join(lines[1:])
+    return recorded_hash, body
+
+
+def seeded_block_unmodified(block: str) -> bool:
+    recorded_hash, body = split_seeded_block(block)
+    if not recorded_hash:
+        return False
+    current_hash = hashlib.sha1(body.encode("utf-8", errors="ignore")).hexdigest()
+    return current_hash == recorded_hash
 
 
 def frontmatter_lines(record: Issuance) -> list[str]:
@@ -610,34 +794,6 @@ def frontmatter_lines(record: Issuance) -> list[str]:
     return lines
 
 
-def is_placeholder_text(value: str) -> bool:
-    stripped = value.strip()
-    return stripped in {
-        "",
-        "Add your own analysis here.\n\n- Use wikilinks to connect this issuance to topic notes.\n- Example: [[topics/cctv-surveillance]]",
-        "Add your own analysis here.\n\n- Use wikilinks to connect this issuance to topic notes.\n- Example: [[topics/cctv-surveillance]]\n",
-    }
-
-
-def render_manual_section(body: str) -> str:
-    return render_block(MANUAL_START, body, MANUAL_END)
-
-
-def compute_relative(from_path: Path, to_path: Path) -> str:
-    from_parts = from_path.resolve().parts
-    to_parts = to_path.resolve().parts
-    common = 0
-    for a, b in zip(from_parts, to_parts):
-        if a != b:
-            break
-        common += 1
-    up = [".."] * (len(from_parts) - common)
-    down = list(to_parts[common:])
-    if not up and not down:
-        return "."
-    return str(Path(*up, *down))
-
-
 def linkify_text(text: str, current_slug: str, alias_map: dict[str, Issuance]) -> str:
     def replace(match: re.Match[str]) -> str:
         normalized = normalize_reference(match.group("kind"), match.group("number"))
@@ -648,6 +804,11 @@ def linkify_text(text: str, current_slug: str, alias_map: dict[str, Issuance]) -
         return wiki_link(target, original)
 
     linked = REFERENCE_PATTERN.sub(replace, text)
+    def replace_url(match: re.Match[str]) -> str:
+        url = match.group(0)
+        return f"[{url}]({url})"
+
+    linked = URL_PATTERN.sub(replace_url, linked)
     paragraphs: list[str] = []
     for raw_paragraph in re.split(r"\n\s*\n", linked):
         paragraph = raw_paragraph.rstrip()
@@ -660,29 +821,27 @@ def linkify_text(text: str, current_slug: str, alias_map: dict[str, Issuance]) -
 
 
 def render_source_note(record: Issuance, alias_map: dict[str, Issuance]) -> str:
-    text = (ROOT / record.text_path).read_text(encoding="utf-8", errors="replace")
+    text = (ROOT / record.raw_text_path).read_text(encoding="utf-8", errors="replace")
     linked_text = linkify_text(text, record.slug, alias_map)
-    note_path = ROOT / record.source_note_path
-    pdf_target = CONTENT_PDF_DIR / Path(record.pdf_path).name
-    pdf_relative = compute_relative(note_path.parent, pdf_target)
     lines = [
         "---",
-        f"title: {markdown_quote(f'{record.title} Source Text')}",
-        f"description: {markdown_quote(f'Generated extracted text for {record.title}.')}",
+        f"title: {markdown_quote(f'{record.title} Raw Source Text')}",
+        f"description: {markdown_quote(f'Raw extracted text for {record.title} before manual annotation.')}",
         "aliases:",
-        f"  - {markdown_quote(f'{record.title} Source Text')}",
+        f"  - {markdown_quote(f'{record.title} Raw Source Text')}",
         "tags:",
         '  - "source-text"',
         f'  - "year/{record.year}"',
         "draft: false",
         "---",
         "",
-        "> This note is generated from the cached PDF and is safe to regenerate.",
+        "> This note is regenerated from cached PDFs and is overwritten on rebuild.",
         "",
         "## Source",
         f"- Main note: {wiki_link(record)}",
-        f"- PDF: [Open PDF]({pdf_relative})",
+        f"- Companion note: {note_link(record.notes_path, 'Analysis and metadata')}",
         f"- Official source: {record.source_url}",
+        f"- OCR used: {'yes' if record.ocr_used else 'no'}",
         "",
         "## Extracted Text",
         linked_text,
@@ -691,27 +850,17 @@ def render_source_note(record: Issuance, alias_map: dict[str, Issuance]) -> str:
     return "\n".join(lines)
 
 
-def render_issuance_page(record: Issuance, by_slug: dict[str, Issuance], alias_map: dict[str, Issuance]) -> str:
-    existing_path = ROOT / record.content_path
-    text = (ROOT / record.text_path).read_text(encoding="utf-8", errors="replace")
-    linked_text = linkify_text(text, record.slug, alias_map)
-    legacy_manual = load_manual_block(existing_path, "")
-    summary_default = (
-        legacy_manual
-        if not is_placeholder_text(legacy_manual)
-        else "Write a concise summary of the issuance here."
-    )
+def render_companion_note(record: Issuance, by_slug: dict[str, Issuance]) -> str:
+    path = ROOT / record.notes_path
+    summary_default = "Write a concise summary and legal significance notes here."
     links_default = "\n".join(
         [
-            "- Add links to topic notes, related issuances, or outside references here.",
-            "- Example internal link: [[topics/cctv-surveillance]]",
-            "- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)",
+            "- Add outbound legal references, jurisprudence, or implementing regulations here.",
+            "- Keep citation formatting consistent with your legal writing style.",
         ]
     )
-    summary_block = extract_block(existing_path, SUMMARY_START, SUMMARY_END, summary_default)
-    links_block = extract_block(existing_path, LINKS_START, LINKS_END, links_default)
-    annotated_default = linked_text
-    annotated_block = extract_block(existing_path, ANNOTATED_START, ANNOTATED_END, annotated_default)
+    summary_block = extract_block(path, SUMMARY_START, SUMMARY_END, summary_default)
+    links_block = extract_block(path, LINKS_START, LINKS_END, links_default)
 
     outgoing_lines = (
         "\n".join(f"- {wiki_link(by_slug[slug])}" for slug in record.outgoing_refs)
@@ -723,27 +872,23 @@ def render_issuance_page(record: Issuance, by_slug: dict[str, Issuance], alias_m
         if record.incoming_refs
         else "- No backlinks detected yet."
     )
-
-    note_path = ROOT / record.content_path
-    pdf_target = CONTENT_PDF_DIR / Path(record.pdf_path).name
-    pdf_relative = compute_relative(note_path.parent, pdf_target)
     topic_links = sorted(
         note_link(f"content/topics/{tag.removeprefix('topic/')}.md", display_topic_name(tag.removeprefix("topic/")))
         for tag in record.tags
         if tag.startswith("topic/")
     )
-    source_note_link = note_link(record.source_note_path, "Generated source text")
     record_block = "\n".join(
         [
+            f"- Issuance page: {wiki_link(record)}",
+            f"- Raw source note: {note_link(record.source_note_path, 'Raw source text')}",
             f"- Reference: {record.reference_label or 'None detected'}",
             f"- Type: {record.kind}",
             f"- Year: {record.year}",
             f"- Issued: {record.issue_date or 'Unknown'}",
             f"- Pages: {record.page_count if record.page_count is not None else 'Unknown'}",
-            f"- Source PDF: [Open PDF]({pdf_relative})",
             f"- Official source: {record.source_url}",
+            f"- OCR used during extraction: {'yes' if record.ocr_used else 'no'}",
             f"- Topic pages: {', '.join(topic_links) if topic_links else 'None yet'}",
-            f"- Generated source note: {source_note_link}",
             "",
             "### Automatic References Out",
             outgoing_lines,
@@ -752,12 +897,22 @@ def render_issuance_page(record: Issuance, by_slug: dict[str, Issuance], alias_m
             incoming_lines,
         ]
     )
-    source_embed = f"![[{markdown_link_path(record.source_note_path)}]]"
+
+    companion_frontmatter = [
+        "---",
+        f"title: {markdown_quote(f'{record.title} Notes')}",
+        f"description: {markdown_quote(f'Companion summary and references for {record.title}.')}",
+        "tags:",
+        '  - "companion-note"',
+        f'  - "year/{record.year}"',
+        "draft: false",
+        "---",
+    ]
 
     body = [
-        "\n".join(frontmatter_lines(record)),
+        "\n".join(companion_frontmatter),
         "",
-        f"> {record.excerpt}",
+        f"> Companion note for {wiki_link(record)}.",
         "",
         "## Summary",
         render_block(SUMMARY_START, summary_block, SUMMARY_END),
@@ -765,14 +920,40 @@ def render_issuance_page(record: Issuance, by_slug: dict[str, Issuance], alias_m
         "## Links",
         render_block(LINKS_START, links_block, LINKS_END),
         "",
-        "## Annotated Text",
-        render_block(ANNOTATED_START, annotated_block, ANNOTATED_END),
-        "",
         "## Generated Record",
         render_block(RECORD_START, record_block, RECORD_END),
         "",
-        "## Raw Source Text",
-        render_block(SOURCE_EMBED_START, source_embed, SOURCE_EMBED_END),
+    ]
+    return "\n".join(body)
+
+
+def render_issuance_page(record: Issuance, alias_map: dict[str, Issuance]) -> str:
+    existing_path = ROOT / record.content_path
+    text = (ROOT / record.text_path).read_text(encoding="utf-8", errors="replace")
+    linked_text = linkify_text(text, record.slug, alias_map)
+    seeded_default = seed_annotated_block(linked_text)
+    existing_annotated = extract_block(existing_path, ANNOTATED_START, ANNOTATED_END, "")
+    if has_seed_marker(existing_annotated) and not seeded_block_unmodified(existing_annotated):
+        annotated_block = existing_annotated
+    else:
+        annotated_block = seeded_default
+    source_info_block = "\n".join(
+        [
+            f"- Companion note: {note_link(record.notes_path, 'Analysis and metadata')}",
+            f"- Raw source text: {note_link(record.source_note_path, 'Raw source extraction')}",
+            f"- Official source PDF: {record.source_url}",
+            f"- OCR used during extraction: {'yes' if record.ocr_used else 'no'}",
+        ]
+    )
+
+    body = [
+        "\n".join(frontmatter_lines(record)),
+        "",
+        "## Issuance Text",
+        render_block(ANNOTATED_START, annotated_block, ANNOTATED_END),
+        "",
+        "## Source And Notes",
+        render_block(TEXT_INFO_START, source_info_block, TEXT_INFO_END),
         "",
     ]
     return "\n".join(body)
@@ -790,7 +971,7 @@ def render_index_page(
     body_lines: list[str],
     default_manual: str = "Add curated notes or a reading path here.",
 ) -> None:
-    manual_block = load_manual_block(path, default_manual)
+    manual_block = extract_block(path, INDEX_MANUAL_START, INDEX_MANUAL_END, default_manual)
     frontmatter = [
         "---",
         f"title: {markdown_quote(title)}",
@@ -805,7 +986,7 @@ def render_index_page(
         + [
             "",
             "## Manual Notes",
-            render_manual_section(manual_block),
+            render_block(INDEX_MANUAL_START, manual_block, INDEX_MANUAL_END),
             "",
         ]
     )
@@ -814,18 +995,16 @@ def render_index_page(
 
 def build_content_tree(records: list[Issuance]) -> None:
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
-    CONTENT_PDF_DIR.mkdir(parents=True, exist_ok=True)
     SOURCE_NOTES_DIR.mkdir(parents=True, exist_ok=True)
+    NOTES_DIR.mkdir(parents=True, exist_ok=True)
 
     by_slug = {record.slug: record for record in records}
     alias_map = {alias: record for record in records for alias in record.aliases}
 
     for record in records:
-        shutil.copy2(ROOT / record.pdf_path, CONTENT_PDF_DIR / Path(record.pdf_path).name)
         write_markdown(ROOT / record.source_note_path, render_source_note(record, alias_map))
-
-    for record in records:
-        write_markdown(ROOT / record.content_path, render_issuance_page(record, by_slug, alias_map))
+        write_markdown(ROOT / record.notes_path, render_companion_note(record, by_slug))
+        write_markdown(ROOT / record.content_path, render_issuance_page(record, alias_map))
 
     year_groups: dict[str, list[Issuance]] = defaultdict(list)
     type_groups: dict[str, list[Issuance]] = defaultdict(list)

@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on the Use of Telemedicine in COVID-19 Response Source Text"
-description: "Generated extracted text for Guidelines on the Use of Telemedicine in COVID-19 Response."
+title: "Guidelines on the Use of Telemedicine in COVID-19 Response Raw Source Text"
+description: "Raw extracted text for Guidelines on the Use of Telemedicine in COVID-19 Response before manual annotation."
 aliases:
-  - "Guidelines on the Use of Telemedicine in COVID-19 Response Source Text"
+  - "Guidelines on the Use of Telemedicine in COVID-19 Response Raw Source Text"
 tags:
   - "source-text"
   - "year/2020"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Use of Telemedicine in COVID-19 Response]]
-- PDF: [Open PDF](../../pdfs/DOH-mc2020-0016.pdf)
+- Companion note: [[notes/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/DOH-mc2020-0016.pdf
+- OCR used: no
 
 ## Extracted Text
                                                  Republic of the Philippines  

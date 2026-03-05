@@ -1,20 +1,21 @@
 ---
-title: "Guidelines On Privacy Engineering In Systems Life Cycle Processes Source Text"
-description: "Generated extracted text for Guidelines On Privacy Engineering In Systems Life Cycle Processes."
+title: "Guidelines On Privacy Engineering In Systems Life Cycle Processes Raw Source Text"
+description: "Raw extracted text for Guidelines On Privacy Engineering In Systems Life Cycle Processes before manual annotation."
 aliases:
-  - "Guidelines On Privacy Engineering In Systems Life Cycle Processes Source Text"
+  - "Guidelines On Privacy Engineering In Systems Life Cycle Processes Raw Source Text"
 tags:
   - "source-text"
   - "year/2025"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Guidelines On Privacy Engineering In Systems Life Cycle Processes]]
-- PDF: [Open PDF](../../pdfs/NPC_Advisory2025-02.pdf)
+- Companion note: [[notes/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2025/12/NPC_Advisory2025-02.pdf
+- OCR used: no
 
 ## Extracted Text
                                    Republic of the Philippines  
@@ -113,7 +114,7 @@ follows:
 
 1 National Institute of Standards and Technology. Privacy Architecture - Glossary | CSRC. , available at
 
-https://csrc.nist.gov/glossary/term/privacy_architecture#:~:text=Definitions%3A,enterprise's%20mission%20and%20strategi  
+[https://csrc.nist.gov/glossary/term/privacy_architecture#:~:text=Definitions%3A,enterprise's%20mission%20and%20strategi](https://csrc.nist.gov/glossary/term/privacy_architecture#:~:text=Definitions%3A,enterprise's%20mission%20and%20strategi)  
 c%20plans.
 
 Ref No.: DSTSD-25-00447  
@@ -161,16 +162,16 @@ lifecycle:
 
 2 ISO/IEC/IEEE 21840:2019(En), Systems and Software Engineering — Guidelines for the Utilization of ISO/IEC/IEEE 15288 in
 
-the Context of System of Systems (SoS), available at https://www.iso.org/obp/ui#iso:std:iso-iec-ieee:21840:ed-  
+the Context of System of Systems (SoS), available at [https://www.iso.org/obp/ui#iso:std:iso-iec-ieee:21840:ed-](https://www.iso.org/obp/ui#iso:std:iso-iec-ieee:21840:ed-)  
 1:v1:en:term:3.1.11.  
 3 Section 12 of the Republic Act 10173 - Data Privacy Act of 2012.  
 4 Section 11 of the Republic Act 10173 - Data Privacy Act of 2012.  
-5 [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No.2017-03]]: Guidelines on Privacy Impact Assessments, available at https://privacy.gov.ph/wp-
+5 [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No.2017-03]]: Guidelines on Privacy Impact Assessments, available at [https://privacy.gov.ph/wp-](https://privacy.gov.ph/wp-)
 
 content/uploads/2022/01/NPC_AdvisoryNo.2017-03.pdf.  
 6 Section 20(c) of the Republic Act 10173 - Data Privacy Act of 2012, National Privacy Commission, available at
 
-https://privacy.gov.ph/data-privacy-act/.
+[https://privacy.gov.ph/data-privacy-act/.](https://privacy.gov.ph/data-privacy-act/.)
 
 Ref No.: DSTSD-25-00447  
 5  
@@ -217,19 +218,19 @@ Ref No.: DSTSD-25-00447
 
 7 Section 25 of the Implementing Rules and Regulations of the Data Privacy Act of 2012, available at
 
-https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/.  
+[https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/.](https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/.)  
 8 Data Protection Engineering From Theory to Practice, available at
 
-https://www.enisa.europa.eu/sites/default/files/publications/ENISA%20Report%20-  
+[https://www.enisa.europa.eu/sites/default/files/publications/ENISA%20Report%20-](https://www.enisa.europa.eu/sites/default/files/publications/ENISA%20Report%20-)  
 %20Data%20Protection%20Engineering.pdf  
 9 Section 28(e) of the IRR of DPA.  
 10 Section 16 of the Republic Act 10173 – Data Privacy Act of 2012.  
 11 Section 16 and 19 of the NPC Circular 2023-06: Security of Personal Data in the Government and the Private Sector, available
 
-at https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf.  
+at [https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf.](https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf.)  
 12 Fuzz testing or fuzzing is an automated software testing method that injects invalid, malformed, or unexpected inputs into a
 
-system to reveal software defects and vulnerabilities, available at https://www.synopsys.com/glossary/what-is-fuzz-  
+system to reveal software defects and vulnerabilities, available at [https://www.synopsys.com/glossary/what-is-fuzz-](https://www.synopsys.com/glossary/what-is-fuzz-)  
 testing.html#:~:text=Definition,as%20crashes%20or%20information%20leakage.
 
 Ref No.: DSTSD-25-00447  
@@ -277,15 +278,15 @@ Ref No.: DSTSD-25-00447
 
 13  
      Section 28(f) of the Implementing Rules and Regulations of the Data Privacy Act of 2012.  
-14 NPC Advisory 2021-01: Data Subject Rights, available at https://privacy.gov.ph/wp-content/uploads/2021/02/NPC-
+14 NPC Advisory 2021-01: Data Subject Rights, available at [https://privacy.gov.ph/wp-content/uploads/2021/02/NPC-](https://privacy.gov.ph/wp-content/uploads/2021/02/NPC-)
 
 Advisory-2021-01-FINAL.pdf.  
 15 Section 28(b) of the Implementing Rules and Regulations of the Data Privacy Act of 2012.  
 16 ISO/IEC 29101:2018(En), Information Technology — Security Techniques — Privacy Architecture Framework, available at
 
-https://www.iso.org/obp/ui/en/#iso:std:iso-iec:29101:ed-2:v1:en.  
+[https://www.iso.org/obp/ui/en/#iso:std:iso-iec:29101:ed-2:v1:en.](https://www.iso.org/obp/ui/en/#iso:std:iso-iec:29101:ed-2:v1:en.)  
 17 Section 6 of the NPC Advisory 2021-01: Data Subject Rights.  
-18 [[issuances/2023/guidelines-on-deceptive-design-patterns|NPC Advisory No. 2023-01]]: Guidelines on Deceptive Design Patterns,” available at https://privacy.gov.ph/wp-
+18 [[issuances/2023/guidelines-on-deceptive-design-patterns|NPC Advisory No. 2023-01]]: Guidelines on Deceptive Design Patterns,” available at [https://privacy.gov.ph/wp-](https://privacy.gov.ph/wp-)
 
 content/uploads/2023/11/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.pdf.  
 19  

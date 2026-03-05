@@ -13,29 +13,15 @@ tags:
 draft: false
 ---
 
-> Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO)
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
+<!-- SEEDED ANNOTATED HASH: b90ef3daa78c805a040e285a224c15d172d62835 -->
                             Frequently Asked Questions on the  
                Draft Rules on the Issuance of Cease and Desist Orders (CDO)
 
 1. Does Section 4(B) in laying one of the requisites for the issuance of a CDO as “such act or  
    practice is detrimental to national security or public interest, or the CDO is necessary to  
    preserve and protect the rights of a data subject,” expand Section 7(C) of the Data Privacy  
-   Act (DPA) which provides that the National Privacy Commission (NPC) shall have the  
    following functions, among others “Issue cease and desist orders, impose a temporary or  
    permanent ban on the processing of personal information, upon finding that the  
    processing will be detrimental to national security and public interest.”
@@ -75,7 +61,8 @@ Write a concise summary of the issuance here.
    comment on the issued CDO (Section 9, CDO Rules) which shall be set for adjudication by  
    the Commission En Banc (Section 12, CDO Rules). After giving the respondent the
 
-                                           Page 1 of 7  
+                                           Page 1 of 7
+
    opportunity to be heard, the Commission will decide whether to extend or lift the CDO no  
    later than thirty (30) days from the expiration of the period for the Adverse Party to file a  
    comment or the termination of the clarificatory hearing if one is held. In the event that the  
@@ -123,7 +110,8 @@ Write a concise summary of the issuance here.
    Division (CMD), or through a verified application by the aggrieved party upon  
    recommendation by the CID. It is issued ex parte, after the conduct of verification and
 
-                                          Page 2 of 7  
+                                          Page 2 of 7
+
    investigation. Upon issuance, it is immediately executory and shall remain in force until  
    lifted or modified by the Commission.
 
@@ -172,7 +160,8 @@ Write a concise summary of the issuance here.
     that the PIC/Adverse Party may suffer due to malicious or erroneously issued CDO?  
     What will be their basis?
 
-                                           Page 3 of 7  
+                                           Page 3 of 7
+
         The bond will be computed based on the assessment of the CID. Further details such as  
     rules on the assessment of bond, the period within which the bond should be posted, and  
     the effect of non-posting of the bond will be subject to another circular on fines, fees, and  
@@ -220,7 +209,8 @@ Write a concise summary of the issuance here.
 
 16. Will a CDO be proper after a mere privacy sweep or document submission? Will a Data
 
-                                           Page 4 of 7  
+                                           Page 4 of 7
+
    Breach Notification by itself be a good cause for the issuance of a CDO?
 
        Every application will be decided on a case to case basis after the conduct of verification  
@@ -269,7 +259,8 @@ Write a concise summary of the issuance here.
    are covered by the Rules. Future actions that, if not prevented, will cause grave or  
    irreparable injury are actions which the CDO ultimately intends to enjoin.
 
-                                           Page 5 of 7  
+                                           Page 5 of 7
+
 22. Can a CDO be immediately published regardless of the public interest or public  
     education?
 
@@ -316,7 +307,8 @@ Write a concise summary of the issuance here.
 
        Yes, these Rules apply to every personal information controller or processor.
 
-                                          Page 6 of 7  
+                                          Page 6 of 7
+
 26. How will the penalties or fines be imposed? Will there a table of penalties to be included  
     in this circular or referred to?
 
@@ -328,26 +320,10 @@ Write a concise summary of the issuance here.
                                          Page 7 of 7
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 20-02
-- Type: FAQ
-- Year: 1988
-- Issued: Unknown
-- Pages: 7
-- Source PDF: [Open PDF](../../pdfs/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/1988/faqs|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/1988/faqs]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/1988/faqs|Analysis and metadata]]
+- Raw source text: [[sources/1988/faqs|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> SUBJECT : GUIDELINES ON THE PROCESSING OF PERSONAL DATA FOR LOAN-RELATED TRANSACTIONS
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                         Republic of the Philippines  
-                             NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: a96e2436bc1871afb8b085600b345b553f871add -->
 NPC Circular No. 20-01
 
 DATE          : 14 September 2020
@@ -71,8 +55,8 @@ WHEREFORE, in consideration of the foregoing premises, and without prejudice to 
 application of other pertinent laws and regulations on the matter, the NPC hereby issues this  
 Circular that prescribes the guidelines for processing of personal data for loan transactions.
 
-                      5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307  
-                            URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph  
+                      5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307
+
 SECTION 1. Scope. — This Circular shall apply to, among others, the processing of personal data  
 for purposes of loan processing activities,1 through any modality, by lending or financing  
 companies, as defined under the Lending Company Regulation Act of 2007 and Financing  
@@ -126,7 +110,6 @@ undertaken by the LCs, FCs, other persons acting as such, and their authorized r
 
 Act of 1998], Republic Act No. 8556 (1998).
 
-                                                                                                                                 2  
 general guidelines:
 
    A. Borrowers shall be provided all the details required under Section 16 (b) of the DPA and  
@@ -174,7 +157,6 @@ general guidelines:
       acting as such shall be prohibited from requiring unnecessary permissions that involve  
       personal and sensitive personal information.
 
-                                                                                                  3  
        1. Application permissions shall only be allowed when suitable, necessary, and not  
           excessive for the purpose of KYC, determining creditworthiness, preventing fraud,  
           and collecting the debt in accordance with applicable provisions of law.
@@ -222,7 +204,6 @@ personal data of such character references, which may include policies on handli
 
 LCs, FCs, and other persons acting as such shall adequately inform the concerned individuals
 
-                                                                                                4  
 that they were chosen as character reference of the loan applicant and how their contact details  
 were obtained. LCs, FCs and other persons acting as such shall also provide the option of having  
 their personal data removed as a character reference, if the same is feasible.
@@ -271,7 +252,6 @@ SECTION 9. Separability Clause. – If any portion or provision of this Circular
 and void, or unconstitutional, the other provisions not affected thereby shall continue to be in  
 force and effect.
 
-                                                                                                   5  
 SECTION 10. Repealing Clause. – All other rules, regulations, and issuances contrary to or  
 inconsistent with the provisions of this Circular are deemed repealed or modified accordingly.
 
@@ -287,30 +267,12 @@ Approved:
                   Sgd.                                              Sgd.  
      LEANDRO ANGELO Y. AGUIRRE                           JOHN HENRY D. NAGA  
       Deputy Privacy Commissioner                       Deputy Privacy Commissioner
-
-                                                                                                    6
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 20-01
-- Type: Circular
-- Year: undated
-- Issued: Unknown
-- Pages: 6
-- Source PDF: [Open PDF](../../pdfs/NPC-Circular-No.-20-01.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/NPC-Circular-No.-20-01.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Analysis and metadata]]
+- Raw source text: [[sources/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/NPC-Circular-No.-20-01.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

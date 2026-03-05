@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, the Corona Virus Disease (COVID-19), has posed serious risks to the safety, lives and health of the citizens of the Philippines and has been declared as a pandemic by the World Health Organization (WHO) on 11 March 2020;1
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                Republic of the Philippines  
-                            NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 025afef708a402aa32b75cb3429cefb3da667c08 -->
 NPC ADVISORY No. 2020-02
 
 SUBJECT:       GUIDELINES ON THE USE OF VIDEOCONFERENCING  
@@ -71,15 +55,10 @@ Commission;
 
 1 WHO Director-General's opening remarks at the media briefing on COVID-19 - 11 March 2020. (n.d.).
 
-  Retrieved June 05, 2020, from https://www.who.int/dg/speeches/detail/who-director-general-s-  
+  Retrieved June 05, 2020, from [https://www.who.int/dg/speeches/detail/who-director-general-s-](https://www.who.int/dg/speeches/detail/who-director-general-s-)  
   opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020  
 2 Memorandum from the Executive Secretary dated 16 March 2020  
-3 A.M. 19-05-05-SC and A.C. 37-2020  
-                                                                                 NPC Advisory No. 2020 - __  
-                                                      Guidelines on the Use of Videoconferencing Technology  
-                                                         for the Remote Appearance and Testimony of Parties  
-                                                                     Before the National Privacy Commission  
-                                                                                              03 August 2020
+3 A.M. 19-05-05-SC and A.C. 37-2020
 
       WHEREAS, Section 7 of the Data Privacy Act of 2012 has vested authority to the  
 National Privacy Commission to prescribe and promulgate its Rules of Procedure;
@@ -124,13 +103,7 @@ I.    General Provisions
                       These shall apply to all complaints and investigations initiated  
                before the NPC including but not limited to the following:
 
-                           1. Discovery Conference;  
-                                              6  
-                                                                                   NPC Advisory No. 2020 - __  
-                                                        Guidelines on the Use of Videoconferencing Technology  
-                                                           for the Remote Appearance and Testimony of Parties  
-                                                                       Before the National Privacy Commission  
-                                                                                                03 August 2020
+                           1. Discovery Conference;
 
                             2.   Summary Hearing;  
                             3.   Mediation Conference;  
@@ -174,13 +147,6 @@ I.    General Provisions
                   electronic document.4
 
 4 R.A. No. 8792
-
-                                                 6  
-                                                                                          NPC Advisory No. 2020 - __  
-                                                               Guidelines on the Use of Videoconferencing Technology  
-                                                                  for the Remote Appearance and Testimony of Parties  
-                                                                              Before the National Privacy Commission  
-                                                                                                       03 August 2020
 
 II.     Proceedings
 
@@ -228,13 +194,6 @@ signature, it shall be presumed that -
         knows or has noticed of defects in or unreliability of the signature or reliance on the electronic  
         signature is not reasonable under the circumstances.
 
-                                                       6  
-                                                                 NPC Advisory No. 2020 - __  
-                                      Guidelines on the Use of Videoconferencing Technology  
-                                         for the Remote Appearance and Testimony of Parties  
-                                                     Before the National Privacy Commission  
-                                                                              03 August 2020
-
 3.    The minimum technical requirements for videoconferencing  
 technology are as follows:  
       a)     Desktop computer and/or laptops in the conference room  
@@ -274,13 +233,6 @@ proof of service of the order upon the party, when the email client has such
 feature. If not, any other proof of receipt, such as acknowledgement or  
 response to the email invitation shall suffice. Provided, the orders issued by  
 the concerned division or the Commission and sent through e-mail shall be
-
-                               6  
-                                                                                      NPC Advisory No. 2020 - __  
-                                                           Guidelines on the Use of Videoconferencing Technology  
-                                                              for the Remote Appearance and Testimony of Parties  
-                                                                          Before the National Privacy Commission  
-                                                                                                   03 August 2020
 
                 deemed received at the time of the electronic transmission of the order, or  
                 when available, at the time that the e-mail read receipt of the order is sent6.  
@@ -326,13 +278,6 @@ the concerned division or the Commission and sent through e-mail shall be
 
 6 Supplemental application of Section 9, Rule 13 of A.M. No. 19-10-20-SC
 
-                                                   6  
-                                                                NPC Advisory No. 2020 - __  
-                                     Guidelines on the Use of Videoconferencing Technology  
-                                        for the Remote Appearance and Testimony of Parties  
-                                                    Before the National Privacy Commission  
-                                                                             03 August 2020
-
 the conference room, so that he or she can be seen, heard and understood  
 by those appearing remotely from another location.
 
@@ -377,13 +322,6 @@ only be used as reference for the preparation of the Fact-Finding Reports,
 Memoranda by the Divisions, and the Decisions, Resolutions or Orders of  
 the Commission.
 
-                              6  
-                                                                              NPC Advisory No. 2020 - __  
-                                                   Guidelines on the Use of Videoconferencing Technology  
-                                                      for the Remote Appearance and Testimony of Parties  
-                                                                  Before the National Privacy Commission  
-                                                                                           03 August 2020
-
        C.     Post-hearing
 
               1.     Storage of videoconferencing proceeding – An encrypted master  
@@ -422,30 +360,12 @@ III.   Effectivity
                    (Sgd.)                                          (Sgd.)  
        LEANDRO ANGELO Y. AGUIRRE                             JOHN HENRY D. NAGA  
          Deputy Privacy Commissioner                        Deputy Privacy Commissioner
-
-                                            6
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2020-02
-- Type: Advisory
-- Year: 2020
-- Issued: Unknown
-- Pages: 8
-- Source PDF: [Open PDF](../../pdfs/FINAL-VERSION-Guidelines-on-the-Use-of-Videoconferencing-Technology-for-Remote-Appearance-before-the-NPC-OPC.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/FINAL-VERSION-Guidelines-on-the-Use-of-Videoconferencing-Technology-for-Remote-Appearance-before-the-NPC-OPC.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Generated source text]]
-
-### Automatic References Out
-- [[issuances/undated/rules-of-procedure|Rules of Procedure]]
-
-### Automatic Backlinks
-- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Analysis and metadata]]
+- Raw source text: [[sources/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/FINAL-VERSION-Guidelines-on-the-Use-of-Videoconferencing-Technology-for-Remote-Appearance-before-the-NPC-OPC.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

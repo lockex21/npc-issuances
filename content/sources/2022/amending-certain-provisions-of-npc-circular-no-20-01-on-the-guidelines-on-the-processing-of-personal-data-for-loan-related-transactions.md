@@ -1,20 +1,21 @@
 ---
-title: "Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions Source Text"
-description: "Generated extracted text for Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions."
+title: "Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions Raw Source Text"
+description: "Raw extracted text for Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions before manual annotation."
 aliases:
-  - "Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions Source Text"
+  - "Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions Raw Source Text"
 tags:
   - "source-text"
   - "year/2022"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions]]
-- PDF: [Open PDF](../../pdfs/NPC-Circular-No.-2022-–-02-Amending-20-01-Loan-Related-Transactions.pdf)
+- Companion note: [[notes/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-02-Amending-20-01-Loan-Related-Transactions.pdf
+- OCR used: no
 
 ## Extracted Text
                                          Republic of the Philippines  
@@ -62,7 +63,7 @@ hereby amended as stated below:
 Ref No.: PDD-21-0112                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021
 
   5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+             URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
         D. Where online applications are used for loan processing activities, LCs,  
            FCs, or other persons acting as such shall be prohibited from conducting  
            unnecessary processing including requiring unnecessary permissions  
@@ -114,7 +115,7 @@ Ref No.: PDD-21-0112                                            NPC_PPO_ PDD _CI
 Ref No.: PDD-21-0112                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021
 
   5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+             URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                2  
                     collection practices.
 
@@ -168,7 +169,7 @@ legally taken.
 Ref No.: PDD-21-0112                                                      NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021
 
    5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+              URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                              3  
         H. PIPs or third-party service providers operating in the Philippines,  
            engaged by LCs, FCs, and other persons acting as such, shall likewise be  
@@ -218,7 +219,7 @@ Ref No.: PDD-21-0112                                                      NPC_PP
 Ref No.: PDD-21-0112                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021
 
   5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+             URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                4  
          D. Contacting character references for purposes other than for the  
             verification of identity and veracity of the information provided by the  
@@ -272,7 +273,7 @@ August 2019).
 Ref No.: PDD-21-0112                                                 NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021
 
    5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+              URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                      5  
 Circular.
 
@@ -300,5 +301,5 @@ Approved:
 Ref No.: PDD-21-0112                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021
 
   5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+             URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                6

@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data Source Text"
-description: "Generated extracted text for Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data."
+title: "Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data Raw Source Text"
+description: "Raw extracted text for Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data before manual annotation."
 aliases:
-  - "Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data Source Text"
+  - "Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data Raw Source Text"
 tags:
   - "source-text"
   - "year/2024"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data]]
-- PDF: [Open PDF](../../pdfs/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf)
+- Companion note: [[notes/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf
+- OCR used: no
 
 ## Extracted Text
                                   Republic of the Philippines  
@@ -60,17 +61,17 @@ the Commission insofar as the AI systems involve the processing of personal data
 
 1 See Independent High-Level Expert Group on Artificial Intelligence, Ethics Guidelines for Trustworthy
 
-AI, at 36, available at https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-  
+AI, at 36, available at [https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-)  
 8c1f-01aa75ed71a1         (2019);   OECD     Council,   Recommendation        on     Artificial    Intelligence,  
-OECD/LEGAL/0449, available at https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449  
+OECD/LEGAL/0449, available at [https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449](https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449)  
 (2024); ISO/IEC JTC 1/SC 42, Information Technology – Artificial Intelligence – Artificial Intelligence  
 Concepts         and      Terminology,     ISO/IEC     22989:2022,         §      3.1.4,       available      at  
-https://www.iso.org/standard/74296.html (2022); National Institute of Standards and Technology,  
+[https://www.iso.org/standard/74296.html](https://www.iso.org/standard/74296.html) (2022); National Institute of Standards and Technology,  
 Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile, NIST AI 600-1  
-(2024), n. 1, available at https://doi.org/10.6028/NIST.AI.600-1.
+(2024), n. 1, available at [https://doi.org/10.6028/NIST.AI.600-1.](https://doi.org/10.6028/NIST.AI.600-1.)
 
 Ref No.: DPCD-24-00678                                       NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+          URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
 WHEREFORE, in consideration of these premises, the NPC hereby issues this Advisory on  
 the Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012  
 (DPA), its Implementing Rules and Regulations, and the issuances of the Commission to  
@@ -122,7 +123,7 @@ No. 23-04], § 3 (D)(3) (07 November 2023).
 7 Id.
 
 Ref No.: DPCD-24-00678                                  NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                      2  
              these policies and procedures, including those for AI systems that involve the  
              processing of personal data.
@@ -177,7 +178,7 @@ Sector, Circular No. 06, Series of 2023 [NPC Circ. No. 23-06], (01 December 2023
 12 See Id. rule IV, § 19 (c).
 
 Ref No.: DPCD-24-00678                                   NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+          URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                    3  
     E. Data Minimization.13 PICs shall exclude, by default, any personal data that is unlikely  
        to improve the development or deployment of AI systems, including its training and  
@@ -220,13 +221,13 @@ including its training and testing.
 
 13 See Id. rule IV, § 19 (b).  
 14 Data Privacy Act of 2012, §§ 12 & 13.  
-15 EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 7, available at https://privacy.gov.ph/wp-
+15 EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 7, available at [https://privacy.gov.ph/wp-](https://privacy.gov.ph/wp-)
 
 content/uploads/2022/09/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf.  
 16 See National Privacy Commission, Data Subject Rights, Advisory No. 01, Series of 2021 [[[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]]] (29 January 2021).
 
 Ref No.: DPCD-24-00678                                    NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                     4  
 SECTION 4. Interpretation. — Any doubt in the interpretation of any provision of this  
 Advisory shall be liberally interpreted in a manner mindful of the rights and interests of the  
@@ -243,5 +244,5 @@ Approved:
        Deputy Privacy Commissioner                          Deputy Privacy Commissioner
 
 Ref No.: DPCD-24-00678                                  NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                   5

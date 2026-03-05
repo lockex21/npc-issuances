@@ -13,23 +13,9 @@ tags:
 draft: false
 ---
 
-> TO : ALL UNDERSECRETARIES, ASSISTANT SECRETARIES, DIRECTORS OF BUREAUS, REGIONAL OFFICES AND SERVICES; EXECUTIVE DIRECTORS OF SPECIALTY HOSPITALS, AND NATIONAL NUTRITION COUNCIL; CHIEFS OF MEDICAL CENTERS, HOSPITALS, SANITARIA AND _INSTITUTES; PRESIDENT OF THE. PHILIPPINE...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                                 Republic of the Philippines  
+<!-- SEEDED ANNOTATED HASH: b20b36bc9f77d4eb6e030507f2abe621e89dd76e -->
                                                  Department of Health                                                         “"  
                                     OFFICE OF THE SECRETARY
 
@@ -67,10 +53,9 @@ COVID-19 Response dated March 28, 2020
 
 ~  
     .    Building 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, 1003 Manila « Trunk Line 651-7800 local 1113, 1108, 1135  
-         Direct Line: 711-9502; 711-9503 Fax: 743-1829; 743-1786 @ URL; littp://www.doh.gov.ph; e-mail: fiduque@doh.gov.ph  
-                                     Republic of the Philippines  
-                              DEPARTMENT OF HEALTH  
-                           NATIONAL PRIVACY COMMISSION
+         Direct Line: 711-9502; 711-9503 Fax: 743-1829; 743-1786 @ URL; littp://www.doh.gov.ph; e-mail: fiduque@doh.gov.ph
+
+                              DEPARTMENT OF HEALTH
 
                                                                                  March 28, 2020  
 JOINT MEMORANDUM CIRCULAR No. 2020-_0001
@@ -108,7 +93,8 @@ I.       SCOPE AND COVERAGE
         This Joint Memorandum Circular shall apply to all patients vulnerable to the  
 COVID-19 health situation; all public and private, national and local healthcare providers  
 regulated by DOH and Philippine Health Insurance Corporation (PhilHealth); and  
-telemedicine providers  
+telemedicine providers
+
 IV.          DEFINITION OF TERMS
 
       For   the purpose of this Joint Memorandum Circular, the following terms are defined:  
@@ -155,7 +141,8 @@ Circular:
       2. The patient-physician relationship shall be based on full knowledge of the patient’s  
          medical history and a physical examination given the circumstances of a lack of  
          physical contact (i.e., by inspection only). Telemedicine shall be employed when a  
-         licensed physician is physically inaccessible (e.g. such as during a national emergency  
+         licensed physician is physically inaccessible (e.g. such as during a national emergency
+
       with community quarantine in effect, among others), in the management of chronic  
       health conditions, or follow-up check-ups after initial treatment.  
    3. The patient-physician relationship shall be founded on mutual trust and respect in  
@@ -204,7 +191,8 @@ A. Healthcare Providers
        (OCR) by being typewritten. The documents shall be issued via email or acceptable  
        modes under Republic Act 8792, or the “Electronic Commerce Act of 2020.”  
        All clinical abstract/consultation summaries shall have the following content:  
-                 a. Patient Information (Name, Age, Birthdate, Sex, Address)  
+                 a. Patient Information (Name, Age, Birthdate, Sex, Address)
+
                     b. Brief Clinical History and Physical Examination (i.e., notes from  
                        inspection by video camera, if applicable)  
                     c. Travel and Exposure History (for COVID-19 screening)  
@@ -254,7 +242,8 @@ A. Healthcare Providers
         Submit reports to DOH as shall be defined to monitor performance of this Joint  
          Memorandum Circular.  
     10. Provide these services free of charge until the enhanced community quarantine is  
-        lifted.  
+        lifted.
+
 C. Monitoring and Evaluation Framework  
    1. The DOH and NPC shall regularly undertake monitoring and evaluation activities to  
       assess the quality of implementation, including adequacy of control mechanisms to  
@@ -289,32 +278,14 @@ imposed quarantine  is lifted.
         epartment of Health  
                               Ill, MD, MSc             NDE.  YYMUND
 
-                                                                           5  
                                                                           LIBORO  
-                                                     Privacy Commissioner and Chairman  
-                                                        National Privacy Commission
+                                                     Privacy Commissioner and Chairman
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Memorandum Circular No. 2020-
-- Type: Memorandum Circular
-- Year: 2020
-- Issued: Unknown
-- Pages: 6
-- Source PDF: [Open PDF](../../pdfs/DOH-mc2020-0016.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/DOH-mc2020-0016.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Analysis and metadata]]
+- Raw source text: [[sources/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/DOH-mc2020-0016.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

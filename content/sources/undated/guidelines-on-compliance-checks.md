@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on Compliance Checks Source Text"
-description: "Generated extracted text for Guidelines on Compliance Checks."
+title: "Guidelines on Compliance Checks Raw Source Text"
+description: "Raw extracted text for Guidelines on Compliance Checks before manual annotation."
 aliases:
-  - "Guidelines on Compliance Checks Source Text"
+  - "Guidelines on Compliance Checks Raw Source Text"
 tags:
   - "source-text"
   - "year/undated"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/undated/guidelines-on-compliance-checks|Guidelines on Compliance Checks]]
-- PDF: [Open PDF](../../pdfs/Circular18-02_ComplianceCheck.pdf)
+- Companion note: [[notes/undated/guidelines-on-compliance-checks|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-02_ComplianceCheck.pdf
+- OCR used: no
 
 ## Extracted Text
                             Republic of the Philippines  

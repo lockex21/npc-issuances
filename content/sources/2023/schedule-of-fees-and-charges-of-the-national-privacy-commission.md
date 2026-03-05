@@ -1,20 +1,21 @@
 ---
-title: "Schedule of Fees and Charges of the National Privacy Commission Source Text"
-description: "Generated extracted text for Schedule of Fees and Charges of the National Privacy Commission."
+title: "Schedule of Fees and Charges of the National Privacy Commission Raw Source Text"
+description: "Raw extracted text for Schedule of Fees and Charges of the National Privacy Commission before manual annotation."
 aliases:
-  - "Schedule of Fees and Charges of the National Privacy Commission Source Text"
+  - "Schedule of Fees and Charges of the National Privacy Commission Raw Source Text"
 tags:
   - "source-text"
   - "year/2023"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Schedule of Fees and Charges of the National Privacy Commission]]
-- PDF: [Open PDF](../../pdfs/Schedule-of-Fees-and-Charges-of-the-National-Privacy-Commission.pdf)
+- Companion note: [[notes/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/Schedule-of-Fees-and-Charges-of-the-National-Privacy-Commission.pdf
+- OCR used: no
 
 ## Extracted Text
                                    Republic of the Philippines  

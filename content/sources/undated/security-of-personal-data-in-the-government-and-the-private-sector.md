@@ -1,20 +1,21 @@
 ---
-title: "Security of Personal Data in the Government and the Private Sector Source Text"
-description: "Generated extracted text for Security of Personal Data in the Government and the Private Sector."
+title: "Security of Personal Data in the Government and the Private Sector Raw Source Text"
+description: "Raw extracted text for Security of Personal Data in the Government and the Private Sector before manual annotation."
 aliases:
-  - "Security of Personal Data in the Government and the Private Sector Source Text"
+  - "Security of Personal Data in the Government and the Private Sector Raw Source Text"
 tags:
   - "source-text"
   - "year/undated"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
-- PDF: [Open PDF](../../pdfs/NPC-Circular-Repeal-16-01-Signed.pdf)
+- Companion note: [[notes/undated/security-of-personal-data-in-the-government-and-the-private-sector|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf
+- OCR used: no
 
 ## Extracted Text
                                 Republic of the Philippines  
@@ -319,13 +320,13 @@ ascertained which file was accessed, including when, where, and by whom. Such lo
 
 1  
   vinaypamnani-msft, “Manage Device Installation with Group Policy - Windows Client Management,” August 10, 2023,  
-https://learn.microsoft.com/en-us/windows/client-management/client-tools/manage-device-installation-with-group-policy.  
+[https://learn.microsoft.com/en-us/windows/client-management/client-tools/manage-device-installation-with-group-policy.](https://learn.microsoft.com/en-us/windows/client-management/client-tools/manage-device-installation-with-group-policy.)  
 2  
   “USB Security Software - USB Port Blocker & Analyzer | SolarWinds,” accessed October 24, 2023,  
-https://www.solarwinds.com/security-event-manager/use-cases/usb-security-analyzer.  
+[https://www.solarwinds.com/security-event-manager/use-cases/usb-security-analyzer.](https://www.solarwinds.com/security-event-manager/use-cases/usb-security-analyzer.)  
 3  
   Azharuddin@TWC, “How to Enable or Disable USB Ports in Windows 11/10,” The Windows Club, June 28, 2021,  
-https://www.thewindowsclub.com/disable-enable-usb-windowunlock-pen-drive-at-office-or-school-computer.
+[https://www.thewindowsclub.com/disable-enable-usb-windowunlock-pen-drive-at-office-or-school-computer.](https://www.thewindowsclub.com/disable-enable-usb-windowunlock-pen-drive-at-office-or-school-computer.)
 
                                                                       NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
              URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  

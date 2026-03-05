@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on Child-Oriented Transparency Source Text"
-description: "Generated extracted text for Guidelines on Child-Oriented Transparency."
+title: "Guidelines on Child-Oriented Transparency Raw Source Text"
+description: "Raw extracted text for Guidelines on Child-Oriented Transparency before manual annotation."
 aliases:
-  - "Guidelines on Child-Oriented Transparency Source Text"
+  - "Guidelines on Child-Oriented Transparency Raw Source Text"
 tags:
   - "source-text"
   - "year/2024"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2024/guidelines-on-child-oriented-transparency|Guidelines on Child-Oriented Transparency]]
-- PDF: [Open PDF](../../pdfs/Advisory-2024.12.17-Guidelines-on-Child-Oriented-Transparency-w-SGD.pdf)
+- Companion note: [[notes/2024/guidelines-on-child-oriented-transparency|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.17-Guidelines-on-Child-Oriented-Transparency-w-SGD.pdf
+- OCR used: no
 
 ## Extracted Text
                                Republic of the Philippines  
@@ -69,7 +70,7 @@ Rights in Relation to the Digital Environment, CRC/C/GC/25 (2 March 2021).
 4 See Id. art. 5.
 
 Ref No.: DPCD-24-00608                                   NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
 holders with varying degrees of maturity gives full effect to their best interests and evolving  
 capacities;
 
@@ -126,7 +127,7 @@ Circular No. 06, Series of 2023 [NPC Circ. No. 23-06], (01 December 2023).
 7 See Id.
 
 Ref No.: DPCD-24-00608                                  NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                     2  
           5. Data storage and disposal;  
           6. Data sharing;  
@@ -181,7 +182,7 @@ Ref No.: DPCD-24-00608                                  NPC_PPO_PDD_AdTem-V1.0, 
 10 Id. § 11.
 
 Ref No.: DPCD-24-00608                                    NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                     3  
 SECTION 3. Privacy Notice. PICs shall ensure that children are aware of the nature,  
 purpose, and extent of the processing of personal data.11 PICs should consider the readability  
@@ -237,7 +238,7 @@ No. 23-04], § 3 (D)(3) (07 November 2023).
 15 See Id. § 2 (E).
 
 Ref No.: DPCD-24-00608                                   NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+          URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                    4  
     D. Layered Privacy Notice.16 PICs shall use Layered Privacy Notices that embody the  
        minimum specific information for purposes of the Principle of Transparency. These  
@@ -290,7 +291,7 @@ Series of 2023 [NPC Adv. No. 23-01] (07 November 2023).
 20 Data Privacy Act of 2012, § 21.
 
 Ref No.: DPCD-24-00608                                    NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                     5  
 Approved:
 
@@ -303,5 +304,5 @@ Approved:
        Deputy Privacy Commissioner                          Deputy Privacy Commissioner
 
 Ref No.: DPCD-24-00608                                  NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                   6

@@ -1,20 +1,21 @@
 ---
-title: "Registration of Data Processing Systems Appendix 1 Source Text"
-description: "Generated extracted text for Registration of Data Processing Systems Appendix 1."
+title: "Registration of Data Processing Systems Appendix 1 Raw Source Text"
+description: "Raw extracted text for Registration of Data Processing Systems Appendix 1 before manual annotation."
 aliases:
-  - "Registration of Data Processing Systems Appendix 1 Source Text"
+  - "Registration of Data Processing Systems Appendix 1 Raw Source Text"
 tags:
   - "source-text"
   - "year/2017"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2017/registration-of-data-processing-systems-appendix-1|Registration of Data Processing Systems Appendix 1]]
-- PDF: [Open PDF](../../pdfs/NPC17-01_Appendix-1.pdf)
+- Companion note: [[notes/2017/registration-of-data-processing-systems-appendix-1|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC17-01_Appendix-1.pdf
+- OCR used: no
 
 ## Extracted Text
                                                                              NPC Circular No. 2017-01  

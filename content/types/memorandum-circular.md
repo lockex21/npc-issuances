@@ -12,6 +12,6 @@ All generated notes tagged as **Memorandum Circular**.
 - [[issuances/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own criteria for reading memorandum circular issuances here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

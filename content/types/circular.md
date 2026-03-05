@@ -13,6 +13,7 @@ All generated notes tagged as **Circular**.
 - [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|Rules on Mediation before the National Privacy Commission]]
 - [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|Rules of procedure on requests for Advisory Opinions]]
 - [[issuances/undated/rules-of-procedure|Rules of Procedure]]
+- [[issuances/undated/registration-of-data-processing-systems-appendix-1|Registration of Data Processing Systems Appendix 1]]
 - [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems]]
 - [[issuances/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Prerequisites for the Philippine Privacy Mark Certification Program]]
 - [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]]
@@ -36,9 +37,8 @@ All generated notes tagged as **Circular**.
 - [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]
 - [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.)]]
 - [[issuances/2020/data-sharing-agreements|Data Sharing Agreements]]
-- [[issuances/2017/registration-of-data-processing-systems-appendix-1|Registration of Data Processing Systems Appendix 1]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own criteria for reading circular issuances here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

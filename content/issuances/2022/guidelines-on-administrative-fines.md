@@ -14,25 +14,9 @@ date: "2022-08-08"
 draft: false
 ---
 
-> WHEREAS, it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth;
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                    Republic of the Philippines  
-                               NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 94a3b50f816c184b6b3e9586ca953e52075437ef -->
 NPC Circular No. 2022-01
 
 Date            :        08 August 2022
@@ -80,9 +64,6 @@ administrative fine for each infraction. The amount of the fine for each infract
 within the ranges identified below and shall be determined in accordance with the factors  
 enumerated in Section 3. In any case, the total imposable fine for a single act of a PIC or PIP,
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022  
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 whether resulting in single or multiple infractions, shall not exceed Five Million Pesos (Php  
 5,000,000.00).
 
@@ -132,9 +113,6 @@ whether resulting in single or multiple infractions, shall not exceed Five Milli
         data breaches pursuant to Section 20 (f) of the DPA, unless otherwise punishable by  
         Section 30 of the DPA.
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022  
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
  OTHER INFRACTIONS
 
      a. Any natural or juridical person processing personal data that commits any of the  
@@ -184,10 +162,8 @@ factors in determining the amount of the fine within the range provided in Secti
         e. Any previous infractions determined by the Commission as contained in its  
            Orders, Resolutions or Decisions, whether these infractions have led to the  
            imposition of fines, and the length of time that has passed since those infractions;  
-        f. The categories of personal data affected;  
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022  
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-               URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+        f. The categories of personal data affected;
+
         g. The manner in which the PIC or PIP discovered the infraction, and whether it  
            informed the Commission;  
         h. Any mitigating action adopted by the PIC or PIP to reduce the harm to the data  
@@ -240,9 +216,6 @@ immediate execution of the administrative fine imposed.
 until the case is finally decided, resolved, or terminated, or the administrative fine imposed is  
 satisfied.
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022  
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
        In case of a surety bond, the PIC or PIP must (1) post the bond through a bonding  
 company included in the latest list of bonding companies accredited by the Supreme Court  
 for Civil Cases and Special Proceedings, and (2) comply with the requirements of such  
@@ -283,32 +256,12 @@ publication in a newspaper of general circulation.
                  Sgd.                                                        Sgd.  
  ATTY. LEANDRO ANGELO Y. AGUIRRE                               ATTY. DUG CHRISTOPER B. MAH  
      Deputy Privacy Commissioner                                 Deputy Privacy Commissioner
-
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022  
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2022-01
-- Type: Circular
-- Year: 2022
-- Issued: August 8, 2022
-- Pages: 5
-- Source PDF: [Open PDF](../../pdfs/NPC-CIRCULAR-NO.-2022-01-GUIDELINES-ON-ADMINISTRATIVE-FINES-dated-08-AUGUST-2022-w-SGD.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2022/08/NPC-CIRCULAR-NO.-2022-01-GUIDELINES-ON-ADMINISTRATIVE-FINES-dated-08-AUGUST-2022-w-SGD.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2022/guidelines-on-administrative-fines|Generated source text]]
-
-### Automatic References Out
-- [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Rules on the Issuance of Cease and Desist Orders]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2022/guidelines-on-administrative-fines]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2022/guidelines-on-administrative-fines|Analysis and metadata]]
+- Raw source text: [[sources/2022/guidelines-on-administrative-fines|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/08/NPC-CIRCULAR-NO.-2022-01-GUIDELINES-ON-ADMINISTRATIVE-FINES-dated-08-AUGUST-2022-w-SGD.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

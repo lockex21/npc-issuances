@@ -13,27 +13,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, Article II, Section 11 of the 1987 Constitution declares that the State values the dignity of every human person and guarantees full respect for human rights, and Article XIII, Section 21 states that Congress shall give highest priority to the enactment of measures...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
-
-NPC Advisory No. 2017-03
-
+<!-- SEEDED ANNOTATED HASH: 3aa3e0685aecebc1253528d2aae41a139d0778f7 -->
 DATE               :    31 July 2017
 
 SUBJECT            :    GUIDELINES ON PRIVACY IMPACT ASSESSMENTS
@@ -72,10 +54,7 @@ WHEREAS, Sections 4, 5, and 6 of NPC Circular 2016-01 requires government agenci
 conduct a Privacy Impact Assessment (PIA) for each program, process, or measure within  
 the agency that involves personal data. At the same time, Section 6 of NPC Circular 2016-03  
 recommends the conduct of a PIA as part of any organization’s security incident  
-management policy.  
-                                                                        NPC Advisory No. 2017-03  
-                                                          Guidelines on Privacy Impact Assessment  
-                                                                                      31 July 2017
+management policy.
 
 WHEREFORE, in consideration of the foregoing premises, the NPC hereby issues this  
 Advisory that prescribes guidelines for the conduct of a Privacy Impact Assessment:
@@ -121,11 +100,6 @@ For the purpose of this Advisory, the following terms are defined, as follows:
          reasonably and directly ascertained by the entity holding the information, or when  
          put together with other information would directly and certainly identify an  
          individual;
-
-                                                                                                     2  
-                                                                     NPC Advisory No. 2017-03  
-                                                       Guidelines on Privacy Impact Assessment  
-                                                                                   31 July 2017
 
 I.   “Personal information controller” or “PIC” refers to a person or organization who  
      controls the collection, holding, processing or use of personal information,  
@@ -177,11 +151,6 @@ Q.   “Sensitive Personal Information” refers to personal information:
      1.)   About an individual’s race, ethnic origin, marital status, age, color, and  
            religious, philosophical or political affiliations;
 
-                                                                                                  3  
-                                                                         NPC Advisory No. 2017-03  
-                                                           Guidelines on Privacy Impact Assessment  
-                                                                                       31 July 2017
-
          2.)   About an individual’s health, education, genetic or sexual life of a person, or  
                to any proceeding for any offense committed or alleged to have been  
                committed by such person, the disposal of such proceedings, or the sentence  
@@ -225,11 +194,6 @@ data. For new processing systems, it should be undertaken prior to their adoptio
 implementation. Changes in the governing law or regulations, or those adopted within the  
 organization or its industry may likewise require the conduct of a PIA, particularly if such  
 changes affect personal data processing.
-
-                                                                                                      4  
-                                                                         NPC Advisory No. 2017-03  
-                                                           Guidelines on Privacy Impact Assessment  
-                                                                                       31 July 2017
 
 A PIC may require a PIP or a service or product provider to conduct a PIA. For this purpose,  
 the report prepared by the PIP or the service or product provider may be considered by the  
@@ -276,11 +240,7 @@ internal and external stakeholders.
                                        Responsibility
 
 The PIC or PIP is primarily accountable for the conduct of a PIA. This responsibility remains  
-even when it elects to outsource or subcontract the actual conduct of the activity. For this  
-                                                                                                      5  
-                                                                                            NPC Advisory No. 2017-03  
-                                                                              Guidelines on Privacy Impact Assessment  
-                                                                                                          31 July 2017
+even when it elects to outsource or subcontract the actual conduct of the activity. For this
 
 purpose, the PIC or PIP may lay down a policy, which establishes the circumstances under  
 which a PIA shall be carried out, including the personnel involved, the resources available,  
@@ -324,16 +284,10 @@ existing methodology, 1 provided the latter is acceptable based on the following
                      pursued by the PIC or PIP;  
               2.)    data inventory identifying the types of personal data held by the PIC or PIP;
 
-1  
     Acceptable methodologies include ISO/IEC 29134, which provides standards for the conduct of the PIA.  
-2  
   This takes into consideration Art 29 Data Protection Working Party “Guidelines on Data Protection Impact Assessment  
 (DPIA) and determining whether processing is “likely to result in a high risk” for the purposes of Regulation 2016/679” (4  
-April 2017) and the provisions of the DPA.  
-                                                                                                                             6  
-                                                                       NPC Advisory No. 2017-03  
-                                                         Guidelines on Privacy Impact Assessment  
-                                                                                     31 July 2017
+April 2017) and the provisions of the DPA.
 
         3.)   sources of personal data and procedures for collection;  
         4.)   functional description of personal data processing, including a list of all  
@@ -381,11 +335,7 @@ The following should be considered when planning the conduct of a PIA:
         PIA will be conducted should be identified. The scope of the PIA must be clearly  
         delineated.
 
-   3.   The process owners, participants, and the persons in charge of conducting the PIA,  
-                                                                                                    7  
-                                                                         NPC Advisory No. 2017-03  
-                                                           Guidelines on Privacy Impact Assessment  
-                                                                                       31 July 2017
+   3.   The process owners, participants, and the persons in charge of conducting the PIA,
 
         including the preparation of its report, should be identified. When the scope of the  
         PIA is determined to be broad and/or comprehensive, a taskforce or secretariat  
@@ -434,11 +384,7 @@ of a PIA:
 
    5.   The detailed plan for the conduct of the PIA should be prepared, including:
 
-        1.)   schedules and timelines for the completion of preparatory activities, conduct  
-                                                                                                      8  
-                                                                           NPC Advisory No. 2017-03  
-                                                             Guidelines on Privacy Impact Assessment  
-                                                                                         31 July 2017
+        1.)   schedules and timelines for the completion of preparatory activities, conduct
 
                of the PIA, and reporting or publication of results;  
          2.)   approval of resource and budget allocations;  
@@ -487,11 +433,7 @@ The following should be considered in the conduct of a PIA:
          possible threats, and existing vulnerabilities of the systems. Risks include the  
          following:
 
-         1.)   unauthorized or unlawful processing;  
-                                                                                                        9  
-                                                                        NPC Advisory No. 2017-03  
-                                                          Guidelines on Privacy Impact Assessment  
-                                                                                      31 July 2017
+         1.)   unauthorized or unlawful processing;
 
          2.)   confidentiality breach;  
          3.)   integrity breach;  
@@ -540,11 +482,7 @@ a corresponding report.
 The PIC or PIP must maintain a record of all its PIA reports. When a report contains  
 information that are privileged or confidential, the PIC or PIP may prepare a PIA Summary  
 that can be made available to data subjects upon request. Other means of communicating  
-the results of the PIA to internal and external stakeholders should be considered, such as  
-                                                                                                     10  
-                                                                        NPC Advisory No. 2017-03  
-                                                          Guidelines on Privacy Impact Assessment  
-                                                                                      31 July 2017
+the results of the PIA to internal and external stakeholders should be considered, such as
 
 publishing key findings or result summaries in the PIC or PIP website, through newsletters,  
 annual reports, and other similar materials.
@@ -578,30 +516,12 @@ Approved:
        Deputy Privacy Commissioner                    Deputy Privacy Commissioner
 
 Date: 31 July 2017
-
-                                                                                                     11
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2017-03
-- Type: Advisory
-- Year: 2017
-- Issued: Unknown
-- Pages: 11
-- Source PDF: [Open PDF](../../pdfs/NPC_AdvisoryNo.2017-03.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryNo.2017-03.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2017/guidelines-on-privacy-impact-assessments|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Guidelines On Privacy Engineering In Systems Life Cycle Processes]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2017/guidelines-on-privacy-impact-assessments]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2017/guidelines-on-privacy-impact-assessments|Analysis and metadata]]
+- Raw source text: [[sources/2017/guidelines-on-privacy-impact-assessments|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryNo.2017-03.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

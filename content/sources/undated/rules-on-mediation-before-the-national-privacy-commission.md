@@ -1,20 +1,21 @@
 ---
-title: "Rules on Mediation before the National Privacy Commission Source Text"
-description: "Generated extracted text for Rules on Mediation before the National Privacy Commission."
+title: "Rules on Mediation before the National Privacy Commission Raw Source Text"
+description: "Raw extracted text for Rules on Mediation before the National Privacy Commission before manual annotation."
 aliases:
-  - "Rules on Mediation before the National Privacy Commission Source Text"
+  - "Rules on Mediation before the National Privacy Commission Raw Source Text"
 tags:
   - "source-text"
   - "year/undated"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|Rules on Mediation before the National Privacy Commission]]
-- PDF: [Open PDF](../../pdfs/Circular18-03_RulesonMediationwAnnexes.pdf)
+- Companion note: [[notes/undated/rules-on-mediation-before-the-national-privacy-commission|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-03_RulesonMediationwAnnexes.pdf
+- OCR used: no
 
 ## Extracted Text
                                     Republic of the Philippines  

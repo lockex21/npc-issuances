@@ -10,6 +10,6 @@ Auto-generated topic cluster for **Privacy Engineering**.
 - [[issuances/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Guidelines On Privacy Engineering In Systems Life Cycle Processes]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own synthesis, definitions, and extra wikilinks here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

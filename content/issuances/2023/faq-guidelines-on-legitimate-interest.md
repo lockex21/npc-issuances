@@ -12,27 +12,9 @@ date: "2023-12-28"
 draft: false
 ---
 
-> Circular on Guidelines for Legitimate Interest Questions Raised During the Public Consultation on 07 December 2023
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                             Republic of the Philippines  
-                        NATIONAL PRIVACY COMMISSION  
-                       5th Floor, Philippine International Convention Center,  
-                       Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: 12aba1b32ef51775148330130872ed59dd324a86 -->
                     Circular on Guidelines for Legitimate Interest  
          Questions Raised During the Public Consultation on 07 December 2023
 
@@ -78,7 +60,8 @@ General Questions
                                 party or parties to whom the data is disclosed.
 
                                 Under Section 3 (C) of the Circular, a third party refers to  
-                                any natural or juridical person to whom personal  
+                                any natural or juridical person to whom personal
+
                                   information is disclosed and who is not the PIC, the PIP, or  
                                   the data subject of the specific processing activity.  
      4. Does the PIC need         Yes. While this is not explicitly stated in the Circular, PICs  
@@ -132,8 +115,6 @@ General Questions
                                   legitimate interest as its basis to process personal  
                                   information, then it should have conducted some version of
 
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                   the legitimate interest assessment, either separately or  
                                   together with its privacy impact assessment.
 
@@ -185,8 +166,6 @@ Legitimate Interest of Third Parties
         whom the data is  
         disclosed     without
 
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          conducting its own       What is important is that the third party can show its  
          Legitimate Interest      legitimate interest, the presence of the three (3) requisites,  
          Assessment?              and the PIC is able to document all of these.  
@@ -241,8 +220,6 @@ Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0
          conducted by the  
          PIC of the third
 
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          parties’ legitimate      Similar to Section 4 of the Circular, the PIC may use any  
          interest?                existing method, structure, or form, to verify the legitimate  
                                   interest assessment that was conducted before the specific  
@@ -294,8 +271,6 @@ Requisites for Processing Based on Legitimate Interest
          information              the Circular are factors that may be considered to determine  
          involved in the
 
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          specific processing      the effect or impact of accomplishing the legitimate interest.  
          activity or to           These are not requisites.  
          mitigate the effect  
@@ -347,8 +322,6 @@ Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0
                                       - Reasonable expectation of the data subject on the  
                                          specific processing of their personal information.
 
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                   The effect or impact of accomplishing the legitimate interest  
                                   is viewed based on the surrounding circumstances of each  
                                   case.  
@@ -399,8 +372,6 @@ Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0
                                   is viewed based on the surrounding circumstances of each  
                                   case.
 
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                    The Commission has already issued decisions explaining  
                                    this and clarified that the reasonable expectation of privacy  
                                    discussed here is not the same reasonable expectation of  
@@ -457,8 +428,6 @@ Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0
 
 Legitimate Interest Assessment (LIA)
 
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
            Question                                          Answer  
      22. What should the          A legitimate interest assessment should contain information  
          legitimate interest      on how the PIC or third party fulfills the requisites for  
@@ -510,8 +479,6 @@ Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0
      26. Will the NPC             As stated in Section 8 (C) of the Circular, the NPC may  
          require the              require the submission of the records of the legitimate
 
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          submission of the        interest assessment in cases of investigations or compliance  
          legitimate interest      checks.  
          assessment?  
@@ -562,8 +529,6 @@ Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0
                                   adequate documentation while continuing a processing  
                                   activity relying on legitimate interest could pose challenges.
 
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                   Therefore, it is advisable to maintain documentation as long  
                                   as the relevant process is ongoing.
 
@@ -615,8 +580,6 @@ Further Processing of Personal Information Based on Legitimate Interest
          Guidelines on  
          Consent), further
 
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          processing for  
          additional purposes  
          should be permitted  
@@ -668,8 +631,6 @@ Sectoral Determination of Specific Legitimate Interest
                                   individual consideration. Despite this, having sectoral  
                                   determinations in place will be very helpful.
 
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
      35. Will the NPC             No, the Commission will not release such a list. The concern  
          release a list of        is avoiding a situation where individuals could claim any  
          common legitimate        form of data collection or fraud prevention as a legitimate  
@@ -726,8 +687,6 @@ Processing carried out by Public Authorities
                                   management,      employee      welfare,     and      financial  
                                   accountability.
 
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                   In such instances, a legitimate interest assessment must still  
                                   be conducted to ascertain whether legitimate interest is the  
                                   most appropriate and suitable legal basis for that specific  
@@ -777,8 +736,6 @@ Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0
          opportunity to           data subject must be notified.  
          object?
 
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                   In the context of relying on legitimate interest as a basis, the  
                                   data subject retains the right to object, and this right does  
                                   not expire. However, it's important to note that the right to  
@@ -789,31 +746,12 @@ Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0
                                   when pursuing a legal claim under Section 13 (f) of the DPA.  
                                   As always, these determinations are made on a case-to-case  
                                   basis.
-
-Ref No.: DPCD-23-00748                                   NPC_DIT_MEMO-V1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: None detected
-- Type: FAQ
-- Year: 2023
-- Issued: December 28, 2023
-- Pages: 15
-- Source PDF: [Open PDF](../../pdfs/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2024/01/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.pdf
-- Topic pages: [[topics/legitimate-interest|Legitimate Interest]]
-- Generated source note: [[sources/2023/faq-guidelines-on-legitimate-interest|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2023/faq-guidelines-on-legitimate-interest]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2023/faq-guidelines-on-legitimate-interest|Analysis and metadata]]
+- Raw source text: [[sources/2023/faq-guidelines-on-legitimate-interest|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

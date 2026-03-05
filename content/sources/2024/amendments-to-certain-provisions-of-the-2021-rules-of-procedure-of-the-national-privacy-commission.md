@@ -1,20 +1,21 @@
 ---
-title: "Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission Source Text"
-description: "Generated extracted text for Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission."
+title: "Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission Raw Source Text"
+description: "Raw extracted text for Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission before manual annotation."
 aliases:
-  - "Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission Source Text"
+  - "Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission Raw Source Text"
 tags:
   - "source-text"
   - "year/2024"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission]]
-- PDF: [Open PDF](../../pdfs/NPC-Circular-2024-01-Amendments-to-the-2021-Rules-of-Procedure-of-the-NPC-FOR-PUBLICATION.pdf)
+- Companion note: [[notes/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-2024-01-Amendments-to-the-2021-Rules-of-Procedure-of-the-NPC-FOR-PUBLICATION.pdf
+- OCR used: no
 
 ## Extracted Text
                                 Republic of the Philippines  

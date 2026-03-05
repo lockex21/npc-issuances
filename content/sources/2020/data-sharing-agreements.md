@@ -1,20 +1,21 @@
 ---
-title: "Data Sharing Agreements Source Text"
-description: "Generated extracted text for Data Sharing Agreements."
+title: "Data Sharing Agreements Raw Source Text"
+description: "Raw extracted text for Data Sharing Agreements before manual annotation."
 aliases:
-  - "Data Sharing Agreements Source Text"
+  - "Data Sharing Agreements Raw Source Text"
 tags:
   - "source-text"
   - "year/2020"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2020/data-sharing-agreements|Data Sharing Agreements]]
-- PDF: [Open PDF](../../pdfs/Circular-Data-Sharing-Agreement-amending-16-02-21-Dec-2020-clean-copy-FINAL-LYA-and-JDN-signed-minor-edit.pdf)
+- Companion note: [[notes/2020/data-sharing-agreements|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2021/01/Circular-Data-Sharing-Agreement-amending-16-02-21-Dec-2020-clean-copy-FINAL-LYA-and-JDN-signed-minor-edit.pdf
+- OCR used: no
 
 ## Extracted Text
                                    Republic of the Philippines  

@@ -1,20 +1,21 @@
 ---
-title: "Amending Certain Provisions of NPC Advisory No. 2020-01: Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website Source Text"
-description: "Generated extracted text for Amending Certain Provisions of NPC Advisory No. 2020-01: Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website."
+title: "Amending Certain Provisions of NPC Advisory No. 2020-01: Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website Raw Source Text"
+description: "Raw extracted text for Amending Certain Provisions of NPC Advisory No. 2020-01: Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website before manual annotation."
 aliases:
-  - "Amending Certain Provisions of NPC Advisory No. 2020-01: Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website Source Text"
+  - "Amending Certain Provisions of NPC Advisory No. 2020-01: Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website Raw Source Text"
 tags:
   - "source-text"
   - "year/2020"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2020/amending-certain-provisions-of-npc-advisory-no-2020-01-protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Amending Certain Provisions of NPC Advisory No. 2020-01: Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website]]
-- PDF: [Open PDF](../../pdfs/Amendment-to-Advisory-2020-01-Final.pdf)
+- Companion note: [[notes/2020/amending-certain-provisions-of-npc-advisory-no-2020-01-protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/11/Amendment-to-Advisory-2020-01-Final.pdf
+- OCR used: no
 
 ## Extracted Text
                                    Republic of the Philippines  

@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on the Processing of Personal Data for Loan-Related Transactions Source Text"
-description: "Generated extracted text for Guidelines on the Processing of Personal Data for Loan-Related Transactions."
+title: "Guidelines on the Processing of Personal Data for Loan-Related Transactions Raw Source Text"
+description: "Raw extracted text for Guidelines on the Processing of Personal Data for Loan-Related Transactions before manual annotation."
 aliases:
-  - "Guidelines on the Processing of Personal Data for Loan-Related Transactions Source Text"
+  - "Guidelines on the Processing of Personal Data for Loan-Related Transactions Raw Source Text"
 tags:
   - "source-text"
   - "year/undated"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions]]
-- PDF: [Open PDF](../../pdfs/NPC-Circular-No.-20-01.pdf)
+- Companion note: [[notes/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/NPC-Circular-No.-20-01.pdf
+- OCR used: no
 
 ## Extracted Text
                                          Republic of the Philippines  
@@ -60,7 +61,7 @@ application of other pertinent laws and regulations on the matter, the NPC hereb
 Circular that prescribes the guidelines for processing of personal data for loan transactions.
 
                       5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307  
-                            URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph  
+                            URL: [https://privacy.gov.ph](https://privacy.gov.ph) Email Add: info@privacy.gov.ph  
 SECTION 1. Scope. — This Circular shall apply to, among others, the processing of personal data  
 for purposes of loan processing activities,1 through any modality, by lending or financing  
 companies, as defined under the Lending Company Regulation Act of 2007 and Financing  

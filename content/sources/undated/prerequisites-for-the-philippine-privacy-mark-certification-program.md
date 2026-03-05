@@ -1,20 +1,21 @@
 ---
-title: "Prerequisites for the Philippine Privacy Mark Certification Program Source Text"
-description: "Generated extracted text for Prerequisites for the Philippine Privacy Mark Certification Program."
+title: "Prerequisites for the Philippine Privacy Mark Certification Program Raw Source Text"
+description: "Raw extracted text for Prerequisites for the Philippine Privacy Mark Certification Program before manual annotation."
 aliases:
-  - "Prerequisites for the Philippine Privacy Mark Certification Program Source Text"
+  - "Prerequisites for the Philippine Privacy Mark Certification Program Raw Source Text"
 tags:
   - "source-text"
   - "year/undated"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Prerequisites for the Philippine Privacy Mark Certification Program]]
-- PDF: [Open PDF](../../pdfs/Prerequisites-for-the-Philippine-Privacy-Mark-Signed.pdf)
+- Companion note: [[notes/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/03/Prerequisites-for-the-Philippine-Privacy-Mark-Signed.pdf
+- OCR used: no
 
 ## Extracted Text
                                Republic of the Philippines  

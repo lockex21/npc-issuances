@@ -1,20 +1,21 @@
 ---
-title: "FAQ Guidelines on Legitimate Interest Source Text"
-description: "Generated extracted text for FAQ Guidelines on Legitimate Interest."
+title: "FAQ Guidelines on Legitimate Interest Raw Source Text"
+description: "Raw extracted text for FAQ Guidelines on Legitimate Interest before manual annotation."
 aliases:
-  - "FAQ Guidelines on Legitimate Interest Source Text"
+  - "FAQ Guidelines on Legitimate Interest Raw Source Text"
 tags:
   - "source-text"
   - "year/2023"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2023/faq-guidelines-on-legitimate-interest|FAQ Guidelines on Legitimate Interest]]
-- PDF: [Open PDF](../../pdfs/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.pdf)
+- Companion note: [[notes/2023/faq-guidelines-on-legitimate-interest|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/01/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.pdf
+- OCR used: no
 
 ## Extracted Text
                              Republic of the Philippines  

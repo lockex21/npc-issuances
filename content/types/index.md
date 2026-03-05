@@ -15,6 +15,6 @@ Each page below groups issuances by issuance type.
 - [[types/memorandum-circular|Memorandum Circular]] (3 issuances)
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add curated notes or a reading path here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

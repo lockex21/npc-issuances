@@ -14,27 +14,9 @@ tags:
 draft: false
 ---
 
-> SUBJECT : GUIDELINES ON THE PROCESSING OF PERSONAL DATA COLLECTED USING BODY-WORN CAMERAS
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                  Republic of the Philippines  
-                             NATIONAL PRIVACY COMMISSION  
-                                 25th-27th Floors, The Upper Class Tower,  
-                          Quezon Ave. Corner Scout Reyes Street, Quezon City 1103
-
+<!-- SEEDED ANNOTATED HASH: 694ac49b052fc2c82334e14461347d0544cf84c3 -->
 NPC Circular No. 2025 - 01
 
 DATE                    : 26 May 2025
@@ -75,14 +57,10 @@ its Implementing Rules and Regulations (IRR), as amended, and other NPC issuance
 adopted herein. In addition, whenever used in this Circular, the following terms are defined  
 as follows:
 
-1 See: National Privacy Commission, KEC v. JMP [NPC 19-764] (November 11, 2021) and ARTICLE 29 DATA
-
 PROTECTION WORKING PARTY Statement of the Working Party on current discussions regarding the data  
 protection reform package, Annex 2 Proposals for Amendments regarding exemption for personal or household  
 activities (2013).
 
-Ref No.: PDD-25-00276                                       NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
     A. “Alternative Recording Device” or “ARD” refers to an electronic device or gadget with  
        a camera system, other than a BWC, that is capable of creating, generating, sending,  
        receiving, storing, displaying, and processing audio-visual recording and is capable of  
@@ -131,12 +109,9 @@ Ref No.: PDD-25-00276                                       NPC_PPO_PDD_CIRC-V2.
            collaboration and linkages with the community;
 
 2 Philippine National Police Manual  PNPM-DO-D-0-2-13-21, Revised Philippine National Police Operational  
-Procedure, September 2021, available at https://akg.pnp.gov.ph/wp-content/uploads/2024/01/POP-Manual-  
+Procedure, September 2021, available at [https://akg.pnp.gov.ph/wp-content/uploads/2024/01/POP-Manual-](https://akg.pnp.gov.ph/wp-content/uploads/2024/01/POP-Manual-)  
 2021.pdf (last accessed October 21, 2024).
 
-Ref No.: PDD-25-00276                                       NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                           2  
     E. “Law Enforcement Agencies” or “LEAs” refer to persons engaged in police operations  
        defined herein and other law enforcement functions, whether appointed, elected, or  
        exercising delegated authority. These agencies include, but are not limited to, the  
@@ -178,7 +153,7 @@ through BWCs or ARDs shall be subject to the following requirements.
 3 See generally: United Nations, Code of Conduct for Law Enforcement Officials, Adopted by General Assembly
 
 resolution 34/169 of 17 December 1979, available at  
-https://www.ohchr.org/Documents/ProfessionalInterest/codeofconduct.pdf (last accessed 19 June 2021).  
+[https://www.ohchr.org/Documents/ProfessionalInterest/codeofconduct.pdf](https://www.ohchr.org/Documents/ProfessionalInterest/codeofconduct.pdf) (last accessed 19 June 2021).  
 4 PNP Memorandum Circular No. 2018-009, § 4 (d).  
 5 An Act Strengthening The Regulation Of The Private Security Services Industry, Repealing For The Purpose,
 
@@ -190,11 +165,8 @@ No. 11917 (2022).
 No. 21-06-08-SC], Rule 1, § 4 (5) (June 29, 2021).  
 7 See: Cambridge Dictionary entry for vlogger, available at
 
-https://dictionary.cambridge.org/us/dictionary/english/vlogger (last accessed Jan. 10, 2025).
+[https://dictionary.cambridge.org/us/dictionary/english/vlogger](https://dictionary.cambridge.org/us/dictionary/english/vlogger) (last accessed Jan. 10, 2025).
 
-Ref No.: PDD-25-00276                                        NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                              3  
     A. Law enforcement; security. BWCs or ARDs shall be used in a manner consistent with the  
        aim of ensuring the protection of the fundamental rights and freedoms of all data  
        subjects, including law enforcement officers and security guards. Personal data  
@@ -242,14 +214,11 @@ Ref No.: PDD-25-00276                                        NPC_PPO_PDD_CIRC-V2
 
 8 See generally: UK Information Commissioner’s Office, Additional considerations for technologies other than CCTV -
 
-Body Worn Video (BWV), available at https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-  
+Body Worn Video (BWV), available at [https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-)  
 resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/additional-  
 considerations-for-technologies-other-than-cctv/?q=children#bwv (last accessed: 2 September 2024).  
 9 PNP Memorandum Circular No. 2018-009, § 6 (b).
 
-Ref No.: PDD-25-00276                                            NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                                      4  
             c. Proportionality. The processing of personal data through the use of BWCs or  
                ARDs shall be adequate, relevant, suitable, necessary, and not excessive in  
                relation to a declared and specified purpose. The collection and further  
@@ -301,9 +270,6 @@ Ref No.: PDD-25-00276                                            NPC_PPO_PDD_CIR
 
 SECTION 4. Security measures. — PICs and PIPs shall implement reasonable and
 
-Ref No.: PDD-25-00276                                     NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                   5  
 appropriate organizational, technical, and physical safeguards, considering the need to  
 maintain confidentiality, integrity, and availability of personal data collected through BWCs  
 or ARDs. These safeguards shall include the following:
@@ -352,12 +318,9 @@ or ARDs. These safeguards shall include the following:
 10 See generally: United Kingdom, Home Office Centre for Applied Science and Technology, Body-Worn Video
 
 Technical Guidance, available at  
-https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/  
+[https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/)  
 file/565608/body-worn-video-technical-guidance-1414.pdf (last accessed 21 June 2021).
 
-Ref No.: PDD-25-00276                                      NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                           6  
          1. The recordings shall be in a standard, open, non-proprietary format such that it  
             can be replayed in a freely available software;  
          2. The device exports all recordings to data archiving/management system in its  
@@ -407,9 +370,6 @@ their rights under Sections 16 to 18 of the DPA shall be provided.
 
 11 PNP Memorandum Circular No. 2018-009, § 6 (c) (2) (i) and (5) (a).
 
-Ref No.: PDD-25-00276                                           NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                         7  
     A. The exercise of such rights is subject to reasonable limitations, such as when upholding  
        data subject rights would prevent, impair, or otherwise prejudice ongoing police  
        operations and other related law enforcement activities, or in the interest of national  
@@ -460,9 +420,6 @@ Circular shall be liberally interpreted in a manner mindful of the rights and in
 
 12 See: ECA v. XXX, NPC Case No. 18-103 (2020).
 
-Ref No.: PDD-25-00276                                      NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                    8  
 data subjects, and without prejudice to the application of other pertinent laws and regulations  
 on the matter.
 
@@ -493,32 +450,12 @@ Approved:
                    SGD.                                              SGD.  
           NERISSA N. DE JESUS                           JOSE AMELITO S. BELARMINO II  
         Deputy Privacy Commissioner                       Deputy Privacy Commissioner
-
-Ref No.: PDD-25-00276                                     NPC_PPO_PDD_CIRC-V2.0, R1.0, 24 March 2025  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                   9
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2025-01
-- Type: Circular
-- Year: 2025
-- Issued: Unknown
-- Pages: 9
-- Source PDF: [Open PDF](../../pdfs/SGD-NPC-Circular-No.-2025-01-Body-Worn-Cameras.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2025/05/SGD-NPC-Circular-No.-2025-01-Body-Worn-Cameras.pdf
-- Topic pages: [[topics/cctv-surveillance|CCTV Surveillance]]
-- Generated source note: [[sources/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Generated source text]]
-
-### Automatic References Out
-- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines On The Processing Of Personal Data For Election Campaign Or Partisan Political Activity]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Analysis and metadata]]
+- Raw source text: [[sources/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2025/05/SGD-NPC-Circular-No.-2025-01-Body-Worn-Cameras.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

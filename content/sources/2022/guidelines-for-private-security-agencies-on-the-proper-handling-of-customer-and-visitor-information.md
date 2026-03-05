@@ -1,20 +1,21 @@
 ---
-title: "Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information Source Text"
-description: "Generated extracted text for Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information."
+title: "Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information Raw Source Text"
+description: "Raw extracted text for Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information before manual annotation."
 aliases:
-  - "Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information Source Text"
+  - "Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information Raw Source Text"
 tags:
   - "source-text"
   - "year/2022"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information]]
-- PDF: [Open PDF](../../pdfs/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.pdf)
+- Companion note: [[notes/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.pdf
+- OCR used: no
 
 ## Extracted Text
                                                   Republic of the Philippines  
@@ -69,7 +70,7 @@ within fifteen days from the date of apprehension will be a ground for the suspe
 Ref No.: PDD-21-0069                                               NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021  
 ____________________________________________________________________________________________________  
    5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+              URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 proportionality;
 
 WHEREAS, Section 14 of the DPA states that a PIC may subcontract the processing of personal  
@@ -126,7 +127,7 @@ of 2016 [DOLE DO No. 150-16], § 2 (i) (Feb. 9. 2016).
 Ref No.: PDD-21-0069                                                 NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021  
 _______________________________________________________________________________________________________________  
    5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+              URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                         2  
            baggage, and other forms of security inspection,3 as authorized by the PIC or by the PSA  
            to perform such functions, regardless of his or her designation;
@@ -183,7 +184,7 @@ services of PSAs shall have the following obligations:
 Ref No.: PDD-21-0069                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021  
 _______________________________________________________________________________________________________________  
    5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+              URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                   3  
          personal data processed, and to prevent its use for unauthorized purposes. PICs shall  
          ensure that a Subcontracting Agreement or Service Agreement is executed with PSAs prior  
@@ -235,12 +236,12 @@ following obligations:
 5 See: National Archives of the Philippines, General Records Disposition Schedule common to all Government Agencies,
 
 series 2009 which provides for the retention period of two (2) years after date of last entry for logbooks (available at  
-https://nationalarchives.gov.ph/wp-content/uploads/2015/04/NAP-Gen.-Circular-1-2-and-GRDS-2009.pdf).
+[https://nationalarchives.gov.ph/wp-content/uploads/2015/04/NAP-Gen.-Circular-1-2-and-GRDS-2009.pdf](https://nationalarchives.gov.ph/wp-content/uploads/2015/04/NAP-Gen.-Circular-1-2-and-GRDS-2009.pdf)).
 
 Ref No.: PDD-21-0069                                                NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021  
 _______________________________________________________________________________________________________________  
    5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+              URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                       4  
          1. The orientation shall include an overview on the proper handling of personal data that  
             comes to their knowledge and possession in the course of providing security services,  
@@ -296,7 +297,7 @@ following obligations:
 Ref No.: PDD-21-0069                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021  
 _______________________________________________________________________________________________________________  
   5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+             URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                   5  
     E. Inspection. PSAs acting as PIPs shall allow audits and inspections conducted by the PIC or  
        another auditor authorized by such PIC.
@@ -337,5 +338,5 @@ Approved:
 Ref No.: PDD-21-0069                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021  
 _______________________________________________________________________________________________________________  
   5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+             URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                   6

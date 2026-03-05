@@ -19,10 +19,10 @@ Topic pages are generated from lightweight keyword tagging. Treat them as starti
 - [[topics/legitimate-interest|Legitimate Interest]] (2 issuances)
 - [[topics/privacy-engineering|Privacy Engineering]] (1 issuances)
 - [[topics/registration|Registration]] (5 issuances)
-- [[topics/security|Security]] (5 issuances)
+- [[topics/security|Security]] (6 issuances)
 - [[topics/training-certification|Training Certification]] (5 issuances)
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add new handcrafted topic notes in this folder whenever the generated set is not enough.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

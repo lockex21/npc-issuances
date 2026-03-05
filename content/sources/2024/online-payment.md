@@ -1,20 +1,21 @@
 ---
-title: "Online Payment Source Text"
-description: "Generated extracted text for Online Payment."
+title: "Online Payment Raw Source Text"
+description: "Raw extracted text for Online Payment before manual annotation."
 aliases:
-  - "Online Payment Source Text"
+  - "Online Payment Raw Source Text"
 tags:
   - "source-text"
   - "year/2024"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2024/online-payment|Online Payment]]
-- PDF: [Open PDF](../../pdfs/Fees_Advisory_Final_15-March-2024.pdf)
+- Companion note: [[notes/2024/online-payment|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/03/Fees_Advisory_Final_15-March-2024.pdf
+- OCR used: no
 
 ## Extracted Text
                                    Republic of the Philippines  
@@ -31,7 +32,7 @@ can only be used until 25 March 2024.
 Starting from 25 March 2024, you can conveniently make online payments for the fees and  
 charges using LANDBANK Link.Biz.Portal:
 
-                         https://www.lbp-eservices.com/egps/portal/index.jsp
+                         [https://www.lbp-eservices.com/egps/portal/index.jsp](https://www.lbp-eservices.com/egps/portal/index.jsp)
 
 For the following Services, please send your request to:
 

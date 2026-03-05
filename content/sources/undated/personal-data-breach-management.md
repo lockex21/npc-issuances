@@ -1,20 +1,21 @@
 ---
-title: "Personal Data Breach Management Source Text"
-description: "Generated extracted text for Personal Data Breach Management."
+title: "Personal Data Breach Management Raw Source Text"
+description: "Raw extracted text for Personal Data Breach Management before manual annotation."
 aliases:
-  - "Personal Data Breach Management Source Text"
+  - "Personal Data Breach Management Raw Source Text"
 tags:
   - "source-text"
   - "year/undated"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]]
-- PDF: [Open PDF](../../pdfs/sgd-npc-circular-16-03-personal-data-breach-management.pdf)
+- Companion note: [[notes/undated/personal-data-breach-management|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/sgd-npc-circular-16-03-personal-data-breach-management.pdf
+- OCR used: no
 
 ## Extracted Text
                                  Republic of the Philippines  

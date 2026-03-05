@@ -2,10 +2,10 @@
 title: "Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response"
 description: "TO : ALL UNDERSECRETARIES, ASSISTANT SECRETARIES, DIRECTORS OF BUREAUS, REGIONAL OFFICES AND SERVICES; EXECUTIVE DIRECTORS OF SPECIALTY HOSPITALS, AND NATIONAL NUTRITION COUNCIL; CHIEFS OF MEDICAL CENTERS, HOSPITALS, SANITARIA AND__ INSTITUTES; PRESIDENT OF THE PHILIPPINE..."
 aliases:
-  - "Memorandum Circular No. 2020"
+  - "Memorandum Circular No. 2020-0003"
   - "guidelines on the monitoring and evaluation (m&e) of the use of telemedicine in covid-19 response"
-  - "memorandum circular no. 2020"
-  - "npc memorandum circular no. 2020"
+  - "memorandum circular no. 2020-0003"
+  - "npc memorandum circular no. 2020-0003"
 tags:
   - "issuance"
   - "type/memorandum-circular"
@@ -13,23 +13,9 @@ tags:
 draft: false
 ---
 
-> TO : ALL UNDERSECRETARIES, ASSISTANT SECRETARIES, DIRECTORS OF BUREAUS, REGIONAL OFFICES AND SERVICES; EXECUTIVE DIRECTORS OF SPECIALTY HOSPITALS, AND NATIONAL NUTRITION COUNCIL; CHIEFS OF MEDICAL CENTERS, HOSPITALS, SANITARIA AND__ INSTITUTES; PRESIDENT OF THE PHILIPPINE...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                              Republic of the Philippines  
+<!-- SEEDED ANNOTATED HASH: 715496ff75f93f60baf061c0c45c7dbc90a51616 -->
                                                Department of Health  
                                  OFFICE OF THE SECRETARY
 
@@ -68,10 +54,9 @@ Monitoring and Evaluation (M&E)  of
                                       Health Facilities and Infrastructure Development Team
 
      Building 1, San Lazaro Compound, Rizal Avenue; Sta. Cruz, 1003 Manila e Trunk Line 651-7800 local 1113, 1108, 1135  
-     Direct Line: 711-9502; 711-9503 Fax: 743-1829; 74351786 @ URL: http://www.doh.gov.ph; e-mail: fiduque@doh.gov.ph  
-                                    Republic of the Philippines  
-                             DEPARTMENT OF HEALTH  
-                          NATIONAL PRIVACY COMMISSION
+     Direct Line: 711-9502; 711-9503 Fax: 743-1829; 74351786 @ URL: [http://www.doh.gov.ph;](http://www.doh.gov.ph;) e-mail: fiduque@doh.gov.ph
+
+                             DEPARTMENT OF HEALTH
 
                                                                                 April 14, 2020
 
@@ -119,9 +104,9 @@ ILI. SCOPE AND COVERAGE
 telemedicine services during the period of Enhanced Community Quarantine; and shall cover  
 all public and private, national and local healthcare providers regulated by DOH and Philippine
 
-guet  
-Health Insurance Corporation (PhilHealth) providing telemedicine services; DOH-engaged  
-telemedicine partners; the Department of Health; and the National Privacy Commission.
+guet
+
+Health Insurance Corporation (PhilHealth) providing telemedicine services; DOH-engaged
 
 IV. DEFINITION OF TERMS
 
@@ -171,7 +156,8 @@ Circular:
         and other relevant monitoring and evaluation tools or solutions to ensure strategic  
         alignment and performance improvement.
 
-  x  
+  x
+
 VI. GUIDELINES
 
 A.   Implementation Governance  
@@ -225,7 +211,8 @@ C.   Monitoring
            (2)     required    documentations       and     reports   to    DOH       through  
             nationalehealthprogram@gmail.com     in a timely manner. (Annex 3.0)  
         b. Telemedicine partners can adopt their own monitoring tools and solutions apart  
-           from the DOH requirements.  
+           from the DOH requirements.
+
      3. NEHPMO  
         a. The NEHPMO shall: (i) receive and consolidate    all  
                                                               submitted documentations and  
@@ -272,8 +259,8 @@ quarantine      is
                 Department of Health  
                                        I, MD, MSc                 YMUND  
                                                                           E. LIBORO  
-                                                         Priva¢éy Commissioner and Chairman  
-                                                              National Privacy Commission  
+                                                         Priva¢éy Commissioner and Chairman
+
     Annex 1.0. Monitoring and Evaluation Indicators
 
  Dimensions       Indicators for Monitoring                Source/Method         Frequency of   Unit Responsible  
@@ -327,7 +314,8 @@ Measures
               COVID-19         health     concerns;  
               individual    health    facility   vs  
               individual physician; daily vs  
-              weekly)  
+              weekly)
+
               Clinical               classification        Submitted telemedicine     Weekly        NEHPMO,  
               (disaggregation: COVID-19 vs non-                    reports                           KMITS  
               COVID-19        health     concerns;  
@@ -382,13 +370,15 @@ Measures
               for access, provider disengagement,  
               etc.) - built in monitoring and  
               feedback mechanism in the platform  
-              for customer service  
+              for customer service
+
 # of security incidents and personal    Submitted telemedicine   Weekly   NEHPMO,  
 data breaches reported within NPC               reports                    KMITS  
 protocols      (incident    reporting  
 mechanism)
 
-—_  
+—_
+
 Annex    2.0. Performance Commitment for Healthcare Providers who are Unable to  
 Register with a DOH Telemedicine Partner
 
@@ -445,7 +435,8 @@ the following representations:
 
      8. That  I shall comply with all pertinent DOH COVID-19 and non-COVID-19 treatment
 
-     algorithms and guidelines, including patient surveillance.  
+     algorithms and guidelines, including patient surveillance.
+
       9. That I recognize that DOH and I shall be the controller of patients’ data, which remains                             to be  
       owned by   the     individual patients.
 
@@ -480,7 +471,8 @@ Very Truly Yours,
                                             Telemedicine platform being used
 
 Reference: Patdu, Ivy D. (19 March 2020). Privacy should not be an obstacle to           telemedicine.   Newsbytes.PH.   Retrieved from  
-http://newsbytes. ph/2020/03/patdu-privacy-should-not-be-an-obstacle-to-telemedicine/.  
+[http://newsbytes.](http://newsbytes.) ph/2020/03/patdu-privacy-should-not-be-an-obstacle-to-telemedicine/.
+
           Annex 3.0. Program Documentations and Reports for Submission by Telemedicine  
           Partners
 
@@ -534,7 +526,8 @@ PrN
                      Reasons for consultations received per healthcare provider (disaggregation: COVID-19 vs  
                      non-COVID-19 health concerns; individual health facility vs individual physician)  
                      Clinical classification (disaggregation: COVID-19 vs non-COVID-19 health concerns;  
-                     individual health facility vs individual physician)  
+                     individual health facility vs individual physician)
+
 }  
                  e Type of disposition per telemedicine consultation received (disaggregation: COVID-19 vs  
                    non-COVID-19 health concerns; individual health facility vs individual physician)
@@ -585,7 +578,8 @@ Name   of Physician
                     # of telemedicine provider complaints from healthcare providers closed  
                     Types  of telemedicine provider complaints (i.e. disengagement, etc.)  
                     # of security incidents and personal data breaches reported within NPC protocols (incident  
-                    reporting mechanism)  
+                    reporting mechanism)
+
 Name of Telemedicine Provider:
 
 Total # of LGUs engaged
@@ -615,7 +609,8 @@ Total # of physicians engaged
                                                                                  (Y/N)  
                                                                                           If no, indicate  
                                                                                               reason  
-                                                           complaint.  
+                                                           complaint.
+
 3.4. Performance Commitment for DOH Telemedicine Partners
 
                                   (Letterhead of Telemedicine Company)
@@ -670,7 +665,8 @@ the following representations:
  9.   That we shall ensure that reasonable and appropriate security measures are implemented to  
       safeguard the patients' and doctors’ data collected, used, stored, or otherwise processed using the  
       platform, against any accidental or unlawful destruction, alteration or disclosure as well as  
-      unlawful access, fraudulent misuse, or any other unauthorized processing.  
+      unlawful access, fraudulent misuse, or any other unauthorized processing.
+
  10.   That we shall train volunteer physicians to handle telemedicine consultations.
 
  I. That we shall first obtain the informed consent of the patient prior to the collection of any personal  
@@ -705,7 +701,8 @@ teleconsultations to those who  are
 
 Very Truly Yours,
 
-                         Authorized Representative of the Telemedicine Company  
+                         Authorized Representative of the Telemedicine Company
+
 3.5. Performance Commitment for Engaged Healthcare Providers by DOH Telemedicine  
 Partners
 
@@ -761,7 +758,8 @@ tv   That I shall only use a secure platform for medical consultation and referr
               shall have access.  
      7.2.     That I shall choose a place to conduct the telemedicine consultation beforehand, i.e.  
               conducive to communicating with the patient, and where interruptions or potential  
-              unwarranted disclosures are avoided.  
+              unwarranted disclosures are avoided.
+
  8.     That I shall comply with all pertinent DOH COVID-19 and non-COVID-19 treatment algorithms  
         and guidelines, including patient surveillance.  
 9.      That I recognize that DOH and | shall be the controller of patients’ data, which remains to be  
@@ -795,11 +793,11 @@ Very Truly Yours,
                                  Contact Details (i.e. address, phone number & email)
 
 Reference:      Patdu, Ivy D. (19 March 2020). Privacy should not be an obstacle to telemedicine.   Newsbytes.PH.   Retrieved from  
-      http://newsbytes.ph/2020/03/patdu-privacy-should-not-be-an-obstacle-to-telemedicine/.  
+      [http://newsbytes.ph/2020/03/patdu-privacy-should-not-be-an-obstacle-to-telemedicine/.](http://newsbytes.ph/2020/03/patdu-privacy-should-not-be-an-obstacle-to-telemedicine/.)
+
 _|  
          3.6. ICT Solutions Provider Request Form
 
-                                                       Republic of the Philippines  
                                                         Department of Health  
                                   KNOWLEDGE MANAGEMENT AND  
                                 INFORMATION TECHNOLOGY SERVICE  
@@ -843,7 +841,8 @@ Category                        O Service/ICT Consultancy                     O 
                                 O Others (please specify):
 
             Building 9, San Lazaro Compound, Rizal Avenue, Sta. Cruz, 1003 Manila e Trunk Line 651-7800 Local 1947, 1926, and 1923  
-                                                         URL: http://www.doh.gov.ph  
+                                                         URL: [http://www.doh.gov.ph](http://www.doh.gov.ph)
+
 Health System              O Data warehousing and business intelligence.  
 Dimensions   that the      0 Disease prevention and control, and health protection.  
 ICT   Solution aims to     O Epidemiological surveillance and response.  
@@ -902,7 +901,8 @@ Other Details              OYes
                                                  Is  
                                                       this your first time to send this request form?  
                                                  Do you have any government procurement experience?  
-                                                 Is your organization a past or current DOH contractor?  
+                                                 Is your organization a past or current DOH contractor?
+
                          O Yes         (No -         Does your organization have a Data Protection Officer?  
                                                      If yes, please indicate name and contact details:  
                          OYes          ONo       -   Any conflict of interest?  
@@ -940,7 +940,8 @@ Noted by
       Instructions:  
       E-mail a scanned copy of this form and presentation to nationalehealthprogram@doh.gov.ph  
       For more information, you may access FAQ’s         for  
-                                                        ICT Solutions Provider: bit.l\y/DOHictspF AQ  
+                                                        ICT Solutions Provider: bit.l\y/DOHictspF AQ
+
        3.7. Telemedicine Program Profile Template
 
                                 TELEMEDICINE PROGRAM PROFILE
@@ -971,7 +972,8 @@ AND CONTACT INFORMATION
 
 MONITORING AND    EVALUATION  
 MECHANISMS               FOR  
-PERFORMANCE/QUALITY  
+PERFORMANCE/QUALITY
+
  Annex 4.0 Recommended Templates  
 4.1. Clinical Abstract/Consultation Summary Template
 
@@ -1024,7 +1026,8 @@ House #/Bldg.       Street                            City/Municipality         
 Name  
 Country                              Office Phone No.                              Cellphone No.
 
-6. Travel History  
+6. Travel History
+
 History of travel/visit/work in other countries with known COVID-19 transmission14 days prior to onset of  
 signs and symptoms:  
   (   )Yes ( )No                                   Port of exit:  
@@ -1105,7 +1108,8 @@ Specimen Collected
                                                                                                                                                                   RT  
                                                                                                                                                                   PCR  
                                                                                                                                                                  Result  
-                                                                                           laboratory  
+                                                                                           laboratory
+
                                                                                                            or any accredited  
                                                                                                                laboratory
 
@@ -1175,7 +1179,8 @@ Name & Digital Signature of Physician:                                          
     3.       Confirmed case    —  
                                   any individual, irrespective of presence or absence of clinical signs and symptoms, who was laboratory confirmed  
              for COVID-19 in a test conducted at the national reference laboratory, a subnational reference laboratory, and/or DOH-certified  
-             laboratory testing facility.  
+             laboratory testing facility.
+
 4.2. Patient Satisfaction Survey Form
 
 Name   of Patient:  
@@ -1212,7 +1217,8 @@ Date of Consultation:
        again?
 
   7.   Suggestions     and  
-       recommendations  
+       recommendations
+
 4.3. Sample Informed Consent
 
          AUTHORIZATION AND CONSENT             TO PARTICIPATE IN TELEMEDICINE  
@@ -1267,8 +1273,8 @@ guidelines on privacy and data protection.
 Impormasyong Pang-medikal at Mga Talaan. Lahat ng mga umiiral na batas tungkol sa inyong  
 pagkuha ng impormasyong pang-medikal at ng inyong mga talaang pang-medikal ay naaangkop sa  
 konsultasyong telemedicine na ito. Bukod dito, ang pagpapakalat ng mga larawan ng pasyente at  
-impormasyon sa pakikipag-ugnayang telemedicine na ito sa mga mananaliksik at ibang tao ay hindi  
-0  
+impormasyon sa pakikipag-ugnayang telemedicine na ito sa mga mananaliksik at ibang tao ay hindi
+
 mangyayari nang wala ang inyong pagsang-ayon, maliban na lamang kung ito ay pinahihintulutan ng  
 mga umiiral na batas, polisiya at  
                                alintuntunin tungkol sa privacy and data protection.
@@ -1330,7 +1336,8 @@ mga tanong ay nasagot. Nauunawaan ko ang mga impormasyong nakasulat           sa
                                                                           itaas.
 
 Signature:  
-Lagda  
+Lagda
+
                                                                               Date:  
               (or person authorized to give consent)  
         Patient                                                               Petsa:  
@@ -1347,26 +1354,10 @@ Witness:                                                                    Date
 Saksi:                                                                      Petsa:
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Memorandum Circular No. 2020
-- Type: Memorandum Circular
-- Year: 2020
-- Issued: Unknown
-- Pages: 28
-- Source PDF: [Open PDF](../../pdfs/MC2020-0024-1.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2021/11/MC2020-0024-1.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Generated source text]]
-
-### Automatic References Out
-- [[issuances/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Use of Telemedicine in COVID-19 Response]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Analysis and metadata]]
+- Raw source text: [[sources/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/11/MC2020-0024-1.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

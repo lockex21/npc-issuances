@@ -1,20 +1,21 @@
 ---
-title: "Security of Personal Data in Government Agencies Source Text"
-description: "Generated extracted text for Security of Personal Data in Government Agencies."
+title: "Security of Personal Data in Government Agencies Raw Source Text"
+description: "Raw extracted text for Security of Personal Data in Government Agencies before manual annotation."
 aliases:
-  - "Security of Personal Data in Government Agencies Source Text"
+  - "Security of Personal Data in Government Agencies Raw Source Text"
 tags:
   - "source-text"
   - "year/undated"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/undated/security-of-personal-data-in-government-agencies|Security of Personal Data in Government Agencies]]
-- PDF: [Open PDF](../../pdfs/Sgd-NPC-Circular-16-01-Security-of-Personal-Data-in-Government-Agencies.pdf)
+- Companion note: [[notes/undated/security-of-personal-data-in-government-agencies|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-01-Security-of-Personal-Data-in-Government-Agencies.pdf
+- OCR used: no
 
 ## Extracted Text
                                 Republic of the Philippines  

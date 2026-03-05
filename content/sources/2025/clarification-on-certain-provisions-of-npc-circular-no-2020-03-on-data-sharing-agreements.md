@@ -1,20 +1,21 @@
 ---
-title: "Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements Source Text"
-description: "Generated extracted text for Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements."
+title: "Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements Raw Source Text"
+description: "Raw extracted text for Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements before manual annotation."
 aliases:
-  - "Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements Source Text"
+  - "Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements Raw Source Text"
 tags:
   - "source-text"
   - "year/2025"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements]]
-- PDF: [Open PDF](../../pdfs/SGD-2025-01-DSA-Clarification.pdf)
+- Companion note: [[notes/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2025/07/SGD-2025-01-DSA-Clarification.pdf
+- OCR used: no
 
 ## Extracted Text
                                   Republic of the Philippines  
@@ -64,7 +65,7 @@ guided by the following clarifications:
        disclosure, or transfer of personal data that is already authorized or required by law.
 
 Ref No.: PDD-25-00268                                     NPC_PPO_PDD_AdTem-V2.0, R1.0, 24 March 2025  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
     B. Data sharing is a form of processing. As with any personal data processing activity, it  
        should be based on any of the criteria for lawful processing under Sections 12 or 13 of  
        the DPA or allowed pursuant to the special cases provided in Section 4 of the DPA.
@@ -100,6 +101,6 @@ Approved:
         Deputy Privacy Commissioner                       Deputy Privacy Commissioner
 
 Ref No.: PDD-25-00268                                   NPC_PPO_PDD_AdTem-V2.0, R1.0, 24 March 2025  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
                                                                                                   2

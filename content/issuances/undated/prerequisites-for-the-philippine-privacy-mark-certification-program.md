@@ -11,27 +11,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, Section 2 of Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy, of communication while ensuring free flow of information to promote innovation and...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                               Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION  
-                         5th Floor, Philippine International Convention Center,  
-                         Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: 3f69ab3482c6544aac6ddf19efe988bc073454c0 -->
 NPC Circular 2023-05
 
 Date           :       25 October 2023
@@ -78,8 +60,6 @@ personal information processors (PIPs) that will seek certification under the PP
 Program, and to all Certification Bodies (CBs) that will seek accreditation under the PPM  
 Certification Program.
 
-                                                            NPC_DIT_CRLR-V1.0, R1.0, 01 September 2023  
-          URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 SECTION 2. Purpose. This Circular provides the prerequisites for certification of PICs or PIPs  
 and accreditation of CBs under the PPM Certification Program.
 
@@ -128,8 +108,6 @@ Certification Program, a CB must be certified with the following standards:
           improving a PIMS in the form of an extension to ISO/IEC 27001 and ISO/IEC 27002  
           (which provides a reference set of generic information security controls including
 
-                                                           NPC_DIT_CRLR-V1.0, R1.0, 01 September 2023  
-URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
         implementation guidance) for privacy management within the context of the  
         organization; and  
 III.    ISO/IEC 17021-1: Conformity assessment – Requirements for bodies providing audit  
@@ -170,31 +148,12 @@ newspaper of general circulation.
              SGD                                                             SGD  
 LEANDRO ANGELO Y. AGUIRRE                                           NERISSA N. DE JESUS  
   Deputy Privacy Commissioner                                     Deputy Privacy Commissioner
-
-                                                           NPC_DIT_CRLR-V1.0, R1.0, 01 September 2023  
-URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: None detected
-- Type: Circular
-- Year: undated
-- Issued: Unknown
-- Pages: 3
-- Source PDF: [Open PDF](../../pdfs/Prerequisites-for-the-Philippine-Privacy-Mark-Signed.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2024/03/Prerequisites-for-the-Philippine-Privacy-Mark-Signed.pdf
-- Topic pages: [[topics/training-certification|Training Certification]]
-- Generated source note: [[sources/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/undated/prerequisites-for-the-philippine-privacy-mark-certification-program]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Analysis and metadata]]
+- Raw source text: [[sources/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/03/Prerequisites-for-the-Philippine-Privacy-Mark-Signed.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

@@ -15,6 +15,6 @@ Generated notes for **2021**.
 - [[issuances/2021/2021-rules-of-procedure-of-the-npc|2021 Rules of Procedure of the NPC]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add year-specific context, milestones, or legislative notes here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

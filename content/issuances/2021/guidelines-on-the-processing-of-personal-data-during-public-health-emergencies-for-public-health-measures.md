@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> SUBJECT : GUIDELINES ON THE PROCESSING OF PERSONAL DATA DURING PUBLIC HEALTH EMERGENCIES FOR PUBLIC HEALTH MEASURES
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                                       Republic of the Philippines  
-                                        NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 16e57753f95fffd2fed0bb8f11b5a36a9e4c6e8b -->
 NPC Circular No. 2021-02
 
 DATE                        :     08 November 2021
@@ -76,10 +60,6 @@ during public health emergencies.
 SECTION 1. Scope. —The provisions of this Circular shall apply to all personal information  
 controllers (PICs) and personal information processors (PIPs) engaged in the processing of
 
-Ref No.: PDD-21-0081                                                                            NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05May 2021
-
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 personal data during the COVID-19 public health emergency within the general framework  
 of the necessary public health measures.
 
@@ -124,7 +104,7 @@ defined, as follows:
 
 1 See: International Organization for Standardization, ISO/TS 23029:2020(en) Web-service-based application programming
 
-interface (WAPI) in financial services, available at https://www.iso.org/obp/ui/#iso:std:iso:ts:23029:ed-1:v1:en (last accessed  
+interface (WAPI) in financial services, available at [https://www.iso.org/obp/ui/#iso:std:iso:ts:23029:ed-1:v1:en](https://www.iso.org/obp/ui/#iso:std:iso:ts:23029:ed-1:v1:en) (last accessed  
 June 19, 2021).  
 2 Department of Health, Update Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease (COVID-
 
@@ -133,11 +113,8 @@ June 19, 2021).
 
 Making Operations [[[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-01]]], § 3 (F): “Data Processing System” refers to a structure and procedure by which  
 personal data is collected and further processed in an information and communications system or relevant filing system,  
-including the purpose and intended output of the processing.  
-Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
+including the purpose and intended output of the processing.
 
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          Adverse Event Following Immunization (AEFI) and indemnification as covered under  
          the Republic Act No. 11525 or the or the COVID-19 Vaccination Program Act of 2021;4
 
@@ -186,16 +163,12 @@ Ref No.: PDD-21-0081                                                            
 Act No. 11525 [Joint Administrative Order No. 2021-0001], § V (E), (March 26, 2021).  
 5 See: NSW State Archives, Decommissioning systems: records and information management considerations, available at
 
-https://www.records.nsw.gov.au/recordkeeping/advice/decommissioning-systems#:~:text=Decommissioning%20is%20a%  
-20process%20by,from%20use%20in%20an%20organisation (last accessed June 19, 2021).  
-6 Department of Health (DOH) and National Privacy Commission (NPC), Privacy Guidelines on the Processing and
+[https://www.records.nsw.gov.au/recordkeeping/advice/decommissioning-systems#:~:text=Decommissioning%20is%20a%](https://www.records.nsw.gov.au/recordkeeping/advice/decommissioning-systems#:~:text=Decommissioning%20is%20a%)  
+20process%20by,from%20use%20in%20an%20organisation (last accessed June 19, 2021).
 
 Disclosure of COVID-19 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002  
-(April 24, 2020).  
-Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
+(April 24, 2020).
 
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
             instructed by another person or organization; or  
          2. A natural person who processes personal data in connection with his or her  
             personal, family, or household affairs;
@@ -245,13 +218,9 @@ Ref No.: PDD-21-0081                                                            
 7 See: European Union Agency For Network And Information Security, Readiness Analysis for the Adoption and Evolution
 
 of Privacy Enhancing Technologies Methodology, Pilot Assessment,                                        and     Continuity          Plan,   available   at  
-https://www.enisa.europa.eu/publications/pets (last accessed October 5, 2021).  
+[https://www.enisa.europa.eu/publications/pets](https://www.enisa.europa.eu/publications/pets) (last accessed October 5, 2021).  
 8 Ibid.
 
-Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
-
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
      X. “Public Health Authority” refers to the Department of Health (DOH), specifically the  
         Epidemiology Bureau, Disease Prevention and Control Bureau, Bureau of Quarantine  
         and International Health Surveillance, Health Emergency Management Bureau, Food  
@@ -301,14 +270,11 @@ Health Events of Public Health Concern Act], Republic Act No. 11332, § 3 (k) (2
 10 Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern Act, § 3 (l).  
 11 See: International Organization for Standardization, ISO/TR 26999:2012(en), Intelligent transport systems, § 2.15, available
 
-at https://www.iso.org/obp/ui/#iso:std:iso:tr:26999:ed-1:v1:en (last accessed October 19, 2021).  
+at [https://www.iso.org/obp/ui/#iso:std:iso:tr:26999:ed-1:v1:en](https://www.iso.org/obp/ui/#iso:std:iso:tr:26999:ed-1:v1:en) (last accessed October 19, 2021).  
 12 See: International Organization for Standardization, ISO/IEC/IEEE 24765:2017(en), Systems and software engineering, §
 
-3.4290, available at https://www.iso.org/obp/ui/#iso:std:iso-iec-ieee:24765:en (last accessed October 19, 2021).  
-Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
+3.4290, available at [https://www.iso.org/obp/ui/#iso:std:iso-iec-ieee:24765:en](https://www.iso.org/obp/ui/#iso:std:iso-iec-ieee:24765:en) (last accessed October 19, 2021).
 
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 tracing, treatment, and activities relating to vaccine deployment, is recognized, and shall be  
 governed by the following principles:
 
@@ -351,20 +317,15 @@ emergencies:
 
 13 See generally: Cavoukian, Ann Ph.D., Privacy by Design - The 7 Foundational Principles - Implementation and Mapping
 
-of Fair Information Practices, available at https://iapp.org/media/pdf/resource_center/pbd_implement_7found_principles.pdf  
+of Fair Information Practices, available at [https://iapp.org/media/pdf/resource_center/pbd_implement_7found_principles.pdf](https://iapp.org/media/pdf/resource_center/pbd_implement_7found_principles.pdf)  
 (last accessed 21 Jan 2021) and An Act Protecting Individual Personal Information in Information and Communications  
 Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other  
 Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 20 (2012).  
 14 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
 
-the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of  
 2012], Republic Act No. 10173 § 16 (2012); Rules and Regulations Implementing the Data Privacy Act of 2012, Republic  
-Act No. 10173, § 34-37 (2016); and National Privacy Commission, Data Subject Rights [[[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]]]  
-(January 29, 2021).  
-Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
+(January 29, 2021).
 
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 SECTION 5. Further processing; limitation. — Further processing of personal data may be  
 allowed in instances which are compatible or consistent with the response to public health  
 emergencies as part of public health measures, such as but not limited to historical, statistical,  
@@ -410,19 +371,15 @@ government units or the private sector, shall be limited to the following:
 
 15 See generally: Council of Europe, Explanatory Report to the Protocol amending the Convention for the Protection of
 
-Individuals with regard to Automatic Processing of Personal Data, available at https://rm.coe.int/cets-223-explanatory-report-  
+Individuals with regard to Automatic Processing of Personal Data, available at [https://rm.coe.int/cets-223-explanatory-report-](https://rm.coe.int/cets-223-explanatory-report-)  
 to-the-protocol-amending-the-convention-fo/16808ac91a (last accessed 29 September 2021).  
 16 See: National Privacy Commission, JV v. JR, NPC Case No. 17-047 (August 13, 2019) available at
 
-https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf  
-17 Department of Health (DOH) and National Privacy Commission (NPC), Privacy Guidelines on the Processing and
+[https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf](https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf)
 
 Disclosure of COVID-19 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002,  
-§ VI (F), (April 24, 2020).  
-Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
+§ VI (F), (April 24, 2020).
 
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          Tracing Form provided for under the Department of Trade and Industry (DTI) and  
          Department of Labor and Employment (DOLE) Supplemental Guidelines on  
          Workplace Prevention and Control of COVID-19, Joint Memorandum Circular No. 20-  
@@ -476,10 +433,6 @@ A] (Aug 15, 2020).
 No. 11525 [Joint Administrative Order No. 2021-0001], § VII (J) (1), (March 26, 2021).  
 20 Id. § VII (J) (3).
 
-Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
-
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
         status of such remediation efforts.
 
 SECTION 8. Privacy Notice. — PICs shall ensure transparency in all personal data processing  
@@ -528,11 +481,8 @@ relevant information made readily available to the data subjects.
     E. PICs shall regularly review and update their privacy notice to ensure that it properly  
        reflects the actual processing of personal data for the implementation of public health  
        measures. Where there are changes in the scope, purpose, nature, or extent of the  
-       processing, PICs must ensure that the data subjects are adequately informed of the  
-Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
+       processing, PICs must ensure that the data subjects are adequately informed of the
 
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          same within a reasonable time: provided, that the period shall not exceed thirty (30)  
          business days.
 
@@ -579,15 +529,11 @@ personal data processed against accidental, unlawful, or unauthorized use or acc
        that will be processed without diminishing functionality. PICs shall consider the  
        following recommended measures:
 
-21 See: National Privacy Commission, ECA v. XXX, NPC 18-103 (July 23, 2020) available at https://www.privacy.gov.ph/wp-
+21 See: National Privacy Commission, ECA v. XXX, NPC 18-103 (July 23, 2020) available at [https://www.privacy.gov.ph/wp-](https://www.privacy.gov.ph/wp-)
 
 content/uploads/2020/12/NPC-18-103-ECA-v-XXX-Decision-ADJU1.pdf.  
 22 Data Privacy Act of 2012, § 20 (2012).
 
-Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
-
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          1. Requirements. PICs shall determine the appropriate requirements for the CTAs and  
             Vaccine Card Systems including, but not limited to, the types and amount of  
             personal data to be processed, the minimum application permissions required,  
@@ -634,11 +580,8 @@ Ref No.: PDD-21-0081                                                            
             meant to be accessible. Testing should not be limited to functional tests but also  
             security tests such as vulnerability scanning, code quality checks, (static and  
             dynamic) code analysis tools, and source code scanning for libraries and  
-            developed code; and  
-Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
+            developed code; and
 
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          6. Information Security Incident Management Policy. PICs shall implement policies and  
             procedures for managing security incidents in accordance with NPC Circular No. 16-03.23 The policies and procedures shall contain a process for assessing  
             reasonably foreseeable vulnerabilities in computer networks as well as identifying  
@@ -688,11 +631,8 @@ closure of COVID-19 Related Data for Disease Surveillance and Response, Joint Me
 (C), (April 24, 2020).  
 25 See generally: Department of Health, Omnibus Interim Guidelines on Prevention, Detection, Isolation Treatment, and
 
-Reintegration Strategies for COVID-19 [Department Memorandum No. 2020-0439] (Oct 6, 2020).  
-Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
+Reintegration Strategies for COVID-19 [Department Memorandum No. 2020-0439] (Oct 6, 2020).
 
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
               platforms without the consent of the patient or vaccinee or his/her authorized  
               representative or next of kin, shall be strictly prohibited.
 
@@ -740,15 +680,12 @@ Systems. — Policies on disposal and decommissioning shall be implemented by al
 27 See: National Privacy Commission, NPC Advisory Opinion No. 2020-054 (Dec. 28, 2020).  
 28 See: Department of Health, The Revised Disposition Schedule of Medical Records Amending Ministry Circular 77, s. 1981
 
-[Department Circular No. 70, s.1996] (May 8, 1996) available at https://zcwdv320190208-dot-efoi-  
+[Department Circular No. 70, s.1996] (May 8, 1996) available at [https://zcwdv320190208-dot-efoi-](https://zcwdv320190208-dot-efoi-)  
 ph.appspot.com/requests/aglzfmVmb2ktcGhyHQsSB0NvbnRlbnQiEERPSC0yNDIzOTEyNzUzMDIM; Department of  
 Health National Center for Health Facility Development, Hospital Health Information Management Manual (2010) available  
-at http://ehealth.doh.gov.ph/nehehrsv/sys/assets/HOSPITAL%20HEALTH%20INFORMATION%20MANAGEMENT%20  
-MANUAL%20formerly%20HOSPITAL%20MEDICAL%20RECORDS%20MANAGEMENT%20MANUAL.pdf.  
-Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
+at [http://ehealth.doh.gov.ph/nehehrsv/sys/assets/HOSPITAL%20HEALTH%20INFORMATION%20MANAGEMENT%20](http://ehealth.doh.gov.ph/nehehrsv/sys/assets/HOSPITAL%20HEALTH%20INFORMATION%20MANAGEMENT%20)  
+MANUAL%20formerly%20HOSPITAL%20MEDICAL%20RECORDS%20MANAGEMENT%20MANUAL.pdf.
 
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
         lifted, adopting applicable industry standards. CTAs or Vaccine Card Systems shall  
         not be repurposed unless otherwise provided by law and subject to the condition that  
         all categories of personal data previously collected and stored for contact tracing and  
@@ -793,34 +730,12 @@ Approved:
                    Sgd.                                                                               Sgd.  
      LEANDRO ANGELO Y. AGUIRRE                                                             JOHN HENRY D. NAGA  
        Deputy Privacy Commissioner                                                        Deputy Privacy Commissioner
-
-Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
-
-                       5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2021-02
-- Type: Circular
-- Year: 2021
-- Issued: Unknown
-- Pages: 14
-- Source PDF: [Open PDF](../../pdfs/Circular-on-Processing-for-Public-Health-Emergencies-FINAL.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2021/11/Circular-on-Processing-for-Public-Health-Emergencies-FINAL.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Generated source text]]
-
-### Automatic References Out
-- [[issuances/2021/data-subject-rights|Data Subject Rights]]
-- [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Analysis and metadata]]
+- Raw source text: [[sources/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/11/Circular-on-Processing-for-Public-Health-Emergencies-FINAL.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

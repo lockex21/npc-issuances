@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> SUBJECT: PROTOCOLS FOR THE PUBLICATION OF DECISIONS, RESOLUTIONS AND ORDERS ON THE NPC WEBSITE
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                    Republic of the Philippines  
-                           NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 22addf411a0bd4b60370e6d9b1ad4fa24c7dcb57 -->
 NPC ADVISORY 2020-01
 
 SUBJECT:      PROTOCOLS FOR THE PUBLICATION OF DECISIONS, RESOLUTIONS  
@@ -63,9 +47,7 @@ SECTION 1. SCOPE OF PUBLICATION
    a) These guidelines shall cover all Commission Decisions, Resolutions and Orders issued by  
       the Commission En Banc.
 
-   b) The following shall not be published on the NPC the website:  
-                                     Republic of the Philippines  
-                           NATIONAL PRIVACY COMMISSION
+   b) The following shall not be published on the NPC the website:
 
           i.   Cases decided on the basis of compromise agreements, mediated settlement  
                agreements, quitclaims and other modes of alternative dispute resolutions as these  
@@ -101,9 +83,7 @@ The Commission Decisions, Resolutions and Orders shall be prepared accordingly:
       of preparing the second version:
 
          i.    The complete names of data subjects shall be replaced with fictitious initials in all  
-               mentions within the case. This may either follow the initials of the data subject, or  
-                                  Republic of the Philippines  
-                        NATIONAL PRIVACY COMMISSION
+               mentions within the case. This may either follow the initials of the data subject, or
 
             any combinations of letters are allowed so long as it will not identify, directly or  
             indirectly, the individual/parties within the case.
@@ -132,26 +112,10 @@ Issued this 18th day of June 2020.
       Deputy Privacy Commissioner                       Deputy Privacy Commissioner
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2020-01
-- Type: Advisory
-- Year: 2020
-- Issued: Unknown
-- Pages: 3
-- Source PDF: [Open PDF](../../pdfs/NPC-Advisory-2020-01-FINAL.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-2020-01-FINAL.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Analysis and metadata]]
+- Raw source text: [[sources/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-2020-01-FINAL.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

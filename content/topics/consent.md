@@ -11,6 +11,6 @@ Auto-generated topic cluster for **Consent**.
 - [[issuances/2023/guidelines-on-consent|Guidelines on Consent]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own synthesis, definitions, and extra wikilinks here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

@@ -11,6 +11,6 @@ Auto-generated topic cluster for **Legitimate Interest**.
 - [[issuances/2023/faq-guidelines-on-legitimate-interest|FAQ Guidelines on Legitimate Interest]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own synthesis, definitions, and extra wikilinks here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

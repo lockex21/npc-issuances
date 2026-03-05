@@ -13,6 +13,7 @@ Generated notes for **undated**.
 - [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|Rules on Mediation before the National Privacy Commission]] (Circular No. 18-03)
 - [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|Rules of procedure on requests for Advisory Opinions]] (Circular No. 18-01)
 - [[issuances/undated/rules-of-procedure|Rules of Procedure]] (Circular No. 16-04)
+- [[issuances/undated/registration-of-data-processing-systems-appendix-1|Registration of Data Processing Systems Appendix 1]]
 - [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems]] (Circular No. 17-01)
 - [[issuances/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Prerequisites for the Philippine Privacy Mark Certification Program]]
 - [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]] (Circular No. 16-03)
@@ -23,6 +24,6 @@ Generated notes for **undated**.
 - [[issuances/undated/faq-data-privacy-competency-program|FAQ Data Privacy Competency Program]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add year-specific context, milestones, or legislative notes here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

@@ -11,27 +11,9 @@ tags:
 draft: false
 ---
 
-> Circular on Data Privacy Competency Program Questions Raised During the Public Consultation on 16 June 2023
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                 Republic of the Philippines  
-                            NATIONAL PRIVACY COMMISSION  
-                           5th Floor, Philippine International Convention Center,  
-                           Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: 177216eb007982610a87f04795bae240ca67ebdc -->
                        Circular on Data Privacy Competency Program  
                Questions Raised During the Public Consultation on 16 June 2023
 
@@ -77,8 +59,6 @@ I. DPO ACE and T3 Programs
         that           “Any         January 2019, the concepts and interpretation that were  
         qualifications              taught may no longer be applicable to how the NPC is
 
-Ref No.: DPCP-24-00003                                           NPC_DIT_GT-V1.0, R1.0, 01 September 2023  
-            URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          acquired under the interpreting certain concepts under the Data Privacy Act  
          DPO ACE training (DPA).  
          shall remain valid  
@@ -129,8 +109,6 @@ II. Nature of License
      2. Will there be a Yes, there will be a different one.  
         different license for
 
-Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R1.0, 01 September 2023  
-            URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          each    Curriculum The License or the Agreement that the NPC and the  
          developed by the Training Providers will enter into will be on a per course or  
          NPC?               per curriculum basis.
@@ -180,8 +158,6 @@ III. Formal and Written Agreement
         coterminous    with  
         the License granted
 
-Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R1.0, 01 September 2023  
-            URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          to    a         Training The suspension, revocation, or termination of the License  
          Provider?                will also have the same effect on the formal written  
                                   Agreement.
@@ -231,8 +207,6 @@ IV. Consultative Body
         members of the  
         Consultative Body
 
-Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R1.0, 01 September 2023  
-            URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          are competent and The Commission En Banc will then vet the nominees and  
          knowledgeable in appoint those individuals who are best fit to be members of  
          data privacy?     the Consultative Body.
@@ -286,8 +260,6 @@ Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R
          and           cybersec  
          experts, etc.?
 
-Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R1.0, 01 September 2023  
-            URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 V. Royalties  
           Question                                      Answer  
     1. Why is the NPC With this new Program, the NPC will develop a uniform  
@@ -335,8 +307,6 @@ VII. Qualification Requirements of Training Providers and Trainers
         trainers to be experts The NPC will assess the competency of the Training  
         in data privacy?       Providers by monitoring their reportorial submissions,
 
-Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R1.0, 01 September 2023  
-            URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                    feedback of their students, passing rate of their students,  
                                    and the like.
 
@@ -384,8 +354,6 @@ VIII. Training Course and Materials
          that are subject to lesson plan to provide students the information and training  
          the NPC’s approval? they enrolled for.
 
-Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R1.0, 01 September 2023  
-            URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
      3. Should a Training          No, a Training Provider need not seek approval for  
         Provider seek the          changes so long as their course still adheres to the  
         NPC’s      approval        minimum standards in the uniform curriculum.  
@@ -436,8 +404,6 @@ IX. Exam / Completion
         preparation     and        avoid appearances of partiality or bias.  
         design of an exam?
 
-Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R1.0, 01 September 2023  
-            URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
      4. May a Training No, it will only be the NPC that will conduct that exam.  
         Provider conduct an  
         exam prepared by  
@@ -487,8 +453,6 @@ X. Additional Questions during the Public Consultation
         Program      being courses offered by the regulator is not new. There is  
         practiced in other something similar in Singapore where the Personal Data
 
-Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R1.0, 01 September 2023  
-            URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          countries/                Protection Commission (PDPC) provides some kind of DPA  
          jurisdictions?            101 that can be used by practitioners as a jumping off point  
                                    to further their growth in this field. The practitioners can  
@@ -540,8 +504,6 @@ Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R
         determine the range The NPC will discuss that with the different Training  
         of royalties? Will it Providers to see what rate, in their opinion, would be fair.
 
-Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R1.0, 01 September 2023  
-            URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          be based on the  
          training         fee      As it is based on the training fee, the NPC will ask the  
          collected? If yes,        Training Providers to submit the list of all the students or  
@@ -594,8 +556,6 @@ Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R
          take a particular without enrolling with a particular Training Provider. The  
          NPC Exam even if Exam will test the level of understanding of different
 
-Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R1.0, 01 September 2023  
-            URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          he/she did not enroll students in relation to the course being taught to them by a  
          in an accredited NPC Training Provider.  
          trainer?
@@ -617,31 +577,12 @@ Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R
          they required to before he/she can act as a privacy professional.  
          enroll to private  
          trainers?
-
-Ref No.: DPCP-24-00003                                        NPC_DIT_GT-V1.0, R1.0, 01 September 2023  
-            URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: None detected
-- Type: FAQ
-- Year: undated
-- Issued: Unknown
-- Pages: 12
-- Source PDF: [Open PDF](../../pdfs/FAQs-Circular-on-Data-Privacy-Competency-Program-Final.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2024/01/FAQs-Circular-on-Data-Privacy-Competency-Program-Final.pdf
-- Topic pages: [[topics/training-certification|Training Certification]]
-- Generated source note: [[sources/undated/faq-data-privacy-competency-program|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/undated/faq-data-privacy-competency-program]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/undated/faq-data-privacy-competency-program|Analysis and metadata]]
+- Raw source text: [[sources/undated/faq-data-privacy-competency-program|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/FAQs-Circular-on-Data-Privacy-Competency-Program-Final.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

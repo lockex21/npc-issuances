@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on the Use of Closed-circuit Television (CCTV) Systems (This Advisory has been repealed by NPC Circular No. 2024-02 - Closed-Circuit Television (CCTV) Systems.) Source Text"
-description: "Generated extracted text for Guidelines on the Use of Closed-circuit Television (CCTV) Systems (This Advisory has been repealed by NPC Circular No. 2024-02 - Closed-Circuit Television (CCTV) Systems.)."
+title: "Guidelines on the Use of Closed-circuit Television (CCTV) Systems (This Advisory has been repealed by NPC Circular No. 2024-02 - Closed-Circuit Television (CCTV) Systems.) Raw Source Text"
+description: "Raw extracted text for Guidelines on the Use of Closed-circuit Television (CCTV) Systems (This Advisory has been repealed by NPC Circular No. 2024-02 - Closed-Circuit Television (CCTV) Systems.) before manual annotation."
 aliases:
-  - "Guidelines on the Use of Closed-circuit Television (CCTV) Systems (This Advisory has been repealed by NPC Circular No. 2024-02 - Closed-Circuit Television (CCTV) Systems.) Source Text"
+  - "Guidelines on the Use of Closed-circuit Television (CCTV) Systems (This Advisory has been repealed by NPC Circular No. 2024-02 - Closed-Circuit Television (CCTV) Systems.) Raw Source Text"
 tags:
   - "source-text"
   - "year/2020"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Guidelines on the Use of Closed-circuit Television (CCTV) Systems (This Advisory has been repealed by NPC Circular No. 2024-02 - Closed-Circuit Television (CCTV) Systems.)]]
-- PDF: [Open PDF](../../pdfs/Advisory-on-CCTV-16NOV2020-FINAL.pdf)
+- Companion note: [[notes/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/11/Advisory-on-CCTV-16NOV2020-FINAL.pdf
+- OCR used: no
 
 ## Extracted Text
                                      Republic of the Philippines  
@@ -65,7 +66,7 @@ shall have their respective meanings as hereinafter set forth:
       privileged information is processed;
 
                    5/F Delegation Building, PICC Complex, Vicente Sotto St., Pasay City  
-                      URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph  
+                      URL: [https://privacy.gov.ph](https://privacy.gov.ph) Email Add: info@privacy.gov.ph  
     E. “Masking” refers to concealing parts of the video or still imagery from view, which  
        may include masking certain body parts or inanimate objects that could potentially  
        disclose the identity of an individual. The common types of masking include solid  

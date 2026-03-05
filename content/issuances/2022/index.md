@@ -15,6 +15,6 @@ Generated notes for **2022**.
 - [[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions]] (Circular No. 2022)
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add year-specific context, milestones, or legislative notes here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

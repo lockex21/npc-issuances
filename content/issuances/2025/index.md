@@ -13,6 +13,6 @@ Generated notes for **2025**.
 - [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements]] (Circular No. 2020-03)
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add year-specific context, milestones, or legislative notes here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

@@ -1,20 +1,21 @@
 ---
-title: "Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response Source Text"
-description: "Generated extracted text for Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response."
+title: "Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response Raw Source Text"
+description: "Raw extracted text for Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response before manual annotation."
 aliases:
-  - "Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response Source Text"
+  - "Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response Raw Source Text"
 tags:
   - "source-text"
   - "year/2020"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response]]
-- PDF: [Open PDF](../../pdfs/Advisory-2020-03-A-FINAL.pdf)
+- Companion note: [[notes/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/11/Advisory-2020-03-A-FINAL.pdf
+- OCR used: no
 
 ## Extracted Text
                                         Republic of the Philippines  
@@ -59,4 +60,4 @@ Approved:
       Deputy Privacy Commissioner                                   Deputy Privacy Commissioner
 
                5th Floor Delegation Building, Philippine International Convention Center, Pasay City  
-                          URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph
+                          URL: [https://privacy.gov.ph](https://privacy.gov.ph) Email Add: info@privacy.gov.ph

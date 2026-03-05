@@ -1,20 +1,21 @@
 ---
-title: "2021 Rules of Procedure of the National Privacy Commission Source Text"
-description: "Generated extracted text for 2021 Rules of Procedure of the National Privacy Commission."
+title: "2021 Rules of Procedure of the National Privacy Commission Raw Source Text"
+description: "Raw extracted text for 2021 Rules of Procedure of the National Privacy Commission before manual annotation."
 aliases:
-  - "2021 Rules of Procedure of the National Privacy Commission Source Text"
+  - "2021 Rules of Procedure of the National Privacy Commission Raw Source Text"
 tags:
   - "source-text"
   - "year/2021"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]
-- PDF: [Open PDF](../../pdfs/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf)
+- Companion note: [[notes/2021/2021-rules-of-procedure-of-the-national-privacy-commission|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2021/01/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf
+- OCR used: no
 
 ## Extracted Text
                                   Republic of the Philippines  

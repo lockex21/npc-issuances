@@ -1,20 +1,21 @@
 ---
-title: "Guidance For The Use Of The ASEAN Model Contract Clauses And ASEAN Data Management Framework Source Text"
-description: "Generated extracted text for Guidance For The Use Of The ASEAN Model Contract Clauses And ASEAN Data Management Framework."
+title: "Guidance For The Use Of The ASEAN Model Contract Clauses And ASEAN Data Management Framework Raw Source Text"
+description: "Raw extracted text for Guidance For The Use Of The ASEAN Model Contract Clauses And ASEAN Data Management Framework before manual annotation."
 aliases:
-  - "Guidance For The Use Of The ASEAN Model Contract Clauses And ASEAN Data Management Framework Source Text"
+  - "Guidance For The Use Of The ASEAN Model Contract Clauses And ASEAN Data Management Framework Raw Source Text"
 tags:
   - "source-text"
   - "year/2021"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Guidance For The Use Of The ASEAN Model Contract Clauses And ASEAN Data Management Framework]]
-- PDF: [Open PDF](../../pdfs/Advisory-ASEAN-MCC-DMF_FINAL-signed.pdf)
+- Companion note: [[notes/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2021/06/Advisory-ASEAN-MCC-DMF_FINAL-signed.pdf
+- OCR used: no
 
 ## Extracted Text
                                                            Republic of the Philippines  
@@ -117,8 +118,8 @@ shall have their respective meanings as hereinafter set forth:
     G. “Processing” refers to any operation or any set of operations performed upon personal
 
 4  ISO, ISO/IEC TR 10032:2003(en) Information technology — Reference Model of Data Management, available at  
-https://www.iso.org/obp/ui/#iso:std:iso-iec:38505:-1:ed-1:v1:en (last accessed April 15, 2021).  
-5 ISO, ISO 8000-2:2020(en) Data quality — Part 2: Vocabulary, available at https://www.iso.org/obp/ui/#iso:std:iso:8000:-
+[https://www.iso.org/obp/ui/#iso:std:iso-iec:38505:-1:ed-1:v1:en](https://www.iso.org/obp/ui/#iso:std:iso-iec:38505:-1:ed-1:v1:en) (last accessed April 15, 2021).  
+5 ISO, ISO 8000-2:2020(en) Data quality — Part 2: Vocabulary, available at [https://www.iso.org/obp/ui/#iso:std:iso:8000:-](https://www.iso.org/obp/ui/#iso:std:iso:8000:-)
 
 2:ed-4:v1:en:term:3.16.1 (last accessed April 15, 2021).  
 6 Data Privacy Act of 2012, § 3 (m).  
@@ -174,9 +175,9 @@ and accountability.9
                 d) Impact / Risk assessment
 
 8 Id. § 3(o).  
-9 The ASEAN MCCs can be accessed at https://asean.org/storage/3-ASEAN-Model-Contractual-Clauses-for-Cross-Border-
+9 The ASEAN MCCs can be accessed at [https://asean.org/storage/3-ASEAN-Model-Contractual-Clauses-for-Cross-Border-](https://asean.org/storage/3-ASEAN-Model-Contractual-Clauses-for-Cross-Border-)
 
-Data-Flows_Final.pdf and the ASEAN DMF document at https://asean.org/storage/2-ASEAN-Data-Management-Frame-  
+Data-Flows_Final.pdf and the ASEAN DMF document at [https://asean.org/storage/2-ASEAN-Data-Management-Frame-](https://asean.org/storage/2-ASEAN-Data-Management-Frame-)  
 work_Final.pdf
 
                                                                                                                3  
@@ -249,9 +250,9 @@ organizations implement these through public awareness, capacity building activi
 guidelines, and are expected to promote their use, especially among Micro, Small and  
 Medium Enterprises (MSMEs).
 
-The ASEAN MCCs can be accessed at https://asean.org/storage/3-ASEAN-Model-  
+The ASEAN MCCs can be accessed at [https://asean.org/storage/3-ASEAN-Model-](https://asean.org/storage/3-ASEAN-Model-)  
 Contractual-Clauses-for-Cross-Border-Data-Flows_Final.pdf and the ASEAN DMF document  
-at https://asean.org/storage/2-ASEAN-Data-Management-Framework_Final.pdf
+at [https://asean.org/storage/2-ASEAN-Data-Management-Framework_Final.pdf](https://asean.org/storage/2-ASEAN-Data-Management-Framework_Final.pdf)
 
 ASEAN Model Contract Clauses (ASEAN MCCs)
 
@@ -266,7 +267,7 @@ ASEAN Model Contract Clauses (ASEAN MCCs)
    Personal Data Protection (2016).
 
                    5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307  
-                         URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph  
+                         URL: [https://privacy.gov.ph](https://privacy.gov.ph) Email Add: info@privacy.gov.ph  
 2. Is the use of the ASEAN MCCs mandatory?
 
    The ASEAN MCCs are a voluntary standard designed to provide guidance on baseline  

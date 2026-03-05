@@ -1,20 +1,21 @@
 ---
-title: "Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website Source Text"
-description: "Generated extracted text for Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website."
+title: "Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website Raw Source Text"
+description: "Raw extracted text for Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website before manual annotation."
 aliases:
-  - "Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website Source Text"
+  - "Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website Raw Source Text"
 tags:
   - "source-text"
   - "year/2020"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website]]
-- PDF: [Open PDF](../../pdfs/NPC-Advisory-2020-01-FINAL.pdf)
+- Companion note: [[notes/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-2020-01-FINAL.pdf
+- OCR used: no
 
 ## Extracted Text
                                     Republic of the Philippines  

@@ -1,20 +1,21 @@
 ---
-title: "Closed-Circuit Television (CCTV) Systems Source Text"
-description: "Generated extracted text for Closed-Circuit Television (CCTV) Systems."
+title: "Closed-Circuit Television (CCTV) Systems Raw Source Text"
+description: "Raw extracted text for Closed-Circuit Television (CCTV) Systems before manual annotation."
 aliases:
-  - "Closed-Circuit Television (CCTV) Systems Source Text"
+  - "Closed-Circuit Television (CCTV) Systems Raw Source Text"
 tags:
   - "source-text"
   - "year/2024"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2024/closed-circuit-television-cctv-systems|Closed-Circuit Television (CCTV) Systems]]
-- PDF: [Open PDF](../../pdfs/NPC-Circular-No.-2024-02-CCTV-Systems.pdf)
+- Companion note: [[notes/2024/closed-circuit-television-cctv-systems|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-Circular-No.-2024-02-CCTV-Systems.pdf
+- OCR used: no
 
 ## Extracted Text
                                  Republic of the Philippines  
@@ -66,7 +67,7 @@ any of the following purposes:
        investigative agencies and other government agencies conducting lawful surveillance
 
 Ref No.: PDD-24-00284                                         NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
           in accordance with their respective mandates. Nonetheless, they shall be subject to the  
           applicable requirements of the Philippine Constitution and other laws and regulations  
           regulating surveillance activities.
@@ -118,7 +119,7 @@ PARTY Statement of the Working Party on current discussions regarding the data p
 Amendments regarding exemption for personal or household activities (2013).
 
 Ref No.: PDD-24-00284                                                  NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                                              2  
            by app-based transport network services and other recreational spaces such as, but not  
            limited to, cinema halls, theaters and spas;2
@@ -169,12 +170,12 @@ the data subject. For this purpose, PICs and its PIPs shall adhere to the follow
 Providing Protective Measures and Prescribing Penalties Therefor [ Safe Spaces Act] (2019) Republic Act No. 11313 (2019).  
 3  
   See: Science Direct, Video Analytics, citing Electronics Elements, Thomas L. Norman CPP, PSP, CSC, in Effective Physical Security (Fifth  
-Edition), 2017, available at https://www.sciencedirect.com/topics/computer-science/video-analytics (last accessed 31 March 2023).  
+Edition), 2017, available at [https://www.sciencedirect.com/topics/computer-science/video-analytics](https://www.sciencedirect.com/topics/computer-science/video-analytics) (last accessed 31 March 2023).  
 4  
   National Privacy Commission, MLF v. MYTAXI.PH CORPORATION (GRAB PHILIPPINES) [NPC 19-142] (March 21, 2022).
 
 Ref No.: PDD-24-00284                                                        NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-            URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+            URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                                                         3  
              and method of the processing shall be in accordance with law, morals, public policy,  
              and good customs.
@@ -228,7 +229,7 @@ comply with the requirements under the DPA, its IRR, and relevant issuances of t
     Data Privacy Act of 2012, § 20 (2012).
 
 Ref No.: PDD-24-00284                                           NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-               URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+               URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                          4  
             c. Managing personal data breaches and security incidents involving the CCTV  
                 systems;  
@@ -280,7 +281,7 @@ Ref No.: PDD-24-00284                                           NPC_PPO_PDD_CIRC
                authorized to monitor such live feeds.
 
 Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                    5  
         4. Retention. While there is no specific retention period for CCTV footage, CCTV  
            footage shall be retained only for as long as necessary to fulfill the purpose for  
@@ -334,7 +335,7 @@ the latter’s authorized representative. If a data subject involved in the foot
 authorized representative requests access to CCTV footage, the presence of another person’s
 
 Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                    6  
 image within the CCTV footage does not automatically classify such request as a third-party  
 access request. Further, in handling third-party access requests, the same policies and  
@@ -388,7 +389,7 @@ procedures outlined in the previous section shall apply.
                purposes, unless it is with the consent of the data subjects. It is incumbent upon
 
 Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                    7  
                the media to prove that the requested CCTV footage shall not be used for  
                amusement or entertainment purposes.  
@@ -442,7 +443,7 @@ SECTION 8. Response procedure. — The following shall be implemented:
            a. CCTV footage shall be viewed in an authorized and secure area;
 
 Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                    8  
             b. Only the requesting party and the authorized personnel of PICs and their PIPs  
                shall be allowed to view such footage; and  
@@ -495,7 +496,7 @@ appropriate evaluation.
            complete information;
 
 Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                    9  
         2. The access request is frivolous or vexatious. The determination of what constitutes  
            frivolous or vexatious may be made on the basis of the particular circumstances of  
@@ -544,7 +545,7 @@ SECTION 15. Repealing Clause. — All other rules, regulations, and issuances co
 inconsistent with the provisions of this Circular are deemed repealed or modified accordingly.
 
 Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                   10  
 SECTION 16. Effectivity. — This Circular shall take effect fifteen (15) calendar days after its  
 publication in the Official Gazette or a newspaper of general circulation.
@@ -560,5 +561,5 @@ Approved:
        Deputy Privacy Commissioner                          Deputy Privacy Commissioner
 
 Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                   11

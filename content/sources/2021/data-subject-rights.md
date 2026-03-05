@@ -1,20 +1,21 @@
 ---
-title: "Data Subject Rights Source Text"
-description: "Generated extracted text for Data Subject Rights."
+title: "Data Subject Rights Raw Source Text"
+description: "Raw extracted text for Data Subject Rights before manual annotation."
 aliases:
-  - "Data Subject Rights Source Text"
+  - "Data Subject Rights Raw Source Text"
 tags:
   - "source-text"
   - "year/2021"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2021/data-subject-rights|Data Subject Rights]]
-- PDF: [Open PDF](../../pdfs/NPC-Advisory-2021-01-FINAL.pdf)
+- Companion note: [[notes/2021/data-subject-rights|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2021/02/NPC-Advisory-2021-01-FINAL.pdf
+- OCR used: no
 
 ## Extracted Text
                                              Republic of the Philippines  
@@ -69,7 +70,7 @@ the Private Sector, Creating for this Purpose a National Privacy Commission, and
 10173, § 34-36.
 
                     5th Floor Delegation Building, Philippine International Convention Center, Pasay City  
-                               URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph  
+                               URL: [https://privacy.gov.ph](https://privacy.gov.ph) Email Add: info@privacy.gov.ph  
 and issuances by the NPC.
 
 SECTION 2. General Principles. — This Advisory is governed by the following principles:
@@ -275,7 +276,7 @@ interest.10
 8 See JVA v. U-PESO.PH LENDING CORPORATION (UPESO), NPC Case No. 19-498 (2020).  
 9 Florian Schaub, Rebecca Balebako, Adam L. Durity, and Lorrie Faith Cranor, A design space for effective privacy notices,
 
-In Proceedings of the Symposium on Usable Privacy and Security (SOUPS’15), available at https://www.usenix.org/system/  
+In Proceedings of the Symposium on Usable Privacy and Security (SOUPS’15), available at [https://www.usenix.org/system/](https://www.usenix.org/system/)  
 files/conference/soups2015/soups15-paper-schaub.pdf (2015) (last accessed 15 Jan 2021).  
 10 When processing is based on consent, the right to object is inherent since consent, by its nature and definition, may be
 
@@ -493,7 +494,7 @@ by the data subject.
 11 See: European Commission, Article 29 Data Protection Working Party, Guidelines on the right to data portability,
 
 Adopted on 13 December 2016 As last Revised and adopted on 5 April 2017, available at  
-https://webcache.googleusercontent.com/search?q=cache:N9BoIYGlK6UJ:https://ec.europa.eu/newsroom/document.cfm%3  
+[https://webcache.googleusercontent.com/search?q=cache:N9BoIYGlK6UJ:https://ec.europa.eu/newsroom/document.cfm%3](https://webcache.googleusercontent.com/search?q=cache:N9BoIYGlK6UJ:https://ec.europa.eu/newsroom/document.cfm%3)  
 Fdoc_id%3D44099+&cd=1&hl=en&ct=clnk&gl=ph (last accessed: 6 October 2020).  
 12 Id.
 

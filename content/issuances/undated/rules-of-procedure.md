@@ -14,24 +14,9 @@ tags:
 draft: false
 ---
 
-> In the exercise of its quasi-judicial function, the Commission is authorized to receive complaints and institute investigations. In order to fulfill its mandate, it may compel any entity, government agency or instrumentality to abide by its orders or take action on a matter...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                 Republic of the Philippines  
-                       NATIONAL PRIVACY COMMISSION  
+<!-- SEEDED ANNOTATED HASH: 2139be11a0bfaca803523a59986c0c9c9f3a5b30 -->
                                 privacycommissioner@privacy.gov.ph
 
 NPC Circular 16-04
@@ -85,10 +70,7 @@ SECTION 4. Exhaustion of remedies. – No complaint shall be entertained unless:
 
    a. the complainant has informed, in writing, the personal information controller or  
       concerned entity of the privacy violation or personal data breach to allow for  
-      appropriate action on the same;  
-                                                                             NPC Circular No. 2016-04  
-                                               Rules of Procedure of the National Privacy Commission  
-                                                                                   15 December 2016
+      appropriate action on the same;
 
    b. the personal information controller or concerned entity did not take timely or  
       appropriate action on the claimed privacy violation or personal data breach, or there is  
@@ -148,11 +130,6 @@ The complainant shall include in his complaint his contact information, and wher
 complainant or duly authorized representative may be served with orders, issuances or  
 communications, including a secure electronic mail address when available.
 
-                                               2  
-                                                                               NPC Circular No. 2016-04  
-                                                 Rules of Procedure of the National Privacy Commission  
-                                                                                     15 December 2016
-
 The complaint must identify the person or organization complained against, who shall be  
 referred to as the respondent; the mere provision of the means to trace the identity of the party  
 complained against shall be considered as insufficient identification. The complainant shall also  
@@ -209,11 +186,6 @@ be:
 
 SECTION 12. Outright Dismissal. – The Commission may dismiss outright any complaint on  
 the following grounds:
-
-                                                 3  
-                                                                              NPC Circular No. 2016-04  
-                                                Rules of Procedure of the National Privacy Commission  
-                                                                                    15 December 2016
 
         a. The complainant did not give the respondent an opportunity to address the  
            complaint, unless failure to do so is justified;  
@@ -274,11 +246,6 @@ SECTION 14. Discovery. –
         stored information is to be produced. The responding party must state in its response  
         that form in which it intends to produce each type of the information.
 
-                                                4  
-                                                                              NPC Circular No. 2016-04  
-                                                Rules of Procedure of the National Privacy Commission  
-                                                                                    15 December 2016
-
        Unless the parties otherwise agree or the investigating officer otherwise orders: (1) If a  
        request for production does not specify a form for producing a type of electronically  
        stored information, the responding party shall produce the information in a form in  
@@ -334,11 +301,6 @@ course of the investigation, the complainant and/or respondent may be required t
 additional information, document or evidence, or to produce additional witnesses. The parties  
 shall have the right to examine the evidence submitted, which he or she may not have been  
 furnished, and to copy them at his expense.
-
-                                                5  
-                                                                             NPC Circular No. 2016-04  
-                                               Rules of Procedure of the National Privacy Commission  
-                                                                                   15 December 2016
 
 SECTION 17. Failure to Submit Comment. – If the respondent does not file a Comment, the  
 investigating officer may consider the complaint as submitted for resolution. The respondent  
@@ -398,11 +360,6 @@ complainant or to protect national security or public interest.
        by courier is possible, then the hearing shall be conducted one (1) week after actual  
        receipt of the Notice.
 
-                                               6  
-                                                                              NPC Circular No. 2016-04  
-                                                Rules of Procedure of the National Privacy Commission  
-                                                                                    15 December 2016
-
    d. If so issued, the temporary ban on processing personal data shall remain in effect until  
       the final resolution of the case or upon orders of the Commission or lawful authority.
 
@@ -460,11 +417,6 @@ these Rules, provided that the respondent shall be provided a copy of the fact-f
 and given an opportunity to submit an answer. In cases where the respondent or respondents  
 fail without justification to submit an answer or appear before the National Privacy
 
-                                                7  
-                                                                               NPC Circular No. 2016-04  
-                                                 Rules of Procedure of the National Privacy Commission  
-                                                                                     15 December 2016
-
 Commission when so ordered, the Commission shall render its decision on the basis of available  
 information.
 
@@ -518,12 +470,6 @@ Commission may be made available to the public.
                                             RULE VII.  
                                             APPEALS
 
-                                                 8  
-                                                                              NPC Circular No. 2016-04  
-                                                Rules of Procedure of the National Privacy Commission  
-                                                                                    15 December 2016
-
-SECTION 30. Appeal. – The decision of the National Privacy Commission shall become final  
 and executory fifteen (15) days after the receipt of a copy thereof by the party adversely  
 affected. One motion for reconsideration may be filed, which shall suspend the running of the  
 said period. Any appeal from the Decision shall be to the proper courts, in accordance with law  
@@ -565,11 +511,6 @@ Approved:
         Deputy Privacy Commissioner                      Deputy Privacy Commissioner
 
 Date: December 15, 2016
-
-                                                9  
-                                                                             NPC Circular No. 2016-04  
-                                               Rules of Procedure of the National Privacy Commission  
-                                                                                   15 December 2016
 
 A Guide for the Data Subject
 
@@ -627,31 +568,12 @@ A Guide for the Data Subject
 
    5. Can I get additional information on this circular? You may request for additional  
       information on the procedure through info@privacy.gov.ph
-
-                                              10
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 16-04
-- Type: Circular
-- Year: undated
-- Issued: Unknown
-- Pages: 10
-- Source PDF: [Open PDF](../../pdfs/sgd-npc-circular-16-04-rules-of-procedure.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/sgd-npc-circular-16-04-rules-of-procedure.pdf
-- Topic pages: [[topics/government|Government]]
-- Generated source note: [[sources/undated/rules-of-procedure|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]
-- [[issuances/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/undated/rules-of-procedure]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/undated/rules-of-procedure|Analysis and metadata]]
+- Raw source text: [[sources/undated/rules-of-procedure|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/sgd-npc-circular-16-04-rules-of-procedure.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

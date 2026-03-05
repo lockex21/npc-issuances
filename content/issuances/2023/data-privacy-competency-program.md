@@ -12,27 +12,9 @@ date: "2023-09-26"
 draft: false
 ---
 
-> WHEREAS, Section 9 of the Implementing Rules and Regulations of the DPA (IRR) provides that the NPC shall develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                Republic of the Philippines  
-                           NATIONAL PRIVACY COMMISSION  
-                          5th Floor, Philippine International Convention Center,  
-                          Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: a554b98e73b60f448084f13197fcf401cacef713 -->
 NPC Circular 2023-02
 
 Date           :       26 September 2023
@@ -77,8 +59,6 @@ which shall be composed of courses on the fundamental and operational aspects of
 essential for anyone who seeks to have a better understanding of the DPA and its application  
 to actual situations, and other projects geared towards data privacy education;
 
-                                                               NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          WHEREAS, the Program shall neither result in a specialized accreditation or  
 certification, such as those carried out by an independent third-party body, nor as a  
 qualification to act or perform the functions of a data privacy professional;
@@ -126,13 +106,9 @@ as follows:
           authority granted by the NPC to a Training Provider to use a specific prescribed  
           Curriculum under the Program;
 
-       E. “NPC” refers to the National Privacy Commission created under the DPA;
-
        F. “Training Course” refers to the course designed by a Training Provider pursuant  
           to a specific prescribed Curriculum under the Program;
 
-                                                            NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
        G. “Training Provider” refers to any natural or juridical person that is qualified under  
           this Circular and licensed by the NPC to conduct a Training Course to an Enrollee  
           based on a specific prescribed Curriculum;
@@ -183,8 +159,6 @@ the respective terms of the Agreement stated in Section 3 of this Circular.
 examination to determine the competency of an Enrollee who has completed that Training  
 Course with a licensed Training Provider. The successful completion of the Training Course
 
-                                                            NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 for which the examination is administered with a licensed Training Provider shall be a  
 requisite to take the examination.
 
@@ -235,8 +209,6 @@ and effect.
 to or inconsistent with the provisions of this Circular are deemed repealed or modified  
 accordingly.
 
-                                                            NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
        SECTION 16. Effectivity. This Circular shall take effect fifteen (15) days after its  
 publication in the Official Gazette or a newspaper of general circulation.
 
@@ -249,31 +221,12 @@ publication in the Official Gazette or a newspaper of general circulation.
                           Sgd.                                              Sgd.  
        ATTY. LEANDRO ANGELO Y. AGUIRRE                         ATTY. NERISSA N. DE JESUS  
              Deputy Privacy Commissioner                       Deputy Privacy Commissioner
-
-                                                           NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-          URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: None detected
-- Type: Circular
-- Year: 2023
-- Issued: September 26, 2023
-- Pages: 5
-- Source PDF: [Open PDF](../../pdfs/Circular-on-Data-Privacy-Competency-Program-2023.09.26.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2023/11/Circular-on-Data-Privacy-Competency-Program-2023.09.26.pdf
-- Topic pages: [[topics/training-certification|Training Certification]]
-- Generated source note: [[sources/2023/data-privacy-competency-program|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2023/data-privacy-competency-program]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2023/data-privacy-competency-program|Analysis and metadata]]
+- Raw source text: [[sources/2023/data-privacy-competency-program|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/Circular-on-Data-Privacy-Competency-Program-2023.09.26.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

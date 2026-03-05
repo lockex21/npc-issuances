@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on Privacy Impact Assessments Source Text"
-description: "Generated extracted text for Guidelines on Privacy Impact Assessments."
+title: "Guidelines on Privacy Impact Assessments Raw Source Text"
+description: "Raw extracted text for Guidelines on Privacy Impact Assessments before manual annotation."
 aliases:
-  - "Guidelines on Privacy Impact Assessments Source Text"
+  - "Guidelines on Privacy Impact Assessments Raw Source Text"
 tags:
   - "source-text"
   - "year/2017"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2017/guidelines-on-privacy-impact-assessments|Guidelines on Privacy Impact Assessments]]
-- PDF: [Open PDF](../../pdfs/NPC_AdvisoryNo.2017-03.pdf)
+- Companion note: [[notes/2017/guidelines-on-privacy-impact-assessments|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryNo.2017-03.pdf
+- OCR used: no
 
 ## Extracted Text
                                   Republic of the Philippines  

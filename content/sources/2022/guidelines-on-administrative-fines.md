@@ -1,20 +1,21 @@
 ---
-title: "GUIDELINES ON ADMINISTRATIVE FINES Source Text"
-description: "Generated extracted text for GUIDELINES ON ADMINISTRATIVE FINES."
+title: "GUIDELINES ON ADMINISTRATIVE FINES Raw Source Text"
+description: "Raw extracted text for GUIDELINES ON ADMINISTRATIVE FINES before manual annotation."
 aliases:
-  - "GUIDELINES ON ADMINISTRATIVE FINES Source Text"
+  - "GUIDELINES ON ADMINISTRATIVE FINES Raw Source Text"
 tags:
   - "source-text"
   - "year/2022"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2022/guidelines-on-administrative-fines|GUIDELINES ON ADMINISTRATIVE FINES]]
-- PDF: [Open PDF](../../pdfs/NPC-CIRCULAR-NO.-2022-01-GUIDELINES-ON-ADMINISTRATIVE-FINES-dated-08-AUGUST-2022-w-SGD.pdf)
+- Companion note: [[notes/2022/guidelines-on-administrative-fines|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/08/NPC-CIRCULAR-NO.-2022-01-GUIDELINES-ON-ADMINISTRATIVE-FINES-dated-08-AUGUST-2022-w-SGD.pdf
+- OCR used: no
 
 ## Extracted Text
                                     Republic of the Philippines  

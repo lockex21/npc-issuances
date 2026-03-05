@@ -14,21 +14,9 @@ tags:
 draft: false
 ---
 
-> NPC Circular No. 2017-01 Registration of Data Processing Systems and Notifications regarding Automated Decision-Making Operations 31 July 2017
+> Primary text page. Keep this focused on precise issuance wording and annotations.
 
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
                                                                              NPC Circular No. 2017-01  
                                              Registration of Data Processing Systems and Notifications  
@@ -93,26 +81,10 @@ occasional:
     DECISION-MAKING
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2017-01
-- Type: Circular
-- Year: 2017
-- Issued: Unknown
-- Pages: 2
-- Source PDF: [Open PDF](../../pdfs/NPC17-01_Appendix-1.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC17-01_Appendix-1.pdf
-- Topic pages: [[topics/registration|Registration]]
-- Generated source note: [[sources/2017/registration-of-data-processing-systems-appendix-1|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2017/registration-of-data-processing-systems-appendix-1]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2017/registration-of-data-processing-systems-appendix-1|Analysis and metadata]]
+- Raw source text: [[sources/2017/registration-of-data-processing-systems-appendix-1|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC17-01_Appendix-1.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

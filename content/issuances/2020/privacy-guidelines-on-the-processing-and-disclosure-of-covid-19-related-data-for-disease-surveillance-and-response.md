@@ -14,25 +14,10 @@ tags:
 draft: false
 ---
 
-> SUBJECT: Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                     Republic of the Philippines  
-                              DEPARTMENT OF HEALTH  
-                           NATIONAL PRIVACY COMMISSION
+<!-- SEEDED ANNOTATED HASH: 30b98240076aa2158090082baf48af9341e51195 -->
+                              DEPARTMENT OF HEALTH
 
                                                                                    April   24, 2020  
 JOINT MEMORANDUM CIRCULAR No. 2020-9002
@@ -74,7 +59,8 @@ Ill. SCOPE AND COVERAGE
         This Joint Memorandum Circular shall apply to the implementation of the COVID-19  
 disease surveillance and response; and shall cover    all  
                                                       public and private, national and local  
-healthcare providers regulated by DOH and Philippine Health Insurance Corporation  
+healthcare providers regulated by DOH and Philippine Health Insurance Corporation
+
  (PhilHealth); national and local public health authorities; DOH partner agencies involved in  
 the collection and processing of COVID-19-related data; all COVID-19 cases; and all  
 individuals identified as close contacts.
@@ -130,7 +116,8 @@ IV. DEFINITION OF TERMS
        collect and process COVID-19-related data for purposed specified under Section V.2.  
        of this Guidelines.  
    10. Personal data refers to                                          as  
-                                    all types of personal information such     follows:  
+                                    all types of personal information such     follows:
+
     a.  Personal information refers to any information, whether recorded in a material  
        form or not, from which the identity of an individual    is    apparent or can be reasonably  
        and directly ascertained by the entity holding the information, or when put together  
@@ -179,7 +166,8 @@ IV. DEFINITION OF TERMS
     Administration, Regional Offices of DOH, Regional Epidemiology and Surveillance  
     Unit (RESU), local health offices (provincial, city, or municipality); or any person  
     directly authorized to act on behalf of the DOH or          the      local health office. (DOH  
-    Administrative Order [AO] 2020-0013)  
+    Administrative Order [AO] 2020-0013)
+
 V. GENERAL GUIDELINES
 
    1.   The implementation of COVID-19 disease surveillance and response shall promote  
@@ -230,7 +218,8 @@ VI. SPECIFIC GUIDELINES
 
 A. Implementation Governance  
    1. The Interagency Task Force for the Management of Emerging Infectious Diseases —  
-      Task Group on Strategic Communications, in coordination with the DOH —  
+      Task Group on Strategic Communications, in coordination with the DOH —
+
      Epidemiology Bureau, the DOH Data Protection Officer and the National Privacy  
      Commission, shall set policy directions and oversight on all matters relating to privacy  
      and data protection of COVID-19-related data.  
@@ -285,7 +274,8 @@ C. Access of Health Information
    1. Only concerned healthcare providers, public health authorities, and DOH partner  
       agencies and their authorized personnel shall be allowed to access the personal health  
       information of the COVID-19 cases and/or identified close contacts, pursuant to the  
-      guidelines set forth under DOH AO 2020-0013, and the DOH DM 2020-0189.  
+      guidelines set forth under DOH AO 2020-0013, and the DOH DM 2020-0189.
+
    2. All entities and individuals with access to the personal health information shall be bound  
       by legal duty to protect the personal health information pursuant to this Guidelines.
 
@@ -340,7 +330,8 @@ VII. ROLES AND RESPONSIBILITIES
 
 A. Data Subjects (COVID-19 Cases, Close Contacts, and Other Informants)  
    1. Owner  
-            ofthe data.  
+            ofthe data.
+
      2. Disclose truthful and accurate information regarding their health condition and exposure  
         to public health authorities and/or DOH partner agencies.
 
@@ -393,7 +384,8 @@ VIII. PENALTY CLAUSE
      their health condition and exposure to COVID-19 to public health authorities and/or DOH  
      partner agencies, or of any individual or entity that should report and/or respond to COVID-  
      19 surveillance and response, or any similar action insofaras   they  
-                                                                          relate to the provisions of  
+                                                                          relate to the provisions of
+
    this Joint Memorandum Circular shall be penalized in accordance with RA 11332  
    (Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern  
    Act), RA 11469 (Bayanihan to Heal as One Act), and other applicable laws, rules and  
@@ -424,30 +416,13 @@ XI. EFFECTIVITY
                                                                          ¢se—  ae  
      F        CISCOA. DUQUE     III,    MD, MSc              RAYMUND E. LIBORO  
                                                           Tivacy Commissioner and Chairman  
-               Secretary  
-            Department of Health                             National Privacy Commission
+               Secretary
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Memorandum Circular No. 2020-9002
-- Type: Memorandum Circular
-- Year: 2020
-- Issued: Unknown
-- Pages: 8
-- Source PDF: [Open PDF](../../pdfs/jmc2020-0002v1.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/jmc2020-0002v1.pdf
-- Topic pages: [[topics/cctv-surveillance|CCTV Surveillance]]
-- Generated source note: [[sources/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Analysis and metadata]]
+- Raw source text: [[sources/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/jmc2020-0002v1.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

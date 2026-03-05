@@ -1,20 +1,21 @@
 ---
-title: "FAQ Prerequisites for the Philippine Privacy Mark Certification Program Source Text"
-description: "Generated extracted text for FAQ Prerequisites for the Philippine Privacy Mark Certification Program."
+title: "FAQ Prerequisites for the Philippine Privacy Mark Certification Program Raw Source Text"
+description: "Raw extracted text for FAQ Prerequisites for the Philippine Privacy Mark Certification Program before manual annotation."
 aliases:
-  - "FAQ Prerequisites for the Philippine Privacy Mark Certification Program Source Text"
+  - "FAQ Prerequisites for the Philippine Privacy Mark Certification Program Raw Source Text"
 tags:
   - "source-text"
   - "year/2023"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program|FAQ Prerequisites for the Philippine Privacy Mark Certification Program]]
-- PDF: [Open PDF](../../pdfs/v12-19-2024_FAQ-NPC-Circular-2023-05_LYA2_NNJ_JDN3.pdf)
+- Companion note: [[notes/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/12/v12-19-2024_FAQ-NPC-Circular-2023-05_LYA2_NNJ_JDN3.pdf
+- OCR used: no
 
 ## Extracted Text
                                   Republic of the Philippines  

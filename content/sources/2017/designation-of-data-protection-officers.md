@@ -1,20 +1,21 @@
 ---
-title: "Designation of Data Protection Officers Source Text"
-description: "Generated extracted text for Designation of Data Protection Officers."
+title: "Designation of Data Protection Officers Raw Source Text"
+description: "Raw extracted text for Designation of Data Protection Officers before manual annotation."
 aliases:
-  - "Designation of Data Protection Officers Source Text"
+  - "Designation of Data Protection Officers Raw Source Text"
 tags:
   - "source-text"
   - "year/2017"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2017/designation-of-data-protection-officers|Designation of Data Protection Officers]]
-- PDF: [Open PDF](../../pdfs/NPC-Advisory-2017-01-sgd.pdf)
+- Companion note: [[notes/2017/designation-of-data-protection-officers|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC-Advisory-2017-01-sgd.pdf
+- OCR used: no
 
 ## Extracted Text
                                   Republic of the Philippines  

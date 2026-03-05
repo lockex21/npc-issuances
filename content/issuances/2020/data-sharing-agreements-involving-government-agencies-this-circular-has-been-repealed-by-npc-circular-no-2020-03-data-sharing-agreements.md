@@ -15,24 +15,9 @@ tags:
 draft: false
 ---
 
-> TO : ALL HEADS OF GOVERNMENT BRANCHES, BODIES OR ENTITIES, INCLUDING NATIONAL GOVERNMENT AGENCIES, BUREAUS OR OFFICES, CONSTITUTIONAL COMMISSIONS, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED AND –CONTROLLED CORPORATIONS, STATE COLLEGE AND UNIVERSITIES; HEADS OF PRIVATE ENTITIES
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                Republic of the Philippines  
-                            National Privacy Commission  
+<!-- SEEDED ANNOTATED HASH: 6a9e162a1c2e733a54f9a1ca9cde10358d28da80 -->
                                 privacycommissioner@privacy.gov.ph
 
 NPC Circular 16-02
@@ -77,11 +62,7 @@ government agencies and the private sector;
 Act of 2012 provides that, among the Commission’s functions, is to develop, promulgate,  
 review or amend rules and regulations for the effective implementation of the Act;
 
-       WHEREFORE, in consideration of these premises, the National Privacy Commission  
-hereby issues this Circular governing data sharing agreements involving government agencies.  
-                                                                            NPC Circular No. 2016-02  
-                                            Data Sharing Agreements involving Government Agencies  
-                                                                                   10 October 2016
+hereby issues this Circular governing data sharing agreements involving government agencies.
 
 SECTION 1. General Principle. To facilitate the performance of a public function or the  
 provision of a public service, a government agency may share or transfer personal data under  
@@ -137,11 +118,6 @@ defined, as follows:
          unreadable, ensures that it is not altered in transit, and verifies the identity of its  
          sender;
 
-                                               2  
-                                                                            NPC Circular No. 2016-02  
-                                            Data Sharing Agreements involving Government Agencies  
-                                                                                   10 October 2016
-
    H.    “Government Agency” refers to a government branch, body, or entity, including  
          national government agencies, bureaus, or offices, constitutional commissions, local  
          government units, government-owned and controlled corporations, government  
@@ -196,11 +172,6 @@ law.
 
 The personal information controller may request an advisory opinion from the Commission in  
 determining whether the data sharing requires consent from the data subject.
-
-                                                3  
-                                                                             NPC Circular No. 2016-02  
-                                             Data Sharing Agreements involving Government Agencies  
-                                                                                    10 October 2016
 
 The data subject shall be provided with the following information prior to collection or before  
 his or her personal data is shared:
@@ -258,11 +229,6 @@ writing and must comply with the following conditions:
          information that could endanger its computer network or system, or expose to harm  
          the integrity, availability or confidentiality of personal data under its control or
 
-                                                4  
-                                                                            NPC Circular No. 2016-02  
-                                            Data Sharing Agreements involving Government Agencies  
-                                                                                   10 October 2016
-
          custody. Such information may include the program, middleware and encryption  
          method in use, as provided in the next succeeding paragraph.
 
@@ -316,11 +282,6 @@ parties thereto may consult with and invite comments thereon from:
 
    A.    the Commission;
 
-                                                5  
-                                                                             NPC Circular No. 2016-02  
-                                             Data Sharing Agreements involving Government Agencies  
-                                                                                    10 October 2016
-
    B.    any person or organization that the parties to the proposed data sharing agreement  
          recognize as representing the interests of the classes of data subjects whose personal  
          data will be shared under the proposed agreement; and
@@ -370,11 +331,6 @@ SECTION 17. Return, Destruction, or Disposal of Transferred Personal Data. Unles
 provided by the data sharing agreement, all personal data transferred to other parties by virtue  
 of such agreement shall be returned, destroyed, or disposed of, upon the termination of the  
 agreement.
-
-                                                6  
-                                                                             NPC Circular No. 2016-02  
-                                             Data Sharing Agreements involving Government Agencies  
-                                                                                    10 October 2016
 
 SECTION 18. Penalties. Violations of these Rules shall, upon notice and hearing, be subject to  
 compliance and enforcement orders, cease and desist orders, temporary or permanent ban on  
@@ -428,11 +384,6 @@ SECTION 21. Separability Clause. If any portion or provision of this Circular is
 and void or unconstitutional, the other provisions not affected thereby shall continue to be in  
 force and effect.
 
-                                                 7  
-                                                                             NPC Circular No. 2016-02  
-                                             Data Sharing Agreements involving Government Agencies  
-                                                                                    10 October 2016
-
 SECTION 22. Effectivity. This Circular shall take effect fifteen (15) days after its publication in  
 the Official Gazette.
 
@@ -443,30 +394,12 @@ Approved:
 
            (Sgd.) IVY D. PATDU                       (Sgd.) DAMIAN DOMINGO O. MAPA  
         Deputy Privacy Commissioner                       Deputy Privacy Commissioner
-
-                                                8
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 16-02
-- Type: Circular
-- Year: 2020
-- Issued: Unknown
-- Pages: 8
-- Source PDF: [Open PDF](../../pdfs/Sgd-NPC-Circular-16-02-Data-Sharing-Agreements-Involving-Government-Agencies.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-02-Data-Sharing-Agreements-Involving-Government-Agencies.pdf
-- Topic pages: [[topics/data-sharing|Data Sharing]], [[topics/government|Government]]
-- Generated source note: [[sources/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Analysis and metadata]]
+- Raw source text: [[sources/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-02-Data-Sharing-Agreements-Involving-Government-Agencies.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

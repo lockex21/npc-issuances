@@ -16,6 +16,6 @@ All generated notes tagged as **FAQ**.
 - [[issuances/1988/faqs|FAQs]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own criteria for reading faq issuances here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

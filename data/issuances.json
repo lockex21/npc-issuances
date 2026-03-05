@@ -8,6 +8,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2023/05/FAQs-on-the-Guidelines-on-Administrative-Fines-.pdf",
       "pdf_path": "cache/pdfs/FAQs-on-the-Guidelines-on-Administrative-Fines-.pdf",
       "text_path": "cache/text/FAQs-on-the-Guidelines-on-Administrative-Fines-.txt",
+      "raw_text_path": "cache/text_raw/FAQs-on-the-Guidelines-on-Administrative-Fines-.txt",
       "slug": "faqs-on-the-guidelines-on-administrative-fines",
       "year": "undated",
       "kind": "FAQ",
@@ -32,7 +33,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/undated/faqs-on-the-guidelines-on-administrative-fines.md",
-      "source_note_path": "content/sources/undated/faqs-on-the-guidelines-on-administrative-fines.md"
+      "notes_path": "content/notes/undated/faqs-on-the-guidelines-on-administrative-fines.md",
+      "source_note_path": "content/sources/undated/faqs-on-the-guidelines-on-administrative-fines.md",
+      "ocr_used": false
     },
     {
       "title": "FAQ Guidelines on Child-Oriented Transparency",
@@ -40,6 +43,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/12/FAQs-Advisory-on-Guidelines-on-Child-Oriented-Transparency.pdf",
       "pdf_path": "cache/pdfs/FAQs-Advisory-on-Guidelines-on-Child-Oriented-Transparency.pdf",
       "text_path": "cache/text/FAQs-Advisory-on-Guidelines-on-Child-Oriented-Transparency.txt",
+      "raw_text_path": "cache/text_raw/FAQs-Advisory-on-Guidelines-on-Child-Oriented-Transparency.txt",
       "slug": "faq-guidelines-on-child-oriented-transparency",
       "year": "undated",
       "kind": "FAQ",
@@ -61,7 +65,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/undated/faq-guidelines-on-child-oriented-transparency.md",
-      "source_note_path": "content/sources/undated/faq-guidelines-on-child-oriented-transparency.md"
+      "notes_path": "content/notes/undated/faq-guidelines-on-child-oriented-transparency.md",
+      "source_note_path": "content/sources/undated/faq-guidelines-on-child-oriented-transparency.md",
+      "ocr_used": false
     },
     {
       "title": "FAQ Data Privacy Competency Program",
@@ -69,6 +75,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/01/FAQs-Circular-on-Data-Privacy-Competency-Program-Final.pdf",
       "pdf_path": "cache/pdfs/FAQs-Circular-on-Data-Privacy-Competency-Program-Final.pdf",
       "text_path": "cache/text/FAQs-Circular-on-Data-Privacy-Competency-Program-Final.txt",
+      "raw_text_path": "cache/text_raw/FAQs-Circular-on-Data-Privacy-Competency-Program-Final.txt",
       "slug": "faq-data-privacy-competency-program",
       "year": "undated",
       "kind": "FAQ",
@@ -90,7 +97,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/undated/faq-data-privacy-competency-program.md",
-      "source_note_path": "content/sources/undated/faq-data-privacy-competency-program.md"
+      "notes_path": "content/notes/undated/faq-data-privacy-competency-program.md",
+      "source_note_path": "content/sources/undated/faq-data-privacy-competency-program.md",
+      "ocr_used": false
     },
     {
       "title": "Security of Personal Data in the Government and the Private Sector",
@@ -98,6 +107,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf",
       "pdf_path": "cache/pdfs/NPC-Circular-Repeal-16-01-Signed.pdf",
       "text_path": "cache/text/NPC-Circular-Repeal-16-01-Signed.txt",
+      "raw_text_path": "cache/text_raw/NPC-Circular-Repeal-16-01-Signed.txt",
       "slug": "security-of-personal-data-in-the-government-and-the-private-sector",
       "year": "undated",
       "kind": "Circular",
@@ -122,7 +132,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector.md",
-      "source_note_path": "content/sources/undated/security-of-personal-data-in-the-government-and-the-private-sector.md"
+      "notes_path": "content/notes/undated/security-of-personal-data-in-the-government-and-the-private-sector.md",
+      "source_note_path": "content/sources/undated/security-of-personal-data-in-the-government-and-the-private-sector.md",
+      "ocr_used": false
     },
     {
       "title": "Security of Personal Data in Government Agencies",
@@ -130,6 +142,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-01-Security-of-Personal-Data-in-Government-Agencies.pdf",
       "pdf_path": "cache/pdfs/Sgd-NPC-Circular-16-01-Security-of-Personal-Data-in-Government-Agencies.pdf",
       "text_path": "cache/text/Sgd-NPC-Circular-16-01-Security-of-Personal-Data-in-Government-Agencies.txt",
+      "raw_text_path": "cache/text_raw/Sgd-NPC-Circular-16-01-Security-of-Personal-Data-in-Government-Agencies.txt",
       "slug": "security-of-personal-data-in-government-agencies",
       "year": "undated",
       "kind": "Circular",
@@ -150,15 +163,15 @@
       "issue_date": null,
       "issue_date_iso": null,
       "page_count": 8,
-      "citations": [
-        "circular no. 2016-01"
-      ],
+      "citations": [],
       "outgoing_refs": [],
       "incoming_refs": [
         "guidelines-on-requests-for-personal-data-of-public-officers"
       ],
       "content_path": "content/issuances/undated/security-of-personal-data-in-government-agencies.md",
-      "source_note_path": "content/sources/undated/security-of-personal-data-in-government-agencies.md"
+      "notes_path": "content/notes/undated/security-of-personal-data-in-government-agencies.md",
+      "source_note_path": "content/sources/undated/security-of-personal-data-in-government-agencies.md",
+      "ocr_used": false
     },
     {
       "title": "Rules on the Issuance of Cease and Desist Orders",
@@ -166,6 +179,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2020/10/NPC-Circular-20-02_Circular-Rules-on-CDO.pdf",
       "pdf_path": "cache/pdfs/NPC-Circular-20-02_Circular-Rules-on-CDO.pdf",
       "text_path": "cache/text/NPC-Circular-20-02_Circular-Rules-on-CDO.txt",
+      "raw_text_path": "cache/text_raw/NPC-Circular-20-02_Circular-Rules-on-CDO.txt",
       "slug": "rules-on-the-issuance-of-cease-and-desist-orders",
       "year": "undated",
       "kind": "Circular",
@@ -177,10 +191,11 @@
       ],
       "tags": [
         "issuance",
+        "topic/security",
         "type/circular",
         "year/undated"
       ],
-      "excerpt": "Section 4. Grounds for the Issuance of Cease and Desist Order. – No CDO shall be issued unless it is established by substantial evidence that all of the following concur:",
+      "excerpt": "Section 3. Definition of Terms. - A. “Adverse Party” refers to a party against whom a Cease and Desist Order is sought. B. “Aggrieved Party” refers to a data subject who claims to be the subject of a privacy violation or personal data breach, including the latter’s duly...",
       "issue_date": null,
       "issue_date_iso": null,
       "page_count": 7,
@@ -193,7 +208,9 @@
         "guidelines-on-administrative-fines"
       ],
       "content_path": "content/issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders.md",
-      "source_note_path": "content/sources/undated/rules-on-the-issuance-of-cease-and-desist-orders.md"
+      "notes_path": "content/notes/undated/rules-on-the-issuance-of-cease-and-desist-orders.md",
+      "source_note_path": "content/sources/undated/rules-on-the-issuance-of-cease-and-desist-orders.md",
+      "ocr_used": false
     },
     {
       "title": "Rules on Mediation before the National Privacy Commission",
@@ -201,6 +218,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-03_RulesonMediationwAnnexes.pdf",
       "pdf_path": "cache/pdfs/Circular18-03_RulesonMediationwAnnexes.pdf",
       "text_path": "cache/text/Circular18-03_RulesonMediationwAnnexes.txt",
+      "raw_text_path": "cache/text_raw/Circular18-03_RulesonMediationwAnnexes.txt",
       "slug": "rules-on-mediation-before-the-national-privacy-commission",
       "year": "undated",
       "kind": "Circular",
@@ -225,7 +243,9 @@
         "2021-rules-of-procedure-of-the-national-privacy-commission"
       ],
       "content_path": "content/issuances/undated/rules-on-mediation-before-the-national-privacy-commission.md",
-      "source_note_path": "content/sources/undated/rules-on-mediation-before-the-national-privacy-commission.md"
+      "notes_path": "content/notes/undated/rules-on-mediation-before-the-national-privacy-commission.md",
+      "source_note_path": "content/sources/undated/rules-on-mediation-before-the-national-privacy-commission.md",
+      "ocr_used": false
     },
     {
       "title": "Rules of procedure on requests for Advisory Opinions",
@@ -233,6 +253,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-01_Request_forAdvisory_Opinion.pdf",
       "pdf_path": "cache/pdfs/Circular18-01_Request_forAdvisory_Opinion.pdf",
       "text_path": "cache/text/Circular18-01_Request_forAdvisory_Opinion.txt",
+      "raw_text_path": "cache/text_raw/Circular18-01_Request_forAdvisory_Opinion.txt",
       "slug": "rules-of-procedure-on-requests-for-advisory-opinions",
       "year": "undated",
       "kind": "Circular",
@@ -252,7 +273,6 @@
       "issue_date_iso": null,
       "page_count": 4,
       "citations": [
-        "circular no. 18-01",
         "circular no. 2016-04."
       ],
       "outgoing_refs": [],
@@ -260,7 +280,9 @@
         "2021-rules-of-procedure-of-the-national-privacy-commission"
       ],
       "content_path": "content/issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions.md",
-      "source_note_path": "content/sources/undated/rules-of-procedure-on-requests-for-advisory-opinions.md"
+      "notes_path": "content/notes/undated/rules-of-procedure-on-requests-for-advisory-opinions.md",
+      "source_note_path": "content/sources/undated/rules-of-procedure-on-requests-for-advisory-opinions.md",
+      "ocr_used": false
     },
     {
       "title": "Rules of Procedure",
@@ -268,6 +290,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/sgd-npc-circular-16-04-rules-of-procedure.pdf",
       "pdf_path": "cache/pdfs/sgd-npc-circular-16-04-rules-of-procedure.pdf",
       "text_path": "cache/text/sgd-npc-circular-16-04-rules-of-procedure.txt",
+      "raw_text_path": "cache/text_raw/sgd-npc-circular-16-04-rules-of-procedure.txt",
       "slug": "rules-of-procedure",
       "year": "undated",
       "kind": "Circular",
@@ -287,16 +310,48 @@
       "issue_date": null,
       "issue_date_iso": null,
       "page_count": 10,
-      "citations": [
-        "circular no. 2016-04"
-      ],
+      "citations": [],
       "outgoing_refs": [],
       "incoming_refs": [
         "2021-rules-of-procedure-of-the-national-privacy-commission",
         "guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission"
       ],
       "content_path": "content/issuances/undated/rules-of-procedure.md",
-      "source_note_path": "content/sources/undated/rules-of-procedure.md"
+      "notes_path": "content/notes/undated/rules-of-procedure.md",
+      "source_note_path": "content/sources/undated/rules-of-procedure.md",
+      "ocr_used": false
+    },
+    {
+      "title": "Registration of Data Processing Systems Appendix 1",
+      "reference_label": null,
+      "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/NPC17-01_Appendix-1.pdf",
+      "pdf_path": "cache/pdfs/NPC17-01_Appendix-1.pdf",
+      "text_path": "cache/text/NPC17-01_Appendix-1.txt",
+      "raw_text_path": "cache/text_raw/NPC17-01_Appendix-1.txt",
+      "slug": "registration-of-data-processing-systems-appendix-1",
+      "year": "undated",
+      "kind": "Circular",
+      "canonical_reference": null,
+      "aliases": [
+        "registration of data processing systems appendix 1"
+      ],
+      "tags": [
+        "issuance",
+        "topic/registration",
+        "type/circular",
+        "year/undated"
+      ],
+      "excerpt": "The sectors or institutions provided herein that are processing personal data and operating in the country are subject to mandatory registration as provided in Sections 5(C) and 5(D) of NPC Circular 17-01. ALL OTHER PICS OR PIPS SHOULD REGISTER IF IT EMPLOYS AT LEAST 250...",
+      "issue_date": null,
+      "issue_date_iso": null,
+      "page_count": 2,
+      "citations": [],
+      "outgoing_refs": [],
+      "incoming_refs": [],
+      "content_path": "content/issuances/undated/registration-of-data-processing-systems-appendix-1.md",
+      "notes_path": "content/notes/undated/registration-of-data-processing-systems-appendix-1.md",
+      "source_note_path": "content/sources/undated/registration-of-data-processing-systems-appendix-1.md",
+      "ocr_used": false
     },
     {
       "title": "Registration of Data Processing Systems",
@@ -304,6 +359,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_Circular-17-01-Registration_final.pdf",
       "pdf_path": "cache/pdfs/NPC_Circular-17-01-Registration_final.pdf",
       "text_path": "cache/text/NPC_Circular-17-01-Registration_final.txt",
+      "raw_text_path": "cache/text_raw/NPC_Circular-17-01-Registration_final.txt",
       "slug": "registration-of-data-processing-systems",
       "year": "undated",
       "kind": "Circular",
@@ -324,17 +380,16 @@
       "issue_date_iso": null,
       "page_count": 14,
       "citations": [
-        "advisory no. 17-01",
-        "circular no. 2017-01"
+        "advisory no. 17-01"
       ],
-      "outgoing_refs": [
-        "registration-of-data-processing-systems-appendix-1"
-      ],
+      "outgoing_refs": [],
       "incoming_refs": [
         "guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures"
       ],
       "content_path": "content/issuances/undated/registration-of-data-processing-systems.md",
-      "source_note_path": "content/sources/undated/registration-of-data-processing-systems.md"
+      "notes_path": "content/notes/undated/registration-of-data-processing-systems.md",
+      "source_note_path": "content/sources/undated/registration-of-data-processing-systems.md",
+      "ocr_used": false
     },
     {
       "title": "Prerequisites for the Philippine Privacy Mark Certification Program",
@@ -342,6 +397,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/03/Prerequisites-for-the-Philippine-Privacy-Mark-Signed.pdf",
       "pdf_path": "cache/pdfs/Prerequisites-for-the-Philippine-Privacy-Mark-Signed.pdf",
       "text_path": "cache/text/Prerequisites-for-the-Philippine-Privacy-Mark-Signed.txt",
+      "raw_text_path": "cache/text_raw/Prerequisites-for-the-Philippine-Privacy-Mark-Signed.txt",
       "slug": "prerequisites-for-the-philippine-privacy-mark-certification-program",
       "year": "undated",
       "kind": "Circular",
@@ -363,7 +419,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/undated/prerequisites-for-the-philippine-privacy-mark-certification-program.md",
-      "source_note_path": "content/sources/undated/prerequisites-for-the-philippine-privacy-mark-certification-program.md"
+      "notes_path": "content/notes/undated/prerequisites-for-the-philippine-privacy-mark-certification-program.md",
+      "source_note_path": "content/sources/undated/prerequisites-for-the-philippine-privacy-mark-certification-program.md",
+      "ocr_used": false
     },
     {
       "title": "Personal Data Breach Management",
@@ -371,6 +429,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/sgd-npc-circular-16-03-personal-data-breach-management.pdf",
       "pdf_path": "cache/pdfs/sgd-npc-circular-16-03-personal-data-breach-management.pdf",
       "text_path": "cache/text/sgd-npc-circular-16-03-personal-data-breach-management.txt",
+      "raw_text_path": "cache/text_raw/sgd-npc-circular-16-03-personal-data-breach-management.txt",
       "slug": "personal-data-breach-management",
       "year": "undated",
       "kind": "Circular",
@@ -390,15 +449,15 @@
       "issue_date": null,
       "issue_date_iso": null,
       "page_count": 11,
-      "citations": [
-        "circular no. 2016-03"
-      ],
+      "citations": [],
       "outgoing_refs": [],
       "incoming_refs": [
         "2021-rules-of-procedure-of-the-national-privacy-commission"
       ],
       "content_path": "content/issuances/undated/personal-data-breach-management.md",
-      "source_note_path": "content/sources/undated/personal-data-breach-management.md"
+      "notes_path": "content/notes/undated/personal-data-breach-management.md",
+      "source_note_path": "content/sources/undated/personal-data-breach-management.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on the Processing of Personal Data for Loan-Related Transactions",
@@ -406,6 +465,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2020/10/NPC-Circular-No.-20-01.pdf",
       "pdf_path": "cache/pdfs/NPC-Circular-No.-20-01.pdf",
       "text_path": "cache/text/NPC-Circular-No.-20-01.txt",
+      "raw_text_path": "cache/text_raw/NPC-Circular-No.-20-01.txt",
       "slug": "guidelines-on-the-processing-of-personal-data-for-loan-related-transactions",
       "year": "undated",
       "kind": "Circular",
@@ -433,7 +493,9 @@
         "amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions"
       ],
       "content_path": "content/issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions.md",
-      "source_note_path": "content/sources/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions.md"
+      "notes_path": "content/notes/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions.md",
+      "source_note_path": "content/sources/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on Compliance Checks",
@@ -441,6 +503,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-02_ComplianceCheck.pdf",
       "pdf_path": "cache/pdfs/Circular18-02_ComplianceCheck.pdf",
       "text_path": "cache/text/Circular18-02_ComplianceCheck.txt",
+      "raw_text_path": "cache/text_raw/Circular18-02_ComplianceCheck.txt",
       "slug": "guidelines-on-compliance-checks",
       "year": "undated",
       "kind": "Circular",
@@ -460,15 +523,16 @@
       "issue_date_iso": null,
       "page_count": 8,
       "citations": [
-        "circular no. 18-02",
-        "circular no. 2018-02"
+        "circular no. 18-02"
       ],
       "outgoing_refs": [],
       "incoming_refs": [
         "2021-rules-of-procedure-of-the-national-privacy-commission"
       ],
       "content_path": "content/issuances/undated/guidelines-on-compliance-checks.md",
-      "source_note_path": "content/sources/undated/guidelines-on-compliance-checks.md"
+      "notes_path": "content/notes/undated/guidelines-on-compliance-checks.md",
+      "source_note_path": "content/sources/undated/guidelines-on-compliance-checks.md",
+      "ocr_used": false
     },
     {
       "title": "Considerations on the Use of Privacy Enhancing Technologies (PETs) in the Insurance Industry",
@@ -476,6 +540,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2025/03/NPC-IC-Joint-Advisory-2025.03.11-Considerations-on-the-Use-of-PETs-in-the-Insurance-Industry-w-SGD.pdf",
       "pdf_path": "cache/pdfs/NPC-IC-Joint-Advisory-2025.03.11-Considerations-on-the-Use-of-PETs-in-the-Insurance-Industry-w-SGD.pdf",
       "text_path": "cache/text/NPC-IC-Joint-Advisory-2025.03.11-Considerations-on-the-Use-of-PETs-in-the-Insurance-Industry-w-SGD.txt",
+      "raw_text_path": "cache/text_raw/NPC-IC-Joint-Advisory-2025.03.11-Considerations-on-the-Use-of-PETs-in-the-Insurance-Industry-w-SGD.txt",
       "slug": "considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry",
       "year": "2025",
       "kind": "Joint Advisory",
@@ -494,13 +559,14 @@
       "page_count": 5,
       "citations": [
         "circular no. 03",
-        "circular no. 04",
-        "circular no. 06"
+        "circular no. 04"
       ],
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry.md",
-      "source_note_path": "content/sources/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry.md"
+      "notes_path": "content/notes/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry.md",
+      "source_note_path": "content/sources/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras",
@@ -508,6 +574,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2025/05/SGD-NPC-Circular-No.-2025-01-Body-Worn-Cameras.pdf",
       "pdf_path": "cache/pdfs/SGD-NPC-Circular-No.-2025-01-Body-Worn-Cameras.pdf",
       "text_path": "cache/text/SGD-NPC-Circular-No.-2025-01-Body-Worn-Cameras.txt",
+      "raw_text_path": "cache/text_raw/SGD-NPC-Circular-No.-2025-01-Body-Worn-Cameras.txt",
       "slug": "guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras",
       "year": "2025",
       "kind": "Circular",
@@ -537,7 +604,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras.md",
-      "source_note_path": "content/sources/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras.md"
+      "notes_path": "content/notes/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras.md",
+      "source_note_path": "content/sources/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras.md",
+      "ocr_used": false
     },
     {
       "title": "Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements",
@@ -545,6 +614,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2025/07/SGD-2025-01-DSA-Clarification.pdf",
       "pdf_path": "cache/pdfs/SGD-2025-01-DSA-Clarification.pdf",
       "text_path": "cache/text/SGD-2025-01-DSA-Clarification.txt",
+      "raw_text_path": "cache/text_raw/SGD-2025-01-DSA-Clarification.txt",
       "slug": "clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements",
       "year": "2025",
       "kind": "Circular",
@@ -574,7 +644,9 @@
         "data-sharing-agreements"
       ],
       "content_path": "content/issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements.md",
-      "source_note_path": "content/sources/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements.md"
+      "notes_path": "content/notes/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements.md",
+      "source_note_path": "content/sources/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines On Privacy Engineering In Systems Life Cycle Processes",
@@ -582,6 +654,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2025/12/NPC_Advisory2025-02.pdf",
       "pdf_path": "cache/pdfs/NPC_Advisory2025-02.pdf",
       "text_path": "cache/text/NPC_Advisory2025-02.txt",
+      "raw_text_path": "cache/text_raw/NPC_Advisory2025-02.txt",
       "slug": "guidelines-on-privacy-engineering-in-systems-life-cycle-processes",
       "year": "2025",
       "kind": "Advisory",
@@ -614,7 +687,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes.md",
-      "source_note_path": "content/sources/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes.md"
+      "notes_path": "content/notes/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes.md",
+      "source_note_path": "content/sources/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes.md",
+      "ocr_used": false
     },
     {
       "title": "Closed-Circuit Television (CCTV) Systems",
@@ -622,6 +697,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-Circular-No.-2024-02-CCTV-Systems.pdf",
       "pdf_path": "cache/pdfs/NPC-Circular-No.-2024-02-CCTV-Systems.pdf",
       "text_path": "cache/text/NPC-Circular-No.-2024-02-CCTV-Systems.txt",
+      "raw_text_path": "cache/text_raw/NPC-Circular-No.-2024-02-CCTV-Systems.txt",
       "slug": "closed-circuit-television-cctv-systems",
       "year": "2024",
       "kind": "Circular",
@@ -652,7 +728,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2024/closed-circuit-television-cctv-systems.md",
-      "source_note_path": "content/sources/2024/closed-circuit-television-cctv-systems.md"
+      "notes_path": "content/notes/2024/closed-circuit-television-cctv-systems.md",
+      "source_note_path": "content/sources/2024/closed-circuit-television-cctv-systems.md",
+      "ocr_used": false
     },
     {
       "title": "Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission",
@@ -660,6 +738,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-2024-01-Amendments-to-the-2021-Rules-of-Procedure-of-the-NPC-FOR-PUBLICATION.pdf",
       "pdf_path": "cache/pdfs/NPC-Circular-2024-01-Amendments-to-the-2021-Rules-of-Procedure-of-the-NPC-FOR-PUBLICATION.pdf",
       "text_path": "cache/text/NPC-Circular-2024-01-Amendments-to-the-2021-Rules-of-Procedure-of-the-NPC-FOR-PUBLICATION.txt",
+      "raw_text_path": "cache/text_raw/NPC-Circular-2024-01-Amendments-to-the-2021-Rules-of-Procedure-of-the-NPC-FOR-PUBLICATION.txt",
       "slug": "amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission",
       "year": "2024",
       "kind": "Circular",
@@ -684,7 +763,9 @@
         "2021-rules-of-procedure-of-the-npc"
       ],
       "content_path": "content/issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission.md",
-      "source_note_path": "content/sources/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission.md"
+      "notes_path": "content/notes/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission.md",
+      "source_note_path": "content/sources/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission.md",
+      "ocr_used": false
     },
     {
       "title": "Online Payment",
@@ -692,6 +773,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/03/Fees_Advisory_Final_15-March-2024.pdf",
       "pdf_path": "cache/pdfs/Fees_Advisory_Final_15-March-2024.pdf",
       "text_path": "cache/text/Fees_Advisory_Final_15-March-2024.txt",
+      "raw_text_path": "cache/text_raw/Fees_Advisory_Final_15-March-2024.txt",
       "slug": "online-payment",
       "year": "2024",
       "kind": "Advisory",
@@ -713,7 +795,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2024/online-payment.md",
-      "source_note_path": "content/sources/2024/online-payment.md"
+      "notes_path": "content/notes/2024/online-payment.md",
+      "source_note_path": "content/sources/2024/online-payment.md",
+      "ocr_used": false
     },
     {
       "title": "Model Contractual Clauses for Cross-Border Transfers of Personal Data",
@@ -721,6 +805,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/06/Published-NPC-Advisory-No.-2024-01-Contractual-Clauses-for-Cross-Border-Transfers_30May24.pdf",
       "pdf_path": "cache/pdfs/Published-NPC-Advisory-No.-2024-01-Contractual-Clauses-for-Cross-Border-Transfers_30May24.pdf",
       "text_path": "cache/text/Published-NPC-Advisory-No.-2024-01-Contractual-Clauses-for-Cross-Border-Transfers_30May24.txt",
+      "raw_text_path": "cache/text_raw/Published-NPC-Advisory-No.-2024-01-Contractual-Clauses-for-Cross-Border-Transfers_30May24.txt",
       "slug": "model-contractual-clauses-for-cross-border-transfers-of-personal-data",
       "year": "2024",
       "kind": "Advisory",
@@ -749,7 +834,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data.md",
-      "source_note_path": "content/sources/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data.md"
+      "notes_path": "content/notes/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data.md",
+      "source_note_path": "content/sources/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data",
@@ -757,6 +844,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
       "pdf_path": "cache/pdfs/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
       "text_path": "cache/text/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.txt",
+      "raw_text_path": "cache/text_raw/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.txt",
       "slug": "guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data",
       "year": "2024",
       "kind": "Advisory",
@@ -777,7 +865,6 @@
       "issue_date_iso": "2024-12-19",
       "page_count": 5,
       "citations": [
-        "advisory no. 01",
         "advisory no. 2021-01",
         "advisory no. 2024",
         "circular no. 04",
@@ -792,7 +879,9 @@
         "model-contractual-clauses-for-cross-border-transfers-of-personal-data"
       ],
       "content_path": "content/issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data.md",
-      "source_note_path": "content/sources/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data.md"
+      "notes_path": "content/notes/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data.md",
+      "source_note_path": "content/sources/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012",
@@ -800,6 +889,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-Advisory-No.-2024-02-Personal-Data-Processing-Based-on-Section-13-f.pdf",
       "pdf_path": "cache/pdfs/NPC-Advisory-No.-2024-02-Personal-Data-Processing-Based-on-Section-13-f.pdf",
       "text_path": "cache/text/NPC-Advisory-No.-2024-02-Personal-Data-Processing-Based-on-Section-13-f.txt",
+      "raw_text_path": "cache/text_raw/NPC-Advisory-No.-2024-02-Personal-Data-Processing-Based-on-Section-13-f.txt",
       "slug": "guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012",
       "year": "2024",
       "kind": "Advisory",
@@ -828,7 +918,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012.md",
-      "source_note_path": "content/sources/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012.md"
+      "notes_path": "content/notes/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012.md",
+      "source_note_path": "content/sources/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on Child-Oriented Transparency",
@@ -836,6 +928,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.17-Guidelines-on-Child-Oriented-Transparency-w-SGD.pdf",
       "pdf_path": "cache/pdfs/Advisory-2024.12.17-Guidelines-on-Child-Oriented-Transparency-w-SGD.pdf",
       "text_path": "cache/text/Advisory-2024.12.17-Guidelines-on-Child-Oriented-Transparency-w-SGD.txt",
+      "raw_text_path": "cache/text_raw/Advisory-2024.12.17-Guidelines-on-Child-Oriented-Transparency-w-SGD.txt",
       "slug": "guidelines-on-child-oriented-transparency",
       "year": "2024",
       "kind": "Advisory",
@@ -866,7 +959,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2024/guidelines-on-child-oriented-transparency.md",
-      "source_note_path": "content/sources/2024/guidelines-on-child-oriented-transparency.md"
+      "notes_path": "content/notes/2024/guidelines-on-child-oriented-transparency.md",
+      "source_note_path": "content/sources/2024/guidelines-on-child-oriented-transparency.md",
+      "ocr_used": false
     },
     {
       "title": "FAQ Security of Personal Data in the Government and the Private Sector",
@@ -874,6 +969,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/12/v12-19-2024_FAQ-NPC-Circular-2023-06_NNJ_JDN.pdf",
       "pdf_path": "cache/pdfs/v12-19-2024_FAQ-NPC-Circular-2023-06_NNJ_JDN.pdf",
       "text_path": "cache/text/v12-19-2024_FAQ-NPC-Circular-2023-06_NNJ_JDN.txt",
+      "raw_text_path": "cache/text_raw/v12-19-2024_FAQ-NPC-Circular-2023-06_NNJ_JDN.txt",
       "slug": "faq-security-of-personal-data-in-the-government-and-the-private-sector",
       "year": "2023",
       "kind": "FAQ",
@@ -901,7 +997,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector.md",
-      "source_note_path": "content/sources/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector.md"
+      "notes_path": "content/notes/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector.md",
+      "source_note_path": "content/sources/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector.md",
+      "ocr_used": false
     },
     {
       "title": "FAQ Prerequisites for the Philippine Privacy Mark Certification Program",
@@ -909,6 +1007,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/12/v12-19-2024_FAQ-NPC-Circular-2023-05_LYA2_NNJ_JDN3.pdf",
       "pdf_path": "cache/pdfs/v12-19-2024_FAQ-NPC-Circular-2023-05_LYA2_NNJ_JDN3.pdf",
       "text_path": "cache/text/v12-19-2024_FAQ-NPC-Circular-2023-05_LYA2_NNJ_JDN3.txt",
+      "raw_text_path": "cache/text_raw/v12-19-2024_FAQ-NPC-Circular-2023-05_LYA2_NNJ_JDN3.txt",
       "slug": "faq-prerequisites-for-the-philippine-privacy-mark-certification-program",
       "year": "2023",
       "kind": "FAQ",
@@ -934,7 +1033,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program.md",
-      "source_note_path": "content/sources/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program.md"
+      "notes_path": "content/notes/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program.md",
+      "source_note_path": "content/sources/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program.md",
+      "ocr_used": false
     },
     {
       "title": "FAQ Guidelines on Legitimate Interest",
@@ -942,6 +1043,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/01/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.pdf",
       "pdf_path": "cache/pdfs/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.pdf",
       "text_path": "cache/text/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.txt",
+      "raw_text_path": "cache/text_raw/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.txt",
       "slug": "faq-guidelines-on-legitimate-interest",
       "year": "2023",
       "kind": "FAQ",
@@ -963,7 +1065,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2023/faq-guidelines-on-legitimate-interest.md",
-      "source_note_path": "content/sources/2023/faq-guidelines-on-legitimate-interest.md"
+      "notes_path": "content/notes/2023/faq-guidelines-on-legitimate-interest.md",
+      "source_note_path": "content/sources/2023/faq-guidelines-on-legitimate-interest.md",
+      "ocr_used": false
     },
     {
       "title": "Schedule of Fees and Charges of the National Privacy Commission",
@@ -971,6 +1075,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2023/05/Schedule-of-Fees-and-Charges-of-the-National-Privacy-Commission.pdf",
       "pdf_path": "cache/pdfs/Schedule-of-Fees-and-Charges-of-the-National-Privacy-Commission.pdf",
       "text_path": "cache/text/Schedule-of-Fees-and-Charges-of-the-National-Privacy-Commission.txt",
+      "raw_text_path": "cache/text_raw/Schedule-of-Fees-and-Charges-of-the-National-Privacy-Commission.txt",
       "slug": "schedule-of-fees-and-charges-of-the-national-privacy-commission",
       "year": "2023",
       "kind": "Circular",
@@ -999,7 +1104,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission.md",
-      "source_note_path": "content/sources/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission.md"
+      "notes_path": "content/notes/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission.md",
+      "source_note_path": "content/sources/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on Legitimate Interest",
@@ -1007,6 +1114,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-No.-2023-07_Guidelines-on-Legitimate-Interest_13-December-2023.pdf",
       "pdf_path": "cache/pdfs/NPC-Circular-No.-2023-07_Guidelines-on-Legitimate-Interest_13-December-2023.pdf",
       "text_path": "cache/text/NPC-Circular-No.-2023-07_Guidelines-on-Legitimate-Interest_13-December-2023.txt",
+      "raw_text_path": "cache/text_raw/NPC-Circular-No.-2023-07_Guidelines-on-Legitimate-Interest_13-December-2023.txt",
       "slug": "guidelines-on-legitimate-interest",
       "year": "2023",
       "kind": "Circular",
@@ -1034,7 +1142,9 @@
         "guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012"
       ],
       "content_path": "content/issuances/2023/guidelines-on-legitimate-interest.md",
-      "source_note_path": "content/sources/2023/guidelines-on-legitimate-interest.md"
+      "notes_path": "content/notes/2023/guidelines-on-legitimate-interest.md",
+      "source_note_path": "content/sources/2023/guidelines-on-legitimate-interest.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on Identification Cards",
@@ -1042,6 +1152,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2023/11/Published-NPC-Circular-No.-2023-03_Guidelines-on-Identification-Cards_07Nov2023.pdf",
       "pdf_path": "cache/pdfs/Published-NPC-Circular-No.-2023-03_Guidelines-on-Identification-Cards_07Nov2023.pdf",
       "text_path": "cache/text/Published-NPC-Circular-No.-2023-03_Guidelines-on-Identification-Cards_07Nov2023.txt",
+      "raw_text_path": "cache/text_raw/Published-NPC-Circular-No.-2023-03_Guidelines-on-Identification-Cards_07Nov2023.txt",
       "slug": "guidelines-on-identification-cards",
       "year": "2023",
       "kind": "Circular",
@@ -1066,7 +1177,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2023/guidelines-on-identification-cards.md",
-      "source_note_path": "content/sources/2023/guidelines-on-identification-cards.md"
+      "notes_path": "content/notes/2023/guidelines-on-identification-cards.md",
+      "source_note_path": "content/sources/2023/guidelines-on-identification-cards.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on Consent",
@@ -1074,6 +1187,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Circular-No.-2023-04_Guidelines-on-Consent_07Nov2023.pdf",
       "pdf_path": "cache/pdfs/NPC-Circular-No.-2023-04_Guidelines-on-Consent_07Nov2023.pdf",
       "text_path": "cache/text/NPC-Circular-No.-2023-04_Guidelines-on-Consent_07Nov2023.txt",
+      "raw_text_path": "cache/text_raw/NPC-Circular-No.-2023-04_Guidelines-on-Consent_07Nov2023.txt",
       "slug": "guidelines-on-consent",
       "year": "2023",
       "kind": "Circular",
@@ -1102,7 +1216,9 @@
         "guidelines-on-privacy-engineering-in-systems-life-cycle-processes"
       ],
       "content_path": "content/issuances/2023/guidelines-on-consent.md",
-      "source_note_path": "content/sources/2023/guidelines-on-consent.md"
+      "notes_path": "content/notes/2023/guidelines-on-consent.md",
+      "source_note_path": "content/sources/2023/guidelines-on-consent.md",
+      "ocr_used": false
     },
     {
       "title": "Data Privacy Competency Program",
@@ -1110,6 +1226,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2023/11/Circular-on-Data-Privacy-Competency-Program-2023.09.26.pdf",
       "pdf_path": "cache/pdfs/Circular-on-Data-Privacy-Competency-Program-2023.09.26.pdf",
       "text_path": "cache/text/Circular-on-Data-Privacy-Competency-Program-2023.09.26.txt",
+      "raw_text_path": "cache/text_raw/Circular-on-Data-Privacy-Competency-Program-2023.09.26.txt",
       "slug": "data-privacy-competency-program",
       "year": "2023",
       "kind": "Circular",
@@ -1131,7 +1248,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2023/data-privacy-competency-program.md",
-      "source_note_path": "content/sources/2023/data-privacy-competency-program.md"
+      "notes_path": "content/notes/2023/data-privacy-competency-program.md",
+      "source_note_path": "content/sources/2023/data-privacy-competency-program.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on Deceptive Design Patterns",
@@ -1139,6 +1258,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.pdf",
       "pdf_path": "cache/pdfs/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.pdf",
       "text_path": "cache/text/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.txt",
+      "raw_text_path": "cache/text_raw/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.txt",
       "slug": "guidelines-on-deceptive-design-patterns",
       "year": "2023",
       "kind": "Advisory",
@@ -1166,7 +1286,9 @@
         "guidelines-on-privacy-engineering-in-systems-life-cycle-processes"
       ],
       "content_path": "content/issuances/2023/guidelines-on-deceptive-design-patterns.md",
-      "source_note_path": "content/sources/2023/guidelines-on-deceptive-design-patterns.md"
+      "notes_path": "content/notes/2023/guidelines-on-deceptive-design-patterns.md",
+      "source_note_path": "content/sources/2023/guidelines-on-deceptive-design-patterns.md",
+      "ocr_used": false
     },
     {
       "title": "REGISTRATION OF PERSONAL DATA PROCESSING SYSTEM, NOTIFICATION REGARDING AUTOMATED DECISION-MAKING OR PROFILING, DESIGNATION OF DATA PROTECTION OFFICER, AND THE NATIONAL PRIVACY COMMISSION SEAL OF REGISTRATION",
@@ -1174,6 +1296,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-2.pdf",
       "pdf_path": "cache/pdfs/Circular-2022-04-2.pdf",
       "text_path": "cache/text/Circular-2022-04-2.txt",
+      "raw_text_path": "cache/text_raw/Circular-2022-04-2.txt",
       "slug": "registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration",
       "year": "2022",
       "kind": "Circular",
@@ -1202,7 +1325,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration.md",
-      "source_note_path": "content/sources/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration.md"
+      "notes_path": "content/notes/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration.md",
+      "source_note_path": "content/sources/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information",
@@ -1210,6 +1335,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.pdf",
       "pdf_path": "cache/pdfs/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.pdf",
       "text_path": "cache/text/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.txt",
+      "raw_text_path": "cache/text_raw/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.txt",
       "slug": "guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information",
       "year": "2022",
       "kind": "Circular",
@@ -1237,7 +1363,9 @@
         "amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions"
       ],
       "content_path": "content/issuances/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information.md",
-      "source_note_path": "content/sources/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information.md"
+      "notes_path": "content/notes/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information.md",
+      "source_note_path": "content/sources/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information.md",
+      "ocr_used": false
     },
     {
       "title": "GUIDELINES ON ADMINISTRATIVE FINES",
@@ -1245,6 +1373,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/08/NPC-CIRCULAR-NO.-2022-01-GUIDELINES-ON-ADMINISTRATIVE-FINES-dated-08-AUGUST-2022-w-SGD.pdf",
       "pdf_path": "cache/pdfs/NPC-CIRCULAR-NO.-2022-01-GUIDELINES-ON-ADMINISTRATIVE-FINES-dated-08-AUGUST-2022-w-SGD.pdf",
       "text_path": "cache/text/NPC-CIRCULAR-NO.-2022-01-GUIDELINES-ON-ADMINISTRATIVE-FINES-dated-08-AUGUST-2022-w-SGD.txt",
+      "raw_text_path": "cache/text_raw/NPC-CIRCULAR-NO.-2022-01-GUIDELINES-ON-ADMINISTRATIVE-FINES-dated-08-AUGUST-2022-w-SGD.txt",
       "slug": "guidelines-on-administrative-fines",
       "year": "2022",
       "kind": "Circular",
@@ -1272,7 +1401,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2022/guidelines-on-administrative-fines.md",
-      "source_note_path": "content/sources/2022/guidelines-on-administrative-fines.md"
+      "notes_path": "content/notes/2022/guidelines-on-administrative-fines.md",
+      "source_note_path": "content/sources/2022/guidelines-on-administrative-fines.md",
+      "ocr_used": false
     },
     {
       "title": "Annex 1",
@@ -1280,6 +1411,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-Annex-1-1.pdf",
       "pdf_path": "cache/pdfs/Circular-2022-04-Annex-1-1.pdf",
       "text_path": "cache/text/Circular-2022-04-Annex-1-1.txt",
+      "raw_text_path": "cache/text_raw/Circular-2022-04-Annex-1-1.txt",
       "slug": "annex-1",
       "year": "2022",
       "kind": "Circular",
@@ -1305,7 +1437,9 @@
         "registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration"
       ],
       "content_path": "content/issuances/2022/annex-1.md",
-      "source_note_path": "content/sources/2022/annex-1.md"
+      "notes_path": "content/notes/2022/annex-1.md",
+      "source_note_path": "content/sources/2022/annex-1.md",
+      "ocr_used": false
     },
     {
       "title": "Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions",
@@ -1313,6 +1447,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-02-Amending-20-01-Loan-Related-Transactions.pdf",
       "pdf_path": "cache/pdfs/NPC-Circular-No.-2022-–-02-Amending-20-01-Loan-Related-Transactions.pdf",
       "text_path": "cache/text/NPC-Circular-No.-2022-–-02-Amending-20-01-Loan-Related-Transactions.txt",
+      "raw_text_path": "cache/text_raw/NPC-Circular-No.-2022-–-02-Amending-20-01-Loan-Related-Transactions.txt",
       "slug": "amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions",
       "year": "2022",
       "kind": "Circular",
@@ -1343,7 +1478,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions.md",
-      "source_note_path": "content/sources/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions.md"
+      "notes_path": "content/notes/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions.md",
+      "source_note_path": "content/sources/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines On Requests For Personal Data Of Public Officers",
@@ -1351,6 +1488,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/08/NPC-Advisory-No.-2022-01-Request-for-Personal-Data-of-Public-Officers.pdf",
       "pdf_path": "cache/pdfs/NPC-Advisory-No.-2022-01-Request-for-Personal-Data-of-Public-Officers.pdf",
       "text_path": "cache/text/NPC-Advisory-No.-2022-01-Request-for-Personal-Data-of-Public-Officers.txt",
+      "raw_text_path": "cache/text_raw/NPC-Advisory-No.-2022-01-Request-for-Personal-Data-of-Public-Officers.txt",
       "slug": "guidelines-on-requests-for-personal-data-of-public-officers",
       "year": "2022",
       "kind": "Advisory",
@@ -1380,7 +1518,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2022/guidelines-on-requests-for-personal-data-of-public-officers.md",
-      "source_note_path": "content/sources/2022/guidelines-on-requests-for-personal-data-of-public-officers.md"
+      "notes_path": "content/notes/2022/guidelines-on-requests-for-personal-data-of-public-officers.md",
+      "source_note_path": "content/sources/2022/guidelines-on-requests-for-personal-data-of-public-officers.md",
+      "ocr_used": false
     },
     {
       "title": "2021 Rules of Procedure of the NPC",
@@ -1388,6 +1528,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/03/2021-Rules-of-Procedure-of-the-NPC-As-Amended.pdf",
       "pdf_path": "cache/pdfs/2021-Rules-of-Procedure-of-the-NPC-As-Amended.pdf",
       "text_path": "cache/text/2021-Rules-of-Procedure-of-the-NPC-As-Amended.txt",
+      "raw_text_path": "cache/text_raw/2021-Rules-of-Procedure-of-the-NPC-As-Amended.txt",
       "slug": "2021-rules-of-procedure-of-the-npc",
       "year": "2021",
       "kind": "Issuance",
@@ -1412,7 +1553,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2021/2021-rules-of-procedure-of-the-npc.md",
-      "source_note_path": "content/sources/2021/2021-rules-of-procedure-of-the-npc.md"
+      "notes_path": "content/notes/2021/2021-rules-of-procedure-of-the-npc.md",
+      "source_note_path": "content/sources/2021/2021-rules-of-procedure-of-the-npc.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines On The Processing Of Personal Data During Public Health Emergencies For Public Health Measures",
@@ -1420,6 +1563,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2021/11/Circular-on-Processing-for-Public-Health-Emergencies-FINAL.pdf",
       "pdf_path": "cache/pdfs/Circular-on-Processing-for-Public-Health-Emergencies-FINAL.pdf",
       "text_path": "cache/text/Circular-on-Processing-for-Public-Health-Emergencies-FINAL.txt",
+      "raw_text_path": "cache/text_raw/Circular-on-Processing-for-Public-Health-Emergencies-FINAL.txt",
       "slug": "guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures",
       "year": "2021",
       "kind": "Circular",
@@ -1439,7 +1583,6 @@
       "issue_date_iso": null,
       "page_count": 14,
       "citations": [
-        "advisory no. 2021-01",
         "advisory opinion no. 2020-054",
         "circular no. 16-03.23",
         "circular no. 17-01",
@@ -1453,12 +1596,13 @@
         "memorandum circular no. 2020-0002"
       ],
       "outgoing_refs": [
-        "data-subject-rights",
         "registration-of-data-processing-systems"
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures.md",
-      "source_note_path": "content/sources/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures.md"
+      "notes_path": "content/notes/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures.md",
+      "source_note_path": "content/sources/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures.md",
+      "ocr_used": false
     },
     {
       "title": "2021 Rules of Procedure of the National Privacy Commission",
@@ -1466,6 +1610,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2021/01/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf",
       "pdf_path": "cache/pdfs/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf",
       "text_path": "cache/text/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.txt",
+      "raw_text_path": "cache/text_raw/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.txt",
       "slug": "2021-rules-of-procedure-of-the-national-privacy-commission",
       "year": "2021",
       "kind": "Circular",
@@ -1503,7 +1648,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission.md",
-      "source_note_path": "content/sources/2021/2021-rules-of-procedure-of-the-national-privacy-commission.md"
+      "notes_path": "content/notes/2021/2021-rules-of-procedure-of-the-national-privacy-commission.md",
+      "source_note_path": "content/sources/2021/2021-rules-of-procedure-of-the-national-privacy-commission.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines On The Processing Of Personal Data For Election Campaign Or Partisan Political Activity",
@@ -1511,6 +1658,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2021/11/Advisory_Election_Campaigning_03-Nov-21-FINAL.pdf",
       "pdf_path": "cache/pdfs/Advisory_Election_Campaigning_03-Nov-21-FINAL.pdf",
       "text_path": "cache/text/Advisory_Election_Campaigning_03-Nov-21-FINAL.txt",
+      "raw_text_path": "cache/text_raw/Advisory_Election_Campaigning_03-Nov-21-FINAL.txt",
       "slug": "guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity",
       "year": "2021",
       "kind": "Advisory",
@@ -1543,7 +1691,9 @@
         "guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras"
       ],
       "content_path": "content/issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity.md",
-      "source_note_path": "content/sources/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity.md"
+      "notes_path": "content/notes/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity.md",
+      "source_note_path": "content/sources/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity.md",
+      "ocr_used": false
     },
     {
       "title": "Guidance For The Use Of The ASEAN Model Contract Clauses And ASEAN Data Management Framework",
@@ -1551,6 +1701,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2021/06/Advisory-ASEAN-MCC-DMF_FINAL-signed.pdf",
       "pdf_path": "cache/pdfs/Advisory-ASEAN-MCC-DMF_FINAL-signed.pdf",
       "text_path": "cache/text/Advisory-ASEAN-MCC-DMF_FINAL-signed.txt",
+      "raw_text_path": "cache/text_raw/Advisory-ASEAN-MCC-DMF_FINAL-signed.txt",
       "slug": "guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework",
       "year": "2021",
       "kind": "Advisory",
@@ -1577,7 +1728,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework.md",
-      "source_note_path": "content/sources/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework.md"
+      "notes_path": "content/notes/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework.md",
+      "source_note_path": "content/sources/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework.md",
+      "ocr_used": false
     },
     {
       "title": "Data Subject Rights",
@@ -1585,6 +1738,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2021/02/NPC-Advisory-2021-01-FINAL.pdf",
       "pdf_path": "cache/pdfs/NPC-Advisory-2021-01-FINAL.pdf",
       "text_path": "cache/text/NPC-Advisory-2021-01-FINAL.txt",
+      "raw_text_path": "cache/text_raw/NPC-Advisory-2021-01-FINAL.txt",
       "slug": "data-subject-rights",
       "year": "2021",
       "kind": "Advisory",
@@ -1611,11 +1765,12 @@
       ],
       "incoming_refs": [
         "guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data",
-        "guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures",
         "guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity"
       ],
       "content_path": "content/issuances/2021/data-subject-rights.md",
-      "source_note_path": "content/sources/2021/data-subject-rights.md"
+      "notes_path": "content/notes/2021/data-subject-rights.md",
+      "source_note_path": "content/sources/2021/data-subject-rights.md",
+      "ocr_used": false
     },
     {
       "title": "Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response",
@@ -1623,6 +1778,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2020/10/jmc2020-0002v1.pdf",
       "pdf_path": "cache/pdfs/jmc2020-0002v1.pdf",
       "text_path": "cache/text/jmc2020-0002v1.txt",
+      "raw_text_path": "cache/text_raw/jmc2020-0002v1.txt",
       "slug": "privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response",
       "year": "2020",
       "kind": "Memorandum Circular",
@@ -1648,7 +1804,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response.md",
-      "source_note_path": "content/sources/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response.md"
+      "notes_path": "content/notes/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response.md",
+      "source_note_path": "content/sources/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on the Use of Telemedicine in COVID-19 Response",
@@ -1656,6 +1814,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2020/10/DOH-mc2020-0016.pdf",
       "pdf_path": "cache/pdfs/DOH-mc2020-0016.pdf",
       "text_path": "cache/text/DOH-mc2020-0016.txt",
+      "raw_text_path": "cache/text_raw/DOH-mc2020-0016.txt",
       "slug": "guidelines-on-the-use-of-telemedicine-in-covid-19-response",
       "year": "2020",
       "kind": "Memorandum Circular",
@@ -1684,22 +1843,25 @@
         "guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response"
       ],
       "content_path": "content/issuances/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response.md",
-      "source_note_path": "content/sources/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response.md"
+      "notes_path": "content/notes/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response.md",
+      "source_note_path": "content/sources/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response",
-      "reference_label": "Memorandum Circular No. 2020",
+      "reference_label": "Memorandum Circular No. 2020-0003",
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2021/11/MC2020-0024-1.pdf",
       "pdf_path": "cache/pdfs/MC2020-0024-1.pdf",
       "text_path": "cache/text/MC2020-0024-1.txt",
+      "raw_text_path": "cache/text_raw/MC2020-0024-1.txt",
       "slug": "guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response",
       "year": "2020",
       "kind": "Memorandum Circular",
-      "canonical_reference": "memorandum circular no. 2020",
+      "canonical_reference": "memorandum circular no. 2020-0003",
       "aliases": [
         "guidelines on the monitoring and evaluation (m&e) of the use of telemedicine in covid-19 response",
-        "memorandum circular no. 2020",
-        "npc memorandum circular no. 2020"
+        "memorandum circular no. 2020-0003",
+        "npc memorandum circular no. 2020-0003"
       ],
       "tags": [
         "issuance",
@@ -1720,7 +1882,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response.md",
-      "source_note_path": "content/sources/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response.md"
+      "notes_path": "content/notes/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response.md",
+      "source_note_path": "content/sources/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response.md",
+      "ocr_used": false
     },
     {
       "title": "Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.)",
@@ -1728,6 +1892,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-02-Data-Sharing-Agreements-Involving-Government-Agencies.pdf",
       "pdf_path": "cache/pdfs/Sgd-NPC-Circular-16-02-Data-Sharing-Agreements-Involving-Government-Agencies.pdf",
       "text_path": "cache/text/Sgd-NPC-Circular-16-02-Data-Sharing-Agreements-Involving-Government-Agencies.txt",
+      "raw_text_path": "cache/text_raw/Sgd-NPC-Circular-16-02-Data-Sharing-Agreements-Involving-Government-Agencies.txt",
       "slug": "data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements",
       "year": "2020",
       "kind": "Circular",
@@ -1748,13 +1913,13 @@
       "issue_date": null,
       "issue_date_iso": null,
       "page_count": 8,
-      "citations": [
-        "circular no. 2016-02"
-      ],
+      "citations": [],
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements.md",
-      "source_note_path": "content/sources/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements.md"
+      "notes_path": "content/notes/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements.md",
+      "source_note_path": "content/sources/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements.md",
+      "ocr_used": false
     },
     {
       "title": "Data Sharing Agreements",
@@ -1762,6 +1927,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2021/01/Circular-Data-Sharing-Agreement-amending-16-02-21-Dec-2020-clean-copy-FINAL-LYA-and-JDN-signed-minor-edit.pdf",
       "pdf_path": "cache/pdfs/Circular-Data-Sharing-Agreement-amending-16-02-21-Dec-2020-clean-copy-FINAL-LYA-and-JDN-signed-minor-edit.pdf",
       "text_path": "cache/text/Circular-Data-Sharing-Agreement-amending-16-02-21-Dec-2020-clean-copy-FINAL-LYA-and-JDN-signed-minor-edit.txt",
+      "raw_text_path": "cache/text_raw/Circular-Data-Sharing-Agreement-amending-16-02-21-Dec-2020-clean-copy-FINAL-LYA-and-JDN-signed-minor-edit.txt",
       "slug": "data-sharing-agreements",
       "year": "2020",
       "kind": "Circular",
@@ -1790,7 +1956,9 @@
       ],
       "incoming_refs": [],
       "content_path": "content/issuances/2020/data-sharing-agreements.md",
-      "source_note_path": "content/sources/2020/data-sharing-agreements.md"
+      "notes_path": "content/notes/2020/data-sharing-agreements.md",
+      "source_note_path": "content/sources/2020/data-sharing-agreements.md",
+      "ocr_used": false
     },
     {
       "title": "Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website",
@@ -1798,6 +1966,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-2020-01-FINAL.pdf",
       "pdf_path": "cache/pdfs/NPC-Advisory-2020-01-FINAL.pdf",
       "text_path": "cache/text/NPC-Advisory-2020-01-FINAL.txt",
+      "raw_text_path": "cache/text_raw/NPC-Advisory-2020-01-FINAL.txt",
       "slug": "protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website",
       "year": "2020",
       "kind": "Advisory",
@@ -1820,7 +1989,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website.md",
-      "source_note_path": "content/sources/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website.md"
+      "notes_path": "content/notes/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website.md",
+      "source_note_path": "content/sources/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission",
@@ -1828,6 +1999,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2020/10/FINAL-VERSION-Guidelines-on-the-Use-of-Videoconferencing-Technology-for-Remote-Appearance-before-the-NPC-OPC.pdf",
       "pdf_path": "cache/pdfs/FINAL-VERSION-Guidelines-on-the-Use-of-Videoconferencing-Technology-for-Remote-Appearance-before-the-NPC-OPC.pdf",
       "text_path": "cache/text/FINAL-VERSION-Guidelines-on-the-Use-of-Videoconferencing-Technology-for-Remote-Appearance-before-the-NPC-OPC.txt",
+      "raw_text_path": "cache/text_raw/FINAL-VERSION-Guidelines-on-the-Use-of-Videoconferencing-Technology-for-Remote-Appearance-before-the-NPC-OPC.txt",
       "slug": "guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission",
       "year": "2020",
       "kind": "Advisory",
@@ -1847,7 +2019,6 @@
       "issue_date_iso": null,
       "page_count": 8,
       "citations": [
-        "advisory no. 2020",
         "advisory no. 2020-02",
         "circular no. 16-04"
       ],
@@ -1858,7 +2029,9 @@
         "2021-rules-of-procedure-of-the-national-privacy-commission"
       ],
       "content_path": "content/issuances/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission.md",
-      "source_note_path": "content/sources/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission.md"
+      "notes_path": "content/notes/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission.md",
+      "source_note_path": "content/sources/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on the Use of Closed-circuit Television (CCTV) Systems (This Advisory has been repealed by NPC Circular No. 2024-02 - Closed-Circuit Television (CCTV) Systems.)",
@@ -1866,6 +2039,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2020/11/Advisory-on-CCTV-16NOV2020-FINAL.pdf",
       "pdf_path": "cache/pdfs/Advisory-on-CCTV-16NOV2020-FINAL.pdf",
       "text_path": "cache/text/Advisory-on-CCTV-16NOV2020-FINAL.txt",
+      "raw_text_path": "cache/text_raw/Advisory-on-CCTV-16NOV2020-FINAL.txt",
       "slug": "guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems",
       "year": "2020",
       "kind": "Advisory",
@@ -1887,8 +2061,6 @@
       "page_count": 9,
       "citations": [
         "advisory no. 2020-04",
-        "advisory opinion no. 2018-084",
-        "memorandum circular no. 16-01",
         "memorandum circular no. 2014-119",
         "memorandum circular no. 2014-1193"
       ],
@@ -1897,7 +2069,9 @@
         "closed-circuit-television-cctv-systems"
       ],
       "content_path": "content/issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems.md",
-      "source_note_path": "content/sources/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems.md"
+      "notes_path": "content/notes/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems.md",
+      "source_note_path": "content/sources/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response",
@@ -1905,6 +2079,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-No.-2020-03-FINAL.pdf",
       "pdf_path": "cache/pdfs/NPC-Advisory-No.-2020-03-FINAL.pdf",
       "text_path": "cache/text/NPC-Advisory-No.-2020-03-FINAL.txt",
+      "raw_text_path": "cache/text_raw/NPC-Advisory-No.-2020-03-FINAL.txt",
       "slug": "guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response",
       "year": "2020",
       "kind": "Advisory",
@@ -1932,7 +2107,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response.md",
-      "source_note_path": "content/sources/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response.md"
+      "notes_path": "content/notes/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response.md",
+      "source_note_path": "content/sources/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response.md",
+      "ocr_used": false
     },
     {
       "title": "Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response",
@@ -1940,6 +2117,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2020/11/Advisory-2020-03-A-FINAL.pdf",
       "pdf_path": "cache/pdfs/Advisory-2020-03-A-FINAL.pdf",
       "text_path": "cache/text/Advisory-2020-03-A-FINAL.txt",
+      "raw_text_path": "cache/text_raw/Advisory-2020-03-A-FINAL.txt",
       "slug": "amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response",
       "year": "2020",
       "kind": "Advisory",
@@ -1964,7 +2142,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response.md",
-      "source_note_path": "content/sources/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response.md"
+      "notes_path": "content/notes/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response.md",
+      "source_note_path": "content/sources/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response.md",
+      "ocr_used": false
     },
     {
       "title": "Amending Certain Provisions of NPC Advisory No. 2020-01: Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website",
@@ -1972,6 +2152,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2020/11/Amendment-to-Advisory-2020-01-Final.pdf",
       "pdf_path": "cache/pdfs/Amendment-to-Advisory-2020-01-Final.pdf",
       "text_path": "cache/text/Amendment-to-Advisory-2020-01-Final.txt",
+      "raw_text_path": "cache/text_raw/Amendment-to-Advisory-2020-01-Final.txt",
       "slug": "amending-certain-provisions-of-npc-advisory-no-2020-01-protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website",
       "year": "2020",
       "kind": "Advisory",
@@ -1997,42 +2178,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2020/amending-certain-provisions-of-npc-advisory-no-2020-01-protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website.md",
-      "source_note_path": "content/sources/2020/amending-certain-provisions-of-npc-advisory-no-2020-01-protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website.md"
-    },
-    {
-      "title": "Registration of Data Processing Systems Appendix 1",
-      "reference_label": "Circular No. 2017-01",
-      "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/NPC17-01_Appendix-1.pdf",
-      "pdf_path": "cache/pdfs/NPC17-01_Appendix-1.pdf",
-      "text_path": "cache/text/NPC17-01_Appendix-1.txt",
-      "slug": "registration-of-data-processing-systems-appendix-1",
-      "year": "2017",
-      "kind": "Circular",
-      "canonical_reference": "circular no. 2017-01",
-      "aliases": [
-        "circular no. 2017-01",
-        "npc circular no. 2017-01",
-        "registration of data processing systems appendix 1"
-      ],
-      "tags": [
-        "issuance",
-        "topic/registration",
-        "type/circular",
-        "year/2017"
-      ],
-      "excerpt": "NPC Circular No. 2017-01 Registration of Data Processing Systems and Notifications regarding Automated Decision-Making Operations 31 July 2017",
-      "issue_date": null,
-      "issue_date_iso": null,
-      "page_count": 2,
-      "citations": [
-        "circular no. 2017-01"
-      ],
-      "outgoing_refs": [],
-      "incoming_refs": [
-        "registration-of-data-processing-systems"
-      ],
-      "content_path": "content/issuances/2017/registration-of-data-processing-systems-appendix-1.md",
-      "source_note_path": "content/sources/2017/registration-of-data-processing-systems-appendix-1.md"
+      "notes_path": "content/notes/2020/amending-certain-provisions-of-npc-advisory-no-2020-01-protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website.md",
+      "source_note_path": "content/sources/2020/amending-certain-provisions-of-npc-advisory-no-2020-01-protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website.md",
+      "ocr_used": false
     },
     {
       "title": "Guidelines on Privacy Impact Assessments",
@@ -2040,6 +2188,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryNo.2017-03.pdf",
       "pdf_path": "cache/pdfs/NPC_AdvisoryNo.2017-03.pdf",
       "text_path": "cache/text/NPC_AdvisoryNo.2017-03.txt",
+      "raw_text_path": "cache/text_raw/NPC_AdvisoryNo.2017-03.txt",
       "slug": "guidelines-on-privacy-impact-assessments",
       "year": "2017",
       "kind": "Advisory",
@@ -2059,15 +2208,16 @@
       "issue_date_iso": null,
       "page_count": 11,
       "citations": [
-        "advisory no. 17-01",
-        "advisory no. 2017-03"
+        "advisory no. 17-01"
       ],
       "outgoing_refs": [],
       "incoming_refs": [
         "guidelines-on-privacy-engineering-in-systems-life-cycle-processes"
       ],
       "content_path": "content/issuances/2017/guidelines-on-privacy-impact-assessments.md",
-      "source_note_path": "content/sources/2017/guidelines-on-privacy-impact-assessments.md"
+      "notes_path": "content/notes/2017/guidelines-on-privacy-impact-assessments.md",
+      "source_note_path": "content/sources/2017/guidelines-on-privacy-impact-assessments.md",
+      "ocr_used": false
     },
     {
       "title": "Designation of Data Protection Officers",
@@ -2075,6 +2225,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/NPC-Advisory-2017-01-sgd.pdf",
       "pdf_path": "cache/pdfs/NPC-Advisory-2017-01-sgd.pdf",
       "text_path": "cache/text/NPC-Advisory-2017-01-sgd.txt",
+      "raw_text_path": "cache/text_raw/NPC-Advisory-2017-01-sgd.txt",
       "slug": "designation-of-data-protection-officers",
       "year": "2017",
       "kind": "Advisory",
@@ -2094,13 +2245,13 @@
       "issue_date": null,
       "issue_date_iso": null,
       "page_count": 9,
-      "citations": [
-        "advisory no. 2017-01"
-      ],
+      "citations": [],
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2017/designation-of-data-protection-officers.md",
-      "source_note_path": "content/sources/2017/designation-of-data-protection-officers.md"
+      "notes_path": "content/notes/2017/designation-of-data-protection-officers.md",
+      "source_note_path": "content/sources/2017/designation-of-data-protection-officers.md",
+      "ocr_used": false
     },
     {
       "title": "Access to Personal Data Sheets of Government Personnel",
@@ -2108,6 +2259,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_Advisory_No.2017-02.pdf",
       "pdf_path": "cache/pdfs/NPC_Advisory_No.2017-02.pdf",
       "text_path": "cache/text/NPC_Advisory_No.2017-02.txt",
+      "raw_text_path": "cache/text_raw/NPC_Advisory_No.2017-02.txt",
       "slug": "access-to-personal-data-sheets-of-government-personnel",
       "year": "2017",
       "kind": "Advisory",
@@ -2123,15 +2275,19 @@
         "type/advisory",
         "year/2017"
       ],
-      "excerpt": "Access to Personal Data Sheets of Government Personnel",
+      "excerpt": "SUBJECT: ACCESS TO PERSONAL DATA SHEETS ano /07B- 08.31 1F 00 654 OF GOVERNMENT PERSONNEL",
       "issue_date": null,
       "issue_date_iso": null,
       "page_count": 5,
-      "citations": [],
+      "citations": [
+        "advisory no. 2017-02"
+      ],
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/2017/access-to-personal-data-sheets-of-government-personnel.md",
-      "source_note_path": "content/sources/2017/access-to-personal-data-sheets-of-government-personnel.md"
+      "notes_path": "content/notes/2017/access-to-personal-data-sheets-of-government-personnel.md",
+      "source_note_path": "content/sources/2017/access-to-personal-data-sheets-of-government-personnel.md",
+      "ocr_used": true
     },
     {
       "title": "FAQs",
@@ -2139,6 +2295,7 @@
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2020/10/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.pdf",
       "pdf_path": "cache/pdfs/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.pdf",
       "text_path": "cache/text/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.txt",
+      "raw_text_path": "cache/text_raw/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.txt",
       "slug": "faqs",
       "year": "1988",
       "kind": "FAQ",
@@ -2163,7 +2320,9 @@
       "outgoing_refs": [],
       "incoming_refs": [],
       "content_path": "content/issuances/1988/faqs.md",
-      "source_note_path": "content/sources/1988/faqs.md"
+      "notes_path": "content/notes/1988/faqs.md",
+      "source_note_path": "content/sources/1988/faqs.md",
+      "ocr_used": false
     }
   ]
 }

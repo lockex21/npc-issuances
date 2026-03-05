@@ -14,27 +14,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, under Section 9 of the Implementing Rules and Regulations of the DPA (IRR), the NPC is mandated to, among others, develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                  Republic of the Philippines  
-                             NATIONAL PRIVACY COMMISSION  
-                            5th Floor, Philippine International Convention Center,  
-                            Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: 9f5a9c193a2a603c3a8ed791c7b7d4bad1bef980 -->
 NPC Circular No. 2023 - 04
 
 DATE                    :   07 November 2023
@@ -78,9 +60,6 @@ obtained and managed in compliance with the DPA and its IRR.
 This Circular is limited to the requirements of consent in relation to the processing of personal  
 data. Nothing in this Circular shall be construed as modifying the existing general legal
 
-Ref No.: PDD-23-00213                                    NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
-
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 framework on obligations and contracts under the provisions of the Civil Code of the  
 Philippines and other applicable laws and regulations.
 
@@ -125,16 +104,13 @@ as follows:
 1 Article 29 Working Party, Guidelines on consent under Regulation 2016/679, Adopted on 28 November 2017. See also
 
 European Data Protection Board, Guidelines 05/2020 on consent under Regulation 2016/679, Adopted on 4 May 2020,  
-available at: https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_consent_en.pdf (last accessed on 2  
+available at: [https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_consent_en.pdf](https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_consent_en.pdf) (last accessed on 2  
 February 2023).  
 2 Id.  
 3 Philippine Health Research Ethics Board Ad Hoc Committee for Updating the National Ethical Guidelines, National
 
-Ethical Guidelines for Health and Health Related Research, Introduction, p. 5 (2017).  
-Ref No.: PDD-23-00213                                             NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
+Ethical Guidelines for Health and Health Related Research, Introduction, p. 5 (2017).
 
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                            2  
                               GENERAL DATA PRIVACY PRINCIPLES
 
 SECTION 3. Transparency. — A PIC shall ensure that the data subject is aware of the nature,  
@@ -181,17 +157,14 @@ consent.
                 on how the personal data will be processed must be easily apparent to the data  
                 subject. The information should be provided in the simplest manner possible
 
-4 JVA v. UXXX, NPC Case No. 19-498, 9 June 2020, available at: https://www.privacy.gov.ph/wp-
+4 JVA v. UXXX, NPC Case No. 19-498, 9 June 2020, available at: [https://www.privacy.gov.ph/wp-](https://www.privacy.gov.ph/wp-)
 
 content/uploads/2022/01/ Decision-NPC-Case-No.-19-498-JVA-v.-UXXX.pdf (last accessed: 2 February 2023).  
 5 See JRG v. CXXX Lending Corporation, NPC Case No. 19-450, 9 June 2020, available at:
 
-https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision_NPC-19-450-JRG-v.-CXXX.pdf (last accessed: 2  
-February 2023).  
-Ref No.: PDD-23-00213                                       NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
+[https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision_NPC-19-450-JRG-v.-CXXX.pdf](https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision_NPC-19-450-JRG-v.-CXXX.pdf) (last accessed: 2  
+February 2023).
 
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                              3  
                   and avoid using complex sentences or language structures.6 The use of  
                   layman’s terms is encouraged to ensure that the data subject understands the  
                   processing, but not at the risk of miscommunicating the technical and complex  
@@ -240,13 +213,10 @@ Ref No.: PDD-23-00213                                       NPC_PPO_PDD_CIRC-V1.
             data.
 
 6 NPC Case No. 19-531, 21 May 2020, (NPC 2020) (Unreported).  
-7 JRG v. CXXX Lending Corporation, NPC Case No. 19-450, 9 June 2020, available at: https://www.privacy.gov.ph/wp-
+7 JRG v. CXXX Lending Corporation, NPC Case No. 19-450, 9 June 2020, available at: [https://www.privacy.gov.ph/wp-](https://www.privacy.gov.ph/wp-)
 
-content/ uploads/2022/01/Decision_NPC-19-450-JRG-v.-CXXX.pdf (last accessed: 2 February 2023).  
-Ref No.: PDD-23-00213                                       NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
+content/ uploads/2022/01/Decision_NPC-19-450-JRG-v.-CXXX.pdf (last accessed: 2 February 2023).
 
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                    4  
               a. General rule. A privacy notice is required in any instance of processing, whether  
                  based on consent, other lawful criteria for processing under Sections 12 or 13  
                  of the DPA, or where processing is under a special case pursuant to Section 4  
@@ -294,13 +264,10 @@ declared and specified purpose.
             or enhancing services is allowed when such additional personal data and act of  
             processing is proportional to the additional purpose.
 
-8 JV v. JR, NPC Case No. 17-047, 13 August 2019, available at: https://www.privacy.gov.ph/wp-
+8 JV v. JR, NPC Case No. 17-047, 13 August 2019, available at: [https://www.privacy.gov.ph/wp-](https://www.privacy.gov.ph/wp-)
 
-content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf (last accessed on: 2 February 2023).  
-Ref No.: PDD-23-00213                                         NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
+content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf (last accessed on: 2 February 2023).
 
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                              5  
         2. Consent for processing additional personal data for additional purposes must be  
            embodied in the appropriate agreements that clearly indicate all the elements of  
            valid consent.
@@ -349,10 +316,6 @@ is neither manipulative nor unduly oppressive to the data subject.
        collected, or is beyond what a data subject may reasonably expect in relation to the  
        purpose, scope, manner, and extent of the processing of personal data.
 
-Ref No.: PDD-23-00213                                  NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
-
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                    6  
                                           ELEMENTS OF CONSENT
 
 SECTION 7. Freely given. — A data subject must have a genuine choice and control over  
@@ -397,18 +360,15 @@ exercise free will by the data subject.
             contemplated in the contract; and  
          4. The manner of the processing is fair and lawful.
 
-9  MNLC, Inc. v. IKP, NPC Case No. 19-528, 29 October 2020, available at: https://www.privacy.gov.ph/wp-  
+9  MNLC, Inc. v. IKP, NPC Case No. 19-528, 29 October 2020, available at: [https://www.privacy.gov.ph/wp-](https://www.privacy.gov.ph/wp-)  
 content/uploads/2022/01/Decision_NPC-19-528-MNLC-v.-PXXX-Corporation.pdf (last accessed: 2 February 2023).  
 10 Dia v. St. Ferdinand Memorial Park, Inc., as cited in Cabanting v. BPI Family Savings Bank, Inc., G.R. No. 201927, 17
 
 February 2016.  
-11 VVC v. CJB, NPC Case No. 19-134, 10 Dec. 2021, available at: https://www.privacy.gov.ph/wp-
+11 VVC v. CJB, NPC Case No. 19-134, 10 Dec. 2021, available at: [https://www.privacy.gov.ph/wp-](https://www.privacy.gov.ph/wp-)
 
-content/uploads/2022/04/NPC-19-134-VVC-v.-CJB-Decision-2021.12.10.pdf (last accessed: 7 February 2023).  
-Ref No.: PDD-23-00213                                           NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
+content/uploads/2022/04/NPC-19-134-VVC-v.-CJB-Decision-2021.12.10.pdf (last accessed: 7 February 2023).
 
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                           7  
 SECTION 8. Specific. — A PIC must ensure that the data subject provides specific consent  
 to the specific and declared purposes of the processing of personal data.
 
@@ -456,17 +416,13 @@ subject has sufficient understanding of what they are consenting to.14
 
 12 In re: FLI Operating ABC Online Lending Application, NPC Case No. 19-910, 17 December 2020, available at:
 
-https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-910-In-re-FLI-Decision-LYA-Final-pseudonymized-  
+[https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-910-In-re-FLI-Decision-LYA-Final-pseudonymized-](https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-910-In-re-FLI-Decision-LYA-Final-pseudonymized-)  
 17Dec2020-.pdf (last accessed: 6 February 2023).  
-13 AMP v. HXXX Lending Inc., NPC Case No. 19-621, 19 November 2020, available at: https://www.privacy.gov.ph/wp-
+13 AMP v. HXXX Lending Inc., NPC Case No. 19-621, 19 November 2020, available at: [https://www.privacy.gov.ph/wp-](https://www.privacy.gov.ph/wp-)
 
 content/uploads/2022/01/Decision_NPC-19-621-AMP-v.-HXXX-Lending.pdf (last accessed: 6 February 2023).  
 14 JVA v. UXXX, NPC Case No 19-498, at 8.
 
-Ref No.: PDD-23-00213                                        NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
-
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                   8  
               another lawful basis under the DPA, then a request for consent is unnecessary.  
            2. A PIC shall minimize the risk of consent fatigue of its target data subjects.
 
@@ -516,12 +472,9 @@ specific purpose.
 17 See: European Data Protection Board, Guidelines 05/2020 on consent under Regulation 2016/679
 
 Version 1.1, Adopted on 4 May 2020, available at  
-https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_ consent_en.pdf (last accessed 2 February  
-2023).  
-Ref No.: PDD-23-00213                                            NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
+[https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_](https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_) consent_en.pdf (last accessed 2 February  
+2023).
 
-               URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                          9  
      B. Any evidence, in accordance with the Rules of Court, shall be sufficient, provided that  
         the following are established:
 
@@ -573,10 +526,6 @@ including the provision of services relying on that consent, and delete the pers
 2020.  
 20 Ibid.
 
-Ref No.: PDD-23-00213                                        NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
-
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                    10  
          after the data subject withdraws consent, taking into account the other lawful bases  
          for processing, industry best practices or standards, and other relevant factors.
 
@@ -626,11 +575,8 @@ the requirements of applicable laws, regulations, and ethical standards,21 inclu
 
 21 See among others: (1) Philippine Health Research Ethics Board, National Ethical Guidelines for Research Involving
 
-Human Participants 2022, available at https://ethics.healthresearch.ph/index.php/2012-04-19-05-10-10/451-the-advance-  
-Ref No.: PDD-23-00213                                           NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
+Human Participants 2022, available at [https://ethics.healthresearch.ph/index.php/2012-04-19-05-10-10/451-the-advance-](https://ethics.healthresearch.ph/index.php/2012-04-19-05-10-10/451-the-advance-)
 
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                        11  
 limited to, obtaining an informed consent from the data subject, unless the processing may be  
 justified by other lawful criteria provided under the DPA or as a special case under Section 4  
 of the DPA.
@@ -678,14 +624,11 @@ its entry into the processing system of the PIC, or at the next practical opport
        such as discriminatory outcomes and infringement on the right to fair treatment; and
 
 copy-of-the-2022-national-ethical-guidelines-for-research-involving-human-participants-is-now-available and National  
-Ethical Guidelines for Health and Health-Related Research 2017, available at https://ethics.healthresearch.ph/  
+Ethical Guidelines for Health and Health-Related Research 2017, available at [https://ethics.healthresearch.ph/](https://ethics.healthresearch.ph/)  
 index.php/references; (2) DOST, DOH, CHED, and UP Manila, Joint Memorandum 2012-001 - Requirement for Ethical  
-Review of Health Research Involving Human Participants, available at https://ethics.healthresearch.ph/index.php/2012-04-  
-19-05-10-10/170-joint-memo-2012-001.  
-Ref No.: PDD-23-00213                                           NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
+Review of Health Research Involving Human Participants, available at [https://ethics.healthresearch.ph/index.php/2012-04-](https://ethics.healthresearch.ph/index.php/2012-04-)  
+19-05-10-10/170-joint-memo-2012-001.
 
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                       12  
     C. A PIC shall obtain the consent of the data subject when automated processing is the  
        sole basis for a decision that produces legal effects on or may significantly affect the  
        data subject.
@@ -733,11 +676,8 @@ processing remains and still holds true.
         1. Processing of personal data may continue should there be another lawful basis for  
            processing the personal data based on Section 12 and 13 of the DPA, except for  
            direct marketing.  
-        2. A PIC shall have the burden of determining and proving the appropriate lawful  
-Ref No.: PDD-23-00213                                NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
+        2. A PIC shall have the burden of determining and proving the appropriate lawful
 
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                 13  
             basis to continue such processing and inform the data subject of the lawful basis  
             for continued processing.
 
@@ -772,34 +712,12 @@ Approved:
                   SGD.                                                SGD.  
      LEANDRO ANGELO Y. AGUIRRE                               NERISSA N. DE JESUS  
        Deputy Privacy Commissioner                         Deputy Privacy Commissioner
-
-Ref No.: PDD-23-00213                                NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
-
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                 14
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2023-04
-- Type: Circular
-- Year: 2023
-- Issued: Unknown
-- Pages: 14
-- Source PDF: [Open PDF](../../pdfs/NPC-Circular-No.-2023-04_Guidelines-on-Consent_07Nov2023.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Circular-No.-2023-04_Guidelines-on-Consent_07Nov2023.pdf
-- Topic pages: [[topics/consent|Consent]]
-- Generated source note: [[sources/2023/guidelines-on-consent|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2024/closed-circuit-television-cctv-systems|Closed-Circuit Television (CCTV) Systems]]
-- [[issuances/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Guidelines On Privacy Engineering In Systems Life Cycle Processes]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2023/guidelines-on-consent]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2023/guidelines-on-consent|Analysis and metadata]]
+- Raw source text: [[sources/2023/guidelines-on-consent|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Circular-No.-2023-04_Guidelines-on-Consent_07Nov2023.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

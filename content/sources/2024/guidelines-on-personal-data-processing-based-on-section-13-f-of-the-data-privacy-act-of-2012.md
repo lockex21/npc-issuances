@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012 Source Text"
-description: "Generated extracted text for Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012."
+title: "Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012 Raw Source Text"
+description: "Raw extracted text for Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012 before manual annotation."
 aliases:
-  - "Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012 Source Text"
+  - "Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012 Raw Source Text"
 tags:
   - "source-text"
   - "year/2024"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012]]
-- PDF: [Open PDF](../../pdfs/NPC-Advisory-No.-2024-02-Personal-Data-Processing-Based-on-Section-13-f.pdf)
+- Companion note: [[notes/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-Advisory-No.-2024-02-Personal-Data-Processing-Based-on-Section-13-f.pdf
+- OCR used: no
 
 ## Extracted Text
                                       Republic of the Philippines  
@@ -68,7 +69,7 @@ DPA;
 1 Francisco I. Chavez v. Judicial Bar and Council, G.R. No. 202242 (2012).
 
 Ref No.: PDD-24-00153                                                 NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-            URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+            URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
 WHEREAS, the information referred to in Section 4 (e) of the DPA does not pertain to personal  
 information. The doctrine of last antecedent states that a qualifying or relative word or clause,  
 such as “which,” “said,” and “such,” is to be construed as applying to the words, phrase, or  
@@ -119,7 +120,7 @@ claims. Thus, processing under Section 13 (f) of the DPA is read as follows:
 2 Marvin L. San Juan v. People of the Philippines, G.R. No. 236628 (2023).
 
 Ref No.: PDD-24-00153                                                 NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                                 2  
     C. The processing entails providing to government or public authority personal data that  
        is necessary for the protection of lawful rights and interests in court proceedings or  
@@ -159,30 +160,30 @@ of Legal Claims. —
     B. Processing of personal data on the basis of Section 13 (f) of the DPA need not result in  
        the filing of an actual case.
 
-3  EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 8, available at https://privacy.gov.ph/wp-  
+3  EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 8, available at [https://privacy.gov.ph/wp-](https://privacy.gov.ph/wp-)  
 content/uploads/2024/06/NPC-17-018-2019.07.15-EA-and-TA-v-EJ-Decision-FinalP.pdf.  
 4 KRL v. Trinity University of Asia, AA, MC, NCB, RG GV, GCT, RR, MR, PB, CID Case No. 17-K-003, 19 November 2019, at 6,
 
-available      at     https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-K-003-KRL-v-Trinity-Decision-PSD-  
+available      at     [https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-K-003-KRL-v-Trinity-Decision-PSD-](https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-K-003-KRL-v-Trinity-Decision-PSD-)  
 10Aug2020.pdf.  
 5 See National Privacy Commission, Guidelines on Legitimate Interest, [[issuances/2023/guidelines-on-legitimate-interest|NPC Circular No. 2023-07]] [NPC Circ. No. 2023-07] (13
 
 December 2023).  
-6 EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 8, available at https://privacy.gov.ph/wp-
+6 EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 8, available at [https://privacy.gov.ph/wp-](https://privacy.gov.ph/wp-)
 
 content/uploads/2024/06/NPC-17-018-2019.07.15-EA-and-TA-v-EJ-Decision-FinalP.pdf.  
 7 National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule
 
 IV, § 18 (c) (2016); See Spouses MCD and JJD v. Victoria Milling Company, et al., NPC 19-758 & 19-1846, 30 June 2023, at 23,  
-available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-19-758-to-NPC-19-1846-2023.06.30-MCD-_-JJD-v-  
+available at [https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-19-758-to-NPC-19-1846-2023.06.30-MCD-_-JJD-v-](https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-19-758-to-NPC-19-1846-2023.06.30-MCD-_-JJD-v-)  
 Victorias-Milling-Company-et-al-Decision-FinalP.pdf.  
 8 Spouses MCD and JJD v. Victoria Milling Company, et al., NPC 19-758 & 19-1846, 30 June 2023, at 21, available at
 
-https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-19-758-to-NPC-19-1846-2023.06.30-MCD-_-JJD-v-Victorias-  
+[https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-19-758-to-NPC-19-1846-2023.06.30-MCD-_-JJD-v-Victorias-](https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-19-758-to-NPC-19-1846-2023.06.30-MCD-_-JJD-v-Victorias-)  
 Milling-Company-et-al-Decision-FinalP.pdf.
 
 Ref No.: PDD-24-00153                                              NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                                           3  
     C. “Natural or legal persons” under Section 13 (f) of the DPA refers to persons whose  
        lawful rights and interests are protected in court proceedings, including the parties  
@@ -224,22 +225,22 @@ Approved:
       LEANDRO ANGELO Y. AGUIRRE                                         NERISSA N. DE JESUS  
         Deputy Privacy Commissioner                                   Deputy Privacy Commissioner
 
-9 JCB v. FRL, NPC 21-031, 03 March 2022, at 11, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-
+9 JCB v. FRL, NPC 21-031, 03 March 2022, at 11, available at [https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-](https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-)
 
 031-2022.03.03-JCB-v.-FRL-Decision-FinalP.pdf.  
-10 JCB v. FRL, NPC 21-031, 03 March 2022, at 11, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-
+10 JCB v. FRL, NPC 21-031, 03 March 2022, at 11, available at [https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-](https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-)
 
 031-2022.03.03-JCB-v.-FRL-Decision-FinalP.pdf.  
-11 RJC v. DL, NPC 22-012, 10 November 2022, at 8, available at https://privacy.gov.ph/wp-content/uploads/2023/08/NPC-22-
+11 RJC v. DL, NPC 22-012, 10 November 2022, at 8, available at [https://privacy.gov.ph/wp-content/uploads/2023/08/NPC-22-](https://privacy.gov.ph/wp-content/uploads/2023/08/NPC-22-)
 
 012-2022.11.10-RJC-v.-DL-Decision.pdf.  
-12 RJC v. DL, NPC 22-012, 26 January 2023, at 11, available at https://privacy.gov.ph/wp-content/uploads/2023/07/NPC-22-
+12 RJC v. DL, NPC 22-012, 26 January 2023, at 11, available at [https://privacy.gov.ph/wp-content/uploads/2023/07/NPC-22-](https://privacy.gov.ph/wp-content/uploads/2023/07/NPC-22-)
 
 012-2023.01.26-RJC-v.-DL-Resolution-w-Sgd-Final.pdf.  
-13 EA and TA v. EJ, EE and HC, NPC 17-018, 05 November 2020, at 3, available at https://privacy.gov.ph/wp-
+13 EA and TA v. EJ, EE and HC, NPC 17-018, 05 November 2020, at 3, available at [https://privacy.gov.ph/wp-](https://privacy.gov.ph/wp-)
 
 content/uploads/2024/08/NPC-17-018-2020.11.05-EA-_-TA-v.-EJ-EE-_-HC-Resolution.pdf.
 
 Ref No.: PDD-24-00153                                             NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                                          4

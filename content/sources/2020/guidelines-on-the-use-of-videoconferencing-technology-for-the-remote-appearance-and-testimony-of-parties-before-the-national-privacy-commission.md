@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission Source Text"
-description: "Generated extracted text for Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission."
+title: "Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission Raw Source Text"
+description: "Raw extracted text for Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission before manual annotation."
 aliases:
-  - "Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission Source Text"
+  - "Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission Raw Source Text"
 tags:
   - "source-text"
   - "year/2020"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission]]
-- PDF: [Open PDF](../../pdfs/FINAL-VERSION-Guidelines-on-the-Use-of-Videoconferencing-Technology-for-Remote-Appearance-before-the-NPC-OPC.pdf)
+- Companion note: [[notes/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/FINAL-VERSION-Guidelines-on-the-Use-of-Videoconferencing-Technology-for-Remote-Appearance-before-the-NPC-OPC.pdf
+- OCR used: no
 
 ## Extracted Text
                                 Republic of the Philippines  
@@ -59,7 +60,7 @@ Commission;
 
 1 WHO Director-General's opening remarks at the media briefing on COVID-19 - 11 March 2020. (n.d.).
 
-  Retrieved June 05, 2020, from https://www.who.int/dg/speeches/detail/who-director-general-s-  
+  Retrieved June 05, 2020, from [https://www.who.int/dg/speeches/detail/who-director-general-s-](https://www.who.int/dg/speeches/detail/who-director-general-s-)  
   opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020  
 2 Memorandum from the Executive Secretary dated 16 March 2020  
 3 A.M. 19-05-05-SC and A.C. 37-2020  

@@ -14,25 +14,9 @@ tags:
 draft: false
 ---
 
-> SUBJECT : GUIDELINES ON THE PROCESSING OF PERSONAL DATA FOR ELECTION CAMPAIGN OR PARTISAN POLITICAL ACTIVITY
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                                  Republic of the Philippines  
-                                     NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 887e90942e1b9e34d3c6d83cb959f18df01c7ac1 -->
 [[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|NPC Advisory No. 2021]]–03
 
 DATE                       :    05 November 2021
@@ -79,10 +63,6 @@ Electoral Exercises, To Encourage Transparency, Credibility, Fairness And Accura
 Purpose Batas Pambansa Blg. 881, As Amended, Republic Act No. 7166 And Other Related Election Laws, Providing Funds  
 Therefor And For Other Purposes, Republic Act No. 9369, § 13 (2007).
 
-Ref No.: PRD-21-0211                                                                NPC_PPO_PDD_AdTem-V1.0, R0.0, 05 May2021
-
-               5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
      G. “Election campaign” or “partisan political activity” refers to an act designed to  
         promote the election or defeat of a particular candidate or candidates to a public office  
         which shall include:3
@@ -135,11 +115,6 @@ advertising platforms.
 
 Therefor [Party-List System Act], Republic Act No. 7941, § 8 and 9 (1995).
 
-Ref No.: PRD-21-0211                                                                 NPC_PPO_PDD_AdTem-V1.0, R0.0, 05 May2021
-
-                5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                             2  
          in the party-list election:7
 
          1. Sectoral party an organized group of citizens whose principal advocacy pertains  
@@ -192,11 +167,6 @@ Connection With The May 13, 2013 National And Local Elections, And Subsequent El
 9366, § 3 (2012).  
 8 Omnibus Election Code of the Philippines, Batas Pambansa Bilang 881, § 60 (1985).
 
-Ref No.: PRD-21-0211                                                                NPC_PPO_PDD_AdTem-V1.0, R0.0, 05 May2021
-
-               5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                            3  
     R. “Processing” refers to any operation or any set of operations performed upon personal  
        data including, but not limited to, the collection, recording, organization, storage,  
        updating or modification, retrieval, consultation, use, consolidation, blocking, erasure  
@@ -246,11 +216,6 @@ political activity shall be subject to the following general guidelines:
 
 9 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 19 (e) (1) (2016).
 
-Ref No.: PRD-21-0211                                                                NPC_PPO_PDD_AdTem-V1.0, R0.0, 05 May2021
-
-               5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                            4  
             on access.  
          3. Any other further processing for purposes aside from those in the immediately  
             preceding provisions shall still be compatible with the declared and specified  
@@ -297,19 +262,14 @@ Ref No.: PRD-21-0211                                                            
 
 10 See: Council of Europe, Explanatory Report to the Protocol amending the Convention for the Protection of Individuals with
 
-regard to Automatic Processing of Personal Data, available at https://rm.coe.int/cets-223-explanatory-report-to-the-protocol-  
+regard to Automatic Processing of Personal Data, available at [https://rm.coe.int/cets-223-explanatory-report-to-the-protocol-](https://rm.coe.int/cets-223-explanatory-report-to-the-protocol-)  
 amending-the-convention-fo/16808ac91a (last accessed 29 September 2021).  
 11 See: National Privacy Commission, JV v. JR, NPC Case No. 17-047 (2019).  
 12 European Data Protection Board, Guidelines 05/2020 on consent under Regulation 2016/679, Version 1.1 Adopted on 4
 
-May 2020, available at https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_ consent_en.pdf (last  
+May 2020, available at [https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_](https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_) consent_en.pdf (last  
 accessed 29 September 2021).
 
-Ref No.: PRD-21-0211                                                                 NPC_PPO_PDD_AdTem-V1.0, R0.0, 05 May2021
-
-                5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                             5  
              subject at the time consent was obtained. Consent shall be evidenced by written,  
              electronic, or recorded means.  
           3. To use legitimate interest under Section 12 (f) of the DPA to process personal  
@@ -359,14 +319,9 @@ Ref No.: PRD-21-0211                                                            
 
 13 See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner’s Office (ICO), What is the
 
-‘Legitimate Interests’ basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-  
+‘Legitimate Interests’ basis?, available at [https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-)  
 gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed September 22, 2021).
 
-Ref No.: PRD-21-0211                                                                 NPC_PPO_PDD_AdTem-V1.0, R0.0, 05 May2021
-
-                5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                               6  
             activities for elections campaigns through its own privacy notice, accessible and  
             written in clear and plain language, which should include the following:  
             a) Details of personal data that has been collected;  
@@ -419,11 +374,6 @@ Ref No.: PRD-21-0211                                                            
 Procedures Thereof And Authorizing The Appropriation Of Funds Therefor [The Voter’s Registration Act of 1996], Republic  
 Act No. 8189, § 42 (1996).
 
-Ref No.: PRD-21-0211                                                                NPC_PPO_PDD_AdTem-V1.0, R0.0, 05 May2021
-
-               5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                            7  
                 election laws, rules, and regulations;  
              c) Information as to how political parties or candidates use these lists should be  
                 readily available in their websites and social media platforms, and/or physical  
@@ -474,11 +424,6 @@ allow them to exercise such rights.
        procedures that are simple and convenient, as well as the right to erasure in certain  
        circumstances as provided for under the DPA.
 
-Ref No.: PRD-21-0211                                                                NPC_PPO_PDD_AdTem-V1.0, R0.0, 05 May2021
-
-               5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                            8  
      D. For further guidance on the data subject rights, refer to [[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|NPC Advisory No. 2021]] – 01.15
 
 SECTION 6. Security of Personal Data. — PICs are expected to implement reasonable and  
@@ -529,11 +474,6 @@ SECTION 7. Interpretation. — Any doubt in the interpretation of any provision 
 16 See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 28 (d) (2016).  
 17 Id. § 19 (d) (2016).
 
-Ref No.: PRD-21-0211                                                                  NPC_PPO_PDD_AdTem-V1.0, R0.0, 05 May2021
-
-                 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                            URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                              9  
 Advisory shall be liberally interpreted in a manner mindful of the rights and interests of the  
 individual about whom personal information is processed.
 
@@ -546,36 +486,12 @@ Approved:
                    SGD.                                                                   SGD.  
      LEANDRO ANGELO Y. AGUIRRE                                                   JOHN HENRY D. NAGA  
        Deputy Privacy Commissioner                                             Deputy Privacy Commissioner
-
-Ref No.: PRD-21-0211                                                                NPC_PPO_PDD_AdTem-V1.0, R0.0, 05 May2021
-
-               5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                            10
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2021
-- Type: Advisory
-- Year: 2021
-- Issued: Unknown
-- Pages: 10
-- Source PDF: [Open PDF](../../pdfs/Advisory_Election_Campaigning_03-Nov-21-FINAL.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2021/11/Advisory_Election_Campaigning_03-Nov-21-FINAL.pdf
-- Topic pages: [[topics/elections|Elections]]
-- Generated source note: [[sources/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Generated source text]]
-
-### Automatic References Out
-- [[issuances/2021/data-subject-rights|Data Subject Rights]]
-
-### Automatic Backlinks
-- [[issuances/2021/data-subject-rights|Data Subject Rights]]
-- [[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Guidance For The Use Of The ASEAN Model Contract Clauses And ASEAN Data Management Framework]]
-- [[issuances/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Analysis and metadata]]
+- Raw source text: [[sources/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/11/Advisory_Election_Campaigning_03-Nov-21-FINAL.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

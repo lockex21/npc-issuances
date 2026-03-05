@@ -1,20 +1,21 @@
 ---
-title: "Considerations on the Use of Privacy Enhancing Technologies (PETs) in the Insurance Industry Source Text"
-description: "Generated extracted text for Considerations on the Use of Privacy Enhancing Technologies (PETs) in the Insurance Industry."
+title: "Considerations on the Use of Privacy Enhancing Technologies (PETs) in the Insurance Industry Raw Source Text"
+description: "Raw extracted text for Considerations on the Use of Privacy Enhancing Technologies (PETs) in the Insurance Industry before manual annotation."
 aliases:
-  - "Considerations on the Use of Privacy Enhancing Technologies (PETs) in the Insurance Industry Source Text"
+  - "Considerations on the Use of Privacy Enhancing Technologies (PETs) in the Insurance Industry Raw Source Text"
 tags:
   - "source-text"
   - "year/2025"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry|Considerations on the Use of Privacy Enhancing Technologies (PETs) in the Insurance Industry]]
-- PDF: [Open PDF](../../pdfs/NPC-IC-Joint-Advisory-2025.03.11-Considerations-on-the-Use-of-PETs-in-the-Insurance-Industry-w-SGD.pdf)
+- Companion note: [[notes/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2025/03/NPC-IC-Joint-Advisory-2025.03.11-Considerations-on-the-Use-of-PETs-in-the-Insurance-Industry-w-SGD.pdf
+- OCR used: no
 
 ## Extracted Text
                                        Republic of the Philippines  
@@ -139,7 +140,7 @@ Categories of PETs3 include:
 2 Organisation for Economic Co-operation and Development (OECD), Emerging Privacy-Enhancing Technologies: Current
 
 Regulatory and Policy Approaches, OECD Digital Economy Papers No. 351, at 4 (2023), available at  
-https://doi.org/10.1787/bf121be4-en (last accessed: November 2024).  
+[https://doi.org/10.1787/bf121be4-en](https://doi.org/10.1787/bf121be4-en) (last accessed: November 2024).  
 3 Id. at 13.
 
 Head Office, P.O. Box 3589 Manila | Trunkline: +(632) 8523-8461 | Fax. No: +(632) 8522-1434 | www.insurance.gov.ph  
@@ -178,7 +179,7 @@ with other obligations provided under the relevant data privacy laws and regulat
 4See Organisation for Economic Co-operation and Development (OECD), Emerging Privacy-Enhancing Technologies: Current
 
 Regulatory and Policy Approaches, OECD Digital Economy Papers No. 351 (2023), available at  
-https://doi.org/10.1787/bf121be4-en (last accessed: November 2024).  
+[https://doi.org/10.1787/bf121be4-en](https://doi.org/10.1787/bf121be4-en) (last accessed: November 2024).  
 5 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012],  

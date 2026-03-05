@@ -1,20 +1,21 @@
 ---
-title: "Guidelines On Requests For Personal Data Of Public Officers Source Text"
-description: "Generated extracted text for Guidelines On Requests For Personal Data Of Public Officers."
+title: "Guidelines On Requests For Personal Data Of Public Officers Raw Source Text"
+description: "Raw extracted text for Guidelines On Requests For Personal Data Of Public Officers before manual annotation."
 aliases:
-  - "Guidelines On Requests For Personal Data Of Public Officers Source Text"
+  - "Guidelines On Requests For Personal Data Of Public Officers Raw Source Text"
 tags:
   - "source-text"
   - "year/2022"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2022/guidelines-on-requests-for-personal-data-of-public-officers|Guidelines On Requests For Personal Data Of Public Officers]]
-- PDF: [Open PDF](../../pdfs/NPC-Advisory-No.-2022-01-Request-for-Personal-Data-of-Public-Officers.pdf)
+- Companion note: [[notes/2022/guidelines-on-requests-for-personal-data-of-public-officers|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/08/NPC-Advisory-No.-2022-01-Request-for-Personal-Data-of-Public-Officers.pdf
+- OCR used: no
 
 ## Extracted Text
                                                        Republic of the Philippines  
@@ -65,7 +66,7 @@ transparency and accountability in government;
 Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
 
                        5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+                                  URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 WHEREAS, Section 3, Executive Order (EO) No. 2, s. 2016 provides that every Filipino shall  
 have access to information, official records, public records and to documents and papers  
 pertaining to official acts, transactions, or decisions, as well as to government research data  
@@ -119,7 +120,7 @@ shall have their respective meanings as hereinafter set forth:
 Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
 
                        5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+                                  URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                                      2  
     H. “Personal information controller” or “PIC” refers to a person or organization who  
        controls the collection, holding, processing, or use of personal information, including  
@@ -173,7 +174,7 @@ Ref No.: PDD-21-0159                                                            
 Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
 
                        5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+                                  URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                                      3  
 SECTION 3. General principles. — This Advisory is governed by the following principles:
 
@@ -230,7 +231,7 @@ information regardless of medium or characteristics. Frequently used interchange
 Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
 
                        5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+                                  URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                                      4  
          principles of transparency, legitimate purpose, and proportionality; implement  
          reasonable and appropriate organizational, physical, and technical security measures  
@@ -285,7 +286,7 @@ requesting party, and shall consider the following factors:
 Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
 
                        5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+                                  URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                                      5  
                b) On the proper performance of the duties and responsibilities of the individual  
                   in any specific case; or  
@@ -338,13 +339,13 @@ in the government service.
 4 See: Civil Service Commission, Memorandum Circular No. 8, s. 2007 [MC No. 8, s. 2007] (May 17, 2007).  
 5 See: UK National Archives, Redaction toolkit - Editing exempt information from paper and electronic documents prior to
 
-release, available at https://cdn.nationalarchives.gov.uk/documents/information-management/redaction_toolkit.pdf (last  
+release, available at [https://cdn.nationalarchives.gov.uk/documents/information-management/redaction_toolkit.pdf](https://cdn.nationalarchives.gov.uk/documents/information-management/redaction_toolkit.pdf) (last  
 accessed 2 November 2021)
 
 Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
 
                        5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+                                  URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                                      6  
                 substance. Where personal data is redacted in one part of a document for being  
                 irrelevant, unnecessary, or extraneous to the declared purpose, such reasoning,  
@@ -401,7 +402,7 @@ Disclosure and Transparency in the Public Service and Providing Guidelines There
 Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
 
                        5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+                                  URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                                      7  
 her personal data: provided, that consent shall be strictly construed in favor of the data subject:
 
@@ -433,11 +434,11 @@ Approved:
 
 7 See generally: European Data Protection Board, Guidelines 05/2020 on consent under Regulation 2016/679 Version 1.1, §
 
-108 (4 May 2020), available at https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_ consent_en.pdf  
+108 (4 May 2020), available at [https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_](https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_) consent_en.pdf  
 (last accessed 11 Sept 2021).
 
 Ref No.: PDD-21-0159                                                                           NPC_PPO_PDD_AdTem-V1.0, R0.0, 05May2021
 
                        5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-                                  URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+                                  URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                                      8

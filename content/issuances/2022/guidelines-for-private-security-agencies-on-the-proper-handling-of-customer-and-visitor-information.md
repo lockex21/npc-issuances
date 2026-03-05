@@ -14,25 +14,9 @@ tags:
 draft: false
 ---
 
-> SUBJECT : GUIDELINES FOR PRIVATE SECURITY AGENCIES ON THE PROPER HANDLING OF CUSTOMER AND VISITOR INFORMATION
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                                  Republic of the Philippines  
-                                   NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: cfaf7356183427ba64b017b4d5996796995c650d -->
 [[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 2022]] – 03
 
  DATE                      :       05 December 2022
@@ -79,10 +63,8 @@ operate a motor vehicle for a period not exceeding seventy-two hours from the ti
 period so fixed in the receipt shall not be extended, and shall become invalid thereafter. Failure of the driver to settle his case  
 within fifteen days from the date of apprehension will be a ground for the suspension and/or revocation of his license.
 
-Ref No.: PDD-21-0069                                               NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021  
-____________________________________________________________________________________________________  
-   5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+____________________________________________________________________________________________________
+
 proportionality;
 
 WHEREAS, Section 14 of the DPA states that a PIC may subcontract the processing of personal  
@@ -136,11 +118,6 @@ be understood as follows:
 Security Guards and other Private Security Personnel in the Private Security Industry, Department Order No. 150-16, series  
 of 2016 [DOLE DO No. 150-16], § 2 (i) (Feb. 9. 2016).
 
-Ref No.: PDD-21-0069                                                 NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021  
-_______________________________________________________________________________________________________________  
-   5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                        2  
            baggage, and other forms of security inspection,3 as authorized by the PIC or by the PSA  
            to perform such functions, regardless of his or her designation;
 
@@ -193,11 +170,6 @@ services of PSAs shall have the following obligations:
 3 Id. § 2 (h).  
 4 DOLE DO No. 150-16, § 2 (j).
 
-Ref No.: PDD-21-0069                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021  
-_______________________________________________________________________________________________________________  
-   5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                  3  
          personal data processed, and to prevent its use for unauthorized purposes. PICs shall  
          ensure that a Subcontracting Agreement or Service Agreement is executed with PSAs prior  
          to any personal data processing activity. Such agreement shall contain the following:
@@ -248,13 +220,8 @@ following obligations:
 5 See: National Archives of the Philippines, General Records Disposition Schedule common to all Government Agencies,
 
 series 2009 which provides for the retention period of two (2) years after date of last entry for logbooks (available at  
-https://nationalarchives.gov.ph/wp-content/uploads/2015/04/NAP-Gen.-Circular-1-2-and-GRDS-2009.pdf).
+[https://nationalarchives.gov.ph/wp-content/uploads/2015/04/NAP-Gen.-Circular-1-2-and-GRDS-2009.pdf](https://nationalarchives.gov.ph/wp-content/uploads/2015/04/NAP-Gen.-Circular-1-2-and-GRDS-2009.pdf)).
 
-Ref No.: PDD-21-0069                                                NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021  
-_______________________________________________________________________________________________________________  
-   5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-              URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                      4  
          1. The orientation shall include an overview on the proper handling of personal data that  
             comes to their knowledge and possession in the course of providing security services,  
             the requirement to maintain confidentiality, integrity, and availability of personal  
@@ -306,11 +273,6 @@ following obligations:
        PIC in addressing any requests for the exercise of data subject rights. PSAs shall not engage  
        another PIP without prior instruction from the PIC.
 
-Ref No.: PDD-21-0069                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021  
-_______________________________________________________________________________________________________________  
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                  5  
     E. Inspection. PSAs acting as PIPs shall allow audits and inspections conducted by the PIC or  
        another auditor authorized by such PIC.
 
@@ -346,34 +308,12 @@ Approved:
                                                 SGD.  
                                    LEANDRO ANGELO Y. AGUIRRE  
                                      Deputy Privacy Commissioner
-
-Ref No.: PDD-21-0069                                            NPC_PPO_ PDD _CIRC-V1.0,R0.0,05May 2021  
-_______________________________________________________________________________________________________________  
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308  
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                                  6
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2022
-- Type: Circular
-- Year: 2022
-- Issued: Unknown
-- Pages: 6
-- Source PDF: [Open PDF](../../pdfs/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.pdf
-- Topic pages: [[topics/security|Security]]
-- Generated source note: [[sources/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Analysis and metadata]]
+- Raw source text: [[sources/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

@@ -1,20 +1,21 @@
 ---
-title: "Registration of Data Processing Systems Source Text"
-description: "Generated extracted text for Registration of Data Processing Systems."
+title: "Registration of Data Processing Systems Raw Source Text"
+description: "Raw extracted text for Registration of Data Processing Systems before manual annotation."
 aliases:
-  - "Registration of Data Processing Systems Source Text"
+  - "Registration of Data Processing Systems Raw Source Text"
 tags:
   - "source-text"
   - "year/undated"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems]]
-- PDF: [Open PDF](../../pdfs/NPC_Circular-17-01-Registration_final.pdf)
+- Companion note: [[notes/undated/registration-of-data-processing-systems|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_Circular-17-01-Registration_final.pdf
+- OCR used: no
 
 ## Extracted Text
                                        Republic of the Philippines  
@@ -56,7 +57,7 @@ data, in coordination with other government agencies and private entities;
 
       WHEREAS, Section 9 of the IRR provides that, among the NPC’s functions, is to develop,  
 promulgate, review, or amend rules and regulations for the effective implementation of the DPA;  
-                                                                                    [[issuances/2017/registration-of-data-processing-systems-appendix-1|NPC Circular No. 2017-01]]  
+                                                                                    NPC Circular No. 2017-01  
                                                     Registration of Data Processing Systems and Notifications  
                                                            regarding Automated Decision-Making Operations  
                                                                                                  31 July 2017
@@ -99,7 +100,7 @@ following objectives:
          exercise of their rights under the DPA; and
 
    C.    promote transparency and public accountability in the processing of personal data.  
-                                                                                 [[issuances/2017/registration-of-data-processing-systems-appendix-1|NPC Circular No. 2017-01]]  
+                                                                                 NPC Circular No. 2017-01  
                                                  Registration of Data Processing Systems and Notifications  
                                                         regarding Automated Decision-Making Operations  
                                                                                               31 July 2017
@@ -145,7 +146,7 @@ defined, as follows:
 
   I.    “Data Subject” refers to an individual whose personal, sensitive personal, or privileged  
         information is processed;  
-                                                                                [[issuances/2017/registration-of-data-processing-systems-appendix-1|NPC Circular No. 2017-01]]  
+                                                                                NPC Circular No. 2017-01  
                                                 Registration of Data Processing Systems and Notifications  
                                                        regarding Automated Decision-Making Operations  
                                                                                              31 July 2017
@@ -191,7 +192,7 @@ R.   “Personal information” refers to any information, whether recorded in a
 S.   “Personal information controller” or “PIC” refers to a natural or juridical person, or any  
      other body who controls the processing of personal data, or instructs another to process  
      personal data on its behalf. The term excludes:  
-                                                                                 [[issuances/2017/registration-of-data-processing-systems-appendix-1|NPC Circular No. 2017-01]]  
+                                                                                 NPC Circular No. 2017-01  
                                                  Registration of Data Processing Systems and Notifications  
                                                         regarding Automated Decision-Making Operations  
                                                                                               31 July 2017
@@ -238,7 +239,7 @@ S.   “Personal information controller” or “PIC” refers to a natural or j
 
 SECTION 4. General Principles. This Circular shall be governed by the following general  
 principles:  
-                                                                                  [[issuances/2017/registration-of-data-processing-systems-appendix-1|NPC Circular No. 2017-01]]  
+                                                                                  NPC Circular No. 2017-01  
                                                   Registration of Data Processing Systems and Notifications  
                                                          regarding Automated Decision-Making Operations  
                                                                                                31 July 2017
@@ -280,7 +281,7 @@ it is processing personal data and operating in the country under any of the fol
                imbalance exists in the relationship between a data subject and a PIC or PIP;  
          4.)   automated decision-making; or  
          5.)   profiling;  
-                                                                                  [[issuances/2017/registration-of-data-processing-systems-appendix-1|NPC Circular No. 2017-01]]  
+                                                                                  NPC Circular No. 2017-01  
                                                   Registration of Data Processing Systems and Notifications  
                                                          regarding Automated Decision-Making Operations  
                                                                                                31 July 2017
@@ -322,7 +323,7 @@ website in two (2) phases:
          review and validation of the submission, the Commission shall provide the PIC or PIP  
          via email an access code, which shall allow it to proceed to Phase II of the registration  
          process.  
-                                                                                  [[issuances/2017/registration-of-data-processing-systems-appendix-1|NPC Circular No. 2017-01]]  
+                                                                                  NPC Circular No. 2017-01  
                                                   Registration of Data Processing Systems and Notifications  
                                                          regarding Automated Decision-Making Operations  
                                                                                                31 July 2017
@@ -366,7 +367,7 @@ PIC or PIP shall provide the following registration information:
    C.    identification of all existing policies relating to data governance, data privacy, and  
          information security, and other documents that provide a general description of privacy  
          and security measures for data protection;  
-                                                                                  [[issuances/2017/registration-of-data-processing-systems-appendix-1|NPC Circular No. 2017-01]]  
+                                                                                  NPC Circular No. 2017-01  
                                                   Registration of Data Processing Systems and Notifications  
                                                          regarding Automated Decision-Making Operations  
                                                                                                31 July 2017
@@ -410,7 +411,7 @@ SECTION 15. Amendments or Updates. Amendments or updates to registration informa
 including significant changes in the description of registered data processing systems, shall be  
 made within two (2) months from the date such changes take into effect. For this purpose, a  
 significant change shall include:  
-                                                                                  [[issuances/2017/registration-of-data-processing-systems-appendix-1|NPC Circular No. 2017-01]]  
+                                                                                  NPC Circular No. 2017-01  
                                                   Registration of Data Processing Systems and Notifications  
                                                          regarding Automated Decision-Making Operations  
                                                                                                31 July 2017
@@ -451,7 +452,7 @@ period is deemed revoked: Provided, that a PIC or PIP may be allowed to file an 
 renewal beyond the prescribed period upon approval of the Commission, and only for good  
 cause shown. For this purpose, the PIC or PIP shall notify the Commission of its intention to  
 renew its registration and the reason for its delay.  
-                                                                                  [[issuances/2017/registration-of-data-processing-systems-appendix-1|NPC Circular No. 2017-01]]  
+                                                                                  NPC Circular No. 2017-01  
                                                   Registration of Data Processing Systems and Notifications  
                                                          regarding Automated Decision-Making Operations  
                                                                                                31 July 2017
@@ -488,7 +489,7 @@ removed by the Commission from the registry on any of the following grounds:
 
 SECTION 23. Non-inclusion of Confidential Information. Information classified by the  
 Constitution or any statute as confidential shall not be included in the registry.  
-                                                                                 [[issuances/2017/registration-of-data-processing-systems-appendix-1|NPC Circular No. 2017-01]]  
+                                                                                 NPC Circular No. 2017-01  
                                                  Registration of Data Processing Systems and Notifications  
                                                         regarding Automated Decision-Making Operations  
                                                                                               31 July 2017
@@ -530,7 +531,7 @@ registration of a PIC or PIP on any of the following grounds:
 
    C.    loss of authority to operate or conduct business, due to the revocation of its license,  
          permit, franchise, or any other similar requirement provided by law;  
-                                                                                  [[issuances/2017/registration-of-data-processing-systems-appendix-1|NPC Circular No. 2017-01]]  
+                                                                                  NPC Circular No. 2017-01  
                                                   Registration of Data Processing Systems and Notifications  
                                                          regarding Automated Decision-Making Operations  
                                                                                                31 July 2017
@@ -567,7 +568,7 @@ the appropriate notification processes set out in this Circular, it shall cause 
 PIC or PIP a Cease and Desist Order on the processing of personal data: Provided, that this is  
 without prejudice to any other administrative, civil, or criminal penalties that the PIC or PIP may  
 incur under the DPA and other applicable laws.  
-                                                                                  [[issuances/2017/registration-of-data-processing-systems-appendix-1|NPC Circular No. 2017-01]]  
+                                                                                  NPC Circular No. 2017-01  
                                                   Registration of Data Processing Systems and Notifications  
                                                          regarding Automated Decision-Making Operations  
                                                                                                31 July 2017

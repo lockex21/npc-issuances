@@ -14,27 +14,9 @@ tags:
 draft: false
 ---
 
-> SUBJECT : CLARIFICATION ON CERTAIN PROVISIONS OF NPC CIRCULAR NO. 2020-03 ON DATA SHARING AGREEMENTS
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                  Republic of the Philippines  
-                             NATIONAL PRIVACY COMMISSION  
-                                 25th-27th Floors, The Upper Class Tower,  
-                          Quezon Ave. Corner Scout Reyes Street, Quezon City 1103
-
+<!-- SEEDED ANNOTATED HASH: 756328cfccd3e3e0b187d54f1450e113eb8c9bf4 -->
 NPC Advisory No. 2025 - 01
 
 DATE              :     26 June 2025
@@ -76,8 +58,6 @@ guided by the following clarifications:
     A. Nothing in this Advisory shall be construed as prohibiting or limiting the sharing,  
        disclosure, or transfer of personal data that is already authorized or required by law.
 
-Ref No.: PDD-25-00268                                     NPC_PPO_PDD_AdTem-V2.0, R1.0, 24 March 2025  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
     B. Data sharing is a form of processing. As with any personal data processing activity, it  
        should be based on any of the criteria for lawful processing under Sections 12 or 13 of  
        the DPA or allowed pursuant to the special cases provided in Section 4 of the DPA.
@@ -111,33 +91,12 @@ Approved:
                    SGD.                                              SGD.  
           NERISSA N. DE JESUS                           JOSE AMELITO S. BELARMINO II  
         Deputy Privacy Commissioner                       Deputy Privacy Commissioner
-
-Ref No.: PDD-25-00268                                   NPC_PPO_PDD_AdTem-V2.0, R1.0, 24 March 2025  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
-
-                                                                                                  2
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2020-03
-- Type: Circular
-- Year: 2025
-- Issued: Unknown
-- Pages: 2
-- Source PDF: [Open PDF](../../pdfs/SGD-2025-01-DSA-Clarification.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2025/07/SGD-2025-01-DSA-Clarification.pdf
-- Topic pages: [[topics/data-sharing|Data Sharing]]
-- Generated source note: [[sources/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2020/data-sharing-agreements|Data Sharing Agreements]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Analysis and metadata]]
+- Raw source text: [[sources/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2025/07/SGD-2025-01-DSA-Clarification.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

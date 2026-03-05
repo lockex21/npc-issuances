@@ -14,27 +14,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, CCTV systems process personal and sensitive personal information (collectively, personal data);
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                 Republic of the Philippines  
-                            NATIONAL PRIVACY COMMISSION  
-                            5th Floor, Philippine International Convention Center,  
-                            Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: 04fa6606c9da89eafa9afbcc514269531d4ffc20 -->
 NPC Circular No. 2024 – 02
 
 DATE                    :   9 August 2024
@@ -78,8 +60,6 @@ any of the following purposes:
     B. Lawful surveillance. This Circular shall not apply to law enforcement, intelligence, and  
        investigative agencies and other government agencies conducting lawful surveillance
 
-Ref No.: PDD-24-00284                                         NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
           in accordance with their respective mandates. Nonetheless, they shall be subject to the  
           applicable requirements of the Philippine Constitution and other laws and regulations  
           regulating surveillance activities.
@@ -125,14 +105,9 @@ Circular, the following terms are defined as follows:
         restaurants, transportation terminals, public markets, spaces used as evacuation  
         centers, government offices, public utility vehicles as well as private vehicles covered
 
-1  
- See: National Privacy Commission, KEC v. JMP [NPC 19-764] (November 11, 2021) and ARTICLE 29 DATA PROTECTION WORKING  
 PARTY Statement of the Working Party on current discussions regarding the data protection reform package, Annex 2 Proposals for  
 Amendments regarding exemption for personal or household activities (2013).
 
-Ref No.: PDD-24-00284                                                  NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                                             2  
            by app-based transport network services and other recreational spaces such as, but not  
            limited to, cinema halls, theaters and spas;2
 
@@ -182,13 +157,8 @@ the data subject. For this purpose, PICs and its PIPs shall adhere to the follow
 Providing Protective Measures and Prescribing Penalties Therefor [ Safe Spaces Act] (2019) Republic Act No. 11313 (2019).  
 3  
   See: Science Direct, Video Analytics, citing Electronics Elements, Thomas L. Norman CPP, PSP, CSC, in Effective Physical Security (Fifth  
-Edition), 2017, available at https://www.sciencedirect.com/topics/computer-science/video-analytics (last accessed 31 March 2023).  
-4  
-  National Privacy Commission, MLF v. MYTAXI.PH CORPORATION (GRAB PHILIPPINES) [NPC 19-142] (March 21, 2022).
+Edition), 2017, available at [https://www.sciencedirect.com/topics/computer-science/video-analytics](https://www.sciencedirect.com/topics/computer-science/video-analytics) (last accessed 31 March 2023).
 
-Ref No.: PDD-24-00284                                                        NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-            URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                                                        3  
              and method of the processing shall be in accordance with law, morals, public policy,  
              and good customs.
 
@@ -237,12 +207,8 @@ comply with the requirements under the DPA, its IRR, and relevant issuances of t
                     recording or copy thereof;  
                 b. Handling inquiries and complaints, if any; and
 
-5  
     Data Privacy Act of 2012, § 20 (2012).
 
-Ref No.: PDD-24-00284                                           NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-               URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                         4  
             c. Managing personal data breaches and security incidents involving the CCTV  
                 systems;  
         8. Documented retention policy containing the retention period of CCTV footage and  
@@ -292,9 +258,6 @@ Ref No.: PDD-24-00284                                           NPC_PPO_PDD_CIRC
                personnel only. It shall identify and state in its CCTV policy the personnel  
                authorized to monitor such live feeds.
 
-Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                   5  
         4. Retention. While there is no specific retention period for CCTV footage, CCTV  
            footage shall be retained only for as long as necessary to fulfill the purpose for  
            which the CCTV footage was obtained.  
@@ -346,9 +309,6 @@ access CCTV footage made by a person other than the data subject involved in the
 the latter’s authorized representative. If a data subject involved in the footage or their  
 authorized representative requests access to CCTV footage, the presence of another person’s
 
-Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                   6  
 image within the CCTV footage does not automatically classify such request as a third-party  
 access request. Further, in handling third-party access requests, the same policies and  
 procedures outlined in the previous section shall apply.
@@ -400,9 +360,6 @@ procedures outlined in the previous section shall apply.
                identifiable individuals to the media for amusement or entertainment  
                purposes, unless it is with the consent of the data subjects. It is incumbent upon
 
-Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                   7  
                the media to prove that the requested CCTV footage shall not be used for  
                amusement or entertainment purposes.  
             b. Law enforcement agencies may release CCTV footage to the media on a case-  
@@ -454,9 +411,6 @@ SECTION 8. Response procedure. — The following shall be implemented:
            the requested footage, subject to the following conditions:  
            a. CCTV footage shall be viewed in an authorized and secure area;
 
-Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                   8  
             b. Only the requesting party and the authorized personnel of PICs and their PIPs  
                shall be allowed to view such footage; and  
             c. Other security measures to ensure confidentiality of the footage to be viewed  
@@ -507,9 +461,6 @@ appropriate evaluation.
            party is first given a reasonable opportunity to amend the request and provide  
            complete information;
 
-Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                   9  
         2. The access request is frivolous or vexatious. The determination of what constitutes  
            frivolous or vexatious may be made on the basis of the particular circumstances of  
            the request;  
@@ -556,9 +507,6 @@ be in force and effect.
 SECTION 15. Repealing Clause. — All other rules, regulations, and issuances contrary to or  
 inconsistent with the provisions of this Circular are deemed repealed or modified accordingly.
 
-Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                  10  
 SECTION 16. Effectivity. — This Circular shall take effect fifteen (15) calendar days after its  
 publication in the Official Gazette or a newspaper of general circulation.
 
@@ -571,33 +519,12 @@ Approved:
                   SGD.                                                 SGD.  
      LEANDRO ANGELO Y. AGUIRRE                                NERISSA N. DE JESUS  
        Deputy Privacy Commissioner                          Deputy Privacy Commissioner
-
-Ref No.: PDD-24-00284                                     NPC_PPO_PDD_CIRC-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                  11
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2024-02
-- Type: Circular
-- Year: 2024
-- Issued: Unknown
-- Pages: 11
-- Source PDF: [Open PDF](../../pdfs/NPC-Circular-No.-2024-02-CCTV-Systems.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-Circular-No.-2024-02-CCTV-Systems.pdf
-- Topic pages: [[topics/cctv-surveillance|CCTV Surveillance]]
-- Generated source note: [[sources/2024/closed-circuit-television-cctv-systems|Generated source text]]
-
-### Automatic References Out
-- [[issuances/2023/guidelines-on-consent|Guidelines on Consent]]
-- [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Guidelines on the Use of Closed-circuit Television (CCTV) Systems (This Advisory has been repealed by NPC Circular No. 2024-02 - Closed-Circuit Television (CCTV) Systems.)]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2024/closed-circuit-television-cctv-systems]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2024/closed-circuit-television-cctv-systems|Analysis and metadata]]
+- Raw source text: [[sources/2024/closed-circuit-television-cctv-systems|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-Circular-No.-2024-02-CCTV-Systems.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

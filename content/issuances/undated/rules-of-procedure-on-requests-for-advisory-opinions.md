@@ -13,27 +13,9 @@ tags:
 draft: false
 ---
 
-> SECTION 1. General Principles. – The NPC is an independent body mandated by law to provide assistance on matters relating to privacy or data protection at the request of a national or local agency, a private entity or any person. It is authorized to promulgate rules to...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                      Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION
-
-NPC Circular No. 18-01
-
+<!-- SEEDED ANNOTATED HASH: dd2d69c883cd088eff060bc0c6940f35f1b5e8ef -->
 DATE           : 10 SEPTEMBER 2018
 
 SUBJECT        : RULES OF PROCEDURE ON REQUESTS FOR ADVISORY  
@@ -71,12 +53,6 @@ investigation and appropriate action, as may be necessary.
 
 SECTION 3. Scope and Coverage. – These rules shall apply to all requests for advisory  
 opinions cognizable by the NPC.
-
-                  5th Floor, Delegation Building, PICC Complex, Vicente Sotto St., Pasay City  
-                        URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph  
-                                                                                NPC CIRCULAR NO. 18-01  
-                                                RULES OF PROCEDURE ON REQUESTS FOR ADVISORY OPINIONS  
-                                                                                     10 SEPTEMBER 2018
 
                               RULE II  
           REQUIREMENTS FOR REQUESTS FOR ADVISORY OPINIONS
@@ -124,10 +100,7 @@ SECTION 5. Subject of an advisory opinion.
             scope, overly abstract, anticipatory and speculative;
 
 1Affidavit duly notarized for individual data subjects and Secretary’s Certificate for juridical persons. This  
-documentary requirement may be waived in meritorious cases.  
-                                                                       NPC CIRCULAR NO. 18-01  
-                                       RULES OF PROCEDURE ON REQUESTS FOR ADVISORY OPINIONS  
-                                                                            10 SEPTEMBER 2018
+documentary requirement may be waived in meritorious cases.
 
        5. The request requires a review and interpretation of contracts or an opinion  
           on the validity of contracts; or  
@@ -173,10 +146,7 @@ the request for advisory opinion shall proceed accordingly.
 
 SECTION 9. Conference with the Requesting Party. – Where necessary, the NPC may,  
 in its discretion, require the requesting party to attend a conference, for a more  
-exhaustive and thorough discussion of the matter.  
-                                                                     NPC CIRCULAR NO. 18-01  
-                                     RULES OF PROCEDURE ON REQUESTS FOR ADVISORY OPINIONS  
-                                                                          10 SEPTEMBER 2018
+exhaustive and thorough discussion of the matter.
 
                                   RULE III  
                              GENERAL PROVISIONS
@@ -221,26 +191,10 @@ Approved:
 Date: 19 SEPTEMBER 2018
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 18-01
-- Type: Circular
-- Year: undated
-- Issued: Unknown
-- Pages: 4
-- Source PDF: [Open PDF](../../pdfs/Circular18-01_Request_forAdvisory_Opinion.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-01_Request_forAdvisory_Opinion.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/undated/rules-of-procedure-on-requests-for-advisory-opinions|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/undated/rules-of-procedure-on-requests-for-advisory-opinions]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/undated/rules-of-procedure-on-requests-for-advisory-opinions|Analysis and metadata]]
+- Raw source text: [[sources/undated/rules-of-procedure-on-requests-for-advisory-opinions|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-01_Request_forAdvisory_Opinion.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

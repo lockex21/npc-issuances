@@ -14,27 +14,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, under Section 9 of the Implementing Rules and Regulations of the DPA (IRR), the NPC is mandated to develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                  Republic of the Philippines  
-                             NATIONAL PRIVACY COMMISSION  
-                            5th Floor, Philippine International Convention Center,  
-                            Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: d57ad73d42cef2fe25fa894648d98b1e3ee28388 -->
 NPC Circular No. 2023 - 07
 
 DATE                    :   13 December 2023
@@ -78,8 +60,6 @@ SECTION 3. General Considerations. — Section 12(f) of the DPA permits the proc
 of personal information when the processing is necessary for the legitimate interests  
 pursued by the PIC or a third party to whom the personal information is disclosed, except
 
-Ref No.: PDD-23-00143                                    NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023  
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 where such interests are overridden by fundamental rights and freedoms of the data  
 subject that require protection under the Philippine Constitution.
 
@@ -127,10 +107,6 @@ determination of the objective of the specific processing activity.
      A.     The purpose of the specific processing activity must be specific, such that it is  
             clearly defined and not vague or overbroad;
 
-Ref No.: PDD-23-00143                                NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
-
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                  2  
      B.     The purpose of the specific processing activity must not be contrary to laws,  
             morals, or public policy following the principle of legitimate purpose; and
 
@@ -179,10 +155,6 @@ The factors that may be considered include but are not limited to:
 SECTION 8. Documentation. — A PIC shall document the conduct and results of its  
 legitimate interest assessment.
 
-Ref No.: PDD-23-00143                                NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
-
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                  3  
      A.     A PIC must regularly evaluate its compliance with the requisites for legitimate  
             interest as part of their regular process.
 
@@ -228,10 +200,6 @@ SECTION 14. Penalties. — The processing of personal data in violation of this 
 shall carry criminal, civil, and administrative liability pursuant to the provisions of the  
 DPA, its IRR, and related issuances of the Commission.
 
-Ref No.: PDD-23-00143                                NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
-
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                  4  
 SECTION 15. Transitory Provision. — All affected PICs shall be given a period of ninety  
 (90) calendar days from the effectivity of this Circular to comply with the requirements  
 provided in Section 8(B) herein.
@@ -256,33 +224,12 @@ Approved:
                  SGD.                                                SGD.  
     LEANDRO ANGELO Y. AGUIRRE                               NERISSA N. DE JESUS  
       Deputy Privacy Commissioner                         Deputy Privacy Commissioner
-
-Ref No.: PDD-23-00143                                NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
-
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
-                                                                                                  5
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2023-07
-- Type: Circular
-- Year: 2023
-- Issued: Unknown
-- Pages: 5
-- Source PDF: [Open PDF](../../pdfs/NPC-Circular-No.-2023-07_Guidelines-on-Legitimate-Interest_13-December-2023.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-No.-2023-07_Guidelines-on-Legitimate-Interest_13-December-2023.pdf
-- Topic pages: [[topics/legitimate-interest|Legitimate Interest]]
-- Generated source note: [[sources/2023/guidelines-on-legitimate-interest|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2023/guidelines-on-legitimate-interest]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2023/guidelines-on-legitimate-interest|Analysis and metadata]]
+- Raw source text: [[sources/2023/guidelines-on-legitimate-interest|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-No.-2023-07_Guidelines-on-Legitimate-Interest_13-December-2023.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

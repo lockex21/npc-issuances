@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on Deceptive Design Patterns Source Text"
-description: "Generated extracted text for Guidelines on Deceptive Design Patterns."
+title: "Guidelines on Deceptive Design Patterns Raw Source Text"
+description: "Raw extracted text for Guidelines on Deceptive Design Patterns before manual annotation."
 aliases:
-  - "Guidelines on Deceptive Design Patterns Source Text"
+  - "Guidelines on Deceptive Design Patterns Raw Source Text"
 tags:
   - "source-text"
   - "year/2023"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2023/guidelines-on-deceptive-design-patterns|Guidelines on Deceptive Design Patterns]]
-- PDF: [Open PDF](../../pdfs/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.pdf)
+- Companion note: [[notes/2023/guidelines-on-deceptive-design-patterns|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.pdf
+- OCR used: no
 
 ## Extracted Text
                                  Republic of the Philippines  
@@ -68,7 +69,7 @@ prevent the usage of deceptive design patterns on analog and digital interfaces.
 
 Ref No.: PDD-23-00003                                   NPC_PPO_PDD_AdTem-V1.0, R1.0, 01 September 2023
 
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 SECTION 2. Definition of Terms. — Terms used in the DPA and its Implementing Rules  
 and Regulations (IRR), as amended, are adopted herein. In addition, whenever used in this  
 Advisory, the following terms are defined as follows:
@@ -122,7 +123,7 @@ a Single Market For Digital Services and amending Directive 2000/31/EC (Digital 
 
 Ref No.: PDD-23-00003                                        NPC_PPO_PDD_AdTem-V1.0, R1.0, 01 September 2023
 
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
+             URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
                                                                                                                       2  
         6. bombard a data subject with excessive information that is not essential to the  
@@ -177,7 +178,7 @@ invalidating the consent given by a data subject for a specific processing activ
 
 Ref No.: PDD-23-00003                              NPC_PPO_PDD_AdTem-V1.0, R1.0, 01 September 2023
 
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
                                                                                                  3  
 the processing undertaken without valid lawful basis.
@@ -202,6 +203,6 @@ Approved:
 
 Ref No.: PDD-23-00003                              NPC_PPO_PDD_AdTem-V1.0, R1.0, 01 September 2023
 
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
                                                                                                  4

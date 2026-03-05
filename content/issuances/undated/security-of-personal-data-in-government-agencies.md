@@ -15,24 +15,9 @@ tags:
 draft: false
 ---
 
-> TO : ALL HEADS OF GOVERNMENT BRANCHES, BODIES OR ENTITIES, INCLUDING NATIONAL GOVERNMENT AGENCIES, BUREAUS OR OFFICES, CONSTITUTIONAL COMMISSIONS, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED AND –CONTROLLED CORPORATIONS, STATE COLLEGE AND UNIVERSITIES
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                Republic of the Philippines  
-                            National Privacy Commission  
+<!-- SEEDED ANNOTATED HASH: 6f92560c46e7f593b63c3b299d93cc4a3525dcad -->
                                 privacycommissioner@privacy.gov.ph
 
 NPC Circular 16-01
@@ -83,11 +68,7 @@ issue guidelines relating to access by agency personnel to sensitive personal in
 Act of 2012 provides that, among the Commission’s functions, is to develop, promulgate,  
 review or amend rules and regulations for the effective implementation of the Act;
 
-       WHEREFORE, in consideration of these premises, the National Privacy Commission  
-hereby issues this Circular governing the security of personal data in government agencies.  
-                                                                             NPC Circular No. 2016-01  
-                                                   Security of Personal Data in Government Agencies  
-                                                                                     10 October 2016
+hereby issues this Circular governing the security of personal data in government agencies.
 
                                       RULE I.  
                                 GENERAL PROVISIONS
@@ -145,11 +126,6 @@ defined, as follows:
    J.   “Personal Data” shall refer to all types of personal information, including those  
         pertaining to agency personnel;
 
-                                               2  
-                                                                               NPC Circular No. 2016-01  
-                                                     Security of Personal Data in Government Agencies  
-                                                                                       10 October 2016
-
    K.    “Privacy Impact Assessment” is a process undertaken and used by a government  
          agency to evaluate and manage privacy impacts;
 
@@ -204,11 +180,6 @@ The Privacy Impact Assessment shall include the following:
 
    D.    an assessment of the risks to the rights and freedoms of data subjects.
 
-                                                 3  
-                                                                             NPC Circular No. 2016-01  
-                                                   Security of Personal Data in Government Agencies  
-                                                                                     10 October 2016
-
 SECTION 6. Control Framework for Data Protection. The risks identified in the privacy impact  
 assessment must be addressed by a control framework, which is a comprehensive enumeration  
 of the measures intended to address the risks, including organizational, physical and technical  
@@ -260,11 +231,6 @@ engages a service provider for the purpose of storing personal data under the ag
 or custody, the service provider shall function as a personal information processor and comply  
 with all the requirements of the Act, its IRR and all applicable issuances by the Commission.
 
-                                               4  
-                                                                              NPC Circular No. 2016-01  
-                                                    Security of Personal Data in Government Agencies  
-                                                                                      10 October 2016
-
 SECTION 11. Audit. The Commission reserves the right to audit a government agency's data  
 center, or, where applicable, that of its service provider.
 
@@ -313,11 +279,6 @@ tool.
 
 SECTION 19. Local Copies of Personal Data Accessed Online. A government agency shall  
 adopt and utilize technologies that prevent personal data accessible online to authorized agency
-
-                                                5  
-                                                                               NPC Circular No. 2016-01  
-                                                     Security of Personal Data in Government Agencies  
-                                                                                       10 October 2016
 
 personnel from being copied to a local machine. The agency shall also provide for the automatic  
 deletion of temporary files that may be stored on a local machine by its operating system.
@@ -368,11 +329,6 @@ SECTION 26. Portable Media. A government agency that uses portable media, such a
 USB drives, to store or transfer personal data must ensure that the data is encrypted. Agencies  
 that use laptops to store personal data must utilize full disk encryption.
 
-                                                 6  
-                                                                             NPC Circular No. 2016-01  
-                                                   Security of Personal Data in Government Agencies  
-                                                                                     10 October 2016
-
 SECTION 27. Removable Physical media. Where possible, the manual transfer of personal  
 data, such as through the use of removable physical media like compact discs, shall not be  
 allowed: Provided, that if such mode of transfer is unavoidable or necessary, authentication  
@@ -416,11 +372,6 @@ ensure that the confidentiality of all personal data is protected.
 SECTION 33. Data Breach Management. The appropriate guidelines for managing data  
 breaches will be the subject of a separate issuance by the Commission.
 
-                                               7  
-                                                                             NPC Circular No. 2016-01  
-                                                   Security of Personal Data in Government Agencies  
-                                                                                     10 October 2016
-
 SECTION 34. Penalties. Violations of these Rules, shall, upon notice and hearing, be subject to  
 compliance and enforcement orders, cease and desist orders, temporary or permanent ban on  
 the processing of personal data, or payment of fines, in accordance with a schedule to be  
@@ -458,30 +409,12 @@ Approved:
 
            (Sgd.) IVY D. PATDU                      (Sgd.) DAMIAN DOMINGO O. MAPA  
         Deputy Privacy Commissioner                      Deputy Privacy Commissioner
-
-                                               8
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 16-01
-- Type: Circular
-- Year: undated
-- Issued: Unknown
-- Pages: 8
-- Source PDF: [Open PDF](../../pdfs/Sgd-NPC-Circular-16-01-Security-of-Personal-Data-in-Government-Agencies.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-01-Security-of-Personal-Data-in-Government-Agencies.pdf
-- Topic pages: [[topics/government|Government]], [[topics/security|Security]]
-- Generated source note: [[sources/undated/security-of-personal-data-in-government-agencies|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2022/guidelines-on-requests-for-personal-data-of-public-officers|Guidelines On Requests For Personal Data Of Public Officers]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/undated/security-of-personal-data-in-government-agencies]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/undated/security-of-personal-data-in-government-agencies|Analysis and metadata]]
+- Raw source text: [[sources/undated/security-of-personal-data-in-government-agencies|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-01-Security-of-Personal-Data-in-Government-Agencies.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

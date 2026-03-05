@@ -10,6 +10,6 @@ All generated notes tagged as **Issuance**.
 - [[issuances/2021/2021-rules-of-procedure-of-the-npc|2021 Rules of Procedure of the NPC]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own criteria for reading issuance issuances here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

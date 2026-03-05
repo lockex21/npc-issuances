@@ -13,27 +13,9 @@ tags:
 draft: false
 ---
 
-> SECTION 1. Rule I, Sections 4 and 5 of the 2021 NPC Rules of Procedure are hereby amended and renumbered to read as follows:
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                Republic of the Philippines  
-                           NATIONAL PRIVACY COMMISSION  
-                          5th Floor, Philippine International Convention Center,  
-                          Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: 3ea5608cba54de49d6ea587c421f781ea7afbf75 -->
 NPC Circular 2024-01
 
 Date           :       26 January 2024
@@ -78,8 +60,6 @@ amended and renumbered to read as follows:
            commitment, program controls, and review mechanisms intended to assure  
            privacy and personal data protection in data processing systems.
 
-                                                               NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
           f. COURIER – shall refer to any private mail carrier accredited by the Supreme  
                Court, the NPC, or by international conventions of which the Philippines is a  
                signatory.
@@ -130,9 +110,8 @@ amended and renumbered to read as follows:
 2 Id. Rule 2, § 1(h).  
 3 An Act to Ordain and Institute the Civil Code of the Philippines, [CIVIL CODE OF THE PHILIPPINES], Republic Act
 
-No. 386, Art. 44 (1949).  
-                                                                     NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-               URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+No. 386, Art. 44 (1949).
+
          n. MEDIATION – shall refer to the voluntary process in which a Mediation Officer  
              facilitates communication and negotiation and assists the parties in reaching a  
              voluntary agreement regarding a dispute.
@@ -181,9 +160,8 @@ No. 386, Art. 44 (1949).
 
 4 2019 Amendments to the 1997 Rules of Civil Procedure (A.M. No. 19-10-20-SC), [RULES OF COURT], Rule 3, § 2
 
-(May 1, 2020).  
-                                                                 NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+(May 1, 2020).
+
          y. SUA SPONTE INVESTIGATION – shall refer to an investigation initiated by the  
               NPC on its own for possible violation of the DPA.”
 
@@ -234,9 +212,8 @@ as follows:
 
 5 This includes a department, bureau, office, instrumentality, government-owned or controlled corporation, local
 
-government, state university and college, or a distinct unit in it.  
-                                                                      NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-              URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+government, state university and college, or a distinct unit in it.
+
       complaint, pleading, motion, or other submissions of parties. When the NPC has opted  
       to serve a judgment, order, or resolution by electronic mail, it shall no longer serve its  
       issuances in the same case or matter by any other mode of service, unless  
@@ -287,9 +264,8 @@ to read as follows:
       except as otherwise provided in these Rules, join as complainants or be joined as  
       respondents in one complaint, where any question of law or fact common to all such  
       complainants or to all such respondents may arise in the action; but the NPC may  
-      make such orders as may be just to prevent any complainant or respondent from being  
-                                                          NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-          URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+      make such orders as may be just to prevent any complainant or respondent from being
+
          embarrassed or put to expense in connection with any proceedings in which the party  
          may have no interest.
 
@@ -342,8 +318,6 @@ to read as follows:
 
 6 RULES OF COURT, Rule 3, § 8.
 
-                                                             NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
         attachment to the comment. In case the minor or a person alleged to be incompetent is  
         represented by the father or mother, the birth certificate shall be considered sufficient  
         proof, while for the guardian, the court order designating the person as guardian shall  
@@ -394,9 +368,8 @@ to read as follows:
 
 7 This includes a department, bureau, office, instrumentality, government-owned or controlled corporation, local
 
-government, state university and college, or a distinct unit in it.  
-                                                                      NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-              URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+government, state university and college, or a distinct unit in it.
+
          2. The action is barred by a prior judgment;
 
          3. There is another action pending between the same parties for the same cause;
@@ -448,8 +421,6 @@ renumbered to read as follows:
      Parties may be exempted from the payment of the mediation fee under the same  
      grounds as Section 4, Rule II of these Rules.
 
-                                                         NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-         URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 SECTION 4. Order to mediate, when issued. – The Investigating Officer shall issue an  
 Order to Mediate, which shall state the following: (a) the approval of the Application  
 for Mediation; (b) the suspension of the complaint proceedings for up to ninety (90)  
@@ -500,9 +471,8 @@ No representative shall be allowed to appear in mediation on behalf of a party w
 proper authorization as verified by the Mediation Officer.
 
 The parties shall inform the LD about changes in representation through a written  
-statement or manifestation along with the corresponding written authority to offer,  
-                                                   NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-   URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+statement or manifestation along with the corresponding written authority to offer,
+
 negotiate, accept, decide, and enter into a mediated settlement agreement submitted  
 to the Mediation Officer prior to the next scheduled mediation conference. The  
 mediation shall not proceed until and unless the representatives are duly authorized  
@@ -553,9 +523,8 @@ or their representatives, with the assistance of their respective counsels, if a
 the parties or their authorized representatives shall have the authority to confirm the  
 provisions of the mediated settlement agreement and execute the agreement. The  
 execution of a mediated settlement agreement shall terminate the mediation  
-proceedings. The Mediation Officer shall certify that the contents of the agreement  
-                                                   NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-   URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+proceedings. The Mediation Officer shall certify that the contents of the agreement
+
 have been explained, understood, and mutually agreed upon by the parties, and that  
 the provisions are not contrary to law, public policy, morals, or good customs.
 
@@ -606,8 +575,6 @@ this Rule: Provided, that the application is filed before the endorsement of the
 decision by the Commission: Provided further, that the application is done in  
 compliance with this Rule.
 
-                                                   NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-   URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
       SECTION 18. Resumption of complaint proceedings. – Upon receipt of the Notice of  
       Non-Settlement of Dispute issued by the Mediation Officer, the Investigating Officer  
       shall issue an order lifting the suspension of the complaint proceedings, which shall  
@@ -659,8 +626,6 @@ renumbered to read as follows:
       data; or (3) order the conduct of a clarificatory hearing or the submission of additional  
       documents, if in its discretion, additional information is needed to make a decision.
 
-                                                          NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-          URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 No motion for clarificatory hearing shall be entertained. In case the Commission finds  
 that a clarificatory hearing is necessary, the following shall be observed:
 
@@ -711,9 +676,8 @@ SECTION 5. Refiling of complaint or motion for reconsideration on the decision
 issued by the Legal and Enforcement Office. – The complainant may refile the  
 complaint with the NPC or file with the LEO a motion for reconsideration of the  
 decision dismissing the case outright. Otherwise, the decision of the LEO Director  
-shall become final and executory within fifteen (15) calendar days from notice thereof  
-                                                   NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-   URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+shall become final and executory within fifteen (15) calendar days from notice thereof
+
      with proof of service on the adverse party. If the complainant files a motion for  
      reconsideration, the motion for reconsideration shall be endorsed to the Commission  
      for its resolution within fifteen (15) calendar days from the LEO Director’s receipt of  
@@ -763,8 +727,6 @@ renumbered to read as follows:
 
      “RULE X – SUA SPONTE INVESTIGATION
 
-                                                        NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-        URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          SECTION 1. Commencement.– The NPC, through the CID or a special committee or  
          task force assigned for such purpose, may initiate an investigation on the  
          circumstances surrounding a possible data privacy violation or data breach in cases  
@@ -815,9 +777,8 @@ renumbered to read as follows:
 
 8 This includes a department, bureau, office, instrumentality, government-owned or controlled corporation, local
 
-government, state university and college, or a distinct unit in it.  
-                                                                      NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-              URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+government, state university and college, or a distinct unit in it.
+
       Meeting, and Memorandum within the NPC, shall be excluded. Third-party reports  
       and submissions shall also be excluded.
 
@@ -868,9 +829,8 @@ follows:
       preliminary requests from the PIC or PIP for (a) extensions to notify data subjects or  
       (b) extensions to file full breach report. The preliminary requests for extensions  
       granted by the CMD shall be for a period of twenty (20) calendar days counted from  
-      the date of the request.  
-                                                         NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-         URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+      the date of the request.
+
 SECTION 4. Preliminary requests and related Motions that must be endorsed to the  
 Commission. – The CMD shall endorse to the Commission the following requests  
 from the PIC or PIP:
@@ -922,8 +882,6 @@ the CID for further investigation for a possible data privacy violation.
 SECTION 7. Conduct of breach investigation. – Upon receipt of the Final Breach  
 Notification Evaluation Report, an Investigating Officer shall determine if there is a
 
-                                                   NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-   URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
        necessity to conduct an on-site or technical investigation. The Investigating Officer  
        shall request proper authority from the NPC before conducting any on-site or  
        technical investigation. The Investigating Officer may also request assistance from the  
@@ -975,8 +933,6 @@ SECTION 10. This Rule has been included to read as follows:
        SECTION 2. Conduct of Privacy Sweep. – The CMD shall conduct a Privacy Sweep  
        of all publicly available or accessible information, including, but not limited to
 
-                                                          NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-          URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 websites, mobile applications, raffle coupons, brochures, privacy notices, social media  
 pages or accounts, and physical or digital forms of a PIC or PIP.
 
@@ -1027,8 +983,6 @@ cumulative period of thirty (30) calendar days counted from the date of the init
 request. In case of refusal of the request for extension, the CMD shall send the denial  
 of the request for extension and order the PIC or PIP to submit the same immediately.
 
-                                                   NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-   URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          SECTION 7. Failure of the PIC or PIP to comply with the Warning Letter. – If the PIC  
          or PIP fails to comply within seven (7) calendar days from receipt of the Warning  
          Letter, the CMD shall order the PIC or PIP to show valid cause why it should not be  
@@ -1080,9 +1034,8 @@ of the request for extension and order the PIC or PIP to submit the same immedia
 
 9 Persistent issues pertain to the inadequate implementation of security measures to address the heightened risk
 
-to the rights and freedoms of data subjects.  
-                                                                  NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-             URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+to the rights and freedoms of data subjects.
+
    e) Other considerations that indicate non-compliance with the DPA, IRR, or NPC  
       issuances; and  
    f) When, in the discretion of the CMD, there is an urgent need to ensure the  
@@ -1132,8 +1085,6 @@ Compliance Order in any of the following instances:
     b) After the lapse of the period provided in the Notice of Deficiencies and such  
        identified deficiencies persist.
 
-                                                   NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-   URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
         If the persistence of the deficiencies is due to the considerable period of time  
         or resources needed to implement the necessary remediation measures, the  
         timeline to complete such measures, as approved by the Commission, shall  
@@ -1184,8 +1135,6 @@ allowed by law. In case of refusal, the following provisions shall govern:
 SECTION 19. Certificate of No Significant Findings. – The CMD shall issue a  
 Certificate of No Significant Findings to a PIC or PIP that has undergone document
 
-                                                   NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-   URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
          submission or an OSV, where no substantial deficiencies were found, or the  
          deficiencies identified in the Deficiency Report or Notice of Deficiencies have already  
          been addressed to the satisfaction of the NPC.
@@ -1237,9 +1186,8 @@ renumbered to read as follows:
 
 10 This includes a department, bureau, office, instrumentality, government-owned or controlled corporation, local
 
-government, state university and college, or a distinct unit in it.  
-                                                                      NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-              URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+government, state university and college, or a distinct unit in it.
+
        Notwithstanding any provision of these Rules, the conduct of preliminary  
        conferences, summary hearings, mediation conferences, investigations, clarificatory  
        hearings, and all other hearings may be conducted through videoconferencing  
@@ -1274,31 +1222,12 @@ publication in a newspaper of general circulation.
                 SGD.                                                           SGD.  
 ATTY. LEANDRO ANGELO Y. AGUIRRE                                   ATTY. NERISSA N. DE JESUS  
      Deputy Privacy Commissioner                                  Deputy Privacy Commissioner
-
-                                                           NPC_DIT_CRLRV1.0, R1.0, 01 September 2023  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2024-01
-- Type: Circular
-- Year: 2024
-- Issued: Unknown
-- Pages: 24
-- Source PDF: [Open PDF](../../pdfs/NPC-Circular-2024-01-Amendments-to-the-2021-Rules-of-Procedure-of-the-NPC-FOR-PUBLICATION.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-2024-01-Amendments-to-the-2021-Rules-of-Procedure-of-the-NPC-FOR-PUBLICATION.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2021/2021-rules-of-procedure-of-the-npc|2021 Rules of Procedure of the NPC]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Analysis and metadata]]
+- Raw source text: [[sources/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-2024-01-Amendments-to-the-2021-Rules-of-Procedure-of-the-NPC-FOR-PUBLICATION.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

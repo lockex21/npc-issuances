@@ -3,7 +3,7 @@ import * as Component from "./quartz/components"
 import { FileTrieNode } from "./quartz/util/fileTrie"
 
 const explorerFilter = (node: FileTrieNode) =>
-  node.slugSegment !== "tags" && node.slugSegment !== "sources"
+  node.slugSegment !== "tags" && node.slugSegment !== "sources" && node.slugSegment !== "notes"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {

@@ -1,20 +1,21 @@
 ---
-title: "FAQs on the Guidelines on Administrative Fines Source Text"
-description: "Generated extracted text for FAQs on the Guidelines on Administrative Fines."
+title: "FAQs on the Guidelines on Administrative Fines Raw Source Text"
+description: "Raw extracted text for FAQs on the Guidelines on Administrative Fines before manual annotation."
 aliases:
-  - "FAQs on the Guidelines on Administrative Fines Source Text"
+  - "FAQs on the Guidelines on Administrative Fines Raw Source Text"
 tags:
   - "source-text"
   - "year/undated"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/undated/faqs-on-the-guidelines-on-administrative-fines|FAQs on the Guidelines on Administrative Fines]]
-- PDF: [Open PDF](../../pdfs/FAQs-on-the-Guidelines-on-Administrative-Fines-.pdf)
+- Companion note: [[notes/undated/faqs-on-the-guidelines-on-administrative-fines|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/FAQs-on-the-Guidelines-on-Administrative-Fines-.pdf
+- OCR used: no
 
 ## Extracted Text
                                Republic of the Philippines  

@@ -15,25 +15,9 @@ date: "2020-12-21"
 draft: false
 ---
 
-> WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State recognizes the vital role of communication and information in nation-building. At the same time, Article II, Section 11 thereof emphasizes that the State values the dignity of every human person...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                   Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: e9a75b3a99090536a5efbfbbfce5a9d9ee212751 -->
 NPC Circular No. 2020-03
 
 DATE                :   23 December 2020
@@ -72,8 +56,8 @@ WHEREAS, Section 9 of the Implementing Rules and Regulations of the Data Privacy
 2012 provides that, among the Commission’s functions, is to develop, promulgate, review or  
 amend rules and regulations for the effective implementation of the Act;
 
-WHEREFORE, in consideration of these premises, the National Privacy Commission hereby  
-issues this Circular governing data sharing agreements.  
+issues this Circular governing data sharing agreements.
+
 SECTION 1. Scope. — The provisions of this Circular apply to personal data under the control  
 or custody of a personal information controller (PIC) that is being shared, disclosed, or  
 transferred to another PIC. The Circular likewise applies to personal data that is consolidated  
@@ -125,7 +109,6 @@ defined, as follows:
       document which sets out the obligations, responsibilities, and liabilities of the personal  
       information controllers involved in the transfer of personal data between or among
 
-                                                                                              2  
      them, including the implementation of adequate safeguards for data privacy and  
      security, and upholding the rights of the data subjects: provided, that only personal  
      information controllers should be made parties to a data sharing agreement;
@@ -177,7 +160,6 @@ Q. “Private entity” refers to any natural or juridical person, or any other 
    but not limited to, stock and non-stock corporations, foreign corporations,  
    partnerships, cooperatives, sole proprietorships, or any other legal entity.
 
-                                                                                           3  
    R. “Privileged information” refers to any and all forms of data, which, under the Rules  
       of Court and other pertinent laws constitute privileged communication;
 
@@ -230,7 +212,6 @@ among PICs only, and are governed by the following principles:
 
 SECTION 4. Parties. — Only PICs can be parties to data sharing arrangements. This is the
 
-                                                                                               4  
 case even where the actual sharing will transpire between a PIC and a PIP acting on behalf of,  
 or upon the instructions of, another PIC.
 
@@ -283,7 +264,6 @@ well as in the conduct of compliance checks.
 
 SECTION 9. Contents of a Data Sharing Agreement. — The following constitute the contents
 
-                                                                                                  5  
 of a DSA:
 
    A. Purpose and lawful basis. It specifies the purpose/s of the data sharing and the  
@@ -336,7 +316,6 @@ of a DSA:
       1. Identity of the party or parties responsible for addressing: information requests,  
          complaints by a data subject, and/or any investigation by the NPC: provided, that
 
-                                                                                                6  
           the NPC shall make the final determination as to which party is liable for any  
           violation of the Act, its IRR, or any applicable NPC issuance; and  
        2. Procedure by which a data subject can access or obtain a copy of the DSA: provided,  
@@ -389,7 +368,6 @@ outside the Philippines, subject to cross-border arrangement and cooperation.
 
 The DPOs of the parties will sign as witnesses to the DSA.
 
-                                                                                               7  
 SECTION 13. Review by the Commission. — Data sharing, whether or not covered by a DSA,  
 may be subject to review by the Commission, on its own initiative or upon a verified  
 complaint by an affected data subject.
@@ -441,7 +419,6 @@ SECTION 18. Transitory period. — Where an existing data sharing is not covered
 written contract, joint issuance, or any similar document, the parties thereto may execute or  
 enter into an appropriate agreement, subject to the considerations set forth under Section 8 of
 
-                                                                                               8  
 this Circular.
 
 All existing DSAs should be reviewed by the concerned parties to determine compliance with  
@@ -475,30 +452,12 @@ Approved:
                   SGD.                                             SGD.  
      LEANDRO ANGELO Y. AGUIRRE                           JOHN HENRY D. NAGA  
        Deputy Privacy Commissioner                      Deputy Privacy Commissioner
-
-                                                                                               9
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2020-03
-- Type: Circular
-- Year: 2020
-- Issued: December 21, 2020
-- Pages: 9
-- Source PDF: [Open PDF](../../pdfs/Circular-Data-Sharing-Agreement-amending-16-02-21-Dec-2020-clean-copy-FINAL-LYA-and-JDN-signed-minor-edit.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2021/01/Circular-Data-Sharing-Agreement-amending-16-02-21-Dec-2020-clean-copy-FINAL-LYA-and-JDN-signed-minor-edit.pdf
-- Topic pages: [[topics/data-sharing|Data Sharing]]
-- Generated source note: [[sources/2020/data-sharing-agreements|Generated source text]]
-
-### Automatic References Out
-- [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2020/data-sharing-agreements]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2020/data-sharing-agreements|Analysis and metadata]]
+- Raw source text: [[sources/2020/data-sharing-agreements|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/01/Circular-Data-Sharing-Agreement-amending-16-02-21-Dec-2020-clean-copy-FINAL-LYA-and-JDN-signed-minor-edit.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

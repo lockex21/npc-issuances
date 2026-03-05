@@ -15,25 +15,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, Executive Order No. 292, otherwise known as the “Administrative Code of 1987”, authorizes all agencies to charge fees, including honoraria, and other reasonable allowances, as compensation for consultation, seminars or training programs, or technical services rendered...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                   Republic of the Philippines  
-                              NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 47e3bd373c11855745c4a7a299541eea88e645ef -->
 NPC Circular No. 2023-01
 
 Date            :        17 May 2023
@@ -74,9 +58,6 @@ authority vested by law, hereby adopts the following schedule of rates of fees:
       Section 1. Schedule of Fees – Hereunder is the list of all the fees and charges to be  
 imposed and collected by the NPC:
 
-                                                                       NPC_DIT_CRLR-V1.0,R0.0,22 June 2022  
-  5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-            URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                            PARTICULARS                             Rates  
                                      Complaints and Investigation  
               Filing Fee for Complaints                         Php 500.00  
@@ -127,9 +108,6 @@ imposed and collected by the NPC:
                                                                      Sample: Php 500.00 x 1 = Php  
                                                                      500.00
 
-                                                                     NPC_DIT_CRLR-V1.0,R0.0,22 June 2022  
-5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-          URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                             * In no case shall the amount of the  
                                                             bond exceed Php 50,000.00  
               Legal Research Fee                               1% of the filing fee but  
@@ -180,9 +158,6 @@ imposed and collected by the NPC:
                           the current tax declaration of more than Three Hundred Thousand Pesos  
                           (Php 300,000.00)
 
-                                                                     NPC_DIT_CRLR-V1.0,R0.0,22 June 2022  
-5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-          URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
               To be entitled to the exemption herein provided, the litigant shall provide all  
               documents enumerated below:
 
@@ -233,9 +208,6 @@ imposed and collected by the NPC:
               Certificate of Registration  
               (COR)
 
-                                                                     NPC_DIT_CRLR-V1.0,R0.0,22 June 2022  
-5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-          URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
               Recovery of Inaccessible DPO                 Php 5,000.00  
               Accounts  
                                 Advisory Opinion and Legal Research  
@@ -285,9 +257,6 @@ imposed and collected by the NPC:
       be processed in accordance with the established guidelines of the Department of  
       Budget and Management and Bureau of Treasury. The refunded amount shall be
 
-                                                                     NPC_DIT_CRLR-V1.0,R0.0,22 June 2022  
-5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-          URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
        released to the payor within five (5) working days from the receipt of its corresponding  
        Notice of Cash Allocation.
 
@@ -317,32 +286,12 @@ Approved:
                 Sgd.                                                     On official leave  
 ATTY. LEANDRO ANGELO Y. AGUIRRE                                  ATTY. NERISSA N. DE JESUS  
    Deputy Privacy Commissioner                                     Deputy Privacy Commissioner
-
-                                                                      NPC_DIT_CRLR-V1.0,R0.0,22 June 2022  
- 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307  
-           URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 2023-01
-- Type: Circular
-- Year: 2023
-- Issued: Unknown
-- Pages: 6
-- Source PDF: [Open PDF](../../pdfs/Schedule-of-Fees-and-Charges-of-the-National-Privacy-Commission.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/Schedule-of-Fees-and-Charges-of-the-National-Privacy-Commission.pdf
-- Topic pages: [[topics/fees-and-payments|Fees And Payments]], [[topics/training-certification|Training Certification]]
-- Generated source note: [[sources/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Analysis and metadata]]
+- Raw source text: [[sources/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Schedule-of-Fees-and-Charges-of-the-National-Privacy-Commission.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

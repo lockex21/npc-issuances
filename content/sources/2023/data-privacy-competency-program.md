@@ -1,20 +1,21 @@
 ---
-title: "Data Privacy Competency Program Source Text"
-description: "Generated extracted text for Data Privacy Competency Program."
+title: "Data Privacy Competency Program Raw Source Text"
+description: "Raw extracted text for Data Privacy Competency Program before manual annotation."
 aliases:
-  - "Data Privacy Competency Program Source Text"
+  - "Data Privacy Competency Program Raw Source Text"
 tags:
   - "source-text"
   - "year/2023"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2023/data-privacy-competency-program|Data Privacy Competency Program]]
-- PDF: [Open PDF](../../pdfs/Circular-on-Data-Privacy-Competency-Program-2023.09.26.pdf)
+- Companion note: [[notes/2023/data-privacy-competency-program|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/11/Circular-on-Data-Privacy-Competency-Program-2023.09.26.pdf
+- OCR used: no
 
 ## Extracted Text
                                 Republic of the Philippines  

@@ -1,20 +1,21 @@
 ---
-title: "Model Contractual Clauses for Cross-Border Transfers of Personal Data Source Text"
-description: "Generated extracted text for Model Contractual Clauses for Cross-Border Transfers of Personal Data."
+title: "Model Contractual Clauses for Cross-Border Transfers of Personal Data Raw Source Text"
+description: "Raw extracted text for Model Contractual Clauses for Cross-Border Transfers of Personal Data before manual annotation."
 aliases:
-  - "Model Contractual Clauses for Cross-Border Transfers of Personal Data Source Text"
+  - "Model Contractual Clauses for Cross-Border Transfers of Personal Data Raw Source Text"
 tags:
   - "source-text"
   - "year/2024"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data|Model Contractual Clauses for Cross-Border Transfers of Personal Data]]
-- PDF: [Open PDF](../../pdfs/Published-NPC-Advisory-No.-2024-01-Contractual-Clauses-for-Cross-Border-Transfers_30May24.pdf)
+- Companion note: [[notes/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/06/Published-NPC-Advisory-No.-2024-01-Contractual-Clauses-for-Cross-Border-Transfers_30May24.pdf
+- OCR used: no
 
 ## Extracted Text
                                  Republic of the Philippines  
@@ -66,7 +67,7 @@ personal data;
 WHEREAS, the DPA is not a barrier to cross-border transfers of personal data;
 
 Ref No.: PDD-24-00039                                      NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+         URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
 WHEREFORE, in consideration of these premises, the NPC hereby issues this Advisory on  
 the availability of model contractual clauses for cross-border transfers of personal data.
 
@@ -111,15 +112,15 @@ personal data. MCCs do not preclude PICs and PIPs from further negotiating legal
 
 1 Global Privacy Assembly, Working Group Reports, Global Frameworks and Standards WG Report GFSWG 2023- Annex
 
-B, available at https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.1-GPA-Annual-Working-Group-Report-  
+B, available at [https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.1-GPA-Annual-Working-Group-Report-](https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.1-GPA-Annual-Working-Group-Report-)  
 Annex-B-Controller-to-Controller-clause-comparison-tables-tracked-changes.pdf (last accessed: 18 December 2023).  
 2 Global Privacy Assembly, Working Group Reports, Global Frameworks and Standards WG Report GFSWG 2023- Annex
 
-C, available at https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.2-GPA-Annual-Working-Group-Report-  
+C, available at [https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.2-GPA-Annual-Working-Group-Report-](https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.2-GPA-Annual-Working-Group-Report-)  
 Annex-C-Controller-to-Processor-clause-comparison-tables-tracked-changes.pdf (last accessed: 18 December 2023).
 
 Ref No.: PDD-24-00039                                       NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+          URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                                2  
     B. The ASEAN and the European Commission published a Joint Guide to ASEAN MCCs  
        and EU SCCs (Joint Guide).
@@ -165,9 +166,9 @@ Approved:
 
 3 Association of Southeast Asian Nations and European Commission, Joint Guide to ASEAN MCCs and EU MCCs,
 
-available at https://asean.org/wp-content/uploads/2024/02/Joint-Guide-to-ASEAN-Model-Contractual-Clauses-and-EU-  
+available at [https://asean.org/wp-content/uploads/2024/02/Joint-Guide-to-ASEAN-Model-Contractual-Clauses-and-EU-](https://asean.org/wp-content/uploads/2024/02/Joint-Guide-to-ASEAN-Model-Contractual-Clauses-and-EU-)  
 Standard-Contractual-Clauses.pdf (last accessed: 07 February 2024).
 
 Ref No.: PDD-24-00039                                         NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
+          URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                                                                                                    3

@@ -1,20 +1,21 @@
 ---
-title: "2021 Rules of Procedure of the NPC Source Text"
-description: "Generated extracted text for 2021 Rules of Procedure of the NPC."
+title: "2021 Rules of Procedure of the NPC Raw Source Text"
+description: "Raw extracted text for 2021 Rules of Procedure of the NPC before manual annotation."
 aliases:
-  - "2021 Rules of Procedure of the NPC Source Text"
+  - "2021 Rules of Procedure of the NPC Raw Source Text"
 tags:
   - "source-text"
   - "year/2021"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2021/2021-rules-of-procedure-of-the-npc|2021 Rules of Procedure of the NPC]]
-- PDF: [Open PDF](../../pdfs/2021-Rules-of-Procedure-of-the-NPC-As-Amended.pdf)
+- Companion note: [[notes/2021/2021-rules-of-procedure-of-the-npc|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/03/2021-Rules-of-Procedure-of-the-NPC-As-Amended.pdf
+- OCR used: no
 
 ## Extracted Text
                                  Republic of the Philippines  

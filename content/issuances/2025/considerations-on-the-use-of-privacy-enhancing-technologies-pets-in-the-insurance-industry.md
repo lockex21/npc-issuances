@@ -11,25 +11,10 @@ date: "2025-03-11"
 draft: false
 ---
 
-> SUBJECT : CONSIDERATIONS ON THE USE OF PRIVACY ENHANCING TECHNOLOGIES (PETs) IN THE INSURANCE INDUSTRY
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                       Republic of the Philippines  
-                                       INSURANCE COMMISSION  
-                                    NATIONAL PRIVACY COMMISSION
+<!-- SEEDED ANNOTATED HASH: 63089a2384c8ed2563a6c971fbf4390e4151b15d -->
+                                       INSURANCE COMMISSION
 
                                                               Joint Advisory No. : 2025-001
 
@@ -64,13 +49,11 @@ Act No. 10607) grants the Insurance Commissioner the authority to issue circular
 letters and promulgate rules and procedures to effectively implement the provisions  
 of the Insurance Code and to ensure proper regulation of the insurance industry;
 
-Head Office, P.O. Box 3589 Manila | Trunkline: +(632) 8523-8461 | Fax. No: +(632) 8522-1434 | www.insurance.gov.ph  
 WHEREAS, the Insurance Commission (IC) is mandated to regulate and supervise the  
 insurance, pre-need, and health maintenance organization (HMO) industries in  
 accordance with the provisions of the Insurance Code, as amended, Pre-Need Code of  
 the Philippines, and Executive Order No. 192 (s. 2015);
 
-WHEREAS, pursuant to Section 7 of the DPA, the National Privacy Commission (NPC)  
 is mandated to administer and implement the provisions of the DPA, monitor and  
 ensure compliance of the country with international standards set for data protection,  
 and coordinate with government agencies and the private sector on efforts to  
@@ -104,12 +87,8 @@ WHEREFORE, in consideration of the foregoing premises, and without prejudice to 
 application of pertinent laws and regulations, the NPC and the IC hereby issue this  
 Joint Advisory to provide considerations on the use of PETs in the insurance industry.
 
-1 See National Privacy Commission, Registration of Personal Data Processing System, Notification Regarding Automated
-
-Decision-Making Or Profiling, Designation of Data Protection Officer, And the National Privacy Commission Seal Of  
 Registration, Circular No. 04, Series of 2022 [NPC Circ. No. 22-04] (05 December 2022).
 
-Head Office, P.O. Box 3589 Manila | Trunkline: +(632) 8523-8461 | Fax. No: +(632) 8522-1434 | www.insurance.gov.ph  
 SECTION 1. Scope. – These Guidelines shall apply to insurance providers, insurance  
 and pre-need companies, health maintenance organizations (HMO), mutual benefit  
 associations (MBA), their respective agents, brokers, adjusters, intermediaries, all  
@@ -149,10 +128,9 @@ Categories of PETs3 include:
 2 Organisation for Economic Co-operation and Development (OECD), Emerging Privacy-Enhancing Technologies: Current
 
 Regulatory and Policy Approaches, OECD Digital Economy Papers No. 351, at 4 (2023), available at  
-https://doi.org/10.1787/bf121be4-en (last accessed: November 2024).  
+[https://doi.org/10.1787/bf121be4-en](https://doi.org/10.1787/bf121be4-en) (last accessed: November 2024).  
 3 Id. at 13.
 
-Head Office, P.O. Box 3589 Manila | Trunkline: +(632) 8523-8461 | Fax. No: +(632) 8522-1434 | www.insurance.gov.ph  
           Emerging Privacy-Enhancing Technologies: Current Regulatory and Policy  
           Approaches4
 
@@ -188,7 +166,7 @@ with other obligations provided under the relevant data privacy laws and regulat
 4See Organisation for Economic Co-operation and Development (OECD), Emerging Privacy-Enhancing Technologies: Current
 
 Regulatory and Policy Approaches, OECD Digital Economy Papers No. 351 (2023), available at  
-https://doi.org/10.1787/bf121be4-en (last accessed: November 2024).  
+[https://doi.org/10.1787/bf121be4-en](https://doi.org/10.1787/bf121be4-en) (last accessed: November 2024).  
 5 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012],  
@@ -197,12 +175,8 @@ Republic Act No. 10173 § 21 (2012).
 7 See NPC Circ. No. 22-04.  
 8 See National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03],
 
-(15 December 2016).  
-9 See National Privacy Commission, Security of Personal Data in the Government and the Private Sector, Circular No. 06,
+(15 December 2016).
 
-Series of 2023 [NPC Circ. No. 23-06], (01 December 2023).
-
-Head Office, P.O. Box 3589 Manila | Trunkline: +(632) 8523-8461 | Fax. No: +(632) 8522-1434 | www.insurance.gov.ph  
           or regulations.10 Covered Entities may utilize PIA results to assess which specific  
           PETs are most suitable for their processing activities and identified risks.
 
@@ -227,34 +201,12 @@ Approved:
                                                                                       SGD.  
                                                                              NERISSA N. DE JESUS  
                                                                           Deputy Privacy Commissioner
-
-10 See National Privacy Commission, Security of Personal Data in the Government and the Private Sector, Circular No. 06,
-
-Series of 2023 [NPC Circ. No. 23-06], (01 December 2023).
-
-Head Office, P.O. Box 3589 Manila | Trunkline: +(632) 8523-8461 | Fax. No: +(632) 8522-1434 | www.insurance.gov.ph
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: None detected
-- Type: Joint Advisory
-- Year: 2025
-- Issued: March 11, 2025
-- Pages: 5
-- Source PDF: [Open PDF](../../pdfs/NPC-IC-Joint-Advisory-2025.03.11-Considerations-on-the-Use-of-PETs-in-the-Insurance-Industry-w-SGD.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2025/03/NPC-IC-Joint-Advisory-2025.03.11-Considerations-on-the-Use-of-PETs-in-the-Insurance-Industry-w-SGD.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry|Analysis and metadata]]
+- Raw source text: [[sources/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2025/03/NPC-IC-Joint-Advisory-2025.03.11-Considerations-on-the-Use-of-PETs-in-the-Insurance-Industry-w-SGD.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

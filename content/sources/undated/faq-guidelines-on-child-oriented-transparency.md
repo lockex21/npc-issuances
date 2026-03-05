@@ -1,20 +1,21 @@
 ---
-title: "FAQ Guidelines on Child-Oriented Transparency Source Text"
-description: "Generated extracted text for FAQ Guidelines on Child-Oriented Transparency."
+title: "FAQ Guidelines on Child-Oriented Transparency Raw Source Text"
+description: "Raw extracted text for FAQ Guidelines on Child-Oriented Transparency before manual annotation."
 aliases:
-  - "FAQ Guidelines on Child-Oriented Transparency Source Text"
+  - "FAQ Guidelines on Child-Oriented Transparency Raw Source Text"
 tags:
   - "source-text"
   - "year/undated"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/undated/faq-guidelines-on-child-oriented-transparency|FAQ Guidelines on Child-Oriented Transparency]]
-- PDF: [Open PDF](../../pdfs/FAQs-Advisory-on-Guidelines-on-Child-Oriented-Transparency.pdf)
+- Companion note: [[notes/undated/faq-guidelines-on-child-oriented-transparency|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/12/FAQs-Advisory-on-Guidelines-on-Child-Oriented-Transparency.pdf
+- OCR used: no
 
 ## Extracted Text
                                  Republic of the Philippines  

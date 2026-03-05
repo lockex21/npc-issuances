@@ -1,20 +1,21 @@
 ---
-title: "Annex 1 Source Text"
-description: "Generated extracted text for Annex 1."
+title: "Annex 1 Raw Source Text"
+description: "Raw extracted text for Annex 1 before manual annotation."
 aliases:
-  - "Annex 1 Source Text"
+  - "Annex 1 Raw Source Text"
 tags:
   - "source-text"
   - "year/2022"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2022/annex-1|Annex 1]]
-- PDF: [Open PDF](../../pdfs/Circular-2022-04-Annex-1-1.pdf)
+- Companion note: [[notes/2022/annex-1|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-Annex-1-1.pdf
+- OCR used: no
 
 ## Extracted Text
 ANNEX 1

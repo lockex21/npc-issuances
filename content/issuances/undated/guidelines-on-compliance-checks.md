@@ -13,25 +13,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, The right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution values the dignity of every human person...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                            Republic of the Philippines  
-                     NATIONAL PRIVACY COMMISSION
-
+<!-- SEEDED ANNOTATED HASH: 5b60aa0a7c9ab82ed894f4350fc45f8556aa6d81 -->
 NPC Circular No. 18-02
 
 DATE             :    20 September 2018  
@@ -69,9 +53,7 @@ adherence to data privacy principles, implementation of security measures, and
 provisions for data subjects to exercise their rights, Section 29 of the Implementing  
 Rules and Regulations (IRR) provides that the Commission shall monitor the  
 compliance of natural or juridical person or other body involved in the processing of  
-personal data, specifically their security measures.  
-                                                                  NPC Circular No. 2018-02  
-                                                                      Compliance Checks
+personal data, specifically their security measures.
 
        WHEREFORE, in consideration of these premises, the Commission hereby  
 issues this Circular governing the conduct of Compliance Checks.
@@ -118,12 +100,6 @@ terms are defined, as follows:
       undergone a Compliance Check with findings of substantial deficiencies, and  
       has implemented remediation measures as ordered by the Commission.
 
-                                          2  
-                                                               NPC Circular No. 2018-02  
-                                                                   Compliance Checks
-
-C. “Commission” or “NPC” refers to the National Privacy Commission.
-
 D. “Compliance Check” refers to the systematic and impartial evaluation of a  
    PIC or PIP, in whole or any part, process or aspect thereof, to determine  
    whether activities that involve the processing of personal data are carried out  
@@ -169,10 +145,6 @@ M. “Personal Information Controller” (PIC) refers to a natural or juridical 
    or any other body that controls the processing of personal data, or instructs  
    another to process personal data on its behalf.
 
-                                       3  
-                                                                NPC Circular No. 2018-02  
-                                                                    Compliance Checks
-
    N. “Personal Information Processor” (PIP) refers to any natural or juridical  
       person or any other body to whom a personal information controller may  
       outsource or instruct the processing of personal data pertaining to a data  
@@ -214,10 +186,6 @@ Compliance Checks:
       personal information are undertaken, as well as interviews of relevant  
       personnel tasked to handle personal information processed by the PIC or PIP  
       subject to the Compliance Check.
-
-                                         4  
-                                                                   NPC Circular No. 2018-02  
-                                                                       Compliance Checks
 
       The Commission may, in its discretion, directly employ this mode of  
       Compliance Check if it determines that the totality of circumstances warrant  
@@ -266,10 +234,6 @@ address is working and able to receive the Notice promptly.
 
 A Notice of Compliance Check will be sent in the following instances:
 
-                                          5  
-                                                                    NPC Circular No. 2018-02  
-                                                                        Compliance Checks
-
        a) Documents Submission. The Commission shall send a Notice to the PIC or  
           PIP requiring the submission of specific documents or policies in a  
           machine-readable or other commonly used file format, within a given  
@@ -314,10 +278,6 @@ Compliance Order in the following instances:
 Compliance Orders shall state the deficiencies remaining or actions to be taken, the  
 period within which to undertake the corrections ordered by the Commission, and  
 the period to report such actions.
-
-                                           6  
-                                                                    NPC Circular No. 2018-02  
-                                                                        Compliance Checks
 
 SECTION 10. Issuance of Other Orders. The Commission may issue any and all  
 pertinent orders in connection with the conduct or furtherance of a Compliance  
@@ -365,10 +325,6 @@ allowed by law. In case of refusal, the following provisions shall govern:
       paragraphs, or if the explanation does not present a compelling reason to  
       justify such refusal or failure, may subject a PIC or PIP to contempt
 
-                                           7  
-                                                                 NPC Circular No. 2018-02  
-                                                                     Compliance Checks
-
       proceedings, as may be permitted by law, before the appropriate court, or  
       such other actions as may be available to the Commission.
 
@@ -400,30 +356,12 @@ Approved:
 Deputy Privacy Commissioner                   Deputy Privacy Commissioner
 
 Date: 20 September 2018
-
-                                         8
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Circular No. 18-02
-- Type: Circular
-- Year: undated
-- Issued: Unknown
-- Pages: 8
-- Source PDF: [Open PDF](../../pdfs/Circular18-02_ComplianceCheck.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-02_ComplianceCheck.pdf
-- Topic pages: None yet
-- Generated source note: [[sources/undated/guidelines-on-compliance-checks|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/undated/guidelines-on-compliance-checks]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/undated/guidelines-on-compliance-checks|Analysis and metadata]]
+- Raw source text: [[sources/undated/guidelines-on-compliance-checks|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-02_ComplianceCheck.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

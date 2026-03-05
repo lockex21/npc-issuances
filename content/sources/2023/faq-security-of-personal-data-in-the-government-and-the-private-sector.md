@@ -1,20 +1,21 @@
 ---
-title: "FAQ Security of Personal Data in the Government and the Private Sector Source Text"
-description: "Generated extracted text for FAQ Security of Personal Data in the Government and the Private Sector."
+title: "FAQ Security of Personal Data in the Government and the Private Sector Raw Source Text"
+description: "Raw extracted text for FAQ Security of Personal Data in the Government and the Private Sector before manual annotation."
 aliases:
-  - "FAQ Security of Personal Data in the Government and the Private Sector Source Text"
+  - "FAQ Security of Personal Data in the Government and the Private Sector Raw Source Text"
 tags:
   - "source-text"
   - "year/2023"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|FAQ Security of Personal Data in the Government and the Private Sector]]
-- PDF: [Open PDF](../../pdfs/v12-19-2024_FAQ-NPC-Circular-2023-06_NNJ_JDN.pdf)
+- Companion note: [[notes/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/12/v12-19-2024_FAQ-NPC-Circular-2023-06_NNJ_JDN.pdf
+- OCR used: no
 
 ## Extracted Text
                                   Republic of the Philippines  

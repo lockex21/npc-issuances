@@ -1,20 +1,21 @@
 ---
-title: "Rules of procedure on requests for Advisory Opinions Source Text"
-description: "Generated extracted text for Rules of procedure on requests for Advisory Opinions."
+title: "Rules of procedure on requests for Advisory Opinions Raw Source Text"
+description: "Raw extracted text for Rules of procedure on requests for Advisory Opinions before manual annotation."
 aliases:
-  - "Rules of procedure on requests for Advisory Opinions Source Text"
+  - "Rules of procedure on requests for Advisory Opinions Raw Source Text"
 tags:
   - "source-text"
   - "year/undated"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|Rules of procedure on requests for Advisory Opinions]]
-- PDF: [Open PDF](../../pdfs/Circular18-01_Request_forAdvisory_Opinion.pdf)
+- Companion note: [[notes/undated/rules-of-procedure-on-requests-for-advisory-opinions|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-01_Request_forAdvisory_Opinion.pdf
+- OCR used: no
 
 ## Extracted Text
                                       Republic of the Philippines  
@@ -61,7 +62,7 @@ SECTION 3. Scope and Coverage. – These rules shall apply to all requests for a
 opinions cognizable by the NPC.
 
                   5th Floor, Delegation Building, PICC Complex, Vicente Sotto St., Pasay City  
-                        URL: https://privacy.gov.ph Email Add: info@privacy.gov.ph  
+                        URL: [https://privacy.gov.ph](https://privacy.gov.ph) Email Add: info@privacy.gov.ph  
                                                                                 NPC CIRCULAR NO. 18-01  
                                                 RULES OF PROCEDURE ON REQUESTS FOR ADVISORY OPINIONS  
                                                                                      10 SEPTEMBER 2018

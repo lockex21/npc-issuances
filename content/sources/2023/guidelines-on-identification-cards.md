@@ -1,20 +1,21 @@
 ---
-title: "Guidelines on Identification Cards Source Text"
-description: "Generated extracted text for Guidelines on Identification Cards."
+title: "Guidelines on Identification Cards Raw Source Text"
+description: "Raw extracted text for Guidelines on Identification Cards before manual annotation."
 aliases:
-  - "Guidelines on Identification Cards Source Text"
+  - "Guidelines on Identification Cards Raw Source Text"
 tags:
   - "source-text"
   - "year/2023"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2023/guidelines-on-identification-cards|Guidelines on Identification Cards]]
-- PDF: [Open PDF](../../pdfs/Published-NPC-Circular-No.-2023-03_Guidelines-on-Identification-Cards_07Nov2023.pdf)
+- Companion note: [[notes/2023/guidelines-on-identification-cards|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/11/Published-NPC-Circular-No.-2023-03_Guidelines-on-Identification-Cards_07Nov2023.pdf
+- OCR used: no
 
 ## Extracted Text
                                  Republic of the Philippines  
@@ -67,7 +68,7 @@ Professional ID card of a Registered Professional, including for this purpose th
 
 Ref No.: PDD-23-00001                                    NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
 
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 Bar of the Philippines (IBP) Lawyers ID, Tax Identification Number (TIN) card, shall be  
 excluded from the scope of this Circular.
 
@@ -115,15 +116,15 @@ provided herein.
 1 See: International Telecommunication Union, Recommendation ITU-T X.1251, A framework for user control of digital
 
 identity, “3.2.3 digital identity: The digital representation of the information known about a specific individual, group or  
-organization”, available at https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619 (last accessed 5 July 2023) and  
+organization”, available at [https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619](https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619) (last accessed 5 July 2023) and  
 United Nations Conference on Trade and Development, Policy Brief No. 96, March 2022, Digital identity refers to the set of  
 electronically captured and stored attributes and credentials used to uniquely identify a person, which can include biographic  
 data (e.g. name and date of birth), biometric data (e.g. fingerprints and facial features) and/or government-issued identification,  
-available at: https://unctad.org/system/files/official-document/presspb2022d4_en.pdf (last accessed 5 July 2023).
+available at: [https://unctad.org/system/files/official-document/presspb2022d4_en.pdf](https://unctad.org/system/files/official-document/presspb2022d4_en.pdf) (last accessed 5 July 2023).
 
 Ref No.: PDD-23-00001                                               NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
 
-               URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+               URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                                                  2  
 SECTION 7. Separability Clause. — If any portion or provision of this Circular is declared  
 null and void, or unconstitutional, the other provisions not affected thereby shall continue to  
@@ -147,5 +148,5 @@ Approved:
 
 Ref No.: PDD-23-00001                                NPC_PPO_PDD_CIRC-V1.0, R1.0, 01 September 2023
 
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
+           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. 8234-2228  
                                                                                                   3

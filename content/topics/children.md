@@ -11,6 +11,6 @@ Auto-generated topic cluster for **Children**.
 - [[issuances/2024/guidelines-on-child-oriented-transparency|Guidelines on Child-Oriented Transparency]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own synthesis, definitions, and extra wikilinks here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

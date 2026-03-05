@@ -29,6 +29,6 @@ All generated notes tagged as **Advisory**.
 - [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|Access to Personal Data Sheets of Government Personnel]]
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add your own criteria for reading advisory issuances here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

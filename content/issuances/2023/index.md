@@ -18,6 +18,6 @@ Generated notes for **2023**.
 - [[issuances/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program|FAQ Prerequisites for the Philippine Privacy Mark Certification Program]] (Circular No. 2023-05)
 
 ## Manual Notes
-<!-- BEGIN MANUAL CONTENT -->
+<!-- BEGIN MANUAL INDEX NOTES -->
 Add year-specific context, milestones, or legislative notes here.
-<!-- END MANUAL CONTENT -->
+<!-- END MANUAL INDEX NOTES -->

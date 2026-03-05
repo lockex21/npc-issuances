@@ -11,27 +11,9 @@ tags:
 draft: false
 ---
 
-> Advisory on Guidelines on Child-Oriented Transparency Questions Raised During the Call for Public Input as of 17 December 2024
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                 Republic of the Philippines  
-                            NATIONAL PRIVACY COMMISSION  
-                          5th Floor, Philippine International Convention Center,  
-                          Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: 6bcd620f8b9b927810f86e78ae2c5d216b74ca2d -->
                  Advisory on Guidelines on Child-Oriented Transparency  
           Questions Raised During the Call for Public Input as of 17 December 2024
 
@@ -76,8 +58,6 @@ General Questions
                                    processing personal data performed in and outside the  
                                    Philippines      in      the      following       instances:
 
-Ref No.: DPCD-24-00699                                          NPC_DIT_MEMO-V1.0, R2.0, 04 March 2024  
-         URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
                                       1. The natural or juridical person involved in the  
                                          processing of personal data is found or established in  
                                          the Philippines;  
@@ -124,10 +104,7 @@ Ref No.: DPCD-24-00699                                          NPC_DIT_MEMO-V1.
    Advisory?                      The Advisory only seeks to provide further guidance when  
                                   processing children’s personal data.
 
-Ref No.: DPCD-24-00699                                       NPC_DIT_MEMO-V1.0, R2.0, 04 March 2024  
-         URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
 Risk-Based Assessment  
-    Question                                                Answer  
  9. Who will conduct the           As provided in Section 2 (A) of the Advisory, PICs must  
     risk-based   assessment        incorporate Child Privacy Impact Assessments (CPIA) as  
     and determine the need         part of their Privacy Impact Assessments (PIA) before  
@@ -174,8 +151,6 @@ Risk-Based Assessment
                                    account the different risks that may arise with the  
                                    processing of children’s personal data.
 
-Ref No.: DPCD-24-00699                                       NPC_DIT_MEMO-V1.0, R2.0, 04 March 2024  
-         URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
 14. Will the NPC release a list No. The NPC will not release a list of suggested age  
     of expected tools or assurance mechanisms.  
     mechanisms for age  
@@ -218,10 +193,7 @@ Privacy Notice
                                    processing, taking into account their age and the risks  
                                    involved in the specific processing activity.
 
-Ref No.: DPCD-24-00699                                       NPC_DIT_MEMO-V1.0, R2.0, 04 March 2024  
-         URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
 Data Breach Notification  
-            Question                                       Answer  
  19. Is the PIC required to Yes. By notifying both the parent or guardian and the child,  
      notify both the parent or the child is better equipped to take the necessary  
      guardian and the child?   precautions or other measures to protect themselves against  
@@ -253,31 +225,12 @@ Accountability
                                   including personal data that has been subcontracted or  
                                   outsourced to their PIPs, in accordance with the Principle of  
                                   Accountability.
-
-Ref No.: DPCD-24-00699                                       NPC_DIT_MEMO-V1.0, R2.0, 04 March 2024  
-         URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: None detected
-- Type: FAQ
-- Year: undated
-- Issued: Unknown
-- Pages: 5
-- Source PDF: [Open PDF](../../pdfs/FAQs-Advisory-on-Guidelines-on-Child-Oriented-Transparency.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2024/12/FAQs-Advisory-on-Guidelines-on-Child-Oriented-Transparency.pdf
-- Topic pages: [[topics/children|Children]]
-- Generated source note: [[sources/undated/faq-guidelines-on-child-oriented-transparency|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/undated/faq-guidelines-on-child-oriented-transparency]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/undated/faq-guidelines-on-child-oriented-transparency|Analysis and metadata]]
+- Raw source text: [[sources/undated/faq-guidelines-on-child-oriented-transparency|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/FAQs-Advisory-on-Guidelines-on-Child-Oriented-Transparency.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

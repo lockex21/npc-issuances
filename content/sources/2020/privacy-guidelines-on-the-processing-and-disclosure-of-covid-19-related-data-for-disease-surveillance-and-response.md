@@ -1,20 +1,21 @@
 ---
-title: "Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response Source Text"
-description: "Generated extracted text for Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response."
+title: "Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response Raw Source Text"
+description: "Raw extracted text for Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response before manual annotation."
 aliases:
-  - "Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response Source Text"
+  - "Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response Raw Source Text"
 tags:
   - "source-text"
   - "year/2020"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response]]
-- PDF: [Open PDF](../../pdfs/jmc2020-0002v1.pdf)
+- Companion note: [[notes/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/jmc2020-0002v1.pdf
+- OCR used: no
 
 ## Extracted Text
                                      Republic of the Philippines  

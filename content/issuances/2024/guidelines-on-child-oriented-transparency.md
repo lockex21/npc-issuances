@@ -15,27 +15,9 @@ date: "2024-12-17"
 draft: false
 ---
 
-> WHEREAS, Section 9 of the Implementing Rules and Regulations of the DPA (IRR) empowers the NPC to develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                               Republic of the Philippines  
-                          NATIONAL PRIVACY COMMISSION  
-                          5th Floor, Philippine International Convention Center,  
-                          Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: 44fe5f3bc237c35cfe76d882e9b00fe4971fd5b2 -->
 NPC Advisory No. 2024 – 03
 
 DATE              : 17 December 2024
@@ -82,8 +64,6 @@ Rights in Relation to the Digital Environment, CRC/C/GC/25 (2 March 2021).
 3 See Convention on the Rights of the Child art. 3(1), adopted 20 November 1989, 1577 U.N.T.S. 3.  
 4 See Id. art. 5.
 
-Ref No.: DPCD-24-00608                                   NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
 holders with varying degrees of maturity gives full effect to their best interests and evolving  
 capacities;
 
@@ -139,9 +119,6 @@ For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 11 (201
 Circular No. 06, Series of 2023 [NPC Circ. No. 23-06], (01 December 2023).  
 7 See Id.
 
-Ref No.: DPCD-24-00608                                  NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                    2  
           5. Data storage and disposal;  
           6. Data sharing;  
           7. Security measures implemented;  
@@ -194,9 +171,6 @@ Ref No.: DPCD-24-00608                                  NPC_PPO_PDD_AdTem-V1.0, 
 9 See Id. §§ 11 – 13.  
 10 Id. § 11.
 
-Ref No.: DPCD-24-00608                                    NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                    3  
 SECTION 3. Privacy Notice. PICs shall ensure that children are aware of the nature,  
 purpose, and extent of the processing of personal data.11 PICs should consider the readability  
 (e.g., vocabulary, tone, or style), comprehension, and granularity of Privacy Notices while  
@@ -250,9 +224,6 @@ No. 23-04], § 3 (D)(3) (07 November 2023).
 14 See Id. § 3.  
 15 See Id. § 2 (E).
 
-Ref No.: DPCD-24-00608                                   NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                   4  
     D. Layered Privacy Notice.16 PICs shall use Layered Privacy Notices that embody the  
        minimum specific information for purposes of the Principle of Transparency. These  
        should direct children to supplemental and detailed information relevant to the  
@@ -303,9 +274,6 @@ Series of 2023 [NPC Adv. No. 23-01] (07 November 2023).
 19 See Id. § 3 (D)(3).  
 20 Data Privacy Act of 2012, § 21.
 
-Ref No.: DPCD-24-00608                                    NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                    5  
 Approved:
 
                                              SGD.  
@@ -315,32 +283,12 @@ Approved:
                   SGD.                                                 SGD.  
      LEANDRO ANGELO Y. AGUIRRE                                NERISSA N. DE JESUS  
        Deputy Privacy Commissioner                          Deputy Privacy Commissioner
-
-Ref No.: DPCD-24-00608                                  NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                  6
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2024
-- Type: Advisory
-- Year: 2024
-- Issued: December 17, 2024
-- Pages: 6
-- Source PDF: [Open PDF](../../pdfs/Advisory-2024.12.17-Guidelines-on-Child-Oriented-Transparency-w-SGD.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.17-Guidelines-on-Child-Oriented-Transparency-w-SGD.pdf
-- Topic pages: [[topics/children|Children]]
-- Generated source note: [[sources/2024/guidelines-on-child-oriented-transparency|Generated source text]]
-
-### Automatic References Out
-- [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2024/guidelines-on-child-oriented-transparency]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2024/guidelines-on-child-oriented-transparency|Analysis and metadata]]
+- Raw source text: [[sources/2024/guidelines-on-child-oriented-transparency|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.17-Guidelines-on-Child-Oriented-Transparency-w-SGD.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

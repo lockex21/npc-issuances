@@ -14,27 +14,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote innovation and growth. The...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                 Republic of the Philippines  
-                            NATIONAL PRIVACY COMMISSION  
-                            5th Floor, Philippine International Convention Center,  
-                            Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: 3b8883c8652165cc8bda9a5832853ec0b6a49f7d -->
 [[issuances/2024/guidelines-on-child-oriented-transparency|NPC Advisory No. 2024]] - 01
 
 DATE                    :   30 May 2024
@@ -78,8 +60,6 @@ personal data;
 
 WHEREAS, the DPA is not a barrier to cross-border transfers of personal data;
 
-Ref No.: PDD-24-00039                                      NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-         URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
 WHEREFORE, in consideration of these premises, the NPC hereby issues this Advisory on  
 the availability of model contractual clauses for cross-border transfers of personal data.
 
@@ -124,16 +104,13 @@ personal data. MCCs do not preclude PICs and PIPs from further negotiating legal
 
 1 Global Privacy Assembly, Working Group Reports, Global Frameworks and Standards WG Report GFSWG 2023- Annex
 
-B, available at https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.1-GPA-Annual-Working-Group-Report-  
+B, available at [https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.1-GPA-Annual-Working-Group-Report-](https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.1-GPA-Annual-Working-Group-Report-)  
 Annex-B-Controller-to-Controller-clause-comparison-tables-tracked-changes.pdf (last accessed: 18 December 2023).  
 2 Global Privacy Assembly, Working Group Reports, Global Frameworks and Standards WG Report GFSWG 2023- Annex
 
-C, available at https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.2-GPA-Annual-Working-Group-Report-  
+C, available at [https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.2-GPA-Annual-Working-Group-Report-](https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.2-GPA-Annual-Working-Group-Report-)  
 Annex-C-Controller-to-Processor-clause-comparison-tables-tracked-changes.pdf (last accessed: 18 December 2023).
 
-Ref No.: PDD-24-00039                                       NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                               2  
     B. The ASEAN and the European Commission published a Joint Guide to ASEAN MCCs  
        and EU SCCs (Joint Guide).
 
@@ -178,34 +155,14 @@ Approved:
 
 3 Association of Southeast Asian Nations and European Commission, Joint Guide to ASEAN MCCs and EU MCCs,
 
-available at https://asean.org/wp-content/uploads/2024/02/Joint-Guide-to-ASEAN-Model-Contractual-Clauses-and-EU-  
+available at [https://asean.org/wp-content/uploads/2024/02/Joint-Guide-to-ASEAN-Model-Contractual-Clauses-and-EU-](https://asean.org/wp-content/uploads/2024/02/Joint-Guide-to-ASEAN-Model-Contractual-Clauses-and-EU-)  
 Standard-Contractual-Clauses.pdf (last accessed: 07 February 2024).
-
-Ref No.: PDD-24-00039                                         NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
-          URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  
-                                                                                                                   3
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2024-01
-- Type: Advisory
-- Year: 2024
-- Issued: Unknown
-- Pages: 3
-- Source PDF: [Open PDF](../../pdfs/Published-NPC-Advisory-No.-2024-01-Contractual-Clauses-for-Cross-Border-Transfers_30May24.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2024/06/Published-NPC-Advisory-No.-2024-01-Contractual-Clauses-for-Cross-Border-Transfers_30May24.pdf
-- Topic pages: [[topics/cross-border-transfers|Cross Border Transfers]]
-- Generated source note: [[sources/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data|Generated source text]]
-
-### Automatic References Out
-- [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data]]
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data|Analysis and metadata]]
+- Raw source text: [[sources/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/06/Published-NPC-Advisory-No.-2024-01-Contractual-Clauses-for-Cross-Border-Transfers_30May24.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

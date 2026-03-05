@@ -14,27 +14,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, the NPC issued a Circular on the “Guidelines on Consent” to elaborate on the processing of personal data based on consent and to emphasize the fair processing of personal data in a manner that is neither manipulative nor unduly oppressive to data subjects;
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                 Republic of the Philippines  
-                            NATIONAL PRIVACY COMMISSION  
-                            5th Floor, Philippine International Convention Center,  
-                            Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
+<!-- SEEDED ANNOTATED HASH: e0278dfd0ccb1f6f844dfb48dd7e79a809194bd3 -->
 NPC Advisory No. 2023 - 01
 
 DATE                    :   07 November 2023
@@ -79,9 +61,6 @@ design patterns, and its impact on the lawful processing of personal data based 
 subject’s consent and in line with the general privacy principles. This Advisory aims to  
 prevent the usage of deceptive design patterns on analog and digital interfaces.
 
-Ref No.: PDD-23-00003                                   NPC_PPO_PDD_AdTem-V1.0, R1.0, 01 September 2023
-
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228  
 SECTION 2. Definition of Terms. — Terms used in the DPA and its Implementing Rules  
 and Regulations (IRR), as amended, are adopted herein. In addition, whenever used in this  
 Advisory, the following terms are defined as follows:
@@ -133,11 +112,6 @@ of prevalent deceptive design patterns:
 a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act), Article 3 (m) (19 October  
 2022).
 
-Ref No.: PDD-23-00003                                        NPC_PPO_PDD_AdTem-V1.0, R1.0, 01 September 2023
-
-             URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
-                                                                                                                      2  
         6. bombard a data subject with excessive information that is not essential to the  
            processing of their personal data;  
         7. present default options that benefit the PIC but may be detrimental to the data  
@@ -188,11 +162,6 @@ SECTION 7. Effects on Consent. – The use of Deceptive Design Patterns contrave
 principle of Fairness as provided in Section 5 of this Advisory. As such, its use may result in  
 invalidating the consent given by a data subject for a specific processing activity and renders
 
-Ref No.: PDD-23-00003                              NPC_PPO_PDD_AdTem-V1.0, R1.0, 01 September 2023
-
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
-                                                                                                 3  
 the processing undertaken without valid lawful basis.
 
 SECTION 8. Privacy by Design. —A PIC’s use of Appearance-Based Deceptive Design  
@@ -212,34 +181,12 @@ Approved:
                  SGD.                                                SGD.  
     LEANDRO ANGELO Y. AGUIRRE                               NERISSA N. DE JESUS  
       Deputy Privacy Commissioner                         Deputy Privacy Commissioner
-
-Ref No.: PDD-23-00003                              NPC_PPO_PDD_AdTem-V1.0, R1.0, 01 September 2023
-
-           URL: https://www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
-                                                                                                 4
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2023-01
-- Type: Advisory
-- Year: 2023
-- Issued: Unknown
-- Pages: 4
-- Source PDF: [Open PDF](../../pdfs/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.pdf
-- Topic pages: [[topics/consent|Consent]]
-- Generated source note: [[sources/2023/guidelines-on-deceptive-design-patterns|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- [[issuances/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Guidelines On Privacy Engineering In Systems Life Cycle Processes]]
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2023/guidelines-on-deceptive-design-patterns]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2023/guidelines-on-deceptive-design-patterns|Analysis and metadata]]
+- Raw source text: [[sources/2023/guidelines-on-deceptive-design-patterns|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

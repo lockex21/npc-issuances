@@ -14,27 +14,9 @@ tags:
 draft: false
 ---
 
-> WHEREAS, Article II, Section 24 of the 1987 Constitution provides that the State recognizes the vital role of communication and information in nation-building. At the same time, Article II, Section 11 thereof stresses that the State values the dignity of every human person and...
-
-## Summary
-<!-- BEGIN MANUAL SUMMARY -->
-Write a concise summary of the issuance here.
-<!-- END MANUAL SUMMARY -->
-
-## Links
-<!-- BEGIN MANUAL LINKS -->
-- Add links to topic notes, related issuances, or outside references here.
-- Example internal link: [[topics/cctv-surveillance]]
-- Example external link: [Official Gazette](https://www.officialgazette.gov.ph/)
-<!-- END MANUAL LINKS -->
-
-## Annotated Text
+## Issuance Text
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
-                                  Republic of the Philippines  
-                         NATIONAL PRIVACY COMMISSION
-
-NPC Advisory No. 2017-01
-
+<!-- SEEDED ANNOTATED HASH: 32262598f227f7384b5ae44041d125aa5dcf9ff8 -->
 DATE               :    14 MARCH 2017
 
 SUBJECT            :    DESIGNATION OF DATA PROTECTION OFFICERS
@@ -68,15 +50,11 @@ individuals who shall function as data protection officer (DPO), compliance offi
 otherwise be accountable for ensuring compliance with applicable laws and regulations for  
 the protection of data privacy and security;
 
-WHEREAS, pursuant to Section 7 of the DPA, the National Privacy Commission (NPC) is  
 charged with the administration and implementation of the provisions of the law, which  
 includes ensuring compliance with the provisions of the DPA and with international  
 standards for data protection, and carrying out efforts to formulate and implement plans  
 and policies that strengthen the protection of personal information in the country, in  
-coordination with other government agencies and the private sector;  
-                                                                         NPC Advisory No. 2017-01  
-                                                              Designation of Data Protection Officers  
-                                                                                      14 March 2017
+coordination with other government agencies and the private sector;
 
 WHEREAS, Section 4 of NPC Circular 2016-01 declares that a government agency engaged  
 in the processing of personal data shall, through its head of agency, designate a DPO;
@@ -123,11 +101,6 @@ as hereinafter set forth:
       national government agencies, bureaus, or offices, constitutional commissions, local  
       government units, government-owned and controlled corporations, government  
       financial institutions, state colleges and universities;
-
-                                                                                                        2  
-                                                                      NPC Advisory No. 2017-01  
-                                                           Designation of Data Protection Officers  
-                                                                                   14 March 2017
 
 h. “Personal data” refers to all types of personal information, including privileged  
    information;
@@ -182,11 +155,6 @@ p. “Sensitive Personal Information” refers to personal information:
            by such person, the disposal of such proceedings, or the sentence of any court  
            in such proceedings;
 
-                                                                                                     3  
-                                                                                            NPC Advisory No. 2017-01  
-                                                                                 Designation of Data Protection Officers  
-                                                                                                         14 March 2017
-
          3.)     Issued by government agencies peculiar to an individual which includes, but  
                  not limited to, social security numbers, previous or current health records,  
                  licenses or its denials, suspension or revocation, and tax returns; and
@@ -229,15 +197,9 @@ In certain cases, a PIC or PIP is allowed to designate a compliance officer for 
        other similar sub-units, it may designate or appoint a COP for each sub-unit. The  
        COPs shall be under the supervision of the DPO.
 
-1  
   RA 10173, §21(a), and §14.  
-2  
   e.g., what results should be achieved, how to investigate a complaint, whether to consult the NPC, what view or  
-interpretation of the law to take relative to a specific data protection issue, etc.  
-                                                                                                                           4  
-                                                                                             NPC Advisory No. 2017-01  
-                                                                                  Designation of Data Protection Officers  
-                                                                                                          14 March 2017
+interpretation of the law to take relative to a specific data protection issue, etc.
 
      c. Private Sector. Where a private entity has branches, sub-offices, or any other  
         component units, it may also appoint or designate a COP for each component unit.
@@ -283,15 +245,9 @@ appointment, reappointment, or hiring of his or her replacement within a reasona
 of time. The PIC or PIP may also require the incumbent DPO or COP to occupy such  
 position in an holdover capacity until the appointment or hiring of a new DPO or COP, in
 
-3  
   Consultants and project, seasonal, probationary, or casual employees should not be designated as DPOs.  
-4  
   In the event of resignation, incapacity, or death of the DPO, or, where the term of the DPO is fixed or is coterminous with  
-the appointing authority, in the case of government agencies, or based on a contract, in the case of private sector entities.  
-                                                                                                                                5  
-                                                                                           NPC Advisory No. 2017-01  
-                                                                                Designation of Data Protection Officers  
-                                                                                                        14 March 2017
+the appointing authority, in the case of government agencies, or based on a contract, in the case of private sector entities.
 
 accordance with the PIC or PIP’s internal policies or the provisions of the appropriate  
 contract.
@@ -337,13 +293,8 @@ A DPO shall, inter alia:
        documentation concerning security incidents or data breaches within the prescribed  
        period;
 
-5  
   The designated DPO may also occupy some other position in the organization (e.g., legal counsel, risk management officer,  
-etc.).  
-                                                                                                                              6  
-                                                                         NPC Advisory No. 2017-01  
-                                                              Designation of Data Protection Officers  
-                                                                                      14 March 2017
+etc.).
 
    e. inform and cultivate awareness on privacy and data protection within the  
       organization of the PIC or PIP, including all relevant laws, rules and regulations and  
@@ -395,11 +346,6 @@ The PIC or PIP should:
    e. where applicable, invite the DPO or COP to participate in meetings of senior and  
       middle management to represent the interest of privacy and data protection;
 
-                                                                                                        7  
-                                                                         NPC Advisory No. 2017-01  
-                                                              Designation of Data Protection Officers  
-                                                                                      14 March 2017
-
    f.   promptly consult the DPO or COP in the event of a personal data breach or security  
         incident; and
 
@@ -442,11 +388,6 @@ media platforms, etc.) with its DPO or COP.
 For this purpose, the contact details of the DPO or COP should include the following  
 information:
 
-                                                                                                        8  
-                                                                       NPC Advisory No. 2017-01  
-                                                            Designation of Data Protection Officers  
-                                                                                    14 March 2017
-
    a.   title or designation  
    b.   postal address  
    c.   a dedicated telephone number  
@@ -477,30 +418,12 @@ Approved:
         Deputy Privacy Commissioner                  Deputy Privacy Commissioner
 
 Date: 14 March 2017
-
-                                                                                                      9
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Generated Record
-<!-- BEGIN GENERATED RECORD -->
-- Reference: Advisory No. 2017-01
-- Type: Advisory
-- Year: 2017
-- Issued: Unknown
-- Pages: 9
-- Source PDF: [Open PDF](../../pdfs/NPC-Advisory-2017-01-sgd.pdf)
-- Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC-Advisory-2017-01-sgd.pdf
-- Topic pages: [[topics/registration|Registration]]
-- Generated source note: [[sources/2017/designation-of-data-protection-officers|Generated source text]]
-
-### Automatic References Out
-- None detected automatically.
-
-### Automatic Backlinks
-- No backlinks detected yet.
-<!-- END GENERATED RECORD -->
-
-## Raw Source Text
-<!-- BEGIN GENERATED SOURCE EMBED -->
-![[sources/2017/designation-of-data-protection-officers]]
-<!-- END GENERATED SOURCE EMBED -->
+## Source And Notes
+<!-- BEGIN GENERATED TEXT INFO -->
+- Companion note: [[notes/2017/designation-of-data-protection-officers|Analysis and metadata]]
+- Raw source text: [[sources/2017/designation-of-data-protection-officers|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC-Advisory-2017-01-sgd.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

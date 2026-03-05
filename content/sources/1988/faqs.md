@@ -1,20 +1,21 @@
 ---
-title: "FAQs Source Text"
-description: "Generated extracted text for FAQs."
+title: "FAQs Raw Source Text"
+description: "Raw extracted text for FAQs before manual annotation."
 aliases:
-  - "FAQs Source Text"
+  - "FAQs Raw Source Text"
 tags:
   - "source-text"
   - "year/1988"
 draft: false
 ---
 
-> This note is generated from the cached PDF and is safe to regenerate.
+> This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
 - Main note: [[issuances/1988/faqs|FAQs]]
-- PDF: [Open PDF](../../pdfs/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.pdf)
+- Companion note: [[notes/1988/faqs|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.pdf
+- OCR used: no
 
 ## Extracted Text
                             Frequently Asked Questions on the  
