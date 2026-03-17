@@ -17,8 +17,7 @@ draft: false
 
 **Advisory No. 2020-03**
 
-                               ESTABLISHMENTS PROCESSING PERSONAL DATA  
-                               FOR COVID-19 RESPONSE
+### ESTABLISHMENTS PROCESSING PERSONAL DATA FOR COVID-19 RESPONSE
 
 SECTION 1. Rationale. – This Advisory aims to provide additional guidance to supplement  
 the Joint Memorandum Circular (JMC) No. 20-04-A Series of 20201 issued by the Department  
@@ -435,13 +434,13 @@ in a manner mindful of the rights and interests of the data subject.
 
 Approved:
 
-                                            SGD.  
-                                   RAYMUND E. LIBORO  
-                                    Privacy Commissioner
+(SGD.)
+RAYMUND E. LIBORO
+Privacy Commissioner
 
-                 SGD.                                             SGD.  
-    LEANDRO ANGELO Y. AGUIRRE                            JOHN HENRY D. NAGA  
-      Deputy Privacy Commissioner                      Deputy Privacy Commissioner
+(SGD.)                                 (SGD.)
+LEANDRO ANGELO Y. AGUIRRE              JOHN HENRY D. NAGA
+Deputy Privacy Commissioner            Deputy Privacy Commissioner
 
 ## Source And Notes
 - Companion note: [[notes/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Analysis and metadata]]

@@ -13,13 +13,22 @@ const defaultOptions: SearchOptions = {
   enablePreview: true,
 }
 
+let numSearches = 0
+
 export default ((userOpts?: Partial<SearchOptions>) => {
   const Search: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const opts = { ...defaultOptions, ...userOpts }
     const searchPlaceholder = i18n(cfg.locale).components.search.searchBarPlaceholder
+    const id = `search-container-${numSearches++}`
     return (
       <div class={classNames(displayClass, "search")}>
-        <button class="search-button">
+        <button
+          type="button"
+          class="search-button"
+          aria-controls={id}
+          aria-expanded={false}
+          aria-haspopup="dialog"
+        >
           <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7">
             <title>Search</title>
             <g class="search-path" fill="none">
@@ -29,7 +38,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
           </svg>
           <p>{i18n(cfg.locale).components.search.title}</p>
         </button>
-        <div class="search-container">
+        <div id={id} class="search-container" role="dialog" aria-hidden={true} aria-modal={true}>
           <div class="search-space">
             <input
               autocomplete="off"

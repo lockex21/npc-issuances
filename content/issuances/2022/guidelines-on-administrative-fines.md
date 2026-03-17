@@ -18,40 +18,21 @@ draft: false
 
 **Circular No. 2022-01**
 
-       WHEREAS, it is the policy of the State to protect the fundamental human right of  
-privacy of communication while ensuring free flow of information to promote innovation and  
-growth;
+WHEREAS, it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth;
 
-       WHEREAS, the National Privacy Commission (Commission) was created under  
-Republic Act No. (R.A.) 10173, otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]” ([[laws/data-privacy-act-of-2012|DPA]]), in  
-order to discharge the duty of the State to protect individual personal information in  
-information and communications systems in the government and the private sector;
+WHEREAS, the National Privacy Commission (Commission) was created under Republic Act No. (R.A.) 10173, otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]” ([[laws/data-privacy-act-of-2012|DPA]]), in order to discharge the duty of the State to protect individual personal information in information and communications systems in the government and the private sector;
 
-        WHEREAS, the Commission has the express mandate under R.A. 10173 and its  
-Implementing Rules and Regulations (IRR) to: (1) ensure compliance with the provisions of  
-R.A. 10173; (2) receive complaints, institute investigations, and adjudicate on matters affecting  
-any personal information; (3) compel any entity, government agency or instrumentality to  
-abide by its orders or take action on a matter affecting data privacy; and (4) generally perform  
-such acts as may be necessary to facilitate cross-border enforcement of data privacy  
-protection;
+WHEREAS, the Commission has the express mandate under R.A. 10173 and its Implementing Rules and Regulations (IRR) to: (1) ensure compliance with the provisions of R.A. 10173; (2) receive complaints, institute investigations, and adjudicate on matters affecting any personal information; (3) compel any entity, government agency or instrumentality to abide by its orders or take action on a matter affecting data privacy; and (4) generally perform such acts as may be necessary to facilitate cross-border enforcement of data privacy protection;
 
-       WHEREAS, the Commission shall perform all acts as may be necessary to implement  
-the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and its issuances, and to enforce its Orders, Resolutions, or Decisions,  
-including the imposition of administrative sanctions, fines, or penalties;
+WHEREAS, the Commission shall perform all acts as may be necessary to implement the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and its issuances, and to enforce its Orders, Resolutions, or Decisions, including the imposition of administrative sanctions, fines, or penalties;
 
-      WHEREAS, the Commission encourages Personal Information Controllers (PICs) and  
-Personal Information Processors (PIPs) to promote organizational accountability by initiating  
-measures to enhance their compliance with the [[laws/data-privacy-act-of-2012|DPA]] to protect the rights of their data subjects;
+WHEREAS, the Commission encourages Personal Information Controllers (PICs) and Personal Information Processors (PIPs) to promote organizational accountability by initiating measures to enhance their compliance with the [[laws/data-privacy-act-of-2012|DPA]] to protect the rights of their data subjects;
 
-       WHEREAS, the Commission recognizes that it is necessary for public interest to  
-impose administrative fines that are proportionate and dissuasive for the effective exercise of  
-its mandate;
+WHEREAS, the Commission recognizes that it is necessary for public interest to impose administrative fines that are proportionate and dissuasive for the effective exercise of its mandate;
 
-        WHEREFORE, in consideration of these premises, the Commission hereby issues this  
-Circular fixing the amount of administrative fines to be imposed for infractions of R.A. 10173,  
-its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the Commission;
+WHEREFORE, in consideration of these premises, the Commission hereby issues this Circular fixing the amount of administrative fines to be imposed for infractions of R.A. 10173, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the Commission;
 
-        Section 1. Scope. This Circular is applicable to PICs and PIPs as defined in the [[laws/data-privacy-act-of-2012|DPA]].
+Section 1. Scope. This Circular is applicable to PICs and PIPs as defined in the [[laws/data-privacy-act-of-2012|DPA]].
 
        Section 2. Administrative Fines. Any PIC or PIP who shall violate the following  
 provisions of R.A. 10173, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and the issuances of the Commission shall be liable for an  
@@ -249,7 +230,7 @@ publication in a newspaper of general circulation.
 
 ## Footnotes
 
-[^7]: of the DPA, and appropriate contempt proceedings under the Rules of Court.
+[^7]: Section 7 of the DPA, and appropriate contempt proceedings under the Rules of Court.
 
 ## Source And Notes
 - Companion note: [[notes/2022/guidelines-on-administrative-fines|Analysis and metadata]]

@@ -20,9 +20,9 @@ draft: false
 
 ANNEX 1
 
-## CITY OF _______________________) S.S.
+CITY OF _______________________) S.S.
 
-## SWORN DECLARATION AND UNDERTAKING FOR EXEMPTION FROM REGISTRATION OF DATA PROCESSING SYSTEMS
+SWORN DECLARATION AND UNDERTAKING FOR EXEMPTION FROM REGISTRATION OF DATA PROCESSING SYSTEMS
 
 I [Name of Data Protection Officer/Authorized Representative], of legal age, and residing at  
 [Address of DPO/Authorized Representative], after having been duly sworn in accordance  
@@ -76,18 +76,18 @@ with law, do hereby depose and state that:
 IN WITNESS WHEREOF, I have hereunto set my hand this _____ day of ______________,  
 20__ at ____________, Philippines.
 
-                                           [Name of Data Protection Officer/Authorized Representative]  
+                                           [Name of Data Protection Officer/Authorized Representative]
                                                                       Affiant
 
-SUBSCRIBED AND SWORN to before me this ____ day of ______, 20__, Affiant exhibiting  
-to me a competent proof of identity ___________________________________ issued at  
+SUBSCRIBED AND SWORN to before me this ____ day of ______, 20__, Affiant exhibiting
+to me a competent proof of identity ___________________________________ issued at
 _____________________ on _______________________.
 
-## NOTARY PUBLIC
+NOTARY PUBLIC
 
-Doc No. _____;  
-Page No. ____;  
-Book No. ____;  
+Doc No. _____;
+Page No. ____;
+Book No. ____;
 Series of _____.
 
 ## Source And Notes

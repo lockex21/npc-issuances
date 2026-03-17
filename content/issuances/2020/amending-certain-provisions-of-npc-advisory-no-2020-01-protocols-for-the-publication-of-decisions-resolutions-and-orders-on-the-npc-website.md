@@ -19,10 +19,7 @@ draft: false
 
 ADVISORY 2020 – 01-A
 
-## AND ORDERS ON THE NPC WEBSITE
-
-SECTION 1. SCOPE. - These guidelines shall amend certain provisions of NPC Advisory No. 2020-  
-01.
+SECTION 1. SCOPE. - These guidelines shall amend certain provisions of NPC Advisory No. 2020-01.
 
 SECTION 2. AMENDMENTS. – Section 1 (b) of Advisory 2020-01 shall be amended to read as  
 follows:
@@ -43,15 +40,14 @@ Motion for Reconsideration may nevertheless be published on the NPC website, sub
 protocols set by Section 2 of Advisory 2020-01. Section 1 (b)(iii) of Advisory 2020-01 is hereby  
 repealed.
 
-SECTION 4. EFFECTIVITY. - This guideline shall be effective immediately upon the approval of the  
-Commission.
+SECTION 4. EFFECTIVITY. - This guideline shall be effective immediately upon the approval of the Commission.
 
-                              (SGD.)  
-                   RAYMUND ENRIQUEZ LIBORO
+(SGD.)
+RAYMUND ENRIQUEZ LIBORO
 
-          (SGD.)                                         (SGD.)  
-JOHN HENRY DU NAGA                              LEANDRO ANGELO Y. AGUIRRE  
-Deputy Privacy Commissioner                        Deputy Privacy Commissioner
+(SGD.)                                    (SGD.)
+JOHN HENRY DU NAGA                         LEANDRO ANGELO Y. AGUIRRE
+Deputy Privacy Commissioner                Deputy Privacy Commissioner
 
 ## Source And Notes
 - Companion note: [[notes/2020/amending-certain-provisions-of-npc-advisory-no-2020-01-protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Analysis and metadata]]

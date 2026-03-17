@@ -28,7 +28,17 @@ export function pageResources(
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  const contentIndexScript = `
+    window.contentIndexPath = "${contentIndexPath}"
+    window.fetchData = window.fetchData ?? fetch("${contentIndexPath}").then((data) => {
+      if (!data.ok) {
+        throw new Error("Failed to load Quartz content index")
+      }
+
+      return data.json()
+    })
+    const fetchData = window.fetchData
+  `
 
   const resources: StaticResources = {
     css: [

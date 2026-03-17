@@ -15,47 +15,40 @@ draft: false
 
 ## Issuance Text
 
-**Memorandum Circular No. 2020**
+**Memorandum Circular No. 2020-0001**
 
-                                                 Department of Health                                                         “"  
-                                    OFFICE OF THE SECRETARY
+Department of Health
+OFFICE OF THE SECRETARY
 
-                                                                                   April 7, 2020
+April 7, 2020
 
-## SERVICES; EXECUTIVE DIRECTORS OF SPECIALTY HOSPITALS, AND NATIONAL NUTRITION COUNCIL;
-                               CHIEFS OF MEDICAL CENTERS, HOSPITALS, SANITARIA  
-                               AND _INSTITUTES;  PRESIDENT OF THE. PHILIPPINE  
-                               HEALTH INSURANCE CORPORATION; DIRECTORS OF  
-                               PHILIPPINE NATIONAL AIDS COUNCIL AND TREATMENT  
-                               AND___ REHABILITATION   CENTERS;   AND   OTHERS  
-                               CONCERNED
+TO: ALL UNDERSECRETARIES, ASSISTANT SECRETARIES, DIRECTORS OF BUREAUS, REGIONAL OFFICES AND SERVICES; EXECUTIVE DIRECTORS OF SPECIALTY HOSPITALS, AND NATIONAL NUTRITION COUNCIL; CHIEFS OF MEDICAL CENTERS, HOSPITALS, SANITARIA AND INSTITUTES; PRESIDENT OF THE PHILIPPINE HEALTH INSURANCE CORPORATION; DIRECTORS OF PHILIPPINE NATIONAL AIDS COUNCIL AND TREATMENT AND REHABILITATION CENTERS; AND OTHERS CONCERNED
 
-        SUBJECT :              Department_of Health                -  
-                                                          National Privacy Commission (DOH-  
-                               NPC) Joint Memorandum Circular No. 2020-0001 entitled  
-                               “Guidelines on the Use of Telemedicine in COVID-19 Response”
+SUBJECT: Department of Health — National Privacy Commission (DOH-NPC) Joint Memorandum Circular No. 2020-0001 entitled “Guidelines on the Use of Telemedicine in COVID-19 Response”
 
-    Attached for your information and guidance is a copy of the DOH-NPC Joint  
-COVID-19 Response dated March 28, 2020
+Attached for your information and guidance is a copy of the DOH-NPC Joint Memorandum Circular No. 2020-0001 dated March 28, 2020 entitled “Guidelines on the Use of Telemedicine in COVID-19 Response”
 
-        Dissemination of the information to all concerned is requested.
+Dissemination of the information to all concerned is requested.
 
-                                         By Authority of the Secretary/of Health:
+By Authority of the Secretary of Health:
 
-                                         LILIBETH C. DAVID, MD, MPH, MPM, CESO III  
-                                         Undersecretary of Health  
-                                          Health Facilities and Infrastructure Development Team
+LILIBETH C. DAVID, MD, MPH, MPM, CESO III
+Undersecretary of Health
+Health Facilities and Infrastructure Development Team
 
-~  
-    .    Building 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, 1003 Manila « Trunk Line 651-7800 local 1113, 1108, 1135  
-         Direct Line: 711-9502; 711-9503 Fax: 743-1829; 743-1786 @ URL; littp://www.doh.gov.ph; e-mail: fiduque@doh.gov.ph
+Building 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, 1003 Manila
+Trunk Line 651-7800 local 1113, 1108, 1135
+Direct Line: 711-9502; 711-9503 Fax: 743-1829; 743-1786
+URL: http://www.doh.gov.ph
+e-mail: fiduque@doh.gov.ph
 
-## DEPARTMENT OF HEALTH
+DEPARTMENT OF HEALTH
 
-                                                                                 March 28, 2020  
-JOINT MEMORANDUM CIRCULAR No. 2020-_0001
+March 28, 2020
 
-      SUBJECT:          Guidelines on the Use of Telemedicine in COVID-19 Response
+JOINT MEMORANDUM CIRCULAR No. 2020-0001
+
+SUBJECT: Guidelines on the Use of Telemedicine in COVID-19 Response
 
 I. BACKGROUND
 
@@ -69,28 +62,20 @@ adverse effects on their means of livelihood, and the severe disruption of econo
 arising from this health situation prompted further issuance of Republic Act No. 11469 that  
 placed the entire country in a state of national emergency.
 
-## Il.     OBJECTIVES
+II. OBJECTIVES
 
-        The overall aim of this Joint Memorandum Circular is to enable patients to receive  
-health services even while staying at home except for serious conditions, emergencies, or to  
-avail of COVID-19-related health services as per standing protocols.
+The overall aim of this Joint Memorandum Circular is to enable patients to receive health services even while staying at home except for serious conditions, emergencies, or to avail of COVID-19-related health services as per standing protocols.
 
-         Specific objectives are:  
-      1. Alleviate surge and minimize risks posed by unnecessary patient traffic in health  
-         facilities;  
-      2. Support implementation of community quarantine by providing access to primary care  
-         providers through the use of telemedicine, or medical consultation services being  
-         provided through online and/or mobile platforms; and  
-      3. Ensure efficient, safe and secure use of telemedicine by healthcare providers.
+Specific objectives are:
+1. Alleviate surge and minimize risks posed by unnecessary patient traffic in health facilities;
+2. Support implementation of community quarantine by providing access to primary care providers through the use of telemedicine, or medical consultation services being provided through online and/or mobile platforms; and
+3. Ensure efficient, safe and secure use of telemedicine by healthcare providers.
 
-I.       SCOPE AND COVERAGE
+III. SCOPE AND COVERAGE
 
-        This Joint Memorandum Circular shall apply to all patients vulnerable to the  
-COVID-19 health situation; all public and private, national and local healthcare providers  
-regulated by DOH and Philippine Health Insurance Corporation (PhilHealth); and  
-telemedicine providers
+This Joint Memorandum Circular shall apply to all patients vulnerable to the COVID-19 health situation; all public and private, national and local healthcare providers regulated by DOH and Philippine Health Insurance Corporation (PhilHealth); and telemedicine providers
 
-IV.          DEFINITION OF TERMS
+IV. DEFINITION OF TERMS
 
       For   the purpose of this Joint Memorandum Circular, the following terms are defined:  
       1. Electronic Medical Record (EMR)refers to a computerized medical record used to  
@@ -256,25 +241,23 @@ C. Monitoring and Evaluation Framework
      All previous issuances that are inconsistent with any provisions of this Joint  
 Memorandum Circular are hereby amended, modified, or repealed accordingly.
 
-## VIII. SEPARABILITY CLAUSE
+VIII. SEPARABILITY CLAUSE
 
-                                                                                is  
-        In the event that any provision or part of this Joint Memorandum Circular   declared  
-unauthorized or rendered invalid by any court of law, those provisions not affected by such  
-declaration shall remain valid and in effect.
+In the event that any provision or part of this Joint Memorandum Circular is declared unauthorized or rendered invalid by any court of law, those provisions not affected by such declaration shall remain valid and in effect.
 
-## IX. EFFECTIVITY
+IX. EFFECTIVITY
 
-        This Joint Memorandum Circular shall take effect immediately for the duration of the  
-declared Enhanced Community Quarantine for the management of COVID-19 health  
-situation, and the effectivity of this Order shall likewise be automatically lifted once the  
-imposed quarantine  is lifted.
+This Joint Memorandum Circular shall take effect immediately for the duration of the declared Enhanced Community Quarantine for the management of COVID-19 health situation, and the effectivity of this Order shall likewise be automatically lifted once the imposed quarantine is lifted.
 
-        epartment of Health  
-                              Ill, MD, MSc             NDE.  YYMUND
+Department of Health
 
-## LIBORO
-                                                     Privacy Commissioner and Chairman
+(Sgd.)
+FRANCISCO T. DUQUE III, MD, MSc
+Secretary
+
+(Sgd.)
+RAYMUND E. LIBORO
+Privacy Commissioner and Chairman
 
 ## Source And Notes
 - Companion note: [[notes/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Analysis and metadata]]

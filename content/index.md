@@ -1,17 +1,20 @@
 ---
 title: "NPC Issuance Wiki"
-description: "Quartz workspace for NPC advisories, circulars, and cross-references."
+description: "Quartz workspace for NPC issuances, decisions, resolutions, and cross-references."
 draft: false
 ---
 
-This Quartz workspace is generated from the National Privacy Commission advisories and circulars corpus.
+This Quartz workspace collects National Privacy Commission issuances and quasi-judicial documents.
 
 - Corpus size: **62** issuances
+- Additional corpora: **93** decisions, **140** resolutions
 - Source index: https://privacy.gov.ph/pips-and-pics/advisories-circulars/
-- Local workflow: run `python3 scripts/build_npc_site.py all --refresh` to refresh the corpus, then `npx quartz build --serve` to preview the wiki.
+- Local workflow: run `python3 scripts/build_npc_site.py all --refresh` for issuances, `python3 scripts/build_npc_decisions_resolutions.py all --refresh` for decisions and resolutions, then `npx quartz build --serve` to preview the wiki.
 
 ## Browse
 - [[issuances/index|Issuances by year]]
+- [[decisions/index|Decisions]]
+- [[resolutions/index|Resolutions]]
 - [[types/index|Issuances by type]]
 - [[topics/index|Topics]]
 - [[relationships/index|Reference map]]

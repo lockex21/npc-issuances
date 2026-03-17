@@ -432,13 +432,13 @@ that would uphold the rights and interests of the individual whose personal data
 
 Approved:
 
-                                         SGD.  
-                             RAYMUND ENRIQUEZ LIBORO  
-                                 Privacy Commissioner
+(SGD.)
+RAYMUND ENRIQUEZ LIBORO
+Privacy Commissioner
 
-                 SGD.                                            SGD.  
-    LEANDRO ANGELO Y. AGUIRRE                          JOHN HENRY D. NAGA  
-      Deputy Privacy Commissioner                     Deputy Privacy Commissioner
+(SGD.)                                 (SGD.)
+LEANDRO ANGELO Y. AGUIRRE              JOHN HENRY D. NAGA
+Deputy Privacy Commissioner            Deputy Privacy Commissioner
 
 ## Footnotes
 

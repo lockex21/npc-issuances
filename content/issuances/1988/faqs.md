@@ -17,8 +17,7 @@ draft: false
 
 **Circular No. 20-02**
 
-                            Frequently Asked Questions on the  
-               Draft Rules on the Issuance of Cease and Desist Orders (CDO)
+### Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO)
 
 1. Does Section 4(B) in laying one of the requisites for the issuance of a CDO as “such act or  
    practice is detrimental to national security or public interest, or the CDO is necessary to  
@@ -61,8 +60,6 @@ draft: false
       The due process requirement is satisfied by the provision ordering the Adverse Party to  
    comment on the issued CDO (Section 9, CDO Rules) which shall be set for adjudication by  
    the Commission En Banc (Section 12, CDO Rules). After giving the respondent the
-
-                                           Page 1 of 7
 
    opportunity to be heard, the Commission will decide whether to extend or lift the CDO no  
    later than thirty (30) days from the expiration of the period for the Adverse Party to file a  
@@ -110,13 +107,10 @@ draft: false
    by the Complaints and Investigation Division (CID) or the Compliance and Monitoring  
    Division (CMD), or through a verified application by the aggrieved party upon  
    recommendation by the CID. It is issued ex parte, after the conduct of verification and
-
-                                          Page 2 of 7
-
-   investigation. Upon issuance, it is immediately executory and shall remain in force until  
+   investigation. Upon issuance, it is immediately executory and shall remain in force until
    lifted or modified by the Commission.
 
-       On the other hand, a temporary or permanent ban on the processing of personal  
+       On the other hand, a temporary or permanent ban on the processing of personal
    information is a provisional remedy which only covers the processing of personal  
    information. It is commenced upon the filing of the complaint or at any time before the  
    finality of a decision of the Commission. It is issued after a summary hearing and notice.  
@@ -160,8 +154,6 @@ draft: false
 11. How will the bond be computed? How can CID assess or estimate any potential damage  
     that the PIC/Adverse Party may suffer due to malicious or erroneously issued CDO?  
     What will be their basis?
-
-                                           Page 3 of 7
 
         The bond will be computed based on the assessment of the CID. Further details such as  
     rules on the assessment of bond, the period within which the bond should be posted, and  
@@ -208,11 +200,7 @@ draft: false
    same matter, both can proceed independently of one another. They are separate  
    proceedings.
 
-16. Will a CDO be proper after a mere privacy sweep or document submission? Will a Data
-
-                                           Page 4 of 7
-
-   Breach Notification by itself be a good cause for the issuance of a CDO?
+16. Will a CDO be proper after a mere privacy sweep or document submission? Will a Data Breach Notification by itself be a good cause for the issuance of a CDO?
 
        Every application will be decided on a case to case basis after the conduct of verification  
   and investigation. A CDO may issue after or during the conduct of a compliance check or a  
@@ -238,7 +226,7 @@ draft: false
 
 19. Does the rule on exhaustion of administrative remedies apply in this case?
 
-       No. Since an application for a CDO may proceed independently of a complaint, Section  
+       No. Since an application for a CDO may proceed independently of a complaint, Section 4 of NPC Circular 16-04 does not apply. The CDO is an extraordinary remedy that will give an applicant immediate relief in cases where the stringent criteria under the law are met. Requiring the applicant to comply with the rule on exhaustion will defeat the main purpose of the application, which is to prevent a grave or irreparable injury.
 
 20. What will be the basis of the CID for conducting a sua sponte investigation?
 
@@ -251,12 +239,10 @@ draft: false
 21. The CDO also talks about “future action,” or “threatening to do something.” In this case,  
     how will this fall under the jurisdiction of the NPC if there is no violation, to begin with?
 
-       The CDO is an extraordinary remedy and by its nature a remedy to prevent grave and  
-   irreparable injury. Since the purpose is to prevent said injury, future actions, by implication,  
-   are covered by the Rules. Future actions that, if not prevented, will cause grave or  
+       The CDO is an extraordinary remedy and by its nature a remedy to prevent grave and
+   irreparable injury. Since the purpose is to prevent said injury, future actions, by implication,
+   are covered by the Rules. Future actions that, if not prevented, will cause grave or
    irreparable injury are actions which the CDO ultimately intends to enjoin.
-
-                                           Page 5 of 7
 
 22. Can a CDO be immediately published regardless of the public interest or public  
     education?
@@ -265,22 +251,22 @@ draft: false
    “Protocols for the Publication of Decisions, Resolutions, and Orders On the NPC Website.”  
    Section 1, “Scope of Publication” provides,
 
-      a)   These guidelines shall cover all Commission Decisions, Resolutions, and Orders  
-           issued by the Commission En Banc.
+      a) These guidelines shall cover all Commission Decisions, Resolutions, and Orders
+         issued by the Commission En Banc.
 
-      b)   The following shall not be published on the NPC website:  
-              (i) Cases decided based on compromise agreements, mediated settlement  
-                    agreements, quitclaims, and other modes of alternative dispute resolutions  
-                    as these are not decided based on merit and therefore lack teaching value for  
-                    the public  
-              (ii) Interlocutory Decisions, Orders, and Resolutions that do not dispose of the  
-                    case or breach notification with finality.  
-              (iii) Decisions, Orders, and Resolutions that may be subject of a Motion for  
-                    Reconsideration, unless the reglementary period to file such has lapsed.
+      b) The following shall not be published on the NPC website:
+         (i) Cases decided based on compromise agreements, mediated settlement
+             agreements, quitclaims, and other modes of alternative dispute resolutions
+             as these are not decided based on merit and therefore lack teaching value for
+             the public
+         (ii) Interlocutory Decisions, Orders, and Resolutions that do not dispose of the
+             case or breach notification with finality.
+         (iii) Decisions, Orders, and Resolutions that may be subject of a Motion for
+             Reconsideration, unless the reglementary period to file such has lapsed.
 
-        c)    Notwithstanding the enumeration in paragraph (b), the Commission may, at its  
-      discretion, publish Decisions, Orders and Resolutions where public interest warrants or  
-      for the education of the public.
+      c) Notwithstanding the enumeration in paragraph (b), the Commission may, at its
+         discretion, publish Decisions, Orders and Resolutions where public interest warrants or
+         for the education of the public.
 
        However, in the case of a CDO, the publication is only after allowing the Adverse Party  
     to be heard and is only limited to instances of public interest as determined by the  
@@ -304,21 +290,13 @@ draft: false
 
        Yes, these Rules apply to every personal information controller or processor.
 
-                                          Page 6 of 7
-
 26. How will the penalties or fines be imposed? Will there a table of penalties to be included  
     in this circular or referred to?
 
       The penalties, fees, fines, as well as the determination of the bond will be subject to a  
    separate Circular.
 
-                                         ---Nothing follows---
-
-                                         Page 7 of 7
-
-## Footnotes
-
-[^4]: of NPC Circular 16-04 does not apply. The CDO is an extraordinary remedy that will give an applicant immediate relief in cases where the stringent criteria under the law are met. Requiring the applicant to comply with the rule on exhaustion will defeat the main purpose of the application, which is to prevent a grave or irreparable injury.
+---
 
 ## Source And Notes
 - Companion note: [[notes/1988/faqs|Analysis and metadata]]

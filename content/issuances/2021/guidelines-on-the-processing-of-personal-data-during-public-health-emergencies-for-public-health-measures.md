@@ -17,15 +17,9 @@ draft: false
 
 **Circular No. 2021-02**
 
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 16e57753f95fffd2fed0bb8f11b5a36a9e4c6e8b -->
-NPC Circular No. 2021-02
+DATE: 08 November 2021
 
-DATE                        :     08 November 2021
-
-SUBJECT                     :     GUIDELINES ON THE PROCESSING OF PERSONAL DATA  
-                                  DURING PUBLIC HEALTH EMERGENCIES FOR PUBLIC  
-                                  HEALTH MEASURES
+SUBJECT: Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures
 
 WHEREAS, the National Privacy Commission (NPC) supports the implementation of  
 prevention, detection, isolation, treatment, and reintegration strategies of the national  
@@ -726,14 +720,13 @@ publication in the Official Gazette or two newspapers of general circulation.
 
 Approved:
 
-                                                         Sgd.  
-                                            RAYMUND ENRIQUEZ LIBORO  
-                                                Privacy Commissioner
+Sgd.
+RAYMUND ENRIQUEZ LIBORO
+Privacy Commissioner
 
-                   Sgd.                                                                               Sgd.  
-     LEANDRO ANGELO Y. AGUIRRE                                                             JOHN HENRY D. NAGA  
-       Deputy Privacy Commissioner                                                        Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+Sgd.                                                                    Sgd.
+LEANDRO ANGELO Y. AGUIRRE                                   JOHN HENRY D. NAGA
+Deputy Privacy Commissioner                                Deputy Privacy Commissioner
 
 ## Source And Notes
 <!-- BEGIN GENERATED TEXT INFO -->

@@ -18,9 +18,6 @@ draft: false
 
 **Circular No. 2022**
 
-                                   THE PROPER HANDLING OF CUSTOMER AND  
-                                   VISITOR INFORMATION
-
 WHEREAS, the National Privacy Commission (NPC) recognizes the vital role of Private Security  
 Agencies (PSA) and Security Guards in ensuring the safety and security of persons and properties;
 
@@ -45,21 +42,9 @@ WHEREAS, there is a need to inform and acquaint PSAs and Security Guards with th
 processing of personal data during the performance of their duties to avoid violating the rights of  
 data subjects under the [[laws/data-privacy-act-of-2012|DPA]];
 
-WHEREAS, [[laws/data-privacy-act-of-2012#Section 11|Section 11 of the DPA]] allows the processing of personal information subject to  
-compliance with the requirements of the [[laws/data-privacy-act-of-2012|DPA]] and other laws allowing disclosure of information  
-to the public, and adherence to the general principles of transparency, legitimate purpose, and
-
-
-other agencies duly deputized by the Director shall, in apprehending a driver for any violation of this Act or any regulations  
-issued pursuant thereto, or of local traffic rules and regulations not contrary to any provisions of this Act, confiscate the license  
-of the driver concerned and issue a receipt prescribed and issued by the Bureau therefor which shall authorize the driver to  
-operate a motor vehicle for a period not exceeding seventy-two hours from the time and date of issue of said receipt. The  
-period so fixed in the receipt shall not be extended, and shall become invalid thereafter. Failure of the driver to settle his case  
-within fifteen days from the date of apprehension will be a ground for the suspension and/or revocation of his license.
-
-____________________________________________________________________________________________________
-
-proportionality;
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 11|Section 11 of the DPA]] allows the processing of personal information subject to
+compliance with the requirements of the [[laws/data-privacy-act-of-2012|DPA]] and other laws allowing disclosure of information
+to the public, and adherence to the general principles of transparency, legitimate purpose, and proportionality;
 
 WHEREAS, [[laws/data-privacy-act-of-2012#Section 14|Section 14 of the DPA]] states that a PIC may subcontract the processing of personal  
 information: provided, that the PIC shall be responsible for ensuring that proper safeguards are in  
@@ -111,7 +96,7 @@ be understood as follows:
 Security Guards and other Private Security Personnel in the Private Security Industry, Department Order No. 150-16, series  
 of 2016 [DOLE DO No. 150-16], § 2 (i) (Feb. 9. 2016).
 
-           baggage, and other forms of security inspection,3 as authorized by the PIC or by the PSA  
+           baggage, and other forms of security inspection,[^3] as authorized by the PIC or by the PSA
            to perform such functions, regardless of his or her designation;
 
      C. “Service Agreement” refers to the contract between the PIC and the PSA acting as a PIP  
@@ -301,11 +286,11 @@ Approved:
 
 ## Footnotes
 
-[^1]: Land Transportation and Traffic Code, § 29: Confiscation of Driver’s License. – Law enforcement and peace officers of
-[^2]: See: Department of Labor and Employment, Revised Guidelines Governing the Employment and Working Conditions of
+[^1]: Land Transportation and Traffic Code, § 29: Confiscation of Driver’s License. – Law enforcement and peace officers of other agencies duly deputized by the Director shall, in apprehending a driver for any violation of this Act or any regulations issued pursuant thereto, or of local traffic rules and regulations not contrary to any provisions of this Act, confiscate the license of the driver concerned and issue a receipt prescribed and issued by the Bureau therefor which shall authorize the driver to operate a motor vehicle for a period not exceeding seventy-two hours from the time and date of issue of said receipt. The period so fixed in the receipt shall not be extended, and shall become invalid thereafter. Failure of the driver to settle his case within fifteen days from the date of apprehension will be a ground for the suspension and/or revocation of his license.
+[^2]: See: Department of Labor and Employment, Revised Guidelines Governing the Employment and Working Conditions of Security Guards and other Private Security Personnel in the Private Security Industry, Department Order No. 150-16, series of 2016 [DOLE DO No. 150-16], § 2 (i) (Feb. 9. 2016).
 [^3]: Id. § 2 (h).
 [^4]: DOLE DO No. 150-16, § 2 (j).
-[^5]: See: National Archives of the Philippines, General Records Disposition Schedule common to all Government Agencies,
+[^5]: See: National Archives of the Philippines, General Records Disposition Schedule common to all Government Agencies, series 2009 which provides for the retention period of two (2) years after date of last entry for logbooks (available at https://nationalarchives.gov.ph/wp-content/uploads/2015/04/NAP-Gen.-Circular-1-2-and-GRDS-2009.pdf).
 
 ## Source And Notes
 - Companion note: [[notes/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Analysis and metadata]]

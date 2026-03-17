@@ -18,16 +18,7 @@ draft: false
 
 **Advisory No. 2017-02**
 
-ee as NATIONAL  
-Bustiea je wien COMMISSION
-
-## NATICNAL PRIVACY COMMISSIC.
-
-By: ARG Time:
-
-[4B
-
-SUBJECT: ACCESS TO PERSONAL DATA SHEETS ano /07B- 08.31 1F 00 654 OF GOVERNMENT PERSONNEL
+SUBJECT: ACCESS TO PERSONAL DATA SHEETS OF GOVERNMENT PERSONNEL
 
 WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State recognizes  
 the vital role of communication and information in nation-building. At the same time, Article  
@@ -59,17 +50,12 @@ and growth. The State shall also ensure that personal information in Information
 Communications Systems in the government and in the private sector are secured and  
 protected;
 
-WHEREAS, Section 4 of the DPA states that the law applies to the processing of all types of  
-personal information and to any person involved in personal information processing, except  
-for certain instances, including information that fall within matters of public concern. Section  
-
-url: [http://privacy.gov-ph](http://privacy.gov-ph) email: info@privacy.gov.ph
-
-Tr
-
-Access to Personal Dat. ..eets of Government Personnel
-
-public and adherence to the principles of transparency, legitimate purpose and  
+WHEREAS, Section 4 of the DPA states that the law applies to the processing of all types of
+personal information and to any person involved in personal information processing, except
+for certain instances, including information that fall within matters of public concern. Section
+11 of the law also permits the processing of personal information, provided there is compliance
+with the requirements of the Act and other laws allowing the disclosure of information to the
+public and adherence to the principles of transparency, legitimate purpose and
 proportionality;
 
 WHEREAS, Section 17 of the Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) of the [[laws/data-privacy-act-of-2012|DPA]] states that  
@@ -81,48 +67,31 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
 (NPC) hereby issues this Advisory regarding access to Personal Data Sheets (PDS) of  
 government personnel:
 
-Background
+### Background
 
 The people have a fundamental right to information, particularly on matters of public  
-concern.’ Every Filipino citizen is afforded this right, subject to certain limitations provided by  
+concern.[^1] Every Filipino citizen is afforded this right, subject to certain limitations provided by  
 law.
 
 One statute that sanctions the limited disclosure of public documents is Republic Act No. 6713,  
 otherwise known as the “Code of Conduct and Ethical Standards for Public Officials and  
 Employees”. Its Implementing Rules and Regulations (IRR) state that all public documents  
-must be made accessible to the public during office hours,? except for certain types of official  
-information, records or documents.3
+must be made accessible to the public during office hours,[^2] except for certain types of official
+information, records or documents.[^3]
 
 Occasionally, a law would provide for a disclosure policy regarding a specific type of public  
 document. With a birth certificate, for instance, Presidential Decree (PD) No. 603, otherwise  
 known as “The Child and Youth Welfare Code”, states that it may only be issued upon request by  
-certain persons and under certain conditions.
+certain persons and under certain conditions.[^4]
 
 Jurisprudence also offers some guidance on this subject. In a case, the Supreme Court  
 permitted access to the Statement of Assets, Liabilities and Net Worth (SALN), Personal Data  
 Sheets (PDS), and Curriculum Vitae (CV) of sitting Justices, but not before clarifying that the  
 constitutional guarantees of right to information and right to access to public records are not  
-absolute. The people’s right to know, the Court reasoned, is limited to matters of “public  
+absolute. The people’s right to know, the Court reasoned, is limited to matters of “public
 concern” and may further be restricted by limitations provided by law. The Court then went
-
-' 1987 Constitution, Article III, §7.
-
-? Rule VI, §6.
-
-SIRR of RA 6813, §3.
-
-* Article 7. Non-disclosure of Birth Records. - The records of a person's birth shall be kept strictly confidential and no  
-information relating thereto shall be issued except on the request of any of the following:
-
-The person himself, or any person authorized by him;
-
-His spouse, his parent or parents, his direct descendants, or the guardian or institution legally in-charge of him if he is a  
-minor;
-
-The court or proper public official whenever absolutely necessary in administrative, judicial or other official proceedings to  
-determine the identity of the child's parents or other circumstances surrounding his birth; and
-
-In case of the person's death, the nearest of kin.”
+on to establish guidelines for the release of the aforesaid documents vis-a-vis judiciary
+personnel.[^5]
 
 In Legaspi vs. Civil Service Commission (150 SCRA 530), the Supreme Court ruled that:
 
@@ -132,12 +101,7 @@ which the public may want to know, either because these directly affect their li
 arouse the interest of an ordinary citizen. In the final analysis, it is for the courts to determine in a case by case basis whether  
 the matter at issue is of interest or importance, as it relates to or affects the public.”
 
-Access to Personal Dai. -aeets of Government Personnel
-
-on to establish guidelines for the release of the aforesaid documents vis-a-vis judiciary  
-personnel.é
-
-In Legaspi vs. Civil Service Commission’, the Court also took up the authority of a government  
+In Legaspi vs. Civil Service Commission[^7], the Court also took up the authority of a government  
 agency or office to regulate access to public records, to wit:
 
 “The authority to regulate the manner of examining public records does not carry with  
@@ -147,7 +111,7 @@ regulate the manner in which the access is to be afforded. The first is a limita
 the availability of access to the information sought, which only the Legislature may  
 impose (Art. II, Sec. 6, 1987 Constitution). The second pertains to the government  
 agency charged with the custody of public records. Its authority to regulate access is  
-to_be exercised solely to the end that damage to, or loss of, public records may be  
+to be exercised solely to the end that damage to, or loss of, public records may be  
 avoided, undue interference with the duties of said agencies may be prevented, and  
 more importantly, that the exercise of the same constitutional right by other persons  
 shall be assured.” (underscoring supplied)
@@ -164,7 +128,7 @@ of Exceptions to Executive Order No. 2 (S. 2016)”.
 At the same time, there is also [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]),  
 which is the Philippines’ first comprehensive data protection law. It aims to uphold the State’s  
 twin policies of protecting the right to privacy of communication, while ensuring the free flow  
-of information.’ In so doing, it sets certain parameters under which personal data may be  
+of information.[^9] In so doing, it sets certain parameters under which personal data may be  
 processed (e.g., disclosed) in a manner that is consistent with data privacy principles. It is  
 worth noting that the law distinguishes between personal information and sensitive personal  
 information, and establishes a different criteria for the processing of each type. It also imposes  
@@ -179,43 +143,32 @@ inconsistencies between the two are more apparent than real. Not only are they b
 to benefit the public interest, but, more often than not, their provisions complement and  
 reinforce each other, and are not contradictory as some observers are wont to suggest.
 
-° Re: Request for Copy of 2008 Statement of Assets, Liabilities and Net Worth (SALN) and Personal Data Sheet or  
-Curriculum Vitae of the Justices of the Supreme Court and Officers and Employees of the Judiciary, A.M. No. 09-8-6-SC and  
-Re: Request of Philippine Center for Investigative Journalism (PCJ) for the 2008 Statement of Assets, Liabilities and Net  
-Worth (SALN) and Personal Data Sheet of the Court of Appeals Justice, AM No. 09-8-07-CA (13 June 2012). see also:  
-Legaspi vs. Civil Service Commission, G.R. No. L-72119 (29 May 1987).
-
-
-° [[laws/data-privacy-act-of-2012|DPA]], §2.
-
-Access to Personal Dai _aeets of Government Personnel
-
 With EO 2, it clarifies that “while providing access to information, public records, and official  
 records, responsible officials shall afford full protection to the right to privacy of the  
-individual” .!° For this purpose, it requires that: (a) disclosure of said materials shall only be  
+individual”.[^10] For this purpose, it requires that: (a) disclosure of said materials shall only be  
 made if they are material or relevant to the subject matter of the request; (b) security  
 arrangements against leaks or premature disclosure are established; and (c) disclosure shall  
-only be made when permitted or authorized by existing law or rules."
+only be made when permitted or authorized by existing law or rules.[^11]
 
 The [[laws/data-privacy-act-of-2012|DPA]], meanwhile, excludes from its scope those information that fall within matters of  
 public concern. They include: (a) personal data relating to the position or functions of a current  
-or former government employee;!? (b) personal data relating to the service performed by a  
-current or former government contractor;!3 and (c) information regarding a benefit of a  
+or former government employee;[^12] (b) personal data relating to the service performed by a
+current or former government contractor;[^13] and (c) information regarding a benefit of a  
 financial nature given by the government, at its discretion, to an individual.
 
-Discussion
+### Discussion
 
 A PDS is an official document that the Civil Service Commission (CSC) requires each  
 government employee or official to accomplish prior to his or her assumption of office. It is a  
 repository of information pertaining to that employee or official, including his or her personal  
-background, qualifications, and eligibility.15
+background, qualifications, and eligibility.[^15]
 
-It is considered a public document.!* According to the Rules of Court, public documents are:  
+It is considered a public document.[^16] According to the Rules of Court, public documents are:  
 “(a) the written official acts, or records of the official acts of the sovereign authority, official  
 bodies and tribunals, and public officers, whether of the Philippines, or of a foreign country;  
 (b) documents acknowledge before a notary public, except last wills and testaments; and (c)  
 public records, kept in the Philippines, of private documents required by law to be entered  
-therein” .1”
+therein”.[^17]
 
 Premised on the principles raised herein, it is clear that access to or disclosure of the PDS of a  
 particular government personnel may be regulated despite its nature as a public record and/or  
@@ -230,16 +183,7 @@ may lose some degree of privacy in the process, this does not, under any circums
 to a full or absolute surrender of such right. After all, his or her personal data is no less  
 susceptible to abuse and other perils such as unlawful or unauthorized processing.
 
-
-Nig.
-
-
-[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA 10173, §5(a)(3); see also: RA 10173, §4(c).
-
-
-Access to Personal Da: _aeets of Government Personnel
-
-Recommendations
+### Recommendations
 
 Disclosure of personal data shall only be allowed when permitted by existing laws. Under the  
 [[laws/data-privacy-act-of-2012|DPA]], only those that relate to the position or function of an individual working for the  
@@ -279,12 +223,21 @@ Deputy Privacy Commissioner Deputy Privacy Commissioner
 
 ## Footnotes
 
-[^1]: Advincula vs. Dicen, G.R. No. 162403, (16 May 2005).
-[^5]: 34.
-[^7]: GR_No. L-72119 (29 May 1987).
-[^11]: of the law also permits the processing of personal information, provided there is compliance with the requirements of the Act and other laws allowing the disclosure of information to the
+[^1]: 1987 Constitution, Article III, §7.
+[^2]: Rule VI, §6.
+[^3]: IRR of RA 6713, §3.
+[^4]: Article 7 of Presidential Decree No. 603 (The Child and Youth Welfare Code). Non-disclosure of Birth Records: "The records of a person's birth shall be kept strictly confidential and no information relating thereto shall be issued except on the request of any of the following: The person himself, or any person authorized by him; His spouse, his parent or parents, his direct descendants, or the guardian or institution legally in-charge of him if he is a minor; The court or proper public official whenever absolutely necessary in administrative, judicial or other official proceedings to determine the identity of the child's parents or other circumstances surrounding his birth; and In case of the person's death, the nearest of kin."
+[^5]: Re: Request for Copy of 2008 Statement of Assets, Liabilities and Net Worth (SALN) and Personal Data Sheet or Curriculum Vitae of the Justices of the Supreme Court and Officers and Employees of the Judiciary, A.M. No. 09-8-6-SC and Re: Request of Philippine Center for Investigative Journalism (PCJ) for the 2008 Statement of Assets, Liabilities and Net Worth (SALN) and Personal Data Sheet of the Court of Appeals Justice, AM No. 09-8-07-CA (13 June 2012). See also: Legaspi vs. Civil Service Commission, G.R. No. L-72119 (29 May 1987).
+[^6]: Advincula vs. Dicen, G.R. No. 162403, (16 May 2005).
+[^7]: Legaspi vs. Civil Service Commission, G.R. No. L-72119 (29 May 1987).
+[^8]: EO 2 (2016), §7.
+[^9]: DPA, §2.
+[^10]: EO 2 (2016), §7.
+[^11]: EO 2 (2016), §7(c).
 [^12]: IRR of RA 10173, §5(a)(1); see also: RA 10173, §4(a).
 [^13]: IRR of RA 10173, §5(a)(2); see also: RA 10173, §4(b).
+[^14]: IRR of RA 10173, §5(a)(3); see also: RA 10173, §4(c).
+[^15]: CSC Form 212.
 [^16]: Fiyllero vs. People, 533 SCRA 97, G.R. No. 170583, (12 September 2007), citing Lumancas v. Intas, 347 SCRA 22, G.R. No. 133472 (5 December 2000).
 [^17]: Rule 132, §19.
 

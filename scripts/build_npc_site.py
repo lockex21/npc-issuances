@@ -1020,14 +1020,16 @@ def build_content_tree(records: list[Issuance]) -> None:
     issuance_count = len(records)
     reference_rich = sorted(records, key=lambda item: (len(item.incoming_refs), item.title), reverse=True)[:10]
     home_lines = [
-        "This Quartz workspace is generated from the National Privacy Commission advisories and circulars corpus.",
+        "This Quartz workspace collects National Privacy Commission issuances and quasi-judicial documents.",
         "",
         f"- Corpus size: **{issuance_count}** issuances",
         f"- Source index: {SOURCE_URL}",
-        "- Local workflow: run `python3 scripts/build_npc_site.py all --refresh` to refresh the corpus, then `npx quartz build --serve` to preview the wiki.",
+        "- Local workflow: run `python3 scripts/build_npc_site.py all --refresh` for issuances, `python3 scripts/build_npc_decisions_resolutions.py all --refresh` for decisions and resolutions, then `npx quartz build --serve` to preview the wiki.",
         "",
         "## Browse",
         "- [[issuances/index|Issuances by year]]",
+        "- [[decisions/index|Decisions]]",
+        "- [[resolutions/index|Resolutions]]",
         "- [[types/index|Issuances by type]]",
         "- [[topics/index|Topics]]",
         "- [[relationships/index|Reference map]]",
@@ -1041,7 +1043,7 @@ def build_content_tree(records: list[Issuance]) -> None:
     render_index_page(
         CONTENT_DIR / "index.md",
         "NPC Issuance Wiki",
-        "Quartz workspace for NPC advisories, circulars, and cross-references.",
+        "Quartz workspace for NPC issuances, decisions, resolutions, and cross-references.",
         home_lines,
         default_manual="Use this space for a curated homepage blurb or reading guide.",
     )

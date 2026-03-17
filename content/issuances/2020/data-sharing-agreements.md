@@ -437,13 +437,13 @@ the Official Gazette or two newspapers of general circulation.
 
 Approved:
 
-                                          SGD.  
-                              RAYMUND ENRIQUEZ LIBORO  
-                                  Privacy Commissioner
+(SGD.)
+RAYMUND ENRIQUEZ LIBORO
+Privacy Commissioner
 
-                  SGD.                                             SGD.  
-     LEANDRO ANGELO Y. AGUIRRE                           JOHN HENRY D. NAGA  
-       Deputy Privacy Commissioner                      Deputy Privacy Commissioner
+(SGD.)                                 (SGD.)
+LEANDRO ANGELO Y. AGUIRRE              JOHN HENRY D. NAGA
+Deputy Privacy Commissioner            Deputy Privacy Commissioner
 
 ## Source And Notes
 - Companion note: [[notes/2020/data-sharing-agreements|Analysis and metadata]]

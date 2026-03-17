@@ -128,7 +128,7 @@ Approved:
 
 ## Footnotes
 
-[^1]: See: International Telecommunication Union, Recommendation ITU-T X.1251, A framework for user control of digital
+[^1]: See: International Telecommunication Union, Recommendation ITU-T X.1251, A framework for user control of digital identity, "3.2.3 digital identity: The digital representation of the information known about a specific individual, group or organization", available at https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619 (last accessed 5 July 2023) and United Nations Conference on Trade and Development, Policy Brief No. 96, March 2022, Digital identity refers to the set of electronically captured and stored attributes and credentials used to uniquely identify a person, which can include biographic data (e.g. name and date of birth), biometric data (e.g. fingerprints and facial features) and/or government-issued identification, available at: https://unctad.org/system/files/official-document/presspb2022d4_en.pdf (last accessed 5 July 2023).
 
 ## Source And Notes
 - Companion note: [[notes/2023/guidelines-on-identification-cards|Analysis and metadata]]

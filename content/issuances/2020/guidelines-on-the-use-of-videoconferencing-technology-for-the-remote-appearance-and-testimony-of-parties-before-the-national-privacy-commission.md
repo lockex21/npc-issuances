@@ -343,14 +343,15 @@ III.   Effectivity
               remain effective until the lifting of the State of Public Health Emergency.
 
 
-       Approved:  
-                                           (Sgd.)  
-                                RAYMUND ENRIQUEZ LIBORO  
-                                    Privacy Commissioner
+Approved:
 
-                   (Sgd.)                                          (Sgd.)  
-       LEANDRO ANGELO Y. AGUIRRE                             JOHN HENRY D. NAGA  
-         Deputy Privacy Commissioner                        Deputy Privacy Commissioner
+(Sgd.)
+RAYMUND ENRIQUEZ LIBORO
+Privacy Commissioner
+
+(Sgd.)                                 (Sgd.)
+LEANDRO ANGELO Y. AGUIRRE              JOHN HENRY D. NAGA
+Deputy Privacy Commissioner            Deputy Privacy Commissioner
 
 ## Footnotes
 

@@ -17,57 +17,40 @@ draft: false
 
 **Memorandum Circular No. 2020-0003**
 
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 715496ff75f93f60baf061c0c45c7dbc90a51616 -->
-                                               Department of Health  
-                                 OFFICE OF THE SECRETARY
+Department of Health
+OFFICE OF THE SECRETARY
 
-                                                                                May  
-                                                                                      6, 2020  
-MEMORANDUM CIRCULAR No. 2020 -_fpa4
+May 6, 2020
 
-      TO               :   ALL UNDERSECRETARIES, ASSISTANT SECRETARIES,  
-                           DIRECTORS OF BUREAUS, REGIONAL OFFICES AND  
-                           SERVICES; EXECUTIVE DIRECTORS OF SPECIALTY  
-                           HOSPITALS, AND NATIONAL NUTRITION COUNCIL;  
-                           CHIEFS OF MEDICAL CENTERS, HOSPITALS, SANITARIA  
-                           AND__ INSTITUTES; PRESIDENT OF THE PHILIPPINE  
-                           HEALTH INSURANCE CORPORATION; DIRECTORS OF  
-                           PHILIPPINE NATIONAL AIDS COUNCIL AND TREATMENT  
-                           AND    REHABILITATION   CENTERS:   AND  OTHERS  
-                           CONCERNED
+MEMORANDUM CIRCULAR No. 2020-0003
 
-    SUBJECT :              Department of Health — National Privacy Commission (DOH-  
-                           NPC) Joint Memorandum Circular No. 2020-0003 entitled  
-                           “Guidelines on the Monitoring and Evaluation (M&E) of the Use  
-                           of Telemedicine in COVID-19 Response”
+TO: ALL UNDERSECRETARIES, ASSISTANT SECRETARIES, DIRECTORS OF BUREAUS, REGIONAL OFFICES AND SERVICES; EXECUTIVE DIRECTORS OF SPECIALTY HOSPITALS, AND NATIONAL NUTRITION COUNCIL; CHIEFS OF MEDICAL CENTERS, HOSPITALS, SANITARIA AND INSTITUTES; PRESIDENT OF THE PHILIPPINE HEALTH INSURANCE CORPORATION; DIRECTORS OF PHILIPPINE NATIONAL AIDS COUNCIL AND TREATMENT AND REHABILITATION CENTERS; AND OTHERS CONCERNED
 
-     Attached for your information and guidance is a copy of the DOH-NPC Joint  
-Memorandum Circular No. 2020-0003 dated April 14, 2020 entitled “Guidelines on the  
-Monitoring and Evaluation (M&E)  of  
-                                  the Use of Telemedicine i COVID-19 Response”
+SUBJECT: Department of Health — National Privacy Commission (DOH-NPC) Joint Memorandum Circular No. 2020-0003 entitled “Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response”
 
-    Dissemination of the information to all concerned is requested.
+Attached for your information and guidance is a copy of the DOH-NPC Joint Memorandum Circular No. 2020-0003 dated April 14, 2020 entitled “Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response”
 
-                                      By Authority of the Secretarwof Health:
+Dissemination of the information to all concerned is requested.
 
-                                      LILIBETH C. DAVID, MD, MPH, MPM, CESO  
-                                      Undersecretary of Health  
-                                                                                                            III  
-                                      Health Facilities and Infrastructure Development Team
+By Authority of the Secretary of Health:
 
-     Building 1, San Lazaro Compound, Rizal Avenue; Sta. Cruz, 1003 Manila e Trunk Line 651-7800 local 1113, 1108, 1135  
-     Direct Line: 711-9502; 711-9503 Fax: 743-1829; 74351786 @ URL: [http://www.doh.gov.ph;](http://www.doh.gov.ph;) e-mail: fiduque@doh.gov.ph
+LILIBETH C. DAVID, MD, MPH, MPM, CESO III
+Undersecretary of Health
+Health Facilities and Infrastructure Development Team
 
-                             DEPARTMENT OF HEALTH
+Building 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, 1003 Manila
+Trunk Line 651-7800 local 1113, 1108, 1135
+Direct Line: 711-9502; 711-9503 Fax: 743-1829; 743-1786
+URL: http://www.doh.gov.ph
+e-mail: fiduque@doh.gov.ph
 
-                                                                                April 14, 2020
+DEPARTMENT OF HEALTH
 
-JOINT [[issuances/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|MEMORANDUM CIRCULAR No. 2020-]]_00Q3
+April 14, 2020
 
-     SUBJECT:          Guidelines on the Monitoring and Evaluation (M&E)  
-                       Telemedicine in COVID-19 Response  
-                                                                                of the Use of  
+JOINT MEMORANDUM CIRCULAR No. 2020-0003
+
+SUBJECT: Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response  
 I.   BACKGROUND
 
         Due  

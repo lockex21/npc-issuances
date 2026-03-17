@@ -16,28 +16,32 @@ draft: false
 
 ## Issuance Text
 
-**Circular No. 2020-03**
+**Advisory No. 2025-01**
 
-WHEREAS, the National Privacy Commission (NPC) issued [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] on  
-Data Sharing Agreements in 2020, amending NPC Circular 16-02 on Data Sharing Agreements  
-Involving Government Agencies and the pertinent provisions of the Rules and Regulations  
+**DATE:** 26 June 2025
+
+**SUBJECT:** Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements
+
+WHEREAS, the National Privacy Commission (NPC) issued [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] on
+Data Sharing Agreements in 2020, amending NPC Circular 16-02 on Data Sharing Agreements
+Involving Government Agencies and the pertinent provisions of the Rules and Regulations
 ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]);
 
-WHEREAS, Sections 6 and 7 of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] state that data sharing may be based  
-on any of the criteria for lawful processing of personal data in Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|DPA]]  
-and may also be allowed under the special cases provided in [[laws/data-privacy-act-of-2012#Section 4|Section 4 of the DPA]],  
-distinguishing it from the [[laws/data-privacy-act-of-2012|DPA]]’s [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] which required the consent of data subjects for data  
+WHEREAS, Sections 6 and 7 of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] state that data sharing may be based
+on any of the criteria for lawful processing of personal data in Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|DPA]]
+and may also be allowed under the special cases provided in [[laws/data-privacy-act-of-2012#Section 4|Section 4 of the DPA]],
+distinguishing it from the [[laws/data-privacy-act-of-2012|DPA]]’s [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] which required the consent of data subjects for data
 sharing in the private sector;
 
-WHEREAS, Section 8 of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] also emphasized that data sharing may be  
-covered by a data sharing agreement (DSA) or a similar document containing the terms and  
+WHEREAS, Section 8 of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] also emphasized that data sharing may be
+covered by a data sharing agreement (DSA) or a similar document containing the terms and
 conditions of the sharing arrangement;
 
-WHEREAS, applying the rules of statutory construction, the use of the word “may” in Section  
+WHEREAS, applying the rules of statutory construction, the use of the word “may” in Section 8 of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] means that the execution of a DSA is optional;
 
-WHEREAS, despite the issuance of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]], the NPC continues to receive  
-inquiries wherein personal information controllers (PICs) insist on the execution of a DSA for  
-their data sharing activities under the belief that the same is mandatory or is a prerequisite for  
+WHEREAS, despite the issuance of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]], the NPC continues to receive
+inquiries wherein personal information controllers (PICs) insist on the execution of a DSA for
+their data sharing activities under the belief that the same is mandatory or is a prerequisite for
 such processing;
 
 WHEREAS, Section 7 (g) of the [[laws/data-privacy-act-of-2012|DPA]] provides that the NPC is empowered to publish, on a  
@@ -78,17 +82,15 @@ subjects.
 
 Approved:
 
-                                             SGD.  
-                                    JOHN HENRY D. NAGA  
-                                     Privacy Commissioner
+SGD.
+JOHN HENRY D. NAGA
+Privacy Commissioner
 
-                   SGD.                                              SGD.  
-          NERISSA N. DE JESUS                           JOSE AMELITO S. BELARMINO II  
-        Deputy Privacy Commissioner                       Deputy Privacy Commissioner
+SGD.                                                       SGD.
+NERISSA N. DE JESUS                        JOSE AMELITO S. BELARMINO II
+Deputy Privacy Commissioner                Deputy Privacy Commissioner
 
 ## Footnotes
-
-[^8]: of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] means that the execution of a DSA is optional;
 
 ## Source And Notes
 - Companion note: [[notes/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Analysis and metadata]]

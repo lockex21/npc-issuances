@@ -17,7 +17,7 @@ draft: false
 
 **Advisory No. 2020-01**
 
-              AND ORDERS ON THE NPC WEBSITE
+### PROTOCOLS FOR THE PUBLICATION OF DECISIONS, RESOLUTIONS AND ORDERS ON THE NPC WEBSITE
 
 WHEREAS, Section 7(b) of the R.A. 10173 mandates the National Privacy Commission to receive  
 complaints, institute investigations, facilitate or enable settlement of complaints through the use  
@@ -101,13 +101,13 @@ This guideline shall be effective immediately upon the approval of the Commissio
 
 Issued this 18th day of June 2020.
 
-                                      (SGD.)  
-                            RAYMUND ENRIQUEZ LIBORO  
-                                Privacy Commissioner
+(SGD.)
+RAYMUND ENRIQUEZ LIBORO
+Privacy Commissioner
 
-                (SGD.)                                            (SGD.)  
-      JOHN HENRY DU NAGA                              LEANDRO ANGELO Y. AGUIRRE  
-      Deputy Privacy Commissioner                       Deputy Privacy Commissioner
+(SGD.)                                 (SGD.)
+JOHN HENRY DU NAGA                     LEANDRO ANGELO Y. AGUIRRE
+Deputy Privacy Commissioner            Deputy Privacy Commissioner
 
 ## Source And Notes
 - Companion note: [[notes/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Analysis and metadata]]

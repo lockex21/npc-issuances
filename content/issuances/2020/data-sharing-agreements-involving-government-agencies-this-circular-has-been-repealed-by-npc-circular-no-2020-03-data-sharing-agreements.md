@@ -19,14 +19,11 @@ draft: false
 
 **Circular No. 16-02**
 
-                                privacycommissioner@privacy.gov.ph
+privacycommissioner@privacy.gov.ph
 
-## AGENCIES, BUREAUS OR OFFICES, CONSTITUTIONAL COMMISSIONS,     LOCAL    GOVERNMENT   UNITS,
-                      GOVERNMENT-OWNED          AND    –CONTROLLED  
-                      CORPORATIONS, STATE COLLEGE AND UNIVERSITIES;  
-                      HEADS OF PRIVATE ENTITIES
+TO: ALL HEADS OF GOVERNMENT BRANCHES, BODIES OR ENTITIES, INCLUDING NATIONAL GOVERNMENT AGENCIES, BUREAUS OR OFFICES, CONSTITUTIONAL COMMISSIONS, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED AND –CONTROLLED CORPORATIONS, STATE COLLEGE AND UNIVERSITIES; HEADS OF PRIVATE ENTITIES
 
-SUBJECT           :   DATA   SHARING      AGREEMENTS                             INVOLVING GOVERNMENT AGENCIES
+SUBJECT: DATA SHARING AGREEMENTS INVOLVING GOVERNMENT AGENCIES
 
        WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State  
 recognizes the vital role of communication and information in nation-building. At the same  
@@ -376,11 +373,11 @@ the Official Gazette.
 
 Approved:
 
-                                (Sgd.) RAYMUND E. LIBORO  
-                                    Privacy Commissioner
+(Sgd.) RAYMUND E. LIBORO
+Privacy Commissioner
 
-           (Sgd.) IVY D. PATDU                       (Sgd.) DAMIAN DOMINGO O. MAPA  
-        Deputy Privacy Commissioner                       Deputy Privacy Commissioner
+(Sgd.) IVY D. PATDU                    (Sgd.) DAMIAN DOMINGO O. MAPA
+Deputy Privacy Commissioner            Deputy Privacy Commissioner
 
 ## Source And Notes
 - Companion note: [[notes/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Analysis and metadata]]

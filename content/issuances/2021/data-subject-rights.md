@@ -17,10 +17,6 @@ draft: false
 
 **Advisory No. 2021-01**
 
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: ba97bc623e6f13ef0543a0cea68b79a8b0d9315c -->
-[[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|NPC Advisory No. 2021]] - 01
-
 DATE                     :       29 January 2021
 
 SUBJECT                  :       DATA SUBJECT RIGHTS
@@ -30,70 +26,59 @@ protected and accorded recognition independent of its identification with libert
 same time, Article II, Section 11 of the Constitution emphasizes that the State values the  
 dignity of every human person and guarantees full respect for human rights;
 
-WHEREAS, the Data Privacy Act of 2012 (DPA), provides that it is the policy of the State to  
-protect the fundamental human right of privacy of communication while ensuring free flow  
-of information to promote innovation and growth;1
+WHEREAS, the Data Privacy Act of 2012 (DPA), provides that it is the policy of the State to
+protect the fundamental human right of privacy of communication while ensuring free flow
+of information to promote innovation and growth;[^1]
 
-WHEREAS, the DPA provides that personal information must be collected for specified and  
-legitimate purposes, processed fairly and lawfully, accurate, relevant and, where necessary,  
-kept up to date, adequate and not excessive in relation to the purposes for processing, and  
-retained only for as long as necessary;2
+WHEREAS, the DPA provides that personal information must be collected for specified and
+legitimate purposes, processed fairly and lawfully, accurate, relevant and, where necessary,
+kept up to date, adequate and not excessive in relation to the purposes for processing, and
+retained only for as long as necessary;[^2]
 
-WHEREAS, the DPA and its Implementing Rules and Regulations (IRR) provide for the rights  
-of the data subjects, instances where these may be duly exercised, and the obligations of  
-personal information controllers and processors;3
+WHEREAS, the DPA and its Implementing Rules and Regulations (IRR) provide for the rights
+of the data subjects, instances where these may be duly exercised, and the obligations of
+personal information controllers and processors;[^3]
 
-WHEREAS, the DPA mandates that any doubt in the interpretation of any provision of the  
-law shall be liberally interpreted in a manner mindful of the rights and interests of the  
-individual about whom personal information is processed;4
+WHEREAS, the DPA mandates that any doubt in the interpretation of any provision of the
+law shall be liberally interpreted in a manner mindful of the rights and interests of the
+individual about whom personal information is processed;[^4]
 
-WHEREFORE, in consideration of the foregoing premises, the National Privacy Commission  
-(NPC) hereby issues this Advisory on the Rights of Data Subjects relevant to the processing  
+WHEREFORE, in consideration of the foregoing premises, the National Privacy Commission
+(NPC) hereby issues this Advisory on the Rights of Data Subjects relevant to the processing
 of their personal data.
 
-                                                General Provisions
+### General Provisions
 
-SECTION 1. Scope. — This Advisory shall apply to all natural or juridical persons, or any  
-other body in the government or private sector engaged in the processing of personal data  
+SECTION 1. Scope. — This Advisory shall apply to all natural or juridical persons, or any
+other body in the government or private sector engaged in the processing of personal data
 within and outside of the Philippines, subject to the applicable provisions of the DPA, its IRR,
-
-1 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
-
-the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of  
-2012], Republic Act No. 10173 (2012), § 2.  
-2 Data Privacy Act of 2012, § 11.  
-3 Data Privacy Act of 2012, § 16-18.  
-4 Data Privacy Act of 2012, § 38; Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No.
-
-10173, § 34-36.
 
 and issuances by the NPC.
 
 SECTION 2. General Principles. — This Advisory is governed by the following principles:
 
-   A. The right to data privacy refers to the right empowering individuals to have  
+   A. The right to data privacy refers to the right empowering individuals to have
       reasonable control over the flow of their personal data;
 
-   B. The exercise of data subject rights is a demonstration that an individual takes control  
-      over his or her own personal data. Data subjects may exercise their rights under the  
+   B. The exercise of data subject rights is a demonstration that an individual takes control
+      over his or her own personal data. Data subjects may exercise their rights under the
       DPA with due consideration of the rights and freedoms of others;
 
-   C. Personal information controllers (PICs) and processors (PIPs) shall uphold these  
-      rights, subject to limitations as may be provided for by law, and implement  
-      mechanisms which enable the free exercise of the same through procedures which are  
+   C. Personal information controllers (PICs) and processors (PIPs) shall uphold these
+      rights, subject to limitations as may be provided for by law, and implement
+      mechanisms which enable the free exercise of the same through procedures which are
       clear, simple, straightforward, and convenient; and
 
-   D. The free exercise of data subject rights is an indication that PICs and PIPs adhere to  
-      the general data privacy principles of transparency, legitimate purpose, and  
-      proportionality, and demonstrate compliance and accountability in personal data  
+   D. The free exercise of data subject rights is an indication that PICs and PIPs adhere to
+      the general data privacy principles of transparency, legitimate purpose, and
+      proportionality, and demonstrate compliance and accountability in personal data
       processing.
 
-                             General policies and procedures in  
-                               upholding data subject rights
+### General Policies and Procedures in Upholding Data Subject Rights
 
-SECTION 3. Exercise of rights. — These rights shall be exercised by the data subject himself  
-or herself. The data subject may, however, authorize another person to facilitate the exercise  
-of any of these rights on his or her behalf: provided, that the authorization is specific and  
+SECTION 3. Exercise of rights. — These rights shall be exercised by the data subject himself
+or herself. The data subject may, however, authorize another person to facilitate the exercise
+of any of these rights on his or her behalf: provided, that the authorization is specific and
 supported by appropriate documents.
 
 SECTION 4. Transmissibility of rights. — The lawful heirs and assigns of the data subject  
@@ -136,7 +121,7 @@ for the exercise of data subjects of their rights. The following shall be consid
              evidence on proper authorization, supporting documents to validate the  
              membership of the data subject in the organization and the authority of the  
              organization to file on behalf of the affected data subjects: provided, that all its  
-             members are affected data subjects.5
+             members are affected data subjects.^[5]
 
      C. Assistance of PIPs. PICs shall ensure, by contractual or other reasonable means, that the  
         PIPs it has engaged to process personal data on its behalf shall cooperate and  
@@ -162,19 +147,15 @@ for the exercise of data subjects of their rights. The following shall be consid
          Implementing Rules and Regulations shall apply in responding and complying with  
          requests of data subjects.
 
-     F. Retention. PICs shall not retain personal data for the sole purpose of making it available  
-        for potential future requests for the right to access or data portability. Personal data  
-        shall be retained only for as long as necessary for the fulfillment of the purposes for  
+     F. Retention. PICs shall not retain personal data for the sole purpose of making it available
+        for potential future requests for the right to access or data portability. Personal data
+        shall be retained only for as long as necessary for the fulfillment of the purposes for
         which the data was obtained.
 
-5 See MNLCI v. Pieceland Corporation, et al., NPC Case No. 190258 (2020) where a religious organization filed a case on
+### Rights of a Data Subject
 
-behalf of all of its members whose rights where violated.
-
-                                          Rights of a Data Subject
-
-SECTION 6. Right to be Informed. — The data subject has the right to be informed whether  
-personal data pertaining to him or her shall be, are being, or have been processed, including  
+SECTION 6. Right to be Informed. — The data subject has the right to be informed whether
+personal data pertaining to him or her shall be, are being, or have been processed, including
 the existence of automated decision-making and profiling.
 
     A. PICs shall notify and furnish data subjects with information indicated below before  
@@ -206,27 +187,24 @@ the existence of automated decision-making and profiling.
 
     B. The “next practical opportunity” depends upon the surrounding circumstance of the  
        case. However, the timing of the provision of information must always be within a  
-       reasonable period to give effect to the data subject’s right to be informed.6
+       reasonable period to give effect to the data subject’s right to be informed.^[6]
 
     C. A privacy notice is an embodiment of the observance or demonstration of the data  
        privacy principle of transparency and upholding the right to information of data  
        subjects. It is a statement made to data subjects that describes how the organization  
-       collects, uses, retains, and discloses personal information.7
+       collects, uses, retains, and discloses personal information.^[7]
 
          Information provided to a data subject must always be in clear and plain language to  
          ensure that they are easy to understand and access.
 
-         1. Language. Whether a privacy notice is communicated verbally or in writing, best  
+         1. Language. Whether a privacy notice is communicated verbally or in writing, best
             practices for clear and plain language must be observed. This does not, however,
-
-6 See: ECA v. XXX, NPC Case No. 18-103 (2020).
-
-               mean that the requirement to use clear and plain language necessitates using  
+            mean that the requirement to use clear and plain language necessitates using  
                layman’s terms in place of technical words at the risk of not capturing the complex  
                concepts they represent. PICs should determine whether an average member of  
                the target audience could have understood the information provided to them.  
                Complex sentence structures and equivocal wordings that may be subject to  
-               different interpretations should be avoided.8
+               different interpretations should be avoided.^[8]
 
           2. Form. The DPA does not dictate the form and method of how PICs should inform  
              its data subjects. Nonetheless, in crafting privacy notices, PICs should consider  
@@ -235,7 +213,7 @@ the existence of automated decision-making and profiling.
              which constitute a set of complementary privacy notices that are tailored to the  
              respective audience and the contexts in which they are presented. The granularity  
              of information provided in a specific notice layer must be appropriate for the  
-             respective context.9
+             respective context.^[9]
 
      D. A privacy notice is not equivalent to consent. While consent may not be required in  
         certain instances when it is not relied on as basis for processing personal data, a  
@@ -244,7 +222,7 @@ the existence of automated decision-making and profiling.
 
 SECTION 7. Right to Object. — The data subject shall have the right to object to the  
 processing of his or her personal data where such processing is based on consent or legitimate  
-interest.10
+interest.^[10]
 
      A. In case of any significant change or amendment to the information provided to the  
         data subject in a consent form, privacy notice, or similar communication, the data  
@@ -260,24 +238,11 @@ interest.10
         data will, or is likely to, be made as the sole basis for any decision that significantly  
         affects or will affect him or her.
 
-          For this purpose, data subjects shall be provided by PICs in clear and easy to  
-          understand language with adequate information on the effect of the exercise of this  
-          right vis-à-vis the provision of goods and/or services by the PIC to the data subject.  
+          For this purpose, data subjects shall be provided by PICs in clear and easy to
+          understand language with adequate information on the effect of the exercise of this
+          right vis-à-vis the provision of goods and/or services by the PIC to the data subject.
           Said information that will be communicated to the data subjects should indicate the
-
-8 See JVA v. U-PESO.PH LENDING CORPORATION (UPESO), NPC Case No. 19-498 (2020).  
-9 Florian Schaub, Rebecca Balebako, Adam L. Durity, and Lorrie Faith Cranor, A design space for effective privacy notices,
-
-In Proceedings of the Symposium on Usable Privacy and Security (SOUPS’15), available at [https://www.usenix.org/system/](https://www.usenix.org/system/)  
-files/conference/soups2015/soups15-paper-schaub.pdf (2015) (last accessed 15 Jan 2021).  
-10 When processing is based on consent, the right to object is inherent since consent, by its nature and definition, may be
-
-withdrawn. As to processing based on legitimate interest, the right to object applies when the rights and freedoms of the data  
-subject overrides such legitimate interest of the PIC or of a third party. For instance, a data subject can invoke his or her right  
-to object where personal data are processed in circumstances where he or she does not reasonably expect further processing  
-or when the processing is causing substantial damage or distress to the data subject.
-
-      scope of the withdrawal of consent or objection and its consequences. This could mean  
+          scope of the withdrawal of consent or objection and its consequences. This could mean  
       removal of the personal data from the PIC’s automated processing systems or its  
       suppression in mailing/profiling lists in a way that it would not be processed for  
       purposes that the data subject has objected to.
@@ -474,7 +439,7 @@ by the data subject.
 
          When ported data includes the data of other individuals, i.e. names and contact details  
          within the contact directory of the requesting party, receiving PICs are prohibited from  
-         further processing such data for its own purpose, i.e. marketing, etc.12
+         further processing such data for its own purpose, i.e. marketing, etc.^[12]
 
     D. PICs shall consider using commonly used, machine-readable, interoperable, open  
        formats, i.e. XML, JSON, CSV, etc. for data portability requests.
@@ -495,12 +460,12 @@ and freedoms as data subject.
       complaint with the NPC, in accordance with its Rules of Procedure governing all  
       complaints filed before the Commission.
 
-   B. In cases where a data subject files a complaint for violation of his or her rights, and for  
-      any injury suffered as a result of the processing of his or her personal data, the  
-      Commission may award indemnity on the basis of the applicable provisions of the  
+   B. In cases where a data subject files a complaint for violation of his or her rights, and for
+      any injury suffered as a result of the processing of his or her personal data, the
+      Commission may award indemnity on the basis of the applicable provisions of the
       New Civil Code.
 
-                                     Limitation on Rights
+### Limitation on Rights
 
 SECTION 13. Limitations. — The exercise of the rights of data subjects shall be reasonable.  
 The same may be limited when necessary for public interest, protection of other fundamental  
@@ -551,19 +516,19 @@ rights and interests of the data subject.
 
 Approved:
 
-                                          SGD.  
-                              RAYMUND ENRIQUEZ LIBORO  
-                                  Privacy Commissioner
+SGD.
+RAYMUND ENRIQUEZ LIBORO
+Privacy Commissioner
 
-                  SGD.                                             SGD.  
-     LEANDRO ANGELO Y. AGUIRRE                            JOHN HENRY D. NAGA  
-       Deputy Privacy Commissioner                      Deputy Privacy Commissioner
+SGD.                                                    SGD.
+LEANDRO ANGELO Y. AGUIRRE                    JOHN HENRY D. NAGA
+Deputy Privacy Commissioner                 Deputy Privacy Commissioner
 
-                                                                     ANNEX A*
+## ANNEX A
 
-                                                       ACCESS REQUEST FORM
+### Access Request Form
 
-                                               (NAME OF PERSONAL INFORMATION CONTROLLER)
+(NAME OF PERSONAL INFORMATION CONTROLLER)
 
  I. DATA SUBJECT INFORMATION
 
@@ -632,10 +597,11 @@ DATE RECEIVED:
 * PICs shall only require information that is necessary to the request and to confirm the identity of the requesting individual or his/her authorized  
 representative, taking into consideration the principle of proportionality.
 
-                                                                        ANNEX B*
+## ANNEX B
 
-                                                 RECTIFICATION REQUEST FORM  
-                                                 (NAME OF PERSONAL INFORMATION CONTROLLER)
+### Rectification Request Form
+
+(NAME OF PERSONAL INFORMATION CONTROLLER)
 
  I. DATA SUBJECT INFORMATION
 
@@ -679,9 +645,11 @@ DATE RECEIVED:
 * PICs shall only require information that is necessary to the request and to confirm the identity of the requesting individual or his/her authorized  
 representative, taking into consideration the principle of proportionality.
 
-                                                                      ANNEX C*  
-                                                      ERASURE REQUEST FORM  
-                                               (NAME OF PERSONAL INFORMATION CONTROLLER)
+## ANNEX C
+
+### Erasure Request Form
+
+(NAME OF PERSONAL INFORMATION CONTROLLER)
 
  I. DATA SUBJECT INFORMATION
 
@@ -750,9 +718,30 @@ RECEIVED BY:                                                          REMARKS:
 
 DATE RECEIVED:
 
-* PICs shall only require information that is necessary to the request and to confirm the identity of the requesting individual or his/her authorized  
+* PICs shall only require information that is necessary to the request and to confirm the identity of the requesting individual or his/her authorized
 representative, taking into consideration the principle of proportionality.
-<!-- END MANUAL ANNOTATED TEXT -->
+
+## Footnotes
+
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012), § 2.
+
+[^2]: Data Privacy Act of 2012, § 11.
+
+[^3]: Data Privacy Act of 2012, § 16-18.
+
+[^4]: Data Privacy Act of 2012, § 38; Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34-36.
+
+[^5]: See: ECA v. XXX, NPC Case No. 18-103 (2020).
+
+[^6]: See JVA v. U-PESO.PH LENDING CORPORATION (UPESO), NPC Case No. 19-498 (2020).
+
+[^7]: Florian Schaub, Rebecca Balebako, Adam L. Durity, and Lorrie Faith Cranor, A design space for effective privacy notices, In Proceedings of the Symposium on Usable Privacy and Security (SOUPS'15), available at https://www.usenix.org/system/files/conference/soups2015/soups15-paper-schaub.pdf (2015) (last accessed 15 Jan 2021).
+
+[^8]: When processing is based on consent, the right to object is inherent since consent, by its nature and definition, may be withdrawn. As to processing based on legitimate interest, the right to object applies when the rights and freedoms of the data subject overrides such legitimate interest of the PIC or of a third party. For instance, a data subject can invoke his or her right to object where personal data are processed in circumstances where he or she does not reasonably expect further processing or when the processing is causing substantial damage or distress to the data subject.
+
+[^9]: See: European Commission, Article 29 Data Protection Working Party, Guidelines on the right to data portability, Adopted on 13 December 2016 As last Revised and adopted on 5 April 2017, available at https://webcache.googleusercontent.com/search?q=cache:N9BoIYGlK6UJ:https://ec.europa.eu/newsroom/document.cfm%3Fdoc_id%3D44099+&cd=1&hl=en&ct=clnk&gl=ph (last accessed: 6 October 2020).
+
+[^10]: Id.
 
 ## Source And Notes
 <!-- BEGIN GENERATED TEXT INFO -->

@@ -18,70 +18,23 @@ draft: false
 
 **Circular No. 2022-04**
 
-                    NOTIFICATION REGARDING AUTOMATED DECISION-MAKING  
-                    OR PROFILING, DESIGNATION OF DATA PROTECTION OFFICER,  
-                    AND THE NATIONAL PRIVACY COMMISSION SEAL OF  
-                    REGISTRATION
+WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State recognizes the vital role of communication and information in nation-building. At the same time, Article II, Section 11 thereof emphasizes that the State values the dignity of every human person and guarantees full respect for human rights;
 
-       WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State  
-recognizes the vital role of communication and information in nation-building. At the same  
-time, Article II, Section 11 thereof emphasizes that the State values the dignity of every human  
-person and guarantees full respect for human rights;
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth. The State also recognizes its inherent obligation to ensure that personal information in information and communications systems in the government and in the private sector are secure and protected;
 
-        WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human  
-right of privacy of communication while ensuring free flow of information to promote  
-innovation and growth. The State also recognizes its inherent obligation to ensure that  
-personal information in information and communications systems in the government and in  
-the private sector are secure and protected;
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 16|Section 16 of the DPA]] and Section 34 of its Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) provide that data subjects shall be furnished with and given access to their personal data that are being processed in Data Processing System, as well as the purpose, scope, method, and manner of such processing, including the existence of automated decision-making;
 
-       WHEREAS, [[laws/data-privacy-act-of-2012#Section 16|Section 16 of the DPA]] and Section 34 of its Implementing Rules and  
-Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) provide that data subjects shall be furnished with and given access to their  
-personal data that are being processed in Data Processing System, as well as the purpose,  
-scope, method, and manner of such processing, including the existence of automated decision-  
-making;
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the National Privacy Commission (NPC) is charged with the administration and implementation of the provisions of the law, which includes ensuring the compliance by a personal information controller (PIC) with the provisions thereof, publishing a compilation of an agency’s system of records and notices, and carrying out efforts to formulate and implement plans and policies that strengthen the protection of personal data, in coordination with other government agencies and private entities;
 
-        WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the National Privacy Commission  
-(NPC) is charged with the administration and implementation of the provisions of the law,  
-which includes ensuring the compliance by a personal information controller (PIC) with the  
-provisions thereof, publishing a compilation of an agency’s system of records and notices, and  
-carrying out efforts to formulate and implement plans and policies that strengthen the  
-protection of personal data, in coordination with other government agencies and private  
-entities;
+WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 9|Section 9 of the IRR]] provides that, among the NPC’s functions, is to develop, promulgate, review, or amend rules and regulations for the effective implementation of the [[laws/data-privacy-act-of-2012|DPA]];
 
-        WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 9|Section 9 of the IRR]] provides that, among the NPC’s functions, is to  
-develop, promulgate, review, or amend rules and regulations for the effective implementation  
-of the [[laws/data-privacy-act-of-2012|DPA]];
+WHEREAS, [[laws/data-privacy-act-of-2012#Section 24|Section 24 of the DPA]] states that, when entering into any contract that may involve accessing or requiring sensitive personal information from at least one thousand (1,000) individuals, a government agency shall require the contractor and its employees to register its personal information processing system with the NPC in accordance with the [[laws/data-privacy-act-of-2012|DPA]] and to comply with the law’s provisions. Furthermore, [[laws/data-privacy-act-of-2012#Section 14|Section 14 of the DPA]] mandates that a personal information processor (PIP) shall also comply with all requirements of the [[laws/data-privacy-act-of-2012|DPA]] and other applicable laws;
 
-      WHEREAS, [[laws/data-privacy-act-of-2012#Section 24|Section 24 of the DPA]] states that, when entering into any contract that  
-may involve accessing or requiring sensitive personal information from at least one thousand
+WHEREAS, in line with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 46 and 47 of the IRR]], a PIC or PIP that employs fewer than two hundred fifty (250) persons shall not be required to register unless the processing it carries out is likely to pose a risk to the rights and freedoms of data subjects, is not occasional, or includes sensitive personal information of at least one thousand (1,000) individuals. Moreover, Section 48 thereof declares that a PIC carrying out any automated processing operation that is intended to serve a single or several related purposes must notify the NPC when the operation becomes the sole basis for making decisions about a data subject, and when such decision would significantly affect the data subject;
 
-(1,000) individuals, a government agency shall require the contractor and its employees to  
-register its personal information processing system with the NPC in accordance with the [[laws/data-privacy-act-of-2012|DPA]]  
-and to comply with the law’s provisions. Furthermore, [[laws/data-privacy-act-of-2012#Section 14|Section 14 of the DPA]] mandates that  
-a personal information processor (PIP) shall also comply with all requirements of the [[laws/data-privacy-act-of-2012|DPA]]  
-and other applicable laws;
+WHEREAS, Sections 46 and 47, Rule XI of the IRR also require the effective and efficient monitoring of a Data Processing Systems that are likely to pose a risk to the rights and freedoms of data subjects including those that involve information likely to affect national security, public safety, public order, or public health or information required by applicable laws or rules to be confidential; vulnerable data subjects like minors, the mentally ill, asylum seekers, the elderly, patients, those involving criminal offenses, or in any other case where an imbalance exists in the relationship between a data subject and a PIC or PIP, especially those involving automated decision-making or profiling;
 
-        WHEREAS, in line with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 46 and 47 of the IRR]], a PIC or PIP that employs fewer  
-than two hundred fifty (250) persons shall not be required to register unless the processing it  
-carries out is likely to pose a risk to the rights and freedoms of data subjects, is not occasional,  
-or includes sensitive personal information of at least one thousand (1,000) individuals.  
-Moreover, Section 48 thereof declares that a PIC carrying out any automated processing  
-operation that is intended to serve a single or several related purposes must notify the NPC  
-when the operation becomes the sole basis for making decisions about a data subject, and  
-when such decision would significantly affect the data subject;
-
-        WHEREAS, Sections 46 and 47, Rule XI of the IRR also require the effective and  
-efficient monitoring of a Data Processing Systems that are likely to pose a risk to the rights  
-and freedoms of data subjects including those that involve information likely to affect national  
-security, public safety, public order, or public health or information required by applicable  
-laws or rules to be confidential; vulnerable data subjects like minors, the mentally ill, asylum  
-seekers, the elderly, patients, those involving criminal offenses, or in any other case where an  
-imbalance exists in the relationship between a data subject and a PIC or PIP, especially those  
-involving automated decision-making or profiling;
-
-       WHEREFORE, in consideration of these premises, the NPC hereby issues this Circular  
-governing the registration of Data Processing System and Data Protection Officer, notification  
-regarding automated decision-making or profiling, and the NPC seal of registration:
+WHEREFORE, in consideration of these premises, the NPC hereby issues this Circular governing the registration of Data Processing System and Data Protection Officer, notification regarding automated decision-making or profiling, and the NPC seal of registration:
 
 ## PRELIMINARY PROVISIONS
 
@@ -730,7 +683,7 @@ incur under the [[laws/data-privacy-act-of-2012|DPA]] and other applicable laws.
 
 ## MISCELLANEOUS PROVISIONS
 
-SECTION 39. Transitory Period. Notwithstanding the period in the first paragraph of Section  
+SECTION 39. Transitory Period. Notwithstanding the period in the first paragraph of Section 7 of this Circular; all covered PICs, and PIPs shall complete their Data Processing System and DPO registration within one hundred eighty (180) days from the effectivity of this Circular.
 
 SECTION 40. Repealing Clause. This Circular supersedes in its entirety [[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-  
 01]]. The provisions of the IRR and all other issuances contrary to or inconsistent with the  
@@ -756,8 +709,6 @@ Approved:
                                   Deputy Privacy Commissioner
 
 ## Footnotes
-
-[^7]: of this Circular; all covered PICs, and PIPs shall complete their Data Processing System and DPO registration within one hundred eighty (180) days from the effectivity of this Circular.
 
 ## Source And Notes
 - Companion note: [[notes/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|Analysis and metadata]]

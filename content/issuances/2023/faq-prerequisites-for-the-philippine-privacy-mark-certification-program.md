@@ -22,7 +22,7 @@ draft: false
 
 ## PREREQUISITES FOR THE PHILIPPINE PRIVACY MARK (PPM) CERTIFICATION PROGRAM
 
-  I.     WHAT DOES THIS CIRCULAR CONTAIN?
+## I.     WHAT DOES THIS CIRCULAR CONTAIN?
 
          It provides the prerequisites for certifying personal information controllers (PICs) or  
          personal information processors (PIPs) and accrediting certification bodies (CBs)  
@@ -54,25 +54,26 @@ draft: false
                 I.        ISO/IEC 27001 – information security management system (ISMS)  
                 II.       ISO/IEC 27701 – privacy information management system (PIMS)
 
-         The details of the PPM Certification Program, such as the certification scheme, which  
-         contains specific requirements and rules or procedures for the certification, will be  
+         The details of the PPM Certification Program, such as the certification scheme, which
+         contains specific requirements and rules or procedures for the certification, will be
          issued by the NPC, separately.
 
- V.      WHAT ARE THE REQUIREMENTS FOR CBs?  
+## V.      WHAT ARE THE REQUIREMENTS FOR CBs?  
          Section 5 of the Circular states that CBs must be certified with the following standards:  
                 I.       ISO/IEC 27001 – information security management system (ISMS)  
                 II.      ISO/IEC 27701 – privacy information management system (PIMS)  
                 III.     In addition, CBs must obtain accreditation based on ISO/IEC 17021-1.
 
-## VI.    MAY ORGANIZATIONS OBTAIN ISO/IEC 27001 AND ISO/IEC 27701 CERTIFICATIONS IN ANY ORDER, OR MUST THEY FOLLOW A PARTICULAR
-        SEQUENCE?  
-        ISO/IEC 27701 (Privacy Information Management System [PIMS]) is an extension of  
-        ISO/IEC 27001 (Information Security Management System [ISMS]); therefore, an  
-        organization must secure the ISO/IEC 27001 Certification first before proceeding with  
-        securing the ISO/IEC 27701 Certification.
+## VI.    MAY ORGANIZATIONS OBTAIN ISO/IEC 27001 AND ISO/IEC 27701 CERTIFICATIONS IN ANY ORDER, OR MUST THEY FOLLOW A PARTICULAR SEQUENCE?
 
-## VII.    WHY IS THE STANDARD ISO/IEC 17021-1 PART OF THE REQUIREMENTS?The
-        ISO/IEC 17021-1 is a global standard that contains requirements for bodies  
+ISO/IEC 27701 (Privacy Information Management System [PIMS]) is an extension of
+ISO/IEC 27001 (Information Security Management System [ISMS]); therefore, an
+organization must secure the ISO/IEC 27001 Certification first before proceeding with
+securing the ISO/IEC 27701 Certification.
+
+## VII.    WHY IS THE STANDARD ISO/IEC 17021-1 PART OF THE REQUIREMENTS?
+
+ISO/IEC 17021-1 is a global standard that contains requirements for bodies  
         engaged in auditing and certifying management systems. It defines the criteria for  
         assessing the competence, consistency, and impartiality of bodies providing audit and  
         certification of all types of management systems. As a result, it is added as a  

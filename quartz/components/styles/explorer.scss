@@ -3,17 +3,21 @@
 @media all and ($mobile) {
   .page > #quartz-body {
     // Shift page position when toggling Explorer on mobile.
-    & > :not(.sidebar.left:has(.explorer)) {
+    & > :not(.sidebar.left) {
       transition: transform 300ms ease-in-out;
     }
 
-    &.lock-scroll > :not(.sidebar.left:has(.explorer)) {
-      transform: translateX(100dvw);
+    &.lock-scroll {
+      overflow: hidden;
+    }
+
+    &.lock-scroll > :not(.sidebar.left) {
+      transform: translate(100dvw);
       transition: transform 300ms ease-in-out;
     }
 
     // Sticky top bar (stays in place when scrolling down on mobile).
-    .sidebar.left:has(.explorer) {
+    .sidebar.left {
       box-sizing: border-box;
       position: sticky;
       background-color: var(--light);
@@ -228,6 +232,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       & > .explorer-content {
         transform: translateX(-100vw);
         visibility: hidden;
+        pointer-events: none;
       }
     }
 
@@ -237,6 +242,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       & > .explorer-content {
         transform: translateX(0);
         visibility: visible;
+        pointer-events: auto;
       }
     }
 
@@ -275,6 +281,12 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 
 .mobile-no-scroll {
   @media all and ($mobile) {
+    overflow: hidden;
+
+    body {
+      overflow: hidden;
+    }
+
     .explorer-content > .explorer-ul {
       overscroll-behavior: contain;
     }

@@ -18,52 +18,29 @@ draft: false
 
 **Memorandum Circular No. 2020-9002**
 
-                              DEPARTMENT OF HEALTH
+DEPARTMENT OF HEALTH
 
-                                                                                   April   24, 2020  
+April 24, 2020
+
 JOINT MEMORANDUM CIRCULAR No. 2020-9002
 
-    SUBJECT:            Privacy Guidelines on the Processing and Disclosure of COVID-19  
-                        Related Data for Disease Surveillance and Response
+SUBJECT: Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response
 
 I. BACKGROUND
 
-      In pursuit of disease surveillance and response against the coronavirus disease 2019  
-(COVID-19)    in  
-               the country, and pursuant to Republic Act (RA) 11332 (Mandatory Reporting  
-of Notifiable Diseases and Health Events of Public Health Concern Act), the Department of  
-Health (DOH), being the principal health agency in the country, collects, processes and  
-disseminates COVID-19-related data; requires the reporting of such data from appropriate  
-sources; and undertakes apropos epidemiologic investigations and biomedical researches.
+In pursuit of disease surveillance and response against the coronavirus disease 2019 (COVID-19) in the country, and pursuant to Republic Act (RA) 11332 (Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern Act), the Department of Health (DOH), being the principal health agency in the country, collects, processes and disseminates COVID-19-related data; requires the reporting of such data from appropriate sources; and undertakes appropriate epidemiologic investigations and biomedical researches.
 
-        Thecollection and processing of COVID-19-related data consists of both personal and  
-sensitive personal information. The confidential nature of these data only underscores the  
-primacy of right of the patient to health privacy. This right is articulated in RA 10173 ([[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] [[laws/data-privacy-act-of-2012|DPA]]), which specifically provides for health privacy, establishes the  
-directive for data protection, and reinforces the right ofthe patient to data privacy.
+The collection and processing of COVID-19-related data consists of both personal and sensitive personal information. The confidential nature of these data only underscores the primacy of right of the patient to health privacy. This right is articulated in RA 10173 ([[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] [[laws/data-privacy-act-of-2012|DPA]]), which specifically provides for health privacy, establishes the directive for data protection, and reinforces the right of the patient to data privacy.
 
-        In responseto  the growing privacy concerns raised by various stakeholders during this  
-current COVID-19 health situation, and in upholding RA 11332 and RA 10173, the Department  
-of Health and the National Privacy Commission (NPC) hereby issue these guidelines on the  
-application of data protection and privacy principles in the collection, processing and disclosure  
-of COVID-19-related data in pursuit of disease surveillance and response.
+In response to the growing privacy concerns raised by various stakeholders during this current COVID-19 health situation, and in upholding RA 11332 and RA 10173, the Department of Health and the National Privacy Commission (NPC) hereby issue these guidelines on the application of data protection and privacy principles in the collection, processing and disclosure of COVID-19-related data in pursuit of disease surveillance and response.
 
-## II. OBJECTIVE
+II. OBJECTIVE
 
-       This Joint Memorandum Circular implements the guidelines for the collection,  
-processing and disclosure of COVID-19-related data in pursuit of disease surveillance and  
-response, while protecting the data privacy rights of patients and individuals and ensuring the  
-confidentiality, integrity, and availability of their personal data.
+This Joint Memorandum Circular implements the guidelines for the collection, processing and disclosure of COVID-19-related data in pursuit of disease surveillance and response, while protecting the data privacy rights of patients and individuals and ensuring the confidentiality, integrity, and availability of their personal data.
 
-## Ill. SCOPE AND COVERAGE
+III. SCOPE AND COVERAGE
 
-        This Joint Memorandum Circular shall apply to the implementation of the COVID-19  
-disease surveillance and response; and shall cover    all  
-                                                      public and private, national and local  
-healthcare providers regulated by DOH and Philippine Health Insurance Corporation
-
- (PhilHealth); national and local public health authorities; DOH partner agencies involved in  
-the collection and processing of COVID-19-related data; all COVID-19 cases; and all  
-individuals identified as close contacts.
+This Joint Memorandum Circular shall apply to the implementation of the COVID-19 disease surveillance and response; and shall cover all public and private, national and local healthcare providers regulated by DOH and Philippine Health Insurance Corporation (PhilHealth); national and local public health authorities; DOH partner agencies involved in the collection and processing of COVID-19-related data; all COVID-19 cases; and all individuals identified as close contacts.
 
 ## IV. DEFINITION OF TERMS
 
@@ -386,37 +363,31 @@ F. DOH Partner Agencies (including Local Government Units)
    (Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern  
    Act), RA 11469 (Bayanihan to Heal as One Act), and other applicable laws, rules and  
    regulations.  
-2. Any privacy violation, or personal data breach, or security incident shall be penalized in  
-   accordance with RA 10173 ([[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]), or other applicable laws, rules, and  
-                                                                  of  
-   regulations. Exemptions for privacy violation include disclosures  personal health information  
-   that is publicly known or becomes publicly known for causes not due to any unauthorized  
-   act of any concerned implementer  of  these Guidelines, or public disclosure made by   the data  
-   subject himself/herself.
+2. Any privacy violation, or personal data breach, or security incident shall be penalized in accordance with RA 10173 ([[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]), or other applicable laws, rules, and regulations. Exemptions for privacy violation include disclosures of personal health information that is publicly known or becomes publicly known for causes not due to any unauthorized act of any concerned implementer of these Guidelines, or public disclosure made by the data subject himself/herself.
 
-## IX. REPEALING CLAUSE
+IX. REPEALING CLAUSE
 
-     All previous issuances that are inconsistent with any provisions of this Joint  
-Memorandum Circular are hereby amended, modified, or repealed accordingly.
+All previous issuances that are inconsistent with any provisions of this Joint Memorandum Circular are hereby amended, modified, or repealed accordingly.
 
 X. SEPARABILITY CLAUSE
 
-        In the event that any provision or part of this Joint Memorandum Circular is declared  
-unauthorized or rendered invalid by any court of law, those provisions not affected by such  
-declaration shall remain valid and in effect.
+In the event that any provision or part of this Joint Memorandum Circular is declared unauthorized or rendered invalid by any court of law, those provisions not affected by such declaration shall remain valid and in effect.
 
-## XI. EFFECTIVITY
+XI. EFFECTIVITY
 
-         This Joint Memorandum Circular shall take effect immediately.
+This Joint Memorandum Circular shall take effect immediately.
 
-                                                                         ¢se—  ae  
-     F        CISCOA. DUQUE     III,    MD, MSc              RAYMUND E. LIBORO  
-                                                          Tivacy Commissioner and Chairman  
-               Secretary
+(Sgd.)
+FRANCISCO T. DUQUE III, MD, MSc
+Secretary
+
+(Sgd.)
+RAYMUND E. LIBORO
+Privacy Commissioner and Chairman
 
 ## Footnotes
 
-[^19]: surveillance and response, or any similar action insofaras   they relate to the provisions of
+[^19]: surveillance and response, or any similar action insofar as they relate to the provisions of
 
 ## Source And Notes
 - Companion note: [[notes/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Analysis and metadata]]

@@ -14,48 +14,44 @@ draft: false
 ## Issuance Text
 Appendix 1.
 
-Re: Initial determination of the National Privacy Commission on sectors or institutions  
-requiring Registration of Data Processing Systems under Sections 5(C) and 5(D) of NPC  
-Circular 17-01 on the “Registration of Data Processing Systems and Notifications  
+Re: Initial determination of the National Privacy Commission on sectors or institutions
+requiring Registration of Data Processing Systems under Sections 5(C) and 5(D) of NPC
+Circular 17-01 on the “Registration of Data Processing Systems and Notifications
 regarding automated decision-making.”
 
-The sectors or institutions provided herein that are processing personal data and  
-operating in the country are subject to mandatory registration as provided in Sections  
-5(C) and 5(D) of NPC Circular 17-01. ALL OTHER PICS OR PIPS SHOULD REGISTER  
-IF IT EMPLOYS AT LEAST 250 PERSONS OR PROCESSING AT LEAST 1,000  
+The sectors or institutions provided herein that are processing personal data and
+operating in the country are subject to mandatory registration as provided in Sections
+5(C) and 5(D) of NPC Circular 17-01. ALL OTHER PICS OR PIPS SHOULD REGISTER
+IF IT EMPLOYS AT LEAST 250 PERSONS OR PROCESSING AT LEAST 1,000
 RECORDS INVOLVING SENSITIVE PERSONAL INFORMATION.
 
-The National Privacy Commission determines, for the limited purpose of mandatory  
-registration under NPC Circular 17-01, that the following sectors or institutions are  
-considered PICs or PIPs involved in the processing of personal data that is likely to pose  
-a risk to the rights and freedoms of data subjects and/or where the processing is not  
+The National Privacy Commission determines, for the limited purpose of mandatory
+registration under NPC Circular 17-01, that the following sectors or institutions are
+considered PICs or PIPs involved in the processing of personal data that is likely to pose
+a risk to the rights and freedoms of data subjects and/or where the processing is not
 occasional:
 
-## 1. GOVERNMENT BRANCHES, BODIES OR ENTITIES, INCLUDING NATIONAL GOVERNMENT AGENCIES, BUREAUS OR OFFICES, CONSTITUTIONAL
-   COMMISSIONS, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED AND  
-   –CONTROLLED CORPORATIONS
+### 1. Government Branches, Bodies Or Entities, Including National Government Agencies, Bureaus Or Offices, Constitutional
+COMMISSIONS, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED AND
+–CONTROLLED CORPORATIONS
 
-## 2. BANKS AND NON-BANK FINANCIAL INSTITUTIONS, INCLUDING PAWNSHOPS NON-STOCK SAVINGS AND LOAN ASSOCIATIONS (NSSLAS)
+### 2. Banks And Non-Bank Financial Institutions, Including Pawnshops Non-Stock Savings And Loan Associations (Nsslas)
 
-## 3. TELECOMMUNICATIONS NETWORKS, INTERNET SERVICE PROVIDERS AND OTHER ENTITIES OR ORGANIZATIONS PROVIDING SIMILAR SERVICES
+### 3. Telecommunications Networks, Internet Service Providers And Other Entities Or Organizations Providing Similar Services
 
-## 4. BUSINESS PROCESS OUTSOURCING COMPANIES
+### 4. Business Process Outsourcing Companies
 
-5. UNIVERSITIES, COLLEGES AND OTHER INSTITUTIONS OF                                       HIGHER LEARNING, ALL OTHER SCHOOLS AND TRAINING INSTITUTIONS
+5. UNIVERSITIES, COLLEGES AND OTHER INSTITUTIONS OF HIGHER LEARNING, ALL OTHER SCHOOLS AND TRAINING INSTITUTIONS
 
-## 6. HOSPITALS INCLUDING PRIMARY CARE FACILITIES, MULTI-SPECIALTY CLINICS, CUSTODIAL CARE FACILITIES, DIAGNOSTIC OR THERAPEUTIC
-   FACILITIES, SPECIALIZED OUT PATIENT FACILITIES, AND OTHER  
-   ORGANIZATIONS PROCESSING GENETIC DATA
+### 6. Hospitals Including Primary Care Facilities, Multi-Specialty Clinics, Custodial Care Facilities, Diagnostic Or Therapeutic Facilities, Specialized Out Patient Facilities, And Other Organizations Processing Genetic Data
 
-## 7. PROVIDERS OF INSURANCE UNDERTAKINGS, INCLUDING LIFE AND NON- LIFE COMPANIES, PRE-NEED COMPANIES AND INSURANCE BROKERS
+### 7. Providers Of Insurance Undertakings, Including Life And Non- Life Companies, Pre-Need Companies And Insurance Brokers
 
-## 8. BUSINESS INVOLVED MAINLY IN DIRECT MARKETING, NETWORKING, AND COMPANIES PROVIDING REWARD CARDS AND LOYALTY PROGRAMS
+### 8. Business Involved Mainly In Direct Marketing, Networking, And Companies Providing Reward Cards And Loyalty Programs
 
-## 9. PHARMACEUTICAL COMPANIES ENGAGED IN RESEARCH
+### 9. Pharmaceutical Companies Engaged In Research
 
-## 10. PERSONAL INFORMATION PROCESSORS PROCESSING PERSONAL DATA FOR A PERSONAL INFORMATION CONTROLLER INCLUDED IN THE PRECEDING
-    ITEMS, AND DATA PROCESSING SYSTEMS INVOLVING AUTOMATED  
-    DECISION-MAKING
+### 10. Personal Information Processors Processing Personal Data For A Personal Information Controller Included In The Preceding Items, And Data Processing Systems Involving Automated Decision-Making
 
 ## Source And Notes
 - Companion note: [[notes/undated/registration-of-data-processing-systems-appendix-1|Analysis and metadata]]

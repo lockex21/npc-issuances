@@ -11,8 +11,8 @@ draft: false
 ---
 
 ## Issuance Text
-                       2021 RULES OF PROCEDURE OF THE  
-                  NATIONAL PRIVACY COMMISSION, AS AMENDED
+
+### 2021 Rules of Procedure of the National Privacy Commission, as Amended
 
 ## RULE I GENERAL PROVISIONS
 
@@ -25,12 +25,12 @@ subject about whom personal information is processed.
 SECTION 3. Scope. - These Rules shall apply to the receipt, investigation, alternative dispute  
 resolution, preliminary conference, adjudication, and all other proceedings before the NPC.
 
-SECTION 4. Definition of Terms. – The terms defined in the [[laws/data-privacy-act-of-2012|DPA]], and its rules, are adopted  
-accordingly in this Circular. (a)
+SECTION 4. Definition of Terms. – The terms defined in the [[laws/data-privacy-act-of-2012|DPA]], and its rules, are adopted
+accordingly in this Circular.
 
-   a. AFFIRMATIVE DEFENSES – shall refer to any defense by the respondent which, if  
-       found to be credible, will negate liability under the [[laws/data-privacy-act-of-2012|DPA]], even if it is proven that the  
-       respondent in fact committed the alleged acts. (a)
+   a. AFFIRMATIVE DEFENSES – shall refer to any defense by the respondent which, if
+       found to be credible, will negate liability under the [[laws/data-privacy-act-of-2012|DPA]], even if it is proven that the
+       respondent in fact committed the alleged acts.
 
    b. BREACH INVESTIGATION – shall refer to an investigation conducted by the NPC  
        with respect to a data breach notification prompted by the applicable rules  
@@ -41,7 +41,7 @@ accordingly in this Circular. (a)
 
    d. COMPLAINT INVESTIGATION – shall refer to an investigation conducted by the  
        NPC with respect to a formal complaint filed by a data subject or his or her  
-       representative for violation of the [[laws/data-privacy-act-of-2012|DPA]]. (a)
+       representative for violation of the [[laws/data-privacy-act-of-2012|DPA]].
 
    e. COMPLIANCE CHECK – shall refer to the systematic and impartial evaluation of a  
        personal information controller (PIC) or personal information processor (PIP), in  
@@ -51,7 +51,7 @@ accordingly in this Circular. (a)
        includes Privacy Sweeps, Documents Submission, and On-Site Visits, which intends  
        to determine whether a PIC or PIP is able to demonstrate organizational commitment,  
        program controls, and review mechanisms intended to assure privacy and personal  
-       data protection in data processing systems. (n)
+       data protection in data processing systems.
 
    f. COURIER – shall refer to any private mail carrier accredited by the Supreme Court,  
        the NPC, or by international conventions of which the Philippines is a signatory.
@@ -68,7 +68,7 @@ accordingly in this Circular. (a)
           NPC may require the submission of documents and additional information from a PIC  
           or PIP that has undergone a Privacy Sweep to, among others, clarify certain findings  
           arising therefrom and to determine the level of compliance of the PIC or PIP with  
-          respect to its obligations under the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances. (n)
+          respect to its obligations under the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances.
 
      i. ELECTRONICALLY-STORED INFORMATION – shall refer to any information that  
           is received, recorded, transmitted, stored, processed, retrieved, or produced  
@@ -79,23 +79,23 @@ accordingly in this Circular. (a)
           Division (CMD), a special committee, or task force (or respective members thereof)  
           that may or may not include members from the CMD, created by order of the  
           Commission to evaluate documents and information submitted to the CMD pertaining  
-          to compliance requirements and personal data breach notifications. (a)
+          to compliance requirements and personal data breach notifications.
 
      k. HEARING OFFICER – shall refer to a member of the Complaints and Investigation  
           Division (CID), a special committee, or task force (or respective members thereof) that  
           may or may not include members from the CID, created by order of the Commission  
-          to conduct hearings. (n)
+          to conduct hearings.
 
      l. INVESTIGATING OFFICER – shall refer to a member of the CID, a special  
           committee, or task force (or respective members thereof) that may or may not include  
           members from the CID, created by order of the Commission to conduct investigations,  
-          hearings, and prepare related reports. (a)
+          hearings, and prepare related reports.
 
      m. JURIDICAL PERSON – shall refer to: (1) the State and its political subdivisions, (2)  
           corporations, institutions, and entities that are created by law for public interest or  
           purpose, and (3) corporations, partnerships, and associations for private interest or  
           purpose to which the law grants a juridical personality, separate and distinct from that  
-          of each shareholder, partner, or member.3 (n)
+          of each shareholder, partner, or member.3
 
      n. MEDIATION – shall refer to the voluntary process in which a Mediation Officer  
           facilitates communication and negotiation and assists the parties in reaching a  
@@ -106,51 +106,51 @@ No. 386, Art. 44 (1949).
 
     o. MEDIATION OFFICER – shall refer to a member of the Legal Division (LD), a special  
         committee, or task force (or respective members thereof) that may or may not include  
-        members from the LD, created by order of the Commission to conduct mediation. (a)
+        members from the LD, created by order of the Commission to conduct mediation.
 
     p. MEDIATION SUPPORT OFFICER – shall refer to a member of the LD, a designated  
         person, special committee, or task force (or respective members thereof) that may or  
         may not include members from the LD, created by order of the Commission to provide  
-        support to Mediation Officers. (n)
+        support to Mediation Officers.
 
-    q. NPC – shall refer to the National Privacy Commission created under the [[laws/data-privacy-act-of-2012|DPA]]. (a)
+    q. NPC – shall refer to the National Privacy Commission created under the [[laws/data-privacy-act-of-2012|DPA]].
 
     r. ON-SITE VISIT – shall refer to a mode of Compliance Check if there are persistent or  
         substantial findings of non-compliance of the PIC or PIP with the obligations indicated  
-        in the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances. (n)
+        in the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances.
 
     s. PARTIES IN INTEREST – shall refer to a real party in interest who stands to be  
         benefited or injured by the judgment in the suit, or the party entitled to the avails of  
         the suit. Unless otherwise authorized by law or these Rules, every action must be  
-        prosecuted or defended in the name of the real party in interest.4 (n)
+        prosecuted or defended in the name of the real party in interest.4
 
     t. PRELIMINARY MEDIATION CONFERENCE – shall refer to the initial mediation  
         conference after the parties mutually agree to enter into the mediation proceeding and  
-        the case is referred by the Investigating Officer to the Mediation Officer. (n)
+        the case is referred by the Investigating Officer to the Mediation Officer.
 
     u. PRIVACY SWEEP – shall refer to the initial mode of Compliance Check where the  
         NPC shall review a PIC or PIP’s compliance with respect to its obligations under the  
         [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances, based on publicly available or accessible information,  
         such as, but not limited to websites, mobile applications, raffle coupons, brochures,  
-        and privacy notices. (n)
+        and privacy notices.
 
     v. PRIVATE CAUCUS – shall refer to a private meeting with either party called by the  
         Mediation Officer, with the consent of both parties, to discuss issues in private and to  
-        arrive at a mutually satisfactory agreement beneficial to all parties. (n)
+        arrive at a mutually satisfactory agreement beneficial to all parties.
 
     w. PUBLIC AUTHORITY – shall refer to any government entity created by the  
-        Constitution or law. (n)
+        Constitution or law.
 
     x. RULES – shall refer to the 2021 NPC Rules of Procedure, including its amendments,  
-        unless otherwise stated. (a)
+        unless otherwise stated.
 
     y. SUA SPONTE INVESTIGATION – shall refer to an investigation initiated by the NPC  
-        on its own for possible violation of the [[laws/data-privacy-act-of-2012|DPA]]. (a)
+        on its own for possible violation of the [[laws/data-privacy-act-of-2012|DPA]].
 
 SECTION 5. Enforcement Powers. – The Commission may use its enforcement powers under  
 the [[laws/data-privacy-act-of-2012|DPA]] in the course of investigations to order cooperation of the subject of the inquiries or  
 other interested individuals or entities, including public authorities, or to compel appropriate  
-action to protect the interests of data subjects. (a)
+action to protect the interests of data subjects.
 
 
 (May 1, 2020).
@@ -170,20 +170,20 @@ It is sufficient that proof establishing the relationship with the complainant b
 the NPC as an attachment to the complaint. In case the minor or a person alleged to be  
 incompetent is represented by the father or mother, the birth certificate shall be considered  
 sufficient proof, while for the guardian, the court order designating the person as guardian  
-shall be sufficient. (a)
+shall be sufficient.
 
 One or more data subjects may be represented by a single juridical person: Provided, that the  
 juridical person filing the complaint must be authorized by a special power of attorney to  
 appear and act on behalf of the data subjects: Provided further, the person representing the  
 juridical person acting as the representative of one or more data subjects must be authorized  
 to appear and act on behalf of the juridical person by a Board Resolution contained in a duly  
-notarized Secretary’s Certificate or its equivalent in case of government agencies[^6]. (n)
+notarized Secretary’s Certificate or its equivalent in case of government agencies[^6].
 
 In cases where the complainant is a non-resident citizen who has no authorized representative  
 in the Philippines or is unable to appoint such a representative, such person may submit a  
 complaint in accordance with these Rules: Provided, that the complaint must be notarized by  
 the Philippine Embassy or Consulate, or with an apostille certificate from the country of  
-origin. (n)
+origin.
 
 SECTION 2. Exhaustion of remedies. – No complaint shall be given due course unless it has  
 been sufficiently established and proven that:
@@ -374,15 +374,15 @@ address used in the filing of the complaint or pleading, or submission of docume
 otherwise indicated in the complaint, pleading, motion, or other submissions of parties. When  
 the NPC has opted to serve a judgment, order, or resolution by electronic mail, it shall no  
 longer serve its issuances in the same case or matter by any other mode of service, unless  
-circumstances warrant otherwise. (a)
+circumstances warrant otherwise.
 
 For judgments, orders, or resolutions served by electronic mail, electronic service is  
 considered complete at the time of electronic transmission of the document, or when available,  
-at the time that the electronic notification of service of document is sent. (n)
+at the time that the electronic notification of service of document is sent.
 
 For matters coursed through the electronic systems implemented by the NPC, the service of  
 judgments, orders, or resolutions is deemed completed at the time it is successfully uploaded  
-to the system. (n)
+to the system.
 
 ## RULE IV PRE-INVESTIGATION PHASE
              (Amended and renumbered pursuant to [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2024-01]])
@@ -403,7 +403,7 @@ dismiss the complaint without prejudice, on any of the following grounds:
    4. There is insufficient information to substantiate the allegations in the complaint; or
 
    5. The parties, other than the responsible officers of juridical persons, cannot be identified  
-      or traced despite diligence to determine them. (a)
+      or traced despite diligence to determine them.
 
 SECTION 2. Amendment of complaint, when allowed. – The complainant may substantially  
 amend the complaint once as a matter of right at any time before the respondent has filed a  
@@ -418,15 +418,15 @@ these Rules, join as complainants or be joined as respondents in one complaint, 
 question of law or fact common to all such complainants or to all such respondents may arise  
 in the action; but the NPC may make such orders as may be just to prevent any complainant  
 or respondent from being embarrassed or put to expense in connection with any proceedings  
-in which the party may have no interest. (n)
+in which the party may have no interest.
 
 SECTION 4. Compulsory joinder of indispensable parties. – Parties in interest without whom  
 no final determination can be had of an action shall be joined either as complainants or  
-respondents. (n)
+respondents.
 
 SECTION 5. Necessary party. – A necessary party is one who is not indispensable but who  
 ought to be joined as a party if complete relief is to be accorded as to those already parties, or  
-for a complete determination or settlement of the claim subject of the action.7 (n)
+for a complete determination or settlement of the claim subject of the action.7
 
 SECTION 6. Non-joinder of necessary parties to be pleaded. – Whenever in any complaint or  
 pleading in which a claim is asserted a necessary party is not joined, the pleader shall set forth  
@@ -439,19 +439,19 @@ cause, shall be deemed a waiver of the claim against such party.
 
 The non-inclusion of a necessary party does not prevent the NPC from proceeding with its  
 investigation, and any decision rendered therein shall be without prejudice to the rights of  
-such necessary party. (n)
+such necessary party.
 
 SECTION 7. Misjoinder and non-joinder of parties. – Neither misjoinder nor non-joinder of  
 parties is ground for dismissal of a complaint. Parties may be dropped or added by order of  
 the NPC by motion of any party or on its own initiative at any stage of the action and on such  
 terms as are just. Any claim against a misjoined party may be severed and proceeded with  
-separately. (n)
+separately.
 
 SECTION 8. Entity without juridical personality as respondent. – When two or more persons  
 not organized as an entity with juridical personality enter into a transaction, they may be sued  
 under the name by which they are generally or commonly known. In the answer of such  
 respondent, the names and addresses of the persons composing the entity must be accurately  
-stated. The address to be used shall be the last known address of the respondent. (n)
+stated. The address to be used shall be the last known address of the respondent.
 
 
 SECTION 9. Submission of comment. – Upon finding that the complaint may be given due  
@@ -467,11 +467,11 @@ provisions of the Rules of Court and its amendments shall apply. It is sufficien
 establishing the relationship with the respondent be presented to the NPC as an attachment  
 to the comment. In case the minor or a person alleged to be incompetent is represented by the  
 father or mother, the birth certificate shall be considered sufficient proof, while for the  
-guardian, the court order designating the person as guardian shall be sufficient. (n)
+guardian, the court order designating the person as guardian shall be sufficient.
 
 In case the respondent is a juridical person, the representative filing the comment must be  
 authorized to appear and act on behalf of the juridical person by a Board Resolution contained  
-in a duly notarized Secretary’s Certificate, or its equivalent for a government agency[^8]. (n)
+in a duly notarized Secretary’s Certificate, or its equivalent for a government agency[^8].
 
 SECTION 10. Content of the comment. – The respondent shall raise all of his or her defenses  
 in the comment. No motions to dismiss shall be entertained: Provided, the Investigating  
@@ -482,7 +482,7 @@ physical address or electronic mail address while the complaint is pending must 
 file, within five (5) calendar days from such change, a notice of change of physical address or  
 electronic mail address with the NPC and serve the notice on all other parties. Service through  
 the physical address or electronic mail address of a party, on record, shall be presumed valid,  
-unless such party notifies the NPC of any change. (n)
+unless such party notifies the NPC of any change.
 
 SECTION 12. Prohibited pleadings and motions. – The following pleadings and motions shall  
 not be allowed in the complaint proceedings:
@@ -525,7 +525,7 @@ in the comment affirmative defenses such as but not limited to:
    6. The action has otherwise prescribed under the statute of limitations; or
 
    7. That the claim or demand set forth in the complaint has been paid, waived, abandoned,  
-      or otherwise extinguished. (a)
+      or otherwise extinguished.
 
 SECTION 14. Authority of the Investigating Officer to rule on motions. – The Investigating  
 Officer may directly rule on motions that do not fully dispose of the case on the merits. No  
@@ -674,7 +674,7 @@ issued by the assigned Mediation Officer.
 Parties may apply for mediation through their representatives, provided that the latter are duly  
 authorized in accordance with Section 8 of this Rule. Otherwise, no order to mediate shall be  
 issued by the Investigating Officer until and unless such requirements have been completed  
-and substantiated. (n)
+and substantiated.
 
 No application for mediation shall be approved without payment of the mediation fee.
 
@@ -691,20 +691,20 @@ to Mediate, which shall state the following: (a) the approval of the Application
 the mediation proceedings; (c) the name of the assigned or designated Mediation Officer who  
 shall preside over the mediation proceedings; and (d) the date, time, and place when the  
 parties shall appear before the Mediation Officer for the Preliminary Mediation Conference.  
-Copies of the Order to Mediate shall be furnished to the Mediation Officer and the parties. (a)
+Copies of the Order to Mediate shall be furnished to the Mediation Officer and the parties.
 
 SECTION 5. Conduct of Mediation Officers. – All Mediation Officers and Mediation Support  
-Officers shall be bound by the NPC Mediation Code of Conduct. (n)
+Officers shall be bound by the NPC Mediation Code of Conduct.
 
 SECTION 6. Preliminary Mediation Conference. – The Mediation Officer shall receive the  
 appearances of the parties and inform them of the mediation process and the manner by which  
 the proceedings will be conducted. The Mediation Officer shall reiterate the benefits of an  
 early settlement of the dispute and endeavor to achieve the fairest and most expeditious  
-settlement possible. (a)
+settlement possible.
 
 Each party shall be allowed to make a brief statement of their respective position and  
 preferred outcome. The Mediation Officer shall assist the parties in exploring common  
-grounds for settlement while respecting party autonomy throughout the process. (a)
+grounds for settlement while respecting party autonomy throughout the process.
 
 When necessary, the parties shall agree on the schedule of the next mediation conference and  
 the Mediation Officer shall issue an order therefor.
@@ -729,13 +729,13 @@ Secretary’s Certificate, or any equivalent written authority to offer, negotia
 and enter into a mediated settlement agreement.
 
 No representative shall be allowed to appear in mediation on behalf of a party without proper  
-authorization as verified by the Mediation Officer. (n)
+authorization as verified by the Mediation Officer.
 
 The parties shall inform the LD about changes in representation through a written statement  
 or manifestation along with the corresponding written authority to offer, negotiate, accept,  
 decide, and enter into a mediated settlement agreement submitted to the Mediation Officer  
 prior to the next scheduled mediation conference. The mediation shall not proceed until and  
-unless the representatives are duly authorized in accordance with this Section. (n)
+unless the representatives are duly authorized in accordance with this Section.
 
 SECTION 9. Failure of parties to appear, effect. – If any of the parties fail to appear without  
 justifiable reason for two (2) consecutive mediation conferences at any stage of the  
@@ -745,7 +745,7 @@ justified, the Mediation Officer may order for another caucus or conference. The
 Officer may require the non-appearing party to explain why said party should not be required  
 to pay treble costs incurred by the appearing party, including attorney’s fees, in attending the  
 mediation conferences or caucuses, and be henceforth permanently prohibited from  
-requesting mediation at any other stage of the complaint proceedings before the NPC. (a)
+requesting mediation at any other stage of the complaint proceedings before the NPC.
 
 SECTION 10. Presence of lawyers in mediation. – Lawyers who act as counsels, upon the  
 discretion of the Mediation Officer, may attend the mediation conferences in the role of an  
@@ -764,16 +764,16 @@ parties. Upon request of both parties, the Mediation Officer may authorize the c
 mediation conference at any other venue, provided that all related expenses, including  
 transportation, food, and accommodation, shall be borne by both parties. If a change of venue  
 is requested by one party, it must be with the other’s conformity, and they shall agree on the  
-terms of handling the expenses. (a)
+terms of handling the expenses.
 
 SECTION 12. Mediation period and extension. – The Mediation Officer shall endeavor to  
 achieve a mediated settlement of the dispute within sixty (60) calendar days from the  
-Preliminary Mediation Conference. (a)
+Preliminary Mediation Conference.
 
 Upon reasonable ground to believe that settlement may yet be achieved beyond the initial  
 mediation period of sixty (60) calendar days, the Mediation Officer may extend the mediation  
 period for another thirty (30) calendar days for good cause shown. In all instances, the  
-mediation period shall not exceed ninety (90) calendar days. (n)
+mediation period shall not exceed ninety (90) calendar days.
 
 SECTION 13. Mediated Settlement Agreement. – A mediated settlement agreement following  
 successful mediation shall be jointly prepared and executed by the parties or their  
@@ -783,7 +783,7 @@ mediated settlement agreement and execute the agreement. The execution of a medi
 settlement agreement shall terminate the mediation proceedings. The Mediation Officer shall  
 certify that the contents of the agreement have been explained, understood, and mutually  
 agreed upon by the parties, and that the provisions are not contrary to law, public policy,  
-morals, or good customs. (a)
+morals, or good customs.
 
 SECTION 14. Confirmation Conference. – The Mediation Officer shall require the parties to  
 attend a confirmation conference prior to the endorsement of their mediated settlement  
@@ -802,7 +802,7 @@ settlement agreement shall be deemed waived.
 
 When the agreement involves future obligations or obligations susceptible to partial  
 fulfillment beyond the mediation period, the party responsible shall submit proof of  
-compliance to the Enforcement Division (EnD). (n)
+compliance to the Enforcement Division (EnD).
 
 SECTION 15. Confirmation by the Commission. – The Mediation Officer shall issue a  
 resolution submitting the signed mediated settlement agreement to the Commission within  
@@ -811,12 +811,12 @@ issue a resolution confirming the mediated settlement agreement within thirty (3
 
 days from submission of the resolution and mediated settlement agreement. Copies of the  
 resolution issued by the Commission shall be furnished to the parties, the Investigating  
-Officer, and the Mediation Officer. (a)
+Officer, and the Mediation Officer.
 
 SECTION 16. Effect of confirmed Mediated Settlement Agreement. – A confirmed mediated  
 settlement agreement shall have the effect of a decision or judgment on the complaint but  
 without prejudice to Rule X of these Rules and shall be enforced in accordance with the NPC’s  
-rules and issuances. (a)
+rules and issuances.
 
 SECTION 17. Failure to reach settlement. – If the parties are unable to arrive at a settlement  
 of their dispute, or it becomes apparent that a settlement, given the disparity of the respective  
@@ -824,18 +824,18 @@ positions of the parties, is not likely or achievable within the sixty (60) cale
 period or the reasonable extension of such period under Section 12 of this Rule, the Mediation  
 Officer may declare the mediation unsuccessful and terminate the proceedings by issuing a  
 Notice of Non-Settlement of Dispute and furnishing copies to the Investigating Officer and  
-the parties. (a)
+the parties.
 
 Parties may be allowed to re-apply for mediation despite a prior failure to reach settlement,  
 unless otherwise permanently prohibited in accordance with Section 9 of this Rule: Provided,  
 that the application is filed before the endorsement of the case for decision by the Commission:  
-Provided further, that the application is done in compliance with this Rule. (n)
+Provided further, that the application is done in compliance with this Rule.
 
 SECTION 18. Resumption of complaint proceedings. – Upon receipt of the Notice of Non-  
 Settlement of Dispute issued by the Mediation Officer, the Investigating Officer shall issue an  
 order lifting the suspension of the complaint proceedings, which shall resume as a matter of  
 course. Copies of the order, including the notice of the next hearing date of the complaint  
-proceedings, shall be furnished to all the parties. (a)
+proceedings, shall be furnished to all the parties.
 
 SECTION 19. Confidentiality of proceedings. – The mediation conferences shall be held in  
 private. Persons other than the parties, their representatives, counsel, and the Mediation  
@@ -888,7 +888,7 @@ has been submitted for decision to the Commission.
 
 For cases recommended for outright dismissal under Rule IV, Section 1 of these Rules, the  
 Investigating Officer shall submit to the LEO Director a Fact-Finding Report, including the  
-basis and recommendation for outright dismissal of the complaint. (n)
+basis and recommendation for outright dismissal of the complaint.
 
 SECTION 4. Withdrawal of the complaint. - At any period before the submission of the Fact-  
 Finding Report, the complainant may withdraw the complaint upon approval of the  
@@ -918,7 +918,7 @@ following shall be observed:
       their questions to the Commission for its consideration;
 
    d. The Commission may require the parties to submit their respective memoranda  
-      containing their arguments on the facts and issues for resolution. (a)
+      containing their arguments on the facts and issues for resolution.
 
 SECTION 2. Additional issues to be raised before the Commission. – Upon motion, both  
 parties may raise as an issue during adjudication any interlocutory order or decision issued  
@@ -939,14 +939,14 @@ based on the grounds in Rule IV, Section 1 of these Rules; or (2) remand the com
 investigation and require the respondent to file a verified comment to the complaint and  
 appear for preliminary conference. Provided, the dismissal shall be without prejudice to the  
 refiling with the NPC in accordance with the Rules, or filing of appropriate civil, criminal, or  
-administrative cases against the respondent before any other forum or tribunal, if any. (n)
+administrative cases against the respondent before any other forum or tribunal, if any.
 
 SECTION 4. Decision for Cases where Complainant files an Affidavit of Desistance. – The  
 LEO Director shall review the evidence presented, including the Fact-Finding Report,  
 evidence on record, and any other supporting documents. Based on the review, the LEO  
 Director shall promulgate a decision. The dismissal shall be with prejudice to the refiling with  
 the NPC, but without prejudice to the filing of appropriate civil, criminal, or administrative  
-cases against the respondent before any other forum or tribunal, if any. (n)
+cases against the respondent before any other forum or tribunal, if any.
 
 SECTION 5. Refiling of complaint or motion for reconsideration on the decision issued by  
 the Legal and Enforcement Office. – The complainant may refile the complaint with the NPC  
@@ -955,7 +955,7 @@ Otherwise, the decision of the LEO Director shall become final and executory wit
 (15) calendar days from notice thereof with proof of service on the adverse party. If the  
 complainant files a motion for reconsideration, the motion for reconsideration shall be  
 endorsed to the Commission for its resolution within fifteen (15) calendar days from the LEO  
-Director’s receipt of such motion. (n)
+Director’s receipt of such motion.
 
 SECTION 6. Rendition of decision. – The decision of the Commission shall resolve the issues  
 on the basis of all the evidence on record and its own consideration of the law. The decision  
@@ -979,20 +979,20 @@ may include enforcement orders on the following:
 
     f. an imposition of fines for violations of the [[laws/data-privacy-act-of-2012|DPA]] or NPC issuances; or
 
-    g. any other order to enforce compliance with the [[laws/data-privacy-act-of-2012|DPA]]. (a)
+    g. any other order to enforce compliance with the [[laws/data-privacy-act-of-2012|DPA]].
 
 SECTION 7. Motion for reconsideration on the decision issued by the Commission. – The  
 decision of the Commission shall become final and executory fifteen (15) calendar days from  
 notice thereof with proof of service to the adverse party. One motion for reconsideration may  
 be filed, which shall suspend the running of the period. Any appeal from the decision shall be  
-to the proper courts, in accordance with law and the rules. (a)
+to the proper courts, in accordance with law and the rules.
 
 SECTION 8. Entry of judgments and final orders. — If no appeal or motion for  
 reconsideration is filed within the time provided in these Rules, the judgment shall attain  
 finality, and an entry of judgment shall be issued to the parties. The date when the judgment  
 becomes executory shall be deemed as the date of its entry. The entry of judgment shall  
 contain the dispositive portion of the judgment with a certificate that such judgment has  
-become final and executory. (a)
+become final and executory.
 
 ## RULE IX BAN ON PROCESSING OF PERSONAL DATA
 
@@ -1072,7 +1072,7 @@ possible data privacy violation or data breach in cases of, but not exclusive to
 arose from pending cases before the NPC, including those that have resulted in a confirmed  
 mediated settlement agreement, reports from the daily news, trends or academic studies,  
 information gathered from corroborated and substantiated anonymous tips, or reports from  
-other offices of the NPC or government agencies. (a)
+other offices of the NPC or government agencies.
 
 SECTION 2. Temporary and permanent ban on processing of personal data. – A temporary  
 or permanent ban on processing of personal data may be imposed on the subject of a sua sponte  
@@ -1090,7 +1090,7 @@ on-site examination of systems and procedures. In the course of the investigatio
 subject of the investigation may be required to furnish additional information, document, or  
 evidence, or to produce additional witnesses, or to appear for an investigation hearing or  
 clarificatory conference before the Investigating Officer, special committee, or taskforce, or the  
-Commission, in accordance with Rule VIII, Section 1. (a)
+Commission, in accordance with Rule VIII, Section 1.
 
 SECTION 5. Request for case files during the conduct of a sua sponte investigation. – Within  
 fifteen (15) calendar days upon receipt of a request for case files by the parties-in-interest  
@@ -1113,13 +1113,13 @@ party and duly protected by a password.
 The requested case files shall include documents and communications between the requesting  
 party and the NPC, together with its attachments. Documents that are internal in nature, such  
 as, but not limited to, Technical Reports, Minutes of the Meeting, and Memorandum within  
-the NPC, shall be excluded. Third-party reports and submissions shall also be excluded. (n)
+the NPC, shall be excluded. Third-party reports and submissions shall also be excluded.
 
 SECTION 6. Sua Sponte Fact-Finding Report. – Within thirty (30) calendar days from the  
 termination of the investigation, the Investigating Officer or special committee or task force  
 shall submit to the Commission a Fact-Finding Report, which shall include the results of the  
 investigation, the evidence gathered, and any recommendations. In a sua sponte investigation,  
-the Fact-Finding Report serves as the complaint, with the CID as the nominal complainant. (a)
+the Fact-Finding Report serves as the complaint, with the CID as the nominal complainant.
 
 SECTION 7. Order to comment. – Upon receipt by the Commission of the Fact-Finding  
 Report, the respondent identified after the conduct of the preceding investigation shall be  
@@ -1127,7 +1127,7 @@ provided a copy of the Fact-Finding Report and its annexes and given an opportun
 submit a comment or other pleadings, if necessary. In cases where the respondent or  
 respondents fail without justification to submit a comment or appear before the NPC when so  
 ordered, the Commission shall render its decision on the basis of available information under  
-Rule VIII of these Rules. (a)
+Rule VIII of these Rules.
 
 SECTION 8. Existence of a complaint during sua sponte investigation and vice versa, effect.  
 – If, during the proceedings of a sua sponte investigation, a formal complaint relating to the  
@@ -1139,24 +1139,24 @@ complaint proceedings: Provided finally, that a mediated settlement agreement sh
 terminate the complaint proceedings but not the sua sponte investigation.
 
 The preceding paragraph shall likewise apply if the complaint proceedings occurred first, and  
-the NPC wishes to initiate a sua sponte investigation thereafter. (a)
+the NPC wishes to initiate a sua sponte investigation thereafter.
 
 ## RULE XI BREACH INVESTIGATION
                 (Amended and renumbered pursuant to [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2024-01]])
 
 SECTION 1. Procedure for data breach notification. – The procedure for data breach  
 notification and other requirements shall be governed by the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances  
-pertaining to data breach management. These Rules shall apply in a suppletory character. (a)
+pertaining to data breach management. These Rules shall apply in a suppletory character.
 
 SECTION 2. Receipt of data breach notifications. – The CMD shall be the initial recipient of  
 data breach notifications and shall immediately assign an Evaluating Officer to review the  
-data breach notification. (a)
+data breach notification.
 
 SECTION 3. Preliminary requests that shall be resolved by CMD. – Upon receipt of the data  
 breach notification, the Evaluating Officer shall recommend to resolve preliminary requests  
 from the PIC or PIP for (a) extensions to notify data subjects or (b) extensions to file full breach  
 report. The preliminary requests for extensions granted by the CMD shall be for a period of  
-twenty (20) calendar days counted from the date of the request. (a)
+twenty (20) calendar days counted from the date of the request.
 
 SECTION 4. Preliminary requests and related Motions that must be endorsed to the  
 Commission. – The CMD shall endorse to the Commission the following requests from the  
@@ -1178,32 +1178,32 @@ PIC or PIP:
        other related pleadings.
 
 The Commission may delegate to the CMD the resolution of Section 4 (a)(iii) and (b) as  
-deemed necessary. (a)
+deemed necessary.
 
 SECTION 5. Initial breach notification evaluation and monitoring. – The Evaluating Officer  
 shall review the completeness of the data breach notification and determine the other  
 documents needed to assess the PIC or PIP’s breach management. The PIC or PIP may be  
-directed to submit additional documents through an order. (a)
+directed to submit additional documents through an order.
 
 Further, the CMD shall monitor the compliance of the PIC or PIP with the periods provided  
 in the NPC issuances on data breach and the subsequent extensions allowed under the  
-preceding sections. (a)
+preceding sections.
 
 In case of non-compliance, the CMD may apply for a Cease-and-Desist Order in accordance  
-with the NPC issuances pertaining to the matter. (n)
+with the NPC issuances pertaining to the matter.
 
 SECTION 6. Final breach notification evaluation. – Upon receipt of all the documents  
 required to assess the PIC or PIP’s breach management, the Evaluating Officer shall prepare  
-a Breach Notification Evaluation Report based on information available on record. (a)
+a Breach Notification Evaluation Report based on information available on record.
 
 The report may contain a recommendation of a possible violation of the [[laws/data-privacy-act-of-2012|DPA]] arising from the  
 breach matter and a recommendation for the imposition of administrative fines on other  
-infractions. (n)
+infractions.
 
 Upon the finding of a possible data privacy violation that requires further investigation, the  
 CMD shall endorse the Final Breach Notification Evaluation Report to the Commission for the  
 resolution of the breach case while endorsing the matter to the CID for further investigation  
-for a possible data privacy violation. (a)
+for a possible data privacy violation.
 
 SECTION 7. Conduct of breach investigation. – Upon receipt of the Final Breach Notification  
 Evaluation Report, an Investigating Officer shall determine if there is a necessity to conduct
@@ -1212,12 +1212,12 @@ an on-site or technical investigation. The Investigating Officer shall request p
 from the NPC before conducting any on-site or technical investigation. The Investigating  
 Officer may also request assistance from the technical personnel of the NPC. In the course of  
 the investigation, the complainant and respondent may be required to furnish additional  
-information, document, or evidence, or to produce additional witnesses. (a)
+information, document, or evidence, or to produce additional witnesses.
 
 SECTION 8. Fact-Finding Report – The Investigating Officer shall submit to the Commission  
 a Fact-Finding Report within thirty (30) calendar days from the termination of the on-site or  
 technical investigation or receipt of the Final Breach Notification Evaluation Report,  
-whichever is applicable. (a)
+whichever is applicable.
 
 SECTION 9. Order to comment. – Upon receipt by the Commission of the Fact-Finding  
 Report, the respondent identified after the conduct of the preceding investigation shall be  
@@ -1225,36 +1225,36 @@ provided with a copy of the Fact- Finding Report and its annexes and given an op
 to submit a comment or other pleadings, if necessary. In cases where the respondent fails  
 without justification to submit a comment or other pleadings, or appear before the NPC when  
 so ordered, the Commission shall render its decision on the basis of available information  
-under Rule VIII of these Rules. (a)
+under Rule VIII of these Rules.
 
 SECTION 10. Failure to submit breach notification. – Should the NPC receive information  
 that a possible data breach occurred, but the PIC or PIP did not submit any notification to the  
-NPC, the CID may use this information to initiate a sua sponte investigation under Rule X. (a)
+NPC, the CID may use this information to initiate a sua sponte investigation under Rule X.
 
 During the sua sponte investigation, if a breach notification is submitted by the PIC or PIP, the  
 CID shall continue with its sua sponte investigation on violations of the [[laws/data-privacy-act-of-2012|DPA]] and NPC  
 issuances for possible recommendations for prosecution with the Department of Justice or  
 imposition of administrative fines. The CMD shall, for its part, evaluate the breach matter  
-submitted and recommend the imposition of administrative fines, if warranted. (n)
+submitted and recommend the imposition of administrative fines, if warranted.
 
 SECTION 11. Post-breach monitoring and compliance. – The CMD shall monitor compliance  
 of PICs or PIPs with the orders and resolutions issued by the Commission during its  
-evaluation of the data breach matter. (a)
+evaluation of the data breach matter.
 
 The EnD shall ensure the enforcement and monitoring of compliance of all other judgments,  
-resolutions, decisions, or orders issued by the Commission. (n)
+resolutions, decisions, or orders issued by the Commission.
 
 ## RULE XII COMPLIANCE CHECKS
                        (Rule added pursuant to [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2024-01]])
 
 SECTION 1. Procedure for Compliance Checks. – The procedure for Compliance Checks and  
 other requirements shall be governed by the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances pertaining to  
-Compliance Checks. These Rules shall apply in a suppletory character. (n)
+Compliance Checks. These Rules shall apply in a suppletory character.
 
 SECTION 2. Conduct of Privacy Sweep. – The CMD shall conduct a Privacy Sweep of all  
 publicly available or accessible information, including, but not limited to websites, mobile  
 applications, raffle coupons, brochures, privacy notices, social media pages or accounts, and  
-physical or digital forms of a PIC or PIP. (n)
+physical or digital forms of a PIC or PIP.
 
 SECTION 3. On-the-spot Privacy Sweep. – The CMD may also conduct on-the-spot Privacy  
 Sweep on the premises, pop-up stores, kiosks, or stalls of a PIC or PIP where personal data is
@@ -1262,7 +1262,7 @@ Sweep on the premises, pop-up stores, kiosks, or stalls of a PIC or PIP where pe
 processed. The Privacy Sweep shall be limited to public areas and publicly available or  
 accessible information. The CMD may verify the PIC or PIP’s compliance by examining all  
 physical or digital forms, including, but not limited to data processing systems, logbooks,  
-raffle coupons, brochures, and posters used in the PIC or PIP’s operations. (n)
+raffle coupons, brochures, and posters used in the PIC or PIP’s operations.
 
 SECTION 4. Issuance of Warning Letter or Notice of Documents Submission. –  
    a. Warning Letter: when applicable – The CMD shall issue a Warning Letter in the  
@@ -1290,7 +1290,7 @@ PIP may be directed to submit additional documents.
 
 The CMD shall monitor all compliance of the PIC or PIP, including the submission within the  
 periods provided in the NPC’s issuances on compliance checks and the subsequent extensions  
-allowed under Section 6 of this Rule. (n)
+allowed under Section 6 of this Rule.
 
 SECTION 6. Request for extension that shall be resolved by CMD. – If the PIC or the PIP  
 requests for additional time to comply with the Warning Letter, Notice of Documents  
@@ -1300,19 +1300,19 @@ extension, signed by the Data Protection Officer (DPO) or head of the organizati
 for additional time which shall not exceed a cumulative period of thirty (30) calendar days  
 counted from the date of the initial request. In case of refusal of the request for extension, the  
 CMD shall send the denial of the request for extension and order the PIC or PIP to submit the  
-same immediately. (n)
+same immediately.
 
 SECTION 7. Failure of the PIC or PIP to comply with the Warning Letter. – If the PIC or PIP  
 fails to comply within seven (7) calendar days from receipt of the Warning Letter, the CMD  
 shall order the PIC or PIP to show valid cause why it should not be subject to the NPC’s  
 issuance on administrative fines and other actions that the Commission may deem proper to  
-ensure compliance with the law. (n)
+ensure compliance with the law.
 
 SECTION 8. Failure of the PIC or PIP to comply with the Notice of Documents Submission.  
 – If the PIC or PIP fails to comply within fifteen (15) calendar days from receipt of the Notice  
 of Documents Submission, the CMD shall order the PIC or PIP to show valid cause why it  
 should not be subject to the NPC’s issuance on administrative fines and other actions the  
-Commission may deem proper to ensure compliance with the law. (n)
+Commission may deem proper to ensure compliance with the law.
 
 SECTION 9. Show cause order for non-compliance with the mandatory registration  
 requirement of the NPC. – If based on the findings in the Privacy Sweep conducted by the  
@@ -1320,7 +1320,7 @@ CMD, the PIC or PIP is subject to mandatory registration but has failed to regis
 shall issue a show cause order for non-registration directing the PIC or PIP to register its DPO  
 and Data Processing Systems within five (5) calendar days from receipt of the order. Non-  
 compliance with the show cause order may subject the PIC or PIP to administrative fines and  
-other actions the Commission may deem proper to ensure compliance with the law. (n)
+other actions the Commission may deem proper to ensure compliance with the law.
 
 SECTION 10. Conduct of On-Site Visit (OSV). – The CMD shall conduct an OSV to the PIC  
 or PIP’s principal place of business or where personal data is processed in cases where there  
@@ -1335,7 +1335,7 @@ personnel tasked to handle personal information processed by the PIC or PIP subj
 Compliance Check.
 
 The CMD may, in its discretion, directly conduct an OSV if it determines that the totality of  
-circumstances warrant such action, taking into account the succeeding provision. (n)
+circumstances warrant such action, taking into account the succeeding provision.
 
 SECTION 11. Considerations for the conduct of Compliance Checks. – A PIC or PIP may be  
 subject to a Compliance Check based on any of the following considerations:  
@@ -1359,7 +1359,7 @@ undergoing or scheduled for a Compliance Check, the Compliance Check shall be he
 to the rights and freedoms of data subjects.
 
 abeyance and the investigation shall be given precedence until such investigation has been  
-concluded or submitted further for adjudication. (n)
+concluded or submitted further for adjudication.
 
 SECTION 12. Service of orders. – The CMD shall send an order to a PIC or PIP on the conduct  
 of a Compliance Check through the electronic mail address used at the time it registered with  
@@ -1369,7 +1369,7 @@ may be found on websites or other social media pages or accounts and it shall be
 to the head of the organization.
 
 A PIC or PIP shall take the necessary steps to ensure that its registered e-mail address is  
-working and able to receive the order promptly. (n)
+working and able to receive the order promptly.
 
 SECTION 13. Notice of On-Site Visit. – A notice of OSV shall be issued by the CMD to the  
 PIC or PIP at least five (5) days before such visit. The notice shall include a list of required  
@@ -1377,18 +1377,18 @@ documents to be submitted by the PIC or PIP at least three (3) days prior to the
 
 The CMD shall present the physical copy of the notice and provide the list of authorized  
 personnel of the NPC to conduct the OSV. The authorized NPC personnel shall wear their  
-identification cards at all times. (n)
+identification cards at all times.
 
 SECTION 14. Issuance of Deficiency Report. – The CMD shall issue a Deficiency Report based  
 on the determination from the OSV that there are existing gaps in the PIC or PIP’s compliance  
-with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances. (n)
+with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances.
 
 SECTION 15. Issuance of Notice of Deficiencies. – If the PIC or PIP fails to address the issues  
 raised in a Deficiency Report or is determined to be non-compliant with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and  
 other issuances of the NPC after being subjected to any of the modes of Compliance Checks,  
 the CMD shall issue the Notice of Deficiencies indicating the period of time within which to  
 correct the identified deficiencies, which shall not be less than ten (10) days from receipt of  
-the Notice. (n)
+the Notice.
 
 SECTION 16. Issuance of Compliance Order. – The Commission shall issue a Compliance  
 Order in any of the following instances:  
@@ -1411,11 +1411,11 @@ Order in any of the following instances:
       information.  
 Compliance Orders shall state the deficiencies remaining or actions to be taken, the period  
 within which to undertake the corrections ordered by the Commission, and the period to  
-report such actions. (n)
+report such actions.
 
 SECTION 17. Issuance of other orders. – The Commission, through the CMD, may issue  
 pertinent orders in connection with the conduct or furtherance of a Compliance Check or the  
-assessment of any PIC or PIP’s compliance with any orders in relation thereto. (n)
+assessment of any PIC or PIP’s compliance with any orders in relation thereto.
 
 SECTION 18. Refusal to undergo Compliance Check. – A PIC or PIP who, without good  
 reason and despite due notice, refuses or prevents the CMD from performing a Compliance  
@@ -1439,7 +1439,7 @@ case of refusal, the following provisions shall govern:
       submit an explanation to the order cited in the preceding paragraphs, or if the  
       explanation does not present a compelling reason to justify such refusal or failure, may  
       subject a PIC or PIP to contempt proceedings, as may be permitted by law, before the  
-      appropriate court, or such other actions as may be available to the Commission. (n)
+      appropriate court, or such other actions as may be available to the Commission.
 
 SECTION 19. Certificate of No Significant Findings. – The CMD shall issue a Certificate of  
 No Significant Findings to a PIC or PIP that has undergone document submission or an OSV,  
@@ -1449,7 +1449,7 @@ Report or Notice of Deficiencies have already been addressed to the satisfaction
 The issuance of this certificate is without prejudice to any other recommendation being made  
 by the CMD for the improvement of the PIC or PIP’s compliance with the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC  
 issuances. The issuance of this certificate does not bar an investigation for any possible liability  
-arising from complaints and/or personal data breaches filed before the NPC. (n)
+arising from complaints and/or personal data breaches filed before the NPC.
 
 ## RULE XIII MISCELLANEOUS PROVISIONS
                 (Amended and renumbered pursuant to [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2024-01]])
@@ -1459,10 +1459,10 @@ effectivity. It shall also apply to pending proceedings, except to the extent th
 application would not be feasible or would work injustice.
 
 SECTION 2. Procedure for Cease-and-Desist Orders. – Procedure for the issuance of Cease-  
-and-Desist Orders shall be governed by NPC issuances pertaining to the matter. (a)
+and-Desist Orders shall be governed by NPC issuances pertaining to the matter.
 
 SECTION 3. Procedure for breach notification. – Procedure for data breach notification to the  
-Commission shall be governed by the NPC issuances pertaining to the matter. (n)
+Commission shall be governed by the NPC issuances pertaining to the matter.
 
 SECTION 4. Request for case files. – Copies of the case files may be requested by any party  
 to the complaint or their authorized representative, lawful heirs, and assigns, in accordance  
@@ -1473,14 +1473,14 @@ representative is authorized by a special power of attorney. Provided further, t
 a party is a juridical person, the representative is authorized by a Board Resolution contained  
 in a duly notarized Secretary’s Certificate or its equivalent for a government agency[^11].  
 Provided finally, that in case where the files are requested by the heirs, assigns, or successors-  
-in-interest, proof of authority or relationship must be presented. (n)
+in-interest, proof of authority or relationship must be presented.
 
 SECTION 5. Procedure for requests for advisory opinion. – Procedure for requests for  
-advisory opinion shall be governed by NPC issuances pertaining to the matter. (a)
+advisory opinion shall be governed by NPC issuances pertaining to the matter.
 
 SECTION 6. Procedure for enforcement of administrative fines. – Procedure for the  
 enforcement of administrative fines shall be governed by NPC issuances pertaining to the  
-matter. (n)
+matter.
 
 SECTION 7. Procedure for videoconferencing technology. - Procedure for the use of  
 videoconferencing technology for the remote appearance and testimony of parties before the  
@@ -1488,7 +1488,7 @@ NPC shall be governed by NPC issuances pertaining to the matter. Notwithstanding
 provision of these Rules, the conduct of preliminary conferences, summary hearings,  
 mediation conferences, investigations, clarificatory hearings, and all other hearings may be  
 conducted through videoconferencing technology at the discretion of the concerned division  
-or Commission. (a)
+or Commission.
 
 SECTION 8. Repealing clause. – NPC Circulars No. 2016-04 and 2018-03 are hereby repealed.  
 All other issuances by the Commission which are contrary to the provisions of these Rules are  

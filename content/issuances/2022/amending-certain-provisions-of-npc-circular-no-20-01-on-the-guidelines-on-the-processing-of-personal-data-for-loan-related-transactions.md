@@ -17,8 +17,6 @@ draft: false
 
 **Circular No. 2022**
 
-                 PERSONAL DATA FOR LOAN-RELATED TRANSACTIONS
-
 SECTION 1. Objective. — This Circular aims to expound on [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 20-01]] to  
 respond to exigencies in the processing of personal data for loan-related transactions by  
 lending and financing companies and other persons acting as such.
@@ -131,19 +129,13 @@ hereby amended as stated below:
 
      C. The following provisions shall be added to Section 3:
 
-          G. LCs, FCs, and other persons acting as such shall, as part of their  
-             registration with the NPC, submit a complete list of the names of all  
-             publicly available applications owned or operated by such entities  
-             including all publicly available online applications used for loan  
-             processing activities, in accordance with the applicable Rules on  
-             Registration of Data Processing Systems and Notifications regarding  
+          G. LCs, FCs, and other persons acting as such shall, as part of their
+             registration with the NPC, submit a complete list of the names of all
+             publicly available applications owned or operated by such entities
+             including all publicly available online applications used for loan
+             processing activities, in accordance with the applicable Rules on
+             Registration of Data Processing Systems and Notifications regarding
              Automated Decision-Making;
-
-
-Lending Companies (LC),” SEC Memorandum Circular No. 18, series of 2019 [SEC MEMO. CIRC. 18, s. 2019], § 1 (19 August  
-2019): Unfair collection practices are as those which use or involve threats of use of violence or other criminal means to harm  
-the physical person, reputation or property of any person, as well as those which use threats to take any action that cannot be  
-legally taken.
 
         H. PIPs or third-party service providers operating in the Philippines,  
            engaged by LCs, FCs, and other persons acting as such, shall likewise be  
@@ -231,13 +223,7 @@ effectivity of this Circular or within thirty (30) days from the availability of
 registration system, whichever comes later.
 
 All online applications which will be made publicly available after the effectivity of this  
-Circular shall be registered with the Commission in accordance with Section 2 (C) of this
-
-
-and Lending Companies (LC),” SEC Memorandum Circular No. 18, series of 2019 [SEC MEMO. CIRC. 18, s. 2019], § 1 (19  
-August 2019).
-
-Circular.
+Circular shall be registered with the Commission in accordance with Section 2 (C) of this Circular.
 
 SECTION 4. Separability Clause. — If any portion or provision of this Circular is  
 declared null and void, or unconstitutional, the other provisions not affected thereby shall  
@@ -263,8 +249,8 @@ Approved:
 ## Footnotes
 
 [^1]: Metadata as used in this Circular is understood to be any information that may define or describe contact lists.
-[^2]: Securities and Exchange Commission, “Prohibition on Unfair Debt Collection Practices of Financing Companies (FC) and
-[^3]: See: Securities and Exchange Commission, “Prohibition on Unfair Debt Collection Practices of Financing Companies (FC)
+[^2]: Securities and Exchange Commission, “Prohibition on Unfair Debt Collection Practices of Financing Companies (FC) and Lending Companies (LC),” SEC Memorandum Circular No. 18, series of 2019 [SEC MEMO. CIRC. 18, s. 2019], § 1 (19 August 2019): Unfair collection practices are as those which use or involve threats of use of violence or other criminal means to harm the physical person, reputation or property of any person, as well as those which use threats to take any action that cannot be legally taken.
+[^3]: See: Securities and Exchange Commission, “Prohibition on Unfair Debt Collection Practices of Financing Companies (FC) and Lending Companies (LC),” SEC Memorandum Circular No. 18, series of 2019 [SEC MEMO. CIRC. 18, s. 2019], § 1 (19 August 2019).
 
 ## Source And Notes
 - Companion note: [[notes/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Analysis and metadata]]

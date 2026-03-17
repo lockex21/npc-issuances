@@ -18,159 +18,63 @@ draft: false
 
 **Circular No. 2025-01**
 
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 694ac49b052fc2c82334e14461347d0544cf84c3 -->
-NPC Circular No. 2025 - 01
+**DATE:** 26 May 2025
 
-DATE                    : 26 May 2025
+**SUBJECT:** Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras
 
-SUBJECT                 : GUIDELINES ON THE PROCESSING OF PERSONAL  
-                          DATA COLLECTED USING BODY-WORN CAMERAS
+SECTION 1. Scope and Purpose. — This Circular applies to personal information controllers (PICs) and personal information processors (PIPs) engaged in the processing of personal data through the use of Body-Worn Cameras (BWCs) and alternative recording devices (ARDs). This Circular aims to establish protocols for the protection of data subjects’ personal data and their data privacy rights, ensuring accountability in personal data processing activities involving BWCs and ARDs.
 
-SECTION 1. Scope and Purpose. — This Circular applies to personal information controllers  
-(PICs) and personal information processors (PIPs) engaged in the processing of personal data  
-through the use of Body-Worn Cameras (BWCs) and alternative recording devices (ARDs).  
-This Circular aims to establish protocols for the protection of data subjects’ personal data and  
-their data privacy rights, ensuring accountability in personal data processing activities  
-involving BWCs and ARDs.
+A. The use of BWCs or ARDs for purely personal, family, or household affairs shall be outside of the scope of this Circular. Nonetheless, the use of BWCs or ARDs in these instances shall still bear in mind the rights of every individual to data privacy.
 
-    A. The use of BWCs or ARDs for purely personal, family, or household affairs shall be  
-       outside of the scope of this Circular. Nonetheless, the use of BWCs or ARDs in these  
-       instances shall still bear in mind the rights of every individual to data privacy.
+B. For purposes of this Circular, purely personal, family, or household affairs refer to the uses that are not intended for profit or commercial gain and where footages are not uploaded, posted, published or otherwise shared online. This includes the use of BWCs or ARDs by individuals, e.g., motorcycle drivers, bicyclists, etc., for personal security purposes. Nevertheless, the totality of the circumstances surrounding the use of BWCs or ARDs will be considered in determining whether the specific activity falls under the exception.
 
-    B. For purposes of this Circular, purely personal, family, or household affairs refer to the  
-       uses that are not intended for profit or commercial gain and where footages are not  
-       uploaded, posted, published or otherwise shared online. This includes the use of  
-       BWCs or ARDs by individuals, e.g., motorcycle drivers, bicyclists, etc., for personal  
-       security purposes. Nevertheless, the totality of the circumstances surrounding the use  
-       of BWCs or ARDs will be considered in determining whether the specific activity falls  
-       under the exception.
+The following factors may be considered in determining whether a specific activity falls outside the scope of the personal, family, or household affairs exception:
 
-        The following factors may be considered in determining whether a specific activity  
-        falls outside the scope of the personal, family, or household affairs exception:
+1. Dissemination of personal data to an indefinite number of people;
 
-        1. Dissemination of personal data to an indefinite number of people;  
-        2. Processing may have an adverse impact on the rights and freedoms of the involved  
-           data subjects; and  
-        3. Processing of personal data about data subjects who have no personal, family, or  
-           household relationship with the person engaged in the processing.1
+2. Processing may have an adverse impact on the rights and freedoms of the involved data subjects; and
 
-SECTION 2. Definition of Terms. — Terms used in the Data Privacy Act of 2012 (DPA) and  
-its Implementing Rules and Regulations (IRR), as amended, and other NPC issuances, are  
-adopted herein. In addition, whenever used in this Circular, the following terms are defined  
-as follows:
+3. Processing of personal data about data subjects who have no personal, family, or household relationship with the person engaged in the processing.[^1]
 
-PROTECTION WORKING PARTY Statement of the Working Party on current discussions regarding the data  
-protection reform package, Annex 2 Proposals for Amendments regarding exemption for personal or household  
-activities (2013).
+SECTION 2. Definition of Terms. — Terms used in the Data Privacy Act of 2012 (DPA) and its Implementing Rules and Regulations (IRR), as amended, and other NPC issuances, are adopted herein. In addition, whenever used in this Circular, the following terms are defined as follows:
 
-    A. “Alternative Recording Device” or “ARD” refers to an electronic device or gadget with  
-       a camera system, other than a BWC, that is capable of creating, generating, sending,  
-       receiving, storing, displaying, and processing audio-visual recording and is capable of  
-       being bodily worn, handheld, attached to the person of an individual or operated as  
-       an alternative or substitute for BWC. This includes, but is not limited to, digital  
-       cameras, mobile phones, action cameras, smart watches or smart eyeglasses, and other  
-       similar devices.
+A. “Alternative Recording Device” or “ARD” refers to an electronic device or gadget with a camera system, other than a BWC, that is capable of creating, generating, sending, receiving, storing, displaying, and processing audio-visual recording and is capable of being bodily worn, handheld, attached to the person of an individual or operated as an alternative or substitute for BWC. This includes, but is not limited to, digital cameras, mobile phones, action cameras, smart watches or smart eyeglasses, and other similar devices.
 
-    B. “Body-Worn Camera” or “BWC” refers to an electronic camera worn by a person that  
-       is capable and intended for creating, generating, sending, receiving, storing,  
-       displaying, and processing audio-visual recordings;
+B. “Body-Worn Camera” or “BWC” refers to an electronic camera worn by a person that is capable and intended for creating, generating, sending, receiving, storing, displaying, and processing audio-visual recordings;
 
-    C. “Data Custodian” refers to an officer or personnel formally designated by the Personal  
-       Information Controller (PIC) to be responsible for the secure storage, safekeeping,  
-       access control, and overall management of personal data, including audio-visual  
-       recordings and metadata, generated through BWCs and ARDs;
+C. “Data Custodian” refers to an officer or personnel formally designated by the Personal Information Controller (PIC) to be responsible for the secure storage, safekeeping, access control, and overall management of personal data, including audio-visual recordings and metadata, generated through BWCs and ARDs;
 
-    D. “Police Operations” refer to the categories of operations as defined under Rule 3 of the  
-       Revised Philippine National Police Operational Procedures:2
+D. “Police Operations” refer to the categories of operations as defined under Rule 3 of the Revised Philippine National Police Operational Procedures:[^2]
 
-        1. Patrol Operations – the most basic police function and known as the backbone of  
-           policing;  
-        2. Law Enforcement Operation – include service of warrant of arrest, implementation  
-           of search warrant, enforcement of visitorial powers of the Chiefs of Police, and  
-           other anti-criminality operations;  
-        3. Internal Security Operation – include counterterrorism operations and similar  
-           operations against other threat groups that are conducted to ensure internal  
-           security;  
-        4. Public Safety Operations - include critical incident management procedures,  
-           search, rescue and retrieval operations, hostage situation, civil disturbance  
-           management operation, management of health hazards and other operations that  
-           promote public safety;  
-        5. Special Police Operations - include high-risk checkpoint and roadblock operation,  
-           police assistance in the implementation of order from the court and other quasi-  
-           judicial bodies, security to major and special events, aircraft hijacking operations,  
-           visit, board, search and seizure of marine vessels, and similar police operations  
-           that are conducted by police units with specialized training on the peculiarity of  
-           the mission or purpose;  
-        6. Investigation Operations - include investigation of crime or incident, Scene of the  
-           Crime Operations (SOCO), administrative investigation and other investigative  
-           work necessary to determine facts and circumstances for filing cases criminally or  
-           administratively;  
-        7. Police Community Relations – include three interrelated dimensions to accomplish  
-           its mission namely: community affairs and development, public information, and  
-           information development operations to forge partnership and strengthen  
-           collaboration and linkages with the community;
+1. Patrol Operations – the most basic police function and known as the backbone of policing;
 
-2 Philippine National Police Manual  PNPM-DO-D-0-2-13-21, Revised Philippine National Police Operational  
-Procedure, September 2021, available at [https://akg.pnp.gov.ph/wp-content/uploads/2024/01/POP-Manual-](https://akg.pnp.gov.ph/wp-content/uploads/2024/01/POP-Manual-)  
-2021.pdf (last accessed October 21, 2024).
+2. Law Enforcement Operation – include service of warrant of arrest, implementation of search warrant, enforcement of visitorial powers of the Chiefs of Police, and other anti-criminality operations;
 
-    E. “Law Enforcement Agencies” or “LEAs” refer to persons engaged in police operations  
-       defined herein and other law enforcement functions, whether appointed, elected, or  
-       exercising delegated authority. These agencies include, but are not limited to, the  
-       Philippine National Police (PNP), Philippine Drug Enforcement Agency (PDEA),  
-       Land Transportation Office (LTO), Land Transportation Franchising and Regulatory  
-       Board (LTFRB), National Bureau of Investigation (NBI), Bureau of Immigration (BI),  
-       Bureau of Internal Revenue (BIR), Bureau of Customs (BOC), and Metropolitan Manila  
-       Development Authority (MMDA);
+3. Internal Security Operation – include counterterrorism operations and similar operations against other threat groups that are conducted to ensure internal security;
 
-    F. “Law Enforcement Officer” includes all officers of the law, whether appointed,  
-       delegated, deputized, or elected, who exercise police powers, especially the powers of  
-       arrest or detention;3
+4. Public Safety Operations - include critical incident management procedures, search, rescue and retrieval operations, hostage situation, civil disturbance management operation, management of health hazards and other operations that promote public safety;
 
-    G. “Metadata” refers to any digital identifiers that are captured as part of the actual  
-       recording, such as date, time, GPS coordinates, among others;4
+5. Special Police Operations - include high-risk checkpoint and roadblock operation, police assistance in the implementation of order from the court and other quasi-judicial bodies, security to major and special events, aircraft hijacking operations, visit, board, search and seizure of marine vessels, and similar police operations that are conducted by police units with specialized training on the peculiarity of the mission or purpose;
 
-    H. “Private Security Agency” or “PSA” refers to any person, natural or juridical, who  
-       contracts, recruits, furnishes or posts any security guard, to perform its functions or  
-       solicit individuals, businesses, firms, or private, public or government-owned or -  
-       controlled corporations (GOCCs) to engage its service or those of its security guards,  
-       for hire, commission or compensation through subscription or as a consultant/trainer  
-       to any private or public corporation whose business or transactions involve national  
-       security or interest like the operation and/or management of domestic or ocean  
-       vessels, airplanes, helicopters, seaports, airports, heliports, landing strips among  
-       others or as consultant on any security related matter, or to provide highly specialized  
-       security, private escort, detective and investigation services like gangway security,  
-       catering security, passenger profiling, baggage examination, providing security on  
-       board vessels or aircraft, or other security needs that the PNP may approve;5
+6. Investigation Operations - include investigation of crime or incident, Scene of the Crime Operations (SOCO), administrative investigation and other investigative work necessary to determine facts and circumstances for filing cases criminally or administratively;
 
-    I.   “Recording” refers to any digital material generated as a result of using BWCs or  
-         ARDs which contains images, audio, and video footages;6
+7. Police Community Relations – include three interrelated dimensions to accomplish its mission namely: community affairs and development, public information, and information development operations to forge partnership and strengthen collaboration and linkages with the community;
 
-    J.   “Vlogger“ refers to someone who makes video blogs or vlogs (recording of thoughts,  
-         ideas, or opinions on a subject) and posts them on the internet.7
+E. “Law Enforcement Agencies” or “LEAs” refer to persons engaged in police operations defined herein and other law enforcement functions, whether appointed, elected, or exercising delegated authority. These agencies include, but are not limited to, the Philippine National Police (PNP), Philippine Drug Enforcement Agency (PDEA), Land Transportation Office (LTO), Land Transportation Franchising and Regulatory Board (LTFRB), National Bureau of Investigation (NBI), Bureau of Immigration (BI), Bureau of Internal Revenue (BIR), Bureau of Customs (BOC), and Metropolitan Manila Development Authority (MMDA);
 
-SECTION 3. Principles; lawful basis for processing. — The processing of personal data  
-through BWCs or ARDs shall be subject to the following requirements.
+F. “Law Enforcement Officer” includes all officers of the law, whether appointed, delegated, deputized, or elected, who exercise police powers, especially the powers of arrest or detention;[^3]
 
-3 See generally: United Nations, Code of Conduct for Law Enforcement Officials, Adopted by General Assembly
+G. “Metadata” refers to any digital identifiers that are captured as part of the actual recording, such as date, time, GPS coordinates, among others;[^4]
 
-resolution 34/169 of 17 December 1979, available at  
-[https://www.ohchr.org/Documents/ProfessionalInterest/codeofconduct.pdf](https://www.ohchr.org/Documents/ProfessionalInterest/codeofconduct.pdf) (last accessed 19 June 2021).  
-4 PNP Memorandum Circular No. 2018-009, § 4 (d).  
-5 An Act Strengthening The Regulation Of The Private Security Services Industry, Repealing For The Purpose,
+H. “Private Security Agency” or “PSA” refers to any person, natural or juridical, who contracts, recruits, furnishes or posts any security guard, to perform its functions or solicit individuals, businesses, firms, or private, public or government-owned or -controlled corporations (GOCCs) to engage its service or those of its security guards, for hire, commission or compensation through subscription or as a consultant/trainer to any private or public corporation whose business or transactions involve national security or interest like the operation and/or management of domestic or ocean vessels, airplanes, helicopters, seaports, airports, heliports, landing strips among others or as consultant on any security related matter, or to provide highly specialized security, private escort, detective and investigation services like gangway security, catering security, passenger profiling, baggage examination, providing security on board vessels or aircraft, or other security needs that the PNP may approve;[^5]
 
-Republic Act No. 5487, Entitled “Ac Act To Regulate The Organization And Operation Of Private Detective  
-Watchmen Or Security Guard Agencies”, As Amended [The Private Security Services Industry Act] Republic Act  
-No. 11917 (2022).  
-6 Supreme Court of the Philippines, Rules on the Use of Body-Worn Cameras in the Execution of Warrants [A.M.
+I. “Recording” refers to any digital material generated as a result of using BWCs or ARDs which contains images, audio, and video footages;[^6]
 
-No. 21-06-08-SC], Rule 1, § 4 (5) (June 29, 2021).  
-7 See: Cambridge Dictionary entry for vlogger, available at
+J. “Vlogger” refers to someone who makes video blogs or vlogs (recording of thoughts, ideas, or opinions on a subject) and posts them on the internet.[^7]
 
-[https://dictionary.cambridge.org/us/dictionary/english/vlogger](https://dictionary.cambridge.org/us/dictionary/english/vlogger) (last accessed Jan. 10, 2025).
+SECTION 3. Principles; lawful basis for processing. — The processing of personal data through BWCs or ARDs shall be subject to the following requirements.
 
-    A. Law enforcement; security. BWCs or ARDs shall be used in a manner consistent with the  
+A. Law enforcement; security. BWCs or ARDs shall be used in a manner consistent with the  
        aim of ensuring the protection of the fundamental rights and freedoms of all data  
        subjects, including law enforcement officers and security guards. Personal data  
        processing of LEAs and PSAs shall adhere to the following:
@@ -395,8 +299,7 @@ their rights under Sections 16 to 18 of the DPA shall be provided.
         1. PICs are required to inform the data subjects with relevant information at the next  
            practical opportunity which depends upon the surrounding circumstance of the  
            case.  
-        2. The timing of the provision of information must always be within a reasonable  
-           period to give effect to the data subject’s right to be informed.12
+        2. The timing of the provision of information must always be within a reasonable period to give effect to the data subject’s right to be informed.[^12]
 
     D. There shall be a careful determination and evaluation on whether the right to access  
        to recordings may be granted depending on the circumstances such as when providing  
@@ -418,13 +321,7 @@ determination of the regularity of reviews and assessments shall be the responsi
 PICs, taking into account new technologies, appropriate standards, and data privacy best  
 practices.
 
-SECTION 8. Interpretation. — Any doubt in the interpretation of any provision of this  
-Circular shall be liberally interpreted in a manner mindful of the rights and interests of the
-
-12 See: ECA v. XXX, NPC Case No. 18-103 (2020).
-
-data subjects, and without prejudice to the application of other pertinent laws and regulations  
-on the matter.
+SECTION 8. Interpretation. — Any doubt in the interpretation of any provision of this Circular shall be liberally interpreted in a manner mindful of the rights and interests of the data subjects, and without prejudice to the application of other pertinent laws and regulations on the matter.
 
 SECTION 9. Penalties. — The processing of personal data in violation of this Circular shall  
 carry criminal, civil, and administrative liability pursuant to the provisions of the DPA, its  
@@ -446,19 +343,35 @@ publication in the Official Gazette or a newspaper of general circulation.
 
 Approved:
 
-                                             SGD.  
-                                    JOHN HENRY D. NAGA  
-                                     Privacy Commissioner
+SGD.
+JOHN HENRY D. NAGA
+Privacy Commissioner
 
-                   SGD.                                              SGD.  
-          NERISSA N. DE JESUS                           JOSE AMELITO S. BELARMINO II  
-        Deputy Privacy Commissioner                       Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
+SGD.                                                   SGD.
+NERISSA N. DE JESUS                        JOSE AMELITO S. BELARMINO II
+Deputy Privacy Commissioner                Deputy Privacy Commissioner
+
+## Footnotes
+
+[^1]: Data Protection Working Party Statement of the Working Party on current discussions regarding the data protection reform package, Annex 2 Proposals for Amendments regarding exemption for personal or household activities (2013).
+
+[^2]: Philippine National Police Manual PNPM-DO-D-0-2-13-21, Revised Philippine National Police Operational Procedure, September 2021, available at https://akg.pnp.gov.ph/wp-content/uploads/2024/01/POP-Manual-2021.pdf (last accessed October 21, 2024).
+
+[^3]: See generally: United Nations, Code of Conduct for Law Enforcement Officials, Adopted by General Assembly resolution 34/169 of 17 December 1979, available at https://www.ohchr.org/Documents/ProfessionalInterest/codeofconduct.pdf (last accessed 19 June 2021).
+
+[^4]: PNP Memorandum Circular No. 2018-009, § 4 (d).
+
+[^5]: An Act Strengthening The Regulation Of The Private Security Services Industry, Repealing For The Purpose, Republic Act No. 5487, Entitled "An Act To Regulate The Organization And Operation Of Private Detective Watchmen Or Security Guard Agencies", As Amended [The Private Security Services Industry Act] Republic Act No. 11917 (2022).
+
+[^6]: Supreme Court of the Philippines, Rules on the Use of Body-Worn Cameras in the Execution of Warrants [A.M. No. 21-06-08-SC], Rule 1, § 4 (5) (June 29, 2021).
+
+[^7]: See: Cambridge Dictionary entry for vlogger, available at https://dictionary.cambridge.org/us/dictionary/english/vlogger (last accessed Jan. 10, 2025).
+
+[^12]: See: ECA v. XXX, NPC Case No. 18-103 (2020).
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
+
 - Companion note: [[notes/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Analysis and metadata]]
 - Raw source text: [[sources/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2025/05/SGD-NPC-Circular-No.-2025-01-Body-Worn-Cameras.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

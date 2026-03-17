@@ -17,9 +17,9 @@ draft: false
 
 **Advisory No. 2017-03**
 
-SUBJECT            :    GUIDELINES ON PRIVACY IMPACT ASSESSMENTS
+SUBJECT: GUIDELINES ON PRIVACY IMPACT ASSESSMENTS
 
-                                          Preamble
+### Preamble
 
 WHEREAS, Article II, Section 11 of the 1987 Constitution declares that the State values the  
 dignity of every human person and guarantees full respect for human rights, and Article  
@@ -58,14 +58,14 @@ management policy.
 WHEREFORE, in consideration of the foregoing premises, the NPC hereby issues this  
 Advisory that prescribes guidelines for the conduct of a Privacy Impact Assessment:
 
-                                           Scope
+### Scope
 
 This Advisory shall apply to all natural or juridical persons, or any other body in the  
 government or private sector engaged in the processing of personal data within and outside  
 of the Philippines, subject to the applicable provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other  
 relevant issuances of the NPC.
 
-                                    Definition of Terms
+### Definition of Terms
 
 For the purpose of this Advisory, the following terms are defined, as follows:
 
@@ -99,67 +99,66 @@ For the purpose of this Advisory, the following terms are defined, as follows:
          put together with other information would directly and certainly identify an  
          individual;
 
-I.   “Personal information controller” or “PIC” refers to a person or organization who  
-     controls the collection, holding, processing or use of personal information,  
-     including a person or organization who instructs another person or organization to  
-     collect, hold, process, use, transfer or disclose personal information on his or her  
-     behalf. The term excludes:
+   I.    “Personal information controller” or “PIC” refers to a person or organization who
+         controls the collection, holding, processing or use of personal information,
+         including a person or organization who instructs another person or organization to
+         collect, hold, process, use, transfer or disclose personal information on his or her
+         behalf. The term excludes:
 
-     1.)   a person or organization who performs such functions as instructed by  
-           another person or organization; or  
-     2.)   an individual who collects, holds, processes or uses personal information in  
-           connection with the individual’s personal, family or household affairs;
+         1.) a person or organization who performs such functions as instructed by
+             another person or organization; or
+         2.) an individual who collects, holds, processes or uses personal information in
+             connection with the individual’s personal, family or household affairs;
 
-     There is control if the natural or juridical person or any other body decides on what  
-     information is collected, or the purpose or extent of its processing;
+         There is control if the natural or juridical person or any other body decides on what
+         information is collected, or the purpose or extent of its processing;
 
-J.   “Personal information processor” or “PIP” refers to any natural or juridical person  
-     or any other body to whom a PIC may outsource or instruct the processing of  
-     personal data pertaining to a data subject;
+   J.    “Personal information processor” or “PIP” refers to any natural or juridical person
+         or any other body to whom a PIC may outsource or instruct the processing of
+         personal data pertaining to a data subject;
 
-K.   “Privacy Impact Assessment” is a process undertaken and used to evaluate and  
-     manage impacts on privacy of a particular program, project, process, measure,  
-     system or technology product of a PIC or PIP program, project, process,  
-     measure, system or technology product of a PIC or PIP. It takes into account  
-     the nature of the personal data to be protected, the personal data flow, the risks to  
-     privacy and security posed by the processing, current data privacy best practices,  
-     the cost of security implementation, and, where applicable, the size of the  
-     organization, its resources, and the complexity of its operations;
+   K.    “Privacy Impact Assessment” is a process undertaken and used to evaluate and
+         manage impacts on privacy of a particular program, project, process, measure,
+         system or technology product of a PIC or PIP. It takes into account
+         the nature of the personal data to be protected, the personal data flow, the risks to
+         privacy and security posed by the processing, current data privacy best practices,
+         the cost of security implementation, and, where applicable, the size of the
+         organization, its resources, and the complexity of its operations;
 
-L.   “Privacy Management Program” refers to a process intended to embed privacy and  
-     data protection in the strategic framework and daily operations of a personal  
-     information controller or personal information processor, maintained through  
-     organizational commitment and oversight of coordinated projects and activities.
+   L.    “Privacy Management Program” refers to a process intended to embed privacy and
+         data protection in the strategic framework and daily operations of a personal
+         information controller or personal information processor, maintained through
+         organizational commitment and oversight of coordinated projects and activities.
 
-M.   “Privileged Information” refers to any and all forms of data which, under the Rules  
-     of Court and other pertinent laws, constitute privileged communication;
+   M.    “Privileged Information” refers to any and all forms of data which, under the Rules
+         of Court and other pertinent laws, constitute privileged communication;
 
-N.   “Processing” refers to any operation or any set of operations performed upon  
-     personal data including, but not limited to, the collection, recording, organization,  
-     storage, updating or modification, retrieval, consultation, use, consolidation,  
-     blocking, erasure or destruction of data;
+   N.    “Processing” refers to any operation or any set of operations performed upon
+         personal data including, but not limited to, the collection, recording, organization,
+         storage, updating or modification, retrieval, consultation, use, consolidation,
+         blocking, erasure or destruction of data;
 
-O.   “Risk” refers to the potential of an incident to result in harm or danger to a data  
-     subject or organization;
+   O.    “Risk” refers to the potential of an incident to result in harm or danger to a data
+         subject or organization;
 
-P.   “Risk Rating” refers to a function of the probability and impact of an event;
+   P.    “Risk Rating” refers to a function of the probability and impact of an event;
 
-Q.   “Sensitive Personal Information” refers to personal information:
+   Q.    “Sensitive Personal Information” refers to personal information:
 
-     1.)   About an individual’s race, ethnic origin, marital status, age, color, and  
-           religious, philosophical or political affiliations;
+         1.) About an individual’s race, ethnic origin, marital status, age, color, and
+             religious, philosophical or political affiliations;
 
-         2.)   About an individual’s health, education, genetic or sexual life of a person, or  
-               to any proceeding for any offense committed or alleged to have been  
-               committed by such person, the disposal of such proceedings, or the sentence  
-               of any court in such proceedings;
+         2.) About an individual’s health, education, genetic or sexual life of a person, or
+             to any proceeding for any offense committed or alleged to have been
+             committed by such person, the disposal of such proceedings, or the sentence
+             of any court in such proceedings;
 
-         3.)   Issued by government agencies peculiar to an individual which includes, but  
-               not limited to, social security numbers, previous or current health records,  
-               licenses or its denials, suspension or revocation, and tax returns; and
+         3.) Issued by government agencies peculiar to an individual which includes, but
+             not limited to, social security numbers, previous or current health records,
+             licenses or its denials, suspension or revocation, and tax returns; and
 
-         4.)   Specifically established by an executive order or an act of Congress to be kept  
-               classified;
+         4.) Specifically established by an executive order or an act of Congress to be kept
+             classified;
 
    R.    “Threat” refers to a potential cause of an unwanted incident, which may result in  
          harm or danger to a data subject, system, or organization;
@@ -167,7 +166,7 @@ Q.   “Sensitive Personal Information” refers to personal information:
    S.     “Vulnerability” refers to a weakness of a data processing system that makes it  
          susceptible to threats and other attacks.
 
-                                     General Principles
+### General Principles
 
 A Privacy Impact Assessment (PIA) helps a PIC and PIP navigate the process of  
 understanding the personal data flows in the organization. It identifies and provides an  
@@ -179,7 +178,7 @@ well as the rights of data subjects. The most appropriate standard recognized by
 or industry of the PIC or PIP, as well as that of the information and communications  
 technology industry shall also be considered.
 
-                                     Key Considerations
+### Key Considerations
 
 In general, a PIA should be undertaken for every processing system of a PIC or PIP that  
 involves personal data. It may also be carried out vis-à-vis the entire organization of the PIC  
@@ -209,7 +208,7 @@ consider the size and sensitivity of the personal data being processed, the dura
 extent of processing, the likely impact of the processing to the life of data subject and  
 possible harm in case of a personal data breach.
 
-                                         Objectives
+### Objectives
 
 The conduct of a PIA is intended to:
 
@@ -235,11 +234,10 @@ includes information on stakeholder involvement, proposed measures for privacy r
 management, and the process through which the results of the PIA will be communicated to  
 internal and external stakeholders.
 
-                                       Responsibility
+### Responsibility
 
-The PIC or PIP is primarily accountable for the conduct of a PIA. This responsibility remains  
+The PIC or PIP is primarily accountable for the conduct of a PIA. This responsibility remains
 even when it elects to outsource or subcontract the actual conduct of the activity. For this
-
 purpose, the PIC or PIP may lay down a policy, which establishes the circumstances under  
 which a PIA shall be carried out, including the personnel involved, the resources available,  
 and the review process that will be undertaken.
@@ -257,7 +255,7 @@ consult and seek his or her recommendations based on the results of the PIA.
 Where the PIC or PIP has a COP, the involvement of the latter in the PIA shall also be  
 determined by the PIC or PIP.
 
-                                            Stakeholder Involvement
+### Stakeholder Involvement
 
 Stakeholder involvement is important in the conduct of a PIA. This may be accomplished  
 through their direct participation in the process, through consultations in a public forum or  
@@ -269,25 +267,19 @@ review that leads up to the preparation of the report.
 
 The results of a PIA should be communicated to the stakeholders via a written report.
 
-                                                Structure and Form
+### Structure and Form
 
 There is no prescribed standard or format for a PIA. As such, the PIC or PIP may determine  
-the structure and form of the PIA that it will use. It is not precluded from utilizing any  
-existing methodology, 1 provided the latter is acceptable based on the following criteria:2
+the structure and form of the PIA that it will use. It is not precluded from utilizing any
+existing methodology,[^1] provided the latter is acceptable based on the following criteria:[^2]
 
       1.      It provides a systematic description of the personal data flow and processing  
               activities of the PIC or PIP. This includes:
 
               1.)    purpose of the processing, including, where applicable, the legitimate interest  
                      pursued by the PIC or PIP;  
-              2.)    data inventory identifying the types of personal data held by the PIC or PIP;
-
-    Acceptable methodologies include ISO/IEC 29134, which provides standards for the conduct of the PIA.  
-  This takes into consideration Art 29 Data Protection Working Party “Guidelines on Data Protection Impact Assessment  
-(DPIA) and determining whether processing is “likely to result in a high risk” for the purposes of Regulation 2016/679” (4  
-April 2017) and the provisions of the [[laws/data-privacy-act-of-2012|DPA]].
-
-        3.)   sources of personal data and procedures for collection;  
+              2.) data inventory identifying the types of personal data held by the PIC or PIP;
+              3.) sources of personal data and procedures for collection;  
         4.)   functional description of personal data processing, including a list of all  
               information repositories holding personal data and their location, and types  
               of media used for storage;  
@@ -318,7 +310,7 @@ April 2017) and the provisions of the [[laws/data-privacy-act-of-2012|DPA]].
    4.   It is an inclusive process, in that it ensures the involvement of interested parties  
         and secures inputs from the DPO and data subjects.
 
-                                     Planning a PIA
+### Planning a PIA
 
 The following should be considered when planning the conduct of a PIA:
 
@@ -351,7 +343,7 @@ The following should be considered when planning the conduct of a PIA:
         3.)   procedure for integrating the recommendations of the PIA into the control  
               framework of the organization.
 
-                                  Preparatory Activities
+### Preparatory Activities
 
 The following should be considered in the preparatory activities leading up to the conduct  
 of a PIA:
@@ -382,15 +374,14 @@ of a PIA:
 
    5.   The detailed plan for the conduct of the PIA should be prepared, including:
 
-        1.)   schedules and timelines for the completion of preparatory activities, conduct
+        1.) schedules and timelines for the completion of preparatory activities, conduct
+            of the PIA, and reporting or publication of results;
+        2.) approval of resource and budget allocations;
+        3.) participants and methods for stakeholder involvement;
+        4.) documentation and review process;
+        5.) other supporting documents.
 
-               of the PIA, and reporting or publication of results;  
-         2.)   approval of resource and budget allocations;  
-         3.)   participants and methods for stakeholder involvement;  
-         4.)   documentation and review process;  
-         5.)   other supporting documents.
-
-                                     Conduct of the PIA
+### Conduct of the PIA
 
 The following should be considered in the conduct of a PIA:
 
@@ -472,16 +463,15 @@ The following should be considered in the conduct of a PIA:
          provided to the public based on its legitimate interests, such as the legal, business  
          operation, or security risks that disclosure may give rise to.
 
-                                  Documentation and Review
+### Documentation and Review
 
 A PIA requires documentation and procedures for review. Its results should be contained in  
 a corresponding report.
 
-The PIC or PIP must maintain a record of all its PIA reports. When a report contains  
-information that are privileged or confidential, the PIC or PIP may prepare a PIA Summary  
-that can be made available to data subjects upon request. Other means of communicating  
+The PIC or PIP must maintain a record of all its PIA reports. When a report contains
+information that are privileged or confidential, the PIC or PIP may prepare a PIA Summary
+that can be made available to data subjects upon request. Other means of communicating
 the results of the PIA to internal and external stakeholders should be considered, such as
-
 publishing key findings or result summaries in the PIC or PIP website, through newsletters,  
 annual reports, and other similar materials.
 
@@ -489,7 +479,7 @@ A PIA should be evaluated every year. This, however, does not preclude the condu
 new PIA on the same data processing system, when so required by significant changes  
 required by law or policy, and other similar circumstances.
 
-                              Compliance and Accountability
+### Compliance and Accountability
 
 The conduct of a PIA is one of the ways a PIC or PIP is able to demonstrate its compliance  
 with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and related issuances of the NPC. It also represents a proactive  
@@ -507,11 +497,16 @@ Commission for compliance monitoring purposes.
 
 Approved:
 
-                              [Sgd] RAYMUND E. LIBORO  
-                                  Privacy Commissioner
+[Sgd] RAYMUND E. LIBORO
+Privacy Commissioner
 
-          [Sgd] IVY D. PATDU                      [Sgd] DAMIAN DOMINGO O. MAPA  
-       Deputy Privacy Commissioner                    Deputy Privacy Commissioner
+[Sgd] IVY D. PATDU | [Sgd] DAMIAN DOMINGO O. MAPA
+Deputy Privacy Commissioner | Deputy Privacy Commissioner
+
+## Footnotes
+
+[^1]: Acceptable methodologies include ISO/IEC 29134, which provides standards for the conduct of the PIA.
+[^2]: This takes into consideration the Art. 29 Data Protection Working Party "Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is 'likely to result in a high risk' for the purposes of Regulation 2016/679" (4 April 2017) and the provisions of the DPA.
 
 ## Source And Notes
 - Companion note: [[notes/2017/guidelines-on-privacy-impact-assessments|Analysis and metadata]]

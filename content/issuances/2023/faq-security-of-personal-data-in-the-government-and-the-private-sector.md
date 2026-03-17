@@ -25,10 +25,7 @@ draft: false
 
 ## GENERAL PROVISION
 
-I.   WHAT IS THE DIFFERENCE BETWEEN CIRCULAR NO. 2023-06 (SECURITY OF  
-     PERSONAL DATA IN THE GOVERNMENT AND PRIVATE SECTOR) AND  
-     CIRCULAR NO. 2016-01 (SECURITY OF PERSONAL DATA IN GOVERNMENT  
-     AGENCIES)?
+## I.   WHAT IS THE DIFFERENCE BETWEEN CIRCULAR NO. 2023-06 (SECURITY OF PERSONAL DATA IN THE GOVERNMENT AND PRIVATE SECTOR) AND CIRCULAR NO. 2016-01 (SECURITY OF PERSONAL DATA IN GOVERNMENT AGENCIES)?
 
      Circular No. 2016-01 pertains to the security of personal data in government agencies and  
      is limited to government agencies engaged in the processing of personal data. On the other  
@@ -66,7 +63,7 @@ I.   WHAT IS THE DIFFERENCE BETWEEN CIRCULAR NO. 2023-06 (SECURITY OF
 
 ## ACCESS TO PERSONAL DATA
 
-V. DOES ACCESS MEAN ONLY PHYSICAL ACCESS?
+## V. DOES ACCESS MEAN ONLY PHYSICAL ACCESS?
 
       No, access can be physical or online. Rule IV of the Circular covers security measures  
       for online and physical access to personal data. Online access may cover access to  

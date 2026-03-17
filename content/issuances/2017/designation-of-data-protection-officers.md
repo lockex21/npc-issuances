@@ -18,9 +18,9 @@ draft: false
 
 **Advisory No. 2017-01**
 
-SUBJECT            :    DESIGNATION OF DATA PROTECTION OFFICERS
+SUBJECT: DESIGNATION OF DATA PROTECTION OFFICERS
 
-                                          Preamble
+### Preamble
 
 WHEREAS, Article II, Section 24 of the 1987 Constitution provides that the State recognizes  
 the vital role of communication and information in nation-building. At the same time,  
@@ -49,10 +49,11 @@ individuals who shall function as data protection officer (DPO), compliance offi
 otherwise be accountable for ensuring compliance with applicable laws and regulations for  
 the protection of data privacy and security;
 
-charged with the administration and implementation of the provisions of the law, which  
-includes ensuring compliance with the provisions of the [[laws/data-privacy-act-of-2012|DPA]] and with international  
-standards for data protection, and carrying out efforts to formulate and implement plans  
-and policies that strengthen the protection of personal information in the country, in  
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the National Privacy Commission (NPC) is
+charged with the administration and implementation of the provisions of the law, which
+includes ensuring compliance with the provisions of the [[laws/data-privacy-act-of-2012|DPA]] and with international
+standards for data protection, and carrying out efforts to formulate and implement plans
+and policies that strengthen the protection of personal information in the country, in
 coordination with other government agencies and the private sector;
 
 WHEREAS, Section 4 of NPC Circular 2016-01 declares that a government agency engaged  
@@ -61,14 +62,14 @@ in the processing of personal data shall, through its head of agency, designate 
 WHEREAS, in consideration of the foregoing premises, the NPC hereby issues this  
 Advisory that prescribes the guidelines for the designation of a DPO:
 
-                                            Scope
+### Scope
 
 These Guidelines shall apply to all natural or juridical persons, or any other body in the  
 government or private sector engaged in the processing of personal data within and outside  
 of the Philippines, subject to the applicable provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances by  
 the NPC.
 
-                                    Definition of Terms
+### Definition of Terms
 
 Whenever used in this Advisory, the following terms shall have their respective meanings  
 as hereinafter set forth:
@@ -160,22 +161,22 @@ p. “Sensitive Personal Information” refers to personal information:
          4.)     Specifically established by an executive order or an act of Congress to be kept  
                  classified.
 
-                                                General Principles
+### General Principles
 
 These Guidelines shall be governed by the following general principles:
 
-    a. The responsibility for complying with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], issuances by the NPC, and all  
-       other applicable laws lies with the PIC or PIP.1 When necessary, it must be capable of  
+    a. The responsibility for complying with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], issuances by the NPC, and all
+       other applicable laws lies with the PIC or PIP.[^1] When necessary, it must be capable of
        demonstrating its capacity to comply.
 
-    b. The DPO or COP shall act independently in the performance of his or her functions,  
-       and shall enjoy sufficient degree of autonomy. For this purpose, he or she must not  
-       receive instructions2 from the PIC or PIP regarding the exercise of his or her tasks.
+    b. The DPO or COP shall act independently in the performance of his or her functions,
+       and shall enjoy sufficient degree of autonomy. For this purpose, he or she must not
+       receive instructions[^2] from the PIC or PIP regarding the exercise of his or her tasks.
 
     c. The DPO or COP is bound by secrecy or confidentiality concerning the performance  
        of his or her tasks.
 
-                                            Mandatory Designation
+### Mandatory Designation
 
 A PIC or PIP shall designate an individual or individuals who shall function as DPO. The  
 DPO shall be accountable for ensuring the compliance by the PIC or PIP with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], issuances by the NPC, and other applicable laws and regulations relating to privacy  
@@ -194,10 +195,6 @@ In certain cases, a PIC or PIP is allowed to designate a compliance officer for 
        other similar sub-units, it may designate or appoint a COP for each sub-unit. The  
        COPs shall be under the supervision of the DPO.
 
-  RA 10173, §21(a), and §14.  
-  e.g., what results should be achieved, how to investigate a complaint, whether to consult the NPC, what view or  
-interpretation of the law to take relative to a specific data protection issue, etc.
-
      c. Private Sector. Where a private entity has branches, sub-offices, or any other  
         component units, it may also appoint or designate a COP for each component unit.
 
@@ -213,7 +210,7 @@ interpretation of the law to take relative to a specific data protection issue, 
 
 An individual PIC or PIP shall be a de facto DPO.
 
-                                             General Qualifications
+### General Qualifications
 
 The DPO should possess specialized knowledge and demonstrate reliability necessary for  
 the performance of his or her duties and responsibilities. As such, the DPO should have  
@@ -227,40 +224,33 @@ structure, policies, and processes is also useful.
 The minimum qualifications for a COP shall be proportionate to his or her functions, as  
 provided in this Advisory.
 
-                                         Position of the DPO or COP
+### Position of the DPO or COP
 
 The DPO or COP should be a full-time or organic employee of the PIC or PIP.
 
 In the government or public sector, the DPO or COP may be a career or appointive position.
 
-In the private sector, the DPO or COP should ideally be a regular or permanent position.3  
-Where the employment of the DPO or COP is based on a contract, the term or duration  
+In the private sector, the DPO or COP should ideally be a regular or permanent position.[^3]
+Where the employment of the DPO or COP is based on a contract, the term or duration
 thereof should at least be two (2) years to ensure stability.
 
-In the event the position of DPO or COP is left vacant,4 the PIC or PIP should provide for the  
+In the event the position of DPO or COP is left vacant,[^4] the PIC or PIP should provide for the  
 appointment, reappointment, or hiring of his or her replacement within a reasonable period  
 of time. The PIC or PIP may also require the incumbent DPO or COP to occupy such  
-position in an holdover capacity until the appointment or hiring of a new DPO or COP, in
-
-  Consultants and project, seasonal, probationary, or casual employees should not be designated as DPOs.  
-  In the event of resignation, incapacity, or death of the DPO, or, where the term of the DPO is fixed or is coterminous with  
-the appointing authority, in the case of government agencies, or based on a contract, in the case of private sector entities.
-
-accordance with the PIC or PIP’s internal policies or the provisions of the appropriate  
+position in a holdover capacity until the appointment or hiring of a new DPO or COP, in
+accordance with the PIC or PIP’s internal policies or the provisions of the appropriate
 contract.
 
-                                          Independence, Autonomy  
-                                           And Conflict of Interest
+### Independence, Autonomy and Conflict of Interest
 
 A DPO or COP must be independent in the performance of his or her functions, and should  
 be accorded a significant degree of autonomy by the PIC or PIP.
 
 In his or her capacity as DPO or COP, an individual may perform (or be assigned to  
-perform) other tasks or assume other functions 5 that do not give rise to any conflict of  
+perform) other tasks or assume other functions[^5] that do not give rise to any conflict of
 interest.
 
-                                        Duties and Responsibilities  
-                                          Of the DPO and COP
+### Duties and Responsibilities of the DPO and COP
 
 A DPO shall, inter alia:
 
@@ -290,9 +280,6 @@ A DPO shall, inter alia:
        documentation concerning security incidents or data breaches within the prescribed  
        period;
 
-  The designated DPO may also occupy some other position in the organization (e.g., legal counsel, risk management officer,  
-etc.).
-
    e. inform and cultivate awareness on privacy and data protection within the  
       organization of the PIC or PIP, including all relevant laws, rules and regulations and  
       issuances of the NPC;
@@ -321,8 +308,7 @@ operations of the PIC or PIP, taking into account the nature, scope, context and
 processing. Accordingly, he or she must prioritize his or her activities and focus his or her  
 efforts on issues that present higher data protection risks.
 
-                         General Obligations of the PIC or PIP  
-                             Relative to the DPO or COP
+### General Obligations of the PIC or PIP Relative to the DPO or COP
 
 The PIC or PIP should:
 
@@ -350,14 +336,14 @@ The PIC or PIP should:
       with personal data processing activities conducted inside the organization, or with  
       other organizations.
 
-                      Outsourcing or Subcontracting of Functions
+### Outsourcing or Subcontracting of Functions
 
 A PIC or PIP may outsource or subcontract the functions of its DPO or COP. However, to  
 the extent possible, the DPO or COP must oversee the performance of his or her functions  
 by the third-party service provider or providers. The DPO or COP shall also remain the  
 contact person of the PIC or PIP vis-à-vis the NPC.
 
-                                         Protections
+### Protections
 
 To strengthen the autonomy of the DPO or COP and ensure the independent nature of his or  
 her role in the organization, a PIC or PIP should not directly or indirectly penalize or  
@@ -367,8 +353,7 @@ or preventing the DPO or COP from performing his or her tasks. However, nothing 
 preclude the legitimate application of labor, administrative, civil or criminal laws against the  
 DPO or COP, based on just or authorized grounds.
 
-                            Publication and Communication  
-                                   Of Contact Details
+### Publication and Communication of Contact Details
 
 To ensure that its own personnel, the data subjects, the NPC, or any other concerned party,  
 is able to easily, directly, and confidentially contact the DPO or COP, a PIC or PIP must  
@@ -393,13 +378,13 @@ information:
 The name or names of the DPO or COP need not be published. However, it should be made  
 available upon request by a data subject or the NPC.
 
-                                   Weight of Opinion
+### Weight of Opinion
 
 The opinion of the DPO or COP must be given due weight. In case of disagreement, and  
 should the PIC or PIP choose not to follow the advice of the DPO or COP, it is  
 recommended, as good practice, to document the reasons therefor.
 
-                                       Accountability
+### Accountability
 
 While the responsibility of complying with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], issuances by the NPC, and  
 other applicable laws remains with the PIC or PIP, malfeasance, misfeasance, or nonfeasance  
@@ -408,11 +393,19 @@ administrative, civil, or criminal liability, in accordance with all applicable 
 
 Approved:
 
-                              (Sgd.) RAYMUND E. LIBORO  
-                                  Privacy Commissioner
+(Sgd.) RAYMUND E. LIBORO
+Privacy Commissioner
 
-           (Sgd.) IVY D. PATDU                   (Sgd.) DAMIAN DOMINGO O. MAPA  
-        Deputy Privacy Commissioner                  Deputy Privacy Commissioner
+(Sgd.) IVY D. PATDU | (Sgd.) DAMIAN DOMINGO O. MAPA
+Deputy Privacy Commissioner | Deputy Privacy Commissioner
+
+## Footnotes
+
+[^1]: RA 10173, §21(a) and §14.
+[^2]: E.g., what results should be achieved, how to investigate a complaint, whether to consult the NPC, what view or interpretation of the law to take relative to a specific data protection issue, etc.
+[^3]: Consultants and project, seasonal, probationary, or casual employees should not be designated as DPOs.
+[^4]: In the event of resignation, incapacity, or death of the DPO, or, where the term of the DPO is fixed or is coterminous with the appointing authority, in the case of government agencies, or based on a contract, in the case of private sector entities.
+[^5]: The designated DPO may also occupy some other position in the organization (e.g., legal counsel, risk management officer, etc.).
 
 ## Source And Notes
 - Companion note: [[notes/2017/designation-of-data-protection-officers|Analysis and metadata]]

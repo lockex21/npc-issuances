@@ -203,6 +203,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   if (!searchLayout) return
 
   const idDataMap = Object.keys(data) as FullSlug[]
+  removeAllChildren(searchLayout)
   const appendLayout = (el: HTMLElement) => {
     searchLayout.appendChild(el)
   }
@@ -222,8 +223,12 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   function hideSearch() {
     container.classList.remove("active")
+    container.setAttribute("aria-hidden", "true")
+    searchButton.setAttribute("aria-expanded", "false")
     searchBar.value = "" // clear the input when we dismiss the search
+    currentHover = null
     if (sidebar) sidebar.style.zIndex = ""
+    document.documentElement.classList.remove("search-open")
     removeAllChildren(results)
     if (preview) {
       removeAllChildren(preview)
@@ -237,6 +242,9 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     searchType = searchTypeNew
     if (sidebar) sidebar.style.zIndex = "1"
     container.classList.add("active")
+    container.setAttribute("aria-hidden", "false")
+    searchButton.setAttribute("aria-expanded", "true")
+    document.documentElement.classList.add("search-open")
     searchBar.focus()
   }
 
@@ -493,10 +501,12 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     await displayResults(finalResults)
   }
 
+  const onSearchButtonClick = () => showSearch("basic")
+
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
-  searchButton.addEventListener("click", () => showSearch("basic"))
-  window.addCleanup(() => searchButton.removeEventListener("click", () => showSearch("basic")))
+  searchButton.addEventListener("click", onSearchButtonClick)
+  window.addCleanup(() => searchButton.removeEventListener("click", onSearchButtonClick))
   searchBar.addEventListener("input", onType)
   window.addCleanup(() => searchBar.removeEventListener("input", onType))
 
@@ -532,7 +542,13 @@ async function fillDocument(data: ContentIndex) {
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
-  const data = await fetchData
+  let data: ContentIndex
+  try {
+    data = await window.fetchData
+  } catch (error) {
+    console.error("Failed to initialize Quartz search", error)
+    return
+  }
   const searchElement = document.getElementsByClassName("search")
   for (const element of searchElement) {
     await setupSearch(element, currentSlug, data)

@@ -180,12 +180,15 @@ SECTION 12. Processing Carried Out by Public Authorities. — As a general rule,
 legitimate interest shall not apply to the processing carried out by public authorities in  
 the performance of their constitutional or statutory mandates.
 
-Legitimate interest may be considered the appropriate lawful basis for specific processing  
-activities carried out by government agencies that are not expressly provided in their  
-mandate and do not fall squarely on any of the other criteria for processing under Section  
+Legitimate interest may be considered the appropriate lawful basis for specific processing
+activities carried out by government agencies that are not expressly provided in their
+mandate and do not fall squarely on any of the other criteria for processing under Section
+12 of the DPA or as a special case under Section 4 of the DPA.[^12] Legitimate interest may
+apply as lawful basis for ancillary processing activities performed in the ordinary course
+of business. In such cases, the PIC must conduct a legitimate interest assessment.
 
-SECTION 13. Interpretation. — Any doubt in the interpretation of any provision of this  
-Circular shall be liberally interpreted in a manner mindful of the rights and interests of  
+SECTION 13. Interpretation. — Any doubt in the interpretation of any provision of this
+Circular shall be liberally interpreted in a manner mindful of the rights and interests of
 the data subject.
 
 SECTION 14. Penalties. — The processing of personal data in violation of this Circular  
@@ -219,7 +222,7 @@ Approved:
 
 ## Footnotes
 
-[^12]: of the DPA or as a special case under Section 4 of the DPA. Legitimate interest may apply as lawful basis for ancillary processing activities performed in the ordinary course of business. In such cases, the PIC must conduct a legitimate interest assessment.
+[^12]: Legitimate interest may apply as lawful basis for ancillary processing activities performed in the ordinary course of business. In such cases, the PIC must conduct a legitimate interest assessment.
 
 ## Source And Notes
 - Companion note: [[notes/2023/guidelines-on-legitimate-interest|Analysis and metadata]]

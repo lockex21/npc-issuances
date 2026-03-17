@@ -178,7 +178,7 @@ Approved:
 
 ## Footnotes
 
-[^1]: REGULATION (EU) 2022/2065 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 October 2022 on
+[^1]: REGULATION (EU) 2022/2065 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act), Article 3 (m) (19 October 2022).
 
 ## Source And Notes
 - Companion note: [[notes/2023/guidelines-on-deceptive-design-patterns|Analysis and metadata]]

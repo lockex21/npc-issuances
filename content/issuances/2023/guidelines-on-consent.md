@@ -18,13 +18,9 @@ draft: false
 
 **Circular No. 2023-04**
 
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 9f5a9c193a2a603c3a8ed791c7b7d4bad1bef980 -->
-NPC Circular No. 2023 - 04
+DATE: 07 November 2023
 
-DATE                    :   07 November 2023
-
-SUBJECT                 :   GUIDELINES ON CONSENT
+SUBJECT: GUIDELINES ON CONSENT
 
 WHEREAS, Section 7 of the DPA provides that the National Privacy Commission (NPC) is  
 charged with the administration and implementation of Republic Act No. 10173 or the Data  
@@ -73,9 +69,9 @@ as follows:
      A. “At set-up notice” refers to a privacy notice shown before a data subject installs a  
         mobile application or a software;
 
-     B. “Consent fatigue” refers to a situation where consent questions are no longer read, as  
-        a result of multiple consent requests received by a data subject on a daily basis that  
-        require answers or decisions;1
+     B. “Consent fatigue” refers to a situation where consent questions are no longer read, as
+        a result of multiple consent requests received by a data subject on a daily basis that
+        require answers or decisions;
 
      C. “Context dependent notice” refers to a privacy notice activated by certain aspects of  
         the data subject’s context, such as location or persons who will have access to the  
@@ -94,11 +90,11 @@ as follows:
         data required by the PIC, as well as the processing of such information, in accordance  
         with Section 34(a)(2) of the IRR, as amended;
 
-     G. “Minimum specific information” refers to the least amount of information specific to  
-          a particular processing activity that must be disclosed to the data subject at the point  
-          where they are asked to give consent. This pertains to key information such as the  
-          identity of the PIC, its Data Protection Officer (DPO), and a brief description of how  
-          the information will be processed;2
+     G. “Minimum specific information” refers to the least amount of information specific to
+          a particular processing activity that must be disclosed to the data subject at the point
+          where they are asked to give consent. This pertains to key information such as the
+          identity of the PIC, its Data Protection Officer (DPO), and a brief description of how
+          the information will be processed;
 
      H. “Research” refers to an activity that aims to develop or contribute to knowledge that  
         can be generalized including theories, principles, relationships, or any accumulation  
@@ -712,15 +708,12 @@ Approved:
                                     JOHN HENRY D. NAGA  
                                      Privacy Commissioner
 
-                  SGD.                                                SGD.  
-     LEANDRO ANGELO Y. AGUIRRE                               NERISSA N. DE JESUS  
+                  SGD.                                                SGD.
+     LEANDRO ANGELO Y. AGUIRRE                               NERISSA N. DE JESUS
        Deputy Privacy Commissioner                         Deputy Privacy Commissioner
-<!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO -->
 - Companion note: [[notes/2023/guidelines-on-consent|Analysis and metadata]]
 - Raw source text: [[sources/2023/guidelines-on-consent|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Circular-No.-2023-04_Guidelines-on-Consent_07Nov2023.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

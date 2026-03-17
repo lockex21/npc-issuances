@@ -17,8 +17,6 @@ draft: false
 
 **Circular No. 2021-01**
 
-                     COMMISSION
-
 Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#Section 7(b)|Section 7(b) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],” to receive  
 complaints and institute investigations on matters affecting any personal information, the  
 following 2021 Rules of Procedure of the National Privacy Commission are hereby prescribed and  

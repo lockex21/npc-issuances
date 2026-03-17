@@ -19,11 +19,13 @@ draft: false
 
 **Circular No. 2023-01**
 
-                         PRIVACY COMMISSION
+DATE: 17 May 2023
 
-       WHEREAS, Executive Order No. 292, otherwise known as the “Administrative Code  
-of 1987”, authorizes all agencies to charge fees, including honoraria, and other reasonable  
-allowances, as compensation for consultation, seminars or training programs, or technical  
+SUBJECT: SCHEDULE OF FEES AND CHARGES OF THE NATIONAL PRIVACY COMMISSION
+
+WHEREAS, Executive Order No. 292, otherwise known as the “Administrative Code
+of 1987”, authorizes all agencies to charge fees, including honoraria, and other reasonable
+allowances, as compensation for consultation, seminars or training programs, or technical
 services rendered to other government agencies or private parties;
 
        WHEREAS, the National Privacy Commission (NPC) was created under Republic Act  

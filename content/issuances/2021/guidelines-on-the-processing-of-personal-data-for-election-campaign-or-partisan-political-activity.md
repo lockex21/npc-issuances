@@ -18,9 +18,6 @@ draft: false
 
 **Advisory No. 2021**
 
-                                FOR ELECTION CAMPAIGN OR PARTISAN POLITICAL  
-                                ACTIVITY
-
 SECTION 1. Scope. — This Advisory shall apply to political parties, candidates, aspirants,  
 party-list groups or organizations and their nominees, and information society service  
 providers on the matter of processing personal and sensitive personal information  
@@ -443,21 +440,18 @@ protection of personal data.
         will prevent unauthorized further processing by, access of, or disclosure to, any other  
         party or the public, that would prejudice the rights and freedoms of the data subjects.[^17]
 
-SECTION 7. Interpretation. — Any doubt in the interpretation of any provision of this
-
-
-Advisory shall be liberally interpreted in a manner mindful of the rights and interests of the  
+SECTION 7. Interpretation. — Any doubt in the interpretation of any provision of this Advisory shall be liberally interpreted in a manner mindful of the rights and interests of the
 individual about whom personal information is processed.
 
 Approved:
 
-                                                    SGD.  
-                                        RAYMUND ENRIQUEZ LIBORO  
-                                            Privacy Commissioner
+SGD.
+RAYMUND ENRIQUEZ LIBORO
+Privacy Commissioner
 
-                   SGD.                                                                   SGD.  
-     LEANDRO ANGELO Y. AGUIRRE                                                   JOHN HENRY D. NAGA  
-       Deputy Privacy Commissioner                                             Deputy Privacy Commissioner
+SGD.                                                                 SGD.
+LEANDRO ANGELO Y. AGUIRRE                                   JOHN HENRY D. NAGA
+Deputy Privacy Commissioner                             Deputy Privacy Commissioner
 
 ## Footnotes
 
