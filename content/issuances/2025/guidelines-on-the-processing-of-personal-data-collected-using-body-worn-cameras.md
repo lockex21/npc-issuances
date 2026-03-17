@@ -75,49 +75,49 @@ J. “Vlogger” refers to someone who makes video blogs or vlogs (recording of 
 SECTION 3. Principles; lawful basis for processing. — The processing of personal data through BWCs or ARDs shall be subject to the following requirements.
 
 A. Law enforcement; security. BWCs or ARDs shall be used in a manner consistent with the  
-       aim of ensuring the protection of the fundamental rights and freedoms of all data  
-       subjects, including law enforcement officers and security guards. Personal data  
-       processing of LEAs and PSAs shall adhere to the following:
+   aim of ensuring the protection of the fundamental rights and freedoms of all data  
+   subjects, including law enforcement officers and security guards. Personal data  
+   processing of LEAs and PSAs shall adhere to the following:
 
-         1. Lawful basis for processing. The processing of personal data using BWCs or ARDs  
-            may be allowed in any of the instances provided under Sections 12 and 13 of the  
-            DPA, or as processing under a special case under Section 4 of the DPA.
+ 1. Lawful basis for processing. The processing of personal data using BWCs or ARDs  
+may be allowed in any of the instances provided under Sections 12 and 13 of the  
+DPA, or as processing under a special case under Section 4 of the DPA.
 
-         2. General principles of privacy. The general data privacy principles shall be strictly  
-            adhered to:
+ 2. General principles of privacy. The general data privacy principles shall be strictly  
+adhered to:
 
-             a. Transparency. An appropriate privacy notice shall be provided using clear,  
-                concise, and plain language, considering the different contexts and  
-                environments where personal data processing could take place.
+ a. Transparency. An appropriate privacy notice shall be provided using clear,  
+concise, and plain language, considering the different contexts and  
+environments where personal data processing could take place.
 
-                 i.    The privacy notice shall be translated into Filipino or another language or  
-                       dialect to allow it to be better understood by data subjects;  
-                 ii.   PICs shall consider the following in presenting their privacy notice:  
-                       1. Place visible signage on the person of the law enforcement officers and  
-                           security guards, or a warning light on the BWCs or ARDs to indicate  
-                           that the device is activated and recording;8 and  
-                       2. Provide data subjects a published privacy notice, or direct them to a  
-                           privacy notice placed or made available in a conspicuous or easily  
-                           accessible place, e.g., website, office premise, etc.
+ i.    The privacy notice shall be translated into Filipino or another language or  
+   dialect to allow it to be better understood by data subjects;  
+ ii.   PICs shall consider the following in presenting their privacy notice:  
+   1. Place visible signage on the person of the law enforcement officers and  
+   security guards, or a warning light on the BWCs or ARDs to indicate  
+   that the device is activated and recording;8 and  
+   2. Provide data subjects a published privacy notice, or direct them to a  
+   privacy notice placed or made available in a conspicuous or easily  
+   accessible place, e.g., website, office premise, etc.
 
-                iii.   Such privacy notice shall likewise be incorporated in the guidelines on the  
-                       use of BWCs or ARDs which shall also be readily accessible and published;  
-                       and  
-                iv.    In certain limited instances, information on the processing of personal data  
-                       using BWCs or ARDs may be given to data subjects at the next practical  
-                       opportunity.
+iii.   Such privacy notice shall likewise be incorporated in the guidelines on the  
+   use of BWCs or ARDs which shall also be readily accessible and published;  
+   and  
+iv.    In certain limited instances, information on the processing of personal data  
+   using BWCs or ARDs may be given to data subjects at the next practical  
+   opportunity.
 
-             b. Legitimate purpose. The processing of personal data shall be compatible with  
-                a declared and specified purpose which must not be contrary to law, morals,  
-                or public policy. The use of BWCs or ARDs may be permitted for the following  
-                purposes, as such but not limited to:
+ b. Legitimate purpose. The processing of personal data shall be compatible with  
+a declared and specified purpose which must not be contrary to law, morals,  
+or public policy. The use of BWCs or ARDs may be permitted for the following  
+purposes, as such but not limited to:
 
-                 i.    In any of the instances provided in the PNP Operational Guidelines and  
-                       Policies on the Use of Body Worn Camera and relevant issuances of the  
-                       PNP;9  
-                 ii.   Enforcement of traffic laws, rules and regulations;  
-                iii.   Security of property and protection of life and interests of individual; and  
-                iv.    To ensure public order and safety.
+ i.    In any of the instances provided in the PNP Operational Guidelines and  
+   Policies on the Use of Body Worn Camera and relevant issuances of the  
+   PNP;9  
+ ii.   Enforcement of traffic laws, rules and regulations;  
+iii.   Security of property and protection of life and interests of individual; and  
+iv.    To ensure public order and safety.
 
 8 See generally: UK Information Commissioner’s Office, Additional considerations for technologies other than CCTV -
 
@@ -126,54 +126,54 @@ resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-c
 considerations-for-technologies-other-than-cctv/?q=children#bwv (last accessed: 2 September 2024).  
 9 PNP Memorandum Circular No. 2018-009, § 6 (b).
 
-            c. Proportionality. The processing of personal data through the use of BWCs or  
-               ARDs shall be adequate, relevant, suitable, necessary, and not excessive in  
-               relation to a declared and specified purpose. The collection and further  
-               processing of personal data through BWCs or ARDs should only be to the  
-               extent necessary to fulfill the legitimate purpose.
+c. Proportionality. The processing of personal data through the use of BWCs or  
+   ARDs shall be adequate, relevant, suitable, necessary, and not excessive in  
+   relation to a declared and specified purpose. The collection and further  
+   processing of personal data through BWCs or ARDs should only be to the  
+   extent necessary to fulfill the legitimate purpose.
 
-            d. Fairness and lawfulness. The processing of personal data using BWCs or ARDs  
-               shall not be unduly oppressive upon data subjects. Personal data processing  
-               activities shall comply with the Rules on the Use of Body-Worn Cameras in the  
-               Execution of Warrants issued by the Supreme Court, and other applicable  
-               laws, rules or regulations.
+d. Fairness and lawfulness. The processing of personal data using BWCs or ARDs  
+   shall not be unduly oppressive upon data subjects. Personal data processing  
+   activities shall comply with the Rules on the Use of Body-Worn Cameras in the  
+   Execution of Warrants issued by the Supreme Court, and other applicable  
+   laws, rules or regulations.
 
-    B. Vlogging. Vloggers who use BWCs or ARDs to capture the image, audio, or video of  
-       persons for uploading, posting, publishing or otherwise sharing online may be  
-       deemed to be engaged in the processing personal data.
+B. Vlogging. Vloggers who use BWCs or ARDs to capture the image, audio, or video of  
+   persons for uploading, posting, publishing or otherwise sharing online may be  
+   deemed to be engaged in the processing personal data.
 
-        1. Lawful basis for processing. Vloggers may generally rely on Section 12 (f) of the DPA  
-           as a lawful basis for processing: provided, that in certain specific instances where  
-           sensitive personal information is captured, vloggers need to have a lawful basis  
-           under Section 13 of the DPA.
+1. Lawful basis for processing. Vloggers may generally rely on Section 12 (f) of the DPA  
+   as a lawful basis for processing: provided, that in certain specific instances where  
+   sensitive personal information is captured, vloggers need to have a lawful basis  
+   under Section 13 of the DPA.
 
-        2. Transparency; fairness. In the scenario where vloggers are recording footage of  
-           themselves in action, e.g., eating, shopping, driving, biking, dancing, walking, or  
-           otherwise engaged in general video recording activities in public or semi-public  
-           places which may capture audio-visual information of bystanders or other people,  
-           vloggers shall ensure that that personal data processing activities are done in a fair  
-           and lawful manner and affected data subjects will be able to exercise their rights.
+2. Transparency; fairness. In the scenario where vloggers are recording footage of  
+   themselves in action, e.g., eating, shopping, driving, biking, dancing, walking, or  
+   otherwise engaged in general video recording activities in public or semi-public  
+   places which may capture audio-visual information of bystanders or other people,  
+   vloggers shall ensure that that personal data processing activities are done in a fair  
+   and lawful manner and affected data subjects will be able to exercise their rights.
 
-            a. Generally and where appropriate in given scenarios, e.g., interviewing specific  
-               individuals, vloggers shall ensure transparency and provide adequate  
-               information to the data subjects prior to the commencement of any video  
-               recording activity, including the fact that the resulting footage will be  
-               uploaded, posted, published or otherwise shared online, and how they may  
-               exercise their data privacy rights.
+a. Generally and where appropriate in given scenarios, e.g., interviewing specific  
+   individuals, vloggers shall ensure transparency and provide adequate  
+   information to the data subjects prior to the commencement of any video  
+   recording activity, including the fact that the resulting footage will be  
+   uploaded, posted, published or otherwise shared online, and how they may  
+   exercise their data privacy rights.
 
-            b. Vloggers shall have an appropriate privacy notice on all online platforms  
-               which shall provide details to affected data subjects on how to exercise their  
-               right to object, right to erasure, take down of posts, among others.
+b. Vloggers shall have an appropriate privacy notice on all online platforms  
+   which shall provide details to affected data subjects on how to exercise their  
+   right to object, right to erasure, take down of posts, among others.
 
-            c. Vloggers are required to use available technology that can mask images of  
-               bystanders, especially children and other vulnerable individuals.
+c. Vloggers are required to use available technology that can mask images of  
+   bystanders, especially children and other vulnerable individuals.
 
-    C. Other persons or entities using BWCs or ARDs. The processing of personal data through  
-       the use BWCs or ARDs for purposes other than law enforcement, police operations, or  
-       security, such as for training, quality control, monitoring, assessment, evaluation,  
-       audit, and other related purposes, shall be subject to the same requirements on having  
-       a lawful basis for processing, adherence to the general principles of privacy,  
-       implanting safeguards, and upholding data subject rights.
+C. Other persons or entities using BWCs or ARDs. The processing of personal data through  
+   the use BWCs or ARDs for purposes other than law enforcement, police operations, or  
+   security, such as for training, quality control, monitoring, assessment, evaluation,  
+   audit, and other related purposes, shall be subject to the same requirements on having  
+   a lawful basis for processing, adherence to the general principles of privacy,  
+   implanting safeguards, and upholding data subject rights.
 
 SECTION 4. Security measures. — PICs and PIPs shall implement reasonable and
 
@@ -181,46 +181,46 @@ appropriate organizational, technical, and physical safeguards, considering the 
 maintain confidentiality, integrity, and availability of personal data collected through BWCs  
 or ARDs. These safeguards shall include the following:
 
-    A. Providing for the conduct of comprehensive trainings or seminars for all relevant  
-       personnel on the proper use of BWCs or ARDs:
+A. Providing for the conduct of comprehensive trainings or seminars for all relevant  
+   personnel on the proper use of BWCs or ARDs:
 
-        1. Training materials shall include discussions on the right to data privacy, data  
-           protection policies, general data privacy principles, rights of the data subjects, and  
-           compliance with due process requirements as provided by law;  
-        2. Training materials shall also include a discussion of administrative, civil, and  
-           criminal penalties under the DPA; and  
-        3. Trainings shall be properly documented and conducted at least once a year:  
-           provided, that a similar training shall be provided during the onboarding or  
-           orientation of newly hired personnel.
+1. Training materials shall include discussions on the right to data privacy, data  
+   protection policies, general data privacy principles, rights of the data subjects, and  
+   compliance with due process requirements as provided by law;  
+2. Training materials shall also include a discussion of administrative, civil, and  
+   criminal penalties under the DPA; and  
+3. Trainings shall be properly documented and conducted at least once a year:  
+   provided, that a similar training shall be provided during the onboarding or  
+   orientation of newly hired personnel.
 
-    B. Regulating access to personal data collected through BWCs or ARDs:  
-       1. Only authorized personnel shall have access to recordings. For this purpose,  
-          authorized personnel shall be appointed or designated, taking into consideration  
-          the following:  
-          a. Supreme Court Rules on the Use of Body-Worn Cameras in the Execution of  
-              Warrants, specifically Rule 4 requiring data custodians and prescribing rules  
-              on downloading data, preservation of metadata, chain of custody, custody and  
-              access to recordings, among others.  
-          b. PNP Operational Guidelines and Policies on the Use of Body Worn Camera,  
-              specifically the provisions on Post-Operations Phase requiring downloading  
-              and storage of recorded data and the PNP personnel in charge of storage,  
-              review, disclosure, and monitoring and audit of recordings.  
-          c. [[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|NPC Advisory No. 2021]] – 01 on Data Subject Rights, specifically on general  
-              policies and procedures in upholding data subject rights.
+B. Regulating access to personal data collected through BWCs or ARDs:  
+   1. Only authorized personnel shall have access to recordings. For this purpose,  
+  authorized personnel shall be appointed or designated, taking into consideration  
+  the following:  
+  a. Supreme Court Rules on the Use of Body-Worn Cameras in the Execution of  
+  Warrants, specifically Rule 4 requiring data custodians and prescribing rules  
+  on downloading data, preservation of metadata, chain of custody, custody and  
+  access to recordings, among others.  
+  b. PNP Operational Guidelines and Policies on the Use of Body Worn Camera,  
+  specifically the provisions on Post-Operations Phase requiring downloading  
+  and storage of recorded data and the PNP personnel in charge of storage,  
+  review, disclosure, and monitoring and audit of recordings.  
+  c. [[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|NPC Advisory No. 2021]] – 01 on Data Subject Rights, specifically on general  
+  policies and procedures in upholding data subject rights.
 
-        2. Implementing an access control policy that would prescribe the processes and  
-           procedures on the access of recorded data. In all instances where access is allowed,  
-           the same should be covered by a security clearance or similar authorization, a copy  
-           of which shall be filed with the PIC’s data protection officer. The process for the  
-           issuance of security clearances or similar authorizations shall be documented in  
-           the access control policy.
+2. Implementing an access control policy that would prescribe the processes and  
+   procedures on the access of recorded data. In all instances where access is allowed,  
+   the same should be covered by a security clearance or similar authorization, a copy  
+   of which shall be filed with the PIC’s data protection officer. The process for the  
+   issuance of security clearances or similar authorizations shall be documented in  
+   the access control policy.
 
-        3. Requests for access by any person whose image is recorded on BWCs or ARDs as  
-           well as third party access requests shall be governed by the procedures provided  
-           under the NPC guidelines on Closed-Circuit Television (CCTV) Systems or by any  
-           further issuance of the Commission.
+3. Requests for access by any person whose image is recorded on BWCs or ARDs as  
+   well as third party access requests shall be governed by the procedures provided  
+   under the NPC guidelines on Closed-Circuit Television (CCTV) Systems or by any  
+   further issuance of the Commission.
 
-    C. Ensuring that the BWCs or ARDs have the following features: 10
+C. Ensuring that the BWCs or ARDs have the following features: 10
 
 10 See generally: United Kingdom, Home Office Centre for Applied Science and Technology, Body-Worn Video
 
@@ -228,84 +228,84 @@ Technical Guidance, available at
 [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/)  
 file/565608/body-worn-video-technical-guidance-1414.pdf (last accessed 21 June 2021).
 
-         1. The recordings shall be in a standard, open, non-proprietary format such that it  
-            can be replayed in a freely available software;  
-         2. The device exports all recordings to data archiving/management system in its  
-            original file format and without loss of quality or associated metadata;  
-         3. The device prohibits recordings from being edited or deleted, except through a  
-            data management software once recordings have been transferred, and should not  
-            overwrite existing data before they have been transferred. The recorded data  
-            transferred to an external media storage device should also be protected from  
-            editing or deletion until it is no longer necessary for the fulfillment of the purposes  
-            for which the data was obtained.  
-         4. Require recordings to contain a date (e.g., month:day:year), time stamp (e.g.,  
-            hours:minutes:seconds), and location data, capable of being exported with the  
-            imagery in a format that is readable in third party software; and  
-         5. Presence of a visual recording indicator that is clearly visible to those being  
-            recorded.
+ 1. The recordings shall be in a standard, open, non-proprietary format such that it  
+can be replayed in a freely available software;  
+ 2. The device exports all recordings to data archiving/management system in its  
+original file format and without loss of quality or associated metadata;  
+ 3. The device prohibits recordings from being edited or deleted, except through a  
+data management software once recordings have been transferred, and should not  
+overwrite existing data before they have been transferred. The recorded data  
+transferred to an external media storage device should also be protected from  
+editing or deletion until it is no longer necessary for the fulfillment of the purposes  
+for which the data was obtained.  
+ 4. Require recordings to contain a date (e.g., month:day:year), time stamp (e.g.,  
+hours:minutes:seconds), and location data, capable of being exported with the  
+imagery in a format that is readable in third party software; and  
+ 5. Presence of a visual recording indicator that is clearly visible to those being  
+recorded.
 
-    D. Safeguarding recordings during storage and transmission using appropriate  
-       encryption software.
+D. Safeguarding recordings during storage and transmission using appropriate  
+   encryption software.
 
-    E. Establishing a policy governing the process of downloading, transmitting, and storing  
-       recordings on another device, which will be used to facilitate access requests from the  
-       data subject.
+E. Establishing a policy governing the process of downloading, transmitting, and storing  
+   recordings on another device, which will be used to facilitate access requests from the  
+   data subject.
 
-    F. Retain recordings only for as long as necessary for the fulfillment of the purposes for  
-       which the data was obtained:
+F. Retain recordings only for as long as necessary for the fulfillment of the purposes for  
+   which the data was obtained:
 
-         1. Law enforcement and public authority. Recordings that are necessary for pending  
-            investigations, prosecutions, or cases with judicial or quasi-judicial bodies, or to be  
-            used for training PNP personnel 11 may continue to be processed in accordance  
-            with the applicable criteria for lawful processing under Sections 12 and 13 of the  
-            DPA or the special cases under Section 4 of the DPA, and retained for a longer  
-            period, subject to appropriate safeguards. This provision shall not be construed as  
-            limiting or denying data subject access requests which have been made before the  
-            lapse of the thirty (30)-day period.
+ 1. Law enforcement and public authority. Recordings that are necessary for pending  
+investigations, prosecutions, or cases with judicial or quasi-judicial bodies, or to be  
+used for training PNP personnel 11 may continue to be processed in accordance  
+with the applicable criteria for lawful processing under Sections 12 and 13 of the  
+DPA or the special cases under Section 4 of the DPA, and retained for a longer  
+period, subject to appropriate safeguards. This provision shall not be construed as  
+limiting or denying data subject access requests which have been made before the  
+lapse of the thirty (30)-day period.
 
-         2. Retention of recordings by other persons or entities using BWCs or ARDs. Recordings  
-            made by persons or entities shall be retained for thirty (30) calendar days or as may  
-            be provided for in other laws or regulations that may require its retention.
+ 2. Retention of recordings by other persons or entities using BWCs or ARDs. Recordings  
+made by persons or entities shall be retained for thirty (30) calendar days or as may  
+be provided for in other laws or regulations that may require its retention.
 
-         3. Disposal of recordings. Recordings shall be disposed in a secure manner that would  
-            prevent unauthorized further processing. The storage media must be electronically  
-            wiped, including back up data, to ensure that recordings are permanently erased  
-            and beyond recovery.
+ 3. Disposal of recordings. Recordings shall be disposed in a secure manner that would  
+prevent unauthorized further processing. The storage media must be electronically  
+wiped, including back up data, to ensure that recordings are permanently erased  
+and beyond recovery.
 
 SECTION 5. Upholding data subject rights. — Mechanisms for data subjects to exercise  
 their rights under Sections 16 to 18 of the DPA shall be provided.
 
 11 PNP Memorandum Circular No. 2018-009, § 6 (c) (2) (i) and (5) (a).
 
-    A. The exercise of such rights is subject to reasonable limitations, such as when upholding  
-       data subject rights would prevent, impair, or otherwise prejudice ongoing police  
-       operations and other related law enforcement activities, or in the interest of national  
-       security or public order or safety, as may be provided for by law: provided, that when  
-       the identified reasonable limitations herein have ceased to exist, the data subject rights  
-       should subsequently be upheld, e.g., in case of an access request which was denied as  
-       it may affect ongoing police operations, the specific footage requested should be  
-       tagged, archived, and released when such action would no longer prevent, impair, or  
-       otherwise prejudice ongoing police operations.
+A. The exercise of such rights is subject to reasonable limitations, such as when upholding  
+   data subject rights would prevent, impair, or otherwise prejudice ongoing police  
+   operations and other related law enforcement activities, or in the interest of national  
+   security or public order or safety, as may be provided for by law: provided, that when  
+   the identified reasonable limitations herein have ceased to exist, the data subject rights  
+   should subsequently be upheld, e.g., in case of an access request which was denied as  
+   it may affect ongoing police operations, the specific footage requested should be  
+   tagged, archived, and released when such action would no longer prevent, impair, or  
+   otherwise prejudice ongoing police operations.
 
-    B. Data subjects may exercise their rights with due consideration of the rights and  
-       freedoms of others, e.g., in case of an access request for footage which captures other  
-       individuals who are irrelevant to the purpose of the request, PICs must mask the  
-       images of those other individuals prior to the release of such footage.
+B. Data subjects may exercise their rights with due consideration of the rights and  
+   freedoms of others, e.g., in case of an access request for footage which captures other  
+   individuals who are irrelevant to the purpose of the request, PICs must mask the  
+   images of those other individuals prior to the release of such footage.
 
-    C. Data subjects shall be informed that they are being recorded unless doing so would be  
-       impractical, dangerous, or impossible for the specific police operation, other law  
-       enforcement activity, or analogous circumstances.
+C. Data subjects shall be informed that they are being recorded unless doing so would be  
+   impractical, dangerous, or impossible for the specific police operation, other law  
+   enforcement activity, or analogous circumstances.
 
-        1. PICs are required to inform the data subjects with relevant information at the next  
-           practical opportunity which depends upon the surrounding circumstance of the  
-           case.  
-        2. The timing of the provision of information must always be within a reasonable period to give effect to the data subject’s right to be informed.[^12]
+1. PICs are required to inform the data subjects with relevant information at the next  
+   practical opportunity which depends upon the surrounding circumstance of the  
+   case.  
+2. The timing of the provision of information must always be within a reasonable period to give effect to the data subject’s right to be informed.[^12]
 
-    D. There shall be a careful determination and evaluation on whether the right to access  
-       to recordings may be granted depending on the circumstances such as when providing  
-       access to the requested recording may put an ongoing police operation at risk. In all  
-       cases, PICs shall be required to state the reason for the delay on granting or acting  
-       upon the requested access or the justification for the denial of the request.
+D. There shall be a careful determination and evaluation on whether the right to access  
+   to recordings may be granted depending on the circumstances such as when providing  
+   access to the requested recording may put an ongoing police operation at risk. In all  
+   cases, PICs shall be required to state the reason for the delay on granting or acting  
+   upon the requested access or the justification for the denial of the request.
 
 SECTION 6. Privacy Impact Assessment. — PICs shall conduct a privacy impact  
 assessment (PIA) prior to the adoption, use, or implementation of BWCs or ARDs or within a  

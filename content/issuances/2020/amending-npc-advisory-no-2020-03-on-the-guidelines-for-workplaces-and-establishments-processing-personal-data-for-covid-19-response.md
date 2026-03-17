@@ -2,14 +2,14 @@
 title: "Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response (Advisory No. 2020-03)"
 description: "SUBJECT : AMENDING NPC ADVISORY NO. 2020 – 03 ON THE GUIDELINES FOR WORKPLACES AND ESTABLISHMENTS PROCESSING PERSONAL DATA FOR COVID-19 RESPONSE"
 aliases:
-  - "Advisory No. 2020-03"
-  - "advisory no. 2020-03"
-  - "amending npc advisory no. 2020-03 on the guidelines for workplaces and establishments processing personal data for covid-19 response"
-  - "npc advisory no. 2020-03"
+- "Advisory No. 2020-03"
+- "advisory no. 2020-03"
+- "amending npc advisory no. 2020-03 on the guidelines for workplaces and establishments processing personal data for covid-19 response"
+- "npc advisory no. 2020-03"
 tags:
-  - "issuance"
-  - "type/advisory"
-  - "year/2020"
+- "issuance"
+- "type/advisory"
+- "year/2020"
 draft: false
 ---
 
@@ -27,9 +27,7 @@ SECTION 2. Section 4 (A) of [[issuances/2020/guidelines-for-workplaces-and-estab
 
 A. Establishments shall limit the collection of information to those purposes which are required for COVID-19 prevention and control based on existing government issuances: (1) Employee Health Declaration Form and (2) Client/Visitor Contact Tracing Form.”
 
-SECTION 3. Repealing Clause. – Any reference to the Department of Trade and Industry  
-(DTI) Customer Information and Health Checklist is hereby removed. The pertinent provisions of  
-or modified.
+SECTION 3. Repealing Clause. – Any reference to the Department of Trade and Industry (DTI) Customer Information and Health Checklist is hereby removed. The pertinent provisions of or modified.
 
 Approved:
 

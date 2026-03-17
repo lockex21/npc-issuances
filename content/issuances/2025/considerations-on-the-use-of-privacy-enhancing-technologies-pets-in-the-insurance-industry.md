@@ -84,25 +84,25 @@ their IRRs, and other NPC and IC issuances, as amended, are adopted herein.
 
 SECTION 3. Privacy-Enhancing Technologies (PETs). –
 
-     A. PETs are a “collection of digital technologies, approaches and tools that permit
-        data processing and analysis while protecting the confidentiality, and in some
-        cases also the integrity and availability, of the data and thus the privacy of the
-        data subjects and commercial interests of [PICs].”[^2]
+ A. PETs are a “collection of digital technologies, approaches and tools that permit
+data processing and analysis while protecting the confidentiality, and in some
+cases also the integrity and availability, of the data and thus the privacy of the
+data subjects and commercial interests of [PICs].”[^2]
 
 Categories of PETs[^3] include:
 
-          1. Data Obfuscation Tools. Some examples of data obfuscation tools are  
-             anonymization, pseudonymization, synthetic data, differential privacy, and  
-             zero-knowledge proofs.  
-          2. Encrypted Data Processing Tools. Some examples of encrypted data  
-             processing tools are homomorphic encryption, multi-party computation,  
-             and trusted execution environments.  
-          3. Federated and Distributed Analytics. Some examples of federated and  
-             distributed analytics are federated learning, and distributed analytics.  
-          4. Data Accountability Tools. Some examples of data accountability tools are  
-             threshold secret sharing, and personal data stores.
+  1. Data Obfuscation Tools. Some examples of data obfuscation tools are  
+ anonymization, pseudonymization, synthetic data, differential privacy, and  
+ zero-knowledge proofs.  
+  2. Encrypted Data Processing Tools. Some examples of encrypted data  
+ processing tools are homomorphic encryption, multi-party computation,  
+ and trusted execution environments.  
+  3. Federated and Distributed Analytics. Some examples of federated and  
+ distributed analytics are federated learning, and distributed analytics.  
+  4. Data Accountability Tools. Some examples of data accountability tools are  
+ threshold secret sharing, and personal data stores.
 
-     B. The Organisation for Economic Co-operation and Development (OECD) published a report on PETs. The report discusses the nature and various categories of PETs, and developments surrounding PETs. The report is available on the OECD website through the following link: Emerging Privacy-Enhancing Technologies: Current Regulatory and Policy Approaches[^4]
+ B. The Organisation for Economic Co-operation and Development (OECD) published a report on PETs. The report discusses the nature and various categories of PETs, and developments surrounding PETs. The report is available on the OECD website through the following link: Emerging Privacy-Enhancing Technologies: Current Regulatory and Policy Approaches[^4]
 
 SECTION 4. Selection and Implementation of PETs; Factors. – Covered Entities may
 adopt PETs to analyze data and develop insights from such data while upholding
@@ -110,26 +110,26 @@ privacy and maintaining an appropriate level of security. PETs are privacy-prese
 mechanisms that may support adherence to general privacy principles and compliance
 with other obligations provided under the relevant data privacy laws and regulations.
 
-     A. Covered Entities shall be responsible for any processing of personal data through the adoption of PETs, including when the processing is outsourced or subcontracted to a PIP, following the Principle of Accountability.[^5] As such, Covered Entities must ensure that their use of PETs is compliant with data privacy laws and regulations;
+ A. Covered Entities shall be responsible for any processing of personal data through the adoption of PETs, including when the processing is outsourced or subcontracted to a PIP, following the Principle of Accountability.[^5] As such, Covered Entities must ensure that their use of PETs is compliant with data privacy laws and regulations;
 
-     B. Notwithstanding the adoption of PETs, Covered Entities shall ensure their
-        continuous compliance with their obligations under the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other
-        issuances of the NPC, including but not limited to:
+ B. Notwithstanding the adoption of PETs, Covered Entities shall ensure their
+continuous compliance with their obligations under the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other
+issuances of the NPC, including but not limited to:
 
-           1. Implement reasonable and appropriate organizational, physical, and
-              technical measures for the protection of personal data against any
-              accidental or unlawful processing;[^6]
-           2. Register data processing systems with the NPC pursuant to the relevant NPC regulations on registration;[^7] and
-           3. Comply with breach notification requirements in accordance with
-              guidelines on data breach management.[^8]
+   1. Implement reasonable and appropriate organizational, physical, and
+  technical measures for the protection of personal data against any
+  accidental or unlawful processing;[^6]
+   2. Register data processing systems with the NPC pursuant to the relevant NPC regulations on registration;[^7] and
+   3. Comply with breach notification requirements in accordance with
+  guidelines on data breach management.[^8]
 
-     C. Covered Entities shall conduct Privacy Impact Assessments (PIA) for every processing system that involves personal data before the adoption of PETs and thereafter as may be necessary.[^9] A PIA is a continuing requirement, regularly reviewed and updated to account for changes in products, services, processes, or regulations.[^10] Covered Entities may utilize PIA results to assess which specific PETs are most suitable for their processing activities and identified risks.
+ C. Covered Entities shall conduct Privacy Impact Assessments (PIA) for every processing system that involves personal data before the adoption of PETs and thereafter as may be necessary.[^9] A PIA is a continuing requirement, regularly reviewed and updated to account for changes in products, services, processes, or regulations.[^10] Covered Entities may utilize PIA results to assess which specific PETs are most suitable for their processing activities and identified risks.
 
-     D. In assessing which PETs are most suitable for their business purpose, Covered
-        Entities can consider industry standards and best practices. Covered Entities
-        may also consider factors such as technical compatibility, costs, and efficiency.
-        They may utilize more than one PET taking into consideration each PET’s
-        specific benefit and purpose and their specific needs.
+ D. In assessing which PETs are most suitable for their business purpose, Covered
+Entities can consider industry standards and best practices. Covered Entities
+may also consider factors such as technical compatibility, costs, and efficiency.
+They may utilize more than one PET taking into consideration each PET’s
+specific benefit and purpose and their specific needs.
 
 Approved:
 

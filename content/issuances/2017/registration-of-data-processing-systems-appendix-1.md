@@ -2,15 +2,15 @@
 title: "Registration of Data Processing Systems Appendix 1 (Circular No. 2017-01)"
 description: "NPC Circular No. 2017-01 Registration of Data Processing Systems and Notifications regarding Automated Decision-Making Operations 31 July 2017"
 aliases:
-  - "Circular No. 2017-01"
-  - "circular no. 2017-01"
-  - "npc circular no. 2017-01"
-  - "registration of data processing systems appendix 1"
+- "Circular No. 2017-01"
+- "circular no. 2017-01"
+- "npc circular no. 2017-01"
+- "registration of data processing systems appendix 1"
 tags:
-  - "issuance"
-  - "topic/registration"
-  - "type/circular"
-  - "year/2017"
+- "issuance"
+- "topic/registration"
+- "type/circular"
+- "year/2017"
 draft: false
 ---
 
@@ -24,22 +24,11 @@ draft: false
 
 Appendix 1.
 
-Re: Initial determination of the National Privacy Commission on sectors or institutions  
-requiring Registration of Data Processing Systems under Sections 5(C) and 5(D) of NPC  
-Circular 17-01 on the “Registration of Data Processing Systems and Notifications  
-regarding automated decision-making.”
+Re: Initial determination of the National Privacy Commission on sectors or institutions requiring Registration of Data Processing Systems under Sections 5(C) and 5(D) of NPC Circular 17-01 on the “Registration of Data Processing Systems and Notifications regarding automated decision-making.”
 
-The sectors or institutions provided herein that are processing personal data and  
-operating in the country are subject to mandatory registration as provided in Sections  
-5(C) and 5(D) of NPC Circular 17-01. ALL OTHER PICS OR PIPS SHOULD REGISTER  
-IF IT EMPLOYS AT LEAST 250 PERSONS OR PROCESSING AT LEAST 1,000  
-RECORDS INVOLVING SENSITIVE PERSONAL INFORMATION.
+The sectors or institutions provided herein that are processing personal data and operating in the country are subject to mandatory registration as provided in Sections 5(C) and 5(D) of NPC Circular 17-01. ALL OTHER PICS OR PIPS SHOULD REGISTER IF IT EMPLOYS AT LEAST 250 PERSONS OR PROCESSING AT LEAST 1,000 RECORDS INVOLVING SENSITIVE PERSONAL INFORMATION.
 
-The National Privacy Commission determines, for the limited purpose of mandatory  
-registration under NPC Circular 17-01, that the following sectors or institutions are  
-considered PICs or PIPs involved in the processing of personal data that is likely to pose  
-a risk to the rights and freedoms of data subjects and/or where the processing is not  
-occasional:
+The National Privacy Commission determines, for the limited purpose of mandatory registration under NPC Circular 17-01, that the following sectors or institutions are considered PICs or PIPs involved in the processing of personal data that is likely to pose a risk to the rights and freedoms of data subjects and/or where the processing is not occasional:
 
 1. GOVERNMENT BRANCHES, BODIES OR ENTITIES, INCLUDING NATIONAL GOVERNMENT AGENCIES, BUREAUS OR OFFICES, CONSTITUTIONAL COMMISSIONS, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED AND CONTROLLED CORPORATIONS
 

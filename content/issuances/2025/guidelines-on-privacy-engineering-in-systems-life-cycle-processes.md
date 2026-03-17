@@ -182,43 +182,43 @@ Deputy Privacy Commissioner                Deputy Privacy Commissioner
 
 [^4]: [[data-privacy-act-of-2012#Section 11. General Data Privacy Principles|Section 11 of the Republic Act 10173 - Data Privacy Act of 2012.]]
 
-[^5]: [[]], available at https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryNo.2017-03.pdf.
+[^5]: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03: Guidelines on Privacy Impact Assessments]]
 
-[^6]: Section 20(c) of the Republic Act 10173 - Data Privacy Act of 2012, National Privacy Commission, available at https://privacy.gov.ph/data-privacy-act/.
+[^6]: [[laws/data-privacy-act-of-2012#Section 20. Security of Personal Information|Section 20(c) of the Republic Act 10173 - Data Privacy Act of 2012]].
 
-[^7]: Section 25 of the Implementing Rules and Regulations of the Data Privacy Act of 2012, available at https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/.
+[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 25. Data Privacy and Security|Section 25 of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 
-[^8]: Data Protection Engineering From Theory to Practice, available at https://www.enisa.europa.eu/sites/default/files/publications/ENISA%20Report%20-%20Data%20Protection%20Engineering.pdf
+[^8]: Data Protection Engineering From Theory to Practice, available at [ENISA](https://www.enisa.europa.eu/sites/default/files/publications/ENISA%20Report%20-%20Data%20Protection%20Engineering.pdf).
 
-[^9]: Section 28(e) of the IRR of DPA.
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 28. Guidelines for Technical Security Measures|Section 28(e) of the IRR of DPA]].
 
-[^10]: Section 16 of the Republic Act 10173 – Data Privacy Act of 2012.
+[^10]: [[laws/data-privacy-act-of-2012#Section 16. Rights of the Data Subject|Section 16 of the Republic Act 10173 - Data Privacy Act of 2012]].
 
-[^11]: Section 16 and 19 of the NPC Circular 2023-06: Security of Personal Data in the Government and the Private Sector, available at https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf.
+[^11]: [[issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector#SECTION 16. Online Access to Personal Data. - A PIC or PIP shall implement secure|Section 16]] and [[issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector#SECTION 19. Physical Filing System. - If personal data is stored in any physical media, such|Section 19]] of [[issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular 2023-06: Security of Personal Data in the Government and the Private Sector]].
 
-[^12]: Fuzz testing or fuzzing is an automated software testing method that injects invalid, malformed, or unexpected inputs into a system to reveal software defects and vulnerabilities, available at https://www.synopsys.com/glossary/what-is-fuzz-testing.html#:~:text=Definition,as%20crashes%20or%20information%20leakage.
+[^12]: Fuzz testing or fuzzing is an automated software testing method that injects invalid, malformed, or unexpected inputs into a system to reveal software defects and vulnerabilities, available at [Synopsys](https://www.synopsys.com/glossary/what-is-fuzz-testing.html#:~:text=Definition,as%20crashes%20or%20information%20leakage).
 
-[^13]: Section 28(f) of the Implementing Rules and Regulations of the Data Privacy Act of 2012.
+[^13]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 28. Guidelines for Technical Security Measures|Section 28(f) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 
-[^14]: NPC Advisory 2021-01: Data Subject Rights, available at https://privacy.gov.ph/wp-content/uploads/2021/02/NPC-Advisory-2021-01-FINAL.pdf.
+[^14]: [[issuances/2021/data-subject-rights|NPC Advisory 2021-01: Data Subject Rights]].
 
-[^15]: Section 28(b) of the Implementing Rules and Regulations of the Data Privacy Act of 2012.
+[^15]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 28. Guidelines for Technical Security Measures|Section 28(b) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 
-[^16]: ISO/IEC 29101:2018(En), Information Technology — Security Techniques — Privacy Architecture Framework, available at https://www.iso.org/obp/ui/en/#iso:std:iso-iec:29101:ed-2:v1:en.
+[^16]: ISO/IEC 29101:2018(En), Information Technology - Security Techniques - Privacy Architecture Framework, available at [ISO](https://www.iso.org/obp/ui/en/#iso:std:iso-iec:29101:ed-2:v1:en).
 
-[^17]: Section 6 of the NPC Advisory 2021-01: Data Subject Rights.
+[^17]: [[issuances/2021/data-subject-rights#SECTION 6. Right to be Informed. — The data subject has the right to be informed whether|Section 6 of the NPC Advisory 2021-01: Data Subject Rights]].
 
-[^18]: NPC Advisory No. 2023-01: Guidelines on Deceptive Design Patterns, available at https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.pdf.
+[^18]: [[issuances/2023/guidelines-on-deceptive-design-patterns|NPC Advisory No. 2023-01: Guidelines on Deceptive Design Patterns]].
 
-[^19]: NPC Circular No. 2023-04: Guidelines on Consent.
+[^19]: [[issuances/2023/guidelines-on-consent|NPC Circular No. 2023-04: Guidelines on Consent]].
 
-[^20]: Section 28(d-e) of the Implementing Rules and Regulations of the Data Privacy Act of 2012.
+[^20]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 28. Guidelines for Technical Security Measures|Section 28(d-e) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 
-[^21]: Section 28(f) of the Implementing Rules and Regulations of the Data Privacy Act of 2012.
+[^21]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 28. Guidelines for Technical Security Measures|Section 28(f) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 
-[^22]: NPC Advisory 2021-01: Data Subject Rights.
+[^22]: [[issuances/2021/data-subject-rights|NPC Advisory 2021-01: Data Subject Rights]].
 
-[^23]: Section 26(d) of the Implementing Rules and Regulations of the Data Privacy Act of 2012.
+[^23]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 26. Organizational Security Measures|Section 26(d) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 
 ## Source And Notes
 
