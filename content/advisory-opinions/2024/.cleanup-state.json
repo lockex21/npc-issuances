@@ -1,0 +1,94 @@
+{
+  "advisory-opinion-no-2024-001-advisory-opinion-no-2024-001.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T00:00:00Z"
+  },
+  "advisory-opinion-no-2024-0014-npc-advisory-opinion-no-2024-0014-disclosure-of-names-sgd-redacted.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T03:10:10.352365Z",
+    "cleanup_pass": "full_structural_cleanup"
+  },
+  "advisory-opinion-no-2024-002-advisory-opinion-no-2024-002.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T00:01:00Z"
+  },
+  "advisory-opinion-no-2024-003-advisory-opinion-no-2024-003.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T00:02:00Z"
+  },
+  "advisory-opinion-no-2024-004-advisory-opinion-no-2024-004.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T01:00:00Z",
+    "notes": "Batch processed - cleaned markdown structure"
+  },
+  "advisory-opinion-no-2024-005-advisory-opinion-no-2024-005.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T03:10:10.352365Z",
+    "cleanup_pass": "full_structural_cleanup"
+  },
+  "advisory-opinion-no-2024-006-advisory-opinion-no-2024-006-redacted.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T01:00:00Z",
+    "notes": "Batch processed - cleaned markdown structure"
+  },
+  "advisory-opinion-no-2024-007-advisory-opinion-no-2024-007-redacted.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T01:00:00Z",
+    "notes": "Batch processed - cleaned markdown structure"
+  },
+  "advisory-opinion-no-2024-008-advisory-opinion-no-2024-008-redacted.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T03:10:10.352365Z",
+    "cleanup_pass": "full_structural_cleanup"
+  },
+  "advisory-opinion-no-2024-009-advisory-opinion-no-2024-009.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T01:00:00Z",
+    "notes": "Batch processed - cleaned markdown structure"
+  },
+  "advisory-opinion-no-2024-010-advisory-opinion-no-2024-010-disclosure-of-cooperative-member-s-loan-ledgers-sgd-redacted.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T03:10:10.352365Z",
+    "cleanup_pass": "full_structural_cleanup"
+  },
+  "advisory-opinion-no-2024-011-advisory-opinion-no-2024-011-sgd-redacted.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T03:10:10.352365Z",
+    "cleanup_pass": "full_structural_cleanup"
+  },
+  "advisory-opinion-no-2024-012-advisory-opinion-no-2024-012-tirol-law-right-to-inspect-corporate-records-redacted.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T03:10:10.352365Z",
+    "cleanup_pass": "full_structural_cleanup"
+  },
+  "advisory-opinion-no-2024-013-advisory-opinion-no-2024-013-sgd-redacted.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T03:10:10.352365Z",
+    "cleanup_pass": "full_structural_cleanup"
+  },
+  "advisory-opinion-no-2024-015-advisory-opinion-no-2024-015-draft-advisory-opinion-no-2024-015-personal-data-audit-purposes-sgd-redacted.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T03:10:10.352365Z",
+    "cleanup_pass": "full_structural_cleanup"
+  },
+  "advisory-opinion-no-2024-016-npc-advisory-opinion-no-2024-016-disclosure-of-personal-data-pursuant-to-a-mo-by-the-bir-sgd-redacted.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T03:10:10.352365Z",
+    "cleanup_pass": "full_structural_cleanup"
+  },
+  "advisory-opinion-no-2024-017-npc-advisory-opinion-no-2024-017-an-over-an-over-san-diego-primavera-law-offices-redacted.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T03:10:10.352365Z",
+    "cleanup_pass": "full_structural_cleanup"
+  },
+  "advisory-opinion-no-2024-018-npc-advisory-opinion-no-2024-018-toll-regulatory-board-redacted.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T03:10:10.352365Z",
+    "cleanup_pass": "full_structural_cleanup"
+  },
+  "advisory-opinion-no-2024-019-npc-advisory-opinion-no-2024-019.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T03:10:10.352365Z",
+    "cleanup_pass": "full_structural_cleanup"
+  }
+}
