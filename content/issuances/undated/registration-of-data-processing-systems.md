@@ -1,11 +1,12 @@
 ---
-title: "Registration of Data Processing Systems (Circular No. 17-01)"
-description: "SUBJECT : REGISTRATION OF DATA PROCESSING SYSTEMS AND NOTIFICATIONS REGARDING AUTOMATED DECISION-MAKING"
+title: "Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making (Circular No. 17-01)"
+description: "SUBJECT: REGISTRATION OF DATA PROCESSING SYSTEMS AND NOTIFICATIONS REGARDING AUTOMATED DECISION-MAKING"
 aliases:
   - "Circular No. 17-01"
   - "circular no. 17-01"
   - "npc circular no. 17-01"
   - "registration of data processing systems"
+  - "registration of data processing systems and notifications regarding automated decision-making"
 tags:
   - "issuance"
   - "topic/registration"
@@ -18,9 +19,11 @@ draft: false
 
 **Circular No. 17-01**
 
-INFORMATION PROCESSORS
+**DATE:** 31 July 2017
 
-SUBJECT : REGISTRATION OF DATA PROCESSING SYSTEMS AND NOTIFICATIONS REGARDING AUTOMATED DECISION-MAKING
+**TO:** ALL PERSONAL INFORMATION CONTROLLERS AND PERSONAL INFORMATION PROCESSORS
+
+**SUBJECT:** REGISTRATION OF DATA PROCESSING SYSTEMS AND NOTIFICATIONS REGARDING AUTOMATED DECISION-MAKING
 
 WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State
 recognizes the vital role of communication and information in nation-building. At the same time,
@@ -68,7 +71,7 @@ WHEREFORE, in consideration of these premises, the NPC hereby issues this Circul
 governing the registration of data processing systems and notifications regarding automated
 decision-making:
 
-### Rule I. Preliminary Provisions
+## RULE I. PRELIMINARY PROVISIONS
 
 SECTION 1. Scope. The provisions of this Circular shall apply to any natural or juridical person
 in the government or private sector processing personal data and operating in the Philippines,
@@ -227,7 +230,7 @@ submitted by a PIC or PIP to the Commission shall be kept confidential.
 D. Any doubt in the interpretation of the provisions of this Circular shall be liberally
 interpreted in a manner that would uphold the rights and interests of data subjects.
 
-### Rule II. Registration Of Data Processing Systems
+## RULE II. REGISTRATION OF DATA PROCESSING SYSTEMS
 
 SECTION 5. Mandatory Registration. A PIC or PIP shall register its data processing systems if
 it is processing personal data and operating in the country under any of the following conditions:
@@ -240,14 +243,14 @@ individuals;
 C. the processing is likely to pose a risk to the rights and freedoms of data subjects.
 Processing operations that pose a risk to data subjects include those that involve:
 
-1.) information that would likely affect national security, public safety, public order,
+1. information that would likely affect national security, public safety, public order,
 or public health;
-2.) information required by applicable laws or rules to be confidential;
-3.) vulnerable data subjects like minors, the mentally ill, asylum seekers, the elderly,
+2. information required by applicable laws or rules to be confidential;
+3. vulnerable data subjects like minors, the mentally ill, asylum seekers, the elderly,
 patients, those involving criminal offenses, or in any other case where an
 imbalance exists in the relationship between a data subject and a PIC or PIP;
-4.) automated decision-making; or
-5.) profiling;
+4. automated decision-making; or
+5. profiling;
 
 D. the processing is not occasional: Provided, that processing shall be considered occasional
 if it is only incidental to the mandate or function of the PIC or PIP, or, it only occurs
@@ -300,21 +303,21 @@ duly-notarized and accompanied by the following documents:
 
 A. For government agencies:
 
-1.) certified true copy of the Special/Office Order, or any similar document,
+1. certified true copy of the Special/Office Order, or any similar document,
 designating or appointing the DPO of the PIC or PIP; and
-2.) where applicable, a copy of the charter of the government entity, or any similar
+2. where applicable, a copy of the charter of the government entity, or any similar
 document identifying its mandate, powers, and/or functions.
 
 B. For private entities:
 
-1.) duly-notarized Secretary’s Certificate authorizing the appointment or designation
+1. duly-notarized Secretary’s Certificate authorizing the appointment or designation
 of DPO, or any other document that demonstrates the validity of the appointment
 or designation.
-2.) certified true copy of the following documents, where applicable:
-a.) General Information Sheet or any similar document;
-b.) Certificate of Registration (SEC Certificate, DTI Certification of Business
+2. certified true copy of the following documents, where applicable:
+a. General Information Sheet or any similar document;
+b. Certificate of Registration (SEC Certificate, DTI Certification of Business
 Name or Sole Proprietorship) or any similar document; and/or
-c.) Franchise, license to operate, or any similar document.
+c. Franchise, license to operate, or any similar document.
 
 SECTION 11. Online Registration Platform. In the Commission’s online registration platform, a
 PIC or PIP shall provide the following registration information:
@@ -332,16 +335,16 @@ personnel, that are related to personal data processing;
 
 E. brief description of data processing system or systems:
 
-1.) name of the system;
-2.) purpose or purposes of the processing;
-3.) whether processing is being done as a PIC, PIP, or both;
-4.) whether the system is outsourced or subcontracted, and if so, the name and contact
+1. name of the system;
+2. purpose or purposes of the processing;
+3. whether processing is being done as a PIC, PIP, or both;
+4. whether the system is outsourced or subcontracted, and if so, the name and contact
 details of the PIP;
-5.) description of the category or categories of data subjects, and their personal data
+5. description of the category or categories of data subjects, and their personal data
 or categories thereof;
-6.) recipients or categories of recipients to whom the personal data might be
+6. recipients or categories of recipients to whom the personal data might be
 disclosed; and
-7.) whether personal data is transferred outside of the Philippines;
+7. whether personal data is transferred outside of the Philippines;
 
 F. notification regarding any automated decision-making operation.
 
@@ -374,10 +377,10 @@ B. a new or additional data processing system;
 C. an amendment or update to the description of a registered data processing system,
 particularly:
 
-1.) purpose or purposes of processing;
-2.) description of the category or categories of data subjects, and of their personal data
+1. purpose or purposes of processing;
+2. description of the category or categories of data subjects, and of their personal data
 or categories thereof;
-3.) recipients or categories of recipients to whom the personal data might be
+3. recipients or categories of recipients to whom the personal data might be
 disclosed;
 
 D. a new or additional automated decision-making process;
@@ -408,7 +411,7 @@ SECTION 18. Reasonable Fees. To recover administrative costs, the Commission may
 payment of reasonable fees for registration, renewal, and other purposes in accordance with a
 schedule that shall be provided in a separate issuance.
 
-### Rule III. Registry Of Data Processing Systems
+## RULE III. REGISTRY OF DATA PROCESSING SYSTEMS
 
 SECTION 19. Maintenance of Registry. The Commission shall maintain a registry of data
 processing systems in electronic format.
@@ -436,9 +439,9 @@ D. Expired and void registration.
 SECTION 23. Non-inclusion of Confidential Information. Information classified by the
 Constitution or any statute as confidential shall not be included in the registry.
 
-### Rule IV. Notifications Regarding AUTOMATED DECISION-MAKING
+## RULE IV. NOTIFICATIONS REGARDING AUTOMATED DECISION-MAKING
 
-SECTION 24. Notification of Automated Decision-Making. A PIC or PIC that carries out any
+SECTION 24. Notification of Automated Decision-Making. A PIC or PIP that carries out any
 automated decision-making operation shall notify the Commission via the mandatory
 registration process.
 
@@ -457,7 +460,7 @@ C. methods and logic utilized for automated processing; and
 D. possible decisions relating to the data subject based on the processed data, particularly
 if they would significantly affect his or her rights and freedoms.
 
-### Rule V. Sanctions And Penalties
+## RULE V. SANCTIONS AND PENALTIES
 
 SECTION 27. Revocation of Certificate of Registration. The Commission may revoke the
 registration of a PIC or PIP on any of the following grounds:
@@ -504,7 +507,7 @@ PIC or PIP a Cease and Desist Order on the processing of personal data: Provided
 without prejudice to any other administrative, civil, or criminal penalties that the PIC or PIP may
 incur under the [[laws/data-privacy-act-of-2012|DPA]] and other applicable laws.
 
-### Rule VI. Miscellaneous Provisions
+## RULE VI. MISCELLANEOUS PROVISIONS
 
 SECTION 31. Transitory Period. Notwithstanding the deadline for registration provided in the
 IRR, all PICs and PIPs covered by this Circular shall complete Phase I of the registration process

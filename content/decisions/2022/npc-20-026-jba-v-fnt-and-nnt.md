@@ -1,6 +1,6 @@
 ---
 title: "NPC 20-026: JBA v. FNT and NNT"
-description: "Complaints -Assisted Form, 20 January 2020, at 3, in JBA v. FNT and NNT , NPC Case No. 20 -026"
+description: "Complaint against a real estate brokerage for unauthorized processing of personal information for property listings. Finds violation of Section 25 of the Data Privacy Act by one respondent; dismisses against the other."
 tags:
   - "decision"
   - "type/decision"
@@ -21,7 +21,6 @@ draft: false
 - Unauthorized Processing (Section 25), Substantial Evidence, Right to Erasure
 
 ## Decision Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 JBA ,
 
@@ -31,7 +30,7 @@ Complainant,
 
 FNT and NNT ,
 
-Respondent s.
+Respondents.
 
 x----------------------------------------------------x
 
@@ -45,7 +44,7 @@ Privacy Act of 2012 (DPA).
 
 Facts
 
-In her Complaints -Assisted Form (CAF) dated 20 January 2020, JBA
+In her Complaints-Assisted Form (CAF) dated 20 January 2020, JBA
 
 claimed that FNT and NNT committed identity theft “by using [her]
 
@@ -55,7 +54,7 @@ number[s].” 1 Further, JBA stressed that FNT and NNT ’s act affected
 
 her profession as a Real Estate Broker and that as of the date she filed
 
-the complaint, the websites using her name we re still active. 2 As
+the complaint, the websites using her name were still active. 2 As
 
 evidence, JBA attached to her CAF various screenshots of website
 
@@ -69,61 +68,26 @@ October 2018. 5 On the same date, FNT received and signed the
 
 resignation letter. 6 The resignation letter stated:
 
-> 1
-
-Complaints -Assisted Form,  20 January 2020, at 3, in JBA v. FNT and NNT , NPC Case No. 20 -026
-
-(NPC 2022).
-
-> 2
-
-Id . at 5.
-
-> 3
-
-Id . at 13 -120 .
-
-> 4
-
-Id . at 5 .
-
-> 5
-
-Id.
-
-> 6
-
-Id . at 11 .
-
-NPC 20 -026
-
-For: Violation of the
-
-Data Privacy Act of
-
-2012 NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 I hereby tender my irrevocable resignation as a Sales Persons of
 
 Homeplus Realty effective today, October 30, 2018.
 
-And hoping that my remaining commissi ons from my previous
+And hoping that my remaining commissions from my previous
 
 sales will be release [sic] as soon as it is available and all the
 
 dummy account [sic] you created in my name will be remove
 
-[sic] in [sic] Facebook, [L inked In] [and] any website and other
+[sic] in [sic] Facebook, [Linked In] [and] any website and other
 
 online services .7
 
 On 07 December 2020, an Order to Confer for Discovery was issued to
 
-the parties. 8 On 0 2 September 2021, an Order was issued instructing
+the parties. 8 On 02 September 2021, an Order was issued instructing
 
-FNT and NNT to file their respective verified comment s within fifteen
+FNT and NNT to file their respective verified comments within fifteen
 
 (15) days from receipt of the Order. 9 Further, the parties were invited
 
@@ -131,9 +95,9 @@ to virtually attend the preliminary conference scheduled on 11
 
 November 2021 and 09 December 2021. 10
 
-Both parties failed to appear for the 11 November 2021 Prelimina ry
+Both parties failed to appear for the 11 November 2021 Preliminary
 
-Conference. 11 As such , a n Order was issued resetting the preliminary
+Conference. 11 As such , an Order was issued resetting the preliminary
 
 conference to the second schedule on 09 December 2021 .12
 
@@ -153,59 +117,6 @@ ordered to submit their verified comments within fifteen (15) days
 
 from receipt of the Order. 16
 
-> 7
-
-Complaints -Assisted Form,  20 January 2020, at 11, in JBA v. FNT and NNT , NPC Case No. 20 -026
-
-(NPC 2022).  Emphasis supplied.
-
-> 8
-
-Order to Confer for Discovery,  07 December 2020, in JBA v. FNT and NNT , NPC Case No. 20 -026
-
-(NPC 2022).
-
-> 9
-
-Order (To File Verified Comment and Appear Virtually for Preliminary Conference), 02
-
-September 20 21, at 1, in JBA v. FNT and NNT , NPC Case No. 20 -026 (NPC 2022).
-
-> 10
-
-Id .
-
-> 11
-
-Order (After the 1 st Preliminary Conference held on 11 November 2021), 11 November 2021, at
-
-1, in JBA v. FNT and NNT , NPC Case No. 20 -026 (NPC 2022).
-
-> 12
-
-Id .
-
-> 13
-
-Order (After the 2 nd Preliminary Conference held on 09 December 2021, to Submit Email Address
-
-and Verified Comment, and to Appear for the 3 rd Setting of the Preliminary Conference), 09
-
-December 2021, at 1, in JBA v. FNT and NNT , NPC Case No. 20 -026 (NPC 2022).
-
-> 14
-
-Id .
-
-> 15
-
-Id . at 2.
-
-> 16
-
-Id .NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 In her email dated 13 December 2021, NNT explained that she has only
 
@@ -215,7 +126,7 @@ received the forwarded email from her sister, FNT , on 13 December
 
 I am not aware of this complaint until now from Ms[.] JBA , since
 
-as mentioned by my sister, I have no direct author ity over Ms[.]
+as mentioned by my sister, I have no direct authority over Ms[.]
 
 JBA when she was an accredited agent with my sister. Yes, I am
 
@@ -227,11 +138,11 @@ agents. Ms[.] JBA is a direct recruit of Ms. FNT . My involvement
 
 with Ms[.] FNT ’s direct agents/recruits before was merely to
 
-conduct classroom and onsite training s/orientation and provide
+conduct classroom and onsite trainings/orientation and provide
 
 the best practices within the real estate industry. Any issues or
 
-problems encountered by my sister’s direct agen ts/recruits is
+problems encountered by my sister’s direct agents/recruits is
 
 under her full authority. I also have no personal involvement as
 
@@ -281,33 +192,6 @@ AUTOPOSTING, PAY -ADS at ipapaliwanag ko ito. I will take
 
 the responsibility on this, on her behalf. 21
 
-> 17
-
-Email from NNT , to NPC CID Hearings ( 13 December 2021 ).
-
-> 18
-
-Id .
-
-> 19
-
-Order (Noting the Ma nifestation of the Respondent NNT and Treating such Manifestation as
-
-Respondent NNT ’s Comment) , 15 December 2021 , in JBA v. FNT and NNT , NPC Case No. 20 -026
-
-(NPC 2022).
-
-> 20
-
-Email from FNT , to NPC CID Hearings ( 23 December 2021).
-
-> 21
-
-Verified Comment of FNT , 23 December 2021, at 1,  in JBA v. FNT and NNT , NPC Case No. 20 -
-
-026 (NPC 2022). NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 FNT explained that the term “online marketing” is intentionally
 
@@ -323,7 +207,7 @@ Facebook, Lamudi, and Property24). 22 Thus, online marketing ads are
 
 the medium used for her real estate ads placement .23 FNT claimed that
 
-her agents kn ew that real estate websites are used to post the ads. 24
+her agents knew that real estate websites are used to post the ads. 24
 
 FNT gave an overview of her recruitment process:
 
@@ -375,22 +259,18 @@ Ahente, dahil gagamitin ito para sa pagsend ng UPDATED
 
 INVENTORIES, Pricelists, Project Details, PowerPoint
 
-Presentation ng House and Lot, Maps, Photos, Videos etc. Ina -
-
-announce ko sa group ch at kapag hinihingi ng Lead Broker o
+Presentation ng House and Lot, Maps, Photos, Videos etc. Ina-announce ko sa group ch at kapag hinihingi ng Lead Broker o
 
 Marketing Arm o Broker Coordinator ang mga email address ng
 
 mga ACCREDITED AGENT. Kung sino lang nagpasa ng email
 
-> 22 Id .
-> 23 Id . at 2.
-> 24 Id . at 5.
-> 25 Id . at 2.
+> 22 Id.
+> 23 Id. at 2.
+> 24 Id. at 5.
+> 25 Id. at 2.
 
-NPC 20 -026
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 address sila lang ang makakatangap ng updates. Karamihan sa
 
@@ -440,7 +320,7 @@ Model. Kapag Staff ko ang nagcreate ng Facebook Page may
 
 abiso sa Ahente na ipopost ang Contact Number nya dahil
 
-direct syang tatawagan if may prospect buyers . Aft er po
+direct syang tatawagan if may prospect buyers . After po
 
 magawa ng Facebook Page, ay i -Turn -Over na ito sa Ahente,
 
@@ -476,13 +356,11 @@ nakakaalam ng password at username, wala kaming access
 
 dito. Kapag sa Lamudi Ads ay account ko ang ginagamit, at
 
-> 26 Id . at 5. Emphasis supplied.
+> 26 Id. at 5. Emphasis supplied.
 > 27 Verified Comment of FNT , 23 December 2021, at 12, in JBA v. FNT and NNT , NPC Case No. 20 -
 > 026 (NPC 2022).
 
-NPC 20 -026
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 ang mga Selected Agents or Assigned Agents ang nagpopost
 
@@ -510,7 +388,7 @@ staff ko ang USERNAME at Password sa Ahente. Pero kapag
 
 gawa ng Ahente ang Secondary Facebook Account, wala kaming
 
-access dito. Hindi hinihingi ng Staff ko or ako ang Passwor d ng
+access dito. Hindi hinihingi ng Staff ko or ako ang Password ng
 
 Ahente. Maliban nalang kung ibibigay ng Ahente sa staff ko ang
 
@@ -518,7 +396,7 @@ username at password at magpapatulong sa posting ng Ads .29
 
 She also mentioned in her Verified Comment that, for the Sheryna.ph
 
-listing, there was a “[m]onthly [a]uto [r]enew of post, up t o December
+listing, there was a “[m]onthly [a]uto [r]enew of post, upt o December
 
 2018.” 30
 
@@ -550,33 +428,6 @@ sa Google, not a LARGE NUMBER. More than 100 Real Estate
 
 Website na pwedeng maAds ang mga Ahente dito sa Pilipinas. 33
 
-> 28
-
-Id . at 12 -16.
-
-> 29
-
-Id . at 18.
-
-> 30
-
-Id . at 82.
-
-> 31
-
-Id . at 65.
-
-> 32
-
-Id .
-
-> 33
-
-Verified Comment of FNT , 23 December 2021, at 83,  in JBA v. FNT and NNT , NPC Case No. 20 -
-
-026 (NPC 2022). NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 . . .
 
@@ -610,9 +461,7 @@ that, “[a]ng dami ng deleted posts, at deactivated account at website
 
 na deactivated na rin. Exhausted na kame dahil dati pa dini -delete ang
 
-mga posts. Hindi ko kabisado ang mga website kung saan nag -
-
-register at nagcreate ang staff ko .” 36 She further stressed that she
+mga posts. Hindi ko kabisado ang mga website kung saan nag-register at nagcreate ang staff ko .” 36 She further stressed that she
 
 cann ot verify these information since her staff has passed away .37 She
 
@@ -638,20 +487,18 @@ stating that “[g]inawa po ang mga account during the time accredited
 
 po kayo sa amin. At aware po kayo sa PAY -ADS PROGRAM or
 
-> 34 Id .at 142 .
-> 35 Id .
-> 36 Id . at 85.
-> 37 Id .
-> 38 Id . at 97.
+> 34 Id.at 142 .
+> 35 Id.
+> 36 Id. at 85.
+> 37 Id.
+> 38 Id. at 97.
 > 39 Verified Comment of FNT , 23 December 2021, at 97, in JBA v. FNT and NNT , NPC Case No. 20 -
 > 026 (NPC 2022).
-> 40 Id . at 86.
-> 41 Id . at 88 -90.
-> 42 Id .at 87, 91, 93 .
+> 40 Id. at 86.
+> 41 Id. at 88-90.
+> 42 Id.at 87, 91, 93 .
 
-NPC 20 -026
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 POSTING ADS sa iba’t ibang website . Nakita nyo noon ang mga OJT
 
@@ -703,55 +550,6 @@ however, that only certain individuals can request for death
 
 certificates pursuant to the Philippine Statistics Authority rules. 51
 
-> 43
-
-Id . at 112.
-
-> 44
-
-Id . at 137 -139 .
-
-> 45
-
-Verified Comment of FNT , 23 December 2021, at 139,  in JBA v. FNT and NNT , NPC Case No. 20 -
-
-026 (NPC 2022).
-
-> 46
-
-Id . at 142.
-
-> 47
-
-Id . at 144.
-
-> 48
-
-Order (Noting the Submission of Comment of Respondent FNT ), 24 December 2021 , in JBA v.
-
-FNT and NNT , NPC Case No. 20 -026 (NPC 2022).
-
-> 49
-
-Order (After the 3 rd Preliminary Conference held on 28 January 2022, Submission of Documents
-
-from the Parties, and to Sub mit a Filled -Out Application for Mediation Form), 28 January 2022, at
-
-1, in JBA v. FNT and NNT , NPC Case No. 20 -026 (NPC 2022).
-
-> 50
-
-Id .
-
-> 51
-
-Order (After the 3 rd Preliminary Conference held on 28 January 2022, Submission of Documents
-
-from the Parties, and to Submit a Filled -Out Application for Mediation Form), 28 January 2022, at
-
-1, in JBA v. FNT and NNT , NPC Case No. 20 -026 (NPC 2022). NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Instead, FNT and NNT were ordered to submit an affidavit from their
 
@@ -811,55 +609,6 @@ FNT instructed that sales be entered in NNT ’s name, and that at
 
 around November 2016, FNT told them to report to NNT .61 In
 
-> 52
-
-Id .
-
-> 53
-
-Application for Mediation, 31 January 2022, in JBA v. FNT and NNT , NPC Case No. 20 -026 (NPC
-
-2022); Application for Mediation, 01 February 2022, in JBA v. FNT and NNT , NPC Case No. 20 -026
-
-(NPC 2022).
-
-> 54
-
-Response to FNT ’s Verified Comment, 09 February 2022 , in JBA v. FNT and NNT , NPC Case No.
-
-20 -026 (NPC 2022).
-
-> 55
-
-Id . at 1 -19 .
-
-> 56
-
-Id . at 22.
-
-> 57
-
-Id .
-
-> 58
-
-Id .
-
-> 59
-
-Id . at 27.
-
-> 60
-
-Response to NNT ’s Comments , 09 February 2022, at 1,  in JBA v. FNT and NNT , NPC Case No.
-
-20 -026 (NPC 2022).
-
-> 61
-
-Id .NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 addition, she alleged that NNT also assisted in answering queries in
 
@@ -897,7 +646,7 @@ wala sa opisina, ang dami ng Screenshot na sinasabi ng staff wala
 
 dito si Mam FNT . Any important transaction, details o r equest,
 
-minimessage sa akin staff o sinusulat sa papel para balikan ko
+minimessage sa akin staff sinusulat sa papel para balikan ko
 
 ang Ahente o Buyer kung may katanungan kung hindi nila
 
@@ -933,25 +682,6 @@ inactivate na ito. Kaya walang bagong postings. 65
 
 . . .
 
-> 62
-
-Id .
-
-> 63
-
-Affidavit, 23 Feb ruary 2022 , in JBA v. FNT and NNT , NPC Case No. 20 -026 (NPC 2022).
-
-> 64
-
-FNT ’s  Letter to NPC, 24 February 2022, at 3-4 in JBA v. FNT and NNT , NPC Case No. 20 -026
-
-(NPC 2022).
-
-> 65
-
-Id . at 4 . Emphasis supplied. NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 And also , in my COMMENTS I already presented, regarding
 
@@ -977,9 +707,7 @@ As explained, there are other posts are paid or with subscription
 
 for AUTO RENEWAL for a year .66
 
-On 2 0 April 2022, the Mediation Officer issued a Notice of Non -
-
-settlement of Dispute stating that the parties were unable to reach a
+On 20 April 2022, the Mediation Officer issued a Notice of Non-settlement of Dispute stating that the parties were unable to reach a
 
 settlement .67 On 25 April 2022, an Order was issued instructing the
 
@@ -989,7 +717,7 @@ from receipt of the Order , including a list of all the evidence presented
 
 by the parties and its respective purpose. 68
 
-On 08 May 2022, FNT submitte d her (1) Memor and um containing a
+On 08 May 2022, FNT submitted her (1) Memorandum containing a
 
 summary of her causes of action and defense and website recovery,
 
@@ -1013,47 +741,8 @@ Memorandum dated 07 June 2022 where she reiterated that her
 
 personal information was used even after her contract with FNT
 
-> 66
 
-Id . at 5-6. Emphasis removed. Emphasis supplied.
-
-> 67
-
-Notice of Non -Settlement of Dispute, 20 April 2022 , in JBA v. FNT and NNT , NPC Case No. 20 -
-
-026 (NPC 2022).
-
-> 68
-
-Order (for Resumption of Complaints Proceedings, Noting the Submissions of the Respondents,
-
-and Requiring the Parties to Submit their Simultaneous Memoranda), 25 April 2022, at 2-3, in JBA
-
-v. FNT and NNT , NPC Case No. 20 -026 (NPC 2022).
-
-> 69
-
-Email from FNT , to NPC CID Hearings ( 08 May 2022).
-
-> 70
-
-Tabulation of Additional Evidence, 31 May 2022 , in JBA v. FNT and NNT , NPC Case No. 20 -026
-
-(NPC 2022).
-
-> 71
-
-Email from JBA , to NPC CID Hearings ( 23 May 2022).
-
-> 72
-
-Order (Granting the Complainant’s Request for Extention of Time to File Memorandum), 24 May
-
-2022, at 1,  in JBA v. FNT and NNT , NPC Case No. 20 -026 (NPC 2022). NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-expired. 73 As a result, she prayed that damage s be awarded in her
+expired. 73 As a result, she prayed that damages be awarded in her
 
 favor. 74
 
@@ -1103,31 +792,6 @@ The complaint shall include a brief narration of the material
 
 facts and supporting documentary and testimonial evidence,
 
-> 73
-
-Memorandum , 07 June 2022, at 2, in JBA v. FNT and NNT , NPC Case No. 20 -026 (NPC 2022).
-
-> 74
-
-Id . at 6 -7.
-
-> 75
-
-Email from FNT , to NPC CID Hearings ( 14 June 2022).
-
-> 76
-
-Order (Granting the Respondent’s Email Manifestation), 15 June 2022, at 3,  in JBA v. FNT and
-
-NNT , NPC Case No. 20 -026 (NPC 2022).
-
-> 77
-
-Complaints -Assisted Form,  20 January 2020, at 5, in JBA v. FNT and NNT , NPC Case No. 20 -026
-
-(NPC 2022). NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 all of which show : (a) the violation of the Data Privacy Act or
 
@@ -1193,31 +857,8 @@ NNT ’s signature and checks issued from joint accounts of which NNT
 
 was a joint holder. 81 She argued that these showed that her
 
-> 78
 
-National Privacy Commission, 2016 Rules of Procedure of the National Privacy Commission
-
-[NPC 2016 Rules of Procedure], rule II, § 10 (15 December 2016).  Emphasis supplied.
-
-> 79
-
-NPC 19 -465, 03 March 2022, at  7, 10 (NPC 2022) (unreported).
-
-> 80
-
-Complaints -Assisted Form,  20 January 2020, at 3, in JBA v. FNT and NNT , NPC Case No. 20 -026
-
-(NPC 2022).
-
-> 81
-
-Response to NNT ’s Comments, 09 February 2022, at 1 -3,  in JBA v. FNT and NNT , NPC Case No.
-
-20 -026 (NPC 2022). NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-commissions were received from NNT .82 Further, she alleged tha t FNT
+commissions were received from NNT .82 Further, she alleged that FNT
 
 instructed that the sales be entered in NNT ’s name. 83
 
@@ -1277,17 +918,15 @@ FNT violated Section 25 of the DPA , or Unauthorized Processing of
 
 Personal or Sensitive Personal Information , when she continued to
 
-> 82 Id .at 1 .
-> 83 Id .
-> 84 Id .
-> 85 Id .at 1, 3 .
+> 82 Id.at 1 .
+> 83 Id.
+> 84 Id.
+> 85 Id.at 1, 3 .
 > 86 Email from NNT ,to NPC CID Hearings ( 13 December 2021).
 > 87 Verified Comment of FNT , 23 December 2021, at 1, in JBA v. FNT and NNT , NPC Case No. 20 -
 > 026 (NPC 2022).
 
-NPC 20 -026
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 post ads containing JBA ’s personal information even after JBA ’s
 
@@ -1343,33 +982,6 @@ information through her staff , who used JBA ’s name in the posted
 
 online marketing ads. 91
 
-> 88
-
-NPC 19 -134, 10 December 2021, at 12 (NPC 2021) (unreported).
-
-> 89
-
-An Act Protecting Individual Personal Information in Information and Communications Systems
-
-in the Government and the Private Sector, Creating for this purpose a National Privacy
-
-Commission, a nd For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (j)
-
-(2012). Emphasis supplied.
-
-> 90
-
-Verified Comment of FNT , 23 December 2021, at 2,  in JBA v. FNT and NNT , NPC Case No. 20 -
-
-026 (NPC 2022).
-
-> 91
-
-Se e Complaints -Assisted Form,  20 January 2020, at 25 -120, in JBA v. FNT and NNT , NPC Case
-
-No. 20 -026 (NPC 2022). NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 As for the second requisite, the information that FNT processed is
 
@@ -1429,29 +1041,6 @@ you created in my name will be remove [sic] in [sic] Faceboo k,
 
 [LinkedIn] [and] any website and other online services.” 96
 
-> 92
-
-Data Privacy Act of 2012, § 3 (g) .
-
-> 93
-
-NPC 21 -031, 03 March 2022, at  9 (NPC 2022) (unreported).
-
-> 94
-
-Complaints -Assisted Form,  20 January 2020, at 25 -120, in JBA v. FNT and NNT , NPC Case No.
-
-20 -026 (NPC 2022).
-
-> 95
-
-Id . at 11.
-
-> 96
-
-Id .NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 JBA submitted multiple screenshots of ads posted prior to her official
 
@@ -1511,39 +1100,6 @@ destruction of his or her personal inf ormation from the
 
 personal information controller’s filing system upon
 
-> 97
-
-See  Complaints -Assisted Form,  20 January 2020, in JBA v. FNT and NNT , NPC Case No. 20 -026
-
-(NPC 2022).
-
-> 98
-
-Complaints -Assisted Form,  20 January 2020, at 109, in JBA v. FNT and NNT , NPC Case No. 20 -
-
-026 (NPC 2022).
-
-> 99
-
-Id . at 111.
-
-> 100
-
-Response to FNT ’s Verified Comment, 09 February 2022, at 15 -16,  in JBA v. FNT and NNT , NPC
-
-Case No. 20 -026 (NPC 2022).
-
-> 101
-
-Id . at 17.
-
-> 102
-
-Complaints -Assisted Form,  20 January 2020, at 11, in JBA v. FNT and NNT , NPC Case No. 20 -
-
-026 (NPC 2022). NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 discovery and substantial proof that the personal information
 
@@ -1621,17 +1177,6 @@ who have previously received such processed personal
 
 information. 104
 
-> 103
-
-Data Privacy Act of 2012, § 16 (e) .
-
-> 104
-
-National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of
-
-2012, Republic Act No. 10173, § 34 (e) (2016). Emphasis supplied. NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Certain obligations are imposed upon the Personal Information
 
@@ -1701,13 +1246,6 @@ personal data processing;
 
 c) Establishment, exercise, or defense of any legal claim;
 
-> 105
-
-National Privacy Commission, Data Subject Rights, Advisory No. 01, Series of 2021 [NPC
-
-Advisory No. 21 -01], § 10 (C) – (E) (29 January 2021). Emphasis supplied. NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 d) Legitimate business purposes of the PIC, consistent with
 
@@ -1777,25 +1315,6 @@ Isang beses lang magposts, at hindi na binabalikan dahil ang
 
 ibang posting naka AUTO RENEW, ibig sabihin, after 30days
 
-> 106
-
-Id . § 10 (B) (2) .
-
-> 107
-
-Complaints -Assisted Form,  20 January 2020, at 11, in JBA v. FNT and NNT , NPC Case No. 20 -
-
-026 (NPC 2022).
-
-> 108
-
-See  Verified Comment of FNT , 23 December 2021, at 82,  in JBA v. FNT and NNT , NPC Case No.
-
-20 -026 (NPC 2022) ; FNT ’s  Letter to NPC, 24 February 2022, at 4, 6,  in JBA v. FNT and NNT , NPC
-
-Case No. 20 -026 (NPC 2022). NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 kapag na -expire may auto renewal posts either 3 months, 6
 
@@ -1831,7 +1350,7 @@ FNT similarly cannot deflect responsibility by pointing to her deceased
 
 staff member , stating that “[h]indi ko kabisado ang mga website kung
 
-saan nag -register at nagcreate ang staff ko,” 111 and “[w]ala na akong
+saan nag-register at nagcreate ang staff ko,” 111 and “[w]ala na akong
 
 mapagtanungan dahil namayapa na siya.” 112 Therefore, “[w]ala akong
 
@@ -1853,20 +1372,18 @@ she should have taken steps to ensure that there will be no further
 
 processing of personal information in relation to these accounts.
 
-> 109 FNT ’s Letter to NPC, 24 February 2022, at 4, in JBA v. FNT and NNT , NPC Case No. 20 -026
+> 109 FNT ’s Letter to NPC, 24 February 2022, at 4, in JBA v. FNT and NNT , NPC Case No. 20-026
 > (NPC 2022).
-> 110 Id . at 6.
+> 110 Id. at 6.
 > 111 Verified Comment of FNT , 23 December 2021, at 85, in JBA v. FNT and NNT , NPC Case No. 20 -
 > 026 (NPC 2022).
-> 112 Id .
-> 113 Id . at 97.
-> 114 Affidavit, 23 February 2022, in JBA v. FNT and NNT , NPC Case No. 20 -026 (NPC 2022).
-> 115 Complaints -Assisted Form, 20 January 2020, at 11, in JBA v. FNT and NNT , NPC Case No. 20 -
+> 112 Id.
+> 113 Id. at 97.
+> 114 Affidavit, 23 February 2022, in JBA v. FNT and NNT , NPC Case No. 20-026 (NPC 2022).
+> 115 Complaints-Assisted Form, 20 January 2020, at 11, in JBA v. FNT and NNT , NPC Case No. 20 -
 > 026 (NPC 2022).
 
-NPC 20 -026
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Instead, the records sh ow that listings were still being posted under
 
@@ -1882,49 +1399,40 @@ processing of those particular ads were unauthorized and done in
 
 violation of Section 25 of the DPA .
 
+### Dispositive Portion
+
 WHEREFORE, premises considered, this Commission hereby:
 
-1. DISMISSES the case against NNT for lack of merit; and
+1. **DISMISSES** the case against NNT for lack of merit; and
 
-2. FINDS that FNT violated Section 25 of the Data Privacy Act of
+2. **FINDS** that FNT violated Section 25 of the Data Privacy Act of
 
-2012 ( DPA ) and FORWARDS this Decision and a copy of the
+2012 ( DPA ) and **FORWARDS** this Decision and a copy of the
 
 pertinent case records to the Secretary of Justice. This
 
-Commission RECOMMENDS the prosecution of FNT for
+Commission **RECOMMENDS** the prosecution of FNT for
 
 Unauthorized Processing of Personal or Sensitive Personal
 
 Information under Section 25 of the DPA .
 
-SO ORDERED.
+**SO ORDERED.**
 
-City of Pasay, Philippines .
+City of Pasay, Philippines
 
-22 September 2022 .
+22 September 2022
 
-Sgd.
+---
 
-LEANDRO ANGELO Y. AGUIRRE
-
+**LEANDRO ANGELO Y. AGUIRRE**
 Deputy Privacy Commissioner
 
 I CONCUR:
 
-Sgd.
-
-JOHN HENRY D . NAGA
-
+**JOHN HENRY D. NAGA**
 Privacy Commissioner
 
-> 116
-
-Response to FNT ’s Verified Comment, 09 February 2022, at 15 -17,  in JBA v. FNT and NNT , NPC
-
-Case No. 20 -026 (NPC 2022). NPC 20 -026
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Copy furnished:
 
@@ -1941,3 +1449,179 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+
+[^1]: Complaints-Assisted Form, 20 January 2020, at 3, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^2]: *Id.* at 5.
+
+[^3]: *Id.* at 13-120.
+
+[^4]: *Id.* at 5.
+
+[^5]: *Id.*
+
+[^6]: *Id.* at 11.
+
+[^7]: Complaints-Assisted Form, 20 January 2020, at 11, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022). Emphasis supplied.
+
+[^8]: Order to Confer for Discovery, 07 December 2020, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^9]: Order (To File Verified Comment and Appear Virtually for Preliminary Conference), 02 September 2021, at 1, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^10]: *Id.*
+
+[^11]: Order (After the 1 st Preliminary Conference held on 11 November 2021), 11 November 2021, at 1, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^12]: *Id.*
+
+[^13]: Order (After the 2 nd Preliminary Conference held on 09 December 2021, to Submit Email Address and Verified Comment, and to Appear for the 3 rd Setting of the Preliminary Conference), 09 December 2021, at 1, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^14]: *Id.*
+
+[^15]: *Id.* at 2.
+
+[^16]: *Id.*
+
+[^17]: Email from NNT, to NPC CID Hearings ( 13 December 2021 ).
+
+[^18]: *Id.*
+
+[^19]: Order (Noting the Manifestation of the Respondent NNT and Treating such Manifestation as Respondent NNT ’s Comment), 15 December 2021, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^20]: Email from FNT, to NPC CID Hearings ( 23 December 2021).
+
+[^21]: Verified Comment of FNT, 23 December 2021, at 1, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^28]: *Id.* at 12-16.
+
+[^29]: *Id.* at 18.
+
+[^30]: *Id.* at 82.
+
+[^31]: *Id.* at 65.
+
+[^32]: *Id.*
+
+[^33]: Verified Comment of FNT, 23 December 2021, at 83, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^43]: *Id.* at 112.
+
+[^44]: *Id.* at 137-139.
+
+[^45]: Verified Comment of FNT, 23 December 2021, at 139, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^46]: *Id.* at 142.
+
+[^47]: *Id.* at 144.
+
+[^48]: Order (Noting the Submission of Comment of Respondent FNT ), 24 December 2021, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^49]: Order (After the 3 rd Preliminary Conference held on 28 January 2022, Submission of Documents from the Parties, and to Sub mit a Filled-Out Application for Mediation Form), 28 January 2022, at 1, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^50]: *Id.*
+
+[^51]: Order (After the 3 rd Preliminary Conference held on 28 January 2022, Submission of Documents from the Parties, and to Submit a Filled-Out Application for Mediation Form), 28 January 2022, at 1, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^52]: *Id.*
+
+[^53]: Application for Mediation, 31 January 2022, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022); Application for Mediation, 01 February 2022, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^54]: Response to FNT ’s Verified Comment, 09 February 2022, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^55]: *Id.* at 1-19.
+
+[^56]: *Id.* at 22.
+
+[^57]: *Id.*
+
+[^58]: *Id.*
+
+[^59]: *Id.* at 27.
+
+[^60]: Response to NNT ’s Comments, 09 February 2022, at 1, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^61]: *Id.*
+
+[^62]: *Id.*
+
+[^63]: Affidavit, 23 February 2022, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^64]: FNT ’s Letter to NPC, 24 February 2022, at 3-4 in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^65]: *Id.* at 4. Emphasis supplied.
+
+[^66]: *Id.* at 5-6. Emphasis removed. Emphasis supplied.
+
+[^67]: Notice of Non -Settlement of Dispute, 20 April 2022, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^68]: Order (for Resumption of Complaints Proceedings, Noting the Submissions of the Respondents, and Requiring the Parties to Submit their Simultaneous Memoranda), 25 April 2022, at 2-3, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^69]: Email from FNT, to NPC CID Hearings ( 08 May 2022).
+
+[^70]: Tabulation of Additional Evidence, 31 May 2022, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^71]: Email from JBA, to NPC CID Hearings ( 23 May 2022).
+
+[^72]: Order (Granting the Complainant’s Request for Extention of Time to File Memorandum), 24 May 2022, at 1, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^73]: Memorandum, 07 June 2022, at 2, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^74]: *Id.* at 6-7.
+
+[^75]: Email from FNT, to NPC CID Hearings ( 14 June 2022).
+
+[^76]: Order (Granting the Respondent’s Email Manifestation), 15 June 2022, at 3, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^77]: Complaints-Assisted Form, 20 January 2020, at 5, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^78]: National Privacy Commission, 2016 Rules of Procedure of the National Privacy Commission [NPC 2016 Rules of Procedure], rule II, § 10 (15 December 2016). Emphasis supplied.
+
+[^79]: NPC 19-465, 03 March 2022, at 7, 10 (NPC 2022) (unreported).
+
+[^80]: Complaints-Assisted Form, 20 January 2020, at 3, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^81]: Response to NNT ’s Comments, 09 February 2022, at 1-3, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^88]: NPC 19-134, 10 December 2021, at 12 (NPC 2021) (unreported).
+
+[^89]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, a nd For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (j) (2012). Emphasis supplied.
+
+[^90]: Verified Comment of FNT, 23 December 2021, at 2, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^91]: Se e Complaints-Assisted Form, 20 January 2020, at 25-120, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^92]: Data Privacy Act of 2012, § 3 (g).
+
+[^93]: NPC 21-031, 03 March 2022, at 9 (NPC 2022) (unreported).
+
+[^94]: Complaints-Assisted Form, 20 January 2020, at 25-120, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^95]: *Id.* at 11.
+
+[^96]: *Id.*
+
+[^97]: See Complaints-Assisted Form, 20 January 2020, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^98]: Complaints-Assisted Form, 20 January 2020, at 109, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^99]: *Id.* at 111.
+
+[^100]: Response to FNT ’s Verified Comment, 09 February 2022, at 15-16, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^101]: *Id.* at 17.
+
+[^102]: Complaints-Assisted Form, 20 January 2020, at 11, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^103]: Data Privacy Act of 2012, § 16 (e).
+
+[^104]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34 (e) (2016). Emphasis supplied.
+
+[^105]: National Privacy Commission, Data Subject Rights, Advisory No. 01, Series of 2021 [NPC Advisory No. 21-01], § 10 (C) – (E) (29 January 2021). Emphasis supplied.
+
+[^106]: *Id.* § 10 (B) (2).
+
+[^107]: Complaints-Assisted Form, 20 January 2020, at 11, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^108]: See Verified Comment of FNT, 23 December 2021, at 82, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022) ; FNT ’s Letter to NPC, 24 February 2022, at 4, 6, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
+
+[^116]: Response to FNT ’s Verified Comment, 09 February 2022, at 15-17, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).

@@ -18,47 +18,27 @@ draft: false
 
 **Advisory No. 2023-01**
 
-WHEREAS, Section 7 (g) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]) provides that the National  
-Privacy Commission (NPC) is empowered to publish, on a regular basis, a guide to all laws  
-relating to data protection;
+WHEREAS, Section 7 (g) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]) provides that the National Privacy Commission (NPC) is empowered to publish, on a regular basis, a guide to all laws relating to data protection;
 
-WHEREAS, the NPC issued a Circular on the “Guidelines on Consent” to elaborate on the  
-processing of personal data based on consent and to emphasize the fair processing of personal  
-data in a manner that is neither manipulative nor unduly oppressive to data subjects;
+WHEREAS, the NPC issued a Circular on the “Guidelines on Consent” to elaborate on the processing of personal data based on consent and to emphasize the fair processing of personal data in a manner that is neither manipulative nor unduly oppressive to data subjects;
 
-WHEREAS, Section 7 (A) of the Guidelines on Consent provides that the use of deceptive  
-methods, such as deceptive design patterns, results in vitiated consent for not being freely  
-given;
+WHEREAS, Section 7 (A) of the Guidelines on Consent provides that the use of deceptive methods, such as deceptive design patterns, results in vitiated consent for not being freely given;
 
-WHEREAS, consent is not freely given in instances where there is any element of pressure,  
-intimidation, possibility of adverse consequences for refusal to give consent, or any other  
-inability to exercise free will by the data subject;
+WHEREAS, consent is not freely given in instances where there is any element of pressure, intimidation, possibility of adverse consequences for refusal to give consent, or any other inability to exercise free will by the data subject;
 
-WHEREAS, the utilization of deceptive design patterns in personal data processing activities  
-is tantamount to deception and coercion which may result in the vitiation of the consent given  
-by data subjects and the infringement of their data privacy rights;
+WHEREAS, the utilization of deceptive design patterns in personal data processing activities is tantamount to deception and coercion which may result in the vitiation of the consent given by data subjects and the infringement of their data privacy rights;
 
-WHEREAS, data subjects must be made aware of the nature and common examples of  
-deceptive design patterns in order to prevent them from being victimized;
+WHEREAS, data subjects must be made aware of the nature and common examples of deceptive design patterns in order to prevent them from being victimized;
 
-WHEREAS, a personal information controller (PIC) must avoid such practices on their analog  
-and digital interfaces as they have a responsibility to adhere to the general privacy principles  
-at all times and ensure that mechanisms are in place for the exercise of data privacy rights;
+WHEREAS, a personal information controller (PIC) must avoid such practices on their analog and digital interfaces as they have a responsibility to adhere to the general privacy principles at all times and ensure that mechanisms are in place for the exercise of data privacy rights;
 
-WHEREAS, as deceptive design patterns are already rampant, guidelines are necessary to  
-uphold data subject rights to maintain trust in transactions in analog or digital interfaces;
+WHEREAS, as deceptive design patterns are already rampant, guidelines are necessary to uphold data subject rights to maintain trust in transactions in analog or digital interfaces;
 
-WHEREFORE, in consideration of these premises, the NPC hereby issues this Advisory on  
-deceptive design patterns.
+WHEREFORE, in consideration of these premises, the NPC hereby issues this Advisory on deceptive design patterns.
 
-SECTION 1. Purpose. — This Advisory provides guidance on PICs on the nature of deceptive  
-design patterns, and its impact on the lawful processing of personal data based on the data  
-subject’s consent and in line with the general privacy principles. This Advisory aims to  
-prevent the usage of deceptive design patterns on analog and digital interfaces.
+**SECTION 1.** ***Purpose.*** This Advisory provides guidance to PICs on the nature of deceptive design patterns, and its impact on the lawful processing of personal data based on the data subject's consent and in line with the general privacy principles. This Advisory aims to prevent the usage of deceptive design patterns on analog and digital interfaces.
 
-SECTION 2. Definition of Terms. — Terms used in the [[laws/data-privacy-act-of-2012|DPA]] and its Implementing Rules  
-and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), as amended, are adopted herein. In addition, whenever used in this  
-Advisory, the following terms are defined as follows:
+**SECTION 2.** ***Definition of Terms.*** Terms used in the [[laws/data-privacy-act-of-2012|DPA]] and its Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), as amended, are adopted herein. In addition, whenever used in this Advisory, the following terms are defined as follows:
 
     A. “Deceptive Design Patterns” refer to design techniques embedded on an analog or  
        digital interface that aim to manipulate or deceive a data subject to perform a specific  
@@ -130,41 +110,19 @@ a Single Market For Digital Services and amending Directive 2000/31/EC (Digital 
            choice that better adheres to the general principles of privacy or respects their  
            rights as a data subject.
 
-SECTION 4. Transparency. – A PIC shall ensure transparency in the presentation of  
-information to the data subject by avoiding deceptive design patterns. In accordance with the  
-[[laws/data-privacy-act-of-2012|DPA]] and the Guidelines on Consent, a PIC shall ensure that the data subject is aware of the  
-nature, purpose, and extent of the processing of personal data.
+**SECTION 4.** ***Transparency.*** A PIC shall ensure transparency in the presentation of information to the data subject by avoiding deceptive design patterns. In accordance with the [[laws/data-privacy-act-of-2012|DPA]] and the Guidelines on Consent, a PIC shall ensure that the data subject is aware of the nature, purpose, and extent of the processing of personal data. The user interface must provide a concise statement in clear, plain, consistent, and straightforward language on the personal data to be processed, nature, purpose, extent, duration, and scope of processing for which consent is used as basis, risks and safeguards involved, the identity of the PIC, the existence of data subject rights, and how these rights can be exercised.
 
-The user interface must provide a concise statement in clear, plain, consistent, and straight-  
-forward language on the personal data to be processed, nature, purpose, extent, duration, and  
-scope of processing for which consent is used as basis, risks and safeguards involved, the  
-identity of the PIC, the existence of data subject rights, and how these rights can be exercised.
+**SECTION 5.** ***Fairness.*** A PIC shall ensure that personal data is processed in a manner that is neither manipulative nor unduly oppressive to a data subject. As such, an analog or digital interface must be designed and operated in a way that the processing of information will not be detrimental, discriminatory, unexpected, or misleading to a data subject. The use of deceptive design patterns on analog or digital interfaces violates fairness and may result in vitiating the consent of the data subject.
 
-SECTION 5. Fairness. – A PIC shall ensure that personal data is processed in a manner that  
-is neither manipulative nor unduly oppressive to a data subject. As such, an analog or digital  
-interface must be designed and operated in a way that the processing of information will not  
-be detrimental, discriminatory, unexpected, or misleading to a data subject. The use of  
-deceptive design patterns on analog or digital interfaces violates fairness and may result in  
-vitiating the consent of the data subject.
+**SECTION 6.** ***Accountability.*** A PIC is responsible for the personal data it processes through an analog or digital interface. The user interface and user experience may be used as evidence to show that the data subject has read and understood the information that the PIC has given on the processing that the data subject consented to.
 
-SECTION 6. Accountability. – A PIC is responsible for the personal data it processes  
-through an analog or digital interface. The user interface and user experience may be used as  
-evidence to show that the data subject has read and understood the information that the PIC  
-has given on the processing that the data subject consented to.
-
-SECTION 7. Effects on Consent. – The use of Deceptive Design Patterns contravenes the  
-principle of Fairness as provided in Section 5 of this Advisory. As such, its use may result in  
-invalidating the consent given by a data subject for a specific processing activity and renders
+**SECTION 7.** ***Effects on Consent.*** The use of Deceptive Design Patterns contravenes the principle of Fairness as provided in Section 5 of this Advisory. As such, its use may result in invalidating the consent given by a data subject for a specific processing activity and renders
 
 the processing undertaken without valid lawful basis.
 
-SECTION 8. Privacy by Design. —A PIC’s use of Appearance-Based Deceptive Design  
-Patterns or Content-Based Deceptive Design Patterns is inconsistent with its obligation to  
-adopt a Privacy by Design approach in the processing of personal data.
+**SECTION 8.** ***Privacy by Design.*** A PIC’s use of Appearance-Based Deceptive Design Patterns or Content-Based Deceptive Design Patterns is inconsistent with its obligation to adopt a Privacy by Design approach in the processing of personal data.
 
-SECTION 9. Interpretation. — Any doubt in the interpretation of any provision of this  
-Advisory shall be liberally interpreted in a manner mindful of the rights and interests of the  
-data subject.
+**SECTION 9.** ***Interpretation.*** Any doubt in the interpretation of any provision of this Advisory shall be liberally interpreted in a manner mindful of the rights and interests of the data subject.
 
 Approved:
 

@@ -3,6 +3,8 @@ title: "Security of Personal Data in the Government and the Private Sector"
 description: "WHEREAS, Section 2 of Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012” (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote..."
 aliases:
   - "security of personal data in the government and the private sector"
+  - "Circular No. 2023-06"
+  - "circular no. 2023-06"
 tags:
   - "issuance"
   - "topic/government"
@@ -20,57 +22,27 @@ Date : 01 December 2023
 
 Subject : Security of Personal Data in the Government and the Private Sector
 
-WHEREAS, Section 2 of Republic Act No. 10173, otherwise known as the “Data
-Privacy Act of 2012” (DPA), provides that it is the policy of the State to protect the
-fundamental human right of privacy of communication while ensuring the free flow of
-information to promote innovation and growth. The State also recognizes its inherent
-obligation to ensure that personal information in information and communications systems
-in the government and the private sector are secured and protected;
+WHEREAS, Section 2 of Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012” (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote innovation and growth, and the State recognizes its obligation to ensure that personal information in information and communications systems in the government and the private sector are secured and protected;
 
-WHEREAS, pursuant to Section 7 of the DPA, the National Privacy Commission
-(NPC) is charged with the administration and implementation of the provisions of the law,
-which includes ensuring the compliance of personal information controllers (PICs) with the
-provisions of the Act and with international standards for data protection, and carrying out
-efforts to formulate and implement plans and policies that strengthen the protection of
-personal data in the country, in coordination with other government agencies and the private
-sector;
+WHEREAS, pursuant to Section 7 of the DPA, the National Privacy Commission (NPC) is charged with administering and implementing the law, including ensuring that Personal Information Controllers (PICs) comply with the Act and relevant international standards, while coordinating with other government agencies and the private sector to strengthen personal data protection in the country;
 
-WHEREAS, Rule III, Section 9 of the Implementing Rules and Regulations of the Data
-Privacy Act of 2012 (IRR) provides that the NPC’s functions, among others, are to develop,
-promulgate, review or amend rules and regulations for the effective implementation of the
-DPA;
+WHEREAS, Rule III, Section 9 of the Implementing Rules and Regulations of the Data Privacy Act of 2012 (IRR) provides that the NPC’s functions include developing, promulgating, reviewing, and amending rules and regulations for the effective implementation of the DPA;
 
-WHEREAS, pursuant to Section 20 of the DPA, the PIC must implement reasonable
-and appropriate organizational, physical and technical measures intended for the protection
-of personal data;
+WHEREAS, Section 20 of the DPA requires PICs to implement reasonable and appropriate organizational, physical, and technical measures for the protection of personal data;
 
-WHEREAS, under Section 22 of the DPA, the head of each government agency or
-instrumentality is responsible for complying with the security requirements mentioned in the
-law. This includes ensuring all sensitive personal information maintained by his or her agency
-is secured, as far as practicable, with the use of the most appropriate standard recognized by
-the information and communications technology industry, and as recommended by the NPC;
+WHEREAS, under Section 22 of the DPA, heads of government agencies and instrumentalities are responsible for complying with the law’s security requirements, including securing all sensitive personal information under their custody with the most appropriate industry-recognized standards, as recommended by the NPC;
 
-WHEREAS, under Section 23 of the DPA, the NPC may issue guidelines relating to
-access by agency personnel to sensitive personal information;
+WHEREAS, Section 23 of the DPA empowers the NPC to issue guidelines about agency personnel access to sensitive personal information;
 
-WHEREFORE, the abovementioned premises considered, the NPC hereby issues this
-Circular governing the security of personal data.
+WHEREFORE, the NPC issues this Circular governing the security of personal data.
 
-RULE I.
-GENERAL PROVISIONS
+**RULE I.** ***General Provisions***
 
-SECTION 1. Scope. - This Circular shall apply to all natural or juridical persons engaged in
-the processing of personal data within and outside of the Philippines, subject to the applicable
-provisions of the DPA, its IRR, and other relevant issuances of the NPC.
+**SECTION 1.** ***Scope.*** This Circular shall apply to all natural or juridical persons engaged in the processing of personal data within and outside of the Philippines, subject to the applicable provisions of the DPA, its IRR, and other relevant issuances of the NPC.
 
-SECTION 2. Purpose. - This Circular aims to provide updated requirements for the security
-of personal data processed by a PIC or Personal Information Processor (PIP). Due to the
-general nature of this Circular, a PIC or PIP may implement more detailed or stricter policies
-and procedures that reflect industry-specific operating requirements.
+**SECTION 2.** ***Purpose.*** This Circular provides updated requirements for the security of personal data processed by a PIC or Personal Information Processor (PIP). Because of its general nature, the Circular allows PICs and PIPs to implement more detailed or stricter policies and procedures that reflect industry-specific operating requirements.
 
-SECTION 3. Definition of Terms. – Terms used in the DPA and its IRR, as amended, are
-adopted herein. In addition, whenever used in this Circular, the following terms are defined
-as follows:
+**SECTION 3.** ***Definition of Terms.*** Terms used in the DPA and its IRR, as amended, are adopted herein. In addition, whenever used in this Circular, the following terms are defined as follows:
 
 A. “Acceptable Use Policy” refers to a document or set of rules stipulating controls or
 restrictions that personnel of a PIC or PIP must agree to for access to the network,
@@ -130,12 +102,9 @@ administration of user passwords and access rights;
 T. "Telecommuting" refers to work from an alternative workplace with the use of
 telecommunications or computer technologies.
 
-SECTION 4. General Obligations. – A PIC and its PIP shall fulfill the following
-responsibilities:
+**SECTION 4.** ***General Obligations.*** A PIC and its PIP shall fulfill the following responsibilities:
 
 A. Designate and register its Data Protection Officer (DPO) with the NPC, taking into
-account the provisions of the DPA, its IRR, its amendments, and any other issuances
-of the NPC on the designation and registration of a DPO;
 B. Register its data processing systems with the NPC according to the provisions of the
 DPA, its IRR, its amendments, and any other issuances of the NPC on the registration
 of data processing systems;
@@ -152,15 +121,13 @@ E. Set a Privacy Management Program, taking into account the following:
 2. Control framework for the development of privacy policies and
 implementation of data protection measures; and
 3. Oversight and continuous improvement of controls.
-F. Periodically train employees, agents, personnel, or representatives on privacy and
-data protection policies;
+F. Periodically train employees, agents, personnel, or representatives on privacy and data protection policies;
 
 G. Comply with the NPC’s orders when the PIC and its PIP’s privacy and data protection
 policies are subject to review and assessment in terms of compliance with the
 requirements of the DPA, its IRR, and all relevant issuances of the NPC.
 
-SECTION 5. Privacy Impact Assessment (PIA). - A PIA should be undertaken for every
-processing system of a PIC or PIP that involves personal data.
+**SECTION 5.** ***Privacy Impact Assessment (PIA).*** A PIA should be undertaken for every processing system of a PIC or PIP that involves personal data.
 
 The PIA shall include the following:
 
@@ -198,118 +165,52 @@ D. Cost of security implementation; and
 E. Purpose and extent of data sharing or outsourcing agreements and their
 attendant risks.
 
-RULE II.
-EMBEDDING PRIVACY-BY-DESIGN AND PRIVACY-BY-DEFAULT
+**RULE II.** ***Embedding Privacy-by-Design and Privacy-by-Default***
 
-SECTION 7. Privacy-By-Design and Privacy-By-Default. A PIC or PIP shall consider
-Privacy-By-Design principles in its processing activities and enable Privacy-By-Default in its
-data processing systems without requiring any action from its data subjects.
+**SECTION 7.** ***Privacy-By-Design and Privacy-By-Default.*** A PIC or PIP shall consider Privacy-By-Design principles in its processing activities and enable Privacy-By-Default in its data processing systems without requiring action from data subjects. A PIC or PIP must also conduct a PIA on its Off-The-Shelf Software, solutions, or data processing systems as outlined in Section 5, and any functions that lack a lawful basis or are incompatible with the general data privacy principles must be switched off or deactivated.
 
-Further, a PIC or PIP must also conduct a PIA on its Off-The-Shelf Software, solutions, or data
-processing systems, as outlined in Section 5 of this Circular.
+**SECTION 8.** ***Privacy Engineering.*** A PIC or PIP should incorporate data privacy requirements throughout the development and implementation of data processing systems.
 
-Any functions that lack a lawful basis for processing or are incompatible with the general data
-privacy principles, must be switched off or deactivated.
+**RULE III.** ***Storage of Personal Data***
 
-SECTION 8. Privacy Engineering. - A PIC or PIP should incorporate data privacy
-requirements throughout the development and implementation of data processing systems.
-
-RULE III.
-STORAGE OF PERSONAL DATA
-
-SECTION 9. General Rule. - A PIC or PIP must store personal information in a form that
-permits the identification of data subjects for only as long as necessary for the specific purpose
-for which it was initially processed.
+**SECTION 9.** ***General Rule.*** A PIC or PIP must store personal information in a form that permits the identification of data subjects only as long as necessary for the specific purpose for which it was initially processed.
 
 In order to ensure that personal data is not kept longer than necessary, the PIC should
 establish and document retention periods in a policy. This Retention Policy, which defines
 retention periods, must be reviewed periodically and amended as necessary. The PIC should
 inform data subjects about the Retention Policy, including its changes.
 
-SECTION 10. Service Provider as Personal Information Processor. - When a PIC engages a
-service provider for the purpose of storing personal data under the PIC’s control or custody,
-the service provider acts as a PIP. It is the responsibility of the PIC to ensure that its PIP has
-implemented appropriate security measures for the protection of personal data and is able to
-demonstrate compliance with all the requirements of the DPA, its IRR, and all applicable
-issuances of the NPC.
+**SECTION 10.** ***Service Provider as Personal Information Processor.*** When a PIC engages a service provider for the purpose of storing personal data under the PIC’s control or custody, the service provider acts as a PIP. It is the PIC’s responsibility to ensure that its PIP implements appropriate security measures, protecting personal data and demonstrating compliance with the DPA, its IRR, and all applicable NPC issuances.
 
-SECTION 11. Protection of Personal Data. - All personal data that are processed must be
-adequately protected through industry standards and best practices.
+**SECTION 11.** ***Protection of Personal Data.*** All personal data that are processed must be adequately protected through industry standards and best practices. Passwords or passphrases used to access personal data should be sufficiently strong and unique to deter attacks, and each PIC or PIP shall issue and enforce a Password Policy.
 
-Passwords or passphrases used to access personal data should be of sufficient strength and
-uniqueness to deter password attacks. Each PIC or PIP shall issue and enforce a Password
-Policy.
+**RULE IV.** ***Access to Personal Data***
 
-RULE IV.
-ACCESS TO PERSONAL DATA
+**SECTION 12.** ***Access to or Modification of Databases.*** Personal data stored in databases under a PIC’s control may only be accessed or modified using authorized software programs licensed or owned by the PIC or its PIP. This restriction protects the confidentiality, integrity, and availability of personal data.
 
-SECTION 12. Access to or Modification of Databases. - Personal data stored in databases
-under the control of the PIC may only be accessed or modified using authorized software
-programs either by the PIC or by its PIP. Authorized software programs are those that are
-either licensed or owned by the PIC or PIP. Such restriction is necessary to protect the
-confidentiality, integrity, and availability of personal data.
+**SECTION 13.** ***Restricted Access.*** A PIC or PIP shall implement an Access Control Policy ensuring only authorized personnel can access personal data on a “need-to-know” basis, supplemented by authentication mechanisms and regular monitoring.
 
-SECTION 13. Restricted Access. - A PIC or PIP shall implement an Access Control Policy to
-ensure that only authorized personnel can access personal data on a “need to know” basis.
-Further, a PIC or PIP shall provide other mechanisms, such as authentication methods and
-regular monitoring, to limit access to only authorized personnel.
+Access shall be regulated by issuing security clearances or equivalents only to authorized users, and any PIP processing must be governed by agreements mirroring this requirement. A copy of the security clearance or equivalent shall be filed with the PIC’s DPO.
 
-A PIC must ensure that access to personal data is strictly regulated by issuing a security
-clearance or its equivalent only to its authorized personnel. Any processing performed by a
-PIP must be covered by the appropriate and necessary agreement that contains an equivalent
-of this provision as well as other provisions required under the IRR.
+**SECTION 14.** ***PIP Access.*** Access to personal data by a PIP engaged by a PIC shall be governed by strict procedures contained in formal contracts or other legal acts, comporting with the DPA, its IRR, and applicable NPC issuances; the NPC may consider these contractual undertakings when evaluating the PIC’s security measures.
 
-A copy of the appropriate security clearance or its equivalent must be filed with the DPO of
-the PIC.
+**SECTION 15.** ***Acceptable Use Policy.*** A PIC or PIP shall maintain an updated Acceptable Use Policy for personnel using information and communications technology, explain the policy to all relevant staff, and require each user to agree to and sign the policy before being granted access.
 
-SECTION 14. PIP Access. - Access to personal data by a PIP engaged by a PIC shall be
-governed by strict procedures contained in formal contracts or other legal acts, and the
-provisions of such must comply with the DPA, its IRR, and all applicable issuances by the
-NPC. The contractual terms and undertakings stated may be considered by the NPC when
-evaluating the security measures implemented by the PIC.
+**SECTION 16.** ***Online Access to Personal Data.*** A PIC or PIP shall implement secure authentication mechanisms (e.g., multifactor authentication or encrypted links) when providing personnel online access to sensitive personal information, privileged data, or high-volume personal data, with user rights and authentication controls managed by a System Management Tool.
 
-SECTION 15. Acceptable Use Policy. - A PIC or PIP shall have an updated Acceptable Use
-Policy regarding the use by PIC or PIP’s personnel of information and communications
-technology. The PIC or PIP shall explain the policy to all personnel who use such technology
-in relation to their functions. Each user shall agree to the policy and, for this purpose, sign the
-appropriate agreement before being allowed access to and use of the technology.
+**SECTION 17.** ***Authorized Devices.*** A PIC or PIP shall authorize only known devices that meet its security standards to access personal data and shall restrict media to approved options. These measures include:
 
-SECTION 16. Online Access to Personal Data. - A PIC or PIP shall implement secure
-authentication mechanisms, such as multifactor authentication or secure encrypted links,
-when providing personnel online access to sensitive personal information, privileged
-information, and a high volume of personal data. Such user access rights and authentication
-mechanisms must be defined and controlled by a System Management Tool.
+1. Setting a group policy to allow certain device types to connect[^1];
+2. Using endpoint security solutions[^2]; and
+3. Restricting access to USB ports[^3].
 
-SECTION 17. Authorized Devices. - A PIC or PIP shall ensure that only known devices,
-properly configured to the PIC’s or PIP’s security standards, are authorized to access personal
-data. The PIC or PIP shall also establish solutions that only allow authorized media to be used
-on its computer equipment. These measures include but are not limited to the following:
-
-1. Setting a group policy to allow certain types of devices to be connected1;
-2. Use of endpoint security solutions;2 and
-3. Restricting access to USB ports.3
-
-SECTION 18. Remote Disconnection or Deletion. A PIC shall employ technology solutions
-that enable remote disconnection or data deletion on mobile devices owned by the PIC when
-they are lost or compromised. In addition, PICs shall establish a notification process in cases
-of mobile device loss to ensure swift and appropriate actions toward safeguarding personal
-data contained therein.
+**SECTION 18.** ***Remote Disconnection or Deletion.*** A PIC shall employ technology that enables remote disconnection or deletion of mobile devices owned by the PIC when they are lost or compromised, and shall establish a notification process for mobile-device loss to enable swift safeguarding of contained personal data.
 
 SECTION 19. Physical Filing System. - If personal data is stored in any physical media, such
 as a paper-based filing system, a PIC or PIP shall maintain a log, from which it can be
 ascertained which file was accessed, including when, where, and by whom. Such log shall
 
-1
-vinaypamnani-msft, “Manage Device Installation with Group Policy - Windows Client Management,” August 10, 2023,
-[https://learn.microsoft.com/en-us/windows/client-management/client-tools/manage-device-installation-with-group-policy.](https://learn.microsoft.com/en-us/windows/client-management/client-tools/manage-device-installation-with-group-policy.)
-2
-“USB Security Software - USB Port Blocker & Analyzer | SolarWinds,” accessed October 24, 2023,
-[https://www.solarwinds.com/security-event-manager/use-cases/usb-security-analyzer.](https://www.solarwinds.com/security-event-manager/use-cases/usb-security-analyzer.)
-Azharuddin@TWC, “How to Enable or Disable USB Ports in Windows 11/10,” The Windows Club, June 28, 2021,
-[https://www.thewindowsclub.com/disable-enable-usb-windowunlock-pen-drive-at-office-or-school-computer.](https://www.thewindowsclub.com/disable-enable-usb-windowunlock-pen-drive-at-office-or-school-computer.)
-
-also indicate whether copies of the file were made. The PIC or PIP shall regularly review the
-log records, including all applicable procedures.
+also indicate whether copies of the file were made. The PIC or PIP shall regularly review the log records, including all applicable procedures.
 
 SECTION 20. Personal Data Sharing Agreements. - Access by other parties to personal data
 under the control or custody of a PIC shall be governed by the DPA, its IRR, and the NPC’s
@@ -453,8 +354,7 @@ Failure to comply with the provisions of this Circular can result in criminal, c
 administrative liabilities, and disciplinary sanctions against any erring officer or employee in
 accordance with existing laws or regulations.
 
-The commencement of any action under this Circular is independent and without prejudice
-to the filing of any action with the regular courts or other quasi-judicial bodies.
+The commencement of any action under this Circular is independent and without prejudice to the filing of any action with the regular courts or other quasi-judicial bodies.
 
 SECTION 36. Review. - This Circular shall be subject to regular review by the NPC.
 
@@ -469,8 +369,7 @@ SECTION 39. Repealing Clause. - This Circular expressly repeals NPC Circular No.
 The provisions of the IRR and all other issuances contrary to or inconsistent with the
 provisions of this Circular are deemed repealed or modified.
 
-SECTION 40. Effectivity. - These Rules shall take effect fifteen (15) days after its publication
-in a newspaper of general circulation.
+**SECTION 40.** ***Effectivity.*** These Rules shall take effect fifteen (15) days after their publication in a newspaper of general circulation.
 
 Approved:
 
@@ -488,3 +387,8 @@ Deputy Privacy Commissioner Deputy Privacy Commissioner
 - Raw source text: [[sources/undated/security-of-personal-data-in-the-government-and-the-private-sector|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf
 - OCR used during extraction: no
+# Footnotes
+
+[^1]: vinaypamnani-msft, “Manage Device Installation with Group Policy - Windows Client Management,” August 10, 2023, https://learn.microsoft.com/en-us/windows/client-management/client-tools/manage-device-installation-with-group-policy.
+[^2]: “USB Security Software - USB Port Blocker & Analyzer | SolarWinds,” accessed October 24, 2023, https://www.solarwinds.com/security-event-manager/use-cases/usb-security-analyzer.
+[^3]: Azharuddin@TWC, “How to Enable or Disable USB Ports in Windows 11/10,” The Windows Club, June 28, 2021, https://www.thewindowsclub.com/disable-enable-usb-windowunlock-pen-drive-at-office-or-school-computer.

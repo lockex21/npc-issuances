@@ -53,8 +53,7 @@ instrumentalities of the National Government;
        NOW, THEREFORE, the NATIONAL PRIVACY COMMISSION, by virtue of the  
 authority vested by law, hereby adopts the following schedule of rates of fees:
 
-      Section 1. Schedule of Fees – Hereunder is the list of all the fees and charges to be  
-imposed and collected by the NPC:
+**SECTION 1.** ***Schedule of Fees.*** Hereunder is the list of all the fees and charges to be imposed and collected by the NPC:
 
                            PARTICULARS                             Rates  
                                      Complaints and Investigation  

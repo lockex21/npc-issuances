@@ -52,19 +52,17 @@ notification requirements;
 WHEREFORE, in consideration of these premises, the National Privacy Commission
 hereby issues this Circular governing personal data breach management.
 
-### Rule I. General Provisions
+**RULE I.** ***General Provisions.***
 
-SECTION 1. Scope. These Rules apply to any natural and juridical person in the government or
-private sector processing personal data in outside of the Philippines, subject to the relevant
-provisions of the Act and its Implementing Rules and Regulations.
+**SECTION 1.** ***Scope.*** These Rules apply to any natural and juridical person in the government or private sector processing personal data outside of the Philippines, subject to the relevant provisions of the Act and its Implementing Rules and Regulations.
 
-SECTION 2. Purpose. These Rules provide the framework for personal data breach
-management and the procedure for personal data breach notification and other requirements.
+**SECTION 2.** ***Purpose.*** These Rules provide the framework for personal data breach management and the procedure for personal data breach notification and other requirements.
 
-SECTION 3. Definition of Terms. For the purpose of this Circular, the following terms are
-defined, as follows:
+**SECTION 3.** ***Definition of Terms.*** For the purpose of this Circular, the following terms are defined, as follows:
 
 A. “Act” refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
+
+B. “Commission” refers to the National Privacy Commission;
 
 C. “Data Protection Officer” refers to an individual designated by the head of agency to
 be accountable for the agency’s compliance with the Act: Provided, that the individual
@@ -130,12 +128,9 @@ its denials, suspension or revocation, and tax returns, and
 4. Specifically established by an executive order or an act of Congress to be kept
 classified.
 
-### Rule II. Guidelines For Personal Data BREACH MANAGEMENT
+**RULE II.** ***Guidelines For Personal Data Breach Management.***
 
-SECTION 4. Security Incident Management Policy. A personal information controller or
-personal information processor shall implement policies and procedures for the purpose of
-managing security incidents, including personal data breach. These policies and procedures
-must ensure:
+**SECTION 4.** ***Security Incident Management Policy.*** A personal information controller or personal information processor shall implement policies and procedures for the purpose of managing security incidents, including personal data breach. These policies and procedures must ensure:
 
 A. Creation of a data breach response team, with members that have clearly defined
 responsibilities, to ensure timely action in the event of a security incident or personal
@@ -155,10 +150,7 @@ a personal data breach; and
 E. Compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all related issuances by the Commission
 pertaining to personal data breach notification.
 
-SECTION 5. Data Breach Response Team. A personal information controller or personal
-information processor shall constitute a data breach response team, which shall have at least
-one (1) member with the authority to make immediate decisions regarding critical action, if
-necessary. The team may include the Data Protection Officer.
+**SECTION 5.** ***Data Breach Response Team.*** A personal information controller or personal information processor shall constitute a data breach response team, which shall have at least one (1) member with the authority to make immediate decisions regarding critical action, if necessary. The team may include the Data Protection Officer.
 
 The team shall be responsible for the following:
 
@@ -183,11 +175,9 @@ In cases where the Data Protection Officer is not part of the Data Breach Respon
 Data Breach Response Team shall submit a written report addressed to the Data Protection
 Officer detailing the actions taken in compliance with these Rules.
 
-### Rule III. Guidelines For The Prevention OF PERSONAL DATA BREACH
+**RULE III.** ***Guidelines For The Prevention Of Personal Data Breach.***
 
-SECTION 6. Preventive or Minimization Measures. A security incident management policy
-shall include measures intended to prevent or minimize the occurrence of a personal data
-breach. Such safeguards may include:
+**SECTION 6.** ***Preventive or Minimization Measures.*** A security incident management policy shall include measures intended to prevent or minimize the occurrence of a personal data breach. Such safeguards may include:
 
 A. Conduct of a privacy impact assessment to identify attendant risks in the processing of
 personal data. It shall take into account the size and sensitivity of the personal data
@@ -208,10 +198,7 @@ principles, and internal procedures for responding to security incidents;
 F. Procedure for the regular review of policies and procedures, including the testing,
 assessment, and evaluation of the effectiveness of the security measures.
 
-SECTION 7. Availability, Integrity and Confidentiality of Personal Data. The implementation
-of security measures shall be in accordance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the
-Commission. The security measures should be directed to ensuring the availability, integrity,
-and confidentiality of the personal data being processed, and may include:
+**SECTION 7.** ***Availability, Integrity and Confidentiality of Personal Data.*** The implementation of security measures shall be in accordance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the Commission. The security measures should be directed to ensuring the availability, integrity, and confidentiality of the personal data being processed, and may include:
 
 A. Implementation of back-up solutions;
 
@@ -221,11 +208,9 @@ C. Encryption;
 
 D. Data disposal and return of assets policy.
 
-### Rule IV. Guidelines For Incident Response POLICY AND PROCEDURE
+**RULE IV.** ***Guidelines For Incident Response Policy And Procedure.***
 
-SECTION 8. Policies and Procedures. The personal information controller or personal
-information processor shall implement policies and procedures for guidance of its data breach
-response team and other personnel in the event of a security incident. These may include:
+**SECTION 8.** ***Policies and Procedures.*** The personal information controller or personal information processor shall implement policies and procedures for guidance of its data breach response team and other personnel in the event of a security incident. These may include:
 
 A. A procedure for the timely discovery of security incidents, including the identification
 of person or persons responsible for regular monitoring and evaluation of security
@@ -267,8 +252,7 @@ a data subject in the event of a personal data breach. The personal information
 controller must be ready to provide assistance to data subjects whose personal data
 may have been compromised.
 
-SECTION 9. Documentation. All actions taken by a personal information controller or personal
-information processor shall be properly documented. Reports should include:
+**SECTION 9.** ***Documentation.*** All actions taken by a personal information controller or personal information processor shall be properly documented. Reports should include:
 
 A. Description of the personal data breach, its root cause and circumstances regarding its
 discovery;
@@ -284,18 +268,11 @@ A procedure for post-breach review must be established for the purpose of improv
 personal data breach management policies and procedures of the personal information
 controller or personal information processor.
 
-SECTION 10. Regular Review. The incident response policy and procedure shall be subject to
-regular revision and review, at least annually, by the Data Protection Officer, or any other
-person designated by the Chief Executive Officer or the Head of Agency, as the case may be.
-The date of the last review and the schedule for the next succeeding review must always be
-indicated in the documentation of the incident response policy and procedure.
+**SECTION 10.** ***Regular Review.*** The incident response policy and procedure shall be subject to regular revision and review, at least annually, by the Data Protection Officer, or any other person designated by the Chief Executive Officer or the Head of Agency, as the case may be. The date of the last review and the schedule for the next succeeding review must always be indicated in the documentation of the incident response policy and procedure.
 
-### Rule V. Procedure For Personal Data Breach NOTIFICATION AND OTHER REQUIREMENTS
+**RULE V.** ***Procedure For Personal Data Breach Notification And Other Requirements.***
 
-SECTION 11. When notification is required. Notification shall be required upon knowledge of
-or when there is reasonable belief by the personal information controller or personal
-information processor that a personal data breach requiring notification has occurred, under the
-following conditions:
+**SECTION 11.** ***When notification is required.*** Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 
 A. The personal data involves sensitive personal information or any other information
 that may be used to enable identity fraud.
@@ -314,17 +291,9 @@ C. The personal information controller or the Commission believes that the unaut
 acquisition is likely to give rise to a real risk of serious harm to any affected data
 subject.
 
-SECTION 12. Public Information. A claim that the data involved in a breach is public
-information will not automatically exempt a personal information controller from the
-notification requirements provided herein. When the level of availability or publicity of the
-personal data is altered by a personal data breach, it shall be considered as a personal data
-breach requiring notification, subject to the preceding paragraphs.
+**SECTION 12.** ***Public Information.*** A claim that the data involved in a breach is public information will not automatically exempt a personal information controller from the notification requirements provided herein. When the level of availability or publicity of the personal data is altered by a personal data breach, it shall be considered as a personal data breach requiring notification, subject to the preceding paragraphs.
 
-SECTION 13. Determination of the Need to Notify. Where there is uncertainty as to the need
-for notification, the personal information controller shall take into account, as a primary
-consideration, the likelihood of harm or negative consequences on the affected data subjects,
-and how notification, particulary of the data subjects, could reduce the risks arising from the
-personal data breach reasonably believed to have occurred.
+**SECTION 13.** ***Determination of the Need to Notify.*** Where there is uncertainty as to the need for notification, the personal information controller shall take into account, as a primary consideration, the likelihood of harm or negative consequences on the affected data subjects, and how notification, particulary of the data subjects, could reduce the risks arising from the personal data breach reasonably believed to have occurred.
 
 The personal information controller shall also consider if the personal data reasonably believed
 to have been compromised involves:
@@ -338,28 +307,17 @@ C. Information required by applicable laws or rules to be confidential; or
 
 D. Personal data of vulnerable groups.
 
-SECTION 14. Discovery of Vulnerability. A discovery of a vulnerability in the data processing
-system that would allow access to personal data shall prompt the personal information
-controller or the personal information processor, as the case may be, to conduct an assessment
-and determine if a personal data breach has occurred.
+**SECTION 14.** ***Discovery of Vulnerability.*** A discovery of a vulnerability in the data processing system that would allow access to personal data shall prompt the personal information controller or the personal information processor, as the case may be, to conduct an assessment and determine if a personal data breach has occurred.
 
-SECTION 15. Who should Notify. The personal information controller shall notify the
-Commission and the affected data subjects upon knowledge of, or when there is reasonable
-belief that a personal data breach has occurred. The obligation to notify remains with the
-personal information controller even if the processing of information is outsourced or
-subcontracted to a personal information processor.
+**SECTION 15.** ***Who should Notify.*** The personal information controller shall notify the Commission and the affected data subjects upon knowledge of, or when there is reasonable belief that a personal data breach has occurred. The obligation to notify remains with the personal information controller even if the processing of information is outsourced or subcontracted to a personal information processor.
 
 The personal information controller shall identify the designated data protection officer or other
 individual responsible for ensuring its compliance with the notification requirements provided
 in this Circular.
 
-SECTION 16. Reporting by Personal Information Processors. To facilitate the timely reporting
-of a personal data breach, the personal information controller shall use contractual or other
-reasonable means to ensure that it is provided a report by the personal information processor
-upon the knowledge of, or reasonable belief that a personal data breach has occurred.
+**SECTION 16.** ***Reporting by Personal Information Processors.*** To facilitate the timely reporting of a personal data breach, the personal information controller shall use contractual or other reasonable means to ensure that it is provided a report by the personal information processor upon the knowledge of, or reasonable belief that a personal data breach has occurred.
 
-SECTION 17. Notification of the Commission. The personal information controller shall notify
-the Commission of a personal data breach subject to the following procedures:
+**SECTION 17.** ***Notification of the Commission.*** The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 
 A. When Notification Should be Done. The Commission shall be notified within seventy-two
 (72) hours upon knowledge of or the reasonable belief by the personal information
@@ -434,8 +392,7 @@ confirmation. Where the notification is through a written report, the received c
 retained by the personal information controller shall constitute proof of such
 confirmation.
 
-SECTION 18. Notification of Data Subjects. The personal information controller shall notify
-the data subjects affected by a personal data breach, subject to the following procedures:
+**SECTION 18.** ***Notification of Data Subjects.*** The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 
 A. When should notification be done. The data subjects shall be notified within seventy-two
 (72) hours upon knowledge of or reasonable belief by the personal information
@@ -492,9 +449,7 @@ manner: Provided further, that the personal information controller shall establi
 through which the data subjects can exercise their rights and obtain more detailed
 information relating to the breach.
 
-SECTION 19. Exemption from Notification Requirements. The following additional factors
-shall be considered in determining whether the Commission may exempt a personal
-information controller from notification:
+**SECTION 19.** ***Exemption from Notification Requirements.*** The following additional factors shall be considered in determining whether the Commission may exempt a personal information controller from notification:
 
 A. Security measures that have been implemented and applied to the personal data at the
 time the personal data breach was reasonably believed to have occurred, including
@@ -513,16 +468,9 @@ In evaluating if notification is unwarranted, the Commission may take into accou
 compliance by the personal information controller with the law and existence of good faith in
 the acquisition of personal data.
 
-SECTION 20. Failure to Notify. In case the personal information controller fails to notify the
-Commission or data subjects, or there is unreasonable delay to the notification, the Commission
-shall determine if such failure or delay is justified. Failure to notify shall be presumed if the
-Commission does not receive notification from the personal information controller within five
-(5) days from knowledge of or upon a reasonable belief that a personal data breach occurred.
+**SECTION 20.** ***Failure to Notify.*** In case the personal information controller fails to notify the Commission or data subjects, or there is unreasonable delay to the notification, the Commission shall determine if such failure or delay is justified. Failure to notify shall be presumed if the Commission does not receive notification from the personal information controller within five (5) days from knowledge of or upon a reasonable belief that a personal data breach occurred.
 
-SECTION 21. Investigation of a Breach or a Security Incident. Depending on the nature of the
-incident, or if there is failure or delay in the notification, the Commission may investigate the
-circumstances surrounding a personal data breach. Investigations may include on-site
-examination of systems and procedures.
+**SECTION 21.** ***Investigation of a Breach or a Security Incident.*** Depending on the nature of the incident, or if there is failure or delay in the notification, the Commission may investigate the circumstances surrounding a personal data breach. Investigations may include on-site examination of systems and procedures.
 
 If necessary, the Commission shall require the cooperation of concerned parties, or compel
 appropriate action therefrom to protect the interests of data subjects.
@@ -530,30 +478,18 @@ appropriate action therefrom to protect the interests of data subjects.
 The investigation under this Section shall be governed by the Rules of Procedure of the
 Commission.
 
-Section 22. Reportorial requirements. All security incidents and personal data breaches shall be
-documented through written reports, including those not covered by the notification
-requirements. In the event of a personal data breach, a report shall include the facts
-surrounding the incident, the effects of such incident, and the remedial action taken by the
-personal information controller. For other security incidents not involving personal data, a
-report containing aggregated data shall constitute sufficient documentation.
+**SECTION 22.** ***Reportorial requirements.*** All security incidents and personal data breaches shall be documented through written reports, including those not covered by the notification requirements. In the event of a personal data breach, a report shall include the facts surrounding the incident, the effects of such incident, and the remedial action taken by the personal information controller. For other security incidents not involving personal data, a report containing aggregated data shall constitute sufficient documentation.
 
 Any or all reports shall be made available when requested by the Commission: Provided, that a
 summary of all reports shall be submitted to the Commission annually, comprised of general
 information including the number of incidents and breach encountered, classified according to
 their impact on the availability, integrity, or confidentiality of personal data.
 
-Section 23. Notification and Reporting to the National Privacy Commission. The requirements
-pertaining to notification and the submission of reports shall be complied with through the
-appropriate submissions to the office of the National Privacy Commission or by electronic mail
-( complaints@privacy.gov.ph ). The foregoing details may be amended, subject to a public
-announcement made through the Commission’s website or other comparable means.
+**SECTION 23.** ***Notification and Reporting to the National Privacy Commission.*** The requirements pertaining to notification and the submission of reports shall be complied with through the appropriate submissions to the office of the National Privacy Commission or by electronic mail (`complaints@privacy.gov.ph`). The foregoing details may be amended, subject to a public announcement made through the Commission’s website or other comparable means.
 
-SECTION 24. Separability Clause. If any portion or provision of this Circular is declared null
-and void or unconstitutional, the other provisions not affected thereby shall continue to be in
-force and effect.
+**SECTION 24.** ***Separability Clause.*** If any portion or provision of this Circular is declared null and void or unconstitutional, the other provisions not affected thereby shall continue to be in force and effect.
 
-SECTION 25. Effectivity. This Order shall take effect fifteen (15) days after publication in the
-Official Gazette or two newspapers of general circulation.
+**SECTION 25.** ***Effectivity.*** This Order shall take effect fifteen (15) days after publication in the Official Gazette or two newspapers of general circulation.
 
 Approved:
 
@@ -563,55 +499,20 @@ Privacy Commissioner
 (Sgd.) IVY D. PATDU (Sgd.)DAMIAN DOMINGO O. MAPA
 Deputy Privacy Commissioner Deputy Privacy Commissioner
 
-Summary
+## Summary
 
-What is subject to the A security breach that:
-notification requirements. 1. Involves sensitive personal information, or information
-that may be used to enable identity fraud
-2. There is reason to believe that information have been
-acquired by an unauthorized person
-3. The unauthorized acquisition is likely to give rise to a
-real risk of serious harm
+The summary of the circular is:
 
-Who should notify. The personal information controller, which controls the
-processing of information, even if processing is outsourced or
-subcontracted to a third party.
-
-When should notification of Within 72 hours from knowledge of the personal data breach,
-Commission be done. based on available information.
-
-Follow up report should be submitted within five (5) days
-from knowledge of the breach, unless allowed a longer period
-by the Commission.
-
-When should data subjects or Within seventy-two (72) hours from knowledge of the breach,
-individuals be notified. unless there is a reason to postpone or omit notification,
-subject to approval of the Commission.
-
-What are the contents of In general-
-notification to Commision 1. nature of the breach
-2. sensitive personal information possibly involved
-3. measures taken by the entity to address the breach
-4. details of contact person for more information
-
-What are the contents of In general, same contents as notification of Commission but
-notification to data subject must include instructions on how data subject will get further
-information and recommendations to minimize risks resulting
-from breach.
-
-How will notification be Commission may be notified by written or electronic means
-done? but the personal information controller must have
-confirmation that the notification has been received.
-
-Data subjects or affected individuals shall be notified
-individually, by written or electronic means, unless allowed by
-the Commission to use alternative means.
-
-Other requirements Cooperate with the Commission where there is an
-investigation related to the breach.
-
-Documentation of all security incidents and the submission of
-an annual report to the Commission.
+- The notification requirements apply when a breach involves sensitive personal information, information that may be used to enable identity fraud, evidence that the information may have been acquired by an unauthorized person, and a real risk of serious harm.
+- The personal information controller must notify, even if processing is outsourced or subcontracted to a third party.
+- Notification to the Commission should be made within 72 hours from knowledge of the breach, based on available information.
+- The follow-up report should be submitted within five (5) days from knowledge of the breach, unless the Commission allows a longer period.
+- Data subjects should be notified within seventy-two (72) hours from knowledge of the breach, unless the Commission approves postponement or omission.
+- Notification to the Commission should include the nature of the breach, the sensitive personal information possibly involved, the measures taken to address the breach, and contact details for more information.
+- Notification to data subjects should generally include the same information as the Commission notification, plus instructions on how to get further information and recommendations to reduce breach-related risks.
+- Notification may be written or electronic, but the personal information controller must have confirmation that the Commission received it.
+- Data subjects or affected individuals shall be notified individually, by written or electronic means, unless the Commission allows alternative means.
+- Other requirements include cooperating with the Commission during investigations and documenting all security incidents, including submission of an annual report to the Commission.
 
 ## Source And Notes
 - Companion note: [[notes/undated/personal-data-breach-management|Analysis and metadata]]

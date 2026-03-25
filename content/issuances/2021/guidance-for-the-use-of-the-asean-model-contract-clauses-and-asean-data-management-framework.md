@@ -18,32 +18,15 @@ draft: false
 
 **Advisory No. 2021**
 
-WHEREAS, [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], provides
-that it is the policy of the State to protect the fundamental human right of privacy of commu- nication while ensuring free flow of information to promote innovation and growth. The State also recognizes its inherent obligation to ensure that personal information in information and communications systems in the government and in the private sector are secured and pro- tected;[^1]
+Republic Act No. 10173, otherwise called the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], sets the policy of protecting the privacy of communication while allowing innovation and the free flow of information, and the State likewise recognizes its duty to secure personal data in both government and private communications systems;[^1] the NPC also coordinates with regional authorities, including ASEAN, to promote accountable digital economies[^2] and has adopted the ASEAN frameworks approved by the ASEAN Digital Ministers in 2021.[^3] In view of these premises, the NPC issues this advisory on the ASEAN Model Contractual Clauses and ASEAN Data Management Framework.
 
-WHEREAS, the National Privacy Commission has the mandate to ensure proper and effective
-coordination with data privacy regulators in other countries and private accountability agents, and participate in international and regional initiatives for data privacy protection, such as the Association of Southeast Nations (ASEAN);[^2]
+**SECTION 1.** ***Scope.*** This Advisory applies to all natural or juridical persons engaged in the processing of personal data, subject to the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances.
 
-WHEREAS, the ASEAN Digital Ministers (ADGMIN), with a view to enable harmonized
-standards for data management and cross border data flows within ASEAN and to enable responsible, data-driven innovation necessary to the development of the digital economy, ap- proved the ASEAN Model Contractual Clauses and ASEAN Data Management Framework as part of the ASEAN Framework on Digital Data Governance;
+**SECTION 2.** ***Rationale.*** This Advisory supplements the ASEAN MCCs and DMF by explaining how PICs and PIPs in the Philippines may adopt them within their personal data processing.
 
-WHEREAS, as an ASEAN Member State,[^3] the Philippines, through the National Privacy Com-
-mission, recognizes the value of these initiatives to data privacy protection and trustworthy cross-border data flows and thus, promotes the adoption and use in its domestic legal frame- work;
+**SECTION 3.** ***Voluntary in nature.*** The ASEAN MCCs and DMF are voluntary templates that neither create new rights nor obligations; the NPC does not require their adoption nor review contracts solely for conformity with these templates.
 
-WHEREFORE, in consideration of these premises, the National Privacy Commission hereby
-issues this advisory on the use of the ASEAN Model Contract Clauses and ASEAN Data Man- agement Framework.
-
-SECTION 1. Scope. – This Advisory applies to all natural or juridical persons engaged in the
-processing of personal data, subject to the applicable provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), its Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and issuances by the National Privacy Commission (NPC).
-
-SECTION 2. Rationale. — This Advisory aims to provide additional guidance to supplement
-the ASEAN Model Contractual Clauses and ASEAN Data Management Framework as to how PICs and PIPs in the Philippines may use these in their respective personal data processing.
-
-SECTION 3. Voluntary in nature. — The ASEAN MCCs and ASEAN DMF are developed for
-voluntary adoption and do not create additional rights or obligations under domestic or in- ternational law. The NPC does not require or obligate parties, entities, or organizations to adopt these and will not accept any request for contract review to verify conformity with the ASEAN MCCs.
-
-SECTION 4. Definition of Terms. — Whenever used in this Advisory, the following terms
-shall have their respective meanings as hereinafter set forth:
+**SECTION 4.** ***Definition of Terms.*** Whenever used in this Advisory, the following terms have the corresponding meanings:
 
     A. “Act” or “[[laws/data-privacy-act-of-2012|DPA]]” refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
@@ -83,8 +66,7 @@ shall have their respective meanings as hereinafter set forth:
            dating or modification, retrieval, consultation, use, consolidation, blocking, erasure or
            destruction of data;[^8]
 
-SECTION 5. ASEAN Model Contract Clauses (MCCs) and ASEAN Data Management Frame-
-work (DMF). — The ASEAN MCCs and ASEAN DMF are vital resources and tools for ASEAN businesses to use in their data-related business operations and help build trust, transparency, and accountability.[^9]
+**SECTION 5.** ***ASEAN MCCs and ASEAN DMF.*** The ASEAN MCCs and ASEAN DMF are voluntary resources that help ASEAN businesses manage personal data in a transparent and accountable way.[^9]
 
      A. The ASEAN MCCs are contractual terms and conditions that may be included in the
         binding legal agreements between parties or entities transferring personal information
@@ -147,11 +129,9 @@ Data-Flows_Final.pdf and the ASEAN DMF document at [https://asean.org/storage/2-
 
    C. Annex A provides for Frequently Asked Questions on the ASEAN MCCs and DMF.
 
-SECTION 6. Effect. — The ASEAN MCCs and ASEAN DMF do not amend the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]],
-and other related issuances of the NPC, and shall neither preclude, limit, nor constrain NPC’s exercise of its regulatory rights, powers, and discretion.
+**SECTION 6.** ***Effect.*** The ASEAN MCCs and ASEAN DMF do not amend the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or other NPC issuances, and do not constrain the NPC’s exercise of its regulatory powers.
 
-SECTION 7. Interpretation. — Any doubt in the interpretation of any provision of this Advi-
-sory shall be liberally interpreted in a manner mindful of the rights and interests of the data subjects.
+**SECTION 7.** ***Interpretation.*** Any doubt in the interpretation of a provision of this Advisory shall be liberally resolved with regard for the rights and interests of the data subjects.
 
 Approved:
 
@@ -159,9 +139,7 @@ Approved:
 
 (sgd.)                                          (sgd.) LEANDRO ANGELO Y. AGUIRRE                 JOHN HENRY D. NAGA Deputy Privacy Commissioner               Deputy Privacy Commissioner
 
-## ANNEX A
-
-### FAQs on the ASEAN MCCs and DMF
+**ANNEX A.** ***FAQs on the ASEAN MCCs and DMF***
 
 #### Background
 
@@ -344,4 +322,3 @@ The ASEAN MCCs can be accessed at [https://asean.org/storage/3-ASEAN-Model-](htt
 
 ## Source And Notes
 - Companion note: [[notes/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Analysis and metadata]] - Raw source text: [[sources/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Raw source extraction]] - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/06/Advisory-ASEAN-MCC-DMF_FINAL-signed.pdf - OCR used during extraction: no
-

@@ -18,36 +18,27 @@ draft: false
 
 **Advisory No. 2021-01**
 
-DATE                     :       29 January 2021
+**DATE:** 29 January 2021
 
-SUBJECT                  :       DATA SUBJECT RIGHTS
+**SUBJECT:** Data Subject Rights
 
-WHEREAS, the right to privacy, which includes information privacy, is constitutionally
-protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution emphasizes that the State values the dignity of every human person and guarantees full respect for human rights;
+WHEREAS, the right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution emphasizes that the State values the dignity of every human person and guarantees full respect for human rights;
 
-WHEREAS, the Data Privacy Act of 2012 (DPA), provides that it is the policy of the State to
-protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth;[^1]
+WHEREAS, the Data Privacy Act of 2012 (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth;[^1]
 
-WHEREAS, the DPA provides that personal information must be collected for specified and
-legitimate purposes, processed fairly and lawfully, accurate, relevant and, where necessary, kept up to date, adequate and not excessive in relation to the purposes for processing, and retained only for as long as necessary;[^2]
+WHEREAS, the DPA provides that personal information must be collected for specified and legitimate purposes, processed fairly and lawfully, accurate, relevant and, where necessary, kept up to date, adequate and not excessive in relation to the purposes for processing, and retained only for as long as necessary;[^2]
 
-WHEREAS, the DPA and its Implementing Rules and Regulations (IRR) provide for the rights
-of the data subjects, instances where these may be duly exercised, and the obligations of personal information controllers and processors;[^3]
+WHEREAS, the DPA and its Implementing Rules and Regulations (IRR) provide for the rights of the data subjects, instances where these may be duly exercised, and the obligations of personal information controllers and processors;[^3]
 
-WHEREAS, the DPA mandates that any doubt in the interpretation of any provision of the
-law shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed;[^4]
+WHEREAS, the DPA mandates that any doubt in the interpretation of any provision of the law shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed;[^4]
 
-WHEREFORE, in consideration of the foregoing premises, the National Privacy Commission
-(NPC) hereby issues this Advisory on the Rights of Data Subjects relevant to the processing of their personal data.
+WHEREFORE, in consideration of the foregoing premises, the National Privacy Commission (NPC) hereby issues this Advisory on the Rights of Data Subjects relevant to the processing of their personal data.
 
 ### General Provisions
 
-SECTION 1. Scope. — This Advisory shall apply to all natural or juridical persons, or any
-other body in the government or private sector engaged in the processing of personal data within and outside of the Philippines, subject to the applicable provisions of the DPA, its IRR,
+**SECTION 1.** ***Scope.*** This Advisory shall apply to all natural or juridical persons, or any other body in the government or private sector engaged in the processing of personal data within and outside of the Philippines, subject to the applicable provisions of the DPA, its IRR, and issuances by the NPC.
 
-and issuances by the NPC.
-
-SECTION 2. General Principles. — This Advisory is governed by the following principles:
+**SECTION 2.** ***General Principles.*** This Advisory is governed by the following principles:
 
    A. The right to data privacy refers to the right empowering individuals to have
       reasonable control over the flow of their personal data;
@@ -68,14 +59,11 @@ SECTION 2. General Principles. — This Advisory is governed by the following pr
 
 ### General Policies and Procedures in Upholding Data Subject Rights
 
-SECTION 3. Exercise of rights. — These rights shall be exercised by the data subject himself
-or herself. The data subject may, however, authorize another person to facilitate the exercise of any of these rights on his or her behalf: provided, that the authorization is specific and supported by appropriate documents.
+**SECTION 3.** ***Exercise of rights.*** These rights shall be exercised by the data subject himself or herself. The data subject may, however, authorize another person to facilitate the exercise of any of these rights on his or her behalf: provided, that the authorization is specific and supported by appropriate documents.
 
-SECTION 4. Transmissibility of rights. — The lawful heirs and assigns of the data subject
-may likewise exercise any of his or her rights, at any time after the death of the data subject or when the data subject is incapacitated or incapable of exercising the same.
+**SECTION 4.** ***Transmissibility of rights.*** The lawful heirs and assigns of the data subject may likewise exercise any of his or her rights, at any time after the death of the data subject or when the data subject is incapacitated or incapable of exercising the same.
 
-SECTION 5. Policies and procedures. — PICs shall establish policies and procedures allowing
-for the exercise of data subjects of their rights. The following shall be considered:
+**SECTION 5.** ***Policies and procedures.*** PICs shall establish policies and procedures allowing for the exercise of data subjects of their rights. The following shall be considered:
 
    A. Request form. There is no standard form or template. PICs shall, however, ensure that
       the process is clear, simple, straightforward, and convenient, and should be
@@ -143,8 +131,7 @@ for the exercise of data subjects of their rights. The following shall be consid
 
 ### Rights of a Data Subject
 
-SECTION 6. Right to be Informed. — The data subject has the right to be informed whether
-personal data pertaining to him or her shall be, are being, or have been processed, including the existence of automated decision-making and profiling.
+**SECTION 6.** ***Right to be Informed.*** The data subject has the right to be informed whether personal data pertaining to him or her shall be, are being, or have been processed, including the existence of automated decision-making and profiling.
 
     A. PICs shall notify and furnish data subjects with information indicated below before
        their personal data is processed, or at the next practical opportunity:
@@ -703,4 +690,3 @@ DATE RECEIVED:
 
 ## Source And Notes
 <!-- BEGIN GENERATED TEXT INFO --> - Companion note: [[notes/2021/data-subject-rights|Analysis and metadata]] - Raw source text: [[sources/2021/data-subject-rights|Raw source extraction]] - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/02/NPC-Advisory-2021-01-FINAL.pdf - OCR used during extraction: no <!-- END GENERATED TEXT INFO -->
-

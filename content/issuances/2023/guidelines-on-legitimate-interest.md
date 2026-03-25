@@ -41,19 +41,11 @@ freedoms;
 WHEREFORE, in view of the foregoing, the NPC hereby issues this Circular to provide  
 guidelines on legitimate interest as a lawful basis for processing personal information.
 
-SECTION 1. Scope and Purpose. — This Circular applies to all PICs and third parties  
-engaged in the processing of personal information based on legitimate interest under  
-[[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]].
+**SECTION 1.** ***Scope and Purpose.*** This Circular applies to all PICs and third parties engaged in the processing of personal information based on legitimate interest under [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]]. It provides guidelines for self‑assessing whether legitimate interest constitutes a lawful basis for a specific processing activity.
 
-This Circular provides guidelines for PICs and third parties relying on legitimate interest  
-as a lawful basis to process personal information for a specific processing activity.
+**SECTION 2.** ***Definition of Terms.*** The definition of terms in the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as amended, as well as in existing NPC issuances, are adopted herein.
 
-SECTION 2. Definition of Terms. — The definition of terms in the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as  
-amended, as well as in existing NPC issuances, are adopted herein.
-
-SECTION 3. General Considerations. — [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]] permits the processing  
-of personal information when the processing is necessary for the legitimate interests  
-pursued by the PIC or a third party to whom the personal information is disclosed, except
+**SECTION 3.** ***General Considerations.*** [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]] permits the processing of personal information when the processing is necessary for the legitimate interests pursued by the PIC or a third party to whom the personal information is disclosed, except
 
 where such interests are overridden by fundamental rights and freedoms of the data  
 subject that require protection under the Philippine Constitution.
@@ -79,9 +71,7 @@ subject that require protection under the Philippine Constitution.
 
 ## PROCESSING BASED ON LEGITIMATE INTEREST
 
-SECTION 4. Requisites for Processing Based on Legitimate Interest; Legitimate Interest  
-Assessment. — Processing based on legitimate interest requires the fulfillment of the  
-following conditions:
+**SECTION 4.** ***Requisites for Processing Based on Legitimate Interest; Legitimate Interest Assessment.*** Processing based on legitimate interest requires the fulfillment of the following conditions:
 
      A.     The legitimate interest is established;
 
@@ -95,9 +85,7 @@ not precluded from using any existing method, structure, or form, provided that 
 or third party applies the requisites for processing based on legitimate interest in its  
 assessment.
 
-SECTION 5. The Legitimate Interest is Established (Purpose Test). — A PIC shall  
-determine the existence of a clearly established legitimate interest, including a  
-determination of the objective of the specific processing activity.
+**SECTION 5.** ***The Legitimate Interest is Established (Purpose Test).*** A PIC shall determine the existence of a clearly established legitimate interest, including a determination of the objective of the specific processing activity.
 
      A.     The purpose of the specific processing activity must be specific, such that it is  
             clearly defined and not vague or overbroad;
@@ -109,10 +97,7 @@ determination of the objective of the specific processing activity.
             processing or at the next practical opportunity, following the principle of  
             transparency and the right of the data subject to be informed.
 
-SECTION 6. The Means to Fulfill the Legitimate Interest is both Necessary and Lawful  
-(Necessity Test). — The means or method chosen for the specific processing activity  
-undertaken to accomplish the legitimate interest of the PIC or the third party should be  
-necessary and lawful.
+**SECTION 6.** ***The Means to Fulfill the Legitimate Interest is both Necessary and Lawful (Necessity Test).*** The means or method chosen for the specific processing activity undertaken to accomplish the legitimate interest of the PIC or the third party should be necessary and lawful.
 
      A.     The means to fulfill the legitimate interest must be adequate, relevant, suitable,  
             necessary, and not excessive in relation to a declared and specified purpose, in  
@@ -121,10 +106,7 @@ necessary and lawful.
      B.     The means chosen to accomplish the legitimate interest is itself lawful. The PIC  
             cannot violate any law in the process of accomplishing its legitimate interest.
 
-SECTION 7. The Interest is Legitimate and Lawful, and it does not Override  
-Fundamental Rights and Freedoms of Data Subjects (Balancing Test). — A PIC or third  
-party relying on legitimate interest shall determine whether the processing undertaken  
-does not override the data subject’s fundamental rights and freedoms. In doing so, the  
+**SECTION 7.** ***The Interest is Legitimate and Lawful, and it does not Override Fundamental Rights and Freedoms of Data Subjects (Balancing Test).*** A PIC or third party relying on legitimate interest shall determine whether the processing undertaken does not override the data subject’s fundamental rights and freedoms. In doing so, the
 PIC or third party shall look at the effect or impact of accomplishing the legitimate interest  
 and consider the purpose of processing the interest established and the means by which  
 it is fulfilled.
@@ -147,8 +129,7 @@ The factors that may be considered include but are not limited to:
 
 ## OBLIGATIONS OF THE PERSONAL INFORMATION CONTROLLER
 
-SECTION 8. Documentation. — A PIC shall document the conduct and results of its  
-legitimate interest assessment.
+**SECTION 8.** ***Documentation.*** A PIC shall document the conduct and results of its legitimate interest assessment.
 
      A.     A PIC must regularly evaluate its compliance with the requisites for legitimate  
             interest as part of their regular process.
@@ -159,26 +140,16 @@ legitimate interest assessment.
      C.     In case of an investigation or a compliance check, the NPC may require the  
             submission of the records of the legitimate interest assessment.
 
-SECTION 9. Further Processing of Personal Information Based on Legitimate Interest.  
-— For personal information originally collected based on consent, further processing for  
-additional purposes that constitute a legitimate interest of the PIC may be allowed in  
-accordance with Section 6(B) of the Circular on the Guidelines on Consent.
+**SECTION 9.** ***Further Processing of Personal Information Based on Legitimate Interest.*** For personal information originally collected based on consent, further processing for additional purposes that constitute a legitimate interest of the PIC may be allowed in accordance with Section 6(B) of the Circular on the Guidelines on Consent.
 
-SECTION 10. Legitimate Interest of Third Parties. — A PIC shall verify the legitimate  
-interest of the third party to whom personal information may be disclosed, either through  
-its own legitimate interest assessment or on the basis of the third party’s legitimate interest  
-assessment, as stated in Section 4 of this Circular.
+**SECTION 10.** ***Legitimate Interest of Third Parties.*** A PIC shall verify the legitimate interest of the third party to whom personal information may be disclosed, either through its own legitimate interest assessment or on the basis of the third party’s legitimate interest assessment, as stated in Section 4 of this Circular.
 
 If a third party intends to process personal information from another PIC for its own  
 legitimate interest, such third party is considered a PIC.
 
-SECTION 11. Sectoral Determination of Specific Legitimate Interest. — The NPC  
-encourages industry sectors to determine common personal information processing  
-activities within their respective industries that may be based on legitimate interest.
+**SECTION 11.** ***Sectoral Determination of Specific Legitimate Interest.*** The NPC encourages industry sectors to determine common personal information processing activities within their respective industries that may be based on legitimate interest.
 
-SECTION 12. Processing Carried Out by Public Authorities. — As a general rule,  
-legitimate interest shall not apply to the processing carried out by public authorities in  
-the performance of their constitutional or statutory mandates.
+**SECTION 12.** ***Processing Carried Out by Public Authorities.*** As a general rule, legitimate interest shall not apply to the processing carried out by public authorities in the performance of their constitutional or statutory mandates.
 
 Legitimate interest may be considered the appropriate lawful basis for specific processing
 activities carried out by government agencies that are not expressly provided in their
@@ -187,28 +158,17 @@ mandate and do not fall squarely on any of the other criteria for processing und
 apply as lawful basis for ancillary processing activities performed in the ordinary course
 of business. In such cases, the PIC must conduct a legitimate interest assessment.
 
-SECTION 13. Interpretation. — Any doubt in the interpretation of any provision of this
-Circular shall be liberally interpreted in a manner mindful of the rights and interests of
-the data subject.
+**SECTION 13.** ***Interpretation.*** Any doubt in the interpretation of any provision of this Circular shall be liberally interpreted in a manner mindful of the rights and interests of the data subject.
 
-SECTION 14. Penalties. — The processing of personal data in violation of this Circular  
-shall carry criminal, civil, and administrative liability pursuant to the provisions of the  
-[[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and related issuances of the Commission.
+**SECTION 14.** ***Penalties.*** The processing of personal data in violation of this Circular shall carry criminal, civil, and administrative liability pursuant to the provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and related issuances of the Commission.
 
-SECTION 15. Transitory Provision. — All affected PICs shall be given a period of ninety  
-(90) calendar days from the effectivity of this Circular to comply with the requirements  
-provided in Section 8(B) herein.
+**SECTION 15.** ***Transitory Provision.*** All affected PICs shall be given a period of ninety (90) calendar days from the effectivity of this Circular to comply with the requirements provided in Section 8(B) herein.
 
-SECTION 16. Separability Clause. — If any portion or provision of this Circular is  
-declared null and void, or unconstitutional, the other provisions not affected thereby shall  
-continue to be in force and effect.
+**SECTION 16.** ***Separability Clause.*** If any portion or provision of this Circular is declared null and void, or unconstitutional, the other provisions not affected thereby shall continue to be in force and effect.
 
-SECTION 17. Repealing Clause. — All other rules, regulations, and issuances contrary to  
-or inconsistent with the provisions of this Circular are deemed repealed or modified  
-accordingly.
+**SECTION 17.** ***Repealing Clause.*** All other rules, regulations, and issuances contrary to or inconsistent with the provisions of this Circular are deemed repealed or modified accordingly.
 
-SECTION 18. Effectivity. — This Circular shall take effect fifteen (15) calendar days after  
-its publication in the Official Gazette or a newspaper of general circulation.
+**SECTION 18.** ***Effectivity.*** This Circular shall take effect fifteen (15) calendar days after its publication in the Official Gazette or a newspaper of general circulation.
 
 Approved:
 

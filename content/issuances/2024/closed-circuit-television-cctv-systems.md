@@ -18,19 +18,9 @@ draft: false
 
 **Circular No. 2024-02**
 
-WHEREAS, the National Privacy Commission (NPC) previously issued [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|NPC Advisory No. 2020-04]], or the Guidelines on the Use of Closed-Circuit Television (CCTV) Systems, which provides guidance to all personal information controllers (PICs) and personal information processors (PIPs) on the use of CCTV systems operating in public and semi-public areas;
+WHEREAS, the National Privacy Commission (NPC) previously issued [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|NPC Advisory No. 2020-04]], or the Guidelines on the Use of Closed-Circuit Television (CCTV) Systems, which provides guidance to all personal information controllers (PICs) and personal information processors (PIPs) on the use of CCTV systems operating in public and semi-public areas. CCTV systems process personal and sensitive personal information (collectively, personal data), and there is a need to provide an updated policy framework because the technology is continuously evolving and its use has become accepted and even mandated in certain instances. These guidelines are therefore necessary to address emerging privacy risks and enable PICs and PIPs to properly manage data processing through CCTV systems. PICs and PIPs must ensure that the use of CCTV systems adheres to the general principles of privacy and upholds data subjects’ rights and freedoms, and with these premises considered the NPC hereby issues this Circular on CCTV systems.
 
-WHEREAS, CCTV systems process personal and sensitive personal information (collectively, personal data);
-
-WHEREAS, there is a need to provide an updated policy framework on the use of CCTV systems as the technology for such systems is continuously evolving, and the use of the same has become accepted and even mandated in certain instances;
-
-WHEREAS, these guidelines are necessary to address emerging privacy risks, and enable PICs and PIPs to properly manage personal data processing through CCTV systems;
-
-WHEREAS, PICs and PIPs must ensure that the use of CCTV systems adheres to the general principles of privacy and upholds data subjects’ rights and freedoms;
-
-WHEREFORE, in consideration of the foregoing premises, the NPC hereby issues this Circular on CCTV systems.
-
-SECTION 1. Scope. — This Circular shall apply to all PICs and PIPs engaged in the processing of personal data through CCTV systems, except when CCTV systems are used for any of the following purposes:
+**SECTION 1.** ***Scope.*** This Circular shall apply to all PICs and PIPs engaged in the processing of personal data through CCTV systems, except when CCTV systems are used for any of the following purposes:
 
     A. Personal, family, or household affairs. This Circular shall not apply to the use of CCTV
        systems for purely personal, family, or household affairs as defined herein.
@@ -49,7 +39,7 @@ SECTION 1. Scope. — This Circular shall apply to all PICs and PIPs engaged in 
           applicable requirements of the Philippine Constitution and other laws and regulations
           regulating surveillance activities.
 
-SECTION 2. Definition of Terms. — The definition of terms used in the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as amended, and other NPC issuances are adopted herein. In addition, whenever used in this Circular, the following terms are defined as follows:
+**SECTION 2.** ***Definition of Terms.*** The definition of terms used in the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as amended, and other NPC issuances are adopted herein, and whenever used in this Circular the following terms are defined as follows:
 
      A. “Commission” refers to the Privacy Commissioner and the two (2) Deputy Privacy
         Commissioners, acting as a collegial body;
@@ -89,7 +79,7 @@ SECTION 2. Definition of Terms. — The definition of terms used in the [[laws/d
 
      I. “Video analytics” refers to any technology that processes a digital video signal using a special algorithm to perform a security-related function. The common types of video analytics are fixed algorithm analytics, artificial intelligence learning algorithms, and facial recognition systems.[^3]
 
-SECTION 3. General principles. — PICs and its PIPs engaged in the processing of personal data through CCTV systems are mandated to ensure that reasonable and appropriate safeguards are in place for the protection of personal data, taking into account the rights of the data subject. For this purpose, PICs and its PIPs shall adhere to the following principles:
+**SECTION 3.** ***General principles.*** PICs and its PIPs engaged in the processing of personal data through CCTV systems are mandated to ensure that reasonable and appropriate safeguards are in place for the protection of personal data, taking into account the rights of the data subject. For this purpose, PICs and its PIPs shall adhere to the following principles:
 
      A. Transparency. PICs shall provide appropriate CCTV notices to inform data subjects of the existence and purpose of CCTV systems in operation. Given that CCTV notices are a specific kind of privacy notice, the requirements for privacy notices as stated in [[issuances/2023/guidelines-on-consent|NPC Circular No. 2023-04]] or the Guidelines on Consent shall apply. In addition, PICs shall ensure that CCTV notices adhere to the following:
 
@@ -152,7 +142,7 @@ SECTION 5. Safeguards. — PICs and its PIPs shall implement reasonable and appr
 
           6. Assistance of PIPs. In accordance with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 43 and 44 of the IRR]], PICs should put in place contractual or other reasonable means to ensure the cooperation and assistance of PIPs they have engaged to process personal data on their behalf.
 
-SECTION 6. Data subject request for access. — Any person whose personal data is recorded on CCTV systems has a right to reasonable access to the same pursuant to [[laws/data-privacy-act-of-2012#Section 16|Section 16 of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 34|Section 34 of the IRR]].
+**SECTION 6.** ***Data subject request for access.*** Any person whose personal data is recorded on CCTV systems has a right to reasonable access to the same pursuant to [[laws/data-privacy-act-of-2012#Section 16|Section 16 of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 34|Section 34 of the IRR]].
 
      A. PICs and PIPs shall establish policies allowing for access, and shall consider the following:
 
@@ -164,7 +154,7 @@ SECTION 6. Data subject request for access. — Any person whose personal data i
 
      B. Where images of persons other than the requesting data subject appear on the CCTV footage, such as a specific person sought to be identified as part of the request for identification of malefactors for the protection of lawful rights and interests, establishing legal claims, investigation, or law enforcement purposes, Section 12 (f) or Section 13 (f) of the DPA may apply as the basis for the disclosure.
 
-SECTION 7. Third-party access request. — A third-party access request is a request to access CCTV footage made by a person other than the data subject involved in the footage or the latter’s authorized representative. If a data subject involved in the footage or their authorized representative requests access to CCTV footage, the presence of another person’s
+**SECTION 7.** ***Third-party access request.*** A third-party access request is a request to access CCTV footage made by a person other than the data subject involved in the footage or the latter’s authorized representative. If a data subject involved in the footage or their authorized representative requests access to CCTV footage, the presence of another person’s
 
 image within the CCTV footage does not automatically classify such request as a third-party access request. Further, in handling third-party access requests, the same policies and procedures outlined in the previous section shall apply.
 
@@ -192,7 +182,7 @@ image within the CCTV footage does not automatically classify such request as a 
              a. Upon determination of PICs that the requesting third party’s needs outweigh those of the data subjects to whom the CCTV footage and images pertain, it may release information to such requesting third party.
              b. PICs must determine on a case-to-case basis if they will accede to such request taking into consideration the general principles of privacy, the rights and freedoms of the data subjects whose images are recorded by the CCTV systems, and a lawful basis for processing under Section 12 or [[laws/data-privacy-act-of-2012#Section 13|Section 13 of the DPA]].
 
-SECTION 8. Response procedure. — The following shall be implemented:
+**SECTION 8.** ***Response procedure.*** The following shall be implemented:
 
      A. When the requesting party informs the PIC in writing of its intention to view or obtain a copy of a particular CCTV footage, the PIC and its PIPs shall preserve the pertinent CCTV footage by taking the same out of the coverage of the established retention period as indicated in the documented retention policy until such time as any of the following occur:
 

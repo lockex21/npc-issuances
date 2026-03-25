@@ -59,58 +59,36 @@ review or amend rules and regulations for the effective implementation of the Ac
 
 hereby issues this Circular governing the security of personal data in government agencies.
 
-### Rule I. General Provisions
+## RULE I. GENERAL PROVISIONS
 
-SECTION 1. Scope. These Rules shall apply to all government agencies engaged in the
-processing of personal data.
+**SECTION 1.** ***Scope.*** These Rules shall apply to all government agencies engaged in the processing of personal data.
 
-SECTION 2. Purpose. These Rules are hereby issued to assist government agencies engaged in
-the processing of personal data to meet their legal obligations under [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],
-also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], and its corresponding Implementing Rules and
-Regulations.
+**SECTION 2.** ***Purpose.*** These Rules are hereby issued to assist government agencies engaged in the processing of personal data to meet their legal obligations under [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], and its corresponding Implementing Rules and Regulations.
 
 A government agency may use these Rules to issue and implement more detailed policies and
 procedures, which reflect its specific operating requirements.
 
-SECTION 3. Definition of Terms. For the purpose of this Circular, the following terms are
-defined, as follows:
+**SECTION 3.** ***Definition of Terms.*** For the purpose of this Circular, the following terms are defined, as follows:
 
-A. “Acceptable Use Policy” shall refer to a document or set of rules stipulating controls or
-restrictions that agency personnel must agree to for access to their agency’s network,
-facilities, equipment, or services;
+A. “Acceptable Use Policy” shall refer to a document or set of rules stipulating controls or restrictions that agency personnel must agree to for access to their agency’s network, facilities, equipment, or services;
 
 B. “Act” refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]);
 
-C. “Agency Personnel” refers to all officials, officers, employees or consultants of a
-government agency, including those covered by job orders or contracts of services;
+C. “Agency Personnel” refers to all officials, officers, employees or consultants of a government agency, including those covered by job orders or contracts of services;
 
 D. “Commission” refers to the National Privacy Commission (NPC);
 
-E. “Data Center” refers to a centralized repository, which may be physical or virtual, may
-be analog or digital, used for the storage, management, and dissemination of data
-including personal data;
+E. “Data Center” refers to a centralized repository, which may be physical or virtual, may be analog or digital, used for the storage, management, and dissemination of data including personal data;
 
-F. “Data Protection Officer” refers to an individual designated by the head of agency to
-be accountable for the agency’s compliance with the Act: Provided, that the individual
-must be an organic employee of the government agency: Provided further, that a
-government agency may have more than one data protection officer;
+F. “Data Protection Officer” refers to an individual designated by the head of agency to be accountable for the agency’s compliance with the Act: Provided, that the individual must be an organic employee of the government agency: Provided further, that a government agency may have more than one data protection officer;
 
-G. “Government Agency” refers to a government branch or body or entity, including
-national government agencies, bureaus, or offices, constitutional commissions, local
-government units, government-owned and controlled corporations, government
-financial institutions, state colleges and universities;
+G. “Government Agency” refers to a government branch or body or entity, including national government agencies, bureaus, or offices, constitutional commissions, local government units, government-owned and controlled corporations, government financial institutions, state colleges and universities;
 
-H. “Head of Agency” refers to: (1) the head of the government entity or body, for national
-government agencies, constitutional commissions or offices, or branches of the
-government; (2) the governing board or its duly authorized official for government
-owned and controlled corporations, government financial institutions, and state
-colleges and universities; (3) the local chief executive, for local government units;
+H. “Head of Agency” refers to: (1) the head of the government entity or body, for national government agencies, constitutional commissions or offices, or branches of the government; (2) the governing board or its duly authorized official for government owned and controlled corporations, government financial institutions, and state colleges and universities; (3) the local chief executive, for local government units;
 
-I. “Implementing Rules and Regulations” or “IRR” shall pertain to Implementing Rules
-and Regulations of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
+I. “Implementing Rules and Regulations” or “IRR” shall pertain to Implementing Rules and Regulations of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
-J. “Personal Data” shall refer to all types of personal information, including those
-pertaining to agency personnel;
+J. “Personal Data” shall refer to all types of personal information, including those pertaining to agency personnel;
 
 K. “Privacy Impact Assessment” is a process undertaken and used by a government
 agency to evaluate and manage privacy impacts;
@@ -118,106 +96,61 @@ agency to evaluate and manage privacy impacts;
 L. “System Management Tool” is a software system that facilitates the administration of
 user passwords and access rights.
 
-SECTION 4. General Obligations. A government agency engaged in the processing of personal
-data shall observe the following duties and responsibilities:
+**SECTION 4.** ***General Obligations.*** A government agency engaged in the processing of personal data shall observe the following duties and responsibilities:
 
-A. through its head of agency, designate a Data Protection Officer;
+A. Through its head of agency, designate a Data Protection Officer;
 
-B. conduct a Privacy Impact Assessment for each program, process or measure within the
-agency that involves personal data, Provided, that such assessment shall be updated as
-necessary;
+B. Conduct a Privacy Impact Assessment for each program, process or measure within the agency that involves personal data, Provided, that such assessment shall be updated as necessary;
 
-C. create privacy and data protection policies, taking into account the privacy impact
-assessments, as well as [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 25 and 29 of the IRR]];
+C. Create privacy and data protection policies, taking into account the privacy impact assessments, as well as [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 25 and 29 of the IRR]];
 
-D. conduct a mandatory, agency-wide training on privacy and data protection policies
-once a year: Provided, that a similar training shall be provided during all agency
-personnel orientations.
+D. Conduct a mandatory, agency-wide training on privacy and data protection policies once a year: Provided, that a similar training shall be provided during all agency personnel orientations.
 
-E. register its data processing systems with the Commission in cases where processing
-involves personal data of at least one thousand (1,000) individuals, taking into account
-[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 46 and 49 of the IRR]];
+E. Register its data processing systems with the Commission in cases where processing involves personal data of at least one thousand (1,000) individuals, taking into account [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 46 and 49 of the IRR]];
 
-F. cooperate with the Commission when the agency’s privacy and data protection
-policies are subjected to review and assessment, in terms of their compliance with the
-requirements of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all issuances by the Commission.
+F. Cooperate with the Commission when the agency’s privacy and data protection policies are subjected to review and assessment, in terms of their compliance with the requirements of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all issuances by the Commission.
 
-SECTION 5. Privacy Impact Assessment. A government agency engaged in the processing of
-personal data shall ensure that its conduct of a privacy impact assessment is proportionate or
-consistent with the size and sensitivity of the personal data being processed, and the risk of
-harm from the unauthorized processing of that data.
+**SECTION 5.** ***Privacy Impact Assessment.*** A government agency engaged in the processing of personal data shall ensure that its conduct of a privacy impact assessment is proportionate or consistent with the size and sensitivity of the personal data being processed, and the risk of harm from the unauthorized processing of that data.
 
 The Privacy Impact Assessment shall include the following:
 
-A. a data inventory identifying:
+A. A data inventory identifying:
 
-1.) the types of personal data held by the agency, including records of its own
-employees;
-2.) list of all information repositories holding personal data, including their location;
-3.) types of media used for storing the personal data; and
-4.) risks associated with the processing of the personal data;
+1. the types of personal data held by the agency, including records of its own employees;
+2. list of all information repositories holding personal data, including their location;
+3. types of media used for storing the personal data; and
+4. risks associated with the processing of the personal data;
 
-B. a systematic description of the processing operations anticipated and the purposes of
-the processing, including, where applicable, the legitimate interest pursued by the
-agency;
+B. A systematic description of the processing operations anticipated and the purposes of the processing, including, where applicable, the legitimate interest pursued by the agency;
 
-C. an assessment of the necessity and proportionality of the processing in relation to the
-purposes of the processing; and
+C. An assessment of the necessity and proportionality of the processing in relation to the purposes of the processing.
 
-D. an assessment of the risks to the rights and freedoms of data subjects.
+D. An assessment of the risks to the rights and freedoms of data subjects.
 
-SECTION 6. Control Framework for Data Protection. The risks identified in the privacy impact
-assessment must be addressed by a control framework, which is a comprehensive enumeration
-of the measures intended to address the risks, including organizational, physical and technical
-measures to maintain the availability, integrity and confidentiality of personal data and to
-protect the personal data against natural dangers such as accidental loss or destruction, and
-human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration
-and contamination.
+**SECTION 6.** ***Control Framework for Data Protection.*** The risks identified in the privacy impact assessment must be addressed by a control framework, which is a comprehensive enumeration of the measures intended to address the risks, including organizational, physical and technical measures to maintain the availability, integrity and confidentiality of personal data and to protect the personal data against natural dangers such as accidental loss or destruction, and human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration and contamination.
 
 The contents of a control framework shall take into account, among others, the following:
 
 A. nature of the personal data to be protected;
-B. risks represented by the processing, the size of the organization and complexity of its
-operations;
+B. risks represented by the processing, the size of the organization and complexity of its operations;
 C. current data privacy best practices; and
 D. cost of security implementation.
 
-For agencies that process the personal data records of more than one thousand (1,000)
-individuals, including agency personnel, the Commission recommends the use of the ISO/IEC
-27002 control set as the minimum standard to assess any gaps in the agency’s control
-framework.
+For agencies that process the personal data records of more than one thousand (1,000) individuals, including agency personnel, the Commission recommends the use of the ISO/IEC 27002 control set as the minimum standard to assess any gaps in the agency’s control framework.
 
-### Rule II. Storage Of Personal Data
+## RULE II. STORAGE OF PERSONAL DATA
 
-SECTION 7. General Rule. Personal data being processed by a government agency shall be
-stored in a data center, which may or may not be owned and controlled by such agency:
-Provided, that the agency must be able to demonstrate to the Commission how its control
-framework for data protection, and/or, where applicable, that of its service provider, shall
-ensure compliance with the Act: Provided further, that where a service provider is engaged, the
-Commission may require the agency to submit its contract with its service provider for review.
+**SECTION 7.** ***General Rule.*** Personal data being processed by a government agency shall be stored in a data center, which may or may not be owned and controlled by such agency: Provided, that the agency must be able to demonstrate to the Commission how its control framework for data protection, and/or, where applicable, that of its service provider, shall ensure compliance with the Act: Provided further, that where a service provider is engaged, the Commission may require the agency to submit its contract with its service provider for review.
 
-SECTION 8. Encryption of Personal Data. All personal data that are digitally processed must
-be encrypted, whether at rest or in transit. For this purpose, the Commission recommends
-Advanced Encryption Standard with a key size of 256 bits (AES-256) as the most appropriate
-encryption standard.
+**SECTION 8.** ***Encryption of Personal Data.*** All personal data that are digitally processed must be encrypted, whether at rest or in transit. For this purpose, the Commission recommends Advanced Encryption Standard with a key size of 256 bits (AES-256) as the most appropriate encryption standard.
 
-Passwords or passphrases used to access personal data should be of sufficient strength to deter
-password attacks. A password policy should be issued and enforced through a system
-management tool.
+Passwords or passphrases used to access personal data should be of sufficient strength to deter password attacks. A password policy should be issued and enforced through a system management tool.
 
-SECTION 9. Restricted Access. Access to all data centers owned and controlled by a
-government agency shall be restricted to agency personnel that have the appropriate security
-clearance. This should be enforced by an access control system that records when, where, and
-by whom the data centers are accessed. Access records and procedures shall be reviewed by
-agency management regularly.
+**SECTION 9.** ***Restricted Access.*** Access to all data centers owned and controlled by a government agency shall be restricted to agency personnel that have the appropriate security clearance. This should be enforced by an access control system that records when, where, and by whom the data centers are accessed. Access records and procedures shall be reviewed by agency management regularly.
 
-SECTION 10. Service Provider as Personal Information Processor. When a government agency
-engages a service provider for the purpose of storing personal data under the agency’s control
-or custody, the service provider shall function as a personal information processor and comply
-with all the requirements of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and all applicable issuances by the Commission.
+**SECTION 10.** ***Service Provider as Personal Information Processor.*** When a government agency engages a service provider for the purpose of storing personal data under the agency’s control or custody, the service provider shall function as a personal information processor and comply with all the requirements of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and all applicable issuances by the Commission.
 
-SECTION 11. Audit. The Commission reserves the right to audit a government agency's data
-center, or, where applicable, that of its service provider.
+**SECTION 11.** ***Audit.*** The Commission reserves the right to audit a government agency's data center, or, where applicable, that of its service provider.
 
 Independent verification or certification by a reputable third party may also be accepted by the
 Commission.

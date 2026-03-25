@@ -76,30 +76,26 @@ B, available at [https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.
 
 C, available at [https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.2-GPA-Annual-Working-Group-Report-](https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.2-GPA-Annual-Working-Group-Report-) Annex-C-Controller-to-Processor-clause-comparison-tables-tracked-changes.pdf (last accessed: 18 December 2023).
 
-    B. The ASEAN and the European Commission published a Joint Guide to ASEAN MCCs
-       and EU SCCs (Joint Guide).
+    B. The ASEAN and the European Commission published a Joint Guide to ASEAN MCCs and EU SCCs (Joint Guide).
 
-         1. The Joint Guide provides an overview and comparative analysis of the ASEAN
-            MCCs and EU MCCs and best practices to operationalize safeguards under these
-            MCCs for cross-border transfers of personal data from ASEAN to EU, from EU to
-            ASEAN or between EU and ASEAN, and within ASEAN.
+         1. The Joint Guide provides an overview and comparative analysis of the ASEAN MCCs and EU SCCs, plus best practices to operationalize safeguards for transfers from ASEAN to EU, from EU to ASEAN or between EU and ASEAN, and within ASEAN.
 
-         2. The Document is available on the ASEAN website through the following link:
+         2. The Joint Guide is available on the ASEAN website through this link:
 
-                 i.   Joint Guide to ASEAN MCCs and EU SCCs.[^3]
+                i.   Joint Guide to ASEAN MCCs and EU SCCs.[^3]
 
-SECTION 6. Voluntary adoption. — This guidance is intended for voluntary adoption and does not impose any additional rights or obligations.
+**SECTION 6.** ***Voluntary adoption.*** This guidance is intended for voluntary adoption and does not impose any additional rights or obligations.
 
     A. The NPC does not require contractual parties to adopt the use of MCCs. It remains the
-       PIC and PIP’s obligation to refer to the MCCs and determine for themselves whether
-       applicable laws may impose additional obligations on the parties. Nevertheless, the
-       use of MCCs may aid PICs in upholding the accountability principle in cross-border
-       transfers of personal data.
+     PIC and PIP’s obligation to refer to the MCCs and determine for themselves whether
+     applicable laws may impose additional obligations on the parties. Nevertheless, the
+     use of MCCs may aid PICs in upholding the accountability principle in cross-border
+     transfers of personal data.
 
     B. The NPC will not accept any requests for review of agreements or contracts to
-       determine conformity with any model contractual clauses.
+     determine conformity with any model contractual clauses.
 
-SECTION 7. Effects. — The Advisory does not amend the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other relevant issuances of the NPC, and shall neither preclude, limit, nor constrain the NPC’s exercise of its mandate.
+**SECTION 7.** ***Effects.*** The Advisory does not amend the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or other relevant NPC issuances, and shall neither preclude, limit, nor constrain the Commission’s exercise of its mandate.
 
 SECTION 8. Interpretation. — Any doubt in the interpretation of any provision of this Advisory shall be liberally interpreted in a manner mindful of the rights and interests of the data subjects.
 
@@ -113,7 +109,7 @@ Approved:
       LEANDRO ANGELO Y. AGUIRRE                                       NERISSA N. DE JESUS
         Deputy Privacy Commissioner                                 Deputy Privacy Commissioner
 
-available at [https://asean.org/wp-content/uploads/2024/02/Joint-Guide-to-ASEAN-Model-Contractual-Clauses-and-EU-](https://asean.org/wp-content/uploads/2024/02/Joint-Guide-to-ASEAN-Model-Contractual-Clauses-and-EU-) Standard-Contractual-Clauses.pdf (last accessed: 07 February 2024).
+available at [https://asean.org/wp-content/uploads/2024/02/Joint-Guide-to-ASEAN-Model-Contractual-Clauses-and-EU-Standard-Contractual-Clauses.pdf](https://asean.org/wp-content/uploads/2024/02/Joint-Guide-to-ASEAN-Model-Contractual-Clauses-and-EU-Standard-Contractual-Clauses.pdf) (last accessed: 07 February 2024).
 
 ## Footnotes
 

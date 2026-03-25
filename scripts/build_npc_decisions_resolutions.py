@@ -34,13 +34,16 @@ NOISE_LINE_RE = re.compile(
     r"^(?:"
     r"republic of the philippines|"
     r"national privacy commission|"
-    r"page \d+ of \d+|"
-    r"npc_[a-z0-9_,. -]+|"
+    r"page \d+ ?of \d+|"
+    r"npc_\S.*|"                                    # NPC document codes (NPC_OPC_ADJU_DCSN-V1.0 …)
     r"url:\s*https?//www\.privacy\.gov\.ph.*|"
-    r"\d+(?:st|nd|rd|th) floor, philippine international convention center,?|"
+    r"\d+(?:st|nd|rd|th) floor,.*|"                # any NPC floor/address line
+    r"delegation building,.*|"
+    r"picc complex,.*|"
     r"vicente sotto avenue,.*|"
     r"info@privacy\.gov\.ph|"
-    r"tel no\..*"
+    r"tel no\..*|"
+    r"email add:.*"
     r")$",
     re.IGNORECASE,
 )
@@ -342,6 +345,14 @@ def clean_pdf_markdown(markdown: str, reference_label: str | None, short_title: 
         if normalized_counts.get(normalized, 0) > 1:
             removable.add(normalized)
 
+    # Any short line that repeats suspiciously often is a page header or
+    # footer injected by Jina on every page of the source PDF.  Five or more
+    # occurrences of the same text in a single document is a reliable signal.
+    HIGH_FREQ_THRESHOLD = 5
+    for candidate, count in normalized_counts.items():
+        if count >= HIGH_FREQ_THRESHOLD and len(candidate) < 300:
+            removable.add(candidate)
+
     cleaned_lines: list[str] = []
     for line in lines:
         normalized = core.normalize_space(line.lstrip("> ").strip())
@@ -631,6 +642,35 @@ def build_index_pages(config: CorpusConfig, records: list[CaseRecord]) -> None:
         )
 
 
+def download_pdfs(config: CorpusConfig, refresh: bool) -> None:
+    """Download the original source PDFs for a corpus to cache/<folder>/pdfs/."""
+    pdf_dir = config.cache_dir / "pdfs"
+    pdf_dir.mkdir(parents=True, exist_ok=True)
+
+    raw_index = load_or_fetch(config.index_cache_path, config.mirror_url, refresh=False)
+    _, index_markdown = split_mirror_response(raw_index)
+    entries = parse_index_entries(index_markdown, config.heading)
+
+    for entry in entries:
+        stem = cache_stem(entry.source_url)
+        pdf_path = pdf_dir / f"{stem}.pdf"
+        if not refresh and pdf_path.exists():
+            print(f"  [skip] {pdf_path.name}")
+            continue
+        try:
+            print(f"  [download] {entry.source_url}")
+            req = __import__("urllib.request", fromlist=["Request", "urlopen"]).Request(
+                entry.source_url, headers={"User-Agent": "Mozilla/5.0 (compatible; NPC-Issuance-Wiki/1.0)"}
+            )
+            import shutil, urllib.request as _ur
+            with _ur.urlopen(req, timeout=120) as resp, pdf_path.open("wb") as fh:
+                shutil.copyfileobj(resp, fh)
+        except Exception as exc:
+            print(f"  [error] {entry.source_url}: {exc}")
+
+    print(f"PDFs saved to {pdf_dir} ({len(entries)} entries)")
+
+
 def run(configs: list[CorpusConfig], refresh: bool) -> dict[str, list[CaseRecord]]:
     results: dict[str, list[CaseRecord]] = {}
     for config in configs:
@@ -645,12 +685,23 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Build markdown corpora for NPC decisions and resolutions.")
     parser.add_argument("corpus", choices=["decisions", "resolutions", "all"])
     parser.add_argument("--refresh", action="store_true", help="Refresh the mirrored source pages and documents.")
+    parser.add_argument(
+        "--download-pdfs",
+        action="store_true",
+        help="Download the original source PDFs to cache/<corpus>/pdfs/ and exit (no markdown rebuild).",
+    )
     args = parser.parse_args()
 
     if args.corpus == "all":
         selected = [CORPORA["decisions"], CORPORA["resolutions"]]
     else:
         selected = [CORPORA[args.corpus]]
+
+    if args.download_pdfs:
+        for config in selected:
+            print(f"Downloading PDFs for {config.title}…")
+            download_pdfs(config, refresh=args.refresh)
+        return 0
 
     results = run(selected, refresh=args.refresh)
     summary = ", ".join(f"{len(records)} {key}" for key, records in results.items())

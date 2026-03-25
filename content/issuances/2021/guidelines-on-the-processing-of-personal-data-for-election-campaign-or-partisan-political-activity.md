@@ -19,13 +19,12 @@ draft: false
 
 **Advisory No. 2021**
 
-SECTION 1. Scope. — This Advisory shall apply to political parties, candidates, aspirants,
-party-list groups or organizations and their nominees, and information society service providers on the matter of processing personal and sensitive personal information (collectively, personal data) for election campaigns or partisan political activities.
+**SECTION 1.** ***Scope.*** This Advisory applies to political parties, candidates, aspirants,
+party-list groups or organizations and their nominees, and information society service providers on processing personal and sensitive personal information (collectively, personal data) for election campaigns or partisan political activities.
 
-SECTION 2. Definition of Terms. — For the purpose of this Advisory, the following terms
-are defined, as follows:
+**SECTION 2.** ***Definition of Terms.*** For purposes of this Advisory, the following terms are defined as follows:
 
-    A. “Act” or “[[laws/data-privacy-act-of-2012|DPA]]” refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
+    A. *"Act"* or *"[[laws/data-privacy-act-of-2012|DPA]]"* refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
     B. “Aspirant” refers to any person who has filed a certificate of candidacy within the
        prescribed period but is not yet officially considered as a candidate;
@@ -162,11 +161,9 @@ Manifestation Of Intent To Participate; 3) Submission Of Names Of Nominees; And 
          4. Specifically established by an executive order or an act of Congress to be kept
             classified.
 
-SECTION 3. Accountability. — As PICs, political parties, candidates, aspirants, party-list
-groups or organizations and their nominees, and information society service providers acting as PICs shall be accountable for complying with the requirements of the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances of the NPC.
+**SECTION 3.** ***Accountability.*** Political parties, candidates, aspirants, party-list groups or organizations and their nominees, and information society service providers acting as PICs shall be accountable for complying with the requirements of the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances of the NPC.
 
-SECTION 4. Guidelines. — The processing of personal data for election campaign or partisan
-political activity shall be subject to the following general guidelines:
+**SECTION 4.** ***Guidelines.*** The processing of personal data for election campaign or partisan political activity shall be subject to the following general guidelines:
 
     A. Legitimate purpose. The processing of personal data shall be limited to and compatible
        with the declared and specified purpose/s which must not be contrary to law, morals,
@@ -456,4 +453,3 @@ SGD.                                                                 SGD. LEANDR
 
 ## Source And Notes
 - Companion note: [[notes/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Analysis and metadata]] - Raw source text: [[sources/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Raw source extraction]] - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/11/Advisory_Election_Campaigning_03-Nov-21-FINAL.pdf - OCR used during extraction: no
-

@@ -1,15 +1,15 @@
 ---
-title: "Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements (Circular No. 2020-03)"
+title: "Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements (Advisory No. 2025-01)"
 description: "SUBJECT : CLARIFICATION ON CERTAIN PROVISIONS OF NPC CIRCULAR NO. 2020-03 ON DATA SHARING AGREEMENTS"
 aliases:
-  - "Circular No. 2020-03"
-  - "circular no. 2020-03"
+  - "Advisory No. 2025-01"
+  - "advisory no. 2025-01"
   - "clarification on certain provisions of npc circular no. 2020-03 on data sharing agreements"
-  - "npc circular no. 2020-03"
+  - "npc advisory no. 2025-01"
 tags:
   - "issuance"
   - "topic/data-sharing"
-  - "type/circular"
+  - "type/advisory"
   - "year/2025"
 draft: false
 ---
@@ -22,35 +22,21 @@ draft: false
 
 **SUBJECT:** Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements
 
-WHEREAS, the National Privacy Commission (NPC) issued [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] on
-Data Sharing Agreements in 2020, amending NPC Circular 16-02 on Data Sharing Agreements
-Involving Government Agencies and the pertinent provisions of the Rules and Regulations
-([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]);
+WHEREAS, the National Privacy Commission (NPC) issued [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] on Data Sharing Agreements in 2020, amending NPC Circular 16-02 on Data Sharing Agreements Involving Government Agencies and the pertinent provisions of the Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]);
 
-WHEREAS, Sections 6 and 7 of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] state that data sharing may be based
-on any of the criteria for lawful processing of personal data in Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|DPA]]
-and may also be allowed under the special cases provided in [[laws/data-privacy-act-of-2012#Section 4|Section 4 of the DPA]],
-distinguishing it from the [[laws/data-privacy-act-of-2012|DPA]]’s [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] which required the consent of data subjects for data
-sharing in the private sector;
+WHEREAS, Sections 6 and 7 of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] state that data sharing may be based on any of the criteria for lawful processing of personal data in Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|DPA]] and may also be allowed under the special cases provided in [[laws/data-privacy-act-of-2012#Section 4|Section 4 of the DPA]], distinguishing it from the [[laws/data-privacy-act-of-2012|DPA]]'s [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] which required the consent of data subjects for data sharing in the private sector;
 
-WHEREAS, Section 8 of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] also emphasized that data sharing may be
-covered by a data sharing agreement (DSA) or a similar document containing the terms and
-conditions of the sharing arrangement;
+WHEREAS, Section 8 of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] also emphasized that data sharing may be covered by a data sharing agreement (DSA) or a similar document containing the terms and conditions of the sharing arrangement;
 
 WHEREAS, applying the rules of statutory construction, the use of the word “may” in Section 8 of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] means that the execution of a DSA is optional;
 
-WHEREAS, despite the issuance of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]], the NPC continues to receive
-inquiries wherein personal information controllers (PICs) insist on the execution of a DSA for
-their data sharing activities under the belief that the same is mandatory or is a prerequisite for
-such processing;
+WHEREAS, despite the issuance of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]], the NPC continues to receive inquiries wherein personal information controllers (PICs) insist on the execution of a DSA for their data sharing activities under the belief that the same is mandatory or is a prerequisite for such processing;
 
-WHEREAS, Section 7 (g) of the [[laws/data-privacy-act-of-2012|DPA]] provides that the NPC is empowered to publish, on a  
-regular basis, a guide to all laws relating to data protection;
+WHEREAS, Section 7 (g) of the [[laws/data-privacy-act-of-2012|DPA]] provides that the NPC is empowered to publish, on a regular basis, a guide to all laws relating to data protection;
 
-WHEREFORE, in consideration of these premises, the NPC hereby issues this Advisory  
-clarifying certain provisions of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] on Data Sharing Agreements.
+WHEREFORE, in consideration of these premises, the NPC hereby issues this Advisory clarifying certain provisions of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] on Data Sharing Agreements.
 
-SECTION 1. Data sharing; DSAs; clarifications. — PICs engaged in data sharing shall be guided by the following clarifications:
+**SECTION 1.** ***Data sharing; DSAs; clarifications.*** PICs engaged in data sharing shall be guided by the following clarifications:
 
 A. Nothing in this Advisory shall be construed as prohibiting or limiting the sharing, disclosure, or transfer of personal data that is already authorized or required by law.
 
@@ -62,9 +48,7 @@ D. A DSA does not in itself confer authority or legal basis for PICs to engage i
 
 E. There is no requirement under the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as amended, and NPC issuances for the NPC’s pre- or post-execution review and approval of DSAs. It is the data sharing activity itself, whether or not covered by DSAs, that may be reviewed by the Commission on its own initiative or upon a verified complaint by an affected data subject.
 
-SECTION 2. Interpretation. — Any doubt in the interpretation of any provision of this  
-Advisory shall be liberally interpreted in a manner mindful of the rights and interests of data  
-subjects.
+**SECTION 2.** ***Interpretation.*** Any doubt in the interpretation of any provision of this Advisory shall be liberally interpreted in a manner mindful of the rights and interests of data subjects.
 
 Approved:
 
@@ -75,8 +59,6 @@ Privacy Commissioner
 SGD.                                                       SGD.
 NERISSA N. DE JESUS                        JOSE AMELITO S. BELARMINO II
 Deputy Privacy Commissioner                Deputy Privacy Commissioner
-
-## Footnotes
 
 ## Source And Notes
 - Companion note: [[notes/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Analysis and metadata]]

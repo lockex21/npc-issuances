@@ -19,72 +19,51 @@ draft: false
 
 **Circular No. 2022-04**
 
-ANNEX 1
+**ANNEX 1**
 
-CITY OF _______________________) S.S.
+**CITY OF _______________________) S.S.**
 
-SWORN DECLARATION AND UNDERTAKING FOR EXEMPTION FROM REGISTRATION OF DATA PROCESSING SYSTEMS
+**SWORN DECLARATION AND UNDERTAKING FOR EXEMPTION FROM REGISTRATION OF DATA PROCESSING SYSTEMS**
 
-I [Name of Data Protection Officer/Authorized Representative], of legal age, and residing at
-[Address of DPO/Authorized Representative], after having been duly sworn in accordance
-with law, do hereby depose and state that:
+I, [Name of Data Protection Officer/Authorized Representative], of legal age and residing at [Address of DPO/Authorized Representative], having been duly sworn in accordance with law, depose and state the following:
 
-   1. I am the [Data Protection Officer (“DPO”) or Authorized Representative] of [Name of
-      PIC/PIP] with the following contact details:
-          a. Office Address: ________________________;
-          b. DPO Name: (if through Authorized Representative);
-          c. DPO Email Address: ___________________; and
-          d. Contact Number: __________________;
+**SECTION 1.** ***Affiant details.*** I am the [Data Protection Officer (“DPO”) or Authorized Representative] of [Name of PIC/PIP], and the entity’s contact information is:
 
-   2. I am duly authorized to issue this Sworn Declaration and Undertaking on behalf of
-      [Name of PIC/ PIP] as manifested in the attached [proof of authority such as a Board
-      Resolution embodied in a Secretary’s Certificate];
+1. Office Address: ________________________
+2. DPO Name: (if through Authorized Representative)
+3. DPO Email Address: ___________________
+4. Contact Number: __________________
 
-   3. [Name of PIC/PIP] does not meet the registration requirements for all of the following
-      reasons:
-                o [Name of PIC/PIP] employs less than two hundred fifty (250) persons;
-                o the processing by [Name of PIC/PIP] does not include sensitive
-                   personal information of at least one thousand (1,000) individuals;
-                o [Name of PIC/PIP] does not process any information likely to pose a
-                   risk to the rights and freedoms of data subjects including those that
-                   involve information likely to affect national security, public safety,
-                   public order, or public health or information required by applicable
-                   laws or rules to be confidential; vulnerable data subjects like minors,
-                   the mentally ill, asylum seekers, the elderly, patients, those involving
-                   criminal offenses, or in any other case where an imbalance exists in the
-                   relationship between a data subject and a PIC or PIP, especially those
-                   involving automated decision-making or profiling; and
-                o [Name of PIC/PIP] is not a government agency or instrumentality;
+**SECTION 2.** ***Authority.*** I am duly authorized to execute this Sworn Declaration and Undertaking on behalf of [Name of PIC/PIP], as shown in the attached proof of authority (e.g., Board Resolution embodied in a Secretary’s Certificate).
 
-   4. I undertake that [Name of PIC/PIP] shall comply with orders of the Commission
-      requiring the submission of additional documents and other relevant information, and
-      that failure to comply with such orders will be subject to fines and other applicable
-      penalties;
+**SECTION 3.** ***Basis for exemption.*** [Name of PIC/PIP] does not meet the registration requirements for the following reasons:
 
-   5. I undertake to immediately inform the Commission by filing a new Sworn Declaration
-      and Undertaking within ten (10) days from any change in the declarations in number
-      1;
+a. The entity employs fewer than two hundred fifty (250) persons;
+b. The processing does not include sensitive personal information of at least one thousand (1,000) individuals;
+c. The entity does not process any information likely to pose a risk to the rights and freedoms of data subjects (e.g., national security, public safety, public order, public health, confidential information, vulnerable groups, or data involving automated decision-making or profiling);
+d. The entity is not a government agency or instrumentality.
 
-   6. I undertake to immediately register with the Commission within twenty (20) days
-      from existence of facts showing that the basis for this Sworn Declaration and
-      Undertaking is no longer true;
+**SECTION 4.** ***Commission requests.*** [Name of PIC/PIP] shall comply with Commission orders requiring additional documents or information; failure to comply may result in fines and other penalties.
 
-   7. I am executing this Sworn Declaration and Undertaking to attest to the truth of the
-      foregoing statements and to comply with the requirements of the Data Privacy Act, its
-      Implementing Rules and Regulations, and other relevant issuances of the National
-      Privacy Commission.
+**SECTION 5.** ***Change in declarations.*** I shall file a new Sworn Declaration and Undertaking within ten (10) days of any change affecting the declarations under Section 1.
+
+**SECTION 6.** ***Basis no longer true.*** I shall immediately register with the Commission within twenty (20) days after learning that the facts supporting this declaration are no longer accurate.
+
+**SECTION 7.** ***Compliance.*** This Sworn Declaration and Undertaking attests to the truthfulness of the foregoing statements and demonstrates compliance with the Data Privacy Act, its Implementing Rules and Regulations, and other relevant NPC issuances.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this _____ day of ______________, 20__ at ____________, Philippines.
 
                                            [Name of Data Protection Officer/Authorized Representative]
                                                                       Affiant
 
-SUBSCRIBED AND SWORN to before me this ____ day of ______, 20__, Affiant exhibiting to me a competent proof of identity ___________________________________ issued at _____________________ on _______________________.
+SUBSCRIBED AND SWORN before me this ____ day of ______, 20__ with the Affiant presenting a competent proof of identity _________________________________ issued at _____________________ on _______________________.
 
-NOTARY PUBLIC
+**NOTARY PUBLIC**
 
 Doc No. _____; Page No. ____; Book No. ____; Series of _____.
 
 ## Source And Notes
-- Companion note: [[notes/2022/annex-1|Analysis and metadata]] - Raw source text: [[sources/2022/annex-1|Raw source extraction]] - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-Annex-1-1.pdf - OCR used during extraction: no
-
+- Companion note: [[notes/2022/annex-1|Analysis and metadata]]
+- Raw source text: [[sources/2022/annex-1|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-Annex-1-1.pdf
+- OCR used during extraction: no

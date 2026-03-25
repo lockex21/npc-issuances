@@ -1,6 +1,6 @@
 ---
 title: "NPC 16-005: N.I.H. vs WSQ Medical Center et. al."
-description: "NPC 16-005: N.I.H. vs WSQ Medical Center et. al."
+description: "A compromise agreement concerning alleged violation of data privacy rights to medical records was confirmed as valid and enforceable, resolving the case."
 tags:
   - "resolution"
   - "type/resolution"
@@ -21,240 +21,105 @@ draft: false
 - The power of Commission to facilitate or enable settlement through the use of alternative dispute resolution processes, Compromise Agreement
 
 ## Resolution Text
-Republic of the Philipp ines
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+Republic of the Philippines
 
-N.I.H.
+5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
-Complainant ,
+**N.I.H.**
 
-- versus -
+Complainant,
 
-WSQ MEDICAL CENTER ,
+versus
 
-represented by N.W.W.E. , DR.
+**WSQ MEDICAL CENTER,**
 
-N.O. and DR. O.P. ,
+represented by N.W.W.E., DR. N.O. and DR. O.P.,
 
-Respondent s.
+Respondents.
 
-NPC 16 -005
+**NPC 16-005**
 
-For : Violation of Data Privacy
-
-Act of 2012
+For: Violation of Data Privacy Act of 2012
 
 x----------------------------------------------x
 
-LIBORO, PC.:
+**LIBORO, PC.:**
 
-Before this Commission is a Compromise Agreement (CA ) between
+Before this Commission is a Compromise Agreement (CA) between the complainant N.I.H. (Complainant) and respondent WSQ Medical Center, as represented by N.W.W.E., Dr. N.O., and Dr. O.P. (collectively referred as Respondents).
 
-the complainant N.I.H . (Complainant ) and respondent WSQ Medical
+### Facts
 
-Center , as represented by N.W.W.E. , Dr. N.O. , and Dr. O.P.
+On 06 November 2016, Complainant, through an email, filed a complaint against Respondents for violation of her right to access. In her Complaint, Complainant alleged that she asked for a copy of the medical records of her late brother, who died at the Intensive Care Unit of the WSQ MC.
 
-(collectively referred as Respondents) .
+After the discovery conference and several hearings, parties received an Order from the Commission dated 06 December 2017 stating that the case will be submitted for resolution unless the parties submit their Joint Settlement Agreement.
 
-Facts
+On 11 January 2018, the parties through their counsels filed before the Commission a Joint Manifestation dated 09 January 2018 asking for an extension of time to finalize and submit the Compromise Agreement, which was granted in the Order issued by the Commission dated 17 January 2018.
 
-On 06 November 2016, Complainant , through an email, filed a
-
-complaint against Respondents for violation of her right to access. In
-
-her Complaint, Complainant alleged that she asked for a copy of the
-
-medical records of her late brother, who died at the Intensive Care Unit
-
-of the WSQ MC.
-
-After the discovery conference and several hearings, parties received
-
-an Order from the Commission dated 06 December 2017 stating that
-
-the case will be submitted for resolution unless the parties submit their
-
-Joint -Settlement Agreement.
-
-On 11 January 2018, the parties through their counsels filed before the
-
-Commission a Joint Manifestation dated 09 January 2018 asking for an
-
-extension of time to finalize and submit the Compromise Agreement,
-
-which was granted in the Order issued by the Commission dated 17
-
-January 2018. NPC 16-005
-
-N.I.H. vs WSQ M edical Center
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-On 17 January 2018, the parties executed a Compromise Agreement,
-
-containing the following provisions:
+On 17 January 2018, the parties executed a Compromise Agreement, containing the following provisions:
 
 xxx
 
-2. Without admitting any claim or liability, and solely for the purpose
+2. Without admitting any claim or liability, and solely for the purpose of buying peace and amicably settling their dispute, the Parties agree to terms and conditions of this Compromise Agreement and to perform their respective obligations as outlined herein.
 
-of buying peace and amicably settling their dispute, the Parties agree
+3. In consideration thereto, WSQ Medical Center, Dr. N.O. and Dr. O.P. shall tender to Ms. N.I.H., the total amount of THREE HUNDRED THOUSAND PESOS (P300,000.00), as full and final settlement of all claims of Ms. N.I.H. against WSQ Medical Center, Dr. N.O. and Dr. O.P., by reason of or arising from the confinement and treatment of S.H. at the WSQ MC.
 
-to terms and conditions of this Compromise Agreement and to
-
-perform their respective obligations as outlined herein.
-
-3. In consideration thereto, WSQ Medical Center, Dr. N.O. and Dr.
-
-O.P. shall tender to Ms. N.I.H. , the total amount of THREE HUNDRED
-
-THOUSAND PESOS (P300,000.00), as full and final settlement of all
-
-claims of Ms. N.I.H. against WSQ Medical Center, Dr. N.O. and Dr.
-
-O.P. , by reason of or arising from the confinement and treatment of
-
-S.H. at the WSQ MC.
-
-4. Ms. N.I.H. shall release and discharge, as she hereby releases and
-
-forecer discha rges Dr. N.O. , Dr. O.P. and the WSQ Medical Center, its
-
-officers, employee s, agents and representatives from any and all claim,
-
-demands, and/or causes of action of whatever nature easing from the
-
-case m or in relation to the confinement and treatment of S.H. at the
-
-WSQ MC.
+4. Ms. N.I.H. shall release and discharge, as she hereby releases and forever discharges Dr. N.O., Dr. O.P. and the WSQ Medical Center, its officers, employees, agents and representatives from any and all claim, demands, and/or causes of action of whatever nature arising from the case or in relation to the confinement and treatment of S.H. at the WSQ MC.
 
 xxx
 
-On 23 January 2018, the parties, through their counsels, submitted
+On 23 January 2018, the parties, through their counsels, submitted their Joint Motion to render judgment based on the Compromise Agreement.
 
-their Joint Motion to render judgment based on the Compromise
+On 01 March 2018, the following were submitted by the parties: (1) the Ex Parte Manifestation dated 27 February 2018; (2) the corrected copy of the Compromise Agreement due to several typographical errors on the document; and (3) the Check Voucher that was prepared and issued by the Respondents bearing the amount agreed upon.
 
-Agreement.
+### Discussion
 
-On 01 March 2018, the following were submitted by the parties:
+This Commission confirms the Compromise Agreement dated 27 February 2018 between the Complainant and the Respondents.
 
-(1) the Ex Parte Manifestation dated 27 February 2018; ( 2) the corrected
+Section 25 of the National Privacy Commission Circular No. 16-04 provides that the Commission shall facilitate or enable settlement through the use of alternative dispute resolution processes.
 
-copy of the Compromise Agreement due to several typographical
+After a thorough study and adjudication of the case on hand, the Commission finds that the Compromise Agreement dated 27 February 2018 by and between the Complainant and Respondent is not contrary to law, public policy, morals, or good customs.
 
-errors on the document ; and (3) the Check Voucher that was prepared
+In the case of *Municipal Board of Cabanatuan City v. Samahang Magsasaka, Inc.,[^1]* the Court ruled that a compromise agreement is a contract between the parties, which if not contrary to law, morals, or public policy, is valid and enforceable between them.
 
-and issued by the Respondent s bearing the amount agreed upon.
+With the foregoing, the Commission finds the executed Compromise Agreement dated 27 February 2018 by and between the Complainant and the Respondent as valid and enforceable.
 
-Discus sion
+### Dispositive Portion
 
-This Commission confirms the Compromise Agreement dated 27
+**WHEREFORE**, in view of the foregoing, this Commission **RESOLVES** to **CONFIRM** the Compromise Agreement executed by and between N.I.H. and WSQ MEDICAL CENTER and DR. N.O. and DR. O.P. The case NPC 16-005 - "N.I.H. vs. WSQ MEDICAL CENTER, represented by N.W.W.E., DR. N.O. and DR. O.P." is hereby considered **CLOSED**.
 
-February 2018 between the Complainant and the Respondent s.NPC 16-005
+**SO ORDERED.**
 
-N.I.H. vs WSQ M edical Center
+Pasay City, Philippines; 10 September 2020.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+---
 
-Section 25 of the National Privacy Commission Circular No. 16 -04
-
-provides that the Commission shall facilitate or enable settlement
-
-through the use of alternative dispute resolution processes.
-
-After a thorough study and adjudication of the case on hand, the
-
-Co mmission finds that the Compromise Agreement dated 27 February
-
-2018 by and between the Complainant and Respondent is not contrary
-
-to law, public policy, morals, or good customs.
-
-In the case of Municipal Board of Cabanatuan City v. Samahang Magsasaka,
-
-Inc. ,1 the Court ruled that a compromise agreement is a contract
-
-between the parties, which if not contrary to law, morals, or public
-
-policy, is valid and enforceable between them.
-
-With the foregoing, the Commission finds the executed Compromise
-
-Agreement dated 27 February 20 18 by and between the Complainant
-
-and the Respondent as valid and enforceable.
-
-WHEREFORE, in view of the foregoing, this Commission resolves to
-
-CONFIRM the Compromise Agreement executed by and between
-
-N.I.H. and WSQ MEDICAL CENTER and DR. N.O. and DR. O.P. The
-
-case NPC 16 -005 - “N.I.H. vs. WSQ MEDICAL CENTER, represented
-
-by N.W.W.E. , DR. N.O. and DR. O.P. ” is hereby considered CLOSED.
-
-SO ORDERED.
-
-Pasay City, Philippines ;
-
-10 September 2020.
-
-(Sgd.)
-
-RAYMUND ENRIQUEZ LIBORO
+**RAYMUND ENRIQUEZ LIBORO**
 
 Privacy Commissioner
 
 WE CONCUR:
 
-> 1Municipal Board of Cabanatuan City v. Samahang Magsasaka, Inc., 62 SCRA 435 (1975).
+**LEANDRO ANGELO Y. AGUIRRE**
 
-NPC 16-005
+Deputy Privacy Commissioner
 
-N.I.H. vs WSQ M edical Center
+**JOHN HENRY D. NAGA**
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-(Sgd.) (Sgd.)
-
-LEANDRO ANGELO Y. AGUIRRE JOHN HENRY D. NAGA
-
-Deputy Privacy Commissioner Deputy Privacy Commissioner
+Deputy Privacy Commissioner
 
 Copy furnished:
 
-N.I.H.
+N.I.H., Complainant
 
-Complainant
-
-xxxxxx
-
-xxxxxx
-
-xxxxxxxx
-
-N.W.W.E.
-
-DR. N.O.
-
-DR. O.P.
-
-Respondents
+N.W.W.E., DR. N.O., DR. O.P., Respondents
 
 WSQ Medical Center
 
-xxxxxxxxx
-
-xxxxxxxxx
-
-xxxxxxxxxx
-
-COMPLAINTS AND INVESTIGATION
-
-DIVISION
+COMPLAINTS AND INVESTIGATION DIVISION
 
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+
+[^1]: *Municipal Board of Cabanatuan City v. Samahang Magsasaka, Inc.*, 62 SCRA 435 (1975).

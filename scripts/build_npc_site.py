@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import functools
 import re
 import shutil
 import subprocess
@@ -63,6 +64,12 @@ NUMBERED_TITLE_PATTERN = re.compile(
 FILENAME_REFERENCE_PATTERN = re.compile(
     r"(?P<label>Advisory|Circular|Memorandum[-_ ]Circular|Joint[-_ ]Circular|Joint[-_ ]Advisory|Advisory[-_ ]Opinion|Commission[-_ ]Resolution)"
     r"(?:[-_ ]*No\.?[-_ ]*|[-_ ]*)(?P<number>(?:19|20)\d{2}(?:[-_.]\d{1,2})?|\d{2}[-_.]\d{2})(?![._-]\d{2}\b)(?=$|[^A-Za-z0-9])",
+    re.IGNORECASE,
+)
+LOOSE_REFERENCE_PATTERN = re.compile(
+    r"\b(?:(?:National\s+Privacy\s+Commission|NPC)\s+)?"
+    r"(?P<label>Advisory|Circular|Memorandum Circular|Joint Circular|Joint Advisory|Advisory Opinion|Commission Resolution)"
+    r"(?:\s+No\.?)?\s*(?P<number>(?:19|20)\d{2}\s*[-–—./]\s*\d{1,2}|\d{2}\s*[-–—./]\s*\d{2})\b",
     re.IGNORECASE,
 )
 DATE_PATTERN = re.compile(
@@ -178,6 +185,93 @@ def extract_reference(source: str, *, filename_mode: bool = False) -> str | None
     label = normalize_space(match.group("label").replace("-", " ").replace("_", " "))
     number = match.group("number").replace("_", "-").replace(".", "-")
     return normalize_reference(label, number)
+
+
+def normalize_reference_number(number: str) -> str:
+    return re.sub(r"\s*[-–—./]\s*", "-", normalize_space(number))
+
+
+def extract_loose_reference(source: str) -> str | None:
+    matches = list(LOOSE_REFERENCE_PATTERN.finditer(source))
+    if not matches:
+        return None
+    match = max(matches, key=lambda item: len(normalize_reference_number(item.group("number"))))
+    label = normalize_space(match.group("label"))
+    number = normalize_reference_number(match.group("number"))
+    return normalize_reference(label, number)
+
+
+def parse_reference_label(reference: str | None) -> str | None:
+    if not reference:
+        return None
+    match = re.match(r"(?P<label>[A-Za-z ]+)\s+No\.\s+(?P<number>.+)", reference)
+    if not match:
+        return None
+    return normalize_reference(match.group("label"), match.group("number"))
+
+
+def reference_specificity(reference: str | None) -> tuple[int, int]:
+    if not reference:
+        return (0, 0)
+    match = re.match(r"[a-z ]+\s+no\.\s+(.+)", reference)
+    if not match:
+        return (0, len(reference))
+    number = match.group(1)
+    score = 1
+    if re.search(r"[-/]", number) and not re.search(r"[-/.]\s*$", number):
+        score = 2
+    if re.search(r"\d{4}[-/]\d{2}", number):
+        score = 3
+    return (score, len(number))
+
+
+def reference_kind(reference: str | None) -> str | None:
+    if not reference:
+        return None
+    match = re.match(r"([a-z ]+)\s+no\.\s+.+", reference)
+    if not match:
+        return None
+    return normalize_space(match.group(1)).lower()
+
+
+def kind_matches_reference(expected_kind: str | None, reference: str | None) -> bool:
+    if not expected_kind or not reference:
+        return False
+    return normalize_space(expected_kind.replace("-", " ")).lower() == reference_kind(reference)
+
+
+def strip_frontmatter(source: str) -> str:
+    if not source.startswith("---\n"):
+        return source
+    _, _, remainder = source.partition("\n---\n")
+    return remainder or source
+
+
+def normalize_reference_search_text(source: str) -> str:
+    source = strip_frontmatter(source)
+    source = re.sub(r"\[\[[^|\]]+\|([^\]]+)\]\]", r"\1", source)
+    source = re.sub(r"\[\[([^\]]+)\]\]", r"\1", source)
+    source = source.replace("–", "-").replace("—", "-")
+    return source[:2000]
+
+
+@functools.lru_cache(maxsize=None)
+def content_reference_hint(content_path: str, expected_kind: str | None = None) -> str | None:
+    path = ROOT / content_path
+    if not path.exists():
+        return None
+    text = normalize_reference_search_text(path.read_text(encoding="utf-8"))
+    candidates: list[str] = []
+    for pattern in (NUMBERED_TITLE_PATTERN, LOOSE_REFERENCE_PATTERN):
+        for match in pattern.finditer(text):
+            label = normalize_space(match.group("label").replace("-", " ").replace("_", " "))
+            number = normalize_reference_number(match.group("number").replace("_", "-"))
+            candidates.append(normalize_reference(label, number))
+    if expected_kind:
+        matching = [candidate for candidate in candidates if kind_matches_reference(expected_kind, candidate)]
+        if matching:
+            return max(matching, key=reference_specificity)
+    return candidates[0] if candidates else None
 
 
 class PDFLinkParser(HTMLParser):
@@ -615,6 +709,38 @@ def wiki_link(record: Issuance, label: str | None = None) -> str:
     return f"[[{target}|{label or record.title}]]"
 
 
+def best_reference_label(record: Issuance) -> str | None:
+    metadata_candidates = [
+        (parse_reference_label(record.reference_label), 3),
+        (record.canonical_reference, 2),
+        (extract_reference(record.title), 1),
+    ]
+    best_metadata = max(metadata_candidates, key=lambda item: (reference_specificity(item[0]), item[1]))[0]
+    content_candidate = content_reference_hint(record.content_path, record.kind)
+    if reference_specificity(best_metadata) >= (2, 0):
+        best = best_metadata
+    else:
+        best = max([best_metadata, content_candidate], key=reference_specificity)
+    return prettify_reference(best) if best else None
+
+
+def display_title_without_reference(record: Issuance) -> str:
+    reference_label = best_reference_label(record)
+    if not reference_label:
+        return record.title
+    suffix = f" ({reference_label})"
+    if record.title.endswith(suffix):
+        return record.title[: -len(suffix)]
+    return record.title
+
+
+def type_page_label(record: Issuance) -> str:
+    reference_label = best_reference_label(record)
+    if not reference_label:
+        return record.title
+    return f"{reference_label}: {display_title_without_reference(record)}"
+
+
 def note_link(path: str, label: str | None = None) -> str:
     target = markdown_link_path(path)
     return f"[[{target}{'|' + label if label else ''}]]"
@@ -993,7 +1119,7 @@ def render_index_page(
     write_markdown(path, content)
 
 
-def build_content_tree(records: list[Issuance]) -> None:
+def build_content_tree(records: list[Issuance], *, write_record_pages: bool = True) -> None:
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     SOURCE_NOTES_DIR.mkdir(parents=True, exist_ok=True)
     NOTES_DIR.mkdir(parents=True, exist_ok=True)
@@ -1001,10 +1127,11 @@ def build_content_tree(records: list[Issuance]) -> None:
     by_slug = {record.slug: record for record in records}
     alias_map = {alias: record for record in records for alias in record.aliases}
 
-    for record in records:
-        write_markdown(ROOT / record.source_note_path, render_source_note(record, alias_map))
-        write_markdown(ROOT / record.notes_path, render_companion_note(record, by_slug))
-        write_markdown(ROOT / record.content_path, render_issuance_page(record, alias_map))
+    if write_record_pages:
+        for record in records:
+            write_markdown(ROOT / record.source_note_path, render_source_note(record, alias_map))
+            write_markdown(ROOT / record.notes_path, render_companion_note(record, by_slug))
+            write_markdown(ROOT / record.content_path, render_issuance_page(record, alias_map))
 
     year_groups: dict[str, list[Issuance]] = defaultdict(list)
     type_groups: dict[str, list[Issuance]] = defaultdict(list)
@@ -1024,7 +1151,7 @@ def build_content_tree(records: list[Issuance]) -> None:
         "",
         f"- Corpus size: **{issuance_count}** issuances",
         f"- Source index: {SOURCE_URL}",
-        "- Local workflow: run `python3 scripts/build_npc_site.py all --refresh` for issuances, `python3 scripts/build_npc_decisions_resolutions.py all --refresh` for decisions and resolutions, then `npx quartz build --serve` to preview the wiki.",
+        "- Local workflow: run `python3 scripts/build_npc_site.py build` for safe index/type refreshes, add `--rewrite-record-pages` only when you intentionally want to regenerate issuance/source/note pages, run `python3 scripts/build_npc_decisions_resolutions.py all --refresh` for decisions and resolutions, then `npx quartz build --serve` to preview the wiki.",
         "",
         "## Browse",
         "- [[issuances/index|Issuances by year]]",
@@ -1105,7 +1232,10 @@ def build_content_tree(records: list[Issuance]) -> None:
             f"All generated notes tagged as **{kind}**.",
             "",
             "## Notes",
-            *[f"- {wiki_link(record)}" for record in sorted(items, key=lambda item: (item.year, item.title), reverse=True)],
+            *[
+                f"- {wiki_link(record, type_page_label(record))}"
+                for record in sorted(items, key=lambda item: (item.year, item.title), reverse=True)
+            ],
         ]
         render_index_page(
             CONTENT_DIR / "types" / f"{slugify(kind)}.md",
@@ -1187,6 +1317,16 @@ def main() -> int:
 
     build_parser = subparsers.add_parser("build", help="Generate Quartz Markdown content from the local cache.")
     build_parser.add_argument("--refresh", action="store_true", help="Refresh the source page before generating content.")
+    build_parser.add_argument(
+        "--indexes-only",
+        action="store_true",
+        help="Regenerate index, type, topic, and relationship pages without rewriting issuance/source/note pages.",
+    )
+    build_parser.add_argument(
+        "--rewrite-record-pages",
+        action="store_true",
+        help="Also rewrite issuance pages, raw source notes, and companion notes from cached source text.",
+    )
 
     all_parser = subparsers.add_parser("all", help="Sync source files, then generate Quartz content.")
     all_parser.add_argument("--refresh", action="store_true", help="Refresh the source page and all PDFs.")
@@ -1206,7 +1346,8 @@ def main() -> int:
         index_entries = save_index_cache() if args.refresh else load_cached_index()
         records = build_records(index_entries, refresh=False)
         write_json(records)
-        build_content_tree(records)
+        write_record_pages = args.rewrite_record_pages and not args.indexes_only
+        build_content_tree(records, write_record_pages=write_record_pages)
         print(f"Generated Quartz content with {len(records)} issuances at {CONTENT_DIR}")
         return 0
 

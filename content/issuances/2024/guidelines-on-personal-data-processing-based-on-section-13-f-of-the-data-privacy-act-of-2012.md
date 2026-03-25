@@ -59,31 +59,26 @@ B. The processing is necessary for the establishment, exercise, or defense of le
 
 C. The processing entails providing to government or public authority personal data that is necessary for the protection of lawful rights and interests in court proceedings or the establishment, exercise, or defense of legal claims in relation to its constitutional or statutory mandate. Such instances may include providing information that supports the investigation of a law enforcement or regulatory agency.
 
-**SECTION 3. *Processing under Section 13 (f) of the DPA as legitimate interest.*** — Processing under Section 13 (f) of the DPA may be considered legitimate interest under Section 12 (f) of the DPA, which is a lawful basis for processing personal information.
+**SECTION 3.** ***Processing under Section 13 (f) of the DPA as legitimate interest.*** Processing under Section 13 (f) of the DPA may be considered legitimate interest under Section 12 (f) of the DPA, which is a lawful basis for processing personal information.
 
 A. Processing personal information that is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings or necessary for the establishment, exercise, or defense of legal claims[^3] may be considered as legitimate interest under Section 12 (f) of the DPA.[^4] As such, Section 13 (f) in relation to Section 12 (f) of the DPA may be a lawful basis for processing personal information for this purpose.
 
 B. The PIC must fulfill the requisites for processing based on legitimate interest in NPC Circular 2023-07 or the Guidelines on Legitimate Interest.[^5]
 
-**SECTION 4. *Necessary.*** — Determining the proper application of Section 2 of this Circular takes into consideration the necessity of the specific processing activity undertaken for the legitimate purpose of protecting lawful rights and interests of natural or legal persons in court proceedings, or establishing, exercising, or defending legal claims.[^6]
+**SECTION 4.** ***Necessary.*** Determining the proper application of Section 2 of this Circular takes into consideration the necessity of the specific processing activity undertaken for the legitimate purpose of protecting lawful rights and interests of natural or legal persons in court proceedings, or establishing, exercising, or defending legal claims.[^6]
 
 The specific processing activity is necessary when it is adequate, relevant, suitable, and not excessive in relation to such legitimate purpose.[^7] The specific processing activity must be within the limitations of the law.[^8]
 
-**SECTION 5. *Protection of Lawful Rights and Interests; Establishment, Exercise, or Defense of Legal Claims.*** —
+**SECTION 5.** ***Protection of Lawful Rights and Interests; Establishment, Exercise, or Defense of Legal Claims.***
 
-A. Processing of personal data on the basis of Section 13 (f) of the DPA may be conducted during stages preparatory to a case. It does not require that there be an existing proceeding before an administrative agency, court, or other tribunal.
-
-B. Processing of personal data on the basis of Section 13 (f) of the DPA need not result in the filing of an actual case.
-
+A. Processing of personal data on the basis of Section 13 (f) of the DPA may be conducted during stages preparatory to a case and does not require that there be an existing proceeding before an administrative agency, court, or other tribunal.
+B. Processing on this basis need not result in the filing of an actual case.
 C. “Natural or legal persons” under Section 13 (f) of the DPA refers to persons whose lawful rights and interests are protected in court proceedings, including the parties and their witnesses.[^9]
-
 D. Legal claims that are established, exercised, or defended may refer to legal claims of persons other than those who processed the personal data.[^10]
 
-**SECTION 6. *Transparency; Right to be Informed.*** — Service of pleadings to the parties of a case is understood as the next practical opportunity to inform data subjects, in relation to Section 16 (a) and (b) of the DPA, of the nature, purpose, and extent of the processing of their personal data for the protection of lawful rights and interests or the establishment, exercise, or defense of legal claims.
+**SECTION 6.** ***Transparency; Right to be Informed.*** Service of pleadings to the parties of a case is understood as the next practical opportunity to inform data subjects, in relation to Section 16 (a) and (b) of the DPA, of the nature, purpose, and extent of the processing of their personal data for the protection of lawful rights and interests or the establishment, exercise, or defense of legal claims. Data subjects whose personal data is processed on the basis of Section 13 (f) of the DPA are informed of the specific processing activity when they are served with a copy of the pleading containing the personal data following the applicable rules of procedure on summons and service.
 
-Data subjects whose personal data is processed on the basis of Section 13 (f) of the DPA is informed of the specific processing activity when they are served with a copy of the pleading containing the personal data following the applicable rules of procedure on summons and service.
-
-**SECTION 7. *Determination of merit of lawful rights and interests and legal claims; admissibility of evidence.*** — The Commission only determines whether the processing of personal data is necessary in relation to the lawful rights and interests sought to be protected or the legal claims that are sought to be established, exercised, or defended. The Commission does not rule on the admissibility of evidence, its materiality, relevance, or probative value to a particular case outside its jurisdiction,[^11] or the propriety of the legal strategy employed by parties in legal proceedings.[^12] The establishment, exercise, or defense of a legal claim under Section 13 (f) of the DPA as a lawful basis for processing personal data is independent of the existence of a cause of action.[^13]
+**SECTION 7.** ***Determination of merit of lawful rights and interests and legal claims; admissibility of evidence.*** The Commission only determines whether the processing of personal data is necessary in relation to the lawful rights and interests sought to be protected or the legal claims that are sought to be established, exercised, or defended. The Commission does not rule on the admissibility of evidence, its materiality, relevance, or probative value to a particular case outside its jurisdiction,[^11] or the propriety of the legal strategy employed by parties in legal proceedings.[^12] The establishment, exercise, or defense of a legal claim under Section 13 (f) of the DPA as a lawful basis for processing personal data is independent of the existence of a cause of action.[^13]
 
 **SECTION 8. *Interpretation.*** — Any doubt in the interpretation of any provision of this Advisory shall be liberally interpreted in a manner mindful of the rights and interests of the data subjects.
 
@@ -130,4 +125,3 @@ Deputy Privacy Commissioner
 - Raw source text: [[sources/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-Advisory-No.-2024-02-Personal-Data-Processing-Based-on-Section-13-f.pdf
 - OCR used during extraction: no
-
