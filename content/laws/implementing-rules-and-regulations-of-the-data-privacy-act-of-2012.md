@@ -371,7 +371,7 @@ e. Any authorized further processing shall have adequate safeguards.
 
 ### Section 20. General Principles for Data Sharing
 
-*(The entire Section 20 is superseded by NPC Circular No. 2020-03.)* Further Processing of Personal Data collected from a party other than the Data Subject shall
+*(The entire Section 20 is superseded by [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03.]])* Further Processing of Personal Data collected from a party other than the Data Subject shall
 be allowed under any of the following conditions:
 
 a. Data sharing shall be allowed when it is expressly authorized by law: Provided, that there are adequate safeguards for data privacy and security, and processing adheres to principle of transparency, legitimate purpose and proportionality.
