@@ -1,6 +1,6 @@
 ---
-title: "[Redacted] Advisory Opinion No. 2020-011"
-description: "'''''''''''''''' '''''' ''''''''''''''''''' ''''''''''' ''''''' '''''''''' '''''''''''''''''''''''''' '''''''''''''''' '''''''''''' '''''''''''''''' '''''''''''''''' '''''''''''''''''''' '''' '''''''''' ''''''''''''' ''''''''' ''''''''''''..."
+title: "NPC Advisory Opinion No. 2020-011 — Access To Siblings' Birth Certificates For Obtaining Tax Identification Numbers"
+description: "Guidance on access to birth certificates for tax identification."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -14,26 +14,20 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                    ADVISORY OPINION NO. 2020-0111
 
 11 February 2020
 
-'''''''''''''''' '''''' ''''''''''''''''''' '''''''''''
-''''''' '''''''''' '''''''''''''''''''''''''' '''''''''''''''' '''''''''''' '''''''''''''''' ''''''''''''''''
-'''''''''''''''''''' '''' '''''''''' ''''''''''''' ''''''''' ''''''''''''
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-'''''''''''''''''''''''''''''''''''''''''''''''''
-
-              Re:      ACCESS TO SIBLINGS’ BIRTH CERTIFICATES FOR OBTAINING
+Re: ACCESS TO SIBLINGS’ BIRTH CERTIFICATES FOR OBTAINING
                        TAX IDENTIFICATION NUMBERS
 
-Dear '''''''''''''' ''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your letter requesting for an advisory opinion from the National
 Privacy Commission (NPC) on whether you can be allowed to secure the birth certificates of
 your seven siblings from the Philippine Statistics Authority (PSA), pursuant to Section 12 (c)
 and (f) and Section 13 (f) of the Data Privacy Act of 20122 (DPA).
+
+### Discussion
 
 You require the said birth certificates in order to apply for the tax identification numbers (TINs)
 of your siblings for the payment of estate taxes and the transfer of the respective allotted
@@ -53,11 +47,6 @@ sex, date of birth, place of birth, type of birth, birth order, weight at birth,
 in a birth certificate are considered sensitive personal information under Section 3(l) of the
 DPA.
 
-
-
-1 Tags: birth certificate, PSA, personal information, sensitive personal information, lawful processing, law or regulation
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
 Republic Act No. 10173 (2012).
 
 The processing or disclosure of a birth certificate, which contains sensitive personal
@@ -76,12 +65,12 @@ significance to discuss Section 13(b) of the DPA in relation to Presidential Dec
 
 Section 13(b) of the DPA provides:
 
-         “Section 13. Sensitive Personal Information and Privileged Information. – The processing
+   “Section 13. Sensitive Personal Information and Privileged Information. – The processing
          of sensitive personal information and privileged information shall be prohibited, except
          in the following cases:
                                             xxx     xxx     xxx
 
-         (b) The processing of the same is provided for by existing laws and regulations: Provided,
+   (b) The processing of the same is provided for by existing laws and regulations: Provided,
          That such regulatory enactments guarantee the protection of the sensitive personal
          information and the privileged information: Provided, further, That the consent of the
          data subjects are not required by law or regulation permitting the processing of the
@@ -89,11 +78,11 @@ Section 13(b) of the DPA provides:
 
 Article 7 of PD No. 6034 provides for the rules on disclosure of birth records, to wit:
 
-         “Article 7. Non-disclosure of Birth Records. – The records of a person’s birth shall be kept
+   “Article 7. Non-disclosure of Birth Records. – The records of a person’s birth shall be kept
          strictly confidential and no information relating thereto shall be issued except on the
          request of any of the following:
 
-         (1) The person himself, or any person authorized by him;
+   (1) The person himself, or any person authorized by him;
          (2) His spouse, his parent or parents, his direct descendants, or the guardian or
              institution legally in-charge of him if he is a minor;
          (3) The court or proper public official whenever absolutely necessary in administrative,
@@ -106,7 +95,7 @@ the Guidelines on the Issuance of the Civil Registry Documents (CRDs)/Certificat
 including Authentication. Said issuance provides for the basic requirements for the issuance
 of CRDs, which includes Certificate of Live Birth, to wit:
 
-         1. Presentation of a valid Identification (ID) Card of the document owner.
+   1. Presentation of a valid Identification (ID) Card of the document owner.
          2. If the requesting party is a duly authorized representative, the original copy of the
             Authorization Letter or Special Power of Attorney (SPA) must be presented
             together with a valid ID of the document owner. The duly authorized
@@ -114,7 +103,7 @@ of CRDs, which includes Certificate of Live Birth, to wit:
 3 The Child and Youth Welfare Code, Presidential Decree No. 603 (1974).
 4 Id.
 
-            representative should also show his/her valid ID and must provide the PSA with
+   representative should also show his/her valid ID and must provide the PSA with
             photocopies of all the IDs presented for its file.
 
 With this, you are constrained to follow the above PSA requirements for purposes of obtaining
@@ -136,8 +125,6 @@ may change the context of the inquiry and the appreciation of the facts.
 For your reference.
 
 Very truly yours,
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman

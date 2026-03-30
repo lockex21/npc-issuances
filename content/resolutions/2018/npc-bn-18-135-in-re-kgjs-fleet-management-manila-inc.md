@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-135: In Re: KGJS Fleet Management Manila Inc."
-description: "Update as of 27 Jul 18 – Security Incident dated 20 Jul 18 of Article/Web Content in Company"
+title: 'NPC BN 18-135: In Re: KGJS Fleet Management Manila Inc.'
+description: Update as of 27 Jul 18 – Security Incident dated 20 Jul 18 of Article/Web
+  Content in Company
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2023
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-135"'
+- '"npc bn 18-135"'
+- '"In Re: KGJS Fleet Management Manila Inc."'
+- '"in re: kgjs fleet management manila inc."'
+date: '2023-11-13'
 ---
 
 ## Source

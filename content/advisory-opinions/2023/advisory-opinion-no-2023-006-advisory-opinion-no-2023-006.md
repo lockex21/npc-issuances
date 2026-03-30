@@ -1,10 +1,14 @@
 ---
-title: "Advisory-Opinion-No.-2023-006"
-description: "As far as Philhealth is concerned, the requested information is personal information since it pertains to information that can identify its member. Further, the said information also forms part of the files belonging to the missing husband and thus, is..."
+title: NPC Advisory Opinion No. 2023-006 — Disclosure of Personal Data to Concerned
+  Agencies/offices for Proper Implementation of National and Local Government Programs
+  and Projects
+description: As far as Philhealth is concerned, the requested information is personal
+  information since it pertains to information that can identify its member. Further,
+  the said information al
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+- issuance
+- type/advisory-opinion
+- year/2023
 draft: false
 ---
 
@@ -14,6 +18,10 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
+
+Re: DISCLOSURE OF PERSONAL DATA TO CONCERNED AGENCIES/OFFICES FOR PROPER IMPLEMENTATION OF NATIONAL AND LOCAL GOVERNMENT PROGRAMS AND PROJECTS
+
+Dear [Redacted],
 As far as Philhealth is concerned, the requested information is personal information since it
 pertains to information that can identify its member. Further, the said information also forms
 part of the files belonging to the missing husband and thus, is considered personal
@@ -21,19 +29,21 @@ information. As such, Philhealth, as a personal information controller, is oblig
 DPA to process personal information of its members only when there is lawful basis and the
 requirements of the DPA are complied with.
 
+### Discussion
+
 A personal information controller (PIC) should determine the most appropriate lawful basis
 for the processing of personal information and sensitive personal information (collectively,
 personal data), under the given facts and circumstances. For the processing of personal
 information, any of the conditions under Section 12 of the DPA may be considered. In
 particular, the following may be appropriate under the present situation:
 
-    SECTION 12. Criteria for Lawful Processing of Personal Information. – The processing of personal
+   SECTION 12. Criteria for Lawful Processing of Personal Information. – The processing of personal
     information shall be permitted only if not otherwise prohibited by law, and when at least one of
     the following conditions exists:
 
-                                                             xxx
+   xxx
 
-        (f) The processing is necessary for the purposes of the legitimate interests pursued by
+   (f) The processing is necessary for the purposes of the legitimate interests pursued by
             the personal information controller or by a third party or parties to whom data is
             disclosed, except where such interests are overridden by fundamental rights and
             freedoms of the data subject which require protection under the Philippine
@@ -55,9 +65,8 @@ has a legitimate interest over the processing.
 
 In MAF v. Shopee Philippines, Inc., NPC discussed processing based on legitimate interest:
 
-    "Processing based on legitimate interest requires the fulfillment of the following conditions: (1)
+   "Processing based on legitimate interest requires the fulfillment of the following conditions: (1)
     the legitimate interest is established; (2) the processing is necessary to fulfill the legitimate
-
 
 3 Data Privacy Act of 2012, § 12.
 4 National Privacy Commission, NPC Advisory Opinion No. 2022-005 (24 February 2022) citing United Kingdom Information
@@ -118,7 +127,6 @@ documents to establish her identity and relationship with the data subject and t
 the request. For a more comprehensive discussion on reasonable expectation, kindly refer to
 NPC Case No. 17-047.10
 
-
 9 EU GDPR, Recital 49.
 https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf.  (last
 accessed on 4 August 2022).
@@ -154,7 +162,6 @@ adjudicate the rights and obligations of the parties involved.
 Please be guided accordingly.
 
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV

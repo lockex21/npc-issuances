@@ -1,11 +1,17 @@
 ---
-title: "NPC 17-K-001: JCR vs. Globe Telecom, Inc."
-description: "NPC 17-K-001: JCR vs. Globe Telecom, Inc."
+title: "NPC 17-K-001: JCR v. Globe Telecom, Inc."
+description: "Complaint alleging unauthorized disclosure of personal data by Globe Telecom; technical security measures and data retention found compliant with the Data Privacy Act."
+aliases:
+  - "NPC 17-K-001"
+  - "npc 17-k-001"
+  - "JCR v. Globe Telecom"
+  - "jcr v. globe telecom"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2019"
+  - "year/2017"
   - "npc-case"
+date: "2019-12-05"
 draft: false
 ---
 
@@ -22,18 +28,18 @@ draft: false
 - Technical Security Measures
 
 ## Decision Text
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
-JCR
+JCR,
 
-Complainant ,
+Complainant,
 
--versus - NPC Case No. 17 - K - 001
+-versus-
 
-For: Violation of the provisions of
+Globe Telecom, Inc.,
 
-the Data Privacy Act of 2012
+Respondent.
+
+x----------------------------------------------------x
 
 GLOBE TELECOM, INC.
 
@@ -526,34 +532,26 @@ particularly Section 28, paragraphs (c), (d), (e), and (f).
 
 SO ORDERED.
 
-Pasay City, 5 December 2019 .
-
-Sgd.
+Pasay City, 5 December 2019.
 
 LEANDRO ANGELO Y. AGUIRRE
-
 Deputy Privacy Commissioner
-
-> 9Implementing Rules and Regulations of DPA , Sec. 28 (d). Decision
-> NPC Case No. 17 -K-001
-> Page 8of 8
 
 Concurring:
 
-Sgd. Sgd.
+IVY D. PATDU
+Deputy Privacy Commissioner
 
-IVY D. PATDU RAYMUND ENRIQUEZ LIBORO
+RAYMUND ENRIQUEZ LIBORO
+Privacy Commissioner
 
-Deputy Privacy Commissioner Priv acy Commissio ner
-
-COPY FURNISHED
+Copy furnished:
 
 JCR
+Complainant
 
-CASTELO UNGOS CASIÑO & TUBAYAN
-
+Castelo Ungos Casiño & Tubayan
 Counsel for Respondent Globe Telecom, Inc.
 
 ENFORCEMENT DIVISION
-
 GENERAL RECORDS UNIT

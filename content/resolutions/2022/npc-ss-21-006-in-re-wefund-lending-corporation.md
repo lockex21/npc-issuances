@@ -1,13 +1,21 @@
 ---
-title: "NPC SS 21-006: In re: Wefund Lending Corporation"
-description: "Comment to the Order and Temporary Ban dated 01 September 2021, 02 September 2021, in In re: Wefund Lending"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: 'Comment to the Order and Temporary Ban dated 01 September 2021, 02 September
+  2021, in In re: Wefund Lending'
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC SS 21-006: In re: Wefund Lending Corporation'
+aliases:
+- NPC SS 21-006
+- npc ss 21-006
+date: '2022-01-13'
 ---
+
+
+
 
 ## Source
 - Reference: NPC SS 21-006
@@ -41,9 +49,7 @@ WEFUND LENDING CORPORATION
 
 x x
 
-AGUIRRE , D.P.C.;
-
-NPC SS 21 -006
+AGUIRRE, D.P.C.;
 
 This refers to the Temporary Ban on the processing of personal data
 
@@ -53,7 +59,7 @@ of the online lending application, JuanHand, and its responsible
 
 officers (JuanHand) in an Order dated 12 August 2021.
 
-Facts
+### Facts
 
 On 12 August 2021, the Commission issued an Order imposing a
 
@@ -77,17 +83,9 @@ Corporation, as the operator of the online lending application,
 
 JuanHand.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-> URL: https //w ww .privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
-
-NPC SS 21 -006
-
 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-> URL: https //w ww .privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
-
-Further, pursuant to the TEMPORARY BAN , Respondent
+Further, pursuant to the TEMPORARY BAN, Respondent
 
 Wefund Lending Corporation shall:
 
@@ -161,12 +159,7 @@ Temporary Ban dated 12 August 2021 (Comment). 2 It also submitted
 
 > 1Order, 12 August 2021, at 17, in In re: Wefund Lending Corporation, NPC SS 21 -006, (NPC 2021).
 
-NPC SS 21 -006
-
 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-> URL: https //w ww .privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 a test version of the JuanHand online lending application (JuanHand
 
@@ -240,7 +233,7 @@ SS 21 -006 entitled "In re: Wefund Lending Corporation (JuanHand)" to Atty. LAN 
 
 > 7
 
-Email from Atty. LAN , Withdrawal of Appearance to National Privacy Commission (30 September 2021).
+Email from Atty. LAN, Withdrawal of Appearance to National Privacy Commission (30 September 2021).
 
 > 8
 
@@ -259,9 +252,6 @@ Motion to Resolve, 17 December 2021, in In re: Wefund Lending Corporation, NPC S
 Supplemental Motion to Resolve, 10 January 2022, in In re: Wefund Lending Corporation, NPC SS 21 -006, (NPC 2021). NPC SS 21 -006
 
 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-> URL: https //w ww .privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 a Supplemental Reply and Explanation to the National Privacy
 
@@ -293,7 +283,7 @@ JuanHand a nd its practices in managing the subject data to be in
 
 accordance with the law. 15
 
-Discussion
+### Discussion
 
 The Commission lifts the Temporary Ban on JuanHand's processing of
 
@@ -358,9 +348,6 @@ December 2021, at 8, in In re: Wefund Lending Corporation, NPC SS 21 -006, (NPC 
 Resolve, 10 January 2022, at 8, in In re: Wefund Lending Corporation, NPC SS 21 -006, (NPC 2021). NPC SS 21 -006
 
 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-> URL: https //w ww .privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 to address the problems discussed by the Complaints and
 
@@ -462,9 +449,6 @@ Resolve, 10 January 2022, at 4, in In re: Wefund Lending Corporation, NPC SS 21 
 
 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-> URL: https //w ww .privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
-
 including changes in its Privacy Policy and Service Agreement. 22
 
 Finally, it also revised its Service Agreement and prepared a new
@@ -545,9 +529,6 @@ National Privacy Commission, Personal Data Breach Management, Circular No. 01, S
 
 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-> URL: https //w ww .privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
-
 Let copies of this Resolution be furnished to the National
 
 Telecommunications Commission for their appropriate action and
@@ -560,7 +541,7 @@ AppGal lery, for its compliance in accordance with the terms and
 
 conditions of its platforms.
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines.
 
@@ -568,13 +549,9 @@ City of Pasay, Philippines.
 
 I CONCUR:
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
-
-Sgd.
 
 JOHN HENRY D. NAGA
 

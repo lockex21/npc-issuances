@@ -1,10 +1,11 @@
 ---
-title: "Advisory-Opinion-No.-2023-011"
-description: "We respond to your request for an Advisory Opinion on whether the refusal of an employer to grant a labor union’s request for access to documents is proper."
+title: NPC Advisory Opinion No. 2023-011 — Request for Information from Labor Unions
+description: We respond to your request for an Advisory Opinion on whether the refusal
+  of an employer to grant a labor union’s request for access to documents is proper.
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+- issuance
+- type/advisory-opinion
+- year/2023
 draft: false
 ---
 
@@ -14,20 +15,17 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                           ADVISORY OPINION NO. 2023-0111
 
 17 March 2023
 
+Re:    REQUEST FOR INFORMATION FROM LABOR UNIONS
 
-
-
-             Re:    REQUEST FOR INFORMATION FROM LABOR UNIONS
-
-Dear
+Dear [Redacted],
 
 We respond to your request for an Advisory Opinion on whether the refusal of an employer
 to grant a labor union’s request for access to documents is proper.
+
+### Discussion
 
 You state that you represent the National Federation of Labor (NFL) which is a federation of
 labor unions with a nationwide membership. NFL actively helps its member-unions in
@@ -49,15 +47,11 @@ enrollment and “other income sources”, which are usually used as basis for c
 bargaining negotiations, pursuant to R.A. No. 6728 or the Government Assistance to
 Students and Teachers in Private Education Act.
 
-
-
-
-1 Tags: personal information; legitimate interest; legal claims; proportionality.
-
 You thus ask whether the abovementioned employers may legally refuse to divulge the
 requested information citing the DPA.
 
-Scope of the DPA; Nature of financial
+### Scope of the Dpa; Nature of Financial
+
 documents
 
 The DPA applies to the processing of all types of personal information and sensitive
@@ -77,7 +71,7 @@ disclosure or processing of a company’s financial information fall outside the
 DPA. Consequently, the employers’ refusal to divulge their financial information to the
 employees’ union due to data privacy concerns is misplaced.
 
-Lawful processing; legitimate interest
+### Lawful Processing; Legitimate Interest
 
 On the other hand, a private educational institution’s data on its employees, student
 enrollment and “other income sources,” as well as a private hospital’s data on its patients
@@ -100,18 +94,16 @@ unions from their employers such as data on employees, enrollment of students an
 distribution of benefits mandated by law. Be that as it may, Section 12 (f) of the DPA appears
 to be the most appropriate basis for processing such personal data, thus:
 
-
-
 2An Act Protecting Individual Personal Information in Information and Communications Systems in the
 Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4 (2012).
 
-       SECTION 12. Criteria for Lawful Processing of Personal Information. – The processing of
+   SECTION 12. Criteria for Lawful Processing of Personal Information. – The processing of
        personal information shall be permitted only if not otherwise prohibited by law, and
        when at least one of the following conditions exists:
 
-                                                     xxx
+   xxx
 
-       (f) The processing is necessary for the purposes of the legitimate interests pursued by the
+   (f) The processing is necessary for the purposes of the legitimate interests pursued by the
            personal information controller or by a third party or parties to whom the data is
            disclosed, except where such interests are overridden by fundamental rights and
            freedoms of the data subject which require protection under the Philippine
@@ -127,7 +119,7 @@ outcome.5
 NPC discussed the criteria for the processing based on legitimate interest in MAF v. Shopee,
 Inc., 6 viz.:
 
-       Processing based on legitimate interest requires the fulfillment of the following
+   Processing based on legitimate interest requires the fulfillment of the following
        conditions: (1) the legitimate interest is established; (2) the processing is necessary to
        fulfill the legitimate interest that is established; and (3) the interest s legitimate or lawful
        and it does not override fundamental rights and freedoms of data subjects.
@@ -146,10 +138,9 @@ students.
 For the processing of sensitive personal information involved in the current matter, Section
 13 (f) of the DPA appears to apply, to wit:
 
-       SECTION 13. Sensitive Personal Information and Privileged Information. – The processing of
+   SECTION 13. Sensitive Personal Information and Privileged Information. – The processing of
        sensitive personal information and privileged information shall be prohibited except in
        the following cases:
-
 
 3 Data Privacy Act of 2012, § 12 (c).
 4 National Privacy Commission, NPC Advisory Opinion No. 2022-005 (24 February 2022) citing United Kingdom
@@ -159,9 +150,9 @@ https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-gener
 gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 27 February 2023]
 5 Ibid.
 
-                                                     xxx
+   xxx
 
-       (f) The processing concerns such personal information as is necessary for the protection
+   (f) The processing concerns such personal information as is necessary for the protection
        of lawful rights and interests of natural or legal persons in court proceedings, or the
        establishment, exercise or defense of legal claims, or when provided to government or
        public authority.”7
@@ -169,7 +160,7 @@ gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed
 as necessary for the establishment of legal claims” does not require an existing court
 proceeding:
 
-       In the case of NPC 17-018 dated 15 July 2019, this Commission held that “processing as
+   In the case of NPC 17-018 dated 15 July 2019, this Commission held that “processing as
        necessary for the establishment of legal claims” does not require an existing court
        proceeding. To require a court proceeding for the application of Section 13(f) to this
        instance would not only be to disregard the distinction provided in the law but the clear
@@ -177,7 +168,7 @@ proceeding:
        presupposes that there is still no pending case since a case will only be filed once the
        required legal claims have already been established.”
 
-       This Commission in the same case went on further and held that: The DPA should not be
+   This Commission in the same case went on further and held that: The DPA should not be
        seen as curtailing the practice of law in litigation. Considering that it is almost impossible
        for Congress to determine beforehand what specific data is “necessary” or may or may
        not be collected by lawyers for purposes of building a case, applying the qualifier
@@ -206,8 +197,6 @@ employers, as personal information controllers, are still obliged to comply with
 requirements of the DPA. The processing of personal information must be done lawfully
 and fairly and with strict adherence to the basic data privacy principles of transparency,
 proportionality and legitimate purpose.
-
-
 
 7 Data Privacy Act of 2012, § 13(f).
 
@@ -242,7 +231,6 @@ adjudicate the rights and obligations of the parties involved.
 For your reference.
 
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV

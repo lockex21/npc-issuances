@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-013 — Request For Information In Aid Of Implementing The Hague Child Abduction Convention"
-description: "''''''''''''''''''' ''''' '''''''''''''''''' '''' '''''' ''''''' ''''''''''' '''''''''''''''' '' '''''''' ''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2021-013 — Request For Information In Aid Of Implementing The Hague Child Abduction Convention"
+description: "The Department of Justice requested clarification on whether it can request personal information from other Philippine government agencies to locate children and taking parents in accordance with the Hague Convention on the Civil Aspects of International Child Abduction, without violating the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,29 +17,18 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                         ADVISORY OPINION NO. 2021-0131
+**26 April 2021**
 
- 26 April 2021
+Re: REQUEST FOR INFORMATION IN AID OF IMPLEMENTING THE HAGUE CHILD ABDUCTION CONVENTION
 
- ''''''''''''''''''' ''''' '''''''''''''''''' ''''
- '''''' ''''''' '''''''''''
- '''''''''''''''' '' ''''''''
- '''''''''''''''''''''''''''''
- ''''''''''''''''''''''''''''''
-
-
-               Re:        REQUEST FOR INFORMATION IN AID OF IMPLEMENTING
-                          THE HAGUE CHILD ABDUCTION CONVENTION
-
-Dear '''''''''''''' ''''''''''''''' '''''
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion on whether the Department of
 Justice (DOJ) can request personal information from other Philippine government agencies in
 relation to the requests for assistance of Contracting States to locate the whereabouts of
 children and Taking Parents, in accordance with the Hague Convention on the Civil Aspects
 of International Child Abduction or the Hague Child Abduction Convention (HCAC),
-without violating the provisions of the Data Privacy Act of 20122 (DPA).
+without violating the provisions of the Data Privacy Act of 2012[^2] (DPA).
 
 We understand that the DOJ, through the Office of the Chief State Counsel, is the designated
 Philippine Central Authority for the HCAC. The objects of the said convention are as follows:
@@ -57,15 +46,12 @@ assistance of the National Bureau of Investigation to locate the child and the T
 Your present concern is in relation to a situation wherein a child and a Taking Parent’s
 whereabouts are unknown. We note that you mentioned that Philippine passport holders are
 
-
-1 Tags: Hague Child Abduction Convention; Department of Justice; mandate; lawful criteria for processing; general data
-
 privacy principles; data subject rights; data sharing.
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Republic Act No. 10173 (2012).
 
-                             th
+   th
 
 no longer required to accomplish Arrival Cards. Thus, it may be difficult to obtain lead
 information on the possible whereabouts of the child and Taking Parent.
@@ -79,22 +65,23 @@ the DPA.
 You likewise ask if there is a need for the DOJ to have a data sharing arrangement with the
 said agencies.
 
-HCAC; DOJ; mandate; lawful basis for processing
-personal and sensitive personal information
+### Discussion
+
+#### HCAC; DOJ; mandate; lawful basis for processing personal and sensitive personal information
 
 Article 7 of the HCAC provides:
 
-                              “CHAPTER II – CENTRAL AUTHORITIES
+   “CHAPTER II – CENTRAL AUTHORITIES
 
-                                                   xxx
+   xxx
 
-                                                 Article 7
+   Article 7
 
-       Central Authorities shall co-operate with each other and promote co-operation amongst
+   Central Authorities shall co-operate with each other and promote co-operation amongst
        the competent authorities in their respective States to secure the prompt return of
        children and to achieve the other objects of this Convention.
 
-       In particular, either directly or through any intermediary, they shall take all appropriate
+   In particular, either directly or through any intermediary, they shall take all appropriate
        measures –
        a) to discover the whereabouts of a child who has been wrongfully removed or
            retained;
@@ -135,8 +122,7 @@ Sections 13 (b) where the processing is provided for by existing laws and regula
 or legal persons in court proceedings, or the establishment, exercise or defense of legal claims,
 or when provided to government or public authority.
 
-General data privacy principles; data subject rights;
-safeguards; personal information controllers
+#### General data privacy principles; data subject rights; safeguards; personal information controllers
 
 While there may be a lawful basis for processing under the DPA in relation to the HCAC and
 other laws and regulations, we wish to reiterate that the DOJ, as a personal information
@@ -146,7 +132,7 @@ and proportionality.
 Specifically for proportionality, the processing of personal data shall be adequate, relevant,
 suitable, necessary, and not excessive in relation to a declared and specified purpose and
 personal data shall be processed only if the purpose of the processing could not reasonably
-be fulfilled by other means.4
+be fulfilled by other means.[^4]
 
 Hence, the DOJ should judiciously assess the proposal to request information from other
 government agencies as well as the types of information to be requested, if the same are
@@ -160,54 +146,41 @@ protect personal data.
 We remind government agencies that the processing personal data for the fulfillment of a
 statutory mandate should always strictly adhere to all required substantive and procedural
 processes and must not unreasonably infringe on the rights and freedoms of individuals
-guaranteed by the Constitution.5
+guaranteed by the Constitution.[^5]
 
-Data sharing; data sharing agreement
+#### Data sharing; data sharing agreement
 
 As to your query on data sharing, the same is defined as the sharing, disclosure, or transfer to
 a third party of personal data under the custody of a personal information controller to one
-or more other personal information controller/s (PICs).6 A data sharing agreement or DSA
-
-3 Instituting the "Administrative Code of 1987" [Administrative Code of 1987], Executive Order No. 292, Title III (1987).
-4 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+or more other personal information controller/s (PICs).[^6] A data sharing agreement or DSA
 
 refers to a contract, joint issuance or any similar document which sets out the obligations,
 responsibilities and liabilities of the PICs involved in the transfer of personal data between or
 among them, including the implementation of adequate standards for data privacy and
-security and upholding the rights of the data subjects.7
+security and upholding the rights of the data subjects.[^7]
 
 While not mandatory based on NPC Circular No. 2020-03, the DOJ may opt to execute DSAs
 with the identified government agencies as the same is a best practice and a demonstration of
 accountability amongst the parties to the data sharing:
 
-             “SECTION 8. Data sharing agreement; key considerations. — Data sharing may be
-             covered by a data sharing agreement (DSA) or a similar document containing the terms
-             and conditions of the sharing arrangement, including obligations to protect the personal
-             data shared, the responsibilities of the parties, mechanisms through which data subjects
-             may exercise their rights, among others.
+“SECTION 8. Data sharing agreement; key considerations. — Data sharing may be covered by a data sharing agreement (DSA) or a similar document containing the terms and conditions of the sharing arrangement, including obligations to protect the personal data shared, the responsibilities of the parties, mechanisms through which data subjects may exercise their rights, among others.
 
-             The execution of a DSA is a sound recourse and demonstrates accountable personal data
-             processing, as well as good faith in complying with the requirements of the DPA, its IRR,
-             and issuances of the NPC. The Commission shall take this into account in case a
-             complaint is filed pertaining to such data sharing and/or in the course of any
-             investigation relating thereto, as well as in the conduct of compliance checks.”8
+The execution of a DSA is a sound recourse and demonstrates accountable personal data processing, as well as good faith in complying with the requirements of the DPA, its IRR, and issuances of the NPC. The Commission shall take this into account in case a complaint is filed pertaining to such data sharing and/or in the course of any investigation relating thereto, as well as in the conduct of compliance checks.”[^8]
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-
-
-
-7 NPC Circular No. 2020-03, § 2 (g).
-8 Id. § 8.
+[^1]: Tags: Hague Child Abduction Convention; Department of Justice; mandate; lawful criteria for processing; general data privacy principles; data subject rights; data sharing.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: Instituting the “Administrative Code of 1987” [Administrative Code of 1987], Executive Order No. 292, Title III (1987).
+[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^5]: See: National Privacy Commission, NPC Advisory Opinion No. 2019-022 (May 9, 2019).
+[^6]: National Privacy Commission, Data Sharing Agreements [NPC Circular No. 2020-03], § 2 (F) (23 December 2020).
+[^7]: NPC Circular No. 2020-03, § 2 (g).
+[^8]: Id. § 8.

@@ -1,13 +1,22 @@
 ---
-title: "NPC BN 20-208: In Re: Commission on Elections (COMELEC)"
-description: "NPC BN 20-208: In Re: Commission on Elections (COMELEC)"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC BN 20-208
+- npc bn 20-208
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC BN 20-208
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC BN 20-208: In Re: Commission on Elections (COMELEC)'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC BN 20-208
@@ -25,8 +34,6 @@ IN RE: COMMISSION ON
 
 ELECTIONS (COMELEC)
 
-NPC BN 20 -208
-
 x-----------------------------------------x
 
 AGUIRRE , D.P.C.:
@@ -41,8 +48,7 @@ Talavera, Nueva Ecija , and its request for extension of time to
 
 notify the data subjects .
 
-The Facts
-
+### Facts
 On 10 November 2020, COMELEC received an unsigned
 
 memorandum dated 04 November 2020 from JBR , Election Officer
@@ -77,11 +83,9 @@ system program, oth er VRS reports and data backup;
 
 > 1Letter dated 16 November 2020.
 > 2Ibid.
-> 3Ibid. NPC BN 20 -208
+> 3Ibid. NPC BN 20208
 > In re: COMELEC
 > Page 2of 7
-> 5th Floor , Delegat io n B uilding, PICC Complex ,Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 JBR also reported the following:
 
@@ -89,15 +93,15 @@ JBR also reported the following:
 
 (2) The incident was immediately reported to the local police
 
-and investigation is on -going;
+and investigation is ongoing;
 
 (3) The concerned officers of COMELEC were informed; and
 
-(4) Inventory of all office documents is on -going. 4
+(4) Inventory of all office documents is ongoing. 4
 
 Furthermore, COMELEC req uest ed th at since such notice has been
 
-submitted beyond the seventy -two (72) hour period , within which
+submitted beyond the seventytwo (72) hour period , within which
 
 the Commission should be notified, the same be considered
 
@@ -150,16 +154,11 @@ the report of JBR with a directive to investigate the incide nt. 7
 > 6Ibi d.
 > 7Ibid.
 
-NPC BN 20 -208
-
 In re: COMELEC
 
-> 5th Floor , Delegat io n B uilding, PICC Complex ,Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
+Lastly, COMELEC claims that since the investigation is ongoing
 
-Lastly, COMELEC claims that since the investigation is on -going
-
-and the challenges posed by the threat of COVID -19, it is not
+and the challenges posed by the threat of COVID19, it is not
 
 reasonably possible to notif y the data su bj ects within the
 
@@ -169,13 +168,12 @@ ext ension of time to comply with the notification of data subjects 8
 
 without stating a specific timeline for such.
 
-Discussion
-
+### Discussion
 Thi s Commission denies the reque st for an ind ef inite extension of
 
 COMELEC to notify the affected data subjects.
 
-Section 18(B) of NPC Circular 16 -03 provides that:
+Section 18(B) of NPC Circular 1603 provides that:
 
 If it is not reasonably possible to notify the data subjects
 
@@ -209,23 +207,21 @@ In this case, COMELEC requests for an extension to comply with
 
 the notification of data subjects on two (2) grounds, namely, (1)
 
-th at an investigatio n is on -going, and (2) the challenges posed by
+th at an investigatio n is ongoing, and (2) the challenges posed by
 
-the threat of COVID -19. 10
+the threat of COVID19. 10
 
 A careful scrutiny of the records reveals that there are two (2)
 
-investigations referred to in this case. First, the on -going
+investigations referred to in this case. First, the ongoing
 
 investigation conducte d by the local police. Second, the
 
 > 8Ibid.
 > 9Emphasis supp li ed.
-> 10 Supra note 1. NPC BN 20 -208
+> 10 Supra note 1. NPC BN 20208
 > In re: COMELEC
 > Page 4of 7
-> 5th Floor , Delegat io n B uilding, PICC Complex ,Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 in vestigation under the directive of COMELEC through its
 
@@ -233,7 +229,7 @@ Information Technology Dep artment and Finance Services
 
 Department.
 
-As to the on -going investigation by the local police, there is no
+As to the ongoing investigation by the local police, there is no
 
 showing how the notific ation to data subjects will h inder the
 
@@ -255,7 +251,7 @@ investigation.
 
 As to the investigation within the COM ELEC, this  is not the
 
-investigation contemplated by Section 18 of NPC Circular 16 -03 ,
+investigation contemplated by Section 18 of NPC Circular 1603 ,
 
 which spec ifically refers to criminal investigations.
 
@@ -289,20 +285,15 @@ Commis sion directs the COMELEC to conduct notification
 
 through alternative m eans under Secti on 18(D) of N PC Circular
 
-16 -0311 , thus :
+160311 , thus :
 
 Notification of affected data subjects shall be done
 
 individually, using secure means of communication,
 
-> 11 NPC Circular 16 -03. Pers onal Data Breach Manage men t. Dated 15 De cember 2016.
-
-NPC BN 20 -208
+> 11 NPC Circular 1603. Pers onal Data Breach Manage men t. Dated 15 De cember 2016.
 
 In re: COMELEC
-
-> 5th Floor , Delegat io n B uilding, PICC Complex ,Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 whether written or electronic. The personal information
 
@@ -342,7 +333,7 @@ Th is Commission likewise brings to the attention of COMELEC the
 
 required submission of its Full Breach Report. Section 17(C) of
 
-NPC Circular 16 -03 provides that:
+NPC Circular 1603 provides that:
 
 There shall be no delay in t he not ific ation if the breach
 
@@ -352,7 +343,7 @@ disclosure of sensitive personal information will harm or
 
 adversely affect the data subject. In both instances, the
 
-Commission shall be notified within the 72 -hour peri od
+Commission shall be notified within the 72hour peri od
 
 bas ed o n ava ilable information. The full report o f the
 
@@ -383,12 +374,7 @@ to : (1) Submit its Full Breach Report, and (2) Notify the dat a
 > 12 Emphas is supplied.
 > 13 Emphasis supplied.
 
-NPC BN 20 -208
-
 In re: COMELEC
-
-> 5th Floor , Delegat io n B uilding, PICC Complex ,Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 subjects thro ugh alternative means and submit proof of
 
@@ -400,21 +386,15 @@ Pasay City, Philippines
 
 26 Novem ber 20 20 .
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Com missioner
-
-Sgd.
 
 JOHN HENRY D. NAGA
 
@@ -426,12 +406,9 @@ BJS
 
 Executive Director and Data Protection Officer
 
-Commission on Elections NPC BN 20 -208
+Commission on Elections NPC BN 20208
 
 In re: COMELEC
-
-> 5th Floor , Delegat io n B uilding, PICC Complex ,Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 THRU: MRA
 

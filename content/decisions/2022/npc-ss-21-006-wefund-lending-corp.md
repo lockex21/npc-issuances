@@ -1,11 +1,17 @@
 ---
-title: "NPC SS 21-006: Wefund Lending Corp."
-description: "NPC SS 21-006: Wefund Lending Corp."
+title: 'NPC SS 21-006: WeFund Lending Corporation'
+description: Determination of whether WeFund Lending Corporation violated DPA provisions.
+aliases:
+- NPC SS 21-006
+- npc ss 21-006
+- WeFund Lending Corporation
+- wefund lending corporation
 tags:
-  - "decision"
-  - "type/decision"
-  - "year/2022"
-  - "npc-case"
+- decision
+- type/decision
+- year/2021
+- npc-case
+date: '2022-05-16'
 draft: false
 ---
 
@@ -21,7 +27,6 @@ draft: false
 - Unauthorized Processing (Section 25), Legitimate interest (Section 12 f)), Extent of Liability (Section 34), Substantial Evidence, Gross Negligence, Sua Sponte Investigation, Temporary Ban, Legitimate Purpose, Proportionality, Transparency
 
 ## Decision Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 IN RE: WEFUND LENDING
 
@@ -45,7 +50,7 @@ x----------------------------------------------------x
 
 AGUIRRE , D. P.C.;
 
-Before this Commission is a Fact -Finding Report with Application for
+Before this Commission is a Fact-Finding Report with Application for
 
 the Issuance of a Temporary Ban on the Processing of Personal Data
 
@@ -67,7 +72,7 @@ Privacy Act of 2012 (DPA) and the Commission’s issuances . This
 
 concludes the sua sponte investigation conducted by the Commission.
 
-Facts
+### Facts
 
 On 09 June 2021 , the CID submitted its FFR against JuanHand
 
@@ -75,20 +80,12 @@ following numerous reports of continuing privacy violations
 
 committed by several online lending applications (OLAs). 1 The CID
 
-> 1Fact -Finding Report, 09 June 2021, at 1,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
+> 1Fact-Finding Report, 09 June 2021, at 1,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022).
 
 NPC SS 21 -006
 
-For: Violation of the
-
-Data Privacy Act of
-
 2012 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 initiated a sua sponte investigation against JuanHand 2 pursuant to
 
@@ -153,20 +150,16 @@ references were asked in the loan application process. 11  The CID found
 > 4Id.
 > 5Id.
 > 6Id. at 1.
-> 7Fact -Finding Report, 09 June 2021, at 2,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
+> 7Fact-Finding Report, 09 June 2021, at 2,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022).
 > 8Technical Report, 17 May 2021, at 5 (Annex B), in In re: Wefund Lending Corporation (JuanHand) and its Responsible
 > Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 9Fact -Finding Report, 09 June 2021, at 2,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
+> 9Fact-Finding Report, 09 June 2021, at 2,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022). Emphasis removed.
 > 10 Id. Emphasis removed.
 > 11 Id.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 that there was no manual way of entering a phone number and it must
 
@@ -229,17 +222,13 @@ of using Juanhand service .
 > 12 Id.
 > 13 Id.
 > 14 Id.
-> 15 Fact -Finding Report, 09 June 2021, at 2,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
+> 15 Fact-Finding Report, 09 June 2021, at 2,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022).
 > 16 Id.
 > 17 Id. at 3.
 > 18 Id.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 [K. Privacy]
 
@@ -331,10 +320,6 @@ mobile device location, time zone setting); Phone data (e.g.,
 
 contact lists, SMS metadata, types and nature of mobile NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 applications found on your mobile device); mobile app usage
 
 data (e.g., traffic volume, mobile app usage) and
@@ -424,10 +409,6 @@ currently pending .19
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 The CID , however, found through “JuanHand’s Permission
 
 Information,” that JuanHand’s system can do the following:
@@ -493,15 +474,11 @@ information have been processed, the CID argued that JuanHand
 violated Section 16 of the DPA, which states that a data subject is
 
 > 20 Id. at 4 -5.
-> 21 Fact -Finding Report, 09 June 2021, at 5,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
+> 21 Fact-Finding Report, 09 June 2021, at 5,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022).
 > 22 Id. Emphasis supplied.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 entitled to “[b]e informed whether personal information pertaining to
 
@@ -560,23 +537,19 @@ be contrary to law, morals, or public policy.” 31
 > 23 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
 > the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of
 > 2012], Republic Act No. 10173 § 16 (2012).
-> 24 Fact -Finding Report, 09 June 2021, at 6,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
+> 24 Fact-Finding Report, 09 June 2021, at 6,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022).
 > 25 Id.
 > 26 Id. at 7.
 > 27 Id.
 > 28 Id.
 > 29 Id.
-> 30 Fact -Finding Report, 09 June 2021, at 7,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
+> 30 Fact-Finding Report, 09 June 2021, at 7,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022).
 > 31 National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173,
 > § 18 (2016).
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 According to the CID’s technical investigation , when the permission
 
@@ -642,22 +615,18 @@ character references of the borrower’s own choosing but required
 
 access to all phone and social media contacts. It also failed to
 
-> 32 Fact -Finding Report, 09 June 2021, at 8,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
+> 32 Fact-Finding Report, 09 June 2021, at 8,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022).
 > 33 Id. at 7.
 > 34 Id. at 8.
 > 35 Id. at 9.
 > 36 Id. at 10.
 > 37 Id.
-> 38 Fact -Finding Report, 09 June 2021, at 10 ,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
+> 38 Fact-Finding Report, 09 June 2021, at 10 ,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022).
 > 39 Id. at 11.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 comply with the required separate interface where borrowers
 
@@ -740,10 +709,6 @@ Circular which states:
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 ‘Access to contact details in whatever form, such as but not
 
 limited to phone contact list or e -mail lists, the harvesting of
@@ -812,16 +777,12 @@ against the access of contacts, as provided in NPC Circular 20 -
 
 > 42 Id. at 13.
 > 43 Id. at 12.
-> 44 Fact -Finding Report, 09 June 2021, at 12 ,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
+> 44 Fact-Finding Report, 09 June 2021, at 12 ,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022).
 > 45 Id. at 13.
 > 46 Id. at 15 -16.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 As such, it argued that substantial evidence had been established for
 
@@ -837,7 +798,7 @@ position paper on the application for the issuance of a temporary ban
 
 within ten (10 ) days from its receipt of the Order. 49
 
-On 05 July 2021, the CID submitted a Supplement al Fact -Finding
+On 05 July 2021, the CID submitted a Supplement al Fact-Finding
 
 Report with Application for Issuance of Temporary Ban on the
 
@@ -892,10 +853,6 @@ information of its users for purposes of loan collection or harassment. 56
 > 56 Id. at 3.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 It will, however, continue to publish personal information of
 
@@ -1008,10 +965,6 @@ provide loan services, and if so, his/her credit limits;
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 (ii) Due Day Reminder: by adding due date to the users’
 
 calendar, it would be easier for the users to apprehend the
@@ -1082,10 +1035,6 @@ Wefund Lending Corporation shall:
 > 66 Id. at 16.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 1.  Immediately take down its online lending application,
 
@@ -1160,10 +1109,6 @@ prompts to providing more intuitive and visible pop -up prompts
 > Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 when the app attempts to access user’s personal information, wherein
 
@@ -1241,10 +1186,6 @@ allow its re -deployment to the public. 83
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 On 10 September 2021, it filed both the Entry of Appearance with
 
 Motion to Admit [Supplemental Comment with Motion for Lifting of
@@ -1320,10 +1261,6 @@ As the Order dated 12 August 2021 directs JuanHand to
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 JuanHand, to ensure that it is no longer available for download,
 
 installation or use by data subjects,’ JuanHand is instructed to
@@ -1344,7 +1281,7 @@ the FFR dated 09 June 2021 and not the issuance of the temporary
 
 ban. 94  Nevertheless, it reiterated its order for JuanHand and its
 
-Corporate Officers and Directors to comment on the FFR within a non -
+Corporate Officers and Directors to comment on the FFR within a non-
 
 extendible period of ten (10) days from receipt of the Order. 95
 
@@ -1394,10 +1331,6 @@ Ban.
 > 98 Id. at 3.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Unfortunately, after the removal or unavailability of the
 
@@ -1481,13 +1414,9 @@ sincere gratitude to every Juan. Thank you. 105
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 On 11 October 2021, JuanHand submitted to the Commission its
 
-Comment (on the Fact -Finding Report dated 09 June 2021) addressing
+Comment (on the Fact-Finding Report dated 09 June 2021) addressing
 
 the allegations of the CID in its FFR .106
 
@@ -1547,21 +1476,17 @@ networking profile have been removed and deleted from the
 
 JuanHand OLA.
 
-> 106 Comment on the Fact -Finding Report dated 09 June 2021, 11 October 2021 ,in In re: Wefund Lending Corporation
+> 106 Comment on the Fact-Finding Report dated 09 June 2021, 11 October 2021 ,in In re: Wefund Lending Corporation
 > (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
 > 107 Id. at 5.
 > 108 Id. at 6.
 > 109 Id. at 7. Emphasis supplied.
 > 110 Id.
 > 111 Id. at 8.
-> 112 Comment on the Fact -Finding Report dated 09 June 2021, 11 October 2021, at 8 -9, in In re: Wefund Lending Corporation
+> 112 Comment on the Fact-Finding Report dated 09 June 2021, 11 October 2021, at 8 -9, in In re: Wefund Lending Corporation
 > (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 33.2. The Privacy Policy has been further revised, removing any
 
@@ -1630,14 +1555,10 @@ means to continue a loan application in cases where a user disagrees
 > 115 Id. at 12.
 > 116 Id.
 > 117 Id. at 13.
-> 118 Comment on the Fact -Finding Report dated 09 June 2021, 11 October 2021, at 14, in In re: Wefund Lending Corporation
+> 118 Comment on the Fact-Finding Report dated 09 June 2021, 11 October 2021, at 14, in In re: Wefund Lending Corporation
 > (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 to provide access to their contacts.” 119  Thus, to address the concerns of
 
@@ -1704,15 +1625,11 @@ the information was merely used for purposes of identity verification,
 > 121 Id.
 > 122 Id. at 16.
 > 123 Id.
-> 124 Comment on the Fact -Finding Report dated 09 June 2021, 11 October 2021, at 16, in In re: Wefund Lending Corporation
+> 124 Comment on the Fact-Finding Report dated 09 June 2021, 11 October 2021, at 16, in In re: Wefund Lending Corporation
 > (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
 > 125 Id.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 credit scoring, and fraud prevention, and it was simply stored in its
 
@@ -1770,7 +1687,7 @@ imposition of the Temporary Ban. 136
 > 127 Id.
 > 128 Id.
 > 129 Id.
-> 130 Comment on the Fact -Finding Report dated 09 June 2021, 11 October 2021, at 22, in In re: Wefund Lending Corporation
+> 130 Comment on the Fact-Finding Report dated 09 June 2021, 11 October 2021, at 22, in In re: Wefund Lending Corporation
 > (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
 > 131 Id.
 > 132 Id.
@@ -1782,10 +1699,6 @@ imposition of the Temporary Ban. 136
 > NPC SS 21 -006, (NPC 202 2).
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 On 13 January 2022, the Commission issued a Resolution lifting the
 
@@ -1866,10 +1779,6 @@ the basis for lawful processing of personal data and mirrors the rights
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 of data subjects in accordance with Sections 12, 13, and 16 of the
 
 DPA. 148  It also submitted its rectified Security Incident Management
@@ -1892,7 +1801,7 @@ its Memorandum on 16 March 2022. 153  Both parties reiterated the
 
 arguments found in their respective pleadings.
 
-Issue
+### Issue
 
 Whether JuanHand and its Corporate Officers and Directors
 
@@ -1900,7 +1809,7 @@ committed violations of the DPA and the Commission’s issuances that
 
 warrant a recommendation for prosecution.
 
-Discussion
+### Discussion
 
 JuanHand ’s position mainly assert ed that it is no longer liable for
 
@@ -1937,10 +1846,6 @@ purpose, and proportionality. 155
 > 155 Id. at 10.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 . . .
 
@@ -2008,10 +1913,6 @@ undisclosed permissions:
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 The capabilities of JuanHand’s system to read the borrower’s
 
 calendar events plus confidential information, add or modify
@@ -2042,7 +1943,7 @@ DPA. 160
 
 . . .
 
-In the Fact -finding Report, the CID said that the undisclosed
+In the Fact-Finding Report, the CID said that the undisclosed
 
 permissions in JuanHand’s Application also violated the
 
@@ -2093,10 +1994,6 @@ unauthorized purpose. 163
 > 163 Id.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 JuanHand did not refute the results of the CID’s investigation
 
@@ -2165,7 +2062,7 @@ Commission in its 12 August 2021 Order:
 > 164 Position Paper, 12 August 2021, at 5, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022).
 > 165 Id.
-> 166 Fact -Finding Report, 09 June 2021, at 4-5,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
+> 166 Fact-Finding Report, 09 June 2021, at 4-5,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022).
 > 167 See Supplemental Report, 31 May 2021, Annex A(JuanHand User Agreement Web ), in In re: Wefund Lending
 > Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
@@ -2173,10 +2070,6 @@ Commission in its 12 August 2021 Order:
 > Case No. 21 -006 (NPC 2022).
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 JuanHand does not have a clear understanding of the lawful
 
@@ -2218,7 +2111,7 @@ Privacy Policy, acknowledges that its main basis for processing
 
 personal information is consent. In this case, however, for
 
-matters where it did not request consent from its data su bjects,
+matters where it did not request consent from its data subjects,
 
 JuanHand erroneously attempts to fill in the gaps by
 
@@ -2265,10 +2158,6 @@ access and modification of the calendar could not have been
 disclosed to the data subjects. JuanHand neither informed its
 
 borrowers of the additional personal information that will be NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 processed nor acquired their consent to such processing. Having
 
@@ -2338,10 +2227,10 @@ information systems. 173  The Commission previously pointed out that
 
 the publication is accompanied by a categorical statement, thereby
 
-putting into question its alleged non -limitation of liability:
+putting into question its alleged non-limitation of liability:
 
 > 169 Id. at 9 -11. Emphasis supplied.
-> 170 Fact -Finding Report, 09 June 2021, at 11 & 13 ,in In re: Wefund Lending Corporation (JuanHand) and its Responsible
+> 170 Fact-Finding Report, 09 June 2021, at 11 & 13 ,in In re: Wefund Lending Corporation (JuanHand) and its Responsible
 > Officers, NPC SS Case No. 21 -006 (NPC 2022).
 > 171 Supplemental Report, 31 May 2021, Annex A(JuanHand User Agreement Web ) at 9, in In re: Wefund Lending
 > Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022). Emphasis supplied.
@@ -2350,10 +2239,6 @@ putting into question its alleged non -limitation of liability:
 > 173 Id.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 The Commission understands that JuanHand’s disclosure of the
 
@@ -2427,15 +2312,11 @@ and updates to the same.
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 100.2. Upon becoming aware of the incident, [JuanHand]
 
 immediately made efforts to rectify the same. 180
 
-Th us, th e Commission finds that JuanHand violated Section 25 of the
+Th us, the Commission finds that JuanHand violated Section 25 of the
 
 DPA or Unauthorized Processing of Personal or Sensitive Personal
 
@@ -2497,10 +2378,6 @@ JuanHand.
 > NPC SS Case No. 21 -006 (NPC 2022). E mphasis supplied.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 As for the second requisite, the information that JuanHand processed
 
@@ -2578,10 +2455,6 @@ under the DPA.
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 As for the third requisite, JuanHand process ed personal information
 
 without the consent of the data subjects or without lawful basis under
@@ -2640,17 +2513,13 @@ does not indicate all of the abovementioned permissions outlined in
 
 the Google Play Store and those discovered by the CID during its
 
-> 188 Fact -Finding Report, 09 June 2021, at 4-5,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
+> 188 Fact-Finding Report, 09 June 2021, at 4-5,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022) . Emphasis supplied.
 > 189 Id. at 2.
 > 190 Technical Report, 17 May 2021, at 5 (Annex B), in In re: Wefund Lending Corporation (JuanHand) and its Responsible
 > Officers, NPC SS Case No. 21 -006 (NPC 2022).
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 technical investigation .191  The Service Agreement did not inform the
 
@@ -2729,10 +2598,6 @@ transparency principle if data subjects are not informed of the nature,
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 purpose, and extent of the processing that the PIC is permitted to
 
 undertake. 198  The Commission explained as follows:
@@ -2802,10 +2667,6 @@ personal information relating to the undisclosed permissions.
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 JuanHand, in its Position Paper, admitted that the undisclosed
 
 permissions were being executed despite its glaring absence in the
@@ -2873,15 +2734,11 @@ processing the personal information of its users. 206
 > 203 Position Paper, 12 August 2021, at 5, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
 > NPC SS Case No. 21 -006 (NPC 2022). Emphasis supplied.
 > 204 Id. Emphasis supplied.
-> 205 Comment on the Fact -Finding Report dated 09 June 2021, at 5, 11 October 2021, in In re: Wefund Lending Corporation
+> 205 Comment on the Fact-Finding Report dated 09 June 2021, at 5, 11 October 2021, in In re: Wefund Lending Corporation
 > (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
 > 206 Id. at 6.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 Th e Commission stresses that legitimate interest cannot be used to
 
@@ -2954,10 +2811,6 @@ iv. information related to personal communication (including,
 but not limited to, contact list, geographical location, device
 
 identification number, social networking profiles) provided or NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 authorized by the User, or communication information relating
 
@@ -3034,10 +2887,6 @@ personal information, malicious disclosure, and unauthorized
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 disclosure. 210  If the PI C or Personal Information Processor (PIP) is a
 
 juridical person, t he n the penalties are imposed on its responsible
@@ -3106,10 +2955,6 @@ or employees, through whose act, default or omission the
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 corporation commits a crime, may themselves be individually
 
 held answerable for the crime .215
@@ -3128,7 +2973,7 @@ is specified in Section 34.
 
 Therefore, Section 34 supplies the gap in Sections 25 to 32 of the DPA
 
-by specifying that th e officers of erring corporations are the natural
+by specifying that the officers of erring corporations are the natural
 
 persons that will be held responsible for such violations and will be
 
@@ -3185,10 +3030,6 @@ shall, in addition to the penalties prescribed herein, suffer
 > 217 JOSE R. SUNDIAN G,SR.&TIMOTEO B. AQUINO ,REVIEWER ON COMMERCIAL LAW 60 (2019).
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 perpetual or temporary absolute disqualification from office, as
 
@@ -3251,17 +3092,13 @@ sufficient legal and factual basis” for the Commission to hold
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 JuanHand’s Corporate Officers and Directors , as the responsible
 
 officers, liable .220  To further bolster its claim, it posited that:
 
 First, Respondent Wefund admitted all the allegations in the
 
-Fact -finding Report. It in fact offered to rectify its shortcomings
+Fact-Finding Report. It in fact offered to rectify its shortcomings
 
 identified in the Order and FFR and undertook to implement
 
@@ -3277,7 +3114,7 @@ recommendation made by the NPC.
 
 Second, the responsible officers did not file any comment to the
 
-Fact -Finding Report as ordered by the Commission. In Wefund’s
+Fact-Finding Report as ordered by the Commission. In Wefund’s
 
 Position Paper, no defense was interposed as to why the
 
@@ -3320,7 +3157,7 @@ evidence. Jurisprudence is settled that if she ‘fail[s] to show in a
 satisfactory manner the facts upon which [her] claims are
 
 > 220 Memorandum, 16 March 2022, at 9, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC
-> SS Case No. 21 -006 (NPC 2022) ;See Supplementary Fact -Finding Report (with Application for Issuance of Temporary Ban
+> SS Case No. 21 -006 (NPC 2022) ;See Supplementary Fact-Finding Report (with Application for Issuance of Temporary Ban
 > on the Processing of Personal Data), 05 July 2021, at 2 -3, in In re: Wefund Lending Corporation (JuanHand) and its
 > Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
 > 221 Memorandum, 16 March 2022, at 9, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC
@@ -3329,10 +3166,6 @@ satisfactory manner the facts upon which [her] claims are
 > 223 National Bureau of Investigation v. Conrado M. Najera, G.R. No. 237522 (2020). Emphasis supplied.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 based, the [respondent is] not obliged to prove [its] exception
 
@@ -3405,10 +3238,6 @@ wherein the officers and employees that will be recommended for
 > 224 NPC 19 -465, 03 March 2022, at 10 (NPC 2022) (unreported). Emphasis supplied.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 prosecution are “responsible” for and the root cause of the violation of
 
@@ -3487,10 +3316,6 @@ duties under the DPA. Moreover, the acts of JuanHand to rectify its
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 mistakes upon notification by the Commission show its willingness to
 
 comply with its mandated duties.
@@ -3562,10 +3387,6 @@ version 5.0.0. 231  Particularly, as regards the iOS version:
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 [W]hile there are still no prompts giving the user permission to
 
 allow the application to access the phone’s contact list, it has an
@@ -3635,10 +3456,6 @@ limited to phone contact list or e -mail lists, the harvesting of
 > 235 Id. at 15.
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 social media contacts, and/or copying or otherwise saving these
 
@@ -3714,10 +3531,6 @@ comply with its Orders, its voluntary acts of changing key members of
 > (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
 
 NPC SS 21 -006
-
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 its management team and legal counsel are inconsistent with gross
 
@@ -3799,10 +3612,6 @@ appearance. 247  Evidently, JuanHand, through its new counsel, was
 
 NPC SS 21 -006
 
-In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 able to properly address, to the satisfaction of the Commission, the
 
 initial lapses discovered by the CID that resulted in the imposition of
@@ -3870,8 +3679,6 @@ NPC SS 21 -006
 
 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 Section 3. Rendition of decision . The Decision of the Commission
 
 shall resolve the issues on the basis of all the evidence presented
@@ -3930,8 +3737,6 @@ WE CONCUR:
 NPC SS 21 -006
 
 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 Sgd.
 

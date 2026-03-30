@@ -1,17 +1,19 @@
 ---
 title: "Data Sharing Agreements (Circular No. 2020-03)"
-description: "WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State recognizes the vital role of communication and information in nation-building. At the same time, Article II, Section 11 thereof emphasizes that the State values the dignity of every human person..."
+description: "Establishes framework and procedures for data sharing agreements."
 aliases:
- - "Circular No. 2020-03"
- - "circular no. 2020-03"
- - "data sharing agreements"
- - "npc circular no. 2020-03"
+- Circular No. 2020-03
+- circular no. 2020-03
+- Data Sharing Agreements
+- data sharing agreements
+- NPC Circular No. 2020-03
+- npc circular no. 2020-03
 tags:
- - "issuance"
- - "topic/data-sharing"
- - "type/circular"
- - "year/2020"
-date: "2020-12-21"
+- issuance
+- topic/data-sharing
+- type/circular
+- year/2020
+date: '2020-12-23'
 draft: false
 ---
 
@@ -31,7 +33,7 @@ WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the 
 
 WHEREAS, Section 9 of the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] provides that, among the Commission’s functions, is to develop, promulgate, review or amend rules and regulations for the effective implementation of the Act;
 
-issues this Circular governing data sharing agreements.
+WHEREFORE, in consideration of these premises, the National Privacy Commission hereby issues this Circular governing data sharing agreements.
 
 **SECTION 1.** ***Scope.*** The provisions of this Circular apply to personal data under the control or custody of a personal information controller (PIC) that is being shared, disclosed, or transferred to another PIC. The Circular likewise applies to personal data that is consolidated by several PICs and shared or made available to each other and/or to one or more PICs. It excludes arrangements between a PIC and a personal information processor (PIP).
 
@@ -45,11 +47,11 @@ C. “Compliance Check” refers to the systematic and impartial evaluation of a
 
 D. “Consent of the data subject” refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of his or her personal, sensitive personal, or privileged information. Consent is evidenced by written, electronic or recorded means. It may also be given on behalf of a data subject by a lawful representative or an agent specifically authorized by the data subject to do so;
 
-E. “Data Protection Officer” or “DPO” refers to an individual designated by the head of agency or organization to be accountable for its compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and or issuances of the Commission: provided, that a government agency or private entity may have more than one DPO;
+E. “Data Protection Officer” or “DPO” refers to an individual designated by the head of agency or organization to be accountable for its compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and or issuances of the Commission: *provided*, that a government agency or private entity may have more than one DPO;
 
 F. “Data sharing” is the sharing, disclosure, or transfer to a third party of personal data under the custody of a personal information controller to one or more other personal information controller/s. In the case of a personal information processor, data sharing should only be allowed if it is carried out on behalf of and upon the instructions of the personal information controller it is engaged with via a subcontracting agreement. Otherwise, the sharing, transfer, or disclosure of personal data that is incidental to a subcontracting agreement between a personal information controller and a personal information processor should be excluded;
 
-G. “Data Sharing Agreement” or “DSA” refers to a contract, joint issuance, or any similar document which sets out the obligations, responsibilities, and liabilities of the personal information controllers involved in the transfer of personal data between or among them, including the implementation of adequate safeguards for data privacy and security, and upholding the rights of the data subjects: provided, that only personal information controllers should be made parties to a data sharing agreement;
+G. “Data Sharing Agreement” or “DSA” refers to a contract, joint issuance, or any similar document which sets out the obligations, responsibilities, and liabilities of the personal information controllers involved in the transfer of personal data between or among them, including the implementation of adequate safeguards for data privacy and security, and upholding the rights of the data subjects: *provided*, that only personal information controllers should be made parties to a data sharing agreement;
 
 H. “Data subject” refers to an individual whose personal, sensitive personal, or privileged information is processed;
 
@@ -68,7 +70,7 @@ N. “Personal information” refers to any information, whether recorded in a m
 O. “Personal information controller” or “PIC” refers to a natural or juridical person, or any other body, who controls the processing of personal data, or instructs another to process personal data on its behalf. The term excludes:
 
 1. A natural or juridical person, or any other body, who performs such functions as instructed by another person or organization; or
-2. A natural person who processes personal data in connection with his or her ersonal, family, or household affairs;
+2. A natural person who processes personal data in connection with his or her personal, family, or household affairs;
 
 There is control if the natural or juridical person or any other body decides on what information is processed, or the purpose or extent of its processing.
 
@@ -108,7 +110,7 @@ E. Implementation of reasonable and appropriate organizational, physical, and te
 
 **SECTION 5.** ***Transparency.*** Each affected data subject should be provided with the following information before personal data is shared or at the next practical opportunity, through an appropriate consent form or privacy notice, whichever is applicable or appropriate to the lawful basis relied upon:
 
-A. Categories of recipients of the personal data: provided, that PICs shall provide a data subject with the identity of the recipients, upon request;
+A. Categories of recipients of the personal data: *provided*, that PICs shall provide a data subject with the identity of the recipients, upon request;
 
 B. Purpose of data sharing and the objective/s it is meant to achieve;
 
@@ -122,7 +124,7 @@ In cases where consent is not required, a privacy notice is sufficient. Where th
 
 It is a good practice for PICs to review their privacy notice regularly to ensure that it continues to reflect accurately the data sharing arrangement they are engaged in.
 
-**SECTION 6.** ***Authorized processing.*** Data sharing may be based on any of the criteria for lawful processing of personal data in Sections 12 and 13 of the Act: provided, that nothing in this Circular shall be construed as prohibiting or limiting the sharing, disclosure, or transfer of personal data that is already authorized or required by law.
+**SECTION 6.** ***Authorized processing.*** Data sharing may be based on any of the criteria for lawful processing of personal data in Sections 12 and 13 of the Act: *provided*, that nothing in this Circular shall be construed as prohibiting or limiting the sharing, disclosure, or transfer of personal data that is already authorized or required by law.
 
 **SECTION 7.** ***Special cases.*** Data sharing may also be allowed pursuant to [[data-privacy-act-of-2012#Section 4. Scope|Section 4 of the Act]], which specifies the special cases wherein the law and the rules are not applicable, but such data sharing should only be to the minimum extent necessary to achieve the specific purpose, function, or activity, and subject to the requirements of applicable laws, regulations, or ethical standards.
 
@@ -159,9 +161,9 @@ F. Security. It includes a description of the reasonable and appropriate organiz
 G. Data subjects’ rights. It provides for mechanisms that allow affected data subjects to exercise their rights relative to their personal data, including:
 
 1. Identity of the party or parties responsible for addressing: information requests, complaints by a data subject, and/or any investigation by the NPC: provided, that the NPC shall make the final determination as to which party is liable for any violation of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any applicable NPC issuance; and
-2. Procedure by which a data subject can access or obtain a copy of the DSA: provided, that the parties may redact or prevent the disclosure of trade or industrial secrets, confidential and proprietary business information, and any other detail or information that could endanger or compromise their information systems, or expose to harm the confidentiality, integrity, or availability of personal data under their control or custody.
+2. Procedure by which a data subject can access or obtain a copy of the DSA: *provided*, that the parties may redact or prevent the disclosure of trade or industrial secrets, confidential and proprietary business information, and any other detail or information that could endanger or compromise their information systems, or expose to harm the confidentiality, integrity, or availability of personal data under their control or custody.
 
-H. Retention and Data Disposal. It includes rules for the retention of shared data and identify the method that will be adopted for the secure return, destruction, or disposal of the shared data and the timeline therefor. The parties may specify any other stipulations, clauses, terms and conditions as they may deem appropriate: provided, that they are not contrary to law, morals, public order, or public policy.
+H. Retention and Data Disposal. It includes rules for the retention of shared data and identify the method that will be adopted for the secure return, destruction, or disposal of the shared data and the timeline therefor. The parties may specify any other stipulations, clauses, terms and conditions as they may deem appropriate: *provided*, that they are not contrary to law, morals, public order, or public policy.
 
 **SECTION 10.** ***Record of data sharing arrangements.*** Each PIC should establish and maintain a record of its data sharing arrangements, including the following:
 
@@ -204,11 +206,11 @@ E. upon a finding by the Commission that data sharing is:
 1. no longer necessary for the specified purpose/s and its objective/s has already been achieved; or
 2. detrimental to national security, public interest or public policy, or the termination of the same is necessary to preserve and protect the rights of a data subject.
 
-Nothing in this Section prevents the Commission from ordering motu proprio the termination of any data sharing, whether or not covered by a DSA, when a party is determined to have violated the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any applicable issuance by the Commission.
+Nothing in this Section prevents the Commission from ordering *motu proprio* the termination of any data sharing, whether or not covered by a DSA, when a party is determined to have violated the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any applicable issuance by the Commission.
 
 **SECTION 17.** ***Return, destruction, or disposal of transferred personal data.*** Unless otherwise provided by the DSA, all personal data transferred to other parties by virtue of a data sharing, whether or not covered by a DSA, should be returned, destroyed, or disposed of, upon the termination of the arrangement.
 
-**SECTION 18.** ***Transitory period.*** Where an existing data sharing is not covered by any written contract, joint issuance, or any similar document, the parties thereto may execute or enter into an appropriate agreement, subject to the considerations set forth under Section 8 of this Circular. All existing DSAs should be reviewed by the concerned parties to determine compliance with the provisions of this Circular and make the necessary revisions or amendments, as may be appropriate. In all cases, the PIC that collected the personal data directly from the data subjects should, at the soonest practicable time, notify and provide the data subjects whose personal data were shared, transferred, or disclosed with all the information set out in Section 5 of this Circular: provided, that where individual notification is not possible or would require a disproportionate effort, the PIC may seek the approval of the Commission to use alternative means of notification: provided further, that the PIC should establish means through which the data subjects can exercise their rights and obtain more detailed information relating to the DSA.
+**SECTION 18.** ***Transitory period.*** Where an existing data sharing is not covered by any written contract, joint issuance, or any similar document, the parties thereto may execute or enter into an appropriate agreement, subject to the considerations set forth under Section 8 of this Circular. All existing DSAs should be reviewed by the concerned parties to determine compliance with the provisions of this Circular and make the necessary revisions or amendments, as may be appropriate. In all cases, the PIC that collected the personal data directly from the data subjects should, at the soonest practicable time, notify and provide the data subjects whose personal data were shared, transferred, or disclosed with all the information set out in Section 5 of this Circular: *provided*, that where individual notification is not possible or would require a disproportionate effort, the PIC may seek the approval of the Commission to use alternative means of notification: *provided further*, that the PIC should establish means through which the data subjects can exercise their rights and obtain more detailed information relating to the DSA.
 
 **SECTION 19.** ***Separability Clause.*** If any portion or provision of this Circular is declared invalid or unconstitutional, the other provisions not affected thereby shall continue to be in force and effect.
 
@@ -218,9 +220,13 @@ Nothing in this Section prevents the Commission from ordering motu proprio the t
 
 Approved:
 
-(SGD.) RAYMUND ENRIQUEZ LIBORO Privacy Commissioner
+   Sgd.
+                                  RAYMUND ENRIQUEZ LIBORO
+                                     Privacy Commissioner
 
-(SGD.) (SGD.) LEANDRO ANGELO Y. AGUIRRE JOHN HENRY D. NAGA Deputy Privacy Commissioner Deputy Privacy Commissioner
+   Sgd.                                                        Sgd.
+ LEANDRO ANGELO Y. AGUIRRE                                   JOHN HENRY D. NAGA
+     Deputy Privacy Commissioner                                 Deputy Privacy Commissioner
 
 ## Source And Notes
 

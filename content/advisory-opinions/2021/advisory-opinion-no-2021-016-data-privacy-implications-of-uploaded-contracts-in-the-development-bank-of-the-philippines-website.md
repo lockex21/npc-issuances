@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-016 — Data Privacy Implications Of Uploaded Contracts In The Development Bank Of The Philippines’ Website"
-description: "'''''''''''''''''''' '''' ''''''''''''''''''''' ''''''' '''''' ''''''''''' '''''' ''''''''''' '''''''' '''''''''''''''''' ''''''' ''' ''''' '''''''''''''' '''''' '''' '' ''''''' ''''''''' '''''''' '''''''''' ''''''''''' '''''''' '''''' ''''''''''''''..."
+title: "NPC Advisory Opinion No. 2021-016 — Data Privacy Implications Of Uploaded Contracts In The Development Bank Of The Philippines’ Website"
+description: "The NPC provided guidance on how to reconcile government procurement disclosure requirements with data privacy obligations, particularly regarding protection of sensitive personal information in uploaded contracts."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,32 +17,20 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                    ADVISORY OPINION NO. 2021-0161
 
-    28 April 2021
+**28 April 2021**
 
-    '''''''''''''''''''' '''' '''''''''''''''''''''
-    ''''''' '''''' ''''''''''' '''''' ''''''''''' ''''''''
-    '''''''''''''''''' ''''''' ''' ''''' ''''''''''''''
-    '''''' '''' '' ''''''' ''''''''' ''''''''
-    '''''''''' ''''''''''' '''''''' '''''' ''''''''''''''
-    ''''''''''''''
+Re: DATA PRIVACY IMPLICATIONS OF UPLOADED CONTRACTS IN THE DEVELOPMENT BANK OF THE PHILIPPINES’ WEBSITE
 
-
-              Re:      DATA    PRIVACY    IMPLICATIONS OF UPLOADED
-                       CONTRACTS IN THE DEVELOPMENT BANK OF THE
-                       PHILIPPINES’ WEBSITE
-
-Dear ''''''''''''' '''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to clarify the data privacy and security implications of the
-website posting requirements mandated by National Budget Circular No. 5422 and
-Government Procurement Policy Board (GPPB) Circular No. 02-2020,3 issued in accordance
-to the requirements of Republic Act No. 91844 otherwise known as the Government
-Procurement Reform Act and its revised Implementing Rules and Regulations5 (IRR), and
-how these can be reconciled with the provisions of the Data Privacy Act of 20126 (DPA).
+website posting requirements mandated by National Budget Circular No. 542[^2] and
+Government Procurement Policy Board (GPPB) Circular No. 02-2020,[^3] issued in accordance
+to the requirements of Republic Act No. 9184[^4] otherwise known as the Government
+Procurement Reform Act and its revised Implementing Rules and Regulations[^5] (IRR), and
+how these can be reconciled with the provisions of the Data Privacy Act of 2012[^6] (DPA).
 
 We understand that the Development Bank of the Philippines (DBP) is considering the
 implementation of various measures to mitigate possible risks that may arise in complying
@@ -51,24 +39,8 @@ from the documents required to be posted may result into identity theft and poss
 falsification of documents. Among the security measures that DBP is considering are as
 follows:
 
-       1. Redaction of sensitive data, particularly on the acknowledgement page, in the
+   1. Redaction of sensitive data, particularly on the acknowledgement page, in the
           notarized contracts including, but not limited to, actual signatures of parties, personal
-
-1
-  Tags: government procurement; procurement documents; posting requirement; security measures; redaction;
-2
-  Department of Budget and Management, Reiterating Compliance with Section 93, The Transparency Seal Provision, of the General
-Appropriations Act of 2012 [National Budget Circular No. 542] (August 29, 2012).
-3
-  Government Procurement Policy Board, Guidelines in the Posting and Submission of Annual Procurement Plans, Procurement Monitoring
-Reports and Agency Procurement Compliance and Performance Indicator Results [GPPB Circular No. 02-2020] (May 20, 2020).
-4
-  An Act Providing for the Modernization, Standardization and Regulation of the Procurement Activities of the Government and for Other
-Purposes [Government Procurement Reform Act], Republic Act No. 9184 (2003).
-5
-  Revised Rules and Regulations Implementing the Government Procurement Reform Act, Republic Act No. 9184 (2016).
-  An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector,
-
           details such as identification numbers (e.g., tax identification numbers, passport
           numbers, driver’s license numbers), and copies of actual identification cards of DBP
           officials and the latter’s contractors/suppliers;
@@ -81,46 +53,42 @@ Purposes [Government Procurement Reform Act], Republic Act No. 9184 (2003).
        4. Exclusion of uploading documents or attachments that disclose details of the Bank’s
           IT infrastructure and security defenses.
 
-Scope of the Data Privacy Act of 2012; personal
-information
+### Discussion
+
+#### Scope of the Data Privacy Act of 2012; personal information
 
 The DPA applies to the processing of all types of personal information and to any natural and
 juridical person involved in personal information processing. Personal information is defined
 as any information whether recorded in a material form or not, from which the identity of an
 individual is apparent or can be reasonably and directly ascertained by the entity holding the
 information, or when put together with other information would directly and certainly
-identify an individual.7
+identify an individual.[^7]
 
 Where procurement-related documents would contain personal information, the provisions
 of the DPA may apply to the processing, which includes disclosure of the same, to the public
 and requesting parties.
 
-Government procurement; disclosure of procurement-
-related documents;
+#### Government procurement; disclosure of procurement-related documents
 
-In NPC Advisory Opinion No. 2021-006,8 the Privacy Policy Office had the occasion to discuss
+In NPC Advisory Opinion No. 2021-006,[^8] the Privacy Policy Office had the occasion to discuss
 some of the principles governing procurement in the government in relation to the lawful
 criteria for processing personal data. These same principles may be the basis for the
 aforementioned issuances requiring the posting of various procurement-related documents,
 thus:
 
-            “Government      procurement;   disclosure   of
+   “Government      procurement;   disclosure   of
             procurement-related documents; lawful basis for
             processing
 
-            We note that government procurement is governed by certain principles:
+   We note that government procurement is governed by certain principles:
 
-                  •    Transparency in the procurement process and in the implementation of
+   •    Transparency in the procurement process and in the implementation of
                        procurement contracts through wide dissemination of bid opportunities and
                        participation of pertinent NGOs.
                   •    Public monitoring of the procurement process and the implementation of
                        awarded contracts with the end in view of guaranteeing that these contracts are
                        awarded pursuant to the provisions of the law, and that all these contracts are
                        performed strictly according to specifications.”
-
-
-
-    Data Privacy Act of 2012 § 3 (g).
 
 Even if there is a lawful basis for processing personal data, the DPA further mandates all
 personal information controllers (PICs) to implement reasonable and appropriate
@@ -151,8 +119,13 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
+
+[^2]: Department of Budget and Management, Reiterating Compliance with Section 93, The Transparency Seal Provision, of the General Appropriations Act of 2012 [National Budget Circular No. 542] (August 29, 2012).
+[^3]: Government Procurement Policy Board, Guidelines in the Posting and Submission of Annual Procurement Plans, Procurement Monitoring Reports and Agency Procurement Compliance and Performance Indicator Results [GPPB Circular No. 02-2020] (May 20, 2020).
+[^4]: An Act Providing for the Modernization, Standardization and Regulation of the Procurement Activities of the Government and for Other Purposes [Government Procurement Reform Act], Republic Act No. 9184 (2003).
+[^5]: Revised Rules and Regulations Implementing the Government Procurement Reform Act, Republic Act No. 9184 (2016).
+[^6]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^7]: Data Privacy Act of 2012 § 3 (g).
+[^8]: NPC Advisory Opinion No. 2021-006.

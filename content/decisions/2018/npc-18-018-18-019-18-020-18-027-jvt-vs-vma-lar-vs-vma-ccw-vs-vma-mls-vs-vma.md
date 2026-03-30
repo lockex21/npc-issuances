@@ -1,11 +1,17 @@
 ---
-title: "NPC 18-018, 18-019, 18-020, & 18-027: JVT vs VMA, LAR vs VMA, CCW vs VMA, MLS vs VMA"
+title: "NPC 18-018, 18-019, 18-020, & 18-027: JVT v. VMA, LAR v. VMA, CCW v. VMA, MLS v. VMA"
 description: "Four consolidated complaints by government employees alleging VMA, a COA auditor, processed their personal data sheets without consent; Commission finds processing permissible under DPA Section 12(e) and 13(b) as fulfilling COA's constitutional audit mandate."
+aliases:
+  - "NPC 18-018"
+  - "npc 18-018"
+  - "JVT v. VMA"
+  - "jvt v. vma"
 tags:
   - "decision"
   - "type/decision"
   - "year/2018"
   - "npc-case"
+date: "2023-02-22"
 draft: false
 ---
 
@@ -24,33 +30,55 @@ draft: false
 
 ## Decision Text
 
-**NPC 18-018, NPC 18-019, NPC 18-020, and NPC 18-027**
+JVT,
 
-**JVT, LAR, CCW, MLS vs. VMA**
+Complainant,
 
----
+-versus-
 
-**JVT**, Complainant, *-versus-* **VMA**, Respondent.
+VMA,
 
-**LAR**, Complainant, *-versus-* **VMA**, Respondent.
+Respondent.
 
-**CCW**, Complainant, *-versus-* **VMA**, Respondent.
+x----------------------------------------------------x
 
-**MLS**, Complainant, *-versus-* **VMA**, Respondent.
+LAR,
 
----
+Complainant,
 
-**NPC 18-018** — For: Violation of the Data Privacy Act of 2012
+-versus-
 
-**NPC 18-019** — For: Violation of the Data Privacy Act of 2012
+VMA,
 
-**NPC 18-020** — For: Violation of the Data Privacy Act of 2012
+Respondent.
 
-**NPC 18-027** — For: Violation of the Data Privacy Act of 2012
+x----------------------------------------------------x
 
----
+CCW,
 
-**JOHN HENRY D. NAGA**, Privacy Commissioner
+Complainant,
+
+-versus-
+
+VMA,
+
+Respondent.
+
+x----------------------------------------------------x
+
+MLS,
+
+Complainant,
+
+-versus-
+
+VMA,
+
+Respondent.
+
+x----------------------------------------------------x
+
+NAGA, Privacy Commissioner:
 
 Before this Commission are the consolidated Complaints filed by JVT, LAR, CCW, and MLS (Complainants) against VMA for an alleged violation of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
 
@@ -210,48 +238,42 @@ The processing of personal and sensitive personal information contained in the P
 
 Considering the foregoing, this Commission finds the processing made by VMA in requesting and obtaining the PDS of Complainants has a lawful criteria to process the same as stated in Sections 12 (e) and 13 (b) of the DPA, specifically, the processing was done in fulfillment of its mandate and by existing laws and regulations pursuant to the 1987 Philippine Constitution and Government Auditing Code of the Philippines and COA regulations.
 
-### Dispositive Portion
-
-**WHEREFORE**, premises considered, this Commission resolves that the instant Complaint filed by JVT, LAR, CCW, and Atty. MLS against VMA for an alleged violation of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) is hereby **DISMISSED** for lack of merit.
+WHEREFORE, premises considered, this Commission resolves that the instant Complaint filed by JVT, LAR, CCW, and Atty. MLS against VMA for an alleged violation of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) is hereby **DISMISSED** for lack of merit.
 
 **SO ORDERED.**
 
-City of Pasay, Philippines.
+City of Pasay, Philippines. 22 February 2023.
 
-22 February 2023.
-
----
-
-**JOHN HENRY D. NAGA**
-
+JOHN HENRY D. NAGA
 Privacy Commissioner
 
 WE CONCUR:
 
-**LEANDRO ANGELO Y. AGUIRRE**
-
+LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
-**NERISSA N. DE JESUS**
-
+NERISSA N. DE JESUS
 Deputy Privacy Commissioner
 
 Copy furnished:
 
-JVT, Complainant
+JVT
+Complainant
 
-LAR, Complainant
+LAR
+Complainant
 
-CCW, Complainant
+CCW
+Complainant
 
-MLS, Complainant
+MLS
+Complainant
 
-VMA, Respondent
+VMA
+Respondent
 
 COMPLAINTS AND INVESTIGATION DIVISION
-
 ENFORCEMENT DIVISION
-
 GENERAL RECORDS UNIT
 
 [^1]: Complaint-Affidavit dated 18 April 2018 of JVT, at p. 1; Complaint-Affidavit dated 18 April 2018 of LAR, at p. 1; Complaint-Affidavit dated 18 April 2018 of CCW, at p. 1; and Affidavit-Complaint dated 09 May 2018 of MLS at p. 1.

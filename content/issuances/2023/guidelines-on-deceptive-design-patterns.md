@@ -1,6 +1,6 @@
 ---
 title: "Guidelines on Deceptive Design Patterns (Advisory No. 2023-01)"
-description: "WHEREAS, the NPC issued a Circular on the “Guidelines on Consent” to elaborate on the processing of personal data based on consent and to emphasize the fair processing of personal data in a manner that is neither manipulative nor unduly oppressive to data subjects;"
+description: "Provides guidance on deceptive design patterns that manipulate or deceive data subjects in analog and digital interfaces, and their impact on lawful consent-based processing of personal data."
 aliases:
   - "Advisory No. 2023-01"
   - "advisory no. 2023-01"
@@ -8,10 +8,11 @@ aliases:
   - "npc advisory no. 2023-01"
 tags:
   - "issuance"
-  - "topic/consent"
   - "type/advisory"
   - "year/2023"
+  - "topic/consent"
 draft: false
+date: '2023-11-07'
 ---
 
 ## Issuance Text
@@ -40,36 +41,34 @@ WHEREFORE, in consideration of these premises, the NPC hereby issues this Adviso
 
 **SECTION 2.** ***Definition of Terms.*** Terms used in the [[laws/data-privacy-act-of-2012|DPA]] and its Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), as amended, are adopted herein. In addition, whenever used in this Advisory, the following terms are defined as follows:
 
-    A. “Deceptive Design Patterns” refer to design techniques embedded on an analog or  
-       digital interface that aim to manipulate or deceive a data subject to perform a specific  
-       act relating to the processing of their personal data.
+A. “Deceptive Design Patterns” refer to design techniques embedded on an analog or digital interface that aim to manipulate or deceive a data subject to perform a specific act relating to the processing of their personal data.
 
-    B. “Analog Interface” refers to an offline point of interaction between two or more users;
+B. “Analog Interface” refers to an offline point of interaction between two or more users;
 
-    C. “Appearance-Based Deceptive Design Pattern” refers to a design pattern that  
+C. “Appearance-Based Deceptive Design Pattern” refers to a design pattern that  
        manipulates or deceives a data subject through the display or presentation of  
        information;
 
-    D. “Content-Based Deceptive Design Pattern” refers to a design pattern that manipulates  
+   D. “Content-Based Deceptive Design Pattern” refers to a design pattern that manipulates  
        or deceives a data subject through the actual contents, including the language and  
        context, of the information made available to them;
 
-    E. “Digital Interface” refers to any software, including a website or a part thereof, or  
+   E. “Digital Interface” refers to any software, including a website or a part thereof, or  
        computer or mobile application;[^1]
 
-    F. “User Experience” or “UX” refers to the overall experience of a data subject using an  
+   F. “User Experience” or “UX” refers to the overall experience of a data subject using an  
        analog or digital interface in relation to its convenience, accessibility and credibility;
 
-    G. “User Interface” or “UI” refers to the means by which a data subject interacts with a  
+   G. “User Interface” or “UI” refers to the means by which a data subject interacts with a  
        website, a computer or mobile application, or offline points of interaction.
 
 SECTION 3. Deceptive Design Patterns. – Deceptive design patterns undermine general  
 data privacy principles and the rights of data subjects. The following is a non-exhaustive list  
 of prevalent deceptive design patterns:
 
-    A. Appearance-Based Deceptive Design Patterns are those, but are not limited to, that:
+   A. Appearance-Based Deceptive Design Patterns are those, but are not limited to, that:
 
-         1. prohibit a data subject from categorically disallowing the processing of their  
+   1. prohibit a data subject from categorically disallowing the processing of their  
             personal data, or repeatedly prompt a data subject to take an action to share more  
             information than what is necessary or originally intended;  
          2. present control settings that confuse a data subject such that it leads them to  
@@ -86,7 +85,7 @@ of prevalent deceptive design patterns:
 a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act), Article 3 (m) (19 October  
 2022).
 
-        6. bombard a data subject with excessive information that is not essential to the  
+   6. bombard a data subject with excessive information that is not essential to the  
            processing of their personal data;  
         7. present default options that benefit the PIC but may be detrimental to the data  
            subject, such as (1) maximizing the amount of personal data that will be processed;  
@@ -98,9 +97,9 @@ a Single Market For Digital Services and amending Directive 2000/31/EC (Digital 
         9. use characters that children know and trust to influence them into providing more  
            information than what is necessary for the declared purpose.
 
-    B. Content-Based Deceptive Design Patterns are those, but are not limited to, that:
+   B. Content-Based Deceptive Design Patterns are those, but are not limited to, that:
 
-        1. use ambiguous, complex, or confusing language or sentence structures to steer a  
+   1. use ambiguous, complex, or confusing language or sentence structures to steer a  
            data subject into making a choice that is detrimental or violative of their rights as  
            a data subject;  
         2. provide contradicting, fabricated, or misleading information, or omitting relevant  
@@ -126,15 +125,13 @@ the processing undertaken without valid lawful basis.
 
 Approved:
 
-                                           SGD.  
+   SGD.  
                                   JOHN HENRY D. NAGA  
                                    Privacy Commissioner
 
-                 SGD.                                                SGD.  
+   SGD.                                                SGD.  
     LEANDRO ANGELO Y. AGUIRRE                               NERISSA N. DE JESUS  
       Deputy Privacy Commissioner                         Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: REGULATION (EU) 2022/2065 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act), Article 3 (m) (19 October 2022).
 

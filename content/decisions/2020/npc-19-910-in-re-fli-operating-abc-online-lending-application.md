@@ -1,11 +1,17 @@
 ---
-title: "NPC 19-910: IN RE: FLI OPERATING ABC ONLINE LENDING APPLICATION"
-description: "This Commission issued , on 14 May 2019 , Privacy Commission Special Order Nos. 028 and 032 -"
+title: "NPC 19-910: In Re: FLI Operating ABC Online Lending Application"
+description: "Sua sponte investigation into ABC online lending mobile application resulting in finding of widespread unauthorized processing of personal information affecting thousands of data subjects with recommendation for prosecution for multiple DPA violations."
+aliases:
+  - "NPC 19-910"
+  - "npc 19-910"
+  - "FLI Operating ABC Online Lending Application"
+  - "fli operating abc online lending application"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2020"
+  - "year/2019"
   - "npc-case"
+date: "2020-12-17"
 draft: false
 ---
 
@@ -21,38 +27,14 @@ draft: false
 - Transparency, Proportionality, Online Lending Application, Sua Sponte Investigation, Unauthorized Processing (Section 25), Incurring Criminal Liability, Consent, Retention of Personal Data, Personal Information Controller, Principle of Accountability, Processing for Unauthorized Purposes (Section 28), Extent of Liability (Section 34), Gross Negligence
 
 ## Decision Text
-> 5th Floor, Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov .ph Email Address: info@privacy.gov.ph
 
-IN RE : FLI OPERATING ABC
+IN RE: FLI OPERATING ABC ONLINE LENDING APPLICATION
 
-ONLINE LENDING
+x----------------------------------------------------x
 
-APPLICATION
+AGUIRRE, D.P.C.:
 
------x---------------------------------------x
-
-NPC 19 -910
-
-For violation of the
-
-Data Privacy Act of 2012
-
-AGUIRRE, D.P.C.
-
-This concludes the investigation conducted by the Commission
-
-following the Fact -Finding Report prepared by the NPC Task Force on
-
-Online Lending Mobile Applications 1 (Task Force) dated 29 August
-
-2019 , which serves as the Complaint (Complaint ) pursuant to Rule IV
-
-of NPC Circular 16 -04. 2 The Complaint allege d violations of R epublic
-
-Act (R.A.) 10173 or the Data Privacy Act of 2012 (DPA) by FLI ,
-
-operating the ABC online lending application.
+This concludes the investigation conducted by the Commission following the Fact-Finding Report prepared by the NPC Task Force on Online Lending Mobile Applications[^1] (Task Force) dated 29 August 2019, which serves as the Complaint (Complaint) pursuant to Rule IV of NPC Circular 16-04.[^2] The Complaint alleged violations of Republic Act (R.A.) 10173 or the Data Privacy Act of 2012 (DPA) by FLI, operating the ABC online lending application.
 
 The Complaint summarized its findings with the following
 
@@ -68,7 +50,7 @@ board of directors, committed acts in violation of the DPA,
 
 specifically:
 
-1. Sections 11, 12, 13, 16, 20, and 21, for p rocessing
+1. Sections 11, 12, 13, 16, 20, and 21, for processing
 
 without complying with the requirements of the
 
@@ -76,7 +58,7 @@ DPA and for failing to adhere to the principles of
 
 > 1
 
-This Commission issued , on 14 May 2019 , Privacy Commission Special Order Nos. 028 and 032 -
+This Commission issued , on 14 May 2019 , Privacy Commission Special Order Nos. 028 and 032-
 
 A, creating and reconstituting the NPC Task Force on Online Lending Mobile Applications. Said
 
@@ -88,20 +70,18 @@ potential violation of the DPA. The Task Force is also mandated to provide optio
 
 recommendations for the Commission to immediately address concerns of the public. In
 
-accomplishing this function, the Ta sk Force submitted a fact -finding report on several online
+accomplishing this function, the Task Force submitted a fact-finding report on several online
 
 lending companies, one of which is the herein Respondents.
 
 > 2
 
-NPC Circular 16 -04. Rules of Procedure of the National Privacy Commission. Dated 15
+NPC Circular 16-04. Rules of Procedure of the National Privacy Commission. Dated 15
 
-December 2016. NPC 19 -910
+December 2016. NPC 19-910
 
 > In re: FLI
 > Page 2of 42
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 Transparency, Legitimate Purpose and
 
@@ -117,7 +97,8 @@ Purpos es;
 
 5. Section 32, for Unauthorized Disclosure. 3
 
-The Complaint
+### The Complaint
+
 
 The Complaint made the following allegations:
 
@@ -177,12 +158,10 @@ complainants against the company operating the ABC lending
 
 application were evaluated. It states that individual complainants
 
-> 3Fact -Finding Report dated 29 August 2019, p. 23.
-> 4Id at 1 . NPC 19 -910
+> 3Fact-Finding Report dated 29 August 2019, p. 23.
+> 4Id at 1 . NPC 19-910
 > In re: FLI
 > Page 3of 42
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 relay ed the incidents in the course of their transaction with the
 
@@ -263,11 +242,9 @@ your contacts. Posting your uploaded picture from Loan
 apps to social media.
 
 > 5Id at 2.
-> 6Id ,at 3. NPC 19 -910
+> 6Id ,at 3. NPC 19-910
 > In re: FLI
 > Page 4of 42
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 We know your home address, office address, and your ugly
 
@@ -340,11 +317,9 @@ data or the operation of other apps. For example , the ability to read the
 > 7Ibid.
 > 8Id at p. 4.
 > 9ABC App Preliminary Technical Report, 09 Au gust 2019, P.4, citing
-> https://developer.android/com/guide/topics/permissions/overview#dangerous_permissions NPC 19 -910
+> https://developer.android/com/guide/topics/permissions/overview#dangerous_permissions NPC 19-910
 > In re: FLI
 > Page 5of 42
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 user’s contacts is a dangerous permission. If an app declares that it
 
@@ -372,7 +347,7 @@ officers specifically, ML , CW , KF , JG , HJL , and BSJ , are all
 
 instructed to file their respective Answers to the allegations in
 
-the Fact -Finding Report.
+the Fact-Finding Report.
 
 The Answer should be filed no later than ten (10) days from
 
@@ -413,11 +388,9 @@ within which to file their respective answer or such other
 responsive pleading.
 
 > 10 Ibid.
-> 11 Order to File an Answer, dated 30 August 2019. NPC 19 -910
+> 11 Order to File an Answer, dated 30 August 2019. NPC 19-910
 > In re: FLI
 > Page 6of 42
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 On 17 September 2019, a Motion for Extension to File Answer with
 
@@ -475,18 +448,16 @@ all the requests of the Respondents for additional time to file their
 
 Answers, finding that these were all duly filed within the allowable
 
-period of time .NPC 19 -910
+period of time .NPC 19-910
 
 > In re: FLI
 > Page 7of 42
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 As regards the prayer of Respondents ML , CW , and BSJ for the
 
 in itiation of mediation proceedings, the Commission denied this and
 
-cited NPC Circular 16 -04 which states thus:
+cited NPC Circular 16-04 which states thus:
 
 Section 26. Mediation officer. – The Commission shall
 
@@ -548,11 +519,9 @@ phones to contact the user or other parties, which is what these
 
 collection agents did. 12
 
-> 12 Order dated 8 January 2020. NPC 19 -910
+> 12 Order dated 8 January 2020. NPC 19-910
 > In re: FLI
 > Page 8of 42
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 The Commission thereafter ordered the Respondents to
 
@@ -570,7 +539,7 @@ corporation; and
 
 service provider / processor referred to in their Answer
 
-as of 29 August (the date of the Fact -Finding Report)
+as of 29 August (the date of the Fact-Finding Report)
 
 containing the provisions they mentioned in Paragraph
 
@@ -624,11 +593,9 @@ negligence, and violation of work standards or company
 
 policies”.
 
-> 13 Ibid. NPC 19 -910
+> 13 Ibid. NPC 19-910
 > In re: FLI
 > Page 9of 42
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 4.5 Annex “E” is a copy of the presentation of FLI on its ongoing
 
@@ -670,7 +637,7 @@ Commission hereby resolves to ORDER Respondents to appear
 
 for a clarificatory hearing on 24 SEPTEMBER 2020 at 2:00 PM , in
 
-relation to its submissions for the case of NPC 19 -910 .
+relation to its submissions for the case of NPC 19-910 .
 
 The Commission later received a  Notice of Withdrawal filed by the law
 
@@ -696,10 +663,8 @@ hearing to 01 October 2020, guided by  NPC Advisory No. 2020 -02 or
 
 “Guidelines on the Use of Videoconferencing Technology for the
 
-> 14 Compliance dated 20 February 2020. NPC 19 -910
+> 14 Compliance dated 20 February 2020. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 Remote Appearance and Testimony of Parties Before the National
 
@@ -773,11 +738,9 @@ a result of the complaints filed with FLI Lending, Inc.;
 
 following provisions in the Master Service Agreement dated 12
 
-October 2018; NPC 19 -910
+October 2018; NPC 19-910
 
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 • Article VI, Section 2. Unprofessional Practices in the
 
@@ -853,10 +816,8 @@ and
 
 e. Master Service Agreement between FLI and CSA .15
 
-> 15 Compliance dated 26 November 2020. NPC 19 -910
+> 15 Compliance dated 26 November 2020. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 Issues
 
@@ -918,10 +879,8 @@ The Commission takes the opportunity to discuss the nature of a sua
 
 sponte investigation.
 
-> 16 Answer by Respondents FLI ,ML ,CW , and BSJ dated 15 October 2019 .Page 13 .NPC 19 -910
+> 16 Answer by Respondents FLI ,ML ,CW , and BSJ dated 15 October 2019 .Page 13 .NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 The NPC is an independent body created to administer and implement
 
@@ -969,7 +928,7 @@ information necessary to perform its functions under this Act;
 
 In the exercise of its rule -making power and to flesh out the provision
 
-above, the NPC issued NPC Circular 16 -04 19 on 15 December 2016.
+above, the NPC issued NPC Circular 16-04 19 on 15 December 2016.
 
 Section 3 thereof provides who may file complaints with the
 
@@ -985,16 +944,14 @@ personally affected by a violation of the Data Privacy Act, may
 
 file complaints for violations of the Act.
 
-Further, Section 23 of the NPC Circular 16 -04 provides for the NPC’s
+Further, Section 23 of the NPC Circular 16-04 provides for the NPC’s
 
 power of original inquiry:
 
 > 17 See, RA 10173, Section 7.
 > 18 See, Id., Section 2.
-> 19 NPC Circular 16 -04. NPC Rules of Procedure. Dated 15 December 2016. NPC 19 -910
+> 19 NPC Circular 16-04. NPC Rules of Procedure. Dated 15 December 2016. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 SECTION 23. Own initiative. – Depending on the nature of the
 
@@ -1018,7 +975,7 @@ to compel appropriate action to protect the interests of data
 
 subjects.
 
-The NPC Circular 16 -04 provides for the procedure in instances of sua
+The NPC Circular 16-04 provides for the procedure in instances of sua
 
 sponte investigations , thus :
 
@@ -1026,7 +983,7 @@ SECTION 24. Uniform procedure. – The investigation shall be in
 
 accordance with Rule III of these Rules, provided that the
 
-respondent shall be provided a copy of the fact -finding report
+respondent shall be provided a copy of the fact-finding report
 
 and given an opportunity to submit an answer. In cases where
 
@@ -1038,7 +995,7 @@ when so ordered, the Commission shall render its decision on the
 
 basis of available information. 20
 
-The Fact -Finding Report , therefore, serves as the Complaint in sua
+The Fact-Finding Report , therefore, serves as the Complaint in sua
 
 sponte investigations and is not yet a Decision by the Commission.
 
@@ -1050,7 +1007,7 @@ opportunity to provide their side. This is precisely why the
 
 Commission, in an Order dated 30 August 2019, directed Respondents
 
-to file an Answer in response to the allegations in the Fact -Finding
+to file an Answer in response to the allegations in the Fact-Finding
 
 Report.
 
@@ -1064,12 +1021,10 @@ complaints .
 
 In the Answer filed by Respondents FLI , ML , CW , and BSJ , they
 
-allege d that :
+alleged that :
 
-> 20 Ibid, Emphasis supplied. NPC 19 -910
+> 20 Ibid, Emphasis supplied. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 46. The proceedings in the instant case also appear to be
 
@@ -1079,7 +1034,7 @@ involving actual, individual complainants which remain
 
 pending at various stages before the Honorable Commission.
 
-47. The Fact -Finding Report mentions that there are a “total of
+47. The Fact-Finding Report mentions that there are a “total of
 
 113 complainants as of 31 July 2019 which have been filed with
 
@@ -1111,7 +1066,7 @@ the Honorable Commission should have first allowed the
 
 individual complaints against FLI [to] be threshed out by the
 
-Complaints and Investigation, before creating a fact -finding
+Complaints and Investigation, before creating a fact-finding
 
 committee, also from within the Honorable Commission, which
 
@@ -1131,7 +1086,7 @@ abeyance. 21
 
 The Commission refers once more to the abovementioned Sections 3,
 
-23, and 24 of NPC Circular 16 -04 which provides the nature of a sua
+23, and 24 of NPC Circular 16-04 which provides the nature of a sua
 
 sponte investigation.
 
@@ -1145,10 +1100,8 @@ case on hand involve different parties, different causes of ac tion with
 
 different prayers of relief.
 
-> 21 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 . Page 14. NPC 19 -910
+> 21 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 . Page 14. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 The focus of th is investigation is the functionality of the ABC
 
@@ -1218,10 +1171,8 @@ While it may be true that these provisions do not fall under Chapter
 
 VIII of the DPA , which provides for the prohibited acts, these
 
-> 22 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019, page 2. NPC 19 -910
+> 22 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019, page 2. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 provisions notably cover the General Data Privacy Principles, Criteria
 
@@ -1287,10 +1238,8 @@ address, phone number, mobile phone number, financial information,
 
 credit status information, phone contacts and other related
 
-> 23 NPC Case No. 17 -018, Decision dated 15 July 2019. NPC 19 -910
+> 23 NPC Case No. 17 -018, Decision dated 15 July 2019. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 information. 24 It further cites it Privacy Policy which states that ABC
 
@@ -1359,12 +1308,10 @@ information of the borrowers when it accessed personal information
 > (4) Specifically es tablished by an executive order or an act of Congress to be kept classified.
 > 28 R.A. 10173, Section 3(j).
 
-NPC 19 -910
+NPC 19-910
 
 In re: FLI
 
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 through app permissions such as READ_CONTACTS and
 
@@ -1460,12 +1407,10 @@ information or the privileged information;
 
 and the data subject is not legally or p hysically able to express his or her consent prior to the
 
-processing; NPC 19 -910
+processing; NPC 19-910
 
 In re: FLI
 
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 Respondent FLI clai ms the consent from the borrowers as its lawful
 
@@ -1547,11 +1492,9 @@ or defense of legal claims, or when provided to government or public authority.
 
 > 32
 
-Answer by Respondents FLI , ML , CW , and BSJ dated 15 October 2019 at 7 . Emphasis supplied. NPC 19 -910
+Answer by Respondents FLI , ML , CW , and BSJ dated 15 October 2019 at 7 . Emphasis supplied. NPC 19-910
 
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 address, e -mail address, and phone number; (ii) additional information
 
@@ -1627,10 +1570,8 @@ subject for the processing of his or her personal information.
 
 Being a mere notice, it is emphasized that the privacy notice is
 
-> 33 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 at 7 . Emphasis supplied. NPC 19 -910
+> 33 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 at 7 . Emphasis supplied. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 not equivalent to consent. This document is an embodiment of
 
@@ -1706,10 +1647,8 @@ Policy and Credit Agreement according to the requirements of the
 
 DPA for consent.
 
-> 34 Advisory Opinion 2018 -013. Dated 18 April 2018. Emphasis supplied. NPC 19 -910
+> 34 Advisory Opinion 2018 -013. Dated 18 April 2018. Emphasis supplied. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 i. Respondent FLI committed
 
@@ -1781,11 +1720,9 @@ will be denied outright.
 
 user allows FLI to conduct its due diligence and credit
 
-investigation on potential customers. Thus, the processing of the NPC 19 -910
+investigation on potential customers. Thus, the processing of the NPC 19-910
 
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 contacts information of the user carries a legitimate purpose and
 
@@ -1847,10 +1784,8 @@ for lawful criteria . As held by the Commission in a decided case 37 :
 
 > 35 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 .Page 11 .
 > 36 R.A. 10173, Section 3(b). Emphasis supplied.
-> 37 NPC Case 19 -450. Dated 09 June 2020. NPC 19 -910
+> 37 NPC Case 19 -450. Dated 09 June 2020. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 [There is a need to] emphasize the need for personal information
 
@@ -1914,10 +1849,8 @@ Regulations of the Data Privacy Act of 2012, which states , “personal
 > (2017).
 > 39 Ibid.
 > 40 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 , a t 7 .
-> 41 R.A. 10173, Section 11(d). NPC 19 -910
+> 41 R.A. 10173, Section 11(d). NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 data shall be processed only if the purpose of the processing could
 
@@ -1983,10 +1916,8 @@ made by agents that they can view complainants; photos and can
 
 post them anywhere they want.
 
-> 42 IRR, § 18(c), emphasis supplied. NPC 19 -910
+> 42 IRR, § 18(c), emphasis supplied. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 ABC is also capable of determining the approximate and precise
 
@@ -2054,11 +1985,9 @@ Case No. 19 -G-573 admitted that said “text blast” was for the
 
 pu rpose of ruining complainant’s reputation:
 
-> 43 Fact -Finding Report, at 11 .
-> 44 Fact -Finding Report, at 3. NPC 19 -910
+> 43 Fact-Finding Report, at 11 .
+> 44 Fact-Finding Report, at 3. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 Hello Ma’am / Sir, your loan to ABC has been overdue. We will inform
 
@@ -2096,7 +2025,7 @@ of loan collection, in case the borrower himself is un responsive
 
 to FLI ’ collection attempts.
 
-26. Even the Fact -Finding Report quotes the foregoing
+26. Even the Fact-Finding Report quotes the foregoing
 
 provisions. While the “third parties” to whom the personal
 
@@ -2132,10 +2061,8 @@ ABC collect s personal information you provide us, which may
 
 include… (vii) phone contacts in your device needed for
 
-> 45 Id .at 4. NPC 19 -910
+> 45 Id .at 4. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 collection purposes, if in case the information provided in the
 
@@ -2209,10 +2136,8 @@ prohibited unfair debt collection practices of financing companies and
 
 > 46 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019, at 6 -7. Emphasis
 > supplied.
-> 47 See , EU General Data Protection Regulation, Recital 47, cited in NPC Case No. 17 -047. NPC 19 -910
+> 47 See , EU General Data Protection Regulation, Recital 47, cited in NPC Case No. 17 -047. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 lending companies such as the disclosure of the names and other
 
@@ -2242,7 +2167,7 @@ FLI , thus:
 
 contacts, “damage the reputation of data subjects, or harass,
 
-threaten, or coerce them to settle their loans,” as the Fact -Finding
+threaten, or coerce them to settle their loans,” as the Fact-Finding
 
 Report claims, then these acts are indeed unauthorized by the
 
@@ -2282,10 +2207,8 @@ Part 1.1 Company Organizational Structure
 > Companies (FC) and Lending Companies (LC). Dated 19 August 2019. Section 1(d).
 > 49 Ibid., at Section 2.
 > 50 Ann ex “E” is a copy of the presentation of FLI on its ongoing efforts for data collection and usage
-> as well as optimization of data collection systems NPC 19 -910
+> as well as optimization of data collection systems NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 • COLLECTOR. Responsible for the collection of overdue
 
@@ -2352,10 +2275,8 @@ Sector. 54
 > 51 Ibid . Emphasis supplied.
 > 52 See , Transcript p. 8.
 > 53 See, Transcript at 23 -25.
-> 54 Fact -Finding Report, Annex B. NPC 19 -910
+> 54 Fact-Finding Report, Annex B. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 The DPA provides for the Principle of Accountability and concomitant
 
@@ -2423,10 +2344,8 @@ As discussed previously, the first and second elements are met in this
 
 case . The third element , which should differentiate Processing for
 
-> 55 R.A. 10173, Section 21. NPC 19 -910
+> 55 R.A. 10173, Section 21. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 Unauthorized Purposes under Section 28 from Unauthorized
 
@@ -2498,10 +2417,8 @@ consent or some other authority in law, it was illegal from the
 
 beginning, hence the third element does not apply in this case.
 
-> 56 Chavez v. JBC, et. al. G.R. 202242. Dated 17 July 2012. NPC 19 -910
+> 56 Chavez v. JBC, et. al. G.R. 202242. Dated 17 July 2012. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 D. The penalty shall be imposed
 
@@ -2577,10 +2494,8 @@ the company and its responsible directors and officers would
 
 have been correctly impleaded as respondents.
 
-> 57 R.A. 10173, Section 34. Emphasis Supplied. NPC 19 -910
+> 57 R.A. 10173, Section 34. Emphasis Supplied. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 4. However, there is no showing by the Honorable Commission
 
@@ -2649,10 +2564,8 @@ Consequently, they should have been aware that the provisions of the
 Master Service Agreement contradicted the principles in the DPA. It
 
 > 58 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 at p. 3.
-> 59 Fernandez v. O ffice of the Ombudsman, G.R. No. 193983. 14 March 2012. NPC 19 -910
+> 59 Fernandez v. O ffice of the Ombudsman, G.R. No. 193983. 14 March 2012. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 included a provision that sough t to surrender its accountability as a
 
@@ -2723,10 +2636,8 @@ breach of contract.
 xxx
 
 > 60 Compliance dated 20 February 2020, Annex “C”. Emphasis supplied.
-> 61 R.A. 10173, Section 14. Emphasis Supplied. NPC 19 -910
+> 61 R.A. 10173, Section 14. Emphasis Supplied. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 Section 2. PENALTIES. The CONTRACTOR acknowledges that
 
@@ -2794,12 +2705,10 @@ re sponsibility in preventing unauthorized processing by its
 
 subcontractors.
 
-> 62 Fact -Finding Report, Annex “B”. Emphasis in the original.
+> 62 Fact-Finding Report, Annex “B”. Emphasis in the original.
 > 63 See, Transcript at 39.
-> 64 Compliance dated 26 November 2020, Annex 1. NPC 19 -910
+> 64 Compliance dated 26 November 2020, Annex 1. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 The Commission likewise notes th e Verified Answer of Respondents
 
@@ -2863,10 +2772,8 @@ they never did so.
 
 The Commission has formerly rule d in the NPC Case 19 -605, thus:
 
-> 65 Verified Answer dated 4 October 2020, p. 2. NPC 19 -910
+> 65 Verified Answer dated 4 October 2020, p. 2. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 In the case of Alfredo Ching vs. Secretary of Justice 66 , the Supreme
 
@@ -2952,10 +2859,8 @@ individuals will suffer such penalty. Corporate
 
 officers or employees, through whose act,
 
-> 66 G.R. No. 164317, February 6, 2006. NPC 19 -910
+> 66 G.R. No. 164317, February 6, 2006. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 default or omission the corporation commits a
 
@@ -3029,10 +2934,8 @@ Information Controllers play in ensuring that the innovation and
 
 growth that happens in the Philippines continue to abide by the laws
 
-> 67 NPC Case No. 19 -605. NPC 19 -910
+> 67 NPC Case No. 19 -605. NPC 19-910
 > In re: FLI
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 and ethical practices , leading to products and services that are free from
 
@@ -3078,12 +2981,10 @@ Privacy Commissioner
 
 JOHN HENRY D. NAGA
 
-Deputy Privacy Commissioner NPC 19 -910
+Deputy Privacy Commissioner NPC 19-910
 
 In re: FLI
 
-> 5th Floor, Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 COPY FURNISHED:
 

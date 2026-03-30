@@ -1,13 +1,23 @@
 ---
-title: "NPC 18-010: RLA V. PLDT Enterprise"
-description: "5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC 18-010
+- npc 18-010
+date: '2024-01-01'
+description: 5th Floor, Philippine International Convention Center, Vicente Sotto
+  Avenue, Pasay City, Metro Manila 1307
 draft: false
+reference: NPC 18-010
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC 18-010: RLA V. PLDT Enterprise'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC 18-010
@@ -21,7 +31,6 @@ draft: false
 - Personal Information Controller, Consent, Processing Necessary for Compliance with a Legal Obligation (Section 12 (c)), Processing for Unauthorized Purposes (Section 28), Malicious Disclosure (Section 31), Unauthorized Disclosure (Section 32), Gross Negligence
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 RLA ,
 
@@ -41,8 +50,7 @@ This Commission resolves the Motion of Reconsideration filed by
 
 PLDT Enterpr ise on the Decision dated 17 December 2020.
 
-Facts
-
+### Facts
 On 17 December 202 0, the Commission issued a Decision and held
 
 PLDT Enterp rise (PLDT ) liable for violation of RLA ’s ( RLA ) rights
@@ -77,13 +85,11 @@ recommending the mat ter to the Secretary of Justice for criminal
 
 prosecution.
 
-NPC 18 -010
+NPC 18010
 
 (Formerly CID Case
 
-18 -D-010) NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+18D-010) NPC 18010
 
 SO ORDERED. 1
 
@@ -123,9 +129,9 @@ known as the Public Service Commission Rules and Regulations
 
 (Section 149 of Revised Order 1) and National Telecommunications
 
-Commission (NTC) Memorandum Circular No. 05 -06 -2007, otherwise
+Commission (NTC) Memorandum Circular No. 05062007, otherwise
 
-known as the Consumer Protection Gui delines (NTC MC 05 -06 -2007):
+known as the Consumer Protection Gui delines (NTC MC 05062007):
 
 [A]t the time the application of the Complainant was processed,
 
@@ -137,7 +143,7 @@ known as the Public Service Commission Rules and Regulations
 
 (“Order No. 1”) and National Telecommunications Commission
 
-Memorandum Circular No. 05 -06 -2007, otherwise known as the
+Memorandum Circular No. 05062007, otherwise known as the
 
 Consumer Protection Guidelines (“NTC Circular”), to issue a
 
@@ -151,16 +157,12 @@ existing accounts in the White Pages, the listing directory for
 
 PLDT ’s corporate accounts (“White Pages”). 6
 
-> 1Decision, 17 Decembe r 2020, at 26, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 20 20 )(pending) .
-> 2Motion for Reconsideration, 05 August 2021, at 1, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 20 21 )(pending) .
-> 3Id. at 1 -2.
+> 1Decision, 17 Decembe r 2020, at 26, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 20 20 )(pending) .
+> 2Motion for Reconsideration, 05 August 2021, at 1, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 20 21 )(pending) .
+> 3Id. at 12.
 > 4Id. at 5.
 > 5Id. at 9 .
 > 6Id. at 2 .Emphasis supplied.
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 Section 149 of Revised Order 1 provides:
 
@@ -178,7 +180,7 @@ subscriber’s everyday use of his telephone. Each subscriber
 
 shall be entitled to a free copy of the directory. 7
 
-Section 2.2 of NTC MC 05 -06 -2007 states:
+Section 2.2 of NTC MC 05062007 states:
 
 Section 2.2 - Any data supplied by the consumer shall be
 
@@ -198,11 +200,11 @@ service provider, the consumer shall be given the option not
 
 to be listed in succeeding publications. 8
 
-PLDT further explain s its legal obligation under NTC MC 05 -06 -2007
+PLDT further explain s its legal obligation under NTC MC 05062007
 
 as follows:
 
-Section 2.2 of NTC [MC 05 -06 -2007] shows that the subscriber is
+Section 2.2 of NTC [MC 05062007] shows that the subscriber is
 
 given the option not to be included in succeeding public directory
 
@@ -236,14 +238,12 @@ subscriber opts not to be listed. 9
 
 > 7Public Service Commission, Rules and Regulations for all Public Services, Revised Order No. 1, Commonwealth Act No.
 > 146, § 149 (1941).
-> 8National Telecommunication Commission, Consumer Protection Guidelines [NTC Memo. Circ. No. 05 -06 -2007], § 2.2 (8
+> 8National Telecommunication Commission, Consumer Protection Guidelines [NTC Memo. Circ. No. 05062007], § 2.2 (8
 > June 2007).
-> 9Motion for Reconsideration, 05 August 2021, at 3, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 20 21 )(pending).
+> 9Motion for Reconsideration, 05 August 2021, at 3, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 20 21 )(pending).
 > Emphasis supplied.
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 PLDT argues that consent is not the sole criterion for lawful processing
 
@@ -279,13 +279,13 @@ the NTC Circular. 11
 
 PLDT asserts that it fully complied with its legal obligation under NTC
 
-MC 05 -06 -2007:
+MC 05062007:
 
 It must also be noted that Respondent has complied with the
 
 qualifying clause under Section 2.2 of NTC Memorandum
 
-No. 05 06 -2007. As will be further discussed, immediately
+No. 05 062007. As will be further discussed, immediately
 
 upon receiving Complainant's request, Respondent tagged
 
@@ -322,10 +322,6 @@ Complainant's concerns, his account was promptly tagged as
 > 12 Id.
 > 13 Id. at 6 .
 
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
-
 confidential; (ii) application forms were revisited to ensure
 
 compliance with t he DPA; and (iii) policies and processes
@@ -334,7 +330,7 @@ were redefined pursuant to the additional guidelines
 
 provided by this Honorable Commission in its Advisory
 
-Opinion No 2018 -021 dated 27 April 2018 (the "Advisory
+Opinion No 2018021 dated 27 April 2018 (the "Advisory
 
 Opinion"). With these measures in place, none of
 
@@ -364,7 +360,7 @@ operations. 15
 
 It is also worth noting that while the DPA has been in effect
 
-since 2 012, the DPA -IRR was promulgated only in August 2016
+since 2 012, the DPAIRR was promulgated only in August 2016
 
 and was fully implemented in 2017, and the recommended
 
@@ -390,7 +386,7 @@ PLDT further provides that it revised its Corporate Individual DSL
 
 Application Form on 10 September 2018 based on the guidance
 
-provided by the Commission through Advisory Opinion No. 2018 -021:
+provided by the Commission through Advisory Opinion No. 2018021:
 
 With the guidance provided by this Honorable Commission,
 
@@ -403,12 +399,10 @@ Enterprise Group that directory listing in its CRM system shall
 be defaulted to “CONFIDENTIAL” from the previous default
 
 > 14 Id. Emphasis supplied.
-> 15 Motion for Reconsideration, 05 August 2021, at 6, in RLA v. PLDT Enterp rise ,NPC 18 -010 (NPC 2021) (pending).
+> 15 Motion for Reconsideration, 05 August 2021, at 6, in RLA v. PLDT Enterp rise ,NPC 18010 (NPC 2021) (pending).
 > 16 Id. at 7. Emphasis supplied.
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 of “PUBLISHED”. Respondent revisited its forms and
 
@@ -440,7 +434,7 @@ Group of the Respondent, which was made a party to this case,
 
 is in the business of providing communication services to
 
-corporate clients (i.e. juridical, non -individual customers).
+corporate clients (i.e. juridical, nonindividual customers).
 
 Consequently, t he Enterprise Group does not directly provide
 
@@ -487,10 +481,6 @@ PLDT in order to allow PLDT to provide the necessary services:
 > 17 Id.
 > 18 Id. at 9. Emphasis supplied.
 > 19 Id.
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 Complainant had no participation in accomplishing the said
 
@@ -573,11 +563,9 @@ necessary to provide the service obtained by Knu tsen for its
 employees. All of these facts are consistent with an outsourcing
 
 > 20 Id. at 11.
-> 21 Motion for Reconsideration, 05 August 2021, at 11, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 21 Motion for Reconsideration, 05 August 2021, at 11, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 agreement for the processing of personal information between
 
@@ -599,8 +587,7 @@ On 26 October 2021, RLA filed its Comment/ Opposition to PLDT ’s
 
 Motion for Reconsideration .24
 
-Discussion
-
+### Discussion
 The Commission denies PLDT ’s Motion for Reconsideration. The
 
 Commission finds no reason to overturn the Decision dated 17
@@ -640,16 +627,12 @@ acted as a PIP since the installation and the publication of RLA ’s
 > 22 Id.
 > 23 Id. at 12.
 > 24 Comment/ Opposition to the Respondent’s Motion for Reconsideration, 26 October 2021, in RLA v. PLDT Enterp rise ,
-> NPC 18 -010 (NPC 20 21 )(pending) .
+> NPC 18010 (NPC 20 21 )(pending) .
 > 25 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government
 > and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy
 > Act of 2012], Republic Act No. 10173 § 3 (h) (2012) .
 > 26 Id .
 > 27 Id. § 3 (i).
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 personal information resulted from the instructions of the PIC,
 
@@ -699,7 +682,7 @@ The Implementing Rules and Regulations of the DPA (IRR) defines
 
 control as deciding on the information to be collected, or the purpose
 
-or extent of its processing .35 Through its decision -making power, a PIC
+or extent of its processing .35 Through its decisionmaking power, a PIC
 
 determines the purposes and means of processing personal
 
@@ -707,21 +690,19 @@ information, the categories to be processed, and access to such
 
 personal information. 36 These are the very acts that PLDT performed.
 
-> 28 Motion for Reconsideration, 05 August 2021, at 10 -11, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 28 Motion for Reconsideration, 05 August 2021, at 1011, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 > 29 Id. at 10 .
 > 30 National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No.
 > 10173, rule I, § 3 (f) (2016) .
-> 31 Motion for Reconsideration, 05 August 2021, at 10 -11, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 31 Motion for Reconsideration, 05 August 2021, at 1011, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 > 32 Id. at 10.
-> 33 Decision, 17 December 2020, at 10, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2020) (pending).
-> 34 Motion for Reconsideration, 05 August 2021, at 10, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 33 Decision, 17 December 2020, at 10, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2020) (pending).
+> 34 Motion for Reconsideration, 05 August 2021, at 10, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 > 35 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule I, § 3 (m).
 > 36 EUROPEAN UNION AGENCY FOR FUNDAMENTAL RIGHTS AND COUNCIL OF EUROPE ,HANDBOOK ON EUROPEAN DATA
 > PROTECTION LAW 104 –105 (2018).
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 In this case, PLDT maintains that “the information collected from
 
@@ -795,12 +776,8 @@ and/or to protect the PLDT network and other PLDT
 
 subscribers.
 
-> 37 Motion for Reconsideration, 05 August 2021, at 11, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 37 Motion for Reconsideration, 05 August 2021, at 11, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 > 38 Id. at 10.
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 If the PLDT Data Services is used in a way which in PLDT ’s
 
@@ -876,13 +853,11 @@ directory listings as “Confidential” instead of “Published”. 43
 
 > 39 PLDT Terms and Conditions, at 2. Emphasis supplied.
 > 40 Id.
-> 41 Motion for Reconsideration, 05 August 2021, at 6, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 41 Motion for Reconsideration, 05 August 2021, at 6, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 > 42 Id.
 > 43 Id.
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 These acts show that PLDT can change the classification of subscribers
 
@@ -922,13 +897,13 @@ reserves for itself in providing DSL services to its subscribers.
 
 II. There is no conflict between PLDT ’s obligations under Section
 
-149 of Revised Order 1 and NTC MC 05 -06 -2007 and the DPA.
+149 of Revised Order 1 and NTC MC 05062007 and the DPA.
 
 The Commission finds no conflict between the obligations imposed on
 
 PLDT by the NTC, its primary regulator , and the DPA. In its analysis,
 
-the Commission is not enforcing NTC MC 05 -06 -07 , but rather , it is
+the Commission is not enforcing NTC MC 050607 , but rather , it is
 
 fulfilling its mandate under the DPA to examine the presence of , and
 
@@ -942,18 +917,14 @@ PLDT maintains that it published RLA ’s personal information in the
 
 mandate under Section 149 of the Revised Order No. 1, and NTC MC
 
-05 -06 -2007. 45
+05062007. 45
 
 Section 149 of Revised Order 1 requires telephone public service
 
 providers, such as PLDT , to issue a listing directory at least once a year:
 
 > 44 Rules and Regulations Implementing the Data Privacy Act of 201 2, Republic Act No. 10173, rule X, § 44 (b) (1).
-> 45 Motion for Reconsideration, 05 August 2021, at 1 -2, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
+> 45 Motion for Reconsideration, 05 August 2021, at 12, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 
 Section 149. Telephone Directory. – Each telephone public
 
@@ -973,25 +944,25 @@ While it is true that Section 149 of Revised Order 1 mandates PLDT to
 
 publish a listing directory, this should not be read in isolation and
 
-must be taken together with Section 2.2 of NTC MC 05 -06 -2007. This is
+must be taken together with Section 2.2 of NTC MC 05062007. This is
 
 something that PLDT itself recognized when it identified both Revised
 
-Order 1 and NTC MC 05 -06 -2007 as the source of its legal obligation to
+Order 1 and NTC MC 05062007 as the source of its legal obligation to
 
 publish a listing directory. 47
 
-NTC MC 05 -06 -2007 is an administrative circular issued by the NTC .
+NTC MC 05062007 is an administrative circular issued by the NTC .
 
 The nature of an administrative circular is “to supplement provisions
 
 of law or to provide means for carrying them out, including
 
-information relating thereto.” 48 NTC MC 05 -06 -2007 is inten ded to “fill
+information relating thereto.” 48 NTC MC 05062007 is inten ded to “fill
 
 in the details” 49 of Section 149 of Revised Order 1. Section 2.2 of NTC
 
-MC 05 -06 -2007 supplements Section 149 of Revised Order 1. It states:
+MC 05062007 supplements Section 149 of Revised Order 1. It states:
 
 Section 2.2 - Any data supplied by the consumer shall be
 
@@ -1011,30 +982,28 @@ service provider, the consumer shall be given the option not
 
 to be listed in succeeding publications. 50
 
-With the issuance of NTC MC 05 -06 -2007, PLDT ’s obligation under
+With the issuance of NTC MC 05062007, PLDT ’s obligation under
 
 Section 149 of Revised Order 1 is necessarily qualified by Section 2.2 of
 
-NTC MC 05 -06 -2007. The legal obligation to publish a listing directory
+NTC MC 05062007. The legal obligation to publish a listing directory
 
 at least once a year under Section 149 of Revised Order 1 still subsists
 
 but now carries wi th it the requirements under Section 2.2 of NTC MC
 
-05 -06 -2007 , as also acknowledged in the dissent. 51
+05062007 , as also acknowledged in the dissent. 51
 
 > 46 Rules and Regulations for all Public Services, Revised Order No. 1, Commonwealth Act No. 146, § 149. Emphasis
 > supplied.
-> 47 Motion for Reconsideration, 05 August 2021, at 2, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 47 Motion for Reconsideration, 05 August 2021, at 2, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 > 48 Office of the President, Instituting the Administrative Code of 1987, Executive Order No. 292, Series of 1987 [E.O. No.
 > 292, s. 1987], Book IV Chapter 11 § 50 (25 July 1987).
-> 49 Tanada v. Tuvera , G.R. No. L -63915 (1986).
-> 50 NTC Memo. Circ. No. 05 -06 -2007, § 2.2 .
-> 51 See, Liboro Dissenting Opinion, 10 December 2021, at 6 ,in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 49 Tanada v. Tuvera , G.R. No. L63915 (1986).
+> 50 NTC Memo. Circ. No. 05062007, § 2.2 .
+> 51 See, Liboro Dissenting Opinion, 10 December 2021, at 6 ,in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 As the Commission held in its Decision dated 17 December 2020 :
 
@@ -1046,7 +1015,7 @@ to do so in a manner that upholds the data subject’s rights
 
 to data privacy .52
 
-Even a cursory reading of Section 2.2 of NTC MC 05 -06 -2007 will show
+Even a cursory reading of Section 2.2 of NTC MC 05062007 will show
 
 that the obligations it imposes are not in conflict with the DPA . The
 
@@ -1064,7 +1033,7 @@ protected upon subscription , and to give their subscribers the option
 
 not to be listed in succeeding publications, Section 2.2 of NTC MC 05 -
 
-06 -2007 is consistent with the general privacy principle of
+062007 is consistent with the general privacy principle of
 
 transparency, the rights of data subjects, and the concept of consent
 
@@ -1100,12 +1069,8 @@ obligation to secure from subscribers the affirmative act of consenting
 
 to the publication of his/her contact information before a service
 
-> 52 Decision, 17 December 2020, at 14 ,in RLA v. PLDT Enterp rise ,NPC 18 -010 (NPC 2020) (pending). Emphasis supplied.
+> 52 Decision, 17 December 2020, at 14 ,in RLA v. PLDT Enterp rise ,NPC 18010 (NPC 2020) (pending). Emphasis supplied.
 > 53 Data Privacy Act of 2012, § 3 (b). Emphasis supplied.
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 provider can include the subscriber’s information in the directory ”54 ,
 
@@ -1115,7 +1080,7 @@ information of its subscribers in a listing directory requires consent
 
 from its data subject s.
 
-Section 2.2 of NTC MC 05 -06 -2007 imposes the following obligations
+Section 2.2 of NTC MC 05062007 imposes the following obligations
 
 on public telecommunication entities:
 
@@ -1139,11 +1104,11 @@ upon subscription .55
 
 Having been issued in 2007, it is not surprising that the wording in the
 
-NTC MC 05 -06 -2007 does not exactly mirror the concept of consent in
+NTC MC 05062007 does not exactly mirror the concept of consent in
 
 the DPA. Nevertheless, t he obligations under Section 2.2 of NTC MC
 
-05 -06 -2007 resonate with the concept of consent that is freely given,
+05062007 resonate with the concept of consent that is freely given,
 
 specific, and an informed indication of will.
 
@@ -1173,15 +1138,13 @@ choice to exercise the option, whatever option they exercise should be
 
 a subscriber who chooses not to exercise the option, evidence of that
 
-> 54 Motion for Reconsideration, 05 August 2021, at 3, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
-> 55 NTC Memo. Circ. No. 05 -06 -2007, § 2.2 .
+> 54 Motion for Reconsideration, 05 August 2021, at 3, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
+> 55 NTC Memo. Circ. No. 05062007, § 2.2 .
 > 56 Id.
 > 57 Id.
 > 58 Data Privacy Act of 2012, § 3 (b). Emphasis supplied.
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 may be in the form of a n unticked box in a form that provides all the
 
@@ -1193,27 +1156,27 @@ to subscribers is clearly provided, an unticked box still suffices to show
 
 the choice exercised by the subscriber for purposes of satisfying the
 
-requisites of Section 2.2 of NTC MC 05 -06 -2007.
+requisites of Section 2.2 of NTC MC 05062007.
 
 In agreeing with PLDT ’s p osition, the dissent argues that “ PLDT ’s
 
-legal obligation to publish is the default position, while an opt -out of
+legal obligation to publish is the default position, while an optout of
 
 the consumer is required for it to remove the personal information in
 
 the succeeding publications and thereby treat the same as confidential,
 
-consistent with Section 2.2 of the NTC MC 05 -06 -2007.” 59
+consistent with Section 2.2 of the NTC MC 05062007.” 59
 
 Both PLDT and the dissent, however, neglected to discuss how the
 
-PLDT subscribers would even be able to exercise this opt -out
+PLDT subscribers would even be able to exercise this optout
 
 considering that PLDT failed to specifically inform its data subjects of
 
 everything it needed to comply with under Section 2.2 of NTC MC 05 -
 
-06 -2007 : 1) inform its subscribers of their privacy rights and how their
+062007 : 1) inform its subscribers of their privacy rights and how their
 
 data will be protected, and 2) the specific option to not be listed in the
 
@@ -1221,9 +1184,9 @@ listing directory. Without fulfilling these conditions attached to its
 
 legal obligation, how would the subscribers even know that they can
 
-request this opt -out in the first place? Such an interpretation that
+request this optout in the first place? Such an interpretation that
 
-renders useless the protections provided not just by NTC MC 05 -06 -
+renders useless the protections provided not just by NTC MC 0506 -
 
 2007 but also the DPA cannot be considered acceptable. It is a basic
 
@@ -1243,18 +1206,14 @@ information in the White Pages.
 
 The dissent itself acknowledges that PLDT failed to comply with
 
-Section 2.2 of NTC MC 05 -06 -2007 but attempts to downplay its
+Section 2.2 of NTC MC 05062007 but attempts to downplay its
 
 significance by claiming it only resulted in a violation of the general
 
 privacy principle of transparency, thus:
 
-> 59 Liboro Dissenting Opinion, 10 December 2021, at 6 ,in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 20 21 )(pending) .
+> 59 Liboro Dissenting Opinion, 10 December 2021, at 6 ,in RLA v. PLDT Enterp rise , NPC 18010 (NPC 20 21 )(pending) .
 > 60 JMM Promotions & Management, Inc. v. National Labor Relations Commission, G.R. No. 109835, 22 November 1993.
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 PLDT ’s failure to abide by Section 2.2 of the NTC MC can be
 
@@ -1268,7 +1227,7 @@ transparency is not a small thing. It affects the lawful basis relied upon
 
 by PLDT especially considering it resulted in rendering useless the
 
-protections provided by NTC MC 05 -06 -07 and consequently, the
+protections provided by NTC MC 050607 and consequently, the
 
 DPA.
 
@@ -1318,15 +1277,13 @@ worded, the statement does not sufficiently make the lawful basis
 
 known to the data subject.
 
-> 61 Liboro Dissenting Opinion, 10 December 2021, at 10 ,in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 20 21 )(pending) .
-> 62 Motion for Reconsideration, 05 August 202 1, at 11, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
-> 63 Comment to the Complaint dated 31 March 2018, 05 October 2018, at 4 -6, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC
+> 61 Liboro Dissenting Opinion, 10 December 2021, at 10 ,in RLA v. PLDT Enterp rise , NPC 18010 (NPC 20 21 )(pending) .
+> 62 Motion for Reconsideration, 05 August 202 1, at 11, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
+> 63 Comment to the Complaint dated 31 March 2018, 05 October 2018, at 46, in RLA v. PLDT Enterp rise , NPC 18010 (NPC
 > 2018).
-> 64 Liboro Dissenting Opinion, 10 December 2021, at 12 ,in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 20 21 )(pending) .
+> 64 Liboro Dissenting Opinion, 10 December 2021, at 12 ,in RLA v. PLDT Enterp rise , NPC 18010 (NPC 20 21 )(pending) .
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 Based on the statement in its Terms and Conditions, PLDT cannot
 
@@ -1364,7 +1321,7 @@ include authority or consent to publish the list of names,
 
 contact information and address in the White Pages .65
 
-Despite the clear provisions of Section 2.2 of NTC MC 05 -06 -2007,
+Despite the clear provisions of Section 2.2 of NTC MC 05062007,
 
 PLDT failed to comply with the obligations provided therein from its
 
@@ -1390,7 +1347,7 @@ by Complainant. 66
 
 The Corporate Individual DSL Application Form for RLA ’s account
 
-did not contain any of the information required under NTC MC 05 -06 -
+did not contain any of the information required under NTC MC 0506 -
 
 2007, including the option to be excluded from publication . As
 
@@ -1400,12 +1357,8 @@ RLA of the opportunity to give his consent but also prevented him
 
 from knowing that such an option even exists :
 
-> 65 Decision, 17 December 2020, at 11, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending). Emphasis supplied.
+> 65 Decision, 17 December 2020, at 11, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending). Emphasis supplied.
 > 66 Id. at 1 1-12. Emphasis supplied.
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 Pieces of evidence at hand, particularly the PLDT
 
@@ -1431,7 +1384,7 @@ Application Form on 10 September 2018 even though the DPA and its
 
 IRR were passed in 2012 and 2016 , respectively .68 The inaction and
 
-belated actions of PLDT from the issuance of NTC MC 05 -06 -2007 in
+belated actions of PLDT from the issuance of NTC MC 05062007 in
 
 2007 can hardly be considered the proactive response claimed by the
 
@@ -1455,7 +1408,7 @@ Information Sheet (Application Form). This remediation
 
 measure notwithstanding, printed customer in formation for
 
-subscribers acquired pre -08 July 2017 have been included in
+subscribers acquired pre08 July 2017 have been included in
 
 the directory listing by default. PLDT Group determines and
 
@@ -1476,15 +1429,13 @@ be both compliant with the rules and regulations prescribed
 by the NTC and the requirements of the DPA and its IRR.
 
 > 67 Id. at 14. Emphasis supplied.
-> 68 Comment to the Complaint dated 31 March 2018, 05 October 2018, at Annex B, in RLA v. PLDT Enterp rise , NPC 18 -010
+> 68 Comment to the Complaint dated 31 March 2018, 05 October 2018, at Annex B, in RLA v. PLDT Enterp rise , NPC 18010
 > (NPC 2018) (pending) .
-> 69 Liboro Dissenting Opinion, 10 December 2021, at 16 ,in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 20 21 )(pending) .
-> 70 Motion for Reconsideration by PLDT , Inc., 05 August 2021, at 8, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021)
+> 69 Liboro Dissenting Opinion, 10 December 2021, at 16 ,in RLA v. PLDT Enterp rise , NPC 18010 (NPC 20 21 )(pending) .
+> 70 Motion for Reconsideration by PLDT , Inc., 05 August 2021, at 8, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021)
 > (pending).
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 In return, NTC in a letter dated 30 October 2017, requested
 
@@ -1492,7 +1443,7 @@ an advisory opinion regarding the residential directory
 
 listing of PLDT and its group of affiliates to fulfill PLDT 's
 
-obligations as a telephone service provider vis -à-vis its
+obligations as a telephone service provider visà-vis its
 
 compliance with the DPA. It attached PLDT ’s letter dated 18
 
@@ -1504,7 +1455,7 @@ be found in the records of this case. On the contrary, the evidence on
 
 record shows that there was absolutely no action taken by PLDT from
 
-the time NTC MC 05 -06 -2007 was issued in 2007 until the events that
+the time NTC MC 05062007 was issued in 2007 until the events that
 
 gave rise to the Complaint .
 
@@ -1522,7 +1473,7 @@ September 2018, and re defined its policies and processes based on the
 
 Advisory Opinion 72 it requested from the Commission .73
 
-PLDT ’s obligation to comply with Section 2.2 of NTC MC 05 -06 -2007
+PLDT ’s obligation to comply with Section 2.2 of NTC MC 05062007
 
 cannot be excused simply because it sought guidance from the
 
@@ -1540,7 +1491,7 @@ comply with it.
 
 Also, PLDT only sought clarification from the Commission in 2017
 
-despite NTC MC 05 -06 -2007’s issuance in 2007, and the DPA’s
+despite NTC MC 05062007’s issuance in 2007, and the DPA’s
 
 effectivity in 2012 .75 In fact, PLDT only provided the option for its
 
@@ -1548,20 +1499,16 @@ subscribers to be excluded from publication in the listing directory in
 
 2018. 76
 
-> 71 Liboro Dissenting Opinion, 10 December 2021, at 14, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 71 Liboro Dissenting Opinion, 10 December 2021, at 14, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 > 72 See National Privacy Commission, Advisory on Telephone Directories, Advisory Opinion No. 21, Series of 2018 (27
 > April 2018).
-> 73 See Liboro Dissenting Opinion, 10 December 2021, at 6, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 73 See Liboro Dissenting Opinion, 10 December 2021, at 6, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 > 74 Villafuerte v. C ordial, Jr ., G.R. No. 222450 (2020).
 > 75 See National Privacy Commission, Advisory on Telephone Directories, Advisory Opinion No. 2 1, Series of 2018 (27
 > April 2018).
-> 76 See Liboro Dissenting Opinion, 10 December 2021, at 6, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 76 See Liboro Dissenting Opinion, 10 December 2021, at 6, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
-
-The failure to comply with Section 2.2 of NTC MC 05 -06 -2007 for a
+The failure to comply with Section 2.2 of NTC MC 05062007 for a
 
 period of eleven years from the issuance of th is Memorandum
 
@@ -1575,7 +1522,7 @@ by the NTC, its primary regulator, and yet, it failed to do so. Any claim
 
 of good faith is untenable because PLDT neither attempted nor took
 
-any action to comply with NTC MC 05 -06 -2007 from the time it was
+any action to comply with NTC MC 05062007 from the time it was
 
 issued .
 
@@ -1633,9 +1580,7 @@ laws.
 
 > 77 Data Privacy Act of 2012 ,§ 28. Emphasis supplied.
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 The first two requisites of Processing for Unauthorized Purposes have
 
@@ -1707,13 +1652,9 @@ services which Knutsen ’s employees will use to perform
 
 their duties and responsibilities during their employment. 79
 
-> 78 Motion for Reconsideration by PLDT , Inc., 05 August 2021, at 11, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021)
+> 78 Motion for Reconsideration by PLDT , Inc., 05 August 2021, at 11, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021)
 > (pending).
 > 79 Id.
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 PLDT itself admitted in its Motion for Reconsideration that RLA
 
@@ -1781,11 +1722,9 @@ information in the listing directory without his authority.
 
 > 80 Id.
 > 81 Id.
-> 82 Decision, 17 December 2020, at 11 ,in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 20 20 )(pending) .Emphasis supplied.
+> 82 Decision, 17 December 2020, at 11 ,in RLA v. PLDT Enterp rise , NPC 18010 (NPC 20 20 )(pending) .Emphasis supplied.
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 PLDT asserts that it lawfully processed RLA ’s personal information
 
@@ -1855,14 +1794,10 @@ Commission is not enforcing the law or regulat ion that the PIC claims
 
 to be subjected to. Rather, the Commission is strictly enforcing the
 
-> 83 Motion for Reconsideration ,05 August 2021, at 2, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 83 Motion for Reconsideration ,05 August 2021, at 2, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 > 84 Data Privacy Act of 2012 ,§ 12 (c). Emphasis supplied.
 > 85 EUROPEAN UNION AGENCY FOR FUNDAMENTAL RIGHTS AND COUNCIL OF EUROPE ,HANDBOOK ON EUROPEAN DATA
 > PROTECTION LAW 152 (2018).
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 provisions of the DPA and determining if the PIC’s claim of processing
 
@@ -1878,7 +1813,7 @@ PLDT argues that its mandate to publish stems from its legal obligation
 
 under Section 149 of Revised Order 1 and Section 2.2 of NTC MC 05 -
 
-06 -2007 86 :
+062007 86 :
 
 Respondent was mandated by Section 149 of the Revised
 
@@ -1888,7 +1823,7 @@ Commission Rules and Regulations (“Order No. 1”) and
 
 National Telecommunications Commission Memorandum
 
-Circular No. 05 -06 -2007, otherwise known as the Consumer
+Circular No. 05062007, otherwise known as the Consumer
 
 Protection Guidelines (“NTC Circular”) to issue a listing
 
@@ -1896,7 +1831,7 @@ directory of the names, addresses, and telephone numbers of
 
 all of its subscribers at least once a year. 87
 
-PLDT also highlights that Section 2.2 of NTC MC 05 -06 -2007 provides
+PLDT also highlights that Section 2.2 of NTC MC 05062007 provides
 
 that the subs criber may request for his or her exclusion from
 
@@ -1918,18 +1853,17 @@ subscriber’s information in the directory.” 90
 
 There is no question that PLDT is subject to its legal obligation under
 
-Section 149 of Revised Order 1 and Section 2.2 of NTC MC 05 -06 -07.
+Section 149 of Revised Order 1 and Section 2.2 of NTC MC 050607.
 
 2. The processing of the data subject’s personal information is
 
 necessary to comply with the legal obligation .
 
-> 86 Motion for Reconsideration ,05 August 2021, at 2, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 86 Motion for Reconsideration ,05 August 2021, at 2, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 > 87 Id.
 > 88 Id. at 3.
 > 89 Id.
-> 90 Id. NPC 18 -010
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+> 90 Id. NPC 18010
 
 To consider compliance with a legal obligation as a valid criterion for
 
@@ -1995,7 +1929,7 @@ criterion for lawful processing requires compliance with its legal
 
 obligation under both Section 149 of Revised Order 1 and Section 2.2
 
-of NTC MC 05 -06 -2007. It , therefore , follows that determining the legal
+of NTC MC 05062007. It , therefore , follows that determining the legal
 
 obligation that PLDT is required to comply with necessarily includes
 
@@ -2004,19 +1938,15 @@ an examination of the obligations imposed by those two provisions. As
 > 91 Data Privacy Act of 2012 ,§ 12 (c).
 > 92 Id. § 11.
 
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
-
 previously discussed, for PLDT to say that it published the listing
 
 directory in compliance with a legal obligation under Section 149 of
 
-Revised Order 1 and Section 2.2 of NTC MC 05 -06 -200 7, it must
+Revised Order 1 and Section 2.2 of NTC MC 0506200 7, it must
 
 demonstrate that it also fulfilled the conditions under Section 2.2 of
 
-NTC MC 05 -06 -2007, which includes securing the consent of its
+NTC MC 05062007, which includes securing the consent of its
 
 subscribers before publishing their personal information in the listing
 
@@ -2042,7 +1972,7 @@ listing directory .
 
 The Commission reiterates that compliance with the legal obligation
 
-imposed by NTC MC 05 -06 -2007 necessitates securing the consent of
+imposed by NTC MC 05062007 necessitates securing the consent of
 
 the data subject, which is consistent with transparency and consent
 
@@ -2076,11 +2006,9 @@ RLA could not have reasonably foreseen that PLDT intended to
 
 process his personal information by publishing it in the listing
 
-> 93 Decision, 17 December 2020, at 11 in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 20 20 )(pending) .
+> 93 Decision, 17 December 2020, at 11 in RLA v. PLDT Enterp rise , NPC 18010 (NPC 20 20 )(pending) .
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 directory. In fact, the statement in the Terms and Conditions stated in
 
@@ -2104,7 +2032,7 @@ first place.
 
 It bears stressing that the obl igations and conditions provided in
 
-Section 2.2 of NTC MC 05 -06 -2007 are directed to PLDT as the one
+Section 2.2 of NTC MC 05062007 are directed to PLDT as the one
 
 subject to the regulatory jurisdiction of the NTC , its primary regulator.
 
@@ -2138,13 +2066,13 @@ personal informatio n would be protected, and inform them of their
 
 option to not be listed in succeeding publications of PLDT ’s listing
 
-directory. The NTC issued NTC MC 05 -06 -2007 as early as 2007 , but
+directory. The NTC issued NTC MC 05062007 as early as 2007 , but
 
 PLDT failed to comply with the requirements under the Circular.
 
 Stemming from PLDT ’s positive obligation to secure the consent of the
 
-data subject under both NTC MC 05 -06 -2007 and the DPA, PLDT must
+data subject under both NTC MC 05062007 and the DPA, PLDT must
 
 show that it communicated to its subscribers the option to not be listed
 
@@ -2156,11 +2084,7 @@ excluded from publication of his personal information in the listing
 
 directory it published in 2017 . T he Ap plication Form for the Corporate
 
-> 94 Motion for Reconsideration, 05 August 2021, at 3, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
+> 94 Motion for Reconsideration, 05 August 2021, at 3, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 
 Individual DSL account subject of this case was signed on 21 December
 
@@ -2184,7 +2108,7 @@ Absent a clear showing that PLDT fully complied with the obligations
 
 and conditions set out in both Section 149 of Revised Order 1 and
 
-Section 2.2 of NTC MC 05 -06 -2007, it failed to fulfil its legal obligation.
+Section 2.2 of NTC MC 05062007, it failed to fulfil its legal obligation.
 
 As such, PLDT cannot rely on compliance with a legal obligation as its
 
@@ -2228,12 +2152,10 @@ other persons who may be given a copy thereof. 98
 
 > 95 PLDT Application Form for Corporate Individual DSL Account (21 December 2015).
 > 96 Letter from Knutsen Philippines , Inc. to PLDT , Inc. (12 April 2016).
-> 97 Decision, 17 December 2020, at 19 ,in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 20 20 )(pending) .
+> 97 Decision, 17 December 2020, at 19 ,in RLA v. PLDT Enterp rise , NPC 18010 (NPC 20 20 )(pending) .
 > 98 Id.
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 Section 32 of the DPA on Unauthorized Disclosure states:
 
@@ -2311,10 +2233,6 @@ first, the disclosed personal information is unwarranted or false, and
 > 100 Id. § 31.
 > 101 Id.
 
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
-
 second, the disclosure is malicious or in bad faith. If either of these
 
 two requisites is absent , then the offense falls under Section 3 2 or
@@ -2386,9 +2304,7 @@ intent of the whole enactment. 104
 > 104 Fort Bonifacio Development Corp. v. Commissioner of Internal Revenue, G.R. Nos. 158885 & 170680 (Resolution)
 > (2009).
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 Section 32 of the DPA should not be read in isolation. It should be read
 
@@ -2448,7 +2364,7 @@ it actually narrows the extent to which disclosu re of personal
 
 information may be considered as unauthorized disclosure.
 
-In this case, however, the obligation imposed by NTC MC 05 -06 -2007
+In this case, however, the obligation imposed by NTC MC 05062007
 
 is based on the consent of the subscribers. As previously discussed,
 
@@ -2465,10 +2381,6 @@ the subscribers avail themselves of the option to be included in the
 > 105 JMM Promotions & Management, Inc. , G.R. No. 109835 (1993). Emphasis supplied.
 > 106 People v. Liban, G.R. Nos. 136247 & 138330 (2000).
 
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
-
 listing directory after being informed by PLDT of such option that
 
 PLDT may publish their personal information.
@@ -2481,7 +2393,7 @@ failed to present the option to not be included in the listing directory
 
 to any of its subscribers despite being required to do so by NTC MC
 
-05 -06 -2007 , which was issued as early as 2007. PLDT did not present
+05062007 , which was issued as early as 2007. PLDT did not present
 
 the option and secure its subscribers’ consent until 10 September
 
@@ -2499,7 +2411,7 @@ By publishing its subscribers’ personal information in the White Pages
 
 without their consent , contr ary to the provisions of Section 2.2 of NTC
 
-MC 05 -06 -2007 , and distributing free copies of the White Pages to all
+MC 05062007 , and distributing free copies of the White Pages to all
 
 its subscribers, who are considered third parties under the DPA , PLDT
 
@@ -2531,15 +2443,13 @@ not “rise to the level o f gross negligence that would merit criminal
 
 sanction.” 109 PLDT , however, failed to present substantial evidence to
 
-> 107 Comment to the Complaint dated 31 March 2018, 05 October 2018, at Annex B, in RLA v. PLDT Enterp rise , NPC 18 -010
+> 107 Comment to the Complaint dated 31 March 2018, 05 October 2018, at Annex B, in RLA v. PLDT Enterp rise , NPC 18010
 > (NPC 2018) (pending) .
 > 108 Casco v. N LRC , G.R. No. 200571 (2018).
-> 109 Motion for Reconsideration, 05 August 2021, at 6, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
+> 109 Motion for Reconsideration, 05 August 2021, at 6, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 > Emphasis supplied .
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 support its statement that its responsible officers should not be held
 
@@ -2581,7 +2491,7 @@ violations of Sections 28 and 32. 112
 
 In any case, the violation of Sections 28 and 32 arose because PLDT
 
-failed to abide by Section 2.2 of NTC MC 05 -06 -2007. PLDT should
+failed to abide by Section 2.2 of NTC MC 05062007. PLDT should
 
 have been aware of the conditions stated in Section 2.2 since it was
 
@@ -2589,7 +2499,7 @@ issued by NTC, its primary regulator.
 
 Further, in its representations, PLDT made it seem that Section 149 of
 
-Revised Order 1 and Section 2.2 of NTC MC 05 -06 -2007 require the
+Revised Order 1 and Section 2.2 of NTC MC 05062007 require the
 
 mandatory publication of the personal information of the data subject.
 
@@ -2605,27 +2515,23 @@ Revised Order 1 requires public telecommunications entities to
 
 > 110 United Claimants Association of NEA v. National Electrification Administration , G.R. No. 187107 (2012); Cordova v.
 > Ty, G.R. No. 246255 (2021).
-> 111 Decision, 17 December 2020, at 22 ,in RLA v. PLDT Enterp rise ,NPC 18 -010 (NPC 20 20 )(pending) .
+> 111 Decision, 17 December 2020, at 22 ,in RLA v. PLDT Enterp rise ,NPC 18010 (NPC 20 20 )(pending) .
 > 112 Id. at 23.
-> 113 Motion for Reconsideratio n, 05 August 2021, at 5, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021) (pending).
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
+> 113 Motion for Reconsideratio n, 05 August 2021, at 5, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021) (pending).
 
 publish a directory listing at least once a y ear, such legal obligation is
 
-subject to the conditions in Section 2.2 of NTC MC 05 -06 -2007.
+subject to the conditions in Section 2.2 of NTC MC 05062007.
 
 PLDT , however, made no effort whatsoever to bring its processing of
 
 personal information in line with the obligations imposed on public
 
-telecommunication entities enumerated in NTC MC 05 -06 -2007 , much
+telecommunication entities enumerated in NTC MC 05062007 , much
 
 less the DPA. In fact,  PLDT selectively limited its appreciation of
 
-Section 2.2 of NTC MC 05 -06 -2007 to the last sentence. In its Motion for
+Section 2.2 of NTC MC 05062007 to the last sentence. In its Motion for
 
 Reconsideration, PLDT argues that:
 
@@ -2667,7 +2573,7 @@ parts of a harmonious whole.” 115
 
 Despite this, both the dissent and PLDT conveniently ignored the other
 
-sentences in Section 2.2 of NTC MC 05 -06 -2007. They failed to address
+sentences in Section 2.2 of NTC MC 05062007. They failed to address
 
 or recognize its other obligations, which are in fact harmonious with
 
@@ -2684,15 +2590,13 @@ to consent to the publication of his personal information in the 2017
 White Pages.
 
 > 114 Id. at 3.
-> 115 Liboro Dissenting Opinion, 10 December 2021, at 8 ,in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 20 21 )(pending) .
+> 115 Liboro Dissenting Opinion, 10 December 2021, at 8 ,in RLA v. PLDT Enterp rise , NPC 18010 (NPC 20 21 )(pending) .
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 In failing to fulfil its obligations according to Section 2. 2 of NTC MC
 
-05 -06 -2007, PLDT ’s acts resulted in a violation of the DPA since it
+05062007, PLDT ’s acts resulted in a violation of the DPA since it
 
 processed personal information for an unauthorized purpose, and
 
@@ -2710,7 +2614,7 @@ Any finding of gross negligence is not removed by any corrective
 
 actions taken by PLDT . It had all the opportunities to comply with its
 
-obligations under NTC MC 05 -06 -2007. PLDT should have complied
+obligations under NTC MC 05062007. PLDT should have complied
 
 with its obligations from the time the Circular was issued in 2007.  The
 
@@ -2720,7 +2624,7 @@ prompted PLDT to conduct a closer examination of its processing
 
 activities, including the obligations imposed by its primary regulator
 
-in NTC MC 05 -06 -2007. Yet, PLDT failed to do so.
+in NTC MC 05062007. Yet, PLDT failed to do so.
 
 PLDT should have at least tried to acquire the consent of all its
 
@@ -2763,10 +2667,6 @@ processed. 117 Had PLDT intended to act to the best of its intentions, it
 > 116 Data Privacy Act of 201 2, § 38. Emphasis supplied.
 > 117 Id.
 
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
-
 would have resolved any supposed confusion in favor of an
 
 interpretation that gives greater protection to the rights of its data
@@ -2781,13 +2681,13 @@ did it] admonish PLDT nor issue other orders that would indicate that
 
 PLDT has been publishing in White Pages in violation of the NTC MC
 
-05 -06 -2007.” 118
+05062007.” 118
 
 Aside from the fact that these cannot again be found in the records of
 
 this case, the argument is misplaced. To be clear, the Commission is
 
-not enforcing the provisions of NTC MC 05 -06 -07. Rather, it is simply
+not enforcing the provisions of NTC MC 050607. Rather, it is simply
 
 fulfilling its mandate under the DPA to examine the presence of , and
 
@@ -2833,13 +2733,11 @@ equity, and judiciousness in its decisions” 120 , the dissent never
 
 bothered to discuss what about the majority opinion, and
 
-> 118 Liboro Dissenting Opinion, 10 December 2021, at 9 ,in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 20 21 )(pending) .
+> 118 Liboro Dissenting Opinion, 10 December 2021, at 9 ,in RLA v. PLDT Enterp rise , NPC 18010 (NPC 20 21 )(pending) .
 > 119 Id. at 9.
 > 120 Id. at 2.
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 consequently his own Decision , is unfair or unjust based on the law
 
@@ -2908,12 +2806,8 @@ criteria provided under the law.
 > enforcers, especially against those who willfully violate the law. As NPC advances, the Commission is urged to put on
 > wider lenses when adjudicating cases to enable the PICs to thrive and en courage organizational accountability without fear
 > of being put behind bars while meting justice to data subjects.”
-> 122 See, Liboro Dissenting Opinion, 10 December 2021, at 17, in RLA v. PLDT Enterp rise , NPC 18 -010 (NPC 2021)
+> 122 See, Liboro Dissenting Opinion, 10 December 2021, at 17, in RLA v. PLDT Enterp rise , NPC 18010 (NPC 2021)
 > (pending).
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 WHEREFORE, premises considered, the Commission resolves to
 
@@ -2927,15 +2821,11 @@ City of Pasay, Philippines .
 
 10 December 2021 .
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 I CONCUR:
-
-Sgd.
 
 JOHN HENRY D. NAGA
 
@@ -2957,7 +2847,7 @@ AACRC
 
 Counsel for Respondent
 
-COMPLAINTS AND INVESTIGATION DIVISION NPC 18 -010
+COMPLAINTS AND INVESTIGATION DIVISION NPC 18010
 
 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
@@ -2965,9 +2855,7 @@ ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
 
-National Privacy Commission NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
+National Privacy Commission NPC BN 18010
 
 RLA ,
 
@@ -3027,9 +2915,9 @@ Commission should be sustained which found that PLDT Enterprise
 
 (Respondent or PLDT ) is liable for violation of Sections 28 and 32 of
 
-> 123 NPC 18 -010 Decision dated 17 December 2020.
+> 123 NPC 18010 Decision dated 17 December 2020.
 
-NPC 18 -010
+NPC 18010
 
 (Formerly CID Case
 
@@ -3039,9 +2927,7 @@ For: Violation of the
 
 Data Privacy Act of
 
-2012 NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+2012 NPC 18010
 
 the Data Privacy Act of 2012 (DPA), awarded nominal damages to
 
@@ -3069,9 +2955,9 @@ Commission must consider real scenarios that affect real lives and
 
 livelihood to provide guidance to present and future privacy
 
-practitioners, litigators, judges, or justices for all DPA -related cases.
+practitioners, litigators, judges, or justices for all DPArelated cases.
 
-Rather than applying the law mechanically or in a straight -jacket,
+Rather than applying the law mechanically or in a straightjacket,
 
 the Commission must also factor equity, fairness, and judiciousness
 
@@ -3081,7 +2967,7 @@ Commission adjudicates has its peculiar f acts which may have a
 
 bearing on the present issue at hand.
 
-Each decision has the potential to create far -reaching implications.
+Each decision has the potential to create farreaching implications.
 
 The Commission can set precedents that may enhance how privacy
 
@@ -3105,9 +2991,7 @@ PLDT Enterprise for the following reasons:
 
 I. PLDT has lawful basis for processing
 
-Complainant’s personal information NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
+Complainant’s personal information NPC BN 18010
 
 The personal data of Complainant involved in this case is personal
 
@@ -3189,9 +3073,7 @@ under the DPA or under existing laws, to quote:
 > 125 Section 13 of the DPA.
 > 126 Supra.
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 SEC. 28. Processing of Personal Information and Sensitive
 
@@ -3267,10 +3149,6 @@ telephone numbers and addresses. The circumstances of the times
 > 128 Public Service Commission, Public Service Commission Rules and Regulations for all Public Services, Revised Order No.
 > 1, Sect ion 149.
 
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
-
 dictate the need for the publication. The wo rdings of Section 149 were
 
 prepared at a time where people used paper copies of telephone
@@ -3281,7 +3159,7 @@ The most popular device to communicate back then is the telephone.
 
 Undoubtedly, being part of the telephone directory have its benefits
 
-and correspondin g trade -offs. Each one of us who had landlines
+and correspondin g tradeoffs. Each one of us who had landlines
 
 experienced receiving prank calls by reason of being part of the PLDT
 
@@ -3313,11 +3191,11 @@ In relation to Section 149 of Revised Order No. 1, the National
 
 Telecommunications Commission (NTC) issued Memorandum
 
-Circular No. 05 -06 -2007 dated 08 June 2007 (Consumer Protection
+Circular No. 05062007 dated 08 June 2007 (Consumer Protection
 
-Guidelines or NTC MC 05 -06 -2007), which provides:
+Guidelines or NTC MC 05062007), which provides:
 
-Section 2.2 -Any data supplied by the consumer shall be treated
+Section 2.2Any data supplied by the consumer shall be treated
 
 as confidential by the entity or service provider mentioned under
 
@@ -3335,34 +3213,32 @@ consumer shall be given the option not to be listed in
 
 succeeding publications. 129
 
-Since NTC MC 05 -06 -2007 is a later issuance, the provisions of Section
+Since NTC MC 05062007 is a later issuance, the provisions of Section
 
 149 of Revised Order No. 1 , the PSC’s Rules and Regulations for all
 
 public services , is considered amended or modified only insofar as
 
-> 129 National Telecommunication Commission, Consumer Protection Guidelines [NTC Memo. Circ. No. 05 -06 -2007], Section
+> 129 National Telecommunication Commission, Consumer Protection Guidelines [NTC Memo. Circ. No. 05062007], Section
 > 2.2 (08 June 2007).
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 giving the consumer the option not to be listed in succeeding
 
 publications.
 
-While it is true that NTC MC 05 -06 -2007 effectively subjected Section
+While it is true that NTC MC 05062007 effectively subjected Section
 
 149 of Revised Order No. 1 the PSC’s Rules and Regulations to the
 
-condition set forth by NTC MC 05 -06 -2007, NTC MC 05 -06 -2007 did
+condition set forth by NTC MC 05062007, NTC MC 05062007 did
 
 not remove the legal obligation of telephone public service
 
 providers to publish the telephone directory at least once a year.
 
-That the NTC MC 05 -06 -2007 did not remove the legal obligation to
+That the NTC MC 05062007 did not remove the legal obligation to
 
 publish the list of names in telephone directories, is bolstered upon
 
@@ -3372,13 +3248,13 @@ For everyone to benefit from these new technologies and innovations,
 
 the free flow of information needs to be ensured. Thus, the NTC MC
 
-05 -06 -2007 was issued to address wider consumer protection. NTC MC
+05062007 was issued to address wider consumer protection. NTC MC
 
-05 -06 -2007 is an issuance that aims to address Consumer Protection
+05062007 is an issuance that aims to address Consumer Protection
 
 Guidelines. 130 It was issued by the NTC to curb the then proliferation
 
-of push messaging, 131 spam messages, 132 and value -added services 133
+of push messaging, 131 spam messages, 132 and valueadded services 133
 
 (VAS) by Public Telecommunications Entities (PTEs) such as PLDT ,
 
@@ -3398,7 +3274,7 @@ sought to address.
 
 The intent of the guidelines become more obvious when reading
 
-through Sections 2.2 to 2.12 of the NTC MC 05 -06 -2007 which revolve
+through Sections 2.2 to 2.12 of the NTC MC 05062007 which revolve
 
 around the obligation of Telecommunications providers to prevent
 
@@ -3407,23 +3283,19 @@ unauthorized charges against subscribers to protect and uphold
 consumer rights. 136
 
 > 130 Subject Title, Id.
-> 131 National Telecommunication Commission, Consumer Protection Guidelines [NTC Memo. Circ. No. 03 -03 -2007], Section
+> 131 National Telecommunication Commission, Consumer Protection Guidelines [NTC Memo. Circ. No. 03032007], Section
 > 3 (03 July 2006).
 > 132 Section 4, Id.
-> 133 National Telecommunication Commission, Voice Over Internet Protocol [NTC Memo. Circ. No. 05 -08 -2005], Section 2
+> 133 National Telecommunication Commission, Voice Over Internet Protocol [NTC Memo. Circ. No. 05082005], Section 2
 > (e), (23 August 2005)
-> 134 National Telecommunication Commission, Consumer Protection Guidelines [NTC Memo. Circ. No. 05 -06 -2007], Section
+> 134 National Telecommunication Commission, Consumer Protection Guidelines [NTC Memo. Circ. No. 05062007], Section
 > 1.1 (08 June 2007).
-> 135 National Telecommunication Commission, Voice Over Internet Protocol [NTC Memo. Circ. No. 02 -05 -2008], Section 2
+> 135 National Telecommunication Commission, Voice Over Internet Protocol [NTC Memo. Circ. No. 02052008], Section 2
 > (I). (30 May 2005).
-> 136 See National Telecommunication Commission, Voice Over Internet Protocol [NTC Memo. Circ. No. 02 -05 -2008], at
+> 136 See National Telecommunication Commission, Voice Over Internet Protocol [NTC Memo. Circ. No. 02052008], at
 > Sections 2.2 to 2.11. (30 May 2005).
 
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
-
-NTC MC 05 -06 -2007 did not make the publication of the telephone
+NTC MC 05062007 did not make the publication of the telephone
 
 directory optional. Neither did the NTC Memorandum Circular
 
@@ -3449,15 +3321,15 @@ information in the directory. 137
 
 In effect, PLDT is introducing an interpret ation that PLDT ’s legal
 
-obligation to publish is the default position, while an opt -out of the
+obligation to publish is the default position, while an optout of the
 
 consumer is required for it to remove the personal information in the
 
 succeeding publications and thereby treat the same as confidential,
 
-consistent with Section 2.2 of the NTC MC 05 -06 -2007.
+consistent with Section 2.2 of the NTC MC 05062007.
 
-To address this contention, NTC MC 05 -06 -2007 must be read as a
+To address this contention, NTC MC 05062007 must be read as a
 
 whole applying the principle of “ut res magis valeat quam pereat” as
 
@@ -3491,9 +3363,8 @@ statute must be taken into consideration in order to ascertain its
 
 meaning. (Emphasis and underlining supplied)
 
-> 137 Motion for Reconsideration filed by PLDT on NPC 18 -010 dated 05 August 2021 at pp. 3.
-> 138 G.R. No. 183517, 22 June 2010. NPC 18 -010
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+> 137 Motion for Reconsideration filed by PLDT on NPC 18010 dated 05 August 2021 at pp. 3.
+> 138 G.R. No. 183517, 22 June 2010. NPC 18010
 
 Moreover, the Supreme Court held that in construing the law, care
 
@@ -3513,9 +3384,9 @@ with those with which it is associated. 139
 
 Following the foregoing postulates and construing the provisions of
 
-Section 2.2 of NTC MC 05 -06 -2007 in its entirety, the consumer must
+Section 2.2 of NTC MC 05062007 in its entirety, the consumer must
 
-opt -out before he/she can be removed from the succeeding
+optout before he/she can be removed from the succeeding
 
 publications which remain to be the default procedure for
 
@@ -3523,7 +3394,7 @@ telec ommunication companies as provided by Section 149 of Revised
 
 Order No. 1.
 
-Prior to the issuance of the NTC MC 05 -06 -2007, since 1958, PLDT has
+Prior to the issuance of the NTC MC 05062007, since 1958, PLDT has
 
 been publishing in the White Pages the list of names, addresses and
 
@@ -3537,15 +3408,15 @@ processing has become an industry practice supported by a legal
 
 obligation.
 
-When the NTC MC 05 -06 -2007 came to effect, the consumers were
+When the NTC MC 05062007 came to effect, the consumers were
 
-given an option to opt -out of the publication in succeeding
+given an option to optout of the publication in succeeding
 
 publications. Nevertheless, publication in the White Pages remain to
 
 be the default option without the consumers opting out.
 
-In other words, the pass age of the NTC MC 05 -06 -2007 did not stop
+In other words, the pass age of the NTC MC 05062007 did not stop
 
 the publication of the personal information of subscribers in the
 
@@ -3553,15 +3424,13 @@ White Pages in the absence of their consent. Otherwise, the NTC MC
 
 would have expressly stated so in its issuance .
 
-It may be surmised that NTC’s interpretation of the NTC MC 05 -06 -
+It may be surmised that NTC’s interpretation of the NTC MC 0506 -
 
 2007 treating the subscriber’s personal information as confidential
 
-once they opt -out from the publication is consistent with PLDT ’s
+once they optout from the publication is consistent with PLDT ’s
 
-interpretation. NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
+interpretation. NPC BN 18010
 
 Apparently, the NTC did not disallow the succeeding publications of
 
@@ -3569,13 +3438,13 @@ PLDT . It did not admonish PLDT nor issued other orders that would
 
 indicate that PLDT has been publishing in White Pages in violation of
 
-the NTC MC 05 -06 -2007. Neither did NTC issue succeeding issuances
+the NTC MC 05062007. Neither did NTC issue succeeding issuances
 
 that would clarify the matter and enforce the standards of consumer
 
-protection in NTC MC 05 -06 -2007. This is how NTC enforced the NTC
+protection in NTC MC 05062007. This is how NTC enforced the NTC
 
-MC 05 -06 -2007.
+MC 05062007.
 
 These badges manifest that to a certain extent, PLDT has been
 
@@ -3587,7 +3456,7 @@ As explained by Respondent in its Motion for Reconsideration, it has
 
 complied with the qualifying clause under Section 2.2 of NTC MC 05 -
 
-06 -2007. Upon receiving Complainant’s request, Respondent tag ged
+062007. Upon receiving Complainant’s request, Respondent tag ged
 
 the Corporate Individual Account under  Knuts en Philippines, Inc.
 
@@ -3599,7 +3468,7 @@ directories. 140
 
 Now we come to the question on the effects of the failure of PLDT to
 
-strictly comply with the provisions of NTC MC 05 -06 -2007 as to the
+strictly comply with the provisions of NTC MC 05062007 as to the
 
 validity of its processing activities after the DPA came to effect and the
 
@@ -3607,25 +3476,25 @@ NPC was established.
 
 After evaluating the con text of the issuance behind the NTC MC 05 -
 
-06 -2007, the peculiar facts and circumstances surrounding the
+062007, the peculiar facts and circumstances surrounding the
 
 processing activities, and the position adopted by the NTC which is
 
-the implementing agency for both issuances, the NTC MC 05 -06 -2007
+the implementing agency for both issuances, the NTC MC 05062007
 
 certainly did not remove PLDT ’s legal obligation to publish and
 
 process the personal data.
 
-It must be noted that the failure of PLDT to include an opt -out
+It must be noted that the failure of PLDT to include an optout
 
 option to be listed in succeeding publications is not fatal to its legal
 
 obligation to publish telephone directories. In other words, the
 
-inclusion of an opt -out function is not one that is so necessary to the
+inclusion of an optout function is not one that is so necessary to the
 
-processing questioned. The absence of the opt -out function would
+processing questioned. The absence of the optout function would
 
 not outright remove the publication requirement in the Public
 
@@ -3635,19 +3504,17 @@ additional safeguard.
 
 > 140 Id. at p. 5.
 
-NPC 18 -010
+NPC 18010
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+Nevertheless, the optout function is a consumer protection
 
-Nevertheless, the opt -out function is a consumer protection
-
-mechanism under the NTC MC 05 -06 -2007 that is aligned with the
+mechanism under the NTC MC 05062007 that is aligned with the
 
 DPA. In particular, the option not to be published in the White Pages
 
 enhances the data subject’s control over how his/her data would be
 
-processed. Moreover, Section 2.2 of NTC MC 05 -06 -2007 also
+processed. Moreover, Section 2.2 of NTC MC 05062007 also
 
 essentially requires a privacy notice that would indicate how PLDT
 
@@ -3701,8 +3568,7 @@ DPA.
 > (b) Any personal information controller or pe rsonal information processor or any of its officials, employees or agents, who
 > discloses to a third party sensitive personal information not covered by the immediately preceding section without the
 > consent of the data subject, shall be subject to imprisonm ent ranging from three (3) years to five (5) years and a fine of not
-> less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00). NPC BN 18 -010
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
+> less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00). NPC BN 18010
 
 Stated differently, if the alleged processing of personal and sensitive
 
@@ -3766,9 +3632,7 @@ accountable for other violations of the DPA. This is especially
 
 concerning their failure to include a transparency mechanis m, mainly
 
-a valid and comprehensive privacy notice, that will caution the data NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+a valid and comprehensive privacy notice, that will caution the data NPC 18010
 
 subject that their personal information would be published in the
 
@@ -3792,7 +3656,7 @@ enforcement and fining actions, often mitigating the liabilities of the
 
 PIC.
 
-There is a global consensus that factoring privacy -enhancing measures
+There is a global consensus that factoring privacyenhancing measures
 
 of PIC in the enforcement actions encourage organizational
 
@@ -3804,13 +3668,13 @@ implement accountability. 142
 
 Data privacy regulators can use organi zational accountability as
 
-evidence of good -faith efforts by organizations. Through its
+evidence of goodfaith efforts by organizations. Through its
 
 responsive regulatory approach, the NPC has pivoted from a
 
-deterrence -only regulatory approach (that threatens enforcement of
+deterrenceonly regulatory approach (that threatens enforcement of
 
-legal requirements through sanctions) to a n outcomes -based approach
+legal requirements through sanctions) to a n outcomesbased approach
 
 to regulatory oversight. 143
 
@@ -3837,17 +3701,13 @@ address the situation they perceived as a "DPA gap."
 > 142 According to Hodges (2021), “Organizational Accountability in Data Protectio n Enforcement” (pp. 8 to 10) [Whitepaper].
 > 143 Id.
 
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
-
 The “DPA gap” may be a consequence of the imperfections in the road
 
 to compliance of companies.
 
 In the questioned Decision, reference to NPC Advisory Opinion No.
 
-18 -021 was made wherein the Privacy Policy Office (PPO) of the NPC
+18021 was made wherein the Privacy Policy Office (PPO) of the NPC
 
 was sought to clarify the claim of PLDT that its “base of customers
 
@@ -3910,9 +3770,7 @@ providers such as PLDT will be both compliant with the rules and
 > 144 Paragraph 3 of PLDT letter dated 18 October 2017 at p. 1.
 > 145 Id., Paragraph 4 at p. 1.
 
-NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+NPC 18010
 
 regulations prescribed by the NTC and the requirements of the DPA
 
@@ -3924,7 +3782,7 @@ opinion from NPC regarding the residential directory listing of PLDT
 
 and its group of affiliates to fulfill PLDT 's obligations as a telephone
 
-service provider vis -à-vis its compliance with the DPA. It attached
+service provider visà-vis its compliance with the DPA. It attached
 
 PLDT ’s letter dated 18 October 2017 and requested NPC to comment
 
@@ -3966,11 +3824,11 @@ and proportionality, among other things. PLDT failed in this regard
 
 – failing to includ e the transparency mechanisms to be compliant with
 
-Section 2.2 of NTC Memorandum Circular 05 -06 -2007.
+Section 2.2 of NTC Memorandum Circular 05062007.
 
 Recommendation
 
-To recap, since  NTC MC 05 -06 -2007 is a later issuance, the provisions
+To recap, since  NTC MC 05062007 is a later issuance, the provisions
 
 of the provisions of Section 149 of Revised Order No. 1, the PSC’s Rules
 
@@ -3979,10 +3837,6 @@ and Regulations for all public services, is considered amended or
 modified as follows :
 
 > 146 Id., Paragraph 2 at p. 1.
-
-NPC BN 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 1. The listing of the subscribers’ names, addresses and telephone
 
@@ -3994,13 +3848,13 @@ prov iders are mandated to publish the telephone directory at
 
 least once a year.
 
-2. Pursuant to Section 2.2 of NTC MC 05 -06 -2007 , the consumer
+2. Pursuant to Section 2.2 of NTC MC 05062007 , the consumer
 
 shall be given the option not to be listed in succeeding
 
 publication s.
 
-3. NTC MC 05 -06 -2007 did not make the publication of the
+3. NTC MC 05062007 did not make the publication of the
 
 telephone directory optional and neither did it stop the
 
@@ -4010,11 +3864,11 @@ given the consumer the option not to be listed in succeeding
 
 publications.
 
-4. NTC MC 05 -06 -2007 did not provide for the procedure or
+4. NTC MC 05062007 did not provide for the procedure or
 
 mechanism on how the consumer shall exercise his/her option
 
-not to be listed. But NTC MC 05 -06 -2007 is clear that when the
+not to be listed. But NTC MC 05062007 is clear that when the
 
 consumer exercises his/her option not to be listed in the
 
@@ -4024,7 +3878,7 @@ comply. The option appears to be initiated by the consumer.
 
 Admittedly, PLDT in compliance with its legal obligation to publish
 
-telephone directories , failed to include an opt -out option for its
+telephone directories , failed to include an optout option for its
 
 subscribers to be listed in succeeding publications. Such failure to
 
@@ -4038,15 +3892,13 @@ information is processed without the consent of the data subject, or
 
 otherwise authorized by law.
 
-After a thorough re -examination of the case, the Decision dated 17
+After a thorough reexamination of the case, the Decision dated 17
 
 December 2020 over looked certain aspects which, if not corrected, will
 
 cause extreme and irreparable damage and prejudice as to how the
 
-DPA should be interpreted and applied. NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+DPA should be interpreted and applied. NPC 18010
 
 In good conscience, there is no qualms about imposing damages
 
@@ -4056,13 +3908,13 @@ application form.
 
 However, it must be emphasized that PLDT has since responded
 
-proactively by instilling privacy -protecting measures in its DSL
+proactively by instilling privacyprotecting measures in its DSL
 
 application forms by 2017, even before Complainant filed the instant
 
 Complaint. They also sought clarification with the NTC, culminating
 
-in NPC Advisory Opinion No. 18 -02 1. In addition, PLDT has
+in NPC Advisory Opinion No. 1802 1. In addition, PLDT has
 
 registered with the NPC and attempted to comply with all the
 
@@ -4116,8 +3968,7 @@ Commission to partially grant t he Motion for Reconsideration filed by
 
 PLDT .
 
-> 147 According to Hodges (2021), “Organizational Accountability in Data Protection Enforcement” (at p. 8) [Whitepaper]. NPC BN 18 -010
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
+> 147 According to Hodges (2021), “Organizational Accountability in Data Protection Enforcement” (at p. 8) [Whitepaper]. NPC BN 18010
 
 PLDT should not be liable for violating Section 28 of the DPA since it
 
@@ -4183,9 +4034,7 @@ nominal damages must be SUSTAINED but in the reduced amount
 
 of Ten Thousand Pesos (P1 0,000.00) on account of PLDT Enterprise ’s
 
-violation of the general data privacy principle of transparency. NPC 18 -010
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+violation of the general data privacy principle of transparency. NPC 18010
 
 The remand of the case to the Complaints and Investigation Division
 
@@ -4212,8 +4061,6 @@ Impact Assessment particularly on data flows on the application and
 subscription process of its customers to PLDT Enterprise’s products
 
 and services.
-
-(Sgd.)
 
 RAYMUND ENRIQUEZ LIBORO
 

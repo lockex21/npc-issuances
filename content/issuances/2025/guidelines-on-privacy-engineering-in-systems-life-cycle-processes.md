@@ -1,17 +1,18 @@
 ---
-title: "Guidelines On Privacy Engineering In Systems Life Cycle Processes (Advisory No. 2025-02)"
-description: "WHEREAS, pursuant to Chapter V, Section 20 (a) of the DPA, the personal information controller must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any accidental or unlawful..."
+title: "Guidelines on Privacy Engineering in Systems Life Cycle Processes (Advisory No. 2025-02)"
+description: "Provides guidance to personal information controllers and processors on integrating data privacy into systems life cycle processes through privacy-by-design and privacy-by-default approaches."
 aliases:
   - "Advisory No. 2025-02"
   - "advisory no. 2025-02"
   - "guidelines on privacy engineering in systems life cycle processes"
   - "npc advisory no. 2025-02"
 tags:
-  - "issuance"
-  - "topic/privacy-engineering"
-  - "type/advisory"
-  - "year/2025"
+  - issuance
+  - topic/privacy-engineering
+  - type/advisory
+  - year/2025
 draft: false
+date: '2025-08-27'
 ---
 
 ## Issuance Text
@@ -104,15 +105,15 @@ B. Designing and Development
 
    2. Implement appropriate security measures to maintain the confidentiality, integrity, and availability of personal data.[^7] These may include, but are not limited to:
 
-      a. Anonymization and pseudonymization to protect personal data;
+   a. Anonymization and pseudonymization to protect personal data;
 
-      b. Privacy-enhancing technologies (PETs)[^8] that either minimize or eliminate the processing of personal information;
+   b. Privacy-enhancing technologies (PETs)[^8] that either minimize or eliminate the processing of personal information;
 
-      c. Encryption for data at rest and in transit;
+   c. Encryption for data at rest and in transit;
 
-      d. Access controls to ensure that only authorized personnel can access personal data; and
+   d. Access controls to ensure that only authorized personnel can access personal data; and
 
-      e. Develop and implement a disaster recovery plan to ensure the immediate restoration of data access in the event of system failures.[^9]
+   e. Develop and implement a disaster recovery plan to ensure the immediate restoration of data access in the event of system failures.[^9]
 
    3. Implement measures within the system for data subjects to exercise their rights under the DPA,[^10] such as but not limited to: data access and download tools to request access to their personal data within the system; correction and rectification interfaces that allow users to rectify incorrect personal data; deletion or erasure options, to allow users to delete data within the system; and provide opt-in and opt-out mechanisms for specific processing of personal data;
 
@@ -120,11 +121,11 @@ B. Designing and Development
 
    5. Adopt secure software development practices that integrate privacy considerations throughout the systems life cycle processes, including:
 
-      a. Threat modelling to identify and mitigate privacy risks early in the development process;
+   a. Threat modelling to identify and mitigate privacy risks early in the development process;
 
-      b. Static and dynamic source code analysis to detect and fix security and privacy vulnerabilities; and
+   b. Static and dynamic source code analysis to detect and fix security and privacy vulnerabilities; and
 
-      c. Fuzzing[^12] to detect security and privacy issues by providing unexpected or random data as inputs.
+   c. Fuzzing[^12] to detect security and privacy issues by providing unexpected or random data as inputs.
 
    6. Establish data retention policies that define how long personal data can be stored, e.g., use of temporal data, where collected data is regularly deleted after usage;
 
@@ -171,8 +172,6 @@ Privacy Commissioner
 SGD.                                                    SGD.
 NERISSA N. DE JESUS                       JOSE AMELITO S. BELARMINO II
 Deputy Privacy Commissioner                Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: National Institute of Standards and Technology. Privacy Architecture - Glossary | CSRC, available at https://csrc.nist.gov/glossary/term/privacy_architecture#:~:text=Definitions%3A,enterprise's%20mission%20and%20strategic%20plans.
 

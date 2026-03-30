@@ -1,11 +1,17 @@
 ---
-title: "NPC 19-465: GJJ v. Creditable Lending Corporation (Easy Peso)"
+title: "NPC 19-465: GJJ v. Easy Peso"
 description: "Complaint alleging unauthorized processing of personal data for debt collection purposes was dismissed for lack of substantial evidence; complainant failed to authenticate screenshots and establish that respondent exceeded authorized use of contact list."
+aliases:
+  - "NPC 19-465"
+  - "npc 19-465"
+  - "GJJ v. Easy Peso"
+  - "gjj v. easy peso"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2022"
+  - "year/2019"
   - "npc-case"
+date: "2022-03-03"
 draft: false
 ---
 
@@ -34,7 +40,7 @@ Respondent.
 
 x----------------------------------------------------x
 
-**AGUIRRE, D.P.C.;**
+AGUIRRE, D.P.C.:
 
 Before this Commission is a Complaint filed by GJJ against Creditable Lending Corporation (Easy Peso) for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
 

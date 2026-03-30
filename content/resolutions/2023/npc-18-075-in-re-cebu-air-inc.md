@@ -1,11 +1,17 @@
 ---
 title: "NPC 18-075: In re: Cebu Air, Inc."
-description: "Breach Notification Report – 18 May 2018 Event, 21 May 2018, in In re: Cebu Pacific, NPC BN 18 -"
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC 18-075"
+  - "npc 18-075"
+  - "In re: Cebu Air, Inc."
+  - "in re: cebu air, inc."
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-02-22"
 draft: false
 ---
 
@@ -23,7 +29,6 @@ draft: false
 - and Procedures in Security Incident or Personal Data Breach
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 x----------------------------------------------------x
 
@@ -82,8 +87,6 @@ Id . at 1 .
 Id.
 
 NPC BN 18 -075 NPC BN 18 -075
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 No personal information (e.g., passport number, credit card
 
@@ -157,8 +160,6 @@ when an "anonymous guest" created a new booking.
 
 NPC BN 18 -075
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 without an existing account in the Corporation's booking
 
 management system.
@@ -229,8 +230,6 @@ ABC123.
 > 18 Id .at 5 .
 
 NPC BN 18 -075
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 If this was you, please disregard this email. No further action is
 
@@ -313,8 +312,6 @@ Id . at 2 .
 > 22
 
 Id. NPC BN 18 -075
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 the 678 bookings, where a change was executed during the
 
@@ -402,8 +399,6 @@ Id.
 
 Id. NPC BN 18 -075
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 5.2 System Development Policies, Practices, and Processes
 
 The Corporation will implement the controls it identified in its
@@ -462,8 +457,6 @@ You are hereby given a period of fifteen (15) days from receipt
 
 hereof to submit your compliance through email at
 
-complaints@privacy.gov.ph .
-
 SO ORDERED. Pasay City. 06 January 2021 [sic] .30
 
 > 29
@@ -473,8 +466,6 @@ Id . at 6 .
 > 30
 
 Order, 06 January 2021 [sic] , at 1, in In re: Cebu Pacific, NPC BN 18 -075 (NPC 2018). NPC BN 18 -075
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Cebu Pacific submitted a Post -Data Breach report dated 19 January
 
@@ -553,8 +544,6 @@ cannot be used to enable identity fraud and the incident may not
 
 NPC BN 18 -075
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 likely lead to a risk of serious harm and damage to affected data
 
 subjects.
@@ -617,8 +606,6 @@ any other information that may be used to enable identity
 > 40 Id .at 8 .
 
 NPC BN 18 -075
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 fraud.  For this purpose, “other information” shall include,
 
@@ -694,8 +681,6 @@ In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Othe
 
 Does and Jane Does , NPC SS 22 -001 and NPC SS 22 -008, 22 September 2022, at 19 , available at
 
-https://privacy.gov.ph/wp -content/uploads/2023/05/NPC -SS -22 -001 -and -NPC -SS -22 -008 -
-
 2022.09.22 -In -re -Commission -on -Elections -Decision -Final.pdf (last accessed 22 February 2023).
 
 > 43
@@ -711,8 +696,6 @@ Id. at 3.
 > 45
 
 Id. NPC BN 18 -075
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Cebu Pacific reiterated that the exposed personal information did not
 
@@ -796,8 +779,6 @@ Full Breach Report – 18 May 2018 Event, 25 May 2018, at 2, in In re: Cebu Paci
 
 NPC BN 20 -158, 21 September 2020, at 5 (NPC 2020) (unreported). NPC BN 18 -075
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 In this case, Cebu Pacific admitted that two (2) passengers reported
 
 having seen others’ booking details and names. 53  Further, it admitted
@@ -860,8 +841,6 @@ monitoring continued up to 25 May 2018.
 > 18 -075 (NPC 20 22) .
 
 NPC BN 18 -075
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Cebu Pacific also reported implementing a log -in requirement prior to
 
@@ -938,8 +917,6 @@ affected on 18 May 2018 , and constant monitoring until 25 May 2018
 
 NPC BN 18 -075
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 enabled the data subjects to take measures to protect themselves if
 
 there were any unauthorized modifications to their booking.
@@ -962,21 +939,15 @@ City of Pasay, Philippines .
 
 22 February  2023.
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
-
-Sgd.
 
 NERISSA N. DE JESUS
 
@@ -989,8 +960,6 @@ RAE
 Data Protection Officer
 
 Cebu Air, Inc. NPC BN 18 -075
-
-5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 COMPLAINTS AND INVESTIGATION DIVISION
 

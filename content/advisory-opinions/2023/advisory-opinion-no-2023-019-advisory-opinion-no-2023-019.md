@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2023-019"
-description: "Re: DISCLOSURE OF AN INDIVIDUAL CUSTOMER’S PERSONAL INFORMATION UPON THE REQUEST OF ANOTHER INDIVIDUAL CUSTOMER."
+title: "NPC Advisory Opinion No. 2023-019 — Disclosure of Customer Personal Information Upon Request of Another Customer"
+description: "Advisory Opinion on whether a service provider may disclose one customer’s home address to another customer without violating the DPA, establishing that such disclosure cannot be justified under legitimate interest and that data subjects may not access other individuals’ personal data."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,25 +11,21 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2023-019
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/Advisory-Opinion-No.-2023-019.pdf
+- Issue date: 10/17/2023
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                     ADVISORY OPINION NO. 2023-0191
 
-    17 October 2023
+   17 October 2023
 
-
-
-
-              Re:     DISCLOSURE  OF   AN   INDIVIDUAL CUSTOMER’S
+   Re:     DISCLOSURE  OF   AN   INDIVIDUAL CUSTOMER’S
                       PERSONAL INFORMATION UPON THE REQUEST OF
                       ANOTHER INDIVIDUAL CUSTOMER.
 
-
-Dear                         :
-
+Dear [Redacted],
 We respond to your request for an Advisory Opinion on the captioned matter.
+
+### Discussion
 
 You inform that G-Xchange, Inc. (GCash) received a request from one of its individual
 customers for the home address of another individual customer (Recipient). The requesting
@@ -53,10 +49,7 @@ to access does not include the disclosure to her of the Recipient’s home addre
 Thus, you ask if the refusal of GCash to provide the recipient’s home address is justified under
 the Data Privacy Act of 2012 (DPA) and other relevant issuances.
 
-
-
-
-    Tags: special cases; law enforcement; lawful processing; investigations.
+   Tags: special cases; law enforcement; lawful processing; investigations.
 
 Processing based on legitimate interest.
 
@@ -77,7 +70,7 @@ The United Kingdom’s Information Commissioner’s Office has crafted a three-p
 assessing a claim of legitimate interest as lawful basis for the processing of personal
 information, thus:
 
-     1.   Purpose test – The existence of a legitimate interest must be clearly established, including a
+   1.   Purpose test – The existence of a legitimate interest must be clearly established, including a
           determination of what the particular processing operation seeks to achieve;
      2.   Necessity test – The processing of personal information must be necessary for the purpose of
           the legitimate interest pursued by the personal information controller or third party to whom
@@ -90,7 +83,7 @@ information, thus:
 In MAF v. Shopee,5 the National Privacy Commission (NPC) adopted the three-part test above
 and provided the following conditions for processing based on legitimate interest:
 
-    Processing based on legitimate interest requires the fulfillment of the following conditions: (1)
+   Processing based on legitimate interest requires the fulfillment of the following conditions: (1)
     the legitimate interest is established; (2) the processing is necessary to fulfill the legitimate
     interest that is established; and (3) the interest is legitimate and lawful and it does not override
     the fundamental rights and freedoms of data subjects.
@@ -124,12 +117,12 @@ Recipient is also a data subject who possesses privacy rights as well.
 The Civil Code of the Philippines prohibits persons from prying into the private lives of other
 individuals,6 thus:
 
-    Every person shall respect the dignity, personality, privacy and peace of mind of his neighbors
+   Every person shall respect the dignity, personality, privacy and peace of mind of his neighbors
     and other persons and that the act of prying into the privacy of another’s residence and meddling
     with or disturbing the private life or family relations of another, though it may not constitute a
     criminal offense, shall produce a cause of action for damages, prevention and other relief:
 
-             (1) Prying into the privacy of another’s residence;
+   (1) Prying into the privacy of another’s residence;
              (2) Meddling with or disturbing the private life or family relations of another;
              (3) Intriguing to cause another to be alienated from his friends;
              (4) Vexing or humiliating another on account of his religious beliefs, lowly station in
@@ -139,16 +132,16 @@ individuals,6 thus:
 In Spouses Hing v. Choachuy, Jr. 7, the Supreme Court had the chance to elaborate on the right
 to privacy under the context of Article 26 (1) of the Civil Code. Thus, it was held:
 
-    The right to privacy is the right to be let alone.
+   The right to privacy is the right to be let alone.
 
-    The right to privacy is enshrined in our Constitution and in our laws. It is defined as "the right
+   The right to privacy is enshrined in our Constitution and in our laws. It is defined as "the right
     to be free from unwarranted exploitation of one’s person or from intrusion into one’s private
     activities in such a way as to cause humiliation to a person’s ordinary sensibilities." It is the right
     of an individual "to be free from unwarranted publicity, or to live without unwarranted
     interference by the public in matters in which the public is not necessarily concerned." Simply
     put, the right to privacy is "the right to be let alone."
 
-    The Bill of Rights guarantees the people’s right to privacy and protects them against the State’s
+   The Bill of Rights guarantees the people’s right to privacy and protects them against the State’s
     abuse of power. In this regard, the State recognizes the right of the people to be secure in their
     houses. No one, not even the State, except "in case of overriding social need and then only under
     the stringent procedural safeguards," can disturb them in the privacy of their homes. (Internal
@@ -182,9 +175,7 @@ adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV

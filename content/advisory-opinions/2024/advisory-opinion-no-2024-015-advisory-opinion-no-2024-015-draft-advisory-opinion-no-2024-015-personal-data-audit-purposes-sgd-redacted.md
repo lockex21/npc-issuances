@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2024-015 Draft Advisory Opinion No. 2024-015_Personal Data Audit Purposes_Sgd_Redacted"
-description: "We respond to your request for an Advisory Opinion on whether the Registrar (Registrar) may comply with the request of the Commission on Audit (COA) for a list of deceased persons without violating Republic Act No. 10173, or the Data Privacy Act of 2012..."
+title: "NPC Advisory Opinion No. 2024-015 — Request to Obtain Personal Data for Audit Purposes"
+description: "Advisory opinion on whether a government registrar may comply with the Commission on Audit's request for personal data of deceased persons for audit purposes under the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,21 +11,16 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2024-015
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2024/11/Advisory-Opinion-No.-2024-015-Draft-Advisory-Opinion-No.-2024-015_Personal-Data-Audit-Purposes_Sgd_Redacted.pdf
+- Issue date: 11/07/2024
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                            ADVISORY OPINION NO. 2024-00151
 
- 07 November 2024
+07 November 2024
 
+Re: REQUEST TO OBTAIN A COPY OF PERSONAL DATA FOR AUDIT PURPOSES
 
-
-
-           Re:     REQUEST TO OBTAIN A COPY OF PERSONAL DATA FOR
-                   AUDIT PURPOSES
-
-Dear
+Dear [Redacted],
 
 We respond to your request for an Advisory Opinion on whether the
 Registrar (Registrar) may comply with the request of the Commission on Audit (COA) for a
@@ -48,27 +43,23 @@ process.
 
 Thus, you seek guidance as to whether you may legally accede to the COA’s request.
 
+### Discussion
 
-
-
-1 Tags: processing; personal data; audit function; mandate
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Personal and sensitive personal information
+#### Personal and Sensitive Personal Information
 
 Personal and sensitive personal information are defined under Section 3 of the DPA, as
 follows:
 
-            (g) Personal information refers to any information whether recorded in a material
+   (g) Personal information refers to any information whether recorded in a material
             form or not, from which the identity of an individual is apparent or can be
             reasonably and directly ascertained by the entity holding the information, or when
             put together with other information would directly and certainly identify an
             individual.
                                                      xxx
 
-            (l) Sensitive personal information refers to personal information:
+   (l) Sensitive personal information refers to personal information:
 
-                     (1) About an individual’s xxx age xxx;
+   (1) About an individual’s xxx age xxx;
 
 It is clear that the name of a deceased individual is considered personal information. On the
 other hand, the complete date of birth qualifies as sensitive personal information as it can be
@@ -80,8 +71,7 @@ personal information, respectively. It is worthy to note, however, that Section 
 establishes a special case when the processing is in the performance of an agency’s
 constitutional or statutory function or mandate.
 
-Constitutional or statutory mandate
-of the Commission on Audit.
+#### Constitutional or Statutory Mandate of the Commission on Audit
 
 Under the 1987 Constitution,3 the COA is considered as the guardian of public funds, vesting
 it with broad powers over all accounts pertaining to government revenue and expenditures
@@ -105,9 +95,7 @@ presumption of regularity in the performance of its duties. The determination of
 
 3 Section 2, Article IX-D of the 1987 Constitution
 4 Yap v. Commission on Audit, G.R. No. 158562, 23 April 2010.
-5 Commission on Audit, Issuances, Revised Rules of Procedure, available at https://www.coa.gov.ph/issuances/2009-revised-
-
-rules-of-procedures-of-the-commission-on-audit/ (last accessed 11 October 2024).
+5 Commission on Audit, Issuances, Revised Rules of Procedure, available at https://www.coa.gov.ph/issuances/2009-revised-rules-of-procedures-of-the-commission-on-audit/ (last accessed 11 October 2024).
 
 methods to utilize in the collection or gathering of personal data in performing its auditing
 functions shall be left to the COA’s sound discretion.
@@ -122,7 +110,7 @@ extravagant or unconscionable expenditures of government funds.7
 Accordingly, the COA must be provided with the necessary information to effectively carry
 out its audit function and examine government expenditures.
 
-Principle of Proportionality.
+#### Principle of Proportionality
 
 There is a legal presumption granted to COA that it will lawfully process personal data
 pursuant to its mandate, and that the processing shall be limited to achieving the specific
@@ -132,43 +120,42 @@ and protect personal data mandated under NPC Circular No. 2023-06.8 Significantl
 maintaining compliance with the law requires strict adherence to the data privacy principles
 outlined in the DPA, one of which is the principle of proportionality, to wit:
 
-            Section 11. General Data Privacy Principles. The processing of personal information
+   Section 11. General Data Privacy Principles. The processing of personal information
             shall be allowed, subject to compliance with the requirements of this Act and other
             laws allowing disclosure of information to the public and adherence to the
             principles of transparency, legitimate purpose and proportionality.
 
-            Personal information must be:
+   Personal information must be:
                                                              xxx
 
-            (c) Accurate, relevant and, where necessary for purposes for which it is to be used
+   (c) Accurate, relevant and, where necessary for purposes for which it is to be used
             the processing of personal information, kept up to date; inaccurate or incomplete
             data must be rectified, supplemented, destroyed or their further processing
             restricted;
 
-            (d) Adequate and not excessive in relation to the purposes for which they are
+   (d) Adequate and not excessive in relation to the purposes for which they are
             collected and processed;
 
-            (Emphasis supplied).
+   (Emphasis supplied).
 
 The principle of proportionality was further elaborated in Section 18 of the Implementing
 Rules and Regulations (IRR) of the DPA:
 
-            Section 18. Principles of Transparency, Legitimate Purpose and Proportionality. The
+   Section 18. Principles of Transparency, Legitimate Purpose and Proportionality. The
             processing of personal data shall be allowed subject to adherence to the principles
             of transparency, legitimate purpose, and proportionality.
 
-                                                             xxx
-
+   xxx
 
 7 Sanchez v. Commission on Audit, G.R. No. 127545, 23 April 2008.
 8 Security of Personal Data in the Government and the Private Sector.
 
-         c. Proportionality. The processing of information shall be adequate, relevant, suit-
+   c. Proportionality. The processing of information shall be adequate, relevant, suit-
          able, necessary, and not excessive in relation to a declared and specified purpose.
          Personal data shall be processed only if the purpose of the processing could not
          reasonably be fulfilled by other means.
 
-         (Emphasis supplied).
+   (Emphasis supplied).
 
 Thus, it is essential to ensure that the information to be disclosed for audit purposes should
 only be limited to what is necessary to achieve the objectives of the audit. Consequently, we
@@ -182,7 +169,6 @@ our present position. Please note further that our Advisory Opinion is not inten
 adjudicate the rights and obligations of the parties involved.
 
 For your reference.
-
 
 Very truly yours,
 

@@ -1,13 +1,23 @@
 ---
-title: "NPC BN 20-157: In re: Batangas Bay Carriers, Inc."
-description: "certainty of acquisition by an unauthorized person is not required NPC BN 20 -157"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC BN 20-157
+- npc bn 20-157
+date: '2024-01-01'
+description: certainty of acquisition by an unauthorized person is not required NPC
+  BN 20 -157
 draft: false
+reference: NPC BN 20-157
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC BN 20-157: In re: Batangas Bay Carriers, Inc.'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC BN 20-157
@@ -25,8 +35,6 @@ IN RE: BATANGA S BAY
 
 CARRIERS, INC.
 
-NPC BN 20 -157
-
 x-------------------------------------------x
 
 AGUIRRE , D.P.C. :
@@ -41,8 +49,7 @@ dated 01 September 2020 ,1 involvin g a personal data breach caused
 
 by a ransomware attack .2
 
-The Facts
-
+### Facts
 On 26 August 2020, some users reported that their files stored in
 
 the company’s shared network drive could not be opened. This
@@ -82,13 +89,10 @@ experts to learn more about the incident during the investigation. 5
 > 1Possible ava ila bility breach due to ransomware affecting Payroll Database
 > dated 1 September 2020.
 > 2Ibid ., at p. 2.
-> 3Ibid ., at pp. 1 -2.
+> 3Ibid ., at pp. 12.
 > 4Ibid ., at p. 2.
 > 5Ibid ., at p. 2.
 
-NPC BN 20 -157
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
 > URL: http://p riv acy.gov.ph Email Address: info@privacy.gov.p h
 
 As to the num ber of individuals or personal records affected, the
@@ -145,7 +149,7 @@ affected servers;
 
 (4) Cybersecurity vendors were tapped to assist on the
 
-containment, clean -up, and possibl e decryption of affected
+containment, cleanup, and possibl e decryption of affected
 
 files; and
 
@@ -155,20 +159,17 @@ thus disconnecting the internet access in Times Plaza on 27
 
 August 2020. The internet connection was diverted to
 
-Antonino building, the back -up center. This enabled the
+Antonino building, the backup center. This enabled the
 
 cybersecurity vendor and IT to monitor the link, and
 
-determine an y suspicious and virus -related activities. 9
+determine an y suspicious and virusrelated activities. 9
 
 > 6Ibid ., at p. 2.
 > 7Ibid ., at p. 2.
 > 8Ibid ., at p. 2.
 > 9Ibid ., at p. 2.
 
-NPC BN 20 -157
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
 > URL: http://p riv acy.gov.ph Email Address: info@privacy.gov.p h
 
 However, Batangas Bay stated that it has yet to notify the affected
@@ -193,21 +194,20 @@ subjects until such time that it has ascertained the identities of the
 
 affected data subjects. 12
 
-Discussion
-
+### Discussion
 This Commission denies the herein request for postponement of
 
 notification to data subjects of Batangas Bay in accordance with
 
-NPC Circular No. 16 -03 (Personal Data Breach Management).
+NPC Circular No. 1603 (Personal Data Breach Management).
 
 At the outset, it should be emphasized that notification of data
 
 subjects of data breaches is the general rule.  Under Section 18(A)
 
-of NPC Circular No. 16 -03, it provides that:
+of NPC Circular No. 1603, it provides that:
 
-The data subjects shall be notified within seventy -two (72)
+The data subjects shall be notified within seventytwo (72)
 
 hours upon knowledge of or reasonable belief by the
 
@@ -217,7 +217,7 @@ processor that a personal data breach has o ccurred . The
 
 notification may be made on the basis of available
 
-information within the 72 -hour period if the personal data
+information within the 72hour period if the personal data
 
 breach is likely to give rise to a real risk to the rights and
 
@@ -237,14 +237,13 @@ The ex emption or postponement will only be allowed in
 
 exceptional circumstances under Section 18(B) of NPC Circular
 
-No. 16 -03 , which provides that :
+No. 1603 , which provides that :
 
 > 10 Ibid ., a t p . 2.
 > 11 Ibid ., at p. 1.
 > 12 Ibid ., at p. 2.
-> 13 Emphasis supplied. NPC BN 20 -157
+> 13 Emphasis supplied. NPC BN 20157
 > Page 4of 8
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
 > URL: http://p riv acy.gov.ph Email Address: info@privacy.gov.p h
 
 If it is not reasonably possible to notify the data subjects
@@ -327,9 +326,6 @@ allegations and must look at the available evidence on record to
 
 > 14 Emphasis supplied.
 
-NPC BN 20 -157
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
 > URL: http://p riv acy.gov.ph Email Address: info@privacy.gov.p h
 
 see whether these are sufficient to overcome the presumption that
@@ -344,7 +340,7 @@ of any indication that personal data has been acquired by
 
 unauthorized persons .
 
-Secti on 11 of NPC Circular 16 -03 states the conditions for
+Secti on 11 of NPC Circular 1603 states the conditions for
 
 notification , thus :
 
@@ -394,7 +390,7 @@ likely to give rise to a real risk of serious harm to any
 
 affected data subject.
 
-Certain misconceptions about Section 11(2) of NPC Circular 16 -03
+Certain misconceptions about Section 11(2) of NPC Circular 1603
 
 (Section 11(2)) must be clarified . A loss of control ove r personal
 
@@ -406,9 +402,8 @@ have been acquired by an unautho rized person.” An indication of
 
 exfiltration of data is not a requirement in Section 11(b). Absolute
 
-certainty of acquisition by an unauthorized person is not required NPC BN 20 -157
+certainty of acquisition by an unauthorized person is not required NPC BN 20157
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
 > URL: http://p riv acy.gov.ph Email Address: info@privacy.gov.p h
 
 by either the Circular or the Data Privacy Act (DPA) , considering
@@ -488,17 +483,16 @@ the malefactor . Without this control, the personal i nformation
 controller will be unable to exercise its obligations in processing
 
 > 15 Emphasis supplied.
-> 16 UC Berkeley Information Security Office (n.d). Frequently Asked Questions -Ransomware.
-> Retrieved from https://security.berkeley.edu/faq/ransomware/ .NPC BN 20 -157
+> 16 UC Berkeley Information Security Office (n.d). Frequently Asked QuestionsRansomware.
+> Retrieved from https://security.berkeley.edu/faq/ransomware/ .NPC BN 20157
 > Page 7of 8
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
 > URL: http://p riv acy.gov.ph Email Address: info@privacy.gov.p h
 
 the personal data according to the provisions of the DPA. Recent
 
 ransomware attacks have also shown a capability to release the
 
-encrypted data over the internet upon non -payment of the ransom,
+encrypted data over the internet upon nonpayment of the ransom,
 
 potentially leading to a confidentiality breach contemplated in
 
@@ -530,7 +524,7 @@ Batangas Bay Carriers, Inc. is ORDERED to notify the af fected
 
 data subject s of the breach incident in accordance with the
 
-provisions of NPC Circular 16 -03 and to SUBMIT proof of
+provisions of NPC Circular 1603 and to SUBMIT proof of
 
 compliance thereto within fifteen (15) days from receipt of this
 
@@ -542,24 +536,17 @@ Pasay City, Philippines ;
 
 21 September 20 20.
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
-WE CONCUR: NPC BN 20 -157
+WE CONCUR: NPC BN 20157
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
 > URL: http://p riv acy.gov.ph Email Address: info@privacy.gov.p h
-
-Sgd.
 
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
-
-Sgd.
 
 JOHN HENRY D. NAGA
 

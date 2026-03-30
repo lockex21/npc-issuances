@@ -1,18 +1,20 @@
 ---
 title: "Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making (Circular No. 17-01)"
-description: "SUBJECT: REGISTRATION OF DATA PROCESSING SYSTEMS AND NOTIFICATIONS REGARDING AUTOMATED DECISION-MAKING"
+description: 'SUBJECT: REGISTRATION OF DATA PROCESSING SYSTEMS AND NOTIFICATIONS REGARDING
+  AUTOMATED DECISION-MAKING'
 aliases:
-  - "Circular No. 17-01"
-  - "circular no. 17-01"
-  - "npc circular no. 17-01"
-  - "registration of data processing systems"
-  - "registration of data processing systems and notifications regarding automated decision-making"
+- Circular No. 17-01
+- circular no. 17-01
+- npc circular no. 17-01
+- registration of data processing systems
+- registration of data processing systems and notifications regarding automated decision-making
 tags:
-  - "issuance"
-  - "topic/registration"
-  - "type/circular"
-  - "year/undated"
+- issuance
+- topic/registration
+- type/circular
+- year/2017
 draft: false
+date: '2017-08-09'
 ---
 
 ## Issuance Text

@@ -1,35 +1,23 @@
 ---
-title: "Redacted-Advisory-Opinion-No.-2020-025"
-description: "''''''''''''' ''''''''''''''''''''' ''''' ''''''''''''''''''''''' ''''''' '''''''''''' '''''''' ''''''''''''''''''''''' '''''' ''''''' '''''' '''' ''''''''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2020-025 — Conflict of Interest on a Data Protection Officer Designated as a Compliance Officer"
+description: "Conflict of interest issues when a data protection officer is also designated as a compliance officer."
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
 draft: false
 ---
-
 ## Source
 - Reference: Advisory Opinion No. 2020-025
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-025.pdf
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                        ADVISORY OPINION NO. 2020-0251
 
-16 June 2020
-
-''''''''''''' ''''''''''''''''''''' ''''' '''''''''''''''''''''''
-''''''' '''''''''''' ''''''''
-''''''''''''''''''''''' '''''' ''''''' '''''' ''''
-''''''''''''''''''''''''''''''''''''''
-
-
-
-                Re:       CONFLICT OF INTEREST ON A DATA PROTECTION OFFICER
+Re:       CONFLICT OF INTEREST ON A DATA PROTECTION OFFICER
                           DESIGNATED AS A COMPLIANCE OFFICER
 
-Dear ''''''''' ''''''''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion seeking clarification on matters
 relating to the role of a data protection officer (DPO) vis-à-vis the department reorganization within
@@ -44,6 +32,8 @@ working visas, alien employment permits, health insurance of expatriate employee
 that the tasks of a Compliance Officer would require processing the personal data of employees
 which gives rise to a conflict of interest vis-à-vis the duties as a DPO.
 
+### Discussion
+
 Data protection officer; independence; autonomy
 
 It is true that a DPO must be independent in the performance of their functions and shall be
@@ -56,8 +46,6 @@ You mentioned that it is proposed that the Risk Department will facilitate the o
 implementation of the Compliance Management System that covers Data Privacy Compliance.
 From acursory reading of the facts, it seems that the Risk Department will only be overseeing Data
 Privacy Compliance and may not necessarily interfere with the functions of the DPO. Further,
-
-
 
 1Tags: data protection officer; compliance officer; independence; conflict of interest.
 
@@ -107,18 +95,17 @@ Further, we note the pertinent discussions under Article 29 of the Data Protecti
 of the European Commission - Guidelines on Data Protection Officers (‘DPOs’)5 on the matter of
 conflict of interest, to wit:
 
-          “… This entails in particular that the DPO cannot hold a position within the organisation
+   “… This entails in particular that the DPO cannot hold a position within the organisation
           that leads him or her to determine the purposes and the means of the processing of
-
 
 3 Rural Bank of Cantilan, Inc. v. Julve, 545 Phil. 619 (2007).
 4 NPC2017-01, Definition of Terms.
 5 European Commission, Article 29 Data Protection Working Party, Guidelines on Data Protection Officers (‘DPOs’),
 
-         personal data. Due to the specific organisational structure in each organisation, this has
+   personal data. Due to the specific organisational structure in each organisation, this has
          to be considered case by case.
 
-         As a rule of thumb, conflicting positions within the organisation may include senior
+   As a rule of thumb, conflicting positions within the organisation may include senior
          management positions (such as chief executive, chief operating, chief financial, chief
          medical officer, head of marketing department, head of Human Resources or head of IT
          departments) but also other roles lower down in the organisational structure if such
@@ -140,7 +127,7 @@ Pursuant to the Article 29 of the Data Protection Working Party of the European 
 Guidelines on DPOs, internal rules may be drafted to avoid conflict of interests, where such rules
 may provide for the following, to wit:
 
-    •    Identification of the position/s which would be incompatible with the function of DPO;
+   •    Identification of the position/s which would be incompatible with the function of DPO;
     •    Draft internal rules to avoid conflicts of interests;
     •    Provide an explanation about conflicts of interests;
     •    Declare that the DPO has no conflict of interests with regard to his/her function as a DPO,
@@ -161,9 +148,7 @@ For your reference.
 
 Very truly yours,
 
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
-
 
 6 See: European Commission, Article 29 Data Protection Working Party, Guidelines on Data Protection Officers (‘DPOs’),

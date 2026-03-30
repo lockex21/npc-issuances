@@ -1,13 +1,24 @@
 ---
-title: "NPC 19-909: In Re: FCASH Global Lending, Inc., Operating Fastcash Lending Application"
-description: "An Act Protecting Individual Personal Information in Information and Communications Systems"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2019"
-  - "npc-case"
+aliases:
+- NPC 19-909
+- npc 19-909
+date: '2024-01-01'
+description: An Act Protecting Individual Personal Information in Information and
+  Communications Systems
 draft: false
+reference: NPC 19-909
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2019
+title: 'NPC 19-909: In Re: FCASH Global Lending, Inc., Operating Fastcash Lending
+  Application'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC 19-909
@@ -21,8 +32,6 @@ draft: false
 - NPC Rules of Procedure, Exhaustion of Administrative Remedies, Litis Pendentia, Amicable Settlement and Alternative modes of dispute resolution, Liability of Corporate officers
 
 ## Resolution Text
-> Ref No.: ADJ -2021 -00 0NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 IN RE: FCASH GLOBAL LENDING,
 
@@ -82,16 +91,13 @@ of the DPA. 1
 
 Decision dated 23 February 2021
 
-NPC 19 -909
+NPC 19909
 
 For: Violation of the
 
-Data Privacy Act NPC 19 -909
+Data Privacy Act NPC 19909
 
 In re: FCash Global Lending Inc.
-
-> Ref No.: ADJ -2021 -00 0NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 Respondents ’ Motion reiterated the grounds they relied upon in their
 
@@ -159,12 +165,9 @@ January 2020 , t he Commission argued that “[a]t the outset, it bears to
 
 > 2Motion to Dismiss dated 16 September 2019
 
-NPC 19 -909
+NPC 19909
 
 In re: FCash Global Lending Inc.
-
-> Ref No.: ADJ -2021 -00 0NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 point that the resort to certiorari is not the proper remedy to assail the
 
@@ -194,9 +197,9 @@ of Procedure
 
 Respondents argue that the proceeding was not conducted in
 
-compliance with NPC Circular 16 -04 or the NPC Rules of Procedure
+compliance with NPC Circular 1604 or the NPC Rules of Procedure
 
-(Rules) as there was no complaint filed but instead a Fact -Finding
+(Rules) as there was no complaint filed but instead a FactFinding
 
 Report , which Respondents argued does not satisfy the requirement to
 
@@ -218,7 +221,7 @@ with Rule III of the same Rules following the principle of uniform
 
 procedure sufficiently complied with in this case. 5
 
-The Fact -Finding Report dated 29 August 2019 6 (FFR ) that was served
+The FactFinding Report dated 29 August 2019 6 (FFR ) that was served
 
 to Respondents contains a narration of the material facts and the
 
@@ -232,15 +235,12 @@ operating its online lending application. 7 The same FFR was submitted
 > Respondent National Privacy Commission dated 02 August 2021
 > 4Id.
 > 5Resolution dated 02 October 2019.
-> 6In re: FCash Global Lending Inc Fact -Finding Report dated 2 9August 2019
+> 6In re: FCash Global Lending Inc FactFinding Report dated 2 9August 2019
 > 7Resolution dated 02 October 2019
 
-NPC 19 -909
+NPC 19909
 
 In re: FCash Global Lending Inc.
-
-> Ref No.: ADJ -2021 -00 0NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 to the Commission for its perusal to determine whether violations of
 
@@ -262,7 +262,7 @@ an opportunity to submit an Answer, as prescribed by Rule IV of the
 
 Rules wherein the Responsive Comment or Answer is immediately
 
-required from Respondents after it receives the Fact -Finding Report , to
+required from Respondents after it receives the FactFinding Report , to
 
 wit:
 
@@ -270,7 +270,7 @@ SECTION 24. Uniform procedure . – The investigation shall be in
 
 accordance with Rule III of these Rules, provided that the
 
-respondent shall be provided a copy of the fact -finding report and
+respondent shall be provided a copy of the factfinding report and
 
 given an opportunity to submit an answer. In cases where the
 
@@ -282,17 +282,17 @@ ordered, the Commission shall render its decision on the basis of
 
 available information. 8
 
-As discussed by this Commission in its NPC 19 -910 Resolution , “the
+As discussed by this Commission in its NPC 19910 Resolution , “the
 
 procedure for a sua sponte investigation does not include a Discovery
 
 Conference because all the information and evidence in the hands of
 
-the Commission are already set out in and attached to the Fact -Finding
+the Commission are already set out in and attached to the FactFinding
 
 report when it is provided to respondent. ”9
 
-It was emphasized by the Commission in NPC 19 -910 Resolution that :
+It was emphasized by the Commission in NPC 19910 Resolution that :
 
 [W] hile Section 24 of Rule IV of the Rules provides that the
 
@@ -312,16 +312,13 @@ taking into consideration and giving effect to the difference between
 
 the two (2) procedures .10
 
-> 8Section 24, Rule IV of NPC Circular 16 -04
-> 9NPC 19 -910, Resolution dated 11 March 2021
+> 8Section 24, Rule IV of NPC Circular 1604
+> 9NPC 19910, Resolution dated 11 March 2021
 > 10 Id
 
-NPC 19 -909
+NPC 19909
 
 In re: FCash Global Lending Inc.
-
-> Ref No.: ADJ -2021 -00 0NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 Further, to recall, in the Resolution dated 02 October 2019:
 
@@ -397,12 +394,9 @@ by the DPA and the Rules. Respondents should note that the response
 > 12 R.A. 10173
 > 13 Resolution dated 02 October 2019
 
-NPC 19 -909
+NPC 19909
 
 In re: FCash Global Lending Inc.
-
-> Ref No.: ADJ -2021 -00 0NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 of the Commission upon receiving the FFR was an Order to File an
 
@@ -477,12 +471,9 @@ rights vested by the DPA. Meanwhile, a complaint which arose from
 > 14 G.R. No. 186730, June 13, 2012
 > 15 Id.
 
-NPC 19 -909
+NPC 19909
 
 In re: FCash Global Lending Inc.
-
-> Ref No.: ADJ -2021 -00 0NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 a sua sponte investigation is hinged on the [Commission ’s ]
 
@@ -546,7 +537,7 @@ to “take timely or appropriate action on the claimed privacy violation
 
 or personal data breach” 17 before a complaint can be filed.
 
-As held by the Commission in NPC 19 -910, to wit :
+As held by the Commission in NPC 19910, to wit :
 
 The Respondent’s interpretation that the Commission should first
 
@@ -554,17 +545,14 @@ reach out to respondents to be ‘given the opportunity to institute
 
 appropriate actions to rectify the alleged criminal violations of the
 
-DPA ’ is purpose -defeating , if not plainly absurd. Sua sponte
+DPA ’ is purposedefeating , if not plainly absurd. Sua sponte
 
 > 16 Supra Note 3, page.2 3
 > 17
 
-Section 4 (b), Rule II of NPC Circular No. 16 -04 NPC 19 -909
+Section 4 (b), Rule II of NPC Circular No. 1604 NPC 19909
 
 In re: FCash Global Lending Inc.
-
-> Ref No.: ADJ -2021 -00 0NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 investigations are only conducted under specific premises under the
 
@@ -582,7 +570,7 @@ may investigate on its own initiative the circumstances
 
 surrounding the possible violation. Investigations may
 
-include on -site examination of systems and
+include onsite examination of systems and
 
 procedures. If necessary, the Commission may use its
 
@@ -644,16 +632,13 @@ investigations.
 
 Furthermore, such provision for the exhaustion of remedies is not
 
-an absolute rule that re nders all non -conforming complaints invalid.
+an absolute rule that re nders all nonconforming complaints invalid.
 
 The Commission has previously discussed the purpose for the
 
-exhaustion of remedies in an earlier Decision :NPC 19 -909
+exhaustion of remedies in an earlier Decision :NPC 19909
 
 In re: FCash Global Lending Inc.
-
-> Ref No.: ADJ -2021 -00 0NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 This rule was intended to prevent a deluge of
 
@@ -679,7 +664,7 @@ is unnecessary as there were already several pending complaints
 
 agai nst it.
 
-As held by the Commission in NPC 19 -910, t he Commission wish es to
+As held by the Commission in NPC 19910, t he Commission wish es to
 
 highlight :
 
@@ -715,11 +700,11 @@ compliance with the law 20 and institute investigations when
 
 necessary. 21 This is likewise in consideration of the provision in NPC
 
-Circular 2021 -01, which allows conduct of sua sponte investigations of
+Circular 202101, which allows conduct of sua sponte investigations of
 
 > 18
 
-NPC 19 -910, Resolution
+NPC 19910, Resolution
 
 > 19
 
@@ -737,12 +722,9 @@ II, § 7(a) (2012).
 
 > 21
 
-Id. § 7(b). NPC 19 -909
+Id. § 7(b). NPC 19909
 
 In re: FCash Global Lending Inc.
-
-> Ref No.: ADJ -2021 -00 0NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 possible privacy violations or personal data breaches. 22 Hence, the sua
 
@@ -812,16 +794,13 @@ to arrive at the settlement. As held by the Supreme Court in the case of
 
 Miguel v. Montanez :
 
-> 22 NPC Circular No. 2021 -01, rule X, §§ 5 -6.
+> 22 NPC Circular No. 202101, rule X, §§ 56.
 
-NPC 19 -909
+NPC 19909
 
 In re: FCash Global Lending Inc.
 
-> Ref No.: ADJ -2021 -00 0NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
-
-Being a by -product of mutual concessions and good faith of the
+Being a byproduct of mutual concessions and good faith of the
 
 parties, an amicable settlement has the force and effect of res judicata
 
@@ -833,9 +812,9 @@ is subject to execution in accordance with the Rules. 23
 
 Further, “[w]hile the Rule s on Mediation embodied in NPC Circular
 
-No. 18 -03 did not provide a distinction between cases which can and
+No. 1803 did not provide a distinction between cases which can and
 
-cannot undergo mediation, NPC Circular No. 16 -04 categorically states
+cannot undergo mediation, NPC Circular No. 1604 categorically states
 
 that ‘no settlement is allowed for criminal acts .’”24
 
@@ -888,15 +867,12 @@ DPA is clear that the liability of the responsible officers in cases where
 the offender is a corporation does not rely on active participation
 
 > 23 Miguel v. Montañez, G.R. No. 191336, 25 January 2012
-> 24 NPC 19 -910, Resolution
+> 24 NPC 19910, Resolution
 > 25 Motion for Reconsideration dated 28 February 2022
 
-NPC 19 -909
+NPC 19909
 
 In re: FCash Global Lending Inc.
-
-> Ref No.: ADJ -2021 -00 0NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 alone. Gross negligence is explicitly stated in the DPA as a ground for
 
@@ -932,7 +908,7 @@ There is no reason for the Commission to reverse its earlier finding that
 
 the Respondent officers are liable for gross negligence. As stated in the
 
-Decisi on of this Commission in the case of NPC 19 -910 :
+Decisi on of this Commission in the case of NPC 19910 :
 
 The Supreme Court has consistently defined gross negligence as ‘the
 
@@ -958,7 +934,7 @@ discharge of their duties and instead, presumes that the BOD knew
 
 about these collection practices and approved of it . There are one
 
-hundred and sixty -six (166) complaints against Respondent as of July
+hundred and sixtysix (166) complaints against Respondent as of July
 
 2019. The Complaint also attached user reviews on Respondent
 
@@ -974,14 +950,11 @@ said that the privacy complaints against Respondent have reached into
 
 > 26 Section 34 of R.A. 10173
 > 27 Fernandez vs Office of the Ombudsman, GR No. 193983, March 14 2012.
-> 28 Fact -Finding Report dated 29 August 2019, pg. 11 -13.
+> 28 FactFinding Report dated 29 August 2019, pg. 1113.
 
-NPC 19 -909
+NPC 19909
 
 In re: FCash Global Lending Inc.
-
-> Ref No.: ADJ -2021 -00 0NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 the public’s consciousness. 29 Thus, it is the responsibility of the BOD
 
@@ -1027,33 +1000,25 @@ City of Pasay, Philippines .
 
 28 April 202 2.
 
-Sgd.
-
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
 WE CONCUR:
 
-> 29 See: https://manilastandard.net/business/biz -plus/335368/sec -voids -license -of -fcash -
+> 29 See: https://manilastandard.net/business/bizplus/335368/secvoidslicenseoffcash -
 > global.html.
-> 30 Fact -Finding Report dated 29 August 2019, pg. 9 -10.
+> 30 FactFinding Report dated 29 August 2019, pg. 910.
 
-NPC 19 -909
+NPC 19909
 
 In re: FCash Global Lending Inc.
 
-Ref No.: ADJ -2021 -00 0 NPC_OPC_ADJU_ RESO -V1.0,R0.0, 05 April 2021
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
-
-Sgd.
+Ref No.: ADJ202100 0 NPC_OPC_ADJU_ RESOV1.0,R0.0, 05 April 2021
 
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
-
-Sgd.
 
 DUG CHRISTOPER B. MAH
 

@@ -1,35 +1,27 @@
 ---
-title: "CID CDO 25-001: In Re: In the matter of the world app processing personal information"
-description: "In his book The Five Types of Wealth , Sahil Bloom wrote, “What gets measured gets managed.” The collection, storage, and management of biometric data such as iris scans entail not mere measurement but dominion over human identity. The Philippine Data Privacy Act of 2012..."
+title: "Unknown: Resolution"
+description: "Cease and desist order."
+aliases:
+  - "UNKNOWN"
+  - "unknown"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2025"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2025
+  - npc-case
+date: "2025-01-01"
 draft: false
 ---
 
-## Source
-- Reference: CID CDO 25-001
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2026/01/CID-CDO-25-00110.30.2025-In-the-Matter-of-World-App-Processing-of-Personal-Information-2.pdf
-- Source page: http://privacy.gov.ph/resolutions/
-- Issue date: October 30, 2025
-- Published on NPC site: Thu, 29 Jan 2026 02:37:31 GMT
-- Pages: 42
+## Source-Reference: CID CDO 25-001-Official PDF: http://privacy.gov.ph/wp-content/uploads/2026/01/CID-CDO-25-00110.30.2025-In-the-Matter-of-World-App-Processing-of-Personal-Information-2.pdf-Source page: http://privacy.gov.ph/resolutions/
+- Issue date: October 30, 2025-Published on NPC site: Thu, 29 Jan 2026 02:37:31 GMT-Pages: 42
 
-## Source Tags
-- Sec 2. Cease and Desist Order
-- General Data Privacy Principles (Section 11)
+## Source Tags-Sec 2. Cease and Desist Order-General Data Privacy Principles (Section 11)
 - Data Subject Rights (Section 16)
-- Consent
-- Transparency
-- Proportionality
-- Biometric Data
-- Sensitive Personal Information, Personal Information
+- Consent-Transparency
+- Proportionality-Biometric Data-Sensitive Personal Information, Personal Information
 
 ## Resolution Text
-> 25th-27th Floors, The Upper Class Tower, Quezon Ave. Corner Scout Reyes Street, Quezon City 1103
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 IN THE MATTER OF WORLD APP
 
@@ -43,19 +35,15 @@ BELARMINO , D.P.C.;
 
 In his book The Five Types of Wealth , Sahil Bloom wrote, “What gets measured gets managed.” The collection, storage, and management of biometric data such as iris scans entail not mere measurement but dominion over human identity. The Philippine Data Privacy Act of 2012 requires that such processing observe, among others, the principles of proportionality (gathering only what is strictly necessary), and consent (ensuring that participation is informed, voluntary, and specific). Failure to meet these standards erodes public trust and violates the dignity that data protection seeks to uphold.
 
-Facts
-
+### Facts
 On 07 May 2025, the Complaints and Investigation Division (CID) submitted its application for the issuance of a Cease and Desist Order (CDO) against Tools for Humanity Corporation (TFH) in relation to the latter’s data privacy practices and processing of personal data in their application called “World App” and through their device called the “Orb”, allegedly violative of the General Data Privacy Principles under Section 11 and the Rights of the Data Subjects under Section 16 of Republic Act 10173, otherwise known as the Data Privacy Act of 2012 (DPA). 1
 
-> 1Application for the Issuance of the Cease and Desist Order dated 07 May 2025.
 
 CID CDO 25 -001
 
 For: Violation of the Data Privacy Act of 2012 CID CDO 25-001
 
 In the Matter of World App Processing of Personal Information
-
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 On 09 May 2025, the Commission issued a Minute Resolution dated 08 May 2025 requiring TFH to comment on the CID’s application for a CDO and for the parties to appear before the Commission for a Clarificatory Hearing on 23 May 2025. 2
 
@@ -69,18 +57,8 @@ On 30 June 2025, through electronic mail, TFH informed the Commission that they 
 
 On 03 July 2025, in response to TFH’s email request dated 30 June 2025, the Commission issued the Minute Resolution partially granting TFH a non-extendible period of fifteen (15) calendar days from receipt of the Order to submit to the Commission any additional documents it deems necessary. 9
 
-> 2Minute Resolution CID CDO No. 25-001, dated 08 May 2025.
-> 3Letter dated 19 May 2025 signed by TFH in relation to CID CDO No. 25-001.
-> 4Clarificatory Hearing CID CDO No. 25-001, Adju-25-00178, 23 May 2025.
-> 5Minute Resolution dated 23 May 2025, CID CDO 25-001.
-> 6TFH Response Letter dated 08 June 2025 in compliance to Minute Resolution dated 23 May 2025.
-> 7See email from NM dated 30 June 2025 at 12:43 pm.
-> 8See email from NM dated 30 June 2025 at 6:23 pm.
-> 9Minute Resolution dated 08 May 2025, CID CDO 25-001.
 
 In the Matter of World App Processing of Personal Information
-
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 On 18 July 2025, the Commission received TFH’s submissions through electronic mail, including a document captioned as “Supplemental Comment/Opposition” dated 18 July 2025. 10
 
@@ -94,55 +72,43 @@ On 11 October 2025, WCPH Corporation (WCPHC) submitted a letter in response to t
 
 Now, before this Commission is the compliance of TFH, received last 16 October 2025 18 , to the CDO dated 23 September 2025 19 . The CDO was issued by this Commission on the ground of TFH’s  data privacy practices and processing of personal data in violation of the General
 
-> 10
 
 TFH’s Supplement Comment/Opposition (To the National Privacy Commission [NPC] Complaints and Investigation Division’s [CID] Application for Issuance of Cease-and-desist Order dated 07 May 2025) dated 18 July 2025.
 
-> 11
 
 Minute Resolution dated 04 August 2025, CID CDO No. 25-001.
 
-> 12
 
 NPC CID’s Comment (to the 19 May 2025, 8 June 2025, and 18 July 2025 Submissions and all and the declarations made by Tools for Humanity during the Clarificatory Hearing and Onsite Visit Conferences) dated 18 August 2025.
 
-> 13
 
 Minute Resolution dated 04 August, CID CDO No. 25-001.
 
-> 14
 
 Cease and Desist Order dated 23 September 2025 CID CDO No. 25-001.
 
-> 15
 
 NPC Enforcement Division Compliance Letter to TFH dated 08 October 2025.
 
-> 16
 
 TFH’s response letter dated 11 October 2025 to NPC Enforcement Division Compliance letter dated 08 October 2025
 
-> 17
 
 Id.
 
-> 18
 
 Electronic Filing, sent to  adjudication@privacy.gov.ph  on 16 October 2025 at 10:17pm.
 
-> 19
 
 Cease and Desist Order (CDO) In the matter of World App Processing of Personal Information dated 23 September 2025. CID CDO 25-001
 
 In the Matter of World App Processing of Personal Information
 
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
-
 Data Privacy Principles under Section 11 20  and the Rights of Data Subjects under Section 16 of the  DPA 21 .
 
 The dispositive portion of the CDO dated 23 September 2025 is as follows:
 
-WHEREFORE , premises considered, TFH, and its local operator WCPH Corporation, is hereby ORDERED to CEASE
+**WHEREFORE** , premises considered, TFH, and its local operator WCPH Corporation, is hereby ORDERED to CEASE
 
 and DESIST from the processing of personal information within the Philippines through the Orb and the World App.
 
@@ -160,16 +126,12 @@ Further, in accordance with Section 9 of NPC Circular No. 20-02, TFH is hereby O
 
 Finally, the Enforcement Division of the NPC is hereby tasked to ensure the implementation of this Order no later than seventy-two (72) hours from receipt of TFH and to submit to the Commission a report within forty-eight (48) hours after the completion of the implementation.
 
-> 20 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 11, Chapter III (2012).
-> 21 Id at Section 16.
 
 In the Matter of World App Processing of Personal Information
 
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
-
 This Order is immediately executory upon receipt and shall remain in effect until lifted or modified by the Commission.
 
-SO ORDERED. 22
+**SO ORDERED**. 22
 
 In compliance with the CDO above, TFH submitted two (2) versions of their Verified Comment, Confidential and Non-Confidential,  dated 15 October 2025 23  and received by the Commission last 16 October 2025 24 . On the procedural aspect, they argued therein that they demonstrated good faith compliance through the submitted verification and corporate authorizations. 25  They also asserted that the requirement of a verification and board authorization should not be strictly applied in CDO proceedings. 26  Moreover, they contended that the Commission had no authority to order the takedown of World App through a CDO. 27
 
@@ -179,20 +141,8 @@ Second, TFH claimed that the privacy notice was made before the issuance of the 
 
 Furthermore, they stated that they had previously revised their biometric consent process to ensure freely given, specific, and informed consent consistent with Philippine standards.  32
 
-> 22 Cease and Desist Order (CDO) In the matter of World App Processing of Personal Information dated 23 September 2025.
-> 23 TFH’s Comment dated 15 October 2025, in compliance with NPC CDO dated 23 September 2025.
-> 24 Electronic Filing, sent to adjudication@privacy.gov.ph on 16 October 2025 at 10:17pm.
-> 25 TFH’s Comment dated 15 October 2025, at par. 51, in compliance with NPC CDO dated 23 September 2025.
-> 26 Id at par. 53.
-> 27 Id at par. 67.
-> 28 Id at par. 74.
-> 29 Id at par. 75.
-> 30 Id at par. 127.
-> 31 TFH’s Comment dated 15 October 2025, at par. 139, in compliance with NPC CDO dated 23 September 2025.
-> 32 Id at par. 142. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
 > Page 6of 42
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 Third, TFH averred that the processing of facial and iris images is the most privacy-preserving and proportionate means of achieving proof of unique personhood, demonstrably exceeding global industry practices and existing state-of-the-art methods. 33
 
@@ -206,25 +156,14 @@ They prayed that the Commission to note the allegations, clarifications, and mat
 
 WCPHC also submitted a Verified Comment, dated and received by the Commission on 16 October 2025, wherein they argued that the Commission violated their right to due process when it issued a CDO against them without allegedly affording them a meaningful opportunity to participate in the proceedings. 40  Claiming further that had they been given a meaningful opportunity to defend itself, it would have been able to present credible evidence showing the validity of the actual implementation of the World App in the LGUs and that consent of the data subjects was validly obtained. 41
 
-> 33 Id at par. 152.
-> 34 Id at par. 155.
-> 35 Id at par. 164.
-> 36 Id at par. 167.
-> 37 TFH’s Comment dated 15 October 2025, at par. 169, in compliance with NPC CDO dated 23 September 2025.
-> 38 Id at par. 180.
-> 39 Id at p. 46.
-> 40 WCPHC’s Comment dated 16 October 2025, at par. 28.
-> 41 Id at par. 38.
 
 In the Matter of World App Processing of Personal Information
-
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 Ultimately, WCPHC prayed that the Commission invalidate or lift, as to WCPHC, the CDO dated 23 September 2025. 42
 
 Subsequently, on 21 October 2025, the Commission issued the Order dated 20 October 2025 with the following dispositive portion:
 
-WHEREFORE, TFH IS HEREBY ORDERED , that, within a non-extendible period of three (3) days from the date of receipt of this Order, it shall:
+**WHEREFORE**, TFH IS HEREBY ORDERED , that, within a non-extendible period of three (3) days from the date of receipt of this Order, it shall:
 
 1. IDENTIFY every document, annex, or portion thereof that appears in the “Confidential” version of the Comment or its attachments but is withheld or redacted from the “Non-Confidential” version; and
 
@@ -236,17 +175,12 @@ The submissions required under this Order are intended solely to clarify the rec
 
 Failure to comply within the prescribed period shall constitute a waiver of the claim of confidentiality, and any materials previously withheld or redacted shall be deemed non-confidential.
 
-SO ORDERED .43
+**SO ORDERED** .43
 
 TFH submitted their Compliance to the previously mentioned Order dated and received by the Commission on 24 October 2025. 44  Under the same, TFH explained that, “[i]n general, the information in the
 
-> 42 Id at p. 40.
-> 43 Order, In the Matter of World App Processing of Personal Information dated 20 October 2025.
-> 44 Compliance (Re: Order dated 20 October 2025) dated 24 October 2025.
 
 In the Matter of World App Processing of Personal Information
-
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 Annexes include trade secrets and other confidential information, which has been consistently held as privileged and/or confidential in nature.” 45  They outlined the specific legal rights and/or obligations which constrain them to maintain the confidentiality of the information in the specified annexes. 46  Further, they stressed the sensitivity of the information in the mentioned annexes, as it goes into the business and operations of TFH in the Philippines and/or contains sensitive personal information. 47
 
@@ -260,18 +194,9 @@ Section 12. Decision on the Issued CDO. – If after giving the Adverse Party th
 
 The decision whether to extend or lift the issued CDO shall be made no later than thirty (30) days from the expiration of the period for the Adverse Party to file a comment or the termination of the clarificatory hearing if one is held. In the event that the Commission fails to render its decision within the said period, the CDO shall be deemed automatically lifted. 50
 
-Discussion
-
-> 45 Id at par. 4.
-> 46 Id at par. 6.
-> 47 Id at par. 7.
-> 48 Id at p. 9.
-> 49 Manifestation of Tools for Humanity (Re: Submission of Apostilled Documents) dated 24 October 2025.
-> 50 NPC Circular No. 20-02, known as the Rules on the Issuance of Cease and Desist Order of the National Privacy Commission, Section 12.
+### Discussion
 
 In the Matter of World App Processing of Personal Information
-
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 I. TFH is a Personal Information Controller (PIC),
 
@@ -291,9 +216,7 @@ To simplify the above quoted provision, a  PIC refers to a natural individual or
 
 On the other hand, a PIP is a natural individual or juridical entity that processes personal information or sensitive personal information on behalf of, and under the instruction of, a PIC. The PIP does not make decisions about the purpose or means of processing; rather, it performs specific data processing related tasks.
 
-> 51 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 3 (H), Chapter I (2012). CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 Herein, TFH is undoubtedly the PIC, while WCPHC Group is clearly the PIP of TFH. TFH determines both the purpose and means of processing personal data, specifically the collection, storage, use, and handling of data in the World App and the biometric data processed through the Orb to achieve its declared objective of establishing the proof of unique personhood of an individual. TFH serves as the PIC for both the World App and the Orb, as it exercises control over these systems — determining the why (the purposes for which personal data, including iris scans and facial images, are processed) and the how (the manner, means, and system by which such processing is carried out). TFH likewise issues the instructions, policies, and training materials governing the verification procedures conducted through the Orb.
 
@@ -303,12 +226,7 @@ Accordingly, TFH has outsourced to WCPHC the collection of iris scans and facial
 
 Thus, WCPHC performs an operational role in the collection of iris scans and facial images. It does so under the control, supervision, and instruction of TFH, which determines the overarching purpose and
 
-> 52 WCPHC’s Comment dated 16 October 2025, at par. 7.
-> 53 Id at par. 46.
-> 54 Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X; Cambridge Dictionary, Available at https://dictionary.cambridge.org/us/dictionary/english/outsourcing (last accessed 07 November 2025)
-> 55 WCPHC’s Comment dated 16 October 2025, at par. 31. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 means of processing. Hence, WCPHC functions as a PIP performing specific processing activities on behalf of and under the authority of TFH, the PIC.
 
@@ -322,12 +240,7 @@ The overarching purpose—to establish proof of unique personhood was conceived,
 
 Second, WCPHC performs all its functions strictly in accordance with TFH’s directions, policies, and training materials. WCHPC is obligated to, among others, “to study and implement policies and training materials provided by TFH.” 59  It implements pre-approved educational materials, follows TFH’s prescribed verification
 
-> 56 Id.
-> 57 Id. at par. 39.
-> 58 Id.
-> 59 Id. at par. 7. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 workflow, and possesses no discretion to modify the Orb’s functions, data flow, or retention protocol. This is consistent with Rule X, Section 44 (b) (1) of the Implementing Rules and Regulations of the DPA (IRR), which provides that a PIP shall act only upon the documented instructions of the PIC.
 
@@ -351,9 +264,7 @@ RJW : Yes. 60  (Emphasis and underlining supplied)
 
 Fifth, the contractual relationship between TFH and WCPHC confirms this relationship. The agreement expressly provides that WCPHC is not an employee of TFH but an independent contractor performing
 
-> 60 See Transcription, Clarificatory Hearing CID CDO No. 25-001, Adju-25-00178, 23 May 2025. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 specific tasks under the terms and policies prescribed by TFH. 61  This arrangement reflects an outsourcing structure consistent with the definition of a PIP under Section 3 (i) of the DPA. 62
 
@@ -367,12 +278,7 @@ Accordingly, notice to the PIC is deemed notice to its PIP, as the latter acts o
 
 Under Rule X, Sections 43 and 44 of the IRR of the DPA, a PIC may outsource or subcontract the processing of personal data to a PIP, provided that the arrangement is governed by a binding contract or
 
-> 61 WCPHC’s Comment dated 16 October 2025, at par. 31.
-> 62 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 3 (i), Chapter I (2012).
-> 63 Id. Section 21.
-> 64 Id. Section 21; Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule XII. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 legal act that obliges the PIP to act only upon the documented instructions of the PIC, and to implement appropriate safeguards consistent with the DPA and other issuances of the Commission. 65  This regulatory framework establishes a relationship of control and delegation, in which the PIP’s authority to process personal data is wholly derived from, and limited by, the PIC’s mandate. Consequently, the PIP has no independent legal personality in relation to the data processing purpose and merely acts as an extension of the PIC’s processing operations.
 
@@ -380,12 +286,7 @@ The contractual and statutory duty of the PIC to oversee its PIP, ensure adheren
 
 Rule X, Section 44(b)(8) of the IRR specially mandates the PIP to “make available to the personal information controller all information necessary to demonstrate compliance with the obligations laid down in the DPA, and allow for and contribute to audits, including inspections, conducted by the personal information controller or another auditor mandated by the latter.” 68  This provision reflects that the accountability and oversight of responsibility flow downward from PIC to PIP, but the duty to report and inform flows upward from PIP to PIC. Hence, in case where a PIP, and not a PIC, receives a regulatory notice, inquiry, or order from the Commission, the PIP has a corresponding obligation to promptly inform its PIC. The reason being that the PIP processes data on behalf of the PIC, and the PIC remains legally accountable under Section 21 of the DPA. From a due process perspective, this ensures that the PIC is kept aware of any
 
-> 65 Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X, Section 43 and 44.
-> 66 Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X.
-> 67 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 21, Chapter VI (2012).
-> 68 Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X, Section 44 (b)(8). CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 proceedings or actions involving its outsourced PIP. Thus, the Commission’s regulatory notice to either the PIC or PIP is effectively a notice to both, since their obligations are interlinked by law and contract. This prevents a PIC from claiming lack of notice or awareness of proceedings involving its PIP, and likewise prevents a PIP from claiming lack of notice or isolation from its PIC’s accountability which is exactly WCPHC’s assertion in its comment.
 
@@ -395,11 +296,8 @@ To add, WCPHC, in its Comment, cited an established jurisprudence recognizing th
 
 Assuming arguendo and only for the very limited purpose of argument that a separate notice to PIP is required, in this case a separate notice to WCPHC, the Commission has given WCPHC an opportunity to be heard before it issued its CDO dated 23 September 2025. The essence of procedural due process is embodied in the basic requirement of notice and a real opportunity to be heard. In administrative proceedings, such as in the case at bar, procedural due process simply means the opportunity to explain one’s side or the opportunity to seek a reconsideration of the action or ruling
 
-> 69 WCPHC’s Comment dated 16 October 2025, at par. 34.
 
 In the Matter of World App Processing of Personal Information
-
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 complained of. 70  “To be heard” does not mean only verbal arguments in court; one may be heard also through pleadings. 71  Where opportunity to be heard, either through oral arguments or pleadings, is accorded, there is no denial of procedural due process.” 72  Further, the standard of due process that must be met in proceedings before administrative tribunals allows a certain latitude as long as the element of fairness is not ignored. 73
 
@@ -409,19 +307,8 @@ While WCPHC remained silent regarding the presence of its representative at the 
 
 During the Clarificatory Hearing held on 23 May 2025, the Commission inquired from DKR, the duly authorized representative of TFH, regarding the identity and role of their local partner/s in the
 
-> 70 Sharon Flores-Concepcion v. Judge Liberty Castaneda, Regional Trial Court, Branch 67, Paniqui, Tarlac, A.M. No. RTJ-15-2438 [Formerly OCA I.P.P No. 11-3681-RTJ], (September 02, 2020); Haydee C. Casimiro v. Filipino T. Tandog, G.R. No. 146137, (June 08, 2005).
-> 71 Id.
-> 72 Id.
-> 73 Id.
-> 74 Id at par. 36.
-> 75 Id.
-> 76 WCPHC’S Comment dated 15 October 2025, at par. 35.3.
-> 77 Id at par. 35.4 to 35.5.
-> 78 See Transcription of Clarificatory Hearing dated 23 May 2025, at p. 12.
 
 In the Matter of World App Processing of Personal Information
-
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 Philippines. 79  In response, RJW and JPZ were introduced as representatives of the said local operating partner, to wit:
 
@@ -453,10 +340,7 @@ JSB: Right .
 
 DKR: And yeah, and once we've completed all of these, we are also under your guidance. Also looking to register with the NPC, if that's deemed to be something that is needed.
 
-> 79 Clarificatory Hearing dated 23 May 2025.
-> 80 See Transcription of Clarificatory Hearing dated 23 May 2025, at p. 12. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 JSB: Right. Could you give us a very brief background of the nature of your company?
 
@@ -470,13 +354,8 @@ Given these circumstances, the contention of WCPHC that it was not afforded the 
 
 Indeed, due process cannot be invoked by a party who, despite said opportunity, failed to act or avail itself of the remedies open to it. The constitutional guarantee of due process is meant to ensure fairness— not to shield negligence or inaction. As consistently held by the Supreme Court of the Philippines, “the essence of due process is simply the opportunity to be heard.” 83  It is not violated where a party is given the chance to present its side but fails to do so. Thus, WCPHC cannot now fault the Commission for its own failure to respond or comply, as the denial of due process cannot be predicated on a party’s deliberate choice or neglect. To sustain WCPHC’s claim would set a perilous precedent where a PIP having been notified by its PIC and even present in the very proceedings could later argue lack of due process by simply asserting technical non-notification. Such a view would distort the concept of administrative due process and defeat the very accountability structure established under the DPA, its IRR and issuances, which hold the PIC and its PIP to a unified standard of responsibility and cooperation as extensively discussed earlier.
 
-> 81 See Transcription of Clarificatory Hearing dated 23 May 2025, at p. 57 to 58.
-> 82 Id.
-> 83 Minette Baptista v. Rosario Villanueva, G.R. No. 194709, (July 31, 2013).
 
 In the Matter of World App Processing of Personal Information
-
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 Further, indeed WCPHC is correct when it stated that the Commission is empowered to issue an ex parte CDO pursuant to NPC Circular No. 20-02, known as the Rules on the Issuance of Cease and Desist Orders (Rules on the Issuance of CDO) 84 , in relation to Section 7 (c) of the DPA. 85  Under these provisions, the Commission may motu proprio or upon complaint, issue an ex parte order when all of the following concur:
 
@@ -490,11 +369,7 @@ Hence, if an ex parte CDO was issued against TFH, WCPHC, as the PIP of TFH, woul
 
 This outcome demonstrates the accountability structure established under the DPA, where the PIC remains primarily responsible for ensuring lawful processing and for the acts of its processors, while the PIP is likewise bound to act only upon the PIC’s lawful instructions. The suspension of WCPHC’s verification activities, as a consequence of the CDO directed at TFH, therefore illustrates the operational interdependence between the two entities and reinforces that accountability under the DPA extends beyond contractual boundaries to all processing activities carried out within the PIC-PIP relationship. While the Commission appreciates WCPHC’s assertion that the issuance of an ex parte CDO was not the Commission’s intention, the foregoing conclusion nevertheless stands.
 
-> 84 NPC Circular No. 20-02 or the Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission.
-> 85 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 7 (c), Chapter II (2012).
-> 86 NPC Circular No. 20-02 or the Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission, Section 4. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 Accordingly, it is indisputable that the notice and due process afforded to TFH effectively extend to WCPHC, given that both entities operate within a unified chain of responsibility in an outsourced data processing arrangement. Consequently, WCPHC is legally bound to comply with and suspend all its operations pursuant to the CDO dated 23 September 2025, given that it functions as TFH’s delegated PIP, and is subject to the same regulatory directives and orders imposed upon its PIC, TFH. Lastly, the duty to ensure receipt and compliance with regulatory mandates and orders rests upon TFH, being the PIC. Such responsibility cannot be imputed to the Commission, as the PIC bears primary accountability under the DPA for ensuring that all obligations and directives are duly observed and implemented. Nonetheless and for administrative prudence, the Commission is providing WCPHC a copy of this Resolution to facilitate coordination with TFH, its PIC.
 
@@ -508,27 +383,17 @@ Thus, it is now paramount to elaborate on why the claimed purpose to verify an i
 
 According to TFH, the processing of iris scans and facial images aims to provide a system capable of verifying whether an individual is a unique human, in a manner that does not require revealing identifying characteristics about a particular person. 89  TFH further claims that it
 
-> 87 Cease and Desist Order (CDO) In the matter of World App Processing of Personal Information dated 23 September 2025.
-> 88 TFH’s Comment dated 15 October 2025, at par. 148, in compliance with CDO dated 23 September 2025.
-> 89 Id. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 has evaluated alternative methods for verifying human uniqueness and found them less effective in combating identity fraud. 90  TFH states that “By adopting this design, Respondent has achieved the rare combination of scientific precision, privacy preservation, and proportionality — confirming that the processing of facial and iris images is the most privacy-preserving and proportionate means of achieving proof of unique personhood”. 91
 
-The Commission has previously addressed why the processing of iris and facial biometrics is excessive and unnecessary for the determination of “personhood.” What now merits emphasis is to determine whether the purpose of verifying one as a unique human is necessary and not excessive. In its Comment, TFH explained how such processing for purposes of verifying one as a “unique human” concretely addresses the challenges in this ”current era of AI - where deepfakes, synthetic images, and automated agents can convincingly replicate human attributes”. 92  TFH itself describes World ID as a tool allowing users to authenticate into applications without disclosing personal information 93 —essentially proving that one is a unique human, but not who that human actually is. In TFH’s own words:
+The Commission has previously addressed why the processing of iris and facial biometrics is excessive and unnecessary for the determination of “personhood.” What now merits emphasis is to determine whether the purpose of verifying one as a unique human is necessary and not excessive. In its Comment, TFH explained how such processing for purposes of verifying one as a “unique human” concretely addresses the challenges in this ”current era of AI-where deepfakes, synthetic images, and automated agents can convincingly replicate human attributes”. 92  TFH itself describes World ID as a tool allowing users to authenticate into applications without disclosing personal information 93 —essentially proving that one is a unique human, but not who that human actually is. In TFH’s own words:
 
 xxx each World ID is only associated with one unique human, allowing users to sign in and authenticate into web, mobile, and decentralized applications without having to resort to more traditional authentication methods that reveal a great amount of personal information (e.g., email and password logins), creating a trustworthy way to tell real, unique humans apart from bots, duplicates, and synthetic identities and other purposes. 94
 
 This description makes clear that World ID serves to distinguish humans from automated agents, but does not link the verified “unique human” to any verifiable identity. The verified World ID does not prevent a user from adopting or assuming another person’s image, name, or persona once authenticated. For instance, as TFH announced in its partnership with Match Group, World ID will be piloted as an age-verification and authenticity feature for Tinder users in Japan,
 
-> 90 Id , at par. 152.2.
-> 91 TFH’s Comment dated 15 October 2025, at par. 153, in compliance with CDO dated 23 September 2025.
-> 92 WCPHC’s Comment dated 16 October 2025, at par. 152.4.
-> 93 TFH’s Comment dated 15 October 2025 at par. 148 to NPC Cease and Desist Order No. CID CDO 25-001 dated 23 September 2025.
-> 94 Id. at par. 148. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 purportedly enabling users to interact “with confidence” knowing that profiles represent real people seeking real connections. 95
 
@@ -540,10 +405,8 @@ This limitation persists regardless of the application or platform where World I
 
 TFH also asserts that non-biometric indicators are no longer sufficient to distinguish whether a human is genuine or unique and that
 
-> 95 World, Available at https://world.org/blog/announcements/experience-real-connections-with-
 > world-id-and-match-group (last accessed 05 November 2025) .CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 verification as a unique human through iris scan and facial image is necessary in the current era of AI — where deepfakes, synthetic images, and automated agents can convincingly replicate human attributes. 96  However, similar to identity fraud, TFH has not substantiated its claim how scanning a person’s iris and taking a photo of an individual’s face via the Orb to verify that one is a unique human will be useful in battling deepfakes or synthetic images. It is the Commission’s position that the act of verifying “uniqueness of personhood” through iris scanning does not, in itself, address the threats posed by deepfakes or synthetic media.
 
@@ -551,13 +414,7 @@ A deepfake is a video, photo, or audio recording that seems real but has been ma
 
 However, the primary issue with deepfakes, from the perspective of the recipient or viewer, is the inability to verify whether the image or video they are viewing depicts a real, unique human being. Possession of a verified World ID does not enable the recipient to confirm the authenticity of the content. From the perspective of individuals whose
 
-> 96 TFH’s Comment dated 15 October 2025, at par. 152.4, in compliance with CDO dated 23 September 2025.
-> 97 Science & Tech Spotlight: Deepfakes, Science, Technology Assessment, and Analysis, February 2020. Available at https://www.gao.gov/products/gao-20-379sp (l ast accessed 07 November 2025)
-> 98 Id.
-> 99 Id.
-> 100 TFH’s Comment date 15 October 2025, at par. 13, in compliance with NPC CDO dated 23 September 2025. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 faces, voices, or other biometric data are used in creating deepfake contents without consent, the problem lies in the difficulty of proving that they are not the person depicted in a deepfake. While individuals with verified World ID can establish that they are unique human, this does not prevent the continued creation or dissemination of deepfakes.
 
@@ -565,11 +422,8 @@ To illustrate further, a verified World ID user could still create a video false
 
 In addition, deepfakes are produced through AI model training and content-generation processes, not through failures in verifying humanness. The proper countermeasures include provenance tracking, watermarking, content authentication frameworks, and digital-signature-based verification of source materials. 101  None of these are achieved by scanning or storing iris scans and facial images. A proportional and targeted response would address the technical mechanisms of deepfake production and not the collection and processing of biometric data unrelated to the content-creation process. Using iris scans to solve a content-authenticity problem is not only ineffective but also disproportionate under Section 11 of the DPA, which requires that processing be necessary and not excessive relative to the purpose.
 
-> 101 Safeguarding Authenticity in the Digital Realm: A Holistic Approach Integrating Content Provenance, Secure Watermarking, and Transparent Labeling to Combat Deepfakes, Ashutosh Pal Singh, International Journal for Multidisciplinary Research, June 2024.
 
 In the Matter of World App Processing of Personal Information
-
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 Finally, TFH asserts that World ID provides a reliable, privacy-preserving signal of uniqueness, enabling individuals to prove that they are a real and unique person without revealing their identity:
 
@@ -583,10 +437,7 @@ However, as earlier discussed, World ID does not constitute proof of identity bu
 
 Given that limitation, the Commission finds it necessary to ask: what is the practical purpose of proving “uniqueness” if allegedly the system is structurally incapable of linking that uniqueness to any verifiable identity? Even assuming that the signal of uniqueness is reliable, it offers no assurance to businesses or online platforms that the user interacting with them is who they claim to be. As mentioned earlier, a verified human could still assume a false name, use another person’s image, or operate multiple accounts representing fabricated
 
-> 102 TFH’s Comment dated 15 October 2025, at par. 12, in compliance with NPC CDO dated 23 September 2025.
-> 103 TFH’s Comment dated 15 October 2025, at par. 14, in compliance with NPC CDO dated 23 September 2025. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 personas. Thus, while TFH promotes the concept of a privacy-preserving verification signal, this signal provides no meaningful safeguard against identity fraud, impersonation, or deepfakes—the very risks TFH claims to address.
 
@@ -600,9 +451,7 @@ The tick box isn’t the problem. In the CDO, the Commission stated that once a 
 
 Indeed, the use of tick box is allowed as proof of a data subject’s consent, there is no question to that. However, TFH failed to ask the consent of data subjects in relation to the “limited set of personal data
 
-> 104 Letter dated 19 May 2025 from Tools for Humanity’s Chief Legal and Privacy Officer. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 processed by Respondent for the purposes of account creation.” 105
 
@@ -610,16 +459,11 @@ Acknowledging privacy notice does not meet the requirements of informed consent 
 
 To illustrate, TFH should have provided a separate tick box specifically asking the data subject that they agree with the processing of personal data such as birthdate, phone number, contacts among others for the purpose of account creation. This tick box is separate and distinct from the “I agree with World App User Terms and Conditions and acknowledge the TFH Privacy notice”. While the Commission appreciates and takes note of the changes made by TFH as to its Privacy Notice, the same does not cure the erroneous process of obtaining the consent of data subjects relative to the World App. The World App itself processes personal data, in fact sensitive personal information such as birthdate. Further, it processes passports which contain sensitive personal information. While TFH, in its submitted Comment dated 15 October 2025, stated that “This Honorable Commission expressed concerns that World App processed passport information of users. In this regard, Respondent notes that this feature is not available to users in the Philippines” 107  such was not the case previously as this feature was very well accessible to Filipino data subjects as evidenced by the fact that this was one of the personal information which was the subject of the questions during the Clarificatory Hearing on 23 May 2025 and as mentioned in the CDO. Thus, the more than five million Filipino data subjects 108  who created their World App provided their birthdates, among others, without being presented the proper consent form. Similarly, those who provided their passport information prior to the “passport
 
-> 105 TFH’s Comment dated 15 October 2025, at par. 85, in compliance with NPC CDO dated 23 September 2025.
-> 106 See TFH’s Comment dated 15 October 2025, Revised (1 Oct) Privacy Notice, Annex 2A, in the compliance with NPC CDO dated 23 September 2025.
-> 107 TFH’s Comment dated 15 October 2025, at par. 137, in compliance with NPC CDO dated 23 September 2025.
-> 108 TFH’s Comment dated 15 October 2025, at par. 168, in compliance with Order dated 23 September 2025. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 information” being made unavailable to the Philippines, may have provided the same without being asked the proper consent.
 
-TFH, in its Comment, claims that “its design and implementation of workflow forming part of World App aligns with the framework” contemplated in Section 3 of NPC Circular No. 2023-04 dated 07 November 2023, known as the Guidelines on Consent, (Guidelines on Consent) considering that it has “two separate consent stages - one for when the user initially creates an unverified World ID and one for when the user elects to verify his/her World ID via the Orb verification process”. 109
+TFH, in its Comment, claims that “its design and implementation of workflow forming part of World App aligns with the framework” contemplated in Section 3 of NPC Circular No. 2023-04 dated 07 November 2023, known as the Guidelines on Consent, (Guidelines on Consent) considering that it has “two separate consent stages-one for when the user initially creates an unverified World ID and one for when the user elects to verify his/her World ID via the Orb verification process”. 109
 
 The Respondent’s claim of compliance on the Guidelines on Consent is inaccurate. The Guidelines on Consent make it clear that “the requirement of having a privacy statement and notice is separate and distinct from obtaining the consent of the data subject in an appropriate consent form or its equivalent for the lawful processing of personal data.” 110  This distinction underscores that providing aprivacy notice and obtaining consent are two different compliance requirements—not two stages of consent. The law mandates that any consent obtained must be specific, informed, and freely given for each distinct purpose of processing. Thus, characterizing the acknowledgement of the privacy notice as the “first stage” of consent is erroneous and inconsistent with the intent of the Guidelines.
 
@@ -627,11 +471,7 @@ IV. Incentivizing consent is not unlawful per se, Commission determines on a cas
 
 Section 7 of the Guidelines on Consent 111  issued by the Commission specifically states that the Commission is empowered to make a determination if a PIC uses deceptive manners, undue influence or coercion that would render the consent obtained not valid. The reason for such is that the validity of consent cannot be assessed in the abstract, but must be examined in relation to the specific context and nature of the personal data being processed, including the sensitivity of the data, the relationship between the parties, and the conditions under which consent was sought. In this case, the Commission looked into the incentive provided and how such incentive is significant
 
-> 109 Id at par. 118.
-> 110 NPC Circular No. 2023-04, Guidelines on Consent dated 07 November 2023, Section 3 (D) (5).
-> 111 NPC Circular No. 2023-04, Guidelines on Consent dated 07 November 2023, Section 7. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 relative to local income or economic conditions of this country; the fact that data subject may need the money more than they understand or value their privacy; and the processing involves high-risk data such as immutable iris biometric that cannot be revoked or replaced once compromised.
 
@@ -643,14 +483,7 @@ TFH asserts that it does not offer any incentive to users for undertaking Orb ve
 
 TFH further states that Worldcoin is managed by the Worldcoin Foundation, an independent non-profit organization. 116  Meanwhile, according to the White Paper 117 , World Network “consists of a privacy-preserving digital identity network (World ID) built on proof of
 
-> 112 WCPHC’s Comment dated 16 October 2025, at par. 93.
-> 113 Letter dated 11 October 2025 from GAC on behalf of Tools for Humanity (TFH).
-> 114 TFH’s Comment dated 15 October 2025, at par. 29, in compliance with NPC CDO dated 23 September 2025, par. 29.
-> 115 Id at par. 29.
-> 116 Id at par. 7.
-> 117 World Whitepaper, p.1/170, Annex G on the Compliance of Minute Resolution dated 23 May 2025. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 human and, where laws allow, a digital currency (WLD). Every human has access to WLD tokens simply for being human. World ID and WLD are currently complemented by World App, the first frontend to World ID and the World Network, developed by the contributor team at TFH. 118
 
@@ -662,13 +495,8 @@ While TFH asserts that it does not itself offer any incentive for Orb registrati
 
 Hence, in essence, the incentive mechanism operates within the same ecosystem through which TFH collects and processes biometric data. Although participation may be described as “voluntary,” the interlinked nature of the World Network and the tangible financial value of the WLD token blur the distinction between genuine consent and induced participation. The design of the verification process to get a verified WorldID itself embeds the incentive into the overall data subject experience, making it a foreseeable and intended outcome of the process. In fact, in the Memorandum of Understanding (MOU) of WCPH JV PTE. LTD. and the Rizal Provincial Government as annexed in WCPHC’s Comment, WLD Tokens are defined as:
 
-> 118 Id.
-> 119 Id at par. 29.
-> 120 WCPHC’s Comment dated 16 October 2025, at par. 4 & 5.
 
 In the Matter of World App Processing of Personal Information
-
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 WLD Tokens – A form of cryptocurrency given as a reward for completing the verification process. These tokens can be stored in a digital wallet and used for online transactions. 121
 
@@ -680,12 +508,7 @@ Given the foregoing circumstances, the assertion of TFH in its Comment, that “
 
 The very nature and structure of the transaction reveal, by necessary implication, that participants are induced to undergo the verification process by reason of the rewards to be granted. The act of offering WLD Tokens, a form of cryptocurrency capable of conversion into fiat or real-world money, constitutes an incentive of monetary character, notwithstanding its digital or non-cash form.
 
-> 121 Id at Annex ”2”, Memorandum of Understanding between WCPH JV PTE. LTD and the Rizal Provincial Government dated 05 March 2025.
-> 122 Annex ”A“, screenshot taken on 21 October 2025.
-> 123 TFH’s Comment dated 15 October 2025, at par. 48, in compliance with NPC CDO dated 23 September 2025.
-> 124 WCPHC’s Comment dated 16 October 2025, Annex ”2”, Memorandum of Understanding between WCPH JV PTE. LTD and the Rizal Provincial Government dated 05 March 2025. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 The Respondent cannot feign ignorance of the fact that such cryptocurrency rewards, though not expressly denominated as “cash” or “monetary incentives,” undeniably possess pecuniary value and can be converted into legal tender. Hence, the provision of WLD Tokens as consideration for participation effectively operates as a financial influence, one that is reasonably calculated to attract and sway individuals, particularly members of the Filipino public, to engage in the Orb verification process.
 
@@ -697,11 +520,7 @@ To obtain a verified World ID, a data subject must first download the World App 
 
 In order to obtain a verified World ID, a data subject necessarily uses both the World App and the Orb wherein the former is needed to initiate registration, schedule verification, give consent to the processing of biometric data, and claim WLD tokens and the latter to perform the actual biometric capture. These processes are inseparable
 
-> 125 WCPHC’s Comment dated 16 October 2025, at par. 98-100.
-> 126 Id at par. 73.
-> 127 Cease and Desist Order (CDO) In the matter of World App Processing of Personal Information dated 23 September 2025. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 and operate within one continuous data flow managed within TFH’s network. Accordingly, a CDO limited only to the Orb or to the World App would be ineffective and inconsistent with the holistic nature of the data processing involved. How can the CDO be effectively implemented if scheduling, consent-giving, and token claiming all occur through the World App itself? The Commission thus finds that referring to both the Orb and the World App in the CDO was necessary and proper to give full effect to its directive and to prevent the continued processing of biometric data through any component of the integrated system.
 
@@ -715,13 +534,7 @@ Moreover, even Mini Apps that are not labeled as “Human Only” still appear t
 
 If, as TFH claims, unverified World ID users retain full access to substantial functionalities of these Mini Apps in the World App without Orb verification, then it becomes necessary for TFH to explain
 
-> 128 WCPHC’s Comment dated 16 October 2025, at par. 10.
-> 129 Tacis v. Shield Security Services, Inc. G.R. No. 234575 (July 07, 2021).
-> 130 Annex “B”, World APP Screenshot.
-> 131 TFH’s Comment dated 15 October 2025, Annex 2A, Revised (01 Oct) Privacy Notice, in compliance with NPC CDO dated 23 September 2025.
-> 132 Annex “C”, Screenshot taken on 28 October 2025. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 why these apps still require visibility into a user’s verification level. The presence of such permissions suggests that verification status forms part of the data exchange between the World App and its Mini Apps, contradicting TFH’s assertion that Orb verification is optional.
 
@@ -733,12 +546,7 @@ TFH asserts that it is “incapable of decrypting or accessing the contents of t
 
 The description of TFH provides that there are two keys, however these two keys are within TFH’s control. As such, TFH can technically
 
-> 133 TFH’s Comment dated 15 October 2025, at par. 10, in compliance with NPC CDO dated 23 September 2025
-> 134 Id at par. 25.1
-> 135 TFH’s Comment dated 15 October 2025, at par. 25.1, in compliance with NPC CDO dated 23 September 2025
-> 136 Id. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 access both keys — either directly or through software updates, system access, or legal orders. Hence, TFH’s claim that “it cannot arbitrarily decrypt” 137  is only partly true as indeed they have set up a process that requires two keys, making casual access harder but since they control both keys, the barrier is procedural, not absolute.
 
@@ -754,13 +562,7 @@ Moreover, the Privacy Notice’s statement that “information we collect when y
 
 TFH likewise asserted that “even without scrubbing or erasure procedures, (a) the relevant Orb software is programmed in Rust
 
-> 137 Id.
-> 138 Id at par. 16.
-> 139 TFH’s Comment dated 15 October 2025, Annex 2A, Revised (01 Oct) Privacy Notice, in compliance with NPC CDO dated 23 September 2025.
-> 140 Id.
-> 141 Id. CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 which follows a memory safety model, whereby once a variable’s lifecycle ends, the data is automatically released from memory and cannot be accessed or recovered and (b) it is technologically impossible to retain any data in volatile memory when the Orb is powered off.” 142
 
@@ -770,17 +572,14 @@ Further, this is apart from TFH’s earlier assertion that the Orb deletes biome
 
 On a final point, the Commission neither favors nor disfavors any particular technology. Borrowing the words of the NPC’s inaugural Chairman, Mr. Raymund Liboro, “the NPC’s CDO on WorldApp is not antitechnology—it is a safeguard for responsible innovation. It allows this technology to mature responsibly and gives its creators time to rethink their approach with greater ethical care. This pause is not a rejection of progress but a reminder that real progress protects people first.” 143
 
-> 142 Id at par. 22.1
-> 143 Newsbytes.PH, Ex-NPC Chief: Buying consent for iris scans is not inclusion, it’s exploitation,
 > available at https://newsbytes.ph/2025/10/14/ex-npc-chief-buying-consent-for-iris-scans-is-not-inclusion-its-exploitation/ (last accessed 12 November 2025). CID CDO 25-001
 > In the Matter of World App Processing of Personal Information
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 This statement truly encapsulates the NPC’s guiding philosophy then and now: that innovation and protection are not opposing forces, but parallel duties of a just and humane society. The NPC was created not to hinder advancement but to ensure that the Filipino people—both the digitally adept and those who may not fully understand what they are consenting to or giving away are never left unprotected in the face of an increasingly complex technological environment.
 
 As technology exponentially grows ever more powerful, so too must the Commission’s vigilance, empathy, and resolve. For what good is progress if it forgets the very people it was meant to serve?
 
-WHEREFORE , given the foregoing and the reasoning provided in the Cease and Desist Order (CDO) dated 23 September 2025, this Commission resolves to EXTEND the effectivity of the said CDO pertaining to the processing of TFH within the Philippines in the World App and through the Orb.
+**WHEREFORE** , given the foregoing and the reasoning provided in the Cease and Desist Order (CDO) dated 23 September 2025, this Commission resolves to EXTEND the effectivity of the said CDO pertaining to the processing of TFH within the Philippines in the World App and through the Orb.
 
 The extended CDO shall remain in force and effect until the same is modified or lifted by the Commission. Pursuant to Section 15, Rule III, of the NPC Circular No. 20-02 on the Rules on the Issuance of Cease and Desist Orders, TFH may, at any time during the effectivity of the extended CDO, file a motion to lift on the ground that the factual or legal basis for its issuance no longer exists, furnishing a copy thereof to the CID.
 
@@ -796,9 +595,7 @@ SUBMIT to the Commission a report every three (3) weeks after receipt of this Re
 
 In the Matter of World App Processing of Personal Information
 
-> NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
-
-SO ORDERED.
+**SO ORDERED**.
 
 Quezon City, Philippines.
 
@@ -871,3 +668,288 @@ In the Matter of World App Processing of Personal Information
 NPC_OPC_ADJU_RESO-V1.0, R3.0, 24 March 2025 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
 
 Annex “C”
+[^1]: Application for the Issuance of the Cease and Desist Order dated 07 May 2025.
+[^2]: Minute Resolution CID CDO No. 25-001, dated 08 May 2025.
+[^3]: Letter dated 19 May 2025 signed by TFH in relation to CID CDO No. 25-001.
+[^4]: Clarificatory Hearing CID CDO No. 25-001, Adju-25-00178, 23 May 2025.
+[^5]: Minute Resolution dated 23 May 2025, CID CDO 25-001.
+[^6]: TFH Response Letter dated 08 June 2025 in compliance to Minute Resolution dated 23 May 2025.
+[^7]: See email from NM dated 30 June 2025 at 12:43 pm.
+[^8]: See email from NM dated 30 June 2025 at 6:23 pm.
+[^9]: Minute Resolution dated 08 May 2025, CID CDO 25-001.
+[^10]: 
+[^11]: 
+[^12]: 
+[^13]: 
+[^14]: 
+[^15]: 
+[^16]: 
+[^17]: 
+[^18]: 
+[^19]: 
+[^20]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 11, Chapter III (2012).
+[^21]: Id at Section 16.
+[^22]: Cease and Desist Order (CDO) In the matter of World App Processing of Personal Information dated 23 September 2025.
+[^23]: TFH’s Comment dated 15 October 2025, in compliance with NPC CDO dated 23 September 2025.
+[^25]: TFH’s Comment dated 15 October 2025, at par. 51, in compliance with NPC CDO dated 23 September 2025.
+[^26]: Id at par. 53.
+[^27]: Id at par. 67.
+[^28]: Id at par. 74.
+[^29]: Id at par. 75.
+[^30]: Id at par. 127.
+[^31]: TFH’s Comment dated 15 October 2025, at par. 139, in compliance with NPC CDO dated 23 September 2025.
+[^32]: Id at par. 142. CID CDO 25-001
+[^33]: Id at par. 152.
+[^34]: Id at par. 155.
+[^35]: Id at par. 164.
+[^36]: Id at par. 167.
+[^37]: TFH’s Comment dated 15 October 2025, at par. 169, in compliance with NPC CDO dated 23 September 2025.
+[^38]: Id at par. 180.
+[^39]: Id at p. 46.
+[^40]: WCPHC’s Comment dated 16 October 2025, at par. 28.
+[^41]: Id at par. 38.
+[^42]: Id at p. 40.
+[^43]: Order, In the Matter of World App Processing of Personal Information dated 20 October 2025.
+[^44]: Compliance (Re: Order dated 20 October 2025) dated 24 October 2025.
+[^45]: Id at par. 4.
+[^46]: Id at par. 6.
+[^47]: Id at par. 7.
+[^48]: Id at p. 9.
+[^49]: Manifestation of Tools for Humanity (Re: Submission of Apostilled Documents) dated 24 October 2025.
+[^50]: NPC Circular No. 20-02, known as the Rules on the Issuance of Cease and Desist Order of the National Privacy Commission, Section 12.
+[^51]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 3 (H), Chapter I (2012). CID CDO 25-001
+[^52]: WCPHC’s Comment dated 16 October 2025, at par. 7.
+[^53]: Id at par. 46.
+[^54]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X; Cambridge Dictionary, Available at https://dictionary.cambridge.org/us/dictionary/english/outsourcing (last accessed 07 November 2025)
+[^55]: WCPHC’s Comment dated 16 October 2025, at par. 31. CID CDO 25-001
+[^56]: Id.
+[^57]: Id. at par. 39.
+[^58]: Id.
+[^59]: Id. at par. 7. CID CDO 25-001
+[^60]: See Transcription, Clarificatory Hearing CID CDO No. 25-001, Adju-25-00178, 23 May 2025. CID CDO 25-001
+[^61]: WCPHC’s Comment dated 16 October 2025, at par. 31.
+[^62]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 3 (i), Chapter I (2012).
+[^63]: Id. Section 21.
+[^64]: Id. Section 21; Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule XII. CID CDO 25-001
+[^65]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X, Section 43 and 44.
+[^66]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X.
+[^67]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 21, Chapter VI (2012).
+[^68]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X, Section 44 (b)(8). CID CDO 25-001
+[^69]: WCPHC’s Comment dated 16 October 2025, at par. 34.
+[^70]: Sharon Flores-Concepcion v. Judge Liberty Castaneda, Regional Trial Court, Branch 67, Paniqui, Tarlac, A.M. No. RTJ-15-2438 [Formerly OCA I.P.P No. 11-3681-RTJ], (September 02, 2020); Haydee C. Casimiro v. Filipino T. Tandog, G.R. No. 146137, (June 08, 2005).
+[^71]: Id.
+[^72]: Id.
+[^73]: Id.
+[^74]: Id at par. 36.
+[^75]: Id.
+[^76]: WCPHC’S Comment dated 15 October 2025, at par. 35.3.
+[^77]: Id at par. 35.4 to 35.5.
+[^78]: See Transcription of Clarificatory Hearing dated 23 May 2025, at p. 12.
+[^79]: Clarificatory Hearing dated 23 May 2025.
+[^80]: See Transcription of Clarificatory Hearing dated 23 May 2025, at p. 12. CID CDO 25-001
+[^81]: See Transcription of Clarificatory Hearing dated 23 May 2025, at p. 57 to 58.
+[^82]: Id.
+[^83]: Minette Baptista v. Rosario Villanueva, G.R. No. 194709, (July 31, 2013).
+[^84]: NPC Circular No. 20-02 or the Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission.
+[^85]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 7 (c), Chapter II (2012).
+[^86]: NPC Circular No. 20-02 or the Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission, Section 4. CID CDO 25-001
+[^87]: Cease and Desist Order (CDO) In the matter of World App Processing of Personal Information dated 23 September 2025.
+[^88]: TFH’s Comment dated 15 October 2025, at par. 148, in compliance with CDO dated 23 September 2025.
+[^89]: Id. CID CDO 25-001
+[^90]: Id , at par. 152.2.
+[^91]: TFH’s Comment dated 15 October 2025, at par. 153, in compliance with CDO dated 23 September 2025.
+[^92]: WCPHC’s Comment dated 16 October 2025, at par. 152.4.
+[^93]: TFH’s Comment dated 15 October 2025 at par. 148 to NPC Cease and Desist Order No. CID CDO 25-001 dated 23 September 2025.
+[^94]: Id. at par. 148. CID CDO 25-001
+[^95]: World, Available at https://world.org/blog/announcements/experience-real-connections-with-
+[^96]: TFH’s Comment dated 15 October 2025, at par. 152.4, in compliance with CDO dated 23 September 2025.
+[^97]: Science & Tech Spotlight: Deepfakes, Science, Technology Assessment, and Analysis, February 2020. Available at https://www.gao.gov/products/gao-20-379sp (l ast accessed 07 November 2025)
+[^98]: Id.
+[^99]: Id.
+[^100]: TFH’s Comment date 15 October 2025, at par. 13, in compliance with NPC CDO dated 23 September 2025. CID CDO 25-001
+[^101]: Safeguarding Authenticity in the Digital Realm: A Holistic Approach Integrating Content Provenance, Secure Watermarking, and Transparent Labeling to Combat Deepfakes, Ashutosh Pal Singh, International Journal for Multidisciplinary Research, June 2024.
+[^102]: TFH’s Comment dated 15 October 2025, at par. 12, in compliance with NPC CDO dated 23 September 2025.
+[^103]: TFH’s Comment dated 15 October 2025, at par. 14, in compliance with NPC CDO dated 23 September 2025. CID CDO 25-001
+[^104]: Letter dated 19 May 2025 from Tools for Humanity’s Chief Legal and Privacy Officer. CID CDO 25-001
+[^105]: TFH’s Comment dated 15 October 2025, at par. 85, in compliance with NPC CDO dated 23 September 2025.
+[^106]: See TFH’s Comment dated 15 October 2025, Revised (1 Oct) Privacy Notice, Annex 2A, in the compliance with NPC CDO dated 23 September 2025.
+[^107]: TFH’s Comment dated 15 October 2025, at par. 137, in compliance with NPC CDO dated 23 September 2025.
+[^108]: TFH’s Comment dated 15 October 2025, at par. 168, in compliance with Order dated 23 September 2025. CID CDO 25-001
+[^109]: Id at par. 118.
+[^110]: NPC Circular No. 2023-04, Guidelines on Consent dated 07 November 2023, Section 3 (D) (5).
+[^111]: NPC Circular No. 2023-04, Guidelines on Consent dated 07 November 2023, Section 7. CID CDO 25-001
+[^112]: WCPHC’s Comment dated 16 October 2025, at par. 93.
+[^113]: Letter dated 11 October 2025 from GAC on behalf of Tools for Humanity (TFH).
+[^114]: TFH’s Comment dated 15 October 2025, at par. 29, in compliance with NPC CDO dated 23 September 2025, par. 29.
+[^115]: Id at par. 29.
+[^116]: Id at par. 7.
+[^117]: World Whitepaper, p.1/170, Annex G on the Compliance of Minute Resolution dated 23 May 2025. CID CDO 25-001
+[^118]: Id.
+[^119]: Id at par. 29.
+[^120]: WCPHC’s Comment dated 16 October 2025, at par. 4 & 5.
+[^121]: Id at Annex ”2”, Memorandum of Understanding between WCPH JV PTE. LTD and the Rizal Provincial Government dated 05 March 2025.
+[^122]: Annex ”A“, screenshot taken on 21 October 2025.
+[^123]: TFH’s Comment dated 15 October 2025, at par. 48, in compliance with NPC CDO dated 23 September 2025.
+[^124]: WCPHC’s Comment dated 16 October 2025, Annex ”2”, Memorandum of Understanding between WCPH JV PTE. LTD and the Rizal Provincial Government dated 05 March 2025. CID CDO 25-001
+[^125]: WCPHC’s Comment dated 16 October 2025, at par. 98-100.
+[^126]: Id at par. 73.
+[^127]: Cease and Desist Order (CDO) In the matter of World App Processing of Personal Information dated 23 September 2025. CID CDO 25-001
+[^128]: WCPHC’s Comment dated 16 October 2025, at par. 10.
+[^129]: Tacis v. Shield Security Services, Inc. G.R. No. 234575 (July 07, 2021).
+[^130]: Annex “B”, World APP Screenshot.
+[^131]: TFH’s Comment dated 15 October 2025, Annex 2A, Revised (01 Oct) Privacy Notice, in compliance with NPC CDO dated 23 September 2025.
+[^132]: Annex “C”, Screenshot taken on 28 October 2025. CID CDO 25-001
+[^133]: TFH’s Comment dated 15 October 2025, at par. 10, in compliance with NPC CDO dated 23 September 2025
+[^134]: Id at par. 25.1
+[^135]: TFH’s Comment dated 15 October 2025, at par. 25.1, in compliance with NPC CDO dated 23 September 2025
+[^136]: Id. CID CDO 25-001
+[^137]: Id.
+[^138]: Id at par. 16.
+[^139]: TFH’s Comment dated 15 October 2025, Annex 2A, Revised (01 Oct) Privacy Notice, in compliance with NPC CDO dated 23 September 2025.
+[^140]: Id.
+[^141]: Id. CID CDO 25-001
+[^142]: Id at par. 22.1
+[^143]: Newsbytes.PH, Ex-NPC Chief: Buying consent for iris scans is not inclusion, it’s exploitation,
+[^1]: Application for the Issuance of the Cease and Desist Order dated 07 May 2025.
+[^2]: Minute Resolution CID CDO No. 25-001, dated 08 May 2025.
+[^3]: Letter dated 19 May 2025 signed by TFH in relation to CID CDO No. 25-001.
+[^4]: Clarificatory Hearing CID CDO No. 25-001, Adju-25-00178, 23 May 2025.
+[^5]: Minute Resolution dated 23 May 2025, CID CDO 25-001.
+[^6]: TFH Response Letter dated 08 June 2025 in compliance to Minute Resolution dated 23 May 2025.
+[^7]: See email from NM dated 30 June 2025 at 12:43 pm.
+[^8]: See email from NM dated 30 June 2025 at 6:23 pm.
+[^9]: Minute Resolution dated 08 May 2025, CID CDO 25-001.
+[^10]: 
+[^11]: 
+[^12]: 
+[^13]: 
+[^14]: 
+[^15]: 
+[^16]: 
+[^17]: 
+[^18]: 
+[^19]: 
+[^20]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 11, Chapter III (2012).
+[^21]: Id at Section 16.
+[^22]: Cease and Desist Order (CDO) In the matter of World App Processing of Personal Information dated 23 September 2025.
+[^23]: TFH’s Comment dated 15 October 2025, in compliance with NPC CDO dated 23 September 2025.
+[^25]: TFH’s Comment dated 15 October 2025, at par. 51, in compliance with NPC CDO dated 23 September 2025.
+[^26]: Id at par. 53.
+[^27]: Id at par. 67.
+[^28]: Id at par. 74.
+[^29]: Id at par. 75.
+[^30]: Id at par. 127.
+[^31]: TFH’s Comment dated 15 October 2025, at par. 139, in compliance with NPC CDO dated 23 September 2025.
+[^32]: Id at par. 142. CID CDO 25-001
+[^33]: Id at par. 152.
+[^34]: Id at par. 155.
+[^35]: Id at par. 164.
+[^36]: Id at par. 167.
+[^37]: TFH’s Comment dated 15 October 2025, at par. 169, in compliance with NPC CDO dated 23 September 2025.
+[^38]: Id at par. 180.
+[^39]: Id at p. 46.
+[^40]: WCPHC’s Comment dated 16 October 2025, at par. 28.
+[^41]: Id at par. 38.
+[^42]: Id at p. 40.
+[^43]: Order, In the Matter of World App Processing of Personal Information dated 20 October 2025.
+[^44]: Compliance (Re: Order dated 20 October 2025) dated 24 October 2025.
+[^45]: Id at par. 4.
+[^46]: Id at par. 6.
+[^47]: Id at par. 7.
+[^48]: Id at p. 9.
+[^49]: Manifestation of Tools for Humanity (Re: Submission of Apostilled Documents) dated 24 October 2025.
+[^50]: NPC Circular No. 20-02, known as the Rules on the Issuance of Cease and Desist Order of the National Privacy Commission, Section 12.
+[^51]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 3 (H), Chapter I (2012). CID CDO 25-001
+[^52]: WCPHC’s Comment dated 16 October 2025, at par. 7.
+[^53]: Id at par. 46.
+[^54]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X; Cambridge Dictionary, Available at https://dictionary.cambridge.org/us/dictionary/english/outsourcing (last accessed 07 November 2025)
+[^55]: WCPHC’s Comment dated 16 October 2025, at par. 31. CID CDO 25-001
+[^56]: Id.
+[^57]: Id. at par. 39.
+[^58]: Id.
+[^59]: Id. at par. 7. CID CDO 25-001
+[^60]: See Transcription, Clarificatory Hearing CID CDO No. 25-001, Adju-25-00178, 23 May 2025. CID CDO 25-001
+[^61]: WCPHC’s Comment dated 16 October 2025, at par. 31.
+[^62]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 3 (i), Chapter I (2012).
+[^63]: Id. Section 21.
+[^64]: Id. Section 21; Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule XII. CID CDO 25-001
+[^65]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X, Section 43 and 44.
+[^66]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X.
+[^67]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 21, Chapter VI (2012).
+[^68]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X, Section 44 (b)(8). CID CDO 25-001
+[^69]: WCPHC’s Comment dated 16 October 2025, at par. 34.
+[^70]: Sharon Flores-Concepcion v. Judge Liberty Castaneda, Regional Trial Court, Branch 67, Paniqui, Tarlac, A.M. No. RTJ-15-2438 [Formerly OCA I.P.P No. 11-3681-RTJ], (September 02, 2020); Haydee C. Casimiro v. Filipino T. Tandog, G.R. No. 146137, (June 08, 2005).
+[^71]: Id.
+[^72]: Id.
+[^73]: Id.
+[^74]: Id at par. 36.
+[^75]: Id.
+[^76]: WCPHC’S Comment dated 15 October 2025, at par. 35.3.
+[^77]: Id at par. 35.4 to 35.5.
+[^78]: See Transcription of Clarificatory Hearing dated 23 May 2025, at p. 12.
+[^79]: Clarificatory Hearing dated 23 May 2025.
+[^80]: See Transcription of Clarificatory Hearing dated 23 May 2025, at p. 12. CID CDO 25-001
+[^81]: See Transcription of Clarificatory Hearing dated 23 May 2025, at p. 57 to 58.
+[^82]: Id.
+[^83]: Minette Baptista v. Rosario Villanueva, G.R. No. 194709, (July 31, 2013).
+[^84]: NPC Circular No. 20-02 or the Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission.
+[^85]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 7 (c), Chapter II (2012).
+[^86]: NPC Circular No. 20-02 or the Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission, Section 4. CID CDO 25-001
+[^87]: Cease and Desist Order (CDO) In the matter of World App Processing of Personal Information dated 23 September 2025.
+[^88]: TFH’s Comment dated 15 October 2025, at par. 148, in compliance with CDO dated 23 September 2025.
+[^89]: Id. CID CDO 25-001
+[^90]: Id , at par. 152.2.
+[^91]: TFH’s Comment dated 15 October 2025, at par. 153, in compliance with CDO dated 23 September 2025.
+[^92]: WCPHC’s Comment dated 16 October 2025, at par. 152.4.
+[^93]: TFH’s Comment dated 15 October 2025 at par. 148 to NPC Cease and Desist Order No. CID CDO 25-001 dated 23 September 2025.
+[^94]: Id. at par. 148. CID CDO 25-001
+[^95]: World, Available at https://world.org/blog/announcements/experience-real-connections-with-
+[^96]: TFH’s Comment dated 15 October 2025, at par. 152.4, in compliance with CDO dated 23 September 2025.
+[^97]: Science & Tech Spotlight: Deepfakes, Science, Technology Assessment, and Analysis, February 2020. Available at https://www.gao.gov/products/gao-20-379sp (l ast accessed 07 November 2025)
+[^98]: Id.
+[^99]: Id.
+[^100]: TFH’s Comment date 15 October 2025, at par. 13, in compliance with NPC CDO dated 23 September 2025. CID CDO 25-001
+[^101]: Safeguarding Authenticity in the Digital Realm: A Holistic Approach Integrating Content Provenance, Secure Watermarking, and Transparent Labeling to Combat Deepfakes, Ashutosh Pal Singh, International Journal for Multidisciplinary Research, June 2024.
+[^102]: TFH’s Comment dated 15 October 2025, at par. 12, in compliance with NPC CDO dated 23 September 2025.
+[^103]: TFH’s Comment dated 15 October 2025, at par. 14, in compliance with NPC CDO dated 23 September 2025. CID CDO 25-001
+[^104]: Letter dated 19 May 2025 from Tools for Humanity’s Chief Legal and Privacy Officer. CID CDO 25-001
+[^105]: TFH’s Comment dated 15 October 2025, at par. 85, in compliance with NPC CDO dated 23 September 2025.
+[^106]: See TFH’s Comment dated 15 October 2025, Revised (1 Oct) Privacy Notice, Annex 2A, in the compliance with NPC CDO dated 23 September 2025.
+[^107]: TFH’s Comment dated 15 October 2025, at par. 137, in compliance with NPC CDO dated 23 September 2025.
+[^108]: TFH’s Comment dated 15 October 2025, at par. 168, in compliance with Order dated 23 September 2025. CID CDO 25-001
+[^109]: Id at par. 118.
+[^110]: NPC Circular No. 2023-04, Guidelines on Consent dated 07 November 2023, Section 3 (D) (5).
+[^111]: NPC Circular No. 2023-04, Guidelines on Consent dated 07 November 2023, Section 7. CID CDO 25-001
+[^112]: WCPHC’s Comment dated 16 October 2025, at par. 93.
+[^113]: Letter dated 11 October 2025 from GAC on behalf of Tools for Humanity (TFH).
+[^114]: TFH’s Comment dated 15 October 2025, at par. 29, in compliance with NPC CDO dated 23 September 2025, par. 29.
+[^115]: Id at par. 29.
+[^116]: Id at par. 7.
+[^117]: World Whitepaper, p.1/170, Annex G on the Compliance of Minute Resolution dated 23 May 2025. CID CDO 25-001
+[^118]: Id.
+[^119]: Id at par. 29.
+[^120]: WCPHC’s Comment dated 16 October 2025, at par. 4 & 5.
+[^121]: Id at Annex ”2”, Memorandum of Understanding between WCPH JV PTE. LTD and the Rizal Provincial Government dated 05 March 2025.
+[^122]: Annex ”A“, screenshot taken on 21 October 2025.
+[^123]: TFH’s Comment dated 15 October 2025, at par. 48, in compliance with NPC CDO dated 23 September 2025.
+[^124]: WCPHC’s Comment dated 16 October 2025, Annex ”2”, Memorandum of Understanding between WCPH JV PTE. LTD and the Rizal Provincial Government dated 05 March 2025. CID CDO 25-001
+[^125]: WCPHC’s Comment dated 16 October 2025, at par. 98-100.
+[^126]: Id at par. 73.
+[^127]: Cease and Desist Order (CDO) In the matter of World App Processing of Personal Information dated 23 September 2025. CID CDO 25-001
+[^128]: WCPHC’s Comment dated 16 October 2025, at par. 10.
+[^129]: Tacis v. Shield Security Services, Inc. G.R. No. 234575 (July 07, 2021).
+[^130]: Annex “B”, World APP Screenshot.
+[^131]: TFH’s Comment dated 15 October 2025, Annex 2A, Revised (01 Oct) Privacy Notice, in compliance with NPC CDO dated 23 September 2025.
+[^132]: Annex “C”, Screenshot taken on 28 October 2025. CID CDO 25-001
+[^133]: TFH’s Comment dated 15 October 2025, at par. 10, in compliance with NPC CDO dated 23 September 2025
+[^134]: Id at par. 25.1
+[^135]: TFH’s Comment dated 15 October 2025, at par. 25.1, in compliance with NPC CDO dated 23 September 2025
+[^136]: Id. CID CDO 25-001
+[^137]: Id.
+[^138]: Id at par. 16.
+[^139]: TFH’s Comment dated 15 October 2025, Annex 2A, Revised (01 Oct) Privacy Notice, in compliance with NPC CDO dated 23 September 2025.
+[^140]: Id.
+[^141]: Id. CID CDO 25-001
+[^142]: Id at par. 22.1
+[^143]: Newsbytes.PH, Ex-NPC Chief: Buying consent for iris scans is not inclusion, it’s exploitation,
+

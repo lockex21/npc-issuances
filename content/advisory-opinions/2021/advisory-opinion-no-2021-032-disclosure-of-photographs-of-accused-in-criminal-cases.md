@@ -1,10 +1,13 @@
 ---
-title: "Advisory Opinion No. 2021-032 — Disclosure Of Photographs Of Accused In Criminal Cases"
-description: "'''''''''''''''''' '''' ''''''''''''''''' ''''' ''''''''' ''''' ''''''''' ''''''''' ''''''''''' '''''''' ''''''''''' '''''''''' ''''''' ''''' '''''' '''''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2021-032 — Disclosure of Photographs of Accused in Criminal Cases"
+description: "Guidance on the lawfulness of disclosing photographs of accused individuals in criminal cases under the Data Privacy Act, considering sensitive personal information and Section 13 criteria for lawful processing."
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "sensitive-personal-information"
+  - "criminal-cases"
+  - "disclosure"
 draft: false
 ---
 
@@ -17,23 +20,12 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                    ADVISORY OPINION NO. 2021-0321
 
- 9 August 2021
+9 August 2021
 
- '''''''''''''''''' '''' '''''''''''''''''
- ''''' ''''''''' ''''' ''''''''' '''''''''
- ''''''''''' '''''''' ''''''''''' ''''''''''
- ''''''' ''''' ''''''
- '''''''''''''''''''''''''''''''''''
+Re: Disclosure of Photographs of Accused in Criminal Cases
 
-
-
-              Re:      DISCLOSURE OF                      PHOTOGRAPHS                      OF      ACCUSED               IN
-                       CRIMINAL CASES
-
-Dear ''''''''''''' ''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for advisory opinion received by the National Privacy
 Commission (NPC) to provide guidance on the legality of obtaining photographs of accused
@@ -54,37 +46,28 @@ refused to grant the request on the ground that photographs are protected under 
 
 You now come to the Commission for guidance on the following inquiries:
 
-      1. Whether or not the photographs submitted by the accused police officers to the PNP
-         pursuant to their application for admission or employment constitute personal
-         information or sensitive personal information as to come within the coverage and
+### Discussion
 
-1 Tags: social welfare and development; fulfillment of mandate of public authority; freedom of information; privacy notice.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
+1. Whether or not the photographs submitted by the accused police officers to the PNP pursuant to their application for admission or employment constitute personal information or sensitive personal information as to come within the coverage and
 
-Republic Act No. 10173 (2012).
-
-          protection of the DPA considering the particular circumstances of the accused police
+   protection of the DPA considering the particular circumstances of the accused police
           officers in relation to the commission of the crimes and their current status as fugitives
           from the law;
 
-     2. Whether or not the submission of their photographs as part of their application for
+   2. Whether or not the submission of their photographs as part of their application for
         admission or employment with the PNP constitutes consent that is “freely given” as
         contemplated under the DPA; and
 
-     3. Whether or not the submission of their photographs as part of their application for
+   3. Whether or not the submission of their photographs as part of their application for
         admission or employment with the PNP constitutes compulsion, as to vitiate consent,
         under the admission or employment processes or procedures of the PNP.
 
-Photographs as personal and sensitive personal
-information
+#### Photographs as Personal and Sensitive Personal Information
 
 Under the DPA, personal information is defined as any information whether recorded in a
 material form or not, from which the identity of an individual is apparent or can be
 reasonably and directly ascertained by the entity holding the information, or when put
-together with other information would directly and certainly identify an individual.3 In
-addition, the law provides for an exclusive list of information that are considered as sensitive
-personal information which includes, among others, information about any proceeding for
-any offense committed or alleged to have been committed by the individual.4
+together with other information would directly and certainly identify an individual.[^1] In addition, the law provides for an exclusive list of information that are considered as sensitive personal information which includes, among others, information about any proceeding for any offense committed or alleged to have been committed by the individual.[^2]
 
 Thus, images of an individual generally fall under this category as they may reasonably or
 directly ascertain the identity of the data subject. However, considering the peculiar
@@ -98,25 +81,12 @@ sensitive personal information. Sections 12 and 13 of the DPA provide the criter
 processing of personal information and sensitive personal information, respectively, are
 allowed.
 
-Disclosure of photographs allowed under Section 13 of
-the DPA
+#### Disclosure of Photographs Allowed Under Section 13 of the DPA
 
 Under the DPA, the processing of personal information shall be allowed, subject to
 compliance with the requirements of this Act and other laws allowing disclosure of
 information to the public and adherence to the principles of transparency, legitimate purpose
-and proportionality.5 As applied in the instant case, we may consider the photographs of the
-
-3 Data Privacy Act of 2012, § 3 (g).
-4 Id. § 3 (l) Sensitive personal information refers to personal information:
-
-  (1) About an individual’s race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations;
-  (2) About an individual’s health, education, genetic or sexual life of a person, or to any proceeding for any offense
-      committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any
-      court in such proceedings;
-  (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers,
-      previous or cm-rent health records, licenses or its denials, suspension or revocation, and tax returns; and
-  (4) Specifically established by an executive order or an act of Congress to be kept classified.
-5 Data Privacy Act of 2012, § 11.
+and proportionality.[^3] As applied in the instant case, we may consider the photographs of the
 
 accused as sensitive personal information, the lawful criteria for processing of which is found
 under Section 13 of the law.
@@ -127,7 +97,7 @@ rights and interests of natural or legal persons in court proceedings, or the es
 exercise or defense of legal claims, or when provided to government or public authority.”
 
 While jurisprudence has settled that “the interest of the private complainant is limited only to
-the civil liability arising from the crime,”6 it is still evident that there exists a valid legal claim
+the civil liability arising from the crime,”[^4] it is still evident that there exists a valid legal claim
 by the bereaved family of the victim. In order for the civil liability to arise, the crime should
 be judicially tried, and the accused convicted. Bringing the remaining accused who are still at
 large to justice is within the purview of the abovementioned Section 13 as an exercise of a
@@ -146,13 +116,10 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
 
-
-
-
-6 People v. Alapan, G.R. No. 199527, January 10, 2018, citing Bautista v. Cuneta-Pangilinan 698 Phil. 111 (2012).
+[^1]: Data Privacy Act of 2012, § 3 (g).
+[^2]: Id. § 3 (l) Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
+[^3]: Data Privacy Act of 2012, § 11.
+[^4]: People v. Alapan, G.R. No. 199527, January 10, 2018, citing Bautista v. Cuneta-Pangilinan 698 Phil. 111 (2012).

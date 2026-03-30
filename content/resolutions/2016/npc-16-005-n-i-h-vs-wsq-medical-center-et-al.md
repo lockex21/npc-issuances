@@ -1,11 +1,17 @@
 ---
-title: "NPC 16-005: N.I.H. vs WSQ Medical Center et. al."
-description: "A compromise agreement concerning alleged violation of data privacy rights to medical records was confirmed as valid and enforceable, resolving the case."
+title: "NPC 16-005: N.I.H. v. WSQ Medical Center"
+description: "Resolution confirming a compromise agreement between N.I.H. and WSQ Medical Center regarding alleged violation of the right to access medical records."
+aliases:
+  - "NPC 16-005"
+  - "npc 16-005"
+  - "N.I.H. v. WSQ Medical Center"
+  - "n.i.h. v. wsq medical center"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2016"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2016
+  - npc-case
+date: "2020-09-10"
 draft: false
 ---
 
@@ -22,31 +28,23 @@ draft: false
 
 ## Resolution Text
 
-Republic of the Philippines
-
-5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-**N.I.H.**
+**N.I.H.,**
 
 Complainant,
 
-versus
+-versus-
 
-**WSQ MEDICAL CENTER,**
+**WSQ Medical Center,**
 
-represented by N.W.W.E., DR. N.O. and DR. O.P.,
+represented by N.W.W.E., Dr. N.O., and Dr. O.P.,
 
 Respondents.
-
-**NPC 16-005**
-
-For: Violation of Data Privacy Act of 2012
 
 x----------------------------------------------x
 
 **LIBORO, PC.:**
 
-Before this Commission is a Compromise Agreement (CA) between the complainant N.I.H. (Complainant) and respondent WSQ Medical Center, as represented by N.W.W.E., Dr. N.O., and Dr. O.P. (collectively referred as Respondents).
+Before this Commission is a Compromise Agreement (CA) between the complainant N.I.H. (Complainant) and respondent WSQ Medical Center, as represented by N.W.W.E., Dr. N.O., and Dr. O.P. (collectively referred to as Respondents).
 
 ### Facts
 
@@ -84,15 +82,11 @@ In the case of *Municipal Board of Cabanatuan City v. Samahang Magsasaka, Inc.,[
 
 With the foregoing, the Commission finds the executed Compromise Agreement dated 27 February 2018 by and between the Complainant and the Respondent as valid and enforceable.
 
-### Dispositive Portion
-
-**WHEREFORE**, in view of the foregoing, this Commission **RESOLVES** to **CONFIRM** the Compromise Agreement executed by and between N.I.H. and WSQ MEDICAL CENTER and DR. N.O. and DR. O.P. The case NPC 16-005 - "N.I.H. vs. WSQ MEDICAL CENTER, represented by N.W.W.E., DR. N.O. and DR. O.P." is hereby considered **CLOSED**.
+**WHEREFORE**, in view of the foregoing, this Commission **RESOLVES** to **CONFIRM** the Compromise Agreement executed by and between N.I.H. and WSQ Medical Center and Dr. N.O. and Dr. O.P. The case NPC 16-005 is hereby considered **CLOSED**.
 
 **SO ORDERED.**
 
-Pasay City, Philippines; 10 September 2020.
-
----
+Pasay City, Philippines. 10 September 2020.
 
 **RAYMUND ENRIQUEZ LIBORO**
 
@@ -110,16 +104,18 @@ Deputy Privacy Commissioner
 
 Copy furnished:
 
-N.I.H., Complainant
+N.I.H.
+Complainant
 
-N.W.W.E., DR. N.O., DR. O.P., Respondents
+N.W.W.E.
+Dr. N.O.
+Dr. O.P.
+Respondents
 
 WSQ Medical Center
 
 COMPLAINTS AND INVESTIGATION DIVISION
-
 ENFORCEMENT DIVISION
-
 GENERAL RECORDS UNIT
 
 [^1]: *Municipal Board of Cabanatuan City v. Samahang Magsasaka, Inc.*, 62 SCRA 435 (1975).

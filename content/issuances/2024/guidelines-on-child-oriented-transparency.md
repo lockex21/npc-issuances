@@ -1,23 +1,23 @@
 ---
-title: "Guidelines on Child-Oriented Transparency (Advisory No. 2024)"
-description: "WHEREAS, Section 9 of the Implementing Rules and Regulations of the DPA (IRR) empowers the NPC to develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;"
+title: "Guidelines on Child-Oriented Transparency (Advisory No. 2024-03)"
+description: "Provides guidelines for child-oriented transparency emphasizing meaningful access to information for children as data subjects and rights holders under the Data Privacy Act."
 aliases:
-  - "Advisory No. 2024"
-  - "advisory no. 2024"
+  - "Advisory No. 2024-03"
+  - "advisory no. 2024-03"
   - "guidelines on child-oriented transparency"
-  - "npc advisory no. 2024"
+  - "npc advisory no. 2024-03"
 tags:
-  - "issuance"
-  - "topic/children"
-  - "type/advisory"
-  - "year/2024"
-date: "2024-12-17"
+  - issuance
+  - topic/children
+  - type/advisory
+  - year/2024
+date: '2024-12-17'
 draft: false
 ---
 
 ## Issuance Text
 
-**Advisory No. 2024**
+**Advisory No. 2024-03**
 
 WHEREAS, Section 7 (g) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] empowers the National Privacy Commission (NPC) to publish, on a regular basis, guides to laws relating to data protection; Section 9 of the [[laws/data-privacy-act-of-2012|DPA]]’s [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] authorizes the NPC to develop, review, or amend rules for the effective implementation of the [[laws/data-privacy-act-of-2012|DPA]]; and Section 20 of the [[laws/data-privacy-act-of-2012|DPA]] requires Personal Information Controllers (PICs) to implement reasonable organizational, physical, and technical security measures appropriate to the risks associated with the processing of personal data.
 
@@ -33,7 +33,7 @@ WHEREFORE, in consideration of these premises, the NPC issues this Advisory on t
 
   A. **Child Privacy Impact Assessments (CPIAs).** PICs shall integrate CPIAs into their PIAs before launching products or services intended or likely to be accessed by children, and thereafter as needed. The PIA is an ongoing requirement, reviewed and updated whenever there are changes in products, services, processes, or regulations. Factors to consider include:
 
-    1. Purpose of processing  
+   1. Purpose of processing  
     2. Types of data to be processed (collected, used, disclosed)  
     3. Sources of data  
     4. Technologies or systems employed  
@@ -46,11 +46,11 @@ WHEREFORE, in consideration of these premises, the NPC issues this Advisory on t
    11. Risk identification  
    12. Involvement of parents or guardians when heightened risks exist
 
-    The level of parental or guardian involvement should match the risk, and PICs must document how they secure and verify that involvement.
+   The level of parental or guardian involvement should match the risk, and PICs must document how they secure and verify that involvement.
 
   B. **Risk Mitigation Measures.** PICs must address identified risks while keeping the best interests of the child and the Principle of Transparency at the forefront. Possible measures include:
 
-    1. **Age Assurance Mechanisms.** PICs may deploy age assurance tools to determine user age range, recognizing that self-declaration alone may be insufficient for high-risk use cases. Children should understand why the age-check exists, and the processing must have a lawful basis and comply with general privacy principles.[^9]
+   1. **Age Assurance Mechanisms.** PICs may deploy age assurance tools to determine user age range, recognizing that self-declaration alone may be insufficient for high-risk use cases. Children should understand why the age-check exists, and the processing must have a lawful basis and comply with general privacy principles.[^9]
     2. **Privacy Controls.** PICs must adopt enhanced privacy controls proportionate to the risk:
         a. **High Privacy Settings by Default:** Children’s accounts must default to the most protective settings (e.g., disable geolocation, set profiles to private, and minimize data sharing).[^10]
         b. **Easy Access to Settings:** Privacy controls must be clearly explained, easy to find, and enable children to manage their privacy preferences while maintaining baseline protection.
@@ -71,15 +71,13 @@ WHEREFORE, in consideration of these premises, the NPC issues this Advisory on t
 
 Approved:
 
-                                             SGD.  
+   SGD.  
                                     JOHN HENRY D. NAGA  
                                      Privacy Commissioner
 
-                  SGD.                                                 SGD.  
+   SGD.                                                 SGD.  
      LEANDRO ANGELO Y. AGUIRRE                                NERISSA N. DE JESUS  
        Deputy Privacy Commissioner                          Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: See An Act Providing For Stronger Deterrence And Special Protection Against Child Abuse, Exploitation And Discrimination, And For Other Purposes [Special Protection of Children Against Abuse, Exploitation and Discrimination Act of 1992], Republic Act No. 7610 § 3 (a) (1992).
 [^2]: See UN Committee on the Rights of the Child (UNCRC), General Comment No. 25 (2021) on Children’s Rights in Relation to the Digital Environment, CRC/C/GC/25 (2 March 2021).
@@ -101,8 +99,6 @@ Approved:
 [^18]: See NPC Circ. No. 23-04, § 11.
 [^19]: See Id. § 3 (D)(3).
 [^20]: Data Privacy Act of 2012, § 21.
-
-## Footnotes
 
 [^1]: See An Act Providing For Stronger Deterrence And Special Protection Against Child Abuse, Exploitation And Discrimination, And For Other Purposes [Special Protection of Children Against Abuse, Exploitation and Discrimination Act of 1992], Republic Act No. 7610 § 3 (a) (1992).
 [^2]: See UN Committee on the Rights of the Child (UNCRC), General Comment No. 25 (2021) on Children’s

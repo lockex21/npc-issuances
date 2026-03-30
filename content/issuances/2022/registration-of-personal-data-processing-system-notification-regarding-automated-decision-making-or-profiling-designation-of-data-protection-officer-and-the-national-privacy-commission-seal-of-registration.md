@@ -1,17 +1,20 @@
 ---
-title: "REGISTRATION OF PERSONAL DATA PROCESSING SYSTEM, NOTIFICATION REGARDING AUTOMATED DECISION-MAKING OR PROFILING, DESIGNATION OF DATA PROTECTION OFFICER, AND THE NATIONAL PRIVACY COMMISSION SEAL OF REGISTRATION (Circular No. 2022-04)"
-description: "WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State recognizes the vital role of communication and information in nation-building. At the same time, Article II, Section 11 thereof emphasizes that the State values the dignity of every human person..."
 aliases:
-  - "Circular No. 2022-04"
-  - "circular no. 2022-04"
-  - "npc circular no. 2022-04"
-  - "registration of personal data processing system, notification regarding automated decision-making or profiling, designation of data protection officer, and the national privacy commission seal of registration"
-tags:
-  - "issuance"
-  - "topic/registration"
-  - "type/circular"
-  - "year/2022"
+- Circular No. 2022-04
+- circular no. 2022-04
+- npc circular no. 2022-04
+- registration of personal data processing system, notification regarding automated
+  decision-making or profiling, designation of data protection officer, and the national
+  privacy commission seal of registration
+date: '2022-12-05'
+description: "Outlines procedures for registration of personal data processing system, notification regarding automated decision-making or profiling, designation of data protection officer, and the national privacy commission seal of registration."
 draft: false
+tags:
+- issuance
+- topic/registration
+- type/circular
+- year/2022
+title: "Registration of Personal Data Processing System, Notification Regarding Automated Decision-making or Profiling, Designation of Data Protection Officer, and the National Privacy Commission Seal of Registration (Circular No. 2022-04)"
 ---
 
 
@@ -107,14 +110,14 @@ more persons, or those processing sensitive personal information of one thousand
    C. A PIC or PIP who is an Individual Professional for mandatory registration shall
       register with the Commission. For this purpose, the following shall be considered:
 
-        1. An Individual Professional is self-employed and practicing his or her profession
+   1. An Individual Professional is self-employed and practicing his or her profession
            as defined under this Circular;
 
-        2. A business establishment, if registered as a PIC and operating under a different
+   2. A business establishment, if registered as a PIC and operating under a different
            business name, partnership, firm, or other organization, shall not register
            separately as an Individual Professional;
 
-        3. An Individual Professional shall be considered as the de facto DPO.
+   3. An Individual Professional shall be considered as the de facto DPO.
 
 **SECTION 6.** ***Voluntary Registration.*** An application for registration by a PIC or PIP whose
 Data Processing System does not operate under any of the conditions set out in the preceding Section may register voluntarily following the process outlined in this Circular.
@@ -181,16 +184,16 @@ Cities and Municipalities can designate a COP at the Barangay level, provided th
 **SECTION 11.** ***Application Form.*** An application for registration filed by a PIC or PIP must be
 duly notarized and be accompanied by the following documents:
 
-           A. For government agencies:
+   A. For government agencies:
 
-                         Special or Office Order, or any similar document, designating or
+   Special or Office Order, or any similar document, designating or
                          appointing the DPO of the PIC or PIP;
 
-           B.   For domestic private entities:
+   B.   For domestic private entities:
 
-                    1.   For Corporations:
+   1.   For Corporations:
 
-                           a) (1) duly notarized Secretary’s Certificate authorizing the
+   a) (1) duly notarized Secretary’s Certificate authorizing the
                               appointment or designation of DPO, or (2) any other document
                               demonstrating the validity of the appointment or designation of the
                               DPO signed by the Head of the Organization with an
@@ -198,115 +201,115 @@ duly notarized and be accompanied by the following documents:
                               Organization to designate or appoint persons to positions in the
                               organization.
 
-                           b) Securities and Exchange Commission (SEC) Certificate of
+   b) Securities and Exchange Commission (SEC) Certificate of
                            Registration.
 
-                           c) certified true copy of latest General Information Sheet.
+   c) certified true copy of latest General Information Sheet.
 
-                           d) valid business permit.
+   d) valid business permit.
 
-                    2.   For One Person Corporation
+   2.   For One Person Corporation
 
-                           a) (1) duly notarized Secretary’s Certificate authorizing the
+   a) (1) duly notarized Secretary’s Certificate authorizing the
                               appointment or designation of DPO, or (2) any other document that
                               demonstrates the validity of the appointment or designation of
                               DPO signed by the sole director of the One Person Corporation.
 
-                           b) SEC Certificate of Registration
+   b) SEC Certificate of Registration
 
-                           c) valid business permit.
+   c) valid business permit.
 
-                    3.   For Partnerships
+   3.   For Partnerships
 
-                           a) duly notarized Partnership Resolution or Special Power of
+   a) duly notarized Partnership Resolution or Special Power of
                               Attorney authorizing the appointment or designation of DPO, or
                               any other document that demonstrates the validity of the
                               appointment or designation.
 
-                           b) SEC Certificate of Registration.
+   b) SEC Certificate of Registration.
 
-                           c) valid business permit.
+   c) valid business permit.
 
-                    4.   Sole Proprietorships:
+   4.   Sole Proprietorships:
 
-                           a) duly notarized document appointing the DPO and signed by the
+   a) duly notarized document appointing the DPO and signed by the
                               sole proprietor, in case the same should elect to appoint or
                               designate another person as DPO.
 
-                           b) DTI Certificate of Registration.
+   b) DTI Certificate of Registration.
 
-                           c) valid business permit.
+   c) valid business permit.
 
-        C. For foreign private entities:
+   C. For foreign private entities:
 
-                    1. Authenticated copy or Apostille of Secretary’s Certificate authorizing
+   1. Authenticated copy or Apostille of Secretary’s Certificate authorizing
                     the appointment or designation of DPO, or any other document that
                     demonstrates the appointment or designation, with an English translation
                     thereof if in a language other than English.
 
-                    2. Authenticated copy or Apostille of the following documents, with an
+   2. Authenticated copy or Apostille of the following documents, with an
                     English translation thereof if in a language other than English, where
                     applicable:
 
-                           a) Latest General Information Sheet or any similar document.
+   a) Latest General Information Sheet or any similar document.
 
-                           b) Registration    Certificate  (Corporation,              Partnership,       Sole
+   b) Registration    Certificate  (Corporation,              Partnership,       Sole
                            Proprietorship) or any similar document.
 
-                           c) valid business permit or any similar document.
+   c) valid business permit or any similar document.
 
 **SECTION 12.** ***Details of Registration.*** In the NPC’s online registration platform, a PIC or PIP
 shall provide the following registration information:
 
-             A. details of the PIC or PIP, the Head of Agency or Organization, and the Data
+   A. details of the PIC or PIP, the Head of Agency or Organization, and the Data
              Protection Officer.
 
-                   1. name and contact details of the PIC or PIP, Head of Agency or
+   1. name and contact details of the PIC or PIP, Head of Agency or
                        Organization, and DPO as well as the designated COP, if any, with
                        supporting documents.
 
-                   2. a unique and official email address specific to the position of DPO of the
+   2. a unique and official email address specific to the position of DPO of the
                        PIC or PIP, and not with the person who is the DPO.
 
-                   3. primary purpose of the private entity or the constitutional or statutory
+   3. primary purpose of the private entity or the constitutional or statutory
                        mandate of the government agency;
 
-             B. brief description per Data Processing System:
+   B. brief description per Data Processing System:
 
-                    1. name of the system;
+   1. name of the system;
 
-                    2. basis for the processing of information;
+   2. basis for the processing of information;
 
-                    3. purpose or purposes of the processing;
+   3. purpose or purposes of the processing;
 
-                    4. whether processing is being performed as a PIC or PIP, if an
+   4. whether processing is being performed as a PIC or PIP, if an
                         organization uses the same system as a PIC and as a PIP, then the
                         organization shall register such usage separately;
 
-                    5. whether the system is outsourced or subcontracted, and if so, the
+   5. whether the system is outsourced or subcontracted, and if so, the
                         name and contact details of the PIP;
 
-                    6. description of the category or categories of data subjects, and their
+   6. description of the category or categories of data subjects, and their
                         personal data or categories thereof;
 
-                    7. recipients or categories of recipients to whom the personal data might
+   7. recipients or categories of recipients to whom the personal data might
                         be disclosed;
 
-                    8. description of security measures (Organizational, Physical, and
+   8. description of security measures (Organizational, Physical, and
                         Technical)
 
-                    9. general information on the Data Life Cycle (Time, Manner, or Mode of
+   9. general information on the Data Life Cycle (Time, Manner, or Mode of
                         Collection, Retention Period, and Disposal/Destruction/Deletion
                         Method/Procedure)
 
-                    10. whether personal data is transferred outside of the Philippines; and
+   10. whether personal data is transferred outside of the Philippines; and
 
-                    11. the existence of Data Sharing Agreements with other parties;
+   11. the existence of Data Sharing Agreements with other parties;
 
-             C. Identify all publicly facing online mobile or web-based applications, including
+   C. Identify all publicly facing online mobile or web-based applications, including
               internal apps with PIC or PIP employees as clients.
 
-             D. Notification regarding any automated decision-making operation or
+   D. Notification regarding any automated decision-making operation or
               profiling.
 
 **SECTION 13.** ***Certificate of Registration.*** The Commission shall issue a Certificate of
@@ -325,9 +328,9 @@ information provided by a PIC or PIP through its compliance check function. Thro
 **SECTION 16.** ***Amendments or Updates.*** Subject to reasonable fees that may be prescribed by
 the Commission, major amendments to registration information shall be made within thirty (30) days from the date such changes take into effect. Major amendments are the changes to the following:
 
-        (a) Name of the PIC or PIP; and
+   (a) Name of the PIC or PIP; and
 
-        (b) the Office Address of the PIC or PIP.
+   (b) the Office Address of the PIC or PIP.
 
 Minor updates shall be made within ten (10) days from the date such changes take into effect. Updates shall include all other information other than those covered as a major amendment.
 
@@ -402,12 +405,12 @@ The PIC or PIP shall also include information on the following:
 
    A. lawful basis for processing personal data;
 
-        1. Other relevant information pertaining to the specified lawful basis specifying the
+   1. Other relevant information pertaining to the specified lawful basis specifying the
            specific law or regulation among others.
 
-        If consent is used as the basis for processing, submission of the following:
+   If consent is used as the basis for processing, submission of the following:
 
-                              i.       consent form used; or
+   i.       consent form used; or
                               ii.      other manner of obtaining consent.
 
    B. retention period for the processed data;
@@ -438,7 +441,7 @@ information:
 
    C. A unique QR code for easy verification of registration indicating the following:
 
-          1. Name of the PIC or PIP;
+   1. Name of the PIC or PIP;
           2. Registered DPO email; and
           3. Validity of registration
 
@@ -450,9 +453,9 @@ displayed at the main entrance of the place of business, office or at the most c
 
 A PIC or PIP is also required to display the Seal of Registration in its main website, or at least the webpage specifically pertaining to the Philippines for global websites, and only as either:
 
-        (1) a clickable link leading to the privacy notice; or
+   (1) a clickable link leading to the privacy notice; or
 
-        (2) displayed directly on the privacy notice page.
+   (2) displayed directly on the privacy notice page.
 
 **SECTION 33.** ***Use of Seal of Registration.*** The Seal of Registration shall be exclusively used
 by the registered PIC or PIP.
@@ -505,11 +508,11 @@ revoked or that is determined to have violated the registration requirements pro
 
 Approved:
 
-                                               Sgd.
+   Sgd.
                                       JOHN HENRY D. NAGA
                                        Privacy Commissioner
 
-                                              Sgd.
+   Sgd.
                                 LEANDRO ANGELO Y. AGUIRRE
                                   Deputy Privacy Commissioner
 

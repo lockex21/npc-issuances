@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-062: In Re: VRP Medical Center"
-description: "NPC BN 18-062: In Re: VRP Medical Center"
+title: 'NPC BN 18-062: In Re: VRP Medical Center'
+description: Breach notification resolution on VRP Medical Center data breach notification
+  compliance.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2024
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-062"'
+- '"npc bn 18-062"'
+- '"In Re: VRP Medical Center"'
+- '"in re: vrp medical center"'
+date: '2024-06-05'
 ---
 
 ## Source

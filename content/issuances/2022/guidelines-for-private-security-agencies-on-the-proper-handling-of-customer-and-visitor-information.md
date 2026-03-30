@@ -1,17 +1,19 @@
 ---
-title: "Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information (Circular No. 2022)"
-description: "SUBJECT : GUIDELINES FOR PRIVATE SECURITY AGENCIES ON THE PROPER HANDLING OF CUSTOMER AND VISITOR INFORMATION"
 aliases:
-  - "Circular No. 2022"
-  - "circular no. 2022"
-  - "guidelines for private security agencies on the proper handling of customer and visitor information"
-  - "npc circular no. 2022"
-tags:
-  - "issuance"
-  - "topic/security"
-  - "type/circular"
-  - "year/2022"
+- Circular No. 2022
+- circular no. 2022
+- guidelines for private security agencies on the proper handling of customer and
+  visitor information
+- npc circular no. 2022
+date: '2022-12-05'
+description: "Provides guidelines for private security agencies on the proper handling of customer and visitor information."
 draft: false
+tags:
+- issuance
+- topic/security
+- type/circular
+- year/2022
+title: "Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information (Circular No. 2022)"
 ---
 
 
@@ -27,41 +29,41 @@ The sole purpose for requiring an Identification Card (ID) from customers, visit
 
 **SECTION 2.** ***Definition of Terms.*** The definitions of terms in the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as amended, are adopted herein. In addition, the following terms shall be understood as follows:
 
-    A. “Private Security Agency” or “PSA” refers to any person or entity engaged in contracting,
+   A. “Private Security Agency” or “PSA” refers to any person or entity engaged in contracting,
        recruitment, training, furnishing, or posting of Security Guards and other private security
        personnel to individuals, corporation, offices, and organizations, whether private or
        public, for their security needs as the Philippine National Police (PNP) may approve;[^2]
 
-    B. “Security Guard” refers to any person who offers or renders personal service to watch or
+   B. “Security Guard” refers to any person who offers or renders personal service to watch or
        secure either a residence, business establishment, buildings, compounds, areas, or
        property, inspects, monitors, or performs bodily checks or searches of individuals or
 
 
 Security Guards and other Private Security Personnel in the Private Security Industry, Department Order No. 150-16, series of 2016 [DOLE DO No. 150-16], § 2 (i) (Feb. 9. 2016).
 
-           baggage, and other forms of security inspection,[^3] as authorized by the PIC or by the PSA
+   baggage, and other forms of security inspection,[^3] as authorized by the PIC or by the PSA
            to perform such functions, regardless of his or her designation;
 
-     C. “Service Agreement” refers to the contract between the PIC and the PSA acting as a PIP
+   C. “Service Agreement” refers to the contract between the PIC and the PSA acting as a PIP
         containing the terms and conditions governing the performance or completion of security
         service, jobs, or work being farmed out for a definite or predetermined period;[^4]
 
-     D. “Subcontracting” refers to the outsourcing, assignment, or delegation of the processing of
+   D. “Subcontracting” refers to the outsourcing, assignment, or delegation of the processing of
         personal data by a PIC to a PIP. In this arrangement, the PIC retains control over the
         processing;
 
-     E. “Subcontracting Agreement” refers to a contract, agreement, or any similar document
+   E. “Subcontracting Agreement” refers to a contract, agreement, or any similar document
         which sets out the obligations, responsibilities, and liabilities of the parties to a
         subcontracting arrangement. It shall contain mandatory stipulations prescribed by the
         IRR.
 
 **SECTION 3.** ***General Obligations of PICs engaging the services of PSAs.*** All PICs engaging PSAs shall have the following obligations:
 
-     A. Transparency. PICs, in coordination with the PSAs, shall be responsible for developing a
+   A. Transparency. PICs, in coordination with the PSAs, shall be responsible for developing a
         privacy notice in clear and plain language which shall explain to all customers, visitors,
         and other data subjects:
 
-           1. The purpose of collecting personal data, e.g., monitoring or controlling access to
+   1. The purpose of collecting personal data, e.g., monitoring or controlling access to
               premises for the security, safety, and protection of persons and properties, pursuant to
               legitimate interests (for private sector PICs) or laws and regulations (for government
               PICs);
@@ -72,27 +74,27 @@ Security Guards and other Private Security Personnel in the Private Security Ind
            4. The retention period of personal data; and
            5. Their rights as a data subject and mechanisms on how to exercise the same;
 
-     B. Proportionality. PICs shall observe proportionality in all personal data processing activities
+   B. Proportionality. PICs shall observe proportionality in all personal data processing activities
         including those outsourced or subcontracted to PSAs. They shall not require PSAs acting
         as PIPs as well as the Security Guards to access, record, copy, or otherwise collect any
         sensitive personal information for purposes of ascertaining the identity of an individual,
         nor shall they direct them to keep ID cards containing sensitive personal information.
 
-           However, PICs may instruct PSAs and authorized Security Guards to visually examine a
+   However, PICs may instruct PSAs and authorized Security Guards to visually examine a
            government-issued ID within a reasonable time: provided, that there is prior sufficient
            explanation to the data subject of the necessity of processing sensitive personal
            information for that purpose: provided further, that the government-issued ID shall not be
            kept by the PSA or authorized Security Guards.
 
-     C. Accountability. PICs shall use contractual or other reasonable means to ensure that proper
+   C. Accountability. PICs shall use contractual or other reasonable means to ensure that proper
         safeguards are in place to guarantee the confidentiality, integrity, availability of the
 
 
-         personal data processed, and to prevent its use for unauthorized purposes. PICs shall
+   personal data processed, and to prevent its use for unauthorized purposes. PICs shall
          ensure that a Subcontracting Agreement or Service Agreement is executed with PSAs prior
          to any personal data processing activity. Such agreement shall contain the following:
 
-         1. The subject-matter and duration of the processing;
+   1. The subject-matter and duration of the processing;
          2. The nature and purpose of the processing;
          3. The type/s of personal data that will be processed;
          4. The categories of data subjects;
@@ -104,11 +106,11 @@ Security Guards and other Private Security Personnel in the Private Security Ind
             relevant issuances of the Commission, other applicable laws, and any other obligations
             with the PICs.
 
-    D. Safeguards. PICs shall ensure that reasonable and appropriate safeguards are in place for
+   D. Safeguards. PICs shall ensure that reasonable and appropriate safeguards are in place for
        the processing of personal data by PSAs and their Security Guards which include, but are
        not limited to:
 
-         1. Appropriate data protection policies that provide for organizational, physical, and
+   1. Appropriate data protection policies that provide for organizational, physical, and
             technical security measures, taking into account the nature, scope, context and purpose
             of the processing, as well as the risks posed to the rights and freedoms of data subjects;
          2. Clear and adequate instructions on the processing of personal data, whether in paper-
@@ -127,18 +129,18 @@ Security Guards and other Private Security Personnel in the Private Security Ind
 
 **SECTION 4.** ***Obligations of PSAs acting as PICs.*** All PSAs acting as PICs shall have the following obligations:
 
-    A. Registration. All PSAs acting as PICs shall register with the Commission in accordance with
+   A. Registration. All PSAs acting as PICs shall register with the Commission in accordance with
        the applicable Rules on the Registration of Data Processing Systems and Notifications
        regarding Automated Decision-Making;
 
-    B. Training. PSAs shall provide trainings on the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other relevant issuances of
+   B. Training. PSAs shall provide trainings on the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other relevant issuances of
        the Commission to all Security Guards prior to their assignment or deployment.
 
 
 series 2009 which provides for the retention period of two (2) years after date of last entry for logbooks (available at
 [https://nationalarchives.gov.ph/wp-content/uploads/2015/04/NAP-Gen.-Circular-1-2-and-GRDS-2009.pdf](https://nationalarchives.gov.ph/wp-content/uploads/2015/04/NAP-Gen.-Circular-1-2-and-GRDS-2009.pdf)).
 
-         1. The orientation shall include an overview on the proper handling of personal data that
+   1. The orientation shall include an overview on the proper handling of personal data that
             comes to their knowledge and possession in the course of providing security services,
             the requirement to maintain confidentiality, integrity, and availability of personal
             data, and the corresponding sanctions for any unauthorized processing of personal
@@ -147,48 +149,48 @@ series 2009 which provides for the retention period of two (2) years after date 
             may require the submission of the same in accordance with the applicable provisions
             of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances on the matter;
 
-    C. Inspection. All PSAs shall ensure that all Security Guards assigned or deployed are
+   C. Inspection. All PSAs shall ensure that all Security Guards assigned or deployed are
        complying with the requirements of the [[laws/data-privacy-act-of-2012|DPA]]. For this purpose, PSAs shall conduct regular
        onsite visits in establishments where its Security Guards are assigned or deployed.
 
 **SECTION 5.** ***Obligations of PSAs acting as PIPs.*** All PSAs acting as PIPs shall have the following obligations:
 
-    A. Privacy Notice. PSAs shall make reasonable efforts to notify the data subjects of the relevant
+   A. Privacy Notice. PSAs shall make reasonable efforts to notify the data subjects of the relevant
        information about the processing of their personal data through a privacy notice
        developed by the PIC in coordination with the PSAs.
 
-    B. Proportionality. For purposes of ascertaining the identity of an individual, PSAs and
+   B. Proportionality. For purposes of ascertaining the identity of an individual, PSAs and
        authorized Security Guards shall not access, record, copy, or otherwise collect any
        sensitive personal information such as date of birth, government-issued ID numbers,
        images of government-issued IDs, nor shall they keep ID cards containing sensitive
        personal information.
 
-         However, PSAs and authorized Security Guards may be allowed to examine a
+   However, PSAs and authorized Security Guards may be allowed to examine a
          government-issued ID within a reasonable time: provided, that there is prior sufficient
          explanation to the data subject of the necessity of processing sensitive personal
          information for that purpose: provided further, that the government-issued ID shall not be
          kept by the PSA or authorized Security Guards.
 
-    C. Security measures. PSAs and their Security Guards shall, in coordination with the PIC,
+   C. Security measures. PSAs and their Security Guards shall, in coordination with the PIC,
        implement appropriate security measures that:
 
-         1. Aim to maintain the availability, integrity, and confidentiality of personal data
+   1. Aim to maintain the availability, integrity, and confidentiality of personal data
             processed;
          2. Provide adequate protection against any accidental or unlawful destruction, alteration,
             disclosure, and unlawful processing, as well as against natural and human dangers
             such as unlawful access, fraudulent misuse, unlawful destruction, alteration and
             contamination.
 
-         PSAs and Security Guards shall, at all times, ensure that entries consisting of personal data
+   PSAs and Security Guards shall, at all times, ensure that entries consisting of personal data
          in the logbooks, health forms, and other records are not visible to or accessible by
          unauthorized persons, employees, or other data subjects to prevent unlawful processing
          of personal data.
 
-    D. Assistance. PSAs acting as PIPs and its Security Guards shall cooperate with the relevant
+   D. Assistance. PSAs acting as PIPs and its Security Guards shall cooperate with the relevant
        PIC in addressing any requests for the exercise of data subject rights. PSAs shall not engage
        another PIP without prior instruction from the PIC.
 
-    E. Inspection. PSAs acting as PIPs shall allow audits and inspections conducted by the PIC or
+   E. Inspection. PSAs acting as PIPs shall allow audits and inspections conducted by the PIC or
        another auditor authorized by such PIC.
 
 SECTION 6. Penalties. — The processing of personal data in violation of this Circular shall carry
@@ -211,15 +213,13 @@ the Official Gazette or a newspaper of general circulation.
 
 Approved:
 
-                                                  SGD.
+   SGD.
                                          JOHN HENRY D. NAGA
                                           Privacy Commissioner
 
-                                                SGD.
+   SGD.
                                    LEANDRO ANGELO Y. AGUIRRE
                                      Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: Land Transportation and Traffic Code, § 29: Confiscation of Driver’s License. – Law enforcement and peace officers of other agencies duly deputized by the Director shall, in apprehending a driver for any violation of this Act or any regulations issued pursuant thereto, or of local traffic rules and regulations not contrary to any provisions of this Act, confiscate the license of the driver concerned and issue a receipt prescribed and issued by the Bureau therefor which shall authorize the driver to operate a motor vehicle for a period not exceeding seventy-two hours from the time and date of issue of said receipt. The period so fixed in the receipt shall not be extended, and shall become invalid thereafter. Failure of the driver to settle his case within fifteen days from the date of apprehension will be a ground for the suspension and/or revocation of his license.
 [^2]: See: Department of Labor and Employment, Revised Guidelines Governing the Employment and Working Conditions of Security Guards and other Private Security Personnel in the Private Security Industry, Department Order No. 150-16, series of 2016 [DOLE DO No. 150-16], § 2 (i) (Feb. 9. 2016).
@@ -228,4 +228,7 @@ Approved:
 [^5]: See: National Archives of the Philippines, General Records Disposition Schedule common to all Government Agencies, series 2009 which provides for the retention period of two (2) years after date of last entry for logbooks (available at https://nationalarchives.gov.ph/wp-content/uploads/2015/04/NAP-Gen.-Circular-1-2-and-GRDS-2009.pdf).
 
 ## Source And Notes
-- Companion note: [[notes/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Analysis and metadata]] - Raw source text: [[sources/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Raw source extraction]] - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.pdf - OCR used during extraction: no
+- Companion note: [[notes/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Analysis and metadata]]
+- Raw source text: [[sources/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.pdf - O
+CR used during extraction: no

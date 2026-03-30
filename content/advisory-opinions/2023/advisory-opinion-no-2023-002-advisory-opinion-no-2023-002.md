@@ -1,34 +1,31 @@
 ---
-title: "Advisory-Opinion-No.-2023-002"
-description: "Re: DISCLOSURE OF TAX DECLARATIONS OF REAL PROPERTIES AND OTHER RELATED DOCUMENTS"
+title: "NPC Advisory Opinion No. 2023-002 — Disclosure of Tax Declarations of Real Properties and Other Related Documents"
+description: "We respond to your request for an Advisory Opinion on whether the Municipal Assessor's Office may release copies of tax declarations to persons other than the registered owner, or his/her authorized representative, without the need for the registered owner's consent."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+- issuance
+- type/advisory-opinion
+- year/2023
 draft: false
 ---
 
 ## Source
 - Reference: Advisory Opinion No. 2023-002
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Advisory-Opinion-No.-2023-002.pdf
+- Issue date: 01/18/2023
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                             ADVISORY OPINION NO. 2023-0021
 18 January 2023
 
+Re:       DISCLOSURE OF TAX DECLARATIONS OF REAL PROPERTIES AND OTHER RELATED DOCUMENTS
 
-
-
-         Re:       DISCLOSURE OF TAX DECLARATIONS OF REAL PROPERTIES AND
-                   OTHER RELATED DOCUMENTS
-
-Dear
+Dear [Redacted],
 
 We respond to your request for an Advisory Opinion on whether the Municipal Assessor’s
 Office may release copies of tax declarations to persons other than the registered owner, or
 his/her authorized representative, without the need for the registered owner’s consent.
+
+### Discussion
 
 You state in your letter that the Office of the Municipal Assessor of Oton, Iloilo (Municipal
 Assessor) received a request from the Department of Science and Technology (DOST) to be
@@ -52,14 +49,11 @@ contains personal data.
 
 You thus ask if the position of Premier’s counsel is legally proper.
 
-
-1 Tags: scope of the DPA; sensitive personal information; tax declarations; public documents.
-
 Scope of the DPA
 
 For perspective, the DPA applies to the processing of all types of personal information and
 sensitive personal information (collectively, personal data) and to any natural or juridical
-persons involved in the processing of personal data.2
+persons involved in the processing of personal data.[^2]
 
 The concept of processing of personal data under the DPA is limited only to natural persons or
 individuals. Data pertaining to juridical entities (e.g., corporation name, address, financial
@@ -70,7 +64,7 @@ it is not considered as a data subject entitled to protection under the DPA and 
 the processing of information such as tax declarations, statements of account and location
 maps relating to Premier, a juridical entity, does not fall within the scope of the DPA.
 
-Lawful processing; functions of public authority; statutory mandate
+### Lawful Processing; Functions of Public Authority; Statutory Mandate
 
 For the property registered to natural persons, however, the tax declaration and the other
 requested documents contain personal data. In which case, the DPA is applicable and the
@@ -80,38 +74,32 @@ The DPA allows the processing of personal data subject to compliance with the la
 adherence to the principles of transparency, legitimate purpose, and proportionality. For the
 processing of personal information, Section 12 (e) of the DPA provides:
 
-    “ SEC. 12 Criteria for Lawful Processing of Personal Information. The processing of personal
+   “ SEC. 12 Criteria for Lawful Processing of Personal Information. The processing of personal
     information shall be permitted only if not otherwise prohibited by law, and when at least one of
     the following condition exists:
 
-                                                           xxx
+   xxx
 
-    (e) The processing is necessary in order to respond to national emergency, to comply with the
+   (e) The processing is necessary in order to respond to national emergency, to comply with the
     requirements of public order and safety, or to fulfill functions of public authority which
     necessarily includes the processing of personal data for the fulfillment of its mandate; xxx”
-    (Emphasis supplied).”3
+    (Emphasis supplied).”[^3]
 
 In the same vein, Section 13(b) of the DPA allows for the processing of sensitive personal
 information, to wit:
 
-    “SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive
+   “SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive
     personal information and privileged information shall be prohibited, except in the following
     cases:
 
-                                                           xxx
+   xxx
 
-    (b) The processing of the same is provided for by existing laws and regulations: Provided, That
+   (b) The processing of the same is provided for by existing laws and regulations: Provided, That
     such regulatory enactments guarantee the protection of the sensitive personal information and
     the privileged information: Provided further, That the consent of the data subjects are not required
 
-
-2
-  An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
-Republic Act No. 10173, § 4 (2012).
-3 Id. § 12 (e).
-
-      by law or regulation permitting the processing of the sensitive personal information or the
-      privileged information;”4
+   by law or regulation permitting the processing of the sensitive personal information or the
+      privileged information;”[^4]
 
 GCG MO 2015-11 provides that all remaining functions of TRC shall be transferred to the
 DOST as its supervising agency. It further provides that the custody of assets of TRC shall be
@@ -157,10 +145,7 @@ and signature of the government employees who prepared and approved the same.
 We emphasize that the processing of sensitive personal information is allowed under the
 DPA, subject to compliance with the criteria provided by law. As stated earlier, Section 13(b)
 of the DPA recognizes the processing of sensitive personal information when it is provided
-for by existing laws and regulations.5
-
-    Id. § 13 (b).
-5 Data Privacy Act of 2012, § 13 (b) (2012)
+for by existing laws and regulations.[^5]
 
 Under Section 4(a)(4) of the DPA, any information about any individual who is or was an
 officer or employee of a government institution that relates to the position or functions of the
@@ -182,7 +167,7 @@ The determination of whether the contents of a document is personal information 
 personal information depends on what is actually contained in a document and not where
 such document emanates from.
 
-In the case of BGM vs. IPP6, the Commission was able to clarify that the term “processing as
+In the case of BGM vs. IPP[^6], the Commission was able to clarify that the term “processing as
 necessary for the establishment of legal claims” does not require an existing court proceeding.
 
    “In the case of NPC 17-018 dated 15 July 2019, this Commission held that “processing as
@@ -205,16 +190,11 @@ necessary for the establishment of legal claims” does not require an existing 
    limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a
    means to hinder legitimate proceedings.” (underscoring supplied)
 
-
 Given the above citation and assuming for the sake of argument that the tax declarations and
 requested documents do contain personal data, DOST’s request for copies of the tax
 declarations and other related documents, pursuant to its mandate to preserve the real
 
-
-
-
-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July
-2021).
+https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
 
 properties mortgaged to TRC, may be considered as an establishment or exercise of a legal
 claim. Hence, such processing may rely on Section 13(b) of the DPA as lawful basis.
@@ -238,7 +218,13 @@ Please be guided accordingly.
 
 Very truly yours,
 
-
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
+
+[^1]: Tags: scope of the DPA; sensitive personal information; tax declarations; public documents.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4 (2012).
+[^3]: Id. § 12 (e).
+[^4]: Id. § 13 (b).
+[^5]: Data Privacy Act of 2012, § 13 (b) (2012).
+[^6]: National Privacy Commission, BGM v. IPP [NPC 19-653] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).

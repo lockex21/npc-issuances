@@ -1,14 +1,18 @@
 ---
-title: "Online Payment"
-description: "Starting from 25 March 2024, you can conveniently make online payments for the fees and charges using LANDBANK Link.Biz.Portal:"
+title: "Advisory on Online Payment (NPC Fees Advisory, 15 March 2024)"
+description: "Announces migration of online payment services for NPC fees and charges from direct bank transfer to LANDBANK Link.Biz.Portal starting 25 March 2024."
 aliases:
-  - "online payment"
+  - "NPC Fees Advisory, 15 March 2024"
+  - "npc fees advisory 15 march 2024"
+  - "advisory on online payment"
+  - "online payment advisory"
 tags:
-  - "issuance"
-  - "topic/fees-and-payments"
-  - "type/advisory"
-  - "year/2024"
+  - issuance
+  - topic/fees-and-payments
+  - type/advisory
+  - year/2024
 draft: false
+date: '2024-12-17'
 ---
 
 ## Issuance Text
@@ -22,8 +26,6 @@ draft: false
 **SECTION 4.** ***Enforcement payments.*** 1) Email a completed Service Request Assessment Form to `enforcement@privacy.gov.ph`. 2) Pay through the Link.Biz.Portal using “National Privacy Commission” as the merchant. 3) Forward the proof of payment to `enforcement@privacy.gov.ph`, `asd.cashier@privacy.gov.ph`, and `fpmd@privacy.gov.ph`.
 
 **SECTION 5.** ***Inquiries and approvals.*** Direct general questions to `info@privacy.gov.ph`. The circular was signed by ATTY. MARIA THERESITA E. PATULA, Chairperson of the NPC Fees Committee, on 15 March 2024.
-
-## Footnotes
 
 [^1]: LANDBANK Link.Biz.Portal, available at https://www.lbp-eservices.com/egps/portal/index.jsp (last accessed March 25, 2024).
 

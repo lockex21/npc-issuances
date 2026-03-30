@@ -1,11 +1,15 @@
 ---
 title: "NPC 22-012: RJC v. DL"
-description: "NPC 22-012: RJC v. DL"
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC 22-012"
+  - "npc 22-012"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-01-26"
 draft: false
 ---
 
@@ -79,7 +83,6 @@ Data Privacy Act of
 
 2012 NPC 22 -012
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 should have provided the evidence that the Ombudsman ordered him
 
@@ -152,7 +155,6 @@ door for the submission of these types of evidence. 11
 
 NPC 22 -012
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 RJC argued that he could not have raised the submission of these types
 
@@ -221,7 +223,6 @@ without his consent, and thus a “direct violation [of] the law.” 19
 
 NPC 22 -012
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 RJC prayed that the Commission set aside the Decision dated 10
 
@@ -285,7 +286,6 @@ RJC be denied for lack of merit. 26
 
 NPC 22 -012
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 13 January 2023, RJC submitted his Reply to Respondent’s
 
@@ -350,7 +350,6 @@ Reconsideration dated 03 January 2023 .
 
 NPC 22 -012
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 RJC argued that DL violated the DPA because DL disclosed his grades
 
@@ -415,7 +414,6 @@ part of his defense against the claim s of RJC and necessary for the
 
 NPC 22 -012
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 protection of his lawful rights and interest s in the proceedings before
 
@@ -487,7 +485,6 @@ Decision, the Commission explained that the submission of RJC’ s
 
 NPC 22 -012
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 transcript of records as part of DL’s defense was necessitated by the
 
@@ -561,7 +558,6 @@ exercise, or defense of a legal claim.
 
 NPC 22 -012
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 In his Motion for Reconsiderat io n, RJC also questioned the application
 
@@ -629,7 +625,6 @@ being served with the pleading, order or judgment is duly
 
 NPC 22 -012
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 informed of the same so that he can take steps to protect his
 
@@ -698,7 +693,6 @@ Commission is limited to ruling only on the lawfulne ss of the
 > 57 Decision, 10 November 2022, at 8 ,in RJC v. DL , NPC 22 -012 (NPC 2022).
 > 58 Data Privacy Act of 2012, § 7.
 > 59 Id. § 7 (a). NPC 22 -012
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 processing based on the DPA, its IRR, and its other issuances . It cannot
 
@@ -768,9 +762,7 @@ City of Pasay, Philippines .
 
 NPC 22 -012
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -778,13 +770,11 @@ Deputy Privacy Commissioner
 
 WE CONC UR:
 
-Sgd.
 
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
-Sgd.
 
 NERISSA N. DE JESUS
 

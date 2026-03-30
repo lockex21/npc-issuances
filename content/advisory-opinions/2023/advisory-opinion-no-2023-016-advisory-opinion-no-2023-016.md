@@ -1,37 +1,33 @@
 ---
-title: "Advisory Opinion No. 2023-016"
-description: "We respond to your request for an Advisory Opinion on whether “soft opt-in” approach under the General Data Protection Regulation (GDPR) and the Privacy and Electronic Communications Directive 2002/58/EC on Privacy and Electronic Communications (e- Privacy..."
+title: “NPC Advisory Opinion No. 2023-016 — Applicability of Soft Opt-In Approach in the Philippines”
+description: “Advisory Opinion on whether the soft opt-in approach used in the GDPR and e-Privacy Directive is permissible under the Philippine Data Privacy Act, clarifying requirements for express consent and legitimate interest in direct marketing.”
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+  - “issuance”
+  - “type/advisory-opinion”
+  - “year/2023”
 draft: false
 ---
 
 ## Source
 - Reference: Advisory Opinion No. 2023-016
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/Advisory-Opinion-No.-2023-016.pdf
+- Issue date: 09/08/2023
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                            ADVISORY OPINION NO. 2023-0161
-
 
  08 September 2023
 
-
-
-
-           Re:    APPLICABILITY OF SOFT OPT-IN APPROACH IN THE
+   Re:    APPLICABILITY OF SOFT OPT-IN APPROACH IN THE
                   PHILIPPINES
 
-Dear                   :
-
+Dear [Redacted],
 We respond to your request for an Advisory Opinion on whether “soft opt-in” approach
 under the General Data Protection Regulation (GDPR) and the Privacy and Electronic
 Communications Directive 2002/58/EC on Privacy and Electronic Communications (e-
 Privacy Directive) is permissible in our jurisdiction.
+
+### Discussion
 
 You state in your letter that Recital 47 of the GDPR explicitly provides that “[T]he processing
 of personal data for direct marketing may be regarded as carried out for a legitimate interest.”
@@ -47,15 +43,12 @@ sale of a product or a service, or even during negotiations in pursuit of such a
 Such a method, called the “soft opt-in” approach, may be adopted by companies if the
 following general conditions are fulfilled:
 
-    1. The company collects the individual’s personal information during discussions about
+   1. The company collects the individual’s personal information during discussions about
        the sale of a product or a service;
     2. At the time that their personal information was collected, the individual had not
        explicitly opted out of receiving other related communications from the company;
 
-1 Tags: (topics related to the subject of the advisory opinion, separated by commas).
-2 Article 13(2), e-Privacy Directive.
-
-      3. The company intends to send marketing communications about its products and
+   3. The company intends to send marketing communications about its products and
          services, and items related to said products and services, to the individual; and
       4. The company provides a simple and free mechanism through which the individual
          may opt-out of subsequent marketing communications from the company.
@@ -101,7 +94,6 @@ worth noting that the DPA, unlike the e-Privacy Directive, does not provide for 
 exception to the express consent rule. Hence, the soft opt-in approach under the e-Privacy
 Directive cannot be applied in the Philippine setting.
 
-
 3An   Act Protecting Individual Personal Information in Information and Communications Systems in the
 Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes
 [Data Privacy Act of 2012], Republic Act No. 10173, § 3(b) (2012).
@@ -119,7 +111,7 @@ In particular, legitimate interest under Section 12(f) of the DPA may be utilize
 criterion. NPC discussed the elements for processing based on legitimate interest in MAF v.
 Shopee, Inc., 6 viz.:
 
-      Processing based on legitimate interest requires the fulfillment of the following conditions:
+   Processing based on legitimate interest requires the fulfillment of the following conditions:
       (1) the legitimate interest is established; (2) the processing is necessary to fulfill the
       legitimate interest that is established; and (3) the interest is legitimate or lawful and it does
       not override fundamental rights and freedoms of data subjects.
@@ -149,9 +141,7 @@ Please be guided accordingly.
 
 For your reference.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV

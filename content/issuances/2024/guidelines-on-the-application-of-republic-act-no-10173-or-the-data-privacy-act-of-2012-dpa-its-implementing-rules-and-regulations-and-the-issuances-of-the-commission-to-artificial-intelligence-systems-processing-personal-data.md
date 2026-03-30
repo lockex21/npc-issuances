@@ -1,23 +1,23 @@
 ---
-title: "Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data (Advisory No. 2024)"
-description: "SUBJECT : GUIDELINES ON THE APPLICATION OF REPUBLIC ACT NO. 10173 OR THE DATA PRIVACY ACT OF 2012 (DPA), ITS IMPLEMENTING RULES AND REGULATIONS, AND THE ISSUANCES OF THE COMMISSION TO ARTIFICIAL INTELLIGENCE SYSTEMS PROCESSING PERSONAL DATA"
+title: "Guidelines on the Application of the DPA to Artificial Intelligence Systems Processing Personal Data (Advisory No. 2024-04)"
+description: "Provides guidance on the application of the Data Privacy Act, its Implementing Rules and Regulations, and NPC issuances to artificial intelligence systems that process personal data, including during development, deployment, training, and testing."
 aliases:
-  - "Advisory No. 2024"
-  - "advisory no. 2024"
-  - "guidelines on the application of republic act no. 10173 or the data privacy act of 2012 (dpa), its implementing rules and regulations, and the issuances of the commission to artificial intelligence systems processing personal data"
-  - "npc advisory no. 2024"
+  - "Advisory No. 2024-04"
+  - "advisory no. 2024-04"
+  - "guidelines on the application of the dpa to artificial intelligence systems"
+  - "npc advisory no. 2024-04"
 tags:
-  - "issuance"
-  - "topic/ai"
-  - "type/advisory"
-  - "year/2024"
-date: "2024-12-19"
+  - issuance
+  - topic/ai
+  - type/advisory
+  - year/2024
+date: '2024-12-19'
 draft: false
 ---
 
 ## Issuance Text
 
-**Advisory No. 2024**
+**Advisory No. 2024-04**
 
 **Subject:** GUIDELINES ON THE APPLICATION OF REPUBLIC ACT NO. 10173 OR THE DATA PRIVACY ACT OF 2012 (DPA), ITS IMPLEMENTING RULES AND REGULATIONS, AND THE ISSUANCES OF THE COMMISSION TO ARTIFICIAL INTELLIGENCE SYSTEMS PROCESSING PERSONAL DATA
 
@@ -47,56 +47,54 @@ WHEREFORE, in consideration of these premises, the NPC hereby issues this Adviso
    This accountability is imposed on the specific PIC undertaking the development or deployment of the AI system, including its training and testing.
    When such processing is subcontracted or outsourced, PICs shall remain accountable for the actions of their PIPs.[^7]
 
-       1. Demonstrable Measures. PICs and, in cases where the processing is subcontracted or outsourced, their PIPs, must be able to demonstrate that they have implemented effective policies and procedures to comply with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the Commission.
+   1. Demonstrable Measures. PICs and, in cases where the processing is subcontracted or outsourced, their PIPs, must be able to demonstrate that they have implemented effective policies and procedures to comply with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the Commission.
        PICs must maintain the necessary documentation on these policies and procedures, including those for AI systems that involve the processing of personal data.
 
-       2. Governance Mechanisms.[^8] PICs shall institute appropriate and effective governance mechanisms to ensure the responsible and ethical processing of personal data in the development or deployment of AI systems, including its training and testing.
+   2. Governance Mechanisms.[^8] PICs shall institute appropriate and effective governance mechanisms to ensure the responsible and ethical processing of personal data in the development or deployment of AI systems, including its training and testing.
 
-             These include, but are not limited to, the conduct of Privacy Impact Assessments (PIA);[^9] integration of privacy-by-design and privacy-by-default; implementation of common industry security standards; continuous monitoring of the AI systems' operations; creation of a dedicated AI ethics board; regular retraining and scrubbing of the AI systems; and mechanisms for humans to intervene in decision-making and review the output of AI systems.
+   These include, but are not limited to, the conduct of Privacy Impact Assessments (PIA);[^9] integration of privacy-by-design and privacy-by-default; implementation of common industry security standards; continuous monitoring of the AI systems' operations; creation of a dedicated AI ethics board; regular retraining and scrubbing of the AI systems; and mechanisms for humans to intervene in decision-making and review the output of AI systems.
 
-             a. AI systems can involve automated decision-making, and the effects of such automated decisions can pose a significant risk to the rights and freedoms of data subjects.
+   a. AI systems can involve automated decision-making, and the effects of such automated decisions can pose a significant risk to the rights and freedoms of data subjects.
                 In such cases, as an additional safeguard, PICs shall implement mechanisms to allow for meaningful human intervention carried out by persons with the necessary competence and authority.
 
-                  PICs shall also implement mechanisms to allow their data subjects to question and contest automated decisions when the effect of such decisions poses a significant risk to the rights and freedoms of data subjects.[^10]
+   PICs shall also implement mechanisms to allow their data subjects to question and contest automated decisions when the effect of such decisions poses a significant risk to the rights and freedoms of data subjects.[^10]
 
-             b. PICs shall also be responsible for regularly monitoring the proper implementation and effectiveness of these governance mechanisms.
+   b. PICs shall also be responsible for regularly monitoring the proper implementation and effectiveness of these governance mechanisms.
 
-    C. Fairness.[^11] PICs shall ensure that personal data is processed in a manner that is neither manipulative nor unduly oppressive to data subjects. As such, PICs shall implement mechanisms to identify and monitor biases in the AI systems and to limit such biases and their impact on the data subjects. PICs must consider systemic bias, human bias, and statistical bias when assessing or auditing their AI systems.
+   C. Fairness.[^11] PICs shall ensure that personal data is processed in a manner that is neither manipulative nor unduly oppressive to data subjects. As such, PICs shall implement mechanisms to identify and monitor biases in the AI systems and to limit such biases and their impact on the data subjects. PICs must consider systemic bias, human bias, and statistical bias when assessing or auditing their AI systems.
 
-         Consistent with the Principle of Fairness, PICs shall not utilize AI Washing, the practice where PICs overstate the involvement of AI systems to the detriment of their data subjects, and other deceptive practices.
+   Consistent with the Principle of Fairness, PICs shall not utilize AI Washing, the practice where PICs overstate the involvement of AI systems to the detriment of their data subjects, and other deceptive practices.
 
-    D. Accuracy.[^12] PICs must maintain the accuracy of personal data to ensure the fairness of the output of the AI systems. PICs shall implement appropriate measures to ensure that personal data utilized in the AI systems is correct and kept up to date.
+   D. Accuracy.[^12] PICs must maintain the accuracy of personal data to ensure the fairness of the output of the AI systems. PICs shall implement appropriate measures to ensure that personal data utilized in the AI systems is correct and kept up to date.
 
-    E. Data Minimization.[^13] PICs shall exclude, by default, any personal data that is unlikely to improve the development or deployment of AI systems, including its training and testing.
+   E. Data Minimization.[^13] PICs shall exclude, by default, any personal data that is unlikely to improve the development or deployment of AI systems, including its training and testing.
 
-    F. Lawful Basis for Processing.[^14] PICs shall determine the most appropriate lawful basis under Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|DPA]] prior to the processing of personal data in the development or deployment of AI systems, including its training and testing.
+   F. Lawful Basis for Processing.[^14] PICs shall determine the most appropriate lawful basis under Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|DPA]] prior to the processing of personal data in the development or deployment of AI systems, including its training and testing.
 
-         Publicly available personal data do not lose the protection afforded by the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and the issuances of the Commission simply because it has been made public or is publicly accessible.[^15]
+   Publicly available personal data do not lose the protection afforded by the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and the issuances of the Commission simply because it has been made public or is publicly accessible.[^15]
          When PICs process personal data that is publicly available, they shall determine the most appropriate lawful basis under the [[laws/data-privacy-act-of-2012|DPA]] and ensure that the processing adheres to the general privacy principles.
 
 **SECTION 3.** ***Rights of the Data Subject.***[^16] — AI systems involving the processing of personal data can have implications on the exercise of data subject rights.
 
 PICs should implement mechanisms, which may include Privacy-Enhancing Technologies (PET), to ensure the proper exercise of data subject rights while allowing for the responsible and ethical processing of personal data in the development or deployment of AI systems, including its training and testing.
 
-    A. PICs shall implement effective mechanisms or alternative measures to give effect particularly to the right to object, the right to rectification, and the right to erasure or blocking. In such cases, PICs shall communicate to their data subjects the scope and consequences of the exercise of these rights following the Principle of Transparency. When the request is not feasible, PICs shall inform their data subjects of such fact and their reasons. Nevertheless, PICs shall implement effective mechanisms or alternative measures to carry out, as far as possible, the intended effect of these rights.
+   A. PICs shall implement effective mechanisms or alternative measures to give effect particularly to the right to object, the right to rectification, and the right to erasure or blocking. In such cases, PICs shall communicate to their data subjects the scope and consequences of the exercise of these rights following the Principle of Transparency. When the request is not feasible, PICs shall inform their data subjects of such fact and their reasons. Nevertheless, PICs shall implement effective mechanisms or alternative measures to carry out, as far as possible, the intended effect of these rights.
 
-    B. PICs shall ensure that their data subjects may exercise data subject rights before, during, and after the development or deployment of AI systems, including its training and testing.
+   B. PICs shall ensure that their data subjects may exercise data subject rights before, during, and after the development or deployment of AI systems, including its training and testing.
 
-    C. The fact that personal data has been incorporated into data sets does not automatically make the exercise of data subject rights unreasonable. PICs' inaction towards providing mechanisms that allow for the meaningful exercise of data subject rights negates any claim that fulfilling such requests is unreasonable.
+   C. The fact that personal data has been incorporated into data sets does not automatically make the exercise of data subject rights unreasonable. PICs' inaction towards providing mechanisms that allow for the meaningful exercise of data subject rights negates any claim that fulfilling such requests is unreasonable.
 
 **SECTION 4.** ***Interpretation.*** — Any doubt in the interpretation of any provision of this Advisory shall be liberally interpreted in a manner mindful of the rights and interests of the data subjects.
 
 Approved:
 
-                                             SGD.
+   SGD.
                                     JOHN HENRY D. NAGA
                                      Privacy Commissioner
 
-                  SGD.                                                 SGD.
+   SGD.                                                 SGD.
      LEANDRO ANGELO Y. AGUIRRE                                NERISSA N. DE JESUS
       Deputy Privacy Commissioner                          Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: See Independent High-Level Expert Group on Artificial Intelligence, Ethics Guidelines for Trustworthy AI, at 36, available at [https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1) (2019); OECD Council, Recommendation on Artificial Intelligence, OECD/LEGAL/0449, available at [https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449](https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449) (2024); ISO/IEC JTC 1/SC 42, Information Technology – Artificial Intelligence – Artificial Intelligence Concepts and Terminology, ISO/IEC 22989:2022, § 3.1.4, available at [https://www.iso.org/standard/74296.html](https://www.iso.org/standard/74296.html) (2022); National Institute of Standards and Technology, Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile, NIST AI 600-1 (2024), n. 1, available at [https://doi.org/10.6028/NIST.AI.600-1](https://doi.org/10.6028/NIST.AI.600-1).
 [^2]: See An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 11 (a) (2012).

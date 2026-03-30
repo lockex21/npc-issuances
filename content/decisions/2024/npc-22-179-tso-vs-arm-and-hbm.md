@@ -1,37 +1,31 @@
 ---
-title: "NPC 22-179: TSO vs ARM and HBM"
-description: "NPC 22-179: TSO vs ARM and HBM"
-tags:
-  - "decision"
-  - "type/decision"
-  - "year/2024"
-  - "npc-case"
+description: Complaint for alleged data privacy violations; dismissed or granted based
+  on substantial evidence.
 draft: false
+tags:
+- decision
+- type/decision
+- year/2022
+- npc-case
+title: 'NPC 22-179: TSO v. ARM and HBM'
+aliases:
+- NPC 22-179
+- npc 22-179
+- TSO v. ARM and HBM
+- tso v. arm and hbm
+date: '2024-08-01'
 ---
+## Source-Reference: NPC 22-179-Official PDF: http://privacy.gov.ph/wp-content/uploads/2026/01/NPC-22-179-08.01.2024-TSO-vs-ARM-and-HBM_Decision.pdf-Source page: http://privacy.gov.ph/decisions-2/
+- Issue date: August 1, 2024-Published on NPC site: Mon, 12 Jan 2026 02:33:11 GMT-Pages: 19
 
-## Source
-- Reference: NPC 22-179
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2026/01/NPC-22-179-08.01.2024-TSO-vs-ARM-and-HBM_Decision.pdf
-- Source page: http://privacy.gov.ph/decisions-2/
-- Issue date: August 1, 2024
-- Published on NPC site: Mon, 12 Jan 2026 02:33:11 GMT
-- Pages: 19
-
-## Source Tags
-- Exhausion of remedies
-- Sec 24. Disqualification by reason of privileged communication
-- Sec 12. Criteria for lawful processing of personal information
-- Sec 13. Sensitive personal information and privileged information
-- Sec 4. Withdrawal of fthe complaint
+## Source Tags-Exhausion of remedies-Sec 24. Disqualification by reason of privileged communication-Sec 12. Criteria for lawful processing of personal information-Sec 13. Sensitive personal information and privileged information-Sec 4. Withdrawal of fthe complaint
 
 ## Decision Text
 TSO
 
 Complainant ,
 
--versus -
-
-ARM AND HBM
+-versus-ARM AND HBM
 
 Respondent s.
 
@@ -55,8 +49,7 @@ alleged violation of the Data Privacy Act of 2012 or Republic Act No.
 
 10173 (DPA ).1
 
-Facts
-
+### Facts
 In her Complaint, Complainant stated that she is the sister of MSM,
 
 who is married to SRM, son of Respondent ARM. 2 MSM and
@@ -79,13 +72,6 @@ unpleasant encounter and was confronted with a violent reaction by
 
 Respondent AR M’s husband, ERM. 5
 
-> 1Complaint dated 15 August 2022 of Complainant TSO.
-> 2Id. ¶ 3.
-> 3Id. ¶ 4.
-> 4Id. ¶ 5.1.
-> 5Complaint dated 15 August 2022 of Complainant TSO, ¶ 7. NPC 22 -179
-> TSO v. ARM and HBM
-> Page 2of 19
 
 After the incident, the Complainant kept on receiving suspicious text
 
@@ -149,18 +135,6 @@ The Complainant then charges the Respondent s with violation of the
 
 DPA for the processing of her sensitive personal information and
 
-> 6Id. ¶ 8.
-> 7Id. ¶8.1 .
-> 8Id.
-> 9Annex “B -1,” Complaint dated 15 August 2022 of Complainant TSO, at p. 16.
-> 10 Complaint dated 15 August 2022 of Complainant TSO, ¶ 9.
-> 11 Annex “B -2,” Complaint dated 15 August 2022 of Complainant TMSO, at p. 17.
-> 12 Compla int dated 15 August 2022 of Complainant TSO, ¶ 10 and sub paragraph .
-> 13 Id. ¶ 11.
-> 14 Id.
-> 15 Id. ¶ 11. 1.
-> 16 Complaint dated 15 August 2022 of Complainant TSO, ¶ 11.1.
-> 17 Id. ¶ 13.
 
 NPC 22 -179
 
@@ -222,17 +196,6 @@ On 05 September 2022, the Complaints and Investigation Division
 
 (CID) issued an order for the Respondent s to file their verified
 
-> 18 Id. ¶ 15.
-> 19 Id. ¶ 16.
-> 20 Complaint dated 15 August 2022 of Complainant TSO, ¶ 19.
-> 21 Id. ¶ 17.
-> 22 Id. ¶ 19.
-> 23 An Act Establishing A Code Of Conduct And Ethical Standards For Public Officials And
-> Employees, To Uphold The Time -Honored Principle Of Public Office Being A Public Trust,
-> Granting Incentives And Rewards For Exemplary Service, Enumerating Prohibited Acts And
-> Transactions And Providing Penalties For Violations Thereof And For Other Purposes.
-> 24 Complaint dated 15 August 2022 of Complainant TSO, ¶ 21.
-> 25 Id. p. 7.
 
 NPC 22 -179
 
@@ -298,19 +261,6 @@ explain the alleged anonymous message. 35  They also counter that
 
 Respondent HB M cannot be faulted for giving Respondent AR M a
 
-> 26 TSO v. ARM and HBM , NPC 22 -179, Order dated 05 September 2022, Complaints and
-> Investigation Division.
-> 27 Notice of Appearance of Counsel with Motion to Furnish Copy of Unattached Exhibits and for
-> Extension of Time to File Verified Comment of Respondent ARM dated 04 October 2022.
-> 28 TSO v. ARM and HBM , NPC 22 -179, Order dated 12 October 2022 , Complaints and Investigation
-> Division.
-> 29 Id. ¶ 25.
-> 30 Id. ¶ 29.
-> 31 Id. ¶ 30.
-> 32 Joint Comment dated 10 October 2022 of Respondent sARM and HBM, ¶ 33.
-> 33 Id.
-> 34 Id. ¶ 38.
-> 35 Id. ¶ 34.
 
 NPC 22 -179
 
@@ -376,15 +326,6 @@ On 19 December 2022, the CID issued an order resetting the
 
 preliminary conference in view of the ongoing judicial dispute
 
-> 36 Joint Comment dated 10 October 2022 of Respondent s ARM and HBM, ¶ 36.
-> 37 Id. ¶ 39.
-> 38 Id .¶ 44.
-> 39 Id. ¶ 48.
-> 40 Joint Comment dated 10 October 2022 of Respondent s ARM and HBM, ¶ 53.
-> 41 Id. ¶¶56 -57.
-> 42 TSO v. ARM and HBM , NPC 22 -179, Order dated 03 November 2022, Complaints and
-> Investigation Division.
-> 43 TSO v. ARM and HBM , NPC 22 -179, Email dated 15 December 2022 by the Respondent s.
 
 NPC 22 -179
 
@@ -440,23 +381,6 @@ In their Memorandum dated 29 March 2023 , the Respondent s likewise
 
 rehashe d their arguments in their Joint Comment. 54
 
-> 44 TSO v. ARM and HBM ,NPC 22 -179, Order dated 19 December 2022, Complaints and
-> Investigation Division.
-> 45 Id.
-> 46 TSO v. ARM and HBM , NPC 22 -179, Manifestation dated 19 January 2023 by the Respondent s.
-> 47 TSO v. ARM and HBM , NPC 22 -179, Order dated 20 January 2023, Complaints and Investigation
-> Division.
-> 48 TSO v. ARM and HBM , NPC 22 -179, Application for Mediation dated 24 January 2023 of the
-> Complainant and Application for Mediation dated 01 February 2023 by the Respondent s.
-> 49 TSO v. ARM and HBM , NPC 22 -179, Order dated 02 February 2023, Complaints and Investigation
-> Division.
-> 50 TSO v. ARM and HBM , NPC 22 -179, Notice of Non -Settlement of Dispute dated 15 March 2023,
-> Complaints and Investigation Division.
-> 51 TSO v. ARM and HBM , NPC 22 -179, Order dated 1 7March 2023, Complaints and Investigation
-> Division.
-> 52 Memorandum dated 21 March 2023 of Complainant TSO.
-> 53 Id. at ¶ 22.
-> 54 Memorandum dated 29 March 2023 of Respondent sARM and HBM.
 
 NPC 22 -179
 
@@ -474,12 +398,10 @@ pursuing her case before the NPC by attaching her Affidavit of
 
 Desistance. 56
 
-Issue
-
+### Issue
 Whe ther the complaint should be dismissed for lack of merit .
 
-Discussion
-
+### Discussion
 I.  The complaint shall be given
 
 due course despite failure of the
@@ -524,9 +446,6 @@ concerned entity within fifteen (15) calendar days from receipt of
 
 writte n information from the Complainant .
 
-> 55 Motion to Dismiss dated 30 June 2023 of TSO.
-> 56 Id .
-> 57 Joint Comment dated 10 October 2022 of Respondent sARM and HBM, ¶¶ 56 -57.
 
 NPC 22 -179
 
@@ -606,9 +525,6 @@ Here, it is clear that the Respondent s have already processed the
 
 personal data of the Complainant when it was used as evidence in a
 
-> 58 2021 RULES OF PROCEDURE OF THE NATIONAL PRIVACY COMMISSION, [NPC Circular
-> No. 2021 -01], rule II, §2 (2021).
-> 59 CL v. DDZ, DM v. DDZ, NPC 19 -030, Decision dated 10 June 2021, p. 5.
 
 NPC 22 -179
 
@@ -678,9 +594,6 @@ x x x
 
 tenure as to communications made to him or her in official
 
-> 60 Complaint dated 15 August 2022 of Complainant TSO, ¶ 19.
-> 61 Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 13.
-> 62 Data Privacy Act of 2012, Republic Act No. 10173, chapter I, § 3 (k) .
 
 NPC 22 -179
 
@@ -748,13 +661,6 @@ is of public interest or public concern is left to the proper
 
 determination of the courts on a case to case basis. 65
 
-> 63 2019 PROPOSED AMENDMENTS TO THE REVISED RULES ON EVIDENCE, rule 130, §24 ¶
-> (e).
-> 64 Banco Filipino Savings and Mortgage Bank, v. The Monetary Board, Central Bank of the Philippines, Jose
-> B. Fernandez, Carlota P. Valenzuela, Arnulfo B. Aurellano and Ramon V. Tiaoqui, G.R. No. 70054, 11
-> December 1991.
-> 65 Mario Jose E. Sereno v. Committee on Trade and Related Matters (CTRM) of NEDA, G.R. No.
-> 175210, 01 February 2016.
 
 NPC 22 -179
 
@@ -824,10 +730,6 @@ numbers, previous or c ur rent health records, licenses or its
 
 denials, suspension or revocation, and tax returns; and
 
-> 66 Annex “D” of the Complaint dated 15 August 2022 by Complainant TSO , p. 1.
-> 67 Annex “B” and series of the Complaint dated 15 August 2022 by Complainant TSO, pp. 15 -18.
-> 68 Id. NPC 22 -179
-> TSO v. ARM and HBM
 
 (4)  Specifically established by an executive order or an
 
@@ -895,9 +797,6 @@ to prove that the Complainant accused Respondent AR M of threat and
 
 that Complainant abused her right by intentionally reporting the
 
-> 69 Data Privacy Act of 2012, Republic Act No. 10173, chapter I, § 3 ( l).
-> 70 Data Privacy Act of 2012, Republic Act No. 10173, chapter I, § 3 ( g).
-> 71 Id.
 
 NPC 22 -179
 
@@ -971,10 +870,6 @@ int erest pursuant to Section 12 (f) of the DPA. This section
 
 provides that it is lawful to process personal information if it is
 
-> 72 Annex “D” of the Complaint dated 15 August 2022 by Complainant TSO, p. 3.
-> 73 Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 1 2(f).
-> 74 Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 13 (f).
-> 75 JCB v. FRL , NPC 21 -031, Decision dated 03 March 2022, at p. 1 0.
 
 NPC 22 -179
 
@@ -1056,11 +951,6 @@ AR M’s workplace. 79  On th e second processing,  Respondent AR M
 
 merely requested a copy of the conversation between the Complainant
 
-> 76 Id. at p. 11.
-> 77 Joint Comment dated 10 October 2022 of Respondent s ARM and HBM, ¶ 34.
-> 78 Annex “A” of Joint Comment dated 10 October 2022 of Respondent s ARM and HBM, p. 61.
-> 79 Annex “D” of the Complaint dated 15 August 2022 by Complainant T MSO, p. 3. NPC 22 -179
-> TSO v. ARM and HBM
 
 and Respondent HB M on the belief that they were wronged and their
 
@@ -1128,11 +1018,6 @@ Complainant may withdraw the complaint upon approval of the
 
 investigating officer and upon such terms and conditions as the
 
-> 80 Joint Comment dated 10 October 2022 of Respondent s ARM and HBM, ¶ 20.
-> 81 Joint Comment dated 10 October 2022 of Respondents ARM and HBM, ¶ 16.
-> 82 Manifestation dated 13 April 2023 by the Respondent s, ¶ 1.
-> 83 NPC Circular 202 1-01, rule V I,§5,¶ (1) (202 1).
-> 84 Motion to Dismiss dated 30 June 2023 of Complainant TSO.
 
 NPC 22 -179
 
@@ -1206,11 +1091,6 @@ further pursuing the case; [and]
 
 forgoing and for whatever legal purpose it may serve. 88
 
-> 85 NPC Circular No. 2021 -01, rule VII, §4 (2021).
-> 86 Divina Palao v. Florentino International, Inc. , G.R. No. 186967, January 18, 2017 (citing Augusto R.
-> Samalio v. Court of Appeals ).
-> 87 Exhibit “A ,” Motion to Dismiss dated 30 June 2023 by Complainant TSO .
-> 88 Emphasis supplied.
 
 NPC 22 -179
 
@@ -1222,9 +1102,7 @@ Meanwhile, in the annexed Compromise Agreement dated 12 April
 
 husband E RM , the parties agreed the following disposition, viz :
 
-The undersigned parties, MSM, as represented by her attorney -
-
-in -fact, TSO, and SPOUSES ARM & EVM, assisted by their
+The undersigned parties, MSM, as represented by her attorney-in -fact, TSO, and SPOUSES ARM & EVM, assisted by their
 
 respective counsel, hereby enter into amicable settlement, and
 
@@ -1284,8 +1162,6 @@ Complaint filed by TMSO against ARM and HBM is hereby
 
 DISMISSED for lack of merit.
 
-> 89 Annex “A,” Annex “1” of Manifestation dated 12 April 2023 by Respondent sARM and HBM .
-> 90 Underscoring provided.
 
 NPC 22 -179
 
@@ -1344,3 +1220,21 @@ TSO v. ARM and HBM
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+
+[^1]: Complaint dated 15 August 2022 of Complainant TSO. 2Id. ¶ 3. 3Id. ¶ 4. 4Id. ¶ 5.1. 5Complaint dated 15 August 2022 of Complainant TSO, ¶ 7. NPC 22 -179 TSO v. ARM and HBM Page 2of 19
+[^6]: Id. ¶ 8. 7Id. ¶8.1 . 8Id. 9Annex “B -1,” Complaint dated 15 August 2022 of Complainant TSO, at p. 16. 10 Complaint dated 15 August 2022 of Complainant TSO, ¶ 9. 11 Annex “B -2,” Complaint dated 15 August 2022 of Complainant TMSO, at p. 17. 12 Compla int dated 15 August 2022 of Complainant TSO, ¶ 10 and sub paragraph . 13 Id. ¶ 11. 14 Id. 15 Id. ¶ 11. 1. 16 Complaint dated 15 August 2022 of Complainant TSO, ¶ 11.1. 17 Id. ¶ 13.
+[^18]: Id. ¶ 15. 19 Id. ¶ 16. 20 Complaint dated 15 August 2022 of Complainant TSO, ¶ 19. 21 Id. ¶ 17. 22 Id. ¶ 19. 23 An Act Establishing A Code Of Conduct And Ethical Standards For Public Officials And Employees, To Uphold The Time -Honored Principle Of Public Office Being A Public Trust, Granting Incentives And Rewards For Exemplary Service, Enumerating Prohibited Acts And Transactions And Providing Penalties For Violations Thereof And For Other Purposes. 24 Complaint dated 15 August 2022 of Complainant TSO, ¶ 21. 25 Id. p. 7.
+[^26]: TSO v. ARM and HBM , NPC 22 -179, Order dated 05 September 2022, Complaints and Investigation Division. 27 Notice of Appearance of Counsel with Motion to Furnish Copy of Unattached Exhibits and for Extension of Time to File Verified Comment of Respondent ARM dated 04 October 2022. 28 TSO v. ARM and HBM , NPC 22 -179, Order dated 12 October 2022 , Complaints and Investigation Division. 29 Id. ¶ 25. 30 Id. ¶ 29. 31 Id. ¶ 30. 32 Joint Comment dated 10 October 2022 of Respondent sARM and HBM, ¶ 33. 33 Id. 34 Id. ¶ 38. 35 Id. ¶ 34.
+[^36]: Joint Comment dated 10 October 2022 of Respondent s ARM and HBM, ¶ 36. 37 Id. ¶ 39. 38 Id .¶ 44. 39 Id. ¶ 48. 40 Joint Comment dated 10 October 2022 of Respondent s ARM and HBM, ¶ 53. 41 Id. ¶¶56 -57. 42 TSO v. ARM and HBM , NPC 22 -179, Order dated 03 November 2022, Complaints and Investigation Division. 43 TSO v. ARM and HBM , NPC 22 -179, Email dated 15 December 2022 by the Respondent s.
+[^44]: TSO v. ARM and HBM ,NPC 22 -179, Order dated 19 December 2022, Complaints and Investigation Division. 45 Id. 46 TSO v. ARM and HBM , NPC 22 -179, Manifestation dated 19 January 2023 by the Respondent s. 47 TSO v. ARM and HBM , NPC 22 -179, Order dated 20 January 2023, Complaints and Investigation Division. 48 TSO v. ARM and HBM , NPC 22 -179, Application for Mediation dated 24 January 2023 of the Complainant and Application for Mediation dated 01 February 2023 by the Respondent s. 49 TSO v. ARM and HBM , NPC 22 -179, Order dated 02 February 2023, Complaints and Investigation Division. 50 TSO v. ARM and HBM , NPC 22 -179, Notice of Non -Settlement of Dispute dated 15 March 2023, Complaints and Investigation Division. 51 TSO v. ARM and HBM , NPC 22 -179, Order dated 1 7March 2023, Complaints and Investigation Division. 52 Memorandum dated 21 March 2023 of Complainant TSO. 53 Id. at ¶ 22. 54 Memorandum dated 29 March 2023 of Respondent sARM and HBM.
+[^55]: Motion to Dismiss dated 30 June 2023 of TSO. 56 Id . 57 Joint Comment dated 10 October 2022 of Respondent sARM and HBM, ¶¶ 56 -57.
+[^58]: 2021 RULES OF PROCEDURE OF THE NATIONAL PRIVACY COMMISSION, [NPC Circular No. 2021 -01], rule II, §2 (2021). 59 CL v. DDZ, DM v. DDZ, NPC 19 -030, Decision dated 10 June 2021, p. 5.
+[^60]: Complaint dated 15 August 2022 of Complainant TSO, ¶ 19. 61 Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 13. 62 Data Privacy Act of 2012, Republic Act No. 10173, chapter I, § 3 (k) .
+[^63]: 2019 PROPOSED AMENDMENTS TO THE REVISED RULES ON EVIDENCE, rule 130, §24 ¶ (e). 64 Banco Filipino Savings and Mortgage Bank, v. The Monetary Board, Central Bank of the Philippines, Jose B. Fernandez, Carlota P. Valenzuela, Arnulfo B. Aurellano and Ramon V. Tiaoqui, G.R. No. 70054, 11 December 1991. 65 Mario Jose E. Sereno v. Committee on Trade and Related Matters (CTRM) of NEDA, G.R. No. 175210, 01 February 2016.
+[^66]: Annex “D” of the Complaint dated 15 August 2022 by Complainant TSO , p. 1. 67 Annex “B” and series of the Complaint dated 15 August 2022 by Complainant TSO, pp. 15 -18. 68 Id. NPC 22 -179 TSO v. ARM and HBM
+[^69]: Data Privacy Act of 2012, Republic Act No. 10173, chapter I, § 3 ( l). 70 Data Privacy Act of 2012, Republic Act No. 10173, chapter I, § 3 ( g). 71 Id.
+[^72]: Annex “D” of the Complaint dated 15 August 2022 by Complainant TSO, p. 3. 73 Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 1 2(f). 74 Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 13 (f). 75 JCB v. FRL , NPC 21 -031, Decision dated 03 March 2022, at p. 1 0.
+[^76]: Id. at p. 11. 77 Joint Comment dated 10 October 2022 of Respondent s ARM and HBM, ¶ 34. 78 Annex “A” of Joint Comment dated 10 October 2022 of Respondent s ARM and HBM, p. 61. 79 Annex “D” of the Complaint dated 15 August 2022 by Complainant T MSO, p. 3. NPC 22 -179 TSO v. ARM and HBM
+[^80]: Joint Comment dated 10 October 2022 of Respondent s ARM and HBM, ¶ 20. 81 Joint Comment dated 10 October 2022 of Respondents ARM and HBM, ¶ 16. 82 Manifestation dated 13 April 2023 by the Respondent s, ¶ 1. 83 NPC Circular 202 1-01, rule V I,§5,¶ (1) (202 1). 84 Motion to Dismiss dated 30 June 2023 of Complainant TSO.
+[^85]: NPC Circular No. 2021 -01, rule VII, §4 (2021). 86 Divina Palao v. Florentino International, Inc. , G.R. No. 186967, January 18, 2017 (citing Augusto R. Samalio v. Court of Appeals ). 87 Exhibit “A ,” Motion to Dismiss dated 30 June 2023 by Complainant TSO . 88 Emphasis supplied.
+[^89]: Annex “A,” Annex “1” of Manifestation dated 12 April 2023 by Respondent sARM and HBM . 90 Underscoring provided.

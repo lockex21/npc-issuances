@@ -1,6 +1,6 @@
 ---
-title: "[Redacted] Advisory Opinion No. 2020-008"
-description: "''''''''''''' ''''' ''''''''''''''''' ''''''' '''''''''''''''''''''''' ''''''''''''''''''' '''''''''''''''''''''''''''''' ''''''''''''''' ''''''''' '''''''''''''' '''''''''''''' '''''''''''''''''''''''''''' ''''' ''''''''''''''' '''''''''..."
+title: "NPC Advisory Opinion No. 2020-008 — Video Documentation Of Mandatory Trainings For Safety Officers"
+description: "Guidance on video documentation for occupational safety trainings."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -14,29 +14,21 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                    ADVISORY OPINION NO. 2020-0081
 
 4 February 2020
 
-''''''''''''' ''''' ''''''''''''''''' '''''''
-'''''''''''''''''''''''' '''''''''''''''''''
-'''''''''''''''''''''''''''''' ''''''''''''''' ''''''''' '''''''''''''' ''''''''''''''
-'''''''''''''''''''''''''''' ''''' ''''''''''''''' ''''''''' '''''''''''''''''''''''''''''
-'''''''''''' '''''''''''''''''''' ''''''''''''''' '''''''''''''''''' '''''''''''''
-''''''''''''''''''' '''''''''''''''''' '''''''''
-
-
-             Re:       VIDEO DOCUMENTATION OF MANDATORY TRAININGS
+Re: VIDEO DOCUMENTATION OF MANDATORY TRAININGS
                        FOR SAFETY OFFICERS
 
-Dear '''''''''' '''''''''''''''',
+Dear [Redacted],
 
 We write in response to your request for advisory opinion received by the National Privacy
 Commission (NPC) which sought clarify whether the requirement set by the Occupational
 Safety and Health Center (OSHC) mandating Occupational Safety and Health Training
 Organizations (OSHTOs) to submit video documentation of mandatory trainings for safety
 officers violates the Data Privacy Act of 20122 (DPA).
+
+### Discussion
 
 OSHC as public authority
 
@@ -47,14 +39,9 @@ mutually beneficial linkages that will create a healthy and safe work environmen
 in all industries. 4 Under Section 2 of the EO, the OSHC have the following powers and
 functions, among others:
 
-      a.    To undertake continuing studies and researches on occupational safety and health,
+   a.    To undertake continuing studies and researches on occupational safety and health,
             including those relating to the establishment of causal connection between diseases and
             occupations and the development of medical criteria in determining the nature and
-
-
-
-1 Tags: lawful processing; personal information; public authority; general data privacy principles.
-2An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012],
 Republic Act No. 10173 (2012).
@@ -65,28 +52,28 @@ the Department of Labor and Employment [Executive Order No. 307] (1987).
 
 (last accessed December 4, 2019).
 
-          extent of impairment or diminution in health, functional capacity or life expectancy of
+   extent of impairment or diminution in health, functional capacity or life expectancy of
           the employees as a result of their work and working conditions;
 
-     b.   To plan, develop and implement training programs in the field of occupational safety
+   b.   To plan, develop and implement training programs in the field of occupational safety
           and health, and related interests;
 
-     c.   To serve as a clearing house of information and innovative methods, techniques and
+   c.   To serve as a clearing house of information and innovative methods, techniques and
           approaches in dealing with occupational safety and health problems and institute a
           mechanism of information dissemination to the general public;
 
-     d. To monitor the working environment by the use of industrial hygiene, field and
+   d. To monitor the working environment by the use of industrial hygiene, field and
         laboratory equipment and conduct medical examinations of workers exposed to
         hazardous substances for the ready detection of occupational diseases;
 
-     e.   To act as the duly recognized agency to undertake practical testing for safe use and set
+   e.   To act as the duly recognized agency to undertake practical testing for safe use and set
           standard specifications of personal protective and other safety devices;
 
-     f.   To assist government agencies and institutions in the formulation of policies and
+   f.   To assist government agencies and institutions in the formulation of policies and
           standards on occupational safety and health and other matters related thereto and issue
           technical guidelines for the prevention of occupational diseases and accidents;
 
-     g.   To adopt annually a budget of expenditures of the Center and its staff chargeable against
+   g.   To adopt annually a budget of expenditures of the Center and its staff chargeable against
           the State Insurance Fund: Provided, That the SSS and GSIS shall advance on a quarterly
           basis the remittances of allotment of the loading fund for this Center's operational
           expenses based on its annual budget as duly approved by the Department of Budget and
@@ -94,10 +81,10 @@ the Department of Labor and Employment [Executive Order No. 307] (1987).
           fund based on the total of the State Insurance Fund and its earnings as of December 31st
           of the preceding years;
 
-     h. To perform such other acts as it may deem appropriate for the attainment of the purposes
+   h. To perform such other acts as it may deem appropriate for the attainment of the purposes
         of the Center and proper enforcement of the provisions of this Executive Order; and
 
-     i.   To enlist the assistance of government agencies and private organizations in carrying out
+   i.   To enlist the assistance of government agencies and private organizations in carrying out
           the objectives of the Center.
 
 Additionally, the OSHC is also mandated under the Department of Labor and Employment
@@ -160,8 +147,6 @@ change the context of the inquiry and the appreciation of facts.
 For your reference.
 
 Very truly yours,
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman

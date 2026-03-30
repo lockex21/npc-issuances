@@ -1,13 +1,16 @@
 ---
 title: "Considerations on the Use of Privacy Enhancing Technologies (PETs) in the Insurance Industry (Joint Advisory No. 2025-001)"
-description: "SUBJECT : CONSIDERATIONS ON THE USE OF PRIVACY ENHANCING TECHNOLOGIES (PETs) IN THE INSURANCE INDUSTRY"
+description: "Joint advisory from the NPC and Insurance Commission providing guidance on privacy-enhancing technologies to mitigate data privacy risks and maintain data confidentiality and integrity in the insurance sector."
 aliases:
-  - "considerations on the use of privacy enhancing technologies (pets) in the insurance industry"
+  - "Joint Advisory No. 2025-001"
+  - "joint advisory no. 2025-001"
+  - "considerations on the use of privacy enhancing technologies in the insurance industry"
+  - "npc joint advisory no. 2025-001"
 tags:
-  - "issuance"
-  - "type/joint-advisory"
-  - "year/2025"
-date: "2025-03-11"
+  - issuance
+  - type/joint-advisory
+  - year/2025
+date: '2025-03-11'
 draft: false
 ---
 
@@ -87,8 +90,6 @@ Deputy Privacy Commissioner
 SGD.
 NERISSA N. DE JESUS
 Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: See National Privacy Commission, Registration of Personal Data Processing System, Notification Regarding Automated Decision-Making Or Profiling, Designation of Data Protection Officer, And the National Privacy Commission Seal Of Registration, Circular No. 04, Series of 2022 [NPC Circ. No. 22-04] (05 December 2022).
 

@@ -1,16 +1,17 @@
 ---
 title: "Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission (Advisory No. 2020-02)"
-description: "SUBJECT: GUIDELINES ON THE USE OF VIDEOCONFERENCING TECHNOLOGY FOR THE REMOTE APPEARANCE AND TESTIMONY OF PARTIES BEFORE THE NATIONAL PRIVACY COMMISSION"
 aliases:
-  - "Advisory No. 2020-02"
-  - "advisory no. 2020-02"
-  - "guidelines on the use of videoconferencing technology for the remote appearance and testimony of parties before the national privacy commission"
-  - "npc advisory no. 2020-02"
+- Advisory No. 2020-02
+- advisory no. 2020-02
+- guidelines on the use of videoconferencing technology for the remote appearance
+  and testimony of parties before the national privacy commission
+- npc advisory no. 2020-02
 tags:
-  - "issuance"
-  - "type/advisory"
-  - "year/2020"
+- issuance
+- type/advisory
+- year/2020
 draft: false
+date: '2020-04-14'
 ---
 
 ## Issuance Text
@@ -126,8 +127,6 @@ Privacy Commissioner
 (Sgd.)                                 (Sgd.)
 LEANDRO ANGELO Y. AGUIRRE              JOHN HENRY D. NAGA
 Deputy Privacy Commissioner            Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: WHO Director-General's opening remarks at the media briefing on COVID-19, 11 March 2020, available at https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020 (retrieved 05 June 2020).
 [^2]: Memorandum from the Executive Secretary dated 16 March 2020.

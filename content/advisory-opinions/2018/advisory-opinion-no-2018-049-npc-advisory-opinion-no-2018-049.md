@@ -1,10 +1,13 @@
 ---
-title: "NPC Advisory Opinion No. 2018-049"
-description: "'''''''''' '''''''''''' ''''' ''''''''''''''''''' ''''''''''''' '''''''''''''''''''''''''' '''''''''''''''' ''''''''''''''''''''''' ''''''''''''''''''''' '''''''''' '''''''''''''''''''' ''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2018-049 — Disclosure of Personal Information to the Police and the Media"
+description: "Guidance on balancing crime prevention and investigation with patients' right to data privacy, and on disclosure of personal information to the media."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2018"
+  - issuance
+  - type/advisory-opinion
+  - year/2018
+  - police-disclosure
+  - media-disclosure
+  - patient-privacy
 draft: false
 ---
 
@@ -16,37 +19,25 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                       ADVISORY OPINION NO. 2018-049
-
 26 November 2018
 
-'''''''''' '''''''''''' ''''' '''''''''''''''''''
-''''''''''''' '''''''''''''''''''''''''' ''''''''''''''''
-''''''''''''''''''''''' ''''''''''''''''''''' '''''''''' '''''''''''''''''''' '''''''''''''''''
-'''''''''''''''''''''''''''''''''''''''''''''''''''
+Re: DISCLOSURE OF PERSONAL INFORMATION TO THE POLICE AND THE MEDIA
 
-              Re:       DISCLOSURE OF PERSONAL INFORMATION TO THE POLICE
-                        AND THE MEDIA
+Dear [Redacted]:
 
-Dear '''''''' ''''''''''''''''''''':
-
-We write in response to your queries received by the National Privacy Commission (NPC)
-concerning the disclosure of personal information of patients to police officers and the media and
-how one would balance crime prevention, detection, and investigation vis-à-vis patient’s right to
-data privacy.
+We write in response to your queries received by the National Privacy Commission (NPC) concerning the disclosure of personal information of patients to police officers and the media and how one would balance crime prevention, detection, and investigation vis-à-vis patient’s right to data privacy.
 
 In your email, you stated that the police interview or obtain information about patients who are
 either alleged perpetrators of a crime or victims thereof. Also, you asked the following questions
 regarding disclosure to the media:
 
-      1. When dealing with media people, how do we balance patient privacy and public's right to
-         know?
-      2. Do we have a legal obligation to disclose information to the media?
-      3. Do the media have the legal mandate to compel institutions like hospitals to disclose
-         information?
+1. When dealing with media people, how do we balance patient privacy and public's right to know?
+2. Do we have a legal obligation to disclose information to the media?
+3. Do the media have the legal mandate to compel institutions like hospitals to disclose information?
 
-Disclosure to the police in relation to a criminal investigation
+### Discussion
+
+#### Disclosure to the Police in Relation to a Criminal Investigation
 
 The Data Privacy Act of 2012 (DPA)1 is a law that involves primarily one aspect of privacy, that of
 information privacy. Strictly, the DPA does not include in its coverage hospital policies that pertain
@@ -55,8 +46,7 @@ that they relate to the protection of personal data.
 
 The DPA states that the processing of personal information shall be allowed, subject to compliance
 with the requirements of the DPA and other laws allowing disclosure of information to the public
-and adherence to the principles of transparency, legitimate purpose and proportionality.2
-
+and adherence to the principles of transparency, legitimate purpose and proportionality.[^2]
 
 1 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
 
@@ -67,15 +57,15 @@ In general, a hospital should not release health information about patients unle
 consent or with authority of law. For personal information, which may include the name of patient,
 address, date and time of admission, this may be disclosed subject to Section 12 (d)(e)(f), to wit:
 
-         “(d) The processing is necessary to protect vitally important interests of the data
+   “(d) The processing is necessary to protect vitally important interests of the data
          subject, including life and health;
 
-         (e) The processing is necessary in order to respond to national emergency, to comply
+   (e) The processing is necessary in order to respond to national emergency, to comply
          with the requirements of public order and safety, or to fulfill functions of public
          authority which necessarily includes the processing of personal data for the
          fulfillment of its mandate; or
 
-         (f) The processing is necessary for the purposes of the legitimate interests pursued
+   (f) The processing is necessary for the purposes of the legitimate interests pursued
          by the personal information controller or by a third party or parties to whom the data
          is disclosed, except where such interests are overridden by fundamental rights and
          freedoms of the data subject which require protection under the Philippine
@@ -84,18 +74,18 @@ address, date and time of admission, this may be disclosed subject to Section 12
 For sensitive health information, release is generally prohibited unless it is permitted by specific
 provision of law. The following provisions in Section 13 of the DPA may be applicable:
 
-         “(b) The processing of the same is provided for by existing laws and
+   “(b) The processing of the same is provided for by existing laws and
          regulations: Provided, That such regulatory enactments guarantee the protection of
          the sensitive personal information and the privileged information: Provided,
          further, That the consent of the data subjects are not required by law or regulation
          permitting the processing of the sensitive personal information or the privileged
          information;
 
-         (c) The processing is necessary to protect the life and health of the data subject or
+   (c) The processing is necessary to protect the life and health of the data subject or
          another person, and the data subject is not legally or physically able to express his or
          her consent prior to the processing;
 
-         (f) The processing concerns such personal information as is necessary for the
+   (f) The processing concerns such personal information as is necessary for the
          protection of lawful rights and interests of natural or legal persons in court
          proceedings, or the establishment, exercise or defense of legal claims, or when
          provided to government or public authority.”
@@ -103,7 +93,7 @@ provision of law. The following provisions in Section 13 of the DPA may be appli
 Relative to the abovementioned provisions, the Philippine National Police (PNP) has the following
 powers and functions, as enumerated in Section 24 of Republic Act No. 6975:3
 
-         a. Enforce all laws and ordinances relative to the protection of lives and properties;
+   a. Enforce all laws and ordinances relative to the protection of lives and properties;
          b. Maintain peace and order and take all necessary steps to ensure public safety;
          c. Investigate and prevent crimes, effect the arrest of criminal offenders, bring
             offenders to justice and assist in their prosecution. (underscoring supplied)
@@ -158,7 +148,7 @@ merger.8
 Section 13(f) should also be read in accordance with the 1987 Philippine Constitution, particularly
 Art. III, Section 2:
 
-         “Section 2. The right of the people to be secure in their persons, houses, papers, and
+   “Section 2. The right of the people to be secure in their persons, houses, papers, and
          effects against unreasonable searches and seizures of whatever nature and for any
          purpose shall be inviolable, and no search warrant or warrant of arrest shall issue
          except upon probable cause to be determined personally by the judge after
@@ -177,11 +167,9 @@ persons with regard to the processing of personal data and on the free movement 
 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119 (4 May 2016).
 8 Working Party of EU Data Protection Authorities, Guidelines on Article 49 of Regulation 2016/679 (February 6, 2018).
 
-Disclosure to the media
+#### Disclosure to the Media
 
-While hospitals may disclose personal information of patients to the police in relation to a criminal
-investigation as discussed above, there is no similar obligation for hospitals and other healthcare
-facilities to disclose personal information of patients to the media.
+While hospitals may disclose personal information of patients to the police in relation to a criminal investigation as discussed above, there is no similar obligation for hospitals and other healthcare facilities to disclose personal information of patients to the media.
 
 It should be noted that the DPA provides for the criteria for lawful processing of personal
 information and sensitive personal information in Section 12 and 13, respectively. Based on such
@@ -197,10 +185,9 @@ personal information should be disclosed or not, the PIC should strive to lean t
 interpretation that is mindful of the rights and interests of the individual about whom the personal
 information is processed.9
 
-Policy for requests for personal information of patients
+#### Policy for Requests for Personal Information of Patients
 
-Considering the foregoing, it would be judicious on your part to develop a policy for requests for
-personal information and/or interviews from the police and the media. The policy may include
+Considering the foregoing, it would be judicious on your part to develop a policy for requests for personal information and/or interviews from the police and the media. The policy may include
 guidelines on how the hospital can verify the veracity of the police investigation as well as confirm
 the occurrence of the alleged criminal act. This may be done through the presentation of a police
 blotter.10 Also, an evaluation of the personal data required to be disclosed vis-à-vis its intended
@@ -225,9 +212,6 @@ this purpose, access to patients may be limited if the same would put at risk th
 health. For example, a patient who is unstable may require urgent medical interventions before
 any interview is allowed.
 
-
-
-
 9 Data Privacy Act of 2012, § 38.
 10 As a rule, all crime incidents must be recorded in the official police blotter. See: Philippine National Police Criminal
 
@@ -244,37 +228,23 @@ be conducted, and restricting access to other areas of the hospital. Where the s
 unique considerations or challenges, part of the policy may be to promptly inform the Chief of the
 Hospital or designated officer of the situation.
 
-When the one requesting for information is from the media, consent of patients should be obtained
-before disclosure thereof. It is suggested that any authorized disclosures to media be coursed
-through a hospital officer specifically designated to provide such information.
+When the one requesting for information is from the media, consent of patients should be obtained before disclosure thereof. It is suggested that any authorized disclosures to media be coursed through a hospital officer specifically designated to provide such information.
 
-This opinion is rendered based on the information you have provided. Additional information
-may change the context of the inquiry and the appreciation of the facts.
+This opinion is rendered based on the information you have provided. Additional information may change the context of the inquiry and the appreciation of the facts.
 
 For your reference.
 
 Very truly yours,
-
-
 
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-
-
 (Sgd.) IVY D. PATDU
 Officer-in-Charge and
 Deputy Privacy Commissioner
 for Policies and Planning
 
-
-
-
-12 See: Rules and Regulations Implementing the Data Privacy Act of 2012, § 34 (a).
-13 PHIL. CONST. art. III, § 12. (1) Any person under investigation for the commission of an offense shall have the right to be
-
-informed of his right to remain silent and to have competent and independent counsel preferably of his own choice. If the
-person cannot afford the services of counsel, he must be provided with one. These rights cannot be waived except in writing
-and in the presence of counsel.
+[^1]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 34 (a).
+[^2]: PHIL. CONST. art. III, § 12. (1) Any person under investigation for the commission of an offense shall have the right to be informed of his right to remain silent and to have competent and independent counsel preferably of his own choice. If the person cannot afford the services of counsel, he must be provided with one. These rights cannot be waived except in writing and in the presence of counsel.

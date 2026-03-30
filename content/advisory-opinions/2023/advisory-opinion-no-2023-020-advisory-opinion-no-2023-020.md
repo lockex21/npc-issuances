@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2023-020"
-description: "We respond to your request for an Advisory Opinion regarding the proposed implementation by Entrego Express Corporation (Entrego) of the use of breath analyzers as part of its business operations process."
+title: "NPC Advisory Opinion No. 2023-020 — Use of Breath Analyzer on Employees and Service Providers"
+description: "Advisory Opinion on whether the use of breath analyzers to test blood alcohol concentration of drivers falls within the scope of the Data Privacy Act, clarifying that it involves sensitive personal information (health data) and establishing lawful processing criteria based on legal claims defense."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,26 +11,22 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2023-020
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/Advisory-Opinion-No.-2023-020.pdf
+- Issue date: 10/05/2023
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                         ADVISORY OPINION NO. 2023-0201
 
+   05 October 2023
 
-    05 October 2023
-
-
-
-
-          Re:   USE OF BREATH ANALYZER ON EMPLOYEES AND
+   Re:   USE OF BREATH ANALYZER ON EMPLOYEES AND
                 SERVICE PROVIDERS.
 
-Dear                                :
-
+Dear [Redacted],
 We respond to your request for an Advisory Opinion regarding the proposed implementation
 by Entrego Express Corporation (Entrego) of the use of breath analyzers as part of its business
 operations process.
+
+### Discussion
 
 You state that Entrego is a duly-licensed fulfillment and solutions corporation organized
 under the laws of the Republic of the Philippines. As part of its efforts to comply with Republic
@@ -43,10 +39,6 @@ without the influence of alcohol.
 Thus, you ask whether the use of breath analyzer falls within the scope of the Data Privacy
 Act of 2012 (DPA).3
 
-
-
-1 Tags: breath analyzers, sensitive personal information, lawful criteria for processing, consent, contract,
-compliance with legal obligation
 2 An Act Penalizing Persons Driving Under the Influence of Alcohol, Dangerous Drugs, and Similar Substances,
 
 and for Other Purposes [Anti-Drunk and Drugged Driving Act of 2013], Republic Act No. 10586 (2013).
@@ -56,7 +48,7 @@ Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 
 In particular, you seek guidance on the following:
 
-      1. Whether or not the collection and processing of personal data through the intended
+   1. Whether or not the collection and processing of personal data through the intended
          implementation of breath analyzers is allowed under the confines of the DPA, its
          Implementing Rules and Regulations (IRR), and other issuances of the NPC;
       2. Whether or not collecting and processing of personal data through the intended use
@@ -92,9 +84,6 @@ i.e., level of alcohol intoxication. Thus, we confirm that use of the breath ana
 processing of the sensitive personal data information of the data subject. Strict compliance
 with the relevant provisions of the DPA, its IRR, and other issuances of the NPC should
 therefore be observed.
-
-
-
 
 4 Id. § 4.
 5 Id. § 3 (l).
@@ -137,14 +126,14 @@ In the current matter, Entrego intends to implement the use of breath analyzers 
 blood alcohol content of the data subjects to ensure that no driver is under the influence of
 alcohol. This intervention is in line with its obligation under Section 13 of the ADDA, viz:
 
-      Section 13. Direct Liability of Operator and/or Owner of the Offending Vehicle. – The
+   Section 13. Direct Liability of Operator and/or Owner of the Offending Vehicle. – The
       owner and/or operator of the vehicle driven by the offender shall be directly and
       principally held liable together with the offender for the fine and the award against the
       offender for civil damages unless he or she is able to convincingly prove that he or she has
       exercised extraordinary diligence in the selection and supervision of his or her drivers in general
       and the offending driver in particular.
 
-      This section shall principally apply to the owners and/or operators of public utility
+   This section shall principally apply to the owners and/or operators of public utility
       vehicles and commercial vehicles such as delivery vans, cargo trucks, container trucks,
       school and company buses, hotel transports, cars or vans for rent, taxi cabs, and the like.
       (Emphasis supplied).
@@ -152,7 +141,6 @@ alcohol. This intervention is in line with its obligation under Section 13 of th
 Entrego’s legitimate purpose of having its drivers undergo a breath analyzer falls within the
 meaning of processing sensitive personal information to establish, exercise, or defend legal
 claims. We note that, although there is no actual or expected legal claim at the time the breath
-
 
 8 ARTICLE 29 DATA PROTECTION WORKING PARTY, Opinion 2/2017 on data processing at work, available
 
@@ -178,12 +166,9 @@ you have provided. Any extraneous fact that may be subsequently furnished to us 
 our present position. Please note further that our Advisory Opinion is not intended to
 adjudicate the rights and obligations of the parties involved.
 
-
 For your reference.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV

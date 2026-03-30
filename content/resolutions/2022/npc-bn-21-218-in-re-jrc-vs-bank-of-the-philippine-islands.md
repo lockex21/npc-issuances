@@ -1,13 +1,23 @@
 ---
-title: "NPC BN 21-218: In Re: JRC vs. Bank of the Philippine Islands"
-description: "Rule III, Section (e)(3) of the Implementing Rules and Regulations of the Data Privacy Act of"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: Rule III, Section (e)(3) of the Implementing Rules and Regulations of
+  the Data Privacy Act of
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC BN 21-218: In Re: JRC vs. Bank of the Philippine Islands'
+aliases:
+- NPC BN 21-218
+- npc bn 21-218
+- JRC v. Bank of the Philippine Islands
+- jrc v. bank of the philippine islands
+date: '2022-08-19'
 ---
+
+
+
 
 ## Source
 - Reference: NPC BN 21-218
@@ -21,13 +31,11 @@ draft: false
 - Sec (E) (3) Implementing Rules and Regulations of the Data Privacy Act 2012
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
-
-JRC ,
+JRC,
 
 Complainant,
 
--versus - NPC 21 -218
+-versus- NPC 21 -218
 
 BANK OF THE PHILIPPINES ISLANDS
 
@@ -41,7 +49,7 @@ between JRC (Complainant) and Bank of the Philippines Islands
 
 (Respondent).
 
-Facts
+### Facts
 
 On 03 September 2021, the instant complaint 1 was filed with the NPC
 
@@ -79,8 +87,6 @@ Data Privacy Act of
 
 JRC vs Bank of the Philippine Island
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
-
 which is only limited. So how come that this scammer had
 
 known my Credit Card Account Information? There were a
@@ -101,9 +107,9 @@ report ed it immediately. I am hoping for your consideration and
 
 resolution on this matter. Thank you!” 2
 
-On 14 April 2022 3 and 20 April 2022 ,4 Complainant and Respondent
+On 14 April 2022 3 and 20 April 2022,4 Complainant and Respondent
 
-filed their Application for Mediation , respectively, and the mediation
+filed their Application for Mediation, respectively, and the mediation
 
 conferences were conducted on the following dates: 10 May 2022 ;5 07
 
@@ -113,7 +119,7 @@ and 08 August 2022 .11
 
 Despite the Order to Mediate dated 01 August 2022 12 to further
 
-conduct mediation conference on 08 August 2022 , through the sincere
+conduct mediation conference on 08 August 2022, through the sincere
 
 effort of the parties to arrive at an amicable resolution of their dispute,
 
@@ -156,17 +162,13 @@ compliance within ten (10) days from the billing’s due date, and
 > 12 Supra, Note 10.
 > 13 Mediated Settlement Agreement dated 05 August 2022.
 
-NPC 21 -218
-
 JRC vs Bank of the Philippine Island
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 issue a completion certificate or acknowledgement stating the
 
 payment of the full amount herein stated .14
 
-Discussion
+### Discussion
 
 Rule III, Section (e)(3) of the Implementing Rules and Regulations of
 
@@ -196,17 +198,17 @@ The parties formally expressed their intention to mediate the case by
 
 filing their Application for Mediation dated 14 April 2022 16 and 20
 
-April 2022 ,17 respectively. Pursuant to the Commission’s power to
+April 2022,17 respectively. Pursuant to the Commission’s power to
 
 facilitate or to enab le settlement of complaints through alternative
 
-dispute resolution processes ,18 the parties were invited to a Mediation
+dispute resolution processes,18 the parties were invited to a Mediation
 
 Conferences on 10 May 2022 ;19 07 June 2022 ;20 28 June 2022 ;21 12 July
 
 2022 ;22 25 July 2022 ;23 01 August 2022 ;24 and 08 August 2022 .25
 
-Before the scheduled Mediation Conference on 08 August 2022 ,26 the
+Before the scheduled Mediation Conference on 08 August 2022,26 the
 
 parties agreed to settle their differences through the execution of an
 
@@ -254,7 +256,7 @@ Supra, Note 9.
 
 > 24
 
-Supra , Note 10
+Supra, Note 10
 
 > 25
 
@@ -266,21 +268,19 @@ Id. NPC 21 -218
 
 > JRC vs Bank of the Philippine Island
 > Page 4of 5
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
-
 MSA dated 05 August 2022. The contents of the MSA were thoroughly
 
 explained to and understood by the parties.
 
 After a thorough study and adjudication of the case, the Commission
 
-finds that the MSA dated 05 August 2022 , executed by and between
+finds that the MSA dated 05 August 2022, executed by and between
 
 Complainant and Respondent is not contrary to law, public policy,
 
 morals, or good customs.
 
-Thus, this Commission finds the executed MSA dated 05 August 2022 ,
+Thus, this Commission finds the executed MSA dated 05 August 2022,
 
 executed by and between Complainant and Respondent, as valid and
 
@@ -288,7 +288,7 @@ enforceable. The parties are reminded to strictly observe its terms and
 
 conditions.
 
-WHEREFORE , premises considered, this Commission resolves to
+WHEREFORE, premises considered, this Commission resolves to
 
 CONFIRM the Mediated Settlement Agreement dated 05 August 2022
 
@@ -308,7 +308,7 @@ ten (10) days from receipt of the Resolution the monthly due date of
 
 Complainant’s credit card.
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines .
 
@@ -321,8 +321,6 @@ Privacy Commissioner
 WE CONCUR: NPC 21 -218
 
 JRC vs Bank of the Philippine Island
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 LEANDRO ANGELO Y. AGUIRRE
 

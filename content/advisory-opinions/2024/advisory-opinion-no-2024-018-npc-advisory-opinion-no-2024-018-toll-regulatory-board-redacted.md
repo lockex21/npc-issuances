@@ -1,6 +1,6 @@
 ---
-title: "NPC Advisory Opinion No. 2024 - 018 Toll Regulatory Board_Redacted"
-description: "Re: REQUEST FOR SHARING OF REAL-TIME TRAFFIC SITUTATION VIA LIVE STREAMING FOR THE TOLLWAY SURVEILLANCE MONITORING INFORMATION SYSTEM (TSMIS) PROJECT"
+title: "NPC Advisory Opinion No. 2024-018 — Real-Time Traffic Situation Sharing via Live Streaming for Tollway Surveillance"
+description: "Advisory opinion on the data privacy implications of the Toll Regulatory Board's request to access CCTV footage from toll road operators for the Tollway Surveillance Monitoring Information System (TSMIS) project."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,23 +11,16 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2024-018
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/NPC-Advisory-Opinion-No.-2024-018-Toll-Regulatory-Board_Redacted.pdf
+- Issue date: 12/20/2024
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                              ADVISORY OPINION NO. 2024-0181
 
- 20 December 2024
+20 December 2024
 
+Re: REQUEST FOR SHARING OF REAL-TIME TRAFFIC SITUATION VIA LIVE STREAMING FOR THE TOLLWAY SURVEILLANCE MONITORING INFORMATION SYSTEM (TSMIS) PROJECT
 
-
-
-           Re:     REQUEST FOR SHARING OF REAL-TIME TRAFFIC
-                   SITUTATION VIA LIVE STREAMING FOR THE TOLLWAY
-                   SURVEILLANCE MONITORING INFORMATION SYSTEM
-                   (TSMIS) PROJECT
-
-Dear
+Dear [Redacted],
 
 We respond to your request for an Advisory Opinion on the data privacy implications of the
 Toll Regulatory Board (TRB)’s request for access to the Closed-Circuit Television (CCTV)
@@ -52,28 +45,26 @@ traffic from their CCTV systems via the proposed software (Discord, Skype, or Zo
 lead to unauthorized processing and cybersecurity risks, as they do not have control over
 these software and any individuals with access to the stream could record or download the
 
-1 Tags: CCTV footage, special case, public authority, statutory mandate.
-
 footage.
 
 In response, TRB argues that:
 
-     1. TRB's request falls under Section 4(e) of the DPA and Section 5(d) of its IRR as a Special
+   1. TRB's request falls under Section 4(e) of the DPA and Section 5(d) of its IRR as a Special
         Case, since, by law, it has jurisdiction and power to regulate the operation and
         maintenance of toll facilities which includes the installation of CCTVs.
 
-     2. TRB will neither collect nor process personal information or personally identifiable
+   2. TRB will neither collect nor process personal information or personally identifiable
         information. TRB is merely requesting the toll operators to share real-time CCTV
         footage of traffic situations on the toll expressways, not the personal or identifiable
         information of motorists using the tollways.
 
-     3. TRB's access to CCTV footage. Furthermore, TRB will not take control of the CCTV
+   3. TRB's access to CCTV footage. Furthermore, TRB will not take control of the CCTV
         cameras or monitors but will only have access to live footage of traffic conditions on
         the toll expressways. The toll operators will maintain control over the footage,
         ensuring that no personal or identifiable information of motorists is included in the
         shared streams.
 
-     4. TRB will utilize a secure software platform, such as Discord or any other software
+   4. TRB will utilize a secure software platform, such as Discord or any other software
         recommended by the toll operators to prevent any data security incidents. As
         additional safeguards, TRB will:
               (i)  Limit access to the software to authorized personnel only;
@@ -81,7 +72,7 @@ In response, TRB argues that:
                    expressway users for real-time traffic information;
             (iii)  Establish a retention period for the shared footage.
 
-     5. Necessity and proportionality of the request: The request to share real-time traffic
+   5. Necessity and proportionality of the request: The request to share real-time traffic
         footage via live stream is both necessary and proportionate to the legitimate interests
         pursued by TRB as a regulatory agency. Firstly, it ensures the proper maintenance of
         tollway facilities by allowing real-time monitoring of their operations. Secondly, it aids
@@ -89,7 +80,7 @@ In response, TRB argues that:
         incidents on the toll expressways. Lastly, it provides a convenient way to offer toll
         expressway users real-time footage of traffic conditions.
 
-     6. Impact of denying TRB’s request: Finally, the denial of TRB’s access to the toll
+   6. Impact of denying TRB’s request: Finally, the denial of TRB’s access to the toll
         operators' CCTV footage due to perceived risks to data privacy and security could set
         a negative precedent for regulatory agencies like TRB. Such a decision could be used
         by regulated entities as a basis to refuse compliance with their obligations under the
@@ -97,7 +88,9 @@ In response, TRB argues that:
 
 Hence, your present request.
 
-Personal information; processing; CCTV.
+### Discussion
+
+#### Personal Information; Processing; CCTV
 
 The Data Privacy Act of 2012 (DPA)2 defines personal information as any information whether
 recorded in a material form or not, from which the identity of an individual is apparent or can
@@ -130,40 +123,38 @@ additional information that could directly and certainly identify an individual,
 considered personal information. Thus, without access to other databases, plate numbers only
 identify a vehicle and not the user or its owner.
 
-Scope of the DPA; public authority;
-limitations on data subjects’ rights.
+#### Scope of the DPA; Public Authority; Limitations on Data Subjects’ Rights
 
 Generally, the DPA applies to the processing of all types of personal information and to any
 natural and juridical person involved in the processing of personal information. However, the
 DPA and its IRR provide a list of specified information which do not fall within its scope.
 Particularly, Section 5(d) of the IRR states that:
 
-            Section 5. Special Cases. The Act and these Rules shall not apply to the following specified information,
+   Section 5. Special Cases. The Act and these Rules shall not apply to the following specified information,
             only to the minimum extent of collection, access, use, disclosure or other processing necessary to the
             purpose, function, or activity concerned:
 
-                                                               xxx
+   xxx
 
-            d. Information necessary in order to carry out the functions of public authority, in accordance with a
+   d. Information necessary in order to carry out the functions of public authority, in accordance with a
             constitutionally or statutorily mandated function pertaining to law enforcement or regulatory function,
             including the performance of the functions of the independent, central monetary authority, subject to
             restrictions provided by law.
 
-                                                               xxx
+   xxx
 
-            Provided, that the non-applicability if the Act or these Rules do not extend to personal information
+   Provided, that the non-applicability if the Act or these Rules do not extend to personal information
             controllers or personal information processors who remain subject to the requirements of implementing
             security measures for personal data protection: Provided further, that the processing of the information
             provided in the preceding paragraphs shall be exempted from the requirements of the Act only to the
             minimum extent necessary to achieve the specific purpose, function or activity.
-
 
 3 Id., Sec. 3(g)
 4 Id., Sec. 3(j)
 
 However, for this exemption to apply, the following must be established:
 
-    1.   The information is necessary in order to carry out the law enforcement or regulatory function of a public
+   1.   The information is necessary in order to carry out the law enforcement or regulatory function of a public
          authority;
     2.   The processing is for the fulfillment of a constitutional or statutory mandate;
     3.   There is strict adherence to all due process requirements;
@@ -186,7 +177,7 @@ and maintenance of Service Facilities throughout the tollways.
 Further, the TRB’s request may also find support under Section 7 of NPC Circular No. 2024 –
 02, to wit:
 
-         SECTION 7. Third-party access request. — A third-party access request is a request to access
+   SECTION 7. Third-party access request. — A third-party access request is a request to access
          CCTV footage made by a person other than the data subject involved in the footage or the
          latter’s authorized representative. If a data subject involved in the footage or their authorized
          representative requests access to CCTV footage, the presence of another person’s image within
@@ -194,18 +185,18 @@ Further, the TRB’s request may also find support under Section 7 of NPC Circul
          Further, in handling third-party access requests, the same policies and procedures outlined in
          the previous section shall apply.
 
-                                                                xxx
+   xxx
 
-         B. Subject to the criteria provided for the lawful processing of personal data under Sections 12
+   B. Subject to the criteria provided for the lawful processing of personal data under Sections 12
          and 13 of the DPA, CCTV footage may be disclosed in the following instances:
 
-                                                                xxx
+   xxx
 
-                   5. Other third-party requests. Third-party access requests for CCTV footage and
+   5. Other third-party requests. Third-party access requests for CCTV footage and
                    images shall be evaluated with greater scrutiny to prevent violation of the privacy
                    rights of the data subjects concerned.
 
-                           a) Upon determination of PICs that the requesting third party’s needs
+   a) Upon determination of PICs that the requesting third party’s needs
                               outweigh those of the data subjects to whom the CCTV footage and images
                               pertain, it may release information to such requesting third party.
                            b) PICs must determine on a case-to-case basis if they will accede to such
@@ -217,14 +208,13 @@ Further, the TRB’s request may also find support under Section 7 of NPC Circul
 
 For Other Purposes [Toll Operation Decree], Presidential Decree No. 1112
 
-                                    the DPA.
+   the DPA.
 
 Based on the foregoing, the Operator should consider TRB’s regulatory function as an
 appropriate lawful basis under the DPA in allowing viewing access to live CCTV footage in
 its toll facilities.
 
-Data privacy principles; security measures;
-accountability of the PIC.
+#### Data Privacy Principles; Security Measures; Accountability of the PIC
 
 It must be emphasized that even if the TRB’s request to the Operator may be considered as a
 special case, this only means that it need not establish a lawful criteria for its processing of
@@ -294,7 +284,6 @@ our present position. Please note further that our Advisory Opinion is not inten
 adjudicate the rights and obligations of the parties involved.
 
 For your reference.
-
 
 Very truly yours,
 

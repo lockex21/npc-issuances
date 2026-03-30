@@ -1,17 +1,18 @@
 ---
 title: "Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements (Advisory No. 2025-01)"
-description: "SUBJECT : CLARIFICATION ON CERTAIN PROVISIONS OF NPC CIRCULAR NO. 2020-03 ON DATA SHARING AGREEMENTS"
+description: "Establishes framework and procedures for data sharing agreements."
 aliases:
   - "Advisory No. 2025-01"
   - "advisory no. 2025-01"
   - "clarification on certain provisions of npc circular no. 2020-03 on data sharing agreements"
   - "npc advisory no. 2025-01"
 tags:
-  - "issuance"
-  - "topic/data-sharing"
-  - "type/advisory"
-  - "year/2025"
+  - issuance
+  - topic/data-sharing
+  - type/advisory
+  - year/2025
 draft: false
+date: '2025-06-26'
 ---
 
 ## Issuance Text

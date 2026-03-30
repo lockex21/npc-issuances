@@ -1,11 +1,17 @@
 ---
 title: "NPC BN 18-200: In Re: Cardinal Health International Philippines, Inc."
-description: "Notification to the Commission , 27 O ctober 2018 , at 3, in In re: Cardinal Health International"
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC BN 18-200"
+  - "npc bn 18-200"
+  - "In Re: Cardinal Health International Philippines, Inc."
+  - "in re: cardinal health international philippines, inc."
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-01-19"
 draft: false
 ---
 
@@ -457,7 +463,6 @@ Pasay City , Philippines .
 
 19 Jan uary 2023.
 
-Sgd.
 
 LEANDRO ANGELO Y. A GUIRRE
 
@@ -476,7 +481,6 @@ In re: Cardinal Health Interna ti onal Ph ilippi nes, Inc.
 > 5th Flo or, Philippine Internat ional Conven tion Center, Vicente Sotto Avenue, Pasay City, Metro Man ila 130 7
 > URL: htt ps//www.privacy.gov.ph Email Ad d:info@privacy.gov.p hTel No. 8234 -2228
 
-Sgd.
 
 NERISS A N. DE JESUS
 

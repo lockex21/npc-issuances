@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-213: In Re: Manufacturers Life Insurance Co."
-description: "Full Report, 21 October 2020, at 1, in In re: Manufacturers Life Insurance Co., NPC BN 18 -213"
+title: 'NPC BN 18-213: In Re: Manufacturers Life Insurance Co.'
+description: 'Full Report, 21 October 2020, at 1, in In re: Manufacturers Life Insurance
+  Co., NPC BN 18 -213'
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2023
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-213"'
+- '"npc bn 18-213"'
+- '"In Re: Manufacturers Life Insurance Co."'
+- '"in re: manufacturers life insurance co."'
+date: '2023-06-29'
 ---
 
 ## Source

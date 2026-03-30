@@ -1,6 +1,6 @@
 ---
-title: "Redacted-Advisory-Opinion-No.-2020-042"
-description: "''''''''''''''''''' ''''' '''''''''''''''''''' ''''''''''''' '''''''' ''''''''' ''''''' '''''''''''''''' '''''''''''''''' ''''' ''''''' '''''''''''''' ''''''''' '''''''''''' '''''''' ''''''''' '''''''' ''''''''' '''''''''''' '''''''''''' ''''''''''' '''''..."
+title: "NPC Advisory Opinion No. 2020-042 — Disclosure of Personal Information of Lot Owners to Homeowners' Association"
+description: "Guidance on whether a city assessor may disclose lot owners' personal information to a homeowners' association for legitimate purposes under the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,34 +11,24 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2020-042
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-042.pdf
+- Issue date: 30/10/2020
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                    ADVISORY OPINION NO. 2020-0421
 
  30 October 2020
 
- ''''''''''''''''''' ''''' ''''''''''''''''''''
- '''''''''''''
- '''''''' ''''''''' ''''''' '''''''''''''''' '''''''''''''''' '''''
- ''''''' '''''''''''''' ''''''''' '''''''''''' ''''''''
- ''''''''' '''''''' ''''''''' '''''''''''' '''''''''''' ''''''''''' '''''
- '''''''''''''''''''''''''''''''''''''
- ''''''''''''''''''''''''''''
-
-
-
-              Re:      DISCLOSURE OF PERSONAL INFORMATION OF LOT
+   Re:      DISCLOSURE OF PERSONAL INFORMATION OF LOT
                        OWNERS TO HOMEOWNERS’ ASSOCIATION
 
-
-Dear '''''''''' '''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your letter seeking clearance from the National Privacy Commission
 (NPC) to allow the City Assessor of Marikina to disclose the names and addresses of lot
 owners in the Loyola Grand Villas (LGV) to the Loyola Grand Villas Homeowners’
 Association, Inc. (LGVHAI).
+
+### Discussion
 
 We understand based on the information you provided that the LGVHAI is the legitimate
 Homeowners’ Association (HOA) of LGV. The association formed by its developer, V.V.
@@ -65,11 +55,11 @@ At the outset, the LGVHAI as the legitimate HOA declared by the court, has the p
 manage the internal affairs of the subdivision. Relative thereto, Section 49 of the Magna Carta
 for Homeowners and Homeowners’ Associations2 provides:
 
-         Section 49. Rights and Powers of the Association. – An association shall have the following
+   Section 49. Rights and Powers of the Association. – An association shall have the following
          rights and powers:
                                                   xxx
 
-         (i) Impose or collect reasonable fees for the use of open spaces, facilities, and services of
+   (i) Impose or collect reasonable fees for the use of open spaces, facilities, and services of
          the association to defray necessary operational expenses, subject to the limitations and
          conditions imposed under the law, the regulations of the board and the association’s by-
          laws; (underscoring supplied)
@@ -86,35 +76,33 @@ In this case, the names and addresses of the lot owners are considered personal 
 under the DPA. Accordingly, any processing activities relating to personal information
 should comply with Section 12 of the DPA, to wit:
 
-         SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal
+   SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal
          information shall be permitted only if not otherwise prohibited by law, and when at least
          one of the following conditions exists:
 
-         (a) The data subject has given his or her consent;
+   (a) The data subject has given his or her consent;
 
-         (b) The processing of personal information is necessary and is related to the fulfillment
+   (b) The processing of personal information is necessary and is related to the fulfillment
              of a contract with the data subject or in order to take steps at the request of the data
              subject prior to entering into a contract;
 
-         (c) The processing is necessary for compliance with a legal obligation to which the
+   (c) The processing is necessary for compliance with a legal obligation to which the
              personal information controller is subject;
 
-         (d) The processing is necessary to protect vitally important interests of the data subject,
+   (d) The processing is necessary to protect vitally important interests of the data subject,
              including life and health;
 
-         (e) The processing is necessary in order to respond to national emergency, to comply
+   (e) The processing is necessary in order to respond to national emergency, to comply
              with the requirements of public order and safety, or to fulfill functions of public
              authority which necessarily includes the processing of personal data for the
              fulfillment of its mandate; or
-
-
 
 2 An Act Providing for a Magna Carta for Homeowners and Homeowners' Associations, and For Other Purposes [Magna Carta
 
 for Homeowners and Homeowners’ Associations], Republic Act No. 9904 (2010).
 3 RA No. 10173, §3(h).
 
-          (f) The processing is necessary for the purposes of the legitimate interests pursued by
+   (f) The processing is necessary for the purposes of the legitimate interests pursued by
               the personal information controller or by a third party or parties to whom the data is
               disclosed, except where such interests are overridden by fundamental rights and
               freedoms of the data subject which require protection under the Philippine
@@ -150,13 +138,8 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
-
-
-
 
 4 See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016) – (c)
 

@@ -1,17 +1,18 @@
 ---
-title: "Guidelines on the Use of Closed-circuit Television (CCTV) Systems (This Advisory has been repealed by NPC Circular No. 2024-02 - Closed-Circuit Television (CCTV) Systems.) (Advisory No. 2020-04)"
-description: "SUBJECT: GUIDELINES ON THE USE OF CLOSED-CIRCUIT TELEVISION (CCTV) SYSTEMS"
+title: "Guidelines on the Use of Closed-Circuit Television (CCTV) Systems (Advisory No. 2020-02)"
 aliases:
-  - "Advisory No. 2020-04"
-  - "advisory no. 2020-04"
-  - "guidelines on the use of closed-circuit television (cctv) systems (this advisory has been repealed by npc circular no. 2024-02 - closed-circuit television (cctv) systems.)"
-  - "npc advisory no. 2020-04"
+- Advisory No. 2020-04
+- advisory no. 2020-04
+- guidelines on the use of closed-circuit television (cctv) systems (this advisory
+  has been repealed by npc circular no. 2024-02 - closed-circuit television (cctv)
+  systems.)
+- npc advisory no. 2020-04
 tags:
-  - "issuance"
-  - "topic/cctv-surveillance"
-  - "type/advisory"
-  - "year/2020"
-date: "2020-11-16"
+- issuance
+- topic/cctv-surveillance
+- type/advisory
+- year/2020
+date: '2020-11-16'
 draft: false
 ---
 
@@ -213,8 +214,6 @@ Deputy Privacy Commissioner
 
 (SGD.) JOHN HENRY D. NAGA
 Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: Singapore Personal Data Protection Commission, Advisory Guidelines on the PDPA for Selected Topics (revised 28 March 2017).
 [^2]: Privacy Commissioner of New Zealand, Privacy and CCTV: A Guide to the Privacy Act for Businesses, Agencies, and Organizations (2009).

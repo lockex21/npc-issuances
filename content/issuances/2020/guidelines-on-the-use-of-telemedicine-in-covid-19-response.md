@@ -1,17 +1,17 @@
 ---
-title: "Guidelines on the Use of Telemedicine in COVID-19 Response (Memorandum Circular No. 2020-0001)"
-description: "SUBJECT: Guidelines on the Use of Telemedicine in COVID-19 Response"
+title: "Guidelines on the Use of Telemedicine in COVID-19 Response (Advisory Circular No. 2020-0001)"
 aliases:
-  - "Memorandum Circular No. 2020-0001"
-  - "Joint Memorandum Circular No. 2020-0001"
-  - "guidelines on the use of telemedicine in covid-19 response"
-  - "memorandum circular no. 2020-0001"
-  - "npc memorandum circular no. 2020-0001"
+- Memorandum Circular No. 2020-0001
+- Joint Memorandum Circular No. 2020-0001
+- guidelines on the use of telemedicine in covid-19 response
+- memorandum circular no. 2020-0001
+- npc memorandum circular no. 2020-0001
 tags:
-  - "issuance"
-  - "type/memorandum-circular"
-  - "year/2020"
+- issuance
+- type/memorandum-circular
+- year/2020
 draft: false
+date: '2020-04-14'
 ---
 
 ## Issuance Text

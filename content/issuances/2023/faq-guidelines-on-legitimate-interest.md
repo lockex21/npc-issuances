@@ -1,20 +1,24 @@
 ---
-title: "FAQ Guidelines on Legitimate Interest"
-description: "Circular on Guidelines for Legitimate Interest Questions Raised During the Public Consultation on 07 December 2023"
+title: "Circular on Guidelines for Legitimate Interest (Circular No. 2023-07)"
+description: "Answers frequently asked questions raised during public consultation regarding the application of legitimate interest as a lawful basis for processing personal data under the Data Privacy Act."
 aliases:
-  - "faq guidelines on legitimate interest"
+  - "Circular No. 2023-07"
+  - "circular no. 2023-07"
+  - "guidelines on legitimate interest"
+  - "npc circular no. 2023-07"
 tags:
   - "issuance"
-  - "topic/legitimate-interest"
-  - "type/faq"
+  - "type/circular"
   - "year/2023"
+  - "topic/legitimate-interest"
 date: "2023-12-28"
 draft: false
 ---
 
 ## Issuance Text
 
-**Circular on Guidelines for Legitimate Interest Questions Raised During the Public Consultation on 07 December 2023**
+**Circular on Guidelines for Legitimate Interest**
+**Questions Raised During the Public Consultation on 07 December 2023**
 
 **SECTION 1.** ***General Questions.***  
 1. **What is legitimate interest?** Section 3 (A) of the Circular defines legitimate interest as an actual and lawful benefit, advantage, or gain that a PIC or third party seeks through processing. The purpose must remain lawful, not contrary to morals, public order, or public policy, and the activity should be transparent to data subjects.
@@ -91,7 +95,10 @@ draft: false
 
 34. The Circular clarifies existing law; it does not change obligations related to transparency, notice, or the right to object.
 
-**SOURCE AND NOTES**  
-- Companion note: [[notes/2023/faq-guidelines-on-legitimate-interest|Analysis and metadata]]  
-- Raw source text: [[sources/2023/faq-guidelines-on-legitimate-interest|Raw source extraction]]  
-- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/12/SGD-2023-01-legitimate-interest.pdf  
+## Source And Notes
+
+- Companion note: [[notes/2023/faq-guidelines-on-legitimate-interest|Analysis and metadata]]
+- Raw source text: [[sources/2023/faq-guidelines-on-legitimate-interest|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/12/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.pdf
+- OCR used during extraction: no
+

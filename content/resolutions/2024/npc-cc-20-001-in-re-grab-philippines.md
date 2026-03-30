@@ -1,25 +1,22 @@
 ---
-title: "NPC CC 20-001: In Re: Grab Philippines"
-description: "NPC CC 20-001: In Re: Grab Philippines"
+title: "Unknown: Resolution"
+description: "Resolution addressing the Urgent Motion to Lift Cease -and -Desist"
+aliases:
+  - "UNKNOWN"
+  - "unknown"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2024"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2024
+  - npc-case
+date: "2024-01-01"
 draft: false
 ---
 
-## Source
-- Reference: NPC CC 20-001
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/12/NPC-CC-20-001-09.17.2024-In-re-Grab-Philippines_Resolution.pdf
-- Source page: http://privacy.gov.ph/resolutions/
-- Issue date: September 17, 2024
-- Published on NPC site: Fri, 12 Dec 2025 02:58:56 GMT
-- Pages: 37
+## Source-Reference: NPC CC 20-001-Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/12/NPC-CC-20-001-09.17.2024-In-re-Grab-Philippines_Resolution.pdf-Source page: http://privacy.gov.ph/resolutions/
+- Issue date: September 17, 2024-Published on NPC site: Fri, 12 Dec 2025 02:58:56 GMT-Pages: 37
 
-## Source Tags
-- Sec 11. General Data Privacy Principles
-- Sec 18(c). Principles of Transparency, Legitimate Purpose and Proportionality
+## Source Tags-Sec 11. General Data Privacy Principles-Sec 18(c). Principles of Transparency, Legitimate Purpose and Proportionality
 
 ## Resolution Text
 x----------------------------------------------------x
@@ -32,8 +29,7 @@ Order dated 03 February 2020 filed by Grab Philippines (Grab PH)
 
 dated 04 June 2024. 1
 
-Facts
-
+### Facts
 To recall, the Commission issued a Cease -and -Desist Order (CDO)
 
 dated 03 February 2020 on the roll -out and pilot testing of Grab PH’s
@@ -76,11 +72,7 @@ ensuring that the purpose of data processing is clearly stated, the
 
 data flow is secured, and the risks are properly identified and
 
-> 1Urgent Motion to Lift Cease -and -Desist Order dated 04 June 2024 of Grab Philippines.
-> 2In Re: Grab Ph Selfie Verification and In -Vehicle Audio and Video Recording, NPC CC 20 -001,
 > Cease -and -Desist Order dated 04 February 2020.
-
-NPC CC 20 -001 NPC CC 20 -001
 
 mitigated. Absent these safeguards, this Commission will always
 
@@ -140,19 +132,8 @@ On 03 February 2022, the Commission issued a Resolution noting Grab
 
 PH’s  Motion to Resolve (Re: Compliance and Motion to Lift Cease -
 
-> 3In Re: Grab Ph Selfie Verification and In -Vehicle Audio and Video Recording, NPC CC 20 -001,
 > Cease -and -Desist Order dated 04 February 2020, at p. 7.
-> 4Report/Compliance (to Notice of Deficiencies dated 31 January 2020 and Cease and Desist Order
 > dated 3 February 2020) of Grab Philippines dated 18 February 2020, at p. 4.
-> 5Id.
-> 6NPC CC 20 -001 (unreported), Resolution dated 19 November 2020 at p. 5.
-> 7Grab PH submitted its Compliance and Motion to Lift Cease -and -Desist Order dated 3 February
-> 2020 of Grab Philippines dated 22 June 2021.
-> 8Motion to Resolve (Re: Compliance and Motion to Lift Cease -and -Desist Order dated 3 February
-> 2020) dated 19 January 2022 of Grab Philippines, at p. 1.
-> 9Id., at p. 2.
-
-NPC CC 20 -001
 
 and -Desist Order dated 3 February 2020) dated 19 January 2022. 10  The
 
@@ -170,9 +151,7 @@ Recording and In -Vehicle (CCTV) Recording projects, requesting
 
 further that the submission of their PIAs be forgone. 12  Grab PH
 
-manifested that “should it decide in the future to implement the In -
-
-Vehicle Audio Recording and In -Vehicle Video (CCTV) Recording
+manifested that “should it decide in the future to implement the In-Vehicle Audio Recording and In -Vehicle Video (CCTV) Recording
 
 projects, it will submit the PIA of the said projects for the approval of
 
@@ -190,7 +169,7 @@ On 19 January 2023, the Commission issued an Order requiring Grab
 
 PH to comply with the following:
 
-WHEREFORE, premises considered, the Commission hereby
+**WHEREFORE**, premises considered, the Commission hereby
 
 ORDERS Grab Philippines to:
 
@@ -222,16 +201,9 @@ Monitoring Division (CMD) within fifteen (15) [days] upon
 
 receipt of this Order.
 
-> 10 NPC CC 20 -001 (unreported) , Resolution dated 03 February 2022.
-> 11 Id.
-> 12 Manifestation (Re: Resolution dated 03 February 2022) dated 03 March 2022 of Grab Philippines,
 > at p. 1.
-> 13 Id.
-> 14 Id.
 
-NPC CC 20 -001
-
-SO ORDERED. 15
+**SO ORDERED**. 15
 
 In the said Order, the Commission deemed it necessary to require Grab
 
@@ -285,20 +257,8 @@ its compliance with the Order of the Commission dated 19 January
 
 2023. 24
 
-> 15 NPC CC 20 -001 (unreported) , Order dated 19 January 2023.
-> 16 Id. , at p. 2.
-> 17 Privacy Impact Assessment for Consumer Verification via Selfie dated 06 February 2020 of Grab
 > Philippines, at pp. 15 -16.
-> 18 Id. , at p. 3.
-> 19 Id.
-> 20 Privacy Impact Assessment for Consumer Verification via Selfie dated 06 February 2020 of Grab
 > Philippines, at p .18.
-> 21 Id., at pp. 18.
-> 22 NPC CC 20 -001 (unreported) , Order dated 19 January 2023, at pp. 4 -5.
-> 23 Id.
-> 24 Motion for Extension of Time to File Compliance dated 14 March 2023 of Grab Philippines.
-
-NPC CC 20 -001
 
 On 30 March 2023, the Commission issued an Order granting Grab
 
@@ -358,16 +318,7 @@ to S3 versioning and does not have backups o f the selfie data.” 31  Grab
 
 added that:
 
-> 25 NPC CC 20 -001 (unreported) , Order dated 30 March 2023, at p. 3.
-> 26 Compliance with Motion to Lift Cease -and -Desist Order dated 05 April 2023 of Grab Philippines.
-> 27 Id., referred to as Annex “C”
-> 28 Id., at p. 2.
-> 29 Id.
-> 30 Compliance with Motion to Lift Cease -and -Desist Order dated 05 April 2023 of Grab Philippines,
 > at p. 2.
-> 31 Id., at p. 3.
-
-NPC CC 20 -001
 
 …[It] will delete the selfie data after the consumer account has
 
@@ -399,7 +350,7 @@ justifying the 40 -year retention period by stating that:
 
 enduring parameter within which the legitimate interests of Grab
 
-PH users - both driver -partners and consumers - can be protected
+PH users-both driver -partners and consumers-can be protected
 
 since other modes of verification can easily be manipulated or
 
@@ -429,12 +380,6 @@ Thereafter, the Commission issued an Order dated 17 August 2023
 
 stating that:
 
-> 32 Id.
-> 33 Id.
-> 34 Motion to Resolve dated 02 August 2023 of Grab Philippines, at pp. 2 -3.
-> 35 Id., at p. 7.
-
-NPC CC 20 -001
 
 While the DPA and its IRR does not provide for a specific data
 
@@ -510,7 +455,7 @@ PH to delete the personal data of its previous clients with deactivated
 
 accounts, to wit:
 
-WHEREFORE, premises considered, the Commission hereby:
+**WHEREFORE**, premises considered, the Commission hereby:
 
 1. DENIES the Grab Philippines’ (Grab PH) Motion to Resolve
 
@@ -518,9 +463,6 @@ WHEREFORE, premises considered, the Commission hereby:
 
 dated 3 February 2020) dated 02 August 2023;
 
-> 36 NPC CC 20 -001 (unreported) , Order dated 17 August 2023, at p. 4.
-
-NPC CC 20 -001
 
 2. DIRECTS Grab PH to DELETE within three (3) months, the
 
@@ -538,7 +480,7 @@ assess its breach management pursuant to NPC Circular 16 -03
 
 (Personal Data Breach Management).
 
-SO ORDERED. 37
+**SO ORDERED**. 37
 
 Subsequently, Grab PH filed its Motion for Reconsideration (MR)
 
@@ -590,12 +532,6 @@ necessary to fulfill its purpose, or within a maximum period of
 
 data privacy.
 
-> 37 Id.
-> 38 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, at p. 2.
-> 39 Id., at p. 4.
-> 40 Id. , at p. 5.
-
-NPC CC 20 -001
 
 The retention period should be reckoned from the time the users’
 
@@ -653,17 +589,6 @@ good faith and worked earnestly to ensure that the directives of the
 
 Honorable Commission are implemented, demonstrating a strong
 
-> 41 NPC CC 20 -001 (unreported) , Order dated 08 January 2024, at pp. 6 -7.
-> 42 Id. , at p. 7.
-> 43 Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024.
-> 44 Id., at pp. 2 -5.
-> 45 Id. , at pp. 5 -7.
-> 46 Id. , at pp. 7 -8.
-> 47 Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
-> 4.
-> 48 Id.
-
-NPC CC 20 -001
 
 commitment to data privacy,” aligning its policies and procedures
 
@@ -693,9 +618,7 @@ has been an increased clamor from driver communities for enhanced
 
 security measures to safeguard their wellbeing and livelihood. These
 
-alarming incidents not only pose grave threats to safety of driver -
-
-partners but also undermine the public’s trust in the ride -hailing
+alarming incidents not only pose grave threats to safety of driver-partners but also undermine the public’s trust in the ride -hailing
 
 industry .” 53
 
@@ -725,17 +648,6 @@ enhanced security features and the individuals’ right to privacy.
 
 Privacy will never take a back seat at Grab, but the importance of
 
-> 49 Id. , at p. 5.
-> 50 Id. , at p. 1.
-> 51 Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
-> 1-2.
-> 52 Id., referred to as Annex “C. ”
-> 53 Id. , at p. 6 .
-> 54 Id.
-> 55 Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
-> 7.
-
-NPC CC 20 -001
 
 other equally pressing matters, such as the lives and security of
 
@@ -797,14 +709,6 @@ According to Grab PH, its PIA provided multiple scenarios where it
 
 will retain the Selfie data such as: Active Grab User, Deactivated (or
 
-> 56 Id., at p. 8.
-> 57 Id.
-> 58 Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines , at p. 1.
-> 59 Id.
-> 60 Id. , at p. 2.
-> 61 Id.
-> 62 Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at pp.
-> 3-4. NPC CC 20 -001
 
 terminated User), Dormant User (no transaction within 180 days), and
 
@@ -872,14 +776,6 @@ its previous Order, “a fter 10 years, the selfie initially collected may no
 
 longer be accurate because of the changes in facial features of
 
-> 63 Id. , at p. 4.
-> 64 Id.
-> 65 Id.
-> 66 Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 4.
-> 67 Id.
-> 68 Id. , at p. 5.
-
-NPC CC 20 -001
 
 individuals as they age. 69  In this case, the data will no longer be
 
@@ -893,14 +789,12 @@ the user status, unless it is required by law to retain the data, such as
 
 when cases are filed in court.” 71
 
-Issue
-
+### Issue
 Whether the Cease -and -Desist Order dated 03 February 2020 should
 
 be lifted.
 
-Discussion
-
+### Discussion
 The DPA focuses on protecting people's privacy rights, setting rules
 
 for data protection, and encouraging openness among organizations. 72
@@ -931,17 +825,8 @@ directives, the Commission lifts the CDO dated 03 February 2020 as to
 
 the Passenger Selfie Verification Project .
 
-> 69 Id.
-> 70 Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 5.
-> 71 Id.
-> 72 An Act Protecting Individual Personal Information in Information and Communications Systems
 > in the Government and the Private Sector, Creating for This Purpose aNational Privacy
 > Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173 (2012).
-> 73 Id. , chapter V § 20 .
-> 74 Id., chapter III § 11(d) .
-> 75 Id., § 11(c).
-
-NPC CC 20 -001
 
 Grab PH has complied with the general
 
@@ -1005,14 +890,8 @@ Grab PH likewise provided a summary of the process by which the
 
 selfie data is being stored in its database. 79  Grab PH stated:
 
-> 76 In Re: Grab Ph Selfie Verification and In -Vehicle Audio and Video Recording, NPC CC 20 -001,
 > Cease -and -Desist Order dated 04 February 2020, at p. 7.
-> 77 Motion for Reconsideration dated 18 December 2023 of Grab Philippines ,referred to as Annex
 > B.
-> 78 Id. , referred to as Annex “B” at pp. 4 -5.
-> 79 Id., at p. 5 .
-
-NPC CC 20 -001
 
 During the selfie process, Consumers will be asked to look at the
 
@@ -1044,9 +923,7 @@ Services have been revoked (due to past criminal acts on the
 
 platform or violation of the Grab Code of Conduct
 
-(https://www.grab.com/ph/ter ms -policies/code -of -conduct -
-
-consumer) from creating new Grab accounts.
+(https://www.grab.com/ph/ter ms -policies/code -of -conduct-consumer) from creating new Grab accounts.
 
 Should criminal incidents take place, photos of Consumers
 
@@ -1074,9 +951,7 @@ Grab Services, with no prior transaction on either Grab Transport
 
 or Grab Express as well as no verification record with Grab. 81
 
-Grab PH also requires its consumers “to complete a mandatory one -
-
-time verification process prior to Consumers booking their first Grab
+Grab PH also requires its consumers “to complete a mandatory one-time verification process prior to Consumers booking their first Grab
 
 Services .” 82  Grab PH likewise stated that there will be proposed modes
 
@@ -1084,12 +959,7 @@ of consumer verification in the Philippines: (1) Collection of Selfie; and
 
 (2) Registration of cashless paymen t which, upon adding the bank
 
-> 80 Id.
-> 81 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B ,” at pp. 5 -6.
-> 82 Id., at p. 6.
-
-NPC CC 20 -001
 
 record, will be seen as verified. 83  Grab PH stated that the bank card
 
@@ -1145,18 +1015,8 @@ Engineering Team has “read -only” access. 89  Grab PH added that only
 
 its Database Team has “Update Access” to the AWS S3. 90
 
-> 83 Id.
-> 84 Id.
-> 85 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 6.
-> 86 Id., at p. 13.
-> 87 Id., at p. 14.
-> 88 Id.
-> 89 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 14.
-> 90 Id.
-
-NPC CC 20 -001
 
 C.  Retention of selfie data has been
 
@@ -1224,12 +1084,6 @@ absolutely prevent the users who committed heinous crimes
 
 hypothetical and hold s no legal basis. Thus, Grab PH cannot
 
-> 91 Compliance with Motion to Lift Cease -and -Desist Order dated 05 April 2023 of Grab Philippines.
-> 92 Id., referred to as Annex “C”
-> 93 Id. , at p. 2.
-> 94 NPC CC 20 -001 (unreported) , Order dated 17 August 2023, at p. 4.
-
-NPC CC 20 -001
 
 retain the selfie data it previously held and it intends to collect
 
@@ -1299,10 +1153,6 @@ Unless otherwise specified or required by law, the maximum
 
 retention duration of the Se [l] fie (those involved in safety
 
-> 95 Id.
-> 96 Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 5.
-
-NPC CC 20 -001
 
 incidents) shall not exceed 10 years from the date of original
 
@@ -1366,12 +1216,7 @@ establishment, exercise or defense of legal claims, or for
 
 legitimate business purposes, or as provided by law[.] 99
 
-> 97 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 15.
-> 98 Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 4.
-> 99 Data Privacy Act of 2012, chapter III, § 11 .
-
-NPC CC 20 -001
 
 In relation thereto, Rule IV, Section 18 (c) of the Implementing Rules
 
@@ -1437,13 +1282,6 @@ was attached in the Motion for Reconsideration dated 18 December
 
 2023 .103
 
-> 100 National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of
-> 2012, rule IV, § 18(c) (2016).
-> 101 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, at p. 4.
-> 102 Id. , referred to as Annex “B” at p. 23.
-> 103 Id. , referred to as Annex “B” at p. 15.
-
-NPC CC 20 -001
 
 In the agreement with Amazon AWS, Grab PH cited specific
 
@@ -1495,7 +1333,7 @@ confidentiality clauses as stipulated in their agreement. They are
 
 required to agree to Grab Acceptable Usage Policy prior to
 
-logging in into the systems - Phoenix or Gamma[.]
+logging in into the systems-Phoenix or Gamma[.]
 
 Note: Gamma/Phoenix is a Grab internal tool to view consumer
 
@@ -1507,10 +1345,7 @@ access Gamma/Phoenix tools.
 
 such as police or court summons/subpoenas is presented. 106
 
-> 104 Id. , referred to as Annex “B” at p. 53.
-> 105 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 53.
-> 106 Id. , referred to as Annex “B” at p. 16. NPC CC 20 -001
 
 The Commission finds that b y limiting the sharing of data with
 
@@ -1524,9 +1359,7 @@ disclosure which is in compliance with the general data privacy
 
 principles.
 
-The Commission also noted that Grab PH attached the Mutual Non -
-
-Disclosure Agreement it executed with AWS which states that “Grab
+The Commission also noted that Grab PH attached the Mutual Non-Disclosure Agreement it executed with AWS which states that “Grab
 
 can share confidential information with Government entities as
 
@@ -1572,13 +1405,6 @@ has established that any disposal of the selfie data stored in AWS S3
 
 shall be done by the Grab Database Team upon request by the
 
-> 107 Id. , referred to as Annex “B” at p. 52.
-> 108 Id., referred to as Annex “B” at p. 56.
-> 109 Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
-> 1-2.
-> 110 Id. , at p. 6.
-
-NPC CC 20 -001
 
 Consumer who has not committed a crime or violated Code of
 
@@ -1638,18 +1464,8 @@ practice for data protection. 117  Grab PH stated that S3 Versioning is not
 
 enabled for the Consumer Verification via Selfie project. 118
 
-> 111 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 18.
-> 112 Id.
-> 113 Id., at p. 19.
-> 114 Id.
-> 115 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 19.
-> 116 Id. , referred to as Annex “B” at p. 20.
-> 117 Id. , referred to as Annex “B” at p. 20.
-> 118 Id.
-
-NPC CC 20 -001
 
 Finally, Grab PH reported that “[f] or the data that is transferred to
 
@@ -1711,14 +1527,8 @@ purpose of its investigation.
 
 acts while using Grab’s platform, or otherwise violated the Grab
 
-> 119 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 20.
-> 120 Id. , referred to as Annex “B” at pp. 20 -22.
-> 121 Id. , referred to as Annex “B” at pp. 22 -23.
-> 122 Id. , referred to as Annex “B” at pp. 23 -24.
-> 123 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at pp. 29 -42.
-> 124 Id. , referred to as Annex “B” at pp. 44 -48. NPC CC 20 -001
 
 Code of Conduct which resulted in their access to Grab Services
 
@@ -1778,13 +1588,8 @@ response to mitigate these dangers thereby serving the legitimate
 
 interests of both users and the public at large.
 
-> 125 Id. , referred to as Annex “B ,”at p. 13.
-> 126 Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024,
 > Annex C.
-> 127 Motion for Reconsideration (To the Order of this Honorable Commission dated 17 August 2023)
 > dated 18 December 2023, Annex “B,” at p. 5.
-
-NPC CC 20 -001
 
 In Grab PH’s P IA Consumer Verification via Self ie dated 06 February
 
@@ -1844,15 +1649,8 @@ for crimes, the maximum of which is twenty (20 ) years from discovery
 
 of the crime, specifically for crimes punishable by reclusion perpetua
 
-> 128 Privacy Impact Assessment Consumer Verification via Selfie dated 06 February 2020 of Grab
 > Philippine s.
-> 129 NPC CC 20 -001 In re: Grab Philippines, Order dated 19 January 2023 of Grab Philippines.
-> 130 Compliance and Monitoring Division (CMD), Revised Technical Report on Grab Philippines’
 > Consumer Verification via Selfie Project dated 17 May 20222.
-> 131 NPC CC 20 -001 In re: Grab Philippines, Order dated 19 January 2023 of Grab Philippines.
-> 132 Motion for Reconsideration dated 18 December 2023 of Grab Philippines .
-
-NPC CC 20 -001
 
 and reclusion temporal .133  Grab PH alleged that in retaining the selfie
 
@@ -1916,13 +1714,6 @@ PH has substantially complied with the directives of the
 
 Commission .” 136
 
-> 133 Motion for Reconsideration (To the Order of this Honorable Commission dated 17 August
-> 2023), at p.4.
-> 134 Id., at p p.4-5.
-> 135 Compliance Evaluation Report to the Amended PIA dated 15 August 2024 of Grab PH, at p. 1.
-> 136 Id., at pp. 1 -2.
-
-NPC CC 20 -001
 
 With the submission of the CMD’s Compliance Evaluation Report, the
 
@@ -1986,13 +1777,6 @@ In order to implement the principle of accuracy, Grab PH stated that
 
 prior the deletion of the se lfie data:
 
-> 137 Data Privacy Act of 2012, chapter III, § 11(c).
-> 138 Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p.
-> 5.
-> 139 Id.
-> 140 Id.
-
-NPC CC 20 -001
 
 Consumers’ selfie data are stored on AWS S3 servers located in
 
@@ -2052,14 +1836,8 @@ security measure policies in place , to wit :
 
 Enterprise Agreement .144
 
-> 141 Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024,
 > referred to as Annex C, at p. 14.
-> 142 Id. ,referred to as Annex C, at p. 18.
-> 143 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 51.
-> 144 Id. , referred to as Annex “B” at p. 34.
-
-NPC CC 20 -001
 
 2. Megvii has included access controls and ke pt Grab data physically
 
@@ -2119,17 +1897,8 @@ personnel. All access points are maintained in a secured (locked)
 
 state. Access points to the facilities are monitored by video
 
-> 145 Id.
-> 146 Id. , referred to as Annex “B” at p. 35.
-> 147 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 36.
-> 148 Id. , referred to as Annex “B” at p. 37.
-> 149 Id.
-> 150 Id.
-> 151 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 37.
-
-NPC CC 20 -001
 
 surveillance cameras designed to record all individuals accessing
 
@@ -2191,16 +1960,7 @@ effectively respond to, remediate and mitigate the impact as
 
 agreed upon[.]
 
-> 152 Id.
-> 153 Id. , referred to as Annex “B” at p. 39.
-> 154 Id.
-> 155 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 39.
-> 156 Id. , referred to as Annex “B” at p. 40.
-> 157 Id.
-> 158 Id.
-
-NPC CC 20 -001
 
 3. As agreed with AWS in contract, AWS shall support incident
 
@@ -2254,15 +2014,8 @@ the individual between the organization and a third -party
 
 e. The transfer is for the benefit of the individual. 163
 
-> 159 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at pp. 40 -41.
-> 160 Id., referred to as Annex “B” at p. 41.
-> 161 Id. , referred to as Annex “B” at p. 44.
-> 162 Id.
-> 163 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 45.
-
-NPC CC 20 -001
 
 Such transfer of data is made known to the application users o n the
 
@@ -2330,8 +2083,6 @@ Office and Vendor Security team s and securing data processing
 
 agreements with third -party vendors .
 
-> 164 Id.
-> 165 Id. , referred to as Annex “B” at pp. 47 -48. NPC CC 20 -001
 
 Grab PH has also provided clear guidelines in allowing the transfer of
 
@@ -2395,11 +2146,7 @@ despite few difficulties, and that the probability of happening at some
 
 time is identified to be possible. 167
 
-> 166 Id. , referred to as Annex “B” at p. 49.
-> 167 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 50.
-
-NPC CC 20 -001
 
 Consequently, Grab PH recommended the following solutions: 168
 
@@ -2471,11 +2218,6 @@ Grab should also provide other materials to help Consumers
 
 better understand how and where their data will be stored. If
 
-> 168 Id. , referred to as Annex “B” at p. 51.
-> 169 Id. , referred to as Annex “B” at p. 49.
-> 170 Id. , referred to as Annex “B” at p. 50.
-
-NPC CC 20 -001
 
 possible, Grab can provide videos or online posts to further
 
@@ -2519,11 +2261,9 @@ years only in cases involving safety incidents and deleting consumer
 
 selfies upon request when accounts are deactivated, the Commission
 
-finds that Grab PH has justified its request for the lifting of the Cease -
+finds that Grab PH has justified its request for the lifting of the Cease-and -Desist Order dated 03 February 2020. 175
 
-and -Desist Order dated 03 February 2020. 175
-
-WHEREFORE, premises considered, this Commission resolves t o
+**WHEREFORE**, premises considered, this Commission resolves t o
 
 LIFT the CEASE -AND -DESIST ORDER issued on 03 February 2020
 
@@ -2531,18 +2271,10 @@ pertaining to the Roll -out of the Passenger Selfie Verification Project of
 
 Grab Philippines.
 
-SO ORDERED.
+**SO ORDERED**.
 
-> 171 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 51.
-> 172 Id. , referred to as Annex “B” at p. 50.
-> 173 Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
 > “B” at p. 51.
-> 174 Id.
-> 175 Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
-> 4.
-
-NPC CC 20 -001
 
 City of Pasay, Philippines.
 
@@ -2585,3 +2317,360 @@ COMPLIANCE AND MONITORING DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+[^1]: -2.
+[^2]: In Re: Grab Ph Selfie Verification and In -Vehicle Audio and Video Recording, NPC CC 20 -001,
+[^3]: -4. NPC CC 20 -001
+[^4]: .
+[^5]: .
+[^6]: NPC CC 20 -001 (unreported), Resolution dated 19 November 2020 at p. 5.
+[^7]: .
+[^8]: Motion to Resolve (Re: Compliance and Motion to Lift Cease -and -Desist Order dated 3 February
+[^9]: Id., at p. 2.
+[^10]: NPC CC 20 -001 (unreported) , Resolution dated 03 February 2022.
+[^11]: Id.
+[^12]: Manifestation (Re: Resolution dated 03 February 2022) dated 03 March 2022 of Grab Philippines,
+[^13]: Id.
+[^14]: Id.
+[^15]: NPC CC 20 -001 (unreported) , Order dated 19 January 2023.
+[^16]: Id. , at p. 2.
+[^17]: Privacy Impact Assessment for Consumer Verification via Selfie dated 06 February 2020 of Grab
+[^18]: Id. , at p. 3.
+[^19]: Id.
+[^20]: Privacy Impact Assessment for Consumer Verification via Selfie dated 06 February 2020 of Grab
+[^21]: Id., at pp. 18.
+[^22]: NPC CC 20 -001 (unreported) , Order dated 19 January 2023, at pp. 4 -5.
+[^23]: Id.
+[^24]: Motion for Extension of Time to File Compliance dated 14 March 2023 of Grab Philippines.
+[^25]: NPC CC 20 -001 (unreported) , Order dated 30 March 2023, at p. 3.
+[^26]: Compliance with Motion to Lift Cease -and -Desist Order dated 05 April 2023 of Grab Philippines.
+[^27]: Id., referred to as Annex “C”
+[^28]: Id., at p. 2.
+[^29]: Id.
+[^30]: Compliance with Motion to Lift Cease -and -Desist Order dated 05 April 2023 of Grab Philippines,
+[^31]: Id., at p. 3.
+[^32]: Id.
+[^33]: Id.
+[^34]: Motion to Resolve dated 02 August 2023 of Grab Philippines, at pp. 2 -3.
+[^35]: Id., at p. 7.
+[^36]: NPC CC 20 -001 (unreported) , Order dated 17 August 2023, at p. 4.
+[^37]: Id.
+[^38]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, at p. 2.
+[^39]: Id., at p. 4.
+[^40]: Id. , at p. 5.
+[^41]: NPC CC 20 -001 (unreported) , Order dated 08 January 2024, at pp. 6 -7.
+[^42]: Id. , at p. 7.
+[^43]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024.
+[^44]: Id., at pp. 2 -5.
+[^45]: Id. , at pp. 5 -7.
+[^46]: Id. , at pp. 7 -8.
+[^47]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
+[^48]: Id.
+[^49]: Id. , at p. 5.
+[^50]: Id. , at p. 1.
+[^51]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
+[^52]: Id., referred to as Annex “C. ”
+[^53]: Id. , at p. 6 .
+[^54]: Id.
+[^55]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
+[^56]: Id., at p. 8.
+[^57]: Id.
+[^58]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines , at p. 1.
+[^59]: Id.
+[^60]: Id. , at p. 2.
+[^61]: Id.
+[^62]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at pp.
+[^63]: Id. , at p. 4.
+[^64]: Id.
+[^65]: Id.
+[^66]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 4.
+[^67]: Id.
+[^68]: Id. , at p. 5.
+[^69]: Id.
+[^70]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 5.
+[^71]: Id.
+[^72]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^73]: Id. , chapter V § 20 .
+[^74]: Id., chapter III § 11(d) .
+[^75]: Id., § 11(c).
+[^76]: In Re: Grab Ph Selfie Verification and In -Vehicle Audio and Video Recording, NPC CC 20 -001,
+[^77]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines ,referred to as Annex
+[^78]: Id. , referred to as Annex “B” at pp. 4 -5.
+[^79]: Id., at p. 5 .
+[^80]: Id.
+[^81]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^82]: Id., at p. 6.
+[^83]: Id.
+[^84]: Id.
+[^85]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^86]: Id., at p. 13.
+[^87]: Id., at p. 14.
+[^88]: Id.
+[^89]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^90]: Id.
+[^91]: Compliance with Motion to Lift Cease -and -Desist Order dated 05 April 2023 of Grab Philippines.
+[^92]: Id., referred to as Annex “C”
+[^93]: Id. , at p. 2.
+[^94]: NPC CC 20 -001 (unreported) , Order dated 17 August 2023, at p. 4.
+[^95]: Id.
+[^96]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 5.
+[^97]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^98]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 4.
+[^99]: Data Privacy Act of 2012, chapter III, § 11 .
+[^100]: National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of
+[^101]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, at p. 4.
+[^102]: Id. , referred to as Annex “B” at p. 23.
+[^103]: Id. , referred to as Annex “B” at p. 15.
+[^104]: Id. , referred to as Annex “B” at p. 53.
+[^105]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^106]: Id. , referred to as Annex “B” at p. 16. NPC CC 20 -001
+[^107]: Id. , referred to as Annex “B” at p. 52.
+[^108]: Id., referred to as Annex “B” at p. 56.
+[^109]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
+[^110]: Id. , at p. 6.
+[^111]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^112]: Id.
+[^113]: Id., at p. 19.
+[^114]: Id.
+[^115]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^116]: Id. , referred to as Annex “B” at p. 20.
+[^117]: Id. , referred to as Annex “B” at p. 20.
+[^118]: Id.
+[^119]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^120]: Id. , referred to as Annex “B” at pp. 20 -22.
+[^121]: Id. , referred to as Annex “B” at pp. 22 -23.
+[^122]: Id. , referred to as Annex “B” at pp. 23 -24.
+[^123]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^124]: Id. , referred to as Annex “B” at pp. 44 -48. NPC CC 20 -001
+[^125]: Id. , referred to as Annex “B ,”at p. 13.
+[^126]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024,
+[^127]: Motion for Reconsideration (To the Order of this Honorable Commission dated 17 August 2023)
+[^128]: Privacy Impact Assessment Consumer Verification via Selfie dated 06 February 2020 of Grab
+[^129]: NPC CC 20 -001 In re: Grab Philippines, Order dated 19 January 2023 of Grab Philippines.
+[^130]: Compliance and Monitoring Division (CMD), Revised Technical Report on Grab Philippines’
+[^131]: NPC CC 20 -001 In re: Grab Philippines, Order dated 19 January 2023 of Grab Philippines.
+[^132]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines .
+[^133]: Motion for Reconsideration (To the Order of this Honorable Commission dated 17 August
+[^134]: Id., at p p.4-5.
+[^135]: Compliance Evaluation Report to the Amended PIA dated 15 August 2024 of Grab PH, at p. 1.
+[^136]: Id., at pp. 1 -2.
+[^137]: Data Privacy Act of 2012, chapter III, § 11(c).
+[^138]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p.
+[^139]: Id.
+[^140]: Id.
+[^141]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024,
+[^142]: Id. ,referred to as Annex C, at p. 18.
+[^143]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^144]: Id. , referred to as Annex “B” at p. 34.
+[^145]: Id.
+[^146]: Id. , referred to as Annex “B” at p. 35.
+[^147]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^148]: Id. , referred to as Annex “B” at p. 37.
+[^149]: Id.
+[^150]: Id.
+[^151]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^152]: Id.
+[^153]: Id. , referred to as Annex “B” at p. 39.
+[^154]: Id.
+[^155]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^156]: Id. , referred to as Annex “B” at p. 40.
+[^157]: Id.
+[^158]: Id.
+[^159]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^160]: Id., referred to as Annex “B” at p. 41.
+[^161]: Id. , referred to as Annex “B” at p. 44.
+[^162]: Id.
+[^163]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^164]: Id.
+[^165]: Id. , referred to as Annex “B” at pp. 47 -48. NPC CC 20 -001
+[^166]: Id. , referred to as Annex “B” at p. 49.
+[^167]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^168]: Id. , referred to as Annex “B” at p. 51.
+[^169]: Id. , referred to as Annex “B” at p. 49.
+[^170]: Id. , referred to as Annex “B” at p. 50.
+[^171]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^172]: Id. , referred to as Annex “B” at p. 50.
+[^173]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^174]: Id.
+[^175]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
+[^2012]: , rule IV, § 18(c) (2016).
+[^2020]: ) dated 19 January 2022 of Grab Philippines, at p. 1.
+[^2023]: ), at p.4.
+[^1]: -2.
+[^2]: In Re: Grab Ph Selfie Verification and In -Vehicle Audio and Video Recording, NPC CC 20 -001,
+[^3]: -4. NPC CC 20 -001
+[^4]: .
+[^5]: .
+[^6]: NPC CC 20 -001 (unreported), Resolution dated 19 November 2020 at p. 5.
+[^7]: .
+[^8]: Motion to Resolve (Re: Compliance and Motion to Lift Cease -and -Desist Order dated 3 February
+[^9]: Id., at p. 2.
+[^10]: NPC CC 20 -001 (unreported) , Resolution dated 03 February 2022.
+[^11]: Id.
+[^12]: Manifestation (Re: Resolution dated 03 February 2022) dated 03 March 2022 of Grab Philippines,
+[^13]: Id.
+[^14]: Id.
+[^15]: NPC CC 20 -001 (unreported) , Order dated 19 January 2023.
+[^16]: Id. , at p. 2.
+[^17]: Privacy Impact Assessment for Consumer Verification via Selfie dated 06 February 2020 of Grab
+[^18]: Id. , at p. 3.
+[^19]: Id.
+[^20]: Privacy Impact Assessment for Consumer Verification via Selfie dated 06 February 2020 of Grab
+[^21]: Id., at pp. 18.
+[^22]: NPC CC 20 -001 (unreported) , Order dated 19 January 2023, at pp. 4 -5.
+[^23]: Id.
+[^24]: Motion for Extension of Time to File Compliance dated 14 March 2023 of Grab Philippines.
+[^25]: NPC CC 20 -001 (unreported) , Order dated 30 March 2023, at p. 3.
+[^26]: Compliance with Motion to Lift Cease -and -Desist Order dated 05 April 2023 of Grab Philippines.
+[^27]: Id., referred to as Annex “C”
+[^28]: Id., at p. 2.
+[^29]: Id.
+[^30]: Compliance with Motion to Lift Cease -and -Desist Order dated 05 April 2023 of Grab Philippines,
+[^31]: Id., at p. 3.
+[^32]: Id.
+[^33]: Id.
+[^34]: Motion to Resolve dated 02 August 2023 of Grab Philippines, at pp. 2 -3.
+[^35]: Id., at p. 7.
+[^36]: NPC CC 20 -001 (unreported) , Order dated 17 August 2023, at p. 4.
+[^37]: Id.
+[^38]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, at p. 2.
+[^39]: Id., at p. 4.
+[^40]: Id. , at p. 5.
+[^41]: NPC CC 20 -001 (unreported) , Order dated 08 January 2024, at pp. 6 -7.
+[^42]: Id. , at p. 7.
+[^43]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024.
+[^44]: Id., at pp. 2 -5.
+[^45]: Id. , at pp. 5 -7.
+[^46]: Id. , at pp. 7 -8.
+[^47]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
+[^48]: Id.
+[^49]: Id. , at p. 5.
+[^50]: Id. , at p. 1.
+[^51]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
+[^52]: Id., referred to as Annex “C. ”
+[^53]: Id. , at p. 6 .
+[^54]: Id.
+[^55]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
+[^56]: Id., at p. 8.
+[^57]: Id.
+[^58]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines , at p. 1.
+[^59]: Id.
+[^60]: Id. , at p. 2.
+[^61]: Id.
+[^62]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at pp.
+[^63]: Id. , at p. 4.
+[^64]: Id.
+[^65]: Id.
+[^66]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 4.
+[^67]: Id.
+[^68]: Id. , at p. 5.
+[^69]: Id.
+[^70]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 5.
+[^71]: Id.
+[^72]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^73]: Id. , chapter V § 20 .
+[^74]: Id., chapter III § 11(d) .
+[^75]: Id., § 11(c).
+[^76]: In Re: Grab Ph Selfie Verification and In -Vehicle Audio and Video Recording, NPC CC 20 -001,
+[^77]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines ,referred to as Annex
+[^78]: Id. , referred to as Annex “B” at pp. 4 -5.
+[^79]: Id., at p. 5 .
+[^80]: Id.
+[^81]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^82]: Id., at p. 6.
+[^83]: Id.
+[^84]: Id.
+[^85]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^86]: Id., at p. 13.
+[^87]: Id., at p. 14.
+[^88]: Id.
+[^89]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^90]: Id.
+[^91]: Compliance with Motion to Lift Cease -and -Desist Order dated 05 April 2023 of Grab Philippines.
+[^92]: Id., referred to as Annex “C”
+[^93]: Id. , at p. 2.
+[^94]: NPC CC 20 -001 (unreported) , Order dated 17 August 2023, at p. 4.
+[^95]: Id.
+[^96]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 5.
+[^97]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^98]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 4.
+[^99]: Data Privacy Act of 2012, chapter III, § 11 .
+[^100]: National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of
+[^101]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, at p. 4.
+[^102]: Id. , referred to as Annex “B” at p. 23.
+[^103]: Id. , referred to as Annex “B” at p. 15.
+[^104]: Id. , referred to as Annex “B” at p. 53.
+[^105]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^106]: Id. , referred to as Annex “B” at p. 16. NPC CC 20 -001
+[^107]: Id. , referred to as Annex “B” at p. 52.
+[^108]: Id., referred to as Annex “B” at p. 56.
+[^109]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
+[^110]: Id. , at p. 6.
+[^111]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^112]: Id.
+[^113]: Id., at p. 19.
+[^114]: Id.
+[^115]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^116]: Id. , referred to as Annex “B” at p. 20.
+[^117]: Id. , referred to as Annex “B” at p. 20.
+[^118]: Id.
+[^119]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^120]: Id. , referred to as Annex “B” at pp. 20 -22.
+[^121]: Id. , referred to as Annex “B” at pp. 22 -23.
+[^122]: Id. , referred to as Annex “B” at pp. 23 -24.
+[^123]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^124]: Id. , referred to as Annex “B” at pp. 44 -48. NPC CC 20 -001
+[^125]: Id. , referred to as Annex “B ,”at p. 13.
+[^126]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024,
+[^127]: Motion for Reconsideration (To the Order of this Honorable Commission dated 17 August 2023)
+[^128]: Privacy Impact Assessment Consumer Verification via Selfie dated 06 February 2020 of Grab
+[^129]: NPC CC 20 -001 In re: Grab Philippines, Order dated 19 January 2023 of Grab Philippines.
+[^130]: Compliance and Monitoring Division (CMD), Revised Technical Report on Grab Philippines’
+[^131]: NPC CC 20 -001 In re: Grab Philippines, Order dated 19 January 2023 of Grab Philippines.
+[^132]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines .
+[^133]: Motion for Reconsideration (To the Order of this Honorable Commission dated 17 August
+[^134]: Id., at p p.4-5.
+[^135]: Compliance Evaluation Report to the Amended PIA dated 15 August 2024 of Grab PH, at p. 1.
+[^136]: Id., at pp. 1 -2.
+[^137]: Data Privacy Act of 2012, chapter III, § 11(c).
+[^138]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p.
+[^139]: Id.
+[^140]: Id.
+[^141]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024,
+[^142]: Id. ,referred to as Annex C, at p. 18.
+[^143]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^144]: Id. , referred to as Annex “B” at p. 34.
+[^145]: Id.
+[^146]: Id. , referred to as Annex “B” at p. 35.
+[^147]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^148]: Id. , referred to as Annex “B” at p. 37.
+[^149]: Id.
+[^150]: Id.
+[^151]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^152]: Id.
+[^153]: Id. , referred to as Annex “B” at p. 39.
+[^154]: Id.
+[^155]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^156]: Id. , referred to as Annex “B” at p. 40.
+[^157]: Id.
+[^158]: Id.
+[^159]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^160]: Id., referred to as Annex “B” at p. 41.
+[^161]: Id. , referred to as Annex “B” at p. 44.
+[^162]: Id.
+[^163]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^164]: Id.
+[^165]: Id. , referred to as Annex “B” at pp. 47 -48. NPC CC 20 -001
+[^166]: Id. , referred to as Annex “B” at p. 49.
+[^167]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^168]: Id. , referred to as Annex “B” at p. 51.
+[^169]: Id. , referred to as Annex “B” at p. 49.
+[^170]: Id. , referred to as Annex “B” at p. 50.
+[^171]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^172]: Id. , referred to as Annex “B” at p. 50.
+[^173]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex
+[^174]: Id.
+[^175]: Urgent Motion to Lift (Cease -and -Desist Order dated 3 February 2020) dated 04 June 2024, at p.
+[^2012]: , rule IV, § 18(c) (2016).
+[^2020]: ) dated 19 January 2022 of Grab Philippines, at p. 1.
+[^2023]: ), at p.4.
+

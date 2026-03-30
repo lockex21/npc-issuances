@@ -1,18 +1,21 @@
 ---
-title: "Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.) (Circular No. 16-02)"
-description: "TO : ALL HEADS OF GOVERNMENT BRANCHES, BODIES OR ENTITIES, INCLUDING NATIONAL GOVERNMENT AGENCIES, BUREAUS OR OFFICES, CONSTITUTIONAL COMMISSIONS, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED AND –CONTROLLED CORPORATIONS, STATE COLLEGE AND UNIVERSITIES; HEADS OF PRIVATE ENTITIES"
+title: "Data Sharing Agreements Involving Government Agencies (Circular No. 16-02)"
+description: "Establishes guidelines for data sharing agreements involving government agencies. (Repealed by NPC Circular No. 2020-03.)"
 aliases:
-  - "Circular No. 16-02"
-  - "circular no. 16-02"
-  - "data sharing agreements involving government agencies (this circular has been repealed by npc circular no. 2020-03 - data sharing agreements.)"
-  - "npc circular no. 16-02"
+- Circular No. 16-02
+- circular no. 16-02
+- Data Sharing Agreements Involving Government Agencies
+- data sharing agreements involving government agencies
+- NPC Circular No. 16-02
+- npc circular no. 16-02
 tags:
-  - "issuance"
-  - "topic/data-sharing"
-  - "topic/government"
-  - "type/circular"
-  - "year/2020"
+- issuance
+- topic/data-sharing
+- topic/government
+- type/circular
+- year/2020
 draft: false
+date: '2016-10-10'
 ---
 
 ## Issuance Text
@@ -33,11 +36,11 @@ WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the 
 
 WHEREAS, Section 9 of the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] provides that, among the Commission’s functions, is to develop, promulgate, review or amend rules and regulations for the effective implementation of the Act;
 
-hereby issues this Circular governing data sharing agreements involving government agencies.
+WHEREFORE, in consideration of these premises, the National Privacy Commission hereby issues this Circular governing data sharing agreements involving government agencies.
 
-**SECTION 1.** ***General Principle.*** To facilitate the performance of a public function or the provision of a public service, a government agency may share or transfer personal data under its control or custody to a third party through a data sharing agreement: Provided, that nothing in this Circular shall be construed as prohibiting or limiting the sharing or transfer of any personal data that is already authorized or required by law.
+**SECTION 1.** ***General Principle.*** To facilitate the performance of a public function or the provision of a public service, a government agency may share or transfer personal data under its control or custody to a third party through a data sharing agreement: *Provided*, that nothing in this Circular shall be construed as prohibiting or limiting the sharing or transfer of any personal data that is already authorized or required by law.
 
-**SECTION 2.** ***Scope.*** The provisions of this Circular shall only apply to personal data under the control or custody of a government agency that is being shared with or transferred to a third party, for the purpose of performing a public function, or providing of a public service: Provided, that it shall also cover personal data under the control or custody of a private entity that is being shared with or transferred to a government agency: Provided further, that where the personal data is in the custody of a personal information processor, the sharing or transfer of personal data shall only be allowed if it is pursuant to the instructions of the personal information controller concerned.
+**SECTION 2.** ***Scope.*** The provisions of this Circular shall only apply to personal data under the control or custody of a government agency that is being shared with or transferred to a third party, for the purpose of performing a public function, or providing of a public service: *Provided*, that it shall also cover personal data under the control or custody of a private entity that is being shared with or transferred to a government agency: *Provided further*, that where the personal data is in the custody of a personal information processor, the sharing or transfer of personal data shall only be allowed if it is pursuant to the instructions of the personal information controller concerned.
 
 Data sharing agreements exclusively between private entities, or those for purpose of research, shall be in accordance with the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], or other issuances of the National Privacy Commission.
 
@@ -106,7 +109,7 @@ F. Other information that would sufficiently notify the data subject of the natu
 
 **SECTION 6.** ***Content of a Data Sharing Agreement.*** A data sharing agreement shall be in writing and must comply with the following conditions:
 
-A. It shall specify, with due particularity, the purpose or purposes of the data sharing agreement, including the public function or public service the performance or provision of which the agreement is meant to facilitate: Provided, that if the purpose includes the grant of online access to personal data, or if access is open to the public or private entities, these shall also be clearly specified in the agreement.
+A. It shall specify, with due particularity, the purpose or purposes of the data sharing agreement, including the public function or public service the performance or provision of which the agreement is meant to facilitate: *Provided*, that if the purpose includes the grant of online access to personal data, or if access is open to the public or private entities, these shall also be clearly specified in the agreement.
 
 B. It shall identify all personal information controllers that are party to the agreement, and for every party, specify:
 
@@ -116,13 +119,13 @@ B. It shall identify all personal information controllers that are party to the 
 4. the remedies available to a data subject, in case the processing of personal data violates his or her rights, and how these may be exercised;
 5. the designated data protection officer or compliance officer.
 
-C. It shall specify the term or duration of the agreement, which may be renewed on the ground that the purpose or purposes of such agreement continues to exist: Provided, that in no case shall such term or any subsequent extensions thereof exceed five (5) years, without prejudice to entering into a new data sharing agreement.
+C. It shall specify the term or duration of the agreement, which may be renewed on the ground that the purpose or purposes of such agreement continues to exist: *Provided*, that in no case shall such term or any subsequent extensions thereof exceed five (5) years, without prejudice to entering into a new data sharing agreement.
 
 D. It shall contain an overview of the operational details of the sharing or transfer of personal data under the agreement. Such overview must adequately explain to a data subject and the Commission the need for the agreement, and the procedure that the parties intend to observe in implementing the same.
 
 E. It shall include a general description of the security measures that will ensure the protection of the personal data of data subjects, including the policy for retention or disposal of records.
 
-F. It shall state how a copy of the agreement may be accessed by a data subject: Provided, that the government agency may redact or prevent the disclosure of any detail or information that could endanger its computer network or system, or expose to harm the integrity, availability or confidentiality of personal data under its control or custody. Such information may include the program, middleware and encryption method in use, as provided in the next succeeding paragraph.
+F. It shall state how a copy of the agreement may be accessed by a data subject: *Provided*, that the government agency may redact or prevent the disclosure of any detail or information that could endanger its computer network or system, or expose to harm the integrity, availability or confidentiality of personal data under its control or custody. Such information may include the program, middleware and encryption method in use, as provided in the next succeeding paragraph.
 
 G. If a personal information controller shall grant online access to personal data under its control or custody, it shall specify the following information:
 
@@ -132,13 +135,21 @@ G. If a personal information controller shall grant online access to personal da
 4. Estimated frequency and volume of the proposed access; and
 5. Program, middleware and encryption method that will be used.
 
-H. It shall specify the personal information controller responsible for addressing any information request, or any complaint filed by a data subject and/or any investigation by the Commission: Provided, that the Commission shall make the final determination as to which personal information controller is liable for any breach or violation of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any applicable issuance of the Commission.
+H. It shall specify the personal information controller responsible for addressing any information request, or any complaint filed by a data subject and/or any investigation by the Commission: *Provided*, that the Commission shall make the final determination as to which personal information controller is liable for any breach or violation of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any applicable issuance of the Commission.
 
 I. It shall identify the method that shall be adopted for the secure return, destruction or disposal of the shared data and the timeline therefor.
 
 J. It shall specify any other terms or conditions that the parties may agree on.
 
 **SECTION 7.** ***Online Access.*** Where a government agency grants online access to personal data under its control or custody, such access must be done via a secure encrypted link. The government agency concerned must deploy middleware that shall have full control over such online access.
+
+**SECTION 8.** ***Transfer of Personal Data.*** Where a data sharing agreement involves the actual transfer of personal data or a copy thereof from one party to another, such transfer shall comply with the security requirements imposed by the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all applicable issuances of the Commission.
+
+**SECTION 9.** ***Responsibility of the Parties.*** All parties to a data sharing agreement shall comply with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all applicable issuances of the Commission, including putting in place adequate safeguards for data privacy and security. The designated data protection officer shall be accountable for ensuring such compliance.
+
+In the case of a government agency, the head of agency shall be responsible for complying with the security requirements provided in the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and all applicable issuances of the Commission.
+
+**SECTION 10.** ***Accountability for Cross-border Transfer of Personal Data.*** Each party to a data sharing agreement shall be responsible for any personal data under its control or custody, including those it has outsourced or subcontracted to a personal information processor. This extends to personal data it shares with or transfers to a third party located outside the Philippines, subject to cross-border arrangement and cooperation.
 
 **SECTION 8.** ***Transfer of Personal Data.*** Where a data sharing agreement involves the actual transfer of personal data or a copy thereof from one party to another, such transfer shall comply with the security requirements imposed by the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all applicable issuances of the Commission.
 
@@ -156,7 +167,7 @@ B. any person or organization that the parties to the proposed data sharing agre
 
 C. any other person or organization whose view or opinion the parties to the proposed data sharing agreement deem necessary.
 
-Failure to conduct prior consultation by the parties shall not invalidate a data sharing agreement: Provided, however, that in the event of a breach or a reported violation of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any issuance by the Commission, the latter shall take into account the conduct of such consultation in evaluating the circumstances surrounding the violation.
+Failure to conduct prior consultation by the parties shall not invalidate a data sharing agreement: *Provided, however*, that in the event of a breach or a reported violation of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any issuance by the Commission, the latter shall take into account the conduct of such consultation in evaluating the circumstances surrounding the violation.
 
 **SECTION 12.** ***Security of Personal Data.*** Data sharing shall only be allowed where there are adequate safeguards for data privacy and security. The parties to a data sharing agreement shall use contractual or other reasonable means to ensure that personal data is covered by a consistent level of protection when it is shared or transferred.
 
@@ -180,7 +191,7 @@ C. upon a breach of its provisions by any of the parties; or
 
 D. where there is disagreement, upon a finding by the Commission that its continued operation is no longer necessary, or is contrary to public interest or public policy.
 
-Nothing in this Section shall prevent the Commission from ordering motu proprio the termination of any data sharing agreement when a party is determined to have breached any of its provisions, or when the agreement is in violation of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any applicable issuance by the Commission.
+Nothing in this Section shall prevent the Commission from ordering *motu proprio* the termination of any data sharing agreement when a party is determined to have breached any of its provisions, or when the agreement is in violation of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or any applicable issuance by the Commission.
 
 **SECTION 17.** ***Return, Destruction, or Disposal of Transferred Personal Data.*** Unless otherwise provided by the data sharing agreement, all personal data transferred to other parties by virtue of such agreement shall be returned, destroyed, or disposed of, upon the termination of the agreement.
 
@@ -196,9 +207,9 @@ Where an existing data sharing arrangement is not covered by any written contrac
 
 Where an existing data sharing agreement is evidenced by a contract, joint issuance, or any similar document, but fails to comply with the provisions of this Circular, the parties thereto shall make the necessary revisions or amendments.
 
-An existing data sharing agreement found to be compliant with this Circular, except for the requirements set out in Section 4 (Consent) hereof, shall be allowed to continue until the expiration of such agreement or within two (2) years from the effectivity of this Circular, whichever is earlier, subject to the immediately succeeding paragraph: Provided, that any renewal or extension of such agreement shall comply with all the provisions of this Circular.
+An existing data sharing agreement found to be compliant with this Circular, except for the requirements set out in Section 4 (Consent) hereof, shall be allowed to continue until the expiration of such agreement or within two (2) years from the effectivity of this Circular, whichever is earlier, subject to the immediately succeeding paragraph: *Provided*, that any renewal or extension of such agreement shall comply with all the provisions of this Circular.
 
-In all cases, the personal information controller that collected the personal data directly from the data subjects shall, at the soonest practicable time, notify and provide the data subjects whose personal data were shared or transferred without their consent with all the information set out in Section 4 (Consent) of this Circular: Provided, that where individual notification is not possible or would require a disproportionate effort, the personal information controller may seek the approval of the Commission to use alternative means of notification: Provided, further, that the personal information controller shall establish means through which the data subjects can exercise their rights and obtain more detailed information relating to the data sharing agreement.
+In all cases, the personal information controller that collected the personal data directly from the data subjects shall, at the soonest practicable time, notify and provide the data subjects whose personal data were shared or transferred without their consent with all the information set out in Section 4 (Consent) of this Circular: *Provided*, that where individual notification is not possible or would require a disproportionate effort, the personal information controller may seek the approval of the Commission to use alternative means of notification: *Provided, further*, that the personal information controller shall establish means through which the data subjects can exercise their rights and obtain more detailed information relating to the data sharing agreement.
 
 If an existing data sharing arrangement is not for the purpose of performing a public function or providing a public service, the parties thereto shall immediately terminate the sharing or transfer of personal data. Any or all related contracts predicated on the existence of such arrangement shall likewise be terminated for being contrary to law.
 
@@ -210,9 +221,13 @@ If an existing data sharing arrangement is not for the purpose of performing a p
 
 Approved:
 
-(Sgd.) RAYMUND E. LIBORO Privacy Commissioner
+   Sgd.
+                                  RAYMUND E. LIBORO
+                                     Privacy Commissioner
 
-(Sgd.) IVY D. PATDU                    (Sgd.) DAMIAN DOMINGO O. MAPA Deputy Privacy Commissioner            Deputy Privacy Commissioner
+   Sgd.                                                        Sgd.
+ IVY D. PATDU                                                   DAMIAN DOMINGO O. MAPA
+     Deputy Privacy Commissioner                                 Deputy Privacy Commissioner
 
 ## Source And Notes
 

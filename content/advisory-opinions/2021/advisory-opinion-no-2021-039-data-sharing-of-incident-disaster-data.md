@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-039 — Data Sharing Of Incident/disaster Data"
-description: "'''''''''''''''''''''''' '''''' ''''''''''''''''''''''''' '''''' '''''''''''' '''''''''''' ''''''' ''''''' '''''''' '''''' ''''''''''''''''' '''''''''''''''''' ''''' ''''''' '''''''' '''''' ''''''''' '''''''''''' '''''''''' ''''' '''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2021-039 — Data Sharing Of Incident/disaster Data"
+description: "The Metro Manila Disaster and Risk Reduction Management Council sought guidance on data sharing of incident and disaster information among government agencies under the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,21 +17,12 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                      ADVISORY OPINION NO. 2021-0391
 
- 22 October 2021
+22 October 2021[^1]
 
- '''''''''''''''''''''''' '''''' ''''''''''''''''''''''''' ''''''
- '''''''''''' '''''''''''' ''''''' '''''''
- '''''''' '''''' ''''''''''''''''' ''''''''''''''''''
- ''''' ''''''' '''''''' '''''' ''''''''' '''''''''''' '''''''''' '''''
- '''''''''''''''''''
+Re: DATA SHARING OF INCIDENT/DISASTER DATA
 
-
-              Re:        DATA SHARING OF INCIDENT/DISASTER DATA
-
-Dear ''''''''''''''''''''''' ''''''''''''''''''''''''' '''''',
+Dear [Redacted],
 
 We write in response to your letter seeking guidance from the National Privacy Commission
 (NPC) on the sharing of personal and sensitive personal information (collectively, personal
@@ -58,24 +49,21 @@ and exchange incident/disaster data and information with other government agenci
 proper monitoring and documentation of all major and minor incidents and disaster
 occurrences in Metro Manila on its population, properties, and environment.
 
-You now ask if this data sharing arrangement is in adherence with the provisions of the Data
+You now ask if this data sharing arrangement is in adherence with the provisions of the Data Privacy Act of 2012[^2] (DPA).
 
-1 Tags: criteria for lawful processing; data sharing; law and regulation; general data privacy principles.
+### Discussion
 
-Privacy Act of 20122 (DPA).
-
-NPC Circular No. 2020-03; data sharing; mandate;
-laws and regulations
+#### NPC Circular No. 2020-03; data sharing; mandate; laws and regulations
 
 Data sharing is defined under NPC Circular No. 2020-03 as the sharing, disclosure, or transfer
 to a third party of personal data under the custody of a personal information controller to one
-or more other personal information controller/s.3
+or more other personal information controller/s.[^3]
 
 Further, the said Circular clarified that data sharing may be based on any of the criteria for
-lawful processing of personal data in Sections 12 and 13 of the DPA4 and may also be allowed
-pursuant to Section 4 of the law which specifies the special cases. 5 The Circular further
+lawful processing of personal data in Sections 12 and 13 of the DPA[^4] and may also be allowed
+pursuant to Section 4 of the law which specifies the special cases.[^5] The Circular further
 provides that it does not prohibit or limit the sharing, disclosure, or transfer of personal data
-that is already authorized or required by law.6
+that is already authorized or required by law.[^6]
 
 In relation to the above, Sections 12 (c) and (e) allows the processing of personal information
 when necessary for compliance with a legal obligation or if the processing is necessary in
@@ -90,8 +78,7 @@ The above provisions may be applicable to the data sharing involving the MMDRRMC
 other government agencies engaged in disaster risk reduction and management since the data
 sharing arrangement is mandated by law or regulation.
 
-General data privacy principles; safeguards; data
-sharing agreement
+#### General data privacy principles; safeguards; data sharing agreement
 
 We would like to note that, although government agencies may have lawful basis for the
 processing of personal data, such processing must still adhere to the other requirements of
@@ -105,8 +92,6 @@ Specifically for proportionality, the processing of personal data shall be adequ
 suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal
 data shall be processed only if the purpose of the processing could not reasonably be fulfilled
 by other means.
-
-
 
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
 
@@ -123,12 +108,12 @@ agencies, where appropriate. A DSA contains, among others, the terms and conditi
 sharing arrangement, including obligations to protect the personal data shared, the
 responsibilities of the parties, mechanisms through which data subjects may exercise their
 rights. While the execution of a DSA is not mandatory, it is a sound recourse and demonstrates
-accountable personal data processing.7
+accountable personal data processing.[^7]
 
 For further guidance on DSAs, please refer to NPC Circular No. 2020-03 available at our
 website: https://www.privacy.gov.ph/memorandum-circulars/.
 
-Statistics
+#### Statistics
 
 Finally, should the incident/disaster data and information for the Incident and Situational
 Reports you mentioned pertain to statistics only, i.e., on the number of dead, missing and
@@ -147,13 +132,13 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-
-
-
-7 NPC Circular No. 2020-03, § 8.
+[^1]: Tags: criteria for lawful processing; data sharing; law and regulation; general data privacy principles.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: National Privacy Commission, Data Sharing Agreements [NPC Circular No. 2020-03], § 2 (F) (December 23, 2020).
+[^4]: Id. § 6.
+[^5]: Id. § 7.
+[^6]: Id. § 6.
+[^7]: NPC Circular No. 2020-03, § 8.

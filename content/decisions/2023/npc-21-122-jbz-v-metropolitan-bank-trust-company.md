@@ -1,34 +1,31 @@
 ---
-title: "NPC 21-122: JBZ v. Metropolitan Bank & Trust Company"
-description: "NPC 21-122: JBZ v. Metropolitan Bank & Trust Company"
-tags:
-  - "decision"
-  - "type/decision"
-  - "year/2023"
-  - "npc-case"
+
+description: Complaint alleging unauthorized disclosure of personal data to collection
+  agents; dismissed for failure to establish substantial evidence of data breach.
 draft: false
+tags:
+- decision
+- type/decision
+- year/2021
+- npc-case
+title: 'NPC 21-122: JBZ v. Metropolitan Bank & Trust Company'
+aliases:
+- NPC 21-122
+- npc 21-122
+- JBZ v. Metropolitan Bank & Trust Company
+- jbz v. metropolitan bank & trust company
+date: '2023-01-19'
 ---
+## Source-Reference: NPC 21-122-Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/04/NPC-21-122-2023.01.19-JBZ-v.-Metropolitan-Bank-Trust-Company-Decision-Final.pdf-Source page: http://privacy.gov.ph/decisions-2/
+- Issue date: January 19, 2023-Published on NPC site: Wed, 24 Apr 2024 08:05:52 GMT-Pages: 20
 
-## Source
-- Reference: NPC 21-122
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/04/NPC-21-122-2023.01.19-JBZ-v.-Metropolitan-Bank-Trust-Company-Decision-Final.pdf
-- Source page: http://privacy.gov.ph/decisions-2/
-- Issue date: January 19, 2023
-- Published on NPC site: Wed, 24 Apr 2024 08:05:52 GMT
-- Pages: 20
-
-## Source Tags
-- Outsourcing Substantial Evidence Extent of Liability (Section 34) Damages
+## Source Tags-Outsourcing Substantial Evidence Extent of Liability (Section 34) Damages
 
 ## Decision Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 JBZ,
 
--versus -
-
-Complainant,  NPC 21 -122
+-versus-Complainant,  NPC 21 -122
 
 For: Violation of the
 
@@ -58,8 +55,7 @@ President, Cards and Personal Credit Sector for alleged violation of
 
 Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
 
-Facts
-
+### Facts
 On 08 February 2021, JBZ filed a complaint against Metrobank and
 
 CDR for violations of the DPA. 1
@@ -72,15 +68,7 @@ Metrobank through his mobile number, and his Statement of Account
 
 through his email address. 3
 
-> 1Complaints -Assisted Form, 08 February 2021, at 5-6, in JBZ v. Metropolitan Bank &Trust
-> Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 2Id. at 3.
-> 3Id. Annex 3.
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 He claimed that he received an email dated 18 March 2020 from CDR,
 
@@ -138,24 +126,7 @@ collection agents of Metrobank through email and Short Message
 
 Service (SMS):
 
-> 4Id. at 3.
-> 5Id.
-> 6Id. Annex 3.
-> 7Complaints -Assisted Form, 08 February 2021, Annex 3, in JBZ v. Metropolitan Bank &Trust
-> Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 8Id.
-> 9Id.
-> 10 Id.
-> 11 Id.
-> 12 Id.
-> 13 Complaints -Assisted Form, 08 February 2021, at 5, in JBZ v. Metropolitan Bank &Trust
-> Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 14 Id. Annex 4.
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 1.  By email dated 03 September 2020, from a certain RS, MIS,
 
@@ -209,20 +180,7 @@ Consumer Business Sector
 
 Metropolitan Bank & Trust Company 22
 
-> 15 Id. at 5.
-> 16 Id. Annex 7.
-> 17 Id. Annex 8.
-> 18 Id. Annex 9.
-> 19 Complaints -Assisted Form, 08 February 2018, Annex 12, in JBZ v. Metropolitan Bank & Trust
-> Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 20 Id. Annex 13.
-> 21 Id. Annex 10.
-> 22 Id. at 10.
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 JBZ categorically stated that he does not have a Metrobank card ending
 
@@ -276,22 +234,7 @@ amounted to Eighty -eight Thousand Four Hundred Two Pesos (Php
 
 Hundred Twenty Pesos and Ten Centavos (Php 4,420.10) due for
 
-> 23 Id. at 4.
-> 24 Id. Annex 1.
-> 25 Complaints -Assisted Form, 08 February 2021, at 5, in JBZ v. Metropolitan Bank &Trust
-> Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 26 Id. at 6-7.
-> 27 Order, 10 September 2021, at 1, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards
-> and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 28 Comment, 23 September 2021, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards
-> and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 29 Id. at 2.
-> 30 Id. at 2-3.
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 payment on or before 28 April 2020. 31 Of the outstanding amount,
 
@@ -355,20 +298,7 @@ account to the collection agency shall be included in the terms
 
 and conditions of the credit card agreement: Provided, That the
 
-> 31 Complaints -Assisted Form, 08 February 2021, Annex 2, in JBZ v. Metropolitan Bank &Trust
-> Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 32 Comment, 23 September 2021, at 3, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP
-> Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 33 Id.
-> 34 Id.
-> 35 Id.
-> 36 Id.
-> 37 Id. at 3-4.
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 credit card issuer shall refer the collection of an account to only
 
@@ -428,18 +358,7 @@ same strict level of privacy policy with the Bank”, which includes the
 
 secure storage of information and deletion of information once the
 
-> 38 Comment, 23 September 2021, at 3-4, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP
-> Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 39 Id. at 10.
-> 40 See National Privacy Commission, Re: Consent Requirement on Outsourcing Agreement with an
-> External Service Provider, Advisory Opinion No. 15, Series of 2018, at 2 (12 April 2018).
-> 41 Comment, 23 September 2021, at 10 -11, in JBZ v. Metropolitan Bank & Trust Company, CDR as
-> VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 service has been performed. 42 Metrobank also stated it referred JBZ’s
 
@@ -501,21 +420,7 @@ the scam messages from the Pacquiao Foundation and AP were widely
 
 known to be sent in random. 50
 
-> 42 Id. at 4.
-> 43 Id.
-> 44 Id. at 8.
-> 45 Id. at 4.
-> 46 Id. at 4-5.
-> 47 Comment, 23 September 2021, at 4-5, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP
-> Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 48 Id. at 5.
-> 49 Id.
-> 50 Id.
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 Metrobank noted that the breach occurred in September 2020, but JBZ
 
@@ -571,22 +476,7 @@ Metrobank argued it is not liable for Section 26 (Access due to
 
 Negligence):
 
-> 51 Id. at 5-6.
-> 52 Id.
-> 53 Comment, 23 September 2021, at 11 -12, in JBZ v. Metropolitan Bank &Trust Company, CDR as
-> VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 54 Id. at 12.
-> 55 Id.
-> 56 Id.
-> 57 Id.
-> 58 Id.
-> 59 Comment, 23 September 2021, at 12 -15, in JBZ v. Metropolitan Bank & Trust Company, CDR as
-> VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 45. In the absence of clear allegations and evidence as to how
 
@@ -656,14 +546,7 @@ made, the same could not fall as “malicious”. Again, the claim of
 
 the Complainant falls short of any legal basis. 62
 
-> 60 Id. at 12 -13.
-> 61 Id. at 13.
-> 62 Id. at 13 -14.
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 Finally, Metrobank argued that it is also not liable for Section 32
 
@@ -721,19 +604,7 @@ and that he will be adopting his notarized complaint and the attached
 
 evidence as his Memorandum. 68
 
-> 63 Id. at 14.
-> 64 Id. at 15.
-> 65 Order after the 1st Preliminary Conference, 09 November 2021, at 1, in JBZ v. Metropolitan Bank
-> & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 66 Fact -Finding Report, 13 January 2022, at 3, in JBZ v. Metropolitan Bank & Trust Company, CDR
-> as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 67 Id.
-> 68 Id.
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 On 07 December 2021, the CID directed Metrobank to file its
 
@@ -763,8 +634,7 @@ JBZ signed his Application Form, he consented to be bound by the
 
 Terms and Conditions. 73
 
-Issues
-
+### Issues
 I.  Whether Metrobank’s outsourcing of the collection of unpaid
 
 accounts is a violation of the DPA;
@@ -773,25 +643,12 @@ II.  Whether there is substantial evidence to find Metrobank and
 
 CDR liable for a violation of the DPA.
 
-Discussion
-
+### Discussion
 I. Metrobank’s outsourcing of the collection of unpaid accounts
 
 is not a violation of the DPA.
 
-> 69 Id.
-> 70 Id.
-> 71 Manifestation and Compliance, 03 June 2022, Annex A, in JBZ v. Metropolitan Bank &Trust
-> Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 72 Memorandum, 09 June 2022, at 2, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP
-> Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 73 Manifestation and Compliance, 03 June 2022, at 2, in JBZ v. Metropolitan Bank &Trust Company,
-> CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 Metrobank is not liable for outsourcing JBZ’s unsettled account to its
 
@@ -861,18 +718,7 @@ agents, or its Personal Information Processors (PIP). The PIC also
 
 remains responsible for ensuring the confidentiality of the personal
 
-> 74 An Act Protecting Individual Personal Information in Information and Communications Systems
-> in the Government and the Private Sector, Creating for this purpose aNational Privacy
-> Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 14
-> (2012). Emphasis supplied.
-> 75 Implementing Rules and Regulations of Republic Act No. 10173, known as the “Data Privacy Act
-> of 2012” [Implementing Rules and Regulations of the Data Privacy Act of 2012], IRR of Republic
-> Act No. 10173 rule X, § 43 (2016). Emphasis supplied.
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 data processed, prevention of any unauthorized processing, and
 
@@ -940,15 +786,7 @@ Here, Metrobank’s purpose in outsourcing was to enforce its right
 
 against JBZ to recover his unpaid obligation. The purpose for
 
-> 76 Id.
-> 77 Data Privacy Act of 2012, §21. Emphasis supplied.
-> 78 Id. §1.
-> 79 Id. §2.
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 processing JBZ’s personal data remained the same when Metrobank
 
@@ -1004,20 +842,7 @@ Disclosure). 84 To substantiate his complaint, JBZ submitted his e -mail
 
 correspondences with Metrobank, 85 a copy of the System -Generated
 
-> 80 Complaints -Assisted Form, 08 February 2021, Annex 3, in JBZ v. Metropolitan Bank &Trust
-> Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 81 Id. Annex 2.
-> 82 Memorandum by the Respondent, 17 December 2022, Annex A, in JBZ v. Metropolitan Bank &
-> Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -222 (NPC 2021).
-> 83 Complaints -Assisted Form, 08 February 2021, at 5, in JBZ v. Metropolitan Bank &Trust
-> Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 84 Id. at 3.
-> 85 Id. Annex 1, Annex 3, and Annex 5.
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 Letter reminding him of his unpaid obligation, 86 screenshots of text
 
@@ -1077,20 +902,7 @@ allegations. Rule V, Section 1 of the 2021 NPC Rules of Procedure
 
 provides:
 
-> 86 Id. Annex 2.
-> 87 Id. Annex 7-9.
-> 88 Id. Annex 4.
-> 89 Complaints -Assisted Form, 08 February 2021, Annex 12, in JBZ v. Metropolitan Bank & Trust
-> Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 90 Id. Annex 13.
-> 91 2019 AMENDMENT TO THE 1989 REVISED RULES ON EVIDENCE , A.M. No. 19 -08 -15 -SC, Rule 131, §1
-> (1 May 2020).
-> 92 Id. §6.
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 Section 1. Order to confer for preliminary conference . No later than
 
@@ -1158,15 +970,7 @@ The documents attached to his complaint can only serve to prove that
 
 Metrobank and its collection agents were attempting to collect on his
 
-> 93 National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission
-> [NPC 2021 Rules of Procedure], rule IV, § 1 (28 January 2021). Emphasis supplied.
-> 94 BSA Tower Condominium Corp. v. Reyes II, A.C. No. 11944 (2018).
-> 95 Producers Bank of the Philippines v. Court of Appeals, G.R. No. 11049 (1998).
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 unpaid obligation incurred using the credit card. The CAF and
 
@@ -1234,17 +1038,7 @@ guilty of acts penalized Under Sections 27 and 28 of this Act, he
 
 or she shall, in addition to the penalties prescribed herein,
 
-> 96 Order (After the 2 nd Preliminary Conference held on 07 December 2021, Granting the Adoption
-> of the Complaint as Complainant’s Memorandum, and for the Respondent to Submit its
-> Memorandum), at 1, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and
-> Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 97 Complaints -Assisted Form, 08 February 2021, at 2, in JBZ v. Metropolitan Bank & Trust
-> Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 suffer perpetual or temporary absolute disqualification from
 
@@ -1306,13 +1100,6 @@ credit card. While Metrobank sent the wrong email to JBZ, it neither
 
 contained personal information of another card holder nor involved
 
-> 98 Data Privacy Act of 2012, §34.
-> 99 Complaints -Assisted Form, 08 February 2021, at 3, in JBZ v. Metropolitan Bank &Trust
-> Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
-> 100 Data Privacy Act of 2012, §34. NPC 21 -122
-> JBZ v. Metropolitan Bank &Trust Company
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 JBZ’s personal information. As such, the Commission has no reason to
 
@@ -1382,12 +1169,7 @@ This is without prejudice to the filing of an appropriate civil, criminal,
 
 or administrative case before any other forum or tribunal, if any.
 
-> 101 Id. Emphasis supplied.
 
-NPC 21 -122
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL:
-> https// www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234 -2228
 
 SO ORDERED.
 
@@ -1430,3 +1212,23 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+
+[^1]: Complaints -Assisted Form, 08 February 2021, at 5-6, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 2Id. at 3. 3Id. Annex 3.
+[^4]: Id. at 3. 5Id. 6Id. Annex 3. 7Complaints -Assisted Form, 08 February 2021, Annex 3, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 8Id. 9Id. 10 Id. 11 Id. 12 Id. 13 Complaints -Assisted Form, 08 February 2021, at 5, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 14 Id. Annex 4.
+[^15]: Id. at 5. 16 Id. Annex 7. 17 Id. Annex 8. 18 Id. Annex 9. 19 Complaints -Assisted Form, 08 February 2018, Annex 12, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 20 Id. Annex 13. 21 Id. Annex 10. 22 Id. at 10.
+[^23]: Id. at 4. 24 Id. Annex 1. 25 Complaints -Assisted Form, 08 February 2021, at 5, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 26 Id. at 6-7. 27 Order, 10 September 2021, at 1, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 28 Comment, 23 September 2021, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 29 Id. at 2. 30 Id. at 2-3.
+[^31]: Complaints -Assisted Form, 08 February 2021, Annex 2, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 32 Comment, 23 September 2021, at 3, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 33 Id. 34 Id. 35 Id. 36 Id. 37 Id. at 3-4.
+[^38]: Comment, 23 September 2021, at 3-4, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 39 Id. at 10. 40 See National Privacy Commission, Re: Consent Requirement on Outsourcing Agreement with an External Service Provider, Advisory Opinion No. 15, Series of 2018, at 2 (12 April 2018). 41 Comment, 23 September 2021, at 10 -11, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
+[^42]: Id. at 4. 43 Id. 44 Id. at 8. 45 Id. at 4. 46 Id. at 4-5. 47 Comment, 23 September 2021, at 4-5, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 48 Id. at 5. 49 Id. 50 Id.
+[^51]: Id. at 5-6. 52 Id. 53 Comment, 23 September 2021, at 11 -12, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 54 Id. at 12. 55 Id. 56 Id. 57 Id. 58 Id. 59 Comment, 23 September 2021, at 12 -15, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
+[^60]: Id. at 12 -13. 61 Id. at 13. 62 Id. at 13 -14.
+[^63]: Id. at 14. 64 Id. at 15. 65 Order after the 1st Preliminary Conference, 09 November 2021, at 1, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 66 Fact -Finding Report, 13 January 2022, at 3, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 67 Id. 68 Id.
+[^69]: Id. 70 Id. 71 Manifestation and Compliance, 03 June 2022, Annex A, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 72 Memorandum, 09 June 2022, at 2, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 73 Manifestation and Compliance, 03 June 2022, at 2, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
+[^74]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose aNational Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 14 (2012). Emphasis supplied. 75 Implementing Rules and Regulations of Republic Act No. 10173, known as the “Data Privacy Act of 2012” [Implementing Rules and Regulations of the Data Privacy Act of 2012], IRR of Republic Act No. 10173 rule X, § 43 (2016). Emphasis supplied.
+[^76]: Id. 77 Data Privacy Act of 2012, §21. Emphasis supplied. 78 Id. §1. 79 Id. §2.
+[^80]: Complaints -Assisted Form, 08 February 2021, Annex 3, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 81 Id. Annex 2. 82 Memorandum by the Respondent, 17 December 2022, Annex A, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -222 (NPC 2021). 83 Complaints -Assisted Form, 08 February 2021, at 5, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 84 Id. at 3. 85 Id. Annex 1, Annex 3, and Annex 5.
+[^86]: Id. Annex 2. 87 Id. Annex 7-9. 88 Id. Annex 4. 89 Complaints -Assisted Form, 08 February 2021, Annex 12, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 90 Id. Annex 13. 91 2019 AMENDMENT TO THE 1989 REVISED RULES ON EVIDENCE , A.M. No. 19 -08 -15 -SC, Rule 131, §1 (1 May 2020). 92 Id. §6.
+[^93]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], rule IV, § 1 (28 January 2021). Emphasis supplied. 94 BSA Tower Condominium Corp. v. Reyes II, A.C. No. 11944 (2018). 95 Producers Bank of the Philippines v. Court of Appeals, G.R. No. 11049 (1998).
+[^96]: Order (After the 2 nd Preliminary Conference held on 07 December 2021, Granting the Adoption of the Complaint as Complainant’s Memorandum, and for the Respondent to Submit its Memorandum), at 1, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 97 Complaints -Assisted Form, 08 February 2021, at 2, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021).
+[^98]: Data Privacy Act of 2012, §34. 99 Complaints -Assisted Form, 08 February 2021, at 3, in JBZ v. Metropolitan Bank &Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21 -122 (NPC 2021). 100 Data Privacy Act of 2012, §34. NPC 21 -122 JBZ v. Metropolitan Bank &Trust Company
+[^101]: Id. Emphasis supplied.

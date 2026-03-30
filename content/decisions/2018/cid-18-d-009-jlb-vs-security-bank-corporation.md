@@ -1,11 +1,17 @@
 ---
 title: "CID 18-D-009: JLB v. Security Bank Corporation"
-description: "Complaint for unauthorized disclosure of CA PIN and personal information to an unknown person; dismissed for lack of substantial evidence."
+description: "Complaint alleging unauthorized disclosure of CA PIN and personal information to an unknown person dismissed for lack of substantial evidence; Commission noted deficiency in delivery procedures and security measures."
+aliases:
+  - "CID 18-D-009"
+  - "cid 18-d-009"
+  - "JLB v. Security Bank Corporation"
+  - "jlb v. security bank corporation"
 tags:
   - "decision"
   - "type/decision"
   - "year/2018"
   - "npc-case"
+date: "2021-03-18"
 draft: false
 ---
 
@@ -27,11 +33,23 @@ draft: false
 
 ## Decision Text
 
+JLB,
+
+Complainant,
+
+-versus-
+
+Security Bank Corporation,
+
+Respondent.
+
+x----------------------------------------------------x
+
 NAGA, D.P.C.:
 
 This case involves an alleged unauthorized disclosure by the Respondent of the Cash Advance Personal Identification Number (CA PIN) and other personal information of the Complainant to unknown persons.
 
-### The Facts
+### Facts
 
 JLB (Complainant) is a Security Bank Mastercard credit card holder since 16 January 2018. Security Bank Corporation (Respondent) is a universal banking corporation duly organized and existing under the laws of the Philippines.
 
@@ -117,23 +135,21 @@ Further, even if the Respondent subcontracts its courier service, the DPA still 
 
 Thus, even if the Complainant failed to establish his case by substantial evidence, this Commission would not be precluded to conduct Compliance Check to the Respondent herein as provided by NPC Circular No. 18-02. This is to ensure that its processes and procedures are compliant with the DPA and other issuances of the Commission.
 
-### Dispositive Portion
-
-**WHEREFORE**, all premises considered, this Commission resolves to **DISMISS** the instant Complaint filed by JLB against Security Bank Corporation for lack of merit.
+WHEREFORE, all premises considered, this Commission resolves to **DISMISS** the instant Complaint filed by JLB against Security Bank Corporation for lack of merit.
 
 **SO ORDERED.**
 
----
+Pasay City, Philippines. 18 March 2021
 
-**JOHN HENRY D. NAGA**
+JOHN HENRY D. NAGA
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-**RAYMUND ENRIQUEZ LIBORO**
+RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-**LEANDRO ANGELO Y. AGUIRRE**
+LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
 Copy furnished:
@@ -141,11 +157,10 @@ Copy furnished:
 JLB
 Complainant
 
-LPMMDAF
-Counsel for the Respondent
-
-SECURITY BANK CORPORATION
+Security Bank Corporation
 Respondent
+
+Counsel for the Respondent
 
 COMPLAINTS AND INVESTIGATION DIVISION
 COMPLIANCE AND MONITORING DIVISION

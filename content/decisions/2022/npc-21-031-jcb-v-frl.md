@@ -1,11 +1,17 @@
 ---
 title: "NPC 21-031: JCB v. FRL"
-description: "5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7"
+description: "Complaint alleging unauthorized disclosure of court counter-affidavit containing personal data; dismissed because processing was necessary for the defense of legal claims under Section 13(f) of the DPA."
+aliases:
+  - "NPC 21-031"
+  - "npc 21-031"
+  - "JCB v. FRL"
+  - "jcb v. frl"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2022"
+  - "year/2021"
   - "npc-case"
+date: "2022-03-03"
 draft: false
 ---
 
@@ -21,43 +27,36 @@ draft: false
 - Exhaustion of remedies, Form and contents of the Complaint, Outright Dismissal, Defense of Legal Claims (Section 13 (f)), Malicious Disclosure (Section 31), Unauthorized Disclosure (Section 32)
 
 ## Decision Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
-JCB ,
+JCB,
 
 Complainant,
 
--versus -
+-versus-
 
-FRL ,
+FRL,
 
 Respondent.
 
 x----------------------------------------------------x
 
-AGUIRRE , D. P.C.;
+AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by JCB against FRL
+Before this Commission is a Complaint filed by JCB against FRL for an alleged violation of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
 
-(FRL ) for an alleged violation of the Republic Act No. 10173 or the
+### Facts
 
-Data Privacy Act of 2012 (DPA).
+On 02 February 2021, JCB filed a Complaint against FRL .1 In his
 
-Facts
-
-On 02 February 2021, JCB filed a Com plaint against FRL .1 In his
-
-Complaint Affidavit, JCB state d that he is a teacher at Don Andres
+Complaint Affidavit, JCB stated that he is a teacher at Don Andres
 
 Soriano National High School. 2 FRL is a teacher, guidance counselor,
 
 and a member of the Grievance Committee in the same school. 3
 
-JCB alleged that on 26 August 2020, MSG, a co -teacher, filed an
+JCB alleged that on 26 August 2020, MSG, a co-teacher, filed an
 
-administrative complaint against him before the Office of the
-
-Regional Director of the Department of Education (DepEd) Region
+administrative complaint against him before the Office of the Regional Director of the Department of Education (DepEd) Region
 
 VII. The administrative complaint was filed for dishonesty, grave
 
@@ -65,20 +64,16 @@ misconduct, being notoriously undesirable, and violation of the Code
 
 of Ethics for Professional Teachers. 4
 
-> 1Complaint s-Assisted Form, 02 February 2021, in JCB v. FRL , NPC 21 -031 (NPC 2021 ).
-> 2Complaint Affidavit, 26 January 2021, ¶1, in JCB v. FRL , NPC 21 -031 (NPC 2021).
-> 3Id. ¶3.
-> 4Id. ¶4.
 
-NPC 21 -031
 
-For: Violation of the
+
+
+
 
 Data Privacy Act of
 
 2012 NPC 21 -031
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 One of the attachments in the administrative complaint was FRL ’s
 
@@ -86,9 +81,7 @@ sworn statement that narrated several incidents involving JCB . JCB
 
 alleged that the incidents mentioned in FRL ’s affidavit were already
 
-settled amicably by the parties involved .5 He also asserted that the
-
-settlement should be treated as confidential to preserve its integrity. 6
+settled amicably by the parties involved .5 He also asserted that the settlement should be treated as confidential to preserve its integrity. 6
 
 In disclosing confidential information relating to the incidents , JCB
 
@@ -116,9 +109,7 @@ October 2021 stating that FRL was deemed to have waived her rights
 
 to the benefits of the preliminary conference. 11
 
-On 03 November 2021, FRL filed her Comment. 12  She argue d that the
-
-Complaint should be dismissed for JCB ’s failure to exhaust
+On 03 November 2021, FRL filed her Comment. 12  She argued that the Complaint should be dismissed for JCB ’s failure to exhaust
 
 administrative remedies. 13
 
@@ -132,20 +123,16 @@ did not contact FRL because “[ she ] is not a person -in -interest and has
 
 no legal standing. ”14
 
-> 5Id. ¶5.
-> 6Id. ¶25 .
-> 7Id. ¶43 .
-> 8Order, 02 September 2021, at 1, in JCB v. FRL , NPC 21 -031 (NPC 2021).
-> 9Id .
-> 10 Order, 30 September 2021, in JCB v. FRL , NPC 21 -031 (NPC 2021).
-> 11 Order, 28 October 2021, in JCB v. FRL , NPC 21 -031 (NPC 2021).
-> 12 Comment, 03 November 2021, at 1,in JCB v. FRL , NPC 21 -031 (NPC 2021 ).
-> 13 Id. at 3-4.
-> 14 Id. at 4.
 
-NPC 21 -031
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
+
+
+
+
+
+
+
+
 
 Further, FRL alleged that JCB ’s Complaint was not verified and did
 
@@ -157,9 +144,7 @@ with Section 3 (1) and (10), Rule II of NPC Circular No. 2021 -01 .15
 
 Nonetheless, FRL argued that she did not violate the DPA because
 
-the processing of personal information wa s exempted from the
-
-coverage of the la w. 16
+the processing of personal information wa s exempted from the coverage of the la w. 16
 
 In applying Section 4 (a) of the DPA, FRL argued that she merely
 
@@ -177,17 +162,15 @@ under Section 13 (f) of the DPA. 19  According to her, the affidavit was
 
 executed to support the administrative case filed by MSG , who
 
-intended “to exercise her legal right and responsibility to the
-
-Republic of the Philippines in helping it to get rid of unfit
+intended “to exercise her legal right and responsibility to the Republic of the Philippines in helping it to get rid of unfit
 
 government officials and employees.” 20
 
-Issue
+### Issue
 
 I.  Whe ther the case should be dismissed on procedural grounds .
 
-II.  Whether FRL had lawful basis in processing JCB ’s personal
+II.  Whether FRL had lawfulbasis in processing JCB ’s personal
 
 information.
 
@@ -199,18 +182,14 @@ IV.  Whether FRL is liable under Section 32 (Unauthorized
 
 Disclosure) of the DPA .
 
-> 15 Id. at 4 -6.
-> 16 Id. at 6 .
-> 17 Id. at 7 .
-> 18 Comment, 03 November 2021, at 7, in JCB v. FRL , NPC 21 -031 (NPC 2021 ).
-> 19 Id.
-> 20 Id.
 
-NPC 21 -031
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
-Discussion
+
+
+
+
+### Discussion
 
 The Commission shall limit its disposition of the case to the issue s on
 
@@ -232,9 +211,7 @@ required under Section 2, Rule II of NPC Circular No. 2021 -01 .22
 
 Further, FRL asserted that JCB ’s Complaint was not verified and did
 
-not contain a certification against forum shopping in violation of the
-
-procedural requirement under Section 3, Rule II of NPC Circular No.
+not contain a certification against forum shopping in violation of the procedural requirement under Section 3, Rule II of NPC Circular No.
 
 2021 -01 .23  She alleged that “the Complaint is defective on its face and
 
@@ -268,15 +245,11 @@ PIP, or concerned entity within fifteen (15) calendar days
 
 from receipt of written information from the complainant.
 
-> 21 See Complaint Affidavit, 26 January 2021, ¶¶ 33, 3 6-38, 40, in JCB v. FRL , NPC 21 -031 (NPC 2021) ; Complainant’s
+
 > Memorandum, 12 November 2021, ¶¶ 32 -34, 49 -58, 63 -64, 66, 71, in JCB v. FRL , NPC 21 -031 (NPC 2021 ).
-> 22 Comment, 03 November 2021, at 3,in JCB v. FRL , NPC 21 -031 (NPC 2021).
-> 23 Id. at 4-5.
-> 24 Id. at 6.
 
-NPC 21 -031
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
+
 
 The NPC may waive any or all of the requirements of this
 
@@ -284,9 +257,7 @@ Section at its discretion upon (a) good cause shown, properly
 
 alleged and proved by the complainant; or (b) if the allegations
 
-in the complaint involve a serious violation or breach of the
-
-Data Privacy Act of 2012, taking into account the risk of harm to
+in the complaint involve a serious violation or breach of the Data Privacy Act of 2012, taking into account the risk of harm to
 
 the affected data subjec t, including but not limited to:
 
@@ -336,21 +307,13 @@ information complained of in her role as a guidance counselor .
 
 Furthermore, JCB failed to support any of his allegation s with
 
-substantial proof . Given that JCB ’s case does not fall under the
+substantial proof . Given that JCB ’s case does not fall under the instances provided under Section 2, Rule II of NPC Circular No. 2021 -
 
-instances provided under Section 2, Rule II of NPC Circular No. 2021 -
+01 , the Commission, therefore, finds no reason to waive the procedural requirements.
 
-01 , the Commission, therefore, finds no reason to waive the
 
-procedural requirements.
-
-> 25 National Privacy Commission, 2021 Rules o fProcedure of the National Privacy Commission, [NPC 2021 Rules of
 > Procedure ], rule II, §2(28 January 20 21 ).
-> 26 Complaints -Assisted Form, 02 February 2021, in JCB v. FRL , NPC 21 -031 (NPC 2021 ).
 
-NPC 21 -031
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 As regards verification and certification against forum shopping,
 
@@ -396,13 +359,9 @@ she shall report that fact within five (5) calendar days
 
 therefrom to the NPC.
 
-Failure to comply with the proper form and contents of the
+Failure to comply with the proper form and contents of the complaint may cause for outright dismissal under Section 1(1),
 
-complaint may cause for outright dismissal under Section 1(1),
-
-Rule IV: Provided , an application that does not comply with the
-
-foregoing requirements may be acted upon if it merits
+Rule IV: Provided , an application that does not comply with the foregoing requirements may be acted upon if it merits
 
 appropriate consideration on its face, or is of such notoriety that
 
@@ -420,18 +379,12 @@ Section 4. Verification . –
 
 . . .
 
-> 27 NPC 2021 Rules of Procedure ,rule II, §3.
-> 28 Id. rule II, § 3 (1) .
 
-NPC 21 -031
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 A pleading is verified by an affidavit of an affiant duly
 
-authorized to sign said verification. The authorization of the
-
-affiant to act on behalf of a party, whether in the form of a
+authorized to sign said verification. The authorization of the affiant to act on behalf of a party, whether in the form of a
 
 secretary's certificate or a special power of attorney, should be
 
@@ -483,21 +436,13 @@ against forum shopping. 31  JCB , however, similarly failed to observe
 
 this procedural requirement when he did not attach any certification
 
-with his Complaint , nor provided any attestation enumerated in the
+with his Complaint , nor provided any attestation enumerated in the Section .
 
-Section .
+The Supreme Court explained the mandatory nature of the requirement on certification:
 
-The Supreme Court explained the mandatory nature of the
 
-requirement on certification:
 
-> 29 2019 AMENDMENTS TO THE 1997 RULES OF CIVIL PROCEDURE , rule 7, § 4.
-> 30 DP v. Florentino International, Inc., G.R. No. 186967 (2017) .
-> 31 NPC 2021 Rules of Procedure ,rule II, § 3 (10) .
 
-NPC 21 -031
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 [T]he rules on forum shopping, which were designed to
 
@@ -509,9 +454,7 @@ subvert its own ultimate and legitimate objective. Strict
 
 compliance with the provision regarding the certificate of non -
 
-forum shopping underscores its mandatory nature in that the
-
-certification cannot be altogether dispensed with or its
+forum shopping underscores its mandatory nature in that the certification cannot be altogether dispensed with or its
 
 requirements completely disregarded. 32
 
@@ -521,9 +464,7 @@ compliance and substantial compliance with procedural
 
 requirements:
 
-A distinction must be made between non -compliance with the
-
-requirement on or submission of defective verification, and
+A distinction must be made between non -compliance with the requirement on or submission of defective verification, and
 
 non -compliance with the requirement on or submission of
 
@@ -565,13 +506,9 @@ Nevertheless , the Commission proceeds to explain the substantial
 
 aspect of the case for the education and guidance of the public.
 
-> 32 P v. Coca -Cola Philippines, Inc., G.R. No. 157966 (2008) .
 
-NPC 21 -031
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
-II.  FRL had lawful basis in processing JCB ’s personal
+II.  FRL had lawfulbasis in processing JCB ’s personal
 
 information.
 
@@ -581,13 +518,11 @@ info rmation.
 
 FRL ’s affidavit narrate s the incidents involving JCB and his
 
-colleagues and contained the names of JCB and his co -teachers .33
+colleagues and contained the names of JCB and his co-teachers .33
 
 Personal information is defined under Section 3 (g) of the DPA :
 
-Section 3. Definition of Terms. – Whenever used in this Act, the
-
-following terms shall have the respective meanings hereafter set
+Section 3. Definition of Terms. – Whenever used in this Act, the following terms shall have the respective meanings hereafter set
 
 forth:
 
@@ -609,17 +544,13 @@ The names stated in the affidavit can reasonably and directly
 
 ascertain the identities of the individuals involved in the incidents.
 
-The names, therefore, are considered personal information, the
+The names, therefore, are considered personal information, the processing of which must be in accordance with the DPA.
 
-processing of which must be in accordance with the DPA.
+B.  The processing of personal information is lawful.
 
-B.  The processin g of personal information is lawful.
+Apart from the claim that FRL violated Sections 32 and 3 6 of the DPA, 35  JCB ’s Complaint -Affidavit did not contain a specific
 
-Apart from the claim that FRL violated Sections 32 and 3 6 of the
-
-DPA, 35  JCB ’s Complaint -Affidavit did not contain a specific
-
-allegation on the unlawful processing of his personal information.
+allegation on the unlawfulprocessing of his personal information.
 
 Despite this, the Commission takes into consideration his narration of
 
@@ -627,17 +558,13 @@ facts and proceeds to discuss the lawfulness of the processing of
 
 personal information.
 
-> 33 Complaint Affidavit, 26 January 2021, Annex C, in JCB v. FRL , NPC 21 -031 (NPC 2021).
-> 34 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government
+
+
 > and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy
 > Act of 2012], Republic Act No. 10173 § 3 (g) (2012).
-> 35 Complaint Affidavit, 26 January 2021, ¶43, in JCB v. FRL , NPC 21 -031 (NPC 2021).
 
-NPC 21 -031
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-FRL ’s processing of personal information is based on a lawful criteria
+FRL ’s processing of personal information is based on a lawfulcriteria
 
 under Section 12 (f) of the DPA. Section 12 (f) of the DPA provides:
 
@@ -645,15 +572,11 @@ Section 12. Criteria for Lawful Processing of Personal Information. –
 
 The processing of personal information shall be permitted only
 
-if not otherwise prohibited by law, and when at least one of the
-
-following conditions exists:
+if not otherwise prohibited by law, and when at least one of the following conditions exists:
 
 . . .
 
-(f)  The processing is necessary for the purposes of the
-
-legitimate interests pursued by the personal information
+(f)  The processing is necessary for the purposes of the legitimate interests pursued by the personal information
 
 controller or by a third party or parties to whom the data is
 
@@ -663,7 +586,7 @@ fundamental rights and freedoms of the data subject which
 
 require protection under the Philippine Constitution. 36
 
-The Commission previously ruled that the protection of lawful rights
+The Commission previously ruled that the protection of lawfulrights
 
 and interests under Section 13 (f) of the DPA is considered as
 
@@ -673,13 +596,13 @@ Although Section 13 (f) applies to sensitive personal
 
 information while the information involved in this case is just
 
-personal information, the protection of lawful rights and
+personal information, the protection of lawfulrights and
 
 interests under Section 13 (f) by the Respondent is considered as
 
 legitimate interest pursuant to Section 12 (f) of the DPA. This
 
-section provides that it is lawful to process personal
+section provides that it is lawfulto process personal
 
 information if it is necessary for the purposes of the legitimate
 
@@ -689,9 +612,7 @@ third party or parties to whom the data is disclosed, except
 
 where such interests are overridden by fundamental rights and
 
-freedoms of the data subject which require protection under the
-
-Philippine Constitution. 38
+freedoms of the data subject which require protection under the Philippine Constitution. 38
 
 Section 13 (f) of the DPA provides:
 
@@ -699,41 +620,31 @@ Section 13. Sensitive Personal Information and Privileged
 
 Information. – The processing of sensitive personal information
 
-> 36 Data Privacy Act of 2012, § 12 (f) .
-> 37 CID Case No. 17 -K003 , 19 November 2019, (NPC 2019) (unreported).
-> 38 BGM v. IPP, NPC 19 -653, 17 December 2020, available at https://www.privacy.gov.ph/wp -
+
+
+
 > content/uploads/2021/02/NPC -19 -653 -BGM -vs -IPP -Decision -FINAL -Pseudonymized -21Dec2020.pdf (last accessed 17
 > March 2022).
 
-NPC 21 -031
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
-and privileged information shall be prohibited, except in the
-
-following cases:
+and privileged information shall be prohibited, except in the following cases:
 
 . . .
 
 (f)  The processing concerns such personal information as is
 
-necessary for the protection of lawful rights and interests
+necessary for the protection of lawfulrights and interests
 
-of natural or legal persons in court proceedings, or the
-
-establishment, exercise or defense of legal claims, or when
+of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when
 
 provided to government or public authority. 39
 
-The phrase “for the protection of lawful rights and interests of
+The phrase “for the protection of lawfulrights and interests of
 
 natural or legal persons in court proceedings” cannot be interpreted
 
-to relate only to the person asserting the lawful basis of the
+to relate only to the person asserting the lawfulbasis of the processing of personal information. It also contemplate s situation s
 
-processing of personal information. It also contemplate s situation s
-
-where those persons whose lawful rights and interests are protected
+where those persons whose lawfulrights and interests are protected
 
 in court proceedings may not be the same individuals who processed
 
@@ -745,23 +656,15 @@ may be interpreted to refer to the legal claims of persons other than
 
 those who processed the personal information.
 
-In this case, FRL asserted in her Comment that the purpose of the
+In this case, FRL asserted in her Comment that the purpose of the affidavit was to support the administrative complaint filed by MSG
 
-affidavit was to support the administrative complaint filed by MSG
-
-against JCB .40  She argued that the narration of the incidents in the
-
-affidavit would help “in establishing the facts surrounding the
-
-undesirability of JCB to teach in DepEd.” 41  Given that Section 13 (f)
+against JCB .40  She argued that the narration of the incidents in the affidavit would help “in establishing the facts surrounding the undesirability of JCB to teach in DepEd.” 41  Given that Section 13 (f)
 
 may refer to the legal claims of persons other than those who
 
-processed the personal information, the act of FRL in issuing the
+processed the personal information, the act of FRL in issuing the affidavit to support MSG ’s legal claim filed before the DepEd can,
 
-affidavit to support MSG ’s legal claim filed before the DepEd can,
-
-therefore, be considered as lawful processing.
+therefore, be considered as lawfulprocessing.
 
 III.  FRL did not violate Section 31 of the DPA (Malicious
 
@@ -771,13 +674,9 @@ Section 31 of the DPA provides that a PIC or a PIP may be held liable
 
 for Malicious Disclosure if he discloses unwarranted or false personal
 
-> 39 Data Privacy Act of 2012, § 13 (f) .
-> 40 Comment, 03 November 2021, at 7,in JCB v. FRL , NPC 21 -031 (NPC 2021).
-> 41 Id. at 6.
 
-NPC 21 -031
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
 
 information or sensitive personal information with malice or in bad
 
@@ -801,9 +700,7 @@ information;
 
 information. 43
 
-In this case, FRL disclosed personal information , particularly the
-
-name s of JCB and his co -teachers , when she narrated the incidents
+In this case, FRL disclosed personal information , particularly the name s of JCB and his co-teachers , when she narrated the incidents
 
 involving him in her affidavit .
 
@@ -817,7 +714,7 @@ the incidents that were already amicably settled. 45  Further, he
 
 attempted to demonstrate the existence of malice or bad faith by
 
-claim ing that the information disclosed were confidential and were
+claiming that the information disclosed were confidential and were
 
 obtained by FRL in her official position. 46  He, however, failed to
 
@@ -837,16 +734,12 @@ administrative or quasi -judicial bodies, a fact may be deemed
 
 established if it is supported by substantial evidence, or that
 
-> 42 Data Privacy Act of 201 2, § 31 .
-> 43 NPC 21 -015, 03 February 2022, (NPC 2022) (unreported).
-> 44 Cruz v. Intermediate Appellate Court, G.R. No. 66327 (1984).
-> 45 Complainant’s Memorandum, 12 November 2021, at 15 ,in JCB v. FRL , NPC 21 -031 (NPC 2021 ).
-> 46 Id. at 16.
-> 47 Tacis v. Shields Security Services, Inc. , G.R. No. 234575 (2021).
 
-NPC 21 -031
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
+
+
+
+
 
 amount of relevant evidence which a reasonable mind might
 
@@ -904,32 +797,24 @@ capacity as a guidance counselor.
 
 Considering the foregoing , the information relating to the incidents
 
-were , therefore, not privileged communication.
+were, therefore, not privileged communication.
 
-> 48 2019 AMENDMENTS TO THE 1989 REVISED RULES ON EVIDENCE ,rule 133, § 6.
-> 49 Complainant’s Memorandum, 12 November 2021, at 16, in JCB v. FRL , NPC 21 -031 (NPC 2021).
-> 50 AMENDMENTS TO THE 1989 REVISED RULES ON EVIDENCE ,rule 130, §24 (e) .
-> 51 Complainant’s Memorandum, 12 November 2021, at 16, in JCB v. FRL , NPC 21 -031 (NPC 2021).
 
-NPC 21 -031
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
+
 
 The last element of Malicious Disclosure is also lacking in this case
 
 since the disclosure does not relate to unwarranted nor false
 
-information. Here, the personal information disclosed were the
-
-names of JCB and his co -teachers. The inclusion of the names are
+information. Here, the personal information disclosed were the names of JCB and his co-teachers. The inclusion of the names are
 
 justified to identify the individuals involved in the incidents and to
 
 help establish the legal claim against JCB . Lastly, the truthfulness of
 
-the names were not refuted by JCB and were bolstered by the
-
-affidavits of the other persons involved .
+the names were not refuted by JCB and were bolstered by the affidavits of the other persons involved .
 
 Absent the third and fourth requisite, FRL cannot be deemed to have
 
@@ -949,11 +834,7 @@ information controller or personal information processor or
 
 any of its officials, employees or agents, who discloses to a
 
-third party personal information not covered by the
-
-immediately preceding section without the consent of the
-
-data subject, shall be subject to imprisonment ranging from one
+third party personal information not covered by the immediately preceding section without the consent of the data subject, shall be subject to imprisonment ranging from one
 
 (1) year to three (3) years and a fine of not less than Five
 
@@ -979,14 +860,8 @@ construction:
 
 Where a literal meaning would lead to absurdity, contradiction,
 
-or injustice, or otherwise defeat the clear purpose of the
+or injustice, or otherwise defeat the clear purpose of the 
 
-> 52 Data Privacy Act of 201 2, § 3 2.
-> 53 Id .
-
-NPC 21 -031
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 lawmakers, the spirit and reason of the statute may be
 
@@ -1002,11 +877,7 @@ be read in relation to the whole law. It is the cardinal rule in
 
 statutory construction that a statute's clauses and phrases must
 
-not be taken as detached and isolated expressions, but the
-
-whole and every part thereof must be considered in fixing the
-
-meaning of any of its parts in order to produce a harmonious
+not be taken as detached and isolated expressions, but the whole and every part thereof must be considered in fixing the meaning of any of its parts in order to produce a harmonious
 
 whole. Every part of the statute must be interpreted with
 
@@ -1020,23 +891,19 @@ Thus, Section 32 of the DPA should be read and interpreted as
 
 follows: Unauthorized Disclosure is committed when the perpetrator
 
-processes personal information without any of the lawful basis for
+processes personal information without any of the lawfulbasis for
 
 processing under Sections 12 and 13. 56  This reading is more in line
 
 with the principle that “when two or more interpretations are
 
-possible, that interpretation which is favorable or beneficial to the
-
-accused must be adopted.” 57  This interpretation benefits the accused
+possible, that interpretation which is favorable or beneficial to the accused must be adopted.” 57  This interpretation benefits the accused
 
 since it narrows the extent to which the disclosure of personal
 
 information may be considered as Unauthorized Disclosure. 58
 
-To determine whether there is Unauthorized Disclosur e, the
-
-following requisites must concur :
+To determine whether there is Unauthorized Disclosure, the following requisites must concur :
 
 1.  The perpetrator is a personal information controller or personal
 
@@ -1052,18 +919,14 @@ information;
 
 information to a third party;
 
-> 54 Metropolitan Bank and Trust Co. v. Liberty Corrugated Boxes Manufacturing Corp., G.R. No.184317 (2017).
-> 55 Fort Bonifacio Development Corp. v. Commissioner of Internal Revenue, G.R. Nos. 158885 & 170680 (Resolution) (2009).
-> 56 See NPC 1 8-010, 17 December 2020 (NPC 2020) (unreported); NPC 19 -134, 10 December 2021 (NPC 2021) (unreported) ;
+
+
+
 > NPC 21 -010, 03 February 2022 (NPC 2022) (unreported) .
-> 57 People v. Liban, G.R. Nos. 136247 & 138330 (2000).
-> 58 NPC 19 -134, 10 December 2021 (NPC 2021) (unreported).
 
-NPC 21 -031
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
-5.  The disclosure was without any of the lawful basis for
+5.  The disclosure was without any of the lawfulbasis for
 
 processing, consent or otherwise, under Sections 12 and 13 of
 
@@ -1081,29 +944,25 @@ she narrated the incidents involving JCB in her affidavit. As
 
 previously discussed, t he disclosure does not relate to unwarranted
 
-or false information . Further, t he disclosure was based on a lawful
-
-criteria under Section 12 (f) in relation to Section 13 (f) of the DPA.
+or false information . Further, t he disclosure was based on a lawfulcriteria under Section 12 (f) in relation to Section 13 (f) of the DPA.
 
 FRL ’s processing of personal information is a legitimate interest to
 
 establish the legal claim s against JCB . Considering that the requisites
 
-are lacking , FRL can not , therefore, be held liable under Section 32 of
+are lacking , FRL cannot , therefore, be held liable under Section 32 of
 
 the DPA on Unauthorized Disclosure.
 
-WHEREFORE, premises considered, th e Commission resolves that
+**WHEREFORE**, premises considered, the Commission resolves that
 
-the case filed by JCB against FRL is hereby DISMISSED .
+the case filed by JCB against FRL is hereby **DISMISSED** .
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines .
 
-03 March 202 2.
-
-Sgd.
+03 March 2022.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -1111,15 +970,11 @@ Deputy Privacy Commissioner
 
 I CONCUR:
 
-Sgd.
-
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
-> 59 NPC 21 -010, 03 February 2022 (NPC 2022) (unreported).
 
-NPC 21 -031
 
 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
@@ -1138,7 +993,65 @@ IAL
 Counsel of Respondent
 
 COMPLAINTS AND INVESTIGATION DIVISION
-
 ENFORCEMENT DIVISION
-
 GENERAL RECORDS UNIT
+
+[^1]: Complaint s-Assisted Form, 02 February 2021, in JCB v. FRL , NPC 21 -031 (NPC 2021 ).
+[^2]: Complaint Affidavit, 26 January 2021, ¶1, in JCB v. FRL , NPC 21 -031 (NPC 2021).
+[^3]: Id. ¶3.
+[^4]: Id. ¶4.
+[^5]: Id. ¶5.
+[^6]: Id. ¶25 .
+[^7]: Id. ¶43 .
+[^8]: Order, 02 September 2021, at 1, in JCB v. FRL , NPC 21 -031 (NPC 2021).
+[^9]: Id .
+[^10]: Order, 30 September 2021, in JCB v. FRL , NPC 21 -031 (NPC 2021).
+[^11]: Order, 28 October 2021, in JCB v. FRL , NPC 21 -031 (NPC 2021).
+[^12]: Comment, 03 November 2021, at 1,in JCB v. FRL , NPC 21 -031 (NPC 2021 ).
+[^13]: Id. at 3-4.
+[^14]: Id. at 4.
+[^15]: Id. at 4 -6.
+[^16]: Id. at 6 .
+[^17]: Id. at 7 .
+[^18]: Comment, 03 November 2021, at 7, in JCB v. FRL , NPC 21 -031 (NPC 2021 ).
+[^19]: Id.
+[^20]: Id.
+[^21]: See Complaint Affidavit, 26 January 2021, ¶¶ 33, 3 6-38, 40, in JCB v. FRL , NPC 21 -031 (NPC 2021) ; Complainant’s
+[^22]: Comment, 03 November 2021, at 3,in JCB v. FRL , NPC 21 -031 (NPC 2021).
+[^23]: Id. at 4-5.
+[^24]: Id. at 6.
+[^25]: National Privacy Commission, 2021 Rules o fProcedure of the National Privacy Commission, [NPC 2021 Rules of
+[^26]: Complaints -Assisted Form, 02 February 2021, in JCB v. FRL , NPC 21 -031 (NPC 2021 ).
+[^27]: NPC 2021 Rules of Procedure ,rule II, §3.
+[^28]: Id. rule II, § 3 (1) .
+[^29]: 2019 AMENDMENTS TO THE 1997 RULES OF CIVIL PROCEDURE , rule 7, § 4.
+[^30]: DP v. Florentino International, Inc., G.R. No. 186967 (2017) .
+[^31]: NPC 2021 Rules of Procedure ,rule II, § 3 (10) .
+[^32]: P v. Coca -Cola Philippines, Inc., G.R. No. 157966 (2008) .
+[^33]: Complaint Affidavit, 26 January 2021, Annex C, in JCB v. FRL , NPC 21 -031 (NPC 2021).
+[^34]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government
+[^35]: Complaint Affidavit, 26 January 2021, ¶43, in JCB v. FRL , NPC 21 -031 (NPC 2021).
+[^36]: Data Privacy Act of 2012, § 12 (f) .
+[^37]: CID Case No. 17 -K003 , 19 November 2019, (NPC 2019) (unreported).
+[^38]: BGM v. IPP, NPC 19 -653, 17 December 2020, available at https://www.privacy.gov.ph/wp -
+[^39]: Data Privacy Act of 2012, § 13 (f) .
+[^40]: Comment, 03 November 2021, at 7,in JCB v. FRL , NPC 21 -031 (NPC 2021).
+[^41]: Id. at 6.
+[^42]: Data Privacy Act of 201 2, § 31 .
+[^43]: NPC 21 -015, 03 February 2022, (NPC 2022) (unreported).
+[^44]: Cruz v. Intermediate Appellate Court, G.R. No. 66327 (1984).
+[^45]: Complainant’s Memorandum, 12 November 2021, at 15 ,in JCB v. FRL , NPC 21 -031 (NPC 2021 ).
+[^46]: Id. at 16.
+[^47]: Tacis v. Shields Security Services, Inc. , G.R. No. 234575 (2021).
+[^48]: 2019 AMENDMENTS TO THE 1989 REVISED RULES ON EVIDENCE ,rule 133, § 6.
+[^49]: Complainant’s Memorandum, 12 November 2021, at 16, in JCB v. FRL , NPC 21 -031 (NPC 2021).
+[^50]: AMENDMENTS TO THE 1989 REVISED RULES ON EVIDENCE ,rule 130, §24 (e) .
+[^51]: Complainant’s Memorandum, 12 November 2021, at 16, in JCB v. FRL , NPC 21 -031 (NPC 2021).
+[^52]: Data Privacy Act of 201 2, § 3 2.
+[^53]: Id .
+[^54]: Metropolitan Bank and Trust Co. v. Liberty Corrugated Boxes Manufacturing Corp., G.R. No.184317 (2017).
+[^55]: Fort Bonifacio Development Corp. v. Commissioner of Internal Revenue, G.R. Nos. 158885 & 170680 (Resolution) (2009).
+[^56]: See NPC 1 8-010, 17 December 2020 (NPC 2020) (unreported); NPC 19 -134, 10 December 2021 (NPC 2021) (unreported) ;
+[^57]: People v. Liban, G.R. Nos. 136247 & 138330 (2000).
+[^58]: NPC 19 -134, 10 December 2021 (NPC 2021) (unreported).
+[^59]: NPC 21 -010, 03 February 2022 (NPC 2022) (unreported).

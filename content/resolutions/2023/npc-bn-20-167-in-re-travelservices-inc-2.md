@@ -1,11 +1,17 @@
 ---
 title: "NPC BN 20-167: In re: Travelservices, Inc."
-description: "NPC BN 20-167: In re: Travelservices, Inc."
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC BN 20-167"
+  - "npc bn 20-167"
+  - "In re: Travelservices, Inc."
+  - "in re: travelservices, inc."
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-11-13"
 draft: false
 ---
 
@@ -584,7 +590,6 @@ City of Pasay, Philippines.
 
 13 Novem ber 2023.
 
-Sgd.
 
 JOHN HENRY D. NAGA
 
@@ -592,13 +597,11 @@ Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
-Sgd.
 
 NERISSA N. DE JESUS
 

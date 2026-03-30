@@ -1,13 +1,22 @@
 ---
-title: "NPC 21-086: RTV v. East West Banking Corporation"
-description: "NPC 21-086: RTV v. East West Banking Corporation"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: 'NPC 21-086: RTV v. East West Banking Corporation'
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC 21-086: RTV v. East West Banking Corporation'
+aliases:
+- NPC 21-086
+- npc 21-086
+- RTV v. East West Banking Corporation
+- rtv v. east west banking corporation
+date: '2022-07-28'
 ---
+
+
+
 
 ## Source
 - Reference: NPC 21-086
@@ -21,23 +30,21 @@ draft: false
 - Nominal Damages
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-RTB ,
+RTB,
 
 Complainant,
 
--versus -
+-versus-
 
 EAST WEST BANKING
 
-CORPORATION ,
+CORPORATION,
 
 Respondent.
 
 x----------------------------------------------------x
 
-AGUIRRE , D. P.C.;
+AGUIRRE, D. P.C.;
 
 Before the Commission is the Compliance and Manifestation (Re:
 
@@ -49,7 +56,7 @@ Corporation (EWBC) in relation to the payment of nominal damages
 
 to RTB .1
 
-Facts
+### Facts
 
 On 03 February 2022, the Commission issued a Decision dismissing
 
@@ -61,7 +68,7 @@ lawful criterion under Section 12 (b) of the Data Privacy Act of 2012
 
 (DPA) .2 As a consequence of EWBC’s carelessness in the processing
 
-of RTB ’s personal information , however, the Commission awarded
+of RTB ’s personal information, however, the Commission awarded
 
 nominal damages to RTB .3 In this case, EWBC did not comply with
 
@@ -72,39 +79,9 @@ nominal damages to RTB .3 In this case, EWBC did not comply with
 > August 2022).
 > 3Id .
 
-NPC 21 -086
-
-For: Violation of the
-
-Data Privacy Act of
-
-2012 NPC 21 -086
-
-RTB v. East West Banking Corporation
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-its obligation as a Personal Information Controller under Section 11
-
-(c) of the DPA .4 The dispositive portion of the Decision states :
-
-WHEREFORE , premises considered, the Commission resolves
-
-to DISMISS the Complaint of RTB against East West Bank
-
-Corporation (EWBC). The Commission AWARDS nominal
-
-damages, in the amount of Fifteen Thousand Pesos (P15,000.00),
-
-to RTB for EWBC’s failure to fulfill its obligation as a Personal
-
-Information Controller under Section 11 (c) of the Data Privacy
-
-Act of 2012. EWBC is ORDERED to submit its compliance
-
 within fifteen (15) days from receipt of this Decision.
 
-SO ORDERED. 5
+**SO ORDERED.** 5
 
 EWBC submitted its Compliance and Manifestation dated 01 April
 
@@ -153,11 +130,7 @@ email and submitted photos of the Manager’s Check dated 01 April
 > 11 Re: Compliance with the Decision dated 03 February 2022 in NPC 21 -086 entitled “ RTB vs. East West Banking
 > Corporation” , 25 April 2022, in RTB v. East West Banking Corporation, NPC 21 -086 (NPC 2022).
 
-NPC 21 -086
-
 RTB v. East West Banking Corporation
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 acknowledgement receipt with his signature. 12 In his email, RTB also
 
@@ -179,7 +152,7 @@ compliance, it submitted a copy of the acknowledgement receipt that
 
 RTB signed .16
 
-Discussion
+### Discussion
 
 The Commission resolves to close the case .
 
@@ -207,23 +180,19 @@ NPC Circular 2021 -01 (2021 NPC Rules of Procedure).
 
 WHEREFORE, premises considered, Commission resolves that NPC
 
-21 -086 – RTB v. East West Banking Corporation is hereby CLOSED .
+21 -086 – RTB v. East West Banking Corporation is hereby **CLOSED** .
 
-> 12 Email from RTB ,to Enforcement Division, National Privacy Commission (25 April 2022) .
+> 12 Email from RTB,to Enforcement Division, National Privacy Commission (25 April 2022) .
 > 13 Id .
 > 14 Compliance and Manifestation (Re: Letter/Order dated 25 April 2022 and Decision dated 03 February 2022, 02 May
 > 2022, in RTB v. East West Banking Corporation, NPC 21 -086 (NPC 2022).
 > 15 Id. at 1 .
 > 16 Id. Annex A .
 > 17 See Id.
-> 18 Email from RTB ,to Enforcement Division, National Privacy Commission (25 April 2022) .
+> 18 Email from RTB,to Enforcement Division, National Privacy Commission (25 April 2022) .
 > 19 Id .
 
-NPC 21 -086
-
 RTB v. East West Banking Corporation
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Further, East West Banking Corporation’s Compliance and
 
@@ -231,13 +200,11 @@ Manifestation (Re: Letter/Order dated 25 April 2022 and Decision
 
 dated 03 February 2022) dated 02 May 2022 is hereby NOTED .
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines .
 
 28 July 2022 .
-
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -245,13 +212,9 @@ Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
-
-Sgd.
 
 DUG CHRISTOPER B. MAH
 

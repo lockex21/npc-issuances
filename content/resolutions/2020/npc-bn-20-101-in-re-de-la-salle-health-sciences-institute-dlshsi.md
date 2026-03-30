@@ -1,13 +1,22 @@
 ---
-title: "NPC BN 20-101: In re: De La Salle Health Sciences Institute (DLSHSI)"
-description: "NPC BN 20-101: In re: De La Salle Health Sciences Institute (DLSHSI)"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC BN 20-101
+- npc bn 20-101
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC BN 20-101
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC BN 20-101: In re: De La Salle Health Sciences Institute (DLSHSI)'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC BN 20-101
@@ -23,13 +32,9 @@ draft: false
 ## Resolution Text
 Republic of the Philipp ines
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 IN RE: DE LA SALLE HEALTH
 
 SCIENCES INSTITUTE
-
-NPC BN 20 -101
 
 x----------------------------------------------x
 
@@ -41,8 +46,7 @@ requirement of notifying the affected data subjects filed by De La Salle
 
 Health Sciences Institute (DLSHSI).
 
-Facts
-
+### Facts
 On 10 June 2020, this Commission received a breach notification from
 
 the DLSHSI on an incident involving the vulnerability of the search
@@ -71,20 +75,15 @@ weakness and this weakness will be included among the criteria in all
 
 future software acquisitions.
 
-Discussion
-
-> 1NPC BN 20 -101 In re DLSHSI Initial Report dated 10 June 2020 at pp. 1.
+### Discussion
+> 1NPC BN 20101 In re DLSHSI Initial Report dated 10 June 2020 at pp. 1.
 > 2Id at pp. 1.
-
-NPC BN 20 -101
 
 In Re: De La Salle
 
 Health Sciences Institute
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-Section 3 of the National Privacy Commission Circular 16 -03 (Circular)
+Section 3 of the National Privacy Commission Circular 1603 (Circular)
 
 define s security incident and data breach in this wise :
 
@@ -120,7 +119,7 @@ been put in place;
 
 Personal data breach occurs when one of the circumstances provided
 
-by Section 3 (F) of NPC Circular 16 -03 are present.
+by Section 3 (F) of NPC Circular 1603 are present.
 
 It comes in three forms: (1) when personal data is accessed by or
 
@@ -144,18 +143,14 @@ In the case at hand , the system vulnerability in the SA that was
 
 discovered by DLSHSI in its routine inspection is not a data breach,
 
-> 3Item 3, Section 3 (F) , NPC Circular 16 -03
+> 3Item 3, Section 3 (F) , NPC Circular 1603
 > 4Item 1,id.
 > 5Item 2 , id.
 > 6Section 3 (J), id.
 
-NPC BN 20 -101
-
 In Re: De La Salle
 
 Health Sciences Institute
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 but rather a security incident. There was no evidence on record that
 
@@ -195,7 +190,7 @@ unauthorized use of the information arises.
 
 WHEREFORE, all premises considered, the request for exemption is
 
-hereby GRANTED . The matter of BN 20 -101: In Re De La Salle Health
+hereby GRANTED . The matter of BN 20101: In Re De La Salle Health
 
 Sciences Institute is hereby considered CLOSED.
 
@@ -205,19 +200,15 @@ Pasay City , Philippines ;
 
 23 July 2020 .
 
-(Sgd.)
-
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
 
-WE CONCUR: NPC BN 20 -101
+WE CONCUR: NPC BN 20101
 
 In Re: De La Salle
 
 Health Sciences Institute
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 (Sgd.) (Sgd.)
 

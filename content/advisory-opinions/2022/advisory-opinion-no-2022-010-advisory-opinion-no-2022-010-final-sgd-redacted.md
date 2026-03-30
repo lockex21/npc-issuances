@@ -1,20 +1,35 @@
 ---
-title: "Advisory-Opinion-No.-2022-010-Final-sgd_Redacted"
-description: "Authority (foreign or domestic) or Data Recipients (whether in or outside the Philippines) and for the purposes as set out in [the Seller’s] Data Statement in force provided by you to us from time to time or for compliance with any law, regulation,..."
+title: "NPC Advisory Opinion No. 2022-010 — Request for Opinion on Privacy Matters Concerning Transfer of Assets/Liabilities"
+description: "Clarifies whether personal information of non-responsive depositors may be validly transferred to the Buyer in a share and business transfer agreement based on prior express consent and implied reaffirmation."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2022"
+  - issuance
+  - type/advisory-opinion
+  - year/2022
 draft: false
 ---
 
 ## Source
 - Reference: Advisory Opinion No. 2022-010
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/08/Advisory-Opinion-No.-2022-010-Final-sgd_Redacted.pdf
+- Issue date: 07/14/2022
+- Tags: consent, transfer of assets, data processing, non-responsive depositors
 - OCR used during extraction: no
 
 ## Text
-Authority (foreign or domestic) or Data Recipients (whether in or outside the
+
+**14 July 2022**
+
+Re: REQUEST FOR OPINION ON PRIVACY MATTERS CONCERNING TRANSFER OF ASSETS/LIABILITIES
+
+Dear [Redacted],
+
+We respond to your request for an Advisory Opinion on whether Citibank, N.A., Philippine Branch can validly transfer the personal information of non-responsive depositors to Union Bank of the Philippines pursuant to the Share and Business Transfer Agreement ("SBTA").
+
+We understand that, Union Bank of the Philippines (the "Buyer") and Citibank, N.A., Philippine Branch (the "Seller"), together with other affiliates of the Seller, entered into a Share and Business Transfer Agreement ("SBTA") for the proposed acquisition by the Buyer of certain assets and liabilities of the Seller’s consumer business in the Philippines as well as other assets (the "Transaction"). The Transaction includes the Seller’s local credit card, unsecured lending, and deposit businesses.
+
+We understand further, that the processing, profiling, and sharing of data and information of the Seller’s deposit customers are governed by the terms and conditions set out in its "CONSENT ON PROCESSING, PROFILING AND SHARING OF DATA AND INFORMATION" (the 2017 Data Privacy Terms) the pertinent portions of which, states:
+
+PAR. (1): We agree that our application, enrollment, purchase, maintenance, access or continued use of any of [the Seller’s] products and services shall be deemed as our acceptance and agreement to be bound by the provisions of these terms. We hereby agree that all Personal Data (as defined under the Data Privacy Law of 2012 and its implementing rules and regulations), customer data and account or transaction information or records (collectively, the "Information") relating to us with you from time to time may be processed, profiled or shared to, by and between [the Seller] and any of its affiliates and subsidiaries (collectively, [the "Seller"] or each of the
            Philippines) and for the purposes as set out in [the Seller’s] Data Statement in force
            provided by you to us from time to time or for compliance with any law, regulation,
            government requirement, treaty, agreement or policy or as required by or for the
@@ -26,14 +41,14 @@ Authority (foreign or domestic) or Data Recipients (whether in or outside the
 
 Paragraphs 5 and 6 of the customer consent section of the 2017 Data Privacy Terms also states:
 
-           PAR. (5) We consent, in connection with any proposed novation, assignment, transfer
+   PAR. (5) We consent, in connection with any proposed novation, assignment, transfer
            or sale of any of your rights and/or obligations with respect to or in connection with
            our account and any products, facilities and services available in connection with the
            account, to any novatee, assignee, transferee, purchaser or any other person
            participating or otherwise involved in such transaction, to the disclosure, to any such
            person, by you, of any and all Information which may be required in relation thereto.
 
-           PAR. (6) We understand and consent that the processing, profiling and sharing apply
+   PAR. (6) We understand and consent that the processing, profiling and sharing apply
            during the prospecting and application stages, as well as for the duration of and even
            after the rejection, termination, closure or cancellation of the account or relationship
            or Services (collectively “Termination”) for a period of at least ten (10) years from
@@ -53,9 +68,9 @@ Data Privacy Terms. The remaining 5,425 deposit customers have not consented to 
 2017 Data Privacy Terms but are covered by the “Legacy T&Cs. The relevant section of
 the Legacy T&Cs on sharing of customer information reads as follows:
 
-                         TRANSFER AND PROCESSING OF INFORMATION
+   TRANSFER AND PROCESSING OF INFORMATION
 
-           As required under Republic Act 10173 and other applicable laws and
+   As required under Republic Act 10173 and other applicable laws and
            regulations, I authorize and give consent for the following: …
            • For the Bank to transfer, disclose, use and process my Personal and Account
            Information (including information that the Bank obtains from third parties,
@@ -70,7 +85,7 @@ the Legacy T&Cs on sharing of customer information reads as follows:
            purposes and reporting, use in employment checking (for financial
            institutions), and compliance with laws, regulations and policies or anti-money
 
-            laundering, sanctions and/or the US Foreign Account Tax Compliance Act
+   laundering, sanctions and/or the US Foreign Account Tax Compliance Act
             (FATCA), including withholding for purposes of the FATCA. In addition to the
             above, the Bank or any of the Receiving and Disclosing Parties may disclose
             any Information as may be required by any Government Requirement, and for
@@ -96,12 +111,12 @@ You also informed us, that the Seller sent another letter (“Second Notice”) 
 who did not reply to the First Notice. In that letter, these depositors were advised that in
 the absence of any objection from the regulators:
 
-             (a) the depositors’ failure to respond or expressly object to the transfer and/or
+   (a) the depositors’ failure to respond or expressly object to the transfer and/or
             continued availment of the Seller’s products and services would be deemed
             their consent to the transfer of their accounts to the Buyer and a reaffirmation
             of their previous express consent to the 2017 Data Privacy Terms, and
 
-             (b) accordingly, the Seller will transfer their accounts and personal information
+   (b) accordingly, the Seller will transfer their accounts and personal information
             to the Buyer upon the closing of the Transaction.
 
 You further disclosed that to date, some 46,148 depositors, representing 74.4% of the
@@ -113,7 +128,7 @@ Notices to Depositors (the “Non-Responsive Depositors”).
 
 These Non-Responsive Depositors may be further segregated as follows:
 
-              Classification                         Number of                                Description
+   Classification                         Number of                                Description
                                                      Depositors
        1.   Non-Responsive                             11,483                   Of the 15,838 Non-Responsive
             Depositors who have                                                 Depositors,     11,483    have
@@ -122,7 +137,7 @@ These Non-Responsive Depositors may be further segregated as follows:
                                                                                 These     Non-       Responsive
                                                                                 Depositors have been sent, on
 
-                                                                               average, eleven (11) Notices to
+   average, eleven (11) Notices to
                                                                                Depositors or reminders through
                                                                                one or more of the following
                                                                                channels: courier, postage mail,
@@ -154,7 +169,7 @@ These Non-Responsive Depositors may be further segregated as follows:
                                                                                consent to the 2017 Data Privacy
                                                                                Terms.
 
-       3.   Non-Responsive                               3,191                 Of the 4,355 Non-Responsive
+   3.   Non-Responsive                               3,191                 Of the 4,355 Non-Responsive
             Depositors whose                                                   Depositors, 3,191 depositors
             accounts are governed                                              continue to be governed by the
             by the Legacy T&Cs.                                                Legacy T&Cs. Of this number,
@@ -164,22 +179,20 @@ These Non-Responsive Depositors may be further segregated as follows:
                                                                                who consented to the 2017 Data
                                                                                Privacy Terms.
 
-
-
 Through the clarification letter you sent to us on 29 June 2022, we understand that the relevant
 sections of the T&Cs for the Seller’s Deposit and Cards/Loans products, as well as the 2017
 Data Privacy Terms states:
 
 You thus seek clarification on the following:
 
-    1. Whether the Seller may validly transfer to the Buyer the personal information of
+   1. Whether the Seller may validly transfer to the Buyer the personal information of
        the 11,483 Non-Responsive Depositors who have adhered to the 2017 Data Privacy
        Terms upon the completion of the Transaction, on the basis of their prior express
        consent to the 2017 Data Privacy Terms and the implied reaffirmation of such
        consent by their failure to object and continued availment of the Seller’s products
        and services notwithstanding several Notices to Depositors/reminders sent?
 
-    2. Whether upon the completion of the Transaction, the Seller may validly transfer to
+   2. Whether upon the completion of the Transaction, the Seller may validly transfer to
        the Buyer the personal information of the 1,164 Non-Responsive Depositors whose
        “and/or” accounts were originally subject to Legacy T&Cs, but where a co-
        accountholder has consented: (a) to the transfer of the account holders’ personal
@@ -192,7 +205,7 @@ You thus seek clarification on the following:
        any co-account holder the authority to update or reconfirm the data privacy
        consents of the accountholders?
 
-    3. Whether upon the completion of the Transaction, the Seller may validly transfer to
+   3. Whether upon the completion of the Transaction, the Seller may validly transfer to
        the Buyer the personal information of the 3,191 Non-Responsive Depositors who
        have given their prior express consent (as set out in the Legacy T&Cs) to transfer
        their accounts and personal information to any other financial institution for any
@@ -204,17 +217,16 @@ You thus seek clarification on the following:
        consented to the 2017 Data Privacy Terms, the grounds set out in paragraphs 18
        and 19?
 
-    4. Whether the seller may transfer to the buyer the personal information of its Non-
+   4. Whether the seller may transfer to the buyer the personal information of its Non-
        Responsive Depositors with bounced notifications (wherein the seller could not
        confirm receipt of communications)?
 
-    5. Whether the seller may transfer to the buyer the personal information of its
+   5. Whether the seller may transfer to the buyer the personal information of its
        depositors with closed card/loan accounts?
 
- The Seller may validly transfer to the Buyer the
- personal information of the 11,483 Non-Responsive
- Depositors who have adhered to the 2017 data
- privacy terms
+### Discussion
+
+#### The Seller May Validly Transfer to the Buyer the Personal Information of the 11,483 Non-Responsive Depositors Who Have Adhered to the 2017 Data Privacy Terms
 
 For processing personal and sensitive personal information, this may be done pursuant
 to the applicable provisions of Section 12 and 13 of the DPA, to wit:
@@ -223,67 +235,37 @@ SECTION 12. Criteria for Lawful Processing of Personal Information. — The proc
 of personal information shall be permitted only if not otherwise prohibited by law, and
 when at least one of the following conditions exists: xxx xxx xxx
 
-             (a) The data subject has given his or her consent;
+   (a) The data subject has given his or her consent;
              (b) The processing of personal information is necessary and is related to the
              fulfillment of a contract with the data subject or in order to take steps at the
              request of the data subject prior to entering into a contract;
-
 
 SECTION 13. Sensitive Personal Information and Privileged Information. — The
 processing of sensitive personal information and privileged information shall be
 prohibited, except in the following cases: xxx xxx xxx
 
+   (a) The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing;
+             (b) The processing of the same is provided for by existing laws and regulations: Provided, that such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: Provided, further, That the consent of the data subjects are not required by law or regulation permitting the processing of the sensitive personal information or the privileged information; xxx xxx xxx.”
 
-             (a) The data subject has given his or her consent, specific to the purpose
-             prior to the processing, or in the case of privileged information, all
-             parties to the exchange have given their consent prior to processing;
-             (b) The processing of the same is provided for by existing laws and
-             regulations: Provided, that such regulatory enactments guarantee the
-             protection of the sensitive personal information and the privileged
-             information: Provided, further, That the consent of the data subjects are
-             not required by law or regulation permitting the processing of the
-             sensitive personal information or the privileged information; xxx xxx
-             xxx.”
+From the foregoing, it is worthy to note that lawful processing is not always anchored or based on the presence of consent as there are other criteria which may be more appropriate and may be invoked by the personal information controller as contemplated above.
 
-From the foregoing, it is worthy to note that lawful processing is not always anchored or
-based on the presence of consent as there are other criteria which may be more
-appropriate and may be invoked by the personal information controller as contemplated
-above.
+Under Section 3(b) of the DPA, consent is defined as any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so. From the definition provided above, it is clear that consent must be evidenced by written, electronic, or recorded means.[^2]
 
-Under Section 3(b) of the DPA, consent is defined as any freely given, specific, informed
-indication of will, whereby the data subject agrees to the collection and processing of
-personal information about and/or relating to him or her. Consent shall be evidenced by
-written, electronic or recorded means. It may also be given on behalf of the data subject
-by an agent specifically authorized by the data subject to do so. From the definition
-provided above, it is clear that consent must be evidenced by written, electronic, or
-recorded means.2
-
-The NPC would like to reiterate that implied or inferred consent is not recognized in this
-jurisdiction. The entity, as personal information controller or personal information
-processor must never assume the data subject’s consent for any activity involving his or
-her personal information, most especially, sensitive personal information, unless
-
-
-
-2An Act Protecting Individual Personal Information in Information and Communications Systems in the
-Purposes [DATA PRIVACY ACTOF 2012], Republic Act No. 10173 (2012)., §3(b).
-
-circumstances permit the processing of personal or sensitive personal information
-without consent, pursuant to the DPA and the IRR.
+The NPC would like to reiterate that implied or inferred consent is not recognized in this jurisdiction. The entity, as personal information controller or personal information processor must never assume the data subject’s consent for any activity involving his or her personal information, most especially, sensitive personal information, unless circumstances permit the processing of personal or sensitive personal information without consent, pursuant to the DPA and the IRR.
 
 In this instance, we understand that as far as the 11,483 Non-Responsive Depositors is
 concerned, the basis of processing their personal data would be based on the 2017 Data
 Privacy Terms of the Seller, to which they have expressed their consent and hence they
 are bound thereto. The pertinent provisions of which states:
 
-           PAR. (5) We consent, in connection with any proposed novation, assignment, transfer
+   PAR. (5) We consent, in connection with any proposed novation, assignment, transfer
            or sale of any of your rights and/or obligations with respect to or in connection with
            our account and any products, facilities and services available in connection with the
            account, to any novatee, assignee, transferee, purchaser or any other person
            participating or otherwise involved in such transaction, to the disclosure, to any such
            person, by you, of any and all Information which may be required in relation thereto.
 
-           PAR. (6) We understand and consent that the processing, profiling and sharing apply
+   PAR. (6) We understand and consent that the processing, profiling and sharing apply
            during the prospecting and application stages, as well as for the duration of and even
            after the rejection, termination, closure or cancellation of the account or relationship
            or Services (collectively “Termination”) for a period of at least ten (10) years from
@@ -314,13 +296,7 @@ However, we wish to emphasize that a privacy notice is not equivalent to consent
 document is an embodiment of the observance of the data privacy principle of
 transparency and upholding the right to information of data subjects.
 
-You mentioned that the Seller has notified the affected data subjects of the proposed
-transfer of their personal information to the buyer by sending them eleven (11) notices as
-of present date. Considering the foregoing, we affirm that such notices comply with the
-
-3 NPC Advisory Opinion No. 2018-058.
-
-principle of transparency adhered to by the DPA which dictates that the data subject must
+You mentioned that the Seller has notified the affected data subjects of the proposed transfer of their personal information to the buyer by sending them eleven (11) notices as of present date. Considering the foregoing, we affirm that such notices comply with the principle of transparency adhered to by the DPA which dictates that the data subject must
 be aware of the nature, purpose, and extent of the processing of his or her personal data,
 including the risks and safeguards involved, the identity of personal information
 controller, his or her rights as a data subject, and how these can be exercised.
@@ -331,12 +307,7 @@ remains to be the same as that disclosed to the data subject through the privacy
 the processing is still covered by the consent given or the processing does not go beyond
 what the applicable law or regulation requires.
 
-
-
- The Seller may validly transfer to the Buyer the personal
- information of the 1,164 Non-Responsive Depositors whose
- “and/or” accounts were originally subject to Legacy T&Cs,
- but where a co-accountholder has consented
+#### The Seller May Validly Transfer to the Buyer the Personal Information of the 1,164 Non-Responsive Depositors Whose “And/Or” Accounts Were Originally Subject to Legacy T&Cs, But Where a Co-Accountholder Has Consented
 
 As to the 1,164 Non-Responsive Depositors whose “and/or” accounts were originally
 subject to Legacy T&Cs but where a co-accountholder has consented, we affirm that the
@@ -344,7 +315,7 @@ Seller may likewise validly transfer to the buyer their personal information, co
 that the processing of their personal information is based also on the Seller’s 2017 Data
 Privacy Terms which states:
 
-         “a co-account holder is specifically authorized to reconfirm and update their
+   “a co-account holder is specifically authorized to reconfirm and update their
          data privacy consent to the 2017 Data Privacy Terms and the consents under
          such terms.”
 
@@ -352,7 +323,7 @@ In addition, thereto, “The “Joint Account” section of the General Terms an
 Governing [the Seller’s] Philippines Account (“Deposit T&Cs”) applicable to the Seller’s
 bank accounts provides that:
 
-         “Your Joint Accounts authorize [the Seller] to accept, to pay, or to act upon
+   “Your Joint Accounts authorize [the Seller] to accept, to pay, or to act upon
          the order of any of the co-account holders or signatories indicated in the
          Signature Card, upon written or oral instruments from any one of you, and
          automatically vests in any of you to do whatever is desired with the funds
@@ -369,9 +340,7 @@ accountholder to the updating of their data privacy consent to the 2017 Data Pri
 Terms allows the seller to process and transfer the personal information of the 1,164 Non-
 Responsive Depositors in this case to the buyer.
 
-The Seller may validly transfer to the Buyer the personal
-information of the 3,191 Non-Responsive Depositors
-whose accounts are governed by the Legacy T&Cs
+#### The Seller May Validly Transfer to the Buyer the Personal Information of the 3,191 Non-Responsive Depositors Whose Accounts Are Governed by the Legacy T&Cs
 
 The remaining 3,191 Non-Responsive Depositors are those whose accounts are governed
 by the Legacy T&Cs. As mentioned in your letter, the Legacy T&C provide that these 3,191
@@ -380,7 +349,7 @@ institutions for any lawful purpose.
 
 The relevant portion of the Seller’s Legacy T&C states:
 
-         As required under Republic Act 10173 and other applicable laws and
+   As required under Republic Act 10173 and other applicable laws and
          regulations, I authorize and give consent for the following: …
          For the Bank to transfer, disclose, use and process my Personal and Account
          Information (including information that the Bank obtains from third parties,
@@ -393,7 +362,7 @@ The relevant portion of the Seller’s Legacy T&C states:
 
 In addition, there are existing provisions in the Seller’s T&C which provide:
 
-         xxx You agree that your application, enrollment, purchase, maintenance, access
+   xxx You agree that your application, enrollment, purchase, maintenance, access
          or continued use of any of Citi’s products and services shall be deemed as your
          acceptance and agreement to be bound by the provisions of these terms xxx
 
@@ -426,9 +395,7 @@ who continued availing of the Seller’s products and services, finds basis in t
 previously consented to by these data subjects taking into consideration the efforts
 exerted by the Seller to notify and remind them.
 
- The Seller may validly transfer to the Buyer the personal
- information of its Non-Responsive Depositors with
- bounced notifications
+#### The Seller May Validly Transfer to the Buyer the Personal Information of its Non-Responsive Depositors With Bounced Notifications
 
 In your clarificatory letter dated 29 June 2022, you stated that the Seller has non-
 responsive depositors with bounced notifications, whom it could not confirm their receipt
@@ -454,9 +421,7 @@ Seller to the Buyer, as the consent given by the data subjects herein applies to
 Transaction, as is clearly agreed upon by the data subjects in the 2017 Data Privacy terms
 and/or the Legacy terms on the disclosure of information.
 
- The Seller may validly transfer to the Buyer the personal
- information of its data subjects with closed card/ loans
- account
+#### The Seller May Validly Transfer to the Buyer the Personal Information of its Data Subjects With Closed Card/Loans Account
 
 There are also those data subjects who have closed card/loan accounts but who are
 likewise covered either by the Seller’s T&C’s enabling the Seller to assign its rights and
@@ -492,7 +457,7 @@ have consented to.
 As a general rule, as long as the scope, method, purpose, and extent of the processing as
 contained in the terms and conditions, privacy policies, and policies on the processing of
 information provided by the PIC to their data subjects at the time the consent was given
-remains the same, the consent given by the data remains to be valid as well.4
+remains the same, the consent given by the data remains to be valid as well.[^3]
 
 Please be advised that this Advisory Opinion was rendered based solely on your
 provided information. Any extraneous fact that may be subsequently furnished to us
@@ -503,13 +468,10 @@ Please be guided accordingly.
 
 Very truly yours,
 
-
-
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
-
-
-
-4 NPC Advisory Opinion No. 2018-058.
+[^1]: Tags: Consent
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012), § 3(b).
+[^3]: NPC Advisory Opinion No. 2018-058.

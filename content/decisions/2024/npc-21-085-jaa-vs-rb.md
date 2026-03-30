@@ -1,12 +1,18 @@
 ---
-title: "NPC 21-085: JAA vs RB"
-description: "NPC 21-085: JAA vs RB"
+title: 'NPC 21-085: JAA v. RB'
+description: Complaint alleging data privacy violations; decided on 2024-02-08.
 tags:
-  - "decision"
-  - "type/decision"
-  - "year/2024"
-  - "npc-case"
+- decision
+- type/decision
+- year/2021
+- npc-case
 draft: false
+aliases:
+- NPC 21-085
+- npc 21-085
+- JAA v. RB
+- jaa v. rb
+date: '2024-02-08'
 ---
 
 ## Source
@@ -26,7 +32,7 @@ JAA ,
 
 Complainant,
 
--versus -
+-versus-
 
 RB ,
 

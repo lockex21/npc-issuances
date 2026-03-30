@@ -1,13 +1,23 @@
 ---
-title: "CID BN 17-021: In re: Breach Notification Report of Sun Life of Canada"
-description: "1. A notification two years after the incident would cause undue alarm on the part of"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- CID BN 17-021
+- cid bn 17-021
+date: '2024-01-01'
+description: 1. A notification two years after the incident would cause undue alarm
+  on the part of
 draft: false
+reference: CID BN 17-021
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'CID BN 17-021: In re: Breach Notification Report of Sun Life of Canada'
 ---
+
+
+
+
 
 ## Source
 - Reference: CID BN 17-021
@@ -31,8 +41,6 @@ SUN LIFE OF CANADA
 
 --x
 
-CID BN 17 -021
-
 AGUIRRE, D.P.C.
 
 In an Order dated 23 July 2020, the Commission required Sun Life of
@@ -51,7 +59,7 @@ ORDER Sun Life of Canada (Philippines), Inc. to show cause in writing,
 
 within fifteen (15) calendar days from receipt of this Order, why it should not
 
-be liable for Failure to Notify under Section 20 of NPC Circular 16 -03 and be
+be liable for Failure to Notify under Section 20 of NPC Circular 1603 and be
 
 subject to contempt proceedings, as permitted by law, before the appropriate
 
@@ -65,7 +73,7 @@ August 2020 explaining that:
 
 the data subjects.
 
-2. The December 2019 Letter is not prohibited under N PC Circular 16 -03.
+2. The December 2019 Letter is not prohibited under N PC Circular 1603.
 
 3. Sun Life merely tried to exhaust all administrative remedies.
 
@@ -83,12 +91,10 @@ At the outset, it should be emphasized that notification of data subjects
 
 of data breaches is the general rule and exemption will only be allowed
 
-in exceptional circumstances when the Commission determines that CID BN 17 -021
+in exceptional circumstances when the Commission determines that CID BN 17021
 
 > In Re: Sun Life of Canada (Philippines)
 > Page 2of 8
-> 5th Floor, Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 “such notification would not be in the public interest or in the interest
 
@@ -158,16 +164,11 @@ phishing or social engineering attacks, that its data subjects may be
 
 subjected to as a result of the breach.
 
-> 1National Privacy Commission Circular 16 -03, Sec. 18(b).
+> 1National Privacy Commission Circular 1603, Sec. 18(b).
 > 2See , 19 October 2017 letter of Sunlife.
 > 3Id.
 
-CID BN 17 -021
-
 In Re: Sun Life of Canada (Philippines)
-
-> 5th Floor, Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 When the Data Privacy Act (“DPA”) states as one of the criteria for
 
@@ -203,7 +204,7 @@ reconsideration. These will be discussed in seriatim .
 
 i. A second Motion for Reconsideration is not allowed .
 
-Sun Life asserts that: “there is nothing in NPC Circular 16 -03 that
+Sun Life asserts that: “there is nothing in NPC Circular 1603 that
 
 prohibits a second motion for reconsideration. Absent such
 
@@ -211,9 +212,9 @@ prohibition, the Honorable Commission cannot categorically state that
 
 ‘a second request or motion for reconsideration is not allowed under
 
-NPC Circular 16 -03.’” 5
+NPC Circular 1603.’” 5
 
-Sun Life correctly states that NPC Circular 16 -03 does not contain any
+Sun Life correctly states that NPC Circular 1603 does not contain any
 
 prohibition on the filing of a second motion for reconsideration. It also
 
@@ -241,12 +242,9 @@ Sun Life’s letter dated 26 August 2020, p. 4.
 
 > 6
 
-See , NPC Circular 16 -03, Sec. 2. Emphasis supplied. CID BN 17 -021
+See , NPC Circular 1603, Sec. 2. Emphasis supplied. CID BN 17021
 
 In Re: Sun Life of Canada (Philippines)
-
-> 5th Floor, Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 SECTION 2. Scope and Coverage . – These rules shall apply to all complaints
 
@@ -266,19 +264,19 @@ information controller such as Sun Life may be exempted from the
 
 requirement of notifying its data subjects is a matter falling within the
 
-scope of NPC Circular 16 -04.
+scope of NPC Circular 1604.
 
 It is a basic rule of statutory construction that statutes must be
 
 construed and harmonized with other statutes to form a uniform
 
-system of jurisprudence. 7 Simply because NPC Circular 16 -03 does not
+system of jurisprudence. 7 Simply because NPC Circular 1603 does not
 
 contain a provision prohibiting the filing of a second motion for
 
 reconsideration does not mean that it is allowed, as Sun Life claims,
 
-especially since it is expressly prohibited by NPC Circular 16 -04:
+especially since it is expressly prohibited by NPC Circular 1604:
 
 SECTION 30. Appeal . – The decision of the National Privacy Commission
 
@@ -316,7 +314,7 @@ with the Honorable Commission’s Enforcement Division. 9
 
 > 7
 
-See, Akbayan -Youth v. Commission on Elections, G.R. No. 147066, 26 March
+See, AkbayanYouth v. Commission on Elections, G.R. No. 147066, 26 March
 
 2011.
 
@@ -326,12 +324,10 @@ Emphasis supplied.
 
 > 9
 
-Sun Life’s letter dated 26 August 2020, p. 2. CID BN 17 -021
+Sun Life’s letter dated 26 August 2020, p. 2. CID BN 17021
 
 > In Re: Sun Life of Canada (Philippines)
 > Page 5of 8
-> 5th Floor, Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 Even assuming Sun Life’s filing of the 23 December 2019 letter is
 
@@ -399,12 +395,9 @@ as this one, where a decision has already been rendered. This is not
 
 what the doctrine of exhaustion of administrative remedies
 
-contemplates. CID BN 17 -021
+contemplates. CID BN 17021
 
 In Re: Sun Life of Canada (Philippines)
-
-> 5th Floor, Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 In addition, Sun Life attem pts to justify its refusal to comply with this
 
@@ -437,13 +430,13 @@ in circumstances that would render compli ance impossible, and Sun
 
 Life has not alleged much less submitted any evidence in this regard,
 
-it is subject to the requirements of the DPA and NPC Circular 16 -03, as
+it is subject to the requirements of the DPA and NPC Circular 1603, as
 
 clarified by the Commission in its Decision.
 
 Nevertheless, at its core, the notification requirement under NPC
 
-Circular 16 -03 is for the protection and benefit of data subjects. This
+Circular 1603 is for the protection and benefit of data subjects. This
 
 Commission acknowledges the efforts Sun Life made to address the
 
@@ -475,12 +468,9 @@ it will be in a better position to safeguard its data subjects. Compliance
 
 > 10
 
-Sun Life’s letter dated 26 August 2020, p. 3. CID BN 17 -021
+Sun Life’s letter dated 26 August 2020, p. 3. CID BN 17021
 
 In Re: Sun Life of Canada (Philippines)
-
-> 5th Floor, Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 with the DPA entails more than simply ticking off boxes on a checklist
 
@@ -498,7 +488,7 @@ what the affected data subjects faced in this case.
 
 Guided by the principle that the power of contempt should be used
 
-sparingly, judiciously, and with utmost self -restraint, 11 this
+sparingly, judiciously, and with utmost selfrestraint, 11 this
 
 Commission resolves to consider Sun Life as having satisfactorily
 
@@ -522,15 +512,11 @@ City of Pasay, Philippines ;
 
 10 September 2020.
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissione r
 
 WE CONCUR:
-
-Sgd.
 
 RAYMUND E NRIQUEZ LIBORO
 
@@ -538,14 +524,9 @@ Privacy Commissioner
 
 > 11
 
-See, Baustista v. Yujuico, G.R. No. 199654, 03 October 2018. CID BN 17 -021
+See, Baustista v. Yujuico, G.R. No. 199654, 03 October 2018. CID BN 17021
 
 In Re: Sun Life of Canada (Philippines)
-
-> 5th Floor, Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
-Sgd.
 
 JOHN HENRY D. NAGA
 

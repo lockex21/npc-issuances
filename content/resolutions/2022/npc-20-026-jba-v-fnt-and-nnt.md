@@ -1,12 +1,19 @@
 ---
-title: "NPC 20-026: JBA v. FNT and NNT"
-description: "Decision, 22 Septembe r 2022 , at 22, in JBA v. FNT and NNT , NP C 20-02 6 (NPC 202 2)."
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: Decision, 22 Septembe r 2022 , at 22, in JBA v. FNT and NNT , NP C 20-02
+  6 (NPC 202 2).
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC 20-026: JBA v. FNT and NNT'
+aliases:
+- NPC 20-026
+- npc 20-026
+- JBA v. FNT and NNT
+- jba v. fnt and nnt
+date: '2022-09-22'
 ---
 
 ## Source
@@ -25,14 +32,13 @@ Republic of the Philip pines
 
 NATIONAL PRIVACY CO MMIS SIO N
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Center ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 1307
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 JBA
 
 Complainant,
 
--versus -
+-versus-
 
 FNT and NNT
 
@@ -42,13 +48,13 @@ x----------------------------------------------------x
 
 RESOLUTION
 
-AGUIRRE , D. P.C. ;
+AGUIRRE, D. P.C. ;
 
 This Commission resolves the M otio n for Recons id er ation (MR) filed
 
 by FNT on the Decision da ted 22 September 2022.
 
-Facts
+### Facts
 
 On 22 September 2022, the Commiss ion iss ued a Decision and held
 
@@ -80,7 +86,7 @@ On 29 December 2022, FNT received t he D ecision by emai l. 2
 
 > 1
 
-Decision, 22 Septembe r 2022 , at 22, in JBA v. FNT and NNT , NP C 20-02 6 (NPC 202 2).
+Decision, 22 Septembe r 2022, at 22, in JBA v. FNT and NNT, NP C 20-02 6 (NPC 202 2).
 
 For: Vio la tion of th e
 
@@ -88,13 +94,10 @@ Data Privacy Act of
 
 2012
 
-NPC 20 -026 NPC 20 -026
-
 JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 On 06 January 2023, FNT received the Decision by regist ere d mail. 3
@@ -107,29 +110,29 @@ adjud ication@privacy.gov.ph .4 She requested clarifi ca tion on whether
 
 to submit a “Motion ” or a “comment about the Dec ision .”5
 
-On 20 January 2023, FNT visite d the NPC Adjudic ation Secretariat ,
+On 20 January 2023, FNT visite d the NPC Adjudic ation Secretariat,
 
-specifically Atty. Lee Santos -Jav ier or the Cle rk of the Commission , to
+specifically Atty. Lee Santos -Jav ier or the Cle rk of the Commission, to
 
 clarify the date when she can submi t her MR .6
 
-On the same day , FNT stated that she sou ght to avail herself of the
+On the same day, FNT stated that she sou ght to avail herself of the
 
 services of the Publi c Attorne y’s Off ic e (PAO) , but her request was
 
 denied due to “confl ict of intere st”.7 She narrated that the PAO
 
-decl ine d to represent her because JBA , the Com plai nant, was already
+decl ine d to represent her because JBA, the Com plai nant, was already
 
 assisted by the same PA O at F.B. Harrison St reet, Pas ay City. 8
 
-According to FNT , she a lso c omplet ed the requireme nt s to avai l of
+According to FNT, she a lso c omplet ed the requireme nt s to avai l of
 
 the le ga l ass istance pr og ram of the Integrated Bar of the Philippine s
 
-(IBP) Cavite , but it was “subject for approval .”9
+(IBP) Cavite, but it was “subject for approval .”9
 
-None th eles s, on 20 Januar y 20 23, FNT filed her MR , a rguing the
+None th eles s, on 20 Januar y 20 23, FNT filed her MR, a rguing the
 
 following:
 
@@ -147,19 +150,19 @@ her .
 
 Sta te ment i n Su pp ort for the Subm ission of Moti on of Extens ion of Tim e and Motion for
 
-Reco nsideration, 13 Febr uary 202 3, at 2, in JBA v. FNT and NNT , NPC 20 -026 (NP C 202 3).
+Reco nsideration, 13 Febr uary 202 3, at 2, in JBA v. FNT and NNT, NPC 20 -026 (NP C 202 3).
 
 > 3
 
 Mot io n For Exte nsion of Time to Submit the Final C opy o f Motion fo r Re con sideration, 26
 
-Jan uary 20 23, at 1 , in JBA v. FNT and NNT , NPC 20 -026 (NP C 202 3).
+Jan uary 20 23, at 1, in JBA v. FNT and NNT, NPC 20 -026 (NP C 202 3).
 
 > 4
 
 Sta tement i n Su ppo rt for the Submission of Mo tion of Ext en sion of Ti me a nd Motion for
 
-Reconsidera tio n, 13 February 202 3, at 3, in JBA v. FNT and NNT , NPC 2 0-026 (N PC 202 3).
+Reconsidera tio n, 13 February 202 3, at 3, in JBA v. FNT and NNT, NPC 2 0-026 (N PC 202 3).
 
 > 5
 
@@ -169,7 +172,7 @@ Id.
 
 Motio n For Exte nsion of T ime to Submit the Final Copy o f Motion for Re con sid eratio n, 26
 
-Jan uary 2023 , at 1, in JBA v. FNT an d NNT , NPC 20 -026 (NPC 202 3).
+Jan uary 2023, at 1, in JBA v. FNT an d NNT, NPC 20 -026 (NPC 202 3).
 
 > 7
 
@@ -183,13 +186,12 @@ Id.
 
 Motio n for Extension of Tim e to Submi t the Fi nal Copy of Motion for Re consi derati on, 26
 
-Januar y 2023, at 1, in JBA v. FNT an d NNT , NP C 20 -026 (NP C 20 23).NPC 20 -026
+Januar y 2023, at 1, in JBA v. FNT an d NNT, NP C 20 -026 (NP C 20 23).NPC 20 -026
 
 JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 3.  She denies having knowledge ab out the ac co unts rel atin g t o the
@@ -204,7 +206,7 @@ gene rated ” or “system auto ma ted.”
 
 renewal f eatu re.10
 
-In her MR , FNT den ies hav ing acc ess to Sheryn a and cl arifies that her
+In her MR, FNT den ies hav ing acc ess to Sheryn a and cl arifies that her
 
 staff members are the one s who created the accou nt for her:
 
@@ -222,7 +224,7 @@ unauthorized acce ss. ". 11
 
 May [sic ] STAFF created also my Account. Hundreds of Ads
 
-posted On line from differ ent websi tes , for House and Lot
+posted On line from differ ent websi tes, for House and Lot
 
 selling and Recruitment. I chec k my secondary email [ ] and [ ]
 
@@ -232,7 +234,7 @@ website s. 12
 
 FNT likewise explain ed that the ad s in Sheryna were still be ing
 
-posted as late as Febru ary and Nove mber 202 1 even though the ads
+posted as late as Febru ary and Nove mber 2021 even though the ads
 
 were ori ginally poste d in 2016 because the pos ting of ads is
 
@@ -262,7 +264,7 @@ lists, nadelete or deactiv ated na ang account and pos ts are
 
 > 10
 
-Motion for Reco nsider ation , 20 Jan uar y 2023, at 1 -14 , in JBA v. FNT and NNT , NPC 2 0-02 6
+Motion for Reco nsider ation, 20 Jan uar y 2023, at 1 -14, in JBA v. FNT and NNT, NPC 2 0-02 6
 
 (NPC 202 3).
 
@@ -282,7 +284,6 @@ JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 deleted also gaya ng mga ibang ac count sa mga ECOM MERCE
@@ -333,11 +334,11 @@ ito ng November 2018 at Novemb er 2021, magkaibang year
 
 pero same Month “November ” Ga nun din ang Alexandra
 
-House capture d sa screenshot ni Ms JBA , L ast AUTO
+House capture d sa screenshot ni Ms JBA, L ast AUTO
 
 RENEW wa s Fe bruary 07, 2017 at an g ba gon g AUTO
 
-RENE W date was Febru ary 08 , 202 1 same mont h
+RENE W date was Febru ary 08, 2021 same mont h
 
 “Febru ary ” pero magkaibang year. 15
 
@@ -369,7 +370,7 @@ Id. at 3.
 
 > 16
 
-Motion fo r R econsideration, 20 January 2023 , at 8, in JBA v. FNT and NNT , NPC 20 -026 (NP C
+Motion fo r R econsideration, 20 January 2023, at 8, in JBA v. FNT and NNT, NPC 20 -026 (NP C
 
 202 3).NPC 20 -026
 
@@ -377,7 +378,6 @@ JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 Kapag nagpo st s ng ADS sa Sheryna.ph. t he h igher the Series
@@ -420,7 +420,7 @@ POSTED? N O. Hindi NEWLY Posted ang m ga ADS, i naaral
 
 ko base sa AD ID; PR ICES; T ITLE ADS & details walng
 
-nagbaba go , unreaso nable na mag post ng ADS na hindi
+nagbaba go, unreaso nable na mag post ng ADS na hindi
 
 updated . Un reas onable dahil my sta ff cre ated [me] an a ccount
 
@@ -450,11 +450,11 @@ Id. at 6.
 
 > 18
 
-Decisi on, 22 Se ptember 2022, at 9, in JBA v. FNT and NNT , NPC 20 -026 (N PC 2 02 2).
+Decisi on, 22 Se ptember 2022, at 9, in JBA v. FNT and NNT, NPC 20 -026 (N PC 2 02 2).
 
 > 19
 
-Motion for Reconside ration, 20 January 2023 , at 2, in JBA v. FNT and NNT , NPC 20 -026 (NPC
+Motion for Reconside ration, 20 January 2023, at 2, in JBA v. FNT and NNT, NPC 20 -026 (NPC
 
 20 23).
 
@@ -462,7 +462,7 @@ Motion for Reconside ration, 20 January 2023 , at 2, in JBA v. FNT and NNT , NPC
 
 Motio n for Exte nsi on o f Tim e to Submi t th e F inal Copy of M otion fo r Re consideration, 26
 
-Januar y 202 3, at 2, in JBA v. FNT and NNT , NPC 20 -026 (NPC 202 3).
+Januar y 202 3, at 2, in JBA v. FNT and NNT, NPC 20 -026 (NPC 202 3).
 
 > 21
 
@@ -472,12 +472,11 @@ JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 On 26 January 2023, FNT vis ited Atty . Santos -Javi er for the second
 
-tim e to su bmit a physical cop y of her Motion of Exten sion of T ime .22
+tim e to submit a physical cop y of her Motion of Exten sion of T ime .22
 
 On th e s ame day, FNT also fil ed a Mot ion for Extension of Ti me t o
 
@@ -525,7 +524,7 @@ I informed Attorney Javier that last January 07, 2023, na nag -
 
 email ak o sa NPC - Adjudication kay sir Joseph th e Secretariat,
 
-nagtanong ako kung h angg an g kailan pwede magsu bmit, pero
+nagtanong ako kung h angg an g kailan pwede magsubmit, pero
 
 wala akong nareceived na reply. Attorn ey Lee Ann Sant os -
 
@@ -537,13 +536,13 @@ because Adjudi ca tion De part ment [sic ] sh ould re main neutral
 
 Sta tement i n Su pport for the Submission of Motion of E xtens ion o f Ti me and Motion f or
 
-Reconsidera tio n, 13 Fe brua ry 202 3, at 1, in JBA v. FNT and NNT , NPC 20 -026 (NPC 202 3).
+Reconsidera tio n, 13 Fe brua ry 202 3, at 1, in JBA v. FNT and NNT, NPC 20 -026 (NPC 202 3).
 
 > 23
 
 Motio n for Extension of Tim e to Submi t the Fin al Copy of Moti on fo r Re consider at ion, 26
 
-Jan uary 2023, at 1, in JBA v. FNT and NNT , NP C 20 -026 (NP C 202 3).
+Jan uary 2023, at 1, in JBA v. FNT and NNT, NP C 20 -026 (NP C 202 3).
 
 > 24
 
@@ -557,7 +556,7 @@ Id.
 
 Sta teme nt i n Su ppor t for the Submi ssion of Motion of Extens io n of Time a nd Mot ion for
 
-Reconsideration, 13 February 202 3, at 2, in JBA v. FNT and NNT , NPC 20 -026 (NPC 202 3).
+Reconsideration, 13 February 202 3, at 2, in JBA v. FNT and NNT, NPC 20 -026 (NPC 202 3).
 
 > 27
 
@@ -567,7 +566,6 @@ JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 in t his c ase . Baka s asa bihin bini big yan ka na ming ng a dvice or
@@ -604,7 +602,7 @@ itable ’ ko sa C ommittee lahat ng nasubmit na Motion noong last
 
 January 20, 2023 at ang mga email mo. 29
 
-On 13 F ebruar y 2023 , FNT file d her Sta teme nt in Suppo rt for t he
+On 13 F ebruar y 2023, FNT file d her Sta teme nt in Suppo rt for t he
 
 Submis sion of Motion of Ext ension of Ti me and Motion for
 
@@ -614,7 +612,7 @@ prayer tha t the Commiss ion grant both her Motion for Extensio n and
 
 MR .31
 
-Issue
+### Issue
 
 Whether the MR filed b y FNT da ted 20 January 20 23 should be
 
@@ -626,7 +624,7 @@ The C ommi ssion deni es FNT ’s MR . The Com mis sion fi nds no reason
 
 to o verturn the D ecision dated 22 Sept emb er 2022 since the MR was
 
-filed out of time , and FNT provid ed no new or material arguments
+filed out of time, and FNT provid ed no new or material arguments
 
 that coul d overtu rn the De cis ion.
 
@@ -650,14 +648,13 @@ JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 I. FNT filed the MR ou t of time.
 
 For cases before the N PC, judg ment s, orders, or resolutions sh all be
 
-serv ed either personally , by regis tered mail, by cou rier , or by
+serv ed either personally, by regis tered mail, by cou rier, or by
 
 electronic mail .32 Ru le III, Sect io n 6 of the NPC Circular 2021 –01
 
@@ -665,7 +662,7 @@ electronic mail .32 Ru le III, Sect io n 6 of the NPC Circular 2021 –01
 
 Section 6. Service of j udgments, orders, or resol ut ions of the NPC.
 
-Judgments , or ders, or resolutions shall be served either
+Judgments, or ders, or resolutions shall be served either
 
 personally, by re gi st ered mail, by courier, or b y electronic
 
@@ -685,7 +682,7 @@ the fi ling of the complaint or plead ing, unless otherwise
 
 indicated therein. 33
 
-The Commission ’s judg ments , orders, or resolu tions shall only b e
+The Commission ’s judg ments, orders, or resolu tions shall only b e
 
 se rved through cou rier when an updated email of the par ty is
 
@@ -695,7 +692,7 @@ will insist on computing the period to comply w ith the Commission ’s
 
 directiv e from th e later date of receipt .
 
-This situation , ho wever , cannot apply t o this case . FNT cannot claim
+This situation, ho wever, cannot apply t o this case . FNT cannot claim
 
 th at her email is un available sin ce she herself admitt ed th at she
 
@@ -713,15 +710,15 @@ decision is given to a part y for him or her to fil e an appeal .36 Sectio n
 
 > 32
 
-Na tiona l Pri vacy C ommi ss ion, 20 21 Rule s of Proc edu re o f the National Privacy Commission
+Na tiona l Pri vacy C ommi ss ion, 2021 Rule s of Proc edu re o f the National Privacy Commission
 
-[NPC Circ ular No. 2021 -01], r ule III , § 6 (28 Janua ry 2021).
+[NPC Circ ular No. 2021 -01], r ule III, § 6 (28 Janua ry 2021).
 
 > 33
 
-Na tiona l Pri vacy C ommission, 20 21 R ules of Procedu re of the Nat io nal Privacy Commission
+Na tiona l Pri vacy C ommission, 2021 R ules of Procedu re of the Nat io nal Privacy Commission
 
-[NPC Ci rc ul ar No. 2021 -01], rule I II , § 6 (28 J anua ry 2021 ). Em pha sis suppl ied.
+[NPC Ci rc ul ar No. 2021 -01], rule I II, § 6 (28 J anua ry 2021 ). Em pha sis suppl ied.
 
 > 34
 
@@ -731,17 +728,16 @@ Id.
 
 Sta te ment i n Su pport for the Su bm ission of Motion o f Extens ion of Time and Motion for
 
-Reconsidera tion , 13 Fe bruary 202 3, a t 2, in JBA v. FNT and NNT , NPC 20 -026 (N PC 202 3).
+Reconsidera tion, 13 Fe bruary 202 3, a t 2, in JBA v. FNT and NNT, NPC 20 -026 (N PC 202 3).
 
 > 36
 
-NPC 2021 Rules o f Procedure , rule II , § 4 .NPC 20 -026
+NPC 2021 Rules o f Procedure, rule II, § 4 .NPC 20 -026
 
 JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 Commissio n’s decision becomes final an d execu tory within fif teen
@@ -770,7 +766,7 @@ becomes fin al and execut ory. 38
 
 FNT recei ved the Decision by email on 29 December 2022 .39
 
-Following Section 4 , Rule 8 of th e 2021 NPC Rules of Proce dure, she
+Following Section 4, Rule 8 of th e 2021 NPC Rules of Proce dure, she
 
 had fifteen (1 5) days fro m 29 December 2022 or until 13 Januar y 2023
 
@@ -794,7 +790,7 @@ Despite this, FNT only filed her M R on 20 Janu ary 2023 or seven ( 7)
 
 days be yon d the fifteen -day period f or appeal .41 As a r es ul t, FNT ’s
 
-MR filed on 20 January 202 3 was filed ou t of time , and the Decision
+MR filed on 20 January 202 3 was filed ou t of time, and the Decision
 
 date d 22 Septe mber 2022 became final and executory .
 
@@ -810,7 +806,7 @@ Id.
 
 Sta tement i n Su ppor t for the Su bmission o f Motion of Extens ion of Time and Mo tion for
 
-Reconsi dera tion , 13 February 202 3, at 2, in JBA v. FNT and NNT , NPC 20 -02 6 (NPC 202 3).
+Reconsi dera tion, 13 February 202 3, at 2, in JBA v. FNT and NNT, NPC 20 -02 6 (NPC 202 3).
 
 > 40
 
@@ -818,7 +814,7 @@ Id.
 
 > 41
 
-Motion for Reco nsid era tion, 20 Ja nuary 2023, at 1, in JBA v. FNT an d NNT , NP C 20 -026 (NPC
+Motion for Reco nsid era tion, 20 Ja nuary 2023, at 1, in JBA v. FNT an d NNT, NP C 20 -026 (NPC
 
 202 3).NPC 20 -026
 
@@ -826,20 +822,19 @@ JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 II. FNT provided no ne w or material arguments to warrant a
 
 revers al of the D ecision dated 22 September 2022 .
 
-Never the le ss , even if the MR was file d on ti me, FNT still did not
+Never the le ss, even if the MR was file d on ti me, FNT still did not
 
 pro vid e any new or materi al a lle gation s to justif y a re versa l of the
 
 Decision dat ed 22 September 2022 .
 
-In the Decision dated 22 Septe mber 2022 , the Comm issio n held FNT
+In the Decision dated 22 Septe mber 2022, the Comm issio n held FNT
 
 lia ble for Sectio n 25 (Una uthorized Pro cessing of Sen sitive or
 
@@ -847,7 +842,7 @@ Pe rson al In format ion ) of th e DPA .42 FNT processed JBA ’s persona l
 
 informati on by posting ad list ing s even af ter JBA ’s resi gn ation .43
 
-When JBA submitte d her official resignation letter , she withdrew her
+When JBA submitte d her official resignation letter, she withdrew her
 
 con sent and explicit ly exercised her right to eras ure as a data
 
@@ -875,7 +870,7 @@ mont hs, o r 1 year .46
 
 While th e Commi ssio n takes note of th e expla na tions pr ovided by
 
-FNT on t his poi nt in the MR, these argume nts , howe ver, are n either
+FNT on t his poi nt in the MR, these argume nts, howe ver, are n either
 
 new nor material to wa rrant the revers al of the Commission’s
 
@@ -883,7 +878,7 @@ Decision .
 
 > 42
 
-De ci sion, 22 September 20 22, at 22, in JBA v. FNT and NNT , NPC 2 0-026 (NPC 202 2).
+De ci sion, 22 September 20 22, at 22, in JBA v. FNT and NNT, NPC 2 0-026 (NPC 202 2).
 
 > 43
 
@@ -895,13 +890,13 @@ Id.
 
 > 45
 
-Motio n f or Reconsider ation , 20 January 2023, at 1, in JBA v. FNT an d NNT , NP C 20 -026 (NPC
+Motio n f or Reconsider ation, 20 January 2023, at 1, in JBA v. FNT an d NNT, NP C 20 -026 (NPC
 
 20 23).
 
 > 46
 
-Ver ified Comme nt of FNT , 23 De cember 202 1, at 2, in JBA v. FNT and NNT , NPC 20 -02 6 (NP C
+Ver ified Comme nt of FNT, 23 De cember 202 1, at 2, in JBA v. FNT and NNT, NPC 20 -02 6 (NP C
 
 202 1). NPC 20 -026
 
@@ -909,7 +904,6 @@ JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 The Commission st ress es the ob ligat io n of Personal Information
@@ -928,7 +922,7 @@ Secti on 3. Def inition of Terms .
 
 organiza tion wh o co nt rols the colle ction, holding, p rocessi ng
 
-or use of personal infor mation , including a pers on or
+or use of personal infor mation, including a pers on or
 
 organization who in structs another pe rson or o rgan ization to
 
@@ -954,17 +948,17 @@ she herse lf has no copy of a ny lis t showing whe re the ads are being
 
 poste d by her sta ff. 52
 
-In this kind o f relatio nship , ev en if FNT ’s staff members are the ones
+In this kind o f relatio nship, ev en if FNT ’s staff members are the ones
 
 tasked with mak ing thes e sec ondary account s, FNT is still conside re d
 
 th e PI C. After all, s he is the person who instruc ts another per son or
 
-organ iz at ion to co llect, hol d, process , use , tra ns fer, or dis close
+organ iz at ion to co llect, hol d, process, use, tra ns fer, or dis close
 
-personal information on her behal f. Further, because these accou nts ,
+personal information on her behal f. Further, because these accou nts,
 
-as we ll as the ads posted using those accounts , we re not only created
+as we ll as the ads posted using those accounts, we re not only created
 
 > 47
 
@@ -978,11 +972,11 @@ and (b) (2012 ). Emphasis supplied.
 
 > 48
 
-Data Pri vacy Act , § 3 (h) . Em phas is suppl ied.
+Data Pri vacy Act, § 3 (h) . Em phas is suppl ied.
 
 > 49
 
-Verified Commen t of FNT , 23 December 2021, at 5, in JBA v. FNT and NNT , NPC 20 -026 (NPC
+Verified Commen t of FNT, 23 December 2021, at 5, in JBA v. FNT and NNT, NPC 20 -026 (NPC
 
 202 1).
 
@@ -992,7 +986,7 @@ Id. ).
 
 > 51
 
-Moti on f or Reconsid era tion, 20 January 20 23, at 29, in JBA v. FNT and NNT , NPC 20 -026 (NPC
+Moti on f or Reconsid era tion, 20 January 20 23, at 29, in JBA v. FNT and NNT, NPC 20 -026 (NPC
 
 202 3).
 
@@ -1004,7 +998,6 @@ JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 followin g her instructions bu t, more importantl y, all benefit her
@@ -1059,7 +1052,7 @@ being carried out i s in acc ordance with the legal ba sis provided by
 
 law.
 
-In he r MR , however , FNT denies that she ha d access and control over
+In he r MR, however, FNT denies that she ha d access and control over
 
 the ads bec ause her staff f ailed to giv e he r a li st of al l websi tes th eir
 
@@ -1075,18 +1068,15 @@ I already commented na may mga a cco unt an d ADS na h indi
 
 na -delete noon dahi l hindi ako nab igy an ng l ista han ng s taf f
 
-> 53 Data Privacy Act ,§21 (a) and (b) .Em phas is sup pl ied.
-> 54 Motion for Re consi deration , 20 January 2023, at1,in JBA v. FNT and NNT ,NPC 20 -026 (NPC
+> 53 Data Privacy Act,§21 (a) and (b) .Em phas is sup pl ied.
+> 54 Motion for Re consi deration, 20 January 2023, at1,in JBA v. FNT and NNT,NPC 20 -026 (NPC
 > 202 3).
 > 55 Id.
-
-NPC 20 -026
 
 JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 kung saan saa n websites siya nag post . Isa na dito ang
@@ -1095,7 +1085,7 @@ Sheryna. ph Website at gay a ng Pilik o.com na iisa ang website
 
 bu ilde r, ay par eh ong HINDI DEL ETE D an g account. At
 
-naun ang mag -resign ang Staff ko, Ms. JBA re sig ned 2018 , ras on
+naun ang mag -resign ang Staff ko, Ms. JBA re sig ned 2018, ras on
 
 hi ndi ito na access dah il walan g lists kung kaya from 2016 the
 
@@ -1117,7 +1107,7 @@ forese en, the procedures will be useful whe n i t comes to mana ging
 
 the personal information of her recruited real estate agents .
 
-FNT ’s ac ti ons , or lack ther eof , de monstra ted her lac k of
+FNT ’s ac ti ons, or lack ther eof, de monstra ted her lac k of
 
 accountability on her par t as a PIC .
 
@@ -1152,24 +1142,21 @@ provide add it iona l circumstan ces that would warran t a denial of th e
 request for e ra sure und er Sec tion 10(B) (2) of NPC A dvi sory 21 -01 on
 
 > 56 Id.
-> 57 Decisio n, 22 Septe mber 2022, at 21,in JBA v. FNT an dNNT ,NPC 20 -026 (NPC 202 2).
-> 58 Motion f orReco nsideration , 20 January 2023, at 1, inJBA v. FNT and NNT ,NPC 20 -026 (N PC
+> 57 Decisio n, 22 Septe mber 2022, at 21,in JBA v. FNT an dNNT,NPC 20 -026 (NPC 202 2).
+> 58 Motion f orReco nsideration, 20 January 2023, at 1, inJBA v. FNT and NNT,NPC 20 -026 (N PC
 > 20 23).
-
-NPC 20 -026
 
 JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 Data Subject Rights . Absent a ny of th ose circumstanc es, she should
 
 have acte d on JBA ’s requ est f or e rasure .
 
-Upo n JBA ’s resign ation on 30 October 2018 , FNT should ha ve
+Upo n JBA ’s resign ation on 30 October 2018, FNT should ha ve
 
 initiated the rem oval of ads containing JBA ’s person al informatio n.
 
@@ -1197,7 +1184,7 @@ infor mation are no longer necessary for the p urp oses for which they
 
 were co llected. 62
 
-Besides , when JBA exercised her righ t to eras ur e, any consent
+Besides, when JBA exercised her righ t to eras ur e, any consent
 
 previously g iven fo r the use of her name in these a ds and for thos e
 
@@ -1205,7 +1192,7 @@ acc ounts is no lon ge r valid since she has eff ectively wi thdrawn her
 
 consen t.
 
-Ev en if FNT did n ot purcha se the auto -renewal method , the fact
+Ev en if FNT did n ot purcha se the auto -renewal method, the fact
 
 remains th at sh e took a dva ntage of th e feature in adv er tising her
 
@@ -1225,19 +1212,16 @@ accor dance with the rights of data subje cts. The obliga tions and
 
 responsibilities under the DPA ar e primarily ta rgeted to PICs and
 
-> 59 Deci si on, 22 Sep tem ber 2022, at 21, inJBA v. FNT and NNT ,NPC 20 -026 (N PC 202 2).
-> 60 Complaints -As sisted Fo rm, 20 January 2020, a t 11 ,inJBA v. FNT and NNT ,NPC 20 -026 (NPC
+> 59 Deci si on, 22 Sep tem ber 2022, at 21, inJBA v. FNT and NNT,NPC 20 -026 (N PC 202 2).
+> 60 Complaints -As sisted Fo rm, 20 January 2020, a t 11,inJBA v. FNT and NNT,NPC 20 -026 (NPC
 > 2020) .
-> 61 Decision, 22 Septem ber 20 22 ,at 21, in JBA v. FNT and NNT ,NPC 20 -026 (NPC 202 2).
+> 61 Decision, 22 Septem ber 20 22,at 21, in JBA v. FNT and NNT,NPC 20 -026 (NPC 202 2).
 > 62 Id.
-
-NPC 20 -026
 
 JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 PIPs s ince they are in a better pos iti on t o en sure th e protection of
@@ -1252,7 +1236,7 @@ Processing of Personal Informa tion and Sens it ive Personal
 
 Information) of th e DPA .
 
-WH EREFORE , premi ses con sid ered, th is Comm issio n DENIES th e
+WH EREFORE, premi ses con sid ered, th is Comm issio n DENIES th e
 
 Motion f or Re con siderat ion fi led by FNT . The Decision d ated 22
 
@@ -1264,21 +1248,15 @@ City of Pas ay, Phil ippines .
 
 22 Febr uary 20 23.
 
-Sgd.
-
 LE ANDRO AN GELO Y. AGUIRRE
 
 Depu ty Privacy Commiss ioner
 
 WE CONC UR:
 
-Sgd.
-
 JOHN HENRY D. NAG A
 
 Priv ac y Com mis sion er
-
-Sgd.
 
 NERI SSA N. DE J ES US
 
@@ -1288,7 +1266,6 @@ JBA v. FNT an d NNT
 
 Resol ution
 
-> 5th Floor, Ph ilippine In tern ational Con ven tion Cen ter ,Vicente Sotto Avenue, Pasay Ci ty, Met ro Manila 13 07
 > URL: h ttp s// www.pr iv acy.gov.ph Ema il A dd: info@pr iv acy.gov.ph Tel No. 8234 -2228
 
 Cop y furnish ed:

@@ -1,6 +1,6 @@
 ---
-title: "NPC Advisory Opinion No. 2018-077"
-description: "'''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''' ''''' ''''''''''''''''' '''''''''''''''''''''''''''''''''''' ''''''''''''''''''''''''' '''' ''''''''''''''' '''''''''''''''''''' '''''''''' ''''''''''''''''''''''''''''''''''..."
+title: "NPC Advisory Opinion No. 2018-077 — Congressional Request for Beneficiary Lists"
+description: "Advisory opinion on data privacy concerns regarding a congressional request for beneficiary lists from DSWD programs."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -16,35 +16,25 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                       ADVISORY OPINION NO. 2018-0771
 
-  25 October 2018
+25 October 2018
 
-  '''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''' ''''' '''''''''''''''''
-  ''''''''''''''''''''''''''''''''''''
-  ''''''''''''''''''''''''' '''' ''''''''''''''' '''''''''''''''''''' '''''''''' ''''''''''''''''''''''''''''''''''
-  '''''''''''''''''' ''''''''''''''''' '''''''''''''''' '''''''''' '''''''''''''
-  '''''''''''''''''''' ''''''''''''''''''''''''''' ''''''''''''''''''''''
-  '''''''''''''''''''''''''''' ''''''''''' ''''''''''''''''''' '''''''''
+Re: CONGRESSIONAL REQUEST FOR LISTS OF BENEFICIARIES OF THE PANTAWID PAMILYANG PILIPINO PROGRAM (4Ps) AND THE SOCIAL PENSION FOR INDIGENT SENIOR CITIZENS PROGRAM
 
-                Re:       CONGRESSIONAL REQUEST FOR LISTS OF BENEFICIARIES
-                          OF THE PANTAWID PAMILYANG PILIPINO PROGRAM (4Ps)
-                          AND THE SOCIAL PENSION FOR INDIGENT SENIOR
-                          CITIZENS PROGRAM
-
-Dear ''''''''''''''''''''''''''''''''''''''''''''''' ''''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion which sought clarification on
 the possible data privacy concerns regarding the request for information from the Chairperson
 of the Committee on Appropriations of the House of Representatives. The request states in
 part as follows:
 
-             “In the performance of the oversight function of Congress through the House
+### Discussion
+
+   “In the performance of the oversight function of Congress through the House
              Committee on Appropriations, this representation respectfully requests from
              your good office the list of beneficiaries of the following DSWD programs:
 
-                   1. Pantawid Pamilyang Pilipino Program (4Ps)
+   1. Pantawid Pamilyang Pilipino Program (4Ps)
                    2. Social Pension for Indigent Senior Citizens Program.”
 
 We understand that both the 4Ps and the Social Pension for Indigent Senior Citizens Program
@@ -57,9 +47,6 @@ Act of 20122 (DPA).
 
 The names of the beneficiaries are considered as personal information, defined under the DPA
 as any information whether recorded in a material form or not, from which the identity of an
-
-1 Tags: personal information, sensitive personal information, public authority, oversight function, proportionality
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 2012], Republic Act No. 10173, (2012).
 
@@ -103,7 +90,7 @@ Congress and whether or not they should be continued, curtailed, or eliminated.�
 In addition, the rules provide that committees shall review and study on a continuing basis,
 or upon order of the House:
 
-     a. the application, administration, execution, and effectiveness of laws and programs
+   a. the application, administration, execution, and effectiveness of laws and programs
         addressing subjects within their respective jurisdictions;
      b. the organization and operation of national agencies and entities having responsibilities
         for the administration and execution of laws and programs addressing subjects within
@@ -117,7 +104,7 @@ available at http://www.congress.gov.ph/download/docs/hrep.house.rules.pdf (last
 6 Id. Declaration of Principles and Policies
 7 Id. Rule IX, § 26.
 
-        c. any conditions or circumstances that may indicate the necessity or desirability of
+   c. any conditions or circumstances that may indicate the necessity or desirability of
            enacting new or additional legislation addressing subjects within their respective
            jurisdictions.8
 
@@ -169,7 +156,7 @@ government or public authority.
 8 Id.
 9 Data Privacy Act of 2012, § 12 (e).
 
-    Representatives with the lists of beneficiaries of the 4Ps and of the Social pension for
+   Representatives with the lists of beneficiaries of the 4Ps and of the Social pension for
     Indigent Senior Citizens Program?
 
 DSWD may grant the request of the Committee on Appropriations of the House of
@@ -212,7 +199,6 @@ to its declared purpose. Where the House of Representatives collects and process
 information from the DSWD, the House will be bound by its obligations under the DPA, its
 IRR, and issuances of the NPC, specifically NPC Circular No. 16-01 on the Security of Personal
 
-
 10 Data Privacy Act of 2012, § 38.
 11 National Privacy Commission, Registration of Data Processing Systems and Notifications Regarding Automated Decision-
 
@@ -236,14 +222,10 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
-
-
 
 (Sgd.) LEANDRO ANGELO Y. AGUIRRE
 Officer-in-Charge and

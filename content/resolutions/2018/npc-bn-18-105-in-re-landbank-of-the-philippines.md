@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-105: In Re: Landbank of the Philippines"
-description: "NPC BN 18-105: In Re: Landbank of the Philippines"
+title: 'NPC BN 18-105: In Re: Landbank of the Philippines'
+description: Breach notification resolution on Land Bank of the Philippines data breach
+  management.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2020
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-105"'
+- '"npc bn 18-105"'
+- '"In Re: Landbank of the Philippines"'
+- '"in re: landbank of the philippines"'
+date: '2020-05-12'
 ---
 
 ## Source

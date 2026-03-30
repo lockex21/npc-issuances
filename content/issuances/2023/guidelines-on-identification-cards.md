@@ -1,6 +1,6 @@
 ---
 title: "Guidelines on Identification Cards (Circular No. 2023-03)"
-description: "WHEREAS, personal information controllers (PICs) issue physical or digital identification cards (ID cards) to their respective data subjects for identity verification in relation to the provision of goods and services as well as the implementation of safeguards for electronic..."
+description: "Prescribes guidelines for personal information controllers on the issuance of identification cards, emphasizing proportionality and minimal necessary data collection."
 aliases:
   - "Circular No. 2023-03"
   - "circular no. 2023-03"
@@ -11,6 +11,7 @@ tags:
   - "type/circular"
   - "year/2023"
 draft: false
+date: "2023-11-07"
 ---
 
 ## Issuance Text
@@ -51,58 +52,43 @@ Circular that prescribes the guidelines for PICs on the issuance of ID cards.
 
 **SECTION 1.** ***Scope.*** This Circular shall apply to all PICs that issue ID cards to their respective data subjects: provided, that ID cards issued by government agencies pursuant to their respective regulatory mandate, such as but not limited to, driver’s license, passport, Professional ID card of a Registered Professional (including for this purpose the Integrated Bar of the Philippines (IBP) Lawyers ID), and Tax Identification Number (TIN) card, shall be excluded from the scope of this Circular.
 
-Bar of the Philippines (IBP) Lawyers ID, Tax Identification Number (TIN) card, shall be  
-excluded from the scope of this Circular.
-
 For purposes of this Circular, ID cards are understood to be any physical or digital ID card that identifies a data subject. ID cards include, but are not limited to, company IDs, school IDs, insurance cards, membership cards, and rewards or loyalty cards.
 
-SECTION 2. Definition of Terms. —Terms used herein shall have the respective meanings  
-provided in the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as amended, and other issuances of the NPC.
+**SECTION 2.** ***Definition of Terms.*** Terms used herein shall have the respective meanings provided in the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as amended, and other issuances of the NPC.
 
 **SECTION 3.** ***Contents of ID cards; proportionality.*** All PICs issuing ID cards shall ensure that only the necessary personal data are indicated therein in relation to the primary purpose of identifying the data subject.
 
-1. In the case of ID cards with additional functionalities, PICs shall ensure that all other personal data that will be included are reasonable and necessary for the specified and declared purposes of that specific ID card.
-2. Nothing in this Circular shall be construed as prohibiting the inclusion of any personal data that is explicitly required by law or regulation to be indicated in an ID card issued by PICs.
-3. PICs shall implement reasonable and appropriate safeguards to protect personal data on ID cards and shall ensure that such security features are at par with technological advances, best practices, and industry standards. PICs shall also educate data subjects on the appropriate physical security measures for ID cards already issued and in the possession of such data subjects.
-4. In all cases, ID cards shall not contain information that is excessive. PICs shall bear the burden of demonstrating that the inclusion of a particular category of personal data is proportionate to the legitimate purpose.
+   A. In the case of ID cards with additional functionalities, PICs shall ensure that all other personal data that will be included are reasonable and necessary for the specified and declared purposes of that specific ID card.
 
-**SECTION 4.** ***Penalties.*** Subject to the provisions of Section 3 above, the processing of personal data in violation of this Circular shall carry criminal, civil, and administrative liability pursuant to the provisions of the [[laws/data-privacy-act-of-2012|DPA]] and related issuances of the Commission.
+   B. Nothing in this Circular shall be construed as prohibiting the inclusion of any personal data that is explicitly required by law or regulation to be indicated in an ID card issued by PICs.
+
+   C. PICs shall implement reasonable and appropriate safeguards to protect personal data on ID cards and shall ensure that such security features are at par with technological advances, best practices, and industry standards. PICs shall also educate data subjects on the appropriate physical security measures for ID cards already issued and in the possession of such data subjects.
+
+   D. In all cases, ID cards shall not contain information that is excessive. PICs shall bear the burden of demonstrating that the inclusion of a particular category of personal data is proportionate to the legitimate purpose.
+
+**SECTION 4.** ***Penalties.*** Subject to the provisions of Section 3 (A) above, the processing of personal data in violation of this Circular shall carry criminal, civil, and administrative liability pursuant to the provisions of the [[laws/data-privacy-act-of-2012|DPA]] and related issuances of the Commission.
 
 **SECTION 5.** ***Interpretation.*** Any doubt in the interpretation of any provision of this Circular shall be liberally interpreted in a manner mindful of the rights and interests of the data subjects.
 
 **SECTION 6.** ***Transitory Provision.*** PICs shall be given a period of one hundred twenty (120) calendar days from the effectivity of this Circular to comply with the requirements provided herein.
 
+**SECTION 7.** ***Separability Clause.*** If any portion or provision of this Circular is declared null and void, or unconstitutional, the other provisions not affected thereby shall continue to be in force and effect.
 
-identity, “3.2.3 digital identity: The digital representation of the information known about a specific individual, group or  
-organization”, available at [https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619](https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619) (last accessed 5 July 2023) and  
-United Nations Conference on Trade and Development, Policy Brief No. 96, March 2022, Digital identity refers to the set of  
-electronically captured and stored attributes and credentials used to uniquely identify a person, which can include biographic  
-data (e.g. name and date of birth), biometric data (e.g. fingerprints and facial features) and/or government-issued identification,  
-available at: [https://unctad.org/system/files/official-document/presspb2022d4_en.pdf](https://unctad.org/system/files/official-document/presspb2022d4_en.pdf) (last accessed 5 July 2023).
+**SECTION 8.** ***Repealing Clause.*** All other rules, regulations, and issuances contrary to or inconsistent with the provisions of this Circular are deemed repealed or modified accordingly.
 
-SECTION 7. Separability Clause. — If any portion or provision of this Circular is declared  
-null and void, or unconstitutional, the other provisions not affected thereby shall continue to  
-be in force and effect.
-
-SECTION 8. Repealing Clause. — All other rules, regulations, and issuances contrary to or  
-inconsistent with the provisions of this Circular are deemed repealed or modified accordingly.
-
-SECTION 9. Effectivity. — This Circular shall take effect fifteen (15) calendar days after its  
-publication in the Official Gazette or a newspaper of general circulation.
+**SECTION 9.** ***Effectivity.*** This Circular shall take effect fifteen (15) calendar days after its publication in the Official Gazette or a newspaper of general circulation.
 
 Approved:
 
-                                             SGD.  
+   SGD.  
                                     JOHN HENRY D. NAGA  
                                      Privacy Commissioner
 
-                  SGD.                                                SGD.  
+   SGD.                                                SGD.  
      LEANDRO ANGELO Y. AGUIRRE                               NERISSA N. DE JESUS  
        Deputy Privacy Commissioner                         Deputy Privacy Commissioner
 
-## Footnotes
-
-[^1]: See: International Telecommunication Union, Recommendation ITU-T X.1251, A framework for user control of digital identity, "3.2.3 digital identity: The digital representation of the information known about a specific individual, group or organization", available at https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619 (last accessed 5 July 2023) and United Nations Conference on Trade and Development, Policy Brief No. 96, March 2022, Digital identity refers to the set of electronically captured and stored attributes and credentials used to uniquely identify a person, which can include biographic data (e.g. name and date of birth), biometric data (e.g. fingerprints and facial features) and/or government-issued identification, available at: https://unctad.org/system/files/official-document/presspb2022d4_en.pdf (last accessed 5 July 2023).
+[^1]: International Telecommunication Union, Recommendation ITU-T X.1251, A framework for user control of digital identity, "3.2.3 digital identity: The digital representation of the information known about a specific individual, group or organization", available at https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619 (last accessed 5 July 2023) and United Nations Conference on Trade and Development, Policy Brief No. 96, March 2022, Digital identity refers to the set of electronically captured and stored attributes and credentials used to uniquely identify a person, which can include biographic data (e.g. name and date of birth), biometric data (e.g. fingerprints and facial features) and/or government-issued identification, available at: https://unctad.org/system/files/official-document/presspb2022d4_en.pdf (last accessed 5 July 2023).
 
 ## Source And Notes
 - Companion note: [[notes/2023/guidelines-on-identification-cards|Analysis and metadata]]

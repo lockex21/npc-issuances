@@ -1,11 +1,17 @@
 ---
 title: "NPC 21-054: RGC v. JK Incorporated and Recovery, Inc."
-description: "RGC v. JK Incorporated & Recovery Inc., NPC 21 -054, Order to Comment dated 23 June 2021, at p."
+description: "Complaint alleging unauthorized disclosure of personal information through calls and Facebook messages by debt collection agency employee; case resolved."
+aliases:
+  - "NPC 21-054"
+  - "npc 21-054"
+  - "RGC v. JK Incorporated and Recovery, Inc."
+  - "rgc v. jk incorporated and recovery, inc."
 tags:
   - "decision"
   - "type/decision"
-  - "year/2022"
+  - "year/2021"
   - "npc-case"
+date: "2022-09-22"
 draft: false
 ---
 
@@ -23,13 +29,12 @@ draft: false
 - Personal Information Processor
 
 ## Decision Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 RGC
 
 Complainant,
 
--versus -
+-versus-
 
 JK INCORPORATED & RECOVERY , INC.
 
@@ -37,7 +42,7 @@ Respondent.
 
 x----------------------------------------------------x
 
-NAGA , P.C.;
+NAGA, P.C.;
 
 Before this Commission is a Complaint filed by RGC against JK
 
@@ -47,11 +52,11 @@ violations of Republic Act No. 10173 or the Data Privacy Act of 2012
 
 (DPA).
 
-Facts
+### Facts
 
-On 19 March 202 1, the Commission, through its Complaints and
+On 19 March 2021, the Commission, through its Complaints and
 
-Investigation Division (CID) , received RGC Complaint s-Assisted
+Investigation Division (CID), received RGC Complaints-Assisted
 
 Form dated 25 February 2021 (CAF) .1 RGC alleged:
 
@@ -63,29 +68,25 @@ friends at around 11 AM on Facebook disclosing [that I have] an
 
 obligation [with] them. 2
 
-To support his claim , RGC attached a screenshot of a message
+To support his claim, RGC attached a screenshot of a message
 
 purportedly from MS :
 
-> 1
 
-Complaint s-Assisted Form dated 25 February 2021 of RGC .
 
-> 2
+Complaints-Assisted Form dated 25 February 2021 of RGC .
+
+
 
 Id . at p. 3.
 
-NPC 21 -054
 
-For: Violation of the
 
 Data Privacy Act of
 
-2012 NPC 21 -054
+2012 NPC 21-054
 
-RGC vs. JK Incorporated & Recovery Inc.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Good Day! may we ask for your assistance regarding one of your
 
@@ -93,7 +94,7 @@ friend/colleague/relative of RGC to relay to the person to
 
 coordinate with us the soonest time possible likewise, the person
 
-may refer to all our c ontact details indicated herewith. Thanks
+may refer to all our contact details indicated herewith. Thanks
 
 and hoping for your urgent feedback. Please look for any officer
 
@@ -137,53 +138,51 @@ attached to the CAF “does not mention of any obligation which the
 
 Complainant alleged.” 12 JK Incorporated also stated that RGC claims
 
-> 3
+
 
 Complaints -Assisted Form dated 25 February 2021 of RGC , See Annex “A”,
 
 Screenshot of the Message from MS .
 
-> 4
+
 
 Complaints -Assisted Form dated 25 February 2021 of RGC , at p. 4.
 
-> 5
+
 
 Id. at p. 3.
 
-> 6
+
 
 Id ., at p. 5.
 
-> 7
 
-RGC v. JK Incorporated & Recovery Inc., NPC 21 -054, Order to Comment dated 23 June 2021, at p.
+
+RGC v. JK Incorporated & Recovery Inc., NPC 21-054, Order to Comment dated 23 June 2021, at p.
 
 1.
 
-> 8
+
 
 Id.
 
-> 9
+
 
 Comment with Affirmative Defense/s dated 08 July 2021 of JK Incorporated & Recovery Inc.
 
-> 10
+
 
 Id, ¶ 2.
 
-> 11
+
 
 Id. ¶ 3.
 
-> 12
 
-Id. ¶ 4. NPC 21 -054
 
-RGC vs. JK Incorporated & Recovery Inc.
+Id. ¶ 4. NPC 21-054
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+
 
 about his relatives being contacted regarding his obligation is but a
 
@@ -231,53 +230,51 @@ RGC filed his Memorandum dated 25 October 2021, alleging that in
 
 the loan being approved for three (3) years in a row .21 RGC alleged that
 
-> 13
+
 
 Comment with Affirmative Defense/s dated 15 July 2021 of JK Incorporated & Recovery Inc., ¶
 
 4.
 
-> 14
+
 
 Id. ¶ 5.
 
-> 15
 
-RGC v. JK Incorporated & Recovery Inc., NPC 21 -054, Order to Comment dated 12 July 2021, at p.
+
+RGC v. JK Incorporated & Recovery Inc., NPC 21-054, Order to Comment dated 12 July 2021, at p.
 
 1.
 
-> 16
+
 
 Id.
 
-> 17
+
 
 Application for Mediation da ted 09 September 2022 of RGC and Application for Mediation of JK
 
 Incorporated & Recovery Inc. dated 09 September 2022 .
 
-> 18
 
-RGC v. JK Incorporated & Recovery Inc., NPC 21 -054, Order to Mediated dated 09 September 2022,
+
+RGC v. JK Incorporated & Recovery Inc., NPC 21-054, Order to Mediated dated 09 September 2022,
 
 at p. 1.
 
-> 19
+
 
 Id.
 
-> 20
+
 
 Id.
 
-> 21
 
-Memorandum (Complainant) dated 25 October 2021, ¶ 5. NPC 21 -054
 
-RGC vs. JK Incorporated & Recovery Inc.
+Memorandum (Complainant) dated 25 October 2021, ¶ 5. NPC 21-054
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
 
 during his application and the credit investigation, “the bank never
 
@@ -335,22 +332,19 @@ the transaction .30 RGC claimed that after informing JK Inco rporated,
 
 “the message was suddenly ‘unsent ’.”31
 
-> 22 Id, ¶ 5.
-> 23 Id, ¶ 6.
-> 24 Id ,¶ 7.
-> 25 Memorandum (Complainant) dated 25 October 2021 ,¶ 8.
-> 26 Id ,¶ 9.
-> 27 Id ,¶ 10.
-> 28 Id , ¶ 11.
-> 29 Memorandum (Complainant) dated 25 October 2021, ¶ 13.
-> 30 Id.
-> 31 Id.
 
-NPC 21 -054
 
-RGC vs. JK Incorporated & Recovery Inc.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+
+
+
+
+
+
+
+
+
+
 
 RGC Memorandum provided the following pieces of evidence: 1) a
 
@@ -396,65 +390,63 @@ JK Incorporated posited that instead of settling the obligation, RGC
 
 filed the subject Complaint against it .45
 
-> 32
+
 
 Memorandum (Complainant) dated 25 October 2021, Annex “A” .
 
-> 33
+
 
 Id , ¶ Annex “B”.
 
-> 34
+
 
 Id , ¶ Annex “C”.
 
-> 35
+
 
 Id , ¶ 20.
 
-> 36
+
 
 Memorandum ( Complainant) dated 25 October 2021 , ¶ 22.
 
-> 37
+
 
 Id , ¶ 28.
 
-> 38
+
 
 Id , at p. 2.
 
-> 39
+
 
 Id.
 
-> 40
+
 
 Memorandum of the Respondent dated 29 October 2021, at p. 3.
 
-> 41
+
 
 Id.
 
-> 42
+
 
 Id.
 
-> 43
+
 
 Id.
 
-> 44
+
 
 Memorandum of the Resp ondent dated 29 October 2021, at p. 3.
 
-> 45
 
-Complaints -Assisted Form dated 25 February 2021 of RGC .NPC 21 -054
 
-RGC vs. JK Incorporated & Recovery Inc.
+Complaints -Assisted Form dated 25 February 2021 of RGC .NPC 21-054
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
 
 It argued that RGC failed to state a cause of action since the complaint
 
@@ -494,7 +486,7 @@ Issue s
 
 Whet her JK Incorporated committed a violation of the DPA.
 
-Discussion
+### Discussion
 
 The Commission dismisses the Complaint.
 
@@ -506,18 +498,15 @@ Incorporated to collect outstanding obligations. Indeed, in his CAF,
 
 RGC mentions that JK Incorporated was an accredited agency of PS
 
-> 46 Memorandum of the Respondent dated 29 October 2021, at p. 4.
-> 47 Id , at p. 7.
-> 48 Id .
-> 49 Id.
-> 50 Memorandum of the Respondent dated 29 October 2021, at p. 9.
-> 51 Id , at p. 10.
 
-NPC 21 -054
 
-RGC vs. JK Incorporated & Recovery Inc.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+
+
+
+
+
+
 
 Bank. 52 Rather, he specifically claims that JK Incorporated’s act of
 
@@ -583,27 +572,25 @@ Thus, though skip tracing is not prohibited, the practice still ha s to
 
 comply with the DPA.
 
-> 52
+
 
 Complaints -Assisted Form dated 25 February 2021 of RGC , at p. 3.
 
-> 53
+
 
 Memorandum (Complainant) dated 25 October 2021, ¶¶ 21 -24.
 
-> 54
+
 
 Id , ¶ 11.
 
-> 55
+
 
 National Privacy Commission Advisory Opinion 2018 -059, Skip tracing and probing of contact
 
-details through the internet and third parties, (4 October 2018). NPC 21 -054
+details through the internet and third parties, (4 October 2018). NPC 21-054
 
-RGC vs. JK Incorporated & Recovery Inc.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Second , f or complaints before the Commission to prosper, the burden
 
@@ -667,16 +654,13 @@ the facts upon which his accusations are based. The respondent is not
 
 even obliged to prove his exception or defense. ”59
 
-> 56 De Jesus v. Guerrero III , G.R. No. 171491, 04 September 2009.
-> 57 Id.
-> 58 Memorandum (Complainant) dated 25 October 2021, Annex “A”.
-> 59 National Bureau of Investigation v. Najera , G.R. No. 237522 (Resolution), 30 June 2020 .
 
-NPC 21 -054
 
-RGC vs. JK Incorporated & Recovery Inc.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+
+
+
+
 
 Taken all together, RGC pieces of evidence were not sufficient to prove
 
@@ -738,16 +722,13 @@ Here , JK Incorporated’s message to RMC was straightforward in its
 
 purpose, which was to ask for assistance in contacting RGC in order
 
-> 60 Data Privacy Act of 2012, chapter III, § 11. See also National Privacy Commission, Implementing
+
 > Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18 (2016) (IRR of the DPA).
-> 61 See Memorandum of the Respondent dated 29 October 2021, at p. 3; Memorandum
+
 > (Complainant) dated 25 October 2021, ¶ 10.
 
-NPC 21 -054
 
-RGC vs. JK Incorporated & Recovery Inc.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 for him to coordinate with JK Incorporated. In fact, the message did
 
@@ -811,14 +792,11 @@ years and a fine of not less than Five hundred thousand pesos
 
 (Php500,000.00) but not more than Two million pesos
 
-> 62 Memorandum (Complainant) dated 25 October 2021, ¶ 8.
-> 63 Id , ¶ 21 .
 
-NPC 21 -054
 
-RGC vs. JK Incorporated & Recovery Inc.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+
+
 
 (Php2,000,000.00) sha ll be imposed on persons who knowingly
 
@@ -880,7 +858,7 @@ platform to access his contacts , much more that it did so know ingly
 
 and unlawfully .
 
-> 64
+
 
 An Act Protecting Individual Personal Information in Information and Communications Systems
 
@@ -890,21 +868,19 @@ Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 
 
 VIII, § 29 (2012).
 
-> 65
+
 
 NPC 18 -109, 01 June 2021.
 
-> 66
+
 
 Facebook Privacy Policy, 9 September 2016, See “ What kinds of information do we collect”.
 
-> 67
 
-Id , See “ How can I manage or delete information about me”. NPC 21 -054
 
-RGC vs. JK Incorporated & Recovery Inc.
+Id , See “ How can I manage or delete information about me”. NPC 21-054
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
 
 On the contrary, JK Incorporated stated that it was able to message
 
@@ -964,17 +940,14 @@ Section 31 (Malicious
 
 Disclosure) of the DPA.
 
-> 68 Memorandum of the Respondent dated 29 October 2021, at p. 3.
-> 69 Id.
-> 70 Id , at p. 7.
-> 71 NPC Advisory Opinion 2018 -059, Skip tracing and probing of contact details through the
+
+
+
+
 > internet and third parties, (4 October 2018). See, DPA definition of processing in footnote.
 
-NPC 21 -054
 
-RGC vs. JK Incorporated & Recovery Inc.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 RGC alleged that JK Incorporated violated Section 31 of the DPA since
 
@@ -1036,11 +1009,11 @@ information controller may outsource the processing of personal
 
 data pertaining to a data subject.
 
-> 72
+
 
 Memorandum (Complainant) dated 25 October 2021, ¶ 24.
 
-> 73
+
 
 An Act Protecting Individual Personal Information in Information and Communications Systems
 
@@ -1050,17 +1023,15 @@ Commission, and for O ther Purposes [Data Privacy Act of 2012], Republic Act No.
 
 VIII, § 31 (2012).
 
-> 74
+
 
 NPC 21 -015, 03 February 2022
 
-> 75
 
-Memorandum of the Respondent dated 29 October 2021, at p. 2. NPC 21 -054
 
-RGC vs. JK Incorporated & Recovery Inc.
+Memorandum of the Respondent dated 29 October 2021, at p. 2. NPC 21-054
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
 
 As PS Bank’s collect ing agen t, JK Incorporated may be considered a
 
@@ -1120,16 +1091,13 @@ bad faith, it “implies a conscious an d intentional design to do a
 
 wrongful act for a dishonest purpose or some moral obliquity.” 79
 
-> 76 Complaints -Assisted Form dated 25 February 2021 of RGC ,at p. 3.
-> 77 Id . Annex A
-> 78 Delgado v. HRET , G.R. No. 219603, 26 January 2016.
-> 79 Montinola vs. Philippine Airlines , G.R. No. 198656, 8 September 2014.
 
-NPC 21 -054
 
-RGC vs. JK Incorporated & Recovery Inc.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+
+
+
+
 
 Here, RGC failed to adduce sufficient proof that JK Incorporated acted
 
@@ -1193,13 +1161,11 @@ did not violate Section 31 of the DPA since not all the elements for
 
 Malicious Disclosure are present.
 
-> 80
 
-See Memorandum of the Respondent dated 29 October 2021, at p. 3 .NPC 21 -054
 
-RGC vs. JK Incorporated & Recovery Inc.
+See Memorandum of the Respondent dated 29 October 2021, at p. 3 .NPC 21-054
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
 
 After scrutinizing the evidence and arguments of both parties, the
 
@@ -1207,27 +1173,23 @@ Commission cannot find that JK Incorporated committed a privacy
 
 viola tion under the DPA.
 
-WHEREFORE, premises considered, th is Commission resolves that
+**WHEREFORE**, premises considered, th is Commission resolves that
 
 the Complaint filed by RGC against JK Incorporated & Recovery, Inc.
 
 is hereby DISMISSED .
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines .
 
 22 September 2022.
-
-Sgd.
 
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
 I CONCUR:
-
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -1245,9 +1207,8 @@ Respondent
 
 JTF
 
-Counsel for Respondent NPC 21 -054
+Counsel for Respondent NPC 21-054
 
-RGC vs. JK Incorporated & Recovery Inc.
 
 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 

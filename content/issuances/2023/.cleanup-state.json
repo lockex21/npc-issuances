@@ -1,5 +1,38 @@
 {
-  "files": {
-    "guidelines-on-consent.md": { "status": "done", "processed_at": "2026-03-25T10:00:00" }
+  "data-privacy-competency-program.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T00:00:00Z"
+  },
+  "faq-guidelines-on-legitimate-interest.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T00:00:00Z"
+  },
+  "guidelines-on-consent.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T00:00:00Z"
+  },
+  "guidelines-on-deceptive-design-patterns.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T00:00:00Z"
+  },
+  "guidelines-on-identification-cards.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T00:00:00Z"
+  },
+  "guidelines-on-legitimate-interest.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T00:00:00Z"
+  },
+  "faq-prerequisites-for-the-philippine-privacy-mark-certification-program.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T00:00:00Z"
+  },
+  "faq-security-of-personal-data-in-the-government-and-the-private-sector.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T00:00:00Z"
+  },
+  "schedule-of-fees-and-charges-of-the-national-privacy-commission.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T00:00:00Z"
   }
 }

@@ -1,11 +1,17 @@
 ---
 title: "NPC 18-010: RLA v. PLDT Enterprise"
-description: "Complaint by RLA against PLDT Enterprise for unauthorized disclosure of personal information in White Pages without consent; Commission found violation of Sections 28 and 32 of the Data Privacy Act and awarded nominal damages."
+description: "Complaint alleging unauthorized disclosure of personal information in White Pages without consent; Commission found violations of Sections 28 and 32 of the Data Privacy Act, awarded nominal damages of P50,000, and remanded case for investigation of responsible officers."
+aliases:
+  - "NPC 18-010"
+  - "npc 18-010"
+  - "RLA v. PLDT Enterprise"
+  - "rla v. pldt enterprise"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2016"
+  - "year/2018"
   - "npc-case"
+date: "2020-12-17"
 draft: false
 ---
 
@@ -29,29 +35,23 @@ draft: false
 
 ## Decision Text
 
-**RLA,**
+RLA,
 
 Complainant,
 
-**versus**
+-versus-
 
-**NPC 18-010**
-
-(Formerly CID Case No. 18-D-010)
-
-For: Violation of the Data Privacy Act
-
-**PLDT ENTERPRISE,**
+PLDT Enterprise,
 
 Respondent.
 
-x-------------------------------x
+x----------------------------------------------------x
 
-**LIBORO, P.C.:**
+LIBORO, P.C.:
 
 Before this Commission is a Complaint filed by RLA (Complainant) against Respondent PLDT Enterprise (PLDT) for violation of the Data Privacy Act of 2012 ("DPA" or "Data Privacy Act") when it published the Complainant's personal information in its White Pages without the consent of the Complainant.
 
-### These Proceedings
+### Facts
 
 Complainant alleged that he was a regular employee of Knutsen Philippines, Inc. (Knutsen) and that he was provided a PLDT Digital Subscriber Line (DSL) subscription as part of his employment package. Further, that on 12 January 2016, he filled out a PLDT DSL subscription application form that was submitted to Respondent to activate the DSL facility installed at his then residence at Las Piñas City.[^1]
 
@@ -123,7 +123,7 @@ d. Section 32 for Unauthorized Disclosure, when Complainant's personal informati
 
 Complainant prayed for actual damages representing the cost of their several relocations to safeguard their welfare and for moral damages representing the mental anguish, fright, anxiety, sleepless nights, and emotional stress caused to the Complainant for jeopardizing the safety of his family due to the disclosure of their exact address.
 
-### Issues
+### Issue
 
 Whether PLDT violated Sections 28, 29, 30, and 32 of the Data Privacy Act of 2012 in publishing Complainant's personal information in its White Pages without the consent of the Complainant.
 
@@ -199,49 +199,38 @@ As provided by the Supreme Court, in the case of *Areola v. Court of Appeals*:[^
 
 Since no present loss of any kind, substantial injury, or actual damages have been proved by Complainant, this Commission awards the nominal damages of Fifty Thousand Pesos (P50,000.00) to the Complainant.
 
-### Dispositive Portion
-
-**WHEREFORE**, all these premises considered, this Commission resolves to **AWARD** Complainant, RLA, nominal damages in the amount of Fifty Thousand Pesos (P50,000.00) for Respondent PLDT Enterprise's violation of Complainant's rights under the Data Privacy Act.
+WHEREFORE, all these premises considered, this Commission resolves to **AWARD** Complainant, RLA, nominal damages in the amount of Fifty Thousand Pesos (P50,000.00) for Respondent PLDT Enterprise's violation of Complainant's rights under the Data Privacy Act.
 
 Moreover, this Commission resolves to **REMAND** this case to the Complaints and Investigation Division for the limited purpose of determining and identifying the responsible persons, officers, or individuals of PLDT Enterprise who caused the violations of Sections 28 and 32 of the DPA prior to recommending the matter to the Secretary of Justice for criminal prosecution.
 
 **SO ORDERED.**
 
-Pasay City, Philippines;
+Pasay City, Philippines. 17 December 2020
 
-17 December 2020
-
----
-
-**(Sgd.)**
-
-**RAYMUND ENRIQUEZ LIBORO**
-
+RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
 WE CONCUR:
 
-**(Sgd.) (Sgd.)**
+LEANDRO ANGELO Y. AGUIRRE
+Deputy Privacy Commissioner
 
-**LEANDRO ANGELO Y. AGUIRRE                 JOHN HENRY D. NAGA**
-
-Deputy Privacy Commissioner                    Deputy Privacy Commissioner
+JOHN HENRY D. NAGA
+Deputy Privacy Commissioner
 
 Copy furnished:
 
 RLA
-
 Complainant
 
-PLDT INC.
-
+PLDT Inc.
 Respondent
-
 Chief Data Privacy Officer
 
 COMPLAINTS AND INVESTIGATION DIVISION
-
 ENFORCEMENT DIVISION
+GENERAL RECORDS UNIT
+NATIONAL PRIVACY COMMISSION
 
 [^1]: Fact-Finding Report dated 13 October 2020.
 [^2]: Republic Act No. 10173, Section 3 (g).

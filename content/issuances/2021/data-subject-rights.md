@@ -1,16 +1,17 @@
 ---
-title: "Data Subject Rights (Advisory No. 2021-01)"
-description: "WHEREAS, the right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution emphasizes that the State values the..."
 aliases:
-  - "Advisory No. 2021-01"
-  - "advisory no. 2021-01"
-  - "data subject rights"
-  - "npc advisory no. 2021-01"
-tags:
-  - "issuance"
-  - "type/advisory"
-  - "year/2021"
+- Advisory No. 2021-01
+- advisory no. 2021-01
+- data subject rights
+- npc advisory no. 2021-01
+date: '2021-01-29'
+description: "Data Subject Rights."
 draft: false
+tags:
+- issuance
+- type/advisory
+- year/2021
+title: "Data Subject Rights (Advisory No. 2021-01)"
 ---
 
 
@@ -71,7 +72,7 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
       provided, that any request containing information sufficient to process such request
       should be acted upon even if a standard form is not used.
 
-       Refer to Annexes A, B, and C for the sample forms for the right to access, rectification,
+   Refer to Annexes A, B, and C for the sample forms for the right to access, rectification,
        and erasure, respectively, which may be modified according to the needs of PICs.
 
    B. Verification of the identity of the requesting party. The PIC shall use reasonable measures
@@ -80,38 +81,38 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
       requesting party, ensuring that the requested information is only to the extent
       necessary to confirm such identity.
 
-          1. For persons requesting for and on behalf of another, the PIC may request for
+   1. For persons requesting for and on behalf of another, the PIC may request for
              evidence of proper authorization and supporting documents to validate the
              authority and identity of the representative as well as to confirm the identity of the
              requesting party; and
 
-          2. For the legal heirs and assigns of the data subject invoking the transmissibility of
+   2. For the legal heirs and assigns of the data subject invoking the transmissibility of
              the right of the data subject, the PIC may require the following documents for
              verification purposes:
 
-              a) Death Certificate of the data subject;
+   a) Death Certificate of the data subject;
               b) Birth Certificate of the legal heirs and assigns; and
               c) Other supporting documents to validate the authority and identity of the
                  representative as well as to confirm the identity of the requesting party.
 
-          3. For organizations requesting on behalf of its members, the PIC may request for
+   3. For organizations requesting on behalf of its members, the PIC may request for
              evidence on proper authorization, supporting documents to validate the
              membership of the data subject in the organization and the authority of the
              organization to file on behalf of the affected data subjects: provided, that all its
              members are affected data subjects.^[5]
 
-     C. Assistance of PIPs. PICs shall ensure, by contractual or other reasonable means, that the
+   C. Assistance of PIPs. PICs shall ensure, by contractual or other reasonable means, that the
         PIPs it has engaged to process personal data on its behalf shall cooperate and
         coordinate with the PIC in addressing any requests for the exercise of data subject
         rights.
 
-    D. Fees and charges. Generally, PICs shall not charge any fee to fulfill the exercise of data
+   D. Fees and charges. Generally, PICs shall not charge any fee to fulfill the exercise of data
        subject rights. As an exception, where data subjects request copies of their personal
        data and the other information in exercising their right to access, the PIC may require
        reasonable fees to cover administrative costs: provided, that fees imposed shall not be
        so exorbitant or excessive as to have the effect of discouraging such requests.
 
-    E. Reasonable period for complying with the request. The PIC must comply with requests
+   E. Reasonable period for complying with the request. The PIC must comply with requests
        without undue delay: provided, that the period will not exceed thirty (30) working days
        after receipt of the request and/or the necessary supporting or additional
        documentation: provided further, that if a request is complex or numerous, compliance
@@ -119,12 +120,12 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
        working days: provided finally, that the data subject or his or her authorized
        representative is notified of the reason for the extension.
 
-         For government agencies, the pertinent provisions of Republic Act No. 11032 or the
+   For government agencies, the pertinent provisions of Republic Act No. 11032 or the
          Ease of Doing Business and Efficient Government Service Delivery Act of 2018 and its
          Implementing Rules and Regulations shall apply in responding and complying with
          requests of data subjects.
 
-     F. Retention. PICs shall not retain personal data for the sole purpose of making it available
+   F. Retention. PICs shall not retain personal data for the sole purpose of making it available
         for potential future requests for the right to access or data portability. Personal data
         shall be retained only for as long as necessary for the fulfillment of the purposes for
         which the data was obtained.
@@ -133,46 +134,46 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
 
 **SECTION 6.** ***Right to be Informed.*** The data subject has the right to be informed whether personal data pertaining to him or her shall be, are being, or have been processed, including the existence of automated decision-making and profiling.
 
-    A. PICs shall notify and furnish data subjects with information indicated below before
+   A. PICs shall notify and furnish data subjects with information indicated below before
        their personal data is processed, or at the next practical opportunity:
 
-         1. Description of the personal data to be entered into the system;
+   1. Description of the personal data to be entered into the system;
 
-         2. Purposes for which they are being or will be processed, including processing for
+   2. Purposes for which they are being or will be processed, including processing for
             direct marketing, profiling, or historical, statistical, or scientific purpose;
 
-         3. Basis of processing, when processing is not based on the consent of the data subject;
+   3. Basis of processing, when processing is not based on the consent of the data subject;
 
-         4. Scope and method of the personal data processing;
+   4. Scope and method of the personal data processing;
 
-         5. The recipients or classes of recipients to whom the personal data are or may be
+   5. The recipients or classes of recipients to whom the personal data are or may be
             disclosed;
 
-         6. Methods utilized for automated access, if the same is allowed by the data subject,
+   6. Methods utilized for automated access, if the same is allowed by the data subject,
             and the extent to which such access is authorized, including meaningful
             information about the logic involved, as well as the significance and the envisaged
             consequences of such processing for the data subject;
 
-         7. The identity and contact details of the personal information controller and its
+   7. The identity and contact details of the personal information controller and its
             representative;
 
-         8. The period for which the information will be stored or retained; and
+   8. The period for which the information will be stored or retained; and
 
-         9. The existence of their rights as data subjects.
+   9. The existence of their rights as data subjects.
 
-    B. The “next practical opportunity” depends upon the surrounding circumstance of the
+   B. The “next practical opportunity” depends upon the surrounding circumstance of the
        case. However, the timing of the provision of information must always be within a
        reasonable period to give effect to the data subject’s right to be informed.^[6]
 
-    C. A privacy notice is an embodiment of the observance or demonstration of the data
+   C. A privacy notice is an embodiment of the observance or demonstration of the data
        privacy principle of transparency and upholding the right to information of data
        subjects. It is a statement made to data subjects that describes how the organization
        collects, uses, retains, and discloses personal information.^[7]
 
-         Information provided to a data subject must always be in clear and plain language to
+   Information provided to a data subject must always be in clear and plain language to
          ensure that they are easy to understand and access.
 
-         1. Language. Whether a privacy notice is communicated verbally or in writing, best
+   1. Language. Whether a privacy notice is communicated verbally or in writing, best
             practices for clear and plain language must be observed. This does not, however,
             mean that the requirement to use clear and plain language necessitates using
                layman’s terms in place of technical words at the risk of not capturing the complex
@@ -181,7 +182,7 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
                Complex sentence structures and equivocal wordings that may be subject to
                different interpretations should be avoided.^[8]
 
-          2. Form. The DPA does not dictate the form and method of how PICs should inform
+   2. Form. The DPA does not dictate the form and method of how PICs should inform
              its data subjects. Nonetheless, in crafting privacy notices, PICs should consider
              when it is provided, how it is delivered, how it is communicated, and how choices
              are provided. PICs may likewise consider adopting multilayered privacy notices
@@ -190,7 +191,7 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
              of information provided in a specific notice layer must be appropriate for the
              respective context.^[9]
 
-     D. A privacy notice is not equivalent to consent. While consent may not be required in
+   D. A privacy notice is not equivalent to consent. While consent may not be required in
         certain instances when it is not relied on as basis for processing personal data, a
         privacy notice is required at all times in order for data subjects to be informed of the
         processing of their personal data and their rights as data subjects.
@@ -198,21 +199,21 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
 SECTION 7. Right to Object. — The data subject shall have the right to object to the
 processing of his or her personal data where such processing is based on consent or legitimate interest.^[10]
 
-     A. In case of any significant change or amendment to the information provided to the
+   A. In case of any significant change or amendment to the information provided to the
         data subject in a consent form, privacy notice, or similar communication, the data
         subject shall be notified and given an opportunity to object and/or withdraw consent,
         if consent was previously given for such personal data processing.
 
-          For this purpose, a significant change or amendment shall include changes in the
+   For this purpose, a significant change or amendment shall include changes in the
           identity of the PIC, the purpose/s of processing, scope and method of processing, and
           other analogous instances.
 
-     B. Data subjects have the right to object to the processing of his or her personal data for
+   B. Data subjects have the right to object to the processing of his or her personal data for
         direct marketing, profiling, or in cases of automated processing where the personal
         data will, or is likely to, be made as the sole basis for any decision that significantly
         affects or will affect him or her.
 
-          For this purpose, data subjects shall be provided by PICs in clear and easy to
+   For this purpose, data subjects shall be provided by PICs in clear and easy to
           understand language with adequate information on the effect of the exercise of this
           right vis-à-vis the provision of goods and/or services by the PIC to the data subject.
           Said information that will be communicated to the data subjects should indicate the
@@ -225,7 +226,7 @@ processing of his or her personal data where such processing is based on consent
       comply with the objection, unless the processing falls under any other allowable
       instances pursuant to in Sections 12 or 13, other than consent and legitimate interest.
 
-      Should there be other grounds to continue processing the personal data, the PIC shall
+   Should there be other grounds to continue processing the personal data, the PIC shall
       have the burden of determining and proving the appropriate lawful basis or
       compelling reason to continue such processing. The PIC shall communicate and
       inform the data subject of said lawful basis or compelling reason to continue
@@ -237,7 +238,7 @@ processing of their personal data shall be subject to the following guidelines:
    A. A data subject has the right to obtain confirmation on whether or not data relating to
       him or her are being processed, as well as information about any of the following:
 
-      1. Contents of his or her personal information and categories of data that were
+   1. Contents of his or her personal information and categories of data that were
           processed;
       2. Sources from which personal information were obtained, if the data was not
           collected from the data subject;
@@ -260,33 +261,33 @@ processing of their personal data shall be subject to the following guidelines:
 
    C. The following instances, where applicable, may limit the right to access:
 
-      1. Publicly available information. If an existing law or regulation requires PICs to make
+   1. Publicly available information. If an existing law or regulation requires PICs to make
          the personal data available to the public, the PIC has the discretion on whether to
          comply with the request or to direct the requesting party to where such
          information may be found or accessed. However, access to the other information
          in Section 8(A) should still be provided to the data subject where that specific
          information is not publicly available.
 
-       2. Repeated requests. The PIC may decide not to comply with repeated, identical, or
+   2. Repeated requests. The PIC may decide not to comply with repeated, identical, or
           similar requests if such request for access has been previously granted unless a
           reasonable interval of time from the previous request has elapsed.
 
-           The determination of what constitutes a reasonable interval of time shall depend
+   The determination of what constitutes a reasonable interval of time shall depend
            on the nature of the request, considering any changes or updates in the personal
            data and/or the other information in Section 8(A) from the time of the previous
            request.
 
-       3. Requests which will entail disproportionate effort. After reasonable evaluation, if the
+   3. Requests which will entail disproportionate effort. After reasonable evaluation, if the
           request for access would result in a disproportionate amount of effort or resources,
           the PIC may refuse to comply with the request.
 
-           The determination of what constitutes disproportionate effort may be made on the
+   The determination of what constitutes disproportionate effort may be made on the
            basis of the particular circumstances of the request. Factors to consider may
            include the availability of the information, the need for extraordinary measures to
            retrieve the information, the purpose of the request, and the necessity and benefit
            of the requested information to the data subject.
 
-       4. Consideration of the safety of the data subject. In exceptional cases and subject to any
+   4. Consideration of the safety of the data subject. In exceptional cases and subject to any
           applicable ethical guidelines, limitations on the right to access may apply if,x in
           the professional evaluation and determination of the PIC, providing access to the
           requested information may cause serious harm to the physical, mental, or
@@ -297,7 +298,7 @@ or error in his or her personal data and have the PIC correct the same within a 
 
    A. If the personal data has been corrected, the PIC shall:
 
-       1. Ensure the accessibility of both the new and the retracted information, and the
+   1. Ensure the accessibility of both the new and the retracted information, and the
           simultaneous receipt of the new and the retracted information by the intended
           recipients; and
        2. Inform the recipients or third parties who have previously received such personal
@@ -318,7 +319,7 @@ or error in his or her personal data and have the PIC correct the same within a 
       particular circumstances of the request. A request may be considered as such when it
       is made with no real purpose other than to harass, cause annoyance, or hamper the
 
-       delivery and performance of service.
+   delivery and performance of service.
 
 SECTION 10. Right to Erasure or Blocking. — A data subject has the right to request for the
 suspension, withdrawal, blocking, removal, or destruction of his or her personal data from the PIC’s filing system, in both live and back-up systems.
@@ -326,7 +327,7 @@ suspension, withdrawal, blocking, removal, or destruction of his or her personal
    A. This right may be exercised upon discovery and substantial proof of any of the
       following:
 
-       1. The personal data is:
+   1. The personal data is:
           a) incomplete, outdated, false, or unlawfully obtained;
           b) used for an unauthorized purpose;
           c) no longer necessary for the purpose/s for which they were collected; or
@@ -334,27 +335,27 @@ suspension, withdrawal, blocking, removal, or destruction of his or her personal
              justified by freedom of speech, of expression, or of the press, or otherwise
              authorized;
 
-       2. The data subject objects to the processing, and there are no other applicable lawful
+   2. The data subject objects to the processing, and there are no other applicable lawful
           criteria for processing;
 
-       3. The processing is unlawful; or
+   3. The processing is unlawful; or
 
-       4. The PIC or PIP violated the rights of the data subject.
+   4. The PIC or PIP violated the rights of the data subject.
 
    B. PICs should judiciously evaluate requests for the exercise of the right to erasure or
       blocking.
 
-       1.   Approval of Request. When a request for erasure or blocking is made on any of the
+   1.   Approval of Request. When a request for erasure or blocking is made on any of the
             following grounds, the PIC is directed to grant such request:
 
-            a) Unlawful processing;
+   a) Unlawful processing;
             b) Used for unauthorized purposes; or
             c) Violation of data subject rights
 
-       2.   Denial of Request. A request for erasure or blocking may be denied, wholly or
+   2.   Denial of Request. A request for erasure or blocking may be denied, wholly or
             partly, when personal data is still necessary in any of the following instances:
 
-            a) Fulfillment of the purpose/s for which the data was obtained;
+   a) Fulfillment of the purpose/s for which the data was obtained;
             b) Compliance with a legal obligation which requires personal data processing;
             c) Establishment, exercise, or defense of any legal claim;
             d) Legitimate business purposes of the PIC, consistent with the applicable
@@ -369,48 +370,48 @@ suspension, withdrawal, blocking, removal, or destruction of his or her personal
                      circumstances where data subjects can reasonably expect further
                      processing.
 
-              f) As may be provided by any existing law, rules, and regulations.
+   f) As may be provided by any existing law, rules, and regulations.
 
-    C. PICs shall inform the recipients or third parties who have previously received such
+   C. PICs shall inform the recipients or third parties who have previously received such
        personal data of the fact of erasure. PICs shall likewise inform the data subject about
        such recipients of his or her personal data.
 
-    D. Where personal data that is the subject of a request for erasure is publicly available,
+   D. Where personal data that is the subject of a request for erasure is publicly available,
        i.e. online, reasonable and appropriate measures shall be taken by the PIC to
        communicate with other PICs, including third party indexes, and request them to
        erase copies or remove or de-list search results or links to the pertinent personal data.
        In determining what is reasonable and appropriate, the available technology and the
        cost of implementation shall be considered.
 
-    E. Data subjects must be adequately informed of the consequences of the erasure of their
+   E. Data subjects must be adequately informed of the consequences of the erasure of their
        personal data.
 
 Section 11. Right to Data Portability. — The data subject shall have the right to obtain from the PIC a copy of his or her personal data and/or have the same transmitted from one PIC to another, in an electronic or structured format that is commonly used and allows further use by the data subject.
 
-    A. For the exercise of this right, the following conditions must concur:
+   A. For the exercise of this right, the following conditions must concur:
 
-         1. Processing is based on consent or contract; and
+   1. Processing is based on consent or contract; and
          2. Personal data is processed by electronic means and in a structured and commonly
             used format.
 
-    B. Data portability shall be limited to the personal data concerning the data subject, and
+   B. Data portability shall be limited to the personal data concerning the data subject, and
        which he or she has provided to the PIC:11
 
-         1. Data actively and knowingly provided by the data subject, i.e. name, address, age,
+   1. Data actively and knowingly provided by the data subject, i.e. name, address, age,
             username, etc.; and
          2. Observed data provided by the data subject by virtue of the use of the service or
             the device, i.e. access logs, transaction history, location data, etc.
 
-    C. The exercise of this right shall not adversely affect the rights and freedoms of others.
+   C. The exercise of this right shall not adversely affect the rights and freedoms of others.
        PICs, whether sending or receiving, should consider implementing security measures
        to reduce the risk for personal data of third parties to be included in the porting
        request.
 
-         When ported data includes the data of other individuals, i.e. names and contact details
+   When ported data includes the data of other individuals, i.e. names and contact details
          within the contact directory of the requesting party, receiving PICs are prohibited from
          further processing such data for its own purpose, i.e. marketing, etc.^[12]
 
-    D. PICs shall consider using commonly used, machine-readable, interoperable, open
+   D. PICs shall consider using commonly used, machine-readable, interoperable, open
        formats, i.e. XML, JSON, CSV, etc. for data portability requests.
 
 11 See: European Commission, Article 29 Data Protection Working Party, Guidelines on the right to data portability,
@@ -437,7 +438,7 @@ The same may be limited when necessary for public interest, protection of other 
 
    A. Scientific and statistical research: provided, that:
 
-       1. No activities are carried out and no decisions are taken regarding the data subject;
+   1. No activities are carried out and no decisions are taken regarding the data subject;
        2. The personal data shall be held under strict confidentiality and shall be used only
           for research purpose; and
        3. Any research undertaken shall be subject to the applicable ethical and legal
@@ -448,7 +449,7 @@ The same may be limited when necessary for public interest, protection of other 
    B. Investigations in relation to any criminal, administrative, or tax liabilities of a data
       subject: provided, that:
 
-       1. The investigation is being conducted by persons or entities duly authorized by law
+   1. The investigation is being conducted by persons or entities duly authorized by law
           or regulation;
        2. The investigation or any stage thereof relates to any criminal, administrative, or
           tax liabilities of a data subject as may be defined under existing laws and
@@ -528,7 +529,7 @@ SGD.                                                    SGD. LEANDRO ANGELO Y. A
 
 I declare that this form is accomplished by the undersigned and is a true, correct, and complete statement of the information contained herein. I also authorize (NAME OF PERSONAL INFORMATION CONTROLLER) to verify/validate the contents stated herein.
 
-                                                         SIGNATURE OVER PRINTED NAME
+   SIGNATURE OVER PRINTED NAME
 
  V. AUTHORIZED REPRESENTATIVES
 
@@ -540,9 +541,9 @@ I declare that this form is accomplished by the undersigned and is a true, corre
 
 I declare that this form is accomplished by the undersigned as the authorized representative of the data subject. It is a true, correct, and complete statement of the information contained herein. Enclosed is the proof of the authority to act on of behalf of the data subject. I authorize (NAME OF PERSONAL INFORMATION CONTROLLER) to verify/validate the contents stated herein.
 
-                                                            SIGNATURE OVER PRINTED NAME
+   SIGNATURE OVER PRINTED NAME
 
-                                                                  FOR INTERNAL USE ONLY
+   FOR INTERNAL USE ONLY
 
 RECEIVED BY:                                                          REMARKS:
 
@@ -573,7 +574,7 @@ DATE RECEIVED:
 
 I declare that this form is accomplished by the undersigned and is a true, correct, and complete statement of the information contained herein. I also authorize (NAME OF PERSONAL INFORMATION CONTROLLER) to verify/validate the contents stated herein.
 
-                                                            SIGNATURE OVER PRINTED NAME
+   SIGNATURE OVER PRINTED NAME
 
  IV. AUTHORIZED REPRESENTATIVES
 
@@ -585,9 +586,9 @@ I declare that this form is accomplished by the undersigned and is a true, corre
 
 I declare that this form is accomplished by the undersigned as the authorized representative of the data subject. It is a true, correct, and complete statement of the information contained herein. Enclosed is the proof of the authority to act on of behalf of the data subject. I authorize (NAME OF PERSONAL INFORMATION CONTROLLER) to verify/validate the contents stated herein.
 
-                                                            SIGNATURE OVER PRINTED NAME
+   SIGNATURE OVER PRINTED NAME
 
-                                                                  FOR INTERNAL USE ONLY
+   FOR INTERNAL USE ONLY
 RECEIVED BY:                                                          REMARKS:
 
 DATE RECEIVED:
@@ -615,37 +616,37 @@ DATE RECEIVED:
 
        Personal data is:  incomplete  outdated  false or  unlawfully obtained.
 
-        Details:
+   Details:
 
        Personal data is used for an unauthorized purpose/s.
 
-        Details:
+   Details:
 
        Personal data is no longer necessary for the purpose/s for which they were collected.
 
-        Details:
+   Details:
 
        Withdrawal of consent or objection to the processing (and there are no other applicable lawful criteria for processing).
 
-        Details:
+   Details:
 
        Personal data concerns private information that is prejudicial to data subject
 
-        Details:
+   Details:
 
        Processing is unlawful.
 
-        Details:
+   Details:
 
        The personal information controller (PIC) or personal information processor (PIP) violated your rights as a data subject.
 
-        Details:
+   Details:
 
  IV. DECLARATION
 
 I declare that this form is accomplished by the undersigned and is a true, correct, and complete statement of the information contained herein. I authorize (NAME OF PERSONAL INFORMATION CONTROLLER) to verify/validate the contents stated herein.
 
-                                                          SIGNATURE OVER PRINTED NAME
+   SIGNATURE OVER PRINTED NAME
 
  IV. AUTHORIZED REPRESENTATIVES
 
@@ -657,16 +658,14 @@ I declare that this form is accomplished by the undersigned and is a true, corre
 
 I declare that this form is accomplished by the undersigned as the authorized representative of the data subject. It is a true, correct, and complete statement of the information contained herein. Enclosed is the proof of the authority to act on of behalf of the data subject. I authorize (NAME OF PERSONAL INFORMATION CONTROLLER) to verify/validate the contents stated herein.
 
-                                                            SIGNATURE OVER PRINTED NAME
+   SIGNATURE OVER PRINTED NAME
 
-                                                                  FOR INTERNAL USE ONLY
+   FOR INTERNAL USE ONLY
 RECEIVED BY:                                                          REMARKS:
 
 DATE RECEIVED:
 
 * PICs shall only require information that is necessary to the request and to confirm the identity of the requesting individual or his/her authorized representative, taking into consideration the principle of proportionality.
-
-## Footnotes
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012), § 2.
 

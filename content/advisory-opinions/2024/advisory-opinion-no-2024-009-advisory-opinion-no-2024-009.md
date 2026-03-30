@@ -1,10 +1,13 @@
 ---
-title: "Advisory-Opinion-No.-2024-009"
-description: "We respond to your request for guidance on the proper use of personal information in the conduct of elections for sectoral representatives pursuant to the LPG Industry Regulation Act (LPG Act).2"
+title: NPC Advisory Opinion No. 2024-009 — Use of Personal Information in Election
+  Proceedings
+description: We respond to your request for guidance on the proper use of personal
+  information in the conduct of elections for sectoral representatives pursuant to
+  the LPG Industry Regulation A
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2024"
+- issuance
+- type/advisory-opinion
+- year/2024
 draft: false
 ---
 
@@ -14,22 +17,18 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                             ADVISORY OPINION NO. 2024-009 1
 
  23 July 2024
 
+Re: Use of Personal Information in Election Proceedings
 
-
-
-                         Re: Use of Personal Information in Election Proceedings
-
-
-Dear
+Dear [Redacted],
 
 We respond to your request for guidance on the proper use of personal information in the
 conduct of elections for sectoral representatives pursuant to the LPG Industry Regulation Act
 (LPG Act).2
+
+### Discussion
 
 You inform that the Department of Energy (DOE) and the Department of Trade and Industry
 (DTI) established a task force to regulate the safe operations of the Liquified Petroleum Gas
@@ -46,9 +45,6 @@ information of individuals who wish to take part in the election, such as: 1. bu
 LPG establishment; 2. name of the owner; 3. name of authorized representative; and 4.
 business address.
 
-
-
-
 1 Sec. 12 DPA, Personal Information, Fulfillment of Mandate, Publication.
 2 An Act Establishing The Regulatory Framework For The Safe Operations Of The Liquefied Petroleum Gas Industry, Delineating
 
@@ -61,7 +57,7 @@ Programs and Its Implementing Guidelines” (25 November 2022)
 Hence, you seek guidance on how to properly process the foregoing data for the elections
 consistent with the Data Privacy Act.4
 
-Scope of the DPA; Personal Information
+### Scope of the Dpa; Personal Information
 
 The DPA applies to the processing of personal information.5 Personal information is defined
 as any information whether recorded in a material form or not, from which the identity of an
@@ -79,7 +75,8 @@ Conversely, when the information refers to natural persons such as that of the b
 or authorized representative of the LPG establishment, it is considered as personal
 information under the DPA and, as such, its processing is subject to its provisions.
 
-Lawful Criteria for Processing; Fulfillment of Mandate;
+### Lawful Criteria for Processing; Fulfillment of Mandate;
+
 Proportionality Principle
 
 Sec. 12 (e) of the DPA provides that a public authority’s statutory mandate is one of the lawful
@@ -122,9 +119,7 @@ adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV

@@ -1,5 +1,5 @@
 ---
-title: "Advisory Opinion No. 2021-042 — Disclosure Of List Of Frontline Workers A By Covid-19"
+title: "NPC Advisory Opinion No. 2021-042 — Disclosure Of List Of Frontline Workers A By Covid-19"
 description: "We write in response to your letter received by the National Privacy Commission (NPC) which sought clarification on whether to grant the request of a third-party organization to be given a list of frontline workers who were affected by COVID-19."
 tags:
   - "issuance"
@@ -17,22 +17,19 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                               ADVISORY OPINION NO. 2021-0421
 
-    16 December 2021
+   16 December 2021
 
-
-
-
-           Re: DISCLOSURE OF LIST                                    OF       FRONTLINE                  WORKERS
+   Re: DISCLOSURE OF LIST                                    OF       FRONTLINE                  WORKERS
                AFFECTED BY COVID-19
 
-Dear
+Dear [Redacted],
 
 We write in response to your letter received by the National Privacy Commission (NPC)
 which sought clarification on whether to grant the request of a third-party organization to be
 given a list of frontline workers who were affected by COVID-19.
+
+### Discussion
 
 We understand that the Department of Health (DOH) received a request from the Filipino
 International Staff of the Asian Development Bank (ADB Fil-IS) for a list of names of frontline
@@ -43,15 +40,11 @@ beneficiaries for the fund drive, Alay Dangal sa Bayaning Lumalaban sa COVID-19.
 You now ask on whether the disclosure of such information is allowed under the Data
 Privacy Act of 20122 (DPA).
 
-
-
-1 Tags: lawful basis for processing; law; public authority; consent; further processing; statistical data; COVID-19 patient
-information.
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Republic Act No. 10173 (2012).
 
-                           URL https //www privacy gov ph Email Add info@privacy gov ph * Tel No 8234-2228
+   URL https //www privacy gov ph Email Add info@privacy gov ph * Tel No 8234-2228
 
 Lawful basis for processing; health information; law;
 mandate; public authority; consent
@@ -105,15 +98,15 @@ Act No. 10173, § 13(a) (2012).
 authorities should be limited to the pandemic response, specifically the following as stated
 in the DOH and NPC JOINT MEMORANDUM CIRCULAR No. 2020-0002:
 
-           “V. GENERAL GUIDELINES
+   “V. GENERAL GUIDELINES
 
-                                                       xxx
+   xxx
 
-         2.      The processing of personal health information of COVID-19 cases and identified close
+   2.      The processing of personal health information of COVID-19 cases and identified close
                  contacts for disease surveillance and response shall be to the extent necessary for the
                  following purposes:
 
-                 a. To outline a true picture of the country’s COVID-19 health situation in terms of status
+   a. To outline a true picture of the country’s COVID-19 health situation in terms of status
                     and extent of local and community transmission.
                  b. To build a repository of real-time COVID-19-related data as basis of evidence-
                     informed health policy and intervention measures.
@@ -162,16 +155,10 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
-
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman

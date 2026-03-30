@@ -1,11 +1,17 @@
 ---
 title: "NPC 23-015: In re: Metro Pacific Tollways Corporation"
-description: "National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of"
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC 23-015"
+  - "npc 23-015"
+  - "In re: Metro Pacific Tollways Corporation"
+  - "in re: metro pacific tollways corporation"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-08-17"
 draft: false
 ---
 
@@ -21,7 +27,6 @@ draft: false
 - Mandatory Breach Notification
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 IN RE: METRO PACIFIC TOLLWAYS
 
@@ -73,7 +78,6 @@ register. 4 MPTC believed that this indicated a potential breach of the
 
 NPC BN 23 -015 NPC BN 23 -015
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 MPT DriveHub application system with possible access to others’
 
@@ -140,7 +144,6 @@ producing an unauthorized effect or gaining unauthorized access.” 15
 
 NPC BN 23 -015
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 MPTC, however, maintained that the “attack was targeted more on
 
@@ -206,7 +209,6 @@ reiterated that “following an investigation on the matter, it found that
 
 NPC BN 23 -015
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 there was no data breach involving data subject and/or their
 
@@ -265,7 +267,6 @@ the following terms are defined, as follows:
 
 NPC BN 23 -015
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 . . .
 
@@ -344,7 +345,6 @@ Reply by Metro Pacific Tollways Corporation , 27 July 2023, at 1, in In re: Metr
 Corporation, NPC BN 23 -015 (NPC 2023). NPC BN 23 -015
 
 > Page 6of 7
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 MPTC claimed that its further investigation showed “no evidence of
 
@@ -410,13 +410,11 @@ SO ORDERED.
 
 NPC BN 23 -015
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 City of Pasay, Philippines.
 
 17 August 2023 .
 
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -424,13 +422,11 @@ Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
 
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
-Sgd.
 
 NERISSA N. DE JESUS
 

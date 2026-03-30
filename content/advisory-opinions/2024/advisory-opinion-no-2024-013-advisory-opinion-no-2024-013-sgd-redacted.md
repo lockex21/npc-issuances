@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2024-013_Sgd_Redacted"
-description: "Re: Requests for Member and Vessel Information by government agencies pursuant to a Senate investigation."
+title: "NPC Advisory Opinion No. 2024-013 — Requests for Member and Vessel Information by Government Agencies Pursuant to a Senate Investigation"
+description: "Guidance on disclosure of member and vessel information to government agencies conducting law enforcement investigations."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -14,26 +14,21 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                               ADVISORY OPINION NO. 2024-121
  05 November 2024
 
+   Thru:
 
-
-
-                    Thru:
-
-
-                    Re:       Requests for Member and Vessel Information by government
+   Re:       Requests for Member and Vessel Information by government
                               agencies pursuant to a Senate investigation.
 
-
-Dear
+Dear [Redacted],
 
 We respond to your inquiry on whether the requests of the Philippine Coast Guard (PCG)
 and the Bureau of Immigration (BI) for information and access to records of the Manila Yacht
 Club (MYC) related to an ongoing Senate investigation violates the Data Privacy Act of 2012
 (DPA).2
+
+### Discussion
 
 You state that the PCG sent a letter-request to MYC for the list of names of yachts that are
 MYC members as well as a list of other vessels that arrived and departed from the MYC in
@@ -51,23 +46,19 @@ consent of its members. However, your concern in granting the requests is that t
 be constrained to disclose, among others, the following documents which contain personal
 data:
 
-     1. The signed and executed membership forms of your members;
+   1. The signed and executed membership forms of your members;
      2. The logbook of security personnel;
-
-
-1 Tags: Vessels, scope of the DPA, personal information, processing for fulfillment of statutory and constitutional mandate.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Republic Act No.10173 (2012).
 
-      3. Member’s guest list declarations, including the attached government issued IDs of
+   3. Member’s guest list declarations, including the attached government issued IDs of
          theirs guests;
       4. The logbook of MYC’s dispatcher records.
 
 You state further that these records also contain the following information which you view as
 protected by the DPA:
 
-     i.        The names of your members;
+   i.        The names of your members;
     ii.        The names and personal details of your member’s guests (contained in the
                government issued IDs presented to the MYC);
    iii.        Member’s official signature;
@@ -80,7 +71,7 @@ protected by the DPA:
 
 Thus, you seek guidance on the following:
 
-      1. Whether the names of the MYC member’s vessels are considered as personal
+   1. Whether the names of the MYC member’s vessels are considered as personal
          information under the DPA; and
       2. Whether granting the requests of the PCG and/or the BI for other information and/or
          examination of records may be deemed a violation of Section 32 of the DPA?
@@ -109,36 +100,34 @@ Besides the member’s individual consent, the disclosure of personal data of MY
 law enforcement authorities (LEA) may be justified under the circumstances based on Section
 12 (e) and Section 13 (b) and (f) of the DPA, viz.:
 
-
 3 Id., §3(g)
 
-           For personal information -
+   For personal information -
 
-
-           (e) The processing is necessary to respond to national emergency, to
+   (e) The processing is necessary to respond to national emergency, to
            comply with the requirements of public order and safety, or to fulfill
            functions of public authority which necessarily includes the processing
            of personal data for the fulfillment of its mandate;
 
-                                               xxx
+   xxx
 
-           For sensitive personal information -
+   For sensitive personal information -
 
-           (b) The processing of the same is provided for by existing laws and
+   (b) The processing of the same is provided for by existing laws and
            regulations: Provided, That such regulatory enactments guarantee the
            protection of the sensitive personal information and the privileged
            information: Provided, further, That the consent of the data subjects are
            not required by law or regulation permitting the processing of the
            sensitive personal information or the privileged information;
 
-                                               xxx
+   xxx
 
-           (f) The processing concerns such personal information as is necessary for
+   (f) The processing concerns such personal information as is necessary for
            the protection of lawful rights and interests of natural or legal persons in
            court proceedings, or the establishment, exercise or defense of legal
            claims, or when provided to government or public authority.
 
-           (Underscoring supplied).
+   (Underscoring supplied).
 
 Compliance with procedural rules; proportionality.
 
@@ -151,7 +140,7 @@ and upheld.
 After all, the DPA is anchored on Section 3, Article III of the 1987 Constitution, which
 provides:
 
-         1. The privacy of communication and correspondence shall be inviolable except upon
+   1. The privacy of communication and correspondence shall be inviolable except upon
             lawful order of the court, or when public safety or order requires otherwise, as
             prescribed by law.
          2. Any evidence obtained in violation of this or the preceding section shall be
@@ -204,9 +193,7 @@ rights and obligations of the parties involved.
 
 Please be guided accordingly.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV

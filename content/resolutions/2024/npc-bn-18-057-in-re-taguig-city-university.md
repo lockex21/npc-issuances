@@ -1,25 +1,22 @@
 ---
-title: "NPC BN 18-057: In Re: Taguig City University"
-description: "NPC BN 18-057: In Re: Taguig City University"
+title: "NPC BN 18-057: Resolution"
+description: "Resolution addressing the Breach Notification submitted by Taguig"
+aliases:
+  - "NPC BN 18-057"
+  - "npc bn 18-057"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2024"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2024
+  - npc-case
+date: "2024-01-01"
 draft: false
 ---
 
-## Source
-- Reference: NPC BN 18-057
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/12/NPC-BN-18-057-10.17.2024-In-re-Taguig-City-University_Resolution.pdf
-- Source page: http://privacy.gov.ph/resolutions/
-- Issue date: October 17, 2024
-- Published on NPC site: Fri, 12 Dec 2025 02:58:59 GMT
-- Pages: 7
+## Source-Reference: NPC BN 18-057-Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/12/NPC-BN-18-057-10.17.2024-In-re-Taguig-City-University_Resolution.pdf-Source page: http://privacy.gov.ph/resolutions/
+- Issue date: October 17, 2024-Published on NPC site: Fri, 12 Dec 2025 02:58:59 GMT-Pages: 7
 
-## Source Tags
-- Sec 18(c). Content of Notification
-- Sec 20. Security of Personal Information
+## Source Tags-Sec 18(c). Content of Notification-Sec 20. Security of Personal Information
 
 ## Resolution Text
 x----------------------------------------------------x
@@ -28,12 +25,9 @@ NAGA , P.C.;
 
 Before the Commission is the Breach Notification submitted by Taguig
 
-City University (TCU) on 23 April 20 18 pursuant to NPC Circular 16 -
+City University (TCU) on 23 April 20 18 pursuant to NPC Circular 16-03 (Personal Data Breach Management) .
 
-03 (Personal Data Breach Management) .
-
-Facts
-
+### Facts
 On 23 April 2018, TCU notified the Commission of a data breach and
 
 recounted the events that transpired when the hackers defaced its
@@ -60,13 +54,6 @@ On 01 April 2018, it was found that the Blackhat hacker group named
 
 “Pinoy Lulz sec” conducted a concerted attack on several websites of
 
-> 1Breach Notification Report dated 23 April 2018 of Taguig City University at p.1.
-> 2Id.
-> 3Id.
-> 4Id.
-> 5Breach Notification Report dated 23 April 2018 of Taguig City University at p.1.
-
-NPC BN 18 -057 NPC BN 18 -057
 
 both government and private entities. 6 The aim of its attack was to
 
@@ -118,17 +105,7 @@ responsible for any loss or change of the [data] in the system arising
 
 from the [incident]. ”15
 
-> 6Final Breach Notification Evaluation Report dated 08 June 2023 of the Complaints and
 > Investigation Division at p.6.
-> 7Id.
-> 8Breach Notification Report dated 23 April 2018 of Taguig City University at p.2.
-> 9Id.
-> 10 Id .
-> 11 Order dated 12 January 2021 of the Complaints and Investigation Division .
-> 12 Id.
-> 13 Order dated 03 May 2023 of the Complaints and Investigation Division .
-> 14 Electronic Mail dated 30 May 2023 from Taguig City University .
-> 15 Post Breach Report dated 29 May 20 23 of Taguig Ci ty University .NPC BN 18 -057
 > Page 3of 7
 
 Attached to the report were the body of the e -mail informing the data
@@ -157,14 +134,12 @@ apply additional security measures on the next website using Laravel
 
 security framework .19
 
-Issue
-
+### Issue
 Whether TCU has sufficiently addressed the breach and implemented
 
 appropriate measures pursuant to NPC Circular 16 -03.
 
-Discussion
-
+### Discussion
 The Commission resolves to close the matter. TCU’s submissions show
 
 that it properly notified the affected data subjects, sufficiently
@@ -185,12 +160,6 @@ be limited to:
 
 3. measures taken to address the breach;
 
-> 16 Id.
-> 17 Post Breach Report dated 29 May 2023 of Taguig City University.
-> 18 Id.
-> 19 Id .
-
-NPC BN 18 -057
 
 4. measures taken to reduce the harm or negative
 
@@ -260,12 +229,7 @@ immediately address the incident and prevent the hackers from
 
 further defacing its website. 22
 
-> 20 National Privacy Commission , Personal Data Breach Management, NPC Circular 16 -03, rule V,
 > § 18 ( 15 December 2016) (NPC Circular 16 -03) .
-> 21 RPR vs. Edukasyon.ph, NPC 19 -438, Resolution dated 22 September 2022, at p. 4.
-> 22 Notice of Data Breach dated 05 May 2018 of Taguig City University .
-
-NPC BN 18 -057
 
 On this note, the Commission emphasizes the importance of ensuring
 
@@ -327,15 +291,9 @@ As to the security measures implemented to mitigate any negative
 
 effect of the incident and prevent its recurrence, it ended its contract
 
-> 23 In Re BPI Philam Life Assurance Corporation, NPC BN 21 -054, Order dated 15 April 2021, at p.
-> 3.
-> 24 An Act Protecting Individual Personal Information in Information and Communications Systems
 > in the Government and the Private Sector, Creating for This Purpose aNational Privacy
 > Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Chapter
 > V, § 20 (a) (2012) (Data Privacy Act of 2012).
-> 25 Breach Notification Report dated 23 April 2018 of Taguig City University at p.2.
-> 26 Id .
-> 27 Id. NPC BN 18 -057
 > Page 6of 7
 
 with its web hosting and applied additional security measures with its
@@ -372,13 +330,13 @@ measures that not only mitigated the harm that may have been caused
 
 by the inciden t, if any, but also prevent ed its recurrence .
 
-WHEREFORE, premises considered, this Commission resolves that
+**WHEREFORE**, premises considered, this Commission resolves that
 
 the matter of NPC BN 18 -057 “In re: Taguig City University ” is hereby
 
-CLOSED.
+**CLOSED**.
 
-SO ORDERED.
+**SO ORDERED**.
 
 City of Pasay, Philippines .
 
@@ -390,11 +348,6 @@ JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
-> 28 Post Breach Report dated 29 May 2023 of Taguig City University.
-> 29 Id.
-> 30 Id.
-
-NPC BN 18 -057
 
 WE CONCUR:
 
@@ -421,3 +374,64 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+[^1]: Breach Notification Report dated 23 April 2018 of Taguig City University at p.1.
+[^2]: Id.
+[^3]: .
+[^4]: Id.
+[^5]: Breach Notification Report dated 23 April 2018 of Taguig City University at p.1.
+[^6]: Final Breach Notification Evaluation Report dated 08 June 2023 of the Complaints and
+[^7]: Id.
+[^8]: Breach Notification Report dated 23 April 2018 of Taguig City University at p.2.
+[^9]: Id.
+[^10]: Id .
+[^11]: Order dated 12 January 2021 of the Complaints and Investigation Division .
+[^12]: Id.
+[^13]: Order dated 03 May 2023 of the Complaints and Investigation Division .
+[^14]: Electronic Mail dated 30 May 2023 from Taguig City University .
+[^15]: Post Breach Report dated 29 May 20 23 of Taguig Ci ty University .NPC BN 18 -057
+[^16]: Id.
+[^17]: Post Breach Report dated 29 May 2023 of Taguig City University.
+[^18]: Id.
+[^19]: Id .
+[^20]: National Privacy Commission , Personal Data Breach Management, NPC Circular 16 -03, rule V,
+[^21]: RPR vs. Edukasyon.ph, NPC 19 -438, Resolution dated 22 September 2022, at p. 4.
+[^22]: Notice of Data Breach dated 05 May 2018 of Taguig City University .
+[^23]: In Re BPI Philam Life Assurance Corporation, NPC BN 21 -054, Order dated 15 April 2021, at p.
+[^24]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^25]: Breach Notification Report dated 23 April 2018 of Taguig City University at p.2.
+[^26]: Id .
+[^27]: Id. NPC BN 18 -057
+[^28]: Post Breach Report dated 29 May 2023 of Taguig City University.
+[^29]: Id.
+[^30]: Id.
+[^1]: Breach Notification Report dated 23 April 2018 of Taguig City University at p.1.
+[^2]: Id.
+[^3]: .
+[^4]: Id.
+[^5]: Breach Notification Report dated 23 April 2018 of Taguig City University at p.1.
+[^6]: Final Breach Notification Evaluation Report dated 08 June 2023 of the Complaints and
+[^7]: Id.
+[^8]: Breach Notification Report dated 23 April 2018 of Taguig City University at p.2.
+[^9]: Id.
+[^10]: Id .
+[^11]: Order dated 12 January 2021 of the Complaints and Investigation Division .
+[^12]: Id.
+[^13]: Order dated 03 May 2023 of the Complaints and Investigation Division .
+[^14]: Electronic Mail dated 30 May 2023 from Taguig City University .
+[^15]: Post Breach Report dated 29 May 20 23 of Taguig Ci ty University .NPC BN 18 -057
+[^16]: Id.
+[^17]: Post Breach Report dated 29 May 2023 of Taguig City University.
+[^18]: Id.
+[^19]: Id .
+[^20]: National Privacy Commission , Personal Data Breach Management, NPC Circular 16 -03, rule V,
+[^21]: RPR vs. Edukasyon.ph, NPC 19 -438, Resolution dated 22 September 2022, at p. 4.
+[^22]: Notice of Data Breach dated 05 May 2018 of Taguig City University .
+[^23]: In Re BPI Philam Life Assurance Corporation, NPC BN 21 -054, Order dated 15 April 2021, at p.
+[^24]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^25]: Breach Notification Report dated 23 April 2018 of Taguig City University at p.2.
+[^26]: Id .
+[^27]: Id. NPC BN 18 -057
+[^28]: Post Breach Report dated 29 May 2023 of Taguig City University.
+[^29]: Id.
+[^30]: Id.
+

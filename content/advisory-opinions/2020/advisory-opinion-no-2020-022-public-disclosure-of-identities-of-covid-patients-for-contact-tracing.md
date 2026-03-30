@@ -1,13 +1,12 @@
 ---
-title: "Advisory Opinion No. 2020-022 — Public Disclosure of Identities of Covid Patients for Contact Tracing"
-description: "''''''''''''''''''''''''''''' ''''''' '''''''''''''''''''''''''''''''''''''' '''''''''' ''''''''''''''''' '''''''''''''''''''''''''''''' '''''''''' '''''''' ''''''''''' ''''''''''''''' ''' ''''' ''''''''''''''' ''''' ''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2020-022 — Public Disclosure of Identities of Covid Patients for Contact Tracing"
+description: "Public disclosure of identities of COVID-19 patients for contact tracing purposes under the Data Privacy Act and Department of Health guidelines."
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
 draft: false
 ---
-
 ## Source
 - Reference: Advisory Opinion No. 2020-022
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-022.pdf
@@ -17,22 +16,11 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                            ADVISORY OPINION NO. 2020-0221
 
- 8 June 2020
-
- ''''''''''''''''''''''''''''' ''''''' '''''''''''''''''''''''''''''''''''''' '''''''''' ''''''''''''''''' ''''''''''''''''''''''''''''''
- ''''''''''
- '''''''' ''''''''''' ''''''''''''''' ''' ''''' ''''''''''''''' '''''
- ''''''''''''''''''''''''''''
-
-
-               Re:        PUBLIC DISCLOSURE OF IDENTITIES OF COVID PATIENTS
+Re:        PUBLIC DISCLOSURE OF IDENTITIES OF COVID PATIENTS
                           FOR CONTACT TRACING
 
-
-Dear ''''''''' '''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to clarify issues on contact tracing and the public disclosure of
@@ -51,10 +39,10 @@ Finally, you ask the limit in terms of what information to collect and disclose,
 method or process of information gathering, and data storage and retention so it will not be used
 in the future for malicious reasons.
 
+### Discussion
+
 Processing of health information; contact tracing;
 COVID-19 data; lawful basis for processing; public
-
-1 Tags: processing; public disclosure; public authority; statutory mandate; law; Department of Health; COVID-19; contact tracing;
 
 privacy guidelines.
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private
@@ -67,7 +55,7 @@ Contact tracing as defined under recent regulations of the DOH refers to the ide
 and follow-up of persons who may have come into close contact with a confirmed COVID-19
 case.3 It has three (3) goals:
 
-    1. To interrupt ongoing transmission and reduce spread of infection;
+   1. To interrupt ongoing transmission and reduce spread of infection;
     2. To alert close contacts to the possibility of infection and offer preventive counselling or
        care; and
     3. To understand the epidemiology of a disease in a particular population.4
@@ -98,21 +86,19 @@ information pursuant to its mandate of conducting disease surveillance, epidemic
 contact tracing, survey research and disease registry, among others, at the national and regional
 level:
 
-         “… In this case, the DPA does not prohibit the DOH from collecting and processing personal
+   “… In this case, the DPA does not prohibit the DOH from collecting and processing personal
          data for purposes necessary to its mandate, with the concomitant responsibility of
          complying with the requirements of the DPA, its Implementing Rules and Regulations (IRR),
          and other issuances of the National Privacy Commission (NPC).
 
-                                                  xxx      xxx      xxx
-
-
+   xxx      xxx      xxx
 
 3 Department of Health, Updated Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease (COVID-
 
 19) Cases [Department Memorandum No. 2020-0189], § II (A) (April 17, 2020).
 4 Id. § III (B).
 
-         The processing of personal data by DOH finds support in the DPA. The DOH is a public
+   The processing of personal data by DOH finds support in the DPA. The DOH is a public
          authority performing regulatory functions, and is permitted to process personal data to the
          extent necessary for the fulfillment of these functions.”5
 
@@ -129,11 +115,11 @@ publicly disclosing personal data
 As to disclosure of COVID-19 personal data by the DOH, this may be made in a limited manner
 pursuant to the Annex A of the DOH Updated Guidelines on Contact Tracing:
 
-         “6. Disclosure of Patient Identifiers or Patient Data shall be limited to authorized entities,
+   “6. Disclosure of Patient Identifiers or Patient Data shall be limited to authorized entities,
          officers, personnel and concerned individuals only. The said disclosure is allowed if the
          same will serve a public purpose or function during the COVID-19 pandemic.
 
-         Disclosure to the public, the media, or any other public-facing platforms without the written
+   Disclosure to the public, the media, or any other public-facing platforms without the written
          consent of the patient or his/her authorized representative or next of kin, shall be strictly
          prohibited.”6
 
@@ -197,13 +183,8 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
-
-
-
 
 10 See: NPC PHE Bulletin No. 11: Joint Statement of the Department of Health (DOH) and National Privacy Commission (NPC)
 

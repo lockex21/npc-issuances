@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-027 — Access To Documents By San Miguel Aerocity Inc. Pursuant To Its Legislative Franchise"
-description: "''''''''''''''' ''''' '''''''''''''''''''''''''''''''' ''''' '''''''''' '''''''''''' ''''' ''''' '''''' ''''''''' '''''''''''''' ''''''''' '' '''' ''''''''' '''' ''''''''''''''''' '''''' '''''''''''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2021-027 — Access To Documents By San Miguel Aerocity Inc. Pursuant To Its Legislative Franchise"
+description: "Guidance on data privacy compliance for San Miguel Aerocity Inc.'s access to government documents pursuant to its legislative franchise for airport construction and maintenance."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,26 +17,19 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                     ADVISORY OPINION NO. 2021-0271
 
- ''''''''''''''' ''''' ''''''''''''''''''''''''''''''''
- ''''' '''''''''' '''''''''''' '''''
- ''''' '''''' ''''''''' '''''''''''''' '''''''''
  '' '''' ''''''''' '''' ''''''''''''''''' ''''''
- '''''''''''''''''''''''''''''''''''''''''
 
-
-
-
-              Re:       ACCESS TO DOCUMENTS BY SAN MIGUEL AEROCITY INC.
+   Re:       ACCESS TO DOCUMENTS BY SAN MIGUEL AEROCITY INC.
                         PURSUANT TO ITS LEGISLATIVE FRANCHISE
 
-Dear ''''''''' '''''''''''''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your letter received by the National Privacy Commission (NPC)
 which sought clarification on certain data privacy issues relating to the implementation of the
 New Manila International Airport (NMIA) project.
+
+### Discussion
 
 We understand that San Miguel Aerocity, Inc. (SMAI) was granted a legislative franchise
 under Republic Act (RA) No. 115062 to construct, operate, and maintain the NMIA, an Airport
@@ -52,8 +45,6 @@ government agencies and may contain personal and/or sensitive personal informati
 (collectively, personal data).
 
 You now ask whether SMAI may be provided with these documents and process the personal
-
-1 Tags: legislative franchise; eminent domain; right of way; scope; special cases; lawful criteria for processing; legal obligation;
 
 laws and regulations; legal claims.
 2 An Act Granting San Miguel Aerocity Inc. A Franchise To Construct, Develop, Establish, Operate And Maintain A Domestic
@@ -93,24 +84,24 @@ franchise, the same is not processing under a special case, but rather is more a
 based on Sections 12 (c) and/or Section 13 (b) and (f) of the DPA, depending on the type of
 personal data being processed, to wit:
 
-         “SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing
+   “SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing
          of personal information shall be permitted only if not otherwise prohibited by law, and
          when at least one of the following conditions exists:
 
-                                                            xxx
+   xxx
 
-         (c) The processing is necessary for compliance with a legal obligation to which the
+   (c) The processing is necessary for compliance with a legal obligation to which the
          personal information controller is subject;
 
-                                                            xxx
+   xxx
 
-         SECTION 13. Sensitive Personal Information and Privileged Information. — The
+   SECTION 13. Sensitive Personal Information and Privileged Information. — The
          processing of sensitive personal information and privileged information shall be
          prohibited, except in the following cases:
 
-                                                            xxx
+   xxx
 
-         (b) The processing of the same is provided for by existing laws and regulations: Provided,
+   (b) The processing of the same is provided for by existing laws and regulations: Provided,
          That such regulatory enactments guarantee the protection of the sensitive personal
          information and the privileged information: Provided, further, That the consent of the
 
@@ -119,10 +110,10 @@ personal data being processed, to wit:
 
 2012], Republic Act No. 10173 (2012).
 
-         data subjects are not required by law or regulation permitting the processing of the
+   data subjects are not required by law or regulation permitting the processing of the
          sensitive personal information or the privileged information; xxx
 
-         (f) The processing concerns such personal information as is necessary for the protection
+   (f) The processing concerns such personal information as is necessary for the protection
          of lawful rights and interests of natural or legal persons in court proceedings, or the
          establishment, exercise or defense of legal claims, or when provided to government or
          public authority.” (underscoring supplied)
@@ -134,35 +125,35 @@ In Advisory Opinion No. 2020-036,6 we discussed a similar concern of the Nationa
 Corporation of the Philippines (NGCP) as to their request to secure land documents, under
 the custody of local government units:
 
-         “x x x To further implement the above mandates, the NGCP was also granted the right
+   “x x x To further implement the above mandates, the NGCP was also granted the right
          of eminent domain.
                                                 xxx
 
-         Given the foregoing mandates of NGCP under its franchise with the government, it is
+   Given the foregoing mandates of NGCP under its franchise with the government, it is
          inevitable that some private properties may be affected by the transmission projects. It is
          thus necessary for NGCP to identify the current owners and possessors of the affected
          properties for its acquisition.
                                                    xxx
 
-         While the requested documents, such as the certificates of title and tax declarations, are
+   While the requested documents, such as the certificates of title and tax declarations, are
          the best proof of ownership and sufficient basis for inferring possession over a parcel of
          land, respectively, which means that the said documents shall significantly facilitate the
          identification of the current owners and possessors of the affected properties, there is a
          need to evaluate whether releasing actual copies of the same is proportional to the
          purpose of identification of owners/possessors.
 
-         NGCP should consider whether it may be reasonable and acceptable for the respective
+   NGCP should consider whether it may be reasonable and acceptable for the respective
          Register of Deeds, the Assessors’ Offices and the city or municipal planning offices of the
          affected LGUs to provide certifications/lists of names and contact details of the
          owners/possessors per official records instead, without necessarily releasing copies of
          the land documents.
 
-         This is in adherence to the principle of proportionality which requires that that the
+   This is in adherence to the principle of proportionality which requires that that the
          processing, which includes disclosure, of personal information must be limited only to
          the extent that is necessary to achieve the stated purpose and that there are no other
          effective means to achieve the same.
 
-         Nevertheless, we wish to emphasize that access to copies of the requested land
+   Nevertheless, we wish to emphasize that access to copies of the requested land
          documents may only be allowed if NGCP has duly justified and substantiated its lawful
          interest over the subject properties and that denial of said request shall cause NGCP’s
          failure to comply with its legal obligations under its franchise with the Philippine
@@ -171,7 +162,7 @@ the custody of local government units:
          municipal planning offices may provide the requested documents to NGCP, relying on
          such evaluation vis-à-vis the NGCP’s mandate.
 
-        We further reiterate that compliance with legal obligations and with provisions of other
+   We further reiterate that compliance with legal obligations and with provisions of other
         existing laws and regulations, as well as processing of sensitive personal information for
         the establishment or exercise of legal claims may be validly done and are not necessarily
         violations of the DPA. The provisions of applicable laws and regulations should be read
@@ -220,12 +211,12 @@ the abovementioned statutory obligations and that these documents are the same o
 required by agencies that customarily implement national infrastructure projects such the
 Department of Public Works and Highways and the Department of Transportation:
 
-          Government Agencies                                         Documents
+   Government Agencies                                         Documents
  Register of Deeds                             •   E-copy of title, including title trace-back up to
                                                    Original Certificate of Title
                                                •   Certification (if the office copy is on file or not for
 
-           Government Agencies                                        Documents
+   Government Agencies                                        Documents
                                                    administrative/judicial reconstitution purposes)
 Provincial or Municipal or City Assessor’s     •   Certified true copy of tax declaration, including
 Office                                             trace-back up to 30 years
@@ -296,8 +287,17 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
+
+[^1]: Tags: legislative franchise; eminent domain; right of way; scope; special cases; lawful criteria for processing; legal obligation; laws and regulations; legal claims.
+
+[^2]: An Act Granting San Miguel Aerocity Inc. A Franchise To Construct, Develop, Establish, Operate And Maintain A Domestic And International Airport In The Municipality Of Bulakan, Province Of Bulacan, And To Construct, Develop, Establish, Operate, And Maintain An Adjacent Airport City, Republic Act No. 11506 (2020).
+
+[^3]: An Act Facilitating The Acquisition Of Right-Of-Way Site Or Location For National Government Infrastructure Projects [The Right-of-Way Act], Republic Act No. 10752 (2016).
+
+[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
+
+[^5]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+
+[^6]: National Privacy Commission, NPC Advisory Opinion No. 2020-036 (Sept. 8, 2020).

@@ -1,11 +1,17 @@
 ---
 title: "NPC 21-167: MAF v. Shopee Philippines, Inc."
-description: "NPC 21-167: MAF v. Shopee Philippines, Inc."
+description: "Complaint alleging unauthorized processing and disclosure of minor's photograph as proof of delivery; partially granted with nominal damages awarded and requirement to implement safeguards for minors' personal data."
+aliases:
+  - "NPC 21-167"
+  - "npc 21-167"
+  - "MAF v. Shopee Philippines, Inc."
+  - "maf v. shopee philippines, inc."
 tags:
   - "decision"
   - "type/decision"
-  - "year/2022"
+  - "year/2021"
   - "npc-case"
+date: "2022-09-22"
 draft: false
 ---
 
@@ -21,21 +27,20 @@ draft: false
 - Unauthorized Purposes (Section 28), Unauthorized Disclosure (Section 32), Proportionality, Principle of Accountability, Personal Information Processor, Legitimate Interest (Section 12 (f), Nominal Damages
 
 ## Decision Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 MAF ,
 
 Complainant,
 
--versus -
+-versus-
 
-SHOPEE PHILIPPINES, INC. ,
+SHOPEE PHILIPPINES, INC.,
 
 Respondent.
 
 x----------------------------------------------------x
 
-AGUIRRE , D. P.C.;
+AGUIRRE, D.P.C.;
 
 Before this Commission is a complaint filed by MAF against Shopee
 
@@ -47,55 +52,45 @@ Philippines, Inc. (Shopee ) for an alleged violation of Section 28
 
 Privacy Act of 2012 (DPA).
 
-Facts
+### Facts
 
 On 12 August 2021, the National Privacy Commission (NPC),
 
 through its Complaints and Investigation Division (CID), received
 
-MAF ’s Complaints -Assisted Form (CAF) .1 MAF allege d that on 06
+MAF ’s Complaints-Assisted Form (CAF) .1 MAF alleged that on 06
 
 August 2021, “ [her] minor child’s picture was used as proof of
 
 delivery. T he courier service took his picture without his consent and
 
-was not told of the purpose .” 2 She contend ed that instead of the rider
+was not told of the purpose .” 2 She contended that instead of the rider
 
-taking a picture of her son as proof of delivery , “the rider should
+taking a picture of her son as proof of delivery, “the rider should
 
-have at least taken a [pic ture] of his arm and package or have done
+have at least taken a [picture] of his arm and package or have done
 
 the geotagging as said in their guidelines.” 3
 
-> 1Complaints Assisted Form, 12 August 2021, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 2021) .
-> 2Id. at 3 .
-> 3Id.
 
-NPC 21 -167
 
-For: Violation of the
 
-Data Privacy Act of
 
-2012 NPC 21 -167
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-She claim ed that “[w]hen the seller asked for proof of delivery,
+She claimed that “[w]hen the seller asked for proof of delivery,
 
 Shopee forwarded [her] son’s photo to the seller and was sent to [her]
 
-as proof of delivery.” 4 She also claim ed that she requested Shopee “to
+as proof of delivery.” 4 She also claimed that she requested Shopee “to
 
 remove [her] son’s photo out of their system” 5 but Shopee refused
 
 her request .6
 
-MAF assert ed that Shopee violated Section 28 (Processing for an
+MAF asserted that Shopee violated Section 28 (Processing for an
 
 Unauthorized Purpose) and Section 32 (Unauthorized Disclosure) of
 
-the DPA .7 MAF also pray ed for a fine to be imposed on Shopee and
+the DPA .7 MAF also prayed for a fine to be imposed on Shopee and
 
 for Shopee to remove her son’s photo and to “include in their
 
@@ -105,7 +100,7 @@ taken as proof of delivery.” 8
 
 On 02 November 2021, an Order was issued directing Shopee to file a
 
-verified comment within fifteen (15) calendar days from receipt of th e
+verified comment within fifteen (15) calendar days from receipt of the
 
 Order. 9 The parties were also ordered to appear virtually for a
 
@@ -113,7 +108,7 @@ preliminary conference on 26 January 2022 .10
 
 On 17 November 2021, Shopee filed its Verified Comment. 11  Shopee
 
-contend ed that when “ MAF signed up for an account, she agreed to
+contended that when “ MAF signed up for an account, she agreed to
 
 the Terms of Service and expressly consented to the Privacy Policy .” 12
 
@@ -125,7 +120,7 @@ Shopee ’s Privacy Policy provides:
 
 13. We do not knowingly collect or maintain any personal data
 
-or non -personally -identifiable information from anyone under
+or non-personally-identifiable information from anyone under
 
 the age of 13 nor is any part of our Platform or other Services
 
@@ -135,25 +130,21 @@ guardian, please do not allow such children under your care
 
 to submit personal data to Shopee. In the event that personal
 
-data of a child under the age of 13 in your car e is disclosed to
+data of a child under the age of 13 in your care is disclosed to
 
 Shopee, you hereby consent to the processing of the child’s
 
 personal data and accept and agree to be bound by this Policy
 
-> 4Id .
-> 5Id. at 4.
-> 6Id .
-> 7Complaints Assisted Form, 12 August 2021, at 3, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 2021).
-> 8Id. at 5.
-> 9Order, 02 November 2021, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 2021).
-> 10 Id.
-> 11 Respondent’s Verified Comment, 17 November 2021, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 2021).
-> 12 Id. at 3.
 
-NPC 21 -167
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
+
+
+
+
+
+
 
 on behalf of such child. We will close any accounts used
 
@@ -163,39 +154,39 @@ personal data we believe was submitted without parental
 
 consent by any child under the age of 13. 13
 
-Shopee allege d that on 04 August 2021, the Third -Party Logistics
+Shopee alleged that on 04 August 2021, the Third -Party Logistics
 
 Rider (rider) attempted to deliver the package directly to MAF .14
 
-Shopee claimed that MAF , however, was unavailable to receive the
+Shopee claimed that MAF, however, was unavailable to receive the
 
 delivery and it was her son who answered the door to receive the
 
 package .15
 
-Shopee further allege d that MAF had initially filed a request for
+Shopee further alleged that MAF had initially filed a request for
 
 refund prior to the delivery of the package on 04 August 2021 .16
 
-Shopee claim ed that because the seller tagg ed the Order as
+Shopee claimed that because the seller tagged the Order as
 
-“Completed”, MAF reached out to the seller to question the tag ging
+“Completed”, MAF reached out to the seller to question the tagging
 
 of the Order. 17
 
-Shopee state d that the photo wa s “taken as proof that the package
+Shopee stated that the photo was “taken as proof that the package
 
 was safely delivered or the status of delivery, for the protection
 
-buyers, seller s, and partners, and for audit purposes.” 18  Contrary to
+buyers, sellers, and partners, and for audit purposes.” 18  Contrary to
 
 MAF ’s assertions that Shopee provided a copy of the proof of
 
-delivery to the seller , Shopee stated that “unlike the buyer, the seller
+delivery to the seller, Shopee stated that “unlike the buyer, the seller
 
 cannot readily access the [proof of delivery].” 19
 
-On 16 December 2021, Shopee filed a Manifestation. 20  Shopee state d
+On 16 December 2021, Shopee filed a Manifestation. 20  Shopee stated
 
 that as of 06 December 2021, it updated its Guidelines to prohibit the
 
@@ -209,20 +200,16 @@ of the buyer who is the minor’s parent or guardian. Photos of minors
 
 shall not be taken under any circumstances.” 22
 
-> 13 Id. at 4.
-> 14 Id. at 5.
-> 15 Id.
-> 16 Id. at 6.
-> 17 Respondent’s Verified Comment, 17 November 2021, at 6, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 2021).
-> 18 Id. at 5.
-> 19 Id. at 6.
-> 20 Respondent’s Manifestation, 16 December 2021, at 1, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 2021).
-> 21 Id.
-> 22 Id .at 1 -2.
 
-NPC 21 -167
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
+
+
+
+
+
+
+
 
 On 26 January 2022, both parties were present at the Preliminary
 
@@ -238,7 +225,7 @@ proof of delivery ” based on the statement MAF made in her CAF. 24
 
 MAF clarified that the proof of delivery can be accessed through a
 
-link in the Shopee app lication that direct s the Shopee account holder
+link in the Shopee application that directs the Shopee account holder
 
 to the picture as proof of delivery. 25
 
@@ -248,15 +235,15 @@ submit additional evidence to counter Shopee’s allegations that she
 
 allegedly gave consent to the rider that her son will receive the
 
-packag e.26  Shopee ’s counsel moved that Shopee be allowed to
+package.26  Shopee ’s counsel moved that Shopee be allowed to
 
 comment on the additional evidence of MAF .27  This motion was
 
 granted. 28
 
-The parties manifested that they are both willing to under go
+The parties manifested that they are both willing to undergo
 
-mediation proceedings . They, however, requested to be allowed to
+mediation proceedings. They, however, requested to be allowed to
 
 submit the documents and pleadings required before mediation. 29
 
@@ -266,7 +253,7 @@ composed of screenshots of the text messages allegedly between her
 
 and the rider on 08 November 2021 to prove that she did not give
 
-consent to let her son receive the package nor take hi s photo. 30  In the
+consent to let her son receive the package nor take his photo. 30  In the
 
 series of text messages, the rider apologized for taking her son ’s
 
@@ -282,20 +269,16 @@ additional evidence submitted by MAF .32  Shopee averred that the 08
 
 November 2021 text exchange should not be admitted for being
 
-> 23 Order After 1 st Preliminary Conference, 26 January 2022, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 202 2).
-> 24 Id.
-> 25 Id.
-> 26 Id.
-> 27 Id.
-> 28 Id.
-> 29 Order After 1 st Preliminary Conference, 26 January 2022, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 202 2).
-> 30 Complainant’s Additional Evidence, 26 January 2022, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 202 2).
-> 31 Id.
-> 32 Respondent’s Comment/Opposition, 14 February 2022, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 202 2).
 
-NPC 21 -167
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
+
+
+
+
+
+
+
 
 hearsay under the 2019 Amendments to the 1989 Revised Rules on
 
@@ -313,17 +296,17 @@ On 06 May 2022, MAF submitted her Memorandum. 37  MAF stated
 
 that she specifically instructed the rider to wait for her so that she can
 
-personally receive the delivery .38  She allege d that despite her
+personally receive the delivery .38  She alleged that despite her
 
 instructions, the rider delivered the package to the person who
 
-answered the door, which was MAF ’s son , because he was pressed
+answered the door, which was MAF ’s son, because he was pressed
 
 for time. 39  She claimed that her son answered the door because he
 
 thought that it was his grandfather who had arrived. 40  Thereafter,
 
-MAF allege d that the rider gave the package to her son and took his
+MAF alleged that the rider gave the package to her son and took his
 
 picture without his consent and the photo was then uploaded in the
 
@@ -335,7 +318,7 @@ discovered that the rider made “an untruthful narration in his
 
 incident report, stating that [the rider] notified [MAF ] that a minor is
 
-not allowed to receive package s. This did not happen.” 42  She allege d
+not allowed to receive package s. This did not happen.” 42  She alleged
 
 that the apology in the text exchange between her and the rider is
 
@@ -349,26 +332,22 @@ reiterated the facts it narrated in its Verified Comment. Shopee
 
 argue d that it already complied with MAF ’s prayers by delet ing the
 
-> 33 Id.
-> 34 Notice of Non -settlement of Dispute, 06 April 2022, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 2022).
-> 35 Id.
-> 36 Order, 07 April 2022, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 202 2).
-> 37 Complainant’s Memorandum, 06 May 2022, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 202 2).
-> 38 Id. at 1.
-> 39 Id.
-> 40 Id.
-> 41 Id. at 2.
-> 42 Id.
-> 43 Complainant’s Memorandum, 06 May 2022, at 2, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 202 2).
-> 44 Respondent’s Memorandum, 10 May 2022 ,in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 202 2).
 
-NPC 21 -167
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
+
+
+
+
+
+
+
+
+
 
 son’s photo in their system and updat ed its Guidelines that prohibits
 
-the taking of a minor’s picture as proof of delivery , thus, making the
+the taking of a minor’s picture as proof of delivery, thus, making the
 
 case moot. 45  Hence, Shopee pray s for the dismissal of the case. 46
 
@@ -386,23 +365,23 @@ III. Whether Shopee violated the general privacy principle of
 
 proportionality.
 
-Discussion
+### Discussion
 
-Shopee , as the Personal Information Controller (PIC), is responsible
+Shopee, as the Personal Information Controller (PIC), is responsible
 
 for the action s of the Personal Information Processor (PIP), the Third -
 
-Party Logistics Provider and consequently, its rider . Section 21 of the
+Party Logistics Provider and consequently, its rider. Section 21 of the
 
 DPA discusses the principle of accountability:
 
-Section 21. Principle of Accountability . Each personal information
+Section 21. Principle of Accountability. Each personal information
 
 controller is responsible for personal information under its
 
 control or custody, including information that have been
 
-transferred to a third party for processing , whether domestically
+transferred to a third party for processing, whether domestically
 
 or internationally, subject to cross -border arrangement and
 
@@ -418,15 +397,11 @@ level of protection while the information are being processed by
 
 a third party. 47
 
-> 45 Id. at 29 -31.
-> 46 Id. at 39 -40 .
-> 47 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government
+
+
+
 > and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy
 > Act of 2012], Republic Act No. 10173 § 21 (2012). Emphasis supplied.
-
-NPC 21 -167
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 While Shopee, as the PIC, subcontracted the processing of personal
 
@@ -444,7 +419,7 @@ Personal Information and Sensitive Personal Information for
 
 Unauthorized Purposes ) of the DPA and Section 32 (Unauthorized
 
-Disclosure) of the DPA. Shopee , however, violated the general
+Disclosure) of the DPA. Shopee, however, violated the general
 
 privacy principle of proportionality.
 
@@ -458,13 +433,13 @@ MAF alleged that Shopee is liable f or violation of Section 28 of the
 
 DPA when Shopee pr ocessed a photo of her son as proof of delivery
 
-when the rider delivered the package to MAF ’s residence . Section 28
+when the rider delivered the package to MAF ’s residence. Section 28
 
 (a) of the DPA provides:
 
 Section. 28. Processing of Personal Information and Sensitive
 
-Personal Information for Unauthorized Purposes . (a) the processing
+Personal Information for Unauthorized Purposes. (a) the processing
 
 of personal information for unauthorized purposes shall be
 
@@ -484,7 +459,7 @@ this Act or under existing laws .48
 
 To be held liable under Section 28 or the Processing of Personal or
 
-Sensitive Personal Information for Unauthorized Purposes , the
+Sensitive Personal Information for Unauthorized Purposes, the
 
 following requisites must concur:
 
@@ -494,11 +469,7 @@ following requisites must concur:
 
 personal information;
 
-> 48 Data Privacy Act of 2012, § 28 (a) .Emphasis supplied.
 
-NPC 21 -167
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 3.  The person processing the information obtained consent of the
 
@@ -518,7 +489,7 @@ existing laws. 49
 
 The first three (3) requisites are present in this case.
 
-On the first and second requisites, there is no question that Shopee , as
+On the first and second requisites, there is no question that Shopee, as
 
 the PIC, processed the son ’s personal information. Section 3 of the
 
@@ -530,7 +501,7 @@ following terms shall have the respective meanings hereafter set
 
 forth:
 
-. . .
+.. .
 
 (g) Personal information refers to any information whether
 
@@ -544,7 +515,7 @@ together with other information would directly and certainly
 
 identify an individual .
 
-. . .
+.. .
 
 (j) Processing refers to any operation or any set of operations
 
@@ -558,7 +529,7 @@ erasure or destruction of data. 50
 
 Without doubt, a photo is personal information because the identify
 
-of an individual , MAF ’s son , is apparent. Processing of personal
+of an individual, MAF ’s son, is apparent. Processing of personal
 
 information occurred when the rider took the photo of MAF ’s son
 
@@ -566,24 +537,20 @@ and uploaded the photo as proof of delivery in the Shopee platform .
 
 Thus, t he first and second requisites are present.
 
-> 49 NPC 19 -142 ,31 March 202 2, at 12 -13 (NPC 202 2) (unreported).
-> 50 Data Privacy Act of 2012 ,§ 3 (g) & (j ).
 
-NPC 21 -167
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 The third requisite is also present in this case. Shopee processed
 
 personal information according to a lawful criterion under Section 12
 
-of the DPA . Section 12 of the DPA allows for the processing of
+of the DPA. Section 12 of the DPA allows for the processing of
 
 personal information when it is necessary for the purposes of the
 
 legitimate interests pursued by the PIC :
 
-Section . 12. Criteria for Lawful Processing of Personal Information .
+Section. 12. Criteria for Lawful Processing of Personal Information .
 
 The processing of personal information shall be permitted only
 
@@ -591,7 +558,7 @@ if not otherwise prohibited by law, and when at least one of the
 
 following conditions exists:
 
-. . .
+.. .
 
 (f) The processing is necessary for the purposes of the legitimate
 
@@ -617,7 +584,7 @@ override fundamental rights and freedoms of data subjects. 52
 
 Shopee ha d legitimate interest to process the photo as proof of
 
-delivery . Shopee’s Terms of Service provides that it “acts as an
+delivery. Shopee’s Terms of Service provides that it “acts as an
 
 intermediary that brings together the Seller and the Buyer.” 53  As
 
@@ -629,18 +596,14 @@ estimated timeframe.” 54  To effectively do so, it is necessary for
 
 Shopee to secure proof by taking a photo that proves that the package
 
-has been delivered to the buyer , as explained in its Verified
+has been delivered to the buyer, as explained in its Verified
 
 Comment :
 
-> 51 Data Privacy Act of 2012 ,§ 12 (f). Emphasis supplied.
-> 52 See Data Privacy Act of 2012 ,§ 12 (f).
-> 53 Respondent’s Memorandum, 10 May 2022, at 24, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 2022).
-> 54 Id.
 
-NPC 21 -167
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
+
 
 47. The POD plays a crucial role in the confirmation of delivery
 
@@ -690,17 +653,17 @@ receipt of the items ordered via the Shopee App. 55
 
 The re is legitimate interest in takin g a photo as proof of delivery as is
 
-necessary in this case . Thus, th e third requisite is present.
+necessary in this case. Thus, the third requisite is present.
 
-The fourth requisite , however, is lacking in this case. MAF could
+The fourth requisite, however, is lacking in this case. MAF could
 
 have reasonabl y foreseen that the processing is for a purpose that is
 
-necessary and related to Shopee’s legitimate interest. In fact , it was
+necessary and related to Shopee’s legitimate interest. In fact, it was
 
 MAF herself who filed for a refund because of a missing item on her
 
-order . A complaint for incomplete or wrong orders necessarily gives
+order. A complaint for incomplete or wrong orders necessarily gives
 
 rise to a review of the proof of delivery of the package for the buyer,
 
@@ -714,12 +677,8 @@ Section 28 (Processing of Personal or Sensitive Personal Information
 
 for Unauthorized Purposes ) of the DPA .
 
-> 55 Respondent’s Verified Comment, 17 November 2021, at 18 -19, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC
-> 2021).
 
-NPC 21 -167
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 II.  Shopee is not liable under Section 32 (Unauthorized
 
@@ -729,9 +688,9 @@ MAF alleged that Shopee committed Unauthorized Disclosure under
 
 Section 32 of the DPA when Shopee disclosed her son ’s photo as
 
-proof of delivery to the seller . Section 32 (a) of the DPA provides:
+proof of delivery to the seller. Section 32 (a) of the DPA provides:
 
-Section. 32. Unauthorized Disclosure . (a) Any personal
+Section. 32. Unauthorized Disclosure. (a) Any personal
 
 information controller or personal information processor or any
 
@@ -773,7 +732,7 @@ Sections 12 and 13 of the DPA. 57
 
 The rules of statutory construction provide that:
 
-Where a literal meaning would lead to absurdity , contradiction,
+Where a literal meaning would lead to absurdity, contradiction,
 
 or injustice, or otherwise defeat the clear purpose of the
 
@@ -781,13 +740,9 @@ lawmakers, the spirit and reason of the statute may be
 
 examined to determine the true intention of the provision. 58
 
-> 56 Data Privacy Act of 2012 ,§ 32 (a).
-> 57 NPC 19 -134, 10 December 2021 (NPC 2021) (unreported).
-> 58 Metropolitan Bank and Trust Co. v. Liberty Corrugated Boxes Manufacturing Corp. , G.R. No.184317 (2017).
 
-NPC 21 -167
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
 
 Given this, Section 32 of the DPA must be read together with other
 
@@ -805,13 +760,13 @@ thereof must be considered in fixing the meaning of any of its parts in
 
 order to produce a harmonious whole. Every part of the statute must
 
-be interpreted with reference to the context, i.e. , that every part of the
+be interpreted with reference to the context, i.e., that every part of the
 
 statute must be considered together with other parts of the statute
 
 and kept subservient to the general intent of the whole enactment. 59
 
-Thus , Unauthorized Disclosure is committed when:
+Thus, Unauthorized Disclosure is committed when:
 
 [T]he perpetrator processes personal information without any of
 
@@ -841,7 +796,7 @@ Here, MAF claimed that Shopee, as the PIC that acted through its
 
 PIP, allegedly disclosed personal information to the seller, a third
 
-party , without her consent.
+party, without her consent.
 
 As previously discussed, Shopee, through its PIP, processed the
 
@@ -855,14 +810,10 @@ when the disclosure is done under one of the lawful criteria for
 
 processing in Section 12 of the DPA. 62
 
-> 59 Fort Bonifacio Development Corp. v. Commissioner of Internal Revenue, G.R. Nos. 158885 & 170680 (Resolution) (2009).
-> 60 NPC 21 -032, 16 May 2022 (NPC 2022) (unreported).
-> 61 NPC 21 -010, 03 February 2022 (NPC 2022) (unreported).
-> 62 Data Privacy Act of 2012 ,§ 12.
 
-NPC 21 -167
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
+
 
 Further, the seller is not considered a third party to the online
 
@@ -884,7 +835,7 @@ proportionality.
 
 Shopee violated the proportionality principle when the PIP’s rider
 
-took the photo as proof of delivery . The general privacy principle of
+took the photo as proof of delivery. The general privacy principle of
 
 proportionality requires that the processing is adequate, relevant,
 
@@ -910,7 +861,7 @@ proportionality .
 
 Personal information must, be:
 
-. . .
+.. .
 
 (c) Accurate, relevant and, where necessary for purposes for
 
@@ -924,12 +875,8 @@ supplemented, destroyed or their further processing restricted;
 
 which they are collected and processed [.] 64
 
-> 63 Respondent’s Memorandum, 10 May 2022, at 24, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 2022).
-> 64 Data Privacy Act of 2012, § 11. Emphasis supplied.
 
-NPC 21 -167
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Section 1 8 of the Implementing Rules and Regulations of the DPA
 
@@ -937,13 +884,13 @@ Section 1 8 of the Implementing Rules and Regulations of the DPA
 
 Section 18. Principles of Transparency, Legitimate Purpose and
 
-Proportionality . The processing of personal data shall be allowed
+Proportionality. The processing of personal data shall be allowed
 
 subject to adherence to the principles of transparency, legitimate
 
 purpose, and proportionality.
 
-. . .
+.. .
 
 c. Proportionality. The processing of information shall be
 
@@ -993,13 +940,9 @@ Before taking a delivery photo of the Customer/Recipient/Data
 
 Subject with the parcel, a consent from the
 
-> 65 National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No.
-> 10173, rule IV, § 18 (c) (2016).
-> 66 See Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 18 (c).
 
-NPC 21 -167
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
 
 Customer/Recipient/Data Subject should always be secured by
 
@@ -1037,7 +980,7 @@ photo removed when she initiated the “Live Chat” with a Customer
 
 Service (CS) Agent in the Shopee App and demanded that her son ’s
 
-photo be removed. Although the CS Agent tried to file a request , it
+photo be removed. Although the CS Agent tried to file a request, it
 
 was not immediately acted upon because the son ’s photo was used as
 
@@ -1067,13 +1010,9 @@ personal information is still based on a lawful basis to process under
 
 Section 12 (f) of the DPA.
 
-> 67 Complainant’s Memorandum, 06 May 2022, at 25, in MAF v. Shopee Philippines, Inc. NPC 21 -167 (NPC 2022).
-> 68 Id. at 20 -21.
-> 69 Id. at 20.
 
-NPC 21 -167
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
 
 Shopee’s actions, however, is sufficient to warrant an award of
 
@@ -1123,7 +1062,7 @@ MAF exercised the son ’s right to be removed from Shopee’s system,
 
 are sufficient to award nominal damages.
 
-WHEREFORE , premises considered, the Commission resolves to
+WHEREFORE, premises considered, the Commission resolves to
 
 DISMISS the Complaint of MAF against Shopee Philippines, Inc.
 
@@ -1135,13 +1074,9 @@ Philippines, Inc .’s viol ation the general privacy principle of
 
 proportionality .
 
-> 70 An Act to Ordain and Institute the Civil Code of the Philippines [ CIVIL CODE ], Republic Act No. 386, art. 2221 (1949).
-> 71 Seven Brothers Shipping Corporation v. DMC -Construction Resources, Inc. G.R. No. 193914. November 26 ,2014.
-> 72 NPC 18 -038, 21 May 2020 (NPC 2020) (unreported).
 
-NPC 21 -167
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
 
 This is without prejudice to the filing of appropriate civil, criminal or
 
@@ -1155,15 +1090,11 @@ City of Pasay, Philippines.
 
 22 September 2022.
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 I CONCUR:
-
-Sgd.
 
 JOHN HENRY D. NAGA
 

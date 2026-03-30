@@ -1,13 +1,23 @@
 ---
-title: "NPC SS 19-910: In Re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application"
-description: "NPC SS 19-910: In Re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC SS 19-910
+- npc ss 19-910
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC SS 19-910
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC SS 19-910: In Re: Fynamics Lending Inc. Operating PondoPeso Online Lending
+  Application'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC SS 19-910
@@ -22,8 +32,6 @@ draft: false
 - Motion for Extension
 
 ## Resolution Text
-> 5th Floor ,Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 IN RE : FYNAMICS LENDING
 
@@ -35,7 +43,7 @@ LENDING APPLICATION
 
 -----x---------------------------------------x
 
-NPC 19 -910
+NPC 19910
 
 For violation of the
 
@@ -75,7 +83,7 @@ interest of an exhaustive investigation, the Commission grants the
 
 requested additional time to submit the required documents.
 
-WHEREFORE, the Commission GRANTS a final and non -extendible
+WHEREFORE, the Commission GRANTS a final and nonextendible
 
 extension of ten (10) days or until 25 November 2020 for Fynamics
 
@@ -91,14 +99,9 @@ SO ORDERED.
 
 City of Pasay, Philippines
 
-19 November 2020. NPC 19 -910
+19 November 2020. NPC 19910
 
 In re: Fynamics Lending Inc.
-
-> 5th Floor ,Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -106,13 +109,9 @@ Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 RAYMUND E NRIQUEZ LIBORO
 
 Privacy Commissioner
-
-Sgd.
 
 JOHN HENRY D. NAGA
 

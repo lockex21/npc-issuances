@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-115: In Re: REMIT, Inc."
-description: "Noti fication to the C ommission , 04 J uly 2018 , at 2, in In re: I-Remit , Inc ., NPC B N 18 -11 5 (NPC"
+title: 'NPC BN 18-115: In Re: REMIT, Inc.'
+description: 'Noti fication to the C ommission , 04 J uly 2018 , at 2, in In re: I-Remit
+  , Inc ., NPC B N 18 -11 5 (NPC'
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2018
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-115"'
+- '"npc bn 18-115"'
+- '"In Re: REMIT, Inc."'
+- '"in re: remit, inc."'
+date: '2018-06-21'
 ---
 
 ## Source

@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2024-011_Sgd_Redacted"
-description: "We respond to your request for an Advisory Opinion on the propriety of releasing the death certificate of war veteran-pensioners (pensioners) either to or for the processing of insurance claims."
+title: "NPC Advisory Opinion No. 2024-011 — Request of Death Certificates for the Processing of Insurance Claims"
+description: "Guidance on releasing death certificates for settlement of insurance claims involving loan obligations."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -14,22 +14,19 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                               ADVISORY OPINION NO. 2024-0111
 
  12 November 2024
 
-
-
-
-      Re:           REQUEST   OF   DEATH  CERTIFICATES                                          FOR            THE
+   Re:           REQUEST   OF   DEATH  CERTIFICATES                                          FOR            THE
                     PROCESSING OF INSURANCE CLAIMS
 
-Dear
+Dear [Redacted],
 
 We respond to your request for an Advisory Opinion on the propriety of releasing the death
 certificate of war veteran-pensioners (pensioners) either to                            or
                                  for the processing of insurance claims.
+
+### Discussion
 
 You inform that        grants loans to pensioners pursuant to its partnership with the
                                              The loans are paid through the pensioners’
@@ -38,8 +35,6 @@ of demise, the proceeds will be applied to the loans and the excess, if any, sha
 pensioners’ heirs.    a wholly owned subsidiary of         facilitates the processing of the
 insurance claims on behalf of         owns an insurance company currently servicing the
 insurance requirements of      2
-
-
 
 Upon the death of the pensioners, their heirs are entitled to claim burial and other death
 benefits from the         The process involves submission of the pensioners’ death certificates
@@ -51,20 +46,14 @@ the time, however, the heirs fail to submit a copy of the death certificate to  
 
 Hence, this request for an Advisory Opinion.
 
-
-
-
-1 Tags: personal data; lawful criteria for processing, sensitive personal information, establishment or exercise of legal claims,
-
 legitimate interest, fulfillment of contractual obligations; general data privacy principles.
-2                                   available at                            (last accessed 09 October 2024).
 
 Death Certificate; personal data
 
 A death certificate is an official document setting forth particulars relating to a person’s
 death.3 It contains the following details relating to an individual, namely:
 
-            a) date and place of death,
+   a) date and place of death,
             b) full name,
             c) age,
             d) sex,
@@ -98,23 +87,18 @@ Sections 12 and 13 of the DPA.
 
 Lawful criteria for processing
 
-     ’s request for the death certificates of its deceased debtor-pensioners for the settlement of
+   ’s request for the death certificates of its deceased debtor-pensioners for the settlement of
 their financial obligations finds bases under Sections 12 (b) and 13 (f) of the DPA which
 respectively provides:
 
-            Section 12. Criteria for Lawful Processing of Personal Information – The processing of
+   Section 12. Criteria for Lawful Processing of Personal Information – The processing of
             personal information shall be permitted only if not otherwise prohibited by law,
             and when at least one of the following conditions exists:
 
 
-3 Philippine Statistics Authority, Death Certificate, available at https://psa.gov.ph/death-certificate (last accessed 04 September
-
 2024).
-4 §6, Law on Registry of Civil Status, Act No. 3753 (1930).
-5 §3(g), Republic Act No. 10173.
-6 Id., §3(L).
 
-                                                       xxx
+   xxx
             (b) The processing of personal information is necessary and is related to the
             fulfillment of a contract with the data subject or in order to take steps at the request
             of the data subject prior to entering into a contract.
@@ -130,18 +114,18 @@ respectively provides:
 
 The provision of the insurance policy pertinently states:
 
-            Section 7. Amount of Claim Payment. – In the event of a claim, xxx shall pay to
+   Section 7. Amount of Claim Payment. – In the event of a claim, xxx shall pay to
                                                       the amount which shall not exceed the
             outstanding loan balance at the time of the death of the insured/borrower.
 
 Related to the above provision, the consent clause states:
 
-            I/we hereby consent and authorize            to collect, use, process, store, update, and
+   I/we hereby consent and authorize            to collect, use, process, store, update, and
             disclose all of my information, personal and otherwise, relative to any loan,
             products, services, facilities or channels that I/we may avail of now or in the future
             from the bank. xxx
 
-            I/we hereby consent to the transfer, disclosure, and communication of any
+   I/we hereby consent to the transfer, disclosure, and communication of any
             information xxx from         to its branches, subsidiary, agents and representatives
             and third parties xxx selected by       (collectively referred to as the ”Receiving and
             Disclosing Parties”) for the following uses, including but not limited to: (i) the
@@ -202,15 +186,17 @@ adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 
-
 Very truly yours,
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-
-
-
 9 Guidelines on Personal Data Processing Based on Section 13(f) of the Data Privacy Act of 2012.
 10§8, General Insuring Provisions, Group Credit Life Insurance Policy.
+
+[^2]: available at                            (last accessed 09 October 2024).
+[^3]: Philippine Statistics Authority, Death Certificate, available at https://psa.gov.ph/death-certificate (last accessed 04 September
+[^4]: §6, Law on Registry of Civil Status, Act No. 3753 (1930).
+[^5]: §3(g), Republic Act No. 10173.
+[^6]: Id., §3(L).

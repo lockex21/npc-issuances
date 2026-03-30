@@ -1,10 +1,10 @@
 ---
-title: "Advisory Opinion No. 2023-022"
-description: "We respond to your request for an Advisory Opinion on the apparent conflict between the media’s right to access a police blotter for journalistic purposes vis-à-vis the confidential treatment by the Philippine National Police (PNP) of the same."
+title: "NPC Advisory Opinion No. 2023-022 — Media Access to Police Blotters"
+description: "Advisory Opinion on the apparent conflict between the media’s right to access a police blotter for journalistic purposes and the confidential treatment by the Philippine National Police (PNP) of the same."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+  - issuance
+  - type/advisory-opinion
+  - year/2023
 draft: false
 ---
 
@@ -14,24 +14,17 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                              ADVISORY OPINION NO. 2023-0221
-
 
  28 November 2023
 
+   Re:     MEDIA ACCESS TO POLICE BLOTTERS
 
-
-
-                          Re:     MEDIA ACCESS TO POLICE BLOTTERS
-
-
-
-Dear                                       :
-
+Dear [Redacted],
 We respond to your request for an Advisory Opinion on the apparent conflict between the
 media’s right to access a police blotter for journalistic purposes vis-à-vis the confidential
 treatment by the Philippine National Police (PNP) of the same.
+
+### Discussion
 
 We were informed that you initiated a meeting with some officials of the PNP and of the
 National Privacy Commission (NPC) where you raised the concern that some media reporters
@@ -49,11 +42,6 @@ be treated similarly to a Freedom of Information (FOI) request.
 Thus, you seek the NPC’s opinion relative to the application of the DPA on the parties’
 seemingly opposing positions.
 
-
-
-1 Tags: press freedom; journalistic purpose, special case; freedom of information; security measures.
-2 Philippine National Police, Police Blotter and CIRAS Information Access, Memorandum Circular No. 2020-037 (May 20, 2020).
-
 Personal data; lawful criteria for processing;
 Sec. 4(d), special cases
 
@@ -64,19 +52,19 @@ other information would directly and certainly identify an individual.3
 
 On the other hand, sensitive personal information refers to information:
 
-        (1) About an individual’s race, ethnic origin, marital status, age, color, and
+   (1) About an individual’s race, ethnic origin, marital status, age, color, and
         religious, philosophical or political affiliations;
 
-        (2) About an individual’s health, education, genetic or sexual life of a person, or
+   (2) About an individual’s health, education, genetic or sexual life of a person, or
         to any proceeding for any offense committed or alleged to have been committed
         by such person, the disposal of such proceedings, or the sentence of any court in
         such proceedings;
 
-        3) Issued by government agencies peculiar to an individual which includes, but
+   3) Issued by government agencies peculiar to an individual which includes, but
         not limited to, social security numbers, previous or cm-rent health records,
         licenses or its denials, suspension or revocation, and tax returns; and
 
-        (4) Specifically established by an executive order or an act of Congress to be kept
+   (4) Specifically established by an executive order or an act of Congress to be kept
         classified.4
 
 As can be gleaned from the foregoing, a police blotter would, a fortiori, contain either personal
@@ -98,9 +86,6 @@ The people have a fundamental right to information particularly on matters of pu
 Every Filipino citizen is afforded this right, subject to certain limitations provided by law. This
 constitutional guarantee is a recognition of the importance of the free flow of ideas and
 information in a democracy; it enables citizens to cope with the exigencies of the times.6
-
-
-
 
 3 Republic Act No. 10173, § 3(g).
 4 Republic Act No. 10173, § 3(l).
@@ -124,7 +109,7 @@ the privacy of persons is an exception to the general rule on the right of acces
 It has been held that access to public documents may be duly regulated, despite their nature
 as such. Thus, the Supreme Court ruled in Legaspi vs. Civil Service Commission:10
 
-           A distinction has to be made between the discretion to refuse outright the disclosure of
+   A distinction has to be made between the discretion to refuse outright the disclosure of
            or access to particular information and the authority to regulate the manner in which
            the access is to be afforded. The first is a limitation upon the availability of access to the
            information sought, which only the Legislature may impose (Art. III, Sec. 6, 1987
@@ -145,9 +130,6 @@ personal data in police blotters, which includes classifying the information con
 to determine the appropriate security measures to put in place. This is also in line with the
 provisions in E.O. No. 02, which allows for certain exceptions as to the disclosure of
 information marked as confidential by the appropriate government agency or authority.
-
-
-
 
 7 NPC Advisory Opinion No. 2020-026 (June 26, 2020).
 8 Office of the President, Operationalizing in The Executive Branch The People’s Constitutional Right To Information and The
@@ -206,7 +188,6 @@ considering that what is only regulated is the level of access to the informatio
 the police blotter, and does not operate as a total prohibition in accessing the information
 itself.
 
-
 11 PNP MC No. 2020-037, § 3 (2020).
 
 12 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §18 (c) (2016).
@@ -216,9 +197,7 @@ you have provided. Any extraneous fact that may be subsequently furnished us may
 our present position. Please note further that our Advisory Opinion is not intended to
 adjudicate the rights and obligations of the parties involved.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV

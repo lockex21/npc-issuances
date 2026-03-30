@@ -1,13 +1,22 @@
 ---
-title: "NPC 17-K-001: JCR vs. GLOBE TELECOM, INC."
-description: "NPC 17-K-001: JCR vs. GLOBE TELECOM, INC."
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC 17-K-001
+- npc 17-k-001
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC 17-K-001
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC 17-K-001: JCR vs. GLOBE TELECOM, INC.'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC 17-K-001
@@ -21,8 +30,6 @@ draft: false
 - Technical Security Measures
 
 ## Resolution Text
-> 5th Floor ,Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 JCR
 
@@ -50,8 +57,7 @@ complaint filed by Complainant JCR for alleged violations of R epublic
 
 Act 10173 (“Data Privacy Act”).
 
-The Facts
-
+### Facts
 On 05 December 2019, this Commission issued a Decision 2 with the
 
 following disposition :
@@ -79,7 +85,7 @@ undertake to address the issue of delayed SIM deact ivation such as
 in this case, including the timeline for the implementation of such
 
 > 1Compliance Report dated 3 February 2020.
-> 2Decision dated 5 December 2019. NPC Case No. 17 -K-001
+> 2Decision dated 5 December 2019. NPC Case No. 17K-001
 > JCR v. Globe Telecom, Inc.
 > Page 2of 5
 > measures, within thirty (30) days from receipt of this Decision.
@@ -151,7 +157,7 @@ employees. Respondent introduced enhancement s in its procedure to
 > 4Letter to the National Privacy Commission dated 3 February 2020.
 > 5Enforcement Letter dated 3 August 2020.
 > 6Ibid .
-> 7Globe’s Comprehensive Report dated 20 August 2020. NPC Case No. 17 -K-001
+> 7Globe’s Comprehensive Report dated 20 August 2020. NPC Case No. 17K-001
 > JCR v. Globe Telecom, Inc.
 > Page 3of 5
 
@@ -179,8 +185,7 @@ it is conducting an investigation on the matter in order to issue
 
 appropriate sanctions against the erring officer s and employees .9
 
-Discussion
-
+### Discussion
 This Commission hereby considers the instant case as closed . Section
 
 28 of the Implementing Rules and Regulations of the Data Privacy Act
@@ -230,7 +235,7 @@ f. A process for regularly testing, assessing, and evaluating the
 effectiveness of security measures;
 
 > 8Ibid.
-> 9Ibid .NPC Case No. 17 -K-001
+> 9Ibid .NPC Case No. 17K-001
 > JCR v. Globe Telecom, Inc.
 > Page 4of 5
 > g. Encryption of personal data during storage and while in transit,
@@ -294,7 +299,7 @@ Pasay City, Philippines ;
 10 September 2020.
 
 > 10 Emphasis supplied.
-> 11 Supra note 1. NPC Case No. 17 -K-001
+> 11 Supra note 1. NPC Case No. 17K-001
 > JCR v. Globe Telecom, Inc.
 > Page 5of 5
 

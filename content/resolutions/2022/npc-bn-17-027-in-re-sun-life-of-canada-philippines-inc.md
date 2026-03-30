@@ -1,13 +1,20 @@
 ---
-title: "NPC BN 17-027: In Re: Sun Life of Canada (Philippines), Inc."
-description: "NPC BN 17-027: In Re: Sun Life of Canada (Philippines), Inc."
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: 'NPC BN 17-027: In Re: Sun Life of Canada (Philippines), Inc.'
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC BN 17-027: In Re: Sun Life of Canada (Philippines), Inc.'
+aliases:
+- NPC BN 17-027
+- npc bn 17-027
+date: '2022-09-22'
 ---
+
+
+
 
 ## Source
 - Reference: NPC BN 17-027
@@ -21,8 +28,6 @@ draft: false
 - Notification of Data Subjects
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 IN RE: BREACH NOTIFICATION
 
 REPORT OF SUN LIFE OF CANADA
@@ -31,7 +36,7 @@ REPORT OF SUN LIFE OF CANADA
 
 x----------------------------------------------------x
 
-AGUIRRE , D. P.C.;
+AGUIRRE, D. P.C.;
 
 Before the Commission is the Compliance dated 11 March 202 0
 
@@ -39,9 +44,9 @@ submitted by Sun Life of Canada (Philippines), Inc. (Sun Life) in
 
 fulfillment of the directive in the Resolution dated 25 July 2019 .1
 
-Facts
+### Facts
 
-On 25 July 20 19 , the Commission issued a Resolution denying Sun
+On 25 July 20 19, the Commission issued a Resolution denying Sun
 
 Life’s request for exemption from notification of data subject upon
 
@@ -51,7 +56,7 @@ Life, “would not involve costly and disproportionate effort.” 2 The
 
 dispositive portion of the Resolution states:
 
-WHEREFORE , this Commission DENIES the request for
+WHEREFORE, this Commission DENIES the request for
 
 exemption from the notification requirements, and ORDERS
 
@@ -65,17 +70,13 @@ including details of notification, thirty (30) days from receipt of
 
 this Order.
 
-SO ORDERED. 3
+**SO ORDERED.** 3
 
 > 1Letter re: Resolutions of the Commission En Banc dated 25 July 2019 and 24 October 2019 (NPC BN No. 17 -027 “In Re:
 > Breach Notification Report of Sun Life of Canada (Philippines), Inc.”, 05May 2022, Annex A, in In Re: Sun Life of Canada
 > (Philippines), Inc. , NPC BN 17 -027 (NPC 2022).
 > 2NPC BN 17 -027, 25 July 2019, at 2 (NPC 2019) (unreported).
-> 3NPC BN 17 -027 ,25 July 20 19 (NPC 2019) (unreported) .
-
-NPC BN 17 -027 NPC BN 17 -027
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+> 3NPC BN 17 -027,25 July 2019 (NPC 2019) (unreported) .
 
 On 05 September 2019, Sun Life submitted a letter seeking
 
@@ -91,7 +92,7 @@ further claimed that “it is not likely that the information
 
 inadvertently disclosed will be used for fraud.” 6
 
-On 24 October 2019 , t he Commission issued a Resolution denying
+On 24 October 2019, t he Commission issued a Resolution denying
 
 Sun Life’s request for reconsideration since there was no sufficient
 
@@ -143,10 +144,6 @@ email addresses of the affected clients.
 > Breach Notification Report of Sun Life of Canada (Philippines), Inc.” , 0 5May 2022, Annex A, in In Re: Sun Life of Canada
 > (Philippines), Inc. , NPC BN 17 -027 (NPC 2022).
 
-NPC BN 17 -027
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 • The client who was able to access the other client’s policy
 
 information was instructed to delete any information he
@@ -173,19 +170,19 @@ information about the incident and the data subject’s personal
 
 information involved in the breach. 14 It further assured the data
 
-subject that it immediately corrected the error , that the data subject’s
+subject that it immediately corrected the error, that the data subject’s
 
-account has been secured , and that no unauthorized transaction was
+account has been secured, and that no unauthorized transaction was
 
 made. 15 It also provided contact details in case the data subject would
 
 need more information or assistance. 16
 
-Issue
+### Issue
 
 Whether Sun Life complied with the Resolution dated 25 July 2019.
 
-Discussion
+### Discussion
 
 The Commission resolves to close the case upon finding that Sun Life
 
@@ -206,10 +203,6 @@ breach .
 > 14 Id. Annex B .
 > 15 Id .
 > 16 Id .
-
-NPC BN 17 -027
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Sun Life’s letter dated 09 March 2020 included the information
 
@@ -267,22 +260,18 @@ subject’s policies with another client. 18 It further identified the
 
 personal information of the data subject that Sun Life sent by mistake
 
-to the other client , particularly his name, address, birthdate, policy
+to the other client, particularly his name, address, birthdate, policy
 
 number, due date, total accumulated dividends, and cash surrender
 
 value 19
 
-> 17 National Privacy Commission ,Personal Data Breach Management ,Circular No. 3, Series of 2016 [NPC Circ. No. 16 -03],
+> 17 National Privacy Commission,Personal Data Breach Management,Circular No. 3, Series of 2016 [NPC Circ. No. 16 -03],
 > §18 (C) (15 December 2016) .
 > 18 Letter re: Resolutions of the Commission En Banc dated 25 July 2019 and 24 October 2019 (NPC BN No. 17 -027 “In Re:
 > Breach Notification Report of Sun Life of Canada (Philippines), Inc.” , 0 5May 2022, Annex B, in In Re: Sun Life of Canada
 > (Philippines), Inc. , NPC BN 17 -027 (NPC 2022).
 > 19 Id .
-
-NPC BN 17 -027
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Sun Life assured the data subject that it has corrected the error and
 
@@ -300,7 +289,7 @@ Given the foregoing, the Commission finds that Sun Life has
 
 sufficiently notified the affected data subject of the breach.
 
-In addition to this , the Commission notes the measures Sun Life took
+In addition to this, the Commission notes the measures Sun Life took
 
 to address the breach as enumerated in the Compliance Report dated
 
@@ -310,23 +299,19 @@ WHEREFORE, premises considered, Commission resolves that NPC
 
 BN 17-027 – In Re: Sun Life of Canada (Philippines), Inc. is hereby
 
-CLOSED .
+**CLOSED** .
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines .
 
 22 September 2022 .
-
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 I CONCUR:
-
-Sgd.
 
 JOHN HENRY D. NAGA
 
@@ -335,10 +320,6 @@ Privacy Commissioner
 > 20 Id .
 > 21 Id
 > 22 Id .
-
-NPC BN 17 -027
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Copy furnished:
 

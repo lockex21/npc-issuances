@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-143: In re: MyHealth Clinic"
-description: "NPC BN 18-143: In re: MyHealth Clinic"
+title: 'NPC BN 18-143: In re: MyHealth Clinic'
+description: Breach notification resolution on MyHealth Clinic data breach notification
+  compliance.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2018
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-143"'
+- '"npc bn 18-143"'
+- '"In re: MyHealth Clinic"'
+- '"in re: myhealth clinic"'
+date: '2018-08-01'
 ---
 
 ## Source

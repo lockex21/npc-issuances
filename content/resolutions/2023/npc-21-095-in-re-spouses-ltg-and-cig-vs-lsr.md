@@ -1,11 +1,17 @@
 ---
 title: "NPC 21-095: In re: Spouses LTG and CIG vs LSR"
-description: "NPC 21-095: In re: Spouses LTG and CIG vs LSR"
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC 21-095"
+  - "npc 21-095"
+  - "In re: Spouses LTG and CIG vs LSR"
+  - "in re: spouses ltg and cig vs lsr"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-01-19"
 draft: false
 ---
 
@@ -21,7 +27,6 @@ draft: false
 - Sec 13. Sensitive Personal Information & Privileged Information
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 SPOUSES LTG
 
@@ -75,7 +80,6 @@ NPC 21 -095
 
 Spouses LTG and CIG vs LSR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 On 13 October 2022, Complainants received the Decision through
 
@@ -139,7 +143,6 @@ NPC 19 -030 and NPC 19 -132
 
 Spouses LTG and CIG vs LSR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 Lastly, Complainants stated that if sensitive personal information shall
 
@@ -205,7 +208,6 @@ NPC 21 -095
 
 Spouses LTG and CIG vs LSR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 argument of Complainant was already discussed in the Decision of the
 
@@ -270,7 +272,6 @@ NPC 19 -030 and NPC 19 -132
 
 Spouses LTG and CIG vs LSR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 natural or legal persons in court proceedings, or the
 
@@ -350,7 +351,6 @@ NPC 21 -095
 
 Spouses LTG and CIG vs LSR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 concept of “establishment of legal claims” consistent with the
 
@@ -424,7 +424,6 @@ NPC 19 -030 and NPC 19 -132
 
 Spouses LTG and CIG vs LSR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 The Supreme Court held that the cardinal rule in statutory
 
@@ -493,7 +492,6 @@ NPC 21 -095
 
 Spouses LTG and CIG vs LSR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 or her any books, documents, or other things under his or her
 
@@ -537,7 +535,6 @@ City of Pasay, Philippines.
 
 19 January 2023 .
 
-Sgd.
 
 JOHN HENRY D. NAGA
 
@@ -545,7 +542,6 @@ Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -556,11 +552,9 @@ NPC 19 -030 and NPC 19 -132
 
 Spouses LTG and CIG vs LSR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 Deputy Privacy Commissioner
 
-Sgd.
 
 NERISSA N. DE JESUS
 

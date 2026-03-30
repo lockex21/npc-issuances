@@ -1,13 +1,22 @@
 ---
-title: "NPC BN 20-044: In Re: RITM"
-description: "NPC BN 20-044: In Re: RITM"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC BN 20-044
+- npc bn 20-044
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC BN 20-044
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC BN 20-044: In Re: RITM'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC BN 20-044
@@ -21,10 +30,8 @@ draft: false
 - Breach Notification, Personal data Breach
 
 ## Resolution Text
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City 130 7
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
-IN RE: RESEARCH INSTITUTE NPC BN 20 -044
+IN RE: RESEARCH INSTITUTE NPC BN 20044
 
 FOR TROPICAL MEDICINE
 
@@ -36,7 +43,7 @@ On 22 March 2020, a line list from the Research Institute for
 
 Tropical Medicine (RITM) that contained the personal information of
 
-at least nine (9) persons under investigation (PUI) for COVID -19
+at least nine (9) persons under investigation (PUI) for COVID19
 
 circulated on Twitter and Facebook. The source tracing conduc ted by
 
@@ -46,7 +53,7 @@ RITM found possible persons who may have leaked the data from two
 
 As a response, RITM implemented a “No Cellphone Policy”
 
-within their units and circulated a non -disclosure agreem ent among
+within their units and circulated a nondisclosure agreem ent among
 
 their employees. Consequently, the Data Protection Officer (DPO) of
 
@@ -56,7 +63,7 @@ for assistance to conduct a full investigation of this matter.
 
 The Commission reiterates the requirement of NPC Circular No.
 
-16 -03 (Circular) for a personal information controller (PIC) like RITM
+1603 (Circular) for a personal information controller (PIC) like RITM
 
 to have a data breach response team, which may include its DPO. As
 
@@ -80,15 +87,13 @@ breach and immediately enforce the necessary remedial measur es to
 
 prevent further security risks to the data subjects.
 
-> 1NPC Circular 16 -03, Section 5. Republic of the Philippines
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City 130 7
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
+> 1NPC Circular 1603, Section 5. Republic of the Philippines
 
 It must be stressed that notification is the general rule during a
 
 personal data breach. Considering the reported discriminations
 
-against COVID -19 patients a nd those who are connected or related to
+against COVID19 patients a nd those who are connected or related to
 
 them, the Commission finds that this personal data breach gives rise to
 
@@ -148,10 +153,7 @@ Philippines.
 
 22 June 2020.
 
-> 2NPC Circular No. 16 -03.
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City 130 7
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
+> 2NPC Circular No. 1603.
 
 (SGD.)
 

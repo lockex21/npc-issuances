@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-031 — Processing For Due Diligence, Quality Control, And Compliance Checks Pursuant To The Requirements Of The Government Procurement Reform Act"
-description: "''''''''' '''' ''''''''''''''''''''''''' '''''''''''' '''''''''' ''''''''''' '' '''''''''' ''''' '''''''''''''''' ''''''''' ''''''' '''''''''' ''''''''''''' ''' '''' '''''''''''''' '''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2021-031 — Processing For Due Diligence, Quality Control, And Compliance Checks Pursuant To The Requirements Of The Government Procurement Reform Act"
+description: "Guidance on requiring private security agencies to submit disposition reports as part of post-qualification and technical inspection processes under the Government Procurement Reform Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,25 +17,12 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                     ADVISORY OPINION NO. 2021-0311
 
 5 August 2021
 
-''''''''' '''' '''''''''''''''''''''''''
-'''''''''''' '''''''''' ''''''''''' ''
-'''''''''' ''''' '''''''''''''''' '''''''''
-''''''' '''''''''' ''''''''''''' ''' '''' ''''''''''''''
-''''''''''''''''''''''''''''''
-'''''''''''''''''''''''''''''''
+RE: PROCESSING FOR DUE DILIGENCE, QUALITY CONTROL, AND COMPLIANCE CHECKS PURSUANT TO THE REQUIREMENTS OF THE GOVERNMENT PROCUREMENT REFORM ACT
 
-
-              RE:       PROCESSING FOR DUE DILIGENCE, QUALITY CONTROL,
-                        AND COMPLIANCE CHECKS PURSUANT TO THE
-                        REQUIREMENTS OF THE GOVERNMENT PROCUREMENT
-                        REFORM ACT
-
-Dear '''''''''' '''''''''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request received by the National Privacy Commission (NPC)
 asking for guidance on the propriety of requiring Private Security Agencies (PSA) declared as
@@ -58,15 +45,14 @@ make, model and serial number), registration, and authorized ownership.
 Finally, we understand that the CSIS is requiring the aforementioned documents to determine
 the following:
 
-
-1 Tags: criteria for lawful processing; legal obligation; mandate; copyright; general data privacy principles.
-2 An Act Providing For The Modernization, Standardization, And Regulation Of The Procurement Activities Of The
 Government And For Other Purposes. [Government Procurement Reform Act], Republic Act No. 9184 (2002).
 
-     1. Whether security guards deployed in CAAP airports and facilities are duly licensed
+   1. Whether security guards deployed in CAAP airports and facilities are duly licensed
         and included in the MDRs submitted to the PNP SOSIA; and
      2. Whether the personal protection equipment (firearm) they carry are authentic and
         duly registered and licensed by PNP FEO.
+
+### Discussion
 
 Scope of the Data Privacy Act; criteria for lawful
 processing of personal data; legal obligation
@@ -87,19 +73,19 @@ Nevertheless, the processing of personal data in the MDR should have a lawful ba
 the DPA. Section 12 and 13 of the DPA provides for criteria in processing personal data.
 Particularly in your case, the following provision may apply, viz:
 
-          “SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing
+   “SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing
           of personal information shall be permitted only if not otherwise prohibited by law, and
           when at least one of the following conditions exists: x x x
 
-          (c) The processing is necessary for compliance with a legal obligation to which the
+   (c) The processing is necessary for compliance with a legal obligation to which the
           personal information controller is subject; x x x
 
-          (e) The processing is necessary in order to respond to national emergency, to comply with
+   (e) The processing is necessary in order to respond to national emergency, to comply with
           the requirements of public order and safety, or to fulfill functions of public authority
           which necessarily includes the processing of personal data for the fulfillment of its
           mandate; or x x x
 
-          SECTION 13. Sensitive Personal Information and Privileged Information. — The
+   SECTION 13. Sensitive Personal Information and Privileged Information. — The
           processing of sensitive personal information and privileged information shall be
           prohibited, except in the following cases: x x x
 
@@ -124,7 +110,7 @@ together with other information would directly and certainly identify an individ
 
 constitute privileged communication.
 
-       (b) The processing of the same is provided for by existing laws and regulations:
+   (b) The processing of the same is provided for by existing laws and regulations:
        Provided, That such regulatory enactments guarantee the protection of the sensitive
        personal information and the privileged information: Provided, further, That the consent
        of the data subjects are not required by law or regulation permitting the processing of the
@@ -134,18 +120,18 @@ On whether the CSIS may require PSAs to submit their latest MDRs without violati
 DPA, the IRR of the GPRA is highly instructive. Section 34.3, Rule X of the same provides, to
 wit:
 
-                                 “RULE X – POST-QUALIFICATION
+   “RULE X – POST-QUALIFICATION
 
-       Section 34. Objective and Process of Post-Qualification
+   Section 34. Objective and Process of Post-Qualification
 
-                                                  xxx
+   xxx
 
-       34.3 The post-qualification shall verify, validate, and ascertain all statements made and
+   34.3 The post-qualification shall verify, validate, and ascertain all statements made and
        documents submitted by the bidder with the Lowest Calculated Bid/Highest Rated Bid,
        using non-discretionary criteria, as stated in the Bidding Documents. These criteria shall
        consider, but shall not be limited to, the following:
 
-       a) Legal Requirements. To verify, validate, and ascertain licenses, certificates, permits,
+   a) Legal Requirements. To verify, validate, and ascertain licenses, certificates, permits,
           and agreements submitted by the bidder, and the fact that it is not included in any
           “blacklist” as provided in Section 25.3 of this IRR. For this purpose, the GPPB shall
           maintain a consolidated file of all “blacklisted” suppliers, contractors, and
@@ -170,9 +156,6 @@ does not adjudicate issues between parties nor impose any sanctions or award dam
 For your reference.
 
 Very truly yours,
-
-
-
 
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office

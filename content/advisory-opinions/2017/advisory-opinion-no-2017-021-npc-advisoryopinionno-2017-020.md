@@ -1,6 +1,6 @@
 ---
-title: "NPC_AdvisoryOpinionNo._2017-020"
-description: "'''''''''''''''''''' ''''' ''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2017-021 — Scope of the Data Privacy Act of 2012"
+description: "Advisory Opinion on scope of the data privacy act of 2012 under the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,30 +11,24 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2017-021
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryOpinionNo._2017-021.pdf
+- Issue date: 06/14/2017
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                          ADVISORY OPINION NO. 2017-021
 
 14 June 2017
 
-'''''''''''''''''''' ''''' '''''''''''''''''''''''''''
-'''''''''''''''''''''''''''''''''
+   Re:        SCOPE OF THE DATA PRIVACY ACT OF 2012
 
-
-
-              Re:        SCOPE OF THE DATA PRIVACY ACT OF 2012
-
-
-
-Dear ''''''''' ''''''''''''''''''''''''''''
+Dear [Redacted],
 
 This pertains to your query received by the National Privacy Commission (NPC) on 12 May
 2017, via email, which sought to clarify the following matters regarding Republic Act No.
 101731, also known as the Data Privacy Act of 2012 (DPA):
 
-       1. Whether the cooperatives registered under the Cooperative Development Authority
+### Discussion
+
+   1. Whether the cooperatives registered under the Cooperative Development Authority
           (CDA) are covered by the DPA;
        2. If indeed the cooperatives are covered by the law, determine the following:
                a. Obligations of cooperatives
@@ -101,8 +95,6 @@ Nevertheless, for a more comprehensive response to your inquiry, it must be stat
 information submitted to the CIC by cooperatives is listed among those considered by the
 DPA as a special case.
 
-
-
 4 Id., §3(i) Personal information processor refers to any natural or juridical person qualified to act as such under this Act to
 
 whom a personal information controller may outsource the processing of personal data pertaining to a data subject.
@@ -128,12 +120,12 @@ Section 4 of the law and Section 5 of the Implementing Rules and Regulations (IR
 specific types or classes of information from its scope - in particular, paragraph (e) of the
 latter states:
 
-       “Section 5. Special Cases. The Act and these Rules shall not apply to the
+   “Section 5. Special Cases. The Act and these Rules shall not apply to the
        following specified information, only to the minimum extent of collection,
        access, use, disclosure or other processing necessary to the purpose, function,
        or activity concerned: xxx
 
-           e. Information necessary for banks, other financial institutions
+   e. Information necessary for banks, other financial institutions
               under the jurisdiction of the independent, central monetary
               authority or Bangko Sentral ng Pilipinas, and other bodies
               authorized by law, to the extent necessary to comply with
@@ -141,7 +133,7 @@ latter states:
               amended, otherwise known as the Anti-Money Laundering Act,
               and other applicable laws; xxx
 
-       Provided, that the non-applicability of the Act or these Rules do not extend
+   Provided, that the non-applicability of the Act or these Rules do not extend
        to personal information controllers or personal information processors, who
        remain subject to the requirements of implementing security measures for
        personal data protection: Provided further, that the processing of the
@@ -207,7 +199,7 @@ automatically required.
 When the personnel employed are fewer than two hundred fifty (250), registration is not
 required, unless the any of the following circumstances is present:
 
-    1. The processing it carries out is likely to pose a risk to the rights and freedoms of the
+   1. The processing it carries out is likely to pose a risk to the rights and freedoms of the
        data subjects;
     2. The processing is not occasional; or
     3. The processing includes sensitive personal information of at least one thousand
@@ -274,7 +266,6 @@ unauthorized purposes; (e) unauthorized access or intentional breach; (f) concea
 security breaches involving sensitive personal information; (g) malicious disclosure; (h)
 unauthorized disclosure; or (i) combination or series of acts.
 
-
 14 IRR of the DPA, §38(a).
 15 IRR of the DPA, §41(a).
 16 Available at www.privacy.gov.ph
@@ -291,7 +282,7 @@ imposed.19
 
 Lastly, it is important to note Section 34 of the DPA, to wit:
 
-         “SECTION 34. Extent of Liability. — If the offender is a corporation,
+   “SECTION 34. Extent of Liability. — If the offender is a corporation,
          partnership or any juridical person, the penalty shall be imposed upon the
          responsible officers, as the case may be, who participated in, or by their gross
          negligence, allowed the commission of the crime. If the offender is a juridical
@@ -309,19 +300,11 @@ Questions and clarifications may be e-mailed to info@privacy.gov.ph. Complaints 
 submitted to complaints@privacy.gov.ph. You may also visit NPC’s website,
 www.privacy.gov.ph for other services.
 
-
 For your reference.
-
 
 Sincerely,
 
-
-
-
 RAYMUND E. LIBORO
 Privacy Commissioner and Chairman
-
-
-
 
 19 DPA, §35.

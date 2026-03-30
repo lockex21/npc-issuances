@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-030 — Publication Of Copyright Registrations"
-description: "''''''''''''''''''''''''''''' '''' ''''''''''''''''''''''''' '''''' '''''''''''' ''''''''' ''''''''''''''' '''''''''''' ''''''' '' '''' ''''''''''''''' ''' '''''''' ''''' '''''''' '''''''''''' ''''''' ''''''''''' '''''' '''''''' ''''''''' ''''''..."
+title: "NPC Advisory Opinion No. 2021-030 — Publication Of Copyright Registrations"
+description: "Guidance on publication of copyright registrations by the Intellectual Property Office, addressing lawful processing criteria, transparency, and data subject rights."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,24 +17,12 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                     ADVISORY OPINION NO. 2021-0301
 
 30 July 2021
 
-''''''''''''''''''''''''''''' '''' '''''''''''''''''''''''''
-'''''' '''''''''''' '''''''''
-''''''''''''''' '''''''''''' ''''''' '' '''' '''''''''''''''
-''' '''''''' ''''' '''''''' '''''''''''' '''''''
-''''''''''' '''''' '''''''' '''''''''
-'''''' '''''''''''' ''''''''' '''''' '''''''
-''''''''''''''''''''''''''''''''''''''''''
+RE: PUBLICATION OF COPYRIGHT REGISTRATIONS
 
-
-
-              RE:       PUBLICATION OF COPYRIGHT REGISTRATIONS
-
-Dear ''''''''''''''' '''''''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request received by the National Privacy Commission (NPC)
 asking for guidance on the publication of copyright registrations.
@@ -50,7 +38,7 @@ notification and consent adopted by IPOPHL.
 
 We understand further that the purposes of publication are the following:
 
-      1.    To operate as notice to the public of the fact of registration of a copyrighted work;
+   1.    To operate as notice to the public of the fact of registration of a copyrighted work;
       2.    To allow aggrieved and/or contesting parties to put forward a challenge to erroneously
             registered works because the registrant is not the true owner, or the work is not an original
             creative expression of the registrant; and
@@ -60,15 +48,13 @@ We understand finally that the IPOPHL relies on Section 182 of RA No. 8293, also
 the Intellectual Property Code of the Philippines2 mandating the publication in the IPOPHL
 Gazette of the fact of assignment, transfer, and exclusive licensing of copyright, which
 
-1 Tags: criteria for lawful processing; legal obligation; mandate; copyright; general data privacy principles.
-2 An Act Prescribing the Intellectual Property Code and Establishing the Intellectual Property Office, providing for its Powers
-
 and Functions, and for Other Purposes [Intellectual Property Code of the Philippines], Republic Act No. 8293 (1997).
 
 mandate extends to copyright registration by way of necessary implication.
 
-Criteria for lawful processing of personal data; legal
-obligation; mandate
+### Discussion
+
+#### Criteria for Lawful Processing of Personal Data; Legal Obligation; Mandate
 
 The Data Privacy Act of 2012 3 (DPA) applies to the processing of personal and sensitive
 personal information (collectively, personal data) and to any natural and juridical person
@@ -87,7 +73,7 @@ In this scenario, the IPOPHL posits that the basis for the publication of copyri
 is by virtue of Section 182 of the Intellectual Property Code of the Philippines, by way of
 necessary implication:
 
-         “SECTION 182. Filing of Assignment or License. - An assignment or exclusive license
+   “SECTION 182. Filing of Assignment or License. - An assignment or exclusive license
          may be filed in duplicate with the National Library upon payment of the prescribed fee
          for registration in books and records kept for the purpose. Upon recording, a copy of the
          instrument shall be returned to the sender with a notation of the fact of record. Notice of
@@ -102,7 +88,7 @@ been first registered.
 Nevertheless, other provisions of the Intellectual Property Code of the Philippines support
 the publication of copyright registration, to wit:
 
-         “SECTION 2. Declaration of State Policy. ‑ The State recognizes that an effective
+   “SECTION 2. Declaration of State Policy. ‑ The State recognizes that an effective
          intellectual and industrial property system is vital to the development of domestic and
          creative activity, facilitates transfer of technology, attracts foreign investments, and
          ensures market access for our products. It shall protect and secure the exclusive rights of
@@ -110,17 +96,15 @@ the publication of copyright registration, to wit:
          creations, particularly when beneficial to the people, for such periods as provided in this
          Act.
 
-         The use of intellectual property bears a social function. To this end, the State shall
+   The use of intellectual property bears a social function. To this end, the State shall
          promote the diffusion of knowledge and information for the promotion of national
          development and progress and the common good.
-
-
 
 3 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Republic Act No. 10173 (2012).
 
-          It is also the policy of the State to streamline administrative procedures of registering
+   It is also the policy of the State to streamline administrative procedures of registering
           patents, trademarks and copyright, to liberalize the registration on the transfer of
           technology, and to enhance the enforcement of intellectual property rights in the
           Philippines.”4
@@ -158,13 +142,7 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
-
-
-
 
 4 Intellectual Property Code of the Philippines, § 2.

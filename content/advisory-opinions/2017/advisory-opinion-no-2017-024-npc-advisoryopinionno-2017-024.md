@@ -1,6 +1,6 @@
 ---
-title: "NPC_AdvisoryOpinionNo._2017-024"
-description: "'''''''''''''' ''''' ''''''''''''''''''''''' '''' ''''''''''''' ''''''''''''' ''''' '''' '' '''''''''''' ''''''''''''''''''' '''''''"
+title: "NPC Advisory Opinion No. 2017-024 — Retention Period for Personal Data"
+description: "Advisory Opinion on retention period for personal data under the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,35 +11,27 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2017-024
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryOpinionNo._2017-024.pdf
+- Issue date: 06/21/2017
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                 ADVISORY OPINION NO. 2017-24
-
 
  21 June 2017
 
+   Re:         RETENTION PERIOD
 
- '''''''''''''' '''''
- '''''''''''''''''''''''
- '''' ''''''''''''' ''''''''''''' ''''' '''' '' '''''''''''' ''''''''''''''''''' '''''''
-
-
-
-
-            Re:         RETENTION PERIOD
-
-Dear ''''''''' ''''''
+Dear [Redacted],
 
 This is with regard to your query received by the National Privacy Commission (NPC) on 6
 June 2017 regarding retention of personal data under the Data Privacy Act of 2012 (DPA) and
 its Implementing Rules and Regulation (IRR).
 
+### Discussion
+
 Specifically, you seek to inquire on the duration for which your company can keep the
 following files/information:
 
-     a. Job applicant’s personal data after unsuccessful application;
+   a. Job applicant’s personal data after unsuccessful application;
      b. Employee’s personal data after employee ceased employment; and
      c. Benefits enrollment information after employee ceased employment.
 
@@ -49,26 +41,26 @@ or defense of legal claims, or for legitimate business purposes, or as provided 
 
 Further, the IRR expounds on such requirement under Section 19(d), to wit:
 
-           Section 19. General principles in collection, processing and retention. The
+   Section 19. General principles in collection, processing and retention. The
            processing of personal data shall adhere to the following general principles in
            the collection, processing, and retention of personal data: xxx  xxx     xxx
 
-           d. Personal Data shall not be retained longer than necessary.
+   d. Personal Data shall not be retained longer than necessary.
 
 1 Republic Act No. 10173, § 11(e).
 
-        1. Retention of personal data shall only for as long as necessary:
+   1. Retention of personal data shall only for as long as necessary:
 
-          (a) for the fulfillment of the declared, specified, and legitimate purpose, or
+   (a) for the fulfillment of the declared, specified, and legitimate purpose, or
               when the processing relevant to the purpose has been terminated;
 
-          (b) for the establishment, exercise or defense of legal claims; or
+   (b) for the establishment, exercise or defense of legal claims; or
 
-          (c) for legitimate business purposes, which must be consistent with standards
+   (c) for legitimate business purposes, which must be consistent with standards
               followed by the applicable industry or approved by appropriate
               government agency.
 
-        2. Retention of personal data shall be allowed in cases provided by law.”
+   2. Retention of personal data shall be allowed in cases provided by law.”
 
 The IRR further provides that personal data shall not be retained in perpetuity in
 contemplation of a possible future use yet to be determined.2
@@ -101,9 +93,6 @@ of employment records would include:
    4.   Bureau of internal revenue regulations for bookkeeping requirements; and
    5.   Industry standards, and other laws and regulations that apply to the sector.
 
-
-
-
 2 Implementing Rules and Regulation of Republic Act No. 10173, §19(e)(3)
 
 Thus, for as long as your company can determine a legitimate business purpose for the
@@ -113,20 +102,14 @@ or when retention is allowed as provided for by law, then retention of personal 
 permitted. However, such retention must not be in perpetuity in consideration of some future
 use which has not yet been determined.
 
-
 For your reference. 3
 
 Sincerely,
-
-
 
 IVY D. PATDU
 Officer in Charge
 Deputy Privacy Commissioner
 for Policies and Planning
-
-
-
 
  This advisory opinion is based on the limited information provided in the questions, and may vary
 based on additional information or when the facts are changed or elaborated.

@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-014 — Posting Of Photo In A Social Media Platform Without Consent"
-description: "We write in response to your email seeking advice from the National Privacy Commission (NPC) which was initially docketed as a complaint. Upon evaluation, the Office of the Privacy Commissioner endorsed the matter to the Privacy Policy Office for the..."
+title: "NPC Advisory Opinion No. 2021-014 — Posting Of Photo In A Social Media Platform Without Consent"
+description: "The NPC provided guidance on whether posting another person's photo on social media without consent constitutes unauthorized processing of personal data under the Data Privacy Act, and what recourse is available to affected individuals."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,20 +17,12 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                      ADVISORY OPINION NO. 2021-0141
 
-27 April 2021
+**27 April 2021**
 
-''''''''' '''''''' ''''''''''''''''''''
-'''''''''''''''''''''''''''''''''
+Re: POSTING OF PHOTO IN A SOCIAL MEDIA PLATFORM WITHOUT CONSENT
 
-
-             RE:       POSTING OF PHOTO IN A SOCIAL MEDIA PLATFORM
-                       WITHOUT CONSENT
-
-
-Dear '''''''' '''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your email seeking advice from the National Privacy Commission
 (NPC) which was initially docketed as a complaint. Upon evaluation, the Office of the Privacy
@@ -45,8 +37,9 @@ We understand further that you discovered that your photo was posted through a m
 friend who saw the same. You now ask for advice on the possibility of filing a case against the
 individual as you felt offended with the posting of your photo without your consent.
 
-Privacy in a public place; privacy in the digital
-environment
+### Discussion
+
+#### Privacy in a public place; privacy in the digital environment
 
 According to the United Nations High Commissioner for Human Rights report, privacy can
 be considered as the presumption that individuals should have an area of autonomous
@@ -58,13 +51,10 @@ Further, the report enunciates that in the digital environment, informational pr
 information that exists or can be derived about a person and the decisions based on that
 information, is of particular importance, and the protection of the right to privacy extends to
 
-
-1 Tags: social media posts; unauthorized processing; data subject rights.
-2 United  Nations High Commissioner for Human Rights, The right to privacy in the digital age, available at
 https://www.ohchr.org/Documents/Issues/DigitalAge/ReportPrivacyinDigitalAge/A_HRC_39_29_EN.docx (last accessed 26
 April 2021).
 
-                          th
+   th
 
 public spaces and information that is publicly available.3
 
@@ -73,12 +63,12 @@ In NPC Advisory Opinion No. 2018-051,4 the following advice was given regarding 
 who may have been candidly and secretly photographed and whose photos were then posted
 online:
 
-          “The act in the given scenario may be considered as unauthorized processing, depending
+   “The act in the given scenario may be considered as unauthorized processing, depending
          on circumstances of the case. The DPA penalizes persons who process personal
          information without the consent of the data subject, or without being authorized under
          the Act or any existing law. This is subject to other provisions of the DPA. x x x
 
-         In cases like these, the affected data subject is entitled to suspend, withdraw or order the
+   In cases like these, the affected data subject is entitled to suspend, withdraw or order the
          blocking, removal or destruction of his or her personal information upon discovery and
          substantial proof that the personal information is unlawfully obtained, used for
          unauthorized purposes or are no longer necessary for the purposes for which they were
@@ -101,14 +91,8 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
-
-
-
 
 3 Id.
 4 National Privacy Commission, NPC Advisory Opinion No. 2018-051 (Oct. 5, 2018).

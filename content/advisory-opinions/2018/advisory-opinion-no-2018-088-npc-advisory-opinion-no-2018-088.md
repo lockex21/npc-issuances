@@ -1,10 +1,10 @@
 ---
-title: "NPC Advisory Opinion No. 2018-088"
-description: "'''''''''''' ''''''''''''''''''' '''''''''''''''''''' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2018-088 — Denial of Request for Disclosure of the Personal Data Sheet by the City of San Juan"
+description: "Advisory opinion regarding denial of request for disclosure of the personal data sheet by the city of san juan."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2018"
+  - issuance
+  - type/advisory-opinion
+  - year/2018
 draft: false
 ---
 
@@ -16,24 +16,22 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                    ADVISORY OPINION NO. 2018-0881
+ 2018-088
 
 26 November 2018
 
-'''''''''''' ''''''''''''''''''' ''''''''''''''''''''
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-              Re:      DENIAL OF REQUEST FOR DISCLOSURE OF THE
+   Re:      DENIAL OF REQUEST FOR DISCLOSURE OF THE
                        PERSONAL DATA SHEET BY THE CITY OF SAN JUAN
 
-Dear '''''''''' '''''''''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your letter which sought to clarify whether the denial of your request
 for a certified true copy of the Personal Data Sheet (PDS) of your co-employee for record
 purposes and to prove that an act of perjury is committed, is in accordance with the Data
 Privacy Act of 2012 (DPA)2 and NPC Advisory No. 2017-02 - Access to Personal Data Sheets
 of Government Personnel.3
+
+### Discussion
 
 We note that the decision of the San Juan City Human Resource Development Department to
 deny your request took into consideration the principles enunciated in the DPA and is
@@ -54,11 +52,6 @@ children, among others. Thus, the disclosure of a certified Personal Data Sheet 
 shown as necessary for the purpose of the requesting party, and such purpose must not be
 contrary to law, morals, and public policy.
 
-
-
-1 Tags: Personal Data Sheet, access, public concern, right to information
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
 Republic Act No. 10173 (2012).
 
 Circular 17-02] (April 3, 2017).
@@ -76,14 +69,10 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
-
-
 
 (Sgd.) IVY D. PATDU
 Officer-in-Charge and

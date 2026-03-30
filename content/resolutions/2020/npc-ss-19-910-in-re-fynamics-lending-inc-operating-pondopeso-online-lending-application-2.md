@@ -1,13 +1,23 @@
 ---
-title: "NPC SS 19-910: In Re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application"
-description: "NPC SS 19-910: In Re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC SS 19-910
+- npc ss 19-910
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC SS 19-910
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC SS 19-910: In Re: Fynamics Lending Inc. Operating PondoPeso Online Lending
+  Application'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC SS 19-910
@@ -22,8 +32,6 @@ draft: false
 - Motion for Extension
 
 ## Resolution Text
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex , Pasay City
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 IN RE : FYNAMICS LENDING
 
@@ -35,7 +43,7 @@ APPLICATION
 
 -----x---------------------------------------------x
 
-NPC No. 19 -910
+NPC No. 19910
 
 For violation of
 
@@ -67,7 +75,7 @@ communication and logistics issues arising from the ongoing
 
 outbreak in China caused by the 2019 Novel Coronavirus and by
 
-time -consuming presentation and review of documents.
+timeconsuming presentation and review of documents.
 
 The Commission emphasizes that the period of time it granted the
 
@@ -85,7 +93,7 @@ already in the possession of the Respondents , thus :
 
 the authority to collect outstanding loans” because, in fact, the
 
-collection agents who committed debt -shaming practices did so
+collection agents who committed debtshaming practices did so
 
 without the knowledge of Fynamics and its directors/officers. It then
 
@@ -96,16 +104,14 @@ respondents could not have consented to the acts of the collection
 agents, whether expressly or impliedly. 1
 
 > 1Answer dated 15 October 2019, par. 18. Order
-> NPC Case No. 19 -910
+> NPC Case No. 19910
 > Page 2of 3
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 19. Fynamics recognizes that even if the collection of loan
 
-repayments was outsourced to a third -party service provider, it was
+repayments was outsourced to a thirdparty service provider, it was
 
-not amiss in its duty to ensure that the third -party service
+not amiss in its duty to ensure that the thirdparty service
 
 provider/processor and the collection agents under its employ
 
@@ -155,8 +161,6 @@ City of Pasay, Philippines
 
 20 February 2020
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
@@ -165,10 +169,7 @@ Deputy Privacy Commissioner
 
 Order
 
-NPC Case No. 19 -910
-
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
+NPC Case No. 19910
 
 WE CONCUR:
 

@@ -1,12 +1,20 @@
 ---
-title: "NPC BN 18-142: In re: Smart Communications, Inc."
-description: "Data breach notification resolution concerning unauthorized disclosure of tourist SIM registrants' names and email addresses; Commission found SMART implemented reasonable security measures and resolved to close the case."
+title: 'NPC BN 18-142: In re: Smart Communications, Inc.'
+description: Data breach notification resolution concerning unauthorized disclosure
+  of tourist SIM registrants' names and email addresses; Commission found SMART implemented
+  reasonable security measures and resolved to close the case.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2023
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-142"'
+- '"npc bn 18-142"'
+- '"In re: Smart Communications, Inc."'
+- '"in re: smart communications, inc."'
+date: '2023-03-30'
 ---
 
 ## Source

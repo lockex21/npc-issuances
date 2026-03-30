@@ -1,16 +1,16 @@
 ---
 title: "Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website (Advisory No. 2020-01)"
-description: "SUBJECT: PROTOCOLS FOR THE PUBLICATION OF DECISIONS, RESOLUTIONS AND ORDERS ON THE NPC WEBSITE"
 aliases:
-  - "Advisory No. 2020-01"
-  - "advisory no. 2020-01"
-  - "npc advisory no. 2020-01"
-  - "protocols for the publication of decisions, resolutions and orders on the npc website"
+- Advisory No. 2020-01
+- advisory no. 2020-01
+- npc advisory no. 2020-01
+- protocols for the publication of decisions, resolutions and orders on the npc website
 tags:
-  - "issuance"
-  - "type/advisory"
-  - "year/2020"
+- issuance
+- type/advisory
+- year/2020
 draft: false
+date: '2020-10-06'
 ---
 
 ## Issuance Text

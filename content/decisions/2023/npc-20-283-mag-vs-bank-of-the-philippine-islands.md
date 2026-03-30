@@ -1,11 +1,19 @@
 ---
-title: "NPC 20-283: MAG vs. Bank of the Philippine Islands"
-description: "Order to Confer for Discovery, 07 December 2020 , in MAG v. Bank of the Philippine Islands,"
+title: 'NPC 20-283: MAG vs. Bank of the Philippine Islands: MAG v. Bank of the Philippine
+  Islands'
+description: Determination of whether MAG v. Bank of the Philippine Islands violated
+  DPA provisions.
+aliases:
+- 'NPC 20-283: MAG vs. Bank of the Philippine Islands'
+- 'npc 20-283: mag vs. bank of the philippine islands'
+- MAG v. Bank of the Philippine Islands
+- mag v. bank of the philippine islands
 tags:
-  - "decision"
-  - "type/decision"
-  - "year/2023"
-  - "npc-case"
+- decision
+- type/decision
+- year/2020
+- npc-case
+date: '2023-01-18'
 draft: false
 ---
 
@@ -21,7 +29,6 @@ draft: false
 - Substantial Evidence and Joint Obligation of Data Subjects and PICs
 
 ## Decision Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 MAG
 
@@ -43,7 +50,7 @@ of the Philippine Islands (BPI) for alleged violation of the Republic Act
 
 No. 10173 or the Data Privacy Act of 2012 (DPA).
 
-Facts
+### Facts
 
 On 06 February 2020, MAG received a call from a man claiming to be
 
@@ -76,8 +83,6 @@ Data Privacy Act of
 2012 NPC 20 -283
 
 MAG v. Bank of the Philippine Islands
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 The man called again and asked for MAG’s credit card details such as
 
@@ -148,8 +153,6 @@ NPC 20 -283
 
 MAG v. Bank of the Philippine Islands
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 The following morning, MAG visited the office of BPI Credit Card in
 
 Makati City to report the incident with the hope that the transactions
@@ -216,8 +219,6 @@ billed transaction s on her credit card. 26
 NPC 20 -283
 
 MAG v. Bank of the Philippine Islands
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 07 December 2020, the NPC , through its Complaints and
 
@@ -306,8 +307,6 @@ Order, 26 May 2021 , in  MAG  v. Bank of the Philippine Islands, NPC 20 -283 (NP
 Id. NPC 20 -283
 
 MAG v. Bank of the Philippine Islands
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 On 1 0 June 2021, during the Preliminary Conference,  MAG  manifested
 
@@ -404,8 +403,6 @@ Order to Mediate, 21 June 2021 , in  MAG  v. Bank of the Philippine Islands, NPC
 2021). NPC 20 -283
 
 MAG v. Bank of the Philippine Islands
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 15 September 2021 , BPI filed its Comment. 45
 
@@ -513,8 +510,6 @@ Id. at 7 -8.NPC 20 -283
 
 MAG v. Bank of the Philippine Islands
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 Further, BPI stated that  MAG’s  claim that BPI made disclosures to the
 
 alleged fraudster is based solely on surmises and conjectures. 56 BPI
@@ -587,8 +582,6 @@ details, especially her 3 -digit CVC.” 62 Further, each online transaction
 NPC 20 -283
 
 MAG v. Bank of the Philippine Islands
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 must be authenticated through a n OTP sent to the credit card owner’s
 
@@ -677,8 +670,6 @@ NPC 20 -283 (NPC 2022).
 Id. at 5 NPC 20 -283
 
 MAG v. Bank of the Philippine Islands
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 personal information. 71  She stated that there is clearly a breach of
 
@@ -796,8 +787,6 @@ NPC 20 -283 (NPC 2022). NPC 20 -283
 
 MAG v. Bank of the Philippine Islands
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 Mastercard, while BPI is given the contractual right to collect and
 
 demand payment for the credit extended as they fall due. ”87  Thus, BPI
@@ -867,9 +856,7 @@ NPC 20 -283
 
 MAG v. Bank of the Philippine Islands
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
-Issue
+### Issue
 
 Whether there is substantial evidence to find BPI liable for a violation
 
@@ -877,7 +864,7 @@ of Section 26 (Accessing Due to Negligence) and Section 32
 
 (Unauthorized Disclosure) of the DPA.
 
-Discussion
+### Discussion
 
 The Commission dismisses the case for lack of substantial evidence.
 
@@ -903,7 +890,7 @@ BPI Cardholders’ Statement of Disputed Item. 105  She also attached a
 
 Certification of Authenticity stating that the evidence submitted
 
-consists of screenshots and photo reproductions of the original non -
+consists of screenshots and photo reproductions of the original non-
 
 documentary evidence. 106
 
@@ -954,8 +941,6 @@ Id. Annex G .
 Id. at 10 .NPC 20 -283
 
 MAG v. Bank of the Philippine Islands
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Section 1 of Rule 131 of the 2019 Amendments to the Revised Rules on
 
@@ -1047,8 +1032,6 @@ Comment, dated 03 September 2021, at 8, in  MAG v. Bank of the Philippine Island
 
 MAG v. Bank of the Philippine Islands
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 not create a connection between the fraudulent activity and BPI’s
 
 alleged involvement.
@@ -1118,8 +1101,6 @@ NPC 20 -283
 
 MAG v. Bank of the Philippine Islands
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 Given the foregoing, the Commission cannot find BPI liable for
 
 violati ng Section 26 (Accessing Due to Negligence ) and Section 32
@@ -1167,8 +1148,6 @@ NERISSA N. DE JESUS
 Deputy Privacy Commissioner NPC 20 -283
 
 MAG v. Bank of the Philippine Islands
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 Copy furnished:
 

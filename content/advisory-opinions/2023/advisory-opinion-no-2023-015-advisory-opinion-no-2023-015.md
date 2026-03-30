@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2023-015"
-description: "Re: DISCLOSURE TO THE NATIONAL BUREAU OF INVESTIGATION OF THE RECORD OF BARANGAY INHABITANTS"
+title: "NPC Advisory Opinion No. 2023-015 — Disclosure to the National Bureau of Investigation of Barangay Records"
+description: "Advisory Opinion on the data privacy and due process requirements for disclosure of barangay resident records to law enforcement agencies, emphasizing the need for formal subpoenas and proportionate information requests."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,24 +11,22 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2023-015
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2023/09/Advisory-Opinion-No.-2023-015.pdf
+- Issue date: 08/24/2023
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                              ADVISORY OPINION NO. 2023-0151
 
  24 August 2023
 
-
-
-
-           Re:     DISCLOSURE   TO THE NATIONAL BUREAU OF
+   Re:     DISCLOSURE   TO THE NATIONAL BUREAU OF
                    INVESTIGATION OF THE RECORD OF BARANGAY
                    INHABITANTS
 
-Dear
+Dear [Redacted],
 
 We respond to your request for an Advisory Opinion on the above matter.
+
+### Discussion
 
 We gather that your office received a letter from the National Bureau of Investigation (NBI)
 requesting for certified true copies of the list of all inhabitants in the building/s located at 14
@@ -44,17 +42,13 @@ occupying a parcel of land situated in Escriva Drive, Brgy. San Antonio, Pasig (
 
 Specifically, you ask the following:
 
-     1. Can your office be compelled to release or share the names and/or records of Barangay
+   1. Can your office be compelled to release or share the names and/or records of Barangay
         inhabitants to the NBI as part of the latter’s investigation to determine if there are
         professional squatters or squatting syndicates in the address mentioned?
 
-     2. Whether Department of Interior and Local Government Memorandum Circular No.
+   2. Whether Department of Interior and Local Government Memorandum Circular No.
         2008-144 dated 19 September 2004, prohibits sharing and disclosure of RBI Form A
         and Form B sans consent of the owner.
-
-
-
-1 Tags: special cases; disclosure to public authority; general data privacy principles; list of barangay inhabitants
 
 DILG Memorandum Circular No. 2008-144
 
@@ -62,7 +56,7 @@ Department of Interior and Local Government Memorandum Circular No. 2008-144 dat
 September 2008 (MC 2008-144) calls for the maintenance and updating of records of all
 barangay inhabitants to achieve the following purposes:
 
-    -    For easy identification of inhabitants;
+   -    For easy identification of inhabitants;
     -    As a tool in planning; and
     -    As an updated reference in the number of inhabitants in a specific Barangay.
 
@@ -70,14 +64,13 @@ Relevantly, MC 2008-144 instructed the City/Municipal Mayors and Punong Barangay
 adopt necessary measures to ensure that the right to privacy of the inhabitants will be
 observed in the process of maintaining and updating said records, viz.:
 
-
-        d. Data collected and stored for this purpose shall be kept and treated as strictly confidential and a
+   d. Data collected and stored for this purpose shall be kept and treated as strictly confidential and a
         personal written authorization of the Owner shall be required for access and disclosure of data.
                                                          xxx
         f. The Chief of Police and Local Civil Registrar may, from time to time, be allowed to verify the
         records kept by the Barangay Secretary, when circumstances warrant.
 
-        (Emphasis supplied).
+   (Emphasis supplied).
 
 It is clear from the above-quoted provisions that MC 2008-144 requires the owner’s personal
 written authorization prior to the access and disclosure of his/her data. Hence, a mere letter
@@ -89,23 +82,20 @@ Section 4 (e); special cases; disclosure to public authority;
 To justify its request, the NBI cited Section 4(e) of the Data Privacy Act of 20122 (DPA) and
 proceeded to claim that the information it requests is exempt from the DPA, viz.:
 
-         This request is in pursuant (sic) to Sec. 4 (e) of RA 10173 otherwise known as the Data Privacy Act
+   This request is in pursuant (sic) to Sec. 4 (e) of RA 10173 otherwise known as the Data Privacy Act
          of 2012 stating that information requested by law enforcement agencies that is necessary to carry
          out its functions is not covered by the act.
 
-         (Emphasis supplied)
+   (Emphasis supplied)
 
 To avoid confusion, it is necessary to discuss the proper application of Section 4(e) of the Data
 Privacy Act of 2012 (DPA). NPC Advisory Opinion No. 2021-028 provides a relevant
 explanation as to the application of Section 4(e) of the DPA and Section 5(d) of the
 Implementing Rules and Regulations of the DPA, thus:
 
-        The DPA and its Implementing Rules and Regulations (IRR) provide for a list of specified
+   The DPA and its Implementing Rules and Regulations (IRR) provide for a list of specified
         information which do not fall within the scope of the law.3 In particular, information necessary to
         carry out functions of a public authority are considered special cases under the DPA, to wit:
-
-
-
 
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
@@ -113,13 +103,13 @@ Private Sector, Creating for this Purpose a National Privacy Commission, and for
 Republic Act No. 10173 (2012).
 3 Id. § 4 (e) (2012).
 
-           “SECTION 5. Special Cases. The Act and these Rules shall not apply to the following specified
+   “SECTION 5. Special Cases. The Act and these Rules shall not apply to the following specified
            information, only to the minimum extent of collection, access, used, disclosure or other
            processing necessary to the purpose, function, or authority concerned:
 
-                                                         xxx
+   xxx
 
-           d. Information necessary in order to carry out the functions of public authority, in
+   d. Information necessary in order to carry out the functions of public authority, in
            accordance with a constitutionally or statutorily mandated function pertaining to law
            enforcement or regulatory function, including the performance of the functions of the
            independent, central monetary authority, subject to restriction provided by law. Nothing in
@@ -127,19 +117,19 @@ Republic Act No. 10173 (2012).
            known as the Secrecy of Bank Deposits Act; and Republic Act No. 9510, otherwise known as
            the Credit Information System Act (CISA);
 
-                                                         xxx
+   xxx
 
-           Provided, that the non-applicability if the Act or these Rules do not extend to personal
+   Provided, that the non-applicability if the Act or these Rules do not extend to personal
            information controllers or personal information processors who remain subject to the
            requirements of implementing security measures for personal data protection: Provided
            further, that the processing of the information provided in the preceding paragraphs shall be
            exempted from the requirements of the Act only to the minimum extent necessary to achieve
            the specific purpose, function or activity.”4 (Underscoring supplied)
 
-       The above exemption must be strictly construed. For the exemption to apply, the following are
+   The above exemption must be strictly construed. For the exemption to apply, the following are
        considered:
 
-           • The information is necessary in order to carry out the law enforcement or regulatory
+   • The information is necessary in order to carry out the law enforcement or regulatory
            function of a public authority;
            • The processing is for the fulfillment of a constitutional or statutory mandate;
            • There is strict adherence to all due process requirements;
@@ -147,7 +137,7 @@ Republic Act No. 10173 (2012).
            necessary to the purpose, function, or activity concerned; and
            • Only the specified information falls outside the scope of the DPA.
 
-       The public authority, considered as a personal information controller under the DPA, must still
+   The public authority, considered as a personal information controller under the DPA, must still
        comply with the other requirements of the DPA such as the implementation of reasonable and
        appropriate physical, organizational and technical security measures, uphold the rights of data
        subjects and adhere to the data privacy principles of transparency, legitimate purpose and
@@ -197,12 +187,12 @@ birth, age, civil status, citizenship, and thumbmark.
 Section 13 (f) recognizes processing for the establishment, exercise, or defense of legal claims,
 viz.:
 
-         SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive
+   SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive
          personal information and privileged information shall be prohibited, except in the following cases:
 
-                                                          xxx
+   xxx
 
-         (f) The processing concerns such personal information as is necessary for the protection of lawful
+   (f) The processing concerns such personal information as is necessary for the protection of lawful
          rights and interest of natural or legal persons in court proceedings or the establishment, exercise, or
          defense of legal claims, or when provided to government or public authority.11
 
@@ -216,7 +206,7 @@ should establish a system to avoid abuse and ensure that the requested informati
 limited only to the legitimate interest stated by the requesting party. As we stated in
 Advisory Opinion No. 2022-00513 regarding a similar concern:
 
-         LTO must establish a system for handling these types of requests for information to avoid the
+   LTO must establish a system for handling these types of requests for information to avoid the
          possibility of abuse. As a request for personal information for the filing of a legal action falls under
          the legitimate interests of the requesting party, the system must assess the request if it satisfies the
          three aforementioned tests. It must also provide for a mechanism to ensure that the information to
@@ -226,7 +216,7 @@ Advisory Opinion No. 2022-00513 regarding a similar concern:
 11Id. § 13 (f).
 12 See: National Privacy Commission, NPC Advisory Opinion No. 2021-044 (Dec. 29, 2021).
 
-           be disclosed will only be used for the purpose/s indicated. In Advisory Opinion No. 2021-044, it was
+   be disclosed will only be used for the purpose/s indicated. In Advisory Opinion No. 2021-044, it was
            recommended that in case a request for personal information is granted, the requesting party should
            be required to sign an undertaking that the information will only be used for the purpose that was
            declared: Should the CHMSC grant the request, it is suggested that the Requesting Party be required
@@ -262,17 +252,11 @@ information. Any extraneous fact that may be subsequently furnished to us may af
 present position. Please note further that our Advisory Opinion is not intended to adjudicate
 the rights and obligations of the parties involved.
 
-
 Very truly yours,
-
-
 
 (Sgd.)
 ATTY. FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
-
-
-
 
 14 Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c) (2016).
 15 Ibid.

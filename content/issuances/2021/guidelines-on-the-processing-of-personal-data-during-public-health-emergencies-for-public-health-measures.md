@@ -1,16 +1,18 @@
 ---
-title: "Guidelines On The Processing Of Personal Data During Public Health Emergencies For Public Health Measures (Circular No. 2021-02)"
-description: "SUBJECT : GUIDELINES ON THE PROCESSING OF PERSONAL DATA DURING PUBLIC HEALTH EMERGENCIES FOR PUBLIC HEALTH MEASURES"
 aliases:
-  - "Circular No. 2021-02"
-  - "circular no. 2021-02"
-  - "guidelines on the processing of personal data during public health emergencies for public health measures"
-  - "npc circular no. 2021-02"
-tags:
-  - "issuance"
-  - "type/circular"
-  - "year/2021"
+- Circular No. 2021-02
+- circular no. 2021-02
+- guidelines on the processing of personal data during public health emergencies for
+  public health measures
+- npc circular no. 2021-02
+date: '2021-11-08'
+description: "Provides guidelines for the processing of personal data during public health emergencies for public health measures."
 draft: false
+tags:
+- issuance
+- type/circular
+- year/2021
+title: "Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures (Circular No. 2021-02)"
 ---
 
 
@@ -217,8 +219,6 @@ Approved:
 Sgd. RAYMUND ENRIQUEZ LIBORO Privacy Commissioner
 
 Sgd.                                                                    Sgd. LEANDRO ANGELO Y. AGUIRRE                                   JOHN HENRY D. NAGA Deputy Privacy Commissioner                                Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: International Organization for Standardization, ISO/TS 23029:2020(en) Web-service-based application programming interface (WAPI) in financial services, available at https://www.iso.org/obp/ui/#iso:std:iso:ts:23029:ed-1:v1:en (last accessed June 19, 2021).
 [^2]: Department of Health, Update Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease (COVID-19) Cases, Department Memorandum No. 2020-0189 (April 17, 2020).

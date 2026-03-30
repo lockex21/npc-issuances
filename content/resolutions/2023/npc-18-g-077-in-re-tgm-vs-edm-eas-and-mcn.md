@@ -1,11 +1,17 @@
 ---
 title: "NPC 18-G-077: In re: TGM vs EDM, EAS, and MCN"
-description: "NPC 18-G-077: In re: TGM vs EDM, EAS, and MCN"
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC 18-G-077"
+  - "npc 18-g-077"
+  - "In re: TGM vs EDM, EAS, and MCN"
+  - "in re: tgm vs edm, eas, and mcn"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-02-22"
 draft: false
 ---
 
@@ -22,7 +28,6 @@ draft: false
 - Unauthorized Processing of Personal and Sensitive Personal Information
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 TGM ,
 
@@ -84,7 +89,6 @@ TGM v. EDM ,
 
 EAS , and MCN
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 TGM filed her Motion dated 10 June 2021 , reiterating the arguments
 
@@ -155,7 +159,6 @@ TGMTGM v. EDM ,
 
 EAS , and MCN
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 Therefore, TGM pray ed for the Commission to reverse and set aside
 
@@ -214,7 +217,6 @@ TGM v. EDM ,
 
 EAS , and MCN
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 (3) Issued by government agencies peculiar to an individual
 
@@ -291,7 +293,6 @@ TGMTGM v. EDM ,
 
 EAS , and MCN
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 Moreover, the maxim noscitur a sociis , where a particular word or
 
@@ -368,7 +369,6 @@ TGM v. EDM ,
 
 EAS , and MCN
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 TGM stated that Respondents violated her right to be informed of the
 
@@ -440,7 +440,6 @@ TGMTGM v. EDM ,
 
 EAS , and MCN
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 consent is not the only lawful basis for processing personal
 
@@ -516,7 +515,6 @@ TGM v. EDM ,
 
 EAS , and MCN
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 Further, considering that the interest is legitimate herein, the
 
@@ -554,7 +552,6 @@ City of Pasay, Philippines .
 
 22 February 202 3.
 
-Sgd.
 
 JOHN HENRY D. NAGA
 
@@ -562,7 +559,6 @@ Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -572,9 +568,7 @@ TGMTGM v. EDM ,
 
 EAS , and MCN
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
-Sgd.
 
 NERISSA N. DE JESUS
 

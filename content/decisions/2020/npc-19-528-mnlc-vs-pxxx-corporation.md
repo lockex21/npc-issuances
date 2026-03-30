@@ -1,11 +1,17 @@
 ---
-title: "NPC 19-528: MNLC vs PXXX Corporation"
-description: "NPC 19-528: MNLC vs PXXX Corporation"
+title: "NPC 19-528: MNLC, Inc. v. PXXX Corporation, RCM, and AD"
+description: "Complaint by religious organization challenging security measures requiring collection and processing of identification documents from church members; found unauthorized processing of sensitive personal information with award of nominal damages."
+aliases:
+  - "NPC 19-528"
+  - "npc 19-528"
+  - "MNLC, Inc. v. PXXX Corporation, RCM, and AD"
+  - "mnlc, inc. v. pxxx corporation, rcm, and ad"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2020"
+  - "year/2019"
   - "npc-case"
+date: "2020-10-29"
 draft: false
 ---
 
@@ -21,45 +27,26 @@ draft: false
 - Proportionality, Jurisdiction, Exhaustion of Remedies, Consent, Legitimate Interest (Section 12 (f)), Unauthorized Processing (Section 25), Extent of Liability (Section 34), Nominal Damages
 
 ## Decision Text
-MNLC , INC. represented by
 
-IKP ,
+MNLC, INC. represented by IKP,
 
 Complainant,
 
--versus -
+-versus-
 
-NPC Case No. 19 -528
-
-> (Formerly CID Case No. 19 -G-528)
-
-For: Violation of Section 13,
-
-in relation to Section 25(b) of
-
-the Data Privacy Act
-
-PXXX CORPORATION, RCM
-
-and AD ,
+PXXX CORPORATION, RCM and AD,
 
 Respondent.
 
-x----------------------------------------x
+x----------------------------------------------------x
 
-AGUIRRE , D.P.C. :
+AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by Complainant
+Before this Commission is a Complaint filed by Complainant MNLC, Inc. (MNLCI) against Respondents PXXX Corporation, RCM, and AD, for an alleged violation of Republic Act No. 10173 (“Data Privacy Act”).
 
-MNLC , Inc. (MNLCI) against Respondents PXXX Corporation,
+### The Facts
 
-RCCM , and AD , for an alleged violation of R epublic Act No. 10173
-
-(“Data Privacy A ct”).
-
-The Facts
-
-Complainant MN LC , Inc. (MNLCI) , represented by its Head Elder
+Complainant MNLC , Inc. (MNLCI) , represented by its Head Elder
 
 IKP , is a religious corporation composed mostly of Koreans and
 
@@ -71,55 +58,50 @@ regularly gather during Sundays in its place of worship located at
 
 the 3rd Floor of MXXX Building being managed by R espondents.
 
-For the past nine (9) years, C omplainant has own ed all the units on
+For the past nine (9) years, Complainant has owned all the units on
 
 the third floor of the building. 1
 
-Sometime in March 2019, Res pondent PXXX Corporation
+Sometime in March 2019, Respondent PXXX Corporation
 
 (Respondent C orporation) started implementing security measures
 
-in the building that require d the C omplainant to submit Philippine
+in the building that required the Complainant to submit Philippine
 
-> 1Records, pp. 1 -7 dated 19 July 2019. NPC Case No. 19 -528
-> MNLCI v. PXXX Corporation, et al.
-> Page 2of 33
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 government -issued identification cards (IDs) of their church
 
 members. 2
 
-Responden t RCM , OIC -Administration Department and
+Respondent RCM , OIC -Administration Department and
 
 Marketing Manager of MNLCI , sent a letter to Complainant,
 
 through PMH , reminding the latter that the implementation of
 
-such security meas ure s will start on 05 May 2019. 3 He also sent a
+such security measures will start on 05 May 2019. 3 He also sent a
 
-letter dated 06 May 2019 to all tenants an d unit owners of the
+letter dated 06 May 2019 to all tenants and unit owners of the
 
-building inform ing them about the strict enforcement of “No ID,
+building informing them about the strict enforcement of “No ID,
 
 No Entry” policy in the building. 4
 
-On 16 May 2019, the C omplainant, through its counsel, reached
+On 16 May 2019, the Complainant, through its counsel, reached
 
 out to the Respondents to clarify matters concerning the
 
-implementatio n of said new policy. However, Complainant’s
+implementation of said new policy. However, Complainant’s
 
-counsel and R espondents failed to meet and talk about the issue s
+counsel and R espondents failed to meet and talk about the issues
 
 on the newly implemented security measures. 5
 
-On the same day, Resp ondent AD , Legal and Corporate External
+On the same day, Respondent AD , Legal and Corporate External
 
-Affairs Head of MNLCI, sent a letter to C omplainant reiterating
+Affairs Head of MNLCI, sent a letter to Complainant reiterating
 
-the submi ssion of original Philippine government -issued or any
+the submission of original Philippine government -issued or any
 
 valid IDs from its church members on weekdays from 10:00A.M.
 
@@ -127,15 +109,15 @@ to 12:00P.M. supposedly for validation purposes. Respondent also
 
 stated that the IDs provided by Complainant to its church
 
-members are denied and are not to be acknowledg ed by the
+members are denied and are not to be acknowledged by the
 
-secu rity personnel of the building. 6
+security personnel of the building. 6
 
-Compla inant sent more letters to the Respondents requesting for
+Complainant sent more letters to the Respondents requesting for
 
 the basis in requiring the Complainant’s church members to
 
-submi t their IDs. Specifically, the Complainant asked for the
+submit their IDs. Specifically, the Complainant asked for the
 
 following: (1) a copy o f the Hous e Rules and Regulations of the
 
@@ -147,9 +129,9 @@ these crimes. 7
 
 RCM insisted in a letter dated 26 May 2019 that the c hurch
 
-members of C omplainant should subm it their original passports,
+members of Complainant should subm it their original passports,
 
-va lid ID s bearing their Philippine residence addresses , and colored
+valid ID s bearing their Philippine residence addresses , and colored
 
 ID pictures for the production of their respective IDs to be used in
 
@@ -164,22 +146,20 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
-entering the premises of the building. 8 However, C omplainant
+entering the premises of the building. 8 However, Complainant
 
 received another letter dated 3 1 May 2019 from the counsel of
 
-Respondent Corporation stating that the C omplainant will be the
+Respondent Corporation stating that the Complainant will be the
 
 one to provid e the ID s for its members. 9
 
 Since the letter of RCM contradicts t he statement s in the letter of
 
-Respondent Corporation’s counsel, C omplainant tried to secure a
+Respondent Corporation’s counsel, Complainant tried to secure a
 
-copy of the building rules where the implement ed security
+copy of the building rules where the implemented security
 
 measures are based upon .10 Up to the filing of the Complaint,
 
@@ -187,11 +167,11 @@ Complainant was unable to secure a copy of the same. 11
 
 Upon the surrender of the passports and valid IDs of the
 
-Complainant’s ch urch members, employees of the Respondent
+Complainant’s church members, employees of the Respondent
 
 Corporation took photos of their passports and valid IDs using
 
-their mo bile phones. 12 The employees utilized these identification
+their mobile phones. 12 The employees utilized these identification
 
 documents to produce another ID to be paid by the church
 
@@ -201,13 +181,14 @@ Complainant’s church members had no recourse but to submit
 
 their IDs containing their addresses and other personal data in
 
-order to avoid being hara ss ed during frisking. Some of these
+order to avoid being harassed during frisking. Some of these
 
 members were forced to give their passports and IDs in order to
 
 practice their religion peacefully. 14
 
-Proceedings
+### Proceedings
+
 
 The case was called for a summary hearing on 02 August 2019 for
 
@@ -229,8 +210,6 @@ SC dated 4 September 2 012 (Judicial Affidavit Rule). 15
 > 15 Supra note 1, at 64 and 65. NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
 > Page 4of 33
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 Respondent’s counsel of record filed a Formal Entry of
 
@@ -307,8 +286,6 @@ witnesses. Respondents asked for five (5) days to submit written
 > 18 Id ., at 159, 179 and 180. NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
 > Page 5of 33
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 manifestation. Complainant also asked for the same period to file a
 
@@ -316,7 +293,7 @@ comment to th e manifestation of the R espondent s. 19
 
 On 20 August 2019, R espondents filed a Memorandum as an
 
-answer to C omplainant’s application for a temporary b an on the
+answer to Complainant’s application for a temporary b an on the
 
 processing of its church members’ personal information.
 
@@ -326,7 +303,7 @@ resolution. First, Respondents submitted the issue that the
 
 Commission should rule on which legal authority be tween the
 
-Data Privacy A ct and the NPC Rules of Procedure should be relied
+Data Privacy Act and the NPC Rules of Procedure should be relied
 
 upon. Second, R espondents also raised the issue whether the
 
@@ -334,15 +311,15 @@ alleged violation in the complaint is detrimental to national
 
 securi ty and public interest. Third, R espondents quest ioned the
 
-legal personality of C omplainant because it cannot be considered
+legal personality of Complainant because it cannot be considered
 
 as data subject whose personal inf ormation is being processed.
 
-Lastly, Respondents claimed that C omplainant failed to exhaust
+Lastly, Respondents claimed that Complainant failed to exhaust
 
 administrative remedies because the correspondences sent by the
 
-latter’ s counsel lack ed the require d special power of attorney or
+latter’ s counsel lack ed the required special power of attorney or
 
 the Secretary’s Certificate. 20
 
@@ -350,7 +327,7 @@ The Commission, through the investigating officer, issued an
 
 Order dated 11 September 2019 granting the temporary ban on
 
-the proce ssing of personal data against Resp ondent C orporation.
+the proce ssing of personal data against Respondent C orporation.
 
 The ban covered: (1) the processing of personal data of
 
@@ -360,13 +337,13 @@ identification docu ments to Re spondents for validation; and (2) the
 
 requirement for the use of R espondent corporation -issued IDs for
 
-the C omplainant’s church members who have already subm itted
+the Complainant’s church members who have already subm itted
 
 their passports and IDs. 21
 
 In the same Order, Respondent C orporation was also directed to
 
-(1) return to C omplainant’s church members all the copies of their
+(1) return to Complainant’s church members all the copies of their
 
 passports and valid IDs; (2) delete or dispose all copies of the
 
@@ -378,15 +355,13 @@ bearing only their phot os and English names. Further,
 
 Respondents we re also required to submit an affidavit of
 
-compliance sta ting that the personal data of C omplainant’s church
+compliance sta ting that the personal data of Complainant’s church
 
 > 19 Supra note 2, at p. 3.
 > 20 Supra note 1, at 244 to 253.
 > 21 Id. , at 276 to 279. NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
 > Page 6of 33
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 members are no longe r kept independently in any of Respondent
 
@@ -396,11 +371,11 @@ On 25 September 2019, Respondents filed a Motion for
 
 Reconsideration o f the Order imposing a temporary ban on its
 
-processin g of personal data of C omplainant’s church members.
+processin g of personal data of Complainant’s church members.
 
 The motion is premised on the gr ound that the complaint is not
 
-imbued with public interest supposedly because C omplainant ’s
+imbued with public interest supposedly because Complainant ’s
 
 church members belong to a particular and specified class
 
@@ -422,7 +397,7 @@ Reconsideratio n. The Addendum discussed that Complainant
 
 provided a clear, explicit and emphatic consent in using the
 
-Res pondent corporation -issued ID. 25
+Respondent corporation -issued ID. 25
 
 On 11 October 2019, both parties and their counsels attended the
 
@@ -463,10 +438,8 @@ the in dividual members of Complainant have not executed any
 > 26 Id ., at 332 to 333. NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
 > Page 7of 33
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
-authorization designating C omplainant or any of its witnesses to
+authorization designating Complainant or any of its witnesses to
 
 represent them i n the proceedings before the Commission. Second,
 
@@ -504,7 +477,7 @@ the crimes against properties committed to thei r tenants inside the
 
 building. 28
 
-On 14 November 2019, C omplainant m anifested that the contents
+On 14 November 2019, Complainant m anifested that the contents
 
 of R espondents’ Comment are a mere rehash of their previous
 
@@ -543,8 +516,6 @@ valid IDs, digital or otherwise; and (3) to allow complainant to
 > 29 Id ., at 361 to 362. NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
 > Page 8of 33
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 provide IDs for their church members and officer s bearing only
 
@@ -594,7 +565,7 @@ matters. R espondents were given a final opportu nity to submit
 
 their explanation to the show c ause order .33
 
-On 03 June 2020, C omplainant manifested that it sent a letter dated
+On 03 June 2020, Complainant manifested that it sent a letter dated
 
 06 March 2020 to the Respondents , terminating all efforts for
 
@@ -619,10 +590,8 @@ Corporation had ceased from processi ng the personal information
 > 34 Manifestation dated 09 March 2020. NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
 > Page 9of 33
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
-of C omplainant’s church members by stopping the issuance of IDs
+of Complainant’s church members by stopping the issuance of IDs
 
 to them. They also mentioned that all copies of passports, other
 
@@ -632,7 +601,7 @@ Compl ainant’s church members were completely deleted and
 
 disposed. They also stated that the Respondent Corporation no
 
-longer require d Complainant’s church members to use the
+longer required Complainant’s church members to use the
 
 Respon dent C orporation’s -issued IDs. 35
 
@@ -640,7 +609,8 @@ On 17 August 2020, Complainant filed a Motion to Resolve asking
 
 that the case already be considered submitted for resolution .36
 
-Issues
+### Issues
+
 
 The issues in this case are:
 
@@ -686,7 +656,8 @@ Respondents is sufficient in rela tion to the Order dated 03
 
 March 2020.
 
-Discussion
+### Discussion
+
 
 This Commission validly acquired
 
@@ -695,10 +666,8 @@ jurisdiction over this case
 > 35 Joint Affidavit of Compliance dated 08 June 2020.
 > 36 Motion to Resolve dated 26 June 2020. NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
-Responden ts argue that this Commission has not validly acquired
+Respondents argue that this Commission has not validly acquired
 
 jurisdiction over this case because Complainant has no personalit y
 
@@ -771,8 +740,6 @@ merits of his complaint or defense rather than for him to lose
 > 39 FGP v. Maersk , NPC Case No. 18 -038, 21 May 2020.
 > 40 G.R. No. 201234, March 17, 2014 .NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 life, liberty, honor, or property on technicalities. The rules of
 
@@ -792,7 +759,7 @@ this case involved the personal data of all the members of MNLCI .
 
 In the ir Addendum to the Motion for Reconsideration ,
 
-Res pondents argue that the emails of IKP and the other members
+Respondents argue that the emails of IKP and the other members
 
 of MNLCI supposedly show that they can validly process the
 
@@ -802,7 +769,7 @@ consent, thus:
 
 1. MNLC (MNLC) by means of electronic message or
 
-Email dated June 26, 2019 personally an d
+Email dated June 26, 2019 personally and
 
 knowledgeably notified and confirmed herein
 
@@ -853,8 +820,6 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 circumstances surrounding a possibly serious privacy violation or
 
@@ -876,7 +841,7 @@ Respondent s claim that Complainant failed to exhaust
 
 administrative remedies because the correspondences sent by the
 
-latter’s counsel lack ed the require d special power of attorney or the
+latter’s counsel lack ed the required special power of attorney or the
 
 Secretary’s Certificate. 44
 
@@ -925,8 +890,6 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 Th at Decision cited the Supreme Court in stating thus :
 
@@ -1002,8 +965,6 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 personal information from their
 
@@ -1031,7 +992,7 @@ addresses p rominently displayed in front, 50 would have to be used
 
 by the church memb ers in entering the building. 51
 
-The passports an d government -issued IDs of the C omplainant’s
+The passports and government -issued IDs of the Complainant’s
 
 church members contain both personal information and sensit ive
 
@@ -1081,8 +1042,6 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 (d) The processing is necessa ry to achieve the lawful and
 
@@ -1118,7 +1077,7 @@ public authority.” 53
 
 Respondent s anchor the processing of such informat ion on the
 
-supposed consent given by Complainant’s ch urch members,
+supposed consent given by Complainant’s church members,
 
 through its church elders, and on the legitimate interest of
 
@@ -1160,8 +1119,6 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 Our Church will cover the extra cost of the reinforcement of
 
@@ -1232,8 +1189,6 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 In determining whether consent was freely given, the data subje ct
 
@@ -1313,8 +1268,6 @@ churchgoers to surrender their passports and valid ID’s for
 > 64 Id ., at 73.
 > 65 Id ., at 3. NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 processing by PXXX ’s employees, supposedly for the production of
 
@@ -1346,7 +1299,7 @@ upon by Respondents were written in light of the growing tension
 
 between R espondents or the personal info rmation c ontroller on
 
-the one hand, and C omplainant’s church members or the data
+the one hand, and Complainant’s church members or the data
 
 subjects on the other. In fact, i n the email of IKP dated 28 June
 
@@ -1393,8 +1346,6 @@ access to their place of worship .70 This not only reinforces the fact
 > Form. 23 October 2018.
 > 70 Supra note 1, at 44. NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 that no consent was validly given by Complainant’s church
 
@@ -1448,21 +1399,19 @@ members
 
 Previously, Respondent C orporation only required that the church
 
-members of the C omplainant wear insig nia s or sticker s during
+members of the Complainant wear insig nia s or sticker s during
 
-Sundays. 71 Ther eafter, Respondents required the C omplainant to
+Sundays. 71 Ther eafter, Respondents required the Complainant to
 
 produce IDs for their church members to be used in enter ing the
 
-building every Sunday. 72 Witnesses for C omplainant testified that
+building every Sunday. 72 Witnesses for Complainant testified that
 
 MNLCI produced IDs for their church members for their wors hip
 
 > 71 Id ., at 29.
 > 72 Id ., at 30. NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 days within the building. 73 Respondent AD admitted this fact in
 
@@ -1544,8 +1493,6 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 processing by building security. Person/s not properly identified
 
@@ -1587,9 +1534,9 @@ purpose. 76
 
 Despite Complainant’s compliance in producing the IDs for its
 
-church members and the clarifications sought from Resp ondent to
+church members and the clarifications sought from Respondent to
 
-produce its own IDs, C omplainant was unable to prevent the
+produce its own IDs, Complainant was unable to prevent the
 
 copying of their church members’ identification documents and
 
@@ -1601,7 +1548,7 @@ their Sunday wors hip. In disallowing the use of Complainant -
 
 issued IDs, R espondents decided to provi de ID s for a fee after
 
-gathering the identification documents from C omplainant’s church
+gathering the identification documents from Complainant’s church
 
 members.
 
@@ -1623,14 +1570,12 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 While the security of the premises and tenants of the building is a
 
 legitimate interest, the fact remains that these stricter security
 
-measures ar e only applied to C omplainant’s church members and
+measures ar e only applied to Complainant’s church members and
 
 not to the other tenants of the building.
 
@@ -1688,8 +1633,6 @@ aims. 83
 > 18 (Freedom of Thought, Conscience or Religion), (30 July 1993) UN Doc
 > CCPR/c/21/Rev.1/Add.4 (‘General Comment 22’), par. 8; Shelton v. Tucker, 364 US 479 NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 In this case, the requirement of subm ission of passports,
 
@@ -1764,8 +1707,6 @@ proportionality of the measures it adopted.
 > 87 Ibid.
 > 88 Ibid. NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 The fact that none of Respondents’ alleged reasons for disallowing
 
@@ -1841,8 +1782,6 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 legality and validity of the immigration and alien admission of
 
@@ -1922,8 +1861,6 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 law as it would render naught the latter’s right to question the
 
@@ -1998,8 +1935,6 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 1. Officially, PL do not make it (sic) a requirement to present PL
 
@@ -2064,8 +1999,6 @@ Complainant’s members
 > 96 Email dated 6 November 2020 by GSP .
 > 97 Supra note 21. NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 In determining whether a violation of Section 25(b) of the Data
 
@@ -2109,7 +2042,7 @@ In this case, it has been established that Respondents processed the
 
 information of Complainant’s members through the required
 
-collect ion of original passports, va lid IDs bearing their Philippine
+collect ion of original passports, valid IDs bearing their Philippine
 
 residence addresses , and colored ID pictures , which were later on
 
@@ -2142,8 +2075,6 @@ proceedings;
 > 98 NPC Case No. 17 -018, Decision dated 15 July 2019.
 > 99 Data Privacy Act, §3(j). NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 3. Issued by government agencies peculiar to an
 
@@ -2215,12 +2146,10 @@ by Complainant’s counsel to the Respondents’ Bo ard of Directors
 
 > 100 Id. ,at § 3(l). Emphasis supplied. NPC Case No. 19 -528
 > MNLCI v. PXXX Corporation, et al.
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 that repeatedly raised th is concern . Despite being apprised of the
 
-issue s, the Board of Directors nevertheless allowed such
+issues, the Board of Directors nevertheless allowed such
 
 unauthorized practices to persist.
 
@@ -2283,8 +2212,6 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 The Data Privacy Act gives individuals the right to receive
 
@@ -2354,8 +2281,6 @@ NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 unlawful collection of their sensitive personal information ,
 
@@ -2373,21 +2298,15 @@ Pasay City, Philippines;
 
 29 October 2020.
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
-
-Sgd.
 
 JOHN HENRY D. NAGA
 
@@ -2395,8 +2314,6 @@ Deputy Privacy Commissioner NPC Case No. 19 -528
 
 MNLCI v. PXXX Corporation, et al.
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 COPY FURNISHED:
 

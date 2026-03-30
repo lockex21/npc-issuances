@@ -1,18 +1,22 @@
 ---
 title: "Security of Personal Data in Government Agencies (Circular No. 16-01)"
-description: "TO : ALL HEADS OF GOVERNMENT BRANCHES, BODIES OR ENTITIES, INCLUDING NATIONAL GOVERNMENT AGENCIES, BUREAUS OR OFFICES, CONSTITUTIONAL COMMISSIONS, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED AND –CONTROLLED CORPORATIONS, STATE COLLEGE AND UNIVERSITIES"
+description: 'TO : ALL HEADS OF GOVERNMENT BRANCHES, BODIES OR ENTITIES, INCLUDING
+  NATIONAL GOVERNMENT AGENCIES, BUREAUS OR OFFICES, CONSTITUTIONAL COMMISSIONS, LOCAL
+  GOVERNMENT UNITS, GOVERNMENT-OWNED AND –CONTROLLED CORPORATIONS, STATE COLLEGE AND
+  UNIVERSITIES'
 aliases:
-  - "Circular No. 16-01"
-  - "circular no. 16-01"
-  - "npc circular no. 16-01"
-  - "security of personal data in government agencies"
+- Circular No. 16-01
+- circular no. 16-01
+- npc circular no. 16-01
+- security of personal data in government agencies
 tags:
-  - "issuance"
-  - "topic/government"
-  - "topic/security"
-  - "type/circular"
-  - "year/undated"
+- issuance
+- topic/government
+- topic/security
+- type/circular
+- year/2016
 draft: false
+date: '2016-07-22'
 ---
 
 ## Issuance Text

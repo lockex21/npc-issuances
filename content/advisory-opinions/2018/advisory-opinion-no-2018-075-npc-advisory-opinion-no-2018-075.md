@@ -1,10 +1,10 @@
 ---
-title: "NPC Advisory Opinion No. 2018-075"
-description: "'''''''''''''''''''''''''''''' ''''''''''''''''''''' ''''''' ''''''''''''''''' '''''''''''''''''''''' ''''''''''''''''''' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''"
+title: “NPC Advisory Opinion No. 2018-075 — Barangay Tanyag Ordinance No. 03 Paupahan Form”
+description: “Advisory opinion on compliance of a barangay ordinance requiring tenant registration in leased residential spaces with the Data Privacy Act.”
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2018"
+  - issuance
+  - type/advisory-opinion
+  - year/2018
 draft: false
 ---
 
@@ -12,49 +12,34 @@ draft: false
 - Reference: Advisory Opinion No. 2018-075
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/AONo.2018-075.pdf
 - Issue date: 11/08/2018
-- Tags: lgu ordinance; lease and transient residents; security
+- Tags: LGU ordinance; Paupahan form; tenant registration; lease and transient residents
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                         ADVISORY OPINION NO. 2018-075
 
 8 November 2018
 
-'''''''''''''''''''''''''''''' ''''''''''''''''''''' '''''''
-''''''''''''''''' '''''''''''''''''''''' '''''''''''''''''''
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Re: BARANGAY TANYAG ORDINANCE NO. 03 — PAUPAHAN FORM
 
-               Re:        BARANGAY TANYAG ORDINANCE NO. 03
-                          “ORDINANSANG NAG-AATAS SA LAHAT NG MAY-ARI NG
-                          APARTMENT, BAHAY-PAUPAHAN, PAUPAHANG KUWARTO
-                          AT LAHAT NG URI NG PAUPAHAN PARA SA
-                          PANINIRAHANG PANG-INDIBIDWAL, PAMPAMILYA AT
-                          PANGKOMERSYAL NA IPAREHISTRO SA TANGGAPAN NG
-                          BARANGAY TANYAG ANG LAHAT NG NANINIRAHAN SA
-                          KANILANG PAUPAHAN AT ANG PAGTATAKDA NG
-                          KAUKULANG MULTA SA LALABAG DITO.”
-
-
-Dear '''''''''''''''''''''''''''''''''' '''''''''''''''''''' ''''''' '''''''''''''' ''''''''''''''''''''''' '''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your letter seeking clarification regarding the Paupahan Form (Form)
 required by Barangay Bagong Tanyag, Taguig City in accordance with Barangay Ordinance No.
 031 on the registration of tenants of leased residential spaces as a pre-requisite for the issuance
 of Barangay Clearance for Business Permit and the renewal thereof.
 
+### Discussion
+
 As we understand, you are inquiring whether the Form complies with the provisions of the
 Data Privacy Act of 2012 (DPA).2 Particularly, you raised the following questions:
 
-            1. Whether the Form is valid when it does not have a clear provision stating the
+   1. Whether the Form is valid when it does not have a clear provision stating the
                specific purpose of collecting the information;
             2. Whether the Form collects an excessive amount of personal information;
             3. Whether the Form is valid when it does not contain any statement on the protection
                of personal information collected;
             4. Whether a point person who will take charge in the safekeeping of the data and the
                liability in case of a data breach must be designated;
-
-
 
 1 Barangay Tanyag, Ordinansang Nag-Aatas Sa Lahat Ng May-Ari Ng Apartment, Bahay-Paupahan, Paupahang Kuwarto At
 
@@ -65,7 +50,7 @@ Sa Lalabag Dito, Ordinance No. 03 series of 2017.
 
 Republic Act No. 10173 (2012).
 
-        5. Whether the barangay can compel its constituents to sign the Form and whether it
+   5. Whether the barangay can compel its constituents to sign the Form and whether it
            can sanction them for not following the ordinance; and
         6. Whether residents may refuse to fill up the Form due to the barangay’s lack of
            security measures to protect their personal information.
@@ -167,7 +152,6 @@ there is no such officer in the barangay, to the Data Protection Officer of the 
 The barangay should have procedures in place to ensure that data subjects can exercise their
 rights.
 
-
 8 Id. § 18 (c).
 9 DPA § 11 (f)
 
@@ -188,14 +172,10 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman

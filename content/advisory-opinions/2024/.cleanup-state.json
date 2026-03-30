@@ -1,94 +1,107 @@
 {
   "advisory-opinion-no-2024-001-advisory-opinion-no-2024-001.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T00:00:00Z"
-  },
-  "advisory-opinion-no-2024-0014-npc-advisory-opinion-no-2024-0014-disclosure-of-names-sgd-redacted.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T03:10:10.352365Z",
-    "cleanup_pass": "full_structural_cleanup"
+    "final_cleanup": "2026-03-25T08:46:23.291542Z",
+    "processed_at": "2026-03-25T00:00:00Z",
+    "status": "done"
   },
   "advisory-opinion-no-2024-002-advisory-opinion-no-2024-002.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T00:01:00Z"
+    "final_cleanup": "2026-03-25T08:46:23.291542Z",
+    "processed_at": "2026-03-25T00:01:00Z",
+    "status": "done"
   },
   "advisory-opinion-no-2024-003-advisory-opinion-no-2024-003.md": {
+    "processed_at": "2026-03-25T00:02:00Z",
     "status": "done",
-    "processed_at": "2026-03-25T00:02:00Z"
+    "title_corrected": "2026-03-25T20:00:00Z"
   },
   "advisory-opinion-no-2024-004-advisory-opinion-no-2024-004.md": {
-    "status": "done",
+    "notes": "Batch processed - cleaned markdown structure",
     "processed_at": "2026-03-25T01:00:00Z",
-    "notes": "Batch processed - cleaned markdown structure"
+    "status": "done",
+    "title_corrected": "2026-03-25T20:00:00Z"
   },
   "advisory-opinion-no-2024-005-advisory-opinion-no-2024-005.md": {
+    "cleanup_pass": "full_structural_cleanup",
     "status": "done",
     "timestamp": "2026-03-25T03:10:10.352365Z",
-    "cleanup_pass": "full_structural_cleanup"
+    "title_corrected": "2026-03-25T20:00:00Z"
   },
   "advisory-opinion-no-2024-006-advisory-opinion-no-2024-006-redacted.md": {
-    "status": "done",
+    "notes": "Batch processed - cleaned markdown structure",
     "processed_at": "2026-03-25T01:00:00Z",
-    "notes": "Batch processed - cleaned markdown structure"
+    "status": "done",
+    "title_corrected": "2026-03-25T20:00:00Z"
   },
   "advisory-opinion-no-2024-007-advisory-opinion-no-2024-007-redacted.md": {
-    "status": "done",
+    "notes": "Batch processed - cleaned markdown structure",
     "processed_at": "2026-03-25T01:00:00Z",
-    "notes": "Batch processed - cleaned markdown structure"
+    "status": "done",
+    "title_corrected": "2026-03-25T20:00:00Z"
   },
   "advisory-opinion-no-2024-008-advisory-opinion-no-2024-008-redacted.md": {
     "status": "done",
-    "timestamp": "2026-03-25T03:10:10.352365Z",
-    "cleanup_pass": "full_structural_cleanup"
+    "timestamp": "2026-03-26T00:00:00Z",
+    "note": "Fixed letterhead removal; added Discussion heading; extracted inline footnotes and consolidated at end; fixed Re: line capitalization; added issue date and tags to Source section"
   },
   "advisory-opinion-no-2024-009-advisory-opinion-no-2024-009.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T01:00:00Z",
-    "notes": "Batch processed - cleaned markdown structure"
+    "final_cleanup": "2026-03-25T07:26:45.359019+00:00",
+    "processed_at": "2026-03-25T07:24:50.208439+00:00",
+    "status": "done"
   },
   "advisory-opinion-no-2024-010-advisory-opinion-no-2024-010-disclosure-of-cooperative-member-s-loan-ledgers-sgd-redacted.md": {
+    "cleanup_pass": "full_structural_cleanup",
     "status": "done",
     "timestamp": "2026-03-25T03:10:10.352365Z",
-    "cleanup_pass": "full_structural_cleanup"
+    "title_corrected": "2026-03-25T20:00:00Z"
   },
   "advisory-opinion-no-2024-011-advisory-opinion-no-2024-011-sgd-redacted.md": {
+    "cleanup_pass": "full_structural_cleanup",
     "status": "done",
     "timestamp": "2026-03-25T03:10:10.352365Z",
-    "cleanup_pass": "full_structural_cleanup"
+    "title_corrected": "2026-03-25T20:00:00Z"
   },
   "advisory-opinion-no-2024-012-advisory-opinion-no-2024-012-tirol-law-right-to-inspect-corporate-records-redacted.md": {
+    "cleanup_pass": "full_structural_cleanup",
     "status": "done",
     "timestamp": "2026-03-25T03:10:10.352365Z",
-    "cleanup_pass": "full_structural_cleanup"
+    "title_corrected": "2026-03-25T20:00:00Z"
   },
   "advisory-opinion-no-2024-013-advisory-opinion-no-2024-013-sgd-redacted.md": {
+    "cleanup_pass": "full_structural_cleanup",
     "status": "done",
     "timestamp": "2026-03-25T03:10:10.352365Z",
-    "cleanup_pass": "full_structural_cleanup"
+    "title_corrected": "2026-03-25T20:00:00Z"
+  },
+  "advisory-opinion-no-2024-014-disclosure-of-individuals-names-in-relation-to-the-registration-and-use-of-fake-national-identification-cards.md": {
+    "cleanup_pass": "full_structural_cleanup",
+    "final_cleanup": "2026-03-25T08:34:15.000000Z",
+    "status": "done",
+    "timestamp": "2026-03-25T08:17:47.786358+00:00"
   },
   "advisory-opinion-no-2024-015-advisory-opinion-no-2024-015-draft-advisory-opinion-no-2024-015-personal-data-audit-purposes-sgd-redacted.md": {
     "status": "done",
     "timestamp": "2026-03-25T03:10:10.352365Z",
-    "cleanup_pass": "full_structural_cleanup"
+    "title_corrected": "2026-03-25T08:52:15.311921+00:00"
   },
   "advisory-opinion-no-2024-016-npc-advisory-opinion-no-2024-016-disclosure-of-personal-data-pursuant-to-a-mo-by-the-bir-sgd-redacted.md": {
     "status": "done",
     "timestamp": "2026-03-25T03:10:10.352365Z",
-    "cleanup_pass": "full_structural_cleanup"
+    "title_corrected": "2026-03-25T08:52:15.311921+00:00"
   },
   "advisory-opinion-no-2024-017-npc-advisory-opinion-no-2024-017-an-over-an-over-san-diego-primavera-law-offices-redacted.md": {
     "status": "done",
-    "timestamp": "2026-03-25T03:10:10.352365Z",
-    "cleanup_pass": "full_structural_cleanup"
+    "timestamp": "2026-03-25T08:58:53.285824+00:00",
+    "title_fixed": true,
+    "note": "Fixed title format (em dash, removed recipient names, derived topic from Re: line); cleaned OCR artifacts; consolidated footnotes; improved description"
   },
   "advisory-opinion-no-2024-018-npc-advisory-opinion-no-2024-018-toll-regulatory-board-redacted.md": {
     "status": "done",
     "timestamp": "2026-03-25T03:10:10.352365Z",
-    "cleanup_pass": "full_structural_cleanup"
+    "title_corrected": "2026-03-25T08:52:15.311921+00:00"
   },
   "advisory-opinion-no-2024-019-npc-advisory-opinion-no-2024-019.md": {
     "status": "done",
     "timestamp": "2026-03-25T03:10:10.352365Z",
-    "cleanup_pass": "full_structural_cleanup"
+    "title_corrected": "2026-03-25T08:52:15.311921+00:00"
   }
 }

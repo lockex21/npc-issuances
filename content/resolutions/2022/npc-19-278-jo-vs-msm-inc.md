@@ -1,13 +1,23 @@
 ---
-title: "NPC 19-278: JO vs MSM, Inc."
-description: "See Electronic mail dated 29 April 2022 to JO and MSM , Inc. ; Electronic Mail Delivery Receipts."
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: See Electronic mail dated 29 April 2022 to JO and MSM , Inc. ; Electronic
+  Mail Delivery Receipts.
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC 19-278: JO vs MSM, Inc.'
+aliases:
+- NPC 19-278
+- npc 19-278
+- JO v. MSM, Inc.
+- jo v. msm, inc.
+date: '2022-06-16'
 ---
+
+
+
 
 ## Source
 - Reference: NPC 19-278
@@ -21,31 +31,29 @@ draft: false
 - Finality of the case, Failure to substantiate allegations
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-JO ,
+JO,
 
 Complainant,
 
--versus -
+-versus-
 
-MSM , Inc .
+MSM, Inc .
 
 Respondent .
 
 x----------------------------------------------------x
 
-NAGA , P.C.;
+NAGA, P.C.;
 
 Before the Commission is a Motion for Reconsideration dated 15 May
 
 2022 filed by JO on the Commission’s Decision dated 31 March 2022 .
 
-Facts
+### Facts
 
-JO , through a Complaints -Assisted Form dated 27 March 2019, filed a
+JO, through a Complaints -Assisted Form dated 27 March 2019, filed a
 
-case against the Respondent, MSM , Inc (MSMI) .1 On 31 March 2022,
+case against the Respondent, MSM, Inc (MSMI) .1 On 31 March 2022,
 
 the Commission issued a Decision dismissing the complaint for lack of
 
@@ -69,11 +77,11 @@ Complaints -Assisted Form dated 27 March 2019 of J O.
 
 > 2
 
-JO vs MSM , Inc. , NPC 19 -278, Decision dated 31 March 2022 .
+JO vs MSM, Inc. , NPC 19 -278, Decision dated 31 March 2022 .
 
 > 3
 
-See Electronic mail dated 29 April 2022 to JO and MSM , Inc. ; Electronic Mail Delivery Receipts.
+See Electronic mail dated 29 April 2022 to JO and MSM, Inc. ; Electronic Mail Delivery Receipts.
 
 > 4
 
@@ -90,58 +98,6 @@ Id.
 > 7
 
 Motion for Reconsideration dated 15 May 2022 (s igned ) with stamp recei pt of JO .
-
-NPC 19 -278
-
-For: Violation of the
-
-Data Privacy Act of
-
-2012 NPC 19 -278
-
-JO v. MSM , Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-In his Motion, JO claim s that there was no “cogent reason” for the
-
-dismissal of his complaint. 8 He state s that “ the complaint itself has
-
-shown an exceptionally good cause that indeed respondents
-
-unquestionably, deliberately and seriously violated the right(s) of the
-
-complainant and complaint itself involves a serious violation or
-
-wanton breach of th e Data Privacy Act. ”9
-
-He claims that there was bias or partiality in the dismissal of his
-
-complaint. To support this claim, JO cites an alleged incident in the
-
-course of the preliminary investigation:
-
-The Investigating Officer have already decided the favorable
-
-resolution of the complaint to the respondent(s) since, quoted
-
-thereat the following remarks, “MADEDEHADO KA DITO
-
-(REFERRING TO NPC) KUNG WALA KANG ABOGADO”
-
-(sic )10
-
-JO also argues that MSM I has committed data privacy violations,
-
-especially by MSMI’s alleged admi ssion that it was using “the account
-
-name and code of complainant who has effectively resigned since 31
-
-December 2018 .” 11 He further contends that MSMI should be
-
-penalized under Sect ion 33 of Republic Act No. 10173, also known as
-
-the Data Privacy Act of 2012 (DPA). 12 Lastly, JO claims that MSMI
 
 could have performed its tasks manually, but opted to breach his
 
@@ -164,7 +120,7 @@ Rule 37 of the 2019 Rules of Civil Procedure. 16
 > 8Id ., at pp. 1-2.
 > 9Id., at p. 2.
 > 10 Id.
-> 11 Motion for Reconsideration dated 15 May 2022 of JO , at p. 2.
+> 11 Motion for Reconsideration dated 15 May 2022 of JO, at p. 2.
 > 12 Id.
 > 13 Id.
 > 14 Opposition (to the Motion for Reconsideration dated 15 May 2022) dated 01 June 2022 of MSM,
@@ -172,11 +128,7 @@ Rule 37 of the 2019 Rules of Civil Procedure. 16
 > 15 Id., at ¶ 2.
 > 16 Id .
 
-NPC 19 -278
-
-JO v. MSM , Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+JO v. MSM, Inc.
 
 MSMI also counters that JO “fails to provide any iota of evidence to
 
@@ -198,7 +150,7 @@ grounds for a motion for reconsid eration. 19
 
 MSMI cites the Decision in claiming that there was no privacy
 
-violation , in that JO’s email and Philippine Overseas Emplo yment
+violation, in that JO’s email and Philippine Overseas Emplo yment
 
 Administration (POEA) code are company -owned assets, and not
 
@@ -206,13 +158,13 @@ owned by JO .20 Thus, MSMI prays that the Commission deny JO’s
 
 Motion.
 
-Issue
+### Issue
 
 Whether the Motion for Reconsideration merits the reversal of the
 
 Decision dated 31 March 2022.
 
-Discussion
+### Discussion
 
 The Commission denies JO’s Motion for Reconsideration.
 
@@ -242,11 +194,9 @@ Id., ¶ 4(c) .
 
 > 20
 
-Id., ¶ 7 . See JO vs MSM , Inc. , NPC 19 -278, Decision dated 31 March 2022, at p. 12. NPC 19 -278
+Id., ¶ 7 . See JO vs MSM, Inc. , NPC 19 -278, Decision dated 31 March 2022, at p. 12. NPC 19 -278
 
-JO v. MSM , Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+JO v. MSM, Inc.
 
 SECTION 30. Appeal. – The decision of the National Privacy
 
@@ -262,7 +212,7 @@ be to the proper courts, in accordance with law and rules. 21
 
 (Emphasis supplied)
 
-Likewise, Rule VIII, Section 4 of NPC Circular No. 2021 -01 , otherwise
+Likewise, Rule VIII, Section 4 of NPC Circular No. 2021 -01, otherwise
 
 known as the 2021 NPC Rules of Procedure ( 2021 NPC Rules) states:
 
@@ -280,7 +230,7 @@ accordance with law and rules. 22
 
 The Decision dismissing the case was served to the parties via email
 
-on 29 April 2022. JO , in his Motion, claims that he received the Decision
+on 29 April 2022. JO, in his Motion, claims that he received the Decision
 
 on 10 May 2022. 23 Based on the records, this was the day he received
 
@@ -290,7 +240,7 @@ courier. 24
 
 Nevertheless, it should be noted that electronic service is allowed
 
-under Rule III, Section 6 of the NPC Rules. 25 Also , there was no
+under Rule III, Section 6 of the NPC Rules. 25 Also, there was no
 
 notification or other proof that there were problems with the electronic
 
@@ -320,7 +270,7 @@ NPC Circular No. 2021 -01, Rule VIII, § 4 (28 January 2021) (2021 NPC Rules of 
 
 > 23
 
-Motion for Reconsideration dated 15 May 2022 of JO , at p. 1.
+Motion for Reconsideration dated 15 May 2022 of JO, at p. 1.
 
 > 24
 
@@ -338,9 +288,7 @@ See Electronic mail d elivery receipts.
 
 Electronic mail dated 16 May 2022 of JO. NPC 19 -278
 
-JO v. MSM , Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+JO v. MSM, Inc.
 
 of the Decision, since there was no appeal filed within the fifteen (15) -
 
@@ -354,7 +302,7 @@ However, under Rule 7, Section 3 of the 2019 Rules of Civil Procedure
 
 and other written submissions to the court must be signed by the
 
-party or counsel representing him or her. ”29 JO , as the party filing the
+party or counsel representing him or her. ”29 JO, as the party filing the
 
 Motion, did not follow this clear obligation. It was only on 17 May 2022
 
@@ -380,7 +328,7 @@ any substantial or adequate ground to
 
 reverse the Decision.
 
-Setting aside the procedural infirmity , the Commission still finds that
+Setting aside the procedural infirmity, the Commission still finds that
 
 the Decision must be upheld. JO has not shown any substantial or
 
@@ -402,14 +350,10 @@ DITO (REFERRING TO NPC) KUNG WALA KANG ABOGADO .”31
 
 > 28 See 2021 NPC Rules of Procedure, Rule XII, §8.
 > 29 2019 R ules of Civil Procedure, Rule VII, §3. (Emphasis supplied)
-> 30 Motion for Reconsideration dated 15 May 2022 of JO , at p. 2 .
+> 30 Motion for Reconsideration dated 15 May 2022 of JO, at p. 2 .
 > 31 Id .
 
-NPC 19 -278
-
-JO v. MSM , Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+JO v. MSM, Inc.
 
 The Commission view allegations of bias seriously given that the
 
@@ -485,19 +429,17 @@ An Act Protecting Individual Personal Information in Information and Communicati
 
 in the Government and the Private Sector, Creating for This Purpose a National Privacy
 
-Commission, and for Other Purposes, [Data Privacy Act of 2012], Republic Act No. 10173 , Chapter
+Commission, and for Other Purposes, [Data Privacy Act of 2012], Republic Act No. 10173, Chapter
 
 II, § 7 (2012). NPC 19 -278
 
-JO v. MSM , Inc.
+JO v. MSM, Inc.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-harm to JO , given that the emails he provided allegedly show acts
+harm to JO, given that the emails he provided allegedly show acts
 
 which he did not do, but may be liable for.
 
-Thus , the Commission finds it appropriate to exercise its
+Thus, the Commission finds it appropriate to exercise its
 
 authority to resolve the case on the merits. 33 (Emphases
 
@@ -553,22 +495,18 @@ of the DPA to act as deterrence for those similarly inclined to violate
 
 the law or commit data breaches. 37
 
-> 33 JO v. MSM , Inc. , NPC 19 -278, Decision dated 31 March 2022, at pp. 9-11.
+> 33 JO v. MSM, Inc. , NPC 19 -278, Decision dated 31 March 2022, at pp. 9-11.
 > 34 See National Privacy Commission, Rules of Procedure, NPC Circular No. 16 -04, § 4 (a) (15
 > December 2016).
 > 35 2021 NPC Rules of Procedure, Rule VIII, §1.
-> 36 Motion for Reconsideration dated 15 May 2022 of JO , at p. 2.
+> 36 Motion for Reconsideration dated 15 May 2022 of JO, at p. 2.
 > 37 Id .
 
-NPC 19 -278
-
-JO v. MSM , Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+JO v. MSM, Inc.
 
 The Commission has already extensively discussed JO’s contentions in
 
-its Decisio n. Further , the Commission finds that there are no new
+its Decisio n. Further, the Commission finds that there are no new
 
 material facts or information presented by JO in his Motion that would
 
@@ -586,7 +524,7 @@ MSMI had a legitimate interest to continue using the POEA Account
 
 to access the Sea -based e -Contracts System (SBECS) . MSMI’s i nterest
 
-stems from POEA Memorandum Circular No. 06, series of 2018 , which
+stems from POEA Memorandum Circular No. 06, series of 2018, which
 
 established the mandate for licensed manning agencies, like MSMI, to
 
@@ -630,7 +568,7 @@ New Procedure for Online Registration of Seafarers and Seabased e -Contract s Sy
 
 > 39
 
-JO vs MSM , Inc. , NPC 19 -278, Decision dated 31 March 2022, at p. 14; see Motion to Dismiss dated
+JO vs MSM, Inc. , NPC 19 -278, Decision dated 31 March 2022, at p. 14; see Motion to Dismiss dated
 
 02 July 2019 of Multinational Ship Management, Inc., Annex “F”.
 
@@ -640,11 +578,9 @@ Motion for Reconsideration dated 15 May 2022 of JO at p. 2.
 
 > 41
 
-Data Privacy Act of 2012 , Chapter VIII, § 33. NPC 19 -278
+Data Privacy Act of 2012, Chapter VIII, § 33. NPC 19 -278
 
-JO v. MSM , Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+JO v. MSM, Inc.
 
 JO has not proven that MSMI is liable for violating any of Sections 25
 
@@ -662,21 +598,17 @@ WHE REFORE, premises considered, the Motion for Reconsideration
 
 is DENIED . The Decision dated 31 March 2022 is hereby AFFIRMED.
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines .
 
 16 June 2022 .
-
-Sgd.
 
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
 WE CONCUR:
-
-Sgd.
 
 DUG CHRISTOPER B. MAH
 
@@ -690,15 +622,13 @@ Deputy Privacy Commissioner
 
 Copy furnished: NPC 19 -278
 
-JO v. MSM , Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+JO v. MSM, Inc.
 
 JO
 
 Complainant
 
-MSM , INC.
+MSM, INC.
 
 Respondent
 

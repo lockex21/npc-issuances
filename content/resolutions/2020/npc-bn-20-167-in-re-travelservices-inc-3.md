@@ -1,13 +1,23 @@
 ---
-title: "NPC BN 20-167: In re: TravelServices, Inc."
-description: "have been acquired by an unauthorized per son.” An indicatio n of NPC BN 20 -167"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC BN 20-167
+- npc bn 20-167
+date: '2024-01-01'
+description: "have been acquired by an unauthorized per son.\u201D An indicatio n\
+  \ of NPC BN 20 -167"
 draft: false
+reference: NPC BN 20-167
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC BN 20-167: In re: TravelServices, Inc.'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC BN 20-167
@@ -21,7 +31,7 @@ draft: false
 - The data subjects shall be notified within seventy-two (72) hours upon knowledge of or reasonable belief by the personal information controller or personal information processor that a personal data breach has occurred., exemption or postponement will only be allowed in exceptional circumstances under Section 18(B) of NPC Circular No. 16-03, when notification is required, conditions necessitating mandatory breach notification, ransomware, interpretation of the DPA
 
 ## Resolution Text
-IN RE : TRAVELSERVICES, INC.  NPC BN 20 -167
+IN RE : TRAVELSERVICES, INC.  NPC BN 20167
 
 x-------------------------------------------x
 
@@ -37,13 +47,12 @@ September 2020 , involvin g a personal data breach caused by a
 
 ransomware attack in the company’s system .
 
-The Facts
-
+### Facts
 In its Initial Report filed with the Commission,
 
 TravelServices stated that in the mor ning of 26 August 2020, the
 
-company was advised by its in -house IT that there was a problem
+company was advised by its inhouse IT that there was a problem
 
 with the Magsa ysay network which currently houses its systems
 
@@ -81,11 +90,9 @@ decrypt the affected files. However, they expect the data loss to be
 
 minimal and temporary, as they back up their data constantly, and
 
-the backups are still intact. NPC BN 20 -167
+the backups are still intact. NPC BN 20167
 
 > Page 2of 7
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 Records shows that the total number of data subjects who
 
@@ -115,7 +122,7 @@ affected servers.
 
 iv. Cybersecurity vendors were tapped to assist on the
 
-containment, clean -up, and possible decryption of affected
+containment, cleanup, and possible decryption of affected
 
 files.
 
@@ -141,26 +148,22 @@ of data subjects until such time that it has ascertained t he identities
 
 of the affected data subjects.
 
-Discussion
-
+### Discussion
 This Commission deni es the herein request for
 
 postponement of notification to data subjects of  TravelServices  in
 
-accordance with NPC Circular No. 16 -03 (Personal Data Breach
+accordance with NPC Circular No. 1603 (Personal Data Breach
 
-Management). NPC BN 20 -167
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
+Management). NPC BN 20167
 
 At the outset, it should be emphasized that notification of
 
 data subjects of data breaches is the ge neral rule.  Under Section
 
-18(A) of NPC Circular No. 16 -03, it provides that:
+18(A) of NPC Circular No. 1603, it provides that:
 
-The data subjects shall be notified within seventy -two (72)
+The data subjects shall be notified within seventytwo (72)
 
 hours upon knowledge of or reasonable belief by the personal
 
@@ -168,7 +171,7 @@ information controller or personal information process or that a
 
 personal data breach has occurred . The notification may be made
 
-on the basis of available information within the 72 -hour period if
+on the basis of available information within the 72hour period if
 
 the personal data bre ach is likely to give rise to a real risk to the
 
@@ -188,7 +191,7 @@ The exemption or postponement will only be allowed in
 
 exceptional circumstances under Section 18(B) of NPC Circular
 
-No. 16 -03 , whi ch pr ovides that :
+No. 1603 , whi ch pr ovides that :
 
 If it is not reasonably possible to notify the data subjects within
 
@@ -231,10 +234,8 @@ notification to data subjects. Thus, a request for postponement is
 not proper and must be denied.
 
 > 1Emphasis supplied.
-> 2Emphasis supplied. NPC BN 20 -167
+> 2Emphasis supplied. NPC BN 20167
 > Page 4of 7
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 The Company’s Initial Report a nd request a lso contains a
 
@@ -256,7 +257,7 @@ involved ransomware , th ere is no reason to believe that the
 
 information may have b een accessed by unauthorized persons.
 
-Section 11 of NPC Circular 16 -03 states the conditions for
+Section 11 of NPC Circular 1603 states the conditions for
 
 notification , thus :
 
@@ -308,10 +309,7 @@ held in custody should be enough for a perso nal information
 
 controller to have “reason to believe that the information may
 
-have been acquired by an unauthorized per son.” An indicatio n of NPC BN 20 -167
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
+have been acquired by an unauthorized per son.” An indicatio n of NPC BN 20167
 
 exfiltration of data is not a requirement in Section 11(b). Absolute
 
@@ -392,19 +390,14 @@ taken by the malefactor . Without this control, the personal
 informatio n controller will be unable to exercise its obligations in
 
 > 3Emphasis supplied.
-> 4NPC BN 20 -15 7,NPC BN 20 -158 ,NPC BN 20 -15 9,NPC BN 20 -160 ,NPC BN 20 -161 ,NPC BN 20 -162 ,
-> NPC BN 20 -163 ,NPC BN 20 -164 ,NPC BN 20 -165 .
-
-NPC BN 20 -167
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
+> 4NPC BN 2015 7,NPC BN 20158 ,NPC BN 2015 9,NPC BN 20160 ,NPC BN 20161 ,NPC BN 20162 ,
+> NPC BN 20163 ,NPC BN 20164 ,NPC BN 20165 .
 
 processing the personal data according to the provisions of the
 
 DPA. Recent ransomware attacks have also shown a capability to
 
-release the encrypted data over the internet upon non -payment of
+release the encrypted data over the internet upon nonpayment of
 
 the ransom, potentially leading to a confidentiality breach
 
@@ -438,7 +431,7 @@ from receipt of this Resolution :
 
 1. SUBMIT full breach report wit h the complete
 
-information required under NPC Circular 16 -03
+information required under NPC Circular 1603
 
 which includes among others, the nature of
 
@@ -450,7 +443,7 @@ affected data subjects; an d
 
 incident in accordance wi th the provisions of NPC
 
-Circular 16 -03 and to SUBMIT proof of compliance
+Circular 1603 and to SUBMIT proof of compliance
 
 thereto.
 
@@ -458,12 +451,7 @@ SO ORDERED.
 
 Pasay City, Phili ppines ;
 
-21 September 2020. NPC BN 20 -167
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
-
-(Sgd.)
+21 September 2020. NPC BN 20167
 
 RAYMUND ENRIQUEZ LIBORO
 

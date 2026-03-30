@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2024-012 Tirol Law Right to Inspect Corporate Records_Redacted"
-description: "We respond to your request for an Advisory Opinion regarding the relation between the right of a stockholder to inspect corporate records under Section 73 of the Revised Corporation Code of the Philippines (RCC)2 and the Data Privacy Act of 2012 (DPA).3"
+title: "NPC Advisory Opinion No. 2024-012 — Right to Inspect Corporate Records Vis-à-Vis the Data Privacy Act of 2012"
+description: "Guidance on balancing stockholder rights to inspect corporate records with protection of personal data under the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -14,22 +14,19 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                             ADVISORY OPINION NO. 2024-0121
 
  16 October 2024
 
-
-
-
-           Re:     RIGHT TO INSPECT CORPORATE RECORDS VIS-À-VIS THE
+   Re:     RIGHT TO INSPECT CORPORATE RECORDS VIS-À-VIS THE
                    DATA PRIVACY ACT OF 2012.
 
-Dear
+Dear [Redacted],
 
 We respond to your request for an Advisory Opinion regarding the relation between the right
 of a stockholder to inspect corporate records under Section 73 of the Revised Corporation
 Code of the Philippines (RCC)2 and the Data Privacy Act of 2012 (DPA).3
+
+### Discussion
 
 You state that your client, Tibiao Bakery Inc. (TBI), received a request from a law office
 representing certain stockholders to be furnished with a statement of account detailing the
@@ -39,15 +36,13 @@ amounts of the advances, and the relevant supporting board resolution.
 In response, TBI allowed the examination of its books and records subject to the following
 conditions:
 
-         The examination of books and records of TBI pertaining to the advances to its directors, officers,
+       The examination of books and records of TBI pertaining to the advances to its directors, officers,
           stockholders and employees is allowed subject to compliance with Republic Act No. 10173 or
           the Data Privacy Act of 2012 (DPA)
          That the data subject should give his or her consent, specific to the purpose prior to the
           processing;
          That                 , in his capacity as administrator of the Estate of                     , has
           given his consent to examine the books and records of the corporation pertaining to the
-
-1 Tags: personal information, sensitive personal information, lawful processing, Corporation Code, inspection of corporate books
 
 and records, data subject rights
 2 An Act Providing for the Revised Corporation Code of the Philippines, [Revised Corporation Code of the Philippines], R A.
@@ -57,7 +52,7 @@ and records, data subject rights
 
 Republic Act No. 10173 (2012).
 
-         advances of the late                   ;
+   advances of the late                   ;
         That the examination shall be limited only to those who gave their consent; and
         That the undersigned is requested to submit a request for Advisory Opinion to the NPC.
 
@@ -68,7 +63,7 @@ absolute right to inspect corporate records.
 
 Thus, TBI presents the following issues:
 
-        Whether TBI must secure the prior consent of the data subjects who are the subject of
+       Whether TBI must secure the prior consent of the data subjects who are the subject of
          the demand to inspect; or
         If TBI is allowed by law to favorably act on the demand to inspect even in the absence
          of the aforesaid prior consent, if it is obligated to provide the demanded “statement of
@@ -83,20 +78,20 @@ of the applicable laws and relevant jurisprudence regarding the concerns you rai
 
 Section 73 of the RCC recognizes the stockholders’ right to inspect corporate records, viz.:
 
-        SEC. 73. Books to be Kept; Stock Transfer Agent. -- Every corporation shall keep and
+   SEC. 73. Books to be Kept; Stock Transfer Agent. -- Every corporation shall keep and
         carefully preserve at its principal office all information relating to the corporation
         including, but not limited to:
 
-                                                     xxx
+   xxx
 
-        (d) A record of all business transactions;
+   (d) A record of all business transactions;
 
-        (e) A record of the resolutions of the board of directors or trustees and of the stockholders
+   (e) A record of the resolutions of the board of directors or trustees and of the stockholders
         or members;
 
-                                                     xxx
+   xxx
 
-        Corporate records, regardless of the form in which they are stored, shall be open to
+   Corporate records, regardless of the form in which they are stored, shall be open to
         inspection by any director, trustee, stockholder or member of the corporation in person or
         by a representative at reasonable hours on business days, and a demand in writing may be
         made by such director, trustee or stockholder at their expense, for copies of such records
@@ -107,11 +102,11 @@ Section 73 of the RCC recognizes the stockholders’ right to inspect corporate 
         Act of 2012”, Republic Act No. 8799, otherwise known as “The Securities Regulation
         Code”, and the Rules of Court.
 
-                                                     xxx
+   xxx
 
-        Any officer or agent of the corporation who shall refuse to allow the inspection and/or
+   Any officer or agent of the corporation who shall refuse to allow the inspection and/or
 
-             reproduction of records in accordance with the provisions of this Code shall be liable to
+   reproduction of records in accordance with the provisions of this Code shall be liable to
              such director, trustee, stockholder or member for damages, and in addition, shall be guilty
              of an offense which shall be punishable under Section 161 of this Code: Provided, That if
              such refusal is made pursuant to a resolution or order of the board of directors or trustees,
@@ -124,12 +119,12 @@ Section 73 of the RCC recognizes the stockholders’ right to inspect corporate 
              demand to examine or reproduce corporate records, or is a competitor, director, officer,
              controlling stockholder or otherwise represents the interests of a competitor.
 
-                                                             xxx
+   xxx
 
 It can be drawn from the law and jurisprudence that the right to inspect is subject to the
 following conditions:
 
-             a. It can only be exercised for a purpose germane to his interest as a stockholder;4
+   a. It can only be exercised for a purpose germane to his interest as a stockholder;4
              b. It must be exercised in good faith, for specific and honest purpose, and not to
                 gratify curiosity, or for speculative or vexatious purposes;5
              c. It must be exercised during reasonable hours on business days;
@@ -139,7 +134,7 @@ following conditions:
 
 This right is also subject to defenses, as in:
 
-             a. That the requesting stockholder has improperly used information before;
+   a. That the requesting stockholder has improperly used information before;
              b. There is a lack of good faith in the request for inspection;6
              c. There is a lack of legitimate purpose;
              d. The requesting party is not a stockholder of record, or is a competitor, director,
@@ -152,7 +147,7 @@ This right is also subject to defenses, as in:
 In advocating for your position, you cited a portion of the ruling in Gokongwei, Jr., v. Securities
 and Exchange Commission,7 to wit:
 
-             In Grey v. Insular Lumber, this Court held that "the right to examine the books of the
+   In Grey v. Insular Lumber, this Court held that "the right to examine the books of the
              corporation must be exercised in good faith, for specific and honest purpose, and not to
              gratify curiosity, or for specific and honest purpose, and not to gratify curiosity, or for
              speculative or vexatious purposes. The weight of judicial opinion appears to be, that on
@@ -168,7 +163,7 @@ and Exchange Commission,7 to wit:
 
 However, we wish to emphasize that the Supreme Court also ruled in the same case that:
 
-             The stockholder's right of inspection of the corporation's books and records is based upon
+   The stockholder's right of inspection of the corporation's books and records is based upon
              their ownership of the assets and property of the corporation. It is, therefore, an incident
              of ownership of the corporate property, whether this ownership or interest be termed an
              equitable ownership, a beneficial ownership, or a ownership. This right is predicated upon
@@ -179,9 +174,9 @@ However, we wish to emphasize that the Supreme Court also ruled in the same case
              to be germane to the petitioner's interest as a stockholder, and has to be proper and lawful
              in character and not inimical to the interest of the corporation.
 
-                                                          xxx
+   xxx
 
-             It appears to be the general rule that stockholders are entitled to full information as to
+   It appears to be the general rule that stockholders are entitled to full information as to
              the management of the corporation and the manner of expenditure of its funds, and to
              inspection to obtain such information, especially where it appears that the company is
              being mismanaged or that it is being managed for the personal benefit of officers or
@@ -190,7 +185,7 @@ However, we wish to emphasize that the Supreme Court also ruled in the same case
 Also, in the case of Terelay Investment and Development Corporation, vs. Cecilia Teresita J. Yulo,8
 the Supreme Court held that:
 
-              In general, however, officers and directors have no legal authority to close the office
+   In general, however, officers and directors have no legal authority to close the office
               doors against shareholders for whom they are only agents, and withhold from them the
               right to inspect the books which furnishes the most effective method of gaining
               information which the law has provided, on mere doubt or suspicion as to the motives
@@ -210,7 +205,7 @@ by the entity holding the information, or when put together with other informati
 directly and certainly identify an individual.10 Meanwhile, sensitive personal information
 refers to personal information:
 
-             (1) About an individual’s race, ethnic origin, marital status, age, color, and religious,
+   (1) About an individual’s race, ethnic origin, marital status, age, color, and religious,
                  philosophical or political affiliations;
              (2) About an individual’s health, education, genetic or sexual life of a person, or to any
                  proceeding for any offense committed or alleged to have been committed by such
@@ -221,7 +216,7 @@ refers to personal information:
 9 Data Privacy Act of 2012, §. 16.
 10 Data Privacy Act of 2012, §. 3(g).
 
-        (3) Issued by government agencies peculiar to an individual which includes, but not
+   (3) Issued by government agencies peculiar to an individual which includes, but not
             limited to, social security numbers, previous or current health records, licenses or its
             denials, suspension or revocation, and tax returns; and
         (4) Specifically established by an executive order or an act of Congress to be kept
@@ -231,29 +226,29 @@ In the present case, the corporate records requested to be inspected contain bot
 information and sensitive personal information (collectively referred to as “personal data”).
 Significantly, Section 12(c) and Section 13(b) state:
 
-        SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of
+   SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of
         personal information shall be permitted only if not otherwise prohibited by law, and when
         at least one of the following conditions exists:
 
-                                                              xxx
+   xxx
 
-        (c) The processing is necessary for compliance with a legal obligation to which the personal
+   (c) The processing is necessary for compliance with a legal obligation to which the personal
         information controller is subject;
                                                     …
 
-        SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of
+   SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of
         sensitive personal information and privileged information shall be prohibited, except in
         the following cases:
 
-                                                              xxx
+   xxx
 
-        (b) The processing of the same is provided for by existing laws and regulations: Provided,
+   (b) The processing of the same is provided for by existing laws and regulations: Provided,
         That such regulatory enactments guarantee the protection of the sensitive personal
         information and the privileged information: Provided, further, That the consent of the data
         subjects are not required by law or regulation permitting the processing of the sensitive
         personal information or the privileged information;
 
-                                                              xxx
+   xxx
 
 The DPA has the twin task of protecting the fundamental human right of privacy while
 ensuring the free flow of information.12 It cannot conveniently be invoked to curtail the
@@ -286,7 +281,7 @@ relevant to the request consistent with the general privacy principles of transp
 legitimate purpose, and proportionality,15 and in recognition of the rights of the data subjects
 affected.16 In Advisory Opinion 2019-011,17 we emphasized that:
 
-          The data subject concerned has the right to be informed of the request for disclosure.
+   The data subject concerned has the right to be informed of the request for disclosure.
           Moreover, the corporation has the obligation to examine or inquire about the particular
           demand thereby disclosing only those personal information that are necessary, not
           excessive, relevant and adequate to fulfill the legitimate purpose of the demand, as
@@ -303,15 +298,11 @@ adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 
-
 Very truly yours,
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
-
-
-
 
 15 Data Privacy Act of 2012, §. 11.
 16 Data Privacy Act of 2012, § 16-18.

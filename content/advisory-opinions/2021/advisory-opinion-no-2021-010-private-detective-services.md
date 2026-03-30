@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-010 — Private Detective Services"
-description: "'''''''''''''''''''' ''''' ''''''''''''''''''''''''''''''''''' ''''''' ''''''''''''' ''''''''' ''''''''' '''''''''''' ' ''''''''''''''''''' ''''' ''''' ''''''' '''''''' '''''' ''''''''' '''''' '''''' '''''''''' ''''''' ''''''' '''''''''..."
+title: "NPC Advisory Opinion No. 2021-010 — Private Detective Services"
+description: "Private detective agencies conduct surveillance, background checks, undercover operations, lifestyle checks, and records checks on behalf of clients. This opinion clarifies the lawful bases for processing personal data under the Data Privacy Act, requirements for records access, data subject rights, and limitations on those rights."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,57 +17,40 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                     ADVISORY OPINION NO. 2021-0101
 
- 22 March 2021
+**22 March 2021**
 
- '''''''''''''''''''' ''''' '''''''''''''''''''''''''''''''''''
- ''''''' ''''''''''''' '''''''''
- ''''''''' '''''''''''' ' ''''''''''''''''''' '''''
- ''''' ''''''' '''''''' '''''' ''''''''' ''''''
- '''''' '''''''''' ''''''' ''''''' '''''''''
- ''''''''''''''''''''''''''''''''''''''''''
+Re: PRIVATE DETECTIVE SERVICES
 
-
-              Re:       PRIVATE DETECTIVE SERVICES
-
-Dear '''''''' ''''''''''''''''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
-Commission (NPC). As a follow up to Advisory Opinion No. 2019-001,2 you now seek further
-clarification on the applicability of the Data Privacy Act of 20123 (DPA) to the specific services
+Commission (NPC). As a follow up to Advisory Opinion No. 2019-001,[^2] you now seek further
+clarification on the applicability of the Data Privacy Act of 2012[^3] (DPA) to the specific services
 and engagements of your company, Eyespy Detectives and Investigators Co. (Eyespy).
 
 From your letter, we understand that Eyespy, a duly licensed private detective agency, offers
 the following services:
 
-      1.    Surveillance Operations – includes monitoring the activities and movements of a data subject,
+   1.    Surveillance Operations – includes monitoring the activities and movements of a data subject,
             following the data subject in his/her day-to-day activities, and taking pictures and/or videos.
             Eyespy does not record conversations but only take videos or pictures of activities or
             interactions of the data subject in public places.
 
-      2.    Undercover Operations – mostly requested by business owners or proprietors, whereby
+   2.    Undercover Operations – mostly requested by business owners or proprietors, whereby
             Eyespy deploys undercover personnel in the premises or areas of operation to investigate or
             determine liability for anomalies or irregularities including theft and fraud, preparatory to
             possible administrative sanctions or criminal prosecution against responsible personnel. A
             licensed private detective is employed by the client-company to work in their premises and
             discreetly observe the activities of the client’s employees during working hours.
 
-      3.    Background Check – involves checking the information provided by the client on the data
+   3.    Background Check – involves checking the information provided by the client on the data
             subject such as family, educational/professional background, and previous employment,
             among others, to determine whether the information provided by the data subject are truthful
             and accurate. Eyespy usually verifies the addresses, offices or establishment provided by the
             data subject and conducts discreet verification of the information provided.
 
-
-1 Tags: Private detective services, background investigation, surveillance operations, undercover operations, lifestyle check, records check,
-right to privacy, lawful criteria for processing, data subject rights.
-3 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector,
-
-                                  5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307
-
-   4.   Lifestyle Check – similar to surveillance investigation and background check except that the
+4.   Lifestyle Check – similar to surveillance investigation and background check except that the
         primary focus in the investigation is to determine whether the data subject is living within his
         or her means.
 
@@ -129,7 +112,7 @@ You now seek guidance and clarification on the legality and propriety of the ser
 conducted by Eyespy vis-à-vis the engagements mentioned. From your letter, we gathered
 these specific inquiries:
 
-    1.   Are the services conducted in connection with the engagements mentioned permissible and do
+   1.   Are the services conducted in connection with the engagements mentioned permissible and do
          not violate the DPA?
     2.   In the case of services performed for insurance companies: Is the authorization provided by the
          insurance company is already sufficient to authorize Eyespy to conduct Records Check?
@@ -146,8 +129,9 @@ these specific inquiries:
     6.   In the case of Records Checks, how can Eyespy deal with data controllers who refuse access to
          records on the mistaken insistence that it is prohibited under the DPA?
 
-Legality of processing personal data by private
-detective services; criteria for processing personal data
+### Discussion
+
+#### Legality of processing personal data by private detective services; criteria for processing personal data
 
 On the services provided by Eyespy, you propose that the same are all permissible data
 gathering activities pursuant to the provisions of the DPA, specifically Section 12 (b) -
@@ -178,9 +162,9 @@ there is no underlying contract involving the data subject and/or where Eyespy�
 
 considering any legal action or proceeding from such personal data processing activity.
 
-In the determination of legitimate interest, the following must be considered:4
+In the determination of legitimate interest, the following must be considered:[^4]
 
-     1.   Purpose test – The existence of a legitimate interest must be clearly established, including a
+   1.   Purpose test – The existence of a legitimate interest must be clearly established, including a
           determination of what the particular processing operation seeks to achieve;
      2.   Necessity test – The processing of personal information must be necessary for the purpose of
           the legitimate interest pursued by the PIC or third party to whom personal information is
@@ -189,7 +173,7 @@ In the determination of legitimate interest, the following must be considered:4
           by the legitimate interests of the PIC or third party, considering the likely impact of the
           processing on the data subjects.
 
-Determination of DPA violation
+#### Determination of DPA violation
 
 As to the determination of whether there is a DPA violation in relation to the services
 provided by Eyespy, there can be no categorical statement to that effect based on the given
@@ -203,17 +187,16 @@ principles, and data subject rights were upheld, among others.
 
 We reiterate our position in Advisory Opinion No. 2019-001:
 
-          “Given the foregoing, it is for Eyespy to determine whether its acts, such as records
+   “Given the foregoing, it is for Eyespy to determine whether its acts, such as records
           verification and background investigation, would: (a) constitute a violation of an
           individual’s reasonable expectation of privacy, and (b) violate existing laws, including
           the DPA.
 
-          Note that the DPA dictates that its provisions shall be liberally interpreted in a manner
+   Note that the DPA dictates that its provisions shall be liberally interpreted in a manner
           mindful of the rights and interests of the data subject. Thus, it is the burden of Eyespy to
-          ensure that any processing of personal data is in accordance with the law.”5
+          ensure that any processing of personal data is in accordance with the law.”[^5]
 
-Conduct of Records Checks; authorization; general data
-privacy principles
+#### Conduct of Records Checks; authorization; general data privacy principles
 
 In relation to Records Check services for insurance claims or cases, we wish to clarify that the
 authorization of the insurance company may just be one of the documents which may satisfy
@@ -222,14 +205,8 @@ the requirements of the pertinent PIC to verify/validate the presented record or
 Please note that the PIC being asked for the information will consider each request on a case-
 to-case basis, and must be satisfied that it is legitimate, within the lawful basis for processing
 under the DPA, and there is indeed an insurance claim or proceeding where the records
-validation is necessary for the purpose stated by the Eyespy.6 The same may hold true for the
-records check for debt collection.
-
-4 See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner’s Office (ICO), What is the ‘Legitimate
-Interests’ basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-
-interests/what-is-the-legitimate-interests-basis/.
-6 See: UK Information Commissioner’s Office, When can I disclose information to a private investigator?, available at
-https://ico.org.uk/media/1556/disclosures_to_private_investigators.pdf (last accessed March 23, 2021).
+validation is necessary for the purpose stated by the Eyespy.[^6] The same may hold true for the
+records check for debt collection..
 
 In both cases, the affected data subject should have been informed at the outset, through the
 appropriate terms and conditions of the insurance contract, that verification of the
@@ -241,8 +218,7 @@ Data subjects should therefore have an expectation that their personal data will
 in relation to the aforementioned contractual obligations, subject to the general data privacy
 principles transparency, legitimate purpose, and proportionality.
 
-Data subject rights in relation to private detective
-services; right to object; right to access; limitations
+#### Data subject rights in relation to private detective services; right to object; right to access; limitations
 
 On the theoretical situation where the data subject learns of the personal data gathering
 conducted and demands Eyespy to cease and desist therefrom and furnish him or her a copy
@@ -253,38 +229,34 @@ Note that while there may be a right to object to the processing of personal dat
 in instances where processing is based on consent or legitimate interest. Hence, it is still
 possible to continue processing personal data where for example, the same is still necessary
 for the performance of or in relation to a contract or service to which the data subject is a party,
-or when necessary or desirable in the context of an employer-employee relationship.7
+or when necessary or desirable in the context of an employer-employee relationship.[^7]
 
 For further guidance, we refer to NPC Advisory No. 2021 – 01 on Data Subject Rights
 discussing the right to object, to wit:
 
-          “SECTION 7. Right to Object. — x x x
+   “SECTION 7. Right to Object. — x x x
 
-          C. When a data subject objects, the PIC shall cease the processing of personal data and
+   C. When a data subject objects, the PIC shall cease the processing of personal data and
           comply with the objection, unless the processing falls under any other allowable
           instances pursuant to in Sections 12 or 13, other than consent and legitimate interest.
 
-          Should there be other grounds to continue processing the personal data, the PIC shall
+   Should there be other grounds to continue processing the personal data, the PIC shall
           have the burden of determining and proving the appropriate lawful basis or compelling
           reason to continue such processing. The PIC shall communicate and inform the data
-          subject of said lawful basis or compelling reason to continue processing.” 8
+          subject of said lawful basis or compelling reason to continue processing.”[^8]
 
 On the request to furnish a copy of the personal data collected, this may be anchored on the
 data subject right to access, and generally, may be granted by Eyespy. As an exception, this
 right may be limited when necessary for public interest, protection of other fundamental
 rights, or there exists a legitimate purpose justifying such limitation, which shall be
-proportional to the purpose of such limitation.9
+proportional to the purpose of such limitation.[^9]
 
 Further, on the limitation provided in Section 37 of the IRR which you mentioned, the
 provision states in part:
 
-          “Section 37. Limitation on Rights. The immediately preceding sections shall not be
+   “Section 37. Limitation on Rights. The immediately preceding sections shall not be
 
-
-7 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34 (b) (2) (2016).
-9 Id. § 13 and 13 (D).
-
-        applicable x x x. The said sections are also not applicable to the processing of personal
+   applicable x x x. The said sections are also not applicable to the processing of personal
         data gathered for the purpose of investigations in relation to any criminal, administrative
         or tax liabilities of a data subject. Any limitations on the rights of the data subject shall
         only be to the minimum extent necessary to achieve the purpose of said research or
@@ -296,12 +268,12 @@ by private parties, even when it is in relation to an alleged crime such as adul
 concubinage as described in your letter. We again refer to NPC Advisory No. 2021 – 01 for
 further guidance:
 
-        “SECTION 13. Limitations. — x x x
+   “SECTION 13. Limitations. — x x x
 
-        B. Investigations in relation to any criminal, administrative, or tax liabilities of a data
+   B. Investigations in relation to any criminal, administrative, or tax liabilities of a data
         subject: provided, that:
 
-        1.   The investigation is being conducted by persons or entities duly authorized by law
+   1.   The investigation is being conducted by persons or entities duly authorized by law
              or regulation;
         2.   The investigation or any stage thereof relates to any criminal, administrative, or tax
              liabilities of a data subject as may be defined under existing laws and regulations;
@@ -310,7 +282,7 @@ further guidance:
              upholding data subject rights would prevent, impair, or otherwise prejudice the
              investigation. x x x”
 
-Refusal of PICs to grant access to records
+#### Refusal of PICs to grant access to records
 
 As mentioned above, PICs would have to make their own evaluation of the legitimacy of the
 requests for access and disclosure to personal data on a case-to-case basis, and must be
@@ -332,8 +304,14 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
+
+[^2]: National Privacy Commission, NPC Advisory Opinion No. 2019-001 (Jan. 3, 2019).
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^4]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
+[^5]: National Privacy Commission, NPC Advisory Opinion No. 2019-001.
+[^6]: See: UK Information Commissioner's Office, When can I disclose information to a private investigator?, available at https://ico.org.uk/media/1556/disclosures_to_private_investigators.pdf (last accessed March 23, 2021).
+[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34 (b) (2) (2016).
+[^8]: National Privacy Commission, NPC Advisory Opinion No. 2021-01, Data Subject Rights.
+[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 13 and 13 (D).

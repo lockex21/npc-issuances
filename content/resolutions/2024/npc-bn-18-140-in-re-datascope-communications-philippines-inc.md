@@ -1,26 +1,22 @@
 ---
-title: "NPC BN 18-140: In Re: Datascope Communications (Philippines), Inc."
-description: "NPC BN 18-140: In Re: Datascope Communications (Philippines), Inc."
+title: "NPC BN 18-140: Resolution"
+description: "Resolution addressing the compliance of Datascope"
+aliases:
+  - "NPC BN 18-140"
+  - "npc bn 18-140"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2024"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2024
+  - npc-case
+date: "2024-01-01"
 draft: false
 ---
 
-## Source
-- Reference: NPC BN 18-140
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/10/NPC-BN-18-140-04.18.2024-In-re-Datascope-Communications-Philippines-Inc._Order.pdf
-- Source page: http://privacy.gov.ph/resolutions/
-- Issue date: April 18, 2024
-- Published on NPC site: Thu, 23 Oct 2025 07:59:36 GMT
-- Pages: 28
+## Source-Reference: NPC BN 18-140-Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/10/NPC-BN-18-140-04.18.2024-In-re-Datascope-Communications-Philippines-Inc._Order.pdf-Source page: http://privacy.gov.ph/resolutions/
+- Issue date: April 18, 2024-Published on NPC site: Thu, 23 Oct 2025 07:59:36 GMT-Pages: 28
 
-## Source Tags
-- Sec 17(d). Content Notification
-- Sec 11. When Notification is required
-- Sec 20. Security of Personal Information
+## Source Tags-Sec 17(d). Content Notification-Sec 11. When Notification is required-Sec 20. Security of Personal Information
 
 ## Resolution Text
 IN RE: DATASCOPE COMMUNICATIONS
@@ -39,8 +35,7 @@ the National Privacy Commission (NPC) through its Complaints and
 
 Investigation Division (CID) dated 19 October 2020 and 14 June 2021 .
 
-Facts
-
+### Facts
 On 31 July 2018, Datascope submitted to the Commission i ts initial
 
 breach report relating to a data breach that occurred on 05 February
@@ -65,12 +60,7 @@ In stating what occurred prior to the occurrence of the incident,
 
 Datascope narrated:
 
-> 1Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
 > (Philippines), Inc., at p. 1.
-> 2Id., at p.2.
-> 3Id.
-
-NPC BN 18 -140 NPC BN 18 -140
 
 On November 28, 2017, the HR Analyst, CC who is in -charge in
 
@@ -142,7 +132,6 @@ thus the missing hard drive was reported to the incident
 
 Response Team Coordinator on February 5, 2018.
 
-> 4Id. NPC BN 18 -140
 > Page 3of 28
 
 7.  The result of the investigation cannot establish whether the
@@ -201,16 +190,8 @@ Thus, Datascope described the safeguards in place to avoid the
 
 recurrence of the same incident, which include the: (1) use of gate
 
-> 5Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
 > (Philippines), Inc., at pp. 2 -3.
-> 6Id., at p. 3.
-> 7Id.
-> 8Id., at p. 4.
-> 9Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
 > (Philippines), Inc., at p. 3.
-> 10 Id., at pp. 3 -4.
-
-NPC BN 18 -140
 
 pass when transferring removable media; (2) use of company vehicle
 
@@ -280,9 +261,6 @@ company driver were asked to submit their answer on the
 
 below questions in a written form during the same period:
 
-> 11 Id., at p. 3.
-
-NPC BN 18 -140
 
 a) What are their knowledge with regards to keeping HRD
 
@@ -354,9 +332,6 @@ that refusal of pickup of HDD is not allowed).
 
 be stored inside the Data Center. 12
 
-> 12 Id., at pp. 4 -6.
-
-NPC BN 18 -140
 
 On 19 October 2020, the NPC through its CID issued an Order
 
@@ -426,14 +401,8 @@ Policy;
 
 14.  Interview/written statements of HR Department Staff;
 
-> 13 NPC BN 18 -140 (unreported ), Order dated 19 October 2020 of the National Privacy
 > Commission’s Complaints and Investigation Division.
-> 14 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc.
-> 15 Id., at p. 3.
-> 16 Id., at p. 7.
-
-NPC BN 18 -140
 
 15.  Internal Memorandum containing the Mandatory Personal
 
@@ -483,22 +452,17 @@ Accordingly on 19 May 2022, Datascope submitted to the
 
 Commission ’s CID the above -requested documents. 19
 
-Issue
-
+### Issue
 Whether Datascope has sufficiently complied with the Order s dated
 
 19 October 2020 and 14 June 2021 .
 
-Discussion
-
+### Discussion
 In the Order of the CID dated 19 October 2020, Datascope was
 
 required to submit a Full Report “expounding the details of the
 
-> 17 Id., referred to as Annexes “1” to “ 21 .”
-> 18 NPC BN 18 -140 (unreported ), Order dated 14 June 2021 of the National Privacy Commission’s
 > Complaints and Investigation Division.
-> 19 Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc. NPC BN 18 -140
 > Page 8of 28
 
 incident” and “attaching the specified documents” to be used in the
@@ -523,9 +487,7 @@ I.  Datascope sufficiently provided
 
 the details in its Full Report
 
-pursuant to NPC Circular 16 -
-
-03 .
+pursuant to NPC Circular 16-03 .
 
 On 19 October 2020, Datascope was required by CID to submit a Full
 
@@ -557,13 +519,7 @@ not be limited to:
 
 1.  Nature of the Breach
 
-> 20 NPC BN 18 -140 (unreported ), Order dated 19 October 2020 of the National Privacy
 > Commission’s Complaints and Investigation Division.
-> 21 Id.
-> 22 Id.
-> 23 Id.
-
-NPC BN 18 -140
 
 a.  description of how the breach occurred and the
 
@@ -639,9 +595,7 @@ forward ed to the Commission its compliance providing the required
 
 information. 25  Datascope reiterated the details provided in its initial
 
-> 24 National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -03, rule V,
 > § 17(D) (15 December 2016) (NPC Circular 16 -03).
-> 25 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc. NPC BN 18 -140
 
 report, attaching therein a “flowchart for the collection and swapping
@@ -698,20 +652,8 @@ As to the safeguards it took to mitigate the impact of the data breach,
 
 Datascope submitted the following documents: (1) Personal
 
-> 26 Id.
-> 27 Id., referred to as Annex “1.”
-> 28 Id.
-> 29 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc., referred to as Annex “1.”
-> 30 Id.
-> 31 Id.
-> 32 Id.
-> 33 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc., referred to as Annex “1.”
-> 34 Id.
-> 35 Id.
-
-NPC BN 18 -140
 
 Information Protection Guidelines; 36  (2) Guideline in the scanning of
 
@@ -751,9 +693,7 @@ personal data such as:
 
 including the new hires.
 
-2.  Employees sign the Undertaking of Confidentiality (non -
-
-disclosure agreement).
+2.  Employees sign the Undertaking of Confidentiality (non-disclosure agreement).
 
 3.  Employees sign the Job Description stating their
 
@@ -763,25 +703,16 @@ Lastly, the following personnel are authorized to process the
 
 statutory and government benefits:
 
-1.  HR Specialist - for Production employees (Data Entry and
+1.  HR Specialist-for Production employees (Data Entry and
 
 Search).
 
-2.  Senior Accountant - for staff employees.
+2.  Senior Accountant-for staff employees.
 
-3.  Accounting Head - for department heads. 42
+3.  Accounting Head-for department heads. 42
 
-> 36 Id., referred to as Annex “2.”
-> 37 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc., referred to as Annex “3.”
-> 38 Id., referred to as Annex “4.”
-> 39 Id., referred to as Annex “2.”
-> 40 Id.
-> 41 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc., referred to as Annex “2.”
-> 42 Id.
-
-NPC BN 18 -140
 
 The procedure for processing of the abovementioned benefits shall be
 
@@ -851,12 +782,7 @@ stated that HR documents in hard copies, including employees’
 
 records, shall be kept safely in the HR stockroom where only the HR
 
-> 43 Id.
-> 44 Id., referred to as Annex “3.”
-> 45 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc., referred to as Annex “3.”
-
-NPC BN 18 -140
 
 staff has access. 46  Moreover, 201 files shall be accessible only to HR
 
@@ -914,20 +840,8 @@ the result of the investigation conducted by its Incident Response
 
 Team. 55  On account of the said investigation report, Datascope
 
-> 46 Id., referred to as Annex “4.”
-> 47 Id.
-> 48 Id., referred to as Annex “5.”
-> 49 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc., referred to as Annex “6.”
-> 50 Id ., referred to as Annex “7.”
-> 51 Id ., referred to as Annex “8.”
-> 52 Id ., referred to as Annex “9.”
-> 53 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc., referred to as Annex “10.”
-> 54 Id ., referred to as Annex “17.”
-> 55 Id ., referred to as Annex “1 2.”
-
-NPC BN 18 -140
 
 likewise attached the Corrective Action Report which contained the
 
@@ -987,14 +901,7 @@ utility clerks and company driver stated that the files are properly
 
 safe kept in cabinet in the HRD room. 60  The said employees and
 
-> 56 Id ., referred to as Annex “13.”
-> 57 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc., referred to as Annex “12.”
-> 58 Id., at p. 6.
-> 59 Id.
-> 60 Id ., referred to as Annex “14.”
-
-NPC BN 18 -140
 
 personnel also stated that the HRD files are confidential in nature,
 
@@ -1056,12 +963,7 @@ As one of Datascope’s security management , Datascope submitted a
 
 List of Access Rights of the company personnel and/or staff who are
 
-> 61 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc., referred to as Annex “14.”
-> 62 Id., at pp. 7 -8.
-> 63 Id ., referred to Annex “16.”
-
-NPC BN 18 -140
 
 authorized to access company documents related to its employees
 
@@ -1117,16 +1019,9 @@ measures to protect personal data against natural and human
 
 dangers with guideline provided under NPC Advisory No.
 
-> 64 Id ., referred to Annex “18.”
-> 65 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc., referred to Annex “19.”
-> 66 Id., referred to Annex “20.”
-> 67 Id ., referred to Annex “21.”
-> 68 NPC BN 18 -140 (unreported ), Order dated 19 October 2020 of the National Privacy
 > Commission’s Complaints and Investigation Division .See also NPC BN 18 -140 (unreported ), Order
 > dated 14 June 2021 of the National Privacy Commission’s Complaints and Investigation Division.
-
-NPC BN 18 -140
 
 2017 -03 particularly on the process of scanning of employment
 
@@ -1180,19 +1075,9 @@ measures ;74  and, a privacy risk assessment or management as to the
 
 disposal of personal data. 75
 
-> 69 NPC BN 18 -140 (unreported ), Order dated 14 June 2021 of the National Privacy Commission’s
 > Complaints and Investigation Division.
-> 70 National Privacy Commission, Guidelines on Privacy Impact Assessments, NPC Advisory
-> 2017 -03, in Definition of Terms (31 July 2017) (NPC Advisory 2017 -03).
-> 71 Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
 > referred to as Privacy Impact Assessment ,at pp. 16 -30.
-> 72 Id., at pp. 31 -40.
-> 73 Id., at pp. 41 -45.
-> 74 Id., at pp. 46 -60.
-> 75 Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
 > referred to as Privacy Impact Assessment at pp. 61 -65.
-
-NPC BN 18 -140
 
 First, Datascope’s PIA included an assessment of its data processing
 
@@ -1208,9 +1093,7 @@ the employees’ names, addresses, dates of birth, contact information,
 
 government identification numbers, transcripts or diplomas,
 
-performance assessments, disciplinary actions, work histories, post -
-
-employment information, hiring requirements, and annual medical
+performance assessments, disciplinary actions, work histories, post-employment information, hiring requirements, and annual medical
 
 res ults. 78
 
@@ -1252,19 +1135,8 @@ transparency, Datascope stated that the data subjects are “aware of
 
 the risks and safeguards involved in the processing of [their]
 
-> 76 Id ., referred to as Privacy Impact Assessment at pp. 1 -5.
-> 77 Id.
-> 78 Id.
-> 79 Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
 > referred to as Privacy Impact Assessment at pp. 6 -10.
-> 80 Id.
-> 81 Id.
-> 82 Id., at pp. 11 -15.
-> 83 Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
 > referred to as Privacy Impact Assessment at pp. 11 -15.
-> 84 Id., at pp. 11 -15.
-
-NPC BN 18 -140
 
 personal data” as well as their data subject rights and on how these
 
@@ -1318,19 +1190,8 @@ Datascope indicated that the consent of data subjects is “time -bound
 
 in relation to the declared, specified, and legitimate purpose.” 95
 
-> 85 Id., at pp. 16 -20.
-> 86 Id.
-> 87 Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
 > referred to as Privacy Impact Assessment at pp. 16 -20.
-> 88 Id., at pp. 21 -25.
-> 89 Id.
-> 90 Id., at pp. 26 -30.
-> 91 Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
 > referred to as Privacy Impact Assessment at pp. 26 -30.
-> 92 Id.
-> 93 Id., at pp. 31 -35 .
-> 94 Id.
-> 95 Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
 > referred to as Privacy Impact Assessment at pp. 31 -35. NPC BN 18 -140
 
 Datascope likewise mentioned that it collects the personal data
@@ -1391,14 +1252,7 @@ project/system.
 
 handle the personal data processing are clearly defined.
 
-> 96 Id.
-> 97 Id., at pp. 36 -40.
-> 98 Id., at pp. 41 -45.
-> 99 Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
 > referred to as Privacy Impact Assessment at pp. 46 -50.
-> 100 Id.
-
-NPC BN 18 -140
 
 3. Inventory of processing systems. 101
 
@@ -1480,12 +1334,7 @@ inside the HRD room.
 
 with personal data.
 
-> 101 Id., at pp. 51 -55.
-> 102 Id., at pp. 56 -60.
-> 103 Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
 > referred to as Privacy Impact Assessment at pp. 61 -65.
-
-NPC BN 18 -140
 
 6. With procedure for pick up
 
@@ -1659,9 +1508,7 @@ number; (7) BIR Form 2316; (8) Philhealth number; (9) PAG -Ibig
 
 number; (10) education/transcripts/diplomas; (11) performance
 
-assessments; (12) disciplinary actions; (13) work history; (14) post -
-
-employment information; (15) hiring requirements; and, (16) annual
+assessments; (12) disciplinary actions; (13) work history; (14) post-employment information; (15) hiring requirements; and, (16) annual
 
 medical records, among others. 106
 
@@ -1695,16 +1542,10 @@ fraud. For this purpose, “other information” shall include, but
 
 not be limited to: data about the financial or economic situation
 
-> 104 Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
 > (Philippines), Inc., at p. 2.
-> 105 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc.
-> 106 Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
 > (Philippines), Inc., at p. 4.
-> 107 National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -03, rule V,
 > § 18(A) (15 December 2016) (NPC Circular 16 -03).
-
-NPC BN 18 -140
 
 of the data subject; usernames, passwords and other login data;
 
@@ -1766,19 +1607,14 @@ risk of serious harm to any affected data subject[.] 110  (Emphasis
 
 supplied)
 
-> 108 NPC Circular 16 -03, rule V, § 1 1.
-> 109 Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
 > (Philippines), Inc., at p. 4.
-> 110 An Act Protecting Individual Personal Information in Information and Communications
 > Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy
 > Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter
 > V, § 20(f) (2012). NPC BN 18 -140
 
 It must be stressed that the “other information that may be used to
 
-enable identity fraud ” as defined in Section 11(A) of NPC Circular 16 -
-
-03 is not an exclusive list. 111  In this instance, while the employees SSS
+enable identity fraud ” as defined in Section 11(A) of NPC Circular 16-03 is not an exclusive list. 111  In this instance, while the employees SSS
 
 number s, t ax identification numbe rs, and PhilHealth numbe rs are
 
@@ -1836,16 +1672,9 @@ has stressed that the “ risk shall be apparent and not a product of
 
 mere speculation ,” which means that the “ consequences and effects
 
-> 111 NPC Circular 16 -03, rule V, § 11(A) .
-> 112 Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
 > (Philippines), Inc., at p. 4.
-> 113 Id., at pp. 3 -4.
-> 114 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc., at p. 3.
-> 115 Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
 > (Philippines), Inc., at pp. 3 -4.
-
-NPC BN 18 -140
 
 to any affected data subject is significant based on the surrounding
 
@@ -1889,7 +1718,7 @@ complied with this obligation. In its Full Report dated 03 November
 
 2020, Datascope submitted proof of notification to the 651 affected
 
-data subjects who were its employees - active, resigned, or on leave. 120
+data subjects who were its employees-active, resigned, or on leave. 120
 
 The notification made by Datascope was in the form of an Internal
 
@@ -1899,20 +1728,10 @@ the list of personal data involved in the incident. 122  The
 
 Memorandum likewise contained details as to nature of the breach, 123
 
-> 116 In re: EasyTrip Services Corporation ,NPC BN 17 -028 & NPC BN 18 -180 ,Resolution dated 11
 > May 2023.
-> 117 Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
 > (Philippines), Inc., at pp. 3 -4.
-> 118 Id.
-> 119 NPC Circular 16 -03, rule V, § 18(A) .
-> 120 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), Inc., at p. 7. See Annex “15” also referred to as Mandatory
 > Personal Data Breach Notification to Data Subjects.
-> 121 Id., also referred to as Annex “15.”
-> 122 Id., also referred to as Annex “15,” at p. 1.
-> 123 Id., also referred to as Annex “15,” at pp. 1 -2.
-
-NPC BN 18 -140
 
 likely consequences of the breach, 124  measures taken to address the
 
@@ -1944,13 +1763,13 @@ sufficiently notified the affected data subject pursuant to NPC
 
 Circular 16 -03.
 
-WHEREFORE, based on the foregoing, the Commission hereby
+**WHEREFORE**, based on the foregoing, the Commission hereby
 
 resolves that the matter of NPC BN 18 -140 “In re: Datascope
 
-Communications (Philippines), Inc.” is CLOSED.
+Communications (Philippines), Inc.” is **CLOSED**.
 
-SO ORDERED.
+**SO ORDERED**.
 
 City of Pasay, Philippines.
 
@@ -1962,17 +1781,8 @@ JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
-> 124 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), also referred to as Annex “15,” at p. 2.
-> 125 Id.
-> 126 Id., also referred to as Annex “15,” at pp. 2 -3.
-> 127 Id., also referred to as Annex “15,” at p. 3.
-> 128 Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
 > Communications (Philippines), also referred to as Annex “15,” at p. 3.
-> 129 Id., at p. 4.
-> 130 Id., also referred to as Annex “15.”
-
-NPC BN 18 -140
 
 WE CONCUR:
 
@@ -2001,3 +1811,266 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+[^1]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^2]: Id., at p.2.
+[^3]: Id.
+[^4]: Id. NPC BN 18 -140
+[^5]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^6]: Id., at p. 3.
+[^7]: Id.
+[^8]: Id., at p. 4.
+[^9]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^10]: Id., at pp. 3 -4.
+[^11]: Id., at p. 3.
+[^12]: Id., at pp. 4 -6.
+[^13]: NPC BN 18 -140 (unreported ), Order dated 19 October 2020 of the National Privacy
+[^14]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^15]: Id., at p. 3.
+[^16]: Id., at p. 7.
+[^17]: Id., referred to as Annexes “1” to “ 21 .”
+[^18]: NPC BN 18 -140 (unreported ), Order dated 14 June 2021 of the National Privacy Commission’s
+[^19]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc. NPC BN 18 -140
+[^20]: NPC BN 18 -140 (unreported ), Order dated 19 October 2020 of the National Privacy
+[^21]: Id.
+[^22]: Id.
+[^23]: Id.
+[^24]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -03, rule V,
+[^25]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^26]: Id.
+[^27]: Id., referred to as Annex “1.”
+[^28]: Id.
+[^29]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^30]: Id.
+[^31]: Id.
+[^32]: Id.
+[^33]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^34]: Id.
+[^35]: Id.
+[^36]: Id., referred to as Annex “2.”
+[^37]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^38]: Id., referred to as Annex “4.”
+[^39]: Id., referred to as Annex “2.”
+[^40]: Id.
+[^41]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^42]: Id.
+[^43]: Id.
+[^44]: Id., referred to as Annex “3.”
+[^45]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^46]: Id., referred to as Annex “4.”
+[^47]: Id.
+[^48]: Id., referred to as Annex “5.”
+[^49]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^50]: Id ., referred to as Annex “7.”
+[^51]: Id ., referred to as Annex “8.”
+[^52]: Id ., referred to as Annex “9.”
+[^53]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^54]: Id ., referred to as Annex “17.”
+[^55]: Id ., referred to as Annex “1 2.”
+[^56]: Id ., referred to as Annex “13.”
+[^57]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^58]: Id., at p. 6.
+[^59]: Id.
+[^60]: Id ., referred to as Annex “14.”
+[^61]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^62]: Id., at pp. 7 -8.
+[^63]: Id ., referred to Annex “16.”
+[^64]: Id ., referred to Annex “18.”
+[^65]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^66]: Id., referred to Annex “20.”
+[^67]: Id ., referred to Annex “21.”
+[^68]: NPC BN 18 -140 (unreported ), Order dated 19 October 2020 of the National Privacy
+[^69]: NPC BN 18 -140 (unreported ), Order dated 14 June 2021 of the National Privacy Commission’s
+[^70]: National Privacy Commission, Guidelines on Privacy Impact Assessments, NPC Advisory
+[^71]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^72]: Id., at pp. 31 -40.
+[^73]: Id., at pp. 41 -45.
+[^74]: Id., at pp. 46 -60.
+[^75]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^76]: Id ., referred to as Privacy Impact Assessment at pp. 1 -5.
+[^77]: Id.
+[^78]: Id.
+[^79]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^80]: Id.
+[^81]: Id.
+[^82]: Id., at pp. 11 -15.
+[^83]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^84]: Id., at pp. 11 -15.
+[^85]: Id., at pp. 16 -20.
+[^86]: Id.
+[^87]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^88]: Id., at pp. 21 -25.
+[^89]: Id.
+[^90]: Id., at pp. 26 -30.
+[^91]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^92]: Id.
+[^93]: Id., at pp. 31 -35 .
+[^94]: Id.
+[^95]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^96]: Id.
+[^97]: Id., at pp. 36 -40.
+[^98]: Id., at pp. 41 -45.
+[^99]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^100]: Id.
+[^101]: Id., at pp. 51 -55.
+[^102]: Id., at pp. 56 -60.
+[^103]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^104]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^105]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^106]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^107]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -03, rule V,
+[^108]: NPC Circular 16 -03, rule V, § 1 1.
+[^109]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^110]: An Act Protecting Individual Personal Information in Information and Communications
+[^111]: NPC Circular 16 -03, rule V, § 11(A) .
+[^112]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^113]: Id., at pp. 3 -4.
+[^114]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^115]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^116]: In re: EasyTrip Services Corporation ,NPC BN 17 -028 & NPC BN 18 -180 ,Resolution dated 11
+[^117]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^118]: Id.
+[^119]: NPC Circular 16 -03, rule V, § 18(A) .
+[^120]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^121]: Id., also referred to as Annex “15.”
+[^122]: Id., also referred to as Annex “15,” at p. 1.
+[^123]: Id., also referred to as Annex “15,” at pp. 1 -2.
+[^124]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^125]: Id.
+[^126]: Id., also referred to as Annex “15,” at pp. 2 -3.
+[^127]: Id., also referred to as Annex “15,” at p. 3.
+[^128]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^129]: Id., at p. 4.
+[^130]: Id., also referred to as Annex “15.”
+[^2017]: -03, in Definition of Terms (31 July 2017) (NPC Advisory 2017 -03).
+[^1]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^2]: Id., at p.2.
+[^3]: Id.
+[^4]: Id. NPC BN 18 -140
+[^5]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^6]: Id., at p. 3.
+[^7]: Id.
+[^8]: Id., at p. 4.
+[^9]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^10]: Id., at pp. 3 -4.
+[^11]: Id., at p. 3.
+[^12]: Id., at pp. 4 -6.
+[^13]: NPC BN 18 -140 (unreported ), Order dated 19 October 2020 of the National Privacy
+[^14]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^15]: Id., at p. 3.
+[^16]: Id., at p. 7.
+[^17]: Id., referred to as Annexes “1” to “ 21 .”
+[^18]: NPC BN 18 -140 (unreported ), Order dated 14 June 2021 of the National Privacy Commission’s
+[^19]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc. NPC BN 18 -140
+[^20]: NPC BN 18 -140 (unreported ), Order dated 19 October 2020 of the National Privacy
+[^21]: Id.
+[^22]: Id.
+[^23]: Id.
+[^24]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -03, rule V,
+[^25]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^26]: Id.
+[^27]: Id., referred to as Annex “1.”
+[^28]: Id.
+[^29]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^30]: Id.
+[^31]: Id.
+[^32]: Id.
+[^33]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^34]: Id.
+[^35]: Id.
+[^36]: Id., referred to as Annex “2.”
+[^37]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^38]: Id., referred to as Annex “4.”
+[^39]: Id., referred to as Annex “2.”
+[^40]: Id.
+[^41]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^42]: Id.
+[^43]: Id.
+[^44]: Id., referred to as Annex “3.”
+[^45]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^46]: Id., referred to as Annex “4.”
+[^47]: Id.
+[^48]: Id., referred to as Annex “5.”
+[^49]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^50]: Id ., referred to as Annex “7.”
+[^51]: Id ., referred to as Annex “8.”
+[^52]: Id ., referred to as Annex “9.”
+[^53]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^54]: Id ., referred to as Annex “17.”
+[^55]: Id ., referred to as Annex “1 2.”
+[^56]: Id ., referred to as Annex “13.”
+[^57]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^58]: Id., at p. 6.
+[^59]: Id.
+[^60]: Id ., referred to as Annex “14.”
+[^61]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^62]: Id., at pp. 7 -8.
+[^63]: Id ., referred to Annex “16.”
+[^64]: Id ., referred to Annex “18.”
+[^65]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^66]: Id., referred to Annex “20.”
+[^67]: Id ., referred to Annex “21.”
+[^68]: NPC BN 18 -140 (unreported ), Order dated 19 October 2020 of the National Privacy
+[^69]: NPC BN 18 -140 (unreported ), Order dated 14 June 2021 of the National Privacy Commission’s
+[^70]: National Privacy Commission, Guidelines on Privacy Impact Assessments, NPC Advisory
+[^71]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^72]: Id., at pp. 31 -40.
+[^73]: Id., at pp. 41 -45.
+[^74]: Id., at pp. 46 -60.
+[^75]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^76]: Id ., referred to as Privacy Impact Assessment at pp. 1 -5.
+[^77]: Id.
+[^78]: Id.
+[^79]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^80]: Id.
+[^81]: Id.
+[^82]: Id., at pp. 11 -15.
+[^83]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^84]: Id., at pp. 11 -15.
+[^85]: Id., at pp. 16 -20.
+[^86]: Id.
+[^87]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^88]: Id., at pp. 21 -25.
+[^89]: Id.
+[^90]: Id., at pp. 26 -30.
+[^91]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^92]: Id.
+[^93]: Id., at pp. 31 -35 .
+[^94]: Id.
+[^95]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^96]: Id.
+[^97]: Id., at pp. 36 -40.
+[^98]: Id., at pp. 41 -45.
+[^99]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^100]: Id.
+[^101]: Id., at pp. 51 -55.
+[^102]: Id., at pp. 56 -60.
+[^103]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc.,
+[^104]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^105]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^106]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^107]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -03, rule V,
+[^108]: NPC Circular 16 -03, rule V, § 1 1.
+[^109]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^110]: An Act Protecting Individual Personal Information in Information and Communications
+[^111]: NPC Circular 16 -03, rule V, § 11(A) .
+[^112]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^113]: Id., at pp. 3 -4.
+[^114]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^115]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^116]: In re: EasyTrip Services Corporation ,NPC BN 17 -028 & NPC BN 18 -180 ,Resolution dated 11
+[^117]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications
+[^118]: Id.
+[^119]: NPC Circular 16 -03, rule V, § 18(A) .
+[^120]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^121]: Id., also referred to as Annex “15.”
+[^122]: Id., also referred to as Annex “15,” at p. 1.
+[^123]: Id., also referred to as Annex “15,” at pp. 1 -2.
+[^124]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^125]: Id.
+[^126]: Id., also referred to as Annex “15,” at pp. 2 -3.
+[^127]: Id., also referred to as Annex “15,” at p. 3.
+[^128]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope
+[^129]: Id., at p. 4.
+[^130]: Id., also referred to as Annex “15.”
+[^2017]: -03, in Definition of Terms (31 July 2017) (NPC Advisory 2017 -03).
+

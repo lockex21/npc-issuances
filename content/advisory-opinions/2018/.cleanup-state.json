@@ -1,26 +1,323 @@
 {
+  "advisory-opinion-no-2018-001-npc-advisory-opinion-no-2018-001.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T12:00:00Z"
+  },
+  "advisory-opinion-no-2018-049-npc-advisory-opinion-no-2018-049.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:52:07.334366Z"
+  },
+  "advisory-opinion-no-2018-010-npc-advisory-opinion-no-2018-010.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:44:36.749776Z"
+  },
+  "advisory-opinion-no-2018-011-npc-advisory-opinion-no-2018-011.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T08:25:56.611020Z"
+  },
+  "advisory-opinion-no-2018-012-npc-advisory-opinion-no-2018-012.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T08:25:56.611020Z"
+  },
+  "advisory-opinion-no-2018-026-npc-advisory-opinion-no-2018-026.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:45:26.392821Z"
+  },
+  "advisory-opinion-no-2018-027-npc-advisory-opinion-no-2018-027.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:45:26.392833Z"
+  },
+  "advisory-opinion-no-2018-028-npc-advisory-opinion-no-2018-028.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:45:26.392835Z"
+  },
+  "advisory-opinion-no-2018-029-npc-advisory-opinion-no-2018-029.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:45:26.392836Z"
+  },
+  "advisory-opinion-no-2018-030-npc-advisory-opinion-no-2018-030.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:45:26.392837Z"
+  },
+  "advisory-opinion-no-2018-031-npc-advisory-opinion-no-2018-031.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:45:26.392838Z"
+  },
+  "advisory-opinion-no-2018-005-npc-advisory-opinion-no-2018-005.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:45:29.191582Z"
+  },
+  "advisory-opinion-no-2018-006-npc-advisory-opinion-no-2018-006.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:45:29.191600Z"
+  },
+  "advisory-opinion-no-2018-007-npc-advisory-opinion-no-2018-007.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:45:29.191601Z"
+  },
+  "advisory-opinion-no-2018-008-npc-advisory-opinion-no-2018-008.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:45:29.191602Z"
+  },
+  "advisory-opinion-no-2018-009-npc-advisory-opinion-no-2018-009.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:45:29.191603Z"
+  },
+  "advisory-opinion-no-2018-002-npc-advisory-opinion-no-2018-002.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T12:15:00Z"
+  },
+  "advisory-opinion-no-2018-022-npc-advisory-opinion-no-2018-022.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:45:51.850151Z"
+  },
+  "advisory-opinion-no-2018-025-npc-advisory-opinion-no-2018-025.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:45:51.850164Z"
+  },
+  "advisory-opinion-no-2018-003-npc-advisory-opinion-no-2018-003.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T12:30:00Z"
+  },
+  "advisory-opinion-no-2018-004-npc-advisory-opinion-no-2018-004.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T12:45:00Z"
+  },
+  "advisory-opinion-no-2018-018-npc-advisory-opinion-no-2018-018.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T12:35:00Z"
+  },
+  "advisory-opinion-no-2018-019-npc-advisory-opinion-no-2018-019.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T12:40:00Z"
+  },
+  "advisory-opinion-no-2018-020-npc-advisory-opinion-no-2018-020.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T12:45:00Z"
+  },
+  "advisory-opinion-no-2018-021-npc-advisory-opinion-no-2018-021.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T12:50:00Z"
+  },
+  "advisory-opinion-no-2018-058-npc-advisory-opinion-no-2018-058.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:50:10.565646Z"
+  },
+  "advisory-opinion-no-2018-033-npc-advisory-opinion-no-2018-033.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:50:13.941606Z"
+  },
+  "advisory-opinion-no-2018-041-npc-advisory-opinion-no-2018-041.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:50:25.258845Z"
+  },
+  "advisory-opinion-no-2018-034-npc-advisory-opinion-no-2018-034.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:50:57.184630Z"
+  },
+  "advisory-opinion-no-2018-059-npc-advisory-opinion-no-2018-059.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:51:25.617851Z"
+  },
+  "advisory-opinion-no-2018-035-npc-advisory-opinion-no-2018-035.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:51:29.899450Z"
+  },
+  "advisory-opinion-no-2018-042-npc-advisory-opinion-no-2018-042.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:51:29.929564Z"
+  },
+  "advisory-opinion-no-2018-050-npc-advisory-opinion-no-2018-050.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T00:00:00Z"
+  },
+  "advisory-opinion-no-2018-051-npc-advisory-opinion-no-2018-051.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T08:25:56.611020Z"
+  },
+  "advisory-opinion-no-2018-052-npc-advisory-opinion-no-2018-052.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:52:07.334366Z"
+  },
+  "advisory-opinion-no-2018-053-npc-advisory-opinion-no-2018-053.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:52:07.334366Z"
+  },
+  "advisory-opinion-no-2018-054-npc-advisory-opinion-no-2018-054.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:52:07.334366Z"
+  },
+  "advisory-opinion-no-2018-056-npc-advisory-opinion-no-2018-056.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:52:07.334366Z"
+  },
+  "advisory-opinion-no-2018-057-npc-advisory-opinion-no-2018-057.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:52:07.334366Z"
+  },
+  "advisory-opinion-no-2018-060-npc-advisory-opinion-no-2018-060.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:52:09.319771Z"
+  },
+  "advisory-opinion-no-2018-036-npc-advisory-opinion-no-2018-036.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:52:16.168789Z"
+  },
+  "advisory-opinion-no-2018-043-npc-advisory-opinion-no-2018-043.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:52:28.712676Z"
+  },
+  "advisory-opinion-no-2018-061-npc-advisory-opinion-no-2018-061.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:52:53.206954Z"
+  },
+  "advisory-opinion-no-2018-037-npc-advisory-opinion-no-2018-037.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:53:00.002093Z"
+  },
+  "advisory-opinion-no-2018-038-npc-advisory-opinion-no-2018-038.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:53:37.093829Z"
+  },
+  "advisory-opinion-no-2018-062-npc-advisory-opinion-no-2018-062.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:53:42.573844Z"
+  },
+  "advisory-opinion-no-2018-039-npc-advisory-opinion-no-2018-039.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:54:15.359152Z"
+  },
+  "advisory-opinion-no-2018-063-npc-advisory-opinion-no-2018-063.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:54:34.033952Z"
+  },
+  "advisory-opinion-no-2018-044-npc-advisory-opinion-no-2018-044.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:54:36.980542Z"
+  },
+  "advisory-opinion-no-2018-064-npc-advisory-opinion-no-2018-064.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:55:21.258363Z"
+  },
+  "advisory-opinion-no-2018-045-npc-advisory-opinion-no-2018-045.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:56:18.602320Z"
+  },
+  "advisory-opinion-no-2018-046-npc-advisory-opinion-no-2018-046.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:56:18.602331Z"
+  },
+  "advisory-opinion-no-2018-047-npc-advisory-opinion-no-2018-047.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T08:25:56.611020Z"
+  },
+  "advisory-opinion-no-2018-066-npc-advisory-opinion-no-2018-066.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:56:19.689741Z"
+  },
+  "advisory-opinion-no-2018-067-npc-advisory-opinion-no-2018-067.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T07:59:46.366502Z"
+  },
+  "advisory-opinion-no-2018-069-npc-advisory-opinion-no-2018-069.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:00:39.100413Z"
+  },
+  "advisory-opinion-no-2018-078-npc-advisory-opinion-no-2018-078.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:00:51.515528+00:00"
+  },
+  "advisory-opinion-no-2018-070-npc-advisory-opinion-no-2018-070.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:01:31.358902Z"
+  },
+  "advisory-opinion-no-2018-080-npc-advisory-opinion-no-2018-080.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:02:17.722387+00:00"
+  },
+  "advisory-opinion-no-2018-071-npc-advisory-opinion-no-2018-071.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:02:27.664888Z"
+  },
+  "advisory-opinion-no-2018-072-npc-advisory-opinion-no-2018-072.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T08:25:56.611020Z"
+  },
+  "advisory-opinion-no-2018-075-npc-advisory-opinion-no-2018-075.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:03:04.206106Z"
+  },
+  "advisory-opinion-no-2018-076-npc-advisory-opinion-no-2018-076.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:03:04.206107Z"
+  },
+  "advisory-opinion-no-2018-077-npc-advisory-opinion-no-2018-077.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:03:04.206108Z"
+  },
+  "advisory-opinion-no-2018-081-npc-advisory-opinion-no-2018-081.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:03:28.328275+00:00"
+  },
+  "advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T08:44:12.604810Z",
+    "note": "Cleaned up corrupted header text, added ### Discussion heading, extracted ~12 inline footnote text blocks from body, consolidated footnotes in [^N]: format at end of file"
+  },
+  "advisory-opinion-no-2018-084-npc-advisory-opinion-no-2018-084.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:04:00.965035+00:00"
+  },
+  "advisory-opinion-no-2018-088-npc-advisory-opinion-no-2018-088.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:04:00.965038+00:00"
+  },
+  "advisory-opinion-no-2018-090-npc-advisory-opinion-no-2018-090.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:04:00.965040+00:00"
+  },
   "advisory-opinion-no-2018-014-redacted-advisory-opinion-no-2018-014-2.md": {
     "status": "done",
-    "timestamp": "2026-03-25T00:00:00Z"
+    "timestamp": "2026-03-25T16:00:00Z"
   },
-  "advisory-opinion-no-2018-014-redacted-advisory-opinion-no-2018-014-3.md": {
+  "advisory-opinion-no-2018-013-npc-advisory-opinion-no-2018-013.md": {
     "status": "done",
-    "timestamp": "2026-03-25T00:15:00Z"
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
+  },
+  "advisory-opinion-no-2018-015-npc-advisory-opinion-no-2018-015.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
+  },
+  "advisory-opinion-no-2018-016-npc-advisory-opinion-no-2018-016.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
+  },
+  "advisory-opinion-no-2018-017-npc-advisory-opinion-no-2018-017.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
+  },
+  "advisory-opinion-no-2018-024-npc-advisory-opinion-no-2018-024.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
+  },
+  "advisory-opinion-no-2018-032-npc-advisory-opinion-no-2018-032.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
+  },
+  "advisory-opinion-no-2018-040-npc-advisory-opinion-no-2018-040.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
   },
   "advisory-opinion-no-2018-068-v1-redacted-advisory-opinion-no-2018-068.md": {
     "status": "done",
-    "timestamp": "2026-03-25T06:52:00Z"
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
   },
   "advisory-opinion-no-2018-073-v1-redacted-advisory-opinion-no-2018-073.md": {
     "status": "done",
-    "timestamp": "2026-03-25T06:57:00Z"
-  },
-  "advisory-opinion-no-2018-014-redacted-advisory-opinion-no-2018-014.md": {
-    "status": "done",
-    "timestamp": "2026-03-24T22:50:16Z"
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
   },
   "advisory-opinion-no-2018-079-v1-redacted-advisory-opinion-no-2018-079.md": {
     "status": "done",
-    "timestamp": "2026-03-24T22:52:24Z"
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
   }
 }

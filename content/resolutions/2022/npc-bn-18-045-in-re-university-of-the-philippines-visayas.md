@@ -1,13 +1,21 @@
 ---
-title: "NPC BN 18-045: In re: University of the Philippines - Visayas"
-description: "5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: 5th Floor, Philippine International Convention Center, Vicente Sotto
+  Avenue, Pasay City, Metro Manila 130 7
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC BN 18-045: In re: University of the Philippines - Visayas'
+aliases:
+- NPC BN 18-045
+- npc bn 18-045
+date: '2022-11-10'
 ---
+
+
+
 
 ## Source
 - Reference: NPC BN 18-045
@@ -21,15 +29,13 @@ draft: false
 - Mandatory Breach Notification, Security Incident
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 IN RE: UNIVERSITY OF THE
 
 PHILIPPINES - VISAYAS
 
 x----------------------------------------------------x
 
-AGUIRRE , D. P.C.;
+AGUIRRE, D. P.C.;
 
 Before the Commission is the Compliance dated 2 9 December 202 0
 
@@ -39,11 +45,11 @@ Visayas) in fulfillment of the Commission’s directive in its Order
 
 dated 15 December 2020.
 
-Facts
+### Facts
 
 On 07 April 2018, UP Visayas submitted its Data Breach Incident
 
-Report dated 05 April 2018 , inform ing the Commission of a
+Report dated 05 April 2018, inform ing the Commission of a
 
 confidentiality breach where unauthorized individuals gain ed access
 
@@ -69,15 +75,11 @@ claimed that the data was not compromised since the “attempts to
 > NPC BN 18 -045 (NPC 2022).
 > 2Id.
 
-NPC BN 18 -045
-
 (Note: No “Case No” or
 
 “No”. Just NPC Case
 
 type (BN/SS) Year - #.) NPC BN 18 -045
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 query data on the database were blocked by the firewall.” 3 Further, it
 
@@ -85,7 +87,7 @@ alleged that the hackers were not allowed access to the personal data
 
 since the username was not allowed for that kind of operation. 4
 
-According to UP Visayas, only one account was compromised , and
+According to UP Visayas, only one account was compromised, and
 
 based on the assessment of its system developer and system and
 
@@ -142,25 +144,21 @@ passwords. 7
 > 7Data Breach Incident Report, 05 April 2018, at 2 in In re: University of the Philippines -Visayas,
 > NPC BN 18 -045 (NPC 2022).
 
-NPC BN 18 -045
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 On 25 October 2018, the Commission, through its Complaints and
 
 Investigations Division (CID) , sent a letter inviting UP Visayas to a
 
 meeting on 03 December 2018 to discuss the breach. 8
 
-On 19 December 2018, along with additional documents , UP Visayas
+On 19 December 2018, along with additional documents, UP Visayas
 
 submitted a copy of the notification it sent to the affected data
 
 subject, DJB . The notification informed DJB of the SQL injection
 
-attempts in UP Visayas’ RCWPPS , that her username and password
+attempts in UP Visayas’ RCWPPS, that her username and password
 
-were used to log into the system , and that “possible access to [her]
+were used to log into the system, and that “possible access to [her]
 
 name, address and research work titles were compromised.” 9
 
@@ -188,7 +186,7 @@ incident after the University has undertaken the security measures
 
 and breach management.” 14
 
-Issue
+### Issue
 
 Whether UP Visayas has complied with the directives of the
 
@@ -206,11 +204,7 @@ Commission in its 15 December 2020 Order.
 > 13 Id. at 2.
 > 14 Id.
 
-NPC BN 18 -045
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-Discussion
+### Discussion
 
 The Commission resolves to close the case considering that UP
 
@@ -218,7 +212,7 @@ Visayas has sufficiently complied with the Commission’s directive in
 
 its 15 December 2020 Order.
 
-In i ts Post -Breach Report dated 29 December 2020 , it sufficiently
+In i ts Post -Breach Report dated 29 December 2020, it sufficiently
 
 explained the nature of the incident and the circumstances regarding
 
@@ -272,10 +266,6 @@ data; and/or
 > 16 Id.
 > 17 Id. at 2.
 
-NPC BN 18 -045
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 3. A confidentiality breach resulting from the unauthorized
 
 disclosure of or access to personal data. 18
@@ -308,7 +298,7 @@ personal data were not permitted and blocked by the firewall because
 
 the username DJB was not allowed to perform those kinds of
 
-operations. 20 Therefore, other than the access of DJB username , no
+operations. 20 Therefore, other than the access of DJB username, no
 
 other personal data was involved in the security incident . Given that
 
@@ -318,7 +308,7 @@ unauthorized disclosure of, or access to, personal data in this case
 
 since access to personal data was not permitted through DJB
 
-username , it is not a personal data breach; rather, it is a security
+username, it is not a personal data breach; rather, it is a security
 
 incident.
 
@@ -341,10 +331,6 @@ incident up to this date. 21
 > 21 See Post -Breach Report, 29 December 2020, at 2 in In re: University of the Philippines -Visayas,
 > NPC BN 18 -045 (NPC 2022).
 
-NPC BN 18 -045
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 Thus, UP Visayas faithfully complied with the procedures under
 
 NPC Circular 16 -03 and successfully executed its obligations as a
@@ -359,23 +345,19 @@ WHEREFORE, premises considered, Commission resolves that NPC
 
 BN 18 -045 In re : University of the Philippines – Visayas is hereby
 
-CLOSED .
+**CLOSED** .
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines.
 
 10 November 2022 .
-
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 I CONCUR:
-
-Sgd.
 
 JOHN HENRY D. NAGA
 

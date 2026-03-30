@@ -1,13 +1,23 @@
 ---
-title: "08-09-2019: ODC vs. ODB & EA"
-description: "wields considerable power over a patient and even in schools where NPC Case no. 17 -001"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2019"
-  - "npc-case"
+aliases:
+- 08-09-2019
+- 08-09-2019
+date: '2024-01-01'
+description: wields considerable power over a patient and even in schools where NPC
+  Case no. 17 -001
 draft: false
+reference: 08-09-2019
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2019
+title: '08-09-2019: ODC vs. ODB & EA'
 ---
+
+
+
+
 
 ## Source
 - Reference: 08-09-2019
@@ -23,7 +33,7 @@ draft: false
 ## Resolution Text
 ODC ,
 
-Complainant, NPC Case No. 17 -001
+Complainant, NPC Case No. 17001
 
 For: Violation of Data
 
@@ -67,14 +77,11 @@ shopping as a prior complaint before the Bangko Sentral ng Pilipinas
 
 (BSP) has been lodged. Further, the complaint does not involve any
 
-> 1Records, p. 19. NPC Case no. 17 -001
+> 1Records, p. 19. NPC Case no. 17001
 > ODC vs ODBand AE
 > Page
 
 2 of 24
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 violation of the DPA as no data sharing to a third party took place
 
@@ -128,17 +135,17 @@ reversing the ruling that it violated the principle of transparency and
 
 its corresponding penalty. Respondent ODB argued that (1) the Civil
 
-Code allows for legal set -off or compensation for as long as the
+Code allows for legal setoff or compensation for as long as the
 
 elements under Article 1278 and 1279 are compl ied with and that the
 
-law does not require notification before set -off; (2) the logic behind
+law does not require notification before setoff; (2) the logic behind
 
-Article 1290 of the Civil Code as to the non -requirement of notice in
+Article 1290 of the Civil Code as to the nonrequirement of notice in
 
 case of legal compensation is due to the fact that a party may remove
 
-the money against which the set -off would be applied once notice is
+the money against which the setoff would be applied once notice is
 
 served; and (3) the ruling that it violated the principle of transparency
 
@@ -147,12 +154,9 @@ under the DPA run counter to the provisions of the Civil Code on legal
 > 2Decision dated December 4, 2017 at p.9; Penned by Privacy Commissioner Raymund E. Liboro with Deputy Privacy
 > Commissioner Ivy Patdu concurring.
 
-NPC Case no. 17 -001
+NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 compensation which is provided for in the Civil Code and not unde r
 
@@ -162,7 +166,7 @@ We find no merit in the arguments.
 
 While this Commission appreciates Respondent ODB ’s lengthy
 
-discussion on the provisions of the Civil Code on legal set -off or
+discussion on the provisions of the Civil Code on legal setoff or
 
 compensation, the same is irrelevant as this was not questioned by the
 
@@ -176,19 +180,19 @@ acknowledged the relationship between a bank and its depositor - that
 
 the bank and the data subject are debtors an d creditors of each other,
 
-and that a bank has the right to set -off the deposits in its hands for
+and that a bank has the right to setoff the deposits in its hands for
 
 payment of a depositor’s indebtedness. In other words, the
 
-Commission recognized ODB ’s right to set -off the debt of
+Commission recognized ODB ’s right to setoff the debt of
 
 Complainant from the latter’s savings acco unt.
 
-This Commission is likewise well -aware that the Civil Code
+This Commission is likewise wellaware that the Civil Code
 
 imposes no obligation on the part of the bank to notify their client prior
 
-to the actual legal compensation or set -off. When this Commission
+to the actual legal compensation or setoff. When this Commission
 
 ruled that Respondent ODB should have properly informed
 
@@ -196,7 +200,7 @@ Complainant of its ability and intention to set off its legal claim, this
 
 Commission did not mean Respondent ODB should have notified
 
-Complainant prior the actual set -off. Rather, it meant that the credit
+Complainant prior the actual setoff. Rather, it meant that the credit
 
 card terms and condi tions of Respondent ODB should have complied
 
@@ -216,12 +220,9 @@ of transparency, legitimate purpose and proportionality 4.
 > 4An Act Protecting Individual Personal Information in Information and Communications Systems i n the Government
 > and the Private Sector (Data Privacy Act of 2012) Chapter III Section 11.
 
-NPC Case no. 17 -001
+NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 Any processing of personal data should be lawful and fair. It
 
@@ -291,14 +292,12 @@ data subjects. Thus, it is not only a legal tool but an instrument for any
 
 business to be trusted in today’s personal data driven society.
 
-> 5Recital 39 of the European General Data Protection Regulation (GDPR) available at http://www.privacy -regulation.eu/en/recital -
-> 39 -GDPR.htm
+> 5Recital 39 of the European General Data Protection Regulation (GDPR) available at http://www.privacyregulation.eu/en/recital -
+> 39GDPR.htm
 > 6Fergal McGovern, The GDPR and Plain Language: What you need to do to comply, available at https://www.cmswire.com/digital -
-> experience/t he -gdpr -and -plain -language -what -you -need -to -do -to -comply/ , Octorber 18, 2017. NPC Case no. 17 -001
+> experience/t hegdprandplainlanguagewhatyouneedtodotocomply/ , Octorber 18, 2017. NPC Case no. 17001
 > ODC vs ODBand AE
 > Page 5of 24
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 The Data Privacy Act of 2012, which is based on globally adopted
 
@@ -340,7 +339,7 @@ processing is now set against a milieu that enunciates the rights to
 
 privacy and data protection. They must recognize that legal
 
-transparency is different from user -centric transparency. The former
+transparency is different from usercentric transparency. The former
 
 may be understanda ble to legal professionals and appreciated by the
 
@@ -376,12 +375,9 @@ needs of an individual. This situatio n presents itself in other contexts
 
 such as in the health sector where a hospital or a health professional
 
-wields considerable power over a patient and even in schools where NPC Case no. 17 -001
+wields considerable power over a patient and even in schools where NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 administrators and teachers exercise a significant degree of control
 
@@ -391,15 +387,15 @@ Incidentally, these industries and sectors have been identified by
 
 the Commission to belong to a set of personal information controllers
 
-and processor that practice larger -scale and a higher -risk type of
+and processor that practice largerscale and a higherrisk type of
 
 processing compared to other PICs and PIPs. They are all contained in
 
-Appendix 1 of NPC Circular 17 -01 on the Registration of Data
+Appendix 1 of NPC Circular 1701 on the Registration of Data
 
 Processing Systems and Notification Regarding Automated Decision -
 
-Making 7. A bank and a credit card -issuer like Respondent ODB
+Making 7. A bank and a credit cardissuer like Respondent ODB
 
 belongs to one of these sectors. Since it pr actices a higher –risk type of
 
@@ -453,16 +449,12 @@ to implement. W e find amending contracts, privacy notices, and terms
 
 and conditions elementary practices that should not take
 
-> 7National Privacy Circular 17 -01 Registration of Data Processing and Notifications regarding Automated Decision Making (NPC
-> Circular 17 -01 -registration) 31 July 2017 available at https://www.privacy.gov.ph/npc -circular -17 -01 -registration -data -processing -
-> notifications -regarding -automated -decision -making/ NPC Case no. 17 -001
+> 7National Privacy Circular 1701 Registration of Data Processing and Notifications regarding Automated Decision Making (NPC
+> notificationsregardingautomateddecisionmaking/ NPC Case no. 17001
 > ODC vs ODBand AE
 > Page
 
 7 of 24
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 disproportionate efforts to implement. We note that Respondent ODB
 
@@ -534,12 +526,9 @@ any outstanding obligation of CARDMEMER;
 
 c.) Any Funds of the CARDMEMBER that may now or later be in
 
-the hands of the ISSUER or any of its Related Companies will be NPC Case no. 17 -001
+the hands of the ISSUER or any of its Related Companies will be NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 applied and set off against any amounts due and p ayable on the
 
@@ -605,7 +594,7 @@ herein granted, CARDMEMBER hereby unconditionally or
 
 irrevocably names and constitutes ISSUE R and/or its Related
 
-Companies to be his/her true and lawful attorney -in -fact, with full
+Companies to be his/her true and lawful attorneyinfact, with full
 
 power of substitution, to do or cause to be done any and all acts that
 
@@ -618,12 +607,9 @@ fair market value for real or personal properties, respectively,
 > 8Terms and Conditions for issuance and use of the AE Credit Cards available at https://www.odb.com.ph/sites/default/files/pdf/A E-
 > TCS.pdf / October 2013
 
-NPC Case no. 17 -001
+NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 without the need for any further notice, demand or deed, and to
 
@@ -702,24 +688,21 @@ partial reconsideration, it could have simply submitted the terms and
 conditions signed by Complainant.
 
 > 9Ter ms and Conditions for issuance and use of the AE Credit Cards available at https://www. odb .com.ph/sites/default/files/pdf/A E-
-> TCS.pdf / March 2019 NPC Case no. 17 -001
+> TCS.pdf / March 2019 NPC Case no. 17001
 > ODC vs ODBand AE
 > Page
 
 10 of 24
 
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
 Nevertheless, this Commission finds this an appropriate
 
-response by Respondent -ODB to make its Terms and Conditions more
+response by RespondentODB to make its Terms and Conditions more
 
 understandable to the subject and we expect the business to benefit
 
 from this action. This simple step that could be complemented by
 
-other accountability measures to be taken by Respondent -ODB , could
+other accountability measures to be taken by RespondentODB , could
 
 help mitigate potential tension between them as data controller and
 
@@ -727,7 +710,7 @@ the d ata subjects like the complainant, in the future. This was a
 
 response that proves better allocation of time, effort and resources by
 
-Respondent -ODB to address age -old transparency matters with
+RespondentODB to address ageold transparency matters with
 
 fairness to the data subject in mind.
 
@@ -767,20 +750,13 @@ Pasay City, Philippines.
 
 9 August 2019
 
-(Sgd.)
-
 RAYMUND ENRIQUEZ LIBORO
 
-Privacy Commissioner NPC Case no. 17 -001
+Privacy Commissioner NPC Case no. 17001
 
 ODC vs ODB and AE
 
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
 CONCUR:
-
-(Sgd.)
 
 IVY D. PATDU
 
@@ -828,7 +804,7 @@ finding that it violated the principle of transparency. As summarized
 
 by the majority in their Resolution:
 
-[R]espondent ODB argued that (1) the Civil Code allows for legal set -off or
+[R]espondent ODB argued that (1) the Civil Code allows for legal setoff or
 
 compensation for as long as the elements under Article 1278 and 1279 are
 
@@ -842,24 +818,21 @@ Privacy Commission, And For Other Purposes.”
 
 > 11
 
-ODC v. ODB and AE , NPC Case No. 17 -001, 04 December 2017.
+ODC v. ODB and AE , NPC Case No. 17001, 04 December 2017.
 
 > 12
 
-Ibid., at p. 9. NPC Case no. 17 -001
+Ibid., at p. 9. NPC Case no. 17001
 
 ODC vs ODB and AE
 
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
+complied with and that the law does not require notification before setoff; (2)
 
-complied with and that the law does not require notification before set -off; (2)
-
-the logic behind Article 1 290 of the Civil Code as to the non -requirement of
+the logic behind Article 1 290 of the Civil Code as to the nonrequirement of
 
 notice in case of legal compensation is due to the fact that a party may remove
 
-the money against which the set -off would be applied once notice is served; and
+the money against which the setoff would be applied once notice is served; and
 
 (3) the ruling that it violated the principle of transparency under the DPA run
 
@@ -869,7 +842,7 @@ provided for in the Civil Code and not under the DPA. 13
 
 In denying ODB ’s Motion for Partial Reconsideration, the majority
 
-dismissed ODB ’s discuss ion on the civil law concept of legal set -off or
+dismissed ODB ’s discuss ion on the civil law concept of legal setoff or
 
 compensation saying that “the same is irrelevant as this was not
 
@@ -887,7 +860,7 @@ informed Complainant of its ability and intention to set off its legal claim,
 
 this Commission did not mean Respondent ODB should have notified
 
-Complainant prior [sic] the actual set -off. Rather, it meant that the credit card
+Complainant prior [sic] the actual setoff. Rather, it meant that the credit card
 
 terms and conditions of Respondent ODB should have complied with the
 
@@ -923,7 +896,7 @@ Businesses and their lawyers must realize that personal data processing is now
 
 set against a milieu that enunciates the rights to priv acy and data protection.
 
-They must recognize that legal transparency is different from user -centric
+They must recognize that legal transparency is different from usercentric
 
 transparency. The former may be understandable to legal professionals and
 
@@ -931,7 +904,7 @@ appreciated by the legal community while the latter should be understandable
 
 > 13
 
-Resolution, NPC Case No. 17 -001, pp. 2 -3.
+Resolution, NPC Case No. 17001, pp. 23.
 
 > 14
 
@@ -939,12 +912,9 @@ Ibid., at p. 3.
 
 > 15
 
-Id. NPC Case no. 17 -001
+Id. NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 to th e data subject and satisfy their desire to understand how their personal
 
@@ -970,13 +940,13 @@ applied it to this case, however, I respec tfully dissent.
 
 In saying that respondent ODB ’s discussion on the civil law concept of
 
-legal set -off is irrelevant, the majority overlooks the significance of
+legal setoff is irrelevant, the majority overlooks the significance of
 
 respondent ODB ’s arguments. First, it bears stressing that the
 
 Commission is not tasked with and has no authority to examine the
 
-propriety of the legal set -off and determine whether respondent ODB
+propriety of the legal setoff and determine whether respondent ODB
 
 violated the Civil Code. That is a matter for the regular courts to
 
@@ -988,7 +958,7 @@ the clear implication of this Commission’s Decision stating that
 
 ability and intention to set off its legal claim,” 18 seeks to show that the
 
-matter of the legal set -off is governed by a specific provision of law
+matter of the legal setoff is governed by a specific provision of law
 
 and, as such, its validity cannot be attacked collaterally using the Data
 
@@ -996,7 +966,7 @@ Privacy Act.
 
 In their Motion for Partial Reconsideration, respondent ODB argues:
 
-To allow the data subject/complainant to question the set -off provision, to
+To allow the data subject/complainant to question the setoff provision, to
 
 which he gave his consent, when he accepted his ODB AMEX Card (see A nnex
 
@@ -1004,9 +974,9 @@ which he gave his consent, when he accepted his ODB AMEX Card (see A nnex
 
 Data Privacy Act, runs counter to the provisions of the Civil Code on legal
 
-compensation / set -off and the elements required to effect said legal
+compensation / setoff and the elements required to effect said legal
 
-compensation / set -off. It must be noted that the matter of set -off /
+compensation / setoff. It must be noted that the matter of setoff /
 
 compensation is governed by a different law, i.e. the Civil Code of the
 
@@ -1017,14 +987,11 @@ Philippines, and not the Data Privacy Act. 19
 > 18 Ibid., at p. 9. Emphasis supplied.
 > 19 Motion for Partial Reconsideration dated 19 December 2017, p. 6.
 
-NPC Case no. 17 -001
+NPC Case no. 17001
 
 ODC vs ODB and AE
 
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
-In disregarding the Civil Code provisions on legal set -off and insisting
+In disregarding the Civil Code provisions on legal setoff and insisting
 
 that the DPA is an overarching law the provisions of which supersedes
 
@@ -1072,7 +1039,7 @@ AE and ODB are different entities, and that the sharing of his deposit
 
 information is a violation of said law. He only claimed that he did not sign any
 
-agreement to debit his account or to auto -debit his account. 21
+agreement to debit his account or to autodebit his account. 21
 
 In its Decision dated 04 December 2017, the Commission already ruled
 
@@ -1088,14 +1055,11 @@ informati on was not shared with any affiliate or subsidiary of ODB
 
 > 20 Complainant’s email complaint to the National Privacy Commission dated 26 January 2017.
 > 21 Motion for Partial Reconsideration dated 19 December 2017, pp. 5 –6.
-> 22 Decision, NPC Case No. 17 -001, 04 December 2017, p. 8.
+> 22 Decision, NPC Case No. 17001, 04 December 2017, p. 8.
 
-NPC Case no. 17 -001
+NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 [and as such] there is no need to further discuss consent of the data
 
@@ -1115,7 +1079,7 @@ gave it a stern warning.
 
 In discussing the substantial evidence requirement for administrative
 
-agencies in the exercise of their quasi -judicial powers, the Supreme
+agencies in the exercise of their quasijudicial powers, the Supreme
 
 Court has repeatedly held that “ complainants bear the burden of
 
@@ -1137,7 +1101,7 @@ Aside from the complainant’s bare assertion that he “d id not sign any
 
 authority for AE to debit my ODB account [and that he] did not enroll
 
-said ODB account to any auto -debit facility,” 25 there is nothing else on
+said ODB account to any autodebit facility,” 25 there is nothing else on
 
 record to support the majority’s finding that ODB violated the
 
@@ -1153,16 +1117,13 @@ in favor of the respondent.
 
 > 23 Ibid., at p. 9.
 > 24 Re: Letter ofLucena Ofendo Reyes Alleging Illicit Activities Of A Certain Atty. Cajayon
-> Involving Cases In The Court Of Appeals, Cagayan De Oro City, A.M. No. 16 -12 -03 -CA, 06 June
+> Involving Cases In The Court Of Appeals, Cagayan De Oro City, A.M. No. 161203CA, 06 June
 > 2017.
 > 25 ODC Affidavit dated 03 February 2017.
 
-NPC Case no. 17 -001
+NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 To allow, as the majority d oes in this case, the mere claim of a data
 
@@ -1230,12 +1191,9 @@ Transparency (“Guidelines”):
 
 > 26 IRR, Sec. 18.
 
-NPC Case no. 17 -001
+NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 The requi rement for clear and plain language means that information should
 
@@ -1323,12 +1281,9 @@ States and the European Data Protection Supervisor, is an independent body with 
 
 personality responsible for ensuring the consistent application of the General Data Protection
 
-Regulation. NPC Case no. 17 -001
+Regulation. NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 8. The requiremen t that the provision of information to, and communication
 
@@ -1338,7 +1293,7 @@ data controllers should present the information/ communication efficiently
 
 and succinctly in order to avoid information f atigue. This information should
 
-be clearly differentiated from other non -privacy related information such as
+be clearly differentiated from other nonprivacy related information such as
 
 contractual provisions or general terms of use …
 
@@ -1386,7 +1341,7 @@ membership agreement. 33 Such terms and conditions constitute the
 
 law between the parties. 34
 
-To determine the content of the privacy -relat ed information that
+To determine the content of the privacyrelat ed information that
 
 should be provided to data subjects, we look at the prescribed
 
@@ -1406,15 +1361,12 @@ Pantaleon v. American Express International, Inc (2010). GR No. 174269 .
 
 > 34
 
-BPI Express Card Corporation v. Armovit (2014). GR No. 163654. NPC Case no. 17 -001
+BPI Express Card Corporation v. Armovit (2014). GR No. 163654. NPC Case no. 17001
 
 > ODC vs ODBand AE
 > Page
 
 19 of 24
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 (1) whether personal information pertaining to him shall be, are
 
@@ -1448,7 +1400,7 @@ as the right to lodge a complaint before the Commission. 35
 
 Following the abovementioned Guidelines on Transparency, the
 
-required information should be distinguished, from other non -privacy
+required information should be distinguished, from other nonprivacy
 
 related information such as contractual provisions or general terms of
 
@@ -1456,7 +1408,7 @@ use. 36 Notably, the list of required information under Section 16 of the
 
 DPA does not include legal remedies provided under existing laws,
 
-such as the right to set -off under the law on obligations and contracts
+such as the right to setoff under the law on obligations and contracts
 
 in the Civil Code that is subject of the present case. As such, the subject
 
@@ -1477,12 +1429,9 @@ simplification on the supposed reliance on the transparency principle.
 > April 2018, available at https://ec.europa.eu/newsroom/article29/item -
 > detail.cfm?item_id=622227 .
 
-NPC Case no. 17 -001
+NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 ii. What is the required manner of
 
@@ -1524,7 +1473,7 @@ level should be understood by a common person.” 37
 
 While the majority’s statements in its Resolution are not incorrect, they
 
-fail to consider that the principle of transparency is context -specific.
+fail to consider that the principle of transparency is contextspecific.
 
 Simply stating “common person” is not enough because the “common
 
@@ -1542,19 +1491,16 @@ understanding than a controller that obtains the personal data of
 
 children.” 38
 
-> 37 Resolution, NPC Case No. 17 -001, p. 4, citing Fergal McGovern, The GDPR and Plain Language:
-> What you need to do to comply, available at https://www.cmswire.com/digital -experience/the -
-> gdpr -and -plain -language -what -you -need -to -do -to -comply/.
+> 37 Resolution, NPC Case No. 17001, p. 4, citing Fergal McGovern, The GDPR and Plain Language:
+> What you need to do to comply, available at https://www.cmswire.com/digitalexperience/the -
+> gdprandplainlanguagewhatyouneedtodotocomply/.
 > 38 Guidelines on Transparency under Regulation 2016/679 of the Article 29 Working Party, 11
 > April 2018, available at https://ec.europa.eu/newsroom/article29/item -
 > detail.cfm?item_id=622227 . Emphasis s upplied.
 
-NPC Case no. 17 -001
+NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 The 2013 version of the AE Terms and Conditions provide:
 
@@ -1618,19 +1564,16 @@ cardholder of AE Platinum since 2005 and a depositor of ODB since
 
 2014. 40 From t he website of AE , it can be seen that complainant’s AE
 
-card is the highest tier non -dollar charge credit card offered by AE and
+card is the highest tier nondollar charge credit card offered by AE and
 
 requires a minimum annual income of Php 1,800,000.00 in order to
 
 > 39 Respondent ODB ’s Comment dated 05 April 2017, Annex “8”. Emphasis supplied.
 > 40 Complainant’s email complaint to the National Privacy Commission dated 26 January 2017.
 
-NPC Case no. 17 -001
+NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 qualify. 41 It is reasonable to expect that average member of the
 
@@ -1710,18 +1653,15 @@ authorized by the CARDMEMBER to set
 
 off as full or partial payment, and/or
 
-> 41 See https://www.americanexpress.com/ph/network/product -landing/membership -
+> 41 See https://www.americanexpress.com/ph/network/productlanding/membership -
 > rewards.html.
 > 42 Terms and Conditions for issuance and use of the AE Credit Cards available at
-> https://www. odb .com/ph/sites/default/files/pdf/ AE -TCS.pdf/March2019
-> 43 Resol ution, NPC Case No. 17 -001, p. 9.
+> https://www. odb .com/ph/sites/default/files/pdf/ AETCS.pdf/March2019
+> 43 Resol ution, NPC Case No. 17001, p. 9.
 
-NPC Case no. 17 -001
+NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 Related Companies or both, on deposit
 
@@ -1843,7 +1783,7 @@ names and constitu tes ISSUER and/or its
 
 Related Companies to be his/her true and
 
-lawful attorney -in -fact xxx For the
+lawful attorneyinfact xxx For the
 
 foregoing purposes, the CARDMEMBER
 
@@ -1867,12 +1807,9 @@ placements, investments and similar or
 
 > 44 Respondent B ODB ’s Comment dated 05 April 2017, Annex “8”. Emphasis supplied.
 
-NPC Case no. 17 -001
+NPC Case no. 17001
 
 ODC vs ODB and AE
-
-> 5th Floor East Banquet Hall (Ang Kiukok Hall), Delegation Building, PICC Complex, Pasay City.
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 related assets in the custody of the ISSUER
 
@@ -1890,7 +1827,7 @@ the important points except that subsections (b) and (c) in the 2013
 
 version have now been merged into subsection (b) in the 2019 version.
 
-The terms “debit,” “apply,” “set -off,” and other legal terms are s till
+The terms “debit,” “apply,” “setoff,” and other legal terms are s till
 
 used such that it can hardly be said that the 2019 version has already
 

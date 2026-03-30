@@ -1,12 +1,21 @@
 ---
-title: "NPC BN 18-006: In Re: Business World Inc."
-description: "Business World Inc. submitted a full breach report disclosing a SQL injection attack exposing employee and subscriber data; the Commission found the company sufficiently notified affected individuals and implemented adequate remedial measures, and closed the case."
+title: 'NPC BN 18-006: In Re: Business World Inc.'
+description: Business World Inc. submitted a full breach report disclosing a SQL injection
+  attack exposing employee and subscriber data; the Commission found the company sufficiently
+  notified affected individuals and implemented adequate remedial measures, and closed
+  the case.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2022
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-006"'
+- '"npc bn 18-006"'
+- '"In Re: Business World Inc."'
+- '"in re: business world inc."'
+date: '2022-11-10'
 ---
 
 ## Source

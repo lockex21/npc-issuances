@@ -1,11 +1,17 @@
 ---
-title: "NPC SS 21-005: In Re: Oriente Express Techsystem Corporations (CASHALO) and its Responsible Officers"
-description: "See National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission,"
+title: "NPC SS 21-005: In Re: Oriente Express Techsystem Corporation (CASHALO) and Its Responsible Officers"
+description: "Sua sponte investigation into unauthorized processing of personal data by online lending application; complaint dismissed for lack of substantial evidence."
+aliases:
+  - "NPC SS 21-005"
+  - "npc ss 21-005"
+  - "Oriente Express Techsystem Corporation (CASHALO)"
+  - "oriente express techsystem corporation (cashalo)"
 tags:
-  - "decision"
-  - "type/decision"
-  - "year/2022"
-  - "npc-case"
+  - decision
+  - type/decision
+  - year/2021
+  - npc-case
+date: "2022-06-16"
 draft: false
 ---
 
@@ -21,171 +27,46 @@ draft: false
 - Failure to substantiate allegations, transparency, legitimate purpose, proportionality, Unauthorized processing of personal information and sensitive personal information, Guidelines on the processing of personal data for loan-related transactions
 
 ## Decision Text
-Republic of the Phi lippines
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+IN RE: ORIENTE EXPRESS TECHSYSTEM CORPORATION (CASHALO) AND ITS RESPONSIBLE OFFICERS,
 
-IN RE : ORIENTE EXPRESS TECHSYSTEM
-
-CORPORATION (CASHALO)
-
-AND ITS RESPONSIBLE OFFICERS
+Respondent.
 
 x----------------------------------------------------x
 
-NAGA , P.C.;
+NAGA, P.C.;
 
-Before this Commission is the Fact -Finding Report (FFR) with
+Before this Commission is the Fact-Finding Report (FFR) with Application for the Issuance of a Temporary Ban on processing of personal data filed by the Complaints and Investigation Division (CID) of the National Privacy Commission (NPC) dated 09 June 2021, which serves as its Complaint (Complaint) pursuant to the NPC’s power to conduct a sua sponte investigation.[^1] The Complaint alleged violations of Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA), by Oriente Express Techsystem Corporation (OETC) which operates the Cashalo online lending application (Cashalo).
 
-Application for the Issuance of a Temporary Ba n on processing of
+### Facts
 
-personal data filed by the Complaints and Investigation Division
-
-(CID) of the National Privacy Commission (NPC) dated 09 June 2021,
-
-which serves as its Complaint (Complaint) pursuant to the NPC’s
-
-power to conduct a sua sponte investigation. 1 The Complaint alleged
-
-violations of Republic Act No. 10173, or the Data Privacy Act of 2012
-
-(DPA) , by Oriente Express Techsystem Corporation (OETC) which
-
-operates the Cashalo online lending application (Cashalo) .
-
-Facts
-
-On 09 June 2021 , the CID submitted its FFR with Application for the
-
-Issuance of a Temporary Ban against OETC. The CID alleged that
-
-OETC violated Sections 11, 16, and 25 of the DPA and Section 3(D)(4)
-
-of NPC Circular No. 20 -01 (Guidelines on the Processing of Personal
-
-Data for Loan -related Transactions). 2
+On 09 June 2021, the CID submitted its FFR with Application for the Issuance of a Temporary Ban against OETC. The CID alleged that OETC violated Sections 11, 16, and 25 of the DPA and Section 3(D)(4) of NPC Circular No. 20-01 (Guidelines on the Processing of Personal Data for Loan-related Transactions).[^2]
 
 The CID, in its Complaint, alleged the following:
 
-> 1
+Cashalo is a loan-related application available at the Google Play Store, with SEC Registration No. CSC201800209 and Certificate of Authority No. 1162. All loans under the Cashalo Platform are financed by Paloo Financing Inc.
 
-See National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission,
-
-NPC Circular No. 2021 -01, rule I, § 4(p); rule X, §§ 4 -5 (28 January 2021) (2021 NPC Rules of
-
-Procedure).
-
-> 2
-
-Fact -Finding Report (with Application for Issuance of Temporary Ban on the Processing of
-
-Personal Data ) dated 09 June 2021 of the Complaints and Investigation Division, at p. 18 . (Fact -
-
-Finding Report)
-
-NPC SS 21 -005
-
-For: Violation of the
-
-Data Privacy Act of
-
-2012 NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-Cashalo is a loan -related application available at the Google
-
-Play Store, with SEC Registration No. CSC201800209 and
-
-Certificate of Authority No. 1162. All loans under the Cashalo
-
-Platform are financed by Paloo Financing Inc.
-
-On 14 May 2021, the CID simulated th e app installation and
-
-registration process for loan application with the Cashalo App.
+On 14 May 2021, the CID simulated the app installation and registration process for loan application with the Cashalo App.
 
 xxx
 
-Upon installation, a consent screen on the application appeared
+Upon installation, a consent screen on the application appeared requiring access to Phone, Messaging, Contacts, Location, and external data from other applications. When the downloaded application was opened, a notification asking access to the contacts appeared. The CID tried to decline the asked permission, but the application asked again for the permission to access the contacts.
 
-requiring access to Phone, Messaging, Contacts, Location, and
+In providing character references, there was no separate interface in the App. There was no manual way of entering a phone number and that it must be through giving access to the contacts list. The loan application will not proceed to the next step without the character reference’s phone number.
 
-external data from other applications . When the downloaded
+The CID noticed that the Cashalo application utilized the Cordova plugin to fetch the contact information on the test device.[^3] (citations omitted)
 
-application was opened, a notification asking access to the
+In the CID’s Technical Report dated 14 May 2021, it further alleged:
 
-contacts appeared. The CID tried to decline the asked
+> 10. As part of Android’s programming capability, the Android SDK provides coding for Contacts retrieval wherein an application will have the ability to collect data from contacts. That being said, Android supports user privacy through App permissions. The user has control over the data that they share with apps, the user understands what data an app uses, and why the app accesses this data and an app accesses and uses only the data that’s required for a specific task or action that the user invokes.[^4]
 
-permission, but the application asked again for the permission
-
-to access the contacts.
-
-In providing character reference s, there was no separate
-
-interface in the App. There was no manual way of entering a
-
-phone number and that it must be through giving access to the
-
-contacts list. The loan application will not proceed to the next
-
-step without the character reference’s phone number.
-
-The CID noticed that the Cashalo application utilized the
-
-Cordova plugin to fetch the contact information on the test
-
-device. 3 (citations omitted )
-
-In the CID’s Technical Report dated 14 May 2021 , it further alleged:
-
-10. As part of Android's programming capability , the Android
-
-SDK provides coding for Contacts retrieval wherein an
-
-application will have the ability to collect data from contacts.
-
-That being said, Android supports user privacy through App
-
-permissions. The user has control over the data that they share
-
-with apps, the user understands what data an app uses, and
-
-why the app accesses this data and an app accesses and uses
-
-only the data that's required for a specific task or action that the
-
-user invokes. 4
-
-> 3
-
-Id., at pp. 1 -2.
-
-> 4
-
-Technical Report dated 14 May 2021 of the Complaints and Investigation Division, ¶ 10. The
-
-Technical Report is cited in the Fact -Finding Report. NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
-
-In i ts Complaint , the CID stated that OETC failed to adhere to the
-
-requirements of the DPA , specifically Section 11 which deals with the
-
-General Data Privacy Principles (transparency, legitimate purpose,
-
-proportionality) .5
+In its Complaint, the CID stated that OETC failed to adhere to the requirements of the DPA, specifically Section 11 which deals with the General Data Privacy Principles (transparency, legitimate purpose, proportionality).[^5]
 
 For the principle of transparency, the CID explained that this is
 
 related to the data subject’s right to information under Section 16 of
 
-the DPA. 6 The CID claimed that OETC failed to uphold the pri nciple
+the DPA. 6 The CID claimed that OETC failed to uphold the principle
 
 of transparency since it “failed to provide the purpose for the storage
 
@@ -199,11 +80,11 @@ In terms of the legitimate purpose principle , the CID argued that it is
 
 upheld when one of the criteria for lawful processing , as provided in
 
-Sections 12 a nd 13 of the DPA , is met .8 According to the CID , OETC
+Sections 12 and 13 of the DPA , is met .8 According to the CID , OETC
 
 does not have a legitimate purpose in processing personal
 
-information of its users since it was done without valid consen t. 9 The
+information of its users since it was done without valid consent. 9 The
 
 CID stated that in Cashalo’s Privacy Policy, the data subjects have no
 
@@ -217,7 +98,7 @@ OETC is “misleading and inherently unfair.” 11
 
 The CID argued that Cashalo can access and store the personal
 
-information of the data su bjects including their phone contacts,
+information of the data subjects including their phone contacts,
 
 which is not relevant to the purpose of a loan transaction. 12
 
@@ -227,20 +108,14 @@ consent or authority under the DPA and other existing laws, to
 
 process and store the phone contacts of the borrowers. As such it
 
-> 5Fact -Finding Report of the Complaints and Investigation Division ,pp. 8 -15 .
-> 6Id., at pp. 9 -10.
+> 5Fact-Finding Report of the Complaints and Investigation Division ,pp. 8-15 .
+> 6Id., at pp. 9-10.
 > 7Id. ,at p.10.
 > 8Id. ,at p. 11.
-> 9Fact -Finding Report of the Complaints and Investigation Division ,at p. 12.
+> 9Fact-Finding Report of the Complaints and Investigation Division ,at p. 12.
 > 10 Id. ,at p. 12.
 > 11 Id.
 > 12 Id. ,at p. 13.
-
-NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 should be deemed to be unauthorized and in violation of Section 25
 
@@ -248,11 +123,11 @@ of the DPA. ”13
 
 The CID alleged that in terms of proportionality, OETC failed to
 
-clearly indicate in Cashalo’s Privacy Notice the purpose and ext ent of
+clearly indicate in Cashalo’s Privacy Notice the purpose and extent of
 
 accessing the personal information of its clients, including their
 
-phone contacts. 14 The CID also refer red to the portion of Cashalo’s
+phone contacts. 14 The CID also referred to the portion of Cashalo’s
 
 Privacy Notice which states that OETC , with its subsidiaries and
 
@@ -264,9 +139,9 @@ collection, outsourcing of collections to third parties, remedial
 
 measure for collection (i.e. referral to agents and lawyers for
 
-coll ection) .”15 Further, in the Privacy Notice’s “Use/Purpose of
+collection) .”15 Further, in the Privacy Notice’s “Use/Purpose of
 
-Personal Data” , the CID cite d that one of Cashalo’s enumerated
+Personal Data” , the CID cited that one of Cashalo’s enumerated
 
 use/purpose is “to facilitate loan processing from application,
 
@@ -274,7 +149,7 @@ review, monitoring, payment, collection and other remedial
 
 measures. ”16
 
-The CID conclude d that OETC “ intends to process any and all
+The CID concluded that OETC “ intends to process any and all
 
 information about the data subject, including phone contacts, for
 
@@ -284,7 +159,7 @@ Accordingly, the CID alleged that the processing of the data subject’s
 
 information for debt collection violated Section 3(D)(4) of the NPC
 
-Circular No. 20 -01 .18 It faulted OETC for having a  Privacy Policy that
+Circular No. 20-01 .18 It faulted OETC for having a  Privacy Policy that
 
 was vague and ambiguous since it declared that any and all
 
@@ -292,26 +167,20 @@ information of the data subject may be used for purposes , which
 
 included debt collection. 19 The CID stated that the consent given by
 
-Cashalo’s user s cannot be considered free, voluntary, and informed
+Cashalo’s users cannot be considered free, voluntary, and informed
 
-because data subject s have no choice but to allow access to its phone
+because data subjects have no choice but to allow access to its phone
 
 contact list to avail of OETC’s loan service .20
 
-> 13 Fact -Finding Report of the Complaints and Investigation Division ,at p. 14.
+> 13 Fact-Finding Report of the Complaints and Investigation Division ,at p. 14.
 > 14 Id .
 > 15 Id., at p.14. See Supplemental Report dated 31 May 2021, Annex “A”.
 > 16 Id.
-> 17 Fact -Finding Report of the Complaints and Investigation Division ,at p. 14 .
+> 17 Fact-Finding Report of the Complaints and Investigation Division ,at p. 14 .
 > 18 Id .
 > 19 Id., at p. 15 .
 > 20 Id .
-
-NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 The CID further argued that OETC is liable for Section 25 of the DPA
 
@@ -331,7 +200,7 @@ were left with no choice but to allow permissions, whose
 
 purposes were vaguely provided in its Privacy Policy, in order
 
-to use the application an d apply for a loan. 22
+to use the application and apply for a loan. 22
 
 OETC’s Board of Directors (BOD) were the responsible officers liable
 
@@ -351,9 +220,9 @@ stated that the re was substantial evidence to warrant the temporary
 
 ban’s issuance given that “[OETC’s] processing of personal data
 
-[was] without adherence to the Data Privacy Princip les enshrined in
+[was] without adherence to the Data Privacy Principles enshrined in
 
-the DPA ”, and since it was violative of NPC Circular 20 -01, Section 3
+the DPA ”, and since it was violative of NPC Circular 20-01, Section 3
 
 (D)(4) since “there [was] sufficient information to support that
 
@@ -369,19 +238,13 @@ protection of the data subjects’ rights. 26 The CID concluded that all of
 
 the grounds for the issuance of a temporary ban were present. 27
 
-> 21 Fact -Finding Report of the Complaints and Investigation Division ,at p. 16 .
+> 21 Fact-Finding Report of the Complaints and Investigation Division ,at p. 16 .
 > 22 Id.
 > 23 Id., at p. 17.
 > 24 Id.
-> 25 Fact -Finding Report of the Complaints and Investigation Division ,at p. 17 .
+> 25 Fact-Finding Report of the Complaints and Investigation Division ,at p. 17 .
 > 26 Id.
 > 27 Id., at p. 18.
-
-NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 16 June 2021 , the Commission issued an Order directing OETC to
 
@@ -393,11 +256,11 @@ On 09 July 2021, OETC ’s legal counsel filed its Entry of Appearance
 
 and an Urgent Manifestation with Motion for Leave and Time to File
 
-Position Paper (Re: Order dated 16 June 2021) .29 OETC pray ed for an
+Position Paper (Re: Order dated 16 June 2021) .29 OETC prayed for an
 
 extension of at least fifteen (15) days to submit its Position Paper .30
 
-On 15 July 2021, the Commission grante d OETC’s request for
+On 15 July 2021, the Commission granted OETC’s request for
 
 extension to file its Position Paper. 31
 
@@ -409,7 +272,7 @@ In its Position Paper , OETC argued th at : 1) the CID’s Complaint did
 
 not establish all the requisites for the issuance of a temporary ban, 33
 
-2) it did not violate the DPA and NPC Circular No. 20 -01 since the
+2) it did not violate the DPA and NPC Circular No. 20-01 since the
 
 processing and collecting of personal data of Cashalo users was valid ,
 
@@ -427,13 +290,11 @@ specific allegation that OETC was engaging in unscrupulous debt
 
 collection methods .36 Rather, it only allege d numerous complaints
 
-> 28
-
-In re: Oriente Express Techsystem Corporation (Cashalo), NPC SS 21 -005,  Order dated 16 June 2021 ,
+[28]
 
 at p. 2.
 
-> 29
+[29]
 
 Entry of Appearance and Urgent Manifestation with Motion for Leave and Time to File
 
@@ -441,41 +302,35 @@ Position Paper (Re: Order dated 16 June 2021) dated 09 July 2021 of Oriente Expr
 
 Corporation .
 
-> 30
+[30]
 
 Id., at p. 4.
 
-> 31
-
-In re: Oriente Express Techsystem Corporation (Cashalo), NPC SS 21 -005, Resolution dated 15 July
+[31]
 
 2021 , at p. 2.
 
-> 32
+[32]
 
 Position Paper Ad Cautela m dated 23 July 2021 of Oriente Express Techsystem Corporation.
 
-> 33
+[33]
 
-Id., ¶¶ 43 -61.
+Id., ¶¶ 43-61.
 
-> 34
+[34]
 
-Id. , ¶¶ 62 -147.
+Id. , ¶¶ 62-147.
 
-> 35
+[35]
 
-Id., ¶¶ 148 -152.
+Id., ¶¶ 148-152.
 
-> 36
+[36]
 
 Position Paper Ad Cautelam dated 23 July 2021 of Oriente Express Techsystem Corporation, ¶¶
 
-44 -50. NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+44-50. NPC SS 21-005
 
 against unnamed online lending applications (OLAs), without
 
@@ -517,7 +372,7 @@ were fully disclosed to Cashalo app users.” 42
 
 OETC also averred t hat it did not violate Section 25 of the DPA
 
-because “all instances of processing done by [OET C], through the
+because “all instances of processing done by [OETC], through the
 
 Cashalo app, have the free, specific and informed consent of the data
 
@@ -534,23 +389,17 @@ company akin to contracts of adhesion, which are not contracts
 > 37 Id.
 > 38 Id. ,¶52.
 > 39 Id. ,¶53.
-> 40 See Fact -Finding Report of the Complaints and Investigation Division, at p. 17.
+> 40 See Fact-Finding Report of the Complaints and Investigation Division, at p. 17.
 > 41 Position Paper Ad Cautelam dated 23 July 2021 of Oriente Express Techsystem Corporation, ¶
 > 57.
 > 42 Id. ,¶73.
 > 43 Id. ,¶90.
 
-NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 automatically considered illegal, unfair, or vitiates the user’s
 
 consent. 44
 
-For its processing of phone contacts, OETC claim ed that the
+For its processing of phone contacts, OETC claimed that the
 
 processing was valid, and once the user completes the loan
 
@@ -558,7 +407,7 @@ application, the Cashalo app notifies users that they may already
 
 remove access to their phone contact lists. 45
 
-OETC dispute d the CID’s claim th at the Cashalo app does not
+OETC disputed the CID’s claim th at the Cashalo app does not
 
 provide a separate interface for users to provide character references,
 
@@ -580,7 +429,7 @@ also be an identical pop -up notice having the same function ,48 3)
 
 update of its Privacy Policy to further clarify its personal data
 
-pro cessing ,49 and 4) allowing users to apply for a loan even if the
+processing ,49 and 4) allowing users to apply for a loan even if the
 
 permission to access their location is denied .50
 
@@ -594,22 +443,16 @@ Thus, OETC prayed for the Commission to deny the issuance of a
 
 temporary ban on the processing of personal data with respect to the
 
-> 44 Id., ¶¶ 95 -97.
+> 44 Id., ¶¶ 95-97.
 > 45 Position Paper Ad Cautelam dated 23 July 2021 of Oriente Express Techsystem Corporation, ¶¶
-> 101 -102.
-> 46 Id., ¶¶ 135 -139.
+> 101-102.
+> 46 Id., ¶¶ 135-139.
 > 47 Id., ¶ 156.
 > 48 Id., ¶ 157.
 > 49 Position Paper Ad Cautelam dated 23 July 2021 of Oriente Express Techsystem Corporation, ¶
 > 158.
 > 50 Id., ¶ 159.
 > 51 Id., ¶ 155.
-
-NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 Cashalo app and dismiss the sua sponte investigation for lack of
 
@@ -661,61 +504,55 @@ the old version of the application since the update applies
 
 prospectively. 60
 
-> 52
+[52]
 
 Id ., at p. 59.
 
-> 53
-
-In re: Oriente Express Techsystem Corporation (Cashalo), NPC SS 21 -005, Order dated 29 July 2021,
+[53]
 
 at p. 4.
 
-> 54
+[54]
 
 Id.
 
-> 55
+[55]
 
 Comment/Opposition (to the Respondent’s Position Paper dated 23 July 2021 ) dated 13 August
 
 2021 of the Complaints and Investigation Division .
 
-> 56
+[56]
 
 Id. , ¶ 4.
 
-> 57
+[57]
 
 Id. , ¶ 5 .
 
-> 58
+[58]
 
 Id., ¶ 6.
 
-> 59
+[59]
 
 Id., ¶ 7.
 
-> 60
+[60]
 
-Id. , ¶¶ 7-8, ¶ 11 .NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+Id. , ¶¶ 7-8, ¶ 11 .NPC SS 21-005
 
 In support of its allegation that OETC violated Section 3(D)(4) of NPC
 
-Circular No. 20 -01, the CID pointed out that since OETC hurriedly
+Circular No. 20-01, the CID pointed out that since OETC hurriedly
 
 revised the Cashalo app after the sua sponte investigation , this act was
 
 already an admission that it has the capacity to access the contacts of
 
-its client s through their mobile phones. 61
+its clients through their mobile phones. 61
 
-The CID maintained that there was substa ntial evidence to warrant
+The CID maintained that there was substantial evidence to warrant
 
 the issuance of a temporary ban on the processing of personal data
 
@@ -723,7 +560,7 @@ against OETC in relation to its Cashalo app .62
 
 Through an Order dated 17 August 2021, the Commission
 
-re scheduled the clarificatory hearing to 26 August 2021 instead of 19
+rescheduled the clarificatory hearing to 26 August 2021 instead of 19
 
 August 2021, 63 after OETC submitted an Urgent Motion to Reset the
 
@@ -757,37 +594,29 @@ furnished the request via electronic mail; and
 
 Express Techsystem Corporation and Paloo Financing Inc. 65
 
-> 61
+[61]
 
 Id ., ¶ 23 .
 
-> 62
+[62]
 
 Comment/Opposition (to the Respondent’s Position Paper dated 23 July 2021) dated 13 August
 
 2021 of the Complaints and Investigation Division, ¶ 25.
 
-> 63
-
-In re: Oriente Express Techsystem Corporation (Cashalo), NPC SS 21 -005, Order dated 17 August
+[63]
 
 2021, at p. 3.
 
-> 64
+[64]
 
 Urgent Motion to Reset the Clarificatory Hearing Scheduled on 19 August 2021 dated 16
 
 August 2021 of Oriente Express Techsystem Corporation .
 
-> 65
+[65]
 
-In re: Oriente Express Techsystem Corporation (Cashalo), NPC SS 21 -005, Order dated 26 August
-
-2021, at pp. 1 -2. NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+2021, at pp. 1-2. NPC SS 21-005
 
 OETC thereafter submitted its Compliance [Re: Order dated 26
 
@@ -837,47 +666,43 @@ Division of the National Privacy Commission for failure to
 
 satisfy the requisites for the issuance of Temporary Ban
 
-specifically, Section 3(1) an d (2), Rule IX of the NPC Circular
+specifically, Section 3(1) and (2), Rule IX of the NPC Circular
 
-> 66
+[66]
 
 Compliance [Re: Order dated 26 August 2021] dated 03 September 2021 of Oriente Express
 
 Techsystem Corporation.
 
-> 67
+[67]
 
 Id., ¶ 2.
 
-> 68
+[68]
 
 Id., ¶ 2.1; See video file of Oriente Express Techsystem Corporation.
 
-> 69
+[69]
 
 Id., ¶ 2.2; Annex “1”.
 
-> 70
+[70]
 
 Compliance [Re: Order dated 26 August 2021] dated 03 September 2021 of Oriente Express
 
-Techsystem Corporation , ¶¶ 4 -6; Annex “2” and video file of Oriente Express Techsystem
+Techsystem Corporation , ¶¶ 4-6; Annex “2” and video file of Oriente Express Techsystem
 
 Corporation.
 
-> 71
+[71]
 
 Id., ¶ 7; Annexes “3” & “4”.
 
-> 72
+[72]
 
-Compliance dated 26 August 2021. NPC SS 21 -005
+Compliance dated 26 August 2021. NPC SS 21-005
 
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-No. 20 -01. The Commission hereby ORDERS Respondent
+No. 20-01. The Commission hereby ORDERS Respondent
 
 Oriente Express Techsystem Corporation and its Responsible
 
@@ -905,7 +730,7 @@ Temporary Ban , the proceedings before the Commission based on the
 
 CID ’s Complaint against OETC resumed , pursuant to Rule IX,
 
-Section 2 of NPC Circular 2021 -01, or the 2021 NPC Rules of
+Section 2 of NPC Circular 2021-01, or the 2021 NPC Rules of
 
 Procedure. 74
 
@@ -929,43 +754,35 @@ DPA , since it failed to adhere to the principles of transparency,
 
 legitimate purpose, and proportionality .79
 
-> 73
+[73]
 
-In re: Oriente Express Techsystem Corporation (Cashalo), NPC SS 21 -005, Order dated 17 September
+2021 , at pp 26-27 .
 
-2021 , at pp 26 -27 .
+[74]
 
-> 74
+Id., at p. 27. See NPC Circular No. 2021-01, rule VIII, § 4.
 
-Id., at p. 27. See NPC Circular No. 2021 -01, rule VIII, § 4.
-
-> 75
+[75]
 
 Compliance dated 10 December 2021 of Oriente Express Techsystem Corporation, ¶ 2. Annex
 
 “1”.
 
-> 76
+[76]
 
 Id., ¶ 3. See video files of Oriente Express Techsystem Corporation.
 
-> 77
-
-In re: Oriente Express Techsystem Corporation (Cashalo), NPC SS 21 -005, Order dated 31 March
+[77]
 
 2022
 
-> 78
+[78]
 
-Memorandum dated 16 May 2022 of the Complaints and Investigation Division , at pp. 3 -7.
+Memorandum dated 16 May 2022 of the Complaints and Investigation Division , at pp. 3-7.
 
-> 79
+[79]
 
-Id. , at p. 3. NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+Id. , at p. 3. NPC SS 21-005
 
 The CID argued that OETC violated the transparency principle since
 
@@ -1021,37 +838,33 @@ The CID also faulted OETC for accessing its data subjects’ contacts
 
 since this was allegedly excessive in relation to the loan application. 86
 
-> 80
+[80]
 
 Id .
 
-> 81
+[81]
 
 Id. , at. p. 5.
 
-> 82
+[82]
 
 Memorandum dated 16 May 2022 of the Complaints and Investigation Division, at p.5 .
 
-> 83
+[83]
 
-Id., at pp. 7 -8.
+Id., at pp. 7-8.
 
-> 84
+[84]
 
 Id. , at p. 7.
 
-> 85
+[85]
 
-Id., at pp. 7 -8.
+Id., at pp. 7-8.
 
-> 86
+[86]
 
-Memorandum dated 16 May 2022 of the Complaints and Investigation Division , at p.8. NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+Memorandum dated 16 May 2022 of the Complaints and Investigation Division , at p.8. NPC SS 21-005
 
 Moreover , the CID stated that if OETC is found liable, the penalty
 
@@ -1071,7 +884,7 @@ users ” in the Privacy Policy and pop -up notification boxes. 89 These
 
 purposes are “to conduct and perform fraud monitoring, detection,
 
-analy sis, and prevention; to develop, enhance and maintain a risk
+analysis, and prevention; to develop, enhance and maintain a risk
 
 assessment process and model, offline and online; and to develop
 
@@ -1109,23 +922,17 @@ are being processed, as well as the purposes for such processing.” 95
 
 > 87 Id .
 > 88 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation.
-> 89 Id. ,¶¶ 85 -86 .
+> 89 Id. ,¶¶ 85-86 .
 > 90 Id., ¶ 30.
-> 91 Id., ¶¶ 90 -91.
-> 92 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation ,¶¶ 98 -129 .
+> 91 Id., ¶¶ 90-91.
+> 92 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation ,¶¶ 98-129 .
 > 93 Id. ,¶ 104.
-> 94 Id., ¶¶ 106 -110 .
+> 94 Id., ¶¶ 106-110 .
 > 95 Id., ¶ 123.
-
-NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 Further, OETC averred that it did not violate Section 3(D)(4) of NPC
 
-Cir cular No. 20 -01 .96 Aside from CID’s alleged failure to substantiate
+Cir cular No. 20-01 .96 Aside from CID’s alleged failure to substantiate
 
 the violation, 97 the updated Cashalo app also no longer triggers or
 
@@ -1141,11 +948,11 @@ so only for legitimate reasons such as KYC. 99
 
 Fin ally, OETC concluded that considering that it did not violate the
 
-DPA and NPC Circular No. 20 -01, there was no basis for holding its
+DPA and NPC Circular No. 20-01, there was no basis for holding its
 
 officers or Board of Directors liable. 100
 
-Issue s
+### Issue
 
 I. Whether OETC did not adhere to the general data privacy
 
@@ -1157,9 +964,9 @@ II. Whether OETC violated Section 25 of the DPA.
 
 III. Whether OETC violated the provisions under Section 3(D)(4) of
 
-NPC Circular No. 20 -01.
+NPC Circular No. 20-01.
 
-Discussion
+### Discussion
 
 Under the DPA, the NPC has the obligation to ensure a personal
 
@@ -1167,27 +974,27 @@ information controller ’s compliance with the law 101 and institute
 
 investigations when necessary. 102
 
-> 96
+[96]
 
-Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation , ¶¶ 130 -171.
+Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation , ¶¶ 130-171.
 
-> 97
+[97]
 
 Id., ¶¶ 13 0-138 .
 
-> 98
+[98]
 
 Id., ¶ 139 .
 
-> 99
+[99]
 
 Id., ¶ 140.
 
-> 100
+[100]
 
-Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation , ¶¶ 172 -176 .
+Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation , ¶¶ 172-176 .
 
-> 101
+[101]
 
 An Act Protecting Individual Personal Information in Information and Communications
 
@@ -1197,15 +1004,11 @@ Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 
 
 II, § 7(a) (2012).
 
-> 102
+[102]
 
-Id. § 7(b). NPC SS 21 -005
+Id. § 7(b). NPC SS 21-005
 
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-The NPC’s mandate is supported by the NPC Circular No. 2 021 -01,
+The NPC’s mandate is supported by the NPC Circular No. 2 021-01,
 
 which allows the procedure for sua sponte investigations of
 
@@ -1255,47 +1058,43 @@ burden of proving their allegations with substantial evidence .” 110 As
 
 further explained by the Supreme Court in De Jesus v. Guerrero III :
 
-> 103
+[103]
 
-NPC Circular No. 2021 -01, rule X, §§ 5 -6.
+NPC Circular No. 2021-01, rule X, §§ 5-6.
 
-> 104
+[104]
 
 National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of
 
 2012, rule III, § (e)(1) (2016) (IRR of the DPA) .
 
-> 105
+[105]
 
-NPC Circular No. 2021 -01, rule X, §§ 3 -5. See In re: FCash Global Lending Inc ., Operating FastCash
+NPC Circular No. 2021-01, rule X, §§ 3-5. See In re: FCash Global Lending Inc ., Operating FastCash
 
-Online Lending Application, NPC 19 -909, Resolution dated 28 April 2022.
+Online Lending Application, NPC 19-909, Resolution dated 28 April 2022.
 
-> 106
+[106]
 
-In re: FCash Global Lending Inc., Operating FastCash Online Lending Application, NPC 19 -909,
+In re: FCash Global Lending Inc., Operating FastCash Online Lending Application, NPC 19-909,
 
-Resolution dated 28 April 2022., at pp. 3 -4.
+Resolution dated 28 April 2022., at pp. 3-4.
 
-> 107
+[107]
 
 Id., at p. 4.
 
-> 108
+[108]
 
 See Data Privacy Act of 2012, , chapter II, § 7(b).
 
-> 109
+[109]
 
-NPC Circular No. 2021 -01, rule VIII, § 1.
+NPC Circular No. 2021-01, rule VIII, § 1.
 
-> 110
+[110]
 
-Office of the Ombudsman v. Fetalvero, Jr., G.R. No. 211450, 23 July 2018. NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+Office of the Ombudsman v. Fetalvero, Jr., G.R. No. 211450, 23 July 2018. NPC SS 21-005
 
 In administrative proceedings, the quantum of proof necessary
 
@@ -1357,29 +1156,25 @@ not sufficiently prove that OETC failed to adhere to the transparency
 
 principle.
 
-> 111
+[111]
 
 G.R. No. 171491, 04 September 2009.
 
-> 112
+[112]
 
-Fact -Finding Report of the Complaints and Investigation Division, at p. 10.
+Fact-Finding Report of the Complaints and Investigation Division, at p. 10.
 
-> 113
+[113]
 
 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation, ¶ 86.
 
-> 114
+[114]
 
 Id.
 
-> 115
+[115]
 
-Id., ¶ 90. NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+Id., ¶ 90. NPC SS 21-005
 
 Under Rule IV, Section 18 of the Implementing Rules and
 
@@ -1433,13 +1228,13 @@ location data, even if the user denies the permission, the application
 
 would still proceed to function. 122 However, the user has the option
 
-> 116
+[116]
 
 National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of
 
 2012, rule I V, § 1 8(a) (2016).
 
-> 117
+[117]
 
 See Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation , Annex es
 
@@ -1447,37 +1242,33 @@ See Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation 
 
 screenshot of pop -up notices .
 
-> 118
+[118]
 
 Id. , ¶ 10 .
 
-> 119
+[119]
 
 Id. , Annex “3 -A” .
 
-> 120
+[120]
 
 Compliance [Re: Order dated 26 August 2021] dated 03 September 2021 of Oriente Express
 
 Techsystem Corporation , ¶ 2; See also Annex “1” and Annex “2” .
 
-> 121
+[121]
 
 Id., ¶ 2.2.
 
-> 122
+[122]
 
-Id., ¶ 4. NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+Id., ¶ 4. NPC SS 21-005
 
 to allow access to location data to avail of services such as locating
 
 the nearest payment center. 123
 
-Through th e exchange of pleadings and clarificatory hearing , OETC
+Through the exchange of pleadings and clarificatory hearing , OETC
 
 addressed the issues found in its Privacy Policy and clarified its
 
@@ -1493,7 +1284,7 @@ parties for marketing purposes .124
 
 information is provided, changes may no longer be allowed x x
 
-x,” Cashalo app user s are now allowed to initiate requests to
+x,” Cashalo app users are now allowed to initiate requests to
 
 rectify or eras e their personal data in the Cashalo app itself.
 
@@ -1533,12 +1324,6 @@ measures. 127
 > 126 Id. ,¶ 2.3.
 > 127 Id .,¶ 2.5.
 
-NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 The Commission notes OETC’s efforts in implementing its
 
 remediation measures for Cashalo’s Privacy Policy , and in complying
@@ -1575,7 +1360,7 @@ processing to obtain a loan. This act of [OETC] is misleading and
 
 inherently unfair. ”129
 
-Further , the CID also claim ed that the Cashalo app can access and
+Further , the CID also claimed that the Cashalo app can access and
 
 store personal information of the data subjects including their phone
 
@@ -1587,7 +1372,7 @@ thus, violating Sections 11, 1 2, 13, and 16 of the DPA.
 
 OETC disputed the CID’s characterization and claims that consent
 
-was validly acquired, an d that there were legitimate purposes for the
+was validly acquired, and that there were legitimate purposes for the
 
 processing of its users ’ personal data. 131 The processing of the
 
@@ -1599,17 +1384,11 @@ assessment, transaction processing, and regulatory reporting, among
 
 others. 132
 
-> 128 Fact -Finding Report of the Complaints and Investigation Division, at p. 12.
+> 128 Fact-Finding Report of the Complaints and Investigation Division, at p. 12.
 > 129 Id.
 > 130 Id ., at p.13.
-> 131 Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation, pp. 2 -3.
+> 131 Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation, pp. 2-3.
 > 132 Id.
-
-NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 Section 11 of the DPA provides for the General Data Privacy
 
@@ -1625,7 +1404,7 @@ disclosure of information to the public and adherence to the
 
 principles of transparency, legitimate purpose and
 
-pro portionality.
+proportionality.
 
 Personal information must be:
 
@@ -1675,25 +1454,19 @@ monitoring, payment, collection and other remedial
 
 measures. 136
 
-> 133
-
-Data Privacy Act of 2012, chapter II, § 11(a).
+[133]
 
 > 134
 
 IRR of the DPA, § 18(b) . 2
 
-> 135
+[135]
 
 Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation, p. 3.
 
-> 136
+[136]
 
-Fact -Finding Report of the Complaints and Investigation Division, at p. 13. NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+Fact-Finding Report of the Complaints and Investigation Division, at p. 13. NPC SS 21-005
 
 A lending or financing company, like OETC, is not prohibited from
 
@@ -1713,7 +1486,7 @@ Privacy Policy and Cashalo’s Terms of Service. 138 Thus, the ”Accept”
 
 button remains to be greyed -out and unclickable “unless and until
 
-the user s ha ve scrolled to the bottom of the [Privacy Policy] ”.139
+the users ha ve scrolled to the bottom of the [Privacy Policy] ”.139
 
 OETC clarified in its updated Privacy Polic y that the “contact
 
@@ -1752,20 +1525,14 @@ given their consent freely. The CID failed to provide other proof or
 adequate reasoning of the users’ lack or impairment of consent.
 
 > 137 See National Privacy Commission, Guidelines on the Processing of Personal Data for Loan -
-> related Transactions, NPC Circular 20 -01 (14 September 2020).
+> related Transactions, NPC Circular 20-01 (14 September 2020).
 > 138 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation ,¶ 29.
 > 139 Id.
 > 140 Id. ,¶ 23.3.
 > 141 Id. ,¶ 41.
-> 142 Fact -Finding Report of the Complaints and Investigation Division, at p. 12.
+> 142 Fact-Finding Report of the Complaints and Investigation Division, at p. 12.
 > 143 Cabanting v. BPI Family Savings Bank, Inc. , G.R. No. 201927, 17 February 2016.
 > 144 Id. (Emphases supplied.)
-
-NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 From the records, the Commission finds that OETC has sufficiently
 
@@ -1783,7 +1550,7 @@ obtained and the purposes for processing were not illegal, OETC did
 
 not violate the principle of legitimate purpose.
 
-Lastly, in terms of proportionality, the CID submit ted that the “use of
+Lastly, in terms of proportionality, the CID submitted that the “use of
 
 the following dangerous permissions to access the Phone, Location,
 
@@ -1817,29 +1584,25 @@ shall be processed only if the purpose of the processing could
 
 not reasonably be fulfilled by other means. 149
 
-> 145
+[145]
 
 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation, ¶ 30.
 
-> 146
+[146]
 
 Memorandum dated 16 May 2022 of the Complaints and Investigation Division , at p. 5.
 
-> 147
+[147]
 
 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation, ¶ 141 .
 
-> 148
+[148]
 
 Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation , ¶ 126.
 
-> 149
+[149]
 
-Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18(c). NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18(c). NPC SS 21-005
 
 The proportionality principle is adhered to “ when the processing is
 
@@ -1904,12 +1667,6 @@ Information .
 > 152 Id., ¶ 45 .
 > 153 Id.
 
-NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
-
 In determining whether a violation of Section 25 of the DPA
 
 occurred, three elements must be established with substantial
@@ -1966,19 +1723,13 @@ CID failed to prove by substantial evidence that the purpose s for the
 
 processing of personal data of the Cashalo app users were actually
 
-> 154 In Re: FLI Operating ABC Online Lending Application , NPC 19 -910 , Decision dated 17 December
+> 154 In Re: FLI Operating ABC Online Lending Application , NPC 19-910 , Decision dated 17 December
 > 2020 at p. 17.
 > 155 Memorandum dated 16 May 2022 of the Complaints and Investigation Division, at p.7.
 > 156 Id.
 > 157 Id.
 > 158 Id.
 > 159 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation, ¶ 107.
-
-NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 vague. 160 The users validly gave their consent by being sufficiently
 
@@ -2002,7 +1753,7 @@ address, birth date and/or age, gender, employment information,
 
 financial capacity information bank account details, credit card
 
-and/or fina ncial account information, financial history and details of
+and/or financial account information, financial history and details of
 
 government -issued identifications , among other personal data .163 The
 
@@ -2030,25 +1781,25 @@ permitted only if not otherwise prohibited by law, and when at
 
 least one of the following conditions exists:
 
-> 160
+[160]
 
 Id. , ¶ 104.
 
-> 161
+[161]
 
 Id., ¶ 123.
 
-> 162
+[162]
 
 See Data Privacy Act of 2012, § 3( h).
 
-> 163
+[163]
 
 Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation, Annexes “2” -
 
 Privacy Policy dated 25 May 2021, “2 -A” - Privacy Policy dated 27 October 2020.
 
-> 164
+[164]
 
 An Act Protecting Individual Personal Information in Information and Communications
 
@@ -2056,11 +1807,7 @@ Systems in the Government and the Private Sector, Creating for This Purpose a Na
 
 Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter
 
-II, § 7 (2012). NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+II, § 7 (2012). NPC SS 21-005
 
 (a) The data subject has given his or her consent;
 
@@ -2128,25 +1875,19 @@ Privacy Policy was not valid ly obtained , the CID must not just allege,
 
 but provide substantial evidence, that the users w ho consented to the
 
-> 165
-
-Data Privacy Act of 2012, chapter II, §§ 12 -13.
+[165]
 
 > 166
 
 Encarnacion Construction & Industrial Corp. v. Phoenix Ready Mix Concrete Development &
 
-Construction, Inc. , G.R. No. 225402 , 04 September 4, 2017. NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+Construction, Inc. , G.R. No. 225402 , 04 September 4, 2017. NPC SS 21-005
 
 Privacy Policy were “completely deprived of the opportunity to
 
 bargain on equ al footing .” 167
 
-On the contrary, OETC has provided adequate proof that user s ha ve
+On the contrary, OETC has provided adequate proof that users ha ve
 
 already been notified twice of what particular data shall be processed
 
@@ -2184,7 +1925,7 @@ Further, the Commission finds that the CID failed to prove, with
 
 substantial evidence, that the Cashalo app has accessed data stored in
 
-the mobile phone of its user s, particularly the user’s contact list, and
+the mobile phone of its users, particularly the user’s contact list, and
 
 that this processing was particularly unauthorized under the DPA or
 
@@ -2206,12 +1947,6 @@ evidence.” 171
 > Construction, Inc. , G.R. No. 225402 , 04 September 4, 2017.
 > 171 G.R. No. 165585, 20 November 2013 .
 
-NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
-
 Thus, OETC and its responsible officers cannot be held liable for
 
 Section 25 of the DPA.
@@ -2220,9 +1955,9 @@ III. There is no substantial evidence to
 
 find that OETC violate d Section
 
-3(D)(4) of NPC Circular No. 20 -01 .
+3(D)(4) of NPC Circular No. 20-01 .
 
-Section 3(D)(4) of NPC Circular No. 20 -01 states:
+Section 3(D)(4) of NPC Circular No. 20-01 states:
 
 SECTION 3. Guidelines. — The processing of personal data for
 
@@ -2260,7 +1995,7 @@ borrowers can provide character references and/or co -makers
 
 of their own choosing. 172
 
-The CID argue d that OETC violated NPC Circular No. 20 -01 since
+The CID argue d that OETC violated NPC Circular No. 20-01 since
 
 there were dangerous permissions in the Cashalo app (Phone,
 
@@ -2272,21 +2007,17 @@ the CID claimed that this was a prohibited activ ity that violated the
 
 Circular .174
 
-> 172
+[172]
 
-NPC Circular 20 -01, § 3(D)(4) (14 September 2020).
+NPC Circular 20-01, § 3(D)(4) (14 September 2020).
 
-> 173
+[173]
 
 Memorandum dated 16 May 2022 of the Complaints and Investigation Division, at p.5.
 
-> 174
+[174]
 
-Id., at p. 7. NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+Id., at p. 7. NPC SS 21-005
 
 OETC countered that the CID’s allegations were unsubstantiated by
 
@@ -2302,7 +2033,7 @@ After weighing the claims and proof of both parties, the Commission
 
 finds that there is a lack of substantial evidence to conclude that
 
-OETC viol ated Section 3(D)(4) of NPC Circular No. 20 -01.
+OETC viol ated Section 3(D)(4) of NPC Circular No. 20-01.
 
 In CID’s Supplemental Technical Report dated 14 May 2021, the CID
 
@@ -2326,7 +2057,7 @@ or harassment. It has also shown that it has made relevant changes in
 
 its Privacy Policy, and application, to better align with NPC Circular
 
-20 -01. 179
+20-01. 179
 
 The CID has not proven that OETC accesse d the contact list for
 
@@ -2351,17 +2082,11 @@ that OETC and its responsible officers: 1) failed to adhere to the
 > 179 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation ,¶139.
 > 180 Id. ,¶170.
 
-NPC SS 21 -005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
-
 general data privacy principle s, 2) violated Section 25 of the DPA,
 
-and 3) violated Section 3(D)(4) of NPC Circular 20 -01.
+and 3) violated Section 3(D)(4) of NPC Circular 20-01.
 
-WHEREFORE, premises considered, the Fact -Finding Report with
+WHEREFORE, premises considered, the Fact-Finding Report with
 
 Application for the Issuance of a Temporary Ban against Oriente
 
@@ -2397,7 +2122,7 @@ Copy furnished:
 
 CMT
 
-Counsel for Respondent NPC SS 21 -005
+Counsel for Respondent NPC SS 21-005
 
 In re: Oriente Express Techsystem Corporation (Cashalo)
 

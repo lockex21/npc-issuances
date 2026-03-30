@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-037 — Request For The Status Of Application And The List Of Beneficiaries Of The Sitio Electrification Program (SEP)"
-description: "''''''''''''''''''' ''''''''''''''' ''''' '''''''''''''''''''''' '''''''''''' ''''''''' '''''''''' ''''''''''"
+title: "NPC Advisory Opinion No. 2021-037 — Request For The Status Of Application And The List Of Beneficiaries Of The Sitio Electrification Program (SEP)"
+description: "Guidance on requests for application status and beneficiary lists under the Sitio Electrification Program, addressing lawful processing and fulfillment of mandate."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,28 +17,13 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                            ADVISORY OPINION NO. 2021-0371
-
     6 October 2021
 
-    ''''''''''''''''''' ''''''''''''''' ''''' ''''''''''''''''''''''
-    '''''''''''' '''''''''
-    '''''''''' ''''''''''
-
-    '''''''''''''''' '''''''''''''' ''' '''''''''''''''''''''
-    ''''''''' '''''''''''' ''' '''''''' '''''''''''' '''''''
-    '''''''''' ''''''''''
-    '''''''''''''''''''''''''''
-
-
-
-                  Re:        REQUEST FOR THE STATUS OF APPLICATION AND THE
+   Re:        REQUEST FOR THE STATUS OF APPLICATION AND THE
                              LIST OF BENEFICIARIES OF THE SITIO ELECTRIFICATION
                              PROGRAM (SEP)
 
-
-Dear '''''''''''''''''' '''''''''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your request for guidance on whether the Local Government of
 Infanta, Quezon (Infanta LGU) can lawfully request for certain information from the Quezon
@@ -59,8 +44,6 @@ To address this, the Infanta LGU requested from QUEZELCO II copies of the SEP ap
 including the supporting documents to verify the validity of the applications. QUEZELCO II
 denied the request stating that consent of the applicants was needed. The Infanta LGU
 
-1
-    Tags: lawful processing of personal information; fulfillment of mandate; general data privacy principles;
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Republic Act No. 10173 (2012).
@@ -74,9 +57,9 @@ II.
 You now seek clarification whether the Infanta LGU can be provided with the above
 information considering the provisions of the DPA.
 
-Lawful basis for processing personal and sensitive
-personal information (collectively, personal data);
-Sections 12 and 13
+### Discussion
+
+#### Lawful Basis For Processing Personal And Sensitive Personal Information (Collectively, Personal Data); Sections 12 And 13
 
 The DPA provides for the various lawful bases for processing personal information under
 Section 12, and sensitive personal information under Section 13.
@@ -139,13 +122,7 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
-
-
-
 
 5 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).

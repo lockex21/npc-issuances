@@ -1,39 +1,34 @@
 ---
-title: "Advisory Opinion No. 2024-002"
-description: "Re: REQUEST FOR COMMENTS/INSIGHTS REGARDING THE USE OF ARTIFICIAL INTELLIGENCE (AI) IN THE CIVIL SERVICE COMMISSION’S (CSC) CORRESPONDENCE"
+title: "NPC Advisory Opinion No. 2024-002 — Request for Comments and Insights Regarding the Use of Artificial Intelligence in Civil Service Commission Correspondence"
+description: "Advisory Opinion providing comments and insights regarding the use of artificial intelligence (AI) in the Civil Service Commission’s (CSC) correspondence."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2024"
+  - issuance
+  - type/advisory-opinion
+  - year/2024
 draft: false
 ---
 
 ## Source
 - Reference: Advisory Opinion No. 2024-002
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/Advisory-Opinion-No.-2024-002.pdf
+- Issue date: 09/01/2023
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                              ADVISORY OPINION NO. 2024-0021
 
  19 January 2024
 
-
-
-
-            Re:     REQUEST FOR COMMENTS/INSIGHTS REGARDING THE
+   Re:     REQUEST FOR COMMENTS/INSIGHTS REGARDING THE
                     USE OF ARTIFICIAL INTELLIGENCE (AI) IN THE CIVIL
                     SERVICE COMMISSION’S (CSC) CORRESPONDENCE
 
-
-
-Dear                                  :
-
+Dear [Redacted],
 We provide this Advisory Opinion upon the referral of the Department of Information and
 Communications Technology (DICT) as regards your request for comments and insights on
 the data privacy implications in the use of artificial intelligence (AI) for the Civil Service
 Commission’s (CSC) correspondence.
+
+### Discussion
 
 On the use of AI in the processing of personal
 information; general principles; data subject rights;
@@ -48,12 +43,6 @@ their levels of autonomy and adaptiveness after deployment.” 2
 We reiterate the discussion in our 18 August 2023 letter that, at present, we see no manifest
 conflict with the use of AI in relation to the provisions of the Data Privacy Act of 2012 (DPA).
 3 The DPA recognizes the policy of the State to ensure the free flow of information and to
-
-
-
-
-1 Tags: Artificial Intelligence, General Principles of Privacy, Data Subject Rights, Privacy Impact Assessment.
-2 Organization for Economic Co-operation and Development (OECD), AI terms & concepts, available at: https://oecd.ai/en/ai-
 
 principles [last accessed date: 15 January 2024].
 3 An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and the
@@ -92,7 +81,7 @@ communication
 We acknowledge that using AI has its advantages such as improving human productivity.
 The OECD has also acknowledged its potential:
 
-         “Artificial Intelligence (AI) is a general-purpose technology that has the potential to:
+   “Artificial Intelligence (AI) is a general-purpose technology that has the potential to:
          improve the welfare and well-being of people, contribute to positive sustainable
          global economic activity, increase innovation and productivity, and help respond to
          key global challenges. It is deployed in many sectors ranging from production,
@@ -102,9 +91,6 @@ On this note, we do not see any apparent issues in using AI, such as Chat Genera
 Trained Transformer (ChatGPT), to improve CSC’s correspondence. However, we emphasize
 that if personal information is processed using such AI, PICs must implement proper
 safeguards to ensure the protection of the rights of data subjects.
-
-
-
 
 4 Organization for Economic Co-operation and Development (OECD), Recommendation of the Council on Artificial Intelligence
 
@@ -119,13 +105,10 @@ adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
-
 
  cc :

@@ -1,11 +1,18 @@
 ---
-title: "NPC SS 22-001 and NPC SS 22-008: In re: Commission on Elections"
-description: "Commission on Elections, COMELEC Statement on Alleged Hacking Incident , COMMISSION ON ELECTIONS , 10 January 2022,"
+title: 'NPC SS 22-001 and NPC SS 22-008: In Re: Commission on Elections: Commission
+  on Elections'
+description: Determination of whether Commission on Elections violated DPA provisions.
+aliases:
+- 'NPC SS 22-001 and NPC SS 22-008: In Re: Commission on Elections'
+- 'npc ss 22-001 and npc ss 22-008: in re: commission on elections'
+- Commission on Elections
+- commission on elections
 tags:
-  - "decision"
-  - "type/decision"
-  - "year/2022"
-  - "npc-case"
+- decision
+- type/decision
+- year/2022
+- npc-case
+date: '2023-01-25'
 draft: false
 ---
 
@@ -23,7 +30,6 @@ draft: false
 - Sensitive Personal Information
 
 ## Decision Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 IN RE: COMMISSION ON ELECTIONS,
 
@@ -65,7 +71,7 @@ of Section 29 an d Section 30 of Republic Act No. 10173 or the Data
 
 Privacy Act of 2012 (DPA) .
 
-Facts
+### Facts
 
 The case arose from a news article of Manila Bulletin published on 10
 
@@ -90,8 +96,6 @@ and NPC SS 22 -008 NPC SS 22 -001 and NPC SS 22 -008
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 PINS of vote -counting machines (VCM) […] network diagrams, IP
 
@@ -180,8 +184,6 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 deliberately or otherwise, undermine the integrity of the
 
 electoral process. 4
@@ -260,7 +262,7 @@ Smartmatic Group of Companies, RVA , WS , and Other John Does and Jane Does, NPC
 
 > 9
 
-Consolidated Fact -Finding Report, Complaints and Investigation Division, 05 April 2022, at 2, in In re: Commission on
+Consolidated Fact-Finding Report, Complaints and Investigation Division, 05 April 2022, at 2, in In re: Commission on
 
 Elections, Smartmatic Group of Companies, RVA , WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS
 
@@ -287,8 +289,6 @@ Elections, Smartmatic Group of Companies, RVA , WS , and Other John Does and Jan
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 canvassers and a sample of the overseas absentee voters list to gather
 
@@ -368,8 +368,6 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 COMELEC further alleged that its server for the preparation of
 
 election data for the 2022 elections is installed offline and is only
@@ -440,8 +438,6 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 documents and information in compliance with the Order dated 2 8
 
 January 2022. 31
@@ -476,7 +472,7 @@ Casquejo (Commissioner Casquejo) .36  The Letter allegedly contain ed
 
 a directive to Smartmatic that prohibit ed it from disclos ing further
 
-information since the matter was covered by a non -disclosure
+information since the matter was covered by a non-disclosure
 
 agreement and involv ed the preparations and conduct of elections
 
@@ -490,7 +486,7 @@ and Smartmatic to appear for a clarificatory hearing on 22 February
 
 appear for a clarificatory hearing on 24 February 2022. 39
 
-> 31 Consolidated Fact -Finding Report, Complaints and Investigation Division, 05 April 2022, at 5, in In re: Commission on
+> 31 Consolidated Fact-Finding Report, Complaints and Investigation Division, 05 April 2022, at 5, in In re: Commission on
 > Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS
 > 22 -008 (NPC 2022).
 > 32 Order (To Appear), 08 February 2022, in In re: Commission on Elections, Smartmatic Group of Companies, RVA ,WS ,
@@ -515,8 +511,6 @@ NPC SS 22 -001 and NPC SS 22 -008
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 18 February 2022, COMELEC submitted a Memorandum on the
 
@@ -566,7 +560,7 @@ presented in the appropriate forum. 47
 
 > 40
 
-Consolidated Fact -Finding Report, Complaints and Investigation Division, 05 April 2022, at 7, in In re: Commission on
+Consolidated Fact-Finding Report, Complaints and Investigation Division, 05 April 2022, at 7, in In re: Commission on
 
 Elections, Smartmatic Group of Companies, RVA , WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS
 
@@ -582,7 +576,7 @@ SS 22 -001 and NPC SS 22 -008 (NPC 2022).
 
 > 42
 
-Consolidated Fact -Finding Report , Complaints and Investigation Division, 05 April 2022, at 7, in In re: Commission on
+Consolidated Fact-Finding Report , Complaints and Investigation Division, 05 April 2022, at 7, in In re: Commission on
 
 Elections, Smartmatic Group of Companies, RVA , WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS
 
@@ -619,8 +613,6 @@ and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS 22 -008 (NPC 2022).
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 09 March 2022, the CID issued a Notice for On -site Inspection
 
@@ -674,7 +666,7 @@ from August 2021 to January 2022 as a Quality Assurance Tester and ,
 > Does and Jane Does, NPC SS 22 -001 and NPC SS 22 -008 (NPC 2022).
 > 49 Order (To Submit Compliance), 09 March 2022, in In re: Commission on Elections, Smartmatic Group of Companies,
 > RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS 22 -008 (NPC 2022).
-> 50 Consolidated Fact -Finding Report, Complaints and Investigation Division, 05 April 2022, at 7, in In re: Commission on
+> 50 Consolidated Fact-Finding Report, Complaints and Investigation Division, 05 April 2022, at 7, in In re: Commission on
 > Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS
 > 22 -008 (NPC 2022).
 > 51 Id.
@@ -682,7 +674,7 @@ from August 2021 to January 2022 as a Quality Assurance Tester and ,
 > 53 Id.
 > 54 Letter, 17 March 2022, in In re: Commission on Elections, Smartmatic Group of Companies, RVA ,WS , and Other John
 > Does and Jane Does, NPC SS 22 -001 and NPC SS 22 -008 (NPC 2022).
-> 55 Consolidated Fact -Finding Report , Complaints and Investigation Division, 05 April 2022, at 8, in In re: Commission on
+> 55 Consolidated Fact-Finding Report , Complaints and Investigation Division, 05 April 2022, at 8, in In re: Commission on
 > Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS
 > 22 -008 (NPC 2022).
 > 56 Id. Annex S .
@@ -693,8 +685,6 @@ NPC SS 22 -001 and NPC SS 22 -008
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 due to his role , he had access to the virtual private network (VPN) of
 
@@ -734,7 +724,7 @@ Instead, he was given online computer lectures such as Cobalt Strike
 
 and Lateral Movement. 63
 
-On 05 April 2022, the CID submitted its Consolidated Fact -Finding
+On 05 April 2022, the CID submitted its Consolidated Fact-Finding
 
 Report 64  that serves as the Complaint for sua sponte initiated cases
 
@@ -755,17 +745,17 @@ CID contend ed that without RVA ’s indispensable participation, the
 > 58 Id. Annex S at 2.
 > 59 Id. Annex S at 2 -3.
 > 60 Id. Annex S at 3.
-> 61 Consolidated Fact -Finding Report , Complaints and Investigation Division, Annex S at 3, 05 April 2022, in In re:
+> 61 Consolidated Fact-Finding Report , Complaints and Investigation Division, Annex S at 3, 05 April 2022, in In re:
 > Commission on Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -
 > 001 and NPC SS 22 -008 (NPC 2022).
 > 62 Id.
 > 63 Id.
-> 64 Consolidated Fact -Finding Report , Complaints and Investigation Division, 05 April 2022, in In re: Commission on
+> 64 Consolidated Fact-Finding Report , Complaints and Investigation Division, 05 April 2022, in In re: Commission on
 > Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS
 > 22 -008 (NPC 2022).
 > 65 See National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of
 > Procedure], rule X, §§ 5-6 (28 January 2021).
-> 66 Consolidated Fact -Finding Report , Complaints and Investigation Division, 05 April 2022, at 21, in In re: Commission on
+> 66 Consolidated Fact-Finding Report , Complaints and Investigation Division, 05 April 2022, at 21, in In re: Commission on
 > Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS
 > 22 -008 (NPC 2022).
 
@@ -774,8 +764,6 @@ NPC SS 22 -001 and NPC SS 22 -008
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 breach would not have happened , and the access of WS and other
 
@@ -815,7 +803,7 @@ are ORDERED, within fifteen (15) days from receipt of this
 
 Order, to file their respective COMMENTS on the allegations in
 
-the attached Consolidated Fact -Finding Report, pursuant to
+the attached Consolidated Fact-Finding Report, pursuant to
 
 Section 6 of Rule X of NPC Circular No. 2021 -01.
 
@@ -848,17 +836,15 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 On 20 May 2022, the NPC received Smartmatic’s Manifestation. 72
 
-Smartmatic stated that the CID’s Consolidated Fact -Finding Report
+Smartmatic stated that the CID’s Consolidated Fact-Finding Report
 
 was not attached to the Order dated 11 April 2022 .73
 
 On 23 May 2022, COMELEC and Smartmatic was served a copy of
 
-the Order, the CID’s Consolidated Fact -Finding Report, and its
+the Order, the CID’s Consolidated Fact-Finding Report, and its
 
 corresponding annexes. 74
 
@@ -868,7 +854,7 @@ Additional Time to File a Comment. 75  Smartmatic stated that it
 
 needed an extension to “properly verify the allegations in the
 
-Consolidated Fact -Finding Report and the voluminous attachments
+Consolidated Fact-Finding Report and the voluminous attachments
 
 and/or annexes referred therein [.] ”76  Smartmatic also allege d that it
 
@@ -880,7 +866,7 @@ an additional period of fifteen (15) calendar days from 07 June 2022,
 
 or until 22 June 2022 to submit its Comment on the Consolidated
 
-Fact -Finding Report. 78
+Fact-Finding Report. 78
 
 On 07 June 2022 , COMELEC filed a Motion for Extension of Time to
 
@@ -928,11 +914,9 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 additional period of fifteen (15) days from 07 June 2022, or until 22
 
-June 2022 to file its Comment on the Consolidated Fact -Finding
+June 2022 to file its Comment on the Consolidated Fact-Finding
 
 Report. 83
 
@@ -952,7 +936,7 @@ COMELEC’s request for additional time to file its Comment. 86
 
 On 22 June 2022, Smartmatic submitted its Comment on the
 
-Consolidated Fact -Finding Report. 87  Smartmatic argue d that the
+Consolidated Fact-Finding Report. 87  Smartmatic argue d that the
 
 CID’s investigation and report did not state sufficient basis for its
 
@@ -1006,8 +990,6 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 the intricacies of the issues involved in this case and the need to
 
 coordinate with the COMELEC Law Department regarding the
@@ -1046,7 +1028,7 @@ Motion for Additional Extension of Time to File Comment dated 04
 
 July 2022 .97  The Commission order ed the OSG to submit COMELEC’s
 
-Comment on the Consolidated Fact -Finding Report within a non -
+Comment on the Consolidated Fact-Finding Report within a non-
 
 extendible period of fifteen (15) days from 07 July 2022, or until 22
 
@@ -1087,8 +1069,6 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 COMELEC claim ed that the CID committed “serious error” 101  in
 
 recommending COMELEC to be liable for violating Section 30 of the
@@ -1099,7 +1079,7 @@ Smartmatic ’s servers. 102  Thus, COMELEC pray ed that CID’s
 
 recommendation be set aside for lack of factual and legal basis.
 
-Issue s
+### Issue
 
 I.  Whether RVA , WS , and other John Does and Jane Does (RVA ,
 
@@ -1113,7 +1093,7 @@ II.  Whether COMELEC and Smartmatic are liable for Section 30
 
 Information ) of the DPA .
 
-Discussion
+### Discussion
 
 I.  RVA , WS , and other unknown individuals are liable under
 
@@ -1121,7 +1101,7 @@ Section 29 (Unauthorized Access or Intentional Breach ) of the
 
 DPA .
 
-In the CID’s Consolidated Fact -Finding Report, which serves as the
+In the CID’s Consolidated Fact-Finding Report, which serves as the
 
 Complaint in this sua sponte initiated case ,103  the CID point ed to
 
@@ -1148,7 +1128,7 @@ Pesos (Php2,000,000.00) shall be imposed on persons who
 > 101 Id.
 > 102 Id.
 > 103 See NPC 2021 Rules of Procedure, rule X, § 5 -6.
-> 104 Consolidated Fact -Finding Report , Complaints and Investigation Division, 05 April 2022, at 21, in In re: Commission
+> 104 Consolidated Fact-Finding Report , Complaints and Investigation Division, 05 April 2022, at 21, in In re: Commission
 > on Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC
 > SS 22 -008 (NPC 2022).
 
@@ -1157,8 +1137,6 @@ NPC SS 22 -001 and NPC SS 22 -008
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 knowingly and unlawfully, or violating data confidentiality and
 
@@ -1223,7 +1201,7 @@ AnyDesk App. 109  RVA narrated that on December 2021, he gave
 > Act of 2012], Republic Act No. 10173 § 29 (2012).
 > 106 ACN v. DT, NPC 18 -109, 01 June 2021, available at https://www.privacy.gov.ph/wp -
 > content/uploads/2022/01/Decision -NPC -18 -109 -ACN -v. -DT.pdf (20 October 2022).
-> 107 Consolidated Fact -Finding Report , Complaints and Investigation Division, 05 April 2022, at 5, in In re: Commission on
+> 107 Consolidated Fact-Finding Report , Complaints and Investigation Division, 05 April 2022, at 5, in In re: Commission on
 > Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS
 > 22 -008 (NPC 2022).
 > 108 Id. at 21.
@@ -1234,8 +1212,6 @@ NPC SS 22 -001 and NPC SS 22 -008
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 access to his computer using the AnyDesk App through the internet
 
@@ -1302,7 +1278,7 @@ recommended for prosecution to the DOJ.
 > 110 Id.
 > 111 Id.
 > 112 Id. at 21.
-> 113 Consolidated Fact -Finding Report , Complaints and Investigation Division, Annex S at 5, 05 April 2022, in In re:
+> 113 Consolidated Fact-Finding Report , Complaints and Investigation Division, Annex S at 5, 05 April 2022, in In re:
 > Commission on Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -
 > 001 and NPC SS 22 -008 (NPC 2022).
 
@@ -1312,15 +1288,13 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 II.  COMELEC and Smartmatic are not liable under Section 30
 
 (Concealment of Security Breaches Involving Sensitive
 
 Personal Information ) of the DPA.
 
-As previously discussed , the Consolidated Fact -Finding Report
+As previously discussed , the Consolidated Fact-Finding Report
 
 serves as the Complaint in sua sponte investigations , with the CID as
 
@@ -1375,7 +1349,7 @@ Commission; and
 the Commission. 117
 
 > 114 See NPC 2021 Rules of Procedure, rule X, § 5 -6.
-> 115 Consolidated Fact -Finding Report , Complaints and Investigation Division, 05 April 2022, at 10 -11, in In re:
+> 115 Consolidated Fact-Finding Report , Complaints and Investigation Division, 05 April 2022, at 10 -11, in In re:
 > Commission on Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -
 > 001 and NPC SS 22 -008 (NPC 2022).
 > 116 Data Privacy Act of 2012, § 30.
@@ -1386,8 +1360,6 @@ NPC SS 22 -001 and NPC SS 22 -008
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Although Section 30 of the DPA penalizes the concealment or failure
 
@@ -1467,8 +1439,6 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 B.  There is reason to believe that the information may have
 
 been acquired by an unauthorized person; and
@@ -1534,7 +1504,7 @@ provided for by VMSI ,“ 123  the manpower agency that employed RVA
 > 119 National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16 -03],
 > §11 (15 December 2016).
 > 120 NPC Circ. No. 16 -03, §11 .
-> 121 Consolidated Fact -Finding Report , Complaints and Investigation Division, 05 April 2022, at 11, in In re: Commission
+> 121 Consolidated Fact-Finding Report , Complaints and Investigation Division, 05 April 2022, at 11, in In re: Commission
 > on Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC
 > SS 22 -008 (NPC 2022).
 > 122 Id.
@@ -1545,8 +1515,6 @@ NPC SS 22 -001 and NPC SS 22 -008
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 to perform site surveys. 124  Aside from the name and signature alleged
 
@@ -1619,8 +1587,6 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 and the specific nature of the breach . In this case, a data subject’s
 
 name and signature without other pieces of information that
@@ -1682,7 +1648,7 @@ may be inaccurate and outdated . Taken together with the fact that the
 personal information involved is neither sensitive personal
 
 > 126 Data Privacy Act of 2012 ,§ 4.
-> 127 Consolidated Fact -Finding Report , Complaints and Investigation Division, 05 April 2022, at 18, in In re: Commission
+> 127 Consolidated Fact-Finding Report , Complaints and Investigation Division, 05 April 2022, at 18, in In re: Commission
 > on Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC
 > SS 22 -008 (NPC 2022).
 
@@ -1691,8 +1657,6 @@ NPC SS 22 -001 and NPC SS 22 -008
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 information nor information that enables identity fraud, the
 
@@ -1774,8 +1738,6 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 ten (10) Facebook profiles. From the ten (10) selected, nine (9)
 
 individuals matched details with respect to their name and city
@@ -1853,8 +1815,6 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 other in the course of the proceedings, depending on the
 
 exigencies of the case. 131
@@ -1922,8 +1882,7 @@ authenticity of CID’s evidence.
 > 131 2019 AMENDMENT TO THE 1989 REVISED RULES ON EVIDENCE , A.M. No. 19 -08 -15 -SC, Rule 131, §1 (1 May 2020). Emphasis
 > supplied.
 > 132 Government Service Insurance System v. Prudential Guarantee and Assurance, Inc., Development Bank of the
-> Philippines and Land Bank of the Philippines, G.R. No. 165585, 20 November 2013.
-> 133 Consolidated Fact -Finding Report , Complaints and Investigation Division, 05 April 2022, at 11 and Annex F ,in In re:
+> 133 Consolidated Fact-Finding Report , Complaints and Investigation Division, 05 April 2022, at 11 and Annex F ,in In re:
 > Commission on Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -
 > 001 and NPC SS 22 -008 (NPC 2022);
 
@@ -1932,8 +1891,6 @@ NPC SS 22 -001 and NPC SS 22 -008
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Smartmatic argued that the CID’s evidence were not properly
 
@@ -2009,8 +1966,6 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 validity of the documents from an anonymous criminal group
 
 wholesale. 134
@@ -2035,7 +1990,7 @@ The COMELEC assert ed that the CID found that there was no breach
 
 in COMELEC’s servers or system .136  The COMELEC point ed to the
 
-CID’s Consolidated Fact -Finding Repo rt as basis:
+CID’s Consolidated Fact-Finding Repo rt as basis:
 
 2.  Whether there was a hack or breach of COMELEC
 
@@ -2074,7 +2029,7 @@ overseas absentee voters list:
 > 134 Smartmatic Group of Companies Comment, 22 June 2022, at 7 -8, in In re: Commission on Elections, Smartmatic Group
 > of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS 22 -008 (NPC 2022).
 > 135 Id. at 7 -8.
-> 136 Consolidated Fact -Finding Report , Complaints and Investigation Division, 05 April 2022, at 12, in In re: Commission on
+> 136 Consolidated Fact-Finding Report , Complaints and Investigation Division, 05 April 2022, at 12, in In re: Commission on
 > Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS
 > 22 -008 (NPC 2022).
 > 137 Id. Emphasis supplied.
@@ -2085,8 +2040,6 @@ NPC SS 22 -001 and NPC SS 22 -008
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 3.  […] In this case, the CID significantly failed to
 
@@ -2157,7 +2110,7 @@ contractual or other reasonable means to provide a comparable
 > 139 Commission on Elections Comment, Office of the Solicitor General, 22 July 2022, at 4, in In re: Commission on
 > Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC SS
 > 22 -008 (NPC 2022). Emphasis supplied.
-> 140 Consolidated Fact -Finding Report, Complaints and Investigation Division, 05 April 2022, at 20 -21, in In re: Commission
+> 140 Consolidated Fact-Finding Report, Complaints and Investigation Division, 05 April 2022, at 20 -21, in In re: Commission
 > on Elections, Smartmatic Group of Companies, RVA ,WS , and Other John Does and Jane Does, NPC SS 22 -001 and NPC
 > SS 22 -008 (NPC 2022).
 
@@ -2166,8 +2119,6 @@ NPC SS 22 -001 and NPC SS 22 -008
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 level of protection while the information are being processed by
 
@@ -2245,8 +2196,6 @@ In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 there is no security measure that is 100% effective, this becomes all
 
 the more true when there is employee malfeasance involved.
@@ -2308,8 +2257,6 @@ I CONCUR: NPC SS 22 -001 and NPC SS 22 -008
 In re: Commission on Elections, Smartmatic Group of Companies,
 
 RVA , WS , and Other John Does and Jane Does
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Sgd.
 

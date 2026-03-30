@@ -1,24 +1,25 @@
 ---
 title: "Model Contractual Clauses for Cross-Border Transfers of Personal Data (Advisory No. 2024-01)"
-description: "WHEREAS, Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote innovation and growth. The..."
+description: "Provides guidance on model contractual clauses available for cross-border transfers of personal data between jurisdictions, including ASEAN and EU frameworks."
 aliases:
   - "Advisory No. 2024-01"
   - "advisory no. 2024-01"
   - "model contractual clauses for cross-border transfers of personal data"
   - "npc advisory no. 2024-01"
 tags:
-  - "issuance"
-  - "topic/cross-border-transfers"
-  - "type/advisory"
-  - "year/2024"
+  - issuance
+  - topic/cross-border-transfers
+  - type/advisory
+  - year/2024
 draft: false
+date: '2024-05-30'
 ---
 
 ## Issuance Text
 
 **Advisory No. 2024-01**
 
-                            TRANSFERS OF PERSONAL DATA
+   TRANSFERS OF PERSONAL DATA
 
 WHEREAS, [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote innovation and growth. The State also recognizes its inherent obligation to ensure that personal information in information and communications systems in the government and in the private sector are secured and protected;
 
@@ -44,16 +45,16 @@ SECTION 2. Definition of Terms. — The terms used in the [[laws/data-privacy-ac
 
 SECTION 3. Model Contractual Clauses (MCCs). — MCCs are terms and conditions that PICs and PIPs may include in binding legal agreements that govern cross-border transfers of personal data. MCCs do not preclude PICs and PIPs from further negotiating legal agreements.
 
-    A. The GPA GFSWG published the Comparative Tables of Contractual Clauses
+   A. The GPA GFSWG published the Comparative Tables of Contractual Clauses
        document (Document).
 
-         1. The Document provides an overview of select MCCs and serves as a comparative
+   1. The Document provides an overview of select MCCs and serves as a comparative
             guide for PICs and PIPs on these MCCs for cross-border transfers of personal data.
 
-         2. The Document provides a comparative analysis of the following MCCs for cross-
+   2. The Document provides a comparative analysis of the following MCCs for cross-
             border transfers of personal data:
 
-                i.   Model Contractual Clauses of the Association of Southeast Asian Nations
+   i.   Model Contractual Clauses of the Association of Southeast Asian Nations
                      (ASEAN MCCs);
                ii.   Standard Contractual Clauses of the Council of Europe (CoE SCCs);
               iii.   Standard Contractual Clauses of the European Commission (EU SCCs);
@@ -66,33 +67,33 @@ SECTION 3. Model Contractual Clauses (MCCs). — MCCs are terms and conditions t
              vii.    International Data Transfer Agreements of the Information Commissioner’s
                      Office in the United Kingdom (UK IDTA).
 
-         3. The Document, which is composed of two parts, is available on the GPA website
+   3. The Document, which is composed of two parts, is available on the GPA website
             through the following links:
 
-                i. Contractual Clauses for transfers from Controllers to Controllers;1 and
+   i. Contractual Clauses for transfers from Controllers to Controllers;1 and
                 ii. Contractual Clauses for transfers from Controllers to Processors.[^2]
 
 B, available at [https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.1-GPA-Annual-Working-Group-Report-](https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.1-GPA-Annual-Working-Group-Report-) Annex-B-Controller-to-Controller-clause-comparison-tables-tracked-changes.pdf (last accessed: 18 December 2023).
 
 C, available at [https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.2-GPA-Annual-Working-Group-Report-](https://globalprivacyassembly.org/wp-content/uploads/2023/10/1.2-GPA-Annual-Working-Group-Report-) Annex-C-Controller-to-Processor-clause-comparison-tables-tracked-changes.pdf (last accessed: 18 December 2023).
 
-    B. The ASEAN and the European Commission published a Joint Guide to ASEAN MCCs and EU SCCs (Joint Guide).
+   B. The ASEAN and the European Commission published a Joint Guide to ASEAN MCCs and EU SCCs (Joint Guide).
 
-         1. The Joint Guide provides an overview and comparative analysis of the ASEAN MCCs and EU SCCs, plus best practices to operationalize safeguards for transfers from ASEAN to EU, from EU to ASEAN or between EU and ASEAN, and within ASEAN.
+   1. The Joint Guide provides an overview and comparative analysis of the ASEAN MCCs and EU SCCs, plus best practices to operationalize safeguards for transfers from ASEAN to EU, from EU to ASEAN or between EU and ASEAN, and within ASEAN.
 
-         2. The Joint Guide is available on the ASEAN website through this link:
+   2. The Joint Guide is available on the ASEAN website through this link:
 
-                i.   Joint Guide to ASEAN MCCs and EU SCCs.[^3]
+   i.   Joint Guide to ASEAN MCCs and EU SCCs.[^3]
 
 **SECTION 6.** ***Voluntary adoption.*** This guidance is intended for voluntary adoption and does not impose any additional rights or obligations.
 
-    A. The NPC does not require contractual parties to adopt the use of MCCs. It remains the
+   A. The NPC does not require contractual parties to adopt the use of MCCs. It remains the
      PIC and PIP’s obligation to refer to the MCCs and determine for themselves whether
      applicable laws may impose additional obligations on the parties. Nevertheless, the
      use of MCCs may aid PICs in upholding the accountability principle in cross-border
      transfers of personal data.
 
-    B. The NPC will not accept any requests for review of agreements or contracts to
+   B. The NPC will not accept any requests for review of agreements or contracts to
      determine conformity with any model contractual clauses.
 
 **SECTION 7.** ***Effects.*** The Advisory does not amend the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or other relevant NPC issuances, and shall neither preclude, limit, nor constrain the Commission’s exercise of its mandate.
@@ -101,17 +102,15 @@ SECTION 8. Interpretation. — Any doubt in the interpretation of any provision 
 
 Approved:
 
-                                                   SGD.
+   SGD.
                                          JOHN HENRY D. NAGA
                                            Privacy Commissioner
 
-                   SGD.                                                        SGD.
+   SGD.                                                        SGD.
       LEANDRO ANGELO Y. AGUIRRE                                       NERISSA N. DE JESUS
         Deputy Privacy Commissioner                                 Deputy Privacy Commissioner
 
 available at [https://asean.org/wp-content/uploads/2024/02/Joint-Guide-to-ASEAN-Model-Contractual-Clauses-and-EU-Standard-Contractual-Clauses.pdf](https://asean.org/wp-content/uploads/2024/02/Joint-Guide-to-ASEAN-Model-Contractual-Clauses-and-EU-Standard-Contractual-Clauses.pdf) (last accessed: 07 February 2024).
-
-## Footnotes
 
 [^1]: Global Privacy Assembly, Working Group Reports, Global Frameworks and Standards WG Report GFSWG 2023- Annex
 [^2]: Global Privacy Assembly, Working Group Reports, Global Frameworks and Standards WG Report GFSWG 2023- Annex

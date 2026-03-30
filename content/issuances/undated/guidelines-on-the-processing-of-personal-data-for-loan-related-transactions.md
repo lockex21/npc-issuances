@@ -1,16 +1,18 @@
 ---
 title: "Guidelines on the Processing of Personal Data for Loan-Related Transactions (Circular No. 20-01)"
-description: "SUBJECT : GUIDELINES ON THE PROCESSING OF PERSONAL DATA FOR LOAN-RELATED TRANSACTIONS"
+description: 'SUBJECT : GUIDELINES ON THE PROCESSING OF PERSONAL DATA FOR LOAN-RELATED
+  TRANSACTIONS'
 aliases:
-  - "Circular No. 20-01"
-  - "circular no. 20-01"
-  - "guidelines on the processing of personal data for loan-related transactions"
-  - "npc circular no. 20-01"
+- Circular No. 20-01
+- circular no. 20-01
+- guidelines on the processing of personal data for loan-related transactions
+- npc circular no. 20-01
 tags:
-  - "issuance"
-  - "type/circular"
-  - "year/undated"
+- issuance
+- type/circular
+- year/2020
 draft: false
+date: '2020-09-14'
 ---
 
 ## Issuance Text
@@ -138,8 +140,6 @@ Privacy Commissioner
 Sgd. Sgd.
 LEANDRO ANGELO Y. AGUIRRE JOHN HENRY D. NAGA
 Deputy Privacy Commissioner Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: "Loan processing activities" shall refer to any undertaking by lending or financing companies and other persons acting as such, for purposes of soliciting, evaluating, granting and maintaining a loan facility, including determination of creditworthiness. This shall include among others, activities to enforce Know-Your-Customer (KYC) policies, loan solicitation, submission of loan application and required documents by the borrower, loan servicing, repayment of the loan, debt collection, and remedial measures undertaken by the LCs, FCs, other persons acting as such, and their authorized representatives.
 

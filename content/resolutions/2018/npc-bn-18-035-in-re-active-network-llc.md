@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-035: In Re: Active Network LLC"
-description: "NPC BN 18-035: In Re: Active Network LLC"
+title: 'NPC BN 18-035: In Re: Active Network LLC'
+description: Breach notification resolution on Active Network LLC's compliance with
+  breach notification requirements after unauthorized access.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2018
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-035"'
+- '"npc bn 18-035"'
+- '"In Re: Active Network LLC"'
+- '"in re: active network llc"'
+date: '2018-03-19'
 ---
 
 ## Source

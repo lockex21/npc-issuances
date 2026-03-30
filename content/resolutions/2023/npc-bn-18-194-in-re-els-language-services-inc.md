@@ -1,11 +1,17 @@
 ---
 title: "NPC BN 18-194: In re: ELS Language Services, Inc"
-description: "5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307"
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC BN 18-194"
+  - "npc bn 18-194"
+  - "In re: ELS Language Services, Inc"
+  - "in re: els language services, inc"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-08-17"
 draft: false
 ---
 
@@ -23,7 +29,6 @@ draft: false
 - Security Incident Management Policy
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 IN RE: ELS LANGUAGE SERVICES , INC.
 
@@ -77,8 +82,6 @@ Compromise fraud schemes. 4
 NPC BN 18 -194 NPC BN 18 -194
 
 In re: ELS La nguage Services , Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 ELS alleged that the incident probably occurred between April 2017
 
@@ -148,8 +151,6 @@ NPC BN 18 -194
 
 In re: ELS La nguage Services , Inc.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 On 13 October 20 20 , t he Commission , through its Complaints and
 
 Investigation Division, ordered ELS to submit a Full Breach Report,
@@ -217,8 +218,6 @@ Discussion
 NPC BN 18 -194
 
 In re: ELS La nguage Services , Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 The Commission finds that  ELS  has sufficiently complied with the
 
@@ -299,8 +298,6 @@ customers .16
 NPC BN 18 -194
 
 In re: ELS La nguage Services , Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On this note , the Commission emphasize s the importance of ensuring
 
@@ -383,8 +380,6 @@ NPC BN 18 -194
 
 In re: ELS La nguage Services , Inc.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 technical measures intended for the protection of personal
 
 information against any accidental or unlawful destruction,
@@ -455,8 +450,6 @@ NPC BN 18 -194
 
 In re: ELS La nguage Services , Inc.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 subjects and it has implemented reasonable and appropriate security
 
 measures to prevent a recurrence of the incident .
@@ -473,21 +466,15 @@ City of Pasay, Philippines.
 
 17 August 2023.
 
-Sgd.
-
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
-
-Sgd.
 
 NERISSA N. DE JESUS
 
@@ -506,8 +493,6 @@ MML
 Attorney -In -Fact for ELS Language Services , Inc. NPC BN 18 -194
 
 In re: ELS La nguage Services , Inc.
-
-5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 COMPL AINTS AND INVESTIGATION DIVISION
 

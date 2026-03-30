@@ -2,16 +2,17 @@
 title: "Guidelines on Consent (Circular No. 2023-04)"
 description: "NPC Circular providing comprehensive guidelines on the use of consent as a lawful basis for processing personal data under the Data Privacy Act of 2012, covering the elements of valid consent, how it must be obtained and managed, and rules for specific processing activities."
 aliases:
-  - "Circular No. 2023-04"
-  - "circular no. 2023-04"
-  - "guidelines on consent"
-  - "npc circular no. 2023-04"
+- Circular No. 2023-04
+- circular no. 2023-04
+- guidelines on consent
+- npc circular no. 2023-04
 tags:
-  - "issuance"
-  - "topic/consent"
-  - "type/circular"
-  - "year/2023"
+- issuance
+- topic/consent
+- type/circular
+- year/2023
 draft: false
+date: '2023-11-07'
 ---
 
 ## Issuance Text

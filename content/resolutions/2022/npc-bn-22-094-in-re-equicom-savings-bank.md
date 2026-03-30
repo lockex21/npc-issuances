@@ -1,13 +1,21 @@
 ---
-title: "NPC BN 22-094: In re: Equicom Savings Bank"
-description: "In re: Equicom Savings Bank , NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: 'In re: Equicom Savings Bank , NPC BN 22 -094, Preliminary Breach Notification
+  Form, Data Breach'
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC BN 22-094: In re: Equicom Savings Bank'
+aliases:
+- NPC BN 22-094
+- npc bn 22-094
+date: '2022-07-14'
 ---
+
+
+
 
 ## Source
 - Reference: NPC BN 22-094
@@ -23,13 +31,11 @@ draft: false
 - Postponement of notification
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 IN RE: EQUICOM SAVINGS BANK
 
 x----------------------------------------------------x
 
-NAGA , P.C.;
+NAGA, P.C.;
 
 Before the Commission is a request for postponement from the
 
@@ -41,7 +47,7 @@ unauthorized transfer of funds from the bank accounts of Equicom’s
 
 depositors.
 
-Facts
+### Facts
 
 On 01 July 2022, Equicom submitted to the Commission an initial
 
@@ -67,7 +73,7 @@ creditin g fifty thousand pesos (Php50, 000.00) to each. 4
 
 > 1
 
-In re: Equicom Savings Bank , NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
+In re: Equicom Savings Bank, NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
 
 Notification Management System (DBNMS), Date of Notification of Equicom Savings Bank (01
 
@@ -85,11 +91,7 @@ Id.
 
 Id.
 
-NPC BN 22 -094NPC BN 22 -094
-
 In re : Equicom Savings Bank
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasa y City, Metro Manila 1307
 
 At 11:00 AM, an internet banking transaction report was generated to
 
@@ -141,7 +143,7 @@ Fifty -Six pesos (Php3,077,456.00) .14
 
 > 5
 
-In re: Equicom Savings Bank , NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
+In re: Equicom Savings Bank, NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
 
 Notification Management System (DBNMS), 1.b Chronology of Equicom Savings Bank (01 July
 
@@ -161,7 +163,7 @@ Id.
 
 > 9
 
-In re: Equicom Savings Bank , NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
+In re: Equicom Savings Bank, NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
 
 Notification Management System (DBNMS), 1.b Chronology of Equicom Savings Bank (01 July
 
@@ -173,7 +175,7 @@ Id., 1.a How breach occurred + DPS vulnerability.
 
 > 11
 
-In re: Equicom Savings Bank , NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
+In re: Equicom Savings Bank, NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
 
 Notification Management System (DBNMS), Brief Summary of Equicom Savings Bank (01 July
 
@@ -192,8 +194,6 @@ Id., 2.a SPI.
 Id., 1.c Number of DS / Records .NPC BN 22 -094
 
 In re : Equicom Savings Bank
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasa y City, Metro Manila 1307
 
 In terms of the measures to address the breach, Equicom stated that it
 
@@ -225,7 +225,7 @@ affected data subjects . It stated that the reason for the request is
 
 “currently undergoing evaluation”. 20
 
-Discussion
+### Discussion
 
 Th e Commission resolves to den y the request for postponement of
 
@@ -243,7 +243,7 @@ is necessary in order to protect them from the risk of serious harm. As
 
 > 15
 
-In re: Equicom Savings Bank , NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
+In re: Equicom Savings Bank, NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
 
 Notification Management System (DBNMS), 3.a Measures to address the breach of Equicom
 
@@ -274,8 +274,6 @@ Equicom Savings Bank (01 July 2022).
 Id. Type of Request. NPC BN 22 -094
 
 In re : Equicom Savings Bank
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasa y City, Metro Manila 1307
 
 provided in Rule V, Section 11 of NPC Circular No. 16 -03 (Personal
 
@@ -345,7 +343,7 @@ Id.
 
 > 23
 
-In re: Equicom Savings Bank , NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
+In re: Equicom Savings Bank, NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
 
 Notification Management System (DBNMS), 2.b Other info that may enable identity fraud (01
 
@@ -357,13 +355,11 @@ Id. 1.b. Chronology NPC BN 22 -094
 
 In re : Equicom Savings Bank
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasa y City, Metro Manila 1307
-
 Consequently, the unauthorized acquisition will give rise to a real risk
 
 of serious harm to the nineteen (19) clients of Equicom whose bank
 
-accounts are compromised. Moreover , b ased on the DBNMS Report
+accounts are compromised. Moreover, b ased on the DBNMS Report
 
 submitted, the total amount subject of the unauthorized transfer of
 
@@ -415,18 +411,14 @@ II. The postponement of notification
 
 is not wa rranted by mere “investigation.”
 
-> 25 In re: Equicom Savings Bank , NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
+> 25 In re: Equicom Savings Bank, NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
 > Notification Management System (DBNMS), 1.c Number of DS / Records of Equicom Savings
 > Bank (01 July 2022).
 > 26 Id. 3.d Actions to inform data subjects
 > 27 NPC Circular No. 16 -03, Rule V, § 18( A).
 > 28 NPC Circular No. 16 -03, Rule V, § 18(B).
 
-NPC BN 22 -094
-
 In re : Equicom Savings Bank
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasa y City, Metro Manila 1307
 
 Equicom’s justification for postponement is anchored on its claim that
 
@@ -440,7 +432,7 @@ Commission “may authorize the postponement of notification if such
 
 notification may hinder the progress of a criminal investigation
 
-related to a serious breach , taking into account circumstances
+related to a serious breach, taking into account circumstances
 
 provided in Section 13 of this Circular, and other risks posed by the
 
@@ -462,7 +454,7 @@ III. Equicom as a PIC must submit its Full Breach Report
 
 In its initial report, Equicom stated that it undertook measures to
 
-address the breach including correctional actions, remediation , and
+address the breach including correctional actions, remediation, and
 
 preventi ve steps that would mitigate and remediate the incident .32
 
@@ -482,7 +474,7 @@ it undertook to address the breach as stated in its initial report .
 
 > 29
 
-In re: Equicom Savings Bank , NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
+In re: Equicom Savings Bank, NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
 
 Notification Management System (DBNMS), Justification for postponement of Equicom Savings
 
@@ -490,11 +482,11 @@ Bank (01 July 2022).
 
 > 30
 
-NPC Circular No. 16 -03 , Rule V, § 18(B).
+NPC Circular No. 16 -03, Rule V, § 18(B).
 
 > 31
 
-In re: Equicom Savings Bank , NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
+In re: Equicom Savings Bank, NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
 
 Notification Management System (DBNMS), Justification for postponement of Equicom Savings
 
@@ -502,7 +494,7 @@ Bank (01 July 2022).
 
 > 32
 
-In re: Equicom Savings Bank , NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
+In re: Equicom Savings Bank, NPC BN 22 -094, Preliminary Breach Notification Form, Data Breach
 
 Notification Management System (DBNMS), ¶ ¶ of Equicom Savings Bank (01 July 2022).
 
@@ -512,17 +504,15 @@ NPC Circular 16 -03, Rule IV, § 9. NPC BN 22 -094
 
 In re : Equicom Savings Bank
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasa y City, Metro Manila 1307
-
 WHEREFORE, premises considered, the Commission resolves that the
 
 request to postpone the notification of the affected data subjects filed
 
 by Equicom Savings Bank (Equicom) is hereby DENIED.
 
-Equicom is hereby ORDERED , within fifteen (15) days from receipt of
+Equicom is hereby ORDERED, within fifteen (15) days from receipt of
 
-this Resolution , to comply with the following:
+this Resolution, to comply with the following:
 
 1. NOTIFY the affected data subjects, pursuant to Section 18 of the
 
@@ -538,7 +528,7 @@ relation to Section 9 of NPC Circular No. 16 -03; and
 
 3. SUBMIT proof of security measures .
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines .
 
@@ -563,8 +553,6 @@ SGD.
 DUG CHRISTOPHER B. MAH NPC BN 22 -094
 
 In re : Equicom Savings Bank
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasa y City, Metro Manila 1307
 
 Deputy Privacy Commissioner
 

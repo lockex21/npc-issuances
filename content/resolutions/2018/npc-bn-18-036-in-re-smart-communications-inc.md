@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-036: In re: Smart Communications, Inc."
-description: "NPC BN 18-036: In re: Smart Communications, Inc."
+title: 'NPC BN 18-036: In re: Smart Communications, Inc.'
+description: Breach notification resolution addressing Smart Communications Inc. data
+  breach notification management.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2024
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-036"'
+- '"npc bn 18-036"'
+- '"In re: Smart Communications, Inc."'
+- '"in re: smart communications, inc."'
+date: '2024-10-17'
 ---
 
 ## Source

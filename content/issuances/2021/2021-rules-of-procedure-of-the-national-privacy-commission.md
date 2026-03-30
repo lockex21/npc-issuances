@@ -1,17 +1,18 @@
 ---
-title: "2021 Rules of Procedure of the National Privacy Commission (Circular No. 2021-01)"
-description: "SECTION 1. Title. – These Rules shall be known as the “2021 NPC Rules of Procedure”."
 aliases:
-  - "2021 rules of procedure of the national privacy commission"
-  - "2021 rules of procedure of the npc"
-  - "Circular No. 2021-01"
-  - "circular no. 2021-01"
-  - "npc circular no. 2021-01"
-tags:
-  - "issuance"
-  - "type/circular"
-  - "year/2021"
+- 2021 rules of procedure of the national privacy commission
+- 2021 rules of procedure of the npc
+- Circular No. 2021-01
+- circular no. 2021-01
+- npc circular no. 2021-01
+date: '2021-01-28'
+description: "Prescribes the 2021 Rules of Procedure of the National Privacy Commission governing complaints, investigations, and proceedings before the NPC."
 draft: false
+tags:
+- issuance
+- type/circular
+- year/2021
+title: "2021 Rules of Procedure of the National Privacy Commission (Circular No. 2021-01)"
 ---
 
 
@@ -260,20 +261,20 @@ In case the respondent has a known electronic mail address, service by the Commi
 **SECTION 6.** ***Affirmative defenses.***  The respondent, in lieu of a motion of dismiss, may
 raise in his/her comment affirmative defenses such as but not limited to:
 
-      (1) The NPC has no jurisdiction over the subject matter;
+   (1) The NPC has no jurisdiction over the subject matter;
 
-      (2) The action is barred by a prior judgment;
+   (2) The action is barred by a prior judgment;
 
-      (3) There is another action pending between the same parties for the same cause;
+   (3) There is another action pending between the same parties for the same cause;
 
-      (4) The complainant has no legal capacity to sue;
+   (4) The complainant has no legal capacity to sue;
 
-      (5) That the pleading asserting the claim states no cause of action or is found to be
+   (5) That the pleading asserting the claim states no cause of action or is found to be
       frivolous, vexatious or made in bad faith;
 
-      (6) The action has otherwise prescribed under the statute of limitations; or
+   (6) The action has otherwise prescribed under the statute of limitations; or
 
-      (7) That the claim or demand set forth in the complaint has been paid, waived,
+   (7) That the claim or demand set forth in the complaint has been paid, waived,
       abandoned or otherwise extinguished.
 
 **SECTION 7.** ***Authority of the investigating officer to rule on motions.***  The investigating
@@ -284,16 +285,16 @@ officer may directly rule on motions that do not fully dispose the case on the m
 **SECTION 1.** ***Order to confer for preliminary conference.***  No later than thirty (30)
 calendar days from the lapse of the reglementary period to file the comment, the investigating officer shall hold a preliminary conference to determine:
 
-       (1) whether alternative dispute resolution may be availed by the parties;
+   (1) whether alternative dispute resolution may be availed by the parties;
 
-       (2) whether discovery is reasonably likely to be sought in the proceeding;
+   (2) whether discovery is reasonably likely to be sought in the proceeding;
 
-       (3) simplification of issues;
+   (3) simplification of issues;
 
-       (4) possibility of obtaining stipulations or admissions of facts and of documents to
+   (4) possibility of obtaining stipulations or admissions of facts and of documents to
        avoid unnecessary proof; or
 
-       (5) such other matters as may aid in the prompt disposition of the action.
+   (5) such other matters as may aid in the prompt disposition of the action.
 
 **SECTION 2.** ***Referral to alternative dispute resolution or mediation.***  If alternative
 dispute resolution is availed by the parties, the investigating officer shall refer the case to the mediation officer, in which case Rule VI of these Rules shall govern.
@@ -657,7 +658,7 @@ in a newspaper of general circulation.
 
 Approved:
 
-                                 (Sgd.)
+   (Sgd.)
                       RAYMUND ENRIQUEZ LIBORO
                      Privacy Commissioner and Chairman
 

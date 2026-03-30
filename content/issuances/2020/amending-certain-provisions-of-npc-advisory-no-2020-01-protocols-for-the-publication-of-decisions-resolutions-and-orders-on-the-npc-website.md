@@ -1,18 +1,18 @@
 ---
 title: "Amending Certain Provisions of NPC Advisory No. 2020-01: Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website (Advisory No. 2020-01-A)"
-description: "SUBJECT: AMENDING CERTAIN PROVISIONS OF NPC ADVISORY NO. 2020-01: PROTOCOLS FOR THE PUBLICATION OF DECISIONS, RESOLUTIONS AND ORDERS ON THE NPC WEBSITE"
+description: "Amends NPC Advisory No. 2020-01 to clarify publication protocols for NPC decisions, resolutions, and orders on the NPC website."
 aliases:
-  - "Advisory No. 2020-01-A"
-  - "advisory 2020-01-a"
-  - "Advisory No. 2020-01"
-  - "advisory no. 2020-01"
-  - "amending certain provisions of npc advisory no. 2020-01: protocols for the publication of decisions, resolutions and orders on the npc website"
-  - "npc advisory no. 2020-01"
+- Advisory No. 2020-01-A
+- advisory no. 2020-01-a
+- Amendment to Advisory 2020-01
+- amendment to advisory 2020-01
+- NPC Advisory No. 2020-01-A
+- npc advisory no. 2020-01-a
 tags:
-  - "issuance"
-  - "type/advisory"
-  - "year/2020"
-date: "2020-11-20"
+- issuance
+- type/advisory
+- year/2020
+date: '2020-11-20'
 draft: false
 ---
 
@@ -40,14 +40,13 @@ draft: false
 
 **SECTION 4.** ***Effectivity.*** This guideline shall be effective immediately upon the approval of the Commission.
 
-(SGD.) RAYMUND ENRIQUEZ LIBORO
-Privacy Commissioner
+   Sgd.
+                                  RAYMUND ENRIQUEZ LIBORO
+                                     Privacy Commissioner
 
-(SGD.) JOHN HENRY DU NAGA
-Deputy Privacy Commissioner
-
-(SGD.) LEANDRO ANGELO Y. AGUIRRE
-Deputy Privacy Commissioner
+   Sgd.                                                        Sgd.
+ JOHN HENRY DU NAGA                                         LEANDRO ANGELO Y. AGUIRRE
+     Deputy Privacy Commissioner                                 Deputy Privacy Commissioner
 
 ## Source And Notes
 

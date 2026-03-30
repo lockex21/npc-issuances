@@ -1,17 +1,27 @@
 ---
-title: "Advisory-Opinion-No.-2023-009"
-description: "status as a Specialized Agency of the UN System which subscribes to the privileges and immunities under public international law and relevant treaties, including the immunity from all legal processes. The FAO posits that since the DSA is grounded on..."
+title: NPC Advisory Opinion No. 2023-009 — Installation, Operation and Maintenance
+  of Closed Circuit Television (cctv) and Electronic Security Systems by a Private
+  Security Agency
+description: 'status as a Specialized Agency of the UN System which subscribes to
+  the privileges and immunities under public international law and relevant treaties,
+  including the immunity from '
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+- issuance
+- type/advisory-opinion
+- year/2023
 draft: false
 ---
+
+Re: INSTALLATION, OPERATION AND MAINTENANCE OF CLOSED CIRCUIT TELEVISION (CCTV) AND ELECTRONIC SECURITY SYSTEMS BY A PRIVATE SECURITY AGENCY
+
+Dear [Redacted],
 
 ## Source
 - Reference: Advisory Opinion No. 2023-009
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Advisory-Opinion-No.-2023-009.pdf
 - OCR used during extraction: no
+
+### Discussion
 
 ## Text
 status as a Specialized Agency of the UN System which subscribes to the privileges and
@@ -40,7 +50,7 @@ document.
 
 Considering the opposing position of the parties, you seek guidance on the following:
 
-    1. Whether the extra-territorial application of the DPA has material application to the
+   1. Whether the extra-territorial application of the DPA has material application to the
        situation at hand;
     2. Whether the execution of a DSA or an Undertaking citing data privacy laws of the
        Philippines shall be tantamount to waiver of immunities and privileges of the FAO;
@@ -50,31 +60,31 @@ Considering the opposing position of the parties, you seek guidance on the follo
        any data privacy laws of the Philippines, shall be sufficient compliance for data
        protection as required by the DPA.
 
-Scope of the DPA; extraterritorial application
+### Scope of the Dpa; Extraterritorial Application
 
 Section 6 of the DPA provides:
 
-      SEC. 6. Extraterritorial Application. – This Act applies to an act done or practice
+   SEC. 6. Extraterritorial Application. – This Act applies to an act done or practice
       engaged in and outside of the Philippines by an entity if:
 
-      (a) The act, practice or processing relates to personal information about a
+   (a) The act, practice or processing relates to personal information about a
       Philippine citizen or a resident;
 
-      (b) The entity has a link with the Philippines, and the entity is processing
+   (b) The entity has a link with the Philippines, and the entity is processing
       personal information in the Philippines or even if the processing is outside the
       Philippines as long as it is about Philippine citizens or residents such as, but not
       limited to, the following:
 
-    th
+   th
 
-           (1) A contract is entered in the Philippines;
+   (1) A contract is entered in the Philippines;
            (2) A juridical entity unincorporated in the Philippines but has central
                management and control in the country; and
            (3) An entity that has a branch, agency, office or subsidiary in the
                Philippines and the parent or affiliate of the Philippine entity has access
                to personal information; and
 
-       (c) The entity has other links in the Philippines such as, but not limited to:
+   (c) The entity has other links in the Philippines such as, but not limited to:
            (1) The entity carries on business in the Philippines; and
            (2) The personal information was collected or held by an entity in the
                Philippines.
@@ -92,8 +102,7 @@ of the law of the territorial sovereign or from ensuing legal liability; it is, 
 from the exercise of territorial jurisdiction.” As such, the provisions of the DPA shall apply to
 the proposed sharing of the personal data between the DA and FAO.
 
-DSA not mandatory; compliance with the
-provisions of the DPA
+### Dsa Not Mandatory; Compliance with the Provisions of the DPA
 
 Under Section 21 (a) of the DPA, a personal information controller (PIC) is accountable for
 complying with the requirements of the law and shall use contractual or other reasonable
@@ -104,16 +113,15 @@ The NPC previously issued NPC Circular No. 2016-02 which makes it mandatory for
 government agencies to execute a Data Sharing Agreement when sharing personal data to a
 third party. This was superseded by NPC Circular No. 2020-03, 6 which provides:
 
-           SECTION 8. Data sharing agreement; key considerations. — Data sharing may be covered by
+   SECTION 8. Data sharing agreement; key considerations. — Data sharing may be covered by
            a data sharing agreement (DSA) or a similar document containing the terms and conditions
            of the sharing arrangement, including obligations to protect the personal data shared, the
            responsibilities of the parties, mechanisms through which data subjects may exercise their
            rights, among others.
 
-           The execution of a DSA is a sound recourse and demonstrates accountable personal data
+   The execution of a DSA is a sound recourse and demonstrates accountable personal data
            processing, as well as good faith in complying with the requirements of the DPA, its IRR, and
            issuances of the NPC. The NPC shall take this into account in case a complaint is filed
-
 
 3 United Nations, Convention on the Privileges and Immunities of the United Nations (February 13, 1946).
 4 Khosrow Minucher v. Court of Appeals, G.R. No. 142396, [February 11, 2003].
@@ -122,12 +130,12 @@ third party. This was superseded by NPC Circular No. 2020-03, 6 which provides:
 
 03] (23 December 2020).
 
-    th
+   th
 
-          pertaining to such data sharing and/or in the course of any investigation relating thereto, as
+   pertaining to such data sharing and/or in the course of any investigation relating thereto, as
           well as in the conduct of compliance checks.
 
-          (Underscoring supplied).
+   (Underscoring supplied).
 
 Thus, pursuant to NPC Circular No. 2020-03, the execution of a DSA is no longer mandatory
 but is considered as a best practice and a demonstration of accountability by the PIC in relation
@@ -168,19 +176,14 @@ to the interpretation of the DPA and data privacy matters. Since that issue rela
 interpretation of international laws and its territorial application, the NPC may not be the
 proper authority to render a determination thereon.
 
+### Adherence to Doctrine of Immunity; Recourse in Case of Violation by Specialized Agency
 
-Adherence to doctrine of immunity; recourse in
-case of violation by Specialized Agency
-
-
-
-
-    th
+   th
 
 In Lasco v. United Nations Revolving Fund for Natural Resources Exploration, 7 the Supreme Court
 held:
 
-          As a matter of state policy as expressed in the Constitution, the Philippine
+   As a matter of state policy as expressed in the Constitution, the Philippine
           Government adopts the generally accepted principles of international law.
           Being a member of the United Nations and a party to the Convention on the
           Privileges and Immunities of the Specialized Agencies of the United Nations,
@@ -202,7 +205,7 @@ party may not be sued or prosecuted.
 In any case, there still exists a recourse against an erring Specialized Agency. According to
 the Lasco case:
 
-          This is not to say that petitioners have no recourse. Section 31 of the
+   This is not to say that petitioners have no recourse. Section 31 of the
           Convention on the Privileges and Immunities of the Specialized Agencies of
           the United Nations states that "each specialized agency shall make a
           provision for appropriate modes of settlement of: (a) disputes arising out of
@@ -211,28 +214,27 @@ the Lasco case:
 
 Sections 29 and 30 of Article VIII of the Convention also provides:
 
-          SECTION 29. The United Nations shall make provisions for appropriate
+   SECTION 29. The United Nations shall make provisions for appropriate
           modes of settlement of:
 
-          (a) Disputes arising out of contracts or other disputes of a private law
+   (a) Disputes arising out of contracts or other disputes of a private law
           character to which the United Nations is a party;
 
-          (b) Disputes involving any official of the United Nations who by reason of
+   (b) Disputes involving any official of the United Nations who by reason of
           his official position enjoys immunity, if immunity has not been waived by
           the Secretary-General.
 
-          SECTION 30. All differences arising out of the interpretation or application
+   SECTION 30. All differences arising out of the interpretation or application
           of the present convention shall be referred to the International Court of
           Justice, unless in any case it is agreed by the parties to have recourse to
-
 
 7 Lasco v. United Nations Revolving Fund for Natural Resources Exploration, G.R. Nos. 109095-109107, [February
 
 23, 1995].
 
-    th
+   th
 
-          another mode of settlement. If a difference arises between the United
+   another mode of settlement. If a difference arises between the United
           Nations on the one hand and a Member on the other hand, a request shall be
           made for an advisory opinion on any legal question involved in accordance
           with Article 96 of the Charter and Article 65 of the Statute of the Court. The
@@ -245,15 +247,10 @@ the rights and obligations of the parties involved.
 
 Please be guided accordingly.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-
-
-
-    th
+   th

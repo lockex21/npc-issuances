@@ -1,25 +1,22 @@
 ---
-title: "NPC 19-002: In Re: PJ Lhuillier Incorporated"
-description: "Compliance, 18 June 2021, Proof of Implementation - Organizational , in In re: PJ Lhuillier, Inc. , NPC"
+title: "NPC BN 19-002: Resolution"
+description: "Resolution addressing PJ Lhuillier Incorporated ’s ( PJLI ) breach"
+aliases:
+  - "NPC BN 19-002"
+  - "npc bn 19-002"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2024"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2024
+  - npc-case
+date: "2024-05-16"
 draft: false
 ---
 
-## Source
-- Reference: NPC 19-002
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-19-002-2024.05.16-In-re-PJ-Lhuillier-Incorporated-Resolution.pdf
-- Source page: http://privacy.gov.ph/resolutions/
-- Issue date: May 16, 2024
-- Published on NPC site: Thu, 26 Sep 2024 03:54:29 GMT
-- Pages: 17
+## Source-Reference: NPC 19-002-Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-19-002-2024.05.16-In-re-PJ-Lhuillier-Incorporated-Resolution.pdf-Source page: http://privacy.gov.ph/resolutions/
+- Issue date: May 16, 2024-Published on NPC site: Thu, 26 Sep 2024 03:54:29 GMT-Pages: 17
 
-## Source Tags
-- Notification of Data Subjects
-- Technical Security Measures
+## Source Tags-Notification of Data Subjects-Technical Security Measures
 
 ## Resolution Text
 x----------------------------------------------------x
@@ -32,8 +29,7 @@ notification and management in compliance with NPC Circular 16 -03
 
 (Personal Data Breach Management).
 
-Facts
-
+### Facts
 On 18 January 2019, PJ LI reported a confidentiality breach involving
 
 its email marketing tool platform server. 1 PJLI stated that the server is
@@ -60,15 +56,7 @@ campaign job has been defined .”6 An Incident Response (IR)
 
 investigation subsequently identified a vulnerability in the web
 
-> 1Initial Report, 18 January 2019 ,at 1, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
-> 2Id.
-> 3Supporting Details June 2021 Updates for NPC, 18 June 2021 ,at 1, in In re: PJ Lhuillier, Inc. , NPC
 > BN 19 -002 (NPC 20 21 ).
-> 4Id.
-> 5Initial Report, 18 January 2019 ,at 1, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
-> 6Id.
-
-NPC BN 19 -002 NPC BN 19 -002
 
 > Page 2of 17
 
@@ -116,7 +104,7 @@ scans;
 
 On 23 January 2019, PJLI submitted a supplemental report with the
 
-subject, “Data Breach Notification - Email Marketing Tool Platform
+subject, “Data Breach Notification-Email Marketing Tool Platform
 
 Web App Report. ”13 In th e report, PJLI reiterated that the breach
 
@@ -130,17 +118,6 @@ gain access to, and subsequently download recipient mailing lists
 
 originally compiled for marketing email campaigns. 15
 
-> 7Id.
-> 8Id.
-> 9Id.
-> 10 Id.
-> 11 Initial Report, 18 January 2019 ,at 1, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
-> 12 Id .
-> 13 Supplemental Report ,23 January 2019, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
-> 14 Id .at 1.
-> 15 Id.
-
-NPC BN 19 -002
 
 PJLI reiterated that the investigation suggests that the compromised
 
@@ -218,12 +195,7 @@ relaying incident.
 
 January 15, 2019 Confirmation of unauthorized downloads .
 
-> 16 Id.
-> 17 Id.
-> 18 Compliance, 18 June 2021, Supporting Details June 2021 Updates for NPC , in In re: PJ Lhuillier, Inc. ,
 > NPC BN 19 -002 (NPC 20 21 ).
-> 19 Supplemental Report ,23 January 2019, at 1 -2, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC
-> 20 19 ). NPC BN 19 -002
 > Page 4of 17
 
 August 5, 2018
@@ -308,13 +280,6 @@ mitigate possible harm and limit the damage and distress to those
 
 affected by the incident by providing contact details for feedback or
 
-> 20 Id. at 2.
-> 21 Id.
-> 22 Id.
-> 23 Id.
-> 24 Id.
-
-NPC BN 19 -002
 
 inquiries and confirming that the incident was isolated to the email
 
@@ -378,14 +343,6 @@ f. Results of the vulnerability assessments/scans and penetration
 
 tests conducted by the Company; and
 
-> 25 Supplemental Report, 23 January 2019, at 2, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
-> 26 Id.
-> 27 Id. at 3.
-> 28 Id.
-> 29 Id.
-> 30 Order, 10 May 2021, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
-
-NPC BN 19 -002
 
 g. Network diagram/Topography at the time of the incident. 31
 
@@ -449,16 +406,6 @@ confirmation of breach. The incident was likewise reported to the
 
 National Privacy Commission.
 
-> 31 Id. at 2.
-> 32 Compliance, 18 June 2021, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
-> 33 Id. PJLI response to NPC 19 002 Received June 4 2021 .
-> 34 Id. IR011 -011019 Report .
-> 35 Id. 3rd Party Incident Review Report .
-> 36 Id.
-> 37 Technical Report, 30 June 2021, at 1, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
-> 38 Id.
-
-NPC BN 19 -002
 
 We value your patronage and respect the privacy of your
 
@@ -538,15 +485,6 @@ PJLI also hosted activities such as "Defend the Flag" competition s in
 
 order to improve the skills of its information security team and "Catch
 
-> 39 Compliance, 18 June 2021, Notification to Affected Data Subjects ,in In re: PJ Lhuillier, Inc. , NPC BN
-> 19 -002 (NPC 20 21 ).
-> 40 Id. IR011 -011019 Report .
-> 41 Id. Network Diagram During Time of Incident .
-> 42 Id. Proof of Implementation –Organizational .
-> 43 Id. Proof of Implementation –Technical .
-> 44 Id. Proof of Implementation –Organizational .
-
-NPC BN 19 -002
 
 the Phish Quiz/Test" which aims to educate employees about
 
@@ -592,81 +530,59 @@ In 2020, PJLI installed anti -exploit/ransomware software, 60 adding an
 
 extra layer of security by blocking attacker techniques, including new
 
-> 45
 
-Compliance, 18 June 2021, Proof of Implementation - Organizational , in In re: PJ Lhuillier, Inc. , NPC
+Compliance, 18 June 2021, Proof of Implementation-Organizational , in In re: PJ Lhuillier, Inc. , NPC
 
 BN 19 -002 (NPC 20 21 ).
 
-> 46
 
 Id. Proof of Implementation – Technical .
 
-> 47
 
 Id. Proof of controls prior to incident .
 
-> 48
 
 Technical Report, 30 June 2021, at 2, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
 
-> 49
 
 Compliance, 18 June 2021, at Proof of controls prior to incident , in In re: PJ Lhuillier, Inc. , NPC BN
 
 19 -002 (NPC 20 21 ).
 
-> 50
 
 Technical Report, 30 June 2021, at 2, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
 
-> 51
 
-Compliance, 18 June 2021, Proof of controls prior to incident , in In re: PJ Lhuillier, Inc. , NPC BN 19 -
+Compliance, 18 June 2021, Proof of controls prior to incident , in In re: PJ Lhuillier, Inc. , NPC BN 19-002 (NPC 20 21 ).
 
-002 (NPC 20 21 ).
-
-> 52
 
 Technical Report, 30 June 2021, at 2, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
 
-> 53
 
-Compliance, 18 June 2021, Proof of controls prior to incident , in In re: PJ Lhuillier, Inc. , NPC BN 19 -
+Compliance, 18 June 2021, Proof of controls prior to incident , in In re: PJ Lhuillier, Inc. , NPC BN 19-002 (NPC 20 21 ).
 
-002 (NPC 20 21 ).
-
-> 54
 
 Id. Proof of Implementation – Technical .
 
-> 55
 
 Technical Report, 30 June 2021, at 3, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
 
-> 56
 
-Compliance, 18 June 2021, Proof of controls prior to incident , in In re: PJ Lhuillier, Inc. , NPC BN 19 -
+Compliance, 18 June 2021, Proof of controls prior to incident , in In re: PJ Lhuillier, Inc. , NPC BN 19-002 (NPC 20 21 ).
 
-002 (NPC 20 21 ).
-
-> 57
 
 Technical Report, 30 June 2021, at 3, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
 
-> 58
 
-Compliance, 18 June 2021, Proof of Implementation - Technical , in In re: PJ Lhuillier, Inc. , NPC BN
+Compliance, 18 June 2021, Proof of Implementation-Technical , in In re: PJ Lhuillier, Inc. , NPC BN
 
 19 -002 (NPC 20 21 ).
 
-> 59
 
 Technical Report, 30 June 2021, at 3, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
 
-> 60
 
-Compliance, 18 June 2021, Proof of Implementation - Technical , in In re: PJ Lhuillier, Inc. , NPC BN
+Compliance, 18 June 2021, Proof of Implementation-Technical , in In re: PJ Lhuillier, Inc. , NPC BN
 
 19 -002 (NPC 20 21 ). NPC BN 19 -002
 
@@ -732,15 +648,7 @@ with the prescribed notification deadline of within
 
 13 which was after the reported breach.
 
-> 61 Technical Report, 30 June 2021, at 3, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
-> 62 Additional Questions from CID, 24 September 2021, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002
 > (NPC 20 21 ).
-> 63 PJLI Response dated 29 September 2021, 29 September 2021, in In re: PJ Lhuillier, Inc. , NPC BN
-> 19 -002 (NPC 20 21 ).
-> 64 Id. at 1.
-> 65 Id.
-
-NPC BN 19 -002
 
 901, 318 Represents records which were possibly included
 
@@ -824,9 +732,6 @@ thousand three hundred eighteen (901,318 ) records were
 
 compromised. 68 There , however, was a discrepancy of one hundred
 
-> 66 Id. at 2.
-> 67 Order, 01 October 2021, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
-> 68 Id. NPC BN 19 -002
 
 twenty thousand two hundred sixteen (120,216 ) records in the
 
@@ -894,14 +799,6 @@ mobile numbers or complete addresses available for use. 75 Regarding
 
 the specific personal data compromised , PJLI claimed that thirteen
 
-> 69 Id.
-> 70 Id.
-> 71 Id.
-> 72 Id.
-> 73 PJLI Response dated 06 October 2021, at 1, 06 October 2021, in In re: PJ Lhuillier, Inc. , NPC BN
-> 19 -002 (NPC 20 21 ).
-> 74 Id.
-> 75 Id. NPC BN 19 -002
 
 thousand six hundred eight ( 13,608 ) involved only email addresses
 
@@ -911,14 +808,12 @@ email addresses , age, town, city, civil status, gender, number of
 
 children, education, house, and source of funds .76
 
-Issue
-
+### Issue
 Whether PJLI notified its affected data subjects, sufficiently addressed
 
 the breach, and implemented measures to prevent its recurrence.
 
-Discussion
-
+### Discussion
 The Commission resolves to close the matter. PJLI ’s submissions show
 
 that it properly notified its affected data subjects, sufficiently
@@ -961,12 +856,7 @@ be limited to:
 
 3. measures taken to address the breach;
 
-> 76 Id.
-> 77 National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016
 > [NPC Circ. No. 16 -03], § 18 (A) (15 December 2016).
-> 78 NPC Circ. No. 16 -03, § 18 (A ).
-
-NPC BN 19 -002
 
 4. measures taken to reduce the harm or negative
 
@@ -1038,13 +928,6 @@ server to send spam and unauthorized downloading of contact lists. 81
 
 This fulfilled the requirement to describe the nature of the breach. 82
 
-> 79 NPC Circ. No. 16 -03, § 18 ( C)& (D ).
-> 80 Compliance, 18 June 2021, Notification to Affected Data Subjects ,in In re: PJ Lhuillier, Inc. , NPC BN
-> 19 -002 (NPC 20 21 ).
-> 81 Id.
-> 82 NPC Circ. No. 16 -03, § 18 ( C).
-
-NPC BN 19 -002
 
 The notification specified the types of personal data that may have
 
@@ -1102,16 +985,6 @@ appropriate organizational, physical and technical measures
 
 intended for the protection of personal information against any
 
-> 83 Compliance, 18 June 2021, Notification to Affected Data Subjects ,in In re: PJ Lhuillier, Inc. , NPC BN
-> 19 -002 (NPC 20 21 ).
-> 84 Id.
-> 85 Id.
-> 86 Id.
-> 87 NPC Circ. No. 16 -03, § 18 ( C).
-> 88 Compliance, 18 June 2021, Notification to Affected Data Subjects ,in In re: PJ Lhuillier, Inc. , NPC BN
-> 19 -002 (NPC 20 21 ).
-
-NPC BN 19 -002
 
 accidental or unlawful destruction, alteration and disclosure, as
 
@@ -1171,19 +1044,10 @@ attacker behaviors, 94 Akamai Enterprise Threat Protector (transitioned
 
 to Cloudflare in 2020) for secure web connections, 95 and a Sophos Web
 
-> 89 An Act Protecting Individual Personal Information in Information and Communications Systems
 > in the Government and the Private Sector, Creating for this purpose aNational Privacy
 > Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (a)
 > (2012).
-> 90 Compliance, 18 June 2021, Proof of Implementation -Organizational ,in In re: PJ Lhuillier, Inc. , NPC
 > BN 19 -002 (NPC 20 21 ).
-> 91 Id.
-> 92 Id. Proof of controls prior to incident .
-> 93 Id.
-> 94 Id.
-> 95 Id.
-
-NPC BN 19 -002
 
 Appliance to block web threats and enforce acceptable use policies. 96
 
@@ -1199,44 +1063,29 @@ undertaken by PJLI have sufficiently addressed the incident and
 
 prevent ed its recurrence.
 
-WHEREFORE, premises considered, this Commission resolves that
+**WHEREFORE**, premises considered, this Commission resolves that
 
 the matter of NPC BN 19 -002 In re: PJ Lhuillier Incorporated is
 
-CLOSED .
+**CLOSED** .
 
-SO ORDERED.
+**SO ORDERED**.
 
 City of Pasay, Philippines.
 
 16 May 2024 .
-
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 WE CONCUR:
-
-Sgd.
-
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
-
-Sgd.
-
 NERISSA N. DE JESUS
 
 Deputy Privacy Commissioner
 
-> 96 Compliance, 18 June 2021, Proof of controls prior to incident ,in In re: PJ Lhuillier, Inc. , NPC BN 19 -
-> 002 (NPC 20 21 ).
-> 97 Id. Proof of Implementation –Technical .
-> 98 Technical Report, 30 June 2021, at 3, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
-
-NPC BN 19 -002
 
 Copy furnished:
 
@@ -1251,3 +1100,200 @@ COMPL IANCE AND MONITORING DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+[^1]: Initial Report, 18 January 2019 ,at 1, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
+[^2]: (NPC 20 21 ).
+[^3]: Supporting Details June 2021 Updates for NPC, 18 June 2021 ,at 1, in In re: PJ Lhuillier, Inc. , NPC
+[^4]: Id.
+[^5]: Initial Report, 18 January 2019 ,at 1, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
+[^6]: Id.
+[^7]: Id.
+[^8]: Id.
+[^9]: Id.
+[^10]: Id.
+[^11]: Initial Report, 18 January 2019 ,at 1, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
+[^12]: Id .
+[^13]: Supplemental Report ,23 January 2019, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
+[^14]: Id .at 1.
+[^15]: Id.
+[^16]: Id.
+[^17]: Id.
+[^18]: Compliance, 18 June 2021, Supporting Details June 2021 Updates for NPC , in In re: PJ Lhuillier, Inc. ,
+[^19]: -002 (NPC 20 21 ).
+[^20]: Id. at 2.
+[^21]: Id.
+[^22]: Id.
+[^23]: Id.
+[^24]: Id.
+[^25]: Supplemental Report, 23 January 2019, at 2, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
+[^26]: Id.
+[^27]: Id. at 3.
+[^28]: Id.
+[^29]: Id.
+[^30]: Order, 10 May 2021, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
+[^31]: Id. at 2.
+[^32]: Compliance, 18 June 2021, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
+[^33]: Id. PJLI response to NPC 19 002 Received June 4 2021 .
+[^34]: Id. IR011 -011019 Report .
+[^35]: Id. 3rd Party Incident Review Report .
+[^36]: Id.
+[^37]: Technical Report, 30 June 2021, at 1, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
+[^38]: Id.
+[^39]: Compliance, 18 June 2021, Notification to Affected Data Subjects ,in In re: PJ Lhuillier, Inc. , NPC BN
+[^40]: Id. IR011 -011019 Report .
+[^41]: Id. Network Diagram During Time of Incident .
+[^42]: Id. Proof of Implementation –Organizational .
+[^43]: Id. Proof of Implementation –Technical .
+[^44]: Id. Proof of Implementation –Organizational .
+[^45]: 
+[^46]: 
+[^47]: 
+[^48]: 
+[^49]: 
+[^50]: 
+[^51]: 
+[^52]: 
+[^53]: 
+[^54]: 
+[^55]: 
+[^56]: 
+[^57]: 
+[^58]: 
+[^59]: 
+[^60]: 
+[^61]: Technical Report, 30 June 2021, at 3, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
+[^62]: Additional Questions from CID, 24 September 2021, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002
+[^63]: PJLI Response dated 29 September 2021, 29 September 2021, in In re: PJ Lhuillier, Inc. , NPC BN
+[^64]: Id. at 1.
+[^65]: Id.
+[^66]: Id. at 2.
+[^67]: Order, 01 October 2021, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
+[^68]: Id. NPC BN 19 -002
+[^69]: Id.
+[^70]: Id.
+[^71]: Id.
+[^72]: Id.
+[^73]: PJLI Response dated 06 October 2021, at 1, 06 October 2021, in In re: PJ Lhuillier, Inc. , NPC BN
+[^74]: Id.
+[^75]: Id. NPC BN 19 -002
+[^76]: Id.
+[^77]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016
+[^78]: NPC Circ. No. 16 -03, § 18 (A ).
+[^79]: NPC Circ. No. 16 -03, § 18 ( C)& (D ).
+[^80]: Compliance, 18 June 2021, Notification to Affected Data Subjects ,in In re: PJ Lhuillier, Inc. , NPC BN
+[^81]: Id.
+[^82]: NPC Circ. No. 16 -03, § 18 ( C).
+[^83]: Compliance, 18 June 2021, Notification to Affected Data Subjects ,in In re: PJ Lhuillier, Inc. , NPC BN
+[^84]: Id.
+[^85]: Id.
+[^86]: Id.
+[^87]: NPC Circ. No. 16 -03, § 18 ( C).
+[^88]: Compliance, 18 June 2021, Notification to Affected Data Subjects ,in In re: PJ Lhuillier, Inc. , NPC BN
+[^89]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^90]: Compliance, 18 June 2021, Proof of Implementation -Organizational ,in In re: PJ Lhuillier, Inc. , NPC
+[^91]: Id.
+[^92]: Id. Proof of controls prior to incident .
+[^93]: Id.
+[^94]: Id.
+[^95]: Id.
+[^96]: Compliance, 18 June 2021, Proof of controls prior to incident ,in In re: PJ Lhuillier, Inc. , NPC BN 19 -
+[^97]: Id. Proof of Implementation –Technical .
+[^98]: Technical Report, 30 June 2021, at 3, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
+[^1]: Initial Report, 18 January 2019 ,at 1, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
+[^2]: (NPC 20 21 ).
+[^3]: Supporting Details June 2021 Updates for NPC, 18 June 2021 ,at 1, in In re: PJ Lhuillier, Inc. , NPC
+[^4]: Id.
+[^5]: Initial Report, 18 January 2019 ,at 1, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
+[^6]: Id.
+[^7]: Id.
+[^8]: Id.
+[^9]: Id.
+[^10]: Id.
+[^11]: Initial Report, 18 January 2019 ,at 1, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
+[^12]: Id .
+[^13]: Supplemental Report ,23 January 2019, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
+[^14]: Id .at 1.
+[^15]: Id.
+[^16]: Id.
+[^17]: Id.
+[^18]: Compliance, 18 June 2021, Supporting Details June 2021 Updates for NPC , in In re: PJ Lhuillier, Inc. ,
+[^19]: -002 (NPC 20 21 ).
+[^20]: Id. at 2.
+[^21]: Id.
+[^22]: Id.
+[^23]: Id.
+[^24]: Id.
+[^25]: Supplemental Report, 23 January 2019, at 2, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 19 ).
+[^26]: Id.
+[^27]: Id. at 3.
+[^28]: Id.
+[^29]: Id.
+[^30]: Order, 10 May 2021, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
+[^31]: Id. at 2.
+[^32]: Compliance, 18 June 2021, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
+[^33]: Id. PJLI response to NPC 19 002 Received June 4 2021 .
+[^34]: Id. IR011 -011019 Report .
+[^35]: Id. 3rd Party Incident Review Report .
+[^36]: Id.
+[^37]: Technical Report, 30 June 2021, at 1, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
+[^38]: Id.
+[^39]: Compliance, 18 June 2021, Notification to Affected Data Subjects ,in In re: PJ Lhuillier, Inc. , NPC BN
+[^40]: Id. IR011 -011019 Report .
+[^41]: Id. Network Diagram During Time of Incident .
+[^42]: Id. Proof of Implementation –Organizational .
+[^43]: Id. Proof of Implementation –Technical .
+[^44]: Id. Proof of Implementation –Organizational .
+[^45]: 
+[^46]: 
+[^47]: 
+[^48]: 
+[^49]: 
+[^50]: 
+[^51]: 
+[^52]: 
+[^53]: 
+[^54]: 
+[^55]: 
+[^56]: 
+[^57]: 
+[^58]: 
+[^59]: 
+[^60]: 
+[^61]: Technical Report, 30 June 2021, at 3, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
+[^62]: Additional Questions from CID, 24 September 2021, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002
+[^63]: PJLI Response dated 29 September 2021, 29 September 2021, in In re: PJ Lhuillier, Inc. , NPC BN
+[^64]: Id. at 1.
+[^65]: Id.
+[^66]: Id. at 2.
+[^67]: Order, 01 October 2021, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
+[^68]: Id. NPC BN 19 -002
+[^69]: Id.
+[^70]: Id.
+[^71]: Id.
+[^72]: Id.
+[^73]: PJLI Response dated 06 October 2021, at 1, 06 October 2021, in In re: PJ Lhuillier, Inc. , NPC BN
+[^74]: Id.
+[^75]: Id. NPC BN 19 -002
+[^76]: Id.
+[^77]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016
+[^78]: NPC Circ. No. 16 -03, § 18 (A ).
+[^79]: NPC Circ. No. 16 -03, § 18 ( C)& (D ).
+[^80]: Compliance, 18 June 2021, Notification to Affected Data Subjects ,in In re: PJ Lhuillier, Inc. , NPC BN
+[^81]: Id.
+[^82]: NPC Circ. No. 16 -03, § 18 ( C).
+[^83]: Compliance, 18 June 2021, Notification to Affected Data Subjects ,in In re: PJ Lhuillier, Inc. , NPC BN
+[^84]: Id.
+[^85]: Id.
+[^86]: Id.
+[^87]: NPC Circ. No. 16 -03, § 18 ( C).
+[^88]: Compliance, 18 June 2021, Notification to Affected Data Subjects ,in In re: PJ Lhuillier, Inc. , NPC BN
+[^89]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^90]: Compliance, 18 June 2021, Proof of Implementation -Organizational ,in In re: PJ Lhuillier, Inc. , NPC
+[^91]: Id.
+[^92]: Id. Proof of controls prior to incident .
+[^93]: Id.
+[^94]: Id.
+[^95]: Id.
+[^96]: Compliance, 18 June 2021, Proof of controls prior to incident ,in In re: PJ Lhuillier, Inc. , NPC BN 19 -
+[^97]: Id. Proof of Implementation –Technical .
+[^98]: Technical Report, 30 June 2021, at 3, in In re: PJ Lhuillier, Inc. , NPC BN 19 -002 (NPC 20 21 ).
+

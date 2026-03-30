@@ -1,13 +1,21 @@
 ---
-title: "NPC 21-214: In re: Teletech Customer Care Management Philippines, Inc."
-description: "In re: Teletech Customer Care Management Philippines, Inc., NPC BN 18 -205, Order dated"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: 'In re: Teletech Customer Care Management Philippines, Inc., NPC BN 18
+  -205, Order dated'
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC 21-214: In re: Teletech Customer Care Management Philippines, Inc.'
+aliases:
+- NPC 21-214
+- npc 21-214
+date: '2022-03-17'
 ---
+
+
+
 
 ## Source
 - Reference: NPC 21-214
@@ -23,17 +31,13 @@ draft: false
 - Documentation
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 IN RE: TELETECH CUSTOMER CARE
 
 MANAGEMENT PHILIPPINES, INC.
 
-NPC 21 -214
-
 x-----------------------------------------------x
 
-NAGA , P.C.:
+NAGA, P.C.:
 
 This Resolution refers to the Compliance dated 17 May 2022 of
 
@@ -41,13 +45,13 @@ Teletech Customer Care Management Philippines, Inc. (TTEC ) to
 
 the Order dated 17 March 202 2.
 
-Facts
+### Facts
 
 On 17 March 202 2, the Commission issued a n Order to TTEC with
 
 the following dispositive portion :
 
-WHEREFORE , premises considered, Teletech Customer Care
+WHEREFORE, premises considered, Teletech Customer Care
 
 Management Philippines, Inc. (TTEC) is ORDERED to
 
@@ -78,8 +82,6 @@ Circular No. 16 -03, through the publication of the notice on
 the following media: (a) TTEC’s website; and (b)
 
 advertisement spaces to be procured from newspap ers of NPC BN: 21 -214
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 national circulation (i.e., Philippine Daily Inquirer or Manila
 
@@ -129,9 +131,9 @@ appropriate investigation on TTEC’s possible violations of the
 
 DPA.
 
-SO ORDERED. 1
+**SO ORDERED.** 1
 
-In compliance with the Order dated 17 March 2022 , TTEC submitted
+In compliance with the Order dated 17 March 2022, TTEC submitted
 
 a Manifestation and Motion dated 17 May 2022 attaching therein the
 
@@ -168,8 +170,6 @@ Id ., Annex “C”
 Id ., Annex “D” NPC BN: 21 -214
 
 > Page 3of 12
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 In its Compliance, TTEC stated that it should not be subject ed to
 
 contempt proceedings since it was able to timely notify the
@@ -178,7 +178,7 @@ Commission of the data breach and exerted its effort to comply with
 
 the directives of the Commission by supplementing its initial data
 
-breach report , which contains relevant information available to
+breach report, which contains relevant information available to
 
 TTEC .6
 
@@ -192,7 +192,7 @@ file its full compliance with the Order dated 17 March 2022. 7
 
 On 23 May 2022, TTEC submitted a Supplem ent to the
 
-Manifestation and Motion dated 17 May 2022 , attaching therein (1)
+Manifestation and Motion dated 17 May 2022, attaching therein (1)
 
 affidavits of publication issued by Sunstar Bacolod 8 and Cebu 9 and
 
@@ -233,8 +233,6 @@ Inc., and of receipt of such email notification as Annex “C -Series”. 11
 > 11 Second Supplement to the Manifestation and Motion dated 17 May 2022 (Re: Order dated
 > 17 March 2022) dated 29 June 2022 of Teletech Customer Care Management Philippines, Inc., NPC BN: 21 -214
 > Page 4of 12
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 On 14 July 2022, the Commission issued a Resolution denying the
 
 Manifestation and Motion dated 17 May 2022 filed by TTEC. 12  In
@@ -269,7 +267,7 @@ controller (PIC) , particularly with regard to data breach notification
 
 proceedings.” 16
 
-On 12 October 2022, the Commission , through its Enforcement
+On 12 October 2022, the Commission, through its Enforcement
 
 Division (EnD) , issued a Compliance Letter requiring TTEC to
 
@@ -277,13 +275,13 @@ submit a viewable excel file of its email report with regard to the
 
 proof of notificatio n.  17  Subsequently, TTEC submitted its
 
-compliance on 19 October 2022 , attaching therein a portable data
+compliance on 19 October 2022, attaching therein a portable data
 
-format (pdf) file that contains proof of e -mail notification to its
+format (pdf) file that contains proof of email notification to its
 
 current employees .18
 
-Issue
+### Issue
 
 Whether TTEC is compliant with the Order of the Commission
 
@@ -303,9 +301,7 @@ dated 17 March 2022.
 
 NPC BN: 21 -214
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-Discussion
+### Discussion
 
 The Commission finds that TTEC has sufficiently complied with the
 
@@ -378,8 +374,6 @@ rule V, § 18(D) (15 December 2016) (NPC Circular 16 -03).
 In re: Teletech Customer Care Management Philippines, Inc., NPC BN 21 -214, Order dated
 
 17 March 2022, at p. 16 .NPC BN: 21 -214
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 It complying with the said Order, TTEC sufficiently showed that it
 
@@ -480,8 +474,6 @@ National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -0
 rule V, § 18 (C) (15 December 2016) (NPC Circular 16 -03). NPC BN: 21 -214
 
 > Page 7of 12
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 TTEC’s notice s to its current and former employees contained the
 
 aforementioned contents of notification. Such notifications also
@@ -514,13 +506,13 @@ TTEC sufficiently complied with Section 17 (D) in relation to
 
 Section 9 of NPC Circular No. 16 -03 .
 
-In the Orders dated 13 January 2022 32  and 17 March 2022 33 ,TTEC
+In the Orders dated 13 January 2022 32  and 17 March 2022 33,TTEC
 
 was ordered by the Commission to submit its Full Breach Report
 
 pursuant to Section 17 (D) in relation to Section 9 of NPC Circular
 
-No. 16 -03 , thus :
+No. 16 -03, thus :
 
 SECTION 9. Documentation . All actions taken by a personal
 
@@ -552,8 +544,6 @@ provided to affected data subjects.
 > 17 March 2022, at p. 16.
 
 NPC BN: 21 -214
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 A procedure for post -breach review must be established for
 
@@ -640,8 +630,6 @@ National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -0
 rule IV, § 17(D) (15 December 2016) (NPC Circular 16 -03). NPC BN: 21 -214
 
 > Page 9of 12
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 In the 17 March 2022 Order, t he Commission stated that “TTEC’s
 
 three -page Report lacks clear and full details on the personal data
@@ -652,7 +640,7 @@ TTEC has “no actual description or narrative that refers or discusses
 
 the personal data breach itself.” 37
 
-In its submissions , TTEC was able to provide the description of the
+In its submissions, TTEC was able to provide the description of the
 
 personal data involved wherein “the unauthorized actor was able
 
@@ -708,8 +696,6 @@ with the directives of the Commission pursuant to NPC Circular 16 -
 > Philippines, Inc., in Annex “D”
 
 NPC BN: 21 -214
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 III.  TTEC has sufficiently shown proof of security measures it
 
@@ -783,21 +769,17 @@ Id .
 
 Id .NPC BN: 21 -214
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 WHEREFORE, premises considered, this Commission resolves that
 
 the matter of NPC BN 21 -214 “In re: Teletech Customer Care
 
-Management ” is hereby considered CLOSED .
+Management ” is hereby considered **CLOSED** .
 
-SO ORDERED.
+**SO ORDERED.**
 
 Pasay City, Philippines.
 
 26 January 202 3.
-
-Sgd.
 
 JOHN HENRY D. NAGA
 
@@ -805,13 +787,9 @@ Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
-
-Sgd.
 
 NERISSA N. DE JESUS
 

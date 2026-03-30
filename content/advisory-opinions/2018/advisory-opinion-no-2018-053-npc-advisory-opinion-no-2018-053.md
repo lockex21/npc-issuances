@@ -1,10 +1,13 @@
 ---
-title: "NPC Advisory Opinion No. 2018-053"
-description: "''''''''''''' ''''' '''''''''''''''''''''' '''''''''''' '''''''''''''''''''''' '''''''''''''' '''''''''''''''''''' ''''''''''''''''''''''' '''''''' '''''''''''''''''''' ''''''''''''''' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2018-053 — Photographs and CCTV Footages in Hospitals"
+description: "Guidance on the application of the Data Privacy Act to photographs of hospital staff, CCTV footage, and clinical photographs."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2018"
+  - issuance
+  - type/advisory-opinion
+  - year/2018
+  - photographs
+  - cctv
+  - healthcare
 draft: false
 ---
 
@@ -16,24 +19,19 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                      ADVISORY OPINION NO. 2018-053
 
  26 November 2018
 
- ''''''''''''' ''''' ''''''''''''''''''''''
- '''''''''''' '''''''''''''''''''''' ''''''''''''''
- '''''''''''''''''''' ''''''''''''''''''''''' '''''''' '''''''''''''''''''' '''''''''''''''
- ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+   Re: PHOTOGRAPHS AND CCTV FOOTAGES IN HOSPITALS
 
-             Re: PHOTOGRAPHS AND CCTV FOOTAGES IN HOSPITALS
-
-Dear '''''''' '''''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your query on the applicability of the Data Privacy Act of 2012
 (DPA)1 to the following:
 
-     a. taking of photographs of hospital staff and hospital premises by patient’s family
+### Discussion
+
+   a. taking of photographs of hospital staff and hospital premises by patient’s family
         members;
      b. clinical photographs; and
      c. closed circuit television (CCTV) footages.
@@ -53,29 +51,29 @@ accordance with law, pictures of hospital staff and doctors can only be lawfully
 processed when at least one of the following conditions set forth in Section 12 of the DPA
 exists:
 
-         (a) The data subject has given his or her consent;
+   (a) The data subject has given his or her consent;
 
 1 An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And
 
 ACT OF 2012] Republic Act No. 10173 (2012).
 2 Data Privacy Act of 2012, § 20 (c).
 
-         (b) The processing of personal information is necessary and is related to the
+   (b) The processing of personal information is necessary and is related to the
          fulfillment of a contract with the data subject or in order to take steps at the
          request of the data subject prior to entering into a contract;
 
-         (c) The processing is necessary for compliance with a legal obligation to which
+   (c) The processing is necessary for compliance with a legal obligation to which
          the personal information controller is subject;
 
-         (d) The processing is necessary to protect vitally important interests of the data
+   (d) The processing is necessary to protect vitally important interests of the data
          subject, including life and health;
 
-         (e) The processing is necessary in order to respond to national emergency, to
+   (e) The processing is necessary in order to respond to national emergency, to
          comply with the requirements of public order and safety, or to fulfill functions
          of public authority which necessarily includes the processing of personal data
          for the fulfillment of its mandate; or
 
-         (f) The processing is necessary for the purposes of the legitimate interests
+   (f) The processing is necessary for the purposes of the legitimate interests
          pursued by the personal information controller or by a third party or parties to
          whom the data is disclosed, except where such interests are overridden by
          fundamental rights and freedoms of the data subject which require protection
@@ -103,37 +101,37 @@ Clinical photographs, on the other hand, are sensitive personal information sinc
 necessarily contain the health information of patients.4 Thus, processing thereof is
 prohibited except in the following cases:
 
-         (a) The data subject has given his or her consent, specific to the purpose prior
+   (a) The data subject has given his or her consent, specific to the purpose prior
          to the processing, or in the case of privileged information, all parties to the
 
 3 Data Privacy Act of 2012, § 3 (h) (2).
 4 Id. § 3 (l) (2).
 
-       exchange have given their consent prior to processing;
+   exchange have given their consent prior to processing;
 
-       (b) The processing of the same is provided for by existing laws and regulations:
+   (b) The processing of the same is provided for by existing laws and regulations:
        Provided, that such regulatory enactments guarantee the protection of the
        sensitive personal information and the privileged information: Provided,
        further, That the consent of the data subjects are not required by law or
        regulation permitting the processing of the sensitive personal information or
        the privileged information;
 
-       (c) The processing is necessary to protect the life and health of the data subject
+   (c) The processing is necessary to protect the life and health of the data subject
        or another person, and the data subject is not legally or physically able to
        express his or her consent prior to the processing;
 
-       (d) The processing is necessary to achieve the lawful and noncommercial
+   (d) The processing is necessary to achieve the lawful and noncommercial
        objectives of public organizations and their associations: Provided, That such
        processing is only confined and related to the bona fide members of these
        organizations or their associations: Provided, further, That the sensitive
        personal information are not transferred to third parties: Provided, finally,
        That consent of the data subject was obtained prior to processing;
 
-       (e) The processing is necessary for purposes of medical treatment, is carried
+   (e) The processing is necessary for purposes of medical treatment, is carried
        out by a medical practitioner or a medical treatment institution, and an
        adequate level of protection of personal information is ensured; or
 
-       (f) The processing concerns such personal information as is necessary for the
+   (f) The processing concerns such personal information as is necessary for the
        protection of lawful rights and interests of natural or legal persons in court
        proceedings, or the establishment, exercise or defense of legal claims, or when
        provided to government or public authority.
@@ -170,21 +168,14 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-
-
 (Sgd.) IVY D. PATDU
 Officer-in-Charge and
 Deputy Privacy Commissioner
 for Policies and Planning
-
-
-
 
 6 Id. § 16 (c).

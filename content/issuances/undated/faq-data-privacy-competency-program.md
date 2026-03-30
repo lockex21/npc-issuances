@@ -1,22 +1,26 @@
 ---
-title: "FAQ Data Privacy Competency Program"
-description: "Circular on Data Privacy Competency Program Questions Raised During the Public Consultation on 16 June 2023"
+title: "FAQs on the Data Privacy Competency Program"
+description: "Questions and answers on the Circular governing the Data Privacy Competency Program discussed during the 16 June 2023 public consultation."
 aliases:
-  - "faq data privacy competency program"
+  - "FAQs on the Data Privacy Competency Program"
+  - "faqs on the data privacy competency program"
+  - "data privacy competency program faq"
+  - "npc faq data privacy competency program"
 tags:
   - "issuance"
   - "topic/training-certification"
   - "type/faq"
-  - "year/undated"
+date: "2023-09-01"
 draft: false
 ---
 
 ## Issuance Text
 
-Data Privacy Competency Program
+**FAQs on the Data Privacy Competency Program**
+
 Questions Raised During the Public Consultation on 16 June 2023
 
-## I. DPO ACE and T3 Programs
+**I. DPO ACE and T3 Programs**
 
 1. **Will the Data Privacy Competency Program replace the DPO ACE and T3 Programs?** Yes. The new Program replaces both initiatives, which were ad hoc and not supported by a formal NPC issuance. The NPC wants to formalize its engagement with Training Providers and address the gaps in the earlier education efforts. DPO ACE is not a prerequisite for courses under the new Program.
 
@@ -28,7 +32,7 @@ Questions Raised During the Public Consultation on 16 June 2023
 
 5. **What happens to existing accreditations under the T3 Program?** They will no longer have effect. Providers that want to continue may apply or enter into new agreements with the NPC, and training will now be done on a per-course basis.
 
-## II. Nature Of License
+**II. Nature Of License**
 
 1. **What does "non-exclusive license" mean?** Training Providers cannot monopolize the curriculum or the courses. The Program is intended to democratize access to data privacy education and expand participation, especially outside Metro Manila.
 
@@ -40,13 +44,13 @@ Questions Raised During the Public Consultation on 16 June 2023
 
 5. **Will the license be renewed annually?** Yes. Annual renewal helps ensure that Training Providers are doing what they are supposed to do, with regular reporting and feedback during the year.
 
-## III. Formal And Written Agreement
+**III. Formal And Written Agreement**
 
 1. **What will be included in the agreement between the NPC and a Training Provider?** It should include the obligations of both parties, timelines, qualifications of the Training Provider, and reportorial requirements. It should also cover the grounds for suspension or termination, along with royalties and fees.
 
 2. **Is the agreement coterminous with the license granted to a Training Provider?** Yes. If the license is suspended, revoked, or terminated, the formal written agreement is affected the same way.
 
-## IV. Consultative Body
+**IV. Consultative Body**
 
 1. **Will there be a single Consultative Body for the Program?** No. There will be different Consultative Bodies for each course. The NPC wants practical input from practitioners and experts so the courses are operational and relevant.
 
@@ -64,17 +68,17 @@ Questions Raised During the Public Consultation on 16 June 2023
 
 8. **Can the number of volunteers be increased, and what qualifications are required?** Five members is already a balanced number. Qualifications will differ per course, and setting them in the Circular itself may be too restrictive. The selection process will be transparent.
 
-## V. Royalties
+**V. Royalties**
 
 1. **Why is the NPC collecting royalties?** The NPC wants a uniform curriculum that is easy to teach and understand while ensuring quality data privacy education. Royalties also help recoup some of the cost of operating the Program.
 
 2. **Why not collect a one-time application fee instead?** A one-time fee may be too burdensome for smaller Training Providers. A royalty agreement lets them compensate the NPC from the fees they collect from students and supports broader participation.
 
-## VI. Fees
+**VI. Fees**
 
 1. **How will the maximum training course fee be computed?** It will depend on the courses offered and will be set in the formal agreement for the course. The NPC wants to consult with Training Providers to arrive at a fair amount.
 
-## VII. Qualification Requirements Of Training Providers And Trainers
+**VII. Qualification Requirements Of Training Providers And Trainers**
 
 1. **Will the NPC require Training Providers and trainers to be experts in data privacy?** Ideally yes for the providers, but the NPC will not vet every trainer individually. It will assess providers through submissions, student feedback, pass rates, and similar indicators, while trusting providers to engage qualified trainers.
 
@@ -84,7 +88,7 @@ Questions Raised During the Public Consultation on 16 June 2023
 
 4. **How will the NPC monitor and evaluate the performance of the Training Provider?** It will look at course quality, exam passers, student feedback, and periodic in-person observation based on submitted schedules.
 
-## VIII. Training Course And Materials
+**VIII. Training Course And Materials**
 
 1. **Will the NPC require a specific training format?** No. Training Providers may choose their own format, but the NPC will provide the uniform curriculum as the basis for their course design.
 
@@ -92,7 +96,7 @@ Questions Raised During the Public Consultation on 16 June 2023
 
 3. **Must a Training Provider seek approval whenever Training Course Materials change?** No. If the course still meets the minimum standards in the uniform curriculum, the Training Provider may simply submit a copy of the changes to the NPC.
 
-## IX. Exam / Completion
+**IX. Exam / Completion**
 
 1. **Will the exam be conducted regularly for all courses?** No. Not all courses will have an exam at the end. For courses that do, the NPC expects exam schedules to be given in advance.
 
@@ -104,7 +108,7 @@ Questions Raised During the Public Consultation on 16 June 2023
 
 5. **May a Training Provider administer its own exams?** Yes. The Circular does not prohibit that, and it also does not prohibit providers from teaching other data privacy courses outside the Program.
 
-## X. Additional Questions During The Public Consultation
+**X. Additional Questions During The Public Consultation**
 
 1. **Is there a minimum enrollment requirement for renewal?** No. A minimum could limit access to data privacy education. The NPC wants the Program to remain accessible to people who may not do this full time.
 
@@ -137,8 +141,6 @@ Questions Raised During the Public Consultation on 16 June 2023
 15. **Will there be new certification levels for the courses?** No certifications will result from the courses. If there are levels, they will be in the sense that later courses build on earlier ones.
 
 16. **Is a public-sector employee required to enroll with private trainers before acting as a privacy professional?** No. An individual is not required to enroll in any Training Provider before acting as a privacy professional.
-
-## Footnotes
 
 [^1]: The NPC wants to emphasize that there is no professional certification necessary to carry out the functions of a data privacy professional in the Philippines.
 

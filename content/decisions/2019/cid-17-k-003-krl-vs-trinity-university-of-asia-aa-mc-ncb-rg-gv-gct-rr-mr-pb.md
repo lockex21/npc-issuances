@@ -1,11 +1,17 @@
 ---
-title: "CID 17-K-003: KRL vs. TRINITY UNIVERSITY OF ASIA, AA, MC, NCB, RG GV, GCT, RR, MR, PB"
-description: "KRL complained that Trinity University of Asia faculty members violated the Data Privacy Act by accessing her daily time record and pay slip; the NPC found no actionable violation."
+title: "NPC CID 17-K-003: KRL v. Trinity University of Asia"
+description: "KRL complained that Trinity University of Asia faculty members violated the Data Privacy Act by accessing daily time records and pay slips; the NPC found no actionable violation warranting prosecution."
+aliases:
+  - "NPC CID 17-K-003"
+  - "npc cid 17-k-003"
+  - "KRL v. Trinity University of Asia"
+  - "krl v. trinity university of asia"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2019"
+  - "year/2017"
   - "npc-case"
+date: "2019-11-19"
 draft: false
 ---
 
@@ -22,27 +28,21 @@ draft: false
 
 ## Decision Text
 
-**KRL**
+KRL,
 
-*Complainant*
+Complainant,
 
-*-versus-* **CID Case No. 17-K-003**
+-versus-
 
-For: Violation of the Data Privacy Act of 2012
+Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, PB,
 
-**TRINITY UNIVERSITY OF ASIA, AA, MC, NCB, RG, GV, GCT, RR, MR, PB**
-
-*Respondents*
+Respondents.
 
 x-----------------------------------------x
 
-### DECISION
-
-**AGUIRRE, D.P.C.**
+AGUIRRE, D.P.C.
 
 For consideration before this Commission is a complaint filed by KRL against Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, and PB, for an indeterminate violation of the Data Privacy Act (DPA).[^1]
-
-### These Proceedings
 
 On 19 April 2018, this Commission, through the Complaints and Investigation Division, conducted a Discovery Conference. At the Conference, the respondents were directed to submit a responsive Comment within ten (10) days from receipt of the Order dated 26 April 2018.[^2]
 
@@ -72,8 +72,6 @@ The respondents do not deny having accessed the complainant’s DTR. In fact, on
 
 Complainant wrote a letter-complaint to the NPC to hold the respondents liable for the damages caused to him personally and professionally.[^9] He stated that he intentionally did not file the complaint with Trinity University of Asia as he already lost trust and confidence in the institution.[^10]
 
-### Arguments of the Parties
-
 The complainant now comes to the Commission saying that he feels his right to privacy has been violated.[^11] According to him, the respondents’ act of copy furnishing CHED with their letter-complaint caused his personal information to be exposed to a more severe extent which caused him dismay.[^12] He asserts that as a human resource management professor and someone who has been working in the industry for quite some time, he is fully aware that such information should be confidential.[^13] He states that he has experienced sleepless nights from the time he knew about the incident and feels threatened that all the personal information he submitted to the institution is at risk of exposure.[^14]
 
 The respondent university, in their Notice of Entry of Appearance with Motion for Clarification of Procedure, argues that the complainant failed to allege that he has exhausted all remedies available to him.[^15] Citing the Commission’s Rules on the Alternative Modes of Dispute Resolution,[^16] it likewise raises that the complaint should have been referred to a Mediation Officer for assistance in reaching an amicable settlement[^17] since the complaint is devoid of any serious allegations that would warrant immediate conduct of investigation by the Commission.[^18]
@@ -96,7 +94,7 @@ There are instances when the College Clerk or “attendance-in-charge” in the 
 
 The respondent university denies that the professors illegally accessed complainant’s pay slip. According to them, the payroll system of the University is web-based and can only be accessed through the internet by the employee concerned. The pay slips are downloaded by the Payroll Master for viewing and printing by the concerned employee using his/her unique Employee ID code and password.[^24]
 
-### Issues
+### Issue
 
 The issues to be resolved in this case are:
 
@@ -198,27 +196,24 @@ The complainant’s allegation in relation to his pay slip remains unsubstantiat
 
 Pasay City, 19 November 2019.
 
----
-
-**LEANDRO ANGELO Y. AGUIRRE**
-
+LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
 Concurring:
 
-**IVY D. PATDU**
-
+IVY D. PATDU
 Deputy Privacy Commissioner
 
-**RAYMUND ENRIQUEZ LIBORO**
-
+RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-Copy Furnished:
+Copy furnished:
 
-KRL, Complainant
+KRL
+Complainant
 
-ABAD ABAD & ASSOCIATES, Counsel for Respondent
+Abad Abad & Associates
+Counsel for Respondent
 
 COMPLIANCE AND MONITORING DIVISION
 

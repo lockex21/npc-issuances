@@ -1,13 +1,23 @@
 ---
-title: "NPC 18-028: ANM vs MDMC Inc."
-description: "5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC 18-028
+- npc 18-028
+date: '2024-01-01'
+description: 5th Floor, Philippine International Convention Center, Vicente Sotto
+  Avenue, Pasay City, Metro Manila 1307
 draft: false
+reference: NPC 18-028
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC 18-028: ANM vs MDMC Inc.'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC 18-028
@@ -23,13 +33,11 @@ draft: false
 ## Resolution Text
 Republic of the Philipp ines
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 A.N.M. ,
 
 Complainant,
 
--versus - NPC 18 -028
+-versus - NPC 18028
 
 FOR: Violation of Data
 
@@ -49,8 +57,7 @@ against MDMC, Inc. (Respondent) , for alleged violations of Republic
 
 Act No. 10173 (Data Privacy Act).
 
-The Facts
-
+### Facts
 On 25 September 2017, Complainant received a letter dated 07
 
 September 2017 from MDMC , Inc. informing him that he won twenty
@@ -81,13 +88,11 @@ precautionary measure, he appealed to the National Privacy
 
 Commission so that adequate protection may be accorded to the
 
-person al data that he submitted to Respondent. NPC 18 -028
+person al data that he submitted to Respondent. NPC 18028
 
 A.N.M. v.
 
 MDMC Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 14 March 2019, the parties were ordered to appear for discovery
 
@@ -109,7 +114,7 @@ and Manifestation with Motion to Dismiss on the ground of non -
 
 exhaustion of administrative remedies by the Complainant before
 
-filing the Complaint, non -compliance with formal requisites of a
+filing the Complaint, noncompliance with formal requisites of a
 
 formal complaint, and for lack of merit since the Complaint contained
 
@@ -121,17 +126,15 @@ Respondent manifests that the twenty thousand ( 20,000 ) Mabuhay
 
 Miles points had already been credited to Complainant’s account.
 
-Issue
-
+### Issue
 Whether Respondent processed the sensitive personal information of
 
 Complainant for an unauthorized purpose.
 
-Discussion
-
+### Discussion
 Th e Commission hereby resolves to dismiss the instant the case.
 
-NPC Circular 16 -04 1 (Rules) provides that the National Privacy
+NPC Circular 1604 1 (Rules) provides that the National Privacy
 
 Commission, sua sponte, or persons who are the subject of a privacy
 
@@ -141,11 +144,10 @@ affected by a violation of the Data Privacy Act (DPA) , may file
 
 complaints for violations of the Act.
 
-> 1Section 3, NPC Rules of Procedure NPC 18 -028
+> 1Section 3, NPC Rules of Procedure NPC 18028
 > A.N.M. v.
 > MDMC Inc.
 > Page 3of 5
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 In this case, Complainant avers that the documents he submitted to
 
@@ -159,15 +161,15 @@ Commission so that adequate protection may be accorded to the
 
 personal data that he submitted to Respondent.
 
-Justice Alicia Austria -Martinez , speaking for the Supreme Court,
+Justice Alicia AustriaMartinez , speaking for the Supreme Court,
 
 ruled that he who alleges a fact has the burden of proving it and a
 
 mere allegation is not evidence 2.
 
-Similarly, in NPC 17 -015, the Commission held that , “Complainant’s
+Similarly, in NPC 17015, the Commission held that , “Complainant’s
 
-stand -alone allegation is not sufficient to file a complaint before the
+standalone allegation is not sufficient to file a complaint before the
 
 Commission because she is neither the subject of a privacy violation
 
@@ -205,13 +207,11 @@ data breach.
 
 > 2Luxuria Homes Inc. vs. CA, GR No. 125986, Jan 28, 1999
 
-NPC 18 -028
+NPC 18028
 
 A.N.M. v.
 
 MDMC Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Being that Complainant is neither the subject of a privacy violation or
 
@@ -243,8 +243,6 @@ Pasay City, Philippines ;
 
 21 May 2020 .
 
-(Sgd.)
-
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
@@ -257,7 +255,7 @@ LEANDRO ANGELO Y. AGUIRRE JOHN HENRY D. NAGA
 
 Deputy Privacy Commissioner Deputy Privacy Commission
 
-COPY FURNISHED: NPC 18 -028
+COPY FURNISHED: NPC 18028
 
 A.N.M. v.
 

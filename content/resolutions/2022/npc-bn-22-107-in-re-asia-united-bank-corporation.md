@@ -1,13 +1,21 @@
 ---
-title: "NPC BN 22-107: In Re: Asia United Bank Corporation"
-description: "In re: Asia United Bank Corporation, NPC BN 22 -107, Preliminary Breach Notification Form, Data"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: 'In re: Asia United Bank Corporation, NPC BN 22 -107, Preliminary Breach
+  Notification Form, Data'
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC BN 22-107: In Re: Asia United Bank Corporation'
+aliases:
+- NPC BN 22-107
+- npc bn 22-107
+date: '2022-12-01'
 ---
+
+
+
 
 ## Source
 - Reference: NPC BN 22-107
@@ -24,15 +32,13 @@ draft: false
 - When Notification is Required
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 IN RE: ASIA UNITED
 
 BANK CORPORATION
 
 x----------------------------------------------------x
 
-NAGA , P.C.;
+NAGA, P.C.;
 
 Before the Commission are the request s for exemption from the
 
@@ -42,7 +48,7 @@ submit full report submitted by Asia United Bank Corporation (AUB)
 
 dated 25 July 2022.
 
-Facts
+### Facts
 
 On 25 July 2022, AUB submitted to the Commission an initial report of
 
@@ -54,7 +60,7 @@ Based on the initial report, AUB stated that during the onset of the
 
 pandemic, delays in the handover of delivery receipts occurred due to
 
-the minimal workforce of Entrego , its service provider .2 AUB made
+the minimal workforce of Entrego, its service provider .2 AUB made
 
 continuous follow -ups with Entrego to surrender the required
 
@@ -89,10 +95,6 @@ Breach Notification Management System (DBNMS), 1.b Chronology.
 In re: Asia United Bank Corporation, NPC BN 22 -107, Preliminary Breach Notification Form, Data
 
 Breach Notification Management System (DBNMS), 1.a How breach occurred + DPS Vulnerability.
-
-NPC BN 22 -107 NPC BN 22 -107
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 AUB reported that there are two hundred sixteen (216) recorded
 
@@ -183,8 +185,6 @@ In re: Asia United Bank Corporation, NPC BN 22 -107, Preliminary Breach Notifica
 Breach Notification Management System (DBNMS), 3.b. Measures to secure/recover personal
 
 data? NPC BN 22 -107
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 if any of the delivered credit cards had been involved in fraud. 11  AUB
 
@@ -278,8 +278,6 @@ Breach Notification Management System (DBNMS), in Explain the reason for the req
 
 extension of time to submit. NPC BN 22 -107
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 (1) Proof to substantiate the request for Exemption and
 
 Extension;
@@ -296,7 +294,7 @@ foregoing documents, this case shall be submitted for resolution
 
 based on the records before the Commission.
 
-SO ORDERED.  17
+**SO ORDERED.**  17
 
 Subsequently, AUB submitted its Compliance dated 22 November
 
@@ -304,7 +302,7 @@ Subsequently, AUB submitted its Compliance dated 22 November
 
 thereto a “Certificate of Delivery of Parcel” from Entrego, 19  and a
 
-Certification from MVS , the incumbent Senior Vice President and
+Certification from MVS, the incumbent Senior Vice President and
 
 Cards Business Group Head of AUB. 20
 
@@ -318,13 +316,13 @@ breach ” consisting of the “cardholders and/or the credit card
 
 recipients .” 21
 
-Issue
+### Issue
 
 Whether to grant AUB’s requests for (1) exemption f rom notification
 
 of affected data subjects and (2) extension to submit its full report.
 
-Discussion
+### Discussion
 
 The Commission resolves to deny the requests for (1) exemption from
 
@@ -339,10 +337,6 @@ its full report.
 > “B”.
 > 20 DPO -Report NPC dated 22 November 2022 of Asia United Bank Corporation, Annex “C”.
 > 21 DPO -Report NPC dated 22 November 2022 of Asia United Bank Corporation, in p. 2.
-
-NPC BN 22 -107
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 I.  The incident falls under the mandatory notification requirements.
 
@@ -411,13 +405,9 @@ sensitive personal information .23 AUB also reported that the
 > 22 NPC Circular No. 16 -03, Rule V, § 11.
 > 23 DPO -Report NPC dated 22 November 2022 of Asia United Bank Corporation, at p. 3.
 
-NPC BN 22 -107
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 cardholder’s full name, delivery address, as well as the credit card
 
-recipient’s name , and signature are information that may be used to
+recipient’s name, and signature are information that may be used to
 
 enable identity fraud. 24
 
@@ -427,7 +417,7 @@ to an individual are considered sensitive personal information. 25 As
 
 regards the cardholder’s full name, delivery address, credit card
 
-recipient’s name, and signature , such information may be used to
+recipient’s name, and signature, such information may be used to
 
 enable identity fraud . Further, t hese can be obtained wrongfully by
 
@@ -435,7 +425,7 @@ another person and may be use d by them to perpetuate fraud or
 
 deception, usually for economic gain. Here, t he fact that the lost proofs
 
-of delivery pertain to credit cards , the data about the financial situation
+of delivery pertain to credit cards, the data about the financial situation
 
 of the data subjects are also involved.
 
@@ -509,8 +499,6 @@ DPO -Report NPC dated 22 November 2022 of Asia United Bank Corporation, at p. 2.
 
 DPO -Report NPC dated 22 November 2022 of Asia United Bank Corporation, at p. 2. NPC BN 22 -107
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 Lastly, since AUB failed to sufficiently show that no fraud has occurred
 
 due to the lost of delivery receipts, the Commission finds that the
@@ -575,10 +563,6 @@ occurred. 34 (Emphasis supplied)
 > Breach Notification Management System (DBNMS), Justification for Exemption.
 > 33 DPO -Report NPC dated 22 November 2022 of Asia United Bank Corporation, at p. 2.
 > 34 NPC Circular 16 -03, Rule V, § 18(A).
-
-NPC BN 22 -107
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 B. Exemption or Postponement of Notification. If it is not reasonably
 
@@ -656,10 +640,6 @@ potential negative consequences resulting from the breach.
 > 37 In re: Asia United Bank Corporation, NPC BN 22 -107, Minute Resolution dated 07 November 2022,
 > at p. 1.
 
-NPC BN 22 -107
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 III.  AUB is required to submit its Full Breach Report
 
 In its Initial Report, AUB reported that based on its investigation, the
@@ -718,7 +698,7 @@ However, this Commission finds that AUB sh all submit its Full Breach
 
 Report containing the complete information required provided in
 
-Section 17(D) of the NPC Circular No. 16 -03 , including but not limited
+Section 17(D) of the NPC Circular No. 16 -03, including but not limited
 
 to the measures to secure/recover personal data and actions
 
@@ -729,10 +709,6 @@ to the measures to secure/recover personal data and actions
 > Breach Notification Management System (DBNMS), 3.d. Actions to inform data subjects.
 > 40 DPO -Report NPC dated 22 November 2022 of Asia United Bank Corporation, at p. 4.
 > 41 DPO -Report NPC dated 22 November 2022 of Asia United Bank Corporation, at p. 4.
-
-NPC BN 22 -107
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 performed or proposed to mitigate possible harm, among others. 42 In
 
@@ -752,7 +728,7 @@ subjects of Asia United Bank Corporation (AUB) is hereby DENIED .
 
 AUB is ORDERED, within fifteen (15 ) days from receipt of this
 
-Resolution , to comply with the following:
+Resolution, to comply with the following:
 
 1.  NOTIFY the affected data subject s including the proof receipt of
 
@@ -762,7 +738,7 @@ the data subjects of such notification;
 
 3.  SUBMIT proof of security measures to address the breach.
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines .
 
@@ -779,8 +755,6 @@ LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
 > 42 NPC Circular 16 -03, Rule V, § 17(D).
-
-NPC BN 22 -107
 
 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 

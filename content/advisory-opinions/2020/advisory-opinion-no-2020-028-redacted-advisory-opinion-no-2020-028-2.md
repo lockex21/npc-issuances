@@ -1,43 +1,30 @@
 ---
-title: "Redacted-Advisory-Opinion-No.-2020-028"
-description: "'''''''''''''''''''''''' '''' ''''''''''''''''''' '''''' '''''''''''' '''''''''''''' ''''''''''''''' ''' ''''''''' '''''''''' ''''''' ''''''''''''''' ''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2020-028 — Collection and Encoding of Information on COVID-19 Related Deaths"
+description: "Collection and encoding of information on COVID-19 related deaths by local government units."
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
 draft: false
 ---
-
 ## Source
 - Reference: Advisory Opinion No. 2020-028
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-028.pdf
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                     ADVISORY OPINION NO. 2020-0281
 
-15 July 2020
-
-'''''''''''''''''''''''' '''' '''''''''''''''''''
-'''''' ''''''''''''
-'''''''''''''' ''''''''''''''' ''' '''''''''
-'''''''''' ''''''' '''''''''''''''
-''''''''''''''''''''''''''''''
-
-
-
-              Re:      COLLECTION AND ENCODING OF INFORMATION ON
+Re:      COLLECTION AND ENCODING OF INFORMATION ON
                        COVID-19 RELATED DEATHS
 
-Dear '''''''' ''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion seeking guidance on the
 propriety of complying with the series of memoranda and other communications issued by
 the Department of Interior and Local Government (DILG) requesting your office to do the
 following:
 
-      1. Encode     the    details of   confirmed     COVID-19       related deaths   on
+   1. Encode     the    details of   confirmed     COVID-19       related deaths   on
          https://tinyurl.com/R4A-Death-Report;
       2. Upload the respective death certificates on https://tinyurl.com/R4A-COVID19-
          DCert; and
@@ -49,12 +36,11 @@ Specifically, you ask whether accommodating the requests would result in possibl
 violation/s of the provisions of the Data Privacy Act of 20122 (DPA) and its Implementing
 Rules and Regulations3 (IRR).
 
+### Discussion
+
 Death Certificate; sensitive personal information
 
 A Death Certificate is an official document setting forth particulars relating to a deceased
-
-1 Tags: processing; sensitive personal information; COVID-19; public authority; mandate; statistics.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
 
 the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of
 2012], Republic Act No. 10173 (2012).
@@ -81,7 +67,7 @@ In connection with this, we understand that there are several issuances of the D
 Department of Health (DOH) which deals with the handling of human remains and standard
 coding and reporting of deaths in relation to COVID-19:
 
-     1. DILG and DOH Joint Memorandum Circular No. 01 Series of 2020 (JMC)8 - Suppletory
+   1. DILG and DOH Joint Memorandum Circular No. 01 Series of 2020 (JMC)8 - Suppletory
         Guidelines on the Management of Human Remains for Patient Under Investigation
         (PUI) and Confirmed COVID-19 Cases;
      2. DILG Memorandum Circular No. 2020-0639 - Interim Guidelines on the Management
@@ -159,13 +145,8 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
-
-
-
 
 13 See: National Privacy Commission, NPC Advisory Opinion No. 2018-035 (July 20, 2018).
 14 NPC Circular No. 16-01 dated 10 October 2016, § 4.

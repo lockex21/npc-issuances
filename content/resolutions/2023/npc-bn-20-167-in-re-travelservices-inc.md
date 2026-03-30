@@ -1,11 +1,17 @@
 ---
 title: "NPC BN 20-167: In Re: Travelservices, Inc."
-description: "NPC BN 20-167: In Re: Travelservices, Inc."
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC BN 20-167"
+  - "npc bn 20-167"
+  - "In Re: Travelservices, Inc."
+  - "in re: travelservices, inc."
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-11-13"
 draft: false
 ---
 

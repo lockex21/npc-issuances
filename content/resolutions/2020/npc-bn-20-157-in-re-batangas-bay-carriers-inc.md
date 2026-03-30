@@ -1,13 +1,22 @@
 ---
-title: "NPC BN 20-157: In re: Batangas Bay Carriers, Inc."
-description: "NPC BN 20-157: In re: Batangas Bay Carriers, Inc."
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC BN 20-157
+- npc bn 20-157
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC BN 20-157
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC BN 20-157: In re: Batangas Bay Carriers, Inc.'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC BN 20-157
@@ -25,8 +34,6 @@ IN RE: BATANGA S BAY
 
 CARRIERS, INC.
 
-NPC BN 20 -157
-
 x-------------------------------------------x
 
 RESOLUTION
@@ -41,14 +48,13 @@ Ma gsaysay Shipping & Logistics, to this Commission’s Order 2 for
 
 it to notify the affected data subjects of the breach incident in
 
-accordance with the provisions of NPC Circular 16 -03 and to
+accordance with the provisions of NPC Circular 1603 and to
 
 submit proof of compliance thereto, involvin g a personal data
 
 breach caused by a ransomware attack .
 
-The Facts
-
+### Facts
 On 21 September 2020 , this Commission issued a Resolution 3 with
 
 the following dispositive portion, to wit:
@@ -63,7 +69,7 @@ Batangas Bay Carriers, Inc. is ORDERED to notify the
 
 affected data subjects of the breach incident in accordance
 
-with the provisions of NPC Circular 16 -03 and to SUBMIT
+with the provisions of NPC Circular 1603 and to SUBMIT
 
 proof of compliance thereto within fifteen (15) days from
 
@@ -87,12 +93,7 @@ reduce its harm or negative consequences, and the names of the
 > 3Ibid.
 > 4Supra note 1.
 
-NPC BN 20 -157
-
 Res olu ti on
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 Data Protection Officer (DPO) and Process Owner stating that if
 
@@ -100,8 +101,7 @@ the affected data subjects should require further information, they
 
 can be contacted. 5
 
-Discussion
-
+### Discussion
 This Commission finds the proof of compliance submitted by
 
 Batangas Bay insufficient for this Commission’s Order to submit
@@ -110,9 +110,9 @@ proof of compliance that it has  notified the affected data subjects of
 
 the b reach incident .
 
-Section 18(A) o f NPC Circular No. 16 -03 provides that:
+Section 18(A) o f NPC Circular No. 1603 provides that:
 
-The data subjects shall be notified within seventy -two (72)
+The data subjects shall be notified within seventytwo (72)
 
 hours upon knowledge of or reasonable belief by the
 
@@ -122,7 +122,7 @@ processor that a personal data breach has occurred. The
 
 notification may be made on the basis of available
 
-information within the 72 -hour period if the personal data
+information within the 72hour period if the personal data
 
 breach is likely to give rise to a real ri sk to the rights and
 
@@ -173,11 +173,9 @@ data subjects are informed in an equally effective
 manner: Provided further , that the per sonal information
 
 > 5Ibid.
-> 6Emphasis supplied. NPC BN 20 -157
+> 6Emphasis supplied. NPC BN 20157
 > Res olu ti on
 > Page 3of 5
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 controller shall establish means through whi ch the data
 
@@ -215,13 +213,13 @@ received by the data subjects. Notably, the initial r eport also
 
 estimated more than one hundred (100) affected dat a subj ects.
 
-However, in its instant submission, the e -mail addresses are far
+However, in its instant submission, the email addresses are far
 
 less than one hundred (100) .
 
 In view of the foregoing, Sections 18(A) and 18(D) of NPC Circular
 
-16 -03 have not been complied wit h by Batangas Bay. Hence, this
+1603 have not been complied wit h by Batangas Bay. Hence, this
 
 Commission finds its proof of compliance to the notif ication of
 
@@ -241,7 +239,7 @@ disclosure of sensitive personal information will harm or
 
 adversely affect the data subject. In both instances , the
 
-Commission shall be notified within the 72 -hour period
+Commission shall be notified within the 72hour period
 
 based on available information. The full report of the
 
@@ -252,11 +250,9 @@ days , unless the personal information controller is granted
 additional time by the Co mmission to comply. 8
 
 > 7Emphasis supplied.
-> 8Emphasis s upplied. NPC BN 20 -157
+> 8Emphasis s upplied. NPC BN 20157
 > Res olu ti on
 > Page 4of 5
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 The submission of a Full Br each Report is a different requirement
 
@@ -266,7 +262,7 @@ Notification of the Commission and Notification of Data Subjects
 
 are two (2) different and separate requirement s under Sections
 
-17(C) and 18(A) of NPC C ircular No. 16 -03, r espectively, that the
+17(C) and 18(A) of NPC C ircular No. 1603, r espectively, that the
 
 PICs should promptly comply with .
 
@@ -298,26 +294,17 @@ Pasay City, Philippines ;
 
 17 December 20 20 .
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
-WE CONCUR :NPC BN 20 -157
+WE CONCUR :NPC BN 20157
 
 Res olu ti on
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
-
-Sgd.
 
 RAYMUND ENR IQ UEZ LIBORO
 
 Privacy Commissioner
-
-Sgd.
 
 JOHN HENRY D. NAGA
 

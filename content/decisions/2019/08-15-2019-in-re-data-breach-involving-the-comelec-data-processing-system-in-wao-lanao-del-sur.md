@@ -1,11 +1,17 @@
 ---
-title: "NPC CID Case No. 17-002: In Re: Data Breach Involving the COMELEC Data Processing System in Wao, Lanao del Sur"
-description: "NPC investigated a data breach affecting COMELEC's voter registration system in Wao, Lanao del Sur, where a desktop computer was stolen, and found insufficient evidence for criminal prosecution but imposed compliance orders for enhanced breach management and documentation."
+title: "NPC CID 17-002: In Re Data Breach Involving the COMELEC Data Processing System in Wao, Lanao del Sur"
+description: "NPC investigated a data breach affecting COMELEC's voter registration system in Wao, Lanao del Sur, finding insufficient evidence for criminal prosecution but ordering compliance measures for improved breach management and documentation."
+aliases:
+  - "NPC CID 17-002"
+  - "npc cid 17-002"
+  - "In Re COMELEC"
+  - "in re comelec"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2019"
+  - "year/2017"
   - "npc-case"
+date: "2019-08-15"
 draft: false
 ---
 
@@ -94,7 +100,7 @@ As to the order to notify affected data subjects of the personal data breach, CO
 
 On 15 March 2018, this Commission received CTL Responsive Comment on the Preliminary Fact-Finding Report, presenting his defenses to the issues raised before this Commission.
 
-### Issues
+### Issue
 
 What remains for Resolution before this Commission are:
 
@@ -102,7 +108,9 @@ What remains for Resolution before this Commission are:
 
 2. Whether there was concealment of the personal data breach by failing to notify the Commission and the data subjects affected.
 
-#### 1. Negligence in the Safekeeping of the Desktop Computer
+### Discussion
+
+#### Negligence in the Safekeeping of the Desktop Computer
 
 On 15 March 2018, CTL submitted his Responsive Comment to the Preliminary Fact-Finding report denying the allegation of negligence in the safekeeping of the desktop computer containing personal data of voters. He averred to have implemented physical security measures such as causing the installation of padlocks to every point of ingress and egress of the office. To support his defense, he attached to his Comment photographs of the whole office building where the COMELEC office in Wao is located, and of all doors and windows of the office showing that padlocks were properly installed. Moreover, he maintained that he assigned his casual employee to make sure that all points of entry and exit, including the windows, are locked before the last person leaves the office. A sworn affidavit of the casual employee is also attached to his Comment attesting to this claim. CTL maintains that what took place at the COMELEC office in Wao was a robbery with force upon things, whereby the robber gained entry by destroying the back window. He asserted that said robbery was beyond his control.
 
@@ -112,7 +120,7 @@ In this case, CTL cannot be said to have been negligent in implementing reasonab
 
 Considering the submissions of COMELEC to this Commission, and the continuing efforts to strengthen its security measures, this Commission holds that the evidence is insufficient to warrant criminal prosecution for providing access due to negligence.
 
-#### 2. Concealment of the Personal Data Breach
+#### Concealment of the Personal Data Breach
 
 The reported robbery of the COMELEC field office in Wao happened on 11 January 2017. COMELEC notified this Commission of the personal data breach only on 28 January 2017.
 
@@ -143,8 +151,6 @@ Section 30 of the DPA provides:
 CTL reported the incident to his superiors on the same day that the robbery was discovered. Indeed, the determination of the scope of the breach should have been completed faster, and notification of the Commission should have been immediate based only on available knowledge. While COMELEC claims that the security measures are adequate considering the use of encryption and other safeguards, it should have been more circumspect. Such assertion by itself is inadequate basis to support the assumption that notification is not necessary. We take notice, however, that guidelines such as the factors to consider in determining necessity of notification have been provided only in NPC Circular 16-03.
 
 In sum, this Commission finds that there is insufficient evidence to recommend the prosecution of the responsible officers of COMELEC or CTL for the crimes of Access due to Negligence under Section 26, or Concealment of a Security Breach under Section 30 of the Data Privacy Act of 2012.
-
-### Discussion
 
 This Commission considers, however, the need to ensure that existing policies on data privacy and data security are operationalized not just in the Central Office of COMELEC but also in regional and local field offices as well. It is not sufficient to provide documentation of compliance with the DPA; rather, it must be integrated in daily operations and data processing activities. While the evidence is not sufficient to warrant criminal prosecution, COMELEC must be able to demonstrate compliance with the DPA.
 
@@ -182,17 +188,15 @@ In order to ensure that existing breach management policies and procedures are b
 
 Pasay City, 15 August 2019.
 
----
-
-**IVY D. PATDU**
+IVY D. PATDU
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-**RAYMUND ENRIQUEZ LIBORO**
+RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-**LEANDRO ANGELO Y. AGUIRRE**
+LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
 Copy furnished:

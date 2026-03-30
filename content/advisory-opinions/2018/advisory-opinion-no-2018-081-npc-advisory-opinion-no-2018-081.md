@@ -1,10 +1,10 @@
 ---
-title: "NPC Advisory Opinion No. 2018-081"
-description: "'''''''''''''''''''''' '''''''''''''' ''''' '''''''''''''''''''' ''''''''' '''''''''''''' ''''''''''''''''''' ''''''''''' '''''''''''''''''''' '''''''''''''' ''''''''''''' ''' ''''''''''''''''''' '''''''''''''''''''' ''''''''''''''''''' ''''''''''''''''..."
+title: "NPC Advisory Opinion No. 2018-081 — Access to Medical Records in CR-DR System"
+description: "Whether an equipment provider must allow a hospital access to medical records stored in its Computerized Radiography-Digital Radiography system."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2018"
+  - issuance
+  - type/advisory-opinion
+  - year/2018
 draft: false
 ---
 
@@ -16,25 +16,14 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                             ADVISORY OPINION NO. 2018-081
 
-26 November 2018
+**26 November 2018**
 
-'''''''''''''''''''''' '''''''''''''' ''''' '''''''''''''''''''' ''''''''' '''''''''''''' ''''''''''''''''''' '''''''''''
-'''''''''''''''''''' '''''''''''''' ''''''''''''' '''
-''''''''''''''''''' '''''''''''''''''''' ''''''''''''''''''' ''''''''''''''''
-''''' ''''''''''''' ''''''''' '''''''''''''''''''''''''''' ''''''''''' ''''''''''
-''''''''''''''''''''''''''''''''''''''''''''''''''
+Re: ACCESS TO MEDICAL RECORDS IN CR-DR SYSTEM
 
-                 Re:        ACCESS TO MEDICAL RECORDS IN CR-DR SYSTEM
+Dear [Redacted],
 
-
-Dear '''''''' ''''''''''''''''''',
-
-We write in response to your letter regarding the access, use and destruction of medical records of
-patients stored in a Computerized Radiography- Digital Radiography (CR-DR) system in relation
-to the provisions of the Data Privacy Act of 2012 (DPA).1
+We write in response to your letter regarding the access, use and destruction of medical records of patients stored in a Computerized Radiography-Digital Radiography (CR-DR) system in relation to the provisions of the Data Privacy Act of 2012 (DPA).[^1]
 
 In 2017, Western Visayas Medical Center (WVMC) requested a Special Audit from the
 Commission on Audit (COA) and pending the result thereof, held in abeyance the amount due to
@@ -54,18 +43,11 @@ the enhancement of its radiography system. We are not in a position to determine
 this joint undertaking as this involves not just the legal documents made available to the
 Commission but a determination of the factual circumstances relevant to the agreement.
 
-Given this, we will only discuss the general principles relevant to this case in so far as such issues
-may relate to the DPA.
+Given this, we will only discuss the general principles relevant to this case in so far as such issues may relate to the DPA.
 
+### Discussion
 
-
-
-1 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Republic Act No. 10173 (2012).
-
-Personal Information          Controller   and   Personal
-Information Processor
+#### Personal Information Controller and Personal Information Processor
 
 Given the issue at hand, it is vital to determine the relationship between the two entities in relation
 to the processing of patient data in the CR-DR System. The rights and obligations of the parties
@@ -73,9 +55,7 @@ would be different depending on their relationship, particularly if they are joi
 information controllers, or if their relationship is one between a personal information
 controller and personal information processor. A personal information controller (PIC) refers to
 the individual or organization who controls how personal data – which includes health records --
-are being collected, used, stored, or otherwise processed.2 On the other hand, a personal
-information processor (PIP) refers to any individual or organization processing personal
-information for the PIC as part of an outsourcing contract or similar agreement.3
+are being collected, used, stored, or otherwise processed.[^2] On the other hand, a personal information processor (PIP) refers to any individual or organization processing personal information for the PIC as part of an outsourcing contract or similar agreement.[^3]
 
 If it were the case that the agreement is strictly for JOSMEF to install, configure and maintain the
 CR-DR system in accordance with the instructions of WVMC, and for this limited purpose have
@@ -89,20 +69,18 @@ own operations upon personal data, such as exercising control over its storage, 
 the PIP may already be considered a PIC. This means that the PIP will be subjected to all the
 obligations of a PIC under the DPA, including adherence to the data privacy principles of
 transparency, legitimate purpose and proportionality. Where a PIP processes personal data for its
-own purposes, including the retention of records, the PIP may risk liability for unauthorized
-processing and other DPA violations if the processing is done without consent from data subjects
-or authority from law.
+own purposes, including the retention of records, the PIP may risk liability for unauthorized processing and other DPA violations if the processing is done without consent from data subjects or authority from law.
 
-Principle of Accountability
+#### Principle of Accountability
 
 The principle of accountability is articulated in Section 21 of the DPA, which provides:
 
-         Section 21. Principle of Accountability. – Each personal information controller is
+   Section 21. Principle of Accountability. – Each personal information controller is
          responsible for personal information under its control or custody, including
          information that have been transferred to a third party for processing, whether
          domestically or internationally, subject to cross-border arrangement and cooperation.
 
-         (a) The personal information controller is accountable for complying with the
+   (a) The personal information controller is accountable for complying with the
          requirements of this Act and shall use contractual or other reasonable means to
          provide a comparable level of protection while the information are being processed
          by a third party. xxx
@@ -114,7 +92,6 @@ comply with all the requirements of the DPA and other applicable laws.
 
 One of the guarantees of the Data Privacy Act is the protection of the rights of data subjects. Under
 the DPA, the data subject is entitled to the right of reasonable access to contents of his or her
-
 
 2 Data Privacy Act of 2012, § 3 (h).
 3 Id, § 3 (i).
@@ -154,15 +131,15 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-
-
 (Sgd.) IVY D. PATDU
 Deputy Privacy Commissioner
 Officer-In-Charge
+
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: Data Privacy Act of 2012, § 3 (h).
+[^3]: *Id.* § 3 (i).

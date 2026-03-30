@@ -1,12 +1,20 @@
 ---
-title: "NPC BN 18-131: In Re: Rarejob English Assessment Inc. (formerly GOLA English Tutorial, Inc.)"
-description: "In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does"
+title: 'NPC BN 18-131: In Re: Rarejob English Assessment Inc. (formerly GOLA English
+  Tutorial, Inc.)'
+description: 'In re: Commission on Elections, Smartmatic Group of Companies, RVA,
+  WS, and other John Does'
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2018
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-131"'
+- '"npc bn 18-131"'
+- '"In Re: Rarejob English Assessment Inc. (formerly GOLA English Tutorial, Inc.)"'
+- '"in re: rarejob english assessment inc. (formerly gola english tutorial, inc.)"'
+date: '2018-07-20'
 ---
 
 ## Source

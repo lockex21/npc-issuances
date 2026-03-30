@@ -1,11 +1,17 @@
 ---
-title: "CID 18-F-064: RBG vs. CB"
-description: "Complaint for alleged falsification of signature in letter-request for marriage certificates dismissed for lack of substantial evidence of Data Privacy Act violation."
+title: "NPC CID 18-F-064: RBG v. CB"
+description: "Complaint alleging falsification of signature in a letter requesting marriage certificates dismissed for lack of substantial evidence of a Data Privacy Act violation."
+aliases:
+  - "NPC CID 18-F-064"
+  - "npc cid 18-f-064"
+  - "RBG v. CB"
+  - "rbg v. cb"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2019"
+  - "year/2018"
   - "npc-case"
+date: "2019-11-19"
 draft: false
 ---
 
@@ -23,25 +29,20 @@ draft: false
 ## Decision Text
 
 RBG,
+
 Complainant,
 
-*versus*
-CID Case No. 18-F-064
-
-For: Violation of the Data Privacy Act of 2012
+-versus-
 
 CB,
+
 Respondent.
 
 x-----------------------------------------------x
 
-### DECISION
-
 AGUIRRE, D.P.C.
 
 For consideration of this Commission is the Affidavit-Complaint by Complainant RBG dated 01 June 2018 against Respondent CB for an indeterminate violation of the Data Privacy Act (DPA).
-
-### These Proceedings
 
 On 24 July 2018, this Commission, through the Complaints and Investigations Division (CID), issued an Order for the parties to confer for discovery on 14 August 2018. On 13 August 2018, the counsel for respondent filed a formal entry of appearance with Motion [to] Reset Hearing due to a prior scheduled hearing of counsel even before he was engaged for this case.[^1]
 
@@ -75,8 +76,6 @@ Sometime in August 2017, the respondent filed a bigamy case against the complain
 authorization of the person who received the marriage contracts of the complainant.[^12] The PSA, through the Assistant National Statistician, replied that they cannot provide a copy of the requested documents, despite exhausting all efforts.[^13]
 
 In a resolution dated 12 December 2017, the Office of the City Prosecutor of Manila dismissed the complaint for bigamy[^14] as well as the Motion for Reconsideration.[^15]
-
-### Arguments of the Parties
 
 The Complainant now comes to the Commission to file a case against the respondent for an unspecified violation of the DPA. In her Affidavit Complaint, she alleges that she was taking a tour in Europe during the time her marriage certificates were requested from the PSA.[^16] She alleges that she never requested for a copy of her marriage certificates as she was not in need of it, neither did she authorize the respondent to make the said request. She claims that the respondent forged her signature and later used the marriage certificates to file a bigamy case against her despite his knowledge that her first marriage was annulled. She asserts the respondent intends to malign, besmirch, and destroy her reputation by obtaining the marriage certificates and filing the bigamy case against her. She alleges that the respondent, in falsifying her signature in the letter request, did not just violate the DPA but also the PSA Office Memorandum No. 2017-050 dated 17 April 2017 which provides that a marriage certificate can only be released to the owner or their representative.[^17]
 
@@ -140,23 +139,18 @@ The Commission therefore resolves to dismiss the complaint for lack of substanti
 
 Pasay City, 19 November 2019.
 
----
-
-**LEANDRO ANGELO Y. AGUIRRE**
-
+LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
 Concurring:
 
-**IVY D. PATDU**
-
+IVY D. PATDU
 Deputy Privacy Commissioner
 
-**RAYMUND ENRIQUEZ LIBORO**
-
+RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-Copy Furnished:
+Copy furnished:
 
 Atty. ERY
 Counsel for Complainant
@@ -165,8 +159,8 @@ Atty. CNE
 Counsel for Respondent
 
 ENFORCEMENT DIVISION
-
 GENERAL RECORDS UNIT
+National Privacy Commission
 
 [^1]: Records, p. 23-25.
 [^2]: *Ibid* at p. 29.

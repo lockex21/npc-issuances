@@ -1,13 +1,22 @@
 ---
-title: "NPC BN 20-124: In Re: E-Science Corporation"
-description: "NPC BN 20-124: In Re: E-Science Corporation"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC BN 20-124
+- npc bn 20-124
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC BN 20-124
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC BN 20-124: In Re: E-Science Corporation'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC BN 20-124
@@ -24,7 +33,7 @@ draft: false
 ## Resolution Text
 IN RE: E-SCIENCE CORPORATION  NPC BN No.
 
-20 -124
+20124
 
 x------------------------------------------------x
 
@@ -34,7 +43,7 @@ AGUIRRE , D.P.C. :
 
 This Resolution refers to the re quest for Postponement of
 
-Notification to affected data subjects of E -Science Corporation (“E -
+Notification to affected data subjects of EScience Corporation (“E -
 
 Science”) dated 3 July 2020 , involving a data breach incident
 
@@ -42,13 +51,12 @@ affecting approximately four thousand (4,000) test records of data
 
 subjects , for it is still investigating the matter internally. 1
 
-The Facts
-
+### Facts
 On 26 June 2020, one of E-Science ’s databases was accessed by a
 
 hacker and a schema was created containing a message asking for
 
-a ransom. The hacker further stated th at E -Science ’s databases
+a ransom. The hacker further stated th at EScience ’s databases
 
 were already downloaded and backed up in their servers. They
 
@@ -64,23 +72,21 @@ subjects from eight (8) different organizations  including names, e -
 
 mail addresses, and work addresses . They claim that n o other
 
-personal information, passwords, financial data, and real -time
+personal information, passwords, financial data, and realtime
 
 data were accessed. 3
 
-After the said attack was identified, E -Science has conducted the
+After the said attack was identified, EScience has conducted the
 
 following safeguards that would minimize harm and mitigate the
 
 impact of the personal data breach:
 
-> 1E-mail dated 3 July 2020 submitted by the Data Protection Officer of E -Science .
+> 1E-mail dated 3 July 2020 submitted by the Data Protection Officer of EScience .
 > 2Data Breach Report dated 2 July 2020, at p. 2.
 > 3Ibid ,at pp.2-3. Resolution
-> NPC BN: 20 -124
+> NPC BN: 20124
 > Page 2of 6
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 (1)  June 30: An investigation was started by the Network and
 
@@ -96,13 +102,13 @@ Privacy Commission; and
 
 (4)  Other internal security action items have been laid out. 4
 
-Furthermore, E -Science has described in full the measures taken or
+Furthermore, EScience has described in full the measures taken or
 
 proposed to be taken to address the said breach, to wit:
 
-(1)  Set -up a system where there is a centralized accessibility
+(1)  Setup a system where there is a centralized accessibility
 
-monitoring of E -Science IP addresses;
+monitoring of EScience IP addresses;
 
 (2)  Reset all VPN credentials;
 
@@ -153,32 +159,29 @@ unaffected individuals. 6
 > 4Ibid ., at p. 2.
 > 5Ibid. , at p. 3.
 > 6Ibid ., at p. 3. Resolution
-> NPC BN: 20 -124
+> NPC BN: 20124
 > Page 3of 6
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
-Hence, on 3 July 2020, E -Science sent an e -mail to the Commission
+Hence, on 3 July 2020, EScience sent an email to the Commission
 
 requesting for notification extension to the affected data subjects
 
 since it is still investigating the matter internally. 7
 
-Discussion
-
+### Discussion
 This Commission grants the herein request for notification
 
 extension or postponement of notification to data subjects of E -
 
-Science in accordance with NPC Circular No. 16 -03 (Personal Data
+Science in accordance with NPC Circular No. 1603 (Personal Data
 
 Breach Management).
 
-Under Section 18(A) of NPC Circular No. 16 -03, the personal
+Under Section 18(A) of NPC Circular No. 1603, the personal
 
 information controller (“PIC”) shall notify the data subjects
 
-affected by a personal data breach within seventy -two (72) hours
+affected by a personal data breach within seventytwo (72) hours
 
 upon knowledge of or reasonable belief by the personal
 
@@ -186,7 +189,7 @@ information controller or personal information processor that a
 
 personal data breach has occurred. The notification may be made
 
-on the basis of available information within the seventy -two (72 )
+on the basis of available information within the seventytwo (72 )
 
 hour period if the personal data breach is likely to give rise to a
 
@@ -208,7 +211,7 @@ notification when it is not reasonably possible to notify the data
 
 subjects within the prescribed period. Section 18(B) of NPC
 
-Circular No. 16 -03 provides that :
+Circular No. 1603 provides that :
 
 If it is not reasonably possible to notify the data
 
@@ -230,11 +233,9 @@ public interest or in the interest of the affected data
 
 subjects. The Commission may authorize the
 
-> 7E-mail dated 3 July 2020 submitted by the Data Protection Officer of E -Science. Resolution
-> NPC BN: 20 -124
+> 7E-mail dated 3 July 2020 submitted by the Data Protection Officer of EScience. Resolution
+> NPC BN: 20124
 > Page 4of 6
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 postponement of notification where it may hinder the
 
@@ -250,7 +251,7 @@ In thi s case, the hacked data include four thousand 4,000 test
 
 records of data subjects from eight ( 8) different organizations that
 
-contain names, e -mail addresses, and work addresses. Moreover,
+contain names, email addresses, and work addresses. Moreover,
 
 E-Science opted not to send notifications yet in order to prevent
 
@@ -264,9 +265,9 @@ Commission acknowledges that it may not be reasonably possible
 
 for E-Science to notify the affected data subjects within the
 
-prescribed period of seventy -two ( 72 ) hours upon its knowledge of
+prescribed period of seventytwo ( 72 ) hours upon its knowledge of
 
-the said data breach incident. Moreover, E -Science’s reasoning that
+the said data breach incident. Moreover, EScience’s reasoning that
 
 it did not send notifications to prevent sending the same to
 
@@ -282,7 +283,7 @@ or affected . Therefore, granting the request for postponement to
 
 notify data subjects is proper.
 
-Meanwhile, while E -Science has submitted an Initial Report to
+Meanwhile, while EScience has submitted an Initial Report to
 
 notify the Commission of the data breach incident and has acted
 
@@ -290,11 +291,11 @@ upon the matter on the notification to data subjects with the
 
 request for postponement thereof, it has not however submitted a
 
-Full Breach Report as required by NPC Circular No. 16 -03.
+Full Breach Report as required by NPC Circular No. 1603.
 
-Under Section 17(C) of NPC Circular No. 16 -03, it provides that:
+Under Section 17(C) of NPC Circular No. 1603, it provides that:
 
-[T] he Commission shall be notified within the 72 -hour
+[T] he Commission shall be notified within the 72hour
 
 period based on available information . The full report
 
@@ -308,16 +309,14 @@ Commission to comply .9
 
 > 8Emphasis supplied.
 > 9Emphasis supplied. Resolution
-> NPC BN: 20 -124
+> NPC BN: 20124
 > Page 5of 6
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 The Commission has received on 2 July 2020 an Initial Report on
 
 the said data breach incident of E-Science. However, no Full
 
-Breach Report has been submitted until now . Further, E -Science
+Breach Report has been submitted until now . Further, EScience
 
 did not request for and n o additional time was granted by this
 
@@ -327,7 +326,7 @@ note d that Notification of the Commission and Notification of Data
 
 Subjects are two (2) different and separate requirements under
 
-Sections 17 (C) and 18 (A) of NPC Circular No. 16 -03 , respectively .
+Sections 17 (C) and 18 (A) of NPC Circular No. 1603 , respectively .
 
 Thus, the PIC should promptly comply with both sections
 
@@ -339,7 +338,7 @@ ORDERED to 1) SUBMIT with dispatch a Full Report of the
 
 Personal Data Breach as required under Section 17(C) of NPC
 
-Circular No. 16 -03 ; and 2) SHOW CAUSE in writing why it
+Circular No. 1603 ; and 2) SHOW CAUSE in writing why it
 
 should not be liable for failure to submit a Full Report within the
 
@@ -359,7 +358,7 @@ thereof within fifteen (15) days from submission of their Full
 
 Breach Report. Pending the ir verification of the full list of affected
 
-data subjects , E -Science Corporation is enjoined to use alternative
+data subjects , EScience Corporation is enjoined to use alternative
 
 means of notification under Section 18(d) of NPC Circular No. 16 -
 
@@ -371,26 +370,17 @@ Pasay City, Philippines
 
 6 August 20 20 .
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner Resolution
 
-NPC BN: 20 -124
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
+NPC BN: 20124
 
 WE CONCUR:
-
-Sgd.
 
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
-
-Sgd.
 
 JOHN HENRY D. NAGA
 

@@ -1,12 +1,18 @@
 ---
-title: "NPC BN 18-038: In re: Social Security System"
-description: "NPC BN 18-038: In re: Social Security System"
+title: 'NPC BN 18-038: In re: Social Security System'
+description: Breach notification resolution on SSS data breach and notification compliance.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2024
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-038"'
+- '"npc bn 18-038"'
+- '"In re: Social Security System"'
+- '"in re: social security system"'
+date: '2024-09-17'
 ---
 
 ## Source

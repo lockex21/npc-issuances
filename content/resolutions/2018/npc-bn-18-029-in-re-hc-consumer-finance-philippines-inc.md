@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-029: In re: HC Consumer Finance Philippines, Inc."
-description: "NPC BN 18-029: In re: HC Consumer Finance Philippines, Inc."
+title: 'NPC BN 18-029: In re: HC Consumer Finance Philippines, Inc.'
+description: Breach notification resolution regarding HC Consumer Finance Philippines
+  Inc. personal data breach.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2024
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-029"'
+- '"npc bn 18-029"'
+- '"In re: HC Consumer Finance Philippines, Inc."'
+- '"in re: hc consumer finance philippines, inc."'
+date: '2024-09-04'
 ---
 
 ## Source

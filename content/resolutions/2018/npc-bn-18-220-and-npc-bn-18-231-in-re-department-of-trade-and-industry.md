@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-220 and NPC BN 18-231: In Re: Department of Trade and Industry"
-description: "Breach Notification, 27 November 2018, Annex A , in In Re: Department of Trade and Industry –"
+title: 'NPC BN 18-220 and NPC BN 18-231: In Re: Department of Trade and Industry'
+description: 'Breach Notification, 27 November 2018, Annex A , in In Re: Department
+  of Trade and Industry –'
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2020
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-220"'
+- '"npc bn 18-220"'
+- '"In Re: Department of Trade and Industry"'
+- '"in re: department of trade and industry"'
+date: '2020-10-22'
 ---
 
 ## Source

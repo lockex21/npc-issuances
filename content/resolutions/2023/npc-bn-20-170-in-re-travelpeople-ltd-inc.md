@@ -1,11 +1,17 @@
 ---
 title: "NPC BN 20-170: In Re: Travelpeople, Ltd., Inc."
-description: "Compliance and Motion for Partial Reconsideration dated 11 February 2021 of Travel People ,"
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC BN 20-170"
+  - "npc bn 20-170"
+  - "In Re: Travelpeople, Ltd., Inc."
+  - "in re: travelpeople, ltd., inc."
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-11-13"
 draft: false
 ---
 

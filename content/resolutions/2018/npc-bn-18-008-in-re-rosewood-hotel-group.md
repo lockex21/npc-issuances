@@ -1,12 +1,21 @@
 ---
-title: "NPC BN 18-008: In Re: Rosewood Hotel Group"
-description: "Resolution dismissing breach notification complaint against Rosewood Hotel Group regarding unauthorized access to guest reservation system, finding that Rosewood conducted proper breach management and implemented reasonable security measures."
+title: 'NPC BN 18-008: In Re: Rosewood Hotel Group'
+description: Resolution dismissing breach notification complaint against Rosewood
+  Hotel Group regarding unauthorized access to guest reservation system, finding that
+  Rosewood conducted proper breach management and implemented reasonable security
+  measures.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2018
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-008"'
+- '"npc bn 18-008"'
+- '"In Re: Rosewood Hotel Group"'
+- '"in re: rosewood hotel group"'
+date: '2018-01-19'
 ---
 
 ## Source

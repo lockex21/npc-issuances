@@ -1,11 +1,17 @@
 ---
 title: "NPC BN 18-229: In Re: LEAPFROGGR, Inc."
-description: "An Act Protecting Individual Personal Information in Information and Communications Systems"
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC BN 18-229"
+  - "npc bn 18-229"
+  - "In Re: LEAPFROGGR, Inc."
+  - "in re: leapfroggr, inc."
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-01-19"
 draft: false
 ---
 
@@ -22,7 +28,6 @@ draft: false
 - Notification of Data Subjects
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 IN RE: LEAPFROGGR, IN C.
 
@@ -68,8 +73,6 @@ Order wherein it attached separate affidavits of LYB 3 and TMR .4
 > 4Affidavit dated 21 December 2022 of TMR .
 
 NPC BN 18 -229 NPC BN 18 -229
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Issue
 
@@ -134,7 +137,6 @@ notification to the affected data subjects. 7
 > 6In re: Leapfroggr, Inc., NPC BN 18 -229, Order dated 10 November 2022, at p. 3
 > 7Id. , at p. 4 NPC BN 18 -229
 > Page 3of 5
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Accordingly, Leapfroggr submitted its compliance containing two (2)
 
@@ -203,8 +205,6 @@ that may be used to enable identity fraud and are reasonably believed
 
 NPC BN 18 -229
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 to have been acquired by an unauthorized person, which may likely
 
 give rise to a real risk of serious harm to the affected data subject s. 16
@@ -221,21 +221,15 @@ City of Pasay, Philippines .
 
 19 January 2023.
 
-Sgd.
-
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
-
-Sgd.
 
 NERISSA N. DE JESUS
 
@@ -252,8 +246,6 @@ in the Government and the Private Sector, Creating for This Purpose a National P
 Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter
 
 V, § 20 (f) (2012). NPC BN 18 -229
-
-5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 SS
 

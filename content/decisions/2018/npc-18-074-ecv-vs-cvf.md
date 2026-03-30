@@ -1,11 +1,17 @@
 ---
 title: "NPC 18-074: ECV v. CVF"
-description: "Complaint dismissed for lack of merit; marriage certificate processing held necessary for establishment of legal claims under DPA Section 13(f)."
+description: "Complaint dismissed for lack of merit; marriage certificate processing held necessary for establishment of legal claims under DPA Section 13(f), with no substantial evidence of unauthorized acquisition."
+aliases:
+  - "NPC 18-074"
+  - "npc 18-074"
+  - "ECV v. CVF"
+  - "ecv v. cvf"
 tags:
   - "decision"
   - "type/decision"
   - "year/2018"
   - "npc-case"
+date: "2022-03-17"
 draft: false
 ---
 
@@ -22,11 +28,19 @@ draft: false
 
 ## Decision Text
 
-ECV, Complainant, versus CVF, Respondent.
+ECV,
 
----
+Complainant,
 
-NAGA, P.C.
+-versus-
+
+CVF,
+
+Respondent.
+
+x----------------------------------------------------x
+
+NAGA, P.C.:
 
 Before this Commission is a Complaint filed by ECV against CVF for violating Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA).[^1]
 
@@ -90,7 +104,7 @@ In relation to the Marriage Contract of RV and ECV (herein Complainant), the CID
 
 In a Certification dated 12 January 2022, the DepEd certified "that a photocopy of the Marriage Contract between RV and ECV dated July 10, 1987, was attached, and included by CF when she filed the complaint against ECV before the Department of Education, Regional Office 10."[^35]
 
-### Issues
+### Issue
 
 I. Whether the Complaint should be dismissed for being filed beyond the reglementary period.
 
@@ -216,44 +230,35 @@ Moreover, ECV failed to provide substantial evidence that CVF had no basis to pr
 
 The Commission finds that there was a valid basis for processing ECV's sensitive personal information through Section 13(f) of the DPA. Consequently, CVF has not violated Section 25(b) of the law since the processing was in relation to the establishment, exercise or defense of legal claims, and provided to a government body.
 
-### Dispositive Portion
-
-**WHEREFORE**, premises considered, the Complaint is hereby **DISMISSED** for lack of merit.
+WHEREFORE, premises considered, the Complaint is hereby **DISMISSED** for lack of merit.
 
 **SO ORDERED.**
 
-City of Pasay, Philippines.
+City of Pasay, Philippines. 17 March 2022.
 
-17 March 2022.
-
----
-
-**JOHN HENRY D. NAGA**
-
+JOHN HENRY D. NAGA
 Privacy Commissioner
 
 WE CONCUR:
 
-**LEANDRO ANGELO Y. AGUIRRE**
-
+LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
-**DUG CHRISTOPER B. MAH**
-
+DUG CHRISTOPER B. MAH
 Deputy Privacy Commissioner
 
 Copy furnished:
 
-ECV, Complainant
+ECV
+Complainant
 
-CVF, Respondent
+CVF
+Respondent
 
-MB, Counsel for Respondent
+Counsel for Respondent
 
 COMPLAINTS AND INVESTIGATION DIVISION
-
 ENFORCEMENT DIVISION
-
 GENERAL RECORDS UNIT
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes, [Data Privacy Act of 2012], Republic Act No. 10173 (2012).

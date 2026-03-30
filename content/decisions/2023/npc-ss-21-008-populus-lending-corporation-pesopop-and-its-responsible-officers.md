@@ -1,28 +1,26 @@
 ---
-title: "NPC SS 21-008: Populus Lending Corporation (PESOPOP) and its Responsible Officers"
-description: "Before this Commission is a Fact-Finding Report with Application for the Issuance of a Temporary Ban on the Processing of Personal Data (FFR) dated 10 June 2021 against Populus Lending Corporation (Pesopop), the operator of the online lending application, Pesopop, and its..."
-tags:
-  - "decision"
-  - "type/decision"
-  - "year/2023"
-  - "npc-case"
+description: Complaint for alleged data privacy violations; dismissed or granted based
+  on substantial evidence.
 draft: false
+tags:
+- decision
+- type/decision
+- year/2021
+- npc-case
+title: 'NPC SS 21-008: Populus Lending Corporation (Pesopop) and its Responsible Officers'
+aliases:
+- NPC SS 21-008
+- npc ss 21-008
+- Populus Lending Corporation (Pesopop)
+- populus lending corporation (pesopop)
+date: '2023-09-26'
 ---
+## Source-Reference: NPC SS 21-008-Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-SS-21-008-2023.09.26-O.pdf-Source page: http://privacy.gov.ph/decisions-2/
+- Issue date: September 26, 2023-Published on NPC site: Sat, 21 Sep 2024 04:54:53 GMT-Pages: 59
 
-## Source
-- Reference: NPC SS 21-008
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-SS-21-008-2023.09.26-O.pdf
-- Source page: http://privacy.gov.ph/decisions-2/
-- Issue date: September 26, 2023
-- Published on NPC site: Sat, 21 Sep 2024 04:54:53 GMT
-- Pages: 59
-
-## Source Tags
-- Unauthorized Processing (Section 25), Incurring Criminal Liability, Gross Negligence, Consent, Online Lending Application, Legitimate Purpose, and General Privacy Principles
+## Source Tags-Unauthorized Processing (Section 25), Incurring Criminal Liability, Gross Negligence, Consent, Online Lending Application, Legitimate Purpose, and General Privacy Principles
 
 ## Decision Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 IN RE: POPULUS LENDING
 
@@ -52,9 +50,7 @@ The Complaints and Investigation Division (CID) of the National Privacy Commissi
 
 investigation conducted by the NPC.
 
-Facts
-
-> 1Fact-Finding Report, 10 June 2021, at 13, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
+### Facts
 
 NPC SS 21 -008
 
@@ -62,7 +58,6 @@ For: Violation of the Data Privacy Act of 2012 NPC SS 21-008
 
 > In re: Populus Lending Corporation (Pesopop)
 > Page 2of 59
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 On 10 June 2021, the CID submitted its FFR against Pesopop following numerous reports of continuing privacy violations committed by several online lending applications (OLAs). 2 The CID initiated a sua sponte investigation against Pesopop pursuant to Section 7(b) of the DPA that mandates the NPC to institute investigations in cases it deems appropriate, and NPC Circular 21-01 (2021 Rules of Procedure) that permits the NPC to initiate sua sponte investigations and file complaints for DPA violations. 3 The FFR serves as the complaint, with the CID as the Nominal Complainant, in sua sponte investigations. 4
 
@@ -76,20 +71,8 @@ To proceed, the user must click on the “Setting” button. 8 The next pop-up m
 
 When the user clicks “DENY,” he or she will be taken back to the previous “Access Permission” pop-up message. 11  On the other hand, when the user selects “ALLOW,” the user will be directed to the Main
 
-> 2Id. at 1.
-> 3Id. at 4-5.
-> 4Id. at 5.
-> 5Id. at 2.
-> 6Id.
-> 7Fact-Finding Report, 10 June 2021, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 8Id.
-> 9Id.
-> 10 Id.
-> 11 Id.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Screen, where he or she can proceed to the loan processing screen within the app. 12
 
@@ -105,17 +88,6 @@ To our beloved customer, to avoid fraud. When you sign up for Pesopop account, i
 
 phone book , camera, internet, location, list of your applications and any other information.
 
-> 12 Id.
-> 13 Fact-Finding Report, 10 June 2021, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 14 Id.
-> 15 Id.
-> 16 Id.
-> 17 Id. at 3.
-> 18 Id.
-> 19 Fact-Finding Report, 10 June 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). NPC SS 21-008
-> In re: Populus Lending Corporation (Pesopop)
-> Page 4of 59
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 We also need to collect your contact information. We will request the "Read Contacts" permission. If you agree to the authorization, we will scan and upload the contact list information to https://api.pesopop.com:18062 using the most secure data transfer protocol (HTTPS). We will store your personal information through DES and AES encryption. Storage time will not exceed your usage time.
 
@@ -135,8 +107,6 @@ Pesopop may allow third parties, including advertising partners, to display adve
 
 In re: Populus Lending Corporation (Pesopop)
 
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
 Sharing Your Personally Identifiable Information
 
 Pesopop may share your Personally Identifiable Information (including, without limitation, your financial account information and social security number) with Payment Partners with whom Pesopop has a business relationship.
@@ -153,12 +123,6 @@ First, the CID contended that Pesopop’s processing of personal information doe
 
 The CID stated that pursuant to the transparency principle, a data subject must be aware of the nature, purpose, and extent of processing of their personal data, including the risks and safeguards involved, the
 
-> 20 Id. at 3-4.
-> 21 Id. at 13.
-> 22 Id. at 11. NPC SS 21-008
-> In re: Populus Lending Corporation (Pesopop)
-> Page 6of 59
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 identity of the personal information controller (PIC), their rights as a data subject, and how these can be exercised. 23  It elaborated that any information and communication relating to the processing of personal data should be accessible and easy to understand, using clear and plain language. 24  It also explained that this is commonly done through a privacy notice or privacy policy. 25
 
@@ -170,18 +134,8 @@ On the legitimate purpose principle, the CID elaborated that the processing of i
 
 According to the CID, the access, retention, and storage of a data subject’s phone contacts are considered processing activities under the DPA, and “as such, it needs to have legitimate purpose as provided by Sections 12 and 13 of the DPA.” 30  Further, where consent is the basis of the processing, expressed consent must be freely given, specific,
 
-> 23 Id. at 6.
-> 24 Id.
-> 25 Fact-Finding Report, 10 June 2021, at 6, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 26 Id. at 6-7.
-> 27 Id. at 6.
-> 28 Id. at 7.
-> 29 Id.
-> 30 Id. at 8.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 informed, and indication of will. 31  Thus, for consent to be considered valid, it should be informed consent, where the information provided is accessible, clear, and easily understood. 32  The CID elaborated that bundled consent does not meet the criteria for specific consent. 33
 
@@ -195,17 +149,6 @@ Pesopop’s Privacy Policy initially states that the data is used only for the c
 
 The CID stressed that for data subjects to avail of the services of Pesopop, “they have no choice but to accept all the terms and conditions provided by [Pesopop] and give consent for all the purposes for which [Pesopop] intends to use the personal data” because otherwise, the data subject cannot obtain a loan. 36  The CID argued that the consent was not freely given and did not serve as an indication of will of the data subjects. 37  Thus, consent was not validly acquired. 38
 
-> 31 Fact-Finding Report, 10 June 2021, at 8, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 32 Id.
-> 33 Id.
-> 34 Id.
-> 35 Id. at 8-9. Emphasis supplied.
-> 36 Id. at 9.
-> 37 Fact-Finding Report, 10 June 2021, at 9 in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 38 Id. NPC SS 21-008
-> In re: Populus Lending Corporation (Pesopop)
-> Page 8of 59
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Further, the CID saw no other reason for Pesopop to store the data subject’s contacts list throughout the duration of the loan agreement other than for use in debt collection. 39  The CID stated that Pesopop’s Privacy Policy provides that “if you do not repay during the repayment period, we have the right to access and use your personal contact information, including FB, Instagram, Google+, etc.” 40
 
@@ -215,18 +158,8 @@ The CID further asserted that Pesopop’s requirement that users grant Pesopop p
 
 Second, the CID asserted that Pesopop’s requirement to grant it the “permission to access several phone capabilities, such as contacts, photos, media and files, in order to successfully install, register, and avail of its loan facilities, and failing to provide a separate interface for a user to provide character references or co-makers of his own choosing” is in violation of Section 3(D)(4) of the Loan-Related Transactions Circular. 44  According to the CID, it is explicit in the Loan-Related Transactions Circular that processing of phone contacts list for use in debt collection is strictly prohibited. 45  Further, it argued that “in all instances, online lending apps must have a separate interface where borrowers can provide character references and/or co-makers to their loan application, of their own choosing.” 46
 
-> 39 Id.
-> 40 Id.
-> 41 Id.
-> 42 Id.
-> 43 Fact-Finding Report, 10 June 2021, at 9, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 44 Id. at 10.
-> 45 Id.
-> 46 Id.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 The CID reiterated that “Pesopop’s processing of personal data does not adhere to the [general] privacy principles of transparency, legitimate purpose, and proportionality.” 47  The CID reiterated that the access, use, and storage of the phone contact list finds no legitimate basis under the DPA. 48  Thus, there is unauthorized processing under Section 25 of the DPA. 49
 
@@ -240,16 +173,8 @@ Further, there is sufficient information to support that Pesopop has the ability
 
 Hence, the issuance of a Temporary Ban on Pesopop is crucial to preserve and protect the rights of the data subject from further processing. 52
 
-> 47 Id. at 11.
-> 48 Id.
-> 49 Fact-Finding Report, 10 June 2021, at 11, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 50 Id. at 12.
-> 51 Id. at 11.
-> 52 Id. at 12.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 On 16 June 2021, the Commission issued an Order suspending the complaint proceedings until the resolution of the application for the issuance of a temporary ban. 53  It directed Pesopop to submit a position paper on the application for the issuance of a temporary ban within ten (10) days from its receipt of the Order. 54
 
@@ -265,18 +190,8 @@ WHEREFORE, premises considered, this Commission GRANTS
 
 the Application for Temporary Ban on the processing of personal data filed by the Complaints and Investigation Division of the National Privacy Commission. A TEMPORARY BAN ON PROCESSING OF PERSONAL DATA is hereby issued against Respondent Populus Lending Corporation, as the operator of the online lending application, Pesopop.
 
-> 53 Order, 16 June 2021, at 1, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 54 Id.
-> 55 Order, 12 August 2021, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 56 Id.
-> 57 Id.
-> 58 Id. at 3.
-> 59 Id.
-> 60 Supplemental Fact-Finding Report, 05 July 2021, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Further, pursuant to the ORDER FOR TEMPORARY BAN, Respondent Populus Lending Corporation shall:
 
@@ -294,15 +209,8 @@ On 03 September 2021, Pesopop, through its counsel Zosa & Quijano Law Offices, s
 
 In its Motion for Reconsideration, Pesopop argued that the Order granting the temporary ban “is not warranted [sic] and issued with grave abuse of discretion amounting to lack or excess of jurisdiction for having been issued without authority and in violation of Sec[tion] 3, Rule 9 of the 2021 NPC Rules of Procedure.” 64  It contended that the second and third requisites for the issuance of a temporary ban were absent. 65  Pesopop stated that there was no mention in the assailed
 
-> 61 Order, 12 August 2021, at 10-11, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 62 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 63 Id. at 6.
-> 64 Id. at 3.
-> 65 Id. at 2.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Order that the required motion has been filed to warrant the application. 66  It further stated that the NPC does not have motu proprio
 
@@ -318,15 +226,8 @@ Moreover, although it was initially stated in the terms and conditions of use th
 
 Therefore, respondents respectfully assert that although there could have been a mistake in the data terms and privacy of respondent PesoPop , the latter in good faith did not use and/or was able to obtain excess information considering that the request for access of the phone contact list was limited to only five (5) numbers solely used for character reference and that respondent PesoPop follows a strict collection policy without the use of harassment and/or excess of information. 70
 
-> 66 Id.
-> 67 Id.
-> 68 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 69 Id.
-> 70 Id. at 3-4. Emphasis supplied.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Pesopop asserted that all elements of valid consent are present in this case. 71  It argued that the consent it obtained from its clients were not bundled and were voluntarily requested as many times as the access to the information was requested. 72  It stressed that its clients and potential users will “always have a choice in giving consent to the gathering, access, processing and storage of their personal data.” 73
 
@@ -340,21 +241,8 @@ Lastly, Pesopop argued that the individual respondents did not actively particip
 
 On 17 September 2021, the Commission directed Pesopop and the individual respondents to appear for a clarificatory hearing on 28 September 2021. 81
 
-> 71 Id. at 5.
-> 72 Id. at 4.
-> 73 Id.
-> 74 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 4, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 75 Id.
-> 76 Id. at 5.
-> 77 Id.
-> 78 Id.
-> 79 Id.
-> 80 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 6, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 81 Order, 17 September 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 On 28 September 2021, the Commission conducted the Clarificatory Hearing. 82  As a result of the Clarificatory Hearing, the Commission directed Pesopop and the individual respondents to submit the following information and documents:
 
@@ -394,12 +282,8 @@ On 20 October 2021, the Respondents filed its Motion to Admit with Compliance an
 
 5. An explanation of the discrepancy between Counsel’s representations in the Motion for Reconsideration on the access to the phone contact list and the Privacy Policy dated 10 September 2021;
 
-> 82 Order, 28 September 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 83 Id. at 2.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 6. A technical explanation on the purpose of the code “android.permission.READ_CONTACTS”, which if enabled, gives the application permission to read the user's contacts data;
 
@@ -425,33 +309,25 @@ Thus, on 08 November 2021, the EnD issued a Letter to Pesopop regarding its comp
 
 [D]uring a monitoring activity on 29 October 2021, EnD noticed that Pesopop is again made available for download in the Google
 
-> 84
 
 Motion to Admit with Compliance, 20 October 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
-> 85
 
 Enforcement Division Memorandum, 03 November 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
-> 86
 
 Letter Re: Compliance with Order dated 12 August 2021 in NPC SS 21-008 entitled “ In re: Populus Lending Corporation (Pesopop) and its Responsible Officers” , 08 November 2021, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
-> 87
 
 Enforcement Division Memorandum, 03 November 2021, at 1, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
-> 88
 
 Id.
 
-> 89
 
 Letter Re: Compliance with Order dated 12 August 2021 in NPC SS 21-008 entitled “ In re: Populus Lending Corporation (Pesopop) and its Responsible Officers” , 08 November 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). NPC SS 21-008
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Play Store. Google Download Links of the mobile application can also be accessed on Pesopop’s official Facebook page, through the “Use App” buttons and in its official website through the buttons “Get it on Google Play” and “Download Pesopop now.”
 
@@ -469,15 +345,8 @@ In the meantime, please be advised that my client has already filed a motion for
 
 Nevertheless, Pesopop stressed that it has already manifested to the Commission that it will comply with all its orders. 93  It explained that it has already “modified its data privacy policy, modified its app to conform to its data privacy policy and submitted other compliance documents directed to be submitted by this Honorable Commission.” 94
 
-> 90 Id. at 2.
-> 91 Reply to letter dated 08 November 2021, 15 November 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 92 Id. at 1. Emphasis supplied.
-> 93 Id.
-> 94 Id.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 On 19 November 2021, the EnD once again simulated downloading the app, account registration, and attempted a loan application. 95  It found that “based on the simulations of the two (2) versions, versions 1.5.1 and 1.5.4, no evident changes were present.” 96  According to the EnD “the processes were similar, and the data being requested by the forms provided are still the same.” 97  The EnD observed that the permissions requested during the registration and loan application processes in both versions were also the same:
 
@@ -489,19 +358,8 @@ Further, the EnD confirmed that as of date, despite the Commission’s Order, th
 
 As of 26 November 2021, the EnD reported that the app was no longer available for download in the Google Play Store and other
 
-> 95 Enforcement Division Memorandum, 23 November 2021, at 1, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 96 Id.
-> 97 Id.
-> 98 Id.
-> 99 Letter Re: Compliance with Order dated 12 August 2021 in NPC SS 21-008 entitled “ In re: Populus Lending Corporation (Pesopop) and its Responsible Officers” , 25 November 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 100 Id.
-> 101 Id.
-> 102 Id.
-> 103 Id.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 platforms. 104  On 06 December 2021, however, the EnD found that a new version of the app (version 1.5.5) was once again made available on the Google Play Store. 105  The EnD observed that the same permissions were still present when compared to the previous versions:
 
@@ -573,16 +431,8 @@ Present and required
 
 On 28 December 2021, the EnD issued a third Letter to Pesopop regarding its compliance with the Order dated 12 August 2021. 107  The EnD stated that during its conduct of regular monitoring, it found that the app was again available for download on Google Play Store. 108  The EnD reiterated that the temporary ban against Pesopop remains in effect until the final resolution of the main case, or upon further orders by the Commission or other lawful authority. 109  It ordered the immediate take down of the app:
 
-> 104 Enforcement Division Memorandum, 26 November 2021, at 1, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 105 Id.
-> 106 Id. at 3.
-> 107 Letter Re: Compliance with Order dated 12 August 2021 in NPC SS 21-008 entitled “ In re: Populus Lending Corporation (Pesopop) and its Responsible Officers” , 28 December 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 108 Id. at 2.
-> 109 Id.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Consequently, Populus Lending Corporation is hereby,
 
@@ -608,15 +458,8 @@ Further, the Commission orders Populus Lending Corporation and its responsible o
 
 SO ORDERED .114
 
-> 110 Id.
-> 111 Compliance with letter dated 28 December 2021, 02 January 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 112 Id.
-> 113 Id.
-> 114 Resolution, 27 January 2022, at 17, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 The Commission stated that Pesopop has not sufficiently addressed the reasons for the issuance of the temporary ban. 115  Pesopop continued to make the app available for download while the temporary ban was in effect. 116  In addition, Pesopop did not submit all the documents and information required by the Order dated 28 September 2021. 117  The Commission also found that Pesopop has not rectified its operations to comply with the DPA and the issuances of the Commission. 118
 
@@ -636,21 +479,8 @@ Pesopop explained that the Revised Privacy Policy “sufficiently informs the da
 
 The Revised Privacy Policy of the respondents expressly provides that personal information will be stored through DES
 
-> 115 Id. at 9.
-> 116 Id.
-> 117 Id. at 10.
-> 118 Id. at 16.
-> 119 Memorandum of the Respondents, 01 March 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 120 Id. at 6-7.
-> 121 Id. at 6.
-> 122 Id.
-> 123 Id.
-> 124 Id. at 7.
-> 125 Memorandum of the Respondents, 01 March 2022, at 9, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 and AES encryption and will be used primarily to prevent fraud, credit risk evaluation management, debt collection, identity verification, anti-money laundering, and to ensure compliance with laws, rules, and regulations.
 
@@ -668,13 +498,8 @@ The Revised Privacy Policy also expressly provides that the purpose for collecti
 
 As a matter of fact, the respondents’ declared purpose for collecting personal information is expressly regulated by the National Privacy Commission under NPC Circular 20-01 (Guidelines on Processing Personal Data for Loan-Related Transactions). In other words, the Honorable Commission itself recognizes that the respondents’ declared purpose is legitimate because the Commission has even issued rules regulating Respondents’ service. Therefore, the respondents’ declared
 
-> 126 Id. at 8. Emphasis supplied.
-> 127 Id. at 9.
-> 128 Id. at 10.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 purpose complies with the principle that the collection of personal data must be for a legitimate purpose. 129
 
@@ -690,16 +515,8 @@ Third, Pesopop contended that the data subjects validly consented to the agreeme
 
 Fourth, Pesopop maintained that a temporary ban applies only against the processing of personal data. 134  Thus, according to Pesopop, the
 
-> 129 Id. Emphasis supplied.
-> 130 Id.
-> 131 Memorandum of the Respondents, 01 March 2022, at 11-12, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). Emphasis supplied.
-> 132 Id. at 12.
-> 133 Id.
-> 134 Id. at 13.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Commission “acted in excess or with grave abuse discretion in issuing the temporary ban against the online lending activities of (Pesopop)“:
 
@@ -713,13 +530,8 @@ Firstly, the Revised Privacy Policy sufficiently informs the data subjects of th
 
 Secondly, the Revised Privacy Policy expressly declares that the processing of personal information is necessary for all purposes not prohibited by applicable law. The declared purpose in collecting personal information for online lending application is not prohibited by law, morals, or public policy. There is no law which prohibits the collection of personal information for the purpose of facilitating online lending services.
 
-> 135 Id. at 13-14. Emphasis supplied.
-> 136 Id. at 15.
-> 137 Memorandum of the Respondents, 01 March 2022, at 15, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Lastly, the collection of personal information is not excessive because it adheres to well-defined standards in order to protect the rights of the data subject. The collection of the data subject’s contact list is required only when the purpose is not contrary to law, such as for the purpose of character reference and identity verification, including instances of suspected fraud or identity theft, or for servicing the account of the data subject. 138
 
@@ -733,20 +545,8 @@ As to the individual respondents’ liability, the CID explained that Pesopop’
 
 Thus, the CID argued that “the violation of the corporation is a violation of the persons behind it, which are its officers or board.” 147
 
-> 138 Id. at 16-17. Emphasis supplied.
-> 139 Id. at 19.
-> 140 Memorandum, 11 March 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 141 Id.
-> 142 Id. at 2.
-> 143 Id. at 8.
-> 144 Id. at 9.
-> 145 Id.
-> 146 Memorandum, 11 March 2022, at 9, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 147 Id.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Lastly, the CID interposed that there is sufficient legal and factual basis for the issuance of an order for a permanent ban on processing of personal data against Pesopop for the following reasons:
 
@@ -762,14 +562,8 @@ On 31 March 2022, the Commission ordered Pesopop to show cause in writing why it
 
 Despite repeated orders from the Commission to take down the application, the application kept re-appearing on the list of applications available for download in the Google Play Store. The
 
-> 148 Id. at 10. Emphasis supplied.
-> 149 Id.
-> 150 Id.
-> 151 Id. at 4.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Commission stresses that this is a blatant recurring violation of the Temporary Ban against Pesopop. 152
 
@@ -783,18 +577,8 @@ With regard to its alleged recurring violations, Pesopop explained that it had n
 
 Respondents, upon legal advice by previous counsel, allowed a limited launch of the PESOPOP application for existing users only for purposes of processing loans of EXISTING users, especially those who had pending obligations, and avoid incurring further losses from pre-existing liabilities. With no malicious intent to violate the Temporary Ban, Respondents only sought to ensure that EXISTING users can access the necessary information in order to fulfill their outstanding obligations. Otherwise put, new users could not have used the PESOPOP
 
-> 152 Order, 31 March 2022, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 153 Memorandum, 31 March 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 154 Entry of Appearance with Motion for Additional Time to File Reply/Comment, 28 June 2022, in
-> In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 155 Id. at 3.
-> 156 Reply (To the Show Cause Order dated 31 March 2022), 11 July 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 157 Id. at 8.
-> 158 Id.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 application. PESOPOP no longer processed any new information/data from new applicants in compliance with the Temporary Ban. 159
 
@@ -818,15 +602,8 @@ During the Clarificatory Hearing, the Commission ordered Pesopop and the individ
 
 7. Copy of the Board Resolution of its equivalent indicating who decided to publish the Pesopop mobile application in Google Play Store and other platforms while the Temporary Ban was in effect. 163
 
-> 159 Id. at 9. Emphasis supplied.
-> 160 Order, 28 July 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 161 Transcript, 11 August 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 162 Id.
-> 163 Order, 11 August 2022, at 1-2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 On 02 September 2022, Pesopop submitted its Compliance. 164  It submitted the following:
 
@@ -844,16 +621,8 @@ Pesopop also manifested that it has twenty thousand nine hundred eighteen (20,91
 
 Pesopop, however, was not able to submit any board resolution or document showing the approval of the “limited launch.” 169  It posited that it “only automatically implemented and launched the [app] upon
 
-> 164 Compliance, 02 September 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 165 Id. at 1-2.
-> 166 Id. at 2.
-> 167 Id.
-> 168 Id.
-> 169 Id.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 receiving notice that they could do so from their previous counsel.” 170
 
@@ -867,39 +636,21 @@ On 28 December 2022, the EnD reported to the Commission that there was a total o
 
 In its report, the EnD narrated that on 02 January 2022, Pesopop informed the EnD that it already removed the app from the Google Play Store. 176  Despite this confirmation, there were still approximately two hundred eighty-eight (288) acquisition counts even after its removal based on information provided by FTC-USA. 177
 
-> 170 Compliance, 02 September 2022, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 171 Id. at 3.
-> 172 Endorsement of NPC SS 21-008 In re: Populus Lending Corporation (Pesopop) and its responsible officers, 22 September 2022, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 173 Letter from US Federal Trade Commission, 16 December 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 174 Supplemental Enforcement Assessment Report, 28 December 2022, at 7, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 175 Id.
-> 176 8th Supplemental Enforcement Assessment Report, 17 May 2023, at 3 in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2023).
-> 177 Id. NPC SS 21-008
-> In re: Populus Lending Corporation (Pesopop)
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 On 06 January 2023, the EnD requested additional information from Google, including the download count for new users and older users (re-installed or re-downloaded the application) and versions of the app installed or acquired from August 2021 onwards. 178
 
 Based on the information provided by Google through FTC-USA, the EnD found that there were only forty-one thousand thirty-two (41,032) old-time users and this encompasses the number of users who have reinstalled or downloaded the app. 179  Thus, this contradicts Pesopop’s claims during the Clarificatory Hearing that the alleged “limited launch” from October 2021 to December 2021 exclusively serves its users who already have existing obligations to Pesopop. 180  It also reiterated that Pesopop blatantly uploaded versions 1.5.4 and 1.5.5 during the pendency of the temporary ban. 181
 
-Issues
-
+### Issues
 I. Whether Pesopop committed violations of the DPA, including Unauthorized Processing of Personal Information and Sensitive Personal Information (Unauthorized Processing), and the Loan-Related Transactions Circular.
 
 II. Whether Pesopop’s violation of the DPA warrants arecommendation for prosecution.
 
-Discussion
-
+### Discussion
 The Commission finds that Pesopop violated Section 25 of the DPA or Unauthorized Processing. Pesopop committed multiple violations of the DPA before and during the effectivity of the temporary ban. Pesopop willfully and deliberately violated the Commission’s Order dated 12 August 2021 when it made its app available for download in several instances. Taken together, these acts are sufficient to warrant a recommendation for prosecution.
 
-> 178 Id. at 6.
-> 179 Id. at 8.
-> 180 Id.
-> 181 Id. at 9.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 I. Pesopop committed violations of the DPA, including Unauthorized Processing, and the Loan-Related Transactions Circular.
 
@@ -923,12 +674,8 @@ In determining whether Unauthorized Processing occurred, three (3) elements must
 
 All three (3) requisites are present. The circumstances, when taken together, substantially demonstrate that Pesopop processed the personal and sensitive personal information of its data subjects, particularly their phone contacts list, without lawful basis.
 
-> 182 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 25 (2012).
-> 183 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, 16 May 2022, at 31, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-21-006-2022.05.16-Wefund-Lending-Corporation-Decision-on-the-Main-Case-Final.pdf (last accessed 24 October 2023).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 1. Pesopop processed the information of its users.
 
@@ -952,13 +699,8 @@ Pesopop will Collect and Use of Information
 
 Pesopop will collect your personally identifiable information when you register a Pesopop account, use other Pesopop products or services, access Pesopop pages, or participate in promotional or prize winning games. Pesopop also collects personally identifiable information from our business partners. When you register a Pesopop account, we will ask for your name, birthday and gender, in addition to your email address. Once
 
-> 184 Id.
-> 185 Fact-Finding Report, 10 June 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 186 Data Privacy Act of 2012, § 3 (j).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 you are successfully registered with Pesopop, we will be able to identify you when you log in to the server. 187
 
@@ -976,17 +718,8 @@ The CID stated that Pesopop, through its app, collects the user’s mobile numbe
 
 Pesopop’s Privacy Policy also provides that it collects other information such as name, email address, birthday, and gender. 193  It states:
 
-> 187 Fact-Finding Report, 10 June 2021, at 3-4, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied.
-> 188 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 189 Id. at 4.
-> 190 Id. at 4. Emphasis supplied.
-> 191 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 31.
-> 192 Fact-Finding Report, 10 June 2021, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 193 Id. at 3-4.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 The Information We Collect
 
@@ -1014,11 +747,8 @@ Section 3. Definition of Terms . Whenever used in this Act, the following terms 
 
 (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers,
 
-> 194 Id. Emphasis supplied.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 previous or cm-rent health records, licenses or its denials, suspension or revocation, and tax returns; and
 
@@ -1038,17 +768,11 @@ In this case, Pesopop processed personal and sensitive personal information with
 
 Pesopop claims that it processes its users’ personal data following the lawful basis of consent. 198  In its Motion for Reconsideration, it argued that all the elements of valid consent are present because the consent that it obtained from its users were “not bundled and [were]
 
-> 195 Data Privacy Act of 2012, § 3 (g) (l). Emphasis supplied.
-> 196
 
 Id. § 3 (l).
 
-> 197 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 31.
-> 198 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 5, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 voluntarily requested and provided as much time as the number of times access to information was requested.” 199  Pesopop stressed that its users will “always have a choice in giving consent to the gathering, access, processing, and storage of their personal data.” 200  The CID, however, contended that Pesopop did not validly obtain the consent of the users of the app. 201
 
@@ -1068,29 +792,19 @@ Section 13. Sensitive Personal Information and Privileged Information. The proce
 
 The DPA defines consent as follows:
 
-> 199 Id. at 4.
-> 200 Id.
-> 201 Fact-Finding Report, 10 June 2021, at 9 in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 202 Data Privacy Act of 2012, § 12 (a), § 13 (a).
-> 203
 
 Id. § 12 (a). Emphasis supplied.
 
-> 204
 
 Id. § 13.
 
-> 205
 
 Id. § 13.
 
-> 206
 
 Id. § 13 (a). Emphasis supplied. NPC SS 21-008
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Section 3. Definition of Terms . – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 
@@ -1106,18 +820,11 @@ The CID argued that the consent was not freely given. 210  It contended that the
 
 The premise of the CID’s argument is wrong. As the Commission previously held, for consent to be freely given, the data subject must be given a real choice where there is no risk of deception, intimidation,
 
-> 207
 
 Id. § 3 (b). Emphasis supplied.
 
-> 208 Data Privacy Act of 2012, § 3 (b).
-> 209 VVC v. CJB., NPC 19-134, 10 December 2021, at 10, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-19-134-VVC-v.-CJB-Decision-2021.12.10.pdf (last accessed 1December 2023).
-> 210 Fact-Finding Report, 10 June 2021, at 9 in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 211 Id.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 coercion or significant negative consequences if they do not consent to the processing. 212
 
@@ -1129,17 +836,8 @@ The CID stated that the Terms of Service or Loan Guarantee Agreement could not b
 
 In this case, valid consent could not have been given by the data subjects because they were not sufficiently informed of the specific nature, purpose, and extent of the processing. As the Commission previously held, uninformed consent is not valid consent. 216
 
-> 212 MNLC, Inc. v. IKP, NPC 19-528, 29 October 2020, at 17, available at
-> https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision_NPC-19-528-MNLC-v.-PXXX-Corporation.pdf (last accessed 04 January 2024).
-> 213 See National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, § 19 (a) (3) (2016).
-> 214 Fact-Finding Report, 10 June 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 215 Id.
-> 216 AMP v. HXXX Lending Technology Inc., NPC 19-621, 19 November 2020, at 6, available at
-> https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision_NPC-19-621-AMP-v.-HXXX-Lending.pdf (last accessed 1 December 2023).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 A reading of the Privacy Policy shows that users need to agree to provide access to their phone book, camera, location, list of their applications and any other information that Pesopop requires. 217  It states:
 
@@ -1157,16 +855,8 @@ This is a violation of the general privacy principle of transparency, which requ
 
 The principle of transparency similarly requires that these materials be easily accessible and understandable by the data subjects and should be in clear and plain language. 222  Section 18 (a) of the IRR provides:
 
-> 217 Fact-Finding Report, 10 June 2021, at 3-4, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 218 Id. Emphasis supplied.
-> 219 Id. at 6.
-> 220 Id. Emphasis supplied.
-> 221 Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 18 (a) (2016).
-> 222 Id.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Section 18. Principles of Transparency, Legitimate Purpose and Proportionality. The processing of personal data shall be allowed subject to adherence to the principles of transparency, legitimate purpose, and proportionality.
 
@@ -1182,16 +872,8 @@ such as in the above-cited provision which uses the word ‘any’ several times
 
 Pesopop, as the PIC, should inform its users that it will process particular personal data for a specific and limited purpose. 227  In addition to the fact that Pesopop’s Privacy Policy is not accessible found within the app and the information was not provided at the time the data subject was asked to consent, the statements in the Privacy Policy are contradictory, leaving room for doubt on the specific purpose for which a user’s data will be processed. Initially, the Privacy Policy states that information will be collected “to avoid fraud” or used
 
-> 223 Id.
-> 224 See JRG v. CXXX Lending Corporation, NPC Case No. 19-450, 09 June 2020, at 6, available at
-> https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision_NPC-19-450-JRG-v.-CXXX.pdf (last accessed 3 November 2023).
-> 225 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 34.
-> 226 Id. Emphasis supplied.
-> 227 Id. at 35.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 only for the credit review process. 228  The Privacy Policy, however, later states that “if you do not repay during the repayment period, we have the right to access and use your personal contact information, including FB, Instagram, Google+, etc.” 229
 
@@ -1207,15 +889,8 @@ The Commission takes this opportunity to emphasize that the general privacy prin
 
 The CID argued that “the access, retention, and storing of a data subject’s phone contacts is considered a processing activity under the
 
-> 228 Fact-Finding Report, 10 June 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 229 Id.
-> 230 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 3-4, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied.
-> 231 Id. Emphasis supplied.
-> 232 See Data Privacy Act of 2012, § 11.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 DPA, and as such, it needs to have legitimate purpose as provided by Sections 12 and 13 of the DPA .” 233
 
@@ -1229,18 +904,8 @@ In this case, Pesopop violated the Loan-Related Transactions Circular when it re
 
 The CID alleged that Pesopop accessed and stored the phone contacts list of its users in violation of the Loan-Related Transactions Circular. 239  Pesopop, in its Motion for Reconsideration, explained that:
 
-> 233 Fact-Finding Report, 10 June 2021, at 8, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied.
-> 234 See Data Privacy Act of 2012, § 12-13.
-> 235 Id. § 11.
-> 236 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, § 18 (2016).
-> 237 MLF v. Grab Philippines, NPC 19-142, 31 March 2022, at 8, available at
-> https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-19-142-MLF-v.-Grab-Philippines-2022.03.31.-Decision.pdf (last accessed 10 January 2024).
-> 238 Id.
-> 239 Fact-Finding Report, 10 June 2021, at 9, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 In this case, although respondent PesoPop requested for the inclusion of the phone contact list, the said list was limited to include five (5) persons from the contact list as character reference only. In other words, respondent PesoPop does not have access to the entire the phone contact list of its clients and/or its potential users.
 
@@ -1262,11 +927,8 @@ D. Where online apps are used for loan processing activities, LCs, FCs, and othe
 
 4. Access to contact details in whatever form , such as but not limited to phone contact list or e-mail lists, the harvesting of social media contacts, and/or copying or otherwise saving these contacts for use in debt collection or to harass in any way the borrower or his/her contacts, are prohibited. In all instances, online lending apps must have a separate interface where
 
-> 240 Notice of Entry of Appearance with Motion for Reconsideration, at 3-4, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 borrowers can provide character references and/or co-makers of their own choosing. 241
 
@@ -1282,15 +944,8 @@ In sum, Pesopop committed Unauthorized Processing. It processed the personal dat
 
 B. Despite the effectivity of the temporary ban, Pesopop committed Unauthorized Processing.
 
-> 241 National Privacy Commission, Guidelines on the Processing of Personal Data for Loan-Related Transactions, Circular No. 01, Series of 2020 [NPC Circ. No. 20-01], § 3 (A) (14 September 2020). Emphasis supplied.
-> 242 Data Privacy Act of 2012, § 11 (c)(d).
-> 243 NPC Circ. No. 20-01, § 3 (A).
-> 244 Fact-Finding Report, 10 June 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied.
-> 245 NPC Circ. No. 20-01, § 3 (D) (4).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 As argued by the CID in its Memorandum, Pesopop “willfully and deliberately violated the issuance of the Order for Temporary Ban on 12 August 2021, when Respondent still made available for download its application on several instances.” 246
 
@@ -1304,18 +959,8 @@ Further, NPC, as a government agency, is exempt from filing fees and the posting
 
 As to its recurring violations, Pesopop explained that it had no intent to violate the temporary ban and that it only “allowed a limited launch
 
-> 246 Memorandum, 11 March 2022, at 10, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 247 8th Supplemental Enforcement Assessment Report, 17 May 2023, at 9, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2023)
-> 248 Id. at 1.
-> 249 Id .
-> 250 Memorandum of the Respondents, 01 March 2022, at 6-7, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 251 Resolution, 27 January 2022, at 8, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 252 Id.
-> 253 Id. at 9.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 of the [app] for existing users only for purposes of processing loans of existing users, especially those who had pending obligations, and avoid incurring further losses from pre-existing liabilities.” 254
 
@@ -1331,16 +976,8 @@ Second, Pesopop explained that it only allowed a limited launch for its existing
 
 Pesopop also argued that the temporary ban should only apply to processing of personal data and not to the whole app. 259 Pesopop, however, failed to delineate and provide evidence on which parts of the app did not involve the processing of personal data.
 
-> 254 Reply (To the Show Cause Order dated 31 March 2022), at 9, 11 July 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 255 Id.
-> 256 8th Supplemental Enforcement Assessment Report, 17 May 2023, at 8, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2023).
-> 257 Id.
-> 258 Order, 12 August 2021, at 10-11, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied.
-> 259 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 The Commission finds that Pesopop repeatedly violated its Order dated 12 August 2021 imposing a temporary ban. Despite repeated orders from the Commission to take down the app, the app kept reappearing on the list of applications available for download in the Google Play Store. 260  While the Commission has given Pesopop several chances to explain, Pesopop’s only defense was the so-called “limited launch” that was discovered to be contradictory to the findings of the EnD and the information provided by Google and FTC-USA. 261
 
@@ -1354,15 +991,8 @@ As the Commission held in its Resolution dated 27 January 2022, Pesopop has not 
 
 In compliance with the Order dated 28 September 2021, Pesopop submitted its Revised Privacy Policy, Revised Terms and Conditions of Service, Revised Application, among other documents. 264
 
-> 260 Order, 31 March 2022, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 261 8th Supplemental Enforcement Assessment Report, 17 May 2023, at 8, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2023).
-> 262 Memorandum of the Respondents, 01 March 2022, at 7, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 263 Resolution, 27 January 2022, at 9 and 16, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 264 Motion to Admit with Compliance, 20 October 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 The EnD, however, observed that the Revised Privacy Policy does not fully abide by Section 16 of the DPA. 265  The EnD determined the following:
 
@@ -1386,13 +1016,8 @@ Further, the policy also failed to provide details on its use of profiling, auto
 
 Pesopop argued that its Revised Privacy Policy  “expressly declares that the processing of personal information is necessary for all purposes not prohibited by applicable law.” 267  As discussed earlier,
 
-> 265 Resolution, 27 January 2022, at 11, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 266 Id. at 12-13. Emphasis supplied.
-> 267 Memorandum of the Respondents, 01 March 2022, at 9, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 under the transparency principle, Pesopop should inform its users that it will process particular personal data for a specific and limited purpose. 268  The statement “necessary for all purposes not prohibited by applicable law” is just another way of saying that Pesopop can do anything that can legally be done under Philippine law. Being neither specific nor limited, this violates the general privacy principle of transparency.
 
@@ -1410,10 +1035,6 @@ Aside from these, the EnD also found that the Revised Application still has acce
 
 Consequently, it can be assessed, based on the statement made in their revised Privacy Policy, that the Revised Application
 
-> 268 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 35.
-> 269 Resolution, 27 January 2022, at 14-15, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). Emphasis supplied. NPC SS 21-008
-> In re: Populus Lending Corporation (Pesopop)
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 indeed still have access to the contacts of the user’s phone , as stated:
 
@@ -1435,8 +1056,6 @@ By giving us your home and/or mobile phone number, we have your permission to co
 
 In re: Populus Lending Corporation (Pesopop)
 
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
 obtaining information; transactions on or servicing of your account; and collecting on your account or collecting the delinquent account. 270
 
 This practice does not only violate the Loan-Related Transactions Circular but also Memorandum Circular 18, Series of 2019 of the Securities and Exchange Commission (SEC).
@@ -1453,13 +1072,6 @@ To reiterate, the legitimate purpose principle requires that  the purpose for pr
 
 Pesopop’s access and use of the phone contacts list is an unfair debt collection practice, which is prohibited by the SEC Memorandum Circular. Pesopop’s violation of the SEC Memorandum Circular, even
 
-> 270 Id. at 15-16. Emphasis supplied.
-> 271 Securities and Exchange Commission , Prohibition on Unfair Debt Collection Practices or Financing Companies (FC) and Lending Companies (LC), Memorandum Circular No. 18, Series of 2019 [SEC M.C. No. 19-18 (19 August 2019).
-> 272 Id. § 1 (h).
-> 273 MLF v. Grab Philippines, NPC 19-142, at 8.
-> 274 Id. NPC SS 21-008
-> In re: Populus Lending Corporation (Pesopop)
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 if it is an issuance from a different government agency, and the Loan-Related Transactions Circular, renders its purpose for processing as illegitimate. Thus, Pesopop’s access and use of the phone contacts list go against the general privacy principle of legitimate purpose.
 
@@ -1471,14 +1083,8 @@ Having established that Pesopop committed Unauthorized Processing before and dur
 
 The DPA imposes criminal penalties on specific offenses, which are imposed by courts of law after the conduct of a criminal trial. 275  Upon finding of a violation, the Commission may recommend to the Department of Justice the prosecution and imposition of penalties on the violations enumerated under the DPA. 276  These unlawful acts provided in Sections 25 to 32 are unauthorized processing of personal or sensitive personal information, processing personal or sensitive personal information for unauthorized purposes, accessing of personal or sensitive personal information, unauthorized access or intentional breach, improper disposal of personal or sensitive personal information, concealment of security breaches involving sensitive personal information, malicious disclosure, and unauthorized disclosure. 277  If the PIC or Personal Information Processor (PIP) is a juridical person, then the penalties are imposed on its responsible officers. 278
 
-> 275 Data Privacy Act of 2012, §§ 25-37.
-> 276 Id. § 7 (i).
-> 277 Id. §§ 23-32.
-> 278 Id. § 34.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Corporations and other juridical entities cannot be prosecuted for crimes under Philippine law. 279  It is an established principle in criminal law that:
 
@@ -1498,15 +1104,8 @@ Bicol Gas is a corporation. As such, it is an entity separate and distinct from 
 
 Thus, as held by the Supreme Court, “[a] corporation can act only through its officers and agents, and where the business itself involves a violation of the law, the correct rule is that all who participate in it are liable.” 283  Certain special laws provide for the particular officers
 
-> 279 See People v. Tan Boon Kong, G.R. L-35262 (1930).
-> 280 LUIS B. REYES ,THE REVISED PENAL CODE CRIMINAL LAW BOOK 1 505 (2012). Emphasis removed. Emphasis supplied.
-> 281 An Act Providing for the Revised Corporation Code of the Philippines [Revised Corporation Code], Republic Act No. 11232, § 171 (2019). Emphasis supplied.
-> 282 Espiritu Jr. v. Petro Corporation, G.R. No. 170891 (2009). Emphasis supplied.
-> 283 People v. Tan Boon Kong, G.R. L-35262 (1930).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 who shall be held responsible for corporate crimes. 284  In the DPA, this is specified in Section 34:
 
@@ -1520,16 +1119,8 @@ Section 34 of the DPA explicitly states that a responsible officer can be subjec
 
 The clause “who participated in, or by their gross negligence” should be viewed in relation to the acts of the responsible officers that reasonably caused the violation, without which the violation would
 
-> 284 JOSE R. SUNDIANG ,SR.&TIMOTEO B. AQUINO ,REVIEWER ON COMMERCIAL LAW 60 (2019).
-> 285 Data Privacy Act of 2012, § 34. Emphasis supplied.
-> 286 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 40.
-> 287 Id.
-> 288 Id.
-> 289 Data Privacy Act of 2012, § 34.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 not have occurred. 290  Ultimately, however, this shall be applied on a case-to-case basis. 291
 
@@ -1553,18 +1144,11 @@ In this case, individual respondents RCJ, FLB, JIS, MM, and WL, in Pesopop’s M
 
 They claimed that upon discovery of the Order dated 12 August 2021, they “immediately set a meeting to discuss and instruct the management of Pesopop to immediately review and amend the data
 
-> 290 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 41.
-> 291
 
 Id.
 
-> 292 Id. at 43-44. Emphasis supplied.
-> 293 See Revised Corporation Code, § 171; Data Privacy Act of 2012, § 34.
-> 294 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 5, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 privacy terms and conditions to conform to the provision of the Data Privacy Act of 2012.” 295  Further, they asserted that there was no allegation nor proof of gross negligence, fraud, bad faith and malice. 296
 
@@ -1576,13 +1160,6 @@ First, as stated by Pesopop in its Compliance, Mr. JIS, one of the individual re
 
 Second, Pesopop explained that upon discovery of the individual respondents of the Commission’s Order imposing the temporary ban, they “immediately set a meeting to discuss and instruct the management of Pesopop to immediately review and amend the data privacy terms and conditions to conform to the provision of the [DPA].” 298  Pesopop also stated that the individual respondents have continuously revised the Privacy Policy to comply with the Commission’s Orders. 299  As earlier established, however, the Commission found the Revised Application and Privacy Policy not only wanting but violative of the DPA and the Loan-Related Transactions Circular.
 
-> 295 Id. at 5-6.
-> 296 Id. at 6.
-> 297 Compliance, 02 September 2022, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-> 298 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 5-6, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-> 299 Memorandum of the Respondents, 01 March 2022, at 15, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). NPC SS 21-008
-> In re: Populus Lending Corporation (Pesopop)
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 These show that the individual respondents, as directors and officers of Pesopop, directed both the relaunching of the app and revision of the app and policies during the temporary ban. The only conclusion then is that they allowed the repeated violations to happen which led to the commission of Unauthorized Processing during the effectivity of the temporary ban.
 
@@ -1598,11 +1175,8 @@ Given the totality of the evidence presented, the Commission finds that the pres
 
 The Commission emphasizes that PICs are accountable for the protection of the personal information of individuals and for the observation of the obligations under the DPA. At the core of these obligations are the general privacy principles. Following this, any person or entity that processes information should process information only for legitimate purposes that have been made known
 
-> 300 Fernandez v. Office of the Ombudsman, G.R. No. 193983, 14 March 2012. Emphasis supplied.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 to the data subject. 301  They should only process as much information as is needed to achieve their clearly defined and stated business purposes or to comply with the provisions of law or regulation. 302
 
@@ -1632,12 +1206,8 @@ JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
-> 301 KGR v. BB, et. al., CID 18-E-040, 12 May 2020, at 5, available at https://privacy.gov.ph/wp-content/uploads/2023/05/CID-18-E-040-KGR-v.-BB-et-al.-Decision-2020.05.12.pdf (last accessed 04 December 2023)
-> 302 Id.
 
 In re: Populus Lending Corporation (Pesopop)
-
-> NPC_OPC_ADJU_DCSN-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Sgd.
 
@@ -1658,3 +1228,62 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+
+[^1]: Fact-Finding Report, 10 June 2021, at 13, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
+[^2]: Id. at 1. 3Id. at 4-5. 4Id. at 5. 5Id. at 2. 6Id. 7Fact-Finding Report, 10 June 2021, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 8Id. 9Id. 10 Id. 11 Id.
+[^8]: 9
+[^12]: Id. 13 Fact-Finding Report, 10 June 2021, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 14 Id. 15 Id. 16 Id. 17 Id. at 3. 18 Id. 19 Fact-Finding Report, 10 June 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). NPC SS 21-008 In re: Populus Lending Corporation (Pesopop) Page 4of 59
+[^20]: 7
+[^23]: Id. at 6. 24 Id. 25 Fact-Finding Report, 10 June 2021, at 6, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 26 Id. at 6-7. 27 Id. at 6. 28 Id. at 7. 29 Id. 30 Id. at 8.
+[^31]: Fact-Finding Report, 10 June 2021, at 8, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 32 Id. 33 Id. 34 Id. 35 Id. at 8-9. Emphasis supplied. 36 Id. at 9. 37 Fact-Finding Report, 10 June 2021, at 9 in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 38 Id. NPC SS 21-008 In re: Populus Lending Corporation (Pesopop) Page 8of 59
+[^39]: Id. 40 Id. 41 Id. 42 Id. 43 Fact-Finding Report, 10 June 2021, at 9, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 44 Id. at 10. 45 Id. 46 Id.
+[^47]: Id. at 11. 48 Id. 49 Fact-Finding Report, 10 June 2021, at 11, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 50 Id. at 12. 51 Id. at 11. 52 Id. at 12.
+[^53]: Order, 16 June 2021, at 1, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 54 Id. 55 Order, 12 August 2021, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 56 Id. 57 Id. 58 Id. at 3. 59 Id. 60 Supplemental Fact-Finding Report, 05 July 2021, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
+[^61]: Order, 12 August 2021, at 10-11, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 62 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 63 Id. at 6. 64 Id. at 3. 65 Id. at 2.
+[^66]: Id. 67 Id. 68 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 69 Id. 70 Id. at 3-4. Emphasis supplied.
+[^71]: Id. at 5. 72 Id. at 4. 73 Id. 74 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 4, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 75 Id. 76 Id. at 5. 77 Id. 78 Id. 79 Id. 80 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 6, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 81 Order, 17 September 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
+[^82]: Order, 28 September 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 83 Id. at 2.
+[^90]: Id. at 2. 91 Reply to letter dated 08 November 2021, 15 November 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 92 Id. at 1. Emphasis supplied. 93 Id. 94 Id.
+[^95]: Enforcement Division Memorandum, 23 November 2021, at 1, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 96 Id. 97 Id. 98 Id. 99 Letter Re: Compliance with Order dated 12 August 2021 in NPC SS 21-008 entitled “ In re: Populus Lending Corporation (Pesopop) and its Responsible Officers” , 25 November 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 100 Id. 101 Id. 102 Id. 103 Id.
+[^104]: Enforcement Division Memorandum, 26 November 2021, at 1, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 105 Id. 106 Id. at 3. 107 Letter Re: Compliance with Order dated 12 August 2021 in NPC SS 21-008 entitled “ In re: Populus Lending Corporation (Pesopop) and its Responsible Officers” , 28 December 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 108 Id. at 2. 109 Id.
+[^110]: Id. 111 Compliance with letter dated 28 December 2021, 02 January 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 112 Id. 113 Id. 114 Resolution, 27 January 2022, at 17, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
+[^115]: Id. at 9. 116 Id. 117 Id. at 10. 118 Id. at 16. 119 Memorandum of the Respondents, 01 March 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 120 Id. at 6-7. 121 Id. at 6. 122 Id. 123 Id. 124 Id. at 7. 125 Memorandum of the Respondents, 01 March 2022, at 9, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
+[^126]: Id. at 8. Emphasis supplied. 127 Id. at 9. 128 Id. at 10.
+[^129]: Id. Emphasis supplied. 130 Id. 131 Memorandum of the Respondents, 01 March 2022, at 11-12, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). Emphasis supplied. 132 Id. at 12. 133 Id. 134 Id. at 13.
+[^135]: Id. at 13-14. Emphasis supplied. 136 Id. at 15. 137 Memorandum of the Respondents, 01 March 2022, at 15, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
+[^138]: Id. at 16-17. Emphasis supplied. 139 Id. at 19. 140 Memorandum, 11 March 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 141 Id. 142 Id. at 2. 143 Id. at 8. 144 Id. at 9. 145 Id. 146 Memorandum, 11 March 2022, at 9, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 147 Id.
+[^148]: Id. at 10. Emphasis supplied. 149 Id. 150 Id. 151 Id. at 4.
+[^152]: Order, 31 March 2022, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 153 Memorandum, 31 March 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 154 Entry of Appearance with Motion for Additional Time to File Reply/Comment, 28 June 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 155 Id. at 3. 156 Reply (To the Show Cause Order dated 31 March 2022), 11 July 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 157 Id. at 8. 158 Id.
+[^159]: Id. at 9. Emphasis supplied. 160 Order, 28 July 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 161 Transcript, 11 August 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 162 Id. 163 Order, 11 August 2022, at 1-2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
+[^164]: Compliance, 02 September 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 165 Id. at 1-2. 166 Id. at 2. 167 Id. 168 Id. 169 Id.
+[^170]: Compliance, 02 September 2022, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 171 Id. at 3. 172 Endorsement of NPC SS 21-008 In re: Populus Lending Corporation (Pesopop) and its responsible officers, 22 September 2022, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 173 Letter from US Federal Trade Commission, 16 December 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 174 Supplemental Enforcement Assessment Report, 28 December 2022, at 7, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 175 Id. 176 8th Supplemental Enforcement Assessment Report, 17 May 2023, at 3 in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2023). 177 Id. NPC SS 21-008 In re: Populus Lending Corporation (Pesopop)
+[^178]: Id. at 6. 179 Id. at 8. 180 Id. 181 Id. at 9.
+[^182]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 25 (2012).
+[^184]: Id. 185 Fact-Finding Report, 10 June 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 186 Data Privacy Act of 2012, § 3 (j).
+[^187]: Fact-Finding Report, 10 June 2021, at 3-4, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied. 188 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 189 Id. at 4. 190 Id. at 4. Emphasis supplied. 191 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 31. 192 Fact-Finding Report, 10 June 2021, at 2, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 193 Id. at 3-4.
+[^194]: Id. Emphasis supplied.
+[^195]: Data Privacy Act of 2012, § 3 (g) (l). Emphasis supplied. 196
+[^197]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 31. 198 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 5, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
+[^199]: Id. at 4. 200 Id. 201 Fact-Finding Report, 10 June 2021, at 9 in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 202 Data Privacy Act of 2012, § 12 (a), § 13 (a). 203
+[^208]: Data Privacy Act of 2012, § 3 (b). 210 Fact-Finding Report, 10 June 2021, at 9 in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 211 Id.
+[^212]: MNLC, Inc. v. IKP, NPC 19-528, 29 October 2020, at 17, available at 213 See National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, § 19 (a) (3) (2016). 214 Fact-Finding Report, 10 June 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 215 Id. 216 AMP v. HXXX Lending Technology Inc., NPC 19-621, 19 November 2020, at 6, available at
+[^217]: Fact-Finding Report, 10 June 2021, at 3-4, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 218 Id. Emphasis supplied. 219 Id. at 6. 220 Id. Emphasis supplied. 221 Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 18 (a) (2016). 222 Id.
+[^223]: Id. 224 See JRG v. CXXX Lending Corporation, NPC Case No. 19-450, 09 June 2020, at 6, available at 225 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 34. 226 Id. Emphasis supplied. 227 Id. at 35.
+[^228]: Fact-Finding Report, 10 June 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 229 Id. 230 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 3-4, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied. 231 Id. Emphasis supplied. 232 See Data Privacy Act of 2012, § 11.
+[^233]: Fact-Finding Report, 10 June 2021, at 8, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied. 234 See Data Privacy Act of 2012, § 12-13. 235 Id. § 11. 236 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, § 18 (2016). 237 MLF v. Grab Philippines, NPC 19-142, 31 March 2022, at 8, available at 238 Id. 239 Fact-Finding Report, 10 June 2021, at 9, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied.
+[^240]: Notice of Entry of Appearance with Motion for Reconsideration, at 3-4, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied.
+[^241]: National Privacy Commission, Guidelines on the Processing of Personal Data for Loan-Related Transactions, Circular No. 01, Series of 2020 [NPC Circ. No. 20-01], § 3 (A) (14 September 2020). Emphasis supplied. 242 Data Privacy Act of 2012, § 11 (c)(d). 243 NPC Circ. No. 20-01, § 3 (A). 244 Fact-Finding Report, 10 June 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied. 245 NPC Circ. No. 20-01, § 3 (D) (4).
+[^246]: Memorandum, 11 March 2022, at 10, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 247 8th Supplemental Enforcement Assessment Report, 17 May 2023, at 9, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2023) 248 Id. at 1. 249 Id . 250 Memorandum of the Respondents, 01 March 2022, at 6-7, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 251 Resolution, 27 January 2022, at 8, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 252 Id. 253 Id. at 9.
+[^254]: Reply (To the Show Cause Order dated 31 March 2022), at 9, 11 July 2022, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 255 Id. 256 8th Supplemental Enforcement Assessment Report, 17 May 2023, at 8, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2023). 257 Id. 258 Order, 12 August 2021, at 10-11, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). Emphasis supplied. 259 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
+[^260]: Order, 31 March 2022, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 261 8th Supplemental Enforcement Assessment Report, 17 May 2023, at 8, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2023). 262 Memorandum of the Respondents, 01 March 2022, at 7, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 263 Resolution, 27 January 2022, at 9 and 16, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 264 Motion to Admit with Compliance, 20 October 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
+[^265]: Resolution, 27 January 2022, at 11, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 266 Id. at 12-13. Emphasis supplied. 267 Memorandum of the Respondents, 01 March 2022, at 9, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
+[^268]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 35. 269 Resolution, 27 January 2022, at 14-15, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). Emphasis supplied. NPC SS 21-008 In re: Populus Lending Corporation (Pesopop)
+[^270]: Id. at 15-16. Emphasis supplied. 271 Securities and Exchange Commission , Prohibition on Unfair Debt Collection Practices or Financing Companies (FC) and Lending Companies (LC), Memorandum Circular No. 18, Series of 2019 [SEC M.C. No. 19-18 (19 August 2019). 272 Id. § 1 (h). 273 MLF v. Grab Philippines, NPC 19-142, at 8. 274 Id. NPC SS 21-008 In re: Populus Lending Corporation (Pesopop)
+[^275]: Data Privacy Act of 2012, §§ 25-37. 276 Id. § 7 (i). 277 Id. §§ 23-32. 278 Id. § 34.
+[^279]: See People v. Tan Boon Kong, G.R. L-35262 (1930). 280 LUIS B. REYES ,THE REVISED PENAL CODE CRIMINAL LAW BOOK 1 505 (2012). Emphasis removed. Emphasis supplied. 281 An Act Providing for the Revised Corporation Code of the Philippines [Revised Corporation Code], Republic Act No. 11232, § 171 (2019). Emphasis supplied. 282 Espiritu Jr. v. Petro Corporation, G.R. No. 170891 (2009). Emphasis supplied. 283 People v. Tan Boon Kong, G.R. L-35262 (1930).
+[^284]: JOSE R. SUNDIANG ,SR.&TIMOTEO B. AQUINO ,REVIEWER ON COMMERCIAL LAW 60 (2019). 285 Data Privacy Act of 2012, § 34. Emphasis supplied. 286 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 40. 287 Id. 288 Id. 289 Data Privacy Act of 2012, § 34.
+[^290]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 41. 291
+[^292]: Id. at 43-44. Emphasis supplied. 293 See Revised Corporation Code, § 171; Data Privacy Act of 2012, § 34. 294 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 5, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
+[^295]: Id. at 5-6. 296 Id. at 6. 297 Compliance, 02 September 2022, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). 298 Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 5-6, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021). 299 Memorandum of the Respondents, 01 March 2022, at 15, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). NPC SS 21-008 In re: Populus Lending Corporation (Pesopop)
+[^300]: Fernandez v. Office of the Ombudsman, G.R. No. 193983, 14 March 2012. Emphasis supplied.
+[^302]: Id.

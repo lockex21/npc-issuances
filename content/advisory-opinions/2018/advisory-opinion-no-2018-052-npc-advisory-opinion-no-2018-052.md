@@ -1,10 +1,12 @@
 ---
-title: "NPC Advisory Opinion No. 2018-052"
-description: "'''''''''''''''' '''''' '''''''''''''''''''''''''' '''''''''''''''' ''''''''''''' ''''' '''''''''''''''''''''''' ''''''''''''''''''' '''''' '''''''''''''''''''''''''''' ''''''' ''''''''''''''' '''''''''''''''''''''' '''''''''''''''''..."
+title: "NPC Advisory Opinion No. 2018-052 — CHED Memorandum Order No. 3, Series of 2012"
+description: "Guidance on the authority of CHED to collect data for monitoring and validation activities under the Data Privacy Act."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2018"
+  - issuance
+  - type/advisory-opinion
+  - year/2018
+  - data-collection
+  - regulatory-authority
 draft: false
 ---
 
@@ -16,21 +18,12 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                         ADVISORY OPINION NO. 2018-052
 
   16 August 2018
 
-  '''''''''''''''' '''''' '''''''''''''''''''''''''' '''''''''''''''' ''''''''''''' '''''
-  '''''''''''''''''''''''' ''''''''''''''''''' ''''''
-  '''''''''''''''''''''''''''' ''''''' ''''''''''''''' ''''''''''''''''''''''
-  ''''''''''''''''' '''''''''''''''''''''''' ''''''''''''''''''''''''''''''' ''''''''''''''''' '''''''''''''''''''
-  ''''''''''' '''''''''''''''''' ''''''''''''' '''''''' '''''''''''''''''''' ''''''''''''''''' ''''''''''''''''''' ''''''''''
+   Re:       CHED MEMORANDUM ORDER NO. 3, SERIES OF 2012
 
-               Re:       CHED MEMORANDUM ORDER NO. 3, SERIES OF 2012
-
-
-Dear ''''''''''''''' ''''''''''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your letter to the National Privacy Commission (NPC), requesting
 comments on the authority of the Commission on Higher Education (CHED) to collect data for
@@ -39,7 +32,9 @@ its “monitoring and validation activities” under CHED Memorandum Order No. 3
 Fees, Introduction of New Fees, and for Other Purposes” (CMO No. 03) in relation to the Data
 Privacy Act of 2012 (DPA).1 You have likewise provided us the following documents:
 
-      1. CMO No. 08, s. 2012 – “Amendment on CMO No. 03, s. 2012;”
+### Discussion
+
+   1. CMO No. 08, s. 2012 – “Amendment on CMO No. 03, s. 2012;”
       2. CHED Regional Offices’ Reportorial Requirements for the Applications to Increase in
          Tuition and Other School Fees (TOSF); and
       3. Prescribed templates as annexes to the proposed revision of CMO No. 03, s. 2012:
@@ -51,7 +46,6 @@ We understand that the CHED monitors compliance of the private HEIs with the pre
 percentage distribution of the incremental proceeds from the increase in TOSF. HEIs are required
 to use seventy percent (70%) of the incremental proceeds for the benefit of teaching and non-
 teaching personnel and other staff, except those who are principal stockholders of the HEI.2
-
 
 1 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
@@ -140,16 +134,14 @@ the NPC, specifically NPC Circular No. 16-01 on the Security of Personal Data in
 Agencies, which requires all government agencies engaged in the processing of personal data to
 observe the following duties and responsibilities:
 
-     A.       through its head of agency, designate a Data Protection Officer;
-
-
+   A.       through its head of agency, designate a Data Protection Officer;
 
 7 IRR of the Data Privacy Act of 2012, § 18 (c).
 8 Ibid.
 9 Id. § 25.
 10 Ibid.
 
-    B.     conduct a Privacy Impact Assessment for each program, process or measure
+   B.     conduct a Privacy Impact Assessment for each program, process or measure
            within the agency that involves personal data, Provided, that such assessment shall
            be updated as necessary;
     C.     create privacy and data protection policies, taking into account the privacy impact
@@ -172,19 +164,12 @@ For your information.
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
-
-
-
 
 11 NPC Circular No. 16-01 dated 10 October 2016, §4.

@@ -1,6 +1,6 @@
 ---
-title: "Redacted-Advisory-Opinion-No.-2020-047"
-description: "'''''''''' '''''''''''''''''' '''' ''''''''''''''''''''''' ''''''''''''' ''''''''''' ''''''''''''' ''''''''' ''''''' '''''''''''' '''''''' ''''''''' '''''''''''''' '''''' '''''''''''''' '' '''''''''' ''''''' ''''''''''''' ''''' '''''''' '''''''''' '''' ''''..."
+title: "NPC Advisory Opinion No. 2020-047 — Disclosure and Publication of Beneficial Ownership by the Philippine Extractive Industry Transparency Initiative (PH-EITI)"
+description: "Guidance on how the Philippine Extractive Industry Transparency Initiative may publish beneficial ownership information of mining and oil companies while complying with data privacy laws."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,28 +11,18 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2020-047
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-047.pdf
+- Issue date: 10/11/2020
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                    ADVISORY OPINION NO. 2020-0471
 
 10 November 2020
 
-'''''''''' '''''''''''''''''' '''' '''''''''''''''''''''''
-''''''''''''' ''''''''''' ''''''''''''' ''''''''' '''''''
-'''''''''''' '''''''' ''''''''' '''''''''''''' ''''''
-'''''''''''''' '' ''''''''''
-''''''' ''''''''''''' ''''' '''''''' '''''''''' '''' '''' ''''''''
-''''''''''''''''''''
-
-
-
-              Re:      DISCLOSURE AND PUBLICATION OF BENEFICIAL
+   Re:      DISCLOSURE AND PUBLICATION OF BENEFICIAL
                        OWNERSHIP BY THE PHILIPPINE EXTRACTIVE INDUSTRY
                        TRANSPARENCY INITIATIVE (PH-EITI)
 
-Dear '''''''' '''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion seeking guidance on whether
 the Philippine Extractive Industry Transparency Initiative (PH-EITI) may publish personal
@@ -41,6 +31,8 @@ campaign to counter or prevent the use of anonymous shell companies to hide or l
 money and conceal potential conflicts of interest within the extractives sector, and how
 publication of this BO information can be done while complying with data privacy laws, such
 as the Data Privacy Act of 201202 (DPA).
+
+### Discussion
 
 We understand that the PH-EITI will require extractive companies to furnish it with copies of
 their Beneficial Ownership (BO) Declaration which forms part of the revised General
@@ -51,9 +43,6 @@ tax identification number (TIN), among others.
 We understand further that the PH-EITI will also require these companies to consent to the
 publication of their BO information in the Sixth PH-EITI Report by accomplishing a company
 waiver.
-
-1 Tags: publication of beneficial ownership; legal obligation; law or regulation; general data privacy principles.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
 
 the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of
 2012], Republic Act No. 10173 (2012).
@@ -86,7 +75,7 @@ standard among the members of the mining industry and other concerned stakeholde
 With the updating by the EITI of its standards in 2019,7 participating countries to the EITI
 were required to publicly disclose beneficial ownership information:
 
-          “Information about the identity of the beneficial owner should include the name of the
+   “Information about the identity of the beneficial owner should include the name of the
           beneficial owner, the nationality, and the country of residence, as well as identifying any
           politically exposed persons. It is also recommended that the national identity number,
           date of birth, residential or service address, and means of contact are disclosed.”8
@@ -104,7 +93,6 @@ It is worthy to note that the processing of personal and sensitive personal info
 (collectively, personal data), even if allowed under specific circumstances under the DPA,
 must still adhere to the general data privacy principles. 9 Specifically for the principle of
 proportionality, this requires that the processing of personal data shall be adequate, relevant,
-
 
 4 Office of the President, Institutionalizing and Implementing Reforms in the Philippine Mining Sector, Providing Policies
 
@@ -146,7 +134,6 @@ does not adjudicate issues between parties nor impose any sanctions or award dam
 For your reference.
 
 Very truly yours,
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner

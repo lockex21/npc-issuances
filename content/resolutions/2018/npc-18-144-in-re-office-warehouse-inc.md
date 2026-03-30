@@ -1,12 +1,20 @@
 ---
-title: "NPC 18-144: In Re: Office Warehouse, Inc."
-description: "Resolution finding that inadvertent disclosure of customer email addresses did not constitute mandatory reportable breach under NPC Circular 16-03, but approving Office Warehouse's remedial measures."
+title: 'NPC 18-144: In Re: Office Warehouse, Inc.'
+description: Resolution finding that inadvertent disclosure of customer email addresses
+  did not constitute mandatory reportable breach under NPC Circular 16-03, but approving
+  Office Warehouse's remedial measures.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2024
+- npc-case
 draft: false
+aliases:
+- '"NPC 18-144"'
+- '"npc 18-144"'
+- '"In Re: Office Warehouse, Inc."'
+- '"in re: office warehouse, inc."'
+date: '2024-03-21'
 ---
 
 ## Source

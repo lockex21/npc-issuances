@@ -2,16 +2,17 @@
 title: "Rules of Procedure (Circular No. 16-04)"
 description: "In the exercise of its quasi-judicial function, the Commission is authorized to receive complaints and institute investigations. In order to fulfill its mandate, it may compel any entity, government agency or instrumentality to abide by its orders or take action on a matter..."
 aliases:
-  - "Circular No. 16-04"
-  - "circular no. 16-04"
-  - "npc circular no. 16-04"
-  - "rules of procedure"
+- Circular No. 16-04
+- circular no. 16-04
+- npc circular no. 16-04
+- rules of procedure
 tags:
-  - "issuance"
-  - "topic/government"
-  - "type/circular"
-  - "year/undated"
+- issuance
+- topic/government
+- type/circular
+- year/2016
 draft: false
+date: '2016-09-16'
 ---
 
 ## Issuance Text

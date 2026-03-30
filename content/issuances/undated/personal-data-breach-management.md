@@ -1,17 +1,18 @@
 ---
 title: "Personal Data Breach Management (Circular No. 16-03)"
-description: "WHEREAS, the Philippine Constitution guarantees respect for the right to privacy, including information privacy, accorded recognition as inherent in the freedoms enjoyed by every Filipino, and at the same time, Article II, Section 11 of the Constitution emphasizes that the..."
+description: "Personal Data Breach Management (Circular No. 16-03) establishes guidelines and rules for data privacy compliance."
 aliases:
-  - "Circular No. 16-03"
-  - "circular no. 16-03"
-  - "npc circular no. 16-03"
-  - "personal data breach management"
+- Circular No. 16-03
+- circular no. 16-03
+- npc circular no. 16-03
+- personal data breach management
 tags:
-  - "issuance"
-  - "topic/security"
-  - "type/circular"
-  - "year/undated"
+- issuance
+- topic/security
+- type/circular
+- year/2016
 draft: false
+date: '2016-10-18'
 ---
 
 ## Issuance Text

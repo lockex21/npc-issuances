@@ -1,13 +1,22 @@
 ---
-title: "CID 18-D-012: In Re: JBD v. JI & VVV"
-description: "CID 18-D-012: In Re: JBD v. JI & VVV"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- CID 18-D-012
+- cid 18-d-012
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: CID 18-D-012
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'CID 18-D-012: In Re: JBD v. JI & VVV'
 ---
+
+
+
+
 
 ## Source
 - Reference: CID 18-D-012
@@ -27,7 +36,7 @@ Complainant,
 
 - versus -
 
-CID 18 -D-012
+CID 18D-012
 
 For: Violation of Data
 
@@ -49,8 +58,7 @@ Comply with the Order of the National Privacy Commission
 
 Respondent VVV ’s Manifestation and Motion dated 29 July 2020 .2
 
-The Facts
-
+### Facts
 The Commission issued an Order dated 21 May 2020 3 directing the
 
 Complainant to submit a Certified True Copy of the Position Paper
@@ -83,11 +91,9 @@ placed under Modified Enhanced Community Quarantine
 > 2Motion and Manifestation dated 29 July 2020.
 > 3NPC Order dated 21 May 2020.
 > 4Motion for Extension to Comply with NPC Orde r filed on 4 August 2020, p p.1-2.Resolution
-> CID Case No. 18 -D-012
+> CID Case No. 18D-012
 > JBD v. JI &VVV
 > Page 2of 4
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 On the other hand, Respondent VVV filed his Manifestation and
 
@@ -97,7 +103,7 @@ Complainant to furnish him a copy of the Verified Reply and allow
 
 him to file a Rejoinder . Respondent VVV claim s that under Section
 
-15 of NPC Circular 16 -04, the respondent may file a Rejoinder after
+15 of NPC Circular 1604, the respondent may file a Rejoinder after
 
 receipt of the Reply from the complainant . Respondent VVV also
 
@@ -109,8 +115,7 @@ pending the consideration of his Manifestation and Motion; and (c)
 
 note his counsel’s entry of appearance. 5
 
-Discussion
-
+### Discussion
 The Commission grants Complainant’s Motion for Extension to
 
 Comply with the Commission’s Order as well as Respondent
@@ -119,7 +124,7 @@ VVV ’s Manifestation and Motion.
 
 As to Respondent VVV ’s Manifestation and Motion for them to file
 
-the ir Rejoinder, Section 15 of NPC Circular 16 -04 is applicable. The
+the ir Rejoinder, Section 15 of NPC Circular 1604 is applicable. The
 
 said section provides that:
 
@@ -147,7 +152,7 @@ also require the respondent to file a Rejoinder within ten (10)
 
 days after receipt of the Reply .6
 
-Considering the above -quoted provision, the filing of both Reply
+Considering the abovequoted provision, the filing of both Reply
 
 and Rejoinder is dependent upon the discretion of the
 
@@ -167,11 +172,9 @@ if he or she deems it not necessary . It follows that the investigating
 
 > 5Manifestation and Motion dated 29 July 2020, p. 2 .
 > 6Emphasis supplied. Resolution
-> CID Case No. 18 -D-012
+> CID Case No. 18D-012
 > JBD v. JI &VVV
 > Page 3of 4
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 officer may also require the complainant to file a Reply without
 
@@ -199,7 +202,7 @@ requiring the filing of a Rejoinder. Thus, Respondent VVV ’s
 
 assertion that he can file a Rejoinder after a Reply pursuant to NPC
 
-Circular 16 -04 is erroneous. Under the said Circular, the
+Circular 1604 is erroneous. Under the said Circular, the
 
 investigating officer must first require the respondent to file a
 
@@ -219,7 +222,7 @@ As to the Motion for Extension to Comply with the Commission’s
 
 Order filed by the Complainant , the same is justified in view of the
 
-limitations brought about by the present COVID -19 pandemic and
+limitations brought about by the present COVID19 pandemic and
 
 the reversion of the NCR to MECQ .
 
@@ -246,12 +249,9 @@ Manifestation, and (c) Note his counsel’s entry of a ppearance , are
 > 7Order dated 12 July 2018.
 > 8Emphasis supplied.
 
-CID Case No. 18 -D-012
+CID Case No. 18D-012
 
 JBD v. JI & VVV
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 hereby GRANTED . Respondent is also ORDERED to submit his
 
@@ -263,21 +263,15 @@ Pasay City, Philippines ;
 
 06 August 20 20 .
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
-
-Sgd.
 
 JOHN HENRY D. NAGA
 

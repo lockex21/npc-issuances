@@ -1,13 +1,22 @@
 ---
-title: "NPC 17-018: In Re: EA & TA vs. EJ, EE, & HC"
-description: "NPC 17-018: In Re: EA & TA vs. EJ, EE, & HC"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC 17-018
+- npc 17-018
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC 17-018
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC 17-018: In Re: EA & TA vs. EJ, EE, & HC'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC 17-018
@@ -24,14 +33,12 @@ draft: false
 - Proportionality
 
 ## Resolution Text
-> 5th Floor ,Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 EA and TA ,
 
 Complainant,
 
--versus - NPC Case No. 17 -018
+-versus - NPC Case No. 17018
 
 For: Violation of Section 25 (b)
 
@@ -76,11 +83,9 @@ allowing unauthorized persons from processing su ch personal
 sensitive information to their own nefarious ends. 2
 
 > 1Motion for Reconsideration dated 09 August 2019, p. 1.
-> 2Ibid., at 2. NPC Case No. 17 -018
+> 2Ibid., at 2. NPC Case No. 17018
 > EA and TA v. EJ , et al.
 > Page 2of 6
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 In Respondents ’ Comment / Opposition, they stress ed that the Motion
 
@@ -90,8 +95,7 @@ new matters that could serve as basis for this Commission to
 
 reconsider its Decision. 3
 
-Discussion
-
+### Discussion
 The Commission denies the Complainants ’ Motion for
 
 Reconsideratio n.
@@ -142,11 +146,9 @@ may be established pursuant to Section 13(f). As such, contrary to the
 > 4Decision dated 15 July 2019, p. 9.
 > 5Section 26. Irremovability of public record .—Any public record, an official copy of which is
 > admissible in evidence, must not be removed from the office in which it is kept, except upon order
-> of a court where the inspection of the record is essential to the just determination of a pending case. NPC Case No. 17 -018
+> of a court where the inspection of the record is essential to the just determination of a pending case. NPC Case No. 17018
 > EA and TA v. EJ , et al.
 > Page 3of 6
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 claim of the Complainants, the supposed dismissal of the Falsification
 
@@ -215,11 +217,9 @@ to law, morals, or public policy. 6 This means that the
 processing done for the establishment of a legal claim
 
 > 6Implementing Rules and Regulations of the Data Privacy Act of 2012 (hereinafter, “IRR”) ,
-> §18(b) .NPC Case No. 17 -018
+> §18(b) .NPC Case No. 17018
 > EA and TA v. EJ , et al.
 > Page 4of 6
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 should not in any manner be outside the limitations
 
@@ -295,11 +295,9 @@ determined and declared before, or as soon as reasonably
 
 practicable after collection , and later processed in a way
 
-> 7Supra, Note 4. NPC Case No. 17 -018
+> 7Supra, Note 4. NPC Case No. 17018
 > EA and TA v. EJ , et al.
 > Page 5of 6
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 compatible with such declared, specified and legitimate
 
@@ -321,7 +319,7 @@ If the controller decides to pursue and exercise their legal claim/s by
 
 availing of the appropriate remedy provided by law, such as filing a
 
-case in court or a quasi -judicial body, the existing requirements of due
+case in court or a quasijudicial body, the existing requirements of due
 
 process during the course of the proceedings should cause the
 
@@ -347,31 +345,22 @@ SO ORDERED.
 
 Pasay City, 5 November 2020 .
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 > 8Emphasis supplied.
 > 9General Data Protection Regulation, Article 14, par. 5(b).
 
-NPC Case No. 17 -018
+NPC Case No. 17018
 
 EA and TA v. EJ , et al.
-
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
-
-Sgd.
 
 JOHN HENRY D. NAGA
 

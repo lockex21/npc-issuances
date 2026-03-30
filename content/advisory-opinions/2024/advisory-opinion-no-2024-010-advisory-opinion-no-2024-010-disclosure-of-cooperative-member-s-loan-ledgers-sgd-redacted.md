@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2024 - 010_Disclosure of Cooperative Member's Loan Ledgers_Sgd_Redacted"
-description: "We respond to your request for an Advisory Opinion concerning various issues involving the disclosure of loan ledgers containing the personal data of cooperative members. Specifically, the following queries were posed:"
+title: "NPC Advisory Opinion No. 2024-010 — Disclosure of Cooperative Member's Loan Ledgers"
+description: "Guidance on disclosure of loan ledgers containing personal and financial data of cooperative members to other members."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -14,15 +14,10 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                            ADVISORY OPINION NO. 2024 - 0101
 
  30 September 2024
 
-
-
-
-           Re:     DISCLOSURE              OF      COOPERATIVE            MEMBER’S        LOAN
+   Re:     DISCLOSURE              OF      COOPERATIVE            MEMBER’S        LOAN
                    LEDGERS
 
 Dear                 ,
@@ -31,33 +26,31 @@ We respond to your request for an Advisory Opinion concerning various issues inv
 disclosure of loan ledgers containing the personal data of cooperative members. Specifically,
 the following queries were posed:
 
-       Q1 (on DISCLOSURE): Can the Coop Office release/disclose the loan ledgers of Member
+### Discussion
+
+   Q1 (on DISCLOSURE): Can the Coop Office release/disclose the loan ledgers of Member
        A to Member B considering they also contain personal data (including financial) of
        Member A?
 
-       Q2 (on AUTHORITY TO DISCLOSE): If YES to Q1, who shall authorize the disclosure,
+   Q2 (on AUTHORITY TO DISCLOSE): If YES to Q1, who shall authorize the disclosure,
        shall it be the Cooperative Chairman being the highest Coop officer?
 
-               Q2.1. What if the highest Coop Officer also considers NOT authorizing the
+   Q2.1. What if the highest Coop Officer also considers NOT authorizing the
                disclosure of said loan ledgers?
                Q2.2. Can we elevate it to the Coop General Assembly (being the highest decision-
                making body in a Cooperative) and they can be the one (as a GA) to decide whether
                to disclose the ledgers or not?
 
-       Q3 (on CONSENT): Do we still need to get the consent of Member A about the Coop
+   Q3 (on CONSENT): Do we still need to get the consent of Member A about the Coop
        disclosing his loans ledgers (considering that he transferred his loan anyway to Member
        B)? Note: As for the consent, we already asked the consent of Member A about it and he
        signified that he will not provide consent.
 
-       Q4: If NO to Q1, can the Coop issue a Statement of Account which also reflects the contents
+   Q4: If NO to Q1, can the Coop issue a Statement of Account which also reflects the contents
        of the ledgers without other personal data and as long as it is Certified Correct by a Coop
        Officer?
 
-
-
-1 Tags: Coop Loan ledger; Disclosure; Lawful processing.
-
-       Q5: If it's okay to ask, what other pertinent Philippine law/s apply to the stated situation?
+   Q5: If it's okay to ask, what other pertinent Philippine law/s apply to the stated situation?
        Note: Our Audit Committee hinted that a BSP ruling exempts the issuance of ledgers/info
        of a transferred loan from the DPA 2012. Will that said BSP ruling apply?
 
@@ -75,18 +68,18 @@ and certainly identify an individual3.
 
 On the other hand, sensitive personal information refers to personal information:
 
-          (1) About an individual’s race, ethnic origin, marital status, age, color, and religious, philosophical
+   (1) About an individual’s race, ethnic origin, marital status, age, color, and religious, philosophical
           or political affiliations;
 
-          (2) About an individual’s health, education, genetic or sexual life of a person, or to any proceeding
+   (2) About an individual’s health, education, genetic or sexual life of a person, or to any proceeding
           for any offense committed or alleged to have been committed by such person, the disposal of such
           proceedings, or the sentence of any court in such proceedings;
 
-          (3) Issued by government agencies peculiar to an individual which includes, but not limited to,
+   (3) Issued by government agencies peculiar to an individual which includes, but not limited to,
           social security numbers, previous or current health records, licenses or its denials, suspension or
           revocation, and tax returns; and
 
-          (4) Specifically established by an executive order or an act of Congress to be kept classified.4
+   (4) Specifically established by an executive order or an act of Congress to be kept classified.4
 
 Meanwhile, processing is defined as any operation or any set of operations performed upon
 personal data including, but not limited to, the collection, recording, organization, storage,
@@ -113,28 +106,28 @@ Republic Act No. 10173 (2012).
 should be based on any of the following lawful criteria for processing under Sections 12 and
 13 of the DPA, to wit:
 
-       SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal
+   SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal
        information shall be permitted only if not otherwise prohibited by law, and when at least one of
        the following conditions exists:
 
-       (a) The data subject has given his or her consent;
+   (a) The data subject has given his or her consent;
        (b) The processing of personal information is necessary and is related to the fulfillment of a
            contract with the data subject or in order to take steps at the request of the data subject prior
            to entering into a contract;
        (c) The processing is necessary for compliance with a legal obligation to which the personal
            information controller is subject;
 
-                                                  xxx
+   xxx
 
-       (f) The processing is necessary for the purposes of the legitimate interests pursued by the personal
+   (f) The processing is necessary for the purposes of the legitimate interests pursued by the personal
            information controller or by a third party or parties to whom the data is disclosed, except
            where such interests are overridden by fundamental rights and freedoms of the data subject
            which require protection under the Philippine Constitution.
 
-       SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive
+   SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive
        personal information and privileged information shall be prohibited, except in the following cases:
 
-       (a) The data subject has given his or her consent, specific to the purpose prior to the processing,
+   (a) The data subject has given his or her consent, specific to the purpose prior to the processing,
            or in the case of privileged information, all parties to the exchange have given their consent
            prior to processing;
        (b) The processing of the same is provided for by existing laws and regulations: Provided, That
@@ -143,15 +136,15 @@ should be based on any of the following lawful criteria for processing under Sec
            not required by law or regulation permitting the processing of the sensitive personal
            information or the privileged information;
 
-                                                   xxx
+   xxx
 
-       (d) The processing is necessary to achieve the lawful and noncommercial objectives of public
+   (d) The processing is necessary to achieve the lawful and noncommercial objectives of public
            organizations and their associations: Provided, That such processing is only confined and
            related to the bona fide members of these organizations or their associations: Provided, further,
            That the sensitive personal information are not transferred to third parties: Provided, finally,
            That consent of the data subject was obtained prior to processing;
 
-                                                      xxx
+   xxx
 
 Based on these provisions, lawful processing of personal data is not always anchored on
 consent, as there are other criteria which may be more appropriate that may be invoked by
@@ -178,11 +171,10 @@ It is important to note that the registration and designation of a DPO is a lega
 imposed upon PICs like                       . For further guidance, you may check
 https://privacy.gov.ph/appointing-a-data-protection-officer/.
 
-
 Rights of the
 Data Subjects
 
-         ’s Data Protection Officer (DPO) or its Board of Directors or General Assembly,
+   ’s Data Protection Officer (DPO) or its Board of Directors or General Assembly,
 whichever is applicable, must also consider the Rights of the Data Subject9 when disclosing
 its members’ personal data.
 
@@ -193,7 +185,6 @@ states that financial consumers have the right to expect that their financial tr
 as all personal information disclosed in the course of their transactions with CDA-Regulated
 Entities (CDAREs) are kept confidential and secured at all times. CDAREs are required to
 uphold privacy and protect the data of their financial consumers.
-
 
 Data Privacy Principles;
 Appropriate Security Measures
@@ -238,9 +229,7 @@ adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV

@@ -1,11 +1,17 @@
 ---
 title: "NPC BN 18-199: In re: HC Consumer Finance Philippines, Inc"
-description: "Letter dated 23 October 2018 “Identity Theft dated May 01, 2018 of Data Breach Notification"
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC BN 18-199"
+  - "npc bn 18-199"
+  - "In re: HC Consumer Finance Philippines, Inc"
+  - "in re: hc consumer finance philippines, inc"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-08-17"
 draft: false
 ---
 
@@ -22,7 +28,6 @@ draft: false
 - Content of Notification
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 IN RE: HC CONSUMER FINANCE
 
@@ -94,7 +99,6 @@ No. 20 18-003 ” from HC Consumer Finance Philippines, Inc. NPC BN: 18-199
 
 > In re: HC Consumer Finance Philippines, Inc .
 > Page 2of 10
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 commodity subject of the loan ” and someone is paying for the
 
@@ -160,7 +164,6 @@ purchased. 15
 > 15 Id. NPC BN: 18-199
 > In re: HC Consumer Finance Philippines, Inc .
 > Page 3of 10
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Further, HC stated that based on its internal investigation it
 
@@ -224,7 +227,6 @@ HC’s system. 22
 > 22 Id. NPC BN: 18-199
 > In re: HC Consumer Finance Philippines, Inc .
 > Page 4of 10
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 12 July 2022, the NPC CID issued an Order directing HC to
 
@@ -281,7 +283,6 @@ loans . The photos of the clients holding the welcome kit and the
 > 26 Id. NPC BN: 18-199
 > In re: HC Consumer Finance Philippines, Inc .
 > Page 5of 10
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 commodity were also taken as additional measures to prevent any
 
@@ -362,7 +363,6 @@ or any similar measure through which the data subjects are
 > 27 Id. NPC BN: 18-199
 > In re: HC Consumer Finance Philippines, Inc .
 > Page 6of 10
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 informed in an equally effective manner: Provided further , that
 
@@ -432,7 +432,6 @@ NPC BN: 18-199
 
 In re: HC Consumer Finance Philippines, Inc .
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 a. description of how the breach occurred and the
 
@@ -530,7 +529,6 @@ Id. NPC BN: 18-199
 
 > In re: HC Consumer Finance Philippines, Inc .
 > Page 8of 10
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 HC asserted that there is no indication of loss of control over the
 
@@ -597,7 +595,6 @@ NPC BN: 18-199
 
 In re: HC Consumer Finance Philippines, Inc .
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 considering that there is similar finding with its Investigation
 
@@ -631,7 +628,6 @@ Pasay City, Philippines.
 
 17 August 202 3.
 
-Sgd.
 
 JOHN HENRY D. NAGA
 
@@ -639,7 +635,6 @@ Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -653,9 +648,7 @@ HC Consumer Finance Philippines, Inc. NPC BN: 18-199
 
 In re: HC Consumer Finance Philippines, Inc .
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
-Sgd.
 
 NERISSA N. DE JESUS
 

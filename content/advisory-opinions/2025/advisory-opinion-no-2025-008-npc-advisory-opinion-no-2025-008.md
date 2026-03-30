@@ -1,6 +1,6 @@
 ---
-title: "NPC Advisory Opinion No. 2025 - 008"
-description: "We respond to your request seeking guidance and clarification on the request of Intervest Projects Inc. (IPI) to your office for copies of death certificates of deceased veteran pensioners taking into account the provisions of Republic Act No. 10173, also..."
+title: "NPC Advisory Opinion No. 2025-008 — Release of Death Certificates for Insurance Claims Processing"
+description: "On whether a government agency may release death certificates of deceased pensioners to a private entity for insurance claims processing without consent or Data Sharing Agreement."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -14,25 +14,21 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                           ADVISORY OPINION NO. 2025-0081
 
 29 August 2025
 
-
-
-
-          Re:      RELEASE OF DEATH CERTIFICATES FOR THE PROCESSING OF
+   Re:      RELEASE OF DEATH CERTIFICATES FOR THE PROCESSING OF
                    INSURANCE CLAIMS
 
-
-Dear
+Dear [Redacted],
 
 We respond to your request seeking guidance and clarification on the request of Intervest
 Projects Inc. (IPI) to your office for copies of death certificates of deceased veteran pensioners
 taking into account the provisions of Republic Act No. 10173, also known as the Data Privacy
 Act of 2012 (DPA), its Implementing Rules and Regulations (IRR) and relevant issuances of
 the National Privacy Commission (NPC).
+
+### Discussion
 
 Pertinent to your request is NPC Advisory Opinion No. 2024-011, where it was noted that the
 Philippine Veterans Bank (PVB) extends loans to Philippine Veterans Affairs Office (PVAO)
@@ -50,8 +46,6 @@ Philippine Statistics Authority (PSA) for the purpose of securing copies of the 
 certificates. Nonetheless, IPI continues to seek PVAO assistance in securing copies of the
 pensioners’ death certificates, citing operational difficulties and financial burden in accessing
 records directly from the PSA.
-
-1 Tags: personal information; sensitive personal information; death certificate; criteria for lawful processing; data
 
 sharing; general data privacy principles; security measures.
 
@@ -99,7 +93,6 @@ DPA.
 As to whether or not to execute a DSA, you may refer to NPC Circular No. 2020-03. Under the
 said Circular, PICs may carry out a DSA. Note that the language used is permissive only. This
 
-2 §3(j) Processing refers to any operation or any set of operations performed upon personal information including,
 
 but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation,
 use, consolidation, blocking, erasure or destruction of data.
@@ -123,14 +116,14 @@ the general data privacy principles of transparency, legitimate purpose, and pro
 
 As discussed in NPC Advisory Opinion No. 2022-05, :
 
-              “LTO must establish a system for handling these types of requests for
+   “LTO must establish a system for handling these types of requests for
               information to avoid the possibility of abuse. xxx It must also provide
               for a mechanism to ensure that the information to be disclosed will
               only be used for the purpose/s indicated.”
 
 Additionally, in NPC Advisory Opinion No. 2021-044, it was recommended that:
 
-              “xxx in case a request for personal information is granted, the
+   “xxx in case a request for personal information is granted, the
               requesting party should be required to sign an undertaking that the
               information will only be used for the purpose that was declared xxx
               and that the proper disposal thereof is ensured xxx. Further, the
@@ -149,8 +142,6 @@ a certification of death may suffice as an alternative considering that the insu
 requires only a satisfactory proof of death of the insured. If, however, all contents in the death
 certificate are necessary and the option to redact sensitive personal information is impossible,
 
-
-3 Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements.
 
 IPI must be able to ensure compliance with the provisions of the DPA and other laws for
 personal data protection.
@@ -173,3 +164,6 @@ Very truly yours,
 (Sgd.)
 VIDA ZORA G. BOCAR
 OIC-Director IV, Privacy Policy Office4
+
+[^2]: §3(j) Processing refers to any operation or any set of operations performed upon personal information including,
+[^3]: Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements.

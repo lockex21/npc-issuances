@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-033 — Internal Dissemination Of Information Regarding Bank-related Crimes"
-description: "'''''''''''''''''''' ''''' ''''''''' ''''''' '''''''''''''' ''''''''' '''''''''''' '''''''''' ''''''' ''''''''''''' ''''''''' ''''''' '''''' ''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2021-033 — Internal Dissemination Of Information Regarding Bank-related Crimes"
+description: "Guidance on internal dissemination of information regarding bank-related crimes, addressing anti-fraud campaigns and disclosure of sensitive personal information of personnel."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,21 +17,11 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                 ADVISORY OPINION NO. 2021-0331
+**13 August 2021**
 
-13 August 2021
+RE: INTERNAL DISSEMINATION OF INFORMATION REGARDING BANK-RELATED CRIMES
 
-'''''''''''''''''''' ''''' '''''''''
-''''''' '''''''''''''' '''''''''
-'''''''''''' '''''''''' '''''''
-''''''''''''' ''''''''' ''''''' ''''''
-''''''''''''''''''''''''
-
-             RE:      INTERNAL   DISSEMINATION   OF                                             INFORMATION
-                      REGARDING BANK-RELATED CRIMES
-
-Dear ''''''''' '''''''''''
+Dear [Redacted],
 
 We write in response to your letter request received by the National Privacy Commission
 (NPC) seeking guidance on the proposed processing activities of a bank in relation to
@@ -48,21 +38,14 @@ You now seek opinion from the NPC on the following matters, as to whether:
    his/her administrative or criminal offense, through an internal e-mail dissemination or
    posting in an intranet (internal repository) as a measure to assist the bank’s efforts to
    combat fraud and create a deterrent effect is permissible under the Data Privacy Act of
-   20122 (DPA); and
+   2012[^1] (DPA); and
 2. A caveat in the publication or email message warning its internal stakeholders that
    unauthorized dissemination of the information contained therein may be punishable
    under the DPA.
 
-Anti-fraud campaigns; disclosure of sensitive personal
-information; lawful basis; general data privacy
-principles
+### Discussion
 
-1
-  Tags: sensitive personal information; anti-fraud campaign, training, and awareness; internal disclosure of sensitive personal
-information; proportionality.
-2
-  An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private
-No. 10173 (2012).
+Anti-fraud campaigns; disclosure of sensitive personal information; lawful basis; general data privacy principles
 
 While we recognize the objectives of the bank to combat fraud, raise awareness regarding the
 consequences of committing crimes against the bank, and create a deterrent effect vis-à-vis
@@ -85,7 +68,7 @@ purposes above.
 We reiterate the principle of proportionality which requires that the processing of personal
 data shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared
 and specified purpose. Personal data shall be processed only if the purpose of the processing
-could not reasonably be fulfilled by other means.3
+could not reasonably be fulfilled by other means.[^2]
 
 With this, the bank should reevaluate its proposed internal anti-fraud initiatives. To our mind,
 these may be accomplished through other less privacy-intrusive means without necessarily
@@ -93,7 +76,7 @@ exposing sensitive personal information of former or current employees of the ba
 that the Bangko Sentral ng Pilipinas (BSP) has recently issued a directive which addresses the
 management of human resource-related risk, requiring banks to embed in their enterprise-
 wide risk management framework measures to identify, measure, monitor, and control the
-so-called “people risk.”4
+so-called “people risk.”[^3]
 
 Lastly, it is also necessary for the bank to assess the proposed personal data processing activity
 in relation to how the same may possibly affect the other fundamental rights and freedoms of
@@ -107,13 +90,11 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
 
-3
- Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 17 (c) (2016).
- See: Bangko Sentral ng Pilipinas, Amendments to Operational Risk Management and Internal Control Measures [Circular No. 1112,
-series of 2021] (April 8, 2021).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+
+[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 17 (c) (2016).
+
+[^3]: Bangko Sentral ng Pilipinas, Amendments to Operational Risk Management and Internal Control Measures [Circular No. 1112, series of 2021] (April 8, 2021).

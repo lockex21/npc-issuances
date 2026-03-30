@@ -1,11 +1,17 @@
 ---
 title: "NPC 18-141: MHH v. VCF and SPFS"
-description: "School director's requests for employee's educational records without consent were not processing under the Data Privacy Act, as the third-party institution did not release the documents. Complaint dismissed."
+description: "School director's requests for employee's educational records without consent were not processing under the Data Privacy Act, as the third-party institution did not release the documents. Complaint dismissed for lack of merit."
+aliases:
+  - "NPC 18-141"
+  - "npc 18-141"
+  - "MHH v. VCF and SPFS"
+  - "mhh v. vcf and spfs"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2017"
+  - "year/2018"
   - "npc-case"
+date: "2020-06-09"
 draft: false
 ---
 
@@ -22,20 +28,17 @@ draft: false
 
 ## Decision Text
 
-**MHH,**
-**Complainant,**
-**-versus-**
-**NPC Case No. 18-141**
-**(Formerly NPC Case No. 18-I-141)**
+MHH,
 
-**For: Violation of the Data Privacy Act of 2012**
+Complainant,
 
-**VCF and SPFS,**
-**Respondents.**
+-versus-
 
----
+VCF and SPFS,
 
-### These Proceedings
+Respondents.
+
+x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
@@ -95,7 +98,7 @@ In Respondents' Rejoinder,[^23] they reiterated the failure of Complainant to su
 
 Respondents maintained that it has the right to protect SPFS and to be clarified as to the truth or falsity of the two sets of Transcripts of Records, which was the reason why the letter-requests were sent to TCC.
 
-### Issues
+### Issue
 
 The sole issue in this case is whether Complainant was able to prove that Respondent committed a violation of the Data Privacy Act.
 
@@ -139,30 +142,24 @@ This Commission's Advisory Opinion No. 2018-006 provides that:
 
 Be that as it may, since the allegations for unauthorized processing, accessing personal information due to negligence, and unauthorized disclosure have not been proven by Complainant, her Complaint must be dismissed.
 
-### Dispositive Portion
-
-**WHEREFORE**, premises considered, the instant complaint is hereby **DISMISSED** for lack of merit.
+WHEREFORE, premises considered, the instant complaint is hereby **DISMISSED** for lack of merit.
 
 **SO ORDERED.**
 
-Pasay City, Philippines
+Pasay City, Philippines. 09 June 2020
 
-09 June 2020
-
----
-
-**LEANDRO ANGELO Y. AGUIRRE**
+LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-**RAYMUND ENRIQUEZ LIBORO**
+RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-**JOHN HENRY D. NAGA**
+JOHN HENRY D. NAGA
 Deputy Privacy Commissioner
 
-COPY FURNISHED:
+Copy furnished:
 
 MHH
 Complainant
@@ -174,9 +171,7 @@ SPFS
 Respondent
 
 COMPLAINTS AND INVESTIGATION DIVISION
-
 ENFORCEMENT DIVISION
-
 GENERAL RECORDS UNIT
 
 [^1]: Complaint via online complaints-assisted portal dated 25 September 2018.

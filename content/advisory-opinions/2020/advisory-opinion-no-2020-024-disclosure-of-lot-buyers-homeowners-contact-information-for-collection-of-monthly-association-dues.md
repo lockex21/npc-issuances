@@ -1,13 +1,12 @@
 ---
-title: "Advisory Opinion No. 2020-024 — Disclosure of Lot Buyers’/Homeowners’ Contact Information for Collection of Monthly Association Dues"
-description: "''''''''''' '''' '''''''''''''''''''''''''''''' '''''''' ''''''''''' '''''''''''' ''''''''''''''''' ''''' ''''' '''''''' '' '''''''''' ''''' ''''''''''' ''''''''' ''''''' ''''' '''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2020-024 — Disclosure of Lot Buyers’/Homeowners’ Contact Information for Collection of Monthly Association Dues"
+description: "Disclosure of lot buyers' and homeowners' contact information to homeowners associations for collection of monthly dues."
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
 draft: false
 ---
-
 ## Source
 - Reference: Advisory Opinion No. 2020-024
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-024.pdf
@@ -17,23 +16,12 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                      ADVISORY OPINION NO. 2020-0241
 
- 16 June 2020
-
- ''''''''''' '''' ''''''''''''''''''''''''''''''
- '''''''' '''''''''''
- '''''''''''' ''''''''''''''''' '''''
- ''''' '''''''' '' '''''''''' '''''
- ''''''''''' ''''''''' ''''''' '''''
- '''''''''''''''''''''''''''''''
-
-              Re:       DISCLOSURE OF LOT BUYERS’/HOMEOWNERS’ CONTACT
+Re:       DISCLOSURE OF LOT BUYERS’/HOMEOWNERS’ CONTACT
                         INFORMATION FOR COLLECTION OF MONTHLY
                         ASSOCIATION DUES
 
-Dear ''''''''''''''' ''''''''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your letter request on whether the disclosure of the contact
 information of lot buyers/homeowners to the homeowner’s association, for purposes of
@@ -49,15 +37,13 @@ lot buyers/homeowners of Anhawan Development, Inc. and Royal Asia Multi Properti
 (collectively, Developers), respectively. The purpose for such requests was to facilitate the
 collection of the monthly association dues.
 
+### Discussion
+
 Contact information; disclosure; data privacy
 principles; legitimate interest
 
 It is worth noting that under the DPA, contact information of individuals are considered as
 personal information.4 The Developers, as personal information controllers (PICs), have the
-
-
-1 Tags: contact information; disclosure; legitimate interest.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Private Sector, Creating for this Purpose a National Privacy Commission and Other Purposes, “Data Privacy Act of 2012” (15
 August 2012).
@@ -76,7 +62,7 @@ Philippine Constitution.5
 To determine if there is legitimate interest in processing personal information, PICs must
 consider the following: 6
 
-     1. Purpose test - The existence of a legitimate interest must be clearly established,
+   1. Purpose test - The existence of a legitimate interest must be clearly established,
         including a determination of what the particular processing operation seeks to
         achieve.
      2. Necessity test - The processing of personal information must be necessary for the
@@ -102,9 +88,6 @@ community services and facilities, provided that he or she pays the necessary fe
 pertinent charges.8 It is also among the duties and responsibilities of the Board of Directors or
 Trustees of a HOA to collect the fees, dues and assessments that may be provided for in the
 by-laws, as approved by a majority of its members.9
-
-
-
 
 5 Id. § 12(f).
 6 See generally, Data Privacy Act of 2012, § 12(f); United Kingdom Information Commissioner’s Office (ICO), What is the
@@ -163,11 +146,8 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
-
 
 10 Id. § 15 (o).
 11 Rules and Regulations Implementing the Magna Carta for Homeowners and Homeowners’ Associations, Republic Act No.

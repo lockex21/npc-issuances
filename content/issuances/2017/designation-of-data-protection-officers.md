@@ -1,17 +1,18 @@
 ---
 title: "Designation of Data Protection Officers (Advisory No. 2017-01)"
-description: "WHEREAS, Article II, Section 24 of the 1987 Constitution provides that the State recognizes the vital role of communication and information in nation-building. At the same time, Article II, Section 11 thereof stresses that the State values the dignity of every human person and..."
+description: "Provides guidelines for the designation and functions of data protection officers and compliance officers for privacy."
 aliases:
-  - "Advisory No. 2017-01"
-  - "advisory no. 2017-01"
-  - "designation of data protection officers"
-  - "npc advisory no. 2017-01"
+- "Advisory No. 2017-01"
+- "advisory no. 2017-01"
+- "designation of data protection officers"
+- "npc advisory no. 2017-01"
 tags:
-  - "issuance"
-  - "topic/registration"
-  - "type/advisory"
-  - "year/2017"
+- issuance
+- topic/registration
+- type/advisory
+- year/2017
 draft: false
+date: '2017-03-14'
 ---
 
 ## Issuance Text
@@ -192,8 +193,6 @@ Approved:
 (Sgd.) RAYMUND E. LIBORO Privacy Commissioner
 
 (Sgd.) IVY D. PATDU | (Sgd.) DAMIAN DOMINGO O. MAPA Deputy Privacy Commissioner | Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: See [[laws/data-privacy-act-of-2012#Section 21. Principle of Accountability|Section 21(a) of the Data Privacy Act of 2012]] and [[laws/data-privacy-act-of-2012#Section 14. Subcontract of Personal Information|Section 14 of the Data Privacy Act of 2012]].
 [^2]: E.g., what results should be achieved, how to investigate a complaint, whether to consult the NPC, what view or interpretation of the law to take relative to a specific data protection issue, etc.

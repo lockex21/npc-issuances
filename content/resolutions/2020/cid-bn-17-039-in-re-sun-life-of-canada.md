@@ -1,13 +1,22 @@
 ---
-title: "CID BN 17-039: In re: Sun Life of Canada"
-description: "CID BN 17-039: In re: Sun Life of Canada"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- CID BN 17-039
+- cid bn 17-039
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: CID BN 17-039
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'CID BN 17-039: In re: Sun Life of Canada'
 ---
+
+
+
+
 
 ## Source
 - Reference: CID BN 17-039
@@ -25,8 +34,6 @@ IN RE: SUN LIFE OF CAN ADA
 
 (PHILIPPINES) INC.
 
-CID BN 17 -039
-
 x-----------------------------------------------------------x
 
 NAGA, D.P.C.:
@@ -39,8 +46,7 @@ data subjects from a data breach incident that occurred last 29
 
 November 2017.
 
-The Facts
-
+### Facts
 On 01 September 2017 , Sun Life ’s Unit Manager (UM) was
 
 transferred from Eucalyptus New Business Office (NBO) to
@@ -79,12 +85,10 @@ Sales Credit; First Year Premium; and Renewal Premium Income.
 
 In response, Sun Life mentioned that they have taken the following
 
-measures to address the breach: CID BN 17 -039
+measures to address the breach: CID BN 17039
 
 > In re: SLCP
 > Page 2of 6
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 a. On 27 November 2017, the UM was requested to delete the
 
@@ -122,9 +126,8 @@ to the rights and freedoms of the policy holder s considering that it
 
 was the UM her self who reported the said breach .
 
-Discussion
-
-As provided by Section 11 of the  NPC Circular 16 -03, notification to
+### Discussion
+As provided by Section 11 of the  NPC Circular 1603, notification to
 
 the affected data subjects shall be required upon knowledge of or
 
@@ -158,12 +161,10 @@ rights or benefits.
 
 B. There is reason to believe that the information may have been
 
-acquired by an unauthorized person; and CID BN 17 -039
+acquired by an unauthorized person; and CID BN 17039
 
 > In re: SLCP
 > Page 3of 6
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 C. The personal information controller or the Commission
 
@@ -185,7 +186,7 @@ affected data subjects is more than one hundred (100) individuals
 
 which falls under the mandatory breach notification as provided by
 
-Section 13 (B) of NPC Circular 16 -03.
+Section 13 (B) of NPC Circular 1603.
 
 According to Section 38 of the Data Privacy Act of 2012 (DPA) , “Any
 
@@ -217,7 +218,7 @@ On anothe r matter, the Commission notes that as of the date of the
 
 promulgation of th is Resolution , it ha s yet to receive its full breach
 
-report as required under NPC Circular 16 -03 . The Commission
+report as required under NPC Circular 1603 . The Commission
 
 remind s Sun Life that the DPA requires two (2) different reports in
 
@@ -227,27 +228,22 @@ As held by the Commission in the case of In re: SLGF (NPC BN 19 -
 
 115) :
 
-Section 17 of the NPC Circular 16 -03 speaks of two
+Section 17 of the NPC Circular 1603 speaks of two
 
 notification requirements to be submitted to the Commission in
 
 case a data breach cases . First is the initial notification 2 that
 
-> 1Section 18 of the NPC Circular 16 -03
-> 2Section 17 (A) of the NPC Circular 16 -03
-
-CID BN 17 -039
+> 1Section 18 of the NPC Circular 1603
+> 2Section 17 (A) of the NPC Circular 1603
 
 In re: SLCP
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 informs to the Commission that a personal data breach has
 
 occurred. This h as no particular form or content as it merely
 
-requires that the Commission to be notified within seventy -two
+requires that the Commission to be notified within seventytwo
 
 (72) hours. The second notification 3 is the Full Breach Report
 
@@ -333,12 +329,10 @@ These two documents are very much different from one ano ther
 
 not only as to its form and content but also as to its purpose.
 
-> 3Section 17 (D) of the NPC Circular 16 -03
-> 4Section 17 (A) of NPC Circular 16 -03 CID BN 17 -039
+> 3Section 17 (D) of the NPC Circular 1603
+> 4Section 17 (A) of NPC Circular 1603 CID BN 17039
 > In re: SLCP
 > Page 5of 6
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 Sun Life submitted before the Commission a breach notification
 
@@ -346,7 +340,7 @@ dated 29 November 2017. The breach notification submitted can
 
 only be considered as a notification as prescribed under Section 17
 
-(A) of NPC Circular 16 -03 as it lacks the necessary content and
+(A) of NPC Circular 1603 as it lacks the necessary content and
 
 information required in a full breach report. Therefore, Sun Life is
 
@@ -366,7 +360,7 @@ from receipt of this Resolution with the following:
 
 (1) NOTIFY with dispatch the affected data subject s, including
 
-proof of compliance consistent with NPC Circular 16 -03 ; and
+proof of compliance consistent with NPC Circular 1603 ; and
 
 (2) SUBMIT a full breach report detailing the measures it has since
 
@@ -380,8 +374,6 @@ Pasay City, Philippines ;
 
 15 October 2020 .
 
-(Sgd.)
-
 JOHN HENRY D. NAGA
 
 Deputy Privacy Commissione r
@@ -392,14 +384,9 @@ WE CONCUR:
 
 RAYMUND ENRIQUEZ LIBORO
 
-Privacy Commissioner CID BN 17 -039
+Privacy Commissioner CID BN 17039
 
 In re: SLCP
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
-
-(Sgd.)
 
 LEANDRO ANGELO Y. AGUIRRE
 

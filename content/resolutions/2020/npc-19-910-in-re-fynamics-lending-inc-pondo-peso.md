@@ -1,13 +1,22 @@
 ---
-title: "NPC 19-910: In Re: Fynamics Lending Inc. (Pondo Peso)"
-description: "NPC 19-910: In Re: Fynamics Lending Inc. (Pondo Peso)"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC 19-910
+- npc 19-910
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC 19-910
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC 19-910: In Re: Fynamics Lending Inc. (Pondo Peso)'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC 19-910
@@ -21,8 +30,6 @@ draft: false
 - Request for Extension
 
 ## Resolution Text
-> 5th Floor ,Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 IN RE : FYNAMICS LENDING
 
@@ -34,7 +41,7 @@ LENDING APPLICATION
 
 -----x---------------------------------------x
 
-NPC 19 -910
+NPC 19910
 
 For violation of the
 
@@ -42,7 +49,7 @@ Data Privacy Act of 2012
 
 On 01 October 2020, the Commission conducted a Clarificatory
 
-Hearing pursuant to Section 21 of NPC Circular No. 16 -04. Respondent
+Hearing pursuant to Section 21 of NPC Circular No. 1604. Respondent
 
 Fynamics Lending, Inc. (Fynamics) and the individual respondents
 
@@ -85,11 +92,9 @@ company and the Respondent is trying to get a hold of the
 same. 2
 
 > 1Order dated 01 October 2020.
-> 2Partial Compliance by Fynamics Lending, Inc. dated 15 October 2020. NPC 19 -910
+> 2Partial Compliance by Fynamics Lending, Inc. dated 15 October 2020. NPC 19910
 > In re: Fynamics Lending Inc.
 > Page 2of 3
-> 5th Floor ,Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 The Commission notes the submission of the Partial Compliance.
 
@@ -119,30 +124,21 @@ City of Pasay, Philippines
 
 5 November 2020.
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 RAYMUND E NRIQUEZ LIBORO
 
 Privacy Commissioner
 
-Sgd.
-
 JOHN HENRY D. NAGA
 
-Deputy Privacy Commissioner NPC 19 -910
+Deputy Privacy Commissioner NPC 19910
 
 In re: Fynamics Lending Inc.
-
-> 5th Floor ,Delegation Building, PICC Complex 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 COPY FURNISHED:
 

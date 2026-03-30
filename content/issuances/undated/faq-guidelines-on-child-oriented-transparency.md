@@ -1,22 +1,26 @@
 ---
-title: "FAQ Guidelines on Child-Oriented Transparency"
-description: "Advisory on Guidelines on Child-Oriented Transparency Questions Raised During the Call for Public Input as of 17 December 2024"
+title: "FAQs on Guidelines on Child-Oriented Transparency"
+description: "Questions and answers on the Advisory governing transparency obligations when processing children's personal data, raised during public consultation in December 2024."
 aliases:
-  - "faq guidelines on child-oriented transparency"
+  - "FAQs on Guidelines on Child-Oriented Transparency"
+  - "faqs on guidelines on child-oriented transparency"
+  - "child-oriented transparency faq"
+  - "npc advisory guidelines on child-oriented transparency"
 tags:
   - "issuance"
   - "topic/children"
   - "type/faq"
-  - "year/undated"
+date: "2024-03-04"
 draft: false
 ---
 
 ## Issuance Text
 
-Advisory on Guidelines on Child-Oriented Transparency
+**Advisory on Guidelines on Child-Oriented Transparency**
+
 Questions Raised During the Call for Public Input as of 17 December 2024
 
-## General Questions
+**General Questions**
 
 1. What is the purpose of the Advisory?
 The Advisory is meant to be one of the first guidance issuances on children's privacy. It explains how transparency obligations apply when PICs and PIPs process children's personal data.
@@ -42,7 +46,7 @@ The Advisory does not create new penalties. Existing obligations and enforcement
 8. Will a PIC be given a period to ensure compliance with the provisions of the Advisory?
 No. The Advisory clarifies existing obligations and gives additional guidance for processing children's personal data.
 
-## Risk-Based Assessment
+**Risk-Based Assessment**
 
 9. Who will conduct the risk-based assessment and determine the need for a Child Privacy Impact Assessment (CPIA)?
 PICs must include a CPIA as part of their PIA before launching products or services intended or likely to be accessed by children, and again as needed afterward.
@@ -65,7 +69,7 @@ No. PICs must decide for themselves whether age assurance is needed and what sol
 15. Can PICs rely solely on users' self-declaration for age verification?
 They may, but the NPC warns that self-declaration alone may be insufficient for high-risk processing.
 
-## Privacy Notice
+**Privacy Notice**
 
 16. Is there a prescribed form for the child-friendly privacy notice?
 No. There is no fixed form. PICs should still ensure children can understand the nature, purpose, and extent of the processing.
@@ -76,7 +80,7 @@ No. A single notice may be too complex for children and too sparse for adults.
 18. Can PICs employ age-tiered privacy notices?
 Yes. PICs may do so if that approach fits their risk assessment. They should use a child-oriented, risk-based approach that matches the child's age and the processing risks.
 
-## Data Breach Notification
+**Data Breach Notification**
 
 19. Is the PIC required to notify both the parent or guardian and the child?
 Yes. Notifying both helps ensure the child can take steps to protect themselves after a breach.
@@ -84,7 +88,7 @@ Yes. Notifying both helps ensure the child can take steps to protect themselves 
 20. Is there a prescribed form and language for data breach notifications?
 Yes. NPC Circular No. 16-03 provides the required form and contents. When children are involved, the notice must use language they can readily understand.
 
-## Accountability
+**Accountability**
 
 21. Who is accountable?
 PICs remain responsible for children's personal data, including data processed by their PIPs on their behalf.

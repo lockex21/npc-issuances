@@ -1,10 +1,10 @@
 ---
-title: "NPC Advisory Opinion No. 2019-001"
-description: "'''''''''''''''''''''' '''''' ''''''''''''''''''''''''''''''''' ''''''''''''' ''''''''''''''''''''''' '''''''''''''' ''''''''''''''''''' ''''''''''''''''''''''''' '''''''''''''''''''''''''''''''' ''''''''' ''''''''' ''''''''''''' '''''''''''''''..."
+title: "NPC Advisory Opinion No. 2019-001 — Private Detective Services"
+description: "Whether private detectives providing background checks and surveillance services must comply with data privacy laws."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2019"
+  - issuance
+  - type/advisory-opinion
+  - year/2019
 draft: false
 ---
 
@@ -16,21 +16,11 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                     ADVISORY OPINION NO. 2019-0011
+**3 January 2019**
 
- 3 January 2019
+Re: PRIVATE DETECTIVE SERVICES
 
- '''''''''''''''''''''' '''''' '''''''''''''''''''''''''''''''''
- ''''''''''''' ''''''''''''''''''''''' ''''''''''''''
- ''''''''''''''''''' ''''''''''''''''''''''''' '''''''''''''''''''''''''''''''' '''''''''
- ''''''''' ''''''''''''' ''''''''''''''' ''''''''''''' '''''''''''''''''' ''''''''''''
- '''''''''''' '''''''''''''''''''' ''''''''''' ''''''''''''' '''''''''''''''
- ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-              Re:       PRIVATE DETECTIVE SERVICES
-
-Dear ''''''''' '''''''''''''''''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC). You disclosed that Eyespy Detectives and Investigators Co. (Eyespy) is a
@@ -38,6 +28,8 @@ duly registered partnership with the Securities and Exchange Commission, and a d
 registered and licensed to operate detective agency with the Supervisory Office of Security
 and Investigation Agencies of the Philippine National Police, pursuant to Republic Act No.
 5487, as amended,2 or the Private Security Agency Law.
+
+### Discussion
 
 Eyespy offers several services including background checks or investigation, records
 verification, property checks or verification, surveillance operation, service of summons (from
@@ -55,11 +47,6 @@ verification are often requested: a) by a party in a dating relationship, on the
 a foreigner, on his Filipino fiancée to determine if she is indeed single, has the capacity to
 marry and without derogatory record; and c) by parents, on the girlfriend, boyfriend, fiancé
 or fiancée of their child.
-
-
-
-1 Tags: Private detective services, background investigation, right to privacy.
-2 An Act to Regulate the Organization and Operation of Private Detective, Watchmen or Security Guards Agencies [Private
 
 Security Agency Law], Republic Act No. 5487, as amended (1969).
                                   5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307
@@ -83,7 +70,7 @@ information, or when put together with other information, would directly and cer
 identify and individual.5 On the other hand, what is considered as sensitive personal
 information is clearly enumerated as:
 
-       (1) About an individual’s race, ethnic origin, marital status, age, color, and religious,
+   (1) About an individual’s race, ethnic origin, marital status, age, color, and religious,
            philosophical or political affiliations;
        (2) About an individual’s health, education, genetic or sexual life of a person, or to any
            proceeding for any offense committed or alleged to have been committed by such
@@ -102,7 +89,7 @@ sensitive personal information, thus subject to the provisions of the DPA. For p
 personal information, the Section 12 of the law provides the following conditions for lawful
 processing:
 
-       (a) The data subject has given his or her consent;
+   (a) The data subject has given his or her consent;
        (b) The processing of personal information is necessary and is related to the fulfillment of
            a contract with the data subject or in order to take steps at the request of the data subject
            prior to entering into a contract;
@@ -110,8 +97,6 @@ processing:
            personal information controller is subject;
        (d) The processing is necessary to protect vitally important interests of the data subject,
            including life and health;
-
-
 
 3 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
@@ -121,7 +106,7 @@ Republic Act No. 10173, (2012).
 5 Id. § 3 (g).
 6 Id. § 3 (l).
 
-      (e) The processing is necessary in order to respond to national emergency, to comply with
+   (e) The processing is necessary in order to respond to national emergency, to comply with
           the requirements of public order and safety, or to fulfill functions of public authority
           which necessarily includes the processing of personal data for the fulfillment of its
           mandate; or
@@ -134,7 +119,7 @@ Republic Act No. 10173, (2012).
 Meanwhile, under the Section 13 of the law, the processing of sensitive personal information
 is prohibited unless specific conditions under the law are met:
 
-      (a) The data subject has given his or her consent, specific to the purpose prior to the
+   (a) The data subject has given his or her consent, specific to the purpose prior to the
           processing, or in the case of privileged information, all parties to the exchange have
           given their consent prior to processing;
       (b) The processing of the same is provided for by existing laws and regulations: Provided,
@@ -168,32 +153,32 @@ On another perspective, while the 1987 Philippine Constitution guards the right 
 of individuals against unreasonable State intrusion, the Civil Code of the Philippines holds
 liable individuals for violating another person’s right to privacy. The Code states:
 
-      Every person shall respect the dignity, personality, privacy and peace of mind of his
+   Every person shall respect the dignity, personality, privacy and peace of mind of his
       neighbors and other persons and that the act of prying into the privacy of another’s
       residence and meddling with or disturbing the private life or family relations of another,
       though it may not constitute a criminal offense, shall produce a cause of action for
       damages, prevention and other relief:
 
-         (1) Prying into the privacy of another's residence:
+   (1) Prying into the privacy of another's residence:
          (2) Meddling with or disturbing the private life or family relations of another;
 
-           (3) Intriguing to cause another to be alienated from his friends;
+   (3) Intriguing to cause another to be alienated from his friends;
            (4) Vexing or humiliating another on account of his religious beliefs, lowly station in
                life, place of birth, physical defect, or other personal condition. 7
 
 Our Supreme Court had the chance to delve on the right to privacy in relation to the
 abovementioned provision and held:
 
-       The right to privacy is enshrined in our Constitution and in our laws. It is defined as "the
+   The right to privacy is enshrined in our Constitution and in our laws. It is defined as "the
        right to be free from unwarranted exploitation of one’s person or from intrusion into one’s
        private activities in such a way as to cause humiliation to a person’s ordinary sensibilities."
        It is the right of an individual "to be free from unwarranted publicity, or to live without
        unwarranted interference by the public in matters in which the public is not necessarily
        concerned." Simply put, the right to privacy is "the right to be let alone."
 
-                                                  xxx         xxx       xxx
+   xxx         xxx       xxx
 
-       Thus, an individual’s right to privacy under Article 26(1) of the Civil Code should not be
+   Thus, an individual’s right to privacy under Article 26(1) of the Civil Code should not be
        confined to his house or residence as it may extend to places where he has the right to
        exclude the public or deny them access. The phrase "prying into the privacy of another’s
        residence," therefore, covers places, locations, or even situations which an individual
@@ -204,31 +189,29 @@ Furthermore, in our Advisory Opinion No. 2018-090 – Data Privacy and Office-Is
 Devices, we discussed on the expectation of privacy and how the passage of the DPA affects
 it, to wit:
 
-       The ruling in Ople v. Torres also expounded on the “reasonable expectation of privacy” test
+   The ruling in Ople v. Torres also expounded on the “reasonable expectation of privacy” test
        in ascertaining whether there is a violation of the right to privacy. This test determines
        whether a person has a reasonable or objective expectation of privacy and whether the
        expectation has been violated. The reasonableness of a person’s expectation of privacy
        depends on a two-part test:
 
-       (1) whether by his conduct, the individual has exhibited an expectation of privacy; and
+   (1) whether by his conduct, the individual has exhibited an expectation of privacy; and
        (2) whether this expectation is one that society recognizes as reasonable.
 
-       The factual circumstances of the case determine the reasonableness of the expectation.
+   The factual circumstances of the case determine the reasonableness of the expectation.
        Similarly, customs, community norms, and practices may, therefore, limit or extend an
        individual’s reasonable expectation of privacy. The reasonableness of a person’s
        expectation of privacy must then be determined on a case-to-case basis.
 
-                                                  xxx         xxx       xxx
+   xxx         xxx       xxx
 
-       It is noteworthy to mention that the reasonable expectation test was used at a time when
+   It is noteworthy to mention that the reasonable expectation test was used at a time when
        there were no laws on data protection and informational privacy.
 
-                                                  xxx         xxx       xxx
+   xxx         xxx       xxx
 
-       Yet, with the DPA now in place, the reasonable expectation test should be revisited and
+   Yet, with the DPA now in place, the reasonable expectation test should be revisited and
        interpreted in the context of the law.
-
-
 
 7 An Act to Ordain and Institute the Civil Code of the Philippines [CIVIL CODE OF THE PHILIPPINES], Republic Act No. 386, art.
 
@@ -237,7 +220,7 @@ it, to wit:
 
 Citations omitted.
 
-       By virtue of a legislation on data protection and privacy, the assumption is that individuals
+   By virtue of a legislation on data protection and privacy, the assumption is that individuals
        now have an expectation of privacy. As to the second element, data privacy is now more
        than a reasonable expectation – it is now enshrined in the DPA. The reasonable expectation
        of privacy test then should take into consideration the standards provided under the DPA. 9
@@ -251,7 +234,7 @@ activities as circumstances may also differ.
 However, in the conduct of the contemplated services, Eyespy may examine its activities
 through the framework below:
 
-    1) The type of personal data is involved, i.e. personal information and/or sensitive or
+   1) The type of personal data is involved, i.e. personal information and/or sensitive or
        privileged personal information;
     2) The lawful basis to process such personal data given the situation, if any (Eyespy may
        look into Sections 12 (b) and (f) and/or 13(f) of the DPA); and
@@ -273,19 +256,12 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
-
-
-
 
 10 Data Privacy Act of 2012, § 38.

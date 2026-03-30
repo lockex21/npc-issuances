@@ -1,10 +1,10 @@
 ---
-title: "NPC Advisory Opinion No. 2018-084"
-description: "''''''''''''''''' ''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2018-084 — Computer Monitoring"
+description: "Advisory opinion regarding computer monitoring."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2018"
+  - issuance
+  - type/advisory-opinion
+  - year/2018
 draft: false
 ---
 
@@ -16,22 +16,20 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                     ADVISORY OPINION NO. 2018-084
+ 2018-084
 
 28 November 2018
 
-''''''''''''''''' '''''''''''''''''''''''''''
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+   Re:      COMPUTER MONITORING
 
-              Re:      COMPUTER MONITORING
-
-Dear ''''''''' ''''''''''''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your inquiry on whether secret surveillance on an employee’s
 computer activities through the installation of a monitoring software to record keystrokes and
 take random snapshot of computer screen is prohibited under the Data Privacy Act of 20121
 (DPA).
+
+### Discussion
 
 We wish to limit the succeeding discussion on an employer’s act of monitoring the employees
 at the workplace, specifically, monitoring employee activities when he or she is using an
@@ -102,10 +100,9 @@ A policy discussing the parameters of monitoring is in order to be able to ensur
 employees still have a reasonable expectation of privacy at work. 7 It is recommended to
 contain the following information:
 
-    •    Purpose/s that computer monitoring seeks to fulfill;
+   •    Purpose/s that computer monitoring seeks to fulfill;
     •    Circumstances of monitoring, including the time and place it may be conducted;
     •    The kinds of personal data that may be collected in the course of monitoring;
-
 
 3 Privacy Commissioner for Personal Data, Hong Kong, Privacy Guidelines: Monitoring and Personal Data Privacy at Work
 
@@ -118,7 +115,7 @@ Personal_Data_Privacy_At_Work_revis_Eng.pdf (last accessed Oct. 26, 2018)
 
 ec.europa.eu/newsroom/document.cfm?doc_id=45631 (last accessed Sept. 26, 2018).
 
-     •    Criteria for accessing monitoring records;
+   •    Criteria for accessing monitoring records;
      •    Retention period of recordings or footages;
      •    Security measures pertaining to the storage, disclosure and disposal of recorded
           information;
@@ -145,22 +142,15 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-
-
 (Sgd.) IVY D. PATDU
 Officer-in-Charge and
 Deputy Privacy Commissioner
 for Policies and Planning
-
-
-
 
 8 Supra note 5.
 9 Privacy Commissioner of New Zealand- Privacy at Work: A guide to the Privacy Act for employers and employees, accessed

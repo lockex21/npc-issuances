@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-036 — Disclosure Of Loan Documents Pursuant To A Legal Claim"
-description: "'''''''''''''''''''' '''' '''''''''''''''' '''''''''''''''''''' ''''''' '''''''''''''' ''''''''''''''' '' ''''''' '''''''''' ''''' '''''''''''' ''''''' ''''' ''''''''''''' ''''''''' ''''''''''''' '''''' ''''''' '''''''''''' ''''''' '''''' ''''''..."
+title: "NPC Advisory Opinion No. 2021-036 — Disclosure Of Loan Documents Pursuant To A Legal Claim"
+description: "Guidance on disclosure of loan documents pursuant to legal claims, addressing criteria for lawful processing and legitimate interests."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,26 +17,13 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                    ADVISORY OPINION NO. 2021-361
 
- 23 September 2021
+23 September 2021
 
- '''''''''''''''''''' '''' ''''''''''''''''
- ''''''''''''''''''''
- ''''''' '''''''''''''' ''''''''''''''' '' ''''''' '''''''''' '''''
- '''''''''''' '''''''
- ''''' ''''''''''''' ''''''''' ''''''''''''' ''''''
- ''''''' '''''''''''' ''''''' '''''' ''''''
- ''''''''''''''''''''''''''''''''''
- ''''''''''''''''''''''''''''''''''
-
-
-
-             Re: DISCLOSURE OF LOAN DOCUMENTS PURSUANT TO A
+   Re: DISCLOSURE OF LOAN DOCUMENTS PURSUANT TO A
                  LEGAL CLAIM
 
-Dear ''''''''''''''' '''''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your request for advisory opinion received by the National
 Privacy Commission (NPC or the Commission) to provide clarity on whether the release
@@ -55,10 +42,6 @@ to pay Mr. CGS. However, when Mr. CGS demanded payment, Mr. RV declared that the
 properties are yet to be sold. Upon verification, Mr. CGS found out that the properties
 were purportedly bought by a certain Mr. ZPJ through a Pag-IBIG Fund housing loan
 with the proceeds released to the seller, Ms. CVG. Thus, Atty. RAN stated the vouchers
-
-
-1 Tags: criteria for lawful processing; legal claims; legitimate interest.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Republic Act No. 10173 (2012).
 
@@ -97,16 +80,17 @@ personal information under Section 13 (f) of the DPA, specifically on the “est
 exercise or defense of legal claims.” You likewise seek clarity if the release of the requested
 documents or information is not prohibited even without the consent of the data subject.
 
-Lawful processing; establishment, exercise or defense
-of legal claims
+### Discussion
+
+#### Lawful Processing; Establishment, Exercise Or Defense Of Legal Claims
 
 The focal point of the query is Section 13 (f) of the DPA, which provides:
 
-          SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of
+   SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of
           sensitive personal information and privileged information shall be prohibited, except in
           the following cases: x x x
 
-          (f) The processing concerns such personal information as is necessary for the protection
+   (f) The processing concerns such personal information as is necessary for the protection
           of lawful rights and interests of natural or legal persons in court proceedings, or the
           establishment, exercise or defense of legal claims, or when provided to government or
           public authority.3 (emphasis supplied)
@@ -116,7 +100,7 @@ The focal point of the query is Section 13 (f) of the DPA, which provides:
 In the interpretation of the phrase “establishment, exercise or defense of legal claims,” the
 Commission reiterated its stand in the case of BGM vs. IPP,4 viz:
 
-         In the case of NPC 17-018 dated 15 July 2019, this Commission held that “processing as
+   In the case of NPC 17-018 dated 15 July 2019, this Commission held that “processing as
          necessary for the establishment of legal claims” does not require an existing court
          proceeding. To require a court proceeding for the application of Section 13(f) to this
          instance would not only be to disregard the distinction provided in the law but the clear
@@ -124,9 +108,9 @@ Commission reiterated its stand in the case of BGM vs. IPP,4 viz:
          presupposes that there is still no pending case since a case will only be filed once the
          required legal claims have already been established.”
 
-         …
+   …
 
-         The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder
+   The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder
          legitimate proceedings.5
 
 Given the above, the establishment of legal claims requiring the processing of sensitive
@@ -145,11 +129,11 @@ lawful criterion for such request if such vouchers contain sensitive personal in
 If, however, only personal information is involved, the disclosure of the vouchers may
 still find basis under Section 12 (f) of the DPA which provides:
 
-         SEC. 12. Criteria for Lawful Processing of Personal Information. The processing of
+   SEC. 12. Criteria for Lawful Processing of Personal Information. The processing of
          personal information shall be permitted only if not otherwise prohibited by law, and
          when at least one of the following conditions exists: x x x
 
-         (f) The processing is necessary for the purposes of the legitimate interests pursued by
+   (f) The processing is necessary for the purposes of the legitimate interests pursued by
          the personal information controller or by a third party or parties to whom the data is
          disclosed, except where such interests are overridden by fundamental rights and
          freedoms of the data subject which require protection under the Philippine Constitution.
@@ -158,9 +142,8 @@ still find basis under Section 12 (f) of the DPA which provides:
 The Commission’s pronouncement in the same case of BGM v. IPP may be applied in the
 same vein:
 
-         Although Section 13(f) applies to sensitive personal information while the information
+   Although Section 13(f) applies to sensitive personal information while the information
          involved in this case is just personal information, the protection of lawful rights and
-
 
 4 National Privacy Commission, NPC 19-653 (Dec. 17, 2020), available at
 
@@ -168,7 +151,7 @@ https://www.privacy.gov.ph/wpcontent/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decis
 21Dec2020.pdf (last accessed 07 September 2021).
 5 Citations omitted.
 
-         interests under Section 13(f) by the Respondent is considered as legitimate interest
+   interests under Section 13(f) by the Respondent is considered as legitimate interest
          pursuant to Section 12(f) of the DPA.6
 
 Thus, Pag-IBIG Fund may release certified copies of the requested loan documents, sans
@@ -184,13 +167,7 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
-
-
-
 
 6 See footnote 4; citing CID Case No. 17-K-003 dated 19 November 2019 and NPC 18-135 dated 06 August 2020.

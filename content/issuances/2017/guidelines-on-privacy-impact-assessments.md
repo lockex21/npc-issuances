@@ -1,16 +1,17 @@
 ---
 title: "Guidelines on Privacy Impact Assessments (Advisory No. 2017-03)"
-description: "WHEREAS, Article II, Section 11 of the 1987 Constitution declares that the State values the dignity of every human person and guarantees full respect for human rights, and Article XIII, Section 21 states that Congress shall give highest priority to the enactment of measures..."
+description: "Provides guidelines for conducting privacy impact assessments to identify and manage risks to the rights and freedoms of data subjects."
 aliases:
 - "Advisory No. 2017-03"
 - "advisory no. 2017-03"
 - "guidelines on privacy impact assessments"
 - "npc advisory no. 2017-03"
 tags:
-- "issuance"
-- "type/advisory"
-- "year/2017"
+- issuance
+- type/advisory
+- year/2017
 draft: false
+date: '2017-07-31'
 ---
 
 ## Issuance Text
@@ -41,9 +42,51 @@ This Advisory shall apply to all natural or juridical persons, or any other body
 
 For the purpose of this Advisory, the following terms are defined, as follows:
 
-- **A. “Act” or “[[laws/data-privacy-act-of-2012|DPA]]”** refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]; - **B. “Commission” or “NPC”** refers to the National Privacy Commission; - **C. “Compliance Officer for Privacy” or “COP”** refers to an individual that performs some of the functions of a DPO, as provided in NPC Advisory No. 17-01; - **D. “Control Framework”** refers to a comprehensive enumeration of measures a PIC or PIP has established for the protection of personal data against natural dangers such as accidental loss or destruction, and human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration and contamination; - **E. “Data Protection Officer” or “DPO”** refers to an individual designated by the head of agency or organization to be accountable for its compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the Commission: Provided, that, except where allowed otherwise by law or the Commission, the individual must be an organic employee of the government agency or private entity: Provided further, that a government agency or private entity may have more than one DPO; - **F. “[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]”** refers to the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|DPA]]; - **G. “Personal data”** refers to all types of personal information, including privileged information; - **H. “Personal information”** refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual; - **I. “Personal information controller” or “PIC”** refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf. The term excludes: 1. a person or organization who performs such functions as instructed by another person or organization; or 2. an individual who collects, holds, processes or uses personal information in connection with the individual’s personal, family or household affairs;
+- **A. “Act” or “DPA”** refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
-There is control if the natural or juridical person or any other body decides on what information is collected, or the purpose or extent of its processing; - **J. “Personal information processor” or “PIP”** refers to any natural or juridical person or any other body to whom a PIC may outsource or instruct the processing of personal data pertaining to a data subject; - **K. “Privacy Impact Assessment”** is a process undertaken and used to evaluate and manage impacts on privacy of a particular program, project, process, measure, system or technology product of a PIC or PIP. It takes into account the nature of the personal data to be protected, the personal data flow, the risks to privacy and security posed by the processing, current data privacy best practices, the cost of security implementation, and, where applicable, the size of the organization, its resources, and the complexity of its operations; - **L. “Privacy Management Program”** refers to a process intended to embed privacy and data protection in the strategic framework and daily operations of a personal information controller or personal information processor, maintained through organizational commitment and oversight of coordinated projects and activities. - **M. “Privileged Information”** refers to any and all forms of data which, under the Rules of Court and other pertinent laws, constitute privileged communication; - **N. “Processing”** refers to any operation or any set of operations performed upon personal data including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data; - **O. “Risk”** refers to the potential of an incident to result in harm or danger to a data subject or organization; - **P. “Risk Rating”** refers to a function of the probability and impact of an event; - **Q. “Sensitive Personal Information”** refers to personal information: 1. about an individual’s race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; 2. about an individual’s health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; 3. issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and 4. specifically established by an executive order or an act of Congress to be kept classified; - **R. “Threat”** refers to a potential cause of an unwanted incident, which may result in harm or danger to a data subject, system, or organization; - **S. “Vulnerability”** refers to a weakness of a data processing system that makes it susceptible to threats and other attacks.
+- **B. “Commission” or “NPC”** refers to the National Privacy Commission;
+
+- **C. “Compliance Officer for Privacy” or “COP”** refers to an individual that performs some of the functions of a DPO, as provided in NPC Advisory No. 17-01;
+
+- **D. “Control Framework”** refers to a comprehensive enumeration of measures a PIC or PIP has established for the protection of personal data against natural dangers such as accidental loss or destruction, and human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration and contamination;
+
+- **E. “Data Protection Officer” or “DPO”** refers to an individual designated by the head of agency or organization to be accountable for its compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the Commission: Provided, that, except where allowed otherwise by law or the Commission, the individual must be an organic employee of the government agency or private entity: Provided further, that a government agency or private entity may have more than one DPO;
+
+- **F. “IRR”** refers to the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the DPA]];
+
+- **G. “Personal data”** refers to all types of personal information, including privileged information;
+
+- **H. “Personal information”** refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual;
+
+- **I. “Personal information controller” or “PIC”** refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf. The term excludes:
+  1. a person or organization who performs such functions as instructed by another person or organization; or
+  2. an individual who collects, holds, processes or uses personal information in connection with the individual’s personal, family or household affairs.
+
+  There is control if the natural or juridical person or any other body decides on what information is collected, or the purpose or extent of its processing;
+
+- **J. “Personal information processor” or “PIP”** refers to any natural or juridical person or any other body to whom a PIC may outsource or instruct the processing of personal data pertaining to a data subject;
+
+- **K. “Privacy Impact Assessment”** is a process undertaken and used to evaluate and manage impacts on privacy of a particular program, project, process, measure, system or technology product of a PIC or PIP. It takes into account the nature of the personal data to be protected, the personal data flow, the risks to privacy and security posed by the processing, current data privacy best practices, the cost of security implementation, and, where applicable, the size of the organization, its resources, and the complexity of its operations;
+
+- **L. “Privacy Management Program”** refers to a process intended to embed privacy and data protection in the strategic framework and daily operations of a personal information controller or personal information processor, maintained through organizational commitment and oversight of coordinated projects and activities;
+
+- **M. “Privileged Information”** refers to any and all forms of data which, under the Rules of Court and other pertinent laws, constitute privileged communication;
+
+- **N. “Processing”** refers to any operation or any set of operations performed upon personal data including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data;
+
+- **O. “Risk”** refers to the potential of an incident to result in harm or danger to a data subject or organization;
+
+- **P. “Risk Rating”** refers to a function of the probability and impact of an event;
+
+- **Q. “Sensitive Personal Information”** refers to personal information:
+  1. about an individual’s race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations;
+  2. about an individual’s health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings;
+  3. issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and
+  4. specifically established by an executive order or an act of Congress to be kept classified;
+
+- **R. “Threat”** refers to a potential cause of an unwanted incident, which may result in harm or danger to a data subject, system, or organization;
+
+- **S. “Vulnerability”** refers to a weakness of a data processing system that makes it susceptible to threats and other attacks.
 
 ### General Principles
 
@@ -134,8 +177,6 @@ Approved:
 [Sgd] RAYMUND E. LIBORO Privacy Commissioner
 
 [Sgd] IVY D. PATDU | [Sgd] DAMIAN DOMINGO O. MAPA Deputy Privacy Commissioner | Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: Acceptable methodologies include ISO/IEC 29134, which provides standards for the conduct of the PIA.
 [^2]: This takes into consideration the Art. 29 Data Protection Working Party "Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is 'likely to result in a high risk' for the purposes of Regulation 2016/679" (4 April 2017) and the provisions of the DPA.

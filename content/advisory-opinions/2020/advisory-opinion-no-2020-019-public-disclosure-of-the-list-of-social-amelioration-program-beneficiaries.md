@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2020-019 — Public Disclosure of the List of Social Amelioration Program Beneficiaries"
-description: "'''''''''''''''''''''''' ''''''''''''''''''''''' ''''' '''''''''''''''''''''''' '''''''''''' '''''''''''''''' ''' '''''''' ''''''''' ''''' ''''''''''''''''"
+title: "NPC Advisory Opinion No. 2020-019 — Public Disclosure of the List of Social Amelioration Program Beneficiaries"
+description: "Guidance on the lawfulness of public disclosure of beneficiary lists in the Social Amelioration Program under the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,24 +17,13 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                         ADVISORY OPINION NO. 2020-0191
+
 28 April 2020
 
-'''''''''''''''''''''''' ''''''''''''''''''''''' ''''' ''''''''''''''''''''''''
-''''''''''''
-'''''''''''''''' ''' '''''''' ''''''''' ''''' ''''''''''''''''
-
-'''''''''''''''' '''' '''''''''''''''''''''''''''''''''''''''''''''
-'''''''''''''''''' '''' '''''''''''''
-''''''''''''''' ''' '''''''' ''''''''' ''''' ''''''''''''''''
-''''''''''''''''''''''''''''''''
-
-
-               Re:       PUBLIC DISCLOSURE OF THE LIST OF SOCIAL AMELIORATION
+   Re:       PUBLIC DISCLOSURE OF THE LIST OF SOCIAL AMELIORATION
                          PROGRAM BENEFICIARIES
 
-Dear ''''''''''''''''''''''''' '''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your letter requesting for an advisory opinion from the National Privacy
 Commission (NPC) on whether the public disclosure of the list of beneficiaries of the Social
@@ -50,8 +39,6 @@ Pursuant thereto, the DSWD entered into a Memorandum of Agreement and Data Shari
 Agreement (DSA) with local government units (LGUs) to lay down the terms and conditions in
 the conduct of the physical profiling of and payout to the target beneficiaries.
 
-1 Tags: DSWD, DILG, Social Amelioration Program, Emergency Subsidy Program, COVID-19, lawful processing, law or
-regulation, transparency, public funds, right to information, matters of public concern
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012],
@@ -64,8 +51,9 @@ Policy And For Other Purposes [Bayanihan to Heal As One Act], Republic Act No. 1
 As instructed by the Secretary of the Department of the Interior and Local Government (DILG),
 some LGUs publicly posted physically or electronically, the list of said beneficiaries.
 
-Lawful processing of personal and sensitive personal
-information
+### Discussion
+
+#### Lawful processing of personal and sensitive personal information
 
 The DPA applies to the processing of all types of personal information and to any natural and
 juridical person involved in personal information processing.4 Under the law, the names of the
@@ -81,7 +69,7 @@ While we understand that there is no formal issuance as of yet from the DILG, th
 disclosure of the list may find basis for processing under Section 12 of the DPA, specifically
 paragraphs (c) and (e), to wit:
 
-     •    The processing is necessary for compliance with a legal obligation to which the personal
+   •    The processing is necessary for compliance with a legal obligation to which the personal
           information controller is subject;9 and
      •    The processing is necessary in order to respond to national emergency, to comply with
           the requirements of public order and safety, or to fulfill functions of public authority
@@ -91,7 +79,6 @@ paragraphs (c) and (e), to wit:
 Based on the Memorandum Circular No. 09, series of 2020, or the “Omnibus Guidelines in the
 Implementation of the Emergency Subsidy Program of the DSWD,” LGUs shall perform the
 following:
-
 
 4 Data Privacy Act of 2012, § 4.
 5 Id. § 3 (g) - Personal information pertains to any information from which the identity of an individual is apparent or can be
@@ -115,7 +102,7 @@ blocking, erasure or destruction of data.
 9 Id. § 12 (c).
 10 Id. § 12 (e).
 
-    1. Facilitate the execution of the required MOA and abide by their roles and responsibilities;
+   1. Facilitate the execution of the required MOA and abide by their roles and responsibilities;
     2. Provide the list of target beneficiaries/clients;
     3. Facilitate distribution, accomplishment and encoding of Social Amelioration Card (SAC)
        forms;
@@ -148,12 +135,9 @@ country is currently under the state of national emergency arising from the COVI
 where such public disclosure of personal information may be necessary to fulfill the respective
 LGUs’ mandate.
 
-Right to information on matters of public concern;
-COVID-19 pandemic response; utilization of public
-funds
+#### Right to information on matters of public concern; COVID-19 pandemic response; utilization of public funds
 
 We emphasize that the DPA has the twin task of protecting the fundamental human right of
-
 
 11 Department of Social Welfare and Development, Memorandum Circular No. 09, series of 2020: Omnibus Guidelines in the
 
@@ -180,7 +164,7 @@ a policy of full public disclosure of all its transactions involving public inte
 
 It is worth mentioning that in the case of Akbayan v. Aquino,18 the Supreme Court held that:
 
-          “In determining whether or not a particular information is of public concern, there is no
+   “In determining whether or not a particular information is of public concern, there is no
           rigid test which can be applied. ‘Public concern’ like ‘public interest’ is a term that eludes
           exact definition. Both terms embrace a broad spectrum of subjects which the public may
           want to know, either because these directly affect their lives, or simply because such
@@ -193,7 +177,7 @@ the utilization of public funds for the implementation of the Emergency Subsidy 
 accordance with Bayanihan Act is a matter of public concern, especially for the target beneficiaries
 who may suffer the greatest impact of the enhanced community quarantine (ECQ).
 
-General data privacy principles; proportionality
+#### General data privacy principles; proportionality
 
 Note, however, that said public disclosure of personal information should strictly adhere to the
 principle of proportionality. This principle requires that “the processing of information shall be
@@ -225,7 +209,7 @@ excessive and no longer be considered as necessary for the purpose of the disclo
 constitute an unwarranted invasion of privacy. Sensitive personal information includes but is not
 limited to the following:
 
-    •    Marital status
+   •    Marital status
     •    Date of birth/age
     •    Religion
     •    Government-issued ID numbers, i.e. GSIS, Passport, PhilHealth, PRC, SSS, UMID, or
@@ -258,8 +242,6 @@ inquiry and the appreciation of the facts.
 For your reference.
 
 Very truly yours,
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman

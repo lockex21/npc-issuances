@@ -1,42 +1,24 @@
 ---
-title: "Redacted-Advisory-Opinion-No.-2020-029"
-description: "''''''''''''' ''''' ''''''''''''''''''' '''''''''''' '''''''''' ''''''''''''''' '' '''' ''''''''''' ''''' ''''''' '''''''''''''''' ''''''''' '''''' '' ''''''''''''''''''' ''''''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2020-029 — Request for Personal Information of Complainants Under the Katarungang Pambarangay Process for Thesis Purposes"
+description: "Request for personal information of complainants in Katarungang Pambarangay for thesis research purposes."
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
 draft: false
 ---
-
 ## Source
 - Reference: Advisory Opinion No. 2020-029
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-029.pdf
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                       ADVISORY OPINION NO. 2020-0291
 
-30 July 2020
-
-''''''''''''' ''''' '''''''''''''''''''
-'''''''''''' ''''''''''
-''''''''''''''' '' '''' ''''''''''' ''''' ''''''' ''''''''''''''''
-''''''''' '''''' '' '''''''''''''''''''
-''''''''''''''''''''''''''''''''''''
-
-''''''''''''''''''''''' '''' '''''''''''''''''''''''''
-''''' ''''''' '''''''''''''''' ''''''''''''' ''''''''' '''''''''''''
-'''''''''''' ''''''' '''''''''
-''''''''''''''''''''''''''''''''''
-
-
-
-               Re:       REQUEST   FOR   PERSONAL      INFORMATION  OF
+Re:       REQUEST   FOR   PERSONAL      INFORMATION  OF
                          COMPLAINANTS    UNDER     THE     KATARUNGANG
                          PAMBARANGAY PROCESS FOR THESIS PURPOSES
 
-Dear '''''''''' '''''''''''''''''' '''''''''' ''''''''' ''''''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your letters requesting for an advisory opinion from the National
 Privacy Commission (NPC) on whether a particular barangay could provide certain
@@ -47,12 +29,11 @@ Act of 20123 (DPA).
 We understand that an individual who is currently taking her master’s degree is requesting
 for the following information:
 
-      1. Names of all the complainants in 2019;
+### Discussion
+
+   1. Names of all the complainants in 2019;
       2. Complainants’ addresses;
       3. Date of filing the complaint; and
-
-
-1 Tags: DILG, Katarungang Pambarangay, barangay, research, exemption, special cases, lawful processing, disclosure, thesis,
 
 dissertation, general data privacy principles, transparency, legitimate purpose, proportionality, data subject’s rights, limitation
 on rights, ethical standards.
@@ -63,7 +44,7 @@ Book III, Title I, Chapter VII.
 
 Republic Act No. 10173 (2012).
 
-     4. Date when the decision was made.
+   4. Date when the decision was made.
 
 We understand further that the barangay officials are hesitant to provide the information for
 fear of committing a violation of applicable laws.
@@ -108,7 +89,6 @@ DPA to the conduct of academic research vis-à-vis access to documents and recor
 custody of government, “research is an activity that aims to develop or contribute to
 knowledge that can be generalized (including theories, principles, relationships), or any
 
-
 4 Id. § 4.
 5 Data Privacy Act of 2012, § 4 (d).
 6 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (c) (2016).
@@ -122,7 +102,7 @@ This includes data gathering for thesis or dissertations.
 
 We reiterate the discussion on the aforesaid Advisory Opinion, to wit:
 
-       “…apart from the laws and regulations on privacy, any code of ethics or any rules and
+   “…apart from the laws and regulations on privacy, any code of ethics or any rules and
        regulations on research issued and implemented by institutions involved in research must
        be complied with by the researchers. After all, personal information used for research
        remains to be subject to a range of policies, including internal ones maintained by
@@ -130,7 +110,7 @@ We reiterate the discussion on the aforesaid Advisory Opinion, to wit:
        authority.
                                          xxx     xxx     xxx
 
-       …researchers should always keep in mind that though the DPA recognizes that the
+   …researchers should always keep in mind that though the DPA recognizes that the
        processing of personal data is critical to quality research, the rights and freedoms of
        individuals is likewise of utmost importance. This view is consistent with Section 38 of the
        DPA, which calls for an interpretation of the law that is mindful of the rights and interests
@@ -199,13 +179,8 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
-
-
-
 
 16 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §18 (c) (2016).
 17 Ibid.

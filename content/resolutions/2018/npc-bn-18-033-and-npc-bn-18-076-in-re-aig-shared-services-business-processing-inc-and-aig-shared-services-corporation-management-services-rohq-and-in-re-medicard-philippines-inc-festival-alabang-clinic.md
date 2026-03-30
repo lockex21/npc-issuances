@@ -1,12 +1,25 @@
 ---
-title: "NPC BN 18-033 and NPC BN 18-076: In Re: AIG Shared Services-Business Processing Inc. and AIG Shared Services Corporation – Management Services (ROHQ), and In Re: Medicard Philippines, Inc. - Festival Alabang Clinic"
-description: "Personal Data Breach Notification from AIG Shared Services Corporation - Management Services"
+title: 'NPC BN 18-033 and NPC BN 18-076: In Re: AIG Shared Services-Business Processing
+  Inc. and AIG Shared Services Corporation – Management Services (ROHQ), and In Re:
+  Medicard Philippines, Inc. - Festival Alabang Clinic'
+description: Personal Data Breach Notification from AIG Shared Services Corporation
+  - Management Services
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2018
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-033"'
+- '"npc bn 18-033"'
+- '"In Re: AIG Shared Services-Business Processing Inc. and AIG Shared Services Corporation
+  – Management Services (ROHQ), and In Re: Medicard Philippines, Inc. - Festival Alabang
+  Clinic"'
+- '"in re: aig shared services-business processing inc. and aig shared services corporation
+  – management services (rohq), and in re: medicard philippines, inc. - festival alabang
+  clinic"'
+date: '2018-08-07'
 ---
 
 ## Source

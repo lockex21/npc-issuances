@@ -1,29 +1,38 @@
 ---
-title: "CID 17-K-004: CBI vs. XXX"
-description: "CID 17-K-004: CBI vs. XXX"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- CID 17-K-004
+- cid 17-k-004
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: CID 17-K-004
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'CID 17-K-004: CBI vs. XXX'
 ---
+
+
+
+
 
 ## Source
 - Reference: CID 17-K-004
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/CID-No.-17-K-004-CBI-vs.-XXX-Resolution-2020.12.17.pdf
-- Source page: http://privacy.gov.ph/resolutions/
-- Issue date: December 17, 2020
-- Published on NPC site: Fri, 19 May 2023 17:31:46 GMT
+- Sourcepage: http://privacy.gov.ph/resolutions/
+- Issuedate: December 17, 2020
+- Publishedon NPCsite: Fri, 19 May 2023 17:31:46 GMT
 - Pages: 3
 
 ## Source Tags
-- Substantial compliance, Burden of proof and burden of evidence, Compliance to the Data Privacy Act, Reasonable security measures
+- Substantialcompliance, Burdenofproofandburdenofevidence, Compliancetothe Data Privacy Act, Reasonablesecuritymeasures
 
 ## Resolution Text
 CBI ,
 
-Complain an t,
+Complainant,
 
 -versus -
 
@@ -31,9 +40,9 @@ XXX ,
 
 Respondents.
 
-CID No. 17 -K-004
+CID No. 17K-004
 
-For: Violation of the Data
+For: Violationofthe Data
 
 Privacy Act
 
@@ -41,89 +50,87 @@ x--------------------------------------------------x
 
 NAGA , D.P.C .:
 
-This refers to the Compliance Letter dated 02 December 2020,
+Thisreferstothe Compliance Letterdated 02 December 2020,
 
-with an attached XXX Cards Complaint Management Process
+withanattached XXX Cards Complaint Management Process
 
-submitted by the XXX in relation to the 21 September 2020 Order of
+submittedbythe XXXinrelationtothe 21 September 2020 Orderof
 
 this Commission .
 
-The Facts
-
-On 21 September 2020, the Commission issued a Resolution
+### Facts
+On 21 September 2020, the Commissionissueda Resolution
 
 disposing, thus:
 
-> WHEREFORE ,premises considered, this
-> Commission hereby DENIES Complainant CBI’s Urgent
-> Motion for Reconsideration. Furthermore, the case of CBI
-> vs. XXX is hereby considered CLOSED . Furthermore, XXX
-> is ORDERED to submit within thirty (30) days from
-> receipt of this Decision a complete report on the measures
-> it has undertaken or will undertake to address the issue of
-> delayed response to their customers’ request in relation to
-> their ri ghts as data subjects.
+> WHEREFORE ,premisesconsidered, this
+> Commissionhereby DENIES Complainant CBI’s Urgent
+> Motionfor Reconsideration. Furthermore, thecaseof CBI
+> vs. XXXisherebyconsidered CLOSED . Furthermore, XXX
+> is ORDEREDtosubmitwithinthirty (30) daysfrom
+> receiptofthis Decisionacompletereportonthemeasures
+> ithasundertakenorwillundertaketoaddresstheissueof
+> delayedresponsetotheircustomers’ requestinrelationto
+> theirrightsasdatasubjects.
 
-Respondent manifested that they received the
+Respondentmanifestedthattheyreceivedthe
 
-abovementioned Resolution on 04 November 2020. Thus, on 02
+abovementioned Resolutionon 04 November 2020. Thus, on 02
 
-December 2020, XXX submitted its Compliance with an attached CID No. 17 -K-004
+December 2020, XXXsubmittedits Compliancewithanattached CID No. 17K-004
 
 > Page 2of 3
 
-XXX Cards Complaint Management Process as Annex 1 of the
+XXX Cards Complaint Management Processas Annex 1ofthe
 
-Compliance. The Annex 1 provides t he step -by -step process in the
+Compliance. The Annex 1providesthestepbystepprocessinthe
 
-handling of complaints from their clients . The Respondent also
+handlingofcomplaintsfromtheirclients . The Respondentalso
 
-indicated therein turnaround time of seven (7) days for simple
+indicatedthereinturnaroundtimeofseven (7) daysforsimple
 
-complaints and forty -five (45) for complex complaints.
+complaintsandfortyfive (45) forcomplexcomplaints.
 
-Discussion
+### Discussion
+The Commissionfinds XXXsubmissiontobesubstantially
 
-The Commission finds XXX submission to be substantially
+compliantwiththe 21 September 2020 Orderofthis Commission.
 
-compliant with the 21 September 2020 Order of this Commission.
+The 21 September 2020 Orderwasbasedontheinactionof
 
-The 21 September 2020 Order was based on the inaction of
+the Respondenttotherequestforcorrectionofthe Complainant .
 
-the Respondent to the request for correction of the Complainant .
+Suchrequestshouldbeacteduponwithreasonableturnaround
 
-Such request should be acted upon with reasonable turnaround
+timeconsideringthattherequestisoneoftherightsprovidedinthe
 
-time considering that the request is one of the rights provided in the
+Data Privacy Act (DPA) toeverydatasubject 1. Further, this
 
-Data Privacy Act (DPA) to every data subject 1. Further, this
+obligationisinrelationto Section 28 (d) ofthe Implementing Rules
 
-obligation is in relation to Section 28 (d) of the Implementing Rules
+and Regulationsofthe DPA.
 
-and Regulations of the DPA.
+Whilethe Commissionopinesthatthe Complaint
 
-While the Commission opines that the Complaint
+Management Processofthe Respondenthereincanbewrittenina
 
-Management Process of the Respondent herein can be written in a
+morecomprehensiveanddetailedmanner, wefinditto
 
-more co mprehensive and detailed manner, we find it to
+substantiallycomplywiththerequirementsoftheabovementioned
 
-substantially comply with the requirements of the abovementioned
+provisionsofthe DPA , its IRR , andwiththe Commission’s 21
 
-provisions of the DPA , its IRR , and with the Commission’s 21
+September 2020 Order. Asjurisprudenceprovides, thesubstantial
 
-September 2020 Order. As jurisprudence provides, the substantial
+complianceruleisdefinedas , “compliancewiththeessential
 
-compliance rule is defined as , “compliance with the essential
+requirements, whetherofacontractorofastatute. ”2
 
-requirements, whether of a contract or of a statute. ”2
+WHEREFORE, premisesconsidered, this Commissionhereby
 
-WHEREFORE, premises considered, this Commission hereby
+NOTESthesubmissionmadebythe XXXdated 02 December 2020
 
-NOTES the submission made by the XXX dated 02 December 2020
-
-in compliance with the Commission Order dated 21 September
+incompliancewiththe Commission Orderdated 21 September
 
 2020.
 
@@ -133,11 +140,7 @@ Pasay City, Philippines ;
 
 17 December 2020.
 
-> 1Section 16 (b) (8), DPA
-> 2Alvarez v. People of the Philippines, G.R. No. 192591 , 30 July 2012 CID No. 17 -K-004
 > Page 3of 3
-
-(Sgd.)
 
 JOHN HENRY D. NAGA
 
@@ -145,13 +148,9 @@ Deputy Privacy Commissioner
 
 WE CONCUR:
 
-(Sgd.)
-
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
-
-(Sgd.)
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -172,3 +171,6 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+
+[^1]: Section 16 (b) (8), DPA
+[^2]: Alvarezv. Peopleofthe Philippines, G.R. No. 192591 , 30 July 2012 CID No. 17K-004

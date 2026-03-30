@@ -1,13 +1,22 @@
 ---
-title: "CID BN 17-036 previously CID BN 18-0174: In Re: 2016 Uber Data Breach"
-description: "CID BN 17-036 previously CID BN 18-0174: In Re: 2016 Uber Data Breach"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2019"
-  - "npc-case"
+aliases:
+- CID BN 17-036 previously CID BN 18-0174
+- cid bn 17-036 previously cid bn 18-0174
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: CID BN 17-036 previously CID BN 18-0174
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2019
+title: 'CID BN 17-036 previously CID BN 18-0174: In Re: 2016 Uber Data Breach'
 ---
+
+
+
+
 
 ## Source
 - Reference: CID BN 17-036 previously CID BN 18-0174
@@ -21,10 +30,8 @@ draft: false
 - Notification of Data Subjects
 
 ## Resolution Text
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex , Pasay City
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
-CID BN No. 17 -036
+CID BN No. 17036
 
 IN RE: 2016 UBER DATA BREACH
 
@@ -32,11 +39,11 @@ For consideration of this Commission is the data breach notification
 
 dated 27 November 2017 of Uber Technologies, Inc.
 
-Section 18 of Circular No. 16 -03 provides when notification of data
+Section 18 of Circular No. 1603 provides when notification of data
 
 subjects should be done, thus:
 
-“The data subjects shall be notified within seventy -two (72)
+“The data subjects shall be notified within seventytwo (72)
 
 hours upon knowledge of or reasonable belief by the
 
@@ -46,7 +53,7 @@ processor that a personal data breach has occurred . The
 
 notification may be made on the basis of available
 
-information within the 72 -hour period if the personal data
+information within the 72hour period if the personal data
 
 breach is likely to give rise to a real risk to the rights and
 
@@ -68,23 +75,21 @@ claimed he had accessed Uber user information. 2 The company’s
 
 security team determined the unauthorized actor had obtained access
 
-to a private Uber developer page on GitHub, a third -party software
+to a private Uber developer page on GitHub, a thirdparty software
 
 development platform. 3 Using credentials located there, the
 
 unauthorized actor was able to access and download certain archived
 
-driver and rider data stored in Amazon Web Services, a third -party
+driver and rider data stored in Amazon Web Services, a thirdparty
 
-> 1National Privacy Commission Circular No. 16 -03, §18(a). Emphasis supplied.
+> 1National Privacy Commission Circular No. 1603, §18(a). Emphasis supplied.
 > 2Records, p. 87.
 > 3Ibid. Resolution
-> CID BN No. 17 -036
+> CID BN No. 17036
 > Page 2of 4
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
-cloud -based storage environment used by Uber.  4 There was no breach
+cloudbased storage environment used by Uber.  4 There was no breach
 
 of the Uber corporate systems or infrastructure. 5
 
@@ -159,10 +164,8 @@ Thereafter, a teleconference call was held so that this Commission may
 > 14 Id. , at p.66.
 > 15 Ibid.
 > 16 Ibi d. Resolution
-> CID BN No. 17 -036
+> CID BN No. 17036
 > Page 3of 4
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 clarify its queries with Uber. 17  During the call, Uber admitted that
 
@@ -180,9 +183,9 @@ addition , Uber also put up notices in the Help section of the Uber app
 
 and on the main Uber website. 20  A dedicated Uber address [ ] was also
 
-indicated. 21  Uber reported that only one in -app inquiry about the
+indicated. 21  Uber reported that only one inapp inquiry about the
 
-incident, and two e -mails to the dedicated address were received ,22  but
+incident, and two emails to the dedicated address were received ,22  but
 
 the se were not related to the incident. 23
 
@@ -228,12 +231,7 @@ City of Pasay, Philippines
 > 22 Ibi d.
 > 23 Ibi d.
 
-CID BN No. 17 -036
-
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
-Sgd.
+CID BN No. 17036
 
 LEANDRO ANGELO Y. AGUIRRE
 

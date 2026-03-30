@@ -1,10 +1,13 @@
 ---
-title: "Advisory-Opinion-No.-2023-008"
-description: "Second, Globe’s blocking process does not involve the reading or storing of the contents of text messages. There is no human intervention involved, save for the setting of rules and the inputting of keywords and links to be blocked. The blocking is done..."
+title: NPC Advisory Opinion No. 2023-008 — Disclosure of Personal Data Through Court-ordered
+  Data Bank/registry Subpoena and Commission on Human Rights Investigation
+description: Second, Globe’s blocking process does not involve the reading or storing
+  of the contents of text messages. There is no human intervention involved, save
+  for the setting of rules an
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+- issuance
+- type/advisory-opinion
+- year/2023
 draft: false
 ---
 
@@ -14,11 +17,18 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
+
+Re: DISCLOSURE OF PERSONAL DATA THROUGH COURT-ORDERED DATA BANK/REGISTRY SUBPOENA AND COMMISSION ON HUMAN RIGHTS INVESTIGATION
+
+Dear [Redacted],
+
 Second, Globe’s blocking process does not involve the reading or storing of the contents
 of text messages. There is no human intervention involved, save for the setting of rules
 and the inputting of keywords and links to be blocked. The blocking is done through
 automated means in compliance with Global System for Mobile Communications
 Association (GSMA) Standards and Guidelines.
+
+### Discussion
 
 Lastly, the only way that Globe sees the contents of spam and scam text messages are
 through the screenshots submitted or reported by its subscribers and partner-
@@ -76,9 +86,6 @@ adjudicate the rights and obligations of the parties involved.
 Please be guided accordingly.
 
 Very truly yours,
-
-
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV

@@ -1,13 +1,22 @@
 ---
-title: "NPC 20-124: In Re: E-Science Corporation"
-description: "NPC 20-124: In Re: E-Science Corporation"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC 20-124
+- npc 20-124
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC 20-124
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC 20-124: In Re: E-Science Corporation'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC 20-124
@@ -24,7 +33,7 @@ draft: false
 - Mandatory Breach Notification
 
 ## Resolution Text
-IN RE: E-SCIENCE CORPORATION NPC BN 20 -124
+IN RE: E-SCIENCE CORPORATION NPC BN 20124
 
 x------------------------------------------------x
 
@@ -32,14 +41,13 @@ AGUIRRE , D.P.C. :
 
 For the Commission’s resolution is the Request for Exemp tion to
 
-Notify the Data Subjects from E-Science Corporation (“E -Science”)
+Notify the Data Subjects from E-Science Corporation (“EScience”)
 
 dated 28 August 2020 involving a data breach incident affecting
 
 approximately four thousand (4,000) test records of data subjects .1
 
-The Facts
-
+### Facts
 On 6 August 2020, this Commission issued a Resolution 2 with the
 
 following disposition, to wit :
@@ -50,7 +58,7 @@ ORDERED to 1) SUBMIT with dispatch a Full Report of the
 
 Personal Data Breach as required under Section 17(C) of NPC
 
-Circular No. 16 -03; and 2) SHOW CAUSE in writing why it should
+Circular No. 1603; and 2) SHOW CAUSE in writing why it should
 
 not be liable for failure to submit a Full Report within the required
 
@@ -80,21 +88,16 @@ required Notification to Data Subjects, E-Science submitted a
 
 Request for Exemption to Notify the Data Subjects. 3 Citing Section
 
-11 of NPC Circular 16 -03, it contended that after fu ll investigation,
+11 of NPC Circular 1603, it contended that after fu ll investigation,
 
-it has confirmed that the incident was only limited to names, e -mail
+it has confirmed that the incident was only limited to names, email
 
-> 1Exemption Request to Notify the Data Subjects for NPC BN 20 -124 submitted by E-
+> 1Exemption Request to Notify the Data Subjects for NPC BN 20124 submitted by E-
 > Science Corporation dated 18 August 2020.
-> 2Resolution dated 6 August 2020, In re: E -Science Corporation , NPC BN 20 -124.
+> 2Resolution dated 6 August 2020, In re: EScience Corporation , NPC BN 20124.
 > 3Supra note 1.
 
-NPC BN 20 -124
-
-In re: E -Science Corporation
-
-> 5th Floor ,Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
+In re: EScience Corporation
 
 add resses and testing logs. It claimed that no sensitive, personal or
 
@@ -110,13 +113,12 @@ ensure that the risk of harm or negative consequence to the data
 
 subjects will not materialize. 5
 
-Discussion
-
-This Commission denies E -Science’s Request for Exemption to
+### Discussion
+This Commission denies EScience’s Request for Exemption to
 
 Notify the Data S ubjects.
 
-Section 11 of NPC Circular 16 -03 provides that:
+Section 11 of NPC Circular 1603 provides that:
 
 Notification shall be required upon knowledge of or when there is
 
@@ -167,11 +169,9 @@ subject breach incident.
 > 4Ibid.
 > 5Ibid.
 > 6Emphasis supplied.
-> 7Supra note 1. NPC BN 20 -124
-> In re: E -Science Corporation
+> 7Supra note 1. NPC BN 20124
+> In re: EScience Corporation
 > Page 3of 6
-> 5th Floor ,Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 Th is Commission takes this opportunity to stress that information
 
@@ -191,9 +191,9 @@ which may be made the basis of decisions concerning the data
 
 subject , including the grant of rights or benefits.
 
-Contrary to Respondent’s claim, names and e -mail addresses are
+Contrary to Respondent’s claim, names and email addresses are
 
-information that may be used to enable identity fraud. An e -mail
+information that may be used to enable identity fraud. An email
 
 address is considered personal information and an unauthorized
 
@@ -207,11 +207,11 @@ important accounts resulting to ide ntity theft and financial loss. 8
 
 Republic Act No. 10175, otherwise known as the Cybercrime
 
-Prevention Act of 2012, provides that c omputer -related identity theft
+Prevention Act of 2012, provides that c omputerrelated identity theft
 
 is a cybercrime offense . Secti on 4(b)(3) thereof states that:
 
-Computer -related Identity Theft. – The intentional acquisition,
+Computerrelated Identity Theft. – The intentional acquisition,
 
 use, misuse, transfer, possession, alteration or deletion of
 
@@ -239,20 +239,18 @@ and similar data. The law punishes those who acquire or use such
 
 identifying information without right, implicitly to cause damage.
 
-> 8What is Phishing? Accessed from https://www.phishing.org/what -is -phishing, last
+> 8What is Phishing? Accessed from https://www.phishing.org/whatisphishing, last
 > September 11 , 2020.
 > 9Emphasis supplied.
-> 10 GR No. 203335, February 11, 2014. NPC BN 20 -124
-> In re: E -Science Corporation
+> 10 GR No. 203335, February 11, 2014. NPC BN 20124
+> In re: EScience Corporation
 > Page 4of 6
-> 5th Floor ,Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 Theft of identity information must be intend ed for an illegitimate
 
 purpose. 11
 
-In this case, since names, e -mail addresses and testing logs were
+In this case, since names, email addresses and testing logs were
 
 confirmed to be involved, identity theft could therefore be
 
@@ -270,7 +268,7 @@ disclosed. In this case, the names and email addresses of its data
 
 subjects were not just disclosed accidentally but taken intentionally.
 
-In both its Initial Report 12 and Full -Breach Report, 13 E-Science
+In both its Initial Report 12 and FullBreach Report, 13 E-Science
 
 reported that a hacker was able to a ccess one of its online databases
 
@@ -278,7 +276,7 @@ and a ransom ware was implanted therein. It recognized that one of
 
 the likely consequences of the incident is that the hacker may
 
-contact the data subjects directly and send them malicious e -mails.
+contact the data subjects directly and send them malicious emails.
 
 Such reported circumstances surrounding the security inciden t
 
@@ -312,7 +310,7 @@ In view of the foregoing and having met all the conditions for
 
 mandatory breach notification under Section 11 of NPC Circular 16 -
 
-03, E -Science should have promptly notified the affected d ata
+03, EScience should have promptly notified the affected d ata
 
 subjects the moment it has confirmed that the names, e-mail
 
@@ -322,11 +320,9 @@ addresses and testing logs of the affected data subjects were indeed
 > 12 Initial Breach Report dated 2 July 2020.
 > 13 Full Breach Report dated 18 August 2020.
 > 14 Ibid .
-> 15 See, Initial Breach Report dated 2 July 2020 and Full Breach Report dated 18 August 2020. NPC BN 20 -124
-> In re: E -Science Corporation
+> 15 See, Initial Breach Report dated 2 July 2020 and Full Breach Report dated 18 August 2020. NPC BN 20124
+> In re: EScience Corporation
 > Page 5of 6
-> 5th Floor ,Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 involved in the subject breach incident. Its contention that no
 
@@ -342,9 +338,9 @@ e-mail addresses and testing logs of the data subjects were involved
 
 in the breach incident, and the fact that the same was caused by a
 
-hacker, are sufficient to require E -Science to notify th e affected data
+hacker, are sufficient to require EScience to notify th e affected data
 
-subjects. Further, E -Science cannot renege on its obligation to no tify
+subjects. Further, EScience cannot renege on its obligation to no tify
 
 the data subjects by simply stating that no sensitive personal
 
@@ -354,7 +350,7 @@ at the onset , recognized that there was a need for such notification
 
 when it reported the likelihood that the hacker may directly contact
 
-and provide malicious e -mails to the affected data subjects. This
+and provide malicious emails to the affected data subjects. This
 
 recognition of the risks posed to its data subjects should have
 
@@ -370,7 +366,7 @@ investigation in order to prevent sending the notification to
 
 unaffected data subjects. Thus, c onsidering that it has already
 
-completed its full investigation on the incident, E -Science should
+completed its full investigation on the incident, EScience should
 
 now be prepared to proceed with the required notification of the
 
@@ -392,26 +388,17 @@ Pasay City, Philippines
 
 10 September 2020.
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
-WE CONCUR: NPC BN 20 -124
+WE CONCUR: NPC BN 20124
 
-In re: E -Science Corporation
-
-> 5th Floor ,Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
-
-Sgd.
+In re: EScience Corporation
 
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
-
-Sgd.
 
 JOHN HENRY D U NAGA
 

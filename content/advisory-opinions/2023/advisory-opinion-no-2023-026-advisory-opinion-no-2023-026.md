@@ -1,34 +1,31 @@
 ---
-title: "Advisory Opinion No. 2023-026"
-description: "We respond to your request for an Advisory Opinion on CIBI Information, Inc.’s (CIBI) initiative to establish an Employee Fraud Database to prevent and detect fraud that may be perpetuated against employers."
+title: "NPC Advisory Opinion No. 2023-026 — Creation of a Shared Employee Fraud Database"
+description: "Advisory Opinion on CIBI Information, Inc.’s initiative to establish an Employee Fraud Database to prevent and detect fraud against employers."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+  - issuance
+  - type/advisory-opinion
+  - year/2023
 draft: false
 ---
 
 ## Source
 - Reference: Advisory Opinion No. 2023-026
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/Advisory-Opinion-No.-2023-026.pdf
+- Issue date: 09/01/2023
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                             ADVISORY OPINION NO. 2023-0261
 
  29 December 2023
 
+   Re:    CREATION OF A SHARED EMPLOYEE FRAUD DATABASE
 
-
-
-          Re:    CREATION OF A SHARED EMPLOYEE FRAUD DATABASE
-
-Dear                     :
-
+Dear [Redacted],
 We respond to your request for an Advisory Opinion on CIBI Information, Inc.’s (CIBI)
 initiative to establish an Employee Fraud Database to prevent and detect fraud that may be
 perpetuated against employers.
+
+### Discussion
 
 In your letter, you mentioned that a common concern amongst various Information
 Technology Business Process Outsourcing (IT-BPO) Companies involve employees losing or
@@ -51,11 +48,7 @@ Your also mentioned that CIBI will establish the following safeguards and featur
 implementation of the Employee Fraud Database to comply with the Data Privacy Act of 2012
 (DPA):
 
-
-
-1 Tags: sensitive personal information; fraud prevention; legal claims.
-
-    a) Every data point submitted by the members will be owned by them, not by CIBI;
+   a) Every data point submitted by the members will be owned by them, not by CIBI;
     b) CIBI will only store information in the cloud with all the required security measures
        following the SOC 2 standards which covers implementation of encryption and data
        security;
@@ -76,7 +69,7 @@ implementation of the Employee Fraud Database to comply with the Data Privacy Ac
 
 In line with the above, you now ask the following:
 
-    i)  Can the participating IT-BPO Companies share the following datapoints to CIBI for
+   i)  Can the participating IT-BPO Companies share the following datapoints to CIBI for
         the purpose of establishing a database for fraud prevention and detection which may
         be perpetuated against employers: a) an individual’s full name; b) date of birth; c)
         whether or not the individual has committed fraud or is under investigation for the
@@ -107,23 +100,23 @@ thus, draw the basis for its processing under Section 13 of the DPA. In particul
 
 Republic Act No. 10173, § 3 (l) (2) (2012).
 
-                                                           xxx
+   xxx
 
-    (f) The processing concerns such personal information as is necessary for the protection of lawful
+   (f) The processing concerns such personal information as is necessary for the protection of lawful
     rights and interests of natural or legal persons in court proceedings, or the establishment, exercise
     or defense of legal claims, or when provided to government or public authority. 3 (Underscoring
     supplied)
 
 pursuant to Section 13(f):
 
-    In the case of NPC 17-018 dated 15 July 2019, this Commission held that “processing as necessary
+   In the case of NPC 17-018 dated 15 July 2019, this Commission held that “processing as necessary
     for the establishment of legal claims” does not require an existing court proceeding. To require a
     court proceeding for the application of Section 13(f) to this instance would not only be to
     disregard the distinction provided in the law but the clear letter of the law as well. After all, the
     very idea of “establishment ... of legal claims” presupposes that there is still no pending case
     since a case will only be filed once the required legal claims have already been established.”
 
-    This Commission in the same case went on further and held that: The DPA should not be seen
+   This Commission in the same case went on further and held that: The DPA should not be seen
     as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress
     to determine beforehand what specific data is “necessary” or may or may not be collected by
     lawyers for purposes of building a case, applying the qualifier “necessary” to the second instance
@@ -136,7 +129,7 @@ pursuant to Section 13(f):
     limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a
     means to hinder legitimate proceedings.
 
-    Based on the foregoing, the disclosure to be made by the Respondent of the information of the
+   Based on the foregoing, the disclosure to be made by the Respondent of the information of the
     recipient of Complainant’s personal information, for purposes of identification of the person
     liable for the alleged fraud, sans the latter’s consent, is necessary for the protection of the lawful
     rights and interests of the Complainant as contemplated by Section 13 (f) of the DPA. 4
@@ -144,12 +137,12 @@ pursuant to Section 13(f):
 Relevant also to the Project is the concept of blacklisting as discussed in Advisory Opinion
 No. 2017-063, viz.: 5
 
-    As a generic approach, blacklists are databases that consist of collected specific information
+   As a generic approach, blacklists are databases that consist of collected specific information
     relating to a specific group of persons, which may generally imply adverse and prejudicial effects
     for the individuals included thereon and which may discriminate against a group of people by
     barring them access to a specific service or harming their reputation.
 
-    That said, blacklisting constitutes processing of personal data and is therefore subject to the
+   That said, blacklisting constitutes processing of personal data and is therefore subject to the
     general data privacy principles set out in the Data Privacy Act of 2012 (DPA). Thus, the law
     mandates that a data subject must be properly informed of the nature, purpose and extent of the
     processing of his or her personal data.
@@ -203,9 +196,6 @@ employees’ personal data to CIBI. The participating IT-BPO Companies should in
 employees that the sharing is limited only for purposes of establishing a database to prevent
 fraud and that the data that will be disclosed shall only be limited to the data points necessary
 for the creation of the database.
-
-
-
 
 6 Data Privacy Act of 2012, § 11 (a).
 7 Id. § 11 (c).
@@ -262,7 +252,6 @@ the size of the organization, its resources and the complexity of its operations
 of the conduct of a PIA shall depend on, among others, how often the proposed database is
 being updated (i.e., the introduction of new features).
 
-
 11 Data Privacy Act of 2012, § 20 (c) (4).
 12 Id. § 20 (c).
 13 NPC Advisory No. 2017-03, Guidelines on Privacy Impact Assessment, 31 July 2017.
@@ -278,9 +267,7 @@ adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV

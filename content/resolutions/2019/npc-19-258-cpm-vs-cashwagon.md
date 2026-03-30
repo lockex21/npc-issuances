@@ -1,13 +1,23 @@
 ---
-title: "NPC 19-258: CPM vs. CASHWAGON"
-description: "NPC 19-258: CPM vs. CASHWAGON"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2019"
-  - "npc-case"
+aliases:
+- NPC 19-258
+- npc 19-258
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC 19-258
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2019
+title: 'NPC 19-258: CPM vs. CASHWAGON'
 ---
+
+
+
+
+
 
 ## Source
 - Reference: NPC 19-258
@@ -21,14 +31,12 @@ draft: false
 - Outright Dismissal
 
 ## Resolution Text
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 CPM ,
 
 Complainant,
 
--versus - NPC Case No. 19 -258
+-versus - NPC Case No. 19258
 
 For: Violation of Section 25 (b) of the
 
@@ -82,12 +90,10 @@ on he r part. Resolution
 
 > NPC Case No. 19 --258
 > Page 2of 3
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 At the outset, there is a need to clarify that the Commission’s Rules of
 
-Procedure 1 does not provide that a party’s non -appearance in the
+Procedure 1 does not provide that a party’s nonappearance in the
 
 Discovery proceedings is a ground for the dismissal of a case. The
 
@@ -137,8 +143,6 @@ SO ORDERED.
 
 Pasay City, 5 November 2019.
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
@@ -151,12 +155,9 @@ IVY D. PATDU RAYMUND ENRIQUEZ LIBORO
 
 Deputy Privacy Commissioner Privacy Commissioner
 
-> 1NPC Circular 16 -04
+> 1NPC Circular 1604
 
 NPC Case No. 19 --258
-
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 COPY FURNISHED:
 

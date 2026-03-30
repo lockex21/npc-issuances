@@ -1,13 +1,22 @@
 ---
-title: "NPC BN 20-141: In re: Home Credit Consumer Finance Philippines, Inc."
-description: "NPC BN 20-141: In re: Home Credit Consumer Finance Philippines, Inc."
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC BN 20-141
+- npc bn 20-141
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC BN 20-141
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC BN 20-141: In re: Home Credit Consumer Finance Philippines, Inc.'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC BN 20-141
@@ -25,8 +34,6 @@ IN RE: HOME CREDIT CONSUMER
 
 FINANCE PHILIPPINES, INC.
 
-NPC BN 20 -141
-
 x----------------------------------------------------x
 
 NAGA , D.P.C.:
@@ -43,8 +50,7 @@ the security and confidentiality breach resulting from unauthorized
 
 disclosure of personal information of one of their employee s.
 
-The Facts
-
+### Facts
 On 22 October 2020, this Commission issued a Resolution 2
 
 with the following dispositive portion :
@@ -78,7 +84,7 @@ On 27 November 2020, Home Cre dit submitted a Compliance
 Letter as proof of compliance to the Commission’s Resolution which
 
 > 1Home Credit Consumer Finance Philippines, Inc. Compliance Letter dated 27 November 2020
-> 2Resolution dated 22 October 2020 NPC BN: 20 -141
+> 2Resolution dated 22 October 2020 NPC BN: 20141
 > In re: HCCFP
 > Page 2of 5
 
@@ -90,8 +96,7 @@ copy of the notification letter, and updates on the notification to the
 
 affected data subjects.
 
-Discussion
-
+### Discussion
 The Commission duly notes Home Credit ’s submission of the
 
 copy of the SMS notification with the hyperlink that directs the
@@ -112,7 +117,7 @@ as Viber, WhatsApp, or Telegram has visual indicators once the
 
 message is received and read, such applicati ons are not practical as
 
-a large -scale Client Relationship Management (CRM) platform.
+a largescale Client Relationship Management (CRM) platform.
 
 Ho me Credit stated that their CRM platform is currently not capable
 
@@ -151,7 +156,7 @@ to 72, 697 data subjects, however, only 72, 593 were forwarded by
 their SMS service provider while the remaining 104 entries cannot
 
 > 3Home Credit Consumer Finance Philippines, Inc. Compliance Letter dated 27 November 2020, p. 2
-> 4Ibid. NPC BN: 20 -141
+> 4Ibid. NPC BN: 20141
 > In re: HCCFP
 > Page 3of 5
 
@@ -167,7 +172,7 @@ previously ordered by this Commission. Home Credit only
 
 submitted the system log showing that the notification was sent and
 
-resent. While Home Credit argues that NPC Circular 16 -03 only
+resent. While Home Credit argues that NPC Circular 1603 only
 
 imposes a general principle when the notification to data subjects is
 
@@ -181,11 +186,11 @@ that all affected data subjects are made aware of the breach. 5
 
 Moreover, this Commission stresses that a thorough reading
 
-of the NPC Circular 16 -03 would reveal that the responsibility of the
+of the NPC Circular 1603 would reveal that the responsibility of the
 
 PICs to notify the affected data subjects is not limited to sending the
 
-notification to the affected data subjects alone , but comes hand -in -
+notification to the affected data subjects alone , but comes handin -
 
 hand with the responsibility of using secure means of
 
@@ -225,7 +230,7 @@ that t he users’ number s indicated in Home Credit ’s system are all
 
 active .
 
-> 5Section 18(D) of NPC Circular 16 -03 NPC BN: 20 -141
+> 5Section 18(D) of NPC Circular 1603 NPC BN: 20141
 > In re: HCCFP
 > Page 4of 5
 
@@ -235,7 +240,7 @@ Philippines , Inc. will determine inactive users, they shall provide the
 
 notification to the affected data subjects who are inactive through
 
-alternative means as provided in NPC Circular 16 -03.
+alternative means as provided in NPC Circular 1603.
 
 SO ORDERED.
 
@@ -243,21 +248,15 @@ Pasay City, Philippines ;
 
 17 December 2020.
 
-Sgd.
-
 JOHN HENRY D. NAGA
 
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
-
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -273,7 +272,7 @@ Home Credit Consumer Finance Philippines , Inc.
 
 COMPLIANCE AND MONITORING DIVISION
 
-ENFORCEMENT DIVISION NPC BN: 20 -141
+ENFORCEMENT DIVISION NPC BN: 20141
 
 > In re: HCCFP
 > Page 5of 5

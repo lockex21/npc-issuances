@@ -1,11 +1,17 @@
 ---
 title: "NPC 20-026: JBA v. FNT and NNT"
 description: "Complaint against a real estate brokerage for unauthorized processing of personal information for property listings. Finds violation of Section 25 of the Data Privacy Act by one respondent; dismisses against the other."
+aliases:
+  - "NPC 20-026"
+  - "npc 20-026"
+  - "JBA v. FNT and NNT"
+  - "jba v. fnt and nnt"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2022"
+  - "year/2020"
   - "npc-case"
+date: "2022-09-22"
 draft: false
 ---
 
@@ -22,27 +28,23 @@ draft: false
 
 ## Decision Text
 
-JBA ,
+JBA,
 
 Complainant,
 
--versus -
+-versus-
 
-FNT and NNT ,
+FNT and NNT,
 
 Respondents.
 
 x----------------------------------------------------x
 
-AGUIRRE , D. P.C.;
+AGUIRRE, D.P.C.:
 
-Before this Commission is a complaint filed by JBA against FNT and
+Before this Commission is a complaint filed by JBA against FNT and NNT for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
 
-NNT for an alleged violation of Republic Act No. 10173 or the Data
-
-Privacy Act of 2012 (DPA).
-
-Facts
+### Facts
 
 In her Complaints-Assisted Form (CAF) dated 20 January 2020, JBA
 

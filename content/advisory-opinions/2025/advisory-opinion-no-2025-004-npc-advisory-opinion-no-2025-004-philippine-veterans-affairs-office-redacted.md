@@ -1,6 +1,6 @@
 ---
-title: "NPC Advisory Opinion No. 2025 - 004 Philippine Veterans Affairs Office_Redacted"
-description: "Re: DATA SHARING PROTOCOLS BETWEEN GOVERNMENT AGENCIES TO STREAMLINE IDENTITY VERIFICATION"
+title: "NPC Advisory Opinion No. 2025-004 — Data Sharing Protocols Between Government Agencies for Identity Verification"
+description: "On the requirements for data sharing between the Philippine Veterans Affairs Office and Philippine National Police to verify identity and documentary requirements of pensioners."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -14,23 +14,19 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                            ADVISORY OPINION NO. 2025-0041
 
  23 June 2025
 
-
-
-
-          Re:    DATA SHARING PROTOCOLS BETWEEN GOVERNMENT
+   Re:    DATA SHARING PROTOCOLS BETWEEN GOVERNMENT
                  AGENCIES TO STREAMLINE IDENTITY VERIFICATION
 
-Dear                                 :
-
+Dear [Redacted],
 This pertains to your request for guidance on the requirements for data sharing between the
 Philippine Veterans Affairs Office (PVAO) and the Philippine National Police (PNP) under
 the Data Privacy Act of 2012 (DPA),2 its Implementing Rules and Regulations (IRR), and other
 related issuances.
+
+### Discussion
 
 You inform that when the PNP was established in 1990, members of the Philippine
 Constabulary (PC) were given the option to join either the PNP or the Armed Forces of the
@@ -50,8 +46,6 @@ identity and documentary requirements of these future PVAO pensioners from the P
 there are no mechanisms in the processing of data between PVAO and the PNP; hence, your
 present request.
 
-1 Tags: data sharing; criteria for lawful processing; mandate; general data privacy principles; security measures.
-2 Republic Act No. 10173.
 3 An Act Standardizing and Upgrading the Benefits for Military Veterans and Their Dependents.
 
 Data Sharing Agreements.
@@ -83,7 +77,7 @@ Section 13 (for sensitive personal information and privileged information) of th
 present case, the processing of personal data may find basis under Section 12 (c) or Section 13
 (b), to wit:
 
-               Sec. 12. Criteria for Lawful Processing of Personal Information – The processing
+   Sec. 12. Criteria for Lawful Processing of Personal Information – The processing
                of personal information shall be permitted only if not otherwise prohibited
                by law, and when at least one of the following conditions exists:
                                                        xxx
@@ -91,17 +85,14 @@ present case, the processing of personal data may find basis under Section 12 (c
                which the personal information controller is subject;
                                                        xxx
 
-               Section 13. Sensitive Personal Information and Privileged Information – The
+   Section 13. Sensitive Personal Information and Privileged Information – The
                processing of sensitive personal information and privileged information
                shall be prohibited, except in the following cases:
                                                      xxx
                (b) The processing of the same is provided for by existing laws and
 
-4 §2(F), NPC Circular No. 2020-03 (Data Sharing Agreements).
-5 Id. §8.
-6 Id. §2(G).
 
-              regulations: Provided, that such regulatory enactments guarantee the
+   regulations: Provided, that such regulatory enactments guarantee the
               protection of the sensitive personal information and the privileged
               information: Provided, further, That the consent of the data subjects are not
               required by law or regulation permitting the processing of the sensitive
@@ -115,7 +106,7 @@ In addition to establishing the appropriate lawful basis, any data sharing betwe
 government agencies, regardless of form or arrangement, must comply with the following
 principles under NPC Circular No. 2020-03 on Data Sharing Agreements:
 
-            a) Adherence to the data privacy principles of transparency, legitimate purpose,
+   a) Adherence to the data privacy principles of transparency, legitimate purpose,
                and proportionality;
             b) Fulfillment of all applicable requirements prescribed by the DPA, its
                Implementing Rules and Regulations (IRR), and other issuances of the NPC;
@@ -135,24 +126,22 @@ violative of privacy rights a Revenue Regulation requiring the registration of a
 books of professionals containing their clients’ names and the date and time of consultation.
 Justice Caguioa wrote:
 
-            “xxx I would like to add that this requirement violates the general principle of
+   “xxx I would like to add that this requirement violates the general principle of
             proportionality that is espoused in Republic Act No. 10173 or the Data Privacy
             Act of 2012, viz:
 
-            Sec. 18. Principles of Transparency, Legitimate Purpose and Proportionality. –
+   Sec. 18. Principles of Transparency, Legitimate Purpose and Proportionality. –
             The processing of personal data shall be allowed subject to adherence to the
             principles of transparency, legitimate purpose, and proportionality.
                                                     xxx
              c. Proportionality. The processing of information shall be adequate, relevant,
             suitable, necessary, and not excessive in relation to a declared and specified
 
-7 Id. §3.
-8 G.R. No. 211772, 18 April 2023.
 
-       purpose. Personal data shall be processed only if the purpose of the processing
+   purpose. Personal data shall be processed only if the purpose of the processing
        could not reasonably be fulfilled by other means.
 
-       xxx requiring self-employed professionals to disclose their clients’ names and
+   xxx requiring self-employed professionals to disclose their clients’ names and
        their appointment schedules is already excessive vis-à-vis the declared purpose
        of RR 4-2014 xxx”
 
@@ -171,7 +160,7 @@ the data subjects.
 
 In the case of Ople vs. Torres,9 the Supreme Court emphasized:
 
-       “We can even grant, arguendo, that the computer data file will be limited to the
+   “We can even grant, arguendo, that the computer data file will be limited to the
        name, address and other basic personal information about the individual. Even
        that hospitable assumption will not save A.O. No. 308 from constitutional
        infirmity for again said order does not tell us in clear and categorical terms how these
@@ -181,7 +170,7 @@ In the case of Ople vs. Torres,9 the Supreme Court emphasized:
        the computer linkage gives other government agencies access to the information.
        Yet, there are no controls to guard against leakage of information. xxx
 
-       It is plain and we hold that A.O. No. 308 falls short of assuring that personal
+   It is plain and we hold that A.O. No. 308 falls short of assuring that personal
        information which will be gathered about our people will only be processed for
        unequivocally specified purposes. xxx”
 
@@ -195,8 +184,6 @@ operating requirements. As such, the PIC or PIP is in the best position to deter
 reasonable and appropriate organizational, physical, and technical security measures to
 
 
-9 G.R. No. 127685, 23 July 1998.
-
 implement, considering that it has the most knowledge of its own operations and IT
 infrastructure.
 
@@ -209,7 +196,13 @@ For your reference.
 
 Very truly yours,
 
-
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
+
+[^4]: §2(F), NPC Circular No. 2020-03 (Data Sharing Agreements).
+[^5]: Id. §8.
+[^6]: Id. §2(G).
+[^7]: Id. §3.
+[^8]: G.R. No. 211772, 18 April 2023.
+[^9]: G.R. No. 127685, 23 July 1998.

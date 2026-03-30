@@ -1,8 +1,8 @@
 ---
-title: "Advisory-Opinion-No.-2022-021_Redacted"
-description: "Re: PUBLICATION OF INFORMATION OF LIST OF WHOLESALE ELECTRICITY SPOT MARKET (WESM) MEMBERS AND RETAIL CUSTOMER INFORMATION UNDER RETAIL COMPETITION AND OPEN ACCESS (RCOA) AND GREEN ENERGY OPTION PROGRAM (GEOP)."
+title: "NPC Advisory Opinion No. 2022-021 — Publication of Information of List of Wholesale Electricity Spot Market Members and Retail Customer Information"
+description: "The NPC addresses the publication of names of WESM members and RCOA contestable customers by the Independent Electricity Market Operator."
 tags:
-  - "issuance"
+  - issuance
   - "type/advisory-opinion"
   - "year/2022"
 draft: false
@@ -11,30 +11,26 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2022-021
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/10/Advisory-Opinion-No.-2022-021_Redacted.pdf
+- Issue date: 10/14/2022
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                              ADVISORY OPINION NO. 2022-0211
+14 October 2022
 
- 14 October 2022
-
-
-
-
-          Re:     PUBLICATION OF INFORMATION OF LIST OF WHOLESALE
+   Re:     PUBLICATION OF INFORMATION OF LIST OF WHOLESALE
                   ELECTRICITY SPOT MARKET (WESM) MEMBERS AND
                   RETAIL CUSTOMER INFORMATION UNDER RETAIL
                   COMPETITION AND OPEN ACCESS (RCOA) AND GREEN
                   ENERGY OPTION PROGRAM (GEOP).
 
-Dear                                                                   :
-
+Dear [Redacted],
 We respond to your request for an Advisory Opinion on the Independent Electricity Market
 Operator of the Philippines, Inc.’s (IEMOP) data privacy concerns regarding the publication
 of: 1) the names of Wholesale Electricity Spot Market (WESM) members; and, 2) the names of
 registration applicants and the retail or contestable customers registered in the Retail
 Competition and Open Access (RCOA), also known as retail electricity market.
+
+### Discussion
 
 We understand that IEMOP made this inquiry as the Market Operator of WESM and the
 Central Registration Body (CRB) of the RCOA and Green Energy Option Program (GEOP).
@@ -48,9 +44,7 @@ Opinion.
 We further understand that in accordance with several Department of Energy (DOE)
 issuances, the following are published by IEMOP on its website:
 
-1 Tags: lawful criteria for processing; natural person; juridical person; legal obligation; publication of names.
-
-         Information                                                        Information
+   Information                                                        Information
             Owner
        WESM Participants                   1. Participant name (Name of corporation, partnership or
                                                individual)
@@ -106,12 +100,12 @@ operating as sole proprietorships.
 
 Thus, you seek guidance on the following:
 
-    1) Whether IEMOP may publish the names of WESM members and names of applicants
+   1) Whether IEMOP may publish the names of WESM members and names of applicants
        for WESM registration by virtue of the WESM Rules promulgated by the DOE
        pursuant to Republic Act No. 9136, otherwise known as the Electric Power Industry
        Reform Act (EPIRA); and
 
-    2) Whether IEMOP may publish the names of retail or contestable customers that are
+   2) Whether IEMOP may publish the names of retail or contestable customers that are
        registered to participate in the Retail Competition and Open Access (RCOA) or the
        retail electricity market on the basis of The Retail Market Manual on Disclosure and
        Confidentiality of Retail Customer Information (Retail Manual - DCRCI) likewise
@@ -131,7 +125,7 @@ comply with the EPIRA and is regulated by the DOE through applicable issuances.
 Under the WESM Rules promulgated by the DOE, IEMOP is required to publish the
 following:
 
-    a) A list of registered WESM members, including the names and categories in which they
+   a) A list of registered WESM members, including the names and categories in which they
        are registered; and
     b) A list of applicants for WESM registration, including the name of the applicant and
        the status of its application.4
@@ -143,7 +137,6 @@ including their names and short names.6
 
 The abovementioned information published by IEOMP is based on the non-confidential
 information enumerated in Clause 5.4 of the Retail Manual – DCRCI, which are:
-
 
 3 Department of Energy, Department Circular No.    DC-2018-01-002, “Adopting Policies for the Effective and
 Efficient Transition to the Independent Market Operator for the Wholesale Electricity Spot Market” (17 January
@@ -157,7 +150,7 @@ https://www.wesm.ph/downloads/download/TWFya2V0IFJlcG9ydHM=/MTkyMg== (last acces
 0012.
 6 Ibid.
 
-    1. Service address of the registered facility
+   1. Service address of the registered facility
     2. Contact details
     3. Supply details
           a. incumbent supplier
@@ -165,7 +158,7 @@ https://www.wesm.ph/downloads/download/TWFya2V0IFJlcG9ydHM=/MTkyMg== (last acces
           c. duration of supply contract
           d. names of counterparties
 
-    4. Details contained in the ERC's Certificates of Contestability, as applicable.
+   4. Details contained in the ERC's Certificates of Contestability, as applicable.
 
 The Data Privacy Act of 20127 (DPA) governs the processing of personal data. Under the DPA,
 the processing of personal data shall only be allowed under certain conditions provided in
@@ -182,7 +175,7 @@ We also discussed in Advisory Opinion No. 2020-052 that the publication of perso
 information of an individual or a sole proprietorship who may qualify as a WESM member
 or as a contestable customer is allowed subject to Section 12 of the DPA, thus:
 
-      In the event where the contestable customer is an individual or a sole
+   In the event where the contestable customer is an individual or a sole
       proprietorship whose name and generic location would be subject to
       publication, Section 12 of the DPA states that that the processing of personal
       information shall be permitted if necessary for compliance with a legal
@@ -190,7 +183,7 @@ or as a contestable customer is allowed subject to Section 12 of the DPA, thus:
       necessary in order to fulfill functions of public authority which necessarily
       includes the processing of personal data for the fulfillment of its mandate.
 
-      In this instance, the ERC may cite the pertinent provisions of the Electric
+   In this instance, the ERC may cite the pertinent provisions of the Electric
       Power Industry Reform Act of 2001 (EPIRA) and/or other applicable laws and
       regulations to justify the publication of names and generic locations of
       individuals identified as qualified contestable customers as a legal
@@ -201,8 +194,6 @@ with a legal obligation. In RLA v. PLDT Enterprise,8 the National Privacy Commis
 discussed the elements that should exist for valid processing based on a legal obligation : “(1)
 if the legal obligation the PIC cites as lawful criteria exists and applies to the PIC; (2) if the
 processing that the PIC performs is necessary to comply with the legal obligation; and (3) if
-
-
 
 7An Act Protecting Individual Personal Information in Information and Communications Systems in the
 Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
@@ -230,10 +221,7 @@ adjudicate the rights and obligations of the parties involved.
 
 Please be guided accordingly.
 
-
 Very truly yours,
-
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV

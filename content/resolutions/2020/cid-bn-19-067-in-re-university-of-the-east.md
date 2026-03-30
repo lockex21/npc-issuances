@@ -1,13 +1,23 @@
 ---
-title: "CID BN 19-067: In re: University of the East"
-description: "Section 18 (d) Form. Notification of affected data subjects shall be done individually, using secure means"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- CID BN 19-067
+- cid bn 19-067
+date: '2024-01-01'
+description: Section 18 (d) Form. Notification of affected data subjects shall be
+  done individually, using secure means
 draft: false
+reference: CID BN 19-067
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'CID BN 19-067: In re: University of the East'
 ---
+
+
+
+
 
 ## Source
 - Reference: CID BN 19-067
@@ -21,7 +31,6 @@ draft: false
 - When notification to the Commission should be done?, Procedure on which the personal information controller (PIC) must follow in notifying the affected data subjects affected by a personal breach, content of Data Breach Notification Report, alternative means of notification
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 IN RE: UNIVERS ITY
 
@@ -35,8 +44,7 @@ Before this Commission is a breach case involving University of the
 
 East (UE) for the violation of Data Privacy Act of 2012 (DPA).
 
-Facts
-
+### Facts
 On April 14, 2019, S.B.N. - Dean of University of the Eas t College of
 
 Computer Studies and Systems, received a message in his Facebook
@@ -55,7 +63,7 @@ umaapak sa mga karatapan nila”. A snapshot of the message was sent to
 
 Professor N.K.T. , a CCSS faculty member designated as RnD
 
-Coordinator, who then informed RnD Team Leader and UE -CCSS
+Coordinator, who then informed RnD Team Leader and UECCSS
 
 student - D.G. , and Assistant Team Leader – N.B.Z . D.G. and N.B.Z.
 
@@ -79,14 +87,11 @@ databases for the “MOA Signing System” and “Research Archiving
 
 System.”
 
-CID BN 19 -067
-
 (For violation of Data
 
-Privacy Act of 2012) CID BN 19 -06 7
+Privacy Act of 2012) CID BN 1906 7
 
 > Page 2of 8
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 17 April 2019 , UE University Manila (“ UE ”) notified the
 
@@ -124,7 +129,7 @@ to submit within fifteen (15) days a complete breach report, including
 
 details of notification and assistance provided to data subjects.
 
-On 21 July 2020, due to UE ’s non -compliance with the Commission En
+On 21 July 2020, due to UE ’s noncompliance with the Commission En
 
 Banc’s directive on the Resolution dated 09 September 2019, the
 
@@ -152,9 +157,7 @@ annexes and proofs of notification for a bona fide complete report.
 
 > 109 September 2019, Resolution
 
-CID BN 19 -06 7
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+CID BN 1906 7
 
 On 16 September 2020, Ms. T. submitted the required annexes and
 
@@ -162,8 +165,7 @@ proofs of notification, which finally cured the report's previously
 
 found deficiencies.
 
-Discussion
-
+### Discussion
 Th is case before the Commission can now be considered closed.
 
 Under circumstances where sensitive personal information or other
@@ -204,7 +206,7 @@ disclosures, or to restore reasonable integrity to the
 
 information and communications system.
 
-Section 18 of NPC Circular No. 16 -03 (Circular) provides for the
+Section 18 of NPC Circular No. 1603 (Circular) provides for the
 
 procedure on which the personal information controller (PIC) must
 
@@ -222,11 +224,9 @@ personal data possibly involved;
 
 measures taken to address the breach;
 
-> 2Section 18 (c), NPC Circular 16 -03 –Personal Data Breach Management
+> 2Section 18 (c), NPC Circular 1603 –Personal Data Breach Management
 
-CID BN 19 -06 7
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+CID BN 1906 7
 
 measures taken to reduce the harm or negative consequences
 
@@ -270,7 +270,7 @@ In this case, it is shown that UE received the Resolution on 24
 
 September 2019. UE was given a fifteen (15) day period to notify the
 
-affected data subjects. Base d on the submitted screenshot 4 of e -mail
+affected data subjects. Base d on the submitted screenshot 4 of email
 
 notifications, it shows that UE started notifying the affected data
 
@@ -312,10 +312,9 @@ relating to the breach.
 
 > 4
 
-Screenshot of Email Notifications to Affected Data Subjects from U.E. DPO. CID BN 19 -06 7
+Screenshot of Email Notifications to Affected Data Subjects from U.E. DPO. CID BN 1906 7
 
 > Page 5of 8
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 negative consequences of the breach, and contact deta ils of the DPO
 
@@ -323,7 +322,7 @@ where an affected subject could reach out for clarifications and further
 
 assistance. In addition , the said notifications were electronically sent
 
-individually to the affected data subjects via e -mail.
+individually to the affected data subjects via email.
 
 Aside from UE ’s compliance with the notification requirement
 
@@ -337,7 +336,7 @@ portion showed by ‘ C.D .’ and confirmed that such is a part of the
 
 database; 3. Checking of the integrity of the database existing on the
 
-main server vis -a-vis the sample data from C.D. From there, it was
+main server visa-vis the sample data from C.D. From there, it was
 
 verified that the data was merely copied and not altered nor destroyed;
 
@@ -371,9 +370,9 @@ collection, storage, sharing, and disposal of data shall be put in writing
 
 and be incorporated in the Operations Manual of the RnD Unit .
 
-UE further adopted measures for non -RnD Unit Activities and
+UE further adopted measures for nonRnD Unit Activities and
 
-Student -led projects, to wit: a. Higher and Stricter level of security on
+Studentled projects, to wit: a. Higher and Stricter level of security on
 
 Google Cloud Platform; b. Incorporation of Cost of Subscription to a
 
@@ -391,9 +390,7 @@ developed and deployed, the following items will be defined to closely
 
 monitor access to data among the members of the unit: i. System
 
-Development: a. Composition and definition of responsibilities of the CID BN 19 -06 7
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+Development: a. Composition and definition of responsibilities of the CID BN 1906 7
 
 Systems Developme nt Team; b. Access permission to files and
 
@@ -401,7 +398,7 @@ databases; c. Use of password, encryption, and other security
 
 measures; d. Use of Google Drive and other cloud storage facilities; e.
 
-Use of mobile devices to access e -mail, Google Drive, and other
+Use of mobile devices to access email, Google Drive, and other
 
 facilities nece ssary for systems development; and ii. System
 
@@ -423,7 +420,7 @@ assistant team leader.
 
 A careful examination of UE ’s complete breach report reveals the
 
-organization’s judicious and suitable put -up of measures, steps, and
+organization’s judicious and suitable putup of measures, steps, and
 
 policies to address the breach incident. However, the said breach
 
@@ -447,7 +444,7 @@ subject in the event of a personal data breach . It is not enough to
 
 conclude that the data were just copied and not altered or destroyed
 
-without the PIC’s in -depth investigation of the matter. The PIC’s
+without the PIC’s indepth investigation of the matter. The PIC’s
 
 investigation should have considered the possibility that the
 
@@ -471,9 +468,7 @@ consonance with Section 20(f) of the Data Privacy Act, which requires
 > to the informati on and communications system, and mitigation of possible harm and negative
 > consequences to a data subject in the event of a personal data breach.”
 
-CID BN 19 -06 7
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+CID BN 1906 7
 
 prompt notification upon the National Privacy Commission and
 
@@ -509,7 +504,7 @@ to the apparent bona fide compliance of UE in this case, there is
 
 nothing more left for the Commission than to close the case.
 
-WHEREFORE, premises considered, the case CID BN 19 -067 In the
+WHEREFORE, premises considered, the case CID BN 19067 In the
 
 Matter of University of the Eas t Manila, is hereby considered CLOSED.
 
@@ -518,8 +513,6 @@ SO ORDERED.
 Pasay City, Philippines.
 
 22 October 2020.
-
-(Sgd.)
 
 RAYMUND ENRI QUE Z LIBORO
 
@@ -531,9 +524,7 @@ WE CONCUR:
 
 LEANDRO ANGELO Y. AGUIRRE JOHN HENRY D. NAGA
 
-Deputy Privacy Commissioner Deputy Privacy Commissioner CID BN 19 -06 7
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+Deputy Privacy Commissioner Deputy Privacy Commissioner CID BN 1906 7
 
 Copy furnished:
 

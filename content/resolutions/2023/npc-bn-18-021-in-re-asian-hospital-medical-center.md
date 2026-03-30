@@ -1,11 +1,17 @@
 ---
 title: "NPC BN 18-021: In Re: Asian Hospital Medical Center"
-description: "Before the Commission is a breach notification submitted by Asian Hospital and Medical Center (AHMC) involving the access of a patient’s chart by third persons."
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC BN 18-021"
+  - "npc bn 18-021"
+  - "In Re: Asian Hospital Medical Center"
+  - "in re: asian hospital medical center"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-11-13"
 draft: false
 ---
 
@@ -21,8 +27,6 @@ draft: false
 - Notification of Data Subjects and Technical Security Measures
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-> NPC_OPC_ADJU_RESO-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 IN RE: ASIAN HOSPITAL AND MEDICAL
 
@@ -64,8 +68,6 @@ diagnosis. 6 The DPO informed the GNU Manager that he will initiate
 NPC BN 18 -021 NPC BN 18-021
 
 In re: Asian Hospital and Medical Center
-
-> NPC_OPC_ADJU_RESO-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 an investigation on the alleged breach in accordance with AHMC’s
 
@@ -120,8 +122,6 @@ Commission (NPC) of the breach. 16
 
 In re: Asian Hospital and Medical Center
 
-> NPC_OPC_ADJU_RESO-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
 On 06 October 2020, the NPC, through its Complaints and Investigation Division (CID) issued an Order requiring AHMC to
 
 submit its Full Breach Report within fifteen (15) days from receipt. 17
@@ -167,8 +167,6 @@ i. Information security (PL-MID-004)
 
 In re: Asian Hospital and Medical Center
 
-> NPC_OPC_ADJU_RESO-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
 ii. Access Matrix Security (PL-MID-002)
 
 2. Reinforced Violations on Computer, Information Security & Data Privacy under the Hospital’s Code of Ethics.
@@ -201,8 +199,6 @@ Section 20. Security of Personal Information .
 > 28 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose aNational Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (a) (2012).
 
 In re: Asian Hospital and Medical Center
-
-> NPC_OPC_ADJU_RESO-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Similarly, Section 17 (D) of NPC Circular 16-03 (Personal Data Breach Management) provides a PIC with the obligation to notify the NPC of a personal data breach. 29  The provision also outlines the content of notification specifically the measures that a PIC took to address the breach:
 
@@ -260,8 +256,6 @@ personnel. 32
 > 32 Id.
 
 In re: Asian Hospital and Medical Center
-
-> NPC_OPC_ADJU_RESO-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 As part of its remedial measures, AHMC stated that it strengthened and improved the hospital’s policies, specifically its Information Security Policy and Access Matrix Security Policy, and re-trained all its
 
@@ -358,7 +352,6 @@ Dismissal
 > 35 Id. NPC BN 18-021
 > In re: Asian Hospital and Medical Center
 > Page 7of 9
-> NPC_OPC_ADJU_RESO-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 and the like that
 
@@ -411,8 +404,6 @@ It is the obligation of the PIC, such as AHMC, to ensure that it promptly and pr
 
 In re: Asian Hospital and Medical Center
 
-> NPC_OPC_ADJU_RESO-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
 breach .42  The Commission has consistently emphasized that the purpose of the notification to the data subjects is to allow them to take the necessary precautions or other measures to protect themselves against its possible effects. 43
 
 In this case, AHMC notified the patient through mail. 44  It submitted a copy of the letter and a 2GO Express receipt as proof of mailing to the
@@ -452,11 +443,7 @@ City of Pasay, Philippines.
 
 In re: Asian Hospital and Medical Center
 
-> NPC_OPC_ADJU_RESO-V1.0, R1.0, 01 September 2023 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
 13 November 2023.
-
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -464,13 +451,9 @@ Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
-
-Sgd.
 
 NERISSA N. DE JESUS
 

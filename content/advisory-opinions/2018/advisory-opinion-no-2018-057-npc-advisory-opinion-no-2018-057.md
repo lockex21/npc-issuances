@@ -1,10 +1,13 @@
 ---
-title: "NPC Advisory Opinion No. 2018-057"
-description: "''''''''''' '''''''''''''' ''''''''''''''''''''''' '''''''''''' ''''''''''''''''''''''''' ''''''''''''''' '''''''''''' ''''''''''''''''''''''''''''''' '''''''' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2018-057 — Outsourcing Agreement"
+description: "Clarifications on outsourcing agreements and data privacy requirements for third-party processors in cross-border data transfers."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2018"
+  - issuance
+  - type/advisory-opinion
+  - year/2018
+  - outsourcing
+  - data-processor
+  - cross-border
 draft: false
 ---
 
@@ -16,20 +19,12 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                       ADVISORY OPINION NO. 2018-057
 
  20 September 2018
 
- ''''''''''' '''''''''''''' '''''''''''''''''''''''
- '''''''''''' ''''''''''''''''''''''''' '''''''''''''''
- '''''''''''' ''''''''''''''''''''''''''''''' ''''''''
- '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+   Re:      OUTSOURCING AGREEMENT
 
-
-              Re:      OUTSOURCING AGREEMENT
-
-Dear '''''''''' ''''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your query received by the National Privacy Commission (NPC) via
 email. You stated that Automatic Data Processing (ADP) is a human capital management
@@ -37,6 +32,8 @@ solutions company based in the United States. It has presence in the Philippines
 (Philippines) Inc. which provides payroll services to Philippine clients. You seek advice and
 clarification regarding Section 44 of the Implementing Rules and Regulations (IRR)1 of
 Republic Act No. 10173,2 otherwise known as the Data Privacy Act of 2012 (DPA).
+
+### Discussion
 
 We provide the following clarifications:
 
@@ -56,13 +53,12 @@ conditions in the outsourcing agreement.
        communicate changes, if any, on a set frequency, either annually, bi-annually or
        quarterly, meets the requirement under the law.
 
-
 1 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
 2An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 OF 2012], Republic Act No. 10173, (2012).
 
-                                5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307
+   5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307
 
 It is sufficient that the agreement states the indicative list of countries where personal data of
 clients that require multiple data hosting locations will be processed. We further note that in
@@ -146,20 +142,13 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
-
-
-
 
 5 An Act To Ordain And Institute The Civil Code Of The Philippines [THE CIVIL CODE OF THE PHILIPPINES] Republic
 

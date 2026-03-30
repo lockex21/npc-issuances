@@ -1,13 +1,22 @@
 ---
-title: "NPC BN 19-115: In re: Sun Life of Grepa Financial, Inc"
-description: "NPC BN 19-115: In re: Sun Life of Grepa Financial, Inc"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC BN 19-115
+- npc bn 19-115
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC BN 19-115
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC BN 19-115: In re: Sun Life of Grepa Financial, Inc'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC BN 19-115
@@ -25,8 +34,6 @@ IN RE: SUN LIFE GREPA FINANCIAL ,
 
 INC.
 
-NPC BN 19 -115
-
 x-----------------------------------------------------x
 
 NAGA , D.P.C.:
@@ -39,8 +46,7 @@ data subject in compliance with the Order of this Commission dated
 
 15 October 2020.
 
-The Facts
-
+### Facts
 On 15 October 2020, the Commission issued a Resolution
 
 disposing, thus:
@@ -67,11 +73,10 @@ SLGFI had taken to address the breach, and the assistance that
 
 SLGFI can provide to the affected data subjects.
 
-Discussion
-
+### Discussion
 Evaluating the current submission of SLGFI, together with the
 
-Compliance letter dated 12 October 2020 and the Supplemental NPC BN 19 -115
+Compliance letter dated 12 October 2020 and the Supplemental NPC BN 19115
 
 In re: Sun Life Grepa Financial, Inc.
 
@@ -79,7 +84,7 @@ Report dated 13 October 2020, t his Commission finds the totality of
 
 SLGFI’s submission to be compliant with the requirements of NPC
 
-Circular 16 -03.
+Circular 1603.
 
 In the 15 October 2020 Order of the Commission, we noted
 
@@ -91,13 +96,13 @@ subjects . Upon review of the submitted notification , this
 
 Commission now finds the contents to satisfy the requirements of
 
-Section 18 (C) of NPC Circular 16 -03 1.
+Section 18 (C) of NPC Circular 1603 1.
 
 WHEREFORE, premises considered, this Comm ission finds
 
 SLGFI ’s notification letter dated 12 October 2020 to be
 
-COMPLIANT with the requirements of NPC Circular 16 -03.
+COMPLIANT with the requirements of NPC Circular 1603.
 
 Pending the review of this Commission’s Compliance and
 
@@ -113,8 +118,6 @@ Pasay City, Philippines ;
 
 26 November 2020 .
 
-Sgd.
-
 JOHN HENRY D. NAGA
 
 Deputy Privacy Commissioner
@@ -125,7 +128,7 @@ Deputy Privacy Commissioner
 > controller, including his or her contact details, from whom the data subject can obtain additional
 > information regarding the breach; and 6. any assistance to be provided to the affected data subjects.
 > Where it is not possible to provide the foregoing information all at the same time, they may be provided
-> in phases without undue delay. NPC BN 19 -115
+> in phases without undue delay. NPC BN 19115
 > In re:
 
 Sun Life Grepa Financial, Inc.
@@ -134,13 +137,9 @@ Sun Life Grepa Financial, Inc.
 
 WE CONCUR:
 
-Sgd.
-
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
-
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 

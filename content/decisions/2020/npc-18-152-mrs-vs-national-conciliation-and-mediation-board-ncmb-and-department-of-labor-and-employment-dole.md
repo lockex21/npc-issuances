@@ -1,11 +1,17 @@
 ---
-title: "NPC 18-152: MRS vs. NATIONAL CONCILIATION AND MEDIATION BOARD (NCMB) AND DEPARTMENT OF LABOR AND EMPLOYMENT (DOLE)"
-description: "NPC 18-152: MRS vs. NATIONAL CONCILIATION AND MEDIATION BOARD (NCMB) AND DEPARTMENT OF LABOR AND EMPLOYMENT (DOLE)"
+title: "NPC 18-152: MRS v. National Conciliation and Mediation Board (NCMB) and Department of Labor and Employment (DOLE)"
+description: "Complaint seeking removal of published article describing complainant's labor mediation case; dismissed for failure to exhaust remedies before filing with the Commission."
+aliases:
+  - "NPC 18-152"
+  - "npc 18-152"
+  - "MRS v. National Conciliation and Mediation Board (NCMB) and Department of Labor and Employment (DOLE)"
+  - "mrs v. national conciliation and mediation board (ncmb) and department of labor and employment (dole)"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2020"
+  - "year/2018"
   - "npc-case"
+date: "2020-06-08"
 draft: false
 ---
 
@@ -21,335 +27,127 @@ draft: false
 - Exhaustion of remedies
 
 ## Decision Text
-> 5th Floor Delegation Building, PICC Complex, Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 MRS,
 
 Complainant,
 
--versus -
+-versus-
 
-NPC Case No. 18 -152
-
-For: Violation of the Data
-
-Privacy Act of 2012
-
-NATIONAL CONCILIATION
-
-AND MEDIATION BOARD
-
-(NCMB) AND DEPARTMENT
-
-OF LABOR AND
-
-EMPLOYMENT (DOLE)
+National Conciliation and Mediation Board (NCMB) and Department of Labor and Employment (DOLE),
 
 Respondents.
 
-x x
+x----x
 
-AGUIRRE , D.P.C.:
+AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by Complainant MRS
+Before this Commission is a Complaint filed by Complainant MRS against Respondents National Conciliation and Mediation Board (NCMB) and Department of Labor and Employment (DOLE) for an alleged violation of Republic Act No. 10173 (“Data Privacy Act”).
 
-against Respondents National Conciliation and Mediation Board
+### Facts
 
-(NCMB) and Department of Labor and Employment (DOLE) for an
-
-alleged violation of Republic Act No. 10173 (“Data Privacy Act”).
-
-The Facts
-
-Sometime in August 2013, Complainant filed a complaint against her
-
-employer for nonpayment of her 13 th month pay upon termination of
-
-her employment. With the help of Respondents, the settlement
-
-between Complainant and her employer was completed in her favor.
+Sometime in August 2013, Complainant filed a complaint against her employer for nonpayment of her 13th month pay upon termination of her employment. With the help of Respondents, the settlement between Complainant and her employer was completed in her favor.
 
 In her complaint, Complainant narrates:
 
-I had the impression that this mediation effort of DOLE was
+> I had the impression that this mediation effort of DOLE was private until I searched my name on Google and my name appearing on the search in this link describing my alleged constructive dismissal. x x x The article describes my complaint to DOLE and how it was resolved. Although the term “alleged” was used, it is still damaging to me because it has affected my job applications after that because all they understand is I have a bad record when I thought this was resolved when I was asked to file a resignation instead.[^1]
 
-private until I searched my name on Google and my name
+She attached to her Complaint the article entitled “NCMB settles labor issues; 10 workers receive P215K thru SENA”. The pertinent portion of the article reads:
 
-appearing on the search in this link describing my alleged
+> “These worker-complainants were attended to by our conciliator mediators, acting as single entry assistance desk officers find mutually acceptable and beneficial solutions to their complaints,” [NCMB Executive Director] said.
+>
+> He specifically cited [Complainant], senior analyst of Phinma/Trans-Asia Oil who came to complain of alleged constructive dismissal. She also sought assistance for the collection of her unpaid overtime pay and service incentive leave.[^2] xxx
 
-constructive dismissal. x x x The article describes my complaint
+Complainant thereafter filed this complaint with the National Privacy Commission (NPC) for the removal of the article, stating:
 
-to DOLE and how it was resolved. Although the term “alleged”
+> I am currently employed but would like this article taken out of then (sic) internet because it might affect my future career plans should I choose to search for a new job. I understand that the DOLE would like to make known their credentials in being effective mediators but this has been five (5) years ago and believe this is already irrelevant.[^3]
 
-was used, it is still damaging to me because it has affected my job
+Upon the filing of the complaint, Complainant was advised by the Complaints and Investigation Division (CID) to give Respondent the opportunity to address her complaint by informing them of her data privacy concern.
 
-applications after that because all they understand is I have a bad NPC 18 -152
+Complainant subsequently sent letters to Respondents informing them of her concerns and requesting for the removal of the article from their website.
 
-> MRS v. National Commission and Mediation Board and Department of Labor & Employment
-> Page 2of 5
-> 5th Floor Delegation Building, PICC Complex, Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
+In the meantime, the case was scheduled for Discovery Conference on 15 November 2018.[^4]
 
-record when I thought this was resolved when I was asked to file
+Respondent NCMB promptly replied to Complainant’s letter on 08 October 2018. They stated that:
 
-a resignation instead. 1
-
-She attached to her Complaint the article entitled “NCMB settles labor
-
-issues; 10 workers receive P215K thru SENA”. The pertinent portion of
-
-the article reads:
-
-“These worker -complainants were attended to by our conciliator
-
-mediators, acting as single entry assistance desk officers find
-
-mutually acceptable and beneficial solutions to their complaints,”
-
-[NCMB Executive Director] said.
-
-He specifically cited [Complainant], senior analyst of
-
-Phinma/Trans -Asia Oil who came to complain of alleged
-
-constructive dismissal. She also sought assistance for the collection
-
-of her unpaid overtime pay and service incentive leave. 2 xxx
-
-Complainant thereafter filed this complaint with the National Privacy
-
-Commission (NPC) for the removal of the article, stating:
-
-I am currently employed but would like this article taken out of
-
-then (sic) internet because it might affect my future career plans
-
-should I choose to search for a new job. I understand that the
-
-DOLE would like to make known their credentials in being
-
-effective mediators but this has been five (5) years ago and believe
-
-this is already irrelevant. 3
-
-Upon the filing of the complaint, Complainant was advised by the
-
-Complaints and Investigation Division (CID) to give Respondent the
-
-opportunity to address her complaint by informing them of her data
-
-privacy concern.
-
-Complainant subsequently sent letters to Respondents informing them
-
-of her concerns and requesting for the removal of the article from their
-
-website.
-
-In the meantime, the case was scheduled for Discovery Conference on
-
-15 November 2018. 4
-
-Respondent NCMB promptly replied to Complainant’s letter on 08
-
-October 2018. They stated that:
-
-> 1Complaint dated 02 October 2018
-> 2https://co.ncmb.ph/ncmb -settles -labor -issues -10 -workers0receive -p-215 -k-thrusena/?print=pdf ,cited in
-> Note 1
-> 3Supra at Note 1NPC 18 -152
-> MRS v. National Commission and Mediation Board and Department of Labor & Employment
-> Page 3of 5
-> 5th Floor Delegation Building, PICC Complex, Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
-In line with this, please be informed that said article has already
-
-been deleted in our website. We apologize on (sic) the anxieties
-
-this matter caused you specifically on your concern that it might
-
-taint your reputation in the eyes of potential employers. The Board
-
-does not intend to cause you any distress nor to malign your name.
-
-The article was written merely to highlight the success stories in
-
-our program implementation. However, we overlooked the aspect
-
-of consulting and seeking your permission in posting the article. 5
+> In line with this, please be informed that said article has already been deleted in our website. We apologize on (sic) the anxieties this matter caused you specifically on your concern that it might taint your reputation in the eyes of potential employers. The Board does not intend to cause you any distress nor to malign your name. The article was written merely to highlight the success stories in our program implementation. However, we overlooked the aspect of consulting and seeking your permission in posting the article.[^5]
 
 On 8 November 2018, Complainant sent an email to the NPC stating:
 
-DOLE has already removed the information they posted online. I
+> DOLE has already removed the information they posted online. I will forward their official communication tomorrow. The situation has been resolved. There is no need for further action. Thank you for your assistance!
 
-will forward their official communication tomorrow. The situation
+Consequently, none of the parties appeared at the Discovery Conference on 15 November 2018.
 
-has been resolved. There is no need for further action. Thank you
+A few months after, Respondent NCMB furnished NPC with a letter that it sent to Google requesting for the permanent removal of the link to the published article from Google’s search engine.
 
-for your assistance!
+### Issue
 
-Consequently, none of the parties appeared at the Discovery
+Whether or not Respondent NCMB and DOLE are liable for a violation of the Data Privacy Act of 2012.
 
-Conference on 15 November 2018.
+### Discussion
 
-A few months after, Respondent NCMB furnished NPC with a letter
+Respondents are not liable for a violation of the Data Privacy Act of 2012.
 
-that it sent to Google requesting for the permanent removal of the link
+NPC Circular 16-04 (“Rules of Procedure”) provides that complaints may be dismissed outright for the following grounds:
 
-to the published article from Google’s search engine.
+1. The complainant did not give the respondent an opportunity to address the complaint, unless failure to do so is justified;
 
-Issue
+2. The complaint is not a violation of the Data Privacy Act or does not involve a privacy violation or personal data breach;
 
-Whether or not Respondent NCMB and DOLE are liable for a violation
+3. The complaint is filed beyond the period for filing; or
 
-of the Data Privacy Act of 2012.
+4. There is insufficient information to substantiate the allegations in the complaint or the parties cannot be identified or traced.[^6]
 
-Discussion
+At the time Complainant filed her complaint with the NPC, she had not yet exhausted her remedies with Respondent. Prior to seeking assistance from the NPC, she had not made any communication with Respondent to request the deletion of the article that mentions her name.
 
-Respondents are not liable for a violation of the Data Privacy Act of
+The Commission emphasizes that, where circumstances permit, it is a condition precedent to the filing of complaints that complainants give the respondents the opportunity to address the complaints against them. This is in line with a separate provision in the NPC Rules of Procedure that states thus:
 
-2012.
+> Section 4. Exhaustion of remedies – No complaint shall be entertained unless:
+>
+> a. The complainant has informed, in writing, the personal information controller or concerned entity of the privacy violation or personal data breach appropriate action on the same;
+>
+> b. The personal information controller or concerned entity did not take timely or appropriate action on the claimed privacy violation or personal data breach, or there is no response from the personal controller within fifteen (15) days from receipt of information from the complainant; xxx[^7]
 
-NPC Circular 16 -04 (“Rules of Procedure”) provides that complaints
+In this case, it can be seen that as soon as Complainant communicated her request, Respondent promptly acted thereon and caused the deletion of the article from their website and even coordinated with Google Philippines to facilitate the permanent removal of the link from their search engine.
 
-may be dismissed outright for the following grounds:
+The resolution of the Complaint among the parties is confirmed with the Complainant’s email to NPC stating “the situation has been resolved. There is no need for further action.”
 
-1.  The complainant did not give the respondent an opportunity
+**WHEREFORE**, all the above premises considered, the Commission hereby resolves to **DISMISS** the complaint filed by MRS against Respondent National Conciliation Mediation Board and Respondent Department of Labor and Employment.
 
-to address the complaint, unless failure to do so is justified;
-
-2.  The complaint is not a violation of the Data Privacy Act or does
-
-not involve a privacy violation or personal data breach;
-
-_________________________________
-
-> 4Order to Confer for Discovery, n.d.
-> 5Letter from the NCMB dated 08 October 2018. NPC 18 -152
-> MRS v. National Commission and Mediation Board and Department of Labor & Employment
-> Page 4of 5
-> 5th Floor Delegation Building, PICC Complex, Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
-3.  The complaint is filed beyond the period for filing; or
-
-4.  There is insufficient information to substantiate the allegations
-
-in the complaint or the parties cannot be identified or traced. 6
-
-At the time Complainant filed her complaint with the NPC, she had
-
-not yet exhausted her remedies with Respondent. Prior to seeking
-
-assistance from the NPC, she had not made any communication with
-
-Respondent to request the deletion of the article that mentions her
-
-name.
-
-The Commission emphasizes that, where circumstances permit, it is a
-
-condition precedent to the filing of complaints that complainants give
-
-the respondents the opportunity to address the complaints against
-
-them. This is in line with a separate provision in the NPC Rules of
-
-Procedure that states thus:
-
-Section 4. Exhaustion of remedies – No complaint shall be
-
-entertained unless:
-
-a.  The complainant has informed, in writing, the personal
-
-information controller or concerned entity of the privacy violation
-
-or personal data breach appropriate action on the same;
-
-b.  The personal information controller or concerned entity did
-
-not take timely or appropriate action on the claimed privacy
-
-violation or personal data breach, or there is no response from the
-
-personal controller within fifteen (15) days from receipt of
-
-information from the complainant; xxx 7
-
-In this case, it can be seen that as soon as Complainant communicated
-
-her request, Respondent promptly acted thereon and caused the
-
-deletion of the article from their website and even coordinated with
-
-Google Philippines to facilitate the permanent removal of the link from
-
-their search engine.
-
-The resolution of the Complaint among the parties is confirmed with
-
-the Complainant’s email to NPC stating “the situation has been
-
-resolved. There is no need for further action.”
-
-WHEREFORE , all the above premises considered, the Commission
-
-hereby resolves to DISMISS the complaint filed by MRS against
-
-Respondent National Conciliation Mediation Board and Respondent
-
-Department of Labor and Employment.
-
-SO ORDERED.
+**SO ORDERED.**
 
 Pasay City, 8 June 2020.
 
-> 6Section 12, NPC Circular 16 -04. Dated 15 December 2016. Emphasis supplied.
-> 7Ibid at Section 4. NPC 18 -152
-> MRS v. National Commission and Mediation Board and Department of Labor & Employment
-> Page 5of 5
-> 5th Floor Delegation Building, PICC Complex, Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
-Sgd.
-
-LEANDRO  ANGELO  Y.  AGUIRRE
-
-Deputy  Privacy  Commissioner
+LEANDRO ANGELO Y. AGUIRRE
+Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 RAYMUND ENRIQUEZ LIBORO
-
 Privacy Commissioner
 
-Sgd.
-
 JOHN HENRY D. NAGA
-
 Deputy Privacy Commissioner
 
 Copy furnished:
 
 MRS
-
 Complainant
 
 NATIONAL COMMISSION AND MEDIATION BOARD
-
 Respondent
 
 DEPARTMENT OF LABOR & EMPLOYMENT
-
 Respondent
 
 COMPLAINTS AND INVESTIGATION DIVISION
-
 ENFORCEMENT DIVISION
-
 GENERAL RECORDS UNIT
+
+[^1]: Complaint dated 02 October 2018.
+[^2]: https://co.ncmb.ph/ncmb-settles-labor-issues-10-workers0receive-p-215-k-thrusena/?print=pdf, cited in Note 1.
+[^3]: *Supra* at Note 1.
+[^4]: Order to Confer for Discovery, n.d.
+[^5]: Letter from the NCMB dated 08 October 2018.
+[^6]: Section 12, NPC Circular 16-04. Dated 15 December 2016. Emphasis supplied.
+[^7]: *Ibid* at Section 4.

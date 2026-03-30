@@ -2,13 +2,14 @@
 title: "Registration of Data Processing Systems Appendix 1"
 description: "The sectors or institutions provided herein that are processing personal data and operating in the country are subject to mandatory registration as provided in Sections 5(C) and 5(D) of NPC Circular 17-01. ALL OTHER PICS OR PIPS SHOULD REGISTER IF IT EMPLOYS AT LEAST 250..."
 aliases:
-  - "registration of data processing systems appendix 1"
+- registration of data processing systems appendix 1
 tags:
-  - "issuance"
-  - "topic/registration"
-  - "type/circular"
-  - "year/undated"
+- issuance
+- topic/registration
+- type/circular
+- year/2017
 draft: false
+date: '2017-08-09'
 ---
 
 ## Issuance Text

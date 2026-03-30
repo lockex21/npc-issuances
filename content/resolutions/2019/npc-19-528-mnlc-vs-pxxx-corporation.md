@@ -1,13 +1,23 @@
 ---
-title: "NPC 19-528: MNLC vs PXXX Corporation"
-description: "SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2019"
-  - "npc-case"
+aliases:
+- NPC 19-528
+- npc 19-528
+date: '2024-01-01'
+description: "SEC. 13. Sensitive Personal Information and Privileged Information.\
+  \ \u2013 The processing of sensitive"
 draft: false
+reference: NPC 19-528
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2019
+title: 'NPC 19-528: MNLC vs PXXX Corporation'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC 19-528
@@ -21,8 +31,6 @@ draft: false
 - Proportionality, Temporary Ban, Consent
 
 ## Resolution Text
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 MNLC , INC., represented by
 
@@ -30,9 +38,9 @@ IKP ,
 
 Complainant,
 
--versus - NPC Case No. 19 -528
+-versus - NPC Case No. 19528
 
-(Formerly CID Case No. 19 -G-
+(Formerly CID Case No. 19G-
 
 528)
 
@@ -83,10 +91,8 @@ personal data is hereby issued against the respondent PXXX
 Corporation. The temporary ban shall cover the following:
 
 > 1Data Privacy Act of 2012, Section 2. Resolution
-> NPC Case No. 19 -528
+> NPC Case No. 19528
 > Page 2of 8
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 1. The processing of personal data of the MNLCI’s church
 
@@ -94,7 +100,7 @@ members who have not yet provided their identification
 
 documents to respondents for validation; and
 
-2. The requirement for the use of PXXX -issued IDs for the MNCLI
+2. The requirement for the use of PXXXissued IDs for the MNCLI
 
 church members wo have already submitted their passports and
 
@@ -170,10 +176,7 @@ interest or important, as it related to or affects the public. 6
 > 5Ibid., p. 3.
 > 6G.R. No. 74930 (1989 ). Emphasis in the original.
 
-NPC Case No. 19 -528
-
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
+NPC Case No. 19528
 
 This support s the basis of the Order dated 11 September 2019 . Based
 
@@ -183,7 +186,7 @@ limit the definition of “public interest” on the basis of the number of
 
 individuals involved. The Supreme Court has even pronounced the
 
-term “public” is a “comprehensive, all -inclusive term” and said that
+term “public” is a “comprehensive, allinclusive term” and said that
 
 “properly construed, it embraces everyone.” 7
 
@@ -227,7 +230,7 @@ provided under Section 13 of the DPA. 9
 
 > 7
 
-Subido v. Ozaeta (1948),  G.R. No. L -1631.
+Subido v. Ozaeta (1948),  G.R. No. L1631.
 
 > 8
 
@@ -269,16 +272,14 @@ organizations and their associations: Provided, That such processing is only con
 
 the bona fide members of these organizations or their associations: Provided, further, That the Resolution
 
-> NPC Case No. 19 -528
+> NPC Case No. 19528
 > Page 4of 8
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 The respondents anchor their claim of observing and conforming to
 
 the DPA on having obtain ed the consent of the members of MNLC to
 
-use the MXXX ID . They cite an e -mail dated 28 J une 2019 from IKP , an
+use the MXXX ID . They cite an email dated 28 J une 2019 from IKP , an
 
 elder of MNLC, that stated:
 
@@ -350,18 +351,16 @@ on the entire provision in toto. 13 Consent given through an informed
 > or defense of legal claims, or when provided to government or public authority.
 > 10 Mo tion for Reconsideration, p. 6.
 > 11 Section 3(b) .
-> 12 NPC Advisory Opinion 2018 -063 dated 23 October 2018.
+> 12 NPC Advisory Opinion 2018063 dated 23 October 2018.
 > 13 Id. Resolution
-> NPC Case No. 19 -528
+> NPC Case No. 19528
 > Page 5of 8
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
-indication of will may include a signature, an opt -in box, sending a
+indication of will may include a signature, an optin box, sending a
 
-confirmation e -mail, or oral confirmation, among other means.
+confirmation email, or oral confirmation, among other means.
 
-The e -mail that respondents cite d in their Motion , supposedly an
+The email that respondents cite d in their Motion , supposedly an
 
 indication of consent as a lawful basis for processing, mus t be
 
@@ -405,11 +404,11 @@ line to one, intended to force churchgoers to surrender their
 
 passports and valid ID’s for processing by PXXX ’s employees,
 
-supposedly for the production of PXXX -issued ID’s that shall be
+supposedly for the production of PXXXissued ID’s that shall be
 
 paid for by MNLCI’s members. 14
 
-While the consent evidenced by the e -mail dated 28 June 2019 may be
+While the consent evidenced by the email dated 28 June 2019 may be
 
 considered as specific and an informed indication of will, such cannot
 
@@ -421,7 +420,7 @@ the respondents control the MNLC members’ access to their worship
 
 service which they describe as a “really most important and worthy
 
-matter in their whole life. ”15 As cited in the Motion, the e -mail
+matter in their whole life. ”15 As cited in the Motion, the email
 
 confirming the use of the MXXX ID was “purely for the purpose of
 
@@ -437,10 +436,8 @@ mandatory issuance of uniform IDs to the members of MNLC still
 
 > 14 Records, p p. 3& 5.
 > 15 Motion for Reconsideration, p. 6. Resolution
-> NPC Case No. 19 -528
+> NPC Case No. 19528
 > Page 6of 8
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 cannot find justification under the law for failing to meet the
 
@@ -472,7 +469,7 @@ on the members of MNLC. During the summary hearings, respondent
 
 AD , acting as the respondent corporation’s Legal and Corporate
 
-External Affairs Head, stated that while the MNLC -issued IDs showed
+External Affairs Head, stated that while the MNLCissued IDs showed
 
 both the Korean and English names of the church members, the Korean
 
@@ -482,7 +479,7 @@ security threat to the other tenants of the building, because only the
 
 church members can read and understand the Korean characters. Also
 
-included in the annexes of the Complaint -Affidavit is a letter dated 16
+included in the annexes of the ComplaintAffidavit is a letter dated 16
 
 May 2019 18 from the respondent corpo ration , through respondent AD ,
 
@@ -515,11 +512,9 @@ other tenants of the building.
 > 16 Ibid at p. 7.
 > 17 Id.
 > 18 Complaint Affidavit, Annex E. Records, p. 34.
-> 19 See NPC Circular 16 -04 ,§19. Dated 15 December 2016. Resolution
-> NPC Case No. 19 -528
+> 19 See NPC Circular 1604 ,§19. Dated 15 December 2016. Resolution
+> NPC Case No. 19528
 > Page 7of 8
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 The Implementing Rules and Regulations of the DPA elaborates on the
 
@@ -559,7 +554,7 @@ In determining what information can be collected for and displayed on
 
 the ID card, the respondents must consider the purpose for such ID.
 
-The above -cited House Rules and Regulations signifies that the ID is
+The abovecited House Rules and Regulations signifies that the ID is
 
 an exhibit of such authorization to enter from the building tenant.
 
@@ -577,7 +572,7 @@ Dear [Bureau of Immigration] Commissioner Jaime H. Morente ,
 
 xxx [We] are dumbfounded by the blatant disregard of the simple
 
-NO -ID, NO -ENTRY Policy of the MNLC . In this regard, we
+NOID, NOENTRY Policy of the MNLC . In this regard, we
 
 ardently re quest your office to look into this matter as there might
 
@@ -594,12 +589,10 @@ imposing a temporary ban on the processing of personal data by PXXX
 Corporation.
 
 > 20 IRR, § 18(c), emphasis supplied.
-> 21 Records, p p.190 -191. Emphasis supplied.
+> 21 Records, p p.190191. Emphasis supplied.
 > 22 Ibid., at p. 62. Resolution
-> NPC Case No. 19 -528
+> NPC Case No. 19528
 > Page 8of 8
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 WHEREFORE, all premises considered, the Motion for
 
@@ -622,8 +615,6 @@ Let the records of this case be REMANDED to the Complaints and
 Investigation Division for the continuation of the proceedings.
 
 Pasay City, 18 November 2019.
-
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 

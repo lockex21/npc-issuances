@@ -1,16 +1,17 @@
 ---
 title: "Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012 (Advisory No. 2024-02)"
-description: "SUBJECT : GUIDELINES ON PERSONAL DATA PROCESSING BASED ON SECTION 13 (F) OF THE DATA PRIVACY ACT OF 2012"
+description: "Provides guidelines clarifying the application of Section 13 (f) of the DPA to enable personal information controllers to properly rely on this provision as the basis for processing sensitive personal information in court proceedings or legal claims."
 aliases:
   - "Advisory No. 2024-02"
   - "advisory no. 2024-02"
-  - "guidelines on personal data processing based on section 13 (f) of the data privacy act of 2012"
+  - "guidelines on personal data processing based on section 13 f of the data privacy act of 2012"
   - "npc advisory no. 2024-02"
 tags:
-  - "issuance"
-  - "type/advisory"
-  - "year/2024"
+  - issuance
+  - type/advisory
+  - year/2024
 draft: false
+date: '2024-08-12'
 ---
 
 ## Issuance Text

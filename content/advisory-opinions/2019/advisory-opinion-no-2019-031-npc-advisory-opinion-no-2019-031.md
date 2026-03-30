@@ -1,10 +1,10 @@
 ---
-title: "NPC Advisory Opinion No. 2019-031"
-description: "'''''''''''''''' '''''''''''''''' '''''' ''''''''''''''''''''''''''''' '''''''''''' '''''''''''''''' '''''''''''''''''''' ''''''' '''''''''''''' '''''''''''''''''''' '''''''''''''''''' ''''''''''''''''''''' ''''''''''''''''' ''''''''' '''''''''''''..."
+title: "NPC Advisory Opinion No. 2019-031 — Access to and Processing of Medical Records for Cancer Registries"
+description: "Advisory opinion on whether medical centers may provide access to patient medical records for cancer registry purposes under the Data Privacy Act."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2019"
+  - issuance
+  - type/advisory-opinion
+  - year/2019
 draft: false
 ---
 
@@ -16,27 +16,12 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                           ADVISORY OPINION NO. 2019-031
 
-5 September 2019
+September 5, 2019
 
-'''''''''''''''' '''''''''''''''' '''''' '''''''''''''''''''''''''''''
-'''''''''''' '''''''''''''''' ''''''''''''''''''''
-''''''' '''''''''''''' '''''''''''''''''''' '''''''''''''''''' ''''''''''''''''''''' ''''''''''''''''' '''''''''
-''''''''''''' ''''''''''''' ''''''''' '''''''''''' '''''' '''''''''''' ''''''' ''''''''''''
-'''''''''''' ''''''''''''''''''' '''''''''''''' '''''''''''''''''
+Re: ACCESS TO AND PROCESSING OF MEDICAL RECORDS FOR CANCER REGISTRIES
 
-'''''''''''''''''''' '''''' ''''''''''''''''''''''' '''''''
-''''''''''' ''''''''''''''''' ''''''''''''''''''
-'''''' '''''''''''''''' '''''''''''''''''' ''''''''''''''''''' ''''''''''''''''''' '''''''''
-''''''''' '''' ''''''''''''''''''''''''' '''''' ''''''''''' ''''''''''''''''' ''''''''''
-''''''''''''' ''''''''''''''' '''''''''''''''
-
-                Re:       ACCESS TO AND PROCESSING OF MEDICAL RECORDS FOR
-                          CANCER REGISTRIES
-
-Dear '''''''''''''''''' '''''''''''''''''''''''''' ''''''''' '''''''''''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your letter request for an advisory opinion on whether St. Luke’s Medical
 Center – Bonifacio Global City (SLMC-BGC) and St. Luke’s Medical Center, Quezon City (SLMC-
@@ -72,11 +57,11 @@ who died at SLMC-QC collected through death certificates. Pertinent information 
 collected from Medical Records, Out-Patient Records, Department of Pathology, Hematology,
 Radiotherapy and Tumor Registry or Board, wherever appropriate.
 
-You now inquire whether SLMC should allow access and provide the requested data to RMC and
-PCS given the limitations of the DPA.
+You now inquire whether SLMC should allow access and provide the requested data to RMC and PCS given the limitations of the DPA.
 
-Processing of health information allowed based on
-law and regulation
+### Discussion
+
+#### Processing of health information allowed based on law and regulation
 
 Medical records, out-patient records, autopsy records, records from the Department of Pathology,
 Cytology, Hematology, Radiology, Ultrasound, Nuclear Medicine, CT Scan, MRI and Tumor
@@ -87,7 +72,7 @@ processing to be lawful, the law requires that at least one of the criteria for 
 
 Particularly, Section 13 (b) of the DPA states:
 
-         (b) The processing of the same is provided for by existing laws and regulations:
+   (b) The processing of the same is provided for by existing laws and regulations:
          Provided, That such regulatory enactments guarantee the protection of the
          sensitive personal information and the privileged information: Provided,
          further, That the consent of the data subjects are not required by law or
@@ -145,9 +130,6 @@ these to RMC and PCS. SLMC may also require the mandatory execution of non-discl
 agreements with these research assistants and/or other personnel who shall be processing the
 medical records.
 
-
-
-
 3 Rules and Regulations Implementing the National Integrated Cancer Control Act, Republic Act No. 11215, § 28 (2019).
 4 We understand PCS-MCR was formerly the “Central Tumor Registry of the Philippines” which is the registry mentioned in
 
@@ -162,14 +144,10 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman

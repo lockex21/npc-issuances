@@ -1,6 +1,6 @@
 ---
-title: "Redacted-Advisory-Opinion-No.-2020-013"
-description: "21 February 2020 ''''''''''''''''''' ''''' '''''''''''''''' '''''' '''''''''''''' ''''''''' ''''''''' ''' '''''''''' ''''''''''''' ''''' ''''' ''''''''' '''''''''''''''' ''''''''''''' ''''''' '''''''' '''''''''' '''''''''' ''''' '''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2020-013 — Access to Information in Relation to Disciplinary Records and Administrative Cases of Students and School Personnel"
+description: "Guidance on disclosure of disciplinary records and administrative cases of students and school personnel under the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -14,23 +14,14 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                       ADVISORY OPINION NO. 2020-0131
 
- 21 February 2020
- ''''''''''''''''''' ''''' ''''''''''''''''
- '''''' '''''''''''''' '''''''''
- ''''''''' ''' '''''''''' '''''''''''''
- ''''' ''''' ''''''''' '''''''''''''''' ''''''''''''' '''''''
- '''''''' '''''''''' '''''''''' '''''
- '''''''''''''''''''''
+21 February 2020
 
-
-                  Re: ACCESS    TO  INFORMATION   IN   RELATION TO
+   Re: ACCESS    TO  INFORMATION   IN   RELATION TO
                       DISCIPLINARY RECORDS AND/OR ADMINISTRATIVE
                       CASES OF STUDENTS AND SCHOOL PERSONNEL
 
-Dear ''''''''''''' '''''''''''''''''
+Dear [Redacted],
 
 We write in response to your inquiry received by the National Privacy Commission (NPC)
 seeking guidance and clarification in relation to the Ateneo de Manila University’s
@@ -46,7 +37,7 @@ proceedings.
 Thus, the University now seeks clarification on the following questions in relation to the Data
 Privacy Act of 20122 (DPA):
 
-      1. Is the University required to disclose or share information (including personal data)
+   1. Is the University required to disclose or share information (including personal data)
          about a particular administrative case to the following:
          a. parties to the case (i.e. complainant, respondent, and/or witnesses);
          b. other parties who may be affected by the case and/or its outcome (e.g. other
@@ -54,27 +45,23 @@ Privacy Act of 20122 (DPA):
              or guardian of an adult student, etc.); and
          c. public (e.g. other students/University personnel, other students’ parents, etc.)
 
-
-1 Tags: administrative cases, education sector, sensitive personal information.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
 Republic Act No. 10173 (2012).
 
-     2. If the University is not required to make any such disclosure or to share any such
+   2. If the University is not required to make any such disclosure or to share any such
         information, is it at least allowed by the DPA to do so? If the answer is in the
         affirmative, on what possible ground/s in the law?
 
-     3. In relation to Questions #1 and #2, would it matter if a case is still pending or has
+   3. In relation to Questions #1 and #2, would it matter if a case is still pending or has
         already been concluded?
 
-     4. Regardless of the answers to Questions #1 and #2, may the University issue public
+   4. Regardless of the answers to Questions #1 and #2, may the University issue public
         reports that provide statistical information in relation to specific offenses, such as, but
         not limited to the following: (a) number of cases filed; (b) number of cases resulting
         in suspension or termination; (c) number of cases dismissed. In this wise, would the
         number of cases be relevant insofar as determining whether such information may
         constitute personal data?
 
-     5. In relation to sexual harassment cases in particular, what is the implication of Sections
+   5. In relation to sexual harassment cases in particular, what is the implication of Sections
         22 and 26 of Republic Act (RA) No. 11313, also known as the Safe Spaces Act, on the
         right to privacy of the accused or respondent, especially under the DPA? Of particular
         importance are the following provisions:
@@ -85,10 +72,9 @@ Republic Act No. 10173 (2012).
             prosecution and trial of an offense under the Safe Spaces Act, the rights of the
             victim and the accused who is a minor shall be recognized.
 
-Disclosure of information related to administrative
-cases; procedural due process requirements;
-administrative proceedings as sensitive personal
-information
+### Discussion
+
+#### Disclosure of information related to administrative cases; procedural due process requirements; administrative proceedings as sensitive personal information
 
 As the above items 1, 2 and 3 are related, these will be collectively discussed.
 
@@ -124,7 +110,7 @@ Jurisprudence has provided for the procedural rights of students in disciplinary
 minimum standards to be followed in the imposition of disciplinary sanctions in academic
 institutions, to wit:
 
-     1. The students must be informed in writing of the nature and cause of any
+   1. The students must be informed in writing of the nature and cause of any
         accusation against them;
      2. They shall have the right to answer the charges against them, with the assistance
         of counsel, if desired;
@@ -144,7 +130,7 @@ be affected by the case and its outcome, and the public, are not accorded the sa
 With respect to item number 3, the above interpretation will apply whether the administrative
 case is pending or already concluded.
 
-Statistical data not considered personal information
+#### Statistical data not considered personal information
 
 As to whether the University may issue public reports that provide statistical information in
 relation to specific offenses, the University may do so considering that purely statistical data
@@ -152,7 +138,6 @@ falls outside the ambit of the DPA as the same does not identify a person.
 
 However, the number of cases to be reported may be relevant in the determination of whether
 the same may constitute personal data when for instance, other data may be used or may
-
 
 5 Data Privacy Act of 2012, § 13 (b).
 6 Id., § 13 (f).
@@ -168,7 +153,7 @@ account shall be taken of all relevant means that might reasonably be used by a 
 identify the statistical unit.10 With this, caution should be exercised in releasing reports on
 specific offenses to ensure that no personal data is inadvertently released.
 
-Safe Spaces Act vis-à-vis the DPA
+#### Safe Spaces Act vis-à-vis the DPA
 
 Lastly, the University seeks clarification on the implication of the Safe Spaces Act (SSA)11 on
 the right to privacy of the accused or the respondent.
@@ -196,13 +181,8 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
-
-
-
 
 9 See: Eurostat, Statistical Confidentiality and Personal Data Protection, available at
 

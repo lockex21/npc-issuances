@@ -1,6 +1,6 @@
 ---
 title: "Guidelines on Compliance Checks (Circular No. 18-02)"
-description: "WHEREAS, The right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution values the dignity of every human person..."
+description: "Circular establishing the guidelines for the conduct of compliance checks by the NPC to ensure PICs and PIPs comply with data protection obligations and international standards."
 aliases:
   - "Circular No. 18-02"
   - "circular no. 18-02"
@@ -9,7 +9,8 @@ aliases:
 tags:
   - "issuance"
   - "type/circular"
-  - "year/undated"
+  - "year/2018"
+date: "2018-09-20"
 draft: false
 ---
 
@@ -29,7 +30,7 @@ WHEREAS, in order to ensure compliance of the country and all PICs and PIPs with
 
 WHEREFORE, in consideration of these premises, the Commission hereby issues this Circular governing the conduct of Compliance Checks.
 
-## I. General Provisions
+**I. General Provisions**
 
 **SECTION 1.** ***Scope.*** These Rules shall apply to any Personal Information Controller (PIC) or Personal Information Processor (PIP) in the government or private sector processing personal data in the Philippines, subject to the relevant provisions of the Act and its Implementing Rules and Regulations.
 
@@ -77,7 +78,7 @@ O. **"Privacy Compliance Questionnaire"** is a document containing a series of q
 
 P. **"Privacy Sweep"** refers to a mode of Compliance Check as defined under Section 4 (A) of this Circular.
 
-## II. Guidelines For The Conduct Of Compliance Check
+**II. Guidelines For The Conduct Of Compliance Check**
 
 **SECTION 4.** ***Modes of Compliance Checks.*** In ensuring compliance with the Act and its related issuances, the Commission may employ any of the following modes of Compliance Checks:
 
@@ -151,7 +152,7 @@ C. Failure or Refusal to Provide an Explanation to Compliance Orders. Refusal or
 
 **SECTION 14.** ***Fines and Penalties.*** Failure to comply with the [[laws/data-privacy-act-of-2012|DPA]], other issuances, or orders of the Commission may subject a PIC or PIP to fines and penalties as may hereafter be prescribed by the Commission.
 
-## III. Miscellaneous Provisions
+**III. Miscellaneous Provisions**
 
 **SECTION 15.** ***Publication.*** To protect the public, and in keeping with the Commission’s mandate to inform the public on data subject rights, as well as the compliance of PICs and PIPs with their obligations under the law, the results of the Compliance Checks, and orders issued in relation thereto may be published by the Commission at its discretion.
 

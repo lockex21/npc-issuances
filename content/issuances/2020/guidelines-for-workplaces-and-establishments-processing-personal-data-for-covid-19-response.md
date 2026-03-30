@@ -1,16 +1,19 @@
 ---
-title: "Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response (Advisory No. 2020-03)"
-description: "SUBJECT: GUIDELINES FOR WORKPLACES AND ESTABLISHMENTS PROCESSING PERSONAL DATA FOR COVID-19 RESPONSE"
+title: "Guidelines for Workplaces and Establishments Processing Personal Data for COVID-19 Response (Advisory No. 2020-03)"
+description: "Establishes guidelines for workplace and establishment processing of personal data in COVID-19 prevention and response activities."
 aliases:
-  - "Advisory No. 2020-03"
-  - "advisory no. 2020-03"
-  - "guidelines for workplaces and establishments processing personal data for covid-19 response"
-  - "npc advisory no. 2020-03"
+- Advisory No. 2020-03
+- advisory no. 2020-03
+- Workplace Data Processing Guidelines
+- workplace data processing guidelines
+- NPC Advisory No. 2020-03
+- npc advisory no. 2020-03
 tags:
-  - "issuance"
-  - "type/advisory"
-  - "year/2020"
+- issuance
+- type/advisory
+- year/2020
 draft: false
+date: '2020-10-23'
 ---
 
 ## Issuance Text
@@ -125,8 +128,6 @@ Privacy Commissioner
 SGD.                                                   SGD.
 LEANDRO ANGELO Y. AGUIRRE                            JOHN HENRY D. NAGA
 Deputy Privacy Commissioner                Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: Department of Trade and Industry and Department of Labor and Employment, Supplemental Guidelines on Workplace Prevention and Control of COVID-19, Joint Memorandum Circular No. 20-04-A (15 August 2020).
 [^2]: See DTI-DOLE JMC No. 20-04, Annex A-1: Employee Health Declaration Form and Annex A-2: Client/Visitor Contact Tracing Form; DTI Memorandum Circular No. 20-37; and Updated Guidelines for Barbershops and Salons Pursuant to IATF Resolution No. 51, Annex A.

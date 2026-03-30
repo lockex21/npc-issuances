@@ -1,13 +1,21 @@
 ---
-title: "NPC BN 18-179: In re: ABS-CBN Corporation"
-description: "5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: 5th Floor, Philippine International Convention Center, Vicente Sotto
+  Avenue, Pasay City, Metro Manila 1307
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC BN 18-179: In re: ABS-CBN Corporation'
+aliases:
+- NPC BN 18-179
+- npc bn 18-179
+date: '2022-10-12'
 ---
+
+
+
 
 ## Source
 - Reference: NPC BN 18-179
@@ -21,13 +29,11 @@ draft: false
 - Mandatory Breach Notification, Notification of Data Subjects, Security of Personal Information
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 IN RE: ABS -CBN CORPORATION
 
 x----------------------------------------------------x
 
-AGUIRRE , D. P.C.;
+AGUIRRE, D. P.C.;
 
 Before the Commission is the Compliance dated 12 May 202 1
 
@@ -35,13 +41,13 @@ submitted by ABS -CBN Corporation (ABS -CBN) in fulfillment of the
 
 directive in the Order dated 11 March 2021 .1
 
-Facts
+### Facts
 
-On 11 March 20 21 , the Commission issued a n Order instructing ABS -
+On 11 March 20 21, the Commission issued a n Order instructing ABS -
 
 CBN to submit proof of its notification to the affected data subjects:
 
-WHEREFORE , th e Commission ORDERS ABS -CBN
+WHEREFORE, th e Commission ORDERS ABS -CBN
 
 Corporation to submit proof of notification to the two -hundred
 
@@ -49,9 +55,9 @@ eight (208) data subjects who were affected by the breach,
 
 within fifteen (15) days from receipt of this Order.
 
-SO ORDERED. 2
+**SO ORDERED.** 2
 
-ABS -CBN , through its newly appointed Data Protection Officer
+ABS -CBN, through its newly appointed Data Protection Officer
 
 (DPO), acknowledged that it received the Order dated 11 March 2021
 
@@ -63,18 +69,14 @@ on the notification of data subjects to the Commission in September
 
 or October 2018. 4 Thereafter, ABS -CBN forwarded to the Commission
 
-> 1Compliance, 12 May 202 1,in In re: ABS -CBN Corporation , NPC BN 18-179 (NPC 2022).
+> 1Compliance, 12 May 202 1,in In re: ABS -CBN Corporation, NPC BN 18-179 (NPC 2022).
 > 2Order, 11 March 2021, at 8, in In re: ABS -CBN Corporation, NPC BN 18 -179 (NPC 2022) .
-> 3E-mail from LSA , Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (06 April 2021).
+> 3E-mail from LSA, Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (06 April 2021).
 > 4Id.
-
-NPC BN 1 8-179 NPC BN 18 -179
 
 In Re: ABS -CBN Corporation
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-the e -mail threads that showed the internal reports regarding the
+the email threads that showed the internal reports regarding the
 
 notification of affected data subjects. 5
 
@@ -82,7 +84,7 @@ The National Privacy Commission’s Enforcement Division (EnD) sent
 
 a Compliance Letter dated 22 April 2021 to ABS -CBN acknowledging
 
-receipt of the copy of e -mail threads .6 The EnD, however, found the
+receipt of the copy of email threads .6 The EnD, however, found the
 
 submissions insufficient and inadequate since the submissions did
 
@@ -106,7 +108,7 @@ subjects; 10
 
 2.  Online Store Report – Summary of Actions Taken; 11
 
-3.  Copy of the actual e -mails sent to affected data subjects; 12
+3.  Copy of the actual emails sent to affected data subjects; 12
 
 4.  Outbound Call Log Results; 13
 
@@ -118,36 +120,32 @@ subjects; 10
 
 8.  Delivery Status Report of Couriered Mail .17
 
-The EnD acknowledged the receipt of ABS -CBN’s submissions , but it
+The EnD acknowledged the receipt of ABS -CBN’s submissions, but it
 
 determined that there were still insufficien cies in the submissions. 18  It
 
 > 5Id.
 > 6Letter Re: Order of the Commission En Banc dated 11 March 2021 (CID BN 18 -179 “IN RE: ABS -CBN CORPORATION”) ,
-> 22 April 2021, in In Re: ABS -CBN Corporation , NPC BN 18 -179 (NPC 2022).
+> 22 April 2021, in In Re: ABS -CBN Corporation, NPC BN 18 -179 (NPC 2022).
 > 7Id.
 > 8Id .
 > 9Id.
-> 10 E-mail from LSA , Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (12 May 2021) ,
+> 10 E-mail from LSA, Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (12 May 2021) ,
 > Annex A .
 > 11 Id. Annex B .
 > 12 Id. Annex C .
 > 13 Id. Annex D .
 > 14 Id. Annex E .
 > 15 Id. Annex F .
-> 16 E-mail from LSA , Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (12 May 2021) ,
+> 16 E-mail from LSA, Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (12 May 2021) ,
 > Annex G .
 > 17 Id. Annex H .
 > 18 Letter Re: Order of the Commission En Banc dated 11March 2021 (CID BN 18 -179 “IN RE: ABS -CBN
-> CORPORATION”) , 11 October 2021, in In Re: ABS -CBN Corporation , NPC BN 18 -179 (NPC 2022).
-
-NPC BN 18 -179
+> CORPORATION”) , 11 October 2021, in In Re: ABS -CBN Corporation, NPC BN 18 -179 (NPC 2022).
 
 In Re: ABS -CBN Corporation
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-stated that the copy of the e -mails sent to affected data subjects failed
+stated that the copy of the emails sent to affected data subjects failed
 
 to prove that the y received the notification since there were no
 
@@ -179,7 +177,7 @@ submit a complete status report of the notification to affected data
 
 subjects, which should specify the number of data subjects notified
 
-through e -mail, phone, or courier. 24
+through email, phone, or courier. 24
 
 On 22 October 2021, ABS -CBN explained that it sent a copy of the e -
 
@@ -189,7 +187,7 @@ copy of the return receipts in its system. 25  As to the discrepancy with
 
 the number of data subjects successfully notified by phone call, ABS -
 
-CBN stated that it submitted four (4) e -mail s containing the call
+CBN stated that it submitted four (4) email s containing the call
 
 recordings to the Commission on 12 May 2021. 26  In relation to the
 
@@ -209,17 +207,13 @@ successfully delivered. 28
 > 22 Id.
 > 23 Id.
 > 24 Letter Re: Order of the Commission En Banc dated 11March 2021 (CID BN 18 -179 “IN RE: ABS -CBN
-> CORPORATION”) , 11 October 2021, in In re: ABS -CBN Corporation , NPC BN 18 -179 (NPC 2022).
-> 25 E-mail from LSA , Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (22 October 2021).
+> CORPORATION”) , 11 October 2021, in In re: ABS -CBN Corporation, NPC BN 18 -179 (NPC 2022).
+> 25 E-mail from LSA, Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (22 October 2021).
 > 26 Id.
 > 27 Id.
 > 28 Id.
 
-NPC BN 18 -179
-
 In Re: ABS -CBN Corporation
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 14 February 2022, the EnD sent another letter to ABS -CBN
 
@@ -229,23 +223,23 @@ notification still failed to show proof that all affected data subjects
 
 received the notification. 29  According to the EnD, ABS -CBN reported
 
-that it sent e -mail notifications to two hundred one (201) out of two
+that it sent email notifications to two hundred one (201) out of two
 
 hundred twenty -five (225) data subjects. 30  The screenshots submitted
 
 by ABS -CBN, however, did not show that the data subjects
 
-acknowledged that they received the e -mail. 31  The EnD found that
+acknowledged that they received the email. 31  The EnD found that
 
-the e -mail notification failed to prove that the data subjects were
+the email notification failed to prove that the data subjects were
 
 actually notified or that they received the notification. 32  It instructed
 
 ABS -CBN to submit proof that all affected data subjects received the
 
-notification, which may include “e -mail tracking showing the status
+notification, which may include “email tracking showing the status
 
-of the e -mail sent, sworn affidavit of the person who sent the e -mail
+of the email sent, sworn affidavit of the person who sent the email
 
 notifications, sworn affidavit of the person who called the data
 
@@ -263,13 +257,13 @@ relation to its submissions. 35  It explained that it could not provide a
 
 sworn affidavit of the person who sent the notification to affected
 
-data subjects by e -mail because the person is no longer connected
+data subjects by email because the person is no longer connected
 
 with ABS -CBN’s third -party service provider. 36  Hence, ABS -CBN
 
 manifested whether it could submit a certification from iCONN,
 
-ABS -CBN’s third -party service provider , attesting that all e -mails
+ABS -CBN’s third -party service provider, attesting that all emails
 
 were successfully delivered and that there were only seven (7)
 
@@ -279,31 +273,27 @@ explained that sixty -four (64) call -outs were actually made, but four
 
 (4) of the call recordings were no longer on file; thus, only sixty (60)
 
-call recordings were submitted through e -mail on 12 May 2021 .38
+call recordings were submitted through email on 12 May 2021 .38
 
 Lastly, ABS -CBN stated that it submitted a copy of the certification
 
 > 29 Letter Re: Order of the Commission En Banc dated 11March 2021 (CID BN 18 -179 “IN RE: ABS -CBN
-> CORPORATION”) , 14 February 2022, in In Re: ABS -CBN Corporation , NPC BN 18 -179 (NPC 2022).
+> CORPORATION”) , 14 February 2022, in In Re: ABS -CBN Corporation, NPC BN 18 -179 (NPC 2022).
 > 30 Id.
 > 31 Id.
 > 32 Id.
 > 33 Id.
 > 34 Id.
-> 35 E-mail from LSA , Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (03 March 2022).
+> 35 E-mail from LSA, Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (03 March 2022).
 > 36 Id.
 > 37 Id.
 > 38 Id.
 
-NPC BN 18 -179
-
 In Re: ABS -CBN Corporation
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 from the courier to prove that seven (7) mails were successfully
 
-delivered to the recipients who had no e -mail addresses nor contact
+delivered to the recipients who had no email addresses nor contact
 
 numbers on record. 39
 
@@ -323,9 +313,9 @@ hundred nine (209) affected data subjects. 41  According to ABS -CBN,
 
 out of the two -hundred nine (209) affected data subjects, two -
 
-hundred two (202) were notified by e -mail. 42  ABS -CBN manifested
+hundred two (202) were notified by email. 42  ABS -CBN manifested
 
-that it submitted copies of the two hundred one (201) e -mails to the
+that it submitted copies of the two hundred one (201) emails to the
 
 Commission on 12 May 2021, while the remaining e-mail was
 
@@ -347,46 +337,42 @@ subjects whose contact numbers were found on record .46  It reported
 
 that it submitted the recordings of the sixty (60) successful callouts in
 
-three (3) separate e -mails to the Commission. 47
+three (3) separate emails to the Commission. 47
 
-In its e -mail to the Commission dated 18 August 2022, ABS -CBN
+In its email to the Commission dated 18 August 2022, ABS -CBN
 
-attached the Sworn Affidavit of R SC , the team lead who was directly
+attached the Sworn Affidavit of R SC, the team lead who was directly
 
 involved in sending the notification to affected data subjects by e -
 
 > 39 Id.
 > 40 Letter Re: Compliance with Order dated 11 March 2021 (CID BN 18 -179 “IN RE: ABS -CBN CORPORATION”) , 01
-> August 2022, in In Re: ABS -CBN Corporation , NPC BN 18 -179 (NPC 2022).
-> 41 E-mail from LSA , Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (18 August 2022).
+> August 2022, in In Re: ABS -CBN Corporation, NPC BN 18 -179 (NPC 2022).
+> 41 E-mail from LSA, Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (18 August 2022).
 > 42 Id.
 > 43 Id.
 > 44 Id.
 > 45 Id.
 > 46 Id.
-> 47 E-mail from LSA , Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission ( 18 August 2022).
-
-NPC BN 18 -179
+> 47 E-mail from LSA, Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission ( 18 August 2022).
 
 In Re: ABS -CBN Corporation
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 mail. 48  Further, ABS -CBN re -sent the recordings of the sixty (60)
 
 successful callouts .49
 
-Issue
+### Issue
 
 Whether the submissions of ABS -CBN sufficiently complied with the
 
 Order dated 11 March 2021.
 
-Discussion
+### Discussion
 
 The Commission resolves to close the case upon finding that ABS -
 
-CBN has complied with the Order dated 11 March 20 21 .
+CBN has complied with the Order dated 11 March 2021 .
 
 In concurrence with the EnD’s assessment, 50  the Commission finds
 
@@ -426,11 +412,7 @@ not be limited to:
 > 49 Id.
 > 50 Enforcement Assessment Report, 27 September 2022, at 4, in In re: ABS -CBN Corporation, NPC BN 18 -179 (NPC 2022) .
 
-NPC BN 18 -179
-
 In Re: ABS -CBN Corporation
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 4.  measures taken to reduce the harm or negative
 
@@ -476,7 +458,7 @@ concerns. 55
 
 In addition, the copies of the e-mails sent to the affected data
 
-subjects, 56  the Sworn Affidavit of RSC ,57  the recordings of phone calls
+subjects, 56  the Sworn Affidavit of RSC,57  the recordings of phone calls
 
 to affected data subjects, 58  and the delivery status report from the
 
@@ -492,28 +474,24 @@ the case be closed. 61  The Commission affirms the EnD’s
 
 recommendation and closes the case.
 
-> 51 National Privacy Commission ,Personal Data Breach Management ,Circular No. 3, Series of 2016 [NPC Circ. No. 16 -03],
+> 51 National Privacy Commission,Personal Data Breach Management,Circular No. 3, Series of 2016 [NPC Circ. No. 16 -03],
 > §18 (C) (15 December 2016) .
-> 52 E-mail from LSA , Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (12 May 2021) ,
+> 52 E-mail from LSA, Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (12 May 2021) ,
 > Annex A.
 > 53 Id.
 > 54 Id.
 > 55 Id.
 > 56 Id. Annex C.
 > 57 Id. Annex A.
-> 58 E-mail from LSA , Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (12 May 2021) ,
+> 58 E-mail from LSA, Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (12 May 2021) ,
 > Annex F.
-> 59 E-mail from LSA , Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (12 May 2021) .
+> 59 E-mail from LSA, Data Protection Officer of ABS -CBN Corporation, to National Privacy Commission (12 May 2021) .
 > 60 Enforcement Assessment Report, 27 September 2022, at 6, in In re: ABS -CBN Corporation, NPC BN 18 -179 (NPC 2022) .
 > 61 Id.
 
-NPC BN 18 -179
-
 In Re: ABS -CBN Corporation
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-Nonetheless , the Commission stresses that the determination of
+Nonetheless, the Commission stresses that the determination of
 
 whether ABS -CBN’s acts or omissions contributed to the breach or
 
@@ -523,7 +501,7 @@ Circular 16 -03 and the matters currently before the Commission .
 
 WHEREFORE, premises considered, the Commission resolves that
 
-NPC BN 18-179 – In re : ABS -CBN Corporation is hereby CLOSED .
+NPC BN 18-179 – In re : ABS -CBN Corporation is hereby **CLOSED** .
 
 Further, pursuant to Rule X, Section 1 of NPC Circular 2021 -01 (2021
 
@@ -533,11 +511,11 @@ and Investigation Division (CID) to conduct a sua sponte investigation
 
 on possible violations  under Republic Act No. 10173, otherwise
 
-known as the Data Privacy Act of 2012 , that may have been
+known as the Data Privacy Act of 2012, that may have been
 
 committed by ABS -CBN Corporation .
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines .
 

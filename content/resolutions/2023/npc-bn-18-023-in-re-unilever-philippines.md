@@ -1,11 +1,17 @@
 ---
 title: "NPC BN 18-023: In Re: Unilever Philippines"
-description: "NPC BN 18-023: In Re: Unilever Philippines"
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC BN 18-023"
+  - "npc bn 18-023"
+  - "In Re: Unilever Philippines"
+  - "in re: unilever philippines"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-11-13"
 draft: false
 ---
 

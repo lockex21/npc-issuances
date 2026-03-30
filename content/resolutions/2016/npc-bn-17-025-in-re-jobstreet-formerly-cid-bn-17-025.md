@@ -1,11 +1,17 @@
 ---
 title: "NPC BN 17-025: In re: Jobstreet.com"
-description: "Jobstreet.com failed to submit required Personal Data Breach Management documentation despite Commission orders; ordered to comply within 10 days and show cause regarding non-compliance."
+description: "Resolution directing Jobstreet.com to submit a Personal Data Breach Management report and show cause regarding its failure to comply with prior Commission orders."
+aliases:
+  - "NPC BN 17-025"
+  - "npc bn 17-025"
+  - "In re: Jobstreet.com"
+  - "in re: jobstreet.com"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2016"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2020
+  - npc-case
+date: "2020-12-17"
 draft: false
 ---
 
@@ -20,9 +26,13 @@ draft: false
 ## Source Tags
 - Security measures, Personal Data Breach Management, Documentation, Security of Personal Information
 
-## Decision Text
+## Resolution Text
 
-### These Proceedings
+IN RE: JOBSTREET.COM
+
+x----------------------------------------------------x
+
+**NAGA, D.P.C.:**
 
 This Resolution refers to the data breach notifications that the Commission received on four (4) separate occasions dated as follows: 17 December 2016; 18 October 2017; 25 October 2017; and 26 October 2017 from Jobstreet.com (Jobstreet) in relation to a data breach pertaining to a single data set containing sensitive personal information of more than seventeen (17) million users.[^1]
 
@@ -44,7 +54,7 @@ On 15 July 2020, this Commission’s Enforcement Division (EnD) sent a Complianc
 
 ### Discussion
 
-This Commission finds that the submission of Personal Data Breach Management report as a necessary step to improve the personal data breach management and policies of Personal Information Controllers (PICs) such as Jobstreet. Section 9 of the NPC Circular 16-03 provides:
+This Commission finds that the submission of Personal Data Breach Management report as a necessary step to improve the personal data breach management and policies of Personal Information Controllers (PICs) such as Jobstreet. **Section 9 of the NPC Circular 16-03 provides:**
 
 > All actions taken by a personal information controller or personal information processor shall be properly documented. Reports should include:
 >
@@ -66,8 +76,6 @@ While Jobstreet sent several submissions, participated in coordination meetings,
 
 Furthermore, this Commission clarifies and reiterates that in cases of data breach, the PICs’ obligations does not end with the mere provisions of updates on their investigation and the measures it implemented. Compliance with the law also warrants the PICs’ rigorous and complete submission of documents required by the Commission and timely observance of its orders.
 
-### Dispositive Portion
-
 **WHEREFORE**, premises considered, Jobstreet.com is hereby **ORDERED** to comply with the following within ten (10) days from receipt of this Order:
 
 1. **SUBMIT** a Personal Data Breach Management report in compliance with Section 9 of the NPC Circular 16-03; and
@@ -75,29 +83,34 @@ Furthermore, this Commission clarifies and reiterates that in cases of data brea
 
 **SO ORDERED.**
 
----
+Pasay City, Philippines. 17 December 2020.
 
 **JOHN HENRY D. NAGA**
+
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
 **RAYMUND ENRIQUEZ LIBORO**
+
 Privacy Commissioner
 
 **LEANDRO ANGELO Y. AGUIRRE**
+
 Deputy Privacy Commissioner
 
-COPY FURNISHED:
+Copy furnished:
 
-MM, Data Protection Officer, General Counsel
+MM
+Data Protection Officer, General Counsel
 Seek Asia (Jobstreet.com Shared Services Sdn. Bhd.)
+
 COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 
 [^1]: Resolution dated 01 August 2019.
-[^2]: DHL Express Proof of Delivery dated 30 June 2020.
+[^2]: DHL Express Proof of Delivery dated 16 August 2019.
 [^3]: This refers to the 01 August 2019 Resolution.
 [^4]: Proof of Delivery dated 03 August 2020.
 [^5]: Proof of Delivery dated 03 August 2020.

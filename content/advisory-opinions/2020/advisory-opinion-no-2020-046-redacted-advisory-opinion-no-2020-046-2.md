@@ -1,6 +1,6 @@
 ---
-title: "Redacted-Advisory-Opinion-No.-2020-046"
-description: "9 November 2020 '''''''''' ''''''''' ''''' '''''''''''''''''''''''''' ''''''''''''''''''' ''''''''' '''''''''' '''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2020-046 — Common Practices of Schools in Processing Personal Data of Students"
+description: "Guidance on school practices for processing student personal data including posting class lists and photos on social media during online learning."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,27 +11,24 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2020-046
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-046.pdf
+- Issue date: 09/11/2020
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                         ADVISORY OPINION NO. 2020-0461
 
  9 November 2020
- '''''''''' ''''''''' ''''' '''''''''''''''''''''''''' '''''''''''''''''''
- ''''''''' ''''''''''
- '''''''''''''''''''''''''''
 
-
-                     Re: COMMON PRACTICES OF SCHOOLS IN PROCESSING
+   Re: COMMON PRACTICES OF SCHOOLS IN PROCESSING
                          PERSONAL DATA OF STUDENTS
 
-Dear ''''''''' ''''''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an Advisory Opinion received by the National
 Privacy Commission (NPC) to provide clarification and guidance on school practices during
 this time of COVID-19 pandemic vis-à-vis the provisions of the Data Privacy Act of 20122
 (DPA). The following are your inquiries and our corresponding responses:
+
+### Discussion
 
 1. On posting of class list
 
@@ -39,7 +36,7 @@ We understand that before the school year starts, the class roster (which includ
 full name, name of the school, grade level, section, and sometimes students’ test score when
 they took the school’s entrance/qualifying exam), are posted on the:
 
-      a. School’s bulletin board; and
+   a. School’s bulletin board; and
       b. School’s official social media account (e.g. Facebook) and/or official website.
 
 You ask whether NPC Advisory Opinion No. 2018-020 is applicable to Item A. You likewise
@@ -52,8 +49,6 @@ processing
 
 Under the DPA, information about an individual’s education is categorized as sensitive
 personal information,3 the processing of which is generally prohibited unless covered by the
-
-1 Tags: school practices; education sector; online education; lawful criteria for processing; consent; minors; children; sensitive
 
 personal information; data subject rights
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
@@ -69,36 +64,36 @@ information as these are related to the student’s education. The processing, w
 disclosure or posting, of the enumerated information must be in accordance with Section 13
 of the DPA, viz:
 
-       SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of
+   SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of
        sensitive personal information and privileged information shall be prohibited, except in
        the following cases:
 
-       (a) The data subject has given his or her consent, specific to the purpose prior to the
+   (a) The data subject has given his or her consent, specific to the purpose prior to the
        processing, or in the case of privileged information, all parties to the exchange have given
        their consent prior to processing;
 
-       (b) The processing of the same is provided for by existing laws and regulations: Provided,
+   (b) The processing of the same is provided for by existing laws and regulations: Provided,
        That such regulatory enactments guarantee the protection of the sensitive personal
        information and the privileged information: Provided, further, That the consent of the
        data subjects are not required by law or regulation permitting the processing of the
        sensitive personal information or the privileged information;
 
-       (c) The processing is necessary to protect the life and health of the data subject or another
+   (c) The processing is necessary to protect the life and health of the data subject or another
        person, and the data subject is not legally or physically able to express his or her consent
        prior to the processing;
 
-       (d) The processing is necessary to achieve the lawful and noncommercial objectives of
+   (d) The processing is necessary to achieve the lawful and noncommercial objectives of
        public organizations and their associations: Provided, That such processing is only
        confined and related to the bona fide members of these organizations or their
        associations: Provided, further, That the sensitive personal information are not
        transferred to third parties: Provided, finally, That consent of the data subject was
        obtained prior to processing;
 
-       (e) The processing is necessary for purposes of medical treatment, is carried out by a
+   (e) The processing is necessary for purposes of medical treatment, is carried out by a
        medical practitioner or a medical treatment institution, and an adequate level of
        protection of personal information is ensured; or
 
-       (f) The processing concerns such personal information as is necessary for the protection
+   (f) The processing concerns such personal information as is necessary for the protection
        of lawful rights and interests of natural or legal persons in court proceedings, or the
        establishment, exercise or defense of legal claims, or when provided to government or
        public authority.
@@ -182,18 +177,18 @@ We quote herein the Data Privacy and Online Learning Advisory 5 from the Data Pr
 Council Education Sector, a stakeholders group working closely with the National Privacy
 Commission:
 
-         “C. On the use of social media
+   “C. On the use of social media
 
-                                                  xxx       xxx      xxx
+   xxx       xxx      xxx
 
-         2. Posting or sharing of personal data (e.g., photos, videos, etc.) on social media must
+   2. Posting or sharing of personal data (e.g., photos, videos, etc.) on social media must
          always have a legitimate purpose. Such purpose, along with the type of personal data
          involved, often determines whether or not the consent of affected data subjects is
          necessary prior to such posting or sharing.
 
-         3. Even when posting of personal data is determined to be allowed:
+   3. Even when posting of personal data is determined to be allowed:
 
-              a.   the numerous risks inherent in social media platforms should still be properly
+   a.   the numerous risks inherent in social media platforms should still be properly
                    appreciated. Adherence to the principles of legitimate purpose and
                    proportionality is encouraged at all times.
               b.   it must be carried out using only authorized or official social media accounts of
@@ -263,7 +258,6 @@ The school would have to make the determination of the most appropriate lawful b
 processing, taking into account all relevant circumstances of the processing, adherence to the
 general data privacy principles of transparency, legitimate purpose, and proportionality, as
 
-
 7 Article 29 Data Protection Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and determining
 
 whether processing is “likely to result in a high risk” for the purposes of Regulation 2016/679, Item III (B)(a)(7), 4 April
@@ -305,9 +299,6 @@ may change the context of the inquiry and the appreciation of the facts.
 For your reference.
 
 Very truly yours,
-
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner

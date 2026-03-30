@@ -1,19 +1,22 @@
 ---
 title: "FAQs on the Guidelines on Administrative Fines"
-description: "1. The Guidelines cover all Personal Information Controllers (PICs) and Personal Information Processors (PIPs) as defined by the Data Privacy Act of 2012 (DPA). Does this cover even PICs and PIPs established outside of the Philippines?"
+description: "Questions and answers on the NPC Guidelines governing the scope, computation, and implementation of administrative fines for violations of the Data Privacy Act."
 aliases:
+  - "FAQs on the Guidelines on Administrative Fines"
   - "faqs on the guidelines on administrative fines"
+  - "guidelines on administrative fines faq"
+  - "npc faqs administrative fines"
 tags:
   - "issuance"
   - "type/faq"
-  - "year/undated"
+date: "2023-05-01"
 draft: false
 ---
 
 ## Issuance Text
 **FREQUENTLY ASKED QUESTIONS ON THE GUIDELINES ON ADMINISTRATIVE FINES**
 
-## Section 1 - Scope
+**Section 1 - Scope**
 
 1. **The Guidelines cover all Personal Information Controllers (PICs) and Personal Information Processors (PIPs) as defined by the Data Privacy Act of 2012 (DPA). Does this cover even PICs and PIPs established outside of the Philippines?**
 
@@ -23,7 +26,7 @@ Yes, the Circular covers PICs and PIPs established outside of the Philippines. S
 
 Yes, the Circular applies to entities not registered with the NPC, provided that those entities are covered by the DPA.
 
-## Section 2 - Administrative Fines
+**Section 2 - Administrative Fines**
 
 3. **Why are percentage fines used by the Commission instead of a fixed amount of fine?**
 
@@ -81,7 +84,7 @@ The Commission shall evaluate PICs and PIPs based on the pleadings and evidence 
 
 No, the DPA was enacted in 2012 and the Commission was constituted in 2016. Since then, the Commission has been actively promoting, educating, and assisting the stakeholders, such as the PICs and PIPs. Hence, there is no need to allow additional time for PICs and PIPs to adjust and prepare as the Commission has given these PICs and PIPs sufficient time and support to make the necessary changes, adjustments in processes and implement measures to comply with the law.
 
-## Section 3 - Factors Affecting Fines
+**Section 3 - Factors Affecting Fines**
 
 12. **How will the Commission define the standard for determining the factors that affect fines? Will the Commission provide examples or specific circumstances that may be considered as aggravating or mitigating factors?**
 
@@ -93,13 +96,13 @@ Yes, for natural and juridical entities established in foreign jurisdictions tha
 
 On the other hand, for natural and juridical entities established in the Philippines, the “gross annual income” includes the income derived from all sources within and without the Philippines, in adherence to the definition of “gross annual income” under the Philippine laws on Taxation.
 
-## Section 4 - Due Process
+**Section 4 - Due Process**
 
 14. **Will the 2021 Rules of Procedure of the NPC apply?**
 
 Yes, as stated in Section 4 of the Circular, the Rules of Procedure of the NPC will apply. The applicable Rules of Procedure shall depend on whichever set of Rules of Procedure is in effect at the time the infraction is committed.
 
-## Section 5 - Appeal
+**Section 5 - Appeal**
 
 15. **Will an appeal stay the execution and imposition of administrative fines?**
 
@@ -111,7 +114,7 @@ In any or all actions assailing the Decision or Resolution of the Commission per
 
 The PICs or PIPs shall pay the fine imposed, in cash or manager’s check, through the Finance and Administrative Office (FAO) of the Commission.
 
-## Section 6 - Posting of Bond on Imposed Administrative Fines
+**Section 6 - Posting of Bond on Imposed Administrative Fines**
 
 17. **What will be the effect of the failure to post the cash or surety bond?**
 
@@ -121,13 +124,13 @@ The non-posting of bond shall result in the immediate execution of the imposed a
 
 No, the Commission will not entertain a Motion to Reduce bond for whatever reason.
 
-## Section 7 - Refusal to Comply
+**Section 7 - Refusal to Comply**
 
 19. **Section 7 of the DPA and Section 4 of [[issuances/1988/faqs|NPC Circular No. 20-02]] on the Rules on the Issuance of Cease-and-Desist Orders (CDO) identify the specific parameters within which to issue a CDO. Refusal to pay is not a ground for the issuance of a CDO. How can the foregoing provision be reconciled with Section 7 of the Circular on Administrative Fines?**
 
 As worded, Section 7 of the Circular used the word "may" which highlights the Commission’s discretion to issue a CDO depending on the circumstances of each case. The Commission’s power to issue a CDO is rooted in the [[laws/data-privacy-act-of-2012|DPA]]. Following this, [[issuances/1988/faqs|NPC Circular No. 20-02]] provides for an initial list of the grounds for the issuance of a CDO. The Commission, through this Circular, provides an additional ground for the issuance of a CDO.
 
-## Section 10 - Applicability Clause
+**Section 10 - Applicability Clause**
 
 20. **Section 10 states that: “These rules apply to covered PICs and PIPs for the above infractions prospectively.” Does this mean that the Circular would not apply to pending cases?**
 
@@ -135,7 +138,7 @@ Yes, the Circular does not apply to pending cases because it applies prospective
 
 Administrative fines imposed on a PIC or PIP may arise not only from complaints filed against a PIC or PIP but also from a PIC or PIP’s failure to comply with Commission orders, directives, or issuances.
 
-## Other Matters
+**Other Matters**
 
 21. **Is the Commission authorized to impose administrative fines under the [[laws/data-privacy-act-of-2012|DPA]]?**
 

@@ -1,13 +1,22 @@
 ---
-title: "NPC 19-438: RPR v. Edukasyon.ph"
-description: "NPC 19-438: RPR v. Edukasyon.ph"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: 'NPC 19-438: RPR v. Edukasyon.ph'
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC 19-438: RPR v. Edukasyon.ph'
+aliases:
+- NPC 19-438
+- npc 19-438
+- RPR v. Edukasyon.ph
+- rpr v. edukasyon.ph
+date: '2019-10-02'
 ---
+
+
+
 
 ## Source
 - Reference: NPC 19-438
@@ -21,21 +30,19 @@ draft: false
 - Procedures in Security Incident or Personal Data Breach, Security Incident Management Policy, Notification of Data Subjects, Personal Information Controller
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-RPR ,
+RPR,
 
 Complainant,
 
--versus -
+-versus-
 
-EDUKASYON.PH ,
+EDUKASYON.PH,
 
 Respondent.
 
 x----------------------------------------------------x
 
-AGUIRRE , D. P.C.;
+AGUIRRE, D. P.C.;
 
 Before the Commission is a complaint filed by RPR for a possible
 
@@ -45,7 +52,7 @@ when it emailed a “thank you letter” to all the participants of one of
 
 its event s.
 
-Facts
+### Facts
 
 RPR participated in the Amazon Web Services Siklab Pilipinas Online
 
@@ -71,24 +78,6 @@ that points to a zip file .4 When he opened the zip file, it had the
 > 3Id. at 3 .
 > 4Id. at 5.
 
-NPC 19 -438
-
-For: Violation of the
-
-Data Privacy Act of
-
-2012 NPC 19 -438
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-names and corresponding certificate s of one hundred and three (103)
-
-participants , including himself .5
-
-RPR contend ed that Edukasyon violated Sections 25, 26, 29, 32, 33,
-
-and 35 of Republic Act No. 10173 or the Data Privacy Act of 2012
-
 (DPA). 6 RPR pray ed for a fine to be imposed and a cease and desist
 
 order to be issued against Edukasyon. 7
@@ -97,7 +86,7 @@ On 12 September 2019, the parties were ordered to appear before the
 
 Commission to confer for discovery on 02 October 2019. 8
 
-On 02 October 2019 , an Order was issued directing Edukasyon to file
+On 02 October 2019, an Order was issued directing Edukasyon to file
 
 its responsive comment to the complaint within ten (10) days from
 
@@ -129,7 +118,7 @@ personal data breach and to submit its Security Incident Management
 
 Policy. 13 The dispositive portion of the Order provides:
 
-WHEREFORE, premises considered, the Commission ORDERS
+WHEREFORE, premises considered, the Commission **ORDERS**
 
 Edukasyon.ph to submit its Security Incident Management
 
@@ -145,29 +134,25 @@ Policy and to notify its affected data subjects of the breach and
 > 12 Id.
 > 13 Order, 03 February 2022, in RPR v. Edukasyon.ph, NPC 19 -438 (NPC 2022).
 
-NPC 19 -438
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 submit proof of notification thereof to the Commission within a
 
 non -extendible period of thirty (30) days from its receipt of the
 
 Order.
 
-SO ORDERED. 14
+**SO ORDERED.** 14
 
 Thus, the Commission shall determine Edukasyon ’s Compliance with
 
 the Order dated 03 February 2022 .
 
-Issue
+### Issue
 
 Whether Edukasyon sufficiently complied with the Order dated 03
 
 February 2022 .
 
-Discussion
+### Discussion
 
 Section 18 (D) of NPC Circular 16 -03 (Personal Data Breach
 
@@ -197,7 +182,7 @@ The personal information controller shall establish all
 
 reasonable mechanisms to ensure that all affected data subjects
 
-are made aware of the breach : Provided , that where individual
+are made aware of the breach : Provided, that where individual
 
 notification is not possible or would require a disproportionate
 
@@ -209,13 +194,9 @@ notification, such as through public communication or any
 
 similar measure through which the data subjects are informed
 
-in an equally effective manner: Provided further , that the
+in an equally effective manner: Provided further, that the
 
 > 14 Id.
-
-NPC 19 -438
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 personal information controller shall establish means through
 
@@ -223,17 +204,17 @@ which the data subjects can exercise their rights and obtain
 
 more detailed information relating to the breach. 15
 
-Whenever a personal data breach occurs , the personal information
+Whenever a personal data breach occurs, the personal information
 
 controller (PIC) shall identify the data subjects who are affected by
 
 the breach and shall notify all of them individually using secure
 
-means of communication . In this case, Edukasyon , as the PIC, should
+means of communication . In this case, Edukasyon, as the PIC, should
 
 individually notify all affected data subjects through secure means of
 
-communication , whether written or electronically.
+communication, whether written or electronically.
 
 On 17 July 2022, Edukasyon submitted its Entry of Appearance with
 
@@ -283,10 +264,6 @@ respondent; and
 > (NPC 2022).
 > 20 Id. at 4 .
 
-NPC 19 -438
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 B.  Provide the status of the remaining notifications needed to
 
 the participants who are not included in Annex G of said
@@ -297,19 +274,19 @@ On 08 August 2022, the NPC, through the EnD, received Edukasyon’s
 
 Supplemental Compliance. 22 Edukasyon explained that only
 
-seventy -eight (78) participants , instead of ninety -one (91)
+seventy -eight (78) participants, instead of ninety -one (91)
 
-participants , were actually notified of the personal data breach .23
+participants, were actually notified of the personal data breach .23
 
 From the seventy -eight (78) participants notified as reported in
 
-Edukasyon’s Initial Compliance , some of the participants had
+Edukasyon’s Initial Compliance, some of the participants had
 
 inputted multiple email addresses. 24 As such, t he multiple email
 
 addresses caused the discrepancy in the number of actual
 
-participants notified. 25 In Edukasyon’s Initial Compliance , t here were
+participants notified. 25 In Edukasyon’s Initial Compliance, t here were
 
 thirteen (13) surplus breach notification email s sent to the same set of
 
@@ -355,10 +332,6 @@ These policies and procedures must ensure:
 > 25 Id. at 3 -4.
 > 26 Id. at 3 -4.
 > 27 Id. at 4 & Annex D.
-
-NPC 19 -438
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 A. Creation of a data breach response team, with members that
 
@@ -434,10 +407,6 @@ Section 4 of NPC Circular 16 -03 (Personal Data Breach Management) .
 > 30 Final Enforcement Assessment Report, Enforcement Division, 17 August 2022, at 3, in RPR v. Edukasyon.ph NPC 19 -
 > 438 (NPC 2022).
 
-NPC 19 -438
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 As such, the Commission finds that Edukasyon’s submission of its
 
 Security Incident Management Program adheres to the DPA, its IRR
@@ -462,9 +431,9 @@ WHEREFORE, premises considered, this Commission finds the
 
 compliance of Edukasyon .ph with the Order dated 03 February 2022
 
-SUFFICIENT . This Commission considers the matter CLOSED .
+SUFFICIENT . This Commission considers the matter **CLOSED** .
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines.
 
@@ -487,8 +456,6 @@ Privacy Commissioner
 Copy furnished:
 
 RPR NPC 19 -438
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Complainant
 

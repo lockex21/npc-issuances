@@ -1,17 +1,18 @@
 ---
-title: "Annex 1 (Circular No. 2022-04)"
-description: "SWORN DECLARATION AND UNDERTAKING FOR EXEMPTION FROM REGISTRATION OF DATA PROCESSING SYSTEMS"
 aliases:
-  - "Circular No. 2022-04"
-  - "annex 1"
-  - "circular no. 2022-04"
-  - "npc circular no. 2022-04"
-tags:
-  - "issuance"
-  - "topic/registration"
-  - "type/circular"
-  - "year/2022"
+- Circular No. 2022-04
+- annex 1
+- circular no. 2022-04
+- npc circular no. 2022-04
+date: '2022-12-05'
+description: "SWORN DECLARATION AND UNDERTAKING FOR EXEMPTION FROM REGISTRATION OF DATA PROCESSING SYSTEMS"
 draft: false
+tags:
+- issuance
+- topic/registration
+- type/circular
+- year/2022
+title: "Annex 1 (Circular No. 2022-04)"
 ---
 
 
@@ -53,7 +54,7 @@ d. The entity is not a government agency or instrumentality.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this _____ day of ______________, 20__ at ____________, Philippines.
 
-                                           [Name of Data Protection Officer/Authorized Representative]
+   [Name of Data Protection Officer/Authorized Representative]
                                                                       Affiant
 
 SUBSCRIBED AND SWORN before me this ____ day of ______, 20__ with the Affiant presenting a competent proof of identity _________________________________ issued at _____________________ on _______________________.

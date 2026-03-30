@@ -1,12 +1,18 @@
 ---
-title: "NPC 21-251: AFV v. FRA"
-description: "NPC 21-251: AFV v. FRA"
+title: 'NPC 21-251: AFV v. FRA'
+description: Complaint alleging data privacy violations; decided on 2024-08-01.
 tags:
-  - "decision"
-  - "type/decision"
-  - "year/2024"
-  - "npc-case"
+- decision
+- type/decision
+- year/2021
+- npc-case
 draft: false
+aliases:
+- NPC 21-251
+- npc 21-251
+- AFV v. FRA
+- afv v. fra
+date: '2024-08-01'
 ---
 
 ## Source
@@ -28,7 +34,7 @@ AFV ,
 
 Complainant,
 
--versus -
+-versus-
 
 FRA ,
 

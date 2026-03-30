@@ -1,13 +1,12 @@
 ---
-title: "Advisory Opinion No. 2020-023 — Public Posting of Listahanan Respondents"
-description: "''''''''''''''''''''' ''' ''''''''''''''''''''''''''''' '''''''''''' ''''' '''''''''''' ''''''''''''''' '''''''''''' ''''''' '''''''''''''''' ''' ''''''' ''''''''' ''''' ''''''''''''''' ''''''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2020-023 — Public Posting of Listahanan Respondents"
+description: "Public posting of Listahanan respondents for poverty reduction program by the Department of Social Welfare and Development."
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
 draft: false
 ---
-
 ## Source
 - Reference: Advisory Opinion No. 2020-023
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-023.pdf
@@ -17,20 +16,10 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                     ADVISORY OPINION NO. 2020-0231
 
-  11 June 2020
+Re:              PUBLIC POSTING OF LISTAHANAN RESPONDENTS
 
-  ''''''''''''''''''''' ''' '''''''''''''''''''''''''''''
-  '''''''''''' ''''' '''''''''''' ''''''''''''''' '''''''''''' '''''''
-  '''''''''''''''' ''' ''''''' ''''''''' ''''' '''''''''''''''
-  ''''''''''''''''''''''''''''''''''''
-
-              Re:              PUBLIC POSTING OF LISTAHANAN RESPONDENTS
-
-
-Dear '''''''''' '''''''''''''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to clarify whether the public display of personal
@@ -53,13 +42,11 @@ on possible errors such as family information, classification and non-assessment
 grievances shall then be evaluated by the Barangay Verification Committee and Local
 Verification Committee at the municipal level.
 
+### Discussion
+
 Lawful processing of personal information;
 Functions of the public authority; statutory
 mandate
-
-
-1 Tags: personal information; sensitive personal information; DSWD; Listahanan; privacy notice.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
 
 2012], Republic Act No. 10173 (2012).
 
@@ -105,7 +92,6 @@ publicly posted should be carefully evaluated if the same is indeed necessary an
 proportional to the purpose. Note that generally, the processing (which includes public
 posting/disclosure) of sensitive personal information is prohibited, except for the instances
 provided by Section 13 of the DPA.
-
 
 3 Data Privacy Act of 2012, § 12 (e).
 4 Official Gazette, Department of Social Welfare and Development, available at
@@ -162,12 +148,7 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
-
-
-
 
 8 Id. § 22.

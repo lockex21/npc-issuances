@@ -1,10 +1,10 @@
 ---
-title: "NPC Advisory Opinion No. 2018-010"
-description: "''''''''''' ''''' '''''''''''''''''''''''''''' '''''' '''''''''''' '''''''''' '''''''''''''''' ''' '''''''''''' ''''''''''''''' ''''' ''''''' '''''''' ''''' ''''''''''''''' ''''''''''''''' ''''''''''"
+title: "NPC Advisory Opinion No. 2018-010 — Precinct Finder and COMELEC Minute Resolution No. 17-0715"
+description: "Advisory opinion on the compliance of COMELEC's Precinct Finder alternative with the Data Privacy Act, considering voter data minimization and prior data breach concerns."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2018"
+  - issuance
+  - type/advisory-opinion
+  - year/2018
 draft: false
 ---
 
@@ -12,39 +12,24 @@ draft: false
 - Reference: Advisory Opinion No. 2018-010
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/AdOpNo.2018-010.pdf
 - Issue date: 05/04/2018
-- Tags: National and local elections (nle); personal data breach; voter registration records
+- Tags: voter information; precinct finder; data minimization; data breach; COMELEC; elections
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                     ADVISORY OPINION NO. 2018-010
 
 4 May 2018
 
-''''''''''' ''''' '''''''''''''''''''''''''''' ''''''
-'''''''''''' ''''''''''
-'''''''''''''''' ''' '''''''''''' '''''''''''''''
-''''' ''''''' '''''''' ''''' '''''''''''''''
-''''''''''''''' ''''''''''
+Re: PRECINCT FINDER AND COMELEC MINUTE RESOLUTION NO. 17-0715
 
+Dear [Redacted],
 
-
-      RE:               PRECINCT   FINDER      AND                              COMELEC                MINUTE
-                        RESOLUTION NO. 17-0715
-
-
-Dear '''''''''''''''''''''''''' '''''''''''''''''''''''''''''',
-
-This pertains to your letter received by the Privacy Policy Office of the National Privacy
-Commission (NPC) on 27 February 2018, requesting for an opinion on whether the
-alternative precinct finder of the COMELEC is compliant with Republic Act No. 10173,1
-also known as the Data Privacy Act of 2012 (DPA).
+This pertains to your letter received by the Privacy Policy Office of the National Privacy Commission (NPC) on 27 February 2018, requesting for an opinion on whether the alternative precinct finder of the COMELEC is compliant with Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA).
 
 We understand that the Precinct Finder search facility in the COMELEC website was
 made temporarily unavailable to the public after the 2016 National and Local Elections
 (NLE). Thereafter, the following undertakings were completed:
 
-      1. The source code of the Precinct Finder used for the 2016 NLE was audited and
+   1. The source code of the Precinct Finder used for the 2016 NLE was audited and
          cleared for public access by the Department of Information and Communications
          Technology (DICT); and
       2. The COMELEC’s Information Technology Department (ITD) made an
@@ -65,13 +50,15 @@ PRIVACY COMMISSION, AND FOR OTHER PURPOSES, “Data Privacy Act of 2012” (15 A
 Hence, the following recommendations were put forward, taking into consideration the
 May 2018 Barangay and Sangguniang Kabataan Elections (BSKE):
 
-    1. Use the enhanced Precinct Finder if the source code review and audit are
+   1. Use the enhanced Precinct Finder if the source code review and audit are
        completed before May 2018;
     2. If the audit is not completed on time:
             a. The Precinct Finder intended for the 2016 NLE shall be used as it has
                already passed DICT assessment with the same number of data fields; or
             b. The Precinct Finder will not be implemented and COMELEC will announce
                the unavailability of the facility in the website.
+
+### Discussion
 
 Another proposed alternative pursuant to COMELEC Minute Resolution No. 17-0715 is
 the posting of the name of the registered voter with the precinct number in the COMELEC
@@ -92,18 +79,18 @@ Personal information controllers, such as the COMELEC, should be mindful that th
 processing of personal data should always adhere to the general data privacy principles
 of transparency, legitimate purpose, and proportionality. Specifically, the principle of
 proportionality declares that the processing of information shall be adequate, relevant,
-suitable, necessary, and not excessive in relation to a declared and specified purpose.2
+suitable, necessary, and not excessive in relation to a declared and specified purpose.[^2]
 
 Recalling the NPC’s decision in NPC Case No. 16-001:3
 
-         “… COMELEC is no ordinary data controller; it is effectively one of the Philippines’
+   “… COMELEC is no ordinary data controller; it is effectively one of the Philippines’
          largest data controllers. The COMELEC creates, maintains, and processes data to
          establish a clean, complete, permanent, and updated list of voters, through the
          adoption of biometric technology, for use in national and local elections.
 
-                                                 xxx       xxx        xxx
+   xxx       xxx        xxx
 
-         The numbers are staggering: there were a total of 76,678,750 voter registration
+   The numbers are staggering: there were a total of 76,678,750 voter registration
          records affected. Although the sensitive fields of these records were not shown to the
          public, the website database contained sensitive personal information not necessary
          for the purpose for which the data is being processed.”
@@ -116,27 +103,20 @@ Recalling the NPC’s decision in NPC Case No. 16-001:3
 Personal data in the Precinct Finder facility should be limited to those which are
 absolutely necessary for the specified purpose of said search facility. Pursuant to the
 practice of data minimization, COMELEC should identify the minimum amount of
-personal data needed to properly fulfill the Precinct Finder’s purpose.4
+personal data needed to properly fulfill the Precinct Finder’s purpose.[^4]
 
 For your reference.
 
 Very truly yours,
-
-
 
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
-
-
-
-
-4 See: Information Commissioner’s Office, The amount of personal data you may hold (Principle 3), https://ico.org.uk/for-
-
-organisations/guide-to-data-protection/principle-3-adequacy/ (last visited 28 February 2018)
+[^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, "Data Privacy Act of 2012" (15 August 2012).
+[^2]: Implementing Rules and Regulations (IRR) of RA No. 10173, §18(c).
+[^3]: In re: Investigation of the security incident involving COMELEC website and/or data processing system, NPC Case No. 16-001, 28 December 2016.
+[^4]: See: Information Commissioner's Office, The amount of personal data you may hold (Principle 3), https://ico.org.uk/for-organisations/guide-to-data-protection/principle-3-adequacy/ (last visited 28 February 2018).

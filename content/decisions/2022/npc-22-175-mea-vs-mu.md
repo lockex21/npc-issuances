@@ -1,11 +1,17 @@
 ---
-title: "NPC 22-175: MEA vs MU"
-description: "NPC 22-175: MEA vs MU"
+title: "NPC 22-175: MEA v. MU"
+description: "Complaint alleging unauthorized processing and disclosure of personal information; complaint granted with award of moral damages."
+aliases:
+  - "NPC 22-175"
+  - "npc 22-175"
+  - "MEA v. MU"
+  - "mea v. mu"
 tags:
   - "decision"
   - "type/decision"
   - "year/2022"
   - "npc-case"
+date: "2022-08-10"
 draft: false
 ---
 

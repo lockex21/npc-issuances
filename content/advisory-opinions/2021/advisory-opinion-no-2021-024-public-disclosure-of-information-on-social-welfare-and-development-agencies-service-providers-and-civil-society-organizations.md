@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-024 — Public Disclosure Of Information On Social Welfare And Development Agencies, Service Providers, And Civil Society Organizations"
-description: "''''''''''''''''''''' ''''' '''''''''''''' ''''''''' ''''''''''''' ''''''''''''' '''''''''' '''''''''''''' ''' '''''''' ''''''''' ''''' '''''''''''''''''' '''''''''''''''''''''' '''''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2021-024 — Public Disclosure Of Information On Social Welfare And Development Agencies, Service Providers, And Civil Society Organizations"
+description: "Guidance on disclosure and processing of information concerning social welfare agencies, service providers, and civil society organizations."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,65 +17,38 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                   ADVISORY OPINION NO. 2021-0241
+**7 July 2021**
 
- 7 July 2021
-
- ''''''''''''''''''''' ''''' ''''''''''''''
- ''''''''' '''''''''''''
- ''''''''''''' ''''''''''
- '''''''''''''' ''' '''''''' ''''''''' ''''' ''''''''''''''''''
- ''''''''''''''''''''''
- '''''''''''''''''''''''''''''''''''
-
-
-
-              Re:       PUBLIC DISCLOSURE OF INFORMATION ON SOCIAL
+Re:       PUBLIC DISCLOSURE OF INFORMATION ON SOCIAL
                         WELFARE AND DEVELOPMENT AGENCIES, SERVICE
                         PROVIDERS, AND CIVIL SOCIETY ORGANIZATIONS
 
-Dear '''''''' ''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for advisory opinion received by the National Privacy
 Commission (NPC) to provide guidance on the various concerns with respect to the processing of
 data pertaining to Social Welfare and Development Agencies (SWDAs), Service Providers (SPs),
 and Civil Society Organizations (CSOs) registered, licensed, and accredited by the Department of
 Social Welfare and Development (DSWD) considering the provisions of the Data Privacy Act of
-20122 (DPA).
+2012[^2] (DPA).
 
 Specifically, you ask for clarification on the following:
 
-      1. Whether the public disclosure of pertinent information of the SWDAs, SPs and CSOs is a
-         violation of the DPA:
-         • Data for research and other purpose, in compliance to Executive Order No. 2 dated 23
-             July 2016 on Freedom of Information (FOI) (E.O. No. 2, s. 2016) to be released to private
-             individuals, National Government Agencies, Local Government Units, Non-
-             Government Organizations, Business Entities and other interested parties;
-         • Data about SWDAs that were granted or received benefits, particularly those
-             organizations who received cash incentives from the DSWD;
-         • Information of Blacklisted SWDAs and CSOs; and
-         • Information sharing among offices under the DSWD such as Field Offices.
+1. Whether the public disclosure of pertinent information of the SWDAs, SPs and CSOs is a violation of the DPA:
+   - Data for research and other purpose, in compliance to Executive Order No. 2 dated 23 July 2016 on Freedom of Information (FOI) (E.O. No. 2, s. 2016) to be released to private individuals, National Government Agencies, Local Government Units, Non-Government Organizations, Business Entities and other interested parties;
+   - Data about SWDAs that were granted or received benefits, particularly those organizations who received cash incentives from the DSWD;
+   - Information of Blacklisted SWDAs and CSOs; and
+   - Information sharing among offices under the DSWD such as Field Offices.
 
+2. Whether consent or privacy notice is required for the following scenarios:
+   - Processing of application for Registration, Licensing and Accreditation of SWDAs, SPs and CSOs; and
+   - Posting of general information, i.e., Name of SWDA/SPs/CSOs, address, landline number, cellphone number, email address, contact person, certificate details, programs and services, clientele, and areas of operation, at the DSWD website.
 
-1 Tags: lawful basis for processing; social welfare and development; fulfillment of mandate of public authority; consent;
+3. Various questions on consent as a lawful basis for processing in the given scenarios above.
 
-freedom of information; privacy notice.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
+### Discussion
 
-Republic Act No. 10173 (2012).
-
-    2. Whether consent or privacy notice is required for the following scenarios:
-       • Processing of application for Registration, Licensing and Accreditation of SWDAs, SPs
-         and CSOs; and
-       • Posting of general information, i.e., Name of SWDA/SPs/CSOs, address, landline
-         number, cellphone number, email address, contact person, certificate details,
-         programs and services, clientele, and areas of operation, at the DSWD website.
-
-    3. Various questions on consent as a lawful basis for processing in the given scenarios above.
-
-Scope of the DPA; information of juridical entities;
-disclosure in accordance with governing law or regulation
+#### Scope of the DPA; Information of Juridical Entities; Disclosure in Accordance with Governing Law or Regulation
 
 We wish to clarify that the DPA only applies to the processing of personal information of natural
 persons and not information of juridical entities recognized under the law, such as corporations,
@@ -85,8 +58,7 @@ From a reading of available DSWD regulations, we understand that SWDAs, SPs, and
 juridical entities. Hence, information of these juridical entities is outside the scope of the DPA.
 Disclosure of the same is governed by some other law or regulation.
 
-Disclosure of personal data related to juridical entities;
-fulfillment of mandate of public authority
+#### Disclosure of Personal Data Related to Juridical Entities; Fulfillment of Mandate of Public Authority
 
 We take note of the following DSWD issuances:
 
@@ -103,27 +75,20 @@ all of which laid out with clarity the legal bases of DSWD’s power and authori
 and accredit SWDAs, SPs and CSOs. Pertinent to this discussion, we further cite certain objectives
 stated in MC 17, s.2018:
 
-         “2. This guideline likewise emphasizes the objectives of Registration, Licensing, and
+   “2. This guideline likewise emphasizes the objectives of Registration, Licensing, and
          Accreditation, namely:
 
-             2.1 To regulate enforce SWD standards to public and private organizations in the
+   2.1 To regulate enforce SWD standards to public and private organizations in the
                  country that are engaged or planning to engage in SWD programs and services
                  endeavors through registration, licensing, and accreditation;
              2.2 x x x
              2.3 To protect the clients against abuses, exploitations and inefficiency from
                  organizations engaging in SWD entities;
              2.4 x x x
-             2.5 To promote transparency and accountability of SWDAs to their respective
-                 donors, clients and general public.”3
-
-
-3 Department of Social Welfare and Development, Revised Guidelines Governing the Registration, Licensing of Social
-
-Welfare and Development (SWD) Agencies and Accreditation of SWD Programs and Services, Memorandum Circular No.
-07, Series of 2018 [DSWD M.C. 07, s.2018] (August 29, 2018).
+             2.5 To promote transparency and accountability of SWDAs to their respective donors, clients and general public.”[^3]
 
 Likewise, DSWD MC 13, s.2019 mentions the regulatory power of DSWD over CSOs engaged in
-the delivery of social welfare and development programs and services.4
+the delivery of social welfare and development programs and services.[^4]
 
 In relation to the above, where disclosure of personal and/or sensitive personal information
 (collectively, personal data) of individuals connected to the SWDA, SP, or CSO is involved, the
@@ -145,8 +110,7 @@ Any processing of personal data in relation to disclosure of information of Blac
 CSOs and sharing of information between DSWD offices may be anchored on the above provisions
 as well.
 
-Freedom of Information requests; general data privacy
-principles
+#### Freedom of Information Requests; General Data Privacy Principles
 
 On Freedom of Information (FOI) requests for research purposes and SWDAs who received cash
 incentives, the DSWD may disclose data relating to SWDAs, SPs and CSOs following the
@@ -160,25 +124,15 @@ and proportional to the purpose of the request, may be disclosed.
 
 We underscore the principle of proportionality under the DPA which requires that the processing
 of personal data shall be adequate, relevant, suitable, necessary, and not excessive in relation to a
-declared and specified purpose.5 Personal data shall be processed only if the purpose of the
-processing could not reasonably be fulfilled by other means.6
+declared and specified purpose.[^5] Personal data shall be processed only if the purpose of the
+processing could not reasonably be fulfilled by other means.[^6]
 
 We thus advise that any disclosure or publication of personal data should only contain relevant
 information necessary to achieve the purpose of ensuring transparency and accountability. Keep
 in mind that any processing of sensitive personal information is prohibited unless allowed under
 the instances enumerated in Section 13 of the DPA.
 
-
-
-
-4 Department of Social Welfare and Development, Guidelines on the Accreditation of Civil Society Organizations (CSOs) To
-
-Implement DSWD Programs Using DSWD Funds, DSWD Memorandum Circular No.13, Series of 2019 [DSWD MC 13,
-s.2019] (July 26, 2019).
-5 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
-6 Ibid.
-
-Lawful basis for processing; Consent; Privacy Notice
+#### Lawful Basis for Processing; Consent; Privacy Notice
 
 As discussed above, the lawfulness of the processing of personal data is primarily based upon the
 mandate of the DSWD and its compliance to legal obligations. Hence, the consent of data subjects
@@ -209,7 +163,7 @@ personal data will be made publicly available pursuant to applicable laws and re
 
 This is made through a privacy notice which is a statement made to a data subject that describes
 how the PIC collects, uses, retains, and discloses personal information, the rights of a data subject
-and how these are exercised.7
+and how these are exercised.[^7]
 
 This requirement is separate and distinct from having a lawful basis for processing and should not
 be confused with a consent form which is necessary only if consent is the basis for processing.
@@ -225,7 +179,13 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
+
+[^1]: Tags: lawful basis for processing; social welfare and development; fulfillment of mandate of public authority; consent; freedom of information; privacy notice.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: Department of Social Welfare and Development, Revised Guidelines Governing the Registration, Licensing of Social Welfare and Development (SWD) Agencies and Accreditation of SWD Programs and Services, Memorandum Circular No. 07, Series of 2018 [DSWD M.C. 07, s.2018] (August 29, 2018).
+[^4]: Department of Social Welfare and Development, Guidelines on the Accreditation of Civil Society Organizations (CSOs) To Implement DSWD Programs Using DSWD Funds, DSWD Memorandum Circular No.13, Series of 2019 [DSWD MC 13, s.2019] (July 26, 2019).
+[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^6]: Ibid.
+[^7]: See: National Privacy Commission, Data Subject Rights [NPC Advisory No. 2021 – 01], § 6 (c) (Jan. 29, 2021).

@@ -1,6 +1,6 @@
 ---
-title: "[Redacted] Advisory Opinion No. 2020-010"
-description: "''''''''''''' ''''''''''''''''''' ''''' '''''''''''''''' '''''''''''' '''''''''''''''''''''' ''''''''''''''''' '''''''''''''''''' '''''''''''''''''' ''''''''''''''''''' ''''''''' ''''''''''''''''' '''''''''''''' '''''''' '''''''''''''''''''''''..."
+title: "NPC Advisory Opinion No. 2020-010 — Philippine Health Insurance Corporation Inspection And Monitoring Activities"
+description: "Guidance on Philhealth inspection and monitoring of hospitals."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -14,28 +14,19 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                     ADVISORY OPINION NO. 2020-0101
 
 10 February 2020
 
-''''''''''''' ''''''''''''''''''' ''''' ''''''''''''''''
-'''''''''''' '''''''''''''''''''''' '''''''''''''''''
-'''''''''''''''''' '''''''''''''''''' ''''''''''''''''''' '''''''''                 '''''''''''''''''   ''''''''''''''   ''''''''
-''''''''''''''''''''''' '''''''''''''''''''''
-'''''''''' '''''''''''''' '''''''''''''''' ''''''''''' '''''''''''
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-
-
-             Re:       PHILIPPINE  HEALTH  INSURANCE    CORPORATION
+Re: PHILIPPINE  HEALTH  INSURANCE    CORPORATION
                        INSPECTION AND MONITORING ACTIVITIES
 
-Dear '''''''''' ''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to clarify several matters in relation to the inspection and
 monitoring activities conducted by the Philippine Health Insurance Corporation (Philhealth).
+
+### Discussion
 
 We understand that a representative of the Philhealth Regional Office VII visited your hospital
 to inspect and monitor the hospital’s compliance with Philhealth circulars on fraud
@@ -50,16 +41,10 @@ Philhealth’s legal counsel not to sign the same.
 
 From the foregoing, you seek clarification on the following:
 
-      1) Are the inspection and monitoring activities of the Philhealth an exemption from the
+   1) Are the inspection and monitoring activities of the Philhealth an exemption from the
          applicability of Section 5 (d) and the last paragraph thereof of the Implementing Rules
 
-
-
-
-1 Tags: Philhealth inspection and monitoring, public authority, regulatory mandate, special cases, general data privacy
-principles, non-disclosure agreement, data sharing agreement.
-
-       and Regulations2 (IRR) of the Data Privacy Act of 20123 (DPA);
+   and Regulations2 (IRR) of the Data Privacy Act of 20123 (DPA);
     2) Is Philhealth exempt from signing an NDA if their staff performs monitoring and
        inspection; and
     3) Is Philheatlh exempt from entering into a data sharing agreement (DSA) with the
@@ -72,7 +57,7 @@ mandate
 The DPA and its IRR provide for a list of specific information or special cases wherein the law
 and the rules are not applicable. Section 5(d) and the last paragraph of said section provides:
 
-         “Information necessary in order to carry out the functions of public authority, in
+   “Information necessary in order to carry out the functions of public authority, in
          accordance with a constitutionally or statutorily mandated function pertaining to law
          enforcement or regulatory function, including the performance of the functions of the
          independent, central monetary authority, subject to restrictions provided by law.
@@ -81,9 +66,9 @@ and the rules are not applicable. Section 5(d) and the last paragraph of said se
          otherwise known as the Foreign Currency Deposit Act; and Republic Act No, 9510,
          otherwise known as the Credit Information System Act (CISA).
 
-                                                 xxx      xxx       xxx
+   xxx      xxx       xxx
 
-         Provided, that the non-applicability of the Act or these Rules do not extend to personal
+   Provided, that the non-applicability of the Act or these Rules do not extend to personal
          information controllers or personal information processors, who remain subject to the
          requirements of implementing security measures for personal data protection: Provided
          further, that the processing of the information provided in the preceding paragraphs
@@ -92,7 +77,7 @@ and the rules are not applicable. Section 5(d) and the last paragraph of said se
 
 In order to apply, the following must be established:
 
-    1. Information is necessary in order to carry out the law enforcement or regulatory
+   1. Information is necessary in order to carry out the law enforcement or regulatory
        function of a public authority;
     2. Processing is for the fulfillment of a constitutional or statutory mandate;
     3. Applies only to the minimum extent of collection, access, use, disclosure, or other
@@ -147,11 +132,11 @@ Philhealth Circular No. 013 – 2015 (Revisions in the Performance Commitment fo
 Institutions and Professionals).9 You quoted the 2018 version of the Performance Commitment
 form, specifically Item E (35), to wit:
 
-         “E. REGULAR SURVEYS/ADMINISTRATIVE INVESTIGATIONS/ DOMICILIARY
+   “E. REGULAR SURVEYS/ADMINISTRATIVE INVESTIGATIONS/ DOMICILIARY
          VISITATIONS ON THE CONDUCT OF OPERATIONS IN THE EXERCISE OF THE
          PRIVILEGE OF ACCREDITATION
 
-         35. That we shall extend full cooperation with duly recognized authorities of PhilHealth
+   35. That we shall extend full cooperation with duly recognized authorities of PhilHealth
          and any other authorized personnel and instrumentalities to provide access to patient
          records and submit to any orderly assessment conducted by PhilHealth relative to any
          findings, adverse reports, pattern of utilization and/or any other acts indicative of any
@@ -185,8 +170,6 @@ change the context of the inquiry and the appreciation of the facts.
 For your reference.
 
 Very truly yours,
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner

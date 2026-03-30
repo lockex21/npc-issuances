@@ -2,15 +2,16 @@
 title: "Rules on Mediation before the National Privacy Commission (Circular No. 18-03)"
 description: "Section 1. Application and Interpretation. – In applying and construing the provisions of these Rules, consideration must be given to the need to promote candor among the parties, the confidentiality of the mediation process, and the independence of the determination and..."
 aliases:
-  - "Circular No. 18-03"
-  - "circular no. 18-03"
-  - "npc circular no. 18-03"
-  - "rules on mediation before the national privacy commission"
+- Circular No. 18-03
+- circular no. 18-03
+- npc circular no. 18-03
+- rules on mediation before the national privacy commission
 tags:
-  - "issuance"
-  - "type/circular"
-  - "year/undated"
+- issuance
+- type/circular
+- year/2018
 draft: false
+date: '2018-08-27'
 ---
 
 ## Issuance Text

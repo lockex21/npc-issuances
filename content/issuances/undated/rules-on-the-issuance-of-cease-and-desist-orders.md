@@ -2,16 +2,17 @@
 title: "Rules on the Issuance of Cease and Desist Orders (Circular No. 20-02)"
 description: "Section 3. Definition of Terms. - A. “Adverse Party” refers to a party against whom a Cease and Desist Order is sought. B. “Aggrieved Party” refers to a data subject who claims to be the subject of a privacy violation or personal data breach, including the latter’s duly..."
 aliases:
-  - "Circular No. 20-02"
-  - "circular no. 20-02"
-  - "npc circular no. 20-02"
-  - "rules on the issuance of cease and desist orders"
+- Circular No. 20-02
+- circular no. 20-02
+- npc circular no. 20-02
+- rules on the issuance of cease and desist orders
 tags:
-  - "issuance"
-  - "topic/security"
-  - "type/circular"
-  - "year/undated"
+- issuance
+- topic/security
+- type/circular
+- year/2020
 draft: false
+date: '2020-10-26'
 ---
 
 ## Issuance Text

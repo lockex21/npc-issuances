@@ -1,12 +1,20 @@
 ---
-title: "NPC 19-1411: MIP v. Colliers International Philippines represented by RDR, EDS, JSA, and ALA"
-description: "Affidavit/Complaint, 19 September 2019, at 1, in MIP v. Colliers International Philippines, NPC"
+title: 'NPC 19-1411: MIP v. Colliers International Philippines'
+description: Complaint alleging unauthorized processing and disclosure of personal
+  data including CCTV footage by property management company and individual managers;
+  partially granted.
 tags:
-  - "decision"
-  - "type/decision"
-  - "year/2024"
-  - "npc-case"
+- decision
+- type/decision
+- year/2019
+- npc-case
 draft: false
+aliases:
+- NPC 19-1411
+- npc 19-1411
+- MIP v. Colliers International Philippines
+- mip v. colliers international philippines
+date: '2024-03-21'
 ---
 
 ## Source
@@ -30,7 +38,7 @@ MIP ,
 
 Complainant,
 
--versus -
+-versus-
 
 COLLIERS INTERNATIONAL
 

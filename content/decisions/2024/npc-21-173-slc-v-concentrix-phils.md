@@ -1,12 +1,18 @@
 ---
-title: "NPC 21-173: SLC v. CONCENTRIX PHILS."
-description: "NPC 21-173: SLC v. CONCENTRIX PHILS."
+title: 'NPC 21-173: SLC v. Concentrix Philippines'
+description: Complaint alleging data privacy violations; decided on 2024-08-08.
 tags:
-  - "decision"
-  - "type/decision"
-  - "year/2024"
-  - "npc-case"
+- decision
+- type/decision
+- year/2021
+- npc-case
 draft: false
+aliases:
+- NPC 21-173
+- npc 21-173
+- SLC v. Concentrix Philippines
+- slc v. concentrix philippines
+date: '2024-08-08'
 ---
 
 ## Source
@@ -33,7 +39,7 @@ SLC ,
 
 Complainant,
 
--versus -
+-versus-
 
 CONCENTRIX PHILS.,
 

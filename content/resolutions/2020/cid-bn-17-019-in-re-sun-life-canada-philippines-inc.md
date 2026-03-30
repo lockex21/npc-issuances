@@ -1,13 +1,22 @@
 ---
-title: "CID BN 17-019: In Re: Sun Life Canada (Philippines) Inc."
-description: "CID BN 17-019: In Re: Sun Life Canada (Philippines) Inc."
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- CID BN 17-019
+- cid bn 17-019
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: CID BN 17-019
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'CID BN 17-019: In Re: Sun Life Canada (Philippines) Inc.'
 ---
+
+
+
+
 
 ## Source
 - Reference: CID BN 17-019
@@ -26,8 +35,6 @@ IN RE: SUN LIFE OF CANADA
 
 (PHILIPPINES), INC.
 
-CID BN 17 -019
-
 x-------------------------------------------x
 
 AGUIRRE , D.P.C. :
@@ -44,8 +51,7 @@ Breach Report regarding the data breach incident involving ninety -
 
 three (93) policy owners and one hundred twelve (112) policies.
 
-The Facts
-
+### Facts
 On 9 October 2017, a Sun Life advisor’s five (5) year old child
 
 accidentally spilled milk over an envelope containing a Premium
@@ -71,19 +77,16 @@ Notification Report 7 narrating the incident. It also provided that the
 personal data involved in the incident are the following:
 
 > 1Breach Notification Report of Sun Life Canada (Philippines), Inc. dated 5 September 2019.
-> 2Breach Notification (NPC -SLOCPI -2017 -02) dated 14 October 2017.
+> 2Breach Notification (NPCSLOCPI201702) dated 14 October 2017.
 > 3Ibid.
 > 4Ibid.
 > 5Ibid.
 > 6Ibid.
 > 7Ibid.
 
-CID BN: 17 -01 9
+CID BN: 1701 9
 
 In re: Sun Life of Canada (Philippines), Inc.
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 1.  Policy Number;
 
@@ -151,12 +154,9 @@ within thirty (30) days from receipt of the Resolution.
 > 11 Resolution In Re: Breach Notification Report of Sun Life of Canada (Philippines), Inc. dated
 > 29 July 2019.
 
-CID BN: 17 -01 9
+CID BN: 1701 9
 
 In re: Sun Life of Canada (Philippines), Inc.
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 On 5 September 2019, Sun Life submitted a letter 12  clarifying to the
 
@@ -184,7 +184,7 @@ complies with R.A. 10173 or the Data Privacy Act, its
 
 Implementing Rules and Regulations, and specifically NPC
 
-Circular 16 -03 on Personal Data Breach Management
+Circular 1603 on Personal Data Breach Management
 
 (Circular).
 
@@ -198,15 +198,14 @@ in accordance with the incident response procedure required
 
 by the Circular.
 
-Discussion
-
+### Discussion
 The Commission hereby finds the Breach Notification Report dated
 
 14 October 2017 of Sun Life sufficient and considers this matter
 
 closed.
 
-Section 17(D) of NPC Circular 16 -03 13  provides that t he N otification
+Section 17(D) of NPC Circular 1603 13  provides that t he N otification
 
 shall include, but not be limited to:
 
@@ -231,12 +230,9 @@ d.  description or nature of the personal data breach;
 > 12 Supra note 1.
 > 13 Personal Data Management Breach dated 15 December 2016.
 
-CID BN: 17 -01 9
+CID BN: 1701 9
 
 In re: Sun Life of Canada (Philippines), Inc.
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 e.  description of the likely consequences of the personal
 
@@ -308,14 +304,9 @@ Pasay City, Philippines ;
 
 > 14 Supra note 2.
 
-CID BN: 17 -01 9
+CID BN: 1701 9
 
 In re: Sun Life of Canada (Philippines), Inc.
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
-
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -323,13 +314,9 @@ Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
-
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
-
-Sgd.
 
 JOHN HENRY D. NAGA
 

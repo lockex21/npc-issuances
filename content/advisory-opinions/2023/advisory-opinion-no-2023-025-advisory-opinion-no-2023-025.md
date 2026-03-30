@@ -1,33 +1,30 @@
 ---
-title: "Advisory Opinion No. 2023-025"
-description: "We respond to your request for an Advisory Opinion regarding the Multi Face ID initiative by CIBI Information Inc. (CIBI)."
+title: "NPC Advisory Opinion No. 2023-025 — Multi Face ID Initiative for Fraud Prevention"
+description: "Advisory Opinion regarding the Multi Face ID initiative by CIBI Information Inc. (CIBI)."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+  - issuance
+  - type/advisory-opinion
+  - year/2023
 draft: false
 ---
 
 ## Source
 - Reference: Advisory Opinion No. 2023-025
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/Advisory-Opinion-No.-2023-025.pdf
+- Issue date: 09/01/2023
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                ADVISORY OPINION NO. 2023-0251
 
  29 December 2023
 
+   Re:     MULTI FACE ID INITIATIVE FOR FRAUD PREVENTION
 
-
-
-           Re:     MULTI FACE ID INITIATIVE FOR FRAUD PREVENTION
-
-Dear                        :
-
+Dear [Redacted],
 We respond to your request for an Advisory Opinion regarding the Multi Face ID initiative
 by CIBI Information Inc. (CIBI).
+
+### Discussion
 
 We gather from your request that CIBI aims to be the trusted partner of businesses and
 consumers for their hiring and lending needs by offering technology solutions to solve
@@ -50,13 +47,10 @@ select individuals within the organization. In turn, such individuals shall only
 information to a requesting member following best practices that will protect the data. In
 addition, only members who contribute data shall be allowed access.
 
-
-1 Tags: facial recognition, personal information, sensitive personal information.
-
 Your letter also provides that CIBI will establish the following safeguards and features in the
 implementation of the Project to comply with the Data Privacy Act of 2012 (DPA): 2
 
-    a) Every data point submitted by the members will be owned by them, not by CIBI;
+   a) Every data point submitted by the members will be owned by them, not by CIBI;
     b) CIBI will only store information in the cloud with all the required security measures
        following the SOC 2 standards which covers implementation of encryption and data
        security;
@@ -77,7 +71,7 @@ implementation of the Project to comply with the Data Privacy Act of 2012 (DPA):
 
 In line with the above, you specifically ask the following:
 
-    i)  Can the participating Fintechs or banks share the following data points to CIBI for the
+   i)  Can the participating Fintechs or banks share the following data points to CIBI for the
         purpose of establishing a database for fraud prevention in the initial stages of
         application: a) an individual’s full name; b) date of birth; c) photo of individual’s face;
         and
@@ -98,8 +92,6 @@ face, a form of biometric data, is also considered personal information since it
 certainly identifies a particular individual. In Advisory Opinion No. 2017-063 4 we discussed
 the nature of biometrics as personal information, viz.:
 
-
-
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
 
 Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012],
@@ -107,23 +99,23 @@ Republic Act No. 10173, (2012).
 3 Id. § 3(g).
 4 NPC Advisory Opinion No. 2017-063, (09 February 2017).
 
-          As can be gleaned from Republic Act (RA) No. 10367,3 biometrics refer to “the quantitative
+   As can be gleaned from Republic Act (RA) No. 10367,3 biometrics refer to “the quantitative
           analysis that provides a positive identification of an individual such as voice, photograph,
           fingerprint, signature, iris and/or such other identifiable features.”4
 
-          While under Article 29 Opinion 4/2007 (EU)5, a biometric data may be considered both as
+   While under Article 29 Opinion 4/2007 (EU)5, a biometric data may be considered both as
           content of the information about a particular individual as well as an element to establish
           a link between one piece of information and the individual. As such, it can work as
           “identifier” for it produces a unique link to a specific individual.
 
-          On that note, it must be emphasized that DPA defines personal information as “any
+   On that note, it must be emphasized that DPA defines personal information as “any
           information whether recorded in a material form or not, from which the identity of an
           individual is apparent or can be reasonably and directly ascertained by the entity holding
           the information, or when put together with other information would directly and certainly
           identify an individual.”6 Corollarily, hand-written signatures, as may be used to identify
           an individual, is considered as personal information.
 
-          In the same manner, unique information relating7 to an individual or when linked with
+   In the same manner, unique information relating7 to an individual or when linked with
           other information will allow an individual to be distinguished from others, may be treated
           as personal information.
 
@@ -136,13 +128,13 @@ sensitive personal information, the processing of the entire data may find lawfu
 Section 13 of the DPA. It appears that Sections 13 (a) and 13 (f) of the DPA are the most
 appropriate lawful bases for the intended processing, viz.:
 
-       (a) The data subject has given his or her consent, specific to the purpose prior to the processing,
+   (a) The data subject has given his or her consent, specific to the purpose prior to the processing,
            or in the case of privileged information, all parties to the exchange have given his or her
            consent prior to processing;
 
-                                                      xxx
+   xxx
 
-       (f) The processing concerns such personal information as is necessary for the protection of
+   (f) The processing concerns such personal information as is necessary for the protection of
            lawful rights and interests of natural or legal persons in court proceedings, or the
            establishment, exercise or defense of legal claims, or when provided to government or
            public authority. 5
@@ -156,8 +148,6 @@ member must inform its individual clients in clear and concise language of the i
 their personal data to CIBI, its purpose of creating a database with facial recognition features
 and relevant details involved in the processing. The individual clients’ consent must be
 evidenced by written, electronic or recorded means pursuant to the requirement of the DPA.
-
-
 
 5 Data Privacy Act of 2012, § 13(f).
 6 Id. § 3 (b).
@@ -256,9 +246,6 @@ of the organization and complexity of its operations, current data privacy best 
 the cost of security information must be considered. 13 These factors will determine if the
 personal data subject of processing will be kept safe and well protected.
 
-
-
-
 8 Data Privacy Act of 2012, § 11 (a).
 9 Id.
 10 Id.
@@ -294,9 +281,7 @@ adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV

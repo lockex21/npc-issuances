@@ -1,11 +1,17 @@
 ---
 title: "NPC BN 17-048: In re: Social Security System"
-description: "Resolution of breach notification report by Social Security System (SSS) of loss of documents and USB flash drive containing employee data, with order to close case upon confirmation of security compliance measures."
+description: "Resolution closing the breach notification case of Social Security System after finding it in substantial compliance with security remediation measures following loss of employee data."
+aliases:
+  - "NPC BN 17-048"
+  - "npc bn 17-048"
+  - "In re: Social Security System"
+  - "in re: social security system"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2017"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2021
+  - npc-case
+date: "2021-01-21"
 draft: false
 ---
 
@@ -22,11 +28,15 @@ draft: false
 
 ## Resolution Text
 
-In re: Social Security System — NPC BN 17-048
+IN RE: SOCIAL SECURITY SYSTEM
 
-The Commission is composed of Deputy Privacy Commissioner John Henry D. Naga.
+x----------------------------------------------------x
+
+**NAGA, D.P.C.:**
 
 This refers to the breach notification report of Social Security System (SSS) dated 28 January 2017 concerning the loss of a paper bag containing documents and a USB flash drive with the information of Five thousand six hundred ninety-four (5,694) SSS employees. The flash drive contains an electronic report of SSS to PHILHEALTH and PAG-IBIG.
+
+### Facts
 
 On 13 July 2018, the Commission issued a Compliance Order with a dispositive portion as follows:
 
@@ -51,36 +61,45 @@ Further, SSS reported that they are implementing the following measures to ensur
 5. Ensure the utmost security of removable media while in transport including provision of service vehicle; and
 6. Preparation of the SSS Information Security Manual.
 
+### Discussion
+
 The Enforcement Division, through the assistance of this Commission’s Data Security and Technology Standards Division (DSTSD), issued its findings on the compliance of SSS, viz:
 
 > “The measures in the Letter that the SSS are currently implementing appear to be adequate. These measures can be improved by using AES-256 encryption for USB flash drives and to the individual records or files contained thereto. Further, whenever using removable media, the transfer of information to such media should be monitored, and procedures and authorization levels should be documented accordingly. The policies and procedures met most of the matching requirements from the NPC Circular 16-01 and ISO/IEC 27002. WHEREFORE, premises considered, the Enforcement Division respectfully recommends to CLOSE the instant case.”
 
 Given the sufficiency of the submissions of SSS in compliance with the orders of this Commission, and the absence of error and abuse of discretion on the part of the Enforcement Division and DSTSD, this Commission finds no reason to disturb their recommendations.
 
-### Dispositive Portion
-
 **WHEREFORE**, premises considered, it is resolved that the matter of NPC BN 17-048 “In re: Social Security System” is hereby considered **CLOSED**.
 
 **SO ORDERED.**
 
----
+Pasay City, Philippines. 21 January 2021.
 
 **JOHN HENRY D. NAGA**
+
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
 **RAYMUND ENRIQUEZ LIBORO**
+
 Privacy Commissioner
 
 **LEANDRO ANGELO Y. AGUIRRE**
+
 Deputy Privacy Commissioner
 
 Copy furnished:
 
-GDS, Data Protection Officer
-JAV, Data Protection Officer
-RCG, Data Protection Officer
+GDS
+Data Protection Officer
+
+JAV
+Data Protection Officer
+
+RCG
+Data Protection Officer
+
 ENFORCEMENT DIVISION
 COMPLIANCE AND MONITORING DIVISION
 GENERAL RECORDS UNIT

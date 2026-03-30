@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-069: In re: Professional Regulations Commission (PRC)"
-description: "Section 2 (g) Personal information refers to any information whether recorded in a material form or not,"
+title: 'NPC BN 18-069: In re: Professional Regulations Commission (PRC)'
+description: Section 2 (g) Personal information refers to any information whether
+  recorded in a material form or not,
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2020
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-069"'
+- '"npc bn 18-069"'
+- '"In re: Professional Regulations Commission (PRC)"'
+- '"in re: professional regulations commission (prc)"'
+date: '2020-07-23'
 ---
 
 ## Source

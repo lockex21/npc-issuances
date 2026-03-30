@@ -1,11 +1,17 @@
 ---
 title: "NPC 18-222: In re: Polytechnic University of the Philippines"
-description: "NPC 18-222: In re: Polytechnic University of the Philippines"
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC 18-222"
+  - "npc 18-222"
+  - "In re: Polytechnic University of the Philippines"
+  - "in re: polytechnic university of the philippines"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-02-03"
 draft: false
 ---
 
@@ -21,7 +27,6 @@ draft: false
 - Notification of Data Subjects and Security Incident Management Policy
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 IN RE: POLYTECHNIC UNIVERSITY
 
@@ -70,7 +75,6 @@ Report detailing the incident that prompted the notification of the
 
 NPC BN 18 -222 NPC BN 18 -222
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 incident. 5 In compliance, PUP submitted its Post -Breach Report on 07
 
@@ -140,7 +144,6 @@ following within fifteen (15) days from the receipt of this Order:
 
 NPC BN 18 -222
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 1.  NOTIFY its affected data subjects and SUBMIT proof that it
 
@@ -210,7 +213,6 @@ and users from accessing the corporate network and helps
 
 NPC BN 18 -222
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 ensure that all devices connected to PUP network are compliant
 
@@ -279,7 +281,6 @@ unnecessary disclosure of personal data. 24
 
 NPC BN 18 -222
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Section 18 (C) of the NPC Circular 16 -03 also provides the information
 
@@ -350,7 +351,6 @@ affected data subjects. 29
 
 NPC BN 18 -222
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 PUP also submitted to the Commission a copy of the individual
 
@@ -426,7 +426,6 @@ timely discovery of a security incident:
 
 NPC BN 18 -222
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Section 4. Security Incident Management Policy . A personal
 
@@ -494,7 +493,6 @@ addressed the breach and prevent a recurrence of the incident.
 
 NPC BN 18 -222
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 WHEREFORE , premises considered, the Commission resolves that the
 
@@ -508,7 +506,6 @@ City of Pasay, Philippines.
 
 03 February 2023.
 
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -516,13 +513,11 @@ Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
 
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
-Sgd.
 
 NERISSA N. DE JESUS
 

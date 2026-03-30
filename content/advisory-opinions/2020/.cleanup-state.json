@@ -1,428 +1,268 @@
 {
-  "files": {
-    "advisory-opinion-no-2020-014-redacted-advisory-opinion-no-2020-014-2.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T00:00:00Z"
-    },
-    "advisory-opinion-no-2020-014-redacted-advisory-opinion-no-2020-014.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T00:01:00Z"
-    },
-    "advisory-opinion-no-2020-015-redacted-advisory-opinion-no-2020-015-2.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:42:16.327871+00:00"
-    },
-    "advisory-opinion-no-2020-015-redacted-advisory-opinion-no-2020-015.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:42:45.939092+00:00"
-    },
-    "advisory-opinion-no-2020-016-redacted-advisory-opinion-no-2020-016-2.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T10:38:01.242040Z"
-    },
-    "advisory-opinion-no-2020-016-redacted-advisory-opinion-no-2020-016.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T10:38:01.242040Z"
-    },
-    "advisory-opinion-no-2020-017-redacted-advisory-opinion-no-2020-017-2.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-017-redacted-advisory-opinion-no-2020-017.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-018-redacted-advisory-opinion-no-2020-018-2.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-018-redacted-advisory-opinion-no-2020-018.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-019-redacted-advisory-opinion-no-2020-019-2.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-019-redacted-advisory-opinion-no-2020-019.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-020-redacted-advisory-opinion-no-2020-020-2.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-020-redacted-advisory-opinion-no-2020-020.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-021-redacted-advisory-opinion-no-2020-021-2.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-021-redacted-advisory-opinion-no-2020-021.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-022-redacted-advisory-opinion-no-2020-022-2.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-022-redacted-advisory-opinion-no-2020-022.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-023-redacted-advisory-opinion-no-2020-023-2.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-023-redacted-advisory-opinion-no-2020-023.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-024-redacted-advisory-opinion-no-2020-024-2.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    },
-    "advisory-opinion-no-2020-024-redacted-advisory-opinion-no-2020-024.md": {
-      "status": "done",
-      "processed_at": "2026-03-25T02:44:22.597867+00:00"
-    }
-  },
-  "advisory-opinion-no-2020-047-redacted-advisory-opinion-no-2020-047-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:37:34.755640+00:00"
-  },
-  "advisory-opinion-no-2020-047-redacted-advisory-opinion-no-2020-047.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:37:34.755640+00:00"
-  },
-  "advisory-opinion-no-2020-025-redacted-advisory-opinion-no-2020-025.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T11:10:51.685103"
-  },
-  "advisory-opinion-no-2020-036-redacted-advisory-opinion-no-2020-036-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470421"
-  },
-  "advisory-opinion-no-2020-002-redacted-advisory-opinion-no-2020-002.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T11:10:51.685103"
-  },
-  "advisory-opinion-no-2020-002-redacted-advisory-opinion-no-2020-002-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T11:10:51.685103"
-  },
-  "advisory-opinion-no-2020-036-redacted-advisory-opinion-no-2020-036.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470439"
-  },
-  "advisory-opinion-no-2020-026-redacted-advisory-opinion-no-2020-026-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T11:10:51.685103"
-  },
-  "advisory-opinion-no-2020-003-redacted-advisory-opinion-no-2020-003.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.861194"
-  },
-  "advisory-opinion-no-2020-003-redacted-advisory-opinion-no-2020-003-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.865599"
-  },
-  "advisory-opinion-no-2020-004-redacted-advisory-opinion-no-2020-004.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.872376"
-  },
-  "advisory-opinion-no-2020-004-redacted-advisory-opinion-no-2020-004-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.875212"
-  },
-  "advisory-opinion-no-2020-005-redacted-advisory-opinion-no-2020-005.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.878490"
-  },
-  "advisory-opinion-no-2020-005-redacted-advisory-opinion-no-2020-005-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.884763"
-  },
-  "advisory-opinion-no-2020-006-redacted-advisory-opinion-no-2020-006.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.893461"
-  },
-  "advisory-opinion-no-2020-006-redacted-advisory-opinion-no-2020-006-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.900570"
-  },
-  "advisory-opinion-no-2020-007-redacted-advisory-opinion-no-2020-007.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.941848"
-  },
-  "advisory-opinion-no-2020-008-redacted-advisory-opinion-no-2020-008.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.954478"
-  },
-  "advisory-opinion-no-2020-009-redacted-advisory-opinion-no-2020-009.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.959812"
-  },
-  "advisory-opinion-no-2020-009-redacted-advisory-opinion-no-2020-009-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.964164"
-  },
-  "advisory-opinion-no-2020-010-redacted-advisory-opinion-no-2020-010.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.967537"
-  },
-  "advisory-opinion-no-2020-011-redacted-advisory-opinion-no-2020-011.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.976823"
-  },
-  "advisory-opinion-no-2020-012-redacted-advisory-opinion-no-2020-012.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.980558"
-  },
-  "advisory-opinion-no-2020-012-redacted-advisory-opinion-no-2020-012-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.983473"
-  },
-  "advisory-opinion-no-2020-013-redacted-advisory-opinion-no-2020-013.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:36:27.989269"
-  },
   "advisory-opinion-no-2020-013-redacted-advisory-opinion-no-2020-013-2.md": {
     "status": "done",
-    "processed_at": "2026-03-25T10:36:27.992807"
-  },
-  "advisory-opinion-no-2020-048-redacted-advisory-opinion-no-2020-048-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:37:34.755640+00:00"
-  },
-  "advisory-opinion-no-2020-048-redacted-advisory-opinion-no-2020-048.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:37:34.755640+00:00"
-  },
-  "advisory-opinion-no-2020-049-redacted-advisory-opinion-no-2020-049.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:48.412977+00:00"
-  },
-  "advisory-opinion-no-2020-049-redacted-advisory-opinion-no-2020-049-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:48.412977+00:00"
-  },
-  "advisory-opinion-no-2020-050-redacted-advisory-opinion-no-2020-050.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T03:08:47.162131+00:00"
-  },
-  "advisory-opinion-no-2020-050-redacted-advisory-opinion-no-2020-050-2.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T03:08:47.157695+00:00"
-  },
-  "advisory-opinion-no-2020-051-redacted-advisory-opinion-no-2020-051.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T03:08:47.167691+00:00"
-  },
-  "advisory-opinion-no-2020-051-redacted-advisory-opinion-no-2020-051-2.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T03:08:47.164832+00:00"
-  },
-  "advisory-opinion-no-2020-052-redacted-advisory-opinion-no-2020-052.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T03:08:47.171895+00:00"
-  },
-  "advisory-opinion-no-2020-052-redacted-advisory-opinion-no-2020-052-2.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T03:08:47.169771+00:00"
-  },
-  "advisory-opinion-no-2020-053-redacted-advisory-opinion-no-2020-053.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T03:08:47.175660+00:00"
-  },
-  "advisory-opinion-no-2020-053-redacted-advisory-opinion-no-2020-053-2.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T03:08:47.173607+00:00"
-  },
-  "advisory-opinion-no-2020-054-redacted-advisory-opinion-no-2020-054.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T03:08:47.179815+00:00"
-  },
-  "advisory-opinion-no-2020-054-redacted-advisory-opinion-no-2020-054-2.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T03:08:47.177833+00:00"
-  },
-  "advisory-opinion-no-2020-055-redacted-advisory-opinion-no-2020-055.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T03:08:47.184738+00:00"
-  },
-  "advisory-opinion-no-2020-055-redacted-advisory-opinion-no-2020-055-2.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T03:08:47.182236+00:00"
-  },
-  "advisory-opinion-no-2020-037-redacted-advisory-opinion-no-2020-037-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470440"
-  },
-  "advisory-opinion-no-2020-037-redacted-advisory-opinion-no-2020-037.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470441"
-  },
-  "advisory-opinion-no-2020-038-redacted-advisory-opinion-no-2020-038-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470442"
-  },
-  "advisory-opinion-no-2020-038-redacted-advisory-opinion-no-2020-038.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470443"
-  },
-  "advisory-opinion-no-2020-039-redacted-advisory-opinion-no-2020-039-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470444"
-  },
-  "advisory-opinion-no-2020-039-redacted-advisory-opinion-no-2020-039.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470445"
-  },
-  "advisory-opinion-no-2020-040-redacted-advisory-opinion-no-2020-040-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470446"
-  },
-  "advisory-opinion-no-2020-040-redacted-advisory-opinion-no-2020-040.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470446"
-  },
-  "advisory-opinion-no-2020-041-redacted-advisory-opinion-no-2020-041-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470447"
-  },
-  "advisory-opinion-no-2020-041-redacted-advisory-opinion-no-2020-041.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470448"
-  },
-  "advisory-opinion-no-2020-042-redacted-advisory-opinion-no-2020-042-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470449"
-  },
-  "advisory-opinion-no-2020-042-redacted-advisory-opinion-no-2020-042.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470450"
-  },
-  "advisory-opinion-no-2020-043-redacted-advisory-opinion-no-2020-043-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470451"
-  },
-  "advisory-opinion-no-2020-043-redacted-advisory-opinion-no-2020-043.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470452"
-  },
-  "advisory-opinion-no-2020-044-redacted-advisory-opinion-no-2020-044-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470453"
-  },
-  "advisory-opinion-no-2020-044-redacted-advisory-opinion-no-2020-044.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470454"
-  },
-  "advisory-opinion-no-2020-045-redacted-advisory-opinion-no-2020-045-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470454"
-  },
-  "advisory-opinion-no-2020-045-redacted-advisory-opinion-no-2020-045.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470455"
-  },
-  "advisory-opinion-no-2020-046-redacted-advisory-opinion-no-2020-046-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470456"
-  },
-  "advisory-opinion-no-2020-046-redacted-advisory-opinion-no-2020-046.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T10:38:18.470457"
+    "processed_at": "2026-03-26T17:35:00Z",
+    "description_fixed": true,
+    "letterhead_removed": true,
+    "discussion_heading_added": true
   },
   "advisory-opinion-no-2020-025-redacted-advisory-opinion-no-2020-025-2.md": {
     "status": "done",
-    "processed_at": "2026-03-25T11:10:51.685103"
+    "processed_at": "2026-03-26T08:21:26.879532Z"
   },
-  "advisory-opinion-no-2020-026-redacted-advisory-opinion-no-2020-026.md": {
+  "advisory-opinion-no-2020-026-redacted-advisory-opinion-no-2020-026-2.md": {
     "status": "done",
-    "processed_at": "2026-03-25T11:10:51.685103"
+    "processed_at": "2026-03-26T18:10:30Z",
+    "footnotes_consolidated": true,
+    "inline_footnotes_extracted": true,
+    "markdown_structure_fixed": true,
+    "yaml_validated": true
   },
   "advisory-opinion-no-2020-027-redacted-advisory-opinion-no-2020-027-2.md": {
     "status": "done",
-    "processed_at": "2026-03-25T11:10:51.685103"
-  },
-  "advisory-opinion-no-2020-027-redacted-advisory-opinion-no-2020-027.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T11:10:51.685103"
+    "processed_at": "2026-03-26T08:21:26.883326Z"
   },
   "advisory-opinion-no-2020-028-redacted-advisory-opinion-no-2020-028-2.md": {
     "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
-  },
-  "advisory-opinion-no-2020-028-redacted-advisory-opinion-no-2020-028.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
+    "processed_at": "2026-03-26T08:21:26.885031Z"
   },
   "advisory-opinion-no-2020-029-redacted-advisory-opinion-no-2020-029-2.md": {
     "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
-  },
-  "advisory-opinion-no-2020-029-redacted-advisory-opinion-no-2020-029.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
+    "processed_at": "2026-03-26T08:21:26.886573Z"
   },
   "advisory-opinion-no-2020-030-redacted-advisory-opinion-no-2020-030-2.md": {
     "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
-  },
-  "advisory-opinion-no-2020-030-redacted-advisory-opinion-no-2020-030.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
+    "processed_at": "2026-03-26T08:21:26.887928Z"
   },
   "advisory-opinion-no-2020-031-redacted-advisory-opinion-no-2020-031-2.md": {
     "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
-  },
-  "advisory-opinion-no-2020-031-redacted-advisory-opinion-no-2020-031.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
-  },
-  "advisory-opinion-no-2020-032-redacted-advisory-opinion-no-2020-032-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
-  },
-  "advisory-opinion-no-2020-032-redacted-advisory-opinion-no-2020-032.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
-  },
-  "advisory-opinion-no-2020-033-redacted-advisory-opinion-no-2020-033-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
-  },
-  "advisory-opinion-no-2020-033-redacted-advisory-opinion-no-2020-033.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
-  },
-  "advisory-opinion-no-2020-034-redacted-advisory-opinion-no-2020-034-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
-  },
-  "advisory-opinion-no-2020-034-redacted-advisory-opinion-no-2020-034.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
-  },
-  "advisory-opinion-no-2020-035-redacted-advisory-opinion-no-2020-035-2.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
-  },
-  "advisory-opinion-no-2020-035-redacted-advisory-opinion-no-2020-035.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T02:38:49.419818Z"
-  },
-  "advisory-opinion-no-2020-001-redacted-advisory-opinion-no-2020-001.md": {
-    "status": "done",
-    "processed_at": "2026-03-25T11:10:51.685103"
+    "processed_at": "2026-03-26T08:21:26.889311Z"
   },
   "advisory-opinion-no-2020-001-redacted-advisory-opinion-no-2020-001-2.md": {
     "status": "done",
-    "processed_at": "2026-03-25T11:10:51.685103"
+    "processed_at": "2026-03-25T08:40:07.310011Z"
+  },
+  "advisory-opinion-no-2020-040-redacted-advisory-opinion-no-2020-040-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T16:39:38.728940"
+  },
+  "advisory-opinion-no-2020-041-redacted-advisory-opinion-no-2020-041-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T16:39:38.728940"
+  },
+  "advisory-opinion-no-2020-042-redacted-advisory-opinion-no-2020-042-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T16:39:38.728940"
+  },
+  "advisory-opinion-no-2020-043-redacted-advisory-opinion-no-2020-043-2.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T08:41:55.691311Z"
+  },
+  "advisory-opinion-no-2020-044-redacted-advisory-opinion-no-2020-044-2.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T08:43:09.321471Z"
+  },
+  "advisory-opinion-no-2020-045-redacted-advisory-opinion-no-2020-045-2.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T08:44:09.203182Z"
+  },
+  "advisory-opinion-no-2020-046-redacted-advisory-opinion-no-2020-046-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T16:39:38.728940"
+  },
+  "advisory-opinion-no-2020-047-redacted-advisory-opinion-no-2020-047-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T16:39:38.728940"
+  },
+  "advisory-opinion-no-2020-002-redacted-advisory-opinion-no-2020-002-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T08:40:07.310011Z"
+  },
+  "advisory-opinion-no-2020-003-redacted-advisory-opinion-no-2020-003-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T08:40:07.310011Z"
+  },
+  "advisory-opinion-no-2020-004-redacted-advisory-opinion-no-2020-004-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T08:40:07.310011Z"
+  },
+  "advisory-opinion-no-2020-005-redacted-advisory-opinion-no-2020-005-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T08:40:07.310011Z"
+  },
+  "advisory-opinion-no-2020-006-redacted-advisory-opinion-no-2020-006-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T08:40:07.310011Z"
+  },
+  "advisory-opinion-no-2020-009-redacted-advisory-opinion-no-2020-009-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T08:40:07.310011Z"
+  },
+  "advisory-opinion-no-2020-012-redacted-advisory-opinion-no-2020-012-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T08:40:07.310011Z"
+  },
+  "advisory-opinion-no-2020-032-redacted-advisory-opinion-no-2020-032-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T16:41:54.598239"
+  },
+  "advisory-opinion-no-2020-033-redacted-advisory-opinion-no-2020-033-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T16:41:54.598239"
+  },
+  "advisory-opinion-no-2020-034-redacted-advisory-opinion-no-2020-034-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T16:41:54.598239"
+  },
+  "advisory-opinion-no-2020-035-redacted-advisory-opinion-no-2020-035-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T16:41:54.598239"
+  },
+  "advisory-opinion-no-2020-036-redacted-advisory-opinion-no-2020-036-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T16:41:54.598239"
+  },
+  "advisory-opinion-no-2020-037-redacted-advisory-opinion-no-2020-037-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T16:41:54.598239"
+  },
+  "advisory-opinion-no-2020-038-redacted-advisory-opinion-no-2020-038-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T16:41:54.598239"
+  },
+  "advisory-opinion-no-2020-039-redacted-advisory-opinion-no-2020-039-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T16:41:54.598239"
+  },
+  "advisory-opinion-no-2020-048-redacted-advisory-opinion-no-2020-048-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T08:44:26.024710Z"
+  },
+  "advisory-opinion-no-2020-049-redacted-advisory-opinion-no-2020-049-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T08:45:53.338337Z"
+  },
+  "advisory-opinion-no-2020-050-redacted-advisory-opinion-no-2020-050-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-25T08:47:13.750626Z"
+  },
+  "advisory-opinion-no-2020-051-redacted-advisory-opinion-no-2020-051-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T08:34:08.279994Z",
+    "footnotes_consolidated": true,
+    "inline_footnotes_extracted": true,
+    "markdown_structure_fixed": true,
+    "yaml_validated": true
+  },
+  "advisory-opinion-no-2020-052-redacted-advisory-opinion-no-2020-052-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T08:34:08.279994Z",
+    "footnotes_consolidated": true,
+    "inline_footnotes_extracted": true,
+    "markdown_structure_fixed": true,
+    "yaml_validated": true
+  },
+  "advisory-opinion-no-2020-053-redacted-advisory-opinion-no-2020-053-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T08:34:08.279994Z",
+    "footnotes_consolidated": true,
+    "inline_footnotes_extracted": true,
+    "markdown_structure_fixed": true,
+    "yaml_validated": true
+  },
+  "advisory-opinion-no-2020-054-redacted-advisory-opinion-no-2020-054-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T08:34:08.279994Z",
+    "footnotes_consolidated": true,
+    "inline_footnotes_extracted": true,
+    "markdown_structure_fixed": true,
+    "yaml_validated": true
+  },
+  "advisory-opinion-no-2020-055-redacted-advisory-opinion-no-2020-055-2.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T08:34:08.279994Z",
+    "footnotes_consolidated": true,
+    "inline_footnotes_extracted": true,
+    "markdown_structure_fixed": true,
+    "yaml_validated": true
+  },
+  "advisory-opinion-no-2020-007-redacted-advisory-opinion-no-2020-007.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T08:40:36.595532Z"
+  },
+  "advisory-opinion-no-2020-008-redacted-advisory-opinion-no-2020-008.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
+  },
+  "advisory-opinion-no-2020-010-redacted-advisory-opinion-no-2020-010.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
+  },
+  "advisory-opinion-no-2020-011-redacted-advisory-opinion-no-2020-011.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
+  },
+  "advisory-opinion-no-2020-014-obtaining-address-of-accused-through-learner-reference-number-lrn.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T17:35:01Z",
+    "description_fixed": true,
+    "letterhead_removed": true,
+    "discussion_heading_added": true
+  },
+  "advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T17:35:02Z",
+    "description_fixed": true,
+    "letterhead_removed": true,
+    "discussion_heading_added": true
+  },
+  "advisory-opinion-no-2020-016-audit-procedures-of-the-commission-on-audit.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T17:35:03Z",
+    "description_fixed": true,
+    "letterhead_removed": true,
+    "discussion_heading_added": true
+  },
+  "advisory-opinion-no-2020-017-termination-of-services-due-to-corporate-dissolution.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T17:35:04Z",
+    "description_fixed": true,
+    "letterhead_removed": true,
+    "discussion_heading_added": true
+  },
+  "advisory-opinion-no-2020-018-outsourcing-the-processing-of-personal-data.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T18:10:00Z",
+    "footnotes_consolidated": true,
+    "inline_footnotes_extracted": true,
+    "markdown_structure_fixed": true,
+    "yaml_validated": true
+  },
+  "advisory-opinion-no-2020-019-public-disclosure-of-the-list-of-social-amelioration-program-beneficiaries.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T17:35:06Z",
+    "description_fixed": true,
+    "letterhead_removed": true,
+    "discussion_heading_added": true
+  },
+  "advisory-opinion-no-2020-020-npc-advisory-opinion-no-2020-020.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T09:15:14.078004+00:00"
+  },
+  "advisory-opinion-no-2020-021-automated-retrieval-of-bank-transaction-history.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T08:21:26.871817Z"
+  },
+  "advisory-opinion-no-2020-022-public-disclosure-of-identities-of-covid-patients-for-contact-tracing.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T08:21:26.873913Z"
+  },
+  "advisory-opinion-no-2020-023-public-posting-of-listahanan-respondents.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T08:21:26.875527Z"
+  },
+  "advisory-opinion-no-2020-024-disclosure-of-lot-buyers-homeowners-contact-information-for-collection-of-monthly-association-dues.md": {
+    "status": "done",
+    "processed_at": "2026-03-26T08:21:26.877267Z"
   }
 }

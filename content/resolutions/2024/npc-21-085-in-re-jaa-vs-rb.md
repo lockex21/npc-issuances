@@ -1,36 +1,29 @@
 ---
-title: "NPC 21-085: In Re: JAA vs RB"
-description: "NPC 21-085: In Re: JAA vs RB"
+title: "Unknown: Resolution"
+description: "Resolution addressing the Motion for Reconsideration (MR) dated"
+aliases:
+  - "UNKNOWN"
+  - "unknown"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2024"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2024
+  - npc-case
+date: "2024-09-04"
 draft: false
 ---
 
-## Source
-- Reference: NPC 21-085
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2026/01/NPC-21-085-09.04.2024-JAA-vs-RB_Resolution-4.pdf
-- Source page: http://privacy.gov.ph/resolutions/
-- Issue date: September 4, 2024
-- Published on NPC site: Mon, 12 Jan 2026 02:27:25 GMT
-- Pages: 18
+## Source-Reference: NPC 21-085-Official PDF: http://privacy.gov.ph/wp-content/uploads/2026/01/NPC-21-085-09.04.2024-JAA-vs-RB_Resolution-4.pdf-Source page: http://privacy.gov.ph/resolutions/
+- Issue date: September 4, 2024-Published on NPC site: Mon, 12 Jan 2026 02:27:25 GMT-Pages: 18
 
-## Source Tags
-- Sec 7. Rule VIII of the 2021 ROP. Motion for Reconsideration on the decision issued by the commission
-- Sec 8. Entry of Judgements and final orders
-- Sec 13. Sensitive personal information and privileged information
-- Sec 5. Further processing limitation. Instructions of Request
+## Source Tags-Sec 7. Rule VIII of the 2021 ROP. Motion for Reconsideration on the decision issued by the commission-Sec 8. Entry of Judgements and final orders-Sec 13. Sensitive personal information and privileged information-Sec 5. Further processing limitation. Instructions of Request
 
 ## Resolution Text
 JAA ,
 
 Complainant,
 
--versus -
-
-RB ,
+-versus-RB ,
 
 Respondent.
 
@@ -42,13 +35,12 @@ Before the Commission is the Motion for Reconsideration (MR) dated
 
 08 July 2024 filed by RB (Respondent).
 
-Facts
-
+### Facts
 On 08 February 2024, the Commission issued a Decision with the
 
 following dispositive portion:
 
-WHEREFORE, premises considered, this Commission hereby:
+**WHEREFORE**, premises considered, this Commission hereby:
 
 1. HOLDS Respondent RB liable for Unauthorized
 
@@ -72,8 +64,6 @@ prosecution of RB for Unauthorized Disclosure under
 
 Section 32 of the DPA.
 
-NPC 21 -085
-
 For: Violation of the
 
 Data Privacy Act of
@@ -82,7 +72,7 @@ Data Privacy Act of
 
 JAA vs. RB
 
-SO ORDERED. 1
+**SO ORDERED**. 1
 
 On 2 6 June 2024, Respondent received a copy of the abovementioned
 
@@ -134,17 +124,8 @@ In times of national crisis and emergency, Respondent believed that
 
 the government may employ measures that could intrude upon
 
-> 1JA vs. RB, NPC 21 -085, D ecision dated 08 February 2024 , at p p. 22 -23 .
-> 2Motion for Reconsideration dated 0 9July 2024 of RB, at p. 1.
-> 3National Privacy Commission, Amendments to Certain Provisions of the 2021 Rules of Procedure
 > of the National Privacy Commission, NPC Circular 2024 -01, rule VIII, § 7 (26 January 2024) ( 2024
 > Amendments to the 2021 NPC Rules of Procedure ).
-> 4Motion for Reconsideration dated 0 9July 2024 of RB, at p. 1.
-> 5Id ,at p. 2.
-> 6Id .
-> 7Id , at p. 3.
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -216,14 +197,6 @@ because they are subject ed to contract tracing and other monitoring
 
 programs of the government .13  For this reason, Complainant cannot
 
-> 8Motion for Reconsideration dated 0 9July 2024 of RB, at p. 4.
-> 9Id .
-> 10 Id .
-> 11 Id .
-> 12 Motion for Reconsideration dated 0 9July 2024 of RB, at pp. 6 -7.
-> 13 Id , at p. 7.
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -281,16 +254,6 @@ required f ees, the Commission, through its Enforcement Division
 
 2024. 21
 
-> 14 Id .
-> 15 Id .
-> 16 Motion for Reconsideration dated 0 9July 2024 of RB, at p. 7.
-> 17 Id .
-> 18 Id , at p. 8.
-> 19 Id .
-> 20 Motion for Reconsideration dated 0 9July 2024 of RB, at p. 8.
-> 21 Id , Annex 2.
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -362,11 +325,7 @@ would necessarily entail that a set of rules has already been
 
 created and what is left is to enforce them;
 
-> 22 Letter from Enforcement Division, Re: Compliance with NPC En Banc Decision dated 08
 > February 2024 (NPC 21 -085 “JAA v. RB”) dated 16 July 2024.
-> 23 Id .
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -380,9 +339,7 @@ In this case, the Respondent went out of bounce and impliedly
 
 created and/or added guidelines to this already created
 
-guidelines for actioning to stop the spread and control COVID -
-
-19;
+guidelines for actioning to stop the spread and control COVID-19;
 
 He went out of his authority when he divulged the personal and
 
@@ -434,13 +391,7 @@ presented before this Honorable Office, is a clear manifestation
 
 of his violation of the Privacy rights of the Complainant .27
 
-> 24 Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19
 > July 2024 of JAA, at p p. 21 -22.
-> 25 Id ,at p. 11.
-> 26 Id .
-> 27 Id ,at pp. 11 -12.
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -498,18 +449,8 @@ online payment partner .35  Respondent therefore prays that the
 
 Commission consider his payment as substantial compliance to the
 
-> 28 Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19
 > July 2024 of JAA, at p. 13.
-> 29 Id , at p. 15.
-> 30 Id .
-> 31 Id ,at p. 23.
-> 32 Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19
 > July 2024 of JAA, at pp .24 -25 .
-> 33 Motion to Reconsider Entry of Judgment dated 25 July 2024 of RB , at p. 1.
-> 34 Id.
-> 35 Id ,at p. 2.
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -561,18 +502,8 @@ said damages, it might be deemed as an abandonment of the two MRs
 
 he filed with the NPC .42
 
-Issue
-
-> 36 Id .
-> 37 Comment and Opposition to the Motion to Reconsider Entry of Judgment Filed by Respondent
+### Issue
 > dated 05 August 2024 of JAA, at p. 1.
-> 38 Id ,at p. 3.
-> 39 Id , at p. 4.
-> 40 Urgent Manifestation and Compliance dated 15 August 2024 of RB.
-> 41 Id , at p.1.
-> 42 Id , at pp.1 -2.
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -580,8 +511,7 @@ Whether the Motion for Reconsideration filed by RB should be
 
 granted.
 
-Discussion
-
+### Discussion
 The Commission resolves to deny Respondent’s Motion for
 
 Reconsideration .
@@ -636,11 +566,6 @@ Section 4, Rule II of the 2021 ROP provides for the general rule that n o
 
 further action on a complaint shall be made unless the appropriate
 
-> 43 2024 Amendments to the 2021 NPC Rules of Procedure ,rule VIII, § 7.
-> 44 2024 Amendments to the 2021 NPC Rules of Procedure ,rule VIII, § 8.
-> 45 Motion for Reconsideration dated 0 9July 2024 of RB, at p. 1.
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -708,14 +633,8 @@ Respondent has therefore timely paid the appropriate filing fees ,
 
 following Section 3 of NPC Circular 23 -01 , stating that for online
 
-> 46 2024 Amendments to the 2021 NPC Rules of Procedure , rule II, § 4 .
-> 47 National Privacy Commission, Schedule of Fees and Charges of the National Privacy
 > Commission, NPC Circular 2023 -01, § 3 (17 May 2023) (NPC Circular 23 -01).
-> 48 NPC Circular 23 -01, §4.
-> 49 Comment and Opposition to the Motion to Reconsider Entry of Judgment Filed by Respondent
 > dated 05 August 2024 of JAA, at p. 3.
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -781,14 +700,9 @@ permitting the processing of the sensitive personal information
 
 or the privileged information; 52
 
-> 50 Motion for Reconsideration dated 0 9July 2024 of RB, at p. 4.
-> 51 Id ,at p. 4.
-> 52 An Act Protecting Individual Personal Information in Information and Communications Systems
 > in the Government and the Private Sector, Creating for This Purpose aNational Privacy
 > Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173, chapter
 > III, § 1 3 (b) (2012).
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -862,12 +776,7 @@ data was collected from him, while the further processing occurred
 
 when Respondent disclosed the same. Contrary to Complainant ’s
 
-> 53 Id.
-> 54 National Privacy Commission, Guidelines on the Processing of Personal Data During Public
 > Health Emergencies for Public Health Measures , NPC Circular 2021 -02 , § 5 (A) , (08 November
-> 2021) (NPC Circular 2021 -02).
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -935,14 +844,8 @@ As a PIC and a public health authority, Respondent should have
 
 strictly observed the requirements of the law and employed
 
-> 55 Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19
 > July 2024 of JAA, at p. 15.
-> 56 Motion for Reconsideration dated 0 9July 2024 of RB, at p. 7.
-> 57 Id.
-> 58 Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion
 > No. 2020 -022, 08 June 2020, at p. 3.
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -1006,16 +909,9 @@ available in order that the public will not be kept in the dark as to the
 
 government’s contact tracing efforts :
 
-> 59 JA vs. RB, NPC 21 -085, Decision dated 08 February 2024, at pp. 20 -21.
-> 60 Department of Health and National Privacy Commission, Privacy Guidelines on the Processing
 > and Disclosure of COVID -19 Related Data for Disease Surveillance and Response, Joint
 > Memorandum Circular No. 2020 -0002, VI (F) (2020).
-> 61 Department of Health, Updated Guidelines on Contact Tracing of Close Contacts of Confirmed
 > Coronavirus Disease Cases, Department Memorandum 2020 -0189 (2020).
-> 62 JA vs. RB, NPC 21 -085, Decision dated 08 February 2024, at pp. 18 -19.
-> 63 Id.
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -1081,14 +977,8 @@ incomplete, outdated, false, unlawfully obtained or unauthorized use
 
 of personal information.” 67  Indeed, it is part of the Commission’s
 
-> 64 Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion
 > No. 2020 -022, 08 June 2020, at p p. 3 -4.
-> 65 Motion for Reconsideration dated 08 July 2024 of RB , at p. 7.
-> 66 Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion
 > No. 2020 -022, 08 June 2020, at p. 3.
-> 67 Data Privacy Act of 2012, chapter IV, § 16 (f) .
-
-NPC 21 -085
 
 JAA vs. RB
 
@@ -1148,25 +1038,18 @@ evidence that would warrant the reversal of the Decision dated 08
 
 February 2024.
 
-> 68 Data Privacy Act of 2012 ,chapter II, § 7 (b) .
-> 69 Motion for Reconsideration dated 0 9July 2024 of RB, at p. 8.
-> 70 Data Privacy Act of 2012 ,chapter VIII, § 3 7.
-> 71 An Act to Ordain and Institute the Civil Code of the Philippines [Civil Code of the Philippines],
 > Republic Act No. 386, book IV, chapter 3, § 3, Art. 2221 (1949).
-> 72 NFM vs. Bank of the Philippine Islands Family –Credit Card Division , NPC 19 -1273, Decision
 > dated 19 January 2023 , at p. 13.
-
-NPC 21 -085
 
 JAA vs. RB
 
-WHEREFORE, premises considered, th e Commission resolves to
+**WHEREFORE**, premises considered, th e Commission resolves to
 
 DENY the Motion for Reconsideration filed by RB . The Decision dated
 
 08 February 202 4 is hereby AFFIRMED .
 
-SO ORDERED.
+**SO ORDERED**.
 
 City of Pasay, Philippines.
 
@@ -1217,3 +1100,150 @@ COMPL AINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+[^1]: JA vs. RB, NPC 21 -085, D ecision dated 08 February 2024 , at p p. 22 -23 .
+[^2]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 1.
+[^3]: National Privacy Commission, Amendments to Certain Provisions of the 2021 Rules of Procedure
+[^4]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 1.
+[^5]: Id ,at p. 2.
+[^6]: Id .
+[^7]: Id , at p. 3.
+[^8]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 4.
+[^9]: Id .
+[^10]: Id .
+[^11]: Id .
+[^12]: Motion for Reconsideration dated 0 9July 2024 of RB, at pp. 6 -7.
+[^13]: Id , at p. 7.
+[^14]: Id .
+[^15]: Id .
+[^16]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 7.
+[^17]: Id .
+[^18]: Id , at p. 8.
+[^19]: Id .
+[^20]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 8.
+[^21]: Id , Annex 2.
+[^22]: Letter from Enforcement Division, Re: Compliance with NPC En Banc Decision dated 08
+[^23]: Id .
+[^24]: Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19
+[^25]: Id ,at p. 11.
+[^26]: Id .
+[^27]: Id ,at pp. 11 -12.
+[^28]: Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19
+[^29]: Id , at p. 15.
+[^30]: Id .
+[^31]: Id ,at p. 23.
+[^32]: Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19
+[^33]: Motion to Reconsider Entry of Judgment dated 25 July 2024 of RB , at p. 1.
+[^34]: Id.
+[^35]: Id ,at p. 2.
+[^36]: Id .
+[^37]: Comment and Opposition to the Motion to Reconsider Entry of Judgment Filed by Respondent
+[^38]: Id ,at p. 3.
+[^39]: Id , at p. 4.
+[^40]: Urgent Manifestation and Compliance dated 15 August 2024 of RB.
+[^41]: Id , at p.1.
+[^42]: Id , at pp.1 -2.
+[^43]: 2024 Amendments to the 2021 NPC Rules of Procedure ,rule VIII, § 7.
+[^44]: 2024 Amendments to the 2021 NPC Rules of Procedure ,rule VIII, § 8.
+[^45]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 1.
+[^46]: 2024 Amendments to the 2021 NPC Rules of Procedure , rule II, § 4 .
+[^47]: National Privacy Commission, Schedule of Fees and Charges of the National Privacy
+[^48]: NPC Circular 23 -01, §4.
+[^49]: Comment and Opposition to the Motion to Reconsider Entry of Judgment Filed by Respondent
+[^50]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 4.
+[^51]: Id ,at p. 4.
+[^52]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^53]: Id.
+[^54]: National Privacy Commission, Guidelines on the Processing of Personal Data During Public
+[^55]: Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19
+[^56]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 7.
+[^57]: Id.
+[^58]: Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion
+[^59]: JA vs. RB, NPC 21 -085, Decision dated 08 February 2024, at pp. 20 -21.
+[^60]: Department of Health and National Privacy Commission, Privacy Guidelines on the Processing
+[^61]: Department of Health, Updated Guidelines on Contact Tracing of Close Contacts of Confirmed
+[^62]: JA vs. RB, NPC 21 -085, Decision dated 08 February 2024, at pp. 18 -19.
+[^63]: Id.
+[^64]: Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion
+[^65]: Motion for Reconsideration dated 08 July 2024 of RB , at p. 7.
+[^66]: Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion
+[^67]: Data Privacy Act of 2012, chapter IV, § 16 (f) .
+[^68]: Data Privacy Act of 2012 ,chapter II, § 7 (b) .
+[^69]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 8.
+[^70]: Data Privacy Act of 2012 ,chapter VIII, § 3 7.
+[^71]: An Act to Ordain and Institute the Civil Code of the Philippines [Civil Code of the Philippines],
+[^72]: NFM vs. Bank of the Philippine Islands Family –Credit Card Division , NPC 19 -1273, Decision
+[^2021]: ) (NPC Circular 2021 -02).
+[^1]: JA vs. RB, NPC 21 -085, D ecision dated 08 February 2024 , at p p. 22 -23 .
+[^2]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 1.
+[^3]: National Privacy Commission, Amendments to Certain Provisions of the 2021 Rules of Procedure
+[^4]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 1.
+[^5]: Id ,at p. 2.
+[^6]: Id .
+[^7]: Id , at p. 3.
+[^8]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 4.
+[^9]: Id .
+[^10]: Id .
+[^11]: Id .
+[^12]: Motion for Reconsideration dated 0 9July 2024 of RB, at pp. 6 -7.
+[^13]: Id , at p. 7.
+[^14]: Id .
+[^15]: Id .
+[^16]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 7.
+[^17]: Id .
+[^18]: Id , at p. 8.
+[^19]: Id .
+[^20]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 8.
+[^21]: Id , Annex 2.
+[^22]: Letter from Enforcement Division, Re: Compliance with NPC En Banc Decision dated 08
+[^23]: Id .
+[^24]: Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19
+[^25]: Id ,at p. 11.
+[^26]: Id .
+[^27]: Id ,at pp. 11 -12.
+[^28]: Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19
+[^29]: Id , at p. 15.
+[^30]: Id .
+[^31]: Id ,at p. 23.
+[^32]: Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19
+[^33]: Motion to Reconsider Entry of Judgment dated 25 July 2024 of RB , at p. 1.
+[^34]: Id.
+[^35]: Id ,at p. 2.
+[^36]: Id .
+[^37]: Comment and Opposition to the Motion to Reconsider Entry of Judgment Filed by Respondent
+[^38]: Id ,at p. 3.
+[^39]: Id , at p. 4.
+[^40]: Urgent Manifestation and Compliance dated 15 August 2024 of RB.
+[^41]: Id , at p.1.
+[^42]: Id , at pp.1 -2.
+[^43]: 2024 Amendments to the 2021 NPC Rules of Procedure ,rule VIII, § 7.
+[^44]: 2024 Amendments to the 2021 NPC Rules of Procedure ,rule VIII, § 8.
+[^45]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 1.
+[^46]: 2024 Amendments to the 2021 NPC Rules of Procedure , rule II, § 4 .
+[^47]: National Privacy Commission, Schedule of Fees and Charges of the National Privacy
+[^48]: NPC Circular 23 -01, §4.
+[^49]: Comment and Opposition to the Motion to Reconsider Entry of Judgment Filed by Respondent
+[^50]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 4.
+[^51]: Id ,at p. 4.
+[^52]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^53]: Id.
+[^54]: National Privacy Commission, Guidelines on the Processing of Personal Data During Public
+[^55]: Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19
+[^56]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 7.
+[^57]: Id.
+[^58]: Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion
+[^59]: JA vs. RB, NPC 21 -085, Decision dated 08 February 2024, at pp. 20 -21.
+[^60]: Department of Health and National Privacy Commission, Privacy Guidelines on the Processing
+[^61]: Department of Health, Updated Guidelines on Contact Tracing of Close Contacts of Confirmed
+[^62]: JA vs. RB, NPC 21 -085, Decision dated 08 February 2024, at pp. 18 -19.
+[^63]: Id.
+[^64]: Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion
+[^65]: Motion for Reconsideration dated 08 July 2024 of RB , at p. 7.
+[^66]: Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion
+[^67]: Data Privacy Act of 2012, chapter IV, § 16 (f) .
+[^68]: Data Privacy Act of 2012 ,chapter II, § 7 (b) .
+[^69]: Motion for Reconsideration dated 0 9July 2024 of RB, at p. 8.
+[^70]: Data Privacy Act of 2012 ,chapter VIII, § 3 7.
+[^71]: An Act to Ordain and Institute the Civil Code of the Philippines [Civil Code of the Philippines],
+[^72]: NFM vs. Bank of the Philippine Islands Family –Credit Card Division , NPC 19 -1273, Decision
+[^2021]: ) (NPC Circular 2021 -02).
+

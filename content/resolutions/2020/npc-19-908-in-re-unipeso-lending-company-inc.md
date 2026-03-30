@@ -1,13 +1,23 @@
 ---
-title: "NPC 19-908: In re: Unipeso Lending Company, Inc."
-description: "the Fa ct -Finding Report dated 30 August 2019 no later than ten (10) NPC 19 -908"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC 19-908
+- npc 19-908
+date: '2024-01-01'
+description: the Fa ct -Finding Report dated 30 August 2019 no later than ten (10)
+  NPC 19 -908
 draft: false
+reference: NPC 19-908
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC 19-908: In re: Unipeso Lending Company, Inc.'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC 19-908
@@ -22,8 +32,6 @@ draft: false
 
 ## Resolution Text
 Republic of the Philipp ines
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 IN RE:  NSO LENDING COMPANY INC.
 
@@ -43,9 +51,8 @@ filed by NSO Lending Company, Inc., A.I. , U.U. , L.O. , I.A.O. , and E.U.
 
 02 October 2019 issued by this Commission.
 
-Facts
-
-On 29 August 2019, a Fact -Finding Report (“Report”) was submitted
+### Facts
+On 29 August 2019, a FactFinding Report (“Report”) was submitted
 
 to the Commission containing a brief narration of the material facts
 
@@ -65,21 +72,20 @@ by the Commission to the Respondents. The Commission instructed
 
 all the Respondents to file their respective Answers to the allegations
 
-in the Fact -Fi nding Repor t within ten ( 10 ) days from the receipt of said
+in the FactFi nding Repor t within ten ( 10 ) days from the receipt of said
 
 Order.
 
 > 1Rep. Act 11073(2012)
 
-NPC 19 -908
+NPC 19908
 
 For : Violation of the Data
 
-Privacy Act of 2012 NPC 19 -908
+Privacy Act of 2012 NPC 19908
 
 > In Re: NSO Lending Company, Inc.
 > Page 2of 10
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 16 September 2019, Respondents fil ed their Motion to Dismiss 2
 
@@ -93,7 +99,7 @@ individual complainants who appear to be same parties in this case ,
 
 and that the instant sua sponte case failed to comply with National
 
-Privacy Commission (NPC) Circular No. 16 -04, otherwise known as
+Privacy Commission (NPC) Circular No. 1604, otherwise known as
 
 the Rules of Procedure of the NPC (“R ules”) , and hence violated their
 
@@ -115,8 +121,7 @@ Reconside ration , which is nothing but a mere rehash of the
 
 Respondents arguments in its earlier Motion to Dismiss.
 
-Discussion
-
+### Discussion
 The Commission hereby resolves to deny the Motion for
 
 Reconsideration of the Respondents .
@@ -138,10 +143,9 @@ judgments may be avoided for the sake of the stability of the rights
 and status of persons.
 
 > 2Motion to Dismiss dated 16 September 2019
-> 3Jesse Yap vs. Court of Appeals, Eliza Chua and Evelyn Te ,G.R. No. 186730, June 13, 2012 NPC 19 -908
+> 3Jesse Yap vs. Court of Appeals, Eliza Chua and Evelyn Te ,G.R. No. 186730, June 13, 2012 NPC 19908
 > In Re: NSO Lending Company, Inc.
 > Page 3of 10
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Moreover, i n the case of Villarica Pawnshop, Inc. v. Gernale 4, the
 
@@ -177,7 +181,7 @@ Respondents argued on both of its Motion to Dismiss and Motion for
 
 Reconsideration that a group of NPC personnel had co me up with the
 
-Fact -Finding Report with no clear mandate to conduct investigation.
+FactFinding Report with no clear mandate to conduct investigation.
 
 Furthermore, Respondents called out the Commission and boldly
 
@@ -211,10 +215,9 @@ settlement is reached by the parties), the Commission shall act as a
 
 collegial body. For t his purpose, the Commission may be given access
 
-> 4Villarica Pawnshop, Inc. v. Gernale ,G.R. No. 163344, March 20, 2009 NPC 19 -908
+> 4Villarica Pawnshop, Inc. v. Gernale ,G.R. No. 163344, March 20, 2009 NPC 19908
 > In Re: NSO Lending Company, Inc.
 > Page 4of 10
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 to personal information that is subject of any complaint and to collect
 
@@ -250,7 +253,7 @@ data subject , the Commission may investigate on its own
 
 initiative the circumstances surrounding the possible
 
-violation . Investigations may include on -site examination of
+violation . Investigations may include onsite examination of
 
 systems and procedures. If necessary, the Commission may use
 
@@ -278,14 +281,13 @@ created the NPC Task Force on Online Lending Mobile Application .5
 
 The Task Forc e which is composed of highly respected officials and
 
-> 5Privacy Commission Special Order No. 028 ,Privacy Commission Special Order No. 032 -A. NPC 19 -908
+> 5Privacy Commission Special Order No. 028 ,Privacy Commission Special Order No. 032A. NPC 19908
 > In Re: NSO Lending Company, Inc.
 > Page 5of 10
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 not just a “group of personnel” as Respondents called it was later
 
-reconstituted by virtue of Special -Order No. 032 -A. Under the said
+reconstituted by virtue of SpecialOrder No. 032A. Under the said
 
 issuance, the authority to investigate was validly delegated to the Task
 
@@ -299,7 +301,7 @@ recommendations for the Commission to immediately address
 
 concerns of the public. In accomplishing this function, the Task Force
 
-submitted fact -finding report s on several online lending companies,
+submitted factfinding report s on several online lending companies,
 
 one of which is the herein Respondents.
 
@@ -353,11 +355,10 @@ Reconsideration is filed out of time . It must be noted that on 30 August
 
 2019 , the Commission ordered the Respondents to file an Answer to
 
-the Fa ct -Finding Report dated 30 August 2019 no later than ten (10) NPC 19 -908
+the Fa ctFinding Report dated 30 August 2019 no later than ten (10) NPC 19908
 
 > In Re: NSO Lending Company, Inc.
 > Page 6of 10
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 days from its receipt. Th e said Order was received by the Respondents
 
@@ -417,11 +418,10 @@ period . (Emphasis supplied)
 
 Based on the foregoing provision, the Respondents had already
 
-exhausted their remaining period to file for a M otion or an Answer. NPC 19 -908
+exhausted their remaining period to file for a M otion or an Answer. NPC 19908
 
 > In Re: NSO Lending Company, Inc.
 > Page 7of 10
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 The Respondents only have a remaining balance of five (5) days or up
 
@@ -481,10 +481,9 @@ Order No. 18, series of 1987, provides that in case the aggrieved
 > their cases, the Court deems it practical to allow a fresh period of 15 days within which to file the notice
 > of appeal, counted from the receipt of the order dismissing a motion for new trial or motion for
 > reconsideration ” (Neypes vs. CA, G.R. No. 141524, 14 September 2005)
-> 7G.R. No. 194702, 20 April 2015 NPC 19 -908
+> 7G.R. No. 194702, 20 April 2015 NPC 19908
 > In Re: NSO Lending Company, Inc.
 > Page 8of 10
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 party files a motion for reconsideration from an adverse
 
@@ -542,18 +541,16 @@ considered as submitted for final resolution.
 
 However, in the interest of substantial justice, this Commission will
 
-grant a final and non -extendible period of five (5) days for the
+grant a final and nonextendible period of five (5) days for the
 
-Respondents to provide their Answer to the Fact -Finding Report dated
+Respondents to provide their Answer to the FactFinding Report dated
 
 > 8G.R. No. 212607, 27 March 2019
 > 9Priscilla Alma Jo se v. Romon C. Javellana, Et Al., G.R. No. 158239 , 25 January 2012
 
-NPC 19 -908
+NPC 19908
 
 In Re: NSO Lending Company, Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 29 August 2019 . The running of the five (5) days s hall commence from
 
@@ -581,8 +578,6 @@ Pasay City, Philippines;
 
 15 January 2020 .
 
-(Sgd.)
-
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
@@ -595,11 +590,9 @@ LEANDRO ANGELO Y. AGUIRRE JOHN HENRY D. NAGA
 
 Deputy Privacy Commissioner Deputy Privacy Commissioner
 
-Copy furnished: NPC 19 -908
+Copy furnished: NPC 19908
 
 In Re: NSO Lending Company, Inc.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 BAUTISTA ROLEDA JABLA YUSI &
 

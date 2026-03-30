@@ -1,13 +1,23 @@
 ---
-title: "NPC CDO 22-001: CID vs. PH-Check.com"
-description: "Department of Trade and Industry (DTI) Endorsement Letter dated 19 January 2022 ; Initial Report"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: Department of Trade and Industry (DTI) Endorsement Letter dated 19 January
+  2022 ; Initial Report
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC CDO 22-001: CID vs. PH-Check.com'
+aliases:
+- NPC CDO 22-001
+- npc cdo 22-001
+- CID v. PH-Check.com
+- cid v. ph-check.com
+date: '2022-09-22'
 ---
+
+
+
 
 ## Source
 - Reference: NPC CDO 22-001
@@ -23,19 +33,17 @@ draft: false
 - Rights of the Data Subject (Section 16)
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 COMPLAINTS AND INVESTIGATION
 
 DIVISION – NATIONAL PRIVACY
 
-COMMISSION ,
+COMMISSION,
 
 Complainant,
 
--versus -
+-versus-
 
-PH -CHECK.COM ,
+PH -CHECK.COM,
 
 Respondent.
 
@@ -61,7 +69,7 @@ Registration System (BNRS) website of the Department of Trade and
 
 Industry (DTI).
 
-Facts
+### Facts
 
 On 19 January 2022, the DTI endorsed to the CID an e-mail from ASA
 
@@ -87,612 +95,25 @@ dated 21 January 2022 of the Complaints and Investigation Division, Annex “A�
 
 CID CDO 22 -001
 
-For: Violation of the
-
-Data Privacy Act of
-
-2012 CID CDO 22 -001
-
-Complaints and Investigation Division – National Privacy Commission
-
-v. PH -check.com
-
-Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
-According to ASA , if he searche s his full name on Google, then his DTI
-
-business details would appear at the top of the search under PH -
-
-Check.com .3 ASA further stated that his data should only be avail able
-
-on DTI’s portal and repository and thus , requested that the DTI
-
-developers “stop web scraping from [third] party sites. ”4
-
-The CID i ssued its Initial Report dated 21 January 2022 (Initial Report) .
-
-As explained by the CID:
-
-The [DTI] is a government agency established to address local
-
-industry and foreign trade growth. In compliance with Republic
-
-Act 38831 as amended, and its Implementing Rules and
-
-Regulations, and to facilitate ease of registration, DTI established
-
-the online Business Name Registration System (BNRS)[.]
-
-The BNRS Next Gen is a web -based portal that allows end -to -end
-
-registration of business name (BN) for sole proprietors. To make
-
-BN registration more convenient, applicants may submit
-
-applications, pay fees and download their Certificate of BN
-
-registration through the BNRS Next Gen. It also contains publicly
-
-available information about DTI -registered BNs that will help
-
-both the public and other government agencies check the validity
-
-of a particular BN. 5
-
-The CID also provided the following observations in the Initial Report :
-
-3. A google search of the name ‘ASA ’ will show a result that links
-
-his name to ‘STT ’ [ANNEX C].
-
-4. The CID QRSC team investigated the website ‘https://ph -
-
-check.com/ ’ and found out that in the homepage of the website,
-
-a total of 30 Business Names were listed. [ANNEX D]. Using the
-
-website search engine, it will also generate business names not
-
-initially listed on its home page.
-
-5. A search for the business name ‘STT ’ will show that it is listed
-
-in the website [ANNEX E] and upon clicking the name, will
-
-reveal the following business name information: [ANNEX F]
-
-a. Name
-
-b. Status
-
-> 3
-
-Electronic mail dated 14 January 2022 of ASA ; Initial Report dated 21 January 2022 of the
-
-Complaints and Investigation Division, Annex “B”.
-
-> 4
-
-Electronic mail dated 14 January 2022 of ASA ; Initial Report dated 21 January 2022 of the
-
-Complaints and Investigation Division, Annex “B”.
-
-> 5
-
-Complaints and Investigation Division (CID) Initial Report dated 21 January 2022 , at p. 1.CID CDO 22 -001
-
-Complaints and Investigation Division – National Privacy Commission
-
-v. PH -check.com
-
-Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
-c. Type of Entity
-
-d. Business Scope
-
-e. Business T erritory
-
-f. Certificate No./BNN
-
-g. Registration Date
-
-h. Owners/Directors Name and Designation
-
-i. Additional info: Since Registration
-
-6. A search for the word ‘ABC ’ would display all the business
-
-names that starts with the word ‘ABC ’ [ANNEX G]. When th e
-
-listed business name is clicked, such as the displayed business
-
-name ‘ABC – ABCFP ’, the website will redirect to a page where
-
-it displays more information like: [ANNEX H]
-
-a. Name
-
-b. Status
-
-c. Type of Entity
-
-d. Business Scope
-
-e. Business Territory
-
-f. Certificate No./BNN
-
-g. Registration Date
-
-h. Owners/Directors Name and Designation
-
-i. Additional info: Since Registration
-
-7. In both searches, the pages has a Contact Details Table that is
-
-editable. When the team tried to input a dummy contact detail
-
-and then click submit, the website replies with a message ‘Thank
-
-you! Your information will appear after being reviewed by a
-
-moderator ’. [ANNEX I]
-
-8. The website https://ph -check.com/ is devoid of any
-
-information pertaining to the company or its owner and has no
-
-privacy notice. [ANNEX J]
-
-9. The CID QRSC team also visited the DTI BNRS website and
-
-tried to search the Business Name ‘STT ’ and found out that it
-
-displays the same information as found in the website
-
-https://ph -check.com/ [.]
-
-xxx
-
-10 . The business name ‘ABC -ABCFP was also check ed and
-
-similarly, it displays the same information [.]
-
-xxx
-
-Based on the foregoing, it shows that the website https://ph -
-
-check.com/ is scraping business name information which is CID CDO 22 -001
-
-Complaints and Investigation Division – National Privacy Commission
-
-v. PH -check.com
-
-Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
-made publicly available by DTI through its website
-
-https://bnrs.dti.gov.ph/. 6
-
-The CID wrote a letter dated 21 January 2022 to the DTI detailing that
-
-based on its initial investigation, PH -Check.com scrapes data from the
-
-BNRS website. 7
-
-On 07 February 2022, a complaint by KGU was received by the DTI
-
-against PH -Check .com, who also requested for the removal of her
-
-information from the web site. 8 In her complaint, KGU stated that the
-
-website “ contains information about Philippine companies (Name,
-
-Status, Business Scope, Business Territory, Certificate Number/BNN,
-
-Registration Date and Time, as well as the Full Name of the Owner) .”
-
-> 9
-
-KGU also stated that “ when [her] full name is searched on Google,
-
-all [her] business details appear together with [her] full name on PH -
-
-Check.com. ” 10
-
-To prove her claims, KGU provided screenshots of: 1) her information
-
-found in the BNRS website, 2) the Google search results, and 3) her
-
-information found in PH -Check.com. 11
-
-KGU also noted that PH -Check.com does not contain any contact or
-
-owner information, and indicated her lack of consent to the sharing of
-
-her information:
-
-PH -Check.com does not contain contact nor owner information .
-
-I also did not give permission for my information to be shared
-
-to third party websites and to be made available elsewhere.
-
-DTI’s data privacy notice reads:
-
-xxx
-
-The reproduction of my information in PH -Check.com are not
-
-warranted by the conditions above , unless the DTI has a data
-
-sharing agreement with this website. It is not even a licensing
-
-> 6
-
-Complaints and Investigation Division (CID) Initial Report dated 21 January 2022 , at pp. 2-3.
-
-> 7
-
-Letter dated 21 January 2022 of the Complaints and Investigation Division, at p. 1.
-
-> 8
-
-Letter dated 07 February 2022 of KGU , at p. 3.
-
-> 9
-
-Letter dated 07 February 2022 of KGU , at p. 1.
-
-> 10
-
-Letter dated 07 February 2022 of KGU , at p. 2.
-
-> 11
-
-Letter dated 07 February 2022 of KGU , at pp. 1-3. CID CDO 22 -001
-
-Complaints and Investigation Division – National Privacy Commission
-
-v. PH -check.com
-
-Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
-agency nor an entity which facilitates business reg istration -
-
-related transactions.
-
-In this regard, I would like to: (1) complain against the
-
-proprietor of PH -Check.com for replicating my personal
-
-information without my consent and (2) request for the
-
-removal of my personal data from this website. 12
-
-The DTI replied to KGU in a letter dated 08 February 2022. 13 In the
-
-letter, the DTI informed KGU that it has endorsed her complaint to the
-
-NPC. 14 Further, the DTI stated:
-
-We have taken note of your request the removal of your
-
-information on the site PH.check.com . We wish to note however
-
-that this is a third -party site and not affiliated with the DTI.
-
-xxx
-
-We wish to likewise note your observation that data from
-
-PH.check.com is similar with the information displayed in the
-
-public domain of the DTI Bus iness Name Search database. Please
-
-be informed however that the DTI does not have an existing
-
-partnership or agreement with PH -Check.com, nor has DTI
-
-given permission to publish information such as Name, Status,
-
-Business Scope, Business Territory, etc. as well as the full name
-
-of the owner. 15
-
-Subsequently, in a Notice to Explain dated 16 February 2022 , the CID
-
-required the Owner/Administrator of PH -check.com to submit an
-
-explanation as to why it should not be liable for violating the DPA 16
-
-since it had received complaints against the website for disclosing
-
-“public [personal] information and sensitive personal information .” 17
-
-The Notice to Explain was sent to the following emails: ph -check.com -
-
-owner -zjoj@customers.whoisprivacycorp.com , ph -check.com -admin -
-
-tl17@customers.whoisprivacycorp.com, and ph -check.com -tech -
-
-3ysl@customers.whoisprivacycorp.com .18 The said e-mails were
-
-obtained after accessing the website https://who.is/whois/ph -
-
-check.com whe re the Registrar Data provided the contact information
-
-> 12
-
-Letter dated 07 February 2022 of KGU , at p. 3.
-
-> 13
-
-Letter dated 08 February 2022 of the Department of Trade and Industry .
-
-> 14
-
-Letter dated 08 February 2022 of the Department of Trade and Industry .
-
-> 15
-
-Letter dated 08 February 2022 of the Department of Trade and Industry .
-
-> 16
-
-Notice to Explain dated 16 February 2022 of the Complaints and Investigation Division .
-
-> 17
-
-Notice to Explain dated 16 February 2022 of the Complaints and Investigation Division .
-
-> 18
-
-Notice to Explain dated 16 February 2022 of the Complaints and Investigation Division .CID CDO 22 -001
-
-Complaints and Investigation Division – National Privacy Commission
-
-v. PH -check.com
-
-Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
-since the website P H-check.com had no information pertaining to the
-
-website ’s owner .19
-
-However, as of date, PH -Check.com failed to respond to the Notice to
-
-Explain issued by the Commission.
-
-In a Supplemental Report dated 05 July 2022 (Supplemental Report) ,
-
-the CID further alleged:
-
-Based on the investigation, it shows that the disclosure of DTI of
-
-personal information in its website is pursuant to Act No. 38883
-
-and DA O 18 -07, with an undertaking and consent from the data
-
-subject to make such information publicly available.
-
-As for the website https://ph -check.com/, it has not complied
-
-with the [Notice to Explain] . A perusal of the website would
-
-show that it does not contain any Privacy Policy or any statement
-
-as to the purpose of the website, in violation of the general data
-
-privacy principles of transparency, legitimate purpose, and
-
-proportionality .
-
-xxx
-
-Moreover, the owners/administrators took means to hide their
-
-identity and did not provide any contact details, making it
-
-difficult for data subjects to exercise their rights to their personal
-
-information, contrary to the requirements set forth in Section 16
-
-of the DPA [.]
-
-xxx
-
-The data scraping activity of the website https://ph -check.com
-
-and its deliberate intent to hide the identity of its owner or
-
-contact details of its administrators is a c lear violation of Sections
-
-11 and 16 of the DPA, which is detrimental to public interest and
-
-unless restrained, will cause grave and irreparable injury to a
-
-data subject. It is worth noting that as of date, two (2) individuals
-
-have already complained regar ding this matter. 20
-
-The Supplemental Report recommended that a n Application for Cease
-
-and Desist Order (CDO) be filed against PH -Check.com. 21
-
-> 19
-
-Complaints and Investigation Division (CID) Initial Report dated 21 January 2022 , at p. 2, See:
-
-Annex “J”.
-
-> 20
-
-Supplemental Report dated 05 July 2022 of the Complaints and Investigation Division , at pp. 2-
-
-4.
-
-> 21
-
-Supplemental Report dated 05 July 2022 of the Complaints and Investigation Division , at p. 4 .CID CDO 22 -001
-
-Complaints and Investigation Division – National Privacy Commission
-
-v. PH -check.com
-
-Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
-Subsequently, in a Technical Report dated 26 July 2022 (Technical
-
-Report) , the CID stated that based on its examination, “ the data is not
-
-directly being harvested by the website from the API of
-
-bnrs.dti.gov.ph and did not find any website link of the DTI during
-
-this interception .” 22 However, the CID noted that it was possible that
-
-“a separate web crawler is being used by the [PH -Check.com] website
-
-to populate its database causing the data mining to be hidden even
-
-when intercepting data from the main website. ”23
-
-Thereafter, the CID filed its CDO Application , praying that a CDO be
-
-issued against PH -Check.com “in order to preserve and protect public
-
-interest and the right of the data subjects. ”24
-
-Issue
-
-Whether to grant the CDO Application of the CID.
-
-Discussion
-
-The Commission finds that there are sufficient grounds for the
-
-issuance of a CDO against PH -Check .com.
-
-First, the Commission has jurisdiction over the activities of PH -
-
-Check.com in relation to privacy matters . PH -Check.com is
-
-considered a personal information controller ( PIC ) that processes
-
-personal data.
-
-Under the DPA, personal information is defined as “ any information
-
-whether recorded in a material form or not, from which the identity of
-
-an individual is apparent or can be reasonably and directly ascertained
-
-by the entity holding the information, or when put together with other
-
-> 22 Technical Report dated 26 July 2022 of the Complaints and Investigation Division , at p. 1.
-> 23 Techni cal Report dated 26 July 2022 of the Complaints and Investigation Division , at p. 1.
-> 24 Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and
-> Investigation Division , at p. 8.
-
-CID CDO 22 -001
-
-Complaints and Investigation Division – National Privacy Commission
-
-v. PH -check.com
-
-Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
-information would directly and certainly identify an individual. ”25
-
-Sensitive personal information is a subset of personal information
-
-which includes information “[i] ssued by government agencies
-
-peculiar to an individual .” 26
-
-Here, the information displayed on the website include t he first name,
-
-middle name, and last name of the owner or director who is registered
-
-in the DTI’s BNRS. 27 Other details found in the website include the DTI
-
-Certificate Number or Business Name Number (BNN), status, type of
-
-entity, business scope, business territory, and registration date. 28 There
-
-are also fields in the website which allow anyone to provide the
-
-address, phone number, and website or email address of the
-
-business. 29
-
-Thus, there are personal data displayed on PH -Check.com that can be
-
-classified as personal information.
-
-Next, processing is defined in the DPA as “ any operation or any set of
-
-operations performed upon personal information including, but not
-
-limited to, collection, recording, organization, storag e…use [and]
-
-consolidatio n” of personal data. 30 Meanwhile, a PIC “refers to as a
-
-person or organization who controls the collection, holding,
-
-processing or use of personal information .” 31
-
-In its CDO Application, the CID alleged that PH -Check.com collected
-
-“data from [the] DTI[‘s] BNRS [website] and displayed it in its
-
-website. ”32 These actions thus fall under the definition of processing
-
-defined in the DPA.
-
-> 25
-
-An Act Protecting Individual Personal Information in Information and Communications Systems
-
-in the Government and the Private Sector, Creating for This Purpose a National Privacy
-
-Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173, chapter
-
 I, § 3 (g) (2012) (Data Privacy Act of 2012) .
 
 > 26
 
-Data Privacy Act of 2012 , chapter I, § 3 (l) (2012).
+Data Privacy Act of 2012, chapter I, § 3 (l) (2012).
 
 > 27
 
 Complaints and Investigation Division, Application for Issuance of Cease and Desist Order dated
 
-16 August 2022, at p. 1; See  Initial Report dated 21 January 2022 , Annex “F”.
+16 August 2022, at p. 1; See  Initial Report dated 21 January 2022, Annex “F”.
 
 > 28
 
-Initial Report dated 21 January 2022 of the Complaints and Investigation Division , Annex “F”.
+Initial Report dated 21 January 2022 of the Complaints and Investigation Division, Annex “F”.
 
 > 29
 
-Initial Report dated 21 January 2022 of the Complaints and Investigation Division , Annex “F”.
+Initial Report dated 21 January 2022 of the Complaints and Investigation Division, Annex “F”.
 
 > 30
 
@@ -700,21 +121,19 @@ Data Privacy Act of 2012, c hapter I, § 3 (j) (2012).
 
 > 31
 
-Data Privacy Act of 2012 , chapter I, § 3 (h) (2012).
+Data Privacy Act of 2012, chapter I, § 3 (h) (2012).
 
 > 32
 
 Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and
 
-Investigation Division , at p.3. CID CDO 22 -001
+Investigation Division, at p.3. CID CDO 22 -001
 
 Complaints and Investigation Division – National Privacy Commission
 
 v. PH -check.com
 
 Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 PH -Check.com is also a PIC given that it is the one that has control
 
@@ -776,12 +195,12 @@ security and public interest. 35
 
 As part of its rule -making power and to flesh out its power to issue
 
-CDOs , the Commission issued NPC Circular No. 2020 -02 , also known
+CDOs, the Commission issued NPC Circular No. 2020 -02, also known
 
 > 33 National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of
 > 2012, rule I, § 3 (m) (2016) (IRR of the DPA) .
 > 34 Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and
-> Investigation Division , at p.3.
+> Investigation Division, at p.3.
 > 35 Data Privacy Act of 2012, c hapter II, § 7 (C) (2012).
 
 CID CDO 22 -001
@@ -791,8 +210,6 @@ Complaints and Investigation Division – National Privacy Commission
 v. PH -check.com
 
 Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 as the Rules on the Issuance of Cease and Desist Order s (NPC Circular
 
@@ -842,7 +259,7 @@ The CID provided the following arguments in its CDO Application: 1)
 
 PH-Check.com is doing some act or practice that is in violation of the
 
-DPA and its IRR ,37 2) PH -Check.com is considered an “unknown
+DPA and its IRR,37 2) PH -Check.com is considered an “unknown
 
 [(PIC)]”, 38 3) PH -Check.com ’s act is detrimental to the public interest
 
@@ -852,7 +269,7 @@ rights, 39 4) unless restrained, PH -Check.com’s existence “ will cause
 
 > 36
 
-Rules on the Issuance of Cease and Desist Order , rule II, § 5..
+Rules on the Issuance of Cease and Desist Order, rule II, § 5..
 
 > 37
 
@@ -864,13 +281,13 @@ Investigation Division, at p . 3.
 
 Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and
 
-Investigation Division , at p.3.
+Investigation Division, at p.3.
 
 > 39
 
 Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and
 
-Investigation Division , at p. 6.CID CDO 22 -001
+Investigation Division, at p. 6.CID CDO 22 -001
 
 Complaints and Investigation Division – National Privacy Commission
 
@@ -878,15 +295,13 @@ v. PH -check.com
 
 Order
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 grave and irreparable injury to the data subjects ”, 40 and 5) substantial
 
 evidence exists for the concurrence of all the grounds to issue a CDO. 41
 
 The CID in its Application alleged that the quantum of proof to
 
-warrant the issuance of a CDO is substantial evidence ,42 or “ that
+warrant the issuance of a CDO is substantial evidence,42 or “ that
 
 amount of relevant evidence tha t a reasonable mind might accept as
 
@@ -936,23 +351,23 @@ Sect ion 11 (General Data
 
 Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and
 
-Investigation Division , at p. 7.
+Investigation Division, at p. 7.
 
 > 41
 
 Application for Issuance of Cease and Desist Order dated 16 August 20 22 of the Complaints and
 
-Investigation Division , at p p. 7-8.
+Investigation Division, at p p. 7-8.
 
 > 42
 
 Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and
 
-Investigation Division , at p. 6.
+Investigation Division, at p. 6.
 
 > 43
 
-De Jesus v. Guerrero III , G.R. No. 171491, 04 September 2009 .
+De Jesus v. Guerrero III, G.R. No. 171491, 04 September 2009 .
 
 > 44
 
@@ -967,8 +382,6 @@ Complaints and Investigation Division – National Privacy Commission
 v. PH -check.com
 
 Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 Privacy Principles) and Section
 
@@ -1045,7 +458,7 @@ transparency, legitimate purpose, and proportionality under
 Section 11 [of the DPA.] 45
 
 > 45 Application for Issuance of C ease and Desist Order dated 16 August 2022 of the Complaints and
-> Investigation Division , at p p.4-5.
+> Investigation Division, at p p.4-5.
 
 CID CDO 22 -001
 
@@ -1054,8 +467,6 @@ Complaints and Investigation Division – National Privacy Commission
 v. PH -check.com
 
 Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 The CID also claimed that the rights of data subjects in Section 16 of
 
@@ -1125,23 +536,21 @@ informed on how they will be able to exercise their data privacy rights.
 
 Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and
 
-Investigation Division , at p. 6.
+Investigation Division, at p. 6.
 
 > 47
 
-Data Privacy Act of 2012 , chapter III, § 1 1.
+Data Privacy Act of 2012, chapter III, § 1 1.
 
 > 48
 
-IRR of the DPA , rule I V, § 1 8.CID CDO 22 -001
+IRR of the DPA, rule I V, § 1 8.CID CDO 22 -001
 
 Complaints and Investigation Division – National Privacy Commission
 
 v. PH -check.com
 
 Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 The website does not also provide who the owner, adminis trator, or
 
@@ -1197,21 +606,21 @@ There is also substantial evidenc e to find that t he rights of the data
 
 subjects to be informed and erasure are being violated. The NPC,
 
-through the DTI, received complaints against PH -Check.com ,
+through the DTI, received complaints against PH -Check.com,
 
 requesting the latter to stop scraping the personal information and
 
 > 49 Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints
 > and Investigation Division, at p. 5.
-> 50 Complaints and Investigation Division (CID) Initial Report dated 21 January 2022 , Annex “J” .
-> 51 IRR of the DPA , rule I V, § 1 8 (b) .
+> 50 Complaints and Investigation Division (CID) Initial Report dated 21 January 2022, Annex “J” .
+> 51 IRR of the DPA, rule I V, § 1 8 (b) .
 > 52 Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and
 > Investigation Division, at p .3.
 > 53 Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and
 > Investigation Division, at p .3.
 > 54 Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and
 > Investigation Division, at p .5.
-> 55 Complaints and Investigation Division (CID) Initial Report dated 21 January 2022 , Annex “J” .
+> 55 Complaints and Investigation Division (CID) Initial Report dated 21 January 2022, Annex “J” .
 
 CID CDO 22 -001
 
@@ -1220,8 +629,6 @@ Complaints and Investigation Division – National Privacy Commission
 v. PH -check.com
 
 Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 remov e the personal data fro m the website .56 Indeed, the data subjects’
 
@@ -1245,7 +652,7 @@ for failure to post privacy notice and to furnish the data subjects with
 
 necessary information before the processing or at the next practical
 
-opportunity . As to the right to er asure , PH -Check’s website failed to
+opportunity . As to the right to er asure, PH -Check’s website failed to
 
 provide the contact information of the owners /administrators in order
 
@@ -1289,7 +696,7 @@ subject s.
 > Complaints and Investigation Division, Annex “B” ;Letter dated 07 February 2022 of KGU .
 > 57 Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints
 > and Investigation Division, at p. 3.
-> 58 Letter dated 07 February 2022 of KGU , at p. 3.
+> 58 Letter dated 07 February 2022 of KGU, at p. 3.
 
 CID CDO 22 -001
 
@@ -1299,11 +706,9 @@ v. PH -check.com
 
 Order
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 The second ground is likewise present since the processing is
 
-detrimental to the public ’s interests , and a CDO is required for the
+detrimental to the public ’s interests, and a CDO is required for the
 
 preservation and protection of the rights of the data subjects.
 
@@ -1325,7 +730,7 @@ and website or email . 59 Thus, anyone can enter information regarding
 
 these information without any security measure or verification on
 
-the ir accuracy. This may lead to either unauthorized, or even false ,
+the ir accuracy. This may lead to either unauthorized, or even false,
 
 disclosure of details linked to the sole proprietor registered with the
 
@@ -1373,8 +778,6 @@ v. PH -check.com
 
 Order
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 The continued processing of PH -check.com is detrimental to the public
 
 interest since making the personal information publicly available on
@@ -1393,7 +796,7 @@ irreparable injury to dat a
 
 subject s.
 
-On the third ground , the CID argued:
+On the third ground, the CID argued:
 
 The Ph -Check.com website is still active as of this date and its
 
@@ -1453,8 +856,6 @@ v. PH -check.com
 
 Order
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 It should be emphasized that even DTI itself disclaimed any
 
 connection or affiliation with the website. It “ does not have an existing
@@ -1477,9 +878,9 @@ there is no contact information of the website’s data protection officer
 
 explain why the person or entities should not be held liable for
 
-violating the DPA , but nevertheless failed to respond to the Notice to
+violating the DPA, but nevertheless failed to respond to the Notice to
 
-Explain by the Commission. Fourth, a s discussed , t he Commission
+Explain by the Commission. Fourth, a s discussed, t he Commission
 
 cannot determine whet her the processing complies with the general
 
@@ -1511,11 +912,11 @@ on its website, pursuant to Section 8 of NPC Circular No. 2020 -
 
 02 ; and
 
-2) SUBMIT its COMMENT , within ten (10) days from receipt of
+2) SUBMIT its COMMENT, within ten (10) days from receipt of
 
 this Order, on the allegations in the attached Application for
 
-Issuances of Cease and Desist Order dated 16 August 2022 ,
+Issuances of Cease and Desist Order dated 16 August 2022,
 
 pursuant to Section 9 of NPC Circular No. 2020 -02 .
 
@@ -1529,8 +930,6 @@ v. PH -check.com
 
 Order
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 The National Telecommunications Commission is hereby instructed
 
 to take down the website of PH -Check .com immediately upon receipt
@@ -1539,11 +938,11 @@ of this Order.
 
 The C ease and Desist Order shall be immediately executory and
 
-enforceable upon the receipt of this Order , through e -mail, by PH -
+enforceable upon the receipt of this Order, through email, by PH -
 
 Check.com.
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines.
 
@@ -1586,8 +985,6 @@ Complaints and Investigation Division – National Privacy Commission
 v. PH -check.com
 
 Order
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 Department of Trade and Industry
 

@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2020-017 — Termination of Services Due to Corporate Dissolution"
-description: "''''''''''' '''' '''''''''''''''''''''''' '''''' '''''''''''''' '''''''' ''''''''' ''' '''' ''''''''''''' ''''''''''''''''''''' '''''''' '''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2020-017 — Termination of Services Due to Corporate Dissolution"
+description: "Guidance on data privacy obligations when a processor's services are terminated due to corporate dissolution."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,22 +17,13 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                    ADVISORY OPINION NO. 2020-0171
 
- 31 March 2020
+31 March 2020
 
- ''''''''''' '''' ''''''''''''''''''''''''
- '''''' '''''''''''''' ''''''''
- ''''''''' ''' '''' ''''''''''''' ''''''''''''''''''''' ''''''''
- '''''''''''''''''''''''''''''
-
-
-
-              Re:      TERMINATION OF SERVICES DUE TO CORPORATE
+   Re:      TERMINATION OF SERVICES DUE TO CORPORATE
                        DISSOLUTION
 
-Dear '''''''''' '''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to clarify matters in relation to the termination of the
@@ -47,7 +38,7 @@ However, in anticipation of the forthcoming corporate dissolution of HDI, the pa
 a Letter of Agreement (Letter) detailing the terms for the termination of the SIA. In the Letter,
 it was stated among others, that:
 
-            “In consideration of complete and proper disposal of the above enumerated
+   “In consideration of complete and proper disposal of the above enumerated
             data/information conducted by HDI Systech in the presence of and under the supervision
             of ''''' ''''' ''''''''''' on January 28, 2020, TBM hereby release, discharge and waive any
             and all actions of whatever nature which Bayleaf may have against HDI Systech, its
@@ -57,29 +48,19 @@ it was stated among others, that:
             copies of documents, codes, and database that HDI Systech acquired under the Software
             Implementation Agreement with Bayleaf executed in January 28, 2020.”
 
-
-1 Tags: personal information controller, personal information processor, corporate dissolution; accountability; data subjects’
-
-rights; liability.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
-
-2012], Republic Act No. 10173 (2012).
-
-                                 5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307
-
 In line with the forgoing provision in the Letter, Bayleaf would now like to seek clarification
 on the following matters:
 
-    1. Is the stipulation in the Letter cited above tenable? Should Bayleaf require HDI to issue
+   1. Is the stipulation in the Letter cited above tenable? Should Bayleaf require HDI to issue
        a certification of complete and proper disposal in lieu of the Letter? What instrument
        should be prepared which will best uphold the data privacy of the data subjects in this
        case?
 
-    2. Who shall be made liable for any negligence or punishable acts under the DPA if the
+   2. Who shall be made liable for any negligence or punishable acts under the DPA if the
        responsible party is a dissolved corporation? Based on the facts, who should be made
        liable?
 
-Relationship between Bayleaf and HDI
+#### Relationship between Bayleaf and HDI
 
 An examination of the SIA executed between the parties would reveal that Bayleaf is the
 customer and HDI is the supplier of the software. In this scenario, Bayleaf is the personal
@@ -97,7 +78,9 @@ But as stated in your letter request, “in the course of performing the service
 personal data.” With this, we therefore assume that HDI is a PIP who had the occasion to
 process personal data during the implementation of the SIA.
 
-Disposal of information upon termination of agreement
+### Discussion
+
+#### Disposal of information upon termination of agreement
 
 The determination of the appropriate security measures to be undertaken by the parties with
 regard to the disposal and turnover of confidential information is best left with the parties as
@@ -143,6 +126,8 @@ In any case, a data subject may file a complaint in case of violation of his or 
 or personal data breach, or who are otherwise personally affected by a violation of the Data
 Privacy Act, may file complaints for violations of the Act.5
 
+#### Dissolution of a corporation and concomitant obligations and liabilities
+
 With respect to the dissolution of a corporation and the concomitant obligations and liabilities
 of its directors, officers, and/or employees, the same shall be governed by its Articles of
 Incorporation and By-Laws, and the provisions of the Revised Corporation Code (RCC).6
@@ -163,7 +148,6 @@ Such being the case, the liability of HDI’s directors, officers, employees, ag
 representatives as stated in paragraphs 15.5 and 15.6 of the SIA will remain until the time
 provided for under the RCC and existing rules and jurisprudence, to enable it to defend any
 suit against it.
-
 
 4 Heirs of Severina San Miguel v. CA, 416 Phil. 943, 954 (2001).
 5 National Privacy Commission, NPC Advisory Opinion No. 2017-058 (October 3, 2017).
@@ -188,8 +172,6 @@ information or when the facts are changed or elaborated.
 For your reference.
 
 Very truly yours,
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner

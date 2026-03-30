@@ -1,6 +1,6 @@
 ---
-title: "NPC Advisory Opinion No. 2025-007_Redacted"
-description: "Re: IMPLEMENTATION OF THE UNIFIED IDENTIFICATION CARD SYSTEM FOR PERSONS WITH DISABILITIES"
+title: "NPC Advisory Opinion No. 2025-007 — Implementation of Unified Identification Card System for Persons with Disabilities"
+description: "On the applicability of identification card guidelines and biometric data processing for the Unified ID System for persons with disabilities under the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -14,20 +14,17 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                         ADVISORY OPINION NO. 2025-0071
 
-
-
-
-         Re:    IMPLEMENTATION OF THE UNIFIED IDENTIFICATION CARD
+   Re:    IMPLEMENTATION OF THE UNIFIED IDENTIFICATION CARD
                 SYSTEM FOR PERSONS WITH DISABILITIES
 
-Dear
+Dear [Redacted],
 
 We respond to your request for an advisory opinion regarding the following queries:
 
-    1. Whether NPC Circular 2023-03 or the Guidelines on Identification Cards is applicable
+### Discussion
+
+   1. Whether NPC Circular 2023-03 or the Guidelines on Identification Cards is applicable
        to the Unified ID System for PWDs;
     2. Whether there are existing guidelines as to the collection, utilization, and processing
        of biometric data of data subjects; and
@@ -52,12 +49,9 @@ to the Unified ID System for PWDs
 NPC Circular No. 2023-03 prescribes the minimum requirements and standards for the lawful
 collection, processing, and issuance of identification cards containing personal data.
 
-
-1 Tags: NPC Circular 2023-03; PWD IDs; Biometric Data; security measures.
-
 However, as provided by Section 1 of the Circular:
 
-         “ID cards issued by government agencies pursuant to their respective
+   “ID cards issued by government agencies pursuant to their respective
          regulatory mandate, such as but not limited to, driver’s license, passport,
          Professional ID card of a Registered Professional, including for this purpose
          the Integrated Philippines (IBP) Lawyers ID, Tax Identification Number
@@ -116,16 +110,16 @@ an exemption, data protection principles and security safeguards remain applicab
 matter of good practice and accountability. Accordingly, if the DSWD pursues the processing
 of biometric data for this purpose, it must ensure that:
 
-    1. Adequate technical, organizational, and physical security measures are in place to
+   1. Adequate technical, organizational, and physical security measures are in place to
        protect the data from unauthorized access, use, or disclosure;
 
-    2. Data subjects are informed through clear and accessible privacy notices regarding the
+   2. Data subjects are informed through clear and accessible privacy notices regarding the
        purpose, scope, and retention period of the data collected;
 
-    3. A Privacy Impact Assessment (PIA) is conducted prior to the implementation of the
+   3. A Privacy Impact Assessment (PIA) is conducted prior to the implementation of the
        Unified ID System; and
 
-    4. Data retention is strictly limited to the period necessary to achieve the declared and
+   4. Data retention is strictly limited to the period necessary to achieve the declared and
        legitimate purpose.
 
 These measures will not only mitigate privacy risks but also demonstrate the DSWD’s
@@ -137,13 +131,9 @@ you have provided. Any extraneous fact that may be subsequently furnished us may
 our present position. Please note further that our Advisory Opinion is not intended to
 adjudicate the rights and obligations of the parties involved.
 
-
 For your reference.
 
-
 Very truly yours,
-
-
 
 (Sgd.)
 VIDA ZORA G. BOCAR

@@ -1,24 +1,22 @@
 ---
-title: "NPC 24-005: In re: RVB v. JTL"
-description: "NPC 24-005: In re: RVB v. JTL"
+title: "Unknown: Resolution"
+description: "Resolution addressing a Complaint filed by RVB against JTL for an"
+aliases:
+  - "UNKNOWN"
+  - "unknown"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2024"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2024
+  - npc-case
+date: "2024-08-01"
 draft: false
 ---
 
-## Source
-- Reference: NPC 24-005
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/02/NPC-24-005-2024.08.01-RVB-v.-JTL-Resolution.pdf
-- Source page: http://privacy.gov.ph/resolutions/
-- Issue date: August 1, 2024
-- Published on NPC site: Fri, 07 Feb 2025 00:43:56 GMT
-- Pages: 15
+## Source-Reference: NPC 24-005-Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/02/NPC-24-005-2024.08.01-RVB-v.-JTL-Resolution.pdf-Source page: http://privacy.gov.ph/resolutions/
+- Issue date: August 1, 2024-Published on NPC site: Fri, 07 Feb 2025 00:43:56 GMT-Pages: 15
 
-## Source Tags
-- Accessing due to Negligence (Section 26)
+## Source Tags-Accessing due to Negligence (Section 26)
 - Defense of Legal Claims (Section 13 (f))
 - Legitimate interest (Section 12 (f))
 - Outright Dismissal
@@ -28,9 +26,7 @@ RVB
 
 Complainant,
 
--versus -
-
-JTL ,
+-versus-JTL ,
 
 Respondent.
 
@@ -46,8 +42,7 @@ Sensitive Personal Information Due to Negligence ) of the Republic Act
 
 No. 10173 or the Data Privacy Act of 2012 (DPA).
 
-Facts
-
+### Facts
 On 24 January 2024, RVB filed a complaint against JTL for violating
 
 Section 26 (Access Due to Negligence ) of Republic Act No. 10173 or the
@@ -68,14 +63,6 @@ displayed his registered mobile number , with individuals who were
 
 not part of their original conversation. 4 According to RVB , the “action
 
-> 1Complaints -Assisted Form, 19 January 2024 ,at 3, in RVB v. JTL , NPC 24 -005 (NPC 20 24 ).
-> 2Decision, 08 March 2024, in RVB v. JTL ,NPC 24 -005 (NPC 2024).
-> 3Complaints -Assisted Form, 19 January 2024 , at 2, in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 4Id.
-
-NPC 21 -235
-
-NPC 24 -005
 
 For: Violation of the Data
 
@@ -136,27 +123,12 @@ which included his mobile number .13 In addition, RVB mentioned that
 
 the NTE referenced an audio recording submitted by JTL ’s father
 
-which he claims to be violative of Republic Act No. 4200 or the Anti -
-
-Wiretapping Act. 14
+which he claims to be violative of Republic Act No. 4200 or the Anti-Wiretapping Act. 14
 
 On 22 October 2023, KMC issued a Memorandum (Notice of Decision)
 
 absolving RVB and clearing him of any wrongdoing. 15 The
 
-> 5Id.
-> 6Id. at 3.
-> 7Id.
-> 8Id. Annexes .
-> 9Complaints -Assisted Form, 19 January 2024, Annexes ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 10 Id.
-> 11 Id.
-> 12 Id.
-> 13 Id.
-> 14 Id. at 3.
-> 15 Complaints -Assisted Form, 19 January 2024, Annexes ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
-
-NPC 24 -005
 
 RVB vs. JTL
 
@@ -228,15 +200,6 @@ under Section 13 (f) in relation to Section 12 (f) of the DPA when it
 
 processed RVB ’s personal data. 22
 
-> 16 Id.
-> 17 Id.
-> 18 Id.
-> 19 Id. at 3 .
-> 20 Id.
-> 21 Decision, 08 March 2024, at 2, in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 22 Id. at 4.
-
-NPC 24 -005
 
 RVB vs. JTL
 
@@ -274,7 +237,7 @@ On 18 April 2024, the Commission En Banc issued an Order granting
 
 Complainant’s MR :
 
-WHEREFORE , premises considered, the Commission resolves to
+**WHEREFORE** , premises considered, the Commission resolves to
 
 GRANT the Motion for Reconsideration dated 26 March 2024
 
@@ -296,12 +259,6 @@ the Reply within five (5) days from receipt of Complainant’s
 
 Reply. 28
 
-> 23 Motion for Reconsideration, 26 March 2024, in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 24 Id. at 1 .
-> 25 Id.
-> 26 Id. at 2.
-> 27 Id.
-> 28 Order ,18 April 2024, in RVB v. JTL , NPC 24 -005 (NPC 2024). NPC 24 -005
 > RVB vs. JTL
 > Page 5of 15
 
@@ -363,18 +320,6 @@ JTL stated that “[g]ranting for the sake of argument that there was
 
 persona l information involved” , it was still justified under the DPA , as
 
-> 29 Comment ,04 June 2024 ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 30 Id. at 5 .
-> 31 Id.
-> 32 Id. at 6 .
-> 33 Id.
-> 34 Id.
-> 35 Comment ,04 June 2024 , at 6, in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 36 Id.
-> 37 Id.
-> 38 Id. at 7 .
-> 39 Id.
-> 40 Id. NPC 24 -005
 > RVB vs. JTL
 > Page 6of 15
 
@@ -438,14 +383,6 @@ emphasized that the screenshots were not shared indiscriminately but
 
 only with those authorized by law to investigate the matter .48
 
-> 41 Comment ,04 June 2024 , at 7, in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 42 Id.
-> 43 Id. at 8 .
-> 44 Id.
-> 45 Id.
-> 46 Id.
-> 47 Comment ,04 June 2024 , at 8, in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 48 Id. NPC 24 -005
 > RVB vs. JTL
 > Page 7of 15
 
@@ -501,18 +438,6 @@ privacy. 60 Citing jurisprudence, he argued that the reasonableness of
 
 this expectation depends on whether the individual exhibited an
 
-> 49 Id.
-> 50 Id.
-> 51 Comment ,04 June 2024 ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 52 Reply ,10 June 2024 ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 53 Id. at 2 .
-> 54 Id.
-> 55 Id.
-> 56 Id.
-> 57 Id.
-> 58 Reply ,10 June 2024 , at 2, in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 59 Id.
-> 60 Id. NPC 24 -005
 > RVB vs. JTL
 > Page 8of 15
 
@@ -560,24 +485,12 @@ who decides whether he could keep his job. 69 JTL claimed that RVB is
 
 was designed to harass him. 70
 
-Issue
-
+### Issue
 Whether JTL is liable under Section 26 of the DPA (Access Due to
 
 Negligence).
 
-Discussion
-
-> 61 Id.
-> 62 Id. at 3 .
-> 63 Id.
-> 64 Reply ,10 June 2024 , at 3, in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 65 Rejoinder ,10 June 2024 , at 2, in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 66 Id. at 4 .
-> 67 Id. at 5 .
-> 68 Id .at 6 .
-> 69 Id.
-> 70 Id. NPC 24 -005
+### Discussion
 > RVB vs. JTL
 > Page 9of 15
 
@@ -651,7 +564,6 @@ forth:
 
 . . .
 
-> 71 Id. §26 .NPC 24 -005
 > RVB vs. JTL
 
 (g) Personal information refers to any information whether
@@ -724,10 +636,6 @@ The third element requires that the access to personal or sensitive
 
 personal information was not authorized under the DPA or any other
 
-> 72 Id. § 3 (g) .
-> 73 Id.
-
-NPC 24 -005
 
 RVB vs. JTL
 
@@ -791,12 +699,6 @@ The r equisites for processing personal information based on legitimate
 
 interest are established in this case.
 
-> 74 Id. §13 (f).
-> 75 KRL v . Trinity University of Asia, AA, MC, NCB, RG GV, GCT, RR, MR, PB, CID Case No. 17 -K-003,
-> 19 November 2019, at 6, available at https://www.privacy.gov.ph/wp -content/uploads/2020/10/CID -17 -K-
-> 003 -KRL -v-Trinity -Decision -PSD10Aug2020.pdf (last accessed 05 August 2024).
-> 76 Data Privacy Act 0f 2012, §12 (f).
-> 77 National Privacy Commission, Guidelines on Legitimate Interest , Circular No. 07 , Series of 20 23
 > [NPC Circ. No. 23 -07 ], § 4(13 December 20 23 ). NPC 24 -005
 > RVB vs. JTL
 
@@ -860,13 +762,8 @@ to a particular case outside its jurisdiction, 79 or the propriety of the
 
 legal strategy employed by parties in legal proceedings. 80
 
-> 78 Motion for Reconsideration, 26 March 2024, at 2, in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 79 RJC v. DL, NPC 22 -012, 10 November 2022, at 8, available at https://privacy.gov.ph/wp -
 > content/uploads/2023/08/NPC -22 -012 -2022.11.10 -RJC -v. -DL -Decision.pdf (last accessed 05
 > August 2024).
-> 80 Id .at 11 .
-
-NPC 24 -005
 
 RVB vs. JTL
 
@@ -932,10 +829,7 @@ not pertain to a violation of the [DPA] or does not involve a privacy
 
 violation or personal data breach. ”83 This provision is intended to
 
-> 81 Decision, 08 March 2024, in RVB v. JTL , NPC 24 -005 (NPC 2024).
-> 82 National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission
 > [NPC 2021 Rules of Procedure], rule IV, § 1 (3) (28 January 2021).
-> 83 Id. NPC 24 -005
 > RVB vs. JTL
 
 apply only when it is clear from the face of the complaint itself that no
@@ -984,7 +878,7 @@ reserved for the Commission , but it also deprived RVB of a proper
 
 adjudication of his claims .
 
-WHEREFORE , premises considered, the Commission resolves that the
+**WHEREFORE** , premises considered, the Commission resolves that the
 
 Complaint filed by RVB against JTL is hereby DISMISS ED for lack of
 
@@ -994,34 +888,22 @@ This is without prejudice to the filing of appropriate civil, criminal, or
 
 administrative cases before any other forum or tribunal, if any.
 
-SO ORDERED.
+**SO ORDERED**.
 
 City of Pasay, Philippines.
 
 01 August 2024 .
 
-> 84 Order ,18 April 2024, at 4, in RVB v. JTL , NPC 24 -005 (NPC 2024).
-
-NPC 24 -005
 
 RVB vs. JTL
-
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 WE CONCUR:
-
-Sgd.
-
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
-
-Sgd.
-
 NERISSA N. DE JESUS
 
 Deputy Privacy Commissioner
@@ -1043,3 +925,170 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+[^1]: Complaints -Assisted Form, 19 January 2024 ,at 3, in RVB v. JTL , NPC 24 -005 (NPC 20 24 ).
+[^2]: Decision, 08 March 2024, in RVB v. JTL ,NPC 24 -005 (NPC 2024).
+[^3]: -KRL -v-Trinity -Decision -PSD10Aug2020.pdf (last accessed 05 August 2024).
+[^4]: Id.
+[^5]: Id.
+[^6]: Id. at 3.
+[^7]: Id.
+[^8]: Id. Annexes .
+[^9]: Complaints -Assisted Form, 19 January 2024, Annexes ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^10]: Id.
+[^11]: Id.
+[^12]: Id.
+[^13]: Id.
+[^14]: Id. at 3.
+[^15]: Complaints -Assisted Form, 19 January 2024, Annexes ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^16]: Id.
+[^17]: Id.
+[^18]: Id.
+[^19]: Id. at 3 .
+[^20]: Id.
+[^21]: Decision, 08 March 2024, at 2, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^22]: Id. at 4.
+[^23]: Motion for Reconsideration, 26 March 2024, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^24]: Id. at 1 .
+[^25]: Id.
+[^26]: Id. at 2.
+[^27]: Id.
+[^28]: Order ,18 April 2024, in RVB v. JTL , NPC 24 -005 (NPC 2024). NPC 24 -005
+[^29]: Comment ,04 June 2024 ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^30]: Id. at 5 .
+[^31]: Id.
+[^32]: Id. at 6 .
+[^33]: Id.
+[^34]: Id.
+[^35]: Comment ,04 June 2024 , at 6, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^36]: Id.
+[^37]: Id.
+[^38]: Id. at 7 .
+[^39]: Id.
+[^40]: Id. NPC 24 -005
+[^41]: Comment ,04 June 2024 , at 7, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^42]: Id.
+[^43]: Id. at 8 .
+[^44]: Id.
+[^45]: Id.
+[^46]: Id.
+[^47]: Comment ,04 June 2024 , at 8, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^48]: Id. NPC 24 -005
+[^49]: Id.
+[^50]: Id.
+[^51]: Comment ,04 June 2024 ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^52]: Reply ,10 June 2024 ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^53]: Id. at 2 .
+[^54]: Id.
+[^55]: Id.
+[^56]: Id.
+[^57]: Id.
+[^58]: Reply ,10 June 2024 , at 2, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^59]: Id.
+[^60]: Id. NPC 24 -005
+[^61]: Id.
+[^62]: Id. at 3 .
+[^63]: Id.
+[^64]: Reply ,10 June 2024 , at 3, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^65]: Rejoinder ,10 June 2024 , at 2, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^66]: Id. at 4 .
+[^67]: Id. at 5 .
+[^68]: Id .at 6 .
+[^69]: Id.
+[^70]: Id. NPC 24 -005
+[^71]: Id. §26 .NPC 24 -005
+[^72]: Id. § 3 (g) .
+[^73]: Id.
+[^74]: Id. §13 (f).
+[^75]: KRL v . Trinity University of Asia, AA, MC, NCB, RG GV, GCT, RR, MR, PB, CID Case No. 17 -K-003,
+[^76]: Data Privacy Act 0f 2012, §12 (f).
+[^77]: National Privacy Commission, Guidelines on Legitimate Interest , Circular No. 07 , Series of 20 23
+[^78]: Motion for Reconsideration, 26 March 2024, at 2, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^80]: Id .at 11 .
+[^81]: Decision, 08 March 2024, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^82]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission
+[^83]: Id. NPC 24 -005
+[^84]: Order ,18 April 2024, at 4, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^1]: Complaints -Assisted Form, 19 January 2024 ,at 3, in RVB v. JTL , NPC 24 -005 (NPC 20 24 ).
+[^2]: Decision, 08 March 2024, in RVB v. JTL ,NPC 24 -005 (NPC 2024).
+[^3]: -KRL -v-Trinity -Decision -PSD10Aug2020.pdf (last accessed 05 August 2024).
+[^4]: Id.
+[^5]: Id.
+[^6]: Id. at 3.
+[^7]: Id.
+[^8]: Id. Annexes .
+[^9]: Complaints -Assisted Form, 19 January 2024, Annexes ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^10]: Id.
+[^11]: Id.
+[^12]: Id.
+[^13]: Id.
+[^14]: Id. at 3.
+[^15]: Complaints -Assisted Form, 19 January 2024, Annexes ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^16]: Id.
+[^17]: Id.
+[^18]: Id.
+[^19]: Id. at 3 .
+[^20]: Id.
+[^21]: Decision, 08 March 2024, at 2, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^22]: Id. at 4.
+[^23]: Motion for Reconsideration, 26 March 2024, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^24]: Id. at 1 .
+[^25]: Id.
+[^26]: Id. at 2.
+[^27]: Id.
+[^28]: Order ,18 April 2024, in RVB v. JTL , NPC 24 -005 (NPC 2024). NPC 24 -005
+[^29]: Comment ,04 June 2024 ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^30]: Id. at 5 .
+[^31]: Id.
+[^32]: Id. at 6 .
+[^33]: Id.
+[^34]: Id.
+[^35]: Comment ,04 June 2024 , at 6, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^36]: Id.
+[^37]: Id.
+[^38]: Id. at 7 .
+[^39]: Id.
+[^40]: Id. NPC 24 -005
+[^41]: Comment ,04 June 2024 , at 7, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^42]: Id.
+[^43]: Id. at 8 .
+[^44]: Id.
+[^45]: Id.
+[^46]: Id.
+[^47]: Comment ,04 June 2024 , at 8, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^48]: Id. NPC 24 -005
+[^49]: Id.
+[^50]: Id.
+[^51]: Comment ,04 June 2024 ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^52]: Reply ,10 June 2024 ,in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^53]: Id. at 2 .
+[^54]: Id.
+[^55]: Id.
+[^56]: Id.
+[^57]: Id.
+[^58]: Reply ,10 June 2024 , at 2, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^59]: Id.
+[^60]: Id. NPC 24 -005
+[^61]: Id.
+[^62]: Id. at 3 .
+[^63]: Id.
+[^64]: Reply ,10 June 2024 , at 3, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^65]: Rejoinder ,10 June 2024 , at 2, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^66]: Id. at 4 .
+[^67]: Id. at 5 .
+[^68]: Id .at 6 .
+[^69]: Id.
+[^70]: Id. NPC 24 -005
+[^71]: Id. §26 .NPC 24 -005
+[^72]: Id. § 3 (g) .
+[^73]: Id.
+[^74]: Id. §13 (f).
+[^75]: KRL v . Trinity University of Asia, AA, MC, NCB, RG GV, GCT, RR, MR, PB, CID Case No. 17 -K-003,
+[^76]: Data Privacy Act 0f 2012, §12 (f).
+[^77]: National Privacy Commission, Guidelines on Legitimate Interest , Circular No. 07 , Series of 20 23
+[^78]: Motion for Reconsideration, 26 March 2024, at 2, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^80]: Id .at 11 .
+[^81]: Decision, 08 March 2024, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+[^82]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission
+[^83]: Id. NPC 24 -005
+[^84]: Order ,18 April 2024, at 4, in RVB v. JTL , NPC 24 -005 (NPC 2024).
+

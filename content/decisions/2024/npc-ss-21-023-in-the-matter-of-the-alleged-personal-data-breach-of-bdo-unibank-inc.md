@@ -1,11 +1,20 @@
 ---
-title: "NPC SS 21-023: In The Matter of The Alleged Personal Data Breach of BDO Unibank, Inc."
-description: "In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., Order dated 17 December"
+title: 'NPC SS 21-023: In the Matter of the Alleged Personal Data Breach of BDO Unibank,
+  Inc.'
+description: Special proceedings against BDO Unibank, Inc. alleging personal data
+  breach from hacked accounts; dismissed for lack of substantial evidence of violations
+  of Sections 26 and 30 of the DPA.
+aliases:
+- NPC SS 21-023
+- npc ss 21-023
+- In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.
+- in the matter of the alleged personal data breach of bdo unibank, inc.
 tags:
-  - "decision"
-  - "type/decision"
-  - "year/2024"
-  - "npc-case"
+- decision
+- type/decision
+- year/2021
+- npc-case
+date: '2024-06-05'
 draft: false
 ---
 
@@ -46,9 +55,9 @@ x----------------------------------------------------x
 
 NAGA , P.C.;
 
-Before the Commission is a Fact -Finding Report dated 12 July 2022
+Before the Commission is a Fact-Finding Report dated 12 July 2022
 
-(FFR) and a Supplemental Fact -Finding Report dated 13 February
+(FFR) and a Supplemental Fact-Finding Report dated 13 February
 
 2023 (Supplemental FFR) from the Complaints and Investigation
 
@@ -72,21 +81,13 @@ Further, t he FFR alleged that BDO committed violations of Sections
 
 2012 (DPA) .
 
-Facts
-
+### Facts
 The CID submitted to the Commission En Banc an Initial Report
 
 tagged as QRSC 21 -130 dated 13 December 202 1, concerning the
 
 alleged hacked BDO accounts and unauthorized fund transfers to the
 
-NPC SS 21 -023
-
-For: Violation of the
-
-Data Privacy Act of
-
-2012 NPC SS 21 -023
 
 In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
 
@@ -146,20 +147,6 @@ On or about December 6, 2021, the Bank’s Fraud Management
 
 Team detected irregular activities after receiving reports that a
 
-> 1Complaints and Investigation Division, In the Matter of Alleged Personal Data Breach of BDO
-> Unibank, Inc., QRSC 21 -130, Initial Report dated 13 December 2021.
-> 2Complaints and Investigation Division, Notice to Explain dated 13 December 2021 to BDO
-> Unibank, Inc.
-> 3Id.
-> 4Id.
-> 5Complaints and Investigation Division, Notice to Explain dated 13 December 2021 to Union
-> Bank of the Philippines.
-> 6BDO Unibank, Inc., Letter of Explanation to the NTE dated 16 December 2021.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 number of clients’ accounts may have been subjected to a new
 
 and sophisticated fraud technique. This fraud technique was
@@ -192,7 +179,7 @@ User IDs and passwords were inputted by the fraudster and
 
 were not taken from the BDO system. Passwords are stored
 
-using a one -way hash, and the Bank cannot decrypt what the
+using a one-way hash, and the Bank cannot decrypt what the
 
 accountholders have assigned as passwords to their respective
 
@@ -234,15 +221,13 @@ At the outset of detection of the irregular activities, the Bank
 
 immediately applied a patch to address the vulnerability on this
 
-legacy web -service application which is presently in the process
+legacy web-service application which is presently in the process
 
 of being replaced. The Bank’s quick -action response included,
 
 among others, the forced expiration of existing passwords of
 
-online banking users in order for them to update their NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
+online banking users in order for them to update their
 
 passwords. The Bank addressed various communications on
 
@@ -256,7 +241,7 @@ holder named MDN. The beneficiary accounts of the funds involved
 
 in the alleged hacking are legitimate accounts which were subjected
 
-to Union Bank’s know -your -customer mechanism. The use of the
+to Union Bank’s know-your-customer mechanism. The use of the
 
 name MDN is a misuse of the Instapay beneficiary name. ”8
 
@@ -312,15 +297,6 @@ the monitoring, detecting, analyzing, and reporting of the
 
 relevant information security events;
 
-> 7BDO Unibank, Inc., Letter of Explanation to the NTE dated 16 December 2021.
-> 8Union Bank of the Philippines, Letter of Explanation dated 15 December 2021
-> 9Id.
-> 10 Id.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 c. Documents and/or communications involving, in connection
 
 with, or relevant to the security breach when the Incident
@@ -375,37 +351,15 @@ requiring them to appear before the Commission on 04 January 2022
 
 via Microsoft (MS) Teams. 15
 
-> 11
-
-In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., Order dated 17 December
-
 2021.
-
-> 12
-
-Complaints and Investigation Division, In the Matter of Alleged Personal Data Breach of BDO
 
 Unibank, Inc., QRSC 21 -130, Supplemental Report dated 20 December 2021.
 
-> 13
-
-In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Order To
-
 Appear for Clarificatory Conference dated 22 December 2021.
-
-> 14
-
-In re: The Matter of Hacking of Certain BDO Unibank, Inc. Accounts, NPC Case SS 21 -023,
 
 Order To Appear for Clarificatory Conference dated 22 December 2021.
 
-> 15
-
-In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Order To
-
-Appear for Clarificatory Conference dated 22 December 2021. NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
+Appear for Clarificatory Conference dated 22 December 2021.
 
 On 31 December 2021, BDO submitted its compliance to the Order
 
@@ -497,12 +451,6 @@ services from another attack. In addition, the Bank also force -
 
 expired passwords to ensure that customers update their
 
-> 16 BDO Unibank, Inc., Response to the Order dated (17 December 2021) dated 31 December 2021.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 passwords in order to protect their accounts. 17
 
 Moreover, BDO described the three (3) techniques that were used by
@@ -569,14 +517,6 @@ control process, to wit:
 
 • Online Banking reconfigured to reject MB OTP Authenticator
 
-> 17 BDO Unibank, Inc., Response to the Order dated (17 December 2021) dated 31 December 2021.
-> 18 Id. , at p. 3.
-> 19 Id.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 • Maximum allowed device was reduced from 5 to 1 device per
 
 customer
@@ -639,18 +579,6 @@ ng Pilipinas dated 21 December 2021, requesting for information to
 
 the following:
 
-> 20 BDO Unibank, Inc., Response to the Order dated (17 December 2021) dated 31 December 2021.
-> 21 Id.
-> 22 Id.
-> 23 Id.
-> 24 BDO Unibank, Inc., Response to the Order dated (17 December 2021) dated 31 December 2021.
-> 25 Complaints and Investigation Division, Letter to the National Bureau of Investigation dated 31
-> December 2021.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 1. The actions you have required from BDO in relation to the
 
 incident;
@@ -712,22 +640,6 @@ phishing website involved in the fraud incident;
 8. Incident reports on the fraud incident, including reports from
 
 third -party security providers;
-
-> 26 Complaints and Investigation Division, Letter to the Bangko Sentral ng Pilipinas dated 31
-> December 2021.
-> 27 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, (After the
-> Clarificatory Conference on 04 January 2022 with Subpoena Duces Tecum dated 04 June 2022 to
-> BDO Unibank Inc. ;In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS
-> 21 -023, (After the Clarificatory Conference on 04 January 2022 with Subpoena Duces Tecum
-> dated 04 June 2022 to Union Bank of the Philippines.
-> 28 Id .
-> 29 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., QRSC 21 -130, Order (To
-> provide information, submit documents and appear for clarificatory conference) dated 04 January
-> 2022, to Instapay.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
 
 9. Penetration testing reports conducted by the BDO in relation
 
@@ -798,18 +710,6 @@ Instapay;
 c. Limitations, terms and conditions given to the users of
 
 Instapay;
-
-> 30 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, (After the
-> Clarificatory Conference on 04 January 2022 with Subpoena Duces Tecum dated 04 June 2022 to
-> BDO Unibank Inc.
-> 31 Id.
-> 32 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., QRSC 21 -130, Order (To
-> provide information, submit documents and appear for clarificatory conference) dated 04 January
-> 2022, to Instapay.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
 
 d. Security measures are available for the
 
@@ -893,17 +793,6 @@ Framework series of 2017” 34 , Annex 2 – “BSP Circular No. 950 –
 
 Amendments to Part Eight or the Anti -Money Laundering
 
-> 33 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., QRSC 21 -130, Order (To
-> provide information, submit documents and appear for clarificatory conference) dated 04 January
-> 2022, to Instapay.
-> 34 Philippine Payment Management, Inc. (PPMI), Reply to the Order (dated 04 January 2022)
-> dated 18 January 2022, See: Annex 1 “BSP Circular No. 980 –Adoption of National Retail
-> Payment System Framework series of 2017” .
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 Regulations of MORB” 35 , and Annex 3 – “InstaPay Operations
 
 Manual V2.1 (2021 -01 -13) 36 .37  Moreover, in PPMI’s Compliance, they
@@ -969,18 +858,6 @@ Considering that said documents are now part of the Report on
 Examination, the disclosure to outside parties requires prior
 
 BSP approval for the following documents:
-
-> 35 Id. , See: Annex 2 –“BSP Circular No. 950 –Amendments to Part Eight or the Anti -Money
-> Laundering Regulations of MORB”
-> 36 Id. , See: Annex 3 –“InstaPay Operations Manual V2.1 (2021 -01 -13)
-> 37 Id.
-> 38 Id.
-> 39 BDO Unibank, Inc., Response to the Order (dated 04 January 2022) dated 22 January 2022.
-> 40 Id. , at p. 1.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
 
 1. Reports identifying the other fraudulent activities that have
 
@@ -1064,13 +941,6 @@ On 22 January 2022 , the CID issued a letter to NBI requesting further
 
 information with regard to the participation of web developers and
 
-> 41 BDO Unibank, Inc., Response to the Order (dated 04 January 2022) dated 22 January 2022, at p.
-> 1-2, See: Attachments.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 downloaders individuals, the operation of scam pages, and other
 
 necessary information .42
@@ -1125,26 +995,11 @@ contain information that will allow the Technical Team to confirm
 
 and validate the results .48  CID stated that "t he penetration test aims to
 
-> 42 Complaints and Investigation Division, Letter to the National Bureau of Investigation dated 31
-> December 2021.
-> 43 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Order (to
-> Show Cause) dated 03 February 2022.
-> 44 BDO Unibank, Inc., Request for an additional period to respond dated 09 February 2022.
-> 45 BDO Unibank, Inc., Response to Order (03 February 2022) dated 14 February 2022.
-> 46 Id .
-> 47 Complaints and Investigation Division, Letter to the Securities and Exchange Commission
-> dated 16 February 2022.
-> 48 Complaints and Investigation Division, Technical Report to CID 22 -0020 dated 15 March 2022.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 test BDO’s mobile application for vulnerabilities and deliver
 
 actionable evidence and guidance to assist with mitigations. ”49
 
-The CID furnished the Commission En Banc of its Fact -Finding
+The CID furnished the Commission En Banc of its Fact-Finding
 
 Report dated 12 July 2022 concerning the sua sponte investigation
 
@@ -1198,15 +1053,7 @@ BSP Circular No. 980, series of 2017, only the account numbers are
 
 collected when transferring funds from one bank to another. No
 
-> 49 Complaints and Investigation Division, Technical Report to CID 22 -0020 dated 15 March 2022.
-> 50 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
-> Finding Report dated 12 July 2022.
-> 51 Id.
-> 52
-
-Id ., at p. 41. NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
+Id ., at p. 41.
 
 other personal information is required. ”53  The CID also stated that
 
@@ -1268,19 +1115,6 @@ BDO liable for Section 30 of the DPA (Concealment of Security
 
 Breaches Involving Sensitive Personal Information) .59
 
-> 53 Id., at p. 6.
-> 54 Id .
-> 55 Id.
-> 56 Fact -Finding Report dated 12 July 2022 of the Complaints and Investigation Division (CID) ,at
-> p. 7.
-> 57 Id.
-> 58 Id., at p. 27.
-> 59 Id., at pp. 27 -28.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 Next, the CID also asserted that BDO is liable for Section 26 of the
 
 DPA (Accessing Personal Information and Sensitive Personal
@@ -1338,18 +1172,6 @@ filed against BDO. 64
 In turn, BDO submitted its Supplement to the Position Paper dated
 
 22 January 2022, dated 19 August 2022, stating that:
-
-> 60 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
-> Finding Report dated 12 July 2022 ,at pp. 29 -32.
-> 61 Id., at p. 35.
-> 62 Id., at p. 35.
-> 63 Id., at pp. 35 -40.
-> 64 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
-> Finding Report dated 12 July 2022 ,at p. 41.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
 
 The Bank, however, would like to sincerely acknowledge its
 
@@ -1413,24 +1235,11 @@ unauthorized fund transfers.” 67  BDO attached Annexes 1 -50 showing
 
 the fifty (50) case logs documenting calls from its affected clients. 68
 
-In support of its FFR, CID submitted its Supplemental Fact -Finding
+In support of its FFR, CID submitted its Supplemental Fact-Finding
 
 Report dated 13 February 2023. 69  In the said Supplemental Fact -
 
 Finding Report (Supplemental FFR), CID raised the same issues,
-
-> 65 Supplement to the Position Paper dated 22 January 2022 dated 19 August 2022 of BDO
-> Unibank Inc., at p. 1.
-> 66 Supplement to the Position Paper dated 22 January 2022 dated 19 August 2022 of BDO Unibank
-> Inc., at p. 5.
-> 67 BDO Unibank, Inc., Manifestation dated 26 August 2022 of BDO Unibank Inc., at p. 1.
-> 68 Manifestation dated 26 August 2022 BDO Unibank, Inc., at p. 2.
-> 69 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023,
-> Supplemental Fact -Finding Report dated 13 February 2023.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
 
 namely: “whether or not BDO violated Section 26 of the Data Privacy
 
@@ -1490,7 +1299,7 @@ Supplement to the Position Paper dated 22 January 2022, dated
 
 19 August 2022, and the Manifestation dated 26 August 2022,
 
-the CID affirms its Amended Fact -Finding Report dated 12 July
+the CID affirms its Amended Fact-Finding Report dated 12 July
 
 2022. 72
 
@@ -1500,18 +1309,9 @@ WHEREFORE, premises considered, BDO Unibank, Inc. (BDO)
 
 and its responsible officers are hereby ORDERED to file its
 
-COMMENT on the Fact -Finding Report dated 12 July 2022, and
+COMMENT on the Fact-Finding Report dated 12 July 2022, and
 
-Supplemental Fact -Finding Report dated 13 February 2023 of
-
-> 70 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023,
-> Supplemental Fact -Finding Report dated 13 February 2023 , at p. 2.
-> 71 Id. , at p. 5.
-> 72 Id. , at p. 5.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
+Supplemental Fact-Finding Report dated 13 February 2023 of
 
 the Complaints and Investigation Division (CID) within fifteen
 
@@ -1541,7 +1341,7 @@ that the Honorable Court NU LLIFY respondent NPC’s Order
 
 dated 30 June 2023 and ENJOIN respondent NPC from acting
 
-on the Fact -Finding Reports and further proceeding in NPC SS
+on the Fact-Finding Reports and further proceeding in NPC SS
 
 21 -023. 75
 
@@ -1573,19 +1373,6 @@ proceedings in NPC SS 21 -023, including the directive of this
 
 Honorable Commission for BDO to comment, pending the
 
-> 73 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Order
-> dated 30 June 2023.
-> 74 BDO Unibank Inc., Request for Extension of Time dated 29 September 2023.
-> 75 BDO Unibank, Inc. vs. National Privacy Commission, C.A. -G.R. SP NO. 172458, Omnibus Motion
-> dated 13 October 2023.
-> 76 Id.
-> 77 Id.
-> 78 BDO Unibank, Inc. ,Letter (Request to Defer/Hold in Abeyance), dated 23 October 2023.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 resolution of the aforesaid Omnibus Motion by the Court of
 
 Appeal .79
@@ -1602,9 +1389,9 @@ Proceedings of BDO Unibank, Inc. for NPC SS 21 -023. The
 
 Commission hereby DIRECTS BDO Unibank, Inc. to file its
 
-COMMENT to the Fact - Finding Report dated 12 July 2022, and
+COMMENT to the Fact-Finding Report dated 12 July 2022, and
 
-the Supplemental Fact -Finding Report dated 13 February 2023
+the Supplemental Fact-Finding Report dated 13 February 2023
 
 of the Complaints and Investigation Division within a non -
 
@@ -1648,20 +1435,6 @@ take -down of fraudulent sites, report of third -party security
 
 providers (RSA) on the fraud incident, and incident reports on the
 
-> 79 BDO Unibank, Inc. ,Letter (Request to Defer/Hold in Abeyance), dated 23 October 2023.
-> 80 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Order
-> dated 12 December 2023.
-> 81 BDO Unibank, Inc. , Comment Ad Cautelam dated 06 March 2024.
-> 82 Id. ,at p. 2.
-> 83 Id. , at p. 2.
-> 84 Id. , at p. 3.
-> 85 Id. , at p. 12.
-> 86 BDO Unibank, Inc. , Motion to Resolve Ad Cautelam dated 10 May 2024.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 fraud incident; Annex D – BDO’s Data Breach Response
 
 Policy/Operation Manual; Annex E – Mobile Banking Architecture
@@ -1674,8 +1447,7 @@ Quitclaims signed by account holders (partial); Annex D – Log -in
 
 logs.  87
 
-Issue
-
+### Issue
 I.  Whether BDO Unibank Inc. is liable under Section 26
 
 (Accessing Personal Information and Sensitive Personal
@@ -1688,8 +1460,7 @@ II.  Whether BDO Unibank Inc . is liable for Section 30
 
 Information) of the DPA.
 
-Discussion
-
+### Discussion
 Under the DPA, the NPC has the obligation to ensure a personal
 
 information controller’s compliance with the la w and institute
@@ -1717,16 +1488,6 @@ An FFR is submitted to the Commission En Banc “for its perusal to
 determine whether violations of the Data Privacy Act of 2012 (DPA)
 
 were committed. Considering that the FFR contains all the findings of
-
-> 87 BDO Unibank, Inc. , Motion to Resolve Ad Cautelam dated 10 May 2024.
-> 88 See Data Privacy Act of 2012, , chapter II, § 7.
-> 89 NPC Circular No. 2021 -01, rule X, §§ 5 -6.
-> 90 National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of
-> 2012, rule III, § (e)(1) (2016) (IRR of the DPA).
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
 
 the investigating division of the NPC, such document is the
 
@@ -1783,19 +1544,6 @@ Information Due to Negligence. – (a) Accessing personal
 information due to negligence shall be penalized by
 
 imprisonment ranging from one (1) year to three (3) years and a
-
-> 91 In re: FCash Global Lending Inc., Operating FastCash Online Lending Application, NPC 19 -909,
-> Resolution dated 28 April 2022., at pp. 3 -4.
-> 92 NPC Circular No. 2021 -01, rule X, §§ 3 -5. See In re: FCash Global Lending Inc ., Operating FastCash
-> Online Lending Application, NPC 19 -909, Resolution dated 28 April 2022.
-> 93 See Data Privacy Act of 2012, , chapter II, § 7(b).
-> 94 NPC Circular No. 2021 -01, rule VIII, § 1.
-> 95 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
-> Finding Report dated 12 July 2022 .
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
 
 fine of not less than Five hundred thousand pesos
 
@@ -1859,20 +1607,6 @@ Sensitive personal information is defined by Section 3(l) of the DPA
 
 as personal information:
 
-> 96 An Act Protecting Individual Personal Information in Information and Communications
-> Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy
-> Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter
-> VIII, § 26 (2012).
-> 97 NPC 22 -006 ( unreported), Decision dated 19 January 2023, at p. 15.
-> 98 An Act Protecting Individual Personal Information in Information and Communications
-> Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy
-> Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter
-> I, § 3(g) (2012).
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 (1) About an individual ’s race, ethnic origin, marital status, age,
 
 color, and religious, philosophical or political affiliations;
@@ -1934,21 +1668,6 @@ As to the second element, the CID asserted that the alleged threat
 actor was able to access at least 861 data subjects’ user IDs,
 
 passwords, IMEI, bank account numbers , mobile numbers , email
-
-> 99 An Act Protecting Individual Personal Information in Information and Communications
-> Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy
-> Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter
-> I, § 3(l) (2012).
-> 100 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
-> Finding Report dated 12 July 2022 .
-> 101 National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16 -03,
-> rule V, § 11 (a).
-> 102 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
-> Finding Report dated 12 July 2022 .
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
 
 addresses , as well as financial information such as the data subject’s
 
@@ -2012,19 +1731,6 @@ ground since it failed to substantiate its claim that BDO provided
 
 access to the “attacker”. Thus , the third element is lacking.
 
-> 103 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
-> Finding Report dated 12 July 2022 .
-> 104 ISO/IEC 27032:2012 (en), §4 Terms and definitions
-> 105 IBC vs. PBI, NPC CID No. 17 -K-004.
-> 106 BDO Unibank, Inc. ,Position Paper dated 22 January 2022 .
-> 107 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
-> Finding Report dated 12 July 2022 .
-> 108 BDO Unibank, Inc. ,Position Paper dated 22 January 2022 .
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 The fourth element is also absent. CID alleged that BDO failed to
 
 exercise extraordinary diligence to protect its clients. 109  Based on
@@ -2087,22 +1793,6 @@ cannot be given credence. Hence, when the complainant relies
 
 on mere conjectures and suppositions, and fails to substantiate
 
-> 109 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
-> Finding Report dated 12 July 2022 .
-> 110 BDO Unibank, Inc. ,Position Paper dated 22 January 2022 .
-> 111 Supplement to the Position Paper dated 22 January 2022 dated 19 August 2022 of BDO
-> Unibank Inc., at p. 5.
-> 112 Complaints and Investigation Division, Technical Report to CID 22 -0020 dated 15 March 2022.
-> 113 Complaints and Investigation Division, In the Matter of Alleged Personal Data Breach of BDO
-> Unibank, Inc., QRSC 21 -130, Supplemental Report dated 20 December 2021.
-> 114 Spouses Ramos vs. Obispo and Far East Bank and Trust Company, G.R. No. 193804, February 27,
-> 2013.
-> 115 De Jesus v. Guerrero III , G.R. No. 171491, 04 September 2009.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 his allegations, the administrative complaint must be
 
 dismissed for lack of merit. 116
@@ -2164,15 +1854,6 @@ In CID’s FFR, it alleged that BDO is liable for Concealment of
 Security Breaches Involving Sensitive Personal Information under
 
 Section 30 of the DPA. It provides:
-
-> 116 De Jesus v. Guerrero III , G.R. No. 171491, 04 September 2009.
-> 117 Rule XII, Section 8 of NPC Circular No. 2021 -01 or the 2021 Rules of Procedure
-> 118 2019 Amendment to the 1989 Revised Rules on Evidence, A.M. No. 19 -08 -15 -SC, Rule 131,
-> Section 1. Emphasis supplied
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
 
 Section 30. Concealment of Security Breaches Involving
 
@@ -2244,13 +1925,6 @@ measures taken by the entity to address the breach. Notification
 
 may be delayed only to the extent necessary to determine the
 
-> 119 Data Privacy Act of 2021, Section 30.
-> 120 Data Privacy Act of 2021, Section 30.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 scope of the breach, to prevent further disclosures, or to restore
 
 reasonable integrity to the information and communications
@@ -2314,17 +1988,6 @@ to access client accounts. 124
 How ever, in response to CID’s allegations, BDO stated in their
 
 Comment Ad Cautelam :
-
-> 121 Data Privacy Act of 2012, § 20 (f).
-> 122 National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of
-> 2016 [NPC Circ. No. 16 -03], §11 (15 December 2016).
-> 123 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
-> Finding Report dated 12 July 2022.
-> 124 Id.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
 
 12. In the course of proceedings before the CID, BDO has
 
@@ -2396,15 +2059,6 @@ evidence or such “relevant evidence that a reasonable mind might
 
 accept as adequate to support a conclusion.” 127
 
-> 125 BDO Unibank, Inc. , Comment Ad Cautelam dated 06 March 2024.
-> 126 In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
-> Finding Report dated 12 July 2022.
-> 127 Ferancullo v. Ferancullo , 538 Phil. 501, 511 (2006).
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 Since the FFR is treated as a complaint in sua sponte investigations,
 
 CID as the party who alleges a fac t, has the burden of proving it. The
@@ -2457,13 +2111,6 @@ Privacy Commissioner
 
 WE CONCUR:
 
-> 128 Agdeppa v. Office of the Ombudsman , supra note 56, at 333 citing De Jesus v. Guerrero III , 614 Phil.
-> 520, 529.
-
-NPC SS 21 -023
-
-In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.,
-
 SGD
 
 LEANDRO ANGELO Y. AGUIRRE
@@ -2505,3 +2152,137 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+
+[^1]: -2, See: Attachments. downloaders individuals, the operation of scam pages, and other necessary information .42
+[^2]: Complaints and Investigation Division, Notice to Explain dated 13 December 2021 to BDO
+[^3]: Id.
+[^4]: Id.
+[^5]: Complaints and Investigation Division, Notice to Explain dated 13 December 2021 to Union
+[^6]: BDO Unibank, Inc., Letter of Explanation to the NTE dated 16 December 2021. number of clients’ accounts may have been subjected to a new and sophisticated fraud technique. This fraud technique was initiated through phishing of clients, which led to unauthorized transactions using BDO Unibank online banking platform.
+[^7]: BDO Unibank, Inc., Letter of Explanation to the NTE dated 16 December 2021.
+[^8]: Union Bank of the Philippines, Letter of Explanation dated 15 December 2021
+[^9]: Id.
+[^10]: Id. c. Documents and/or communications involving, in connection with, or relevant to the security breach when the Incident
+[^11]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., Order dated 17 December 2021.
+[^12]: Complaints and Investigation Division, In the Matter of Alleged Personal Data Breach of BDO
+[^13]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Order To
+[^14]: In re: The Matter of Hacking of Certain BDO Unibank, Inc. Accounts, NPC Case SS 21 -023,
+[^15]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Order To
+[^16]: BDO Unibank, Inc., Response to the Order dated (17 December 2021) dated 31 December 2021. passwords in order to protect their accounts. 17
+[^17]: BDO Unibank, Inc., Response to the Order dated (17 December 2021) dated 31 December 2021.
+[^18]: Id. , at p. 3.
+[^19]: Id. • Maximum allowed device was reduced from 5 to 1 device per customer • Touch ID login web service enhanced to check for a secret hash value, on top of the IMEI value supplied.
+[^20]: BDO Unibank, Inc., Response to the Order dated (17 December 2021) dated 31 December 2021.
+[^21]: -023, (After the Clarificatory Conference on 04 January 2022 with Subpoena Duces Tecum
+[^22]: Id.
+[^23]: Id.
+[^24]: BDO Unibank, Inc., Response to the Order dated (17 December 2021) dated 31 December 2021.
+[^25]: Complaints and Investigation Division, Letter to the National Bureau of Investigation dated 31
+[^26]: Complaints and Investigation Division, Letter to the Bangko Sentral ng Pilipinas dated 31
+[^27]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, (After the
+[^28]: Id .
+[^29]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., QRSC 21 -130, Order (To
+[^30]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, (After the
+[^31]: Id.
+[^32]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., QRSC 21 -130, Order (To
+[^33]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., QRSC 21 -130, Order (To
+[^34]: Philippine Payment Management, Inc. (PPMI), Reply to the Order (dated 04 January 2022)
+[^35]: Id. , See: Annex 2 –“BSP Circular No. 950 –Amendments to Part Eight or the Anti -Money
+[^36]: Id. , See: Annex 3 –“InstaPay Operations Manual V2.1 (2021 -01 -13)
+[^37]: Id.
+[^38]: Id.
+[^39]: BDO Unibank, Inc., Response to the Order (dated 04 January 2022) dated 22 January 2022.
+[^40]: Id. , at p. 1. 1. Reports identifying the other fraudulent activities that have been detected by BDO’s security service providers or internal security officers. (item 4) 2. BDO policies on take -down procedures, as well as proof of implementation of take -down of fraudulent sites, including the phishing website involved in the fraud incident (item 5) 3. Reports of third -party service providers on the fraud incident (item 7) 4. Incident reports on the fraud incident, including reports from third -party security providers (item 8) 5. BDO’s operations manual or standard policy instructions detailing the procedures in case of breach in the bank’s system (item 10) 6. Network diagram showing how the OTP machine and web server is connected to the system (item 12)
+[^41]: BDO Unibank, Inc., Response to the Order (dated 04 January 2022) dated 22 January 2022, at p.
+[^42]: Complaints and Investigation Division, Letter to the National Bureau of Investigation dated 31
+[^43]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Order (to
+[^44]: BDO Unibank, Inc., Request for an additional period to respond dated 09 February 2022.
+[^45]: BDO Unibank, Inc., Response to Order (03 February 2022) dated 14 February 2022.
+[^46]: Id .
+[^47]: Complaints and Investigation Division, Letter to the Securities and Exchange Commission
+[^48]: Complaints and Investigation Division, Technical Report to CID 22 -0020 dated 15 March 2022. test BDO’s mobile application for vulnerabilities and deliver actionable evidence and guidance to assist with mitigations. ”49
+[^49]: Complaints and Investigation Division, Technical Report to CID 22 -0020 dated 15 March 2022.
+[^50]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
+[^51]: Id.
+[^52]: Id ., at p. 41. NPC SS 21 -023 other personal information is required. ”53 The CID also stated that “[InstaPay] does not appear to have direct involvement in the fraud incident. Instapay appears to have been used as the fund transfer mechanism to transfer funds from BDO to other bank accounts because Instapay allows for the instantaneous transfer of funds. ”54
+[^53]: Id., at p. 6.
+[^54]: Id .
+[^55]: Id.
+[^56]: Fact -Finding Report dated 12 July 2022 of the Complaints and Investigation Division (CID) ,at
+[^57]: Id.
+[^58]: Id., at p. 27.
+[^59]: Id., at pp. 27 -28.
+[^60]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
+[^61]: Id., at p. 35.
+[^62]: Id., at p. 35.
+[^63]: Id., at pp. 35 -40.
+[^64]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
+[^65]: Supplement to the Position Paper dated 22 January 2022 dated 19 August 2022 of BDO
+[^66]: Supplement to the Position Paper dated 22 January 2022 dated 19 August 2022 of BDO Unibank
+[^67]: BDO Unibank, Inc., Manifestation dated 26 August 2022 of BDO Unibank Inc., at p. 1.
+[^68]: Manifestation dated 26 August 2022 BDO Unibank, Inc., at p. 2.
+[^69]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023,
+[^70]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023,
+[^71]: Id. , at p. 5.
+[^72]: Id. , at p. 5. the Complaints and Investigation Division (CID) within fifteen (15) days from receipt of this Order. 73
+[^73]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Order
+[^74]: BDO Unibank Inc., Request for Extension of Time dated 29 September 2023.
+[^75]: BDO Unibank, Inc. vs. National Privacy Commission, C.A. -G.R. SP NO. 172458, Omnibus Motion
+[^76]: Id.
+[^77]: Id.
+[^78]: BDO Unibank, Inc. ,Letter (Request to Defer/Hold in Abeyance), dated 23 October 2023. resolution of the aforesaid Omnibus Motion by the Court of
+[^79]: BDO Unibank, Inc. ,Letter (Request to Defer/Hold in Abeyance), dated 23 October 2023.
+[^80]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Order
+[^81]: BDO Unibank, Inc. , Comment Ad Cautelam dated 06 March 2024.
+[^82]: Id. ,at p. 2.
+[^83]: Id. , at p. 2.
+[^84]: Id. , at p. 3.
+[^85]: Id. , at p. 12.
+[^86]: BDO Unibank, Inc. , Motion to Resolve Ad Cautelam dated 10 May 2024. fraud incident; Annex D – BDO’s Data Breach Response
+[^87]: BDO Unibank, Inc. , Motion to Resolve Ad Cautelam dated 10 May 2024.
+[^88]: See Data Privacy Act of 2012, , chapter II, § 7.
+[^89]: NPC Circular No. 2021 -01, rule X, §§ 5 -6.
+[^90]: National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of
+[^91]: In re: FCash Global Lending Inc., Operating FastCash Online Lending Application, NPC 19 -909,
+[^92]: NPC Circular No. 2021 -01, rule X, §§ 3 -5. See In re: FCash Global Lending Inc ., Operating FastCash
+[^93]: See Data Privacy Act of 2012, , chapter II, § 7(b).
+[^94]: NPC Circular No. 2021 -01, rule VIII, § 1.
+[^95]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
+[^96]: An Act Protecting Individual Personal Information in Information and Communications
+[^97]: NPC 22 -006 ( unreported), Decision dated 19 January 2023, at p. 15.
+[^98]: An Act Protecting Individual Personal Information in Information and Communications
+[^99]: An Act Protecting Individual Personal Information in Information and Communications
+[^100]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
+[^101]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16 -03,
+[^102]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
+[^103]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
+[^104]: ISO/IEC 27032:2012 (en), §4 Terms and definitions
+[^105]: IBC vs. PBI, NPC CID No. 17 -K-004.
+[^106]: BDO Unibank, Inc. ,Position Paper dated 22 January 2022 .
+[^107]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
+[^108]: BDO Unibank, Inc. ,Position Paper dated 22 January 2022 .
+[^109]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
+[^110]: BDO Unibank, Inc. ,Position Paper dated 22 January 2022 .
+[^111]: Supplement to the Position Paper dated 22 January 2022 dated 19 August 2022 of BDO
+[^112]: Complaints and Investigation Division, Technical Report to CID 22 -0020 dated 15 March 2022.
+[^113]: Complaints and Investigation Division, In the Matter of Alleged Personal Data Breach of BDO
+[^114]: Spouses Ramos vs. Obispo and Far East Bank and Trust Company, G.R. No. 193804, February 27,
+[^115]: De Jesus v. Guerrero III , G.R. No. 171491, 04 September 2009. his allegations, the administrative complaint must be dismissed for lack of merit. 116
+[^116]: De Jesus v. Guerrero III , G.R. No. 171491, 04 September 2009.
+[^117]: Rule XII, Section 8 of NPC Circular No. 2021 -01 or the 2021 Rules of Procedure
+[^118]: 2019 Amendment to the 1989 Revised Rules on Evidence, A.M. No. 19 -08 -15 -SC, Rule 131,
+[^119]: Data Privacy Act of 2021, Section 30.
+[^120]: Data Privacy Act of 2021, Section 30. scope of the breach, to prevent further disclosures, or to restore reasonable integrity to the information and communications system. 121
+[^121]: Data Privacy Act of 2012, § 20 (f).
+[^122]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of
+[^123]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
+[^124]: Id. 12. In the course of proceedings before the CID, BDO has repeatedly and consistently raised the defense of phishing. It has consistently argued that there was no data breach as would make it liable for violation of the Data Privacy Act because the process leading up to the unlawful access to the account holders’ online banking accounts, which resulted in the unauthorized funds transfers, began with the employment of various phishing techniques against the account holders, which is not equivalent to a breach of BDO’s security. 13. BDO’s defense of phishing is anchored on the Subject
+[^125]: BDO Unibank, Inc. , Comment Ad Cautelam dated 06 March 2024.
+[^126]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21 -023, Fact
+[^127]: Ferancullo v. Ferancullo , 538 Phil. 501, 511 (2006).
+[^128]: Agdeppa v. Office of the Ombudsman , supra note 56, at 333 citing De Jesus v. Guerrero III , 614 Phil.
+[^520]: , 529.
+[^2012]: , rule III, § (e)(1) (2016) (IRR of the DPA). the investigating division of the NPC, such document is the complaint initiating the administrative proceedings in cases of sua sponte investigation. ”91 Thus, the FFR of the CID serves as the complaint in the sua sponte investigation. 92
+[^2013]: .
+[^2016]: [NPC Circ. No. 16 -03], §11 (15 December 2016).
+[^2022]: , to Instapay.

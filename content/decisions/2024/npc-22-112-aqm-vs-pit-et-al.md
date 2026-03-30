@@ -1,26 +1,25 @@
 ---
-title: "NPC 22-112: AQM vs. PIT et al."
-description: "NPC 22-112: AQM vs. PIT et al."
-tags:
-  - "decision"
-  - "type/decision"
-  - "year/2024"
-  - "npc-case"
+description: Complaint for alleged data privacy violations; dismissed or granted based
+  on substantial evidence.
 draft: false
+tags:
+- decision
+- type/decision
+- year/2022
+- npc-case
+title: 'NPC 22-112: AQM v. PIT, et al.'
+aliases:
+- NPC 22-112
+- npc 22-112
+- AQM v. PIT, et al.
+- aqm v. pit, et al.
+date: '2024-04-18'
 ---
+## Source-Reference: NPC 22-112-Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-22-112-2024.04.18-AQM-v.-PIT-et.-al-Decision.pdf-Source page: http://privacy.gov.ph/decisions-2/
+- Issue date: April 18, 2024-Published on NPC site: Thu, 26 Sep 2024 05:37:31 GMT-Pages: 16
 
-## Source
-- Reference: NPC 22-112
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-22-112-2024.04.18-AQM-v.-PIT-et.-al-Decision.pdf
-- Source page: http://privacy.gov.ph/decisions-2/
-- Issue date: April 18, 2024
-- Published on NPC site: Thu, 26 Sep 2024 05:37:31 GMT
-- Pages: 16
-
-## Source Tags
-- Unauthorized Processing (Section 25), Legitimate Interest (Section 12(f))
-- Legitimate Purpose
-- Defense of Legal Claims (Section 13(f))
+## Source Tags-Unauthorized Processing (Section 25), Legitimate Interest (Section 12(f))
+- Legitimate Purpose-Defense of Legal Claims (Section 13(f))
 - Proportionality
 
 ## Decision Text
@@ -28,9 +27,7 @@ AQM ,
 
 Complainant,
 
--versus -
-
-PIT , NPT , and
+-versus-PIT , NPT , and
 
 CNB .
 
@@ -48,8 +45,7 @@ for alleged violation s of Republic Act No. 10173 or the Data Privacy
 
 Act of 2012 (DPA).
 
-Facts
-
+### Facts
 Complainant was setting up a business in Don Salvador, Negros
 
 Occidental, with IT , the father of PIT and husband of NPT .1 She
@@ -72,11 +68,6 @@ and NPT took Complainant’s personal belongings, including her car
 
 and documents containing sensitive personal information which
 
-> 1Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 3,in AQM v. PIT ,NPT , and CNB , NPC
-> 22 -112 (NPC 20 22 ).
-> 2Id.
-> 3Id.
-> 4Id. at 4.
 
 NPC 22 -112
 
@@ -136,18 +127,6 @@ Complainant posited that the act of the Respondents constituted a
 
 “serious breach which should be immediately acted upon since their
 
-> 5Id. at 3-4.
-> 6Id. at 4.
-> 7Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 2,in AQM v. PIT ,NPT , and CNB , NPC
-> 22 -112 (NPC 20 22 ).
-> 8Complaint -Affidavit of AQM against PIT , 2 5 April 2022 ,in AQM v. PIT ,NPT , and CNB , NPC 22 -
-> 112 (NPC 20 22 );Complaint -Affidavit of AQM against NPT , 2 5 April 2022 ,in AQM v. PIT ,NPT ,
-> and CNB , NPC 22 -112 (NPC 20 22 );Complaint -Affidavit of AQM against CNB , 2 5 April 2022 ,in
-> AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ).
-> 9Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 4,in AQM v. PIT ,NPT , and CNB , NPC
-> 22 -112 (NPC 20 22 ).
-> 10 Complaint -Affidavit of AQM against CNB , 2 5 April 2022 , at 4,in AQM v. PIT ,NPT , and CNB ,
-> NPC 22 -112 (NPC 20 22 ).
 
 NPC 22 -112
 
@@ -203,21 +182,6 @@ to inflict harm on NPT which prompted her to file a civil case for the
 
 issuance of a permanent protection order. 23
 
-> 11 Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 4,in AQM v. PIT ,NPT , and CNB ,
-> NPC 22 -112 (NPC 20 22 ).
-> 12 Id. at 5.
-> 13 Id.
-> 14 Id.
-> 15 Order to File Verified Comment and Appear Virtually for Preliminary Conference , 1 3July 2022 ,
-> in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 202 2).
-> 16 Comment of PIT ,20 July 2022, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ).
-> 17 Id. at 1 .
-> 18 Id.
-> 19 Id.
-> 20 Id.
-> 21 Id. at 2 .
-> 22 Comment of PIT ,20 July 2022, at 3, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ).
-> 23 Id.
 
 NPC 22 -112
 
@@ -275,18 +239,6 @@ On 20 July 2022 , NPT filed her Comment. 32 She explained that she is
 
 legally married to IT and begot three (3) children. 33
 
-> 24 Id. at 5 .
-> 25 Id. at 6 .
-> 26 Id. at 4 .
-> 27 Id. at 6 .
-> 28 Comment of PIT ,20 July 2022, at 7, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ).
-> 29 Id.
-> 30 Id.
-> 31 Id.
-> 32 Comment of NPT ,20 July 2022, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ).
-> 33 Id. at 1 .NPC 22 -112
-> AQM v. PIT ,NPT , and CNB
-> Page 5of 16
 
 In addition to the arguments already raised by PIT in his Comment,
 
@@ -340,13 +292,6 @@ Finally, NPT argued that the documents were not the only evidence
 
 to establish the commission of the crime of concubinage. 40
 
-> 34 Id. at 4 .
-> 35 Id.
-> 36 Id. at 5, Annex es C and E .
-> 37 Id. Annex E.
-> 38 Comment of NPT ,20 July 2022, at 7, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ).
-> 39 Id.
-> 40 Id. at 8 .
 
 NPC 22 -112
 
@@ -402,20 +347,6 @@ She further contended that Respondents are liable for violating
 
 Sections 31 (Malicious Disclosure) and 32 (Unauthorized Disclosure)
 
-> 41 Id. at 7 .
-> 42 Id. at 2 .
-> 43 Id.
-> 44 Comment of CNB ,20 July 2022, at 5, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ).
-> 45 Order Noting Respondents Verified Comments and Annexes ,25 July 2022 ,in AQM v. PIT ,NPT ,
-> and CNB , NPC 22 -112 (NPC 202 2).
-> 46 Reply to Comment , 23 August 2022, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 202 2).
-> 47 Id. at 1 .
-> 48 Id.
-> 49 Id.
-> 50 Id.
-> 51 Id. at 6 .
-> 52 Reply to Comment, 23 August 2022, at 6, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 202 2).
-> 53 Id. at 5 .
 
 NPC 22 -112
 
@@ -469,23 +400,6 @@ house where Complainant was temporarily residing, while the second
 
 structure was IT ’s living quarters .63
 
-> 54 Id. at 7 .
-> 55 Order Noting the Complainant’s Reply to Comment , 31 August 2022, in AQM v. PIT ,NPT , and
-> CNB , NPC 22 -112 (NPC 202 2).
-> 56 Entry of Appearanc e, 01 September 2022 ,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC
-> 202 2).
-> 57 Order After the 1st Preliminary Conference held on 02 September 2022, Requiring the Parties to
-> Submit their Respective Memoranda, and Cancelling the 2nd Preliminary Conference on 23
-> September 2022, 05 September 2022, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 2022).
-> 58 Id.
-> 59 Id. at 2 .
-> 60 Order (After the 1 st Prelim in ary Conference held on 02 September 2022, Requiring the Parties to
-> Submit their Respective Memoranda, and Cancelling the 2nd Preliminary Conference on 23
-> September 2022 )05 September 2022, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 2022).
-> 61 Memorandum for the Complainant ,04 October 2022 ,in AQM v. PIT ,NPT , and CNB , NPC 22 -
-> 112 (NPC 2022).
-> 62 Id. at 2 .
-> 63 Id.
 
 NPC 22 -112
 
@@ -513,14 +427,12 @@ their Memorandum out of time. 68 The Motion, however, was denied
 
 by the CID in the interest of substantial justice. 69
 
-Issue
-
+### Issue
 Whe ther Respondents violated Section 25 of the DPA when they
 
 processed Complainant ’s documents .
 
-Discussion
-
+### Discussion
 The Commission dismisses the case for lack of merit.
 
 Section 25 of the DPA provides:
@@ -539,14 +451,6 @@ than Two million pesos (Php2,000,000.00) shall be imposed on
 
 persons who process personal information without the consent
 
-> 64 Id.
-> 65 Id.
-> 66 Id.
-> 67 Memorandum for the Respondent, 05 October 2022 ,in AQM v. PIT ,NPT , and CNB , NPC 22 -112
-> (NPC 2022).
-> 68 Order Denying the Complainant’s Manifestation with Motion to Quash Memoranda of
-> Respondents, 19 October 2022, at 3, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 2022).
-> 69 Id.
 
 NPC 22 -112
 
@@ -604,16 +508,6 @@ modification, retrieval, consultation, use, consolidation,
 
 blocking , erasure or destruction of data. 73
 
-> 70 An Act Protecting Individual Personal Information in Information and Communications Systems
-> in the Government and the Private Sector, Creating for this purpose aNational Privacy
-> Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173 § 25
-> (2012).
-> 71 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21 -006, 16
-> May 2022, at 31, available at https://privacy.gov.ph/wp -content/uploads/2023/05/NPC -21 -006 -
-> 2022.05.16 -Wefund -Lending -Corporation -Decision -on -the -Main -Case -Final.pdf (06 May 2024 ).
-> 72 Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 4,in AQM v. PIT ,NPT , and CNB ,
-> NPC 22 -112 (NPC 20 22 ).
-> 73 Data Privacy Act of 2012 ,§ 3 (j ).
 
 NPC 22 -112
 
@@ -685,10 +579,6 @@ identify an individual.
 
 (l) Sensitive personal information refers to personal information:
 
-> 74 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21 -006, at
-> 31 .
-> 75 Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 2,in AQM v. PIT ,NPT , and CNB ,
-> NPC 22 -112 (NPC 20 22 ).
 
 NPC 22 -112
 
@@ -756,15 +646,6 @@ the documents from the family house. Second, when Respondents
 
 subsequently used these documents as evidence to support their
 
-> 76 Data Privacy Act of 2012 ,§ 3 (g) (l). Emphasis supplied.
-> 77 Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 2,in AQM v. PIT ,NPT , and CNB ,
-> NPC 22 -112 (NPC 20 22 ).
-> 78 Id.
-> 79 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21 -006, at
-> 31.
-> 80 Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 4,in AQM v. PIT ,NPT , and CNB ,
-> NPC 22 -112 (NPC 20 22 ). NPC 22 -112
-> AQM v. PIT ,NPT , and CNB
 
 allegations in the petition for issuance of permanent protection order
 
@@ -828,11 +709,6 @@ necessary for the protection of lawful rights and interests of
 
 natural or legal persons in court proceedings, or the
 
-> 81 Comment of NPT ,20 July 2022, Annex E, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC
-> 20 22 ).
-> 82 Memorandum for the Complainant ,04 October 2022 , at 2, in AQM v. PIT ,NPT , and CNB , NPC
-> 22 -112 (NPC 2022).
-> 83 Comment of CNB ,20 July 2022, at 2, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ).
 
 NPC 22 -112
 
@@ -892,18 +768,6 @@ neither a tool to prevent the discovery of a crime nor a means to hinder
 
 legitimate proceedings. 90
 
-> 84 Data Privacy Act of 2012 ,§13(f) (l). Emphasis supplied.
-> 85 Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 4,in AQM v. PIT ,NPT , and CNB ,
-> NPC 22 -112 (NPC 20 22 ).
-> 86 Id.
-> 87 EA and TA v. EJ, EE and HC ,NPC 17 -018 ,15 July 2019 ,at 8,available at
-> https://privacy.gov.ph/wp -content/uploads/2023/05/NPC -17 -018 -EA -and -TA -v-EJ -Decision -
-> 2019.07.15 -.pdf (last accessed 07 May 202 4).
-> 88 National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012,
-> Republic Act No. 10173, §18 (b) (2016).
-> 89 EA and TA v. EJ, EE and HC , NPC 17 -018 ,15 July 2019 , at 9.
-> 90 Id. NPC 22 -112
-> AQM v. PIT ,NPT , and CNB
 
 Further, the proportionality principle requires that processing must be
 
@@ -961,11 +825,6 @@ SO ORDERED.
 
 City of Pasay, Philippines.
 
-> 91 Data Privacy Act of 2012, § 11 (c) &(d).
-> 92 Comment of PIT ,20 July 2022, at 4, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ).
-> 93 KRL v. Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, PB ,CID 17 -K-003 ,19
-> November 2019 , at 6,available at https://privacy.gov.ph/wp -content/uploads/2023/05/CID -17 -
-> K-003 -KRL -v-Trinity -Decision -PSD -10Aug2020.pdf (last accessed 09 May 202 4).
 
 NPC 22 -112
 
@@ -1022,3 +881,18 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+
+[^1]: Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 3,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 2Id. 3Id. 4Id. at 4.
+[^5]: Id. at 3-4. 6Id. at 4. 7Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 2,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 8Complaint -Affidavit of AQM against PIT , 2 5 April 2022 ,in AQM v. PIT ,NPT , and CNB , NPC 22-> 112 (NPC 20 22 );Complaint -Affidavit of AQM against NPT , 2 5 April 2022 ,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 );Complaint -Affidavit of AQM against CNB , 2 5 April 2022 ,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 9Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 4,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 10 Complaint -Affidavit of AQM against CNB , 2 5 April 2022 , at 4,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ).
+[^11]: Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 4,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 12 Id. at 5. 13 Id. 14 Id. 15 Order to File Verified Comment and Appear Virtually for Preliminary Conference , 1 3July 2022 , in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 202 2). 16 Comment of PIT ,20 July 2022, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 17 Id. at 1 . 18 Id. 19 Id. 20 Id. 21 Id. at 2 . 22 Comment of PIT ,20 July 2022, at 3, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 23 Id.
+[^24]: Id. at 5 . 25 Id. at 6 . 26 Id. at 4 . 27 Id. at 6 . 28 Comment of PIT ,20 July 2022, at 7, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 29 Id. 30 Id. 31 Id. 32 Comment of NPT ,20 July 2022, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 33 Id. at 1 .NPC 22 -112 AQM v. PIT ,NPT , and CNB Page 5of 16
+[^34]: Id. at 4 . 35 Id. 36 Id. at 5, Annex es C and E . 37 Id. Annex E. 38 Comment of NPT ,20 July 2022, at 7, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 39 Id. 40 Id. at 8 .
+[^41]: Id. at 7 . 42 Id. at 2 . 43 Id. 44 Comment of CNB ,20 July 2022, at 5, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 45 Order Noting Respondents Verified Comments and Annexes ,25 July 2022 ,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 202 2). 46 Reply to Comment , 23 August 2022, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 202 2). 47 Id. at 1 . 48 Id. 49 Id. 50 Id. 51 Id. at 6 . 52 Reply to Comment, 23 August 2022, at 6, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 202 2). 53 Id. at 5 .
+[^54]: Id. at 7 . 55 Order Noting the Complainant’s Reply to Comment , 31 August 2022, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 202 2). 56 Entry of Appearanc e, 01 September 2022 ,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 202 2). 57 Order After the 1st Preliminary Conference held on 02 September 2022, Requiring the Parties to Submit their Respective Memoranda, and Cancelling the 2nd Preliminary Conference on 23 September 2022, 05 September 2022, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 2022). 58 Id. 59 Id. at 2 . 60 Order (After the 1 st Prelim in ary Conference held on 02 September 2022, Requiring the Parties to Submit their Respective Memoranda, and Cancelling the 2nd Preliminary Conference on 23 September 2022 )05 September 2022, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 2022). 61 Memorandum for the Complainant ,04 October 2022 ,in AQM v. PIT ,NPT , and CNB , NPC 22-> 112 (NPC 2022). 62 Id. at 2 . 63 Id.
+[^64]: Id. 65 Id. 66 Id. 67 Memorandum for the Respondent, 05 October 2022 ,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 2022). 68 Order Denying the Complainant’s Manifestation with Motion to Quash Memoranda of Respondents, 19 October 2022, at 3, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 2022). 69 Id.
+[^70]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose aNational Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173 § 25 (2012). 71 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21 -006, 16 2022.05.16 -Wefund -Lending -Corporation -Decision -on -the -Main -Case -Final.pdf (06 May 2024 ). 72 Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 4,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 73 Data Privacy Act of 2012 ,§ 3 (j ).
+[^74]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21 -006, at 31 . 75 Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 2,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ).
+[^76]: Data Privacy Act of 2012 ,§ 3 (g) (l). Emphasis supplied. 77 Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 2,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 78 Id. 79 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21 -006, at 31. 80 Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 4,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). NPC 22 -112 AQM v. PIT ,NPT , and CNB
+[^81]: Comment of NPT ,20 July 2022, Annex E, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 82 Memorandum for the Complainant ,04 October 2022 , at 2, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 2022). 83 Comment of CNB ,20 July 2022, at 2, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ).
+[^84]: Data Privacy Act of 2012 ,§13(f) (l). Emphasis supplied. 85 Complaint -Affidavit of AQM against PIT , 2 5 April 2022 , at 4,in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 86 Id. 87 EA and TA v. EJ, EE and HC ,NPC 17 -018 ,15 July 2019 ,at 8,available at 2019.07.15 -.pdf (last accessed 07 May 202 4). 88 National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §18 (b) (2016). 89 EA and TA v. EJ, EE and HC , NPC 17 -018 ,15 July 2019 , at 9. 90 Id. NPC 22 -112 AQM v. PIT ,NPT , and CNB
+[^91]: Data Privacy Act of 2012, § 11 (c) &(d). 92 Comment of PIT ,20 July 2022, at 4, in AQM v. PIT ,NPT , and CNB , NPC 22 -112 (NPC 20 22 ). 93 KRL v. Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, PB ,CID 17 -K-003 ,19 K-003 -KRL -v-Trinity -Decision -PSD -10Aug2020.pdf (last accessed 09 May 202 4).

@@ -1,13 +1,21 @@
 ---
-title: "NPC SS 19-001: In re: Department of Foreign Affairs (DFA) - Passport Breach"
-description: "Helen Flores, DFA Passport Maker Runs Off with All Data , THE PHILIPPINE STAR , 12 January 2019, available at"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: Helen Flores, DFA Passport Maker Runs Off with All Data , THE PHILIPPINE
+  STAR , 12 January 2019, available at
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC SS 19-001: In re: Department of Foreign Affairs (DFA) - Passport Breach'
+aliases:
+- NPC SS 19-001
+- npc ss 19-001
+date: '2022-07-14'
 ---
+
+
+
 
 ## Source
 - Reference: NPC SS 19-001
@@ -22,8 +30,6 @@ draft: false
 - Technical Security Measures
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 IN RE: DEPARTMENT OF FOREIGN
 
 AFFAIRS (DFA) PASSPORT BREACH
@@ -42,7 +48,7 @@ AFFAIRS
 
 x----------------------------------------------------x
 
-AGUIRRE , D. P.C.;
+AGUIRRE, D. P.C.;
 
 This Resolution refers to a sua sponte investigation of the possible
 
@@ -52,7 +58,7 @@ information processed by third parties on behalf of the Department
 
 of Foreign Affairs (DFA) for the issuance and printing of passports.
 
-Facts
+### Facts
 
 In January 2019, several newspaper outlets reported that the DFA is
 
@@ -64,37 +70,33 @@ away” all its applicants’ data. 1
 
 > 1
 
-Helen Flores, DFA Passport Maker Runs Off with All Data , THE PHILIPPINE STAR , 12 January 2019, available at
+Helen Flores, DFA Passport Maker Runs Off with All Data, THE PHILIPPINE STAR, 12 January 2019, available at
 
 https://www.philstar.com/headlines/2019/01/12/1884444/dfa -passport -maker -runs -all -data (19  July 2022) ; John
 
-Nieves, Its Like The Government Doesn’t Care About Protecting Our Data, UNBOX , 13 January 2019, available at
+Nieves, Its Like The Government Doesn’t Care About Protecting Our Data, UNBOX, 13 January 2019, available at
 
 https://unbox.ph/editorials/its -like -the -government -doesnt -care -about -protecting -our -data/ ; Catalina Ricci S.
 
-Madarang, Making Sense of DFA’s Passport Data Theft Controversy, INTERAKSYON , 14 January 2019, available at
+Madarang, Making Sense of DFA’s Passport Data Theft Controversy, INTERAKSYON, 14 January 2019, available at
 
 https://interaksyon.philstar.com/special -features/2019/01/14/142166/making -sense -dfas -passport -data -theft -
 
 controversy -teddyboy -locsin/ .
 
-NPC SS 19 -001 NPC SS 19 -001
-
 In re: Department of Foreign Affairs (DFA) Passport Breach
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 14 January 2019, National Privacy Commission (NPC) , through its
 
 Complaints and Investigation Division (CID), sent a formal
 
-correspondence to DFA Secretary Teodoro L. Locsin , Jr. informing
+correspondence to DFA Secretary Teodoro L. Locsin, Jr. informing
 
 him of reports of alleged mishandling of data for the issuance and
 
 printing of passports. 2
 
-On 23 February 2021, the Commission , through the CID, issued an
+On 23 February 2021, the Commission, through the CID, issued an
 
 Order for DFA to submit the following:
 
@@ -144,22 +146,18 @@ dark web for evidence of database exfiltration. 5 On the possible data
 
 breach reported in the newspaper article, the CID determined that
 
-> 2Letter from National Privacy Commission to DFA Secretary Teodoro L. Locsin ,14 January 2019 ,in In re: DFA –Passport
+> 2Letter from National Privacy Commission to DFA Secretary Teodoro L. Locsin,14 January 2019,in In re: DFA –Passport
 > Breach, NPC SS 19 -001 (NPC 2019).
 > 3CID Order, 23 February 2021, at 1, in In re: DFA –Passport Breach, NPC SS 19 -001 (NPC 2019).
-> 4Letter from Undersecretary Brigido J. Dulay, 18 March 2018, in In re: DFA –Passport Breach , NPC SS 19 -001 (NPC 2019) .
+> 4Letter from Undersecretary Brigido J. Dulay, 18 March 2018, in In re: DFA –Passport Breach, NPC SS 19 -001 (NPC 2019) .
 > 5CID Technical Report, 07 September 2021, at 4, in In the Matter of Department of Foreign Affairs (DFA) Office of
 > Consular Affairs Passport Appointment System (passport.gov.ph) Vulnerability, NPC SS 19 -001 (NPC 2019).
 
-NPC SS 19 -001
-
 In re: Department of Foreign Affairs (DFA) Passport Breach
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 there was no personal data exfiltration that had occurred despite the
 
-alleged “taking away” of passport data. 6 The CID , however,
+alleged “taking away” of passport data. 6 The CID, however,
 
 discovered that several pieces of personal information remain
 
@@ -175,13 +173,13 @@ attackers could bypass security controls and use the website as a
 
 platform for attacks against its users. 9
 
-Based on the CID’s Technical Report ,10  the Commission issued an
+Based on the CID’s Technical Report,10  the Commission issued an
 
 Order on 11 November 2021 directing DFA to comply with the
 
 following within thirty (30) days from its receipt:
 
-WHEREFORE , premises considered, the Commission ORDERS
+WHEREFORE, premises considered, the Commission ORDERS
 
 the Department of Foreign Affairs (DFA) within thirty (30) days
 
@@ -211,9 +209,9 @@ addressing the technical vulnerabilities identified in the DFA
 
 passport system.
 
-SO ORDERED. 11
+**SO ORDERED.** 11
 
-Since DFA did not comply with the Order , o n 31 May 2022, the
+Since DFA did not comply with the Order, o n 31 May 2022, the
 
 Commission, through the Enforcement Division (EnD) , issued its
 
@@ -224,11 +222,7 @@ Commission, through the Enforcement Division (EnD) , issued its
 > 10 Order, 11 November 2021, in In re: DFA –Passport Breach, NPC SS 19 -001 (NPC 2019).
 > 11 Id.
 
-NPC SS 19 -001
-
 In re: Department of Foreign Affairs (DFA) Passport Breach
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Enforcement Letter, reiterating the directives in the Order dated 11
 
@@ -260,13 +254,13 @@ the browser’s search box no longer generate the questionable
 
 result. ”16
 
-Issue
+### Issue
 
 Whether the DFA implemented sufficient measures to manage
 
 security incidents.
 
-Discussion
+### Discussion
 
 A security incident is an event or occurrence that affects or tends to
 
@@ -282,11 +276,11 @@ been put in place. 18
 
 Final Enforcement Assessment Report, 28 June 2022, at 3, in In the Matter of Department of Foreign Affairs (DFA) Office
 
-of Consular Affairs Passport Appointment System (passport.gov.ph) Vulnerability , NPC SS 19 -001 (NPC 2019) .
+of Consular Affairs Passport Appointment System (passport.gov.ph) Vulnerability, NPC SS 19 -001 (NPC 2019) .
 
 > 13
 
-Letter from MGM , Assistant Secretary and Data Protection Officer, Department of Foreign Affairs, to RRSC . and MTP ,
+Letter from MGM, Assistant Secretary and Data Protection Officer, Department of Foreign Affairs, to RRSC . and MTP,
 
 National Privacy Commission, Enforcement Division (09 June 2022)
 
@@ -294,7 +288,7 @@ National Privacy Commission, Enforcement Division (09 June 2022)
 
 Final Enforcement Assessment Report, 28 June 2022, at 3, in In the Matter of Department of Foreign Affairs (DFA) Office
 
-of Consular Affairs Passport Appointment System (passport.gov.ph) Vulnerability , NPC SS 19 -001 (NPC 2019) .
+of Consular Affairs Passport Appointment System (passport.gov.ph) Vulnerability, NPC SS 19 -001 (NPC 2019) .
 
 > 15
 
@@ -302,7 +296,7 @@ Id. at 3 .
 
 > 16
 
-Letter from MGM , Assistant Secretary and Data Protection Officer, Department of Foreign Affairs, to RSC . and MTP ,
+Letter from MGM, Assistant Secretary and Data Protection Officer, Department of Foreign Affairs, to RSC . and MTP,
 
 National Privacy Commission, Enforcement Division (21 June 2022)
 
@@ -318,13 +312,11 @@ Id. NPC SS 19 -001
 
 In re: Department of Foreign Affairs (DFA) Passport Breach
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 When the Commission, through the CID, discovered that several
 
 pieces of personal information remain publicly available and may be
 
-downloaded using a web browser and a specific search criterion ,19
+downloaded using a web browser and a specific search criterion,19
 
 there is no question that a security incident occurred in this case.
 
@@ -391,14 +383,10 @@ the DFA to address the security incidents that the Commission found
 while conducting its investigation. The DFA submitted its report
 
 > 19 Final Enforcement Assessment Report, 28 June 2022, at 3, in In the Matter of Department of Foreign Affairs (DFA) Office
-> of Consular Affairs Passport Appointment System (passport.gov.ph) Vulnerability , NPC SS 19 -001 (NPC 2019) .
+> of Consular Affairs Passport Appointment System (passport.gov.ph) Vulnerability, NPC SS 19 -001 (NPC 2019) .
 > 20 NPC Circ. No. 16 -03, §4.(Emphasis Supplied).
 
-NPC SS 19 -001
-
 In re: Department of Foreign Affairs (DFA) Passport Breach
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 addressing the vulnerabilities of the DFA passport system and
 
@@ -474,11 +462,7 @@ for possible personal data breach. 24  Section 6 of Rule III of NPC
 > 23 Id.
 > 24 NPC Circ. No. 16 -03, § 6 (D).
 
-NPC SS 19 -001
-
 In re: Department of Foreign Affairs (DFA) Passport Breach
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Circular 16 -03 provides for preventive measures to minimize the
 
@@ -506,7 +490,7 @@ breach or security incidents. Considering that the monitoring and
 
 implementation of security measures remains a continuing
 
-responsibility of PIC s, the DFA, as a PIC , shall regularly monitor for
+responsibility of PIC s, the DFA, as a PIC, shall regularly monitor for
 
 security breaches and conduct vulnerability scans of its computer
 
@@ -518,15 +502,13 @@ submission of the Department of Foreign Affairs in response to the
 
 Order dated 11 November 2021 SUFFICIENT . This Commission
 
-resolves that the matter is hereby CLOSED.
+resolves that the matter is hereby ****CLOSED****.
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines .
 
 14 July 2022 .
-
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -536,19 +518,11 @@ WE CONCUR:
 
 > 25 Id.
 
-NPC SS 19 -001
-
 In re: Department of Foreign Affairs (DFA) Passport Breach
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-Sgd.
 
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
-
-Sgd.
 
 DUG CHRISTOPER B. MAH
 

@@ -1,5 +1,5 @@
 ---
-title: "Advisory Opinion No. 2021-041 — Posting Of Names Of Passport Applicants On The Website Of The Office Of Consular Affairs Of The Department Of Foreign Affairs"
+title: "NPC Advisory Opinion No. 2021-041 — Posting Of Names Of Passport Applicants On The Website Of The Office Of Consular Affairs Of The Department Of Foreign Affairs"
 description: "Re: POSTING OF NAMES OF PASSPORT APPLICANTS ON THE WEBSITE OF THE OFFICE OF CONSULAR AFFAIRS OF THE DEPARTMENT OF FOREIGN AFFAIRS"
 tags:
   - "issuance"
@@ -17,19 +17,14 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                               ADVISORY OPINION NO. 2021-0411
 
-    24 November 2021
+   24 November 2021
 
-
-
-
-           Re:     POSTING OF NAMES OF PASSPORT APPLICANTS ON THE
+   Re:     POSTING OF NAMES OF PASSPORT APPLICANTS ON THE
                    WEBSITE OF THE OFFICE OF CONSULAR AFFAIRS OF THE
                    DEPARTMENT OF FOREIGN AFFAIRS
 
-Dear
+Dear [Redacted],
 
 We write in response to your request for advisory opinion received by the National Privacy
 Commission (NPC) which sought confirmation from the NPC whether the Department of
@@ -37,6 +32,8 @@ Foreign Affairs- Office of Civilian Security and Consular Affairs (DFA-OCSCA) ca
 post on the website of the DFA – Office for Consular Affairs (DFA-OCA) the names of
 Philippine passport applicants whose passports were unsuccessfully delivered despite
 repeated attempts.
+
+### Discussion
 
 We note from your letter that due to the influx of passport appointments due to the pandemic,
 the DFA permitted its technical service provider, APO Production Unit, Inc., to integrate a
@@ -50,16 +47,11 @@ despite repeated attempts. This is also in consideration of the fact that the DF
 calling and emailing these applicants were equally ineffective. You now ask whether such
 disclosure is permissible under the Data Privacy Act of 20122 (DPA).
 
-
-
-
-1 Tags: lawful processing of personal information; contract; mandate; general data privacy principles; transparency;
-proportionality; privacy notice.
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Republic Act No. 10173 (2012).
 
-                           URL https //www privacy gov ph Email Add info@privacy gov ph * Tel No 8234-2228
+   URL https //www privacy gov ph Email Add info@privacy gov ph * Tel No 8234-2228
 
 Lawful basis for processing personal information;
 Section 12; fulfillment of functions; contract
@@ -72,15 +64,15 @@ thus, posting of the same on the website of the DFA-OCA constitutes processing5 
 should comply with the provisions of the DPA, particularly Section 12 of the law providing
 for the criteria for lawful processing of personal information, to wit:
 
-            SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of
+   SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of
             personal information shall be permitted only if not otherwise prohibited by law, and
             when at least one of the following conditions exists: x x x
 
-            (b) The processing of personal information is necessary and is related to the fulfillment
+   (b) The processing of personal information is necessary and is related to the fulfillment
             of a contract with the data subject or in order to take steps at the request of the data
             subject prior to entering into a contract; x x x
 
-            (e) The processing is necessary in order to respond to national emergency, to comply with
+   (e) The processing is necessary in order to respond to national emergency, to comply with
             the requirements of public order and safety, or to fulfill functions of public authority
             which necessarily includes the processing of personal data for the fulfillment of its
             mandate; or xxx”
@@ -101,7 +93,7 @@ of a contract with a data subject, i.e., delivery of passport.
 We note that in your letter, you have cited Section 12 (f) on legitimate interest as a possible
 basis for processing:
 
-            (f) The processing is necessary for the purposes of the legitimate interests pursued by the
+   (f) The processing is necessary for the purposes of the legitimate interests pursued by the
             personal information controller or by a third party or parties to whom the data is
             disclosed, except where such interests are overridden by fundamental rights and
             freedoms of the data subject which require protection under the Philippine Constitution.
@@ -115,20 +107,20 @@ Protection Regulation (GDPR) for guidance:
 5 Id. § 3 (j).
 6 Philippine Passport Act of 1996, Republic Act No. 8239 (1996).
 
-                                                        “Article 6
+   “Article 6
 
-                                               Lawfulness of processing
+   Lawfulness of processing
 
-          1. Processing shall be lawful only if and to the extent that at least one of the
+   1. Processing shall be lawful only if and to the extent that at least one of the
              following applies: x x x
 
-               f.   processing is necessary for the purposes of the legitimate interests
+   f.   processing is necessary for the purposes of the legitimate interests
                     pursued by the controller or by a third party, except where such
                     interests are overridden by the interests or fundamental rights and
                     freedoms of the data subject which require protection of personal data,
                     in particular where the data subject is a child.
 
-               Point (f) of the first subparagraph shall not apply to processing carried
+   Point (f) of the first subparagraph shall not apply to processing carried
                out by public authorities in the performance of their tasks.”7
 
 Government agencies’ personal data processing activities should be limited to their
@@ -179,16 +171,10 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
-
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman

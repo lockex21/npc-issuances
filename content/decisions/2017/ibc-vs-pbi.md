@@ -1,11 +1,17 @@
 ---
 title: "CID 17-K-004: IBC v. PBI"
-description: "Complaint for unauthorized credit card transactions after phishing attack; bank found not liable due to proper security measures and OTP authentication."
+description: "Complaint for unauthorized credit card transactions after phishing attack; bank found not liable due to proper security measures and OTP authentication, case dismissed without prejudice."
+aliases:
+  - "CID 17-K-004"
+  - "cid 17-k-004"
+  - "IBC v. PBI"
+  - "ibc v. pbi"
 tags:
   - "decision"
   - "type/decision"
   - "year/2017"
   - "npc-case"
+date: "2017-09-01"
 draft: false
 ---
 
@@ -22,15 +28,23 @@ draft: false
 
 ## Decision Text
 
-IBC, Complainant, versus PBI, Respondent.
+IBC,
 
-CID No. 17-K-004 For: Violation of Data Privacy Act of 2012
+Complainant,
 
-**By: IVY D. PATDU, D.P.C.**
+-versus-
+
+PBI,
+
+Respondent.
+
+x----------------------------------------------------x
+
+PATDU, D.P.C.:
 
 This Commission is being asked to decide whether a bank may be made liable for claims that certain transactions charged against the credit card it issued was not authorized by the card holder. The card holder in this case is the data subject who requested for the bank to remove the charges in his account relevant to transactions which he claims were unauthorized.
 
-### Facts of the Case
+### Facts
 
 From the records of the case, Complainant obtained a credit card from respondent PBI. Under the terms and obligations of obtaining the card, complainant is obliged to pay the purchases to be made and charges to be incurred.
 
@@ -50,11 +64,7 @@ Complainant then wrote his letter of protest dated 10 September 2017 to formally
 
 Hence, Complainant instituted this complaint before the Commission for violations of the Data Privacy Act.
 
-### Allegations of Complainant
-
 Complainant alleges that the Respondent failed to set-up, institute and implement the necessary, appropriate and adequate security measures required under the Data Privacy Act. He further alleges that this enabled unauthorized entities to obtain the personal information of the complainant which was illegally used to make unauthorized and fraudulent transactions charged to his credit card account. In addition, he further alleges that he had suffered sleepless nights, serious anxiety and mental stress which arose from the refusal of the respondent to correct the billing of the unauthorized or fraudulent transactions made on his credit card.
-
-### Responsive Comment
 
 Respondent in its responsive Comment admits the following matters:
 
@@ -76,7 +86,7 @@ Respondent maintains that the Complainant was the proximate cause, if not the so
 
 Respondent prays that the complaint be dismissed since the Complainant has no cause of action against the respondent under the DPA and its implementing rules and regulations as the data breach was a result of complainant’s own acts and not from the failure of respondent to set up, institute and implement the necessary, appropriate and adequate security measures.
 
-### Issues
+### Issue
 
 The sole issue to be resolved by this Commission is whether Respondent PBI is liable for unauthorized processing on the alleged illegal transactions charged to the Complainant.
 
@@ -165,38 +175,34 @@ In summary, PBI’s continuous awareness campaign and its verification process, 
 
 Anent the issue on the determination of fraud in credit card transactions, the same falls within the ambit of the Central Bank. It has not been sufficiently established before this Commission that the said transactions are indeed illegal or unauthorized.
 
-### Dispositive Portion
-
-**WHEREFORE**, premises considered, the Commission resolves that this case be **DISMISSED** for failure to substantiate and prove the allegations in the Complaint, without prejudice to any action that may be filed to other appropriate agencies or institutions. The Commission, however, **ORDERS** PBI to act on the request for correction which has not yet been addressed, and to provide assistance to complainant to ensure that he is able to exercise his rights as data subject in accordance with law.
+WHEREFORE, premises considered, the Commission resolves that this case be **DISMISSED** for failure to substantiate and prove the allegations in the Complaint, without prejudice to any action that may be filed to other appropriate agencies or institutions. The Commission, however, **ORDERS** PBI to act on the request for correction which has not yet been addressed, and to provide assistance to complainant to ensure that he is able to exercise his rights as data subject in accordance with law.
 
 **SO ORDERED.**
 
----
+Pasay City, Philippines. September 1, 2017
 
-**IVY D. PATDU**
-
+IVY D. PATDU
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-**RAYMUND ENRIQUEZ LIBORO**
-
+RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-**LEANDRO ANGELO Y. AGUIRRE**
-
+LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
 Copy furnished:
 
-CBI, Complainant
+IBC
+Complainant
 
-PBI, Respondent
+PBI
+Respondent
 
-PBI CARDS, Respondent
+Chief Data Privacy Officer
 
 ENFORCEMENT DIVISION
-
 GENERAL RECORDS UNIT
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating For this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3(c) (2012) [hereinafter, DPA].

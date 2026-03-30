@@ -1,11 +1,17 @@
 ---
 title: "CID BN 18-086: In re: Tulay sa Pag-Unlad, Inc"
-description: "Commission resolved to close and terminate case regarding employee bank account fraud, finding BDO and Lazada, not TSPI, were the proper Personal Information Controllers required to report the breach."
+description: "Resolution closing the breach notification case after finding that BDO and Lazada, not TSPI, were the proper controllers obligated to notify the Commission of the data breach."
+aliases:
+  - "CID BN 18-086"
+  - "cid bn 18-086"
+  - "In re: Tulay sa Pag-Unlad, Inc"
+  - "in re: tulay sa pag-unlad, inc"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2020
+  - npc-case
+date: "2020-05-21"
 draft: false
 ---
 
@@ -13,7 +19,7 @@ draft: false
 - Reference: CID BN 18-086
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/CID-BN-18-086_In-re-Tulay-sa-Pagunland-Inc_Resolution_21-May-2020.pdf
 - Source page: http://privacy.gov.ph/resolutions/
-- Issue date: June 4, 2018
+- Issue date: May 21, 2020
 - Published on NPC site: Fri, 19 May 2023 17:31:35 GMT
 - Pages: 4
 
@@ -22,13 +28,15 @@ draft: false
 
 ## Resolution Text
 
-### IN RE: TULAY SA PAG-UNLAD, INC. CID BN NO. 18-086
+IN RE: TULAY SA PAG-UNLAD, INC. CID BN NO. 18-086
+
+x----------------------------------------------------x
 
 NAGA, D.P.C.:
 
 Before this Commission is a data breach notification from Tulay sa Pag-unlad, Inc. (“TSPI”) in relation to the personal data breach on one of its employee’s personal bank account.
 
-### The Facts
+### Facts
 
 On 04 June 2018, an employee of TSPI went to the Banco De Oro (“BDO”) ATM in Paniqui, Tarlac to withdraw from her personal account. Upon checking the balance, she found out that the amount of P10,000.00 had been deducted from the account.
 
@@ -58,34 +66,29 @@ Further, the return of the P10,000.00 to the TSPI employee’s personal account 
 
 This Commission will then carry out its solemn duty of ensuring compliance of PICs with the DPA and its issuances in the end of protecting the rights of the affected data subject.
 
-### Dispositive Portion
-
 **WHEREFORE**, premises considered, this Commission resolves to **CLOSE AND TERMINATE** this particular case, In Re: Tulay sa Pag-Unlad Inc., without prejudice to the sua sponte investigation that the CID shall be conducting as to the responsibility of both BDO and Lazada under the DPA and the issuances of the Commission.
 
 **SO ORDERED.**
 
 Pasay City, 21 May 2020.
 
----
-
-**JOHN HENRY D. NAGA**
-
+JOHN HENRY D. NAGA
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-**RAYMUND ENRIQUEZ LIBORO**
-
+RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-**LEANDRO ANGELO Y. AGUIRRE**
-
+LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
-COPY FURNISHED:
+Copy furnished:
 
-FSS, Data Protection Officer, Tulay sa Pag-unlad, Inc.
+FSS
+Data Protection Officer
+Tulay sa Pag-unlad, Inc
 
 COMPLAINTS AND INVESTIGATION DIVISION
-
 GENERAL RECORDS UNIT
+National Privacy Commission

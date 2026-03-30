@@ -1,16 +1,17 @@
 ---
 title: "FAQs (Circular No. 20-02)"
-description: "Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO)"
+description: "Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO)."
 aliases:
-  - "Circular No. 20-02"
-  - "circular no. 20-02"
-  - "faqs"
-  - "npc circular no. 20-02"
+- "Circular No. 20-02"
+- "circular no. 20-02"
+- "faqs"
+- "npc circular no. 20-02"
 tags:
-  - "issuance"
-  - "type/faq"
-  - "year/1988"
+- issuance
+- type/faq
+- year/2020
 draft: false
+date: "2020-10-06"
 ---
 
 ## Issuance Text

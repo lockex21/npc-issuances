@@ -1,37 +1,31 @@
 ---
-title: "Advisory Opinion No. 2023-023"
-description: "Re: REQUEST BY A THIRD-PARTY FOR ACCESS TO THE SUPPORTING DOCUMENTS RELATIVE TO HER FATHER’S APPLICATION FOR A MARRIAGE LICENSE."
+title: "NPC Advisory Opinion No. 2023-023 — Request by a Third-party for Access to Supporting Documents Relative to Marriage License Application"
+description: "Advisory Opinion on a third-party request for access to supporting documents relative to her father’s application for a marriage license."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+  - issuance
+  - type/advisory-opinion
+  - year/2023
 draft: false
 ---
 
 ## Source
 - Reference: Advisory Opinion No. 2023-023
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2023/12/Advisory-Opinion-No.-2023-023.pdf
+- Issue date: 11/21/2023
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                              ADVISORY OPINION NO. 2023-0231
-
 
  21 November 2023
 
-
-
-
-                Re:     REQUEST BY A THIRD-PARTY FOR ACCESS TO THE
+   Re:     REQUEST BY A THIRD-PARTY FOR ACCESS TO THE
                         SUPPORTING DOCUMENTS RELATIVE TO HER FATHER’S
                         APPLICATION FOR A MARRIAGE LICENSE.
 
-
-
-Dear                                    :
-
+Dear [Redacted],
 We respond to your request for an Advisory Opinion on the above matter.
+
+### Discussion
 
 You state in your letter that you received a request from a certain
              (Requesting Party) for the certified true copies of the supporting documents that
@@ -51,11 +45,6 @@ The Philippine Statistics Authority (PSA) issued Memorandum Circular (MC) No. 20
 provide guidelines for requests for the issuance of Certificate of Live Birth, Certificate of
 Death, Certificate of Marriage, and Certificate of No Marriage/Advisory on Marriage.
 
-
-
-
-1 Tags: press freedom; journalistic purpose, special case; freedom of information; security measures.
-
 A cursory reading of MC No. 2019-15 shows that it does not cover requests for supporting
 documents relative to the foregoing certificates. Be that as it may, the request for copies of the
 supporting documents may be considered as a data subject request under the Data Privacy
@@ -66,7 +55,7 @@ Sensitive personal information
 Parties applying for a marriage license are required to submit the following documents to the
 civil registrar:
 
-     1. Sworn application;
+   1. Sworn application;
      2. Original birth certificate or baptismal certificate;
      3. Death certificate or decree of absolute divorce or judicial decree of annulment or
         declaration of nullity of marriage, in case either of the parties has been previously
@@ -89,19 +78,16 @@ It is worth noting that although the Requesting Party did not specify the reason
 request, it is reasonable to assume that it is intended for the establishment, exercise or defense
 of a legal claim. In which case, Section 13(f) of the DPA applies:
 
-    SEC. 13. Sensitive Personal Information and Privileged                                          Information. – The
+   SEC. 13. Sensitive Personal Information and Privileged                                          Information. – The
     processing of sensitive personal information and privileged                                     information shall be
     prohibited, except in the following cases:
 
-                                                                 xxx
+   xxx
 
-    (f) The processing concerns such personal information as is necessary for the
+   (f) The processing concerns such personal information as is necessary for the
     protection of lawful rights and interest of natural or legal persons in court
     proceedings or the establishment, exercise, or defense of legal claims, or when
     provided to government or public authority.4
-
-
-
 
 2 Philippine Statistics Authority, Registration of Application for Marriage License available at https://psa.gov.ph/content/registration-
 
@@ -202,9 +188,7 @@ adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV

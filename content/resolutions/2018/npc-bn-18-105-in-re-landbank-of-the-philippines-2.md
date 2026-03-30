@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-105: In Re: Landbank of the Philippines"
-description: "conducted a visit at [ ] on July 20, 2018, the address appearing in NPC BN 18 -105"
+title: 'NPC BN 18-105: In Re: Landbank of the Philippines'
+description: conducted a visit at [ ] on July 20, 2018, the address appearing in NPC
+  BN 18 -105
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2021
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-105"'
+- '"npc bn 18-105"'
+- '"In Re: Landbank of the Philippines"'
+- '"in re: landbank of the philippines"'
+date: '2021-04-29'
 ---
 
 ## Source

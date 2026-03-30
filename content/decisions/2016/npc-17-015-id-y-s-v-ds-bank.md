@@ -1,11 +1,17 @@
 ---
-title: "NPC 17-015: ID Y.S. v. DS BANK"
-description: "A complainant alleged data privacy violations after receiving demand letters addressed to another person; the Commission dismissed the case for lack of legal standing, finding the complainant was not the affected data subject."
+title: "NPC 17-015: ID Y.S. v. DS Bank"
+description: "Complaint alleging receipt of demand letters addressed to another person dismissed for lack of legal standing, finding the complainant was not the affected data subject and thus not personally affected by the alleged privacy violation."
+aliases:
+  - "NPC 17-015"
+  - "npc 17-015"
+  - "ID Y.S. v. DS Bank"
+  - "id y.s. v. ds bank"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2016"
+  - "year/2017"
   - "npc-case"
+date: "2020-01-31"
 draft: false
 ---
 
@@ -22,18 +28,17 @@ draft: false
 
 ## Decision Text
 
-Republic of the Philippines
+ID Y.S.,
 
-National Privacy Commission
-5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+Complainant,
 
-ID Y.S., Complainant,
+-versus-
 
-—versus—
+DS Bank,
 
-DS BANK, Respondent.
+Respondent.
 
-x────────────────────────────────────────x
+x----------------------------------------------------x
 
 LIBORO, P.C.:
 
@@ -75,42 +80,35 @@ The pronouncement however of the Commission in this case does not bar the people
 
 In view of the foregoing, the Commission finds that the case must be dismissed for the reason that Complainant does not have a legal standing to sue Respondent for a violation of the DPA.
 
-### Dispositive Portion
-
-**WHEREFORE**, premises considered, the case NPC 17-015 - ID Y.S. vs. DS Bank is hereby **DISMISSED** for lack of merit.
+WHEREFORE, premises considered, the case NPC 17-015 — ID Y.S. v. DS Bank is hereby **DISMISSED** for lack of merit.
 
 This is without prejudice to the filing of appropriate civil, criminal or administrative cases against the Respondent before any other forum or tribunal, if any.
 
 **SO ORDERED.**
 
-Pasay City, Philippines; 31 January 2020.
+Pasay City, Philippines. 31 January 2020.
 
----
-
-**RAYMUND ENRIQUEZ LIBORO**
-
+RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
 WE CONCUR:
 
-**LEANDRO ANGELO Y. AGUIRRE**
-
+LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
-**JOHN HENRY D. NAGA**
-
+JOHN HENRY D. NAGA
 Deputy Privacy Commissioner
 
 Copy furnished:
 
-ID Y.S., Complainant
+ID Y.S.
+Complainant
 
-DS BANK, Respondent
+DS Bank
+Respondent
 
 LEGAL DIVISION
-
 ENFORCEMENT DIVISION
-
 GENERAL RECORDS UNIT
 
 [^1]: *Luxuria Homes Inc. vs. CA*, GR No. 125986, Jan 28, 1999

@@ -1,12 +1,20 @@
 ---
-title: "NPC 17-010: In re: Movie and Television Review and Classification Board"
-description: "Resolution on MTRCB's personal data breach notification and management in compliance with NPC Circular 16-03, addressing exemption requests and requiring proper notification to affected data subjects."
+title: 'NPC 17-010: In re: Movie and Television Review and Classification Board'
+description: Resolution on MTRCB's personal data breach notification and management
+  in compliance with NPC Circular 16-03, addressing exemption requests and requiring
+  proper notification to affected data subjects.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2023
+- npc-case
 draft: false
+aliases:
+- '"NPC 17-010"'
+- '"npc 17-010"'
+- '"In re: Movie and Television Review and Classification Board"'
+- '"in re: movie and television review and classification board"'
+date: '2023-07-13'
 ---
 
 ## Source

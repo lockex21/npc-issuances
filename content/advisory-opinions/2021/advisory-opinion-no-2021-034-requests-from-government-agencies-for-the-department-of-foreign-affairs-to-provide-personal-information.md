@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-034 — Requests From Government Agencies For The Department Of Foreign Affairs To Provide Personal Information"
-description: "'''''''''''''' '''' '''''''''''''''''''''''''''' ''''''''''' ''''''''''' ''''''''''''''''''''' ''''''' ''' ''''''''''' ''''''''' '''''''''''''''' ''' '''''''''' ''''''''' ''''''''' ''''''''''' ''''''' '''''''''''' '''''' '''''''''''''''''"
+title: "NPC Advisory Opinion No. 2021-034 — Requests From Government Agencies For The Department Of Foreign Affairs To Provide Personal Information"
+description: "Guidance on requests from government agencies for personal information held by the Department of Foreign Affairs, addressing lawful processing by public authorities."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,25 +17,11 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                       ADVISORY OPINION NO. 2021-0341
+**17 August 2021**
 
-17 August 2021
+RE: REQUESTS FROM GOVERNMENT AGENCIES FOR THE DEPARTMENT OF FOREIGN AFFAIRS TO PROVIDE PERSONAL INFORMATION
 
-'''''''''''''' '''' ''''''''''''''''''''''''''''
-''''''''''' '''''''''''
-''''''''''''''''''''' ''''''' ''' ''''''''''' '''''''''
-'''''''''''''''' ''' '''''''''' '''''''''
-''''''''' ''''''''''' ''''''' '''''''''''' ''''''
-'''''''''''''''''
-
-
-
-               RE:       REQUESTS FROM GOVERNMENT AGENCIES FOR THE
-                         DEPARTMENT OF FOREIGN AFFAIRS TO PROVIDE
-                         PERSONAL INFORMATION
-
-Dear ''''''''''''''''''''''''''' ''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to guidance on the requests for information received by the
@@ -53,16 +39,9 @@ a Supreme Court case.
 
 You now come to the NPC for guidance on whether the OCA can disclose personal
 information and sensitive personal information (collectively, personal data) of OCA’s data
-subjects without violating the provisions of the Data Privacy Act of 20122 (DPA).
+subjects without violating the provisions of the Data Privacy Act of 2012[^1] (DPA).
 
-
-
-1
-  Tags: special cases; lawful criteria for processing; public authority; fulfillment of mandate; subpoena; limitation on data subject
-rights.
-2
-  An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private
-No. 10173 (2012).
+### Discussion
 
 Scope of the DPA; special cases; fulfillment of mandate;
 public authority; law enforcement or regulatory
@@ -72,20 +51,20 @@ The DPA and its Implementing Rules and Regulations (IRR) provide for a list of s
 information that are not covered by certain requirements of the law, which includes
 information necessary to carry out functions of a public authority, to wit:
 
-          “SECTION 5. Special Cases. The Act and these Rules shall not apply to the following
+   “SECTION 5. Special Cases. The Act and these Rules shall not apply to the following
           specified information, only to the minimum extent of collection, access, use, disclosure
           or other processing necessary to the purpose, function, or activity concerned:
 
-                                                              xxx
+   xxx
 
-          d. Information necessary in order to carry out the functions of public authority, in
+   d. Information necessary in order to carry out the functions of public authority, in
           accordance with a constitutionally or statutorily mandated function pertaining to law
           enforcement or regulatory function, including the performance of the functions of the
           independent, central monetary authority, subject to restrictions provided by law…
 
-                                                              xxx
+   xxx
 
-          Provided, that the non-applicability of the Act or these Rules do not extend to personal
+   Provided, that the non-applicability of the Act or these Rules do not extend to personal
           information controllers or personal information processors, who remain subject to the
           requirements of implementing security measures for personal data protection: Provided
           further, that the processing of the information provided in the preceding paragraphs
@@ -103,23 +82,18 @@ with a particular taxpayer, as mentioned in your letter.
 Investigative functions; lawful criteria for processing;
 Sections 12 and 13
 
-As to the PCGG request, we understand from Section 3(g) of Executive Order No. 1 3 that the
+As to the PCGG request, we understand from Section 3(g) of Executive Order No. 1[^2] that the
 PCGG has the power to seek and secure the assistance of any office, agency, or instrumentality
 of the government, in relation to the recovery of all ill-gotten wealth by Former President
-Marcos, his immediate family, relatives, subordinates, and close associates,4 and the
+Marcos, his immediate family, relatives, subordinates, and close associates,[^3] and the
 investigation of such cases of graft and corruption as the President may assign to the
-Commission from time to time.5
+Commission from time to time.[^4]
 
 While the PCGG’s purpose for requesting the addresses of certain persons in relation to the
 Supreme Court case was not indicated in your letter, we suppose that the said request is
 pursuant to the exercise of the PCGG’s mandates which includes the conduct investigations,
 sequestrations, among others.
 
-3
-  Office of the President, Creating the Presidential Commission on Good Government [Executive Order No. 1, s. 1986] (28 February
-1986).
-  Id. § 2 (a).
-  Id. § 2 (b).
 
 With this, the request for addresses and other information may then be anchored under
 Sections 12 and/or 13 of the DPA, depending on type of personal data involved.
@@ -140,14 +114,14 @@ Another concern you raised is that these requests from the BIR and/or from the P
 made through letter requests and not through subpoenas. You proceeded to cite Section 34
 (b) (1) of the IRR:
 
-        “Section 34. Rights of the Data Subject. x x x
+   “Section 34. Rights of the Data Subject. x x x
 
-            b.   Right to object. x x x
+   b.   Right to object. x x x
 
-                 When a data subject objects or withholds consent, the personal information
+   When a data subject objects or withholds consent, the personal information
                  controller shall no longer process the personal data, unless:
 
-                 1.   The personal data is needed pursuant to a subpoena.”
+   1.   The personal data is needed pursuant to a subpoena.”
 
 To clarify, the above provision pertains to the limitations on the exercise of the right to object,
 specifically when processing is based on consent and the data subject has withdrawn the
@@ -182,16 +156,16 @@ investigations in relation to any criminal, administrative, or tax liabilities o
 This is further clarified in Section 13 of NPC Advisory No. 2021-01 on Data Subject Rights,6
 which provides:
 
-            “SECTION 13. Limitations. — The exercise of the rights of data subjects shall be
+   “SECTION 13. Limitations. — The exercise of the rights of data subjects shall be
             reasonable. The same may be limited when necessary for public interest, protection of
             other fundamental rights, or when the processing of personal data is for the following
             purposes:
                                                     xxx
 
-            B. Investigations in relation to any criminal, administrative, or tax liabilities of a data
+   B. Investigations in relation to any criminal, administrative, or tax liabilities of a data
                subject: provided, that:
 
-                 1.   The investigation is being conducted by persons or entities duly authorized by
+   1.   The investigation is being conducted by persons or entities duly authorized by
                       law or regulation;
                  2.   The investigation or any stage thereof relates to any criminal, administrative, or
                       tax liabilities of a data subject as may be defined under existing laws and
@@ -218,8 +192,13 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
+
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+
+[^2]: Office of the President, Creating the Presidential Commission on Good Government [Executive Order No. 1, s. 1986] (28 February 1986).
+
+[^3]: Id. § 2 (a).
+
+[^4]: Id. § 2 (b).

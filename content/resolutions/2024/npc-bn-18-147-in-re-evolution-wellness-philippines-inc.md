@@ -1,26 +1,22 @@
 ---
-title: "NPC BN 18-147: In Re: Evolution Wellness Philippines, Inc."
-description: "data security incident is internal and caused by malicious acts of employees.” 6"
+title: "NPC BN 18-147: Resolution"
+description: "Resolution addressing the compliance dated 05 June 202 3 of"
+aliases:
+  - "NPC BN 18-147"
+  - "npc bn 18-147"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2024"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2024
+  - npc-case
+date: "2024-01-01"
 draft: false
 ---
 
-## Source
-- Reference: NPC BN 18-147
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/12/NPC-BN-18-147-10.17.2024-In-re-Evolution-Wellness-Philippines-Inc_Resolution.pdf
-- Source page: http://privacy.gov.ph/resolutions/
-- Issue date: October 17, 2024
-- Published on NPC site: Fri, 12 Dec 2025 02:59:00 GMT
-- Pages: 17
+## Source-Reference: NPC BN 18-147-Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/12/NPC-BN-18-147-10.17.2024-In-re-Evolution-Wellness-Philippines-Inc_Resolution.pdf-Source page: http://privacy.gov.ph/resolutions/
+- Issue date: October 17, 2024-Published on NPC site: Fri, 12 Dec 2025 02:59:00 GMT-Pages: 17
 
-## Source Tags
-- Sec 11. When Notification is required
-- Ssec 18(c). Content of Notification
-- Sec 20. Security of Personal Information
+## Source Tags-Sec 11. When Notification is required-Ssec 18(c). Content of Notification-Sec 20. Security of Personal Information
 
 ## Resolution Text
 IN RE: EVOLUTION WELLNESS
@@ -39,8 +35,7 @@ National Privacy Commission (NPC) through its Complaints and
 
 Investigation Division (CID) dated 30 May 202 3.
 
-Facts
-
+### Facts
 Evolution Wellness Philippines, Inc. , formerly known as Fitness First
 
 Philippines , is historically known as a popular health resort. 1 It accepts
@@ -69,12 +64,6 @@ The impact of the breach has caused financial loss and damage
 
 to the members of the Company as follows: [redacted name] -
 
-> 1Initial Report dated 03 August 2018 of Evolution Wellness Philippines, Inc.
-> 2Id.
-> 3Id.
-> 4Id.
-
-NPC BN 18 -147 NPC BN 18 -147
 
 In re: Evolution Wellness Philippines , Inc.
 
@@ -136,14 +125,6 @@ sixteen (16) members affected. 10  The affected Data Subjects were newly
 
 joined members or members who amended their personal details
 
-> 5Initial Report dated 03 August 2018 of Evolution Wellness Philippines, Inc.
-> 6Id.
-> 7Id.
-> 8In re: Evolution Philippines Wellness Inc., NPC BN 18 -147, Order 08 October 2020.
-> 9Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
-> 10 Id.
-
-NPC BN 18 -147
 
 In re: Evolution Wellness Philippines , Inc.
 
@@ -231,23 +212,18 @@ PHP57,401.16
 
 online purchase
 
-> 11
 
 Id.
 
-> 12
 
 Id.
 
-> 13
 
 Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
 
-> 14
 
 Id.
 
-> 15
 
 Id. NPC BN 18 -147
 
@@ -359,33 +335,23 @@ Paypal
 
 phone call
 
--No Information -
-
-9 [Redacted name ] August 7, 2018 by
+-No Information-9 [Redacted name ] August 7, 2018 by
 
 phone call
 
--No Information -
-
-10  [Redacted name ] August 7, 2018 by
+-No Information-10  [Redacted name ] August 7, 2018 by
 
 phone call
 
--No Information -
-
-11  [Redacted name ] August 3, 2018 by
+-No Information-11  [Redacted name ] August 3, 2018 by
 
 office visit
 
--No Information -
-
-12  [Redacted name ] August 3, 2018 by
+-No Information-12  [Redacted name ] August 3, 2018 by
 
 office visit
 
--No Information -
-
-13  [Redacted name ] August 7, 2018 by
+-No Information-13  [Redacted name ] August 7, 2018 by
 
 phone call
 
@@ -407,9 +373,7 @@ PHP75,000
 
 phone call
 
--No Information -
-
-15  [Redacted name ] August 7, 2018 by
+-No Information-15  [Redacted name ] August 7, 2018 by
 
 phone call
 
@@ -417,7 +381,6 @@ phone call
 
 In re: Evolution Wellness Philippines , Inc.
 
-> 16 [Redacted name ]August 7, 2018 by
 > phone call
 > [Redacted name ]
 > informed the
@@ -483,15 +446,7 @@ member's credit card without intention in mind considering that
 
 he is expert in gathering online transactions. 21
 
-> 16 Id.
-> 17 Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
-> 18 Id.
-> 19 Id.
-> 20 Id.
-> 21 Attachments to the Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines,
 > Inc.
-
-NPC BN 18 -147
 
 In re: Evolution Wellness Philippines , Inc.
 
@@ -505,9 +460,7 @@ a. Description of the measures taken or proposed to be taken to
 
 address the breach
 
-The Company has done the following -
-
-1. Conducted an Internal Investigation,
+The Company has done the following-1. Conducted an Internal Investigation,
 
 2. Secured the services of Knight Hawk Security Force, Inc. to
 
@@ -587,9 +540,7 @@ below.
 
 (Attached as Annexes "H", "H -1", and "H -Z"), which implements,
 
-among others -
-
-a. The new Policies and Procedures on Add Member Process and
+among others-a. The new Policies and Procedures on Add Member Process and
 
 Change Payment Details issued last. August 9, 2018 should be
 
@@ -615,9 +566,7 @@ purpose.
 
 Industry Data Security Standard (Attached as " I")
 
-This updated policy includes, among other key protocols -
-
-a. Email confirmation to be received by the member for card
+This updated policy includes, among other key protocols-a. Email confirmation to be received by the member for card
 
 enrolment .
 
@@ -705,11 +654,6 @@ and/or third -party merchants where the unauthorized
 
 transactions were made.
 
-> 22 Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
-> 23 Id.
-> 24 Id.
-
-NPC BN 18 -147
 
 In re: Evolution Wellness Philippines , Inc.
 
@@ -767,16 +711,7 @@ These notarized a ffidavits were executed by (i) MBF , who was the
 
 Club Manager of Fitness First Manila from 2017 -2019 and is currently
 
-> 25 In re: Evolution Philippines Wellness Inc., NPC BN 18 -147, Order 11 April 2023.
-> 26 Compliance dated 12 May 2023 of Evolution Wellness Philippines, Inc.
-> 27 Id.
-> 28 In re: Evolution Philippines Wellness Inc., NPC BN 18 -147, Order 30 May 2023.
-> 29 Id.
-> 30 Motion for Extension of Time to Submit Requested Documents dated 12 May 2023 of Evolution
 > Wellness Philippines, Inc.
-> 31 Compliance dated 12 May 2023 of Evolution Wellness Philippines, Inc.
-
-NPC BN 18 -147
 
 In re: Evolution Wellness Philippines , Inc.
 
@@ -844,12 +779,6 @@ five (5) years since the acknowledgement receipts were
 
 executed. 35
 
-> 32 Affidavit of MBF dated 05 June 2023 of Evolution Wellness Philippines, Inc.
-> 33 Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc.
-> 34 Affidavit of MBF dated 05 June 2023 of Evolution Wellness Philippines, Inc.
-> 35 Id.
-
-NPC BN 18 -147
 
 In re: Evolution Wellness Philippines , Inc.
 
@@ -871,7 +800,7 @@ subsequent actions implemented to rectify the situation. These
 
 notices contain:
 
-12.1. Nature of the breach - The breach incident involved
+12.1. Nature of the breach-The breach incident involved
 
 unauthorized access to personal data within our system.
 
@@ -883,7 +812,7 @@ unauthorized acquisition of personal informatio n by an
 
 individual.
 
-12.2. Personal data possibly involved - The breach may
+12.2. Personal data possibly involved-The breach may
 
 have exposed various personal data, which could include
 
@@ -893,7 +822,7 @@ membership details, and payment card information of the
 
 affected data subjects.
 
-12.3. Measures taken to address the breach - In response to
+12.3. Measures taken to address the breach-In response to
 
 the breach, we implemented immediate measures to
 
@@ -911,7 +840,7 @@ validate their data for potential discrepancies.
 
 12.4. Measures taken to reduce harm or negative
 
-consequences - Our priority is to minimize the potential
+consequences-Our priority is to minimize the potential
 
 harm and negative consequences resulting from the breach
 
@@ -927,7 +856,7 @@ incidents.
 
 12.5. Representative of the personal information
 
-controller - Our designated representative, who serves as
+controller-Our designated representative, who serves as
 
 the contact person for data subjects seeking additional
 
@@ -935,14 +864,13 @@ information regarding the breach, can be reached through
 
 the club's official contact channels. These channels provide
 
-> 36 Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc. NPC BN 18 -147
 > In re: Evolution Wellness Philippines ,Inc.
 
 direct access to the representative who can address any
 
 queries or conce rn s related to the breach incident .
 
-12.6 Assistance provided to affected data subjects - We
+12.6 Assistance provided to affected data subjects-We
 
 understand the importance of providing assistance to the
 
@@ -970,8 +898,7 @@ dated 30 May 2023, including the implementation of
 
 reasonable and appropriate security measures.
 
-Discussion
-
+### Discussion
 The Commission finds that Evolution has sufficiently complied with
 
 the Order dated 30 May 2023 . Further, the Commission notes that
@@ -996,9 +923,6 @@ Section 11 of NPC Circular 16 -03 provides the conditions when
 
 notification is mandatory:
 
-> 37 Id.
-
-NPC BN 18 -147
 
 In re: Evolution Wellness Philippines , Inc.
 
@@ -1078,11 +1002,7 @@ investigation report submitted by Complainant concluded, among
 
 others that JY “was caught recording, copying, capturing and collecting data
 
-> 38 National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -03, rule V,
 > § 11 [NPC Circ. 16 -03] (2016).
-> 39 Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc.
-
-NPC BN 18 -147
 
 In re: Evolution Wellness Philippines , Inc.
 
@@ -1154,10 +1074,7 @@ written or electronic. The personal information controller shall
 
 take the necessary steps to ensure the proper identity of the data
 
-> 40 Attachments to the Full Incident Report dated 22 October 2022 of Evolution Wellness
 > Philippines, Inc.
-
-NPC BN 18 -147
 
 In re: Evolution Wellness Philippines , Inc.
 
@@ -1229,9 +1146,6 @@ a. The personal information controller must implement
 
 reasonable and appropriate organizational, physical, and
 
-> 41 NPC Circular 16 -03 , rule V, § 18.
-> 42 Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
-> 43 Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc. NPC BN 18 -147
 > In re: Evolution Wellness Philippines ,Inc.
 
 technical measures intended for the protection of personal
@@ -1300,24 +1214,19 @@ has sufficiently notified the affected data subjects, the Commission
 
 resolves to consider the matter closed.
 
-> 44 An Act Protecting Individual Personal Information in Information and Communications Systems
 > in the Government and the Private Sector, Creating for This Purpose aNational Privacy
 > Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter
 > V, § 20 (2012).
-> 45 Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
-> 46 Id.
-
-NPC BN 18 -147
 
 In re: Evolution Wellness Philippines , Inc.
 
-WHEREFORE , premises considered, the Commission resolves that the
+**WHEREFORE** , premises considered, the Commission resolves that the
 
 matter of NPC BN 18 -147 "In re: Evolution Wellness Philippines , Inc. "
 
-is hereby CLOSED.
+is hereby **CLOSED**.
 
-SO ORDERED.
+**SO ORDERED**.
 
 City of Pasay, Philippines.
 
@@ -1354,3 +1263,96 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+[^1]: Initial Report dated 03 August 2018 of Evolution Wellness Philippines, Inc.
+[^2]: Id.
+[^3]: Id.
+[^4]: Id.
+[^5]: Initial Report dated 03 August 2018 of Evolution Wellness Philippines, Inc.
+[^6]: Id.
+[^7]: Id.
+[^8]: In re: Evolution Philippines Wellness Inc., NPC BN 18 -147, Order 08 October 2020.
+[^9]: Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
+[^10]: Id.
+[^11]: 
+[^12]: 
+[^13]: 
+[^14]: 
+[^15]: 
+[^16]: Id.
+[^17]: Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
+[^18]: Id.
+[^19]: Id.
+[^20]: Id.
+[^21]: Attachments to the Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines,
+[^22]: Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
+[^23]: Id.
+[^24]: Id.
+[^25]: In re: Evolution Philippines Wellness Inc., NPC BN 18 -147, Order 11 April 2023.
+[^26]: Compliance dated 12 May 2023 of Evolution Wellness Philippines, Inc.
+[^27]: Id.
+[^28]: In re: Evolution Philippines Wellness Inc., NPC BN 18 -147, Order 30 May 2023.
+[^29]: Id.
+[^30]: Motion for Extension of Time to Submit Requested Documents dated 12 May 2023 of Evolution
+[^31]: Compliance dated 12 May 2023 of Evolution Wellness Philippines, Inc.
+[^32]: Affidavit of MBF dated 05 June 2023 of Evolution Wellness Philippines, Inc.
+[^33]: Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc.
+[^34]: Affidavit of MBF dated 05 June 2023 of Evolution Wellness Philippines, Inc.
+[^35]: Id.
+[^36]: Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc. NPC BN 18 -147
+[^37]: Id.
+[^38]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -03, rule V,
+[^39]: Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc.
+[^40]: Attachments to the Full Incident Report dated 22 October 2022 of Evolution Wellness
+[^41]: NPC Circular 16 -03 , rule V, § 18.
+[^42]: Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
+[^43]: Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc. NPC BN 18 -147
+[^44]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^45]: Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
+[^46]: Id.
+[^1]: Initial Report dated 03 August 2018 of Evolution Wellness Philippines, Inc.
+[^2]: Id.
+[^3]: Id.
+[^4]: Id.
+[^5]: Initial Report dated 03 August 2018 of Evolution Wellness Philippines, Inc.
+[^6]: Id.
+[^7]: Id.
+[^8]: In re: Evolution Philippines Wellness Inc., NPC BN 18 -147, Order 08 October 2020.
+[^9]: Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
+[^10]: Id.
+[^11]: 
+[^12]: 
+[^13]: 
+[^14]: 
+[^15]: 
+[^16]: Id.
+[^17]: Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
+[^18]: Id.
+[^19]: Id.
+[^20]: Id.
+[^21]: Attachments to the Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines,
+[^22]: Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
+[^23]: Id.
+[^24]: Id.
+[^25]: In re: Evolution Philippines Wellness Inc., NPC BN 18 -147, Order 11 April 2023.
+[^26]: Compliance dated 12 May 2023 of Evolution Wellness Philippines, Inc.
+[^27]: Id.
+[^28]: In re: Evolution Philippines Wellness Inc., NPC BN 18 -147, Order 30 May 2023.
+[^29]: Id.
+[^30]: Motion for Extension of Time to Submit Requested Documents dated 12 May 2023 of Evolution
+[^31]: Compliance dated 12 May 2023 of Evolution Wellness Philippines, Inc.
+[^32]: Affidavit of MBF dated 05 June 2023 of Evolution Wellness Philippines, Inc.
+[^33]: Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc.
+[^34]: Affidavit of MBF dated 05 June 2023 of Evolution Wellness Philippines, Inc.
+[^35]: Id.
+[^36]: Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc. NPC BN 18 -147
+[^37]: Id.
+[^38]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -03, rule V,
+[^39]: Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc.
+[^40]: Attachments to the Full Incident Report dated 22 October 2022 of Evolution Wellness
+[^41]: NPC Circular 16 -03 , rule V, § 18.
+[^42]: Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
+[^43]: Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc. NPC BN 18 -147
+[^44]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^45]: Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
+[^46]: Id.
+

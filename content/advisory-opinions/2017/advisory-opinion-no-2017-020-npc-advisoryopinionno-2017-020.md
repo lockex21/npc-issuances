@@ -1,6 +1,6 @@
 ---
-title: "NPC_AdvisoryOpinionNo._2017-020"
-description: "''''''''''''''''''''''''''''''''''''''''''''' ''''''''' ''''''''''''''''''''' ''''''''' ''''''' '''''''''''' '''''''''''' '''''' '''''' ''''''''''' '''''' '''''''' '''''''''''''''' ''' '''''''''"
+title: "NPC Advisory Opinion No. 2017-020 — Philippine Business Data Bank"
+description: "Advisory Opinion on philippine business data bank under the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,29 +11,23 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2017-020
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryOpinionNo._2017-020.pdf
+- Issue date: 07/18/2017
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                        ADVISORY OPINION NO. 2017-020
 
   18 July 2017
 
-  ''''''''''''''''''''''''''''''''''''''''''''' ''''''''' '''''''''''''''''''''
-  ''''''''' ''''''' '''''''''''' '''''''''''' '''''' ''''''
-  ''''''''''' '''''' ''''''''
-  '''''''''''''''' ''' '''''''''
+   Re:        PHILIPPINE BUSINESS DATA BANK
 
-
-
-             Re:        PHILIPPINE BUSINESS DATA BANK
-
-Dear '''''''''''''''''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''
+Dear [Redacted],
 
 This pertains to your request for advisory opinion dated 10 April 2017, received by the
 National Privacy Commission (NPC) on 19 April 2017, in relation to the Philippine Business
 Data Bank (PBDB), an initiative of the Ease of Doing Business Component of the DOF Anti-
 Red Tape Program.
+
+### Discussion
 
 Specifically, you are requesting for an opinion on whether or not the data collected and to be
 shared by and among certain government agencies, and to the public pursuant to the PBDB
@@ -46,7 +40,7 @@ business-related data sourced from government regulatory agencies. This online p
 digitizes the data collected by each of the following agencies from natural and juridical
 persons engaged in business:
 
-      1.     Cooperative Development Authority (CDA);
+   1.     Cooperative Development Authority (CDA);
       2.     Department of Trade and Industry (DTI);
       3.     Securities and Exchange Commission (SEC);
       4.     Local Government Units (LGUs); and
@@ -54,12 +48,12 @@ persons engaged in business:
 
 The common data collected by each of the above are as follows:
 
-      1.     Business Name;
+   1.     Business Name;
       2.     Regulatory Reference ID;
       3.     Registration Date;
       4.     Expiry Date;
 
-     5. Status (registered or not);
+   5. Status (registered or not);
      6. Address;
      7. City/Municipality;
      8. Contact Number;
@@ -68,9 +62,8 @@ The common data collected by each of the above are as follows:
      11. Agency Code/LGU Code; and
      12. Names of Individuals:
 
-                 CDA                         DTI                        SEC                       LGUs
+   CDA                         DTI                        SEC                       LGUs
             Board Members              Business Owners              Incorporators            Business Owners
-
 
 Scope of the DPA
 
@@ -83,7 +76,7 @@ We note that the list of data above is not wholly composed of personal data as m
 pertain to data of juridical entities. The personal data in the list would likely pertain to the
 details of the following:
 
-     1. Individuals who are engaged in business through sole proprietorships and possibly
+   1. Individuals who are engaged in business through sole proprietorships and possibly
         partnerships;
      2. Incorporators of corporations and cooperators of cooperatives;
      3. Members of the board of directors or trustees;
@@ -96,7 +89,6 @@ Thus, Items 1 to 11 of the list may pertain to a juridical entity, hence, not co
 DPA. In the case of sole proprietorships and possibly partnerships, the same items may be
 considered as personal data.
 
-
 1 RA No. 10173, §3(g) - Personal information refers to any information whether recorded in a material form or not, from
 
 which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the
@@ -104,7 +96,7 @@ information, or when put together with other information would directly and cert
 identify an individual.
 2 Id., §3(l) - Sensitive personal information refers to personal information:
 
-      1.) About an individual’s race, ethnic origin, marital status, age, color, and religious, philosophical or political
+   1.) About an individual’s race, ethnic origin, marital status, age, color, and religious, philosophical or political
             affiliations;
       2.) About an individual’s health, education, genetic or sexual life of a person, or to any proceeding for any offense
             committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of
@@ -124,17 +116,17 @@ special cases which is outside of the scope of the law.
 As stated in the request, Sections 4(c) and (e) of the DPA may be a basis for the exemption,
 to wit:
 
-         “SECTION 4. Scope. — xxx
+   “SECTION 4. Scope. — xxx
 
-         This Act does not apply to the following:                 xxx
+   This Act does not apply to the following:                 xxx
 
-         c. Information relating to any discretionary benefit of a financial nature such as
+   c. Information relating to any discretionary benefit of a financial nature such as
          the granting of a license or permit given by the government to an individual,
          including the name of the individual and the exact nature of the benefit;
 
-                                                           xxx
+   xxx
 
-         e. Information necessary in order to carry out the functions of public authority
+   e. Information necessary in order to carry out the functions of public authority
          which includes the processing of personal data for the performance by the
          independent central monetary authority and law enforcement and regulatory
          agencies of their constitutionally and statutorily mandated functions. xxx”
@@ -147,7 +139,7 @@ involved in the PBDB, the exemption more aptly finds basis in Section 4(e) and n
 Section 4(c) speaks of information relating to any discretionary benefit of a financial nature.
 The phrase “discretionary benefit” has been defined in other jurisdictions as follows:
 
-         "The prime factor is a 'discretionary' benefit, but not a 'gratuitous' benefit, nor
+   "The prime factor is a 'discretionary' benefit, but not a 'gratuitous' benefit, nor
          yet an 'exclusive' benefit, or even a cut-rate, or 'bargain basement' benefit. Any
          of those imagined adjectives would narrow down paragraph 3(l)'s purview.
          The kind of benefit contemplated here could well, on the words of the statute,
@@ -198,7 +190,7 @@ Section 5 of the IRR.
 
 Further, the proviso in said section states:
 
-        “Provided, that the non--applicability of the Act or these Rules do not extend to
+   “Provided, that the non--applicability of the Act or these Rules do not extend to
         personal information controllers or personal information processors, who
         remain subject to the requirements of implementing security measures for
         personal data protection: Provided further, that the processing of the
@@ -211,9 +203,6 @@ lawfully processed by a personal information controller or processor under the s
 but the processing shall be limited to achieving the specific purpose, function or activity,
 and that the personal information controller or processor remains to be subject to the
 requirements of implementing measures to secure and protect personal data.
-
-
-
 
 6 Office of the Information Commissioner of Canada, citing Bland v. Canada (National Capital Commission), [1991] 3 F.C.
 
@@ -243,15 +232,9 @@ thereto, execution of a data sharing agreement (DSA) where applicable, and the i
 termination the sharing of personal data in instances where the arrangement is not for the
 purpose of performing a public function or providing a public service.
 
-
 For your reference.
 
-
-
 Sincerely,
-
-
-
 
 RAYMUND E. LIBORO
 Privacy Commissioner and Chairman

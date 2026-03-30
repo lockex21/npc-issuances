@@ -2,15 +2,16 @@
 title: "Rules of procedure on requests for Advisory Opinions (Circular No. 18-01)"
 description: "SECTION 1. General Principles. – The NPC is an independent body mandated by law to provide assistance on matters relating to privacy or data protection at the request of a national or local agency, a private entity or any person. It is authorized to promulgate rules to..."
 aliases:
-  - "Circular No. 18-01"
-  - "circular no. 18-01"
-  - "npc circular no. 18-01"
-  - "rules of procedure on requests for advisory opinions"
+- Circular No. 18-01
+- circular no. 18-01
+- npc circular no. 18-01
+- rules of procedure on requests for advisory opinions
 tags:
-  - "issuance"
-  - "type/circular"
-  - "year/undated"
+- issuance
+- type/circular
+- year/2018
 draft: false
+date: '2018-06-22'
 ---
 
 ## Issuance Text
@@ -176,8 +177,6 @@ Privacy Commissioner
 
 (Sgd) IVY D. PATDU (Sgd) LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: Affidavit duly notarized for individual data subjects and Secretary’s Certificate for juridical persons. This documentary requirement may be waived in meritorious cases.
 [^7]: of Republic Act No. 10173, otherwise known as “The Data Privacy Act of 2012” (DPA), the following guidelines for requests for advisory opinions of the NPC are hereby prescribed and promulgated:

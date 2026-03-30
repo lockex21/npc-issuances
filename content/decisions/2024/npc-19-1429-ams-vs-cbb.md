@@ -1,12 +1,18 @@
 ---
-title: "NPC 19-1429: AMS vs CBB"
-description: "NPC 19-1429: AMS vs CBB"
+title: 'NPC 19-1429: AMS v. CBB'
+description: Complaint alleging data privacy violations; decided on 2024-09-04.
 tags:
-  - "decision"
-  - "type/decision"
-  - "year/2024"
-  - "npc-case"
+- decision
+- type/decision
+- year/2019
+- npc-case
 draft: false
+aliases:
+- NPC 19-1429
+- npc 19-1429
+- AMS v. CBB
+- ams v. cbb
+date: '2024-09-04'
 ---
 
 ## Source
@@ -27,22 +33,13 @@ AMS
 
 Complainant,
 
--versus -
+-versus-
 
 CBB
 
 Respondent.
 
 x------------------------------------------------------x
-
-NPC 19 -1429
-
-For: Violation of the
-
-Data Privacy Act of
-
-2012
-
 NAGA , P.C. ;
 
 Before the Commission is an Affidavit of Complaint dated 03 October

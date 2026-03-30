@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-017 — Intellectual Property Investigation And Enforcement Agencies’ Rights To Inquiry And Request For Personal Information"
-description: "''''''''''''' ''''''''''''''''''''''' ''''' '''''''''''''''''' ''''''''''' ''''''''''' ''''''''''' '''''''''''''' '''''''''''' '''''''' '' ''''' '''''''''''''' '''''''''''''' '''''''''''' '''''''''''''' ''' ''''''''''''' ''''''''''' ''''''''..."
+title: "NPC Advisory Opinion No. 2021-017 — Intellectual Property Investigation And Enforcement Agencies’ Rights To Inquiry And Request For Personal Information"
+description: "The NPC clarified the scope of data processing rights available to intellectual property investigation and enforcement agencies when requesting personal information from online platforms and financial intermediaries for IPR investigations."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,23 +17,12 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                       ADVISORY OPINION NO. 2021-0171
 
-8 June 2021
+**8 June 2021**
 
-''''''''''''' ''''''''''''''''''''''' ''''' ''''''''''''''''''
-''''''''''' ''''''''''' ''''''''''' '''''''''''''' '''''''''''' '''''''' '' ''''' ''''''''''''''
-'''''''''''''' '''''''''''' '''''''''''''' ''' ''''''''''''' ''''''''''' ''''''''
-'''''''''''''''''''''''''''''''''''''''''
+Re: INTELLECTUAL PROPERTY INVESTIGATION AND ENFORCEMENT AGENCIES’ RIGHTS TO INQUIRY AND REQUEST FOR PERSONAL INFORMATION
 
-
-
-               RE:       INTELLECTUAL   PROPERTY   INVESTIGATION AND
-                         ENFORCEMENT AGENCIES’ RIGHTS TO INQUIRY AND
-                         REQUEST FOR PERSONAL INFORMATION
-
-Dear ''''''''''''''''' '''''''''''''''''''''' ''''''''''''''''''''' '''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your letter received by the National Privacy Commission (NPC)
 seeking an opinion on the metes and bounds of intellectual property (IP) investigation and
@@ -46,8 +35,9 @@ We understand that the National Committee on Intellectual Property Rights (NCIPR
 considering having an online investigation protocol in relation to IP investigating agencies
 queries on suspected IPR violators.
 
-Scope of the Data Privacy Act of 2012; criteria for
-lawful processing of personal data
+### Discussion
+
+#### Scope of the Data Privacy Act of 2012; criteria for lawful processing of personal data
 
 The Data Privacy Act of 2012 2 (DPA) applies to the processing of personal information,
 sensitive personal information, and privileged information (collectively, personal data) of
@@ -59,12 +49,9 @@ this scenario, Section 12 (e) of the DPA may be applicable. This provides for th
 personal information necessary to fulfill functions of a public authority which necessarily
 includes the processing of personal data for the fulfillment of its mandate.
 
-1 Tags: law enforcement; investigation; mandate; due process; data sharing; data sharing agreement;
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
 (2012).
 
-                            th
+   th
 
 In addition, for processing sensitive personal information and privileged information, Section
 13 should likewise be considered. The said provision recognizes various lawful bases for
@@ -74,9 +61,7 @@ protection of lawful rights and interests of natural or legal persons in court p
 the establishment, exercise or defense of legal claims, or when provided to government or
 public authority.4
 
-Mandate of the NCIPR and member agencies; manner
-of requesting information; due process; general data
-privacy principles
+#### Mandate of the NCIPR and member agencies; manner of requesting information; due process; general data privacy principles
 
 In relation to the above, we understand that Executive Order (EO) No. 7365 created the NCIPR.
 The said EO provides as one of the NCIPR’s mandates is to intensify regular and effective
@@ -85,7 +70,7 @@ prosecution of pirates and counterfeiters.6
 
 The NCIPR is composed of the following agencies:
 
-     1. Department of Trade and Industry (DTI);
+   1. Department of Trade and Industry (DTI);
      2. Intellectual Property Office of the Philippines (IPOPHIL);
      3. Department of Justice (DOJ);
      4. Department of the Interior and Local Government (DILG);
@@ -111,8 +96,6 @@ memoranda, letters, and other communication, among others, depending on several 
 such as the stage of the investigation or enforcement action as well as the powers of the
 particular member agency, i.e., some may have subpoena powers and while others do not.
 
-
-
 3 Data Privacy Act of 2012, § 13 (b).
 4 Id. § 13 (f).
 5 Office of the President, Institutionalizing Permanent Units To Promote, Protect And Enforce Intellectual Property Rights
@@ -137,7 +120,7 @@ unreasonably infringe on the rights and freedoms of individuals guaranteed by th
 Constitution. Government agencies, as personal information controllers, are bound to uphold
 data subject rights provided for in the DPA.
 
-Security of personal data; data sharing agreement
+#### Security of personal data; data sharing agreement
 
 The NCIPR and its member agencies should consider the provisions of NPC Circular No. 16-
 01 on the Security of Personal Data in Government Agencies, and NPC Circular No. 2020-03
@@ -158,14 +141,7 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
-
-
-
-
 
 No. 2018-083 (Nov. 26, 2018).

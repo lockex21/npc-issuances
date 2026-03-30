@@ -1,12 +1,20 @@
 ---
-title: "NPC 18-019: In re: Ateneo de Zamboanga University"
-description: "Resolution on a payroll breach at Ateneo de Zamboanga University's School of Medicine where unauthorized bank account changes delayed salary payments, finding the university's breach management and security measures were appropriate."
+title: 'NPC 18-019: In re: Ateneo de Zamboanga University'
+description: Resolution on a payroll breach at Ateneo de Zamboanga University's School
+  of Medicine where unauthorized bank account changes delayed salary payments, finding
+  the university's breach management and security measures were appropriate.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2023
+- npc-case
 draft: false
+aliases:
+- '"NPC 18-019"'
+- '"npc 18-019"'
+- '"In re: Ateneo de Zamboanga University"'
+- '"in re: ateneo de zamboanga university"'
+date: '2023-05-11'
 ---
 
 ## Source

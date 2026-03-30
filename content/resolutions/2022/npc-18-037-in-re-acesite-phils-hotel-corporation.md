@@ -1,12 +1,17 @@
 ---
-title: "NPC 18-037: In re: Acesite (Phils) Hotel Corporation"
-description: "Compliance dated 19 May 2021 of Acesite (Phils.) Hotel Corporation, referred to as Annex “D”."
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: Compliance dated 19 May 2021 of Acesite (Phils.) Hotel Corporation, referred
+  to as Annex “D”.
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC 18-037: In re: Acesite (Phils) Hotel Corporation'
+aliases:
+- NPC 18-037
+- npc 18-037
+date: '2022-09-22'
 ---
 
 ## Source
@@ -23,17 +28,13 @@ draft: false
 ## Resolution Text
 NATIONAL PRIVACY COMMISSI ON
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay C ity, Metro Manila 1307
-
 IN RE: ACESITE (PHILS.) HOTEL
 
 CORPORATION
 
-NPC BN 18 -037
-
 x-----------------------------------------------x
 
-NAGA , P.C.;
+NAGA, P.C.;
 
 Before the Commission is the compliance of Acesite (Phils.) Hotel
 
@@ -41,7 +42,7 @@ Corporation (Acesite) in relation to the Resolu tion dated 15 April
 
 2021 of the Commission .
 
-Facts
+### Facts
 
 Acesite is the entity that operates the Waterfront Manila Pavilion
 
@@ -51,7 +52,7 @@ portion of its hotel was razed by fire. 2 The fire “caused damage to
 
 properties of the Hotel, which includes several records containing
 
-several data pertaining to the Hotel operations [and] its employees ,
+several data pertaining to the Hotel operations [and] its employees,
 
 among others .” 3 Acesite identified the following personal data
 
@@ -78,11 +79,7 @@ Signature of the Guest
 > 2Id.
 > 3Id.
 
-NPC BN 18 -037
-
 In Re: Acesite (Phils.) Hotel Corporation
-
-> 5th Floor, Philippine Internatio nal Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 6. Employee Payroll Details:
 
@@ -163,11 +160,7 @@ any other accountable persons.
 > 4Id., at p. 3 .
 > 5In Re: Acesite (Phils.) Hotel Corporation, NPC BN 18 -037, Order dated 21 January 2021, at p. 1.
 
-NPC BN 18 -037
-
 In Re: Acesite (Phils.) Hotel Corporation
-
-> 5th Floor, Philippine Internatio nal Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 2. Personal Data Possibly Involved
 
@@ -221,11 +214,11 @@ Corporation is hereby ORDERED to comply with the following
 
 within fifteen (15) days from receipt of this Res olution:
 
-1. SUBMIT its Updated Report with the contents required in
+1. **SUBMIT** its Updated Report with the contents required in
 
 the Order dated 21 January 2021; and
 
-2. SUBMIT proof and details of the measures taken to address
+2. **SUBMIT** proof and details of the measures taken to address
 
 the breach, such as but not limited to, details of
 
@@ -233,17 +226,13 @@ implementation of isolated backup storage, information
 
 asset inventory, and Privacy Impact Assessment (PIA).
 
-SO ORDERED. 7
+**SO ORDERED.** 7
 
 > 6Id., at p p.1-2.
-> 7In Re: A cesite (Phils.) Hotel Corporation ,NPC BN 18 -037, Resolution dated 15 April 2021, at pp. 7-
+> 7In Re: A cesite (Phils.) Hotel Corporation,NPC BN 18 -037, Resolution dated 15 April 2021, at pp. 7-
 > 8.
 
-NPC BN 18 -037
-
 In Re: Acesite (Phils.) Hotel Corporation
-
-> 5th Floor, Philippine Internatio nal Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Acesite thereafter submitted a Compliance dated 19 May 2021 .8 The
 
@@ -317,11 +306,11 @@ Id. , referred to as Annex “E”.
 
 > 14
 
-Compliance Letter dated 17 March 2022 of the Enforcement Division , at p. 2.
+Compliance Letter dated 17 March 2022 of the Enforcement Division, at p. 2.
 
 > 15
 
-In Re: Acesite (Phils.) Hotel Corporation, NPC BN 18 -037, Compliance Lett er dated 17 March 2022 ,
+In Re: Acesite (Phils.) Hotel Corporation, NPC BN 18 -037, Compliance Lett er dated 17 March 2022,
 
 at p . 2.
 
@@ -331,23 +320,21 @@ Privacy Impact Assessment Report of Acesite (Phils.) Corporatio n submitted on 0
 
 > 17
 
-Compliance Letter dated 06 June 2022 of the Enforcement Division , at p. 2. NPC BN 18 -037
+Compliance Letter dated 06 June 2022 of the Enforcement Division, at p. 2. NPC BN 18 -037
 
 In Re: Acesite (Phils.) Hotel Corporation
-
-> 5th Floor, Philippine Internatio nal Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 21 June 2022, Acesite submitted its process flow chart and
 
 description of processing activities .18
 
-Issue
+### Issue
 
 Whether Acesite has sufficiently complied wi th the 15 April 2021
 
 Resolution of the Commission.
 
-Discussion
+### Discussion
 
 In the Resolution dated 15 Ap ri l 2021 (Resolution), Acesite was
 
@@ -369,7 +356,7 @@ required by the Commission in its
 
 Updated Report.
 
-In its Resolution , the Commission required Acesite to submit the
+In its Resolution, the Commission required Acesite to submit the
 
 lacking information “to identify whether adequate actions were
 
@@ -390,17 +377,13 @@ policies and procedures. 21
 > 20 Id. ,at p. 7.
 > 21 Id.
 
-NPC BN 18 -037
-
 In Re: Acesite (Phils.) Hotel Corporation
-
-> 5th Floor, Philippine Internatio nal Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 In compliance with the CID’s Order and this Commission’s
 
-Resolution , Acesite submitted its Updated Report on 19 May 2021
+Resolution, Acesite submitted its Updated Report on 19 May 2021
 
-containing details on the nature of the breach ,22 personal data
+containing details on the nature of the breach,22 personal data
 
 possibly involved, 23 and the measures taken to address the breach. 24
 
@@ -416,13 +399,13 @@ the Hotel was ver y old and lacked proper data storage, its data
 
 processing system was vulnerable to a breach. 26
 
-Further , Acesite stated that there was an estimated number o f more
+Further, Acesite stated that there was an estimated number o f more
 
-than two hundred thousand (200,000 +) affected individuals , which
+than two hundred thousand (200,000 +) affected individuals, which
 
 was based on the number of p ersonal records damaged by the fire. 27
 
-Moreover, as to the consequences of the breach , Acesite identified
+Moreover, as to the consequences of the breach, Acesite identified
 
 that there would be permanent destruction of its records for its
 
@@ -458,11 +441,7 @@ fire. 31
 > at p. 2.
 > 31 Id., at p. 3.
 
-NPC BN 18 -037
-
 In Re: Acesite (Phils.) Hotel Corporation
-
-> 5th Floor, Philippine Internatio nal Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Acesite further stated that it had notified affected data subjects about
 
@@ -529,11 +508,7 @@ and Resolution by the Commission dated 15 April 2021 .
 > 34 Compliance dated 19 May 2021 of Acesite (Phils.) Hotel Corporation referred to as Annex “A”,
 > at p p. 3 -4.
 
-NPC BN 18 -037
-
 In Re: Acesite (Phils.) Hotel Corporation
-
-> 5th Floor, Philippine Internatio nal Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 II. Acesite sufficiently provided
 
@@ -563,7 +538,7 @@ guest registration forms, and tinting of other wet files .”36
 
 Acesite further provide d files and information pertaining to its
 
-personnel data inventory, 37 systems inventory ,38 and proof that it has
+personnel data inventory, 37 systems inventory,38 and proof that it has
 
 an isolated backup storage .39 Particularly, Acesite stated that “as [a]
 
@@ -596,11 +571,7 @@ system or technology product of a PIC or PIP program, project,
 > 40 Compliance dated 19 May 2021 of Acesite (Phils.) Hotel Corporation refe rred to as Annex “A” ,
 > at p. 3.
 
-NPC BN 18 -037
-
 In Re: Acesite (Phils.) Hotel Corporation
-
-> 5th Floor, Philippine Internatio nal Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 process, measure, system or technology p roduct of a PIC or PIP.
 
@@ -665,11 +636,7 @@ the employee’s Tax Identification Number (TIN) and Social Security
 > 46 Id., at pp. 51 -76.
 > 47 Id. ,at pp. 48 -50.
 
-NPC BN 18 -037
-
 In Re: Acesite (Phils.) Hotel Corporation
-
-> 5th Floor, Philippine Internatio nal Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Service (SSS) Number. 48 Thus, its action plan is to remove these
 
@@ -707,7 +674,7 @@ storing or transmitting personal data, and stronger password
 
 policies, 58 among others.
 
-Thus, base d on the records and EnD’s evaluation , Acesite has been
+Thus, base d on the records and EnD’s evaluation, Acesite has been
 
 able to conduct an adequate PIA in line with NPC Advisory No. 17 -
 
@@ -723,24 +690,20 @@ able to conduct an adequate PIA in line with NPC Advisory No. 17 -
 > 53 Id. ,at p. 55.
 > 54 Id. ,at p. 56.
 > 55 Id. ,at p. 60.
-> 56 Privacy Impact Assessment Report dated 01 April 2022 of Acesite (Phils.) Hotel Corporation ,at
+> 56 Privacy Impact Assessment Report dated 01 April 2022 of Acesite (Phils.) Hotel Corporation,at
 > p. 68.
 > 57 Id. ,at p. 70.
 > 58 Id. ,at p. 76.
 
-NPC BN 18 -037
-
 In Re: Acesite (Phils.) Hotel Corporation
-
-> 5th Floor, Philippine Internatio nal Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 WHEREFORE, premises considered, this Commission resolves that
 
 the matter of NPC BN 18 -037 “In re Acesite (Phils.) Hotel
 
-Corporatio n” is hereby considered CLOSED.
+Corporatio n” is hereby considered **CLOSED**.
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines .
 

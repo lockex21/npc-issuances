@@ -1,13 +1,20 @@
 ---
-title: "NPC BN 18-054: In Re: Department of Education – Calamba"
-description: "NPC BN 18-054: In Re: Department of Education – Calamba"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: 'NPC BN 18-054: In Re: Department of Education – Calamba'
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC BN 18-054: In Re: Department of Education – Calamba'
+aliases:
+- NPC BN 18-054
+- npc bn 18-054
+date: '2021-12-07'
 ---
+
+
+
 
 ## Source
 - Reference: NPC BN 18-054
@@ -39,7 +46,7 @@ of the National Privacy Commission (NPC) through its Complaints
 
 and Investigation Division (CID) dated 15 July 2022 .
 
-Facts
+### Facts
 
 On 02 April 2018, the CID detected a breach that leaked DepEd
 
@@ -65,13 +72,11 @@ The aim of its attack was to deface, breach, and/or leak data from these
 
 websites. 5 Among the entities affected by this attack was DepEd
 
-> 1In re: Department of Education -Calamba, NPC BN 18 -054 , Order dated 18 April 201 8.
+> 1In re: Department of Education -Calamba, NPC BN 18 -054, Order dated 18 April 201 8.
 > 2Id.
 > 3Incident Report dated 23 April 2018 of Department of Education -Calamba.
 > 4Id.
 > 5Id.
-
-NPC BN 18 -054 NPC BN 18 -054
 
 In re: Department of Education of Calamba
 
@@ -91,9 +96,9 @@ available in the website for public viewing” were posted .9
 
 The leak was allegedly potentially caused by (i) a vulnerability in
 
-“Zoom.ph ,” DepEd Calamba’s webhosting provider, which caused the
+“Zoom.ph,” DepEd Calamba’s webhosting provider, which caused the
 
-res etting of DepEd Calamba’s Cpanel account , and/or (ii) an
+res etting of DepEd Calamba’s Cpanel account, and/or (ii) an
 
 unsecured Wordpress/Division Systems script. 10  According to DepEd
 
@@ -148,8 +153,6 @@ Communications Technology (as per request by the DICT). 12
 > 10 Id.
 > 11 Incident Report dated 23 April 2018 of Department of Education -Calamba.
 > 12 Id.
-
-NPC BN 18 -054
 
 In re: Department of Education of Calamba
 
@@ -228,8 +231,6 @@ were given notification letters regarding the breach. A
 > 15 Id.
 > 16 Post Breach Report dated 14 December 2021 of Department of Education -Calamba.
 
-NPC BN 18 -054
-
 In re: Department of Education of Calamba
 
 separate meeting was also conducted to inform all affected
@@ -300,7 +301,7 @@ information. 17
 
 DepEd Calamba also stated that together with DepEd CALABARZON
 
-and the NPC , they developed the Regional Data Privacy Manual .18  The
+and the NPC, they developed the Regional Data Privacy Manual .18  The
 
 manual contains all the security standards to be implemented by all
 
@@ -315,8 +316,6 @@ the Division Office s in the region. 19  These st andards include :
 > 17 Id.
 > 18 Id.
 > 19 Id.
-
-NPC BN 18 -054
 
 In re: Department of Education of Calamba
 
@@ -368,17 +367,17 @@ On 02 August 2022, DepEd Calamba submitted its compliance dated
 
 28 July 2022 with the Order dated 15 July 202 2.23  Its compliance
 
-included (i) a Supplemental Post Breach Report ,24  (ii) Minutes of an
+included (i) a Supplemental Post Breach Report,24  (ii) Minutes of an
 
 Orientation and Risk Assessment Meeting which took place on 26
 
-April 2018 ,25  (iii) a Division Advisory on Data Breach dated 10 April
+April 2018,25  (iii) a Division Advisory on Data Breach dated 10 April
 
-2018 ,26  (iv) Copies of the Individual Breach Notification sent to the
+2018,26  (iv) Copies of the Individual Breach Notification sent to the
 
-personnel affected ,27  (v) a copy of the Regional Data Privacy Manual
+personnel affected,27  (v) a copy of the Regional Data Privacy Manual
 
-authore d by DepEd Calamba, DepEd C ALABARZON , and the NPC ,28
+authore d by DepEd Calamba, DepEd C ALABARZON, and the NPC,28
 
 > 20 Post Breach Report dated 14 December 2021 of Department of Education -Calamba.
 > 21 In re: Department of Education -Calamba, NPC BN 18 -054, Order 15 July 2022.
@@ -392,29 +391,27 @@ authore d by DepEd Calamba, DepEd C ALABARZON , and the NPC ,28
 > 28 Department of Education Region IV -A CALABARZON Data Privacy Manual of Department of
 > Education -Calamba.
 
-NPC BN 18 -054
-
 In re: Department of Education of Calamba
 
 and (vi) a Division Memorandum on Data Privacy
 
 Orientation/Training dated 25 January 2019. 29
 
-Issue
+### Issue
 
 Whether DepEd Calamba has sufficiently complied with the Order
 
-dated 15 July 2022 , including the implementation of reasonable and
+dated 15 July 2022, including the implementation of reasonable and
 
 appropriate security measures .
 
-Discussion
+### Discussion
 
 The Commission finds that DepEd Calamba has sufficiently complied
 
 with the Order dated 15 July 2022 since the affected data subjects were
 
-sufficiently notified in accordance with NPC Circular 16 -03 , and that
+sufficiently notified in accordance with NPC Circular 16 -03, and that
 
 DepEd Calamba has implemented reasonable and appropriate
 
@@ -461,8 +458,6 @@ consequences of the breach;
 > 29 Division Memorandum, Division Data Privacy Orientation dated 25 January 2019 of Department
 > of Education -Calamba.
 
-NPC BN 18 -054
-
 In re: Department of Education of Calamba
 
 5.  representative of the personal information controller,
@@ -493,7 +488,7 @@ information controller shall establish all reasonable mechanisms
 
 to ensure that all affected data subjects are made aware of the
 
-breach: Provided , that where individual notification is not
+breach: Provided, that where individual notification is not
 
 possible or would require a disproportionate effort, the personal
 
@@ -505,7 +500,7 @@ communication or any similar m easure through which the data
 
 subjects are informed in an equally effective manner: Provided
 
-further , that the personal information controller shall establish
+further, that the personal information controller shall establish
 
 means through which the data subjects can exercise their rights
 
@@ -539,8 +534,6 @@ TO: [Data Subject]
 > 32 RPR vs. Edukasyon.ph, NPC 19 -438, Resolution dated 22 September 2022, at p. 4.
 > 33 Supplemental Post Breach Report dated 28 July 2022 of Department of Education -Calamba.
 > 34 Notification on DepEd Data Breach dated 24 April 2018 of Department of Education -Calamba.
-
-NPC BN 18 -054
 
 In re: Department of Education of Calamba
 
@@ -604,11 +597,11 @@ Schools Division Superintendent 35
 
 As may be observed in the letter, DepEd Calamba notified the
 
-individual data subjects of the fact and nature of the breach , the
+individual data subjects of the fact and nature of the breach, the
 
 personal data involved, the possible negative effects it may have, and
 
-measures taken to address the breach. 36  The letter was signed by RDT ,
+measures taken to address the breach. 36  The letter was signed by RDT,
 
 the Schools Division Superintendent. 37
 
@@ -623,8 +616,6 @@ was held on 26 April 2018, and the affected data subjects were
 > 37 Id.
 > 38 Minutes of the Meeting, Orientation and Risk Assessment on Data Breach dated 30 April 2018 of
 > Department of Education -Calamba.
-
-NPC BN 18 -054
 
 In re: Department of Education of Calamba
 
@@ -697,8 +688,6 @@ local network implementation
 > in the Government and the Private Sector, Creating for This Purpose aNational Privacy
 > Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter
 > V, § 20 (2012).
-
-NPC BN 18 -054
 
 In re: Department of Education of Calamba
 
@@ -789,7 +778,7 @@ standards provided under the Regional Data Privacy Manual .49
 
 All told, t he implementation of the abovementioned measures after the
 
-data breach , as well as the notification made by DepEd Calamba on its
+data breach, as well as the notification made by DepEd Calamba on its
 
 own initiative, demonstrated its diligence and commitment to protect
 
@@ -813,9 +802,9 @@ WHEREFORE, premises considered, the Commission resolves that the
 
 matter of NPC BN 18 -054 “In re : Department of Educatio n-Calamba ”
 
-is  hereby CLOSED .
+is  hereby **CLOSED** .
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines.
 
@@ -834,8 +823,6 @@ SGD
 LEANDRO ANGELO Y. AGUIRRE
 
 > 49 Id.
-
-NPC BN 18 -054
 
 In re: Department of Education of Calamba
 

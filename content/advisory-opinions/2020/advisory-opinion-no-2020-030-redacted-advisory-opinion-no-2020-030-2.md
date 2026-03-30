@@ -1,37 +1,24 @@
 ---
-title: "Redacted-Advisory-Opinion-No.-2020-030"
-description: "'''''''' '''''''''''''' '''''''''''''''''' '''''''''''''''''''' '''''' '''''''''''' '''''''''''''''' '''''''''' '''''''''' '''''''''' ''''''''''' '''''' '''''' '''''''' '''''''''' '''''''' '''''''''''''' ''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2020-030 — Reporting to the Department of the Interior and Local Government of COVID-19 Related Hospital Deaths"
+description: "Reporting of COVID-19 related hospital deaths to the Department of Interior and Local Government."
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
 draft: false
 ---
-
 ## Source
 - Reference: Advisory Opinion No. 2020-030
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-030.pdf
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                    ADVISORY OPINION NO. 2020-0301
 
-5 August 2020
-
-'''''''' '''''''''''''' '''''''''''''''''' ''''''''''''''''''''
-'''''' '''''''''''' '''''''''''''''' ''''''''''
-'''''''''' '''''''''' '''''''''''
-'''''' '''''' '''''''' '''''''''' '''''''' ''''''''''''''
-''''''''''''''''''''''''''''
-
-
-
-              Re:      REPORTING TO THE DEPARTMENT OF THE INTERIOR
+Re:      REPORTING TO THE DEPARTMENT OF THE INTERIOR
                        AND LOCAL GOVERNMENT OF COVID-19 RELATED
                        HOSPITAL DEATHS
 
-Dear ''''''''' ''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion seeking guidance on the
 requirement of the Department of Interior and Local Government – VII (DILG-VII) in a
@@ -41,7 +28,9 @@ Director of the DILG Cebu Province, requiring hospitals to submit a daily report
 
 We understand from your email that the report requested will contain the following:
 
-      a.    Registry number;
+### Discussion
+
+   a.    Registry number;
       b.    Patient’s complete name;
       c.    Sex;
       d.    Date of death;
@@ -56,9 +45,6 @@ DILG Cebu Province. Both DILG memoranda made reference to another DILG issuance:
 Memorandum Circular (MC) No. 2020-063 dated 27 March 2020 on the Interim Guidelines on
 the Management of Human Remains for Patient Under Investigation (PUI) and Confirmed
 Coronavirus Disease 2019 (COVID-19) Cases.
-
-
-1 Tags: sensitive personal information; COVID-19; DILG; public authority; reportorial requirement
 
 Processing of sensitive personal information; public
 authority; mandate; proportionality
@@ -103,7 +89,6 @@ We likewise emphasize Section 22 of the DPA which requires that all sensitive pe
 information maintained by the government, its agencies and instrumentalities shall be
 secured, as far as practicable, with the use of the most appropriate standard recognized by the
 
-
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
 
 the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of
@@ -125,8 +110,6 @@ information may change the context of the inquiry and the appreciation of the fa
 For your reference.
 
 Very truly yours,
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner

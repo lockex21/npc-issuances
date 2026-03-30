@@ -2,16 +2,17 @@
 title: "Prerequisites for the Philippine Privacy Mark Certification Program (Circular No. 2023-05)"
 description: "Prerequisites for certification of PICs/PIPs and accreditation of CBs under the Philippine Privacy Mark Certification Program."
 aliases:
-  - "prerequisites for the philippine privacy mark certification program"
-  - "Circular No. 2023-05"
-  - "circular no. 2023-05"
-  - "npc circular no. 2023-05"
+- prerequisites for the philippine privacy mark certification program
+- Circular No. 2023-05
+- circular no. 2023-05
+- npc circular no. 2023-05
 tags:
-  - "issuance"
-  - "topic/training-certification"
-  - "type/circular"
-  - "year/undated"
+- issuance
+- topic/training-certification
+- type/circular
+- year/2021
 draft: false
+date: '2021-08-23'
 ---
 
 ## Issuance Text

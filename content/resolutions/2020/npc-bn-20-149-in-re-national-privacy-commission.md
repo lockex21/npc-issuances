@@ -1,13 +1,22 @@
 ---
-title: "NPC BN 20-149: In re: National Privacy Commission"
-description: "NPC BN 20-149: In re: National Privacy Commission"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC BN 20-149
+- npc bn 20-149
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC BN 20-149
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC BN 20-149: In re: National Privacy Commission'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC BN 20-149
@@ -25,8 +34,6 @@ IN RE: NATIONAL PRIVACY
 
 COMMISSION
 
-NPC BN 20 -149
-
 x-----------------------------------------x
 
 AGUIRRE , D.P.C. :
@@ -39,17 +46,16 @@ subject notification filed by the National Privacy Commission
 
 affecting one (1) data subject caused by sending a case assignment
 
-to a wrong e -mail address. 1
+to a wrong email address. 1
 
-The Facts
-
+### Facts
 The Complaints and Investigation Division (CID) of the PIC hired
 
 Case Decongestion Officers (CDOs) in its effort to declog its
 
 dockets. At the time of the initial case assignments, the CDOs were
 
-not yet provided with the Commission -issued (@privacy.gov.ph)
+not yet provided with the Commissionissued (@privacy.gov.ph)
 
 e-mail addresses. However, i n order to ensure that the CDOs start
 
@@ -57,11 +63,11 @@ their work after signing of their contracts, copies of a certain case
 
 docket containing the complaint and evaluation form were sent to
 
-their personal e -mail addresses. 2
+their personal email addresses. 2
 
-On 03 August 2020 , the supervising lawyer sent an e -mail to
+On 03 August 2020 , the supervising lawyer sent an email to
 
-pa @gmail.com , the e -mail address registered under the name of
+pa @gmail.com , the email address registered under the name of
 
 the concerned CDO, containing PDF copies of the complaints -
 
@@ -69,7 +75,7 @@ assisted form, complaint evaluation, briefing documents for CDOs
 
 and word documents, cover memorandum guide, summary sheet
 
-guide, and fact -finding report guide. 3
+guide, and factfinding report guide. 3
 
 On 04 August 2020, the breach incident was discover ed when the
 
@@ -79,24 +85,22 @@ subject e-mail and inquired if the same was sent to
 
 > 1Confidentiality Breach dated August 7, 2020.
 > 2Ibid. , at p. 2.
-> 3Ibid. ,at p. 2. NPC BN: 20 -149
+> 3Ibid. ,at p. 2. NPC BN: 20149
 > Page 2of 7
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 pga @gmail.com . In an excel file containing the names and email
 
-addresses of CDOs, the e -mail address indicated under the name
+addresses of CDOs, the email address indicated under the name
 
 of the concerned CDO is  pa @gmail.com  instead of
 
 pga @gmail.com , the one indicated i n his Personal Data Sheet
 
-(PDS) .4 It was then realized that the subject e -mail was sent to the
+(PDS) .4 It was then realized that the subject email was sent to the
 
-wrong e -mail address .
+wrong email address .
 
-On the same day, the supervising lawyer recalled the e -mail sent
+On the same day, the supervising lawyer recalled the email sent
 
 to  pa@gmail.com  but as of the writing of the Initial Report , no
 
@@ -108,7 +112,7 @@ of Outlook will only work if the recipient has not yet opened the e -
 
 mail. The supervising lawyer then sent a notification of the
 
-incident to the CID ’s Officer -in -Charge (OIC) .5
+incident to the CID ’s OfficerinCharge (OIC) .5
 
 On 05 August 2020, the OIC met with the Legal and Enforcement
 
@@ -132,7 +136,7 @@ complainant were also involved that may be used to enable
 
 identity fraud, namely, first name, midd le initial, last name, home
 
-address, e -mail address , mobile number, and signature. 7
+address, email address , mobile number, and signature. 7
 
 The PIC has taken the following measures to address the breach
 
@@ -142,18 +146,16 @@ compromised :
 
 (1) Activation of the recall function of Outlook; and
 
-(2) Sending of letter to the e -mail address  pa@gmail.com  to ask him to
+(2) Sending of letter to the email address  pa@gmail.com  to ask him to
 
-delete the e -mail and refrain from sharing its contents to anyone. 8
+delete the email and refrain from sharing its contents to anyone. 8
 
 > 4Ibid., at p. 2.
 > 5Ibid. , at p. 2.
 > 6Ibid ., at p. 2.
 > 7Ibid. , at p. 3.
-> 8Ibid ., at p. 3. NPC BN: 20 -149
+> 8Ibid ., at p. 3. NPC BN: 20149
 > Page 3of 7
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 Furthermore, t he PIC has performed or proposed the following
 
@@ -163,27 +165,27 @@ consequences , limit the damage or distress to those affected by the
 
 incident , and prevent a recurrence of the incident :
 
-(1) To use only Commission -issued (@privacy.gov.ph) e -mail addresses in
+(1) To use only Commissionissued (@privacy.gov.ph) email addresses in
 
 sending case assignments containing the case files to CDOs;
 
-(2) In case of non -availability of Commission -issued e -mail addresses, to
+(2) In case of nonavailability of Commissionissued email addresses, to
 
-confirm and verify with the CDOs their personal e -mail add resses to be
+confirm and verify with the CDOs their personal email add resses to be
 
 used in receiving case assignments with attached case files;
 
-(3) Double check the sent e -mails to CDOs to fully determine that it was
+(3) Double check the sent emails to CDOs to fully determine that it was
 
 only that of the concerned CDO that was mistakenly sent; and
 
 (4) Remind the employees of CID , especially those in cha rge of collecting
 
-the e -mail addresses of the CDOs to double check their personal e -mail
+the email addresses of the CDOs to double check their personal email
 
 addresses and other contact information they have provided. 9
 
-Citing Section 19 of NPC Circular 16 -03, 10 the PIC requests to be
+Citing Section 19 of NPC Circular 1603, 10 the PIC requests to be
 
 exempted from notifying the data sub ject considering the p ersonal
 
@@ -203,15 +205,14 @@ the event of identity fraud committed against the data subject, the
 
 PIC also stated that it can be ascertaine d that it originated from the
 
-owner of the e -mai l address pa @gmail.com. 11
+owner of the emai l address pa @gmail.com. 11
 
-Discussion
-
+### Discussion
 The Commission resolves to den y the request of the PIC for
 
 exemption from data subject notification .
 
-Under Section 11 of NPC Circular No. 16 -03, 12  notification shall be
+Under Section 11 of NPC Circular No. 1603, 12  notification shall be
 
 required upon knowledge of or when there is reasonable belief by
 
@@ -221,15 +222,12 @@ processor that a personal data breach requiring notification has
 
 occurred, under the following conditions:
 
-> 9Ibid. , at pp. 3 -4.
+> 9Ibid. , at pp. 34.
 > 10 Personal Data Breach Management, 15 December 2016.
 > 11 Ibid. , at p. 4.
 > 12 Supra note 10.
 
-NPC BN: 20 -149
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
+NPC BN: 20149
 
 A. The personal data involves sensitive personal information or any
 
@@ -265,13 +263,13 @@ ID No. as well as its date of issuance. Other personal information
 
 of the data subject are also involved, namely, the first name,
 
-middle initial, last name, home address, e -mail address, mobile
+middle initial, last name, home address, email address, mobile
 
 number, and signature. These are personal information that may
 
 be used to enable identity fraud. As these personal information
 
-were included in the subj ect e -mail sent to an unintended recipient
+were included in the subj ect email sent to an unintended recipient
 
 and that the recall function was not found to be successful, there is
 
@@ -289,7 +287,7 @@ the breach incident in accordance with Section 1 8(A) of the same
 
 Circular , which provides that:
 
-The data subjects shall be notified within seventy -two (72)
+The data subjects shall be notified within seventytwo (72)
 
 hours upon knowledge of or reasonable belief by the personal
 
@@ -297,7 +295,7 @@ information controller or personal information processor that a
 
 personal data breach has occurred . The notification may be made
 
-on the basis of available information within the 72 -hour period if
+on the basis of available information within the 72hour period if
 
 the personal data breach is likely to give rise to a real risk to the
 
@@ -314,10 +312,8 @@ additional information at a later stage on the basis of further
 investigation. 14
 
 > 13 Emphasis supplied.
-> 14 Emphasis supplied. NPC BN: 20 -149
+> 14 Emphasis supplied. NPC BN: 20149
 > Page 5of 7
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 Instead of notifying the data subject, however, the PIC request ed
 
@@ -363,7 +359,7 @@ controller with the law and existence of good faith in the
 
 acquisition of personal data. 15
 
-While the PIC recalled the e -mail sent to the wrong e -mail address,
+While the PIC recalled the email sent to the wrong email address,
 
 no notification was however received from Outlook to show that
 
@@ -371,21 +367,21 @@ the recall was successful. In fact, the PIC even noted that the recall
 
 function of Outlook will only work if the recipient has not yet
 
-opened the e -mail. Considering that no such notification from
+opened the email. Considering that no such notification from
 
 Outl ook was received , it cannot therefore be ascertained whether
 
 suc h measure taken by the PIC will prevent the use of the personal
 
-data by the unintended recipient of the subject e -mai l – a person
+data by the unintended recipient of the subject emai l – a person
 
 who is not authorized to access it.
 
 Moreover, while one of the measures taken by the PIC to address
 
-the breach was sending a letter to the e -mail address of the
+the breach was sending a letter to the email address of the
 
-unintended recipient asking him to delete t he subject e -mail and
+unintended recipient asking him to delete t he subject email and
 
 refrain fro m sh aring its contents, there is nothing on record to
 
@@ -397,10 +393,8 @@ negative consequence to the affected data subject will not
 
 materialize.
 
-> 15 Emphasis supplied. NPC BN: 20 -149
+> 15 Emphasis supplied. NPC BN: 20149
 > Page 6of 7
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 Lastly, the assertion of the PIC that the notification may only result
 
@@ -420,7 +414,7 @@ justification is not sufficient.
 
 In vie w of the foregoing, the PIC cannot therefore rely on Section
 
-19 of NPC Circular 16 -03 to be exempted from notifying the data
+19 of NPC Circular 1603 to be exempted from notifying the data
 
 subject on the data breach incident. It is worth noting that under
 
@@ -454,7 +448,7 @@ The National Privacy Commission is ORDERED to notify the
 
 affected data subject of the breach incident in accordance with the
 
-provisions of NPC Circular 16 -03 and to SUBMIT proof of
+provisions of NPC Circular 1603 and to SUBMIT proof of
 
 compliance thereto within fifteen ( 15 ) days of receipt of this
 
@@ -464,10 +458,7 @@ SO ORDERED.
 
 Pasay City, Philippines ;
 
-20 August 20 20 .NPC BN: 20 -149
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
+20 August 20 20 .NPC BN: 20149
 
 (sgd)
 

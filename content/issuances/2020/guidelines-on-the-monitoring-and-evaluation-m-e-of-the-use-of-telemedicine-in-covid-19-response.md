@@ -1,16 +1,18 @@
 ---
 title: "Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response (Memorandum Circular No. 2020-0003)"
-description: "TO : ALL UNDERSECRETARIES, ASSISTANT SECRETARIES, DIRECTORS OF BUREAUS, REGIONAL OFFICES AND SERVICES; EXECUTIVE DIRECTORS OF SPECIALTY HOSPITALS, AND NATIONAL NUTRITION COUNCIL; CHIEFS OF MEDICAL CENTERS, HOSPITALS, SANITARIA AND__ INSTITUTES; PRESIDENT OF THE PHILIPPINE..."
 aliases:
-  - "Memorandum Circular No. 2020-0003"
-  - "guidelines on the monitoring and evaluation (m&e) of the use of telemedicine in covid-19 response"
-  - "memorandum circular no. 2020-0003"
-  - "npc memorandum circular no. 2020-0003"
+- Memorandum Circular No. 2020-0003
+- memorandum circular no. 2020-0003
+- Telemedicine M&E Guidelines
+- telemedicine m&e guidelines
+- NPC Memorandum Circular No. 2020-0003
+- npc memorandum circular no. 2020-0003
 tags:
-  - "issuance"
-  - "type/memorandum-circular"
-  - "year/2020"
+- issuance
+- type/memorandum-circular
+- year/2020
 draft: false
+date: '2020-04-14'
 ---
 
 ## Issuance Text

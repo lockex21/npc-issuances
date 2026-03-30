@@ -1,10 +1,10 @@
 ---
-title: "NPC Advisory Opinion No. 2018-076"
-description: "'''''''''''''''' ''''''''''''''''''''' ''''' '''''''''''''''''''''' '''''''''''' ''''''''''''''''''''''' '''''''''''''' ''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''''' ' ''''''''''''''''''''''' ''''''''' '''''''''' '''''''''' ''''''''..."
+title: "NPC Advisory Opinion No. 2018-076 — Submission of Personal Data of Seafarers to the Maritime Industry Authority"
+description: "Advisory opinion on whether a manning agency may submit seafarer personal data to MARINA for oversight and supervision functions."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2018"
+  - issuance
+  - type/advisory-opinion
+  - year/2018
 draft: false
 ---
 
@@ -12,25 +12,16 @@ draft: false
 - Reference: Advisory Opinion No. 2018-076
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/AONo_2018-076.pdf
 - Issue date: 11/26/2018
-- Tags: Personal data of seafarers; maritime industry; individual personal information
+- Tags: Personal data of seafarers; Maritime Industry Authority (MARINA); public authority; individual personal information
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                      ADVISORY OPINION NO. 2018-076
 
-  26 November 2018
+26 November 2018
 
-  '''''''''''''''' ''''''''''''''''''''' ''''' ''''''''''''''''''''''
-  '''''''''''' ''''''''''''''''''''''' ''''''''''''''
-  ''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''''' ' ''''''''''''''''''''''' '''''''''
-  '''''''''' '''''''''' '''''''' ''''''''' ''''''''''''''''''' '''''''''''''''''''''' '''''''' '''''''''''''''''''' '''''''
-  '''''''''''''''''''' ''''''''''''''''''' '''''''''''''' '''''''''' ''''''''''''' ''''''''''''''''''''''''''''
+Re: SUBMISSION OF PERSONAL DATA OF SEAFARERS TO THE MARITIME INDUSTRY AUTHORITY
 
-               Re:       SUBMISSION OF PERSONAL DATA OF SEAFARERS TO THE
-                         MARITIME INDUSTRY AUTHORITY
-
-Dear '''''''''''''''' ''''''''''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your request for advisory opinion on whether your company, the
 Manila Shipmanagement & Manning, Inc. (Manship) may grant the request of the Maritime
@@ -40,13 +31,14 @@ Section 4 (e) of the DPA, as “information necessary in order to carry out its 
 mandated functions,” and in light of Section 4.15, Rule I of the Implementing Rules and
 Regulations (IRR) of Executive Order No. 75, series of 20122 (E.O. No. 75).
 
+### Discussion
+
 We understand that Manship is a manning agency duly licensed by the Philippine Overseas
 Employment Administration (POEA) to engage in the recruitment and placement of qualified
 Filipino seafarers for vessels plying international waters and for related maritime activities.
 On the other hand, pursuant to E.O. No. 75 (2012)3 as well as Republic Act (R.A.) No. 10635,4
 the MARINA is the authority responsible for the oversight and supervision of maritime
 education, training, and certification of seafarers in accordance with the International
-
 
 1 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
@@ -71,14 +63,14 @@ Watchkeeping for Seafarers, as Amended, and International Agreements or Covenant
 Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW).
 In particular, Section 4(a) and (b) of RA No. 10635 provides:
 
-             Section 4. Powers and Functions of the MARINA.—In addition to the mandate of the
+   Section 4. Powers and Functions of the MARINA.—In addition to the mandate of the
              MARINA under Presidential Decree No. 474, as amended, and in order to carry out the
              provisions of this Act, the MARINA shall exercise the following powers and functions:
 
-                (a) Act as the single and central maritime administration for all purposes relating to
+   (a) Act as the single and central maritime administration for all purposes relating to
                 compliance with the STCW Convention.
 
-                (b) Administer and ensure the effective implementation of the STCW Convention;
+   (b) Administer and ensure the effective implementation of the STCW Convention;
                 including all international conventions or agreements implementing or applying the
                 same, as well as international maritime safety conventions or agreements that it seeks
                 to promote compliance with.
@@ -86,7 +78,7 @@ In particular, Section 4(a) and (b) of RA No. 10635 provides:
 In its letter dated 21 May 2018, the MARINA requested all manning agencies for certain
 information on seafarers who were awarded disability compensation, specifically:
 
-        a.    Names;
+   a.    Names;
         b.    Ranks;
         c.    Illnesses or injuries from which the disability claims arose;
         d.    Dates the cases for disability claims were filed; and
@@ -108,16 +100,16 @@ information that are considered as special cases excluded from its scope and app
 We affirm that the requested information by MARINA falls under Section 4 of the DPA, as
 expounded in Section 5 of its IRR, in particular, paragraph (d) which states:
 
-             Section 5. Special Cases. The Act and these Rules shall not apply to the following
+   Section 5. Special Cases. The Act and these Rules shall not apply to the following
              specified information, only to the minimum extent of collection, access, use, disclosure
              or other processing necessary to the purpose, function, or activity concerned:
 
 5 Data Privacy Act of 2012, § 4.
 6 Id.
 
-                                               xxx         xxx       xxx
+   xxx         xxx       xxx
 
-            d. Information necessary in order to carry out the functions of public authority, in
+   d. Information necessary in order to carry out the functions of public authority, in
                accordance with a constitutionally or statutorily mandated function pertaining
                to law enforcement or regulatory function, including the performance of the
                functions of the independent, central monetary authority, subject to restrictions
@@ -127,9 +119,9 @@ expounded in Section 5 of its IRR, in particular, paragraph (d) which states:
                Act; and Republic Act No. 9510, otherwise known as the Credit Information
                System Act (CISA);
 
-                                               xxx         xxx       xxx
+   xxx         xxx       xxx
 
-       Provided, that the non-applicability of the Act or these Rules do not extend to personal
+   Provided, that the non-applicability of the Act or these Rules do not extend to personal
        information controllers or personal information processors, who remain subject to the
        requirements of implementing security measures for personal data protection: Provided
        further, that the processing of the information provided in the preceding paragraphs shall
@@ -156,21 +148,20 @@ Watchkeeping for Seafarers (the STCW Convention)8 (the Manila Amendments) decree
 requirements of this regulation.” Furthermore, paragraphs 1 and 2 of Regulation I/5 therein
 states:
 
-
 7 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 4 (2016).
 8 International Maritime Organization, & International Conference on Training and Certification of Seafarers. STCW 1978:
 
 International Convention on Standards of Training, Certification, and Watchkeeping for Seafarers, 1978 : with resolutions
 adopted by the International Conference on Training and Certification of Seafarers, 1978.
 
-        Each Party shall establish processes and procedures for the impartial investigation of any
+   Each Party shall establish processes and procedures for the impartial investigation of any
         reported incompetency, act, omission or compromise to security that may pose a direct
         threat to safety of life or property at sea or to the marine environment by the holders of
         certificates or endorsements issued by that Party in connection with their performance
         of duties related to their certificates and for the withdrawal, suspension and
         cancellation of such certificates for such cause and for the prevention of fraud.
 
-        Each Party shall take and enforce appropriate measures to prevent fraud and other
+   Each Party shall take and enforce appropriate measures to prevent fraud and other
         unlawful practices involving certificates and endorsements issued. (Emphasis
         supplied)
 
@@ -238,16 +229,16 @@ and any other legally mandated functions.
 In relation to this, one of the conditions for certification is medical fitness of a seafarer. Section
 4(c)(5) of R.A. No. 10635 states that:
 
-       (5) The MARINA shall coordinate with the DOH to ensure that the medical standards
+   (5) The MARINA shall coordinate with the DOH to ensure that the medical standards
        established to ascertain the medical fitness of seafarers are in accordance with the
        international conventions/treaties and existing laws. For this purpose, the MARINA shall:
 
-           (i) Ensure that the medical examinations and issuance of medical certificates by the
+   (i) Ensure that the medical examinations and issuance of medical certificates by the
            DOH accredited hospitals, medical clinics, and laboratories, including medical
            practitioners are in accordance with the standards prescribed by the STCW
            Convention; and
 
-           (ii) Ensure that medical certificates are issued by a duly-qualified medical practitioner
+   (ii) Ensure that medical certificates are issued by a duly-qualified medical practitioner
            recognized by and accredited with the DOH, and for this purpose, a register of
            recognized medical practitioners shall be maintained and made available to seafarers,
            shipping companies and State parties to the STCW Convention.11
@@ -255,14 +246,13 @@ In relation to this, one of the conditions for certification is medical fitness 
 Furthermore, the International Labour Organization and International Maritime Organization
 developed a guideline aimed at providing maritime administrations with an internationally
 
-
 11 R.A. No. 10635, § 4(c)(5)
 
 recognized set of criteria for use by competent authorities either directly or as the basis for
 framing national medical examination standards that will be compatible with international
 requirements.12 According to part IV of the guidelines:
 
-       The medical certificate is neither a certificate of general health nor a certification of the
+   The medical certificate is neither a certificate of general health nor a certification of the
        absence of illness. It is a confirmation that the seafarer is expected to be able to meet the
        minimum requirements for performing the routine and emergency duties specific to their
        post at sea safely and effectively during the period of validity of the medical certificate.
@@ -288,7 +278,7 @@ We take time to emphasize that the right to privacy of seafarers in terms of the
 examinations is also recognized under part VII of the Guidelines developed by the
 International Labour Organization and International Maritime Organization, which states:
 
-       VII. Right to privacy
+   VII. Right to privacy
        All persons involved in the conduct of medical examinations, including those who come
        into contact with medical examination forms, laboratory results and other medical
        information, should ensure the right to privacy of the examinee. Medical examination
@@ -299,15 +289,12 @@ International Labour Organization and International Maritime Organization, which
        seafarer. Personal medical information should not be included on medical certificates
        or other documents made available to others following the medical examination. The
 
-
-
-
 12 International Labour Organization and International Maritime Organization. (2013). Guidelines on the medical
 
 examinations of seafarers, p.7 (available at: https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---
 13 Id., p.9.
 
-       seafarer should have the right of access to and receipt of a copy of his/her personal
+   seafarer should have the right of access to and receipt of a copy of his/her personal
        medical data.14 (Emphasis Supplied)
 
 Taking into account the discussions, only adjudicated cases where an award for personal
@@ -325,22 +312,14 @@ information may change the context of the inquiry and the appreciation of the fa
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-
 Noted by:
-
-
 
 (Sgd.) IVY D. PATDU
 Deputy Privacy Commissioner
 Officer-In-Charge
-
-
-
 
 14 International Labour Organization and International Maritime Organization. (2013). Guidelines on the medical
 

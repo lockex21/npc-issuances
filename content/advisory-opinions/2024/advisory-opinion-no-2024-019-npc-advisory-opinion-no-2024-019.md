@@ -1,6 +1,6 @@
 ---
-title: "NPC Advisory Opinion No. 2024 - 019"
-description: "Re: INSPECTION OF CORPORATE RECORDS BY THE U.S. SECURITIES AND EXCHANGE COMMISSION VIS-À-VIS THE DATA PRIVACY ACT OF 2012"
+title: "NPC Advisory Opinion No. 2024-019 — Inspection of Corporate Records by the U.S. Securities and Exchange Commission"
+description: "Advisory opinion on whether corporate records processed by a Philippine business process outsourcing company are exempted from the Data Privacy Act and whether the U.S. Securities and Exchange Commission may access such records."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,22 +11,16 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2024-019
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2025/01/NPC-Advisory-Opinion-No.-2024-019.pdf
+- Issue date: 12/26/2024
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                               ADVISORY OPINION NO. 2024-0191
+
 26 December 2024
 
+Re: INSPECTION OF CORPORATE RECORDS BY THE U.S. SECURITIES AND EXCHANGE COMMISSION VIS-À-VIS THE DATA PRIVACY ACT OF 2012
 
-
-
-          Re: INSPECTION OF CORPORATE RECORDS BY THE U.S.
-              SECURITIES AND EXCHANGE COMMISSION VIS-À-VIS THE
-              DATA PRIVACY ACT OF 2012
-
-
-Dear                                                 , et. al:
+Dear [Redacted], et. al:
 
 We respond to your request for an Advisory Opinion on whether the records processed by
 your client,                             (Company), are exempted from the application of
@@ -80,47 +74,48 @@ and to submit to onsite inspection and examination by the U.S. SEC once register
 
 From the foregoing, this Advisory Opinion seeks to address issues:
 
-    1. Whether the U.S. SEC may be granted access to records processed by the Company in
+   1. Whether the U.S. SEC may be granted access to records processed by the Company in
        light of Section 4 of the DPA, particularly on the extraterritorial application of the DPA;
        and
 
-    2. Whether the DPA poses any impediment to the U.S. SEC’s authority to examine and
+   2. Whether the DPA poses any impediment to the U.S. SEC’s authority to examine and
        access the Company’s records. This considers the balance between the DPA’s
        provisions on data protection and the U.S. SEC’s mandate as a regulatory agency to
        conduct examinations and investigations involving personal data.
 
-Scope of the DPA; special cases;
-foreign jurisdiction.
+### Discussion
+
+#### Scope of the DPA; Special Cases; Foreign Jurisdiction
 
 The DPA and its Implementing Rules and Regulations (IRR) exclude from its scope the
 personal and sensitive personal information of foreigners originally collected in foreign
 jurisdictions and subsequently processed in the Philippines. Section 4(g) of the DPA explicitly
 states:
 
-        Section 4. Scope – […] This act does not apply to the following:
+   Section 4. Scope – […] This act does not apply to the following:
 
-                                                xxx
+   xxx
 
-        (g) Personal information originally collected from residents of foreign jurisdictions
+   (g) Personal information originally collected from residents of foreign jurisdictions
         in accordance with the laws of those foreign jurisdictions, including any applicable
         data privacy laws, which is being processed in the Philippines.
 
 Similarly, the IRR provides a parallel provision in Section 5(f):
 
-        Section 5. Special Cases – The Act and these Rules shall not apply to the following
+   Section 5. Special Cases – The Act and these Rules shall not apply to the following
 
-         specified information, only to the minimum extent of collection, access, use,
+   specified information, only to the minimum extent of collection, access, use,
          disclosure, or other processing necessary to the purpose, function, or activity
          concerned:
 
-         f. Personal information originally collected from residents of foreign jurisdictions
+   f. Personal information originally collected from residents of foreign jurisdictions
          in accordance with the laws of those foreign jurisdictions, including any applicable
          data privacy laws, which is being processed in the Philippines. The burden of
          proving the law of the foreign jurisdiction falls on the person or body seeking
          exemption. In the absence of proof, the applicable law shall be presumed to be the
          Act and these Rules:
 
-         Provided, that the non-applicability of the Act or these Rules do not extend to
+   Provided, that the non-applicability of the Act or these Rules do not extend to
          personal information controllers or personal information processors, who remain
          subject to the requirements of implementing security measures for personal data
          protection: Provided further, that the processing of the information provided in
@@ -174,8 +169,7 @@ Company’s records and conduct inspections. However, such access is subject to 
 Company’s strict adherence to the DPA’s principles of transparency, legitimate purpose,
 proportionality, and accountability.
 
-Principle of Comity and Reciprocity; request
-for letter of assurance; lawful processing.
+#### Principle of Comity and Reciprocity; Request for Letter of Assurance; Lawful Processing
 
 While Philippine corporations are primarily governed by local laws, their participation in
 international markets often necessitates compliance with additional regulatory requirements
@@ -207,7 +201,6 @@ examination of books and records containing personal data processed by the Compa
 In sum, the NPC will recognize the U.S. SEC’s inspection of the Company’s records as
 constituting lawful processing under the DPA, provided that the data privacy principles of
 
-
 7 Sison v. The Board of Accountancy and Ferguzon, G.R. No. L-2529, December 31, 1949.
 8 Sison, G.R. No. L-2529, Id.
 
@@ -218,12 +211,9 @@ you have provided. Any extraneous fact that may be subsequently furnished us may
 our present position. Please note further that our Advisory Opinion is not intended to
 adjudicate the rights and obligations of the parties involved.
 
-
 For your reference.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV

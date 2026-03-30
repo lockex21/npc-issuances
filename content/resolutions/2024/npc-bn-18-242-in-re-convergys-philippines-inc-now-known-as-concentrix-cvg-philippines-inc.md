@@ -1,27 +1,22 @@
 ---
-title: "NPC BN 18-242: In Re: Convergys Philippines, INc. (Now Known as Concentrix CVG Philippines, Inc.)"
-description: "NPC BN 18-242: In Re: Convergys Philippines, INc. (Now Known as Concentrix CVG Philippines, Inc.)"
+title: "NPC BN 18-242: Resolution"
+description: "Resolution addressing the Compliance submitted by Convergys"
+aliases:
+  - "NPC BN 18-242"
+  - "npc bn 18-242"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2024"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2024
+  - npc-case
+date: "2024-01-01"
 draft: false
 ---
 
-## Source
-- Reference: NPC BN 18-242
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/10/NPC-BN-18-242-03.21.2024-In-re-Convergys-Philippines-Inc._Resolution-1-1.pdf
-- Source page: http://privacy.gov.ph/resolutions/
-- Issue date: March 21, 2024
-- Published on NPC site: Wed, 08 Oct 2025 00:30:40 GMT
-- Pages: 9
+## Source-Reference: NPC BN 18-242-Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/10/NPC-BN-18-242-03.21.2024-In-re-Convergys-Philippines-Inc._Resolution-1-1.pdf-Source page: http://privacy.gov.ph/resolutions/
+- Issue date: March 21, 2024-Published on NPC site: Wed, 08 Oct 2025 00:30:40 GMT-Pages: 9
 
-## Source Tags
-- Sec 11. When Notification is required
-- Sec 3. Definition of Terms
-- Sec 18. Notification of Data Subjects
-- Sec 18(c). Content of Notification
+## Source Tags-Sec 11. When Notification is required-Sec 3. Definition of Terms-Sec 18. Notification of Data Subjects-Sec 18(c). Content of Notification
 
 ## Resolution Text
 IN RE: CONVERGYS PHILIPPINES, INC.
@@ -40,8 +35,7 @@ Before the Commission is the Compliance submitted by Convergys
 
 Philippines, Inc. (Convergys) dated 26 March 2021.
 
-Facts
-
+### Facts
 On 28 December 2018, Convergys notified the National Privacy
 
 Commission (NPC) through a letter regarding a breach incident
@@ -68,13 +62,7 @@ company which serves as an attendance tool to which other operations
 
 supervisors and managers have access. 4
 
-> 1Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
 > Philippines, Inc. (now known as Concentrix CVG Philippines, Inc) .
-> 2Id.
-> 3Id.
-> 4Id.
-
-NPC BN 18 -242 NPC BN 18 -242
 
 In re: Convergys Philippines, Inc.
 
@@ -132,21 +120,9 @@ also issue reminders to its supervisors and managers “with regard to
 
 handling medical information of the employees of the Company .”14
 
-> 5Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
 > Philippines, Inc. (now known as Concentrix CVG Philippines, Inc) .
-> 6Id.
-> 7Id.
-> 8Id.
-> 9Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
 > Philippines, Inc. (now known as Concentrix CVG Philippines, Inc) .
-> 10 Id.
-> 11 Id.
-> 12 Id.
-> 13 Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
 > Philippines, Inc. (now known as Concentrix CVG Philippines, Inc) .
-> 14 Id.
-
-NPC BN 18 -242
 
 In re: Convergys Philippines, Inc.
 
@@ -204,21 +180,8 @@ Accordingly, MA D was notified regarding the incident through
 
 email .23  A proof and copy of the data subject notification was attached
 
-> 15 Order dated 11 March 2021 .
-> 16 Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
-> 18 -240 (In re: Convergys Philippines Inc. Convergys Philippines, Inc.) from Convergys Philippines,
 > Inc. (now known as Concentrix CVG Philippines, Inc) .
-> 17 Id.
-> 18 Id.
-> 19 Id.
-> 20 Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
-> 18 -240 (In re: Convergys Philippines Inc. Convergys Philippines, Inc.) from Convergys Philippines,
 > Inc. (now known as Concentrix CVG Philippines, Inc).
-> 21 Id.
-> 22 Id.
-> 23 Id.
-
-NPC BN 18 -242
 
 In re: Convergys Philippines, Inc.
 
@@ -248,16 +211,14 @@ Convergys further asserted that “ MA D expressed no subsequent
 
 concerns on the matter .”29
 
-Issue
-
+### Issue
 Whether or not Convergys has sufficiently addressed the breach
 
 incident pursuant to NPC Circular 16 -03 (Personal Data Breach
 
 Management) .
 
-Discussion
-
+### Discussion
 The Commission holds that Convergys has sufficiently addressed the
 
 breach incident pursuant to NPC Circular 16 -03 (Personal Data Breach
@@ -274,18 +235,8 @@ the affected data subject and implemented measures to prevent the
 
 recurrence of the incident.
 
-> 24 Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
-> 18 -240 (In re: Convergys Philippines Inc. Convergys Philippines, Inc.) from Convergys Philippines,
 > Inc. (now known as Concentrix CVG Philippines, Inc) .
-> 25 Id.
-> 26 Id.
-> 27 Id.
-> 28 Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
-> 18 -240 (In re: Convergys Philippines Inc. Convergys Philippines, Inc.) from Convergys Philippines,
 > Inc. (now known as Concentrix CVG Philippines, Inc) .
-> 29 Id.
-
-NPC BN 18 -242
 
 In re: Convergys Philippines, Inc.
 
@@ -361,7 +312,6 @@ of a person, or to any proceeding for any offense committed or
 
 alleged to have been committed by such person, the disposal of
 
-> 30 National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -03, Rule V,
 > §11 (15 December 2016) (NPC Circular 16 -03). NPC BN 18 -242
 > In re: Convergys Philippines, Inc.
 > (n ow known as Concen trix C VG Philippines, I NC .)
@@ -438,9 +388,6 @@ be limited to:
 
 2. personal data possibly involved;
 
-> 31 NPC Circular 16 -03 , r ule I, § 3(L) .
-
-NPC BN 18 -242
 
 In re: Convergys Philippines, Inc.
 
@@ -526,9 +473,6 @@ privacy team through this email or at the email address of our
 
 Data Protection Officer at XXX
 
-> 32 NPC Circular 16 -03 , r ule V, §18 (C) .
-
-NPC BN 18 -242
 
 In re: Convergys Philippines, Inc.
 
@@ -572,32 +516,23 @@ Data Breach Management) . Consequently, the Commission deems it
 
 proper to close and terminate the case.
 
-WHEREFORE , premises considered, this Commission resolves that
+**WHEREFORE** , premises considered, this Commission resolves that
 
 the matter of NPC BN 18 -142 “In re: Convergys Philippines, Inc. (now
 
 known as Concentrix CVG Philippines, Inc.)” is hereby considered
 
-CLOSED .
+**CLOSED** .
 
-SO ORDERED.
+**SO ORDERED**.
 
 City of Pasay, Philippines.
 
 21 March 202 4.
 
-> 33 Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
-> 18 -240 (In re: Convergys Philippines Inc. Convergys Philippines, Inc.) from Convergys Philippines,
 > Inc. (now known as Concentrix CVG Philippines, Inc).
-> 34 Id.
-> 35 Id.
-> 36 Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
 > Philippines, Inc. (now known as Concentrix CVG Philippines, Inc) .
-> 37 Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
-> 18 -240 (In re: Convergys Philippines Inc. Convergys Philippines, Inc.) from Convergys Philippines,
 > Inc. (now known as Concentrix CVG Philippines, Inc) .
-
-NPC BN 18 -242
 
 In re: Convergys Philippines, Inc.
 
@@ -638,3 +573,78 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+[^1]: Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
+[^2]: Id.
+[^3]: Id.
+[^4]: Id.
+[^5]: Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
+[^6]: Id.
+[^7]: Id.
+[^8]: Id.
+[^9]: Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
+[^10]: Id.
+[^11]: Id.
+[^12]: Id.
+[^13]: Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
+[^14]: Id.
+[^15]: Order dated 11 March 2021 .
+[^16]: Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
+[^17]: Id.
+[^18]: -240 (In re: Convergys Philippines Inc. Convergys Philippines, Inc.) from Convergys Philippines,
+[^19]: Id.
+[^20]: Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
+[^21]: Id.
+[^22]: Id.
+[^23]: Id.
+[^24]: Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
+[^25]: Id.
+[^26]: Id.
+[^27]: Id.
+[^28]: Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
+[^29]: Id.
+[^30]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -03, Rule V,
+[^31]: NPC Circular 16 -03 , r ule I, § 3(L) .
+[^32]: NPC Circular 16 -03 , r ule V, §18 (C) .
+[^33]: Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
+[^34]: Id.
+[^35]: Id.
+[^36]: Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
+[^37]: Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
+[^1]: Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
+[^2]: Id.
+[^3]: Id.
+[^4]: Id.
+[^5]: Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
+[^6]: Id.
+[^7]: Id.
+[^8]: Id.
+[^9]: Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
+[^10]: Id.
+[^11]: Id.
+[^12]: Id.
+[^13]: Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
+[^14]: Id.
+[^15]: Order dated 11 March 2021 .
+[^16]: Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
+[^17]: Id.
+[^18]: -240 (In re: Convergys Philippines Inc. Convergys Philippines, Inc.) from Convergys Philippines,
+[^19]: Id.
+[^20]: Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
+[^21]: Id.
+[^22]: Id.
+[^23]: Id.
+[^24]: Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
+[^25]: Id.
+[^26]: Id.
+[^27]: Id.
+[^28]: Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
+[^29]: Id.
+[^30]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16 -03, Rule V,
+[^31]: NPC Circular 16 -03 , r ule I, § 3(L) .
+[^32]: NPC Circular 16 -03 , r ule V, §18 (C) .
+[^33]: Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
+[^34]: Id.
+[^35]: Id.
+[^36]: Letter dated 28 December 2018 “Data Breach dated December 27, 2018” from Convergys
+[^37]: Compliance dated 26 March 2021 “Compliance with Order dated 11 March 2021 in NPCBN No.
+

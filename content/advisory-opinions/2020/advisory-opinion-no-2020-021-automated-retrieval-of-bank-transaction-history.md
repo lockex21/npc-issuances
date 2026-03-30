@@ -1,13 +1,12 @@
 ---
-title: "Advisory Opinion No. 2020-021 — Automated Retrieval of Bank Transaction History"
-description: "'''' ''''''''''''''' ''''''''' ''''''''''''''''' '''''' '''''''' ''''' ''''''' ''''''''''''' '''''''' '''''''''' ''''''''' '''''''''''''''''' ''''''''''' '''''''''''' ''''''''''' ''''''"
+title: "NPC Advisory Opinion No. 2020-021 — Automated Retrieval of Bank Transaction History"
+description: "ING Bank's automated retrieval system for bank transaction history relates to data subject rights under the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
 draft: false
 ---
-
 ## Source
 - Reference: Advisory Opinion No. 2020-021
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-021.pdf
@@ -17,23 +16,11 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                       ADVISORY OPINION NO. 2020-0211
 
- 29 May 2020
-
- '''' '''''''''''''''
- '''''''''
- ''''''''''''''''' '''''' ''''''''
- ''''' ''''''' ''''''''''''' '''''''' '''''''''' '''''''''
- '''''''''''''''''' '''''''''''
- '''''''''''' ''''''''''' ''''''
-
-             RE:       AUTOMATED RETRIEVAL OF BANK TRANSACTION
+Re:       AUTOMATED RETRIEVAL OF BANK TRANSACTION
                        HISTORY
 
-
-Dear '''''''''''''' ''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to clarify issues on the rights of data subjects and
@@ -59,7 +46,7 @@ retrieve their transaction history (e.g. date, description of transaction, debit
 and account balance) from other online banking accounts and facilitate immediate submission
 of the same to ING.
 
-1 Tags: personal information; lawful criteria for processing; consent; automated retrieval; bank transaction history; loan
+### Discussion
 
 application; right to access; right to data portability; right to be informed; security measures.
 
@@ -109,13 +96,12 @@ access; right to data portability
 The rights of a data subject pertaining to access and portability correspond with each other.
 The right to access allows a data subject reasonable access to, upon demand, the following:
 
-
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
 
 2012], Republic Act No. 10173, § 3 (g) (2012).
 3 Id. § 3 (j).
 
-     1. Contents of his or her personal information that were processed;
+   1. Contents of his or her personal information that were processed;
      2. Sources from which personal information were obtained;
      3. Names and addresses of recipients of the personal information;
      4. Manner by which such data were processed;
@@ -249,12 +235,7 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
-
-
-
 
 10 Data Privacy Act of 2012, § 20.

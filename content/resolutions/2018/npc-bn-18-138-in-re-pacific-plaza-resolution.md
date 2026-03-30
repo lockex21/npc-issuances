@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-138: In Re: Pacific Plaza Resolution"
-description: "NPC BN 18-138: In Re: Pacific Plaza Resolution"
+title: 'NPC BN 18-138: In Re: Pacific Plaza Resolution'
+description: Breach notification resolution on Pacific Plaza data security incident
+  notification.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2021
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-138"'
+- '"npc bn 18-138"'
+- '"In Re: Pacific Plaza Resolution"'
+- '"in re: pacific plaza resolution"'
+date: '2021-09-21'
 ---
 
 ## Source

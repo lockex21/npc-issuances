@@ -1,13 +1,22 @@
 ---
-title: "NPC 16-004: CBP v. Orani Water District"
-description: "NPC 16-004: CBP v. Orani Water District"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+aliases:
+- NPC 16-004
+- npc 16-004
+- CBP v. Orani Water District
+- cbp v. orani water district
+date: '2022-01-27'
+description: Resolution finding Orani Water District in compliance with the Commission's
+  directives on Privacy Manual, Notices, and employee data privacy orientation training.
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC 16-004: CBP v. Orani Water District'
 ---
+
+
 
 ## Source
 - Reference: NPC 16-004
@@ -21,13 +30,11 @@ draft: false
 - Personal Information Controller, NPC Mandate, Consent, Legitimate Purpose, Notification of Data Subjects
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-CBP ,
+CBP,
 
 Complainant,
 
--versus -
+-versus-
 
 ORANI WATER DISTRICT
 
@@ -37,17 +44,17 @@ Respondents.
 
 x-------------------------------------------x
 
-AGUIRRE , D.P.C.;
+AGUIRRE, D.P.C.;
 
 This Commission resolves the sufficiency of Orani Water District’s
 
-(OWD) Privacy Manual and Notices , and proof of participation in a
+(OWD) Privacy Manual and Notices, and proof of participation in a
 
 data privacy orientation of its employees, as directed in the Decision
 
 dated 15 December 2017.
 
-Facts
+### Facts
 
 On 15 December 2017, the Commission issued a Decision requiring
 
@@ -55,7 +62,7 @@ OWD to submit its Privacy Manual and Notices, and proof of
 
 participation in any orientation on the Data Privacy Act of 2012 (DPA):
 
-WHEREFORE , premises considered, CDBJ and SRM , [officers of
+WHEREFORE, premises considered, CDBJ and SRM, [officers of
 
 Orani Water District] are STERNLY WARNED that repetition of
 
@@ -72,60 +79,6 @@ privacy notice and existing privacy policies pertaining to their
 employees within fifteen (15) days from receipt of this Decision;
 
 and
-
-NPC 16 -004
-
-For: Violation
-
-of the Data
-
-Privacy Act of
-
-2012 NPC 16 -004
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-2. To submit to the National Privacy Commission proof of their
-
-attendance or participation in any orientation on the Data
-
-Privacy Act or similar events within (60) days from receipt of the
-
-Decision.
-
-SO ORDERED. 1
-
-On 19 November 202 0, the Commission issued an Order noting
-
-OWD’s non -compliance with the Decision dated 15 December 2017 ,
-
-despite the passage of three years. 2 Giving OWD a final opportunity to
-
-comply with the Commission’s directives, the Commission ordered
-
-OWD to submit its Privacy Manual and Notices within thirty (30) days
-
-from its receipt of the Order :
-
-WHEREFORE , premises considered, OWD is hereby ordered to
-
-SUBMIT the final draft of its Privacy Manual and Notices within
-
-thirty (30) days from receipt of this Order.
-
-SO ORDERED. 3
-
-On 05 March 2021, OWD submitted its Privacy Manual and Notice s.4
-
-On 20 April 2021, the EnD informed OWD of the issues it identified in
-
-the submitted Privacy Manual and Notices :
-
-In OWD’s Privacy Manual’s provision for Security Measu res IMB
-
-was identified as the Personal Information Controller. However,
-
-under the R.A. 10173 or the Data Privacy Act of 2012 (DPA), a
 
 Personal Information Controller is clearly defined as:
 
@@ -147,15 +100,11 @@ instructed by another person or organization; and
 
 (2) An individual who collects, holds, processes or uses personal
 
-> 1Decision, 15 December 2017, at 7, in CBP v. Orani Water District , NPC 16 -004 (NPC 20 17).
+> 1Decision, 15 December 2017, at 7, in CBP v. Orani Water District, NPC 16 -004 (NPC 20 17).
 > 2Order, 19 November 2020, in CBP v. Orani Water District, NPC 16 -004 (NPC 2020).
 > 3Id. at 6.
-> 4Final Draft of OWD Privacy Manual and Notices, 05 March 2021, in CBP v. Orani Water District , NPC 16 -004 (NPC
+> 4Final Draft of OWD Privacy Manual and Notices, 05 March 2021, in CBP v. Orani Water District, NPC 16 -004 (NPC
 > 2021).
-
-NPC 16 -004
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 information in connection with the individual’s personal, family
 
@@ -235,12 +184,8 @@ of verification and validation of the contents of employees’ PDS, and a
 
 detailed and concrete Security Incident Management Policy according
 
-> 5Compliance with Decision dated 15 December 2017 “ CBP v. CDBJ , et al.”, 20 April 2021, at 1 -3, in CBP v. Orani Water
-> District , NPC 16 -004 (NPC 2021).
-
-NPC 16 -004
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+> 5Compliance with Decision dated 15 December 2017 “ CBP v. CDBJ, et al.”, 20 April 2021, at 1 -3, in CBP v. Orani Water
+> District, NPC 16 -004 (NPC 2021).
 
 to the DPA and Section 4 of NPC Circular No. 16 -03 (Personal Data
 
@@ -248,7 +193,7 @@ Breach Management) .6
 
 On 19 May 2021, OWD complied with the EnD’s directive and
 
-submitted its revised Privacy Manual and Notices , which includes its
+submitted its revised Privacy Manual and Notices, which includes its
 
 Security Incident Management Policy, for the Commission’s perusal .7
 
@@ -258,7 +203,7 @@ inconsistencies between the Privacy Manual and Notices and the DPA,
 
 its Implementing Rules and Regulations, and the Commission’s
 
-relevant issuances. 8 It instructed OWD to revis e the following:
+relevant issuances. 8 It instructed OWD to revise the following:
 
 1.  Functions of the Personal Information Controller (PIC), Data
 
@@ -282,7 +227,7 @@ already designated a DPO and COP within its organization. 9
 
 found under its Manual
 
-An observation of the ‘Retention Records Table ’ vis -à-vis ‘Storage,
+An observation of the ‘Retention Records Table ’ vis-à-vis ‘Storage,
 
 Retention, and Destruction (means of storage, security measures,
 
@@ -309,16 +254,12 @@ in the OWD Manual. 10
 3.  Collection of Data Table
 
 > 6Id. at 3.
-> 7Submission of Revised Draft of OWD Privacy Manual, 19 May 2021, in CBP v. Orani Water District , NPC 16 -004 (NPC
+> 7Submission of Revised Draft of OWD Privacy Manual, 19 May 2021, in CBP v. Orani Water District, NPC 16 -004 (NPC
 > 2021).
-> 8Compliance with Decision dated 15 December 2017 “ CBP v. CDBJ , et al.”, 12 August 2021, in CBP v. Orani Water
-> District , NPC 16 -004 (NPC 2021).
+> 8Compliance with Decision dated 15 December 2017 “ CBP v. CDBJ, et al.”, 12 August 2021, in CBP v. Orani Water
+> District, NPC 16 -004 (NPC 2021).
 > 9Id. at 2.
 > 10 Id. at 3.
-
-NPC 16 -004
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 The Manual on the Use and Purpose of Data Collection referred to
 
@@ -393,12 +334,8 @@ disclosed and the purpose/s for its disclosure. 14
 > 11 Id. at 3 -4.
 > 12 Id. at 4.
 > 13 Id.
-> 14 Compliance with Decision dated 15 December 2017 “ CBP v. CDBJ , et al.”, 12 August 2021, at 4, in CBP v. Orani Water
-> District , NPC 16 -004 (NPC 2021).
-
-NPC 16 -004
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+> 14 Compliance with Decision dated 15 December 2017 “ CBP v. CDBJ, et al.”, 12 August 2021, at 4, in CBP v. Orani Water
+> District, NPC 16 -004 (NPC 2021).
 
 The EnD directed OWD to correct the deficiencies and submit a revised
 
@@ -461,28 +398,24 @@ make it clear that when it refers to a PIC in its Manual, it is
 referring to itself and not to a separate entity or a person. 17
 
 > 15 Id.
-> 16 Letter from EFS , Orani Water District, to Enforcement Division, National Privacy Commission, in CBP v. Orani Water
-> District , NPC 16 -004 (28 August 2021).
-> 17 Compliance with Decision dated 15 December 2017 “ CBP v. CDBJ , et al.”, 15 September 2021, at 1-2, in CBP v. Orani
-> Water District , NPC 16 -004 (NPC 2021).
-
-NPC 16 -004
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
+> 16 Letter from EFS, Orani Water District, to Enforcement Division, National Privacy Commission, in CBP v. Orani Water
+> District, NPC 16 -004 (28 August 2021).
+> 17 Compliance with Decision dated 15 December 2017 “ CBP v. CDBJ, et al.”, 15 September 2021, at 1-2, in CBP v. Orani
+> Water District, NPC 16 -004 (NPC 2021).
 
 2.  The Data Protection Office has no specific e-mail address
 
-intended only for privacy -related complaints and inquiries in its
+intended only for privacy-related complaints and inquiries in its
 
 Privacy Notice
 
 OWD must provide a dedicated e-mail address for proper escalation
 
-and reporting of privacy -specific inquiries, issues, and concerns instead
+and reporting of privacy-specific inquiries, issues, and concerns instead
 
-of giving a general customer service e -mail address where the privacy -
+of giving a general customer service email address where the privacy -
 
-related concerns will be comingled with customer service -related
+related concerns will be comingled with customer service-related
 
 concerns (e.g., billing, account, change request) .18
 
@@ -518,7 +451,7 @@ employees by submitting a training request once again to NPC's
 
 PIAD or find alternative means to comply with this directive. 20
 
-On 24 September 2021 , OWD submitted its revised Privacy Manual
+On 24 September 2021, OWD submitted its revised Privacy Manual
 
 and Notices .21
 
@@ -528,25 +461,21 @@ Participation of its employees to the DPO Ace Level 1 Training
 
 Program organized by the National Privacy Commission. 22
 
-Discussion
+### Discussion
 
 > 18 Id. at 2.
 > 19 Id.
 > 20 Id. at 3.
-> 21 Letter from EFS , Orani Water District, to Enforcement Division, National Privacy Commission, 24 September 2021, in
-> CBP v. Orani Water District ,NPC 16 -004 (NPC 2021 ).
-> 22 Letter from EFS , Orani Water District, to Enforcement Division, National Privacy Commission ,10 November 2021, in
-> CBP v. Orani Water District , NPC 16 -004 (NPC 2021 ).
-
-NPC 16 -004
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+> 21 Letter from EFS, Orani Water District, to Enforcement Division, National Privacy Commission, 24 September 2021, in
+> CBP v. Orani Water District,NPC 16 -004 (NPC 2021 ).
+> 22 Letter from EFS, Orani Water District, to Enforcement Division, National Privacy Commission,10 November 2021, in
+> CBP v. Orani Water District, NPC 16 -004 (NPC 2021 ).
 
 The Commission finds that OW D has sufficiently complied with the
 
 Commission’s directives. As reflected in the revised Privacy Manual
 
-and Notices , OWD has fully addressed and corrected the deficiencies
+and Notices, OWD has fully addressed and corrected the deficiencies
 
 to the satisfaction of the Commission. It has also caused the
 
@@ -558,7 +487,7 @@ Ace Level 1 Training Progra m.23
 
 Section 7 of the DPA authorizes the Commission to ensure that
 
-personal information controllers (PIC s) comply with the DPA, its IRR ,
+personal information controllers (PIC s) comply with the DPA, its IRR,
 
 and other issuances of the Commission :
 
@@ -608,10 +537,6 @@ revised its Privacy Manual and Notices to reflect the following:
 > 24 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government
 > and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy
 > Act of 2012], Republic Act No. 10173 § 7 ( a), (d), (f) (2012) .Emphasis supplied.
-
-NPC 16 -004
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 1.  On the functions of the Personal Information Controller (PIC),
 
@@ -683,14 +608,10 @@ Likewise, it is now clearly specified under the ‘Consent Letter
 
 (Concessionaires) ’ portion the kinds of processing
 
-> 25 Final Enforcement Assessment Report, 26 November 2021, at 5, in CBP v. Orani Water District , NPC 16 -004 (NPC 2021).
+> 25 Final Enforcement Assessment Report, 26 November 2021, at 5, in CBP v. Orani Water District, NPC 16 -004 (NPC 2021).
 > 26 Id.
 > 27 Id.
 > 28 Id. at 6.
-
-NPC 16 -004
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 (applications for water service connections, reconnection,
 
@@ -714,7 +635,7 @@ key employees within its organization as proof of conduct of
 
 training fully satisfies the Order of the Commission. 30
 
-Considering the foregoing, the Commission finds that OWD has , to the
+Considering the foregoing, the Commission finds that OWD has, to the
 
 satisfaction of the Commission, rectified its Privacy Manual and
 
@@ -728,9 +649,9 @@ that Orani Water District has sufficiently notified its affected data
 
 subjects and complied with the Decision dated 15 December 2017 . This
 
-Commission hereby considers the matter CLOSED .
+Commission hereby considers the matter **CLOSED** .
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines .
 
@@ -750,10 +671,6 @@ JOHN HENRY D. NAGA
 
 > 29 Id.
 > 30 Id.
-
-NPC 16 -004
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 -1308
 
 Privacy Commissioner
 

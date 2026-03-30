@@ -1,10 +1,10 @@
 ---
-title: "NPC Advisory Opinion No. 2018-090"
-description: "We write in response to your inquiry regarding the use of office-issued mobile devices in relation to the Data Privacy Act of 20122 (DPA). In particular, you are asking whether the access of your employer to your personal iCloud account using an office-..."
+title: "NPC Advisory Opinion No. 2018-090 — Data Privacy and Office-Issued Mobile Devices"
+description: "Advisory opinion regarding data privacy and office-issued mobile devices."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2018"
+  - issuance
+  - type/advisory-opinion
+  - year/2018
 draft: false
 ---
 
@@ -16,24 +16,21 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                     ADVISORY OPINION NO. 2018-0901
+ 2018-090
 
   28 November 2018
 
-  '''''''''''''''''''
-  ''''''''''''''''''''''''''''''''''''''''''''''''''''''
+   Re:       DATA PRIVACY AND OFFICE-ISSUED MOBILE DEVICES
 
-              Re:       DATA PRIVACY AND OFFICE-ISSUED MOBILE DEVICES
-
-
-Dear ''''''''' '''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your inquiry regarding the use of office-issued mobile devices in
 relation to the Data Privacy Act of 20122 (DPA). In particular, you are asking whether the
 access of your employer to your personal iCloud account using an office-issued mobile device
 would be in violation of your rights to data privacy or constitute any of the offenses
 punishable under the DPA.
+
+### Discussion
 
 We understand that you were put under preventive suspension and as a result, your office-
 issued phone and laptop were confiscated. You were advised by your employer to remain
@@ -56,10 +53,6 @@ based on the Civil Code provision which provides that every person shall respect
 personality, privacy, and peace of mind of his neighbors and other persons. It also punishes
 as actionable torts several acts by a person of meddling and prying into the privacy of
 another.4 Likewise, it recognized the privacy of communication and correspondence and
-
-
-1 Tags: Reasonable expectation of privacy; employment; office-issued mobile device; unauthorized processing
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Republic Act No. 10173 (2012).
 3 GR No. 127685, July 23, 1998.
@@ -158,7 +151,7 @@ consent may constitute violation of your privacy. Furthermore, such unauthorized
 may constitute unauthorized processing under the DPA. The elements of the offense are as
 follows:
 
-    1. the accused processed the information of the data subject;
+   1. the accused processed the information of the data subject;
     2. that the information processed was personal information;
     3. that the processing was done without the consent of the data subject, or without
        authority under this Act or any existing law.
@@ -186,15 +179,10 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-
 Noted by:
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman

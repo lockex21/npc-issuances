@@ -1,6 +1,6 @@
 ---
-title: "NPC Advisory Opinion No. 2025-001"
-description: "Re: COMMISSION ON AUDIT’S ACCESS REQUEST TO THE DEPARTMENT OF AGRICULTURE’S DATABASE FOR AUDIT PREPARATION PURPOSES."
+title: "NPC Advisory Opinion No. 2025-001 — Commission on Audit’s Access Request to the Department of Agriculture’s Database"
+description: "On whether the Department of Agriculture may lawfully share personal data of farmers and fisherfolk with the Commission on Audit without a Data Sharing Agreement."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -14,22 +14,18 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                           ADVISORY OPINION NO. 2025-0011
 
  20 March 2025
 
-
-
-
-          Re:    COMMISSION ON AUDIT’S ACCESS REQUEST TO THE
+   Re:    COMMISSION ON AUDIT’S ACCESS REQUEST TO THE
                  DEPARTMENT OF AGRICULTURE’S DATABASE FOR AUDIT
                  PREPARATION PURPOSES.
 
-Dear                   :
-
+Dear [Redacted],
 We respond to your request for an Advisory Opinion on the data privacy concerns relative to
 the sharing of information with the Commission on Audit (COA).
+
+### Discussion
 
 You state in your letter that the COA routinely requests the Department of Agriculture (DA)
 for the personal data of farmers and fisherfolk as part of its audit preparation process. In some
@@ -50,20 +46,14 @@ each farmer.
 The DA granted the request lest it face a disallowance from the COA. Nevertheless, you seek
 guidance on the following:
 
-
-
-
-1 Tags: processing; personal data; mandate; audit function; security measures.
-2 Guidelines implementing COA Resolution No. 2020-034 relative to the Authority of COA Auditors to Access
-
 Information and Communications Systems, Electronic Data Messages and Source Documents of the Audited
 Entities Relevant to the Conduct of Audit.
 
-       1) Whether it is permissible to share the requested documents containing personal data
+   1) Whether it is permissible to share the requested documents containing personal data
           with the Commission on Audit (COA) in the absence of a Data Sharing Agreement
           (DSA).
 
-       2) Whether the principle of proportionality under the Data Privacy Act of 2012 (DPA)3
+   2) Whether the principle of proportionality under the Data Privacy Act of 2012 (DPA)3
           would be violated if the DA provides the COA with access to the database
           containing the personal data of farmers and fisherfolks.
 
@@ -106,8 +96,6 @@ information Security measures;.
 It must be stressed, however, that processing based on Section 4(e) of the DPA is not absolute.
 The IRR of the DPA clarifies that processing, even if pursuant to a legal mandate, must be
 
-
-3 Republic Act No. 10173.
 4 Processing refers to any operation or any set of operations performed upon personal data including, but not
 
 limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use,
@@ -161,8 +149,9 @@ FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
 
-5 Zoleta vs. Office of the Ombudsman, G.R. No. 258888, 08 April 2024.
-6 Philippine Stock Exchange v. Secretary of Finance, G.R. No. 213860, 05 July 2022, Concurring Opinion, C.J.
-
 Gesmundo.
-7 §4(d), NPC Circular No. 2023-06 (Security of Personal Data in the Government and Private Sector.
+
+[^3]: Republic Act No. 10173.
+[^5]: Zoleta vs. Office of the Ombudsman, G.R. No. 258888, 08 April 2024.
+[^6]: Philippine Stock Exchange v. Secretary of Finance, G.R. No. 213860, 05 July 2022, Concurring Opinion, C.J.
+[^7]: §4(d), NPC Circular No. 2023-06 (Security of Personal Data in the Government and Private Sector.

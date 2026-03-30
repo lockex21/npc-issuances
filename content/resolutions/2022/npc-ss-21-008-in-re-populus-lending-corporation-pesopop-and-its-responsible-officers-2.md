@@ -1,13 +1,24 @@
 ---
-title: "NPC SS 21-008: In Re: Populus Lending Corporation (PESOPOP) and its Responsible Officers"
-description: "This refers to the Temporary Ban on the processing of personal data issued against Populus Lending Corporation, the owners and operator of the online lending application, Pesopop, and its responsible officers (Pesopop) in an Order dated 12 August 2021."
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: This refers to the Temporary Ban on the processing of personal data issued
+  against Populus Lending Corporation, the owners and operator of the online lending
+  application, Pesopop, and its responsible officers (Pesopop) in an Order dated 12
+  August 2021.
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC SS 21-008: In Re: Populus Lending Corporation (PESOPOP) and its Responsible
+  Officers'
+aliases:
+- NPC SS 21-008
+- npc ss 21-008
+date: '2022-01-27'
 ---
+
+
+
 
 ## Source
 - Reference: NPC SS 21-008
@@ -21,8 +32,6 @@ draft: false
 - Temporary Ban and Sua Sponte Investigation
 
 ## Resolution Text
-> NPC_OPC_ADJU_RESO-V1.0,R0.0, 05 May 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
 IN RE: POPULUS LENDING
 
 CORPORATION (PESOPOP)
@@ -43,15 +52,15 @@ POPULUS LENDING CORPORATION
 
 x----------------------------------------------------x
 
-AGUIRRE , D.P.C.;
+AGUIRRE, D.P.C.;
 
 This refers to the Temporary Ban on the processing of personal data issued against Populus Lending Corporation, the owners and operator of the online lending application, Pesopop, and its responsible officers (Pesopop) in an Order dated 12 August 2021.
 
-Facts
+### Facts
 
 On 12 August 2021, the Commission issued an Order imposing a Temporary Ban on the processing of personal data against Pesopop in relation to its online lending application:
 
-WHEREFORE , all these premises considered, this Commission
+WHEREFORE, all these premises considered, this Commission
 
 GRANTS  the Application for Temporary Ban on the processing of personal data filed by the Complaints and Investigation Division (CID) of the National Privacy Commission. A
 
@@ -59,11 +68,7 @@ TEMPORARY BAN ON PROCESSING OF PERSONAL DATA
 
 is hereby issued against Respondent Populus Lending Corporation, as the operator of the online lending application, Pesopop.
 
-NPC SS 21 -008 NPC SS 21-008
-
-> NPC_OPC_ADJU_RESO-V1.0,R0.0, 05 May 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
-Further, pursuant to the TEMPORARY BAN , Respondent Populus Lending Corporation shall:
+Further, pursuant to the TEMPORARY BAN, Respondent Populus Lending Corporation shall:
 
 1. Immediately take down its online lending application, Pesopop, to ensure that it is no longer available for download, installation or use by data subjects; and
 
@@ -83,13 +88,11 @@ SO ORDERED .1
 
 > 1Order, 12 August 2021, at 11, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
-> NPC_OPC_ADJU_ORD-V2.0,R0.0, 05 August 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
 On 03 September 2021, Pesopop, through its counsel Zosa & Quijano Law Offices, filed a Notice of Entry of Appearance with Motion for Reconsideration. 2
 
 In its Motion for Reconsideration, Pesopop manifested that it shall be deemed as its Comment on the allegation in the Fact-Finding Report in compliance with the Order dated 12 August 2021. 3 Pesopop prayed:
 
-WHEREFORE , premises considered, the respondents respectfully prays that this Honorable Commission to:
+WHEREFORE, premises considered, the respondents respectfully prays that this Honorable Commission to:
 
 1. Note the entry of appearance of the undersigned counsel;
 
@@ -119,8 +122,6 @@ On 17 September 2021, the Commission issued an Order directing Pesopop to appear
 > 3Id. at 6.
 > 4Id. at 7.
 > 5Order, 17 September 2021, at 5, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-
-> NPC_OPC_ADJU_RESO-V1.0,R0.0, 05 May 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 the access to the phone contact list and the Privacy Policy dated 10 September 2021;
 
@@ -187,7 +188,7 @@ On 02 January 2022, Pesopop replied to the EnD and informed the EnD that it alre
 
 and claimed that it exposes the Commission to liability for damages if the Temporary Ban is not lifted. 27  It also prayed for the resolution of the pending Motion for Reconsideration. 28
 
-Discussion
+### Discussion
 
 The Commission recognizes that the Motion for Reconsideration shall serve as Pesopop’s Comment to the Fact-Finding Report in compliance with the Order dated 12 August 2021, and its Motion to Lift the Temporary Ban.
 
@@ -201,8 +202,6 @@ Be as it may, the Commission denies the Motion to Lift and maintains the Tempora
 > 26 Id.
 > 27 Id.
 > 28 Id.
-
-> NPC_OPC_ADJU_ORD-V2.0,R0.0, 05 August 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 At the onset, the Commission notes that the period to submit the compliance documents lapsed on 15 October 2021. The Commission stresses that counsel himself requested a fifteen-day period counted from the Clarificatory Hearing on 28 September 2021 to submit the necessary compliance documents. In fact, the Commission already gave Pesopop significant time to submit the compliance documents by 15 October 2021 or fifteen (15) days from 01 October 2021, which is the date of Pesopop’s receipt of the Order dated 28 September 2021. Despite the additional period given to Pesopop, it still belatedly submitted its compliance documents on 20 October 2021 when the period to submit had already lapsed. 29
 
@@ -244,8 +243,6 @@ Pesopop  has not sufficiently addressed the reasons for the issuance of the Temp
 > 33 NPC 2021 Rules of Procedure, rule X.
 > 34 NPC 2021 Rules of Procedure. rule II § 4 (a).
 
-> NPC_OPC_ADJU_ORD-V2.0,R0.0, 05 August 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
 Considering that the Order dated 12 August 2021 already discussed the existence of facts and circumstances necessitating the issuance of a Temporary Ban, Pesopop now has the burden to prove that the Temporary Ban imposed on the processing of personal data is no longer necessary. As such, it must show that the reasons behind the imposition of the Temporary Ban as stated in the Order dated 12 August 2021 no longer exist. This is determined based on its actions and submissions to the Commission.
 
 In the Order dated 12 August 2021, the Commission directed Pesopop to immediately take down its online lending application to ensure that it is no longer available for download, installation, or use by its data subjects and to stop personal data processing activities. 35  Pesopop, however, violated the Temporary Ban when it made versions 1.5.4 and 1.5.5 of its online lending application available several times on Google Play, its official Facebook page, its website, and through a QR Code. By making the online lending application available for download, it appears that Pesopop continued personal data processing activities while the Temporary Ban issued by the Commission was in effect.
@@ -256,8 +253,6 @@ In effect, Pesopop never complied with the Order dated 12 August 2021, as verifi
 
 > 35 Order, 12 August 2021, at 11, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 > 36 Enforcement Division Memorandum, 26 November 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-
-> NPC_OPC_ADJU_RESO-V1.0,R0.0, 05 May 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 Further, in its Motion for Reconsideration, Pesopop represented that it “undertakes to immediately make a complete and thorough review and amendment of its existing data privacy terms and conditions and will revise the same to conform to the [DPA].” 37  It, however, appears from Pesopop’s submissions that it does not intend to abide by its statements.
 
@@ -278,8 +273,6 @@ Instead of explaining the discrepancy between Counsel’s representations in the
 > 37 Notice of Appearance with Motion for Reconsideration, 03 September 2021, at 5, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 > 38 Notice of Appearance with Motion for Reconsideration, 03 September 2021, at 3, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 > 39 Enforcement Division Memorandum, 12 January 2022, at 5, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
-
-> NPC_OPC_ADJU_ORD-V2.0,R0.0, 05 August 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
 The EnD also raised the glaring deficiencies in Pesopop’s Revised Privacy Policy. It observed that the Revised Privacy Policy does not fully abide by Section 16 of the DPA. For reference, Section 16 of the DPA states:
 
@@ -317,8 +310,6 @@ The EnD determined the following:
 
 > 40 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 16 (2012).
 
-> NPC_OPC_ADJU_RESO-V1.0,R0.0, 05 May 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
 a. “Storage time will not exceed your usage time.” and
 
 b. “We will only keep your information for as long as we are either required to by law or as is relevant and material for the purposes for which it was collected.”; and
@@ -339,8 +330,6 @@ A. Borrowers shall be provided all the details required under Section 16 (b) of 
 
 > 41 Enforcement Division Memorandum, 12 January 2022, at 3 - 4, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022) (pending).
 
-> NPC_OPC_ADJU_ORD-V2.0,R0.0, 05 August 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
 D. Where online apps are used for loan processing activities, LCs, FCs, and other persons acting as such shall be prohibited from requiring unnecessary permissions that involve personal and sensitive personal information.
 
 1. Application permissions shall only be allowed when suitable, necessary, and not excessive for the purpose of KYC, determining creditworthiness, preventing fraud, and collecting the debt in accordance with applicable provisions of law.
@@ -355,9 +344,7 @@ Where the photo has already been taken and saved in the application, the applica
 
 The EnD determined that Pesopop’s submissions show that the online lending application still contains the undisclosed permissions identified in the FFR:
 
-> 42 National Privacy Commission , Guidelines on the Processing of Personal Data for Loan-Related Transactions, Circular No. 01, Series of 2020 [NPC Circ. No. 20-01], § 3 (A), (D) (28 January 2021).
-
-> NPC_OPC_ADJU_RESO-V1.0,R0.0, 05 May 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
+> 42 National Privacy Commission, Guidelines on the Processing of Personal Data for Loan-Related Transactions, Circular No. 01, Series of 2020 [NPC Circ. No. 20-01], § 3 (A), (D) (28 January 2021).
 
 Based on the screenshots of the revised application submitted by Populus Lending Corporation, it can be deduced that the same dangerous permissions (Phone, Location, Storage and Camera) are still present.
 
@@ -377,8 +364,6 @@ Storage time will not exceed your usage time.
 
 > 43 Enforcement Division Memorandum, 12 January 2022, at 5, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022) (pending).
 
-> NPC_OPC_ADJU_ORD-V2.0,R0.0, 05 August 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
 We will request contact list limited to five (5) phone contacts for character reference purpose and identity verification. By giving us your home and/or mobile phone number, we have your permission to contact you or the phone contacts you provided us. This shall allow us to use text messaging, artificial or prerecorded voice messages, and automatic dialing technology, for all purposes not prohibited by applicable law. We may also send an email to any address where we reasonably believe we can contact you (include the contact list). Some of the purposes for calls and messages include suspected fraud or identity theft; obtaining information; transactions on or servicing of your account; and collecting on your account or collecting the delinquent account.
 
 However, it was not shown in the Revised Application screenshots submitted, the supposed ‘Step 4’ where users will choose character reference from their phone contact list.
@@ -397,13 +382,11 @@ In its Motion for Reconsideration, Pesopop represented that it “do[es] not hav
 
 > 44 Enforcement Division Memorandum, 12 January 2022, at 6 – 7, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022). Emphasis supplied.
 
-> NPC_OPC_ADJU_RESO-V1.0,R0.0, 05 May 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
-
 its customer supreme.” 45  Pesopop, however, continued to make the online lending application available for download during the Temporary Ban and it has not rectified its operations to comply with the DPA, its IRR, and the issuances of the Commission. As such, it has not sufficiently shown to satisfaction of the Commission that lifting the Temporary Ban imposed in the Order dated 12 August 2021 is warranted.  It also appears from Pesopop’s actions that it had no intention to comply with the Order dated 12 August 2021 to justify the lifting of  the Temporary Ban imposed on its processing of personal data.
 
 Given all these, the Commission finds that Pesopop violated the Temporary Ban imposed in the Order dated 12 August 2021.  Rule IX Section 8 of NPC Circular No. 21-01 or the 2021 Rules of Procedure states:
 
-Section 8. Duration of temporary ban. – When issued, the temporary ban on processing of personal data shall remain in effect until the final resolution of the main case , or upon further orders by the Commission or other lawful authority. 46
+Section 8. Duration of temporary ban. – When issued, the temporary ban on processing of personal data shall remain in effect until the final resolution of the main case, or upon further orders by the Commission or other lawful authority. 46
 
 Considering the foregoing, the Commission finds no reason to lift the Temporary Ban.
 
@@ -420,21 +403,17 @@ Further, the Commission orders  Populus Lending Corporation and its responsible 
 
 NPC_OPC_ADJU_ORD-V2.0,R0.0, 05 August 2021 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307 URL: https//www.privacy.gov.ph Email Add: info@privacy.gov.ph Tel No. 8234-2228
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines.
 
 27 January 2022.
-
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 I CONCUR:
-
-Sgd.
 
 JOHN HENRY D. NAGA
 

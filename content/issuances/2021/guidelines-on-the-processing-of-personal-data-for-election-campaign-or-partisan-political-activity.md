@@ -1,17 +1,19 @@
 ---
-title: "Guidelines On The Processing Of Personal Data For Election Campaign Or Partisan Political Activity (Advisory No. 2021)"
-description: "SUBJECT : GUIDELINES ON THE PROCESSING OF PERSONAL DATA FOR ELECTION CAMPAIGN OR PARTISAN POLITICAL ACTIVITY"
 aliases:
-  - "Advisory No. 2021"
-  - "advisory no. 2021"
-  - "guidelines on the processing of personal data for election campaign or partisan political activity"
-  - "npc advisory no. 2021"
-tags:
-  - "issuance"
-  - "topic/elections"
-  - "type/advisory"
-  - "year/2021"
+- Advisory No. 2021
+- advisory no. 2021
+- guidelines on the processing of personal data for election campaign or partisan
+  political activity
+- npc advisory no. 2021
+date: '2021-11-05'
+description: "Provides guidelines for the processing of personal data for election campaign or partisan political activity."
 draft: false
+tags:
+- issuance
+- topic/elections
+- type/advisory
+- year/2021
+title: "Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021)"
 ---
 
 
@@ -24,34 +26,34 @@ party-list groups or organizations and their nominees, and information society s
 
 **SECTION 2.** ***Definition of Terms.*** For purposes of this Advisory, the following terms are defined as follows:
 
-    A. *"Act"* or *"[[laws/data-privacy-act-of-2012|DPA]]"* refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
+   A. *"Act"* or *"[[laws/data-privacy-act-of-2012|DPA]]"* refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]];
 
-    B. “Aspirant” refers to any person who has filed a certificate of candidacy within the
+   B. “Aspirant” refers to any person who has filed a certificate of candidacy within the
        prescribed period but is not yet officially considered as a candidate;
 
-    C. “Candidate” refers to any person aspiring for or seeking an elective public office, who
+   C. “Candidate” refers to any person aspiring for or seeking an elective public office, who
        has filed a certificate of candidacy by himself or through an accredited political party,
        aggroupment, or coalition of parties.1 Such person shall be considered a candidate at
        the start of the campaign period for which he or she has filed his or her certificate of
        candidacy;[^2]
 
-    D. “Commission” or “NPC” refers to the National Privacy Commission;
+   D. “Commission” or “NPC” refers to the National Privacy Commission;
 
-    E. “Consent of the data subject” refers to any freely given, specific, informed indication
+   E. “Consent of the data subject” refers to any freely given, specific, informed indication
        of will, whereby the data subject agrees to the collection and processing of personal
        information about and/or relating to him or her. Consent shall be evidenced by
        written, electronic or recorded means. It may also be given on behalf of the data subject
        by an agent specifically authorized by the data subject to do so;
 
-    F. “Data subject” refers to an individual whose personal, sensitive personal, or privileged
+   F. “Data subject” refers to an individual whose personal, sensitive personal, or privileged
        information is processed;
 
 
-     G. “Election campaign” or “partisan political activity” refers to an act designed to
+   G. “Election campaign” or “partisan political activity” refers to an act designed to
         promote the election or defeat of a particular candidate or candidates to a public office
         which shall include:3
 
-          1. Forming organizations, associations, clubs, committees or other groups of persons
+   1. Forming organizations, associations, clubs, committees or other groups of persons
              for the purpose of soliciting votes and/or undertaking any campaign for or against
              a candidate;
           2. Holding political caucuses, conferences, meetings, rallies, parades, or other similar
@@ -63,16 +65,16 @@ party-list groups or organizations and their nominees, and information society s
              oppose the election of any candidate; or
           5. Directly or indirectly soliciting votes, pledges or support for or against a candidate.
 
-     H. “Information society service” refers to any service normally provided for
+   H. “Information society service” refers to any service normally provided for
         remuneration, at a distance, by electronic means and at the individual request of a
         recipient of services.[^4]
 
-     I.   “Information society service provider” refers to natural or juridical person providing
+   I.   “Information society service provider” refers to natural or juridical person providing
           information society service.[^5]
 
-     J.   “[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]” refers to the Implementing Rules and Regulations of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]];
+   J.   “[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]” refers to the Implementing Rules and Regulations of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]];
 
-     K. “Nominee” refers to refers to individuals nominated by party-list groups or
+   K. “Nominee” refers to refers to individuals nominated by party-list groups or
         organizations as party-list representatives. No person shall be nominated as a party-
         list representative unless he is a natural born citizen of the Philippines, a registered
         voter, a resident of the Philippines for a period of not less than one (1) year
@@ -84,7 +86,7 @@ party-list groups or organizations and their nominees, and information society s
         Any youth sectoral representative who attains the age of thirty during his term shall
         be allowed to continue until the expiration of his term;[^6]
 
-     L. “Party-list groups or organizations” refers to organized groups who may participate
+   L. “Party-list groups or organizations” refers to organized groups who may participate
 
 
 the provision of information in the field of technical regulations and of rules on Information Society services (codification), Art. 1 (1) (b);
@@ -93,9 +95,9 @@ messaging platforms, e-commerce platforms, file storage and sharing providers, o
 
 Therefor [Party-List System Act], Republic Act No. 7941, § 8 and 9 (1995).
 
-         in the party-list election:7
+   in the party-list election:7
 
-         1. Sectoral party an organized group of citizens whose principal advocacy pertains
+   1. Sectoral party an organized group of citizens whose principal advocacy pertains
             to the special interests and concerns of the following sectors: Labor; Peasant; Urban
             Poor; Indigenous Cultural Communities; Elderly; Handicapped; Women; Youth;
             Overseas Workers; Fisherfolk; Veterans; and Professionals;
@@ -110,46 +112,46 @@ Therefor [Party-List System Act], Republic Act No. 7941, § 8 and 9 (1995).
          4. Coalition an aggrupation of duly-registered national, regional. Sectoral parties or
             organizations for political and/or election purposes.
 
-    M. “Personal data” refers to all types of personal information and sensitive personal
+   M. “Personal data” refers to all types of personal information and sensitive personal
        information;
 
-    N. “Personal information” refers to any information, whether recorded in a material form
+   N. “Personal information” refers to any information, whether recorded in a material form
        or not, from which the identity of an individual is apparent or can be reasonably and
        directly ascertained by the entity holding the information, or when put together with
        other information would directly and certainly identify an individual;
 
-    O. “Personal information controller” or “PIC” refers to a natural or juridical person, or
+   O. “Personal information controller” or “PIC” refers to a natural or juridical person, or
        any other body, who controls the processing of personal data, or instructs another to
        process personal data on its behalf. The term excludes:
 
-         1. A natural or juridical person, or any other body, who performs such functions as
+   1. A natural or juridical person, or any other body, who performs such functions as
             instructed by another person or organization; or
          2. A natural person who processes personal data in connection with his or her
             personal, family, or household affairs;
 
-         There is control if the natural or juridical person or any other body decides on what
+   There is control if the natural or juridical person or any other body decides on what
          information is processed, or the purpose or extent of its processing.
 
-    P. “Personal information processor” or “PIP” refers to any natural or juridical person or
+   P. “Personal information processor” or “PIP” refers to any natural or juridical person or
        any other body to whom a personal information controller may outsource or instruct
        the processing of personal data;
 
-    Q. “Political party” refers to an organized group of persons pursuing the same ideology,
+   Q. “Political party” refers to an organized group of persons pursuing the same ideology,
        political ideas or platforms of government and includes its branches and divisions.[^8]
 
 
 Manifestation Of Intent To Participate; 3) Submission Of Names Of Nominees; And 4) Filing Of Disqualification Cases Against Nominees Of Party-List Groups Or Organizations Participating Under The Party-List System Of Representation In Connection With The May 13, 2013 National And Local Elections, And Subsequent Elections Thereafter, Resolution No. 9366, § 3 (2012).
 
-    R. “Processing” refers to any operation or any set of operations performed upon personal
+   R. “Processing” refers to any operation or any set of operations performed upon personal
        data including, but not limited to, the collection, recording, organization, storage,
        updating or modification, retrieval, consultation, use, consolidation, blocking, erasure
        or destruction of data. Processing may be performed through automated means, or
        manual processing, if the personal data are contained or are intended to be contained
        in a filing system;
 
-    S. “Sensitive personal information” refers to personal information:
+   S. “Sensitive personal information” refers to personal information:
 
-         1. About an individual’s race, ethnic origin, marital status, age, color, and religious,
+   1. About an individual’s race, ethnic origin, marital status, age, color, and religious,
             philosophical, or political affiliations;
          2. About an individual’s health, education, genetic or sexual life of a person, or to any
             proceeding for any offense committed or alleged to have been committed by such
@@ -165,11 +167,11 @@ Manifestation Of Intent To Participate; 3) Submission Of Names Of Nominees; And 
 
 **SECTION 4.** ***Guidelines.*** The processing of personal data for election campaign or partisan political activity shall be subject to the following general guidelines:
 
-    A. Legitimate purpose. The processing of personal data shall be limited to and compatible
+   A. Legitimate purpose. The processing of personal data shall be limited to and compatible
        with the declared and specified purpose/s which must not be contrary to law, morals,
        or public policy.
 
-         1. All political parties, candidates, aspirants, party-list groups or organizations and
+   1. All political parties, candidates, aspirants, party-list groups or organizations and
             their nominees, and information society service providers acting as PICs
             processing personal data for election campaigns shall clearly identify and
             document the specific purpose/s of processing, e.g., advertising, direct marketing,
@@ -184,7 +186,7 @@ Manifestation Of Intent To Participate; 3) Submission Of Names Of Nominees; And 
             freedoms of data subjects,9 such as anonymization, pseudonymization, restriction
 
 
-            on access.
+   on access.
          3. Any other further processing for purposes aside from those in the immediately
             preceding provisions shall still be compatible with the declared and specified
             purposes. In determining whether another purpose is compatible with the purpose
@@ -212,11 +214,11 @@ Manifestation Of Intent To Participate; 3) Submission Of Names Of Nominees; And 
             complaint is filed and/or in the course of any investigation, as well as in the
             conduct of compliance checks.
 
-    B. Lawful basis for processing. Political parties, candidates, aspirants, party-list groups or
+   B. Lawful basis for processing. Political parties, candidates, aspirants, party-list groups or
        organizations and their nominees, and information society service providers acting as
        PICs shall determine the most appropriate lawful basis for processing under Sections
 
-         1. PICs shall establish and document their lawful basis for processing considering the
+   1. PICs shall establish and document their lawful basis for processing considering the
             purpose for processing, the nature of the personal data, and relationship with the
             data subject. The same evaluation shall be made on the determination of the most
             appropriate basis for any authorized further processing.
@@ -231,7 +233,7 @@ regard to Automatic Processing of Personal Data, available at [https://rm.coe.in
 
 May 2020, available at [https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_](https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_) consent_en.pdf (last accessed 29 September 2021).
 
-             subject at the time consent was obtained. Consent shall be evidenced by written,
+   subject at the time consent was obtained. Consent shall be evidenced by written,
              electronic, or recorded means.
           3. To use legitimate interest under Section 12 (f) of the [[laws/data-privacy-act-of-2012|DPA]] to process personal
              information, a legitimate interest assessment shall be conducted by PICs,
@@ -253,13 +255,13 @@ May 2020, available at [https://edpb.europa.eu/sites/default/files/files/file1/e
              consideration [[laws/data-privacy-act-of-2012#Section 38|Section 38 of the DPA]] and whether the rights of the data subject
              could be better protected by using another lawful criterion for processing.
 
-     C. Transparency. Political parties, candidates, aspirants, party-list groups or organizations
+   C. Transparency. Political parties, candidates, aspirants, party-list groups or organizations
         and their nominees, and information society service providers acting as PICs shall
         adhere to the general data privacy principle of transparency in all personal data
         processing activities they are engaged in, including those that have been outsourced
         to personal information processors (PIPs).
 
-          1. Political parties, candidates, aspirants, party-list groups or organizations and their
+   1. Political parties, candidates, aspirants, party-list groups or organizations and their
              nominees shall inform the data subjects of the following through an appropriate
              privacy notice in clear and plain language and easily accessible to data subjects:
              a) The specific mechanisms used to engage and communicate with data subjects,
@@ -281,7 +283,7 @@ May 2020, available at [https://edpb.europa.eu/sites/default/files/files/file1/e
 
 ‘Legitimate Interests’ basis?, available at [https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-) gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed September 22, 2021).
 
-            activities for elections campaigns through its own privacy notice, accessible and
+   activities for elections campaigns through its own privacy notice, accessible and
             written in clear and plain language, which should include the following:
             a) Details of personal data that has been collected;
             b) The method of processing, including the use of any profiling and data-driven
@@ -298,27 +300,27 @@ May 2020, available at [https://edpb.europa.eu/sites/default/files/files/file1/e
             shall be clearly identifiable in the content of the same by any person viewing such
             materials and communications.
 
-    D. Proportionality. In all personal data processing activities, PICs shall ensure that
+   D. Proportionality. In all personal data processing activities, PICs shall ensure that
        personal data collected therein should be adequate, relevant, suitable, necessary, and
        not excessive in relation to the specified purpose for which they are collected and
        processed. PICs shall process personal data only if the purpose of the processing
        cannot reasonably be fulfilled by other less intrusive means.
 
-         1. An assessment shall be made on whether processing sensitive personal
+   1. An assessment shall be made on whether processing sensitive personal
             information, such as political affiliation, is proportional to the purpose of
             processing, considering the risks of voter discrimination, suppression, and
             intimidation.
          2. Processing of sensitive personal information shall have adequate safeguards
             against any undue intrusion into data subjects’ fundamental rights and freedoms.
 
-    E. Personal data collected from sources other than the data subject. The processing of personal
+   E. Personal data collected from sources other than the data subject. The processing of personal
        data obtained from sources other than directly from a data subject or from publicly
        available sources is still within the scope of the [[laws/data-privacy-act-of-2012|DPA]]. Political parties, candidates,
        aspirants, party-list groups or organizations and their nominees, and information
        society service providers acting as PICs are required to comply with the provisions of
        the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and relevant issuances of the NPC.
 
-         1. Access to list of registered voters. The right of registered political parties and bona
+   1. Access to list of registered voters. The right of registered political parties and bona
             fide candidates under Republic Act No. 818914 or The Voter’s Registration Act of
             1996 to inspect or copy the list of registered voters in the precincts constituting the
             constituency of the bona fide candidate or at which the political party is fielding
@@ -331,7 +333,7 @@ May 2020, available at [https://edpb.europa.eu/sites/default/files/files/file1/e
 
 Procedures Thereof And Authorizing The Appropriation Of Funds Therefor [The Voter’s Registration Act of 1996], Republic Act No. 8189, § 42 (1996).
 
-                election laws, rules, and regulations;
+   election laws, rules, and regulations;
              c) Information as to how political parties or candidates use these lists should be
                 readily available in their websites and social media platforms, and/or physical
                 notices in offices or headquarters;
@@ -340,7 +342,7 @@ Procedures Thereof And Authorizing The Appropriation Of Funds Therefor [The Vote
                 the lists to communicate directly with the data subjects, they must be able to
                 provide adequate information to the data subjects when requested.
 
-         2. Publicly available sources; social media. Political parties, candidates, aspirants, party-
+   2. Publicly available sources; social media. Political parties, candidates, aspirants, party-
             list groups or organizations and their nominees, and information society service
             providers acting as PICs collecting and processing personal data from the public
             domain must still observe the requirements under the law, such as but not limited
@@ -364,29 +366,29 @@ Procedures Thereof And Authorizing The Appropriation Of Funds Therefor [The Vote
 SECTION 5. Rights of the Data Subjects. — Political parties, candidates, aspirants, party-list
 groups or organizations and their nominees, and information society service providers acting as PICs shall uphold the rights of the data subjects and have mechanisms in place that will allow them to exercise such rights.
 
-    A. Personal data shall be processed fairly, lawfully, and in a transparent manner. Data
+   A. Personal data shall be processed fairly, lawfully, and in a transparent manner. Data
        subjects have the right to be informed about the collection and use of their personal
        data, the purposes for processing, retention periods for that personal data, who it will
        be shared with and the purpose for sharing, among others.
 
-    B. If processing is based on consent, data subjects have the right to withdraw their
+   B. If processing is based on consent, data subjects have the right to withdraw their
        consent at any time. PICs are required to implement convenient means for data
        subjects to withdraw consent. Similarly, if such processing is based on legitimate
        interest, data subjects may exercise their right to object to the processing of his or her
        personal data at any time.
 
-    C. Data subjects should be able to exercise the right to access their personal data through
+   C. Data subjects should be able to exercise the right to access their personal data through
        procedures that are simple and convenient, as well as the right to erasure in certain
        circumstances as provided for under the [[laws/data-privacy-act-of-2012|DPA]].
 
-     D. For further guidance on the data subject rights, refer to [[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|NPC Advisory No. 2021]] – 01.[^15]
+   D. For further guidance on the data subject rights, refer to [[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|NPC Advisory No. 2021]] – 01.[^15]
 
 SECTION 6. Security of Personal Data. — PICs are expected to implement reasonable and
 appropriate organizational, physical, and technical security measures intended for the protection of personal data.
 
-     A. At the minimum, the following should be complied with:
+   A. At the minimum, the following should be complied with:
 
-          1. Appointment of a data protection officer and registration of data processing
+   1. Appointment of a data protection officer and registration of data processing
              systems with the NPC;
           2. Conduct of privacy impact assessments;
           3. Development of a privacy management program and privacy manual;
@@ -394,29 +396,29 @@ appropriate organizational, physical, and technical security measures intended f
           5. Preparation for a personal data breach, including compliance with mandatory
              personal data breach notifications.
 
-     B. A privacy impact assessment should be conducted prior to adoption, use, or
+   B. A privacy impact assessment should be conducted prior to adoption, use, or
         implementation of any personal data processing system to aid in identifying,
         assessing, evaluating, and managing the risks represented by the processing of
         personal data for election campaigns or partisan political activities, considering the
         risks of voter discrimination, suppression, and intimidation.
 
-     C. As part of technical measures, PICs should conduct regular monitoring for security
+   C. As part of technical measures, PICs should conduct regular monitoring for security
         incidents and personal data breaches on databases containing voters’ personal data. A
         process for identifying reasonably foreseeable vulnerabilities in personal data
         processing systems and for taking preventive, corrective, and mitigating action against
         security incidents that can lead to a personal data breach shall be implemented.[^16]
 
-     D. If the processing of personal data is outsourced, PICs shall use contractual or other
+   D. If the processing of personal data is outsourced, PICs shall use contractual or other
         reasonable means to provide a comparable level of protection while the personal data
         is being processed by a PIP. For this purpose, an outsourcing agreement containing
         the required provisions under the IRR should be executed to ensure reasonable
         protection of the personal data processed.
 
-     E. Employees, volunteers, and other authorized representatives involved in election
+   E. Employees, volunteers, and other authorized representatives involved in election
         campaigns shall undergo basic training on data privacy. Confidentiality agreements
         shall be executed by the abovementioned individuals, where appropriate.
 
-     F. Retention of personal data shall only be for as long as necessary for the fulfillment of
+   F. Retention of personal data shall only be for as long as necessary for the fulfillment of
         the declared, specified, and legitimate purpose related to election campaigns and
         partisan political activities. PICs shall dispose personal data in a secure manner that
         will prevent unauthorized further processing by, access of, or disclosure to, any other
@@ -430,8 +432,6 @@ Approved:
 SGD. RAYMUND ENRIQUEZ LIBORO Privacy Commissioner
 
 SGD.                                                                 SGD. LEANDRO ANGELO Y. AGUIRRE                                   JOHN HENRY D. NAGA Deputy Privacy Commissioner                             Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: Omnibus Election Code of the Philippines, Batas Pambansa Blg. 881, § 79 (a) (1985).
 [^2]: An Act Amending Republic Act No. 8436, Entitled "An Act Authorizing The Commission On        Elections To Use An Automated Election System In The May 11, 1998 National Or Local Elections And In Subsequent National And Local Electoral Exercises, To Encourage Transparency, Credibility, Fairness And Accuracy Of Elections, Amending For The Purpose Batas Pambansa Blg. 881, As Amended, Republic Act No. 7166 And Other Related Election Laws, Providing Funds Therefor And For Other Purposes, Republic Act No. 9369, § 13 (2007).
@@ -452,4 +452,7 @@ SGD.                                                                 SGD. LEANDR
 [^17]: Id. § 19 (d) (2016).
 
 ## Source And Notes
-- Companion note: [[notes/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Analysis and metadata]] - Raw source text: [[sources/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Raw source extraction]] - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/11/Advisory_Election_Campaigning_03-Nov-21-FINAL.pdf - OCR used during extraction: no
+- Companion note: [[notes/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Analysis and metadata]]
+- Raw source text: [[sources/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Raw source extraction]]
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/11/Advisory_Election_Campaigning_03-Nov-21-FINAL.pdf - O
+CR used during extraction: no

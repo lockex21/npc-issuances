@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-037: In re: Acesite (Phils.) Hotel Corporation"
-description: "isolated in a different location. Acesite also committed to conduct NPC BN: 18 -037"
+title: 'NPC BN 18-037: In re: Acesite (Phils.) Hotel Corporation'
+description: 'isolated in a different location. Acesite also committed to conduct
+  NPC BN: 18 -037'
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2021
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-037"'
+- '"npc bn 18-037"'
+- '"In re: Acesite (Phils.) Hotel Corporation"'
+- '"in re: acesite (phils.) hotel corporation"'
+date: '2021-04-15'
 ---
 
 ## Source

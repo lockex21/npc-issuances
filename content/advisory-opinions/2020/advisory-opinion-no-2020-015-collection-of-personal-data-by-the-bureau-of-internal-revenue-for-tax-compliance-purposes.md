@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2020-015 — Collection of Personal Data by the Bureau of Internal Revenue for Tax Compliance Purposes"
-description: "''''''''''''''''''''''''''''''''''' '''''''''''''''''' ''''' ''''''''''''''' '''''''''''''''''' ''' '''''''''' ''''''''''' '''''''''' '' ''''''''' '''''''''' ''''' ''''''''''' '''''''' '''''''' ''''' '''''''' ''''''''''''''''''''' ''''''"
+title: "NPC Advisory Opinion No. 2020-015 — Collection of Personal Data by the Bureau of Internal Revenue for Tax Compliance Purposes"
+description: "Guidance on the Bureau of Internal Revenue's collection of personal data from foreign missions for tax compliance purposes under the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,23 +17,13 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                             ADVISORY OPINION NO. 2020-0151
 
 24 February 2020
 
-''''''''''''''''''''''''''''''''''' '''''''''''''''''' ''''' '''''''''''''''
-'''''''''''''''''' ''' '''''''''' '''''''''''
-'''''''''' '' ''''''''' ''''''''''
-''''' ''''''''''' '''''''' ''''''''
-''''' '''''''' ''''''''''''''''''''' ''''''
-
-
-
-                 Re:        COLLECTION OF PERSONAL DATA BY THE BUREAU OF
+   Re:        COLLECTION OF PERSONAL DATA BY THE BUREAU OF
                             INTERNAL REVENUE FOR TAX COMPLIANCE PURPOSES
 
-Dear '''''''''''''''''''''''''''''''''''''' '''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to clarify whether the Bureau of Internal Revenue (BIR) may
@@ -54,28 +44,26 @@ compliance with the RMC. In particular, the BIR asked the DFA to obtain the list
 the corresponding TINs of the locally hired employees of the foreign missions, citing Sections 4
 and 19 of the Data Privacy Act of 20122 (DPA) as legal bases for the request. Despite the foregoing,
 
-1 Tags: scope; special cases; public authority; lawful processing; foreign diplomatic missions.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
 Republic Act No. 10173 (2012).
 
 some of the embassies still refused to cooperate and claimed that the information being requested
 is sensitive and protected.
 
-Scope of the DPA; special cases; general data privacy
-principles; security measures
+### Discussion
+
+#### Scope of the DPA; special cases; general data privacy principles; security measures
 
 The DPA and its Implementing Rules and Regulations (IRR) provide for a list of specified
 information that are not covered by the law, which includes information necessary to carry out
 functions of a public authority, to wit:
 
-         “SECTION 5. Special Cases. The Act and these Rules shall not apply to the following
+   “SECTION 5. Special Cases. The Act and these Rules shall not apply to the following
          specified information, only to the minimum extent of collection, access, use, disclosure or
          other processing necessary to the purpose, function, or activity concerned:
 
-                                                   xxx       xxx       xxx
+   xxx       xxx       xxx
 
-         d. Information necessary in order to carry out the functions of public authority, in
+   d. Information necessary in order to carry out the functions of public authority, in
          accordance with a constitutionally or statutorily mandated function pertaining to law
          enforcement or regulatory function, including the performance of the functions of the
          independent, central monetary authority, subject to restrictions provided by law. Nothing
@@ -84,9 +72,9 @@ functions of a public authority, to wit:
          known as the Foreign Currency Deposit Act; and Republic Act No. 9510, otherwise known
          as the Credit Information System Act (CISA);
 
-                                                   xxx       xx        xxx
+   xxx       xx        xxx
 
-         Provided, that the non-applicability of the Act or these Rules do not extend to personal
+   Provided, that the non-applicability of the Act or these Rules do not extend to personal
          information controllers or personal information processors, who remain subject to the
          requirements of implementing security measures for personal data protection: Provided
          further, that the processing of the information provided in the preceding paragraphs shall
@@ -116,22 +104,22 @@ The BIR is a public authority tasked with the duty to, among others, ensure comp
 NIRC, as amended, and other relevant tax laws and issuances. Under Section 5 of the NIRC, as
 amended, the BIR Commissioner has the following powers:
 
-         “SEC. 5. Power of the Commissioner to Obtain Information, and to Summon, Examine, and
+   “SEC. 5. Power of the Commissioner to Obtain Information, and to Summon, Examine, and
          Take Testimony of Persons. - In ascertaining the correctness of any return, or in making a
          return when none has been made, or in determining the liability of any person for any
          internal revenue tax, or in collecting any such liability, or in evaluating tax compliance, the
          Commissioner is authorized:
 
-         (A) To examine any book, paper, record, or other data which may be relevant or material to
+   (A) To examine any book, paper, record, or other data which may be relevant or material to
          such inquiry;
 
-         (B) To obtain on a regular basis from any person other that the person whose internal
+   (B) To obtain on a regular basis from any person other that the person whose internal
          revenue tax liability is subject to audit or investigation, … any information such as, but not
          limited to costs and volume of production, receipts or sales and gross income of taxpayers,…
 
-                                              xxx     xxx      xxx
+   xxx     xxx      xxx
 
-         (C) To summon the person liable for tax or required to file a return, or any officer or
+   (C) To summon the person liable for tax or required to file a return, or any officer or
          employee of such person, or any person having possession, custody, or care of the books of
          accounts and other accounting records containing entries relating to the business of the
          person liable for tax, or any other person, to appear before the Commissioner or his duly
@@ -155,8 +143,6 @@ of the data subject.5
 Nonetheless, in all other cases, the BIR is expected to uphold and have mechanisms in place for
 the exercise of these rights.
 
-
-
 5 Data Privacy Act of 2012, § 19.
 
 We reiterate that the DPA is not meant to prevent government agencies from processing personal
@@ -170,8 +156,6 @@ the context of the inquiry and the appreciation of the facts.
 For your reference.
 
 Very truly yours,
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 

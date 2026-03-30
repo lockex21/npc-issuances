@@ -1,17 +1,18 @@
 ---
 title: "Security of Personal Data in the Government and the Private Sector"
-description: "WHEREAS, Section 2 of Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012” (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote..."
+description: "Security of Personal Data in the Government and the Private Sector establishes guidelines and rules for data privacy compliance."
 aliases:
-  - "security of personal data in the government and the private sector"
-  - "Circular No. 2023-06"
-  - "circular no. 2023-06"
+- security of personal data in the government and the private sector
+- Circular No. 2023-06
+- circular no. 2023-06
 tags:
-  - "issuance"
-  - "topic/government"
-  - "topic/security"
-  - "type/circular"
-  - "year/undated"
+- issuance
+- topic/government
+- topic/security
+- type/circular
+- year/2021
 draft: false
+date: '2021-11-01'
 ---
 
 ## Issuance Text

@@ -1,12 +1,20 @@
 ---
-title: "NPC BN 18-046: In re: City Government of Iloilo – Internal Audit Services"
-description: "Resolution addressing the City Government of Iloilo's breach notification and security measures following the hacking of its website, finding proper breach management and closing the case."
+title: 'NPC BN 18-046: In re: City Government of Iloilo – Internal Audit Services'
+description: Resolution addressing the City Government of Iloilo's breach notification
+  and security measures following the hacking of its website, finding proper breach
+  management and closing the case.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2023
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-046"'
+- '"npc bn 18-046"'
+- '"In re: City Government of Iloilo – Internal Audit Services"'
+- '"in re: city government of iloilo – internal audit services"'
+date: '2023-08-17'
 ---
 
 ## Source

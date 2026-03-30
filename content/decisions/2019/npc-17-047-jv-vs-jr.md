@@ -1,11 +1,17 @@
 ---
-title: "NPC 17-047: JV vs. JR"
-description: "An Act Protecting Individual Personal Information in Information and Communications"
+title: "NPC 17-047: JV v. JR"
+description: "Complaint for alleged unauthorized processing of personal data; dismissed for lack of proper complaint form and insufficient allegations under the Data Privacy Act."
+aliases:
+  - "NPC 17-047"
+  - "npc 17-047"
+  - "JV v. JR"
+  - "jv v. jr"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2019"
+  - "year/2017"
   - "npc-case"
+date: "2019-08-13"
 draft: false
 ---
 
@@ -22,35 +28,21 @@ draft: false
 
 ## Decision Text
 
-Republic of the Philippines
-NATIONAL PRIVACY COMMISSION
-5th Floor West Banquet Hall (A. Imao Hall), Delegation Building, PICC Complex
-URL: http://privacy.gov.ph | Email Address: info@privacy.gov.ph
+JV,
 
----
-
-**JV,**
-*Complainant,*
+Complainant,
 
 -versus-
 
-**NPC Case No. 17-047**
-*For: Violation of the provisions of the Data Privacy Act*
+JR, as the Customer Service Manager of SM Store at SM Bicutan,
 
-**JR** as the Customer Service Manager of **SM STORE** at SM Bicutan,
-*Respondent.*
+Respondent.
 
----
+x----------------------------------------------------x
 
-### DECISION
-
-AGUIRRE, *D.P.C.*
+AGUIRRE, D.P.C.
 
 For consideration before this Commission is a complaint filed by JV against JR, in her capacity as the Customer Service Manager of the SM Store, for an indeterminate violation of the Data Privacy Act (DPA).[^1]
-
----
-
-### These Proceedings
 
 On 15 March 2018, this Commission, through the Complaints and Investigation Division, conducted a Discovery Conference. At the Conference, this Commission directed the respondent and other representatives of SM Bicutan to submit a responsive pleading within ten (10) days from receipt of the Order dated 16 March 2018.[^2]
 
@@ -272,30 +264,26 @@ This is without prejudice to the filing of appropriate civil, criminal or admini
 
 Pasay City, 13 August 2019.
 
-Sgd.
-**LEANDRO ANGELO Y. AGUIRRE**
+LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
 Concurring:
 
-Sgd.
-**IVY D. PATDU**
+IVY D. PATDU
 Deputy Privacy Commissioner
 
-Sgd.
-**RAYMUND ENRIQUEZ LIBORO**
+RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
----
+Copy furnished:
 
-**COPY FURNISHED:**
-
-JV, Complainant
+JV
+Complainant
 
 JR, Customer Service Manager
+SM Store at SM Bicutan
 
 Compliance and Monitoring Division
-
 Enforcement Division
 
 General Records Unit

@@ -1,16 +1,17 @@
 ---
-title: "Guidelines On Requests For Personal Data Of Public Officers (Advisory No. 2022-01)"
-description: "WHEREAS, the right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution emphasizes that the State values the..."
 aliases:
-  - "Advisory No. 2022-01"
-  - "advisory no. 2022-01"
-  - "guidelines on requests for personal data of public officers"
-  - "npc advisory no. 2022-01"
-tags:
-  - "issuance"
-  - "type/advisory"
-  - "year/2022"
+- Advisory No. 2022-01
+- advisory no. 2022-01
+- guidelines on requests for personal data of public officers
+- npc advisory no. 2022-01
+date: '2022-02-04'
+description: "Provides guidelines for requests for personal data of public officers."
 draft: false
+tags:
+- issuance
+- type/advisory
+- year/2022
+title: "Guidelines on Requests for Personal Data of Public Officers (Advisory No. 2022-01)"
 ---
 
 ## Issuance Text
@@ -171,8 +172,6 @@ Privacy Commissioner
 SGD.
 LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4(a) (2012) and Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, § 5 (2016).
 [^2]: National Archives of the Philippines, NAP General Circular No. 1, Rule 2 - Definitions, Document - refers to recorded information regardless of medium or characteristics. Frequently used interchangeably with "records" (Jan. 20, 2009).

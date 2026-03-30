@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-029 — Processing Of Personal Data Contained In Abandoned Servers Or Computers"
-description: "'''''''''''''''' ''' ''''''''''''''''''''''''' ''''''''''''''' '''''''''''' ''''''''''' '''''''''' ''''''''''''''''''''''' ''''' '''''''''''''' ''''''' ''''''''''''''''''''''''' '''''''' '''''''''''''''' ' ''''''''''''''''''''' '''''''''''''''..."
+title: "NPC Advisory Opinion No. 2021-029 — Processing Of Personal Data Contained In Abandoned Servers Or Computers"
+description: "Guidance on processing personal data contained in abandoned servers or computers, including rules for erasure, archiving, and retention obligations when servers are repossessed."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,22 +17,12 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                            ADVISORY OPINION NO. 2021-0291
 
-    30 July 2021
+30 July 2021
 
-    '''''''''''''''' ''' ''''''''''''''''''''''''' ''''''''''''''' '''''''''''' ''''''''''' '''''''''' '''''''''''''''''''''''
-    ''''' '''''''''''''' ''''''' ''''''''''''''''''''''''' ''''''''
-    '''''''''''''''' ' ''''''''''''''''''''' ''''''''''''''' ''''''''''''''
-    ''''''' '''''''''''' ''''''''''''''' '''''
-    '''''''''''''''''''''''''''''''''
+Re: PROCESSING OF PERSONAL DATA CONTAINED IN ABANDONED SERVERS OR COMPUTERS
 
-
-                  Re:        PROCESSING OF PERSONAL DATA CONTAINED IN
-                             ABANDONED SERVERS OR COMPUTERS
-
-Dear '''''''''' ''''''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for guidance regarding a situation wherein an office
 lessee of Eton Properties Philippines, Inc. (Eton for brevity) has defaulted and abandoned the
@@ -46,7 +36,7 @@ not known as of yet.
 
 As such, you have raised the following points for clarification:
 
-         1. Are there any guidelines issued by the National Privacy Commission (NPC) as to how
+   1. Are there any guidelines issued by the National Privacy Commission (NPC) as to how
             to handle this situation;
          2. Since these are abandoned properties, can the data be wiped, and the hardware re-
             used for other business purposes? Eton can archive the data, if necessary and
@@ -56,10 +46,7 @@ As such, you have raised the following points for clarification:
             the same way as the data servers; and
          5. Recommendations to ensure that there are no data privacy-related issues in the future.
 
-
-
-1 Tags: criteria for lawful processing of personal and sensitive personal information; personal information controller;
-accountability; retention; compliance.
+### Discussion
 
 Scope of the Data Privacy Act of 2012; criteria for
 lawful processing of personal data
@@ -104,7 +91,6 @@ and the contents thereof to satisfy the unpaid rentals or recover the leasing re
 incurred. The treatment of the abandoned properties of the lessee would then depend upon
 the stipulations in the lease agreement and the orders or judgement from a competent court.
 
-
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
 
 the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT
@@ -136,7 +122,7 @@ be a PIC as well and should be cognizant of the duties, responsibilities, and ri
 with having custody of personal data. In CID Case No. 18-E-040,10 the Commission elaborated
 on the accountability of the PIC:
 
-         “By having the control of and discretion in the use of personal information of individuals,
+   “By having the control of and discretion in the use of personal information of individuals,
          they are already considered the controller. They are thus accountable for the protection
          of the information and for the observation of the obligations under the law. These
          persons and entities must be able to justify their processing of personal data under any
@@ -180,9 +166,6 @@ issues between parties nor impose any sanctions or award damages.
 For your reference.
 
 Very truly yours,
-
-
-
 
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office

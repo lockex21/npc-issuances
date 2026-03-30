@@ -1,13 +1,23 @@
 ---
-title: "NPC SS 21-008: In Re: Populus Lending Corporation (PESOPOP) and its Responsible Officers"
-description: "NPC SS 21-008: In Re: Populus Lending Corporation (PESOPOP) and its Responsible Officers"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2019"
-  - "npc-case"
+aliases:
+- NPC SS 21-008
+- npc ss 21-008
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC SS 21-008
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2019
+title: 'NPC SS 21-008: In Re: Populus Lending Corporation (PESOPOP) and its Responsible
+  Officers'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC SS 21-008
@@ -21,8 +31,6 @@ draft: false
 - Temporary Ban and Sua Sponte Investigation
 
 ## Resolution Text
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex , Pasay City
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 IN RE : FYNAMICS LENDING
 
@@ -34,7 +42,7 @@ APPLICATION
 
 -----x---------------------------------------------x
 
-NPC No. 19 -910
+NPC No. 19910
 
 For violation of
 
@@ -48,7 +56,7 @@ On 30 August 2019, th e Commission issued an Order requiring Fynamics
 
 Lending Inc. and its responsible officers to submit their respective Answers
 
-to the allegations in the Fact -Finding Report within ten ( 10 ) da ys from
+to the allegations in the FactFinding Report within ten ( 10 ) da ys from
 
 receipt thereof.
 
@@ -68,7 +76,7 @@ For their part, r espondents Fynamics Lending Inc., ML , CW , and BBS ,
 
 through counsel, submitted on 16 September 2019 their Appearance and
 
-Omnibus Motio n. They cited the fact that the last day of the 10 -day period
+Omnibus Motio n. They cited the fact that the last day of the 10day period
 
 fell on a Sunday, moving the deadline to the next working day or 16
 
@@ -92,10 +100,8 @@ an additional period of ten (10) days from 26 September 2019 or until 06
 
 October 2019 within which to file their responsive pleading. Resolution
 
-> NPC Case No. 19 -910
+> NPC Case No. 19910
 > Page 2of 4
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 On 2 7 September 2019, counsel for respondent Fynamics Lending Inc., the
 
@@ -133,7 +139,7 @@ a mediation proceeding and the suspension of the proceedings pending the
 
 resolution of their Omnibus Motion, the Rule on Alternative Modes of
 
-Dispute Resolution under NPC Circular No. 16 -04 finds application, thus:
+Dispute Resolution under NPC Circular No. 1604 finds application, thus:
 
 Section 26. Mediation officer. - The Commission shall
 
@@ -147,7 +153,7 @@ The instant case was initiated through a sua sponte investigation of the
 
 National Privacy Commission pursuant to Section 3 of NPC Circular No.
 
-16 -04. The Fact -Finding Report noted certain dangerous permissions in the
+1604. The FactFinding Report noted certain dangerous permissions in the
 
 Android Package (APK) of the PondoPeso application that are designed to
 
@@ -155,22 +161,20 @@ be indispensable for the application to function, 2 as well as the
 
 inaccessibility of a Privacy Policy that provides an explanation of this to the
 
-user. 3 Based on these , the Fact -Finding report found that “the apparent
+user. 3 Based on these , the FactFinding report found that “the apparent
 
 failure of the company to abide by the directives of the DPA in the
 
 protection of data subjects and their personal information constitute
 
-violations of the law.” 4 Specifically, the Fact -Finding Report recommends
+violations of the law.” 4 Specifically, the FactFinding Report recommends
 
 > 1Section 26, e mphasis mine.
-> 2Fact -Finding Report, p. 11.
+> 2FactFinding Report, p. 11.
 > 3Id., at p. 14.
 > 4Id., at p. 15. Resolution
-> NPC Case No. 19 -910
+> NPC Case No. 19910
 > Page 3of 4
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
 
 criminal prosecution for the company, represented by their board of
 
@@ -178,9 +182,9 @@ directors, for violations of Sections 25, 28, 31, and 32 of the Data Privacy
 
 Act.
 
-Upon consideration of the allegations in the Fact -Finding Report and the
+Upon consideration of the allegations in the FactFinding Report and the
 
-existing rules under NPC Circular No. 16 -04, the Commission finds that
+existing rules under NPC Circular No. 1604, the Commission finds that
 
 there is no basis for the Commission to grant the prayer of respondents ML ,
 
@@ -222,8 +226,6 @@ City of Pasay, Philippines
 
 7 October 2019
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
@@ -234,10 +236,7 @@ Sgd. Sgd.
 
 IVY D. PATDU RAYMUND ENRIQUEZ LIBORO Resolution
 
-NPC Case No. 19 -910
-
-> 5th Floor We st Banquet Hall ( A. Imao Hall ), Delegation Building, PICC Complex
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
+NPC Case No. 19910
 
 Deputy Privacy Commissioner Privacy Commissioner
 

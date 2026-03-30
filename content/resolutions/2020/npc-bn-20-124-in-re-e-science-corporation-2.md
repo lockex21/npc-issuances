@@ -1,13 +1,22 @@
 ---
-title: "NPC BN 20-124: In re: E-Science Corporation"
-description: "NPC BN 20-124: In re: E-Science Corporation"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC BN 20-124
+- npc bn 20-124
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC BN 20-124
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC BN 20-124: In re: E-Science Corporation'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC BN 20-124
@@ -25,29 +34,26 @@ IN RE: E-SCIENCE
 
 CORPORATION
 
-NPC BN 20 -124
-
 x-----------------------------------------x
 
 AGUIRRE , D.P.C.
 
 This Resolution refers to the notification logs submitted by E -
 
-Science Corporation (E -Science) 1 in response to the Or der of this
+Science Corporation (EScience) 1 in response to the Or der of this
 
 Commission for it t o submit the confirmation logs or other proof
 
 that the affected data subjects received the required notification
 
-under NPC Circular 16 -03. 2
+under NPC Circular 1603. 2
 
-The Facts
-
+### Facts
 On 22 Octo ber 2020, this Commission issued a Resolution 3 with
 
 the followi ng disposition, to wit:
 
-WHEREFORE , premises considered, E -Science Corporation
+WHEREFORE , premises considered, EScience Corporation
 
 is ORDERED to submit the confirmation logs or other proof
 
@@ -55,37 +61,34 @@ of receipt in compliance to the Notification of the Data
 
 Subjects within five (5) days from receipt of this Resolution.
 
-Furthermore, having found the Explanation of E -Science
+Furthermore, having found the Explanation of EScience
 
 Corporation sufficient, the Show Cause Order is hereby
 
 considered as a CLOSED matter.
 
-In response to the said Re solution, E -Science submitted a letter
+In response to the said Re solution, EScience submitted a letter
 
 with the subject “ Notification Logs as Compli ance for NPC BN
 
-No. 20 -124 .”4 In its submission, it indicated the notification
+No. 20124 .”4 In its submission, it indicated the notification
 
 message and read status of the data subjects as of 14 December
 
 2020. As to those data subjects who were not able to read the
 
-notification message, E -Science enumerated the follo wing possible
+notification message, EScience enumerated the follo wing possible
 
 reasons thereof:
 
-> 1Letter with the subject “ Notification Logs as compliance for NPC BN 20 -124 subm itted by E -
+> 1Letter with the subject “ Notification Logs as compliance for NPC BN 20124 subm itted by E -
 > Science Corporation .” Dated 14 December 2020 .
-> 2NPC Circular 16 -03. Personal Data Breach Management. Dated 15 December 2016.
-> 3Reso lution dat ed 22 O ctober 2020, In re: E -Science Corporation , NPC BN 20 -124.
+> 2NPC Circular 1603. Personal Data Breach Management. Dated 15 December 2016.
+> 3Reso lution dat ed 22 O ctober 2020, In re: EScience Corporation , NPC BN 20124.
 > 4Supra note 1.
 
-NPC BN 20 -124
+In re: EScience Corporation
 
-In re: E -Science Corporation
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
 > URL: http://privac y.gov.ph Email Address: info@privacy.gov.p h
 
 (a) Resigned employee ;
@@ -102,11 +105,10 @@ Commission’s O rder 6 for it to submit the confirmation logs or
 
 other proof of receipt in compliance with the requirements for
 
-notification of the data subjects under NPC Circular 16 -03 .
+notification of the data subjects under NPC Circular 1603 .
 
-Discussion
-
-Section 18 (C) of NPC Circular 16 -03 provides that:
+### Discussion
+Section 18 (C) of NPC Circular 1603 provides that:
 
 The notification shall include, but not be limited to:
 
@@ -166,11 +168,8 @@ to ensure that all affected data subjects are made
 > 6Supra no te3.
 > 7Emphasis supplied.
 
-NPC BN 20 -124
+In re: EScience Corporation
 
-In re: E -Science Corporation
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
 > URL: http://privac y.gov.ph Email Address: info@privacy.gov.p h
 
 aware of the breach : Provided , that where individual
@@ -197,7 +196,7 @@ rights and obtain more detailed information relating
 
 to the breach. 8
 
-The submissio n made by E -Scienc e to this Commission indicated
+The submissio n made by EScienc e to this Commission indicated
 
 the automated message it sent to the affected data subj ects , thus:
 
@@ -243,20 +242,17 @@ In consider ation of the above information and the large number of
 
 data subjects invol ve d, the Commission finds that the notification
 
-sent by E -Science and proof of its receipt by the affected data
+sent by EScience and proof of its receipt by the affected data
 
 subjects complies with R.A. 10173 or the Data Privacy Act, its
 
-Implementing Rules and Regulations, and NPC Circular 16 -03 .
+Implementing Rules and Regulations, and NPC Circular 1603 .
 
 > 8Emphasis supplied.
 > 9Supra , at note 1.
 
-NPC BN 20 -124
+In re: EScience Corporation
 
-In re: E -Science Corporation
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
 > URL: http://privac y.gov.ph Email Address: info@privacy.gov.p h
 
 WHEREFORE , premises co nsidered, this Commission hereby
@@ -275,15 +271,11 @@ Pas ay City, Philippines
 
 17 Decem ber 20 20 .
 
-Sgd.
-
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 WE CONCUR:
-
-Sgd.
 
 RAYMUND ENRIQUEZ LIBORO
 

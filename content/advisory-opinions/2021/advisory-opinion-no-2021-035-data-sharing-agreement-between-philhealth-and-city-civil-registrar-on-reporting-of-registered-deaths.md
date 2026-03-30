@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-035 — Data Sharing Agreement Between PhilHealth And City Civil Registrar On Reporting Of Registered Deaths"
-description: "'''''''''''''' ''''''''''' ''''' ''''''''''' '''''' ''''''' '''''''''''' ''''''' ''' '''' '''''' ''''''''''' ''''' ''' '''''''''''' ''''''''' '''''''''''''' '''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2021-035 — Data Sharing Agreement Between PhilHealth And City Civil Registrar On Reporting Of Registered Deaths"
+description: "Guidance on data sharing agreement between PhilHealth and city civil registrars for reporting registered deaths, addressing proportionality and data sharing arrangement terms."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,24 +17,13 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                 ADVISORY OPINION NO. 2021-0351
-
  23 September 2021
 
- '''''''''''''' ''''''''''' ''''' '''''''''''
- '''''' ''''''' ''''''''''''
- ''''''' ''' '''' '''''' '''''''''''
- ''''' ''' '''''''''''' ''''''''' ''''''''''''''
- '''''''''''''''''''''''''''''''''
-
-
-
-             RE:      DATA SHARING AGREEMENT BETWEEN PHILHEALTH
+   RE:      DATA SHARING AGREEMENT BETWEEN PHILHEALTH
                       AND CITY CIVIL REGISTRAR ON REPORTING OF
                       REGISTERED DEATHS
 
-Dear '''''''' '''''''''',
+Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) seeking to clarify certain data privacy issues relating to the Memorandum
@@ -43,33 +32,33 @@ of Agreement for Data Sharing (MOA) proposed by Philippine Health Insurance Corp
 
 We understand based on your letter that the proposed MOA states the following:
 
-           “1.1 Through its Office of the Local Civil Registrar, it shall transmit to PhilHealth a (monthly) report of
+   “1.1 Through its Office of the Local Civil Registrar, it shall transmit to PhilHealth a (monthly) report of
            registered deaths within its territorial jurisdiction;
 
-           1.2 The said report shall contain the full names of the deceased and their circumstances such as date of death,
+   1.2 The said report shall contain the full names of the deceased and their circumstances such as date of death,
            place of death, and last known residence of the deceased;
 
-           1.3 Should PhilHealth request for a certified true copy of the certificate of death in line with an investigation,
+   1.3 Should PhilHealth request for a certified true copy of the certificate of death in line with an investigation,
            the LGU shall release the same subject to the payment of corresponding fees;
 
-           1.4 It expressly understands that any and all information gathered, submitted, or otherwise incorporated in
+   1.4 It expressly understands that any and all information gathered, submitted, or otherwise incorporated in
            the database of PhilHealth in the course of this engagement shall be exclusively owned by the Corporation;
            and
 
-           1.5 Any and all information regarding PhilHealth members in relation to an investigation/inquiry, from any
+   1.5 Any and all information regarding PhilHealth members in relation to an investigation/inquiry, from any
            source and in any form (i.e., written, verbal, or electronic) shall be considered as strictly confidential.”
 
 You raised the following concerns relative to the above:
 
-     1. Whether the intended data sharing proposed by the PHIC complies with the provision
+   1. Whether the intended data sharing proposed by the PHIC complies with the provision
 
-1 Tags: registered deaths; death certificate; Local Civil Registrar; PHIC; data sharing; proportionality.
-
-       of the NPC Circular No. 16-02 in relation to the Data Privacy Act of 20122 (DPA);
+   of the NPC Circular No. 16-02 in relation to the Data Privacy Act of 20122 (DPA);
     2. Whether prior consent from the heirs of or next of kin of the data subject (deceased) is
        required for purposes of data sharing; and
     3. Whether the lack of a specific term for the duration of the agreement is contrary to
        NPC Circular No. 16-02.
+
+### Discussion
 
 Criteria for lawful processing
 
@@ -107,7 +96,6 @@ the data protection officer of PHIC as to the specific legal basis for requiring
 report on all registered deaths and whether a limited report of registered deaths for which
 PHIC is conducting investigations as part of its statutory mandate should already suffice.
 
-
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
 Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012],
@@ -133,7 +121,7 @@ the governing rule regarding data sharing.
 On the term or duration of the data sharing arrangement, the current Circular provides as
 follows:
 
-           “D. Term. It specifies the term or duration of the data sharing arrangement which will be
+   “D. Term. It specifies the term or duration of the data sharing arrangement which will be
            based on the continued existence of the purpose/s of such arrangement. Perpetual data
            sharing or DSAs that have indeterminate terms are invalid. Parties are free to renew or
            extend a DSA upon its expiration. The DSA should be subject to the conduct of periodic
@@ -153,13 +141,7 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
-
-
-
 
 9 Id. 9 (D).

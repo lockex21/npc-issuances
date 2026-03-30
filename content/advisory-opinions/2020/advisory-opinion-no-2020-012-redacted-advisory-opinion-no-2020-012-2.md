@@ -1,36 +1,29 @@
 ---
-title: "Redacted-Advisory-Opinion-No.-2020-012"
-description: "'''''''''''''''''''''''''''''''''''''''' ''''''''''''''''''' ''''' '''''''''''' '''''''''''''' ''''''''''''''''' ''''''' ''''''''' ''''''''' ''''''''' '''''''''"
+title: "NPC Advisory Opinion No. 2020-012 — Processing of Personal Data by Third-Party Service Providers"
+description: "Clarifies data privacy requirements and obligations when third-party service providers process personal information on behalf of data controllers."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2020"
+  - issuance
+  - type/advisory-opinion
+  - year/2020
 draft: false
 ---
 
 ## Source
 - Reference: Advisory Opinion No. 2020-012
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-012.pdf
+- Issue date: 02/19/2020
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                        ADVISORY OPINION NO. 2020-0121
 
-  19 February 2020
+****19 February 2020**
 
-  '''''''''''''''''''''''''''''''''''''''' ''''''''''''''''''' ''''' ''''''''''''
-  '''''''''''''' '''''''''''''''''
-  ''''''' ''''''''' ''''''''' '''''''''
-  '''''''''
+**.split("**")[1] + "**
 
-
-
-              RE: DISCLOSURE OF INSURANCE POLICY DETAILS TO THE
+   RE: DISCLOSURE OF INSURANCE POLICY DETAILS TO THE
                   NATIONAL BUREAU OF INVESTIGATION
 
-
-Dear '''''''''''''''''''''''''''''''''''''' ''''''''''''''
+Dear [Redacted],
 
 We write in response to your letter which sought clarification on whether the disclosure
 of insurance policies of several government officials to the National Bureau of
@@ -43,7 +36,7 @@ by the NBI-NCR Regional Director, provided a list of names and dates of birth of
 government officials, and requested for the following details from the Insurance
 Commission (IC):
 
-      1.     List of insurance policies;
+   1.     List of insurance policies;
       2.     Face value;
       3.     Monthly premiums; and
       4.     Corresponding beneficiaries.
@@ -53,17 +46,14 @@ policies issued by insurance companies, it endorsed the request to PLIA for appr
 action. The latter is of the opinion that complying with the NBI request may be a violation
 of the DPA, while the IC submits that there will be no violation as the processing is
 
-
-
-1 Tags: public authority, mandate, lawful processing.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
 Republic Act No. 10173 (2012).
 
 necessary to fulfill the functions of the NBI as a public authority under Section 12 (e) of
 the DPA.
 
-Public authority;           mandate;       investigatory
+### Discussion
+
+#### Public authority;           mandate;       investigatory
 functions of the NBI
 
 The NBI has the mandate to undertake investigation and detection of crimes and offenses
@@ -90,13 +80,13 @@ officials. These constitute personal information, the processing of which should
 accordance with any of the criteria for lawful processing under Section 12 of the DPA.
 Section 12 (e) provides as follows:
 
-         “Section 12. Criteria for Lawful Processing of Personal Information. — The processing of
+   “Section 12. Criteria for Lawful Processing of Personal Information. — The processing of
          personal information shall be permitted only if not otherwise prohibited by law, and
          when at least one of the following conditions exists:
 
-                                                 xxx      xxx       xxx
+   xxx      xxx       xxx
 
-         (e) The processing is necessary in order to respond to national emergency, to comply with
+   (e) The processing is necessary in order to respond to national emergency, to comply with
          the requirements of public order and safety, or to fulfill functions of public authority
          which necessarily includes the processing of personal data for the fulfillment of its
          mandate;” (underscoring supplied)
@@ -128,8 +118,6 @@ information may change the context of the inquiry and the appreciation of the fa
 For your reference.
 
 Very truly yours,
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman

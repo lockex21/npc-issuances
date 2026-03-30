@@ -1,13 +1,22 @@
 ---
-title: "CID BN 18-081: In re: Philippine Seven Corporation"
-description: "CID BN 18-081: In re: Philippine Seven Corporation"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- CID BN 18-081
+- cid bn 18-081
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: CID BN 18-081
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'CID BN 18-081: In re: Philippine Seven Corporation'
 ---
+
+
+
+
 
 ## Source
 - Reference: CID BN 18-081
@@ -25,8 +34,6 @@ IN RE: PHILIPPINE SEVEN
 
 CORPORAT ION (P SC )
 
-CID BN 18 -081
-
 x-----------------------------------------x
 
 NAGA , D.P.C. :
@@ -39,11 +46,11 @@ WHEREFORE , premises considered, PSC is ordered by
 
 this Commission to SUBMIT a full breach report in
 
-compliance with Section 9 of NPC Circular 16 -03,
+compliance with Section 9 of NPC Circular 1603,
 
 including the updates on the proposed remediation
 
-measures and post -breach review by the PSC, within
+measures and postbreach review by the PSC, within
 
 fifteen (15) days from the receipt of this or der.
 
@@ -51,35 +58,30 @@ On 07 August 2020, the PSC through its Data Protection
 
 Officer (DPO) complied with the aforementioned order when it sent
 
-its proposed remediation measures and post -breach review to the
+its proposed remediation measures and postbreach review to the
 
 Commission.
 
-PSC’s post -breach review indicates the following act ions that
+PSC’s postbreach review indicates the following act ions that
 
 were already completed:
 
 > 1. BDD completed the revision of its franchise qualification processes and
 > forms aligned with PSC’s data privacy manual;
-> 2. Re -training of PSC personnel on Data Privacy;
+> 2. Retraining of PSC personnel on Data Privacy;
 > 3. BDD data controller issued a reminder of data privac y compliance
 > immediately after the incident and completed training to BDD personnel
 > on PSC’s data privacy policies and security measures;
 > 4. Information Technology Division (ITD) and BDD reviewed PSC’s email
 > settings and strictly implemented the following:
 
-CID BN 18 -081
-
 In re: PSC
-
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 i. Standard notices in email requesting unintended recipient to alert
 
 the sender and delete the message attachments
 
-ii. 2 -factor authentication for emails
+ii. 2factor authentication for emails
 
 iii. Cascading information on use of the confidential and undo
 
@@ -107,7 +109,7 @@ found t hat the corporation has complied with the order
 
 and resolution of the Commission dated 21 May 2020
 
-and NPC Circular No. 16 -03 on Personal Data Breach
+and NPC Circular No. 1603 on Personal Data Breach
 
 Management.
 
@@ -117,7 +119,7 @@ WHEREFORE, premises considered, the Enforcement
 
 Division respectfully recomm ends to CLOSE the
 
-instant case, CID BN 18 -091 In The Matter Of The
+instant case, CID BN 18091 In The Matter Of The
 
 Philippine Se ven Corporation Data Breach
 
@@ -139,12 +141,10 @@ notification.
 
 Section 20 (f) of the Republic Act No. 10173 or the Data
 
-Privacy Act of 2012 provides: CID BN 18 -081
+Privacy Act of 2012 provides: CID BN 18081
 
 > In re: PSC
 > Page 3of 4
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
 
 “The personal information controll er shall promptly notify
 
@@ -162,7 +162,7 @@ controll er or the Commission believes th at such
 
 unauthorized acquisition is l ikely to give rise”
 
-Further Section 11 of the NPC Circular 16 -03 provides:
+Further Section 11 of the NPC Circular 1603 provides:
 
 “Notification shall be required upon knowledge of or when
 
@@ -188,7 +188,7 @@ notification of the affected data subject will no longer happen.
 
 WHEREFORE , premises considered, it is resolved that the
 
-matter of CID BN 18 -081 “In Re: Philippine Seven Corporation ” is
+matter of CID BN 18081 “In Re: Philippine Seven Corporation ” is
 
 hereby considered CLOSED .
 
@@ -198,26 +198,17 @@ Pasay City, Philippines ;
 
 10 September 20 20 .
 
-(Sgd.)
-
 JOHN HENRY D. NAGA
 
-Deputy Privacy Commissioner CID BN 18 -081
+Deputy Privacy Commissioner CID BN 18081
 
 In re: PSC
 
-> 5th Floor , Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.p h
-
 WE CONCUR:
-
-(Sgd.)
 
 RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner
-
-(Sgd.)
 
 LEANDRO ANGELO Y. AGUIRRE
 

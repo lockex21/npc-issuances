@@ -1,11 +1,17 @@
 ---
 title: "NPC 17-018: EA and TA v. EJ"
-description: "Complaint for unauthorized processing of sensitive personal information (marital status, birth certificates) allegedly obtained without consent; violation of Section 25(b) of the Data Privacy Act found not established where documents were obtained for legitimate purpose of establishing legal claims."
+description: "Complaint for unauthorized processing of sensitive personal information including birth certificates and marriage records; violation of DPA found not established where documents were obtained for the legitimate purpose of establishing legal claims."
+aliases:
+  - "NPC 17-018"
+  - "npc 17-018"
+  - "EA and TA v. EJ"
+  - "ea and ta v. ej"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2019"
+  - "year/2017"
   - "npc-case"
+date: "2019-07-15"
 draft: false
 ---
 
@@ -22,11 +28,13 @@ draft: false
 
 ## Decision Text
 
-EA and TA, complainants, against EJ, EE, and HC, respondents, for violation of Section 25(b) of the Data Privacy Act of 2012.
+EA and TA, Complainants,
 
----
+-versus-
 
-### These Proceedings
+EJ, EE, and HC, Respondents.
+
+x----------------------------------------------------x
 
 For consideration of the Commission is the complaint filed by Complainants EA and TA against Respondents EJ, EE, and HC for Violation of Section 25(b) of the Data Privacy Act of 2012 (DPA).[^1]
 
@@ -180,23 +188,18 @@ This is without prejudice to the filing of appropriate civil, criminal or admini
 
 **SO ORDERED.**
 
----
-
-**LEANDRO ANGELO Y. AGUIRRE**
-
+LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
 Concurring:
 
-**IVY D. PATDU**
-
+IVY D. PATDU
 Deputy Privacy Commissioner
 
-**RAYMUND ENRIQUEZ LIBORO**
-
+RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-Copy Furnished:
+Copy furnished:
 
 EA
 

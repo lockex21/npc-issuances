@@ -1,11 +1,17 @@
 ---
 title: "NPC 18-120: In re: Dyna Drug Corporation"
-description: "Order, 18 April 2022, at 1, in In re: Dyna Drug Corporation, NPC BN 18 -120 (NPC 2022) ."
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC 18-120"
+  - "npc 18-120"
+  - "In re: Dyna Drug Corporation"
+  - "in re: dyna drug corporation"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-08-17"
 draft: false
 ---
 
@@ -21,7 +27,6 @@ draft: false
 - Notification of Data Subjects and Personal Information Controller
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 x----------------------------------------------------x
 
@@ -67,7 +72,6 @@ the data which DDC’s respondents provided through Typeform. 4
 
 NPC BN 18 -120 NPC BN 18 -120
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 04 July 2018, DDC submitted to the NPC its Breach Incident Report
 
@@ -136,7 +140,6 @@ unauthorized access to respondent data and downloaded it.
 
 NPC BN 18 -120
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Typeform responded immediately and fixed the source of the
 
@@ -210,7 +213,6 @@ appropriately notified.
 
 NPC BN 18 -120
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 DYNA DRUG CORPORATION is hereby given a period of
 
@@ -304,7 +306,6 @@ Computer Software and Hardware Maintenance Policy , 17 January 2022, at 1, in In
 
 Corporation, NPC BN 18 -120 (NPC 2022) .NPC BN 18 -120
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 DDC also submitted its Data Privacy Manual which became effective
 
@@ -370,7 +371,6 @@ DDC, to ensure that it promptly and properly notifies its affected data
 
 NPC BN 18 -120
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 subjects of the breach. 29 Further, the Commission has consistently
 
@@ -439,7 +439,6 @@ the requirement under Section 18 (D) of NPC Circular 16 -03 (Personal
 
 NPC BN 18 -120
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Data Breach Management), which provides that n otification of affected
 
@@ -535,7 +534,6 @@ Id.
 
 Id. at 2. NPC BN 18 -120
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 DDC also adopted a Computer Software and Hardware Maintenance
 
@@ -606,7 +604,6 @@ should it outsource the collection of customer survey responses.
 
 NPC BN 18 -120
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 It provided for the appointment of a Data Protection Officer (DPO) to
 
@@ -662,9 +659,7 @@ City of Pasay, Philippines.
 
 NPC BN 18 -120
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -672,13 +667,11 @@ Deputy Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
 
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
-Sgd.
 
 NERISSA N. DE JESUS
 

@@ -1,13 +1,22 @@
 ---
-title: "07-25-2019: MFS vs. RJJ AND SJJ"
-description: "07-25-2019: MFS vs. RJJ AND SJJ"
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2019"
-  - "npc-case"
+aliases:
+- 07-25-2019
+- 07-25-2019
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: 07-25-2019
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2019
+title: '07-25-2019: MFS vs. RJJ AND SJJ'
 ---
+
+
+
+
 
 ## Source
 - Reference: 07-25-2019
@@ -25,7 +34,7 @@ MFS ,
 
 Complainant,
 
-NPC Case No. 17 -003
+NPC Case No. 17003
 
 - versus - For: Violation of Data
 
@@ -57,15 +66,14 @@ purposes, unauthorized access or intentional breach, malicious
 
 disclosure, and combination of series of acts.
 
-The Facts
-
-MFS , through his Attorney -in -Fact GS , alleged in his complaint that
+### Facts
+MFS , through his AttorneyinFact GS , alleged in his complaint that
 
 Respondents RJJ and SJJ made use of their authority or connections to
 
 access sensitive personal information about the credit standing of
 
-complainant, the latter’s husband and mother -in -law.
+complainant, the latter’s husband and motherinlaw.
 
 According to the Complainant, Respondents committed
 
@@ -73,9 +81,9 @@ unauthorized processing of personal information, processing of
 
 personal information for unauthorized purposes, unauthorized
 
-> 1Records, p. 112 -116.
-> 2Id, at pp. 88 -95. Penned by Privacy Commissioner Raymund E. Liboro, with Deputy Privacy
-> Commissioners Ivy Patdu and Leandro Aguirre, concurring. NPC Case No. 17 -003
+> 1Records, p. 112116.
+> 2Id, at pp. 8895. Penned by Privacy Commissioner Raymund E. Liboro, with Deputy Privacy
+> Commissioners Ivy Patdu and Leandro Aguirre, concurring. NPC Case No. 17003
 > MFS v. RJJ et.al.
 > Decision
 > Page 2of 13
@@ -116,7 +124,7 @@ credit information as they emphasized t hat they
 
 are also aware that sh e has a hit in Makati RTC.
 
-On 25 May 2017, this Commission received the Joint -Counter
+On 25 May 2017, this Commission received the JointCounter
 
 Af fidavit of Respondents RJJ and SJJ , which state d in part:
 
@@ -146,7 +154,7 @@ sensitive personal information about credit
 
 standing of BDO’s clients, if any. To be honest,
 
-> 3Page 1, Supplemental Complaint -Affidavit of Complainant. NPC Case No. 17 -003
+> 3Page 1, Supplemental ComplaintAffidavit of Complainant. NPC Case No. 17003
 > MFS v. RJJ et.al.
 > Decision
 > Page 3of 13
@@ -183,7 +191,7 @@ personal details/information since they are not
 
 BDO clients. As per answer of BDO, they are
 
-non -BDO clients.
+nonBDO clients.
 
 7. Thirdly, assuming without admitting that they
 
@@ -223,7 +231,7 @@ system works through my previous affiliations
 
 with banks and 2) my personal knowledge of
 
-their family backgroun d. NPC Case No. 17 -003
+their family backgroun d. NPC Case No. 17003
 
 > MFS v. RJJ et.al.
 > Decision
@@ -253,7 +261,7 @@ On 18 June 2017, Complainant sent an email to
 
 complaints@privacy.gov.ph  with the subject heading “Reply to
 
-Counter -Affidavits of Respondents” which states in part:
+CounterAffidavits of Respondents” which states in part:
 
 1. RJJ has been badgering my mother, for several
 
@@ -301,7 +309,7 @@ affidavit he sent you.
 
 us that she is aware that she signed a second
 
-affidavit that counters her statemen ts prior. NPC Case No. 17 -003
+affidavit that counters her statemen ts prior. NPC Case No. 17003
 
 > MFS v. RJJ et.al.
 > Decision
@@ -373,7 +381,7 @@ Additionally, Complainant provided a Facebo ok Messenger
 
 conversation wit h R JJ dated 10 April 2016 where the latter accused
 
-> 4Primo Miro v. Marilyn Mendoza et al., G.R. Nos. 17253 2 172544 -45, 20 November 2013. NPC Case No. 17 -003
+> 4Primo Miro v. Marilyn Mendoza et al., G.R. Nos. 17253 2 17254445, 20 November 2013. NPC Case No. 17003
 > MFS v. RJJ et.al.
 > Decision
 > Page 6of 13
@@ -439,7 +447,7 @@ in administrative proceedings since the same is applicable only to
 criminal proceedings.
 
 > 5Records, p. 122.
-> 6Ibid. NPC Case No. 17 -003
+> 6Ibid. NPC Case No. 17003
 > MFS v. RJJ et.al.
 > Decision
 > Page 7of 13
@@ -504,9 +512,9 @@ Respondent s accessed data that would show Complainant and his
 
 family are indeed in the negative data bank list.
 
-> 7Primo Miro v. Marilyn Mendoza et al., G.R. Nos. 172532 172544 -45, 20 November 2013.
-> 8Records, pp. 88 -95. Penned by Privacy Commissioner Raymund E. Liboro, with Deputy Privacy
-> Commissioners Ivy Patdu and Leandro Aguirre, concurring. NPC Case No. 17 -003
+> 7Primo Miro v. Marilyn Mendoza et al., G.R. Nos. 172532 17254445, 20 November 2013.
+> 8Records, pp. 8895. Penned by Privacy Commissioner Raymund E. Liboro, with Deputy Privacy
+> Commissioners Ivy Patdu and Leandro Aguirre, concurring. NPC Case No. 17003
 > MFS v. RJJ et.al.
 > Decision
 > Page 8of 13
@@ -551,7 +559,7 @@ Assistant Manager VA , text message exchange with C omplainant
 
 MFS’ mother RS and R espondent RJJ , paragraph 23 of the Joint
 
-Counter -Affidavit of Respondents and the fact that he is not a
+CounterAffidavit of Respondents and the fact that he is not a
 
 depositor of BDO where Respondent SJJ is connected as
 
@@ -575,7 +583,7 @@ following grounds: (a) the damages awarded are excessive; (b) the
 
 evidence is insufficient to justify the decision; or (c) the decision is
 
-contrary to law… A motion for reconsideration based on the NPC Case No. 17 -003
+contrary to law… A motion for reconsideration based on the NPC Case No. 17003
 
 > MFS v. RJJ et.al.
 > Decision
@@ -629,7 +637,7 @@ A motion must comply with Sections 4 and 5 of Rule 15 of the
 
 Rules of Court
 
-Section 32 of NPC Circular 16 -04 states that the Rules of Court shall
+Section 32 of NPC Circular 1604 states that the Rules of Court shall
 
 apply in suppletory character, and whenever practicable and
 
@@ -645,7 +653,7 @@ again, that under the aforementioned rule; mand atory is the
 
 > 9PNB v. Hon. Paneda, et. al., G.R. No. 149236, 14 Feb. 2007.
 > 10 Marikina Valley Development Corporation et. Al. v. Hon. Napoleon Flojo et.al., G.R. No. 11080,
-> 8 December 1995. NPC Case No. 17 -003
+> 8 December 1995. NPC Case No. 17003
 > MFS v. RJJ et.al.
 > Decision
 
@@ -661,7 +669,7 @@ Hence, the same is considered a mere scrap of paper for failure to
 
 comply with the abovementioned rule.
 
-On -site examination under Section 16 of NPC Circular 16 -04 is not
+Onsite examination under Section 16 of NPC Circular 1604 is not
 
 mandatory
 
@@ -677,13 +685,13 @@ pieces of evidence submitted by the parties without undergoing the
 
 requisite investigation undertaken by the investigating officer.
 
-NPC Circular 16 -04 on the Rules of Procedure of the NPC outlines the
+NPC Circular 1604 on the Rules of Procedure of the NPC outlines the
 
 procedure in filing complaints with the NPC. Complainant
 
 specifically raises in issue compliance with Section 16 of NPC
 
-Circular 16 -04, pertinent portions reprodu ced below:
+Circular 1604, pertinent portions reprodu ced below:
 
 Section 16. Investigation; Examination of
 
@@ -697,7 +705,7 @@ data breach. Investigations may include on -
 
 site examination of syst ems and procedures. 12
 
-This Commission is well -aware of its own Rules of Procedure and has
+This Commission is wellaware of its own Rules of Procedure and has
 
 not been remiss in its duties and the service of justice in this case.
 
@@ -708,7 +716,7 @@ determination of the presence or absence of any violation of the DPA
 in this case.
 
 > 11 Marylou Cabrera v. Felix Ng, G.R. No. 2 01601, 12 March 2014.
-> 12 NPC Circular No. 16 -04, Rules of Procedure of the National Privacy Commission. NPC Case No. 17 -003
+> 12 NPC Circular No. 1604, Rules of Procedure of the National Privacy Commission. NPC Case No. 17003
 > MFS v. RJJ et.al.
 > Decision
 
@@ -720,7 +728,7 @@ Complaints and Investigation Division (CID) issued an Order to
 
 Confer for Discovery directing all parties to appear before the
 
-Commission in accordance with Section 13, NPC Circular 16 -04. On
+Commission in accordance with Section 13, NPC Circular 1604. On
 
 15 May 2017, the Discovery Conference Hearing was held at the
 
@@ -736,11 +744,11 @@ Respondent s to file their responsive pleadings and thereafter, the
 
 case will be resolved . This is in full compliance with Section 15 of
 
-NPC Circular 16 -04.
+NPC Circular 1604.
 
 On 5 January 2018, the CID submitted its Investigation Report on
 
-NPC Case No. 17 -003, on the alleged violation of the DPA of herein
+NPC Case No. 17003, on the alleged violation of the DPA of herein
 
 respondents. The said Report recommended for the dismissal of the
 
@@ -768,7 +776,7 @@ Clearly, the CID had properly conducted a substantive examination
 
 and investigation of the case at hand in accorda nce with its mandate
 
-under NPC Circular 16 -04 before submitting its Investigation Report.
+under NPC Circular 1604 before submitting its Investigation Report.
 
 The same Investigation Report was properly considered by this
 
@@ -780,11 +788,11 @@ by C omplainant Salipot that no investigation of the privacy violation
 
 is completely baseless and unfounded.
 
-> 13 Investigator’s Report dated 5 January 2018, In re: NPC Case No. 17 -003 Salipot v Jimenez, p. 6. NPC Case No. 17 -003
+> 13 Investigator’s Report dated 5 January 2018, In re: NPC Case No. 17003 Salipot v Jimenez, p. 6. NPC Case No. 17003
 > MFS v. RJJ et.al.
 > Decision
 
-Th is Commission thus reminds Complainant that the on -site
+Th is Commission thus reminds Complainant that the onsite
 
 examination of systems and procedures is discretionary to the
 
@@ -800,7 +808,7 @@ denotes that it is directory in nature and generally permissive only.” 14
 
 It is the prerogative of the investigating officer whether to conduct an
 
-on -site examination and exercising its option to not undergo one does
+onsite examination and exercising its option to not undergo one does
 
 not, in any way, con note a failure to fulfill its duties and
 
@@ -815,8 +823,6 @@ SO ORDERED.
 Pasay City.
 
 25 July 2019.
-
-(Sgd.)
 
 RAYMUND  ENRIQUEZ  LIBORO
 
@@ -840,7 +846,7 @@ RJJ AND SJJ
 
 Respondents
 
-> 14 Demaala v. COA, G.R. No. 199752, Feb. 17, 2015. NPC Case No. 17 -003
+> 14 Demaala v. COA, G.R. No. 199752, Feb. 17, 2015. NPC Case No. 17003
 > MFS v. RJJ et.al.
 > Decision
 

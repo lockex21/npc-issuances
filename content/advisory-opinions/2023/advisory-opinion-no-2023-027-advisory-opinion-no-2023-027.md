@@ -1,37 +1,33 @@
 ---
-title: "Advisory Opinion No. 2023-027"
-description: "Re: EMPLOYER’S DATA PRIVACY OBLIGATIONS CONCERNING ITS FINANCIAL SERVICES BENEFIT TO ITS EMPLOYEES."
+title: "NPC Advisory Opinion No. 2023-027 — Employer’s Data Privacy Obligations Concerning Financial Services Benefits to Employees"
+description: "Advisory Opinion on employer’s data privacy obligations concerning its financial services benefit to its employees."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+  - issuance
+  - type/advisory-opinion
+  - year/2023
 draft: false
 ---
 
 ## Source
 - Reference: Advisory Opinion No. 2023-027
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/Advisory-Opinion-No.-2023-027.pdf
+- Issue date: 09/01/2023
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                               ADVISORY OPINION NO. 2023-0271
 
 29 December 2023
 
-
-
-
-            Re: EMPLOYER’S   DATA    PRIVACY    OBLIGATIONS
+   Re: EMPLOYER’S   DATA    PRIVACY    OBLIGATIONS
             CONCERNING ITS FINANCIAL SERVICES BENEFIT TO ITS
             EMPLOYEES.
 
-
-Dear             :
-
+Dear [Redacted],
 We respond to your request for an Advisory Opinion on the obligations of Infosys BPM
 Philippines’ (IBPM) under the Data Privacy Act of 2012 (DPA) 2 concerning the financial services
 benefit it desires to extend to its employees.
+
+### Discussion
 
 You state that IBPM is a business process management company. IBPM intends to partner with
 Templetech Finance Corp (TendoPay) for the provision of financial services to IBPM employees,
@@ -121,17 +117,11 @@ Any extraneous fact that may be subsequently furnished us may affect our present
 Note that this communication is not intended to adjudicate the rights and obligations of the
 parties involved.
 
-
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
-
-
-
 
 5 Data Privacy Act of 2012, § 20 and § 25.
 6 Id. § 21.

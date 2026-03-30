@@ -1,17 +1,18 @@
 ---
 title: "Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras (Circular No. 2025-01)"
-description: "SUBJECT : GUIDELINES ON THE PROCESSING OF PERSONAL DATA COLLECTED USING BODY-WORN CAMERAS"
+description: "Establishes protocols for personal information controllers and processors using body-worn cameras and alternative recording devices to protect data subjects' personal data and data privacy rights."
 aliases:
   - "Circular No. 2025-01"
   - "circular no. 2025-01"
   - "guidelines on the processing of personal data collected using body-worn cameras"
   - "npc circular no. 2025-01"
 tags:
-  - "issuance"
-  - "topic/cctv-surveillance"
-  - "type/circular"
-  - "year/2025"
+  - issuance
+  - topic/cctv-surveillance
+  - type/circular
+  - year/2025
 draft: false
+date: '2025-05-26'
 ---
 
 ## Issuance Text
@@ -179,8 +180,6 @@ Privacy Commissioner
 SGD.                                                   SGD.
 NERISSA N. DE JESUS                        JOSE AMELITO S. BELARMINO II
 Deputy Privacy Commissioner                Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: See: National Privacy Commission, *KEC v. JMP* [NPC 19-764] (November 11, 2021); and Data Protection Working Party, *Statement of the Working Party on current discussions regarding the data protection reform package*, Annex 2, Proposals for Amendments regarding exemption for personal or household activities (2013).
 

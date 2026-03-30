@@ -1,45 +1,32 @@
 ---
-title: "Redacted-Advisory-Opinion-No.-2020-031"
-description: "'''''''''''''''''''' '''''' '''''''''''''''''''''''''''''''''' '''''''''''' '''''''''''' '''''''''' ''''''''' ''''''''''''' ''''''' '''''''''''''' ''''''''' ''''''''' '''''''' '''''' ''''''''''''' '''''' '''''''''' ''''''''''''''''' ''''''''' ''''''''..."
+title: "NPC Advisory Opinion No. 2020-031 — Access to Files and Records of Anti-Illegal Drugs Operations of the Philippine Drug Enforcement Agency"
+description: "Access to files and records of anti-illegal drugs operations by the Philippine Drug Enforcement Agency."
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
 draft: false
 ---
-
 ## Source
 - Reference: Advisory Opinion No. 2020-031
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-031.pdf
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                       ADVISORY OPINION NO. 2020-0311
 
-  6 August 2020
-
-  '''''''''''''''''''' '''''' '''''''''''''''''''''''''''''''''' '''''''''''' ''''''''''''
-  '''''''''' '''''''''
-  ''''''''''''' ''''''' '''''''''''''' '''''''''
-  ''''''''' '''''''' '''''' ''''''''''''' ''''''
-  '''''''''' ''''''''''''''''' ''''''''' '''''''' ''''''''''''' ''''''''' ''''''
-  ''''''''''''''''''''''
-
-
-
-              RE:        ACCESS TO FILES AND RECORDS OF ANTI-ILLEGAL
+Re:        ACCESS TO FILES AND RECORDS OF ANTI-ILLEGAL
                          DRUGS OPERATIONS OF THE PHILIPPINE DRUG
                          ENFORCEMENT AGENCY
 
-
-Dear '''''''''''''''''''''''' ''''''''''''''''''''''' '''''''''''''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your letter which sought the opinion of the National Privacy
 Commission (NPC) on whether the request for access by the Inter-Agency Review Panel, and
 the Department of Justice (DOJ) Panel of Prosecutors as stated in your letter, to files and
 records involving negation operations of the Philippine Drug Enforcement Agency (PDEA) is
 allowed under the Data Privacy Act of 20122 (DPA).
+
+### Discussion
 
 DOJ; Inter-Agency Review Panel; public authority
 
@@ -50,9 +37,6 @@ prosecuting offenders, and overseeing the correctional system.4
 
 In particular, Section 90 of Republic Act No. 9165 as amended, otherwise known as the
 Comprehensive Dangerous Drugs Act of 20025 (CDDA) provides that:
-
-1 Tags: lawful processing of personal data; special cases; public authority; mandate.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
 
 the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [Data Privacy Act of
 2012], Republic Act No. 10173 (2012).
@@ -67,15 +51,15 @@ Chapter 1-General Provisions (1987).
 as the Dangerous Drugs Act of 1972, As Amended, Providing Funds Therefor, and for other purposes [The Comprehensive
 Dangerous Drugs Act of 2002] Republic Act No. 9165 (2002).
 
-         Section 90. Jurisdiction. – The Supreme Court shall designate special courts from among
+   Section 90. Jurisdiction. – The Supreme Court shall designate special courts from among
          the existing Regional Trial Courts in each judicial region to exclusively try and hear cases
          involving violations of this Act. The number of courts designated in each judicial region
          shall be based on the population and the number of cases pending in their respective
          jurisdiction.
 
-                                                   xxx       xxx       xxx
+   xxx       xxx       xxx
 
-         The DOJ shall designate special prosecutors to exclusively handle cases involving
+   The DOJ shall designate special prosecutors to exclusively handle cases involving
          violations of this Act. (underscoring supplied).
 
 From the above, the DOJ is a public authority mandated by the law to investigate the
@@ -110,30 +94,30 @@ The processing of personal and sensitive personal information (collectively, per
 the DOJ and the Panel finds support in the DPA, specifically Sections 12 and 13 thereof
 providing the criteria for lawful processing, to wit:
 
-         Section 12. Criteria for Lawful Processing of Personal Information. – The processing of
+   Section 12. Criteria for Lawful Processing of Personal Information. – The processing of
          personal information shall be permitted only if not otherwise prohibited by law, and
          when at least one of the following conditions exists:     xxx     xxx    xxx
 
-         (e) The processing is necessary in order to respond to national emergency, to comply with
+   (e) The processing is necessary in order to respond to national emergency, to comply with
          the requirements of public order and safety, or to fulfill functions of public authority
 
 6 Department of Justice letter addressed to the PDEA dated 17 July 2020, attached to the PDEA letter request.
 7 Id.
 
-         which necessarily includes the processing of personal data for the fulfillment of its
+   which necessarily includes the processing of personal data for the fulfillment of its
          mandate.       xxx     xxx     xxx
 
-         Section 13. Sensitive Personal Information and Privileged Information. – The processing of
+   Section 13. Sensitive Personal Information and Privileged Information. – The processing of
          sensitive personal information and privileged information shall be prohibited, except in
          the following cases:      xxx     xxx     xxx
 
-         (b) The processing of the same is provided for by existing laws and regulations: Provided,
+   (b) The processing of the same is provided for by existing laws and regulations: Provided,
          That such regulatory enactments guarantee the protection of the sensitive personal
          information and the privileged information: Provided, further, That the consent of the
          data subjects are not required by law or regulation permitting the processing of the
          sensitive personal information or the privileged information.      xxx     xxx      xxx
 
-         (f) The processing concerns such personal information as is necessary for the protection
+   (f) The processing concerns such personal information as is necessary for the protection
          of lawful rights and interests of natural or legal persons in court proceedings, or the
          establishment, exercise or defense of legal claims, or when provided to government or
          public authority.(underscoring supplied)
@@ -163,12 +147,8 @@ For your reference.
 
 Very truly yours,
 
-
-
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
-
-
 
 8 Department of Justice letter addressed to the PDEA dated 17 July 2020, attached to the PDEA letter request.
 9 See: National Privacy Commission, NPC Advisory Opinion No. 2019-040 (Oct. 17, 2019), citing National Privacy

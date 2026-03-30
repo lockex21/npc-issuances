@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2021-012 — Documentary Requirements For Accreditation As Financial Institution"
-description: "'''''''''''''' ''''''''''''''''''''' ''''' ''''''''''''''' '''''''''''' ''''''''''' ''''''''''' ''''''''' '''''''' ''''''''''' ''''' ''''''' '''''''''''''''' ''''' ''''' ''''''''' '''''''''' ''''''' '''''''''' '''''' ''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2021-012 — Documentary Requirements For Accreditation As Financial Institution"
+description: "A savings and loan association requested clarification on whether it can furnish documents (CRI, billing reports, summary list of borrower-members) to the PNP without violating the Data Privacy Act. This opinion addresses lawful bases for processing personal information in financial institution accreditation contexts."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -17,21 +17,11 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                    ADVISORY OPINION NO. 2021-0121
+**16 April 2021**
 
-    16 April 2021
+Re: DOCUMENTARY REQUIREMENTS FOR ACCREDITATION AS FINANCIAL INSTITUTION
 
-    '''''''''''''' ''''''''''''''''''''' ''''' ''''''''''''''' '''''''''''' '''''''''''
-    ''''''''''' ''''''''' '''''''' ''''''''''' ''''' ''''''' '''''''''''''''' '''''
-    ''''' ''''''''' '''''''''' ''''''' '''''''''' ''''''
-    ''''''''''''''''''''''''''''''''
-
-
-              Re:      DOCUMENTARY REQUIREMENTS FOR ACCREDITATION
-                       AS FINANCIAL INSTITUTION
-
-Dear '''''''''''''' ''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for assistance and clarification received by the National
 Privacy Commission (NPC) on matters relating to the application of the Public Safety Savings
@@ -49,27 +39,23 @@ Computations of Loans such as principal amount, date of grant of loan, mode of
 payment/terms, interest and other charges, effectivity of first billing, and maturity.
 
 However, the PSSLAI did not submit the abovementioned requirements invoking the Data
-Privacy Act of 20122 (DPA) and bank secrecy laws.
+Privacy Act of 2012[^2] (DPA) and bank secrecy laws.
 
 You now seek clarification on whether the PSSLAI can furnish copies of the said documents
 to the PNP without violating the provisions of the DPA, its Implementing Rules and
 Regulations (IRR) and other relevant issuances of the NPC.
 
-Public Safety Savings and Loan Association, Inc.
+### Discussion
 
-1
-  Tags: scope; lawful criteria for processing; public authority; law or regulation; general data privacy principles; confidentiality; loans;
-deposits.
-  An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector,
+#### Public Safety Savings and Loan Association, Inc.
 
 We understand that the PSSLAI is a non-stock savings and loan association (NSSLA) founded
 to uphold the best interest of the public safety sector, specifically dedicated to serving the
-members of the PNP and the Bureau of Fire Protection (BFP).3 The PSSLAI offers loans and
-other investment opportunities.4 It is under the regulatory supervision of the Bangko Sentral
-ng Pilipinas (BSP).5
+members of the PNP and the Bureau of Fire Protection (BFP).[^3] The PSSLAI offers loans and
+other investment opportunities.[^4] It is under the regulatory supervision of the Bangko Sentral
+ng Pilipinas (BSP).[^5]
 
-Scope; Data Privacy Act of 2012; personal information;
-lawful basis for processing
+#### Scope; Data Privacy Act of 2012; personal information; lawful basis for processing
 
 We wish to clarify that the DPA only applies to the processing of personal information. Section
 3 (g) thereof defines personal information as any information from which the identity of an
@@ -107,42 +93,33 @@ the procedures and effective control measures in the accreditation of financial 
 likewise note the relevant provisions in PNP Memorandum Circular No. 2014-45 on
 documentary requirements, viz:
 
-             “IV. Policies/Guidelines                   xxx        xxx        xxx
+   “IV. Policies/Guidelines                   xxx        xxx        xxx
 
-
-
-3
-  Public Safety Savings and Loan Associations, Inc. About Us, Available At: Https://Www.Psslai.Com/Company-Information/ (last Accessed
-13 April 2021).
-  Id.
-  Bangko Sentral ng Pilipinas, Financial Stability - Directories And Lists, Directory Of Banks And Non-Bank Financial Institutions, Available
-At Https://Www.Bsp.Gov.Ph/Sitepages/Financialstability/Dirbanksfilist.Aspx (last Accessed 16 April 2021).
-
-                 b.    Procedures
+   b.    Procedures
                        The Committee shall require the Financial Institutions/Entities to submit the
                        following documents in their application for accreditation and/or renewal of
                        accreditation:       xxx      xxx     xxx
 
-                       5.   In addition to the aforementioned documentary requirements, all
+   5.   In addition to the aforementioned documentary requirements, all
                             applicants for accreditation shall submit certified true copy of the following
                             documents:
 
-                            5.a For new applicants' accreditation:
+   5.a For new applicants' accreditation:
                                5.a.1 Letter Request;
-                               5.a.2 Copy of Credited Redemption Insurance;
-                               5.a.3 Updated Audited Financial Statements;
-                               5.a.4 Summary list of PNP borrowers-members which includes Billing
+                               5.a.[^2] Copy of Credited Redemption Insurance;
+                               5.a.[^3] Updated Audited Financial Statements;
+                               5.a.[^4] Summary list of PNP borrowers-members which includes Billing
                                Reports containing therein are Schedule of Computations of Loans such
                                as Principal amount, date of loan granted, mode of payment/terms,
                                interest and other charges, effectivity of 1st billing, and maturity;
-                               5.a.5 Copy of the Loan Release Vouchers, Promissory Note/Policy
+                               5.a.[^5] Copy of the Loan Release Vouchers, Promissory Note/Policy
                                Contract signed by PNP members;
                                5.a.6 List of Planholders (for insurance company), which includes
                                amount of premium, effectivity, and maturity date of policy contract;
                                and
                                5.a.7 At least 500 memberships.
 
-                            5.b For renewal of accreditation, submit the same requirements stated in
+   5.b For renewal of accreditation, submit the same requirements stated in
                             para 5.a except item 5.a.5.”
 
 We understand that these Memorandum Circulars were issued by the Chief of the PNP in the
@@ -184,7 +161,7 @@ list and other details, the PSSLAI may run the risk of violating bank secrecy la
 that Section 6 of RA No. 8367 or the Revised Non-Stock Savings Loan Association Act of 19977
 provides as follows:
 
-          “Section 6. Prohibition against inquiry into or disclosure of deposits. – All deposits of
+   “Section 6. Prohibition against inquiry into or disclosure of deposits. – All deposits of
           whatever nature with an Association in the Philippines are hereby considered as of an
           absolutely confidential nature and may not be examined, inquired or looked into by any
           person, government official, bureau or office, except upon written permission of the
@@ -195,7 +172,7 @@ provides as follows:
 The above-quoted provision must be read together with RA No. 3591 or the Philippine
 Deposit Insurance Law, as amended by RA No. 10846, which defines deposits as:
 
-          “(g) The term deposit means the unpaid balance of money or its equivalent received by
+   “(g) The term deposit means the unpaid balance of money or its equivalent received by
           a bank in the usual course of business and for which it has given or is obliged to give
           credit to a commercial, checking, savings, time or thrift account, evidenced by a passbook,
           certificate of deposit, or other evidence of deposit issued in accordance with Bangko
@@ -217,10 +194,10 @@ No. 8367.
 In addition, the BSP Manual of Regulations for Non-Bank Financial Institutions8 (MORNBFI)
 provides:
 
-          “Sec. 4312S Confidentiality of Information. NSSLAs shall keep strictly confidential the
+   “Sec. 4312S Confidentiality of Information. NSSLAs shall keep strictly confidential the
           data on the borrower or consumer, except under the following circumstances:
 
-          a.   disclosure of information is with the consent of the borrower or consumer;
+   a.   disclosure of information is with the consent of the borrower or consumer;
           b.   release, submission or exchange of customer information with other financial
                institutions, credit information bureaus, lenders, their subsidiaries and affiliates;
           c.   upon orders of court of competent jurisdiction or any government office or agency
@@ -232,7 +209,7 @@ Stock Savings and Loan Association Act of 1997], Republic Act No. 8367 (1997).
     Bangko Sentral ng Pilipinas, Manual of Regulations for Non-Bank Financial Institutions, available at
 https://www.bsp.gov.ph/Regulations/MORB/2016_01MORNBFI2.pdf (last accessed 17 April 2021).
 
-             d. disclosure to collection agencies, counsels and other agents of the NSSLA to enforce
+   d. disclosure to collection agencies, counsels and other agents of the NSSLA to enforce
                 its rights against the borrower;
              e. disclosure to third party service providers solely for the purpose of assisting or
                 rendering services to the NSSLA in the administration of its lending business; and
@@ -251,18 +228,18 @@ Consequently, the disclosure of the summary list of the names of the member-borr
 the latter’s billing reports may be allowed under the MORNBFI. However, we defer to the
 BSP on matters involving the proper interpretation of the above provisions of the MORNBFI.
 
-Advisory Opinions as guidance
+#### Advisory Opinions as guidance
 
 Finally, we take this opportunity to clarify the advisory functions of the NPC. In your letter,
 we noted that one of the actions requested of the Commission is to authorize PSSLAI to submit
 to the PNP the required documents.
 
 We wish to emphasize the provisions on NPC Circular No. 18-01 – Rules of Procedure on
-Requests for Advisory Opinions,9 that the advisory opinions of the NPC provide guidance to
+Requests for Advisory Opinions,[^9] that the advisory opinions of the NPC provide guidance to
 the requesting party and the general public on matters relating to the interpretation of the
 provisions of the DPA, its IRR, and NPC issuances, compliance requirements, enforcement of
 data privacy laws and regulations, and other related matters on personal data privacy,
-security, and protection.10
+security, and protection.[^10]
 
 As such, an advisory opinion does not operate to provide any authorization or clearance to
 process personal information. These are left to the sound determination of PICs, taking into
@@ -276,12 +253,12 @@ For your reference.
 
 Very truly yours,
 
-
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-
-
-    Id. § 5 (a).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: Public Safety Savings and Loan Associations, Inc. About Us, available at https://www.psslai.com/company-information/ (last accessed 13 April 2021).
+[^4]: *Id.*
+[^5]: Bangko Sentral ng Pilipinas, Financial Stability - Directories and Lists, Directory Of Banks and Non-Bank Financial Institutions, available at https://www.bsp.gov.ph/Sitepages/Financialstability/Dirbanksfilist.Aspx (last accessed 16 April 2021).
+[^9]: National Privacy Commission, NPC Circular No. 18-01, Rules of Procedure on Requests for Advisory Opinions.
+[^10]: *Id.* § 5 (a).

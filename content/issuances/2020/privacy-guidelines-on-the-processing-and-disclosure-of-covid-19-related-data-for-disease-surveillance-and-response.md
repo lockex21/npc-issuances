@@ -1,17 +1,18 @@
 ---
-title: "Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response (Memorandum Circular No. 2020-9002)"
-description: "SUBJECT: Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response"
+title: "Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response (Advisory No. 2020-02)"
 aliases:
-  - "Memorandum Circular No. 2020-9002"
-  - "memorandum circular no. 2020-9002"
-  - "npc memorandum circular no. 2020-9002"
-  - "privacy guidelines on the processing and disclosure of covid-19 related data for disease surveillance and response"
+- Memorandum Circular No. 2020-9002
+- memorandum circular no. 2020-9002
+- npc memorandum circular no. 2020-9002
+- privacy guidelines on the processing and disclosure of covid-19 related data for
+  disease surveillance and response
 tags:
-  - "issuance"
-  - "topic/cctv-surveillance"
-  - "type/memorandum-circular"
-  - "year/2020"
+- issuance
+- topic/cctv-surveillance
+- type/memorandum-circular
+- year/2020
 draft: false
+date: '2020-04-14'
 ---
 
 ## Issuance Text

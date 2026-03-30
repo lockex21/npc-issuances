@@ -1,6 +1,6 @@
 ---
-title: "Redacted-Advisory-Opinion-No.-2020-041"
-description: "30 October 2020 ''''''''''''' ''''' ''''''''''''''''''''''''''' ''''' ''''' '''' '''''''''''''' '''''' '''''''''''' ''''''''''''''''' '''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2020-041 — Legality of Spamming and Its Effects on Data Privacy"
+description: "Guidance on the legal status of unsolicited commercial communications and their effects on data privacy rights in light of the Cybercrime Prevention Act and the Supreme Court decision in Disini."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,24 +11,17 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2020-041
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-041.pdf
+- Issue date: 30/10/2020
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                      ADVISORY OPINION NO. 2020-0411
 
  30 October 2020
- ''''''''''''' ''''' '''''''''''''''''''''''''''
- ''''' ''''' '''' '''''''''''''' '''''' ''''''''''''
- '''''''''''''''''
- ''''''''''''''''''''''''''''''''''
- '''''''''''''''''''''''''''''''''''''
 
-
-                   Re: LEGALITY OF SPAMMING AND ITS EFFECTS ON DATA
+   Re: LEGALITY OF SPAMMING AND ITS EFFECTS ON DATA
                        PRIVACY
 
-Dear '''''''' ''''''''''''''' '''''''''''''''''''''''''''''
+Dear [Redacted],
 
 We write in response to your request for an Advisory Opinion received by the National
 Privacy Commission (NPC) to provide clarification and guidance on the legality of spamming
@@ -36,55 +29,54 @@ given the provisions of the Cybercrime Prevention Act of 2012, Philippine Suprem
 decision in Disini, Jr. vs. Secretary of Justice and the different views of government and private
 entities on spamming.
 
+### Discussion
+
 In your letter, extensively outlined are the following laws, Philippine Supreme Court
 decisions, and issuances from different government agencies relative to spamming:
 
-      •      Republic Act No. 10175 or otherwise known as the Cybercrime Prevention Act of 2012
+   •      Republic Act No. 10175 or otherwise known as the Cybercrime Prevention Act of 2012
              which states in Section 4 on Cybercrime Offenses particularly:
 
-                    Sec. 4. Cybercrime Offenses. — The following acts constitute the offense of
+   Sec. 4. Cybercrime Offenses. — The following acts constitute the offense of
                     cybercrime punishable under this Act:
 
-                                                                     xxx   xxx   xxx
+   xxx   xxx   xxx
 
-                    (c) Content-related Offenses:
+   (c) Content-related Offenses:
 
-                                                                     xxx   xxx   xxx
+   xxx   xxx   xxx
 
-                    (3) Unsolicited Commercial Communications. — The transmission of commercial
+   (3) Unsolicited Commercial Communications. — The transmission of commercial
                     electronic communication with the use of computer system which seek to
                     advertise, sell, or offer for sale products and services are prohibited unless:
 
-                            (i)     There is prior affirmative consent from the recipient; or
-
-
-1 Tags: disclosure of beneficiary data; education sector; lawful criteria for processing; government agency; mandate; legitimate
+   (i)     There is prior affirmative consent from the recipient; or
 
 purpose; proportionality; data sharing agreement.
 
-                    (ii) The primary intent of the communication is for service and/or
+   (ii) The primary intent of the communication is for service and/or
                          administrative announcements from the sender to its existing users,
                          subscribers or customers; or
 
-                    (iii) The following conditions are present:
+   (iii) The following conditions are present:
 
-                          (aa) The commercial electronic communication contains a simple, valid,
+   (aa) The commercial electronic communication contains a simple, valid,
                           and reliable way for the recipient to reject. receipt of further commercial
                           electronic messages (opt-out) from the same source;
 
-                          (bb) The commercial electronic communication does not purposely
+   (bb) The commercial electronic communication does not purposely
                           disguise the source of the electronic message; and
 
-                          (cc) The commercial electronic communication does not purposely
+   (cc) The commercial electronic communication does not purposely
                           include misleading information in any part of the message in order to
                           induce the recipients to read the message.
 
-    •    In the 2014 case of Disini, Jr. vs. Secretary of Justice,2 the Philippine Supreme Court, in
+   •    In the 2014 case of Disini, Jr. vs. Secretary of Justice,2 the Philippine Supreme Court, in
          ruling Section 4 (c) (3) of the Cybercrime Prevention Act of 2012 as unconstitutional,
          stated that unsolicited commercial communications or spams are legitimate forms of
          expression, viz:
 
-               “But, firstly, the government presents no basis for holding that unsolicited
+   “But, firstly, the government presents no basis for holding that unsolicited
                electronic ads reduce the "efficiency of computers." Secondly, people, before the
                arrival of the age of computers, have already been receiving such unsolicited ads
                by mail. These have never been outlawed as nuisance since people might have
@@ -92,7 +84,7 @@ purpose; proportionality; data sharing agreement.
                opening or reading these mail ads. That is true with spams. Their recipients
                always have the option to delete or not to read them.
 
-               To prohibit the transmission of unsolicited ads would deny a person the right to
+   To prohibit the transmission of unsolicited ads would deny a person the right to
                read his emails, even unsolicited commercial ads addressed to him. Commercial
                speech is a separate category of speech which is not accorded the same level of
                protection as that given to other constitutionally guaranteed forms of expression
@@ -100,16 +92,13 @@ purpose; proportionality; data sharing agreement.
                without violating the constitutionally guaranteed freedom of expression.
                Unsolicited advertisements are legitimate forms of expression.”3
 
-    •    The Bangko Sentral ng Pilipinas (BSP), in its Memorandum No. M-2015-017, 4
+   •    The Bangko Sentral ng Pilipinas (BSP), in its Memorandum No. M-2015-017, 4
          reminded the banks and its affiliates and subsidiaries about the prohibition against
          push messages or unsolicited text messages. The Memorandum cites the National
          Telecommunication Commission (NTC) Circulars issued in 2005 and 2009.5
 
 You stated in your letter that you further made an examination on the country’s biggest ISP
 and Telecommunication providers’ policies which reveal they all prohibit spamming.
-
-
-
 
 2 Disini, Jr. v. Secretary of Justice, G.R. Nos. 203335, 203299, 203306, 203359, 203378, 203391, 203407, 203440, 203453,
 
@@ -124,10 +113,10 @@ Memorandum Circular 04-07-2009 (July 4, 2009).
 
 Thus, you now seek the Commission’s opinion and stand on the following:
 
-    1. What is the clear unequivocal position of the NPC with respect to the legality or
+   1. What is the clear unequivocal position of the NPC with respect to the legality or
        illegality of spamming?
 
-    2. What are the disadvantages of spamming on the data privacy rights and digital
+   2. What are the disadvantages of spamming on the data privacy rights and digital
        identities of Philippine netizens?
 
 Legality of unsolicited commercial communications
@@ -167,7 +156,6 @@ valid legal ground for processing under Section 12 or 13 of the DPA, where appro
 effectively become personal information controllers (PICs) who must uphold data subject’s
 rights and fulfill specific requirements on security measures for the protection of personal
 data laid down by the law and its IRR.
-
 
 6 An Act to Ordain and Institute the Civil Code of the Philippines, [CIVIL CODE OF THE PHILIPPINES], Republic Act No. 386,
 
@@ -209,8 +197,6 @@ does not adjudicate issues between parties nor impose any sanctions or award dam
 For your reference.
 
 Very truly yours,
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner

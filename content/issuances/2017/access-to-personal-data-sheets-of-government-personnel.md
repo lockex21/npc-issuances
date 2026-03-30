@@ -1,17 +1,18 @@
 ---
 title: "Access to Personal Data Sheets of Government Personnel (Advisory No. 2017-02)"
-description: "SUBJECT: Access to Personal Data Sheets of Government Personnel"
+description: "Provides guidance on access to personal data sheets of government personnel, balancing the right to information with the right to privacy."
 aliases:
-  - "Advisory No. 2017-02"
-  - "access to personal data sheets of government personnel"
-  - "advisory no. 2017-02"
-  - "npc advisory no. 2017-02"
+- "Advisory No. 2017-02"
+- "access to personal data sheets of government personnel"
+- "advisory no. 2017-02"
+- "npc advisory no. 2017-02"
 tags:
-  - "issuance"
-  - "topic/government"
-  - "type/advisory"
-  - "year/2017"
+- issuance
+- topic/government
+- type/advisory
+- year/2017
 draft: false
+date: '2017-04-03'
 ---
 
 ## Issuance Text
@@ -101,8 +102,6 @@ Deputy Privacy Commissioner
 SGD.
 DAMIAN DOMINGO O. MAPA
 Deputy Privacy Commissioner
-
-## Footnotes
 
 [^1]: 1987 Constitution, Article III, §7.
 [^2]: Rule VI, §6.

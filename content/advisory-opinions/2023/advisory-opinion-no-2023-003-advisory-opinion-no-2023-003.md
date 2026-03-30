@@ -1,10 +1,12 @@
 ---
-title: "Advisory-Opinion-No.-2023-003"
-description: "Re: DISCLOSURE OF PROPERTY INFORMATION THROUGH THE LAND REGISTRATION AUTHORITY’S GEO-SPATIAL QUERY SERVICE"
+title: NPC Advisory Opinion No. 2023-003 — Disclosure of Property Information Through
+  the Land Registration Authority’s Geo-spatial Query Service
+description: 'Re: DISCLOSURE OF PROPERTY INFORMATION THROUGH THE LAND REGISTRATION
+  AUTHORITY’S GEO-SPATIAL QUERY SERVICE'
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+- issuance
+- type/advisory-opinion
+- year/2023
 draft: false
 ---
 
@@ -14,23 +16,18 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                              ADVISORY OPINION NO. 2023-0031
 
  18 January 2023
 
+Re:     DISCLOSURE OF PROPERTY INFORMATION THROUGH THE LAND REGISTRATION AUTHORITY’S GEO-SPATIAL QUERY SERVICE
 
-
-
-          Re:     DISCLOSURE OF PROPERTY INFORMATION THROUGH
-                  THE LAND REGISTRATION AUTHORITY’S GEO-SPATIAL
-                  QUERY SERVICE
-
-Dear
+Dear [Redacted],
 
 We respond to your request for clarification on the legality of providing government and
 private sector clients with information on titled properties using the Land Registration
 Authority’s (LRA) Geo-spatial Query Service (GQS).
+
+### Discussion
 
 We understand that the GQS is a service offered by the LRA primarily to other government
 agencies. The GQS provides information on titled properties, particularly when the requesting
@@ -45,13 +42,7 @@ undertaking government infrastructure projects.
 You thus ask if the LRA can legally provide the information mentioned above to the
 requesting entity, specifically to the private sector.
 
-Scope of the DPA; lawful basis for processing;
-legal obligation; fulfillment of mandate.
-
-
-
-
-1 Tags: personal data; lawful processing; titled lands; public authority mandate; legal obligation.
+### Scope of the Dpa; Lawful Basis for Processing Legal Obligation; Fulfillment of Mandate.
 
 At the outset, we wish to clarify that the Data Privacy Act of 2012 (DPA)2 only applies to the
 processing of personal data of natural persons, and not to information concerning juridical
@@ -63,23 +54,23 @@ may be allowed under Section 12 of the DPA. In particular, if the request is mad
 government entity, the disclosure of the name of the registered owner may be based on
 Section 12 (c) and (e) of the DPA, to wit:
 
-       SEC. 12. Criteria for Lawful Processing of Personal Information. – The
+   SEC. 12. Criteria for Lawful Processing of Personal Information. – The
        processing of personal information shall be permitted only if not otherwise
        prohibited by law, and when at least one of the following conditions exists:
 
-                                                               xxx
+   xxx
 
-       (c) The processing is necessary for compliance with a legal obligation to which
+   (c) The processing is necessary for compliance with a legal obligation to which
        the personal information controller is subject;
 
-                                                               xxx
+   xxx
 
-       (e) The processing is necessary in order to respond to national emergency, to
+   (e) The processing is necessary in order to respond to national emergency, to
        comply with the requirements of public order and safety, or to fulfill functions
        of public authority which necessarily includes the processing of personal data
        for the fulfillment of its mandate;
 
-       (Underscoring supplied).
+   (Underscoring supplied).
 
 The DPA is not intended to hinder government agencies from fulfilling their respective
 mandates and legal obligations. Government entities, such as the DPWH, are tasked to deliver
@@ -89,13 +80,10 @@ deliver on its mandate effectively. Be that as it may, while the DPWH may have l
 process personal data, it is still required to ensure that its mandate supports the particular
 processing involved, and that it is accomplished within the limits of such mandate.
 
-Disclosure to private entities; compliance with a
-legal obligation; proportionality.
+### Disclosure to Private Entities; Compliance with a Legal Obligation; Proportionality.
 
 As mentioned in your letter, the GQS is now offered to private entities undertaking
 government infrastructure projects. These private entities may likewise rely on Section 12 (c)
-
-
 
 2 An Act Protecting Individual Personal Information in Information and Communications Systems in the
 Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other
@@ -147,8 +135,6 @@ the rights and obligations of the parties involved.
 
 Please be guided accordingly.
 
-
-
 4 National Privacy Commission, NPC Advisory Opinion No. 2020-036 (8 September 2020).
 5 Id.
 6 National Privacy Commission, NPC Advisory Opinion No. 2021-027 (17 July 2021).
@@ -159,7 +145,6 @@ Please be guided accordingly.
 10 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
 
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV

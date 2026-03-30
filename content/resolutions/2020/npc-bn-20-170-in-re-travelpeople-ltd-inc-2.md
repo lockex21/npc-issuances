@@ -1,13 +1,22 @@
 ---
-title: "NPC BN 20-170: In re: Travelpeople Ltd., Inc."
-description: "NPC BN 20-170: In re: Travelpeople Ltd., Inc."
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2020"
-  - "npc-case"
+aliases:
+- NPC BN 20-170
+- npc bn 20-170
+date: '2024-01-01'
+description: Resolution of case
 draft: false
+reference: NPC BN 20-170
+tags:
+- resolution
+- type/resolution
+- npc-case
+- year/2020
+title: 'NPC BN 20-170: In re: Travelpeople Ltd., Inc.'
 ---
+
+
+
+
 
 ## Source
 - Reference: NPC BN 20-170
@@ -25,7 +34,7 @@ IN RE : TRAVELPEOPLE LTD.,
 
 INC.
 
-NPC B N 20 -170
+NPC B N 20170
 
 x-------------------------------------------x
 
@@ -43,13 +52,12 @@ September 2020 ,1 involvin g a personal data breach caused by a
 
 ransomware attack i n the company ’s system .
 
-The Facts
-
+### Facts
 In its Initial Report filed with the Commission , TPLI stated
 
 that in the morning of 26 Au gust 2020, the comp any was advised
 
-by its in -house IT that there was a problem with the Magsaysay
+by its inhouse IT that there was a problem with the Magsaysay
 
 network which currently houses its system s which resulted i n
 
@@ -84,12 +92,10 @@ acquired by unauthorized persons. They believe the most likely
 conseq uence of this incid ent is data loss arising fro m a n inability to
 
 > 1Notification: Pers onal Data Breach for the National Privacy C ommissio n
-> dated 02 September 2020. NPC BN20 -170
+> dated 02 September 2020. NPC BN20170
 > Inre: TravelPeople Ltd., Inc.
 > Resoluti on
 > Page 2of 7
-> 5th Floor , Delegatio nBuild ing, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address : info@privacy.gov.p h
 
 decrypt the affected files. However, they expect the data loss to be
 
@@ -119,13 +125,13 @@ Continuity Plans and workarounds while the servers/systems are
 
 down.
 
-iii. Security patche s for the ransomware was ap plied to non -affected
+iii. Security patche s for the ransomware was ap plied to nonaffected
 
 servers .
 
 iv. Cybersecurity vendors were tapped to assist o n the containment,
 
-clean -up, and possible decryptio n of affected files.
+cleanup, and possible decryptio n of affected files.
 
 While a n incident advisory was sent to all users and to th e
 
@@ -149,18 +155,14 @@ of data subjects until such time that it has ascertained the identities
 
 of the affect ed data subjects .
 
-Discussion
-
+### Discussion
 This Commissio n denies the herei n request for
 
-postponement of notificatio n to data subjects of  TPLI  inNPC BN 20 -170
+postponement of notificatio n to data subjects of  TPLI  inNPC BN 20170
 
 Resoluti on
 
-> 5th Floor , Delegatio nBuild ing, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address : info@privacy.gov.p h
-
-accordance with NPC Circular No. 16 -03 (Personal Data Breach
+accordance with NPC Circular No. 1603 (Personal Data Breach
 
 Management).
 
@@ -168,9 +170,9 @@ At the outset, it should be emphasized tha t noti ficatio n of
 
 data subjects of data breaches is t he general rule.  Under Secti on
 
-18(A) of NPC Circular No. 16 -03, it provides that:
+18(A) of NPC Circular No. 1603, it provides that:
 
-The data subjects shall be notified withi n seventy -two (72)
+The data subjects shall be notified withi n seventytwo (72)
 
 hours upo n knowledge of or reasonable beli ef by the personal
 
@@ -178,7 +180,7 @@ infor matio n controlle r or personal informatio n proce ssor that a
 
 personal data br each has occurred . The notificatio n may be made
 
-on the basis of available informatio n withi n the 72 -hour period if
+on the basis of available informatio n withi n the 72hour period if
 
 the personal data breach is likely to give rise to a real ri sk to the
 
@@ -198,7 +200,7 @@ The exemptio n or postponement will only be allowed in
 
 exceptional circumstances under Sectio n 18(B) of NPC Circular
 
-No. 16 -03 , which provides that :
+No. 1603 , which provides that :
 
 If i t is not reasonabl y poss ible to notify t he data subjects withi n
 
@@ -237,12 +239,7 @@ other risks posed by the per sonal data breach ” in order for the
 > 2Emphasis suppl ied.
 > 3Emphasis supplied.
 
-NPC BN 20 -170
-
 Resoluti on
-
-> 5th Floor , Delegatio nBuild ing, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address : info@privacy.gov.p h
 
 Commissio n to consider its req uest for postponement  of
 
@@ -270,7 +267,7 @@ ran somware , th ere is no reaso n to believe that the informatio n may
 
 have bee n accessed by unauthorized pers ons.
 
-Se ctio n 11 o f NPC Circular 16 -03 s tates the conditions for
+Se ctio n 11 o f NPC Circular 1603 s tates the conditions for
 
 no tif ication , thus :
 
@@ -314,12 +311,9 @@ bee n ac quired by an unauthorized person ; and
 
 believes that the unauthorized acquisitio n is likely to give rise to a
 
-real risk of serious harm to any affected data subject. NPC BN 20 -170
+real risk of serious harm to any affected data subject. NPC BN 20170
 
 Resoluti on
-
-> 5th Floor , Delegatio nBuild ing, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address : info@privacy.gov.p h
 
 It should be noted that a ` loss o f control ove r personal data
 
@@ -394,15 +388,10 @@ that the user’s systems have bee n locked or that the user’s files
 have bee n encryp ted. Users are told that unless a ransom is paid,
 
 > 4Emphasis supplied.
-> 5NPC B N20 -15 7,NPC B N20 -158 ,NPC B N20 -15 9,NPC B N20 -160 ,NPC B N20 -161 ,NPC B N20 -162 ,
-> NPC B N20 -163 ,NPC B N20 -164 ,NPC B N20 -165 .
-
-NPC BN 20 -170
+> 5NPC B N2015 7,NPC B N20158 ,NPC B N2015 9,NPC B N20160 ,NPC B N20161 ,NPC B N20162 ,
+> NPC B N20163 ,NPC B N20164 ,NPC B N20165 .
 
 Resoluti on
-
-> 5th Floor , Delegatio nBuild ing, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address : info@privacy.gov.p h
 
 access wil l not be restored. ”6 While ransomware s primarily cause
 
@@ -470,19 +459,14 @@ data subjects ; and
 
 incident i n accordance with the provis ions of NPC
 
-Circular 16 -03 and to SU BMIT proof of compliance
+Circular 1603 and to SU BMIT proof of compliance
 
 thereto .
 
-> 6UC Berk el ey I nformatio nSecurity Office (n.d). Frequently Asked Questions -Ransomware.
+> 6UC Berk el ey I nformatio nSecurity Office (n.d). Frequently Asked QuestionsRansomware.
 > Retrieved from https://security.berkeley.edu/faq/ransomw are/ .
 
-NPC BN 20 -170
-
 Resoluti on
-
-> 5th Floor , Delegatio nBuild ing, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address : info@privacy.gov.p h
 
 SO ORDERED.
 

@@ -1,13 +1,21 @@
 ---
-title: "NPC BN 18-085: In re: La Salle Greenhills School"
-description: "Compliance dated 18 June 2022 from La Salle Green Hills in Data Privacy Policy , at p. 5 ."
-tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2022"
-  - "npc-case"
+description: Compliance dated 18 June 2022 from La Salle Green Hills in Data Privacy
+  Policy , at p. 5 .
 draft: false
+tags:
+- resolution
+- type/resolution
+- year/2022
+- npc-case
+title: 'NPC BN 18-085: In re: La Salle Greenhills School'
+aliases:
+- NPC BN 18-085
+- npc bn 18-085
+date: '2022-09-22'
 ---
+
+
+
 
 ## Source
 - Reference: NPC BN 18-085
@@ -21,13 +29,11 @@ draft: false
 - Privacy Impact Assessment
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 IN RE: LA SALLE GREEN HILLS SCHOOL
 
 x----------------------------------------------------x
 
-NAGA , P.C.;
+NAGA, P.C.;
 
 Before the Commission is the compliance o f La Salle Green Hills
 
@@ -35,7 +41,7 @@ School (LSGH) dated 29 July 2022 (Compliance) in relation to the 21
 
 May 2020 Resolution of the Commission (Resolution) .
 
-Facts
+### Facts
 
 On 01 June 2018, LSGH sent a data breach report to notify the
 
@@ -74,11 +80,7 @@ g) Electronic mail address. 4
 > 3Id.
 > 4Id.
 
-NPC BN 18 -085 NPC BN 18 -085
-
 In re: La Salle Green Hills School
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 In line with the incident, LSGH stated that it immediately notified the
 
@@ -100,7 +102,7 @@ On 21 May 2020, the Commission issued a Resolution with a
 
 dispositive portion stating:
 
-WHEREFORE , premises considered, this Commission orders
+WHEREFORE, premises considered, this Commission orders
 
 La Salle Green Hills School to submit the result of its PIA,
 
@@ -136,14 +138,10 @@ documents for the proceedings by its previous DPO. 12 LSGH also
 > 8Supplemental Breach Report received 03 August 2018 of La Salle Green Hills School.
 > 9In Re: La Salle Greenhills School, CID BN 18 -085, Resolution dated 21 May 2020, at p. 3.
 > 10 Electronic Mail dated 19 April 2021 from Mega Manila Customer Service.
-> 11 Compli ance Letter dated 20 April 2021 from Enforcement Division ,at pp. 1 -2.
+> 11 Compli ance Letter dated 20 April 2021 from Enforcement Division,at pp. 1 -2.
 > 12 Motion for Extension dated 27 April 2021 from La Salle Green Hills School, at ¶¶ 2 -4.
 
-NPC BN 18 -085
-
 In re: La Salle Green Hills School
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 stated that due to the implementation of a skeletal workforce caused
 
@@ -193,7 +191,7 @@ The La Salle Green Hills School is STERNLY WARNED that
 
 their similar conduct shall be dealt with accordingly.
 
-SO ORDERED. 15
+**SO ORDERED.** 15
 
 Subsequently, the EnD sent a letter dated 28 July 2021 orderin g LSGH
 
@@ -209,11 +207,7 @@ A. Excel files stating the PIA results for:
 > 14 Compliance dated 05 May 2021 from La Salle Green Hills School.
 > 15 In Re: La Salle Greenhills School, CID BN 18 -085, Resolution dated 06 May 2021, at p. 3.
 
-NPC BN 18 -085
-
 In re: La Salle Green Hills School
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 B. Files with complete entries in the PIA results of:
 
@@ -286,11 +280,7 @@ requirements of the Data Privacy Act of 2012 (DPA). 19
 > 18 Compliance Letter dated 05 April 2022 from Enforcement Division, at p. 1.
 > 19 Id., at p. 2.
 
-NPC BN 18 -085
-
 In re: La Salle Green Hills School
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Thus, the EnD ordered LSGH to submit “ (1) Report on the full
 
@@ -338,7 +328,7 @@ In compliance thereto, LSGH provided the documents that the EnD
 
 ordered the school to submit. 26
 
-Issue
+### Issue
 
 > 20 Id.
 > 21 Compliance dated 19 April 2022 from La Salle Green Hills School.
@@ -348,17 +338,13 @@ Issue
 > 25 Id. , at p. 1.
 > 26 Compliance dated 29 July 2022 from La Salle Green Hills School.
 
-NPC BN 18 -085
-
 In re: La Salle Green Hills School
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Whether La Salle Green Hills School complied with the Resolution
 
 dated 21 May 2020 .
 
-Discussion
+### Discussion
 
 LSGH was ordered by this Commission to submit the result of its PIA
 
@@ -366,7 +352,7 @@ and its Revised Privacy Policy and Security Incident Management
 
 Policy. 27
 
-Based on records and EnD’s evaluati on , this Commission finds that
+Based on records and EnD’s evaluati on, this Commission finds that
 
 LSGH has sufficiently complied with the Resolution dated 21 May
 
@@ -410,17 +396,13 @@ In general, a PIA should be undertaken for every processing
 
 system of a PIC or PIP that involves personal data. It may also
 
-> 27 In Re: La Salle Greenhills School , CID BN 180 -085, Resolution dated 21 May 2020
+> 27 In Re: La Salle Greenhills School, CID BN 180 -085, Resolution dated 21 May 2020
 > 28 National Privacy Commission, Guidelines on Privacy Impact Assessment, NPC Advisory 2017 -
-> 03 ,Definition of Terms , at item K (31 July 2017 ) (NPC Advisory 17-03).
-
-NPC BN 18 -085
+> 03,Definition of Terms, at item K (31 July 2017 ) (NPC Advisory 17-03).
 
 In re: La Salle Green Hills School
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-be carried out vis -à-vis the entire organization of the PIC or
+be carried out vis-à-vis the entire organization of the PIC or
 
 PIP with the involvement or participation of the different
 
@@ -436,15 +418,15 @@ sufficiently submitted the reports on the full implementation of the
 
 PIA results derived from the school’s offices and departments. 31
 
-In its PIA , LSGH identified the following common privacy risk s: the
+In its PIA, LSGH identified the following common privacy risk s: the
 
-occurrence of unauthorized disclosure , unavailability of data (loss of
+occurrence of unauthorized disclosure, unavailability of data (loss of
 
 data), una uthorized alteration of data, and unauthorized access of
 
-personal data in the school’s programs, projects, processes , measures,
+personal data in the school’s programs, projects, processes, measures,
 
-systems , or technologies. 32
+systems, or technologies. 32
 
 Thus, LSGH reported in its PIA the significance of the school’s Data
 
@@ -483,11 +465,7 @@ risk owner and review date .35
 > 34 Compliance dated 19 April 2022 from La Salle Green Hills School .
 > 35 Id.
 
-NPC BN 18 -085
-
 In re: La Salle Green Hills School
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 In mitigat ing the fu rther occurrence of risk s, LSGH reported that the
 
@@ -507,7 +485,7 @@ Data Privacy Policy;
 
 documen tation. 36
 
-For other offices and departments of LSGH , the following mitigation
+For other offices and departments of LSGH, the following mitigation
 
 actions are being implemented:
 
@@ -531,7 +509,7 @@ implemented in order to mitigate the occurrence of the identified
 
 risks and to better protect the personal data of data subjects . After
 
-scrutinizing the various PIA Reports submitted , the Commission
+scrutinizing the various PIA Reports submitted, the Commission
 
 finds that LSGH has sufficiently demonstrated its compliance with
 
@@ -550,11 +528,7 @@ are compliant with the DPA .
 > 40 Compliance dated 06 August 2021 from La Salle Green Hills School in Security and Safety
 > Office -Privacy Impact Assessment.
 
-NPC BN 18 -085
-
 In re: La Salle Green Hills School
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Advisory Opinion No. 2018 -013 states:
 
@@ -590,7 +564,7 @@ Upon review of the Revised Privacy Policy submitted on 18 June
 
 2022, the Commission notes that it already includes the purpose of
 
-the implementation of the Privacy Policy of LSGH , which was not
+the implementation of the Privacy Policy of LSGH, which was not
 
 indicated in the previous submission. 44 The revised Privacy Policy
 
@@ -610,11 +584,11 @@ employment ) which are needed to be processed. 46
 
 Further, the Revised Privacy Policy includes the Guidelines  for
 
-Students, Parents, Guardians , Alumni/Alumnae , Employees and
+Students, Parents, Guardians, Alumni/Alumnae, Employees and
 
 Personnel on how their personal and sensitive personal information
 
-> 41 National Privacy Commission, Privacy Policy and Consent of Data Subjects , NPC Advisory
+> 41 National Privacy Commission, Privacy Policy and Consent of Data Subjects, NPC Advisory
 > Opinion 2018 -013, ( 18 April 2018) (NPC Advi sory Opinion 2018 -01 3).
 > 42 Compliance dated 05 May 2021 from La Salle Green Hills School
 > 43 Compliance Letter dated 05 April 2022 from Enforcement Division, at p. 2.
@@ -622,11 +596,7 @@ Personnel on how their personal and sensitive personal information
 > 45 Compliance dated 18 June 2022 from La Salle Green Hills in Data Privacy Policy .
 > 46 Id. , at pp. 4 -7.
 
-NPC BN 18 -085
-
 In re: La Salle Green Hills School
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 are being processed. 47  Particularly for the employees and personnel,
 
@@ -662,15 +632,15 @@ Protocol ;56 and,
 
 (8) Procedure for Recovery and Restoration of Personal Data. 57
 
-LSGH likewise submitted its social media policies for students ,
+LSGH likewise submitted its social media policies for students,
 
 personnel and partners which include the parents, guardians,
 
 alumni, among others .58 The se policies provide guidelines on the use
 
-of social media platforms , including guidance on how students,
+of social media platforms, including guidance on how students,
 
-personnel , and partners should be mindful of their legal risks and
+personnel, and partners should be mindful of their legal risks and
 
 acts. 59 The policies also better ensure that the students, personnel,
 
@@ -688,7 +658,7 @@ Id. , at p. 6.
 
 > 49
 
-Compliance dated 18 June 2022 from La Salle Green Hills in Data Privacy Policy , at p. 5 .
+Compliance dated 18 June 2022 from La Salle Green Hills in Data Privacy Policy, at p. 5 .
 
 > 50
 
@@ -738,15 +708,13 @@ Id., at p. 2; See also Social Media Policy for Students. NPC BN 18 -085
 
 In re: La Salle Green Hills School
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 LSGH further submitted its Privacy Management Plans for the school
 
 years (S Y) 2021 -2022 and 2022 -2023. 61 For SY 2022 -2023, LSGH
 
 ensures the “Review and Updating of the Implementing Guidelines”
 
-of its Data Privacy Policy for students, personnel , and partners. 62
+of its Data Privacy Policy for students, personnel, and partners. 62
 
 LSGH stated that it shall conduct “Communication Sessions” for the
 
@@ -758,7 +726,7 @@ review and update the “Risk Registry on Data Privacy” per subject
 
 area or office. 64
 
-With regard to the Security Incident Management Policy , the revised
+With regard to the Security Incident Management Policy, the revised
 
 submission contains the following details:
 
@@ -778,7 +746,7 @@ Team and the actions that it may take to mitigate the
 
 incident ;68
 
-In addition to the Security Incident Management Policy , LSGH
+In addition to the Security Incident Management Policy, LSGH
 
 likewise submitted a “Data Privacy Security Incident Reporting
 
@@ -838,15 +806,13 @@ Id. NPC BN 18 -085
 
 In re: La Salle Green Hills School
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 The accomplished form shall be reviewed and assessed by the
 
 school’s DPO .71
 
 The fields that are need ed to be accomplished are:
 
-(1)  Name and Signature of the person who reports the incident ,
+(1)  Name and Signature of the person who reports the incident,
 
 his or her department or unit;
 
@@ -874,7 +840,7 @@ others;
 
 Upon review of the documents submitted and based on EnD’s
 
-evaluation , LSGH sufficiently complied with the  21 May 2020
+evaluation, LSGH sufficiently complied with the  21 May 2020
 
 Resolution and the subsequent Orders of the Commission. The
 
@@ -890,11 +856,11 @@ subjects and uphold their rights.
 
 WHEREFORE, premises considered, this Commission resolves that
 
-the matter of NPC BN 18 -085 , “In re: La Salle Green Hills School” is
+the matter of NPC BN 18 -085, “In re: La Salle Green Hills School” is
 
 hereby considered CLOSE D.
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines .
 
@@ -903,11 +869,7 @@ City of Pasay, Philippines .
 > 71 Id.
 > 72 Id. , at pp. 1 -4.
 
-NPC BN 18 -085
-
 In re: La Salle Green Hills School
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 SGD.
 

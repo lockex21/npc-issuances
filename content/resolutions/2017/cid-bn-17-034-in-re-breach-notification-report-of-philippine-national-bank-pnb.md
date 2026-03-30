@@ -1,11 +1,17 @@
 ---
-title: "CID BN 17-034: In re: Breach Notification Report of Philippine National Bank (PNB)"
-description: "Resolution addressing Philippine National Bank's notification of a ransomware breach affecting its inControl Portal; Commission found PNB in substantial compliance with security remediation requirements and closed the case."
+title: "CID BN 17-034: In re: Philippine National Bank"
+description: "Resolution closing the breach notification case of Philippine National Bank after finding it in substantial compliance with security remediation measures following a ransomware attack on its inControl Portal."
+aliases:
+  - "CID BN 17-034"
+  - "cid bn 17-034"
+  - "In re: Philippine National Bank"
+  - "in re: philippine national bank"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2017"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2020
+  - npc-case
+date: "2020-01-23"
 draft: false
 ---
 
@@ -24,15 +30,15 @@ draft: false
 
 IN RE: BREACH NOTIFICATION REPORT OF PHILIPPINE NATIONAL BANK (PNB)
 
-NPC BN 17-034
-
 x----------------------------------------x
 
-### RESOLUTION
+**NAGA, D.P.C.:**
 
 This resolution refers to the security breach notification that the Commission received dated 17 November 2017 from the Philippine National Bank ("PNB") involving its inControl Portal ("Portal"), a self-service offering for enrolled customers to control the spending of their supplementary credit card.
 
 ### Facts
+
+The facts are the following:
 
 On 14 November 2017, through the conduct of their regular monitoring of credit card service availability, the PNB's IT Credit Card Operator reported that the Portal issued a database error response. Following their standard operating procedures on incident reports, PNB conducted an investigation and discovered that the inControl server files are encrypted with the Arena ransomware, which is a kind of malware that infects the victims' computer with a code that restricts the user's access to systems and files.
 
@@ -56,6 +62,8 @@ The PNB was able to submit the required reports on 24 August 2018 and 26 July 20
 3. Implemented Anti Distributed Denial of Service ("DDOS") facility and improved Domain Name System ("DNS"); and
 4. Subjected the new environment to vulnerability and penetration tests ("VAPT"), remediating findings before release to production.
 
+### Discussion
+
 On 3 July 2019, the Commission's Enforcement Division sought the assistance of the Data Security and Technology Standards Division ("DSTSD") in order to review PNB's compliance and whether the remediation measures implemented is commensurate with the industry standards.
 
 In the DSTSD report dated 07 August 2019, they concluded that PNB's remediation measures are at par with the industry standard requirements, specifically the Payment Card Industry Data Security Standard ("PCI DSS"). The DSTSD report also underlined the noticeable improvement on PNB's security measures after the Commission's issuance of the 13 July 2018 Order.
@@ -66,27 +74,24 @@ This Commission, after thoroughly reviewing all the pertinent documents and givi
 
 This Commission also notes that no complaint against PNB has been filed in any of its offices in relation to said security breach.
 
-### Dispositive Portion
-
 **WHEREFORE**, premises considered, this Commission hereby resolves that this case be **CLOSED**.
 
 **SO ORDERED.**
 
-Pasay City, Philippines
-
-23 January 2020
-
----
+Pasay City, Philippines. 23 January 2020.
 
 **JOHN HENRY D. NAGA**
+
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
 **RAYMUND ENRIQUEZ LIBORO**
+
 Privacy Commissioner
 
 **LEANDRO ANGELO Y. AGUIRRE**
+
 Deputy Privacy Commissioner
 
 Copy furnished:
@@ -96,5 +101,4 @@ ATTN: MR. STY
 Data Privacy Officer, PNB
 
 ENFORCEMENT DIVISION
-
 GENERAL RECORDS UNIT

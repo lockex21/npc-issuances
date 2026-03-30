@@ -1,36 +1,33 @@
 ---
-title: "Advisory-Opinion-No.-2023-001"
-description: "We respond to your request for an Advisory Opinion on whether your client may compel the condominium developer and the Register of Deeds to disclose the following information without violating the Data Privacy Act of 2012 (DPA):"
+title: "NPC Advisory Opinion No. 2023-001 — Disclosure of Condominium Unit Owners’ Personal Data and Related Documents"
+description: "We respond to your request for an Advisory Opinion on whether your client may compel the condominium developer and the Register of Deeds to disclose the following information without violating the Data Privacy Act of 2012."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+- issuance
+- type/advisory-opinion
+- year/2023
 draft: false
 ---
 
 ## Source
 - Reference: Advisory Opinion No. 2023-001
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Advisory-Opinion-No.-2023-001.pdf
+- Issue date: 01/17/2023
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                               ADVISORY OPINION NO. 2023-0011
 17 January 2023
 
+Re:       DISCLOSURE OF CONDOMINIUM UNIT OWNERS’ PERSONAL DATA AND RELATED DOCUMENTS.
 
-
-
-         Re:       DISCLOSURE OF CONDOMINIUM UNIT OWNERS’ PERSONAL DATA
-                   AND RELATED DOCUMENTS.
-
-Dear
+Dear [Redacted],
 
 We respond to your request for an Advisory Opinion on whether your client may compel the
 condominium developer and the Register of Deeds to disclose the following information without
 violating the Data Privacy Act of 2012 (DPA):
 
-    1.) Condominium Certificate of Title (CCT) numbers, purchase agreements by the
+### Discussion
+
+   1.) Condominium Certificate of Title (CCT) numbers, purchase agreements by the
         condominium developer to the condominium corporation;
     2.) Traceback of CCT numbers from the Register of Deeds; and
     3.) Delinquent unit owners by posting via bulletin board and elevator notice their unit
@@ -47,8 +44,6 @@ difficulties in the collection and enforcement of payments from the delinquent u
 their whereabouts are unknown to TICC since the owners’ information previously shared by NPI
 are incomplete or outdated.
 
-1 Tags: lawful processing; legal claims; contractual obligation; condominium corporation.
-
 To enforce the collection of dues and other assessments, TICC requested the Deeds of Sale and/or
 Reservation Agreements of the Unit Owners and CCT numbers from NPI. The request was
 denied on the reasoning that the consent of the unit owners is required before the request may be
@@ -59,12 +54,11 @@ ground of data privacy.
 
 You now ask if the NPI and the Register of Deeds’ denial of TICC’s requests are in order.
 
-Personal     information;    Sensitive            personal
-information; Lawful processing
+### Personal Information; Sensitive Personal Information; Lawful Processing
 
 The DPA applies to the processing of all types of personal information and sensitive personal
 information (collectively, personal data), and to any natural or juridical person involved in the
-processing of personal data.2 Clearly, the scope of the DPA is limited only to the processing of
+processing of personal data.[^2] Clearly, the scope of the DPA is limited only to the processing of
 personal data or data relating to natural persons or individuals. Data relating to juridical entities
 such as corporation name, address, etc., falls outside the scope of the DPA.
 
@@ -93,12 +87,7 @@ basis under Section 12 (f) of the DPA:
    following conditions exists:
 
 
-
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private
-
-Act No. 10173, § 4 (2012).
-
-       (f) The processing is necessary for the purposes of the legitimate interests pursued by the
+   (f) The processing is necessary for the purposes of the legitimate interests pursued by the
            personal information controller or by a third party or parties to whom the data is
            disclosed. Except where such interests are overridden by fundamental rights and
            freedoms of the data subject which require protection under the Philippine
@@ -113,14 +102,14 @@ Given the current scenario, Section 13(f) of the DPA may be applicable:
    “SECTION 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive
    personal information and privileged information shall be prohibited, except in the following cases:
 
-       (f) The processing concerns such personal information as is necessary for the protection of
+   (f) The processing concerns such personal information as is necessary for the protection of
            lawful rights and interests of natural and legal persons in court proceedings, or the
            establishment, exercise or defense of legal claims, or when provided to government or
            public authority “(underscoring supplied)
 
 The wording of Section 13(f) of the DPA is interpreted to mean that a court order or an existing
 court proceeding is not required for this lawful basis to apply. NPC was able to clarify this in the
-case of BGM v. IPP3:
+case of BGM v. IPP[^3]:
 
    “In the case of NPC 17-018 dated 15 July 2019, this Commission held that “processing as necessary
    for the establishment of legal claims” does not require an existing court proceeding. To require a
@@ -142,23 +131,18 @@ case of BGM v. IPP3:
    The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate
    proceedings.” (underscoring supplied)
 
-
-
-
-
-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July
-2021).
+https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
 
 In the same case, the Commission had the occasion to explain that the protection of lawful rights and
 interests under Section 13 (f) of the DPA is considered as legitimate interest pursuant to Section 12 (f) of
 the DPA:
 
-    “Based on the foregoing, the disclosure to be made by the Respondent of the information of the
+   “Based on the foregoing, the disclosure to be made by the Respondent of the information of the
     recipient of Complainant’s personal information, for purposes of identification of the person
     liable for the alleged fraud, sans the latter’s consent, is necessary for the protection of the lawful
     rights and interests of the Complainant as contemplated by Section 13 (f) of the DPA.
 
-    Although Section 13 (f) applies to sensitive personal information while the information involved
+   Although Section 13 (f) applies to sensitive personal information while the information involved
     in this case is just personal information, the protection of lawful rights and interests under Section
     13 (f) by the Respondent is considered as legitimate interest pursuant to Section 12 (f) of the DPA.
     This section provides that it is lawful to process personal information if it is necessary for the
@@ -167,16 +151,16 @@ the DPA:
     fundamental rights and freedoms of the data subject which require protection under the
     Philippine Constitution.
 
-    By application in the instant case, Respondent may not be held liable for unauthorized processing
+   By application in the instant case, Respondent may not be held liable for unauthorized processing
     should it disclose the requested information to Complainant as its disclosure would be in
     pursuance of the latter’s legitimate interest as the same cannot be fulfilled by other means.
 
-    It should be stressed, however, that having a legitimate purpose or some other lawful criteria to
+   It should be stressed, however, that having a legitimate purpose or some other lawful criteria to
     process does not result in the PIC granting all request to access by the data subjects. Such requests
     should be evaluated on a case to case basis and must always be subject to the PIC’s guidelines for
     the release of such information.
 
-       (Underscoring supplied)”
+   (Underscoring supplied)”
 
 TICC is tasked to manage the affairs of The Infinity which includes the collection of dues and
 assess delinquent unit owners. Such act, along with any other enforcement actions that TICC may
@@ -187,9 +171,9 @@ TICC, subject to the respective internal policies and rules of NPI and the Regis
 disclosure (e.g., verification of identity, required documents). However, we wish to emphasize
 that NPI and the Register of Deeds should establish a system to ensure that the requested
 information shall be limited only for the legitimate interests stated by the requesting party, and
-not be subject to abuse. As we stated in Advisory Opinion No. 2022-05:4
+not be subject to abuse. As we stated in Advisory Opinion No. 2022-05:[^4]
 
-    “LTO must establish a system for handling these types of requests for information to
+   “LTO must establish a system for handling these types of requests for information to
     avoid the possibility of abuse. As a request for personal information for the filing of a
     legal action falls under the legitimate interests of the requesting party, the system must
     assess the request if it satisfies the three aforementioned tests. It must also provide for a
@@ -198,9 +182,8 @@ not be subject to abuse. As we stated in Advisory Opinion No. 2022-05:4
     case a request for personal information is granted, the requesting party should be
     required to sign an undertaking that the information will only be used for the purpose
 
- NPC Advisory Opinion No. 2022-05, 24 February 2022.
 
-      that was declared: Should the CHMSC grant the request, it is suggested that the
+   that was declared: Should the CHMSC grant the request, it is suggested that the
       Requesting Party be required to sign an undertaking that the use of the documents will
       only be for the purpose of filing a complaint with the Ombudsman and that the proper
       disposal thereof is ensured if he does not push through with the filing of the complaint.
@@ -214,17 +197,16 @@ Further, we note that documents such as Deeds of Sale and Reservation Agreements
 information which may not be relevant to TICC’s claims. The principle of proportionality
 provides that “the processing of information shall be adequate, relevant, suitable, necessary, and
 not excessive in relation to a declared and specified purpose. Personal data shall be processed
-only if the purpose of the processing could not reasonably be fulfilled by other means.”5 The
+only if the purpose of the processing could not reasonably be fulfilled by other means.”[^5] The
 principle of proportionality necessitates that only the information requested and necessary for
 the purpose indicated should be processed. With this, NPI may opt to conceal or redact such
 information that are not relevant to TICC’s claims upon the documents’ disclosure to TICC.
 
-Contractual obligation; adherence to the data
-privacy principles; proportionality.
+### Contractual Obligation; Adherence to the Data Privacy Principles; Proportionality.
 
 Condominium unit numbers are considered personal information under the DPA since it can
 directly and certainly identify the identity of the unit owner when put together with other
-information.6 Hence, the processing or posting thereof in public spaces within the condominium
+information.[^6] Hence, the processing or posting thereof in public spaces within the condominium
 must comply with the requirements of Section 12 of the DPA.
 
 We understand that TICC is contemplating on posting and/or publishing in public spaces within
@@ -235,24 +217,18 @@ under Section 12 (c) of the DPA. When a PIC claims lawful processing on the basi
 obligation, the burden is on the PIC to show that all that is required by that particular lawful
 criterion is present. A PIC must be able to prove that the legal obligation it cites as basis exists
 and applies to the processing it performed, and that the processing is necessary to comply with
-the legal obligation.8
+the legal obligation.[^8]
 
 Instead, Section 12 (b) of the DPA on contractual obligation may be considered as a more
 appropriate lawful basis, to wit:
 
-      SECTION 12. Criteria for Lawful Processing of Personal Information – The processing of personal
+   SECTION 12. Criteria for Lawful Processing of Personal Information – The processing of personal
       information shall be permitted only if not otherwise prohibited by law, and when at least one of the
       following conditions exists:
 
-5
-    Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016), § 18 (c).
-6 Data Privacy Act of 2012, § 3(g).
-7 Section 6 of the TICC By-Laws, as provided in the letter request of Duran & Duran-Schulze Law.
- NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015, 03 February 2022, page 7.
+xxx
 
-                                                       xxx
-
-       (b) The processing of personal information is necessary and is related to the fulfillment of
+   (b) The processing of personal information is necessary and is related to the fulfillment of
            a contract with the data subject or in order to take steps at the request of the data subject
            prior to entering into a contract.
 
@@ -279,7 +255,7 @@ assessments from the delinquent owners. Further, TICC should consider less intru
 identifying and/or notifying the unit owners. As stated in an NPC Decision bearing similar
 circumstances:
 
-       “The PIC should only process as much information as is proportional or necessary to
+   “The PIC should only process as much information as is proportional or necessary to
        achieve its clearly defined and stated purposes. In this case, it is the collection of
        unpaid dues provided under a valid contract with its unit owners.
        While it is necessary to process the delinquent unit owners’ personal information in
@@ -288,15 +264,11 @@ circumstances:
        was not for the collection of delinquent dues. Rather, the evidence on record shows
        that DSL disclosed Complainants’ personal information as delinquent unit owners to
        cast doubt on their capability to manage the affairs of the condominium corporation
-       in light of the recently held election of the Board of Directors.”10
+       in light of the recently held election of the Board of Directors.”[^10]
 
 In the current scenario, publication/posting of unit numbers in public spaces within the
 condominium may be too intrusive for the declared purpose and may not even be a guarantee
 that such posting/publication will lead TICC to the unit owner.
-
-
-9 Data Privacy Act of 2012, § 11 (d).
-  NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015, 03 February 2022, page 8.
 
 On the other hand, the posting/publication must only be considered as a last resort if there is
 absolutely no way for TICC to get hold of the requested information and documents. In such
@@ -319,7 +291,17 @@ Please be guided accordingly.
 
 Very truly yours,
 
-
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
+
+[^1]: Tags: lawful processing; legal claims; contractual obligation; condominium corporation.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4 (2012).
+[^3]: National Privacy Commission, BGM v. IPP [NPC 19-653] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
+[^4]: NPC Advisory Opinion No. 2022-05, 24 February 2022.
+[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016), § 18 (c).
+[^6]: Data Privacy Act of 2012, § 3(g).
+[^7]: Section 6 of the TICC By-Laws, as provided in the letter request of Duran & Duran-Schulze Law.
+[^8]: NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015, 03 February 2022, page 7.
+[^9]: Data Privacy Act of 2012, § 11 (d).
+[^10]: NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015, 03 February 2022, page 8.

@@ -1,11 +1,18 @@
 ---
-title: "NPC 19-1273: NFM v. BPI"
-description: "NPC 19-1273: NFM v. BPI"
+title: 'NPC 19-1273: NFM v. BPI: NFM v. Bank of the Philippine Islands'
+description: Determination of whether NFM v. Bank of the Philippine Islands violated
+  DPA provisions.
+aliases:
+- 'NPC 19-1273: NFM v. BPI'
+- 'npc 19-1273: nfm v. bpi'
+- NFM v. Bank of the Philippine Islands
+- nfm v. bank of the philippine islands
 tags:
-  - "decision"
-  - "type/decision"
-  - "year/2023"
-  - "npc-case"
+- decision
+- type/decision
+- year/2019
+- npc-case
+date: '2023-03-14'
 draft: false
 ---
 
@@ -21,17 +28,14 @@ draft: false
 - Technical Security Measures, Nominal Damages, Personal Information Controller, Substantial Evidence
 
 ## Decision Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
-NFM ,
+NFM,
 
 Complainant,
 
--versus -
+-versus-
 
-BANK OF THE PHILIPPINE ISLANDS
-
-FAMILY – CREDIT CARD DIVISION
+BANK OF THE PHILIPPINE ISLANDS FAMILY – CREDIT CARD DIVISION,
 
 Respondent.
 
@@ -39,15 +43,9 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before the Commission is a complaint filed by NFM against the Bank
+Before the Commission is a complaint filed by NFM against the Bank of the Philippine Islands Family – Credit Card Division (BPI) for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
 
-of the Philippine Islands Family – Credit Card Division (BPI) for an
-
-alleged violation of Republic Act No. 10173 or the Data Privacy Act of
-
-2012 (DPA).
-
-Facts
+### Facts
 
 On  29 October 2018 , NFM , a BPI Family MasterCard credit card holder,
 
@@ -80,8 +78,6 @@ Data Privacy Act of
 2012 NPC 19 -1273
 
 NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 07 November 2018, NFM discovered the purported transaction
 
@@ -149,12 +145,6 @@ Account Maintenance Services for Credit Card. 12 BPI explained that a
 > 10 Id.
 > 11 Id.
 > 12 Id.
-
-NPC 19 -1273
-
-NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 request for a change of mobile number requires the correct BPI Express
 
@@ -224,12 +214,6 @@ her  online banking username, password, mobile number, and credit
 > 22 Complaints -Assisted Form, 17 September 2019, at 5, in NFM v. Bank of the Philippine Islands
 > Family –Credit Card Division, NPC 19 -273 (NPC 2019).
 
-NPC 19 -1273
-
-NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 card in violation of Section 25 of the DPA  (Unauthorized Pro cessing of
 
 Personal Information and Sensitive Personal Information) .23
@@ -291,12 +275,6 @@ reply to file its rejoinder. 29
 > 28 Id.
 > 29 Id.
 
-NPC 19 -1273
-
-NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 On 1 7 December 2019, BPI filed an Urgent Motion for Extension of
 
 Time to File a Responsive Comment asking for an additional twenty
@@ -315,7 +293,7 @@ of Time to File a Responsive Comment and ask ed for an additional ten
 
 responsive comment .32 BPI reasoned that the holiday season and
 
-consequent non -working days prevented it from collating all the
+consequent non-working days prevented it from collating all the
 
 documents pertaining to the case. 33
 
@@ -367,12 +345,6 @@ transaction.
 > 34 Comment, 15 January 2020, at 4, in NFM v. Bank of the Philippine Islands Family –Credit Card
 > Division, NPC 19 -1273 (NPC 20 20 ).
 > 35 Id.
-
-NPC 19 -1273
-
-NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Based on the foregoing, the Complainant has the burden of
 
@@ -441,12 +413,6 @@ that based on her record history, she never made a purchase in  an
 > 42 Id.
 > 43 Id. at 3.
 
-NPC 19 -1273
-
-NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 amount higher than Ten Thousand Pesos (P hp 10,000.00). 44 She
 
 reiterated that her mobile number was changed without her consent:
@@ -512,12 +478,6 @@ incident. 51
 > 50 Id.
 > 51 Id.
 
-NPC 19 -1273
-
-NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 On 04 August 2022, the CID issued an Order to BPI directing it to show
 
 cause why it should not be held in contempt, and to comply with the
@@ -540,13 +500,13 @@ BPI has been remiss in ensuring that its own system is fully capable of
 
 protecting the security and privacy of data of its clients. 56
 
-Issue
+### Issue
 
 Whether BPI’s supposed failure to safeguard NFM’s personal
 
 information constitutes a violation of the DPA .
 
-Discussion
+### Discussion
 
 The Commission dismisses the case for lack of substantial evidence.
 
@@ -570,19 +530,12 @@ on Evidence distinguishes between burden of proof and evidence:
 
 > 52 Id.
 > 53 Compliance (re :Order dated 04 August 2022), 17 October 2022, at 1, in NFM v. Bank of the
-> Philippine Islands Family –Credit Card Division, NPC 19 -1273 (NPC 20 22 ).
 > 54 Id.
 > 55 Reply with Motion to Admit, 10 February 2020, at 7, NFM v. Bank of the Philippine Islands
 > Family –Credit Card Division, NPC 19 -1273 (NPC 20 20 ).
 > 56 Id.
 > 57 DOH v. Aquintey, et al ., 806 Phil. 763, 772 (2017).
 > 58 De Jesus v. Guerrero III, 614 Phil. 520, 528 -529 (2009).
-
-NPC 19 -1273
-
-NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 Section 1. Burden of proof and burden of evidence Burden of proof is
 
@@ -648,12 +601,6 @@ the charges incurred from the alleged transaction. 66
 > 64 Id. at 3.
 > 65 Id.
 > 66 Id.
-
-NPC 19 -1273
-
-NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Finally, NFM included accusations that she heard similar experiences
 
@@ -725,12 +672,6 @@ presumption that NFM effected the change in her registered mobile
 > Family –Credit Card Division, NPC 19 -1273 (NPC 20 20 ).
 > 69 BSA Tower Condominium Corp. v. Reyes II, A.C. No. 11944 (2018).
 
-NPC 19 -1273
-
-NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 number .70 BPI explained that the request requires the correct BPI
 
 Express Online username and password which are supposed to be
@@ -790,16 +731,9 @@ reasonable and appropriate organizational, physical and technical
 measures intended for th e protection of personal information
 
 > 70 Compliance (re: Order dated 04 August 2022), 17 October 2022, at 1, in NFM v. Bank of the
-> Philippine Islands Family –Credit Card Division, NPC 19 -1273 (NPC 20 22 ).
 > 71 Id.
 > 72 Id. at 2.
 > 73 Id.
-
-NPC 19 -1273
-
-NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 against any accidental or unlawful destruction, alteration and
 
@@ -874,12 +808,6 @@ NFM is warranted.
 > Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173 § 20 (a),
 > (c)(4) (2012).
 
-NPC 19 -1273
-
-NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 The DPA provides that restitution for any aggrieved party shall be
 
 governed by the provisions of the New Civil Code .75 Article 2221 of
@@ -944,12 +872,6 @@ beyond the jurisdiction of the Commission.
 > 77 Data Privacy Act, §20 (c) 4.
 > 78 Serrano v. Court of Appeals, 363 SCRA 223, 231 (2001).
 
-NPC 19 -1273
-
-NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 WHEREFORE, premises considered, the Commission DISMISSES
 
 the complaint filed by NFM against Bank of the Philippine Islands
@@ -995,8 +917,6 @@ NERISSA N. DE JESUS
 Deputy Privacy Commissioner NPC 19 -1273
 
 NFM v. Bank of the Philippine Islands Family – Credit Card Division
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 Copy furnished:
 

@@ -1,10 +1,13 @@
 ---
-title: "NPC Advisory Opinion No. 2018-054"
-description: "''''''''' ''''''''''''' '''''' ''''''''''''''''''''''''''' ''''''''''''''''''''' '''''''''''''''''' ''''''''''''''''''''''' '''''''''''''''''' ''''''' ''''''''''''''' '''''''''''''''''''''' ''''''''' '''''''''''''''''''''''''''''''..."
+title: "NPC Advisory Opinion No. 2018-054 — Patient Registry, Research, and the Data Privacy Act of 2012"
+description: "Guidance on the development and use of health information registries for research studies and sensitive personal information processing."
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2018"
+  - issuance
+  - type/advisory-opinion
+  - year/2018
+  - patient-registry
+  - research
+  - healthcare
 draft: false
 ---
 
@@ -16,28 +19,18 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                           ADVISORY OPINION NO. 2018-054
 
 04 December 2018
 
-''''''''' ''''''''''''' '''''' '''''''''''''''''''''''''''
-''''''''''''''''''''' ''''''''''''''''''
-''''''''''''''''''''''' '''''''''''''''''' ''''''' ''''''''''''''' '''''''''''''''''''''' ''''''''' '''''''''''''''''''''''''''''''
-'''''''''''''''''''''''''''''' '''' '''''''''''''''''' '''''''' '''''''''''''''''''''''''''''
-
-'''''''''' '''''''''''''''' '''''''''''' ''''''' ''''''''''''''''''''''
-'''''''''''''' '''''''''''''''''''''''''' ''''' '''''''''''''''''''''''''''''' ''''''''''''''''' '''''''''''''''''''
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-                RE:        PATIENT REGISTRY, RESEARCH, AND THE DATA PRIVACY
+   RE:        PATIENT REGISTRY, RESEARCH, AND THE DATA PRIVACY
                            ACT OF 2012
 
-
-Dear '''''''' '''''''''''''''''''''''''' ''''''''' '''''''' ''''''''''''''''''''''''',
+Dear [Redacted],
 
 We write in response to your letters which sought to clarify the development and use of health
 information registries, particularly patient registries, for research studies.
+
+### Discussion
 
 Specifically for '''''''' ''''''''''''''''''''''''’s query, it sought advice regarding the linkage of cancer incidence
 data of the Department of Health (DOH) - Rizal Cancer Registry and Philippine Cancer Society (PCS)
@@ -55,7 +48,6 @@ or activity,4 and subject to the requirements of applicable laws, regulations, o
 
 First, research purpose is strictly interpreted to refer to processing intended for a public benefit.6
 Maintaining a registry for research purpose falls within the special cases recognized by the DPA.
-
 
 1 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
 
@@ -100,7 +92,7 @@ and regulations, prohibit the agency from disclosing information that may lead t
 identity, unless otherwise mandated by another law. Under the DPA, the criteria for lawful
 processing of sensitive personal information are:
 
-      a. The data subject has given his or her consent;
+   a. The data subject has given his or her consent;
       b. The processing of the same is provided for by existing laws and regulations;
       c. The processing is necessary to protect the life and health of the data subject or another
          person;
@@ -110,7 +102,6 @@ processing of sensitive personal information are:
          associations: Provided, further, that the sensitive personal information are not
          transferred to third parties: Provided, finally, that consent of the data subject was
          obtained prior to processing;
-
 
 7 Id. § 3 (h).
 8 Id. § 3 (i).
@@ -128,7 +119,7 @@ Guidelines for Health and Health Related Research 15 (2017).
 Twenty-One, Entitled “Reorganizing And Strengthening The Philippine Statistical System And For Other Purposes”
 [PHILIPPINE STATISTICAL ACT OF 2013], Republic Act No. 10625 (2013).
 
-    e. The processing is necessary for purposes of medical treatment, is carried out by a
+   e. The processing is necessary for purposes of medical treatment, is carried out by a
        medical practitioner or a medical treatment institution, and an adequate level of
        protection of personal information is ensured; or
     f. The processing concerns such personal information as is necessary for the protection of
@@ -156,14 +147,10 @@ For you reference.
 
 Very truly yours,
 
-
-
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
-
-
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman

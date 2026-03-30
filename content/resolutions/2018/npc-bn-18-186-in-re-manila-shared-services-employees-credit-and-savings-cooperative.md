@@ -1,12 +1,20 @@
 ---
-title: "NPC BN 18-186: In re: Manila Shared Services Employees Credit and Savings Cooperative"
-description: "5th Floor, Philippine International Convention Center, Vicente Sotto Avenu e, Pasay City, Metro Manila 1307"
+title: 'NPC BN 18-186: In re: Manila Shared Services Employees Credit and Savings
+  Cooperative'
+description: 5th Floor, Philippine International Convention Center, Vicente Sotto
+  Avenu e, Pasay City, Metro Manila 1307
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2020
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-186"'
+- '"npc bn 18-186"'
+- '"In re: Manila Shared Services Employees Credit and Savings Cooperative"'
+- '"in re: manila shared services employees credit and savings cooperative"'
+date: '2020-10-28'
 ---
 
 ## Source

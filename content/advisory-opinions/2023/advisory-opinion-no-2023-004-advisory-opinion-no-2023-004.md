@@ -1,17 +1,25 @@
 ---
-title: "Advisory-Opinion-No.-2023-004"
-description: "required to electronically report its sales data to the BIR through their respective electronic point of sales systems or computerized accounting systems."
+title: NPC Advisory Opinion No. 2023-004 — Disclosure of Subscribers' Data Pursuant
+  to Revenue Regulation No. 09-2022
+description: required to electronically report its sales data to the BIR through their
+  respective electronic point of sales systems or computerized accounting systems.
 tags:
-  - "issuance"
-  - "type/advisory-opinion"
-  - "year/2023"
+- issuance
+- type/advisory-opinion
+- year/2023
 draft: false
 ---
+
+Re: DISCLOSURE OF SUBSCRIBERS' DATA PURSUANT TO REVENUE REGULATION NO. 09-2022
+
+Dear [Redacted],
 
 ## Source
 - Reference: Advisory Opinion No. 2023-004
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Advisory-Opinion-No.-2023-004.pdf
 - OCR used during extraction: no
+
+### Discussion
 
 ## Text
 required to electronically report its sales data to the BIR through their respective electronic
@@ -27,7 +35,7 @@ will be generated and verified therefrom.
 We note further that the implementation of the BIR EIS would require Globe to provide the
 following details to the BIR:
 
-      1.   Buyer Information
+   1.   Buyer Information
       2.   Buyer TIN
       3.   Branch Code
       4.   Registered Name
@@ -46,7 +54,7 @@ accordance with the DPA and its IRR. It is your position that the inclusion of t
 registered addresses may not be consistent with the principle of proportionality under the
 DPA given that:
 
-      a) the requirement under Section 5 (b) of the National Internal Revenue Code (NIRC) for
+   a) the requirement under Section 5 (b) of the National Internal Revenue Code (NIRC) for
          the disclosure to the BIR of addresses refers to the addresses of juridical persons that
          have a connection with the taxpayer under audit/investigation, but not the address of
          natural persons identified as “buyers”; 5 and
@@ -70,16 +78,15 @@ xxx
 to audit or investigation, or from any office or officer of the national and local governments, government agencies
 and instrumentalities, including the Bangko Sentral ng Pilipinas and government-owned or -controlled
 
-    b) Section 113(B)(1)(4) of the NIRC limits the scope of information to be provided to the
+   b) Section 113(B)(1)(4) of the NIRC limits the scope of information to be provided to the
        BIR in any VAT Invoice or VAT Official Receipt, to the following:
 
-         (4) In the case of sales in the amount of One thousand pesos (P1,000) or more where
+   (4) In the case of sales in the amount of One thousand pesos (P1,000) or more where
          the sale or transfer is made to a VAT-registered person, the name, business style, if
          any, address and Taxpayer Identification Number (TIN) of the purchaser, customer,
          or client.
 
-Lawful processing of personal information; compliance
-with a legal obligation; proportionality
+### Lawful Processing of Personal Information; Compliance with a Legal Obligation; Proportionality
 
 Under Section 12 (c) of the DPA, there is lawful processing of personal information when it is
 necessary for “compliance with a legal obligation to which the personal information controller
@@ -107,9 +114,6 @@ These are information essential for the BIR to fulfill the purpose of the EIS, t
 the integrity and reliability of the sales and purchases. With the appropriate information, the
 BIR can check whether proper taxes are declared and paid, as well as perform its other
 regulatory functions.
-
-
-
 
 corporations, any information such as, but not limited to, costs and volume of production, receipts or sales and
 gross incomes of taxpayers, and the names, addresses, and financial statements of corporations, mutual fund
@@ -144,8 +148,6 @@ adjudicate the rights and obligations of the parties involved.
 For your reference.
 
 Very truly yours,
-
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV

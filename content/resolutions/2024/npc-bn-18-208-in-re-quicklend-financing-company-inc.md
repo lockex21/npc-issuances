@@ -1,27 +1,22 @@
 ---
-title: "NPC BN 18-208: In Re: Quicklend Financing Company, Inc."
-description: "NPC BN 18-208: In Re: Quicklend Financing Company, Inc."
+title: "NPC BN 18-208: Resolution"
+description: "Resolution addressing the Compliance dated 11 February 2021"
+aliases:
+  - "NPC BN 18-208"
+  - "npc bn 18-208"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2024"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2024
+  - npc-case
+date: "2024-01-01"
 draft: false
 ---
 
-## Source
-- Reference: NPC BN 18-208
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/10/NPC-BN-18-208-06.05.2024-In-re-Quicklend-Financing-Company-Inc_Resolution-1.pdf
-- Source page: http://privacy.gov.ph/resolutions/
-- Issue date: June 5, 2024
-- Published on NPC site: Wed, 08 Oct 2025 00:30:36 GMT
-- Pages: 12
+## Source-Reference: NPC BN 18-208-Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/10/NPC-BN-18-208-06.05.2024-In-re-Quicklend-Financing-Company-Inc_Resolution-1.pdf-Source page: http://privacy.gov.ph/resolutions/
+- Issue date: June 5, 2024-Published on NPC site: Wed, 08 Oct 2025 00:30:36 GMT-Pages: 12
 
-## Source Tags
-- Sec 11. When Notification is required
-- Sec 20. Security of Personal Information
-- Sec 18. Notification of Data Subjects
-- Sec 18(a). When Should Notification be Done
+## Source Tags-Sec 11. When Notification is required-Sec 20. Security of Personal Information-Sec 18. Notification of Data Subjects-Sec 18(a). When Should Notification be Done
 
 ## Resolution Text
 IN RE: QUICKLEND FINANCING
@@ -38,8 +33,7 @@ submitted by Quicklend Financing Co mpany, Inc . ( Quicklend ) in
 
 accordance with the Order dated 26 October 20 20 .
 
-Facts
-
+### Facts
 On 05 November 2018, Quicklend reported to the National Privacy
 
 Commission (NPC), through its Complaints and Investigation
@@ -72,10 +66,6 @@ cooperating with us and helping us avoid possible collection
 
 problems and additional finance charges.” 2
 
-> 1Breach Notification dated 05 November 2018 of Quicklend Financing Company, Inc.
-> 2Id.
-
-NPC BN 18 -208 NPC BN 18 -208
 
 > In re: Quicklend Financing Co mpany, Inc .
 > Page 2of 12
@@ -136,13 +126,6 @@ notification report we received:
 
 1.  Nature of the Breach
 
-> 3Id.
-> 4Id.
-> 5Breach Notification dated 05 November 2018 of Quicklend Financing Company, Inc.
-> 6Id.
-> 7Id.
-> 8Id.
-> 9Breach Notification dated 05 November 2018 of Quicklend Financing Company, Inc. NPC BN 18 -208
 > In re: Quicklend Financing Co mpany, Inc .
 > Page 3of 12
 
@@ -238,9 +221,7 @@ related policies;
 
 - Rules on the review of policies and protocols
 
-regarding personal data security/protection
-
-- Physical security measures NPC BN 18 -208
+regarding personal data security/protection-Physical security measures NPC BN 18 -208
 
 In re: Quicklend Financing Co mpany, Inc .
 
@@ -254,7 +235,7 @@ hereof to submit your compliance through e-mail at
 
 complaints@privacy.gov.ph .
 
-SO ORDERED. 10
+**SO ORDERED**. 10
 
 On 03 November 2020, Quicklend sent an inquiry to the CID as to
 
@@ -282,9 +263,7 @@ to Submit Full Report. 14
 
 On 15 February 2021, Quicklend submitted its compliance dated 11
 
-February 2021 wherein it clarified that there were one hundred thirty -
-
-six (136) affected data subjects whose names and email addresses were
+February 2021 wherein it clarified that there were one hundred thirty-six (136) affected data subjects whose names and email addresses were
 
 exposed to all the recipients of the email blast. 15
 
@@ -300,14 +279,6 @@ To f urther substantiate its Report , Quicklend submitted the following :
 
 1) Early Payment Reminder; 2) Memorandum to Enforce Procedures;
 
-> 10 In Re: Quicklend Financing Company, Inc. ,NPC BN 18 -208, Order dated 26 October 2020, at pp. 1 -
-> 2.
-> 11 Reply to Email dated 03 November 2020 of Quicklend Financing Company, Inc.
-> 12 Id.
-> 13 In Re: Quicklend Financing Company, Inc., NPC BN 18 -208, Order dated 10 February 2021.
-> 14 Id.
-> 15 Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc., at p. 1.
-> 16 Id ,at p. 3. NPC BN 18 -208
 > In re: Quicklend Financing Co mpany, Inc .
 > Page 5of 12
 
@@ -321,8 +292,7 @@ Unfortunately, Quicklend declared that it was unable to recover the
 
 data since the leak occurred in an email. 18
 
-Issue
-
+### Issue
 I.  Whether the incident falls under mandatory breach
 
 notification; and
@@ -333,8 +303,7 @@ dated 26 October 2020 , including the implementation of
 
 reasonable and appropriate security measures.
 
-Discussion
-
+### Discussion
 The Commission finds that the incident does not fall under mandatory
 
 breach notification and Quicklend has sufficiently complied with the
@@ -371,10 +340,6 @@ enable identity fraud. For this purpose, “other information”
 
 shall include, but not be limited to: data about the financial
 
-> 17 Id.
-> 18 Id, at p. 3.
-
-NPC BN 18 -208
 
 In re: Quicklend Financing Co mpany, Inc .
 
@@ -452,11 +417,7 @@ effects to any affected data subject i s significant based on the
 
 surrounding circumstances of the breach. 20
 
-> 19 National Privacy Commission, Personal Data Breach Management, NPC Circular 2016 -03, rule
 > V, § 11 (15 December 2016) (NPC Circular 16 -03).
-> 20 NPC BN 17 -028 and NPC BN 18 -180 (Unreported), Resolution dated 11 May 2023.
-
-NPC BN 18 -208
 
 In re: Quicklend Financing Co mpany, Inc .
 
@@ -516,12 +477,6 @@ Sec. 20. Security of Personal Information.
 
 reasonable and appropriate organizational, physical and
 
-> 21 Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc., at p. 2.
-> 22 Id.
-> 23 Breach Notification dated 05 November 2018 of Quicklend Financing Company, Inc.
-> 24 Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc.
-
-NPC BN 18 -208
 
 In re: Quicklend Financing Co mpany, Inc .
 
@@ -593,14 +548,9 @@ On October 10, 2018 one of our staff, mistakenly placed around
 
 one hundred thirty -six (136) email addresses on the “TO:” section
 
-> 25 An Act Protecting Individual Personal Information in Information and Communications Systems
 > in the Government and the Private Sector, Creating for This Purpose aNational Privacy
 > Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter
 > V, § 20 (a)(b) (2012).
-> 26 Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc., at p. 3.
-> 27 Notice to Data Subjects dated 07 November 2018 of Quicklend Financing Company, Inc.
-
-NPC BN 18 -208
 
 In re: Quicklend Financing Co mpany, Inc .
 
@@ -674,11 +624,6 @@ The notification may be made on the basis of available
 
 information within the 72 -hour period if the personal data
 
-> 28 Id.
-> 29 Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc.
-> 30 Id, at p. 3.
-
-NPC BN 18 -208
 
 In re: Quicklend Financing Co mpany, Inc .
 
@@ -754,12 +699,9 @@ them to take the necessary precautions or other measures to protect
 
 themselves against the possible effects of the breach .33
 
-> 31
 
 NPC Circular 16 -03 , rule V, § 18 (A)(D) .
 
-> 32 Data Privacy Security Incident Policy of Quicklend Financing Company, Inc. , at p.1.
-> 33 NPC Circular 16 -03 ,rule V, § 18 (A) .NPC BN 18 -208
 > In re: Quicklend Financing Co mpany, Inc .
 
 Hence, Quicklend was able to mitigate the risks caused by the incident
@@ -776,13 +718,13 @@ undertaken by Quicklend have sufficiently addressed the breach to
 
 prevent a recurrence of the same.
 
-WHEREFORE, premises considered, this Commission resolves that
+**WHEREFORE**, premises considered, this Commission resolves that
 
 the matter of NPC BN 18 -208 “In re Quicklend Financing Co mpany,
 
-Inc.” is hereby CLOSED .
+Inc.” is hereby **CLOSED** .
 
-SO ORDERED.
+**SO ORDERED**.
 
 City of Pasay, Philippines.
 
@@ -823,3 +765,70 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+[^1]: Breach Notification dated 05 November 2018 of Quicklend Financing Company, Inc.
+[^2]: .
+[^3]: Id.
+[^4]: Id.
+[^5]: Breach Notification dated 05 November 2018 of Quicklend Financing Company, Inc.
+[^6]: Id.
+[^7]: Id.
+[^8]: Id.
+[^9]: Breach Notification dated 05 November 2018 of Quicklend Financing Company, Inc. NPC BN 18 -208
+[^10]: In Re: Quicklend Financing Company, Inc. ,NPC BN 18 -208, Order dated 26 October 2020, at pp. 1 -
+[^11]: Reply to Email dated 03 November 2020 of Quicklend Financing Company, Inc.
+[^12]: Id.
+[^13]: In Re: Quicklend Financing Company, Inc., NPC BN 18 -208, Order dated 10 February 2021.
+[^14]: Id.
+[^15]: Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc., at p. 1.
+[^16]: Id ,at p. 3. NPC BN 18 -208
+[^17]: Id.
+[^18]: Id, at p. 3.
+[^19]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016 -03, rule
+[^20]: NPC BN 17 -028 and NPC BN 18 -180 (Unreported), Resolution dated 11 May 2023.
+[^21]: Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc., at p. 2.
+[^22]: Id.
+[^23]: Breach Notification dated 05 November 2018 of Quicklend Financing Company, Inc.
+[^24]: Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc.
+[^25]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^26]: Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc., at p. 3.
+[^27]: Notice to Data Subjects dated 07 November 2018 of Quicklend Financing Company, Inc.
+[^28]: Id.
+[^29]: Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc.
+[^30]: Id, at p. 3.
+[^31]: 
+[^32]: Data Privacy Security Incident Policy of Quicklend Financing Company, Inc. , at p.1.
+[^33]: NPC Circular 16 -03 ,rule V, § 18 (A) .NPC BN 18 -208
+[^1]: Breach Notification dated 05 November 2018 of Quicklend Financing Company, Inc.
+[^2]: .
+[^3]: Id.
+[^4]: Id.
+[^5]: Breach Notification dated 05 November 2018 of Quicklend Financing Company, Inc.
+[^6]: Id.
+[^7]: Id.
+[^8]: Id.
+[^9]: Breach Notification dated 05 November 2018 of Quicklend Financing Company, Inc. NPC BN 18 -208
+[^10]: In Re: Quicklend Financing Company, Inc. ,NPC BN 18 -208, Order dated 26 October 2020, at pp. 1 -
+[^11]: Reply to Email dated 03 November 2020 of Quicklend Financing Company, Inc.
+[^12]: Id.
+[^13]: In Re: Quicklend Financing Company, Inc., NPC BN 18 -208, Order dated 10 February 2021.
+[^14]: Id.
+[^15]: Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc., at p. 1.
+[^16]: Id ,at p. 3. NPC BN 18 -208
+[^17]: Id.
+[^18]: Id, at p. 3.
+[^19]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016 -03, rule
+[^20]: NPC BN 17 -028 and NPC BN 18 -180 (Unreported), Resolution dated 11 May 2023.
+[^21]: Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc., at p. 2.
+[^22]: Id.
+[^23]: Breach Notification dated 05 November 2018 of Quicklend Financing Company, Inc.
+[^24]: Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc.
+[^25]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^26]: Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc., at p. 3.
+[^27]: Notice to Data Subjects dated 07 November 2018 of Quicklend Financing Company, Inc.
+[^28]: Id.
+[^29]: Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc.
+[^30]: Id, at p. 3.
+[^31]: 
+[^32]: Data Privacy Security Incident Policy of Quicklend Financing Company, Inc. , at p.1.
+[^33]: NPC Circular 16 -03 ,rule V, § 18 (A) .NPC BN 18 -208
+

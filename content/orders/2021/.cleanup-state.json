@@ -1,0 +1,84 @@
+{
+  "folder": "content/orders/2021",
+  "last_updated": "2026-03-30",
+  "files": {
+    "06-16-2021-in-re-pilipinas2022-ph-initiated-as-a-sua-sponte-npc-investigation-into-the-possible-data-privacy-violations-committed-by-pilipinas2022-ph.md": {
+      "status": "done",
+      "title": "CID CDO 21-003: In re: Pilipinas2022.ph (Cease and Desist Order)",
+      "date": "2021-06-16",
+      "notes": "Reference fixed from date-based '06-16-2021' to 'CID CDO 21-003'; multi-column OCR title block reconstructed; 'For: Violation' margin text removed; document template ID deleted; DPA §7(b)(c) and IRR §9 and NPC Circular 20-02 §4/§5 blockquoted; CID report findings blockquoted; typos COMPLAINST and TELECOMMUNICATONS fixed"
+    },
+    "npc-bn-17-010-in-re-movie-and-television-review-and-classification-board-2.md": {
+      "status": "done",
+      "title": "NPC BN 17-010: In re: Movie and Television Review and Classification Board",
+      "date": "2021-04-15",
+      "notes": "OCR title block 'CID BN NO. 17-010' corrected to 'NPC BN 17-010' per PDF URL; 'TELEEVISION' typo fixed; 'The Facts' and 'Discussion' promoted to ### headings; Jan 2018 Compliance Order 5-item list blockquoted; NPC Circular 16-03 §18(A) and §18(B) blockquoted; 25 inline footnotes extracted and consolidated; page headers removed; Sgd. lines removed"
+    },
+    "npc-bn-18-179-in-re-abs-cbn-corporation.md": {
+      "status": "done",
+      "title": "NPC BN 18-179: In re: ABS-CBN Corporation",
+      "date": "2021-03-11",
+      "notes": "Multi-column OCR title block reconstructed; NPC Circular 16-03 §9/§18(A)/§18(D) blockquoted; NPC BN 20-161 quote blockquoted; DPA §20(f) blockquoted; REMEDIAL MEASURES section blockquoted; 'ABS—CBN' em-dash in copy furnished fixed; 16 footnotes consolidated"
+    },
+    "npc-bn-18-198-in-re-cathay-pacific-airways-limited.md": {
+      "status": "done",
+      "title": "NPC BN 18-198: In re: Cathay Pacific Airways Limited",
+      "date": "2021-03-18",
+      "notes": "Reference normalized from 'NPC BN NO. 18-198' to 'NPC BN 18-198'; '-----x---x' separator normalized; 'The Facts'/'Discussion' promoted to ### headings; Cathay extension request blockquoted; NPC Circular 16-03 §9/§18(A)/§18(D) blockquoted; NPC BN 20-161 quote blockquoted; DPA §20(f) blockquoted; Cathay Notice of Information Security Breach blockquoted; split footnotes 26/27/32 reconstructed; 19 page headers removed; Sgd. lines removed; COPY FURNISHED normalized"
+    },
+    "npc-bn-20-116-in-re-saint-louis-university.md": {
+      "status": "done",
+      "title": "NPC BN 20-116: In re: Saint Louis University",
+      "date": "2021-04-15",
+      "notes": "File already clean on review: proper frontmatter, ### Facts/Discussion headings, blockquotes for Resolution WHEREFORE and NPC Circular §18(C), footnotes consolidated; no further changes required"
+    },
+    "npc-bn-21-192-in-re-medicard-philippines-inc.md": {
+      "status": "done",
+      "title": "NPC BN 21-192: In re: MediCard Philippines, Inc.",
+      "date": "2022-01-13",
+      "notes": "Date corrected to 2022-01-13 (order issued Jan 2022 despite 2021 subfolder; year/2021 tag preserved); ALL CAPS title fixed to title case; Oct 2021 Resolution WHEREFORE (4-item list) blockquoted; NPC Circular 16-03 §17(C)/§18(A)/§18(D) blockquoted; Discussion sub-headings promoted to ####; 'I CONCUR:' format (Naga + Aguirre only); 17 inline footnotes extracted and consolidated"
+    },
+    "npc-bn-no-21-054-in-re-bpi-philam-life-assurance-corporation.md": {
+      "status": "done",
+      "title": "NPC BN 21-054: In re: BPI Philam Life Assurance Corporation",
+      "date": "2021-04-15",
+      "notes": "Reference normalized from 'NPC BN NO. 21-054' to 'NPC BN 21-054'; multi-column OCR title block reconstructed; NPC Circular 16-03 §18(A) blockquoted; body date typo '09 April 2019' fixed to '09 April 2021'; BPLAC letter/extension request/Update Report blockquoted; page headers removed; Sgd. lines removed; 5 inline footnotes extracted"
+    },
+    "npc-ss-19-001-in-re-department-of-foreign-affairs-dfa.md": {
+      "status": "done",
+      "title": "NPC SS 19-001: In re: Department of Foreign Affairs (Passport Breach)",
+      "date": "2021-11-11",
+      "notes": "Description fixed (removed OCR noise); aliases/date added; 'INITIATED AS A SUA SPONTE...' text removed from title block; body date errors '14 January 2021' and '21 January 2021' corrected to '2019'; DPA §20(a)/§20(c)/(d) and IRR §28 blockquoted; footnote 12 missing (placeholder added); footnote 28 reconstructed from orphan tail '10173, rule I, § 28.' injected between signatures; 7 page headers removed; Sgd. lines removed; 'National Privacy Commission' footer removed from Copy furnished"
+    },
+    "npc-ss-20-001-in-re-familyhan-corporation-2.md": {
+      "status": "done",
+      "title": "NPC SS 20-001: In re: Familyhan Credit Corporation (Motion to Lift CDO Order)",
+      "date": "2021-06-24",
+      "notes": "Title disambiguated with '(Motion to Lift CDO Order)'; CDO WHEREFORE (Oct 2020), Comment WHEREFORE (Jan 2021), sustained CDO WHEREFORE (Feb 2021) all blockquoted; NPC Circular 20-02 §4/§15/§16 blockquoted; footnote 10 (injected between signatures due to page break) moved to end; page headers removed; Sgd. lines removed; 10 footnotes consolidated"
+    },
+    "npc-ss-20-001-in-re-familyhan-corporation-3.md": {
+      "status": "done",
+      "title": "NPC SS 20-001: In re: Familyhan Credit Corporation (Compliance Noted Order)",
+      "date": "2021-06-25",
+      "notes": "Title disambiguated with '(Compliance Noted Order)'; 9-item document list from Apr 8 Order blockquoted; NPC Circular 21-01 Rule VIII §1 (long text) placed in footnote [^2]; NPC Circular 20-02 §20 (injected between signatures) placed in footnote [^3]; page headers removed; Sgd. lines removed; 'National Privacy Commission' footer removed from Copy furnished"
+    },
+    "npc-ss-20-001-in-re-familyhan-corporation.md": {
+      "status": "done",
+      "title": "NPC SS 20-001: In re: Familyhan Credit Corporation (Post-Clarificatory Hearing Order)",
+      "date": "2021-04-08",
+      "notes": "Title disambiguated with '(Post-Clarificatory Hearing Order)'; Deed of Assignment WHEREAS clauses blockquoted; ORDERS/NOTES/GRANTS bolded in WHEREFORE; page headers removed; Sgd. lines removed; COPY FURNISHED normalized; 3 inline footnotes extracted"
+    },
+    "npc-ss-21-006-in-re-wefund-lending-corporation-2.md": {
+      "status": "done",
+      "title": "NPC SS 21-006: In re: Wefund Lending Corporation (Reiterated Comment Order)",
+      "date": "2021-09-17",
+      "notes": "Description fixed; aliases/date added; title disambiguated with '(Reiterated Comment Order)'; 'x   x' separator fixed; 'For: Violation' margin text removed from title block; Aug 12 Order full WHEREFORE blockquoted; NPC Circular 21-01 Rule X §6 blockquoted; page header injected between 'ATTY. LAN' and 'LG' in Copy furnished removed; Sgd. lines removed; 3 footnotes consolidated"
+    },
+    "npc-ss-21-006-in-re-wefund-lending-corporation-3.md": {
+      "status": "done",
+      "title": "NPC SS 21-006: In re: Wefund Lending Corporation (Temporary Ban Order)",
+      "date": "2021-08-12",
+      "notes": "Description fixed; aliases/date added; title disambiguated with '(Temporary Ban Order)'; 'x   x' separator fixed; 'For: Violation' margin text removed; date errors 'June 16' and 'June 28' corrected to 'July'; OCR WHEREFORE error reconstructed (dropped 'National Privacy Commission. A TEMPORARY BAN ON'); Discussion sub-headings promoted to ####; FFR recommendations blockquoted; JuanHand Position Paper WHEREFORE blockquoted; NPC Circular 21-01 Rules III/IX/XI/II provisions blockquoted; Rules of Court §15(2) blockquoted; Service Agreement §K(4)(c) blockquoted; FFR quotes blockquoted (×2); SA items 5-7 blockquoted; Flores-Concepcion blockquoted; footnote 27 (long Privacy Policy excerpt) kept as footnote; footnote 3 date corrected to July 23; 18 page headers removed; Sgd. lines removed; 'National Privacy Commission' footer removed; 40 footnotes consolidated"
+    }
+  }
+}

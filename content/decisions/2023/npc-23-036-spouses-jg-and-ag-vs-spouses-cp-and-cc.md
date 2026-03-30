@@ -1,25 +1,24 @@
 ---
-title: "NPC 23-036: SPOUSES JG and AG vs SPOUSES CP and CC"
-description: "NPC 23-036: SPOUSES JG and AG vs SPOUSES CP and CC"
-tags:
-  - "decision"
-  - "type/decision"
-  - "year/2023"
-  - "npc-case"
+description: Complaint for alleged data privacy violations; dismissed or granted based
+  on substantial evidence.
 draft: false
+tags:
+- decision
+- type/decision
+- year/2023
+- npc-case
+title: 'NPC 23-036: Spouses JG and AG vs. Spouses CP and CC'
+aliases:
+- NPC 23-036
+- npc 23-036
+- Spouses JG and AG vs. Spouses CP and CC
+- spouses jg and ag vs. spouses cp and cc
+date: '2023-11-13'
 ---
+## Source-Reference: NPC 23-036-Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-23-036-11.13.2023-Spouses-JG-and-AG-vs-Spouses-CP-and-CC_Decision.pdf-Source page: http://privacy.gov.ph/decisions-2/
+- Issue date: November 13, 2023-Published on NPC site: Sun, 01 Dec 2024 14:39:33 GMT-Pages: 14
 
-## Source
-- Reference: NPC 23-036
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-23-036-11.13.2023-Spouses-JG-and-AG-vs-Spouses-CP-and-CC_Decision.pdf
-- Source page: http://privacy.gov.ph/decisions-2/
-- Issue date: November 13, 2023
-- Published on NPC site: Sun, 01 Dec 2024 14:39:33 GMT
-- Pages: 14
-
-## Source Tags
-- Sec 2. Exhaustion of Remedies
-- Sec 25. Unauthorized Processing of Personal Information and Sensitive Personal Information
+## Source Tags-Sec 2. Exhaustion of Remedies-Sec 25. Unauthorized Processing of Personal Information and Sensitive Personal Information
 
 ## Decision Text
 SPOUSES J G and
@@ -28,9 +27,7 @@ AG ,
 
 Complainant,
 
--versus -
-
-SPOUSES CP and
+-versus-SPOUSES CP and
 
 CC ,
 
@@ -48,8 +45,7 @@ an alleged violation of Sectio ns 25, 28, 31 , and 32 of the Data Privacy
 
 Act of 2012 or Republic Act No. 10173 (“DPA”).
 
-Facts
-
+### Facts
 On 15 March 2023, the Commission, through its Complaints and
 
 Investigation Division (CID) received the Complaints Assisted Form
@@ -70,9 +66,6 @@ No. INV -20B -01419, titled "Spouses CP (MC) and CC vs. Spouses J G
 
 and AG, AYG, LA, PN, Spouses J Y and CY, and Spouses FC and JY.” 3
 
-> 1Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG.
-> 2Id ,at p. 7.
-> 3Id ,at p. 7.
 
 NPC 23 -036
 
@@ -147,10 +140,6 @@ complainant Spouses could not get any assistance from her in
 
 instant case. Fortunately, good minded persons with access to
 
-> 4Id , at p. 7.
-> 5Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 2.
-> 6Id , at p. 7.
-> 7Id , at p. 7 and Annex 1 “Joint and Consolidated Reply Affidavit” at p. 28.
 
 NPC 23 -036
 
@@ -212,19 +201,6 @@ them, is “ultimately liable” for the disclosure made to the
 
 Respondents. 17
 
-> 8Id , at p. 7 and Annex 1 “Joint and Consolidated Reply Affidavit” at p. 28.
-> 9Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 8.
-> 10 Id , at p. 8.
-> 11 Id , at p. 9.
-> 12 Spouses J Gand AG vs. Spouses CP and CC , NPC 23 -036, Order (To File Verified Comment and
-> Appear Virtually for Preliminary Conference) dated 11 April 2023.
-> 13 Id , at p. 2.
-> 14 Verified Comment dated 02 May 2023 of Spouses CP and CC.
-> 15 Id , at p. 9.
-> 16 Id , at p. 9.
-> 17 Id , at p. 11. NPC 23 -036
-> Spouses J Gand A G v. Spouses CP a nd CC
-> Page 4of 14
 
 Second, Respondents argued that the Complainants failed to exhaust
 
@@ -264,19 +240,13 @@ Fourth, Respondents averred that Complainants’ personal and
 
 sensitive personal information : name, address, and marital status,
 
-were already disclosed in the pleadings filed in NPS Docket No. INV -
-
-20B -01419. 23
+were already disclosed in the pleadings filed in NPS Docket No. INV-20B -01419. 23
 
 Next, Respondents also argued that the Complainants are estopped
 
 from questioning the disclosure of information relating to the outcome
 
-of the case filed by AL against them. 24  In Complainants’ Joint -
-
-Rejoinder Affidavit , they already voluntarily disclosed the C omplaint -
-
-Affidavit of AL and the outcome of that case. 25
+of the case filed by AL against them. 24  In Complainants’ Joint-Rejoinder Affidavit , they already voluntarily disclosed the C omplaint-Affidavit of AL and the outcome of that case. 25
 
 Lastly, Respondents argued that the information disclosed by them in
 
@@ -284,15 +254,6 @@ relation to the case filed by AL against Complainants is not inherently
 
 false or unwarranted. 26
 
-> 18 Verified Comment dated 02 May 2023 of Spouses CP and CC, at p. 11.
-> 19 Id , at p. 12.
-> 20 Id , at p. 14.
-> 21 Id , at p. 16.
-> 22 Verified Comment dated 02 May 2023 of Spouses CP and CC, at p. 16.
-> 23 Id , at p. 20 .
-> 24 Id , at p. 20.
-> 25 Id , at p. 20.
-> 26 Verified Comment dated 02 May 2023 of Spouses CP and CC, at p. 21.
 
 NPC 23 -036
 
@@ -346,18 +307,6 @@ DPA for disclosing their personal information and sensitive personal
 
 information with the OCP -QC without their consent, or without being
 
-> 27 Spouses J Gand AG vs. Spouses CP and CC , NPC 23 -036, Order (Noting the Complainants Working
-> Email Addresses and Respondents Comment and Reminding the Parties to Appear Virtually for
-> the Preliminary Conferences) dated 08 May 2023.
-> 28 Id .
-> 29 Manifestation dated 26 May 2023 of Spouses CP and CC.
-> 30 Special Power of Attorney dated 27 April 2023 of Spouses J Gand AG .
-> 31 Spouses J Gand AG vs. Spouses CP and CC , NPC 23 -036, Order (Noting the Respondents
-> Manifestation, Noting the Complainants Special Power of Attorney, and Requiring the Parties to
-> Submit Simultaneous Memoranda) dated 29 May 2023.
-> 32 Id , at p. 2.
-> 33 Memorandum dated 12 June 2023 of Spouses CP and CC.
-> 34 Id .
 
 NPC 23 -036
 
@@ -389,8 +338,7 @@ informing that the case is submitted for the decision of the
 
 Commission. 39
 
-Issue
-
+### Issue
 I.  Whether the case should be outrightly dismissed for failure of
 
 the Complainants to exhaust administrative remedies; and
@@ -399,8 +347,7 @@ II.  Whether Respondents are liable for violati ng Section 25 of the
 
 DPA.
 
-Discussion
-
+### Discussion
 The Commission finds that the case should not be dismissed on
 
 procedural grounds and that Respondents are liable for violating
@@ -417,12 +364,6 @@ Section 2, Rule II of NPC Circular No. 2021 -01 (2021 NPC Rules of
 
 Procedure ) provides:
 
-> 35 Id , at p. 4 -17.
-> 36 Id , at p. 17.
-> 37 Memorandum dated 21 June 2023 of Spouses J Gand AG, at p. 19.
-> 38 Id , at p. 22.
-> 39 Spouses J Gand AG vs. Spouses CP and CC , NPC 23 -036, Notice (that the Case is Submitted for
-> Decision of the Commission) dated 06 September 2023.
 
 NPC 23 -036
 
@@ -504,12 +445,6 @@ proceedings, is considered as sensitive personal information
 
 protected by Republic Act No. 10173. 41
 
-> 40 National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission,
-> NPC Circular No. 2021 -01, rule II, § 2 (28 January 2021) (2021 NPC Rules of Procedure).
-> 41 Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7 and Annex 1 “Joint
-> and Consolidated Reply Affidavit” at p. 28. NPC 23 -036
-> Spouses J Gand A G v. Spouses CP a nd CC
-> Page 8of 14
 
 In this case, Complainants’ statement in their Joint Rejoinder -Affidavit
 
@@ -571,9 +506,6 @@ Desistance with Mutual Release and Quitclaim was already included
 
 in the documents filed before the OCP -QC and cannot be withdrawn.
 
-> 42 National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission,
-> NPC Circular No. 2021 -01, rule II, § 2 (28 January 2021) (2021 NPC Rules of Procedure).
-> 43 Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7.
 
 NPC 23 -036
 
@@ -645,12 +577,6 @@ sensitive personal information; and
 
 or without authority under this Act or any existing law. 46
 
-> 44 Heirs of Amada Zaulda v. Zaulda, G.R. No. 201234, 17 March 2014 .
-> 45 An Act Protecting Individual Personal Information in Information and Communications Systems
-> in the Government and the Private Sector, Creating for This Purpose aNational Privacy
-> Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173, chapter
-> VIII , § 25 (2012).
-> 46 Id .
 
 NPC 23 -036
 
@@ -720,14 +646,6 @@ previous or current health records, licenses or its denials,
 
 suspension or revocation, and tax returns; and
 
-> 47 Id , chapter I, § 3(j) (2012).
-> 48 Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7 and Annex 1 “Joint
-> and Consolidated Reply Affidavit” at p. 28.
-> 49 An Act Protecting Individual Personal Information in Information and Communications Systems
-> in the Government and the Private Sector, Creating for This Purpose aNational Privacy
-> Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173, chapter
-> I, § 3 (g) (2012). NPC 23 -036
-> Spouses J Gand AG v. Spouses CP and CC
 
 (4) Specifically established by an executive order or an act of
 
@@ -795,10 +713,6 @@ processing sensitive personal information and privileged information,
 
 to wit:
 
-> 50 Id , chapter I, § 3 (l) (2012).
-> 51 Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7.
-> 52 Id , at p. 7 and Annex 1 “Joint and Consolidated Reply Affidavit” at p. 28.
-> 53 Verified Comment dated 02 May 2023 of Spouses CP and CC, at p. 16.
 
 NPC 23 -036
 
@@ -858,18 +772,6 @@ Principle of Legitimate Purpose as it is in compatible with a declared
 
 and specified purpose not contrary to law, morals, or public policy. 59
 
-> 54 An Act Protecting Individual Personal Information in Information and Communications Systems
-> in the Government and the Private Sector, Creating for This Purpose aNational Privacy
-> Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173, chapter
-> II I, § 13(f) (2012).
-> 55 Id , chapter III, § 1 1(a)(2012).
-> 56 JBD v. JI and VVV, NPC 18 -D-012, Decision dated 21 January 2021, at p. 13.
-> 57 Id .
-> 58 Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7 and Annex 1 “Joint
-> and Consolidated Reply Affidavit” at p. 28.
-> 59 National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of
-> 2012, rule IV, §18(b) (2016). NPC 23 -036
-> Spouses J Gand AG v. Spouses CP and CC
 
 In view of the foregoing , the Commission finds that Respondents’ act
 
@@ -919,7 +821,6 @@ LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
-> 60 Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7.
 
 NPC 23 -036
 
@@ -954,3 +855,17 @@ COMPL IANCE AND MONITORING DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+
+[^1]: Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG. 2Id ,at p. 7. 3Id ,at p. 7.
+[^4]: Id , at p. 7. 5Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 2. 6Id , at p. 7. 7Id , at p. 7 and Annex 1 “Joint and Consolidated Reply Affidavit” at p. 28.
+[^8]: Id , at p. 7 and Annex 1 “Joint and Consolidated Reply Affidavit” at p. 28. 9Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 8. 10 Id , at p. 8. 11 Id , at p. 9. 12 Spouses J Gand AG vs. Spouses CP and CC , NPC 23 -036, Order (To File Verified Comment and Appear Virtually for Preliminary Conference) dated 11 April 2023. 13 Id , at p. 2. 14 Verified Comment dated 02 May 2023 of Spouses CP and CC. 15 Id , at p. 9. 16 Id , at p. 9. 17 Id , at p. 11. NPC 23 -036 Spouses J Gand A G v. Spouses CP a nd CC Page 4of 14
+[^18]: Verified Comment dated 02 May 2023 of Spouses CP and CC, at p. 11. 19 Id , at p. 12. 20 Id , at p. 14. 21 Id , at p. 16. 22 Verified Comment dated 02 May 2023 of Spouses CP and CC, at p. 16. 23 Id , at p. 20 . 24 Id , at p. 20. 25 Id , at p. 20. 26 Verified Comment dated 02 May 2023 of Spouses CP and CC, at p. 21.
+[^27]: Spouses J Gand AG vs. Spouses CP and CC , NPC 23 -036, Order (Noting the Complainants Working Email Addresses and Respondents Comment and Reminding the Parties to Appear Virtually for the Preliminary Conferences) dated 08 May 2023. 28 Id . 29 Manifestation dated 26 May 2023 of Spouses CP and CC. 30 Special Power of Attorney dated 27 April 2023 of Spouses J Gand AG . 31 Spouses J Gand AG vs. Spouses CP and CC , NPC 23 -036, Order (Noting the Respondents Manifestation, Noting the Complainants Special Power of Attorney, and Requiring the Parties to Submit Simultaneous Memoranda) dated 29 May 2023. 32 Id , at p. 2. 33 Memorandum dated 12 June 2023 of Spouses CP and CC. 34 Id .
+[^35]: Id , at p. 4 -17. 36 Id , at p. 17. 37 Memorandum dated 21 June 2023 of Spouses J Gand AG, at p. 19. 38 Id , at p. 22. 39 Spouses J Gand AG vs. Spouses CP and CC , NPC 23 -036, Notice (that the Case is Submitted for Decision of the Commission) dated 06 September 2023.
+[^40]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission, NPC Circular No. 2021 -01, rule II, § 2 (28 January 2021) (2021 NPC Rules of Procedure). 41 Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7 and Annex 1 “Joint and Consolidated Reply Affidavit” at p. 28. NPC 23 -036 Spouses J Gand A G v. Spouses CP a nd CC Page 8of 14
+[^42]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission, NPC Circular No. 2021 -01, rule II, § 2 (28 January 2021) (2021 NPC Rules of Procedure). 43 Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7.
+[^44]: Heirs of Amada Zaulda v. Zaulda, G.R. No. 201234, 17 March 2014 . 45 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173, chapter VIII , § 25 (2012). 46 Id .
+[^47]: Id , chapter I, § 3(j) (2012). 48 Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7 and Annex 1 “Joint and Consolidated Reply Affidavit” at p. 28. 49 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173, chapter I, § 3 (g) (2012). NPC 23 -036 Spouses J Gand AG v. Spouses CP and CC
+[^50]: Id , chapter I, § 3 (l) (2012). 51 Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7. 52 Id , at p. 7 and Annex 1 “Joint and Consolidated Reply Affidavit” at p. 28. 53 Verified Comment dated 02 May 2023 of Spouses CP and CC, at p. 16.
+[^54]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose aNational Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173, chapter II I, § 13(f) (2012). 55 Id , chapter III, § 1 1(a)(2012). 56 JBD v. JI and VVV, NPC 18 -D-012, Decision dated 21 January 2021, at p. 13. 57 Id . 58 Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7 and Annex 1 “Joint and Consolidated Reply Affidavit” at p. 28. 59 National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, §18(b) (2016). NPC 23 -036 Spouses J Gand AG v. Spouses CP and CC
+[^60]: Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7.

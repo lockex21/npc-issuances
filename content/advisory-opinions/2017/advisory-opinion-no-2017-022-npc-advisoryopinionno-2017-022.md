@@ -1,6 +1,6 @@
 ---
-title: "NPC_AdvisoryOpinionNo._2017-022"
-description: "''''''''''''''''''''''''' '''''''''''''''''''''''' ''''' ''''''''''''''''''' ''''''''''''''''''''''''''''''"
+title: "NPC Advisory Opinion No. 2017-022 — Registration of Data Processing Systems"
+description: "Advisory Opinion on registration of data processing systems under the Data Privacy Act."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -11,31 +11,27 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2017-022
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryOpinionNo._2017-022.pdf
+- Issue date: 06/19/2017
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                                               ADVISORY OPINION NO. 2017-22
-
 
 19 June 2017
 
-''''''''''''''''''''''''' ''''''''''''''''''''''''
-''''' '''''''''''''''''''
-''''''''''''''''''''''''''''''
-
-Dear ''''''' '''''''''''''''''',
+Dear [Redacted],
 
 This refers to your query which was received by the National Privacy Commission (NPC) on 12
 May 2017. Specifically, you put forward the following inquiries:
 
-       1. What are the supporting documents necessary for registration?
+### Discussion
 
-       2. Who are the personal information controller (PIC), personal information processor (PIP),
+   1. What are the supporting documents necessary for registration?
+
+   2. Who are the personal information controller (PIC), personal information processor (PIP),
           and data protection officer (DPO) in your organization, and/or how should they be
           selected?
 
-       3. What are the reasons why you need to adopt these policies, so you could convince your
+   3. What are the reasons why you need to adopt these policies, so you could convince your
           board of trustees to approve the request for registration?
 
 Registration of Data Processing Systems
@@ -56,8 +52,6 @@ The registration form may be downloaded from the Commission’s website
 systems, including the documentary requirements thereof, parties may also look to the relevant
 provisions1 of the Implementing Rules and Regulations (IRR) of Republic Act No. 10173, also
 known as the Data Privacy Act of 2012 (DPA), for guidance on this subject.
-
-
 
 PIC, PIP, and DPO
 
@@ -88,8 +82,6 @@ in selecting the DPO:
     5. The hospital should be ready to support the DPO in terms of providing resources and
         training to allow independent and effective performance of DPO functions.
 
-
-
 Rationale
 
 The Data Privacy Act is a law that is intended for the protection of personal data. Healthcare
@@ -113,16 +105,9 @@ patient, and inherent in the duties of hospitals as a provider of care. The DPA 
 the strengthening of systems to prevent harm to patients, and cultivating a culture of privacy that
 is essential to quality care.
 
-
-
 For your reference.
 
-
-
-
 Sincerely,
-
-
 
 IVY D. PATDU
 Officer-in-Charge and

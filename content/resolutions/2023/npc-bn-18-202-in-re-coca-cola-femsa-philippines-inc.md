@@ -1,11 +1,17 @@
 ---
 title: "NPC BN 18-202: In re: COCA-COLA Femsa Philippines, Inc."
-description: "NPC BN 18-202: In re: COCA-COLA Femsa Philippines, Inc."
+description: "Placeholder description from cleaned file"
+aliases:
+  - "NPC BN 18-202"
+  - "npc bn 18-202"
+  - "In re: COCA-COLA Femsa Philippines, Inc."
+  - "in re: coca-cola femsa philippines, inc."
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2023"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2023
+  - npc-case
+date: "2023-10-19"
 draft: false
 ---
 
@@ -675,7 +681,6 @@ City of Pasay, Philippines.
 
 19 October 2023.
 
-Sgd.
 
 JOHN HENRY D. NAGA
 
@@ -683,7 +688,6 @@ Privacy Commissioner
 
 WE CONCUR:
 
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -699,7 +703,6 @@ NPC BN 18 -202
 
 In re: Coca -Cola FEMSA Philippines, Inc.
 
-Sgd.
 
 NERISSA N. DE JESUS
 

@@ -1,25 +1,22 @@
 ---
-title: "NPC 23-036: In Re: Spouses JG and AG vs Spouses CKP and CJC"
-description: "NPC 23-036: In Re: Spouses JG and AG vs Spouses CKP and CJC"
+title: "Unknown: Resolution"
+description: "NPC resolution."
+aliases:
+  - "UNKNOWN"
+  - "unknown"
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2024"
-  - "npc-case"
+  - resolution
+  - type/resolution
+  - year/2024
+  - npc-case
+date: "2024-01-01"
 draft: false
 ---
 
-## Source
-- Reference: NPC 23-036
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2026/01/NPC-23-036-03.21.2024-Spouses-JG-and-AG-vs-Spouses-CKP-and-CJC_Resolution-1.pdf
-- Source page: http://privacy.gov.ph/resolutions/
-- Issue date: March 21, 2024
-- Published on NPC site: Mon, 12 Jan 2026 03:04:45 GMT
-- Pages: 12
+## Source-Reference: NPC 23-036-Official PDF: http://privacy.gov.ph/wp-content/uploads/2026/01/NPC-23-036-03.21.2024-Spouses-JG-and-AG-vs-Spouses-CKP-and-CJC_Resolution-1.pdf-Source page: http://privacy.gov.ph/resolutions/
+- Issue date: March 21, 2024-Published on NPC site: Mon, 12 Jan 2026 03:04:45 GMT-Pages: 12
 
-## Source Tags
-- Sec 2. Exhausion of Remedies
-- Sec 13 (F) Defense of Legal Claims
+## Source Tags-Sec 2. Exhausion of Remedies-Sec 13 (F) Defense of Legal Claims
 
 ## Resolution Text
 SPOUSES J G and
@@ -28,9 +25,7 @@ AG ,
 
 Complainant,
 
--versus -
-
-SPOUSES CKP and
+-versus-SPOUSES CKP and
 
 CJC ,
 
@@ -46,13 +41,12 @@ Before this Commission is the Motion for Reconsideration (MR) dated
 
 04 March 2024 filed by Spouses CKP and CJC (Spouses C) .
 
-Facts
-
+### Facts
 On 13 November 2023, the Commission issued a Decision with the
 
 following dispositive portion:
 
-WHEREFORE, premises considered, this Commission hereby:
+**WHEREFORE**, premises considered, this Commission hereby:
 
 1.  HOLDS Respondent Spouses CKP and CJC liable for violating
 
@@ -68,12 +62,8 @@ Processing of Personal Information and Sensitive Personal
 
 Information under Section 25 of the DPA.
 
-SO ORDERED. 1
+**SO ORDERED**. 1
 
-> 1Spouses J Gand AG vs. Spouses CKP and CJC ,NPC 23 -036, Decision dated 13 November 2023, at p.
-> 13.
-
-NPC 23 -036
 
 For: Violation of the
 
@@ -141,16 +131,8 @@ expected “to understand the ramifications of the allegations made by
 
 the Complainants ” in their Joint Rejoinder Affidavit. 9
 
-> 2Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 1.
-> 3National Privacy Commission, Amendments to Certain Provisions of the 2021 Rules of Procedure
 > of the National Privacy Commission, NPC Circular 2024 -01, rule VIII, § 7 (26 January 2024) (NPC
 > Circular 24 -01).
-> 4Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 1.
-> 5Verified Comment dated 02 May 2023 of Spouses CKP and CJC.
-> 6Memorandum dated 12 June 2023 of Spouses CKP and CJC.
-> 7Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 1.
-> 8Id , at p. 3.
-> 9Id .NPC 23 -036
 > Spouses J Gand G v. Spouses CKP and CJC
 > Resolut ion
 > Page 3of 12
@@ -183,9 +165,7 @@ More so , Complainants could never be purportedly exposed to any
 
 risk or any grave or irreparable damage because the disclosure was
 
-made only to the Investigating Prosecutor in NPS Docket No. INV -
-
-20B -01419 and not to the public at large. 13  “No third parties, other than
+made only to the Investigating Prosecutor in NPS Docket No. INV-20B -01419 and not to the public at large. 13  “No third parties, other than
 
 those who were parties in NPS Docket No. INV -20B -01419 received the
 
@@ -203,21 +183,12 @@ made to strengthen their accusations against the Complainants for
 
 Estafa under Article 315 (2) (a) of the Revised Penal Code and to protect
 
-their rights and interests as Complainants in NPS Docket No. INV -20B -
-
-01419 .16
+their rights and interests as Complainants in NPS Docket No. INV -20B-01419 .16
 
 The disclosure w as for the supposed purpose of showing to the
 
 Investigating Prosecutor that the Complainants had formerly engaged
 
-> 10 Id, at p. 4 .
-> 11 Id .
-> 12 Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 5.
-> 13 Id .
-> 14 Id .
-> 15 Id .
-> 16 Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 7. NPC 23 -036
 > Spouses J Gand AG v. Spouses CKP and CJC
 > Resolut ion
 > Page 4of 12
@@ -266,25 +237,12 @@ November 2023 be reversed and a new one be issued dismissing the
 
 case against them. 25
 
-Issue
-
+### Issue
 Whe ther the Motion for Reconsideration filed by Spouses CKP and
 
 CJC should be granted.
 
-Discussion
-
-> 17 Id .
-> 18 Id.
-> 19 Id , at pp. 9 -13.
-> 20 Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at pp. 9 -13.
-> 21 Id , at p. 14.
-> 22 Id .
-> 23 Id .
-> 24 Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 14.
-> 25 Id ,at p. 15.
-
-NPC 23 -036
+### Discussion
 
 Spouses J G and G v. Spouses CKP and CJC
 
@@ -358,10 +316,6 @@ inadequate because they are mere laymen .27
 
 In the Decision dated 13 November 2023, the Commission held that:
 
-> 26 NPC Circular 24 -01, rule II, § 2.
-> 27 Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 3.
-
-NPC 23 -036
 
 Spouses J G and AG v. Spouses CKP and CJC
 
@@ -423,16 +377,11 @@ persons not privy to said case were able to access documents relating
 
 to it.
 
-> 28 Spouses J Gand AG vs. Spouses CKP and CJC , NPC 23 -036, Decision dated 13 November 2023, at
 > pp. 7-8.
-> 29 Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 3.
-> 30 An Act to Ordain and Institute the Civil Code of the Philippines [Civil Code of the Philippines],
 > Republic Act No. 386, chapter 1, Art. 3(1949).
-> 31 An Act Protecting Individual Personal Information in Information and Communications Systems
 > in the Government and the Private Sector, Creating for This Purpose aNational Privacy
 > Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173, chapter
 > I, § 3 (l) (2012).
-> 32 Motion for Reconsideration dated 04 March 2024 of Spouses C KP and CJC, at p. 5. NPC 23 -036
 > Spouses J Gand G v. Spouses CKP and CJC
 > Resolut ion
 > Page 7of 12
@@ -495,10 +444,6 @@ establishment, exercise or defense of legal claims, or when
 
 provided to government or public authority. 36
 
-> 33 Id , at p. 4.
-> 34 Id .
-> 35 Data Privacy Act of 2012 ,chapter I, § 3 (h) .
-> 36 Id ,chapter I II , § 13 ( f). NPC 23 -036
 > Spouses J Gand AG v. Spouses CKP and CJC
 > Resolut ion
 > Page 8of 12
@@ -573,10 +518,6 @@ sensitive pe rsonal information failed to comply with the General
 
 Data Privacy Principle of Legitimate Purpose as it is incompatible
 
-> 37 Id ,chapter I, § 3 ( j).
-> 38 Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 7.
-
-NPC 23 -036
 
 Spouses J G and G v. Spouses CKP and CJC
 
@@ -638,14 +579,6 @@ consent of the data subject is any “freely given, specific, informed
 
 indication of will, whereby the data subject agrees to the collection and
 
-> 39 Spouses J Gand AG vs. Spouses CKP and CJC NPC 23 -036, Decision dated 13 November 2023, at p p.
-> 12 -13.
-> 40 Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at pp. 9 -13.
-> 41 Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7.
-> 42 CL vs. DDZ and DM vs. DDZ, NPC 19 -030 and NPC 19 -132, Resolution dated 10 June 2021, at p.
-> 9.
-> 43 Id .
-> 44 Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 14. NPC 23 -036
 > Spouses J Gand AG v. Spouses CKP and CJC
 > Resolut ion
 
@@ -697,21 +630,15 @@ evidence that would warrant the reversal of the Decision dated 13
 
 November 2023 .
 
-WHEREFORE, premises considered, this Commission resolves to
+**WHEREFORE**, premises considered, this Commission resolves to
 
 DENY the Motion for Reconsideration filed by Spouses CKP and CJC .
 
 The Decision dated 13 November 2023 is hereby AFFIRMED .
 
-SO ORDERED.
+**SO ORDERED**.
 
-> 45 Data Privacy Act of 2012 ,chapter I, § 3 (b).
-> 46 Memorandum dated 12 June 2023 of Spouses CKP and CJC, at p. 19 .
-> 47 Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 14.
-> 48 National Privacy Commission, Guidelines on Consent, NPC Circular 2023 -04, § 10 (A) (07
 > November 2023) (NPC Circular 23 -04).
-
-NPC 23 -036
 
 Spouses J G and G v. Spouses CKP and CJC
 
@@ -770,3 +697,100 @@ GENERAL RECORDS UNIT NPC 23 -036
 Spouses J G and AG v. Spouses CKP and CJC
 
 Resolut ion
+[^1]: Spouses J Gand AG vs. Spouses CKP and CJC ,NPC 23 -036, Decision dated 13 November 2023, at p.
+[^2]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 1.
+[^3]: National Privacy Commission, Amendments to Certain Provisions of the 2021 Rules of Procedure
+[^4]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 1.
+[^5]: Verified Comment dated 02 May 2023 of Spouses CKP and CJC.
+[^6]: Memorandum dated 12 June 2023 of Spouses CKP and CJC.
+[^7]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 1.
+[^8]: Id , at p. 3.
+[^9]: .
+[^10]: Id, at p. 4 .
+[^11]: Id .
+[^12]: -13.
+[^13]: Id .
+[^14]: Id .
+[^15]: Id .
+[^16]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 7. NPC 23 -036
+[^17]: Id .
+[^18]: Id.
+[^19]: Id , at pp. 9 -13.
+[^20]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at pp. 9 -13.
+[^21]: Id , at p. 14.
+[^22]: Id .
+[^23]: Id .
+[^24]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 14.
+[^25]: Id ,at p. 15.
+[^26]: NPC Circular 24 -01, rule II, § 2.
+[^27]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 3.
+[^28]: Spouses J Gand AG vs. Spouses CKP and CJC , NPC 23 -036, Decision dated 13 November 2023, at
+[^29]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 3.
+[^30]: An Act to Ordain and Institute the Civil Code of the Philippines [Civil Code of the Philippines],
+[^31]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^32]: Motion for Reconsideration dated 04 March 2024 of Spouses C KP and CJC, at p. 5. NPC 23 -036
+[^33]: Id , at p. 4.
+[^34]: Id .
+[^35]: Data Privacy Act of 2012 ,chapter I, § 3 (h) .
+[^36]: Id ,chapter I II , § 13 ( f). NPC 23 -036
+[^37]: Id ,chapter I, § 3 ( j).
+[^38]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 7.
+[^39]: Spouses J Gand AG vs. Spouses CKP and CJC NPC 23 -036, Decision dated 13 November 2023, at p p.
+[^40]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at pp. 9 -13.
+[^41]: Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7.
+[^42]: CL vs. DDZ and DM vs. DDZ, NPC 19 -030 and NPC 19 -132, Resolution dated 10 June 2021, at p.
+[^43]: Id .
+[^44]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 14. NPC 23 -036
+[^45]: Data Privacy Act of 2012 ,chapter I, § 3 (b).
+[^46]: Memorandum dated 12 June 2023 of Spouses CKP and CJC, at p. 19 .
+[^47]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 14.
+[^48]: National Privacy Commission, Guidelines on Consent, NPC Circular 2023 -04, § 10 (A) (07
+[^1]: Spouses J Gand AG vs. Spouses CKP and CJC ,NPC 23 -036, Decision dated 13 November 2023, at p.
+[^2]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 1.
+[^3]: National Privacy Commission, Amendments to Certain Provisions of the 2021 Rules of Procedure
+[^4]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 1.
+[^5]: Verified Comment dated 02 May 2023 of Spouses CKP and CJC.
+[^6]: Memorandum dated 12 June 2023 of Spouses CKP and CJC.
+[^7]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 1.
+[^8]: Id , at p. 3.
+[^9]: .
+[^10]: Id, at p. 4 .
+[^11]: Id .
+[^12]: -13.
+[^13]: Id .
+[^14]: Id .
+[^15]: Id .
+[^16]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 7. NPC 23 -036
+[^17]: Id .
+[^18]: Id.
+[^19]: Id , at pp. 9 -13.
+[^20]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at pp. 9 -13.
+[^21]: Id , at p. 14.
+[^22]: Id .
+[^23]: Id .
+[^24]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 14.
+[^25]: Id ,at p. 15.
+[^26]: NPC Circular 24 -01, rule II, § 2.
+[^27]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 3.
+[^28]: Spouses J Gand AG vs. Spouses CKP and CJC , NPC 23 -036, Decision dated 13 November 2023, at
+[^29]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 3.
+[^30]: An Act to Ordain and Institute the Civil Code of the Philippines [Civil Code of the Philippines],
+[^31]: An Act Protecting Individual Personal Information in Information and Communications Systems
+[^32]: Motion for Reconsideration dated 04 March 2024 of Spouses C KP and CJC, at p. 5. NPC 23 -036
+[^33]: Id , at p. 4.
+[^34]: Id .
+[^35]: Data Privacy Act of 2012 ,chapter I, § 3 (h) .
+[^36]: Id ,chapter I II , § 13 ( f). NPC 23 -036
+[^37]: Id ,chapter I, § 3 ( j).
+[^38]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 7.
+[^39]: Spouses J Gand AG vs. Spouses CKP and CJC NPC 23 -036, Decision dated 13 November 2023, at p p.
+[^40]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at pp. 9 -13.
+[^41]: Complaints -Assisted Form dated 14 March 2023 of Spouses J Gand AG, at p. 7.
+[^42]: CL vs. DDZ and DM vs. DDZ, NPC 19 -030 and NPC 19 -132, Resolution dated 10 June 2021, at p.
+[^43]: Id .
+[^44]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 14. NPC 23 -036
+[^45]: Data Privacy Act of 2012 ,chapter I, § 3 (b).
+[^46]: Memorandum dated 12 June 2023 of Spouses CKP and CJC, at p. 19 .
+[^47]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 14.
+[^48]: National Privacy Commission, Guidelines on Consent, NPC Circular 2023 -04, § 10 (A) (07
+

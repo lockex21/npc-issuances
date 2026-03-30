@@ -1,6 +1,6 @@
 ---
 title: "FAQ Prerequisites for the Philippine Privacy Mark Certification Program (Circular No. 2023-05)"
-description: "It provides the prerequisites for certifying personal information controllers (PICs) or personal information processors (PIPs) and accrediting certification bodies (CBs) under the PPM Certification Program."
+description: "Provides frequently asked questions and prerequisites for certifying personal information controllers and processors, and accrediting certification bodies under the PPM Certification Program."
 aliases:
   - "Circular No. 2023-05"
   - "circular no. 2023-05"
@@ -8,17 +8,18 @@ aliases:
   - "npc circular no. 2023-05"
 tags:
   - "issuance"
-  - "topic/training-certification"
   - "type/faq"
   - "year/2023"
+  - "topic/training-certification"
 draft: false
+date: "2023-10-03"
 ---
 
 ## Issuance Text
 
 **Circular No. 2023-05**
 
-        FREQUENTLY ASKED QUESTIONS (FAQs) ON NPC CIRCULAR NO. 2023-05
+   FREQUENTLY ASKED QUESTIONS (FAQs) ON NPC CIRCULAR NO. 2023-05
 
 ## Prerequisites for the Philippine Privacy Mark (PPM) Certification Program
 

@@ -1,6 +1,6 @@
 ---
 title: "FAQ Security of Personal Data in the Government and the Private Sector (Circular No. 2023-06)"
-description: "I. WHAT IS THE DIFFERENCE BETWEEN CIRCULAR NO. 2023-06 (SECURITY OF PERSONAL DATA IN THE GOVERNMENT AND PRIVATE SECTOR) AND CIRCULAR NO. 2016-01 (SECURITY OF PERSONAL DATA IN GOVERNMENT AGENCIES)?"
+description: "Frequently asked questions on security of personal data in both government and private sectors, explaining differences from previous circulars and clarifying compliance obligations."
 aliases:
   - "Circular No. 2023-06"
   - "circular no. 2023-06"
@@ -8,11 +8,12 @@ aliases:
   - "npc circular no. 2023-06"
 tags:
   - "issuance"
-  - "topic/government"
-  - "topic/security"
   - "type/faq"
   - "year/2023"
+  - "topic/security"
+  - "topic/government"
 draft: false
+date: "2023-11-28"
 ---
 
 ## Issuance Text

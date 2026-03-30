@@ -1,6 +1,6 @@
 ---
-title: "Advisory Opinion No. 2024-007_redacted"
-description: "We respond to your request for guidance on the release of incident reports containing personal information of individuals."
+title: "NPC Advisory Opinion No. 2024-007 — Disclosure and Release of Incident Reports by an Educational Institution"
+description: "Guidance on releasing incident reports containing personal information while balancing privacy rights and institutional accountability."
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -14,57 +14,52 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-PRIVACY POLICY OFFICE
-                             ADVISORY OPINION NO. 2024 - 0071
 
  02 July 2024
 
-
-
-
-           Re:     DISCLOSURE AND RELEASE OF INCIDENT REPORTS BY
+   Re:     DISCLOSURE AND RELEASE OF INCIDENT REPORTS BY
                    AN EDUCATIONAL INSTITUTION.
 
-Dear
+Dear [Redacted],
 
 We respond to your request for guidance on the release of incident reports containing
 personal information of individuals.
 
+### Discussion
+
 Specifically, you seek guidance on whether Calayan Educational Institution, Inc. (CEFI) may
 release incident reports under the following circumstances:
 
-          1. Sans any court order, is it permissible under the Data Privacy Act and other
+   1. Sans any court order, is it permissible under the Data Privacy Act and other
              existing regulations to release incident reports to parties directly involved in the
              incidents, knowing that personal information of other individuals may be
              disclosed within these reports?
 
-          2. Sans any court order, is it permissible under the Data Privacy and other existing
+   2. Sans any court order, is it permissible under the Data Privacy and other existing
              regulations to release incident reports to parties not directly involved in the
              incidents but mentioned in said reports, knowing that personal information of
              other individuals may be disclosed within these reports?
 
-          3. What should CEFI do to safeguard the right to privacy of individuals whose
+   3. What should CEFI do to safeguard the right to privacy of individuals whose
              personal information is contained within incident reports when considering
              request for copies of or access to such reports?
 
-          4. What specific protocols or procedures should requesting parties follow or adhere
+   4. What specific protocols or procedures should requesting parties follow or adhere
              to when seeking access to or copies of incident reports, particularly in cases where
              personal information of other individuals may be disclosed.
 
-
-
 1 Incident reports; court order; proportionality; law enforcement.
 
-           5. Can CEFI be held liable for refusing to release incident reports despite request from
+   5. Can CEFI be held liable for refusing to release incident reports despite request from
               involved parties or those mentioned in the reports?
 
-           6. Can the Office of the Prosecutor and other government agencies such as the
+   6. Can the Office of the Prosecutor and other government agencies such as the
               Department of Education (DepEd) and/ or the Commission on Higher Education
               (CHED) compel the production or release of reports or other documents
               containing personal and/or other confidential information in conducting
               investigations and/or in aid of cases/ complaints filed before them?
 
-           7. During investigations conducted by government agencies such as the DepEd and
+   7. During investigations conducted by government agencies such as the DepEd and
               CHED of complaints filed by or against our institution, may our institution submit
               evidence containing personal and other confidential information in its defense?
 
@@ -100,7 +95,6 @@ phrase, “necessary for law enforcement purposes” found in paragraph (e), Sec
 DPA is not a weapon that can be indiscriminately wielded by any agency that invokes it. The
 law enforcement agency must establish its mandate to enforce a particular law, and more
 importantly, that they are not unreasonably infringing on the rights of individuals guaranteed
-
 
 2 Data Privacy Act 2021, § 3 (l) (2).
 3 National Privacy Commission, NPC Advisory Opinion No. 2020-013 (21 February 2020).
@@ -145,9 +139,7 @@ adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 
-
 Very truly yours,
-
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV

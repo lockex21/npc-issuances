@@ -1,12 +1,19 @@
 ---
-title: "NPC BN 18-217: In re: Infosys BPM-Philippines"
-description: "NPC BN 18-217: In re: Infosys BPM-Philippines"
+title: 'NPC BN 18-217: In re: Infosys BPM-Philippines'
+description: Breach notification resolution on Infosys BPM Philippines data breach
+  notification.
 tags:
-  - "resolution"
-  - "type/resolution"
-  - "year/2018"
-  - "npc-case"
+- resolution
+- type/resolution
+- year/2018
+- npc-case
 draft: false
+aliases:
+- '"NPC BN 18-217"'
+- '"npc bn 18-217"'
+- '"In re: Infosys BPM-Philippines"'
+- '"in re: infosys bpm-philippines"'
+date: '2018-10-24'
 ---
 
 ## Source

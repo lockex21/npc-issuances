@@ -1,11 +1,17 @@
 ---
 title: "NPC 19-142: MLF v. Grab Philippines"
 description: "Complaint against Grab Philippines for alleged Data Privacy Act violation dismissed; communications between driver and passenger within in-app chat remain within legitimate purpose of ride transaction."
+aliases:
+  - "NPC 19-142"
+  - "npc 19-142"
+  - "MLF v. Grab Philippines"
+  - "mlf v. grab philippines"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2022"
+  - "year/2019"
   - "npc-case"
+date: "2022-03-31"
 draft: false
 ---
 
@@ -22,17 +28,19 @@ draft: false
 
 ## Decision Text
 
-MLF, Complainant, -versus- MYTAXI.PH CORPORATION (GRAB PHILIPPINES), Respondent.
+MLF,
 
-x x
+Complainant,
 
-NPC 19-142
+-versus-
 
-(Formerly CID Case No. 19-C-142)
+MYTAXI.PH CORPORATION (GRAB PHILIPPINES),
 
-For: Violation of the Data Privacy Act of 2012
+Respondent.
 
-AGUIRRE, D.P.C.;
+x----------------------------------------------------x
+
+AGUIRRE, D.P.C.:
 
 Before this Commission is a complaint filed by MLF against MyTaxi.PH Corporation, doing business under the name of "Grab Philippines" (Grab Philippines), for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
 
@@ -90,7 +98,7 @@ Considering the foregoing, Grab Philippines averred that it is not the Personal 
 
 Alternatively, Grab Philippines posited that assuming it was the PIC, there was no unauthorized processing of personal data.[^50] MLF consented to its collection and use of his personal data.[^51] Additionally, Grab Philippines' Privacy Policy states that these personal data may be used to "enable communications between users, i.e., [drivers]."[^52] Through Grab Philippines' Terms of Use for Passengers, MLF also agreed that his personal data may be shared with third party providers who "may communicate with him for any reasons whatsoever."[^53] Thus, though it does not tolerate unruly and unprofessional behavior of its drivers and frowns upon the cancellation of trips, it may not be held liable for the sharing of MLF's personal data which enables communication between him and its drivers.[^54]
 
-### Issues
+### Issue
 
 I. Whether the case should be dismissed outright; and
 
@@ -260,27 +268,25 @@ Grab Philippines did not process MLF's personal information for a different purp
 
 Given that the processing of MLF's personal information did not go beyond what he consented, it being within the ambit of the declared and specified purpose, the Commission finds that Grab Philippines did not violate Section 28 of the DPA.
 
-### Dispositive Portion
-
 **WHEREFORE**, premises considered, this Commission resolves that the case filed by MLF against MyTaxi.Ph Corporation is hereby **DISMISSED**.
 
 This is without prejudice to the filing of appropriate civil, criminal or administrative cases before any other forum or tribunal, if any.
 
 **SO ORDERED.**
 
----
+City of Pasay, Philippines. 31 March 2022.
 
-**LEANDRO ANGELO Y. AGUIRRE**
+LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-**JOHN HENRY D. NAGA**
+JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
-**DUG CHRISTOPER B. MAH**
+DUG CHRISTOPER B. MAH
 
 Deputy Privacy Commissioner
 

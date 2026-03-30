@@ -1,11 +1,21 @@
 ---
-title: "NPC 19-758 and NPC 19-1846: Spouses MCD, JJD v. Victorias Milling Company, et al"
-description: "Complaint -Affidavit of MCD , 27 June 2019, at 1, in Sps. MCD -JJD v. Victorias Milling Company,"
+title: 'NPC 19-758 and NPC 19-1846: Spouses MCD and JJD v. Victorias Milling Company,
+  et al.: Spouses MCD and JJD v. Victorias Milling Company, et al.'
+description: Determination of whether Spouses MCD and JJD v. Victorias Milling Company,
+  et al. violated DPA provisions.
+aliases:
+- 'NPC 19-758 and NPC 19-1846: Spouses MCD and JJD v. Victorias Milling Company, et
+  al.'
+- 'npc 19-758 and npc 19-1846: spouses mcd and jjd v. victorias milling company, et
+  al.'
+- Spouses MCD and JJD v. Victorias Milling Company, et al.
+- spouses mcd and jjd v. victorias milling company, et al.
 tags:
-  - "decision"
-  - "type/decision"
-  - "year/2023"
-  - "npc-case"
+- decision
+- type/decision
+- year/2019
+- npc-case
+date: '2023-11-22'
 draft: false
 ---
 
@@ -21,7 +31,6 @@ draft: false
 - Legitimate Interest (Section 12(f))
 
 ## Decision Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 MCD ,
 
@@ -93,9 +102,7 @@ Data Privacy Act of
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-Facts
+### Facts
 
 Complainants were employees of VMC .1 MCD narrated that during
 
@@ -192,8 +199,6 @@ Id.
 Id. NPC 19 -758 & 19 -1846
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 discovered that Complainants are “in the business of financing the
 
@@ -292,8 +297,6 @@ Id. at 4; Id. at 4.
 Id. NPC 1 9-758 & 19 -1846
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Because of this, MCD requested a grievance conference. 19  In his
 
@@ -401,8 +404,6 @@ NPC 19 -758 & 19 -1846 (NPC 2021). NPC 19 -758 & 19 -1846
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 On 11 March 2021, Respondents filed their Entry of Appearance. 30
 
 On 23 March 2021 , only Complainants, through their representative ,
@@ -493,8 +494,6 @@ Id. NPC 1 9-758 & 19 -1846
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 and ensure compliance with the same , which include s the creation of
 
 the Manual on Corporate Governance .39
@@ -565,8 +564,6 @@ its company procedures and the Labor Code of the Philippines , it
 NPC 19 -758 & 19 -1846
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 initiated its internal administrative process which resulted in the
 
@@ -639,8 +636,6 @@ Quitclaim on account of the received settlement. 53
 NPC 1 9-758 & 19 -1846
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 28 June 2019, the Respondents disclosed that VMC filed before the
 
@@ -717,8 +712,6 @@ this case, needed to protect its int erest such as disclosures of
 NPC 19 -758 & 19 -1846
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 information involving conflict of interest. When the
 
@@ -798,8 +791,6 @@ NPC 1 9-758 & 19 -1846
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 Disclosure Statement to protect its legitimate interest of preventing
 
 fraud and violations of its policies which may affect the business :
@@ -877,8 +868,6 @@ NPC 19 -758 & 19 -1846
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 Respondents also contend ed that Complainants failed to particularly
 
 identify which information was processed and how the individual
@@ -948,8 +937,6 @@ NPC 1 9-758 & 19 -1846
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 allegation of disclosure of unwarranted or false information with
 
 malice or bad faith on the part of Respondent s.76
@@ -1018,7 +1005,7 @@ Order, 26 October 2021, in Sps. MCD -JJD v. Victorias Milling Company, NPC 19 -7
 
 > 79
 
-Fact -Finding Report, 29 December 2022, at 3, in Sps. MCD -JJD v. Victorias Milling Company,
+Fact-Finding Report, 29 December 2022, at 3, in Sps. MCD -JJD v. Victorias Milling Company,
 
 NPC 19 -758 & 19 -1846 (NPC 2022).
 
@@ -1049,8 +1036,6 @@ Id.
 Id. NPC 19 -758 & 19 -1846
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 On 19 and 20 November 2021, Respondents 86  and Complainants 87
 
@@ -1150,8 +1135,6 @@ Id. at 2 .NPC 1 9-758 & 19 -1846
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 March 2018 in relation to work suspension. Thus, the request has
 
 no bearing on the allegations in the complaint.  95
@@ -1244,13 +1227,11 @@ Company, NPC 19 -758 & 19 -1846 (NPC 2022). NPC 19 -758 & 19 -1846
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 II.  Whether Respondents’ act of processing the contents of the
 
 Disclosure Statements is a violation of the DPA .
 
-Discussion
+### Discussion
 
 The Commission dismisses the case for lack of substantial evidence.
 
@@ -1308,8 +1289,6 @@ the Notice s to Explain issued by Respondents to MCD and JJD ,106  the
 NPC 1 9-758 & 19 -1846
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 written Explanation s of MCD and JJD ,107  the N otice s of Suspension ,108
 
@@ -1413,8 +1392,6 @@ Id . rule 133, §6 .NPC 19 -758 & 19 -1846
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 burden as they failed to support their allegations with substantial
 
 evidence.
@@ -1493,8 +1470,6 @@ v. Victorias Milling Company, NPC 19 -758 & 19 -1846 (NPC 2019). NPC 1 9-758 & 1
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 While it has been established earlier that Complainants failed to
 
 identify which information Respondents processed , a perusal of the
@@ -1572,8 +1547,6 @@ Company, NPC 19 -758 & 19 -1846 (NPC 2019); Complaint -Affidavit of JJD , 27 Jun
 in Sps. MCD -JJD v. Victorias Milling Company, NPC 19 -758 & 19 -1846 (NPC 2019). NPC 19 -758 & 19 -1846
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 not otherwise prohibited by law, and when at least one of the
 
@@ -1657,8 +1630,6 @@ MAF v. Shopee, NPC 21 -167, at 9 .NPC 1 9-758 & 19 -1846
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 Section 11. General Data Privacy Principles. The processing of
 
 personal information shall be allowed, subject to compliance
@@ -1737,8 +1708,6 @@ See Data Privacy Act of 2012, § 11; Rules and Regulations Implementing the Data
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 The first element requires that there should be a specific purpose, such
 
 that the purpose of processing is clearly defined and not vague or
@@ -1812,8 +1781,6 @@ pursuant to good corporate governance , required all of its employees
 NPC 1 9-758 & 19 -1846
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 and consultants to execute the Disclosure Statements. Clearly,
 
@@ -1905,8 +1872,6 @@ Id. NPC 19 -758 & 19 -1846
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 Thus, Respondent established their legitimate interest and satisfied the
 
 first requisite of processing based on Section 12 (f) of the DPA. They
@@ -1982,8 +1947,6 @@ https://privacy.gov.ph/wp -content/uploads/2023/05/NPC -17 -018 -EA -and -TA -v-
 Data Privacy Act of 2012, § 11 (c)(d). NPC 1 9-758 & 19 -1846
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 (c) Accurate, relevant and, where necessary for purposes for
 
@@ -2067,8 +2030,6 @@ Philippine Stock Exchange v. Secretary of Finance, G.R. No. 213860 (2022 ).NPC 1
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 entries and detect discrepancies in the Disclosure Statements.
 
 Respondents conducted field investigations, verifications, inspections,
@@ -2145,8 +2106,6 @@ NPC 1 9-758 & 19 -1846
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
 (b) Processed fairly and lawfully;
 
 Respondents ’ adopted me ans for validating the information in the
@@ -2217,8 +2176,6 @@ with the requirements of this Act and other laws allowing
 NPC 19 -758 & 19 -1846
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
 
 disclosure of information to the public and adherence to the
 
@@ -2303,7 +2260,6 @@ Consolidated Comment, 18 October 2021, at 2, in Sps. MCD -JJD v. Victorias Milli
 NPC 19 -758 & 19 -1846 (NPC 2021). NPC 1 9-758 & 19 -1846
 
 > Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 employees, when they submitted their Disclosure Statements to VMC.
 
@@ -2381,8 +2337,6 @@ NPC 19 -758 & 19 -1846
 
 Spouses MCD and JJD v. Victorias Milling Company, et al.
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7
-
 WHEREFORE, premises considered, this Commission resolves that
 
 the case filed by Spouses MCD and JJD against Victorias Milling
@@ -2428,8 +2382,6 @@ DEPASUCAT -SAZON & ILIGAN LAW OFFICES
 Counsel for Complainant sNPC 1 9-758 & 19 -1846
 
 Sp ou ses MCD and JJD v. Victorias Milling Company , et al.
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 KAB
 

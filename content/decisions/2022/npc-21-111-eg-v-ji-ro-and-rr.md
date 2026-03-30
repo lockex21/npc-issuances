@@ -1,11 +1,17 @@
 ---
 title: "NPC 21-111: EG v. JI, RO, and RR"
-description: "5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307"
+description: "Complaint alleging unauthorized disclosure of CCTV footage; dismissed for lack of substantial evidence that processing violated the DPA, as respondent had lawful basis under Section 13(f) for defense of legal claims."
+aliases:
+  - "NPC 21-111"
+  - "npc 21-111"
+  - "EG v. JI, RO, and RR"
+  - "eg v. ji, ro, and rr"
 tags:
   - "decision"
   - "type/decision"
-  - "year/2022"
+  - "year/2021"
   - "npc-case"
+date: "2022-09-22"
 draft: false
 ---
 
@@ -26,210 +32,84 @@ draft: false
 - Three Part Test
 
 ## Decision Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
-EG ,
+EG,
 
 Complainant,
 
--versus -
+-versus-
 
-JI , RO , and
-
-RR
+JI, RO, and RR
 
 Respondent.
 
 x----------------------------------------------------x
 
-NAGA , P.C.;
+NAGA, P.C.;
 
-Before this Commission is a Complaint filed by EG against JI, RO ,
+Before this Commission is a Complaint filed by EG against JI, RO, and RR (collectively, Respondents) for an alleged violation of Section 32 of Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA).
 
-and RR (collectively, Respondent s) for an alleged violation of Section
+### Facts
 
-32 of Republic Act No. 10173 , or the Data Privacy Act of 2012 (DPA).
+On 01 June 2021, EG filed a Complaint-Affidavit with the NPC’s Complaints and Investigation Division (CID), alleging that he was a resident of CEC, a condominium in XXXX, while Respondents JI works as an (AA), RO works as the (AM), and RR as the (CS) of CEC.[^1]
 
-Facts
+In his Complaint-Affidavit, EG alleged that he “had a verbal argument with another tenant in his building, a British-Filipino citizen, which alerted the security agency, including the respondent RR.”[^2] EG averred that “when things escalated, matters were reported to the building administrators and the British Filipino nurse,
 
-On 01 June 2021, EG filed a Complaint -Affidavit with the NPC’s
 
-Complaints and Investigation Division (CID), alleging that he was a
 
-resident of CEC , a condominium in XXXX , while Respondents JI
+Complaint-Affidavit dated 26 May 2021 of EG, at p. 1.
 
-works as an (AA ), RO works as the (AM ), and RR as the (CS ) of
 
-CEC .1
 
-In his Complaint -Affidavit, EG alleged that he “had a verbal
-
-argument with another tenant in his building, a British -Filipino
-
-citizen, which alerted the security agency, including the respondent
-
-RR .”2 EG averred that “when things escalated, matters were reported
-
-to the building administrators and the British Filipino nurse,
-
-> 1
-
-Complaint -Affidavit dated 26 May 2021 of EG , at p. 1.
-
-> 2
-
-Id. , at ¶ 4.
-
-NPC 21 -111
-
-For: Violation of
-
-the Data Privacy
-
-Act of 2012 NPC 21 -111
-
+Id., at ¶ 4.
 EG vs JI, RO, and RR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
-conducted their (sic ) own private investigation about [the
+conducted their (sic) own private investigation about [the Complainant].”[^3]
 
-Complainant ].”3
+EG claimed that “[t]hey talked to the security and was able to secure a video footage of the Complainant, his identity, whereabouts, and other footage containing his personal information without his consent.”[^4]
 
-EG claimed that “[t]hey talked to the security and was able to secure
+EG alleged that “[i]n the meeting with the Barangay, Respondents JI and RO (sic), employees of, admitted that they [had] released the video footage to the British-Filipino Nurse and admitted that they did so without the consent of EG.”[^5]
 
-a video footage of the Complainan t, his identity, whereabouts, and
+EG further alleged that there was no privacy notice from the Condominium Corporation informing the tenants that the building administration was processing personal data.[^6]
 
-other footage containing his personal information without his
+Subsequently, EG filed a complaint with the barangay due to alleged privacy violations.[^7]
 
-consent .”4
+EG attached in his Complaint-Affidavit a letter addressed to the Respondents dated 01 December 2020.[^8] In the letter, EG informed the Respondent of the alleged privacy violation and demanded “for damages as reparation and indemnity for [the] unauthorized disclosure of personal information.”[^9]
 
-EG alleged that “[i]n the meeting with the Barangay , Respondents JI
+An Order to Comment dated 30 June 2021 was issued ordering Respondents to file a verified comment within fifteen (15) calendar days from receipt of the Order.[^10]
 
-and RO (sic), employees of , admitted that the y [had] released the
 
-video footage to the British -Filipino Nurse and admitted that they
 
-did so without the consent of EG .”5
 
-EG further alleged that there was no privacy notice from the
 
-Condominium Corporation informing the tenant s that the b uilding
 
-administration was processing personal data .6
 
-Subsequently , EG filed a complaint with the barangay due to alleged
 
-privacy violations .7
+On 27 August 2021, an Order to Appear for Preliminary Conference was issued ordering the parties to appear virtually for Preliminary Conference on 13 October 2021 and 27 October 2021.[^11]
 
-EG attached in his Complaint -Affidavit a letter addressed to the
+Respondents filed their Comment dated 25 September 2021 praying that the complaint be dismissed for lack of merit.[^12] Respondents averred that they were deployed in the CEC, with RO working as the “AM of MGSI.”; JI as an “AA” of the same agency; and RR as a “SO of CSSI [.]”.[^13]
 
-Respondents dated 01 December 2020 .8 In the letter, EG informed the
+Respondents stated that “EG [had] a misunderstanding or quarrel [with] one of the tenant[s] namely [JM and PM] at the lobby of Cluster 5.”[^14] Respondents alleged that EG filed a complaint before the Barangay due to the incident, and that Spouses JM and PM went to the Property Management Office and requested for the closed-circuit television (CCTV) footage to prove “that there [was] no physical interaction between the two parties and to enlightened (sic) the Barangay Lupon [on] what really happened [during] that time.”[^15]
 
-Respondent of the alleged privacy violation and demanded “for
+Though not explicitly stated, the “British Filipino nurse” mentioned in EG’s Complaint-Affidavit[^16] can reasonably be inferred to be PM as mentioned in the subsequent submissions of the parties. This is bolstered by the fact that EG, in his Memorandum, alleged that he had a verbal argument with PM sometime in January 2020.[^17]
 
-damages as reparation and indemnity for [the ] unauthorized
-
-disclosure of personal information .”9
-
-An Order to Comment dated 30 June 2021 was issued ordering
-
-Resp ondents to file a verified comment within fifteen (15) calendar
-
-days from receipt of the Order. 10
-
-> 3Id. ,at ¶ 5.
-> 4Id. , at ¶ 5.
-> 5Complaint -Affidavit dated 26 May 2021 of EG , at ¶ 8.
-> 6Id. ,at ¶ 7.
-> 7Id. ,at ¶ 9.
-> 8Complaint -Affidavit dated 26 May 2021 of EG , at p. 6, See Letter dated 1 December 2020 of LB .
-> 9Id.
-> 10 EG vs JI, RO and RR ., NPC 21 -111, Order to Comment dated 30 June 2021.
-
-NPC 21 -111
-
-EG vs JI, RO, and RR
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
-
-On 27 August 2021, an Order to Appear for Preliminary Conference
-
-was issued ordering the parties to appear virtually for Preliminary
-
-Conference on 13 October 2021 and 27 October 2021. 11
-
-Respondents filed their Comment dated 25 September 2021 praying
-
-that the complaint be dismissed for lack of merit. 12 Respondents
-
-averred that they were deployed in the CEC , with RO working as the
-
-“AM of M GSI.”; JI as an “ AA” of the same agency; and RR as a “ SO
-
-of CSSI [.]” .13
-
-Respondents stated that “EG [had] a misunderstanding or quarrel
-
-[with] one of the tenant [s] namely [JM and PM ] at the lobby of
-
-Cluster 5 .”14 Re spondent s alleged that EG filed a complaint before the
-
-Barangay due to the incident , and that Spouses JM and PM went to
-
-the Property Management Office and request ed for the closed -circuit
-
-television ( CCTV ) footage to prove “that there [wa s] no physical
-
-interaction between the two parties and to enlighten ed ( sic ) the
-
-Barangay Lupon [on ] what really happened [during ] that time .”15
-
-Though not explicitly stated, the “British Filipino nurse” mentioned
-
-in EG ’s Complaint -Affidavit 16 can reasonably be inferred to be PM as
-
-mentioned in the subsequent submissions of the parties . This is
-
-bolstered by the fact that EG , in his Memorandum, alle ged that he
-
-had a verbal argument with PM sometime in January 2020. 17
-
-Respondents also alleged that EG went to the administrative office to
-
-complain about RR for releasing the CCTV footage to the Spouses JM
-
-and PM .18
+Respondents also alleged that EG went to the administrative office to complain about RR for releasing the CCTV footage to the Spouses JM and PM.[^18]
 
 Respondents averred that as part of the protocol for this kind of
 
-request for investigation, JI , as the (A A) , will only receive the
+request for investigation, JI, as the (AA) , will only receive the
 
-> 11 EG vs JI, RO, and RR , NPC 21 -111, Order to Appear for Preliminary Conference dated 27
-> August 2021.
-> 12 Comment dated 25 September 2021 of Respondents JI, RO, and RR , at p. 6.
-> 13 Id. ,at p. 1.
-> 14 Id. ,at p p.1-2.
-> 15 Id. ,at p. 2.
-> 16 Complaint -Affidavit dated 26 May 2021 of EG , at ¶ 5.
-> 17 Memorandum of Complainant EG dated 23 February 2022, at ¶ 4.
-> 18 Comment dated 25 September 2021 of Respondents JI, RO, and RR , at p. 3.
-
-NPC 21 -111
-
-EG vs JI, RO, and RR
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 complaint or request and collate relevant details which will then be
 
 endorsed to the Head of Security or Shift -in -Charge for
 
-investigation .19 Here, JI , forwarded the request to obtain the CCTV to
+investigation .19 Here, JI, forwarded the request to obtain the CCTV to
 
-RR , who was the Security -in -Charge at that time. 20 Respondents
+RR, who was the Security -in -Charge at that time. 20 Respondents
 
-alleged that JI ha d no authority nor jurisdiction to approve the
+alleged that JI had no authority nor jurisdiction to approve the
 
 release of any documents, personal information, or CCTV footage to
 
@@ -237,9 +117,9 @@ any person without the approval of the proper authority. 21
 
 Respondents alleged that RR interviewed and investigated the
 
-Sp ouses JM and PM request and retrieved the CCTV footage as
+Spouses JM and PM request and retrieved the CCTV footage as
 
-evidence to show the lack of physical altercation between Sp ouses JM
+evidence to show the lack of physical altercation between Spouses JM
 
 and PM and EG .22 Respondents averred that “[ the Spouses JM and
 
@@ -279,24 +159,18 @@ to give the Respondent the opportunity to address the issue
 
 when it sent a defective demand letter as stated in Rule IV
 
-Sect ion 1 .26
+Section 1 .26
 
-> 19 Id. ,at p. 2.
-> 20 Id. ,at p. 2.
-> 21 Id. , at p. 2.
-> 22 Comment dated 25 September 2021 of Respondents JI, RO, and RR , at p. 2.
-> 23 Id. ,at p. 3.
-> 24 Id. , at p. 3.
-> 25 Id. ,at p. 3.
-> 26 Comment dated 25 September 2021 of Respondents JI, RO, and RR , at p. 4.
 
-NPC 21 -111
 
-EG vs JI, RO, and RR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
-Respondents further argue d that EG “improperly informed the
+
+
+
+
+
+Respondents further argued that EG “improperly informed the
 
 Respondents of the sufficient factual circumstances surrounding the
 
@@ -306,11 +180,11 @@ information on what is [sic] necessary action to be done and the
 
 nature of the alleged violation .” 27
 
-Re spondents argue d that RO and JI should not be liable for the
+Re spondents argued that RO and JI should not be liable for the
 
 release of the CCTV footage. 28 RO was out of the office when the
 
-Sp ouses JM and PM requested the said footage and was unaware of
+Spouses JM and PM requested the said footage and was unaware of
 
 the request. 29 Further, Respondents alleged that “JI was only
 
@@ -322,9 +196,9 @@ department. ”30
 
 Moreover, Respondents alleged that the actions RR took by
 
-providing the CCTV footage to the Sp ouses JM and PM , upon the ir
+providing the CCTV footage to the Spouses JM and PM , upon their
 
-request , was a “lawful exercise of rights and duties and not violative
+request, was a “lawful exercise of rights and duties and not violative
 
 of any existing privacy laws, guidelines, or policies and done in good
 
@@ -334,7 +208,7 @@ After the preliminary conference on 13 October 2021, both parties
 
 manifested that they were willing to undergo mediation
 
-proceeding s.32
+proceedings.32
 
 In an Order dated 13 October 2021 , the CID stated that:
 
@@ -346,7 +220,7 @@ Virtually Appear for Preliminary Conference dated 17 August
 
 raised in the verified comment they have filed. Hence, he
 
-requested that res pondents be given additional period of time
+requested that respondents be given additional period of time
 
 to file amended or supplemental verified comment after
 
@@ -354,20 +228,14 @@ receiving a copy of the complaint. Complainant, through
 
 counsel, opposed no objection thereto. 33
 
-> 27 Id. ,at p. 4.
-> 28 Id. ,at p. 4.
-> 29 Id. ,at p. 5.
-> 30 Comment dated 25 September 2021 of Respondents JI, RO, and RR , at p. 5.
-> 31 Id. ,at p. 6.
-> 32 EG vs JI, RO, and RR ., NPC 21 -111, Order (After the 1 st Preliminary Conference on 13 October
-> 2021) dated 13 October 2021.
-> 33 Id.
 
-NPC 21 -111
 
-EG vs JI, RO, and RR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
+
+
+
+
 
 The CID ordered that “ a copy of the complaint and its attachments,
 
@@ -379,7 +247,7 @@ Subsequently, EG filed a Manifestation with Motion dated 31 October
 
 2021 with a prayer to terminate the mediation proceedings. 35 In the
 
-Manifestation, it was alleged that EG email ed his counsel and
+Manifestation, it was alleged that EG emailed his counsel and
 
 expressed his unwillingness to enter into mediation with the
 
@@ -387,9 +255,9 @@ Respondents. 36
 
 An Order dated 07 December 2021 was issued granting the motion to
 
-terminate the mediation process. 37 Moreover, the Respondent s were
+terminate the mediation process. 37 Moreover, the Respondents were
 
-ordered to submit the ir amended/supplemental verified comment
+ordered to submit their amended/supplemental verified comment
 
 within fifteen (15) days from receipt of the Order. 38 Further, the
 
@@ -423,26 +291,15 @@ interaction that transpired between them and the complainant
 
 during their confrontation last 9 January 2020.
 
-> 34 Id.
-> 35 Manifestation with Motion of EG dated 31 October 2021, at p. 2.
-> 36 Id. ,at p. 1.
-> 37 EG vs JI, RO, and RR , NPC 21 -111, Order (on the Manifestation and Motion filed by the
-> Complainant) dated 07 December 2021, at p. 1.
-> 38 Id. ,at p. 1.
-> 39 Id. ,at p. 2.
-> 40 Joint Counter -Affidavit dated 28 December 2021 of Respondents JI, RO and RR .
 
-NPC 21 -111
 
-EG vs JI, RO, and RR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 b. That JM and PM are one of the registered tenants of CEC
 
 who provided all documents necessary for the release of the
 
-video footage invo lving them for proper investigation such as
+video footage involving them for proper investigation such as
 
 investigation request form and waiver declaring that the CCTV
 
@@ -458,7 +315,7 @@ arise from request especially the Data Privacy Act of 2012. 41
 
 The CID issued an Order dated 04 January 2022 noting the
 
-submission of the Joint Count er Affidavit. 42
+submission of the Joint Counter Affidavit. 42
 
 In the second preliminary conference on 26 January 2022, the parties
 
@@ -468,7 +325,7 @@ stipulated the following issues to be resolved:
 
 violation of the Data Privacy Act; and
 
-2) w hether or not Respondents RO and JI , who have not
+2) w hether or not Respondents RO and JI, who have not
 
 participated in the release of the video coverage would be held
 
@@ -478,7 +335,7 @@ The parties were ordered t o simultaneously submit their respective
 
 memoranda. 44
 
-Respondent s filed their Memorandum dated 22 February 2022,
+Respondents filed their Memorandum dated 22 February 2022,
 
 wherein they reiterated their claims and defenses in their past
 
@@ -490,23 +347,9 @@ and PM regarding the legal action taken by [EG ] for releasing the
 
 requested CCTV Footage.” 46 Moreover, the Spouses JM and PM
 
-> 41 Id. ,at ¶ 6.
-> 42 EG vs JI, RO, and RR , NPC 21 -111, Order (Noting the Submission of Joint Counter Affidavit)
-> dated 04 January 2022.
-> 43 EG vs JI, RO, and RR , NPC 21 -111, Order (After the 2 nd Preliminary Conference) dated 26
-> January 2022.
-> 44 EG vs JI, RO and RR , NPC 21 -111, Order (Noting the Submission of Joint Counter Affidavit)
-> dated 26 January 2 022.
-> 45 Memorandum dated 22 February 2022 of Respondents JI, RO, and RR .
-> 46 Id. ,at ¶ 7.
 
-NPC 21 -111
 
-EG vs JI, RO, and RR
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
-
-“provided a signed a letter to th e Property Management Office of
+“provided a signed a letter to the Property Management Office of
 
 CEC declaring the CCTV Footage they [got] from CEC will be used
 
@@ -516,7 +359,7 @@ during their confrontation with EG .“ 47
 
 Respondents alleged that “the CCTV System installed at the CEC was
 
-provided by the CSSI . to the Condominium Corporation as part of
+provided by the CSSI. to the Condominium Corporation as part of
 
 the Contract Service Agreement and was publicly conveyed to all the
 
@@ -524,15 +367,15 @@ members and unit owners based on this contract. ”48 Respondents
 
 alleged that RR was “assigned to [the ] position [of ] SO who will
 
-conduct [the ] review, [restor ation] , and make (sic ) an investigation
+conduct [the ] review, [restoration] , and make (sic ) an investigation
 
 report pertaining to the CCTV System operation as part of his duties
 
 and responsibilities. ”49
 
-Respondents, as part of their defense, argue d that the release of the
+Respondents, as part of their defense, argued that the release of the
 
-CCTV footage was justified since it was in accordance with Sect ion 7
+CCTV footage was justified since it was in accordance with Section 7
 
 of NPC Advisory No. 2020 -04 in relation to Section 13 of the DPA. 50
 
@@ -550,7 +393,7 @@ Respondents also argued that the data subjects whose personal
 
 information were processed are those of Spouses JM and PM
 
-personal inform ation , which was necessary for their defenses against
+personal information , which was necessary for their defenses against
 
 EG 's accusation in the barangay proceedings. 52
 
@@ -558,23 +401,17 @@ EG submitted his Memorandum dated 23 February 2022, alleging
 
 that he is a “data subject and that his personal information is being
 
-processed by the buildi ng administrator and security personnel.” 53
+processed by the building administrator and security personnel.” 53
 
 Moreover, EG alleged that “the release of PM ’s personal information
 
-> 47 Id. ,at ¶ 7.
-> 48 Id. ,at ¶ 17.
-> 49 Memorandum dated 22 February 2022 of Respondents JI, RO, and RR , at ¶ 19.
-> 50 Id. ,at ¶ 20.
-> 51 Id. ,at ¶ 22.
-> 52 Id. ,at ¶ 26.
-> 53 Memorandum of Complainant EG dated 23 February 2022, at ¶ 11.
 
-NPC 21 -111
 
-EG vs JI, RO, and RR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+
+
+
+
 
 for whatever purpose may be achieved without disclosure of the
 
@@ -584,7 +421,7 @@ of the video.” 54
 
 Further, EG argued  that as the personal information controller (PIC),
 
-Respondents wer e bound “to safeguard [the ] personal information
+Respondents were bound “to safeguard [the ] personal information
 
 and not disclose said information without the data subject's
 
@@ -592,46 +429,43 @@ consent. ”55 EG further alleged that Respondents admitted that the
 
 CCTV was released without his consent and was therefore
 
-unauthorized. 56  EG also argue d that the access to the CCTV Footage
+unauthorized. 56  EG also argued that the access to the CCTV Footage
 
 did not comply with the provisions of NPC Advisory No. 2020 -04. 57
 
-He also aver red that “the lack of CCTV Notice on the premises shows
+He also averred that “the lack of CCTV Notice on the premises shows
 
-the ir unawareness of their responsibilities under the law and of the
+their unawareness of their responsibilities under the law and of the
 
 sanctions it can bring. ”58
 
-Issue
+### Issue
 
 Whether Respondents committed a violation of the DPA.
 
-Discussion
+### Discussion
 
 The Commission dismisses the complaint for lack of merit.
 
 EG , as the complainant, has the obligation to prove by substantial
 
-evidence that either JI , RO , or RR committed a privacy violation
+evidence that either JI, RO, or RR committed a privacy violation
 
 under Section 32 of the DPA .
 
 As already established in past rulings, in administrative proceedings
 
-such as in this Commissio n, the burden is on the Complainant to
+such as in this Commission, the burden is on the Complainant to
 
 prove by substantial evidence that the allegations in the complaint
 
 are tr ue. 59 In the case of Billanes vs. Latido , the Supreme Court defined
 
-> 54 Id. ,at ¶ 19.
-> 55 Id. ,at ¶ 12.
-> 56 Id. ,at ¶ 14.
-> 57 Memorandum of Complainant EG dated 23 February 2022, at ¶ 1 6.
-> 58 Id. ,at ¶ 25.
-> 59 M vs B , G.R. No. 149335, 01 July 2003. NPC 21 -111
-> EG vs JI, RO, and RR
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
+
+
+
+
 
 substantial evidence as “that amount of evidence which a reasonable
 
@@ -667,7 +501,7 @@ party (like [ EG ]) is not necessary particularly when its release is
 
 contrary to the interest of the non -consenting [party] and necessary
 
-for the defe nse of the data subject, which is considered a legitimate
+for the defense of the data subject, which is considered a legitimate
 
 interest.” 65 Further, Respondents alleged that “the action made by
 
@@ -693,19 +527,13 @@ DPA or his data p rivacy rights.
 
 Section 32 of the DPA provides:
 
-> 60 B vs L ,A.C. No. 12066, 28 August 2018.
-> 61 Memorandum of Complainant EG dated 23 February 2022, at ¶ 21.
-> 62 Id. ,at ¶ 24.
-> 63 Id. ,at ¶ 26.
-> 64 Id. ,at ¶ 27.
-> 65 Memorandum dated 22 February 2022 of Respondents JI, RO, and RR , at ¶ 22.
-> 66 Id. ,at ¶ 22.
 
-NPC 21 -111
 
-EG vs JI, RO, and RR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
+
+
+
+
 
 Section 32. Unauthorized Disclosure. – (a) Any personal
 
@@ -729,7 +557,7 @@ As discussed by the Commission in NPC 21 -010 to 21 -015,
 
 Based on a literal reading of Section 32 of the DPA, a PIC or a
 
-PIP is liable if it discloses to a third party person al or sensitive
+PIP is liable if it discloses to a third party personal or sensitive
 
 personal inf ormation without the consent of the data subject.
 
@@ -775,17 +603,11 @@ neither unwarranted nor false information;
 
 6. The disclosure was not malicious nor done in bad faith ; and
 
-> 67 An Act Protecting Individual Personal Information in Information and Communications
+
 > Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy
 > Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter
 > VIII, § 32 (2012).
-> 68 NPC 21 -010 to 21 -015 ,Decision dated 03 February 2022, at p. 11.
 
-NPC 21 -111
-
-EG vs JI, RO, and RR
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 7. The disclosure was without any of the lawful bases for
 
@@ -799,7 +621,7 @@ I. Respondent RR is an employee of a
 
 personal information processor.
 
-The first element is present in this case as to RR . For clarity, a PIC
+The first element is present in this case as to RR. For clarity, a PIC
 
 “refers to a person or organization, who controls the collection,
 
@@ -819,7 +641,7 @@ whom a [PIC] may outsource the processing of personal data
 
 pertaining to a data subject. ”70
 
-Respondents averred that they were dep loyed in the condominium,
+Respondents averred that they were deployed in the condominium,
 
 with RO working as the “Admin Manager of Maininvest General
 
@@ -829,35 +651,32 @@ CSSI [.]” 71
 
 Further, in Respondents’ Memorandum, it was stated that the CCTV
 
-System installed at CEC was provided by C SSI. to the Condominium
+System installed at CEC was provided by CSSI. to the Condominium
 
 Corporation as part of the Contract Service Agreement. 72 From the
 
-circumstances, CSSI . acts as a PIP by virtue of its contract with the
+circumstances, CSSI. acts as a PIP by virtue of its contract with the
 
-Condominium Corp oration to install and operate a CCTV system
+Condominium Corporation to install and operate a CCTV system
 
 within their premises. It can be inferred that the processing of
 
 information through the CCTV medium is being processed on behalf
 
-> 69 An Act Protecting Individual Personal Information in Information and Communications
+
 > Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy
 > Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173, § 3 (h)
 > (2012 ).
-> 70 Data Privacy Act of 2012, § 3 (i) .
-> 71 Comment dated 25 September 2021 of Respondents JI, RO, and RR , at p. 1.
-> 72 Memorandum dated 22 February 2022 of Respondents JI, RO, and RR , at ¶ 17. NPC 21 -111
-> EG vs JI, RO, and RR
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
-of the CEC . It is CEC that controls the processing of personal
+
+
+of the CEC. It is CEC that controls the processing of personal
 
 information through CCTV. Thus, based on the foregoing, the PIC in
 
 relation to the CCTV system is the Condominium Corporation.
 
-In this respect, RR , as an employee of CSSI ., is an agent acting on
+In this respect, RR, as an employee of CSSI ., is an agent acting on
 
 behalf of the PIP .
 
@@ -865,7 +684,7 @@ However, it is unclear from the records whether JI and RO may be
 
 considered PIPs in relation to EG complaint. It should be noted that JI
 
-and RO belong to a different agency from RR . They are employed by
+and RO belong to a different agency from RR. They are employed by
 
 Maininvest General Services Inc. This agency’s role as a PIP was not
 
@@ -881,7 +700,7 @@ violators of the DPA since they are allegedly PICs .73 However, as the
 
 complainant, he had the burden of explaining how each respondent
 
-acted in violation of the DPA. After scrutiniz ing the records, the
+acted in violation of the DPA. After scrutinizing the records, the
 
 Commission cannot adequately conclude that JI and RO may fall
 
@@ -889,7 +708,7 @@ under the same category as agents acting on behalf of the PIP s. There
 
 was no adequate discussion on the role of M GSI., what personal data
 
-was processed by the agency or by JI and RO , and how their actions
+was processed by the agency or by JI and RO, and how their actions
 
 may characterize them as agents of the PICs or PIPs.
 
@@ -911,14 +730,8 @@ holding the information or , when put together with other
 
 information , would directly and certainly identify an individual. ”74
 
-> 73 Memorandum of Complainant EG dated 23 F ebruary 2022, at ¶ 12.
-> 74 Section 3 (g) of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012
 
-NPC 21 -111
 
-EG vs JI, RO, and RR
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 A CCTV “refers to closed -circuit television or camera surveillance
 
@@ -934,11 +747,11 @@ able to reasonably ascertain the identity of an individual from the
 
 footage. ”76
 
-Here , the CCTV footage contain s personal information since it could
+Here , the CCTV footage contains personal information since it could
 
-identify parties such as EG through its system of record ing videos or
+identify parties such as EG through its system of recording videos or
 
-captur ing image s of the data subjects. Thus, the second element is
+capturing images of the data subjects. Thus, the second element is
 
 present.
 
@@ -946,7 +759,7 @@ III. Respondent RR disclosed the
 
 personal information of EG .
 
-In EG Complaint -Affidavit, it was alleged that the Spouses JM and
+In EG Complaint-Affidavit, it was alleged that the Spouses JM and
 
 PM were able to secure the CCTV footage of the incident without his
 
@@ -954,7 +767,7 @@ consent. 77 In Respondents ’ Comment, it was admitted that the CCTV
 
 footage was released after RR investigated the request and was
 
-convinced that the footage will be used in the barangay proceeding s
+convinced that the footage will be used in the barangay proceedings
 
 involving the dispute between EG and the Spouses JM and PM .78
 
@@ -968,21 +781,10 @@ In this case, the act of RR releasing the CCTV footage to the Spouses
 
 JM and PM constituted an act of disclosure. Thus, the third element is
 
-present as to RR .
+present as to RR.
 
-> 75 National Privacy Commission, Guidelines on the use of Closed -Circuit Television (CCTV)
+
 > Systems, NPC Advisory 2020 -04, § 3 (c) (16 November 2 020) (NPC Advisory 2020 -04).
-> 76 National Privacy Commission Advisory Opinion No. 2019 -023 dated 13 June 2019, Re:
-> Processing of CCTV Footage Under the Data Privacy Act of 2012, at p. 2.
-> 77 Complaint -Affidavit dated 26 May 2021 of EG , at ¶ 5.
-> 78 Comment dated 25 September 2021 of Respondents JI, RO, and RR , at p. 3.
-> 79 Discloure (Definition), 2017 Glossary of HIPAA Related Terms, Indiana University.
-
-NPC 21 -111
-
-EG vs JI, RO, and RR
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 However, the third element is absent when it comes to JI and RO .
 
@@ -992,7 +794,7 @@ the complaint and endorsing the concerns to the investigating
 
 department. 80 Particularly , JI endorsed the request of the spouses to
 
-RR , who was the security -in -charge at that time, who then
+RR, who was the security -in -charge at that time, who then
 
 investigated and eventually released the footage to the Spouses JM
 
@@ -1000,7 +802,7 @@ and PM .81
 
 Further, while RO worked as the “ AM ” of the condominium, 82
 
-Respondent s argued that he was on official business at the time and
+Respondents argued that he was on official business at the time and
 
 was not in the office during the incident. 83 The records do not show
 
@@ -1036,19 +838,13 @@ personal information, which was necessary for their defenses against
 
 EG accusation in the barangay proceedings. 86
 
-> 80 Comment dated 25 September 2021 of Respondents JI, RO, and RR , at p. 5.
-> 81 Id. ,at p. 3.
-> 82 Id. ,at p. 2.
-> 83 Id. ,at p. 5.
-> 84 Complaint -Affidavit dated 26 May 2021 of EG , at ¶ 11.
-> 85 Comment dated 25 September 2021 of Respondents JI, RO, and RR , at p. 2.
-> 86 Memorandum dated 22 February 2022 of Respondents JI, RO, and RR , at ¶ 26.
 
-NPC 21 -111
 
-EG vs JI, RO, and RR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
+
+
+
 
 Meanwhile, under Section 7 of NPC Advisory No. 2020 -04:
 
@@ -1076,13 +872,13 @@ legitimate interest under Section 12(f) of the DPA may apply as
 
 basis for disclosing, subject to Section 9 of this Advisory .87
 
-(Emphasis supp lied)
+(Emphasis supplied)
 
 Here, the Spouses JM and PM cannot be reasonably considered third
 
 parties, given that they are also data subjects captured in the CCTV
 
-footage . As data subjects, Spouses KM and PM ha s a reasonable claim
+footage. As data subjects, Spouses KM and PM ha s a reasonable claim
 
 to access and obtain the CCTV footage used in the barangay dispute
 
@@ -1108,24 +904,16 @@ relation to the barangay dispute. The presentation of the CCTV
 
 footage is warranted and necessary in the barangay dispute to prove
 
-the defense of Spouses JM and PM . Moreover, EG did not dispute the
+the defense of Spouses JM and PM. Moreover, EG did not dispute the
 
-> 87 Section 7, of NPC Advisorty 2020 -04, ot herwise known as Guidelines on the use of Closed -
-> Circuit Television (CCTV) Systems .
-
-NPC 21 -111
-
-EG vs JI, RO, and RR
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 veracity of the CCTV footage that it was false or altered. Thus, the
 
-fifth element is present.
+fifthelement is present.
 
 VI. There was no bad faith or malice on the part of R espondents.
 
-The Supreme Court has define d “malice” as that which “connotes ill
+The Supreme Court has defined “malice” as that which “connotes ill
 
 will or spite and speaks not in response to duty but merely to injure
 
@@ -1147,19 +935,19 @@ Thus once more, his self -serving assertion cannot be given
 
 credence. This is especially so in light of the presumption of
 
-regularity, wh ich herein ought to prevail due to the absence of
+regularity, which herein ought to prevail due to the absence of
 
 any clear and convincing evidence to the contrary .91
 
 In this case, EG did not prove that Respondents acted with malice or
 
-bad faith in disclosing his personal information. In deed, EG accuse d
+bad faith in disclosing his personal information. In deed, EG accused
 
 the Respondents of violating Section 32 of the DPA, which is a
 
 privacy violation falling outside Malicious Disclosure under Section
 
-31 of the DPA. Thus, the sixth element is also present.
+31 of the DPA. Thus, the sixthelement is also present.
 
 VII. There is a lawful basis on the
 
@@ -1169,23 +957,16 @@ the CCTV footage to Spouses JM and
 
 PM .
 
-> 88 Delgado v. HRET, G.R. No. 219603, 26 January 2016
-> 89 Montinola vs. Philippine Airlines , G.R. No. 198656, 8 September 2014.
-> 90 Tzu Sun Wong vs. Kenny Wong, G.R. No. 180364, 03 December 2014.
-> 91 Tzu Sun Wong vs. Kenny Wong, G.R. No. 180364, 03 December 2014, citing Alcazar vs. Arante,
-> G.R. No. 177042, 10 December 2012.
 
-NPC 21 -111
 
-EG vs JI, RO, and RR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
-The seventh element is absent. EG alleged that the release of the
+
+The seventhelement is absent. EG alleged that the release of the
 
 CCTV footage was made without his consent. 92 However, consent is
 
-not the only criteri on for lawful processing under the DPA .
+not the only criterion for lawful processing under the DPA .
 
 Sections 12 (f) and 13 (f) of the DPA state s:
 
@@ -1247,15 +1028,7 @@ allowed pursuant to legitimate interest as provided for under
 
 Section 12(f) of the DPA , the following s hall be considered:
 
-> 92 Complaint -Affidavit dated 26 May 2021 of EG , at ¶ 11.
-> 93 Secti on 12 (f) and Section 13 (f) of Republic Act No. 10173, otherwise known as the Data Privacy
-> Act of 2012
 
-NPC 21 -111
-
-EG vs JI, RO, and RR
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 A. Purpose test - The existence of a legitimate interest must be
 
@@ -1273,7 +1046,7 @@ information is disclosed, where such purpose could not be
 
 reasonably fulfilled by other means; and
 
-C. Bala ncing test - The fundamental rights and fre edoms of
+C. Balancing test - The fundamental rights and freedoms of
 
 data subjects must not be overridden by the legitimate
 
@@ -1289,7 +1062,7 @@ exercise or defense of legal claims under Section 13(f) of the
 
 DPA may be considered as legitimate interest. 94
 
-It is apparent in th e submissions of the parties that the CCTV footage
+It is apparent in the submissions of the parties that the CCTV footage
 
 obtained by the Spouses JM and PM was used as part of their defense
 
@@ -1297,7 +1070,7 @@ in a complaint against them before the barangay. The CCTV footage
 
 was used to prove that there was no physical altercation between the
 
-Co mplainant and the Spouses JM and PM .95 Thus, the re lease of the
+Complainant and the Spouses JM and PM .95 Thus, the release of the
 
 footage was necessary for the exercise of the spouses’ defense s in the
 
@@ -1319,21 +1092,15 @@ information, the protection of lawful rights and interests under
 
 Section 13(f) by the respondent faculty members in this case is
 
-> 94 , Guidelines on the use of Closed -Circuit Television (CCTV) Systems, NPC Advisory 2020 -04, §
-> 9
-> 95 Comment dated 25 September 2021 of Respondents JI, RO, and RR , at p. 2.
-> 96 Memorandum dated 22 February 2022 of Respondents JI, RO, and RR ,See: Annex “B”.
-> 97 Id. ,See: Annex “F”.
 
-NPC 21 -111
 
-EG vs JI, RO, and RR
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+
+
 
 considered as legitimate interest pursuant to Section 12(f) of the
 
-DP A. 98
+DPA. 98
 
 In this case, although the CCTV footage is considered as personal
 
@@ -1351,7 +1118,7 @@ Moreover, in NPC 21 -031, the Commission ruled:
 
 The phrase ‘for the protection of lawful rights and interests of
 
-natural or legal persons in court pro ceedings ’ cannot be
+natural or legal persons in court proceedings ’ cannot be
 
 interpreted to relate only to the person asserting the lawful
 
@@ -1369,7 +1136,7 @@ clause ‘establishment, exercise or defense of legal claims ’ may
 
 be interpreted to refer to the legal claims of persons other than
 
-thos e who processed the personal information. 99
+those who processed the personal information. 99
 
 Here, it was admitted that the CCTV footage was released after RR
 
@@ -1395,16 +1162,6 @@ spouses in the barangay proceeding. It is not shown that there were
 
 other means to support their defenses other than the CCTV footage.
 
-> 98 KRL vs. Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, PB, CID Case no. 17 -
-> K-003, dated 19 November 2019.
-> 99 JCB vs. FRL, NPC 21 -031, dated 03 March 2022
-> 100 Comment dated 25 September 2021 of Respondents JI, RO, and RR , at p. 3.
-
-NPC 21 -111
-
-EG vs JI, RO, and RR
-
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1308
 
 Lastly, there is no substantial evidence to show that the fundamental
 
@@ -1434,15 +1191,11 @@ City of Pasay, Philippines .
 
 22 September 2022 .
 
-Sgd.
-
 JOHN HENRY D. NAGA
 
 Privacy Commissioner
 
 I CONCUR:
-
-Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
 
@@ -1456,7 +1209,6 @@ Complainant NPC 21 -111
 
 EG vs JI, RO, and RR
 
-5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 LB
 

@@ -1,33 +1,39 @@
 ---
-title: "NPC 23-064, 23-065, 23-066: SSS vs RGC, SSS vs MTD, SSS vs FSD"
-description: "SSS vs. RG C, NPC Case No. 23 -064 ; S SS v. MT D, NPC Case No. 23 -065; and SSS vs. FS D, NPC"
-tags:
-  - "decision"
-  - "type/decision"
-  - "year/2023"
-  - "npc-case"
+description: Complaint for alleged data privacy violations; dismissed or granted based
+  on substantial evidence.
 draft: false
+tags:
+- decision
+- type/decision
+- year/2023
+- npc-case
+title: 'NPC 23-064: SSS v. RGC (consolidated with NPC 23-065 and NPC 23-066)'
+aliases:
+- NPC 23-064
+- npc 23-064
+- NPC 23-065
+- npc 23-065
+- NPC 23-066
+- npc 23-066
+- SSS v. RGC
+- sss v. rgc
+- SSS v. MTD
+- sss v. mtd
+- SSS v. FSD
+- sss v. fsd
+date: '2024-04-18'
 ---
+## Source-Reference: NPC 23-064, 23-065, 23-066-Official PDF: http://privacy.gov.ph/wp-content/uploads/2026/01/NPC-23-064-23-065-23-066-04.18.2024_SSS-vs-RGC-SSS-vs-MTD-SSS-vs-FSD_Decision-1-2.pdf-Source page: http://privacy.gov.ph/decisions-2/
+- Issue date: April 25, 2023-Published on NPC site: Mon, 12 Jan 2026 02:49:29 GMT-Pages: 16
 
-## Source
-- Reference: NPC 23-064, 23-065, 23-066
-- Official PDF: http://privacy.gov.ph/wp-content/uploads/2026/01/NPC-23-064-23-065-23-066-04.18.2024_SSS-vs-RGC-SSS-vs-MTD-SSS-vs-FSD_Decision-1-2.pdf
-- Source page: http://privacy.gov.ph/decisions-2/
-- Issue date: April 25, 2023
-- Published on NPC site: Mon, 12 Jan 2026 02:49:29 GMT
-- Pages: 16
-
-## Source Tags
-- Sec 25. Unauthorized Processing of Personal Information and Sensitive Personal Information
+## Source Tags-Sec 25. Unauthorized Processing of Personal Information and Sensitive Personal Information
 
 ## Decision Text
 SSS ,
 
 Complainant,
 
--versus -
-
-RGC ,
+-versus-RGC ,
 
 Respondent.
 
@@ -37,9 +43,7 @@ SSS,
 
 Complainant,
 
--versus -
-
-MTD,
+-versus-MTD,
 
 Respondent.
 
@@ -49,9 +53,7 @@ SSS,
 
 Complainant,
 
--versus -
-
-FS D,
+-versus-FS D,
 
 Respondent.
 
@@ -59,8 +61,7 @@ x----------------------------------------------------x
 
 NAGA , P.C.;
 
-Facts
-
+### Facts
 Before the Commission are the consolidated cases filed by SSS
 
 against Respondents RGC, MT D, and FS D (collectively,
@@ -150,15 +151,6 @@ and his barangay council. 6 Further, the Complainant claims that the
 
 dismissal of the com plaint relates to the disclosure of his
 
-> 1Complaints -Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23 -
-> 064, and NPC Case No. 23 -066).
-> 2Id., at p. 6.
-> 3Id. , at p. 1.
-> 4Id. , at p. 1.
-> 5Complaints -Assisted Form of S SS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23 -
-> 064, and NPC Case No. 23 -066), Complaint Affidavit of S SS against R GC, MTD, and F SD, at p. 1 -
-> 2.
-> 6Id. , at p. 2.
 
 NPC 23 -064, 23 -065, and 23 -066
 
@@ -218,17 +210,6 @@ informed him that a third party requested for his “sensitive personal
 
 data .”14  Complainant expressed that “no third party has the right to
 
-> 7Complaints -Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23 -
-> 064, and NPC Case No. 23 -066), Complaint Affidavit of SSS against R GC, MT, and F SD, at p. 6.
-> 8Id. , at p. 2, See: Annex C.
-> 9Id. , at p. 2, See: Annex C .
-> 10 Id. , at p. 2.
-> 11 Complaints -Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23 -
-> 064, and NPC Case No. 23 -066), Complaint Affidavit of SSS against R GC, MT, and F SDn, at p. 2.
-> 12 Id. , at p. 2.
-> 13 Id. , at p. 6.
-> 14 Complaints -Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23 -
-> 064, and NPC Case No. 23 -066), Complaint Affidavit of SSS against R GC, MTD, and F SD, at p. 2.
 
 NPC 23 -064, 23 -065, and 23 -066
 
@@ -286,21 +267,6 @@ series of 2023, dismissing the administrative complaint against
 
 Respondent RG C, and its attachments. 26
 
-> 15 Id. , at p. 2.
-> 16 Id. , at p. 2 -3.
-> 17 Id. , at p. 11.
-> 18 Complaints -Assisted Form of SSS. dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No.
-> 23 -064, and NPC Case No. 23 -066), at p. 8.
-> 19 Id. , See: Certificate of Residency.
-> 20 Id. , See: Authentication.
-> 21 Id. , See: Certificate of Candidacy for Member, Sangguniang Barangay.
-> 22 Id. , See: Letter to OSCA.
-> 23 Id. , See: Sangguniang Panlungsod Transmittal Letter.
-> 24 Id. , See: Office of the President –Presidential Action Center Transmittal Letter.
-> 25 Id. , See: Letter of AME to the President thru Presidential Action Center Transmittal Letter.
-> 26 Complaints -Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23 -
-> 064, and NPC Case No. 23 -066), at Complaint Affidavit of SSS against R GC, MTD, and F SD, See:
-> Sangguniang Panlungsod Resolution No. 3932 S. 2023.
 
 NPC 23 -064, 23 -065, and 23 -066
 
@@ -354,21 +320,6 @@ coordinated with different offices regarding the pieces of evidence
 
 presented by the Complainant. 32  As a result, Respondent RG C stated
 
-> 27 SSS . vs. RG C, NPC Case No. 23 -064 ; S SS v. MT D, NPC Case No. 23 -065; and SSS vs. FS D, NPC
-> Case No. 23 -066; Order (To File Verified Comment and Appear Virtually for Preliminary
-> Conference) dated 03 May 2023 of the Complaints and Investigation Divi sion (CID).
-> 28 SSS vs. RG C, NPC Case No. 23 -064 ; S SS v. MT DNPC Case No. 23 -065; and SSS vs. FS DNPC
-> Case No. 23 -066, Order (Consolidating NPC Case No. 23 -064, NPC Case No. 23 -065 and NPC
-> Case No. 23 -066, Retaining the Preliminary Conference Schedules for NPC Case No. 23 -065,
-> Reminding the Respondents to Submit Verified Comment and Working Email Addresses, and
-> Cancelling the Preliminary Conference Schedules for NPC Case No. 23 -064 and NPC Case No.
-> 23 -066)
-> 29 Verified Comment of RGC dated 05 June 2023.
-> 30 Id. , at p. 2.
-> 31 Id. , at p. 5.
-> 32 Verified Comment of RGC dated 05 June 2023, at p. 5.NPC 23 -064, 23 -065, and 23 -066
-> SSS .v. RGC, S SS v. MTD ,SSS vs FSD
-> Page 6of 16
 
 tha t he found out that based on Complainant's ID, the latter does not
 
@@ -428,14 +379,6 @@ Finally, Respondent RG C averred that the Complainant has a
 
 be dismissed as being defective and has lack of merit. 40
 
-> 33 Id. , at p. 5.
-> 34 Id. , at p. 6.
-> 35 Id. , at p. 4.
-> 36 Verified Comment of RGC dated 05 June 2023, at p. 11.
-> 37 Id. , at p. 11.
-> 38 Id. , at p. 11.
-> 39 Id. , at p. 14.
-> 40 Verified Comment of RGC dated 05 June 2023, at p. 14.
 
 NPC 23 -064, 23 -065, and 23 -066
 
@@ -497,12 +440,6 @@ on 15 June 2023 to 18 July 2023, Reminding Respondents MT D and
 
 FS D to Submit Their Verified Comment, and Noting the Letter Filed
 
-> 41 SSS vs. RG C, NPC Case No. 23 -064 ; S SS v. MT D, NPC Case No. 23 -065; and SSS . vs. FS DNPC
-> Case No. 23 -066, Order (Noting the Respondent RG C’s Verified Comment, Reminding
-> Respondents MT D and FS D to file Verified Comment and Working Address, and Reminding the
-> Parties to Appear Virtually for Preliminary Conference) dated 07 June 2023.
-> 42 Letter of M TD addressed to SSS dated 19 April 2023.
-> 43 Id .
 
 NPC 23 -064, 23 -065, and 23 -066
 
@@ -556,7 +493,6 @@ Respondents MT D and FS D) and Reminding the Parties to Appear
 
 Virtually for Preliminary Conference) was issued by the CID .52
 
-> 44
 
 SSS vs. RG C, NPC Case No. 23 -064 ; S SS v. MT D, NPC Case No. 23 -065; and SSS vs. FS D, NPC
 
@@ -566,7 +502,6 @@ Reminding Respondents MT D and FS D to Submit Their Verified Comment, and Noting
 
 Letter Filed by Respondent FS D)
 
-> 45
 
 SSS vs. RG C, NPC Case No. 23 -064 ; S SS v. MT D NPC Case No. 23 -065; and SSS vs. FS D, NPC
 
@@ -576,31 +511,24 @@ Reminding Respondents MT D and FS D to Submit Their Verified Comment, and Noting
 
 Letter Filed by Respondent FS D)
 
-> 46
 
 Verified Comment of MTD and F SD dated 11 July 2023.
 
-> 47
 
 Id. , at p. 5.
 
-> 48
 
 Id. , at p. 6.
 
-> 49
 
 Letter of M TD addressed to SSS dated 19 April 2023.
 
-> 50
 
 Verified Comment of M TD and F SD dated 11 July 2023, at p. 7.
 
-> 51
 
 Id., at p. 9.
 
-> 52
 
 SSS vs. RG C, NPC Case No. 23 -064 ; S SS . v. MT D, NPC Case No. 23 -065; and SSS vs. FS D, NPC
 
@@ -626,8 +554,7 @@ Appearance through the General Records Unit (GRU) of this
 
 Commission .54
 
-Issue
-
+### Issue
 Whe ther or not Respondents RG C, MT D, and FS D are liable for
 
 violati ng Sections 25 (Unauthorized Processing), 26 (Access due to
@@ -636,8 +563,7 @@ Negligence), 28 (Processing for Unauthorized Purposes), 31
 
 (Malicious Disclosure), and 32 (Unauthorized Disclosure) of the DPA.
 
-Discussion
-
+### Discussion
 The Commission dismisses the complaint for lack of merit.
 
 I.  Respondents cannot be held liable
@@ -662,11 +588,6 @@ subject, or without being authorized under this act or any
 
 existing law. 55
 
-> 53 SSS vs. RG C, NPC Case No. 23 -064 ; S SS v. MT D, NPC Case No. 23 -065; and SSS vs. FS D, NPC
-> Case No. 23 -066, Order (After the 1st Preliminary Conference held on 18 July 2023, Requiring
-> Counsel of Complainant to Submit a Formal Entry of Appearance, and Granting the Adoption of
-> the Parties Previous Submissions as their Respective Memoranda), at p. 19 July 2023.
-> 54 Entry of Appearance for the counsel of the Complainant.
 
 NPC 23 -064, 23 -065, and 23 -066
 
@@ -720,27 +641,20 @@ data” has been processed , only his name and address, which are
 
 considered as personal information, were processed in the said
 
-> 55
 
 In re: Oriente Express Techsystem Corporation (CASHALO) and its Responsible Officers, NPC
 
 SS 21 -005, Decision dated 16 June 2022, at p. 25.
 
-> 56
 
-Complaints -Assisted Form of S SS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23 -
+Complaints -Assisted Form of S SS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23-064, and NPC Case No. 23 -066), Complaint Affidavit of S SS against R GC, MTD, and F SD, at p. 2.
 
-064, and NPC Case No. 23 -066), Complaint Affidavit of S SS against R GC, MTD, and F SD, at p. 2.
-
-> 57
 
 Id. , at p. 2.
 
-> 58
 
 Id. , at p. 2.
 
-> 59
 
 An Act Protecting Individual Personal Information in Information and Communications
 
@@ -750,13 +664,9 @@ Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 
 
 (2012).
 
-> 60
 
-Complaints -Assisted Form of S SS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23 -
+Complaints -Assisted Form of S SS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23-064, and NPC Case No. 23 -066), Complaint Affidavit of S SS against R GC, MTD, and F SD, at p. 2.
 
-064, and NPC Case No. 23 -066), Complaint Affidavit of S SS against R GC, MTD, and F SD, at p. 2.
-
-> 61
 
 Id. , at p. 2, See: Annex C .NPC 23 -064, 23 -065, and 23 -066
 
@@ -820,12 +730,6 @@ following cases:
 
 xxx
 
-> 62 Complaints -Assisted Form of S SS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23 -
-> 064, and NPC Case No. 23 -066), Complaint Affidavit of SSS against R GC, MTD, and F SD, at p. 2,
-> See: Annex C .
-> 63 Section 3 (g) of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012
-> 64 Complaints -Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23 -
-> 064, and NPC Case No. 23 -066), Complaint Affidavit of S SS against R GC, MTD, and F SD, at p. 2.
 
 NPC 23 -064, 23 -065, and 23 -066
 
@@ -907,10 +811,6 @@ In this case, Respondent RG C alleged that he processed the
 
 Complainant’s personal information since it was necessary to fulfill
 
-> 65 Section 12 (f) and Section 13 (f) of Republic Act No. 10173, otherwise known as the Data Privacy
-> Act of 2012
-> 66 EA and TA v. EJ, EE, and HC, NPC Case No. 17 -018 dated 15 July 2019, at p. 8-10. NPC 23 -064, 23 -065, and 23 -066
-> SS S. v. RG C, S SS v. MTD , S SS vs. FSD
 
 his obligation as Barangay Chairman to verify whether the latter is a
 
@@ -974,11 +874,6 @@ considered as legitimate interest pursuant to Section 12(f) of the
 
 DPA. 70
 
-> 67 Verified Comment of RGC dated 05 June 2023, at p. 5.
-> 68 Id .
-> 69 Section 11 of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012
-> 70 KRL vs. Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, PB, CID Case no. 17 -
-> K-003, dated 19 November 2019.
 
 NPC 23 -064, 23 -065, and 23 -066
 
@@ -1050,12 +945,6 @@ lawful processing . Lastly , the means used by Respondent RG C was
 
 lawful since the issuance of the certification was not proven by the
 
-> 71 JCB vs. FRL, NPC 21 -031, dated 03 March 2022
-> 72 Verified Comment of M TD and F SD dated 11 July 2023, at p. 7.
-> 73 Complaints -Assisted Form of S SS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23 -
-> 064, and NPC Case No. 23 -066), Complaint Affidavit of S SS against R GC, MTD, and F SD, at p. 2,
-> See: Annex C .NPC 23 -064, 23 -065, and 23 -066
-> SS S. v. RG C, S SS v. MTD , S SS vs. FSD
 
 Complainant to have violated the conditions or procedures set by the
 
@@ -1140,3 +1029,18 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+
+[^1]: Complaints -Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23-> 064, and NPC Case No. 23 -066). 2Id., at p. 6. 3Id. , at p. 1. 4Id. , at p. 1. 5Complaints -Assisted Form of S SS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23-> 064, and NPC Case No. 23 -066), Complaint Affidavit of S SS against R GC, MTD, and F SD, at p. 1-> 2. 6Id. , at p. 2.
+[^4]: 9
+[^5]: 9
+[^6]: 1
+[^7]: Complaints -Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23-> 064, and NPC Case No. 23 -066), Complaint Affidavit of SSS against R GC, MT, and F SD, at p. 6. 8Id. , at p. 2, See: Annex C. 9Id. , at p. 2, See: Annex C . 10 Id. , at p. 2. 11 Complaints -Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23-> 064, and NPC Case No. 23 -066), Complaint Affidavit of SSS against R GC, MT, and F SDn, at p. 2. 12 Id. , at p. 2. 13 Id. , at p. 6. 14 Complaints -Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23-> 064, and NPC Case No. 23 -066), Complaint Affidavit of SSS against R GC, MTD, and F SD, at p. 2.
+[^15]: Id. , at p. 2. 16 Id. , at p. 2 -3. 17 Id. , at p. 11. 18 Complaints -Assisted Form of SSS. dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23 -064, and NPC Case No. 23 -066), at p. 8. 19 Id. , See: Certificate of Residency. 20 Id. , See: Authentication. 21 Id. , See: Certificate of Candidacy for Member, Sangguniang Barangay. 22 Id. , See: Letter to OSCA. 23 Id. , See: Sangguniang Panlungsod Transmittal Letter. 24 Id. , See: Office of the President –Presidential Action Center Transmittal Letter. 25 Id. , See: Letter of AME to the President thru Presidential Action Center Transmittal Letter. 26 Complaints -Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23-> 064, and NPC Case No. 23 -066), at Complaint Affidavit of SSS against R GC, MTD, and F SD, See: Sangguniang Panlungsod Resolution No. 3932 S. 2023.
+[^27]: SSS . vs. RG C, NPC Case No. 23 -064 ; S SS v. MT D, NPC Case No. 23 -065; and SSS vs. FS D, NPC Case No. 23 -066; Order (To File Verified Comment and Appear Virtually for Preliminary Conference) dated 03 May 2023 of the Complaints and Investigation Divi sion (CID). 28 SSS vs. RG C, NPC Case No. 23 -064 ; S SS v. MT DNPC Case No. 23 -065; and SSS vs. FS DNPC Case No. 23 -066, Order (Consolidating NPC Case No. 23 -064, NPC Case No. 23 -065 and NPC Case No. 23 -066, Retaining the Preliminary Conference Schedules for NPC Case No. 23 -065, Reminding the Respondents to Submit Verified Comment and Working Email Addresses, and Cancelling the Preliminary Conference Schedules for NPC Case No. 23 -064 and NPC Case No. 23 -066) 29 Verified Comment of RGC dated 05 June 2023. 30 Id. , at p. 2. 31 Id. , at p. 5. 32 Verified Comment of RGC dated 05 June 2023, at p. 5.NPC 23 -064, 23 -065, and 23 -066 SSS .v. RGC, S SS v. MTD ,SSS vs FSD Page 6of 16
+[^33]: Id. , at p. 5. 34 Id. , at p. 6. 35 Id. , at p. 4. 36 Verified Comment of RGC dated 05 June 2023, at p. 11. 37 Id. , at p. 11. 38 Id. , at p. 11. 39 Id. , at p. 14. 40 Verified Comment of RGC dated 05 June 2023, at p. 14.
+[^41]: SSS vs. RG C, NPC Case No. 23 -064 ; S SS v. MT D, NPC Case No. 23 -065; and SSS . vs. FS DNPC Case No. 23 -066, Order (Noting the Respondent RG C’s Verified Comment, Reminding Respondents MT D and FS D to file Verified Comment and Working Address, and Reminding the Parties to Appear Virtually for Preliminary Conference) dated 07 June 2023. 42 Letter of M TD addressed to SSS dated 19 April 2023. 43 Id .
+[^53]: SSS vs. RG C, NPC Case No. 23 -064 ; S SS v. MT D, NPC Case No. 23 -065; and SSS vs. FS D, NPC Case No. 23 -066, Order (After the 1st Preliminary Conference held on 18 July 2023, Requiring Counsel of Complainant to Submit a Formal Entry of Appearance, and Granting the Adoption of the Parties Previous Submissions as their Respective Memoranda), at p. 19 July 2023. 54 Entry of Appearance for the counsel of the Complainant.
+[^62]: Complaints -Assisted Form of S SS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23-> 064, and NPC Case No. 23 -066), Complaint Affidavit of SSS against R GC, MTD, and F SD, at p. 2, See: Annex C . 63 Section 3 (g) of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 64 Complaints -Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23-> 064, and NPC Case No. 23 -066), Complaint Affidavit of S SS against R GC, MTD, and F SD, at p. 2.
+[^65]: Section 12 (f) and Section 13 (f) of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 66 EA and TA v. EJ, EE, and HC, NPC Case No. 17 -018 dated 15 July 2019, at p. 8-10. NPC 23 -064, 23 -065, and 23 -066 SS S. v. RG C, S SS v. MTD , S SS vs. FSD
+[^67]: Verified Comment of RGC dated 05 June 2023, at p. 5. 68 Id . 69 Section 11 of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 70 KRL vs. Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, PB, CID Case no. 17-> K-003, dated 19 November 2019.
+[^71]: JCB vs. FRL, NPC 21 -031, dated 03 March 2022 72 Verified Comment of M TD and F SD dated 11 July 2023, at p. 7. 73 Complaints -Assisted Form of S SS dated 25 April 2024 (NPC Case No. 23 -064. NPC Case No. 23-> 064, and NPC Case No. 23 -066), Complaint Affidavit of S SS against R GC, MTD, and F SD, at p. 2, See: Annex C .NPC 23 -064, 23 -065, and 23 -066 SS S. v. RG C, S SS v. MTD , S SS vs. FSD
