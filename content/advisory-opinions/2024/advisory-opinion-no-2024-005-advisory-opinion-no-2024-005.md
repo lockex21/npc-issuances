@@ -11,17 +11,14 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2024-005
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2024/05/Advisory-Opinion-No.-2024-005.pdf
+- Issue date: 05/21/2024
 - OCR used during extraction: no
 
 ## Text
 
- 21 May 2024
+**21 May 2024**
 
-   Re:      USE OF ARTIFICIAL INTELLIGENCE (AI) IN CALL
-                     ANALYSIS AND MONITORING OF CALL CENTER
-                     EMPLOYEES
-
-   :
+Re: USE OF ARTIFICIAL INTELLIGENCE (AI) IN CALL ANALYSIS AND MONITORING OF CALL CENTER EMPLOYEES
 
 You inform that you represent a U.S. based company engaged in the hospitality business
 (Company). The Company operates a business process outsourcing subsidiary in the
@@ -86,7 +83,7 @@ Company's goal of improving its services. By assessing and identifying areas of 
 of its employees, the Company can enhance overall performance which will ultimately benefit
 both the employees and the Company.
 
-#### Adherence to data privacy principles; legitimate purpose, proportionality
+#### Adherence to Data Privacy Principles; Legitimate Purpose, Proportionality
 
 To determine whether the processing is necessary to fulfill the legitimate interest that is established, the means or method chosen for the specific processing activity undertaken by the PIC or third party should be necessary and lawful. Thus, the means to fulfill the legitimate interest must be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose, in accordance with the principle of proportionality; and the means chosen to accomplish the legitimate interest is itself lawful. The PIC cannot violate any law in the process of accomplishing its legitimate interest.[^7]
 
@@ -106,7 +103,7 @@ and that there are no other means to achieve such legitimate purpose.
 
 Lastly, the principle of proportionality dictates that the processing of personal data shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. We advise that the use of the AI tool should be used only to achieve the goals and objectives of the Company stated in its privacy policy. The Company should also make sure that their employees are properly informed of this policy before the tool is utilized by the Company. This could be established and disclosed to the employees through the Company’s privacy notice and policies.
 
-#### Right to object; limitations
+#### Right to Object; Limitations
 
 The right to object to the processing of personal data applies in instances where processing is based on consent or legitimate interest. Nevertheless, it is still possible to continue processing personal data despite the objection where, for example, the same is necessary for the performance of or in relation to a contract or service to which the data subject is a party, or when necessary or desirable in the context of an employer-employee relationship.[^8] We refer to NPC Advisory No. 2021-01 on Data Subject Rights which provides:
 

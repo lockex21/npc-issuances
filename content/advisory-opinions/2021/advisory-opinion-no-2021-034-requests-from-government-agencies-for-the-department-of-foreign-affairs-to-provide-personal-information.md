@@ -153,7 +153,7 @@ Finally, Section 19 of the DPA and Section 37 of its IRR provide for the limitat
 to the rights of the data subjects where the processing of personal data is for the purpose of
 investigations in relation to any criminal, administrative, or tax liabilities of the data subject.
 
-This is further clarified in Section 13 of NPC Advisory No. 2021-01 on Data Subject Rights,6
+This is further clarified in Section 13 of NPC Advisory No. 2021-01 on Data Subject Rights,[^5]
 which provides:
 
    “SECTION 13. Limitations. — The exercise of the rights of data subjects shall be
@@ -202,3 +202,5 @@ OIC – Director IV, Privacy Policy Office
 [^3]: Id. § 2 (a).
 
 [^4]: Id. § 2 (b).
+
+[^5]: National Privacy Commission, Data Subject Rights [NPC Advisory No. 2021-01] (January 29, 2021).

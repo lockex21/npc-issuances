@@ -1,17 +1,17 @@
 ---
-title: “CID CDO 25-001: In the Matter of World App Processing of Personal Information”
-description: “Cease and desist order against Tools for Humanity (World App) and its local operator WCPH Corporation, directing them to cease all personal data processing in the Philippines through the Orb and the World App, upon finding violations of general data privacy principles and data subject rights under the DPA, and that such processing is detrimental to public interest.”
+title: "CID CDO 25-001: In the Matter of World App Processing of Personal Information"
+description: "Cease and desist order against Tools for Humanity (World App) and its local operator WCPH Corporation, directing them to cease all personal data processing in the Philippines through the Orb and the World App, upon finding violations of general data privacy principles and data subject rights under the DPA, and that such processing is detrimental to public interest."
 aliases:
-  - “CID CDO 25-001”
-  - “cid cdo 25-001”
-  - “In the Matter of World App Processing of Personal Information”
-  - “in the matter of world app processing of personal information”
+  - "CID CDO 25-001"
+  - "cid cdo 25-001"
+  - "In the Matter of World App Processing of Personal Information"
+  - "in the matter of world app processing of personal information"
 tags:
-  - “order”
-  - “type/order”
-  - “year/2025”
-  - “npc-case”
-date: “2025-09-23”
+  - "order"
+  - "type/order"
+  - "year/2025"
+  - "npc-case"
+date: "2025-09-23"
 draft: false
 ---
 

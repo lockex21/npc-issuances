@@ -11,6 +11,7 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2024-003
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2024/04/Advisory-Opinion-No.-2024-003.pdf
+- Issue date: 04/02/2024
 - OCR used during extraction: no
 
 ## Text
@@ -105,7 +106,7 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-[^1]: Section 84 of the Comprehensive Dangerous Drugs Act of 2002.
+[^1]: Tags: Telecommuting, monitoring software, employee surveillance, contract, legitimate interest.
 [^2]: Republic Act No. 10173 (2012).
 [^3]: National Privacy Commission, NPC Advisory Opinion No. 2018-090 (28 November 2018).
 [^4]: *Ibid.*

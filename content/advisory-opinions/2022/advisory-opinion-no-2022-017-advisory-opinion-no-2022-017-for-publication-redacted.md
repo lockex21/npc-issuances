@@ -124,7 +124,7 @@ Very truly yours,
 
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV
-Director IV, Privacy Policy Office
+*Director IV, Privacy Policy Office*
 
 [^1]: Tags: personal data; lawful processing; consent of data subjects; legal claims; Sec. 13 (f), DPA.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).

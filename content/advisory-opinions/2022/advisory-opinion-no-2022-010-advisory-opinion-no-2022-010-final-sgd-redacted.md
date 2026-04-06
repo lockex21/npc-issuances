@@ -438,7 +438,7 @@ also applies to these data subjects.
 We note that in this case, the personal information of herein data subjects may be
 transferred by the Seller to the Buyer given that the data subjects have consented to the
 processing of their information up to 10 years following termination or closure of the card
-account, for various purposes, such as customer servicing, remediating customers’ an/or
+account, for various purposes, such as customer servicing, remediating customers’ and/or
 regulatory claims/refunds and compliance to obligation as a card issuer etc. as stated in
 the Seller’s 2017 Data Privacy Terms.
 
@@ -472,6 +472,5 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
-[^1]: Tags: Consent
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012), § 3(b).
 [^3]: NPC Advisory Opinion No. 2018-058.
