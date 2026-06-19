@@ -15,6 +15,7 @@ Generated notes for **2024** NPC decisions.
 - [[decisions/2024/npc-22-257-arg-v-amp|NPC 22-257: ARG v. AMP]]
 - [[decisions/2024/npc-22-042-efd-vs-aod|NPC 22-042: EFD vs AOD]]
 - [[decisions/2024/npc-21-173-slc-v-concentrix-phils|NPC 21-173: SLC v. CONCENTRIX PHILS.]]
+- [[decisions/2024/npc-22-237-mts-vs-bank-of-the-philippine-islands|NPC 22-237: MTS vs. Bank of the Philippine Islands]]
 - [[decisions/2024/npc-22-179-tso-vs-arm-and-hbm|NPC 22-179: TSO vs ARM and HBM]]
 - [[decisions/2024/npc-21-251-afv-v-fra|NPC 21-251: AFV v. FRA]]
 - [[decisions/2024/npc-ss-21-023-in-the-matter-of-the-alleged-personal-data-breach-of-bdo-unibank-inc|NPC SS 21-023: In The Matter of The Alleged Personal Data Breach of BDO Unibank, Inc.]]

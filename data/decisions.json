@@ -1,7 +1,28 @@
 {
   "source_page": "http://privacy.gov.ph/decisions-2/",
-  "count": 93,
+  "count": 99,
   "records": [
+    {
+      "title": "NPC 19-1234: FCG v. Unipeso Lending Company Inc. (Handy Loan)",
+      "short_title": "FCG v. Unipeso Lending Company Inc. (Handy Loan)",
+      "reference_label": "NPC 19-1234",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2026/04/NPC-19-1234-FCG-v.-Unipeso-Lending-Company-Inc.-Handy-Loan.pdf",
+      "source_tags_raw": "Tags: Personal Information (Section 3), Online Lending, Application, Mobile Numbers",
+      "source_tags": [
+        "Personal Information (Section 3), Online Lending, Application, Mobile Numbers"
+      ],
+      "issue_date": "July 3, 2025",
+      "issue_date_iso": "2025-07-03",
+      "published_time": "Mon, 27 Apr 2026 06:24:21 GMT",
+      "published_time_iso": "2026-04-27T06:24:21+00:00",
+      "page_count": 9,
+      "year": "2025",
+      "slug": "npc-19-1234-fcg-v-unipeso-lending-company-inc-handy-loan",
+      "raw_text_path": "cache/decisions/text_raw/npc-19-1234-fcg-v-unipeso-lending-company-inc-handy-loan-f18f7eaed6.md",
+      "text_path": "cache/decisions/text/npc-19-1234-fcg-v-unipeso-lending-company-inc-handy-loan-f18f7eaed6.txt",
+      "markdown_path": "content/decisions/2025/npc-19-1234-fcg-v-unipeso-lending-company-inc-handy-loan.md",
+      "excerpt": "Appear Virtually for the 2 nd Preliminary Conference ), 07 September 2022, in FCG v. Unipeso"
+    },
     {
       "title": "NPC 22-066: ALS vs ALLIED BANK (NOW PHILIPPINE NATIONAL BANK)",
       "short_title": "ALS vs ALLIED BANK (NOW PHILIPPINE NATIONAL BANK)",
@@ -193,6 +214,37 @@
       "text_path": "cache/decisions/text/npc-21-173-2024-08-08-slc-v-concentrix-phils-decision-47d3511e5c.txt",
       "markdown_path": "content/decisions/2024/npc-21-173-slc-v-concentrix-phils.md",
       "excerpt": "NPC 21-173: SLC v. CONCENTRIX PHILS."
+    },
+    {
+      "title": "NPC 22-237: MTS vs. Bank of the Philippine Islands",
+      "short_title": "MTS vs. Bank of the Philippine Islands",
+      "reference_label": "NPC 22-237",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2026/05/NPC-22-237-MTS-vs.-Bank-of-the-Philippine-Islands.pdf",
+      "source_tags_raw": "Tags: Alleged-unauthorized-processing; Section-25; Access-due-to-negligence; Section-26; Online-banking-fraud; Vishing-voice-pishing; OTP-compromise; Mobile-key- activation; Multi-factor-authentication; Burden-of-proof- substantial-evidence; Cybersecurity-financial-sector",
+      "source_tags": [
+        "Alleged-unauthorized-processing",
+        "Section-25",
+        "Access-due-to-negligence",
+        "Section-26",
+        "Online-banking-fraud",
+        "Vishing-voice-pishing",
+        "OTP-compromise",
+        "Mobile-key- activation",
+        "Multi-factor-authentication",
+        "Burden-of-proof- substantial-evidence",
+        "Cybersecurity-financial-sector"
+      ],
+      "issue_date": "August 1, 2024",
+      "issue_date_iso": "2024-08-01",
+      "published_time": "Mon, 18 May 2026 05:14:14 GMT",
+      "published_time_iso": "2026-05-18T05:14:14+00:00",
+      "page_count": 20,
+      "year": "2024",
+      "slug": "npc-22-237-mts-vs-bank-of-the-philippine-islands",
+      "raw_text_path": "cache/decisions/text_raw/npc-22-237-mts-vs-bank-of-the-philippine-islands-c8439d9c17.md",
+      "text_path": "cache/decisions/text/npc-22-237-mts-vs-bank-of-the-philippine-islands-c8439d9c17.txt",
+      "markdown_path": "content/decisions/2024/npc-22-237-mts-vs-bank-of-the-philippine-islands.md",
+      "excerpt": "NPC 22-237: MTS vs. Bank of the Philippine Islands"
     },
     {
       "title": "NPC 22-179: TSO vs ARM and HBM",
@@ -430,6 +482,39 @@
       "text_path": "cache/decisions/text/npc-18-004-and-18-005-2023-11-13-ca-v-westparc-condominium-decision-d2e1a6e29a.txt",
       "markdown_path": "content/decisions/2023/npc-18-004-and-npc-18-005-ca-v-westparc-condominium-and-vp-v-westparc-condominium.md",
       "excerpt": "NPC 18-004 and NPC 18-005: CA v. WestParc Condominium and VP v WestParc Condominium"
+    },
+    {
+      "title": "NPC 22-113: JBM vs. PPHI",
+      "short_title": "JBM vs. PPHI",
+      "reference_label": "NPC 22-113",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2026/05/NPC-22-113-JBM-vs.-PPHI.pdf",
+      "source_tags_raw": "Tags: Section 32-Unauthorized-disclosure; Thirt-party-vs-internal-disclosure; Lawful-processing-section 12; Consent-section 13; Data-Privacy-Consent-form; marital-status-sensitive-personal-information; Contact-number-personal-information; Burden-of-proof-substantial-evidence; Dismissal-lack-of-substantial-evidence; Employee-processng-with-pic; Title-transfer-group-processing; Housing-developer-data-processing; Data-privacy-principles-transparency;",
+      "source_tags": [
+        "Section 32-Unauthorized-disclosure",
+        "Thirt-party-vs-internal-disclosure",
+        "Lawful-processing-section 12",
+        "Consent-section 13",
+        "Data-Privacy-Consent-form",
+        "marital-status-sensitive-personal-information",
+        "Contact-number-personal-information",
+        "Burden-of-proof-substantial-evidence",
+        "Dismissal-lack-of-substantial-evidence",
+        "Employee-processng-with-pic",
+        "Title-transfer-group-processing",
+        "Housing-developer-data-processing",
+        "Data-privacy-principles-transparency"
+      ],
+      "issue_date": "September 26, 2023",
+      "issue_date_iso": "2023-09-26",
+      "published_time": "Mon, 18 May 2026 05:15:27 GMT",
+      "published_time_iso": "2026-05-18T05:15:27+00:00",
+      "page_count": 17,
+      "year": "2023",
+      "slug": "npc-22-113-jbm-vs-pphi",
+      "raw_text_path": "cache/decisions/text_raw/npc-22-113-jbm-vs-pphi-c99ac056d8.md",
+      "text_path": "cache/decisions/text/npc-22-113-jbm-vs-pphi-c99ac056d8.txt",
+      "markdown_path": "content/decisions/2023/npc-22-113-jbm-vs-pphi.md",
+      "excerpt": "NPC 22-113: JBM vs. PPHI"
     },
     {
       "title": "NPC SS 21-008: Populus Lending Corporation (PESOPOP) and its Responsible Officers",
@@ -1873,6 +1958,27 @@
       "excerpt": "An Act Protecting Individual Personal Information in Information and Communications"
     },
     {
+      "title": "NPC 19-1438: VMJR v. EBO",
+      "short_title": "VMJR v. EBO",
+      "reference_label": "NPC 19-1438",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2026/04/NPC-19-1438-VMJR-v.-EBO.pdf",
+      "source_tags_raw": "Tags: Unauthorized Processing of Personal Information and Sensitive Personal Information (Section 25), Malicious Disclosure (Section 32), Post, Orders, Exhaustion of Remedies (Section 4), Protection of Lawful Rights and Interests in Court Proceedngs Section 13(f), Proportionality (Section 11), Nominal Damages (Section 37)",
+      "source_tags": [
+        "Unauthorized Processing of Personal Information and Sensitive Personal Information (Section 25), Malicious Disclosure (Section 32), Post, Orders, Exhaustion of Remedies (Section 4), Protection of Lawful Rights and Interests in Court Proceedngs Section 13(f), Proportionality (Section 11), Nominal Damages (Section 37)"
+      ],
+      "issue_date": "October 11, 2019",
+      "issue_date_iso": "2019-10-11",
+      "published_time": "Mon, 27 Apr 2026 06:23:57 GMT",
+      "published_time_iso": "2026-04-27T06:23:57+00:00",
+      "page_count": 18,
+      "year": "2019",
+      "slug": "npc-19-1438-vmjr-v-ebo",
+      "raw_text_path": "cache/decisions/text_raw/npc-19-1438-vmjr-v-ebo-a789b109fc.md",
+      "text_path": "cache/decisions/text/npc-19-1438-vmjr-v-ebo-a789b109fc.txt",
+      "markdown_path": "content/decisions/2019/npc-19-1438-vmjr-v-ebo.md",
+      "excerpt": "or if the complaint involves a serious violation or breach of the Data NPC 19 -1438"
+    },
+    {
       "title": "08-15-2019: In Re: DATA BREACH INVOLVING THE COMELEC DATA PROCESSING SYSTEM IN WAO, LANAO DEL SUR",
       "short_title": "In Re: DATA BREACH INVOLVING THE COMELEC DATA PROCESSING SYSTEM IN WAO, LANAO DEL SUR",
       "reference_label": "08-15-2019",
@@ -2046,6 +2152,67 @@
       "text_path": "cache/decisions/text/cid-17-k-004-ibc-v-pbi-decision-pseudonymized-7aug2020-abj1-792d364ce7.txt",
       "markdown_path": "content/decisions/2017/ibc-vs-pbi.md",
       "excerpt": "complainant did not receive a reply on his letter of protest as well as a Decision"
+    },
+    {
+      "title": "NPC 20-307: Spouses JGY and NTY v. BPI Family Savings Bank, Inc.",
+      "short_title": "Spouses JGY and NTY v. BPI Family Savings Bank, Inc.",
+      "reference_label": "NPC 20-307",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2026/05/NPC-20-307-Spouses-JGY-and-NTY-v.-BPI-Family-Savings-Bank-Inc.-Decision.pdf",
+      "source_tags_raw": "Tags: Unauthorized disclosure; Section 32; Mortgage-loan; Contstraction Loan; Contractor-as-third party; Legitimate interest-section -12f; Loan Proceeds-release-info; Text-messages-disclosure; not-malicious-not-bad-faith; personal-information-in-loan-context",
+      "source_tags": [
+        "Unauthorized disclosure",
+        "Section 32",
+        "Mortgage-loan",
+        "Contstraction Loan",
+        "Contractor-as-third party",
+        "Legitimate interest-section -12f",
+        "Loan Proceeds-release-info",
+        "Text-messages-disclosure",
+        "not-malicious-not-bad-faith",
+        "personal-information-in-loan-context"
+      ],
+      "issue_date": "July 3, 2017",
+      "issue_date_iso": "2017-07-03",
+      "published_time": "Mon, 18 May 2026 05:15:10 GMT",
+      "published_time_iso": "2026-05-18T05:15:10+00:00",
+      "page_count": 29,
+      "year": "2017",
+      "slug": "npc-20-307-spouses-jgy-and-nty-v-bpi-family-savings-bank-inc",
+      "raw_text_path": "cache/decisions/text_raw/npc-20-307-spouses-jgy-and-nty-v-bpi-family-savings-bank-inc-decision-40e1d65de8.md",
+      "text_path": "cache/decisions/text/npc-20-307-spouses-jgy-and-nty-v-bpi-family-savings-bank-inc-decision-40e1d65de8.txt",
+      "markdown_path": "content/decisions/2017/npc-20-307-spouses-jgy-and-nty-v-bpi-family-savings-bank-inc.md",
+      "excerpt": "Complaints -Assisted Form, 26 November 2020, in Spouses JGY and NTY v. BPI Family"
+    },
+    {
+      "title": "NPC 22-117: CJJ vs. JJS and JB",
+      "short_title": "CJJ vs. JJS and JB",
+      "reference_label": "NPC 22-117",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2026/05/NPC-22-117-CJJ-vs.-JJS-and-JB.pdf",
+      "source_tags_raw": "Tags: Section-32- unauthorized-disclosure; Section-31-malicious-disclosure-not-proven; Journalistic-exemption- limits; Excessive-processing- section-11d; Facebook-live-public- disclosure; Identification- of-vawc-victim; RA-9262-confidentiality; Sensitive-information; Absence-of-consent; Pres; Data-subject-rights",
+      "source_tags": [
+        "Section-32- unauthorized-disclosure",
+        "Section-31-malicious-disclosure-not-proven",
+        "Journalistic-exemption- limits",
+        "Excessive-processing- section-11d",
+        "Facebook-live-public- disclosure",
+        "Identification- of-vawc-victim",
+        "RA-9262-confidentiality",
+        "Sensitive-information",
+        "Absence-of-consent",
+        "Pres",
+        "Data-subject-rights"
+      ],
+      "issue_date": "November 26, 2014",
+      "issue_date_iso": "2014-11-26",
+      "published_time": "Mon, 18 May 2026 05:15:01 GMT",
+      "published_time_iso": "2026-05-18T05:15:01+00:00",
+      "page_count": 31,
+      "year": "2014",
+      "slug": "npc-22-117-cjj-vs-jjs-and-jb",
+      "raw_text_path": "cache/decisions/text_raw/npc-22-117-cjj-vs-jjs-and-jb-51dcc4834c.md",
+      "text_path": "cache/decisions/text/npc-22-117-cjj-vs-jjs-and-jb-51dcc4834c.txt",
+      "markdown_path": "content/decisions/2014/npc-22-117-cjj-vs-jjs-and-jb.md",
+      "excerpt": "Philippine General Hospital represented by its Hospital Director Gerardo D. Legaspi, MD and Jayvee S."
     }
   ]
 }

@@ -7,7 +7,8 @@ draft: false
 Year folders contain the generated issuance notes. Quartz Explorer will show the same tree in the sidebar.
 
 ## Years
-- [[issuances/undated/index|undated]] (15 issuances)
+- [[issuances/undated/index|undated]] (16 issuances)
+- [[issuances/2026/index|2026]] (2 issuances)
 - [[issuances/2025/index|2025]] (4 issuances)
 - [[issuances/2024/index|2024]] (7 issuances)
 - [[issuances/2023/index|2023]] (9 issuances)

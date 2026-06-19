@@ -7,6 +7,7 @@ draft: false
 Generated notes for **undated**.
 
 ## Notes
+- [[issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
 - [[issuances/undated/security-of-personal-data-in-government-agencies|Security of Personal Data in Government Agencies]] (Circular No. 16-01)
 - [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Rules on the Issuance of Cease and Desist Orders]] (Circular No. 20-02)
 - [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|Rules on Mediation before the National Privacy Commission]] (Circular No. 18-03)
@@ -14,6 +15,7 @@ Generated notes for **undated**.
 - [[issuances/undated/rules-of-procedure|Rules of Procedure]] (Circular No. 16-04)
 - [[issuances/undated/registration-of-data-processing-systems-appendix-1|Registration of Data Processing Systems Appendix 1]]
 - [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems]] (Circular No. 17-01)
+- [[issuances/undated/public-advisory-on-online-lending-platforms-olps|Public Advisory on Online Lending Platforms (OLPs)]]
 - [[issuances/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Prerequisites for the Philippine Privacy Mark Certification Program]]
 - [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]] (Circular No. 16-03)
 - [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions]] (Circular No. 20-01)

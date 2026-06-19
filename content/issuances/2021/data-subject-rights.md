@@ -688,4 +688,4 @@ DATE RECEIVED:
 [^10]: Id.
 
 ## Source And Notes
-<!-- BEGIN GENERATED TEXT INFO --> - Companion note: [[notes/2021/data-subject-rights|Analysis and metadata]] - Raw source text: [[sources/2021/data-subject-rights|Raw source extraction]] - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/02/NPC-Advisory-2021-01-FINAL.pdf - OCR used during extraction: no <!-- END GENERATED TEXT INFO -->
+<!-- BEGIN GENERATED TEXT INFO --> - Companion note: [[notes/2021/data-subject-rights|Analysis and metadata]] - Raw source text: [[sources/2021/data-subject-rights|Raw source extraction]] - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2026/05/SGD-Advisory-DS-Rights-29-Jan-2021.pdf - OCR used during extraction: no <!-- END GENERATED TEXT INFO -->

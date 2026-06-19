@@ -7,7 +7,7 @@ draft: false
 All generated notes tagged as **Circular**.
 
 ## Notes
-- [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Circular No. 2023-06: Security of Personal Data in the Government and the Private Sector]]
+- [[issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
 - [[issuances/undated/security-of-personal-data-in-government-agencies|Circular No. 16-01: Security of Personal Data in Government Agencies]]
 - [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Circular No. 20-02: Rules on the Issuance of Cease and Desist Orders]]
 - [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|Circular No. 18-03: Rules on Mediation before the National Privacy Commission]]
@@ -15,10 +15,11 @@ All generated notes tagged as **Circular**.
 - [[issuances/undated/rules-of-procedure|Circular No. 16-04: Rules of Procedure]]
 - [[issuances/undated/registration-of-data-processing-systems-appendix-1|Circular No. 17-01: Registration of Data Processing Systems Appendix 1]]
 - [[issuances/undated/registration-of-data-processing-systems|Circular No. 17-01: Registration of Data Processing Systems]]
-- [[issuances/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Prerequisites for the Philippine Privacy Mark Certification Program]]
+- [[issuances/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Circular No. 2023-05: Prerequisites for the Philippine Privacy Mark Certification Program]]
 - [[issuances/undated/personal-data-breach-management|Circular No. 16-03: Personal Data Breach Management]]
 - [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Circular No. 20-01: Guidelines on the Processing of Personal Data for Loan-Related Transactions]]
 - [[issuances/undated/guidelines-on-compliance-checks|Circular No. 18-02: Guidelines on Compliance Checks]]
+- [[issuances/2026/clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system|Circular No. 16-03: Clarification on the Submission of Personal Data Breach Notification through Data Breach Notification Management System]]
 - [[issuances/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Circular No. 2025-01: Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras]]
 - [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Circular No. 2020-03: Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements]]
 - [[issuances/2024/closed-circuit-television-cctv-systems|Circular No. 2024-02: Closed-Circuit Television (CCTV) Systems]]
@@ -27,7 +28,7 @@ All generated notes tagged as **Circular**.
 - [[issuances/2023/guidelines-on-legitimate-interest|Circular No. 2023-07: Guidelines on Legitimate Interest]]
 - [[issuances/2023/guidelines-on-identification-cards|Circular No. 2023-03: Guidelines on Identification Cards]]
 - [[issuances/2023/guidelines-on-consent|Circular No. 2023-04: Guidelines on Consent]]
-- [[issuances/2023/data-privacy-competency-program|Data Privacy Competency Program]]
+- [[issuances/2023/data-privacy-competency-program|Circular No. 2023-02: Data Privacy Competency Program]]
 - [[issuances/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|Circular No. 2022-04: REGISTRATION OF PERSONAL DATA PROCESSING SYSTEM, NOTIFICATION REGARDING AUTOMATED DECISION-MAKING OR PROFILING, DESIGNATION OF DATA PROTECTION OFFICER, AND THE NATIONAL PRIVACY COMMISSION SEAL OF REGISTRATION]]
 - [[issuances/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Circular No. 2022: Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information]]
 - [[issuances/2022/guidelines-on-administrative-fines|Circular No. 2022-01: GUIDELINES ON ADMINISTRATIVE FINES]]

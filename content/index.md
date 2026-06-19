@@ -6,7 +6,7 @@ draft: false
 
 This Quartz workspace collects National Privacy Commission issuances and quasi-judicial documents.
 
-- Corpus size: **62** issuances
+- Corpus size: **65** issuances
 - Source index: https://privacy.gov.ph/pips-and-pics/advisories-circulars/
 - Local workflow: run `python3 scripts/build_npc_site.py build` for safe index/type refreshes, add `--rewrite-record-pages` only when you intentionally want to regenerate issuance/source/note pages, run `python3 scripts/build_npc_decisions_resolutions.py all --refresh` for decisions and resolutions, then `npx quartz build --serve` to preview the wiki.
 
@@ -23,8 +23,8 @@ This Quartz workspace collects National Privacy Commission issuances and quasi-j
 - [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines On The Processing Of Personal Data For Election Campaign Or Partisan Political Activity]] (3 backlinks)
 - [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Rules on the Issuance of Cease and Desist Orders]] (2 backlinks)
 - [[issuances/undated/rules-of-procedure|Rules of Procedure]] (2 backlinks)
+- [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions]] (2 backlinks)
 - [[issuances/2023/guidelines-on-consent|Guidelines on Consent]] (2 backlinks)
-- [[issuances/2021/data-subject-rights|Data Subject Rights]] (2 backlinks)
 - [[issuances/undated/security-of-personal-data-in-government-agencies|Security of Personal Data in Government Agencies]] (1 backlinks)
 - [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|Rules on Mediation before the National Privacy Commission]] (1 backlinks)
 - [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|Rules of procedure on requests for Advisory Opinions]] (1 backlinks)

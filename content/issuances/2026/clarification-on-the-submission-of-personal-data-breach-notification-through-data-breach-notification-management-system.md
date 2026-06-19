@@ -61,5 +61,5 @@ Deputy Privacy Commissioner                Deputy Privacy Commissioner
 [^2]: *See*: NPC Circular No. 2022-01 Guidelines on Administrative Fines dated 08 August 2022.
 
 ## Source And Notes
-- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2026/05/NPC-Advisory-No.-2026-02.pdf
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2026/05/Advisory-Clarification-on-the-Submission-of-Personal-Data-Breach-Notification-through-DBNMS_11-May-2026.pdf
 - OCR used during extraction: no

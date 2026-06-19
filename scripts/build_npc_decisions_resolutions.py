@@ -235,10 +235,12 @@ def parse_source_tags(raw_tags: str) -> list[str]:
 
 
 def extract_relevant_body(markdown: str, heading: str) -> str:
-    marker = f"\n{heading}\n"
-    idx = markdown.find(marker)
-    if idx == -1 and markdown.startswith(f"{heading}\n"):
-        idx = 0
+    heading_pattern = re.compile(
+        rf"(?m)^(?:#+\s*)?{re.escape(heading)}\s*$",
+        re.IGNORECASE,
+    )
+    match = heading_pattern.search(markdown)
+    idx = match.start() if match else -1
     if idx == -1:
         raise ValueError(f"Unable to locate section heading {heading!r}")
     body = markdown[idx:]

@@ -1,6 +1,6 @@
 {
   "source_url": "https://privacy.gov.ph/pips-and-pics/advisories-circulars/",
-  "issuance_count": 62,
+  "issuance_count": 65,
   "issuances": [
     {
       "title": "FAQs on the Guidelines on Administrative Fines",
@@ -451,9 +451,7 @@
       "page_count": 11,
       "citations": [],
       "outgoing_refs": [],
-      "incoming_refs": [
-        "2021-rules-of-procedure-of-the-national-privacy-commission"
-      ],
+      "incoming_refs": [],
       "content_path": "content/issuances/undated/personal-data-breach-management.md",
       "notes_path": "content/notes/undated/personal-data-breach-management.md",
       "source_note_path": "content/sources/undated/personal-data-breach-management.md",
@@ -490,7 +488,8 @@
       ],
       "outgoing_refs": [],
       "incoming_refs": [
-        "amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions"
+        "amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions",
+        "public-advisory-on-online-lending-platforms-olps"
       ],
       "content_path": "content/issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions.md",
       "notes_path": "content/notes/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions.md",
@@ -532,6 +531,132 @@
       "content_path": "content/issuances/undated/guidelines-on-compliance-checks.md",
       "notes_path": "content/notes/undated/guidelines-on-compliance-checks.md",
       "source_note_path": "content/sources/undated/guidelines-on-compliance-checks.md",
+      "ocr_used": false
+    },
+    {
+      "title": "Public Advisory on Online Lending Platforms (OLPs)",
+      "reference_label": null,
+      "source_url": "https://privacy.gov.ph/wp-content/uploads/2026/03/DICT-NPC-SEC-Public-Advisory-on-Online-Lending-Platforms.pdf",
+      "pdf_path": "cache/pdfs/DICT-NPC-SEC-Public-Advisory-on-Online-Lending-Platforms.pdf",
+      "text_path": "cache/text/DICT-NPC-SEC-Public-Advisory-on-Online-Lending-Platforms.txt",
+      "raw_text_path": "cache/text_raw/DICT-NPC-SEC-Public-Advisory-on-Online-Lending-Platforms.txt",
+      "slug": "public-advisory-on-online-lending-platforms-olps",
+      "year": "undated",
+      "kind": "Advisory",
+      "canonical_reference": null,
+      "aliases": [
+        "public advisory on online lending platforms (olps)"
+      ],
+      "tags": [
+        "issuance",
+        "topic/government",
+        "type/advisory",
+        "year/undated"
+      ],
+      "excerpt": "The government recently received numerous reports of online lending platforms (OLPs) engaging in harassment, intimidation, public shaming, and unlawful use of personal data in their collection practices.",
+      "issue_date": null,
+      "issue_date_iso": null,
+      "page_count": 3,
+      "citations": [
+        "circular no. 20-01",
+        "circular no. 2022-",
+        "memorandum circular no. 18",
+        "memorandum circular no. 19"
+      ],
+      "outgoing_refs": [
+        "guidelines-on-the-processing-of-personal-data-for-loan-related-transactions"
+      ],
+      "incoming_refs": [],
+      "content_path": "content/issuances/undated/public-advisory-on-online-lending-platforms-olps.md",
+      "notes_path": "content/notes/undated/public-advisory-on-online-lending-platforms-olps.md",
+      "source_note_path": "content/sources/undated/public-advisory-on-online-lending-platforms-olps.md",
+      "ocr_used": false
+    },
+    {
+      "title": "Clarification on the Submission of Personal Data Breach Notification through Data Breach Notification Management System",
+      "reference_label": "Circular No. 16-03",
+      "source_url": "https://privacy.gov.ph/wp-content/uploads/2026/05/Advisory-Clarification-on-the-Submission-of-Personal-Data-Breach-Notification-through-DBNMS_11-May-2026.pdf",
+      "pdf_path": "cache/pdfs/Advisory-Clarification-on-the-Submission-of-Personal-Data-Breach-Notification-through-DBNMS_11-May-2026.pdf",
+      "text_path": "cache/text/Advisory-Clarification-on-the-Submission-of-Personal-Data-Breach-Notification-through-DBNMS_11-May-2026.txt",
+      "raw_text_path": "cache/text_raw/Advisory-Clarification-on-the-Submission-of-Personal-Data-Breach-Notification-through-DBNMS_11-May-2026.txt",
+      "slug": "clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system",
+      "year": "2026",
+      "kind": "Circular",
+      "canonical_reference": "circular no. 16-03",
+      "aliases": [
+        "circular no. 16-03",
+        "clarification on the submission of personal data breach notification through data breach notification management system",
+        "npc circular no. 16-03"
+      ],
+      "tags": [
+        "issuance",
+        "topic/security",
+        "type/circular",
+        "year/2026"
+      ],
+      "excerpt": "SUBJECT : CLARIFICATION ON THE SUBMISSION OF PERSONAL DATA BREACH NOTIFICATION THROUGH DATA BREACH NOTIFICATION MANAGEMENT SYSTEM",
+      "issue_date": null,
+      "issue_date_iso": null,
+      "page_count": 2,
+      "citations": [
+        "advisory no. 2026",
+        "advisory no. 2026-02",
+        "circular no. 16-",
+        "circular no. 16-03",
+        "circular no. 16-03.",
+        "circular no. 2022-01"
+      ],
+      "outgoing_refs": [
+        "guidelines-on-administrative-fines",
+        "guidelines-on-data-scraping-of-publicly-available-personal-data"
+      ],
+      "incoming_refs": [
+        "2021-rules-of-procedure-of-the-national-privacy-commission"
+      ],
+      "content_path": "content/issuances/2026/clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system.md",
+      "notes_path": "content/notes/2026/clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system.md",
+      "source_note_path": "content/sources/2026/clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system.md",
+      "ocr_used": false
+    },
+    {
+      "title": "Guidelines on Data Scraping of Publicly Available Personal Data",
+      "reference_label": "Advisory No. 2026",
+      "source_url": "https://privacy.gov.ph/wp-content/uploads/2026/04/SGD_A_1.pdf",
+      "pdf_path": "cache/pdfs/SGD_A_1.pdf",
+      "text_path": "cache/text/SGD_A_1.txt",
+      "raw_text_path": "cache/text_raw/SGD_A_1.txt",
+      "slug": "guidelines-on-data-scraping-of-publicly-available-personal-data",
+      "year": "2026",
+      "kind": "Advisory",
+      "canonical_reference": "advisory no. 2026",
+      "aliases": [
+        "advisory no. 2026",
+        "guidelines on data scraping of publicly available personal data",
+        "npc advisory no. 2026"
+      ],
+      "tags": [
+        "issuance",
+        "type/advisory",
+        "year/2026"
+      ],
+      "excerpt": "WHEREAS, Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote innovation and growth. The...",
+      "issue_date": null,
+      "issue_date_iso": null,
+      "page_count": 6,
+      "citations": [
+        "advisory no. 2026",
+        "circular no. 2023-04.2",
+        "circular no. 2023-06"
+      ],
+      "outgoing_refs": [
+        "faq-security-of-personal-data-in-the-government-and-the-private-sector"
+      ],
+      "incoming_refs": [
+        "clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system"
+      ],
+      "content_path": "content/issuances/2026/guidelines-on-data-scraping-of-publicly-available-personal-data.md",
+      "notes_path": "content/notes/2026/guidelines-on-data-scraping-of-publicly-available-personal-data.md",
+      "source_note_path": "content/sources/2026/guidelines-on-data-scraping-of-publicly-available-personal-data.md",
       "ocr_used": false
     },
     {
@@ -870,9 +995,7 @@
         "circular no. 04",
         "circular no. 06"
       ],
-      "outgoing_refs": [
-        "data-subject-rights"
-      ],
+      "outgoing_refs": [],
       "incoming_refs": [
         "guidelines-on-child-oriented-transparency",
         "guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012",
@@ -995,7 +1118,9 @@
         "circular no. 2023-06"
       ],
       "outgoing_refs": [],
-      "incoming_refs": [],
+      "incoming_refs": [
+        "guidelines-on-data-scraping-of-publicly-available-personal-data"
+      ],
       "content_path": "content/issuances/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector.md",
       "notes_path": "content/notes/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector.md",
       "source_note_path": "content/sources/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector.md",
@@ -1399,7 +1524,9 @@
       "outgoing_refs": [
         "rules-on-the-issuance-of-cease-and-desist-orders"
       ],
-      "incoming_refs": [],
+      "incoming_refs": [
+        "clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system"
+      ],
       "content_path": "content/issuances/2022/guidelines-on-administrative-fines.md",
       "notes_path": "content/notes/2022/guidelines-on-administrative-fines.md",
       "source_note_path": "content/sources/2022/guidelines-on-administrative-fines.md",
@@ -1639,9 +1766,9 @@
         "circular no. 2021-01"
       ],
       "outgoing_refs": [
+        "clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system",
         "guidelines-on-compliance-checks",
         "guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission",
-        "personal-data-breach-management",
         "rules-of-procedure",
         "rules-of-procedure-on-requests-for-advisory-opinions",
         "rules-on-mediation-before-the-national-privacy-commission"
@@ -1682,9 +1809,7 @@
         "advisory no. 2021",
         "advisory no. 2021-01"
       ],
-      "outgoing_refs": [
-        "data-subject-rights"
-      ],
+      "outgoing_refs": [],
       "incoming_refs": [
         "data-subject-rights",
         "guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework",
@@ -1734,19 +1859,19 @@
     },
     {
       "title": "Data Subject Rights",
-      "reference_label": "Advisory No. 2021-01",
-      "source_url": "https://privacy.gov.ph/wp-content/uploads/2021/02/NPC-Advisory-2021-01-FINAL.pdf",
-      "pdf_path": "cache/pdfs/NPC-Advisory-2021-01-FINAL.pdf",
-      "text_path": "cache/text/NPC-Advisory-2021-01-FINAL.txt",
-      "raw_text_path": "cache/text_raw/NPC-Advisory-2021-01-FINAL.txt",
+      "reference_label": "Advisory No. 2021",
+      "source_url": "https://privacy.gov.ph/wp-content/uploads/2026/05/SGD-Advisory-DS-Rights-29-Jan-2021.pdf",
+      "pdf_path": "cache/pdfs/SGD-Advisory-DS-Rights-29-Jan-2021.pdf",
+      "text_path": "cache/text/SGD-Advisory-DS-Rights-29-Jan-2021.txt",
+      "raw_text_path": "cache/text_raw/SGD-Advisory-DS-Rights-29-Jan-2021.txt",
       "slug": "data-subject-rights",
       "year": "2021",
       "kind": "Advisory",
-      "canonical_reference": "advisory no. 2021-01",
+      "canonical_reference": "advisory no. 2021",
       "aliases": [
-        "advisory no. 2021-01",
+        "advisory no. 2021",
         "data subject rights",
-        "npc advisory no. 2021-01"
+        "npc advisory no. 2021"
       ],
       "tags": [
         "issuance",
@@ -1754,8 +1879,8 @@
         "year/2021"
       ],
       "excerpt": "WHEREAS, the right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution emphasizes that the State values the...",
-      "issue_date": null,
-      "issue_date_iso": null,
+      "issue_date": "January 29, 2021",
+      "issue_date_iso": "2021-01-29",
       "page_count": 16,
       "citations": [
         "advisory no. 2021"
@@ -1763,10 +1888,7 @@
       "outgoing_refs": [
         "guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity"
       ],
-      "incoming_refs": [
-        "guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data",
-        "guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity"
-      ],
+      "incoming_refs": [],
       "content_path": "content/issuances/2021/data-subject-rights.md",
       "notes_path": "content/notes/2021/data-subject-rights.md",
       "source_note_path": "content/sources/2021/data-subject-rights.md",

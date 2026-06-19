@@ -9,6 +9,7 @@ Generated notes for **2023** NPC decisions.
 ## Notes
 - [[decisions/2023/npc-23-036-spouses-jg-and-ag-vs-spouses-cp-and-cc|NPC 23-036: SPOUSES JG and AG vs SPOUSES CP and CC]]
 - [[decisions/2023/npc-18-004-and-npc-18-005-ca-v-westparc-condominium-and-vp-v-westparc-condominium|NPC 18-004 and NPC 18-005: CA v. WestParc Condominium and VP v WestParc Condominium]]
+- [[decisions/2023/npc-22-113-jbm-vs-pphi|NPC 22-113: JBM vs. PPHI]]
 - [[decisions/2023/npc-ss-21-008-populus-lending-corporation-pesopop-and-its-responsible-officers|NPC SS 21-008: Populus Lending Corporation (PESOPOP) and its Responsible Officers]]
 - [[decisions/2023/npc-20-283-mag-vs-bank-of-the-philippine-islands|NPC 20-283: MAG vs. Bank of the Philippine Islands]]
 - [[decisions/2023/npc-19-758-and-npc-19-1846-spouses-mcd-jjd-v-victorias-milling-company-et-al|NPC 19-758 and NPC 19-1846: Spouses MCD, JJD v. Victorias Milling Company, et al]]

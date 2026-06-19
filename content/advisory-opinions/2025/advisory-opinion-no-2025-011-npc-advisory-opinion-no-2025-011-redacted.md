@@ -11,8 +11,8 @@ draft: false
 ## Source
 
 - Reference: Advisory Opinion No. 2025-011
-- Official PDF: https://privacy.gov.ph/wp-content/uploads/2025/09/NPC-Advisory-Opinion-No.-2025-011-redacted.pdf
-- Issue date: [Date from PDF]
+- Official PDF: https://privacy.gov.ph/wp-content/uploads/2026/04/NPC-Advisory-Opinion-No.-2025-011-redacted_Redacted.pdf
+- Issue date: 09/24/2025
 - Tags: Bureau of Internal Revenue; public authority; regulatory mandate; processing of personal information by a public authority; Scope of the DPA; special cases; proportionality
 
 ## Text
