@@ -127,7 +127,7 @@ In citing the Supreme Court decision *Romulo Natividad v. Court of Appeals*, Res
 
 Moreover, Respondent denied violating Section 29 of the DPA, arguing that Complainant was not able "to demonstrate by substantial evidence the very corpus delicti of the crime which is the instance that the Respondent breaks into the data system where personal or sensitive personal information of their mugshots is stored."[^46] Respondent further stated that considering that Complainant based his allegations on mere suspicion and speculation, his claim should not be given credence, and thus his complaint must be dismissed for lack of merit.[^47]
 
-### Issues
+### Issue
 
 I. Whether the case should be dismissed outright for failure of the Complainant to exhaust administrative remedies; and
 

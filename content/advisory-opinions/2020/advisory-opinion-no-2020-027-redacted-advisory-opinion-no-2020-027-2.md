@@ -10,6 +10,7 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2020-027
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-027.pdf
+- Issue date: 07/02/2020
 - OCR used during extraction: no
 
 ## Text
@@ -22,7 +23,7 @@ Dear [Redacted],
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to clarify matters relating to an official/faculty member’s
 Personal Data Sheet (PDS) to be used as evidence in an administrative investigation vis-à-vis
-the provisions of the Data Privacy Act of 20122 (DPA) and NPC Advisory No. 2017-02.3
+the provisions of the Data Privacy Act of 2012[^2] (DPA) and NPC Advisory No. 2017-02.[^3]
 
 We understand that a complaint was filed with the Civil Service Commission (CSC) by the
 Head of Human Resource Management Office (HRMO) of your University against the Vice
@@ -43,18 +44,9 @@ Given the forgoing, you sought resolution for the following matters:
 
 ### Discussion
 
-Republic Act No. 10173 (2012).
-
-April 2017).
-
-   5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307
-
-Personal Data Sheet; access; NPC Advisory No.
-2017-02
-
 A PDS is an official document required of a government employee and official and is the
 repository of all information regarding his or her personal background, qualification, and
-eligibility.4 Because the PDS contains sensitive personal information, its processing, which
+eligibility.[^4] Because the PDS contains sensitive personal information, its processing, which
 includes disclosure, may find basis under Section 13 of the DPA, particularly Section 13(b),
 which recognizes the processing that is provided for by existing laws and regulations, and
 Section 13(f) when such personal information is provided to government or public authority.
@@ -84,24 +76,19 @@ Instead, what will be controlling in this scenario is the University’s own int
 procedures on access to employee files in relation to the handling of administrative
 investigations, as well as any other pertinent CSC rules on the matter.
 
-Admissibility of the PDS; administrative
-investigation; evidence
+#### Admissibility of the PDS; administrative investigation; evidence
 
-We note that in the 2017 Rules on Administrative Cases in the Civil Service5 (2017 RACCS) it
+We note that in the 2017 Rules on Administrative Cases in the Civil Service[^5] (2017 RACCS) it
 is provided that “administrative investigations shall be conducted without strict recourse to
-technical rules of procedure and evidence applicable to judicial proceedings.”6
+technical rules of procedure and evidence applicable to judicial proceedings.”[^6]
 
 With this in mind, the determination of admissibility of documentary evidence such as the
 PDS, should be made by the University’s Appointing/Disciplining Authority based on the
 University’s internal rules and regulations governing administrative investigations and the
 2017 RACCS of the CSC.
 
-4 Advincula v. Dicen, G.R. No.162403 (2005).
-5 Civil Service Commission, 2017 Rules on Administrative Cases in the Civil Service (July 3, 2017).
-6 Id. § 3.
-
 We reiterate our previous Advisory Opinion that the determination of the admissibility of
-evidence is not within the purview of NPC’s mandate.7
+evidence is not within the purview of NPC’s mandate.[^7]
 
 This opinion is rendered based on the limited information you have provided. Additional
 information may change the context of the inquiry and the appreciation of the facts.
@@ -112,3 +99,10 @@ Very truly yours,
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
+
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: National Privacy Commission, Access to Personal Data Sheets of Government Personnel [NPC Advisory No. 2017-02] (3 April 2017).
+[^4]: Advincula v. Dicen, G.R. No.162403 (2005).
+[^5]: Civil Service Commission, 2017 Rules on Administrative Cases in the Civil Service (July 3, 2017).
+[^6]: Id. § 3.
+[^7]: National Privacy Commission, NPC Advisory Opinion No. 2019-023 (June 13, 2019).

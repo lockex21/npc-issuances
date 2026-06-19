@@ -37,19 +37,13 @@ provide for the right of private complainant to be given copies of the requested
 
 ### Discussion
 
-**NPC Advisory Opinion No. 2019-011; sensitive personal information in proceedings; lawful criteria for processing**
+#### NPC Advisory Opinion No. 2019-011; Sensitive Personal Information in Proceedings; Lawful Criteria for Processing
 
-The Data Privacy Act of 2012 (DPA) considers information about any proceeding for any
-offense committed or alleged to have been committed by an individual, the disposal of such
-proceedings, or the sentence of any court in such proceedings, as sensitive personal information.[^2] As a rule, the processing of sensitive personal information is not allowed except
-for the instances provided under the DPA. Some of these exceptions include processing which
-is provided for by existing laws and regulations,[^3] necessary for the establishment, exercise, or
-defense of legal claims,[^4] among others.
+The Data Privacy Act of 2012 (DPA) considers information about any proceeding for any offense committed or alleged to have been committed by an individual, the disposal of such proceedings, or the sentence of any court in such proceedings, as sensitive personal information.[^2] As a rule, the processing of sensitive personal information is not allowed except for the instances provided under the DPA. Some of these exceptions include processing which is provided for by existing laws and regulations,[^3] necessary for the establishment, exercise, or defense of legal claims,[^4] among others.
 
-Thus, access to or disclosure of the above should have a lawful basis under the DPA,
-specifically under Section 13 of the law.
+Thus, access to or disclosure of the above should have a lawful basis under the DPA, specifically under Section 13 of the law.
 
-**Civil Service Commission (CSC) 2017 Rules on Administrative Cases in the Civil Service (2017 RACCS); classification of offenses**
+#### Civil Service Commission (CSC) 2017 Rules on Administrative Cases in the Civil Service (2017 RACCS); Classification of Offenses
 
 We note the jurisprudence cited in your letter request and agree in principle that no private
 interest is involved in an administrative case.
@@ -74,21 +68,9 @@ With the above settlement in administrative cases for light offenses, it appears
 complainant is not merely a witness, but a party vested with the right to settlement and enter
 into a Compromise Agreement.
 
-Hence, we presuppose that in this scenario, the private complainant may be entitled to be
-given copies of certain case-related documents, proportional to the purpose of entering into a
-settlement.
+Hence, we presuppose that in this scenario, the private complainant may be entitled to be given copies of certain case-related documents, proportional to the purpose of entering into a settlement.
 
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
-
-Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012],
-Republic Act No. 10173, § 3 (l) (2) (2012).
-3 Data Privacy Act of 2012, § 13 (b).
-4 Id. § 13 (f).
-5 Civil Service Commission, 2017 Rules on Administrative Cases in the Civil Service [2017 RACCS], Rule 10, § 50 (July 3,
-
-7 Id. Rule 11, § 60.
-
-**Rules Implementing the Code of Conduct and Ethical Standards for Public Officials and Employees**
+#### Rules Implementing the Code of Conduct and Ethical Standards for Public Officials and Employees
 
 Where the above is not squarely applicable, we refer to the Rules Implementing the Code of
 Conduct and Ethical Standards for Public Officials and Employees[^8] (Rules) which may shed
@@ -127,7 +109,6 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
 
-[^1]: Tags: administrative proceedings; sensitive personal information; lawful criteria for processing; Civil Service Commission 2017 Rules on Administrative Cases in the Civil Service; Code of Conduct and Ethical Standards for Public Officials and Employees
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3 (l) (2) (2012).
 [^3]: Data Privacy Act of 2012, § 13 (b).
 [^4]: Id. § 13 (f).

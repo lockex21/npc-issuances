@@ -48,8 +48,6 @@ of the same to ING.
 
 ### Discussion
 
-application; right to access; right to data portability; right to be informed; security measures.
-
 As illustrated in your letter, during the loan application process, potential borrowers can
 select the specific bank/s from which to retrieve their transaction history by entering the
 respective online banking account log-in credentials for the said selected bank/s in the ING
@@ -70,19 +68,18 @@ You now seek clarification on the following issues:
 2) What are the compliance requirements under the DPA and related issuances of the NPC
    applicable to the automated retrieval process?
 
-Nature of personal data; processing of personal
-data; automated retrieval
+#### Nature of personal data; processing of personal data; automated retrieval
 
 The DPA defines personal information as any information, whether recorded in a material
 form or not, from which the identify of an individual is apparent or can be reasonably and
 directly ascertained by the entity holding the information, or when put together with other
-information would directly and certainly identify an individual.2
+information would directly and certainly identify an individual.[^2]
 
 On the other hand, processing of personal information and sensitive personal information,
 collectively referred to as personal data, is any operation or any set of operations performed
 upon personal data including, but not limited to, the collection, recording, organization,
 storage, updating or modification, retrieval, consultation, use, consolidation, blocking,
-erasure or destruction of data.3 Given its broad definition, it includes anything that can be
+erasure or destruction of data.[^3] Given its broad definition, it includes anything that can be
 done with personal data in any form, including by automated means.
 
 Hence, the name, account number and the bank account transaction history of a potential
@@ -90,16 +87,11 @@ borrower are considered personal information since it directly identifies a spec
 The automated retrieval thereof, considered a form of processing, must comply with the
 standards provided by Section 12 of the DPA.
 
-Exercise of the rights of a data subject; right to
-access; right to data portability
+#### Exercise of the rights of a data subject; right to access; right to data portability
 
 The rights of a data subject pertaining to access and portability correspond with each other.
 The right to access allows a data subject reasonable access to, upon demand, the following:
 
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
-
-2012], Republic Act No. 10173, § 3 (g) (2012).
-3 Id. § 3 (j).
 
    1. Contents of his or her personal information that were processed;
      2. Sources from which personal information were obtained;
@@ -111,15 +103,15 @@ The right to access allows a data subject reasonable access to, upon demand, the
      7. Date when his or her personal information concerning the data subject were last
         accessed and modified; and
      8. The designation or name of identify and address of the personal information
-        controller.4
+        controller.[^4]
 
 On the other hand, the right to data portability is referred to as the right of a data subject to
 obtain from a personal information controller a copy of his or her personal data that was
 processed or undergoing processing by the latter, in an electronic or structured format, which
-is commonly used and allows for further use by the data subject.5 This right primarily takes
+is commonly used and allows for further use by the data subject.[^5] This right primarily takes
 into account the right of the data subject to have control over his or her personal data being
 processed by the personal information controller based on consent or contract, for commercial
-purpose, through automated means.6
+purpose, through automated means.[^6]
 
 Based on the foregoing, data subjects are entitled to have reasonable access to their respective
 personal data. Upon being given such access, data subjects may request to be given a copy of
@@ -149,22 +141,17 @@ Specifically, the requirements on obtaining consent, the right of data subjects 
 adherence to the general data privacy principles, and the safeguards to be implemented to
 protect personal data against any unauthorized processing.
 
-4 Id. § 16 (c).
-5 Id. § 18.
-6 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 36 (2016).
-
-Consent; right to be informed; general data
-privacy principles; security measures
+#### Consent; right to be informed; general data privacy principles; security measures
 
 A data subject is entitled to make an informed decision when it comes to the processing of his
 or her personal information. Under the DPA, consent should be freely given, specific,
 informed indication of will, whereby the data subject agrees to the collection and processing
-of personal information about and/or relating to him or her.7 It may be evidenced by written,
-electronic or recorded means.8
+of personal information about and/or relating to him or her.[^7] It may be evidenced by written,
+electronic or recorded means.[^8]
 
 A data subject shall also have the right to be informed whether personal information
 pertaining to him or her will be, are being, or were processed and pertinent details related
-thereto.9
+thereto.[^9]
 
 Hence, a potential borrower must be adequately informed of the processing activity involving
 his or her personal information and provide consent to ING to access his or her online banking
@@ -200,16 +187,11 @@ mentioned in your letter, ING shall ensure that the general data privacy princip
 complied with by informing potential borrowers of the purpose for the processing of their
 personal information, how such data shall be processed, collecting only what is necessary for
 the purpose of such processing and that there are no other means to achieve such legitimate
-
-7 Data Privacy Act of 2012, § 3 (b).
-8 Ibid.
-9 Id. § 16 (a-b).
-
 purpose.
 
 ING must implement reasonable and appropriate organizational, technical, and physical
 security measures to ensure the protection of personal information against any accidental or
-unlawful destruction, alteration or disclosure and against any other unlawful processing.10
+unlawful destruction, alteration or disclosure and against any other unlawful processing.[^10]
 Considering that ING will be engaging the services of a personal information processor, such
 arrangement must be covered by an outsourcing agreement or similar agreement to clearly
 define the legal obligations and liabilities of each party with regard to each other and the data
@@ -238,4 +220,12 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-10 Data Privacy Act of 2012, § 20.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3 (g) (2012).
+[^3]: Id. § 3 (j).
+[^4]: Id. § 16 (c).
+[^5]: Id. § 18.
+[^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 36 (2016).
+[^7]: Data Privacy Act of 2012, § 3 (b).
+[^8]: Ibid.
+[^9]: Id. § 16 (a-b).
+[^10]: Data Privacy Act of 2012, § 20.

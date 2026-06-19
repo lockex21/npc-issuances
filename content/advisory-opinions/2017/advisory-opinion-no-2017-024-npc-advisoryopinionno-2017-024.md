@@ -37,7 +37,7 @@ following files/information:
 
 The DPA provides that personal data shall only be retained for as long as necessary for the
 fulfillment of the purposes for which the data was obtained or for the establishment, exercise
-or defense of legal claims, or for legitimate business purposes, or as provided by law.1
+or defense of legal claims, or for legitimate business purposes, or as provided by law.[^1]
 
 Further, the IRR expounds on such requirement under Section 19(d), to wit:
 
@@ -47,9 +47,7 @@ Further, the IRR expounds on such requirement under Section 19(d), to wit:
 
    d. Personal Data shall not be retained longer than necessary.
 
-1 Republic Act No. 10173, § 11(e).
-
-   1. Retention of personal data shall only for as long as necessary:
+1. Retention of personal data shall only for as long as necessary:
 
    (a) for the fulfillment of the declared, specified, and legitimate purpose, or
               when the processing relevant to the purpose has been terminated;
@@ -60,10 +58,10 @@ Further, the IRR expounds on such requirement under Section 19(d), to wit:
               followed by the applicable industry or approved by appropriate
               government agency.
 
-   2. Retention of personal data shall be allowed in cases provided by law.”
+2. Retention of personal data shall be allowed in cases provided by law.”
 
 The IRR further provides that personal data shall not be retained in perpetuity in
-contemplation of a possible future use yet to be determined.2
+contemplation of a possible future use yet to be determined.[^2]
 
 From the foregoing, it is clear that the DPA and its IRR does not provide for a specific retention
 period. Instead, the law sets out the general principles and guidelines for the retention of
@@ -93,8 +91,6 @@ of employment records would include:
    4.   Bureau of internal revenue regulations for bookkeeping requirements; and
    5.   Industry standards, and other laws and regulations that apply to the sector.
 
-2 Implementing Rules and Regulation of Republic Act No. 10173, §19(e)(3)
-
 Thus, for as long as your company can determine a legitimate business purpose for the
 retention of the abovementioned personal data, which is consistent with standards followed
 in the industry you are in, or if there exists any legal claims being pursued by the company,
@@ -102,7 +98,7 @@ or when retention is allowed as provided for by law, then retention of personal 
 permitted. However, such retention must not be in perpetuity in consideration of some future
 use which has not yet been determined.
 
-For your reference. 3
+For your reference.[^3]
 
 Sincerely,
 
@@ -111,5 +107,6 @@ Officer in Charge
 Deputy Privacy Commissioner
 for Policies and Planning
 
- This advisory opinion is based on the limited information provided in the questions, and may vary
-based on additional information or when the facts are changed or elaborated.
+[^1]: Republic Act No. 10173, § 11(e).
+[^2]: Implementing Rules and Regulation of Republic Act No. 10173, §19(e)(3)
+[^3]: This advisory opinion is based on the limited information provided in the questions, and may vary based on additional information or when the facts are changed or elaborated.

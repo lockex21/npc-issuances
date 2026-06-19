@@ -44,13 +44,13 @@ AGUIRRE, D.P.C.
 
 For consideration before this Commission is a complaint filed by JV against JR, in her capacity as the Customer Service Manager of the SM Store, for an indeterminate violation of the Data Privacy Act (DPA).[^1]
 
+#### These Proceedings
+
 On 15 March 2018, this Commission, through the Complaints and Investigation Division, conducted a Discovery Conference. At the Conference, this Commission directed the respondent and other representatives of SM Bicutan to submit a responsive pleading within ten (10) days from receipt of the Order dated 16 March 2018.[^2]
 
 On 26 March 2018, the respondent filed her Comment containing a narration of incidents and arguments refuting the complainant's allegations.[^3]
 
 On 13 April 2018, the complainant filed his Letter-Reply.
-
----
 
 ### Facts
 
@@ -69,8 +69,6 @@ The complainant then asked for an envelope for his birth certificate. JH told JV
 When the complainant brought this to the respondent's attention, the respondent informed the complainant that all customer service counters in all SM Stores throughout the country do not provide individual envelopes for their clients' birth certificates.
 
 Nevertheless, the respondent placed the complainant's birth certificate in an envelope and handed over the birth certificate to the complainant. At this point, the complainant was taking photos and videos of JH and the respondent, over their objections.
-
----
 
 ### Arguments of the Parties
 
@@ -108,8 +106,6 @@ The complainant claims that any photo and video taken was for evidentiary purpos
 
 Finally, the complainant points toward a peculiarity in JH and the respondent's Non-Disclosure Agreements, having been executed only 6 October 2017, two days prior to the incident. The complainant notes that these documents did not exist at the time he filed and paid for his birth certificate.
 
----
-
 ### Issues
 
 The issues to be resolved in this case are:
@@ -123,9 +119,13 @@ The issues to be resolved in this case are:
 
 On the procedural aspect of the case, NPC Circular 16-04 provides for the form and content of Complaints, thus:
 
+#### Form and Contents of Complaints
+
 > The complaint shall include a brief narration of the material facts and supporting documentary and testimonial evidence, all of which show: (a) the violation of the Data Privacy Act or related issuances; or (b) the acts or omissions allegedly committed by the respondent amounting to a privacy violation or personal data breach. The complaint must include any and all reliefs sought by the complainant.[^15]
 
 From the narration of events, this Complaint stems from the admitted fact that the birth and other certificates being released at the customer service counter in SM Bicutan were not sealed or covered individually.
+
+#### Procedural Deficiency
 
 On the basis of this, complainant alleges that his privacy was violated without specifying either the provisions of the Data Privacy Act that were violated or the acts constituting a violation of those provisions despite what NPC Circular 16-04 requires.
 
@@ -133,7 +133,7 @@ Notwithstanding this deficiency in form, however, the Commission resolves to giv
 
 Considering that the complainant cites no specific violation of the Data Privacy Act, we must determine whether the processing was done in accordance with some lawful criteria as provided in the law.
 
-#### The complainant gave his consent for the processing of his birth certificate.
+#### The Complainant Gave His Consent for the Processing of His Birth Certificate
 
 It is undisputed that the birth certificate of the complainant contains personal information and sensitive personal information as defined under the Data Privacy Act.
 
@@ -147,7 +147,7 @@ The requester also has the option to avail the services of PSA through their acc
 
 Here, the complainant chose to apply for his birth certificate in SM Store, an accredited partner of the PSA.[^17] In doing so, the complainant is considered to have given his consent to SM Store to process his request to get a birth certificate from PSA. He was aware that the processing shall be for purposes of issuing and releasing his birth certificate to him or to his duly authorized representative. Thus, SM Store, as an accredited partner of PSA, processed Complainant's birth certificate according to one of the lawful criteria set out in the Data Privacy Act.
 
-#### Respondent did not commit any violation of the Data Privacy Act to warrant a recommendation for prosecution.
+#### Respondent Did Not Commit Any Violation of the Data Privacy Act to Warrant a Recommendation for Prosecution
 
 The respondent argues that since complainant only claimed in general that there was a privacy violation and neither the Data Privacy Act nor its IRR defines what a privacy violation is, the circumstances of the case must be measured against what reasonable expectations of privacy exist. Using the reasonable expectation of privacy test as a measure, she claims that she did not commit any violation of the Data Privacy Act.
 
@@ -164,6 +164,8 @@ Expounding on the *Katz* test, *Ople* further explained:
 In *Ople v. Torres*,[^22] the Supreme Court expressly recognized the right to privacy as a fundamental right guaranteed by the Constitution, identifying in the process several constitutional provisions that protect different facets of such right. Apart from this, the Court explicitly recognized that different zones of privacy are protected under different laws, thus:
 
 > Zones of privacy are likewise recognized and protected in our laws. The Civil Code provides that '[e]very person shall respect the dignity, personality, privacy and peace of mind of his neighbors and other persons' and punishes as actionable torts several acts by a person of meddling and prying into the privacy of another. It also holds a public officer or employee or any private individual liable for damages for any violation of the rights and liberties of another person, and recognizes the privacy of letters and other private communications. The Revised Penal Code makes a crime the violation of secrets by an officer, the revelation of trade and industrial secrets, and trespass to dwelling. Invasion of privacy is an offense in special laws like the Anti-Wiretapping Law, the Secrecy of Bank Deposits Act and the Intellectual Property Code. The Rules of Court on privileged communication likewise recognize the privacy of certain information.[^23]
+
+#### Application of the Reasonable Expectation Test to Informational Privacy
 
 It is in this context that the Data Privacy Act of 2012 was enacted — "to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth."[^24]
 
@@ -236,6 +238,8 @@ In this case, the complainant observed that the requested certificates, containe
 
 While SM Store already has existing reasonable and appropriate measures, this Commission finds that said establishment is not strictly implementing these measures.
 
+#### Compliance with Data Privacy Act Requirements
+
 It is also worth noting that the NDAs of Respondent and JH were only executed two days before the incident.[^49] SM Store should require their employees to execute that document or some similar agreement at the beginning of their employment, or at least before they are assigned to handle documents containing personal data of their customers.
 
 Section 26(d) of the Implementing Rules and Regulations of the Data Privacy Act provides:
@@ -247,10 +251,6 @@ SM Store is duty-bound to strengthen the implementation of their privacy and sec
 The management should make their personnel aware of the nature of the data they are handling before they are assigned at the customer service counter. These personnel should also be oriented on the existing measures adopted and implemented by SM Bicutan.
 
 SM Store, as an accredited partner of PSA, should always be mindful that the Data Privacy Act specifically provides that any doubt in the interpretation of any provision of the law shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed.[^50] As such, SM Store should strictly implement its existing security measures to prevent these incidents in the future.
-
----
-
-### Dispositive Portion
 
 WHEREFORE, premises considered, the Commission **FINDS** no violation of the Data Privacy Act on the part of Respondent JR as the Customer Service Manager of SM STORE at SM Bicutan to warrant a recommendation for prosecution.
 
@@ -264,14 +264,17 @@ This is without prejudice to the filing of appropriate civil, criminal or admini
 
 Pasay City, 13 August 2019.
 
+Sgd.
 LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
 Concurring:
 
+Sgd.
 IVY D. PATDU
 Deputy Privacy Commissioner
 
+Sgd.
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
@@ -280,18 +283,13 @@ Copy furnished:
 JV
 Complainant
 
-JR, Customer Service Manager
-SM Store at SM Bicutan
+JR
+Customer Service Manager
 
-Compliance and Monitoring Division
-Enforcement Division
-
-General Records Unit
+COMPLIANCE AND MONITORING DIVISION
+ENFORCEMENT DIVISION
+GENERAL RECORDS UNIT
 National Privacy Commission
-
----
-
-### Footnotes
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [DATA PRIVACY ACT].
 [^2]: Records, p. 18; NPC Circular No. 16-04, Rule III, Section 15.

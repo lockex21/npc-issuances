@@ -18,10 +18,7 @@ draft: false
 
 ## Text
 
- '' '''' ''''''''' '''' ''''''''''''''''' ''''''
-
-   Re:       ACCESS TO DOCUMENTS BY SAN MIGUEL AEROCITY INC.
-                        PURSUANT TO ITS LEGISLATIVE FRANCHISE
+Re: ACCESS TO DOCUMENTS BY SAN MIGUEL AEROCITY INC. PURSUANT TO ITS LEGISLATIVE FRANCHISE
 
 Dear [Redacted],
 
@@ -32,34 +29,23 @@ New Manila International Airport (NMIA) project.
 ### Discussion
 
 We understand that San Miguel Aerocity, Inc. (SMAI) was granted a legislative franchise
-under Republic Act (RA) No. 115062 to construct, operate, and maintain the NMIA, an Airport
+under Republic Act (RA) No. 11506[^2] to construct, operate, and maintain the NMIA, an Airport
 City adjacent to the NMIA, and rights of way that will provide ingress and egress from the
 airport and the Airport City (collectively, the Projects).
 
 We understand further that Section 15 of RA No. 11506 delegated to SMAI the power of
 eminent domain. Corollary to the said power, there are obligations imposed under RA No.
-10752 or the Right-of-Way Act3 which require access to copies of certain documents relating
+10752 or the Right-of-Way Act[^3] which require access to copies of certain documents relating
 to the properties which may be acquired by SMAI through purchase, negotiation,
 expropriation, or condemnation proceedings. These documents are held by various
 government agencies and may contain personal and/or sensitive personal information
 (collectively, personal data).
 
 You now ask whether SMAI may be provided with these documents and process the personal
-
-laws and regulations; legal claims.
-2 An Act Granting San Miguel Aerocity Inc. A Franchise To Construct, Develop, Establish, Operate And Maintain A Domestic
-
-And International Airport In The Municipality Of Bulakan, Province Of Bulacan, And To Construct, Develop, Establish,
-Operate, And Maintain An Adjacent Airport City, Republic Act No. 11506 (2020)
-3 An Act Facilitating The Acquisition Of Right-Of-Way Site Or Location For National Government Infrastructure Projects
-
-[The Right-of-Way Act], Republic Act No. 10752 (2016)
-
 data contained therein pursuant to Sections 5 (c) and (d) and Section 22 (b) of the
-Implementing Rules and Regulations4 (IRR) of the Data Privacy Act of 20125 (DPA).
+Implementing Rules and Regulations[^4] (IRR) of the Data Privacy Act of 2012[^5] (DPA).
 
-Scope of the DPA; special cases; lawful basis for
-processing; legal obligation; laws and regulations
+#### Scope of the DPA; special cases; lawful basis for processing; legal obligation; laws and regulations
 
 We wish to clarify that the DPA only applies to the processing of personal data of natural persons
 and not information of juridical entities recognized under the law, such as corporations,
@@ -84,89 +70,84 @@ franchise, the same is not processing under a special case, but rather is more a
 based on Sections 12 (c) and/or Section 13 (b) and (f) of the DPA, depending on the type of
 personal data being processed, to wit:
 
-   “SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing
-         of personal information shall be permitted only if not otherwise prohibited by law, and
-         when at least one of the following conditions exists:
+> SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing
+> of personal information shall be permitted only if not otherwise prohibited by law, and
+> when at least one of the following conditions exists:
+>
+> x x x
+>
+> (c) The processing is necessary for compliance with a legal obligation to which the
+> personal information controller is subject;
+>
+> x x x
+>
+> SECTION 13. Sensitive Personal Information and Privileged Information. — The
+> processing of sensitive personal information and privileged information shall be
+> prohibited, except in the following cases:
+>
+> x x x
+>
+> (b) The processing of the same is provided for by existing laws and regulations: Provided,
+> That such regulatory enactments guarantee the protection of the sensitive personal
+> information and the privileged information: Provided, further, That the consent of the
+> data subjects are not required by law or regulation permitting the processing of the
+> sensitive personal information or the privileged information; x x x
+>
+> (f) The processing concerns such personal information as is necessary for the protection
+> of lawful rights and interests of natural or legal persons in court proceedings, or the
+> establishment, exercise or defense of legal claims, or when provided to government or
+> public authority.” (underscoring supplied)
 
-   xxx
+#### General data protection principles; proportionality; safeguards
 
-   (c) The processing is necessary for compliance with a legal obligation to which the
-         personal information controller is subject;
-
-   xxx
-
-   SECTION 13. Sensitive Personal Information and Privileged Information. — The
-         processing of sensitive personal information and privileged information shall be
-         prohibited, except in the following cases:
-
-   xxx
-
-   (b) The processing of the same is provided for by existing laws and regulations: Provided,
-         That such regulatory enactments guarantee the protection of the sensitive personal
-         information and the privileged information: Provided, further, That the consent of the
-
-4 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-5 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
-
-2012], Republic Act No. 10173 (2012).
-
-   data subjects are not required by law or regulation permitting the processing of the
-         sensitive personal information or the privileged information; xxx
-
-   (f) The processing concerns such personal information as is necessary for the protection
-         of lawful rights and interests of natural or legal persons in court proceedings, or the
-         establishment, exercise or defense of legal claims, or when provided to government or
-         public authority.” (underscoring supplied)
-
-General data protection principles; proportionality;
-safeguards
-
-In Advisory Opinion No. 2020-036,6 we discussed a similar concern of the National Grid
+In Advisory Opinion No. 2020-036,[^6] we discussed a similar concern of the National Grid
 Corporation of the Philippines (NGCP) as to their request to secure land documents, under
 the custody of local government units:
 
-   “x x x To further implement the above mandates, the NGCP was also granted the right
-         of eminent domain.
-                                                xxx
-
-   Given the foregoing mandates of NGCP under its franchise with the government, it is
-         inevitable that some private properties may be affected by the transmission projects. It is
-         thus necessary for NGCP to identify the current owners and possessors of the affected
-         properties for its acquisition.
-                                                   xxx
-
-   While the requested documents, such as the certificates of title and tax declarations, are
-         the best proof of ownership and sufficient basis for inferring possession over a parcel of
-         land, respectively, which means that the said documents shall significantly facilitate the
-         identification of the current owners and possessors of the affected properties, there is a
-         need to evaluate whether releasing actual copies of the same is proportional to the
-         purpose of identification of owners/possessors.
-
-   NGCP should consider whether it may be reasonable and acceptable for the respective
-         Register of Deeds, the Assessors’ Offices and the city or municipal planning offices of the
-         affected LGUs to provide certifications/lists of names and contact details of the
-         owners/possessors per official records instead, without necessarily releasing copies of
-         the land documents.
-
-   This is in adherence to the principle of proportionality which requires that that the
-         processing, which includes disclosure, of personal information must be limited only to
-         the extent that is necessary to achieve the stated purpose and that there are no other
-         effective means to achieve the same.
-
-   Nevertheless, we wish to emphasize that access to copies of the requested land
-         documents may only be allowed if NGCP has duly justified and substantiated its lawful
-         interest over the subject properties and that denial of said request shall cause NGCP’s
-         failure to comply with its legal obligations under its franchise with the Philippine
-         government. Such determination and assessment should be duly documented. And in
-         this scenario, the respective Registry of Deeds, the Assessors’ Offices and the city or
-         municipal planning offices may provide the requested documents to NGCP, relying on
-         such evaluation vis-à-vis the NGCP’s mandate.
-
-   We further reiterate that compliance with legal obligations and with provisions of other
-        existing laws and regulations, as well as processing of sensitive personal information for
-        the establishment or exercise of legal claims may be validly done and are not necessarily
-        violations of the DPA. The provisions of applicable laws and regulations should be read
-        together and harmonized with the DPA. x x x.” (underscoring supplied)
+> x x x To further implement the above mandates, the NGCP was also granted the right
+> of eminent domain.
+>
+> x x x
+>
+> Given the foregoing mandates of NGCP under its franchise with the government, it is
+> inevitable that some private properties may be affected by the transmission projects. It is
+> thus necessary for NGCP to identify the current owners and possessors of the affected
+> properties for its acquisition.
+>
+> x x x
+>
+> While the requested documents, such as the certificates of title and tax declarations, are
+> the best proof of ownership and sufficient basis for inferring possession over a parcel of
+> land, respectively, which means that the said documents shall significantly facilitate the
+> identification of the current owners and possessors of the affected properties, there is a
+> need to evaluate whether releasing actual copies of the same is proportional to the
+> purpose of identification of owners/possessors.
+>
+> NGCP should consider whether it may be reasonable and acceptable for the respective
+> Register of Deeds, the Assessors’ Offices and the city or municipal planning offices of the
+> affected LGUs to provide certifications/lists of names and contact details of the
+> owners/possessors per official records instead, without necessarily releasing copies of
+> the land documents.
+>
+> This is in adherence to the principle of proportionality which requires that that the
+> processing, which includes disclosure, of personal information must be limited only to
+> the extent that is necessary to achieve the stated purpose and that there are no other
+> effective means to achieve the same.
+>
+> Nevertheless, we wish to emphasize that access to copies of the requested land
+> documents may only be allowed if NGCP has duly justified and substantiated its lawful
+> interest over the subject properties and that denial of said request shall cause NGCP’s
+> failure to comply with its legal obligations under its franchise with the Philippine
+> government. Such determination and assessment should be duly documented. And in
+> this scenario, the respective Registry of Deeds, the Assessors’ Offices and the city or
+> municipal planning offices may provide the requested documents to NGCP, relying on
+> such evaluation vis-à-vis the NGCP’s mandate.
+>
+> We further reiterate that compliance with legal obligations and with provisions of other
+> existing laws and regulations, as well as processing of sensitive personal information for
+> the establishment or exercise of legal claims may be validly done and are not necessarily
+> violations of the DPA. The provisions of applicable laws and regulations should be read
+> together and harmonized with the DPA. x x x.” (underscoring supplied)
 
 In a similar vein, there should be an evaluation if indeed the long list of documents that SMAI
 had identified are all relevant and necessary for its compliance with its various legal

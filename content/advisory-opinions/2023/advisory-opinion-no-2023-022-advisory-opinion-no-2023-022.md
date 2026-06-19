@@ -15,9 +15,9 @@ draft: false
 
 ## Text
 
- 28 November 2023
+28 November 2023
 
-   Re:     MEDIA ACCESS TO POLICE BLOTTERS
+Re: MEDIA ACCESS TO POLICE BLOTTERS
 
 Dear [Redacted],
 We respond to your request for an Advisory Opinion on the apparent conflict between the
@@ -42,13 +42,12 @@ be treated similarly to a Freedom of Information (FOI) request.
 Thus, you seek the NPC’s opinion relative to the application of the DPA on the parties’
 seemingly opposing positions.
 
-Personal data; lawful criteria for processing;
-Sec. 4(d), special cases
+#### Personal data; lawful criteria for processing; Sec. 4(d), special cases
 
 Under the DPA, personal information refers to any information whether recorded in a
 material form or not, from which the identity of an individual is apparent or can be reasonably
 and directly ascertained by the entity holding the information, or when put together with
-other information would directly and certainly identify an individual.3
+other information would directly and certainly identify an individual.[^3]
 
 On the other hand, sensitive personal information refers to information:
 
@@ -60,12 +59,12 @@ On the other hand, sensitive personal information refers to information:
         by such person, the disposal of such proceedings, or the sentence of any court in
         such proceedings;
 
-   3) Issued by government agencies peculiar to an individual which includes, but
-        not limited to, social security numbers, previous or cm-rent health records,
+   (3) Issued by government agencies peculiar to an individual which includes, but
+        not limited to, social security numbers, previous or current health records,
         licenses or its denials, suspension or revocation, and tax returns; and
 
    (4) Specifically established by an executive order or an act of Congress to be kept
-        classified.4
+        classified.[^4]
 
 As can be gleaned from the foregoing, a police blotter would, a fortiori, contain either personal
 information or sensitive personal information (collectively referred to as “personal data”).
@@ -77,37 +76,31 @@ literary or research purposes. This means that the media need not establish the 
 for processing of the personal data contained in a police blotter. But this exception afforded
 to the media does not equate to unbridled processing. The DPA limits the processing only to
 the minimum extent of collection, access, use, disclosure or other processing necessary to the
-purpose, function, or activity concerned.5
+purpose, function, or activity concerned.[^5]
 
-Right to information vs. right to data privacy;
-balancing of interests.
+#### Right to information vs. right to data privacy; balancing of interests.
 
 The people have a fundamental right to information particularly on matters of public concern.
 Every Filipino citizen is afforded this right, subject to certain limitations provided by law. This
 constitutional guarantee is a recognition of the importance of the free flow of ideas and
-information in a democracy; it enables citizens to cope with the exigencies of the times.6
-
-3 Republic Act No. 10173, § 3(g).
-4 Republic Act No. 10173, § 3(l).
-5 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
-6 Baldoza v. Dimaano, A.M. No. 1120-MJ (1976).
+information in a democracy; it enables citizens to cope with the exigencies of the times.[^6]
 
 Equally recognized is the fundamental human right to privacy which is afforded protection
 by both the 1987 Constitution and the DPA. In essence, the privacy right protected by the DPA
 involves the right of an individual to control the collection of, access to, and use of personal
 information about him or her that are under the control or custody of the personal information
-controllers, be it the government or the private sector.7 To strike a balance to these seemingly
+controllers, be it the government or the private sector.[^7] To strike a balance to these seemingly
 opposing rights, a brief discussion of the relevant laws involved is, thus, necessary.
 
-Executive Order (EO) No. 028 relates to the operationalization of the people’s right to
-information under the executive branch. EO No. 02 permits the disclosure of information in
+Executive Order (EO) No. 02 relates to the operationalization of the people’s right to
+information under the executive branch.[^8] EO No. 02 permits the disclosure of information in
 the possession or under the custody of the government unless they fall under any of the
 exceptions enshrined in the Constitution, existing law or jurisprudence. Pursuant to the
-Inventory of Exceptions to EO No. 02,9 information deemed confidential for the protection of
+Inventory of Exceptions to EO No. 02,[^9] information deemed confidential for the protection of
 the privacy of persons is an exception to the general rule on the right of access to information.
 
 It has been held that access to public documents may be duly regulated, despite their nature
-as such. Thus, the Supreme Court ruled in Legaspi vs. Civil Service Commission:10
+as such. Thus, the Supreme Court ruled in Legaspi vs. Civil Service Commission:[^10]
 
    A distinction has to be made between the discretion to refuse outright the disclosure of
            or access to particular information and the authority to regulate the manner in which
@@ -131,23 +124,13 @@ to determine the appropriate security measures to put in place. This is also in 
 provisions in E.O. No. 02, which allows for certain exceptions as to the disclosure of
 information marked as confidential by the appropriate government agency or authority.
 
-7 NPC Advisory Opinion No. 2020-026 (June 26, 2020).
-8 Office of the President, Operationalizing in The Executive Branch The People’s Constitutional Right To Information and The
-
-State Policies to Full Public Disclosure and Transparency in The Public Service and Providing Guidelines Therefor, Executive
-Order No. 2 [EO No. 2] (July 23, 2016).
-9 Office of the President, Inventory of Exceptions to Executive Order No. 2 (S. 2016), Memorandum from the Executive
-
-Secretary (Nov. 24, 2016).
-10 G.R. No. L-72119 (1987).
-
 It appears that PNP MC No. 2020-037 does not seek to prohibit the media from obtaining
 information contained in the police blotters. Rather, it only regulates the media’s access only
 to information that is necessary and proportionate to their purpose. As blotter entries are not
 considered official complaints or cases filed in court, the dissemination of its contents to the
 public without proper context may lead to a violation of the right of an accused to be
 presumed innocent until proven guilty. Moreover, unqualified processing or publication of
-news reports may prejudice the advancement of cases filed in court.11
+news reports may prejudice the advancement of cases filed in court.[^11]
 
 If the media wishes to report on a specific incident listed in the police blotter, they can submit
 a data request to the PIO of the police station to access the specific police blotter entry, which
@@ -155,7 +138,7 @@ the latter should not refuse without citing a legal ground. By doing so, media r
 still acquire information on a matter they intend to cover; at the same time, the PNP can ensure
 that the personal data of individuals in the police blotter logbook are duly protected.
 
-Data privacy principles; proportionality
+#### Data privacy principles; proportionality
 
 Furthermore, the provisions of PNP MC No. 2020-037 on the submission of a data request to
 the station’s PIO is an example of the PNP’s adherence to the general data privacy principles
@@ -165,7 +148,7 @@ Specifically, under the principle of proportionality which provides that the pro
 personal data shall be adequate, relevant, suitable, necessary, and not excessive in relation to
 a declared specified purpose. This principle further states that personal data shall only be
 processed only if the purpose of the processing could not be reasonably fulfilled by any other
-means.12 Thus, disclosure of personal data to requesting entities, in this case the media, should
+means.[^12] Thus, disclosure of personal data to requesting entities, in this case the media, should
 be limited to its declared, specified, and legitimate purpose. In addition, only those personal
 data that are needed in relation to the declared and stated purpose should be disclosed to the
 requesting entities, which may be determined by the PNP on a case-to-case basis through its
@@ -188,10 +171,6 @@ considering that what is only regulated is the level of access to the informatio
 the police blotter, and does not operate as a total prohibition in accessing the information
 itself.
 
-11 PNP MC No. 2020-037, § 3 (2020).
-
-12 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §18 (c) (2016).
-
 Please be advised that this Advisory Opinion was rendered based solely on the information
 you have provided. Any extraneous fact that may be subsequently furnished us may affect
 our present position. Please note further that our Advisory Opinion is not intended to
@@ -202,3 +181,27 @@ Very truly yours,
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
+
+---
+
+## Footnotes
+
+[^3]: Republic Act No. 10173, § 3(g).
+
+[^4]: Republic Act No. 10173, § 3(l).
+
+[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
+
+[^6]: Baldoza v. Dimaano, A.M. No. 1120-MJ (1976).
+
+[^7]: NPC Advisory Opinion No. 2020-026 (June 26, 2020).
+
+[^8]: Office of the President, Operationalizing in The Executive Branch The People's Constitutional Right To Information and The State Policies to Full Public Disclosure and Transparency in The Public Service and Providing Guidelines Therefor, Executive Order No. 2 [EO No. 2] (July 23, 2016).
+
+[^9]: Office of the President, Inventory of Exceptions to Executive Order No. 2 (S. 2016), Memorandum from the Executive Secretary (Nov. 24, 2016).
+
+[^10]: G.R. No. L-72119 (1987).
+
+[^11]: PNP MC No. 2020-037, § 3 (2020).
+
+[^12]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).

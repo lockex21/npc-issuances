@@ -42,11 +42,6 @@ We understand further that should the COMELEC decide to use the enhanced Precinc
 Finder, the source code would have to undergo DICT audit which may take more than
 one year.
 
-1 AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS
-
-SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL
-PRIVACY COMMISSION, AND FOR OTHER PURPOSES, “Data Privacy Act of 2012” (15 August 2012).
-
 Hence, the following recommendations were put forward, taking into consideration the
 May 2018 Barangay and Sangguniang Kabataan Elections (BSKE):
 
@@ -81,7 +76,7 @@ of transparency, legitimate purpose, and proportionality. Specifically, the prin
 proportionality declares that the processing of information shall be adequate, relevant,
 suitable, necessary, and not excessive in relation to a declared and specified purpose.[^2]
 
-Recalling the NPC’s decision in NPC Case No. 16-001:3
+Recalling the NPC’s decision in NPC Case No. 16-001:[^3]
 
    “… COMELEC is no ordinary data controller; it is effectively one of the Philippines’
          largest data controllers. The COMELEC creates, maintains, and processes data to
@@ -94,11 +89,6 @@ Recalling the NPC’s decision in NPC Case No. 16-001:3
          records affected. Although the sensitive fields of these records were not shown to the
          public, the website database contained sensitive personal information not necessary
          for the purpose for which the data is being processed.”
-
-2 Implementing Rules and Regulations (IRR) of RA No. 10173, §18(c).
-3 In re: Investigation of the security incident involving COMELEC website and/or data processing system, NPC Case No.
-
-16-001, 28 December 2016.
 
 Personal data in the Precinct Finder facility should be limited to those which are
 absolutely necessary for the specified purpose of said search facility. Pursuant to the

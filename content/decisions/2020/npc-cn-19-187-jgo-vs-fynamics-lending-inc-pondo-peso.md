@@ -1,9 +1,9 @@
 ---
-title: "NPC CN 19-187: JGO v. Fynamics Lending, Inc. (Pondo Peso)"
+title: "NPC 19-187: JGO v. Fynamics Lending, Inc. (Pondo Peso)"
 description: "Complaint alleging unlawful processing, access to, and disclosure of personal information by lending application; settled by quitclaim."
 aliases:
-  - "NPC CN 19-187"
-  - "npc cn 19-187"
+  - "NPC 19-187"
+  - "npc 19-187"
   - "JGO v. Fynamics Lending, Inc. (Pondo Peso)"
   - "jgo v. fynamics lending, inc. (pondo peso)"
 tags:
@@ -100,6 +100,8 @@ Counsel for Respondent
 COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
+
+National Privacy Commission
 
 [^1]: NPC 19-187 JGO v Fynamics Lending Inc (PondoPeso) Annex A
 [^2]: G.R. No. 215874, 05 July 2017

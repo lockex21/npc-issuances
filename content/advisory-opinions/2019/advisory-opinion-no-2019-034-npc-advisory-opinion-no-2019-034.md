@@ -23,7 +23,7 @@ Re: CONSENT AND ITS WITHDRAWAL FOR EMPLOYMENT PURPOSES
 Dear [Redacted],
 
 We write in response to your query which sought to clarify matters regarding the Data Privacy
-Act of 2012 (DPA),2 specifically on the consent of job applicants and existing company employees.
+Act of 2012 (DPA),[^2] specifically on the consent of job applicants and existing company employees.
 You sought our opinion on the following scenarios where employers require consent forms:
 
    •      as a pre-employment requirement, enumerating the various purposes for the same, i.e.
@@ -150,7 +150,7 @@ On the other hand, Section 3(b) of the DPA specifically defines consent thus:
 The above definitions are essentially the similar. While it is true that the Commission often
 examines EU opinions, laws, and jurisprudence for analogous cases in interpreting the provisions
 of the DPA, as the latter was highly influenced by the 1995 EU Data Protection Directive, the
-predecessor of the GDPR, we reiterate the statement in NPC Advisory Opinion 2017-00914 that the
+predecessor of the GDPR, we reiterate the statement in NPC Advisory Opinion 2017-009[^14] that the
 Philippines is not a member of the European Union and therefore not bound by its policies (1995
 EU Directive and its successor, GDPR). Neither is the DPA nor its IRR meant to directly enforce
 the said EU regulations.
@@ -160,12 +160,6 @@ provided therein shall prevail. Should an employer be likewise subject to the GD
 employer shall adhere to both the DPA and the GDPR.
 
 #### Data subject’s rights; withdrawal of consent
-
-12 National Privacy Commission, NPC Advisory Opinion No. 2017-050 (Aug. 29, 2017).
-13 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural
-
-persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC
-(General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Article 4 (11) (2016).
 
 When consent is the lawful basis for processing, data subjects have the right to object and withhold
 consent to the processing of his or her personal data, unless the processing is under the following
@@ -241,8 +235,8 @@ Privacy Commissioner and Chairman
 [^9]: National Privacy Commission, NPC Advisory Opinion No. 2018-063 (October 23, 2018).
 [^10]: *Id.*
 [^11]: *Id.*
-[^12]: National Privacy Commission, NPC Advisory Opinion No. 2017-050 (August 29, 2017).
-[^13]: National Privacy Commission, NPC Advisory Opinion No. 2017-009.
-[^14]: Data Privacy Act of 2012, §§ 12–13.
+[^12]: National Privacy Commission, NPC Advisory Opinion No. 2017-050 (Aug. 29, 2017).
+[^13]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Article 4 (11) (2016).
+[^14]: National Privacy Commission, NPC Advisory Opinion No. 2017-009 (Jan. 16, 2017).
 [^15]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34(b) (2016).
-[^16]: National Privacy Commission, NPC Advisory Opinion No. 2018-013 (September 6, 2018).
+[^16]: National Privacy Commission, NPC Advisory Opinion No. 2018-013 (April 18, 2018).

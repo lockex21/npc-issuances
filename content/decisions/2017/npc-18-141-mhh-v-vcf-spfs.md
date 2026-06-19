@@ -1,6 +1,6 @@
 ---
 title: "NPC 18-141: MHH v. VCF and SPFS"
-description: "School director's requests for employee's educational records without consent were not processing under the Data Privacy Act, as the third-party institution did not release the documents. Complaint dismissed for lack of merit."
+description: "Complaint alleging unauthorized requests for educational records without consent was dismissed because no documents were released to the respondents, and the mere request to a third party does not constitute processing of personal information under the Data Privacy Act."
 aliases:
   - "NPC 18-141"
   - "npc 18-141"
@@ -151,7 +151,7 @@ Pasay City, Philippines. 09 June 2020
 LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
-WE CONCUR:
+I CONCUR:
 
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
@@ -173,6 +173,7 @@ Respondent
 COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
+National Privacy Commission
 
 [^1]: Complaint via online complaints-assisted portal dated 25 September 2018.
 [^2]: Letter-Request dated 18 October 2017.

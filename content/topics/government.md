@@ -7,7 +7,7 @@ draft: false
 Auto-generated topic cluster for **Government**.
 
 ## Related Issuances
-- [[issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
+- [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
 - [[issuances/undated/security-of-personal-data-in-government-agencies|Security of Personal Data in Government Agencies]]
 - [[issuances/undated/rules-of-procedure|Rules of Procedure]]
 - [[issuances/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|FAQ Security of Personal Data in the Government and the Private Sector]]

@@ -44,6 +44,8 @@ AGUIRRE, D.P.C.
 
 For consideration before this Commission is a complaint filed by KRL against Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, and PB, for an indeterminate violation of the Data Privacy Act (DPA).[^1]
 
+### These Proceedings
+
 On 19 April 2018, this Commission, through the Complaints and Investigation Division, conducted a Discovery Conference. At the Conference, the respondents were directed to submit a responsive Comment within ten (10) days from receipt of the Order dated 26 April 2018.[^2]
 
 On 30 April 2018, the respondent university, through counsel, filed a Notice of Entry of Appearance with Motion for Clarification of Procedure. The respondent university raised an issue regarding the propriety of the Commission’s act of taking immediate action on the complaint without having the complainant exhaust all the administrative remedies available to him. The respondent university also argued that the complaint should have been referred to a Mediation Officer to explore the possibility of first reaching an amicable settlement.
@@ -62,9 +64,9 @@ Copies of the letter-complaint were also furnished to the Chairman of the Board,
 
 The pertinent portion of the letter-complaint stated as follows:
 
-> Gross ignorance of labor management
+> **Gross ignorance of labor management**
 >
-> She called HR office and asked if [respondent university] follows the principle “no work, no pay.” She received an affirmative answer. She did not further inquire as to other details. She has no knowledge that holidays and those declared no classes for reason of fortuitous events and force majeure shall be paid to the employees as provided for by Labor Code provisions. She deducted all the hours/period for the holiday and no classes to the prejudice of the faculty members, and erased the total number of days we reported. But for one of her recruited faculty, by the name of KRL, this dean, favorably endorsed the former’s DTR. The dates (August 21 and 28) included are the same dates for the other faculty members who were deducted from them but no deduction for Mr. KRL. Is she at liberty to make a mockery of the provisions of the Labor Code? To apply the law negatively to those employees, she doesn’t like and to apply the same provisions positively to those employees, she likes? Are we changing now the core values of [respondent university]?[^4]
+> She called HR office and asked if [respondent university] follows the principle “no work, no pay.” She received an affirmative answer. She did not further inquire as to other details. She has no knowledge that holidays and those declared no classes for reason of fortuitous events and force majeure shall be paid to the employees as provided for by Labor Code provisions. She deducted all the hours/period for the holiday and no classes to the prejudice of the faculty members, and erased the total number of days we reported. But for one of her recruited faculty, by the name of **KRL, this dean, favorably endorsed the former’s DTR**. The dates (August 21 and 28) included are the same dates for the other faculty members who were deducted from them but no deduction for Mr. KRL. Is she at liberty to make a mockery of the provisions of the Labor Code? To apply the law negatively to those employees, she doesn’t like and to apply the same provisions positively to those employees, she likes? Are we changing now the core values of [respondent university]?[^4]
 
 Based on those statements, complainant concludes that the respondents were able to access his DTR and pay slip because they are specific about the deductions and have a strong conviction that he was paid for the dated holidays.[^5] The letter-complaint did not, however, attach copies of the complainant’s daily time record (DTR) or pay slips.
 
@@ -110,7 +112,7 @@ The issues to be resolved in this case are:
 
 ### Discussion
 
-#### The NPC committed no error in taking immediate cognizance of the complaint.
+#### The NPC committed no error in taking immediate cognizance of the complaint
 
 Section 4 of NPC Circular No. 16-04 provides that no complaint shall be entertained unless it has been shown that the complainant has informed, in writing, the concerned entity of the privacy violation or personal data breach and if there was no response within 15 days or timely and appropriate action on the claimed privacy violation or personal data breach.
 
@@ -128,13 +130,13 @@ At any rate, the same Section in Circular 16-04 provides that the Commission may
 
 Considering the allegations on the face of the complaint that the complainant’s DTR and pay slips may have been illegally accessed and disclosed by the respondents, it is well within the authority of the Commission to take action on this serious allegation of a violation of the DPA.
 
-#### The decision to submit a case for alternative dispute resolution lies with the parties.
+#### The decision to submit a case for alternative dispute resolution lies with the parties
 
 The Alternative Dispute Resolution Act of 2004 (the ADR Act of 2004) embodies the policy of the state to actively promote party autonomy in the resolution of disputes, or the freedom of the parties to make their own arrangements to resolve their disputes.[^27] Mediation, in particular, is an alternative dispute resolution mechanism characterized by the principles of voluntariness, integrity of determination, and the policy that the decision-making authority in the mediation process rests with the parties.[^28]
 
 At the onset of the Discovery Conference, the complainant was asked if he was willing to compromise and settle amicably.[^29] To this, the complainant answered in the negative.[^30] To insist on the conduct of a mediation at this point would have been a violation of not only the ADR Act of 2004 but of the Commission’s own alternative dispute mechanisms at that time as well.
 
-#### The DTR contains personal information.
+#### The DTR contains personal information
 
 In their Comment with Partial Compliance, the respondent university attached a Privacy Impact Assessment (PIA) report on the DTR System of Trinity University of Asia.[^31] In the submitted PIA, the threshold analysis contained several questions, including: “(a) Will the project or system involve the collection of new information about individuals?”[^32] To this, the respondent answered “no.”[^33]
 
@@ -162,7 +164,7 @@ Nowhere in the respondent university’s submitted PIA were these practices even
 
 It is incumbent upon the respondent university to revise its PIA in general and on the DTR system in particular to reflect and address the gaps brought about by actual, current practices and as identified in the letter-complaint.
 
-#### Respondents did not commit a violation in relation to the complainant’s DTR to warrant a recommendation for prosecution.
+#### Respondents did not commit a violation in relation to the complainant’s DTR to warrant a recommendation for prosecution
 
 In analyzing whether there are possible violations by the respondent faculty members of the DPA that warrant a recommendation for prosecution, we primarily look into the different stages of processing that the personal information undergoes, and determine whether each one is supported by one or more lawful basis for processing enumerated in the DPA.
 
@@ -180,15 +182,13 @@ Although Section 13(f) applies to sensitive personal information while the infor
 
 The DPA is not intended to cover every possible infraction in the workplace or even society. While the complainant may feel aggrieved with the mention of his name in the letter-complaint, it cannot be said, however, that the complainant incurred actual damage, considering the objective of that letter-complaint was to inform the President of Trinity University of their concerns about the Dean and not the complainant. In the event that the circumstances stated in the letter-complaint about the complainant are untrue, there are other remedies available to him under existing laws, although not the DPA. The merits of the letter-complaint and the truth of their claims are irrelevant to our determination whether there was a violation of the DPA in the processing of complainant’s DTR.
 
-#### The respondents did not commit a violation in relation to the complainant’s pay slip to warrant a recommendation for prosecution under the Data Privacy Act of 2012.
+#### The respondents did not commit a violation in relation to the complainant’s pay slip to warrant a recommendation for prosecution under the Data Privacy Act of 2012
 
 In the complaint, the complainant alleges that “based on [the statements in the respondents’ letter], they were able to access [his] pay slip.”[^50]
 
 In cases filed before administrative or quasi-judicial bodies such as the Commission, a fact may be deemed established if it is supported by substantial evidence, or that amount of relevant evidence which a reasonable mind might accept as adequate to justify a conclusion.[^51]
 
 The complainant’s allegation in relation to his pay slip remains unsubstantiated. This is all the more true considering the affidavit of the Finance Director that stated “any figures or computation in determining one’s payroll is done within the department’s office and the finance personnel are the only ones who are authorized to view and do the computation” and that “no other department computes the figure, the HRD only provides the supplementary documents in order to arrive with the figure.”[^52] There is nothing in the allegations of the complainant that explain how the respondent faculty members could have circumvented the university process on the processing of pay slip to access the same aside from his mere speculation. Notice must also be made that there was no mention of the complainant’s salary in the subject letter-complaint to WUT.
-
-### Dispositive Portion
 
 **WHEREFORE**, premises considered, the Commission **FINDS** no violation of the Data Privacy Act on the part of the respondents Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, PB, to warrant a recommendation for prosecution. The complaint filed by complainant KRL is hereby **DISMISSED**.
 
@@ -197,22 +197,27 @@ The complainant’s allegation in relation to his pay slip remains unsubstantiat
 Pasay City, 19 November 2019.
 
 LEANDRO ANGELO Y. AGUIRRE
+
 Deputy Privacy Commissioner
 
-Concurring:
+I CONCUR:
 
 IVY D. PATDU
+
 Deputy Privacy Commissioner
 
 RAYMUND ENRIQUEZ LIBORO
+
 Privacy Commissioner
 
 Copy furnished:
 
 KRL
+
 Complainant
 
-Abad Abad & Associates
+ABAD ABAD & ASSOCIATES
+
 Counsel for Respondent
 
 COMPLIANCE AND MONITORING DIVISION
@@ -220,6 +225,8 @@ COMPLIANCE AND MONITORING DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+
+National Privacy Commission
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes (DATA PRIVACY ACT).
 

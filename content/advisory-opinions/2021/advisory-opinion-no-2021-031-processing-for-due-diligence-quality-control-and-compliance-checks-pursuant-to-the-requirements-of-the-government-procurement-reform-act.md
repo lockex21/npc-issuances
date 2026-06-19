@@ -12,7 +12,6 @@ draft: false
 - Reference: Advisory Opinion No. 2021-031
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2021-031.pdf
 - Issue date: 08/05/2021
-- Subject: Processing For Due Diligence, Quality Control, And Compliance Checks Pursuant To The Requirements Of The Government Procurement Reform Act
 - Tags: Criteria for lawful processing; legal obligation; mandate; copyright; general data privacy principles
 - OCR used during extraction: no
 
@@ -34,7 +33,7 @@ We understand that this requirement is pursuant to the conduct of Post Qualifica
 (PQB) and Technical Inspection and Acceptance (TIA) processes of the Civil Aviation
 Authority of the Philippines (CAAP) Security and Intelligence Service (CSIS) implementing
 the requirements of Republic Act (RA) No. 9184 also known as the Government Procurement
-Reform Act2 (GPRA) and its Implementing Rules and Regulations (IRR).
+Reform Act[^2] (GPRA) and its Implementing Rules and Regulations (IRR).
 
 We understand further that an MDR is a report indicating the names of the PSA’s guards
 assigned to its clients and an updated summary of total number of its employed/deployed
@@ -45,20 +44,17 @@ make, model and serial number), registration, and authorized ownership.
 Finally, we understand that the CSIS is requiring the aforementioned documents to determine
 the following:
 
-Government And For Other Purposes. [Government Procurement Reform Act], Republic Act No. 9184 (2002).
-
-   1. Whether security guards deployed in CAAP airports and facilities are duly licensed
-        and included in the MDRs submitted to the PNP SOSIA; and
-     2. Whether the personal protection equipment (firearm) they carry are authentic and
-        duly registered and licensed by PNP FEO.
+1. Whether security guards deployed in CAAP airports and facilities are duly licensed
+   and included in the MDRs submitted to the PNP SOSIA; and
+2. Whether the personal protection equipment (firearm) they carry are authentic and
+   duly registered and licensed by PNP FEO.
 
 ### Discussion
 
-Scope of the Data Privacy Act; criteria for lawful
-processing of personal data; legal obligation
+#### Scope of the Data Privacy Act; criteria for lawful processing of personal data; legal obligation
 
-The Data Privacy Act of 2012 3 (DPA) applies to the processing of personal information, 4
-sensitive personal information,5 and privileged information 6 (collectively, personal data) of
+The Data Privacy Act of 2012[^3] (DPA) applies to the processing of personal information,[^4]
+sensitive personal information,[^5] and privileged information[^6] (collectively, personal data) of
 natural persons by the government and private entities and individuals, within and outside
 the Philippines.
 
@@ -66,7 +62,7 @@ We would like to highlight that while an MDR involves personal data protected un
 DPA, a PNP FEO Juridical Firearms License is issued to juridical entities. We wish to clarify
 that the DPA only applies to the processing of personal data of natural persons and not
 information of juridical entities recognized under the law, such as corporations, associations,
-and partnerships. 7 Thus, the DPA does not apply to the processing of information which
+and partnerships.[^7] Thus, the DPA does not apply to the processing of information which
 pertains to a license issued to a juridical person.
 
 Nevertheless, the processing of personal data in the MDR should have a lawful basis under
@@ -88,27 +84,6 @@ Particularly in your case, the following provision may apply, viz:
    SECTION 13. Sensitive Personal Information and Privileged Information. — The
           processing of sensitive personal information and privileged information shall be
           prohibited, except in the following cases: x x x
-
-3 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012],
-(2012).
-4 Id. § 3 (g): Personal information refers to any information whether recorded in a material form or not, from which the identity
-
-of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put
-together with other information would directly and certainly identify an individual.
-5 Id. § 3 (l): Sensitive personal information refers to personal information:
-
-   (1) About an individual’s race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations;
-   (2) About an individual’s health, education, genetic or sexual life of a person, or to any proceeding for any offense committed
-       or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such
-       proceedings;
-   (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers,
-       previous or cm-rent health records, licenses or its denials, suspension or revocation, and tax returns; and
-   (4) Specifically established by an executive order or an act of Congress to be kept classified.
-6 Id. § 3 (k) Privileged information refers to any and all forms of data which under the Rules of Court and other pertinent laws
-
-constitute privileged communication.
 
    (b) The processing of the same is provided for by existing laws and regulations:
        Provided, That such regulatory enactments guarantee the protection of the sensitive
@@ -159,3 +134,19 @@ Very truly yours,
 
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
+
+[^2]: An Act Providing For The Modernization, Standardization, And Regulation Of The Procurement Activities Of The Government And For Other Purposes. [Government Procurement Reform Act], Republic Act No. 9184 (2002).
+
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], (2012).
+
+[^4]: Id. § 3 (g): Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+
+[^5]: Id. § 3 (l): Sensitive personal information refers to personal information:
+    (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations;
+    (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings;
+    (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and
+    (4) Specifically established by an executive order or an act of Congress to be kept classified.
+
+[^6]: Id. § 3 (k) Privileged information refers to any and all forms of data which under the Rules of Court and other pertinent laws constitute privileged communication.
+
+[^7]: National Privacy Commission, NPC Advisory Opinion No. 2021-027 (July 2021).

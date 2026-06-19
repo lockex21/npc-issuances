@@ -45,14 +45,6 @@ assistance of the National Bureau of Investigation to locate the child and the T
 
 Your present concern is in relation to a situation wherein a child and a Taking Parent’s
 whereabouts are unknown. We note that you mentioned that Philippine passport holders are
-
-privacy principles; data subject rights; data sharing.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Republic Act No. 10173 (2012).
-
-   th
-
 no longer required to accomplish Arrival Cards. Thus, it may be difficult to obtain lead
 information on the possible whereabouts of the child and Taking Parent.
 

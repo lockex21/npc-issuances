@@ -31,14 +31,6 @@ We understand that it has been a common practice among universities such as the 
 
 The aforesaid publication of the names of admitted applicants is permitted even without the consent of the students, pursuant to Section 12(f) of the DPA, to wit:
 
-1 R.A.  No. 10173, §3(h) - Personal information controller refers to a person or organization who controls the collection,
-holding, processing or use of personal information, including a person or organization who instructs another person or
-organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf.
-2 Id., §3(j) - Processing refers to any operation or any set of operations performed upon personal information including, but
-
-not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use,
-consolidation, blocking, erasure or destruction of data.
-
 > SECTION 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
 > xxx

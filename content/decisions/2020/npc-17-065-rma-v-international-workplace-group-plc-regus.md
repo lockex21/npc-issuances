@@ -66,7 +66,7 @@ Finally, his Complaint prayed for the issuance of a temporary ban on Respondent�
 
 In their Answer, the respondent specifically denies the allegation that they extracted from the complainant’s personal Skype account, a series of chat messages between the complainant and the respondent’s Head of Network, as well as those with Complainant’s friend, RM, who worked for a different company, without his consent.[^8]
 
-Respondent asserts that the chat messages were voluntarily forwarded to Respondent’s IT Service Operations Director EC, through an anonymous email address []
+Respondent asserts that the chat messages were voluntarily forwarded to Respondent’s IT Service Operations Director EC, through an anonymous email address [ ]
 
 According to the respondent, it did not violate any right of the complainant under the Data Privacy Act. Rather, they assert that it was the complainant who violated the respondent’s company information policy, when, as shown in the chat messages, the complainant provided RM access to the respondent’s infrastructure which would enable any external party to access their servers or firewall.[^9] They admit that they should have meted out stiffer penalties to the complainant for his violation of the security policy, but only gave him a Written Reprimand.
 
@@ -78,7 +78,7 @@ The sole issue to be resolved in this case is whether the respondent committed a
 
 ### Discussion
 
-*Respondent did not commit a violation that warrants a recommendation for prosecution under the Data Privacy Act of 2012.*
+Respondent did not commit a violation that warrants a recommendation for prosecution under the Data Privacy Act of 2012.
 
 In the Complaint, the complainant claims that there was a group of people in their Windows IT department who stole the local database of his personal Skype account.[^11] The Commission notes, however, that the complainant only attached his BIR TIN ID and failed to provide any other supporting document to substantiate his claim that Respondent extracted “private and sensitive conversations,” as well as “log-in credentials for very important portals like online banking and other confidential information.”[^12]
 
@@ -86,13 +86,13 @@ The Commission further notes that, despite its issuance of an Order to Confer fo
 
 The Complaint shall only be recommended for prosecution if it is supported with relevant evidence which a reasonable mind might accept as adequate to justify a conclusion.[^13] The allegations in the complaint must be based on substantial evidence that there is a clear and real violation of the law.
 
-In *Morales vs. Ombudsman, et al.*,[^14] the Supreme Court explained:
+In *Morales v. Ombudsman, et al.*,[^14] the Supreme Court explained:
 
-The basic rule is that mere allegation is not evidence and is not equivalent to proof. Charges based on mere suspicion and speculation likewise cannot be given credence. When the Complainant relies on mere conjectures and suppositions, and fails to substantiate his allegations, the complaint must be dismissed for lack of merit.[^15]
+> The basic rule is that mere allegation is not evidence and is not equivalent to proof. Charges based on mere suspicion and speculation likewise cannot be given credence. When the Complainant relies on mere conjectures and suppositions, and fails to substantiate his allegations, the complaint must be dismissed for lack of merit.[^15]
 
 The Commission’s Rules of Procedure also provides:
 
-Section 22. *Rendition of decision.* – The Decision of the Commission shall adjudicate the issues raised in the complaint on the basis of all the evidence presented and its own consideration of the law.[^16]
+> **Section 22. *Rendition of decision.*** – The Decision of the Commission shall adjudicate the issues raised in the complaint on the basis of all the evidence presented and its own consideration of the law.[^16]
 
 As such, on the basis of all the evidence presented, the Commission finds that there is insufficient evidence to support the complainant’s claim that the respondent stole the local database of the complainant’s personal Skype account, accessing private and sensitive conversations as well as login credentials.
 
@@ -107,7 +107,7 @@ Pasay City, 31 January 2020.
 LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
-I CONCUR:
+Concurring:
 
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner

@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## Circulars in Undated
-- [[issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
+- [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
 - [[issuances/undated/security-of-personal-data-in-government-agencies|Security of Personal Data in Government Agencies]]
 - [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Rules on the Issuance of Cease and Desist Orders]]
 - [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|Rules on Mediation before the National Privacy Commission]]

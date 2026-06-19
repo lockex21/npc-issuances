@@ -1,17 +1,17 @@
 ---
-title: 'NPC SS 21-006: WeFund Lending Corporation'
-description: Determination of whether WeFund Lending Corporation violated DPA provisions.
+title: "NPC SS 21-006: Wefund Lending Corporation and its Responsible Officers"
+description: "Sua sponte investigation determining that Wefund Lending Corporation violated Section 25 of the DPA through unauthorized processing of personal information; case dismissed as to responsible officers for lack of substantial evidence."
 aliases:
-- NPC SS 21-006
-- npc ss 21-006
-- WeFund Lending Corporation
-- wefund lending corporation
+  - "NPC SS 21-006"
+  - "npc ss 21-006"
+  - "Wefund Lending Corporation and its Responsible Officers"
+  - "wefund lending corporation and its responsible officers"
 tags:
-- decision
-- type/decision
-- year/2021
-- npc-case
-date: '2022-05-16'
+  - decision
+  - type/decision
+  - year/2021
+  - npc-case
+date: "2022-05-16"
 draft: false
 ---
 
@@ -28,88 +28,30 @@ draft: false
 
 ## Decision Text
 
-IN RE: WEFUND LENDING
+IN RE: Wefund Lending Corporation (JuanHand) and its Responsible Officers
 
-CORPORATION (JUANHAND)
-
-AND ITS RESPONSIBLE OFFICERS
-
-INITIATED AS A SUA SPONTE NPC
-
-INVESTIGATION ON THE
-
-POSSIBLE DATA PRIVACY
-
-VIOLATIONS COMMITTED BY
-
-WEFUND LENDING CORPORATION
-
-(JUANHAND)
+INITIATED AS A SUA SPONTE NPC INVESTIGATION ON THE POSSIBLE DATA PRIVACY VIOLATIONS COMMITTED BY WEFUND LENDING CORPORATION (JUANHAND)
 
 x----------------------------------------------------x
 
-AGUIRRE , D. P.C.;
+AGUIRRE, D.P.C.:
 
-Before this Commission is a Fact-Finding Report with Application for
+Before this Commission is a Fact-Finding Report with Application for the Issuance of a Temporary Ban on the Processing of Personal Data (FFR) dated 09 June 2021 against Wefund Lending Corporation (JuanHand), the operator of the online lending application, JuanHand, and its responsible officers.
 
-the Issuance of a Temporary Ban on the Processing of Personal Data
-
-(FFR) dated 09 June 2021 against Wefund Lending Corporation
-
-(JuanHand) , the operator of the online lending application, JuanHand ,
-
-and its responsible officers .
-
-The Complaints and Investigation Division (CID) of the National
-
-Privacy Commission, pursuant to its power to conduct sua sponte
-
-investigations, filed an FFR against JuanHand . The FFR alleged that
-
-JuanHand committed violations of Republic Act No. 10173 or the Data
-
-Privacy Act of 2012 (DPA) and the Commission’s issuances . This
-
-concludes the sua sponte investigation conducted by the Commission.
+The Complaints and Investigation Division (CID) of the National Privacy Commission, pursuant to its power to conduct sua sponte investigations, filed an FFR against JuanHand. The FFR alleged that JuanHand committed violations of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) and the Commission’s issuances. This concludes the sua sponte investigation conducted by the Commission.
 
 ### Facts
 
-On 09 June 2021 , the CID submitted its FFR against JuanHand
+On 09 June 2021, the CID submitted its FFR against JuanHand following numerous reports of continuing privacy violations committed by several online lending applications (OLAs).[^1] The CID
 
-following numerous reports of continuing privacy violations
 
-committed by several online lending applications (OLAs). 1 The CID
+initiated a sua sponte investigation against JuanHand[^2] pursuant to
 
-> 1Fact-Finding Report, 09 June 2021, at 1,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022).
+Section 7 of the DPA that mandates the Commission to institute investigations in cases it deems appropriate[^3] and NPC Circular 21-01 (2021 Rules of Procedure) that permits the NPC to initiate sua sponte investigations and file complaints for DPA violations.[^4] The FFR serves as the complaint, with the CID as the Nominal Complainant, in sua sponte investigations.[^5]
 
-NPC SS 21 -006
+In the CID’s technical investigation, it downloaded JuanHand installer version v.3.7.1 from Google Play Store and simulated JuanHand’s registration and loan application processes.[^6]
 
-2012 NPC SS 21 -006
-
-initiated a sua sponte investigation against JuanHand 2 pursuant to
-
-Section 7 of the DPA that mandates the Commission to institute
-
-investigations in cases it deems appropriate 3 and NPC Circular 21 -01
-
-(2021 Rules of Procedure) that permits the NPC to initiate sua sponte
-
-investigations and file complaints for DPA violations .4 The FFR serves
-
-as the complaint , with the CID as the Nominal Complainant , in sua
-
-sponte investigations. 5
-
-In the CID’s technical investigation , it downloaded JuanHand installer
-
-version v.3.7.1 from Google Play Store and simulated JuanHand’s
-
-registration and loan application process es .6
-
-The permissions required by the app lication (app) were outlined in
-
-Google Play Store prior to its download and installation: 7
+The permissions required by the application (app) were outlined in Google Play Store prior to its download and installation:[^7]
 
 • read calendar events plus confidential information;
 
@@ -119,85 +61,19 @@ owner’s knowledge;
 
 • read your contacts;
 
-• approximate location (network -based); and
+• approximate location (network-based); and
+• precise location (GPS and network-based).[^8]
 
-• precise location (GPS and network -based). 8
+Upon the installation and opening of the app, it immediately asked for permission to access contacts, thus, the CID stressed that “the permission to access contacts was required upon installation of the application, even without a loan being applied for.”[^9]
 
-Upon the installation and opening of the app, it immediately asked for
+During the CID’s simulation, when the loan application form required character references, the app prompted the CID to: “[p]lease allow access to your contacts. This authorization will allow us to speed up your application process and prevent criminals from stealing your money.”[^10] Thus, the notification for permission to access contacts appeared when the app was opened and when inputting of character references were asked in the loan application process.[^11] The CID found
 
-permission to access contacts , thus , the CID stressed that “the
 
-permission to access contacts was required upon installation of the
+that there was no manual way of entering a phone number and it must be done through giving access to the contact list.[^12] Corollary, the loan application would not have progressed to the next step if the character references’ phone numbers were not given.[^13]
 
-application, even without a loan being applied for.” 9
+When the CID examined the source code of the app, it showed that the app utilized the Android software development kit (SDK) that provides coding for contacts retrieval, wherein an app will have the ability to collect data from contacts.[^14] The “AndroidManifest.xml” file explicitly contained a contacts permissions line as seen in the code “android.permissions.READ_CONTACTS”.[^15] The CID explained that, when this is enabled, it gives an app the ability to read the user’s phone contacts data.[^16]
 
-During the CID’s simulation, when the loan application form required
-
-character references, the app prompted the CID to : “[p] lease allow
-
-access to your contacts. This authorization will allow us to speed up
-
-your application process and prevent criminals from stealing your
-
-money.” 10  Thus, the notification for permission to access contacts
-
-appeared when the app was opened and when inputting of character
-
-references were asked in the loan application process. 11  The CID found
-
-> 2Id.
-> 3Id. at 5.
-> 4Id.
-> 5Id.
-> 6Id. at 1.
-> 7Fact-Finding Report, 09 June 2021, at 2,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022).
-> 8Technical Report, 17 May 2021, at 5 (Annex B), in In re: Wefund Lending Corporation (JuanHand) and its Responsible
-> Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 9Fact-Finding Report, 09 June 2021, at 2,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022). Emphasis removed.
-> 10 Id. Emphasis removed.
-> 11 Id.
-
-NPC SS 21 -006
-
-that there was no manual way of entering a phone number and it must
-
-be done through giving access to the contact list. 12  Corollary, the loan
-
-application would not have pro gress ed to the next step if the character
-
-references’ phone numbers we re not given .13
-
-When the CID examined the source code of the app , it showed that the
-
-app utilized the Android software development kit (SDK ) that
-
-provides coding for contacts retrieval , wherein an app will have the
-
-ability to collect data from contacts. 14  The “AndroidManifest.xml” file
-
-explicitly contained a contact s permissions line as seen in the code
-
-“android.permissions.READ_CONTACTS”. 15  The CID explained that,
-
-when this is enabled, it gives an app the ability to read the user’s phone
-
-contacts data. 16
-
-The CID also disclosed that “no Privacy Policy was found on both
-
-JuanHand’s website and mobile application.” 17  It searched for
-
-JuanHand’s Privacy Policy and instead found a link to the Service
-
-Agreement, which is “found only during the signup process in the
-
-[app] and the user will not be able to see or read the [S] ervice
-
-[A] greement again as there is no link of this agreement inside the
-
-application and no visible link on [JuanHand’s] website.” 18
+The CID also disclosed that “no Privacy Policy was found on both JuanHand’s website and mobile application.”[^17] It searched for JuanHand’s Privacy Policy and instead found a link to the Service Agreement, which is “found only during the signup process in the [app] and the user will not be able to see or read the [S]ervice [A]greement again as there is no link of this agreement inside the application and no visible link on [JuanHand’s] website.”[^18]
 
 The Service Agreement provided for the following pertinent
 
@@ -211,24 +87,14 @@ violate the laws and social ethics and provide your real
 
 information, and comply with the following requirements:]
 
-[b].  You must provide true, up -to -date, valid and complete
+[b].  You must provide true, up-to-date, valid and complete
 
 information, and grant Juanhand a permanent right to use
 
-the information you provide free -of -charge for the purpose
+the information you provide free-of-charge for the purpose
 
 of using Juanhand service .
 
-> 12 Id.
-> 13 Id.
-> 14 Id.
-> 15 Fact-Finding Report, 09 June 2021, at 2,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022).
-> 16 Id.
-> 17 Id. at 3.
-> 18 Id.
-
-NPC SS 21 -006
 
 [K. Privacy]
 
@@ -272,9 +138,9 @@ data from Third Party Entities (‘Partners’) engaged by Juanhand
 
 for the purposes stated under the heading Use of Personal Data.
 
-These Partners shall refer to my employer (for auto -debit or other
+These Partners shall refer to my employer (for auto-debit or other
 
-auto - deduction mechanism) whether private or government,
+auto-deduction mechanism) whether private or government,
 
 telecommunication companies (e.g., Globe Telecom, Inc., PLDT,
 
@@ -404,10 +270,6 @@ review and may result in the denial of any application
 
 currently pending .19
 
-> 19 Id. at 3 -4. Emphasis supplied ;See Supplemental Report, 31 May 2021, Annex A(JuanHand User Agreement Web ), in In
-> re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-
-NPC SS 21 -006
 
 The CID , however, found through “JuanHand’s Permission
 
@@ -473,12 +335,6 @@ information have been processed, the CID argued that JuanHand
 
 violated Section 16 of the DPA, which states that a data subject is
 
-> 20 Id. at 4 -5.
-> 21 Fact-Finding Report, 09 June 2021, at 5,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022).
-> 22 Id. Emphasis supplied.
-
-NPC SS 21 -006
 
 entitled to “[b]e informed whether personal information pertaining to
 
@@ -534,22 +390,6 @@ be compatible with a declared and specified purpose, which must not
 
 be contrary to law, morals, or public policy.” 31
 
-> 23 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
-> the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of
-> 2012], Republic Act No. 10173 § 16 (2012).
-> 24 Fact-Finding Report, 09 June 2021, at 6,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022).
-> 25 Id.
-> 26 Id. at 7.
-> 27 Id.
-> 28 Id.
-> 29 Id.
-> 30 Fact-Finding Report, 09 June 2021, at 7,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022).
-> 31 National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173,
-> § 18 (2016).
-
-NPC SS 21 -006
 
 According to the CID’s technical investigation , when the permission
 
@@ -615,18 +455,6 @@ character references of the borrower’s own choosing but required
 
 access to all phone and social media contacts. It also failed to
 
-> 32 Fact-Finding Report, 09 June 2021, at 8,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022).
-> 33 Id. at 7.
-> 34 Id. at 8.
-> 35 Id. at 9.
-> 36 Id. at 10.
-> 37 Id.
-> 38 Fact-Finding Report, 09 June 2021, at 10 ,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022).
-> 39 Id. at 11.
-
-NPC SS 21 -006
 
 comply with the required separate interface where borrowers
 
@@ -672,15 +500,15 @@ Agreement:
 
 The Service Agreement of JuanHand provides that the borrower
 
-must provide true, up -to -date, valid and complete information,
+must provide true, up-to-date, valid and complete information,
 
 and grant JuanHand a permanent right to use the information the
 
-borrower provided free -of -charge for the purpose of using
+borrower provided free-of-charge for the purpose of using
 
 Juanhand s ervice. The permanent right to use the information
 
-provided by the borrower free -of -charge for the purpose of using
+provided by the borrower free-of-charge for the purpose of using
 
 JuanHand service is in violation of Rule IV of the Implementing
 
@@ -704,10 +532,6 @@ Circular No. 20 -01 specifically Section 3, paragraph D4 of the
 
 Circular which states:
 
-> 40 Id.
-> 41 Id.
-
-NPC SS 21 -006
 
 ‘Access to contact details in whatever form, such as but not
 
@@ -775,14 +599,6 @@ against the access of contacts, as provided in NPC Circular 20 -
 
 01. 46
 
-> 42 Id. at 13.
-> 43 Id. at 12.
-> 44 Fact-Finding Report, 09 June 2021, at 12 ,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022).
-> 45 Id. at 13.
-> 46 Id. at 15 -16.
-
-NPC SS 21 -006
 
 As such, it argued that substantial evidence had been established for
 
@@ -836,23 +652,6 @@ Further, JuanHand clarified that it has not published any image or
 
 information of its users for purposes of loan collection or harassment. 56
 
-> 47 Id. at 16.
-> 48 Order ,16 June 2021 ,at 1,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case
-> No. 21 -006 (NPC 2022).
-> 49 Id. at 2.
-> 50 Supplemental F act -Finding Report, 05 July 2021, at 2,in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 51 JuanHand Letter ,02 August 2021, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC
-> SS Case No. 21 -006 (NPC 2022).
-> 52 Motion to Properly Serve Order with Motion to Admit Position Paper Ad Cautelam , 12 August 2021, in In re: Wefund
-> Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 53 Position Paper, 12 August 2021, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS
-> Case No. 21 -006 (NPC 2022).
-> 54 Id. at 2.
-> 55 Id.
-> 56 Id. at 3.
-
-NPC SS 21 -006
 
 It will, however, continue to publish personal information of
 
@@ -960,10 +759,6 @@ obligations of the users to determine whether or not to
 
 provide loan services, and if so, his/her credit limits;
 
-> 57 Id. at 3 -4.
-> 58 Id. at 4.
-
-NPC SS 21 -006
 
 (ii) Due Day Reminder: by adding due date to the users’
 
@@ -1023,18 +818,6 @@ Further, pursuant to the TEMPORARY BAN , Respondent
 
 Wefund Lending Corporation shall:
 
-> 59 Position Paper, 12 August 2021, at 5, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC
-> SS Case No. 21 -006 (NPC 2022). Emphasis supplied.
-> 60 Id.
-> 61 Id. at 7.
-> 62 Id.
-> 63 Id. at 8.
-> 64 Id. at 10.
-> 65 Order, 12 August 2021, at 6 -15, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS
-> Case No. 21 -006 (NPC 2022).
-> 66 Id. at 16.
-
-NPC SS 21 -006
 
 1.  Immediately take down its online lending application,
 
@@ -1096,19 +879,6 @@ permissions more “eye -catching,” it has shifted from using system
 
 prompts to providing more intuitive and visible pop -up prompts
 
-> 67 Id.
-> 68 Id.
-> 69 Comment to the Order and Temporary Ban dated 12 August 2021, 01 September 2021, in In re: Wefund Lending
-> Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 70 Id. at 1.
-> 71 Id. at 2.
-> 72 Id.
-> 73 Id.
-> 74 Id. at 3.
-> 75 Comment to the Order and Temporary Ban dated 12 August 2021, 01 September 2021, at 3, in In re: Wefund Lending
-> Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-
-NPC SS 21 -006
 
 when the app attempts to access user’s personal information, wherein
 
@@ -1174,17 +944,6 @@ prayed that the Commission lift its temporary ban on the app and
 
 allow its re -deployment to the public. 83
 
-> 76 Id.
-> 77 Id. at 3 -4.
-> 78 Id. at 4.
-> 79 Id.
-> 80 Id.
-> 81 Comment to the Order and Temporary Ban dated 12 August 2021, 01 September 2021, at 4, in In re: Wefund Lending
-> Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 82 Id. at 5.
-> 83 Id. at 7.
-
-NPC SS 21 -006
 
 On 10 September 2021, it filed both the Entry of Appearance with
 
@@ -1244,22 +1003,6 @@ As the Order dated 12 August 2021 directs JuanHand to
 
 ‘immediately take down its online lending application,
 
-> 84 Entry of Appearance with Motion to Admit Supplemental Comment with Motion for Lifting of Temporary Ban, 10
-> September 2021, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006
-> (NPC 2022).
-> 85 Supplemental Comment with Motion for Lifting of Temporary Ban, 10 September 2021, in In re: Wefund Lending
-> Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 86 Enforcement Division Memorandum, 1 4 September 2021, at 1,in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 87 Id.
-> 88 Id.
-> 89 Id. at 3.
-> 90 Enforcement Division Letter of Compliance with Order dated 12 August 2021 in NPC SS 21 -006 entitled “ In re: Wefund
-> Lending Corporation (JuanHand)”, 16 September 2021, at 1, in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 91 Id. at 2.
-
-NPC SS 21 -006
 
 JuanHand, to ensure that it is no longer available for download,
 
@@ -1319,18 +1062,6 @@ Ban.
 
 . . .
 
-> 92 Id. Emphasis supplied.
-> 93 Order, 17 September 2021, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case
-> No. 21 -006 (NPC 2022).
-> 94 Id. at 3.
-> 95 Id. at 3 -4.
-> 96 Reply and Explanation to the National Privacy Commission Enforcement Division Letter dated 16 September 2021, 08
-> October 2021, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006
-> (NPC 2022).
-> 97 Id. at 2.
-> 98 Id. at 3.
-
-NPC SS 21 -006
 
 Unfortunately, after the removal or unavailability of the
 
@@ -1402,17 +1133,6 @@ please do not access it anymo re. We would like to express our
 
 sincere gratitude to every Juan. Thank you. 105
 
-> 99 Id. Emphasis supplied.
-> 100 Id. at 4.
-> 101 Id.
-> 102 Reply and Explanation to the National Privacy Commission Enforcement Division Letter dated 16 September 2021, 08
-> October 2021, at 4, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -
-> 006 (NPC 2022).
-> 103 Id. at 5.
-> 104 Id.
-> 105 Id. at 6. Emphasis removed.
-
-NPC SS 21 -006
 
 On 11 October 2021, JuanHand submitted to the Commission its
 
@@ -1476,17 +1196,6 @@ networking profile have been removed and deleted from the
 
 JuanHand OLA.
 
-> 106 Comment on the Fact-Finding Report dated 09 June 2021, 11 October 2021 ,in In re: Wefund Lending Corporation
-> (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 107 Id. at 5.
-> 108 Id. at 6.
-> 109 Id. at 7. Emphasis supplied.
-> 110 Id.
-> 111 Id. at 8.
-> 112 Comment on the Fact-Finding Report dated 09 June 2021, 11 October 2021, at 8 -9, in In re: Wefund Lending Corporation
-> (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-
-NPC SS 21 -006
 
 33.2. The Privacy Policy has been further revised, removing any
 
@@ -1550,15 +1259,6 @@ operation and coding of its application, which failed to provide a
 
 means to continue a loan application in cases where a user disagrees
 
-> 113 Id. at 9.
-> 114 Id.
-> 115 Id. at 12.
-> 116 Id.
-> 117 Id. at 13.
-> 118 Comment on the Fact-Finding Report dated 09 June 2021, 11 October 2021, at 14, in In re: Wefund Lending Corporation
-> (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-
-NPC SS 21 -006
 
 to provide access to their contacts.” 119  Thus, to address the concerns of
 
@@ -1620,16 +1320,6 @@ of a user’s contact information to harass for debt collection .125  Instead ,
 
 the information was merely used for purposes of identity verification,
 
-> 119 Id.
-> 120 Id. at 15.
-> 121 Id.
-> 122 Id. at 16.
-> 123 Id.
-> 124 Comment on the Fact-Finding Report dated 09 June 2021, 11 October 2021, at 16, in In re: Wefund Lending Corporation
-> (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 125 Id.
-
-NPC SS 21 -006
 
 credit scoring, and fraud prevention, and it was simply stored in its
 
@@ -1683,22 +1373,6 @@ On 10 January 2022, it filed a Supplemental Motion to Resolve the
 
 imposition of the Temporary Ban. 136
 
-> 126 Id. at 17.
-> 127 Id.
-> 128 Id.
-> 129 Id.
-> 130 Comment on the Fact-Finding Report dated 09 June 2021, 11 October 2021, at 22, in In re: Wefund Lending Corporation
-> (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 131 Id.
-> 132 Id.
-> 133 Id.
-> 134 Id. at 23.
-> 135 Motion to Resolve, 17 December 2021, in In re: Wefund Lending Corporation and its Responsible Officers, NPC SS 21 -
-> 006, (NPC 202 2).
-> 136 Supplemental Motion to Resolve, 10 January 2022, in In re: Wefund Lending Corporation and its Responsible Officers,
-> NPC SS 21 -006, (NPC 202 2).
-
-NPC SS 21 -006
 
 On 13 January 2022, the Commission issued a Resolution lifting the
 
@@ -1760,24 +1434,6 @@ its submitted Privacy Manual discusses mechanism s in determining
 
 the basis for lawful processing of personal data and mirrors the rights
 
-> 137 Resolution, 13 January 2022, at 6-7,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC
-> SS Case No. 21 -006 (NPC 2022).
-> 138 Order ,13 Jan uary 2022 ,at 9,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS
-> Case No. 21 -006 (NPC 2022).
-> 139 Id. at 10.
-> 140 Memorandum (for Respondents), 10 March 2022, at 5,in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 141 Compliance , 28 February 2022, at 3,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC
-> SS Case No. 21 -006 (NPC 2022).
-> 142 Id. at 2.
-> 143 Id.
-> 144 Id. at 3.
-> 145 Id.
-> 146 Id.
-> 147 Compliance, 28 February 2022, at 3, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC
-> SS Case No. 21 -006 (NPC 2022).
-
-NPC SS 21 -006
 
 of data subjects in accordance with Sections 12, 13, and 16 of the
 
@@ -1833,19 +1489,6 @@ OLA to comply with the principles of transparency, legitimate
 
 purpose, and proportionality. 155
 
-> 148 Id. at 4.
-> 149 Id.
-> 150 Id.
-> 151 Id. at 5.
-> 152 Memorandum (for Respondents), 10 March 2022, in In re: Wefund Lending Corporation (JuanHand) and its Responsible
-> Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 153 Memorandum, 16 March 2022, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS
-> Case No. 21 -006 (NPC 2022).
-> 154 Memorandum (for Respondents), 10 March 2022, at 8, in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 155 Id. at 10.
-
-NPC SS 21 -006
 
 . . .
 
@@ -1905,13 +1548,6 @@ The root of the CID’s contentions stem med from the alleged
 
 undisclosed permissions:
 
-> 156 Id. at 17.
-> 157 Id.
-> 158 Id. at 20.
-> 159 Order, 13 January 2022 , at 10 ,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS
-> Case No. 21 -006 (NPC 2022). Emphasis supplied.
-
-NPC SS 21 -006
 
 The capabilities of JuanHand’s system to read the borrower’s
 
@@ -1987,13 +1623,6 @@ processing of the information may be considered processing for
 
 unauthorized purpose. 163
 
-> 160 Memorandum, 16 March 2022, at 2, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC
-> SS Case No. 21 -006 (NPC 2022). Emphasis removed.
-> 161 Id. at 3.
-> 162 Id. at 7.
-> 163 Id.
-
-NPC SS 21 -006
 
 JuanHand did not refute the results of the CID’s investigation
 
@@ -2059,17 +1688,6 @@ borrower and JuanHand.” 168  Moreover, as emphasized by the
 
 Commission in its 12 August 2021 Order:
 
-> 164 Position Paper, 12 August 2021, at 5, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022).
-> 165 Id.
-> 166 Fact-Finding Report, 09 June 2021, at 4-5,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022).
-> 167 See Supplemental Report, 31 May 2021, Annex A(JuanHand User Agreement Web ), in In re: Wefund Lending
-> Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 168 Order, 12 August 2021, at 9, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS
-> Case No. 21 -006 (NPC 2022).
-
-NPC SS 21 -006
 
 JuanHand does not have a clear understanding of the lawful
 
@@ -2229,16 +1847,6 @@ the publication is accompanied by a categorical statement, thereby
 
 putting into question its alleged non-limitation of liability:
 
-> 169 Id. at 9 -11. Emphasis supplied.
-> 170 Fact-Finding Report, 09 June 2021, at 11 & 13 ,in In re: Wefund Lending Corporation (JuanHand) and its Responsible
-> Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 171 Supplemental Report, 31 May 2021, Annex A(JuanHand User Agreement Web ) at 9, in In re: Wefund Lending
-> Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022). Emphasis supplied.
-> 172 Memorandum (for Respondents), 10 March 2022, at 19, in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 173 Id.
-
-NPC SS 21 -006
 
 The Commission understands that JuanHand’s disclosure of the
 
@@ -2298,19 +1906,6 @@ to the lates t version of the JuanHand OLA, regardless of changes
 
 and updates to the same.
 
-> 174 Order, 12 August 2021, at 11, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS
-> Case No. 21 -006 (NPC 2022).
-> 175 Enforcement Division Letter of Compliance with Order dated 12 August 2021 in NPC SS 21 -006 entitled “ In re: Wefund
-> Lending Corporation (JuanHand)”, 16 September 2021, at 2, in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 176 Id.
-> 177 Id.
-> 178 Reply and Explanation to the National Privacy Commission Enforcement Division Letter dated 16 September 2021, 08
-> October 2021, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006
-> (NPC 2022).
-> 179 Id. at 3.
-
-NPC SS 21 -006
 
 100.2. Upon becoming aware of the incident, [JuanHand]
 
@@ -2370,14 +1965,6 @@ calendar events.” 183  The first requisite of processing was admitted by
 
 JuanHand.
 
-> 180 Memorandum (for Respondents), 10 March 2022, at 23, in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022). Emphasis supplied.
-> 181 NPC 19 -134, 10 December 2021, at 12 (NPC 2021) (unreported).
-> 182 Data Privacy Act of 2012, § 3 (j) .
-> 183 Position Paper, 12 August 2021, at 5, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022). E mphasis supplied.
-
-NPC SS 21 -006
 
 As for the second requisite, the information that JuanHand processed
 
@@ -2447,13 +2034,6 @@ calendar. The calendar information , thus, is personal information
 
 under the DPA.
 
-> 184 Data Privacy Act of 2012, § 3 (g) .
-> 185 Position Paper, 12 August 2021, at 5, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022).
-> 186 Id.
-> 187 Id.
-
-NPC SS 21 -006
 
 As for the third requisite, JuanHand process ed personal information
 
@@ -2503,9 +2083,9 @@ owner’s knowledge;
 
 • read your contacts;
 
-• approximate location (network -based); and
+• approximate location (network-based); and
 
-• precise location (GPS and network -based). 190
+• precise location (GPS and network-based). 190
 
 As previously discussed, however, JuanHand’s Service Agreement
 
@@ -2513,13 +2093,6 @@ does not indicate all of the abovementioned permissions outlined in
 
 the Google Play Store and those discovered by the CID during its
 
-> 188 Fact-Finding Report, 09 June 2021, at 4-5,in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022) . Emphasis supplied.
-> 189 Id. at 2.
-> 190 Technical Report, 17 May 2021, at 5 (Annex B), in In re: Wefund Lending Corporation (JuanHand) and its Responsible
-> Officers, NPC SS Case No. 21 -006 (NPC 2022).
-
-NPC SS 21 -006
 
 technical investigation .191  The Service Agreement did not inform the
 
@@ -2585,18 +2158,6 @@ the transparency principle. ”197  Statements fail to satisfy the
 
 transparency principle if data subjects are not informed of the nature,
 
-> 191 See Supplemental Report, 31 May 2021, Annex A(JuanHand User Agreement Web ), in In re: Wefund Lending
-> Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 192 See id.
-> 193 Rules and Regulations Implementing the Data Privacy Act of 2012, § 18.
-> 194 Id.
-> 195 See JRG v. CXXX Lending Corporation, NPC Case No. 19 -450, 09 June 2020, at 6, available at
-> https://www.privacy.gov.ph/wp -content/uploads/2022/01/Decision_NPC -19 -450 -JRG -v. -CXXX.pdf (last accessed 30
-> May 2022).
-> 196 Id. Emphasis supplied.
-> 197 NPC Case No 19 -498, 09 June 2020, at 8 (NPC 2020) (unreported).
-
-NPC SS 21 -006
 
 purpose, and extent of the processing that the PIC is permitted to
 
@@ -2658,14 +2219,6 @@ there can be no valid consent in JuanHand’s processing of their
 
 personal information relating to the undisclosed permissions.
 
-> 198 Id.
-> 199 Id. Emphasis supplied.
-> 200 See id.
-> 201 Order, 12 August 2021, at 9, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS
-> Case No. 21 -006 (NPC 2022).
-> 202 See NPC Case No 19 -498, 09 June 2020, at 8 (NPC 2020) (unreported).
-
-NPC SS 21 -006
 
 JuanHand, in its Position Paper, admitted that the undisclosed
 
@@ -2731,14 +2284,6 @@ alleged that it has pursued “legitimate interests and purposes” in
 
 processing the personal information of its users. 206
 
-> 203 Position Paper, 12 August 2021, at 5, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No. 21 -006 (NPC 2022). Emphasis supplied.
-> 204 Id. Emphasis supplied.
-> 205 Comment on the Fact-Finding Report dated 09 June 2021, at 5, 11 October 2021, in In re: Wefund Lending Corporation
-> (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 206 Id. at 6.
-
-NPC SS 21 -006
 
 Th e Commission stresses that legitimate interest cannot be used to
 
@@ -2880,12 +2425,6 @@ information, concealment of security breaches involving sensitive
 
 personal information, malicious disclosure, and unauthorized
 
-> 207 Supplemental Report, 31 May 2021, Annex A (JuanHand User Agreement Web) at 7 -11, in In re: Wefund Lending
-> Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 208 Data Privacy Act of 2012, chapter VIII.
-> 209 Id. § 7 (i) .
-
-NPC SS 21 -006
 
 disclosure. 210  If the PI C or Personal Information Processor (PIP) is a
 
@@ -2945,15 +2484,6 @@ stockholders. It has been held, however, that corporate officers
 
 or employees, through whose act, default or omission the
 
-> 210 Id. §§ 25 -32.
-> 211 Id. § 34.
-> 212 See People v. Tan Boon Kong , G.R. L -35262 (1930).
-> 213 LUIS B. REYES ,THE REVISED PENAL CODE ,CRIMINAL LAW ,BOOK 1ARTICLES 1-113 505 (2012). Emphasis removed. Emphasis
-> supplied.
-> 214 An Act Providing for the Revised Corporation Code of the Philippines [ REVISED CORPORATION CODE ], Republic Act No.
-> 11232, §171 (2019). Emphasis supplied.
-
-NPC SS 21 -006
 
 corporation commits a crime, may themselves be individually
 
@@ -3025,11 +2555,6 @@ acts penalized under Sections 27 and 28 of this Act, he or she
 
 shall, in addition to the penalties prescribed herein, suffer
 
-> 215 Espiritu Jr. v. Petron Corp oration ,G.R. No. 170891 (2009). Emphasis supplied.
-> 216 People v. Tan Boon Kong, G.R. L -35262 (1930).
-> 217 JOSE R. SUNDIAN G,SR.&TIMOTEO B. AQUINO ,REVIEWER ON COMMERCIAL LAW 60 (2019).
-
-NPC SS 21 -006
 
 perpetual or temporary absolute disqualification from office, as
 
@@ -3085,12 +2610,6 @@ The CID argued that the undisclosed permissions show that “there is
 
 sufficient legal and factual basis” for the Commission to hold
 
-> 218 Data Privacy Act of 2012, § 34. Emphasis supplied.
-> 219 In Re: FLI Operating ABC Online Lending Application, NPC 19 -910, 17 December 2020, at 35, available at
-> https://www.privacy.gov.ph/wp -content/uploads/2021/02/NPC -19 -910 -In -re -FLI -Decision -LYA -Final -pseudonymized -17Dec2020 -
-> .pdf (last accessed 30 Ma y2022).
-
-NPC SS 21 -006
 
 JuanHand’s Corporate Officers and Directors , as the responsible
 
@@ -3156,16 +2675,6 @@ evidence. Jurisprudence is settled that if she ‘fail[s] to show in a
 
 satisfactory manner the facts upon which [her] claims are
 
-> 220 Memorandum, 16 March 2022, at 9, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC
-> SS Case No. 21 -006 (NPC 2022) ;See Supplementary Fact-Finding Report (with Application for Issuance of Temporary Ban
-> on the Processing of Personal Data), 05 July 2021, at 2 -3, in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 221 Memorandum, 16 March 2022, at 9, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC
-> SS Case No. 21 -006 (NPC 2022).
-> 222 Id.
-> 223 National Bureau of Investigation v. Conrado M. Najera, G.R. No. 237522 (2020). Emphasis supplied.
-
-NPC SS 21 -006
 
 based, the [respondent is] not obliged to prove [its] exception
 
@@ -3235,9 +2744,6 @@ such, the instance of “participated in” contemplates a situation
 
 wherein the officers and employees that will be recommended for
 
-> 224 NPC 19 -465, 03 March 2022, at 10 (NPC 2022) (unreported). Emphasis supplied.
-
-NPC SS 21 -006
 
 prosecution are “responsible” for and the root cause of the violation of
 
@@ -3311,10 +2817,6 @@ Corporate Officers and Directors refused to perform their necessary
 
 duties under the DPA. Moreover, the acts of JuanHand to rectify its
 
-> 225 Tacis v. Shields Security Services, Inc. , G.R. No. 234575 (2021).
-> 226 Securities and Exchange Commissioner v. Commission on Audit, G.R. No. 252198 (2021). Emphasis supplied.
-
-NPC SS 21 -006
 
 mistakes upon notification by the Commission show its willingness to
 
@@ -3374,18 +2876,6 @@ unusable; rather, old users are prompted to update to the app’s latest
 
 version 5.0.0. 231  Particularly, as regards the iOS version:
 
-> 227 Reply and Explanation to the National Privacy Commission Enforcement Division Letter dated 16 September 2021, 08
-> October 2021, at 4, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -
-> 006 (NPC 2022).
-> 228 Id. at 6. Emphasis removed.
-> 229 Enforcement Division Memorandum, 03 November 2021, at 3, in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022). Emphasis supplied.
-> 230 Memorandum (for Respondents), 10 March 2022, at 9 & 13, in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 231 Enforcement Division Enforcement Assessment Report, 28 April 2022, at 3, in In re: Wefund Lending Corporation
-> (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-
-NPC SS 21 -006
 
 [W]hile there are still no prompts giving the user permission to
 
@@ -3449,13 +2939,6 @@ Access to contact details in whatever form, such as but not
 
 limited to phone contact list or e -mail lists, the harvesting of
 
-> 232 Id. Emphasis supplied.
-> 233 Memorandum (for Respondents), 10 March 2022, at 12, in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 234 Id. at 17.
-> 235 Id. at 15.
-
-NPC SS 21 -006
 
 social media contacts, and/or copying or otherwise saving these
 
@@ -3517,20 +3000,6 @@ The Commission notes that , in addition to JuanHand’s willingness to
 
 comply with its Orders, its voluntary acts of changing key members of
 
-> 236 National Privacy Commission, Guidelines on the Processing of Personal Data for Loan -Related Transactions, Circular
-> No. 01, Series of 2020 [NPC Circ. No. 20 -01], § 3 (D)(4) (28 January 2021).
-> 237 Id.
-> 238 Memorandum (for Respondents), 10 March 2022, at 20, in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 239 Id. at 20 -21.
-> 240 Enforcement Division Enforcement Assessment Report, 28 April 2022, at 4, in In re: Wefund Lending Corporation
-> (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 241 Memorandum (for Respondents), 10 March 2022, at 21, in In re: Wefund Lending Corporation (JuanHand) and its
-> Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-> 242 Enforcement Division Enforcement Assessment Report, 28 April 2022, at 2, in In re: Wefund Lending Corporation
-> (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-
-NPC SS 21 -006
 
 its management team and legal counsel are inconsistent with gross
 
@@ -3600,17 +3069,6 @@ On 10 September 2021, JuanHand’s new counsel entered its
 
 appearance. 247  Evidently, JuanHand, through its new counsel, was
 
-> 243 Supplemental Motion to Resolve, 10 January 2022, at 5, in In re: Wefund Lending Corporation and its Responsible
-> Officers, NPC SS 21 -006, (NPC 2022).
-> 244 Entry of Appearance of the Former Counsel was on 10 August 2021.
-> 245 Position Paper, 12 August 2021, at 2, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers,
-> NPC SS Case No 21 -006 (NPC 2022).
-> 246 Order, 12 August 2021, at 7, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS
-> Case No. 21 -006 (NPC 2022).
-> 247 Entry of Appearance with Motion to Admit [Supplemental Comment with Motion for Lifting of Temporary Ban], at 1,
-> in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21 -006 (NPC 2022).
-
-NPC SS 21 -006
 
 able to properly address, to the satisfaction of the Commission, the
 
@@ -3668,14 +3126,6 @@ prosecution, must still decide based on the totality of evidence
 
 presented , since it is bound to adjudicate based on the following:
 
-> 248 Resolution, 13 January 2022, at 6, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC
-> SS Case No. 21 -006 (NPC 2022).
-> 249 Order, 12 August 2021, at 6 -15, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS
-> Case No. 21 -006 (NPC 2022).
-> 250 Resolution, 13 January 2022, at 6, in In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC
-> SS Case No. 21 -006 (NPC 2022).
-
-NPC SS 21 -006
 
 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
 
@@ -3731,10 +3181,6 @@ Deputy Privacy Commissioner
 
 WE CONCUR:
 
-> 251 National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of
-> Procedure], rule VIII, § 3 (28 January 2021). Emphasis supplied.
-
-NPC SS 21 -006
 
 In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers
 
@@ -3752,12 +3198,462 @@ Deputy Privacy Commissioner
 
 Copy furnished:
 
-VASIG ABARQUEZ LUMAUIG ABARQUEZ PUNO
+Vasig Abarquez Lumauig Abarquez Puno
 
-Counsel for Respondent s
+Counsel for Respondents
 
 COMPLAINTS AND INVESTIGATION DIVISION
 
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+
+[^1]: Fact-Finding Report, 09 June 2021, at 1, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^2]: Id.
+
+[^3]: Id. at 5.
+
+[^4]: Id.
+
+[^5]: Id.
+
+[^6]: Id. at 1.
+
+[^7]: Fact-Finding Report, 09 June 2021, at 2, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^8]: Technical Report, 17 May 2021, at 5 (Annex B), In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^9]: Fact-Finding Report, 09 June 2021, at 2, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022). Emphasis removed.
+
+[^10]: Id. Emphasis removed.
+
+[^11]: Id.
+
+[^12]: Id.
+
+[^13]: Id.
+
+[^14]: Id.
+
+[^15]: Fact-Finding Report, 09 June 2021, at 2, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^16]: Id.
+
+[^17]: Id. at 3.
+
+[^18]: Id.
+
+[^19]: Id. at 3-4. Emphasis supplied; See Supplemental Report, 31 May 2021, Annex A (JuanHand User Agreement Web), In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^20]: Id. at 4-5.
+
+[^21]: Fact-Finding Report, 09 June 2021, at 5, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^22]: Id. Emphasis supplied.
+
+[^23]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 16 (2012).
+
+[^24]: Fact-Finding Report, 09 June 2021, at 6, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^25]: Id.
+
+[^26]: Id. at 7.
+
+[^27]: Id.
+
+[^28]: Id.
+
+[^29]: Id.
+
+[^30]: Fact-Finding Report, 09 June 2021, at 7, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^31]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (2016).
+
+[^32]: Fact-Finding Report, 09 June 2021, at 8, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^33]: Id. at 7.
+
+[^34]: Id. at 8.
+
+[^35]: Id. at 9.
+
+[^36]: Id. at 10.
+
+[^37]: Id.
+
+[^38]: Fact-Finding Report, 09 June 2021, at 10, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^39]: Id. at 11.
+
+[^40]: Id.
+
+[^41]: Id.
+
+[^42]: Id. at 13.
+
+[^43]: Id. at 12.
+
+[^44]: Fact-Finding Report, 09 June 2021, at 12, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^45]: Id. at 13.
+
+[^46]: Id. at 15-16.
+
+[^47]: Id. at 16.
+
+[^48]: Order, 16 June 2021, at 1, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^49]: Id. at 2.
+
+[^50]: Supplemental Fact-Finding Report, 05 July 2021, at 2, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^51]: JuanHand Letter, 02 August 2021, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^52]: Motion to Properly Serve Order with Motion to Admit Position Paper Ad Cautelam, 12 August 2021, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^53]: Position Paper, 12 August 2021, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^54]: Id. at 2.
+
+[^55]: Id.
+
+[^56]: Id. at 3.
+
+[^57]: Id. at 3-4.
+
+[^58]: Id. at 4.
+
+[^59]: Position Paper, 12 August 2021, at 5, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022). Emphasis supplied.
+
+[^60]: Id.
+
+[^61]: Id. at 7.
+
+[^62]: Id.
+
+[^63]: Id. at 8.
+
+[^64]: Id. at 10.
+
+[^65]: Order, 12 August 2021, at 6-15, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^66]: Id. at 16.
+
+[^67]: Id.
+
+[^68]: Id.
+
+[^69]: Order, 12 August 2021, at 9, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^70]: Comment to the Order and Temporary Ban dated 12 August 2021, 01 September 2021, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^71]: Id. at 1.
+
+[^72]: Id. at 2.
+
+[^73]: Id.
+
+[^74]: Id. at 3.
+
+[^75]: Comment to the Order and Temporary Ban dated 12 August 2021, 01 September 2021, at 3, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^76]: Id.
+
+[^77]: Id. at 3-4.
+
+[^78]: Id. at 4.
+
+[^79]: Id.
+
+[^80]: Id.
+
+[^81]: Comment to the Order and Temporary Ban dated 12 August 2021, 01 September 2021, at 4, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^82]: Id. at 5.
+
+[^83]: Id. at 7.
+
+[^84]: Entry of Appearance with Motion to Admit [Supplemental Comment with Motion for Lifting of Temporary Ban], 10 September 2021, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^85]: Supplemental Comment with Motion for Lifting of Temporary Ban, 10 September 2021, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^86]: Enforcement Division Memorandum, 14 September 2021, at 1, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^87]: Id.
+
+[^88]: Id. at 3.
+
+[^89]: Enforcement Division Letter of Compliance with Order dated 12 August 2021 in NPC SS 21-006 entitled "In re: Wefund Lending Corporation (JuanHand)", 16 September 2021, at 1, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^90]: Id. at 2.
+
+[^91]: Order, 17 September 2021, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^92]: Id. at 3.
+
+[^93]: Id. at 3-4.
+
+[^94]: Reply and Explanation to the National Privacy Commission Enforcement Division Letter dated 16 September 2021, 08 October 2021, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^95]: Id. at 2.
+
+[^96]: Id. at 3.
+
+[^97]: Enforcement Division Memorandum, 1 4 September 2021, at 1, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^98]: Reply and Explanation to the National Privacy Commission Enforcement Division Letter dated 16 September 2021, 08 October 2021, at 4, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^99]: Id. at 5.
+
+[^100]: Id.
+
+[^101]: Id. at 6. Emphasis removed.
+
+[^102]: Comment on the Fact-Finding Report dated 09 June 2021, 11 October 2021, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^103]: Id. at 5.
+
+[^104]: Id. at 6.
+
+[^105]: Id. at 7. Emphasis supplied.
+
+[^106]: Id.
+
+[^107]: Id. at 8.
+
+[^108]: Comment on the Fact-Finding Report dated 09 June 2021, 11 October 2021, at 8-9, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^109]: Id. at 9.
+
+[^110]: Id. at 12.
+
+[^111]: Id.
+
+[^112]: Id. at 13.
+
+[^113]: Comment on the Fact-Finding Report dated 09 June 2021, 11 October 2021, at 14, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^114]: Id. at 15.
+
+[^115]: Id.
+
+[^116]: Id. at 16.
+
+[^117]: Id. at 17.
+
+[^118]: Id.
+
+[^119]: Id.
+
+[^120]: Id. at 22.
+
+[^121]: Id.
+
+[^122]: Id.
+
+[^123]: Id. at 23.
+
+[^124]: Motion to Resolve, 17 December 2021, In re: Wefund Lending Corporation and its Responsible Officers, NPC SS 21-006, (NPC 2022).
+
+[^125]: Supplemental Motion to Resolve, 10 January 2022, In re: Wefund Lending Corporation and its Responsible Officers, NPC SS 21-006, (NPC 2022).
+
+[^126]: Resolution, 13 January 2022, at 6-7, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^127]: Order, 13 January 2022, at 9, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^128]: Id. at 10.
+
+[^129]: Memorandum (for Respondents), 10 March 2022, at 5, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^130]: Compliance, 28 February 2022, at 3, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^131]: Id. at 2.
+
+[^132]: Id.
+
+[^133]: Id. at 3.
+
+[^134]: Id.
+
+[^135]: Id.
+
+[^136]: Compliance, 28 February 2022, at 3, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^137]: Id. at 4.
+
+[^138]: Id.
+
+[^139]: Id. at 5.
+
+[^140]: Memorandum (for Respondents), 10 March 2022, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^141]: Memorandum, 16 March 2022, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^142]: Memorandum (for Respondents), 10 March 2022, at 8, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^143]: Id. at 10.
+
+[^144]: Memorandum, 16 March 2022, at 2, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022). Emphasis removed.
+
+[^145]: Id. at 3.
+
+[^146]: Id. at 7.
+
+[^147]: Id.
+
+[^148]: Order, 13 January 2022, at 10, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022). Emphasis supplied.
+
+[^149]: Fact-Finding Report, 09 June 2021, at 4-5, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^150]: See Supplemental Report, 31 May 2021, Annex A (JuanHand User Agreement Web), In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^151]: Order, 12 August 2021, at 9, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^152]: See NPC Case No 19-498, 09 June 2020, at 8 (NPC 2020) (unreported).
+
+[^153]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18.
+
+[^154]: See JRG v. CXXX Lending Corporation, NPC Case No. 19-450, 09 June 2020, at 6, available at https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision_NPC-19-450-JRG-v.-CXXX.pdf (last accessed 30 May 2022).
+
+[^155]: Id. Emphasis supplied.
+
+[^156]: NPC Case No 19-498, 09 June 2020, at 8 (NPC 2020) (unreported).
+
+[^157]: Id. Emphasis supplied.
+
+[^158]: See id.
+
+[^159]: Memorandum (for Respondents), 10 March 2022, at 19, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^160]: Id.
+
+[^161]: National Privacy Commission, Guidelines on the Processing of Personal Data for Loan-Related Transactions, Circular No. 01, Series of 2020 [NPC Circ. No. 20-01], § 3 (D)(4) (28 January 2021).
+
+[^162]: Id.
+
+[^163]: Memorandum (for Respondents), 10 March 2022, at 20, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^164]: Id. at 20-21.
+
+[^165]: Enforcement Division Enforcement Assessment Report, 28 April 2022, at 4, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^166]: Memorandum (for Respondents), 10 March 2022, at 21, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^167]: Enforcement Division Enforcement Assessment Report, 28 April 2022, at 2, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^168]: Supplemental Motion to Resolve, 10 January 2022, at 5, In re: Wefund Lending Corporation and its Responsible Officers, NPC SS 21-006, (NPC 2022).
+
+[^169]: Entry of Appearance of the Former Counsel was on 10 August 2021.
+
+[^170]: Position Paper, 12 August 2021, at 2, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No 21-006 (NPC 2022).
+
+[^171]: Order, 12 August 2021, at 7, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^172]: Entry of Appearance with Motion to Admit [Supplemental Comment with Motion for Lifting of Temporary Ban], at 1, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^173]: Resolution, 13 January 2022, at 6, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^174]: Order, 12 August 2021, at 6-15, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^175]: Resolution, 13 January 2022, at 6, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^176]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, Section 3. Rendition of decision. The Decision of the Commission shall resolve the issues on the basis of all the evidence presented and its own consideration of the law. National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], rule VIII, § 3 (28 January 2021). Emphasis supplied.
+
+[^177]: Memorandum, 16 March 2022, at 9, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022); See Supplementary Fact-Finding Report (with Application for Issuance of Temporary Ban on the Processing of Personal Data), 05 July 2021, at 2-3, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^178]: Memorandum, 16 March 2022, at 9, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^179]: Id.
+
+[^180]: National Bureau of Investigation v. Conrado M. Najera, G.R. No. 237522 (2020). Emphasis supplied.
+
+[^181]: NPC 19-465, 03 March 2022, at 10 (NPC 2022) (unreported). Emphasis supplied.
+
+[^182]: Reply and Explanation to the National Privacy Commission Enforcement Division Letter dated 16 September 2021, 08 October 2021, at 4, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^183]: Id. at 6. Emphasis removed.
+
+[^184]: Enforcement Division Memorandum, 03 November 2021, at 3, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022). Emphasis supplied.
+
+[^185]: Memorandum (for Respondents), 10 March 2022, at 9 & 13, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^186]: Enforcement Division Enforcement Assessment Report, 28 April 2022, at 3, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^187]: Enforcement Division Letter of Compliance with Order dated 12 August 2021 in NPC SS 21-006 entitled "In re: Wefund Lending Corporation (JuanHand)", 16 September 2021, at 2, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^188]: Id.
+
+[^189]: Id.
+
+[^190]: Id. Emphasis supplied.
+
+[^191]: See Supplemental Report, 31 May 2021, Annex A (JuanHand User Agreement Web), In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^192]: See id.
+
+[^193]: Tacis v. Shields Security Services, Inc., G.R. No. 234575 (2021).
+
+[^194]: Securities and Exchange Commissioner v. Commission on Audit, G.R. No. 252198 (2021). Emphasis supplied.
+
+[^195]: Memorandum (for Respondents), 10 March 2022, at 8, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^196]: Id.
+
+[^197]: Id.
+
+[^198]: Id. Emphasis supplied.
+
+[^199]: Memorandum (for Respondents), 10 March 2022, at 9 & 13, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^200]: Memorandum (for Respondents), 10 March 2022, at 12, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^201]: Id. at 17.
+
+[^202]: Id. at 15.
+
+[^203]: Id.
+
+[^204]: Supplemental Report, 31 May 2021, Annex A (JuanHand User Agreement Web) at 9, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022). Emphasis supplied.
+
+[^205]: Data Privacy Act of 2012, § 34. Emphasis supplied.
+
+[^206]: In Re: FLI Operating ABC Online Lending Application, NPC 19-910, 17 December 2020, at 35, available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-910-In-re-FLI-Decision-LYA-Final-pseudonymized-17Dec2020-.pdf (last accessed 30 May 2022).
+
+[^207]: NPC 19-134, 10 December 2021, at 12 (NPC 2021) (unreported).
+
+[^208]: Data Privacy Act of 2012, § 3 (j).
+
+[^209]: Position Paper, 12 August 2021, at 5, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022). Emphasis supplied.
+
+[^210]: Id.
+
+[^211]: Id.
+
+[^212]: Data Privacy Act of 2012, § 3 (g).
+
+[^213]: Position Paper, 12 August 2021, at 5, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^214]: Id.
+
+[^215]: Fact-Finding Report, 09 June 2021, at 5, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022). Emphasis supplied.
+
+[^216]: Technical Report, 17 May 2021, at 5 (Annex B), In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
+
+[^217]: See People v. Tan Boon Kong, G.R. L-35262 (1930).
+
+[^218]: Luis B. Reyes, The Revised Penal Code, Criminal Law, Book 1 Articles 1-113 505 (2012). Emphasis removed. Emphasis supplied.
+
+[^219]: An Act Providing for the Revised Corporation Code of the Philippines [Revised Corporation Code], Republic Act No. 11232, §171 (2019). Emphasis supplied.
+
+[^220]: Espiritu Jr. v. Petron Corporation, G.R. No. 170891 (2009). Emphasis supplied.
+
+[^221]: People v. Tan Boon Kong, G.R. L-35262 (1930).
+
+[^222]: Jose R. Sundiang, Sr. & Timoteo B. Aquino, Reviewer on Commercial Law 60 (2019).
+
+[^223]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (2016).
+
+[^224]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18.
+
+[^225]: Memorandum, 16 March 2022, at 2, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022). Emphasis removed.

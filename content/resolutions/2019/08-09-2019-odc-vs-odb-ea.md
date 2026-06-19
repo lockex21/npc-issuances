@@ -1,18 +1,18 @@
 ---
+title: "NPC 17-001: ODC v. ODB & AE"
+description: "Resolution denying ODB's motion for reconsideration in a data privacy case regarding transparency of credit card terms and conditions involving account setoff provisions."
 aliases:
-- 08-09-2019
-- 08-09-2019
-date: '2024-01-01'
-description: wields considerable power over a patient and even in schools where NPC
-  Case no. 17 -001
-draft: false
-reference: 08-09-2019
+  - "NPC 17-001"
+  - "npc 17-001"
+  - "ODC v. ODB & AE"
+  - "odc v. odb & ae"
 tags:
-- resolution
-- type/resolution
-- npc-case
-- year/2019
-title: '08-09-2019: ODC vs. ODB & EA'
+  - "resolution"
+  - "type/resolution"
+  - "npc-case"
+  - "year/2019"
+date: "2019-08-09"
+draft: false
 ---
 
 
@@ -20,26 +20,25 @@ title: '08-09-2019: ODC vs. ODB & EA'
 
 
 ## Source
-- Reference: 08-09-2019
+- Reference: NPC 17-
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-17-001-ODC-v-ODB-Resolution-PSD-10Sept2020-ABJ3.pdf
 - Source page: http://privacy.gov.ph/resolutions/
-- Issue date: August 9, 2019
-- Published on NPC site: Fri, 19 May 2023 17:31:55 GMT
-- Pages: 24
+- Issue date: August 9, 
+- Published on NPC site: May 19, 
+- Pages: 
 
 ## Source Tags
 - Substantial Evidence, Transparency, Updating Terms & Conditions
 
 ## Resolution Text
-ODC ,
 
-Complainant, NPC Case No. 17001
+ODC,
 
-For: Violation of Data
+Complainant,
 
--versus - Privacy Act of 2012
+-versus-
 
-ODB & AE ,
+ODB & AE,
 
 Respondents.
 
@@ -47,442 +46,57 @@ x-------------------------------------------------x
 
 LIBORO, P.C.
 
-For this Commission’s resolution is the Motion for
+For this Commission’s resolution is the Motion for Reconsideration dated 20 December 2017 assailing the Commission’s Decision dated 04 December 2017.
 
-Reconsideration dated 20 December 2017 assailing the Commission’s
-
-Decision dated 04 December 2017.
+### Facts
 
 The facts are the following:
 
-On 3 February 2017, Complainant filed a formal complaint
+On 3 February 2017, Complainant filed a formal complaint before this Commission alleging that Respondent ODB, without consent, deducted from his ODB Savings Account his unpaid balance in his AE Credit Card. According to Complainant, his personal data was processed without his consent, thus, a clear violation of the Data Privacy Act of 2012 (DPA).
 
-before this Commission alleging that Respondent ODB , without
+On 10 April 2017, Respondent ODB filed a Comment[^1] stating therein that the complaint should be dismissed due to several grounds. According to Respondent ODB, Complainant committed forum shopping as a prior complaint before the Bangko Sentral ng Pilipinas (BSP) has been lodged. Further, the complaint does not involve any violation of the DPA as no data sharing to a third party took place considering that Respondent ODB is the issuer of Complainant’s AE card. Respondent ODB likewise argued that Complainant was legally and contractually bound to pay his credit card bill.
 
-consent, deducted from his ODB Savings Account his unpaid balance
+This Commission, in its 04 December 2017 decision[^2], ruled that there was no forum shopping in this case as the right asserted by Complainant in his complaint before this Commission is for violation of the DPA while the one in BSP is for violation of the Bank Secrecy Act. This Commission likewise ruled that although Respondent ODB did not commit unauthorized processing of personal information as this was done with Complainant’s consent, it was sternly warned as it violated the Principle of Transparency required by law.
 
-in his AE Credit Card. According to Complainant, his persona l data
+### Discussion
 
-was processed without his consent, thus, a clear violation of the Data
+In ruling that Respondent ODB violated the principle of transparency, this Commission stressed that the principle of transparency requires personal information controllers (PIC) to ensure that the data subject must always be able to understand how and why his or her personal information is being processed. For this Commission, Respondent ODB did not properly inform Complainant of its ability and intention to set off its legal claim. While this information can be found within the terms and conditions of the credit card agreement signed by complainant, the way the latter’s data was to be processed remained opaque and buried in legalese.
 
-Privacy Act of 2012 (DPA) .
-
-On 10 April 2017, Respondent ODB filed a Comment 1 stating
-
-therein that the complaint should be dismissed due to several grounds.
-
-According to Respondent ODB , Complainant committed forum
-
-shopping as a prior complaint before the Bangko Sentral ng Pilipinas
-
-(BSP) has been lodged. Further, the complaint does not involve any
-
-> 1Records, p. 19. NPC Case no. 17001
-> ODC vs ODBand AE
-> Page
-
-2 of 24
-
-violation of the DPA as no data sharing to a third party took place
-
-considering that Respondent ODB is the issuer of Complainant’s AE
-
-card. Respondent ODB likewise argued that Complainant was legally
-
-and contractually bound to pay his credit card bill.
-
-This Commission, in its 04 December 2017 decision 2, ruled that
-
-there was no forum shopping in this case as the right asserted by
-
-Complainant in his complaint before this Commission is for violation
-
-of the DPA while the one in BSP is for violation of the Bank S ecrecy
-
-Act. This Commission likewise ruled that although Respondent ODB
-
-did not commit unauthorized processing of personal information as
-
-this was done with Complainant’s consent, it was sternly warned as it
-
-violated the Principle of Transparency required by law.
-
-In ruling that Respondent ODB violated the principle of
-
-transparency, this Commission stressed that the principle of
-
-transparency requires personal information controllers (PIC) to ensure
-
-that the data subject must always be able to understand how and why
-
-his or her personal information is being processed. For this
-
-Commission, Respondent ODB did not properly inform Complainant
-
-of its ability and intention to set off its legal claim. While this
-
-information can be found within the terms and condition s of the credit
-
-card agreement signed by complainant, the way the latter’s data was
-
-to be processed remained opaque and buried in legalese.
-
-This prompted Respondent ODB to file a motion for partial
-
-reconsideration with a prayer that a new decision be rend ered
-
-reversing the ruling that it violated the principle of transparency and
-
-its corresponding penalty. Respondent ODB argued that (1) the Civil
-
-Code allows for legal setoff or compensation for as long as the
-
-elements under Article 1278 and 1279 are compl ied with and that the
-
-law does not require notification before setoff; (2) the logic behind
-
-Article 1290 of the Civil Code as to the nonrequirement of notice in
-
-case of legal compensation is due to the fact that a party may remove
-
-the money against which the setoff would be applied once notice is
-
-served; and (3) the ruling that it violated the principle of transparency
-
-under the DPA run counter to the provisions of the Civil Code on legal
-
-> 2Decision dated December 4, 2017 at p.9; Penned by Privacy Commissioner Raymund E. Liboro with Deputy Privacy
-> Commissioner Ivy Patdu concurring.
-
-NPC Case no. 17001
-
-ODC vs ODB and AE
-
-compensation which is provided for in the Civil Code and not unde r
-
-the DPA.
+This prompted Respondent ODB to file a motion for partial reconsideration with a prayer that a new decision be rendered reversing the ruling that it violated the principle of transparency and its corresponding penalty. Respondent ODB argued that (1) the Civil Code allows for legal setoff or compensation for as long as the elements under Article 1278 and 1279 are complied with and that the law does not require notification before setoff; (2) the logic behind Article 1290 of the Civil Code as to the nonrequirement of notice in case of legal compensation is due to the fact that a party may remove the money against which the setoff would be applied once notice is served; and (3) the ruling that it violated the principle of transparency under the DPA run counter to the provisions of the Civil Code on legal compensation which is provided for in the Civil Code and not under the DPA.
 
 We find no merit in the arguments.
 
-While this Commission appreciates Respondent ODB ’s lengthy
+While this Commission appreciates Respondent ODB’s lengthy discussion on the provisions of the Civil Code on legal setoff or compensation, the same is irrelevant as this was not questioned by the Commission nor did this Commission adjudge Respondent ODB to have violated the Civil Code.
 
-discussion on the provisions of the Civil Code on legal setoff or
+In its 04 December 2017[^3] Decision, this Commission in fact acknowledged the relationship between a bank and its depositor - that the bank and the data subject are debtors and creditors of each other, and that a bank has the right to setoff the deposits in its hands for payment of a depositor’s indebtedness. In other words, the Commission recognized ODB’s right to setoff the debt of Complainant from the latter’s savings account.
 
-compensation, the same is irrelevant as this was not questioned by the
+This Commission is likewise well aware that the Civil Code imposes no obligation on the part of the bank to notify their client prior to the actual legal compensation or setoff. When this Commission ruled that Respondent ODB should have properly informed Complainant of its ability and intention to set off its legal claim, this Commission did not mean Respondent ODB should have notified Complainant prior the actual setoff. Rather, it meant that the credit card terms and conditions of Respondent ODB should have complied with the principle of transparency.
 
-Commission nor did this Commission adjudge Respondent ODB to
+Under Chapter III, Section 11 of the Data Privacy Act of 2012, the processing of personal information shall be allowed, subject to compliance with the requirements of said act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality[^4].
 
-have violated the Civil Code.
+Any processing of personal data should be lawful and fair. It should be transparent to natural persons that personal data concerning them are collected, used, consulted, or otherwise processed and as to the extent their personal data are or will be processed. The principle of transparency requires that any information and communication relating to the processing of those personal data be easily accessible and easy to understand, and that clear and plain language be used.
 
-In its 04 December 2017 3 Decision, this Commission in fact
+Further, the principle of transparency concerns, in particular, information to the data subjects on the identity of the controller and the purposes of the processing and further information to ensure fair and transparent processing in respect of the natural persons concerned and their right to obtain confirmation and communication of personal data concerning them which are being processed. It is imperative that natural persons should be made aware of risks, rules, safeguards and rights in relation to the processing of personal data and how to exercise their rights in relation to such processing[^5].
 
-acknowledged the relationship between a bank and its depositor - that
+This simply means that companies must state in clear and plain language how they will handle data, for what purpose and by whom. For example, if a company holds data related to children, then the reading level of the content must be accessible for those children[^6]. In the same sense that if a company handles data related to a common person then the reading level should be understood by a common person.
 
-the bank and the data subject are debtors an d creditors of each other,
+Thus, it is imperative that every personal information controller must remember that transparency is a core principle of the DPA. Adherence to this principle is key to “fairness” which is an equally important criterion set for lawful processing of personal data under the DPA.
 
-and that a bank has the right to setoff the deposits in its hands for
+It is critical in establishing trust and confidence by a business to a customer and should evoke a sense of fairness and a response that encourages more meaningful participation by data subjects. Transparency is necessary to prove organizational accountability to data subjects. Thus, it is not only a legal tool but an instrument for any business to be trusted in today’s personal data driven society.
 
-payment of a depositor’s indebtedness. In other words, the
+The Data Privacy Act of 2012, which is based on globally adopted privacy principles, introduces a much broader definition for transparency in that it must not only satisfy a legal mandate but more importantly, address the expectations of data subjects. The transparency principle as contemplated in the DPA and as differentiated from what the legal profession have become accustomed to, is centered on the reasonable expectations of the user to be informed and must go beyond legal compliance. Privacy Notices and Terms and Conditions (T & C’s for brevity) are prime examples where a company can show its transparency to customers. These are essential for legal purposes and a demonstrable proof of organizational accountability to the DPA. However, the presence of Privacy Notices and T & C’s alone, does not automatically translate to being transparent. They could be meaningless to data subjects if they are not concise and easy to understand and do not effectively explain the benefits, risks, potential harm, and even pain of data use and the choices and options available to them.
 
-Commission recognized ODB ’s right to setoff the debt of
+Businesses and their lawyers must realize that personal data processing is now set against a milieu that enunciates the rights to privacy and data protection. They must recognize that legal transparency is different from user-centric transparency. The former may be understandable to legal professionals and appreciated by the legal community while the latter should be understandable to the data subject and satisfy their desire to understand how their personal information will be used. The former addresses their broad legal mandate. The latter fulfills compliance to the DPA. The former uses legalese. The latter uses clear and plain language that is easy to understand. Clearly, they must comprehend that the rules in the processing of personal data have changed.
 
-Complainant from the latter’s savings acco unt.
+Admittedly, there is transparency tension whenever legalese cross paths with user expectation. This tension often appears in situations where a power imbalance is present. Power imbalance in data privacy parlance is a condition where meaningful information for the data subject becomes more difficult to obtain especially when the controller, like a bank, hold considerable power over a depositor or customer because they are offering financial services that is vital to the needs of an individual. This situation presents itself in other contexts such as in the health sector where a hospital or a health professional wields considerable power over a patient and even in schools where administrators and teachers exercise a significant degree of control over students.
 
-This Commission is likewise wellaware that the Civil Code
+Incidentally, these industries and sectors have been identified by the Commission to belong to a set of personal information controllers and processor that practice larger-scale and a higher-risk type of processing compared to other PICs and PIPs. They are all contained in Appendix 1 of NPC Circular 17-01 on the Registration of Data Processing Systems and Notification Regarding Automated Decision-Making[^7]. A bank and a credit card issuer like Respondent ODB belongs to one of these sectors. Since it practices a higher-risk type of processing that could lead to situations where a data subject may experience risks or threats or exposed to harm or even pain, it is expected that the data subject should be provided with clear, concise, intelligible, and easy to understand information to guide and provide them with a clear picture and a genuine choice about the use of their personal data.
 
-imposes no obligation on the part of the bank to notify their client prior
+The NPC is aware of these contexts and seeks to reduce this tension. This is the reason why in these imbalanced conditions, the NPC takes a harder look on how controllers adhere to the principles of personal data processing, namely: transparency, legitimate purpose and proportionality. This Commission stands firm that the onus in resolving this transparency tension between legal mandates and user expectation lies with the business or the personal information controller and its processors. By treating data privacy accountability to their customers more seriously and having the data subject’s interest in mind, this tension can be reduced and potential transparency violations to the DPA prevented.
 
-to the actual legal compensation or setoff. When this Commission
+Further, this Commission will never tire in calling out personal information controllers to adhere to the data privacy principles. The Commission understands that it takes effort, creativity and innovation to cure this imbalance and strike that equality between clarity and the data subject desire to understand. It is also conscious not to prescribe disproportionate measures that may be too difficult for the controller to implement. We find amending contracts, privacy notices, and terms and conditions elementary practices that should not take disproportionate efforts to implement. We note that Respondent ODB took the first step in this direction by amending its Terms and Conditions in this case. We note further the effort of Respondent ODB to resolve and mitigate this imbalance by delivering a better crafted provision in the T & C on the consequences of default by a card holder in pursuit of their legitimate interest to process personal data. It was a manifestation that they completely agree with our determination of the shortcomings of their original Terms and Conditions in providing the clarity sought by the complainant.
 
-ruled that Respondent ODB should have properly informed
-
-Complainant of its ability and intention to set off its legal claim, this
-
-Commission did not mean Respondent ODB should have notified
-
-Complainant prior the actual setoff. Rather, it meant that the credit
-
-card terms and condi tions of Respondent ODB should have complied
-
-with the principle of transparency.
-
-Under Chapter III, Section 11 of the Data Privacy Act of 2012, the
-
-processing of personal information shall be allowed, subject to
-
-compliance with the requirements of said a ct and other laws allowing
-
-disclosure of information to the public and adherence to the principles
-
-of transparency, legitimate purpose and proportionality 4.
-
-> 3Id. , at p. 9.
-> 4An Act Protecting Individual Personal Information in Information and Communications Systems i n the Government
-> and the Private Sector (Data Privacy Act of 2012) Chapter III Section 11.
-
-NPC Case no. 17001
-
-ODC vs ODB and AE
-
-Any processing of personal data should be lawful and fair. It
-
-should be transparent to natural pe rson s that personal data concerning
-
-them are collected, used, consulted, or otherwise processed and as to
-
-the extent their personal data are or will be processed. The principle of
-
-transparency requires that any information and communication
-
-relating to the processing of those personal data be easily accessible
-
-and easy to understand, and that clear and plain language be used.
-
-Further, the principle of transparency concerns, in particular,
-
-information to the data subjects on the identity of the controller an d
-
-the purposes of the processing and further information to ensure fair
-
-and transparent processing in respect of the natural persons concerned
-
-and their right to obtain confirmation and communication of personal
-
-data concerning them which are being process ed. It is imperative that
-
-natural persons should be made aware of risks, rules, safeguards and
-
-rights in relation to the processing of personal data and how to exercise
-
-their rights in relation to such processing. 5
-
-This simply means that companies must state in clear and plain
-
-language how they will handle data, for what purpose and by whom.
-
-For example, if a company holds data related to children, then the
-
-reading level of the content must be accessible for those children 6. In
-
-the same sense that if a company handles data related to a common
-
-person then the reading level should be understood by a common
-
-person.
-
-Thus, it is imperative that every personal information controller
-
-must remember that transparency is a core principle of the DPA.
-
-Adherence to this principle is key to “fairness” which is an equally
-
-important criterion set for lawful processing of personal data under
-
-the DPA.
-
-It is critical in establishing trust and confidence by a business to
-
-a customer and should evoke a sense of fairness and a response that
-
-encourages more meaningful participation by data subjects.
-
-Transparency is necessary to prove or ganizational accountability to
-
-data subjects. Thus, it is not only a legal tool but an instrument for any
-
-business to be trusted in today’s personal data driven society.
-
-> 5Recital 39 of the European General Data Protection Regulation (GDPR) available at http://www.privacyregulation.eu/en/recital -
-> 39GDPR.htm
-> 6Fergal McGovern, The GDPR and Plain Language: What you need to do to comply, available at https://www.cmswire.com/digital -
-> experience/t hegdprandplainlanguagewhatyouneedtodotocomply/ , Octorber 18, 2017. NPC Case no. 17001
-> ODC vs ODBand AE
-> Page 5of 24
-
-The Data Privacy Act of 2012, which is based on globally adopted
-
-privacy principles, introduces a much broader definition for
-
-transparency in that it must not only satisfy a legal mandate but more
-
-importantly, address the expectations of data subjects. The
-
-transparency principle as contemplated in the DPA and as
-
-differentiated from what the legal profession have become accustomed
-
-to, is centered on the reasonable expectations of the user to be informed
-
-and must go beyond legal compliance. Privacy Notices and Terms and
-
-Conditions (T & C’s for brevity) are prime examples where a company
-
-can sh ow its transparency to customers. These are essential for legal
-
-purposes and a demonstrable proof of organizational accountability to
-
-the DPA. However, the presence of Privacy Notices and T & C’s alone,
-
-does not automatically translate to being transparent . They could be
-
-meaningless to data subjects if they are not concise and easy to
-
-understand and do not effectively explain the benefits, risks, potential
-
-harm, and even pain of data use and the choices and options available
-
-to them.
-
-Businesses and their lawyers must realize that personal data
-
-processing is now set against a milieu that enunciates the rights to
-
-privacy and data protection. They must recognize that legal
-
-transparency is different from usercentric transparency. The former
-
-may be understanda ble to legal professionals and appreciated by the
-
-legal community while the latter should be understandable to the data
-
-subject and satisfy their desire to understand how their personal
-
-information will be used. The former addresses their broad legal
-
-manda te. The latter fulfills compliance to the DPA. The former uses
-
-legalese. The latter uses clear and plain language that is easy to
-
-understand. Clearly, they must comprehend that the rules in the
-
-processing of personal data have changed.
-
-Admittedly, there is transparency tension whenever legalese
-
-cross paths with user expectation. This tension often appears in
-
-situations where a power imbalance is present. Power imbalance in
-
-data privacy parlance is a condition where meaningful information for
-
-the data subject becomes more difficult to obtain especially when the
-
-controller, like a bank, hold considerable power over a depositor or
-
-customer because they are offering financial services that is vital to the
-
-needs of an individual. This situatio n presents itself in other contexts
-
-such as in the health sector where a hospital or a health professional
-
-wields considerable power over a patient and even in schools where NPC Case no. 17001
-
-ODC vs ODB and AE
-
-administrators and teachers exercise a significant degree of control
-
-over students .
-
-Incidentally, these industries and sectors have been identified by
-
-the Commission to belong to a set of personal information controllers
-
-and processor that practice largerscale and a higherrisk type of
-
-processing compared to other PICs and PIPs. They are all contained in
-
-Appendix 1 of NPC Circular 1701 on the Registration of Data
-
-Processing Systems and Notification Regarding Automated Decision -
-
-Making 7. A bank and a credit cardissuer like Respondent ODB
-
-belongs to one of these sectors. Since it pr actices a higher –risk type of
-
-processing that could lead to situations where a data subject may
-
-experience risks or threats or exposed to harm or even pain, it is
-
-expected that the data subject should be provided with clear, concise,
-
-intelligible, and easy to understand information to guide and provide
-
-them with a clear picture and a genuine choice about the use of their
-
-personal data.
-
-The NPC is aware of these contexts and seeks to reduce this
-
-tension. This is the reason why in these imbalanced conditio ns, the
-
-NPC takes a harder look on how controllers adhere to the principles of
-
-personal data processing, namely: transparency, legitimate purpose
-
-and proportionality. This Commission stands firm that the onus in
-
-resolving this transparency tension between legal mandates and user
-
-expectation lies with the business or the personal information
-
-controller and its processors. By treating data privacy accountability
-
-to their customers more seriously and having the data subject’s interest
-
-in mind, this tension ca n be reduced and potential transparency
-
-violations to the DPA prevented.
-
-Further, this Commission will never tire in calling out personal
-
-information controllers to adhere to the data privacy principles. The
-
-Commission understands that it takes effort, cr eativity and innovation
-
-to cure this imbalance and strike that equality between clarity and the
-
-data subject desire to understand. It is also conscious not to prescribe
-
-disproportionate measures that may be too difficult for the controller
-
-to implement. W e find amending contracts, privacy notices, and terms
-
-and conditions elementary practices that should not take
-
-> 7National Privacy Circular 1701 Registration of Data Processing and Notifications regarding Automated Decision Making (NPC
-> notificationsregardingautomateddecisionmaking/ NPC Case no. 17001
-> ODC vs ODBand AE
-> Page
-
-7 of 24
-
-disproportionate efforts to implement. We note that Respondent ODB
-
-took the first step in this direction by amending its Terms and
-
-Conditions in this case. We note further the effort of Respondent ODB
-
-to resolve and mitigate this imbalance by delivering a better crafted
-
-provision in the T & C on the consequences of default by a card holder
-
-in pursuit of their legitimate interest to process person al data. It was a
-
-manifestation that they completely agree with our determination of
-
-the shortcomings of their original Terms and Conditions in providing
-
-the cl arity sought by the complainant.
-
-In this case, while the terms and conditions of AE Credit Card
-
-was signed by Complainant, the way the latter’s data was to be
-
-processed for purposes of legal compensation or set off remained
-
-opaque and buried in legalese. The terms and conditions did lit tle to
-
-provide Complainant transparency regarding the use of his data.
+In this case, while the terms and conditions of AE Credit Card was signed by Complainant, the way the latter’s data was to be processed for purposes of legal compensation or set off remained opaque and buried in legalese. The terms and conditions did little to provide Complainant transparency regarding the use of his data.
 
 The Civil Code provides for the elements in order for a legal
 
@@ -522,13 +136,12 @@ sell at public or private sale such securities or things of value owned
 
 by CARDMEMBER and the n to apply the proceeds of such sale to
 
-any outstanding obligation of CARDMEMER;
+any outstanding obligation of CARDMEMBER;
 
 c.) Any Funds of the CARDMEMBER that may now or later be in
 
-the hands of the ISSUER or any of its Related Companies will be NPC Case no. 17001
+the hands of the ISSUER or any of its Related Companies will be NPC Case no. 
 
-ODC vs ODB and AE
 
 applied and set off against any amounts due and p ayable on the
 
@@ -600,22 +213,18 @@ power of substitution, to do or cause to be done any and all acts that
 
 are necessary to carry out the purposes of this paragraph, including
 
-the power to sell in accord ance with law, based on zonal value or
+the power to sell in accordance with law, based on zonal value or
 
 fair market value for real or personal properties, respectively,
 
-> 8Terms and Conditions for issuance and use of the AE Credit Cards available at https://www.odb.com.ph/sites/default/files/pdf/A E-
-> TCS.pdf / October 2013
 
-NPC Case no. 17001
 
-ODC vs ODB and AE
 
 without the need for any further notice, demand or deed, and to
 
 apply the proceeds of the sale to the satisfaction of the
 
-CARDMEMBER’s obligations to th e ISSUER. The appointment of
+CARDMEMBER’s obligations to the ISSUER. The appointment of
 
 ISSUER and/or its Related Companies is coupled with interest and
 
@@ -631,7 +240,7 @@ of 1955), as amended, Section 55 of Republic Act 8791 (The General
 
 Banking Law of 2000), as amended, Republic Act 6426 (Foreign
 
-Currency Deposit Act of the Ph ilippines of 1974), as amended,
+Currency Deposit Act of the Philippines of 1974), as amended,
 
 Republic Act 10173 (Data Privacy Act of 2012) and other
 
@@ -639,7 +248,7 @@ laws/regulations, including all subsequent amendments or
 
 supplements thereto, relative to the confidentiality or secrecy of
 
-bank deposits/accounts, placements, investme nts and similar or
+bank deposits/accounts, placements, investments and similar or
 
 related assets in the custody of the ISSUER and/or its Related
 
@@ -647,7 +256,7 @@ Companies. CARDMEMBER shall hold ISSUER and/or its Related
 
 Companies, their directors, officers, employees, representatives
 
-and agents, free and harmless from any liability a rising from
+and agents, free and harmless from any liability arising from
 
 ISSUER’s, and/or its Related Companies’ exercise of their remedies
 
@@ -687,22 +296,18 @@ partial reconsideration, it could have simply submitted the terms and
 
 conditions signed by Complainant.
 
-> 9Ter ms and Conditions for issuance and use of the AE Credit Cards available at https://www. odb .com.ph/sites/default/files/pdf/A E-
-> TCS.pdf / March 2019 NPC Case no. 17001
-> ODC vs ODBand AE
-> Page
 
-10 of 24
+10 of 
 
 Nevertheless, this Commission finds this an appropriate
 
-response by RespondentODB to make its Terms and Conditions more
+response by Respondent ODB to make its Terms and Conditions more
 
 understandable to the subject and we expect the business to benefit
 
 from this action. This simple step that could be complemented by
 
-other accountability measures to be taken by RespondentODB , could
+other accountability measures to be taken by Respondent ODB , could
 
 help mitigate potential tension between them as data controller and
 
@@ -710,7 +315,7 @@ the d ata subjects like the complainant, in the future. This was a
 
 response that proves better allocation of time, effort and resources by
 
-RespondentODB to address ageold transparency matters with
+Respondent ODB to address age-old transparency matters with
 
 fairness to the data subject in mind.
 
@@ -740,23 +345,19 @@ transparency will both benefit Respondent ODB ’s clients and its
 
 business.
 
-WHEREFORE, for all th e foregoing, Respondent ODB ’s
+**WHEREFORE**, for all the foregoing, Respondent ODB’s **MOTION FOR RECONSIDERATION is hereby DENIED**.
 
-MOTION FOR RECONSIDERATION is hereby DENIED .
-
-SO ORDERED.
+**SO ORDERED.**
 
 Pasay City, Philippines.
 
-9 August 2019
+9 August 
 
 RAYMUND ENRIQUEZ LIBORO
 
-Privacy Commissioner NPC Case no. 17001
+Privacy Commissioner
 
-ODC vs ODB and AE
-
-CONCUR:
+I CONCUR:
 
 IVY D. PATDU
 
@@ -778,15 +379,9 @@ ODB Savings Account the outstanding balance from his AE Credit
 
 Card.
 
-In its 04 December 2017 Decision (“Decision”), 11 the Commission held
+In its 04 December 2017 Decision (“Decision”),[^36] the Commission held that ODB violated the principle of transparency, thus:
 
-that ODB violated the principle of transparency, thus:
-
-The respondent should have properly informed the complainant of its
-
-ability and intention to set off its legal claim. Even though the information
-
-required can be found within the terms and conditions of the credit card
+> The respondent should have properly informed the complainant of its ability and intention to set off its legal claim. Even though the information required can be found within the terms and conditions of the credit card
 
 agreement signed by the complainant, the way the complainant’s data was to
 
@@ -794,7 +389,7 @@ be processed remained opaque and buried in legalese. What is wanting from
 
 the Respondent is the transparency expected from banks when dealing with the
 
-public. 12
+public. 
 
 Not satisfied with the Decision, respondent ODB filed their Motion for
 
@@ -808,7 +403,6 @@ by the majority in their Resolution:
 
 compensation for as long as the elements under Article 1278 and 1279 are
 
-> 10
 
 “An Act Protecting Individual Personal Information In Information And Communications
 
@@ -816,15 +410,12 @@ Systems In The Government And The Private Sector, Creating For This Purpose A Na
 
 Privacy Commission, And For Other Purposes.”
 
-> 11
 
 ODC v. ODB and AE , NPC Case No. 17001, 04 December 2017.
 
-> 12
 
-Ibid., at p. 9. NPC Case no. 17001
+Ibid., at p. 9. NPC Case no. 
 
-ODC vs ODB and AE
 
 complied with and that the law does not require notification before setoff; (2)
 
@@ -838,7 +429,7 @@ the money against which the setoff would be applied once notice is served; and
 
 counter to the provisions of the Civil Code on legal compensation which is
 
-provided for in the Civil Code and not under the DPA. 13
+provided for in the Civil Code and not under the DPA. 
 
 In denying ODB ’s Motion for Partial Reconsideration, the majority
 
@@ -864,7 +455,7 @@ Complainant prior [sic] the actual setoff. Rather, it meant that the credit card
 
 terms and conditions of Respondent ODB should have complied with the
 
-principle of transparency. 15
+principle of transparency. 
 
 Expounding on the general data privacy principle of transparency, the
 
@@ -902,21 +493,17 @@ transparency. The former may be understandable to legal professionals and
 
 appreciated by the legal community while the latter should be understandable
 
-> 13
 
 Resolution, NPC Case No. 17001, pp. 23.
 
-> 14
 
 Ibid., at p. 3.
 
-> 15
 
-Id. NPC Case no. 17001
+Id. NPC Case no. 
 
-ODC vs ODB and AE
 
-to th e data subject and satisfy their desire to understand how their personal
+to the data subject and satisfy their desire to understand how their personal
 
 information will be used. The former addresses their broad legal mandate. The
 
@@ -924,7 +511,7 @@ latter fulfills compliance to the DPA. The former uses legalese. The latter uses
 
 clear and plain language that is easy to understand. Clearly, they must
 
-comprehend that the rules in the processing of personal data have changed. 16
+comprehend that the rules in the processing of personal data have changed. 
 
 The principle of transparency is indeed, as the majority has put it,
 
@@ -980,16 +567,10 @@ compensation / setoff. It must be noted that the matter of setoff /
 
 compensation is governed by a different law, i.e. the Civil Code of the
 
-Philippines, and not the Data Privacy Act. 19
+Philippines, and not the Data Privacy Act. 
 
-> 16 Ibid., at p. 5.
-> 17 Ibid., at p. 4.
-> 18 Ibid., at p. 9. Emphasis supplied.
-> 19 Motion for Partial Reconsideration dated 19 December 2017, p. 6.
 
-NPC Case no. 17001
 
-ODC vs ODB and AE
 
 In disregarding the Civil Code provisions on legal setoff and insisting
 
@@ -1027,7 +608,7 @@ authority for AE to debit my ODB account. Also, the business of AE was only
 
 acquired by the ODB group and thus, it is impossible for me to have signed any
 
-authority to debit. 20
+authority to debit. 
 
 As correctly summarized by respondent ODB :
 
@@ -1039,13 +620,13 @@ AE and ODB are different entities, and that the sharing of his deposit
 
 information is a violation of said law. He only claimed that he did not sign any
 
-agreement to debit his account or to autodebit his account. 21
+agreement to debit his account or to autodebit his account. 
 
 In its Decision dated 04 December 2017, the Commission already ruled
 
 on the issue of consent st ating that the complainant voluntarily gave
 
-his consent when he agreed to and signed the terms and conditions. 22
+his consent when he agreed to and signed the terms and conditions. 
 
 On the issue of data sharing, the Commission also held that since ODB
 
@@ -1053,17 +634,12 @@ and AE are one and the same entity in this jurisdiction, “the
 
 informati on was not shared with any affiliate or subsidiary of ODB
 
-> 20 Complainant’s email complaint to the National Privacy Commission dated 26 January 2017.
-> 21 Motion for Partial Reconsideration dated 19 December 2017, pp. 5 –6.
-> 22 Decision, NPC Case No. 17001, 04 December 2017, p. 8.
 
-NPC Case no. 17001
 
-ODC vs ODB and AE
 
 [and as such] there is no need to further discuss consent of the data
 
-subject and the absence of a data sharing agreement…” 23
+subject and the absence of a data sharing agreement…” 
 
 Since the complainant did not move for the reconsideration of these
 
@@ -1083,13 +659,13 @@ agencies in the exercise of their quasijudicial powers, the Supreme
 
 Court has repeatedly held that “ complainants bear the burden of
 
-proving th e allegations in their complaints by substantial evidence. If
+proving the allegations in their complaints by substantial evidence. If
 
 they fail to show in a satisfactory manner the facts upon which their
 
 claims are based, the respondents are not obliged to prove their
 
-exception or defense. ”24
+exception or defense. ”
 
 In this case, the majority found a supposed violation that was not only
 
@@ -1107,7 +683,7 @@ record to support the majority’s finding that ODB violated the
 
 principle of transparency.
 
-Den ial, without more, cannot rise to the level of substantial evidence.
+Denial, without more, cannot rise to the level of substantial evidence.
 
 This is all the more true in this case since the very thing the
 
@@ -1115,15 +691,8 @@ complainant is denying has already been decided by the Commission
 
 in favor of the respondent.
 
-> 23 Ibid., at p. 9.
-> 24 Re: Letter ofLucena Ofendo Reyes Alleging Illicit Activities Of A Certain Atty. Cajayon
-> Involving Cases In The Court Of Appeals, Cagayan De Oro City, A.M. No. 161203CA, 06 June
-> 2017.
-> 25 ODC Affidavit dated 03 February 2017.
 
-NPC Case no. 17001
 
-ODC vs ODB and AE
 
 To allow, as the majority d oes in this case, the mere claim of a data
 
@@ -1133,13 +702,13 @@ the contract they signed to result in a violation of the Data Privacy Act
 
 would cause great uncertainty in existing contracts with legitimate
 
-en ds.
+ends.
 
 Requirements of the Principle of
 
 Transparency
 
-The Resolution of the majority perpetuates th e misconception that
+The Resolution of the majority perpetuates the misconception that
 
 using legal language violates the principle of transparency
 
@@ -1147,7 +716,7 @@ While the Data Privacy Act of 2012 does not define “transparency,” the
 
 Implementing Rules and Regulations provide:
 
-a. Transparency. The data subject must be aware of the natu re,
+a. Transparency. The data subject must be aware of the nature,
 
 purpose, and extent of the processing of his or her personal data,
 
@@ -1155,15 +724,15 @@ including the risks and safeguards involved, the identity of personal
 
 information controller, his or her rights as a data subject, and how
 
-these can be exercised. Any information and co mmunication relating
+these can be exercised. Any information and communication relating
 
 to the processing of personal data should be easy to access and
 
-understand, using clear and plain language. 26
+understand, using clear and plain language. 
 
 Contrary to the majority’s condemnation of the use of legal language
 
-in privacy notices, consent forms, or terms and condit ions in its
+in privacy notices, consent forms, or terms and conditions in its
 
 exposition on the difference between legal transparency and user -
 
@@ -1179,7 +748,7 @@ of not capturing the complex concepts they represent.
 
 In explaining the “clear and plain language" requirement in the
 
-European Union’s (“EU”) General Data Pr otection Regulation
+European Union’s (“EU”) General Data Protection Regulation
 
 (“GDPR”), the independent European working party that dealt with
 
@@ -1189,11 +758,8 @@ as the Article 29 Working Party explained in its Guidelines on
 
 Transparency (“Guidelines”):
 
-> 26 IRR, Sec. 18.
 
-NPC Case no. 17001
 
-ODC vs ODB and AE
 
 The requi rement for clear and plain language means that information should
 
@@ -1205,13 +771,13 @@ should not be phrased in abstract or a mbivalent terms or leave room for
 
 different interpretations. In particular the purposes of, and legal basis for,
 
-processing the personal data should be clear. 27
+processing the personal data should be clear. 
 
 It further added that in structuring sentences, language qualifiers such
 
 as “may”, “might”, “some”, “often” and “possible” should be
 
-avoided. 28
+avoided. 
 
 Aside from the “clear and plain language" requirement, another
 
@@ -1229,13 +795,13 @@ Under the GDPR, it is required that the information or communication
 
 to be provided to data subjects should be “concise, transparent,
 
-intelligi ble and easily accessible.” 30 Although this specific language
+intelligible and easily accessible.” 30 Although this specific language
 
 did not find its way into either the Data Privacy Act or its IRR, it is
 
 nevertheless helpful to consider given that the principle of
 
-transparency was adopted from the European Commission’s Direc tive
+transparency was adopted from the European Commission’s Directive
 
 95/46/EC, the predecessor of the GDPR.
 
@@ -1245,29 +811,24 @@ endorsed by the European Data Protection Board, 31 they elaborated on
 
 the meaning of each of these additional elements, thus:
 
-> 27
 
-Guidelines on transparency under Regulation 2016/679 of the Article 29 Working Party, 11
+Guidelines on transparency under Regulation 2016/679 of the Article 29 Working Party, 
 
 April 2018, available at  https://ec.europa.eu/newsroom/article29/item -
 
 detail.cfm?item_id=622227 .
 
-> 28
 
 Ibid.
 
-> 29
 
 IRR, Sec. 18.
 
-> 30
 
 Regulation (EU) 2016/679 of the European Parliament and of the Council (General Data
 
 Protection Regulation), 27 April 2016.
 
-> 31
 
 European Data Protection Board Endorsement 1/2018, 25 May 2018, available at
 
@@ -1275,15 +836,14 @@ https://edpb.europa.eu/sites/edpb/files/files/news/endorsement_of_wp29_documents
 
 pdf.
 
-The European Data Protection Board, composed of the data protection authorities of th e Member
+The European Data Protection Board, composed of the data protection authorities of the Member
 
 States and the European Data Protection Supervisor, is an independent body with legal
 
 personality responsible for ensuring the consistent application of the General Data Protection
 
-Regulation. NPC Case no. 17001
+Regulation. NPC Case no. 
 
-ODC vs ODB and AE
 
 8. The requiremen t that the provision of information to, and communication
 
@@ -1325,7 +885,7 @@ and how this information can be accessed, for example by providing it directly
 
 to them, by linking them to it, by clearly signposting it or as an answer to a
 
-natural language question … 32
+natural language question … 
 
 i. What information is required to
 
@@ -1339,7 +899,7 @@ that is governed by the terms and conditions found in the card
 
 membership agreement. 33 Such terms and conditions constitute the
 
-law between the parties. 34
+law between the parties. 
 
 To determine the content of the privacyrelat ed information that
 
@@ -1347,26 +907,23 @@ should be provided to data subjects, we look at the prescribed
 
 information covered by the data subject’s right to information:
 
-> 32
 
-Guidelines on Transparency under Regulation 2016/679 of the Article 29 Working Party, 11
+Guidelines on Transparency under Regulation 2016/679 of the Article 29 Working Party, 
 
 April 2018, available at  https://ec.europa.eu/newsroom/article29/item -
 
 detail.cf m?item_id=622227 . Emphasis and underscoring supplied.
 
-> 33
 
 Pantaleon v. American Express International, Inc (2010). GR No. 174269 .
 
-> 34
 
-BPI Express Card Corporation v. Armovit (2014). GR No. 163654. NPC Case no. 17001
+BPI Express Card Corporation v. Armovit (2014). GR No. 163654. NPC Case no. 
 
 > ODC vs ODBand AE
 > Page
 
-19 of 24
+19 of 
 
 (1) whether personal information pertaining to him shall be, are
 
@@ -1396,7 +953,7 @@ controller or its representative;
 
 (8) the existence of their rights, i.e. to access, correction, as well
 
-as the right to lodge a complaint before the Commission. 35
+as the right to lodge a complaint before the Commission. 
 
 Following the abovementioned Guidelines on Transparency, the
 
@@ -1424,14 +981,8 @@ should not be overly burdened with unreasonable impositions of
 
 simplification on the supposed reliance on the transparency principle.
 
-> 35 Section 16(b), RA 10173.
-> 36 Guidelines on Transparency unde r Regulation 2016/679 of the Article 29 Working Party, 11
-> April 2018, available at https://ec.europa.eu/newsroom/article29/item -
-> detail.cfm?item_id=622227 .
 
-NPC Case no. 17001
 
-ODC vs ODB and AE
 
 ii. What is the required manner of
 
@@ -1469,7 +1020,7 @@ content must be accessible for those children. In the same sense that if
 
 a company handles data related to a common person then the reading
 
-level should be understood by a common person.” 37
+level should be understood by a common person.” 
 
 While the majority’s statements in its Resolution are not incorrect, they
 
@@ -1489,18 +1040,10 @@ working professionals can assume its audience has a higher level of
 
 understanding than a controller that obtains the personal data of
 
-children.” 38
+children.” 
 
-> 37 Resolution, NPC Case No. 17001, p. 4, citing Fergal McGovern, The GDPR and Plain Language:
-> What you need to do to comply, available at https://www.cmswire.com/digitalexperience/the -
-> gdprandplainlanguagewhatyouneedtodotocomply/.
-> 38 Guidelines on Transparency under Regulation 2016/679 of the Article 29 Working Party, 11
-> April 2018, available at https://ec.europa.eu/newsroom/article29/item -
-> detail.cfm?item_id=622227 . Emphasis s upplied.
 
-NPC Case no. 17001
 
-ODC vs ODB and AE
 
 The 2013 version of the AE Terms and Conditions provide:
 
@@ -1534,7 +1077,7 @@ c) Any funds of the CARDMEMBER that may now or later be in the hands of
 
 the I SSUER or any of its Related Companies will be applied and set off against
 
-any amounts due and payable on the CARDMEMBER’s CARD account. 39
+any amounts due and payable on the CARDMEMBER’s CARD account. 
 
 From the earlier discussion on the requirement of “clear and plain
 
@@ -1568,12 +1111,8 @@ card is the highest tier nondollar charge credit card offered by AE and
 
 requires a minimum annual income of Php 1,800,000.00 in order to
 
-> 39 Respondent ODB ’s Comment dated 05 April 2017, Annex “8”. Emphasis supplied.
-> 40 Complainant’s email complaint to the National Privacy Commission dated 26 January 2017.
 
-NPC Case no. 17001
 
-ODC vs ODB and AE
 
 qualify. 41 It is reasonable to expect that average member of the
 
@@ -1653,15 +1192,8 @@ authorized by the CARDMEMBER to set
 
 off as full or partial payment, and/or
 
-> 41 See https://www.americanexpress.com/ph/network/productlanding/membership -
-> rewards.html.
-> 42 Terms and Conditions for issuance and use of the AE Credit Cards available at
-> https://www. odb .com/ph/sites/default/files/pdf/ AETCS.pdf/March2019
-> 43 Resol ution, NPC Case No. 17001, p. 9.
 
-NPC Case no. 17001
 
-ODC vs ODB and AE
 
 Related Companies or both, on deposit
 
@@ -1709,7 +1241,7 @@ against any amounts due and payable
 
 on the CARDMEMBER’s CARD
 
-account. 44
+account. 
 
 withhold, to the extent permitted by law,
 
@@ -1791,7 +1323,7 @@ hereby waives his/her rights in favor of
 
 the ISSUER and/or its Related
 
-Companies under…Republic Act 10173
+Companies under…Republic Act 
 
 (Data Privacy Ac t of 2012) and other
 
@@ -1805,15 +1337,12 @@ secrecy of bank deposits, accounts,
 
 placements, investments and similar or
 
-> 44 Respondent B ODB ’s Comment dated 05 April 2017, Annex “8”. Emphasis supplied.
 
-NPC Case no. 17001
 
-ODC vs ODB and AE
 
 related assets in the custody of the ISSUER
 
-and /or its Related Companies. 45
+and /or its Related Companies. 
 
 Contrary to how the majority finds the 2019 version as an “appropriate
 
@@ -1823,7 +1352,7 @@ understandable to the subject [sic],” 46 even a cursory reading of the
 
 two versions woul d show that they are substantially the same on all
 
-the important points except that subsections (b) and (c) in the 2013
+the important points except that subsections (b) and (c) in the 
 
 version have now been merged into subsection (b) in the 2019 version.
 
@@ -1856,3 +1385,50 @@ of the principle of transparency.
 LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
+
+
+[^1]: Records, p. 19.
+[^2]: Decision dated 04 December 2017 at p. 9; Penned by Privacy Commissioner Raymund E. Liboro with Deputy Privacy Commissioner Ivy Patdu concurring.
+[^3]: *Id.*, at p. 9.
+[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector (Data Privacy Act of 2012) Chapter III Section 11.
+[^5]: Recital 39 of the European General Data Protection Regulation (GDPR) available at http://www.privacyregulation.eu/en/recital-39GDPR.htm
+[^6]: Fergal McGovern, The GDPR and Plain Language: What you need to do to comply, available at https://www.cmswire.com/digital-experience/the-gdpr-and-plain-language-what-you-need-to-do-to-comply/, October 18, 2017.
+[^7]: National Privacy Circular 17-01 Registration of Data Processing Systems and Notification Regarding Automated Decision Making.
+[^8]: Terms and Conditions for issuance and use of the AE Credit Cards available at https://www.odb.com.ph/sites/default/files/pdf/AE-TCS.pdf / October 2013
+[^9]: Terms and Conditions for issuance and use of the AE Credit Cards available at https://www.odb.com.ph/sites/default/files/pdf/AE-TCS.pdf / March 2019
+[^10]: "An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes."
+[^11]: ODC v. ODB and AE, NPC Case No. 17-001, 04 December 2017.
+[^12]: *Ibid.*, at p. 9.
+[^13]: Resolution, NPC Case No. 17-001, pp. 2–3.
+[^14]: *Ibid.*, at p. 3.
+[^15]: *Id.*
+[^16]: *Ibid.*, at p. 5.
+[^17]: *Ibid.*, at p. 4.
+[^18]: *Ibid.*, at p. 9. Emphasis supplied.
+[^19]: Motion for Partial Reconsideration dated 19 December 2017, p. 6.
+[^20]: Complainant's email complaint to the National Privacy Commission dated 26 January 2017.
+[^21]: Motion for Partial Reconsideration dated 19 December 2017, pp. 5–6.
+[^22]: Decision, NPC Case No. 17-001, 04 December 2017, p. 8.
+[^23]: *Ibid.*, at p. 9.
+[^24]: Re: Letter of Lucena Ofendo Reyes Alleging Illicit Activities Of A Certain Atty. Cajayon Involving Cases In The Court Of Appeals, Cagayan De Oro City, A.M. No. 16-12-03-CA, 06 June 2017.
+[^25]: ODC Affidavit dated 03 February 2017.
+[^26]: IRR, Sec. 18.
+[^27]: Guidelines on transparency under Regulation 2016/679 of the Article 29 Working Party, 11 April 2018, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=622227.
+[^28]: *Ibid.*
+[^29]: IRR, Sec. 18.
+[^30]: Regulation (EU) 2016/679 of the European Parliament and of the Council (General Data Protection Regulation), 27 April 2016.
+[^31]: European Data Protection Board Endorsement 1/2018, 25 May 2018, available at https://edpb.europa.eu/sites/edpb/files/files/news/endorsement_of_wp29_documents_en_0.pdf.
+[^32]: Guidelines on Transparency under Regulation 2016/679 of the Article 29 Working Party, 11 April 2018, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=622227. Emphasis supplied.
+[^33]: Section 16(b), RA 10173.
+[^34]: Guidelines on Transparency under Regulation 2016/679 of the Article 29 Working Party, 11 April 2018, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=622227. Emphasis supplied.
+[^35]: Section 16(b), RA 10173.
+[^36]: Guidelines on Transparency under Regulation 2016/679 of the Article 29 Working Party, 11 April 2018, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=622227.
+[^37]: Resolution, NPC Case No. 17-001, p. 4, citing Fergal McGovern, The GDPR and Plain Language: What you need to do to comply, available at https://www.cmswire.com/digital-experience/the-gdpr-and-plain-language-what-you-need-to-do-to-comply/.
+[^38]: Guidelines on Transparency under Regulation 2016/679 of the Article 29 Working Party, 11 April 2018, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=622227. Emphasis supplied.
+[^39]: Respondent ODB's Comment dated 05 April 2017, Annex "8". Emphasis supplied.
+[^40]: Complainant's email complaint to the National Privacy Commission dated 26 January 2017.
+[^41]: See https://www.americanexpress.com/ph/network/product-landing/membership-rewards.html.
+[^42]: Terms and Conditions for issuance and use of the AE Credit Cards available at https://www.odb.com.ph/sites/default/files/pdf/AE-TCS.pdf/March2019
+[^43]: Resolution, NPC Case No. 17-001, p. 9.
+[^44]: Respondent ODB's Comment dated 05 April 2017, Annex "8". Emphasis supplied.
+[^45]: Terms and Conditions for issuance and use of the AE Credit Cards available at https://www.odb.com.ph/sites/default/files/pdf/AE-TCS.pdf/March2019. Emphasis supplied.

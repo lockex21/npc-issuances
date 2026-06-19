@@ -206,19 +206,13 @@ This is without prejudice to the filing of the appropriate civil, criminal, or a
 City of Pasay, Philippines.
 12 December 2024.
 
-SGD
-
 JOHN HENRY D. NAGA
 Privacy Commissioner
 
 WE CONCUR:
 
-SGD
-
 LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
-
-SGD
 
 NERISSA N. DE JESUS
 Deputy Privacy Commissioner
@@ -226,15 +220,15 @@ Deputy Privacy Commissioner
 Copy furnished:
 
 ALS
-Complainant
+*Complainant*
 
 RCM
-Counsel for the Complainant
+*Counsel for the Complainant*
 
 MCB
 AME
 MDA
-Counsels for the Respondent
+*Counsels for the Respondent*
 
 PHILIPPINE NATIONAL BANK
 

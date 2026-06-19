@@ -26,40 +26,19 @@ Dear [Redacted],
 We write in response to your request for advisory opinion on whether your company, the
 Manila Shipmanagement & Manning, Inc. (Manship) may grant the request of the Maritime
 Industry Authority (MARINA) for certain personal data of seafarers, and whether the
-requested information is not covered by the Data Privacy Act of 20121 (DPA) as it falls under
+requested information is not covered by the Data Privacy Act of 2012[^1] (DPA) as it falls under
 Section 4 (e) of the DPA, as “information necessary in order to carry out its statutorily
 mandated functions,” and in light of Section 4.15, Rule I of the Implementing Rules and
-Regulations (IRR) of Executive Order No. 75, series of 20122 (E.O. No. 75).
+Regulations (IRR) of Executive Order No. 75, series of 2012[^2] (E.O. No. 75).
 
 ### Discussion
 
 We understand that Manship is a manning agency duly licensed by the Philippine Overseas
 Employment Administration (POEA) to engage in the recruitment and placement of qualified
 Filipino seafarers for vessels plying international waters and for related maritime activities.
-On the other hand, pursuant to E.O. No. 75 (2012)3 as well as Republic Act (R.A.) No. 10635,4
+On the other hand, pursuant to E.O. No. 75 (2012)[^3] as well as Republic Act (R.A.) No. 10635,[^4]
 the MARINA is the authority responsible for the oversight and supervision of maritime
 education, training, and certification of seafarers in accordance with the International
-
-1 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012],
-Republic Act No. 10173 (2012).
-2 Office of the President, Designating the Department of Transportation and Communications (DOTC), Through the Maritime
-
-Industry Authority, as the Single Administration in the Philippines Responsible for Oversight in the Implementation of the
-1978 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, as Amended [E.O.
-No. 75] (Apr. 30, 2012).
-3 E.O. No. 75, § 1 - STCW Administration. The Department of Transportation and Communications (DOTC) through the
-
-MARINA shall exercise oversight and supervision over compliance with all qualification requirements and conditions under
-the STCW Convention, as amended, relating to maritime education, training and certification, subject to existing and
-applicable laws.
-4 An Act Establishing the Maritime Industry Authority (MARINA) as the Single Maritime Administration Responsible for
-
-the Implementation and Enforcement of the 1978 International Convention on Standards of Training, Certification and
-Watchkeeping for Seafarers, as Amended, and International Agreements or Covenants Related thereto, Republic Act No.
-10635 (2014).
-
 Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW).
 In particular, Section 4(a) and (b) of RA No. 10635 provides:
 
@@ -94,8 +73,8 @@ dishonest seafarers.
 
 At the outset, we clarify that the provisions of the DPA applies to the processing of all types
 of personal information and to any natural and juridical person involved in personal
-information processing.5 However, the law provides under Section 4 the particular types of
-information that are considered as special cases excluded from its scope and application.6
+information processing.[^5] However, the law provides under Section 4 the particular types of
+information that are considered as special cases excluded from its scope and application.[^6]
 
 We affirm that the requested information by MARINA falls under Section 4 of the DPA, as
 expounded in Section 5 of its IRR, in particular, paragraph (d) which states:
@@ -103,9 +82,6 @@ expounded in Section 5 of its IRR, in particular, paragraph (d) which states:
    Section 5. Special Cases. The Act and these Rules shall not apply to the following
              specified information, only to the minimum extent of collection, access, use, disclosure
              or other processing necessary to the purpose, function, or activity concerned:
-
-5 Data Privacy Act of 2012, § 4.
-6 Id.
 
    xxx         xxx       xxx
 
@@ -126,7 +102,7 @@ expounded in Section 5 of its IRR, in particular, paragraph (d) which states:
        requirements of implementing security measures for personal data protection: Provided
        further, that the processing of the information provided in the preceding paragraphs shall
        be exempted from the requirements of the Act only to the minimum extent necessary to
-       achieve the specific purpose, function, or activity.7 (Emphasis supplied)
+       achieve the specific purpose, function, or activity.[^7] (Emphasis supplied)
 
 As may be gleaned from the above provisions, however, the exemption is not absolute. The
 exclusion of such information from the scope of the law is limited to the minimum extent of
@@ -143,16 +119,10 @@ with the requirements of the STCW Convention.”
 
 More importantly, paragraph 12 of Regulation I/2 of the Manila Amendments to the Annex
 to the 1978 International Convention on Standards of Training, Certification and
-Watchkeeping for Seafarers (the STCW Convention)8 (the Manila Amendments) decrees that,
+Watchkeeping for Seafarers (the STCW Convention)[^8] (the Manila Amendments) decrees that,
 “Each Party shall ensure that certificates are issued only to candidates who comply with the
 requirements of this regulation.” Furthermore, paragraphs 1 and 2 of Regulation I/5 therein
 states:
-
-7 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 4 (2016).
-8 International Maritime Organization, & International Conference on Training and Certification of Seafarers. STCW 1978:
-
-International Convention on Standards of Training, Certification, and Watchkeeping for Seafarers, 1978 : with resolutions
-adopted by the International Conference on Training and Certification of Seafarers, 1978.
 
    Each Party shall establish processes and procedures for the impartial investigation of any
         reported incompetency, act, omission or compromise to security that may pose a direct
@@ -182,26 +152,17 @@ Commissioner’s Office (ICO) produced a guide on the provisions of the Regulati
 
 According to the guide, “necessary” means that the processing must be a targeted and
 proportionate way of achieving the purpose. An organization does not have a lawful basis for
-processing if there is another reasonable and less intrusive way to achieve the same result.9
+processing if there is another reasonable and less intrusive way to achieve the same result.[^9]
 
 In the same manner, the principle of proportionality under the DPA requires a determination
 of what information are actually required for the fulfillment of a declared, specified, and
-legitimate purpose.10
+legitimate purpose.[^10]
 
 According to MARINA , the purpose for requesting information is to prevent the issuance of
 STCW-related certificates to dishonest seafarers. As mentioned earlier, the dates for which the
 disability claims were filed by the seafarers are included in the requested information. These
 consist of all types of claims such as whether the disability claim is permanent or temporary,
 and whether the case filed is pending or promulgated.
-
-9 UK Information Commissioner’s Office, Guide on the General Data Protection Regulation (GDPR): Public task, p. 76,
-
-available at https://ico.org.uk/media/for-organisations/guide-to-the-general-data-protection-regulation-gdpr-1-0.pdf (last
-accessed Oct. 23, 2018).
-10 Rules and Regulations Implementing the Data Privacy Act of 2012, § 18(c) (2016) - Proportionality. The processing of
-
-information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.
-Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.
 
 To clarify, the MARINA, may process only those information which are necessary to carry out
 its mandates or functions, and shall be used for the specified purpose only. In this case,
@@ -241,16 +202,13 @@ In relation to this, one of the conditions for certification is medical fitness 
    (ii) Ensure that medical certificates are issued by a duly-qualified medical practitioner
            recognized by and accredited with the DOH, and for this purpose, a register of
            recognized medical practitioners shall be maintained and made available to seafarers,
-           shipping companies and State parties to the STCW Convention.11
+           shipping companies and State parties to the STCW Convention.[^11]
 
 Furthermore, the International Labour Organization and International Maritime Organization
 developed a guideline aimed at providing maritime administrations with an internationally
-
-11 R.A. No. 10635, § 4(c)(5)
-
 recognized set of criteria for use by competent authorities either directly or as the basis for
 framing national medical examination standards that will be compatible with international
-requirements.12 According to part IV of the guidelines:
+requirements.[^12] According to part IV of the guidelines:
 
    The medical certificate is neither a certificate of general health nor a certification of the
        absence of illness. It is a confirmation that the seafarer is expected to be able to meet the
@@ -260,7 +218,7 @@ requirements.12 According to part IV of the guidelines:
        practitioner, who will have to establish, using clinical skills, whether the seafarer meets
        the standards for all anticipated routine and emergency duties specific to their
        individual post and whether any routine or emergency duties need to be modified to
-       enable them to be performed safely and effectively.13 (Emphasis Supplied)
+       enable them to be performed safely and effectively.[^13] (Emphasis Supplied)
 
 In view of the aforementioned, it is clear that the MARINA has a responsibility to guarantee
 that all medical certificates issued are in accordance with the standards established by the
@@ -289,13 +247,8 @@ International Labour Organization and International Maritime Organization, which
        seafarer. Personal medical information should not be included on medical certificates
        or other documents made available to others following the medical examination. The
 
-12 International Labour Organization and International Maritime Organization. (2013). Guidelines on the medical
-
-examinations of seafarers, p.7 (available at: https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---
-13 Id., p.9.
-
    seafarer should have the right of access to and receipt of a copy of his/her personal
-       medical data.14 (Emphasis Supplied)
+       medical data.[^14] (Emphasis Supplied)
 
 Taking into account the discussions, only adjudicated cases where an award for personal
 disability has been granted with finality may be disclosed, with due notice to seafarer. As to
@@ -321,6 +274,30 @@ Noted by:
 Deputy Privacy Commissioner
 Officer-In-Charge
 
-14 International Labour Organization and International Maritime Organization. (2013). Guidelines on the medical
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 
-examinations of seafarers, p.13 (available at: https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---
+[^2]: Office of the President, Designating the Department of Transportation and Communications (DOTC), Through the Maritime Industry Authority, as the Single Administration in the Philippines Responsible for Oversight in the Implementation of the 1978 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, as Amended [E.O. No. 75] (Apr. 30, 2012).
+
+[^3]: E.O. No. 75, § 1 - STCW Administration. The Department of Transportation and Communications (DOTC) through the MARINA shall exercise oversight and supervision over compliance with all qualification requirements and conditions under the STCW Convention, as amended, relating to maritime education, training and certification, subject to existing and applicable laws.
+
+[^4]: An Act Establishing the Maritime Industry Authority (MARINA) as the Single Maritime Administration Responsible for the Implementation and Enforcement of the 1978 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, as Amended, and International Agreements or Covenants Related thereto, Republic Act No. 10635 (2014).
+
+[^5]: Data Privacy Act of 2012, § 4.
+
+[^6]: Id.
+
+[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 4 (2016).
+
+[^8]: International Maritime Organization, & International Conference on Training and Certification of Seafarers. STCW 1978: International Convention on Standards of Training, Certification, and Watchkeeping for Seafarers, 1978 : with resolutions adopted by the International Conference on Training and Certification of Seafarers, 1978.
+
+[^9]: UK Information Commissioner's Office, Guide on the General Data Protection Regulation (GDPR): Public task, p. 76, available at https://ico.org.uk/media/for-organisations/guide-to-the-general-data-protection-regulation-gdpr-1-0.pdf (last accessed Oct. 23, 2018).
+
+[^10]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18(c) (2016) - Proportionality. The processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.
+
+[^11]: R.A. No. 10635, § 4(c)(5)
+
+[^12]: International Labour Organization and International Maritime Organization. (2013). Guidelines on the medical examinations of seafarers, p.7 (available at: https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---sector/documents/normativeinstrument/wcms_174794.pdf )
+
+[^13]: Id., p.9.
+
+[^14]: International Labour Organization and International Maritime Organization. (2013). Guidelines on the medical examinations of seafarers, p.13 (available at: https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---sector/documents/normativeinstrument/wcms_174794.pdf )

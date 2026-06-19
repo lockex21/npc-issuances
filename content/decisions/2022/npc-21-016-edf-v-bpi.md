@@ -208,7 +208,7 @@ I CONCUR:
 JOHN HENRY D. NAGA
 Privacy Commissioner
 
-DENG CHRISTOPHER B. MAH
+DUG CHRISTOPHER B. MAH
 Deputy Privacy Commissioner
 
 Copy furnished:

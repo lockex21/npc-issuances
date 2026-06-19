@@ -44,6 +44,8 @@ AGUIRRE, D.P.C.
 
 For consideration of this Commission is the Affidavit-Complaint by Complainant RBG dated 01 June 2018 against Respondent CB for an indeterminate violation of the Data Privacy Act (DPA).
 
+### These Proceedings
+
 On 24 July 2018, this Commission, through the Complaints and Investigations Division (CID), issued an Order for the parties to confer for discovery on 14 August 2018. On 13 August 2018, the counsel for respondent filed a formal entry of appearance with Motion [to] Reset Hearing due to a prior scheduled hearing of counsel even before he was engaged for this case.[^1]
 
 On 14 August 2018, the complainant and her counsel appeared at the Discovery Conference, where the CID gave a verbal order to complainants to file written interrogatories for the respondent to answer. On 20 August, the complainant, through counsel, filed “Proposed Queries of the Complainant for the Respondent to Answer.”[^2]
@@ -60,22 +62,11 @@ On the basis of these, the following facts are established:
 
 The complainant and the respondent are siblings. The complainant resides in New Jersey, United States. On 30 May 2017, the Philippine Statistics Authority (PSA), Sta. Mesa branch, acting on a letter-request allegedly by the complainant, released two (2) marriage certificates which matched the name “RCB” – one between her and a certain JM dated 18 September 1977, and another with a certain VG dated 16 June 1983.[^8] Along with the two documents was a certification by National Statistician and Civil Registrar General LSB.[^9] The complainant was not in the Philippines for the whole month of May 2017.[^10]
 
-Sometime in August 2017, the respondent filed a bigamy case against the complainant and her present husband, VG, with the City Prosecutor’s Office of Manila.[^11] The counsel of complainant wrote the PSA to request for a copy of the letter request allegedly signed by the complainant and the copy of the acknowledgment receipt and
-
-> 4Ibid at p.38.
-> 5Ibid at p.41.
-> 6Ibid at p.39 -40.
-> 7Ibid at 44 -47.
-> 8Ibid at 50 -54.
-> 9Ibid at 55.
-> 10 Ibid at 64.
-> 11 Id. Decision
-> CID Case No. 18 -F-064
-> Page 3of 7
-
-authorization of the person who received the marriage contracts of the complainant.[^12] The PSA, through the Assistant National Statistician, replied that they cannot provide a copy of the requested documents, despite exhausting all efforts.[^13]
+Sometime in August 2017, the respondent filed a bigamy case against the complainant and her present husband, VG, with the City Prosecutor’s Office of Manila.[^11] The counsel of complainant wrote the PSA to request for a copy of the letter request allegedly signed by the complainant and the copy of the acknowledgment receipt and authorization of the person who received the marriage contracts of the complainant.[^12] The PSA, through the Assistant National Statistician, replied that they cannot provide a copy of the requested documents, despite exhausting all efforts.[^13]
 
 In a resolution dated 12 December 2017, the Office of the City Prosecutor of Manila dismissed the complaint for bigamy[^14] as well as the Motion for Reconsideration.[^15]
+
+### Arguments of the Parties
 
 The Complainant now comes to the Commission to file a case against the respondent for an unspecified violation of the DPA. In her Affidavit Complaint, she alleges that she was taking a tour in Europe during the time her marriage certificates were requested from the PSA.[^16] She alleges that she never requested for a copy of her marriage certificates as she was not in need of it, neither did she authorize the respondent to make the said request. She claims that the respondent forged her signature and later used the marriage certificates to file a bigamy case against her despite his knowledge that her first marriage was annulled. She asserts the respondent intends to malign, besmirch, and destroy her reputation by obtaining the marriage certificates and filing the bigamy case against her. She alleges that the respondent, in falsifying her signature in the letter request, did not just violate the DPA but also the PSA Office Memorandum No. 2017-050 dated 17 April 2017 which provides that a marriage certificate can only be released to the owner or their representative.[^17]
 
@@ -103,7 +94,7 @@ The respondent’s Responsive Comment was also filed on 26 September 2018.
 
 The respondent having submitted the pleadings two (2) days from receipt of the Order, or within the five and ten day reglementary periods provided, and the complainant not having presented any evidence to support her allegations, the Commission finds that there is no ground to grant the complainant’s Ex-Parte Motion to Declare the Respondent as in Default.
 
-The respondent did not commit a violation that warrants a recommendation for prosecution under the Data Privacy Act of 2012.
+*The respondent did not commit a violation that warrants a recommendation for prosecution under the Data Privacy Act of 2012.*
 
 The complaint is premised on the allegation of falsification of the letter-request to the PSA for the release of the two (2) marriage certificates.
 
@@ -127,8 +118,6 @@ As such, on the basis of all the evidence presented, the Commission finds that t
 
 The Commission therefore resolves to dismiss the complaint for lack of substantial evidence required in establishing cases before quasi-judicial bodies.
 
-### Dispositive Portion
-
 **WHEREFORE**, all these premises considered, the Commission resolves to:
 
 (1) **DENY** the Motion to Declare the Respondent as In Default filed by Complainant RBG; and
@@ -140,26 +129,33 @@ The Commission therefore resolves to dismiss the complaint for lack of substanti
 Pasay City, 19 November 2019.
 
 LEANDRO ANGELO Y. AGUIRRE
+
 Deputy Privacy Commissioner
 
 Concurring:
 
 IVY D. PATDU
+
 Deputy Privacy Commissioner
 
 RAYMUND ENRIQUEZ LIBORO
+
 Privacy Commissioner
 
 Copy furnished:
 
 Atty. ERY
+
 Counsel for Complainant
 
 Atty. CNE
+
 Counsel for Respondent
 
 ENFORCEMENT DIVISION
+
 GENERAL RECORDS UNIT
+
 National Privacy Commission
 
 [^1]: Records, p. 23-25.

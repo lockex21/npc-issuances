@@ -17,18 +17,17 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-    6 October 2021
 
-   Re:        REQUEST FOR THE STATUS OF APPLICATION AND THE
-                             LIST OF BENEFICIARIES OF THE SITIO ELECTRIFICATION
-                             PROGRAM (SEP)
+6 October 2021
+
+Re: REQUEST FOR THE STATUS OF APPLICATION AND THE LIST OF BENEFICIARIES OF THE SITIO ELECTRIFICATION PROGRAM (SEP)
 
 Dear [Redacted],
 
 We write in response to your request for guidance on whether the Local Government of
 Infanta, Quezon (Infanta LGU) can lawfully request for certain information from the Quezon
 II Electric Cooperative, Inc. (QUEZELCO II) in relation to the Sitio Electrification Program
-(SEP) without violating the provisions of the Data Privacy Act of 20122 (DPA).
+(SEP) without violating the provisions of the Data Privacy Act of 2012[^2] (DPA).
 
 We understand that the QUEZELCO II launched the SEP in 2019. The Infanta LGU supports
 the implementation of the SEP to ensure basic utilities are provided to far-flung communities
@@ -43,11 +42,6 @@ there were instances where the necessary permits were instead issued by another 
 To address this, the Infanta LGU requested from QUEZELCO II copies of the SEP applications,
 including the supporting documents to verify the validity of the applications. QUEZELCO II
 denied the request stating that consent of the applicants was needed. The Infanta LGU
-
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Republic Act No. 10173 (2012).
-
 thereafter just requested QUEZELCO II to provide the status of application of each target
 beneficiary using the List of Households provided by the QUEZELCO II to the Infanta LGU.
 Specifically, the following are requested: 1) whether each beneficiary already has an approved
@@ -72,22 +66,21 @@ As defined, consent refers to “any freely given, specific, informed indication
 the data subject agrees to the collection and processing of personal information about and/or
 relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It
 may also be given on behalf of the data subject by an agent specifically authorized by the data
-subject to do so.”3
+subject to do so.”[^3]
 
 Note that consent is not an appropriate basis for processing in instances where there is a clear
 imbalance of power between the data subject and the personal information controller (PIC) as
 it is unlikely that consent will be freely given.
 
 Given the above, the LGU can rely on other lawful bases for processing, specifically its
-mandate under the Local Government Code of the Philippines4 or any other applicable laws,
+mandate under the Local Government Code of the Philippines[^4] or any other applicable laws,
 rules, and regulations in relation to Sections 12 (c) and (e) on processing for compliance with
 legal obligations or when necessary to fulfill functions of a public authority, for the processing
 of personal information. For sensitive personal information, Sections 13 (b) and (f) on
 processing that is based on laws as well as that which is necessary for the establishment,
 exercise, or defense of legal claims may be applicable.
 
-General data privacy principles; proportionality;
-safeguards
+#### General Data Privacy Principles; Proportionality; Safeguards
 
 We wish to reiterate that while there may be a lawful basis for processing under the DPA, the
 Infanta LGU must still adhere to the general data privacy principles of transparency,
@@ -96,11 +89,7 @@ legitimate purpose, and proportionality.
 Specifically for proportionality, the processing of personal data shall be adequate, relevant,
 suitable, necessary, and not excessive in relation to a declared and specified purpose and
 personal data shall be processed only if the purpose of the processing could not reasonably be
-
-3 Data Privacy Act of 2012, § 3 (b).
-4 An Act Providing for a Local Government Code of 1991 [Local Government Code of 1991], Republic Act No. 7160 (1991).
-
-fulfilled by other less intrusive means.5
+fulfilled by other less intrusive means.[^5]
 
 In keeping with the said principle, we acknowledge the concession made by the Infanta LGU
 when it revised and limited its request to the three items mentioned above instead of insisting
@@ -125,4 +114,10 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-5 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+
+[^3]: Data Privacy Act of 2012, § 3 (b).
+
+[^4]: An Act Providing for a Local Government Code of 1991 [Local Government Code of 1991], Republic Act No. 7160 (1991).
+
+[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).

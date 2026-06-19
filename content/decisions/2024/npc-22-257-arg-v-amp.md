@@ -117,7 +117,7 @@ Whether Dr. AMP violated Section 25 of the DPA (Unauthorized Processing) when he
 
 The Commission dismisses the case for lack of merit.
 
-#### I. Dr. AMP is not liable under Section 25 of the DPA (Unauthorized Processing).
+#### I. Dr. AMP is not liable under Section 25 of the DPA (Unauthorized Processing)
 
 Section 25 of the DPA provides:
 

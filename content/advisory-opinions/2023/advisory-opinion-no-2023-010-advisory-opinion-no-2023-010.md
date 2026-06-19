@@ -1,9 +1,6 @@
 ---
-title: NPC Advisory Opinion No. 2023-010 — Collection of Personal Data of Property
-  Owners/residents for Community Development Projects
-description: You also mentioned that the Academy’s Data Privacy Office and ITSU are
-  currently revisiting the policies on the usage of VoIP phones since the current
-  policy does not include conve
+title: "NPC Advisory Opinion No. 2023-010 — Recording of Telephone Conversations Through Voice Over Internet Protocol (VoIP) System"
+description: "Addresses whether the automatic conversation recording feature of a VoIP phone system can lead to violations of the Data Privacy Act and discusses the lawful bases, transparency, proportionality, and reasonable expectation of privacy in workplace recording."
 tags:
 - issuance
 - type/advisory-opinion
@@ -11,47 +8,60 @@ tags:
 draft: false
 ---
 
-Re: COLLECTION OF PERSONAL DATA OF PROPERTY OWNERS/RESIDENTS FOR COMMUNITY DEVELOPMENT PROJECTS
-
-Dear [Redacted],
-
 ## Source
+
 - Reference: Advisory Opinion No. 2023-010
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Advisory-Opinion-No.-2023-010.pdf
+- Issue date: 02/15/2023
+- Tags: lawful processing; legitimate interest; proportionality; security measures
 - OCR used during extraction: no
+
+## Text
+
+15 February 2023
+
+Re: RECORDING OF TELEPHONE CONVERSATION THROUGH VOICE OVER INTERNET PROTOCOL (VoIP) SYSTEM
+
+Dear [Redacted],
+We respond to your query about the conversation recording feature of the Voice Over Internet Protocol (VoIP) telephone system of the Philippine Merchant Marine Academy (Academy).
+
+You explained in your letter that the VoIP phone is a hardware or software-based telephone that is designed to use VoIP technology to send and receive calls over an IP network. Through this technology, calls can be recorded entirely in the cloud or on-premises with VoIP call recording software. You mentioned that the system automatically records and saves outgoing telephone calls. The system is being managed by your Information Technology Services Unit (ITSU) which released a policy on the use of VoIP phones, as follows:
+
+Personnel shall not use the Services for any illegal, fraudulent, improper, or abusive purpose.
+
+1. Use PMMA Phones for business purposes only and preserve them in perfect condition.
+2. The international call is available for an additional fee.
+3. Except in the case of employees provided with private telephone lines, all outgoing telephone calls shall course through the Information Operator.
+4. The telephone operator shall be obliged to maintain the telephone logbook and submit it to the respective authority at the end of the month.
+
+You also mentioned that the Academy’s Data Privacy Office and ITSU are currently revisiting the policies on the usage of VoIP phones since the current policy does not include conversation recording. Neither have the employees been notified of this recent feature.
+
+You thus ask whether the automatic conversation recording feature of the VoIP phone can lead to a possible violation of the DPA and other laws or regulations.
 
 ### Discussion
 
-## Text
-You also mentioned that the Academy’s Data Privacy Office and ITSU are currently revisiting
-the policies on the usage of VoIP phones since the current policy does not include conversation
-recording. Neither have the employees been notified of this recent feature.
-
-You thus ask whether the automatic conversation recording feature of the VoIP phone can lead
-to a possible violation of the DPA and other laws or regulations.
-
-### Scope of the Data Privacy Act; Lawful Processing Recorded Calls Containing Personal Data; Proportionality.
+#### Scope of the Data Privacy Act; Lawful Processing Recorded Calls Containing Personal Data; Proportionality
 
 RA 10173 or the Data Privacy Act of 2012 (DPA) applies to the processing of all types of personal
-information 2 and to any natural and juridical person involved in personal information
-processing. 3
+information[^2] and to any natural and juridical person involved in personal information
+processing.[^3]
 
 Processing as defined under the DPA refers to any operation or any set of operations performed
 upon personal information including, but not limited to, the collection, recording, organization,
 storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure
-or destruction of data. 4
+or destruction of data.[^4]
 
 Recording telephone conversations may be considered as a form of data processing since
 personal information and sensitive personal information (collectively, personal data) may be
 given out or spoken in the course of these conversations. In NPC Advisory Opinion No. 2017-
-63 5, the concept of biometrics as personal data was discussed, viz.:
+63[^5], the concept of biometrics as personal data was discussed, viz.:
 
-   “Under Republic Act (RA) No. 10367 6 , biometrics refer to ‘the
+   “Under Republic Act (RA) No. 10367[^6], biometrics refer to ‘the
              quantitative analysis that provides a positive identification of an
              individual such as voice, photograph, fingerprint, signature, iris
-             and/or such other identifiable features.’ 7
+             and/or such other identifiable features.’[^7]
 
-   While under Article 29 Opinion 4/2007 (EU) 8, a biometric data may be
+   While under Article 29 Opinion 4/2007 (EU)[^8], a biometric data may be
              considered both as content of the information about a particular
              individual as well as an element to establish a link between one piece
              of information and the individual. As such, it can work as “identifier”
@@ -62,24 +72,11 @@ given out or spoken in the course of these conversations. In NPC Advisory Opinio
              or not, from which the identity of an individual is apparent or can be
              reasonably and directly ascertained by the entity holding the
              information, or when put together with other information would
-             directly and certainly identify an individual.” 9 Corollary, hand-
-
-2 Data Privacy Act of 2012, § 3 (g). Personal information refers to any information whether recorded in a material form or not,
-
-from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the
-information, or when put together with other information would directly and certainly identify an individual.
-3 Id. § 4.
-4 Data Privacy Act of 2012, § 3 (f).
-5 National Privacy Commission, NPC Advisory Opinion No.2017-063, (09 February 2017).
-6AN ACT PROVIDING FOR MANDATORY BIOMETRICS VOTER REGISTRATION, 15 February 2013, §2(b).
-7R.A. No. 10367, §2(a).
-8 Opinion 4/2007 on the concept of personal data, Adopted on 20th June 2007.
-9Id., § 3(g).
-
-   written signatures, as may be used to identify an individual, is
+             directly and certainly identify an individual.”[^9] Corollary, hand-
+             written signatures, as may be used to identify an individual, is
              considered as personal information.
 
-   In the same manner, unique information relating 10 to an individual or
+   In the same manner, unique information relating[^10] to an individual or
              when linked with other information will allow an individual to be
              distinguished from others, may be treated as personal information.”
              (underscoring supplied)
@@ -123,11 +120,6 @@ data involved, thus:
                  data subject which require protection under the Philippine
                  Constitution.
 
-10 EU Directive 95/46/EC Working Party Document No. WP 105 noted that “Data relates to an individual if it refers to the
-
-identity, characteristics or behavior of an individual or if such information is used to determine or influence the way in which
-that person is treated or evaluated.”
-
    SEC. 13. Sensitive Personal Information and Privileged Information. – The
             processing of sensitive personal information and privileged information shall be
             prohibited, except in the following cases:
@@ -163,15 +155,14 @@ that person is treated or evaluated.”
    (f) The processing concerns such personal information as is necessary
                     for the protection of lawful rights and interests of natural or legal
                     persons in court proceedings, or the establishment, exercise or defense
-                    of legal claims, or when provided to government or public authority. 11
+                    of legal claims, or when provided to government or public authority.[^11]
 
 In your letter, the following are the stated purposes for the automatic recording of the
-Academy’s outgoing calls through the VoIP system,:
+Academy’s outgoing calls through the VoIP system:
 
-   1. to keep detailed call records;
-                    2. to recover missed details; and
-                    3. to protect the Academy and its employees and any possible
-                    potential legal dispute and for security reasons.
+1. to keep detailed call records;
+2. to recover missed details; and
+3. to protect the Academy and its employees and any possible potential legal dispute and for security reasons.
 
 Based on the aforementioned purposes, it appears that the only applicable basis for processing
 would be to obtain the consent of the data subjects.
@@ -179,34 +170,31 @@ would be to obtain the consent of the data subjects.
 As presented, the purposes seem to be ambiguous and speculative; hence, they cannot qualify
 under the criterion of legitimate interest in Section 12 (f) of the DPA. The purposes failed to
 state what specific details would be recorded or are sought to be recorded to justify the
-
-11 Id. § 12,13.
-
 automatic recording. This contravenes the data privacy principle of transparency which
 requires that the data subject (i.e., the parties to the telephone conversation) must be aware of
 the nature, purpose, and extent of the processing of his or her personal data, including the risks
 and safeguards involved, the identity of personal information controller, his or her rights as a
-data subject, and how these can be exercised. 12
+data subject, and how these can be exercised.[^12]
 
 The automatic recording of VoIP phone calls also appears to be disproportionate to the
 purposes it seeks to achieve. The data privacy principle of proportionality requires that the
 processing of information shall be adequate, relevant, suitable, necessary, and not excessive in
 relation to a declared and specified purpose. Personal data shall be processed only if the
-purpose of the processing could not reasonably be fulfilled by other means. 13 The Academy
+purpose of the processing could not reasonably be fulfilled by other means.[^13] The Academy
 has not shown that the purposes stated in the VoIP policy cannot be fulfilled through any other
 means aside from the recording of the phone calls.
 
 Lastly, the enumerated purposes appear to be speculative and have no specific legal basis to
 rationalize the recording of conversations without the consent of the parties to the phone call.
 
-Reasonable expectation of privacy in the workplace
+#### Reasonable Expectation of Privacy in the Workplace
 
 Factual circumstances of every case determine the reasonableness of the expectation of privacy.
 Similarly, customs, community norms, and practices may, therefore, limit or extend an
 individual’s reasonable expectation of privacy. The reasonableness of a person’s expectation of
-privacy is determined on a case-to-case basis. 14
+privacy is determined on a case-to-case basis.[^14]
 
-NPC Advisory Opinion No. 2018-090 15 is highly instructive on the reasonable expectation of
+NPC Advisory Opinion No. 2018-090[^15] is highly instructive on the reasonable expectation of
 privacy in the workplace in light of the implementation of the DPA, viz.:
 
    Likewise, courts have generally held that employees have a decreased
@@ -231,15 +219,11 @@ privacy in the workplace in light of the implementation of the DPA, viz.:
                   with a declared and specified purpose which must not be contrary to law,
                   morals, or public policy. Lastly, the processing of such information shall
 
-12 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(a) (2016).
-13 Id § 18(c) (2016).
-15 Id.
-
    be adequate, relevant, suitable, necessary and not excessive in relation to
                 a declared and specified purpose.
 
 Recent jurisprudence from foreign jurisdictions also provide guidance with regard to
-monitoring calls of employees at the workplace. In Copland v. the United Kingdom, 16 the
+monitoring calls of employees at the workplace. In Copland v. the United Kingdom,[^16] the
 European Court of Human Rights (ECtHR) held that monitoring calls without the employee’s
 knowledge, amounted to unnecessary interference with his privacy rights, viz:
 
@@ -272,7 +256,7 @@ knowledge, amounted to unnecessary interference with his privacy rights, viz:
 Hence, with the DPA in place, employers are expected to be more mindful of the privacy rights
 of their employees.
 
-### Privacy Notice; Privacy Policy; Data Security
+#### Privacy Notice; Privacy Policy; Data Security
 
 In your letter, you mentioned that no notice has been disseminated yet on the automatic
 recording feature of the VoIP phone. We recommend that the Academy gather the consent of
@@ -285,8 +269,6 @@ Further, please note that the upgrade in the system necessarily signifies the ne
 Academy’s security policies. We suggest the drafting a more comprehensive privacy policy
 which would also include other provisions on data privacy such as data retention, deletion, and
 access.
-
-16 ECtHR, Copland v. the United Kingdom, No. 62617/00, 3 April 2007
 
 Moreover, a Privacy Impact Assessment (PIA) may be necessary prior to the introduction of
 this telephone system to identify existing and potential risks and enable the Academy to take
@@ -306,7 +288,7 @@ and protection of your data subject’s rights:
                  should lead to the identification of remedial actions or mitigation
                  measures necessary to avoid or reduce those risks. These remedial actions
                  and mitigation measures may be incorporated in the organization’s
-                 Privacy Management Program (PMP). 17
+                 Privacy Management Program (PMP).[^17]
 
 As to your query on the other possible legal repercussions of the Academy’s adoption of the
 system, (e.g. the Anti Wiretapping Law), it would be best to consult your legal department as
@@ -325,6 +307,34 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-17 KRL vs. Trinity University of Asia, AA, MC, NCB, RG GV, GCT, RR, MR, PB, CID Case No. 17-K-003 (19 November
+[^2]: Data Privacy Act of 2012, § 3 (g). Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 
-2019).
+[^3]: Id. § 4.
+
+[^4]: Data Privacy Act of 2012, § 3 (f).
+
+[^5]: National Privacy Commission, NPC Advisory Opinion No.2017-063, (09 February 2017).
+
+[^6]: AN ACT PROVIDING FOR MANDATORY BIOMETRICS VOTER REGISTRATION, 15 February 2013, §2(b).
+
+[^7]: R.A. No. 10367, §2(a).
+
+[^8]: Opinion 4/2007 on the concept of personal data, Adopted on 20th June 2007.
+
+[^9]: Id., § 3(g).
+
+[^10]: EU Directive 95/46/EC Working Party Document No. WP 105 noted that "Data relates to an individual if it refers to the identity, characteristics or behavior of an individual or if such information is used to determine or influence the way in which that person is treated or evaluated."
+
+[^11]: Id. § 12,13.
+
+[^12]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(a) (2016).
+
+[^13]: Id § 18(c) (2016).
+
+[^14]: National Privacy Commission, NPC Advisory Opinion No. 2018-090 (28 November 2018).
+
+[^15]: Id.
+
+[^16]: ECtHR, Copland v. the United Kingdom, No. 62617/00, 3 April 2007.
+
+[^17]: KRL vs. Trinity University of Asia, AA, MC, NCB, RG GV, GCT, RR, MR, PB, CID Case No. 17-K-003 (19 November 2019).

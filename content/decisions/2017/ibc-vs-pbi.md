@@ -44,6 +44,8 @@ PATDU, D.P.C.:
 
 This Commission is being asked to decide whether a bank may be made liable for claims that certain transactions charged against the credit card it issued was not authorized by the card holder. The card holder in this case is the data subject who requested for the bank to remove the charges in his account relevant to transactions which he claims were unauthorized.
 
+*Facts of the Case*
+
 ### Facts
 
 From the records of the case, Complainant obtained a credit card from respondent PBI. Under the terms and obligations of obtaining the card, complainant is obliged to pay the purchases to be made and charges to be incurred.
@@ -64,7 +66,11 @@ Complainant then wrote his letter of protest dated 10 September 2017 to formally
 
 Hence, Complainant instituted this complaint before the Commission for violations of the Data Privacy Act.
 
+*Allegations of Complainant*
+
 Complainant alleges that the Respondent failed to set-up, institute and implement the necessary, appropriate and adequate security measures required under the Data Privacy Act. He further alleges that this enabled unauthorized entities to obtain the personal information of the complainant which was illegally used to make unauthorized and fraudulent transactions charged to his credit card account. In addition, he further alleges that he had suffered sleepless nights, serious anxiety and mental stress which arose from the refusal of the respondent to correct the billing of the unauthorized or fraudulent transactions made on his credit card.
+
+*Responsive Comment*
 
 Respondent in its responsive Comment admits the following matters:
 
@@ -86,9 +92,13 @@ Respondent maintains that the Complainant was the proximate cause, if not the so
 
 Respondent prays that the complaint be dismissed since the Complainant has no cause of action against the respondent under the DPA and its implementing rules and regulations as the data breach was a result of complainant’s own acts and not from the failure of respondent to set up, institute and implement the necessary, appropriate and adequate security measures.
 
+*Issues*
+
 ### Issue
 
 The sole issue to be resolved by this Commission is whether Respondent PBI is liable for unauthorized processing on the alleged illegal transactions charged to the Complainant.
+
+*Decision*
 
 ### Discussion
 
@@ -96,15 +106,15 @@ The sole issue to be resolved by this Commission is whether Respondent PBI is li
 
 Before the discussion on the issue of unauthorized processing, the Commission deems it necessary to discuss rights accorded to data subjects relevant to this case.
 
-Data subjects under the Data Privacy Act[^1] are entitled to rights, including the right to rectification[^2] of his or her records, to wit;
+Data subjects under the Data Privacy Act[^1] are entitled to rights, including the right to rectification[^2] of his or her records, to wit:
 
-(d) Dispute the inaccuracy or error in the personal information and have the personal information controller correct it immediately and accordingly, unless the request is vexatious or otherwise unreasonable.
-
-If the personal information have been corrected, the personal information controller shall ensure the accessibility of both the new and the retracted information and the simultaneous receipt of the new and the retracted information by recipients thereof: Provided, That the third parties who have previously received such processed personal information shall be informed of its inaccuracy and its rectification upon reasonable request of the data subject;
-
-(e) Suspend, withdraw or order the blocking, removal or destruction of his or her personal information from the personal information controller’s filing system upon discovery and substantial proof that the personal information are incomplete, outdated, false, unlawfully obtained, used for unauthorized purposes or are no longer necessary for the purposes for which they were collected. In this case, the personal information controller may notify third parties who have previously received such processed personal information; and
-
-(f) Be indemnified for any damages sustained due to such inaccurate, incomplete, outdated, false, unlawfully obtained or unauthorized use of personal information.
+> (d) Dispute the inaccuracy or error in the personal information and have the personal information controller correct it immediately and accordingly, unless the request is vexatious or otherwise unreasonable.
+>
+> If the personal information have been corrected, the personal information controller shall ensure the accessibility of both the new and the retracted information and the simultaneous receipt of the new and the retracted information by recipients thereof: *Provided*, That the third parties who have previously received such processed personal information shall be informed of its inaccuracy and its rectification upon reasonable request of the data subject;
+>
+> (e) Suspend, withdraw or order the blocking, removal or destruction of his or her personal information from the personal information controller’s filing system upon discovery and substantial proof that the personal information are incomplete, outdated, false, unlawfully obtained, used for unauthorized purposes or are no longer necessary for the purposes for which they were collected. In this case, the personal information controller may notify third parties who have previously received such processed personal information; and
+>
+> (f) Be indemnified for any damages sustained due to such inaccurate, incomplete, outdated, false, unlawfully obtained or unauthorized use of personal information.
 
 Responsibility rests upon the Personal Information Controller (PIC) in establishing procedures and mechanisms for the exercise of these rights. In this case, the claim of the data subject is that the charges in his credit card are inaccurate or false. The complainant filed 2 protests with the Respondent bank on 20 July 2017 and 04 August 2017, respectively, through the submission of Cardholder’s Statement of Disputed Item (CSDI) Form.
 
@@ -127,13 +137,13 @@ The same criteria is applied in this case in determining whether the processing 
 
 In processing the personal information relevant to the transactions and charges made on the credit card, PBI may find support in section 12(b)[^5]:
 
-> Section 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
+> **Section 12. Criteria for Lawful Processing of Personal Information.** – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
 > (a) The data subject has given his or her consent;
 >
-> (b) The processing of personal information is necessary and is related to the fulfillment of a contract with the data subject or in order to take steps at the request of the data subject prior to entering into a contract; xxx” (emphasis supplied)
+> (b) The processing of personal information is **necessary and is related to the fulfillment of a contract** with the data subject or in order to take steps at the request of the data subject prior to entering into a contract; xxx (emphasis supplied)
 
-The use of the credit card issued by PBI is governed by the terms and conditions which sets out the obligations of the issuer and recipient of the credit card. As held in the case of *Pantaleon v. American Express International* and in *BPI Express Card Corporation v. Armovit*, the relationship between the credit card issuer and the credit card holder is a contractual one that is governed by the terms and conditions found in the card membership agreement[^6]. Such terms and conditions constitute the law between the parties[^7].
+The use of the credit card issued by PBI is governed by the terms and conditions which sets out the obligations of the issuer and recipient of the credit card. As held in the case of *Pantaleon v. American Express International*[^6] and in *BPI Express Card Corporation v. Armovit*[^7], the relationship between the credit card issuer and the credit card holder is a contractual one that is governed by the terms and conditions found in the card membership agreement. Such terms and conditions constitute the law between the parties.
 
 In the complaint[^8] filed by IBC, he admitted that at the time he obtained credit card from PBI, he obliged himself, as the borrower, to pay those purchases and charges which he incurred under the terms and conditions of the contract. This fact is not disputed by the Respondent.
 
@@ -143,7 +153,7 @@ Therefore, the claim of IBC that PBI is liable for unauthorized processing for p
 
 The question now left for this Commission to decide is whether the Respondent bank should be held liable for processing the credit card transactions charged to Complainant IBC upon the latter’s allegations that the same are without his authority and that he was a victim of phishing. Complainant claims that the security measures placed by PBI were insufficient and this resulted to the phishing of his personal information which eventually led to the unauthorized purchases.
 
-#### Phishing and Access Due to Negligence
+#### Phishing and Access due to Negligence
 
 Phishing is defined as the fraudulent process of attempting to acquire private or confidential information by masquerading as a trustworthy entity in an electronic communication[^9]. The responsibility for the avoidance of falling victim to phishing falls both on the Personal Information Controller and the data subject.
 
@@ -200,10 +210,12 @@ Complainant
 PBI
 Respondent
 
-Chief Data Privacy Officer
+PBI CARDS
+Respondent
 
 ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
+NATIONAL PRIVACY COMMISSION
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating For this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3(c) (2012) [hereinafter, DPA].
 
@@ -215,9 +227,9 @@ GENERAL RECORDS UNIT
 
 [^5]: DPA, §12(b).
 
-[^6]: *Pantaleon v. American Express International*, G.R. No. 174269, February 23, 2011; *BPI Express Card Corporation v. Armovit*, G.R. No. 163654, October 8, 2014.
+[^6]: *Pantaleon v. American Express International*, G.R. No. 174269, February 23, 2011.
 
-[^7]: *Id.*, at various pages.
+[^7]: *BPI Express Card Corporation v. Armovit*, G.R. No. 163654, October 8, 2014.
 
 [^8]: Complaint, par. 3.
 
@@ -229,6 +241,6 @@ GENERAL RECORDS UNIT
 
 [^12]: *Id.*, p. 67.
 
-[^13]: *Ibid*.
+[^13]: *Ibid.*
 
 [^14]: Records, p. 10.

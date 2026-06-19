@@ -116,10 +116,6 @@ The Commission dismisses the complaint for lack of substantial evidence.
 
 Preliminarily, it is observed that Complainant did not specify a particular provision of the DPA violated by the Respondent in her CAF[^43] or in the Complaint-Affidavit[^44] attached. However, regardless of the designation of the act allegedly committed by Respondent, the Commission deems it proper to dismiss the charge against Respondent considering that Complainant failed to provide sufficient evidence to prove any participation whatsoever on the part of Respondent in the alleged disclosure of her personal data.
 
-NPC 19 -1247
-
-KDC v. Bank of the Philippine Islands
-
 In *Avelina Sagun v. Sunace International Management Services, Inc.,[^45]* the Supreme Court ruled that in proceedings before quasi-judicial bodies, the quantum of evidence necessary to establish one’s claim is substantial evidence:
 
 > In proceedings before administrative and quasi-judicial agencies, the quantum of evidence required to establish a fact is substantial evidence, or that level of relevant evidence which a reasonable mind might accept as adequate to justify a conclusion.[^46]
@@ -170,7 +166,7 @@ WE CONCUR:
 LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
-NERISSA N. DE JESUS
+NERISSA N. DEJESUS
 Deputy Privacy Commissioner
 
 Copy furnished:

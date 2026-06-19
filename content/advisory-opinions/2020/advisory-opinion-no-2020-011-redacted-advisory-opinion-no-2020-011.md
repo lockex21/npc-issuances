@@ -11,6 +11,7 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2020-011
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-011.pdf
+- Issue date: 02/11/2020
 - OCR used during extraction: no
 
 ## Text
@@ -25,7 +26,7 @@ Dear [Redacted],
 We write in response to your letter requesting for an advisory opinion from the National
 Privacy Commission (NPC) on whether you can be allowed to secure the birth certificates of
 your seven siblings from the Philippine Statistics Authority (PSA), pursuant to Section 12 (c)
-and (f) and Section 13 (f) of the Data Privacy Act of 20122 (DPA).
+and (f) and Section 13 (f) of the Data Privacy Act of 2012[^2] (DPA).
 
 ### Discussion
 
@@ -38,16 +39,13 @@ Surigao City in Civil Case No. ''''''''''''' for Partition dated March 10, 2011.
 We understand that the PSA denied your request for the birth certificates citing the provisions
 of the DPA as the reason for the denial.
 
-Birth certificate contains sensitive                    personal
-information; lawful basis for processing
+#### Birth Certificate Contains Sensitive Personal Information; Lawful Basis for Processing
 
 A birth certificate contains the following information of an individual, among others: name,
 sex, date of birth, place of birth, type of birth, birth order, weight at birth, parents’ details
 (name, citizenship, religion and occupation), among others. Most of the information contained
 in a birth certificate are considered sensitive personal information under Section 3(l) of the
 DPA.
-
-Republic Act No. 10173 (2012).
 
 The processing or disclosure of a birth certificate, which contains sensitive personal
 information, is generally prohibited except in certain cases enumerated under Section 13 of
@@ -99,17 +97,13 @@ of CRDs, which includes Certificate of Live Birth, to wit:
          2. If the requesting party is a duly authorized representative, the original copy of the
             Authorization Letter or Special Power of Attorney (SPA) must be presented
             together with a valid ID of the document owner. The duly authorized
-
-3 The Child and Youth Welfare Code, Presidential Decree No. 603 (1974).
-4 Id.
-
-   representative should also show his/her valid ID and must provide the PSA with
+            representative should also show his/her valid ID and must provide the PSA with
             photocopies of all the IDs presented for its file.
 
 With this, you are constrained to follow the above PSA requirements for purposes of obtaining
 the birth certificates of your siblings.
 
-Transfer of ownership of real property
+#### Transfer of Ownership of Real Property
 
 As the final objective is the transfer of the ownership of the real property to each of the heirs
 after the payment of all the requisite taxes, the competent authority to resolve the matter is
@@ -128,3 +122,5 @@ Very truly yours,
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
+
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).

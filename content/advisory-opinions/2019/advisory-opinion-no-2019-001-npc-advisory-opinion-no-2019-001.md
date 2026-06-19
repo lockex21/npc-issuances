@@ -27,7 +27,7 @@ Commission (NPC). You disclosed that Eyespy Detectives and Investigators Co. (Ey
 duly registered partnership with the Securities and Exchange Commission, and a duly
 registered and licensed to operate detective agency with the Supervisory Office of Security
 and Investigation Agencies of the Philippine National Police, pursuant to Republic Act No.
-5487, as amended,2 or the Private Security Agency Law.
+5487, as amended,[^2] or the Private Security Agency Law.
 
 ### Discussion
 
@@ -48,26 +48,22 @@ a foreigner, on his Filipino fiancée to determine if she is indeed single, has 
 marry and without derogatory record; and c) by parents, on the girlfriend, boyfriend, fiancé
 or fiancée of their child.
 
-Security Agency Law], Republic Act No. 5487, as amended (1969).
-                                  5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307
-
 You now wish to clarify whether the abovementioned activities of Eyespy are permissible by
-the provisions of Republic Act No. 10173,3 or the Data Privacy Act of 2012 (DPA), particularly
+the provisions of Republic Act No. 10173,[^3] or the Data Privacy Act of 2012 (DPA), particularly
 on the processing of sensitive personal information of individuals in cases when the request
 is not pursuant to a pending case or in preparation for the filing of one.
 
-Activities in Private Investigation Subject to the
-DPA
+#### Activities in Private Investigation Subject to the DPA
 
 Processing refers to any operation or any set of operations performed upon personal
 information including, but not limited to, the collection, recording, organization, storage,
 updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or
-destruction of data.4
+destruction of data.[^4]
 
 Moreover, the law defines personal information as information which the identity of
 individual is apparent or can be reasonably and directly ascertained by the entity holding the
 information, or when put together with other information, would directly and certainly
-identify and individual.5 On the other hand, what is considered as sensitive personal
+identify and individual.[^5] On the other hand, what is considered as sensitive personal
 information is clearly enumerated as:
 
    (1) About an individual’s race, ethnic origin, marital status, age, color, and religious,
@@ -80,7 +76,7 @@ information is clearly enumerated as:
            limited to, social security numbers, previous or cm-rent health records, licenses or its
            denials, suspension or revocation, and tax returns; and
        (4) Specifically established by an executive order or an act of Congress to be kept
-           classified.6
+           classified.[^6]
 
 While private investigation is a duly recognized field, there being the Private Security Agency
 Law, the activities and services involved therein, such as records verification on birth, marital
@@ -97,14 +93,6 @@ processing:
            personal information controller is subject;
        (d) The processing is necessary to protect vitally important interests of the data subject,
            including life and health;
-
-3 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012],
-Republic Act No. 10173, (2012).
-4 Id. § 3 (j).
-5 Id. § 3 (g).
-6 Id. § 3 (l).
 
    (e) The processing is necessary in order to respond to national emergency, to comply with
           the requirements of public order and safety, or to fulfill functions of public authority
@@ -147,7 +135,7 @@ is prohibited unless specific conditions under the law are met:
 Furthermore, the general data privacy principles of transparency, legitimate purpose, and
 proportionality must always be adhered to in the processing of personal data.
 
-Expectation of privacy
+#### Expectation of Privacy
 
 On another perspective, while the 1987 Philippine Constitution guards the right to be let alone
 of individuals against unreasonable State intrusion, the Civil Code of the Philippines holds
@@ -164,7 +152,7 @@ liable individuals for violating another person’s right to privacy. The Code s
 
    (3) Intriguing to cause another to be alienated from his friends;
            (4) Vexing or humiliating another on account of his religious beliefs, lowly station in
-               life, place of birth, physical defect, or other personal condition. 7
+               life, place of birth, physical defect, or other personal condition.[^7]
 
 Our Supreme Court had the chance to delve on the right to privacy in relation to the
 abovementioned provision and held:
@@ -183,13 +171,13 @@ abovementioned provision and held:
        exclude the public or deny them access. The phrase "prying into the privacy of another’s
        residence," therefore, covers places, locations, or even situations which an individual
        considers as private. And as long as his right is recognized by society, other individuals
-       may not infringe on his right to privacy.8
+       may not infringe on his right to privacy.[^8]
 
 Furthermore, in our Advisory Opinion No. 2018-090 – Data Privacy and Office-Issued Mobile
 Devices, we discussed on the expectation of privacy and how the passage of the DPA affects
 it, to wit:
 
-   The ruling in Ople v. Torres also expounded on the “reasonable expectation of privacy” test
+   The ruling in *Ople v. Torres* also expounded on the “reasonable expectation of privacy” test
        in ascertaining whether there is a violation of the right to privacy. This test determines
        whether a person has a reasonable or objective expectation of privacy and whether the
        expectation has been violated. The reasonableness of a person’s expectation of privacy
@@ -213,19 +201,12 @@ it, to wit:
    Yet, with the DPA now in place, the reasonable expectation test should be revisited and
        interpreted in the context of the law.
 
-7 An Act to Ordain and Institute the Civil Code of the Philippines [CIVIL CODE OF THE PHILIPPINES], Republic Act No. 386, art.
-
-29 (1949).
-8 Spouses Bill and Victoria Hing v. Alexander Choachuy Sr. and Allan Choachuy, G.R. No. 179736, June 26, 2013.
-
-Citations omitted.
-
    By virtue of a legislation on data protection and privacy, the assumption is that individuals
        now have an expectation of privacy. As to the second element, data privacy is now more
        than a reasonable expectation – it is now enshrined in the DPA. The reasonable expectation
-       of privacy test then should take into consideration the standards provided under the DPA. 9
+       of privacy test then should take into consideration the standards provided under the DPA.[^9]
 
-General guidelines to consider
+#### General Guidelines to Consider
 
 In your letter, it is unclear what means and methods are used by Eyespy in the conduct of its
 services. Thus, the NPC is unable to make a categorical determination on the legality of its
@@ -246,7 +227,7 @@ records verification and background investigation, would: (a) constitute a viola
 individual’s expectation of privacy, and (b) violate existing laws, including the DPA.
 
 It is worth noting that the DPA dictates its provisions shall be liberally interpreted in a manner
-mindful of the rights and interests of the data subject.10 Thus, it is the burden of Eyespy to
+mindful of the rights and interests of the data subject.[^10] Thus, it is the burden of Eyespy to
 ensure that any processing of personal data is in accordance with the law.
 
 This advisory opinion is based on the information provided and may vary based on additional
@@ -264,4 +245,13 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-10 Data Privacy Act of 2012, § 38.
+[^1]: Tags: Private detective services, background investigation, right to privacy.
+[^2]: An Act to Regulate the Organization and Operation of Private Detective, Watchmen or Security Guards Agencies [Private Security Agency Law], Republic Act No. 5487, as amended (1969).
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
+[^4]: Id. § 3 (j).
+[^5]: Id. § 3 (g).
+[^6]: Id. § 3 (l).
+[^7]: An Act to Ordain and Institute the Civil Code of the Philippines [CIVIL CODE OF THE PHILIPPINES], Republic Act No. 386, art. 29 (1949).
+[^8]: Spouses Bill and Victoria Hing v. Alexander Choachuy Sr. and Allan Choachuy, G.R. No. 179736, June 26, 2013. Citations omitted.
+[^9]: National Privacy Commission, NPC Advisory Opinion No. 2018 – 090 (Nov. 28, 2018). Citations omitted.
+[^10]: Data Privacy Act of 2012, § 38.

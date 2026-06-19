@@ -25,7 +25,7 @@ Dear [Redacted],
 
 We write in response to your letter request for an advisory opinion on whether St. Luke’s Medical
 Center – Bonifacio Global City (SLMC-BGC) and St. Luke’s Medical Center, Quezon City (SLMC-
-QC) (collectively, SLMC) are allowed under the Data Privacy Act of 20121 (DPA) to provide access
+QC) (collectively, SLMC) are allowed under the Data Privacy Act of 2012[^1] (DPA) to provide access
 to patient medical records and collection of information from said records by the Department of
 Health (DOH) – Rizal Cancer Registry of the Rizal Medical Center (RMC) and the Philippine
 Cancer Society, Inc. (PCS) – Manila Cancer Registry.
@@ -35,14 +35,8 @@ cancer cases occurring among residents of Metro Manila and Rizal Province for th
 2017 gathered from death certificates for the purpose of determining the true incidence of cancer
 in the population, and for RMC to gather incidence magnitude of the cancer problem and enable
 to better formulate and evaluate the cancer control program. RMC cited Ministry of Health
-Circular No. 126-A dated 12 December 1983.2
+Circular No. 126-A dated 12 December 1983.[^2]
 
-1 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Act No. 10173 (2012).
-2 Ministry of Health, Population-Based Cancer Registry a. Central Tumor Registry of the Philippines and b. Cancer Control
-
-Program in the Rizal Medical Center, Ministry of Health Circular No. 126-A [Ministry Circular No. 126-A] (December 12, 1983).
 
 To implement the request, research assistants will be sent to SLMC-BGC to review and extract
 data not only from the chart of patients who died at SLMC-BGC but also relevant Medical
@@ -61,7 +55,7 @@ You now inquire whether SLMC should allow access and provide the requested data 
 
 ### Discussion
 
-#### Processing of health information allowed based on law and regulation
+#### Processing of Health Information Allowed Based on Law and Regulation
 
 Medical records, out-patient records, autopsy records, records from the Department of Pathology,
 Cytology, Hematology, Radiology, Ultrasound, Nuclear Medicine, CT Scan, MRI and Tumor
@@ -91,12 +85,12 @@ processing of the personal data for such registries shall be in accordance with 
 
 The law’s Implementing Rules and Regulations (IRR) specifically provides that the national
 cancer registry shall include existing quality population-based cancer registries and shall expand
-to other strategically defined geographical areas.3
+to other strategically defined geographical areas.[^3]
 
-We understand that the RMC and PCS,4 a government institution and a private institution,
+We understand that the RMC and PCS,[^4] a government institution and a private institution,
 respectively, are existing population-based cancer registries in the Philippines. The DOH Rizal
 Cancer Registry and the PCS Manila Cancer Registry are responsible for collecting and analyzing
-the cancer data in their respective areas.5
+the cancer data in their respective areas.[^5]
 
 From the foregoing, both RMC and PCS may be allowed to collect the relevant health information
 from SLMC in order to administer their respective population-based cancer registries and in
@@ -130,12 +124,6 @@ these to RMC and PCS. SLMC may also require the mandatory execution of non-discl
 agreements with these research assistants and/or other personnel who shall be processing the
 medical records.
 
-3 Rules and Regulations Implementing the National Integrated Cancer Control Act, Republic Act No. 11215, § 28 (2019).
-4 We understand PCS-MCR was formerly the “Central Tumor Registry of the Philippines” which is the registry mentioned in
-
-Ministry of Health Circular No. 126-A, s. 1983. See: Philippine Cancer Society, Local Publications, available at
-http://www.philcancer.org.ph/learn-about-cancer/local-publications/ (last accessed May 21, 2019).
-5 Ministry of Health, Ministry Circular No. 126-A, s. 1983 (Dec. 12, 1983).
 
 This opinion is based on the information you have provided. Additional information may change
 the context of the inquiry and the appreciation of the facts.
@@ -151,3 +139,9 @@ Noted by:
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
+
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: Ministry of Health, Population-Based Cancer Registry a. Central Tumor Registry of the Philippines and b. Cancer Control Program in the Rizal Medical Center, Ministry of Health Circular No. 126-A [Ministry Circular No. 126-A] (December 12, 1983).
+[^3]: Rules and Regulations Implementing the National Integrated Cancer Control Act, Republic Act No. 11215, § 28 (2019).
+[^4]: We understand PCS-MCR was formerly the "Central Tumor Registry of the Philippines" which is the registry mentioned in Ministry of Health Circular No. 126-A, s. 1983. See: Philippine Cancer Society, Local Publications, available at http://www.philcancer.org.ph/learn-about-cancer/local-publications/ (last accessed May 21, 2019).
+[^5]: Ministry of Health, Ministry Circular No. 126-A, s. 1983 (Dec. 12, 1983).

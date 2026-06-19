@@ -16,7 +16,6 @@ draft: false
 - OCR used during extraction: no
 
 ## Text
-## Text
 
 **4 May 2018**
 
@@ -58,7 +57,7 @@ To emphasize this further, while the DPA aims to protect personal and sensitive 
 #### Posting of name and photo relating to suspects of a crime in public places
 
 General considerations on the posting of personal data of suspects in public places should
-include the balancing of the rights of the data subject vis-à-vis those of the general public. 5
+include the balancing of the rights of the data subject vis-à-vis those of the general public.[^5]
 
 According to the DPA, the processing of personal information shall only be allowed, subject
 to compliance with the requirements of the Act and other laws allowing disclosure of
@@ -114,12 +113,3 @@ Privacy Commissioner and Chairman
 [^15]: *Id.*
 [^16]: Data Privacy Act of 2012, § 3(h) — Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf.
 [^17]: *Id.* § 20; Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §§ 25–29 (2016).
-
-13 IRR of R.A. No. 10173, §18(b).
-     Id., §18(c).
-15 Ibid.
-16 R.A.   No. 10173, §3(h) - Personal information controller refers to a person or organization who controls the
-collection, holding, processing or use of personal information, including a person or organization who instructs
-another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her
-behalf.
-17 See: R.A. No. 10173, §20; IRR of R.A. No. 10173, §25-29.

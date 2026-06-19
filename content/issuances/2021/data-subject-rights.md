@@ -386,7 +386,7 @@ suspension, withdrawal, blocking, removal, or destruction of his or her personal
    E. Data subjects must be adequately informed of the consequences of the erasure of their
        personal data.
 
-Section 11. Right to Data Portability. — The data subject shall have the right to obtain from the PIC a copy of his or her personal data and/or have the same transmitted from one PIC to another, in an electronic or structured format that is commonly used and allows further use by the data subject.
+**SECTION 11.** ***Right to Data Portability.*** — The data subject shall have the right to obtain from the PIC a copy of his or her personal data and/or have the same transmitted from one PIC to another, in an electronic or structured format that is commonly used and allows further use by the data subject.
 
    A. For the exercise of this right, the following conditions must concur:
 
@@ -420,7 +420,7 @@ Adopted on 13 December 2016 As last Revised and adopted on 5 April 2017, availab
 [https://webcache.googleusercontent.com/search?q=cache:N9BoIYGlK6UJ:https://ec.europa.eu/newsroom/document.cfm%3](https://webcache.googleusercontent.com/search?q=cache:N9BoIYGlK6UJ:https://ec.europa.eu/newsroom/document.cfm%3)
 Fdoc_id%3D44099+&cd=1&hl=en&ct=clnk&gl=ph (last accessed: 6 October 2020). 12 Id.
 
-Section 12. Right to Damages. — The data subjects have the right to be indemnified for any damages sustained due to inaccurate, incomplete, outdated, false, unlawfully obtained, or unauthorized use of their personal data, taking into account any violation of his or her rights and freedoms as data subject.
+**SECTION 12.** ***Right to Damages.*** — The data subjects have the right to be indemnified for any damages sustained due to inaccurate, incomplete, outdated, false, unlawfully obtained, or unauthorized use of their personal data, taking into account any violation of his or her rights and freedoms as data subject.
 
    A. When there is a perceived violation of his or her rights, the data subject may file a
       complaint with the NPC, in accordance with its Rules of Procedure governing all

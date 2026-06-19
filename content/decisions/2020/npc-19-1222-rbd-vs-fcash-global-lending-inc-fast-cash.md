@@ -66,16 +66,15 @@ She was informed by the Complaints and Investigation Division that she needed to
 
 Complainant personally appeared before the Commission’s resident notary public to swear to the due execution of her Affidavit of Desistance. The notary public explained to her the implications and consequences if she desists from proceeding further.
 
+### Issue
+
+The issue is whether Complainant’s Affidavit of Desistance warrants the dismissal of the complaint.
+
 ### Discussion
 
 Given Complainant’s personal appearance before the Commission’s resident notary public to attest to her execution of the Affidavit of Desistance, the Commission finds the document to have been willingly and voluntarily executed, without any indication of fraud, deception, or misrepresentation.
 
 The Commission wishes to emphasize that Complainant’s Affidavit of Desistance does not ipso facto result in the termination of the case nor does it divest the Commission of its jurisdiction to investigate further, *sua sponte*, on the possible criminal liabilities that may result from the alleged violations of the Data Privacy Act.
-
-> 4Id ., at 10.
-> 5Id., at 11. Decision
-> NPC Case No. 19 -1221
-> Page 3of 4
 
 In this case, however, the Commission is constrained to dismiss the Complaint considering that the allegations cannot be proven without the evidence to be provided by Complainant.
 
@@ -101,6 +100,18 @@ Privacy Commissioner
 
 JOHN HENRY DU NAGA
 Deputy Privacy Commissioner
+
+Copy furnished:
+
+RBD
+Complainant
+
+FCash Global Lending, Inc. (Fast Cash)
+Respondent
+
+COMPLAINTS AND INVESTIGATION DIVISION
+ENFORCEMENT DIVISION
+GENERAL RECORDS UNIT
 
 [^1]: Records, p. 3.
 [^2]: *Id.*, at 5.

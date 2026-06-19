@@ -1,11 +1,11 @@
 ---
-title: "NPC 18-142: MSH v. RSF & TCC"
+title: "NPC 18-142: MSH v. RSF and TCC"
 description: "Complaint alleging inaccurate personal information in Transcript of Records; respondent found to have violated data quality obligations and ordered to indemnify complainant for damages sustained."
 aliases:
   - "NPC 18-142"
   - "npc 18-142"
-  - "MSH v. RSF & TCC"
-  - "msh v. rsf & tcc"
+  - "MSH v. RSF and TCC"
+  - "msh v. rsf and tcc"
 tags:
   - "decision"
   - "type/decision"
@@ -35,7 +35,7 @@ Complainant,
 
 -versus-
 
-RSF & TCC,
+RSF and TCC,
 
 Respondent.
 
@@ -59,7 +59,7 @@ The parties failed to reach an amicable settlement during the course of the proc
 
 The respondents subsequently filed a Verified Comment dated 22 September 2021 (Verified Comment).[^9] In the Verified Comment, the respondents prayed for the dismissal of the Complaint for lack of cause of action and utter lack of merit.[^10]
 
-The respondents reasoned that upon learning of the discrepancies from MSH, the Registrar undertook the following actions: 1) an Affidavit of Discrepancy dated 18 June 2018 stating the correct information, and explaining that the discrepancies were "obviously caused by typographical error or pure excusable inadvertence xxx"; 11 2) a Certification dated 08 May 2018 stating the correct information, and further certifying that MSH was of "good moral character and has shown exemplary conduct during her stay in this institution";[^12] and 3) another Certification dated 08 May 2018, explaining that the discrepancies were "misprinted", and attaching the corrected TOR and certified true copy of the diploma.[^13]
+The respondents reasoned that upon learning of the discrepancies from MSH, the Registrar undertook the following actions: 1) an Affidavit of Discrepancy dated 18 June 2018 stating the correct information, and explaining that the discrepancies were "obviously caused by typographical error or pure excusable inadvertence xxx";[^11] 2) a Certification dated 08 May 2018 stating the correct information, and further certifying that MSH was of "good moral character and has shown exemplary conduct during her stay in this institution";[^12] and 3) another Certification dated 08 May 2018, explaining that the discrepancies were "misprinted", and attaching the corrected TOR and certified true copy of the diploma.[^13]
 
 Further, the respondents explained that they did not issue the incorrect TORs to SFPS, even though the latter requested the TORs as part of the background check, since there was no written authorization from MSH.[^14] Thus, there was no improper disclosure.
 
@@ -165,7 +165,7 @@ MSH
 Complainant
 
 RSF and TCC
-Respondent
+Respondents
 
 COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION

@@ -48,59 +48,46 @@ As such, you have raised the following points for clarification:
 
 ### Discussion
 
-Scope of the Data Privacy Act of 2012; criteria for
-lawful processing of personal data
+#### Scope of the Data Privacy Act of 2012; criteria for lawful processing of personal data
 
-The Data Privacy Act of 20122 (DPA) applies to the processing of personal data and to any
+The Data Privacy Act of 2012[^2] (DPA) applies to the processing of personal data and to any
 natural and juridical person involved in the processing within and outside the Philippines.
 
 Under the DPA, processing refers to any operation or any set of operations performed upon
 personal data including, but not limited to, the collection, recording, organization, storage,
 updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or
-destruction of data.3
+destruction of data.[^3]
 
 The processing of personal data which may be contained in the server and/or other
 workstations/computers of the lessees, which includes erasing and archiving, shall be
 allowed only upon compliance with the requirements of the law and adherence to the general
-data privacy principles of transparency, legitimate purpose, and proportionality.4
+data privacy principles of transparency, legitimate purpose, and proportionality.[^4]
 
 The various criteria for lawful processing of personal and sensitive personal information by
 personal information controllers (PICs) are provided under Sections 12 and 13 of the DPA,
 respectively.
 
 Section 12 enumerates the various criteria for processing personal information, such as
-processing that is necessary for compliance with a legal obligation,5 or necessary for the
+processing that is necessary for compliance with a legal obligation,[^5] or necessary for the
 purposes of the legitimate interests pursued by the PIC or by a third party or parties to whom
-the data is disclose,6 among others.
+the data is disclose,[^6] among others.
 
 Note, however, that if the database contains sensitive personal information, the processing
 thereof is prohibited, except for certain instances provided under Section 13 such as when the
-processing is provided for by existing laws and regulations,7 or necessary for the protection
+processing is provided for by existing laws and regulations,[^7] or necessary for the protection
 of lawful rights and interests of natural or legal persons in court proceedings or the
-establishment, exercise, or defense of legal claims.8
+establishment, exercise, or defense of legal claims.[^8]
 
 Therefore, Eton’s proposed actions as to the further processing of the personal data of its lessee
 shall be governed by the any of the lawful bases for processing under the DPA.
 
-Appropriating abandoned properties; erasure or
-archiving of personal data of the lessee
+#### Appropriating abandoned properties; erasure or archiving of personal data of the lessee
 
 Although the lessee has abandoned its servers, workstations, and computers in the leased
 premises, the same does not give the lessor the right to automatically appropriate the same
 and the contents thereof to satisfy the unpaid rentals or recover the leasing revenue loss it has
 incurred. The treatment of the abandoned properties of the lessee would then depend upon
 the stipulations in the lease agreement and the orders or judgement from a competent court.
-
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
-
-the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT
-OF 2012], Republic Act No. 10173 (2012).
-3 Data Privacy Act of 2012, § 3 (j).
-4 Id. § 11.
-5 Id. § 12 (c).
-6 Id. § 12 (f).
-7 Id. § 13 (b).
-8 Id. § 13 (f).
 
 To reiterate, wiping or archiving of personal data falls squarely on the above definition of
 processing and the appropriation of the lessee’s abandoned properties by Eton in order to
@@ -110,16 +97,15 @@ Hence, in the meantime, it is best that Eton refrain from appropriating the aban
 properties and the contents thereof. It is recommended that Eton safekeep the same while
 waiting for the results of the pending case.
 
-Duties and responsibilities of PICs; accountability; five
-pillars of compliance
+#### Duties and responsibilities of PICs; accountability; five pillars of compliance
 
 Moreover, we wish to note that under the principle of accountability, each PIC is responsible
-for personal information under its control or custody.9
+for personal information under its control or custody.[^9]
 
 If Eton, based on the lease agreement and/or the orders or judgement from a competent court,
 takes control over the abandoned servers, workstations, and computers, it may be deemed to
 be a PIC as well and should be cognizant of the duties, responsibilities, and risks associated
-with having custody of personal data. In CID Case No. 18-E-040,10 the Commission elaborated
+with having custody of personal data. In CID Case No. 18-E-040,[^10] the Commission elaborated
 on the accountability of the PIC:
 
    “By having the control of and discretion in the use of personal information of individuals,
@@ -146,14 +132,10 @@ properties even if the latter takes control over the abandoned properties, this 
 upon the existing policies of Eton as to retention of personal data, taking into account as well
 any applicable provisions of the lease agreement and/or orders of a competent court. We
 emphasize that personal data shall not be retained in perpetuity in contemplation of a possible
-future use yet to be determined.11
+future use yet to be determined.[^11]
 
 Finally, we wish to clarify that one can never be assured that there will be no data privacy- or
 DPA-related issues in the future as these may not be completely avoided. Nevertheless, we
-
-9 Data Privacy Act of 2012, § 21.
-11 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 19 (e) (3) (2016).
-
 have always reminded PICs to follow the five pillars of compliance as this serves as the basic
 steps towards complying with the DPA and issuances of the NPC.
 
@@ -169,3 +151,14 @@ Very truly yours,
 
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
+
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
+[^3]: Data Privacy Act of 2012, § 3 (j).
+[^4]: *Id.* § 11.
+[^5]: *Id.* § 12 (c).
+[^6]: *Id.* § 12 (f).
+[^7]: *Id.* § 13 (b).
+[^8]: *Id.* § 13 (f).
+[^9]: Data Privacy Act of 2012, § 21.
+[^10]: National Privacy Commission, CID Case No. 18-E-040, Rala v. Burguillos, et al. (May 12, 2020).
+[^11]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 19 (e) (3) (2016).

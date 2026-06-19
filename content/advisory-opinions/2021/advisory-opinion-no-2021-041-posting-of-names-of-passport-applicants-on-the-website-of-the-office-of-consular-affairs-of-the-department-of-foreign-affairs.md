@@ -45,22 +45,15 @@ As a solution, the DFA intends to publicly post on its website (https://consular
 the names of Philippine passport applicants whose passports were unsuccessfully delivered
 despite repeated attempts. This is also in consideration of the fact that the DFA’s efforts in
 calling and emailing these applicants were equally ineffective. You now ask whether such
-disclosure is permissible under the Data Privacy Act of 20122 (DPA).
+disclosure is permissible under the Data Privacy Act of 2012[^2] (DPA).
 
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Republic Act No. 10173 (2012).
-
-   URL https //www privacy gov ph Email Add info@privacy gov ph * Tel No 8234-2228
-
-Lawful basis for processing personal information;
-Section 12; fulfillment of functions; contract
+#### Lawful basis for processing personal information; Section 12; fulfillment of functions; contract
 
 The DPA applies to the processing of all types of personal information and to any natural and
-juridical person involved in personal information processing.3
+juridical person involved in personal information processing.[^3]
 
-Under the DPA, the names of the passport applicants are considered as personal information,4
-thus, posting of the same on the website of the DFA-OCA constitutes processing5 which
+Under the DPA, the names of the passport applicants are considered as personal information,[^4]
+thus, posting of the same on the website of the DFA-OCA constitutes processing[^5] which
 should comply with the provisions of the DPA, particularly Section 12 of the law providing
 for the criteria for lawful processing of personal information, to wit:
 
@@ -80,7 +73,7 @@ for the criteria for lawful processing of personal information, to wit:
 As applied in this case, Section 12 (e) is applicable and may be the most appropriate lawful
 basis for processing.
 
-We note that the DFA has the legal mandate to enforce Republic Act No. 82396 or the
+We note that the DFA has the legal mandate to enforce Republic Act No. 8239[^6] or the
 Philippine Passport Act of 1996. Specifically, Section 4 of the Philippine Passport Act provides
 for the authority of the DFA to issue passports to citizens of the Philippines in accordance
 with the said law.
@@ -102,11 +95,6 @@ We wish clarify that generally, government agencies cannot rely on its “legiti
 as its as lawful basis for processing. We refer to the restriction in the EU General Data
 Protection Regulation (GDPR) for guidance:
 
-3 Data Privacy Act of 2012, § 4.
-4 Id. § 3 (g).
-5 Id. § 3 (j).
-6 Philippine Passport Act of 1996, Republic Act No. 8239 (1996).
-
    “Article 6
 
    Lawfulness of processing
@@ -121,7 +109,7 @@ Protection Regulation (GDPR) for guidance:
                     in particular where the data subject is a child.
 
    Point (f) of the first subparagraph shall not apply to processing carried
-               out by public authorities in the performance of their tasks.”7
+               out by public authorities in the performance of their tasks.”[^7]
 
 Government agencies’ personal data processing activities should be limited to their
 constitutional or statutory mandates and should not go beyond the same.
@@ -129,8 +117,7 @@ constitutional or statutory mandates and should not go beyond the same.
 Hence, the public disclosure of the names the passport applicants with printed passports
 waiting for delivery may be anchored on Sections 12 (b) and/or (e) as discussed above.
 
-Adherence to the general data privacy principles;
-transparency; proportionality; privacy notice
+#### Adherence to the general data privacy principles; transparency; proportionality; privacy notice
 
 While there may be lawful basis for processing under the DPA, the DFA must always adhere
 to the general data privacy principles of transparency, legitimate purpose, and
@@ -138,7 +125,7 @@ proportionality.
 
 Particularly, the principle of proportionality requires that processing of personal information
 shall be adequate, relevant, suitable, necessary, and not excessive in relation to the declared
-and specified purpose.8 We note from your letter that the DFA intends to post the full names
+and specified purpose.[^8] We note from your letter that the DFA intends to post the full names
 and the corresponding sites where the passports will be released to the applicants. The DFA
 must have an assessment and determination that such public posting of the full names of the
 applicants is the least privacy intrusive manner of processing in relation to the declared
@@ -149,18 +136,10 @@ personal information on the website. This may be done through an appropriate pri
 
 A privacy notice is “a statement made to a data subject that describes how an organization
 collects, uses, retains and discloses personal information. A privacy notice may be referred to
-as a privacy statement, a fair processing statement or, sometimes, a privacy policy.9
+as a privacy statement, a fair processing statement or, sometimes, a privacy policy.[^9]
 
 If not already included, the DFA should include a privacy notice in its passport application
 form so that moving forward, its clients may be apprised of the possible posting of their names
-
-7 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural
-
-persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC
-(General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Art. 6 (1) (f) (4 May 2016).
-8 Data Privacy Act of 2012, § 11 (c).
-9 IAPP, Glossary of Privacy Terms, available at https://iapp.org/resources/glossary/#paperwork-reduction-act-2
-
 in case of unsuccessful deliveries of their passports.
 
 This opinion is based solely on the limited information you have provided. Additional
@@ -178,3 +157,12 @@ Noted by:
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
+
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: Data Privacy Act of 2012, § 4.
+[^4]: Id. § 3 (g).
+[^5]: Id. § 3 (j).
+[^6]: Philippine Passport Act of 1996, Republic Act No. 8239 (1996).
+[^7]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Art. 6 (1) (f) (4 May 2016).
+[^8]: Data Privacy Act of 2012, § 11 (c).
+[^9]: IAPP, Glossary of Privacy Terms, available at https://iapp.org/resources/glossary/#paperwork-reduction-act-2

@@ -16,12 +16,11 @@ draft: false
 
 ## Text
 
- 19 November 2023
+19 November 2023
 
-   Re:     DISCLOSURE OF VESSEL RECORDS FROM REGULATORY
-                       AGENCY THRU REQUEST LETTER
+Re: DISCLOSURE OF VESSEL RECORDS FROM REGULATORY AGENCY THRU REQUEST LETTER
 
-Dear                                               .:
+Dear [Redacted]:
 
 We respond to your query on whether the Maritime Industry Authority (MARINA) can
 release to a law firm the copies of the Certificate of Philippine Registration and other records
@@ -41,7 +40,7 @@ Thus, you raise the following concerns:
 
 ### Discussion
 
-#### Scope of the DPA; juridical entities; Personal information.
+#### Scope of the DPA; Juridical Entities; Personal Information
 
 The Data Privacy Act of 2012 (DPA)[^2] applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing, subject to the exceptions laid down in the law.[^3] Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^4] Thus, the DPA applies only to the processing of personal information of natural persons, not juridical persons.[^5]
 
@@ -72,11 +71,6 @@ our present position. Please note further that our Advisory Opinion is not inten
 adjudicate the rights and obligations of the parties involved.
 
 For your reference.
-
-4 Id. § 3 (g).
-6 Maritime Industry Authority, Revised Rules for the Registration, Documentation and Deletion of Ships Operating in Philippine
-
-Waters (January 18, 2023).
 
 Very truly yours,
 

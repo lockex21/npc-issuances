@@ -32,7 +32,7 @@ Consequently, you seek our opinion to support your request and justify the relea
 
 ### Discussion
 
-National Commission on Muslim Filipinos; mandate.
+#### National Commission on Muslim Filipinos; Mandate
 
 Under Republic Act (RA) 9997,[^3] the NCMF is mandated to preserve and develop the culture, tradition, institutions, and well-being of Muslim Filipinos, in conformity with the country’s laws and in consonance with national unity and development.
 
@@ -42,19 +42,13 @@ While the processing of the personal data of Muslim OFWs may fall within the man
 
 It is worth noting further that Section 15 of RA 9997 explicitly provides for the extent of the functions of the Hajj Attaché:
 
-> Section 15. Hajj Attaché.— The President shall appoint a Hajj Attaché from among the three (3) recommendees of the Commission within fifteen (15) days from the submission of such recommendees by the Commission. **The Hajj Attaché shall coordinate with the Ministry of Hajj of the Kingdom of Saudi Arabia on all matters pertaining to the conduct of the annual Hajj.** He/She shall be an academic degree holder and must be able to write and speak fluently the Arabic language. He/She shall hold office in the Kingdom of Saudi Arabia and shall enjoy the same rank, salary, and privileges as those of Attachés of the national government. (Emphasis supplied).
+> Section 15. Hajj Attaché.— The President shall appoint a Hajj Attaché from among the three (3) recommendees of the Commission within fifteen (15) days from the submission of such recommendees by the Commission. **The Hajj Attaché shall coordinate with the Ministry of Hajj of the Kingdom of Saudi Arabia on all matters pertaining to the conduct of the annual Hajj.** He/She shall be an academic degree holder and must be able to write and speak fluently the Arabic language. He/She shall hold office in the Kingdom of Saudi Arabia and shall enjoy the same rank, salary, and privileges as those of Attachés of the national government. (Emphasis supplied.)
 
 From the foregoing, we note that the authority of the Hajj Attaché is limited to all matters pertaining to the conduct of the annual Hajj to the Kingdom of Saudi Arabia. Thus, there may be a need to also determine whether the NCMF, through the Hajj Attaché, is the appropriate department to handle the above concerns or if it would be more legally sound to refer the concern to other agencies (i.e., the Subject Departments).
 
 #### Scope; Lawful Basis for Processing Personal Information; Section 12; Legal Obligation; Legitimate Interest
 
 The DPA applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.[^4]
-
-3 An Act Creating the National Commission on Muslim Filipinos Defining its Powers, Functions and Responsibilities and
-
-Appropriation Funds Therefor and for other purposes [National Commission on Muslim Filipinos Act of 2009], Republic
-Act No. 9997, § 4 (2009).
-4 Data Privacy Act of 2012, § 4.
 
 As discussed above, if after judicious assessment it is determined that the mandate of the NCMF and/or the Hajj Attaché may cover the processing of personal data for the purpose of reaching out to distressed Muslim OFWs, their families, and relatives, then the processing of their personal data may be justified as will be discussed below.
 

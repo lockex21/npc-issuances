@@ -55,8 +55,3 @@ Privacy Commissioner and Chairman
 [^7]: *Id.*, §21.
 [^8]: *Supra* note, §12.
 [^9]: *Id.*, §16.
-
-   Id., §20.
-7 Id., §21.
-8 Supra note, §12.
-9 Id., §16.

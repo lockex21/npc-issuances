@@ -28,7 +28,19 @@ draft: false
 
 ## Decision Text
 
+In Re: DATA BREACH INVOLVING THE COMELEC DATA PROCESSING SYSTEM IN WAO, LANAO DEL SUR
+
+NPC CID Case No.: 17-002
+
+For: Violation of the Data Privacy Act of 2012
+
+x------------------------------------------x
+
+PATDU, D.P.C.
+
 Before this Commission is a reported Personal Data Breach involving the Commission on Elections (“COMELEC”) data processing system in Wao, docketed as NPC Case No. 17-002.
+
+### Facts
 
 COMELEC reported that on 11 January 2017, a desktop computer of the Office of the Election Officer (“OEO”) of Wao was stolen by unidentified persons. The desktop computer contained, among other applications, the Voter Registration System (“VRS”) and the Voter Search (“VS”) program that utilize the data stored in the National List of Registered Voters (“NLRV”).
 
@@ -169,8 +181,6 @@ The National Privacy Commission is mandated, under the DPA, to protect personal 
 > A procedure for post-breach review must be established for the purpose of improving the personal data breach management policies and procedures of the personal information controller or personal information processor.
 
 In order to ensure that existing breach management policies and procedures are being implemented, this Commission finds it necessary to further require COMELEC to submit its post-breach review report.
-
-### Dispositive Portion
 
 **WHEREFORE**, premises considered, the COMMISSION ON ELECTIONS is **ORDERED** to **SUBMIT** to this Commission, within thirty (30) days from receipt of this Decision:
 

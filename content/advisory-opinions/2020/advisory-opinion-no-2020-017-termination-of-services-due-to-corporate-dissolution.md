@@ -29,7 +29,7 @@ We write in response to your request for an advisory opinion received by the Nat
 Commission (NPC) which sought to clarify matters in relation to the termination of the
 Software Implementation Agreement (SIA) entered into by and between The Bayleaf, Lyceum
 of the Philippines (Bayleaf) and HDI System Technologies, Inc. (HDI) vis-à-vis the provisions
-of the Data Privacy Act of 20122 (DPA).
+of the Data Privacy Act of 2012[^2] (DPA).
 
 We understand that Bayleaf and HDI executed a SIA for the latter to provide human resource
 software modules to the former.
@@ -60,6 +60,8 @@ on the following matters:
        responsible party is a dissolved corporation? Based on the facts, who should be made
        liable?
 
+### Discussion
+
 #### Relationship between Bayleaf and HDI
 
 An examination of the SIA executed between the parties would reveal that Bayleaf is the
@@ -78,8 +80,6 @@ But as stated in your letter request, “in the course of performing the service
 personal data.” With this, we therefore assume that HDI is a PIP who had the occasion to
 process personal data during the implementation of the SIA.
 
-### Discussion
-
 #### Disposal of information upon termination of agreement
 
 The determination of the appropriate security measures to be undertaken by the parties with
@@ -92,28 +92,24 @@ In this case, Paragraph 11.4 of the SIA provides for the proper and full turnove
 information upon termination of the Agreement between the parties. While there is a
 provision providing for the proper and full turnover of confidential information, the parties
 may also be guided by Section 27 (d) of the Implementing Rules and Regulations (IRR) of the
-Data Privacy Act of 20123. Said provision mandates the parties to implement policies and
+Data Privacy Act of 2012[^3]. Said provision mandates the parties to implement policies and
 procedures regarding the transfer, removal, disposal, and re-use of electronic media, to ensure
 appropriate protection of personal data.
 
 On the other hand, in determining the appropriate level of security that should be
 implemented, the parties may be guided by Section 29 of the IRR. As such, the parties should
 take into account the nature of the personal data that requires protection, the risks posed by
-
-3 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-
 the processing, the size of the organization and complexity of its operations, current data
 privacy best practices, and the cost of security implementation.
 
-Waiver of actions; liability for punishable acts under
-the DPA; dissolution; Revised Corporation Code
+#### Waiver of actions; liability for punishable acts under the DPA; dissolution; Revised Corporation Code
 
 We note that the Letter of Agreement provides for the release, discharge and waiver of all
 actions of whatever nature which Bayleaf may have against HDI in connection with any
 data/information which HDI acquired under the SIA. However, basic is the principle that the
 law is deemed written into every contract, such that while a contract is the law between the
 parties, the provisions of positive law which regulate contracts shall limit and govern their
-relations.4
+relations.[^4]
 
 We note that pursuant to the principle of accountability under the DPA, PICs are expected to
 be responsible for any personal data under its control or custody, including the processing of
@@ -124,13 +120,13 @@ agreement despite the provision on waiver in the Letter of Agreement.
 In any case, a data subject may file a complaint in case of violation of his or her rights. Section
 3 of NPC Circular No. 16-04 provides that persons who are the subject of a privacy violation
 or personal data breach, or who are otherwise personally affected by a violation of the Data
-Privacy Act, may file complaints for violations of the Act.5
+Privacy Act, may file complaints for violations of the Act.[^5]
 
 #### Dissolution of a corporation and concomitant obligations and liabilities
 
 With respect to the dissolution of a corporation and the concomitant obligations and liabilities
 of its directors, officers, and/or employees, the same shall be governed by its Articles of
-Incorporation and By-Laws, and the provisions of the Revised Corporation Code (RCC).6
+Incorporation and By-Laws, and the provisions of the Revised Corporation Code (RCC).[^6]
 
 Particularly, Section 139 of the RCC provides that a corporation shall remain a body corporate
 for three (3) years for purposes of prosecuting and defending suits by or against it and
@@ -142,19 +138,12 @@ members, creditors and other persons in interests.
 In case all of the corporation’s properties are conveyed to trustees within the said three (3)
 year period, the trustees may sue and be sued as such in all matter connected with the
 liquidation. The trustees become the legal owners of the property conveyed, subject to the
-beneficial interest therein of creditors and stockholders.7
+beneficial interest therein of creditors and stockholders.[^7]
 
 Such being the case, the liability of HDI’s directors, officers, employees, agents or
 representatives as stated in paragraphs 15.5 and 15.6 of the SIA will remain until the time
 provided for under the RCC and existing rules and jurisprudence, to enable it to defend any
 suit against it.
-
-4 Heirs of Severina San Miguel v. CA, 416 Phil. 943, 954 (2001).
-5 National Privacy Commission, NPC Advisory Opinion No. 2017-058 (October 3, 2017).
-6 An Act Providing for the Revised Corporation Code of the Philippines [Revised Corporation Code of the Philippines],
-
-Republic Act No. 11232 (2019).
-7 Sec OGC-Opinion No. 18-09 dated June 4, 2018 citing Reburiano v. CA (G.R. No. 102965, January 21, 1999).
 
 In addition, the dissolution of the company will not affect its liability because the clauses in
 the SIA, by nature and intent, are intended to survive the termination of the agreement, as
@@ -175,3 +164,10 @@ Very truly yours,
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
+
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
+[^4]: Heirs of Severina San Miguel v. CA, 416 Phil. 943, 954 (2001).
+[^5]: National Privacy Commission, NPC Advisory Opinion No. 2017-058 (October 3, 2017).
+[^6]: An Act Providing for the Revised Corporation Code of the Philippines [Revised Corporation Code of the Philippines], Republic Act No. 11232 (2019).
+[^7]: Sec OGC-Opinion No. 18-09 dated June 4, 2018 citing Reburiano v. CA (G.R. No. 102965, January 21, 1999).

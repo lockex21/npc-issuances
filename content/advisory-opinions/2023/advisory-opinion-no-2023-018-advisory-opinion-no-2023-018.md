@@ -16,7 +16,7 @@ draft: false
 
 ## Text
 
-**ADVISORY OPINION NO. 2023-018[^1]**
+**ADVISORY OPINION NO. 2023-018**
 
 29 September 2023
 
@@ -32,7 +32,7 @@ You mention that PDEA-NCR’s anti-drug operations reveal that condominium units
 
 However, reports from several PDEA-NCR district offices reveal that most of the CAMOs hesitate to provide the requested information due to the perceived violation of the data privacy rights of the condominium unit owners/tenants. You also inform that barangay officials share in PDEA-NCR’s dilemma in connection with their barangay drug clearing programs.
 
-Thus, you ask if the CAMOs within PDEA-NCR’s jurisdiction can rightfully refuse the request for information citing the Data Privacy Act of 2012 (DPA).[^2]
+Thus, you ask if the CAMOs within PDEA-NCR’s jurisdiction can rightfully refuse the request for information citing the Data Privacy Act of 2012 (DPA).[^1]
 
 #### Personal Data; Special Cases; Lawful Processing; Mandate of PDEA
 
@@ -44,7 +44,7 @@ The DPA applies to the processing of personal and sensitive personal information
 >
 > xxx
 >
-> (e) The processing is necessary in order to respond to a national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority, which necessarily includes the processing of personal data for the fulfillment of its mandate;[^3]
+> (e) The processing is necessary in order to respond to a national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority, which necessarily includes the processing of personal data for the fulfillment of its mandate;[^2]
 >
 > xxx
 >
@@ -52,7 +52,7 @@ The DPA applies to the processing of personal and sensitive personal information
 >
 > (a) The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing;
 >
-> (b) The processing of the same is provided for by existing laws and regulations: Provided, that such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: Provided, further, That the consent of the data subjects is not required by law or regulation permitting the processing of the sensitive personal information or the privileged information;[^4] (Emphasis Supplied)
+> (b) The processing of the same is provided for by existing laws and regulations: Provided, that such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: Provided, further, That the consent of the data subjects is not required by law or regulation permitting the processing of the sensitive personal information or the privileged information;[^3] (Emphasis Supplied)
 >
 > xxx
 
@@ -68,7 +68,7 @@ On the other hand, Section 5 of the Implementing Rules and Regulations (IRR) of 
 >
 > Provided, that the non-applicability of the Act or these Rules do not extend to personal information controllers or personal information processors who remain subject to the requirements of implementing security measures for personal data protection: Provided further, that the processing of the information provided in the preceding paragraphs shall be exempted from the requirements of the Act only to the minimum extent necessary to achieve the specific purpose, function or activity.
 
-We note that under Section 84 (b) of the Republic Act (RA) 9165,[^5] PDEA has the mandate to:
+We note that under Section 84 (b) of the Republic Act (RA) 9165,[^4] PDEA has the mandate to:
 
 > **Section 84. Powers and Duties of the PDEA.** – The PDEA shall: xxx
 >
@@ -80,13 +80,13 @@ RA 9165 also states that one of the powers of PDEA is the issuance of a subpoena
 
 > **Section 84. Powers and Duties of the PDEA.** – The PDEA shall: xxx
 >
-> c) Administer an oath, issue a subpoena and subpoena duces tecum relative to the conduct of an investigation involving the violations of this act;[^6]
+> c) Administer an oath, issue a subpoena and subpoena duces tecum relative to the conduct of an investigation involving the violations of this act;[^5]
 >
 > (Underscoring supplied)
 
 Further, PDEA’s Code of Professional Conduct and Ethical Standards provides for a list of officials who may issue a subpoena, to wit:
 
-> **l. Issuance of Subpoena from PDEA** – The officers or officials authorized to issue the subpoena pursuant to Section 84(c) of R.A. 9165 include the Director General, and as a delegated authority, the Deputy Directors for Operations and Administration, the Service Directors of Legal and Prosecution Service, Investigation and Intelligence Service, Internal Affairs Service, and Compliance Service of the National Head Office, and the respective Regional Directors within their areas of jurisdiction, as well as the Director (Head) of Special Enforcement Service.[^7]
+> **l. Issuance of Subpoena from PDEA** – The officers or officials authorized to issue the subpoena pursuant to Section 84(c) of R.A. 9165 include the Director General, and as a delegated authority, the Deputy Directors for Operations and Administration, the Service Directors of Legal and Prosecution Service, Investigation and Intelligence Service, Internal Affairs Service, and Compliance Service of the National Head Office, and the respective Regional Directors within their areas of jurisdiction, as well as the Director (Head) of Special Enforcement Service.[^6]
 
 Considering that PDEA’s own rules require the issuance of a subpoena duces tecum, then such
 procedure must be observed in requesting information involving personal data from the
@@ -104,7 +104,7 @@ the law does not give PICs unbridled authority over the personal data collected.
 PDEA, must still adhere to the guidelines on how to properly process personal information
 under the DPA.
 
-You also cited in your request our Advisory Opinion 2021-028,[^8] and insisted on its application to your situation. To recall, Advisory Opinion 2021-028 involves somehow a similar situation in that a letter was sent by the Bureau of Internal Revenue (BIR) to a condominium corporation requesting the disclosure of personal data of tenants. In allowing the disclosure pursuant to Section 4 of the DPA, we discussed therein the following requirements, viz:
+You also cited in your request our Advisory Opinion 2021-028,[^7] and insisted on its application to your situation. To recall, Advisory Opinion 2021-028 involves somehow a similar situation in that a letter was sent by the Bureau of Internal Revenue (BIR) to a condominium corporation requesting the disclosure of personal data of tenants. In allowing the disclosure pursuant to Section 4 of the DPA, we discussed therein the following requirements, viz:
 
    •    The information is necessary in order to carry out the law enforcement or
            regulatory function of a public authority;
@@ -122,15 +122,13 @@ You also cited in your request our Advisory Opinion 2021-028,[^8] and insisted o
 At first glance, PDEA-NCR’s present concern appears to be similar to the situation presented
 in Advisory Opinion 2021-028. However, the difference lies in the fact that the BIR rules allow
 the issuance of an “access to records letter” pursuant to Sec. 5(b) of the National Internal
-Revenue Code, unlike the PDEA rules which requires a subpoena duces tecum. Consequently,
+Revenue Code, unlike the PDEA rules which requires a subpoena duces tecum.[^6] Consequently,
 for PDEA-NCR’s processing to be legal under the DPA, its rules on the issuance of a subpoena
 duces tecum must be complied with.
 
-7 PDEA Code of Professional Conduct and Ethical Standards, §1(l).
-
 #### Adherence to Data Privacy Principles
 
-While the DPA recognizes the mandate of different government agencies, the law is categorical in stating that the processing of personal information must still adhere to the principles of transparency, legitimate purpose, and proportionality. Personal information must be collected for specified and legitimate purposes determined and declared before, or as soon as reasonably practicable after collection, and later processed in a way compatible with such declared, specified and legitimate purpose only.[^11]
+While the DPA recognizes the mandate of different government agencies, the law is categorical in stating that the processing of personal information must still adhere to the principles of transparency, legitimate purpose, and proportionality. Personal information must be collected for specified and legitimate purposes determined and declared before, or as soon as reasonably practicable after collection, and later processed in a way compatible with such declared, specified and legitimate purpose only.[^8]
 
 For the principle of proportionality, it requires that the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not be fulfilled by other means.[^9] It also states that personal data shall only be processed only if the purpose of the processing could not be reasonably fulfilled by any other means.[^10] In addition, only those personal data that are needed in relation to the declared and stated purpose should be disclosed to the requesting entities, such as PDEA-NCR.
 
@@ -152,14 +150,13 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
-[^1]: Section 84 of the Comprehensive Dangerous Drugs Act of 2012.
-[^2]: Republic Act No. 10173 (2012).
-[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, §12 (a), (e) (2012).
-[^4]: *Id.*, §13 (a), (b).
-[^5]: An Act Instituting the Comprehensive Dangerous Drugs Act of 2002, Repealing Republic Act No. 6425, otherwise known as the Dangerous Drugs Act of 1972, as amended, providing funds therefor and for other purposes [Comprehensive Dangerous Drugs Act of 2002] (2002), §84(b).
-[^6]: Comprehensive Dangerous Drugs Act of 2002, §84(c).
-[^7]: PDEA Code of Professional Conduct and Ethical Standards, §1(l).
-[^8]: National Privacy Commission, NPC Advisory Opinion No. 2021-028.
-[^9]: Republic Act No. 10173, §13(c).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: *Id.*, §12 (a), (e).
+[^3]: *Id.*, §13 (a), (b).
+[^4]: An Act Instituting the Comprehensive Dangerous Drugs Act of 2002, Repealing Republic Act No. 6425, otherwise known as the Dangerous Drugs Act of 1972, as amended, providing funds therefor and for other purposes [Comprehensive Dangerous Drugs Act of 2002] (2002), §84(b).
+[^5]: Comprehensive Dangerous Drugs Act of 2002, §84(c).
+[^6]: PDEA Code of Professional Conduct and Ethical Standards, §1(l).
+[^7]: National Privacy Commission, NPC Advisory Opinion No. 2021-028 (16 July 2021).
+[^8]: Republic Act No. 10173, §11(a).
+[^9]: *Id.* §13(c).
 [^10]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §18 (c) (2016).
-[^11]: Republic Act No. 10173, §11(a).

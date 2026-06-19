@@ -28,7 +28,7 @@ Dear [Redacted],
 We write in response to your request for advisory opinion received by the National
 Privacy Commission (NPC or the Commission) to provide clarity on whether the release
 of loan documents containing personal data is allowed under the Data Privacy Act of
-20122 (DPA), particularly in relation to Section 13 (f) on the establishment of legal claims.
+2012[^2] (DPA), particularly in relation to Section 13 (f) on the establishment of legal claims.
 
 From your letter, we understand that Atty. RAN, on behalf of his client, Mr. CGS, wrote
 to the Home Development Mutual Fund (Pag-IBIG Fund) Loans Origination Department
@@ -41,12 +41,7 @@ lots). Atty. RAN mentioned that the intention was to re-sell the lots and the pr
 to pay Mr. CGS. However, when Mr. CGS demanded payment, Mr. RV declared that the
 properties are yet to be sold. Upon verification, Mr. CGS found out that the properties
 were purportedly bought by a certain Mr. ZPJ through a Pag-IBIG Fund housing loan
-with the proceeds released to the seller, Ms. CVG. Thus, Atty. RAN stated the vouchers
-
-Republic Act No. 10173 (2012).
-
-are material evidence in his client’s pursuit of justice in the event the Ms. CVG and her
-brother fail to settle their obligation.
+with the proceeds released to the seller, Ms. CVG. Thus, Atty. RAN stated the vouchers are material evidence in his client’s pursuit of justice in the event the Ms. CVG and her brother fail to settle their obligation.
 
 Finally, we understand there is a disagreement between Pag-IBIG Fund and Atty. RAN
 as shown through the exchange of letters between parties. According to Pag-IBIG Fund,
@@ -93,12 +88,10 @@ The focal point of the query is Section 13 (f) of the DPA, which provides:
    (f) The processing concerns such personal information as is necessary for the protection
           of lawful rights and interests of natural or legal persons in court proceedings, or the
           establishment, exercise or defense of legal claims, or when provided to government or
-          public authority.3 (emphasis supplied)
-
-3 Data Privacy Act of 2012, § 13 (f).
+          public authority.[^3] (emphasis supplied)
 
 In the interpretation of the phrase “establishment, exercise or defense of legal claims,” the
-Commission reiterated its stand in the case of BGM vs. IPP,4 viz:
+Commission reiterated its stand in the case of BGM vs. IPP,[^4] viz:
 
    In the case of NPC 17-018 dated 15 July 2019, this Commission held that “processing as
          necessary for the establishment of legal claims” does not require an existing court
@@ -111,7 +104,7 @@ Commission reiterated its stand in the case of BGM vs. IPP,4 viz:
    …
 
    The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder
-         legitimate proceedings.5
+         legitimate proceedings.[^5]
 
 Given the above, the establishment of legal claims requiring the processing of sensitive
 personal information is permitted under the DPA. The term establishment may include
@@ -145,14 +138,8 @@ same vein:
    Although Section 13(f) applies to sensitive personal information while the information
          involved in this case is just personal information, the protection of lawful rights and
 
-4 National Privacy Commission, NPC 19-653 (Dec. 17, 2020), available at
-
-https://www.privacy.gov.ph/wpcontent/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-
-21Dec2020.pdf (last accessed 07 September 2021).
-5 Citations omitted.
-
    interests under Section 13(f) by the Respondent is considered as legitimate interest
-         pursuant to Section 12(f) of the DPA.6
+         pursuant to Section 12(f) of the DPA.[^6]
 
 Thus, Pag-IBIG Fund may release certified copies of the requested loan documents, sans
 the consent of the data subjects involved, keeping in mind the purpose of the request and
@@ -170,4 +157,8 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-6 See footnote 4; citing CID Case No. 17-K-003 dated 19 November 2019 and NPC 18-135 dated 06 August 2020.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: Data Privacy Act of 2012, § 13 (f).
+[^4]: National Privacy Commission, NPC 19-653 (Dec. 17, 2020), available at https://www.privacy.gov.ph/wpcontent/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 07 September 2021).
+[^5]: Citations omitted.
+[^6]: See footnote 4; citing CID Case No. 17-K-003 dated 19 November 2019 and NPC 18-135 dated 06 August 2020.

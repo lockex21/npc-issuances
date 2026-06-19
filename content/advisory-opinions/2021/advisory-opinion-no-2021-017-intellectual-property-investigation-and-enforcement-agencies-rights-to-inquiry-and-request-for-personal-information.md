@@ -13,7 +13,7 @@ draft: false
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2021-017.pdf
 - Issue date: 06/08/2021
 - Subject: Intellectual Property Investigation And Enforcement Agencies’ Rights To Inquiry And Request For Personal Information
-- Tags: Law enforcement; investigation; mandate; due process; data sharing; data sharing agreement;
+- Tags: law enforcement; investigation; mandate; due process; data sharing; data sharing agreement
 - OCR used during extraction: no
 
 ## Text
@@ -39,7 +39,7 @@ queries on suspected IPR violators.
 
 #### Scope of the Data Privacy Act of 2012; criteria for lawful processing of personal data
 
-The Data Privacy Act of 2012 2 (DPA) applies to the processing of personal information,
+The Data Privacy Act of 2012[^2] (DPA) applies to the processing of personal information,
 sensitive personal information, and privileged information (collectively, personal data) of
 natural persons by the government and private entities and individuals, within and outside
 the Philippines.
@@ -49,24 +49,20 @@ this scenario, Section 12 (e) of the DPA may be applicable. This provides for th
 personal information necessary to fulfill functions of a public authority which necessarily
 includes the processing of personal data for the fulfillment of its mandate.
 
-(2012).
-
-   th
-
 In addition, for processing sensitive personal information and privileged information, Section
 13 should likewise be considered. The said provision recognizes various lawful bases for
 processing applicable in this case, i.e., the processing is provided for by existing laws and
-regulations, 3 or the processing concerns such personal information as is necessary for the
+regulations,[^3] or the processing concerns such personal information as is necessary for the
 protection of lawful rights and interests of natural or legal persons in court proceedings, or
 the establishment, exercise or defense of legal claims, or when provided to government or
-public authority.4
+public authority.[^4]
 
 #### Mandate of the NCIPR and member agencies; manner of requesting information; due process; general data privacy principles
 
 In relation to the above, we understand that Executive Order (EO) No. 7365 created the NCIPR.
 The said EO provides as one of the NCIPR’s mandates is to intensify regular and effective
 enforcement against IPR violations, and to allocate sufficient resources to ensure effective
-prosecution of pirates and counterfeiters.6
+prosecution of pirates and counterfeiters.[^6]
 
 The NCIPR is composed of the following agencies:
 
@@ -96,14 +92,6 @@ memoranda, letters, and other communication, among others, depending on several 
 such as the stage of the investigation or enforcement action as well as the powers of the
 particular member agency, i.e., some may have subpoena powers and while others do not.
 
-3 Data Privacy Act of 2012, § 13 (b).
-4 Id. § 13 (f).
-5 Office of the President, Institutionalizing Permanent Units To Promote, Protect And Enforce Intellectual Property Rights
-
-(IPR) In Different Law Enforcement And Other Agencies Under The Coordination Of The National Committee On
-Intellectual Property Rights (NCIPR), Executive Order No. 736 [E.O. No. 736] (June 21, 2008).
-6 E.O. No. 736, § 4.
-
 While the NPC is not fully cognizant of all means and methods by which government agencies
 can validly request for information, essentially, the NPC simply requires that all agencies
 processing personal data, whether for law enforcement, investigative, regulatory, or some
@@ -131,7 +119,7 @@ under EO No. 736 and related IPR laws, rules, and regulations.
 We remind government agencies that the DPA is not meant to prevent them from processing
 personal data when necessary to fulfill their mandates. Rather, it aims to protect the right to
 information privacy while ensuring free flow of information. What the DPA does is to
-promote fair, secure, and lawful processing of such information.7
+promote fair, secure, and lawful processing of such information.[^7]
 
 This opinion is based solely on the limited information you have provided. Additional
 information may change the context of the inquiry and the appreciation of facts. This opinion
@@ -144,4 +132,10 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-No. 2018-083 (Nov. 26, 2018).
+[^1]: Tags: law enforcement; investigation; mandate; due process; data sharing; data sharing agreement;
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], (2012).
+[^3]: Data Privacy Act of 2012, § 13 (b).
+[^4]: Id. § 13 (f).
+[^5]: Office of the President, Institutionalizing Permanent Units To Promote, Protect And Enforce Intellectual Property Rights (IPR) In Different Law Enforcement And Other Agencies Under The Coordination Of The National Committee On Intellectual Property Rights (NCIPR), Executive Order No. 736 [E.O. No. 736] (June 21, 2008).
+[^6]: E.O. No. 736, § 4.
+[^7]: See: National Privacy Commission, NPC Advisory Opinion No. 2019-046 (Dec. 17, 2019) citing NPC Advisory Opinion No. 2018-083 (Nov. 26, 2018).

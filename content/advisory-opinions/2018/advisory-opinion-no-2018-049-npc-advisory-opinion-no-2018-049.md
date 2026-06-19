@@ -39,7 +39,7 @@ regarding disclosure to the media:
 
 #### Disclosure to the Police in Relation to a Criminal Investigation
 
-The Data Privacy Act of 2012 (DPA)1 is a law that involves primarily one aspect of privacy, that of
+The Data Privacy Act of 2012 (DPA)[^1] is a law that involves primarily one aspect of privacy, that of
 information privacy. Strictly, the DPA does not include in its coverage hospital policies that pertain
 to hospital operations including procedures in dealing with law enforcement, except to the extent
 that they relate to the protection of personal data.
@@ -47,11 +47,6 @@ that they relate to the protection of personal data.
 The DPA states that the processing of personal information shall be allowed, subject to compliance
 with the requirements of the DPA and other laws allowing disclosure of information to the public
 and adherence to the principles of transparency, legitimate purpose and proportionality.[^2]
-
-1 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
-
-2012], Republic Act No. 10173 (2012).
-2 Data Privacy Act of 2012, § 11.
 
 In general, a hospital should not release health information about patients unless with their
 consent or with authority of law. For personal information, which may include the name of patient,
@@ -91,7 +86,7 @@ provision of law. The following provisions in Section 13 of the DPA may be appli
          provided to government or public authority.”
 
 Relative to the abovementioned provisions, the Philippine National Police (PNP) has the following
-powers and functions, as enumerated in Section 24 of Republic Act No. 6975:3
+powers and functions, as enumerated in Section 24 of Republic Act No. 6975:[^3]
 
    a. Enforce all laws and ordinances relative to the protection of lives and properties;
          b. Maintain peace and order and take all necessary steps to ensure public safety;
@@ -104,11 +99,6 @@ strictly following the existing standard operating procedures in the conduct of 
 and law enforcement operation as stated in the Revised PNP Operational Procedures, and other
 pertinent laws, rules, and regulations governing the same (i.e. criminal procedures on search and
 
-3 An Act Establishing The Philippine National Police Under A Reorganized Department Of The Interior And Local
-
-Government, And For Other Purposes [Department of the Interior and Local Government Act of 1990] Republic Act No.
-6975 (1990).
-
 seizure, etc.) Only these contexts do the exercise of a mandate becomes a lawful basis for
 processing.
 
@@ -117,11 +107,11 @@ suspect, (b) to locate the suspect, and (c) to provide evidence of his guilt. In
 duties, the investigator must seek to establish the six (6) cardinal points of investigation, namely:
 what specific offense has been committed; how the offense was committed; who committed it;
 where the offense was committed; when it was committed; and why it was committed. Taking of
-sworn statements of suspects and witnesses is also part of the investigation protocol. 4
+sworn statements of suspects and witnesses is also part of the investigation protocol.[^4]
 
 Further, there are reporting requirements under existing laws which requires disclosure of
 information about particular medical conditions to specific government agencies, such as serious
-and less serious physical injuries5 and suspected cases of child abuse or maltreatment.6
+and less serious physical injuries[^5] and suspected cases of child abuse or maltreatment.[^6]
 
 Nevertheless, while the DPA recognizes such mandate, the law is also categorical in stating that
 the processing of personal information must adhere to the principles of transparency, legitimate
@@ -137,13 +127,13 @@ orders authorized by law.
 
 Section 13(f) of the DPA does not provide law enforcement agencies unrestricted access to health
 information being kept in a hospital. Note that under the EU General Data Protection Regulation
-(GDPR),7 “establishment, exercise or defense of legal claims” refers to processing of information
+(GDPR),[^7] “establishment, exercise or defense of legal claims” refers to processing of information
 in the context of seeking legal advice. This covers a range of activities, in the context of a criminal
 or administrative investigation, for the purpose of defending oneself or for obtaining a reduction
 or waiver of a fine legally foreseen, e.g. in anti-trust investigations. This also includes for the
 purpose of formal pre-trial discovery procedures in civil litigation and cover actions by the data
 controller to institute procedures for example commencing litigation or seeking approval of a
-merger.8
+merger.[^8]
 
 Section 13(f) should also be read in accordance with the 1987 Philippine Constitution, particularly
 Art. III, Section 2:
@@ -155,17 +145,6 @@ Art. III, Section 2:
          examination under oath or affirmation of the complainant and the witnesses he may
          produce, and particularly describing the place to be searched and the persons or
          things to be seized.”
-
-4 Philippine National Police Criminal Investigation Manual (Revised), 2011.
-5 P.D. 169, amended by E.O. No. 212, “Requiring Doctors, Hospitals, Clinics, etc. to Report Treatment of Physical Injuries”
-
-July 10, 1987
-6 The Child and Youth Welfare Code [Presidential Decree No. 603] Art. 166 (1974).
-7 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural
-
-persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive
-95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119 (4 May 2016).
-8 Working Party of EU Data Protection Authorities, Guidelines on Article 49 of Regulation 2016/679 (February 6, 2018).
 
 #### Disclosure to the Media
 
@@ -183,15 +162,15 @@ same may be taken into consideration in the evaluation of balancing patient priv
 public’s right to know. As a rule of thumb, whenever there is uncertainty as to whether the
 personal information should be disclosed or not, the PIC should strive to lean towards an
 interpretation that is mindful of the rights and interests of the individual about whom the personal
-information is processed.9
+information is processed.[^9]
 
 #### Policy for Requests for Personal Information of Patients
 
 Considering the foregoing, it would be judicious on your part to develop a policy for requests for personal information and/or interviews from the police and the media. The policy may include
 guidelines on how the hospital can verify the veracity of the police investigation as well as confirm
 the occurrence of the alleged criminal act. This may be done through the presentation of a police
-blotter.10 Also, an evaluation of the personal data required to be disclosed vis-à-vis its intended
-purpose should be done to ensure that it is relevant, necessary, adequate, and not excessive. 11
+blotter.[^10] Also, an evaluation of the personal data required to be disclosed vis-à-vis its intended
+purpose should be done to ensure that it is relevant, necessary, adequate, and not excessive.[^11]
 
 The hospital and its personnel should not obstruct an investigation, but policies or procedures
 must be in place for balancing the legitimate interests of the State and the rights and freedoms of
@@ -212,15 +191,9 @@ this purpose, access to patients may be limited if the same would put at risk th
 health. For example, a patient who is unstable may require urgent medical interventions before
 any interview is allowed.
 
-9 Data Privacy Act of 2012, § 38.
-10 As a rule, all crime incidents must be recorded in the official police blotter. See: Philippine National Police Criminal
-
-Investigation Manual (Revised), 2011.
-11 See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
-
 Lastly, it should be noted that as data subjects, the patients should be informed that they may be
-interviewed by the police in relation to investigations of crimes.12 The police cannot compel an
-individual to agree to an interview, even if the individual is lawfully arrested. 13 The hospital
+interviewed by the police in relation to investigations of crimes.[^12] The police cannot compel an
+individual to agree to an interview, even if the individual is lawfully arrested.[^13] The hospital
 should put in place policies to ensure that such interviews, where allowed, will be conducted in a
 manner that would protect the rights of other patients in the facility, and cause minimal disruption
 in the hospital operations. These may include providing a specific area where the interview will
@@ -246,5 +219,16 @@ Officer-in-Charge and
 Deputy Privacy Commissioner
 for Policies and Planning
 
-[^1]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 34 (a).
-[^2]: PHIL. CONST. art. III, § 12. (1) Any person under investigation for the commission of an offense shall have the right to be informed of his right to remain silent and to have competent and independent counsel preferably of his own choice. If the person cannot afford the services of counsel, he must be provided with one. These rights cannot be waived except in writing and in the presence of counsel.
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: Data Privacy Act of 2012, § 11.
+[^3]: An Act Establishing The Philippine National Police Under A Reorganized Department Of The Interior And Local Government, And For Other Purposes [Department of the Interior and Local Government Act of 1990] Republic Act No. 6975 (1990).
+[^4]: Philippine National Police Criminal Investigation Manual (Revised), 2011.
+[^5]: P.D. 169, amended by E.O. No. 212, "Requiring Doctors, Hospitals, Clinics, etc. to Report Treatment of Physical Injuries" July 10, 1987
+[^6]: The Child and Youth Welfare Code [Presidential Decree No. 603] Art. 166 (1974).
+[^7]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119 (4 May 2016).
+[^8]: Working Party of EU Data Protection Authorities, Guidelines on Article 49 of Regulation 2016/679 (February 6, 2018).
+[^9]: Data Privacy Act of 2012, § 38.
+[^10]: As a rule, all crime incidents must be recorded in the official police blotter. See: Philippine National Police Criminal Investigation Manual (Revised), 2011.
+[^11]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^12]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, § 34 (a).
+[^13]: PHIL. CONST. art. III, § 12. (1) Any person under investigation for the commission of an offense shall have the right to be informed of his right to remain silent and to have competent and independent counsel preferably of his own choice. If the person cannot afford the services of counsel, he must be provided with one. These rights cannot be waived except in writing and in the presence of counsel.

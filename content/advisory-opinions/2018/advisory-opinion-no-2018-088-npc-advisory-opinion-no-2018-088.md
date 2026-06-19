@@ -28,8 +28,8 @@ Dear [Redacted],
 We write in response to your letter which sought to clarify whether the denial of your request
 for a certified true copy of the Personal Data Sheet (PDS) of your co-employee for record
 purposes and to prove that an act of perjury is committed, is in accordance with the Data
-Privacy Act of 2012 (DPA)2 and NPC Advisory No. 2017-02 - Access to Personal Data Sheets
-of Government Personnel.3
+Privacy Act of 2012 (DPA)[^2] and NPC Advisory No. 2017-02 - Access to Personal Data Sheets
+of Government Personnel.[^3]
 
 ### Discussion
 
@@ -51,10 +51,6 @@ information about the employee’s family which may include information about mi
 children, among others. Thus, the disclosure of a certified Personal Data Sheet should be
 shown as necessary for the purpose of the requesting party, and such purpose must not be
 contrary to law, morals, and public policy.
-
-Republic Act No. 10173 (2012).
-
-Circular 17-02] (April 3, 2017).
 
 We also note the statement in your letter that you have knowledge of the contents of the PDS
 of your co-employee as encoded in the Human Resource Information System (HRIS). In
@@ -78,3 +74,7 @@ Noted by:
 Officer-in-Charge and
 Deputy Privacy Commissioner
 for Policies and Planning
+
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+
+[^3]: National Privacy Commission, Access to Personal Data Sheets of Government Personnel, Circular No. 17-02 [NPC Circular 17-02] (April 3, 2017).

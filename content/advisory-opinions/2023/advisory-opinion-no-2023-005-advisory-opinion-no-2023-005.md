@@ -50,7 +50,7 @@ In view of the above, your office seeks guidance on the following:
     2.) On the privacy-related issues and concerns that may arise out of such system; and
         in this undertaking.
 
-### Sensitive Personal Information; Lawful Processing Regulatory Mandate.
+#### Sensitive Personal Information; Lawful Processing Regulatory Mandate
 
 Under the DPA, the name of an individual is considered personal information. On the other hand,
 an individual’s age, date of birth and vaccination status (since it relates to health information),
@@ -88,7 +88,7 @@ existing laws and regulations, specifically Section 16 of the Local Government C
 MC No. 2022-02, which mandates the creation of an inventory of vaccinated population within
 their respective barangays.
 
-Adherence to the data privacy principles.
+#### Adherence to the Data Privacy Principles
 
 Although there is lawful basis for the processing of personal data, the other requirements of the
 DPA must still be complied with to ensure the protection of personal data and uphold the rights
@@ -135,7 +135,7 @@ should make sure that personal data to be collected from data subjects should on
 the specific and identified purpose/s indicated in DILG MC No. 2022-02. We caution that should
 there be processing beyond the stated purpose, the same may be penalized under the appropriate
 provisions of the DPA, such as Unauthorized Processing of Personal Information, Processing of
-Personal Information for Unauthorized Purposes or Unauthorized Disclosure.10
+Personal Information for Unauthorized Purposes or Unauthorized Disclosure.[^10]
 
 As stated in your letter, personal data to be collected for the said purpose are names, birthdays,
 ages and vaccination status and details. We note that the Punong Barangay’s mandate may
@@ -149,7 +149,7 @@ of vaccinated and unvaccinated individuals to ensure the accuracy of the informa
 inventory should likewise be kept updated within the specified period in case some individuals
 may eventually get vaccinated and no longer be considered as unvaccinated individuals.
 
-Reasonable and appropriate security measures.
+#### Reasonable and Appropriate Security Measures
 
 The barangays, as PICs, should also responsible for the implementation of appropriate and
 reasonable physical, organizational and technical security measures to ensure the privacy of
@@ -183,7 +183,7 @@ conduct of a PIA, you may refer to NPC Advisory No. 2017-03 available at
 https://www.privacy.gov.ph/wp-content/files/attachments/nwsltr/NPC_AdvisoryNo.2017-
 03.pdf.
 
-Statistical data
+#### Statistical Data
 
 You also mentioned in your letter that a statistical summary will be provided to the DILG
 Provincial and Regional Offices and the DILG Central Office, which shall then be used eventually
@@ -203,7 +203,7 @@ which individuals may not be easily or reasonably identified, the raw data colle
 constituents, which remains in the barangay’s custody, should remain to be protected by
 appropriate security measures as mandated under the DPA. Further, the raw data remains subject
 to the compliance with the DPA. This means that if these raw data were to be used for any other
-purpose or activity other than those outlined in DILG MC 2002-02, the barangay may be subjected
+purpose or activity other than those outlined in DILG MC 2022-02, the barangay may be subjected
 to possible findings of non-compliance or violations under the DPA.
 
 Considering the foregoing discussions, the feasibility and compliance of the proposed online
@@ -233,7 +233,7 @@ Director IV, Privacy Policy Office
 [^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(a) (2016).
 [^8]: Id. § 11 (d).
 [^9]: Data Privacy Act of 2012, § 11 (d).
-[^10]: [Not used]
+[^10]: See: National Privacy Commission, NPC Advisory Opinion No. 2022-005 (24 February 2022).
 [^11]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 25 (2016).
 [^12]: NPC Advisory No. 2017-03.
 [^13]: Data Privacy Act of 2012, § 11 (f).

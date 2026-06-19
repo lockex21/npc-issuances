@@ -14,7 +14,6 @@ tags:
 date: "2020-12-17"
 draft: false
 ---
-
 ## Source
 - Reference: NPC 19-910
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-19-910-In-re-FLI-Decision-LYA-Final-pseudonymized-17Dec2020-.pdf
@@ -56,8 +55,6 @@ without complying with the requirements of the
 
 DPA and for failing to adhere to the principles of
 
-> 1
-
 This Commission issued , on 14 May 2019 , Privacy Commission Special Order Nos. 028 and 032-
 
 A, creating and reconstituting the NPC Task Force on Online Lending Mobile Applications. Said
@@ -74,14 +71,10 @@ accomplishing this function, the Task Force submitted a fact-finding report on s
 
 lending companies, one of which is the herein Respondents.
 
-> 2
-
 NPC Circular 16-04. Rules of Procedure of the National Privacy Commission. Dated 15
 
 December 2016. NPC 19-910
 
-> In re: FLI
-> Page 2of 42
 
 Transparency, Legitimate Purpose and
 
@@ -91,14 +84,13 @@ Proportionality;
 
 3. Section 28, for Processing for Unauthorized
 
-Purpos es;
+Purposes;
 
 4. Section 31, for Malicious Disclosure;
 
 5. Section 32, for Unauthorized Disclosure. 3
 
 ### The Complaint
-
 
 The Complaint made the following allegations:
 
@@ -110,7 +102,7 @@ constitutes around 55% of the total complaints filed before the
 
 NPC. This does not include around 2,666 similar concerns raised
 
-throug h email or social media which were not formally filed as
+through email or social media which were not formally filed as
 
 complaints. These numbers are unprecedented, potentially
 
@@ -118,7 +110,7 @@ qualifying any violation of the DPA as large scale processing.
 
 The complaints bring to focus online lending applications, which
 
-can be downloa ded and installed in mobile phones. These
+can be downloaded and installed in mobile phones. These
 
 applications are then used to facilitate loan transactions between
 
@@ -126,7 +118,7 @@ companies and their clients, the data subjects. The applications
 
 provide a platform for the collection of all types of personal
 
-information from va rious device models, which information
+information from various device models, which information
 
 related not just to the clients of the company, but extends to
 
@@ -158,12 +150,8 @@ complainants against the company operating the ABC lending
 
 application were evaluated. It states that individual complainants
 
-> 3Fact-Finding Report dated 29 August 2019, p. 23.
-> 4Id at 1 . NPC 19-910
-> In re: FLI
-> Page 3of 42
 
-relay ed the incidents in the course of their transaction with the
+relayed the incidents in the course of their transaction with the
 
 company based on their personal knowledge, own experiences, and
 
@@ -181,7 +169,7 @@ contact third persons, without their consent or authority;
 
 unwarranted and false information were discussed to third
 
-persons, which included friends, relatives, co -workers and
+persons, which included friends, relatives, co-workers and
 
 superior of the data subject. These persons were often told
 
@@ -205,7 +193,7 @@ threaten or coerce them to settle their loans;
 
 unduly intrusive, including posting in social media of
 
-personal and sensitive personal informa tion of data
+personal and sensitive personal information of data
 
 subjects or even subjecting their contacts to threats and
 
@@ -215,7 +203,7 @@ excessive or otherwise used for purposes beyond what is
 
 necessary or authorized under their agreement. 6
 
-The Complaint cites severa l specific allegations from various
+The Complaint cites several specific allegations from various
 
 statements in different complaints , supported by screen captures by
 
@@ -223,7 +211,7 @@ the complainants , such as :
 
 In CID Case No. 19 -F-415, complainant reveals that prior to
 
-installin g the ABC application, it required permissions to access
+installing the ABC application, it required permissions to access
 
 her contact list and their phone numbers, Facebook and Google
 
@@ -231,7 +219,7 @@ accounts, and others. Furthermore, Complainant in CID Case no.
 
 19 -G-522 alleges that ABC even hacked the photos in her phone,
 
-among other identify ing information. Complainant also received
+among other identifying information. Complainant also received
 
 the following text message:
 
@@ -241,10 +229,6 @@ your contacts. Posting your uploaded picture from Loan
 
 apps to social media.
 
-> 5Id at 2.
-> 6Id ,at 3. NPC 19-910
-> In re: FLI
-> Page 4of 42
 
 We know your home address, office address, and your ugly
 
@@ -262,15 +246,15 @@ outcall activity we have information. You’re done due to
 
 swearing with us.
 
-Goodluck with your privacy l aw. 7
+Good luck with your privacy law. 7
 
 xxx
 
 While some agents make it appear that they are contacting the
 
-complainant’s phone list to aid in collection, a n ABC agent in
+complainant’s phone list to aid in collection, an ABC agent in
 
-CID Case No. 1 9-G-573 admitted that said “text blast” was for
+CID Case No. 19-G-573 admitted that said “text blast” was for
 
 the purpose of ruining complainant’s reputation:
 
@@ -288,7 +272,7 @@ reply if you don’t want us to call of your contact references.
 
 This is the special collections team. 8
 
-The Complaint inc luded a Technical Report , prepared by the
+The Complaint included a Technical Report , prepared by the
 
 Information Technology Officers of the Task Force, in its Annexes to
 
@@ -302,7 +286,7 @@ information about applications, Android build tools, the Android
 
 operating system, and Google Play, the Technical Report revealed that
 
-the ABC application required forty -four ( 44 ) permissions, seven ( 7) of
+the ABC application required forty-four ( 44 ) permissions, seven ( 7) of
 
 which were classified as dangerous permissions. 9
 
@@ -314,12 +298,8 @@ user’s private information or could potentially affect the user’s stored
 
 data or the operation of other apps. For example , the ability to read the
 
-> 7Ibid.
-> 8Id at p. 4.
-> 9ABC App Preliminary Technical Report, 09 Au gust 2019, P.4, citing
 > https://developer.android/com/guide/topics/permissions/overview#dangerous_permissions NPC 19-910
-> In re: FLI
-> Page 5of 42
+
 
 user’s contacts is a dangerous permission. If an app declares that it
 
@@ -327,7 +307,7 @@ needs a dangerous permission, the user has to explicitly grant the
 
 permission to the app. Until the user approves the permission, your
 
-app cannot provide functi onality that depends on that permission. To
+app cannot provide functionality that depends on that permission. To
 
 use a dangerous permission, your app must prompt the user to grant
 
@@ -335,7 +315,7 @@ the permission at runtime.” 10
 
 On 30 August 2019, the Commission issued an Order to File an Answer
 
-pursuant to Section 24 of the NPC Rules of Pro cedure, dir ected to
+pursuant to Section 24 of the NPC Rules of Procedure, directed to
 
 Respondent FLI and its responsible officers specifically ML , CW , KF ,
 
@@ -353,7 +333,7 @@ The Answer should be filed no later than ten (10) days from
 
 receipt of this Order. In cases where the respondent or
 
-respondents fail without justificati on to submit an Answer or
+respondents fail without justification to submit an Answer or
 
 appear before the National Privacy Commission when so
 
@@ -363,7 +343,7 @@ of available information. 11
 
 On 1 6 September 2019, an Appearance and Omnibus Motion was filed
 
-by the QG Law Off ices for FLI and Respondents ML , CW , and BSJ .,
+by the QG Law Offices for FLI and Respondents ML , CW , and BSJ .,
 
 which prayed for the following:
 
@@ -379,7 +359,7 @@ b) Initiating a Mediation Proceeding.
 
 As a matter of extreme prudence, it is also prayed for the
 
-Honorable Office to issue an Order giving the Responde nts an
+Honorable Office to issue an Order giving the Respondents an
 
 additional time of fifteen (15) days or until 30 September 2019
 
@@ -387,10 +367,6 @@ within which to file their respective answer or such other
 
 responsive pleading.
 
-> 10 Ibid.
-> 11 Order to File an Answer, dated 30 August 2019. NPC 19-910
-> In re: FLI
-> Page 6of 42
 
 On 17 September 2019, a Motion for Extension to File Answer with
 
@@ -408,13 +384,13 @@ Motion for Extension of Time for a period of ten (10) days from
 
 16 September 2019 or until 26 September 2019 within which to
 
-file the necessary plea ding, BE GRANTED in the interest of
+file the necessary pleading, BE GRANTED in the interest of
 
 substantial justice and the entry of appearance of the
 
 undersigned counsel be duly noted.
 
-The reafter, additional Motions for Extensions were filed by counsels
+Thereafter, additional Motions for Extensions were filed by counsels
 
 for both parties.
 
@@ -434,15 +410,15 @@ Appearance with Motion for Further Extension of Time to File Answer
 
 for Respondent FLI . They moved for an additional period of fifteen
 
-(15) d ays or until 15 October 2019 within which to file their answer.
+(15) days or until 15 October 2019 within which to file their answer.
 
 On 01 October 2019, the law firm of DSBMR entered its appearance as
 
-counsel for Respo ndents ML , CW , and BSJ and prayed for an
+counsel for Respondents ML , CW , and BSJ and prayed for an
 
 additional period until 15 October 2019 within which to file its Answer.
 
-On 07 October 2019, the Commission issued a R esolut ion that granted
+On 07 October 2019, the Commission issued a Resolution that granted
 
 all the requests of the Respondents for additional time to file their
 
@@ -450,12 +426,10 @@ Answers, finding that these were all duly filed within the allowable
 
 period of time .NPC 19-910
 
-> In re: FLI
-> Page 7of 42
 
 As regards the prayer of Respondents ML , CW , and BSJ for the
 
-in itiation of mediation proceedings, the Commission denied this and
+initiation of mediation proceedings, the Commission denied this and
 
 cited NPC Circular 16-04 which states thus:
 
@@ -463,11 +437,11 @@ Section 26. Mediation officer. – The Commission shall
 
 assign a mediation officer to assist the complainant and
 
-respondent to reach a settlement ag reement, provided
+respondent to reach a settlement agreement, provided
 
 that no settlement is allowed for criminal acts.
 
-The Answer s
+The ### The Answers
 
 On 11 October 2019, Commission received a Verified Answer from
 
@@ -489,7 +463,7 @@ evidence to support the following arguments:
 
 with the authority to collect outstanding loans” because, in fact,
 
-th e collection agents who committed debt -shaming practices did
+the collection agents who committed debt-shaming practices did
 
 so without the knowledge of FLI and its directors/officers. It
 
@@ -497,13 +471,13 @@ then follows that without any knowledge of FLI and its officers,
 
 the respondents could not have consented to the acts of the
 
-collect ion agents, whether expressly or impliedly.
+collection agents, whether expressly or impliedly.
 
 19. FLI recognizes that even if the collection of loan repayments
 
-was outsourced to a third -party service provider, it was not
+was outsourced to a third-party service provider, it was not
 
-amiss in its duty to ensure that the third -party service
+amiss in its duty to ensure that the third-party service
 
 provider/processor and the collection agents under its employ
 
@@ -519,9 +493,6 @@ phones to contact the user or other parties, which is what these
 
 collection agents did. 12
 
-> 12 Order dated 8 January 2020. NPC 19-910
-> In re: FLI
-> Page 8of 42
 
 The Commission thereafter ordered the Respondents to
 
@@ -535,7 +506,7 @@ functional statements of each director and officer of the
 
 corporation; and
 
-2. The outsourcing agreement with t he third -party
+2. The outsourcing agreement with the third-party
 
 service provider / processor referred to in their Answer
 
@@ -593,9 +564,6 @@ negligence, and violation of work standards or company
 
 policies”.
 
-> 13 Ibid. NPC 19-910
-> In re: FLI
-> Page 9of 42
 
 4.5 Annex “E” is a copy of the presentation of FLI on its ongoing
 
@@ -662,9 +630,6 @@ Following these submissions, the Commission reset the clarificatory
 hearing to 01 October 2020, guided by  NPC Advisory No. 2020 -02 or
 
 “Guidelines on the Use of Videoconferencing Technology for the
-
-> 14 Compliance dated 20 February 2020. NPC 19-910
-> In re: FLI
 
 Remote Appearance and Testimony of Parties Before the National
 
@@ -740,8 +705,6 @@ following provisions in the Master Service Agreement dated 12
 
 October 2018; NPC 19-910
 
-> In re: FLI
-
 • Article VI, Section 2. Unprofessional Practices in the
 
 Performance of the Service and Breach of the Contract ;
@@ -816,10 +779,7 @@ and
 
 e. Master Service Agreement between FLI and CSA .15
 
-> 15 Compliance dated 26 November 2020. NPC 19-910
-> In re: FLI
-
-Issues
+### Issues
 
 The issues in this case are as follows:
 
@@ -855,7 +815,7 @@ Directors, as responsible officers who by their gross negligence,
 
 allowed the commission of the crime.
 
-Discussion
+### Discussion
 
 I. Procedural Due Process was Observed
 
@@ -878,9 +838,6 @@ Finding Report d id not consider the side of FLI .16
 The Commission takes the opportunity to discuss the nature of a sua
 
 sponte investigation.
-
-> 16 Answer by Respondents FLI ,ML ,CW , and BSJ dated 15 October 2019 .Page 13 .NPC 19-910
-> In re: FLI
 
 The NPC is an independent body created to administer and implement
 
@@ -948,11 +905,6 @@ Further, Section 23 of the NPC Circular 16-04 provides for the NPC’s
 
 power of original inquiry:
 
-> 17 See, RA 10173, Section 7.
-> 18 See, Id., Section 2.
-> 19 NPC Circular 16-04. NPC Rules of Procedure. Dated 15 December 2016. NPC 19-910
-> In re: FLI
-
 SECTION 23. Own initiative. – Depending on the nature of the
 
 incident, in cases of a possible serious privacy violation or
@@ -961,7 +913,7 @@ personal data breach, taking into account the risks of harm to a
 
 data subject, the Commission may investigate on its own
 
-initiative t he circumstances surrounding the possible violation.
+initiative the circumstances surrounding the possible violation.
 
 Investigations may include on -site examination of systems and
 
@@ -1015,16 +967,13 @@ II. The proceedings should not be
 
 held in abeyance during the
 
-pendency of th e other
+pendency of the other
 
 complaints .
 
 In the Answer filed by Respondents FLI , ML , CW , and BSJ , they
 
 alleged that :
-
-> 20 Ibid, Emphasis supplied. NPC 19-910
-> In re: FLI
 
 46. The proceedings in the instant case also appear to be
 
@@ -1100,9 +1049,6 @@ case on hand involve different parties, different causes of ac tion with
 
 different prayers of relief.
 
-> 21 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 . Page 14. NPC 19-910
-> In re: FLI
-
 The focus of th is investigation is the functionality of the ABC
 
 application in relation to the categories of personal information
@@ -1171,9 +1117,6 @@ While it may be true that these provisions do not fall under Chapter
 
 VIII of the DPA , which provides for the prohibited acts, these
 
-> 22 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019, page 2. NPC 19-910
-> In re: FLI
-
 provisions notably cover the General Data Privacy Principles, Criteria
 
 for Lawful Processing of Personal Information, Sensitives Pers onal
@@ -1238,9 +1181,6 @@ address, phone number, mobile phone number, financial information,
 
 credit status information, phone contacts and other related
 
-> 23 NPC Case No. 17 -018, Decision dated 15 July 2019. NPC 19-910
-> In re: FLI
-
 information. 24 It further cites it Privacy Policy which states that ABC
 
 collects personal information provided to them which may include
@@ -1293,10 +1233,6 @@ Respondent FLI , through the ABC application, processed the
 
 information of the borrowers when it accessed personal information
 
-> 24 Answer by Respondents FLI ,ML ,CW , and BSJ dated 15 October 2019 , at 6.
-> 25 Ibid.
-> 26 RA 10173, Section 3 ( g)
-> 27 R.A. 10173, Section 3(l) Sensitive personal information refers to personal information:
 > (1) About an individual’s race, ethnic origin, marital status, age, color, and religious, philosophical
 > or political affiliations;
 > (2) About an individual’s health, education, genetic or sexual life of a person, or to any proceeding
@@ -1306,12 +1242,8 @@ information of the borrowers when it accessed personal information
 > social security numbers, previous or cm -rent health records, licenses or its denials, suspension or
 > revocation, and tax returns; and
 > (4) Specifically es tablished by an executive order or an act of Congress to be kept classified.
-> 28 R.A. 10173, Section 3(j).
 
 NPC 19-910
-
-In re: FLI
-
 
 through app permissions such as READ_CONTACTS and
 
@@ -1339,11 +1271,7 @@ For the subject personal information in this case , the lawful criteria are
 
 found under Section 12 30 and 13 31 of the law.
 
-> 29
-
 Pondo Peso App Preliminary Technical Report, 09 August 2019 .
-
-> 30
 
 SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal
 
@@ -1381,8 +1309,6 @@ such interests are overridden by fundamental rights and freedoms of the data sub
 
 protection under the Philippine Constitution.
 
-> 31
-
 SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive
 
 personal information and privileged information shall be prohibited, except in the following cases:
@@ -1408,9 +1334,6 @@ information or the privileged information;
 and the data subject is not legally or p hysically able to express his or her consent prior to the
 
 processing; NPC 19-910
-
-In re: FLI
-
 
 Respondent FLI clai ms the consent from the borrowers as its lawful
 
@@ -1490,11 +1413,7 @@ rights and interests of natural or legal persons in court proceedings, or the es
 
 or defense of legal claims, or when provided to government or public authority.
 
-> 32
-
 Answer by Respondents FLI , ML , CW , and BSJ dated 15 October 2019 at 7 . Emphasis supplied. NPC 19-910
-
-> In re: FLI
 
 address, e -mail address, and phone number; (ii) additional information
 
@@ -1570,9 +1489,6 @@ subject for the processing of his or her personal information.
 
 Being a mere notice, it is emphasized that the privacy notice is
 
-> 33 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 at 7 . Emphasis supplied. NPC 19-910
-> In re: FLI
-
 not equivalent to consent. This document is an embodiment of
 
 the observance of the data privacy principle of transparency and
@@ -1647,9 +1563,6 @@ Policy and Credit Agreement according to the requirements of the
 
 DPA for consent.
 
-> 34 Advisory Opinion 2018 -013. Dated 18 April 2018. Emphasis supplied. NPC 19-910
-> In re: FLI
-
 i. Respondent FLI committed
 
 unauthorized processing for
@@ -1722,8 +1635,6 @@ user allows FLI to conduct its due diligence and credit
 
 investigation on potential customers. Thus, the processing of the NPC 19-910
 
-> In re: FLI
-
 contacts information of the user carries a legitimate purpose and
 
 is proportional to t hat purpose. 35
@@ -1781,11 +1692,6 @@ the general privacy principle of transparency . This cannot support a
 claim of validly obtained consent, hence consent cannot be FLI ’ basis
 
 for lawful criteria . As held by the Commission in a decided case 37 :
-
-> 35 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 .Page 11 .
-> 36 R.A. 10173, Section 3(b). Emphasis supplied.
-> 37 NPC Case 19 -450. Dated 09 June 2020. NPC 19-910
-> In re: FLI
 
 [There is a need to] emphasize the need for personal information
 
@@ -1845,12 +1751,7 @@ This principle is further explained in the Implementing Rules and
 
 Regulations of the Data Privacy Act of 2012, which states , “personal
 
-> 38 See, Guidelines on transparency under Regulation 2016/679 of the Article 29 Working Party
 > (2017).
-> 39 Ibid.
-> 40 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 , a t 7 .
-> 41 R.A. 10173, Section 11(d). NPC 19-910
-> In re: FLI
 
 data shall be processed only if the purpose of the processing could
 
@@ -1870,7 +1771,7 @@ proportional to the declared purpose amounts to Unauthorized
 
 Processing which is a punishable act under Section 25 of the DPA.
 
-Lastly, t he Commission notes that the Privacy Policy only refers to
+Lastly, the Commission notes that the Privacy Policy only refers to
 
 personal information “provided by the borrower ” to the ABC
 
@@ -1915,9 +1816,6 @@ allegations of some complainants about the reported threats
 made by agents that they can view complainants; photos and can
 
 post them anywhere they want.
-
-> 42 IRR, § 18(c), emphasis supplied. NPC 19-910
-> In re: FLI
 
 ABC is also capable of determining the approximate and precise
 
@@ -1985,10 +1883,6 @@ Case No. 19 -G-573 admitted that said “text blast” was for the
 
 pu rpose of ruining complainant’s reputation:
 
-> 43 Fact-Finding Report, at 11 .
-> 44 Fact-Finding Report, at 3. NPC 19-910
-> In re: FLI
-
 Hello Ma’am / Sir, your loan to ABC has been overdue. We will inform
 
 your relatives and friends to urge the repayment (overdue debts) when
@@ -2005,7 +1899,7 @@ It is worth noting that Respondent FLI has never disputed the fact that
 
 the names of their borrowers and the fact of overdue payment have
 
-been disclosed to t he people in their mobile contact lists.
+been disclosed to the people in their mobile contact lists.
 
 Instead, Respondent FLI argues in its Answer that information on the
 
@@ -2060,9 +1954,6 @@ Privacy Policy is worded this way:
 ABC collect s personal information you provide us, which may
 
 include… (vii) phone contacts in your device needed for
-
-> 45 Id .at 4. NPC 19-910
-> In re: FLI
 
 collection purposes, if in case the information provided in the
 
@@ -2120,7 +2011,7 @@ achieve the purposes of this agreement.” The declared purpose of
 
 contemplate the indiscriminate messaging of family, friends, and
 
-acquaintances, considering th e Policy referred to personal information
+acquaintances, considering the Policy referred to personal information
 
 “provided” by the borrowers . In the case of the ABC application, this
 
@@ -2134,10 +2025,7 @@ Commission (SEC) , in a Memorandum dated 19 August 2019,
 
 prohibited unfair debt collection practices of financing companies and
 
-> 46 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019, at 6 -7. Emphasis
 > supplied.
-> 47 See , EU General Data Protection Regulation, Recital 47, cited in NPC Case No. 17 -047. NPC 19-910
-> In re: FLI
 
 lending companies such as the disclosure of the names and other
 
@@ -2203,12 +2091,8 @@ a “Collector ,” as described in their company organization structure :
 
 Part 1.1 Company Organizational Structure
 
-> 48 SEC Memorandum Circular No. 18. Prohibition of Unfair Debt Collection Practices of Financing
 > Companies (FC) and Lending Companies (LC). Dated 19 August 2019. Section 1(d).
-> 49 Ibid., at Section 2.
-> 50 Ann ex “E” is a copy of the presentation of FLI on its ongoing efforts for data collection and usage
 > as well as optimization of data collection systems NPC 19-910
-> In re: FLI
 
 • COLLECTOR. Responsible for the collection of overdue
 
@@ -2271,12 +2155,6 @@ likewise registered with the National Privacy Commission as a
 Personal Information Controller belonging to the Online Lending
 
 Sector. 54
-
-> 51 Ibid . Emphasis supplied.
-> 52 See , Transcript p. 8.
-> 53 See, Transcript at 23 -25.
-> 54 Fact-Finding Report, Annex B. NPC 19-910
-> In re: FLI
 
 The DPA provides for the Principle of Accountability and concomitant
 
@@ -2343,9 +2221,6 @@ laws.
 As discussed previously, the first and second elements are met in this
 
 case . The third element , which should differentiate Processing for
-
-> 55 R.A. 10173, Section 21. NPC 19-910
-> In re: FLI
 
 Unauthorized Purposes under Section 28 from Unauthorized
 
@@ -2416,9 +2291,6 @@ DPA . Since such processing activity was never authorized either by
 consent or some other authority in law, it was illegal from the
 
 beginning, hence the third element does not apply in this case.
-
-> 56 Chavez v. JBC, et. al. G.R. 202242. Dated 17 July 2012. NPC 19-910
-> In re: FLI
 
 D. The penalty shall be imposed
 
@@ -2494,9 +2366,6 @@ the company and its responsible directors and officers would
 
 have been correctly impleaded as respondents.
 
-> 57 R.A. 10173, Section 34. Emphasis Supplied. NPC 19-910
-> In re: FLI
-
 4. However, there is no showing by the Honorable Commission
 
 or the complainants that FLI observed or is observing a policy
@@ -2555,17 +2424,13 @@ Master Service Agreement was entered into between Respondent FLI
 
 and CSA , with the President as the signatory. The Board of Directors
 
-should have been aware of th e terms in this Agreement, considering
+should have been aware of the terms in this Agreement, considering
 
 that it concerns a vital aspect of their operations as a lending company.
 
 Consequently, they should have been aware that the provisions of the
 
 Master Service Agreement contradicted the principles in the DPA. It
-
-> 58 Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 at p. 3.
-> 59 Fernandez v. O ffice of the Ombudsman, G.R. No. 193983. 14 March 2012. NPC 19-910
-> In re: FLI
 
 included a provision that sough t to surrender its accountability as a
 
@@ -2635,17 +2500,13 @@ breach of contract.
 
 xxx
 
-> 60 Compliance dated 20 February 2020, Annex “C”. Emphasis supplied.
-> 61 R.A. 10173, Section 14. Emphasis Supplied. NPC 19-910
-> In re: FLI
-
 Section 2. PENALTIES. The CONTRACTOR acknowledges that
 
 the unprofessional performance on the SERVICE may
 
 compromise and damage the goodwill and public reputation of
 
-th e COMPANY. In addition to the COMPANY’s remedies under
+the COMPANY. In addition to the COMPANY’s remedies under
 
 this Agreement or under the general civil law for unprofessional
 
@@ -2705,12 +2566,7 @@ re sponsibility in preventing unauthorized processing by its
 
 subcontractors.
 
-> 62 Fact-Finding Report, Annex “B”. Emphasis in the original.
-> 63 See, Transcript at 39.
-> 64 Compliance dated 26 November 2020, Annex 1. NPC 19-910
-> In re: FLI
-
-The Commission likewise notes th e Verified Answer of Respondents
+The Commission likewise notes the Verified Answer of Respondents
 
 KF, JG, and HJL which claims that they should be absolved based on
 
@@ -2771,9 +2627,6 @@ Respondents were given opportunities to dispute this presumption,
 they never did so.
 
 The Commission has formerly rule d in the NPC Case 19 -605, thus:
-
-> 65 Verified Answer dated 4 October 2020, p. 2. NPC 19-910
-> In re: FLI
 
 In the case of Alfredo Ching vs. Secretary of Justice 66 , the Supreme
 
@@ -2859,9 +2712,6 @@ individuals will suffer such penalty. Corporate
 
 officers or employees, through whose act,
 
-> 66 G.R. No. 164317, February 6, 2006. NPC 19-910
-> In re: FLI
-
 default or omission the corporation commits a
 
 crime, are themselves individually guilty of the
@@ -2934,9 +2784,6 @@ Information Controllers play in ensuring that the innovation and
 
 growth that happens in the Philippines continue to abide by the laws
 
-> 67 NPC Case No. 19 -605. NPC 19-910
-> In re: FLI
-
 and ethical practices , leading to products and services that are free from
 
 any doubt on their security and informat ional privacy .
@@ -2983,9 +2830,6 @@ JOHN HENRY D. NAGA
 
 Deputy Privacy Commissioner NPC 19-910
 
-In re: FLI
-
-
 COPY FURNISHED:
 
 QG LAW OFFICES
@@ -3007,3 +2851,66 @@ ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 
 National Privacy Commissio n
+
+[^2]: 9
+[^3]: 2
+[^4]: Id at 1 . NPC 19-910
+[^5]: Id at 2.
+[^6]: Id ,at 3. NPC 19-910
+[^7]: Ibid.
+[^8]: Id at p. 4.
+[^9]: ABC App Preliminary Technical Report, 09 Au gust 2019, P.4, citing
+[^10]: Ibid.
+[^11]: Order to File an Answer, dated 30 August 2019. NPC 19-910
+[^12]: Order dated 8 January 2020. NPC 19-910
+[^13]: Ibid. NPC 19-910
+[^14]: Compliance dated 20 February 2020. NPC 19-910
+[^15]: Compliance dated 26 November 2020. NPC 19-910
+[^16]: Answer by Respondents FLI ,ML ,CW , and BSJ dated 15 October 2019 .Page 13 .NPC 19-910
+[^17]: See, RA 10173, Section 7.
+[^18]: See, Id., Section 2.
+[^19]: NPC Circular 16-04. NPC Rules of Procedure. Dated 15 December 2016. NPC 19-910
+[^20]: Ibid, Emphasis supplied. NPC 19-910
+[^21]: Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 . Page 14. NPC 19-910
+[^22]: Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019, page 2. NPC 19-910
+[^23]: NPC Case No. 17 -018, Decision dated 15 July 2019. NPC 19-910
+[^24]: Answer by Respondents FLI ,ML ,CW , and BSJ dated 15 October 2019 , at 6.
+[^25]: Ibid.
+[^26]: RA 10173, Section 3 ( g)
+[^27]: R.A. 10173, Section 3(l) Sensitive personal information refers to personal information:
+[^28]: R.A. 10173, Section 3(j).
+[^33]: Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 at 7 . Emphasis supplied. NPC 19-910
+[^34]: Advisory Opinion 2018 -013. Dated 18 April 2018. Emphasis supplied. NPC 19-910
+[^35]: Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 .Page 11 .
+[^36]: R.A. 10173, Section 3(b). Emphasis supplied.
+[^37]: NPC Case 19 -450. Dated 09 June 2020. NPC 19-910
+[^38]: See, Guidelines on transparency under Regulation 2016/679 of the Article 29 Working Party
+[^39]: Ibid.
+[^40]: Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 , a t 7 .
+[^41]: R.A. 10173, Section 11(d). NPC 19-910
+[^42]: IRR, § 18(c), emphasis supplied. NPC 19-910
+[^43]: Fact-Finding Report, at 11 .
+[^44]: Fact-Finding Report, at 3. NPC 19-910
+[^45]: Id .at 4. NPC 19-910
+[^46]: Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019, at 6 -7. Emphasis
+[^47]: See , EU General Data Protection Regulation, Recital 47, cited in NPC Case No. 17 -047. NPC 19-910
+[^48]: SEC Memorandum Circular No. 18. Prohibition of Unfair Debt Collection Practices of Financing
+[^49]: Ibid., at Section 2.
+[^50]: Ann ex “E” is a copy of the presentation of FLI on its ongoing efforts for data collection and usage
+[^51]: Ibid . Emphasis supplied.
+[^52]: See , Transcript p. 8.
+[^53]: See, Transcript at 23 -25.
+[^54]: Fact-Finding Report, Annex B. NPC 19-910
+[^55]: R.A. 10173, Section 21. NPC 19-910
+[^56]: Chavez v. JBC, et. al. G.R. 202242. Dated 17 July 2012. NPC 19-910
+[^57]: R.A. 10173, Section 34. Emphasis Supplied. NPC 19-910
+[^58]: Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 at p. 3.
+[^59]: Fernandez v. O ffice of the Ombudsman, G.R. No. 193983. 14 March 2012. NPC 19-910
+[^60]: Compliance dated 20 February 2020, Annex “C”. Emphasis supplied.
+[^61]: R.A. 10173, Section 14. Emphasis Supplied. NPC 19-910
+[^62]: Fact-Finding Report, Annex “B”. Emphasis in the original.
+[^63]: See, Transcript at 39.
+[^64]: Compliance dated 26 November 2020, Annex 1. NPC 19-910
+[^65]: Verified Answer dated 4 October 2020, p. 2. NPC 19-910
+[^66]: G.R. No. 164317, February 6, 2006. NPC 19-910
+[^67]: NPC Case No. 19 -605. NPC 19-910

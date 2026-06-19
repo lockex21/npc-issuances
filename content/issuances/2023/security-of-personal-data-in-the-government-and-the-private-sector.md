@@ -1,18 +1,19 @@
 ---
-title: "Security of Personal Data in the Government and the Private Sector"
-description: "Security of Personal Data in the Government and the Private Sector establishes guidelines and rules for data privacy compliance."
+title: "Security of Personal Data in the Government and the Private Sector (NPC Circular No. 2023-06)"
+description: "Provides updated security requirements for personal data processed by PICs and PIPs, covering storage, access controls, business continuity, data transfer, and disposal, repealing NPC Circular No. 16-01."
 aliases:
-- security of personal data in the government and the private sector
-- Circular No. 2023-06
-- circular no. 2023-06
+  - "NPC Circular No. 2023-06"
+  - "npc circular no. 2023-06"
+  - "security of personal data in the government and the private sector"
+  - "Circular No. 2023-06"
 tags:
-- issuance
-- topic/government
-- topic/security
-- type/circular
-- year/2021
+  - issuance
+  - topic/government
+  - topic/security
+  - type/circular
+  - year/2023
 draft: false
-date: '2021-11-01'
+date: "2023-12-01"
 ---
 
 ## Issuance Text
@@ -35,7 +36,7 @@ WHEREAS, under Section 22 of the DPA, heads of government agencies and instrumen
 
 WHEREAS, Section 23 of the DPA empowers the NPC to issue guidelines about agency personnel access to sensitive personal information;
 
-WHEREFORE, the NPC issues this Circular governing the security of personal data.
+WHEREFORE, the abovementioned premises considered, the NPC hereby issues this Circular governing the security of personal data.
 
 **RULE I.** ***General Provisions***
 
@@ -105,7 +106,7 @@ telecommunications or computer technologies.
 
 **SECTION 4.** ***General Obligations.*** A PIC and its PIP shall fulfill the following responsibilities:
 
-A. Designate and register its Data Protection Officer (DPO) with the NPC, taking into
+A. Designate and register its Data Protection Officer (DPO) with the NPC, taking into account the provisions of the DPA, its IRR, its amendments, and any other issuances of the NPC on the designation and registration of a DPO;
 B. Register its data processing systems with the NPC according to the provisions of the
 DPA, its IRR, its amendments, and any other issuances of the NPC on the registration
 of data processing systems;
@@ -153,18 +154,15 @@ well as against any other unlawful processing.
 The PIA need not be submitted to the NPC, but it shall be made available by the PIC upon the
 NPC’s request arising from investigations or compliance checks.
 
-SECTION 6. Control Framework for Data Protection. - The risks identified in the PIA must
-be addressed by a Control Framework.
+**SECTION 6.** ***Control Framework for Data Protection.*** The risks identified in the PIA must be addressed by a Control Framework.
 
 The contents of a Control Framework shall take into account, among others, the following:
 
-A. Nature of the personal data to be protected;
-B. Risks represented by the processing, the size of the organization, and the
-volume of personal data being processed;
-C. Current data privacy best practices in a specific industry;
-D. Cost of security implementation; and
-E. Purpose and extent of data sharing or outsourcing agreements and their
-attendant risks.
+   A. Nature of the personal data to be protected;
+   B. Risks represented by the processing, the size of the organization, and the volume of personal data being processed;
+   C. Current data privacy best practices in a specific industry;
+   D. Cost of security implementation; and
+   E. Purpose and extent of data sharing or outsourcing agreements and their attendant risks.
 
 **RULE II.** ***Embedding Privacy-by-Design and Privacy-by-Default***
 
@@ -207,168 +205,81 @@ Access shall be regulated by issuing security clearances or equivalents only to 
 
 **SECTION 18.** ***Remote Disconnection or Deletion.*** A PIC shall employ technology that enables remote disconnection or deletion of mobile devices owned by the PIC when they are lost or compromised, and shall establish a notification process for mobile-device loss to enable swift safeguarding of contained personal data.
 
-SECTION 19. Physical Filing System. - If personal data is stored in any physical media, such
-as a paper-based filing system, a PIC or PIP shall maintain a log, from which it can be
-ascertained which file was accessed, including when, where, and by whom. Such log shall
+**SECTION 19.** ***Physical Filing System.*** If personal data is stored in any physical media, such as a paper-based filing system, a PIC or PIP shall maintain a log, from which it can be ascertained which file was accessed, including when, where, and by whom. Such log shall also indicate whether copies of the file were made. The PIC or PIP shall regularly review the log records, including all applicable procedures.
 
-also indicate whether copies of the file were made. The PIC or PIP shall regularly review the log records, including all applicable procedures.
+**SECTION 20.** ***Personal Data Sharing Agreements.*** Access by other parties to personal data under the control or custody of a PIC shall be governed by the DPA, its IRR, and the NPC’s relevant issuances on Data Sharing Agreements.
 
-SECTION 20. Personal Data Sharing Agreements. - Access by other parties to personal data
-under the control or custody of a PIC shall be governed by the DPA, its IRR, and the NPC’s
-relevant issuances on Data Sharing Agreements.
+**RULE V.** ***Business Continuity***
 
-RULE V.
-BUSINESS CONTINUITY
+**SECTION 21.** ***Business Continuity Management.*** A PIC or PIP must have a Business Continuity Plan to mitigate potential disruptive events. It must consider the following:
 
-SECTION 21. Business Continuity Management. - A PIC or PIP must have a Business
-Continuity Plan to mitigate potential disruptive events. It must consider the following:
+   i. Personal data backup, restoration, and remedial time;
+   ii. Periodic review and testing of the business continuity plan which takes into account disaster recovery, privacy, business impact assessment, crisis communications plan, and telecommuting policy, among others; and
+   iii. Contact information and other business-critical matters, e.g., electrical supply, building facilities, Information and Communications Technology (ICT) assets.
 
-i. Personal data backup, restoration, and remedial time;
-ii. Periodic review and testing of the business continuity plan which takes into
-account disaster recovery, privacy, business impact assessment, crisis
-communications plan, and telecommuting policy, among others; and
-iii. Contact information and other business-critical matters, e.g., electrical supply,
-building facilities, Information and Communications Technology (ICT) assets.
+**SECTION 22.** ***Telecommuting.*** The adoption of telecommuting or other alternative work arrangements is a viable strategy to continuously operate and provide essential goods and services. With this, a PIC or PIP shall set, in accordance with applicable laws, rules and regulations, its policy on alternative work arrangements, and communicate it to concerned stakeholders. Security measures in alternative work arrangements shall be considered by the PIC or PIP. These measures include:
 
-SECTION 22. Telecommuting. - The adoption of telecommuting or other alternative work
-arrangements is a viable strategy to continuously operate and provide essential goods
-and services. With this, a PIC or PIP shall set, in accordance with applicable laws, rules
-and regulations, its policy on alternative work arrangements, and communicate it to
-concerned stakeholders. Security measures in alternative work arrangements shall be
-considered by the PIC or PIP. These measures include:
+   i. Training on the limitations on use of company-issued computing devices with secure configuration of the PIC’s Information and Communications Technology (ICT) assets to protect against security risks and cyberthreats such as unauthorized access, malware, data loss, and theft;
+   ii. Best password management and secured practices in managing online accounts, computers, mobile phones, and network appliances; and
+   iii. Periodic trainings on data privacy, cybersecurity, and online productivity, among others.
 
-i. Training on the limitations on use of company-issued computing devices with
-secure configuration of the PIC’s Information and Communications
-Technology (ICT) assets to protect against security risks and cyberthreats such
-as unauthorized access, malware, data loss, and theft;
-ii. Best password management and secured practices in managing online
-accounts, computers, mobile phones, and network appliances; and
-iii. Periodic trainings on data privacy, cybersecurity, and online productivity,
-among others.
+**RULE VI.** ***Transfer of Personal Data***
 
-RULE VI.
-TRANSFER OF PERSONAL DATA
-SECTION 23. Emails. - A PIC or PIP that transfers personal data by email must ensure that
-the data is adequately protected and use secure transmission and reception of email messages,
-including attachments. Where appropriate, a PIC or PIP may utilize systems that scan
-outgoing emails and attachments for keywords that would indicate the presence of personal
-data and, if applicable, prevent its transmission.
+**SECTION 23.** ***Emails.*** A PIC or PIP that transfers personal data by email must ensure that the data is adequately protected and use secure transmission and reception of email messages, including attachments. Where appropriate, a PIC or PIP may utilize systems that scan outgoing emails and attachments for keywords that would indicate the presence of personal data and, if applicable, prevent its transmission.
 
-SECTION 24. Personal Productivity Software. - A PIC or PIP that do not have any security
-or access controls when using personal productivity software, shall, when reasonable and
-appropriate, implement security controls to prevent its personnel from printing or copying
-personal data to personal productivity software such as word processors and spreadsheets.
+**SECTION 24.** ***Personal Productivity Software.*** A PIC or PIP that do not have any security or access controls when using personal productivity software, shall, when reasonable and appropriate, implement security controls to prevent its personnel from printing or copying personal data to personal productivity software such as word processors and spreadsheets.
 
-SECTION 25. Removable or Portable Storage Media. - The use of removable or portable
-storage media, such as compact discs (CD), digital versatile discs (DVD), and Universal Serial
-Bus (USB) flash drives for processing personal data, shall be regulated: Provided, that if such
-mode of transfer is unavoidable or necessary, the files inside the removable or portable storage
-media shall be encrypted.
+**SECTION 25.** ***Removable or Portable Storage Media.*** The use of removable or portable storage media, such as compact discs (CD), digital versatile discs (DVD), and Universal Serial Bus (USB) flash drives for processing personal data, shall be regulated: *Provided*, that if such mode of transfer is unavoidable or necessary, the files inside the removable or portable storage media shall be encrypted.
 
-SECTION 26. Fax Machines. - Facsimile technology shall not be used for transmitting
-documents containing personal data.
+**SECTION 26.** ***Fax Machines.*** Facsimile technology shall not be used for transmitting documents containing personal data.
 
-SECTION 27. Transmittal. - A PIC and its PIP that transmit documents or media containing
-personal data by mail or post shall make use of registered mail or, where appropriate,
-guaranteed parcel post services and Private Express and/or Messengerial Delivery Service
-(PEMEDES). It shall establish procedures that ensure that such documents or media are
-delivered only to the person to whom they are addressed, or the authorized representative of
-the addressee: Provided, that similar safeguards shall be adopted relative to documents or
-media transmitted between offices or personnel of the PIC and its PIP.
+**SECTION 27.** ***Transmittal.*** A PIC and its PIP that transmit documents or media containing personal data by mail or post shall make use of registered mail or, where appropriate, guaranteed parcel post services and Private Express and/or Messengerial Delivery Service (PEMEDES). It shall establish procedures that ensure that such documents or media are delivered only to the person to whom they are addressed, or the authorized representative of the addressee: *Provided*, that similar safeguards shall be adopted relative to documents or media transmitted between offices or personnel of the PIC and its PIP.
 
-RULE VII.
-GUIDELINES FOR DISPOSAL OF PERSONAL DATA
+**RULE VII.** ***Guidelines for Disposal of Personal Data***
 
-SECTION 28. Disposal and Destruction of Personal Data. - In establishing policies and
-procedures for disposal of personal data, a PIC or PIP shall take into consideration the
-following:
+**SECTION 28.** ***Disposal and Destruction of Personal Data.*** In establishing policies and procedures for disposal of personal data, a PIC or PIP shall take into consideration the following:
 
-1. Retention period of data;
-2. Jurisdiction-specific laws, regulations, and existing contracts;
-3. Identification of relevant de-identification, anonymization, or deletion techniques
-for specific types of data; and
-4. Required documentation before the deletion, de-identification, or anonymization
-of personal information.
+   1. Retention period of data;
+   2. Jurisdiction-specific laws, regulations, and existing contracts;
+   3. Identification of relevant de-identification, anonymization, or deletion techniques for specific types of data; and
+   4. Required documentation before the deletion, de-identification, or anonymization of personal information.
 
-SECTION 29. Logs Retention. – A PIC or a PIP shall retain logs as long as deemed necessary
-and appropriate based on best practices and industry standards. In determining the
-appropriate retention period, the PIC shall consider the type of log and its corresponding use.
-Security logs that record information about authentication attempts and security incidents
-shall be retained for longer periods than general system logs:
+**SECTION 29.** ***Logs Retention.*** A PIC or a PIP shall retain logs as long as deemed necessary and appropriate based on best practices and industry standards. In determining the appropriate retention period, the PIC shall consider the type of log and its corresponding use. Security logs that record information about authentication attempts and security incidents shall be retained for longer periods than general system logs:
 
-A. In the event of a security incident or data breach, logs may need to be retained for
-a longer period to support investigations and digital forensic analysis. PICs shall
-retain logs related to incidents for a specified period required by the NPC, even if
-it exceeds their retention policies; and
-B. PICs shall implement backup and archive mechanisms for their logs. Backup copies
-may be retained for shorter periods, while archived copies can be stored for a longer
-duration.
+   A. In the event of a security incident or data breach, logs may need to be retained for a longer period to support investigations and digital forensic analysis. PICs shall retain logs related to incidents for a specified period required by the NPC, even if it exceeds their retention policies; and
+   B. PICs shall implement backup and archive mechanisms for their logs. Backup copies may be retained for shorter periods, while archived copies can be stored for a longer duration.
 
-SECTION 30. Procedures for Disposal and Destruction. - Procedures must be established to
-ensure secure and proper disposal and destruction of personal data that would render further
-processing impossible. These include:
+**SECTION 30.** ***Procedures for Disposal and Destruction.*** Procedures must be established to ensure secure and proper disposal and destruction of personal data that would render further processing impossible. These include:
 
-1. Disposing and destroying personal data, regardless of how such files are stored;
-2. Electronically disposing or destroying personal data in storage media which
-involve the use of degaussers, erasers, encryption, or secure wiping programs as
-applicable;
-3. Physically disposing or destroying storage media used to store personal data such
-as disk servers, hard or solid-state drives, portable storage drives, such as disks,
-flash drives and memory cards, read-only memory storage in mobile phones when
-they reach the end-of-life;
-4. Disposing and destroying personal data in paper documents which involve the
-use of paper shredders that would render shredded paper documents into small
-pieces that cannot be reassembled; and
-5. Disposing personal data stored offsite.
+   1. Disposing and destroying personal data, regardless of how such files are stored;
+   2. Electronically disposing or destroying personal data in storage media which involve the use of degaussers, erasers, encryption, or secure wiping programs as applicable;
+   3. Physically disposing or destroying storage media used to store personal data such as disk servers, hard or solid-state drives, portable storage drives, such as disks, flash drives and memory cards, read-only memory storage in mobile phones when they reach the end-of-life;
+   4. Disposing and destroying personal data in paper documents which involve the use of paper shredders that would render shredded paper documents into small pieces that cannot be reassembled; and
+   5. Disposing personal data stored offsite.
 
-SECTION 31. Personal Data Disposal Service Provider. - A PIC may engage a PIP to carry
-out the disposal of personal data under its control: Provided, that the PIP shall contractually
-agree to the PIC’s data protection procedures and ensure that the confidentiality of all
-personal data is preserved.
+**SECTION 31.** ***Personal Data Disposal Service Provider.*** A PIC may engage a PIP to carry out the disposal of personal data under its control: *Provided*, that the PIP shall contractually agree to the PIC’s data protection procedures and ensure that the confidentiality of all personal data is preserved.
 
-RULE VIII.
-MISCELLANEOUS PROVISIONS
+**RULE VIII.** ***Miscellaneous Provisions***
 
-SECTION 32. Threat monitoring and vulnerability management. - A PIC or a PIP shall
-continuously adapt security measures to dynamically respond to the evolving security threat
-landscape. This includes identifying threats based on authoritative sources of threat
-information (e.g., NCERT), integrating relevant threats into the PIA to determine if these lead
-to new unacceptable security or privacy risks, and proposing corrective actions to such
-threats.
+**SECTION 32.** ***Threat Monitoring and Vulnerability Management.*** A PIC or a PIP shall continuously adapt security measures to dynamically respond to the evolving security threat landscape. This includes identifying threats based on authoritative sources of threat information (e.g., NCERT), integrating relevant threats into the PIA to determine if these lead to new unacceptable security or privacy risks, and proposing corrective actions to such threats.
 
-SECTION 33. Personal Data Breach Management. - In case of a data breach or security
-incident, a PIC shall comply with the requirements of the NPC’s issuance on breach
-management.
+**SECTION 33.** ***Personal Data Breach Management.*** In case of a data breach or security incident, a PIC shall comply with the requirements of the NPC’s issuance on breach management.
 
-SECTION 34. Audit. – In certain cases, independent verification or certification by a reputable
-third party of a PIC or, where applicable, its PIP, may be accepted by the NPC: Provided, that
-the findings of an independent verification or certification by a third-party does not preclude
-the NPC from performing its regulatory functions pursuant to the relevant issuances of the
-NPC.
+**SECTION 34.** ***Audit.*** In certain cases, independent verification or certification by a reputable third party of a PIC or, where applicable, its PIP, may be accepted by the NPC: *Provided*, that the findings of an independent verification or certification by a third-party does not preclude the NPC from performing its regulatory functions pursuant to the relevant issuances of the NPC.
 
-SECTION 35. Penalties. - A PIC or PIP that violates the provisions of this Circular, shall,
-upon notice and hearing, be subject to compliance and enforcement orders, cease and desist
-orders, temporary or permanent ban on the processing of personal data, or payment of fines,
-in accordance with the DPA, its IRR, and the NPC’s issuances.
+**SECTION 35.** ***Penalties.*** A PIC or PIP that violates the provisions of this Circular, shall, upon notice and hearing, be subject to compliance and enforcement orders, cease and desist orders, temporary or permanent ban on the processing of personal data, or payment of fines, in accordance with the DPA, its IRR, and the NPC’s issuances.
 
-Failure to comply with the provisions of this Circular can result in criminal, civil,
-administrative liabilities, and disciplinary sanctions against any erring officer or employee in
-accordance with existing laws or regulations.
+Failure to comply with the provisions of this Circular can result in criminal, civil, administrative liabilities, and disciplinary sanctions against any erring officer or employee in accordance with existing laws or regulations.
 
 The commencement of any action under this Circular is independent and without prejudice to the filing of any action with the regular courts or other quasi-judicial bodies.
 
-SECTION 36. Review. - This Circular shall be subject to regular review by the NPC.
+**SECTION 36.** ***Review.*** This Circular shall be subject to regular review by the NPC.
 
-SECTION 37. - Transitory Period. - A PIC shall be given a transitory period of twelve (12)
-months from the effectivity of this Circular to comply with the requirements provided herein.
+**SECTION 37.** ***Transitory Period.*** A PIC shall be given a transitory period of twelve (12) months from the effectivity of this Circular to comply with the requirements provided herein.
 
-SECTION 38. Separability Clause. - If any portion or provision of this Circular is declared
-null and void or unconstitutional, then the other provisions not affected thereby shall continue
-to be in force and effect.
+**SECTION 38.** ***Separability Clause.*** If any portion or provision of this Circular is declared null and void or unconstitutional, then the other provisions not affected thereby shall continue to be in force and effect.
 
-SECTION 39. Repealing Clause. - This Circular expressly repeals NPC Circular No. 16-01.
-The provisions of the IRR and all other issuances contrary to or inconsistent with the
-provisions of this Circular are deemed repealed or modified.
+**SECTION 39.** ***Repealing Clause.*** This Circular expressly repeals NPC Circular No. 16-01. The provisions of the IRR and all other issuances contrary to or inconsistent with the provisions of this Circular are deemed repealed or modified.
 
 **SECTION 40.** ***Effectivity.*** These Rules shall take effect fifteen (15) days after their publication in a newspaper of general circulation.
 
@@ -384,11 +295,11 @@ Deputy Privacy Commissioner Deputy Privacy Commissioner
 
 ## Source And Notes
 
-- Companion note: [[notes/undated/security-of-personal-data-in-the-government-and-the-private-sector|Analysis and metadata]]
-- Raw source text: [[sources/undated/security-of-personal-data-in-the-government-and-the-private-sector|Raw source extraction]]
+- Companion note: [[notes/2023/security-of-personal-data-in-the-government-and-the-private-sector|Analysis and metadata]]
+- Raw source text: [[sources/2023/security-of-personal-data-in-the-government-and-the-private-sector|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf
 - OCR used during extraction: no
-# Footnotes
+## Footnotes
 
 [^1]: vinaypamnani-msft, “Manage Device Installation with Group Policy - Windows Client Management,” August 10, 2023, https://learn.microsoft.com/en-us/windows/client-management/client-tools/manage-device-installation-with-group-policy.
 [^2]: “USB Security Software - USB Port Blocker & Analyzer | SolarWinds,” accessed October 24, 2023, https://www.solarwinds.com/security-event-manager/use-cases/usb-security-analyzer.

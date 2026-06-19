@@ -42,6 +42,8 @@ x----x
 
 Before this Commission is a complaint filed by Complainant HNT against Respondent Eastwest Bank for an alleged violation of the Data Privacy Act of 2012.
 
+### Facts
+
 In his complaint, Complainant states:
 
 > I applied for an Eastwest Bank credit card through x x x their credit card sales agent. The application was approved when I got my card. My biggest problem now is that he has been using my name to encourage applications from my Facebook friends and colleagues, and worst, to our HR employees who are my Facebook friends too. I called his attention already but he continuously used it as a practice to get the customers attention and he uses and drops my name to associate it with him x x x My application was for myself and not for other people. I am depressed, humiliated and I feel really bad about this incident.[^1]
@@ -60,20 +62,7 @@ On 22 January 2020, the parties submitted a notarized settlement agreement where
 
 1. Complainant agrees to accept payment in the form of a personal check…in the amount of Fifty Thousand Pesos (Php50,000.00), which check will be given by respondent Bank within ten (10) days from notice of the confirmation of this Agreement by the Honorable Commission;
 
-2. Complainant hereby acknowledges that he has no cause of action, complaint, claim or case, whether alone or jointly with one another, against the Bank, in respect to any matter relative
-
-> 6Urgent Motion for Postponement dated 30 July 2019.
-> 7Application for Mediation dated 28 August 2019.
-> 8Order to Mediate dated 28 August 2019.
-> 9Order for Resumption of Complaint Proceedings dated 31 October 2019.
-> 10 Order dated 06 December 2019.
-> 11 Ibid. NPC 18 -155
-> HNT v. Eastwest Bank
-> Page 3of 5
-> 5th Floor ,Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
-or incident to or arising out of the incident which leads to the filing of this Complaint. Complainant further warrant that he will not instate any action, whether alone or jointly with one another, and will not continue to prosecute any pending action, if any, against the Bank, its principals, affiliates, subsidiaries and related companies, their stockholders, directors, agents, officers or employees;
+2. Complainant hereby acknowledges that he has no cause of action, complaint, claim or case, whether alone or jointly with one another, against the Bank, in respect to any matter relative or incident to or arising out of the incident which leads to the filing of this Complaint. Complainant further warrant that he will not instate any action, whether alone or jointly with one another, and will not continue to prosecute any pending action, if any, against the Bank, its principals, affiliates, subsidiaries and related companies, their stockholders, directors, agents, officers or employees;
 
 3. Complainant hereby remise, release and forever discharge, and by these presents do, for himself, is heirs, successors and assignees, remise, release, and forever discharge the Bank and ECR Card Marketing Inc., and its principal, affiliates, subsidiaries and related companies, its stockholders, directors, officers, agents, or employees xxx
 
@@ -84,6 +73,8 @@ or incident to or arising out of the incident which leads to the filing of this 
 8. With the signing of this Compromise Agreement, parties jointly pray that CID Case 18-J-155 be dismissed and terminated;
 
 9. Parties jointly move that the Honorable Commission approve this Mediated Settlement Agreement and respectfully pray that a judgment based on the Mediated Settlement Agreement be rendered by the Honorable Commission in the above entitled case.[^12]
+
+### Discussion
 
 It is the mandate of the Commission to settle disputes through the use of alternative dispute resolution processes.[^13] The Commission also recognizes the policy of the State to actively promote party autonomy in the resolution of disputes and the freedom of the parties to make their own arrangements to resolve their disputes.[^14]
 

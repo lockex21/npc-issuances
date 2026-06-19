@@ -21,9 +21,7 @@ draft: false
                    FROM A LOCAL GOVERNMENT UNIT.
 
 Dear [Redacted],
-We respond to your request for an Advisory Opinion concerning the authority of the Bureau
-of Internal Revenue, through its District Offices, to access the list of registered businesses and
-individual taxpayers maintained by a local government unit.
+We respond to your request for an Advisory Opinion concerning the authority of the Bureau of Internal Revenue, through its District Offices, to access the list of registered businesses and individual taxpayers maintained by a local government unit.
 
 ### Discussion
 
@@ -42,19 +40,9 @@ In its reply, the BPLO denied the said request on the following grounds:
           Government of Makati which authorizes the sharing of such information; and
       (3) The BPLO is not mandated to disclose such information in the absence of legal bases.
 
-Thus, the BIR now seeks guidance as to whether such request and any subsequent disclosure
-would constitute a violation of the Data Privacy Act of 2012 (DPA)2 and its Implementing
-Rules and Regulations (IRR), notwithstanding the powers vested in the BIR under the
-National Internal Revenue Code of 1997, as amended (NIRC).3
+Thus, the BIR now seeks guidance as to whether such request and any subsequent disclosure would constitute a violation of the Data Privacy Act of 2012 (DPA)[^2] and its Implementing Rules and Regulations (IRR), notwithstanding the powers vested in the BIR under the National Internal Revenue Code of 1997, as amended (NIRC).[^3]
 
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Republic Act No. 10173 (2012)
-3 National Internal Revenue Code of 1997, as amended by Republic Act No. 10963 [National Internal Revenue Code of 1997]
-
-Special cases; Processing of Personal
-Information by a Public Authority;
-Regulatory Mandate.
+Special cases; Processing of Personal Information by a Public Authority; Regulatory Mandate.
 
 The DPA recognizes certain exceptions in favor of the processing conducted by specific public
 authorities, to wit:
@@ -85,28 +73,16 @@ authorities, to wit:
                    only to the minimum extent necessary to achieve the specific purpose, function,
                    or activity.
 
-In NPC Advisory Opinion No. 2024-016,4 we opined that:
+In NPC Advisory Opinion No. 2024-016,[^4] we opined that:
 
-   Hence, information required by a public authority in the exercise of its regulatory
-         function pursuant to its constitutional or statutory mandate falls outside the DPA's scope.
-         However, as we have previously stated in Advisory Opinion No. 2020-0155, this
-         exemption must be interpreted strictly such that:
+   Hence, information required by a public authority in the exercise of its regulatory function pursuant to its constitutional or statutory mandate falls outside the DPA's scope. However, as we have previously stated in Advisory Opinion No. 2020-015,[^5] this exemption must be interpreted strictly such that:
 
    1.   It applies solely to the minimum necessary collection, access, use, disclosure, or other
               processing related to the specific purpose, function, or activity. Any processing for
               regulatory purposes must comply with constitutional or statutory mandates and
               adhere strictly to all required substantive and procedural processes.
 
-   2.   Only the specified information is exempt from the DPA's provisions. The public
-              authority remains obligated as a personal information controller (PIC) under the
-              DPA to implement security measures for personal data protection, respect data
-              subject rights, and follow data privacy principles.
-
-4 National Privacy Commission, Re: Disclosure of Personal Data Pursuant to a Mission Order by the Bureau of Internal Revenue,
-
-NPC Advisory Opinion No. 2024-016 (11 December 2024).
-
-NPC Advisory Opinion No. 2020-015 (Feb. 24, 2020).
+   2.   Only the specified information is exempt from the DPA's provisions. The public authority remains obligated as a personal information controller (PIC) under the DPA to implement security measures for personal data protection, respect data subject rights, and follow data privacy principles.
 
 The BIR, as the primary agency tasked with the enforcement of national internal revenue laws,
 derives its authority from the NIRC. In furtherance of this mandate, the BIR is vested with the
@@ -188,7 +164,7 @@ Data Sharing Agreements (DSA)
 The BPLO also invoked the absence of a DSA with the BIR as a ground for its refusal to disclose
 the requested personal data.
 
-Under NPC Circular No. 2020-03,6 data sharing is defined as the sharing, disclosure, or transfer
+Under NPC Circular No. 2020-03,[^6] data sharing is defined as the sharing, disclosure, or transfer
 to a third party of personal data under the custody of a personal information controller to one
 or more other personal information controller/s.
 
@@ -198,29 +174,14 @@ involved in the transfer of personal data between or among them, including the
 implementation of adequate safeguards for data privacy and security, and upholding the
 rights of the data subjects.
 
-In Advisory Opinion No. 2021-043,7 the NPC clarified that the execution of a DSA is not
+In Advisory Opinion No. 2021-043,[^7] the NPC clarified that the execution of a DSA is not
 mandatory under existing regulations:
 
-   “SECTION 8. Data sharing agreement; key considerations. — Data sharing may be covered
-       by a data sharing agreement (DSA) or a similar document containing the terms and
-       conditions of the sharing arrangement, including obligations to protect the personal data
-       shared, the responsibilities of the parties, mechanisms through which data subjects may
-       exercise their rights, among others.
+   “SECTION 8. Data sharing agreement; key considerations. — Data sharing may be covered by a data sharing agreement (DSA) or a similar document containing the terms and conditions of the sharing arrangement, including obligations to protect the personal data shared, the responsibilities of the parties, mechanisms through which data subjects may exercise their rights, among others.
 
-   The execution of a DSA is a sound recourse and demonstrates accountable personal data
-       processing, as well as good faith in complying with the requirements of the DPA, its IRR,
-       and issuances of the NPC. The Commission shall take this into account in case a complaint
+   The execution of a DSA is a sound recourse and demonstrates accountable personal data processing, as well as good faith in complying with the requirements of the DPA, its IRR, and issuances of the NPC. The Commission shall take this into account in case a complaint is filed pertaining to such data sharing and/or in the course of any investigation relating thereto, as well as in the conduct of compliance checks.
 
-December 2021)
-
-   is filed pertaining to such data sharing and/or in the course of any investigation relating
-       thereto, as well as in the conduct of compliance checks.
-
-   While the execution of a DSA is not mandatory, it is still advisable to execute one as it is a
-       best practice and a demonstration of accountability amongst the parties to the data sharing.
-       It is best to consult the respective data protection officers (DPOs) of the local government
-       unit (LGU) and the PNP for a better understanding of the data sharing arrangement and
-       whether the agencies should pursue the execution of a DSA.”
+   While the execution of a DSA is not mandatory, it is still advisable to execute one as it is a best practice and a demonstration of accountability amongst the parties to the data sharing. It is best to consult the respective data protection officers (DPOs) of the local government unit (LGU) and the PNP for a better understanding of the data sharing arrangement and whether the agencies should pursue the execution of a DSA.””
 
 Accordingly, the mere absence of a DSA is not a valid ground for the denial of access to
 personal data where such access is otherwise authorized under the DPA and related
@@ -233,7 +194,7 @@ While the BIR may have the statutory mandate, it is incumbent upon the agency to
 with its own procedures, as well as the internal procedures of where the data will be sourced
 from, which in this case, refers to the BPLO.
 
-In NPC Advisory Opinion 2023-015,8 we discussed that for Section 4(e) of the DPA and Section
+In NPC Advisory Opinion 2023-015,[^8] we discussed that for Section 4(e) of the DPA and Section
 5(d) of the Implementing Rules and Regulations of the DPA to apply, the following should be
 considered:
 
@@ -251,21 +212,7 @@ considered:
        subjects and adhere to the data privacy principles of transparency, legitimate purpose and
        proportionality.”
 
-   Applying the foregoing, Section 5 of R.A. No. 108679 provides for the general investigative
-       jurisdiction of the NBI. Meanwhile, Executive Order No. 153, Series of 2002,10 as amended by
-       Executive Order No. 231, listed the NBI as one of the relevant agencies called to give their
-       support, assistance, and cooperation in the identification of professional squatters and squatting
-       syndicates, monitor and launch operations, through the proper agency or body, to curtail their
-       activities.11
-
-8 National Privacy Commission, Re: Disclosure to the National Bureau of Investigation of the Record of Barangay Inhabitants.
-
-NPC Advisory Opinion No. 2023-015 (24 August 2023)
-9 NBI Reorganization and Modernization Act.
-10 Instituting the National Drive to Suppress and Eradicate Professional Squatting and Squatting Syndicates, Amending
-
-Executive Order Nos. 178, s. 1999 and 129, s. 1993, and for Other Purposes, Executive Order No. 153, [December 10, 2002]
-11 Id. § 3
+   Applying the foregoing, Section 5 of R.A. No. 10867[^9] provides for the general investigative jurisdiction of the NBI. Meanwhile, Executive Order No. 153, Series of 2002,[^10] as amended by Executive Order No. 231, listed the NBI as one of the relevant agencies called to give their support, assistance, and cooperation in the identification of professional squatters and squatting syndicates, monitor and launch operations, through the proper agency or body, to curtail their activities.[^11]
 
    Thus, there is no doubt that the NBI’s request for information is within its investigative mandate.
       However, Section 4 (b) of RA 10867 itself requires the NBI to issue a subpoena when it conducts
@@ -331,3 +278,25 @@ Very truly yours,
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
+
+[^1]: Tags: lawful processing of personal data; access to government records; data privacy principles; special cases; statutory mandate; data sharing
+
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes (Data Privacy Act of 2012), Republic Act No. 10173 (2012)
+
+[^3]: National Internal Revenue Code of 1997, as amended by Republic Act No. 10963
+
+[^4]: National Privacy Commission, Re: Disclosure of Personal Data Pursuant to a Mission Order by the Bureau of Internal Revenue, NPC Advisory Opinion No. 2024-016 (11 December 2024)
+
+[^5]: National Privacy Commission, Collection of Personal Data by the Bureau of Internal Revenue for Tax Compliance Purposes, NPC Advisory Opinion No. 2020-015 (Feb. 24, 2020)
+
+[^6]: National Privacy Commission, Data Sharing Agreements, NPC Circular No. 2020-03 (23 December 2020)
+
+[^7]: National Privacy Commission, Re: Data Sharing with the Philippine National Police, Advisory Opinion No. 2021-043 (16 December 2021)
+
+[^8]: National Privacy Commission, Re: Disclosure to the National Bureau of Investigation of the Record of Barangay Inhabitants, NPC Advisory Opinion No. 2023-015 (24 August 2023)
+
+[^9]: NBI Reorganization and Modernization Act
+
+[^10]: Instituting the National Drive to Suppress and Eradicate Professional Squatting and Squatting Syndicates, Amending Executive Order Nos. 178, s. 1999 and 129, s. 1993, and for Other Purposes, Executive Order No. 153 (December 10, 2002)
+
+[^11]: Id. § 3

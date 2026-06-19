@@ -1,10 +1,10 @@
 ---
-title: "NPC SS 21-005: In Re: Oriente Express Techsystem Corporation (CASHALO) and Its Responsible Officers"
+title: "NPC SS 21-005: Oriente Express Techsystem Corporation (Cashalo) and its Responsible Officers"
 description: "Sua sponte investigation into unauthorized processing of personal data by online lending application; complaint dismissed for lack of substantial evidence."
 aliases:
   - "NPC SS 21-005"
   - "npc ss 21-005"
-  - "Oriente Express Techsystem Corporation (CASHALO)"
+  - "Oriente Express Techsystem Corporation (Cashalo)"
   - "oriente express techsystem corporation (cashalo)"
 tags:
   - decision
@@ -36,7 +36,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before this Commission is the Fact-Finding Report (FFR) with Application for the Issuance of a Temporary Ban on processing of personal data filed by the Complaints and Investigation Division (CID) of the National Privacy Commission (NPC) dated 09 June 2021, which serves as its Complaint (Complaint) pursuant to the NPC’s power to conduct a sua sponte investigation.[^1] The Complaint alleged violations of Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA), by Oriente Express Techsystem Corporation (OETC) which operates the Cashalo online lending application (Cashalo).
+Before this Commission is the Fact-Finding Report (FFR) with Application for the Issuance of a Temporary Ban on processing of personal data filed by the Complaints and Investigation Division (CID) of the National Privacy Commission (NPC) dated 09 June 2021, which serves as its Complaint (Complaint) pursuant to the NPC’s power to conduct a *sua sponte* investigation.[^1] The Complaint alleged violations of Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA), by Oriente Express Techsystem Corporation (OETC) which operates the Cashalo online lending application (Cashalo).
 
 ### Facts
 
@@ -58,193 +58,31 @@ The CID noticed that the Cashalo application utilized the Cordova plugin to fetc
 
 In the CID’s Technical Report dated 14 May 2021, it further alleged:
 
-> 10. As part of Android’s programming capability, the Android SDK provides coding for Contacts retrieval wherein an application will have the ability to collect data from contacts. That being said, Android supports user privacy through App permissions. The user has control over the data that they share with apps, the user understands what data an app uses, and why the app accesses this data and an app accesses and uses only the data that’s required for a specific task or action that the user invokes.[^4]
+> As part of Android’s programming capability, the Android SDK provides coding for Contacts retrieval wherein an application will have the ability to collect data from contacts. That being said, Android supports user privacy through App permissions. The user has control over the data that they share with apps, the user understands what data an app uses, and why the app accesses this data and an app accesses and uses only the data that’s required for a specific task or action that the user invokes.[^4]
 
 In its Complaint, the CID stated that OETC failed to adhere to the requirements of the DPA, specifically Section 11 which deals with the General Data Privacy Principles (transparency, legitimate purpose, proportionality).[^5]
 
-For the principle of transparency, the CID explained that this is
+For the principle of transparency, the CID explained that this is related to the data subject’s right to information under Section 16 of the DPA.[^6] The CID claimed that OETC failed to uphold the principle of transparency since it “failed to provide the purpose for the storage of the personal information accessed, and such cannot be seen in the App’s Privacy Notice nor can be deduced from the permission it requires.”[^7]
 
-related to the data subject’s right to information under Section 16 of
+In terms of the legitimate purpose principle, the CID argued that it is upheld when one of the criteria for lawful processing, as provided in Sections 12 and 13 of the DPA, is met.[^8] According to the CID, OETC does not have a legitimate purpose in processing personal information of its users since it was done without valid consent.[^9] The CID stated that in Cashalo’s Privacy Policy, the data subjects have no opportunity to make an informed choice since in order for the users to avail of Cashalo’s services, they have no choice but to accept the terms and conditions it provided.[^10] CID further stated that such act of OETC is “misleading and inherently unfair.”[^11]
 
-the DPA. 6 The CID claimed that OETC failed to uphold the principle
+The CID argued that Cashalo can access and store the personal information of the data subjects including their phone contacts, which is not relevant to the purpose of a loan transaction.[^12]
 
-of transparency since it “failed to provide the purpose for the storage
+Moreover, the CID stated that “the respondent is without a valid consent or authority under the DPA and other existing laws, to process and store the phone contacts of the borrowers. As such it should be deemed to be unauthorized and in violation of Section 25 of the DPA.”[^13]
 
-of the personal information accessed, and such cannot be seen in the
+The CID alleged that in terms of proportionality, OETC failed to clearly indicate in Cashalo’s Privacy Notice the purpose and extent of accessing the personal information of its clients, including their phone contacts.[^14] The CID also referred to the portion of Cashalo’s Privacy Notice which states that OETC, with its subsidiaries and affiliates, “may share any and all information relating to User to each other for any legitimate business purposes [such as]... credit collection, outsourcing of collections to third parties, remedial measure for collection (i.e. referral to agents and lawyers for collection).”[^15] Further, in the Privacy Notice’s “Use/Purpose of Personal Data”, the CID cited that one of Cashalo’s enumerated use/purpose is “to facilitate loan processing from application, review, monitoring, payment, collection and other remedial measures.”[^16]
 
-App’s Privacy Notice nor can be deduced from the permission it
+The CID concluded that OETC “intends to process any and all information about the data subject, including phone contacts, for purposes of debt collection.”[^17]
 
-requires .” 7
+Accordingly, the CID alleged that the processing of the data subject’s information for debt collection violated Section 3(D)(4) of the NPC Circular No. 20-01.[^18] It faulted OETC for having a Privacy Policy that was vague and ambiguous since it declared that any and all information of the data subject may be used for purposes, which included debt collection.[^19] The CID stated that the consent given by Cashalo’s users cannot be considered free, voluntary, and informed because data subjects have no choice but to allow access to its phone contact list to avail of OETC’s loan service.[^20]
 
-In terms of the legitimate purpose principle , the CID argued that it is
+The CID further argued that OETC is liable for Section 25 of the DPA that deals with the unauthorized processing of personal information and sensitive personal information.[^21] It contended that:
 
-upheld when one of the criteria for lawful processing , as provided in
+> [M]ere permissions before installation of the mobile application and during the launch of the application itself does not suffice as a valid consent, as consent cannot be said to be made in an informed, free, and voluntary manner. Respondent’s clients were left with no choice but to allow permissions, whose purposes were vaguely provided in its Privacy Policy, in order to use the application and apply for a loan.[^22]
 
-Sections 12 and 13 of the DPA , is met .8 According to the CID , OETC
+OETC’s Board of Directors (BOD) were the responsible officers liable for Section 25 of the DPA since the BOD was the one “who decides [for the corporation] and should have the duty of diligence. The violation of the corporation is a violation of the person behind it which are its officers or board.”[^23]
 
-does not have a legitimate purpose in processing personal
-
-information of its users since it was done without valid consent. 9 The
-
-CID stated that in Cashalo’s Privacy Policy, the data subjects have no
-
-opportunity to make an informed choice since in order for the users
-
-to avail of Cashalo’s services, they have no choice but to accept the
-
-terms and conditions it provided .10 CID further stated that such act of
-
-OETC is “misleading and inherently unfair.” 11
-
-The CID argued that Cashalo can access and store the personal
-
-information of the data subjects including their phone contacts,
-
-which is not relevant to the purpose of a loan transaction. 12
-
-Moreover, the CID stated that “ the respondent is without a valid
-
-consent or authority under the DPA and other existing laws, to
-
-process and store the phone contacts of the borrowers. As such it
-
-> 5Fact-Finding Report of the Complaints and Investigation Division ,pp. 8-15 .
-> 6Id., at pp. 9-10.
-> 7Id. ,at p.10.
-> 8Id. ,at p. 11.
-> 9Fact-Finding Report of the Complaints and Investigation Division ,at p. 12.
-> 10 Id. ,at p. 12.
-> 11 Id.
-> 12 Id. ,at p. 13.
-
-should be deemed to be unauthorized and in violation of Section 25
-
-of the DPA. ”13
-
-The CID alleged that in terms of proportionality, OETC failed to
-
-clearly indicate in Cashalo’s Privacy Notice the purpose and extent of
-
-accessing the personal information of its clients, including their
-
-phone contacts. 14 The CID also referred to the portion of Cashalo’s
-
-Privacy Notice which states that OETC , with its subsidiaries and
-
-affiliates, “may share any and all information relating to User to each
-
-other for any legitimate business purposes [such as ]… credit
-
-collection, outsourcing of collections to third parties, remedial
-
-measure for collection (i.e. referral to agents and lawyers for
-
-collection) .”15 Further, in the Privacy Notice’s “Use/Purpose of
-
-Personal Data” , the CID cited that one of Cashalo’s enumerated
-
-use/purpose is “to facilitate loan processing from application,
-
-review, monitoring, payment, collection and other remedial
-
-measures. ”16
-
-The CID concluded that OETC “ intends to process any and all
-
-information about the data subject, including phone contacts, for
-
-purposes of debt collection. ”17
-
-Accordingly, the CID alleged that the processing of the data subject’s
-
-information for debt collection violated Section 3(D)(4) of the NPC
-
-Circular No. 20-01 .18 It faulted OETC for having a  Privacy Policy that
-
-was vague and ambiguous since it declared that any and all
-
-information of the data subject may be used for purposes , which
-
-included debt collection. 19 The CID stated that the consent given by
-
-Cashalo’s users cannot be considered free, voluntary, and informed
-
-because data subjects have no choice but to allow access to its phone
-
-contact list to avail of OETC’s loan service .20
-
-> 13 Fact-Finding Report of the Complaints and Investigation Division ,at p. 14.
-> 14 Id .
-> 15 Id., at p.14. See Supplemental Report dated 31 May 2021, Annex “A”.
-> 16 Id.
-> 17 Fact-Finding Report of the Complaints and Investigation Division ,at p. 14 .
-> 18 Id .
-> 19 Id., at p. 15 .
-> 20 Id .
-
-The CID further argued that OETC is liable for Section 25 of the DPA
-
-that deals with the unauthorized processing of personal information
-
-and sensitive personal information. 21 It contended that:
-
-[M]ere permissions before installation of the mobile application
-
-and during the launch of the application itself does not suffice
-
-as a valid consent, as consent cannot be said to be made in an
-
-informed, free, and voluntary manner. Respondent’s clients
-
-were left with no choice but to allow permissions, whose
-
-purposes were vaguely provided in its Privacy Policy, in order
-
-to use the application and apply for a loan. 22
-
-OETC’s Board of Directors (BOD) were the responsible officers liable
-
-for Section 25 of the DPA since the BOD was the one “who decides
-
-[for the corporation] and should have the duty of diligence. The
-
-violation of the corporation is a violation of the person behind it
-
-which are its officers or board. ”23
-
-The CID also prayed for the issuance of temporary ban on the
-
-processing of personal information in relation to the Cashalo app .24 It
-
-stated that the re was substantial evidence to warrant the temporary
-
-ban’s issuance given that “[OETC’s] processing of personal data
-
-[was] without adherence to the Data Privacy Principles enshrined in
-
-the DPA ”, and since it was violative of NPC Circular 20-01, Section 3
-
-(D)(4) since “there [was] sufficient information to support that
-
-[OETC] has the ability to access, store, and copy phone contact lists of
-
-its borrowers and utilizes that stored data for use in debt collection or
-
-to harass its borrowers ”. 25 Further, the CID claimed that the
-
-temporary ban’s issuance was crucial for the preservation and
-
-protection of the data subjects’ rights. 26 The CID concluded that all of
-
-the grounds for the issuance of a temporary ban were present. 27
-
-> 21 Fact-Finding Report of the Complaints and Investigation Division ,at p. 16 .
-> 22 Id.
-> 23 Id., at p. 17.
-> 24 Id.
-> 25 Fact-Finding Report of the Complaints and Investigation Division ,at p. 17 .
-> 26 Id.
-> 27 Id., at p. 18.
+The CID also prayed for the issuance of temporary ban on the processing of personal information in relation to the Cashalo app.[^24] It stated that there was substantial evidence to warrant the temporary ban’s issuance given that “[OETC’s] processing of personal data [was] without adherence to the Data Privacy Principles enshrined in the DPA”, and since it was violative of NPC Circular 20-01, Section 3(D)(4) since “there [was] sufficient information to support that [OETC] has the ability to access, store, and copy phone contact lists of its borrowers and utilizes that stored data for use in debt collection or to harass its borrowers”.[^25] Further, the CID claimed that the temporary ban’s issuance was crucial for the preservation and protection of the data subjects’ rights.[^26] The CID concluded that all of the grounds for the issuance of a temporary ban were present.[^27]
 
 On 16 June 2021 , the Commission issued an Order directing OETC to
 
@@ -268,7 +106,7 @@ On 23 July 2021, OETC submitted it s Position Paper Ad Cautelam
 
 (Position Paper) .32
 
-In its Position Paper , OETC argued th at : 1) the CID’s Complaint did
+In its Position Paper , OETC arguedthat : 1) the CID’s Complaint did
 
 not establish all the requisites for the issuance of a temporary ban, 33
 
@@ -290,11 +128,7 @@ specific allegation that OETC was engaging in unscrupulous debt
 
 collection methods .36 Rather, it only allege d numerous complaints
 
-[28]
-
 at p. 2.
-
-[29]
 
 Entry of Appearance and Urgent Manifestation with Motion for Leave and Time to File
 
@@ -302,31 +136,17 @@ Position Paper (Re: Order dated 16 June 2021) dated 09 July 2021 of Oriente Expr
 
 Corporation .
 
-[30]
-
 Id., at p. 4.
-
-[31]
 
 2021 , at p. 2.
 
-[32]
-
 Position Paper Ad Cautela m dated 23 July 2021 of Oriente Express Techsystem Corporation.
-
-[33]
 
 Id., ¶¶ 43-61.
 
-[34]
-
 Id. , ¶¶ 62-147.
 
-[35]
-
 Id., ¶¶ 148-152.
-
-[36]
 
 Position Paper Ad Cautelam dated 23 July 2021 of Oriente Express Techsystem Corporation, ¶¶
 
@@ -336,7 +156,7 @@ against unnamed online lending applications (OLAs), without
 
 proving that OETC was actually the cause of these complaints .37
 
-OETC argued further that t he CID failed to prove that there were
+OETC argued further that the CID failed to prove that there were
 
 facts entitling the issuance of a temporary ban since its allegations to
 
@@ -348,7 +168,7 @@ subjects of the extent of its processing, OETC claimed that the
 
 Cashalo app “notifies the user multiple times of the purpose(s) for
 
-data collection” through its Privacy Policy and “simplifi ed pop -up
+data collection” through its Privacy Policy and “simplifi ed pop-up
 
 boxes”. 39 As to the CID’s allegation that the Cashalo app “has the
 
@@ -380,20 +200,13 @@ subjects who have been sufficiently informed in a concise,
 
 transparent, and intelligible manner as to which information are
 
-being processed, as well as the purposes for s uch processing .”43
+being processed, as well as the purposes forsuch processing .”43
 
 OETC emphasized that its users enter private loan contracts with the
 
 company akin to contracts of adhesion, which are not contracts
 
-> 37 Id.
-> 38 Id. ,¶52.
-> 39 Id. ,¶53.
-> 40 See Fact-Finding Report of the Complaints and Investigation Division, at p. 17.
-> 41 Position Paper Ad Cautelam dated 23 July 2021 of Oriente Express Techsystem Corporation, ¶
 > 57.
-> 42 Id. ,¶73.
-> 43 Id. ,¶90.
 
 automatically considered illegal, unfair, or vitiates the user’s
 
@@ -407,7 +220,7 @@ application, the Cashalo app notifies users that they may already
 
 remove access to their phone contact lists. 45
 
-OETC disputed the CID’s claim th at the Cashalo app does not
+OETC disputed the CID’s claimthat the Cashalo app does not
 
 provide a separate interface for users to provide character references,
 
@@ -421,11 +234,11 @@ developments: 1) “all instances of references selection in the Cashalo
 
 app will no longer trigger or require permission to access phone
 
-contacts”, 47 2) while there is an existing in -app messaging platform to
+contacts”, 47 2) while there is an existingin-app messaging platform to
 
 inform users that they may remove device permissions, there will
 
-also be an identical pop -up notice having the same function ,48 3)
+also be an identical pop-up notice having the same function ,48 3)
 
 update of its Privacy Policy to further clarify its personal data
 
@@ -443,16 +256,8 @@ Thus, OETC prayed for the Commission to deny the issuance of a
 
 temporary ban on the processing of personal data with respect to the
 
-> 44 Id., ¶¶ 95-97.
-> 45 Position Paper Ad Cautelam dated 23 July 2021 of Oriente Express Techsystem Corporation, ¶¶
 > 101-102.
-> 46 Id., ¶¶ 135-139.
-> 47 Id., ¶ 156.
-> 48 Id., ¶ 157.
-> 49 Position Paper Ad Cautelam dated 23 July 2021 of Oriente Express Techsystem Corporation, ¶
 > 158.
-> 50 Id., ¶ 159.
-> 51 Id., ¶ 155.
 
 Cashalo app and dismiss the sua sponte investigation for lack of
 
@@ -504,41 +309,23 @@ the old version of the application since the update applies
 
 prospectively. 60
 
-[52]
-
 Id ., at p. 59.
-
-[53]
 
 at p. 4.
 
-[54]
-
 Id.
-
-[55]
 
 Comment/Opposition (to the Respondent’s Position Paper dated 23 July 2021 ) dated 13 August
 
 2021 of the Complaints and Investigation Division .
 
-[56]
-
 Id. , ¶ 4.
-
-[57]
 
 Id. , ¶ 5 .
 
-[58]
-
 Id., ¶ 6.
 
-[59]
-
 Id., ¶ 7.
-
-[60]
 
 Id. , ¶¶ 7-8, ¶ 11 .NPC SS 21-005
 
@@ -594,27 +381,17 @@ furnished the request via electronic mail; and
 
 Express Techsystem Corporation and Paloo Financing Inc. 65
 
-[61]
-
 Id ., ¶ 23 .
-
-[62]
 
 Comment/Opposition (to the Respondent’s Position Paper dated 23 July 2021) dated 13 August
 
 2021 of the Complaints and Investigation Division, ¶ 25.
 
-[63]
-
 2021, at p. 3.
-
-[64]
 
 Urgent Motion to Reset the Clarificatory Hearing Scheduled on 19 August 2021 dated 16
 
 August 2021 of Oriente Express Techsystem Corporation .
-
-[65]
 
 2021, at pp. 1-2. NPC SS 21-005
 
@@ -668,25 +445,15 @@ satisfy the requisites for the issuance of Temporary Ban
 
 specifically, Section 3(1) and (2), Rule IX of the NPC Circular
 
-[66]
-
 Compliance [Re: Order dated 26 August 2021] dated 03 September 2021 of Oriente Express
 
 Techsystem Corporation.
 
-[67]
-
 Id., ¶ 2.
-
-[68]
 
 Id., ¶ 2.1; See video file of Oriente Express Techsystem Corporation.
 
-[69]
-
 Id., ¶ 2.2; Annex “1”.
-
-[70]
 
 Compliance [Re: Order dated 26 August 2021] dated 03 September 2021 of Oriente Express
 
@@ -694,11 +461,7 @@ Techsystem Corporation , ¶¶ 4-6; Annex “2” and video file of Oriente Expre
 
 Corporation.
 
-[71]
-
 Id., ¶ 7; Annexes “3” & “4”.
-
-[72]
 
 Compliance dated 26 August 2021. NPC SS 21-005
 
@@ -710,7 +473,7 @@ Officers within a non - extendible period of FIFTEEN (15) days
 
 from receipt of this ORDER to:
 
-1. Revise its Privac y Policy and processes to conform with
+1. Revise its Privacy Policy and processes to conform with
 
 Republic Act No. 10173, known as the Data Privacy Act of 2012,
 
@@ -720,7 +483,7 @@ admissions discussed during the Clarificatory Hearing held last
 
 26 August 2021; and
 
-2. Submit proof of compliance of its revised Privac y Policy
+2. Submit proof of compliance of its revised Privacy Policy
 
 and processes. 73
 
@@ -754,33 +517,19 @@ DPA , since it failed to adhere to the principles of transparency,
 
 legitimate purpose, and proportionality .79
 
-[73]
-
 2021 , at pp 26-27 .
 
-[74]
-
 Id., at p. 27. See NPC Circular No. 2021-01, rule VIII, § 4.
-
-[75]
 
 Compliance dated 10 December 2021 of Oriente Express Techsystem Corporation, ¶ 2. Annex
 
 “1”.
 
-[76]
-
 Id., ¶ 3. See video files of Oriente Express Techsystem Corporation.
-
-[77]
 
 2022
 
-[78]
-
 Memorandum dated 16 May 2022 of the Complaints and Investigation Division , at pp. 3-7.
-
-[79]
 
 Id. , at p. 3. NPC SS 21-005
 
@@ -838,35 +587,21 @@ The CID also faulted OETC for accessing its data subjects’ contacts
 
 since this was allegedly excessive in relation to the loan application. 86
 
-[80]
-
 Id .
-
-[81]
 
 Id. , at. p. 5.
 
-[82]
-
 Memorandum dated 16 May 2022 of the Complaints and Investigation Division, at p.5 .
 
-[83]
-
 Id., at pp. 7-8.
-
-[84]
 
 Id. , at p. 7.
 
-[85]
-
 Id., at pp. 7-8.
-
-[86]
 
 Memorandum dated 16 May 2022 of the Complaints and Investigation Division , at p.8. NPC SS 21-005
 
-Moreover , the CID stated that if OETC is found liable, the penalty
+Moreover, the CID stated that if OETC is found liable, the penalty
 
 should be imposed upon its BOD being the responsible officers who ,
 
@@ -878,9 +613,7 @@ emphasized that it did not violate Sections 11 and 16 of the DPA
 
 since there were “ legitimate purpose/s for the processing of personal
 
-information and the same were fully disclosed to the Cashalo app
-
-users ” in the Privacy Policy and pop -up notification boxes. 89 These
+information and the same were fully disclosed to the Cashalo app users ” in the Privacy Policy and pop-up notification boxes. 89 These
 
 purposes are “to conduct and perform fraud monitoring, detection,
 
@@ -920,19 +653,9 @@ concise, transparent, and intelligible manner as to which information
 
 are being processed, as well as the purposes for such processing.” 95
 
-> 87 Id .
-> 88 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation.
-> 89 Id. ,¶¶ 85-86 .
-> 90 Id., ¶ 30.
-> 91 Id., ¶¶ 90-91.
-> 92 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation ,¶¶ 98-129 .
-> 93 Id. ,¶ 104.
-> 94 Id., ¶¶ 106-110 .
-> 95 Id., ¶ 123.
-
 Further, OETC averred that it did not violate Section 3(D)(4) of NPC
 
-Cir cular No. 20-01 .96 Aside from CID’s alleged failure to substantiate
+Circular No. 20-01 .96 Aside from CID’s alleged failure to substantiate
 
 the violation, 97 the updated Cashalo app also no longer triggers or
 
@@ -946,7 +669,7 @@ the user’s phone contact list for debt collection or harassment, but did
 
 so only for legitimate reasons such as KYC. 99
 
-Fin ally, OETC concluded that considering that it did not violate the
+Finally, OETC concluded that considering that it did not violate the
 
 DPA and NPC Circular No. 20-01, there was no basis for holding its
 
@@ -974,27 +697,15 @@ information controller ’s compliance with the law 101 and institute
 
 investigations when necessary. 102
 
-[96]
-
 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation , ¶¶ 130-171.
-
-[97]
 
 Id., ¶¶ 13 0-138 .
 
-[98]
-
 Id., ¶ 139 .
-
-[99]
 
 Id., ¶ 140.
 
-[100]
-
 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation , ¶¶ 172-176 .
-
-[101]
 
 An Act Protecting Individual Personal Information in Information and Communications
 
@@ -1003,8 +714,6 @@ Systems in the Government and the Private Sector, Creating for This Purpose a Na
 Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter
 
 II, § 7(a) (2012).
-
-[102]
 
 Id. § 7(b). NPC SS 21-005
 
@@ -1034,7 +743,7 @@ its perusal to determine whether violations of the Data Privacy Act of
 
 the findings of the investigating division of the NPC, such document
 
-is t he complaint initiating the administrative proceedings in cases of
+is the complaint initiating the administrative proceedings in cases of
 
 sua sponte investigation. ”106 The term sua sponte, when translated,
 
@@ -1048,7 +757,7 @@ proceedings against the respondent. Meanwhile, the NPC’s
 
 Commission en banc acts as a collegial body to adjudicate the case. 108
 
-It shall review the evidence presented, inclu ding the FFR and
+It shall review the evidence presented, including the FFR and
 
 supporting documents. 109
 
@@ -1058,41 +767,25 @@ burden of proving their allegations with substantial evidence .” 110 As
 
 further explained by the Supreme Court in De Jesus v. Guerrero III :
 
-[103]
-
 NPC Circular No. 2021-01, rule X, §§ 5-6.
-
-[104]
 
 National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of
 
 2012, rule III, § (e)(1) (2016) (IRR of the DPA) .
 
-[105]
-
 NPC Circular No. 2021-01, rule X, §§ 3-5. See In re: FCash Global Lending Inc ., Operating FastCash
 
 Online Lending Application, NPC 19-909, Resolution dated 28 April 2022.
-
-[106]
 
 In re: FCash Global Lending Inc., Operating FastCash Online Lending Application, NPC 19-909,
 
 Resolution dated 28 April 2022., at pp. 3-4.
 
-[107]
-
 Id., at p. 4.
-
-[108]
 
 See Data Privacy Act of 2012, , chapter II, § 7(b).
 
-[109]
-
 NPC Circular No. 2021-01, rule VIII, § 1.
-
-[110]
 
 Office of the Ombudsman v. Fetalvero, Jr., G.R. No. 211450, 23 July 2018. NPC SS 21-005
 
@@ -1144,7 +837,7 @@ permission it requires ”, thus fail ing to adhere to the principle of
 
 transparency. 112 OETC countered that the purposes for processing
 
-personal data are found in Cashalo’s Privacy Policy, 113 in its pop -up
+personal data are found in Cashalo’s Privacy Policy, 113 in its pop-up
 
 boxes informing users of the permissions required, 114 and through
 
@@ -1156,23 +849,13 @@ not sufficiently prove that OETC failed to adhere to the transparency
 
 principle.
 
-[111]
-
 G.R. No. 171491, 04 September 2009.
-
-[112]
 
 Fact-Finding Report of the Complaints and Investigation Division, at p. 10.
 
-[113]
-
 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation, ¶ 86.
 
-[114]
-
 Id.
-
-[115]
 
 Id., ¶ 90. NPC SS 21-005
 
@@ -1200,15 +883,15 @@ From the foregoing, OETC has adequately shown that the Cashalo
 
 app users are informed of the purpose s of the processing of their
 
-personal information through its Privacy Policy and pop -up
+personal information through its Privacy Policy and pop-up
 
 notification boxes in the Cashalo app .117
 
 In its Privacy Policy, the user is notified of the purposes for collection
 
-of personal data which include the conduct and perfo rmance of fraud
+of personal data which include the conduct and performance of fraud
 
-monitoring, detection, analysis, and pre vention. 118 The pop -up boxes
+monitoring, detection, analysis, and prevention. 118 The pop-up boxes
 
 inform the users of the purposes for each application permissions in a
 
@@ -1228,39 +911,25 @@ location data, even if the user denies the permission, the application
 
 would still proceed to function. 122 However, the user has the option
 
-[116]
-
 National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of
 
 2012, rule I V, § 1 8(a) (2016).
-
-[117]
 
 See Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation , Annex es
 
 “2” - Privacy Policy dated 25 May 2021 , “2 -A” - Privacy Policy dated 27 October 2020, “3 -A” -
 
-screenshot of pop -up notices .
-
-[118]
+screenshot of pop-up notices .
 
 Id. , ¶ 10 .
 
-[119]
-
 Id. , Annex “3 -A” .
-
-[120]
 
 Compliance [Re: Order dated 26 August 2021] dated 03 September 2021 of Oriente Express
 
 Techsystem Corporation , ¶ 2; See also Annex “1” and Annex “2” .
 
-[121]
-
 Id., ¶ 2.2.
-
-[122]
 
 Id., ¶ 4. NPC SS 21-005
 
@@ -1296,7 +965,7 @@ which is also made clear in the Privacy Policy . 125
 
 all supporting documents and any other information obtained
 
-relative to this app lication shall be used by and communicated
+relative to thisapplication shall be used by and communicated
 
 to OETC and shall remain its property whether or not my credit
 
@@ -1306,23 +975,17 @@ removed it since OETC’s ownership of personal data was never
 
 the intention of the afore -stated statement. 126
 
-4. The Privacy Policy has also expressly stated that third -party
+4. The Privacy Policy has also expressly stated that third-party
 
-individuals shall not be considered co -makers of loans and no
+individuals shall not be considered co-makers of loans and no
 
 payment will be collected from them. Further, it also states that
 
 there shall be no attempt to collect from or enforce against
 
-third -party individuals for payment collection or rem edial
+third-party individuals for payment collection or rem edial
 
 measures. 127
-
-> 123 Id., ¶6.
-> 124 Compliance by OETC dated 10 December 2021, ¶2.1.
-> 125 Id., ¶ 2.2 .
-> 126 Id. ,¶ 2.3.
-> 127 Id .,¶ 2.5.
 
 The Commission notes OETC’s efforts in implementing its
 
@@ -1340,7 +1003,7 @@ the Commission finds that Cashalo has adequately shown that it
 
 informed its users of the processing through its Privacy Policy and
 
-pop -up notifications. Thus, in totality, OETC has provided sufficient
+pop-up notifications. Thus, in totality, OETC has provided sufficient
 
 evidence that it upholds the transparency principle.
 
@@ -1350,7 +1013,7 @@ uphold this principle since the Privacy Policy was presented without
 
 an opportunity for data subjects to make an informed choice. 128 The
 
-CID reason ed that “[f] or data subjects to avail of [OETC’s] services,
+CID reasoned that “[f] or data subjects to avail of [OETC’s] services,
 
 they have no choice but to accept the term s and conditions provided
 
@@ -1360,7 +1023,7 @@ processing to obtain a loan. This act of [OETC] is misleading and
 
 inherently unfair. ”129
 
-Further , the CID also claimed that the Cashalo app can access and
+Further, the CID also claimed that the Cashalo app can access and
 
 store personal information of the data subjects including their phone
 
@@ -1383,12 +1046,6 @@ anti -fraud assessment, credit assessment, risk underwriting and
 assessment, transaction processing, and regulatory reporting, among
 
 others. 132
-
-> 128 Fact-Finding Report of the Complaints and Investigation Division, at p. 12.
-> 129 Id.
-> 130 Id ., at p.13.
-> 131 Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation, pp. 2-3.
-> 132 Id.
 
 Section 11 of the DPA provides for the General Data Privacy
 
@@ -1454,17 +1111,9 @@ monitoring, payment, collection and other remedial
 
 measures. 136
 
-[133]
-
-> 134
-
 IRR of the DPA, § 18(b) . 2
 
-[135]
-
 Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation, p. 3.
-
-[136]
 
 Fact-Finding Report of the Complaints and Investigation Division, at p. 13. NPC SS 21-005
 
@@ -1484,7 +1133,7 @@ the Cashalo app, they cannot proceed without scrolling through the
 
 Privacy Policy and Cashalo’s Terms of Service. 138 Thus, the ”Accept”
 
-button remains to be greyed -out and unclickable “unless and until
+button remains to be greyed-out and unclickable “unless and until
 
 the users ha ve scrolled to the bottom of the [Privacy Policy] ”.139
 
@@ -1524,19 +1173,11 @@ given their consent freely. The CID failed to provide other proof or
 
 adequate reasoning of the users’ lack or impairment of consent.
 
-> 137 See National Privacy Commission, Guidelines on the Processing of Personal Data for Loan -
 > related Transactions, NPC Circular 20-01 (14 September 2020).
-> 138 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation ,¶ 29.
-> 139 Id.
-> 140 Id. ,¶ 23.3.
-> 141 Id. ,¶ 41.
-> 142 Fact-Finding Report of the Complaints and Investigation Division, at p. 12.
-> 143 Cabanting v. BPI Family Savings Bank, Inc. , G.R. No. 201927, 17 February 2016.
-> 144 Id. (Emphases supplied.)
 
 From the records, the Commission finds that OETC has sufficiently
 
-shown that its Privacy Policy and pop -up notices adequately
+shown that its Privacy Policy and pop-up notices adequately
 
 informed its users on the purposes for collection of personal data and
 
@@ -1562,7 +1203,7 @@ purpose of collecting on the data subject’s account or collecting the
 
 delinquent account .”146
 
-OETC counter ed that the Cashalo app requires user -granted
+OETC counter ed that the Cashalo app requiresuser-granted
 
 permission to access the phone’s contact list only for valid legitimate
 
@@ -1584,23 +1225,13 @@ shall be processed only if the purpose of the processing could
 
 not reasonably be fulfilled by other means. 149
 
-[145]
-
 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation, ¶ 30.
-
-[146]
 
 Memorandum dated 16 May 2022 of the Complaints and Investigation Division , at p. 5.
 
-[147]
-
 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation, ¶ 141 .
 
-[148]
-
 Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation , ¶ 126.
-
-[149]
 
 Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18(c). NPC SS 21-005
 
@@ -1616,11 +1247,11 @@ suitable and not excessive to its declared purpose.
 
 When users apply for a loan through the Cashalo app by clicking the
 
-“Apply Now” button, users are prompted with pop -up boxes to
+“Apply Now” button, users are prompted with pop-up boxes to
 
 allow the app “access to the mobile phone’s camera, photos, and
 
-location” , with separate pop -up boxes per request. 151 The Cashalo
+location” , with separate pop-up boxes per request. 151 The Cashalo
 
 app requires the camera and media permissions as part of KYC
 
@@ -1662,11 +1293,6 @@ Inform ation and Sensitive Personal
 
 Information .
 
-> 150 MNLC vs PXXX Corporation ,Decision dated 29 October 2020 , at p. 22 .
-> 151 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation, ¶ 45.
-> 152 Id., ¶ 45 .
-> 153 Id.
-
 In determining whether a violation of Section 25 of the DPA
 
 occurred, three elements must be established with substantial
@@ -1699,7 +1325,7 @@ DPA and other existing laws, processing will be unauthorized
 
 (sic ).” 155 The CID particularly points to OETC’s processing of the
 
-user’s phone contact list as unauthorized. 156 According to t he CID,
+user’s phone contact list as unauthorized. 156 According to the CID,
 
 Cashalo users did not validly consent in allowing the application’s
 
@@ -1722,14 +1348,6 @@ KYC, fraud prevention, and credit scoring.” 159 It also argued that the
 CID failed to prove by substantial evidence that the purpose s for the
 
 processing of personal data of the Cashalo app users were actually
-
-> 154 In Re: FLI Operating ABC Online Lending Application , NPC 19-910 , Decision dated 17 December
-> 2020 at p. 17.
-> 155 Memorandum dated 16 May 2022 of the Complaints and Investigation Division, at p.7.
-> 156 Id.
-> 157 Id.
-> 158 Id.
-> 159 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation, ¶ 107.
 
 vague. 160 The users validly gave their consent by being sufficiently
 
@@ -1781,25 +1399,15 @@ permitted only if not otherwise prohibited by law, and when at
 
 least one of the following conditions exists:
 
-[160]
-
 Id. , ¶ 104.
-
-[161]
 
 Id., ¶ 123.
 
-[162]
-
 See Data Privacy Act of 2012, § 3( h).
-
-[163]
 
 Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation, Annexes “2” -
 
 Privacy Policy dated 25 May 2021, “2 -A” - Privacy Policy dated 27 October 2020.
-
-[164]
 
 An Act Protecting Individual Personal Information in Information and Communications
 
@@ -1875,10 +1483,6 @@ Privacy Policy was not valid ly obtained , the CID must not just allege,
 
 but provide substantial evidence, that the users w ho consented to the
 
-[165]
-
-> 166
-
 Encarnacion Construction & Industrial Corp. v. Phoenix Ready Mix Concrete Development &
 
 Construction, Inc. , G.R. No. 225402 , 04 September 4, 2017. NPC SS 21-005
@@ -1913,7 +1517,7 @@ data was violative of the DPA or any other law. As discussed, the
 
 Commission cannot find that OETC particularly violated the general
 
-data privacy principles of transpa rency, legitimate purpose, and
+data privacy principles oftransparency, legitimate purpose, and
 
 proportionality found in the DPA. The CID has also not sufficiently
 
@@ -1939,13 +1543,8 @@ not equivalent to proof. In short, mere allegations are not
 
 evidence.” 171
 
-> 167 Id.
-> 168 Position Paper Ad Cautelam dated 23 July 2021 of Oriente Express Techsystem Corporation, ¶¶
 > 7-13.
-> 169 Id., ¶ 9.
-> 170 Encarnacion Construction & Industrial Corp. v. Phoenix Ready Mix Concrete Development &
 > Construction, Inc. , G.R. No. 225402 , 04 September 4, 2017.
-> 171 G.R. No. 165585, 20 November 2013 .
 
 Thus, OETC and its responsible officers cannot be held liable for
 
@@ -1991,7 +1590,7 @@ borrower or his/her contacts, ar e prohibited. In all instances,
 
 online lending apps must have a separate interface where
 
-borrowers can provide character references and/or co -makers
+borrowers can provide character references and/or co-makers
 
 of their own choosing. 172
 
@@ -2007,15 +1606,9 @@ the CID claimed that this was a prohibited activ ity that violated the
 
 Circular .174
 
-[172]
-
 NPC Circular 20-01, § 3(D)(4) (14 September 2020).
 
-[173]
-
 Memorandum dated 16 May 2022 of the Complaints and Investigation Division, at p.5.
-
-[174]
 
 Id., at p. 7. NPC SS 21-005
 
@@ -2025,7 +1618,7 @@ evidence. Further, the access to contact lists were for fraud
 
 prevention, credit assessment, and KYC. 175 This can be proven by the
 
-various pop -up boxes notifying the user about the purposes for data
+various pop-up boxes notifying the user about the purposes for data
 
 processing. 176
 
@@ -2033,7 +1626,7 @@ After weighing the claims and proof of both parties, the Commission
 
 finds that there is a lack of substantial evidence to conclude that
 
-OETC viol ated Section 3(D)(4) of NPC Circular No. 20-01.
+OETCviolated Section 3(D)(4) of NPC Circular No. 20-01.
 
 In CID’s Supplemental Technical Report dated 14 May 2021, the CID
 
@@ -2059,7 +1652,7 @@ its Privacy Policy, and application, to better align with NPC Circular
 
 20-01. 179
 
-The CID has not proven that OETC accesse d the contact list for
+The CID has not proven that OETCaccessed the contact list for
 
 unlawful purposes . In any event, OETC has provided proof that its
 
@@ -2073,35 +1666,19 @@ In summary, the CID has failed to prove with substantial evidence
 
 that OETC and its responsible officers: 1) failed to adhere to the
 
-> 175 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation, ¶ 145.
-> 176 Id.
-> 177 Supplemental Technical Report dated 14 May 2021 of the Complaints and Investigation
-> Division, ¶ 15.
-> 178 Comment/Opposition (to Respondent’s Position Paper dated 23 July 2021) dated 13 August
-> 2021 of the Complaints and Investigation Division, ¶ 10. (Emphasi s supplied)
-> 179 Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation ,¶139.
-> 180 Id. ,¶170.
-
-general data privacy principle s, 2) violated Section 25 of the DPA,
+general data privacyprinciples, 2) violated Section 25 of the DPA,
 
 and 3) violated Section 3(D)(4) of NPC Circular 20-01.
 
-WHEREFORE, premises considered, the Fact-Finding Report with
+WHEREFORE, premises considered, the Fact-Finding Report with Application for the Issuance of a Temporary Ban against Oriente Express Techsystem Corporation (Cashalo) is hereby **DISMISSED**.
 
-Application for the Issuance of a Temporary Ban against Oriente
+**SO ORDERED.**
 
-Express Techsystem Corporation (Cas halo) is hereby DISMISSED .
-
-SO ORDERED.
-
-City of Pasay, Philippines .
-
-16 June 202 2.
+City of Pasay, Philippines. 16 June 2022.
 
 Sgd.
 
 JOHN HENRY D. NAGA
-
 Privacy Commissioner
 
 WE CONCUR:
@@ -2109,27 +1686,73 @@ WE CONCUR:
 Sgd.
 
 LEANDRO ANGELO Y. AGUIRRE
-
 Deputy Privacy Commissioner
 
 Sgd.
 
 DUG CHRISTOPER B. MAH
-
 Deputy Privacy Commissioner
 
 Copy furnished:
 
 CMT
-
-Counsel for Respondent NPC SS 21-005
-
-In re: Oriente Express Techsystem Corporation (Cashalo)
-
-5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
+Counsel for Respondent
 
 COMPLAINTS AND INVESTIGATION DIVISION
-
 ENFORCEMENT DIVISION
-
 GENERAL RECORDS UNIT
+National Privacy Commission
+
+[^1]: See National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission, NPC Circular No. 2021-01, rule I, § 4(p); rule X, §§ 4-5 (28 January 2021) (2021 NPC Rules of Procedure).
+
+[^2]: Fact-Finding Report (with Application for Issuance of Temporary Ban on the Processing of Personal Data) dated 09 June 2021 of the Complaints and Investigation Division, at p. 18. (Fact-Finding Report)
+
+[^3]: *Id.*, at pp. 1-2.
+
+[^4]: Technical Report dated 14 May 2021 of the Complaints and Investigation Division, ¶ 10. The Technical Report is cited in the Fact-Finding Report.
+
+[^5]: Fact-Finding Report of the Complaints and Investigation Division, at pp. 8-15.
+
+[^6]: *Id.*, at pp. 9-10.
+
+[^7]: *Id.*, at p. 10.
+
+[^8]: *Id.*, at p. 11.
+
+[^9]: Fact-Finding Report of the Complaints and Investigation Division, at p. 12.
+
+[^10]: *Id.*, at p. 12.
+
+[^11]: *Id.*
+
+[^12]: *Id.*, at p. 13.
+
+[^13]: Fact-Finding Report of the Complaints and Investigation Division, at p. 14.
+
+[^14]: *Id.*
+
+[^15]: *Id.*, at p. 14. See Supplemental Report dated 31 May 2021, Annex "A".
+
+[^16]: *Id.*
+
+[^17]: Fact-Finding Report of the Complaints and Investigation Division, at p. 14.
+
+[^18]: *Id.*
+
+[^19]: *Id.*, at p. 15.
+
+[^20]: *Id.*
+
+[^21]: Fact-Finding Report of the Complaints and Investigation Division, at p. 16.
+
+[^22]: *Id.*
+
+[^23]: *Id.*, at p. 17.
+
+[^24]: *Id.*
+
+[^25]: Fact-Finding Report of the Complaints and Investigation Division, at p. 17.
+
+[^26]: *Id.*
+
+[^27]: *Id.*, at p. 18.

@@ -84,7 +84,7 @@ Based on the foregoing provisions of the law and its IRR, it is apparent that no
 
 The claim forwarded that "portion of the backup cannot be deleted without jeopardizing the system backup" is unsubstantiated, and requires proof. As per the basic legal maxim, he who alleges must prove his case.[^3] In this regard, it has to be adequately proven that deletion of a portion of a backup system will negatively impact such system. Only then can the Commission entertain alternative proposals for compliance with the provisions of the law.
 
-#### Clarification re: application of Section 19.e.2 of the IRR in relation to the deletion of personal information
+#### Clarification re: application of Section 19(e)(2) of the IRR in relation to the deletion of personal information
 
 Section 19(e)(2) of the IRR provides:
 

@@ -44,7 +44,7 @@ AGUIRRE, D.P.C.
 
 Before this Commission is a Complaint by JRG (Complainant) against Creditable Lending Corporation (Respondent) for a violation of the Data Privacy Act of 2012.
 
-### Facts of the Case
+### Facts
 
 Complainant, using the Complaints-Assisted Form, described her complaint as follows “harassment & invasion of privacy; text blasting to all my contacts.”[^1] She stated that she has suffered depression and trauma from Respondent’s acts.[^2] She alleged that she found out about this incident when her contacts forwarded to her the text message.[^3] Complainant indicates that she is seeking a temporary ban on Respondent’s processing.[^4]
 
@@ -64,19 +64,6 @@ Respondent alleges that Complainant has given her consent for the access of her 
 
 1. Whether Respondent committed a violation of the Data Privacy Act that warrants a recommendation for prosecution; and
 
-> 6Order dated 19 August 2019.
-> 7Attendance Sheet for Discovery Conference dated 18 September 2019.
-> 8Order dated 18 September 2019.
-> 9Comment dated 08 October 2019. Emphasis supplied.
-> 10 Ibid.
-
-NPC Case No. 19 -450
-
-JRG v. Creditable Lending Corporation
-
-> 5th Floor, Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
 2. Whether a temporary ban should be issued against Respondent’s processing of personal data.
 
 ### Discussion
@@ -93,16 +80,7 @@ Given all these, the Commission is left without any basis to recommend Responden
 
 As the Supreme Court held in *Government Service Insurance System v. Prudential Guarantee*, “it is basic in the rule of evidence that bare allegations, unsubstantiated by evidence, are not equivalent to proof. In short, mere allegations are not evidence.”[^12]
 
-As such, in the absence of sufficient evidence to support Complainant’s allegations that Respondent disclosed her personal
-
-NPC Case No. 19 -450
-
-JRG v. Creditable Lending Corporation
-
-> 5th Floor, Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
-information to her contacts, it cannot be said that Respondent committed an act that would constitute the prohibited acts of unauthorized processing[^13] or processing for an unauthorized purpose.[^14]
+As such, in the absence of sufficient evidence to support Complainant’s allegations that Respondent disclosed her personal information to her contacts, it cannot be said that Respondent committed an act that would constitute the prohibited acts of unauthorized processing[^13] or processing for an unauthorized purpose.[^14]
 
 #### The Complaint Does Not Warrant the Issuance of a Temporary Ban
 
@@ -118,113 +96,23 @@ Considering the findings above on the Complaint’s lack of substantial evidence
 
 Nevertheless, the Commission notes that Respondent misunderstands the Data Privacy Act (DPA) in asserting that they obtained Complainant’s consent to access her contacts.[^17]
 
-> 13 Republic Act No. 10173, Section 25.
-> 14 Id., at Section 28.
-> 15 Complaints -Assisted Form, p. 7.
-> 16 Supra Note 1 1, at Section 19.
-> 17 Supra Note 9.
-
-NPC Case No. 19 -450
-
-JRG v. Creditable Lending Corporation
-
-> 5th Floor, Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
-The Loan Agreement, attached to their Responsive Comment, contains
-
-this provision:
+The Loan Agreement, attached to their Responsive Comment, contains this provision:
 
 VIII. Waivers
 
 xxx
 
-The Borrower hereby willingly, voluntarily, and with full
+The Borrower hereby willingly, voluntarily, and with full knowledge of his right under the law, waives the right to confidentiality of information and authorize the Lender to disclose, divulge, and reveal any such information relating to Borrower’s loan availment, including events of default, for the purpose of, among others, client evaluation, credit reporting or verification and recovery of the obligation due and payable to the Lender under this Loan Agreement.
 
-knowledge of his right under the law, waives the right to
+In view of the foregoing, the Lender may disclose, divulge and reveal the aforementioned information to third parties, including but not limited to the Borrower’s employer, credit bureaus, the Lender’s affiliate, subsidiaries, agents, service providers, as well as any prospective assignee or transferee, rating agency, insurer, and any such person, entity or regulatory body that may be required by law or competent authority.[^18]
 
-confidentiality of information and authorize the Lender to
+Personal information controllers who rely on consent as basis to process their information must ensure that such consent is “freely given, specific, and an informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her.”[^19]
 
-disclose, divulge, and reveal any such information relating to
+In its waiver provision, Respondent combines various purposes for disclosure and various parties to be given access of Complainant’s information. This does not meet the requirement for consent to be specific. Having an enumeration of each and every purpose of the processing in a single paragraph still fails to provide the data subject with a genuine choice as he or she will be bound to sign off on the entire provision in toto.[^20]
 
-Borrower’s loan av ailment, including events of default, for the
+Provisions that use vague and overbroad language, as in this case, cannot be said to comply with the general privacy principle of transparency. As the DPA’s Implementing Rules and Regulations explain:
 
-purpose of, among others, client evaluation, credit reporting or
-
-verification and recovery of the obligation due and payable to the
-
-Lender under this Loan Agreement.
-
-In view of the foregoing, the Lender may disclose, divulge and
-
-reveal the aforementioned information to third parties, including
-
-but not limited to the Borrower’s employer, credit bureaus, the
-
-Lender’s affiliate, subsidiaries, agents, service providers, as well
-
-as any prospective assignee or transferee, rating agency, insurer,
-
-and any such person, entity or regulatory body that may be
-
-required by law or competent authority. 18
-
-Personal information controllers who rely on consent as basis to
-
-process their information must ensure that such consent is “freely
-
-given, specific, and an informed indication of will, whereby the data
-
-subject agrees to the collection and processing of personal information
-
-abo ut and/or relating to him or her.” 19
-
-In its waiver provision, Respondent combines various purposes for
-
-disclosure and various parties to be given access of Complainant’s
-
-information. This does not meet the requirement for consent to be
-
-specific. Having an enumeration of each and every purpose of the
-
-processing in a single paragraph still fails to provide the data subject
-
-with a genuine choice as he or she will be bound to sign off on the
-
-entire provision in toto. 20
-
-Provisions that use vague and overbroad language , as in this case,
-
-cannot be said to comply with the general privacy principle of
-
-> 18 Id ., at Annex A.
-> 19 Republic Act No. 10173, Section 3(b).
-> 20 NPC Advisory Opinion 2018 -063. 23 October 2018.
-
-NPC Case No. 19 -450
-
-JRG v. Creditable Lending Corporation
-
-> 5th Floor, Delegation Building, PICC Complex , Pasay City 1307
-> URL: http://privacy.gov.ph Email Address: info@privacy.gov.ph
-
-transparency. As the DPA’s Implementing Rules and Regulations
-
-explain :
-
-The data subject must be aware of the nature, purpose, and extent
-
-of the processing of his or her personal data, including the risks and
-
-safeguards involved, the identity of personal information
-
-controller, his or her rights as a data subject, and how thes e can be
-
-exercised. Any information and communication relating to the
-
-processing of personal data should be easy to access and
-
-understand, using clear and plain language.
+The data subject must be aware of the nature, purpose, and extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of personal information controller, his or her rights as a data subject, and how these can be exercised. Any information and communication relating to the processing of personal data should be easy to access and understand, using clear and plain language.
 
 While the Commission finds that the allegations of Complainant are not sufficiently substantiated to warrant a recommendation for prosecution, it finds it necessary to emphasize the need for personal information controllers, such as Respondent, to inform their data subjects of the purpose of the processing of their personal information in “clear and plain language.” The requirement to use clear and plain language does not mean using layman’s terms to substitute technical words at the risk of not capturing the complex concepts they represent. Rather, this requirement means that information should be provided in as simple a manner as possible, avoiding sentence or language structures that are complex.[^21] The information provided should be concrete and definitive; it should not be phrased in abstract or ambivalent terms or leave room for different interpretations[^22] such as in the above-cited provision which uses the word “any” several times, as well as wordings like “including but not limited to”.
 
@@ -244,7 +132,7 @@ WE CONCUR:
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-JOHN HENRY DU NAGA
+JOHN HENRY D. NAGA
 Deputy Privacy Commissioner
 
 Copy furnished:

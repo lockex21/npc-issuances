@@ -30,8 +30,8 @@ We write in response to your query received by the National Privacy Commission (
 email. You stated that Automatic Data Processing (ADP) is a human capital management
 solutions company based in the United States. It has presence in the Philippines through ADP
 (Philippines) Inc. which provides payroll services to Philippine clients. You seek advice and
-clarification regarding Section 44 of the Implementing Rules and Regulations (IRR)1 of
-Republic Act No. 10173,2 otherwise known as the Data Privacy Act of 2012 (DPA).
+clarification regarding Section 44 of the Implementing Rules and Regulations (IRR)[^1] of
+Republic Act No. 10173,[^2] otherwise known as the Data Privacy Act of 2012 (DPA).
 
 ### Discussion
 
@@ -53,12 +53,6 @@ conditions in the outsourcing agreement.
        communicate changes, if any, on a set frequency, either annually, bi-annually or
        quarterly, meets the requirement under the law.
 
-1 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-2An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-OF 2012], Republic Act No. 10173, (2012).
-
-   5th Floor, Delegation Bldg., PICC Complex, Roxas Boulevard, Manila 1307
 
 It is sufficient that the agreement states the indicative list of countries where personal data of
 clients that require multiple data hosting locations will be processed. We further note that in
@@ -98,20 +92,16 @@ jurisdictions involved.
 
 No, archival media or backup tapes are not exempt from the law. While personal data may be
 retained for a certain period pursuant to legitimate business purposes, such purpose must be
-consistent with standards followed by the applicable industry.3 Taking into consideration the
+consistent with standards followed by the applicable industry.[^3] Taking into consideration the
 technical challenges, companies must start considering strategies on how to make data
 erasure possible, or how to put in place measures to prevent further processing of data on
 archival media/backup tapes. The DPA provides that personal data shall not be retained
-longer than necessary.4 Where data is being retained, PICs should document its justification
+longer than necessary.[^4] Where data is being retained, PICs should document its justification
 and ensure that data subjects are fully notified of such retention, the purpose and other
 relevant information.
 
 5. On Section 44 (b)(8) on the requirement to make available to the personal information
    controller all information necessary to allow for and contribute to audits by said PIC or
-
-3 Id., § 19 (d)(1)(c).
-4 Rules and Regulations Implementing the Data Privacy Act of 2012, § 19 (d).
-
    another auditor mandated by the PIC, you inquire whether there is further guidance on
    said provision; whether it is possible to restrict such an audit to select situations which
    require an audit and establish terms and conditions that would require the audit to be
@@ -132,7 +122,7 @@ requirement that parties shall mutually agree on the auditor, if feasible.
 
 All of these are subject to the precept that contracting parties may establish such stipulations,
 clauses, terms and conditions as they may deem convenient, provided they are not contrary
-to law, morals, good customs, public order, or public policy.5
+to law, morals, good customs, public order, or public policy.[^5]
 
 This opinion is being rendered based on the limited information you have provided.
 Additional information may change the context of the inquiry and the appreciation of the
@@ -150,6 +140,8 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-5 An Act To Ordain And Institute The Civil Code Of The Philippines [THE CIVIL CODE OF THE PHILIPPINES] Republic
-
-Act. No. 386 (1949), Art. 1306.
+[^1]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173, (2012).
+[^3]: Id., § 19 (d)(1)(c).
+[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 19 (d).
+[^5]: An Act To Ordain And Institute The Civil Code Of The Philippines [THE CIVIL CODE OF THE PHILIPPINES] Republic Act. No. 386 (1949), Art. 1306.

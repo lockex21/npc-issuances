@@ -24,7 +24,7 @@ Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to clarify issues on contact tracing and the public disclosure of
-identities of COVID-19 patients vis-à-vis the provisions of the Data Privacy Act of 20122 (DPA)
+identities of COVID-19 patients vis-à-vis the provisions of the Data Privacy Act of 2012[^2] (DPA)
 and other relevant issuances of the NPC and the Department of Health (DOH).
 
 Specifically, you ask what would be the measures to address patient tracking without publicly
@@ -41,24 +41,16 @@ in the future for malicious reasons.
 
 ### Discussion
 
-Processing of health information; contact tracing;
-COVID-19 data; lawful basis for processing; public
-
-privacy guidelines.
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private
-
-Act No. 10173 (2012).
-
-authority; mandate
+#### Processing of health information; contact tracing; COVID-19 data; lawful basis for processing; public authority; mandate
 
 Contact tracing as defined under recent regulations of the DOH refers to the identification, listing,
 and follow-up of persons who may have come into close contact with a confirmed COVID-19
-case.3 It has three (3) goals:
+case.[^3] It has three (3) goals:
 
    1. To interrupt ongoing transmission and reduce spread of infection;
     2. To alert close contacts to the possibility of infection and offer preventive counselling or
        care; and
-    3. To understand the epidemiology of a disease in a particular population.4
+    3. To understand the epidemiology of a disease in a particular population.[^4]
 
 Accordingly, contact tracing would inevitably involve the processing of personal and sensitive
 personal information (collectively, personal data) of COVID-19 suspected, probable, and
@@ -93,14 +85,9 @@ level:
 
    xxx      xxx      xxx
 
-3 Department of Health, Updated Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease (COVID-
-
-19) Cases [Department Memorandum No. 2020-0189], § II (A) (April 17, 2020).
-4 Id. § III (B).
-
    The processing of personal data by DOH finds support in the DPA. The DOH is a public
          authority performing regulatory functions, and is permitted to process personal data to the
-         extent necessary for the fulfillment of these functions.”5
+         extent necessary for the fulfillment of these functions.”[^5]
 
 The DPA recognizes that the government can perform its functions in this pandemic while still
 guaranteeing the data privacy rights of our citizens. The law requires that all government
@@ -109,8 +96,7 @@ other agencies or entities authorized by law, specifically on contact tracing, s
 general data privacy principles, implement safeguards to protect personal data they process, and
 uphold data subjects’ rights at all times.
 
-Disclosure of personal data; limitations; risks of
-publicly disclosing personal data
+#### Disclosure of personal data; limitations; risks of publicly disclosing personal data
 
 As to disclosure of COVID-19 personal data by the DOH, this may be made in a limited manner
 pursuant to the Annex A of the DOH Updated Guidelines on Contact Tracing:
@@ -121,17 +107,17 @@ pursuant to the Annex A of the DOH Updated Guidelines on Contact Tracing:
 
    Disclosure to the public, the media, or any other public-facing platforms without the written
          consent of the patient or his/her authorized representative or next of kin, shall be strictly
-         prohibited.”6
+         prohibited.”[^6]
 
 The above policy is further reinforced in the DOH-NPC Joint Memorandum Circular on the
 Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance
-and Response,7 which contains a similar provision under Section VI (D) (2) thereof on the Specific
+and Response,[^7] which contains a similar provision under Section VI (D) (2) thereof on the Specific
 Guidelines on Use and Disclosure of Health Information.
 
 Further, the JMC provides that aggregate health information, or pseudonymized or anonymized
 detailed health information may be disclosed for a legitimate purpose, i.e. public information or
-purpose.8 This is also consistent with the DOH Updated Guidelines on Contact Tracing
-provisions on Protecting Data Privacy of COVID-19 Cases and Close Contacts,9 where it was
+purpose.[^8] This is also consistent with the DOH Updated Guidelines on Contact Tracing
+provisions on Protecting Data Privacy of COVID-19 Cases and Close Contacts,[^9] where it was
 declared that “the DOH reserves the right to release information on COVID-19 cases that are
 relevant for public health interventions without full disclosure of the case’s identity.”
 
@@ -140,26 +126,15 @@ efforts since aggregate, pseudonymized, or anonymized data may still be made ava
 
 This may include details on a patient’s sex, age, barangay, travel history, etc., taking caution that
 a COVID-19 suspected, probable, or confirmed case should not be capable of being identified
-
-5 National Privacy Commission, NPC Advisory Opinion No. 2018-083 (Nov. 26, 2018).
-6 DOH Department Memorandum No. 2020-0189, Annex A - Guidelines for Processing and Disclosure of the Personal
-
-Information of Patient/Data Subject.
-7 Department of Health and National Privacy Commission, Privacy Guidelines on the Processing and Disclosure of COVID-19
-
-Related Data for Disease Surveillance and Response [Joint Memorandum Circular No. 2020-0002] (April 24, 2020).
-8 Id. § VI (D) (3).
-9 DOH Department Memorandum No. 2020-0189, § IV (I) (3).
-
 from the data that is released following the DOH guidelines. These pseudonymized data may
 thus allow the public to assess their own risks without necessarily compromising the COVID-19
 patients’ privacy rights.
 
 We stand firm against any form of unbridled disclosure of patients’ personal data to the public
 that has been proven to cause a real risk of severe harm to patients, i.e. physical assaults,
-harassments, discrimination, among others.10
+harassments, discrimination, among others.[^10]
 
-Storage and retention; further processing
+#### Storage and retention; further processing
 
 As to the limit in terms of personal data storage and retention, the general rule is that personal
 data may be retained as necessary to fulfill the purpose for which these were collected, pursuant
@@ -172,9 +147,9 @@ efforts, be it manual or through the use of online applications or any other eme
 
 As to any further processing activities, the JMC provides that only aggregate health information
 or pseudonymized health information shall be shared by public health authorities to stakeholders
-for the purpose of business intelligence and policy and biomedical researches.11 Further, all policy
+for the purpose of business intelligence and policy and biomedical researches.[^11] Further, all policy
 and biomedical researches related to COVID-19 surveillance and response shall secure an Ethics
-Board approval prior to implementation.12
+Board approval prior to implementation.[^12]
 
 This opinion is provided based on the information you have provided. Additional information
 may change the context of the inquiry and the appreciation of the facts.
@@ -186,10 +161,14 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-10 See: NPC PHE Bulletin No. 11: Joint Statement of the Department of Health (DOH) and National Privacy Commission (NPC)
-
-on Processing and Disclosure of COVID-19 Related Data, April 30, 2020 (available at https://www.privacy.gov.ph/2020/04/npc-
-phe-bulletin-no-11-joint-statement-of-the-department-of-health-doh-and-national-privacy-commission-npc-on-processing-and-
-disclosure-of-covid-19-related-data/).
-11 DOH and NPC Joint Memorandum Circular No. 2020-0002, § VI (F) (1).
-12 Id. § VI (F) (2).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: Department of Health, Updated Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease (COVID-19) Cases [Department Memorandum No. 2020-0189], § II (A) (April 17, 2020).
+[^4]: Id. § III (B).
+[^5]: National Privacy Commission, NPC Advisory Opinion No. 2018-083 (Nov. 26, 2018).
+[^6]: DOH Department Memorandum No. 2020-0189, Annex A - Guidelines for Processing and Disclosure of the Personal Information of Patient/Data Subject.
+[^7]: Department of Health and National Privacy Commission, Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response [Joint Memorandum Circular No. 2020-0002] (April 24, 2020).
+[^8]: Id. § VI (D) (3).
+[^9]: DOH Department Memorandum No. 2020-0189, § IV (I) (3).
+[^10]: See: NPC PHE Bulletin No. 11: Joint Statement of the Department of Health (DOH) and National Privacy Commission (NPC) on Processing and Disclosure of COVID-19 Related Data, April 30, 2020 (available at https://www.privacy.gov.ph/2020/04/npc-phe-bulletin-no-11-joint-statement-of-the-department-of-health-doh-and-national-privacy-commission-npc-on-processing-and-disclosure-of-covid-19-related-data/).
+[^11]: DOH and NPC Joint Memorandum Circular No. 2020-0002, § VI (F) (1).
+[^12]: Id. § VI (F) (2).

@@ -11,6 +11,7 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2020-008
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-008.pdf
+- Issue date: 02/04/2020
 - OCR used during extraction: no
 
 ## Text
@@ -26,34 +27,24 @@ We write in response to your request for advisory opinion received by the Nation
 Commission (NPC) which sought clarify whether the requirement set by the Occupational
 Safety and Health Center (OSHC) mandating Occupational Safety and Health Training
 Organizations (OSHTOs) to submit video documentation of mandatory trainings for safety
-officers violates the Data Privacy Act of 20122 (DPA).
+officers violates the Data Privacy Act of 2012[^2] (DPA).
 
 ### Discussion
 
-OSHC as public authority
+#### OSHC as public authority
 
-The OSHC was created by virtue of Executive Order No. 307. 3 Its primary mission is to
+The OSHC was created by virtue of Executive Order No. 307.[^3] Its primary mission is to
 develop effective, responsive, and sustainable Occupational Safety and Health (OSH)
 programs, policies and services; promote excellent management of resources and foster
 mutually beneficial linkages that will create a healthy and safe work environment for workers
-in all industries. 4 Under Section 2 of the EO, the OSHC have the following powers and
+in all industries.[^4] Under Section 2 of the EO, the OSHC have the following powers and
 functions, among others:
 
    a.    To undertake continuing studies and researches on occupational safety and health,
             including those relating to the establishment of causal connection between diseases and
             occupations and the development of medical criteria in determining the nature and
-
-Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012],
-Republic Act No. 10173 (2012).
-3 Establishing the Occupational Safety and Health Center in the Employees' Compensation Commission, attached agency of
-
-the Department of Labor and Employment [Executive Order No. 307] (1987).
-4 Occupational Safety and Health Center, About OSHC available at http://www.oshc.dole.gov.ph/transparency-seal/history
-
-(last accessed December 4, 2019).
-
-   extent of impairment or diminution in health, functional capacity or life expectancy of
-          the employees as a result of their work and working conditions;
+            extent of impairment or diminution in health, functional capacity or life expectancy of
+            the employees as a result of their work and working conditions;
 
    b.   To plan, develop and implement training programs in the field of occupational safety
           and health, and related interests;
@@ -94,22 +85,16 @@ measures that will ensure the maintenance of standards on the conduct of trainin
 From the foregoing, the OSHC is a public authority exercising regulatory functions within the
 purview of the DPA.
 
-Scope of the DPA; video as personal information;
-criteria of lawful processing; general data privacy
-principles
+#### Scope of the DPA; video as personal information; criteria of lawful processing; general data privacy principles
 
 The DPA applies to the processing of all types of personal information and to any natural and
 juridical person in the government or private sector involved in personal information
-processing.5 Personal information refers to any information whether recorded in a material
+processing.[^5] Personal information refers to any information whether recorded in a material
 form or not, from which the identity of an individual is apparent or can be reasonably and
 directly ascertained by the entity holding the information, or when put together with other
-information would directly and certainly identify an individual.6 Accordingly, the image of
-
-5 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 4 (2016).
-6 Data Privacy Act of 2012, § 20 (c).
-
+information would directly and certainly identify an individual.[^6] Accordingly, the image of
 an identifiable individual captured in a photograph or video is personal information about
-the individual, and thus, covered by the DPA.7
+the individual, and thus, covered by the DPA.[^7]
 
 In your letter, you mentioned that OSHC received several complaints regarding the quality of
 trainings being conducted by the OSHTOs. To address the said complaints, the OSHC issued
@@ -150,3 +135,11 @@ Very truly yours,
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
+
+[^1]: Tags: lawful processing; personal information; public authority; general data privacy principles.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: Establishing the Occupational Safety and Health Center in the Employees' Compensation Commission, attached agency of the Department of Labor and Employment [Executive Order No. 307] (1987).
+[^4]: Occupational Safety and Health Center, About OSHC available at http://www.oshc.dole.gov.ph/transparency-seal/history (last accessed December 4, 2019).
+[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 4 (2016).
+[^6]: Data Privacy Act of 2012, § 20 (c).
+[^7]: See: National Privacy Commission, Advisory Opinion No. 2018-053 (26 November 2018).

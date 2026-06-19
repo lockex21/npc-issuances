@@ -93,7 +93,7 @@ We are writing to inform you of a recent incident that may affect the security o
 
 On the same day, Respondent issued a memorandum of reprimand to KR, following her explanation and apology to Respondent.[^12]
 
-Arguments of the Parties
+#### Arguments of the Parties
 
 Complainant asserts in her Complaint that having her Manager as one of the recipients of this email will provide her employer, part of the financial sector, an impression that she has debts which may negatively affect her career. She stressed that she did not tell anyone about these debts, not even her family. She also states that she is worried that her personal email address and her name will be used for malicious acts in the future.[^13]
 
@@ -146,12 +146,6 @@ Contrary to what Respondent asserts, personal information was divulged when Resp
 
 The Data Privacy Act defines personal information as “any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.”[^17]
 
-> 15 Records, p. 15 -16.
-> 16 Ibid. at , p. 15.
-> 17 R.A. 10173 , Sec. 7(b). Decision
-> NPC Case No. 18 -K-200
-> Page 6of 10
-
 In this case, Complainant’s entry was “CCMC [email address]”. Aside from this, there were other entries containing information that directly ascertained the identity of the other recipients.
 
 The information disclosed did not just consist of the names and email addresses of respondent’s clients. In some instances, the entries also contained the clients’ middle names, employers, and even birthdates.
@@ -197,13 +191,6 @@ Respondents assert a supposed company practice of using blind carbon copy or “
 4. Evaluation of the security incident or personal data breach as to its nature, extent and cause, the adequacy of safeguards in place, immediate and long-term damage, impact of the breach, and its potential harm and negative consequences to affected data subjects;
 5. Procedures for contacting law enforcement in case the security incident or personal data breach involves possible commission of criminal acts;
 6. Conduct of investigations that will evaluate fully the security incident or personal data breach;
-
-> 25 Id., at Sec. 17(b).
-> 26 Id., at Sec. 18(b).
-> 27 Id., at Sec. 18(a). Decision
-> NPC Case No. 18 -K-200
-> Page 9of 10
-
 7. Procedures for notifying the Commission and data subjects when the breach is subject to notification requirements, in the case of personal information controllers, and procedures for notifying personal information controllers in accordance with a contract or agreement, in the case of personal information processors; and
 8. Policies and procedures for mitigating the possible harm and negative consequences to a data subject in the event of a personal data breach. The personal information controller must be ready to provide assistance to data subjects whose personal data may have been compromised.[^28]
 
@@ -223,7 +210,7 @@ I CONCUR:
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-JOHN HENRY DU NAGA
+JOHN HENRY D. NAGA
 Deputy Privacy Commissioner
 
 Copy furnished:

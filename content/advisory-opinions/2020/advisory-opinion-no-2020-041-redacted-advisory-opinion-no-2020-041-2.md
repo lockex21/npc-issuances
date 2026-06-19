@@ -11,7 +11,7 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2020-041
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-041.pdf
-- Issue date: 30/10/2020
+- Issue date: 10/30/2020
 - OCR used during extraction: no
 
 ## Text
@@ -52,8 +52,6 @@ decisions, and issuances from different government agencies relative to spamming
 
    (i)     There is prior affirmative consent from the recipient; or
 
-purpose; proportionality; data sharing agreement.
-
    (ii) The primary intent of the communication is for service and/or
                          administrative announcements from the sender to its existing users,
                          subscribers or customers; or
@@ -71,7 +69,7 @@ purpose; proportionality; data sharing agreement.
                           include misleading information in any part of the message in order to
                           induce the recipients to read the message.
 
-   •    In the 2014 case of Disini, Jr. vs. Secretary of Justice,2 the Philippine Supreme Court, in
+   •    In the 2014 case of Disini, Jr. vs. Secretary of Justice,[^2] the Philippine Supreme Court, in
          ruling Section 4 (c) (3) of the Cybercrime Prevention Act of 2012 as unconstitutional,
          stated that unsolicited commercial communications or spams are legitimate forms of
          expression, viz:
@@ -90,26 +88,15 @@ purpose; proportionality; data sharing agreement.
                protection as that given to other constitutionally guaranteed forms of expression
                but is nonetheless entitled to protection. The State cannot rob him of this right
                without violating the constitutionally guaranteed freedom of expression.
-               Unsolicited advertisements are legitimate forms of expression.”3
+               Unsolicited advertisements are legitimate forms of expression.”[^3]
 
-   •    The Bangko Sentral ng Pilipinas (BSP), in its Memorandum No. M-2015-017, 4
+   •    The Bangko Sentral ng Pilipinas (BSP), in its Memorandum No. M-2015-017,[^4]
          reminded the banks and its affiliates and subsidiaries about the prohibition against
          push messages or unsolicited text messages. The Memorandum cites the National
-         Telecommunication Commission (NTC) Circulars issued in 2005 and 2009.5
+         Telecommunication Commission (NTC) Circulars issued in 2005 and 2009.[^5]
 
 You stated in your letter that you further made an examination on the country’s biggest ISP
 and Telecommunication providers’ policies which reveal they all prohibit spamming.
-
-2 Disini, Jr. v. Secretary of Justice, G.R. Nos. 203335, 203299, 203306, 203359, 203378, 203391, 203407, 203440, 203453,
-
-203454, 203469, 203501, 203509, 203515 & 203518, 727 PHIL 28-430 (2014).
-3 Id. Citation omitted.
-4 Bangko Sentral ng Pilipinas, Prohibition against push messages or commonly known as unsolicited text messages,
-
-Memorandum No. M-2015-017 (March 25, 2015).
-5 See National Telecommunications Commission Memorandum Circular 03-03-2005-A (March 15, 2005), as amended by
-
-Memorandum Circular 04-07-2009 (July 4, 2009).
 
 Thus, you now seek the Commission’s opinion and stand on the following:
 
@@ -119,7 +106,7 @@ Thus, you now seek the Commission’s opinion and stand on the following:
    2. What are the disadvantages of spamming on the data privacy rights and digital
        identities of Philippine netizens?
 
-Legality of unsolicited commercial communications
+#### Legality of unsolicited commercial communications
 
 Unsolicited commercial communications or “spam” is not illegal as stated by the Supreme
 Court decision in Disini, Jr. v. Secretary of Justice where the Court decriminalized the pertinent
@@ -127,7 +114,7 @@ provision under the Cybercrime Prevention Act of 2012 that makes it a punishable
 
 Further, Article 8 of the New Civil Code of the Philippines provides that “judicial decisions
 applying or interpreting the laws or the Constitution shall form a part of the legal system of
-the Philippines.” 6 Thus, the Supreme Court decision decriminalizing unsolicited commercial
+the Philippines.”[^6] Thus, the Supreme Court decision decriminalizing unsolicited commercial
 communications holds true and should be respected until it is overturned by the Court itself.
 Furthermore, the law and decisions by the High Court interpreting the Constitutions and laws
 have greater authority than administrative issuances.
@@ -137,7 +124,7 @@ regulations, the Commission abides by the ruling of the Supreme Court in Disini,
 Secretary of Justice and thus, treats unsolicited commercial communications as legitimate forms
 of free expression.
 
-The Data Privacy Act of 20127 (DPA) was enacted to protect the processing of individuals’
+The Data Privacy Act of 2012[^7] (DPA) was enacted to protect the processing of individuals’
 personal data and requires that the processing shall be in made in accordance with its
 provisions, its Implementing Rules and Regulations and other existing laws, rules and
 regulations. It does not prohibit unsolicited commercial communications per se, rather, it sets
@@ -157,19 +144,11 @@ effectively become personal information controllers (PICs) who must uphold data 
 rights and fulfill specific requirements on security measures for the protection of personal
 data laid down by the law and its IRR.
 
-6 An Act to Ordain and Institute the Civil Code of the Philippines, [CIVIL CODE OF THE PHILIPPINES], Republic Act No. 386,
-
-Art.8, (1949).
-7 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Republic Act No. 10173 (2012).
-
 Thus, the surrounding circumstances of the sending out of these unsolicited commercial
 solicitations or spam are factors to consider whether the processing is indeed lawful under
 the provisions of the DPA.
 
-Effects of spamming on data privacy rights and
-digital identities
+#### Effects of spamming on data privacy rights and digital identities
 
 As for the disadvantages of spamming on the data privacy rights and digital identities of
 Philippine netizens, one of the apparent effects of it are the loss of the right to object or
@@ -200,3 +179,15 @@ Very truly yours,
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
+
+[^2]: Disini, Jr. v. Secretary of Justice, G.R. Nos. 203335, 203299, 203306, 203359, 203378, 203391, 203407, 203440, 203453, 203454, 203469, 203501, 203509, 203515 & 203518, 727 PHIL 28-430 (2014).
+
+[^3]: *Id.* Citation omitted.
+
+[^4]: Bangko Sentral ng Pilipinas, Prohibition against push messages or commonly known as unsolicited text messages, Memorandum No. M-2015-017 (March 25, 2015).
+
+[^5]: See National Telecommunications Commission Memorandum Circular 03-03-2005-A (March 15, 2005), as amended by Memorandum Circular 04-07-2009 (July 4, 2009).
+
+[^6]: An Act to Ordain and Institute the Civil Code of the Philippines, [CIVIL CODE OF THE PHILIPPINES], Republic Act No. 386, Art.8, (1949).
+
+[^7]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).

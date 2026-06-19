@@ -45,18 +45,15 @@ We understand further that the purposes of publication are the following:
       3.    To encourage the registration of more works.
 
 We understand finally that the IPOPHL relies on Section 182 of RA No. 8293, also known as
-the Intellectual Property Code of the Philippines2 mandating the publication in the IPOPHL
+the Intellectual Property Code of the Philippines[^2] mandating the publication in the IPOPHL
 Gazette of the fact of assignment, transfer, and exclusive licensing of copyright, which
-
-and Functions, and for Other Purposes [Intellectual Property Code of the Philippines], Republic Act No. 8293 (1997).
-
 mandate extends to copyright registration by way of necessary implication.
 
 ### Discussion
 
 #### Criteria for Lawful Processing of Personal Data; Legal Obligation; Mandate
 
-The Data Privacy Act of 2012 3 (DPA) applies to the processing of personal and sensitive
+The Data Privacy Act of 2012[^3] (DPA) applies to the processing of personal and sensitive
 personal information (collectively, personal data) and to any natural and juridical person
 involved in the processing within and outside the Philippines.
 
@@ -100,20 +97,15 @@ the publication of copyright registration, to wit:
          promote the diffusion of knowledge and information for the promotion of national
          development and progress and the common good.
 
-3 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Republic Act No. 10173 (2012).
-
    It is also the policy of the State to streamline administrative procedures of registering
           patents, trademarks and copyright, to liberalize the registration on the transfer of
           technology, and to enhance the enforcement of intellectual property rights in the
-          Philippines.”4
+          Philippines.”[^4]
 
 The publication of copyright registration to inform the public of such fact may be considered
 as lawful processing under the DPA as authorized by virtue of law or regulation.
 
-Adherence to the general data privacy principles;
-transparency; privacy notice; data subject rights
+#### Adherence to the General Data Privacy Principles; Transparency; Privacy Notice; Data Subject Rights
 
 Nevertheless, even if the processing of personal data has a lawful basis under the DPA, the
 same must still adhere to the other general data privacy principles, specifically in this case,
@@ -145,4 +137,8 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
 
-4 Intellectual Property Code of the Philippines, § 2.
+[^2]: An Act Prescribing the Intellectual Property Code and Establishing the Intellectual Property Office, providing for its Powers and Functions, and for Other Purposes [Intellectual Property Code of the Philippines], Republic Act No. 8293 (1997).
+
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+
+[^4]: Intellectual Property Code of the Philippines, § 2.

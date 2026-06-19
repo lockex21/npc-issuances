@@ -32,40 +32,30 @@ information registries, particularly patient registries, for research studies.
 
 ### Discussion
 
-Specifically for '''''''' ''''''''''''''''''''''''’s query, it sought advice regarding the linkage of cancer incidence
+Specifically for ‘’’’’’’’ ‘’’’’’’’’’’’’’’’’’’’’’’’’s query, it sought advice regarding the linkage of cancer incidence
 data of the Department of Health (DOH) - Rizal Cancer Registry and Philippine Cancer Society (PCS)
 - Manila Cancer Registry (Registries) with mortality data from the Philippine Statistics Authority
 (PSA), and the possibility of an exemption or a special policy coverage under Republic Act No.
-10173,1 also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations2
+10173,[^1] also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations[^2]
 (IRR), and relevant issuances of the National Privacy Commission (NPC).
 
-DPA and research
+#### DPA and research
 
 Section 4 of the Data Privacy Act enumerates categories of information outside the scope of the law.
-This includes processing of personal information for research purposes.3 This exemption, however,
+This includes processing of personal information for research purposes.[^3] This exemption, however,
 is not absolute, but only to the minimum extent necessary to achieve the specific purpose, function,
-or activity,4 and subject to the requirements of applicable laws, regulations, or ethical standards.5
+or activity,[^4] and subject to the requirements of applicable laws, regulations, or ethical standards.[^5]
 
-First, research purpose is strictly interpreted to refer to processing intended for a public benefit.6
+First, research purpose is strictly interpreted to refer to processing intended for a public benefit.[^6]
 Maintaining a registry for research purpose falls within the special cases recognized by the DPA.
 
-1 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Private Sector, Creating For this Purpose a National Privacy Commission, and For Other Purposes [DATA PRIVACY ACT OF
-2012], Republic Act No. 10173 (2012).
-2 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173.
-3 Data Privacy Act of 2012, §4.
-4 Id, §5.
-5 Id., §5(c).
-6 Supra note 13.
-
 Second, the processing will be exempted only to the extent necessary. Personal information
-controllers7 (PICs) and personal information processors8 (PIPs) engaged in research which involves
+controllers[^7] (PICs) and personal information processors[^8] (PIPs) engaged in research which involves
 sensitive personal information are expected to comply with their obligations under the DPA on the
 implementation of organizational, technical, and physical security measures to ensure the protection
 of personal data against accidental or unlawful destruction, alteration, disclosure, or unlawful
-processing. 9 PICs are also responsible for personal information under its control or custody,
-including those transferred or shared with third parties.10
+processing.[^9] PICs are also responsible for personal information under its control or custody,
+including those transferred or shared with third parties.[^10]
 
 Third, the flexibility for research purposes will only apply in so far as it is consistent with ethical
 and legal standards. This means that there are instances when the consent requirements for research
@@ -73,7 +63,7 @@ may be waived if such waiver is consistent with legal and ethical principles. Li
 data subjects may also be limited where such limitation is necessary to maintain research integrity.
 
 One way of demonstrating adherence to ethical standards is by seeking the approval of a duly
-recognized Research Ethics Committee (REC)/Internal Review Board (IRB)/Ethics Board (EB)11 for
+recognized Research Ethics Committee (REC)/Internal Review Board (IRB)/Ethics Board (EB)[^11] for
 the research protocol, including the waiver of the consent requirement for research purpose.
 
 We understand that the Registries - Rizal Cancer Registry and Manila Cancer Registry – are
@@ -85,9 +75,9 @@ information without consent is consistent with legal and ethical standards.
 
 While maintaining a registry for research purposes may be permitted under the DPA, linkages with
 the PSA database may be subject to other laws allowing disclosure of information to the public.
-The PSA is mandated to ensure confidentiality of all primary data that they retain.12 Consequently,
-the agency may only release the aggregated information in a summary form.13 Further, Republic
-Act 10625,14 otherwise known as the Philippine Statistical Act of 2013, and its implementing rules
+The PSA is mandated to ensure confidentiality of all primary data that they retain.[^12] Consequently,
+the agency may only release the aggregated information in a summary form.[^13] Further, Republic
+Act 10625,[^14] otherwise known as the Philippine Statistical Act of 2013, and its implementing rules
 and regulations, prohibit the agency from disclosing information that may lead to any person’s
 identity, unless otherwise mandated by another law. Under the DPA, the criteria for lawful
 processing of sensitive personal information are:
@@ -102,23 +92,6 @@ processing of sensitive personal information are:
          associations: Provided, further, that the sensitive personal information are not
          transferred to third parties: Provided, finally, that consent of the data subject was
          obtained prior to processing;
-
-7 Id. § 3 (h).
-8 Id. § 3 (i).
-9 Id, §20.
-10 Id, §21.
-11 Philippine Health Research Ethics Board Ad Hoc Committee for Updating the National Ethical Guidelines, National Ethical
-
-Guidelines for Health and Health Related Research 15 (2017).
-12 An Act to Create a Bureau of the Census and Statistics to Consolidate Statistical Activities of the Government therein
-
-[BUREAU OF CENSUS AND STATISTICS], Commonwealth Act 591 (1940) §4.
-13 Id.
-14 An Act Reorganizing The Philippine Statistical System, Repealing For The Purpose Executive Order Numbered One Hundred
-
-Twenty-One, Entitled “Reorganizing And Strengthening The Philippine Statistical System And For Other Purposes”
-[PHILIPPINE STATISTICAL ACT OF 2013], Republic Act No. 10625 (2013).
-
    e. The processing is necessary for purposes of medical treatment, is carried out by a
        medical practitioner or a medical treatment institution, and an adequate level of
        protection of personal information is ensured; or
@@ -154,3 +127,18 @@ Noted by:
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
+
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating For this Purpose a National Privacy Commission, and For Other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
+[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173.
+[^3]: Data Privacy Act of 2012, §4.
+[^4]: Id, §5.
+[^5]: Id., §5(c).
+[^6]: Supra note 13.
+[^7]: Id. § 3 (h).
+[^8]: Id. § 3 (i).
+[^9]: Id, §20.
+[^10]: Id, §21.
+[^11]: Philippine Health Research Ethics Board Ad Hoc Committee for Updating the National Ethical Guidelines, National Ethical Guidelines for Health and Health Related Research 15 (2017).
+[^12]: An Act to Create a Bureau of the Census and Statistics to Consolidate Statistical Activities of the Government therein [BUREAU OF CENSUS AND STATISTICS], Commonwealth Act 591 (1940) §4.
+[^13]: Id.
+[^14]: An Act Reorganizing The Philippine Statistical System, Repealing For The Purpose Executive Order Numbered One Hundred Twenty-One, Entitled "Reorganizing And Strengthening The Philippine Statistical System And For Other Purposes" [PHILIPPINE STATISTICAL ACT OF 2013], Republic Act No. 10625 (2013).

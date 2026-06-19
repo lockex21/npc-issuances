@@ -55,9 +55,7 @@ You now ask if this data sharing arrangement is in adherence with the provisions
 
 #### NPC Circular No. 2020-03; data sharing; mandate; laws and regulations
 
-Data sharing is defined under NPC Circular No. 2020-03 as the sharing, disclosure, or transfer
-to a third party of personal data under the custody of a personal information controller to one
-or more other personal information controller/s.[^3]
+Data sharing is defined under NPC Circular No. 2020-03 as the sharing, disclosure, or transfer to a third party of personal data under the custody of a personal information controller to one or more other personal information controller/s.[^3]
 
 Further, the said Circular clarified that data sharing may be based on any of the criteria for
 lawful processing of personal data in Sections 12 and 13 of the DPA[^4] and may also be allowed
@@ -74,34 +72,19 @@ processing of the same is generally prohibited except in certain instances provi
 Section 13 of the DPA, one of which is when processing is provided for by existing laws and
 regulations.
 
-The above provisions may be applicable to the data sharing involving the MMDRRMC and
-other government agencies engaged in disaster risk reduction and management since the data
-sharing arrangement is mandated by law or regulation.
+The above provisions may be applicable to the data sharing involving the MMDRRMC and other government agencies engaged in disaster risk reduction and management since the data sharing arrangement is mandated by law or regulation.
 
 #### General data privacy principles; safeguards; data sharing agreement
 
-We would like to note that, although government agencies may have lawful basis for the
-processing of personal data, such processing must still adhere to the other requirements of
-the DPA.
+We would like to note that, although government agencies may have lawful basis for the processing of personal data, such processing must still adhere to the other requirements of the DPA.
 
 As personal information controllers (PICs), government agencies are required to, among
 others, adhere to the general data privacy principles of transparency, legitimate purpose, and
 proportionality.
 
-Specifically for proportionality, the processing of personal data shall be adequate, relevant,
-suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal
-data shall be processed only if the purpose of the processing could not reasonably be fulfilled
-by other means.
+Specifically for proportionality, the processing of personal data shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.
 
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
-
-2012], Republic Act No. 10173 (2012).
-4 Id. § 6.
-5 Id. § 7.
-6 Id. § 6
-
-PICs are also required to implement physical, organizational, and technical security measures
-to ensure the protection of personal data and uphold the rights of data subjects.
+PICs are also required to implement physical, organizational, and technical security measures to ensure the protection of personal data and uphold the rights of data subjects.
 
 The MMDRRMC may consider executing a data sharing agreement (DSA) with its member
 agencies, where appropriate. A DSA contains, among others, the terms and conditions of the
@@ -110,14 +93,11 @@ responsibilities of the parties, mechanisms through which data subjects may exer
 rights. While the execution of a DSA is not mandatory, it is a sound recourse and demonstrates
 accountable personal data processing.[^7]
 
-For further guidance on DSAs, please refer to NPC Circular No. 2020-03 available at our
-website: https://www.privacy.gov.ph/memorandum-circulars/.
+For further guidance on DSAs, please refer to NPC Circular No. 2020-03 available at our website: https://www.privacy.gov.ph/memorandum-circulars/.
 
 #### Statistics
 
-Finally, should the incident/disaster data and information for the Incident and Situational
-Reports you mentioned pertain to statistics only, i.e., on the number of dead, missing and
-injured, the DPA is not applicable.
+Finally, should the incident/disaster data and information for the Incident and Situational Reports you mentioned pertain to statistics only, i.e., on the number of dead, missing and injured, the DPA is not applicable.
 
 Statistical information which does not include information from which the identity of an
 individual is apparent or can be reasonably and directly ascertained, is not personal data, and

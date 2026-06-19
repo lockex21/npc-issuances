@@ -1,20 +1,18 @@
 ---
-title: 'NPC 18-144: In Re: Office Warehouse, Inc.'
-description: Resolution finding that inadvertent disclosure of customer email addresses
-  did not constitute mandatory reportable breach under NPC Circular 16-03, but approving
-  Office Warehouse's remedial measures.
+title: "NPC 18-144: In re: Office Warehouse, Inc."
+description: "Resolution finding that inadvertent disclosure of customer email addresses did not constitute mandatory reportable breach under NPC Circular 16-03, but approving Office Warehouse's remedial measures."
 tags:
-- resolution
-- type/resolution
-- year/2024
-- npc-case
+  - resolution
+  - type/resolution
+  - year/2018
+  - npc-case
 draft: false
 aliases:
-- '"NPC 18-144"'
-- '"npc 18-144"'
-- '"In Re: Office Warehouse, Inc."'
-- '"in re: office warehouse, inc."'
-date: '2024-03-21'
+  - "NPC 18-144"
+  - "npc 18-144"
+  - "In re: Office Warehouse, Inc."
+  - "in re: office warehouse, inc."
+date: "2018-08-02"
 ---
 
 ## Source
@@ -106,9 +104,7 @@ Section 11 of NPC Circular 16-03 on mandatory breach notification provides:
 > Section 11. When notification is required. Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions.
 >
 > A. The personal data involves sensitive personal information or any other information that may be used to enable identity fraud. For this purpose, “other information” shall include,[^38]
-
-NPC BN 18 -144
-
+>
 > but not be limited to: data about the financial or economic situation of the data subject; usernames, passwords and other login data; biometric data; copies of identification documents, licenses or unique identifiers like Philhealth, SSS, GSIS, TIN number; or other similar information, which may be made the basis of decisions concerning the data subject, including the grant of rights or benefits.
 >
 > B. There is reason to believe that the information may have been acquired by an unauthorized person; and
@@ -151,8 +147,6 @@ The second requisite is present in this case. There was acquisition of the infor
 
 The Commission previously held that a loss of control over personal data held in custody is enough for a personal information controller (PIC) to have “reason to believe that the information may have been acquired by an unauthorized person.”[^54]
 
-NPC BN 18 -144
-
 In this case, OWI admitted that the marketing email was sent to thirty-seven (37) batches of CLP Points Plus+ Cardholders at a time without using the BCC function,[^55] which made the other recipients’ email addresses visible. Further, OWI submitted a copy of the apology emails sent to the four (4) recipients who responded to the email to point out the incident.[^56] The foregoing shows that there is not just a reasonable belief but certainty that an unauthorized person acquired the information involved in the breach.[^57]
 
 #### The Third Requisite
@@ -178,8 +172,6 @@ Finally, OWI implemented sufficient security measures to address the breach and 
 Given the foregoing factors and the remedial measures taken by OWI, the unauthorized acquisition did not give rise to a real risk of serious harm to any affected data subject. Thus, the third requisite is absent.
 
 Considering that the first and third requisites are absent, the matter does not fall under mandatory breach notification. Nevertheless, OWI conducted proper breach management. The measures implemented by OWI are sufficient to address the breach and to prevent its recurrence.
-
-### Dispositive Portion
 
 **WHEREFORE**, premises considered, this Commission resolves that the matter of NPC BN 18-144 In re: Office Warehouse, Inc. is **CLOSED**.
 

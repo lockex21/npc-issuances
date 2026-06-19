@@ -40,19 +40,16 @@ part as follows:
 We understand that both the 4Ps and the Social Pension for Indigent Senior Citizens Program
 are government programs under the DSWD aimed at providing assistance to indigents. Both
 programs, in processing personal information of beneficiaries, are covered by the Data Privacy
-Act of 20122 (DPA).
+Act of 2012[^2] (DPA).
 
 1. Would the names of the beneficiaries be considered as personal information or sensitive
    personal information?
 
 The names of the beneficiaries are considered as personal information, defined under the DPA
 as any information whether recorded in a material form or not, from which the identity of an
-
-2012], Republic Act No. 10173, (2012).
-
 individual is apparent or can be reasonably and directly ascertained by the entity holding the
 information, or when put together with other information would directly and certainly
-identify an individual.3 It is not sensitive personal information. The DPA under Section 3(l)
+identify an individual.[^3] It is not sensitive personal information. The DPA under Section 3(l)
 provides an enumeration of what constitutes sensitive personal information, such as a
 person’s race, marital status, age, health and educations records, social security numbers,
 among others.
@@ -78,14 +75,14 @@ oversight concerns post-enactment measures undertaken by Congress: (a) to monito
 bureaucratic compliance with program objectives, (b) to determine whether agencies are
 properly administered, (c) to eliminate executive waste and dishonesty, (d) to prevent
 executive usurpation of legislative authority, and (d) to assess executive conformity with the
-congressional perception of public interest.”4
+congressional perception of public interest.”[^4]
 
-We refer to the Rules of the House of Representatives 5 which declares that “efficient and
+We refer to the Rules of the House of Representatives[^5] which declares that “efficient and
 effective access to and dissemination of appropriate and accurate information are imperative
-in lawmaking.” 6 Further, the said rules state that “Committees shall have oversight
+in lawmaking.”[^6] Further, the said rules state that “Committees shall have oversight
 responsibilities to determine whether or not laws and programs addressing subjects within
 their jurisdictions are being implemented and carried out in accordance with the intent of
-Congress and whether or not they should be continued, curtailed, or eliminated.”7
+Congress and whether or not they should be continued, curtailed, or eliminated.”[^7]
 
 In addition, the rules provide that committees shall review and study on a continuing basis,
 or upon order of the House:
@@ -96,23 +93,15 @@ or upon order of the House:
         for the administration and execution of laws and programs addressing subjects within
         their respective jurisdictions; and
 
-3 Id. 3 (g).
-4 Abakada Guro Party List v. Purisima, G.R. No. 166715 (2008), citing Macalintal v. COMELEC, 453 Phil. 586 (2003).
-5 House of Representatives, Rules of the House of Representatives 16th Congress, as adopted by the 17th Congress,
-
-available at http://www.congress.gov.ph/download/docs/hrep.house.rules.pdf (last accessed 2 October 2018).
-6 Id. Declaration of Principles and Policies
-7 Id. Rule IX, § 26.
-
    c. any conditions or circumstances that may indicate the necessity or desirability of
            enacting new or additional legislation addressing subjects within their respective
-           jurisdictions.8
+           jurisdictions.[^8]
 
 Note that Section 12 of the DPA provides for the criteria for lawful processing of personal
 information. Included among these is the criterion relating to the mandate of public authorities,
 i.e. when “processing is necessary in order to respond to national emergency, to comply with
 the requirements of public order and safety, or to fulfill functions of public authority which
-necessarily includes the processing of personal data for the fulfillment of its mandate.”9
+necessarily includes the processing of personal data for the fulfillment of its mandate.”[^9]
 
 In view of the foregoing, the request for information and processing to be done by the
 Committee on Appropriations may be founded on the fulfillment of the mandate of the said
@@ -152,10 +141,6 @@ government or public authority.
 
 6. In sum, and considering all of the foregoing, would it be lawful for the DSWD to grant the
    request mentioned above, and provide the Committee on Appropriations of the House of
-
-8 Id.
-9 Data Privacy Act of 2012, § 12 (e).
-
    Representatives with the lists of beneficiaries of the 4Ps and of the Social pension for
     Indigent Senior Citizens Program?
 
@@ -180,17 +165,17 @@ oversight function of the Committee on Appropriations of the House of Representa
 instead of requiring individual level data.
 
 We underscore that the interpretation of any provision of the DPA must be in a manner
-mindful of the rights and interests of the data subject. 10 Processing operations performed
+mindful of the rights and interests of the data subject.[^10] Processing operations performed
 about vulnerable data subjects like minors, the mentally ill, asylum seekers, the elderly,
 patients, those involving criminal offenses, or in any other case where an imbalance exists in
 the relationship between a data subject and a personal information controller or personal
-information processor,11 require special protection.12
+information processor,[^11] require special protection.[^12]
 
 Further, the risk to the rights and freedoms of persons that may result from personal data
 processing which could lead to physical, material or non-material damage, i.e. where personal
 aspects are evaluated, in particular analyzing or predicting aspects concerning performance
 at work, economic situation, health, personal preferences or interests, reliability or behavior,
-location or movements, in order to create or use personal profiles,13 should be considered as
+location or movements, in order to create or use personal profiles,[^13] should be considered as
 well.
 
 Should aggregated data be insufficient for the purpose, the House of Representatives should
@@ -198,19 +183,6 @@ provide information why the specific personal information requested is necessary
 to its declared purpose. Where the House of Representatives collects and processes this
 information from the DSWD, the House will be bound by its obligations under the DPA, its
 IRR, and issuances of the NPC, specifically NPC Circular No. 16-01 on the Security of Personal
-
-10 Data Privacy Act of 2012, § 38.
-11 National Privacy Commission, Registration of Data Processing Systems and Notifications Regarding Automated Decision-
-
-Making, Circular No. 17-01 [NPC Circular 17-01], § 5 (c) (3) (July 31, 2017).
-12 Article 29 Data Protection Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and determining
-
-whether processing is “likely to result in a high risk” for the purposes of Regulation 2016/679, Item III (B)(a)(7), 4 April
-2017, available at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236, (last accessed 12 Oct 2018).
-13 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural
-
-persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive
-95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119 (4 May 2016), Recital 75.
 
 Data in Government Agencies and NPC Circular No. 16-02 - Data Sharing Agreements
 Involving Government Agencies.
@@ -231,3 +203,29 @@ Noted by:
 Officer-in-Charge and
 Deputy Privacy Commissioner
 for Data Processing Systems
+
+[^1]: Tags: personal information, sensitive personal information, public authority, oversight function, proportionality
+
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
+
+[^3]: Id. 3 (g).
+
+[^4]: Abakada Guro Party List v. Purisima, G.R. No. 166715 (2008), citing Macalintal v. COMELEC, 453 Phil. 586 (2003).
+
+[^5]: House of Representatives, Rules of the House of Representatives 16th Congress, as adopted by the 17th Congress, available at http://www.congress.gov.ph/download/docs/hrep.house.rules.pdf (last accessed 2 October 2018).
+
+[^6]: Id. Declaration of Principles and Policies
+
+[^7]: Id. Rule IX, § 26.
+
+[^8]: Id.
+
+[^9]: Data Privacy Act of 2012, § 12 (e).
+
+[^10]: Data Privacy Act of 2012, § 38.
+
+[^11]: National Privacy Commission, Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making, Circular No. 17-01 [NPC Circular 17-01], § 5 (c) (3) (July 31, 2017).
+
+[^12]: Article 29 Data Protection Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is "likely to result in a high risk" for the purposes of Regulation 2016/679, Item III (B)(a)(7), 4 April 2017, available at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236, (last accessed 12 Oct 2018).
+
+[^13]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119 (4 May 2016), Recital 75.

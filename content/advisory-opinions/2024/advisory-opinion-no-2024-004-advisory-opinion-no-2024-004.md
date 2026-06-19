@@ -11,16 +11,14 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2024-004
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2024/05/Advisory-Opinion-No.-2024-004.pdf
+- Issue date: 05/16/2024
 - OCR used during extraction: no
 
 ## Text
 
- 16 May 2024
+16 May 2024
 
-   Re:     ACCESS TO INDIVIDUAL USER ACCOUNTS BY SERVICE
-                   PROVIDER
-
-   .:
+Re: ACCESS TO INDIVIDUAL USER ACCOUNTS BY SERVICE PROVIDER
 
 We respond to your request for an Advisory Opinion on whether the Data Privacy Act of 2012 (DPA)[^2] permits an arrangement wherein a service provider such as Smile Technology Pte. Ltd. (Smile) may process personal information and sensitive personal information (collectively, personal data) by accessing individual user accounts from government or financial sites through a separate digital platform.
 
@@ -78,7 +76,7 @@ Thus, you inquire if Smile’s access and extraction of personal data to the App
 
 ### Discussion
 
-#### Processing based on consent.
+#### Processing based on consent
 
 Since the dataset that Smile plans to process involves both personal information and sensitive
 personal information, the processing of the entire data should find lawful basis under Section
@@ -117,7 +115,7 @@ Applicants are informed about the nature, extent, and purpose of the disclosure 
 processing, the subsequent disclosure of the same to clients such as employers and third
 parties may also be allowed.
 
-#### Personal information processor; Accountability
+#### Personal information processor; accountability
 
 A personal information controller (PIC) is an organization that controls the collection, holding, processing or use of personal information.[^7] On the other hand, a personal information processor (PIP) is a natural or juridical person to whom a PIC may outsource or instruct the processing of personal data about a data subject.[^8]
 
@@ -148,14 +146,9 @@ The Applicants using the Smile API must be informed of their rights as data subj
 The right to access and portability are interrelated. The right to access allows a data subject reasonable access to, upon demand, the following:
 
 1. Contents of his or her personal information that were processed;
-9 Implementing Rules and Regulations of Republic Act No. 10173, known as the “Data Privacy Act of 2012” [Implementing Rules
-
-and Regulations of Data Privacy Act of 2012], Section 45 (2016).
-10 Data Privacy Act of 2012, Section 6 (b).
-
-   2. Sources from which personal information were obtained;
-     3. Names and addresses of recipients of the personal information;
-     4. Manner by which such data were processed;
+2. Sources from which personal information were obtained;
+3. Names and addresses of recipients of the personal information;
+4. Manner by which such data were processed;
 5. Reasons for the disclosure of the personal information to recipients;
 6. Information on automated processes where the data will or likely to be made as the sole basis of any decision significantly affecting or will affect the data subject;
 7. Date when his or her personal information concerning the data subject were last accessed and modified; and
@@ -214,8 +207,8 @@ Director IV, Privacy Policy Office
 [^6]: Id. Section 3.
 [^7]: Id. Section 3 (h).
 [^8]: Id. Section 3 (i).
-[^9]: Id. Section 3 (i).
-[^10]: Id. Section 3 (i).
+[^9]: Implementing Rules and Regulations of Republic Act No. 10173, known as the "Data Privacy Act of 2012" [Implementing Rules and Regulations of Data Privacy Act of 2012], Section 45 (2016).
+[^10]: Data Privacy Act of 2012, Section 6 (b).
 [^11]: Id. Section 16 (c).
 [^12]: Id. Section 18.
 [^13]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Section 36.

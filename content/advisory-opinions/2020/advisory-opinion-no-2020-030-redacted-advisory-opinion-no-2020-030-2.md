@@ -10,6 +10,7 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2020-030
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-030.pdf
+- Issue date: 08/05/2020
 - OCR used during extraction: no
 
 ## Text
@@ -46,18 +47,17 @@ Memorandum Circular (MC) No. 2020-063 dated 27 March 2020 on the Interim Guideli
 the Management of Human Remains for Patient Under Investigation (PUI) and Confirmed
 Coronavirus Disease 2019 (COVID-19) Cases.
 
-Processing of sensitive personal information; public
-authority; mandate; proportionality
+#### Processing of Sensitive Personal Information; Public Authority; Mandate; Proportionality
 
-Under the Data Privacy Act of 20122 (DPA), personal information about an individual’s health
+Under the Data Privacy Act of 2012[^2] (DPA), personal information about an individual’s health
 is considered as sensitive personal information (SPI), the processing of which is generally
 prohibited, unless it falls under any of the criteria for processing pursuant to Section 13.
 Specifically applicable in this scenario is when such processing is provided for by existing
 laws and regulations, provided that such regulatory enactments guarantee the protection of
-the sensitive personal information and the privileged information,3 and when information is
-to be provided to government pursuant to a constitutional or statutory mandate.4
+the sensitive personal information and the privileged information,[^3] and when information is
+to be provided to government pursuant to a constitutional or statutory mandate.[^4]
 
-We understand that Section 9.2 of Joint Memorandum Circular No. 01 (JMC)5, issued by the
+We understand that Section 9.2 of Joint Memorandum Circular No. 01 (JMC)[^5], issued by the
 DILG and the Department of Health, in relation to the DILG MC No. 2020-063, provides that
 “the hospital, through a designated point person, shall immediately inform the nearest kin of
 the deceased and/or the Local MDM Cluster Focal Person of the city/municipality of
@@ -72,10 +72,10 @@ specifically in this case the principles of legitimate purpose and proportionali
 of legitimate purpose requires that the processing of information shall be compatible with a
 declared and specified purpose which must not be contrary to law, morals, or public policy.
 As mentioned above, the legitimate purpose for the intended processing is provided for under
-the DILG issuances which were made in response to the current public health emergency.6 On
+the DILG issuances which were made in response to the current public health emergency.[^6] On
 the other hand, the principle of proportionality requires that the processing of personal data
 shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and
-specified purpose.7
+specified purpose.[^7]
 
 We note that the purpose of DILG requirement is to ensure that COVID-19 related hospital
 deaths within the region are reported in a timely manner. We advise that the reports should
@@ -88,19 +88,6 @@ remain confidential, unless otherwise provided by law.
 We likewise emphasize Section 22 of the DPA which requires that all sensitive personal
 information maintained by the government, its agencies and instrumentalities shall be
 secured, as far as practicable, with the use of the most appropriate standard recognized by the
-
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and
-
-the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of
-2012], Republic Act No. 10173 (2012).
-3 Id. § 13 (b).
-4 Id. § 13 (f) and Rules and Regulations Implementing the Data Privacy Act of 2012, § 22 (f).
-5 Suppletory Guidelines on the Management of Human Remains for Patient Under Investigation (PUI) and Confirmed
-
-COVID-19 Cases (DILG Memorandum Circular No. 2020-063).
-6 Rules and Regulations Implementing the Data Privacy Act of 2012, § 17 (b).
-7 Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c).
-
 information and communications technology industry, and as recommended by the
 Commission.
 
@@ -113,3 +100,10 @@ Very truly yours,
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
+
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: Id. § 13 (b).
+[^4]: Id. § 13 (f) and Rules and Regulations Implementing the Data Privacy Act of 2012, § 22 (f).
+[^5]: Suppletory Guidelines on the Management of Human Remains for Patient Under Investigation (PUI) and Confirmed COVID-19 Cases (DILG Memorandum Circular No. 2020-063).
+[^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 17 (b).
+[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c).

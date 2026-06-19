@@ -80,13 +80,13 @@ The pronouncement however of the Commission in this case does not bar the people
 
 In view of the foregoing, the Commission finds that the case must be dismissed for the reason that Complainant does not have a legal standing to sue Respondent for a violation of the DPA.
 
-WHEREFORE, premises considered, the case NPC 17-015 — ID Y.S. v. DS Bank is hereby **DISMISSED** for lack of merit.
+WHEREFORE, premises considered, the case NPC 17-015— ID Y.S. vs. DS Bank is hereby **DISMISSED** for lack of merit.
 
 This is without prejudice to the filing of appropriate civil, criminal or administrative cases against the Respondent before any other forum or tribunal, if any.
 
 **SO ORDERED.**
 
-Pasay City, Philippines. 31 January 2020.
+Pasay City, Philippines; 31 January 2020.
 
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
@@ -110,5 +110,6 @@ Respondent
 LEGAL DIVISION
 ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
+National Privacy Commission
 
 [^1]: *Luxuria Homes Inc. vs. CA*, GR No. 125986, Jan 28, 1999

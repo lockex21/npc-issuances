@@ -207,7 +207,7 @@ Deputy Privacy Commissioner                Deputy Privacy Commissioner
 
 [^10]: [[laws/data-privacy-act-of-2012#Section 16. Rights of the Data Subject|Section 16 of the Republic Act 10173 - Data Privacy Act of 2012]].
 
-[^11]: Sections 16 and 19 of [[issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular 2023-06: Security of Personal Data in the Government and the Private Sector]].
+[^11]: Sections 16 and 19 of [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular 2023-06: Security of Personal Data in the Government and the Private Sector]].
 
 [^12]: Fuzz testing or fuzzing is an automated software testing method that injects invalid, malformed, or unexpected inputs into a system to reveal software defects and vulnerabilities, available at https://www.synopsys.com/glossary/what-is-fuzz-testing.html#:~:text=Definition,as%20crashes%20or%20information%20leakage.
 

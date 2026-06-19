@@ -277,17 +277,14 @@ This is without prejudice to the filing of appropriate civil, criminal or admini
 City of Pasay, Philippines. 31 March 2022.
 
 LEANDRO ANGELO Y. AGUIRRE
-
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
 JOHN HENRY D. NAGA
-
 Privacy Commissioner
 
 DUG CHRISTOPER B. MAH
-
 Deputy Privacy Commissioner
 
 Copy furnished:

@@ -36,11 +36,6 @@ The Data Privacy Act of 2012[^1] (DPA) applies to the processing of any type of 
 
 Processing involves a wide set of operations performed upon personal data, including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.[^2] Thus, the collection, recording, storage and use of the personal data being encoded by the patients and physicians are processing activities as defined above.
 
-1 An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And
-
-of 2012] Republic Act No. 10173 (2012).
-2 Id. § 3 (j).
-
 The subject of the processing activities performed by the EMR provider covers both personal information and most importantly, sensitive personal information[^3] since it includes the health information of the patient. With this, a higher degree of protection and security is required from personal information controllers (PIC) and personal information processors (PIP). They need to satisfy any of the conditions provided for in Section 13 of the DPA to be able to lawfully process sensitive personal information.
 
 #### Anonymization of Personal Data
@@ -58,19 +53,6 @@ However, removing some identifiers, such as patient and physician names, contact
 We understand that healthcare providers, as PICs, may subcontract the processing of their medical records to EMR providers. Generally, the EMR provider processes personal data, including medical information of patients and retains it in the system. As PIPs, the EMR providers’ role is to process personal data based only on the instructions and purposes of the healthcare providers.
 
 In this particular case, the EMR provider intends to anonymize the personal data outside the primary purpose of the healthcare providers, which is for medical treatment.
-
-3 Data Privacy Act, § 3 (l).
-4 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural
-
-persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive
-95/46/EC (General Data Protection Regulation) 2016 O.J. (L 119), Recital 26.
-5 ISO/IEC 29100:2011(en), Information technology — Security techniques — Privacy framework, available at
-
-https://www.iso.org/obp/ui/#iso:std:iso-iec:29100:ed-1:v1:en
-6 Article 29 Data Protection Working Party, Opinion 05/2014 on Anonymisation Techniques, 10 April 2014, §2.1 – Definition
-
-in the EU legal context
-7 Id.
 
 When the EMR provider goes over and beyond the instructions and purpose of processing intended by the PIC, the healthcare provider, the EMR provider is then acting as a PIC with its own purpose – medical research.
 

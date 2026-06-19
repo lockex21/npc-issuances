@@ -32,7 +32,7 @@ IN RE: BOMBARDIER TRANSPORTATION (SHARED SERVICES) PHILIPPINES, INC.
 
 NPC BN 21-078
 
-x----------------------------------------------x
+x------x
 
 For Resolution of the Commission is the request of Bombardier Transportation (Shared Services) Philippines, Inc. (Bombardier) for assistance and/or investigation of a suspected personal data breach which allegedly compromised some of its data.
 
@@ -164,7 +164,7 @@ Moreover, from the documents submitted, only five (5) of the thirteen (13) affec
 
 **SO ORDERED.**
 
-City of Pasay, Philippines. 01 June 2021.
+City of Pasay, Philippines; 01 June 2021.
 
 LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner

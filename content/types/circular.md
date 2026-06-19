@@ -7,7 +7,7 @@ draft: false
 All generated notes tagged as **Circular**.
 
 ## Notes
-- [[issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector|Circular No. 2023-06: Security of Personal Data in the Government and the Private Sector]]
+- [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Circular No. 2023-06: Security of Personal Data in the Government and the Private Sector]]
 - [[issuances/undated/security-of-personal-data-in-government-agencies|Circular No. 16-01: Security of Personal Data in Government Agencies]]
 - [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Circular No. 20-02: Rules on the Issuance of Cease and Desist Orders]]
 - [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|Circular No. 18-03: Rules on Mediation before the National Privacy Commission]]

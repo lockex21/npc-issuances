@@ -70,16 +70,11 @@ Complainant personally appeared before the Commission’s resident notary public
 
 Given Complainant’s personal appearance before the Commission’s resident notary public to attest to her execution of the Affidavit of Desistance, the Commission finds the document to have been willingly and voluntarily executed, without any indication of fraud, deception, or misrepresentation.
 
-The Commission wishes to emphasize that Complainant’s Affidavit of Desistance does not ipso facto result in the termination of the case nor does it divest the Commission of its jurisdiction to investigate further, *sua sponte*, on the possible criminal liabilities that may result from the alleged violations of the Data Privacy Act.
-
-> 4Id ., at 10.
-> 5Id., at 11. NPC Case No. 19 -1221
-> RBD v. FCash
-> Page 3of 4
+The Commission wishes to emphasize that Complainant’s Affidavit of Desistance does not *ipso facto* result in the termination of the case nor does it divest the Commission of its jurisdiction to investigate further, *sua sponte*, on the possible criminal liabilities that may result from the alleged violations of the Data Privacy Act.
 
 In this case, however, the Commission is constrained to dismiss the Complaint considering that the allegations cannot be proven without the evidence to be provided by Complainant.
 
-This is consistent with NPC Circular 16-04 (“Rules of Procedure”) which provides:
+This is consistent with the NPC Rules of Procedure which provides:
 
 > **Section 22. Rendition of decision.** – The Decision of the Commission shall adjudicate the issues raised in the complaint on the basis of all the evidence presented and its own consideration of the law.[^6]
 

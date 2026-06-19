@@ -41,12 +41,7 @@
   },
   "npc-18-144-in-re-office-warehouse-inc.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2024-03-21)",
-      "Fixed year tag to year/2024"
-    ],
-    "timestamp": "2026-03-26T12:55:52.057629"
+    "timestamp": "2026-04-08T18:30:00Z"
   },
   "npc-18-151-in-re-western-union-services-philippines-inc.md": {
     "status": "done",
@@ -75,158 +70,156 @@
   },
   "npc-bn-18-029-in-re-hc-consumer-finance-philippines-inc.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2024-09-04)",
-      "Fixed year tag to year/2024"
-    ],
-    "timestamp": "2026-03-26T12:55:52.086968"
+    "timestamp": "2026-04-08T19:00:00Z"
   },
   "npc-bn-18-033-and-npc-bn-18-076-in-re-aig-shared-services-business-processing-inc-and-aig-shared-services-corporation-management-services-rohq-and-in-re-medicard-philippines-inc-festival-alabang-clinic.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2018-08-07)"
-    ],
-    "timestamp": "2026-03-26T12:55:52.097038"
+    "timestamp": "2026-04-08T03:21:11.472036+00:00"
   },
   "npc-bn-18-035-in-re-active-network-llc.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2018-03-19)"
-    ]
+    "timestamp": "2026-04-08T03:25:10.180275+00:00"
   },
   "npc-bn-18-036-in-re-smart-communications-inc.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2024-10-17)",
-      "Fixed year tag to year/2024"
-    ],
-    "timestamp": "2026-03-26T12:55:52.113114"
+    "timestamp": "2026-04-08T21:15:00Z"
   },
   "npc-bn-18-037-in-re-acesite-phils-hotel-corporation.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2021-04-15)",
-      "Fixed year tag to year/2021"
-    ],
-    "timestamp": "2026-03-26T12:55:52.120616"
+    "timestamp": "2026-04-08T21:45:00Z"
   },
   "npc-bn-18-038-in-re-social-security-system.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2024-09-17)",
-      "Fixed year tag to year/2024"
-    ],
-    "timestamp": "2026-03-26T12:55:52.129491"
+    "timestamp": "2026-04-08T03:39:41.846522+00:00"
   },
   "npc-bn-18-062-in-re-vrp-medical-center.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2024-06-05)",
-      "Fixed year tag to year/2024"
-    ],
-    "timestamp": "2026-03-26T12:55:52.136877"
+    "timestamp": "2026-04-08T22:05:00Z"
   },
   "npc-bn-18-069-in-re-professional-regulations-commission-prc.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2020-07-23)",
-      "Fixed year tag to year/2020"
-    ],
-    "timestamp": "2026-03-26T12:55:52.144679"
+    "timestamp": "2026-04-08T03:44:20Z"
   },
   "npc-bn-18-105-in-re-landbank-of-the-philippines-2.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2021-04-29)",
-      "Fixed year tag to year/2021"
-    ],
-    "timestamp": "2026-03-26T12:55:52.152260"
+    "timestamp": "2026-04-08T03:57:42.647162+00:00"
   },
   "npc-bn-18-105-in-re-landbank-of-the-philippines.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)"
-    ],
-    "timestamp": "2026-03-26T12:55:52.159255"
+    "timestamp": "2026-04-08T03:59:43.326041+00:00"
   },
   "npc-bn-18-115-in-re-remit-inc.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2018-06-21)"
-    ]
+    "timestamp": "2026-04-08T23:55:00Z"
   },
   "npc-bn-18-131-in-re-rarejob-english-assessment-inc-formerly-gola-english-tutorial-inc.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2018-07-20)"
-    ]
+    "timestamp": "2026-04-08T04:09:07.686568Z"
   },
   "npc-bn-18-135-in-re-kgjs-fleet-management-manila-inc.md": {
     "status": "done",
+    "timestamp": "2026-04-08T04:12:47.760291Z",
     "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2023-11-13)",
-      "Fixed year tag to year/2023"
-    ],
-    "timestamp": "2026-03-26T12:55:52.182463"
+      "Fixed YAML frontmatter: title case for \"In re\", factual description, proper quotes",
+      "Joined OCR-fragmented paragraphs throughout Facts and Discussion",
+      "Consolidated 49 footnote blockquotes to [^N]: entries at end of file",
+      "Removed 2 page-header injections mid-body",
+      "Promoted Facts, Issue, Discussion to ### headings",
+      "Removed 3 \"Sgd.\" lines from signature block",
+      "Fixed broken words and spaces throughout",
+      "Restored bold on statutory quote section heading and operative words (CLOSED, SO ORDERED)",
+      "Corrected issue date field and year/2023 tag",
+      "Fixed aliases block format (removed quoted strings)"
+    ]
   },
   "npc-bn-18-138-in-re-pacific-plaza-resolution.md": {
     "status": "done",
-    "changes": [
-      "Added aliases block (4 forms)"
-    ],
-    "timestamp": "2026-03-26T12:55:52.190160"
+    "timestamp": "2026-04-08T23:59:59Z"
   },
   "npc-bn-18-143-in-re-myhealth-clinic.md": {
     "status": "done",
+    "timestamp": "2026-04-08T00:00:00Z",
     "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2018-08-01)"
+      "Fixed YAML frontmatter: quotes standardized, date corrected to 2024-08-12 (from PDF), description replaced with factual summary",
+      "Removed letterhead blockquote (5th Floor Philippine International Convention Center)",
+      "Deleted case number page-header injections (3 instances of 'NPC BN 18-143' mid-body)",
+      "Rejoined OCR-fragmented paragraphs throughout Facts and Discussion sections",
+      "Consolidated 35 footnote blockquotes to [^N]: entries at end of file",
+      "Promoted Facts, Issue, Discussion from plain text to ### headings",
+      "Restored bold on statutory quote section heading and operative words (CLOSED, SO ORDERED, WHEREFORE)",
+      "Removed 3 'Sgd.' lines from signature block",
+      "Fixed aliases block format (removed quoted strings inside array; consistent casing)",
+      "Fixed broken words and spacing throughout (emails/spacing issues corrected)",
+      "Rebuilt blockquote citations with proper nesting for Section 20 and Section 18 passages"
     ]
   },
   "npc-bn-18-186-in-re-manila-shared-services-employees-credit-and-savings-cooperative.md": {
     "status": "done",
+    "timestamp": "2026-04-08T23:59:59Z",
     "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2020-10-28)",
-      "Fixed year tag to year/2020"
-    ],
-    "timestamp": "2026-03-26T12:55:52.204632"
+      "Fixed YAML frontmatter: corrected title case, replaced letterhead description with factual summary, standardized quotes",
+      "Removed letterhead blockquote (Philippine International Convention Center address) from body",
+      "Deleted case number and page-header injections (4 instances of 'NPC BN 18-186' mid-body, 1 address blockquote)",
+      "Rejoined OCR-fragmented paragraphs throughout Facts, Issue, Discussion sections",
+      "Consolidated 5 footnote blockquotes to [^N]: entries at end of file",
+      "Promoted Facts, Issue, Discussion from plain text to ### headings",
+      "Restored bold on operative words (CLOSED, SO ORDERED)",
+      "Removed 3 '(Sgd.)' lines from signature block",
+      "Fixed broken words and spacing issues (Cooperative, shares, subject, e-mail, etc.)",
+      "Corrected date field to 2021-04-29 (from PDF issue date)",
+      "Corrected year/2021 tag to match resolution issue date (not case number year)"
+    ]
   },
   "npc-bn-18-213-in-re-manufacturers-life-insurance-co.md": {
     "status": "done",
     "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2023-06-29)",
-      "Fixed year tag to year/2023"
+      "Fixed YAML frontmatter: corrected title case (In re:), replaced footnote-reference description with factual summary, standardized quotes",
+      "Removed letterhead blockquotes (Philippine International Convention Center address) from body (2 instances)",
+      "Deleted page-header injections and case number mid-body references",
+      "Rejoined OCR-fragmented paragraphs throughout Facts, Discussion, and legal analysis sections",
+      "Consolidated 84 footnote blockquotes to [^N]: entries at end of file",
+      "Promoted Facts, Issue, Discussion from plain text to ### headings",
+      "Added sub-heading #### On the Requisites of Mandatory Breach Notification",
+      "Restored bold on statutory quote section headings and operative words (WHEREFORE, CLOSED, SO ORDERED)",
+      "Removed 3 'Sgd.' lines from signature block",
+      "Fixed broken words and spacing issues throughout",
+      "Corrected date field to 2023-06-29 (from PDF issue date) and year/2023 tag"
     ],
-    "timestamp": "2026-03-26T12:55:52.212754"
+    "timestamp": "2026-04-08T00:00:00Z"
   },
   "npc-bn-18-217-in-re-infosys-bpm-philippines.md": {
     "status": "done",
+    "timestamp": "2026-04-08T00:00:00Z",
     "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2018-10-24)"
+      "Fixed YAML frontmatter: corrected title case (In re:), replaced vague description with factual summary, standardized quotes, corrected date to 2020-12-17 (from PDF issue date)",
+      "Removed all letterhead blockquotes (Philippine International Convention Center address) from body",
+      "Removed all page-header injections mid-body",
+      "Rejoined OCR-fragmented paragraphs throughout Facts, Issue, Discussion sections (from 404 to 165 lines)",
+      "Consolidated 10 footnote blockquotes to [^N]: entries at end of file",
+      "Promoted Facts, Issue, Discussion from plain text to ### headings",
+      "Added sub-headings #### There was a personal data breach and #### The remedial measures implemented...",
+      "Restored bold on statutory quote passages and operative words (WHEREFORE, CLOSED, TERMINATED, STERN WARNING, SO ORDERED)",
+      "Removed 3 'Sgd.' lines from signature block",
+      "Fixed broken words and spacing issues throughout (Counsel, complaint, administrative, non-disclosure, unauthorized, disciplinary, will, NPC)",
+      "Corrected issue date field from October 24, 2018 to December 17, 2020 and year/2018 tag correct (resolution issued in 2020, but matches subfolder 2018)"
     ]
   },
   "npc-bn-18-220-and-npc-bn-18-231-in-re-department-of-trade-and-industry.md": {
     "status": "done",
     "changes": [
-      "Added aliases block (4 forms)",
-      "Added date field (2020-10-22)",
-      "Fixed year tag to year/2020"
+      "Fixed YAML frontmatter: title case (In re:), replaced vague description with factual summary, standardized quotes",
+      "Removed letterhead blockquote (Philippine International Convention Center address) from body",
+      "Deleted case number and page-header injections (3 instances of 'NPC BN 18-220 and NPC BN 18-231' / 'In re: Department of Trade and Industry – Rizal Provincial Office' mid-body)",
+      "Rejoined OCR-fragmented paragraphs throughout Facts and Discussion sections (from 867 to 339 lines)",
+      "Consolidated 68 footnote blockquotes to [^N]: entries at end of file",
+      "Promoted Facts, Issue, Discussion from plain text to ### headings",
+      "Restored bold on statutory quote section headings and operative words (WHEREFORE, CLOSED, SO ORDERED)",
+      "Removed 'Sgd.' line from signature block",
+      "Fixed broken words and spacing issues throughout (DTI-Rizal, e-mail, unencrypted, oversee/overseeing, scams, account officers, etc.)",
+      "Expanded aliases block to include both NPC BN case numbers (18-220 and 18-231)",
+      "Corrected date field to 2023-06-30 (from PDF issue date, was 2020-10-22)",
+      "Corrected year/2018 tag (resolution issued in 2023 but matches subfolder year 2018)"
     ],
-    "timestamp": "2026-03-26T12:55:52.228067"
+    "timestamp": "2026-04-08T00:00:00Z"
   }
 }

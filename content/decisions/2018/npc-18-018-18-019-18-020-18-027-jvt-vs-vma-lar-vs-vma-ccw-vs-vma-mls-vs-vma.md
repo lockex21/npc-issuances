@@ -1,5 +1,5 @@
 ---
-title: "NPC 18-018, 18-019, 18-020, & 18-027: JVT v. VMA, LAR v. VMA, CCW v. VMA, MLS v. VMA"
+title: "NPC 18-018, 18-019, 18-020, and 18-027: JVT v. VMA, LAR v. VMA, CCW v. VMA, MLS v. VMA"
 description: "Four consolidated complaints by government employees alleging VMA, a COA auditor, processed their personal data sheets without consent; Commission finds processing permissible under DPA Section 12(e) and 13(b) as fulfilling COA's constitutional audit mandate."
 aliases:
   - "NPC 18-018"
@@ -16,7 +16,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC 18-018, 18-019, 18-020, & 18-027
+- Reference: NPC 18-018, 18-019, 18-020, and 18-027
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-18-018-18-019-18-020-and-18-027_02-22-2023_JVT-vs-VMA-LAR-vs-VMA-CCW-vs-VMA-MLS-vs-VMA_Decision.pdf
 - Source page: http://privacy.gov.ph/decisions-2/
 - Issue date: April 18, 2018
@@ -238,7 +238,7 @@ The processing of personal and sensitive personal information contained in the P
 
 Considering the foregoing, this Commission finds the processing made by VMA in requesting and obtaining the PDS of Complainants has a lawful criteria to process the same as stated in Sections 12 (e) and 13 (b) of the DPA, specifically, the processing was done in fulfillment of its mandate and by existing laws and regulations pursuant to the 1987 Philippine Constitution and Government Auditing Code of the Philippines and COA regulations.
 
-WHEREFORE, premises considered, this Commission resolves that the instant Complaint filed by JVT, LAR, CCW, and Atty. MLS against VMA for an alleged violation of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) is hereby **DISMISSED** for lack of merit.
+**WHEREFORE**, premises considered, this Commission resolves that the instant Complaint filed by JVT, LAR, CCW, and Atty. MLS against VMA for an alleged violation of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) is hereby **DISMISSED** for lack of merit.
 
 **SO ORDERED.**
 
@@ -362,7 +362,7 @@ GENERAL RECORDS UNIT
 
 [^43]: Responsive Comment dated 20 July 2018 of VMA, at p. 3.
 
-[^44]: ACN v. DT, NPC 18-109, Decision dated 01 June 2021, at p. 10.
+[^44]: *ACN v. DT*, NPC 18-109, Decision dated 01 June 2021, at p. 10.
 
 [^45]: *VVC v. CJB*, NPC 19-134, Decision dated 10 December 2021, at p. 15.
 

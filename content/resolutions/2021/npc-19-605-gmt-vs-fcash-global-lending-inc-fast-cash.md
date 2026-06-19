@@ -36,10 +36,6 @@ Complainant,
 
 FCASH GLOBAL LENDING INCORPORATED (FAST CASH),
 
-NPC 19-605
-
-For: Violation of the Data Privacy Act of 2012
-
 Respondent.
 
 x-----------------------------------------x
@@ -52,23 +48,23 @@ This resolves the Motion for Reconsideration (Motion) dated 9 February 2021 file
 >
 > This Commission **FORWARDS** this Decision and a copy of the pertinent case records to the Department of Justice, recommending the prosecution of FCash Global Lending Inc. for the crimes of Processing of Personal Information and Sensitive Personal Information for Unauthorized Purposes as provided under Section 28 and Malicious Disclosure as provided under Section 31 of Republic Act No. 10173 otherwise known as the Data Privacy Act of 2012.[^1]
 
-### Arguments of the Respondent
+### Facts
 
 The Respondent's Motion for Reconsideration[^2] raises the following arguments in questioning the Decision of this Commission:
 
-I. Evidence on record does not establish the commission of any violation of the Data Privacy Act (DPA).
+#### *I. Evidence on record does not establish the commission of any violation of the Data Privacy Act (DPA).*
 
-II. There is no evidence to support the finding that Respondent's Board of Directors are criminally liable for being negligent.
+#### *II. There is no evidence to support the finding that Respondent's Board of Directors are criminally liable for being negligent.*
 
-III. There is no factual nor legal basis for the finding and imposition of nominal damages against the Respondent.
+#### *III. There is no factual nor legal basis for the finding and imposition of nominal damages against the Respondent.*
 
-IV. There is no showing of compliance with the requirement of exhaustion of administrative remedy or of good cause to warrant a waiver thereof.
+#### *IV. There is no showing of compliance with the requirement of exhaustion of administrative remedy or of good cause to warrant a waiver thereof.*
 
 ### Discussion
 
 This Commission finds no reversible error that would warrant reconsideration of the Decision dated 5 November 2020. We discuss the matter point-by-point.
 
-#### I. There is a violation of the Data Privacy Act of 2012 (DPA)
+#### *I. There is a violation of the Data Privacy Act of 2012 (DPA)*
 
 Respondent argued that nothing in the records would warrant that they committed acts in violation of the DPA. The processing of Complainant's personal data was conducted by the Respondent to impel the Complainant to comply with her legal obligations, which are due and demandable under the loan agreement. Such act, according to the Respondent, is allowable and is in adherence to the data privacy principles of transparency, legitimate purpose, and proportionality of the DPA. Complainant has given full, free, and voluntary consent to Respondent having entered in a contractual relation as obligor-obligee. Thus, according to the Respondent, the processing of personal information is lawful and permissible. Further, the allegations in the complaint were vague if not inexistent. The pieces of information are insufficient to substantiate the allegations in the complaint. Respondent concluded that such is a ground for the outright dismissal of the complaint.
 
@@ -80,7 +76,7 @@ Moreover, the processing was made without being authorized by some other legal b
 
 From the foregoing, such violation was made clear when Respondent processed more personal information without her consent,[^5] specifically when it accessed and communicated with Complainant's contact list without her consent. This is shown in the email sent by Complainant to the Commission seeking help as Respondent were sending messages to all her mobile contacts and not only to the few references she permitted to give.[^6] Further, when Respondent sent a malicious message to Complainant's contact list, it resulted in the violation of the same provision as it used the contact information given by Complainant in ways other than the agreed purpose.
 
-#### II. There is substantial evidence to recommend the prosecution of the Respondent's Board of Directors
+#### *II. There is substantial evidence to recommend the prosecution of the Respondent's Board of Directors*
 
 Respondent also argued that there is no evidence to support the finding that the members of Respondent's Board of Directors (BOD) are criminally liable for being negligent. Respondent contends that the Commission declared that its BODs are criminally liable based solely on the fact that they are directors of the board. Further, Respondent argued that the cited jurisprudence[^7] has a different set of facts from those of the instant case. In the cited case, Respondent was indicted not on the fact of being a corporate officer but based on the execution of the trust receipt.
 
@@ -132,7 +128,7 @@ As aptly described by the Supreme Court in *Yap v. Lagtapon*, viz:
 
 > "The presumption of regularity in the performance of official duties is an aid to the effective and unhampered administration of government functions. Without such benefit, every official action could be negated with minimal effort from litigants, irrespective of merit or sufficiency of evidence to support such challenge. To this end, our body of jurisprudence has been consistent in requiring nothing short of clear and convincing evidence to the contrary to overthrow such presumption."[^13]
 
-#### III. The Commission is mandated to award nominal damages
+#### *III. The Commission is mandated to award nominal damages*
 
 Respondent further argued that there is no factual nor legal basis for the finding and imposition of nominal damages against the Respondent. Respondent contends that the authority of this Commission to award "indemnity on matters affecting any personal information" is limited only to actual and compensatory damage. Respondent argued that nominal damages are adjudicated not for the purpose of indemnifying the plaintiff for any loss suffered by him. Thus, Respondent finds that the Commission may have overstepped the bounds of its statutory authority by granting a form of civil damages that it has no power to grant under the law creating it.
 
@@ -168,7 +164,7 @@ The DPA gives individuals the right to receive indemnification from personal inf
 
 In consideration of the foregoing, the Commission does not find any reversible error in awarding the Complainant with nominal damages.
 
-#### IV. The requirement of exhaustion of administrative remedies is not absolute
+#### *IV. The requirement of exhaustion of administrative remedies is not absolute*
 
 Respondent claims that there is no showing of compliance with the requirement of exhaustion of administrative remedy or of good cause to warrant a waiver thereof. Respondent contends that there was no allegation in the Complaint that the requirement of exhaustion of administrative remedy under Section 4, Rule II of the NPC Rules has been complied with prior to the filing thereof. Respondent further states that neither was there any allegations in the Complaint of good cause to warrant the waiver of the said requirement. Hence, Respondent concludes that the complaint is dismissible on the ground that a condition precedent for filing the claim has not been complied with under Paragraph (j), Section 1, Rule 16 of the Rules of Court.
 
@@ -179,8 +175,6 @@ The Commission would like to point out to Respondent that the provision of the l
 Clearly, the Commission is given the discretionary power, upon good cause shown, to waive any or all the requirements of this Section.
 
 In this case, the Commission cannot turn a blind eye on the harm done to the Complainant's data privacy rights considering that the very contents of the text blast sent by the Respondent to the Complainant's contact list contain malicious disclosure of the Complainant's personal information.
-
-## Dispositive Portion
 
 **WHEREFORE**, premises considered, the Motion for Reconsideration dated 9 February 2021 of FCash Global Lending Inc. is hereby **DENIED** for lack of merit. The Decision of this Commission dated 5 November 2020 is hereby **AFFIRMED**.
 
@@ -200,7 +194,7 @@ Privacy Commissioner
 LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
-## Copy Furnished:
+Copy furnished:
 
 GMT
 Complainant

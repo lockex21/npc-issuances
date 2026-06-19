@@ -24,7 +24,7 @@ Dear [Redacted], et. al:
 
 We respond to your request for an Advisory Opinion on whether the records processed by
 your client,                             (Company), are exempted from the application of
-the Data Privacy Act of 2012 (DPA);2 and whether the DPA would pose any impediment to
+the Data Privacy Act of 2012 (DPA),[^2] and whether the DPA would pose any impediment to
 the United States Securities and Exchange Commission (U.S. SEC) ability to examine and
 access the Company’s records.
 
@@ -45,13 +45,6 @@ services. The services involves mutual fund transactions for the clients of the 
 performance of procedures relating to subscription, redemptions, switching, know-your-
 client (KYC) procedures, processing of account opening forms, risk disclosures, and
 distribution of dividends, among others. The Bank’s target mutual fund clients are United
-
-1 Foreign jurisdiction; special cases; legitimate purpose; lawful processing.
-
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Republic Act No. 10173, (2012).
-
 States citizens and residents, but all data processing services will be performed by the
 Company in the Philippines.
 
@@ -85,7 +78,7 @@ From the foregoing, this Advisory Opinion seeks to address issues:
 
 ### Discussion
 
-#### Scope of the DPA; Special Cases; Foreign Jurisdiction
+#### Scope of the DPA; Special Cases; Foreign Jurisdiction[^1]
 
 The DPA and its Implementing Rules and Regulations (IRR) exclude from its scope the
 personal and sensitive personal information of foreigners originally collected in foreign
@@ -148,7 +141,7 @@ measures to protect personal data and to uphold the data privacy principles.
 
 For example, a government agency with a statutory mandate may process personal data
 without the necessity of obtaining the data subject’s consent or presenting any other lawful
-criteria for processing.5 However, this processing must be strictly limited to what is essential
+criteria for processing.[^5] However, this processing must be strictly limited to what is essential
 to fulfill the agency’s mandate. The agency is required to collect only the data necessary to
 perform its functions, use it solely for the intended purpose, and disclose only the information
 required for co-regulation or public disclosure. Additionally, the agency must ensure that
@@ -179,13 +172,13 @@ imposed by foreign entities are often complied with, provided they do not confli
 Philippine laws. Comity, in this context, is neither an absolute obligation nor a mere act of
 goodwill. Rather, it represents the mutual respect one nation extends to the laws and actions
 of another, balancing international duty, practical considerations, and the protection of its
-own citizens’ rights.7
+own citizens’ rights.[^7]
 
 Similarly, the principle of reciprocity also finds application in the present concern. Reciprocity
 refers to the mutual exchange of rights or obligations between nations, fostering cooperation
 and ensuring equitable treatment. It is a cornerstone of international relations, particularly in
 areas such as trade, finance, and regulatory compliance, where mutual respect for legal
-frameworks is crucial.8
+frameworks is crucial.[^8]
 
 The Philippines adheres to both the principles of comity and reciprocity and is committed to
 fostering international cooperation and conformity to global standards, all while ensuring
@@ -200,10 +193,6 @@ examination of books and records containing personal data processed by the Compa
 
 In sum, the NPC will recognize the U.S. SEC’s inspection of the Company’s records as
 constituting lawful processing under the DPA, provided that the data privacy principles of
-
-7 Sison v. The Board of Accountancy and Ferguzon, G.R. No. L-2529, December 31, 1949.
-8 Sison, G.R. No. L-2529, Id.
-
 transparency, legitimate purpose, proportionality, and accountability are upheld.
 
 Please be advised that this Advisory Opinion was rendered based solely on the information
@@ -218,3 +207,13 @@ Very truly yours,
 (Sgd.)
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
+
+[^1]: Foreign jurisdiction; special cases; legitimate purpose; lawful processing.
+
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
+
+[^5]: National Privacy Commission, NPC Advisory Opinion No. 2017-020 (18 July 2017).
+
+[^7]: Sison v. The Board of Accountancy and Ferguzon, G.R. No. L-2529, December 31, 1949.
+
+[^8]: Sison, G.R. No. L-2529, Id.

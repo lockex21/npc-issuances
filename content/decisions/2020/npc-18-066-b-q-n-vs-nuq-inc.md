@@ -142,9 +142,6 @@ Copy furnished:
 B.Q.N.
 Complainant
 
-xxxxxxxxx
-xxxxxxxxx
-
 HQ, NUQ INC, N.S., N.U., D.B.L. AND S.K.D.
 Respondent
 

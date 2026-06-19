@@ -1,6 +1,6 @@
 ---
 title: "NPC 19-569: MPM v. U-Peso.PH Lending Corp. (Pera4U)"
-description: "Complaint alleging harassment and unauthorized disclosure of personal information during debt collection; partially granted with temporary ban on processing."
+description: "Complaint alleging harassment and unauthorized disclosure of personal information during debt collection; dismissed for failure to substantiate allegations."
 aliases:
   - "NPC 19-569"
   - "npc 19-569"
@@ -105,8 +105,7 @@ This is without prejudice to the filing of appropriate civil, criminal or admini
 
 **SO ORDERED.**
 
-Pasay City, Philippines;
-19 November 2020.
+Pasay City, Philippines; 19 November 2020.
 
 JOHN HENRY D. NAGA
 Deputy Privacy Commissioner

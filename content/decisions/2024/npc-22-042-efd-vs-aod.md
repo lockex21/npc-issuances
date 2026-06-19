@@ -139,7 +139,7 @@ The Commission finds that Respondent did not commit a violation of the DPA, thus
 
 In her Memorandum, Complainant stated that in filing the DepEd Complaint by Respondent, the latter attached a copy of the birth certificate of DF, the alleged son of Respondent and Complainant's husband, as well as Facebook photos and exchange of messages of the latter, to prove their illicit affair.[^46] She further argued that the documents attached in the DepEd Complaint are "excluded by law for the violation of the right to privacy while the Certificate of Birth of DF is totally irrelevant to the filing of the case inasmuch as it does not reflect any data that will relate the Respondent or her husband for any purposes."[^47]
 
-#### I. The instant complaint involves a data privacy violation.
+#### *I. The instant complaint involves a data privacy violation.*
 
 In the case of *GSS v. Global Dominion Financing, Inc.*, a privacy violation is defined as follows:
 
@@ -155,7 +155,7 @@ Here, personal data was processed when the subject documents relating to Complai
 
 Nevertheless, while it is true that there is a privacy violation, the case should still be dismissed for lack of merit.
 
-#### II. The photos and Certificate of Live Birth attached by Respondent to the DepEd Complaint contain personal and sensitive personal information.
+#### *II. The photos and Certificate of Live Birth attached by Respondent to the DepEd Complaint contain personal and sensitive personal information.*
 
 Section 3(g) of the DPA defines personal information as:
 
@@ -175,7 +175,7 @@ Moreover, Section 3(l) of the DPA defines sensitive personal information as pers
 
 To emphasize, the Certificate of Live Birth of DF, Complainant's son, pertains not only to personal information but also to sensitive personal information as it contains his birthdate which can specifically determine his age, and Complainant's racial origin, religion, and age as well.[^54]
 
-#### III. There is lawful basis for processing Complainant's personal and sensitive personal information.
+#### *III. There is lawful basis for processing Complainant's personal and sensitive personal information.*
 
 In her CAF, Complainant stated that Respondent attached documents in the DepEd Complaint which contained sensitive personal information and Complainant's photos without her consent.[^55]
 
@@ -238,19 +238,13 @@ This is without prejudice to the filing of appropriate civil, criminal or admini
 City of Pasay, Philippines.
 12 August 2024.
 
-SGD
-
 JOHN HENRY D. NAGA
 Privacy Commissioner
 
 WE CONCUR:
 
-SGD
-
 LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
-
-SGD
 
 NERISSA N. DE JESUS
 Deputy Privacy Commissioner

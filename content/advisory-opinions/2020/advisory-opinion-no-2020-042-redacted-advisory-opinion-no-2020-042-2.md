@@ -11,7 +11,7 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2020-042
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-042.pdf
-- Issue date: 30/10/2020
+- Issue date: 10/30/2020
 - OCR used during extraction: no
 
 ## Text
@@ -47,13 +47,11 @@ As stated in your letter, the said clearance is a requirement imposed by the Cit
 the Loyola Grand Villas Homeowners’ Association, Inc. (LGVHAI) prior to the disclosure of
 the requested personal data.
 
-Rights and powers of HOA; scope of the DPA;
-criteria for lawful processing of personal data;
-proportionality
+#### Rights and Powers of HOA; Scope of the DPA; Criteria for Lawful Processing of Personal Data; Proportionality
 
 At the outset, the LGVHAI as the legitimate HOA declared by the court, has the power to
 manage the internal affairs of the subdivision. Relative thereto, Section 49 of the Magna Carta
-for Homeowners and Homeowners’ Associations2 provides:
+for Homeowners and Homeowners’ Associations[^2] provides:
 
    Section 49. Rights and Powers of the Association. – An association shall have the following
          rights and powers:
@@ -69,7 +67,7 @@ and judicial person involved in personal information processing. In NPC Advisory
 No. 2018-019, we stressed that a HOA, being a juridical entity engaged activities geared
 towards the provision of basic community services and facilities for its members-
 homeowners, may inevitably perform processing of personal information of its individual
-members homeowners. It is therefore considered as a personal information controller3 (PIC)
+members homeowners. It is therefore considered as a personal information controller[^3] (PIC)
 and is covered by the DPA.
 
 In this case, the names and addresses of the lot owners are considered personal information
@@ -97,11 +95,6 @@ should comply with Section 12 of the DPA, to wit:
              authority which necessarily includes the processing of personal data for the
              fulfillment of its mandate; or
 
-2 An Act Providing for a Magna Carta for Homeowners and Homeowners' Associations, and For Other Purposes [Magna Carta
-
-for Homeowners and Homeowners’ Associations], Republic Act No. 9904 (2010).
-3 RA No. 10173, §3(h).
-
    (f) The processing is necessary for the purposes of the legitimate interests pursued by
               the personal information controller or by a third party or parties to whom the data is
               disclosed, except where such interests are overridden by fundamental rights and
@@ -114,14 +107,12 @@ legitimate interests of the LGVHAI (i.e. inclusion of lot owners to the masterli
 members, sending of notices, and collection of monthly dues).
 
 Hence, the City Assessor’s Office of Marikina and Quezon City, following the proportionality
-principle,4 may release the names and addresses of the lot owners without disclosing the
+principle,[^4] may release the names and addresses of the lot owners without disclosing the
 actual Tax Declarations upon LGVHAI’s compliance with the existing policies and procedures
 of the City Assessor, including the payment of reasonable fees (if any) for the release of the
 requested personal data.
 
-Powers and functions of the NPC; clearance from
-the NPC on the disclosure of personal data is not
-necessary
+#### Powers and Functions of the NPC; Clearance from the NPC on the Disclosure of Personal Data is Not Necessary
 
 The powers and functions of the NPC are explicitly provided in Section 7 of the DPA and
 Section 9 of its Implementing Rules and Regulations (IRR). It must be noted that neither the
@@ -141,8 +132,6 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-4 See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016) – (c)
-
-Proportionality. The processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation
-to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not
-reasonably be fulfilled by other means.
+[^2]: An Act Providing for a Magna Carta for Homeowners and Homeowners' Associations, and For Other Purposes [Magna Carta for Homeowners and Homeowners' Associations], Republic Act No. 9904 (2010).
+[^3]: RA No. 10173, §3(h).
+[^4]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016) – (c) Proportionality. The processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.

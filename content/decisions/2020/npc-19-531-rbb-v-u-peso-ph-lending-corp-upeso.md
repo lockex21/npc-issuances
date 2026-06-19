@@ -45,6 +45,8 @@ AGUIRRE, D.P.C.:
 
 Before this Commission is a Complaint filed by Complainant RBB against Respondent U-PESO.PH Lending Corporation (UPESO) for an alleged violation of R.A. 10173 (“Data Privacy Act”).
 
+## DECISION
+
 ### The Facts
 
 In her Complaint, the Complainant alleges that she has an outstanding loan with Respondent. Upon her default of payment, Respondent allegedly threatened to file a case of estafa against her. Complainant claims that she tried to communicate with Respondent regarding her situation, but the threats from Respondent continued.[^1]

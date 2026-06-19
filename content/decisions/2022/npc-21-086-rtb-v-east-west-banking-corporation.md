@@ -130,6 +130,8 @@ Indeed, it is part of the Commission's mandate to award indemnity on matters aff
 
 WHEREFORE, premises considered, the Commission resolves to **DISMISS** the Complaint of RTB against East West Banking Corporation (EWBC). The Commission **AWARDS** nominal damages, in the amount of Fifteen Thousand Pesos (P15,000.00), to RTB for EWBC's failure to fulfill its obligation as a Personal Information Controller under Section 11 (c) of the Data Privacy Act of 2012. EWBC is **ORDERED** to submit its compliance within fifteen (15) days from receipt of this Decision.
 
+
+
 **SO ORDERED.**
 
 Pasay City, Philippines.
@@ -137,13 +139,11 @@ Pasay City, Philippines.
 03 February 2022.
 
 LEANDRO ANGELO Y. AGUIRRE
-
 Deputy Privacy Commissioner
 
 I CONCUR:
 
 JOHN HENRY D. NAGA
-
 Privacy Commissioner
 
 Copy furnished:

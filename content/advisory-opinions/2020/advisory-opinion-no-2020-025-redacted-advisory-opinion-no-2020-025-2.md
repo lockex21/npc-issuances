@@ -10,6 +10,7 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2020-025
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-025.pdf
+- Issue date: 06/16/2020
 - OCR used during extraction: no
 
 ## Text
@@ -34,22 +35,18 @@ which gives rise to a conflict of interest vis-à-vis the duties as a DPO.
 
 ### Discussion
 
-Data protection officer; independence; autonomy
+#### Data protection officer; independence; autonomy
 
 It is true that a DPO must be independent in the performance of their functions and shall be
 afforded a significant degree of autonomy by the personal information controller (PIC) or personal
-information processor (PIP).2 However, this principle must be harmonized with the employer’s
+information processor (PIP).[^2] However, this principle must be harmonized with the employer’s
 right to fully manage and control his or her business, subject only to the limitations provided by
 law.
 
 You mentioned that it is proposed that the Risk Department will facilitate the overall
 implementation of the Compliance Management System that covers Data Privacy Compliance.
 From acursory reading of the facts, it seems that the Risk Department will only be overseeing Data
-Privacy Compliance and may not necessarily interfere with the functions of the DPO. Further,
-
-1Tags: data protection officer; compliance officer; independence; conflict of interest.
-
-being placed under the direct supervision of any of the company’s departments does not
+Privacy Compliance and may not necessarily interfere with the functions of the DPO. Further, being placed under the direct supervision of any of the company’s departments does not
 necessarily entail the loss of the DPO’s independence and autonomy.
 
 NPC Advisory No. 2017-01 is clear in its requirement that a DPO shall be allowed to enjoy a
@@ -68,14 +65,13 @@ Furthermore, under the doctrine of management prerogative, every employer has th
 right to regulate, according to his own discretion and judgment, all aspects of employment,
 including hiring, work assignments, working methods, the time, place and manner of work, work
 supervision, transfer of employees, lay-off of workers, and discipline, dismissal, and recall of
-employees.3
+employees.[^3]
 
 Nonetheless, if based on your assessment, there will indeed be an independence issue if the DPO
 would made to report to the Risk Department, you are not precluded from formally
 communicating the same to the pertinent officers in your company and documenting the outcome.
 
-Simultaneous designation as DPO and Compliance
-Officer; conflict of interest
+#### Simultaneous designation as DPO and Compliance Officer; conflict of interest
 
 Another related concern you raised is the seeming conflict of interest with the designation of the
 DPO as the Compliance Officer simultaneously. You stated that the conflict of interest arises
@@ -89,27 +85,22 @@ conflict vis-à-vis a DPO’s functions.
 To backtrack, conflict of interest refers to a scenario wherein a DPO is charged with performing
 tasks, duties, and responsibilities that may be opposed to or could affect his performance as DPO,
 i.e. holding a position that leads him to determine the purposes and the means of the processing
-of personal data.4
+of personal data.[^4]
 
 Further, we note the pertinent discussions under Article 29 of the Data Protection Working Party
-of the European Commission - Guidelines on Data Protection Officers (‘DPOs’)5 on the matter of
+of the European Commission - Guidelines on Data Protection Officers (‘DPOs’)[^5] on the matter of
 conflict of interest, to wit:
 
-   “… This entails in particular that the DPO cannot hold a position within the organisation
-          that leads him or her to determine the purposes and the means of the processing of
-
-3 Rural Bank of Cantilan, Inc. v. Julve, 545 Phil. 619 (2007).
-4 NPC2017-01, Definition of Terms.
-5 European Commission, Article 29 Data Protection Working Party, Guidelines on Data Protection Officers (‘DPOs’),
-
-   personal data. Due to the specific organisational structure in each organisation, this has
-         to be considered case by case.
-
-   As a rule of thumb, conflicting positions within the organisation may include senior
-         management positions (such as chief executive, chief operating, chief financial, chief
-         medical officer, head of marketing department, head of Human Resources or head of IT
-         departments) but also other roles lower down in the organisational structure if such
-         positions or roles lead to the determination of purposes and means of processing.”
+> “… This entails in particular that the DPO cannot hold a position within the organisation
+> that leads him or her to determine the purposes and the means of the processing of
+> personal data. Due to the specific organisational structure in each organisation, this has
+> to be considered case by case.
+>
+> As a rule of thumb, conflicting positions within the organisation may include senior
+> management positions (such as chief executive, chief operating, chief financial, chief
+> medical officer, head of marketing department, head of Human Resources or head of IT
+> departments) but also other roles lower down in the organisational structure if such
+> positions or roles lead to the determination of purposes and means of processing.”
 
 We understand the concern about processing personal data by the DPO as a Compliance Officer.
 Nevertheless, we note that this will essentially entail monitoring compliance with a predetermined
@@ -127,14 +118,11 @@ Pursuant to the Article 29 of the Data Protection Working Party of the European 
 Guidelines on DPOs, internal rules may be drafted to avoid conflict of interests, where such rules
 may provide for the following, to wit:
 
-   •    Identification of the position/s which would be incompatible with the function of DPO;
-    •    Draft internal rules to avoid conflicts of interests;
-    •    Provide an explanation about conflicts of interests;
-    •    Declare that the DPO has no conflict of interests with regard to his/her function as a DPO,
-         as a way of raising awareness of this requirement;
-    •    Include safeguards in the internal rules of the organization and to ensure that the vacancy
-         notice for the position of DPO or the service contract is sufficiently precise and detailed in
-         order to avoid a conflict of interests.6
+- Identification of the position/s which would be incompatible with the function of DPO;
+- Draft internal rules to avoid conflicts of interests;
+- Provide an explanation about conflicts of interests;
+- Declare that the DPO has no conflict of interests with regard to his/her function as a DPO, as a way of raising awareness of this requirement;
+- Include safeguards in the internal rules of the organization and to ensure that the vacancy notice for the position of DPO or the service contract is sufficiently precise and detailed in order to avoid a conflict of interests.[^6]
 
 As provided in NPC Advisory 2017-01, the “opinion of the DPO or the Compliance Officer for
 Privacy(“COP”) must be given due weight. In case of disagreement, and should the PIC or PIP
@@ -151,4 +139,9 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-6 See: European Commission, Article 29 Data Protection Working Party, Guidelines on Data Protection Officers (‘DPOs’),
+[^1]: Tags: data protection officer; compliance officer; independence; conflict of interest.
+[^2]: National Privacy Commission, Designation of Data Protection Officers [NPC Advisory No. 2017-01] (March 14, 2017).
+[^3]: Rural Bank of Cantilan, Inc. v. Julve, 545 Phil. 619 (2007).
+[^4]: NPC2017-01, Definition of Terms.
+[^5]: European Commission, Article 29 Data Protection Working Party, Guidelines on Data Protection Officers (‘DPOs’), Adopted on 13 December 2016, As last Revised and Adopted on 5 April 2017, page 16, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612048 (last accessed: 17 June 2020).
+[^6]: See: European Commission, Article 29 Data Protection Working Party, Guidelines on Data Protection Officers (‘DPOs’), Adopted on 13 December 2016, As last Revised and Adopted on 5 April 2017, page 16, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612048 (last accessed: 17 June 2020).

@@ -28,17 +28,21 @@ draft: false
 
 ## Decision Text
 
-EA and TA, Complainants,
+EA and TA,
+
+Complainant,
 
 -versus-
 
-EJ, EE, and HC, Respondents.
+EJ, EE, and HC,
+
+Respondents.
 
 x----------------------------------------------------x
 
 For consideration of the Commission is the complaint filed by Complainants EA and TA against Respondents EJ, EE, and HC for Violation of Section 25(b) of the Data Privacy Act of 2012 (DPA).[^1]
 
-### Facts
+### Relevant Facts
 
 Complainants allege that:
 
@@ -86,7 +90,7 @@ Further, he also said that the documents were obtained sometime in September 201
 
 Based on the documents submitted and the proceedings held, it appears that there were other pending cases between the parties and that the conflict between them started when HC, by virtue of a Special Power of Attorney, sold some of the properties of their mother. EJ was the one who notarized all the legal documents pertaining to the sale. When Complainants discovered those transactions, the parties started filing different cases against each other, including the present complaint. Respondents used the subject documents in the guardianship proceedings and in the criminal complaint against Complainants.[^11]
 
-### Issues
+### Issue
 
 The sole issue to be determined in this case is whether the Respondents violated Section 25(b) of the DPA in processing the Complainant's personal data for the purposes described above.
 
@@ -116,7 +120,7 @@ Any misconception about "processing" being limited to digital means should be di
 
 As to the second element, the information subject of this case is sensitive personal information. Under the DPA, sensitive personal information refers to information:
 
-1. About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations;
+1. About an individual's race, ethnic origin, **marital status**, age, color, and religious, philosophical or political affiliations;
 
 2. About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings;
 
@@ -134,7 +138,7 @@ In this case, the fact that Complainants announce their status in public does no
 
 With regard to the third element, Section 13 of the Act expressly prohibits the processing of sensitive personal information, except in the following cases:
 
-> f. The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority (Emphasis supplied).
+> f. The processing concerns such personal information as is **necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims**, or when provided to government or public authority (Emphasis supplied).
 
 During the Discovery Conference, it was repeatedly brought to the attention of the Commission that the Complainants and Respondents were already opposing parties in a guardianship proceeding even before Respondents filed the criminal complaint for Falsification against Complainants. In the guardianship proceeding, TA is the petitioner while EJ is the counsel of the ward subject of the proceedings.
 
@@ -170,7 +174,7 @@ This is all the more true since the subject documents were obtained by the respo
 
 It should be stressed, however, that having a legitimate purpose or some other lawful criteria to process does not result in PSA being legally obliged to grant such request. A person requesting for certain information from an administrative agency remains to be subject to that agency's guidelines for the release of such information. In this case, had Respondents requested for the above mentioned certificates after the PSA issued its guidelines, they would have been obliged to comply with such despite having complied with the requirements of the DPA on lawful criteria for processing.
 
-Aside from legitimate purpose, the qualifier "necessary" also pertains to the general privacy principle of proportionality. Under the IRR, the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.[^22]
+Aside from legitimate purpose, the qualifier "necessary" also pertains to the general privacy principle of proportionality. Under the IRR, the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if **the purpose of the processing could not reasonably be fulfilled by other means**.[^22]
 
 The proportionality principle, as manifested in the qualifier "necessary" serves as a sufficient test in determining whether the processing is justified in relation to the declared purpose.
 
@@ -180,26 +184,23 @@ While the processing of sensitive personal information is expressly prohibited u
 
 While we find that the Respondent did not violate Section 25(b) of the Data Privacy Act of 2012, this does not, however, preclude any civil, criminal or administrative liability, if any, on the part of the Respondents arising from other laws.
 
-### Dispositive Portion
-
 **WHEREFORE**, the foregoing considered, this Commission **FINDS** that Respondent did not violate Section 25(b) of the Data Privacy Act of 2012 on unauthorized access of sensitive personal information.
 
 This is without prejudice to the filing of appropriate civil, criminal or administrative cases against the respondents before any other forum or tribunal, if any.
 
 **SO ORDERED.**
 
+Sgd.
 LEANDRO ANGELO Y. AGUIRRE
-Deputy Privacy Commissioner
+*Deputy Privacy Commissioner*
 
 Concurring:
 
-IVY D. PATDU
-Deputy Privacy Commissioner
+Sgd.                                                Sgd.
+IVY D. PATDU                            RAYMUND ENRIQUEZ LIBORO
+*Deputy Privacy Commissioner*          *Privacy Commissioner*
 
-RAYMUND ENRIQUEZ LIBORO
-Privacy Commissioner
-
-Copy furnished:
+**COPY FURNISHED:**
 
 EA
 
@@ -212,11 +213,9 @@ EE
 HC
 
 ENFORCEMENT DIVISION
-
 Legal and Enforcement Office
-
+National Privacy Commission
 5th Floor West Banquet Hall, Delegation Bldg.
-
 PICC Complex, 1307 Manila
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012].

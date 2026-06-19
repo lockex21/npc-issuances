@@ -43,6 +43,8 @@ x----------------------------------------x
 
 AGUIRRE, D.P.C.:
 
+### Facts
+
 Before this Commission is a complaint for a violation of the data subject's rights to access and rectification.
 
 Complainant FGP was an employee of Respondent Maersk Global Service Centres, Philippines, Ltd. from 29 March 2010 to 30 April 2014. As a requirement of Complainant's current employer, Reed Elseview Shared Services, Inc. (RESSPI), he consented to a background check to be done by Human Capital Asia, Inc. This background check involves, among others, verification of his records from his previous employments.

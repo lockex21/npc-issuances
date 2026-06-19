@@ -237,12 +237,12 @@ City of Pasay, Philippines.
 LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
-I CONCUR:
+WE CONCUR:
 
 JOHN HENRY D. NAGA
 Privacy Commissioner
 
-NERISSA N. DE JESUS
+NERISSA N. DEJESUS
 Deputy Privacy Commissioner
 
 Copy furnished:

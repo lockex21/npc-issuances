@@ -1,6 +1,6 @@
 ---
 title: "Rules on Mediation before the National Privacy Commission (Circular No. 18-03)"
-description: "Section 1. Application and Interpretation. – In applying and construing the provisions of these Rules, consideration must be given to the need to promote candor among the parties, the confidentiality of the mediation process, and the independence of the determination and..."
+description: "Sets out the voluntary mediation procedure for data privacy complaints before the National Privacy Commission, covering the mediation process, confidentiality rules, effect of mediated settlements, and template annexes for standard mediation forms."
 aliases:
 - Circular No. 18-03
 - circular no. 18-03
@@ -28,15 +28,15 @@ hereby prescribed and promulgated.
 
 ### Rule I. Preliminary Provisions
 
-Section 1. Application and Interpretation. – In applying and construing the provisions of
+**SECTION 1.** ***Application and Interpretation.*** – In applying and construing the provisions of
 these Rules, consideration must be given to the need to promote candor among the
 parties, the confidentiality of the mediation process, and the independence of the
 determination and resolution of the parties of their dispute, all of which shall foster
 prompt, economical, and amicable resolution of disputes.
 
-Section 2. Scope. – These Rules shall apply to all complaints filed before the Commission.
+**SECTION 2.** ***Scope.*** – These Rules shall apply to all complaints filed before the Commission.
 
-Section 3. Definition of Terms. –
+**SECTION 3.** ***Definition of Terms.*** –
 
 a. Commission – refers to the National Privacy Commission.
 
@@ -59,17 +59,17 @@ designated by the Commission to conduct mediation.
 
 ### Rule II. Procedure
 
-Section 1. Willingness to Mediate. – The parties, by mutual agreement, may signify their
+**SECTION 1.** ***Willingness to Mediate.*** – The parties, by mutual agreement, may signify their
 interest to explore the possibility of settling the dispute by mediation during the
 discovery conference or at any stage of the complaint proceedings thereafter.
 
-Section 2. Application for Mediation. – The parties shall jointly file with the investigating
+**SECTION 2.** ***Application for Mediation.*** – The parties shall jointly file with the investigating
 officer an Application for Mediation manifesting their earnest commitment to engage in
 a meaningful settlement process and their willingness to abide by these Rules and the
 orders issued by the assigned mediation officer. No application for mediation shall be
 approved without payment of the mediation fee.
 
-Section 3. Order to Mediate. – The investigating officer shall issue an Order to Mediate,
+**SECTION 3.** ***Order to Mediate.*** – The investigating officer shall issue an Order to Mediate,
 which shall state the following: (a) the approval of the Application for Mediation; (b) the
 suspension of the complaint proceedings for sixty (60) days pending the mediation
 proceedings; (c) the name of the assigned or designated mediation officer who shall
@@ -78,7 +78,7 @@ parties shall appear before the mediation officer for the preliminary mediation
 conference. Copies of the Order to Mediate shall be furnished to the mediation officer
 and the parties.
 
-Section 4. Preliminary Mediation Conference. – The mediation officer shall receive the
+**SECTION 4.** ***Preliminary Mediation Conference.*** – The mediation officer shall receive the
 appearances of the parties and inform them of the mediation process and the manner by
 which the proceedings will be conducted. The mediation officer shall stress the benefits
 of an early settlement of the dispute and endeavor to achieve the most fair and
@@ -91,7 +91,7 @@ and suggest options for the parties to consider.
 When necessary, the parties shall agree on the schedule of the next mediation conference
 and the mediation officer shall issue an order therefor.
 
-Section 5. Separate Caucuses and Subsequent Conferences. – The mediation officer may,
+**SECTION 5.** ***Separate Caucuses and Subsequent Conferences.*** – The mediation officer may,
 with the consent of both parties, hold separate caucuses with each party to enable a
 determination of their respective real interest in the dispute; provided, that each party
 shall be afforded equal time and/or opportunity to ventilate such interest and
@@ -102,7 +102,7 @@ The mediation officer shall hold in confidence any matter disclosed during the s
 caucuses and shall exercise reasonable prudence and discretion in the safeguarding of
 such information.
 
-Section 6. Mediation Period and Extension thereof. – The mediation officer shall
+**SECTION 6.** ***Mediation Period and Extension thereof.*** – The mediation officer shall
 endeavor to achieve a mediated settlement of the dispute within fifteen (15) days from
 
 the preliminary mediation conference, but shall, in every case, be afforded the initial
@@ -114,7 +114,7 @@ thirty (30) days by the mediation officer. Should no agreement be reached within
 extended period, another non-extendible period of thirty (30) days may be jointly
 requested by the parties subject to the discretion of the mediation officer.
 
-Section 7. Mediated Settlement Agreement. – A mediated settlement agreement following
+**SECTION 7.** ***Mediated Settlement Agreement.*** – A mediated settlement agreement following
 successful mediation shall be jointly prepared and executed by the parties, with the
 assistance of their respective counsel, if any. The execution of a mediated settlement
 agreement shall terminate the mediation proceedings.
@@ -123,18 +123,18 @@ The mediation officer shall certify that the contents of the agreement have been
 understood, and mutually agreed upon by the parties, and that the provisions thereof are
 not contrary to law, public policy, morals, or good customs.
 
-Section 8. Confirmation by the Commission. – The mediation officer shall issue a
+**SECTION 8.** ***Confirmation by the Commission.*** – The mediation officer shall issue a
 resolution submitting the mediated settlement agreement to the Commission within five
 (5) days from the signing and filing thereof. Copies of the resolution shall be furnished to
 the parties and the investigating officer. The Commission shall thereafter issue a
 resolution confirming the mediated settlement agreement within fifteen (15) days from
 submission of the resolution and mediated settlement agreement.
 
-Section 9. Effect of Confirmed Mediated Settlement Agreement. – A confirmed mediated
+**SECTION 9.** ***Effect of Confirmed Mediated Settlement Agreement.*** – A confirmed mediated
 settlement agreement shall have the effect of a decision or judgment on the complaint,
 and shall be enforced in accordance with the Commission’s rules and issuances.
 
-Section 10. Failure to Reach Settlement. – If the parties are unable to arrive at a settlement
+**SECTION 10.** ***Failure to Reach Settlement.*** – If the parties are unable to arrive at a settlement
 of their dispute, or it becomes apparent that a settlement, given the disparity of the
 respective positions of the parties, is not likely or achievable within the sixty (60) day
 mediation period or the reasonable extension of such period under Section 7, the
@@ -142,19 +142,19 @@ mediation officer may declare the mediation unsuccessful and terminate the proce
 by issuing a Notice of Non-Settlement of Dispute and furnishing the investigating officer
 and the parties with copies thereof.
 
-Section 11. Resumption of Complaint Proceedings. – Upon receipt of the Notice of Non-
+**SECTION 11.** ***Resumption of Complaint Proceedings.*** – Upon receipt of the Notice of Non-
 Settlement of Dispute issued by the mediation officer, the investigating officer shall issue
 an order lifting the suspension of the complaint proceedings, which shall resume as a
 matter of course. Copies of the order, including the notice of the next hearing date of the
 complaint proceedings, shall be furnished to all the parties.
 
-Section 12. Field Mediation. – The personnel of the Legal Division shall be authorized to
+**SECTION 12.** ***Field Mediation.*** – The personnel of the Legal Division shall be authorized to
 conduct mediation proceedings between parties during the conduct of regional discovery
 conferences by the Complaints and Investigation Division.
 
 ### Rule III. General Provisions
 
-Section 1. Personal Appearance by the Parties. – Individual parties are required to
+**SECTION 1.** ***Personal Appearance by the Parties.*** – Individual parties are required to
 personally appear during mediation conferences. Representatives may appear on behalf
 of individual parties; provided, that they are authorized by special power of attorney to
 appear, offer, negotiate, accept, decide, and enter into a mediated settlement agreement
@@ -164,7 +164,7 @@ by a notarized Secretary’s Certificate, Board Resolution, or any equivalent wr
 authority to offer, negotiate, accept, decide, and enter into a mediated settlement
 agreement.
 
-Section 2. Effect of Failure of Parties to Appear. – If any of the parties fail to appear
+**SECTION 2.** ***Effect of Failure of Parties to Appear.*** – If any of the parties fail to appear
 without prior notice and justifiable reason for two (2) consecutive mediation
 conferences/caucuses at any stage of the mediation, the mediation officer may order the
 termination of the mediation proceedings. The mediation officer may also require the
@@ -174,21 +174,21 @@ mediation conferences/caucuses, and be henceforth permanently prohibited from
 requesting mediation at any other stage of the complaint proceedings before the
 Commission.
 
-Section 3. Presence of Lawyers in Mediation. – Lawyers, upon the discretion of the
+**SECTION 3.** ***Presence of Lawyers in Mediation.*** – Lawyers, upon the discretion of the
 mediation officer, may attend the mediation conferences in the role of adviser and
 consultant to their clients and shall cooperate with the mediation officer towards securing
 a settlement of the dispute. They shall help their clients comprehend the mediation
 process and its benefits and assist in the preparation of a mediated settlement agreement
 and its eventual enforcement.
 
-Section 4. Venue. – Mediation proceedings shall be conducted within the Commission
+**SECTION 4.** ***Venue.*** – Mediation proceedings shall be conducted within the Commission
 premises. Upon request of both parties, the mediation officer may authorize the conduct
 of a mediation conference at any other venue, provided that all related expenses,
 including transportation, food, and accommodation, shall be borne by both parties. If a
 change of venue is requested by one party, it must be with the other’s conformity and
 they shall agree on the terms of handling the expenses.
 
-Section 5. Confidentiality. – The mediation conferences shall be held in private. Persons
+**SECTION 5.** ***Confidentiality.*** – The mediation conferences shall be held in private. Persons
 other than the parties, their representatives, counsel, and the mediation officer may
 attend only with the consent of the parties and upon approval by the mediation officer.
 Anyone present during a mediation conference shall not disclose any information
@@ -207,7 +207,7 @@ notes of the mediation officer, if any, shall likewise be inadmissible nor cogni
 court, tribunal, or body for whatever purpose and shall be securely destroyed upon
 termination of the mediation proceedings.
 
-Section 6. Mediation Fees. – The mediation fee in an amount prescribed by the
+**SECTION 6.** ***Mediation Fees.*** – The mediation fee in an amount prescribed by the
 Commission shall be paid by the parties upon the filing of the Application for Mediation.
 
 Complainants may be exempted from the payment of the mediation fee and enter into
@@ -216,16 +216,16 @@ by the barangay captain at their place of residence.
 
 ### Rule IV. Miscellaneous Provisions
 
-Section 1. Amendments. – These Rules or any portion thereof may be amended or
+**SECTION 1.** ***Amendments.*** – These Rules or any portion thereof may be amended or
 supplemented by the Commission.
 
-Section 2. Separability Clause. – If any part, article, or provision of these Rules are
+**SECTION 2.** ***Separability Clause.*** – If any part, article, or provision of these Rules are
 declared invalid or unconstitutional, the other parts not affected shall remain valid.
 
-Section 3. Transitory Provision. – These Rules shall apply to pending complaints,
+**SECTION 3.** ***Transitory Provision.*** – These Rules shall apply to pending complaints,
 provided the parties express their interest to settle the dispute by mediation.
 
-Section 4. Effectivity. – These Rules shall take effect fifteen (15) days after publication in
+**SECTION 4.** ***Effectivity.*** – These Rules shall take effect fifteen (15) days after publication in
 a newspaper of general circulation.
 
 Approved:

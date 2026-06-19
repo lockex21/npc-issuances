@@ -38,7 +38,6 @@ date: '2018-08-07'
 - and Real Risk of Serious Harm
 
 ## Resolution Text
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 IN RE: AIG SHARED SERVICES -
 
@@ -64,15 +63,14 @@ Before the Commission is the consolidated breach notifications
 
 submitted by AIG Shared Services Corporation – Management
 
-Services (ROHQ) (AIGSS -MS)  by AIG Shared Services – Business
+Services (ROHQ) (AIGSS-MS)  by AIG Shared Services – Business
 
-Processing Inc. (AIGSS -BPI) (collectively, AIGSS) and by Medicard
+Processing Inc. (AIGSS-BPI) (collectively, AIGSS) and by Medicard
 
 Philippines, Inc. - Festival Alabang Clinic (Medicard).
 
-Facts
-
-On 12 March 2018, AIGSS -MS notified the National Privacy
+### Facts
+On 12 March 2018, AIGSS-MS notified the National Privacy
 
 Commission (NPC) of a breach:
 
@@ -102,7 +100,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 sent separately. We will also send the acknowledged notification
 
@@ -112,7 +109,7 @@ It attached a Privacy Risk Incident Report (Report) stating that the
 
 following personal data of its employees were involved: full name,
 
-employee ID, and medical information. 2 AIGSS -MS explained that
+employee ID, and medical information. 2 AIGSS-MS explained that
 
 “human error ” was the “principal root cause, ” and that Medicard was
 
@@ -120,7 +117,7 @@ also a responsible party. 3 It stated that the potential harm that may
 
 result from the incident was “emotional distress ” and “reputational
 
-damage. ”4 AIGSS -MS reported that it informed the affected data
+damage. ”4 AIGSS-MS reported that it informed the affected data
 
 subjects and obtained confirmation from the recipients that the email
 
@@ -128,9 +125,9 @@ was deleted and not reproduced. 5 Finally, it reported that it already
 
 informed Medicard and was waiting for its response on the matter. 6
 
-On 14 March 2018, AIGSS -BPI also notified the NPC of the breach .7
+On 14 March 2018, AIGSS-BPI also notified the NPC of the breach.7
 
-On 23 May 2018, Medicard submitted its breach notification , stat ing :
+On 23 May 2018, Medicard submitted its breach notification , stating :
 
 1.  Nature of the Breach/Incident: Unintended disclosure of
 
@@ -158,7 +155,6 @@ unencrypted APE Results.
 
 b.  Disciplinary action for the Appointment Officer.
 
-> 1
 
 Personal Data Breach Notification from AIG Shared Services Corporation - Management Services
 
@@ -168,27 +164,21 @@ Services Corporation - Management Services (ROHQ), and Medicard Philippines, Inc
 
 Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018). Emphasis supplied.
 
-> 2
 
 Id.
 
-> 3
 
 Id.
 
-> 4
 
 Id.
 
-> 5
 
 Id.
 
-> 6
 
 Id.
 
-> 7
 
 Personal Data Breach Notification from AIG Shared Services Corporation - Business Processing
 
@@ -204,7 +194,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 c.  Reorientation of all clinic personnel of existing
 
@@ -226,7 +215,7 @@ involved the email thread of the breach itself ,9 and the second involved
 
 AIGSS and Medicard’s correspondence after the breach. 10  AIGSS
 
-initiated the correspondence to inform Medicard of the breach .11  It
+initiated the correspondence to inform Medicard of the breach.11  It
 
 stated that it was expecting Medicard to perform all measures “to
 
@@ -258,7 +247,6 @@ though AIG claimed that they have already reported the
 
 breach/incident to the Commission. 15
 
-> 8
 
 Personal Data Breach Notification from Medicard Philippines, Inc., 23 May 2018, in In re: AIG
 
@@ -268,27 +256,21 @@ Services (ROHQ), and Medicard Philippines, Inc. – Festival Alabang Clinic , NP
 
 NPC BN 18 -076 (NPC 2018). Emphasis supplied.
 
-> 9
 
 Id.
 
-> 10
 
 Id.
 
-> 11
 
 Id.
 
-> 12
 
 Id.
 
-> 13
 
 Id.
 
-> 14
 
 Personal Data Breach Notification from Medicard Philippines, Inc., 23 May 2018, in In re: AIG
 
@@ -296,7 +278,6 @@ Shared Services – Business Processing Inc. and AIG Shared Services Corporation
 
 Services (ROHQ), and Medicard Philippines, Inc., NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018).
 
-> 15
 
 Id. NPC BN 18 -033 and NPC BN 18 -076
 
@@ -306,7 +287,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 07 August 2018, the NPC , through the Complaints and
 
@@ -356,7 +336,6 @@ result before sending it individually” to the six (6) employees. 23  The
 
 Medicard Alabang Officer, however, sent all the APE results to four (4)
 
-> 16
 
 Memorandum, 07 August 2018, in In re: AIG Shared Services – Business Processing Inc. and AIG
 
@@ -364,7 +343,6 @@ Shared Services Corporation - Management Services (ROHQ), and Medicard Philippin
 
 Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018).
 
-> 17
 
 Request for extension, 21 September 2018, in In re: AIG Shared Services – Business Processing
 
@@ -372,11 +350,9 @@ Inc. and AIG Shared Services Corporation - Management Services (ROHQ), and Medic
 
 Philippines, Inc. – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018).
 
-> 18
 
 Id.
 
-> 19
 
 Full Report, 28 September 2018, in In re: AIG Shared Services – Business Processing Inc. and AIG
 
@@ -384,19 +360,15 @@ Shared Services Corporation - Management Services (ROHQ), and Medicard Philippin
 
 Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018).
 
-> 20
 
 Id. at 1.
 
-> 21
 
 Id.
 
-> 22
 
 Id.
 
-> 23
 
 Id. NPC BN 18 -033 and NPC BN 18 -076
 
@@ -406,7 +378,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 out of the six ( 6) employees , instead of the iHub Medicard Nurse .24
 
@@ -420,7 +391,7 @@ employees reported the incident to the AIGSS Privacy Team .26  The
 
 Privacy Team then initiated a review of the incident and implemented
 
-“remediation measures to contain the breach .”27
+“remediation measures to contain the breach.”27
 
 The affected data subjects were five (5) employees of AIGSS –BPI and
 
@@ -452,11 +423,9 @@ incident .32  AIGSS explained that this was “because they were AIGSS
 
 employees at the time the incident occurred.” 33
 
-> 24
 
 Id. at 2.
 
-> 25
 
 Full Report, 28 September 2018, at 2, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -464,27 +433,21 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018).
 
-> 26
 
 Id.
 
-> 27
 
 Id.
 
-> 28
 
 Id.
 
-> 29
 
 Id. at 3.
 
-> 30
 
 Id.
 
-> 31
 
 Full Report, 28 September 2018, at 3, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -492,11 +455,9 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018).
 
-> 32
 
 Id. at 5.
 
-> 33
 
 Id. NPC BN 18 -033 and NPC BN 18 -076
 
@@ -506,7 +467,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 AIGSS also reported sending an email to Medicard on 13 March 2018
 
@@ -574,19 +534,15 @@ it was allowed to send the results to the employees since they
 
 need to submit it as part of the requirement for their health
 
-> 34
 
 Id. at 3.
 
-> 35
 
 Id.
 
-> 36
 
 Id. at 4.
 
-> 37
 
 Order , 13 January 2021 , in In re: AIG Shared Services – Business Processing Inc. and AIG Shared
 
@@ -600,7 +556,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 permit. She also voluntarily performed the duty of a Records
 
@@ -650,7 +605,6 @@ On 26 February 2021, the CID sent an other Order to AIGSS, directing
 
 it to submit a Full Report on the breach notification in 2018 .47
 
-> 38
 
 Full Report, 0 2 February 2021, at 2 -3, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -658,27 +612,21 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 20 21 ).
 
-> 39
 
 Id.
 
-> 40
 
 Id.
 
-> 41
 
 Id.
 
-> 42
 
 Id.
 
-> 43
 
 Id.
 
-> 44
 
 Full Report, 02 February 2021, in In re: AIG Shared Services – Business Processing Inc. and AIG
 
@@ -686,15 +634,12 @@ Shared Services Corporation - Management Services (ROHQ), and Medicard Philippin
 
 Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 20 21 ).
 
-> 45
 
 Id.
 
-> 46
 
 Id.
 
-> 47
 
 Order, 26 February 2021, in In re: AIG Shared Services – Business Processing Inc. and AIG Shared
 
@@ -708,7 +653,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 On 11 March 2021, AIGSS filed a Motion for Extension to submit its
 
@@ -744,15 +688,15 @@ the PIC of the affected data subjects. 51  It noted that the description of
 
 the Order dated 26 February 2021 stated the NPC was investigating
 
-“Possible Data Privacy Violations Committed by [AIGSS -BPI] and
+“Possible Data Privacy Violations Committed by [AIGSS-BPI] and
 
-[AIGSS -MS].” 52  AIGSS explained :
+[AIGSS-MS].” 52  AIGSS explained :
 
 We believe that any investigations which your good office wishes
 
 to conduct in this matter should not be directed at either AIGSS -
 
-BPI or AIGSS -MS as we were not the Personal Information
+BPI or AIGSS-MS as we were not the Personal Information
 
 Controllers of the personal information found in the results of the
 
@@ -770,7 +714,6 @@ be in the best position to provide you with the relevant
 
 information relating to this matter. 53
 
-> 48
 
 Motion for Extension , 11 March 2021 , in In re: AIG Shared Services – Business Processing Inc.
 
@@ -778,11 +721,9 @@ and AIG Shared Services Corporation - Management Services (ROHQ), and Medicard P
 
 – Festival Alabang Clinic , Inc., NPC BN 18 -033 and NPC BN 18 -076 (NPC 20 21 ).
 
-> 49
 
 Id. at 1.
 
-> 50
 
 Compliance, 29 March 2021, in In re: AIG Shared Services – Business Processing Inc. and AIG
 
@@ -790,15 +731,12 @@ Shared Services Corporation - Management Services (ROHQ), and Medicard Philippin
 
 Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 20 21 ).
 
-> 51
 
 Id. at 1.
 
-> 52
 
 Id.
 
-> 53
 
 Id. NPC BN 18 -033 and NPC BN 18 -076
 
@@ -808,13 +746,12 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 AIGSS then explained that “Medicard is a licensed healthcare provider
 
 and Health Maintenance Organization which offers Corporate Health
 
-Programs.” 54  AIGSS – MS and AIGSS -BPI participated in Medicard’s
+Programs.” 54  AIGSS – MS and AIGSS-BPI participated in Medicard’s
 
 Corporate Health Program “for the purposes of offering employees
 
@@ -822,7 +759,7 @@ medical benefits.” 55  As part of these medical benefits, employees were
 
 entitled to an annual physical examination. 56  According to AIGSS, “six
 
-(6) employees (5 from AIGSS -BPI and 1 from AIGSS -MS) attended one
+(6) employees (5 from AIGSS-BPI and 1 from AIGSS-MS) attended one
 
 of Medicard’s own free -standing clinics, the Medicard Alabang Clinic,
 
@@ -862,15 +799,12 @@ using, disclosing and processing the said personal information is
 
 entirely in the control of Medicard. Medicard provides the APE
 
-> 54
 
 Id.
 
-> 55
 
 Id.
 
-> 56
 
 Compliance, 29 March 2021, at 1 -2, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -878,27 +812,21 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 20 21 ).
 
-> 57
 
 Id. at 2.
 
-> 58
 
 Id. at 1 -2.
 
-> 59
 
 Id. at 2.
 
-> 60
 
 Id.
 
-> 61
 
 Id. at 1.
 
-> 62
 
 Compliance, 29 March 2021, at 2, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -912,11 +840,10 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
-results directly to the employees and not to either AIGSS -BPI or
+results directly to the employees and not to either AIGSS-BPI or
 
-AIGSS -MS. In the circumstances, Medicard was the Personal
+AIGSS-MS. In the circumstances, Medicard was the Personal
 
 Information Controller in respect of the personal information
 
@@ -928,7 +855,7 @@ disclosure.
 
 . . .
 
-7. As AIGSS -BPI and AIGSS -MS were aware of the matter, we
+7. As AIGSS-BPI and AIGSS-MS were aware of the matter, we
 
 informed your good office about the matter through our emails
 
@@ -942,18 +869,16 @@ pursuant to the Data Privacy Act of 2012 (“Privacy Act”) falls on
 
 Medicard as the Personal Information Controller which
 
-disclosed the APE results of the 6 employees and not AIGSS -BPI
+disclosed the APE results of the 6 employees and not AIGSS-BPI
 
-nor AIGSS -MS. 63
+nor AIGSS-MS. 63
 
-Issue
-
+### Issue
 Whether AIGSS and Medicard were able to sufficiently address the
 
 breach and to implement security measures to prevent its recurrence.
 
-Discussion
-
+### Discussion
 The Commission resolves to close the matter. The incident does not fall
 
 under mandatory breach notification under Section 11 of NPC Circular
@@ -976,7 +901,6 @@ processor that a personal data breach requiring notification has
 
 occurred, under the following conditions.
 
-> 63
 
 Id. NPC BN 18 -033 and NPC BN 18 -076
 
@@ -986,7 +910,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 A.  The personal data involves sensitive personal information or
 
@@ -1046,13 +969,11 @@ Officer include s the employees’ age , civil status , and medical
 
 information ,66  and Medicard ID number .67  These are considered
 
-> 64
 
 National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016
 
 [NPC Circ. No. 16 -03], § 11 (15 December 2016).
 
-> 65
 
 In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John
 
@@ -1062,7 +983,6 @@ https://privacy.gov.ph/wp -content/uploads/2023/05/NPC -SS -22 -001 -and -NPC -S
 
 2022.09.22 -In -re -Commission -on -Elections -Decision -Final.pdf (last accessed 02 August 2023).
 
-> 66
 
 Full Report, 28 September 2018, at 3, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -1070,7 +990,6 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018).
 
-> 67
 
 Id. at 3. NPC BN 18 -033 and NPC BN 18 -076
 
@@ -1080,7 +999,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 sensitive personal information under Section 3 (l) of Republic Act No.
 
@@ -1096,7 +1014,7 @@ including the grant of rights or benefits .”69  AIGSS stated that
 
 Organization which offers Corporate Health Programs.” 70  AIGSS –MS
 
-and AIGSS -BPI participated in Medicard’s Corporate Health Program
+and AIGSS-BPI participated in Medicard’s Corporate Health Program
 
 “for the purposes of offering employees medical benefits. ”71  Thi s,
 
@@ -1138,7 +1056,6 @@ The use of “dependents” and “benefit/claim” in Clause 7 shows that ,
 
 apart from providing medical examinations for  Occupational Health
 
-> 68
 
 See An Act Protecting Individual Personal Information in Information and Communications
 
@@ -1148,11 +1065,9 @@ Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act N o.
 
 (2012).
 
-> 69
 
 NPC Circ. No. 16 -03, § 11 (A).
 
-> 70
 
 Compliance, 29 March 2021, at 1, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -1160,11 +1075,9 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 20 21 ).
 
-> 71
 
 Id. at 1.
 
-> 72
 
 Full Report, 02 February 2021, in In re: AIG Shared Services – Business Processing Inc. and AIG
 
@@ -1178,7 +1091,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Permit requirements , the Agreement between Medicard and AIGSS
 
@@ -1228,19 +1140,15 @@ not the Medicard Alabang Officer, to “encrypt and password protect
 
 each APE result before sending it individually” to the six (6)
 
-> 73
 
 Id.
 
-> 74
 
 Id. at 2 -3.
 
-> 75
 
 NPC BN 20 -158, 21 September 2020, at 5 (NPC 2020) (unreported).
 
-> 76
 
 Full Report, 28 September 2018, at 2, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -1248,7 +1156,6 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 NPC BN 18 -033 and NPC BN 18 -076 (NPC 20 18 ).
 
-> 77
 
 Personal Data Breach Notification from Medicard Philippines, Inc., 23 May 2018, in In re: AIG
 
@@ -1256,7 +1163,6 @@ Shared Services – Business Processing Inc. and AIG Shared Services Corporation
 
 Services (ROHQ), and Medicard Philippines, Inc., NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018).
 
-> 78
 
 Full Report, 02 February 2021, at 2 -3, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -1270,7 +1176,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 employees. 79  The Medicard Alabang Officer, however, voluntarily
 
@@ -1296,7 +1201,7 @@ sufficient to form a reasonable belief for the PIC. 83
 
 Nonetheless, the third requisite is not present due to the security
 
-measures that AIGSS implemented after the breach .
+measures that AIGSS implemented after the breach.
 
 The Commission takes this opportunity to discuss the factors
 
@@ -1322,7 +1227,6 @@ C.  The personal information controller or the Commission
 
 believes that the unauthorized acquisition is likely to give
 
-> 79
 
 Full Report, 28 September 2018, at 1, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -1330,11 +1234,9 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018).
 
-> 80
 
 Id. at 2.
 
-> 81
 
 Compliance, 29 March 2021, Annex 3, in In re: AIG Shared Services – Business Processing Inc.
 
@@ -1342,11 +1244,9 @@ and AIG Shared Services Corporation - Management Services (ROHQ), and Medicard P
 
 Inc. – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 20 21 ).
 
-> 82
 
 Id.
 
-> 83
 
 NPC BN 20 -158, 21 September 2020, at 5 (NPC 2020) (unreported). NPC BN 18 -033 and NPC BN 18 -076
 
@@ -1356,7 +1256,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 rise to a real risk of serious harm to any affected data
 
@@ -1406,23 +1305,18 @@ send the results to the iHub Medicard Nurse ,90  as shown in the
 
 Medicard Alabang Officer’s explanation in the breach’s email thread .91
 
-> 84
 
 NPC Circ. No. 16 -03, § 11.
 
-> 85
 
 NPC BN 17 -028 and NPC BN 18 -180, 11 May 2023, at 8 (NPC 20 23 ) (unreported) .
 
-> 86
 
 Id.
 
-> 87
 
 Id.
 
-> 88
 
 Full Report, 28 September 2018, at 2, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -1430,7 +1324,6 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018).
 
-> 89
 
 Compliance, 29 March 2021, Annex 3, in In re: AIG Shared Services – Business Processing Inc.
 
@@ -1438,7 +1331,6 @@ and AIG Shared Services Corporation - Management Services (ROHQ), and Medicard P
 
 Inc. – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 20 21 ).
 
-> 90
 
 Full Report, 28 September 2018, at 1, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -1446,7 +1338,6 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018).
 
-> 91
 
 Personal Data Breach Notification from Medicard Philippines, Inc., 23 May 2018, in In re: AIG
 
@@ -1462,7 +1353,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 Thus, the objective of the unauthorized acquisition was not for
 
@@ -1516,7 +1406,6 @@ personal information were inadvertently sent by a Medicard
 
 employee to unauthorized recipients last March 9, 2018.
 
-> 92
 
 Compliance, 29 March 2021, at 1 -2, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -1524,11 +1413,9 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 20 21 ).
 
-> 93
 
 Id. Annex 5 -A to 5 -D.
 
-> 94
 
 Full Report, 28 September 2018, at 2, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -1536,15 +1423,12 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018).
 
-> 95
 
 Id.
 
-> 96
 
 Id. at 3.
 
-> 97
 
 Id. at 5. NPC BN 18 -033 and NPC BN 18 -076
 
@@ -1554,7 +1438,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 You may get your own APE results in the attachment then delete
 
@@ -1620,7 +1503,6 @@ be limited to:
 
 2.  personal data possibly involved;
 
-> 98
 
 Compliance, 29 March 2021, Annex 5 -A to 5 -D, in In re: AIG Shared Services – Business
 
@@ -1630,7 +1512,6 @@ Medicard Philippines, Inc. – Festival Alabang Clinic , NPC BN 18 -033 and NPC 
 
 20 21 ).
 
-> 99
 
 Id. NPC BN 18 -033 and NPC BN 18 -076
 
@@ -1640,7 +1521,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 3.  measures taken to address the breach;
 
@@ -1714,11 +1594,9 @@ subjects can exercise their rights and obtain more detailed
 
 information relating to the breach. 101
 
-> 100
 
 NPC Circ. No. 16 -03, § 18 (C).
 
-> 101
 
 Id. § 18 (D). NPC BN 18 -033 and NPC BN 18 -076
 
@@ -1728,7 +1606,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 The notification sent to affected data subjects must contain sufficient
 
@@ -1790,14 +1667,8 @@ by Medicard at its Alabang clinic by Medicard’s doctors, nurses ,
 
 and staff based on their professional knowledge, skill , and
 
-expertise. AIGSS -MS and AIGSS -BPI naturally ha no input into
+expertise. AIGSS-MS and AIGSS-BPI naturally ha no input into
 
-> 102 NPC BN 18 -198, 23 September 2021, at 4 (NPC 20 21 ) (unreported).
-> 103 NPC Circ. No. 16 -03 ,§ 18 (D).
-> 104 Id.
-> 105 Id. § 18 (C) -(D) .
-> 106 NPC BN 18 -198, 23 September 2021, at 4 (NPC 20 21 ) (unreported).
-> 107 NPC Circ. No. 16 -03, § 18 (D).
 
 NPC BN 18 -033 and NPC BN 18 -076
 
@@ -1807,7 +1678,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 the conduct of such physical examinations. The purposes for
 
@@ -1821,9 +1691,9 @@ and processing the said personal information is entirely in the
 
 control of Medicard. Medicard provides the APE results
 
-directly to the employees and not to either AIGSS -BPI or
+directly to the employees and not to either AIGSS-BPI or
 
-AIGSS -MS. In the circumstances, Medicard was the Personal
+AIGSS-MS. In the circumstances, Medicard was the Personal
 
 Information Controller in respe ct of the personal information
 
@@ -1881,7 +1751,6 @@ processes the ir personal information to provide health insurance
 
 coverage. Moreover, it was Medicard’s own personnel that
 
-> 108
 
 Compliance, 29 March 2021, at 2 , in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -1889,7 +1758,6 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 20 21 ). Emphasis supplied.
 
-> 109
 
 Full Report, 02 February 2021, in In re: AIG Shared Services – Business Processing Inc. and AIG
 
@@ -1897,7 +1765,6 @@ Shared Services Corporation - Management Services (ROHQ), and Medicard Philippin
 
 Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 20 21 ).
 
-> 110
 
 Id. Emphasis supplied. NPC BN 18 -033 and NPC BN 18 -076
 
@@ -1907,7 +1774,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 inadvertently sent the APE results to the four (4) AIGSS employees,
 
@@ -1961,11 +1827,10 @@ informing it of the incident as early as 13 March 2018 .114  Instead,
 
 Medicard sent a notification to the NPC only on 23 March 2018,
 
-fourteen (14) days after the breach .115  Even worse, there is no showing
+fourteen (14) days after the breach.115  Even worse, there is no showing
 
 that Medicard made any effort to notify the data subjects.
 
-> 111
 
 Full Report, 28 September 2018, at 1, in In re: AIG Shared Services – Business Processing Inc. and
 
@@ -1973,7 +1838,6 @@ AIG Shared Services Corporation - Management Services (ROHQ), and Medicard Phili
 
 – Festival Alabang Clinic , NPC BN 18 -033 and NPC BN 18 -076 (NPC 2018).
 
-> 112
 
 Personal Data Breach Notification from Medicard Philippines, Inc., 23 May 2018, in In re: AIG
 
@@ -1983,15 +1847,12 @@ Services (ROHQ), and Medicard Philippines, Inc. – Festival Alabang Clinic , NP
 
 NPC BN 18 -076 (NPC 2018). Emphasis supplied.
 
-> 113
 
 Id. Emphasis supplied.
 
-> 114
 
 Id.
 
-> 115
 
 Id. NPC BN 18 -033 and NPC BN 18 -076
 
@@ -2001,7 +1862,6 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 The Commission sternly reminds Medicard that although it was
 
@@ -2025,7 +1885,7 @@ notification is an essential obligation of a PIC ,119 and Medicard utterly
 
 failed to fulfill such obligation in this case.
 
-WHEREFORE, premises considered, this Commission resolves that
+**WHEREFORE**, premises considered, this Commission resolves that
 
 the matter of NPC BN 18 -033 In re: AIG Shared Services – Business
 
@@ -2033,9 +1893,9 @@ Processing Inc. and AIG Shared Services Corporation – Management
 
 Services (ROHQ) (AIGSS) , and NPC BN 18 -076 In re: Medicard
 
-Philippines, Inc. – Festival Alabang Clinic (Medicard) is CLOSED.
+Philippines, Inc. – Festival Alabang Clinic (Medicard) is **CLOSED**.
 
-The Commission DIRECTS the C ompliance and Monitoring Division
+The Commission **DIRECTS** the C ompliance and Monitoring Division
 
 (CMD) to conduct a Compliance Check on the sufficiency of
 
@@ -2043,7 +1903,7 @@ Medicard ’s security measures involved in the processing of personal
 
 data .
 
-SO ORDERED.
+**SO ORDERED**.
 
 City of Pasay, Philippines .
 
@@ -2055,7 +1915,6 @@ LEANDRO ANGELO Y. AGUIRRE
 
 Deputy Privacy Commissioner
 
-> 116
 
 Resolution, NPC BN 20 -149 In re: National Privacy Commission 20 August 2020 , at 6 (NPC 202 0)
 
@@ -2063,15 +1922,12 @@ available at https://www.privacy.gov.ph/wp -content/uploads/2022/01/Resolution -
 
 149 -In -re -NPC.pdf (last accessed 02 August 2023) .
 
-> 117
 
 NPC Circ. No. 16 -03, § 18 (D).
 
-> 118
 
 Id.
 
-> 119
 
 Order, NPC BN 21 -035, 01 June 2021, at 4 (NPC 2021) (unreported). NPC BN 18 -033 and NPC BN 18 -076
 
@@ -2081,11 +1937,8 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
-> 5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307
 
 WE CONCUR:
-
-Sgd.
 
 JOHN HENRY D. NAGA
 

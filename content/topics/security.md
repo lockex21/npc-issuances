@@ -7,7 +7,7 @@ draft: false
 Auto-generated topic cluster for **Security**.
 
 ## Related Issuances
-- [[issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
+- [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
 - [[issuances/undated/security-of-personal-data-in-government-agencies|Security of Personal Data in Government Agencies]]
 - [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Rules on the Issuance of Cease and Desist Orders]]
 - [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]]

@@ -65,15 +65,15 @@ and enter your Member ID and date of birth.
 
 We sincerely apologize that this has happened, and we want to assure you, as our valued member, that we have taken steps to prevent a recurrence of the incident. Also, the company has been in close coordination with the National Privacy Commission (NPC) to address this.
 
-Should you have clarifications, feel free to reach us by mail at privacy@medicardphils.com.[^4]
+Should you have clarifications, feel free to reach us by mail at privacy@medicard.phils.com.[^4]
 
 On 15 March 2022, MediCard submitted screenshots of its webpage posting and its e-mail notifications.[^5]
 
 In relation to the e-mail notifications, MediCard submitted its Compliance dated 15 March 2022 and 25 May 2022. Along with the 25 May 2022 Compliance are the sworn affidavits of FC and JM, the persons responsible for notifying the affected data subjects through e-mail.
 
-In Mr. FC's affidavit, he attested that on 09 March 2022, the e-mail notification was sent via the email address, privacy@medicardphils.com, with the subject: MANDATORY PERSONAL DATA BREACH NOTIFICATION to a total of three hundred (300) data subjects following the required e-mail settings: (a) request a read receipt and (b) request a delivery receipt.[^6] He was able to send the e-mail notification to the three hundred (300) e-mail addresses and the delivery receipts provided were "Delivery to these recipients or groups is complete, but no delivery notification was sent by the destination server."[^7] Among the three hundred (300) email notifications, three (3) were not delivered due to "E-mail wasn't found at gmail.com", "E-mail address you entered could not be found", and "Your message could not be delivered."[^8] Despite repeated attempts to contact the recipients email system, it did not respond.[^9]
+In Mr. FC's affidavit, he attested that on 09 March 2022, the e-mail notification was sent via the email address, privacy@medicard.phils.com, with the subject: MANDATORY PERSONAL DATA BREACH NOTIFICATION to a total of three hundred (300) data subjects following the required e-mail settings: (a) request a read receipt and (b) request a delivery receipt.[^6] He was able to send the e-mail notification to the three hundred (300) e-mail addresses and the delivery receipts provided were "Delivery to these recipients or groups is complete, but no delivery notification was sent by the destination server."[^7] Among the three hundred (300) email notifications, three (3) were not delivered due to "E-mail wasn't found at gmail.com", "E-mail address you entered could not be found", and "Your message could not be delivered."[^8] Despite repeated attempts to contact the recipients email system, it did not respond.[^9]
 
-While in Ms. JM's affidavit, she attested that on 09 March 2022, she sent an e-mail notification with subject: Mandatory Personal Data Breach Notification to a total of three hundred and one (301) data subjects via the email address, privacy@medicardphils.com.[^10] She was able to send the e-mail notifications to the three hundred and one (301) e-mail addresses.[^11] Some of the delivery receipts stated, "Delivery to these recipients or groups is complete, but no delivery notification was sent by the destination server," while only five (5) have "read receipts".[^12] Among the three hundred one (301) e-mail notifications, six (6) were identified as "Undeliverable" and with a "Failure Notice" due to "E-mail wasn't found at gmail.com" and "Delivery has failed to these recipients or groups".[^13]
+While in Ms. JM's affidavit, she attested that on 09 March 2022, she sent an e-mail notification with subject: Mandatory Personal Data Breach Notification to a total of three hundred and one (301) data subjects via the email address, privacy@medicard.phils.com.[^10] She was able to send the e-mail notifications to the three hundred and one (301) e-mail addresses.[^11] Some of the delivery receipts stated, "Delivery to these recipients or groups is complete, but no delivery notification was sent by the destination server," while only five (5) have "read receipts".[^12] Among the three hundred one (301) e-mail notifications, six (6) were identified as "Undeliverable" and with a "Failure Notice" due to "E-mail wasn't found at gmail.com" and "Delivery has failed to these recipients or groups".[^13]
 
 Medicard was able to successfully deliver five hundred ninety-two (592) e-mail notifications out of the total six hundred and one (601) e-mail addresses available to it. Nine (9) e-mail addresses available were not delivered for reasons: "E-mail wasn't found at gmail.com", "E-mail address you entered could not be found", "Your message could not be delivered", and "Delivery has failed to these recipients or groups".
 
@@ -122,7 +122,7 @@ The Commission notes that MediCard has already posted the notification on its of
 
 **SO ORDERED.**
 
-Pasay City, Philippines;
+Pasay City, Philippines.
 14 July 2022.
 
 JOHN HENRY D. NAGA

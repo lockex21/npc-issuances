@@ -92,10 +92,6 @@ comply with all the requirements of the DPA and other applicable laws.
 
 One of the guarantees of the Data Privacy Act is the protection of the rights of data subjects. Under
 the DPA, the data subject is entitled to the right of reasonable access to contents of his or her
-
-2 Data Privacy Act of 2012, § 3 (h).
-3 Id, § 3 (i).
-
 personal information that have been processed. In this case, this involves ensuring that patients
 can exercise their right to access medical information relating to them.
 
@@ -142,4 +138,4 @@ Officer-In-Charge
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^2]: Data Privacy Act of 2012, § 3 (h).
-[^3]: *Id.* § 3 (i).
+[^3]: *Id.*, § 3 (i).

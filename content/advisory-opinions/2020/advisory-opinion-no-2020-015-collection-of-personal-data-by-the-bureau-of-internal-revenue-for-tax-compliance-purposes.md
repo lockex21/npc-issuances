@@ -42,10 +42,7 @@ You further stated in your letter that the BIR requested for assistance from the
 Foreign Affairs (DFA) in the course of its investigation and verification of the Filipino employees’
 compliance with the RMC. In particular, the BIR asked the DFA to obtain the list of names and
 the corresponding TINs of the locally hired employees of the foreign missions, citing Sections 4
-and 19 of the Data Privacy Act of 20122 (DPA) as legal bases for the request. Despite the foregoing,
-
-Republic Act No. 10173 (2012).
-
+and 19 of the Data Privacy Act of 2012[^2] (DPA) as legal bases for the request. Despite the foregoing,
 some of the embassies still refused to cooperate and claimed that the information being requested
 is sensitive and protected.
 
@@ -79,7 +76,7 @@ functions of a public authority, to wit:
          requirements of implementing security measures for personal data protection: Provided
          further, that the processing of the information provided in the preceding paragraphs shall
          be exempted from the requirements of the Act only to the minimum extent necessary to
-         achieve the specific purpose, function, or activity.”3 (Underscoring supplied)
+         achieve the specific purpose, function, or activity.”[^3] (Underscoring supplied)
 
 Based on the above, information necessary to carry out regulatory functions of a public authority,
 in accordance with a constitutional or statutory mandate, are outside the scope of the DPA. This
@@ -93,12 +90,9 @@ exemption, however, is to be strictly construed:
 2. Only the specified information is outside the scope of the DPA. The public authority remains
    subject to its obligations as a personal information controller (PIC) under the DPA of
    implementing security measures to protect personal data, upholding the rights of data
-   subjects, and adhering to data privacy principles.4
+   subjects, and adhering to data privacy principles.[^4]
 
-3 Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) (2016).
-
-Public authority; regulatory mandate; limitations
-on data subjects’ rights
+#### Public Authority; Regulatory Mandate; Limitations on Data Subjects’ Rights
 
 The BIR is a public authority tasked with the duty to, among others, ensure compliance with the
 NIRC, as amended, and other relevant tax laws and issuances. Under Section 5 of the NIRC, as
@@ -138,17 +132,15 @@ appropriate in the circumstances and as may be determined by the BIR.
 
 We note that there may be some limitations with respect to the rights of the data subjects where
 the processing of personal data is for the purpose of investigations in relation to any tax liabilities
-of the data subject.5
+of the data subject.[^5]
 
 Nonetheless, in all other cases, the BIR is expected to uphold and have mechanisms in place for
 the exercise of these rights.
 
-5 Data Privacy Act of 2012, § 19.
-
 We reiterate that the DPA is not meant to prevent government agencies from processing personal
 data when necessary to fulfill their mandates. Rather, the law aims to protect the right to data
 privacy while ensuring free flow of information. It promotes fair, secure, and lawful processing
-of such information.6
+of such information.[^6]
 
 This opinion is based on the information you have provided. Additional information may change
 the context of the inquiry and the appreciation of the facts.
@@ -160,3 +152,15 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 
 Privacy Commissioner and Chairman
+
+[^1]: Tags: scope; special cases; public authority; lawful processing; foreign diplomatic missions.
+
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+
+[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) (2016).
+
+[^4]: See: National Privacy Commission, NPC Advisory Opinion No. 2019-022 (May 7, 2019).
+
+[^5]: Data Privacy Act of 2012, § 19.
+
+[^6]: See: National Privacy Commission, NPC Advisory Opinion No. 2018-083 (Oct. 29, 2018).

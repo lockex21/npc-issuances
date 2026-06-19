@@ -106,13 +106,13 @@ documentary requirements, viz:
 
    5.a For new applicants' accreditation:
                                5.a.1 Letter Request;
-                               5.a.[^2] Copy of Credited Redemption Insurance;
-                               5.a.[^3] Updated Audited Financial Statements;
-                               5.a.[^4] Summary list of PNP borrowers-members which includes Billing
+                               5.a.2 Copy of Credited Redemption Insurance;
+                               5.a.3 Updated Audited Financial Statements;
+                               5.a.4 Summary list of PNP borrowers-members which includes Billing
                                Reports containing therein are Schedule of Computations of Loans such
                                as Principal amount, date of loan granted, mode of payment/terms,
                                interest and other charges, effectivity of 1st billing, and maturity;
-                               5.a.[^5] Copy of the Loan Release Vouchers, Promissory Note/Policy
+                               5.a.5 Copy of the Loan Release Vouchers, Promissory Note/Policy
                                Contract signed by PNP members;
                                5.a.6 List of Planholders (for insurance company), which includes
                                amount of premium, effectivity, and maturity date of policy contract;
@@ -133,7 +133,7 @@ the consent of the data subjects, as the disclosure is not based on consent, but
 more appropriate lawful basis for processing, i.e., legal obligation, fulfillment of the functions
 of public authority, or due to a particular regulation which the PSSLAI must comply with.
 
-General data privacy principles
+#### General data privacy principles
 
 However, as a personal information controller (PIC), the PSSLAI has the duty to inform its
 data subjects as to the nature, extent, and purpose of such disclosure pursuant to the principle
@@ -153,8 +153,7 @@ Purposes [Department of the Interior and Local Government Act of 1990], Republic
 
 requirements to evaluate if the disclosure is proportional to the purpose of the accreditation.
 
-Revised Non-Stock Savings Loan Association Act
-of 1997; nature of loan records; deposits definition
+#### Revised Non-Stock Savings Loan Association Act of 1997; nature of loan records; deposits definition
 
 Another point raised in the letter is that if the PSSLAI will submit to the PNP the summary
 list and other details, the PSSLAI may run the risk of violating bank secrecy laws. We note

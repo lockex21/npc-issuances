@@ -15,10 +15,9 @@
     "title_corrected": "2026-03-25T20:00:00Z"
   },
   "advisory-opinion-no-2024-004-advisory-opinion-no-2024-004.md": {
-    "notes": "Batch processed - cleaned markdown structure",
-    "processed_at": "2026-03-25T01:00:00Z",
     "status": "done",
-    "title_corrected": "2026-03-25T20:00:00Z"
+    "timestamp": "2026-04-07T16:35:00Z",
+    "note": "Added issue date to Source section; removed leading whitespace from date and Re: line; removed malformed colon artifact; fixed subheading capitalization (accountability, not Accountability); extracted embedded footnotes (9-10) from middle of list and corrected their definitions; fixed list item indentation"
   },
   "advisory-opinion-no-2024-005-advisory-opinion-no-2024-005.md": {
     "status": "done",
@@ -60,10 +59,9 @@
     "title_corrected": "2026-03-25T20:00:00Z"
   },
   "advisory-opinion-no-2024-012-advisory-opinion-no-2024-012-tirol-law-right-to-inspect-corporate-records-redacted.md": {
-    "cleanup_pass": "full_structural_cleanup",
     "status": "done",
-    "timestamp": "2026-03-25T03:10:10.352365Z",
-    "title_corrected": "2026-03-25T20:00:00Z"
+    "timestamp": "2026-04-07T16:45:00Z",
+    "note": "Fixed missing Section heading; converted space-indented conditions to bullet list; restored bold formatting on quoted text (PDF-driven); promoted bare section title to #### heading; consolidated all 19 footnotes to end of file with complete definitions; fixed signature block formatting with bold name and italic title; verified YAML frontmatter valid"
   },
   "advisory-opinion-no-2024-013-advisory-opinion-no-2024-013-sgd-redacted.md": {
     "cleanup_pass": "full_structural_cleanup",
@@ -79,8 +77,10 @@
   },
   "advisory-opinion-no-2024-015-advisory-opinion-no-2024-015-draft-advisory-opinion-no-2024-015-personal-data-audit-purposes-sgd-redacted.md": {
     "status": "done",
-    "timestamp": "2026-03-25T03:10:10.352365Z",
-    "title_corrected": "2026-03-25T08:52:15.311921+00:00"
+    "timestamp": "2026-04-07T17:05:00Z",
+    "title_corrected": "2026-03-25T08:52:15.311921+00:00",
+    "final_cleanup": "2026-04-07T17:05:00Z",
+    "note": "Fixed bare footnote callouts (2, 3, 4, 5, 6, 7 → [^N] format); converted inline footnotes scattered in body to consolidated markdown [^N]: definitions at end; removed OCR-injected footnote references from body text; converted quoted statute sections to blockquote format with bold headers; added italic formatting to statute terms and 'any' per PDF; removed space-indented footnote text from body; restored proper paragraph flow across page breaks"
   },
   "advisory-opinion-no-2024-016-npc-advisory-opinion-no-2024-016-disclosure-of-personal-data-pursuant-to-a-mo-by-the-bir-sgd-redacted.md": {
     "status": "done",
@@ -100,7 +100,9 @@
   },
   "advisory-opinion-no-2024-019-npc-advisory-opinion-no-2024-019.md": {
     "status": "done",
-    "timestamp": "2026-03-25T03:10:10.352365Z",
-    "title_corrected": "2026-03-25T08:52:15.311921+00:00"
+    "timestamp": "2026-04-07T16:50:00Z",
+    "title_corrected": "2026-03-25T08:52:15.311921+00:00",
+    "final_cleanup": "2026-04-07T16:50:00Z",
+    "note": "Fixed bare footnote callout (;2 → ,[^2]); converted inline footnote callouts (5, 7, 8) to markdown [^N] format; removed OCR-injected footnote text from body (lines 49-53); consolidated all 5 footnotes at end of file with complete definitions; removed stray footnote citations from end of body text"
   }
 }

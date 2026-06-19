@@ -1,9 +1,9 @@
 ---
-title: "NPC CN 19-501: MEC v. Robocash Finance Corporation"
+title: "NPC 19-501: MEC v. Robocash Finance Corporation"
 description: "Complaint alleging unlawful calling and texting of phone contact list for loan collection; dismissed for failure to substantiate allegations."
 aliases:
-  - "NPC CN 19-501"
-  - "npc cn 19-501"
+  - "NPC 19-501"
+  - "npc 19-501"
   - "MEC v. Robocash Finance Corporation"
   - "mec v. robocash finance corporation"
 tags:
@@ -46,7 +46,7 @@ NAGA, D.P.C.:
 
 This is a complaint filed by MEC (Complainant) against Robocash Finance Corporation (Respondent) for violation of her rights under the Data Privacy Act (DPA).
 
-### The Facts
+### Facts
 
 On 02 April 2019, Complainant obtained a loan from Respondent in the amount of Php5,500.00. When Complainant failed to follow through on her payment, she found out that the Respondent had been calling and sending text messages to her phone contact list. Complainant also avers that the Respondent threatened to file a case in small claims court against her. Lastly, Complainant said that the acts of Respondent made her feel anxious, embarrassed, and depressed causing her to file the instant complaint before the Commission.
 
@@ -64,6 +64,10 @@ Respondent also averred that Complainant failed to exhaust available remedies an
 
 Finally, the Respondent emphasized that the Complainant’s bare allegations, which were unsubstantiated by any evidence, were insufficient to constitute proof that the Respondent violated the data privacy rights of the Complainant.
 
+### Issue
+
+Now, on the main issue on whether the Respondent violated the data privacy rights of the Complainant.
+
 ### Discussion
 
 Before going to the main issue of the case, this Commission deems it proper to discuss a procedural matter that was raised in the Respondent’s responsive comment, specifically on the requirement to exhaust administrative remedies as provided in Section 4 (a) of NPC Circular 16-04.[^1]
@@ -71,8 +75,6 @@ Before going to the main issue of the case, this Commission deems it proper to d
 The Respondent argued that the Complainant failed to exhaust remedies by going straight to this Commission without notifying the Respondent on the alleged data privacy violation committed by them against her. Such action they argued prevented the Respondent to take appropriate measures to address the concerns of the Complainant. The Respondent then concluded that this should cause the outright dismissal of the Complaint.
 
 While the intention of the abovementioned provision is to promote settlement of data privacy disputes between Personal Information Controller (PIC) or the concerned entity and the data subject before going through the formal procedures in this Commission, the Respondent herein must be reminded that the Commission may waive any and all of the requirements of Section 4 at its discretion, upon good cause shown, or if the complaint involves a serious violation or breach of the Data Privacy Act.[^2] Thus, this Commission deems it proper to adjudicate on the substantial issues of this case.
-
-Now, on the main issue on whether the Respondent violated the data privacy rights of the Complainant.
 
 This Commission finds that the Complainant failed to provide sufficient information to substantiate the allegations made in her complaint.
 

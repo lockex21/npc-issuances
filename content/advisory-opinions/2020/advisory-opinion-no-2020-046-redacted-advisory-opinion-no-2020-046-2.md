@@ -25,7 +25,7 @@ Dear [Redacted],
 
 We write in response to your request for an Advisory Opinion received by the National
 Privacy Commission (NPC) to provide clarification and guidance on school practices during
-this time of COVID-19 pandemic vis-à-vis the provisions of the Data Privacy Act of 20122
+this time of COVID-19 pandemic vis-à-vis the provisions of the Data Privacy Act of 2012[^2]
 (DPA). The following are your inquiries and our corresponding responses:
 
 ### Discussion
@@ -44,19 +44,10 @@ ask if the above situations are not allowed under DPA, can it be remedied if suc
 expressed in the Student Handbook, or in the enrolment form upon their enrolment (in a form
 of consent and disclosure)?
 
-Sensitive personal information; education; lawful
-processing
+#### Sensitive personal information; education; lawful processing
 
 Under the DPA, information about an individual’s education is categorized as sensitive
-personal information,3 the processing of which is generally prohibited unless covered by the
-
-personal information; data subject rights
-2 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Republic Act No. 10173 (2012).
-3 Data Privacy Act of 2012, § 3 (l).
-
-criteria set forth under Section 13 of the law and other existing laws, rules and regulations.
+personal information,[^3] the processing of which is generally prohibited unless covered by the criteria set forth under Section 13 of the law and other existing laws, rules and regulations.
 
 Apart from the student’s name, the data set enumerated included in the class roster, i.e.
 student’s school name, grade level, section and test scores, are considered sensitive personal
@@ -109,7 +100,7 @@ If there are no existing rules and regulations on the matter issued by the relev
 agencies, the school should obtain the students’ or their legal guardians’, in case the students
 are minors, consent.
 
-NPC Advisory Opinion No. 2018-0204 on the “Posting of the List of Admitted Students in
+NPC Advisory Opinion No. 2018-020[^4] on the “Posting of the List of Admitted Students in
 Bulletin Board of the School” is not applicable to the case at hand as the situation
 contemplated in the advisory opinion was limited to the posting of the names of entrance
 exam passers. Names are classified as personal information, the processing of which may be
@@ -141,8 +132,7 @@ may include educational, promotional, school community information regarding the
 school’s online classes, etc. If otherwise not allowed, can the same be remedied if such an act
 is clearly expressed in the Student Handbook?
 
-Social media posting; photos of online classes;
-photos of children
+#### Social media posting; photos of online classes; photos of children
 
 Under the DPA, an individual’s name and photo are generally categorized as personal
 information, and the posting on social media of the same should be grounded upon a lawful
@@ -173,7 +163,7 @@ duties and responsibilities of teachers and other school personnel, as well as r
 themselves.
 
 Even stakeholders have identified the issues surrounding the use of social media in education.
-We quote herein the Data Privacy and Online Learning Advisory 5 from the Data Privacy
+We quote herein the Data Privacy and Online Learning Advisory[^5] from the Data Privacy
 Council Education Sector, a stakeholders group working closely with the National Privacy
 Commission:
 
@@ -205,17 +195,11 @@ personal use.
 
 We wish to emphasize that processing operations performed about vulnerable data subjects
 like minors or in any other case where an imbalance exists in the relationship between a data
-subject and a personal information controller or personal information processor, 6 require
+subject and a personal information controller or personal information processor,[^6] require
 
-5 Data Privacy Council Education Sector, Advisory No. 2020-1 - Data Privacy and Online Learning, available at
-
-https://www.privacy.gov.ph/wp-content/uploads/2020/10/DP-Council-Education-Sector-Advisory-No.-2020-1.pdf, p. 5-6
-(last accessed 9 Nov 2020).
-6 NPC Circular 17-01, §5(c)(3).
-
-special protection.7 Note that “children merit specific protection with regard to their personal
+special protection.[^7] Note that “children merit specific protection with regard to their personal
 data, as they may be less aware of the risks, consequences and safeguards concerned and their
-rights in relation to the processing of personal data.”8
+rights in relation to the processing of personal data.”[^8]
 
 3. On posting of the list of students’ awards, recognition of students’ achievements/results during
    school-related competitions and representation, and scholarship grant qualifiers
@@ -242,7 +226,7 @@ participation/involvement in school-related or sponsored activities or programs 
 school’s official website, in the school’s official social media accounts, and/or in the school’s
 promotional or publication materials (brochures, videos, school paper, etc.) is allowed.
 
-Policies; other considerations; data subject rights
+#### Policies; other considerations; data subject rights
 
 We note that the participation or involvement by a student in school-related or sponsored
 activities and programs may be shown through different ways. The evaluation on whether
@@ -256,20 +240,7 @@ considered as sensitive personal information, Section 13 would then apply.
 
 The school would have to make the determination of the most appropriate lawful basis for
 processing, taking into account all relevant circumstances of the processing, adherence to the
-general data privacy principles of transparency, legitimate purpose, and proportionality, as
-
-7 Article 29 Data Protection Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and determining
-
-whether processing is “likely to result in a high risk” for the purposes of Regulation 2016/679, Item III (B)(a)(7), 4 April
-2017.
-8 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural
-
-persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive
-95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Recital 38 (4 May
-2016).
-
-well as the students’ reasonable expectation of privacy and the impact on their rights and
-freedoms.
+general data privacy principles of transparency, legitimate purpose, and proportionality, as well as the students’ reasonable expectation of privacy and the impact on their rights and freedoms.
 
 In all cases, schools must have mechanisms in place whereby the students, by himself/herself
 or through their parent or legal guardian, would be able to exercise his/her rights as a data
@@ -285,7 +256,7 @@ community bulletin board (usually near the Cashier/Treasurer’s Office) is allo
 otherwise, can the same be remedied if such an act is clearly expressed in the Student
 Handbook?
 
-Proportionality
+#### Proportionality
 
 The principle of proportionality dictates that the least privacy-intrusive means of processing
 should be chosen, if available. In this case, sending of notices by the school of the amounts
@@ -302,3 +273,17 @@ Very truly yours,
 
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
+
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+
+[^3]: Data Privacy Act of 2012, § 3 (l).
+
+[^4]: National Privacy Commission, NPC Advisory Opinion No. 2018-020 (Apr. 18, 2018).
+
+[^5]: Data Privacy Council Education Sector, Advisory No. 2020-1 - Data Privacy and Online Learning, available at https://www.privacy.gov.ph/wp-content/uploads/2020/10/DP-Council-Education-Sector-Advisory-No.-2020-1.pdf, p. 5-6 (last accessed 9 Nov 2020).
+
+[^6]: NPC Circular 17-01, §5(c)(3).
+
+[^7]: Article 29 Data Protection Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is "likely to result in a high risk" for the purposes of Regulation 2016/679, Item III (B)(a)(7), 4 April 2017.
+
+[^8]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Recital 38 (4 May 2016).

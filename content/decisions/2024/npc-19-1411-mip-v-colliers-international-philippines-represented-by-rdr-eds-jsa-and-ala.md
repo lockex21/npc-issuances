@@ -1,13 +1,19 @@
 ---
 title: 'NPC 19-1411: MIP v. Colliers International Philippines'
 description: Complaint alleging unauthorized processing and disclosure of personal
-  data including CCTV footage by property management company and individual managers;
-  partially granted.
+ data including CCTV footage by property management company and individual managers;
+ dismissed for lack of merit.
 tags:
 - decision
 - type/decision
 - year/2019
 - npc-case
+- Legitimate Interest (Section 12 (f))
+- Transparency
+- Other tags
+- Unauthorized Processing (Section 25)
+- Unauthorized Disclosure (Section 32)
+- Fairness
 draft: false
 aliases:
 - NPC 19-1411
@@ -16,7 +22,6 @@ aliases:
 - mip v. colliers international philippines
 date: '2024-03-21'
 ---
-
 ## Source
 - Reference: NPC 19-1411
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/04/NPC-19-1411-2024.03.21-MIP-v.-Colliers-International-Philippines.pdf
@@ -40,11 +45,9 @@ Complainant,
 
 -versus-
 
-COLLIERS INTERNATIONAL
+COLLIERS INTERNATIONAL PHILIPPINES represented by
 
-PHILIPPINES represented by
-
-RDR , EDS , JSA , and ALA .
+RDR, EDS, JSA, and ALA .
 
 Respondent.
 
@@ -56,15 +59,14 @@ Before this Commission is a Complaint filed by MIP (Complainant)
 
 against Colliers International Philippines (Colliers), represented by
 
-RDR , EDS , JSA and ALA for alleged violation s of Republic Act No.
+RDR , EDS , JSA and ALA for alleged violations of Republic Act No.
 
 10173 or the Data Privacy Act of 2012 (DPA).
 
-Facts
-
+### Facts
 MIP is a current and active paying member of Ultima Residences
 
-Condo minium Corporation (URCC). 1 Colliers International
+Condominium Corporation (URCC). 1 Colliers International
 
 Philippines (Colliers) has been the property manager of URCC since
 
@@ -72,46 +74,30 @@ January 2018. 2 According to Colliers, it does not manage URCC since
 
 URCC is managed by its own Board of Directors (BOD) .3 Meanwhile,
 
-respondents EDS , ALA , and JSA are former property managers of
+respondents EDS, ALA, and JSA are former property managers of
 
 Colliers. 4
 
-> 1
-
-Affidavit/Complaint, 19 September 2019, at 1, in MIP v. Colliers International Philippines, NPC
-
-19 -1411 (NPC 2019).
-
-> 2
+Affidavit/Complaint, 19 September 2019, at 1, in MIP v. Colliers International Philippines, NPC 19-1411 (NPC 2019).
 
 Id.
 
-> 3
-
-Verified Comment, 03 June 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411
+Verified Comment, 03 June 2022, at 1, in MIP v. Colliers International Philippines, NPC 19-1411
 
 (NPC 20 22 ).
 
-> 4
-
 Email from ARV to NPC Complaints and Investigation Division (CID), 16 May 2022, in MIP v.
 
-Colliers International Philippines, NPC 19 -1411 (NPC 20 22 ).
-
-NPC 19 -1411
-
-For: Violation of the
+Colliers International Philippines, NPC 19-1411 (NPC 20 22 ).
 
 Data Privacy Act of
 
-2012 NPC 19 -1411
+2012 NPC 19-1411
 
-> MIP v. Colliers International Philippines
-> Page 2of 36
 
 On 19 September 2019, MIP filed his Affidavit/Complaint against
 
-Colliers, EDS , ALA , and JSA for alleged violation of Sections 25, 31,
+Colliers, EDS, ALA, and JSA for alleged violation of Sections 25, 31,
 
 32, and 33 of the DPA. 5
 
@@ -139,7 +125,7 @@ when it disclosed closed -circuit television ( CCTV ) recordings of him
 
 during a URCC special meeting. 10
 
-On 02 October 2018, UR CC held a special meeting where it played
+On 02 October 2018, URCC held a special meeting where it played
 
 two (2) CCTV recordings showing MIP .11 The first video showed
 
@@ -158,20 +144,6 @@ Management Office (PMO) informed MIP that its security team
 spotted MIP “twisting the CCTV units from its original position
 
 facing [our] common hallways to a different angle opposite the
-
-> 5Affidavit/Complaint, 19 September 2019, at 1, in MIP v. Colliers International Philippines, NPC
-> 19 -1411 (NPC 2019).
-> 6Id.
-> 7Id. at 2.
-> 8Id.
-> 9Id.
-> 10 Id. at 3.
-> 11 Affidavit/Complaint, 19 September 2019, at 2, in MIP v. Colliers International Philippines, NPC
-> 19 -1411 (NPC 2019).
-> 12 Id.
-> 13 Id.
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -195,7 +167,7 @@ personal information.” 17
 
 MIP also claimed that EDS and ALA “conspired” to violate the
 
-DPA. 18 MIP narrated that on 04 July 2018, SP, a member of the BOD,
+DPA. 18 MIP narrated that on 04 2018, SP, a member of the BOD,
 
 emailed EDS and ALA stating:
 
@@ -205,7 +177,7 @@ culprits in action. Let’s print and post violators in the bulletin
 
 and show the clip during the general assembly. 19
 
-On 02 May 2022, the National Privacy Commission (NPC) , through
+On 02 2022, the National Privacy Commission (NPC) , through
 
 its Complaints and Investigation Division (CID) , issued an Order (To
 
@@ -213,30 +185,13 @@ File Verified Comment and Appear Virtually for Preliminary
 
 Conference). 20 In the Order, the preliminary conference s were set for
 
-07 June 2022 and 05 July 2022. 21
+07 June 2022 and 05 2022. 21
 
 On 16 May 2022, Colliers sent a letter requesting a n extension of
 
-fifteen (15) day s to file its comment to give them “ample time to
+fifteen (15) days to file its comment to give them “ample time to
 
 review the documents and evidence [they have ] on file.” 22 Collier s
-
-> 14 Verified Comment, 03 June 2022, at 5, in MIP v. Colliers International Philippines, NPC 19 -1411
-> (NPC 2022).
-> 15 Id. ;Letter from Russel S. Pernites to MIP , 19 February 2019, at 2, in MIP v. Colliers International
-> Philippines, NPC 19 -1411 (NPC 2019).
-> 16 Affidavit/Complaint, 19 September 2019, at 2, in MIP v. Colliers International Philippines, NPC
-> 19 -1411 (NPC 2019).
-> 17 Id.
-> 18 Id.
-> 19 Id.
-> 20 Order (To File Verified Comment and Appear Virtually for Preliminary Conference), 02 May
-> 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22 ).
-> 21 Id.
-> 22 Email from ARV to National Privacy Commission, 1 7May 2022, at 1, in MIP v. Colliers
-> International Philippines, NPC 19 -1411 (NPC 20 22 ).
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -244,7 +199,7 @@ also manifested that EDS , JSA , and ALA are no longer connected with
 
 Colliers. 23
 
-On 17 May 2022, Colliers filed a Motion for Extension of Time to File
+On 17 2022, Colliers filed a Motion for Extension of Time to File
 
 a Verified Comment. 24 Colliers alleged that it has yet to engage the
 
@@ -283,25 +238,6 @@ beyond the NP C’s jurisdiction. 33 Further, Colliers stated that URCC
 instructed the collection of personal data from people entering the
 
 property to ensure the safety and security of its unit owners .34
-
-> 23 Id.
-> 24 Motion for Extension of Time to File Verified Comment, 17 May 2022, at 1, in MIP v. Colliers
-> International Philippines, NPC 19 -1411 (NPC 20 22) .
-> 25 Id.
-> 26 Id.
-> 27 Order (Granting the Request for Extension and the Motion for Extension of Time to File
-> Verif ied Comment), 20 May 2022, at 1, 17 May 2022, at 1, in MIP v. Colliers International
-> Philippines, NPC 19 -1411 (NPC 20 22).
-> 28 Id.
-> 29 Verified Comment, 03 June 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411
-> (NPC 20 22).
-> 30 Id.
-> 31 Id. at 2.
-> 32 Id.
-> 33 Id.
-> 34 Id. NPC 19 -1411
-> MIP v. Colliers International Philippines
-> Page 5of 36
 
 According to Colliers, the condominium is not a public property so
 
@@ -347,7 +283,7 @@ Section s 31 and 32 of the DPA by “planning to authorize data
 
 processing” is untenable. 42
 
-According to Colliers , the letter of URCC’s legal counsel dated 19
+According to Colliers the letter of URCC’s legal counsel dated 19
 
 February 2019 to MIP shows the “root cause ” of the issu e.”43 In the
 
@@ -358,21 +294,6 @@ CCTV footage was presented, MIP “fabricated a lie against the
 Colliers’ PMO staff.” 44 URCC explained that MIP made
 
 unsubstantiated claims against Colliers’ staff members that they
-
-> 35 Verified Comment, 03 June 2022, at 2, in MIP v. Colliers International Philippines, NPC 19 -1411
-> (NPC 20 22).
-> 36 Id. Annex 3.
-> 37 Id.
-> 38 Id. at 3.
-> 39 Id.
-> 40 Id.
-> 41 Verified Comment, 03 June 2022, at 3, in MIP v. Colliers International Philippines, NPC 19 -1411
-> (NPC 20 22).
-> 42 Id.
-> 43 Id. Annex 4.
-> 44 Id.
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -436,17 +357,6 @@ truth. It was only then that Colliers showed it, not to discredit
 
 you personally, but to bring out the truth of the matter. 51
 
-> 45 Id.
-> 46 Id.
-> 47 Verified Comment, 03 June 2022, Annex 4, in MIP v. Colliers International Philippines, NPC 19 -
-> 1411 (NPC 2022).
-> 48 Id. at 5.
-> 49 Id. at 6.
-> 50 Id. at 5.
-> 51 Id. Annex 4.
-
-NPC 19 -1411
-
 MIP v. Colliers International Philippines
 
 In its Verified Comment, Colliers stated that an investigation was
@@ -479,7 +389,7 @@ Given the foregoing, Colliers prayed that the complaint be dismissed
 
 for utter lack of merit. 55
 
-On 0 6 June 2022, Colliers filed an Urgent Motion for Resetting dated
+On 0 6 2022, Colliers filed an Urgent Motion for Resetting dated
 
 03 June 2022 .56 Colliers alleged that its counsel was already scheduled
 
@@ -496,23 +406,6 @@ Resetting ” dated 06 June 2022 .58
 In his Reply, MIP alleged that Colliers ’ Verified Comment was based
 
 on hearsay and had no first -hand witness or verification document .59
-
-> 52 Id. at 5.
-> 53 Verified Comment, 03 June 2022, at 5, in MIP v. Colliers International Philippines, NPC 19 -1411
-> (NPC 2022).
-> 54 Letter from Russel S. Pernites to MIP , 19 February 2019, at 5, in MIP v. Colliers International
-> Philippines, NPC 19 -1411 (NPC 2019).
-> 55 Verified Comment, 03 June 2022, at 7, in MIP v. Colliers International Philippines, NPC 19 -1411
-> (NPC 2022).
-> 56 Urgent Motion for Resetting, 06 June 2022, at 1, in MIP v. Colliers International Philippines,
-> NPC 19 -1411 (NPC 2022).
-> 57 Id. at 2.
-> 58 Reply to Defendant’s Verified Comment & Objection to Defendants “Urgent Motion for
-> Resetting,” 06 June 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC
-> 20 22 ).
-> 59 Id at 2.
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -554,44 +447,25 @@ employees “maliciously displayed” his “private data” during a
 
 public meeting. 66
 
-MIP also objected to Colliers’ Urgent Motion for Resetting dated 03
-
-June 2022, arguing that it was intended to delay the proceedings. 67
+MIP also objected to Colliers’ Urgent Motion for Resetting dated 03 June 2022, arguing that it was intended to delay the proceedings. 67
 
 On 07 June 2022, the CID issued an Order (Granting the
 
 Respondent’s Urgent Motion for Resetting and Resetting the 1st
 
-Preliminary Conference from 07 June 2022 to 05 July 2022) .68 The first
+Preliminary Conference from 07 June 2022 to 05 2022) .68 The first
 
-preliminary conference was reset to 05 July 2022. 69
-
-> 60 Id. at 3.
-> 61 Id.
-> 62 Id.
-> 63 Id. at 4.
-> 64 Reply to Defendant’s Verified Comment & Objection to Defendants “Urgent Motion for
-> Resetting,” 06 June 2022, at 4, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC
-> 2022).
-> 65 Id.
-> 66 Id.
-> 67 Id. at 6.
-> 68 Order (Granting the Respondent’s Urgent Motion for Resetting and Resetting the 1st
-> Preliminary Conference from 07 June 2022 to 05 July 2022, 07 June 2022, at 1, in MIP v. Colliers
-> International Philippines, NPC 19 -1411 (NPC 20 22 ).
-> 69 Id.
-
-NPC 19 -1411
+preliminary conference was reset to 05 2022. 69
 
 MIP v. Colliers International Philippines
 
-On 08 June 2022, the CID issued an Order (Noting the Complainant’s
+On 08 2022, the CID issued an Order (Noting the Complainant’s
 
 Reply to Defendants Verified Comment & Objection to Defendant’s
 
 “Urgent Motion for Resetting” ).70
 
-On 05 July 2022, both parties attended the first Preliminary
+On 05 2022, both parties attended the first Preliminary
 
 Conference. 71 Colliers’ counsel manifested that pursuant to A.M. No.
 
@@ -607,7 +481,7 @@ Conference was reset to a third schedule on 23 August 2022 to give
 
 Colliers time to file the motion .74
 
-On 06 July 2022, Colliers filed an Omnibus Motion praying that MIP
+On 06 June 2022, Colliers filed an Omnibus Motion praying that MIP
 
 be directed to disclose his location:
 
@@ -643,20 +517,6 @@ the filing the required motion to conduct the videoconferencing
 
 at his end at an embassy or consulate of the Philippines. 75
 
-> 70 Order (Noting the Complainant’s Reply to Defendants Verified Comment & Objection to
-> Defendant’s “Urgent Motion for Resetting), 08 June 2022, at 1, in MIP v. Colliers International
-> Philippines, NPC 19 -1411 (NPC 20 22 ).
-> 71 Order (After the 1st Preliminary Conference held on 05 July 2022 and Submission of
-> Respondent’s Motion), 05 July 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -
-> 1411 (NPC 20 22).
-> 72 Id.
-> 73 Id. at 2.
-> 74 Id.
-> 75 Omnibus Motion, 06 July 2022, at 3, in MIP v. Colliers International Philippines, NPC 19 -1411
-> (NPC 20 22).
-
-NPC 19 -1411
-
 MIP v. Colliers International Philippines
 
 On the same day, MIP filed an Objection to Respondents Omnibus
@@ -667,9 +527,9 @@ does not apply to administrative hearings , and that Colliers filed the
 
 motion in bad faith .77
 
-On 19 July 2022, the CID issued a Resolution (of Respondent's
+On 19 2022, the CID issued a Resolution (of Respondent's
 
-Omnibus Motion dated 06 July 2022 ).78 The CID resolved that parties
+Omnibus Motion dated 06 June 2022 ).78 The CID resolved that parties
 
 are required to disclose their location pursuant to NPC Advisory
 
@@ -705,21 +565,6 @@ misconduct in the management of URCC ;
 
 it was inefficient, incapable, and a "Board of Deflectors" ;
 
-> 76 Objection to Respondents Omnibus Motion, 06 July 2022, at 1, in MIP v. Colliers International
-> Philippines, NPC 19 -1411 (NPC 20 22)
-> 77 Id.
-> 78 Resolution of Respondent’s Omnibus Motion dated 06 July 2022, at 1, in MIP v. Colliers
-> International Philippines, NPC 19 -1411 (NPC 20 22).
-> 79 Id. at 2.
-> 80 Motion for Discovery of Evidence, 05 August 2022, at 1, in MIP v. Colliers International
-> Philippines, NPC 19 -1411 (NPC 20 22).
-> 81 Id.
-> 82 Order (After the 2nd Preliminary Conference held on 23 August 2022 and Requiring the Parties
-> to Submit a Filled -Out Application for Mediation Form), 23 August 2022, at 1, in MIP v. Colliers
-> International Philippines, NPC 19 -1411 (NPC 20 22).
-
-NPC 19 -1411
-
 MIP v. Colliers International Philippines
 
 5. There was a brawl between MIP and another URCC
@@ -732,7 +577,7 @@ and
 
 cameras without the consent of the PM O.83
 
-Colliers , on the other hand, admitted that :
+Colliers on the other hand, admitted that :
 
 1. EDS , JSA , ALA were its employees at the time of the acts
 
@@ -748,9 +593,7 @@ and
 
 requested from Colliers .84
 
-On 06 September 2022, the CID issued an Order to Mediate dated 20
-
-September 2022. 85 The CID also issued a n Order (On the Error in the
+On 06 June 2022, the CID issued an Order to Mediate dated 20 May 2022. 85 The CID also issued a n Order (On the Error in the
 
 Caption of the Orders issued after the Preliminary Conference). 86
 
@@ -775,20 +618,6 @@ Item No. 4: Minutes, meetings, records and CCTV clips of an
 alleged plan to post data of other URCC owners including
 
 complainant
-
-> 83 Id.
-> 84 Id.
-> 85 Order to Mediate, 06 September 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -
-> 1411 (NPC 20 22).
-> 86 Order (On the Error in the Caption of the Orders issued after the Preliminary Conference) , 06
-> September 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22 ).
-> 87 Notice of Non -Settlement of Dispute , 25 October 2022, at 1, in MIP v. Colliers International
-> Philippines, NPC 19 -1411 (NPC 20 22) .
-> 88 Resolution (Partially Granting the Motion for Discovery of Evidence dated 05 August 2022,
-> Lifting the Suspension of Complaints Proceedings), 17 November 2022, at 1, in MIP v. Colliers
-> International Philippines, NPC 19 -1411 (NPC 20 22) .
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -820,7 +649,7 @@ on 03 January 2019 at 8:00 PM and 04 January 2019 between 8:00
 
 AM to 2:00 PM. 89
 
-On 1 6 December 2022, Colliers filed a Manifestation (on the Directive
+On 1 6 2022, Colliers filed a Manifestation (on the Directive
 
 of Producing Certain Files and Document Sought in MIP 's Motion for
 
@@ -830,9 +659,9 @@ the documents requested do not belong to Colliers and , thus, cannot
 
 be procured ; and that it has no copies of the CCTV footage .91
 
-On 17 December 2022, Colliers filed its Respondent's Memorandum
+On 17 2022, Colliers filed its Respondent's Memorandum
 
-dated 16 December 2022. 92 Colliers reiterated the arguments raised in
+dated 16 May 2022. 92 Colliers reiterated the arguments raised in
 
 the Verified Comment dated 03 June 2022. 93
 
@@ -846,23 +675,9 @@ defenses should be disregarded for lack of witnesses, lack of
 
 evidence, and for being hearsay. 95
 
-> 89 Id. at 6.
-> 90 Manifestation (On the Directive of Producing Certain Files and Documents Sought In
-> Complainant’s Motion for Discovery of Evidence dated 05 August 2022), 16 December 2022, at 1,
-> in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22).
-> 91 Id.
-> 92 Respondent’s Memorandum, 17 December 2022, at 1, in MIP v. Colliers International
-> Philippines, NPC 19 -1411 (NPC 20 22).
-> 93 Id.
-> 94 Complainants Memorandum, 17 December 2022, at 1, in MIP v. Colliers International
-> Philippines, NPC 19 -1411 (NPC 20 22).
-> 95 Id.
-
-NPC 19 -1411
-
 MIP v. Colliers International Philippines
 
-On 20 December 2022, the CID issued an Order (Noting the
+On 20 May 2022, the CID issued an Order (Noting the
 
 Respondent's Memorandum and Manifestation (On the Directive of
 
@@ -880,7 +695,7 @@ In the submission , MIP stated that he was “filing a statement” against
 
 URCC , another URCC owner and member. 98 MIP manifested that
 
-URCC , through Colliers , asked his guest to pay a n entrance fee for a
+URCC , through Colliers asked his guest to pay a n entrance fee for a
 
 Move -In Form before the guest could move in .99 The form required
 
@@ -908,33 +723,13 @@ MIP narrated that this caused him sleepless nights and extreme
 
 anxiety. 105 MIP prays that Colliers be liable for Sections 21, 32, and 33
 
-> 96 Order (Noting the Respondent’s Memorandum and Manifestation (On the Directive of
-> Producing Certain Files and Documents Sought in Complainant’s Motion for Discovery of
-> Evidence dated 05 August 2022) and Complainants Memorandum, 20 December 2022, at 1, in
-> MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22).
-> 97 Manifestation of Privacy Abuses, 13 January 2022, at 1, in MIP v. Colliers International
-> Philippines, NPC 19 -1411 (NPC 20 22).
-> 98 Id.
-> 99 Id.
-> 100 Id.
-> 101 Id.
-> 102 Id.
-> 103 Manifestation of Privacy Abuses, 13 January 2022, at 1, in MIP v. Colliers International
-> Philippines, NPC 19 -1411 (NPC 2022).
-> 104 Id.
-> 105 Affidavit/Complaint, 19 September 2019, at 5, in MIP v. Colliers International Philippines,
-> NPC 19 -1411 (NPC 2019).
-
-NPC 19 -1411
-
 MIP v. Colliers International Philippines
 
 of the DPA as well as “punitive damages, moral damages and as legal
 
 fees or as the Commission sees fit. ”106
 
-Issue
-
+### Issue
 I. Whether Colliers has a legitimate interest in the processing of
 
 the personal information of URCC unit owners and their
@@ -949,8 +744,7 @@ Disclosure), and Section 33 (Combination or Series of Acts) of
 
 the DPA.
 
-Discussion
-
+### Discussion
 I. Colliers’ processing of personal information had lawful basis
 
 under Section 12 (f) of the DPA.
@@ -986,14 +780,6 @@ disclosed , except where such interests are overridden by
 fundamental rights and freedoms of the data subject which
 
 require protection under the Philippine Constitution. 107
-
-> 106 Id.
-> 107 An Act Protecting Individual Personal Information in Information and Communications
-> Systems in the Government and the Private Sector, Creating for this purpose a National Privacy
-> Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 12 (f)
-> (2012).
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -1052,16 +838,6 @@ named in the form will be allowed to enter or have access to the unit
 and the common areas of the condominium. 112
 
 Section 3 (g) of the DPA defines personal information:
-
-> 108 Affidavit/Complaint, 19 September 2019, at 2, in MIP v. Colliers International Philippines,
-> NPC 19 -1411 (NPC 2019).
-> 109 Id. at 2 -3.
-> 110 Verified Comment, 03 June 2022, at 3, in MIP v. Colliers International Philippines, NPC 19 -
-> 1411 (NPC 2022).
-> 111 Id. at 2.
-> 112 Id.
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -1129,12 +905,6 @@ performed upon personal information including, but not
 
 limited to, the collection, recording, organization, storage,
 
-> 113 Data Privacy Act of 2012, § 3 (g).
-> 114 Verified Comment, 03 June 2022, Annex 3, in MIP v. Colliers International Philippines, NPC
-> 19 -1411 (NPC 20 22 ).
-
-NPC 19 -1411
-
 MIP v. Colliers International Philippines
 
 updating or modification, retrieval, consultation, use,
@@ -1192,19 +962,6 @@ the PIC must comply with the general privacy principles of (1)
 legitimate purpose and (2) transparency. 122
 
 Section 11 of the DPA discusses legitimate purpose as follows:
-
-> 115 Data Privacy Act of 2012, § 3 (j).
-> 116 Verified Comment, 03 June 2022, at 2, in MIP v. Colliers International Philippines, NPC 19 -
-> 1411 (NPC 2022).
-> 117 Id.
-> 118 Id.
-> 119 Data Privacy Act of 2012, § 12 (f).
-> 120 Id.
-> 121 See National Privacy Commission, Guidelines on Legitimate Interest, NPC Circular No. 2023 -
-> 07 [NPC Circ. No. 2023 -07], § 5 (13 December 2023).
-> 122 See Id.
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -1268,13 +1025,6 @@ of processing must be specified; and (2) that purpose must not be
 
 contrary to law, morals, or public policy. 125
 
-> 123 Data Privacy Act of 2012, § §11 (a) &(e) .Emphasis supplied.
-> 124 National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of
-> 2012, Republic Act No. 10173, rule IV, § 18 (b) (2016) .Emphasis supplied.
-> 125 Id.
-
-NPC 19 -1411
-
 MIP v. Colliers International Philippines
 
 The first element of legitimate purpose requires that there should be
@@ -1330,22 +1080,6 @@ of the condominium property. 131 The Commission previously held
 that maintaining the security of the premises and tenants of a
 
 building is a legitimate interest. 132 Maintaining logbooks that contain
-
-> 126 See NPC Circ. No. 2023 -07, § 5.
-> 127 Spouses MCD and JJD v. Victorias Milling Company, et al., NPC 19 -758 and 19 -1846, 30 June
-> 2023, at 21 ,available at https://privacy.gov.ph/wp -content/uploads/2024/05/NPC -19 -758 -to -
-> NPC -19 -1846 -2023.06.30 -MCD -_-JJD -v-Victorias -Milling -Company -et -al -Decision -FinalP.pdf (last
-> accessed 31 May 2024).
-> 128 See NPC Circ. No. 2023 -07, § 5.
-> 129 See Id.
-> 130 Verified Comment, 03 June 2022, Annex 2, in MIP v. Colliers International Philippines, NPC
-> 19 -1411 (NPC 20 22 ). Emphasis supplied.
-> 131 Id. at 2.
-> 132 MNLC, INC. v. PXXX Corporation, RCM, and AD, NPC Case No. 19 -528, 23 February 2021, at
-> 22, available at https://privacy.gov.ph/wp -content/uploads/2023/05/Decision_NPC -19 -528 -
-> MNLC -v. -PXXX -Corporation.pdf (last accessed 31 May 2024).
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -1406,17 +1140,6 @@ He nce , the processing through disclosure of the CCTV footage is for a
 specified purpose , and it was not contrary to law, morals, or public
 
 policy .
-
-> 133 Verified Comment, 03 June 2022, at 3, in MIP v. Colliers International Philippines, NPC 19 -
-> 1411 (NPC 20 22 ).
-> 134 Letter from Russel S. Pernites to MIP , 19 February 2019, at 2, in MIP v. Colliers International
-> Philippines, NPC 19 -1411 (NPC 2019).
-> 135 Id.
-> 136 Verified Comment, 03 June 2022, at 3, in MIP v. Colliers International Philippines, NPC 19 -
-> 1411 (NPC 2022).
-> 137 Id.
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -1480,15 +1203,6 @@ address the allegations of misconduct and poor work performance in
 
 MIP ’s email. 142
 
-> 138 Data Privacy Act of 2012, § 11 (a).
-> 139 Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 18 (a).
-> 140 Id. Emphasis supplied.
-> 141 Verified Comment, 03 June 2022, Annex 2, in MIP v. Colliers International Philippines, NPC
-> 19 -1411 (NPC 2022).
-> 142 Id. Annex 4.
-
-NPC 19 -1411
-
 MIP v. Colliers International Philippines
 
 Since Colliers communicated its specific purpose for processing the
@@ -1544,18 +1258,6 @@ principles of transparency, legitimate purpose and
 proportionality.
 
 Personal information must, be:
-
-> 143 Spouses MCD and JJD v. Victorias Milling Company, et al., NPC 19 -758 and 19 -1846, 30 June
-> 2023, at 2 2, available at https://privacy.gov.ph/wp -content/uploads/2024/05/NPC -19 -758 -to -
-> NPC -19 -1846 -2023.06.30 -MCD -_-JJD -v-Victorias -Milling -Company -et -al -Decision -FinalP.pdf (last
-> accessed 31 May 2024).
-> 144 Data Privacy Act of 2012, § 11 (b) , (c), & (d).
-> 145 EA and TA v. EJ, EE, and HC, NPC 17 -018, 15 July 2019, at 10, available at
-> https://privacy.gov.ph/wp -content/uploads/2023/05/NPC -17 -018 -EA -and -TA -v-EJ -Decision -
-> 2019.07.15 -.pdf, (last accessed 31 May 2024).
-> 146 Data Privacy Act of 2012, § §11 (c) &(d).
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -1616,16 +1318,6 @@ by Colliers .
 As previously established, the BOD of URCC required and instructed
 
 Colliers to collect the personal information of persons entering the
-
-> 147 Id.
-> 148 Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 18 (c). Emphasis
-> supplied.
-> 149 See NPC Circ. No. 2023 -07 ,§6; Spouses MCD and JJD v. Victorias Milling Company, et al.,
-> NPC 19 -758 and 19 -1846, 30 June 2023, at 24, available at https://privacy.gov.ph/wp -
-> content/uploads/2024/05/NPC -19 -758 -to -NPC -19 -1846 -2023.06.30 -MCD -_-JJD -v-Victorias -
-> Milling -Company -et -al -Decision -FinalP.pdf (last accessed 31 May 2024).
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -1689,16 +1381,6 @@ truth. It was only then that Colliers showed it, not to discredit
 
 you personally, but to bring out the truth of the matter. 154
 
-> 150 Verified Comment, 03 June 2022, at 3, in MIP v. Colliers International Philippines, NPC 19 -
-> 1411 (NPC 2019).
-> 151 Id.
-> 152 Id. Annex 3.
-> 153 Affidavit/Complaint, 19 September 2019, at 2, in MIP v. Colliers International Philippines,
-> NPC 19 -1411 (NPC 2019).
-> 154 Verified Comment, 03 June 2022, at 4, in MIP v. Colliers International Philippines, NPC 19 -
-> 1411 (NPC 20 22). NPC 19 -1411
-> MIP v. Colliers International Philippines
-
 In that instance, Colliers disclose d the footage to all those present at
 
 the special meeting because it was necessary and relevant to the
@@ -1759,13 +1441,6 @@ instructions of the URCC BOD falls within its duty as property
 
 manager.
 
-> 155 Id.
-> 156 See NPC Circ. No. 2023 -07, § 4.
-> 157 See Id.
-> 158 Data Privacy Act of 2012, § 11 (b). Emphasis supplied.
-
-NPC 19 -1411
-
 MIP v. Colliers International Philippines
 
 As for Colliers’ disclosure of the CCTV footage, it was intended to
@@ -1821,16 +1496,6 @@ In determining the impact of the PIC’s processing based on legitimate
 interest, aside from the categories of personal information that are
 
 processed, the Commission considers the general privacy principle of
-
-> 159 See NPC Circ. No. 2023 -07 ,§§ 4& 7 .
-> 160 Id. §7.
-> 161 Spouses MCD and JJD v. Victorias Milling Company, et al., NPC 19 -758 and 19 -1846, 30 June
-> 2023, at 2 7, available at https://privacy.gov.ph/wp -content/uploads/2024/05/NPC -19 -758 -to -
-> NPC -19 -1846 -2023.06.30 -MCD -_-JJD -v-Victorias -Milling -Company -et -al -Decision -FinalP.pdf (last
-> accessed 31 May 2024).
-> 162 See NPC Circ. No. 2023 -07 ,§§ 4 & 7 .
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -1902,11 +1567,6 @@ and limited to what is necessary in relation to the
 
 purposes for which they are processed.
 
-> 163 Data Privacy Act of 2012 ,§ 11 (b) ;See Rules and Regulations Implementing the Data Privacy
-> Act of 2012, rule IV, § 19 (b).
-> 164 Data Privacy Act of 2012, § 11 (b). Emphasis supplied NPC 19 -1411
-> MIP v. Colliers International Philippines
-
 5. Processing shall be undertaken in a manner that ensures
 
 appropriate privacy and security safeguards .165
@@ -1975,10 +1635,6 @@ legitimate interest in processing by collecting the personal
 
 information of tenants and visitors, and by disclosing the CCTV
 
-> 165 Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 19 (b). Emphasis
-> supplied. NPC 19 -1411
-> MIP v. Colliers International Philippines
-
 footage showing MIP . Both acts of processing were lawfully
 
 conducted and necessary , and neither overrode the fundamental
@@ -2043,7 +1699,7 @@ A. Colliers is not liable under Section 25 of the DPA
 
 Section 25 of the DPA on Unauthorized Processing of Personal and
 
-Sensitive Personal Information provides: NPC 19 -1411
+Sensitive Personal Information provides: NPC 19-1411
 
 MIP v. Colliers International Philippines
 
@@ -2114,13 +1770,6 @@ information when it recorded and disclosed the CCTV footage of him
 during the special meeting. Thus, the first and second elements are
 
 present.
-
-> 166 Data Privacy Act of 2012, § 25.
-> 167 VVC v. CJB, NPC 19 -134, 10 December 2021, at 12, available at https://privacy.gov.ph/wp -
-> content/uploads/2023/05/NPC -19 -134 -VVC -v. -CJB -Decision -2021.12.10.pdf (last accessed 31
-> May 2024).
-
-NPC 19 -1411
 
 MIP v. Colliers International Philippines
 
@@ -2198,11 +1847,6 @@ less than Five hundred thousand pesos (Php500,000.00) but not
 
 more than One million pesos (Php1,000,000.00) .169
 
-> 168 Data Privacy Act of 2012 ,§ 32.
-> 169 Id. § 31 .
-
-NPC 19 -1411
-
 MIP v. Colliers International Philippines
 
 The following requisites must concur for there to be a finding of
@@ -2265,17 +1909,6 @@ disclosure was not malicious nor done in bad faith and the
 
 information disclosed is not unwarranted or false information.
 
-> 170 RLA v. PLDT Enterprise, NPC 18 -010, 10 December 2021 ,available at
-> https://privacy.gov.ph/wp -content/uploads/2023/05/02 -
-> NPC_18_010_RLA_v_PLDT_Enterprise_Resolution_w_Dissenting_Opinion.pdf (last accessed 31
-> May 2024).
-> 171 Data Privacy Act of 2012 ,§ 31.
-> 172 MVC v. DSL, RRB v. DSL, NMB v. DSL, RMP v. DSL, NDL v. DSL, and MBN v. DSL, NPC 21 -
-> 010, NPC 21 -011, NPC 21 -012, NPC 21 -013, NPC 21 -014, and NPC 21 -015, 03 February 2022, at 11,
-> available at https://privacy.gov.ph/wp -content/uploads/2024/06/NPC -21 -010 -to -NPC -21 -015 -
-> 2022.02.03 -Decision -FinalP.pdf (last accessed 31 May 2024). NPC 19 -1411
-> MIP v. Colliers International Philippines
-
 Given that the disclosure was not malicious nor done in bad faith and
 
 the information disclosed is not unwarranted or false information , the
@@ -2333,9 +1966,6 @@ personal information processor;
 3. The information relates to personal or sensitive personal
 
 information;
-
-> 173 Data Privacy Act of 2012, § 25. NPC 19 -1411
-> MIP v. Colliers International Philippines
 
 4. The perpetrator disclosed the personal or sensitive personal
 
@@ -2403,13 +2033,6 @@ JSA , and ALA liable for violating Section 25 (Unauthorized
 
 Processing) and Section 32 (Unauthorized Disclosure) of the DPA.
 
-> 174 Id. § 32.
-> 175 ECV v. CVF, NPC 18 -074, 17 March 2024, at 10, available at https://privacy.gov.ph/wp -
-> content/uploads/2023/05/NPC -18 -074_ECV -v. -CVF_Decision_17 -March -2022.pdf (last access ed
-> 31 May 2024) .
-> 176 Data Privacy Act of 2012, § 32. NPC 19 -1411
-> MIP v. Colliers International Philippines
-
 Consequently, they are also not liable under Section 33 (Combination
 
 or Series of Acts) of the DPA.
@@ -2418,7 +2041,7 @@ WHEREFORE, premises considered, this Commission resolves that
 
 the instant Complaint filed by MIP against Colliers International
 
-Philippines (Colliers) represented by RDR , EDS , JSA , and ALA is
+Philippines (Colliers) represented by RDR, EDS, JSA, and ALA is
 
 hereby DISMISSED for lack of merit.
 
@@ -2458,7 +2081,7 @@ Copy furnished:
 
 MIP
 
-Complainant NPC 19 -1411
+Complainant NPC 19-1411
 
 MIP v. Colliers International Philippines
 
@@ -2471,3 +2094,41 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
+
+
+
+[^1]: 
+[^2]: 
+[^3]: 
+[^4]: 
+[^5]: Affidavit/Complaint, 19 September 2019, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2019). 6Id. 7Id. at 2. 8Id. 9Id. 10 Id. at 3. 11 Affidavit/Complaint, 19 September 2019, at 2, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2019). 12 Id. 13 Id.
+[^14]: Verified Comment, 03 June 2022, at 5, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2022). 15 Id. ;Letter from Russel S. Pernites to MIP , 19 February 2019, at 2, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2019). 16 Affidavit/Complaint, 19 September 2019, at 2, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2019). 17 Id. 18 Id. 19 Id. 20 Order (To File Verified Comment and Appear Virtually for Preliminary Conference), 02 May 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22 ). 21 Id. 22 Email from ARV to National Privacy Commission, 1 7May 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22 ).
+[^35]: Verified Comment, 03 June 2022, at 2, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22). 36 Id. Annex 3. 37 Id. 38 Id. at 3. 39 Id. 40 Id. 41 Verified Comment, 03 June 2022, at 3, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22). 42 Id. 43 Id. Annex 4. 44 Id.
+[^45]: Id. 46 Id. 47 Verified Comment, 03 June 2022, Annex 4, in MIP v. Colliers International Philippines, NPC 19 - 1411 (NPC 2022). 48 Id. at 5. 49 Id. at 6. 50 Id. at 5. 51 Id. Annex 4.
+[^52]: Id. at 5. 53 Verified Comment, 03 June 2022, at 5, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2022). 54 Letter from Russel S. Pernites to MIP , 19 February 2019, at 5, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2019). 55 Verified Comment, 03 June 2022, at 7, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2022). 56 Urgent Motion for Resetting, 06 June 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2022). 57 Id. at 2. 58 Reply to Defendant’s Verified Comment & Objection to Defendants “Urgent Motion for Resetting,” 06 June 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22 ). 59 Id at 2.
+[^60]: Id. at 3. 61 Id. 62 Id. 63 Id. at 4. 64 Reply to Defendant’s Verified Comment & Objection to Defendants “Urgent Motion for Resetting,” 06 June 2022, at 4, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2022). 65 Id. 66 Id. 67 Id. at 6. 68 Order (Granting the Respondent’s Urgent Motion for Resetting and Resetting the 1st Preliminary Conference from 07 June 2022 to 05 July 2022, 07 June 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22 ). 69 Id.
+[^70]: Order (Noting the Complainant’s Reply to Defendants Verified Comment & Objection to Defendant’s “Urgent Motion for Resetting), 08 June 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22 ). 71 Order (After the 1st Preliminary Conference held on 05 July 2022 and Submission of Respondent’s Motion), 05 July 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 - 1411 (NPC 20 22). 72 Id. 73 Id. at 2. 74 Id. 75 Omnibus Motion, 06 July 2022, at 3, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22).
+[^76]: Objection to Respondents Omnibus Motion, 06 July 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22) 77 Id. 78 Resolution of Respondent’s Omnibus Motion dated 06 July 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22). 79 Id. at 2. 80 Motion for Discovery of Evidence, 05 August 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22). 81 Id. 82 Order (After the 2nd Preliminary Conference held on 23 August 2022 and Requiring the Parties to Submit a Filled -Out Application for Mediation Form), 23 August 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22).
+[^83]: Id. 84 Id. 85 Order to Mediate, 06 September 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 - 1411 (NPC 20 22). 86 Order (On the Error in the Caption of the Orders issued after the Preliminary Conference) , 06 September 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22 ). 87 Notice of Non -Settlement of Dispute , 25 October 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22) . 88 Resolution (Partially Granting the Motion for Discovery of Evidence dated 05 August 2022, Lifting the Suspension of Complaints Proceedings), 17 November 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22) .
+[^89]: Id. at 6. 90 Manifestation (On the Directive of Producing Certain Files and Documents Sought In Complainant’s Motion for Discovery of Evidence dated 05 August 2022), 16 December 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22). 91 Id. 92 Respondent’s Memorandum, 17 December 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22). 93 Id. 94 Complainants Memorandum, 17 December 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22). 95 Id.
+[^96]: Order (Noting the Respondent’s Memorandum and Manifestation (On the Directive of Producing Certain Files and Documents Sought in Complainant’s Motion for Discovery of Evidence dated 05 August 2022) and Complainants Memorandum, 20 December 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22). 97 Manifestation of Privacy Abuses, 13 January 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22). 98 Id. 99 Id. 100 Id. 101 Id. 102 Id. 103 Manifestation of Privacy Abuses, 13 January 2022, at 1, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2022). 104 Id. 105 Affidavit/Complaint, 19 September 2019, at 5, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2019).
+[^106]: Id. 107 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 12 (f) (2012).
+[^108]: Affidavit/Complaint, 19 September 2019, at 2, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2019). 109 Id. at 2 -3. 110 Verified Comment, 03 June 2022, at 3, in MIP v. Colliers International Philippines, NPC 19 - 1411 (NPC 2022). 111 Id. at 2. 112 Id.
+[^113]: Data Privacy Act of 2012, § 3 (g). 114 Verified Comment, 03 June 2022, Annex 3, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22 ).
+[^115]: Data Privacy Act of 2012, § 3 (j). 116 Verified Comment, 03 June 2022, at 2, in MIP v. Colliers International Philippines, NPC 19 - 1411 (NPC 2022). 117 Id. 118 Id. 119 Data Privacy Act of 2012, § 12 (f). 120 Id. 121 See National Privacy Commission, Guidelines on Legitimate Interest, NPC Circular No. 2023 - 07 [NPC Circ. No. 2023 -07], § 5 (13 December 2023). 122 See Id.
+[^123]: Data Privacy Act of 2012, § §11 (a) &(e) .Emphasis supplied. 124 National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, § 18 (b) (2016) .Emphasis supplied. 125 Id.
+[^126]: See NPC Circ. No. 2023 -07, § 5. 127 Spouses MCD and JJD v. Victorias Milling Company, et al., NPC 19 -758 and 19 -1846, 30 June 2023, at 21 ,available at https://privacy.gov.ph/wp -content/uploads/2024/05/NPC -19 -758 -to - NPC -19 -1846 -2023.06.30 -MCD -_-JJD -v-Victorias -Milling -Company -et -al -Decision -FinalP.pdf (last accessed 31 May 2024). 128 See NPC Circ. No. 2023 -07, § 5. 129 See Id. 130 Verified Comment, 03 June 2022, Annex 2, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 20 22 ). Emphasis supplied. 131 Id. at 2. 132 MNLC, INC. v. PXXX Corporation, RCM, and AD, NPC Case No. 19 -528, 23 February 2021, at 22, available at https://privacy.gov.ph/wp -content/uploads/2023/05/Decision_NPC -19 -528 - MNLC -v. -PXXX -Corporation.pdf (last accessed 31 May 2024).
+[^133]: Verified Comment, 03 June 2022, at 3, in MIP v. Colliers International Philippines, NPC 19 - 1411 (NPC 20 22 ). 134 Letter from Russel S. Pernites to MIP , 19 February 2019, at 2, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2019). 135 Id. 136 Verified Comment, 03 June 2022, at 3, in MIP v. Colliers International Philippines, NPC 19 - 1411 (NPC 2022). 137 Id.
+[^138]: Data Privacy Act of 2012, § 11 (a). 139 Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 18 (a). 140 Id. Emphasis supplied. 141 Verified Comment, 03 June 2022, Annex 2, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2022). 142 Id. Annex 4.
+[^143]: Spouses MCD and JJD v. Victorias Milling Company, et al., NPC 19 -758 and 19 -1846, 30 June 2023, at 2 2, available at https://privacy.gov.ph/wp -content/uploads/2024/05/NPC -19 -758 -to - NPC -19 -1846 -2023.06.30 -MCD -_-JJD -v-Victorias -Milling -Company -et -al -Decision -FinalP.pdf (last accessed 31 May 2024). 144 Data Privacy Act of 2012, § 11 (b) , (c), & (d). 145 EA and TA v. EJ, EE, and HC, NPC 17 -018, 15 July 2019, at 10, available at https://privacy.gov.ph/wp -content/uploads/2023/05/NPC -17 -018 -EA -and -TA -v-EJ -Decision - 2019.07.15 -.pdf, (last accessed 31 May 2024). 146 Data Privacy Act of 2012, § §11 (c) &(d).
+[^147]: Id. 148 Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 18 (c). Emphasis supplied. 149 See NPC Circ. No. 2023 -07 ,§6; Spouses MCD and JJD v. Victorias Milling Company, et al., NPC 19 -758 and 19 -1846, 30 June 2023, at 24, available at https://privacy.gov.ph/wp - content/uploads/2024/05/NPC -19 -758 -to -NPC -19 -1846 -2023.06.30 -MCD -_-JJD -v-Victorias - Milling -Company -et -al -Decision -FinalP.pdf (last accessed 31 May 2024).
+[^150]: Verified Comment, 03 June 2022, at 3, in MIP v. Colliers International Philippines, NPC 19 - 1411 (NPC 2019). 151 Id. 152 Id. Annex 3. 153 Affidavit/Complaint, 19 September 2019, at 2, in MIP v. Colliers International Philippines, NPC 19 -1411 (NPC 2019). 154 Verified Comment, 03 June 2022, at 4, in MIP v. Colliers International Philippines, NPC 19 - 1411 (NPC 20 22). NPC 19 -1411 MIP v. Colliers International Philippines
+[^155]: Id. 156 See NPC Circ. No. 2023 -07, § 4. 157 See Id. 158 Data Privacy Act of 2012, § 11 (b). Emphasis supplied.
+[^159]: See NPC Circ. No. 2023 -07 ,§§ 4& 7 . 160 Id. §7. 161 Spouses MCD and JJD v. Victorias Milling Company, et al., NPC 19 -758 and 19 -1846, 30 June 2023, at 2 7, available at https://privacy.gov.ph/wp -content/uploads/2024/05/NPC -19 -758 -to - NPC -19 -1846 -2023.06.30 -MCD -_-JJD -v-Victorias -Milling -Company -et -al -Decision -FinalP.pdf (last accessed 31 May 2024). 162 See NPC Circ. No. 2023 -07 ,§§ 4 & 7 .
+[^163]: Data Privacy Act of 2012 ,§ 11 (b) ;See Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 19 (b). 164 Data Privacy Act of 2012, § 11 (b). Emphasis supplied NPC 19 -1411 MIP v. Colliers International Philippines
+[^165]: Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 19 (b). Emphasis supplied. NPC 19 -1411 MIP v. Colliers International Philippines
+[^166]: Data Privacy Act of 2012, § 25. 167 VVC v. CJB, NPC 19 -134, 10 December 2021, at 12, available at https://privacy.gov.ph/wp - content/uploads/2023/05/NPC -19 -134 -VVC -v. -CJB -Decision -2021.12.10.pdf (last accessed 31 May 2024).
+[^168]: Data Privacy Act of 2012 ,§ 32. 169 Id. § 31 .
+[^170]: RLA v. PLDT Enterprise, NPC 18 -010, 10 December 2021 ,available at https://privacy.gov.ph/wp -content/uploads/2023/05/02 - NPC_18_010_RLA_v_PLDT_Enterprise_Resolution_w_Dissenting_Opinion.pdf (last accessed 31 May 2024). 171 Data Privacy Act of 2012 ,§ 31. 172 MVC v. DSL, RRB v. DSL, NMB v. DSL, RMP v. DSL, NDL v. DSL, and MBN v. DSL, NPC 21 - 010, NPC 21 -011, NPC 21 -012, NPC 21 -013, NPC 21 -014, and NPC 21 -015, 03 February 2022, at 11, available at https://privacy.gov.ph/wp -content/uploads/2024/06/NPC -21 -010 -to -NPC -21 -015 - 2022.02.03 -Decision -FinalP.pdf (last accessed 31 May 2024). NPC 19 -1411 MIP v. Colliers International Philippines
+[^173]: Data Privacy Act of 2012, § 25. NPC 19 -1411 MIP v. Colliers International Philippines
+[^174]: Id. § 32. 175 ECV v. CVF, NPC 18 -074, 17 March 2024, at 10, available at https://privacy.gov.ph/wp - content/uploads/2023/05/NPC -18 -074_ECV -v. -CVF_Decision_17 -March -2022.pdf (last access ed 31 May 2024) . 176 Data Privacy Act of 2012, § 32. NPC 19 -1411 MIP v. Colliers International Philippines

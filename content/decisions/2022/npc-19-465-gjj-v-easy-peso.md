@@ -266,15 +266,11 @@ In this case, however, there is no DPA violation that has been established. Henc
 
 Taking into account the totality of the foregoing reasons, the Commission cannot recommend the prosecution of Easy Peso.
 
-### Dispositive Portion
-
 **WHEREFORE**, premises considered, this Commission resolves that the case filed by GJJ against Creditable Lending Corporation (Easy Peso) is hereby **DISMISSED** for lack of substantial evidence.
 
 This is without prejudice to the filing of appropriate civil, criminal, or administrative cases, if any, against Creditable Lending Corporation (Easy Peso) before any other forum or tribunal.
 
 **SO ORDERED.**
-
----
 
 City of Pasay, Philippines.
 

@@ -45,21 +45,15 @@ According to the United Nations High Commissioner for Human Rights report, priva
 be considered as the presumption that individuals should have an area of autonomous
 development, interaction and liberty, a “private sphere” with or without interaction with
 others, free from State intervention and from excessive unsolicited intervention by other
-uninvited individuals.2
+uninvited individuals.[^2]
 
 Further, the report enunciates that in the digital environment, informational privacy covering
 information that exists or can be derived about a person and the decisions based on that
 information, is of particular importance, and the protection of the right to privacy extends to
-
-https://www.ohchr.org/Documents/Issues/DigitalAge/ReportPrivacyinDigitalAge/A_HRC_39_29_EN.docx (last accessed 26
-April 2021).
-
-   th
-
-public spaces and information that is publicly available.3
+public spaces and information that is publicly available.[^3]
 
 Accordingly, a person’s data privacy rights do not cease even when one is in a public space.
-In NPC Advisory Opinion No. 2018-051,4 the following advice was given regarding persons
+In NPC Advisory Opinion No. 2018-051,[^4] the following advice was given regarding persons
 who may have been candidly and secretly photographed and whose photos were then posted
 online:
 
@@ -75,7 +69,7 @@ online:
          collected. x x x.”
 
 As discussed above, data subjects should be able to exercise their rights under the Data
-Privacy Act of 20125 (DPA). Kindly refer to NPC Advisory No. 2021 – 01 for further guidance
+Privacy Act of 2012[^5] (DPA). Kindly refer to NPC Advisory No. 2021 – 01 for further guidance
 on this matter.
 
 Finally, we note that based on our records, you were not able to submit the required
@@ -94,8 +88,7 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-3 Id.
-4 National Privacy Commission, NPC Advisory Opinion No. 2018-051 (Oct. 5, 2018).
-5 An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the
-
-Republic Act No. 10173 (2012).
+[^2]: United Nations High Commissioner for Human Rights, The right to privacy in the digital age, available at https://www.ohchr.org/Documents/Issues/DigitalAge/ReportPrivacyinDigitalAge/A_HRC_39_29_EN.docx (last accessed 26 April 2021).
+[^3]: Id.
+[^4]: National Privacy Commission, NPC Advisory Opinion No. 2018-051 (Oct. 5, 2018).
+[^5]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).

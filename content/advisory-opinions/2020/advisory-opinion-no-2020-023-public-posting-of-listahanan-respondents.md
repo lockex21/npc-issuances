@@ -11,7 +11,6 @@ draft: false
 - Reference: Advisory Opinion No. 2020-023
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-023.pdf
 - Issue date: 06/11/2020
-- Subject: Public Posting of Listahanan Respondents
 - Tags: Personal information; sensitive personal information; dswd; listahanan; privacy notice
 - OCR used during extraction: no
 
@@ -25,7 +24,7 @@ We write in response to your request for an advisory opinion received by the Nat
 Commission (NPC) which sought to clarify whether the public display of personal
 information by the Department of Social Welfare and Development (DSWD) of the
 respondents for its program, the National Household Targeting System for Poverty Reduction
-(NHTS-PR), also known as Listahanan, is in accordance with the Data Privacy Act of 20122
+(NHTS-PR), also known as Listahanan, is in accordance with the Data Privacy Act of 2012[^2]
 (DPA).
 
 We understand that the Listahanan was established by virtue of Executive Order (EO) No.
@@ -44,31 +43,26 @@ Verification Committee at the municipal level.
 
 ### Discussion
 
-Lawful processing of personal information;
-Functions of the public authority; statutory
-mandate
-
-2012], Republic Act No. 10173 (2012).
+#### Lawful Processing of Personal Information; Functions of the Public Authority; Statutory Mandate
 
 The public posting of the initial list of poor households may find basis under Section 12 of the
 DPA – where the processing of personal information is necessary to fulfill the functions of the
 public authority which necessarily includes the processing of personal data for the fulfillment
-of its mandate.3
+of its mandate.[^3]
 
 The DSWD is the primary government agency mandated to develop, implement and
 coordinate social protection and poverty-reduction solutions for and with the poor,
-vulnerable and disadvantaged.4 E.O. No. 867 requires all national government agencies to
+vulnerable and disadvantaged.[^4] E.O. No. 867 requires all national government agencies to
 adopt the NHTS-PR as a mechanism in identifying who and where the poor households are
-who will be the recipients of the social protection programs.5 Consequently, E.O. 867 also
+who will be the recipients of the social protection programs.[^5] Consequently, E.O. 867 also
 mandated DSWD to maintain the system and serve as the repository of the data on poor
-households and update the same every four (4) years.6
+households and update the same every four (4) years.[^6]
 
 We note that, although there may be legal basis in displaying the initial list of poor households
 in public places, DSWD is still obligated under the DPA to comply with the general data
 privacy principles of transparency, legitimate purpose and proportionality.
 
-Adherence to the general data privacy
-principles; sensitive personal information
+#### Adherence to the General Data Privacy Principles; Sensitive Personal Information
 
 In posting the list, DSWD must ensure that the data subjects are informed about the details of
 the processing of their personal data. This may be achieved through a privacy notice,
@@ -82,7 +76,7 @@ subjects.
 DSWD must also consider the proportionality principle in determining the personal
 information that will be publicly displayed. In particular, the principle requires that the
 processing of information shall be adequate, relevant, suitable, necessary and not excessive in
-relation to the declared and specified purpose.7 Hence, there is a need to determine if the
+relation to the declared and specified purpose.[^7] Hence, there is a need to determine if the
 public posting of the names of the potential beneficiaries is proportional to the purpose of
 reviewing and validating the accuracy of such list and after considering all other means that
 may result in less exposure to the data subjects.
@@ -93,18 +87,6 @@ proportional to the purpose. Note that generally, the processing (which includes
 posting/disclosure) of sensitive personal information is prohibited, except for the instances
 provided by Section 13 of the DPA.
 
-3 Data Privacy Act of 2012, § 12 (e).
-4 Official Gazette, Department of Social Welfare and Development, available at
-
-https://www.officialgazette.gov.ph/section/briefing-room/department-of-social-welfare-and-development/ (last accessed
-May 18, 2020).
-5 Office of the President Providing for the Adoption of the National Household Targeting System for Poverty Reduction as
-
-the Mechanism for Identifying Poor Households Who Shall Be Recipients of Social Protection Programs Nationwide,
-Executive Order No. 867 [E.O. No. 867], Section 1(March 9, 2010).
-6 Id. § 2.
-7 Data Privacy Act of 2012, § 11 (c).
-
 Hence, if the birthday (a variation of the information on “age”) and/or other sensitive
 personal information of the data subjects (i.e. marital status, religion, etc.) are not
 indispensable to achieve the stated purpose, the DSWD should consider removing this field
@@ -113,10 +95,9 @@ of information in the list to be posted.
 Since sensitive personal information will be maintained by DSWD, a government agency,
 such sensitive personal information shall be secured with the used of the most appropriate
 standard recognized by the information and communications technology industry and as
-recommended by NPC.8
+recommended by NPC.[^8]
 
-Household Assessment      Form;    comments;
-recommendations
+#### Household Assessment Form; Comments; Recommendations
 
 In order to ensure that the respondents understand the Household Assessment Form (HAF)
 including the Declaration and Certification portions on how their personal data will be used,
@@ -151,4 +132,10 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-8 Id. § 22.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: Data Privacy Act of 2012, § 12 (e).
+[^4]: Official Gazette, Department of Social Welfare and Development, available at https://www.officialgazette.gov.ph/section/briefing-room/department-of-social-welfare-and-development/ (last accessed May 18, 2020).
+[^5]: Office of the President Providing for the Adoption of the National Household Targeting System for Poverty Reduction as the Mechanism for Identifying Poor Households Who Shall Be Recipients of Social Protection Programs Nationwide, Executive Order No. 867 [E.O. No. 867], Section 1(March 9, 2010).
+[^6]: Id. § 2.
+[^7]: Data Privacy Act of 2012, § 11 (c).
+[^8]: Id. § 22.

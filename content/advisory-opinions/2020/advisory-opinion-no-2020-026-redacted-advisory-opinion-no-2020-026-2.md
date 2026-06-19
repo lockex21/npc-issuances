@@ -10,6 +10,7 @@ draft: false
 ## Source
 - Reference: Advisory Opinion No. 2020-026
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2020-026.pdf
+- Issue date: 06/26/2020
 - OCR used during extraction: no
 
 ## Text
@@ -33,15 +34,8 @@ limited to the following:
    • The publication of such information in an open data machine-readable format (e.g.
       XLSX, CSV, JSON) in official government and civil society tracking websites.
 
-2. Data relevant to benefits granted/received in line with the Government’s COVID-19
-   response and operations, including but not limited to the following:
-   • DSWD Social Amelioration Program, e.g. Emergency Subsidy Program (ESP),
-       Assistance to Individuals in Crisis Situations (AICS), Social Pension for Senior Citizens
-
-### Discussion
-
-(SocPen), Livelihood Assistance Grants (LAG): program name, beneficiary names,
-         amounts received, barangay, city/municipality, province;
+2. Data relevant to benefits granted/received in the Government’s COVID-19 response and operations, including but not limited to the following:
+   • DSWD Social Amelioration Program, e.g. Emergency Subsidy Program (ESP), Assistance to Individuals in Crisis Situations (AICS), Social Pension for Senior Citizens (SocPen), Livelihood Assistance Grants (LAG): program name, beneficiary names, amounts received, barangay, city/municipality, province;
     •    DOLE COVID-19 Adjustment Measures Program (CAMP)/Tulong Panghanapbuhay sa
          Ating Disadvantaged/Displaced Workers (TUPAD)/AKAP: business name, beneficiary
          names, amounts received, barangay, city/municipality, province of business and
@@ -70,8 +64,9 @@ Furthermore, you seek clarification on the level of detail that can be released 
 the DPA. For Item Nos. 2-4 above, you inquired whether disaggregation by gender and the
 inclusion of age groups is allowable.
 
-The Data Privacy Act of 2012, not a hindrance to
-transparency in government; right to information
+### Discussion
+
+#### The Data Privacy Act of 2012, Not a Hindrance to Transparency in Government; Right to Information
 
 The constitutional right to information and the right to privacy are not contradictory. Both are
 essential human rights that feature prominently in society and are necessary in a democracy.
@@ -94,9 +89,7 @@ information.
 While a freedom of information (FOI) law has yet to be enacted, the right to information is
 operationalized in the Executive Branch through Executive Order (EO) No. 2, 2016.[^5]
 
-Protection of personal information as an exception to
-FOI; DPA special cases; criteria for lawful processing
-under Section 12
+#### Protection of Personal Information as an Exception to FOI; DPA Special Cases; Criteria for Lawful Processing under Section 12
 
 Pursuant to the Inventory of Exceptions to EO No. 2 (S. 2016),[^6] information deemed confidential
 for the protection of the privacy of persons is an exception to the general rule of disclosure in the
@@ -119,9 +112,7 @@ transaction or as a matter of right, the minimum extent of disclosure of persona
 beneficiaries may still find basis under any of the various criteria for lawful processing under
 Section 12 of the DPA.
 
-Public disclosure of pertinent data in relation to
-COVID-19 response programs; general data privacy
-principles; proportionality; release of statistical data
+#### Public Disclosure of Pertinent Data in Relation to COVID-19 Response Programs; General Data Privacy Principles; Proportionality; Release of Statistical Data
 
 We now respond to the specific items mentioned above:
 
@@ -134,11 +125,7 @@ private requesters such information relating to the government program. Where su
 pertain to personal information of beneficiaries, as discussed above, the minimum extent of
 disclosure may be allowed.
 
-Nonetheless, such disclosure should strictly adhere to the principle of proportionality, which
-
-requires that “the processing of information shall be adequate, relevant, suitable, necessary, and
-not excessive in relation to a declared and specified purpose. Personal data shall be processed
-only if the purpose of the processing could not reasonably be fulfilled by other means.”[^9] Hence,
+Nonetheless, such disclosure should strictly adhere to the principle of proportionality, which requires that “the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.”[^9] Hence,
 the disclosure or release should only be limited to those personal information which are
 necessary to the purpose. Data minimization should be employed in all cases of public
 disclosure. Further, pseudonymization of names or even the exclusion of the "name" field
@@ -179,27 +166,15 @@ the above do not involve personal information where an individual is identifiabl
 are outside the scope of the DPA. The release of such information may be governed by other
 laws or regulations.
 
-Pseudonymization; health information
+#### Pseudonymization; Health Information
 
-However, in relation to the Philhealth issuances and the request for the “total amount disbursed
-per patient,” we recommend that the information be de-identified or pseudonymized prior to
-release or disclosure.
+However, in relation to the Philhealth issuances and the request for the “total amount disbursed per patient,” we recommend that the information be de-identified or pseudonymized prior to release or disclosure.[^9]
 
-9 Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c) (2016).
+Pseudonymization has been defined as “the processing of personal data in a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organizational measures to ensure that the personal data are not attributed to an identified or identifiable natural person.”[^11]
 
-Pseudonymization has been defined as “the processing of personal data in a manner that the
-personal data can no longer be attributed to a specific data subject without the use of additional
-information, provided that such additional information is kept separately and is subject to
-technical and organizational measures to ensure that the personal data are not attributed to an
-identified or identifiable natural person.”[^11]
+Actual patient names should not be released, considering that these may already be deemed as health information which is sensitive personal information, in relation to the fact that these patients who availed of Philhealth benefits or assistance are COVID-19 suspected, probable, or confirmed cases.
 
-Actual patient names should not be released, considering that these may already be deemed as
-health information which is sensitive personal information, in relation to the fact that these
-patients who availed of Philhealth benefits or assistance are COVID-19 suspected, probable, or
-confirmed cases.
-
-Personal information controllers; accountability in
-processing personal data
+#### Personal Information Controllers; Accountability in Processing Personal Data
 
 Finally, we remind government agencies, civil society organizations (CSO), and the private
 requesters that while personal information of beneficiaries may be disclosed to fulfill the

@@ -1,17 +1,18 @@
 ---
+title: "NPC 19-258: CPM v. Green Money Tree Lending Corp. (Cashwagon)"
+description: "Resolution denying respondent's motion to dismiss for failure to appear at discovery conference proceedings, ordering respondent to submit responsive comment within ten days."
 aliases:
-- NPC 19-258
-- npc 19-258
-date: '2024-01-01'
-description: Resolution of case
-draft: false
-reference: NPC 19-258
+  - "NPC 19-258"
+  - "npc 19-258"
+  - "CPM v. Green Money Tree Lending Corp. (Cashwagon)"
+  - "cpm v. green money tree lending corp. (cashwagon)"
 tags:
-- resolution
-- type/resolution
-- npc-case
-- year/2019
-title: 'NPC 19-258: CPM vs. CASHWAGON'
+  - "resolution"
+  - "type/resolution"
+  - "npc-case"
+  - "year/2019"
+date: "2019-11-05"
+draft: false
 ---
 
 
@@ -32,143 +33,68 @@ title: 'NPC 19-258: CPM vs. CASHWAGON'
 
 ## Resolution Text
 
-CPM ,
+CPM,
 
 Complainant,
 
--versus - NPC Case No. 19258
+-versus-
 
-For: Violation of Section 25 (b) of the
-
-Data Privacy Act of 2012
-
-GREEN MONEY TREE
-
-LENDING CORP.
-
-(CASHWAGON),
+GREEN MONEY TREE LENDING CORP. (CASHWAGON),
 
 Respondents.
 
+For: Violation of Section 25 (b) of the Data Privacy Act of 2012
+
 x----------------------------------------x
 
-For consideration of the Commission is the Motion for Dismissal filed
+NAGA, P.C.:
 
-by Respondent Green Money Tree Lending Corp. (Cashwagon) dated
+For consideration of the Commission is the Motion for Dismissal filed by Respondent Green Money Tree Lending Corp. (Cashwagon) dated 14 August 2019. Its allegations state:
 
-14 August 2019. Its allegations state:
+### Facts
 
-1.  On 20 June 2019, a discovery conference was set to hear the
+1. On 20 June 2019, a discovery conference was set to hear the complaint of herein Complainant against herein Respondent for the latter’s alleged violation of data privacy against the former, wherein both parties hereto are required to attend said conference. However, only the Respondent appeared during said discovery conference, thus, said conference was reset to 30 July 2019.
 
-complaint of herein Complainant against herein Respondent for
+2. On 30 July 2019, herein Complainant failed again to appear/attend said discovery conference despite its resetting. Thus, herein Respondent manifested during said conference that it will file the necessary motion to dismiss this present complaint.
 
-the latter’s alleged violation of data privacy against the former,
+### Discussion
 
-wherein both parties hereto are required to attend said conference.
+At the outset, there is a need to clarify that the Commission’s Rules of Procedure[^1] does not provide that a party’s non-appearance in the Discovery proceedings is a ground for the dismissal of a case. The Rules only provide the following grounds for the outright dismissal of a complaint:
 
-However, only the Respondent appeared during said discovery
+> **Section 12. Outright Dismissal.** – The Commission may dismiss outright any complaint on the following grounds:
+>
+> a. The complainant did not give the respondent an opportunity to address the complaint, unless failure to do so is justified;
+> b. The complaint is not a violation of the Data Privacy Act or does not involve a privacy violation of personal breach;
+> c. The complaint is filed beyond the period for filing; or
+> d. There is insufficient information to substantiate the allegations in the complaint or the parties cannot be identified or traced.
 
-conference, thus, said conference was reset to 30 July 2019;
+The grounds in the above-mentioned provision not being present in the subject Complaint, the Commission finds that there is no sufficient ground to dismiss the complaint on the sole ground that the Complainant failed to appear for two (2) consecutive settings despite due notice on her part.
 
-2.  On 30 July 2019, herein Complainant failed again to appear/attend
+**WHEREFORE**, all these premises considered, this Commission resolves to **DENY** the Motion for Dismissal filed by the Respondent Green Money Tree Lending Corp. (Cashwagon) and hereby **ORDERS** the Respondent to submit its responsive Comment to the Complaint within ten (10) days from receipt of this Resolution.
 
-said discovery conference despite its resetting. Thus, herein
-
-Respondent manifested during said conference that it will file the
-
-necessary motion to dismiss this present complaint.
-
-WHEREFORE, premises considered, respondent most respectfully
-
-moves for the dismissal of this present complaint on the sole
-
-ground that Complainant herein failed to appear for two (2)
-
-consecutive settings of the discovery conference despite due notice
-
-on he r part. Resolution
-
-> NPC Case No. 19 --258
-> Page 2of 3
-
-At the outset, there is a need to clarify that the Commission’s Rules of
-
-Procedure 1 does not provide that a party’s nonappearance in the
-
-Discovery proceedings is a ground for the dismissal of a case. The
-
-Rules only provide the following grounds for the outright dismissal of
-
-a complaint:
-
-Section 12. Outright Dismissal. – The Commission may dismiss
-
-outright any complaint on the following grounds:
-
-a.  The complainant did not give the respondent an opportunity to
-
-address the complaint, unless failure to do so is justified;
-
-b.  The complaint is not a violation of the Data Privacy Act or does
-
-not involve a privacy violation of personal breach;
-
-c.  The complaint is filed beyon d the period for filing; or
-
-d.  There is insufficient information to substantiate the allegations
-
-in the complaint or the parties cannot be identified or traced.
-
-The grounds in the above mentioned provision not being present in the
-
-subject Complaint, the Commission finds that there is no sufficient
-
-ground to dismiss the complaint on the sole ground that the
-
-Complainant failed to appear for two (2) consecutive settings despite
-
-due notice on her part.
-
-WHEREFORE , all these premises considered, this Commission
-
-resolves to DENY the Motion for Dismissal filed by the Respondent
-
-Green Money Tree Lending Corp. (Cashwagon) and hereby ORDERS
-
-the Respondent to submit its responsive Comment to the Complaint
-
-within ten (10) days from receipt of this Resolution .
-
-SO ORDERED.
+**SO ORDERED.**
 
 Pasay City, 5 November 2019.
 
 LEANDRO ANGELO Y. AGUIRRE
-
 Deputy Privacy Commissioner
 
-We concur :
+We concur:
 
-Sgd . Sgd.
+IVY D. PATDU
+Deputy Privacy Commissioner
 
-IVY D. PATDU RAYMUND ENRIQUEZ LIBORO
+RAYMUND ENRIQUEZ LIBORO
+Privacy Commissioner
 
-Deputy Privacy Commissioner Privacy Commissioner
-
-> 1NPC Circular 1604
-
-NPC Case No. 19 --258
-
-COPY FURNISHED:
+Copy furnished:
 
 CPM
 
-GREEN MONEY TREE LENDING
-
-CORP. (CASHWAGON)
-
+GREEN MONEY TREE LENDING CORP. (CASHWAGON)
 Data Protection Officer
 
 GENERAL RECORDS UNIT
-
 ENFORCEMENT DIVISION
+
+[^1]: NPC Circular 16-04

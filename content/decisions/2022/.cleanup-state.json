@@ -1,5 +1,90 @@
 {
-  "npc-19-278-jro-vs-msmi.md": { "status": "done", "timestamp": "2026-03-26T14:30:00Z" },
-  "npc-20-317-and-20-318-gba-v-sbg-and-lpl-v-sbg.md": { "status": "done", "timestamp": "2026-03-26T14:45:00Z" },
-  "npc-21-010-to-npc-21-015-mvc-et-al-v-dsl.md": { "status": "done", "timestamp": "2026-03-26T16:15:00Z" }
+  "npc-19-142-mlf-v-grab-philippines.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-19-278-jro-vs-msmi.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T14:30:00Z"
+  },
+  "npc-19-465-gjj-v-easy-peso.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-20-026-jba-v-fnt-and-nnt.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-20-317-and-20-318-gba-v-sbg-and-lpl-v-sbg.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T14:45:00Z"
+  },
+  "npc-21-010-to-npc-21-015-mvc-et-al-v-dsl.md": {
+    "status": "done",
+    "timestamp": "2026-03-26T16:15:00Z"
+  },
+  "npc-21-016-edf-v-bpi.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-21-031-jcb-v-frl.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-21-032-jdb-v-jme.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-21-064-gss-v-global-dominion-financing-inc.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-21-086-rtb-v-east-west-banking-corporation.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-21-096-ac-v-isg.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-21-167-maf-v-shopee-philippines-inc.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-22-012-rjc-v-dl.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-21-054-rgc-v-jk-incorporated-and-recovery-inc.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-22-064-and-npc-22-065-als-vs-planters-bank-and-als-vs-china-bank-savings.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-21-111-eg-v-ji-ro-and-rr.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-22-006-mdt-vs-bdo-unibank-inc.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-22-175-mea-vs-mu.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-ss-21-006-wefund-lending-corp.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T00:00:00Z"
+  },
+  "npc-ss-21-005-in-re-oriente-express-techsystem-corporations-cashalo-and-its-responsible-officers.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T08:00:49.418977Z"
+  },
+  "npc-ss-22-001-and-npc-ss-22-008-in-re-commission-on-elections.md": {
+    "status": "done",
+    "timestamp": "2026-04-13T08:02:19.315472Z"
+  }
 }

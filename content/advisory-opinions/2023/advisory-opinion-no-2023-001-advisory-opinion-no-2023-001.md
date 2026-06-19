@@ -54,7 +54,7 @@ ground of data privacy.
 
 You now ask if the NPI and the Register of Deeds’ denial of TICC’s requests are in order.
 
-### Personal Information; Sensitive Personal Information; Lawful Processing
+#### Personal Information; Sensitive Personal Information; Lawful Processing
 
 The DPA applies to the processing of all types of personal information and sensitive personal
 information (collectively, personal data), and to any natural or juridical person involved in the
@@ -202,7 +202,7 @@ principle of proportionality necessitates that only the information requested an
 the purpose indicated should be processed. With this, NPI may opt to conceal or redact such
 information that are not relevant to TICC’s claims upon the documents’ disclosure to TICC.
 
-### Contractual Obligation; Adherence to the Data Privacy Principles; Proportionality.
+#### Contractual Obligation; Adherence to the Data Privacy Principles; Proportionality
 
 Condominium unit numbers are considered personal information under the DPA since it can
 directly and certainly identify the identity of the unit owner when put together with other
@@ -276,6 +276,7 @@ instance, the processing of personal information must still adhere to the propor
 wherein TICC must only disclose such personal information that is adequate and necessary for
 the declared purpose, which is the collection of unpaid dues.
 
+We would like to emphasize that, as a regulator, the National Privacy Commission (NPC) does
 not issue a “legal confirmation.” The NPC’s Advisory Opinions do not serve to confirm the legal
 opinions/positions of its stakeholders. Should a stakeholder already have an opinion or decision
 regarding its processing activities, the “confirmation” of NPC is not required nor given. Instead,

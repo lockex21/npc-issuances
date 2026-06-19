@@ -26,7 +26,7 @@ Dear [Redacted],
 This pertains to your queries received by the National Privacy Commission (NPC) on 7 November 2016 through email. Specifically, you inquired regarding the following:
 
 a. What is the definition of outsourcing/subcontracting under Rule X? Does outsourcing refer to a function/activity which the Company can perform but decides to allow another person to do it for the Company? Does outsourcing refer to a function/activity which the Company cannot perform or is restricted from performing because it is not in its powers/primary/secondary purpose?
-b. What is meant by automated decision-making and profiling under Sec. 34.a.1 vs. automated processing or profiling under Sec. 34.a.2.b? – this is related to automated processing of personal data for profiling or processing for direct marketing and data sharing, under Sec. 19.a.[^1]
+b. What is meant by automated decision-making and profiling under Sec. 34.a.1 vs. automated processing or profiling under Sec. 34.a.2.b? – this is related to automated processing of personal data for profiling or processing for direct marketing and data sharing, under Sec. 19.a.1[^1]
 c. What is meant by "a report containing aggregated data" under Sec. 41b, Breach report, for security incidents not involving personal data?
 d. Why does Data Sharing exclude Outsourcing under Sec. 3f? What does this mean?
 e. What is meant by data sharing for "commercial purposes"?
