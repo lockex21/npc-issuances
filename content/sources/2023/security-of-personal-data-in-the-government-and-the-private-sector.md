@@ -13,7 +13,7 @@ draft: false
 
 ## Source
 - Main note: [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
-- Companion note: [[notes/undated/security-of-personal-data-in-the-government-and-the-private-sector|Analysis and metadata]]
+- Companion note: [[notes/2023/security-of-personal-data-in-the-government-and-the-private-sector|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf
 - OCR used: no
 

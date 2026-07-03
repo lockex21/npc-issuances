@@ -10,7 +10,7 @@ Generated notes for **2020** NPC decisions.
 - [[decisions/2020/npc-19-910-in-re-fli-operating-abc-online-lending-application|NPC 19-910: IN RE: FLI OPERATING ABC ONLINE LENDING APPLICATION]]
 - [[decisions/2020/19-653-bgm-vs-ipp|19-653: BGM vs. IPP]]
 - [[decisions/2020/12-17-2020-fat-vs-xxx|12-17-2020: FAT vs. XXX]]
-- [[decisions/2020/npc-18-010-rla-v-pldt-enterprise|NPC 18-010: RLA V. PLDT Enterprise]]
+- [[decisions/2016/npc-18-010-rla-v-pldt-enterprise|NPC 18-010: RLA V. PLDT Enterprise]]
 - [[decisions/2020/npc-19-621-amp-v-hupan-lending-technology-cash-me|NPC 19-621: AMP v. Hupan Lending Technology (Cash Me)]]
 - [[decisions/2020/11-19-2020-scm-vs-xxx|11-19-2020: SCM vs. XXX]]
 - [[decisions/2020/npc-19-569-mpm-vs-u-peso-ph-lending-corporation-pera4u|NPC 19-569: MPM vs. U-Peso.Ph Lending Corporation (Pera4U)]]
@@ -35,7 +35,7 @@ Generated notes for **2020** NPC decisions.
 - [[decisions/2020/cid-18-d-012-jbd-vs-ji-and-vvv|CID 18-D-012: JBD vs. JI and VVV]]
 - [[decisions/2020/cid-18-e-040-kgr-v-bb-et-al|CID 18-E-040: KGR v. BB et al.]]
 - [[decisions/2020/npc-17-065-rma-v-international-workplace-group-plc-regus|NPC 17-065: RMA v. International Workplace Group PLC/Regus]]
-- [[decisions/2020/npc-17-015-id-y-s-v-ds-bank|NPC 17-015: ID Y.S. v DS BANK]]
+- [[decisions/2016/npc-17-015-id-y-s-v-ds-bank|NPC 17-015: ID Y.S. v DS BANK]]
 - [[decisions/2020/cid-18-k-200-ccmc-vs-quicklend-inc|CID 18-K-200: CCMC vs. Quicklend, Inc.]]
 
 ## Manual Notes

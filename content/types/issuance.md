@@ -7,7 +7,7 @@ draft: false
 All generated notes tagged as **Issuance**.
 
 ## Notes
-- [[issuances/2021/2021-rules-of-procedure-of-the-npc|2021 Rules of Procedure of the NPC]]
+- [[issuances/2021/2021-rules-of-procedure-of-the-npc|Circular No. 2024-01: 2021 Rules of Procedure of the NPC]]
 
 ## Manual Notes
 <!-- BEGIN MANUAL INDEX NOTES -->

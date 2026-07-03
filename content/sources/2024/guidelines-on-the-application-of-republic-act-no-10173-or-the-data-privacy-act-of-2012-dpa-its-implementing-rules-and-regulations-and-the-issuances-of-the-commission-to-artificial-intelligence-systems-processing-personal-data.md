@@ -224,7 +224,7 @@ including its training and testing.
 15 EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 7, available at [https://privacy.gov.ph/wp-](https://privacy.gov.ph/wp-)
 
 content/uploads/2022/09/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf.  
-16 See National Privacy Commission, Data Subject Rights, Advisory No. 01, Series of 2021 [[[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]]] (29 January 2021).
+16 See National Privacy Commission, Data Subject Rights, Advisory No. 01, Series of 2021 [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] (29 January 2021).
 
 Ref No.: DPCD-24-00678                                    NPC_PPO_PDD_AdTem-V1.0, R2.0, 04 March 2024  
            URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322  

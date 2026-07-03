@@ -23,6 +23,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 CACHE_DIR = ROOT / "cache"
 CONTENT_DIR = ROOT / "content"
+CASE_OVERRIDES_JSON = DATA_DIR / "case_overrides.json"
 MIRROR_PREFIX = "https://r.jina.ai/http://"
 MARKDOWN_MARKER = "Markdown Content:\n"
 MONTH_NAME_RE = (
@@ -158,6 +159,8 @@ CORPORA: dict[str, CorpusConfig] = {
     ),
 }
 
+CASE_OVERRIDE_META_KEYS = {"preserve_existing_markdown"}
+
 
 def mirror_url(url: str) -> str:
     parsed = urllib.parse.urlsplit(url)
@@ -167,6 +170,92 @@ def mirror_url(url: str) -> str:
 
 def rel(path: Path) -> str:
     return str(path.relative_to(ROOT))
+
+
+def load_case_overrides() -> dict[str, dict[str, dict[str, Any]]]:
+    if not CASE_OVERRIDES_JSON.exists():
+        return {}
+
+    payload = json.loads(CASE_OVERRIDES_JSON.read_text(encoding="utf-8"))
+    if not isinstance(payload, dict):
+        raise ValueError(f"{CASE_OVERRIDES_JSON} must contain a JSON object")
+
+    record_fields = set(CaseRecord.__dataclass_fields__)
+    allowed_keys = record_fields | CASE_OVERRIDE_META_KEYS
+    normalized: dict[str, dict[str, dict[str, Any]]] = {}
+
+    for corpus_key, overrides in payload.items():
+        if corpus_key not in CORPORA:
+            raise ValueError(f"Unknown case override corpus: {corpus_key}")
+        if not isinstance(overrides, dict):
+            raise ValueError(f"Overrides for {corpus_key} must be a JSON object")
+
+        normalized[corpus_key] = {}
+        for slug, override in overrides.items():
+            if not isinstance(override, dict):
+                raise ValueError(f"Override for {corpus_key}/{slug} must be a JSON object")
+            unknown_keys = sorted(set(override) - allowed_keys)
+            if unknown_keys:
+                raise ValueError(
+                    f"Unknown override key(s) for {corpus_key}/{slug}: {', '.join(unknown_keys)}"
+                )
+            normalized[corpus_key][str(slug)] = override
+
+    return normalized
+
+
+def apply_case_override(record: CaseRecord, override: dict[str, Any]) -> bool:
+    for key, value in override.items():
+        if key in CASE_OVERRIDE_META_KEYS:
+            continue
+        setattr(record, key, value)
+    return bool(override.get("preserve_existing_markdown"))
+
+
+def sort_case_records(records: list[CaseRecord]) -> list[CaseRecord]:
+    return sorted(
+        records,
+        key=lambda item: (
+            item.issue_date_iso or "",
+            item.published_time_iso or "",
+            item.reference_label or "",
+            item.title,
+        ),
+        reverse=True,
+    )
+
+
+def load_records_from_json(
+    config: CorpusConfig,
+    *,
+    case_overrides: dict[str, dict[str, Any]] | None = None,
+) -> list[CaseRecord]:
+    if not config.data_path.exists():
+        raise FileNotFoundError(f"Missing existing data file for --indexes-only: {config.data_path}")
+
+    payload = json.loads(config.data_path.read_text(encoding="utf-8"))
+    raw_records = payload.get("records") if isinstance(payload, dict) else None
+    if not isinstance(raw_records, list):
+        raise ValueError(f"{config.data_path} must contain a records list")
+
+    record_fields = set(CaseRecord.__dataclass_fields__)
+    records: list[CaseRecord] = []
+    case_overrides = case_overrides or {}
+    for index, raw_record in enumerate(raw_records):
+        if not isinstance(raw_record, dict):
+            raise ValueError(f"{config.data_path} record {index} must be a JSON object")
+        missing_keys = sorted(record_fields - set(raw_record))
+        if missing_keys:
+            raise ValueError(
+                f"{config.data_path} record {index} is missing key(s): {', '.join(missing_keys)}"
+            )
+        record = CaseRecord(**{key: raw_record[key] for key in record_fields})
+        override = case_overrides.get(record.slug)
+        if override:
+            apply_case_override(record, override)
+        records.append(record)
+
+    return sort_case_records(records)
 
 
 def fetch_text_with_retries(url: str, attempts: int = 5) -> str:
@@ -501,10 +590,18 @@ def load_or_fetch(path: Path, url: str, refresh: bool) -> str:
     return path.read_text(encoding="utf-8")
 
 
-def build_records(config: CorpusConfig, refresh: bool) -> list[CaseRecord]:
+def build_records(
+    config: CorpusConfig,
+    refresh: bool,
+    *,
+    case_overrides: dict[str, dict[str, Any]] | None = None,
+    write_record_pages: bool = True,
+    rewrite_record_pages: bool = False,
+) -> list[CaseRecord]:
     raw_index = load_or_fetch(config.index_cache_path, config.mirror_url, refresh=refresh)
     _, index_markdown = split_mirror_response(raw_index)
     entries = parse_index_entries(index_markdown, config.heading)
+    case_overrides = case_overrides or {}
 
     records: list[CaseRecord] = []
     seen_slugs: set[str] = set()
@@ -566,20 +663,22 @@ def build_records(config: CorpusConfig, refresh: bool) -> list[CaseRecord]:
             markdown_path=rel(markdown_path),
             excerpt=excerpt,
         )
-        markdown_path.parent.mkdir(parents=True, exist_ok=True)
-        markdown_path.write_text(build_markdown(config, record, cleaned_text), encoding="utf-8")
+        preserve_existing_markdown = False
+        override = case_overrides.get(record.slug)
+        if override:
+            preserve_existing_markdown = apply_case_override(record, override)
+
+        markdown_path = ROOT / record.markdown_path
+        if write_record_pages:
+            skip_existing = markdown_path.exists() and (
+                preserve_existing_markdown or not rewrite_record_pages
+            )
+            if not skip_existing:
+                markdown_path.parent.mkdir(parents=True, exist_ok=True)
+                markdown_path.write_text(build_markdown(config, record, cleaned_text), encoding="utf-8")
         records.append(record)
 
-    return sorted(
-        records,
-        key=lambda item: (
-            item.issue_date_iso or "",
-            item.published_time_iso or "",
-            item.reference_label or "",
-            item.title,
-        ),
-        reverse=True,
-    )
+    return sort_case_records(records)
 
 
 def write_json(config: CorpusConfig, records: list[CaseRecord]) -> None:
@@ -673,10 +772,28 @@ def download_pdfs(config: CorpusConfig, refresh: bool) -> None:
     print(f"PDFs saved to {pdf_dir} ({len(entries)} entries)")
 
 
-def run(configs: list[CorpusConfig], refresh: bool) -> dict[str, list[CaseRecord]]:
+def run(
+    configs: list[CorpusConfig],
+    refresh: bool,
+    *,
+    use_existing_records: bool = False,
+    write_record_pages: bool = True,
+    rewrite_record_pages: bool = False,
+) -> dict[str, list[CaseRecord]]:
+    case_overrides = load_case_overrides()
     results: dict[str, list[CaseRecord]] = {}
     for config in configs:
-        records = build_records(config, refresh=refresh)
+        overrides = case_overrides.get(config.key, {})
+        if use_existing_records:
+            records = load_records_from_json(config, case_overrides=overrides)
+        else:
+            records = build_records(
+                config,
+                refresh=refresh,
+                case_overrides=overrides,
+                write_record_pages=write_record_pages,
+                rewrite_record_pages=rewrite_record_pages,
+            )
         write_json(config, records)
         build_index_pages(config, records)
         results[config.key] = records
@@ -687,6 +804,19 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Build markdown corpora for NPC decisions and resolutions.")
     parser.add_argument("corpus", choices=["decisions", "resolutions", "all"])
     parser.add_argument("--refresh", action="store_true", help="Refresh the mirrored source pages and documents.")
+    parser.add_argument(
+        "--indexes-only",
+        action="store_true",
+        help="Regenerate JSON and index pages from existing data without reading or writing case Markdown pages.",
+    )
+    parser.add_argument(
+        "--rewrite-record-pages",
+        action="store_true",
+        help=(
+            "Rewrite existing case Markdown pages. Records marked preserve_existing_markdown "
+            "in data/case_overrides.json are still skipped."
+        ),
+    )
     parser.add_argument(
         "--download-pdfs",
         action="store_true",
@@ -699,13 +829,24 @@ def main() -> int:
     else:
         selected = [CORPORA[args.corpus]]
 
+    if args.indexes_only and args.rewrite_record_pages:
+        parser.error("--indexes-only cannot be combined with --rewrite-record-pages")
+    if args.indexes_only and args.refresh:
+        parser.error("--indexes-only reads existing JSON and cannot be combined with --refresh")
+
     if args.download_pdfs:
         for config in selected:
             print(f"Downloading PDFs for {config.title}…")
             download_pdfs(config, refresh=args.refresh)
         return 0
 
-    results = run(selected, refresh=args.refresh)
+    results = run(
+        selected,
+        refresh=args.refresh,
+        use_existing_records=args.indexes_only,
+        write_record_pages=not args.indexes_only,
+        rewrite_record_pages=args.rewrite_record_pages,
+    )
     summary = ", ".join(f"{len(records)} {key}" for key, records in results.items())
     print(f"Generated {summary} under {CONTENT_DIR}")
     return 0

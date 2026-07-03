@@ -1,0 +1,134 @@
+{
+  "decisions": {
+    "npc-18-010-rla-v-pldt-enterprise": {
+      "markdown_path": "content/decisions/2016/npc-18-010-rla-v-pldt-enterprise.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-17-015-id-y-s-v-ds-bank": {
+      "markdown_path": "content/decisions/2016/npc-17-015-id-y-s-v-ds-bank.md",
+      "preserve_existing_markdown": true
+    }
+  },
+  "resolutions": {
+    "npc-bn-18-036-in-re-smart-communications-inc": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-036-in-re-smart-communications-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-038-in-re-social-security-system": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-038-in-re-social-security-system.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-029-in-re-hc-consumer-finance-philippines-inc": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-029-in-re-hc-consumer-finance-philippines-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-143-in-re-myhealth-clinic": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-143-in-re-myhealth-clinic.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-151-in-re-western-union-services-philippines-inc": {
+      "markdown_path": "content/resolutions/2018/npc-18-151-in-re-western-union-services-philippines-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-062-in-re-vrp-medical-center": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-062-in-re-vrp-medical-center.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-131-in-re-rarejob-english-assessment-inc-formerly-gola-english-tutorial-inc": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-131-in-re-rarejob-english-assessment-inc-formerly-gola-english-tutorial-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-008-in-re-rosewood-hotel-group": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-008-in-re-rosewood-hotel-group.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-144-in-re-office-warehouse-inc": {
+      "markdown_path": "content/resolutions/2018/npc-18-144-in-re-office-warehouse-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-035-in-re-active-network-llc": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-035-in-re-active-network-llc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-135-in-re-kgjs-fleet-management-manila-inc": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-135-in-re-kgjs-fleet-management-manila-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-138-in-re-pacific-plaza-resolution": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-138-in-re-pacific-plaza-resolution.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-046-in-re-city-government-of-iloilo-internal-audit-services": {
+      "markdown_path": "content/resolutions/2018/npc-18-046-in-re-city-government-of-iloilo-internal-audit-services.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-033-and-npc-bn-18-076-in-re-aig-shared-services-business-processing-inc-and-aig-shared-services-corporation-management-services-rohq-and-in-re-medicard-philippines-inc-festival-alabang-clinic": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-033-and-npc-bn-18-076-in-re-aig-shared-services-business-processing-inc-and-aig-shared-services-corporation-management-services-rohq-and-in-re-medicard-philippines-inc-festival-alabang-clinic.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-17-010-in-re-movie-and-television-review-and-classification-board": {
+      "markdown_path": "content/resolutions/2018/npc-17-010-in-re-movie-and-television-review-and-classification-board.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-220-and-npc-bn-18-231-in-re-department-of-trade-and-industry": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-220-and-npc-bn-18-231-in-re-department-of-trade-and-industry.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-213-in-re-manufacturers-life-insurance-co": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-213-in-re-manufacturers-life-insurance-co.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-019-in-re-ateneo-de-zamboanga-university": {
+      "markdown_path": "content/resolutions/2018/npc-18-019-in-re-ateneo-de-zamboanga-university.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-142-in-re-smart-communications-inc": {
+      "markdown_path": "content/resolutions/2018/npc-18-142-in-re-smart-communications-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-115-in-re-remit-inc": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-115-in-re-remit-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-006-in-re-business-world-inc": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-006-in-re-business-world-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-105-in-re-landbank-of-the-philippines-2": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-105-in-re-landbank-of-the-philippines-2.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-186-in-re-manila-shared-services-employees-credit-and-savings-cooperative": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-186-in-re-manila-shared-services-employees-credit-and-savings-cooperative.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-037-in-re-acesite-phils-hotel-corporation": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-037-in-re-acesite-phils-hotel-corporation.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-217-in-re-infosys-bpm-philippines": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-217-in-re-infosys-bpm-philippines.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-17-025-in-re-jobstreet-formerly-cid-bn-17-025": {
+      "markdown_path": "content/resolutions/2016/npc-bn-17-025-in-re-jobstreet-formerly-cid-bn-17-025.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-16-005-n-i-h-vs-wsq-medical-center-et-al": {
+      "markdown_path": "content/resolutions/2016/npc-16-005-n-i-h-vs-wsq-medical-center-et-al.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-069-in-re-professional-regulations-commission-prc": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-069-in-re-professional-regulations-commission-prc.md",
+      "preserve_existing_markdown": true
+    },
+    "cid-bn-18-086-in-re-tulay-sa-pag-unlad-inc": {
+      "markdown_path": "content/resolutions/2018/cid-bn-18-086-in-re-tulay-sa-pag-unlad-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-105-in-re-landbank-of-the-philippines": {
+      "markdown_path": "content/resolutions/2018/npc-bn-18-105-in-re-landbank-of-the-philippines.md",
+      "preserve_existing_markdown": true
+    }
+  }
+}

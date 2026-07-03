@@ -8,7 +8,7 @@ This Quartz workspace collects National Privacy Commission issuances and quasi-j
 
 - Corpus size: **65** issuances
 - Source index: https://privacy.gov.ph/pips-and-pics/advisories-circulars/
-- Local workflow: run `python3 scripts/build_npc_site.py build` for safe index/type refreshes, add `--rewrite-record-pages` only when you intentionally want to regenerate issuance/source/note pages, run `python3 scripts/build_npc_decisions_resolutions.py all --refresh` for decisions and resolutions, then `npx quartz build --serve` to preview the wiki.
+- Local workflow: run `python3 scripts/build_npc_site.py build` for safe index/type refreshes, add `--rewrite-record-pages` only when you intentionally want to regenerate issuance/source/note pages, run `python3 scripts/build_npc_decisions_resolutions.py all --indexes-only` for safe decision/resolution index refreshes, then `npx quartz build --serve` to preview the wiki.
 
 ## Browse
 - [[issuances/index|Issuances by year]]

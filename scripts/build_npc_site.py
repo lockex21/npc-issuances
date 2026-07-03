@@ -1151,7 +1151,7 @@ def build_content_tree(records: list[Issuance], *, write_record_pages: bool = Tr
         "",
         f"- Corpus size: **{issuance_count}** issuances",
         f"- Source index: {SOURCE_URL}",
-        "- Local workflow: run `python3 scripts/build_npc_site.py build` for safe index/type refreshes, add `--rewrite-record-pages` only when you intentionally want to regenerate issuance/source/note pages, run `python3 scripts/build_npc_decisions_resolutions.py all --refresh` for decisions and resolutions, then `npx quartz build --serve` to preview the wiki.",
+        "- Local workflow: run `python3 scripts/build_npc_site.py build` for safe index/type refreshes, add `--rewrite-record-pages` only when you intentionally want to regenerate issuance/source/note pages, run `python3 scripts/build_npc_decisions_resolutions.py all --indexes-only` for safe decision/resolution index refreshes, then `npx quartz build --serve` to preview the wiki.",
         "",
         "## Browse",
         "- [[issuances/index|Issuances by year]]",

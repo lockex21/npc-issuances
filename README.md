@@ -21,15 +21,17 @@ Decisions and resolutions are mirrored through `r.jina.ai` because the live NPC 
 - Primary issuance pages (text-first, manually annotatable): `content/issuances/<year>/...`
 - Companion notes (summary, links, auto metadata/backlinks): `content/notes/<year>/...`
 - Raw extraction notes (regenerated): `content/sources/<year>/...`
+- Advisory opinions: `content/advisory-opinions/<year>/...`
 - Decisions: `content/decisions/<year>/...`
 - Resolutions: `content/resolutions/<year>/...`
+- Orders: `content/orders/<year>/...`
 - Index pages: `content/types/`, `content/topics/`, `content/relationships/`
 
 The primary issuance page is intentionally centered on the issuance text for precise search/citation workflows.
 
 ## Editing In Obsidian
 
-Open `/Users/reinier/NPC_issuances` as an Obsidian vault.
+Open this repository root as an Obsidian vault.
 
 The primary issuance page preserves this editable block:
 
@@ -56,6 +58,20 @@ Companion notes preserve:
 
 ## Commands
 
+Run the repo checks:
+
+```bash
+npm run check
+```
+
+This runs TypeScript and code formatting checks, then validates the corpus with `scripts/validate_content.py`. The content validator checks tracked JSON paths, internal wikilinks, frontmatter, and generated/manual block markers.
+
+Run only the corpus validator:
+
+```bash
+npm run check:content
+```
+
 Refresh cache and metadata:
 
 ```bash
@@ -80,6 +96,32 @@ Build decisions and resolutions:
 python3 scripts/build_npc_decisions_resolutions.py all --refresh
 ```
 
+Refresh only decision/resolution JSON and index pages from existing data:
+
+```bash
+python3 scripts/build_npc_decisions_resolutions.py all --indexes-only
+```
+
+Regenerate non-preserved decision/resolution pages:
+
+```bash
+python3 scripts/build_npc_decisions_resolutions.py all --rewrite-record-pages
+```
+
+Build advisory opinions:
+
+```bash
+python3 scripts/build_npc_advisory_opinions.py --refresh
+```
+
+Build orders:
+
+```bash
+python3 scripts/build_npc_orders.py --refresh
+```
+
+Case-corpus builders preserve existing Markdown pages by default and write newly discovered pages when needed. Review diffs carefully after using `--rewrite-record-pages`; records pinned in `data/case_overrides.json` keep their corrected paths and preserve curated Markdown.
+
 ## Run Quartz Locally
 
 Quartz 4 requires Node 22+ and npm 10.9.2+.
@@ -95,4 +137,5 @@ Open `http://localhost:8080/`.
 
 - Automatic reference linking is strongest for numbered citations like `NPC Circular No. 2023-01`.
 - Companion/source notes are regenerated around preserved manual blocks.
+- Prettier is intentionally scoped to code and templates; do not bulk-format the legal Markdown corpus.
 - If the source index drops a file, remove obsolete generated notes manually from `content/`.

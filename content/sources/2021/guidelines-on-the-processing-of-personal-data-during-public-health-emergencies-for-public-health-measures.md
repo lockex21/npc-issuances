@@ -120,7 +120,7 @@ June 19, 2021).
 19) Cases, Department Memorandum No. 2020-0189 (April 17, 2020).  
 3 National Privacy Commission, Registration of Data Processing Systems and Notifications regarding Automated Decision-
 
-Making Operations [[[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-01]]], § 3 (F): “Data Processing System” refers to a structure and procedure by which  
+Making Operations [[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-01]], § 3 (F): “Data Processing System” refers to a structure and procedure by which
 personal data is collected and further processed in an information and communications system or relevant filing system,  
 including the purpose and intended output of the processing.  
 Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
@@ -348,7 +348,7 @@ Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 20 (2012).
 
 the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of  
 2012], Republic Act No. 10173 § 16 (2012); Rules and Regulations Implementing the Data Privacy Act of 2012, Republic  
-Act No. 10173, § 34-37 (2016); and National Privacy Commission, Data Subject Rights [[[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]]]  
+Act No. 10173, § 34-37 (2016); and National Privacy Commission, Data Subject Rights [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]]
 (January 29, 2021).  
 Ref No.: PDD-21-0081                                                                           NPC_PPO_ PDD _CIRC-V1.0, R0.0, 05 May 2021
 

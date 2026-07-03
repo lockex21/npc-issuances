@@ -7,7 +7,6 @@ draft: false
 All generated notes tagged as **Circular**.
 
 ## Notes
-- [[issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
 - [[issuances/undated/security-of-personal-data-in-government-agencies|Circular No. 16-01: Security of Personal Data in Government Agencies]]
 - [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Circular No. 20-02: Rules on the Issuance of Cease and Desist Orders]]
 - [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|Circular No. 18-03: Rules on Mediation before the National Privacy Commission]]
@@ -24,6 +23,7 @@ All generated notes tagged as **Circular**.
 - [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Circular No. 2020-03: Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements]]
 - [[issuances/2024/closed-circuit-television-cctv-systems|Circular No. 2024-02: Closed-Circuit Television (CCTV) Systems]]
 - [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Circular No. 2024-01: Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission]]
+- [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Circular No. 2023-06: Security of Personal Data in the Government and the Private Sector]]
 - [[issuances/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Circular No. 2023-01: Schedule of Fees and Charges of the National Privacy Commission]]
 - [[issuances/2023/guidelines-on-legitimate-interest|Circular No. 2023-07: Guidelines on Legitimate Interest]]
 - [[issuances/2023/guidelines-on-identification-cards|Circular No. 2023-03: Guidelines on Identification Cards]]

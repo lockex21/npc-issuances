@@ -102,41 +102,6 @@
       "ocr_used": false
     },
     {
-      "title": "Security of Personal Data in the Government and the Private Sector",
-      "reference_label": null,
-      "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf",
-      "pdf_path": "cache/pdfs/NPC-Circular-Repeal-16-01-Signed.pdf",
-      "text_path": "cache/text/NPC-Circular-Repeal-16-01-Signed.txt",
-      "raw_text_path": "cache/text_raw/NPC-Circular-Repeal-16-01-Signed.txt",
-      "slug": "security-of-personal-data-in-the-government-and-the-private-sector",
-      "year": "undated",
-      "kind": "Circular",
-      "canonical_reference": null,
-      "aliases": [
-        "security of personal data in the government and the private sector"
-      ],
-      "tags": [
-        "issuance",
-        "topic/government",
-        "topic/security",
-        "type/circular",
-        "year/undated"
-      ],
-      "excerpt": "WHEREAS, Section 2 of Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012” (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote...",
-      "issue_date": null,
-      "issue_date_iso": null,
-      "page_count": 10,
-      "citations": [
-        "circular no. 16-01."
-      ],
-      "outgoing_refs": [],
-      "incoming_refs": [],
-      "content_path": "content/issuances/undated/security-of-personal-data-in-the-government-and-the-private-sector.md",
-      "notes_path": "content/notes/undated/security-of-personal-data-in-the-government-and-the-private-sector.md",
-      "source_note_path": "content/sources/undated/security-of-personal-data-in-the-government-and-the-private-sector.md",
-      "ocr_used": false
-    },
-    {
       "title": "Security of Personal Data in Government Agencies",
       "reference_label": "Circular No. 16-01",
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-01-Security-of-Personal-Data-in-Government-Agencies.pdf",
@@ -1192,6 +1157,41 @@
       "content_path": "content/issuances/2023/faq-guidelines-on-legitimate-interest.md",
       "notes_path": "content/notes/2023/faq-guidelines-on-legitimate-interest.md",
       "source_note_path": "content/sources/2023/faq-guidelines-on-legitimate-interest.md",
+      "ocr_used": false
+    },
+    {
+      "title": "Security of Personal Data in the Government and the Private Sector",
+      "reference_label": "Circular No. 2023-06",
+      "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf",
+      "pdf_path": "cache/pdfs/NPC-Circular-Repeal-16-01-Signed.pdf",
+      "text_path": "cache/text/NPC-Circular-Repeal-16-01-Signed.txt",
+      "raw_text_path": "cache/text_raw/NPC-Circular-Repeal-16-01-Signed.txt",
+      "slug": "security-of-personal-data-in-the-government-and-the-private-sector",
+      "year": "2023",
+      "kind": "Circular",
+      "canonical_reference": "circular no. 2023-06",
+      "aliases": [
+        "security of personal data in the government and the private sector"
+      ],
+      "tags": [
+        "issuance",
+        "topic/government",
+        "topic/security",
+        "type/circular",
+        "year/2023"
+      ],
+      "excerpt": "WHEREAS, Section 2 of Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012” (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote...",
+      "issue_date": "December 1, 2023",
+      "issue_date_iso": "2023-12-01",
+      "page_count": 10,
+      "citations": [
+        "circular no. 16-01."
+      ],
+      "outgoing_refs": [],
+      "incoming_refs": [],
+      "content_path": "content/issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector.md",
+      "notes_path": "content/notes/2023/security-of-personal-data-in-the-government-and-the-private-sector.md",
+      "source_note_path": "content/sources/2023/security-of-personal-data-in-the-government-and-the-private-sector.md",
       "ocr_used": false
     },
     {

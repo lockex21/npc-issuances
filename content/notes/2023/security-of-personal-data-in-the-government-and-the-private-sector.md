@@ -23,7 +23,7 @@ Write a concise summary and legal significance notes here.
 ## Generated Record
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
-- Raw source note: [[sources/undated/security-of-personal-data-in-the-government-and-the-private-sector|Raw source text]]
+- Raw source note: [[sources/2023/security-of-personal-data-in-the-government-and-the-private-sector|Raw source text]]
 - Reference: None detected
 - Type: Circular
 - Year: undated

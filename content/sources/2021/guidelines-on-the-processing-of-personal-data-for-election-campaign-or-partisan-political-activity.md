@@ -513,7 +513,7 @@ protection of personal data.
 
 SECTION 7. Interpretation. — Any doubt in the interpretation of any provision of this
 
-15 National Privacy Commission, Data Subject Rights [[[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]]] (January 29, 2021).  
+15 National Privacy Commission, Data Subject Rights [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] (January 29, 2021).
 16 See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 28 (d) (2016).  
 17 Id. § 19 (d) (2016).
 

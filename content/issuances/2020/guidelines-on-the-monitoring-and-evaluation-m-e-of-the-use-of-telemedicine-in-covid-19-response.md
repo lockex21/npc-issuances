@@ -17,6 +17,8 @@ date: '2020-04-14'
 
 ## Issuance Text
 
+<!-- BEGIN MANUAL ANNOTATED TEXT -->
+
 **Memorandum Circular No. 2020-0003**
 
 Department of Health OFFICE OF THE SECRETARY
@@ -635,6 +637,8 @@ to If signed by person other than patient, provide relationship sa patient: Kung
 Witness: Date: Saksi: Petsa: <!-- END MANUAL ANNOTATED TEXT -->
 
 ## Source And Notes
+
+<!-- BEGIN GENERATED TEXT INFO -->
 
 - Companion note: [[notes/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Analysis and metadata]]
 - Raw source text: [[sources/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Raw source extraction]]

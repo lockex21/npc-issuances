@@ -8,7 +8,7 @@ Generated notes for **2022** NPC resolutions.
 
 ## Notes
 - [[resolutions/2022/npc-bn-22-107-in-re-asia-united-bank-corporation|NPC BN 22-107: In Re: Asia United Bank Corporation]]
-- [[resolutions/2022/npc-bn-18-006-in-re-business-world-inc|NPC BN 18-006: In re: Business World Inc.]]
+- [[resolutions/2018/npc-bn-18-006-in-re-business-world-inc|NPC BN 18-006: In re: Business World Inc.]]
 - [[resolutions/2022/npc-22-180-and-22-181-dvl-v-alamat-crewsers-motorcycle-club-and-lae-v-alamat-crewsers-motorcycle-club|NPC 22-180 and 22-181: DVL v. Alamat Crewsers Motorcycle Club and LAE v. Alamat Crewsers Motorcycle Club]]
 - [[resolutions/2022/npc-bn-18-045-in-re-university-of-the-philippines-visayas|NPC BN 18-045: In re: University of the Philippines - Visayas]]
 - [[resolutions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010 to NPC 21-015: MVC, et al. v. DSL]]

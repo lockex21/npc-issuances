@@ -48,7 +48,9 @@ function syncMobileExplorerLocks() {
   const quartzBody = document.getElementById("quartz-body")
   let shouldLock = false
 
-  for (const explorer of document.getElementsByClassName("explorer") as HTMLCollectionOf<HTMLElement>) {
+  for (const explorer of document.getElementsByClassName(
+    "explorer",
+  ) as HTMLCollectionOf<HTMLElement>) {
     syncExplorerState(explorer)
     const mobileExplorer = explorer.querySelector(".mobile-explorer")
     if (isMobileExplorerToggle(mobileExplorer) && !explorer.classList.contains("collapsed")) {

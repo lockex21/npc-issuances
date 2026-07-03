@@ -14,8 +14,11 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
-    "check": "tsc --noEmit && npx prettier . --check",
-    "format": "npx prettier . --write",
+    "check": "npm run check:code && npm run check:content",
+    "check:code": "tsc --noEmit && npx prettier --check \"*.{ts,js,json}\" \"quartz/**/*.{ts,tsx,js,jsx,scss,json}\" \"assets/**/*.{css,js}\" \"templates/**/*.html\"",
+    "check:content": "python3 scripts/validate_content.py",
+    "format": "npm run format:code",
+    "format:code": "npx prettier --write \"*.{ts,js,json}\" \"quartz/**/*.{ts,tsx,js,jsx,scss,json}\" \"assets/**/*.{css,js}\" \"templates/**/*.html\"",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },

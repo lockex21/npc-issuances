@@ -14,7 +14,6 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "example.com",
     ignorePatterns: ["private", ".obsidian"],
     defaultDateType: "published",
     theme: {
