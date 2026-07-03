@@ -119,7 +119,7 @@ Following this, the requisites for mandatory breach notification to the Commissi
 
 The first requisite is absent in this case. The nature of the information involved is neither sensitive personal information nor other information that, under the circumstances, may enable identity fraud.
 
-The first requisite of mandatory breach notification under Section 11 of NPC Circular 16-03 should be read together with Section 20(f) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA). Section 20(f) expressly requires the consideration of the specific circumstances of a breach in determining whether other information involved in the breach may enable identity fraud:
+The first requisite of mandatory breach notification under Section 11 of NPC Circular 16-03 should be read together with Section 20(f) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA). Section 20(f) expressly requires the consideration of the specific circumstances of a breach in determining whether other information involved in the breach may enable identity fraud:
 
 > Section 20. Security of Personal Information.
 >

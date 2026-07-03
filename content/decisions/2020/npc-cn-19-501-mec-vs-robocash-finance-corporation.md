@@ -44,7 +44,7 @@ x------------------------------------------------------------x
 
 NAGA, D.P.C.:
 
-This is a complaint filed by MEC (Complainant) against Robocash Finance Corporation (Respondent) for violation of her rights under the Data Privacy Act (DPA).
+This is a complaint filed by MEC (Complainant) against Robocash Finance Corporation (Respondent) for violation of her rights under the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA).
 
 ### Facts
 
@@ -78,7 +78,7 @@ While the intention of the abovementioned provision is to promote settlement of 
 
 This Commission finds that the Complainant failed to provide sufficient information to substantiate the allegations made in her complaint.
 
-Section 10 of NPC Circular No. 16-04 (Rules of Procedure) provides: “The **complaint shall include a brief narration of the material facts and supporting documentary and testimonial evidence**, all of which show: (a) the violation of the Data Privacy Act of related issuance; or (b) the acts or omissions allegedly committed by the respondent amounting to a privacy violation or personal data breach…” (Emphasis Supplied)
+Section 10 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] (Rules of Procedure) provides: “The **complaint shall include a brief narration of the material facts and supporting documentary and testimonial evidence**, all of which show: (a) the violation of the Data Privacy Act of related issuance; or (b) the acts or omissions allegedly committed by the respondent amounting to a privacy violation or personal data breach…” (Emphasis Supplied)
 
 Furthermore, Section 22 of the NPC Circular No. 16-04 provides that, “the Commission shall adjudicate the issues raised in the complaint on the basis of all the evidence presented and its own consideration of the law the grounds for the dismissal of complaint.”
 

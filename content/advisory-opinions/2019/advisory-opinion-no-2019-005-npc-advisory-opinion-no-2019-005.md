@@ -41,7 +41,7 @@ We understand that the above requests stemmed from your predicament in dealing w
 
 ### Discussion
 
-#### Scope of the DPA
+#### Scope of the [[laws/data-privacy-act-of-2012|DPA]]
 
 The Data Privacy Act of 2012 (DPA)[^2] applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.
 
@@ -95,4 +95,4 @@ Privacy Commissioner and Chairman
 [^1]: Tags: data sharing, outsourcing, personal information controller, personal information processor, compliance
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: See generally, Data Privacy Act of 2012, § 12(f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed on June 11, 2018).
-[^4]: See: National Privacy Commission, Advisory Opinion No. 2018-080 (Nov. 5, 2018).
+[^4]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-080-npc-advisory-opinion-no-2018-080|Advisory Opinion No. 2018-080]] (Nov. 5, 2018).

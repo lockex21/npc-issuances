@@ -71,7 +71,7 @@ On 01 March 2019, NFM requested BPI to provide a copy of the record of the charg
 
 On the same day, NFM also wrote a letter addressed to Lazada asking for the same information.[^20] In the letter, NFM provided a summary of the communications made between her and various Lazada representatives.[^21]
 
-On 17 September 2019, NFM filed a complaint against BPI.[^22] She alleged that because of the unauthorized transaction, BPI processed her online banking username, password, mobile number, and credit card in violation of Section 25 of the DPA (Unauthorized Processing of Personal Information and Sensitive Personal Information).[^23]
+On 17 September 2019, NFM filed a complaint against BPI.[^22] She alleged that because of the unauthorized transaction, BPI processed her online banking username, password, mobile number, and credit card in violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]] (Unauthorized Processing of Personal Information and Sensitive Personal Information).[^23]
 
 NFM prayed for the reversal of payment with interest of the unauthorized transaction and for damages, and sought an Order to stop the temporary or permanent processing of her data.[^24]
 
@@ -91,7 +91,7 @@ On 17 December 2019, BPI filed an Urgent Motion for Extension of Time to File a 
 
 On 06 January 2020, BPI filed an Urgent Second Motion for Extension of Time to File a Responsive Comment and asked for an additional ten (10) days from 06 January 2020 or until 16 January 2020 to file a responsive comment.[^32] BPI reasoned that the holiday season and consequent non-working days prevented it from collating all the documents pertaining to the case.[^33]
 
-On 15 January 2020, BPI filed its Comment.[^34] BPI refuted NFM's claim and explained that NFM has no cause of action against BPI under Section 25 (Unauthorized Processing of Personal Information and Sensitive Personal Information) and Section 30 (Concealment of Security Breaches Involving Sensitive Personal Information) of the DPA.[^35] BPI explained that:
+On 15 January 2020, BPI filed its Comment.[^34] BPI refuted NFM's claim and explained that NFM has no cause of action against BPI under Section 25 (Unauthorized Processing of Personal Information and Sensitive Personal Information) and [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Section 30 (Concealment of Security Breaches Involving Sensitive Personal Information) of the DPA]].[^35] BPI explained that:
 
 It must be noted that Complainant voluntarily and expressly authorized Respondent [BFSB] BPI to process her personal data as a credit card holder. This is specifically provided in the terms and conditions she acceded to during card application. Hence, it is peculiar that she is accusing Respondent [BFSB] BPI of processing her personal data without her consent.
 

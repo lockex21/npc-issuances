@@ -149,5 +149,5 @@ GENERAL RECORDS UNIT
 [^17]: Compliance dated 22 August 2023 of Philippine National Police, at p. 1.
 [^18]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18 (D) (15 December 2016) (NPC Circular 16-03).
 [^19]: Compliance dated 22 August 2023 of Philippine National Police, at p. 1.
-[^20]: In Re Health Delivery System, Inc., NPC BN 20-049, Resolution dated 01 July 2021, at p. 5.
+[^20]: In Re Health Delivery System, Inc., [[resolutions/2021/npc-bn-20-049-in-re-health-delivery-system-inc|NPC BN 20-049]], Resolution dated 01 July 2021, at p. 5.
 [^21]: Id, at p. 4.

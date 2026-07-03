@@ -35,7 +35,7 @@ contrary to his claims in his DTR that he was in the University’s premises.
 Given the forgoing, you sought resolution for the following matters:
 
    1) Whether or not the PDS (which was obtained without observing the procedures and
-         protocols prescribed in NPC Advisory No. 2017-02 dated 3 April 2017) can be accepted
+         protocols prescribed in [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|NPC Advisory No. 2017-02]] dated 3 April 2017) can be accepted
          as an admissible evidence to the administrative investigation to be conducted by the
          Appointing/Disciplining Authority; and
 
@@ -47,13 +47,12 @@ Given the forgoing, you sought resolution for the following matters:
 A PDS is an official document required of a government employee and official and is the
 repository of all information regarding his or her personal background, qualification, and
 eligibility.[^4] Because the PDS contains sensitive personal information, its processing, which
-includes disclosure, may find basis under Section 13 of the DPA, particularly Section 13(b),
+includes disclosure, may find basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], particularly Section 13(b),
 which recognizes the processing that is provided for by existing laws and regulations, and
 Section 13(f) when such personal information is provided to government or public authority.
 
 While access to the PDS may be allowed, the same may still be regulated, taking into
-consideration a government official or employee’s right to data privacy. Thus, in NPC
-Advisory No. 2017-02, the NPC laid down the guidelines in resolving requests for access to a
+consideration a government official or employee’s right to data privacy. Thus, in NPC Advisory No. 2017-02, the NPC laid down the guidelines in resolving requests for access to a
 PDS as follows:
 
    1. The information requested falls under matters of public concern;
@@ -105,4 +104,4 @@ Privacy Commissioner
 [^4]: Advincula v. Dicen, G.R. No.162403 (2005).
 [^5]: Civil Service Commission, 2017 Rules on Administrative Cases in the Civil Service (July 3, 2017).
 [^6]: Id. § 3.
-[^7]: National Privacy Commission, NPC Advisory Opinion No. 2019-023 (June 13, 2019).
+[^7]: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-023-npc-advisory-opinion-no-2019-023|NPC Advisory Opinion No. 2019-023]] (June 13, 2019).

@@ -34,7 +34,7 @@ This refers to your query which was received by the National Privacy Commission 
 
 #### Registration of Data Processing Systems
 
-Section 47 of the Implementing Rules and Regulations (IRR) of the Data Privacy Act of 2012 (DPA) in relation to Section 5 of NPC Circular No. 17-01 requires the registration of the data processing systems of personal information controllers (PICs) and personal information processors (PIPs) under the following conditions:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Section 47 of the Implementing Rules and Regulations]] (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) in relation to Section 5 of NPC Circular No. 17-01 requires the registration of the data processing systems of personal information controllers (PICs) and personal information processors (PIPs) under the following conditions:
 
 A. the PIC or PIP employs at least two hundred fifty (250) employees;
 
@@ -104,5 +104,5 @@ Privacy Commissioner and Chairman
 [^3]: IRR of RA 10173, §18(a)
 [^4]: Id., §18(b)
 [^5]: Id., §20(d)
-[^6]: NPC Circular No. 16-02, §3(E)
+[^6]: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], §3(E)
 [^7]: NPC Circular No. 16-02, §19

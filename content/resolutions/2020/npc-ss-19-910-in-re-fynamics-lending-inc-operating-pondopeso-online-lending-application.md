@@ -35,7 +35,7 @@ draft: false
 
 IN RE: FYNAMICS LENDING INC. OPERATING PONDOPESO ONLINE LENDING APPLICATION
 
-For violation of the Data Privacy Act of 2012
+For violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 
 x-----x
 

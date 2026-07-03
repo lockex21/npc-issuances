@@ -25,11 +25,11 @@ title: "Data Subject Rights (Advisory No. 2021-01)"
 
 WHEREAS, the right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution emphasizes that the State values the dignity of every human person and guarantees full respect for human rights;
 
-WHEREAS, the Data Privacy Act of 2012 (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth;[^1]
+WHEREAS, the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth;[^1]
 
 WHEREAS, the DPA provides that personal information must be collected for specified and legitimate purposes, processed fairly and lawfully, accurate, relevant and, where necessary, kept up to date, adequate and not excessive in relation to the purposes for processing, and retained only for as long as necessary;[^2]
 
-WHEREAS, the DPA and its Implementing Rules and Regulations (IRR) provide for the rights of the data subjects, instances where these may be duly exercised, and the obligations of personal information controllers and processors;[^3]
+WHEREAS, the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for the rights of the data subjects, instances where these may be duly exercised, and the obligations of personal information controllers and processors;[^3]
 
 WHEREAS, the DPA mandates that any doubt in the interpretation of any provision of the law shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed;[^4]
 

@@ -83,7 +83,7 @@ Approved:
 [^2]: See UN Committee on the Rights of the Child (UNCRC), General Comment No. 25 (2021) on Children’s Rights in Relation to the Digital Environment, CRC/C/GC/25 (2 March 2021).
 [^3]: See Convention on the Rights of the Child art. 3(1), adopted 20 November 1989, 1577 U.N.T.S. 3.
 [^4]: See Id. art. 5.
-[^5]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 11 (2012).
+[^5]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 § 11 (2012).
 [^6]: See National Privacy Commission, Security of Personal Data in the Government and the Private Sector, Circular No. 06, Series of 2023 [NPC Circ. No. 23-06], (01 December 2023).
 [^7]: See Id.
 [^8]: Data Privacy Act of 2012, § 20 (f).

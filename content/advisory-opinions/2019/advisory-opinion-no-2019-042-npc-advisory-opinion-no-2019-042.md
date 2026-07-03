@@ -38,7 +38,7 @@ You now ask the following:
 
 ## Discussion
 
-### Scope of the Data Privacy Act of 2012; lawful criteria for processing
+### Scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]; lawful criteria for processing
 
 The Data Privacy Act of 2012[^2] (DPA) applies to all types of processing of personal information subject to certain qualifications.[^3] The disclosure of documents containing personal or sensitive personal information (collectively, personal data) is considered processing. The law sets certain parameters under which personal data may be processed in a manner that is consistent with the general data privacy principles.
 
@@ -52,7 +52,7 @@ Due consideration should also be given to the information requested and whether 
 
 Data sharing is allowed when it is expressly authorized by law and adequate safeguards are in place, including adherence by the parties thereto to the general principles of transparency, legitimate purpose, and proportionality.[^7]
 
-Relative to this, the NPC issued NPC Circular No. 16-02 which sets out guidelines for data sharing agreements involving government agencies. Section 1 of the Circular provides:
+Relative to this, the NPC issued [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] which sets out guidelines for data sharing agreements involving government agencies. Section 1 of the Circular provides:
 
 > SECTION 1. *General Principle.* To facilitate the performance of a public function or the provision of a public service, a government agency may share or transfer personal data under its control or custody to a third party through a data sharing agreement: *Provided,* that nothing in this Circular shall be construed as prohibiting or limiting the sharing or transfer of any personal data that is already authorized or required by law.
 

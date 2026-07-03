@@ -42,7 +42,7 @@ x----x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by Complainant MRS against Respondents National Conciliation and Mediation Board (NCMB) and Department of Labor and Employment (DOLE) for an alleged violation of Republic Act No. 10173 (“Data Privacy Act”).
+Before this Commission is a Complaint filed by Complainant MRS against Respondents National Conciliation and Mediation Board (NCMB) and Department of Labor and Employment (DOLE) for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (“Data Privacy Act”).
 
 ### Facts
 

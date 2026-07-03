@@ -24,7 +24,7 @@ Dear [Redacted],
 
 ### Discussion
 
-This refers to the letters of the Securities and Exchange Commission (SEC) dated 3 August 2016 and 4 February 2017 to the National Privacy Commission (NPC), seeking guidance regarding the implications of Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA), and its Implementing Rules and Regulations (IRR) on the operations of the SEC, including the public's access to the SEC Reverse Search Module (RSM).
+This refers to the letters of the Securities and Exchange Commission (SEC) dated 3 August 2016 and 4 February 2017 to the National Privacy Commission (NPC), seeking guidance regarding the implications of Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA), and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) on the operations of the SEC, including the public's access to the SEC Reverse Search Module (RSM).
 
 #### SEC and its Computerization Program
 
@@ -66,7 +66,7 @@ The exemption afforded to personal information processed for journalistic purpos
 
 The exemption from DPA requirements afforded to personal data being processed by journalists may not be invoked by the latter when insisting that the RSM facility be made accessible to the public anew.
 
-Section 4(d) of the DPA provides for the non-applicability of the law on personal data processed for journalistic, artistic, literary or research purposes. The law's Implementing Rules and Regulations (IRR) explain that this exemption is made "in order to uphold freedom of speech, of expression, or of the press, subject to requirements of other applicable law or regulations."[^13] They also clarify that the exemption is not absolute. It applies only to the data and not the entities involved in their processing (i.e., personal information controllers or personal information processors). Those entities remain to be subject to the requirements of the law, particularly those relating to the implementation of security measures.[^14] Note, too, that the exemption from DPA requirements is "only to the minimum extent necessary to achieve the specific purpose, function, or activity concerned."[^15]
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4(d) of the DPA]] provides for the non-applicability of the law on personal data processed for journalistic, artistic, literary or research purposes. The law's Implementing Rules and Regulations (IRR) explain that this exemption is made "in order to uphold freedom of speech, of expression, or of the press, subject to requirements of other applicable law or regulations."[^13] They also clarify that the exemption is not absolute. It applies only to the data and not the entities involved in their processing (i.e., personal information controllers or personal information processors). Those entities remain to be subject to the requirements of the law, particularly those relating to the implementation of security measures.[^14] Note, too, that the exemption from DPA requirements is "only to the minimum extent necessary to achieve the specific purpose, function, or activity concerned."[^15]
 
 Stated otherwise, the exemption is neither a golden ticket nor a *carte blanche* authorization that journalists can conveniently present to compel potential sources of information to turn over or disclose data under their custody. After all, public disclosure of data remains subject to a range of policies, including internal ones maintained by organizations, and other laws, as enacted or issued by the appropriate legislating authority.
 
@@ -78,7 +78,7 @@ The SEC must re-examine its current data processing systems, practices, programs
 
 #### Tax Identification Number (TIN)
 
-Section 3 of the DPA states that sensitive personal information includes personal information issued by government agencies peculiar to an individual. This makes an individual's TIN[^17] sensitive personal information the processing of which is prohibited, except in the instances provided in Section 13 of the same law. One such instance is when processing is allowed or required by existing laws and regulations[^18] and/or when the information is to be provided to a public authority or the government.[^19]
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] states that sensitive personal information includes personal information issued by government agencies peculiar to an individual. This makes an individual's TIN[^17] sensitive personal information the processing of which is prohibited, except in the instances provided in Section 13 of the same law. One such instance is when processing is allowed or required by existing laws and regulations[^18] and/or when the information is to be provided to a public authority or the government.[^19]
 
 Executive Order (EO) No. 98 (1999) directs all government agencies to require the TIN in all applications involving government permits, licenses, clearances, official papers, and/or documents. Whenever possible and where applicable, those documents cannot be issued without such information.[^20] In addition, the National Internal Revenue Code (NIRC), as amended, also requires that the TIN be indicated in certain documents, including those to be registered with the SEC.[^21]
 

@@ -29,7 +29,7 @@ This is in response to your letter received by the National Privacy Commission (
 
 #### Outsourcing
 
-The Implementing Rules and Regulations (IRR)[^1] of Republic Act No. 10173,[^2] otherwise known as the Data Privacy Act of 2012 (DPA), defines outsourcing as the disclosure of personal data by a personal information controller (PIC) to a personal information processor (PIP)[^3] for the latter to perform processing activities as instructed by the former.
+The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^1] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^2] otherwise known as the Data Privacy Act of 2012 (DPA), defines outsourcing as the disclosure of personal data by a personal information controller (PIC) to a personal information processor (PIP)[^3] for the latter to perform processing activities as instructed by the former.
 
 It is important to note that in an outsourcing agreement, the PIP does not have its own purpose for processing but merely carries out the instruction given by the PIC. Further, it cannot amend or process personal data outside the bounds of its agreement with the PIC. Hence, BSP should be the one to determine the purpose and means of the processing and ensure that the external service provider will not process the personal data for its own purpose or any purpose outside that determined in the service agreement.[^4]
 

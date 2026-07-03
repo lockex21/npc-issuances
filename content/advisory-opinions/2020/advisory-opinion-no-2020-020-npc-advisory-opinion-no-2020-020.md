@@ -31,7 +31,7 @@ We understand that the fees collected shall be used to defray administrative cos
 
 #### Right to Rectification; Charging of Fees
 
-The Data Privacy Act of 2012[^1] (DPA) recognizes the data subjects’ right to dispute the inaccuracy or error in his or her personal data and have the PIC correct it immediately and accordingly, unless the request is vexatious or otherwise unreasonable.[^2]
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) recognizes the data subjects’ right to dispute the inaccuracy or error in his or her personal data and have the PIC correct it immediately and accordingly, unless the request is vexatious or otherwise unreasonable.[^2]
 
 The DPA has no provisions regarding the charging of fees relative to a data subject’s request for rectification. Nevertheless, the EU General Data Protection Regulation (GDPR),[^3] the successor of the EU Data Protection Directive (Directive 95/46/EC) which heavily influenced the DPA, provides guidance on the matter:
 

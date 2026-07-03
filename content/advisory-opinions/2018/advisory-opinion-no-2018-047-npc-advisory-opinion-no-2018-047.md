@@ -29,13 +29,13 @@ We understand that you received a subpoena requiring you to appear in relation t
 
 In addition, you likewise mentioned that a portion of the said Certificate was posted on social media (Facebook) which showed the name of the child and the father, among others.
 
-You now inquire whether a violation of the Republic Act No. 10173,[^1] otherwise known as the Data Privacy Act of 2012 (DPA), has been committed in the given scenario.
+You now inquire whether a violation of the [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] otherwise known as the Data Privacy Act of 2012 (DPA), has been committed in the given scenario.
 
 ### Discussion
 
 #### Acquisition of the Certificate of Live Birth for a Court Proceeding
 
-The DPA and its Implementing Rules and Regulations (IRR) applies to the processing[^2] of all types of personal information and to any natural and juridical person in the government or private sector.[^3] Personal information is defined by the law as "any information, whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual."[^4] The law then further categorizes certain personal information as sensitive personal information, which among others, includes an individual's race, ethnic origin, age, color and religion.[^5]
+The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) applies to the processing[^2] of all types of personal information and to any natural and juridical person in the government or private sector.[^3] Personal information is defined by the law as "any information, whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual."[^4] The law then further categorizes certain personal information as sensitive personal information, which among others, includes an individual's race, ethnic origin, age, color and religion.[^5]
 
 The Certificate contains the following information of an individual: name, sex, date of birth, place of birth, citizenship, and religion, among others. By its very nature, the certificate issued by the Civil Registrar contains sensitive personal information.
 

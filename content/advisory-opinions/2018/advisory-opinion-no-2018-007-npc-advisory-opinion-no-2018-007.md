@@ -23,7 +23,7 @@ RE: DISCLOSURE OF THE MASTER LIST OF STUDENTS AND INDIVIDUALS WHO WERE VACCINATE
 
 Dear [Redacted],
 
-This pertains to your request for advisory opinion received by the Privacy Policy Office of the National Privacy Commission (NPC) on 05 February 2018, which sought to clarify whether the Department of Health (DOH) could provide a copy of the master list of students and individuals who were vaccinated with Dengvaxia®, without violating the provisions of Republic Act No. 10173[^1], also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR)[^2] and relevant issuances.
+This pertains to your request for advisory opinion received by the Privacy Policy Office of the National Privacy Commission (NPC) on 05 February 2018, which sought to clarify whether the Department of Health (DOH) could provide a copy of the master list of students and individuals who were vaccinated with Dengvaxia®, without violating the provisions of Republic Act No. 10173[^1], also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^2] and relevant issuances.
 
 In your letter-request, you have stated that the Public Attorney’s Office (PAO) is seeking to obtain the following personal information for each of the children/individuals vaccinated, starting with those given in April 2016 for the purpose of extending free legal assistance in civil, criminal and administrative cases to all possible victims of Dengvaxia® related injuries, illnesses and deaths:
 
@@ -41,9 +41,9 @@ Furthermore, the same master list was requested by certain private organizations
 
 ### Discussion
 
-It is important to establish that the personal information sought to be collected by the PAO, VACC, and the media is considered as sensitive personal information as defined in Section 3(l) of the DPA, particularly those relating to the individual’s age, health and health record (vaccination card, and status of being vaccinated). The information also relates to a vulnerable group of data subjects—minors.
+It is important to establish that the personal information sought to be collected by the PAO, VACC, and the media is considered as sensitive personal information as defined in [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]], particularly those relating to the individual’s age, health and health record (vaccination card, and status of being vaccinated). The information also relates to a vulnerable group of data subjects—minors.
 
-In general, processing of sensitive personal information is prohibited by law except in the cases provided under Section 13 of the DPA. The release of “a copy of the master list of students and individuals who were vaccinated with Dengvaxia®” will be lawful processing if is provided for by existing laws and regulations, or has the consent of data subjects or authorized representatives, otherwise the processing might be considered as unauthorized processing under the Data Privacy Act.
+In general, processing of sensitive personal information is prohibited by law except in the cases provided under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]. The release of “a copy of the master list of students and individuals who were vaccinated with Dengvaxia®” will be lawful processing if is provided for by existing laws and regulations, or has the consent of data subjects or authorized representatives, otherwise the processing might be considered as unauthorized processing under the Data Privacy Act.
 
 The Commission is mindful that information provided to government or public authority may be processed without consent when it is done pursuant to the particular agency’s constitutional or statutory mandate, and subject to the requirements of the DPA. In this case, the information sought to be released were not provided to the Public Attorney’s Office, and were not collected for purposes of the PAO’s legal mandate.
 

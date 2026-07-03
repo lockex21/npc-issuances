@@ -112,7 +112,7 @@ The documentary evidence submitted by the parties show that TCC did not release 
 
 Respondents cannot be held liable for a data privacy violation for merely requesting from TCC the Transcript of Records and Diploma of Complainant. The unheeded request for documents containing personal information cannot be considered as processing of personal information. The processing of personal information is an essential element of any data privacy violation.
 
-Section 3(j) of the Data Privacy Act defines Processing as follows:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(j) of the Data Privacy Act]] defines Processing as follows:
 
 > Processing refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.[^25]
 
@@ -130,9 +130,9 @@ It is a basic rule of evidence that mere allegations are not equivalent to proof
 
 As to Complainant's claim that her credentials were disclosed by Respondents' counsel, ECP, during a non-related case conference before the Department of Labor and Employment Mediation Board in Cainta, Rizal, suffice it to say that aside from the fact that no proof of said disclosure has been proffered, Respondents' counsel is not a respondent in this case.
 
-This Commission takes this opportunity to clarify that educational records are considered sensitive personal information, the lawful processing of which should conform to Section 13 of the Data Privacy Act. Given this, Respondents' justification for requesting the educational records of Complainant from TCC without her consent on the basis of its legitimate interest as an employer holds no merit.
+This Commission takes this opportunity to clarify that educational records are considered sensitive personal information, the lawful processing of which should conform to [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the Data Privacy Act]]. Given this, Respondents' justification for requesting the educational records of Complainant from TCC without her consent on the basis of its legitimate interest as an employer holds no merit.
 
-This Commission's Advisory Opinion No. 2018-006 provides that:
+This Commission's [[advisory-opinions/2018/advisory-opinion-no-2018-006-npc-advisory-opinion-no-2018-006|Advisory Opinion No. 2018-006]] provides that:
 
 > First and foremost, LPU, as an educational institution, is considered as a personal information controller (PIC), processing personal information of its students, employees, and alumni, thus, is covered by the law and under the jurisdiction of the NPC.
 >

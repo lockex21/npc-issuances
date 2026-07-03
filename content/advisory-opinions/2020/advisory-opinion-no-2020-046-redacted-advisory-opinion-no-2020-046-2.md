@@ -39,7 +39,7 @@ they took the school’s entrance/qualifying exam), are posted on the:
    a. School’s bulletin board; and
       b. School’s official social media account (e.g. Facebook) and/or official website.
 
-You ask whether NPC Advisory Opinion No. 2018-020 is applicable to Item A. You likewise
+You ask whether [[advisory-opinions/2018/advisory-opinion-no-2018-020-npc-advisory-opinion-no-2018-020|NPC Advisory Opinion No. 2018-020]] is applicable to Item A. You likewise
 ask if the above situations are not allowed under DPA, can it be remedied if such is clearly
 expressed in the Student Handbook, or in the enrolment form upon their enrolment (in a form
 of consent and disclosure)?
@@ -52,8 +52,7 @@ personal information,[^3] the processing of which is generally prohibited unless
 Apart from the student’s name, the data set enumerated included in the class roster, i.e.
 student’s school name, grade level, section and test scores, are considered sensitive personal
 information as these are related to the student’s education. The processing, which includes
-disclosure or posting, of the enumerated information must be in accordance with Section 13
-of the DPA, viz:
+disclosure or posting, of the enumerated information must be in accordance with [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], viz:
 
    SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of
        sensitive personal information and privileged information shall be prohibited, except in
@@ -136,7 +135,7 @@ is clearly expressed in the Student Handbook?
 
 Under the DPA, an individual’s name and photo are generally categorized as personal
 information, and the posting on social media of the same should be grounded upon a lawful
-basis under Section 12 of the DPA. In the case of the school, it may be possible to rely on the
+basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]]. In the case of the school, it may be possible to rely on the
 fulfilment of the school’s contract with its students as well as legitimate interest of the school
 pursuant to Section 12 (b) and (f) of the DPA, respectively.
 
@@ -246,7 +245,7 @@ In all cases, schools must have mechanisms in place whereby the students, by him
 or through their parent or legal guardian, would be able to exercise his/her rights as a data
 subject, i.e. be able to provide consent and withdraw the same, object to the processing of
 personal data, request for erasure, etc., as may be appropriate and subject to the provisions of
-the DPA and its Implementing Rules and Regulations.
+the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]].
 
 5. On posting students’ account or balance
 

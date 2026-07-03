@@ -22,9 +22,9 @@ Re: LAWFUL PROCESSING OF PERSONAL INFORMATION
 
 Dear [Redacted],
 
-This is with regard to your query received by the National Privacy Commission (NPC) regarding lawful processing of personal information under the Data Privacy Act of 2012 (DPA) and its Implementing Rules and Regulation (IRR).
+This is with regard to your query received by the National Privacy Commission (NPC) regarding lawful processing of personal information under the Data Privacy Act of 2012 (DPA) and its Implementing Rules and Regulation ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]).
 
-Specifically, you are asking guidance on whether it is common practice for personal information controllers (PIC) to rely on Section 12(b) of the Data Privacy Act of 2012 and Section 21(b) of its IRR on instances of lawful processing of personal information in relation to a fulfillment of a contract and if there are any particular considerations a PIC should keep in mind to be able to rely on such provision.
+Specifically, you are asking guidance on whether it is common practice for personal information controllers (PIC) to rely on [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(b) of the Data Privacy Act of 2012]] and Section 21(b) of its IRR on instances of lawful processing of personal information in relation to a fulfillment of a contract and if there are any particular considerations a PIC should keep in mind to be able to rely on such provision.
 
 This particular provision states that processing of personal information is allowed when the processing is necessary and is related to the fulfillment of a contract with the data subject or in order to take steps at the request of the data subject prior to entering into a contract.
 

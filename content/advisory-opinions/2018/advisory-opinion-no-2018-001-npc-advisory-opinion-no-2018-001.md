@@ -29,7 +29,7 @@ This pertains to your request for advisory opinion received by the National Priv
 
 #### Scope
 
-The DPA applies to the processing of all types of personal information and to any natural and juridical person involved in the personal information processing.[^1] Under Section 3(g) of the DPA, and Section 3(j) of its Implementing Rules and Regulation (IRR), personal information is defined as follows:
+The DPA applies to the processing of all types of personal information and to any natural and juridical person involved in the personal information processing.[^1] Under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(g) of the DPA]], and Section 3(j) of its Implementing Rules and Regulation ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), personal information is defined as follows:
 
 > Personal Information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 

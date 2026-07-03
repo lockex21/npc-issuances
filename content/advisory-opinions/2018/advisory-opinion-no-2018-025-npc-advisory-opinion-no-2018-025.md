@@ -26,7 +26,7 @@ Re: REQUEST FOR INFORMATION FROM LAW ENFORCEMENT AGENCIES
 
 Dear [Redacted],
 
-This pertains to your request for advisory opinion received by the Privacy Policy Office of the National Privacy Commission (NPC) on 10 April 2018, which sought to clarify whether the disclosure of Cebu Pacific passengers' personal information and travel records to law enforcement agencies is in accordance with Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR),[^2] and relevant issuances of the NPC.
+This pertains to your request for advisory opinion received by the Privacy Policy Office of the National Privacy Commission (NPC) on 10 April 2018, which sought to clarify whether the disclosure of Cebu Pacific passengers' personal information and travel records to law enforcement agencies is in accordance with Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR),[^2] and relevant issuances of the NPC.
 
 You mentioned in your letter that the Philippine Drug Enforcement Agency (PDEA) filed an administrative case against its employee, [Redacted]. In relation to the said case, PDEA would like to confirm [Redacted] whereabouts on 16 August 2015. Said personnel presented, as part of his defense the following:
 
@@ -58,7 +58,7 @@ In the event, however, that the trip of [Redacted] is personal in nature, and in
 
 #### Lawful Processing of Personal Information
 
-Section 12 of the DPA provides that personal information can only be processed if the data subject has given his or her consent, or when processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by third parties to whom the data is disclosed, among other conditions provided by law.
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] provides that personal information can only be processed if the data subject has given his or her consent, or when processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by third parties to whom the data is disclosed, among other conditions provided by law.
 
 We understand that this certification from Cebu Pacific is a crucial evidence that can incriminate or absolve [Redacted] from the ongoing administrative case. It is then considered as a legitimate interest of PDEA, the third party to whom data will be disclosed.
 

@@ -59,7 +59,7 @@ Thus, you seek advice on the following concerns:
 
 #### Personal information; lawful criteria for processing
 
-The Data Privacy Act of 2012 (DPA) applies to the processing of all types of personal information and sensitive personal information (collectively, personal data). Personal information is defined as any information whether recorded in a material form or not, from which the identity of the individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^2]
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) applies to the processing of all types of personal information and sensitive personal information (collectively, personal data). Personal information is defined as any information whether recorded in a material form or not, from which the identity of the individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^2]
 
 The names, address, and other unique identifiers such as one’s voice or speech pattern are considered as personal information. The DPA allows the processing of personal information when it is necessary for the purpose of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.[^3]
 
@@ -105,7 +105,7 @@ Lastly, the principle of proportionality dictates that the processing of persona
 
 #### Right to Object; Limitations
 
-The right to object to the processing of personal data applies in instances where processing is based on consent or legitimate interest. Nevertheless, it is still possible to continue processing personal data despite the objection where, for example, the same is necessary for the performance of or in relation to a contract or service to which the data subject is a party, or when necessary or desirable in the context of an employer-employee relationship.[^8] We refer to NPC Advisory No. 2021-01 on Data Subject Rights which provides:
+The right to object to the processing of personal data applies in instances where processing is based on consent or legitimate interest. Nevertheless, it is still possible to continue processing personal data despite the objection where, for example, the same is necessary for the performance of or in relation to a contract or service to which the data subject is a party, or when necessary or desirable in the context of an employer-employee relationship.[^8] We refer to [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] on Data Subject Rights which provides:
 
    SECTION 7. Right to Object. — The data subject shall have the right to object to the
             processing of his or her personal data where such processing is based on consent
@@ -144,7 +144,7 @@ Director IV, Privacy Policy Office
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
 [^3]: Id.
 [^4]: National Privacy Commission, Guidelines on Legitimate Interest, NPC Circular No. 2023 – 07, (13 December 2023).
-[^5]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [NPC 21-167] (Sept. 22, 2022).
+[^5]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]] (Sept. 22, 2022).
 [^6]: Id.
 [^7]: Id.
 [^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34 (b) (2) (2016).

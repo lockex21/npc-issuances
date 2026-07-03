@@ -33,8 +33,7 @@ course of such proceedings and up until their conclusion, various parties would 
 obtain – in some cases, demand – access to some or all information relating to such
 proceedings.
 
-Thus, the University now seeks clarification on the following questions in relation to the Data
-Privacy Act of 2012[^1] (DPA):
+Thus, the University now seeks clarification on the following questions in relation to the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA):
 
 1. Is the University required to disclose or share information (including personal data)
 about a particular administrative case to the following:
@@ -67,7 +66,7 @@ In this case, information about any proceeding for any offense committed or alle
 been committed by an individual, the disposal of such proceedings, or the sentence of any
 court in such proceedings are classified as sensitive personal information.[^3]
 
-In our Advisory Opinion No. 2019-011,[^4] the term “proceedings” has been interpreted to also
+In our [[advisory-opinions/2019/advisory-opinion-no-2019-011-npc-advisory-opinion-no-2019-011|Advisory Opinion No. 2019-011]],[^4] the term “proceedings” has been interpreted to also
 include those non-judicial in nature, including administrative proceedings, to wit: “…case
 files of every data subject, in all types of proceedings, shall be provided a higher degree of
 protection ‘as the context of their processing could create significant risks to the fundamental

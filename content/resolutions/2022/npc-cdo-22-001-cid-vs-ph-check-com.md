@@ -136,7 +136,7 @@ In a Supplemental Report dated 05 July 2022 (Supplemental Report), the CID furth
 >
 > xxx
 >
-> Moreover, the owners/administrators took means to hide their identity and did not provide any contact details, making it difficult for data subjects to exercise their rights to their personal information, contrary to the requirements set forth in Section 16 of the DPA[.]
+> Moreover, the owners/administrators took means to hide their identity and did not provide any contact details, making it difficult for data subjects to exercise their rights to their personal information, contrary to the requirements set forth in [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]][.]
 >
 > xxx
 >
@@ -176,7 +176,7 @@ Given these circumstances, PH-Check.com, as a PIC, has obligations under the DPA
 
 The Commission also has the correlative duty to ensure that PICs, like PH-Check.com, comply with the law. This duty includes taking necessary steps to protect and uphold the rights of data subjects, such as the issuance of a CDO when needed.
 
-Section 7(c) of the DPA provides for the power of the Commission to issue CDOs:
+[[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(c) of the DPA]] provides for the power of the Commission to issue CDOs:
 
 > **Section 7. Functions of the National Privacy Commission.** – To administer and implement the provisions of this Act, and to monitor and ensure compliance of the country with international standards set for data protection, there is hereby created an independent body to be known as the National Privacy Commission, which shall have the following functions:
 >
@@ -230,7 +230,7 @@ The CID also claimed that the rights of data subjects in Section 16 of the DPA a
 
 A PIC has the obligation to adhere to the DPA's general data privacy principles of transparency, legitimate purpose and proportionality.[^47]
 
-Under Section 18 of the IRR of the DPA:
+Under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 of the IRR]] of the DPA:
 
 > **Section 18. Principles of Transparency, Legitimate Purpose and Proportionality.** The processing of personal data shall be allowed subject to adherence to the principles of transparency, legitimate purpose, and proportionality.
 >

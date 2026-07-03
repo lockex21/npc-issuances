@@ -35,11 +35,11 @@ We understand from your e-mail that in order to write-off the hospital's bad deb
 
 A Death Certificate is an official document setting forth particulars relating to a dead person.[^3] It contains details such as (a) date and place of death, (b) full name, (c) age, (d) sex, (e) occupation or profession, (f) residence, (g) status as regards marriage, (h) nationality of the deceased, and (i) probable cause of death.[^4]
 
-Section 3 of the DPA specifically enumerates sensitive personal information. This includes information about an individual's marital status, age and health, among others. Thus, certain personal data found in the Death Certificate are sensitive personal information which must be processed in accordance with the DPA.
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] specifically enumerates sensitive personal information. This includes information about an individual's marital status, age and health, among others. Thus, certain personal data found in the Death Certificate are sensitive personal information which must be processed in accordance with the DPA.
 
 ### Processing of sensitive personal information pursuant to existing laws and regulations
 
-Considering that a Death Certificate contains sensitive personal information, disclosure is generally prohibited unless it falls within the cases provided for in Section 13 of the DPA, specifically, if processing is provided for by existing laws and regulations.
+Considering that a Death Certificate contains sensitive personal information, disclosure is generally prohibited unless it falls within the cases provided for in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], specifically, if processing is provided for by existing laws and regulations.
 
 In this instance, a Death Certificate may be released by the PSA to PGH pursuant to Section 8.3 (b) (b1), in relation to Section 7.4 (b), of COA Circular No. 2016-005[^5] which requires the submission of the death certificate for purposes of writing off dormant receivables of government agencies and instrumentalities arising from regular business transactions. This COA circular is applicable to PGH being the country's largest government tertiary hospital.
 

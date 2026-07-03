@@ -61,7 +61,7 @@ Medical records, out-patient records, autopsy records, records from the Departme
 Cytology, Hematology, Radiology, Ultrasound, Nuclear Medicine, CT Scan, MRI and Tumor
 Registry Board contain health information of SLMC patients. As mandated by our data privacy
 law, any information about an individual’s health is classified as sensitive personal information,
-and the processing of such is prohibited, except in cases stipulated in Section 13 of the DPA. For
+and the processing of such is prohibited, except in cases stipulated in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]. For
 processing to be lawful, the law requires that at least one of the criteria for processing must exist.
 
 Particularly, Section 13 (b) of the DPA states:
@@ -83,7 +83,7 @@ cancer registries, whereby cancer registry data shall be submitted to the DOH as
 for renewal of license to operate a hospital. Both sections of the law recognize explicitly that the
 processing of the personal data for such registries shall be in accordance with the DPA.
 
-The law’s Implementing Rules and Regulations (IRR) specifically provides that the national
+The law’s [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) specifically provides that the national
 cancer registry shall include existing quality population-based cancer registries and shall expand
 to other strategically defined geographical areas.[^3]
 

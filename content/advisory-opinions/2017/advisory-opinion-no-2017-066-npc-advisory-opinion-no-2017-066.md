@@ -29,7 +29,7 @@ You sought clarification as to any violation regarding the collection of certain
 
 ### Discussion
 
-A perfunctory reading of Republic Act (RA) No. 10173 or the Data Privacy Act of 2012 (“DPA”) and its Implementing Rules and Regulations (“IRR”) will reveal that the processing of personal information should adhere to the principles of transparency, legitimate purpose and proportionality.
+A perfunctory reading of Republic Act (RA) No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (“DPA”) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (“IRR”) will reveal that the processing of personal information should adhere to the principles of transparency, legitimate purpose and proportionality.
 
 Transparency means that the data subject must be aware of the nature, purpose, and extent of the processing of his or her personal data.[^1] Legitimate purpose means that the processing of personal information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy.[^2] Proportionality means that the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.[^3]
 

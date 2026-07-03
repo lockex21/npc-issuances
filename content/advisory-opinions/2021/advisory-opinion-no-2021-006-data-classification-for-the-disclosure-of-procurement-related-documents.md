@@ -25,11 +25,11 @@ Dear [Redacted],
 
 We write in response to your email inquiry received by the National Privacy Commission (NPC) seeking clarification on whether it is necessary for the Bids and Awards Committee (BAC) of the Bangko Sentral ng Pilipinas - Security Plant Complex (BSP-SPC) to have its data classification approved or enrolled with the NPC, and whether there is an established procedure for the same.
 
-We understand that the BAC of the BSP-SPC would like to establish consistency in releasing procurement-related documents to the public and to all other relevant parties especially since requests for bidding documents are oftentimes received by the BSP-SPC from interested parties, i.e., losing bidders and uninvited non-government organizations (NGOs), in order for them to determine BSP-SPC's compliance with Republic Act No. 9184[^2] (R.A. 9184) otherwise known as the Government Procurement Reform Act and its revised Implementing Rules and Regulations[^3] (IRR).
+We understand that the BAC of the BSP-SPC would like to establish consistency in releasing procurement-related documents to the public and to all other relevant parties especially since requests for bidding documents are oftentimes received by the BSP-SPC from interested parties, i.e., losing bidders and uninvited non-government organizations (NGOs), in order for them to determine BSP-SPC's compliance with Republic Act No. 9184[^2] (R.A. 9184) otherwise known as the Government Procurement Reform Act and its revised [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^3] (IRR).
 
 ### Discussion
 
-#### Data Privacy Act of 2012; scope; data classification approval
+#### [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]; scope; data classification approval
 
 We wish to clarify that the Data Privacy Act of 2012[^4] (DPA) would only apply to the processing of all types of personal information and to any natural and juridical person involved in personal information processing. Personal information is defined as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^5]
 

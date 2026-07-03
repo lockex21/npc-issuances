@@ -139,7 +139,7 @@ These documents contained not just his employment history and premiums but his d
 >
 > (3) Issued by government agencies peculiar to an individual which includes, but not limited to, **social security numbers,** previous or current health records, licenses or its denials, suspension or revocation, and tax returns;[^19]
 
-Absent any basis to process such sensitive personal information,[^20] the access and use of Complainant's SSS documents as attachments in a position paper may constitute unauthorized processing under Section 25 of the Data Privacy Act.
+Absent any basis to process such sensitive personal information,[^20] the access and use of Complainant's SSS documents as attachments in a position paper may constitute unauthorized processing under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the Data Privacy Act]].
 
 In the interest of giving due course to Complainant's claims, the Commission resolves to order Complainant to provide the following:
 

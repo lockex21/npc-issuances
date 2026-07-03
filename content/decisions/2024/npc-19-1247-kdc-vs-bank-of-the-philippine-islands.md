@@ -42,7 +42,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before this Commission is a Complaint filed by KDC (Complainant) against Bank of the Philippine Islands (Respondent) for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).[^1]
+Before this Commission is a Complaint filed by KDC (Complainant) against Bank of the Philippine Islands (Respondent) for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA).[^1]
 
 ### Facts
 

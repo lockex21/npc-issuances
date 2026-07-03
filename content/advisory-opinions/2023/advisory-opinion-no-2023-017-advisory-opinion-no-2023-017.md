@@ -38,7 +38,7 @@ The Data Privacy Act of 2012 (DPA) protects individual personal information in i
 
  > (2) About an individual’s health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings;[^3] (Emphasis Supplied)
 
-Applying the foregoing to your present concern, since the CIRAS contains data of criminal complaints and reports including information pertaining to victims and suspects, its contents are considered as sensitive personal information under the DPA. As a general rule, the processing of sensitive personal information is prohibited. Nevertheless, Section 13 of the DPA provides for instances where processing of sensitive personal information may be allowed, such as when:
+Applying the foregoing to your present concern, since the CIRAS contains data of criminal complaints and reports including information pertaining to victims and suspects, its contents are considered as sensitive personal information under the DPA. As a general rule, the processing of sensitive personal information is prohibited. Nevertheless, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] provides for instances where processing of sensitive personal information may be allowed, such as when:
 
 > (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when **provided by government or public authority.** (Emphasis supplied)
 
@@ -46,7 +46,7 @@ Thus, granting government agencies access to the CIRAS database is considered la
 processing of sensitive personal information as the information shall be provided to the
 government or public authority.
 
-Furthermore, Section 4 of the DPA also recognizes special cases where the DPA’s application may be limited or qualified, thus:
+Furthermore, [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] also recognizes special cases where the DPA’s application may be limited or qualified, thus:
 
 > (e) Information necessary in order to carry out the functions of public authority which includes the processing of personal data for the performance by the independent, central monetary authority and law enforcement and regulatory agencies of their constitutionally and statutorily mandated functions. Nothing in this Act shall be construed as to have amended or repealed Republic Act No. 1405, otherwise known as the Secrecy of Bank Deposits Act; Republic Act No. 6426, otherwise known as the Foreign Currency Deposit Act; and Republic Act No. 9510, otherwise known as the Credit Information System Act (CISA);
 >
@@ -54,7 +54,7 @@ Furthermore, Section 4 of the DPA also recognizes special cases where the DPA’
 
 To assist you in evaluating a request for access by a government agency, it is worth revisiting the relevant discussions in NPC Advisory Opinion No. 2022-064[^4] thus:
 
-> The above special case provides for qualifications or limitations on the application of the provisions of the DPA and its IRR. This means that when the personal and/or sensitive personal information (collectively, personal data) is needed to be processed by a public authority, such as the PDEA, pursuant to its statutory mandate, the processing of such personal data may be allowed under the law, to the minimum extent of collection, access, use, disclosure, or other processing necessary to the purpose, function, or activity concerned.
+> The above special case provides for qualifications or limitations on the application of the provisions of the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]. This means that when the personal and/or sensitive personal information (collectively, personal data) is needed to be processed by a public authority, such as the PDEA, pursuant to its statutory mandate, the processing of such personal data may be allowed under the law, to the minimum extent of collection, access, use, disclosure, or other processing necessary to the purpose, function, or activity concerned.
 >
 > The following should guide the company in relation to the above-quoted provision:
 >
@@ -79,7 +79,7 @@ Please note that even if there is a legal basis for processing, the DPA does not
 
 One such principle is the principle of proportionality which states that the processing of personal data shall be adequate, relevant, suitable necessary and not excessive in relation to a declared specified purpose. It also states that personal data shall only be processed only if the purpose of the processing could not be reasonably fulfilled by any other means.[^5] Thus, disclosure of personal data to requesting entities should be limited to its declared, specified, and legitimate purpose. In addition, only those personal data that are needed in relation to the declared and stated purpose should be disclosed to the requesting entities, which may be determined by the PNP on a case-to-case basis.
 
-In NPC Advisory Opinion No. 2020-036,[^6] we discussed the matter of inter-agency requests between PICs and its relation to the data privacy principle of proportionality, viz.:
+In [[advisory-opinions/2020/advisory-opinion-no-2020-036-redacted-advisory-opinion-no-2020-036-2|NPC Advisory Opinion No. 2020-036]],[^6] we discussed the matter of inter-agency requests between PICs and its relation to the data privacy principle of proportionality, viz.:
 
 > While the requested documents, such as the certificates of title and tax declarations, are the best proof of ownership and sufficient basis for inferring possession over a parcel of land, respectively, which means that the said documents shall significantly facilitate the identification of the current owners and possessors of the affected properties, there is a need to evaluate whether releasing actual copies of the same is proportional to the purpose of identification of owners/possessors. NGCP should consider whether it may be reasonable and acceptable for the respective Register of Deeds, the Assessors’ Offices and the city or municipal planning offices of the affected LGUs to provide certifications/lists of names and contact details of the owners/possessors per official records instead, without necessarily releasing copies of the land documents.
 >

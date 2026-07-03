@@ -20,7 +20,7 @@ title: "2021 Rules of Procedure of the National Privacy Commission (Circular No.
 
 **Circular No. 2021-01**
 
-Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#Section 7(b)|Section 7(b) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],” to receive complaints and institute investigations on matters affecting any personal information, the following 2021 Rules of Procedure of the National Privacy Commission are hereby prescribed and promulgated, repealing for this purpose [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] (Rules of Procedure) dated 15 December 2016 and [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|NPC Circular No. 18-03]] (Rules on Mediation before the National Privacy Commission) dated 18 December 2018.
+Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],” to receive complaints and institute investigations on matters affecting any personal information, the following 2021 Rules of Procedure of the National Privacy Commission are hereby prescribed and promulgated, repealing for this purpose [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] (Rules of Procedure) dated 15 December 2016 and [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|NPC Circular No. 18-03]] (Rules on Mediation before the National Privacy Commission) dated 18 December 2018.
 
 ## RULE I. GENERAL PROVISIONS
 
@@ -66,7 +66,7 @@ P. **Sua Sponte Investigation** - shall refer to an investigation initiated by t
 
 **SECTION 5.** ***Enforcement Powers.*** The Commission may use its enforcement powers in the course of investigations to order cooperation of the subject of the investigation or other interested individuals or entities; or to compel appropriate action to protect the interests of data subjects.
 
-**SECTION 6.** ***Prescriptive Period of the Penal provision of the DPA.*** The Commission adopts the periods of prescription for violations penalized by special acts as provided under Act 3326[^3] and any amendments thereto.
+**SECTION 6.** ***Prescriptive Period of the Penal provision of the [[laws/data-privacy-act-of-2012|DPA]].*** The Commission adopts the periods of prescription for violations penalized by special acts as provided under Act 3326[^3] and any amendments thereto.
 
 ## RULE II. COMPLAINTS
 
@@ -124,7 +124,7 @@ proper form, as follows:
 
    6. The complaint shall include a narration of the material facts and supporting
       testimonial or documentary evidence, if any, all of which show: (a) the violation
-      of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], its Implementing Rules and Regulations, or NPC
+      of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], or NPC
       issuances; or (b) the acts or omissions allegedly committed by respondent and in
       the case of juridical persons, employees or agents who committed the offense
       amounting to a privacy violation or personal data breach.

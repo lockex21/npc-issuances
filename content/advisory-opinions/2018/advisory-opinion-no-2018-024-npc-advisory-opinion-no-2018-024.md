@@ -23,7 +23,7 @@ Re: REPORTING OF ALLEGED CRIMINALS’ PERSONAL DATA
 
 Dear [Redacted],
 
-This has reference to your inquiry received by the National Privacy Commission (NPC) via email. You asked how the Data Privacy Act (DPA) of 2012 and its Implementing Rules and Regulations (IRR) affect the practice of some security agencies or establishments of reporting to the Philippine National Police (PNP) and barangay officials, criminal elements who are caught within their premises. You likewise asked if the disclosure of personal information of the alleged suspect such as his/her name, photo, or address, for apprehension purposes, as well as posting of the same in public places, would constitute a violation of the DPA.
+This has reference to your inquiry received by the National Privacy Commission (NPC) via email. You asked how the Data Privacy Act (DPA) of 2012 and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) affect the practice of some security agencies or establishments of reporting to the Philippine National Police (PNP) and barangay officials, criminal elements who are caught within their premises. You likewise asked if the disclosure of personal information of the alleged suspect such as his/her name, photo, or address, for apprehension purposes, as well as posting of the same in public places, would constitute a violation of the DPA.
 
 ### Discussion
 
@@ -35,7 +35,7 @@ The processing[^2] of personal information of a possible suspect, by reporting t
 
 > (e) The processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate;
 
-Further, Section 13(f) of the DPA relating to lawful processing of sensitive personal information states that:
+Further, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]] relating to lawful processing of sensitive personal information states that:
 
 > (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 

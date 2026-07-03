@@ -22,7 +22,7 @@ Re: ACCESS TO DOCUMENTS RELATIVE TO A BUSINESS PERMIT APPLICATION.
 
 Dear [Redacted]:
 
-We respond to your request for an Advisory Opinion on whether a non-party may be allowed access to the documents attached to a business permit application pursuant to Section 4 of the Data Privacy Act of 2012 (DPA), and the public’s right to information.
+We respond to your request for an Advisory Opinion on whether a non-party may be allowed access to the documents attached to a business permit application pursuant to [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the Data Privacy Act of 2012]] (DPA), and the public’s right to information.
 
 We gather that your law firm requested the Business Permit and License Office (BPLO) of San Juan City for the production of an individual’s Business Permit Application, its attachments, and the corresponding Permit to Operate Business (PTOB). As justification, you reasoned that the information you seek are excluded from the scope of the Data Privacy Act of 2012 (DPA)[^2] particularly Section 4 (c) of the DPA.
 
@@ -43,7 +43,7 @@ In the issuance of a PTOB, the applicant will submit documentary requirements re
 
 The more appropriate basis for disclosure of the requested data would be Sections 12 (f) and 13 (f) of the DPA. The requested information appears to be necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims.[^5]
 
-In *KRL v. Trinity University of Asia, etc.*,[^6] the NPC clarified that a document containing sensitive personal information of an individual used for the purpose of establishing legal claims under Section 13 (f) of the DPA may be considered as a legitimate interest. The same case further held that in cases involving personal information, the protection of lawful rights and interests under Section 13 (f) of the DPA is considered as a legitimate interest contemplated by Section 12 (f) of the DPA.
+In *KRL v. Trinity University of Asia, etc.*,[^6] the NPC clarified that a document containing sensitive personal information of an individual used for the purpose of establishing legal claims under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] may be considered as a legitimate interest. The same case further held that in cases involving personal information, the protection of lawful rights and interests under Section 13 (f) of the DPA is considered as a legitimate interest contemplated by [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]].
 
 #### Data Privacy Principles; Proportionality
 
@@ -62,7 +62,7 @@ Director IV, Privacy Policy Office
 
 [^1]: Tags: non-applicability of DPA; special case; business permit and supporting documents.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Section 5, IRR of the DPA.
+[^3]: Section 5, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of the DPA.
 [^4]: San Juan City, Business Permit and Licensing Office, available at https://www.sanjuancity.gov.ph/SanJuanCity/Makabagong_SJ_DLForms
 [^5]: *Id.* § 13 (f)
 [^6]: CID Case No. 17-K-003.

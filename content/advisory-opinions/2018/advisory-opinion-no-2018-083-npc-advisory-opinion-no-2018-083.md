@@ -33,7 +33,7 @@ accurate and complete health information for its policies, programs, and interve
 
 During a clarificatory meeting, we were informed about the difficulty that the DOH
 encounters when collecting health information from healthcare providers[^2] due to
-apprehensions on the implications of the Data Privacy Act of 2012 (DPA).[^3] We understand
+apprehensions on the implications of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^3] We understand
 that there are some healthcare providers claiming that the DOH is collecting excessive
 amounts of personal information. You have explained that collection of both personal
 information and sensitive information is necessary to minimize double counting of
@@ -47,7 +47,7 @@ privacy while ensuring free flow of information. What the DPA does is to promote
 secure, and lawful processing of such information. In this case, the DPA does not prohibit
 the DOH from collecting and processing personal data for purposes necessary to its
 mandate, with the concomitant responsibility of complying with the requirements of the
-DPA, its Implementing Rules and Regulations (IRR), and other issuances of the National
+DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and other issuances of the National
 Privacy Commission (NPC).
 
 In the meeting between representatives of the DOH and the NPC, the constitutional and
@@ -138,10 +138,10 @@ collected and processed.[^12] There should also be existing procedures for data 
 exercise their rights, and appropriate organizational, physical and technical safeguards for
 data protection.
 
-The DOH should consider NPC Advisory No. 2017-03 on the Guidelines on Privacy Impact
+The DOH should consider [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]] on the Guidelines on Privacy Impact
 Assessments in order to systematically address the obligations previously mentioned. As a
-government agency, the DOH should also consider NPC Circular No. 16-01 on the Security
-of Personal Data in Government Agencies and NPC Circular No. 16-02 regarding the
+government agency, the DOH should also consider [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security
+of Personal Data in Government Agencies and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] regarding the
 execution of a data sharing agreement between the DOH and the different healthcare
 providers, as may be necessary in certain circumstances.
 

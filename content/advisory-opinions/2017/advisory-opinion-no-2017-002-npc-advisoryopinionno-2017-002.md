@@ -30,11 +30,11 @@ As per your representation, Ecozone Logistics Services Enterprise (ECOZONE, for 
 
 ### Discussion
 
-Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 (DPA), applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing, unless the entity is able to sufficiently establish that the information being processed is exempt from the Act's coverage.[^1]
+[[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012 (DPA), applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing, unless the entity is able to sufficiently establish that the information being processed is exempt from the Act's coverage.[^1]
 
 Given that ECOZONE is involved in the processing of job applications, social security requirements, and insurance information—all considered as personal and/or sensitive personal information under the law[^2]—it must comply with the provisions of the DPA and its IRR, including those pertaining to the registration of personal data processing systems.
 
-Accordingly, please refer to Section 47 of the Implementing Rules and Regulations (IRR) of the DPA, which states that personal information controllers or personal information processors that employ fewer than two hundred fifty (250) persons are not required to register their data processing system unless:
+Accordingly, please refer to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Section 47 of the Implementing Rules and Regulations]] (IRR) of the DPA, which states that personal information controllers or personal information processors that employ fewer than two hundred fifty (250) persons are not required to register their data processing system unless:
 
 1. The processing it carries out is likely to pose a risk to the rights and freedoms of the data subjects;
 2. The processing is not occasional; or

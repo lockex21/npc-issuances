@@ -98,7 +98,7 @@ The Commission notes the Compliance of TravelServices dated 09 February 2021. Fu
 
 *The incident falls under the mandatory breach notification requirement.*
 
-Section 20(f) of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 (DPA) states:
+Section 20(f) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012 (DPA) states:
 
 > SEC. 20. Security of Personal Information. —
 >

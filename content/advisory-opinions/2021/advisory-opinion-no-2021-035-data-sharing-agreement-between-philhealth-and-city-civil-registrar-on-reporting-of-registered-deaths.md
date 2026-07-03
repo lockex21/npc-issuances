@@ -50,7 +50,7 @@ We understand based on your letter that the proposed MOA states the following:
 
 You raised the following concerns relative to the above:
 
-   1. Whether the intended data sharing proposed by the PHIC complies with the provision of the NPC Circular No. 16-02 in relation to the Data Privacy Act of 2012[^2] (DPA);
+   1. Whether the intended data sharing proposed by the PHIC complies with the provision of the [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] in relation to the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA);
    2. Whether prior consent from the heirs of or next of kin of the data subject (deceased) is required for purposes of data sharing; and
    3. Whether the lack of a specific term for the duration of the agreement is contrary to NPC Circular No. 16-02.
 

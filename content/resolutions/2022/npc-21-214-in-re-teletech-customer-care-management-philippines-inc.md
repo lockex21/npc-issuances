@@ -55,7 +55,7 @@ The proof of notification must be supported by appropriate affidavits, as applic
 
 (3) **ADDRESS** the directive contained in the Order dated 13 January 2022 to show cause in writing on why it should not be subjected to contempt proceedings, as permitted by law, before the appropriate court, and other actions as may be available to the Commission, for its failure to submit its Full Breach Report within the prescribed period.
 
-The Complaints and Investigation Division (CID) and the Compliance and Monitoring Division (CMD) of the National Privacy Commission are hereby **ORDERED** to conduct the appropriate investigation on TTEC’s possible violations of the DPA.
+The Complaints and Investigation Division (CID) and the Compliance and Monitoring Division (CMD) of the National Privacy Commission are hereby **ORDERED** to conduct the appropriate investigation on TTEC’s possible violations of the [[laws/data-privacy-act-of-2012|DPA]].
 
 **SO ORDERED.**[^1]
 

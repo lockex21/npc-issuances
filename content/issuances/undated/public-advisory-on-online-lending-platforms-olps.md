@@ -50,7 +50,7 @@ loans through OLPs2, whether recorded or unrecorded:
     guarantors is prohibited. For purposes of debt collection, LCs, FCs, or persons acting
     as such may only contact the guarantor.
 
-1 See: Data Privacy Act of 2012 and its Implementing Rules and Regulations (IRRs), Guidelines on the Processing of Personal
+1 See: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRRs), Guidelines on the Processing of Personal
 
 Data for Loan-Related Transactions [NPC Circular 20-01] (14 September 2020), as amended by NPC Circular No. 2022-
 02, Amending Certain Provisions of [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 20-01]] on the Guidelines on the Processing of Personal Data for Loan-

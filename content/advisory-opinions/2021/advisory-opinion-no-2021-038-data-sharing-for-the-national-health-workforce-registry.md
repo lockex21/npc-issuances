@@ -85,7 +85,7 @@ scenario, consent may not be the most appropriate lawful basis considering that 
 agency is requesting for personal data pursuant to existing laws and regulations.
 
 Instead, the DOH’s processing may be considered as processing under the special cases
-provided for in Section 4 (e) of the DPA as it is a public authority performing regulatory
+provided for in [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 (e) of the DPA]] as it is a public authority performing regulatory
 functions to the extent necessary for the fulfillment of its mandate.
 
 Thus, the Parties need not secure the consent of the health professionals prior to the proposed

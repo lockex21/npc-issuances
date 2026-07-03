@@ -29,7 +29,7 @@ On 03 July 2025, [Redacted] wrote to BIR a request-reply to clarify or discuss t
 
 > Section 20 – Inspection of Books Registered and Records – All books, registers and other records, and vouchers and other supporting papers required by these regulations shall be kept at all times at the place of business of the taxpayer, subject to inspection by any internal revenue officer, and upon demand, the same must be immediately be produced and submitted for inspection.
 
-Thus, you now seek guidance on the proper manner of compliance that would address the BIR's request while upholding your obligation with respect to data protection and lawful processing of personal data, citing NPC Advisory Opinion No. 2024-016 on the principle of proportionality during investigations, specifically:
+Thus, you now seek guidance on the proper manner of compliance that would address the BIR's request while upholding your obligation with respect to data protection and lawful processing of personal data, citing [[advisory-opinions/2024/advisory-opinion-no-2024-016-npc-advisory-opinion-no-2024-016-disclosure-of-personal-data-pursuant-to-a-mo-by-the-bir-sgd-redacted|NPC Advisory Opinion No. 2024-016]] on the principle of proportionality during investigations, specifically:
 
 > While the DPA does not prohibit the BIR from processing personal data pursuant to its mandate, it must nevertheless comply with the general data privacy principles under the DPA. In this regard, the verbal request of the BIR for data relative to the TCVD appear to lack specificity as to their relevance and necessity for the stated tax compliance objectives. This absence of a clear, well-defined purpose raises concerns about whether the BIR is acting within the bounds of proportionality.
 
@@ -37,7 +37,7 @@ Thus, you now seek guidance on the proper manner of compliance that would addres
 
 #### Special cases; Processing of Personal Information by a Public Authority; Regulatory Mandate; Proportionality
 
-Section 5 of the DPA provide for special cases to which it does not apply, to wit:
+[[laws/data-privacy-act-of-2012#section-5-protection-afforded-to-journalists-and-their-sources|Section 5 of the DPA]] provide for special cases to which it does not apply, to wit:
 
 > Section 5. Special Cases. The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:
 >
@@ -49,7 +49,7 @@ Section 5 of the DPA provide for special cases to which it does not apply, to wi
 >
 > Provided, that the non-applicability of the Act or these Rules do not extend to personal information controllers or personal information processors, who remain subject to the requirements of implementing security measures for personal data protection: Provided further, that the processing of the information provided in the preceding paragraphs shall be exempted from the requirements of the Act only to the minimum extent necessary to achieve the specific purpose, function, or activity.
 
-We have affirmed through Advisory Opinion No. 2020-015 and Advisory Opinion No. 2021-028 that the BIR's processing of personal data pursuant to its mandate falls under the special cases of the DPA. They are the primary agency tasked with the enforcement of national internal revenue laws, deriving its authority from the NIRC. Thus, the DPA recognizes the authority of the BIR Commissioner to obtain information in the evaluation of the tax compliance of any person.
+We have affirmed through [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|Advisory Opinion No. 2020-015]] and [[advisory-opinions/2021/advisory-opinion-no-2021-028-disclosure-of-personal-information-of-tenants-by-a-condominium-corporation-to-the-bureau-of-internal-revenue|Advisory Opinion No. 2021-028]] that the BIR's processing of personal data pursuant to its mandate falls under the special cases of the DPA. They are the primary agency tasked with the enforcement of national internal revenue laws, deriving its authority from the NIRC. Thus, the DPA recognizes the authority of the BIR Commissioner to obtain information in the evaluation of the tax compliance of any person.
 
 However, we have opined in Advisory Opinion No 2024-016 that:
 
@@ -99,4 +99,4 @@ OIC-Director IV, Privacy Policy Office
 [^4]: National Privacy Commission, Re: Disclosure of Personal Data Pursuant to a Mission Order by the Bureau of Internal Revenue, NPC Advisory Opinion No. 2024-016 (11 December 2024).
 [^5]: National Privacy Commission, Re: Collection of Personal Data by the Bureau of Internal Revenue for Tax Compliance Purposes, NPC Advisory Opinion No. 2020-015 (24 February 2020).
 [^6]: National Privacy Commission, Re: Disclosure of Personal Information of Tenants by a Condominium Corporation to the Bureau of Internal Revenue, NPC Advisory Opinion No. 2021-028 (16 July 2021).
-[^7]: National Privacy Commission, Re: Request for Access to Taxpayer Information from a Local Government Unit, NPC Advisory Opinion No. 2025-005 (23 June 2025).
+[^7]: National Privacy Commission, Re: Request for Access to Taxpayer Information from a Local Government Unit, [[advisory-opinions/2025/advisory-opinion-no-2025-005-npc-advisory-opinion-no-2025-005-bir-makati-redacted|NPC Advisory Opinion No. 2025-005]] (23 June 2025).

@@ -22,7 +22,7 @@ Re: REQUEST FOR TAX DECLARATION
 
 Dear [Redacted],
 
-We write in response to your letter which sought clarification regarding your request to secure copies of tax declarations, certificates of title, and tax clearances of real properties from the Assessor’s Office and the Treasurer’s Office of the City of Antipolo vis-à-vis the provisions of the Data Privacy Act of 2012[^2] (DPA).
+We write in response to your letter which sought clarification regarding your request to secure copies of tax declarations, certificates of title, and tax clearances of real properties from the Assessor’s Office and the Treasurer’s Office of the City of Antipolo vis-à-vis the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 We understand that you are the counsel for Manila Water Company, Inc. (MWCI). Pursuant to the Concession Agreement of Manila Water with the Metropolitan Waterworks and Sewerage System (MWSS), the former acts as an agent of the latter. In line with the relevant provisions of Concession Agreement, MWCI embarked on a pipeline laying project which necessitates the conduct of due diligence on the identity, ownership, possession and valuation of properties that may be duly affected by the project, hence this request for the copies of the abovementioned documents.
 
@@ -55,13 +55,13 @@ MWCI may rely on the other provisions of the DPA, specifically Sections 12 and 1
 
 The provisions of Presidential Decree No. 1529,[^9] Act No. 496,[^10] and other applicable laws and regulations on the matter should be read together and harmonized with the DPA. For instance, in order to quiet title to real property or remove clouds therefrom, processing is recognized under the DPA for purpose of the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims.[^11]
 
-In Advisory Opinion No. 2018-083,[^12] it was emphasized that “the DPA is not meant to prevent government institutions from processing personal data when necessary to fulfill their mandates. Rather, it aims to protect the right to information privacy while ensuring free flow of information. What the DPA does is to promote fair, secure, and lawful processing of such information.”
+In [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|Advisory Opinion No. 2018-083]],[^12] it was emphasized that “the DPA is not meant to prevent government institutions from processing personal data when necessary to fulfill their mandates. Rather, it aims to protect the right to information privacy while ensuring free flow of information. What the DPA does is to promote fair, secure, and lawful processing of such information.”
 
 #### Public documents; publicly available information
 
 The belief that tax declarations and tax clearances are not protected by the DPA is misguided. A public document, or even publicly available information, by such fact alone, does not lose the protection afforded by the DPA in so far as the processing involves the personal data contained in such documents.
 
-Further, Advisory Opinion No. 2017-030[^13] discussed the processing of personal data which is available in the public domain, to wit:
+Further, [[advisory-opinions/2017/advisory-opinion-no-2017-030-npc-advisoryopinionno-2017-030|Advisory Opinion No. 2017-030]][^13] discussed the processing of personal data which is available in the public domain, to wit:
 
 > … the provisions of the DPA are still applicable even for those personal data which are available in the public domain. Note that the law has specified the information which is outside of its scope but only to the minimum extent necessary to achieve the specific purpose, function, or activity in Section 4 thereof.
 >
@@ -92,8 +92,8 @@ Privacy Commissioner and Chairman
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^2]: *Id.* § 4.
 [^3]: Data Privacy Act of 2012, § 4(e).
-[^4]: See generally, National Privacy Commission, NPC Advisory Opinion No. 2018-079 (Oct. 23, 2018).
-[^5]: See: National Privacy Commission, NPC Advisory Opinion No. 2017-035 (July 27, 2017).
+[^4]: See generally, National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-079-v1-redacted-advisory-opinion-no-2018-079|NPC Advisory Opinion No. 2018-079]] (Oct. 23, 2018).
+[^5]: See: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-035-npc-advisoryopinionno-2017-035|NPC Advisory Opinion No. 2017-035]] (July 27, 2017).
 [^6]: *Id.*
 [^7]: An Act Creating The Metropolitan Waterworks And Sewerage System And Dissolving The National Waterworks And Sewerage Authority; And For Other Purposes, Republic Act No. 6234 (1971).
 [^8]: Amending and Codifying the Laws Relative to Registration of Property and for other Purposes [Property Registration Decree], Presidential Decree No. 1529 (1978).

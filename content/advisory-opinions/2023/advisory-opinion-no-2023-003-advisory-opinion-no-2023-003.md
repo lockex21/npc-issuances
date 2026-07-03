@@ -49,7 +49,7 @@ entities such as corporations, associations, and partnerships.
 
 Relating the above to your query, if the property involved is registered to a natural person,
 then the disclosure of personal information[^3] (i.e., the name of the individual registered owner)
-may be allowed under Section 12 of the DPA. In particular, if the request is made by a
+may be allowed under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]]. In particular, if the request is made by a
 government entity, the disclosure of the name of the registered owner may be based on
 Section 12 (c) and (e) of the DPA, to wit:
 
@@ -88,10 +88,10 @@ of the DPA where the processing of personal data is necessary for compliance wit
 obligation[^3].
 
 We have recognized as lawful the processing of personal information by private companies
-pursuing government projects based on legal obligation. In Advisory Opinion No. 2020-036,[^4]
+pursuing government projects based on legal obligation. In [[advisory-opinions/2020/advisory-opinion-no-2020-036-redacted-advisory-opinion-no-2020-036-2|Advisory Opinion No. 2020-036]],[^4]
 we recognized that the National Grid Corporation of the Philippines (NGCP) has the
 obligation under its legislative franchise to identify the current owners and possessors of
-properties subject to acquisition.[^5] Similarly, in Advisory Opinion No. 2021-027,[^6] we confirmed
+properties subject to acquisition.[^5] Similarly, in [[advisory-opinions/2021/advisory-opinion-no-2021-027-access-to-documents-by-san-miguel-aerocity-inc-pursuant-to-its-legislative-franchise|Advisory Opinion No. 2021-027]],[^6] we confirmed
 that San Miguel Aerocity, Inc. (SMAI) may be provided with documents and processes,
 including those that pertain to personal data, due to its obligations under R.A. No. 10752 or
 the Right-of-Way Act.[^7] However, we also emphasized in both instances that while NGCP and

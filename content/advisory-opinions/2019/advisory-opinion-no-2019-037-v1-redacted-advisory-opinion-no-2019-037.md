@@ -12,7 +12,7 @@ draft: false
 - Reference: Advisory Opinion No. 2019-037
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/v1Redacted-Advisory-Opinion-No.-2019-037-1.pdf
 - Issue date: 08/08/2019
-- Tags: scope, special cases, Personal Data Sheet, Executive Order No. 2, NPC Advisory No. 2017-02, right to privacy, right to information, information of public concern, lawful processing
+- Tags: scope, special cases, Personal Data Sheet, Executive Order No. 2, [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|NPC Advisory No. 2017-02]], right to privacy, right to information, information of public concern, lawful processing
 - OCR used during extraction: no
 
 ## Text
@@ -31,7 +31,7 @@ We understand that the law firm will use the document in a case filed against th
 
 #### Scope of the Data Privacy Act of 2012; special cases; JO personnel; information of public concern
 
-Section 4 of the Data Privacy Act of 2012[^1] (DPA) provides that the law applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the Data Privacy Act of 2012]][^1] (DPA) provides that the law applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.
 
 It further provides for certain specified information or special cases which are outside of its scope, one of which is information about an individual who is or was performing service under contract for a government institution that relates to the services performed, including the terms of the contract, and the name of the individual given in the course of the performance of those services under Section 4 (b) thereof.
 
@@ -47,7 +47,7 @@ Further, the non-applicability of the law is only to the minimum extent of colle
 
 A PDS is a repository of information pertaining to that employee or official, including his or her personal background, qualifications, and eligibility.[^5] It contains sensitive personal information such as civil status, blood type and other health information, GSIS, Pag-Ibig and Philhealth No., information about the employee's family which may include information about minor children, among others.[^6]
 
-Hence, its processing, which includes disclosure, may find basis under Section 13 of the DPA, particularly Section 13(b), which recognizes the processing that is provided for by existing laws and regulations. This provision should be read in relation to Executive Order (EO) No. 2,[^7] which relates to the operationalization of the people's right to information under the executive branch, and permits the disclosure of information in the possession or under the custody of the government unless they fall under any of the exceptions enshrined in the Constitution, existing law or jurisprudence.
+Hence, its processing, which includes disclosure, may find basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], particularly Section 13(b), which recognizes the processing that is provided for by existing laws and regulations. This provision should be read in relation to Executive Order (EO) No. 2,[^7] which relates to the operationalization of the people's right to information under the executive branch, and permits the disclosure of information in the possession or under the custody of the government unless they fall under any of the exceptions enshrined in the Constitution, existing law or jurisprudence.
 
 The EO clarifies that while providing access to information, public records, and official records, responsible officials shall afford full protection to the right to privacy of the individual.[^8] For this purpose, it requires that each government office shall ensure that personal information in its custody or control is disclosed or released only if it is material or relevant to the subject-matter of the request and its disclosure is permissible under the EO or existing law, rules or regulations, among others.[^9]
 
@@ -90,11 +90,11 @@ Privacy Commissioner and Chairman
 
 [^3]: *Id.*, § 6.3.2.
 
-[^4]: National Privacy Commission, NPC Advisory Opinion No. 2017-056 (Sept. 20, 2017) citing Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §5 (2016).
+[^4]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-056-npc-advisoryopinionno-2017-056|NPC Advisory Opinion No. 2017-056]] (Sept. 20, 2017) citing Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §5 (2016).
 
 [^5]: *Advincula v. Dicen*, G.R. No. 162403 (2005).
 
-[^6]: *See*: National Privacy Commission, NPC Advisory Opinion No. 2018-088 (Dec. 5, 2018).
+[^6]: *See*: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-088-npc-advisory-opinion-no-2018-088|NPC Advisory Opinion No. 2018-088]] (Dec. 5, 2018).
 
 [^7]: Office of the President, Operationalizing In The Executive Branch The People's Constitutional Right To Information And The State Policies To Full Public Disclosure And Transparency In The Public Service And Providing Guidelines Therefor, Executive Order No. 2 [EO No. 2] (July 23, 2016).
 

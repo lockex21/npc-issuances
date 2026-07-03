@@ -41,13 +41,13 @@ We note that your first two (2) questions relate to the right of a putative or p
 
 #### PSA Memorandum Circular No. 2019-15; compliance with the DPA should consider all the applicable requirements; establishment of legal claims
 
-At the outset, a Birth Certificate contains sensitive personal information as the term is defined under Section 3 (l) of the DPA.[^3] As such, its processing is generally prohibited except in certain cases enumerated under Section 13 of the law.
+At the outset, a Birth Certificate contains sensitive personal information as the term is defined under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]].[^3] As such, its processing is generally prohibited except in certain cases enumerated under Section 13 of the law.
 
 We note that the issuance of the PSA MC No. 2019-15 was intended primarily for compliance with the DPA. The PSA emphasized such fact when it denied your request for the Birth Certificate of your alleged son arguing that item No. III (6) of PSA MC No. 2019-15 requires there must be a pending case and a duly issued subpoena before the release of the civil registry document.
 
 Nevertheless, while PSA MC No. 2019-15 may have been issued with good intentions, we must emphasize that adherence to the DPA also requires that all the applicable requirements provided by the law should be observed.
 
-As provided in Section 13(f) of the DPA, processing of personal information is permitted if it is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority. Thus, the requirement for a pending case and a subpoena under item III (6) of PSA MC No. 2019-15[^4] appears to unduly restrict the application of Section 13(f) of the DPA as a lawful basis for processing under the DPA.
+As provided in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]], processing of personal information is permitted if it is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority. Thus, the requirement for a pending case and a subpoena under item III (6) of PSA MC No. 2019-15[^4] appears to unduly restrict the application of Section 13(f) of the DPA as a lawful basis for processing under the DPA.
 
 Simply stated, a pending case in court and a subpoena are not necessary since your purpose is precisely to establish and exercise a legal claim (i.e., succession planning).
 

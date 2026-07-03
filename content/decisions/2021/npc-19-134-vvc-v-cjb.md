@@ -94,7 +94,7 @@ On 4 September 2019, VVC filed her Answer to the Responsive Rejoinder.[^26] VVC 
 
 ### Issues
 
-1. Whether the case should be dismissed on procedural grounds for VVC's alleged failure to give CJB an opportunity to address the complaint pursuant to Section 4 (a) of NPC Circular No. 16-04 (NPC Rules of Procedure);
+1. Whether the case should be dismissed on procedural grounds for VVC's alleged failure to give CJB an opportunity to address the complaint pursuant to Section 4 (a) of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] (NPC Rules of Procedure);
 
 2. Whether a PDS contains personal and sensitive personal information;
 
@@ -104,7 +104,7 @@ On 4 September 2019, VVC filed her Answer to the Responsive Rejoinder.[^26] VVC 
 
 ### Discussion
 
-The case should not be dismissed on procedural grounds. VVC expressly consented to the processing of her personal and sensitive personal information. As such, CJB is not liable under Section 25 (Unauthorized Processing of Personal and Sensitive Personal Information) and Section 32 (Unauthorized Disclosure) of the DPA.
+The case should not be dismissed on procedural grounds. VVC expressly consented to the processing of her personal and sensitive personal information. As such, CJB is not liable under Section 25 (Unauthorized Processing of Personal and Sensitive Personal Information) and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].
 
 #### I. The case should not be dismissed for VVC's alleged failure to give CJB an opportunity to address the complaint against him.
 
@@ -163,13 +163,13 @@ Further, the PDS contains an explicit authorization to allow the agency head or 
 
 #### III. VVC consented to the processing of her personal and sensitive personal information in the PDS.
 
-Personal information of a data subject may be processed when the data subject has given his or her consent to such processing. Section 12 (a) of the DPA provides:
+Personal information of a data subject may be processed when the data subject has given his or her consent to such processing. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (a) of the DPA]] provides:
 
 > Section 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
 > (a) **The data subject has given his or her consent**;[^41]
 
-Sensitive personal information of a data subject, as a general rule, shall not be processed. It is only permitted when the data subject consents to such processing or any of the other lawful criteria of processing under Section 13 of the DPA is present. Section 13 (a) of the DPA allows the processing of sensitive personal information when the data subject has given his or her consent to the processing:
+Sensitive personal information of a data subject, as a general rule, shall not be processed. It is only permitted when the data subject consents to such processing or any of the other lawful criteria of processing under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] is present. Section 13 (a) of the DPA allows the processing of sensitive personal information when the data subject has given his or her consent to the processing:
 
 > Section 13. *Sensitive Personal Information and Privileged Information.* – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
@@ -201,7 +201,7 @@ The PDS specifically provides that the data subject permits the agency head or a
 
 #### IV. CJB is neither liable under Section 25 nor Section 32 of the DPA when he released the PDS to third parties.
 
-CJB is neither liable for Section 25 of the DPA on Unauthorized Processing of Personal and Sensitive Personal Information nor Section 32 of the DPA on Unauthorized Disclosure.
+CJB is neither liable for [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]] on Unauthorized Processing of Personal and Sensitive Personal Information nor Section 32 of the DPA on Unauthorized Disclosure.
 
 **CJB is not liable under Section 25 of the DPA on Unauthorized Processing of Personal and Sensitive Personal Information.**
 

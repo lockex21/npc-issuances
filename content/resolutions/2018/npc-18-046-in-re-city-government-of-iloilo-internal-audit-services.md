@@ -138,7 +138,7 @@ Further, the City of Iloilo stressed that the TDS has a "dedicated firewall in p
 
 The City of Iloilo recounted that among the one hundred thirty-one (131) registrants of the TDS: "sixty-one (61) were corporations, one (1) was a cooperative, sixty-five (65) were sole proprietorships, two (2) were partnerships, and two (2) were merely test data."[^39]
 
-Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) protects the processing of personal data of an individual or natural person.[^40]
+[[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA) protects the processing of personal data of an individual or natural person.[^40]
 
 Given this, the information relating to a juridical entity does not constitute personal data.
 
@@ -146,7 +146,7 @@ Here, since most of the information possibly leaked from the website were inform
 
 Nonetheless, the City of Iloilo is reminded of its obligation to continuously update its security measures and ensure that it will be in a position to safeguard the personal data of its constituents.
 
-Based on the foregoing, the measures that the City of Iloilo took after the incident enabled it to strengthen its security measures in compliance with the DPA and its Implementing Rules and Regulations (IRR).[^41] Given this, following NPC Circular 16-03, the actions that the City of Iloilo took are sufficient to close the matter.
+Based on the foregoing, the measures that the City of Iloilo took after the incident enabled it to strengthen its security measures in compliance with the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).[^41] Given this, following NPC Circular 16-03, the actions that the City of Iloilo took are sufficient to close the matter.
 
 ### Dispositive Portion
 

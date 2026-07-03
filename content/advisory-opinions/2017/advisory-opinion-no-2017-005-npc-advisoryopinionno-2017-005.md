@@ -45,11 +45,11 @@ Your query seems to indicate that whoever is managing or running the internal br
 
 #### Cross-border Transfer of Personal Data and the DPA
 
-In situations wherein the cross-border transfer of personal data is necessary for processing purposes, keep in mind Section 21 of the DPA, to wit:
+In situations wherein the cross-border transfer of personal data is necessary for processing purposes, keep in mind [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]], to wit:
 
 > "Principle of Accountability. – Each personal information controller is responsible for personal information under its control or custody, including information that have been transferred to a third party for processing, whether domestically or internationally, subject to cross-border arrangement and cooperation." (underscoring supplied)
 
-As can be gleaned from the foregoing provision, the PIC has the primary responsibility of securing the personal data under its control or custody, even when these are transferred across borders or jurisdictions. It shall ensure that said data are processed in accordance with the provisions of the DPA, its IRR, and other applicable issuances of the NPC. Any outsourcing, subcontracting, or data sharing agreement that facilitates such cross-border transfer shall also be subject to the requirements of the law.
+As can be gleaned from the foregoing provision, the PIC has the primary responsibility of securing the personal data under its control or custody, even when these are transferred across borders or jurisdictions. It shall ensure that said data are processed in accordance with the provisions of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other applicable issuances of the NPC. Any outsourcing, subcontracting, or data sharing agreement that facilitates such cross-border transfer shall also be subject to the requirements of the law.
 
 In your particular case, whoever is determined to be the PIC shall shoulder these responsibilities. In the event, for instance, that the Singapore entity is identified as the PIC, it shall utilize all available and appropriate means to ensure that your company here in the Philippines (presumably acting as a mere personal information processor) abides by the DPA and other applicable policies.
 

@@ -36,7 +36,7 @@ The Data Privacy Act of 2012[^1] (DPA) applies to the processing of any type of 
 
 Processing involves a wide set of operations performed upon personal data, including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.[^2] Thus, the collection, recording, storage and use of the personal data being encoded by the patients and physicians are processing activities as defined above.
 
-The subject of the processing activities performed by the EMR provider covers both personal information and most importantly, sensitive personal information[^3] since it includes the health information of the patient. With this, a higher degree of protection and security is required from personal information controllers (PIC) and personal information processors (PIP). They need to satisfy any of the conditions provided for in Section 13 of the DPA to be able to lawfully process sensitive personal information.
+The subject of the processing activities performed by the EMR provider covers both personal information and most importantly, sensitive personal information[^3] since it includes the health information of the patient. With this, a higher degree of protection and security is required from personal information controllers (PIC) and personal information processors (PIP). They need to satisfy any of the conditions provided for in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] to be able to lawfully process sensitive personal information.
 
 #### Anonymization of Personal Data
 
@@ -56,7 +56,7 @@ In this particular case, the EMR provider intends to anonymize the personal data
 
 When the EMR provider goes over and beyond the instructions and purpose of processing intended by the PIC, the healthcare provider, the EMR provider is then acting as a PIC with its own purpose – medical research.
 
-While the EMR provider claims that only anonymized information will be accessed, they should clarify the anonymization process. If before, during, and even after the anonymization process, the EMR provider will have direct access to the original data set that still contains personal data, then the said processing will not be exempt from provisions of DPA and its implementing rules and regulations, considering that at any given time, the EMR provider may connect the relevant data sets.
+While the EMR provider claims that only anonymized information will be accessed, they should clarify the anonymization process. If before, during, and even after the anonymization process, the EMR provider will have direct access to the original data set that still contains personal data, then the said processing will not be exempt from provisions of DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|implementing rules and regulations]], considering that at any given time, the EMR provider may connect the relevant data sets.
 
 Consequently, the EMR provider as PIC will be required to comply with any of the criteria for processing under the Sections 12 and/or 13 of the DPA.
 

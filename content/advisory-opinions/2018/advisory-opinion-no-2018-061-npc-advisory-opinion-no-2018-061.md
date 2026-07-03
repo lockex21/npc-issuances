@@ -23,7 +23,7 @@ Re: PROCESSING OF PERSONAL INFORMATION FOR CHARACTER REFERENCE
 
 Dear [Redacted]:
 
-We write in response to your request for an advisory opinion regarding the applicability of Section 12(f) of the Data Privacy Act of 2012 (DPA)[^1] as a basis for the processing of the name and contact number of character references that were supplied by an applicant for a loan, making the processing permissible even without the consent of the said character reference.
+We write in response to your request for an advisory opinion regarding the applicability of [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the Data Privacy Act of 2012]] (DPA)[^1] as a basis for the processing of the name and contact number of character references that were supplied by an applicant for a loan, making the processing permissible even without the consent of the said character reference.
 
 We understand that HC Consumer Finance Philippines, Inc. (Home Credit) is a financing company whose primary purpose is to extend loans, credits and all types of financial accommodations from its own capital without collateral. To support the loan collection process, the company requires applicants and borrowers to supply at least two (2) character references and their respective contact numbers.
 

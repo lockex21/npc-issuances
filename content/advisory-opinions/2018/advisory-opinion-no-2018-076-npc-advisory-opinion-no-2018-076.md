@@ -27,9 +27,8 @@ We write in response to your request for advisory opinion on whether your compan
 Manila Shipmanagement & Manning, Inc. (Manship) may grant the request of the Maritime
 Industry Authority (MARINA) for certain personal data of seafarers, and whether the
 requested information is not covered by the Data Privacy Act of 2012[^1] (DPA) as it falls under
-Section 4 (e) of the DPA, as “information necessary in order to carry out its statutorily
-mandated functions,” and in light of Section 4.15, Rule I of the Implementing Rules and
-Regulations (IRR) of Executive Order No. 75, series of 2012[^2] (E.O. No. 75).
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 (e) of the DPA]], as “information necessary in order to carry out its statutorily
+mandated functions,” and in light of Section 4.15, Rule I of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of Executive Order No. 75, series of 2012[^2] (E.O. No. 75).
 
 ### Discussion
 

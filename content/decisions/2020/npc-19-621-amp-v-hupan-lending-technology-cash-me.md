@@ -42,7 +42,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by AMP (Complainant) against Hupan Lending Technology, Inc. (Cash Me) (Respondent) for a violation of the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by AMP (Complainant) against Hupan Lending Technology, Inc. (Cash Me) (Respondent) for a violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -138,7 +138,7 @@ Uninformed consent cannot be considered as valid consent.
 
 The Commission likewise notes that the Authorization Letter of Information contains ambiguous statements such as how "Hupan Lending Technology Inc. (Cash Me) can use the other contact ways and address provided for collection when the applicant is overdue for repayment."[^22] The broad statement of purpose for processing cannot be considered as compliant with the general privacy principle of transparency.
 
-The DPA's Implementing Rules and Regulations explain the principle of transparency, thus:
+The DPA's [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] explain the principle of transparency, thus:
 
 > The data subject must be aware of the nature, purpose, and extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of personal information controller, his or her rights as a data subject, and how these can be exercised. Any information and communication relating to the processing of personal data should be easy to access and understand, using clear and plain language.
 
@@ -184,7 +184,7 @@ GENERAL RECORDS UNIT
 [^6]: Order dated 17 December 2019.
 [^7]: Order dated 12 December 2019.
 [^8]: Responsive Comments dated 20 December 2019.
-[^9]: NPC Circular No. 16-04 dated 15 December 2016 ("NPC Rules of Procedure"), Section 22. Emphasis supplied.
+[^9]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] dated 15 December 2016 ("NPC Rules of Procedure"), Section 22. Emphasis supplied.
 [^10]: G.R. No. 165585, 20 November 2013, citing *Real v. Belo*, 542 Phil. 109 (2007).
 [^11]: Republic Act No. 10173, Section 25.
 [^12]: *Id.*, at Section 28.

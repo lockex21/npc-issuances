@@ -39,7 +39,7 @@ Accordingly, the collection, organization, storage, and use of the personal data
 
 #### Exemption from the Coverage of the Law
 
-Section 4 of the DPA and Section 5 of its Implementing Rules and Regulations[^8] (IRR) exempt specific types or classes of information from its scope — in particular, paragraph (e) of the latter states:
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] and Section 5 of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^8] (IRR) exempt specific types or classes of information from its scope — in particular, paragraph (e) of the latter states:
 
 > Section 5. Special Cases. The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:
 >

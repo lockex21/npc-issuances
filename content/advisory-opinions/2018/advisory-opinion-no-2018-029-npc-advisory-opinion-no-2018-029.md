@@ -36,7 +36,7 @@ You mentioned in your email that brokers are requesting detailed utilization rep
 
 We understand that utilization reports contain sensitive personal information, particularly health information, of policyholders. It is important to establish that these personal data entail a higher degree of protection due to the higher risks involved in its processing.
 
-As a general rule, disclosure of sensitive personal information to third parties, such as brokers, is prohibited, unless such processing satisfies any of the conditions set forth in Section 13 of the DPA:
+As a general rule, disclosure of sensitive personal information to third parties, such as brokers, is prohibited, unless such processing satisfies any of the conditions set forth in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]:
 
 a. The data subject has given his or her consent;
 b. The processing is provided for by existing laws and regulations;

@@ -32,28 +32,27 @@ recognizes the vital role of communication and information in nation-building. A
 Article II, Section 11 thereof emphasizes that the State values the dignity of every human person
 and guarantees full respect for human rights;
 
-WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human right of
+WHEREAS, [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human right of
 privacy of communication while ensuring free flow of information to promote innovation and
 growth. The State also recognizes its inherent obligation to ensure that personal information in
 information and communications systems in the government and in the private sector are secure
 and protected;
 
-WHEREAS, [[laws/data-privacy-act-of-2012#Section 16|Section 16 of the DPA]] and Section 34 of its Implementing Rules and
-Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) provide that data subjects shall be furnished with and given access to their
+WHEREAS, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]] and Section 34 of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) provide that data subjects shall be furnished with and given access to their
 personal data that are being processed in data processing systems, as well as the purpose, scope,
 method, and manner of such processing, including the existence of automated decision-making;
 
-WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the National Privacy Commission (NPC)
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the National Privacy Commission (NPC)
 is charged with the administration and implementation of the provisions of the law, which
 includes ensuring the compliance by personal information controllers (PICs) with the provisions
 thereof, publishing a compilation of an agency’s system of records and notices, and carrying out
 efforts to formulate and implement plans and policies that strengthen the protection of personal
 data, in coordination with other government agencies and private entities;
 
-WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 9|Section 9 of the IRR]] provides that, among the NPC’s functions, is to develop,
+WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the IRR]] provides that, among the NPC’s functions, is to develop,
 promulgate, review, or amend rules and regulations for the effective implementation of the [[laws/data-privacy-act-of-2012|DPA]];
 
-WHEREAS, [[laws/data-privacy-act-of-2012#Section 24|Section 24 of the DPA]] states that, when entering into any contract that may
+WHEREAS, [[laws/data-privacy-act-of-2012#section-24-applicability-to-government-contractors|Section 24 of the DPA]] states that, when entering into any contract that may
 involve accessing or requiring sensitive personal information from at least one thousand (1,000)
 individuals, a government agency shall require the contractor and its employees to register their
 personal information processing system with the NPC in accordance with the [[laws/data-privacy-act-of-2012|DPA]] and to comply

@@ -44,8 +44,7 @@ Specifically, you ask the following:
         inhabitants to the NBI as part of the latter’s investigation to determine if there are
         professional squatters or squatting syndicates in the address mentioned?
 
-   2. Whether Department of Interior and Local Government Memorandum Circular No.
-        2008-144 dated 19 September 2008, prohibits sharing and disclosure of RBI Form A
+   2. Whether Department of Interior and Local Government Memorandum Circular No. 2008-144 dated 19 September 2008, prohibits sharing and disclosure of RBI Form A
         and Form B sans consent of the owner.
 
 DILG Memorandum Circular No. 2008-144
@@ -77,7 +76,7 @@ request does not suffice. Moreover, the NBI is not among those expressly enumera
 
 *Section 4 (e); special cases; disclosure to public authority;*
 
-To justify its request, the NBI cited Section 4(e) of the Data Privacy Act of 2012[^2] (DPA) and
+To justify its request, the NBI cited [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the Data Privacy Act of 2012]][^2] (DPA) and
 proceeded to claim that the information it requests is exempt from the DPA, viz.:
 
    This request is in pursuant (sic) to Sec. 4 (e) of RA 10173 otherwise known as the Data Privacy Act
@@ -87,9 +86,8 @@ proceeded to claim that the information it requests is exempt from the DPA, viz.
    (Emphasis supplied)
 
 To avoid confusion, it is necessary to discuss the proper application of Section 4(e) of the Data
-Privacy Act of 2012 (DPA). *NPC Advisory Opinion No. 2021-028* provides a relevant
-explanation as to the application of Section 4(e) of the DPA and Section 5(d) of the
-Implementing Rules and Regulations of the DPA, thus:
+Privacy Act of 2012 (DPA). *[[advisory-opinions/2021/advisory-opinion-no-2021-028-disclosure-of-personal-information-of-tenants-by-a-condominium-corporation-to-the-bureau-of-internal-revenue|NPC Advisory Opinion No. 2021-028]]* provides a relevant
+explanation as to the application of Section 4(e) of the DPA and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5(d) of the Implementing Rules and Regulations]] of the DPA, thus:
 
    The DPA and its Implementing Rules and Regulations (IRR) provide for a list of specified
         information which do not fall within the scope of the law.[^3] In particular, information necessary to
@@ -156,13 +154,11 @@ It is readily apparent from the sample form of the Records sent to us that they 
 personal information[^9] and sensitive personal information,[^10] the processing of which must be
 supported with the appropriate legal criteria provided under the DPA.
 
-In processing personal information, the *Barangay* and the NBI may rely on Section 12 (e) of the
-DPA, which provides that the processing of personal information shall be permitted when it
+In processing personal information, the *Barangay* and the NBI may rely on [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e) of the DPA]], which provides that the processing of personal information shall be permitted when it
 is necessary to fulfil the functions of a public authority which includes the processing of
 personal data for the fulfillment of its mandate.
 
-Meanwhile, the processing of sensitive personal information must find basis under Section 13
-of the DPA. Among the sensitive personal information included in the Records are date of
+Meanwhile, the processing of sensitive personal information must find basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]. Among the sensitive personal information included in the Records are date of
 birth, age, civil status, citizenship, and thumbmark.
 
 Section 13 (f) recognizes processing for the establishment, exercise, or defense of legal claims,
@@ -185,13 +181,13 @@ We emphasize that, similar to the processing of personal information, the releas
 personal information to NBI personnel should also be upon a *subpoena*. Further, the *Barangay*
 should establish a system to avoid abuse and ensure that the requested information shall be
 limited only to the legitimate interest stated by the requesting party. As we stated in
-Advisory Opinion No. 2022-005[^13] regarding a similar concern:
+[[advisory-opinions/2022/advisory-opinion-no-2022-005-advisory-opinion-no-2022-005-redacted|Advisory Opinion No. 2022-005]][^13] regarding a similar concern:
 
    LTO must establish a system for handling these types of requests for information to avoid the
          possibility of abuse. As a request for personal information for the filing of a legal action falls under
          the legitimate interests of the requesting party, the system must assess the request if it satisfies the
          three aforementioned tests. It must also provide for a mechanism to ensure that the information to
-         be disclosed will only be used for the purpose/s indicated. In Advisory Opinion No. 2021-044, it was
+         be disclosed will only be used for the purpose/s indicated. In [[advisory-opinions/2021/advisory-opinion-no-2021-044-npc-advisory-opinion-no-2021-044|Advisory Opinion No. 2021-044]], it was
            recommended that in case a request for personal information is granted, the requesting party should
            be required to sign an undertaking that the information will only be used for the purpose that was
            declared: Should the CHMSC grant the request, it is suggested that the Requesting Party be required
@@ -235,7 +231,7 @@ Director IV, Privacy Policy Office
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Id. § 4 (e) (2012).
 [^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) (2016).
-[^5]: See: National Privacy Commission, NPC Advisory Opinion No. 2019-022 (07 May 2019) and NPC Advisory Opinion No. 2020-015 (24 Feb 2020).
+[^5]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-022-npc-advisory-opinion-no-2019-022|NPC Advisory Opinion No. 2019-022]] (07 May 2019) and [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|NPC Advisory Opinion No. 2020-015]] (24 Feb 2020).
 [^6]: NBI Reorganization and Modernization Act.
 [^7]: Instituting the National Drive to Suppress and Eradicate Professional Squatting and Squatting Syndicates, Amending Executive Order Nos. 178, s. 1999 and 129, s. 1993, and for Other Purposes, Executive Order No. 153, [December 10, 2002]
 [^8]: Id. § 3

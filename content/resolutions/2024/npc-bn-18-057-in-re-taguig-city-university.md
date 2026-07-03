@@ -96,7 +96,7 @@ On this note, the Commission emphasizes the importance of ensuring that affected
 
 > The purpose of the requirement to notify data subjects of a breach incident is to give them the opportunity to take the necessary precautions or such other measures to protect themselves against possible effects of the breach. Personal information controllers (PICs) are likewise required to establish all reasonable mechanisms to ensure that all affected data subjects are made aware of the breach. A delay in notification can cause harm to affected data subjects as they cannot protect themselves from the consequences of the breach.[^23]
 
-Moreover, Section 20 (a) of the Data Privacy Act of 2012 (DPA) provides:
+Moreover, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) of the Data Privacy Act of 2012]] (DPA) provides:
 
 > Sec. 20. *Security of Personal Information.*
 >
@@ -106,7 +106,7 @@ The Commission finds that TCU undertook reasonable and appropriate measures to p
 
 As to the security measures implemented to mitigate any negative effect of the incident and prevent its recurrence, it ended its contract with its web hosting and applied additional security measures with its new website.[^28]
 
-Additionally, the President of TCU immediately directed the MIS Director to create a committee to plan a program for the University to implement the provisions of the DPA.[^29] It also conducted a Regional Orientation Workshop on the DPA and its Implementing Rules and Regulations and a Consultation on Draft DPA DepEd Privacy Manual in its effort to comply with the provisions of the DPA.[^30]
+Additionally, the President of TCU immediately directed the MIS Director to create a committee to plan a program for the University to implement the provisions of the DPA.[^29] It also conducted a Regional Orientation Workshop on the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] and a Consultation on Draft DPA DepEd Privacy Manual in its effort to comply with the provisions of the DPA.[^30]
 
 Therefore, the implementation of the abovementioned actions after the breach has occurred, as well as the notification made by TCU, were adequate to mitigate the potential harm against the affected data subjects.
 
@@ -162,7 +162,7 @@ National Privacy Commission
 [^20]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18 (15 December 2016) (NPC Circular 16-03).
 [^21]: RPR vs. Edukasyon.ph, NPC 19-438, Resolution dated 22 September 2022, at p. 4.
 [^22]: Notice of Data Breach dated 05 May 2018 of Taguig City University.
-[^23]: In Re BPI Philam Life Assurance Corporation, NPC BN 21-054, Order dated 15 April 2021, at p. 3.
+[^23]: In Re BPI Philam Life Assurance Corporation, [[orders/2021/npc-bn-no-21-054-in-re-bpi-philam-life-assurance-corporation|NPC BN 21-054]], Order dated 15 April 2021, at p. 3.
 [^24]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Chapter V, § 20 (a) (2012) (Data Privacy Act of 2012).
 [^25]: Breach Notification Report dated 23 April 2018 of Taguig City University at p.2.
 [^26]: Id.

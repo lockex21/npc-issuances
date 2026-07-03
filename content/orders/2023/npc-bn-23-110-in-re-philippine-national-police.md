@@ -98,7 +98,7 @@ Further, the Commission finds that the PNP's breach incident falls under the man
 
 In this breach incident, all the elements of mandatory notification are present.
 
-First, there are government-issued IDs and eligibilities of the PNP employees which clearly contain sensitive personal information (SPI). Further, Section 3 (l) of the Republic Act 10173 also known as the Data Privacy Act of 2012 provides for the definition of Sensitive Personal Information, thus:
+First, there are government-issued IDs and eligibilities of the PNP employees which clearly contain sensitive personal information (SPI). Further, Section 3 (l) of the Republic Act 10173 also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] provides for the definition of Sensitive Personal Information, thus:
 
 > SEC. 3. Definition of Terms. – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >

@@ -149,7 +149,7 @@ On 09 January 2023, the CID issued an Order (Noting Parties' Email Submissions).
 
 ### Issue
 
-Whether Respondent is liable for violating Section 31 of the DPA.
+Whether Respondent is liable for violating [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 of the DPA]].
 
 ### Discussion
 
@@ -163,7 +163,7 @@ To be held liable for Malicious Disclosure, the following elements should be pre
 
 *The perpetrator is a personal information controller or a personal information processor or any of its officials, employees or agents;*[^78]
 
-Section 3 (h) of the DPA provides the definition of a personal information controller (PIC), thus:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (h) of the DPA]] provides the definition of a personal information controller (PIC), thus:
 
 > xxx
 >
@@ -221,7 +221,7 @@ To recall, Respondent admittedly stated that she posted Complainant's ATM card i
 
 Accordingly, all the elements for violation of Section 31 of the DPA are present in this case.
 
-Moreover, as purported in Section 16 (f) of the DPA, data subjects have the right to indemnification for any damages sustained due to such inaccurate, incomplete, outdated, false, unlawfully obtained or unauthorized use of personal information.[^91]
+Moreover, as purported in [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (f) of the DPA]], data subjects have the right to indemnification for any damages sustained due to such inaccurate, incomplete, outdated, false, unlawfully obtained or unauthorized use of personal information.[^91]
 
 Article 2221 of the New Civil Code, which provides for the restitution of any party aggrieved in relation to the DPA,[^92] states:
 

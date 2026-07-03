@@ -72,7 +72,7 @@ party-list groups or organizations and their nominees, and information society s
    I.   “Information society service provider” refers to natural or juridical person providing
           information society service.[^5]
 
-   J.   “[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]” refers to the Implementing Rules and Regulations of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]];
+   J.   “[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]” refers to the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]];
 
    K. “Nominee” refers to refers to individuals nominated by party-list groups or
         organizations as party-list representatives. No person shall be nominated as a party-
@@ -252,7 +252,7 @@ May 2020, available at [https://edpb.europa.eu/sites/default/files/files/file1/e
                  impact of the processing on the data subjects.
           4. The Commission may evaluate whether PICs correctly relied on consent,
              legitimate interest, or any other lawful basis for the specific processing, taking in
-             consideration [[laws/data-privacy-act-of-2012#Section 38|Section 38 of the DPA]] and whether the rights of the data subject
+             consideration [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38 of the DPA]] and whether the rights of the data subject
              could be better protected by using another lawful criterion for processing.
 
    C. Transparency. Political parties, candidates, aspirants, party-list groups or organizations
@@ -381,7 +381,7 @@ groups or organizations and their nominees, and information society service prov
        procedures that are simple and convenient, as well as the right to erasure in certain
        circumstances as provided for under the [[laws/data-privacy-act-of-2012|DPA]].
 
-   D. For further guidance on the data subject rights, refer to [[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|NPC Advisory No. 2021]] – 01.[^15]
+   D. For further guidance on the data subject rights, refer to [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]].[^15]
 
 SECTION 6. Security of Personal Data. — PICs are expected to implement reasonable and
 appropriate organizational, physical, and technical security measures intended for the protection of personal data.
@@ -441,7 +441,7 @@ SGD.                                                                 SGD. LEANDR
 [^6]: An Act Providing For The Election Of Party-List Representatives Through The Party-List System, And Appropriating Funds
 [^7]: Commission on Elections, Rules and Regulations Governing The: 1) Filing Of Petitions For Registration; 2) Filing Of
 [^8]: Omnibus Election Code of the Philippines, Batas Pambansa Bilang 881, § 60 (1985).
-[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 19 (e) (1) (2016).
+[^9]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, § 19 (e) (1) (2016).
 [^10]: See: Council of Europe, Explanatory Report to the Protocol amending the Convention for the Protection of Individuals with
 [^11]: See: National Privacy Commission, JV v. JR, NPC Case No. 17-047 (2019).
 [^12]: European Data Protection Board, Guidelines 05/2020 on consent under Regulation 2016/679, Version 1.1 Adopted on 4

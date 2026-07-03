@@ -35,7 +35,7 @@ Relative thereto, please find below our responses:[^1]
 
 Can the consent of a data subject be in the form of a deemed, implied, passive or negative consent (e.g. notice with a period for objecting, the lapse of which will be deemed consent)? How specific must the time-bound characteristic of the consent be? Please provide suggested wording for such notice or consent.
 
-Section 3(b) of the DPA provides:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the DPA]] provides:
 
 > (b) Consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so.
 
@@ -85,7 +85,7 @@ directors, and/or stockholders, since the personal data are
 collected by the client, the bank will not be considered a
 PIC or personal information processor (PIP) but will only
 need to comply with the data sharing requirements under
-Section 20 of the IRR.
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20 of the IRR]].
 
 A PIC is defined under Section 3(h) of the DPA as a person or organization that controls the
 collection, holding, processing or use of personal information, including a person or
@@ -183,7 +183,7 @@ functions with a view to harmonizing them for a more efficient regulatory framew
 are in the initial stage of forming a technical working group that will address the issues and
 other concerns of banks in this matter.
 
-#### Section 21, DPA; NPC Advisory No. 2017-01
+#### Section 21, DPA; [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]]
 
 Most of the functions of a data privacy officer are carried
 out by various officers within a bank (i.e. compliance
@@ -372,7 +372,7 @@ PICs/PIPs. It may be necessary to provide a
 provide that data collected before the enactment date of
 the law is exempt if it is used for the same purposes.
 
-Section 16(a) and (b) of the DPA, as implemented by Section 34(a) of the IRR, relates to the
+Section 16(a) and (b) of the DPA, as implemented by [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34(a) of the IRR]], relates to the
 right of a data subject to be informed of the processing of his or her personal data, and the
 concomitant duty of a PIC to make such notification. In general, notification must be
 undertaken prior to processing; however, if this is not possible, it must be made at the next
@@ -430,7 +430,7 @@ destruction of his or her personal data, it should be made
 clear how this requirement will be reconciled with the
 legal or regulatory requirements on data retention.
 
-Section 16(e) of the DPA, as implemented by Section 34(e) of the IRR, provides for the data
+[[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(e) of the DPA]], as implemented by Section 34(e) of the IRR, provides for the data
 subject’s right to erasure or blocking upon discovery and substantial proof that his or her
 personal information is incomplete, outdated, false, unlawfully obtained, used for
 unauthorized purposes or are no longer necessary for the purposes for which they were
@@ -496,7 +496,7 @@ are beyond the scope of the DPA. For Banks, this will
 fall under the jurisdiction of the BSP. Please provide a
 format for the incident and annual report of breaches.
 
-Section 41(b) of the IRR provides:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-41-breach-report|Section 41(b) of the IRR]] provides:
 
 > All security incidents and personal data breaches shall be documented through written reports, including those not covered by the notification requirements. In the case of personal data breaches, a report shall include the facts surrounding an
 > incident, the effects of such incident, and the remedial actions taken by the personal information controller. In other security incidents not involving personal data, a report containing aggregated data shall constitute sufficient documentation. These reports shall be made available when requested by the Commission. A general summary of the reports shall be submitted to the Commission annually. (underscoring supplied)
@@ -535,7 +535,7 @@ the Philippine branch, and that only the employees of the
 Philippine branch will be counted in determining whether
 the 250-employee threshold has been reached.
 
-As per Section 47 of the IRR, when reconciled with the next preceding provision, only data
+As per [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Section 47 of the IRR]], when reconciled with the next preceding provision, only data
 processing systems operating in the Philippines are required to be registered with the NPC,
 provided they meet the criteria outlined in the Rules.
 
@@ -574,7 +574,7 @@ general principles, subject to further evaluation, on a case to case basis.
 Are covered entities given a 1-year grace period to be fully
 compliant with the Rules?
 
-The one-year period provided in Section 67 of the IRR refers only to the registration of data processing systems, and automated processing operations that are subject to the notification requirement[^25]. The other provisions and/or requirements of the Rules must be complied with as soon as the Rules became effective on 9 September 2016.
+The one-year period provided in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-67-period-for-compliance|Section 67 of the IRR]] refers only to the registration of data processing systems, and automated processing operations that are subject to the notification requirement[^25]. The other provisions and/or requirements of the Rules must be complied with as soon as the Rules became effective on 9 September 2016.
 
 For your reference.
 

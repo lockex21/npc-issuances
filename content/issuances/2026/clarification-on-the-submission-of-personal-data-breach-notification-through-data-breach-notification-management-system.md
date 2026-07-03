@@ -43,7 +43,7 @@ The PIC may coordinate with the Compliance and Monitoring Division (CMD) of the 
 
 D. All approvals or resolutions of requests shall be expressly issued in writing by the Commission. The Commission's inaction shall not be construed as an approval, implied consent, or automatic grant of any request submitted by the PIC, nor shall serve as a justification for noncompliance.
 
-E. Noncompliance with the Data Privacy Act of 2012, its Implementing Rules and Regulations, or any Order, Resolution, or Decision of the Commission shall be subject to administrative fine pursuant to NPC Circular No. 2022-01 or the Guidelines on Administrative Fines.[^2]
+E. Noncompliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], or any Order, Resolution, or Decision of the Commission shall be subject to administrative fine pursuant to [[issuances/2022/guidelines-on-administrative-fines|NPC Circular No. 2022-01]] or the Guidelines on Administrative Fines.[^2]
 
 **SECTION 3.** ***Interpretation.*** — Any doubt in the interpretation of any provision of this Advisory shall be liberally interpreted in a manner mindful of the rights and interests of data subjects.
 

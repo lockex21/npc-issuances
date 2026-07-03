@@ -64,7 +64,7 @@ draft: false
 
 20. **What is a “reasonable expectation”?** It is what a reasonable person would accept under the specific circumstances, especially for further processing, and is distinct from the Ople standard.
 
-21. **Is the right to object absolute?** No. It exists alongside legitimate interest, so data subjects must be informed and given an opportunity to object under Section 34(b) of the IRR.
+21. **Is the right to object absolute?** No. It exists alongside legitimate interest, so data subjects must be informed and given an opportunity to object under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34(b) of the IRR]].
 
 **SECTION 5.** ***Legitimate Interest Assessment (LIA).***  
 22. A legitimate interest assessment documents how the PIC meets the requisites, providing evidence for the purpose, necessity, and balance of interests.

@@ -40,7 +40,7 @@ Act of 2012 (DPA).[^3]
 
 In particular, you seek guidance on the following:
 
-1. Whether or not the collection and processing of personal data through the intended implementation of breath analyzers is allowed under the confines of the DPA, its Implementing Rules and Regulations (IRR), and other issuances of the NPC;
+1. Whether or not the collection and processing of personal data through the intended implementation of breath analyzers is allowed under the confines of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and other issuances of the NPC;
 2. Whether or not collecting and processing of personal data through the intended use of breath analyzers involves sensitive personal information;
 3. Whether or not the collection and processing through the intended use of breath analyzers fall within any of the criteria for lawful processing; and
 4. Whether or not additional consent from the respective drivers would be necessary to implement the use of breath analyzers.
@@ -74,7 +74,7 @@ therefore be observed.
 #### Lawful criteria for processing; consent; legitimate interest; legal claims
 
 Generally, the processing of sensitive personal information is prohibited unless allowed
-under the circumstances enumerated in Section 13 of the DPA.
+under the circumstances enumerated in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 It is worth noting that given the nature of the relationship between Entrego and the data
 subjects, consent is not the most appropriate lawful basis for processing. In an employer-

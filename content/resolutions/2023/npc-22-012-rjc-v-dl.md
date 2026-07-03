@@ -46,7 +46,7 @@ Before the Commission is the Motion for Reconsideration dated 03 January 2023 fi
 
 ### Facts
 
-On 10 November 2022, the Commission issued a Decision dismissing the Complaint against Respondent DL on the ground that the processing of RJC’s personal data has lawful basis under Section 13 (f) of the Data Privacy Act of 2012 (DPA):
+On 10 November 2022, the Commission issued a Decision dismissing the Complaint against Respondent DL on the ground that the processing of RJC’s personal data has lawful basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the Data Privacy Act of 2012]] (DPA):
 
 WHEREFORE, premises considered, the Commission resolves that the Complaint filed by RJC against DL is hereby **DISMISSED** for lack of merit.
 
@@ -155,7 +155,7 @@ Since a court proceeding is not required in invoking Section 13 (f) as a lawful 
 
 In his Motion for Reconsideration, RJC also questioned the application of the principles of transparency and proportionality in the use of his transcript of records as evidence.[^48] He alleged that the principle of transparency was not adhered to when he was neither informed nor made aware that DL would disclose his school records to the Office of the Ombudsman.[^49]
 
-Section 16 (a) of the DPA requires that the data subject “[b]e informed whether personal information pertaining to him or her shall be, are being or have been processed.”[^50] The Implementing Rules and Regulations of the DPA further provides that the data subject be informed of the processing before the information is processed or at the next practical opportunity.[^51] The “next practical opportunity” depends on the surrounding circumstance of each case. It, however, must always be within a reasonable period to give effect to the data subject’s right to be informed.[^52]
+[[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (a) of the DPA]] requires that the data subject “[b]e informed whether personal information pertaining to him or her shall be, are being or have been processed.”[^50] The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the DPA further provides that the data subject be informed of the processing before the information is processed or at the next practical opportunity.[^51] The “next practical opportunity” depends on the surrounding circumstance of each case. It, however, must always be within a reasonable period to give effect to the data subject’s right to be informed.[^52]
 
 In cases where Section 13 (f) is used as basis to process personal information, for practical considerations including the prevention of tampering with evidence, the “next practical opportunity” to inform the data subject can be when the party is furnished or served with a copy of the pleading containing personal data.
 
@@ -251,7 +251,7 @@ GENERAL RECORDS UNIT
 [^33]: Motion for Reconsideration, 03 January 2023, at 15, in RJC v. DL, NPC 22-012 (NPC 2023).
 [^34]: Id. at 5.
 [^35]: Id. at 15.
-[^36]: ACN v. DT, NPC 18-109, 01 June 2021, at 10, available at https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision-NPC-18-109-ACN-v.-DT.pdf (last accessed 10 February 2023).
+[^36]: ACN v. DT, [[decisions/2021/npc-18-109-acn-v-dt|NPC 18-109]], 01 June 2021, at 10, available at https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision-NPC-18-109-ACN-v.-DT.pdf (last accessed 10 February 2023).
 [^37]: Decision, 10 November 2022, at 8, in RJC v. DL, NPC 22-012 (NPC 2022).
 [^38]: Id. at 2.
 [^39]: Id. at 8.
@@ -267,7 +267,7 @@ GENERAL RECORDS UNIT
 [^49]: Id. at 8.
 [^50]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 16 (a) (2012).
 [^51]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, Rule VIII, § 34(a)(2) (2016).
-[^52]: ECA v. XXX, NPC 18-103, 23 July 2020, at 5, available at https://www.privacy.gov.ph/wp-content/uploads/2020/12/NPC-18-103-ECA-v-XXX-Decision-ADJU1.pdf (last accessed 27 April 2023).
+[^52]: ECA v. XXX, [[decisions/2020/07-23-2020-eca-vs-xxx|NPC 18-103]], 23 July 2020, at 5, available at https://www.privacy.gov.ph/wp-content/uploads/2020/12/NPC-18-103-ECA-v-XXX-Decision-ADJU1.pdf (last accessed 27 April 2023).
 [^53]: Raoul C. Villarete v. Commission on Audit, G.R. No. 243818 (2022).
 [^54]: Memorandum for Complainant, 04 August 2022, at 3, in RJC v. DL, NPC 22-012 (NPC 2022).
 [^55]: Motion for Reconsideration, 03 January 2023, at 9, in RJC v. DL, NPC 22-012 (NPC 2023).

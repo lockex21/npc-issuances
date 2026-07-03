@@ -26,7 +26,7 @@ Re: LAWFUL PROCESSING OF PERSONAL DATA
 
 Dear [Redacted],
 
-This is with reference to your request for advisory opinion which sought clarification on whether the processing of personal data by the Capital Markets Integrity Corporation (CMIC) is allowed under Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR),[^2] and relevant issuances of the National Privacy Commission (NPC).
+This is with reference to your request for advisory opinion which sought clarification on whether the processing of personal data by the Capital Markets Integrity Corporation (CMIC) is allowed under Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR),[^2] and relevant issuances of the National Privacy Commission (NPC).
 
 We understand that CMIC is a wholly-owned subsidiary of the Philippine Stock Exchange, Inc. It was granted by the Securities and Exchange Commission (SEC) its self-regulatory organization (SRO) status on 3 February 2012.[^3]
 
@@ -36,7 +36,7 @@ We understand further that an SRO refers to an organized exchange, registered cl
 
 Considering the above, we confirm that CMIC may process personal, sensitive personal and privileged information of data subjects, taking into consideration the provisions of Sections 12 and 13 of the DPA on the criteria for lawful processing of personal data.
 
-Specifically, Section 12 (c) of the DPA provides that processing of personal information shall be permitted when the processing is necessary for compliance with a legal obligation to which the personal information controller is subject. Similarly, for sensitive personal and privileged information, Section 13(b) of the DPA provides that the same may be lawfully processed when processing is provided for by existing laws and regulations: provided, that said laws and regulations do not require the consent of the data subject for the processing, and guarantee the protection of personal data.
+Specifically, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the DPA]] provides that processing of personal information shall be permitted when the processing is necessary for compliance with a legal obligation to which the personal information controller is subject. Similarly, for sensitive personal and privileged information, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(b) of the DPA]] provides that the same may be lawfully processed when processing is provided for by existing laws and regulations: provided, that said laws and regulations do not require the consent of the data subject for the processing, and guarantee the protection of personal data.
 
 We wish to emphasize that the DPA, its IRR and related issuances of the NPC should be read together with existing laws, such as the SRC. The DPA has the twin task of protecting the right to privacy and ensuring the free flow of information. The law cannot be used as an excuse for non-compliance with other existing laws, rules, and regulations.
 

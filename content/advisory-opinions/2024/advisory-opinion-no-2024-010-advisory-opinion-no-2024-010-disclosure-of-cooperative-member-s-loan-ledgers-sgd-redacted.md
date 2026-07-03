@@ -35,7 +35,7 @@ We respond to your request for an Advisory Opinion concerning various issues inv
 
 *Q4:* If NO to Q1, can the Coop issue a Statement of Account which also reflects the contents of the ledgers without other personal data and as long as it is Certified Correct by a Coop Officer?
 
-*Q5:* If it's okay to ask, what other pertinent Philippine law/s apply to the stated situation? Note: Our Audit Committee hinted that a BSP ruling exempts the issuance of ledgers/info of a transferred loan from the DPA 2012. Will that said BSP ruling apply?
+*Q5:* If it's okay to ask, what other pertinent Philippine law/s apply to the stated situation? Note: Our Audit Committee hinted that a BSP ruling exempts the issuance of ledgers/info of a transferred loan from the [[laws/data-privacy-act-of-2012|DPA]] 2012. Will that said BSP ruling apply?
 
 Considering that the issues raised are interrelated, we shall address them jointly below.
 
@@ -87,7 +87,7 @@ Thus, the disclosure of the loan ledgers and/or SOAs of members to other members
 
 The decision to disclose personal data rests with and its process owner.[^6] If no process owner is identified, , through its Board or General Assembly and in consultation with its Data Protection Officer (DPO), may decide whether and how much personal data will be disclosed.[^7]
 
-Please note that NPC Circular 22-048[^8] requires PICs to designate and register a DPO, who shall be responsible for ensuring compliance with the DPA, its IRR, NPC issuances, and other relevant laws. The DPO may be consulted and may be allowed to participate in meetings of senior and middle management to represent the interest of the members.
+Please note that NPC Circular 22-048[^8] requires PICs to designate and register a DPO, who shall be responsible for ensuring compliance with the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], NPC issuances, and other relevant laws. The DPO may be consulted and may be allowed to participate in meetings of senior and middle management to represent the interest of the members.
 
 It is important to note that the registration and designation of a DPO is a legal requirement imposed upon PICs like . For further guidance, you may check https://privacy.gov.ph/appointing-a-data-protection-officer/.
 

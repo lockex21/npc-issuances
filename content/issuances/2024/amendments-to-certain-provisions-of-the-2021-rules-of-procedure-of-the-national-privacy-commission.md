@@ -20,7 +20,7 @@ date: '2024-01-26'
 
 ### Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission
 
-Pursuant to the authority vested in the National Privacy Commission (NPC) through [[laws/data-privacy-act-of-2012#Section 7(b)|Section 7(b) of the DPA]], otherwise known as the “[Data Privacy Act of 2012](./laws/data-privacy-act-of-2012.md)” (DPA), to receive complaints and institute investigations, the following amendments repeal and renumber several provisions of the 2021 Rules of Procedure dated 28 January 2021.
+Pursuant to the authority vested in the National Privacy Commission (NPC) through [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b) of the DPA]], otherwise known as the “[Data Privacy Act of 2012](./laws/data-privacy-act-of-2012.md)” (DPA), to receive complaints and institute investigations, the following amendments repeal and renumber several provisions of the 2021 Rules of Procedure dated 28 January 2021.
 
 **SECTION 1.** ***Rule I, Sections 4 and 5 – Definitions.*** The definitions referenced in the DPA and its implementing rules are adopted in this Circular. Key terminology now reads:
 
@@ -28,7 +28,7 @@ Pursuant to the authority vested in the National Privacy Commission (NPC) throug
 - **Breach investigation** – an NPC-led inquiry triggered by a breach notification filed under NPC rules.
 - **Commission** – the Privacy Commissioner together with the two Deputy Privacy Commissioners.
 - **Complaint investigation** – an NPC investigation spawned by a formal complaint alleging a violation of the DPA.
-- **Compliance check** – the systematic and impartial evaluation of a PIC or PIP, whether in part or whole, to confirm the processing of personal data complies with the DPA, IRR, and NPC issuances. It includes privacy sweeps, document submissions, and on-site visits to evidence organizational control and privacy safeguards.
+- **Compliance check** – the systematic and impartial evaluation of a PIC or PIP, whether in part or whole, to confirm the processing of personal data complies with the DPA, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and NPC issuances. It includes privacy sweeps, document submissions, and on-site visits to evidence organizational control and privacy safeguards.
 - **Courier** – any private mail carrier accredited by the Supreme Court, NPC, or an international convention to which the Philippines is a party.
 - **Digital signature** – an asymmetric transformation of an electronic document such that anyone holding the original document and the signer’s public key can determine whether it was altered and whether it was signed with the corresponding private key.[^1]
 - **Documents submission** – a mode of compliance check requiring supplemental information from a PIC or PIP after a privacy sweep to clarify findings and demonstrate compliance with the DPA, IRR, and NPC issuances.
@@ -379,7 +379,7 @@ For cases recommended for outright dismissal under Rule IV, Section 1 of these R
 
 - **Section 3.** Procedure for breach notification. – Procedure for data breach notification to the Commission shall be governed by the NPC issuances pertaining to the matter.
 
-- **Section 4.** Request for case files. – Copies of the case files may be requested by any party to the complaint or their authorized representative, lawful heirs, and assigns, in accordance with Section 17 of the DPA, or successors-in-interest, by filling-out the request form before the General Records Unit of the NPC. The request for case files may be in the form of a physical copy or an electronic copy, at the option and cost of the requesting party. Provided, that the representative is authorized by a special power of attorney. Provided further, that in case where a party is a juridical person, the representative is authorized by a Board Resolution contained in a duly notarized Secretary’s Certificate or its equivalent for a government agency.[^10] Provided finally, that in case where the files are requested by the heirs, assigns, or successors-in-interest, proof of authority or relationship must be presented.
+- **Section 4.** Request for case files. – Copies of the case files may be requested by any party to the complaint or their authorized representative, lawful heirs, and assigns, in accordance with [[laws/data-privacy-act-of-2012#section-17-transmissibility-of-rights-of-the-data-subject|Section 17 of the DPA]], or successors-in-interest, by filling-out the request form before the General Records Unit of the NPC. The request for case files may be in the form of a physical copy or an electronic copy, at the option and cost of the requesting party. Provided, that the representative is authorized by a special power of attorney. Provided further, that in case where a party is a juridical person, the representative is authorized by a Board Resolution contained in a duly notarized Secretary’s Certificate or its equivalent for a government agency.[^10] Provided finally, that in case where the files are requested by the heirs, assigns, or successors-in-interest, proof of authority or relationship must be presented.
 
 - **Section 5.** Procedure for requests for advisory opinion. – Procedure for requests for advisory opinion shall be governed by NPC issuances pertaining to the matter.
 

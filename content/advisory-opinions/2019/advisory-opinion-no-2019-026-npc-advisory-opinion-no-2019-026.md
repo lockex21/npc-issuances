@@ -76,7 +76,7 @@ We provide our comments as follows:
 | Amounts of maximum accountability or custody (Section 5) | These information forms part of matters of public concern and may be disclosed without redaction, subject to their relevance and necessity to the purpose of the request. |
 | Salary attached to the position (Section 6) | These information forms part of matters of public concern and may be disclosed without redaction, subject to their relevance and necessity to the purpose of the request. |
 | Bond fixed by law or by the Chairman of the Commission on Audit (Section 8) | These information forms part of matters of public concern and may be disclosed without redaction, subject to their relevance and necessity to the purpose of the request. |
-| Previous experience (Section 9A) | This may be considered as personal information, the disclosure of which should be based upon any criteria under Section 12 of the DPA, and subject to its relevance and necessity to the purpose of the request. |
+| Previous experience (Section 9A) | This may be considered as personal information, the disclosure of which should be based upon any criteria under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], and subject to its relevance and necessity to the purpose of the request. |
 | Criminal or Administrative Record (Section 9B) | This is sensitive personal information under the DPA, the disclosure of which should be based upon any criteria under Section 13 of the law, and subject to its relevance and necessity to the purpose of the request. We note that in your letter, you have not stated the purpose of your request for these forms. Considering the principles of legitimate purpose and proportionality, you may not be given access to information on criminal and administrative records, especially if such is still pending with the Ombudsman as you have stated in your letter. |
 
 | Redacted Information in General Form 58A of a Municipal Mayor | Comment/Remarks |
@@ -98,7 +98,7 @@ We provide our comments as follows:
 
 Government agencies should abide by their Freedom of Information (FOI) Manual when dealing with requests for public document pursuant to EO No. 2. Likewise, it is incumbent upon the government agency to promulgate rules or criteria against which the request for disclosure shall be assessed.
 
-The National Privacy Commission (NPC) issued NPC Advisory No. 2017-02 (Advisory) dated 03 April 2017 to shed light on the nature of processing that is permissible under the DPA while upholding the freedom to access information, public records and official records pursuant to EO No. 02.
+The National Privacy Commission (NPC) issued [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|NPC Advisory No. 2017-02]] (Advisory) dated 03 April 2017 to shed light on the nature of processing that is permissible under the DPA while upholding the freedom to access information, public records and official records pursuant to EO No. 02.
 
 Though the Advisory particularly pertains to requests for access to or disclosure of the Personal Data Sheet (PDS) of government personnel, the issuance included considerations that may be taken into account in a request for access to public documents which may also be applicable to the present inquiry. These are:
 

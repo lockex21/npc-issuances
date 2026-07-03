@@ -51,7 +51,7 @@ We reiterate that implied or inferred consent is not recognized in this jurisdic
 
 #### Legitimate Interest as Lawful Criterion for Marketing Communications
 
-Since the DPA does not consider the soft opt-in approach as valid consent for purposes of marketing communication purposes, you may rely on the other lawful criteria for processing stated under Section 12 of the DPA.
+Since the DPA does not consider the soft opt-in approach as valid consent for purposes of marketing communication purposes, you may rely on the other lawful criteria for processing stated under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]].
 
 In particular, legitimate interest under Section 12(f) of the DPA may be utilized as a lawful criterion. NPC discussed the elements for processing based on legitimate interest in MAF v. Shopee, Inc.,[^6] viz.:
 
@@ -78,4 +78,4 @@ Director IV, Privacy Policy Office
 [^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3(b) (2012).
 [^4]: Ibid.
 [^5]: See NPC Advisory Opinion Nos. 2017-31 and 2017-42.
-[^6]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [NPC 21-167] (Sept. 22, 2022).
+[^6]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]] (Sept. 22, 2022).

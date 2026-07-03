@@ -28,7 +28,7 @@ draft: false
 - Pages: 11
 
 ## Source Tags
-- Exhaustion of Remedies (Sec. 4 NPC Circular No. 16-04)
+- Exhaustion of Remedies (Sec. 4 [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]])
 - Legitimate Interest
 - Unauthorized Access or Intentional Breach (Section 29)
 
@@ -78,11 +78,11 @@ On 28 December 2018, DDZ moved to amend his original complaint to include CL and
 
 On 16 and 25 January 2019, CL and DM filed a complaint before the Commission, respectively. Both Complaints alleged that DDZ violated the DPA for revealing their passport without their consent, and that DDZ may have broken into MVP's database where the scanned copies of the passports are stored. Complainants also stated that the attachment of their passports in the complaint filed before the Office of the Prosecutor, DOLE, CDC, and BI was for the purpose of harassing the Complainants.[^2]
 
-CL prayed that DDZ be held liable for the violations of Section 29 of the DPA. He also prayed for DDZ to be deported for the aforementioned violation. While DM prayed that DDZ be held liable for the violation of Sections 29 and 31 of the DPA.
+CL prayed that DDZ be held liable for the violations of [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Section 29 of the DPA]]. He also prayed for DDZ to be deported for the aforementioned violation. While DM prayed that DDZ be held liable for the violation of Sections 29 and 31 of the DPA.
 
 DDZ filed an Answer to CL dated 07 June 2019 and to DM dated 16 August 2019. In his separate Answers, he argued that the Complaints before the NPC is a form of retaliation from Complainants since they are in danger of being deported for working in the Philippines without the necessary working VISA.
 
-He also argued that the Commission should not have entertained the complaints for failing to exhaust all remedies as provided in Section 4 of the NPC Circular No. 16-04. Further he stated that, assuming that the complaint is valid, the passports are excluded from the coverage of Section 4(e) of the DPA and that the processing of such information is permitted under Section 12 (e) and (f) and 13 (f) of the DPA.[^3] In addition, he stated that he was able to obtain the passports upon legitimate request from SM (former Operations Manager) and DMV (former President and CEO), fully disclosing the purpose of where the passports are going to be used.[^4]
+He also argued that the Commission should not have entertained the complaints for failing to exhaust all remedies as provided in Section 4 of the NPC Circular No. 16-04. Further he stated that, assuming that the complaint is valid, the passports are excluded from the coverage of [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]] and that the processing of such information is permitted under Section 12 (e) and (f) and 13 (f) of the DPA.[^3] In addition, he stated that he was able to obtain the passports upon legitimate request from SM (former Operations Manager) and DMV (former President and CEO), fully disclosing the purpose of where the passports are going to be used.[^4]
 
 On 01 July 2019 and 12 September 2019, CL and DM filed their Reply, respectively.[^5] Complainants maintain that DDZ failed to explain how he was able to obtain his sensitive personal information and that DDZ illegally obtained their passports and used it without their consent. They also argued that the use of their passports is not covered in the exceptions mentioned in Section 4(e) and Section 12(e) and (f) of the DPA. Further, CL reiterated his arguments in his previous complaint that DDZ has no authority/access to his sensitive personal information and therefore, has violated the DPA.
 
@@ -114,7 +114,7 @@ In his Answer and Rejoinder, Respondent argues that the Commission should not ha
 >
 > The failure to comply with the requirements of this Section shall cause the matter to be evaluated as a request to the National Privacy Commission for an advisory opinion, and for the National Privacy Commission to take such further action, as necessary. **The National Privacy Commission may waive any or all of the requirements of this Section, at its discretion, upon good cause shown, or if the complaint involves a serious violation or breach of the Data Privacy Act, taking into account the risk of harm to the affected data subject.** (Emphasis supplied)
 
-Further, Rule II, Section 2 of the NPC Circular No. 2021-01 provides:
+Further, Rule II, Section 2 of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] provides:
 
 > **The NPC may waive any or all of the requirements of this Section at its discretion upon (a) good cause shown, properly alleged and proved by the complainant; or (b) if the allegations in the complaint involve a serious violation or breach of the Data Privacy Act of 2012, taking into account the risk of harm to the affected data subject, including but not limited to:**
 >
@@ -146,13 +146,13 @@ In his Answer to DM's Complaint, which he then also reiterated in his Rejoinder 
 
 > 20. Respondent, upon his legitimate request with the employees of MVP, particularly SM, the former Operations Manager, and DMV, the former President and CEO, with full complete statements of purpose for which such Information was needed, was provided with the copy of complainant's passport. There is no way the respondent can enter the premises of MVP since he was dismissed, albeit illegally, from his employment and prevented to enter MVP;[^10]
 
-At the outset, it shall be emphasized that in this case, there are two forms of processing involved. Section 3(j) of the DPA defined processing as:
+At the outset, it shall be emphasized that in this case, there are two forms of processing involved. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(j) of the DPA]] defined processing as:
 
 > (j) Processing refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.[^11]
 
 The first processing conducted by DDZ was when he requested for CL and DM's passports from MVP's officer and successfully collected such information. The second processing was when DDZ used the copy of Complainants' passports as attachment to his complaint-affidavit before the Office of the Prosecutor of Mabalacat, Pampanga, Letter to DOLE, CDC, and BI.
 
-As previously discussed, passports contain sensitive personal information wherein its processing is generally prohibited subject only to a few exceptions. Such exceptions are provided in Section 13(f) of the DPA, thus:
+As previously discussed, passports contain sensitive personal information wherein its processing is generally prohibited subject only to a few exceptions. Such exceptions are provided in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]], thus:
 
 > **SEC. 13. Sensitive Personal Information and Privileged Information.** – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
@@ -166,7 +166,7 @@ It must be noted that DDZ's allegations of CL and DM's grave threats and illegal
 
 CDC as the operating and implementing arm of the Bases Conversion and Development Authority (BCDA), is authorized to manage the Clark Special Economic Zone (CSEZ).[^16] And finally, the functions of the Bureau of Investigation primarily include the administration and enforcement of immigration, citizenship and alien admission and registration laws in accordance with the provisions of the Philippine Immigration Act of 1940, as amended (C.A. No. 613, as amended).[^17]
 
-Moreover, this Commission takes this opportunity to reiterate its ruling in a previous case,[^18] that the processing of personal and sensitive personal information relying in Section 13(f) must still adhere and be consistent with Section 11 of the DPA or the General Data Privacy Principles of transparency, legitimate purpose, and proportionality. Further, Section 13(f) requires that the processing activities shall be done within the limits of the law, such entails the obligations of the controller to comply with the requirements of the DPA.
+Moreover, this Commission takes this opportunity to reiterate its ruling in a previous case,[^18] that the processing of personal and sensitive personal information relying in Section 13(f) must still adhere and be consistent with [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] or the General Data Privacy Principles of transparency, legitimate purpose, and proportionality. Further, Section 13(f) requires that the processing activities shall be done within the limits of the law, such entails the obligations of the controller to comply with the requirements of the DPA.
 
 #### III. Respondent Cannot be Held Liable for the Violation of Section 29 of the DPA or Unauthorized Access or Intentional Breach
 

@@ -22,7 +22,7 @@ Re: PUBLICATION OF THE FULL CONTENT OF BUREAU OF INTERNAL REVENUE (BIR) RULINGS 
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion seeking to clarify the following matters regarding the Data Privacy Act of 2012[^1] (DPA) and the Unlawful Divulgence Rule under Section 270 of the National Internal Revenue Code of 1997[^2] (NIRC), as amended, in relation ease of doing business and the State’s policy of public disclosure of all its transactions involving public interest embodied in Executive Order (EO) No. 02, s. 2016.[^3]
+We write in response to your request for an advisory opinion seeking to clarify the following matters regarding the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) and the Unlawful Divulgence Rule under Section 270 of the National Internal Revenue Code of 1997[^2] (NIRC), as amended, in relation ease of doing business and the State’s policy of public disclosure of all its transactions involving public interest embodied in Executive Order (EO) No. 02, s. 2016.[^3]
 
 Specifically, you request for clarification on the following:
 
@@ -35,7 +35,7 @@ Specifically, you request for clarification on the following:
 
 We wish to clarify that information of corporate taxpayers, i.e. corporate name, address, tax identification numbers, business transactions, etc. are not covered by the DPA since these pertain to information of juridical persons and does not identify an individual. As such, processing of information pertaining to such juridical entities, including publication thereof, is not governed by the DPA.
 
-Note also that the subject of advisory opinions of the National Privacy Commission (NPC) revolves around the interpretation of the provisions of the DPA, its Implementing Rules and Regulations (IRR) and NPC issuances, compliance requirements under the DPA, enforcement of data privacy laws, and other related matters on personal data privacy, security, and protection.[^4]
+Note also that the subject of advisory opinions of the National Privacy Commission (NPC) revolves around the interpretation of the provisions of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and NPC issuances, compliance requirements under the DPA, enforcement of data privacy laws, and other related matters on personal data privacy, security, and protection.[^4]
 
 Thus, the interpretation of the provisions of the NIRC, particularly Section 270, are not within
 the purview of our mandate. For purposes of this advisory opinion, the discussion shall be
@@ -89,7 +89,7 @@ how the BIR interprets and applies the NIRC in relation to such circumstances sh
 included in the ruling, without necessarily disclosing personal data, especially sensitive
 personal information.
 
-If a particular ruling cannot otherwise be crafted in the above manner, the BIR may opt to redact the ruling to be posted on the BIR website. This is similar to our previous pronouncement in Advisory Opinion No. 2018-018[^10] regarding the online publication of PhilHealth decisions, where we advised PhilHealth to consider posting a redacted or pseudonymized version of the decision or case digests which may be sufficient for public information.
+If a particular ruling cannot otherwise be crafted in the above manner, the BIR may opt to redact the ruling to be posted on the BIR website. This is similar to our previous pronouncement in [[advisory-opinions/2018/advisory-opinion-no-2018-018-npc-advisory-opinion-no-2018-018|Advisory Opinion No. 2018-018]][^10] regarding the online publication of PhilHealth decisions, where we advised PhilHealth to consider posting a redacted or pseudonymized version of the decision or case digests which may be sufficient for public information.
 
 From the foregoing, the publication of the full content of BIR Rulings may be done without
 violating the provisions of the DPA, considering the discussions above on the BIR’s mandate.
@@ -111,9 +111,9 @@ Privacy Commissioner and Chairman
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^2]: AN ACT AMENDING THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED, AND FOR OTHER PURPOSES ["Tax Reform Act of 1997"], Republic Act No. 8424 (1997).
 [^3]: Operationalizing in the Executive Branch the People's Constitutional Right to Information and the State Policies to Full Public Disclosure and Transparency in the Public Service and Providing Guidelines Therefor, Executive Order No. 02, s. 2016.
-[^4]: National Privacy Commission, Rules of Procedure on Requests for Advisory Opinions, Circular No. 18-01 [NPC Circular 18-01] (September 10, 2018).
+[^4]: National Privacy Commission, Rules of Procedure on Requests for Advisory Opinions, [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|Circular No. 18-01]] [NPC Circular 18-01] (September 10, 2018).
 [^5]: Data Privacy Act of 2012, § 2.
-[^6]: National Privacy Commission, NPC Advisory Opinion No. 2018-083 (Nov. 26, 2018).
+[^6]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Nov. 26, 2018).
 [^7]: Bureau of Internal Revenue, Revenue Memorandum Order No. 9-2014 [RMO No. 9-2014] (February 6, 2014).
 [^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
 [^9]: *Ibid.*

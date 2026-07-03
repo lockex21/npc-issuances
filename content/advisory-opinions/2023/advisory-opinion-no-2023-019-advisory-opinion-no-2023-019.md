@@ -51,7 +51,7 @@ Thus, you ask if the refusal of GCash to provide the recipient’s home address 
 
 For perspective, it is worth mentioning that an investigation concerning the failure to return funds erroneously sent to a recipient may be considered as an investigation for purposes of fraud prevention. In the current matter, the Recipient was not entitled to the money that was sent to him or her. Accordingly, the Recipient has the obligation to return the money to the Sender.[^2] Since the Recipient failed to do so, the Sender would necessarily have to investigate and gather data to protect her rights through the filing of a complaint to recover the money. Hence, the Sender has a legitimate interest to conduct her investigation and process personal data necessary to rectify the alleged fraud committed upon her.
 
-Section 12(f) of the DPA allows the processing of personal information when the same is necessary for purposes of the legitimate interests pursued by the personal information controller or by a third party to whom the personal information is disclosed.[^3]
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]] allows the processing of personal information when the same is necessary for purposes of the legitimate interests pursued by the personal information controller or by a third party to whom the personal information is disclosed.[^3]
 
 The United Kingdom’s Information Commissioner’s Office has crafted a three-part test in assessing a claim of legitimate interest as lawful basis for the processing of personal information, thus:
 
@@ -120,6 +120,6 @@ Director IV, Privacy Policy Office
 [^2]: Article 22, Civil Code of the Philippines.
 [^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 12(f) (2012).
 [^4]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner’s Office (ICO), What is the ‘Legitimate Interests’ basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
-[^5]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [NPC 21-167] (Sept. 22, 2022).
+[^5]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]] (Sept. 22, 2022).
 [^6]: Article 26. Civil Code of the Philippines.
 [^7]: Spouses Bill and Victoria Hing v. Alexander Choachuy Sr. and Allan Choachuy, G.R. No. 179736, June 26, 2013.

@@ -33,7 +33,7 @@ Complainant,
 
 -versus-                                                         NPC Case No. 18-130
                                                                  (Formerly NPC Case No. 18-I-130)
-                                                                 For: Violation of the Data Privacy Act of 2012
+                                                                 For: Violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 
 HSBC PHILIPPINES,
 
@@ -65,7 +65,7 @@ On 15 April 2019, an Order[^8] was issued by the CID requiring the Respondent to
 
 The Order[^9] also directed the Respondent to file a Responsive Comment with the following disposition:
 
-> Pursuant to Section 15 of NPC Circular No. 16-04, Respondent is also given a period of ten (10) days from the receipt of this Order to file a Responsive Comment to the Complaint and Supplemental Complaint, together with any supporting documents the respondent or respondents may have, including affidavits of any of the respondents' witness, if any.
+> Pursuant to Section 15 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]], Respondent is also given a period of ten (10) days from the receipt of this Order to file a Responsive Comment to the Complaint and Supplemental Complaint, together with any supporting documents the respondent or respondents may have, including affidavits of any of the respondents' witness, if any.
 
 On 20 May 2019, the Respondent filed its Comment[^10] and submitted its Privacy Management Program. However, the documents requested by the Complainant were not submitted.[^11]
 

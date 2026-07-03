@@ -72,7 +72,7 @@ In its 04 December 2017[^3] Decision, this Commission in fact acknowledged the r
 
 This Commission is likewise well aware that the Civil Code imposes no obligation on the part of the bank to notify their client prior to the actual legal compensation or setoff. When this Commission ruled that Respondent ODB should have properly informed Complainant of its ability and intention to set off its legal claim, this Commission did not mean Respondent ODB should have notified Complainant prior the actual setoff. Rather, it meant that the credit card terms and conditions of Respondent ODB should have complied with the principle of transparency.
 
-Under Chapter III, Section 11 of the Data Privacy Act of 2012, the processing of personal information shall be allowed, subject to compliance with the requirements of said act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality[^4].
+Under Chapter III, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the Data Privacy Act of 2012]], the processing of personal information shall be allowed, subject to compliance with the requirements of said act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality[^4].
 
 Any processing of personal data should be lawful and fair. It should be transparent to natural persons that personal data concerning them are collected, used, consulted, or otherwise processed and as to the extent their personal data are or will be processed. The principle of transparency requires that any information and communication relating to the processing of those personal data be easily accessible and easy to understand, and that clear and plain language be used.
 
@@ -714,7 +714,7 @@ using legal language violates the principle of transparency
 
 While the Data Privacy Act of 2012 does not define “transparency,” the
 
-Implementing Rules and Regulations provide:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] provide:
 
 a. Transparency. The data subject must be aware of the nature,
 
@@ -961,9 +961,7 @@ required information should be distinguished, from other nonprivacy
 
 related information such as contractual provisions or general terms of
 
-use. 36 Notably, the list of required information under Section 16 of the
-
-DPA does not include legal remedies provided under existing laws,
+use. 36 Notably, the list of required information under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]] does not include legal remedies provided under existing laws,
 
 such as the right to setoff under the law on obligations and contracts
 

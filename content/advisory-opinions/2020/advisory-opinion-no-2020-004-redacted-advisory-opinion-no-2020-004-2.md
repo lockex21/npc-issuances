@@ -36,7 +36,7 @@ In denying the request for information, it is the position of your good office t
 
 The DPA is applicable to the processing of all types of personal information and to any natural and juridical person involved in such processing.[^5] The list of DBOs contain personal information as it includes, among others, the names of the deceased barangay officials, their addresses, date of death, and amount of death and burial claims to beneficiaries. Thus, the disclosure of the list should be in accordance with DPA, existing laws, rules and regulations.
 
-However, the Section 4 of the DPA further provides for the specific information which are outside of its scope and which the Implementing Rules and Regulations[^6] (IRR) classifies as special cases. Two special cases are pertinent to the subject of the researcher’s request, to wit:
+However, the [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] further provides for the specific information which are outside of its scope and which the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^6] (IRR) classifies as special cases. Two special cases are pertinent to the subject of the researcher’s request, to wit:
 
 1. Information about any individual who is or was an officer or employee of the government that relates to his or her position or functions, including:
 

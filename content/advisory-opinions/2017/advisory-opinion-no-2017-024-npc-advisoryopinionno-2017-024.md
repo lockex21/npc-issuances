@@ -23,8 +23,8 @@ draft: false
 Dear [Redacted],
 
 This is with regard to your query received by the National Privacy Commission (NPC) on 6
-June 2017 regarding retention of personal data under the Data Privacy Act of 2012 (DPA) and
-its Implementing Rules and Regulation (IRR).
+June 2017 regarding retention of personal data under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and
+its Implementing Rules and Regulation ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]).
 
 ### Discussion
 

@@ -75,7 +75,7 @@ On 5 September 2019, Sun Life submitted a letter[^12] clarifying to the Commissi
 
 On 10 August 2020, the Enforcement Division issued its findings on the breach report, stating:
 
-> Upon assessment of the breach report, this Division found that the measures undertaken and the notification sent complies with R.A. 10173 or the Data Privacy Act, its Implementing Rules and Regulations, and specifically NPC Circular 16-03 on Personal Data Breach Management (Circular).
+> Upon assessment of the breach report, this Division found that the measures undertaken and the notification sent complies with [[laws/data-privacy-act-of-2012|R.A. 10173]] or the Data Privacy Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and specifically NPC Circular 16-03 on Personal Data Breach Management (Circular).
 >
 > Taking into consideration the actions taken by Sun Life immediately after the breach and its remedial measures, this Division assessed that Sun Life acted on the breach incident in accordance with the incident response procedure required by the Circular.
 

@@ -150,7 +150,7 @@ Whether or not Respondents RGC, MTD, and FSD are liable for violating Sections 2
 
 The Commission dismisses the complaint for lack of merit.
 
-#### I. Respondents cannot be held liable for the violation of Section 25 of the DPA.
+#### I. Respondents cannot be held liable for the violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].
 
 To determine whether Section 25 of the DPA is violated, the following requisites must be present:
 
@@ -168,7 +168,7 @@ As to the second requisite, it should be noted that the Complainant claims that 
 
 xxx
 
-Contrary to the Complainant’s claim that his “sensitive personal data” has been processed, only his name and address, which are considered as personal information, were processed in the said certification.[^62] Section 3 (g) of the DPA defines personal information “any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.”[^63] Thus, the second requisite is likewise present.
+Contrary to the Complainant’s claim that his “sensitive personal data” has been processed, only his name and address, which are considered as personal information, were processed in the said certification.[^62] [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (g) of the DPA]] defines personal information “any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.”[^63] Thus, the second requisite is likewise present.
 
 However, the third requisite is absent in this case. The complainant stated that the Respondents processed his “sensitive personal data” without his knowledge and prior consent and was made evidence before the Sangguniang Panlungsod.[^64] However, consent is not the only criterion for lawful processing under the DPA.
 
@@ -188,7 +188,7 @@ Sections 12 (f) and 13 (f) of the DPA states:
 
 Moreover, as held in the case of *EA and TA v. EJ, EE, and HC*, the Commission held that:
 
-> The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is “necessary” or may or may not be collected by lawyers for purposes of building a case, applying the qualifier “necessary” to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of “establishment of legal claims” consistent with the general principles of legitimate purpose and proportionality. As regards legitimate purpose, the Implementing Rules and Regulations (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.
+> The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is “necessary” or may or may not be collected by lawyers for purposes of building a case, applying the qualifier “necessary” to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of “establishment of legal claims” consistent with the general principles of legitimate purpose and proportionality. As regards legitimate purpose, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.
 >
 > xxx
 >
@@ -202,17 +202,17 @@ Moreover, since the processed personal information in the certification pertaine
 
 Further, in the case of *KRL vs. Trinity University of Asia, et. al.*, the Commission ruled:
 
-> Although Section 13(f) applies to sensitive personal information while the information involved in this case is just personal information, the protection of lawful rights and interests under Section 13(f) by the respondent faculty members in this case is considered as legitimate interest pursuant to Section 12(f) of the DPA.[^70]
+> Although Section 13(f) applies to sensitive personal information while the information involved in this case is just personal information, the protection of lawful rights and interests under Section 13(f) by the respondent faculty members in this case is considered as legitimate interest pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]].[^70]
 
 In this case, although the name and address of the Complainant are considered personal information, Section 13 (f) is applicable since the processing of personal information is pursued under a legitimate interest for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise, or defense of legal claims of Respondent RGC.
 
-Moreover, in *NPC 21-031*, the Commission ruled:
+Moreover, in *[[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]]*, the Commission ruled:
 
 > The phrase ‘for the protection of lawful rights and interests of natural or legal persons in court proceedings’ cannot be interpreted to relate only to the person asserting the lawful basis of the processing of personal information. It also contemplates situations where those persons whose lawful rights and interests are protected in court proceedings may not be the same individuals who processed the personal information, such as in the case of witnesses. Similarly, the next clause ‘establishment, exercise or defense of legal claims’ may be interpreted to refer to the legal claims of persons other than those who processed the personal information.[^71]
 
 Here, it was admitted in the Verified Comment of Respondents MTD and FSD that they indeed issued the certification without the intention to cause harm and upon request of a public official in the performance of his mandated duty and with the presumption of regularity.[^72] Moreover, Respondent RGC’s purpose was legitimate since the Complainant filed a complaint as a senior citizen of Barangay XX affected Respondent RGC’s alleged corrupt practices.
 
-It must be noted that Respondent FSD was the signatory in the certification and Respondent MTD was the Officer-In-Charge of OSCA.[^73] Considering that Section 13 (f) of the DPA may be invoked by persons other than those who processed the personal information, the act of Respondent FSD, acting in a lawful request made by Respondent RGC to verify the address of Complainant is considered lawful processing. Lastly, the means used by Respondent RGC was lawful since the issuance of the certification was not proven by the Complainant to have violated the conditions or procedures set by the Tanggapan ng Punong Barangay.
+It must be noted that Respondent FSD was the signatory in the certification and Respondent MTD was the Officer-In-Charge of OSCA.[^73] Considering that [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] may be invoked by persons other than those who processed the personal information, the act of Respondent FSD, acting in a lawful request made by Respondent RGC to verify the address of Complainant is considered lawful processing. Lastly, the means used by Respondent RGC was lawful since the issuance of the certification was not proven by the Complainant to have violated the conditions or procedures set by the Tanggapan ng Punong Barangay.
 
 Considering the foregoing, this Commission finds the processing made by Respondent RGC in requesting and attaching the certification from OSCA and Respondents MTD and FSD on issuing the said certification relating to the Complainant, has lawful criteria to process the same as stated in Sections 13 (f) in relation to 12 (f) of the DPA, specifically, the processing was done for the establishment of his defense in the proceedings before the Sangguniang Panlungsod.
 
@@ -315,7 +315,7 @@ National Privacy Commission
 [^52]: SSS vs. RGC, NPC Case No. 23-064; SSS v. MTD, NPC Case No. 23-065; and SSS vs. FSD, NPC Case No. 23-066, Order (Noting the Verified Comment (for Respondents MTD and FSD) and Reminding the Parties to Appear Virtually for Preliminary Conference) dated 13 July 2023.
 [^53]: SSS vs. RGC, NPC Case No. 23-064; SSS v. MTD, NPC Case No. 23-065; and SSS vs. FSD, NPC Case No. 23-066, Order (After the 1st Preliminary Conference held on 18 July 2023, Requiring Counsel of Complainant to Submit a Formal Entry of Appearance, and Granting the Adoption of the Parties Previous Submissions as their Respective Memoranda), at p. 19 July 2023.
 [^54]: Entry of Appearance for the counsel of the Complainant.
-[^55]: *In re: Oriente Express Techsystem Corporation (CASHALO) and its Responsible Officers*, NPC SS 21-005, Decision dated 16 June 2022, at p. 25.
+[^55]: *In re: Oriente Express Techsystem Corporation (CASHALO) and its Responsible Officers*, [[decisions/2022/npc-ss-21-005-in-re-oriente-express-techsystem-corporations-cashalo-and-its-responsible-officers|NPC SS 21-005]], Decision dated 16 June 2022, at p. 25.
 [^56]: Complaints-Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23-064, NPC Case No. 23-064, and NPC Case No. 23-066), Complaint Affidavit of SSS against RGC, MTD, and FSD, at p. 2.
 [^57]: *Id.*, at p. 2.
 [^58]: *Id.*, at p. 2.

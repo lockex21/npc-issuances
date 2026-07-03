@@ -27,7 +27,7 @@ Re: PRIVACY NOTICE
 
 Dear [Redacted],
 
-This is in response to your request for review of Metro Antipolo Hospital's draft Notice of Privacy – Acceptance of Terms and Conditions of the Privacy Notice and Consent to Use of your Personal Health Information, taking into consideration the requirements of Republic Act No. 10173,[^1] otherwise known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulation (IRR), and issuances of the National Privacy Commission (NPC).
+This is in response to your request for review of Metro Antipolo Hospital's draft Notice of Privacy – Acceptance of Terms and Conditions of the Privacy Notice and Consent to Use of your Personal Health Information, taking into consideration the requirements of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] otherwise known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulation ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and issuances of the National Privacy Commission (NPC).
 
 ### Discussion
 

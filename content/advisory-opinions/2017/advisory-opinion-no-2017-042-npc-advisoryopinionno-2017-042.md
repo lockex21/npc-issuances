@@ -22,11 +22,11 @@ Re: REQUEST FOR ADVISORY OPINION ON THE VALIDITY OF AN IMPLIED FORM OF CONSENT
 
 Dear [Redacted],
 
-This pertains to your request for advisory opinion dated 20 July 2017, which sought to clarify whether an implied consent is considered valid under Republic Act No. 10173[^1], also known as the Data Privacy Act of 2012 (DPA).
+This pertains to your request for advisory opinion dated 20 July 2017, which sought to clarify whether an implied consent is considered valid under [[laws/data-privacy-act-of-2012|Republic Act No. 10173]][^1], also known as the Data Privacy Act of 2012 (DPA).
 
 ### Discussion
 
-Both the DPA (Section 3(b)) and the Implementing Rules and Regulations of the DPA (Section 3(c)) define consent of the data subject as:
+Both the DPA (Section 3(b)) and the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the DPA (Section 3(c)) define consent of the data subject as:
 
 > "Consent of the data subject" refers to any **freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing** of his or her personal, sensitive personal, or privileged information. Consent shall be **evidenced by written, electronic or recorded means**. It may also be given on behalf of a data subject by a lawful representative or an agent specifically authorized by the data subject to do so.
 

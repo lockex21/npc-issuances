@@ -48,7 +48,7 @@ On 05 January 2018, the matter was escalated to Smart's Data Protection Officer 
 
 Smart stated in its data breach notification that, to remediate the incident, it initiated a "refresh information dissemination and training to all SMART retail stores/branches through the re-issuance of Data Privacy Do's and Don'ts".[^10] Further, they also addressed the "auto-resolved" function of Smart's e-mail system, especially in typing in the recipient's e-mail address.[^11]
 
-Smart indicated on its breach notification that IV is currently being investigated to ascertain whether she may be liable under the Company's Code of Discipline, which has been updated in accordance with the Data Privacy Act of 2012 (DPA).[^12]
+Smart indicated on its breach notification that IV is currently being investigated to ascertain whether she may be liable under the Company's Code of Discipline, which has been updated in accordance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^12]
 
 On 09 January 2018, Smart submitted the screenshot of the e-mail from WB which states that he should not be included in the e-mail thread since he is not working for Smart.[^13] Moreover, WB stated that a personal data breach due to negligence is a violation of the DPA.[^14]
 

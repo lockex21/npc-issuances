@@ -113,7 +113,7 @@ A privacy violation is defined as follows:
 
 > A privacy violation pertains to the processing of personal information in violation of a person's reasonable expectation of confidentiality or privacy or in violation of any law, rules, or regulation relating to the protection of personal data, such as the DPA. It includes but is not limited to a violation of the general principles of privacy, a violation of the rights of the data subjects, unauthorized processing, improper disposal of personal data, processing for an unauthorized purpose, concealment of security breaches, and unauthorized or malicious disclosure.[^53]
 
-Section 3 of the DPA defines processing as follows:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] defines processing as follows:
 
 > Section 3. *Definition of Terms*. Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -123,7 +123,7 @@ Section 3 of the DPA defines processing as follows:
 
 The destruction of AFV's personal mailbox and the exchange of comments made by the participants in the Viber group chat about the delinquent unit owners cannot be considered processing as defined in the DPA.
 
-Nevertheless, while the other alleged acts involve the processing of personal information, such personal information was processed with lawful basis under Section 12 (f) of the DPA.
+Nevertheless, while the other alleged acts involve the processing of personal information, such personal information was processed with lawful basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]].
 
 AFV, however, failed to prove by substantial evidence that FRA violated Sections 28, 31 and 32 of the DPA.
 
@@ -307,11 +307,11 @@ National Privacy Commission
 [^50]: Order (After the 1st Preliminary Conference held on 23 March 2022, Cancelling the Second Setting of the Preliminary Conference, and Requiring the Parties to Submit their Simultaneous Memoranda), in AFV v. FRA, NPC 21-251 (NPC 2022).
 [^51]: Memorandum, 11 April 2022, in AFV v. FRA, NPC 21-251 (NPC 2022).
 [^52]: E-mail, 20 April 2022, in AFV v. FRA, NPC 21-251 (NPC 2022).
-[^53]: CSS v. Global Dominion Financing Inc., NPC 21-064, 16 June 2022, at 7, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-064-2022.06.16-CSS-v.-Global-Dominion-Financing-Inc-Decision-FinalP.pdf (last accessed 09 September 2024).
+[^53]: CSS v. Global Dominion Financing Inc., [[decisions/2022/npc-21-064-gss-v-global-dominion-financing-inc|NPC 21-064]], 16 June 2022, at 7, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-064-2022.06.16-CSS-v.-Global-Dominion-Financing-Inc-Decision-FinalP.pdf (last accessed 09 September 2024).
 [^54]: An Act Protect Individual Personal Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (2012).
 [^55]: Complaints-Assisted Form, 22 September 2021, at 4, in AFV v. FRA, NPC 21-251 (NPC 2021).
 [^56]: Data Privacy Act of 2012, § 12 (f). Emphasis supplied.
-[^57]: MAF v. Shopee, NPC 21-167, 22 September 2022, at 9, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-167-2022.09.22-MAF-v.-Shopee-Decision-FinalP.pdf (last accessed 10 October 2024).
+[^57]: MAF v. Shopee, [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]], 22 September 2022, at 9, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-167-2022.09.22-MAF-v.-Shopee-Decision-FinalP.pdf (last accessed 10 October 2024).
 [^58]: Complaints-Assisted Form, 22 September 2021, Appendix 2, in AFV v. FRA, NPC 21-251 (NPC 2021).
 [^59]: Id.
 [^60]: Comment, 22 February 2022, at 7-9, in AFV v. FRA, NPC 21-251 (NPC 2022).

@@ -51,7 +51,7 @@ requires manual submission of the physical/hard copy of the following documents 
 The registration form may be downloaded from the Commission’s website
 (www.privacy.gov.ph). For further concerns relating to the registration of data processing
 systems, including the documentary requirements thereof, parties may also look to the relevant
-provisions[^1] of the Implementing Rules and Regulations (IRR) of Republic Act No. 10173, also
+provisions[^1] of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also
 known as the Data Privacy Act of 2012 (DPA), for guidance on this subject.
 
 #### PIC, PIP, and DPO

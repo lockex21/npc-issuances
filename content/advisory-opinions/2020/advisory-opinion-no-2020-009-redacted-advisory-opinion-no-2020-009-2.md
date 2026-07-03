@@ -50,11 +50,11 @@ Rather, between the job applicant and Healthway, the latter is a PIC since it de
 
 #### Rights of a data subject; retention of personal information for the fulfillment of the declared, specified, and legitimate purpose and in cases provided for by law
 
-Each being a separate PIC in its own right, Healthway and the corporate client are both mandated by law to uphold the rights of data subjects as provided for in Section 16 of the DPA. This includes among others, the right to access and the right to withdraw or order the blocking, removal or destruction of a data subject’s personal information if the same is no longer covered by any other grounds for lawful processing. Non-compliance will each make Healthway and the corporate client liable to the data subject.
+Each being a separate PIC in its own right, Healthway and the corporate client are both mandated by law to uphold the rights of data subjects as provided for in [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]]. This includes among others, the right to access and the right to withdraw or order the blocking, removal or destruction of a data subject’s personal information if the same is no longer covered by any other grounds for lawful processing. Non-compliance will each make Healthway and the corporate client liable to the data subject.
 
 Considering that Healthway and the corporate client may have different and separate purposes for the collection, use and retention of a data subject’s information, each PIC then must assess the period within which it is necessary for them to maintain health records, hinging its assessment on the legitimate purpose for which the data subject’s information was processed and not merely based on who commissioned or paid for the service.
 
-In the case of the corporate clients, the determination of the retention period of health records and the decision to delete the same may stem from Section 19 of the IRR of the DPA which provides as follows:
+In the case of the corporate clients, the determination of the retention period of health records and the decision to delete the same may stem from [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19 of the IRR]] of the DPA which provides as follows:
 
 > Section 19. General principles in collection, processing and retention. The processing of personal data shall adhere to the following general principles in the collection, processing, and retention of personal data:
 >

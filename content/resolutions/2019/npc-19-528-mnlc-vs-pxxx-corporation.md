@@ -50,7 +50,7 @@ For consideration of the Commission is the Motion filed by the respondents PXXX 
 
 ### Discussion
 
-The DPA provides that it is the policy of the State to protect the fundamental human right of privacy.[^1] This policy taken together with the DPA’s interpretation provision that states “[a]ny doubt in the interpretation of any provision of this Act shall be liberally interpreted in a manner mindful of the rights and interest of the individual about whom personal information is processed,” signifies that the protection of the rights of the data subject is considered public interest as contemplated in Section 7(c) of the DPA.
+The DPA provides that it is the policy of the State to protect the fundamental human right of privacy.[^1] This policy taken together with the DPA’s interpretation provision that states “[a]ny doubt in the interpretation of any provision of this Act shall be liberally interpreted in a manner mindful of the rights and interest of the individual about whom personal information is processed,” signifies that the protection of the rights of the data subject is considered public interest as contemplated in [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(c) of the DPA]].
 
 xxx
 
@@ -77,7 +77,7 @@ What the Data Privacy Act of 2012 (DPA) provides is that the Commission may “i
 
 Given all these, respondents’ position that it is absurd to consider the complaint of MNLC as one that is permeated with public interest is not convincing.
 
-It must be emphasized that the personal data involved (citizenship, passport number, and individual’s ID number as determined by the issuing authority) fall under the enumeration of sensitive personal information which can only be processed based on the criteria provided under Section 13 of the DPA.[^9]
+It must be emphasized that the personal data involved (citizenship, passport number, and individual’s ID number as determined by the issuing authority) fall under the enumeration of sensitive personal information which can only be processed based on the criteria provided under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].[^9]
 
 The respondents anchor their claim of observing and conforming to the DPA on having obtained the consent of the members of MNLC to use the MXXX ID. They cite an email dated 28 June 2019 from IKP, an elder of MNLC, that stated:
 
@@ -111,7 +111,7 @@ The investigating officer’s Order imposing a temporary ban on processing by PX
 
 Nevertheless, it remains undisputed that these stricter security measures applied only to MNLCI’s church members and not to the other tenants of the building.
 
-The Implementing Rules and Regulations of the DPA elaborates on the requirements of the principle of proportionality stating that the “processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.”[^20]
+The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the DPA elaborates on the requirements of the principle of proportionality stating that the “processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.”[^20]
 
 The MXXX Building House Rules and Regulations explain their access policies in this way:
 

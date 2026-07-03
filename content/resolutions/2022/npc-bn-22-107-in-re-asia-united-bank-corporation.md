@@ -244,7 +244,7 @@ GENERAL RECORDS UNIT
 
 [^24]: DPO-Report NPC dated 22 November 2022 of Asia United Bank Corporation, at p. 3.
 
-[^25]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3(l)(3) (2012).
+[^25]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, § 3(l)(3) (2012).
 
 [^26]: In re: Asia United Bank Corporation, NPC BN 22-107, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), 1.e Likely Consequences.
 

@@ -23,7 +23,7 @@ Re: MUNTINLUPA CITY ORDINANCE NO. 96-80
 
 Dear [Redacted],
 
-We write in response to your inquiry which sought to clarify whether City Ordinance No. 96-80, requiring the submission of personal information of the rank and file employees to the Public Employment Service Office (PESO), is permissible under the Data Privacy Act of 2012 (DPA).[^1]
+We write in response to your inquiry which sought to clarify whether City Ordinance No. 96-80, requiring the submission of personal information of the rank and file employees to the Public Employment Service Office (PESO), is permissible under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^1]
 
 ### Discussion
 

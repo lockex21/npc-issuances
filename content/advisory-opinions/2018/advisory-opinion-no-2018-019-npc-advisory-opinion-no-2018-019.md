@@ -39,7 +39,7 @@ It is of no matter that a HOA will not be dealing with the processing of sensiti
 
 #### Appointment of a DPO
 
-NPC Advisory No. 2017-01 dated 14 March 2017 on the Designation of Data Protection Officers (DPO) states that pursuant to Section 21(b) of the DPA and Section 50(b) of the IRR, PICs shall designate an individual or individuals who are accountable for the organization’s compliance with the law.
+[[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]] dated 14 March 2017 on the Designation of Data Protection Officers (DPO) states that pursuant to [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21(b) of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-50-accountability-for-transfer-of-personal-data|Section 50(b) of the IRR]], PICs shall designate an individual or individuals who are accountable for the organization’s compliance with the law.
 
 The Advisory and the guidelines apply to all PICs and personal information processors[^7] (PIPs) both in the government or private sector. The designation of a DPO is mandatory for PICs and PIPs, regardless of the number of employees, number of sensitive personal information processed, nature of processing or duration or regularity of processing activities.
 
@@ -83,4 +83,4 @@ Privacy Commissioner and Chairman
 
 [^7]: *Id.*, §3(i).
 
-[^8]: See: NPC Advisory No. 2017-03 - GUIDELINES ON PRIVACY IMPACT ASSESSMENTS dated 31 July 2017.
+[^8]: See: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]] - GUIDELINES ON PRIVACY IMPACT ASSESSMENTS dated 31 July 2017.

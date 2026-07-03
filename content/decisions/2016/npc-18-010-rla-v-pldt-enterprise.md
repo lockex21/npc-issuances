@@ -157,7 +157,7 @@ The processing of personal information without the informed consent of the data 
 
 #### Violation of Section 28: Processing for Unauthorized Purposes.
 
-Section 28 of the Data Privacy Act states:
+[[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 of the Data Privacy Act]] states:
 
 > SEC. 28. Processing of Personal Information and Sensitive Personal Information for Unauthorized Purposes.—The processing of personal information for unauthorized purposes shall be penalized by imprisonment ranging from one (1) year and six (6) months to five (5) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00) shall be imposed on persons processing personal information for purposes not authorized by the data subject, or otherwise authorized under this Act or under existing laws. (Emphasis and underlining supplied)
 
@@ -167,7 +167,7 @@ The fact that PLDT relied on its corporate client, Knutsen, to inform Complainan
 
 #### Unauthorized Disclosure in violation of Section 32.
 
-Section 32 of the Data Privacy Act defines unauthorized disclosure as:
+[[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 of the Data Privacy Act]] defines unauthorized disclosure as:
 
 > The unlawful or inappropriate access to, destruction, use, modification or disclosure of personal information in the organization's possession or under its control.
 
@@ -177,7 +177,7 @@ The law protects the privacy rights of data subjects above and beyond statutory 
 
 #### Determination of Responsible Officers.
 
-As PLDT is a corporation, the individual officers, directors, and employees responsible for the violation must be identified. Under Section 34 of the Data Privacy Act:
+As PLDT is a corporation, the individual officers, directors, and employees responsible for the violation must be identified. Under [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the Data Privacy Act]]:
 
 > SEC. 34. Extent of Liability.—If the offender is a corporation, partnership or any juridical person, the penalty shall be imposed upon the responsible officers, as the case may be, who participated in, or by their gross negligence, allowed the commission of the crime. (Emphasis supplied)
 

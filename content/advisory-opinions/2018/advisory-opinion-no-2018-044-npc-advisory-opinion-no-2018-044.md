@@ -37,7 +37,7 @@ ng Bayan of the Civil Service Commission (CSC) through email. Said report (Reque
 Assistance – For Immediate Action) provided details on your letter request dated 20 June 2018
 addressed to the RMC for “an Official Copy of the Alcohol and Drug Test Results” of a certain
 
-We understand that the RMC denied the request on the basis of patient confidentiality and the provisions of the Data Privacy Act of 2012 (DPA).[^1]
+We understand that the RMC denied the request on the basis of patient confidentiality and the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^1]
 
 ### Discussion
 
@@ -111,7 +111,7 @@ Based on the information provided in this particular inquiry, the requested disc
 
 The purpose for requesting the information should be examined. Hospitals are bound by reporting requirements in many instances, where disclosures are provided by law and regulation.
 
-At the onset, it should be clear that nothing in the Anti-Drunk and Drugged Driving Act of 2013 or its Implementing Rules and Regulations (IRR) provide for the reporting requirement on the part of hospitals to disclose information relevant to diagnostic tests it performs in its facilities.
+At the onset, it should be clear that nothing in the Anti-Drunk and Drugged Driving Act of 2013 or its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for the reporting requirement on the part of hospitals to disclose information relevant to diagnostic tests it performs in its facilities.
 
 Likewise, Section 7 of the Anti-Drunk and Drugged Driving Act of 2013 does not impose the obligation to conduct mandatory alcohol and chemical testing of drivers on the hospital.
 

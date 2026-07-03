@@ -22,11 +22,11 @@ Re: REQUEST AND DISCLOSURE OF PERSONAL DATA FROM THE REGISTRY OF DEEDS
 
 Dear [Redacted],
 
-We respond to your request for guidance on the legality of obtaining personal information from the Registry of Deeds of Antipolo City, Rizal, specifically, the names and pertinent details of the individuals who caused the registration of the instruments affecting the real properties of your deceased parents, in line with Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) and its Implementing Rules and Regulations (IRR).
+We respond to your request for guidance on the legality of obtaining personal information from the Registry of Deeds of Antipolo City, Rizal, specifically, the names and pertinent details of the individuals who caused the registration of the instruments affecting the real properties of your deceased parents, in line with Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).
 
 In your letter, you state that the subject properties covered by Transfer Certificate of Title (TCT) Nos. [Redacted] were previously owned by your parents, [Redacted]. You have indicated that the TCTs' Memorandum of Encumbrances reflect several register instruments including among others: (1) Affidavits of Loss and Non-Loss; (2) Certificates Authorizing Registration (CARs) issued by the Bureau of Internal Revenue (BIR); (3) Deeds of Sale; and a (4) Special Power of Attorney.
 
-You have written a formal letter to the Registry of Deeds, seeking the disclosure of names and pertinent details of the persons who caused the registration of the abovementioned instruments. You premised that the purpose of such request is for the exercise of legal claims, citing Section 13 (f) of the DPA as legal basis.
+You have written a formal letter to the Registry of Deeds, seeking the disclosure of names and pertinent details of the persons who caused the registration of the abovementioned instruments. You premised that the purpose of such request is for the exercise of legal claims, citing [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] as legal basis.
 
 In their reply, the Registry of Deeds denied your request, citing its ministerial duty and asserting that they do not have the authority to determine your lawful rights. They also stated that they are not in the position to determine which personal information is necessary for the protection of lawful rights and interests of persons or establish, exercise or defense of legal claims.
 
@@ -60,7 +60,7 @@ The National Privacy Commission (NPC) clarified in NPC Advisory No. 2024-023 tha
 >
 > C. The processing entails providing to government or public authority personal data that is necessary for the protection of lawful rights and interests in court proceedings or the establishment, exercise, or defense of legal claims in relation to its constitutional or statutory mandate. Such instances may include providing information that supports the investigation of a law enforcement or regulatory agency.
 >
-> SECTION 3. Processing under Section 13 (f) of the DPA as legitimate interest. — Processing under Section 13 (f) of the DPA may be considered legitimate interest under Section 12 (f) of the DPA, which is a lawful basis for processing personal information.
+> SECTION 3. Processing under Section 13 (f) of the DPA as legitimate interest. — Processing under Section 13 (f) of the DPA may be considered legitimate interest under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]], which is a lawful basis for processing personal information.
 >
 > A. Processing personal information that is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings or necessary for the establishment, exercise, or defense of legal claims may be considered as legitimate interest under Section 12 (f) of the DPA. As such, Section 13 (f) in relation to Section 12 (f) of the DPA may be a lawful basis for processing personal information for this purpose.
 >
@@ -70,7 +70,7 @@ We wish to clarify that the processing based on Sections 12(f) and 13(f) may be 
 
 Based on your letter request, the purpose for seeking access to the requested documents is to facilitate the consolidation of properties in connection to the settlement of your parents' estate, with no pending cases filed in court as of date. Such purpose constitutes as an establishment or exercise of legal claims, especially in your capacity as the compulsory heir of your deceased parents.
 
-Accordingly, pursuant to Sections 12(f) and 13(f) of the DPA, and as clarified by NPC Advisory No. 2024-02, the processing of personal data for such purpose may be deemed lawful and may be used as bases for the request to access documents in the custody of the Registry of Deeds.
+Accordingly, pursuant to Sections 12(f) and 13(f) of the DPA, and as clarified by [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|NPC Advisory No. 2024-02]], the processing of personal data for such purpose may be deemed lawful and may be used as bases for the request to access documents in the custody of the Registry of Deeds.
 
 #### Ministerial duty of the Registry of Deeds vs. Right to Access of data subject
 

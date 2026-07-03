@@ -33,7 +33,7 @@ Given the foregoing, you seek clarification on the data subjects' right to erasu
 
 #### Rights of the data subject; right to erasure; retention
 
-Section 16 (e) of the DPA clearly sets forth the right of every data subject to suspend, withdraw or order the removal or destruction of personal information from the filing system of a personal information controller (PIC) upon discovery and substantial proof that the personal information are outdated or is no longer necessary for the purposes for which they were collected, among other conditions.
+[[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (e) of the DPA]] clearly sets forth the right of every data subject to suspend, withdraw or order the removal or destruction of personal information from the filing system of a personal information controller (PIC) upon discovery and substantial proof that the personal information are outdated or is no longer necessary for the purposes for which they were collected, among other conditions.
 
 In relation to the above, we note that POEA Memorandum Circular No. 6, Series of 2016 provides:
 

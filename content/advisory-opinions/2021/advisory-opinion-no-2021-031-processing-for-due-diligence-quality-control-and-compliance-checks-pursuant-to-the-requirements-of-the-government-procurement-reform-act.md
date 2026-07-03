@@ -33,7 +33,7 @@ We understand that this requirement is pursuant to the conduct of Post Qualifica
 (PQB) and Technical Inspection and Acceptance (TIA) processes of the Civil Aviation
 Authority of the Philippines (CAAP) Security and Intelligence Service (CSIS) implementing
 the requirements of Republic Act (RA) No. 9184 also known as the Government Procurement
-Reform Act[^2] (GPRA) and its Implementing Rules and Regulations (IRR).
+Reform Act[^2] (GPRA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).
 
 We understand further that an MDR is a report indicating the names of the PSA’s guards
 assigned to its clients and an updated summary of total number of its employed/deployed
@@ -51,7 +51,7 @@ the following:
 
 ### Discussion
 
-#### Scope of the Data Privacy Act; criteria for lawful processing of personal data; legal obligation
+#### Scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act]]; criteria for lawful processing of personal data; legal obligation
 
 The Data Privacy Act of 2012[^3] (DPA) applies to the processing of personal information,[^4]
 sensitive personal information,[^5] and privileged information[^6] (collectively, personal data) of
@@ -149,4 +149,4 @@ OIC – Director IV, Privacy Policy Office
 
 [^6]: Id. § 3 (k) Privileged information refers to any and all forms of data which under the Rules of Court and other pertinent laws constitute privileged communication.
 
-[^7]: National Privacy Commission, NPC Advisory Opinion No. 2021-027 (July 2021).
+[^7]: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-027-access-to-documents-by-san-miguel-aerocity-inc-pursuant-to-its-legislative-franchise|NPC Advisory Opinion No. 2021-027]] (July 2021).

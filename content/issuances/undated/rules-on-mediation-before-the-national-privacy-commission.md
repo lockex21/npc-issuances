@@ -18,7 +18,7 @@ date: '2018-08-27'
 
 **Circular No. 18-03**
 
-Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#Section 7(b)|Section 7(b) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],” to facilitate
+Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],” to facilitate
 or enable settlement of complaints through the use of alternative dispute resolution processes; and
 consistent with Republic Act No. 9285, otherwise known as the “Alternative Dispute Resolution
 Act of 2004,” declaring it the policy of the State to actively promote party autonomy in the

@@ -22,7 +22,7 @@ Re: PROFILING OF INDIVIDUALS AND COLLECTION OF PERSONAL INFORMATION BASED ON PUB
 
 Dear [Redacted],
 
-This pertains to your query received by the National Privacy Commission (NPC) on via email. You sought clarification on two points. *First*, whether or not publicly available personal data specifically those posted on social media sites and published in news articles, magazines and other reading materials available to the public, are covered by the Data Privacy Act of 2012 (“DPA”). *Second*, whether or not companies are allowed to profile individuals and keep a record of personal information based on publicly available data about them.
+This pertains to your query received by the National Privacy Commission (NPC) on via email. You sought clarification on two points. *First*, whether or not publicly available personal data specifically those posted on social media sites and published in news articles, magazines and other reading materials available to the public, are covered by the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (“DPA”). *Second*, whether or not companies are allowed to profile individuals and keep a record of personal information based on publicly available data about them.
 
 ### Discussion
 
@@ -50,13 +50,13 @@ We reiterate the definition of consent as “any freely given, specific, informe
 
 #### Profiling Based on Publicly Available Information
 
-Profiling is defined under Section 3(p) of the Implementing Rules and Regulations (IRR) of the DPA as “any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyze or predict aspects concerning that natural person’s performance at work, economic situation, health, personal preferences, interests, reliability, behavior, location or movements.”
+Profiling is defined under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|Section 3(p) of the Implementing Rules and Regulations]] (IRR) of the DPA as “any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyze or predict aspects concerning that natural person’s performance at work, economic situation, health, personal preferences, interests, reliability, behavior, location or movements.”
 
 There is no express prohibition for a company to profile individuals based on publicly available data. As defined, a PIC is a “person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf.”[^8]
 
 Note however that a data subject has a right to be informed on whether personal data pertaining to him or her shall be, are being, or have been processed, including the existence of automated decision-making and profiling.[^9] Likewise, the data subject has the right to object and to withhold consent in relation to processing for direct marketing, automated processing or profiling.[^10]
 
-In addition, the PIC engaged in automated decision-making – where automated processing becomes the sole basis for making decisions about a data subject – is required under Section 48 of the IRR to notify the Commission of such processing.
+In addition, the PIC engaged in automated decision-making – where automated processing becomes the sole basis for making decisions about a data subject – is required under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-48-notification-of-automated-processing-operations|Section 48 of the IRR]] to notify the Commission of such processing.
 
 Lastly, PICs are required to uphold the rights of data subjects, and adhere to general data privacy principles and the requirements of lawful processing.[^11]
 

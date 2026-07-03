@@ -168,7 +168,7 @@ Based on the aforementioned purposes, it appears that the only applicable basis 
 would be to obtain the consent of the data subjects.
 
 As presented, the purposes seem to be ambiguous and speculative; hence, they cannot qualify
-under the criterion of legitimate interest in Section 12 (f) of the DPA. The purposes failed to
+under the criterion of legitimate interest in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]]. The purposes failed to
 state what specific details would be recorded or are sought to be recorded to justify the
 automatic recording. This contravenes the data privacy principle of transparency which
 requires that the data subject (i.e., the parties to the telephone conversation) must be aware of
@@ -194,7 +194,7 @@ Similarly, customs, community norms, and practices may, therefore, limit or exte
 individual’s reasonable expectation of privacy. The reasonableness of a person’s expectation of
 privacy is determined on a case-to-case basis.[^14]
 
-NPC Advisory Opinion No. 2018-090[^15] is highly instructive on the reasonable expectation of
+[[advisory-opinions/2018/advisory-opinion-no-2018-090-npc-advisory-opinion-no-2018-090|NPC Advisory Opinion No. 2018-090]][^15] is highly instructive on the reasonable expectation of
 privacy in the workplace in light of the implementation of the DPA, viz.:
 
    Likewise, courts have generally held that employees have a decreased
@@ -313,7 +313,7 @@ Director IV, Privacy Policy Office
 
 [^4]: Data Privacy Act of 2012, § 3 (f).
 
-[^5]: National Privacy Commission, NPC Advisory Opinion No.2017-063, (09 February 2017).
+[^5]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-063-npc-advisoryopinionno-2017-063|NPC Advisory Opinion No.2017-063]], (09 February 2017).
 
 [^6]: AN ACT PROVIDING FOR MANDATORY BIOMETRICS VOTER REGISTRATION, 15 February 2013, §2(b).
 

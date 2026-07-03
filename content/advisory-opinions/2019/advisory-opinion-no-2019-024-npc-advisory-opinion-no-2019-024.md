@@ -23,7 +23,7 @@ Re: DISCLOSURE OF CRIMINAL HISTORY
 
 Dear [Redacted],
 
-We write in response to your request for advisory opinion received by the National Privacy Commission (NPC) which sought clarify the extent of processing and disclosure of criminal history vis-à-vis the provisions of the Data Privacy Act of 2012[^2] (DPA).
+We write in response to your request for advisory opinion received by the National Privacy Commission (NPC) which sought clarify the extent of processing and disclosure of criminal history vis-à-vis the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 ### Discussion
 
@@ -116,4 +116,4 @@ Privacy Commissioner and Chairman
 [^12]: People v. Castelo, G.R. No. L-11816 (1962).
 [^13]: *Id.*
 [^14]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on September 5, 2018].
-[^15]: See: National Privacy Commission, NPC Advisory Opinion No. 2018-061 (Sept. 6, 2018).
+[^15]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-061-npc-advisory-opinion-no-2018-061|NPC Advisory Opinion No. 2018-061]] (Sept. 6, 2018).

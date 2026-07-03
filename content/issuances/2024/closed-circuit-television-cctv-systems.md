@@ -31,7 +31,7 @@ WHEREAS, the National Privacy Commission (NPC) previously issued [[issuances/202
         monitors a public space, such use cannot be considered purely for personal, family, or
         household use. As such, the owner of the CCTV systems is a PIC and subject to the
         corresponding obligations under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), its
-        Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and all relevant issuances of the NPC.
+        [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and all relevant issuances of the NPC.
 
    B. Lawful surveillance. This Circular shall not apply to law enforcement, intelligence, and
        investigative agencies and other government agencies conducting lawful surveillance
@@ -100,7 +100,7 @@ SECTION 4. Lawful basis. — PICs shall identify the most appropriate lawful bas
 
    A. PICs shall determine the more appropriate lawful basis other than the consent of the data subject for the processing of their personal data through the use of CCTV systems. PICs must consider that the purpose of using CCTV systems will vary and consent may not be the most suitable lawful basis in the context of specific processing activities, such as those involving open surveillance in public and semi-public places.
 
-   B. The processing of CCTV footage including sensitive personal information shall be based on the most appropriate lawful basis under [[laws/data-privacy-act-of-2012#Section 13|Section 13 of the DPA]].
+   B. The processing of CCTV footage including sensitive personal information shall be based on the most appropriate lawful basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 SECTION 5. Safeguards. — PICs and its PIPs shall implement reasonable and appropriate security measures, including privacy by design principles, to protect personal data processed against accidental, unlawful, or unauthorized use,[^5] to minimize privacy intrusion, and to comply with the requirements under the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and relevant issuances of the NPC.
 
@@ -143,7 +143,7 @@ SECTION 5. Safeguards. — PICs and its PIPs shall implement reasonable and appr
 
    6. Assistance of PIPs. In accordance with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 43 and 44 of the IRR]], PICs should put in place contractual or other reasonable means to ensure the cooperation and assistance of PIPs they have engaged to process personal data on their behalf.
 
-**SECTION 6.** ***Data subject request for access.*** Any person whose personal data is recorded on CCTV systems has a right to reasonable access to the same pursuant to [[laws/data-privacy-act-of-2012#Section 16|Section 16 of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 34|Section 34 of the IRR]].
+**SECTION 6.** ***Data subject request for access.*** Any person whose personal data is recorded on CCTV systems has a right to reasonable access to the same pursuant to [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 of the IRR]].
 
    A. PICs and PIPs shall establish policies allowing for access, and shall consider the following:
 
@@ -153,7 +153,7 @@ SECTION 5. Safeguards. — PICs and its PIPs shall implement reasonable and appr
           4. Purpose and manner of the request for access, which should not be contrary to law, morals, or public policy; and
           5. Sufficient details on the requested footage such as the specific date, approximate time, and location, to enable PICs and its PIPs to locate such footage.
 
-   B. Where images of persons other than the requesting data subject appear on the CCTV footage, such as a specific person sought to be identified as part of the request for identification of malefactors for the protection of lawful rights and interests, establishing legal claims, investigation, or law enforcement purposes, Section 12 (f) or Section 13 (f) of the DPA may apply as the basis for the disclosure.
+   B. Where images of persons other than the requesting data subject appear on the CCTV footage, such as a specific person sought to be identified as part of the request for identification of malefactors for the protection of lawful rights and interests, establishing legal claims, investigation, or law enforcement purposes, Section 12 (f) or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] may apply as the basis for the disclosure.
 
 **SECTION 7.** ***Third-party access request.*** A third-party access request is a request to access CCTV footage made by a person other than the data subject involved in the footage or the latter’s authorized representative. If a data subject involved in the footage or their authorized representative requests access to CCTV footage, the presence of another person’s
 
@@ -181,7 +181,7 @@ image within the CCTV footage does not automatically classify such request as a 
 
    5. Other third-party requests. Third-party access requests for CCTV footage and images shall be evaluated with greater scrutiny to prevent violation of the privacy rights of the data subjects concerned.
              a. Upon determination of PICs that the requesting third party’s needs outweigh those of the data subjects to whom the CCTV footage and images pertain, it may release information to such requesting third party.
-             b. PICs must determine on a case-to-case basis if they will accede to such request taking into consideration the general principles of privacy, the rights and freedoms of the data subjects whose images are recorded by the CCTV systems, and a lawful basis for processing under Section 12 or [[laws/data-privacy-act-of-2012#Section 13|Section 13 of the DPA]].
+             b. PICs must determine on a case-to-case basis if they will accede to such request taking into consideration the general principles of privacy, the rights and freedoms of the data subjects whose images are recorded by the CCTV systems, and a lawful basis for processing under Section 12 or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 **SECTION 8.** ***Response procedure.*** The following shall be implemented:
 

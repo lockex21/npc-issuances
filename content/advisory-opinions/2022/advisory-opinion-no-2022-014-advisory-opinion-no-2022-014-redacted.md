@@ -71,7 +71,7 @@ DPA in a school setting. The NPC refers to this contract between the school and 
 as the “educational framework,” which encompasses all activities and operations the school
 may perform in line with the student’s education. Any processing of personal information to
 fulfill the obligations of parties within the educational framework is permissible, as provided
-in Section 12 (b) of the DPA which states:
+in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (b) of the DPA]] which states:
 
    SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of
        personal information shall be permitted only if not otherwise prohibited by law,
@@ -83,7 +83,7 @@ in Section 12 (b) of the DPA which states:
        fulfillment of a contract with the data subject or in order to take steps at the
        request of the data subject prior to entering into a contract;[^7]
 
-On the other hand, in the case of processing of sensitive personal information within the educational framework, which includes an individual’s information of his or her education such as grades, performance or awards, etc., such processing is still permitted under Section 13 (a) of the DPA, to wit:
+On the other hand, in the case of processing of sensitive personal information within the educational framework, which includes an individual’s information of his or her education such as grades, performance or awards, etc., such processing is still permitted under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (a) of the DPA]], to wit:
 
    SEC. 13. Sensitive Personal Information and Privileged Information. – The processing
        of sensitive personal information and privileged information shall be prohibited,

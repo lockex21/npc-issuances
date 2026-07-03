@@ -49,7 +49,7 @@ marry and without derogatory record; and c) by parents, on the girlfriend, boyfr
 or fiancée of their child.
 
 You now wish to clarify whether the abovementioned activities of Eyespy are permissible by
-the provisions of Republic Act No. 10173,[^3] or the Data Privacy Act of 2012 (DPA), particularly
+the provisions of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^3] or the Data Privacy Act of 2012 (DPA), particularly
 on the processing of sensitive personal information of individuals in cases when the request
 is not pursuant to a pending case or in preparation for the filing of one.
 
@@ -173,7 +173,7 @@ abovementioned provision and held:
        considers as private. And as long as his right is recognized by society, other individuals
        may not infringe on his right to privacy.[^8]
 
-Furthermore, in our Advisory Opinion No. 2018-090 – Data Privacy and Office-Issued Mobile
+Furthermore, in our [[advisory-opinions/2018/advisory-opinion-no-2018-090-npc-advisory-opinion-no-2018-090|Advisory Opinion No. 2018-090]] – Data Privacy and Office-Issued Mobile
 Devices, we discussed on the expectation of privacy and how the passage of the DPA affects
 it, to wit:
 

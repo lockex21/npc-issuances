@@ -82,7 +82,7 @@ The respondent argues that there is no violation of informational privacy rights
 
 The respondent points to jurisprudence laying down a two-part test: (1) whether by conduct, an individual has exhibited an expectation of privacy; and (2) whether this expectation is one that society recognizes as reasonable.[^8] She then contends that as authorized representatives of the PSA, the complainant should have reasonably expected that JH and the respondent can process and facilitate the release of the copy of JV's birth certificate.[^9] She argues, further, that this reasonable expectation extends to SM Store and its authorized personnel.[^10]
 
-The respondent maintains that there was no data breach, and as such, no criminal liability for unauthorized disclosure under Section 32 of the Data Privacy Act, because only authorized employees of SM Store were at the counter, at all material times in this complaint; JH released the complainant's birth certificate to the complainant only.[^11]
+The respondent maintains that there was no data breach, and as such, no criminal liability for unauthorized disclosure under [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 of the Data Privacy Act]], because only authorized employees of SM Store were at the counter, at all material times in this complaint; JH released the complainant's birth certificate to the complainant only.[^11]
 
 For the respondent, Philippine data privacy laws do not require that every document containing personal data be separated individually from other documents. Neither do these laws prohibit putting different documents in just one envelope. She believes that all that the DPA requires is "appropriate and reasonable" security measures to ensure the confidentiality, integrity and availability of personal data.
 
@@ -242,7 +242,7 @@ While SM Store already has existing reasonable and appropriate measures, this Co
 
 It is also worth noting that the NDAs of Respondent and JH were only executed two days before the incident.[^49] SM Store should require their employees to execute that document or some similar agreement at the beginning of their employment, or at least before they are assigned to handle documents containing personal data of their customers.
 
-Section 26(d) of the Implementing Rules and Regulations of the Data Privacy Act provides:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-26-organizational-security-measures|Section 26(d) of the Implementing Rules and Regulations]] of the Data Privacy Act provides:
 
 > d. Management of Human Resources. Any natural or juridical person or other entity involved in the processing of personal data shall be responsible for selecting and supervising its employees, agents, or representatives, particularly those who will have access to personal data. The said employees, agents, or representatives shall operate and hold personal data under strict confidentiality if the personal data are not intended for public disclosure. This obligation shall continue even after leaving the public service, transferring to another position, or upon terminating their employment or contractual relations. There shall be capacity building, orientation or training programs for such employees, agents or representatives, regarding privacy or security policies.
 
@@ -292,7 +292,7 @@ GENERAL RECORDS UNIT
 National Privacy Commission
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [DATA PRIVACY ACT].
-[^2]: Records, p. 18; NPC Circular No. 16-04, Rule III, Section 15.
+[^2]: Records, p. 18; [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]], Rule III, Section 15.
 [^3]: *Id.*, at pp. 22-34.
 [^4]: *Id.*, at p. 3.
 [^5]: *Id.*, at p. 1.

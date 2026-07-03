@@ -18,7 +18,7 @@ date: '2023-03-30'
 ---
 
 ## Source
-- Reference: NPC 18-142
+- Reference: [[decisions/2020/npc-18-142-msh-vs-rsf-tcc|NPC 18-142]]
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-18-142-2023.03.30-Smart-Communications-Inc-Resolution-Final.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: July 29, 2018
@@ -82,7 +82,7 @@ Whether SMART conducted proper breach management, including the implementation o
 
 The Commission finds that SMART conducted proper breach management and implemented reasonable and appropriate security measures upon knowledge of the incident. Thus, the Commission resolves to close the case.
 
-Section 20 (a) and (b) of the Data Privacy Act of 2012 (DPA) mandates a Personal Information Controller (PIC) to implement reasonable organizational, physical, and technical measures intended for the protection of personal information:
+Section 20 (a) and (b) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) mandates a Personal Information Controller (PIC) to implement reasonable organizational, physical, and technical measures intended for the protection of personal information:
 
 > Section 20. Security of Personal Information. (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.
 >

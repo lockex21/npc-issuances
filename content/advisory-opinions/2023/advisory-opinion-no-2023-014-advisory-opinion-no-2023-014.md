@@ -37,7 +37,7 @@ to the local electric cooperative.
 Thus, you ask the following:
 
    1. How can your company disclose customer information to its local partner for
-        collection payables without violating the DPA or any NPC issuance?
+        collection payables without violating the [[laws/data-privacy-act-of-2012|DPA]] or any NPC issuance?
 
    2. Does the transfer of your company’s rights as power distributor free it of its
         obligations towards its customers as data subjects?
@@ -60,7 +60,7 @@ Applying the foregoing to your concern, the privacy notice must indicate what ty
 
 #### *Accountability of PICs to data subjects.*
 
-On your query as to whether your company is free from liability towards the data subjects by the transfer of rights to the local cooperative, we refer you to the principle of accountability under Sec.21 of the DPA’s IRR, to wit:
+On your query as to whether your company is free from liability towards the data subjects by the transfer of rights to the local cooperative, we refer you to the principle of accountability under Sec.21 of the DPA’s [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], to wit:
 
 > SEC. 21. Principle of Accountability. – Each personal information controller is responsible for personal information under its control or custody, including information that have been transferred to a third party for processing, whether domestically or internationally, subject to cross-border arrangement and cooperation.
 >

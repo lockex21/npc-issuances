@@ -52,7 +52,7 @@ On 22 September 2022, the Commission issued a Decision and held FNT liable for a
 
 1. **DISMISSES** the case against NNT for lack of merit; and
 
-2. **FINDS** that FNT violated Section 25 of the Data Privacy Act of 2012 (DPA) and **FORWARDS** this Decision and a copy of the pertinent case records to the Secretary of Justice. This Commission **RECOMMENDS** the prosecution of FNT for Unauthorized Processing of Personal or Sensitive Personal Information under Section 25 of the DPA.
+2. **FINDS** that FNT violated [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the Data Privacy Act of 2012]] (DPA) and **FORWARDS** this Decision and a copy of the pertinent case records to the Secretary of Justice. This Commission **RECOMMENDS** the prosecution of FNT for Unauthorized Processing of Personal or Sensitive Personal Information under Section 25 of the DPA.
 
 **SO ORDERED.**[^1]
 
@@ -188,7 +188,7 @@ While the Commission takes note of the explanations provided by FNT on this poin
 
 The Commission stresses the obligation of Personal Information Controllers (PIC) to remain accountable for personal information in its control.[^47]
 
-Section 3(h) of the DPA defines a PIC as:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(h) of the DPA]] defines a PIC as:
 
 > **Section 3. Definition of Terms.**
 > 
@@ -200,7 +200,7 @@ In her Verified Comment, FNT explained how the business of her real estate agenc
 
 In this kind of relationship, even if FNT's staff members are the ones tasked with making these secondary accounts, FNT is still considered the PIC. After all, she is the person who instructs another person or organization to collect, hold, process, use, transfer, or disclose personal information on her behalf. Further, because these accounts, as well as the ads posted using those accounts, were not only created following her instructions but, more importantly, all benefit her company, she cannot evade liability as the PIC.
 
-Section 21 of the DPA provides that a PIC is responsible for personal information under its control:
+[[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]] provides that a PIC is responsible for personal information under its control:
 
 > **Section 21. Principle of Accountability.** Each personal information controller is responsible for personal information under its control or custody, including information that have been transferred to a third party for processing, whether domestically or internationally, subject to cross-border arrangement and cooperation.
 >
@@ -336,7 +336,7 @@ National Privacy Commission
 
 [^31]: *Id.*
 
-[^32]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC Circular No. 2021-01], rule III, § 6 (28 January 2021).
+[^32]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]], rule III, § 6 (28 January 2021).
 
 [^33]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC Circular No. 2021-01], rule III, § 6 (28 January 2021). Emphasis supplied.
 

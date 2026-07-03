@@ -45,7 +45,7 @@ As a solution, the DFA intends to publicly post on its website (https://consular
 the names of Philippine passport applicants whose passports were unsuccessfully delivered
 despite repeated attempts. This is also in consideration of the fact that the DFA’s efforts in
 calling and emailing these applicants were equally ineffective. You now ask whether such
-disclosure is permissible under the Data Privacy Act of 2012[^2] (DPA).
+disclosure is permissible under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 #### Lawful basis for processing personal information; Section 12; fulfillment of functions; contract
 

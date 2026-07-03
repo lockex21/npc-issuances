@@ -77,7 +77,7 @@ On 17 September 2020, the CID found a post on the Facebook page of the Employers
 
 ### Discussion
 
-The NPC is an independent body created to administer and implement the provisions of the DPA. As provided in Section 7 of the DPA, the NPC has Rule Making, Advisory, Public Education, Compliance and Monitoring, Complaints and Investigation, and Enforcement powers[^10] to enable it to protect the fundamental human right of privacy while ensuring the free flow of information to promote innovation and growth.[^11]
+The NPC is an independent body created to administer and implement the provisions of the DPA. As provided in [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the NPC has Rule Making, Advisory, Public Education, Compliance and Monitoring, Complaints and Investigation, and Enforcement powers[^10] to enable it to protect the fundamental human right of privacy while ensuring the free flow of information to promote innovation and growth.[^11]
 
 Section 7(b) of the DPA specifically states that it is the mandate of the NPC to:
 
@@ -95,7 +95,7 @@ In addition, the DPA explicitly provides for the Commission's power to issue Cea
 
 > Section 7 (c). Issue cease and desist orders, impose a temporary or permanent ban on the processing personal information, upon finding that the processing will be detrimental to national security and public interest.
 
-This was reiterated in the Implementing Rules and Regulations (IRR) of the DPA:
+This was reiterated in the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the DPA:
 
 > Section 9. Functions. The National Privacy Commission shall have the following functions:
 >
@@ -117,13 +117,13 @@ The Report details how the personal and sensitive personal information of more t
 
 > In sum, there is sufficient ground to support the finding that FamilyHan violated the following penal provisions of law:
 >
-> Section 26 of the DPA. Accessing Personal Information and Sensitive Personal Information Due to Negligence – (a) Accessing personal information due to negligence shall be penalized by imprisonment ranging from one (1) year to three (3) years and a fine of not less than five hundred thousand pesos (Php 500,000.00) but not more than two million pesos (Php 2,000,000.00) shall be imposed on persons who, due to negligence, provided access to personal information without being authorized under this Act or any existing law.
+> [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 of the DPA]]. Accessing Personal Information and Sensitive Personal Information Due to Negligence – (a) Accessing personal information due to negligence shall be penalized by imprisonment ranging from one (1) year to three (3) years and a fine of not less than five hundred thousand pesos (Php 500,000.00) but not more than two million pesos (Php 2,000,000.00) shall be imposed on persons who, due to negligence, provided access to personal information without being authorized under this Act or any existing law.
 >
 > (b) Accessing sensitive personal information due to negligence shall be penalized by imprisonment ranging from three (3) years to six (6) years and a fine of not less than five hundred thousand pesos (Php 500,000.00) but not more than four million pesos (4,000,000.00) shall be imposed on persons who, due to negligence, provided access to personal information without being authorized under this Act or any existing law.
 >
 > xxx
 >
-> Section 30 of the DPA. Concealment of Security Breaches Involving Sensitive Personal Information – The penalty of imprisonment one (1) year and six (6) months to five (5) years and a fine of not less than Five hundred thousand pesos (Php 500,000.00) but not more than One million pesos (Php 1,000,000.00) shall be imposed on persons who, after having knowledge of a security breach and of the obligation to notify the Commission pursuant to Section 20(f), intentionally or by omission conceals the fact of such security breach.
+> [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Section 30 of the DPA]]. Concealment of Security Breaches Involving Sensitive Personal Information – The penalty of imprisonment one (1) year and six (6) months to five (5) years and a fine of not less than Five hundred thousand pesos (Php 500,000.00) but not more than One million pesos (Php 1,000,000.00) shall be imposed on persons who, after having knowledge of a security breach and of the obligation to notify the Commission pursuant to Section 20(f), intentionally or by omission conceals the fact of such security breach.
 
 The Report finds that there is reason to believe that Familyhan should have known or had a reasonable belief that a security breach of their borrowers' personal information occurred; that it has not made the required notification under NPC Circular 16-03 (Personal Data Breach Management); that there is evidence to support a finding of possible negligence for failure to secure the database and prevent unauthorized access; and that it has not registered with this Commission, despite meeting the criteria for mandatory registration.
 

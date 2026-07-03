@@ -86,7 +86,7 @@ WHEREFORE, the instant complaint is hereby DISMISSED for lack of merit, without 
 
 SO ORDERED.[^6]
 
-The LEO emphasized in its Decisions that “the complaint[s] did not pertain to a violation of the DPA” and, therefore, may be dismissed outright.[^7] The LEO argued that Alamat Crewsers M.C.’s processing was allowed pursuant to Section 12 (f) of the DPA and drew a parallel between the circumstances of this case and that of Advisory Opinion No. 2019-024:
+The LEO emphasized in its Decisions that “the complaint[s] did not pertain to a violation of the DPA” and, therefore, may be dismissed outright.[^7] The LEO argued that Alamat Crewsers M.C.’s processing was allowed pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] and drew a parallel between the circumstances of this case and that of [[advisory-opinions/2019/advisory-opinion-no-2019-024-npc-advisory-opinion-no-2019-024|Advisory Opinion No. 2019-024]]:
 
 In Advisory Opinion No. 2019-024 dated 07 May 2019, the Commission explained that public notices for termination of employees are allowed under the DPA as an exercise of a personal information controller’s legitimate interests. In the same Opinion, the Commission explained the criteria to be used to determine the existence of legitimate interest, thus:
 
@@ -152,7 +152,7 @@ Moreover, in considering what it is necessary to achieve the legitimate interest
 
 As to the third element, not only was Alamat Crewsers M.C.'s interest legitimate but the manner in which it was sought to be achieved did not override the fundamental rights and freedoms of DVL and LAE. Alamat Crewsers M.C. has the right to protect its interests by informing the public of DVL and LAE's membership status. This legitimate interest did not in any way disregard the fundamental rights and freedoms of DVL and LAE. Taking into account the principles of proportionality and fairness, the published factual Facebook post did not go beyond what was necessary to adequately notify the public of DVL and LAE's current standing with the exclusive association.
 
-Lastly, the Commission emphasizes that contrary to the assertions of DVL and LAE, legitimate interest does not require that the PIC be a juridical entity registered with SEC or DTI. Section 3 of the DPA defines a PIC:
+Lastly, the Commission emphasizes that contrary to the assertions of DVL and LAE, legitimate interest does not require that the PIC be a juridical entity registered with SEC or DTI. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] defines a PIC:
 
 Section 3. *Definition of Terms.* Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 
@@ -215,7 +215,7 @@ National Privacy Commission
 [^6]: NPC 22-180, 22 September 2022 (NPC 2022) (unreported); NPC 22-181, 22 September 2022 (NPC 2022) (unreported).
 [^7]: *Id.* at 1-2; *Id.* at 1-2.
 [^8]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 12 (f) (2012).
-[^9]: NPC 20-317 and NPC 20-318, 13 October 2022, at 7 (NPC 2022) (unreported).
+[^9]: [[decisions/2022/npc-20-317-and-20-318-gba-v-sbg-and-lpl-v-sbg|NPC 20-317]] and NPC 20-318, 13 October 2022, at 7 (NPC 2022) (unreported).
 [^10]: *Id.* at 1-2; *Id.* at 1-2.
 [^11]: *Id.* at 3-4; *Id.* at 3-4.
 [^12]: Motion for Reconsideration, 07 October 2022, *in* DVL v. Alamat Crewsers Motorcycle Club, NPC Case 22-180 (NPC 2022) and LAE v. Alamat Crewsers Motorcycle Club, NPC Case 22-181 (NPC 2022).

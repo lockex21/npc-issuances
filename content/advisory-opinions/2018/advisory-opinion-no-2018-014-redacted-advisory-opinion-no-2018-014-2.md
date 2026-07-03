@@ -18,7 +18,7 @@ draft: false
 
 09 May 2018
 
-Re: INTERPRETATION OF THE DATA PRIVACY ACT OF 2012 VIS-À-VIS THE CONCESSION AGREEMENT BETWEEN TRANSCO, PSALM AND NGCP
+Re: INTERPRETATION OF THE [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT OF 2012]] VIS-À-VIS THE CONCESSION AGREEMENT BETWEEN TRANSCO, PSALM AND NGCP
 
 Dear [Redacted],
 
@@ -76,4 +76,4 @@ Privacy Commissioner and Chairman
 [^2]: RA No. 10173, §4(e)
 [^3]: RA No. 9136, §8; see RA No. 10149, otherwise known as the “GOCC Governance Act of 2011.”
 [^4]: *Ibid.*
-[^5]: IRR of RA No. 10173, §3(r) — “Public authority” refers to any government entity created by the Constitution or law, and vested with law enforcement or regulatory authority and functions.
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA No. 10173, §3(r) — “Public authority” refers to any government entity created by the Constitution or law, and vested with law enforcement or regulatory authority and functions.

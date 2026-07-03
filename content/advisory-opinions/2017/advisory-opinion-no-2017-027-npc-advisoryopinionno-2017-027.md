@@ -24,7 +24,7 @@ Dear [Redacted],
 
 ### Discussion
 
-This pertains to your query received by the National Privacy Commission (NPC) on 12 May 2017, via AskPriva. You inquired if anonymized statistical data collected through a software for marketing analytics will fall within the scope of the Data Privacy Act (DPA) of 2012.
+This pertains to your query received by the National Privacy Commission (NPC) on 12 May 2017, via AskPriva. You inquired if anonymized statistical data collected through a software for marketing analytics will fall within the scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA) of 2012.
 
 We understand that your company will collect data on demographics such as age, sex, gender, and location, for marketing analytics which would help your clients to market their products, and this data would not directly and certainly identify an individual.
 
@@ -54,7 +54,7 @@ However, for the proposed collection of data on demographics (age, sex, gender, 
 
 Another factor to consider is the manner by which such data will be collected, and whether in the process, the company will have access to the database containing complete records, including personal data that has not yet been anonymized. If the company has access to the complete records, then the fact that the processing results in anonymized data, would not exempt the company from the coverage of the data privacy act.
 
-Lastly, we wish to emphasize that if your company is processing personal data in some other manner and capacity, i.e. for human resource, outsourcing, etc., it is considered to be either a personal information controller or personal information processor, as the case may be, and thus, is required to comply with the provisions of the DPA, its Implementing Rules and Regulations (IRR) and related issuances of the NPC.
+Lastly, we wish to emphasize that if your company is processing personal data in some other manner and capacity, i.e. for human resource, outsourcing, etc., it is considered to be either a personal information controller or personal information processor, as the case may be, and thus, is required to comply with the provisions of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and related issuances of the NPC.
 
 These other factors should be considered in evaluating whether the processing falls within the scope of the Data Privacy Act.
 

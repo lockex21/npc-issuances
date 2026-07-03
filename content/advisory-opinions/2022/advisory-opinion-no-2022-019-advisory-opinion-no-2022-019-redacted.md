@@ -46,7 +46,7 @@ You mentioned that the use of the BWCs will be for a legitimate purpose, i.e., t
 4. Reduce complaints
 5. Assist with disciplinary and/or legal proceedings.
 
-As justification, you cited Section 12 of the DPA, which provides for the criteria for lawful processing of personal information based on legitimate interests of the personal information controller (PIC), to wit:
+As justification, you cited [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], which provides for the criteria for lawful processing of personal information based on legitimate interests of the personal information controller (PIC), to wit:
 
 > SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists: x x x
 >
@@ -72,7 +72,7 @@ As mentioned, the Corporations have CCTVs installed in their respective faciliti
 
 After evaluation, if the Corporations decide to use BWCs, they must ensure that the data subjects are informed that their security personnel are equipped with BWCs. This may be done through an appropriate privacy notice which you ensure will be complied with.
 
-The privacy notice should describe the specific processes relating to the use of BWCs. In crafting the privacy notice regarding the use of BWCs, reference can be made to Section 16 (b) of the DPA on the information that should be provided to the data subjects pursuant to their right to be informed and to demonstrate the Corporations’ adherence to the data privacy principle of transparency.
+The privacy notice should describe the specific processes relating to the use of BWCs. In crafting the privacy notice regarding the use of BWCs, reference can be made to [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (b) of the DPA]] on the information that should be provided to the data subjects pursuant to their right to be informed and to demonstrate the Corporations’ adherence to the data privacy principle of transparency.
 
 Further, the Commission, in the case of JVA vs UPeso,[^7] ruled that:
 
@@ -107,4 +107,4 @@ Director IV, Privacy Policy Office
 [^5]: Id. § 3 (j).
 [^6]: Data Privacy Act of 2012, § 11 (c).
 [^7]: National Privacy Commission, JVA vs UPESO [NPC Case No. 19-498] 9 June 2020
-[^8]: NPC Advisory No. 2017-03, Guidelines on Privacy Impact Assessment, 31 July 2017.
+[^8]: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]], Guidelines on Privacy Impact Assessment, 31 July 2017.

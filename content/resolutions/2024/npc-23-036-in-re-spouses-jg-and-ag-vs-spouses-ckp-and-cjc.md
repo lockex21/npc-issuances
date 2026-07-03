@@ -51,7 +51,7 @@ On 13 November 2023, the Commission issued a Decision with the following disposi
 
 **WHEREFORE**, premises considered, this Commission hereby:
 
-1. **HOLDS** Respondent Spouses CKP and CJC liable for violating Section 25 of the Data Privacy Act of 2012; and
+1. **HOLDS** Respondent Spouses CKP and CJC liable for violating [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the Data Privacy Act of 2012]]; and
 
 2. **FORWARDS** this Decision and a copy of the pertinent case records to the Secretary of Justice and recommends the prosecution of Spouses CKP and CJC for Unauthorized Processing of Personal Information and Sensitive Personal Information under Section 25 of the DPA.
 
@@ -65,7 +65,7 @@ In addition to the defenses raised by Spouses C in their Verified Comment[^5] an
 
 First, Spouses C maintained that the Commission should not have waived the requirement for exhaustion of administrative remedies.[^7]
 
-The Spouses C alleged that the Principle of Accountability under Section 21 of the DPA provides that it is the personal information controller (PIC), which in this case is the National Bureau of Investigation (NBI), who shall be responsible for any unauthorized disclosure.[^8]
+The Spouses C alleged that the Principle of Accountability under [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]] provides that it is the personal information controller (PIC), which in this case is the National Bureau of Investigation (NBI), who shall be responsible for any unauthorized disclosure.[^8]
 
 Also, Spouses C contended that the method by which they were informed by the Complainants of a possible violation of the DPA is inadequate because they are laymen who cannot be reasonably expected "to understand the ramifications of the allegations made by the Complainants" in their Joint Rejoinder Affidavit.[^9]
 
@@ -75,7 +75,7 @@ Spouses C additionally posited that while it is true that the NPC may waive the 
 
 More so, Complainants could never be purportedly exposed to any risk or any grave or irreparable damage because the disclosure was made only to the Investigating Prosecutor in NPS Docket No. INV-20B-01419 and not to the public at large.[^13] "No third parties, other than those who were parties in NPS Docket No. INV-20B-01419 received the disclosures, as Complainants themselves were aware and privy to said documents."[^14]
 
-Second, Spouses C argued that they had a basis to process the information under Section 12 (f) or Section 13 (f) of the DPA.[^15]
+Second, Spouses C argued that they had a basis to process the information under Section 12 (f) or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]].[^15]
 
 To support such claims, Spouses C alleged that the disclosures were made to strengthen their accusations against the Complainants for Estafa under Article 315 (2) (a) of the Revised Penal Code and to protect their rights and interests as Complainants in NPS Docket No. INV-20B-01419.[^16]
 
@@ -161,7 +161,7 @@ As to the identity of these "good minded persons," the evidence presented by the
 
 Unlike the previous Decisions cited in the MR where in the acquisition of personal data was gained through lawful means,[^40] Spouses C simply obtained the Complainants' Affidavit of Desistance with Mutual Release and Quitclaim through "good minded persons" from the NBI, negating any indication that they secured Complainants' information legally.[^41]
 
-The Commission has previously ruled that the processing of personal and sensitive personal information relying on Section 13 (f) must still adhere with Section 11 of the DPA or the General Data Privacy Principles.[^42]
+The Commission has previously ruled that the processing of personal and sensitive personal information relying on Section 13 (f) must still adhere with [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] or the General Data Privacy Principles.[^42]
 
 It bears stressing that Section 13 (f) requires that the processing shall be within the limits of the law,[^43] contrary to the unauthorized method the Spouses C devised to attain Complainants' Affidavit of Desistance with Mutual Release and Quitclaim. Thus, Spouses C cannot thereafter use the DPA as a protective blanket to further interests obtained through underhanded means.
 
@@ -259,7 +259,7 @@ GENERAL RECORDS UNIT
 [^39]: Spouses JG and AG vs. Spouses CKP and CJC, NPC 23-036, Decision dated 13 November 2023, at pp. 7-8.
 [^40]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at pp. 9-13.
 [^41]: Complaints-Assisted Form dated 14 March 2023 of Spouses JG and AG, at p. 7.
-[^42]: CL vs. DDZ and DM vs. DDZ, NPC 19-030 and NPC 19-132, Resolution dated 10 June 2021, at p. 6.
+[^42]: CL vs. DDZ and DM vs. DDZ, [[decisions/2021/npc-19-030-and-npc-19-132-cl-vs-ddz-and-dm-vs-ddz|NPC 19-030]] and NPC 19-132, Resolution dated 10 June 2021, at p. 6.
 [^43]: Id.
 [^44]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 14.
 [^45]: Data Privacy Act of 2012, chapter I, § 3 (b).

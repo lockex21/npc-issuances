@@ -20,7 +20,7 @@ draft: false
 
 **5 January 2017**
 
-Re: REGISTRATION OF PROCESSING SYSTEM FOR ONLINE BUSINESSES; DELETION OF DATA PROVIDED UNDER SECTION 34(E) OF THE IMPLEMENTING RULES AND REGULATIONS (IRR) OF THE DATA PRIVACY ACT (DPA); AND CLARIFICATION ON SECTION 19(E)(2) OF THE IRR IN RELATION TO DELETION OF PERSONAL INFORMATION
+Re: REGISTRATION OF PROCESSING SYSTEM FOR ONLINE BUSINESSES; DELETION OF DATA PROVIDED UNDER [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|SECTION 34(E) OF THE IMPLEMENTING RULES AND REGULATIONS]] (IRR) OF THE DATA PRIVACY ACT (DPA); AND CLARIFICATION ON SECTION 19(E)(2) OF THE IRR IN RELATION TO DELETION OF PERSONAL INFORMATION
 
 Dear [Redacted],
 
@@ -42,9 +42,9 @@ The DPA and its IRR require the registration of the personal data processing sys
 
 The foregoing rules do not distinguish as to the type of business or industry of a PIC or PIP in determining if the latter is obliged to comply. In view thereof, online businesses are deemed subject to the same set of regulations.
 
-To date, the primary policy reference for the registration of personal data processing systems is Section 47 of the IRR. It lists down the registration information that need to be forwarded by the concerned PICs and PIPs to the Commission. One of the information required is the name of the compliance or data protection officer and his or her contact details.
+To date, the primary policy reference for the registration of personal data processing systems is [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Section 47 of the IRR]]. It lists down the registration information that need to be forwarded by the concerned PICs and PIPs to the Commission. One of the information required is the name of the compliance or data protection officer and his or her contact details.
 
-As regards the period for compliance, Section 67 of the IRR is instructive:
+As regards the period for compliance, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-67-period-for-compliance|Section 67 of the IRR]] is instructive:
 
 > Personal information controllers and Personal information processors shall register with the Commission their data processing systems or automated processing operations, subject to notification, within one (1) year after the effectivity of these Rules… xx x xx
 >
@@ -52,7 +52,7 @@ As regards the period for compliance, Section 67 of the IRR is instructive:
 
 #### Regulations Regarding the Retention and Deletion of Personal Data
 
-As per Section 11(e) of the DPA, personal information shall be "retained only for as long as necessary for the fulfillment of the purposes for which the data was obtained or for the establishment, exercise or defense of legal claims, or for legitimate business purposes, or as provided by law". Section 19(d) of the IRR echoes this policy and provides:
+As per [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11(e) of the DPA]], personal information shall be "retained only for as long as necessary for the fulfillment of the purposes for which the data was obtained or for the establishment, exercise or defense of legal claims, or for legitimate business purposes, or as provided by law". [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19(d) of the IRR]] echoes this policy and provides:
 
 > d. Personal Data shall not be retained longer than necessary.
 >
@@ -65,7 +65,7 @@ As per Section 11(e) of the DPA, personal information shall be "retained only fo
 >
 > 3. Personal data shall be disposed or discarded in a secure manner that would prevent further processing, unauthorized access, or disclosure to any other party or the public, or prejudice the interests of the data subjects.
 
-Meanwhile, Section 16(e) of the DPA grants every data subject the right to "suspend, withdraw or order the blocking, removal or destruction of his or her personal information from the personal information controller's filing system upon discovery and substantial proof that the personal information are incomplete, outdated, false, unlawfully obtained, used for unauthorized purposes or are no longer necessary for the purposes for which they were collected". In the IRR, Section 34(e) states:
+Meanwhile, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(e) of the DPA]] grants every data subject the right to "suspend, withdraw or order the blocking, removal or destruction of his or her personal information from the personal information controller's filing system upon discovery and substantial proof that the personal information are incomplete, outdated, false, unlawfully obtained, used for unauthorized purposes or are no longer necessary for the purposes for which they were collected". In the IRR, Section 34(e) states:
 
 > e. Right to Erasure or Blocking. The data subject shall have the right to suspend, withdraw or order the blocking, removal or destruction of his or her personal data from the personal information controller's filing system.
 >

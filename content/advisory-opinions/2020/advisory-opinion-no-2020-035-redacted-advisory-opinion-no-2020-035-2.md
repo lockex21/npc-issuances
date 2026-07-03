@@ -22,7 +22,7 @@ Re: DATA SHARING PURSUANT TO THE UNIVERSAL HEALTH CARE ACT
 
 Dear [Redacted],
 
-We write in response to your letter requesting for an advisory opinion from the National Privacy Commission (NPC) on whether the Philippine Health Insurance Corporation (PhilHealth) is exempted from executing any data sharing agreement (DSA) by virtue of Republic Act No. 11223 or the Universal Health Care Act (UHC), in relation to the provisions of the Implementing Rules and Regulations (IRR) of the Data Privacy Act of 2012 (DPA) and NPC Circular No. 16-02 (Data Sharing Agreements involving Government Agencies).
+We write in response to your letter requesting for an advisory opinion from the National Privacy Commission (NPC) on whether the Philippine Health Insurance Corporation (PhilHealth) is exempted from executing any data sharing agreement (DSA) by virtue of Republic Act No. 11223 or the Universal Health Care Act (UHC), in relation to the provisions of the Implementing Rules and Regulations (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] (Data Sharing Agreements involving Government Agencies).
 
 We understand that the Department of Health (DOH) is asking PhilHealth for the execution of a DSA in relation to PhilHealth's furnishing the DOH with the former's COVID-19 related data, which necessarily includes personal and sensitive personal information.
 
@@ -32,7 +32,7 @@ We understand that the Department of Health (DOH) is asking PhilHealth for the e
 
 The IRR of the DPA defines data sharing as the disclosure or transfer to a third party of personal data under the control or custody of a personal information controller (PIC). A DSA refers to a contract, joint issuance, or any similar document that contains the terms and conditions of a data sharing arrangement between two or more PICs.
 
-Section 20 of the IRR provides for the general requirements when data sharing is allowed, i.e. when it is expressly authorized by law and provided that there are adequate safeguards for data privacy and security, and that processing adheres to the principles of transparency, legitimate purpose, and proportionality.
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20 of the IRR]] provides for the general requirements when data sharing is allowed, i.e. when it is expressly authorized by law and provided that there are adequate safeguards for data privacy and security, and that processing adheres to the principles of transparency, legitimate purpose, and proportionality.
 
 DSAs involving government agencies are further governed by NPC Circular No. 2016-02. Section 1 thereof provides that government agencies may share or transfer personal data under its control or custody to a third party through a DSA for the performance of a public function or the provision of a public service. Nevertheless, such Circular shall not be construed as prohibiting or limiting the sharing or transfer of any personal data that is already authorized or required by law.
 

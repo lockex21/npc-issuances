@@ -18,11 +18,11 @@ draft: false
 
 16 August 2017
 
-Re: ISSUES CONCERNING PERSONAL INFORMATION OBTAINED FROM FOREIGN JURISDICTIONS UNDER IMPLEMENTING RULES AND REGULATIONS OF REPUBLIC ACT NO. 10173
+Re: ISSUES CONCERNING PERSONAL INFORMATION OBTAINED FROM FOREIGN JURISDICTIONS UNDER IMPLEMENTING RULES AND REGULATIONS OF [[laws/data-privacy-act-of-2012|REPUBLIC ACT NO. 10173]]
 
 Dear [Redacted],
 
-This pertains to your request for advisory opinion dated 24 July 2017, received by the Policy Development Division of the National Privacy Commission (NPC) on 31 July 2017, which sought to clarify whether business processing companies are exempt from the requirements of Republic Act No. 10173[^1], also known as the Data Privacy Act of 2012 (DPA), provided such processing is done in accordance with foreign privacy laws, pursuant to Section 5(f) of the Implementing Rules and Regulations of the DPA.
+This pertains to your request for advisory opinion dated 24 July 2017, received by the Policy Development Division of the National Privacy Commission (NPC) on 31 July 2017, which sought to clarify whether business processing companies are exempt from the requirements of Republic Act No. 10173[^1], also known as the Data Privacy Act of 2012 (DPA), provided such processing is done in accordance with foreign privacy laws, pursuant to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5(f) of the Implementing Rules and Regulations]] of the DPA.
 
 ### Discussion
 

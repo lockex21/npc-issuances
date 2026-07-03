@@ -43,8 +43,7 @@ Philhealth’s legal counsel not to sign the same.
 From the foregoing, you seek clarification on the following:
 
    1) Are the inspection and monitoring activities of the Philhealth an exemption from the
-         applicability of Section 5 (d) and the last paragraph thereof of the Implementing Rules
-   and Regulations[^2] (IRR) of the Data Privacy Act of 2012[^3] (DPA);
+         applicability of Section 5 (d) and the last paragraph thereof of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^2] (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^3] (DPA);
     2) Is Philhealth exempt from signing an NDA if their staff performs monitoring and
        inspection; and
     3) Is Philheatlh exempt from entering into a data sharing agreement (DSA) with the
@@ -118,8 +117,8 @@ Privacy Commissioner
 [^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
 [^3]: An Act Protecting the Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) and last ¶ (2016).
-[^5]: See generally: National Privacy Commission, NPC Advisory Opinion No. 2018-079 (Oct. 23, 2018).
+[^5]: See generally: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-079-v1-redacted-advisory-opinion-no-2018-079|NPC Advisory Opinion No. 2018-079]] (Oct. 23, 2018).
 [^6]: An Act Amending Republic Act No. 7875, Otherwise Known as the "National Health Insurance Act of 1995", As Amended, And for Other Purposes [National Health Insurance Act of 2013], Republic Act No. 10606, § 10 (2013).
 [^7]: *Id.*
-[^8]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies, Circular No. 16-02 [NPC Circular 16-02], § 1 (October 10, 2016).
+[^8]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Circular No. 16-02]] [NPC Circular 16-02], § 1 (October 10, 2016).
 [^9]: Philippine Health Insurance Corporation, Revisions in the Performance Commitment for Health Care Institutions and Professionals, Philhealth Circular No. 013 – 2015 [Circular No. 013-2015] (June 15, 2015).

@@ -34,11 +34,11 @@ You now inquire on how the HR department came to know about the two court cases 
 
 #### Lawful criteria for processing; legitimate interests of the personal information controller
 
-Under the DPA, the employment details of an individual are considered personal information.[^2] Information about an individual’s employment, when put together with other information, would directly and certainly identify an individual.[^3] Subject to prohibition by existing law, the processing of such information shall be allowed only if at least one of the criteria provided by Section 12 of the DPA are met.
+Under the DPA, the employment details of an individual are considered personal information.[^2] Information about an individual’s employment, when put together with other information, would directly and certainly identify an individual.[^3] Subject to prohibition by existing law, the processing of such information shall be allowed only if at least one of the criteria provided by [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] are met.
 
 In particular, Section 12 (f) of the DPA provides that the processing of personal information is allowed when it is “necessary for the purpose of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.”
 
-For this criterion, the personal information controller (PIC) must be able to establish that it has a legitimate interest or purpose in the processing of personal information. Legitimate interests, as discussed in our NPC Advisory Opinion No. 2018-061, are matters that are desired by or important to a PIC, which may include business, financial or other reasonable purpose.[^4] Such legitimate interest, reasonable purpose and intended outcome must be clearly identified by the PIC or a third party or parties to whom the personal data is disclosed.[^5]
+For this criterion, the personal information controller (PIC) must be able to establish that it has a legitimate interest or purpose in the processing of personal information. Legitimate interests, as discussed in our [[advisory-opinions/2018/advisory-opinion-no-2018-061-npc-advisory-opinion-no-2018-061|NPC Advisory Opinion No. 2018-061]], are matters that are desired by or important to a PIC, which may include business, financial or other reasonable purpose.[^4] Such legitimate interest, reasonable purpose and intended outcome must be clearly identified by the PIC or a third party or parties to whom the personal data is disclosed.[^5]
 
 Furthermore, the PIC must consider the following in using legitimate interest as its basis for lawful processing:
 
@@ -54,7 +54,7 @@ As to your question on whether the company may communicate with the collection a
 
 We note that the collection agency, allegedly collecting on behalf of a bank, is considered a personal information processor (PIP). Hence, the collection agency must also adhere to the requirements of the DPA in the processing of personal data and must ensure the protection of personal data at all times.
 
-Hence, if the purpose of the collection agency’s communication to the employer’s HR department is to discuss the alleged unsettled loan obligation and the filing of cases in court for an alleged offense/s by one of its employees then such communication/disclosure should have a basis under Section 13 of the DPA dealing with processing of sensitive personal information, the definition of which includes information about any proceeding for any offense committed or alleged to have been committed by such person. If otherwise, there may be a violation of the DPA.
+Hence, if the purpose of the collection agency’s communication to the employer’s HR department is to discuss the alleged unsettled loan obligation and the filing of cases in court for an alleged offense/s by one of its employees then such communication/disclosure should have a basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] dealing with processing of sensitive personal information, the definition of which includes information about any proceeding for any offense committed or alleged to have been committed by such person. If otherwise, there may be a violation of the DPA.
 
 #### Employer-employee relationship; labor matter
 

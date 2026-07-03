@@ -83,7 +83,7 @@ At the onset, the Commission notes that the period to submit the Position Paper 
 
 The Commission validly served the Order dated 16 July 2021 to JuanHand.
 
-NPC Circular No. 2021-01 or the 2021 Rules of Procedure of the NPC (2021 NPC Rules of Procedure) permits service by electronic mail if the respondent's whereabouts are unknown and if the respondent has a known electronic mail address. Section 5 of Rule III provides:
+[[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] or the 2021 Rules of Procedure of the NPC (2021 NPC Rules of Procedure) permits service by electronic mail if the respondent's whereabouts are unknown and if the respondent has a known electronic mail address. Section 5 of Rule III provides:
 
 > SECTION 5. Service by NPC to unknown respondent or respondent whose whereabouts are unknown. – x x x
 >
@@ -155,7 +155,7 @@ According to JuanHand, it considers accessing and modifying a user's calendar as
 
 In the next provision, JuanHand declares that users are "materially informed" of the kind of personal information it processes when users give consent:
 
-> Therefore, we consider that when users give consent to the Service Agreement, users are materially informed the kind of personal information shall be processed in compliance with section 16(a) of the DPA and have given consent to the above functions.[^29]
+> Therefore, we consider that when users give consent to the Service Agreement, users are materially informed the kind of personal information shall be processed in compliance with [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|section 16(a) of the DPA]] and have given consent to the above functions.[^29]
 
 The privacy provisions in the Service Agreement, however, do not mention access to the user's phone calendar. In fact, the request for permission to access and modify the calendar is not included among the disclosed permissions JuanHand requests from its users, as presented in Annex 2 of the Position Paper. The access and modification of the calendar that JuanHand claims to be covered under its legitimate interest is not included in the categories of personal information that will be collected and processed, as set out in the Service Agreement. As a result, the access and modification of the calendar could not have been disclosed to the data subjects. JuanHand neither informed its borrowers of the additional personal information that will be processed nor acquired their consent to such processing. Having failed to inform its borrowers of such processing, much less acquired their consent, JuanHand cannot belatedly use legitimate interest to cure this defect especially since its borrowers could not have expected this at the time they gave their consent.
 

@@ -73,7 +73,7 @@ Further, Leapfroggr explained that the generated message “should have been an 
 
 In addition, Leapfroggr stated that in addressing the breach, the erroneous message and the exported file were deleted immediately,[^13] the export process was changed,[^14] and the manual sending of files was disabled, changing the process to automated sending.[^15]
 
-The Commission reminds the personal information controllers (PICs) like Leapfroggr, and personal information processors (PIPs) of their obligation under the Data Privacy Act of 2012 (DPA). Under the DPA, notification to the affected data subjects is required especially in breach cases that involves sensitive personal information or other information that may be used to enable identity fraud and are reasonably believed to have been acquired by an unauthorized person, which may likely give rise to a real risk of serious harm to the affected data subjects.[^16]
+The Commission reminds the personal information controllers (PICs) like Leapfroggr, and personal information processors (PIPs) of their obligation under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA). Under the DPA, notification to the affected data subjects is required especially in breach cases that involves sensitive personal information or other information that may be used to enable identity fraud and are reasonably believed to have been acquired by an unauthorized person, which may likely give rise to a real risk of serious harm to the affected data subjects.[^16]
 
 WHEREFORE, premises considered, this Commission resolves that the matter of NPC BN 18-229 “In re: Leapfroggr, Inc.” is hereby considered **CLOSED**.
 

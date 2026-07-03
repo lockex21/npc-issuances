@@ -36,7 +36,7 @@ On the other hand, Republic Act No. 10173,[^1] also known as the Data Privacy Ac
 
 They are bound to uphold the rights of data subjects,[^4] adhere to general data privacy principles of transparency, legitimate purpose and proportionality, and the requirements of lawful processing. They must ensure that data subjects are aware of the nature, purpose, and extent of the processing of their personal data, including the risks and safeguards involved, the identity of personal information controller, their rights as a data subject, and how these may be exercised. Furthermore, they must also provide easy access to information and communication relating to the processing of personal data.[^5]
 
-Section 16(c) of the DPA sets forth the data subject's right to reasonable access, upon demand, to the following:
+[[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(c) of the DPA]] sets forth the data subject's right to reasonable access, upon demand, to the following:
 
 1. Contents of his or her personal data that were processed;
 2. Sources from which personal data were obtained;
@@ -67,4 +67,4 @@ Privacy Commissioner and Chairman
 [^2]: *Id.*, §4 — Processing refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
 [^3]: *Id.*, §4.
 [^4]: *Id.*, §3(c) — Data subject refers to an individual whose personal information is processed.
-[^5]: IRR of RA No. 10173, §18(a).
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA No. 10173, §18(a).

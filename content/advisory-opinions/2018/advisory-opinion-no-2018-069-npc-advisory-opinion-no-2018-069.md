@@ -23,7 +23,7 @@ Re: PHONE USAGE DATA RECORDS
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion concerning the applicability of the Data Privacy Act of 2012[^1] (DPA) to anonymous information.
+We write in response to your request for an advisory opinion concerning the applicability of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) to anonymous information.
 
 ### Discussion
 
@@ -47,7 +47,7 @@ Opinion 05/2014 on Anonymisation Techniques of the Article 29 Data Protection Wo
 
 > If an organisation collects data on individual travel movements, the individual travel patterns at event level would still qualify as personal data for any party, as long as the data controller (or any other party) still has access to the original raw data, even if direct identifiers have been removed from the set provided to third parties. But if the data controller would delete the raw data, and only provide aggregate statistics to third parties on a high level, such as 'on Mondays on trajectory X there are 160% more passengers than on Tuesdays', that would qualify as anonymous data.[^6]
 
-In view of the foregoing, there is a need to make a determination if, indeed, the enumerated Phone Usage Data Record being requested by Mapúa is anonymous information. If otherwise, the information requested by Mapúa is considered as personal information and its processing is subject to the requirements under the DPA, its IRR and issuances of the NPC.
+In view of the foregoing, there is a need to make a determination if, indeed, the enumerated Phone Usage Data Record being requested by Mapúa is anonymous information. If otherwise, the information requested by Mapúa is considered as personal information and its processing is subject to the requirements under the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and issuances of the NPC.
 
 For your information, the DPA applies to any processing of all types of personal information, which is refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^7]
 
@@ -57,7 +57,7 @@ Sections 12 and 13 of the DPA lay down the criteria for the lawful processing of
 
 As personal information controllers, Mapúa and Globe are reminded of their obligations under the DPA, which includes the requirement to implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any accidental or unlawful processing.
 
-Finally, the parties involved in the project must determine conclusively that no personal data will be shared, disclosed, or transferred by the TelCos and/or any other entity to Mapúa. A contrary finding would necessitate the execution of a data sharing agreement (DSA). If a government agency will be party to the DSA, i.e. CHED and/or UP Diliman as mentioned in your letter, the DSA to be executed should be in accordance with the IRR and NPC Circular No. 16-02 - Data Sharing Agreements Involving Government Agencies.
+Finally, the parties involved in the project must determine conclusively that no personal data will be shared, disclosed, or transferred by the TelCos and/or any other entity to Mapúa. A contrary finding would necessitate the execution of a data sharing agreement (DSA). If a government agency will be party to the DSA, i.e. CHED and/or UP Diliman as mentioned in your letter, the DSA to be executed should be in accordance with the IRR and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] - Data Sharing Agreements Involving Government Agencies.
 
 This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts.
 

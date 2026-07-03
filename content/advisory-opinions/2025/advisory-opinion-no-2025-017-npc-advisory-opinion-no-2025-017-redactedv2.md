@@ -45,7 +45,7 @@ The records you described, such as grade breakdowns, examinations and quizzes, p
 
 #### Rights of the learner as a data subject
 
-Section 16 of the DPA enumerates the rights of the data subject, including the rights to be informed, to object, to access, to rectification, to erasure or blocking, to data portability, and to damages. Of particular relevance to this query are the following rights:[^5]
+[[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]] enumerates the rights of the data subject, including the rights to be informed, to object, to access, to rectification, to erasure or blocking, to data portability, and to damages. Of particular relevance to this query are the following rights:[^5]
 
 - **Right to be informed** — which requires that the learner (or, in the case of a minor, the parent or legal guardian) be informed of the nature, purpose and extent of processing of his or her personal data.
 - **Right to access** — which entitles the data subject, upon demand, to reasonable access to:
@@ -54,7 +54,7 @@ Section 16 of the DPA enumerates the rights of the data subject, including the r
   - recipients or classes of recipients
   - the manner and reasons for processing, among others.
 
-The IRR and NPC issuances on data subject rights emphasize that controllers must provide such access in a manner that is reasonable, transparent, and timely, subject only to lawful and clearly justified limitations (i.e. where disclosure would violate the rights of other individuals or contravene another applicable law).
+The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and NPC issuances on data subject rights emphasize that controllers must provide such access in a manner that is reasonable, transparent, and timely, subject only to lawful and clearly justified limitations (i.e. where disclosure would violate the rights of other individuals or contravene another applicable law).
 
 Because the learner in this case is a minor, his rights as a data subject can be exercised through his mother as his parent and legal guardian, consistent with the DPA,[^6] the Family Code,[^7] and the Education Act of 1982.[^8]
 
@@ -64,7 +64,7 @@ Because the learner in this case is a minor, his rights as a data subject can be
 
 In relation to access to school records, this means that [Redacted] should, as a rule, maintain and preserve the confidentiality of learners' records while providing reasonable access to the learner, and in the case of a minor, to the parent or legal guardian, to the learner's own records and the personal data contained therein, subject to verification of identity and authority and to appropriate safeguards for the privacy of other individuals (e.g. by redacting names or identifiers of other students that appear in the same records).
 
-In NPC Advisory Opinion No. 2018-006, the Commission recognized that schools, as personal information controllers, must carefully manage requests for access to and release of school records in a manner that protects learners' privacy while respecting their rights as data subjects.[^10]
+In [[advisory-opinions/2018/advisory-opinion-no-2018-006-npc-advisory-opinion-no-2018-006|NPC Advisory Opinion No. 2018-006]], the Commission recognized that schools, as personal information controllers, must carefully manage requests for access to and release of school records in a manner that protects learners' privacy while respecting their rights as data subjects.[^10]
 
 [Redacted] should also be able to explain any lawful and specific grounds for denying or limiting access to the learner's records, such as where disclosure would reveal privileged information, confidential notes strictly internal to the academic or disciplinary process, or personal data of third parties that cannot reasonably be segregated. The DPA does not require schools to disclose information beyond what is necessary to give effect to learners' rights and to comply with applicable education laws and regulations.
 
@@ -89,7 +89,7 @@ DepEd has also issued regulations and guidance on the handling and release of le
 
 While the NPC cannot speak authoritatively on the application of DepEd's regulations in a particular case, nothing in the DPA prevents DepEd from exercising its supervisory and regulatory functions to ensure that schools comply with learners' statutory rights to access their records, provided that any directives are implemented in a manner consistent with data protection principles.
 
-As for the NPC, under Section 7 of the DPA and Rule III of its IRR, the NPC is mandated to administer and implement the Act and to monitor and ensure compliance with data protection standards.[^12] Among other functions, the Commission may:
+As for the NPC, under [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] and Rule III of its IRR, the NPC is mandated to administer and implement the Act and to monitor and ensure compliance with data protection standards.[^12] Among other functions, the Commission may:
 
 - ensure compliance of personal information controllers with the provisions of this Act;
 - receive complaints and institute investigations regarding violations of the DPA, the IRR, and NPC issuances, including violations of the rights of data subjects;

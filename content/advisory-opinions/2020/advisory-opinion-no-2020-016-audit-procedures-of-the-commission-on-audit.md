@@ -24,7 +24,7 @@ draft: false
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion seeking guidance vis-à-vis the Commission on Audit (COA) Memorandum which states that the Data Privacy Act of 2012[^1] (DPA) does not absolutely prohibit access to information since the law itself has exceptions, and that auditees cannot validly deny the COA access to information/details based on the DPA.
+We write in response to your request for an advisory opinion seeking guidance vis-à-vis the Commission on Audit (COA) Memorandum which states that the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) does not absolutely prohibit access to information since the law itself has exceptions, and that auditees cannot validly deny the COA access to information/details based on the DPA.
 
 In your letter, you stated that although you acknowledge the functions of the COA, pursuant to its constitutional mandate to examine, audit, and settle all accounts pertaining to the revenue, receipts, and expenditures or uses of funds and property owned or held in trust by, or pertaining to, the government,[^2] you have reservations regarding the manner to be employed by COA in the acquisition of personal information, specifically if the same will be done through remote access or database cloning which may pose risks and may lead to personal data breach.
 
@@ -34,7 +34,7 @@ In your letter, you stated that although you acknowledge the functions of the CO
 
 The COA is a constitutional commission, created precisely to be one of the pillars of the State’s system of checks and balances. As a public authority, it has the mission to ensure accountability for public resources, promote transparency, and help improve government operations, in partnership with stakeholders, for the benefit of the Filipino people.[^3]
 
-We must be reminded that the processing of information necessary in order to carry out the functions of public authority, in accordance with a constitutionally or statutorily mandated function pertaining to law enforcement or regulatory function, subject to restrictions provided by law, is one of the instances where the application of the Data Privacy Act of 2012[^4] (DPA), and of the DPA’s Implementing Rules and Regulations[^5] (IRR), is qualified or limited.
+We must be reminded that the processing of information necessary in order to carry out the functions of public authority, in accordance with a constitutionally or statutorily mandated function pertaining to law enforcement or regulatory function, subject to restrictions provided by law, is one of the instances where the application of the Data Privacy Act of 2012[^4] (DPA), and of the DPA’s [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^5] (IRR), is qualified or limited.
 
 This means that when the personal information is needed to be processed by a public
 authority, such as the COA, pursuant to its constitutional mandate, the processing of such
@@ -55,10 +55,9 @@ On the other hand, the foregoing does not relieve the COA, as a personal informa
 As your office correctly pointed out, the COA must still abide by the general data privacy principles provided under the DPA and its IRR, particularly the principle of proportionality. This means that in the processing of personal data, the COA must see to it that the personal data collected and processed shall be adequate, relevant, suitable, necessary, and not excessive in relation to its declared and specified purpose, and that personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.[^8] Thus, the methods to be used in conducting audits may be further assessed if the same are proportional methods vis-à-vis the purposes as well as risks these may pose.
 
 Nonetheless, we trust that the COA, as a PIC, is aware of its obligations under the DPA, its
-IRR, and issuances of the NPC, specifically NPC Circular No. 16-01 on the Security of Personal
+IRR, and issuances of the NPC, specifically [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security of Personal
 Data in Government Agencies, which includes the implementation of physical, organizational
-and technical security measures for the protection of personal data, among others, and NPC
-Circular No. 16-03 on Personal Data Breach Management.
+and technical security measures for the protection of personal data, among others, and NPC Circular No. 16-03 on Personal Data Breach Management.
 
 This opinion is rendered based on the information you have provided. Additional information
 may change the context of the inquiry and the appreciation of the facts.

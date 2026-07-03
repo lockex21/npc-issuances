@@ -41,7 +41,7 @@ You now ask for opinion on AFPSLAI's right to process the necessary documents in
 
 ### Criteria for lawful processing
 
-AFPSLAI may rely on any of the provisions of Sections 12 and 13 of the Data Privacy Act of 2012[^2] (DPA) which provides the criteria for lawful processing of personal and sensitive personal information, respectively.[^3]
+AFPSLAI may rely on any of the provisions of Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) which provides the criteria for lawful processing of personal and sensitive personal information, respectively.[^3]
 
 For all three issues, the processing may be related to a contract between AFPSLAI and the member, a legal obligation on the part of the AFPSLAI, or a requirement under a specific law, rule or regulation, i.e. Commission on Audit (COA) rules on affecting finance centers of the Armed Forces of the Philippines and/or the Philippine National Police, insurance laws or issuances of the Insurance Commission relating to insured loans, and/or BSP rules governing membership in non-stock savings and loans associations. AFPSLAI may likewise consider whether its processing is based on the establishment, exercise or defense of legal claims.
 
@@ -49,11 +49,11 @@ With the above, AFPSLAI should make a determination of the proper basis for the 
 
 ### Data sharing; Memorandum of Agreement with the PSA
 
-As defined in the IRR, data sharing pertains to the disclosure or transfer to a third party of personal data under the custody of a personal information controller (PIC) or a personal information processor (PIP) wherein such transfer was directly instructed by the PIC. The data sharing agreement then refers to the contract which contains the terms and conditions of a dating sharing arrangement between two or more PICs.
+As defined in the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], data sharing pertains to the disclosure or transfer to a third party of personal data under the custody of a personal information controller (PIC) or a personal information processor (PIP) wherein such transfer was directly instructed by the PIC. The data sharing agreement then refers to the contract which contains the terms and conditions of a dating sharing arrangement between two or more PICs.
 
 We understand that the MOA covers the Data Matching Records Scheme and the use of BREQS scheme (issuance of PSA civil registry documents) for the purpose of verification of status of AFPSLAI pensioners/members and their beneficiaries through the system to be provided by the PSA.
 
-We provide the following general comments on the draft MOA pursuant to the provisions of NPC Circular No. 16-02 governing data sharing involving government agencies:
+We provide the following general comments on the draft MOA pursuant to the provisions of [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] governing data sharing involving government agencies:
 
 - There is a need to clarify Section 7.4 of the MOA, which requires AFPSLAI to submit various forms to PSA, i.e. Application Form, Consent Form, and Waiver and Authorization Form. It further provides that "AFPSLAI shall sign and accomplish all forms in behalf of its members/relatives of members, in connection with the rationale and the legitimate purposes mentioned in the whereas clauses."
 

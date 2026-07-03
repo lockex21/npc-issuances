@@ -49,7 +49,7 @@ As can be gleaned from the foregoing, the footage and images captured in the CCT
 
 Concomitant to the above, the processing of CCTV footage is allowed under the DPA if the same is necessary under any of the abovementioned criteria, subject to the implementation of a reasonable and appropriate organizational, physical and technical security measures and adherence to the general data privacy principles of transparency, legitimate purpose and proportionality.
 
-In addition, Section 13(f) of the DPA may likewise apply where a CCTV footage or image would reveal sensitive personal information. Thus, the processing of CCTV footage may be allowed if the same is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
+In addition, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]] may likewise apply where a CCTV footage or image would reveal sensitive personal information. Thus, the processing of CCTV footage may be allowed if the same is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 
 #### Processing of personal information in the workplace; Legitimate interest of employer
 
@@ -97,8 +97,8 @@ Privacy Commissioner and Chairman
 [^3]: Data Privacy Act of 2012, § 3 (g)
 [^4]: See: Office of the Privacy Commissioner (New Zealand). Privacy and CCTV: A guide to the Privacy Act for businesses, agencies and organizations (2009), available at https://www.privacy.org.nz/assets/Files/Brochures-and-pamphlets-and-pubs/Privacy-and-CCTV-A-guide-October-2009.pdf (last accessed Oct. 16, 2018).
 [^5]: See: Office of the Information Commissioner (Queensland). Camera Surveillance and Privacy (2009), available at https://www.oic.qld.gov.au/__data/assets/pdf_file/0010/28099/guideline-camera-surveillance-and privacy.pdf (last accessed March 21, 2019).
-[^6]: See: National Privacy Commission, NPC Advisory Opinion No. 2018-061 (Sept. 6, 2018) citing Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on September 5, 2018].
+[^6]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-061-npc-advisory-opinion-no-2018-061|NPC Advisory Opinion No. 2018-061]] (Sept. 6, 2018) citing Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on September 5, 2018].
 [^7]: Data Privacy Act of 2012, § 16 (a) and (b).
-[^8]: National Privacy Commission, NPC Advisory Opinion No. 2018-084 (Dec. 4, 2018).
+[^8]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-084-npc-advisory-opinion-no-2018-084|NPC Advisory Opinion No. 2018-084]] (Dec. 4, 2018).
 [^9]: *Id.* citing Privacy Commissioner of New Zealand - Privacy at Work: A guide to the Privacy Act for employers and employees, accessed on 28 November 2018, available at https://www.privacy.org.nz/assets/Files/Brochures-and-pamphlets-and-pubs/Privacy-at-Work-2008.pdf
 [^10]: Supreme Court, Rules on Electronic Evidence, A.M. No. 01-7-01-SC, (July 17, 2001).

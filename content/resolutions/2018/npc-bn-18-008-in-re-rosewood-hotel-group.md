@@ -83,7 +83,7 @@ Whether Rosewood conducted proper breach management, including the implementatio
 
 The Commission finds that Rosewood conducted proper breach management and implemented reasonable and appropriate security measures upon knowledge of the incident. Thus, the Commission resolves to close the case.
 
-Section 20 (a) and (b) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) mandates a Personal Information Controller (PIC) to implement reasonable organizational, physical, and technical measures intended for the protection of personal data:
+Section 20 (a) and (b) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA) mandates a Personal Information Controller (PIC) to implement reasonable organizational, physical, and technical measures intended for the protection of personal data:
 
 > Section. 20. Security of Personal Information. (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.
 >

@@ -35,13 +35,13 @@ We understand that during the course of the investigation, deliberation and reso
 
 Insofar as the health care provider[^4] involved in a case decided by the CAAC and the Board is a (1) healthcare institution, (2) health maintenance organization (HMO), or (3) community-based health care organization (CBCHO), the corporate or business information pertaining to them, as entities, are not covered by the DPA since they are juridical persons. As such, processing of information pertaining to such juridical entities, including publication thereof, is not governed by the DPA.
 
-On the other hand, as to the health care providers who are individuals, i.e. a health care professional, who is any doctor of medicine, nurse, midwife, dentist, pharmacist or other health care professional or practitioner duly licensed to practice in the Philippines and accredited by PhilHealth,[^5] the processing of their information, which includes publication, of any proceeding for any offense committed or alleged to have been committed by such person and the disposal of such proceedings, is prohibited except in cases enumerated in Section 13 of the DPA.
+On the other hand, as to the health care providers who are individuals, i.e. a health care professional, who is any doctor of medicine, nurse, midwife, dentist, pharmacist or other health care professional or practitioner duly licensed to practice in the Philippines and accredited by PhilHealth,[^5] the processing of their information, which includes publication, of any proceeding for any offense committed or alleged to have been committed by such person and the disposal of such proceedings, is prohibited except in cases enumerated in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 Specifically, Section 13(b) of the DPA allows the processing of sensitive personal information when the same is provided for by existing laws and regulations and the statute does not require the consent of the data subject in processing the personal data. However, the regulatory enactment must guarantee the protection of the sensitive personal information being processed.
 
 Also, as to the processing of personal data pertaining to patients involved in the resolution of cases, Section 13(b) of the DPA may likewise be applicable.
 
-We recognize that the quasi-judicial provisions of the Implementing Rules and Regulations of RA No. 10606 requires the posting of decisions in the PhilHealth Corporate Website, to wit:
+We recognize that the quasi-judicial provisions of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of RA No. 10606 requires the posting of decisions in the PhilHealth Corporate Website, to wit:
 
 > Section 141. Posting of Decisions in the PhilHealth Corporate Website.
 >

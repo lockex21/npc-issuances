@@ -130,7 +130,7 @@ processing could not reasonably be fulfilled by other means.[^6]
 We thus advise that any disclosure or publication of personal data should only contain relevant
 information necessary to achieve the purpose of ensuring transparency and accountability. Keep
 in mind that any processing of sensitive personal information is prohibited unless allowed under
-the instances enumerated in Section 13 of the DPA.
+the instances enumerated in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 #### Lawful Basis for Processing; Consent; Privacy Notice
 
@@ -188,4 +188,4 @@ OIC – Director IV, Privacy Policy Office
 [^4]: Department of Social Welfare and Development, Guidelines on the Accreditation of Civil Society Organizations (CSOs) To Implement DSWD Programs Using DSWD Funds, DSWD Memorandum Circular No.13, Series of 2019 [DSWD MC 13, s.2019] (July 26, 2019).
 [^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
 [^6]: Ibid.
-[^7]: See: National Privacy Commission, Data Subject Rights [NPC Advisory No. 2021 – 01], § 6 (c) (Jan. 29, 2021).
+[^7]: See: National Privacy Commission, Data Subject Rights [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]], § 6 (c) (Jan. 29, 2021).

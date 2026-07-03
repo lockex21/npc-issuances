@@ -41,7 +41,7 @@ You seek clarification if your office may provide such documents of the business
 
 ## Discussion
 
-### Scope of the Data Privacy Act of 2012; processing of personal information
+### Scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]; processing of personal information
 
 The Data Privacy Act of 2012[^2] (DPA) applies to the processing of all types of personal information by any natural and/or juridical person involved in personal information processing.[^3] The law defines personal information as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^4]
 
@@ -61,7 +61,7 @@ Nonetheless, as there may be personal and/or sensitive personal information (col
 
 Hence, the BPLO may rely on the above lawful bases for processing, considering that the AMLC is vested with investigative functions under RA No. 9160.
 
-We wish to emphasize that the DPA should not be an obstacle to the collection and processing of personal data by the various government agencies as long as the same is necessary for the fulfillment of their respective mandates. The law promotes fair, secure, and lawful processing of such information.[^9] This is with the concomitant responsibility of complying with the requirements of the DPA, its Implementing Rules and Regulations, and other issuances of the National Privacy Commission.[^10]
+We wish to emphasize that the DPA should not be an obstacle to the collection and processing of personal data by the various government agencies as long as the same is necessary for the fulfillment of their respective mandates. The law promotes fair, secure, and lawful processing of such information.[^9] This is with the concomitant responsibility of complying with the requirements of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and other issuances of the National Privacy Commission.[^10]
 
 This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts.
 
@@ -84,5 +84,5 @@ Privacy Commissioner and Chairman
 [^6]: Id. § 12 (e).
 [^7]: Id. § 13 (b).
 [^8]: Id. § 13 (f).
-[^9]: See: National Privacy Commission, NPC Advisory Opinion No. 2018-083 (Nov. 26, 2018).
+[^9]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Nov. 26, 2018).
 [^10]: Id.

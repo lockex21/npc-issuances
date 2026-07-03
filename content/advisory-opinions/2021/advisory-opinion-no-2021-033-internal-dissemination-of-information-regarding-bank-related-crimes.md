@@ -58,7 +58,7 @@ such proceedings, and the decision rendered on the same may be considered as sen
 personal information under the DPA.
 
 Recall that the processing of sensitive personal information, as a general rule, is prohibited,
-unless the processing falls under any of the instances under Section 13 of the DPA. In this
+unless the processing falls under any of the instances under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]. In this
 instance, there seems to be no applicable lawful criteria for such processing. Further, this
 disclosure of personal data, even if just within the internal systems of the bank where access
 is limited to the employees and other internal stakeholders, and even with the caveat on

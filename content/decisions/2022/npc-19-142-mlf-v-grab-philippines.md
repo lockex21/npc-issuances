@@ -54,7 +54,7 @@ On 6 February 2019, he booked a car ride from UP Town Center 2 and was assigned 
 
 MLF alleged that, after approximately three to ten (3-10) minutes from booking the ride,[^5] ADB told him that "it's traffic and asked [him] to cancel the trip."[^6] He further claimed in his Complaints-Assisted Form that "[t]his is not allowed. In fact[,] Grab Philippines penalizes riders who cancels [sic] trips. So[,] I responded to the driver that I will not cancel the trip but he can if he wants. After which the driver cursed me with the words 'tang inamo'. Then cancelled the trip."[^7]
 
-MLF escalated the matter to Grab Philippines as a privacy violation under Section 28 of the DPA.[^8] In turn, the Data Protection Officer (DPO) replied that "[r]egarding your concern with misuse of personal data, we would like to let you know that the conversation stayed within the app thus it does not breach you [sic] privacy."[^9] As for Customer Support, it relayed that the driver had sent a handwritten apology letter explaining that the text message was not intended for MLF.[^10] MLF opined, however, that Grab Philippines' responses are mere excuses and that it is not properly using his personal data.[^11]
+MLF escalated the matter to Grab Philippines as a privacy violation under [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 of the DPA]].[^8] In turn, the Data Protection Officer (DPO) replied that "[r]egarding your concern with misuse of personal data, we would like to let you know that the conversation stayed within the app thus it does not breach you [sic] privacy."[^9] As for Customer Support, it relayed that the driver had sent a handwritten apology letter explaining that the text message was not intended for MLF.[^10] MLF opined, however, that Grab Philippines' responses are mere excuses and that it is not properly using his personal data.[^11]
 
 On 06 June 2019, the Commission ordered the parties to confer for a discovery conference.[^12] Only MLF appeared.[^13] The Commission, therefore, issued an Order requiring Grab Philippines to file its responsive comment within ten (10) days from receipt of the Order[^14] and an Order requiring MLF to file his reply to the responsive comment within ten (10) days from receipt of the responsive comment.[^15]
 
@@ -106,9 +106,9 @@ II. Whether Grab Philippines violated Section 28 or Processing of Personal or Se
 
 ### Discussion
 
-#### I. The case should be dismissed outright pursuant to Section 12 (b), Rule III, of NPC Circular No. 16-04 (2016 NPC Rules of Procedure).
+#### I. The case should be dismissed outright pursuant to Section 12 (b), Rule III, of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] (2016 NPC Rules of Procedure).
 
-Given that MLF filed his complaint on 02 March 2019, prior to the effectivity of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure), the applicable rule is the 2016 NPC Rules of Procedure, which provides that:
+Given that MLF filed his complaint on 02 March 2019, prior to the effectivity of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure), the applicable rule is the 2016 NPC Rules of Procedure, which provides that:
 
 > Rule III. Procedure in Complaints
 >
@@ -202,7 +202,7 @@ MLF roots his complaint in Section 28 of the DPA.[^74] Section 28 or the Process
 
 The first three (3) requisites are present in this case.
 
-Section 3 of the DPA defines personal information and processing as follows:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] defines personal information and processing as follows:
 
 > Section 3. Definition of Terms. – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >

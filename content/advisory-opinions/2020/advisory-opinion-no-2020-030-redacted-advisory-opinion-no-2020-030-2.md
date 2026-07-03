@@ -85,7 +85,7 @@ disclosure, or processing, given that Section 4.4 of DILG MC No. 2020-063 is cle
 that the identity and other personal details of the deceased shall be respected at all times and
 remain confidential, unless otherwise provided by law.
 
-We likewise emphasize Section 22 of the DPA which requires that all sensitive personal
+We likewise emphasize [[laws/data-privacy-act-of-2012#section-22-responsibility-of-heads-of-agencies|Section 22 of the DPA]] which requires that all sensitive personal
 information maintained by the government, its agencies and instrumentalities shall be
 secured, as far as practicable, with the use of the most appropriate standard recognized by the
 information and communications technology industry, and as recommended by the

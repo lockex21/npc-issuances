@@ -18,7 +18,7 @@ draft: false
 
 **22 November 2018**
 
-Re: TREATMENT OF INSURANCE AGENTS UNDER THE DPA
+Re: TREATMENT OF INSURANCE AGENTS UNDER THE [[laws/data-privacy-act-of-2012|DPA]]
 
 Dear [Redacted],
 

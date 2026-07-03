@@ -58,7 +58,7 @@ On 17 July 2019, Complainant filed her Complaint-Affidavit, alleging that respon
 
 Complainant's sister purchased online an iPad Pro from a certain seller named LQG (Seller) via an online platform CP. One of the mode of payments in said transaction was through respondent IPP., where payments can be made through its app or its designated physical payment centers. Hence, upon the request of her sister, Complainant paid the remaining balance of the purchase price, in the amount of Twenty Thousand pesos (P20,000.00) to the Seller through the medium provided by Respondent. Complainant then proceeded to the meet up place where the Seller promised to hand over the purchased product. However, after waiting for more than three (3) hours, the Seller was nowhere to be found. Complainant immediately called Respondent to have the Seller's account blocked and to get more information on the identity of the same for future legal actions. In the said phone call, Respondent told complainant that before they can disclose any information on the recipient of the payment, complainant must first secure a police blotter and a court order. On the same day, Complainant went to the MOA Police Community Precinct to file a police blotter of the incident. Thereafter, Complainant received a text message[^1] from the seller's alleged mobile number saying that she used the money for her comatose son and that she will pay back Complainant when she receives the money from PCSO.
 
-On 27 March 2019, Complainant sent Respondent an email informing them of the alleged incident and consequently requesting for the information of the account holder involved in the incident. Complainant invoked Section 16 (c) of the DPA[^2] alleging that Respondent have violated the same for not providing them of the requested personal information of the seller/account holder who allegedly defrauded them thus prompting her to file the instant complaint.
+On 27 March 2019, Complainant sent Respondent an email informing them of the alleged incident and consequently requesting for the information of the account holder involved in the incident. Complainant invoked [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (c) of the DPA]][^2] alleging that Respondent have violated the same for not providing them of the requested personal information of the seller/account holder who allegedly defrauded them thus prompting her to file the instant complaint.
 
 On 12 September 2019, the parties were called for discovery conference. Both parties appeared, Atty. VTM, Mr. RCJ and Ms. UTM represented Respondent. During the scheduled discovery conference, Complainant asked from Respondent the information of the person she had the transaction with using Respondent's facility as alleged in the Complaint. However, since said information is involved in the issue of the case, Respondent was not required by the investigating officer to divulge the same. Respondent and Complainant were then ordered to submit their Responsive Comment within ten (10) days from the date of the discovery conference and Reply, respectively.
 
@@ -105,7 +105,7 @@ The Respondent herein should not have denied outright the request of the Complai
 
 Further, Respondent's assertion that the information within its custody can only be disclosed upon data subject's consent or on the basis of a lawful order is misplaced.
 
-Section 12 of the DPA provides for the following criteria for lawful processing:
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] provides for the following criteria for lawful processing:
 
 > SEC. 12. *Criteria for Lawful Processing of Personal Information.* The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -115,7 +115,7 @@ Section 12 of the DPA provides for the following criteria for lawful processing:
 
 In order for Complainant to secure a court order, there must necessarily first be a court proceeding. However, before there can be any court proceeding or in order for Complainant to initiate a criminal case against the Seller, the Complainant needs the information as to whom her personal data was disclosed in order to know against whom she should file a criminal case against.
 
-Section 13 of the DPA expressly prohibits the processing of sensitive personal information, except in the following cases:
+[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] expressly prohibits the processing of sensitive personal information, except in the following cases:
 
 > "xxx f. The processing concerns such personal information as is **necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims**, or when provided to government or public authority (Emphasis supplied)."
 
@@ -125,7 +125,7 @@ This Commission in the same case went on further and held that:
 
 > The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is "necessary" or may or may not be collected by lawyers for purposes of building a case, applying the qualifier "necessary" to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of "establishment of legal claims" consistent with the general principles of legitimate purpose and proportionality.
 >
-> As regards legitimate purpose, the Implementing Rules and Regulations (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.
+> As regards legitimate purpose, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.
 
 Based on the foregoing, the disclosure to be made by the Respondent of the information of the recipient of Complainant's personal information, for purposes of identification of the person liable for the alleged fraud, *sans* the latter's consent, is necessary for the protection of the lawful rights and interests of the Complainant as contemplated by Section 13 (f) of the DPA.
 

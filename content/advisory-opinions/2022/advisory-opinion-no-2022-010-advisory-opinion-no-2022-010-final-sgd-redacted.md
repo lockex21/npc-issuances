@@ -29,7 +29,7 @@ We understand that, Union Bank of the Philippines (the "Buyer") and Citibank, N.
 
 We understand further, that the processing, profiling, and sharing of data and information of the Seller’s deposit customers are governed by the terms and conditions set out in its "CONSENT ON PROCESSING, PROFILING AND SHARING OF DATA AND INFORMATION" (the 2017 Data Privacy Terms) the pertinent portions of which, states:
 
-PAR. (1): We agree that our application, enrollment, purchase, maintenance, access or continued use of any of [the Seller’s] products and services shall be deemed as our acceptance and agreement to be bound by the provisions of these terms. We hereby agree that all Personal Data (as defined under the Data Privacy Law of 2012 and its implementing rules and regulations), customer data and account or transaction information or records (collectively, the "Information") relating to us with you from time to time may be processed, profiled or shared to, by and between [the Seller] and any of its affiliates and subsidiaries (collectively, [the "Seller"] or each of the
+PAR. (1): We agree that our application, enrollment, purchase, maintenance, access or continued use of any of [the Seller’s] products and services shall be deemed as our acceptance and agreement to be bound by the provisions of these terms. We hereby agree that all Personal Data (as defined under the Data Privacy Law of 2012 and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|implementing rules and regulations]]), customer data and account or transaction information or records (collectively, the "Information") relating to us with you from time to time may be processed, profiled or shared to, by and between [the Seller] and any of its affiliates and subsidiaries (collectively, [the "Seller"] or each of the
            Philippines) and for the purposes as set out in [the Seller’s] Data Statement in force
            provided by you to us from time to time or for compliance with any law, regulation,
            government requirement, treaty, agreement or policy or as required by or for the
@@ -249,7 +249,7 @@ prohibited, except in the following cases: xxx xxx xxx
 
 From the foregoing, it is worthy to note that lawful processing is not always anchored or based on the presence of consent as there are other criteria which may be more appropriate and may be invoked by the personal information controller as contemplated above.
 
-Under Section 3(b) of the DPA, consent is defined as any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so. From the definition provided above, it is clear that consent must be evidenced by written, electronic, or recorded means.[^2]
+Under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the DPA]], consent is defined as any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so. From the definition provided above, it is clear that consent must be evidenced by written, electronic, or recorded means.[^2]
 
 The NPC would like to reiterate that implied or inferred consent is not recognized in this jurisdiction. The entity, as personal information controller or personal information processor must never assume the data subject’s consent for any activity involving his or her personal information, most especially, sensitive personal information, unless circumstances permit the processing of personal or sensitive personal information without consent, pursuant to the DPA and the IRR.
 
@@ -286,7 +286,7 @@ Data Privacy Terms of the Seller remains to be valid.
 Additionally, the processing of the personal information of the 11,483 Non-Responsive
 Depositors may also be based on the existing contract that the Seller has with its
 depositors. We clarify that, while there is a lawful criteria for processing based on contract
-in section 12 of the DPA, this does not appear in section 13. Considering, however, that
+in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|section 12 of the DPA]], this does not appear in section 13. Considering, however, that
 consent is an essential element of contracts, in the past, the Commission has applied the
 lawful criteria of consent under Section 13 to also include contracts as long as the contract
 referred still complies with the requirements for consent under the DPA.

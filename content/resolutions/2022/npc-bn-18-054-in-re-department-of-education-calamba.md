@@ -178,7 +178,7 @@ Aside from notifying the affected data subjects through such letter, DepEd Calam
 
 #### *II. DepEd Calamba implemented sufficient security measures to address the breach and prevent its recurrence.*
 
-Relative to a PIC's duty to implement measures to protect personal information, Section 20 (a) of the Data Privacy Act of 2012 (DPA) provides:[^41]
+Relative to a PIC's duty to implement measures to protect personal information, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) of the Data Privacy Act of 2012]] (DPA) provides:[^41]
 
 > **Sec. 20. Security of Personal Information.**
 >

@@ -93,7 +93,7 @@ Rule V, Section 11 of NPC Circular No. 16-03 provides:
 
 In its initial breach report, CCFPI stated that a nurse from ActiveOne accidentally sent the MS Excel file of the summary of APE results of 39 employees to 25 employees of CCFPI[^19] which contained the employee numbers, names of the data subjects, personnel areas, company positions, gender, birthdate, age, results of laboratory tests (i.e. chest x-ray, fecalysis, complete blood count, urinalysis, dental examination, and blood chemistry), medical check-up remarks and recommendations, and prescribed medications.[^20]
 
-As defined under the Data Privacy Act of 2012 (DPA), sensitive personal information refers to personal information:
+As defined under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), sensitive personal information refers to personal information:
 
 (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations;
 
@@ -145,7 +145,7 @@ Such action taken to notify the affected data subjects is deemed by the Commissi
 
 It is in these types of cases where sensitive personal information and other information that, under the circumstances, may enable identity fraud are involved, the Commission repeatedly reminds the personal information controllers (PICs) and processors (PIPs) of their obligation under the DPA to promptly notify the affected data subjects of a personal data breach[^51] in order for them to take necessary actions "to protect themselves against the possible effects of the breach."[^52]
 
-Following the principle of proportionality under the DPA and its Implementing Rules and Regulations, the "processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose."[^53]
+Following the principle of proportionality under the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], the "processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose."[^53]
 
 Necessarily, to avoid further recurrence of this incident as well as to comply with the proportionality principle, CCBPI's access to its employees' periodic medical assessment should be limited to the physician's evaluation of whether an employee is "fit to work" instead of providing the specific laboratory results of the APE. Such evaluation may be seen in a medical certificate issued to the employees upon their request, as to ensure the confidentiality of the medical records of CCBPI's employees.
 

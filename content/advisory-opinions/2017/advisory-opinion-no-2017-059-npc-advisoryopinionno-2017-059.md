@@ -28,7 +28,7 @@ This pertains to your query received by the National Privacy Commission (NPC) on
 
 #### Consent
 
-Under Section 3(b) of the Data Privacy Act of 2012 (DPA), and Section 3(d) of its Implementing Rules and Regulations (IRR), consent is defined as follows:
+Under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the Data Privacy Act of 2012]] (DPA), and Section 3(d) of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), consent is defined as follows:
 
 > Consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so.[^1]
 

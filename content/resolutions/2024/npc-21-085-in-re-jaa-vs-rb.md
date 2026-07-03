@@ -57,9 +57,9 @@ On 08 February 2024, the Commission issued a Decision with the following disposi
 
 1. HOLDS Respondent RB liable for Unauthorized Disclosure, violating Section 32 of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA);
 
-2. AWARDS the Complainant JAA with nominal damages in the amount of ₱20,000.00 for Respondent's unauthorized disclosure of his personal information and sensitive personal information, pursuant to Section 16 (f) of the DPA; and
+2. AWARDS the Complainant JAA with nominal damages in the amount of ₱20,000.00 for Respondent's unauthorized disclosure of his personal information and sensitive personal information, pursuant to [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (f) of the DPA]]; and
 
-3. FORWARDS this Decision and a copy of the pertinent case records to the Secretary of Justice, recommending the prosecution of RB for Unauthorized Disclosure under Section 32 of the DPA.
+3. FORWARDS this Decision and a copy of the pertinent case records to the Secretary of Justice, recommending the prosecution of RB for Unauthorized Disclosure under [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 of the DPA]].
 
 **SO ORDERED**.[^1]
 
@@ -201,7 +201,7 @@ As it is clearly established that Respondent's payment was made within the regle
 
 Respondent insists that the disclosure of Complainant's personal and sensitive personal information is lawful and justified under Sections 12 and 13 of the DPA.[^50] As Barangay Captain, Respondent supports his argument by reiterating his involvement in the implementation of rules and regulations of the COVID-19 guidelines, such as contact tracing, which mandates him to identify the names of the patients inflicted with the virus.[^51]
 
-This contention does not hold water. Section 13 (b) of the DPA provides for one of the lawful criteria for processing sensitive personal information, to wit:
+This contention does not hold water. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b) of the DPA]] provides for one of the lawful criteria for processing sensitive personal information, to wit:
 
 > **SEC. 13. Sensitive Personal Information and Privileged Information.** – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
@@ -255,11 +255,11 @@ The Commission stresses that the right to privacy of health information shall be
 
 #### The New Civil Code applies suppletorily to the NPC's power to award indemnity on matters affecting personal data.
 
-The DPA provides that every data subject has the right to be indemnified for "any damages sustained due to such inaccurate, incomplete, outdated, false, unlawfully obtained or unauthorized use of personal information."[^67] Indeed, it is part of the Commission's mandate to award indemnity on matters affecting personal data as provided in Section 7 (b) of the DPA.[^68]
+The DPA provides that every data subject has the right to be indemnified for "any damages sustained due to such inaccurate, incomplete, outdated, false, unlawfully obtained or unauthorized use of personal information."[^67] Indeed, it is part of the Commission's mandate to award indemnity on matters affecting personal data as provided in [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 (b) of the DPA]].[^68]
 
 However, Respondent posits that the NPC is not authorized to determine the existence of damages under the Civil Code, nor should it be applied suppletorily in the determination of awarding indemnities.[^69]
 
-Respondent is wrong. Section 37 of the DPA is clear that restitution for any aggrieved party shall be governed by the provisions of the New Civil Code.[^70] The relevant article reads:
+Respondent is wrong. [[laws/data-privacy-act-of-2012#section-37-restitution|Section 37 of the DPA]] is clear that restitution for any aggrieved party shall be governed by the provisions of the New Civil Code.[^70] The relevant article reads:
 
 > **Art. 2221. Nominal damages** are adjudicated in order that a right of the plaintiff, which has been violated or invaded by the defendant, may be vindicated or recognized, and not for the purpose of indemnifying the plaintiff for any loss suffered by him.[^71]
 
@@ -363,7 +363,7 @@ National Privacy Commission
 [^55]: Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19 July 2024 of JAA, at p. 15.
 [^56]: Motion for Reconsideration dated 09 July 2024 of RB, at p. 7.
 [^57]: Id.
-[^58]: Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion No. 2020-022, (08 June 2020, at p. 3.
+[^58]: Public Disclosure of Identities of COVID Patients for Contact Tracing, [[advisory-opinions/2020/advisory-opinion-no-2020-022-public-disclosure-of-identities-of-covid-patients-for-contact-tracing|NPC Advisory Opinion No. 2020-022]], (08 June 2020, at p. 3.
 [^59]: JA vs. RB, NPC 21-085, Decision dated 08 February 2024, at pp. 20-21.
 [^60]: Department of Health, Updated Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease Cases, Department Memorandum 2020-0189 (2020).
 [^61]: Department of Health and National Privacy Commission, Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002, VI (F) (2020).
@@ -377,4 +377,4 @@ National Privacy Commission
 [^69]: Motion for Reconsideration dated 09 July 2024 of RB, at p. 8.
 [^70]: Data Privacy Act of 2012, chapter VIII, § 37.
 [^71]: An Act to Ordain and Institute the Civil Code of the Philippines [Civil Code of the Philippines], Republic Act No. 386, book IV, chapter 3, § 3, Art. 2221 (1949).
-[^72]: NFM vs. Bank of the Philippine Islands Family – Credit Card Division, NPC 19-1273, Decision dated 19 January 2023, at p. 13.
+[^72]: NFM vs. Bank of the Philippine Islands Family – Credit Card Division, [[decisions/2023/npc-19-1273-nfm-v-bpi|NPC 19-1273]], Decision dated 19 January 2023, at p. 13.

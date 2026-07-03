@@ -41,7 +41,7 @@ The personal information gathered includes personal identification information s
 
 The SSS number, as well as the UMID ID number and the TIN of the Borrower are considered as sensitive personal information (SPI) as these are government-issued identification numbers peculiar to an individual.[^3] Due to their nature as SPI, stricter security measures must be implemented by the personal information controller (PIC) in order to ensure the protection of such information.
 
-To clarify, the PIC is New Cross and not Uploan. Based on the description that you have provided, Uploan is an online platform owned and operated by New Cross. The latter is the entity which controls the collection, holding, processing or use of personal information[^4] and as such, is subject to the provisions of the DPA, its IRR and issuances of the NPC.
+To clarify, the PIC is New Cross and not Uploan. Based on the description that you have provided, Uploan is an online platform owned and operated by New Cross. The latter is the entity which controls the collection, holding, processing or use of personal information[^4] and as such, is subject to the provisions of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and issuances of the NPC.
 
 As to the collection and processing of personal and sensitive personal information (collectively, personal data), these are permitted under the DPA under the various criteria for lawful processing pursuant to Section 12 for personal information, and Section 13 for sensitive personal information.
 
@@ -83,7 +83,7 @@ We see no justifiable reason for this waiver of rights. An accredited employer m
 
 For instance, a Borrower would still have the right to object where his personal data is being used for an unauthorized purpose, or the right to request for correction when he notes an error in his data. This is notwithstanding that he approved of the information sharing between his employer and New Cross.
 
-We wish to reiterate Section 38 of the DPA, which reads:
+We wish to reiterate [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38 of the DPA]], which reads:
 
 > "Interpretation. – Any doubt in the interpretation of any provision of this Act shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed."
 

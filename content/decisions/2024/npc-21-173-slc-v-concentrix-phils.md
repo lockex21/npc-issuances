@@ -50,7 +50,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission is a Complaint filed by SLC against Concentrix Phils. (Concentrix) for alleged violation of Section 27 (Improper Disposal of Personal Information and Sensitive Personal Information) of the Data Privacy Act of 2012 or Republic Act No. 10173 (DPA).
+Before this Commission is a Complaint filed by SLC against Concentrix Phils. (Concentrix) for alleged violation of [[laws/data-privacy-act-of-2012#section-27-improper-disposal-of-personal-information-and-sensitive-personal-information|Section 27 (Improper Disposal of Personal Information and Sensitive Personal Information) of the Data Privacy Act of 2012]] or Republic Act No. 10173 (DPA).
 
 ### Facts
 
@@ -234,7 +234,7 @@ Based on SLC’s assertions and submitted evidence, it cannot be said that Conce
 
 Given the foregoing, the Commission cannot find Concentrix liable for violating Section 27 of the DPA (Improper Disposal).
 
-#### II. Concentrix is liable for nominal damages for its failure to fulfill its obligations as a PIC under Section 20 of the DPA.
+#### II. Concentrix is liable for nominal damages for its failure to fulfill its obligations as a PIC under [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 of the DPA]].
 
 While SLC failed to establish by substantial evidence that Concentrix violated Section 27 (Improper Disposal), Concentrix also failed to comply with its obligation as a PIC under Section 20 of the DPA.
 
@@ -505,7 +505,7 @@ GENERAL RECORDS UNIT
 [^129]: Id. Emphasis supplied.
 [^130]: Complaints-Assisted Form, 16 August 2021, at 15, in SLC v. Concentrix Philippines, NPC 21-173 (NPC 2021).
 [^131]: St. Martin Polyclinic, Inc. v. LWV Construction Corporation, G.R. No. 217426 (2017).
-[^132]: NMF v. Bank of the Philippine Islands Family – Credit Card Division, NPC 19-1273, 19 January 2023, at 12, available at https://privacy.gov.ph/wp-content/uploads/2023/09/NPC-19-1273-NFM-v.-BPI-Decision.pdf.
+[^132]: NMF v. Bank of the Philippine Islands Family – Credit Card Division, [[decisions/2023/npc-19-1273-nfm-v-bpi|NPC 19-1273]], 19 January 2023, at 12, available at https://privacy.gov.ph/wp-content/uploads/2023/09/NPC-19-1273-NFM-v.-BPI-Decision.pdf.
 [^133]: Data Privacy Act of 2012, §§ 20 (a), (c)(4).
 [^134]: Id. § 37.
 [^135]: An Act to Ordain and Institute the Civil Code of the Philippines [CIVIL CODE], Republic Act No. 386, art. 2221 (1950).

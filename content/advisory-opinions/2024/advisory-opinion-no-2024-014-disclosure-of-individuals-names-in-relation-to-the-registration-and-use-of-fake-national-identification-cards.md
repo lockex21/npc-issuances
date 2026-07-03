@@ -38,7 +38,7 @@ PSA is proposing to post the names of these applicants/registered persons on its
 registration centers to complete their registration for the issuance of their national IDs and for
 the undelivered national IDs to be claimed.
 
-Furthermore, the PSA also inquired as to whether providing the relying parties with a list of individuals who were reported to have presented fake national IDs during transactions with various government agencies and/or financial institutions is in accordance with the provisions of Republic Act No. 10173, also known as the Data Privacy Act of 2012[^2] (DPA).
+Furthermore, the PSA also inquired as to whether providing the relying parties with a list of individuals who were reported to have presented fake national IDs during transactions with various government agencies and/or financial institutions is in accordance with the provisions of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the Data Privacy Act of 2012[^2] (DPA).
 
 We note that a relying party[^3] refers to a service provider who relies on any PhilSys-enabled service, such as authentication or any other process that identifies and verifies the identity of their customers. Thereafter, a registered relying party submits to the PSA the PhilSys Number (PSN)[^4] of an individual for authentication. In addition, the relying party is obliged to conform with the standards and guidelines set by the PSA, in consultation with DICT to ensure the security, efficiency, and integrity of the authentication process.[^5]
 
@@ -60,7 +60,7 @@ particularly iris scan and fingerprints. The purpose of which is to recapture th
 information. Otherwise, the PSA cannot generate a PSN for the said individuals with issues
 in their captured biometric information.
 
-Section 8(D) of the Implementing Rules and Regulations (IRR) of the PhilSys Act provides:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-8-mandate|Section 8(D) of the Implementing Rules and Regulations]] (IRR) of the PhilSys Act provides:
 
 > xxx
 > D. Registration Process

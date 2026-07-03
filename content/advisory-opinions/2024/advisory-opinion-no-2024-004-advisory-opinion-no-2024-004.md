@@ -72,16 +72,14 @@ If the Applicants wish to withdraw their consent, they can easily do so by press
 Once consent is withdrawn, Smile will delete the personal data from its system within ten (10)
 minutes.
 
-Thus, you inquire if Smile’s access and extraction of personal data to the Applicants’ corresponding user accounts, and the subsequent disclosure to its clients and third parties, are compliant with the DPA, its Implementing Rules and Regulations (IRR) and other issuances of the National Privacy Commission (NPC).
+Thus, you inquire if Smile’s access and extraction of personal data to the Applicants’ corresponding user accounts, and the subsequent disclosure to its clients and third parties, are compliant with the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and other issuances of the National Privacy Commission (NPC).
 
 ### Discussion
 
 #### Processing based on consent
 
 Since the dataset that Smile plans to process involves both personal information and sensitive
-personal information, the processing of the entire data should find lawful basis under Section
-
-13 of the DPA. Specifically, Section 13 (a) allows processing based on consent prior to the
+personal information, the processing of the entire data should find lawful basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]. Specifically, Section 13 (a) allows processing based on consent prior to the
 processing of personal data.
 
 Consent, as defined under the DPA, is any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal data about and/or relating to him or her.[^3] The DPA also requires that consent shall be evidenced by written, electronic or recorded means.[^4]
@@ -203,7 +201,7 @@ Director IV, Privacy Policy Office
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012]; Republic Act No. 10173, (2012).
 [^3]: Data Privacy Act of 2012, Section 3 (b).
 [^4]: Ibid.
-[^5]: National Privacy Commission, Guidelines on Deceptive Design Patterns, NPC Advisory No. 2023-01, Section 2 (A) (7 November 2023).
+[^5]: National Privacy Commission, Guidelines on Deceptive Design Patterns, [[issuances/2023/guidelines-on-deceptive-design-patterns|NPC Advisory No. 2023-01]], Section 2 (A) (7 November 2023).
 [^6]: Id. Section 3.
 [^7]: Id. Section 3 (h).
 [^8]: Id. Section 3 (i).

@@ -47,7 +47,7 @@ In this connection, we wish to emphasize that employers, as personal information
 
 5. Respect data subject rights, including the right to access, correction, and erasure, subject to applicable exceptions under the law.
 
-6. Where sensitive personal information is involved in the forensic audit, employers must ensure strict compliance with the requirements for processing such information under Section 13 of the DPA.
+6. Where sensitive personal information is involved in the forensic audit, employers must ensure strict compliance with the requirements for processing such information under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 We recommend that employers establish clear internal policies governing forensic audits and ensure that such policies are communicated to employees. The scope and conduct of the forensic audit should be reasonable and proportionate to its stated purpose. Any personal data collected during the audit should be handled in accordance with the principles of the DPA and should not be used for purposes other than those disclosed to the data subjects.
 

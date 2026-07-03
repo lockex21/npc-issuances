@@ -180,5 +180,5 @@ National Privacy Commission
 [^12]: Costa Crociere S.p.A Data Breach Notification dated 09 September 2021 at page 2.
 [^13]: Section 18(A) of the NPC Circular 16-03.
 [^14]: Section 18(D) of the NPC Circular No. 16-03
-[^15]: Section 4(c), Rule XI of the NPC Circular No. 2021-01
+[^15]: Section 4(c), Rule XI of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]]
 [^16]: Section 17(C) of the NPC Circular No. 16-03

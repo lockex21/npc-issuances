@@ -87,7 +87,7 @@ As previously ruled by the Commission in its Resolution dated 28 October 2021, t
 
 However, MediCard asks for additional period to comply with the Commission's orders indicated in its Resolution dated 28 October 2021 because of the logistical and communications challenges in coordinating with its third-party cybersecurity service provider due to the intervening holidays and the COVID-19 pandemic.[^11]
 
-The Commission emphasizes that in cases of data breach, especially cases that fall under the mandatory notification rule, personal information controllers (PICs) must ensure compliance with their obligations under the law including the prompt adherence with the periods provided in the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR), and other relevant issuances of the Commission such as NPC Circular No. 16-03.
+The Commission emphasizes that in cases of data breach, especially cases that fall under the mandatory notification rule, personal information controllers (PICs) must ensure compliance with their obligations under the law including the prompt adherence with the periods provided in the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and other relevant issuances of the Commission such as NPC Circular No. 16-03.
 
 However, in the interest of substantial justice and due process, the Commission exercises its authority to grant MediCard the additional non-extendible period of fifteen (15) days from receipt of this Resolution to comply with Commission's orders indicated in the Resolution dated 28 October 2021.
 

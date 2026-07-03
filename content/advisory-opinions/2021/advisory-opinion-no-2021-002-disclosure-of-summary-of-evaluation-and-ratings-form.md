@@ -12,7 +12,7 @@ draft: false
 - Reference: Advisory Opinion No. 2021-002
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2021-002.pdf
 - Issue date: 01/19/2021
-- Tags: Scope of the DPA; right to information; limitations; lawful processing of personal data; general data privacy principles
+- Tags: Scope of the [[laws/data-privacy-act-of-2012|DPA]]; right to information; limitations; lawful processing of personal data; general data privacy principles
 - OCR used during extraction: no
 
 ## Text

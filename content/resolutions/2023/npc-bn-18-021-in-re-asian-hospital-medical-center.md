@@ -114,7 +114,7 @@ Similarly, Section 17 (D) of NPC Circular 16-03 (Personal Data Breach Management
 >
 > e. the measures being taken to prevent a recurrence of the incident.[^30]
 
-As early as its Initial Report, AHMC narrated the measures it took to address the breach following Section 20 (a) of the DPA and Section 17 (D) (3) of NPC Circular 16-03.
+As early as its Initial Report, AHMC narrated the measures it took to address the breach following [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) of the DPA]] and Section 17 (D) (3) of NPC Circular 16-03.
 
 Upon receiving a report of a potential data breach, AHMC initiated its Data Privacy Breach Protocol.[^31] This included the extraction of the names of the personnel who accessed the patient’s chart on the HIS and the conduct of interviews and dialogues with the involved personnel.[^32]
 

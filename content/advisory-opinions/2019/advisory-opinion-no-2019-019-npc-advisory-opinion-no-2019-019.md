@@ -32,7 +32,7 @@ We understand that CMAP is a non-stock and non-profit organization, formed by a 
 
 ### Discussion
 
-#### Scope of the DPA
+#### Scope of the [[laws/data-privacy-act-of-2012|DPA]]
 
 The Data Privacy Act of 2012 (DPA)[^5] applies to the processing of all types of personal information[^6] and to any natural and juridical person involved in personal information processing.
 
@@ -68,7 +68,7 @@ However, upon checking CMAP's website, it states the following as its services,[
 
 6. Listing of Past Due Accounts from manufacturing companies.
 
-From the foregoing, it is clear that CMAP is a personal information controller[^9] (PIC) who is collecting, exchanging, using, storing or processing personal data of its members' clients, and thus, it is covered by the DPA, its Implementing Rules and Regulations (IRR) and other relevant issuances of the NPC.
+From the foregoing, it is clear that CMAP is a personal information controller[^9] (PIC) who is collecting, exchanging, using, storing or processing personal data of its members' clients, and thus, it is covered by the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and other relevant issuances of the NPC.
 
 #### Appointment of a Data Protection Officer (DPO)
 
@@ -113,4 +113,4 @@ Privacy Commissioner and Chairman
 [^8]: Credit Management Association of the Philippines, Services, available at http://www.cmaphil.com/portal/AboutCMAP/Services.aspx (last accessed 12 March 2019).
 [^9]: *Id.* § 3 (b).
 [^10]: Data Privacy Act of 2012, § 21 (b).
-[^11]: National Privacy Commission, NPC Advisory Opinion No. 2018-019 (18 April 2018).
+[^11]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-019-npc-advisory-opinion-no-2018-019|NPC Advisory Opinion No. 2018-019]] (18 April 2018).

@@ -72,7 +72,7 @@ On 17 June 2020, the Complainant submitted a Petition (for Issuance of Temporary
 
 > It would appear, however, that despite the pending case filed before this Honorable Office, respondent CBB continues to violate the law as the Closed Circuit Television (CCTV) remains to be deliberately fixed and installed and was pre-set to rotate from the [sic] herein petitioner's porch to her garage, doing 24-hour surveillance of her house, from wall-to-wall, deliberately and purposely intended to monitor all her activities and affairs within her private premises.[^13]
 
-The Complainant continues that Respondent should be temporarily restrained from using the CCTV against the Complainant's private premises since it is violative of Section 25 of the DPA on unauthorized processing of personal and sensitive personal information.[^14] She reiterated that the CCTV is a 360-degree PTZ camera directly overlooking their property, intended to do a 24-hour surveillance of the affairs, activities and other personal information of her and her family.[^15]
+The Complainant continues that Respondent should be temporarily restrained from using the CCTV against the Complainant's private premises since it is violative of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]] on unauthorized processing of personal and sensitive personal information.[^14] She reiterated that the CCTV is a 360-degree PTZ camera directly overlooking their property, intended to do a 24-hour surveillance of the affairs, activities and other personal information of her and her family.[^15]
 
 Complainant persists that she is entitled to the issuance of a preliminary injunctive relief because the Respondent is doing an act in violation of her and her family's rights, and that if the act of the Respondent would be allowed to continue, it would render any judgment of the Commission ineffectual.[^16]
 
@@ -126,9 +126,9 @@ Complainant also alleged that pictures taken on different times and date would s
 
 In addition, the Complainant alleged that for years, the Respondent has been harassing her and her family as proven by numerous witnesses and complaints filed before the proper bodies.[^71] To get back at the Complainant, the Respondent filed a case for abatement of nuisance pending before Branch 195, Regional Trial Court of Parañaque City.[^72]
 
-Complainant claims that prying into the privacy of another's residence is an actionable act citing Section 12 of the DPA.[^73] She stated that none of the conditions under the said section is present in the case since neither the Complainant nor her family has given consent and no other lawful criteria for processing was present.[^74]
+Complainant claims that prying into the privacy of another's residence is an actionable act citing [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]].[^73] She stated that none of the conditions under the said section is present in the case since neither the Complainant nor her family has given consent and no other lawful criteria for processing was present.[^74]
 
-Complainant also claimed that under NPC Advisory No. 2020-04, the scope of Respondent's CCTV is beyond her own private property and reiterated that it is deliberately fixed, installed and is pre-set to rotate from Complainant's private porch to her garage, doing a 24-hour surveillance of her house, from wall-to-wall.[^75] Respondent, as a PIC, before placing her CCTV and collecting Complainant's personal data, should have informed the latter that their personal property will be monitored and should have asked for their consent before proceeding with the collection of personal data.[^76]
+Complainant also claimed that under [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|NPC Advisory No. 2020-04]], the scope of Respondent's CCTV is beyond her own private property and reiterated that it is deliberately fixed, installed and is pre-set to rotate from Complainant's private porch to her garage, doing a 24-hour surveillance of her house, from wall-to-wall.[^75] Respondent, as a PIC, before placing her CCTV and collecting Complainant's personal data, should have informed the latter that their personal property will be monitored and should have asked for their consent before proceeding with the collection of personal data.[^76]
 
 The Complainant also claimed that the Respondent abused her right when she fixed the CCTV high-technology device in a manner that would monitor another person's life and residence to the detriment of her rights.[^77] She rehashed her entitlement to the right to privacy and prays that the Commission render a judgment in her favor as follows:
 
@@ -184,7 +184,7 @@ As laid down in the case of *AQM v. PIT, NPT, and CNB*, in determining whether U
 2. The information processed was personal information or sensitive personal information; and
 3. The processing was done without the consent of the data subject, or without being authorized under the DPA or any existing law.[^104]
 
-Anent the first element, Section 3 (j) of the DPA defines processing as "any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data."[^105] While Section 3 (c) of the DPA defines data subject as "an individual whose personal information is processed."[^106]
+Anent the first element, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (j) of the DPA]] defines processing as "any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data."[^105] While Section 3 (c) of the DPA defines data subject as "an individual whose personal information is processed."[^106]
 
 In this case, the Complainant presented photos that were taken during the daytime and nighttime, which show the Respondent's house from different angles with the CCTV camera as the subject.[^107] Further, the Commission notes that Respondent submitted a storage device directly connected to her CCTV Unit.[^108] The storage device contained CCTV footages recorded by Respondent's CCTV camera.[^109] The footage primarily covered household members and, incidentally, a small portion of the adjacent road, where some people and vehicles could be seen.[^110]
 
@@ -376,7 +376,7 @@ National Privacy Commission
 [^101]: Compliance (To Order dated 16 November 2021) dated 02 December 2021 of CBB.
 [^102]: Petition (for Issuance of Temporary Ban and/or Preliminary Injunction Order) dated 15 June 2020 of AMS, ¶ 7.
 [^103]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter viii, § 25 (2012).
-[^104]: AQM v. PIT, NPT, and CNB, NPC 22-112, Decision dated 18 April 2024, at p. 9.
+[^104]: AQM v. PIT, NPT, and CNB, [[decisions/2024/npc-22-112-aqm-vs-pit-et-al|NPC 22-112]], Decision dated 18 April 2024, at p. 9.
 [^105]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (j) (2012).
 [^106]: Id., chapter I, § 3 (c).
 [^107]: Petition (for Issuance of Temporary Ban and/or Preliminary Injunction Order) dated 15 June 2020 of AMS, Annex B.
@@ -385,7 +385,7 @@ National Privacy Commission
 [^110]: Compliance (To Order dated 16 November 2021) dated 02 December 2021 of CBB.
 [^111]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (g) (2012).
 [^112]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 12 (f).
-[^113]: MAF v. Shopee Philippines, NPC 21-167, Decision dated 22 September 2022.
+[^113]: MAF v. Shopee Philippines, [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]], Decision dated 22 September 2022.
 [^114]: Position Paper (Application for Temporary Ban on Processing of Personal Data) dated 08 October 2021 of CBB, ¶ 34.
 [^115]: National Privacy Commission, Guidelines on the Use of Closed-Circuit Television (CCTV) Systems, NPC Advisory No. 2020-04, § 4 (E), 16 November 2020.
 [^116]: Position Paper (Application for Temporary Ban on Processing of Personal Data) dated 08 October 2021 of CBB, at p. 12.

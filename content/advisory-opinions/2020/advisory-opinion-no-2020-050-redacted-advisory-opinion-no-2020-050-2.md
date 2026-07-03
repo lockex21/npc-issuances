@@ -45,11 +45,11 @@ You know inquire on whether there is basis for the digital payment platform comp
 other related entities, such as the telecommunications companies, to disclose personal
 information with credit card issuers to prevent financial fraud.
 
-NPC Advisory Opinion No. 2019-041
+[[advisory-opinions/2019/advisory-opinion-no-2019-041-npc-advisory-opinion-no-2019-041|NPC Advisory Opinion No. 2019-041]]
 
 We reiterate our position in NPC Advisory Opinion No. 2019-041 on the disclosure of personal information provided to online merchants, such as the name, address, delivery address, email address, and mobile or other contact number, to credit card issuers for purposes of fraud investigation.
 
-In particular, such disclosure finds legal basis under Section 12(f) of the DPA wherein processing is “necessary for the purposes of the legitimate interests pursued by the personal information controller (PIC) or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.”[^1]
+In particular, such disclosure finds legal basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]] wherein processing is “necessary for the purposes of the legitimate interests pursued by the personal information controller (PIC) or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.”[^1]
 
 In the determination of legitimate interest, the PIC must consider the following:[^2]
 

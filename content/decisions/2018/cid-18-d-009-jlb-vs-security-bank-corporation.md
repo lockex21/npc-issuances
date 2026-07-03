@@ -91,7 +91,7 @@ Whether the Respondent violated Sections 32 and 33 of the DPA.
 
 ### Discussion
 
-The Complaint lacks merit. The Commission finds that the Complainant herein failed to prove by substantial evidence violations of Section 32 and Section 33 of the DPA by the Respondent herein.
+The Complaint lacks merit. The Commission finds that the Complainant herein failed to prove by substantial evidence violations of Section 32 and [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|Section 33 of the DPA]] by the Respondent herein.
 
 As already established in past rulings, in administrative proceedings such as in this Commission, the burden is on the Complainant to prove by substantial evidence the allegations in his Complaint are true.[^7] “Substantial evidence is more than a mere scintilla of evidence. It means such relevant evidence as a reasonable mind might accept as adequate to support a conclusion, even if other minds equally reasonable might conceivably opine otherwise.”[^8]
 
@@ -123,7 +123,7 @@ On another matter, this Commission would like to respond to the Respondent’s a
 
 “There is also no unauthorized disclosure of Complainant JLB’s CA PIN. We invite the attention of the Honorable Commission that when a CA PIN requested by a certain client is delivered, **the same is contained in a properly sealed document which can only be opened by tearing the sides of perforated paper**…. Thus, even if the properly sealed document containing the CA PIN was handed to LA by the courier, delivery alone to the latter of the same is not equivalent to unauthorized disclosure of his CA PIN.”
 
-This Commission does not agree with Respondent’s assertion that properly sealing of the documents is all it takes to comply with the DPA in this case. Section 20 of the DPA provides:
+This Commission does not agree with Respondent’s assertion that properly sealing of the documents is all it takes to comply with the DPA in this case. [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 of the DPA]] provides:
 
 > **SEC. 20. Security of Personal Information.** – (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.
 

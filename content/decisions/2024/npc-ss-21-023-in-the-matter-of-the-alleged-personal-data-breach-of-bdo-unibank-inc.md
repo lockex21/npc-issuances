@@ -127,7 +127,7 @@ Also on 17 December 2021, CID issued an Order requiring BDO to furnish the Commi
 
 7. Information on the relevance and significance of the mentioned 10 year-old web service system in the previous submission to this incident.[^11]
 
-On 20 December 2021, the CID submitted a Supplemental Initial Report, recommending a *sua sponte* investigation under Rule X of the NPC Circular No. 2021-01 (2021 NPC Rules of Procedure) to further investigate the circumstances surrounding the possible personal data breach.[^12]
+On 20 December 2021, the CID submitted a Supplemental Initial Report, recommending a *sua sponte* investigation under Rule X of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure) to further investigate the circumstances surrounding the possible personal data breach.[^12]
 
 On 22 December 2021, the CID issued an Order to Appear for Clarificatory Conference to BDO[^13] and Unionbank,[^14] respectively, requiring them to appear before the Commission on 04 January 2022 via Microsoft (MS) Teams.[^15]
 
@@ -290,8 +290,8 @@ Nevertheless, although the CID investigated three parties, it ultimately asserte
 
 In light of the foregoing, it is recommended that the Commission:
 
-1. FINDS BDO liable for violation of Section 26 of the DPA for providing access to personal information and sensitive personal information due to negligence;
-2. FINDS BDO liable for violation of Section 30 of the DPA for concealment of security breaches involving sensitive personal information;
+1. FINDS BDO liable for violation of [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 of the DPA]] for providing access to personal information and sensitive personal information due to negligence;
+2. FINDS BDO liable for violation of [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Section 30 of the DPA]] for concealment of security breaches involving sensitive personal information;
 3. RECOMMEND to the Department of Justice for criminal prosecution for violation of Section 26 and Section 30 of the DPA against BDO's board of directors, including TTS, JAJ, GTB, CAB, JFB, JMC, VSP, DIR, NVT, JNT, and GCT; and
 4. FILE a petition for indirect contempt against BDO for its refusal to obey the Commission's orders.[^52]
 
@@ -311,7 +311,7 @@ Next, the CID also asserted that BDO is liable for Section 26 of the DPA (Access
 
 Thereafter, CID argued that BDO's Board of Directors are liable for the violations of the DPA, citing Sec. 34 of the same act, to wit:
 
-Section 34 of the DPA states that liability under the DPA when the offender is a corporation "shall be imposed upon the responsible officers, as the case may be, who participated in, or by their gross negligence, allowed the commission of the crime,"[^61]
+[[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the DPA]] states that liability under the DPA when the offender is a corporation "shall be imposed upon the responsible officers, as the case may be, who participated in, or by their gross negligence, allowed the commission of the crime,"[^61]
 
 Particularly, CID stated that the Board of Directors must have been aware of the security incident, to wit:
 
@@ -406,7 +406,7 @@ To be held liable under Section 26, the following elements must be met:
 3. The access was not authorized under the DPA or any existing law; and
 4. The unauthorized access was due to the negligence of any person.[^97]
 
-Section 3(g) of the DPA defines personal information as:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(g) of the DPA]] defines personal information as:
 
 Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^98]
 
@@ -463,7 +463,7 @@ The requisites of Concealment of Security Breaches Involving Sensitive Personal 
 2. The breach is one that requires notification to the Commission; and
 3. The person knowingly conceals the fact of such breach from the Commission.[^120]
 
-Section 30 of the DPA penalizes concealment or failure to notify the Commission of a security breach. Moreover, the Commission stresses that to be penalized under Section 30, the concealed security breach must be one that falls under the mandatory breach notification requirement under Section 20(f) of the DPA, which provides:
+Section 30 of the DPA penalizes concealment or failure to notify the Commission of a security breach. Moreover, the Commission stresses that to be penalized under Section 30, the concealed security breach must be one that falls under the mandatory breach notification requirement under [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(f) of the DPA]], which provides:
 
 Section 20. Security of Personal information
 
@@ -643,14 +643,14 @@ GENERAL RECORDS UNIT
 [^87]: BDO Unibank, Inc., Motion to Resolve Ad Cautelam dated 10 May 2024.
 [^88]: See Data Privacy Act of 2012, chapter II, section 7.
 [^89]: NPC Circular No. 2021-01, rule X, sections 5-6.
-[^90]: National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of 2012, rule III, section (e)(1) (2016) (IRR of the DPA).
-[^91]: In re: FCash Global Lending Inc., Operating FastCash Online Lending Application, NPC 19-909, Resolution dated 28 April 2022, at pp. 3-4.
+[^90]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, rule III, section (e)(1) (2016) (IRR of the DPA).
+[^91]: In re: FCash Global Lending Inc., Operating FastCash Online Lending Application, [[resolutions/2019/npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application|NPC 19-909]], Resolution dated 28 April 2022, at pp. 3-4.
 [^92]: NPC Circular No. 2021-01, rule X, sections 3-5. See In re: FCash Global Lending Inc., Operating FastCash Online Lending Application, NPC 19-909, Resolution dated 28 April 2022.
 [^93]: See Data Privacy Act of 2012, chapter II, section 7(b).
 [^94]: NPC Circular No. 2021-01, rule VIII, section 1.
 [^95]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21-023, Fact-Finding Report dated 12 July 2022.
 [^96]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, section 26 (2012).
-[^97]: NPC 22-006 (unreported), Decision dated 19 January 2023, at p. 15.
+[^97]: [[decisions/2022/npc-22-006-mdt-vs-bdo-unibank-inc|NPC 22-006]] (unreported), Decision dated 19 January 2023, at p. 15.
 [^98]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, section 3(g) (2012).
 [^99]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, section 3(l) (2012).
 [^100]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21-023, Fact-Finding Report dated 12 July 2022.

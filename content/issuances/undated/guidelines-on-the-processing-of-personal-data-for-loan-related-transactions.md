@@ -37,14 +37,14 @@ processed personal data of their clients without lawful basis under the law, and
 personal data about their clients and other individuals in their contact list causing damage to their
 reputation, in violation of their rights and freedoms as data subjects;
 
-WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]] otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
+WHEREAS, [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2 of the DPA]] otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 ([[laws/data-privacy-act-of-2012|DPA]]) provides that it is the policy of the State to protect the fundamental human right of privacy
 of communication while ensuring free flow of information to promote innovation and growth.
 The State recognizes the vital role of information and communications technology in nation-
 building and its inherent obligation to ensure that personal information in information and
 communications systems in the government and in the private sector are secured and protected;
 
-WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the NPC is charged with the administration and
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the NPC is charged with the administration and
 implementation of the provisions of the law, which includes ensuring compliance with the
 provisions of the [[laws/data-privacy-act-of-2012|DPA]] and with international standards for data protection, and carrying out
 efforts to formulate and implement plans and policies that strengthen the protection of personal
@@ -61,7 +61,7 @@ For purposes of this Circular, a lending company (LC) shall refer to a corporati
 
 Financing companies (FC) are corporations, except banks, investments houses, savings and loan associations, insurance companies, cooperatives, and other financial institutions organized or operating under other special laws, which are primarily organized for the purpose of extending credit facilities to consumers and to industrial, commercial, or agricultural enterprises, by direct lending or by discounting or factoring commercial papers or accounts receivable, or by buying and selling contracts, leases, chattel mortgages, or other evidences of indebtedness, or by financial leasing of movable as well as immovable property.[^3]
 
-While some entities are excluded from the definition above of lending and financing companies, these entities remain to be within the jurisdiction of the NPC with respect to all other obligations under the [[laws/data-privacy-act-of-2012|DPA]], its Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and applicable issuances of the NPC.
+While some entities are excluded from the definition above of lending and financing companies, these entities remain to be within the jurisdiction of the NPC with respect to all other obligations under the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and applicable issuances of the NPC.
 
 **SECTION 2.** ***Obligations of personal information controllers.*** All entities engaged in the processing of personal data for purposes of granting loan facilities are personal information controllers (PICs). As PICs, they shall process personal and sensitive personal information (collectively, personal data) of borrowers in accordance with any of the criteria for lawful processing provided for under Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|DPA]]. They shall implement reasonable and appropriate organizational, physical, and technical security measures for the protection of personal data and uphold the rights of data subjects.
 

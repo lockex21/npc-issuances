@@ -29,7 +29,7 @@ We understand that it has been a common practice among universities such as the 
 
 ### Discussion
 
-The aforesaid publication of the names of admitted applicants is permitted even without the consent of the students, pursuant to Section 12(f) of the DPA, to wit:
+The aforesaid publication of the names of admitted applicants is permitted even without the consent of the students, pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]], to wit:
 
 > SECTION 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >

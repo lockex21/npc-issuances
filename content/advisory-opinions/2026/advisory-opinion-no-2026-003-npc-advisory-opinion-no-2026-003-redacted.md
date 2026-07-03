@@ -1,5 +1,5 @@
 ---
-title: "Advisory Opinion No. 2026-003 — DISCLOSURE OF LANDOWNER NAMES IN PROPERTY IDENTIFICATION MAPS"
+title: "NPC Advisory Opinion No. 2026-003 — Disclosure of Landowner Names in Property Identification Maps"
 description: "This pertains to your request for an advisory opinion on whether vicinity maps, digital tax maps, or property identification maps that include the names of landowners may be disclosed by a municipal assessor or other government agency or instrumentality..."
 tags:
   - "issuance"
@@ -13,7 +13,6 @@ draft: false
 - Reference: Advisory Opinion No. 2026-003
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2026/06/NPC_Advisory-Opinion-No.-2026_003_redacted.pdf
 - Issue date: 06/09/2026
-- Subject: DISCLOSURE OF LANDOWNER NAMES IN PROPERTY IDENTIFICATION MAPS
 - Tags: lawful processing; disclosure; legal obligation; government records; local government unit; landowner names; property identification maps;
 - OCR used during extraction: no
 
@@ -37,11 +36,11 @@ In your letter-request, you stated that [Redacted] is a duly licensed renewable 
 
 At the outset, the names of landowners appearing on property identification maps are generally personal information within the meaning of the DPA, which defines personal information as any information, whether recorded in material form or not, from which the identity of an individual is apparent or can reasonably and directly be ascertained.[^2] The DPA likewise defines processing broadly to include any operation performed upon personal data, including disclosure,[^3] such that the release of a property identification map bearing the name of a landowner by an assessor’s office would constitute processing subject to the DPA.
 
-That said, the DPA does not operate as a blanket prohibition against the disclosure of all personal information held by government. Section 11 of the DPA expressly provides that the processing of personal information shall be allowed, subject to compliance with the requirements of the Act and other laws allowing disclosure of information to the public, and adherence to the principles of transparency, legitimate purpose, and proportionality.[^4] Thus, the mere fact that landowner names constitute personal information does not, by itself, end the inquiry. The proper question is whether the specific disclosure is supported by a lawful basis and carried out consistently with the DPA’s general principles.
+That said, the DPA does not operate as a blanket prohibition against the disclosure of all personal information held by government. [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] expressly provides that the processing of personal information shall be allowed, subject to compliance with the requirements of the Act and other laws allowing disclosure of information to the public, and adherence to the principles of transparency, legitimate purpose, and proportionality.[^4] Thus, the mere fact that landowner names constitute personal information does not, by itself, end the inquiry. The proper question is whether the specific disclosure is supported by a lawful basis and carried out consistently with the DPA’s general principles.
 
 #### Lawful basis for disclosure; Legal obligation
 
-Under Section 12(c) of the DPA, the processing of personal information is permitted when it is necessary for compliance with a legal obligation to which the personal information controller is subject.[^5] This lawful basis is most relevant to the facts presented, considering that [Redacted] represents that the requested landowner names are necessary for the performance of project-related legal, regulatory, and governmental approval requirements.
+Under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(c) of the DPA]], the processing of personal information is permitted when it is necessary for compliance with a legal obligation to which the personal information controller is subject.[^5] This lawful basis is most relevant to the facts presented, considering that [Redacted] represents that the requested landowner names are necessary for the performance of project-related legal, regulatory, and governmental approval requirements.
 
 Based on the facts presented, the relevant lawful-basis analysis may properly focus on legal obligation. [Redacted] represents that it is undertaking renewable energy project development activities pursuant to governmental approvals, project commitments, and regulatory requirements, including those arising from its Department of Energy-authorized project activities. These activities require the identification of affected or potentially affected landowners for project due diligence, consultation, negotiation, land access, easement arrangements, stakeholder engagement, and social acceptability processes.
 
@@ -63,7 +62,7 @@ Accordingly, the DPA should not be invoked as a general or categorical ground to
 
 The Commission also notes your statement that the Municipal Assessor’s Office invoked a purported local resolution as basis for refusing to disclose the names of landowners, but that no copy of the resolution was furnished to [Redacted].
 
-Local legislative or administrative issuances may regulate the handling of local government records, provided they are consistent with the Constitution and national law.[^7] However, a local resolution cannot, by itself, override or supplant the lawful-basis framework established by the DPA and its IRR. If a local government office restricts disclosure on privacy grounds, the restriction must be grounded in a proper application of the DPA and any other applicable law, not merely in a generalized or undisclosed local policy.
+Local legislative or administrative issuances may regulate the handling of local government records, provided they are consistent with the Constitution and national law.[^7] However, a local resolution cannot, by itself, override or supplant the lawful-basis framework established by the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]. If a local government office restricts disclosure on privacy grounds, the restriction must be grounded in a proper application of the DPA and any other applicable law, not merely in a generalized or undisclosed local policy.
 
 Thus, where disclosure is refused on the basis of data privacy, the releasing office should be able to identify the specific legal basis for the refusal and explain why disclosure would be unlawful or disproportionate under the circumstances. Conversely, where disclosure is permitted, the office should document the lawful basis, the purpose of disclosure, the scope of information released, and the safeguards applied.
 
@@ -94,8 +93,6 @@ Very truly yours,
 VIDA ZORA G. BOCAR
 
 OIC-Director IV, Privacy Policy Office[^9]
-
-## Footnotes
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3(g) (2012).
 [^3]: Data Privacy Act of 2012, § 3(j).

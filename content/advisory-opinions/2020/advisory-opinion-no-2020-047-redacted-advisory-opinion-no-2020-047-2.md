@@ -46,10 +46,10 @@ waiver.
 
 #### BO Declaration; Personal Data; Lawful Processing; Legal Obligation; Law or Regulation; Publication
 
-Personal information may be processed pursuant to Section 12 (c) of the DPA, which allows
+Personal information may be processed pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the DPA]], which allows
 processing that is necessary for compliance with a legal obligation to which the personal
 information controller is subject. While the processing of sensitive personal information may
-find basis in Section 13 (b) of the DPA which recognizes processing based on existing laws
+find basis in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b) of the DPA]] which recognizes processing based on existing laws
 and regulations.
 
 In relation to the above, the Philippines, through Executive Order (E.O.) No. 79[^4] (2012),

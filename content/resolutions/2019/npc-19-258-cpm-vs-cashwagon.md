@@ -43,7 +43,7 @@ GREEN MONEY TREE LENDING CORP. (CASHWAGON),
 
 Respondents.
 
-For: Violation of Section 25 (b) of the Data Privacy Act of 2012
+For: Violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (b) of the Data Privacy Act of 2012]]
 
 x----------------------------------------x
 

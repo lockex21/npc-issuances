@@ -48,18 +48,18 @@ We understand that job applicants who refuse to sign the consent form would not 
 Relating to the given scenarios, you specifically asked the following:
 
 - What are the criteria applied by the Commission in assessing if the consent of the data subject was “freely given” and “specific”? Is the consent given by the data subjects under the scenarios considered freely given and specific?
-- If the consent of the data subjects obtained under the foregoing scenarios fails to satisfy the requirements of the DPA and the Implementing Rules and Regulations (IRR), would the employer be required to divide its purposes for data processing into (a) lawful processing purposes (which do not require consent for processing) and (b) other specific purposes, and obtain the data subject’s consent only for those other specific purposes?
+- If the consent of the data subjects obtained under the foregoing scenarios fails to satisfy the requirements of the DPA and the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), would the employer be required to divide its purposes for data processing into (a) lawful processing purposes (which do not require consent for processing) and (b) other specific purposes, and obtain the data subject’s consent only for those other specific purposes?
 - To what extent should an employer apply the requirements under the General Data Protection Regulation (GDPR)? If not applicable, please clarify the differences, if any, between the concept of consent under the DPA and consent under GDPR.
 - If consent given by the data subject is not considered as freely given and specific, is it sufficient that they are given an opportunity to withdraw consent?
 - Will the withdrawal of consent affect the lawfulness of the processing based on consent before its withdrawal? Should the processing be discontinued immediately or is it sufficient that it be discontinued as soon as practicable, particularly when immediate stoppage is not possible?
 - Assuming that a data subject withdraws consent, but the processing may still fall under other instances of lawful processing under Sections 12 and 13 of the DPA, can a personal information controller (PIC) continue to process the personal data?
-- Are PICs prohibited from using the terms “consent” or “agree” in the privacy notice or consent form addressed to data subjects with information required under Section 16(b) of the DPA if the PICs know from the very beginning that even if the data subject withdraws consent, they will still process the personal data in accordance with some other lawful purpose under the DPA?
+- Are PICs prohibited from using the terms “consent” or “agree” in the privacy notice or consent form addressed to data subjects with information required under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(b) of the DPA]] if the PICs know from the very beginning that even if the data subject withdraws consent, they will still process the personal data in accordance with some other lawful purpose under the DPA?
 
 ### Discussion
 
 #### Criteria applied in assessing if consent was “freely given”, “specific” and “informed”
 
-Under Section 3(b) of the DPA, consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of his or her personal, sensitive personal, or privileged information. Thus, the definition of consent indicates three requirements, namely: freely given, specific, and informed indication of will.
+Under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the DPA]], consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of his or her personal, sensitive personal, or privileged information. Thus, the definition of consent indicates three requirements, namely: freely given, specific, and informed indication of will.
 
 In order to assess whether a data subject’s consent was “freely given,” “specific” and “informed,” the DPA requires adherence to the principle of transparency, requiring PICs to inform data subjects of the nature, purpose, and extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of the PIC, his or her rights as a data subject, and how these can be exercised.[^3] Any information and communication relating to the processing of personal data should be easy to access and understand, using clear and plain language.[^4] Thus, validity of consent will depend on the data subject’s comprehension of the disclosures made by the PIC. It is only with sufficient comprehension that a data subject will be able to exercise real choice in providing consent.
 
@@ -103,10 +103,9 @@ In addition, consent shall be evidenced by written, electronic or recorded means
 
 The processing of personal information is permitted under the DPA when at least one of the
 conditions provided under Section 12 is present. As to sensitive personal information, its
-processing is prohibited except when there exists any of the cases enumerated under Section 13 of
-the DPA.
+processing is prohibited except when there exists any of the cases enumerated under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
-As enunciated in NPC Advisory Opinion No. 2017-050:
+As enunciated in [[advisory-opinions/2017/advisory-opinion-no-2017-050-npc-advisoryopinionno-2017-050|NPC Advisory Opinion No. 2017-050]]:
 
    A Personal Information Controller (PIC), such as your employer, can also process
           personal information when it is necessary and is related to the fulfillment of a contract
@@ -191,7 +190,7 @@ Further in your inquiry, clarification is being sought whether the use of the wo
 beginning that even if the data subjects withdraw their consent, personal data will still be
 processed.
 
-We reiterate NPC Advisory Opinion No. 2018-013[^16] which discussed at length the difference between privacy notices and consent:
+We reiterate [[advisory-opinions/2018/advisory-opinion-no-2018-013-npc-advisory-opinion-no-2018-013|NPC Advisory Opinion No. 2018-013]][^16] which discussed at length the difference between privacy notices and consent:
 
 > …A privacy notice is a statement made to a data subject that describes how the organization collects, uses, retains and discloses personal information. A privacy notice is sometimes referred to as a privacy statement, a fair processing statement or sometimes a privacy policy.
 >
@@ -232,11 +231,11 @@ Privacy Commissioner and Chairman
 [^6]: European Commission, Article 29 Data Protection Working Party, Opinion 2/2017 on data processing at work, 8 June 2017, pages 6-7, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=610169 (last accessed May 27, 2019).
 [^7]: European Commission, Article 29 Data Protection Working Party, Opinion 15/2011 on the definition of consent, 13 July 2011, page 17, available at https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2011/wp187_en.pdf (last accessed May 27, 2019).
 [^8]: *Id.*
-[^9]: National Privacy Commission, NPC Advisory Opinion No. 2018-063 (October 23, 2018).
+[^9]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-063-npc-advisory-opinion-no-2018-063|NPC Advisory Opinion No. 2018-063]] (October 23, 2018).
 [^10]: *Id.*
 [^11]: *Id.*
 [^12]: National Privacy Commission, NPC Advisory Opinion No. 2017-050 (Aug. 29, 2017).
 [^13]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Article 4 (11) (2016).
-[^14]: National Privacy Commission, NPC Advisory Opinion No. 2017-009 (Jan. 16, 2017).
+[^14]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-009-npc-advisoryopinionno-2017-009|NPC Advisory Opinion No. 2017-009]] (Jan. 16, 2017).
 [^15]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34(b) (2016).
 [^16]: National Privacy Commission, NPC Advisory Opinion No. 2018-013 (April 18, 2018).

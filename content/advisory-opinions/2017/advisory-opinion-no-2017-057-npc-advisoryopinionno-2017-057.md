@@ -22,7 +22,7 @@ Re: Consent for Data Sharing and Outsourcing Agreements
 
 Dear [Redacted],
 
-This pertains to your request for advisory opinion received by the National Privacy Commission (NPC) on 16 August 2017, which sought to clarify matters regarding Republic Act No. 10173[^1], also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR)[^2] and relevant issuances, and particularly respond to the following questions:
+This pertains to your request for advisory opinion received by the National Privacy Commission (NPC) on 16 August 2017, which sought to clarify matters regarding [[laws/data-privacy-act-of-2012|Republic Act No. 10173]][^1], also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR)[^2] and relevant issuances, and particularly respond to the following questions:
 
 ### Discussion
 
@@ -31,9 +31,9 @@ This pertains to your request for advisory opinion received by the National Priv
 
 First, it is important to take note of the difference between a data sharing agreement and an outsourcing agreement. As defined in the IRR, data sharing pertains to the disclosure or transfer to a third party of personal data under the custody of a PIC or a PIP wherein such transfer was directly instructed by the PIC.[^3]
 
-The data sharing agreement then refers to the contract which contains the terms and conditions of a data sharing arrangement between two or more PICs.[^4] Despite sharing directly by the PIP, the party to the agreement will be the PIC, and not the PIP. Every data sharing agreement must comply with the conditions set forth in Section 20(b) of the IRR, as well as those indicated in NPC Circular 16-02 where the sharing arrangement involves the government.
+The data sharing agreement then refers to the contract which contains the terms and conditions of a data sharing arrangement between two or more PICs.[^4] Despite sharing directly by the PIP, the party to the agreement will be the PIC, and not the PIP. Every data sharing agreement must comply with the conditions set forth in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20(b) of the IRR]], as well as those indicated in NPC Circular 16-02 where the sharing arrangement involves the government.
 
-On the other hand, an outsourcing agreement pertains to the disclosure or transfer of personal data by the PIC to a PIP in order for the latter to perform the particular activities outsourced by the former.[^5] Outsourcing or subcontracting agreements must then comply with Section 44 of the IRR.
+On the other hand, an outsourcing agreement pertains to the disclosure or transfer of personal data by the PIC to a PIP in order for the latter to perform the particular activities outsourced by the former.[^5] Outsourcing or subcontracting agreements must then comply with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|Section 44 of the IRR]].
 
 In your email, you inquired about consent for outsourcing agreements because the definition of data sharing excludes outsourcing.
 

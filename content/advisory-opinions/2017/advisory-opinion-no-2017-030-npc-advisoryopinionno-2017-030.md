@@ -36,7 +36,7 @@ The law likewise provides for the criteria for lawful processing of personal, se
 
 In the scenario given, we believe that the bank should always ensure that the processing it does always adheres to the general data privacy principles and gives due consideration to the rights of data subjects at all times.
 
-Thus, where a bank has reasonable knowledge that a database of personal data it uses for marketing is the fruit of an unlawful activity, we believe that the bank should discontinue from processing such personal data as the same may be construed as unauthorized processing which is punishable under Section 25 of the DPA.
+Thus, where a bank has reasonable knowledge that a database of personal data it uses for marketing is the fruit of an unlawful activity, we believe that the bank should discontinue from processing such personal data as the same may be construed as unauthorized processing which is punishable under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].
 
 #### Information Available in the Public Domain
 
@@ -56,7 +56,7 @@ We reiterate the definition of consent as "any freely given, specific, informed 
 
 #### Automated Processing/Decision-Making and the Notification Requirement
 
-Section 48 of the IRR provides for the notification requirement where a personal information controller is engaged wholly or partly in automated processing, and such processing becomes the sole basis for making decisions which would significantly affect a data subject.
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-48-notification-of-automated-processing-operations|Section 48 of the IRR]] provides for the notification requirement where a personal information controller is engaged wholly or partly in automated processing, and such processing becomes the sole basis for making decisions which would significantly affect a data subject.
 
 The notification shall include the following information:
 

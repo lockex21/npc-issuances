@@ -26,7 +26,7 @@ Questions Raised During the Public Consultation on 16 June 2023
 
 2. **Will passers of the DPO ACE Level 1 Examination need to train again?** No. They may still say they passed the DPO ACE Level 1 Examination. The new Program instead lets data privacy professionals take other courses that better fit their current stage.
 
-3. **What is the significance of the one-year period in Section 13 of the Circular?** The DPO ACE Program began in 2018 and its first batch was taught in early 2019, so the concepts taught then may no longer reflect how the NPC currently interprets the DPA. The one-year period provides a transition.
+3. **What is the significance of the one-year period in Section 13 of the Circular?** The DPO ACE Program began in 2018 and its first batch was taught in early 2019, so the concepts taught then may no longer reflect how the NPC currently interprets the [[laws/data-privacy-act-of-2012|DPA]]. The one-year period provides a transition.
 
 4. **Is certification under the Data Privacy Competency Program valid for one year?** No. Completion of the Program or any of its courses does not produce certification. It may only result in a Competency Assessment, and passing that assessment is not a professional certification. The NPC is not a certifying body, and no professional certification is needed to perform data privacy work.
 

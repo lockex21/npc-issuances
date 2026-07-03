@@ -16,7 +16,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC 19-030 and NPC 19-132
+- Reference: [[decisions/2021/npc-19-030-and-npc-19-132-cl-vs-ddz-and-dm-vs-ddz|NPC 19-030]] and NPC 19-132
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-19-030-and-19-132_11-11-2021_CL-vs-DDZ-and-DM-vs-DDZ_Resolution-Final.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: November 11, 2021
@@ -99,7 +99,7 @@ Complainants filed a Motion to Consolidate on 16 December 2020. Additionally, th
 
 Complainants emphasized that the consolidation of the cases are important since it would expedite the resolution of the issue. Complainants added "if the cases were consolidated, DMV and SM could have been summoned and shed light on the factual circumstances claimed by Respondent DDZ."[^15] Further, they stated that the proper resolution of this case will be incomplete, unfair, and unjust since SM and DMV are not allowed to be made part of the case and that the situation calls for a proper remand for investigation.[^16]
 
-On Respondent's reliance on Section 13(f) of the Data Privacy Act (DPA) of 2012, Complainants argued that attaching the passports to Respondent's Complaint-letter was not necessary since Complainants being Australian citizens without working visas is not relevant to the criminal and labor cases then existing.[^17] The nationality or citizenship is also neither an essential element of the crimes mentioned nor would constitute part of the labor case for dismissal. Complainants argued that the virtual nexus between Respondent and Complainants with regard to the contents of the passports does not exist and therefore fail the test provided by NPC Case No. 17-018.[^18]
+On Respondent's reliance on [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the Data Privacy Act]] (DPA) of 2012, Complainants argued that attaching the passports to Respondent's Complaint-letter was not necessary since Complainants being Australian citizens without working visas is not relevant to the criminal and labor cases then existing.[^17] The nationality or citizenship is also neither an essential element of the crimes mentioned nor would constitute part of the labor case for dismissal. Complainants argued that the virtual nexus between Respondent and Complainants with regard to the contents of the passports does not exist and therefore fail the test provided by NPC Case No. 17-018.[^18]
 
 Moreover, according to Complainants it was Respondent, together with his cohorts, SM and DMV, who should be guilty of theft of Complainants' sensitive personal information.[^19]
 
@@ -107,7 +107,7 @@ Complainants also stated that the Office of the Prosecutor, Department of Labor 
 
 The exemption in processing sensitive personal data only applies to the Government entities as part of their function which cannot be said on the part of Respondent since he is not public office or functionary and thus, cannot claim such exemption as a privilege.[^21]
 
-Complainants cited Section 19 of the DPA which states that "the personal information shall be held in strict confidentiality and shall be used only for the declared purpose", but since Complainants' have not seen a copy of Respondent's request, they do not know for what purpose his request was made.[^22] Further, they argued that there is no transparency in the processing of their sensitive personal information.
+Complainants cited [[laws/data-privacy-act-of-2012#section-19-non-applicability|Section 19 of the DPA]] which states that "the personal information shall be held in strict confidentiality and shall be used only for the declared purpose", but since Complainants' have not seen a copy of Respondent's request, they do not know for what purpose his request was made.[^22] Further, they argued that there is no transparency in the processing of their sensitive personal information.
 
 Moreover, Complainants stated "the Personal Privacy Controller [sic] of the MVP is not even aware that a request was made by Respondent."[^23] According to Complainants, it was SM and DMV who processed the sensitive personal information, without informing the data subjects and without authority to do so. Complainants stated that DDZ, SM, and DMV connived to steal their sensitive personal information for a malicious purpose.[^24]
 
@@ -139,9 +139,9 @@ In addition, Respondent stated that not only that the Complaints were vexatious,
 
 On Complainants' allegation that he broke into MVP's database, Respondent stated that Complainants solely relied on surmises and conjectures which are wholly unsupported by legal and factual bases.[^41]
 
-Respondent argued that like any other cases, Complainants have the burden of proof to show that Respondent violated the DPA.[^42] He further stated that Complainants failed to provide substantial evidence that Respondent knowingly and unlawfully broke into MVP's database. Complainants also did not show that there was an actual storage of scanned copies of passports. Moreover, the facilities of MVP are covered by CCTV cameras but Complainants did not attach video clip or screen capture to prove their claims.[^43] Respondent stated that he fully subscribe to the findings of the Commission that he cannot be held liable for the violation of Section 29 of the DPA (Unauthorized Access or Intentional Breach).[^44]
+Respondent argued that like any other cases, Complainants have the burden of proof to show that Respondent violated the DPA.[^42] He further stated that Complainants failed to provide substantial evidence that Respondent knowingly and unlawfully broke into MVP's database. Complainants also did not show that there was an actual storage of scanned copies of passports. Moreover, the facilities of MVP are covered by CCTV cameras but Complainants did not attach video clip or screen capture to prove their claims.[^43] Respondent stated that he fully subscribe to the findings of the Commission that he cannot be held liable for the violation of [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Section 29 of the DPA]] (Unauthorized Access or Intentional Breach).[^44]
 
-Further, Respondent stated that he agrees to a certain extent on Complainants' allegations that passport contains personal and sensitive personal information.[^45] However, he reiterated that such information is excluded from the coverage of the DPA pursuant to Section 4(e) of the DPA. Additionally, he stated that the processing of information contained in the passport is permitted under Section 12(e) and (f) of the DPA, and exempted under Section 13(e) of the DPA.[^46]
+Further, Respondent stated that he agrees to a certain extent on Complainants' allegations that passport contains personal and sensitive personal information.[^45] However, he reiterated that such information is excluded from the coverage of the DPA pursuant to [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]]. Additionally, he stated that the processing of information contained in the passport is permitted under Section 12(e) and (f) of the DPA, and exempted under Section 13(e) of the DPA.[^46]
 
 He also reiterated that the information of Complainants were necessary in order for the government agencies to perform their statutorily mandated functions.[^47]
 
@@ -173,7 +173,7 @@ However, Complainants stated that the Commission did not act on these two (2) pe
 
 In terms of procedural issues, the resolution of the Motion to Consolidate and Motion to Resolve is a material fact that needs to be considered by the Commission. Further, the Commission notes that addressing the pending Motions filed by Complainants is imperative in the holistic resolution of the case, given that the Complaints filed by CL and DM and the Complaints filed by MVP are alleged to have similar and interrelated issues that must be reviewed and resolved by the Commission.
 
-Moreover, in this case, the Commission deems that the proper resolution of the pending Motions shall be addressed by the Commission. Thus, the Commission finds that the Motions filed by Complainants shall be remanded to the Complaints and Investigation Division (CID) of the Commission to resolve whether the Complaints filed may be consolidated, as allowed by Section 7 of the NPC Circular No. 2021-01 (2021 NPC Rules of Procedure), viz:
+Moreover, in this case, the Commission deems that the proper resolution of the pending Motions shall be addressed by the Commission. Thus, the Commission finds that the Motions filed by Complainants shall be remanded to the Complaints and Investigation Division (CID) of the Commission to resolve whether the Complaints filed may be consolidated, as allowed by Section 7 of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure), viz:
 
 > SECTION 7. Consolidation of cases. – Except when consolidation would result in delay or injustice, the NPC may, upon motion or in its discretion, consolidate two (2) or more complaints involving common questions of law or fact and/or same parties.[^56]
 

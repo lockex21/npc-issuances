@@ -122,7 +122,7 @@ I-Remit launched a data safety campaign entitled “Think Before You Click” to
 
 As a technical measure, I-Remit issued an advisory among its employees when sending emails and attachments.[^35] I-Remit introduced encryption and password protection and provided instructions when sending files among the organization through Microsoft Word, Excel, and PowerPoint.[^36] In the same instructional e-mail, I-Remit emphasized to “(a) use strong passwords, (b) always confirm the identity of the recipient before releasing the passwords, (c) never send out passwords in the same e-mail as the protected files/s, and (d) inform recipients of passwords either in a separate email, face to face or by telephone.”[^37] I-Remit also emphasized that after inserting the proper attachments, one must be extra careful that the messages should not go to the wrong recipients.[^38]
 
-Based on the foregoing, the measures that I-Remit took after the incident enabled it to strengthen its security measures in compliance with the DPA and the Commission’s issuances. Therefore, pursuant to NPC Circular 16-03, the actions taken by I-Remit are sufficient in closing the case.[^39]
+Based on the foregoing, the measures that I-Remit took after the incident enabled it to strengthen its security measures in compliance with the [[laws/data-privacy-act-of-2012|DPA]] and the Commission’s issuances. Therefore, pursuant to NPC Circular 16-03, the actions taken by I-Remit are sufficient in closing the case.[^39]
 
 As a Personal Information Controller (PIC), I-Remit is reminded of its obligation to continuously update its security measures and ensure that it will be in a position to safeguard the personal and sensitive personal information of its data subjects.
 

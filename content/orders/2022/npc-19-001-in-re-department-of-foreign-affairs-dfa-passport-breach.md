@@ -98,7 +98,7 @@ Section 4 of Rule II of NPC Circular 16-03 (Personal Data Breach Management) sta
 >
 > D. Mitigation of possible harm and negative consequences to a data subject in the event of a personal data breach; and
 >
-> E. Compliance with the Act, its IRR, and all related issuances by the Commission pertaining to personal data breach notification.[^20]
+> E. Compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all related issuances by the Commission pertaining to personal data breach notification.[^20]
 
 The Commission issued an Order dated 11 November 2021 directing the DFA to address the security incidents that the Commission found while conducting its investigation. The DFA submitted its report addressing the vulnerabilities of the DFA passport system and adding the "noindex" parameter to the HTTP header that resulted to the vulnerability assessment "Risk Level: High" scoring zero (0) when the CID conducted its own vulnerability check.[^21] The score zero (0) means that the updated website is less likely to be breached by potential digital attack.[^22] The EnD determined:
 

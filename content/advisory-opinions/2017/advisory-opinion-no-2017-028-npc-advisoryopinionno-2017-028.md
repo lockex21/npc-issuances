@@ -28,7 +28,7 @@ This is with regard to your queries received by the National Privacy Commission 
 
 1. Can data be shared between government agencies even in the absence of a law (IRR, Sec. 20, a.) or consent (IRR, Sec. 20, c.) as long as there is a data sharing agreement? Stated another way, if there is a data sharing agreement between two (or more) government agencies, does that dispense with the requirement for a law authorizing the sharing or consent?
 
-2. Section 20(a) states that data sharing shall only be allowed when it is expressly authorized by law. What law falls within this context? Should it be interpreted strictly as a law equal in standing to the Data Privacy Act (Republic Act)? Or would a looser interpretation of "law" suffice? For example, does it make any difference if an issuance authorizing data sharing is an Executive Order? Administrative Order? Memorandum Circular? Department Order? Ordinance? For that matter, would internal office issuances/policies suffice? If, for example, the head of an agency issues an appropriate issuance (order, circular, etc.) directing that data be shared, does that satisfy the requirement for an "authorization by law"?
+2. Section 20(a) states that data sharing shall only be allowed when it is expressly authorized by law. What law falls within this context? Should it be interpreted strictly as a law equal in standing to the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (Republic Act)? Or would a looser interpretation of "law" suffice? For example, does it make any difference if an issuance authorizing data sharing is an Executive Order? Administrative Order? Memorandum Circular? Department Order? Ordinance? For that matter, would internal office issuances/policies suffice? If, for example, the head of an agency issues an appropriate issuance (order, circular, etc.) directing that data be shared, does that satisfy the requirement for an "authorization by law"?
 
 3. Can a data subject provide informed consent if he or she is not provided specific information regarding the purposes for which his or her data is to be used, for example if data is to be mined for general purposes in a data warehouse? (Section 19(a)(2)) Under said circumstances, can the data still be shared?
 
@@ -36,7 +36,7 @@ This is with regard to your queries received by the National Privacy Commission 
 
 Section 20 of the Implementing Rules and Regulation (IRR) of the Data Privacy Act of 2012 (DPA) provides for the general requirements when data sharing is allowed, i.e., when it is expressly authorized by law and provided that there are adequate safeguards for data privacy and security, and that processing adheres to principle of transparency, legitimate purpose, and proportionality.[^1]
 
-Particularly for data sharing between government agencies, Section 20(d) of the IRR applies. It states that:
+Particularly for data sharing between government agencies, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20(d) of the IRR]] applies. It states that:
 
 > **d. Data sharing between government agencies for the purpose of a public function or provision of a public service** shall be covered by a data sharing agreement.
 >

@@ -37,7 +37,7 @@ The following factors may be considered in determining whether a specific activi
 
 3. Processing of personal data about data subjects who have no personal, family, or household relationship with the person engaged in the processing.[^1]
 
-**SECTION 2.** ***Definition of Terms.*** Terms used in the Data Privacy Act of 2012 (DPA) and its Implementing Rules and Regulations (IRR), as amended, and other NPC issuances, are adopted herein. In addition, whenever used in this Circular, the following terms are defined as follows:
+**SECTION 2.** ***Definition of Terms.*** Terms used in the Data Privacy Act of 2012 (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), as amended, and other NPC issuances, are adopted herein. In addition, whenever used in this Circular, the following terms are defined as follows:
 
 A. *"Alternative Recording Device"* or *"ARD"* refers to an electronic device or gadget with a camera system, other than a BWC, that is capable of creating, generating, sending, receiving, storing, displaying, and processing audio-visual recording and is capable of being bodily worn, handheld, attached to the person of an individual or operated as an alternative or substitute for BWC. This includes, but is not limited to, digital cameras, mobile phones, action cameras, smart watches or smart eyeglasses, and other similar devices.
 
@@ -77,7 +77,7 @@ J. *"Vlogger"* refers to someone who makes video blogs or vlogs (recording of th
 
 A. Law enforcement; security. BWCs or ARDs shall be used in a manner consistent with the aim of ensuring the protection of the fundamental rights and freedoms of all data subjects, including law enforcement officers and security guards. Personal data processing of LEAs and PSAs shall adhere to the following:
 
-1. Lawful basis for processing. The processing of personal data using BWCs or ARDs may be allowed in any of the instances provided under Sections 12 and 13 of the DPA, or as processing under a special case under Section 4 of the DPA.
+1. Lawful basis for processing. The processing of personal data using BWCs or ARDs may be allowed in any of the instances provided under Sections 12 and 13 of the DPA, or as processing under a special case under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]].
 2. General principles of privacy. The general data privacy principles shall be strictly adhered to:
 
 a. Transparency. An appropriate privacy notice shall be provided using clear, concise, and plain language, considering the different contexts and environments where personal data processing could take place.
@@ -101,7 +101,7 @@ d. Fairness and lawfulness. The processing of personal data using BWCs or ARDs s
 
 B. Vlogging. Vloggers who use BWCs or ARDs to capture the image, audio, or video of persons for uploading, posting, publishing or otherwise sharing online may be deemed to be engaged in the processing personal data.
 
-1. Lawful basis for processing. Vloggers may generally rely on Section 12 (f) of the DPA as a lawful basis for processing: provided, that in certain specific instances where sensitive personal information is captured, vloggers need to have a lawful basis under Section 13 of the DPA.
+1. Lawful basis for processing. Vloggers may generally rely on [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] as a lawful basis for processing: provided, that in certain specific instances where sensitive personal information is captured, vloggers need to have a lawful basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 2. Transparency; fairness. In the scenario where vloggers are recording footage of themselves in action, e.g., eating, shopping, driving, biking, dancing, walking, or otherwise engaged in general video recording activities in public or semi-public places which may capture audio-visual information of bystanders or other people, vloggers shall ensure that that personal data processing activities are done in a fair and lawful manner and affected data subjects will be able to exercise their rights.
 
 a. Generally and where appropriate in given scenarios, e.g., interviewing specific individuals, vloggers shall ensure transparency and provide adequate information to the data subjects prior to the commencement of any video recording activity, including the fact that the resulting footage will be uploaded, posted, published or otherwise shared online, and how they may exercise their data privacy rights.

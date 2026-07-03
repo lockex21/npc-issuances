@@ -40,7 +40,7 @@ Hence, HCPI would like to request from insurance agencies or companies for the u
 
 #### Vitally important interests of data subject; further processing of a data subject’s personal information
 
-Based on your representation, HCPI’s proposed processing of the personal data of the insured vehicle owners is with the intention of protecting the vitally important interests of the said Honda car owners, pursuant to Section 12(d) of the DPA, thus, there is a need to inform as many of the current vehicle owners as possible of the product recall.
+Based on your representation, HCPI’s proposed processing of the personal data of the insured vehicle owners is with the intention of protecting the vitally important interests of the said Honda car owners, pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(d) of the DPA]], thus, there is a need to inform as many of the current vehicle owners as possible of the product recall.
 
 However, the EU General Data Protection Regulation (GDPR),[^3] the successor of the EU Data Protection Directive (Directive 95/46/EC) which highly influenced the DPA, provides further insight on this particular lawful criterion for processing, to wit:
 

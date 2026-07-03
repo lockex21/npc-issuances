@@ -81,7 +81,7 @@ OWD states in its letter:
 
 ### Discussion
 
-Section 7 of the Data Privacy Act provides for the functions of the Commission, thus:
+[[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the Data Privacy Act]] provides for the functions of the Commission, thus:
 
 > (a) Ensure compliance of personal information controllers with the provisions of this Act;
 >

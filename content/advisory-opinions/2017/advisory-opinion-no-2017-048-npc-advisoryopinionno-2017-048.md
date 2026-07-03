@@ -22,7 +22,7 @@ Re: SUBMISSION OF CREDIT INFORMATION BY COOPERATIVES TO THE CREDIT INFORMATION C
 
 Dear [Redacted],
 
-This pertains to your letter request for advisory opinion received by the National Privacy Commission (NPC) on 1 August 2017. Specifically, you require an opinion regarding the application of existing rules on data sharing as provided under the Implementing Rules and Regulations (IRR) of Republic Act (RA) No. 10173 and NPC Circular No. 16-02, in relation to the submission of credit information of borrowers to the CIC.
+This pertains to your letter request for advisory opinion received by the National Privacy Commission (NPC) on 1 August 2017. Specifically, you require an opinion regarding the application of existing rules on data sharing as provided under the Implementing Rules and Regulations (IRR) of Republic Act (RA) No. 10173 and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], in relation to the submission of credit information of borrowers to the CIC.
 
 You cited CIC Circular No. 2015-01, 2015-02, and 2016-04 requiring such submission, setting the deadline for the same, and the extension thereof, respectively. We understand that the CEDC has already complied with the CIC requirement.
 
@@ -40,9 +40,9 @@ On 15 May 2015, the CIC issued Circular No. 2015-01 enforcing the CISA and its I
 
 On 28 September 2015, the CIC issued Circular No. 2015-02 requiring the submission of credit data and technical requirements for several entities, including large and medium cooperatives. Large cooperatives as defined by the Cooperative Development Authority (CDA) were given until 30 October 2016 to submit. This deadline was extended to 30 June 2017.[^7]
 
-#### Scope of the Data Privacy Act of 2012
+#### Scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 
-The DPA provides for a list of specified information that are not covered by the law. Section 5 of the IRR[^8] provides for the special cases wherein the law and the rules are not applicable, specifically Section 5(d) and (e):
+The DPA provides for a list of specified information that are not covered by the law. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the IRR]][^8] provides for the special cases wherein the law and the rules are not applicable, specifically Section 5(d) and (e):
 
 > "**Section 5. Special Cases.** *The Act and these Rules shall not apply to the following specified information*, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:
 >
@@ -64,7 +64,7 @@ The CIC, as a personal information controller, is covered by the DPA's requireme
 
 #### Data Sharing
 
-Section 20(a) of the IRR of the DPA provides that data sharing shall be allowed when it is expressly authorized by law and that there are adequate safeguards for data privacy and security, and processing adheres to principle of transparency, legitimate purpose and proportionality.
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20(a) of the IRR]] of the DPA provides that data sharing shall be allowed when it is expressly authorized by law and that there are adequate safeguards for data privacy and security, and processing adheres to principle of transparency, legitimate purpose and proportionality.
 
 The CISA which requires the submission of credit data was not amended by the DPA. Compliance to the said law should not be hampered by the DPA. Submitting entities, such as cooperatives, are obligated to inform its borrowers in writing of its obligation to submit basic credit data and other credit information to the CIC.[^10]
 

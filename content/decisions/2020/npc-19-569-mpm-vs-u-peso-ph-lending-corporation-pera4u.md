@@ -43,7 +43,7 @@ x--------------------------------------------x
 
 NAGA, D.P.C.:
 
-Before this Commission is a Complaint by MPM (Complainant) against Pera4U (Respondent) for a violation of the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint by MPM (Complainant) against Pera4U (Respondent) for a violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -141,7 +141,7 @@ GENERAL RECORDS UNIT
 [^9]: *Id.*, page 7 (27).
 [^10]: *Id.*, page 7 (30).
 [^11]: *Id.*, page 8 (34).
-[^12]: NPC Circular No. 16-04 dated 15 December 2016 ("NPC Rules of Procedure"), Section 22. Emphasis supplied.
+[^12]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] dated 15 December 2016 ("NPC Rules of Procedure"), Section 22. Emphasis supplied.
 [^13]: G.R. No. 165585, 20 November 2013, citing *Real v. Belo*, 542 Phil. 109 (2007).
 [^14]: G.R No. 180364, 03 December 2014.
 [^15]: Complaints-Assisted Form, p. 7.

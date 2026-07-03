@@ -38,7 +38,7 @@ It is indeed accurate to state that the DPA primarily deals with personal inform
 
 APO is not allowed to process personal information of the e-Passport applicants, outside the provisions of its contract with the DFA or for its own purpose. In addition, APO may also be considered as a PIC, relative to its own operations as a production unit, as a corporate entity.
 
-However, it must be clarified that the issuance of e-Passports by the DFA pursuant to its mandate excludes such information from the coverage of the DPA. Section 4 of the law and Section 5 of the Implementing Rules and Regulations (IRR) exempt specific types or classes of information from its scope - in particular, paragraph (e) of the latter states:
+However, it must be clarified that the issuance of e-Passports by the DFA pursuant to its mandate excludes such information from the coverage of the DPA. Section 4 of the law and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the Implementing Rules and Regulations]] (IRR) exempt specific types or classes of information from its scope - in particular, paragraph (e) of the latter states:
 
 > "**Section 5. Special Cases.** *The Act and these Rules shall not apply to the following specified information*, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:
 >
@@ -56,13 +56,13 @@ Hence, the DFA is only exempt to the minimum extent of such processing activitie
 
 Given the resolution above, APO, as both a PIC and a PIP is obliged to comply with the provisions of the DPA, its IRR and other NPC issuances applicable to its processing activities. Chief among these obligations is the adherence to the general data privacy principles of transparency, legitimate purpose, and proportionality. Another requirement is the need to appoint a data protection officer (DPO).
 
-Pursuant to Section 21(b) of the DPA and Section 50(b) of the IRR, PICs shall designate an individual or individuals who are accountable for the organization's compliance with this Act. This is further elucidated under NPC Advisory No. 2017-01 dated 14 March 2017.
+Pursuant to [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21(b) of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-50-accountability-for-transfer-of-personal-data|Section 50(b) of the IRR]], PICs shall designate an individual or individuals who are accountable for the organization's compliance with this Act. This is further elucidated under [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]] dated 14 March 2017.
 
 APO is likewise required to implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^4]
 
 #### Registration of APO with the NPC
 
-Section 47 of the IRR provides for the registration of personal data processing systems. PIC or PIP shall register their Data Processing Systems under the following circumstances:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Section 47 of the IRR]] provides for the registration of personal data processing systems. PIC or PIP shall register their Data Processing Systems under the following circumstances:
 
 1. When the personnel employed are at least two hundred fifty (250) persons;
 2. The processing includes sensitive personal information of at least one thousand (1,000) individuals;
@@ -85,9 +85,9 @@ In addition, given that these entities are covered by the DPA, they are mandated
 
 The DPA applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing in the Philippines,[^6] and has extraterritorial application in certain instances, i.e. an act done or practice engaged in and outside of the Philippines by an entity if the act, practice or processing relates to personal information about a Philippine citizen or a resident, etc.[^7]
 
-With this, it is possible that the DPA will be applicable to processing done abroad as provided in Section 6 of the DPA, and other relevant sections of the IRR on data sharing and outsourcing will likewise be applicable.
+With this, it is possible that the DPA will be applicable to processing done abroad as provided in [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|Section 6 of the DPA]], and other relevant sections of the IRR on data sharing and outsourcing will likewise be applicable.
 
-However, for the registration requirement, Section 46(a) of the IRR provides that "pursuant to the mandate of the Commission to administer and implement the Act, and to ensure the compliance of personal information controllers with its obligations under the law, the Commission requires the registration of personal data processing systems operating in the country…"
+However, for the registration requirement, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-46-enforcement-of-the-data-privacy-act|Section 46(a) of the IRR]] provides that "pursuant to the mandate of the Commission to administer and implement the Act, and to ensure the compliance of personal information controllers with its obligations under the law, the Commission requires the registration of personal data processing systems operating in the country…"
 
 This is interpreted to mean that only those personal data processing systems physically operating in the Philippines would be covered by the registration requirement.
 

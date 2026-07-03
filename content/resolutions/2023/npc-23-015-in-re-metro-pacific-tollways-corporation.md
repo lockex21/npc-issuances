@@ -162,7 +162,7 @@ National Privacy Commission
 [^22]: Id.
 [^23]: Id.
 [^24]: Id.
-[^25]: In re: University of the Philippines – Visayas, NPC BN 18-045, 10 November 2022, at 4, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-BN-18-045-2022.11.10-In-re-University-of-the-Philippines-Visayas-Resolution-Final.pdf (last accessed 29 August 2023).
+[^25]: In re: University of the Philippines – Visayas, [[resolutions/2022/npc-bn-18-045-in-re-university-of-the-philippines-visayas|NPC BN 18-045]], 10 November 2022, at 4, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-BN-18-045-2022.11.10-In-re-University-of-the-Philippines-Visayas-Resolution-Final.pdf (last accessed 29 August 2023).
 [^26]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 3 (F) & (J) (15 December 2016).
 [^27]: Initial Notification through the Personal Data Breach Notification Form, 27 January 2023, in In re: Metro Pacific Tollways Corporation, NPC BN 23-015 (NPC 2023).
 [^28]: Id.

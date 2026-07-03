@@ -51,7 +51,7 @@ On 08 July 2020, the CID submitted the case to the Commission for its resolution
 
 Personal data refers to all types of personal information. Under the Data Privacy Act (DPA), it is divided into two major categories, namely: Personal Information[^1] and Sensitive Personal Information[^2].
 
-On the other hand, Personal data breach is defined in the DPA Implementing Rules and Regulations (IRR) as, “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed.”[^3]
+On the other hand, Personal data breach is defined in the DPA [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) as, “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed.”[^3]
 
 Given the above definitions, it can be deduced that no personal information was accidentally and unlawfully disclosed in the social media post of the citizen. The post contains a redacted photo of an alleged PRC logbook that has data fields on Registration No., Profession, and Name.[^4] No other personal information was disclosed other than the name of the citizen that posted said redacted photo.
 
@@ -90,8 +90,8 @@ GENERAL RECORDS UNIT
 
 [^2]: Section 2 (l) Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
 
-[^3]: Section 3 (k) of the DPA IRR.
+[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (k) of the DPA]] IRR.
 
 [^4]: Attachment in the 08 May 2020 letter of the PRC to the CID
 
-[^5]: Section 18 of the DPA IRR in relation to Section 11 of the DPA.
+[^5]: [[laws/data-privacy-act-of-2012#section-18-right-to-data-portability|Section 18 of the DPA]] IRR in relation to [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]].

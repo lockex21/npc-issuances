@@ -42,7 +42,7 @@ x-----------------------------------------------x
 
 AGUIRRE, D.P.C.
 
-For consideration of this Commission is the Affidavit-Complaint by Complainant RBG dated 01 June 2018 against Respondent CB for an indeterminate violation of the Data Privacy Act (DPA).
+For consideration of this Commission is the Affidavit-Complaint by Complainant RBG dated 01 June 2018 against Respondent CB for an indeterminate violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA).
 
 ### These Proceedings
 
@@ -183,4 +183,4 @@ National Privacy Commission
 [^23]: *Supra* note 8. Emphasis supplied.
 [^24]: *Ombudsman v. Fetalvero*, G.R. No. 211450, 23 July 2018.
 [^25]: *Supra* note 23.
-[^26]: NPC Circular No. 16-04 dated 15 December 2016 ("NPC Rules of Procedure"), Sec. 22, Emphasis supplied.
+[^26]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] dated 15 December 2016 ("NPC Rules of Procedure"), Sec. 22, Emphasis supplied.

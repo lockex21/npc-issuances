@@ -42,7 +42,7 @@ x--------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by the complainant RMA against the respondent International Workplace Group PLC/Regus, Inc. for an alleged violation of R.A. 10173 (“Data Privacy Act”).
+Before this Commission is a Complaint filed by the complainant RMA against the respondent International Workplace Group PLC/Regus, Inc. for an alleged violation of [[laws/data-privacy-act-of-2012|R.A. 10173]] (“Data Privacy Act”).
 
 ### Facts
 
@@ -141,4 +141,4 @@ GENERAL RECORDS UNIT
 [^13]: Rules of Court, Rule 133, §5.
 [^14]: 798 SCRA 609. 17 July 2016.
 [^15]: Id., at p. 627.
-[^16]: NPC Circular No. 16-04 dated 15 December 2016 (“NPC Rules of Procedure”), Sec. 22, Emphasis supplied.
+[^16]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] dated 15 December 2016 (“NPC Rules of Procedure”), Sec. 22, Emphasis supplied.

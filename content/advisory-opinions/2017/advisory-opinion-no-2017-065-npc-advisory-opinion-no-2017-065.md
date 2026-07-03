@@ -23,7 +23,7 @@ Re: CHILD ONLINE PROTECTION (COP) AND GOVERNMENT ACCESS TO SUSPECT’S MEDIA ACC
 
 Dear [Redacted],
 
-This pertains to your query received by the National Privacy Commission (NPC) on 18 October 2016, via email, regarding Child Online Protection (COP) vis-à-vis the Data Privacy Act of 2012 (DPA), particularly the latter’s provision/s relating to law enforcement activities. You inquired regarding the following:
+This pertains to your query received by the National Privacy Commission (NPC) on 18 October 2016, via email, regarding Child Online Protection (COP) vis-à-vis the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), particularly the latter’s provision/s relating to law enforcement activities. You inquired regarding the following:
 
 1. Whether the suspect’s email and/or social media accounts can be opened by the government;
 2. Whether the NPC can require such action; and
@@ -67,7 +67,7 @@ Sections 9 and 11 of the Anti-Child Pornography Act[^5] clearly states the duty 
 
 It can be noted that nowhere in the provisions above allow for the access or opening of a suspected offender’s e-mail and/or social media accounts. The government, through the law enforcement agencies is only directed to obtain certain information relevant to the investigation and further prosecution of offenders. Based on the foregoing, just like any other document, personal writing or material, social media platforms deserve the same amount of protection because it is indeed still a form of communication, only online. Therefore, the law enforcers cannot compel such access to emails and/or social media accounts of suspects without due process and without a lawful order from the court.
 
-In relation to the provision of the DPA on law enforcement, Section 4 of the law and Section 5 of the IRR exempt specific types or classes of information from its scope. In particular, paragraph (d) of the latter states:
+In relation to the provision of the DPA on law enforcement, Section 4 of the law and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the IRR]] exempt specific types or classes of information from its scope. In particular, paragraph (d) of the latter states:
 
 > **Section 5. Special Cases.** *The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:* xxx
 >

@@ -44,7 +44,7 @@ Specifically, you ask for guidance on the following:
 
 #### Processing of sensitive personal information; lawful criteria; law or regulation; COVID-19 surveillance; proportionality
 
-Under the Data Privacy Act (DPA) of 2012,[^2] information about an individual's age as well as date of birth, which is a variation of age, are considered as sensitive personal information (SPI). The processing for SPI finds basis under any of the lawful criteria for processing under Section 13 of the DPA, one of which is the processing that is provided for by existing laws and regulations.[^3]
+Under the Data Privacy Act (DPA) of 2012,[^2] information about an individual's age as well as date of birth, which is a variation of age, are considered as sensitive personal information (SPI). The processing for SPI finds basis under any of the lawful criteria for processing under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], one of which is the processing that is provided for by existing laws and regulations.[^3]
 
 We relate the above to the collection of age and date of birth of data subjects pursuant to the relevant Department of Health (DOH) issuances: Department Memorandum (DM) No. 2020-0189 (Updated Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease (COVID-19) Cases), DM No. 0436 (Minimum Data Requirements of COVID-19-Related Information Systems), and Department Circular No. 2020-0318 (Mandatory Submission of Accurate, Complete, and Timely COVID-19 Case Data through the COVID Document Repository System (CDRS) and Laboratory Information System API). All these issuances discuss the use of the COVID-19 Case Investigation Forms (CIF).
 

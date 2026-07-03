@@ -126,7 +126,7 @@ The first requisite provides that the breach involves sensitive personal informa
 >
 > (4) Specifically established by an executive order or an act of Congress to be kept classified.[^39]
 
-In this case, the account balance and account number of the dummy account were the only compromised personal information as a result of the breach.[^40] These are not considered as sensitive personal information as defined under Section 3 (l) of the DPA nor as information that may enable identity fraud.
+In this case, the account balance and account number of the dummy account were the only compromised personal information as a result of the breach.[^40] These are not considered as sensitive personal information as defined under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]] nor as information that may enable identity fraud.
 
 In fact, the account number and balance of the dummy account, absent any accompanying information, may not be considered personal information since it does not specifically point to the identity of a specific person. Thus, the first requisite is not present.
 

@@ -51,10 +51,10 @@ Lawful criteria for processing of COVID-19 test
 results, provided by law and regulation; limitations
 on disclosure
 
-Under the Data Privacy Act of 2012 (DPA),[^2] the processing of personal data shall only be
+Under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA),[^2] the processing of personal data shall only be
 allowed under certain conditions provided in Sections 12 and 13 depending on whether the
 information involved is classified as personal information or sensitive personal information.
-In addition, the Section 18 (b) of the Implementing Rules and Regulations (IRR) of the DPA
+In addition, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 (b) of the Implementing Rules and Regulations]] (IRR) of the DPA
 also requires that the processing of personal data shall be allowed subject to adherence to the
 principles of transparency, legitimate purpose, and proportionality. Transparency requires
 that the data subjects are informed of the details of the processing of their personal data, such
@@ -65,7 +65,7 @@ contrary to law, morals, or public policy. Finally, proportionality calls for th
 personal information shall be adequate, relevant, suitable, necessary, and not excessive in
 relation to a declared and specified purpose.
 
-In the case of COVID-19 contact tracing, we stated in NPC Advisory Opinion No. 2020-022[^3] that
+In the case of COVID-19 contact tracing, we stated in [[advisory-opinions/2020/advisory-opinion-no-2020-022-public-disclosure-of-identities-of-covid-patients-for-contact-tracing|NPC Advisory Opinion No. 2020-022]][^3] that
 the processing of any personal data, including the test results, is based on law and regulation,
 viz.:
 
@@ -104,7 +104,7 @@ prohibited.
       Surveillance and Response, which contains a similar provision under Section VI (D) (2) thereof
       on the Specific Guidelines on Use and Disclosure of Health Information.
 
-We also stated in NPC Circular No. 2021-02 that the disclosure of personal data in cases of
+We also stated in [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|NPC Circular No. 2021-02]] that the disclosure of personal data in cases of
 contact tracing “shall be limited to public health authorities, such as the DOH and its
 authorized partner agencies, LGUs, or other lawfully authorized entities, officers, or
 personnel, and must only be for the purpose of responding to the public health emergency.”[^4]

@@ -78,7 +78,7 @@ Respondents claimed that no breach of data privacy was committed as the informat
 
 In addition, Respondents argued that the Complaint should not have been entertained. They claim that the Complaint was filed in 31 January 2019, seven (7) months and twenty-four (24) days after Complainant’s last communication was transmitted to Respondents. Such act failed to conform to exhaustion of remedies under Section 4 (c) of NPC Circular No. 16-04.[^20]
 
-Respondents stressed that the training directive is evidence that the training to be attended has been authorized by the office and obligates the employee to attend. It contains the name and position of the personnel, details of the training and the required submission. Respondents claims that it does not contain sensitive personal information as defined by Section 3 (l) of the DPA.[^21]
+Respondents stressed that the training directive is evidence that the training to be attended has been authorized by the office and obligates the employee to attend. It contains the name and position of the personnel, details of the training and the required submission. Respondents claims that it does not contain sensitive personal information as defined by [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]].[^21]
 
 On 23 July 2019, Complainant filed her Reply dated 18 July 2019 wherein she prayed that such Reply be given due credence and consideration and the reliefs prayed for in the Complaint be granted.
 
@@ -92,7 +92,7 @@ Third, Complainant refutes that the validation and verification if a training pa
 
 Fourth, Complainant stressed that the Commission may accept complaints even after the lapse of six (6) months period from the occurrence of the claimed privacy violation or personal data breach, at its discretion and expounded that the violation of DPA applies to all types of personal information.[^26]
 
-Fifth, Complainant argued that violation of the DPA does not only involve sensitive personal information. The law applies to all types of personal information as provided by Section 4 of the DPA.[^27]
+Fifth, Complainant argued that violation of the DPA does not only involve sensitive personal information. The law applies to all types of personal information as provided by [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]].[^27]
 
 On 05 August 2019, the Commission received Respondents’ Rejoinder to the Reply of the Complainant wherein Respondents’ reiterated its prayer for dismissal for lack of cause of action.[^28]
 
@@ -106,7 +106,7 @@ Finally, Respondents states that there was no processing of personal information
 
 ### Issue
 
-1. Whether the Complaint should be dismissed for being filed out of time as provided under Section 4 (c) of the NPC Circular No. 16-04; and
+1. Whether the Complaint should be dismissed for being filed out of time as provided under Section 4 (c) of the [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]]; and
 
 2. Whether Complainant was able to prove that Respondents committed a violation of the DPA.
 
@@ -128,7 +128,7 @@ As provided by Section 4 of NPC Circular No. 16-04 or the NPC Rules of Procedure
 
 The failure to comply with the requirements of this Section shall cause the matter to be evaluated as a request to the National Privacy Commission for an advisory opinion, and for the National Privacy Commission to take such further action, as necessary. The National Privacy Commission may waive any or all of the requirements of this Section, at its discretion, upon good cause shown, or if the complaint involves a serious violation or breach of the Data Privacy Act, taking into account the risk of harm to the affected data subject. (Emphasis Supplied)
 
-Likewise, Section 2, Rule II of the NPC Circular No. 2021-01 or the NPC 2021 Rules of Procedure, has further provided circumstances wherein the Commission should take into consideration if it wishes to exercise such waiver, viz:
+Likewise, Section 2, Rule II of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] or the NPC 2021 Rules of Procedure, has further provided circumstances wherein the Commission should take into consideration if it wishes to exercise such waiver, viz:
 
 > **SECTION 2. Exhaustion of remedies.** – No complaint shall be given due course unless it has been sufficiently established and proven that:
 >
@@ -142,7 +142,7 @@ Likewise, Section 2, Rule II of the NPC Circular No. 2021-01 or the NPC 2021 Rul
 >
 > iii. the action of the respondent is patently illegal.
 
-In addition, as held by the Commission in the case of NPC 19-030 and NPC 19-132,[^33] it has been emphasized that despite the failure to exhaust all remedies under Section 4 of NPC Circular No. 16-04, the Commission has its discretionary power to waive the requirements under the said Section grounded on good cause shown, or if the complaint involves a serious violation or breach of the DPA, taking into account the risk of harm to complainant.
+In addition, as held by the Commission in the case of [[decisions/2021/npc-19-030-and-npc-19-132-cl-vs-ddz-and-dm-vs-ddz|NPC 19-030]] and NPC 19-132,[^33] it has been emphasized that despite the failure to exhaust all remedies under Section 4 of NPC Circular No. 16-04, the Commission has its discretionary power to waive the requirements under the said Section grounded on good cause shown, or if the complaint involves a serious violation or breach of the DPA, taking into account the risk of harm to complainant.
 
 Moreover, in NPC Case No. 19-528, the Commission states the purpose of Section 4 of NPC Circular No. 16-04 which is to prevent the unduly clogging of the Commission’s docket and avoid instances of dismissing a case based on mere technicalities.[^34]
 
@@ -186,7 +186,7 @@ In consideration of the foregoing, the Commission cannot merely rely on the alle
 
 #### Respondents Were Acting Within the Bounds of Their Official Function
 
-Consent is not the only lawful basis for processing of personal information.[^41] As provided by Section 12 (f) of the DPA, one of the criteria to lawful processing of personal information is if the processing is necessary for the purposes of the legitimate interests pursued by the personal information controller, viz:
+Consent is not the only lawful basis for processing of personal information.[^41] As provided by [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]], one of the criteria to lawful processing of personal information is if the processing is necessary for the purposes of the legitimate interests pursued by the personal information controller, viz:
 
 > **SEC. 12. Criteria for Lawful Processing of Personal Information.** – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >

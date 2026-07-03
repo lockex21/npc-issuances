@@ -115,7 +115,7 @@ Moreover, as stated in Unilever's Compliance, they have not received any reports
 
 The Commission stresses that as PIC, Unilever must employ all necessary and reasonable means to ensure the security of personal information under its custody and control.[^21]
 
-Section 20 (a) of the Data Privacy Act of 2012 provides:
+[[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) of the Data Privacy Act of 2012]] provides:
 
 > Sec. 20. *Security of Personal Information.*
 > (a) The personal information controller must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^22]

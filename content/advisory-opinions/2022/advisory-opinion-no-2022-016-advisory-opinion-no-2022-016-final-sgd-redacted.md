@@ -64,13 +64,13 @@ The collection and disclosure of personal information[^5] of Muslim OFWs constit
 
 Thus, the NCMF must justify to the Subject Departments that its processing falls within the ambit of the foregoing provisions. Thereafter, the Subject Departments may disclose such personal information to NCMF but subject to the general data privacy principles.[^7]
 
-On the other hand, if sensitive personal information is involved, NCMF’s processing thereof may be permitted under Section 13 (b) of the DPA, viz.:
+On the other hand, if sensitive personal information is involved, NCMF’s processing thereof may be permitted under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b) of the DPA]], viz.:
 
 > SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases: x x x
 >
 > (b) The processing of the same is provided for by existing laws and regulations: Provided, That such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: Provided, further, That the consent of the data subjects are not required by law or regulation permitting the processing of the sensitive personal information or the privileged information; x x x
 
-You cited in your letter Section 12 (f) of the DPA on legitimate interest as a possible basis for lawful processing of personal data:
+You cited in your letter [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] on legitimate interest as a possible basis for lawful processing of personal data:
 
 > (f) The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
 
@@ -84,7 +84,7 @@ Thus, while NCMF may rely on Section 12 (c), (e), and Section 13 (b) for the pro
 
 #### Adherence to the General Data Privacy Principles; Transparency; Proportionality; Privacy Notice
 
-Section 11 of the DPA and Section 18 of its Implementing Rules and Regulations (“IRR”) provide that personal information controllers (“PICs”), such as the NCMF and the Subject Departments, are required to adhere to the general data privacy principles of transparency, legitimate purpose, and proportionality.
+[[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] and Section 18 of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (“IRR”) provide that personal information controllers (“PICs”), such as the NCMF and the Subject Departments, are required to adhere to the general data privacy principles of transparency, legitimate purpose, and proportionality.
 
 The principle of transparency refers to the awareness of the data subjects about the nature, purpose, and extent of the processing of their personal information, including recipients of their personal data. Hence, the Subject Departments must first inform the Muslim OFWs that their personal information will be shared with the NCMF, as well as the nature, purpose, and extent of the processing. If the NCMF determines that its purpose can only be fulfilled by processing the personal information of Muslim OFWs, it should not collect personal information over and beyond that which is required to achieve the declared purpose.
 

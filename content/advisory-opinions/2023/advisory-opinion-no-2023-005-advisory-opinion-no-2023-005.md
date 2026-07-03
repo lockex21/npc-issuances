@@ -45,8 +45,7 @@ employees which shall then be used for policy formulation.
 
 In view of the above, your office seeks guidance on the following:
 
-   1.) Whether the proposed online inventory system is feasible and in line with the Data
-        Privacy Act of 2012[^3] (DPA);
+   1.) Whether the proposed online inventory system is feasible and in line with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^3] (DPA);
     2.) On the privacy-related issues and concerns that may arise out of such system; and
         in this undertaking.
 
@@ -179,7 +178,7 @@ The respective barangays may also take into further consideration the conduct of
 assessment (PIA) which shall, among others, assist the barangays in the identification,
 assessment, evaluation and management of the risks involved in the processing of personal data
 through the use of the online inventory system.[^12] For a more comprehensive discussion on the
-conduct of a PIA, you may refer to NPC Advisory No. 2017-03 available at
+conduct of a PIA, you may refer to [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]] available at
 https://www.privacy.gov.ph/wp-content/files/attachments/nwsltr/NPC_AdvisoryNo.2017-
 03.pdf.
 
@@ -208,7 +207,7 @@ to possible findings of non-compliance or violations under the DPA.
 
 Considering the foregoing discussions, the feasibility and compliance of the proposed online
 inventory system would depend largely on the observance by the barangays and the DILG of the
-requirements of the DPA, its IRR and other NPC issuances and the above recommendations in
+requirements of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and other NPC issuances and the above recommendations in
 the processing of personal data pursuant to DILG MC 2022-02.
 
 Please be advised that this Advisory Opinion was rendered based solely on the information you
@@ -233,7 +232,7 @@ Director IV, Privacy Policy Office
 [^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(a) (2016).
 [^8]: Id. § 11 (d).
 [^9]: Data Privacy Act of 2012, § 11 (d).
-[^10]: See: National Privacy Commission, NPC Advisory Opinion No. 2022-005 (24 February 2022).
+[^10]: See: National Privacy Commission, [[advisory-opinions/2022/advisory-opinion-no-2022-005-advisory-opinion-no-2022-005-redacted|NPC Advisory Opinion No. 2022-005]] (24 February 2022).
 [^11]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 25 (2016).
 [^12]: NPC Advisory No. 2017-03.
 [^13]: Data Privacy Act of 2012, § 11 (f).

@@ -61,7 +61,7 @@ For guidance, to determine if there is "legitimate interest" in processing perso
 
 3. Balancing test - The fundamental rights and freedoms of data subjects must not be overridden by the legitimate interests of the PICs or third party, considering the likely impact of the processing on the data subjects.
 
-Likewise, even if we consider such personal information as being outside of the scope of the DPA as the same will be processed for research, we reiterate NPC Advisory Opinion No. 2019-017,[^7] which discussed the implications of the DPA to the conduct of academic research vis-à-vis access to documents and records in the custody of government, to wit:
+Likewise, even if we consider such personal information as being outside of the scope of the DPA as the same will be processed for research, we reiterate [[advisory-opinions/2019/advisory-opinion-no-2019-017-npc-advisory-opinion-no-2019-017|NPC Advisory Opinion No. 2019-017]],[^7] which discussed the implications of the DPA to the conduct of academic research vis-à-vis access to documents and records in the custody of government, to wit:
 
 > "It is the intent of the DPA to grant processing of personal information for research purposes with much flexibility. It recognizes that research is critical to nation-building and serves the interest of the public.
 >
@@ -73,7 +73,7 @@ Likewise, even if we consider such personal information as being outside of the 
 
 #### Data subject's rights; limitation on rights; non-applicability
 
-Section 19 of the DPA provides for the non-applicability of the rights of data subjects where the processing of personal information is only for the needs of scientific and statistical research and, on the basis of such, no activities are carried out and no decisions are taken regarding the data subject. The last portion of the provision means that the personal information processed for research shall not be used as a basis for taking measures or making any decisions regarding any particular individual.[^8]
+[[laws/data-privacy-act-of-2012#section-19-non-applicability|Section 19 of the DPA]] provides for the non-applicability of the rights of data subjects where the processing of personal information is only for the needs of scientific and statistical research and, on the basis of such, no activities are carried out and no decisions are taken regarding the data subject. The last portion of the provision means that the personal information processed for research shall not be used as a basis for taking measures or making any decisions regarding any particular individual.[^8]
 
 Nevertheless, we wish to emphasize that any limitations on the rights of the data subject shall only be to the minimum extent necessary to achieve the purpose of said research.[^9]
 

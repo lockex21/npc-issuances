@@ -102,11 +102,11 @@ Lastly, SBG claimed that she is entitled to damages "for the baseless and unwarr
 
 ### Issue
 
-Whether SBG is liable for Unauthorized Processing of Personal Information or Sensitive Personal Information under Section 25 of the DPA.
+Whether SBG is liable for Unauthorized Processing of Personal Information or Sensitive Personal Information under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].
 
 ### Discussion
 
-The Commission finds that SBG is not liable for Unauthorized Processing of Personal Information or Sensitive Personal Information under Section 25 of the DPA. Her processing of the Complainants' personal information was lawful in accordance with Section 12 (f) of the DPA.
+The Commission finds that SBG is not liable for Unauthorized Processing of Personal Information or Sensitive Personal Information under Section 25 of the DPA. Her processing of the Complainants' personal information was lawful in accordance with [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]].
 
 To determine whether there is an Unauthorized Processing of Personal Information or Sensitive Personal Information, the following requisites must concur:
 
@@ -114,7 +114,7 @@ To determine whether there is an Unauthorized Processing of Personal Information
 2. The information processed was personal information or sensitive personal information; and
 3. The processing was done without the consent of the data subject, or without being authorized under the DPA or any existing law.[^42]
 
-As to the first requisite, SBG did not refute the allegation that she processed the personal information of the Complainants. While it is not clear who really accessed the accounts of the members of the Cooperative, it is undisputed that SBG obtained a printed copy of the ledgers and account transactions of some of the members of the Cooperative and used the documents for the audit investigation.[^43] The acquisition and use of the printed copy of the ledgers and account transactions are within the definition of "processing" under Section 3 (j) of the DPA:
+As to the first requisite, SBG did not refute the allegation that she processed the personal information of the Complainants. While it is not clear who really accessed the accounts of the members of the Cooperative, it is undisputed that SBG obtained a printed copy of the ledgers and account transactions of some of the members of the Cooperative and used the documents for the audit investigation.[^43] The acquisition and use of the printed copy of the ledgers and account transactions are within the definition of "processing" under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (j) of the DPA]]:
 
 > Section 3. Definition of Terms. Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -244,7 +244,7 @@ National Privacy Commission
 [^46]: See Comment, 10 December 2021, Annex F, in GBA v. SBG and LPL v. SBG, NPC 20-317 and 20-318 (NPC 2022).
 [^47]: Complaints-Assisted Form, 01 December 2020, in GBA v. SBG, NPC 20-317 (NPC 2022); Complaints-Assisted Form, 03 December 2020, in LPL v. SBG, NPC 20-318 (NPC 2022).
 [^48]: Data Privacy Act of 2012, § 12 (f).
-[^49]: NPC 21-167, 22 September 2022, at 9 (NPC 2022) (unreported).
+[^49]: [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]], 22 September 2022, at 9 (NPC 2022) (unreported).
 [^50]: See Comment, 10 December 2021, Annex G, in GBA v. SBG and LPL v. SBG, NPC 20-317 and 20-318 (NPC 2021).
 [^51]: See Id. Annex H.
 [^52]: Memorandum for the Respondent, 27 May 2022, at 11, in GBA v. SBG and LPL v. SBG, NPC 20-317 and 20-318 (NPC 2022).

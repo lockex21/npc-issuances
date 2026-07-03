@@ -12,7 +12,7 @@ draft: false
 - Reference: Advisory Opinion No. 2018-017
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/AdOpNo.2018-017.pdf
 - Issue date: 04/12/2018
-- Tags: trade secrets; privileged communication; scope of DPA
+- Tags: trade secrets; privileged communication; scope of [[laws/data-privacy-act-of-2012|DPA]]
 - OCR used during extraction: no
 
 ## Text
@@ -57,7 +57,7 @@ Privacy Commissioner and Chairman
 
 [^3]: *Id.*, citations omitted.
 
-[^4]: Implementing Rules and Regulations (IRR) of the Data Privacy Act of 2012, §2.
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act of 2012, §2.
 
 [^5]: *Id.*, §3(q).
 

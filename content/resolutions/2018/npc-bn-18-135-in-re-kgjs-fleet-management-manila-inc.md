@@ -114,7 +114,7 @@ KGJS also notified the four (4) employees through email whose data may have been
 
 Lastly, KGJS modified its website to ensure that it does not appear in search results on any third-party websites.[^49]
 
-Based on the foregoing, the actions taken by KGJS following the incident allowed it to enhance its security measures and are sufficient to close the case in accordance with Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) and NPC Circular 16-03.
+Based on the foregoing, the actions taken by KGJS following the incident allowed it to enhance its security measures and are sufficient to close the case in accordance with [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA) and NPC Circular 16-03.
 
 **WHEREFORE**, premises considered, this Commission resolves that the matter of NPC BN 18-135 In re: KGJS Fleet Management Manila, Inc. is considered **CLOSED**.
 

@@ -46,7 +46,7 @@ x----------------------------------------x
 
 AGUIRRE, D.P.C. :
 
-This Resolution refers to the Compliance Report dated 03 February 2020[^1] submitted by Respondent Globe Telecom, Inc. involving a complaint filed by Complainant JCR for alleged violations of Republic Act 10173 (“Data Privacy Act”).
+This Resolution refers to the Compliance Report dated 03 February 2020[^1] submitted by Respondent Globe Telecom, Inc. involving a complaint filed by Complainant JCR for alleged violations of Republic Act 10173 (“[[laws/data-privacy-act-of-2012|Data Privacy Act]]”).
 
 ### Facts
 
@@ -68,7 +68,7 @@ Nonetheless, Respondent also stated that pursuant to the Service Level Agreement
 
 ### Discussion
 
-This Commission hereby considers the instant case as closed. Section 28 of the Implementing Rules and Regulations of the Data Privacy Act of 2012 provides for the guidelines for technical security measures:
+This Commission hereby considers the instant case as closed. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|Section 28 of the Implementing Rules and Regulations]] of the Data Privacy Act of 2012 provides for the guidelines for technical security measures:
 
 > Where appropriate, personal information controllers and personal information processors shall adopt and establish the following technical security measures:
 >

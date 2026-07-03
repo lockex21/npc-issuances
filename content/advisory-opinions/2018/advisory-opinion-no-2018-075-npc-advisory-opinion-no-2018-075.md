@@ -31,7 +31,7 @@ of Barangay Clearance for Business Permit and the renewal thereof.
 ### Discussion
 
 As we understand, you are inquiring whether the Form complies with the provisions of the
-Data Privacy Act of 2012 (DPA).[^2] Particularly, you raised the following questions:
+[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^2] Particularly, you raised the following questions:
 
    1. Whether the Form is valid when it does not have a clear provision stating the
                specific purpose of collecting the information;
@@ -167,7 +167,7 @@ Privacy Commissioner and Chairman
 
 [^5]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (a) (2016).
 
-[^6]: IRR of DPA, § 18 (b) (2016).
+[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of DPA, § 18 (b) (2016).
 
 [^7]: See: An Act Providing For A Local Government Code Of 1991 [Local Government Code of 1991], Republic Act No. 7160 § 16 (1991).
 

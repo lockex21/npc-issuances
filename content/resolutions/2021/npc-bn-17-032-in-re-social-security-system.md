@@ -44,7 +44,7 @@ The E-1 Form contained the following personal information of MSA: (1) Name of SS
 
 To address the data breach that had occurred, FL, SSS Malolos Branch Head, called the attention of FCPJ and required him to delete the post. On 03 November 2017, FL and FCPJ went to the residence of MSA to explain the incident and apologize.
 
-To prevent further occurrence of the breach, GS, the Data Protection Officer (DPO) of SSS and members of the Data Breach Response Team requested the assistance of the Facebook Page administrators to confirm the deletion of the post. Also, the administrators were requested to become advocates of data privacy and exercise vigilance in ensuring that their page is in compliance with the Data Privacy Act of 2012 (DPA).
+To prevent further occurrence of the breach, GS, the Data Protection Officer (DPO) of SSS and members of the Data Breach Response Team requested the assistance of the Facebook Page administrators to confirm the deletion of the post. Also, the administrators were requested to become advocates of data privacy and exercise vigilance in ensuring that their page is in compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 The affected data subject did not file any complaint in relation to the said breach.
 
@@ -82,7 +82,7 @@ Furthermore, this Commission finds that the SSS through their Malolos Branch Hea
 
 In terms of the remediation measures, SSS has implemented sufficient measures, such as providing proof of confirmation by the administrators of the Malayang Kawani ng SSS Facebook page of the deletion of the post, as well as their compliance to the Notification Requirement through the timely submission of the Data Breach Notification Report before this Commission.[^5]
 
-In addition, to improve their data breach management and to prevent similar incidents in the future, SSS conducted a series of seminars to acquaint their personnel with the DPA, its IRR, and other related issuances of this Commission.
+In addition, to improve their data breach management and to prevent similar incidents in the future, SSS conducted a series of seminars to acquaint their personnel with the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other related issuances of this Commission.
 
 Through careful review and evaluation of the contents of the report submitted, this Commission finds that the abovementioned submission and actions implemented by SSS are adequate, sufficient, and compliant to its order indicated in its Resolution dated 15 August 2019.
 

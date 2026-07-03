@@ -47,7 +47,7 @@ On 09 June 2021, the CID submitted its FFR against JuanHand following numerous r
 
 initiated a sua sponte investigation against JuanHand[^2] pursuant to
 
-Section 7 of the DPA that mandates the Commission to institute investigations in cases it deems appropriate[^3] and NPC Circular 21-01 (2021 Rules of Procedure) that permits the NPC to initiate sua sponte investigations and file complaints for DPA violations.[^4] The FFR serves as the complaint, with the CID as the Nominal Complainant, in sua sponte investigations.[^5]
+[[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] that mandates the Commission to institute investigations in cases it deems appropriate[^3] and NPC Circular 21-01 (2021 Rules of Procedure) that permits the NPC to initiate sua sponte investigations and file complaints for DPA violations.[^4] The FFR serves as the complaint, with the CID as the Nominal Complainant, in sua sponte investigations.[^5]
 
 In the CID’s technical investigation, it downloaded JuanHand installer version v.3.7.1 from Google Play Store and simulated JuanHand’s registration and loan application processes.[^6]
 
@@ -307,7 +307,7 @@ DPA and the Commission’s issuances.
 
 First, the CID opined that the undisclosed permissions in JuanHand’s
 
-app violated Section 16 of the DPA. 21  It found that:
+app violated [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]]. 21  It found that:
 
 The capabilities of JuanHand’s system to read the borrower’s
 
@@ -510,9 +510,7 @@ Juanhand s ervice. The permanent right to use the information
 
 provided by the borrower free-of-charge for the purpose of using
 
-JuanHand service is in violation of Rule IV of the Implementing
-
-Rules and Regulations of the Data Privacy Act of 2012 which
+JuanHand service is in violation of Rule IV of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012 which
 
 states that the personal data should not be retained longer than
 
@@ -526,9 +524,7 @@ The provision in the Service Agreement which provides that:
 
 publish the personal information of such user for the purpose of
 
-collecting debt. Juanhand shall not be held liable. ’ violates NPC
-
-Circular No. 20 -01 specifically Section 3, paragraph D4 of the
+collecting debt. Juanhand shall not be held liable. ’ violates NPC Circular No. 20 -01 specifically Section 3, paragraph D4 of the
 
 Circular which states:
 
@@ -559,7 +555,7 @@ undisclosed permissions. 43  The CID considered these acts to be
 
 unauthorized processing of personal informatio n in violation of
 
-Section 25 of the DPA since JuanHand processed personal information
+[[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]] since JuanHand processed personal information
 
 without valid consent or authority under the DPA and other existing
 
@@ -569,7 +565,7 @@ After having alleged violations of the DPA, the CID argued that
 
 JuanHand ’s responsible officers should be held liable pursuant to
 
-Section 34 of the DPA .45
+[[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the DPA]] .45
 
 Lastly, the CID interposed that:
 
@@ -1573,9 +1569,7 @@ Thus, the data subjects are uninformed that his or her
 
 confidential personal information including that of his or her
 
-contacts have been processed in violation of Section 16 of the
-
-DPA. 160
+contacts have been processed in violation of Section 16 of the DPA. 160
 
 . . .
 
@@ -1601,9 +1595,7 @@ permission did not acquire the consent of the data subject. Thus,
 
 the processing of personal data by JuanHand did not adhere to
 
-Sections 12 and 13 of the DPA, violating therefore Section 25 of
-
-the DPA being unauthorized processing of personal
+Sections 12 and 13 of the DPA, violating therefore Section 25 of the DPA being unauthorized processing of personal
 
 information. 162
 
@@ -1911,9 +1903,7 @@ and updates to the same.
 
 immediately made efforts to rectify the same. 180
 
-Th us, the Commission finds that JuanHand violated Section 25 of the
-
-DPA or Unauthorized Processing of Personal or Sensitive Personal
+Th us, the Commission finds that JuanHand violated Section 25 of the DPA or Unauthorized Processing of Personal or Sensitive Personal
 
 Information .
 
@@ -1945,7 +1935,7 @@ events, without their consent.
 
 On the first requisite, JuanHand processed information of its data
 
-subjects. Section 3 of the DPA defines processing as follows:
+subjects. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] defines processing as follows:
 
 (j) Processing refers to any operation or any set of operations
 
@@ -2393,13 +2383,9 @@ any existing laws to process the personal information of its data
 
 subjects in relation to the undisclosed permissions.
 
-Taking all the foregoing into consideration, JuanHand violated Section
+Taking all the foregoing into consideration, JuanHand violated Section 25 of the DPA .
 
-25 of the DPA .
-
-II.  Liability of responsible officers based on Section 34 of the
-
-DPA.
+II.  Liability of responsible officers based on Section 34 of the DPA.
 
 The DPA imposes criminal penalties on specific acts , which are
 
@@ -2767,9 +2753,7 @@ Given the foregoing, the Commission finds that there is no substantial
 
 evidence proving that JuanHand’s Corporate Officers and Directors
 
-committed any acts that reasonably caused its violation of Section 25
-
-of the DPA. In the absence of substantial evidence, JuanHand’s
+committed any acts that reasonably caused its violation of Section 25 of the DPA. In the absence of substantial evidence, JuanHand’s
 
 Corporate Officers and Directors cannot be held liable based on
 
@@ -3568,7 +3552,7 @@ GENERAL RECORDS UNIT
 
 [^180]: National Bureau of Investigation v. Conrado M. Najera, G.R. No. 237522 (2020). Emphasis supplied.
 
-[^181]: NPC 19-465, 03 March 2022, at 10 (NPC 2022) (unreported). Emphasis supplied.
+[^181]: [[decisions/2022/npc-19-465-gjj-v-easy-peso|NPC 19-465]], 03 March 2022, at 10 (NPC 2022) (unreported). Emphasis supplied.
 
 [^182]: Reply and Explanation to the National Privacy Commission Enforcement Division Letter dated 16 September 2021, 08 October 2021, at 4, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
 
@@ -3620,7 +3604,7 @@ GENERAL RECORDS UNIT
 
 [^206]: In Re: FLI Operating ABC Online Lending Application, NPC 19-910, 17 December 2020, at 35, available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-910-In-re-FLI-Decision-LYA-Final-pseudonymized-17Dec2020-.pdf (last accessed 30 May 2022).
 
-[^207]: NPC 19-134, 10 December 2021, at 12 (NPC 2021) (unreported).
+[^207]: [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021, at 12 (NPC 2021) (unreported).
 
 [^208]: Data Privacy Act of 2012, § 3 (j).
 

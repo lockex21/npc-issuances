@@ -23,13 +23,13 @@ RE: CONSENT OF DATA SUBJECT PRIOR TO RELEASE OF SCHOOL RECORDS BY THE LYCEUM OF 
 
 Dear [Redacted],
 
-This pertains to your inquiry received by the Privacy Policy Office of the National Privacy Commission (NPC) on 25 January 2018, which sought to clarify whether the regulation of the University Registrar of the Lyceum of the Philippines (LPU) on the release of school records is in consonance with the provisions of Republic Act No. 10173[^1], also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR)[^2] and relevant issuances.
+This pertains to your inquiry received by the Privacy Policy Office of the National Privacy Commission (NPC) on 25 January 2018, which sought to clarify whether the regulation of the University Registrar of the Lyceum of the Philippines (LPU) on the release of school records is in consonance with the provisions of Republic Act No. 10173[^1], also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^2] and relevant issuances.
 
 In your letter, you stated that you have requested information regarding your biological father from the LPU Registrar and the Alumni Affairs Office, specifically the following information: a) middle name; b) last registered address; and c) parents’ names. We understand that you will use these information in relation to your personal search of your father whom you have not seen since you were a child.
 
 ### Discussion
 
-First and foremost, LPU, as an educational institution, is considered as a personal information controller[^3] (PIC), processing[^4] personal information[^5] of its students, employees, and alumni, thus, is covered by the law and under the jurisdiction of the NPC. The information that you requested are well within the definition of personal information in Section 3 of the DPA and are then subject to its rules and regulations.
+First and foremost, LPU, as an educational institution, is considered as a personal information controller[^3] (PIC), processing[^4] personal information[^5] of its students, employees, and alumni, thus, is covered by the law and under the jurisdiction of the NPC. The information that you requested are well within the definition of personal information in [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] and are then subject to its rules and regulations.
 
 As a PIC, LPU is bound to implement reasonable and appropriate organizational, physical, and technical measures to protect the personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^6] It is accountable for any personal information under its control and custody, including those transferred to a third party.[^7]
 

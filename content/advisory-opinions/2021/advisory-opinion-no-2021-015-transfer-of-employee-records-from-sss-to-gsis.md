@@ -94,7 +94,7 @@ You now seek guidance on the following queries:
 
 #### Processing of personal information in compliance with a legal obligation
 
-Under Section 12 (c) of the Data Privacy Act of 2012, processing of personal information is allowed
+Under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the Data Privacy Act of 2012]], processing of personal information is allowed
 when it is necessary for compliance with a legal obligation to which the personal information
 controller is subject, while Section 13 (b) allows the processing of sensitive personal information
 when the same is provided for by existing laws and regulations.
@@ -149,4 +149,4 @@ OIC-Director IV, Privacy Policy Office
 [^4]: Duty Free Philippines vs. Mojica, 471 SCRA 776 (2005).
 [^5]: An Act to Create and Establish a “Government Service Insurance System,” To Provide for Its Administration, And to Appropriate the Necessary Funds Therefor [Government Service Insurance Act], Commonwealth Act No. 186 (1936).
 [^6]: An Act Amending Presidential Decree No. 1146, As Amended, Expanding and Increasing the Coverage and Benefits of The Government Service Insurance System, Instituting Reforms Therein and For Other Purposes [The Government Service Insurance Act of 1977], Republic Act No. 8291 (1997).
-[^7]: See Section 11 of the DPA and Section 18 (c) of the Implementing Rules and Regulation of the Data Privacy Act of 2012.
+[^7]: See [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] and Section 18 (c) of the Implementing Rules and Regulation of the Data Privacy Act of 2012.

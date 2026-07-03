@@ -40,7 +40,7 @@ You now ask whether a registered person is not entitled to withdraw consent as w
 
 The DPA sets the limits of personal data processing, including the lawful bases of processing and the rights of the data subjects.
 
-Involved in this inquiry are two (2) data subject's rights: 1) the right to object; and 2) right to erasure or blocking. The "right to withdraw consent" you mentioned, stems from the data subject's right to object as provided by Section 16 (e) of the DPA[^5] and expounded further by Section 34 (b) of the Implementing Rules and Regulations of the Data Privacy Act of 2012 (IRR),[^6] which respectively state:
+Involved in this inquiry are two (2) data subject's rights: 1) the right to object; and 2) right to erasure or blocking. The "right to withdraw consent" you mentioned, stems from the data subject's right to object as provided by [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (e) of the DPA]][^5] and expounded further by [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 (b) of the Implementing Rules and Regulations]] of the Data Privacy Act of 2012 (IRR),[^6] which respectively state:
 
 > SEC. 16. Rights of the Data Subject. – The data subject is entitled to:
 >
@@ -68,7 +68,7 @@ Since it is the law and not consent that is the basis for processing under the P
 
 #### Right to Erasure or Blocking Under the PhilSys
 
-On the other hand, the right to erasure or blocking has its own limitations as well. Section 34 (e) of the DPA's IRR enumerates the instances when the right to erasure may be exercised:
+On the other hand, the right to erasure or blocking has its own limitations as well. [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 (e) of the DPA]]'s IRR enumerates the instances when the right to erasure may be exercised:
 
 > Section 34. Rights of the Data Subject. The data subject is entitled to the following rights:
 >
@@ -111,7 +111,7 @@ We emphasize that deactivation is not equivalent to deletion in the system. RA 1
 
 Finally, we take this opportunity to discuss your position that if the PRO resolves to anonymize the data, the DPO may then validly deny the request for deletion of the registrant considering that anonymized data is not considered personal data. We respectfully submit that the same misapplies the concept of anonymization.
 
-In Advisory Opinion No. 2018-068, the Commission discussed anonymization at length, viz:
+In [[advisory-opinions/2018/advisory-opinion-no-2018-068-v1-redacted-advisory-opinion-no-2018-068|Advisory Opinion No. 2018-068]], the Commission discussed anonymization at length, viz:
 
 > Information is anonymous when such information "does not relate to an identified or identifiable natural person or to personal data rendered anonymous in such a manner that the data subject is not or no longer identifiable."
 >

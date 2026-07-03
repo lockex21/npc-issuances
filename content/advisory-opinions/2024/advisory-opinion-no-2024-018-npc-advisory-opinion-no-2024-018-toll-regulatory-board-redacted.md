@@ -30,13 +30,13 @@ We respond to your request for an Advisory Opinion on the data privacy implicati
 
 In your letter, you state that you requested toll road operators to share their CCTV footage showing real-time traffic flow in order to implement the TRB's Tollway Surveillance Monitoring Information System (TSMIS) Project.
 
-However, one of the toll road operators (hereafter, the "Operator") declined the request reasoning that the DPA generally requires the consent of motorists before publishing images or data captured by their tollway CCTV systems. The Operator also cites Section 18 of the DPA's Implementing Rules and Regulations (IRR) which mandates that if alternative means are available to comply with data protection requirements without releasing personal data, those means should be prioritized.
+However, one of the toll road operators (hereafter, the "Operator") declined the request reasoning that the DPA generally requires the consent of motorists before publishing images or data captured by their tollway CCTV systems. The Operator also cites [[laws/data-privacy-act-of-2012#section-18-right-to-data-portability|Section 18 of the DPA]]'s Implementing Rules and Regulations (IRR) which mandates that if alternative means are available to comply with data protection requirements without releasing personal data, those means should be prioritized.
 
 The Operator further stated that they are already providing real-time traffic updates through TV and radio networks, as well as publishing updates on their Twitter account and their tollways app. Consequently, they believe that the requested "live feed" from their CCTV systems is unnecessary. Furthermore, they expressed their concern that live streaming of traffic from their CCTV systems via the proposed software (Discord, Skype, or Zoom) may lead to unauthorized processing and cybersecurity risks, as they do not have control over these software and any individuals with access to the stream could record or download the footage.
 
 In response, TRB argues that:
 
-1. TRB's request falls under Section 4(e) of the DPA and Section 5(d) of its IRR as a Special Case, since, by law, it has jurisdiction and power to regulate the operation and maintenance of toll facilities which includes the installation of CCTVs.
+1. TRB's request falls under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]] and Section 5(d) of its IRR as a Special Case, since, by law, it has jurisdiction and power to regulate the operation and maintenance of toll facilities which includes the installation of CCTVs.
 
 2. TRB will neither collect nor process personal information or personally identifiable information. TRB is merely requesting the toll operators to share real-time CCTV footage of traffic situations on the toll expressways, not the personal or identifiable information of motorists using the tollways.
 
@@ -69,7 +69,7 @@ Applying the definition provided by the DPA, plate numbers, on their own or with
 
 #### Scope of the DPA; Public Authority; Limitations on Data Subjects' Rights
 
-Generally, the DPA applies to the processing of all types of personal information and to any natural and juridical person involved in the processing of personal information. However, the DPA and its IRR provide a list of specified information which do not fall within its scope. Particularly, Section 5(d) of the IRR states that:
+Generally, the DPA applies to the processing of all types of personal information and to any natural and juridical person involved in the processing of personal information. However, the DPA and its IRR provide a list of specified information which do not fall within its scope. Particularly, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5(d) of the IRR]] states that:
 
 > *Section 5. Special Cases. The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:*
 >
@@ -105,7 +105,7 @@ Further, the TRB's request may also find support under Section 7 of NPC Circular
 >
 > > a) Upon determination of PICs that the requesting third party's needs outweigh those of the data subjects to whom the CCTV footage and images pertain, it may release information to such requesting third party.
 > >
-> > b) PICs must determine on a case-to-case basis if they will accede to such request taking into consideration the general principles of privacy, the rights and freedoms of the data subjects whose images are recorded by the CCTV systems, and a lawful basis for processing under Section 12 or Section 13 of the DPA.
+> > b) PICs must determine on a case-to-case basis if they will accede to such request taking into consideration the general principles of privacy, the rights and freedoms of the data subjects whose images are recorded by the CCTV systems, and a lawful basis for processing under Section 12 or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 Based on the foregoing, the Operator should consider TRB's regulatory function as an appropriate lawful basis under the DPA in allowing viewing access to live CCTV footage in its toll facilities.
 

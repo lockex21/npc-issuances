@@ -83,7 +83,7 @@ v. Screenshot of a Facebook post by a certain DN which reads, "Mugshot no more 2
 
 Complainant alleges that his concern was elevated by his sister, DCJ, to the barangay, but to no avail.[^17]
 
-In his prayer, Complainant referred to Section 59 of the Implementing Rules and Regulations of the Data Privacy Act, stating that "ANY PERSONAL INFORMATION CONTROLLER OR PERSONAL INFORMATION PROCESSOR, OR ANY OF ITS OFFICIALS, EMPLOYEES, OR AGENTS, WHO DISCLOSES TO A THIRD PARTY PERSONAL INFORMATION WITHOUT THE CONSENT OF THE DATA SUBJECT SHALL BE SUBJECT TO IMPRISONMENT AND FINE."[^18] Further, Complainant indicated that he prays for the initiation or institution of a criminal action.[^19]
+In his prayer, Complainant referred to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-59-unauthorized-disclosure|Section 59 of the Implementing Rules and Regulations]] of the Data Privacy Act, stating that "ANY PERSONAL INFORMATION CONTROLLER OR PERSONAL INFORMATION PROCESSOR, OR ANY OF ITS OFFICIALS, EMPLOYEES, OR AGENTS, WHO DISCLOSES TO A THIRD PARTY PERSONAL INFORMATION WITHOUT THE CONSENT OF THE DATA SUBJECT SHALL BE SUBJECT TO IMPRISONMENT AND FINE."[^18] Further, Complainant indicated that he prays for the initiation or institution of a criminal action.[^19]
 
 Subsequently, the Complaints and Investigation Division (CID) of the National Privacy Commission (NPC) issued an Order dated 11 September 2023 requiring the Respondent to file her Verified Comment within fifteen (15) calendar days from receipt.[^20] In the same Order, the parties were likewise required to virtually appear for a Preliminary Conference on 09 November 2023 and 01 February 2024 via Microsoft Teams.[^21]
 
@@ -113,7 +113,7 @@ On 24 November 2023, Complainant submitted his Memorandum stating that Responden
 
 > Respondent JCD illegally obtained private data stored in the Philippine National Police Station in the City of Naga, Cebu. The private data was only stored in such agency since it was a booking photograph taken when the Complainant was arrested in an unrelated case. Respondent should not have possessed the photograph to begin with unless otherwise she unlawfully accessed the files stored in the said Police Station. The fact that she actually possessed the photograph is a prima facie evidence that she illegally and without authority obtained the same by accessing the files limited only to PNP personnel in Naga Police Station.[^39]
 
-Complainant argued that the said act constitutes a violation of Section 29 of the DPA or Unauthorized Access or Intentional Breach because the Respondent, "without authority maliciously disclosed to the public by publicly posting the said mugshot in the social media platform Facebook through the account name 'XXX' to the detriment and damage of the [C]omplainant."[^40]
+Complainant argued that the said act constitutes a violation of [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Section 29 of the DPA]] or Unauthorized Access or Intentional Breach because the Respondent, "without authority maliciously disclosed to the public by publicly posting the said mugshot in the social media platform Facebook through the account name 'XXX' to the detriment and damage of the [C]omplainant."[^40]
 
 Finally, Complainant averred that he is adopting the pieces of evidence already attached to his Complaint.[^41]
 
@@ -141,7 +141,7 @@ The Commission dismisses the complaint for lack of substantial evidence.
 
 In her submissions, Respondent alleged that Complainant failed to exhaust administrative remedies because his complaint "has also not alleged and proved the justification to warrant the waiver of the requirement of prior exhaustion of remedies."[^48]
 
-Section 2, Rule II of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure) provides:
+Section 2, Rule II of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure) provides:
 
 > SECTION 2. Exhaustion of remedies. – No complaint shall be given due course unless it has been sufficiently established and proven that:
 >
@@ -295,7 +295,7 @@ GENERAL RECORDS UNIT
 [^55]: *Id.*
 [^56]: 2019 Amendment to the 1989 Revised Rules on Evidence, A.M. No. 19-08-15-SC, Rule 131, Section 1.
 [^57]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 29 (2012).
-[^58]: RGC v. JK Incorporated and Recovery Inc., NPC 21-054, Decision dated 22 September 2022, at p. 11.
+[^58]: RGC v. JK Incorporated and Recovery Inc., [[decisions/2022/npc-21-054-rgc-v-jk-incorporated-and-recovery-inc|NPC 21-054]], Decision dated 22 September 2022, at p. 11.
 [^59]: Complaints-Assisted Form dated 12 July 2023 of DCJ, at p. 4.
 [^60]: De Jesus v. Guerrero III, G.R. No. 171491, 04 September 2009.
 [^61]: Complaints-Assisted Form dated 12 July 2023 of DCJ, Annex "B."

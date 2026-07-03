@@ -45,7 +45,7 @@ natural persons by the government and private entities and individuals, within a
 the Philippines.
 
 The law likewise provides for the various criteria for processing personal data. Specifically in
-this scenario, Section 12 (e) of the DPA may be applicable. This provides for the processing of
+this scenario, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e) of the DPA]] may be applicable. This provides for the processing of
 personal information necessary to fulfill functions of a public authority which necessarily
 includes the processing of personal data for the fulfillment of its mandate.
 
@@ -138,4 +138,4 @@ OIC-Director IV, Privacy Policy Office
 [^4]: Id. § 13 (f).
 [^5]: Office of the President, Institutionalizing Permanent Units To Promote, Protect And Enforce Intellectual Property Rights (IPR) In Different Law Enforcement And Other Agencies Under The Coordination Of The National Committee On Intellectual Property Rights (NCIPR), Executive Order No. 736 [E.O. No. 736] (June 21, 2008).
 [^6]: E.O. No. 736, § 4.
-[^7]: See: National Privacy Commission, NPC Advisory Opinion No. 2019-046 (Dec. 17, 2019) citing NPC Advisory Opinion No. 2018-083 (Nov. 26, 2018).
+[^7]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-046-npc-advisory-opinion-no-2019-046|NPC Advisory Opinion No. 2019-046]] (Dec. 17, 2019) citing [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Nov. 26, 2018).

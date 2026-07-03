@@ -16,7 +16,7 @@ draft: false
 ---
 
 ## Source
-- Reference: CID BN 17-041
+- Reference: [[orders/2019/cid-bn-17-041-in-re-axa-life-juice-wrapped-ideas-inc|CID BN 17-041]]
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/CID-BN-17-041-2019.10.24-In-re-Breach-Notification-Report-of-AXA-Philippines-involving-Juice-and-Wrapped-Ideas-Inc.-Order.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: October 24, 2019

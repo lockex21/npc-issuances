@@ -65,7 +65,7 @@ Thus, Complainant prayed for the payment of damages, imposition of fine, and the
 
 Subsequently, the National Privacy Commission's (NPC) Complaints and Investigation Division (CID) issued an Order dated 09 March 2022 requiring the Respondent to file her Verified Comment within fifteen (15) calendar days from receipt of the said Order.[^10] In the same Order, the CID required the parties to appear virtually for preliminary conferences on 07 June 2022 and 05 July 2022 pursuant to Rule V of NPC Circular 2021-01.[^11]
 
-Accordingly, on 25 March 2022, Respondent submitted her Verified Comment dated 23 March 2022, arguing that the complaint filed by the Complainant before the Commission does not involve a privacy violation.[^12] In her Verified Comment, Respondent cited Section 13(f) of the DPA which states:
+Accordingly, on 25 March 2022, Respondent submitted her Verified Comment dated 23 March 2022, arguing that the complaint filed by the Complainant before the Commission does not involve a privacy violation.[^12] In her Verified Comment, Respondent cited [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]] which states:
 
 > SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
@@ -73,7 +73,7 @@ Accordingly, on 25 March 2022, Respondent submitted her Verified Comment dated 2
 >
 > (f) The processing concerns such personal information as is **necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority**.[^13]
 
-Moreover, Respondent cited Section 19 of the DPA which states:
+Moreover, Respondent cited [[laws/data-privacy-act-of-2012#section-19-non-applicability|Section 19 of the DPA]] which states:
 
 > SEC. 19. Non-Applicability. – The immediately preceding sections are not applicable if the processed personal information are used only for the needs of scientific and statistical research and, on the basis of such, no activities are carried out and no decisions are taken regarding the data subject: Provided, That the personal information shall be held under strict confidentiality and shall be used only for the declared purpose. Likewise, the immediately preceding sections are not applicable to **processing of personal information gathered for the purpose of investigations in relation to any criminal, administrative or tax liabilities of a data subject**.[^14]
 
@@ -135,7 +135,7 @@ Whether Respondent committed a violation of the DPA.
 
 ### Discussion
 
-The Commission finds that Respondent did not commit a violation of the DPA, thus, dismissing the case for lack of merit. Respondent has lawful basis under Section 13(f) in relation to Section 12(f) of the DPA to process the personal data involved in this case.
+The Commission finds that Respondent did not commit a violation of the DPA, thus, dismissing the case for lack of merit. Respondent has lawful basis under Section 13(f) in relation to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]] to process the personal data involved in this case.
 
 In her Memorandum, Complainant stated that in filing the DepEd Complaint by Respondent, the latter attached a copy of the birth certificate of DF, the alleged son of Respondent and Complainant's husband, as well as Facebook photos and exchange of messages of the latter, to prove their illicit affair.[^46] She further argued that the documents attached in the DepEd Complaint are "excluded by law for the violation of the right to privacy while the Certificate of Birth of DF is totally irrelevant to the filing of the case inasmuch as it does not reflect any data that will relate the Respondent or her husband for any purposes."[^47]
 
@@ -147,7 +147,7 @@ In the case of *GSS v. Global Dominion Financing, Inc.*, a privacy violation is 
 
 In her Verified Comment dated 23 March 2022, Respondent argued that the complaint filed by the Complainant before the Commission does not involve a privacy violation, citing Sections 13(f) and 19 of the DPA.[^49]
 
-Processing, as defined in Section 3(j) of the DPA, refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.[^50]
+Processing, as defined in [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(j) of the DPA]], refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.[^50]
 
 Moreover, upon review of the pieces of evidence submitted before the Commission, the birth certificate of DF contains personal and sensitive personal information. Also, the screenshots of photos and text messages involve personal information identifiable to the Complainant.
 
@@ -213,7 +213,7 @@ In *EA and TA vs. EJ et. al*, the Commission pronounced:
 
 Applying the above stated ruling, the attachment to the DepEd Complaint of the subject documents by Respondent was necessary to establish her allegations of immorality against Complainant by using the same as pieces of evidence to the said DepEd Complaint. In this sense, the filing of the DepEd Complaint and subsequently attaching the subject documents are considered as processing necessary to establish a legal claim and compatible with the general data privacy principles of legitimate purpose and proportionality.
 
-On this note, Rule IV, Section 18(b) of the Implementing Rules and Regulations of the DPA states that to achieve legitimate purpose of processing personal data, it shall be "compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy."[^65] This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law.[^66]
+On this note, Rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18(b) of the Implementing Rules and Regulations]] of the DPA states that to achieve legitimate purpose of processing personal data, it shall be "compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy."[^65] This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law.[^66]
 
 Here, the attachment of the documents containing personal data was in view of the DepEd Complaint filed by the Respondent against Complainant and is therefore compatible with the declared and specific purpose, in accordance with the DPA and its IRR.
 
@@ -309,25 +309,25 @@ National Privacy Commission
 [^45]: *Id.*, referred to as Exhibit "7."
 [^46]: Memorandum dated 18 July 2022 of EFD, at p. 4.
 [^47]: *Id.*, at p. 5.
-[^48]: *GSS v. Global Dominion Financing Inc.*, NPC 21-064, Decision dated 16 June 2022, at p. 7.
+[^48]: *GSS v. Global Dominion Financing Inc.*, [[decisions/2022/npc-21-064-gss-v-global-dominion-financing-inc|NPC 21-064]], Decision dated 16 June 2022, at p. 7.
 [^49]: Verified Comment dated 23 March 2022 of AOD, at p. 1.
 [^50]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3(j) (2012).
 [^51]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3(g) (2012).
-[^52]: *MAF v. Shopee Philippines, Inc.*, NPC 21-167, Decision dated 22 September 2022, at p. 4.
+[^52]: *MAF v. Shopee Philippines, Inc.*, [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]], Decision dated 22 September 2022, at p. 4.
 [^53]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3(l) (2012).
 [^54]: Complaints-Assisted Form dated 21 February 2022 of EFD, referred to as Annex "B."
 [^55]: *Id.*, at p. 3.
-[^56]: NPC 21-095 (unreported), Decision dated 28 July 2022.
+[^56]: [[resolutions/2023/npc-21-095-in-re-spouses-ltg-and-cig-vs-lsr|NPC 21-095]] (unreported), Decision dated 28 July 2022.
 [^57]: Data Privacy Act of 2012, chapter III, § 12(f).
 [^58]: *Id.*, § 13(f).
 [^59]: *Id.*
 [^60]: *Id.*
-[^61]: *BGM v. IPP*, NPC 19-653, Decision dated 17 December 2020, at p. 7.
+[^61]: *BGM v. IPP*, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]], Decision dated 17 December 2020, at p. 7.
 [^62]: Complaints-Assisted Form dated 21 February 2022 of EFD, referred to as Annex "A-1."
 [^63]: *Id.*, referred to as Annex "B."
 [^64]: *EA and TA vs. EJ, EE, and HC*, NPC 17-018, Decision dated 15 July 2019, at p. 7.
 [^65]: National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18(b) (2016).
-[^66]: *AQM v. PIT*, NPC 22-112, Decision dated 18 April 2024, at p. 13.
+[^66]: *AQM v. PIT*, [[decisions/2024/npc-22-112-aqm-vs-pit-et-al|NPC 22-112]], Decision dated 18 April 2024, at p. 13.
 [^67]: Memorandum dated 18 July 2022 of EFD, at p. 4.
 [^68]: *Id.*, at pp. 4-5.
 [^69]: *Norlina G. Sibayan v. Elizabeth Alda*, G.R. No. 233395, 17 January 2018.

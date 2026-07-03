@@ -47,7 +47,7 @@ On 9 September 2019, the Commission received a comprehensive report from the Ros
 
 On 4 March 2020, the Enforcement Division issued its findings on the compliance report. Its assessment stated thus:
 
-> The comprehensive report by the Rosewood Group was submitted within the period prescribed and upon reviewing, we found that the measures undertaken and the notification sent comply with R.A. 10173 or the Data Privacy Act, its Implementing Rules and Regulations, and NPC Circular 16-03 on Personal Data Breach Management.
+> The comprehensive report by the Rosewood Group was submitted within the period prescribed and upon reviewing, we found that the measures undertaken and the notification sent comply with [[laws/data-privacy-act-of-2012|R.A. 10173]] or the Data Privacy Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and NPC Circular 16-03 on Personal Data Breach Management.
 >
 > After the breach, the Rosewood Group reviewed their Data Security Incident Response Plan and made revisions to it in light of the lessons learned from the incident, which includes specific steps that the company will take upon receiving the reports from their service providers.
 

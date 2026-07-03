@@ -33,7 +33,7 @@ As far as Philhealth is concerned, the requested information is personal informa
 
 ### Discussion
 
-A personal information controller (PIC) should determine the most appropriate lawful basis for the processing of personal information and sensitive personal information (collectively, personal data), under the given facts and circumstances. For the processing of personal information, any of the conditions under Section 12 of the DPA may be considered. In particular, the following may be appropriate under the present situation:
+A personal information controller (PIC) should determine the most appropriate lawful basis for the processing of personal information and sensitive personal information (collectively, personal data), under the given facts and circumstances. For the processing of personal information, any of the conditions under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] may be considered. In particular, the following may be appropriate under the present situation:
 
 > **SECTION 12. Criteria for Lawful Processing of Personal Information.** – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -104,10 +104,10 @@ Director IV, Privacy Policy Office
 [^1]: Tags: lawful processing; legitimate interest; proportionality; security measures.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3 (g) (2012).
 [^3]: Data Privacy Act of 2012, § 12.
-[^4]: National Privacy Commission, NPC Advisory Opinion No. 2022-005 (24 February 2022) citing United Kingdom Information Commissioner's Office (ICO), "What is the 'Legitimate Interests' basis?", available at https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 18 January 2022]
+[^4]: National Privacy Commission, [[advisory-opinions/2022/advisory-opinion-no-2022-005-advisory-opinion-no-2022-005-redacted|NPC Advisory Opinion No. 2022-005]] (24 February 2022) citing United Kingdom Information Commissioner's Office (ICO), "What is the 'Legitimate Interests' basis?", available at https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 18 January 2022]
 [^5]: *Ibid.*
-[^6]: National Privacy Commission, NPC Advisory Opinion No. 2020-039 (30 October 2020) citing United Kingdom Information Commissioner's Office (ICO), "What is the 'Legitimate Interests' basis", available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
+[^6]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-039-redacted-advisory-opinion-no-2020-039-2|NPC Advisory Opinion No. 2020-039]] (30 October 2020) citing United Kingdom Information Commissioner's Office (ICO), "What is the 'Legitimate Interests' basis", available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
 [^7]: *Ibid.*
-[^8]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [NPC 21-167] (Sept. 22, 2022).
+[^8]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]] (Sept. 22, 2022).
 [^9]: EU GDPR, Recital 49.
 [^10]: https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf [last accessed on 4 August 2022].

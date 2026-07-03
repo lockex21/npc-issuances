@@ -155,7 +155,7 @@ Acesite further provided files and information pertaining to its personnel data 
 
 Acesite also submitted its PIA in compliance with the Commission's directives.
 
-NPC Advisory No. 2017-03 defines a PIA as a:
+[[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]] defines a PIA as a:
 
 > [P]rocess undertaken and used to evaluate and manage impacts on privacy of a particular program, project, process, measure, system or technology product of a PIC or PIP program, project, process, measure, system or technology product of a PIC or PIP. It takes into account the nature of the personal data to be protected, the personal data flow, the risks to privacy and security posed by the processing, current data privacy best practices, the cost of security implementation, and, where applicable, the size of the organization, its resources, and the complexity of its operations.[^41]
 
@@ -165,7 +165,7 @@ It had twenty (20) observations with regard to its processing of personal data, 
 
 The PIA provided and tabulated the observations, recommendations, and a corresponding management action plan related to the general data privacy principles of transparency, legitimate purpose, and proportionality;[^45] organizational, physical, and technical security measures;[^46] and data sharing.[^47]
 
-Through the PIA, Acesite identified various privacy risks that it needed to address, and corresponding measures in order to sufficiently comply with the DPA.
+Through the PIA, Acesite identified various privacy risks that it needed to address, and corresponding measures in order to sufficiently comply with the [[laws/data-privacy-act-of-2012|DPA]].
 
 With regard to adherence to the proportionality principle, Acesite indicated the excessive information it collected in various official Acesite forms, particularly in its Employee ID Card when it displays the employee's Tax Identification Number (TIN) and Social Security Service (SSS) Number.[^48] Thus, its action plan is to remove these sensitive personal information and revise the template for the Employee ID Card.[^49]
 

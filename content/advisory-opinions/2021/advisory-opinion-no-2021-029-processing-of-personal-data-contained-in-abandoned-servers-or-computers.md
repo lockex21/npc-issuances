@@ -48,7 +48,7 @@ As such, you have raised the following points for clarification:
 
 ### Discussion
 
-#### Scope of the Data Privacy Act of 2012; criteria for lawful processing of personal data
+#### Scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]; criteria for lawful processing of personal data
 
 The Data Privacy Act of 2012[^2] (DPA) applies to the processing of personal data and to any
 natural and juridical person involved in the processing within and outside the Philippines.

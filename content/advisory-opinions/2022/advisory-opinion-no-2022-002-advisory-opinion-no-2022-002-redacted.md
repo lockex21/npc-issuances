@@ -33,7 +33,7 @@ You now ask whether informing the concerned mortgagee banks or financing compani
 
 ### Discussion
 
-#### Lawful processing of personal information; legitimate interest of personal information controllers; Section 12 (f) of the Data Privacy Act of 2012
+#### Lawful processing of personal information; legitimate interest of personal information controllers; [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the Data Privacy Act of 2012]]
 
 Under the DPA, the processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the conditions under Section 12 of the law exists. One condition under the law is processing necessary for the purposes of the legitimate interests of the personal information controller (PIC) or by a third party to whom the data is disclosed,[^2] to wit:
 
@@ -49,7 +49,7 @@ Indeed, legitimate interest as a ground for lawful processing of personal data i
 
 Nevertheless, PICs that consider relying on this basis should undergo a legitimate interest assessment using the aforementioned tests as guidance, and document the outcome of the assessment. This gives data subjects some guarantee that this criterion for processing will not be misused.[^5]
 
-We emphasize as well that legitimate interest is applicable only to the processing of personal information. If the disclosure will involve sensitive personal information, the PIC should determine the appropriate lawful basis under Section 13 of the DPA.
+We emphasize as well that legitimate interest is applicable only to the processing of personal information. If the disclosure will involve sensitive personal information, the PIC should determine the appropriate lawful basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 #### Adherence to the general data privacy principles
 

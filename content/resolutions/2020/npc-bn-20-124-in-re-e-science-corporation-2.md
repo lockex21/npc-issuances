@@ -83,7 +83,7 @@ The submission made by E-Science to this Commission indicated the automated mess
 
 The submission also attached an enumeration of the names of the affected data subjects, their respective user codes, the status on whether they have read the notification message, and the date when the message was sent.
 
-In consideration of the above information and the large number of data subjects involved, the Commission finds that the notification sent by E-Science and proof of its receipt by the affected data subjects complies with R.A. 10173 or the Data Privacy Act, its Implementing Rules and Regulations, and NPC Circular 16-03.
+In consideration of the above information and the large number of data subjects involved, the Commission finds that the notification sent by E-Science and proof of its receipt by the affected data subjects complies with [[laws/data-privacy-act-of-2012|R.A. 10173]] or the Data Privacy Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and NPC Circular 16-03.
 
 **WHEREFORE**, premises considered, this Commission hereby finds E-Science Corporation’s submission of confirmation logs **SUFFICIENT** for compliance with its Order stated in the Resolution dated 22 October 2020. This Commission hereby considers the matter **CLOSED**.
 

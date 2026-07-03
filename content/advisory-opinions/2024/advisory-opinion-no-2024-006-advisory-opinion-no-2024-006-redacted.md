@@ -33,7 +33,7 @@ Thus, you seek guidance on the propriety of the appointment of [Redacted]’s DP
 
 #### Data Protection Officer; Autonomy; Conflict of Interest
 
-Under National Privacy Commission (NPC) Advisory No. 2017-01, a DPO must have a sufficient level of autonomy to perform their responsibilities effectively. While absolute autonomy is not mandated, the DPO must execute their duties independently.
+Under National Privacy Commission (NPC) [[issuances/2017/designation-of-data-protection-officers|Advisory No. 2017-01]], a DPO must have a sufficient level of autonomy to perform their responsibilities effectively. While absolute autonomy is not mandated, the DPO must execute their duties independently.
 
 It is in this context that the propriety of the appointment of a DPO candidate must be determined. Based on our assessment of the facts presented, both the HRCG and the HSM have sufficient autonomy to execute their current responsibilities concurrently with the DPO position. Thus, we see no legal hindrance in their appointment as a DPO.
 
@@ -52,7 +52,7 @@ We recognize, though, that there may be conflict of interest situations that may
 Additionally, please note that registering a DPO is solely for the purpose of appointing an
 official contact for the NPC. Internally, an organization may appoint or designate more than
 one DPO or establish a data privacy structure that is best suitable for its needs. is neither
-restricted nor prohibited from appointing more than one DPO under the DPA.
+restricted nor prohibited from appointing more than one DPO under the [[laws/data-privacy-act-of-2012|DPA]].
 
 Please be advised that the foregoing was rendered based solely on the information you
 provided. Any extraneous fact that may be subsequently furnished us may affect our present

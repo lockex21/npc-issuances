@@ -50,7 +50,7 @@ On 12 August 2021, the National Privacy Commission (NPC), through its Complaints
 
 She claimed that "[w]hen the seller asked for proof of delivery, Shopee forwarded [her] son's photo to the seller and was sent to [her] as proof of delivery."[^4] She also claimed that she requested Shopee "to remove [her] son's photo out of their system"[^5] but Shopee refused her request.[^6]
 
-MAF asserted that Shopee violated Section 28 (Processing for an Unauthorized Purpose) and Section 32 (Unauthorized Disclosure) of the DPA.[^7] MAF also prayed for a fine to be imposed on Shopee and for Shopee to remove her son's photo and to "include in their guidelines that [under] no circumstance [should] a minor's picture be taken as proof of delivery."[^8]
+MAF asserted that Shopee violated Section 28 (Processing for an Unauthorized Purpose) and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].[^7] MAF also prayed for a fine to be imposed on Shopee and for Shopee to remove her son's photo and to "include in their guidelines that [under] no circumstance [should] a minor's picture be taken as proof of delivery."[^8]
 
 On 02 November 2021, an Order was issued directing Shopee to file a verified comment within fifteen (15) calendar days from receipt of the Order.[^9] The parties were also ordered to appear virtually for a preliminary conference on 26 January 2022.[^10]
 
@@ -90,7 +90,7 @@ On 10 May 2022, Shopee submitted its Memorandum.[^44] Shopee reiterated the fact
 
 ### Issue
 
-I. Whether Shopee is liable under Section 28 (Processing for an Unauthorized Purpose) of the DPA.
+I. Whether Shopee is liable under [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 (Processing for an Unauthorized Purpose) of the DPA]].
 
 II. Whether Shopee is liable under Section 32 (Unauthorized Disclosure) of the DPA.
 
@@ -98,7 +98,7 @@ III. Whether Shopee violated the general privacy principle of proportionality.
 
 ### Discussion
 
-Shopee, as the Personal Information Controller (PIC), is responsible for the actions of the Personal Information Processor (PIP), the Third-Party Logistics Provider and consequently, its rider. Section 21 of the DPA discusses the principle of accountability:
+Shopee, as the Personal Information Controller (PIC), is responsible for the actions of the Personal Information Processor (PIP), the Third-Party Logistics Provider and consequently, its rider. [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]] discusses the principle of accountability:
 
 > Section 21. Principle of Accountability. Each personal information controller is responsible for personal information under its control or custody, including information that have been transferred to a third party for processing, whether domestically or internationally, subject to cross-border arrangement and cooperation.
 >
@@ -123,7 +123,7 @@ To be held liable under Section 28 or the Processing of Personal or Sensitive Pe
 
 The first three (3) requisites are present in this case.
 
-On the first and second requisites, there is no question that Shopee, as the PIC, processed the son's personal information. Section 3 of the DPA defines personal information and processing as follows:
+On the first and second requisites, there is no question that Shopee, as the PIC, processed the son's personal information. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] defines personal information and processing as follows:
 
 > Section 3. Definition of Terms. Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -137,7 +137,7 @@ On the first and second requisites, there is no question that Shopee, as the PIC
 
 Without doubt, a photo is personal information because the identity of an individual, MAF's son, is apparent. Processing of personal information occurred when the rider took the photo of MAF's son and uploaded the photo as proof of delivery in the Shopee platform. Thus, the first and second requisites are present.
 
-The third requisite is also present in this case. Shopee processed personal information according to a lawful criterion under Section 12 of the DPA. Section 12 of the DPA allows for the processing of personal information when it is necessary for the purposes of the legitimate interests pursued by the PIC:
+The third requisite is also present in this case. Shopee processed personal information according to a lawful criterion under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]]. Section 12 of the DPA allows for the processing of personal information when it is necessary for the purposes of the legitimate interests pursued by the PIC:
 
 > Section. 12. Criteria for Lawful Processing of Personal Information. The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -195,7 +195,7 @@ Further, the seller is not considered a third party to the online shopping trans
 
 Shopee violated the proportionality principle when the PIP's rider took the photo as proof of delivery. The general privacy principle of proportionality requires that the processing is adequate, relevant, suitable, and necessary processing that is not excessive in relation to the declared and specified purpose.
 
-Section 11 of the DPA provides principles that rest on proportionality:
+[[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] provides principles that rest on proportionality:
 
 > Section 11. General Data Privacy Principles. The processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.
 >
@@ -207,7 +207,7 @@ Section 11 of the DPA provides principles that rest on proportionality:
 >
 > (d) Adequate and not excessive in relation to the purposes for which they are collected and processed.[^64]
 
-Section 18 of the Implementing Rules and Regulations of the DPA (IRR) elaborates on proportionality:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 of the Implementing Rules and Regulations]] of the DPA (IRR) elaborates on proportionality:
 
 > Section 18. Principles of Transparency, Legitimate Purpose and Proportionality. The processing of personal data shall be allowed subject to adherence to the principles of transparency, legitimate purpose, and proportionality.
 >
@@ -338,7 +338,7 @@ GENERAL RECORDS UNIT
 [^46]: *Id.*
 [^47]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 21 (2012). Emphasis supplied.
 [^48]: Data Privacy Act of 2012, § 28 (a). Emphasis supplied.
-[^49]: NPC 19-142, 31 March 2022, at 12-13 (NPC 2022) (unreported).
+[^49]: [[decisions/2022/npc-19-142-mlf-v-grab-philippines|NPC 19-142]], 31 March 2022, at 12-13 (NPC 2022) (unreported).
 [^50]: Data Privacy Act of 2012, § 3 (g) & (j).
 [^51]: Data Privacy Act of 2012, § 12 (f). Emphasis supplied.
 [^52]: *See* Data Privacy Act of 2012, § 12 (f).
@@ -346,11 +346,11 @@ GENERAL RECORDS UNIT
 [^54]: *Id.*
 [^55]: *Id.*
 [^56]: Data Privacy Act of 2012, § 32 (a).
-[^57]: NPC 19-134, 10 December 2021 (NPC 2021) (unreported).
+[^57]: [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021 (NPC 2021) (unreported).
 [^58]: Metropolitan Bank and Trust Co. v. Liberty Corrugated Boxes Manufacturing Corp., G.R. No.184317 (2017).
 [^59]: Fort Bonifacio Development Corp. v. Commissioner of Internal Revenue, G.R. Nos. 158885 & 170680 (Resolution) (2009).
-[^60]: NPC 21-032, 16 May 2022 (NPC 2022) (unreported).
-[^61]: NPC 21-010, 03 February 2022 (NPC 2022) (unreported).
+[^60]: [[decisions/2022/npc-21-032-jdb-v-jme|NPC 21-032]], 16 May 2022 (NPC 2022) (unreported).
+[^61]: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010]], 03 February 2022 (NPC 2022) (unreported).
 [^62]: Data Privacy Act of 2012, § 12.
 [^63]: Respondent's Memorandum, 10 May 2022, at 24, in MAF v. Shopee Philippines, Inc. NPC 21-167 (NPC 2022).
 [^64]: Data Privacy Act of 2012, § 11. Emphasis supplied.

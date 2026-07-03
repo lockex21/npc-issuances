@@ -50,7 +50,7 @@ The DPA provides for the lawful criteria of processing personal data under Secti
 
 The above should be read together with the provisions of the UniFAST Act, the Universal Access to Quality Tertiary Education Act, and the corresponding IRRs as possible legal bases for the release of personal data by UniFAST Board to other government agencies and the legislators.
 
-Particularly, we note Rule 4.2 (r) of the UniFAST Act IRR where the UniFAST Board may disclose information to other government agencies involved in the tracking of its student borrowers, specifically for the purpose of investigating and checking the whereabouts of delinquent student borrowers and setting up mechanisms for blacklisting of defaulting students.
+Particularly, we note Rule 4.2 (r) of the UniFAST Act [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] where the UniFAST Board may disclose information to other government agencies involved in the tracking of its student borrowers, specifically for the purpose of investigating and checking the whereabouts of delinquent student borrowers and setting up mechanisms for blacklisting of defaulting students.
 
 We also note the provisions on monitoring and evaluation by the Joint Congressional Oversight Committee on Universal Access to Tertiary Education Act as well as the Congressional Oversight Committee on the UniFAST Act.
 
@@ -72,7 +72,7 @@ Abiding by the general data privacy principles, the disclosure of the beneficiar
 
 Hence, any disclosure of beneficiary data should only be limited to those personal data which are necessary to the purpose declared by the requesting government agencies and legislators. An evaluation should likewise be made on whether statistics or aggregate data will suffice instead of providing individual level data.
 
-Finally, where the processing and disclosure is indeed anchored upon any lawful criterion as discussed above, the UniFAST Board and the other party to whom the information will be disclosed should consider executing a data sharing agreement (DSA) in accordance with Section 20 of the DPA IRR and NPC Circular No. 16-02 on DSAs Involving Government Agencies, where necessary and appropriate based on the circumstances of the sharing arrangement. Sharing or disclosure of personal data by or to a government agency presupposes that the same is to facilitate the performance of a public function or the provision of a public service.
+Finally, where the processing and disclosure is indeed anchored upon any lawful criterion as discussed above, the UniFAST Board and the other party to whom the information will be disclosed should consider executing a data sharing agreement (DSA) in accordance with [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 of the DPA]] IRR and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] on DSAs Involving Government Agencies, where necessary and appropriate based on the circumstances of the sharing arrangement. Sharing or disclosure of personal data by or to a government agency presupposes that the same is to facilitate the performance of a public function or the provision of a public service.
 
 This opinion is rendered based on the information you have provided. Additional information may change the context of the inquiry and the appreciation of the facts.
 
@@ -88,7 +88,7 @@ Privacy Commissioner
 [^3]: An Act Providing for a Comprehensive and Unified Student Financial Assistance System for Tertiary Education (UniFAST), Thereby Rationalizing Access Thereto, Appropriating Funds Therefor and for Other Purposes [UniFAST Act], Republic Act No. 10687, § 5 (2015).
 [^4]: An Act Promoting Universal Access To Quality Tertiary Education By Providing For Free Tuition And Other School Fees In State Universities And Colleges, Local Universities And Colleges And State-Run Technical-Vocational Institutions, Establishing The Tertiary Education Subsidy And Student Loan Program, Strengthening The Unified Student Financial Assistance System For Tertiary Education, And Appropriating Fund Therefor [Universal Access to Tertiary Education Act], Republic Act No. 10931, § 17 (2017).
 [^5]: UniFAST Act, Republic Act No. 10687, § 24 (2015).
-[^6]: National Privacy Commission, NPC Advisory Opinion No. 2018-077 (Oct. 25, 2018).
+[^6]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-077-npc-advisory-opinion-no-2018-077|NPC Advisory Opinion No. 2018-077]] (Oct. 25, 2018).
 [^7]: Data Privacy Act of 2012, § 22.
 [^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (b) (2016).
 [^9]: Id. § 18 (c).

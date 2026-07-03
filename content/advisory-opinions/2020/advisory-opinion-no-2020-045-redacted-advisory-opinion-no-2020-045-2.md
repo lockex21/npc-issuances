@@ -22,7 +22,7 @@ Re: DISCLOSURE OF UNIT OWNERS DETAILS FOR SECURING PROXIES
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion which sought clarification on whether or not Advisory Opinion No. 2018-011[^2] which allows for the disclosure of unit numbers of members of the condominium association in accordance with the Data Privacy Act of 2012[^3] (DPA) also applies to the disclosure of the condominium corporation members’ other personal information such as the names, addresses, e-mail addresses, and telephone or mobile numbers for the purpose of assisting a member in contacting them to secure their proxies, in relation to Section 73 of the Revised Corporation Code[^4] (RCC) on inspection of corporate records.
+We write in response to your request for an advisory opinion which sought clarification on whether or not [[advisory-opinions/2018/advisory-opinion-no-2018-011-npc-advisory-opinion-no-2018-011|Advisory Opinion No. 2018-011]][^2] which allows for the disclosure of unit numbers of members of the condominium association in accordance with the Data Privacy Act of 2012[^3] (DPA) also applies to the disclosure of the condominium corporation members’ other personal information such as the names, addresses, e-mail addresses, and telephone or mobile numbers for the purpose of assisting a member in contacting them to secure their proxies, in relation to Section 73 of the Revised Corporation Code[^4] (RCC) on inspection of corporate records.
 
 ### Discussion
 
@@ -34,7 +34,7 @@ In this scenario, however, a member is seeking access to other members’ person
 
 We note that a condominium corporation has an obligation to provide access to its corporate records, which includes the current ownership structure and lists of stockholders or members,[^5] as well as copies of the latest reportorial requirements submitted to the Securities and Exchange Commission,[^6] to any director, trustee, stockholder or member as provided under Section 73 of the RCC.
 
-Said provision may be read together with Section 12(c) of the DPA, which recognizes personal information processing that is necessary for compliance with a legal obligation to which the personal information controller is subject as a lawful basis.
+Said provision may be read together with [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(c) of the DPA]], which recognizes personal information processing that is necessary for compliance with a legal obligation to which the personal information controller is subject as a lawful basis.
 
 However, the above may not be squarely applicable in this scenario. The corporation has no legal obligation to disclose the requested contact details of members for purposes of a certain member wishing to be appointed as a proxy for voting purposes.
 

@@ -24,7 +24,7 @@ draft: false
 
 WHEREAS, Article II, Section 11 of the 1987 Constitution declares that the State values the dignity of every human person and guarantees full respect for human rights, and Article XIII, Section 1 states that Congress shall give the highest priority to the enactment of measures that protect and enhance the right of the people to human dignity, while jurisprudence recognizes the right to privacy as a right fully deserving of constitutional protection;
 
-WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote innovation and growth, and that the State recognizes its inherent obligation to ensure that personal information in information and communications systems in the government and the private sector is secured and protected;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote innovation and growth, and that the State recognizes its inherent obligation to ensure that personal information in information and communications systems in the government and the private sector is secured and protected;
 
 WHEREAS, Section 437 of the Amended Insurance Code of the Philippines (Republic Act No. 10607) grants the Insurance Commissioner the authority to issue circular letters and promulgate rules and procedures to effectively implement the provisions of the Insurance Code and to ensure proper regulation of the insurance industry;
 
@@ -32,7 +32,7 @@ WHEREAS, the Insurance Commission (IC) is mandated to regulate and supervise the
 
 WHEREAS, the National Privacy Commission (NPC) is mandated to administer and implement the provisions of the [[laws/data-privacy-act-of-2012|DPA]], monitor and ensure compliance of the country with international standards set for data protection, and coordinate with government agencies and the private sector on efforts to formulate and implement plans and policies that strengthen the protection of personal information in the country;
 
-WHEREAS, Section 9 of the Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) of the [[laws/data-privacy-act-of-2012|DPA]] provides that the NPC shall, among its other functions, develop, promulgate, review, or amend rules and regulations for the effective implementation of the law;
+WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) of the [[laws/data-privacy-act-of-2012|DPA]] provides that the NPC shall, among its other functions, develop, promulgate, review, or amend rules and regulations for the effective implementation of the law;
 
 WHEREAS, Insurance Commission Circular Letter No. 2019-13 requires all entities under the regulatory control and supervision of the IC to comply with the provisions of the [[laws/data-privacy-act-of-2012|DPA]];
 
@@ -96,11 +96,11 @@ Deputy Privacy Commissioner
 [^2]: Organisation for Economic Co-operation and Development (OECD), Emerging Privacy-Enhancing Technologies: Current Regulatory and Policy Approaches, OECD Digital Economy Papers No. 351, at 4 (2023), available at https://doi.org/10.1787/bf121be4-en (last accessed: November 2024).
 [^3]: Id. at 13.
 [^4]: See Organisation for Economic Co-operation and Development (OECD), Emerging Privacy-Enhancing Technologies: Current Regulatory and Policy Approaches, OECD Digital Economy Papers No. 351 (2023), available at https://doi.org/10.1787/bf121be4-en (last accessed: November 2024).
-[^5]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 21 (2012).
+[^5]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 § 21 (2012).
 [^6]: Id. § 20.
 [^7]: See NPC Circ. No. 22-04.
 [^8]: See National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], (15 December 2016).
-[^9]: NPC Advisory No. 2017-03: Guidelines on Privacy Impact Assessments, available at https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryNo.2017-03.pdf.
+[^9]: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]]: Guidelines on Privacy Impact Assessments, available at https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryNo.2017-03.pdf.
 [^10]: Section 20(c) of the Republic Act 10173 - Data Privacy Act of 2012, National Privacy Commission, available at https://privacy.gov.ph/data-privacy-act/.
 
 ## Source And Notes

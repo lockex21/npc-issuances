@@ -25,7 +25,7 @@ Re: DATA SHARING AGREEMENTS IN THE PRIVATE SECTOR
 
 Dear [Redacted],
 
-This pertains to your query received by the National Privacy Commission (NPC) on 8 November 2016, via email, regarding the Implementing Rules and Regulations (IRR) of Republic Act No. 10173, otherwise known as the Data Privacy Act (DPA) of 2012. Specifically, you inquired regarding the following:
+This pertains to your query received by the National Privacy Commission (NPC) on 8 November 2016, via email, regarding the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act (DPA) of 2012. Specifically, you inquired regarding the following:
 
 1. Whether or not the intention of the data sharing agreement requirement under the IRR is to go beyond the EU requirements, or does it correspond to the data processing agreement requirements by the EU?
 2. Whether or not it is now mandatory to comply with data sharing agreement requirement, given that the IRR does not provide for a period within which existing agreements should be covered and there are no applicable implementing regulations for the private sector?
@@ -43,7 +43,7 @@ The provisions of the IRR became effective on 9 September 2016, fifteen (15) day
 
 The one (1)-year period for compliance provided in the IRR relates only to the registration of data processing systems or automated processing operations by personal information controllers (PIC) and personal information processors (PIP).[^3]
 
-NPC Circular No. 16-02, while specifically directed at data sharing agreements involving government agencies, may also be used by the private sector for additional guidance on this matter.
+[[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], while specifically directed at data sharing agreements involving government agencies, may also be used by the private sector for additional guidance on this matter.
 
 For your reference.
 

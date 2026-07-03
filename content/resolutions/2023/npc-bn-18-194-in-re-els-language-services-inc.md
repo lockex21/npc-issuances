@@ -103,7 +103,7 @@ Moreover, to further comply with the Commission's Order dated 13 October 2020, E
 7. Notified this Commission;
 8. Designation of a Data Protection Officer (DPO), RT.[^18]
 
-In this regard, Section 20 (a) of the Data Privacy Act of 2012 provides:
+In this regard, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) of the Data Privacy Act of 2012]] provides:
 
 Sec. 20. *Security of Personal Information*.
 
@@ -169,7 +169,7 @@ Attorney-In-Fact for ELS Language Services, Inc.
 [^14]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016-03, rule V, § 18 (D) (15 December 2016) (NPC Circular 16-03).
 [^15]: RPR vs. Edukasyon.ph, NPC 19-438, Resolution dated 22 September 2022, at p. 4.
 [^16]: ELS Letter to NPC, Attachment to Electronic Mail dated 11 October 2018 from ELS Language Services, Inc.
-[^17]: In Re BPI Philam Life Assurance Corporation, NPC BN 21-054, Order dated 15 April 2021, at p. 3.
+[^17]: In Re BPI Philam Life Assurance Corporation, [[orders/2021/npc-bn-no-21-054-in-re-bpi-philam-life-assurance-corporation|NPC BN 21-054]], Order dated 15 April 2021, at p. 3.
 [^18]: Final Breach Notification Evaluation Report, 12 December 2022, at 6, in In Re ELS Language Services, Inc., NPC BN 18-194 (NPC 2018).
 [^19]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Chapter V, § 20 (a) (2012) (Data Privacy Act of 2012).
 [^20]: NPC Circular 16-03, rule II, § 4 (B).

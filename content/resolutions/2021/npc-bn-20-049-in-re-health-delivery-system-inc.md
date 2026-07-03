@@ -92,7 +92,7 @@ The Commission, in its Resolution for NPC BN 20-161, emphasized the importance o
 
 > It is noteworthy that the avowed purpose of the required notification to data subjects of a breach incident is for them to take the necessary precautions or other measures to protect themselves against possible effects of the breach. Moreover, personal information controllers (PICs) are required to establish all reasonable mechanisms to ensure that all affected data subjects are made aware of the breach. It therefore follows that PICs should guarantee that the notification they sent to data subjects has been received. Otherwise, it defeats the very purpose of notification of data subjects.[^9]
 
-Notification of the affected data subjects in cases of personal data breach is an essential obligation in data privacy protection. Section 20(f) of the DPA of 2012[^10] states that:
+Notification of the affected data subjects in cases of personal data breach is an essential obligation in data privacy protection. [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(f) of the DPA]] of 2012[^10] states that:
 
 > **SEC. 20. Security of Personal Information.** –
 >

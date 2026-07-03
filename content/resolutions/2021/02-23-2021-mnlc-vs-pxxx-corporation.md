@@ -42,7 +42,7 @@ x----------------------------------------------------x
 
 NAGA, D.P.C.:
 
-For consideration of the Commission is the Motion for Reconsideration dated 17 January 2021 filed by Respondents PXXX Corporation, RCM, and AD of the Decision dated 29 October 2020 which finds that Respondents have violated Section 25(b) of the Data Privacy Act of 2012 (DPA). Respondents pray for the Decision to be reconsidered and set-aside and a new one should be issued dismissing the present complaint.
+For consideration of the Commission is the Motion for Reconsideration dated 17 January 2021 filed by Respondents PXXX Corporation, RCM, and AD of the Decision dated 29 October 2020 which finds that Respondents have violated [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25(b) of the Data Privacy Act of 2012]] (DPA). Respondents pray for the Decision to be reconsidered and set-aside and a new one should be issued dismissing the present complaint.
 
 ### Facts
 
@@ -132,7 +132,7 @@ The Respondents further argued that the processing of personal information was m
 
 On the issue of award of damages, this Commission reiterates that our Decision used a clear language and had a clear directive—that nominal damages shall be awarded to each member of the church, thus:
 
-> 3. AWARDS damages, in the amount of P1,000.00, **to each member of Complainant MNLCI** as of the date of filing of the Complaint Affidavit on 23 July 2019 for Respondent's unlawful collection of their sensitive personal information, pursuant to Section 16 (f) of the Data Privacy Act; and[^19] (Emphasis supplied)
+> 3. AWARDS damages, in the amount of P1,000.00, **to each member of Complainant MNLCI** as of the date of filing of the Complaint Affidavit on 23 July 2019 for Respondent's unlawful collection of their sensitive personal information, pursuant to [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (f) of the Data Privacy Act]]; and[^19] (Emphasis supplied)
 
 The Respondents cannot insert additional requirements which was not given by the law in awarding nominal damages. Article 2221 of the New Civil Code is clear that nominal damage can be awarded in recognition of the violated legal rights of a plaintiff or complainant.[^20] In this case and as ruled by the Commission, the award of nominal damages to Complainant is warranted, pursuant to the Commission's findings that the Respondents unlawfully processed the data subjects' sensitive personal information and failed to observe the general privacy principle of proportionality. Hence, compliance to the Decision in awarding nominal damages to the Complainant is within the responsibility and obligation of the Respondents, which includes coordination with the Complainant to obtain the official list of MNLCI church members.
 

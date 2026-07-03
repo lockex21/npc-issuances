@@ -101,13 +101,12 @@ Privacy Act of 2012[^6] (DPA) will apply to the same.
 #### Data subject rights; right to erasure or blocking; limitation; lawful criteria for processing personal information
 
 On the matter of the request for deletion of the name from the posted certified list of overseas
-voters, Section 16 (e) of the DPA provides that a data subject has the right to suspend,
+voters, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (e) of the DPA]] provides that a data subject has the right to suspend,
 withdraw or order the blocking, removal or destruction of his or her personal information
 from the personal information controller’s filing system in certain instances. This may be read
-together with the right to object under Section 34 (b) of the Implementing Rules and
-Regulations[^7] (IRR) of the DPA.
+together with the right to object under Section 34 (b) of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^7] (IRR) of the DPA.
 
-These rights are further clarified in NPC Advisory No. 2021-01 on Data Subject Rights, which
+These rights are further clarified in [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] on Data Subject Rights, which
 provides:
 
 > “SECTION 7. Right to Object. — The data subject shall have the right to object to the

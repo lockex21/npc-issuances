@@ -40,7 +40,7 @@ We provide the following clarifications:
 
 #### Data Sharing and Compliance with the DPA
 
-To clarify, all personal information controllers (PICs) and personal information processors (PIPs) are mandated to comply with the provisions of the DPA, its Implementing Rules and Regulations (IRR) and issuances of the NPC.
+To clarify, all personal information controllers (PICs) and personal information processors (PIPs) are mandated to comply with the provisions of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and issuances of the NPC.
 
 PICs that share personal data under a data sharing agreement (DSA) are mandated to put in place adequate safeguards for data privacy and security in compliance with applicable laws and regulations. The DSA should include a general description of the security measures that will ensure the protection of the personal data of data subjects. The DSA, considering its terms, allows PICs to use contractual and reasonable means to provide safeguards for data protection to the personal data being shared.
 
@@ -52,7 +52,7 @@ In relation to data sharing arrangement, the DSA or the pertinent contract may s
 
 #### Consent
 
-Under Section 3(b) of the DPA, consent is defined as any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so.
+Under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the DPA]], consent is defined as any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so.
 
 From the definition provided above, it is clear that consent must be evidenced by written, electronic, or recorded means.[^2] Any of the three (3) formats provided may be adopted by a PIC. Nonetheless, it is worth emphasizing that, regardless of the format of the consent given by the data subject, it must be freely given, specific, and informed.[^3]
 

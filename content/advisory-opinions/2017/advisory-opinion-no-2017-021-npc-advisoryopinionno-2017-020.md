@@ -81,7 +81,7 @@ information submitted to the CIC by cooperatives is listed among those considere
 DPA as a special case.
 
 
-Section 4 of the law and Section 5 of the Implementing Rules and Regulations (IRR) exempt
+Section 4 of the law and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the Implementing Rules and Regulations]] (IRR) exempt
 specific types or classes of information from its scope - in particular, paragraph (e) of the
 latter states:
 
@@ -124,9 +124,9 @@ transparency, legitimate purpose, and proportionality. PICs and personal informa
 processors (PIPs) are also mandated to uphold the rights of the data subjects.
 
 Another requirement is the need to appoint a data protection officer (DPO). Pursuant to
-Section 21(b) of the DPA and Section 50(b) of the IRR, PICs shall designate an individual or
+[[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21(b) of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-50-accountability-for-transfer-of-personal-data|Section 50(b) of the IRR]], PICs shall designate an individual or
 individuals who are accountable for the organization’s compliance with this Act. This is
-further elucidated under NPC Advisory No. 2017-01 dated 14 March 2017 stating that all
+further elucidated under [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]] dated 14 March 2017 stating that all
 natural or juridical persons, or any other body in the government of private sector engaged
 in the processing of personal data within and outside of the Philippines. The DPO will
 
@@ -139,8 +139,7 @@ personal information against any accidental or unlawful destruction, alteration 
 disclosure, as well as against any other unlawful processing.[^13]
 
 We also wish to emphasize the NPC’s circulars on data sharing agreements involving the
-government (NPC Circular No. 2016-02) and personal data breach management (NPC
-Circular No. 2016-03). The first circular requires the review of all existing data sharing
+government (NPC Circular No. 2016-02) and personal data breach management (NPC Circular No. 2016-03). The first circular requires the review of all existing data sharing
 arrangements and/or actual contracts, joint issuances, or any similar documents, and make
 the necessary revisions thereto, execution of a data sharing agreement where applicable, and
 the immediate termination of the sharing of personal data in instances where the
@@ -152,7 +151,7 @@ requirements, and notifications relating to personal data breaches.
 
 ##### Registration Requirement
 
-Section 47 of the IRR of the DPA provides for the registration of personal data processing
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Section 47 of the IRR]] of the DPA provides for the registration of personal data processing
 systems. This provision states that if a personal information controller or personal
 information processor employs at least two hundred fifty (250) persons, registration is
 automatically required.
@@ -201,7 +200,7 @@ basis for making decisions about a data subject, and when the decision would sig
 affect the data subject”.[^17]
 
 As of the moment, the NPC does not require any format for the notification, as long as it
-contains the contents enumerated in Section 48 of the IRR.
+contains the contents enumerated in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-48-notification-of-automated-processing-operations|Section 48 of the IRR]].
 
 #### Penalties Imposable for Violations and Non-Compliance With the Provisions of the DPA, Its IRR and Other NPC Issuances
 
@@ -232,7 +231,7 @@ When personal information of at least one hundred (100) persons is harmed, affec
 involved as a result of the action/s, the maximum penalty in the scale of penalties shall be
 imposed.[^19]
 
-Lastly, it is important to note Section 34 of the DPA, to wit:
+Lastly, it is important to note [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the DPA]], to wit:
 
    “SECTION 34. Extent of Liability. — If the offender is a corporation,
          partnership or any juridical person, the penalty shall be imposed upon the

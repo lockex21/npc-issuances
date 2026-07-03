@@ -16,7 +16,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC 21-010 to NPC 21-015
+- Reference: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010]] to NPC 21-015
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-010-to-NPC-21-015-2022.04.28-MVC-et.-al.-v-DSL-Order-FinalP.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: April 28, 2022
@@ -109,11 +109,11 @@ x----------------------------------------------------x
 
 **ORDER**
 
-On 03 February 2022, the Commission issued a Decision finding DSL liable for Section 32 (Unauthorized Disclosure) of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).[^1] Consequently, the Commission recommends to the Secretary of Justice the prosecution of DSL for the offense of Unauthorized Disclosure under Section 32 of the DPA.[^2]
+On 03 February 2022, the Commission issued a Decision finding DSL liable for Section 32 (Unauthorized Disclosure) of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).[^1] Consequently, the Commission recommends to the Secretary of Justice the prosecution of DSL for the offense of Unauthorized Disclosure under [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 of the DPA]].[^2]
 
 On 05 April 2022, DSL filed a Motion for Reconsideration to the Decision dated 03 February 2022.[^3]
 
-In his Motion, DSL argued that the Commission "inadvertently committed palpable error" in holding him liable for Section 32 of the DPA and in recommending for his prosecution.[^4] He disagreed with the ruling of the Commission that the publication of the letter dated 23 November 2021 was a processing without lawful basis.[^5] DSL claimed that the publication was necessary for compliance with a legal obligation of the GA Tower 1 Condominium Corporation (GAT1CC) in accordance with Section 12 (c) of the DPA.[^6] He argued that the House Rules and Regulations of the GAT1CC authorizes the management to disclose the names of the delinquent members and unit owners.[^7] DSL further disagreed with the finding that the letter dated 23 November 2021 was not issued for the interest of GAT1CC.[^8] He argued that the Complainants have the burden to prove by substantial evidence that DSL has no authority to issue the letter on behalf of the condominium corporation[^9] and that his acts constitute unauthorized disclosure.[^10]
+In his Motion, DSL argued that the Commission "inadvertently committed palpable error" in holding him liable for Section 32 of the DPA and in recommending for his prosecution.[^4] He disagreed with the ruling of the Commission that the publication of the letter dated 23 November 2021 was a processing without lawful basis.[^5] DSL claimed that the publication was necessary for compliance with a legal obligation of the GA Tower 1 Condominium Corporation (GAT1CC) in accordance with [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the DPA]].[^6] He argued that the House Rules and Regulations of the GAT1CC authorizes the management to disclose the names of the delinquent members and unit owners.[^7] DSL further disagreed with the finding that the letter dated 23 November 2021 was not issued for the interest of GAT1CC.[^8] He argued that the Complainants have the burden to prove by substantial evidence that DSL has no authority to issue the letter on behalf of the condominium corporation[^9] and that his acts constitute unauthorized disclosure.[^10]
 
 DSL further argued that the Commission has no jurisdiction over the subject matter of the case.[^11] He claimed that since the parties involved are members and officers of the corporation, the case involves an intra-corporate controversy.[^12] Hence, according to DSL, it is the Regional Trial Court that has jurisdiction over the case.[^13]
 

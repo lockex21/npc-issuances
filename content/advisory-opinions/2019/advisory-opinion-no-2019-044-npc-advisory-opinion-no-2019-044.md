@@ -35,7 +35,7 @@ You now inquire whether Bayad Center customer's consent to the processing of the
 
 ### Consent of the data subject required for processing of personal data for other purposes
 
-Section 3(b) of the Data Privacy Act of 2012[^2] defines "consent of the data subject" as any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. The law further provides that consent shall be evidenced by written, electronic or recorded means.
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the Data Privacy Act of 2012]][^2] defines "consent of the data subject" as any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. The law further provides that consent shall be evidenced by written, electronic or recorded means.
 
 While the NPC was not furnished with Bayad Center's Consent Form, we note that in your letter, it was qualified that credit scoring was made "upon customer's request." This phrase, in effect, limits the consent for the processing of personal data given by the data subject to Bayad Center through the Consent Form such that the processing of customer's personal data for credit scoring shall be allowed only upon a separate request from the customer.
 
@@ -55,7 +55,7 @@ In this case, on the part of Bayad Center's customers, it is unclear that the co
 
 ### Execution of a data sharing agreement required
 
-Bayad Center and Home Credit should execute a data sharing agreement in accordance with Section 20 of the Implementing Rules and Regulations (IRR) of the DPA which provides that data sharing for commercial purposes, including direct marketing, shall be covered by a DSA. The agreement shall establish adequate safeguards for the protection of personal data and uphold rights of data subjects.
+Bayad Center and Home Credit should execute a data sharing agreement in accordance with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20 of the Implementing Rules and Regulations]] (IRR) of the DPA which provides that data sharing for commercial purposes, including direct marketing, shall be covered by a DSA. The agreement shall establish adequate safeguards for the protection of personal data and uphold rights of data subjects.
 
 This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 

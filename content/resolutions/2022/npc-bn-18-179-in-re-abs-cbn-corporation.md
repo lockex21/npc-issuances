@@ -118,7 +118,7 @@ The notification stated that there was a report of a data breach of ABS-CBN’s 
 
 In addition, the copies of the e-mails sent to the affected data subjects,[^56] the Sworn Affidavit of RSC,[^57] the recordings of phone calls to affected data subjects,[^58] and the delivery status report from the courier[^59] substantially prove that ABS-CBN notified the affected data subjects regarding the breach. The EnD found that these submissions comply with the requirements provided under Section 18 (A) and Section 18 (D) of NPC Circular 16-03.[^60] Hence, it is recommended that the case be closed.[^61] The Commission affirms the EnD’s recommendation and closes the case.
 
-Nonetheless, the Commission stresses that the determination of whether ABS-CBN’s acts or omissions contributed to the breach or gave rise to other violations of the DPA are beyond the scope of NPC Circular 16-03 and the matters currently before the Commission.
+Nonetheless, the Commission stresses that the determination of whether ABS-CBN’s acts or omissions contributed to the breach or gave rise to other violations of the [[laws/data-privacy-act-of-2012|DPA]] are beyond the scope of NPC Circular 16-03 and the matters currently before the Commission.
 
 **WHEREFORE**, premises considered, the Commission resolves that NPC BN 18-179 – In re: ABS-CBN Corporation is hereby **CLOSED**.
 

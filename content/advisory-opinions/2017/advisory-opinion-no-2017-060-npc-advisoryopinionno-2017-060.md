@@ -22,7 +22,7 @@ Re: Nature of Professional Information
 
 Dear [Redacted],
 
-This pertains to your query received by the National Privacy Commission (NPC) on 09 August 2017. You inquired if professional information such as name, position, bank or company, office telephone number, mobile number and company address available in a company's website are considered as personal information pursuant to the Data Privacy Act of 2012 (DPA).
+This pertains to your query received by the National Privacy Commission (NPC) on 09 August 2017. You inquired if professional information such as name, position, bank or company, office telephone number, mobile number and company address available in a company's website are considered as personal information pursuant to the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 You likewise mentioned that for those in the government sector, function-related information such as the above are special cases of personal information openly known by the public.
 
@@ -64,5 +64,5 @@ Privacy Commissioner and Chairman
 [^3]: Office of the Privacy Commissioner for Personal Data, Hong Kong, Guidance Note - Guidance on Use of Personal Data Obtained from the Public Domain, August 2013, available at https://www.pcpd.org.hk/english/publications/files/GN_public_domain_e.pdf
 [^4]: Id.
 [^5]: RA No. 10173, §4(a)
-[^6]: Implementing Rules and Regulations (IRR) of RA No. 10173, §5
+[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of RA No. 10173, §5
 [^7]: Id.

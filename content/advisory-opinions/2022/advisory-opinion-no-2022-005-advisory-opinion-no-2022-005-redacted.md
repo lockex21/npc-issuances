@@ -35,7 +35,7 @@ We also understand that the LTO responded to your email complaint and stated tha
 
 The name and address of a vehicle owner are personal information, the processing of which is covered by the DPA. We wish to clarify that the LTO's statement that the DPA prohibits them from disclosing personal information without consent is not entirely accurate.
 
-Consent is not the only lawful basis for processing personal information. Section 12 of the DPA provides for the various criteria for lawful processing, to wit:
+Consent is not the only lawful basis for processing personal information. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] provides for the various criteria for lawful processing, to wit:
 
 > SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -70,7 +70,7 @@ The processing of personal information for the filing of formal/legal charges fo
 
 While there is an existing administrative case initiated through the email complaint, it will not address the violation of the civil rights of a complainant. Thus, an administrative case does not preclude the filing of a civil action for damages.
 
-The Commission, in BGM vs. IPP,[^7] had the occasion to explain that the protection of lawful rights and interests under Section 13 (f) of the DPA is considered as legitimate interest pursuant to Section 12 (f) of the DPA:
+The Commission, in BGM vs. IPP,[^7] had the occasion to explain that the protection of lawful rights and interests under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] is considered as legitimate interest pursuant to Section 12 (f) of the DPA:
 
 > Based on the foregoing, the disclosure to be made by the Respondent of the information of the recipient of Complainant's personal information, for purposes of identification of the person liable for the alleged fraud, sans the latter's consent, is necessary for the protection of the lawful rights and interests of the Complainant as contemplated by Section 13 (f) of the DPA.
 >
@@ -96,7 +96,7 @@ While the letter request you sent to LTO is a mass request for information of se
 
 LTO must establish a system for handling these types of requests for information to avoid the possibility of abuse. As a request for personal information for the filing of a legal action falls under the legitimate interests of the requesting party, the system must assess the request if it satisfies the three aforementioned tests. It must also provide for a mechanism to ensure that the information to be disclosed will only be used for the purpose/s indicated.
 
-In Advisory Opinion No. 2021-044, it was recommended that in case a request for personal information is granted, the requesting party should be required to sign an undertaking that the information will only be used for the purpose that was declared:
+In [[advisory-opinions/2021/advisory-opinion-no-2021-044-npc-advisory-opinion-no-2021-044|Advisory Opinion No. 2021-044]], it was recommended that in case a request for personal information is granted, the requesting party should be required to sign an undertaking that the information will only be used for the purpose that was declared:
 
 > Should the CHMSC grant the request, it is suggested that the Requesting Party be required to sign an undertaking that the use of the documents will only be for the purpose of filing a complaint with the Ombudsman and that the proper disposal thereof is ensured if he does not push through with the filing of the complaint. Further, the undertaking must include a clause to the effect that the requestor acknowledges that he becomes a PIC by his receipt of the requested documents and therefore has the obligations of a PIC as prescribed under the DPA.
 
@@ -128,7 +128,7 @@ OIC – Director IV, Privacy Policy Office
 [^4]: *Id.*
 [^5]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 18 January 2022].
 [^6]: 1997 Rules of Procedure, as Amended, Rule 1, § 3 (a).
-[^7]: National Privacy Commission, BGM vs. IPP, NPC 19-653 (Dec. 17, 2020).
+[^7]: National Privacy Commission, BGM vs. IPP, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020).
 [^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016), § 18 (c).
 [^9]: Data Privacy Act of 2012, § 25(a).
 [^10]: *Id.* § 28, par. 1.

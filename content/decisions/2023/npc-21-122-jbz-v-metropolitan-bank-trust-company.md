@@ -110,7 +110,7 @@ Metrobank claimed that the outsourcing of JBZ's account is valid under Republic 
 
 > Section 21. Endorsement of Credit Card Debt Collection by the Credit Card Issuer to a Collection Agency. A credit card issuer shall inform its cardholder in writing of the endorsement of the collection of the account to a collection agency, or the endorsement of the account from one collection agency to another, prior to the actual endorsement. The notification shall include the full name of the collection agency and its contact details. The requirement to notify a cardholder in writing about the endorsement of the account to the collection agency shall be included in the terms and conditions of the credit card agreement: Provided, That the credit card issuer shall refer the collection of an account to only one collection agency at any one time.[^38]
 
-Metrobank argued that even in the absence of Section 21 of R.A. No. 10870, Section 14 of the DPA recognizes outsourcing of personal data:
+Metrobank argued that even in the absence of Section 21 of R.A. No. 10870, [[laws/data-privacy-act-of-2012#section-14-subcontract-of-personal-information|Section 14 of the DPA]] recognizes outsourcing of personal data:
 
 > Section 14. Subcontract of Personal Information. A personal information controller may subcontract the processing of personal information: Provided, That the personal information controller shall be responsible for ensuring that proper safeguards are in place to ensure the confidentiality of the personal information processed, prevent its use for unauthorized purposes, and generally, comply with the requirements of this Act and other laws for processing of personal information. The personal information processor shall comply with all the requirements of this Act and other applicable laws.[^39]
 
@@ -144,9 +144,9 @@ Metrobank concluded that JBZ failed to show a data breach on its part, and that 
 
 Further, Metrobank argued that JBZ failed to state a cause of action against CDR.[^53] Metrobank explained that CDR's name was only mentioned in the complaint as the one who sent the letter dated 18 March 2020 on behalf of Metrobank and that there were no other claims on CDR' involvement in the alleged data breach.[^54]
 
-Metrobank argued that none of the circumstances in Section 34 of the DPA on the liability of responsible officers applies to CDR.[^55] Metrobank explained that she only signed the letter for and on behalf of Metrobank.[^56] Metrobank concluded that it would be unjust to drag the name of a bank officer without clear basis on her involvement in the alleged violations of the DPA.[^57]
+Metrobank argued that none of the circumstances in [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the DPA]] on the liability of responsible officers applies to CDR.[^55] Metrobank explained that she only signed the letter for and on behalf of Metrobank.[^56] Metrobank concluded that it would be unjust to drag the name of a bank officer without clear basis on her involvement in the alleged violations of the DPA.[^57]
 
-Metrobank also argued that it is not liable for violating Section 26 (Access Due to Negligence), Section 27 (Improper Disposal), Section 31 (Malicious Disclosure), and Section 32 (Unauthorized Disclosure) of the DPA.[^58] Metrobank maintained that it disclosed JBZ's information to its collection agents with his consent, and that JBZ neither raised clear allegations nor presented evidence to substantiate his allegations.[^59]
+Metrobank also argued that it is not liable for violating Section 26 (Access Due to Negligence), Section 27 (Improper Disposal), Section 31 (Malicious Disclosure), and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].[^58] Metrobank maintained that it disclosed JBZ's information to its collection agents with his consent, and that JBZ neither raised clear allegations nor presented evidence to substantiate his allegations.[^59]
 
 Metrobank argued it is not liable for Section 26 (Access due to Negligence):
 
@@ -207,13 +207,13 @@ Outsourcing by an issuing bank of a credit card holder's unpaid account to its c
 
 > Section 14. Subcontract of Personal Information. A personal information controller may subcontract the processing of personal information: Provided, That the personal information controller shall be responsible for ensuring that proper safeguards are in place to ensure the confidentiality of the personal information processed, prevent its use for unauthorized purposes, and generally, comply with the requirements of this Act and other laws for processing of personal information. The personal information processor shall comply with all the requirements of this Act and other applicable laws.[^74]
 
-Section 43, Rule X of the Implementing Rules and Regulations of the DPA (IRR) provides that a Personal Information Controller (PIC) shall use contractual or other reasonable means to ensure proper safeguards are in place:
+Section 43, Rule X of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the DPA (IRR) provides that a Personal Information Controller (PIC) shall use contractual or other reasonable means to ensure proper safeguards are in place:
 
 > Section 43. Subcontract of Personal Data. A personal information controller may subcontract or outsource the processing of personal data: Provided, that the personal information controller shall use contractual or other reasonable means to ensure that proper safeguards are in place, to ensure the confidentiality, integrity and availability of the personal data processed, prevent its use for unauthorized purposes, and generally, comply with the requirements of the Act, these Rules, other applicable laws for processing of personal data, and other issuances of the Commission.[^75]
 
 The outsourcing or subcontracting of the processing of personal data to third parties is permitted under the DPA and its IRR. In such cases, a PIC, such as Metrobank, is accountable for the actions of collection agents, or its Personal Information Processors (PIP). The PIC also remains responsible for ensuring the confidentiality of the personal data processed, prevention of any unauthorized processing, and compliance with relevant laws.[^76]
 
-Section 21 of the DPA provides for the Principle of Accountability and concomitant obligations of PICs:
+[[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]] provides for the Principle of Accountability and concomitant obligations of PICs:
 
 > Section 21. Principle of Accountability. Each personal information controller is responsible for personal information under its control or custody, including information that have been transferred to a third party for processing, whether domestically or internationally, subject to cross-border arrangement and cooperation.
 >
@@ -299,7 +299,7 @@ Given the lack of substantial evidence presented by JBZ, the Commission cannot f
 
 The Commission also cannot award damages to JBZ for the erroneous email from Metrobank regarding the cancellation of another client's credit card. While Metrobank sent the wrong email to JBZ, it neither contained personal information of another card holder nor involved JBZ's personal information. As such, the Commission has no reason to award damages to JBZ.
 
-Nevertheless, the Commission sternly warns Metrobank to ensure that proper safeguards are in place when referring unpaid accounts such as JBZ's to its collection agents, and that the processing of personal information is accurate and up to date following Section 11 of the DPA:
+Nevertheless, the Commission sternly warns Metrobank to ensure that proper safeguards are in place when referring unpaid accounts such as JBZ's to its collection agents, and that the processing of personal information is accurate and up to date following [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]]:
 
 > Section. 11. General Data Privacy Principles. The processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.
 >

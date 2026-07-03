@@ -24,7 +24,7 @@ Re: APPLICABILITY OF THE DATA PRIVACY ACT OF 2012 AND CIRCULARS OF THE NATIONAL 
 
 Dear [Redacted],
 
-This pertains to your query received by the National Privacy Commission (NPC) on 2 November 2016, via email, regarding the applicability of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR), and administrative circulars issued by the NPC, to the Landbank of the Philippines (LBP), in light of Section 5(e) of the IRR of the DPA, which states:
+This pertains to your query received by the National Privacy Commission (NPC) on 2 November 2016, via email, regarding the applicability of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR), and administrative circulars issued by the NPC, to the Landbank of the Philippines (LBP), in light of [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5(e) of the IRR]] of the DPA, which states:
 
 > "Section 5. Special Cases. The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:
 >
@@ -34,7 +34,7 @@ This pertains to your query received by the National Privacy Commission (NPC) on
 
 ### Discussion
 
-We confirm that banks and other financial institutions are covered by the DPA, its IRR, and all issuances by the NPC. Section 4 of the DPA provides that the law applies to the processing of all types of personal data and to any natural and juridical person involved in personal data processing. No distinction is made between those who form part of the government sector or the private sector. This policy is further reiterated in the law's IRR.[^1]
+We confirm that banks and other financial institutions are covered by the DPA, its IRR, and all issuances by the NPC. [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] provides that the law applies to the processing of all types of personal data and to any natural and juridical person involved in personal data processing. No distinction is made between those who form part of the government sector or the private sector. This policy is further reiterated in the law's IRR.[^1]
 
 Regarding Section 5(e) of the IRR, it is important to note that the exemptions and/or special cases provided in the DPA and its IRR all pertain to specific types of information, and not those persons engaged in the processing thereof. Moreover, the exemption is not absolute. Even in those instances wherein the information being processed may be considered outside the scope of the law, the IRR clarifies that the processing shall be exempt from the requirements of the law "only to the minimum extent necessary to achieve the specific purpose, function, or activity."[^2]
 

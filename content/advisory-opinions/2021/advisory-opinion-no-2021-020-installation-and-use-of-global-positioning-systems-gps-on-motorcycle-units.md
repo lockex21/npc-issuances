@@ -26,8 +26,7 @@ Dear [Redacted],
 
 We write in response to your request for advisory opinion received by the National Privacy
 Commission (NPC) to provide guidance on the legality of the installation of global positioning
-systems (GPS) tracker in your motorcycle units considering the provisions of the Data Privacy
-Act of 2012[^2] (DPA).
+systems (GPS) tracker in your motorcycle units considering the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 Further, '''''''''''''''''' '''''''''''''''''''' seeks to implement the following privacy safeguards in case the
 installation of GPS trackers is allowed:

@@ -69,7 +69,7 @@ We understand that MedCheck continuously encourages its physicians and medical p
 to register their practice with the National Privacy Commission (NPC) and comply with the DPA
 and MedCheck’s data protection policies.
 
-In addition, MedCheck should have technical security measures which may come in the form of policies, procedures, controls, technology and equipment to protect the organization’s systems processing personal data. Specifically, the Implementing Rules and Regulations (IRR) of the DPA provide that such measures shall include the following:
+In addition, MedCheck should have technical security measures which may come in the form of policies, procedures, controls, technology and equipment to protect the organization’s systems processing personal data. Specifically, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the DPA provide that such measures shall include the following:
 
 - **a.** A security policy with respect to the processing of personal data;
 - **b.** Safeguards to protect computer network against accidental, unlawful or unauthorized usage, any interference which will affect data integrity or hinder the functioning or availability of the system, and unauthorized access through electronic network;
@@ -102,7 +102,7 @@ such data is subject to the provisions of the DPA. We wish to reiterate that in 
 medical treatment information where the same is not anonymized, the consent, if this is the basis
 for processing, should be given by the patients themselves and not the physicians. In all cases,
 patients as data subjects have the right to be informed and notified about the processing of his or
-her personal data pursuant to Section 16 of the DPA.
+her personal data pursuant to [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]].
 
 This opinion is based on the information you have provided. Additional information may change
 the context of the inquiry and the appreciation of the facts.
@@ -127,4 +127,4 @@ Privacy Commissioner and Chairman
 [^6]: Data Privacy Act of 2012, § 13; National Privacy Commission, Guidelines on Processing of Sensitive Personal Information, Advisory No. 2015-03 (2015).
 [^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 25 (2016).
 [^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 25 (2016).
-[^9]: National Privacy Commission, Guidelines on Privacy Impact Assessment, Advisory No. 2017-03 (July 31, 2017).
+[^9]: National Privacy Commission, Guidelines on Privacy Impact Assessment, [[issuances/2017/guidelines-on-privacy-impact-assessments|Advisory No. 2017-03]] (July 31, 2017).

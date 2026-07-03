@@ -81,7 +81,7 @@ sensitive personal information. Sections 12 and 13 of the DPA provide the criter
 processing of personal information and sensitive personal information, respectively, are
 allowed.
 
-#### Disclosure of Photographs Allowed Under Section 13 of the DPA
+#### Disclosure of Photographs Allowed Under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]
 
 Under the DPA, the processing of personal information shall be allowed, subject to
 compliance with the requirements of this Act and other laws allowing disclosure of

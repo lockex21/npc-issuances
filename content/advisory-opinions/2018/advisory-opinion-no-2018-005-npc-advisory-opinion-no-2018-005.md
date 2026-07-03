@@ -36,7 +36,7 @@ Specifically, your questions pertain to the following:
 
 #### Data Sharing Agreement vis-à-vis Outsourcing Agreement
 
-The Implementing Rules and Regulations (IRR) of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 (DPA), lays down the principles for data sharing[^2] and outsourcing.[^3]
+The Implementing Rules and Regulations (IRR) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012 (DPA), lays down the principles for data sharing[^2] and outsourcing.[^3]
 
 To clarify, *data sharing* is the disclosure or transfer to a third party of personal data under the custody of a personal information controller (PIC) or personal information processor (PIP). In the case of the latter, such disclosure or transfer must have been upon the instructions of the PIC concerned. The term excludes *outsourcing*, or the disclosure or transfer of personal data by a personal information controller to a personal information processor.[^4]
 
@@ -46,13 +46,13 @@ The protected document itself is issued by “any institution/organization that 
 
 Hence, Doxcheck is a PIP to whom PICs outsourced the processing, i.e. security and protection, of the documents which may contain personal data.[^7]
 
-Section 44 of the IRR provides that processing by a PIP shall be governed by a contract or other legal act that binds the PIP to the PIC. This agreement for outsourcing is not required to be submitted to the NPC for its approval prior to its execution. Note however that said document may be required for submission by the NPC in case of a compliance check or an investigation.
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|Section 44 of the IRR]] provides that processing by a PIP shall be governed by a contract or other legal act that binds the PIP to the PIC. This agreement for outsourcing is not required to be submitted to the NPC for its approval prior to its execution. Note however that said document may be required for submission by the NPC in case of a compliance check or an investigation.
 
 In the same manner, the IRR does not require the submission of data sharing agreements to the NPC for its approval. Bear in mind, however, the IRR requires, among others, that such data sharing agreements shall be subject to the review by the NPC, on its own initiative or upon complaint of the data subject concerned.[^8] Hence, the NPC has the right to require the submission of such data sharing agreements should it deem necessary.
 
 #### Data Protection Officer
 
-As regards your query on the DPO, the NPC issued *NPC Advisory No. 2017-01 – Designation of Data Protection Officers* which sets out the guidelines on the designation of a DPO applicable to all who are engaged in the processing of personal data within and outside of the Philippines, subject to the applicable provisions of the DPA, its IRR and the issuances of the NPC.
+As regards your query on the DPO, the NPC issued *[[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]] – Designation of Data Protection Officers* which sets out the guidelines on the designation of a DPO applicable to all who are engaged in the processing of personal data within and outside of the Philippines, subject to the applicable provisions of the DPA, its IRR and the issuances of the NPC.
 
 Pursuant to said Advisory, a DPO should be a full-time or organic employee of the PIC or PIP, occupying a regular or permanent position. To fully carry out the spirit and purpose of the law, the DPO shall act independently in the performance of his or her functions and shall enjoy sufficient degree of autonomy.
 

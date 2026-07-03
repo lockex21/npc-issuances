@@ -53,7 +53,7 @@ ii) Are the proposed safeguards and features compliant with the DPA?
 
 The DPA applies to the processing of all types of personal information and sensitive personal information (collectively, personal data). Personal information is defined as any information whether recorded in a material form or not, from which the identity of the individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^3]
 
-The full name of an individual is considered personal information. A photo of an individual’s face, a form of biometric data, is also considered personal information since it directly and certainly identifies a particular individual. In Advisory Opinion No. 2017-063[^4] we discussed the nature of biometrics as personal information, viz.:
+The full name of an individual is considered personal information. A photo of an individual’s face, a form of biometric data, is also considered personal information since it directly and certainly identifies a particular individual. In [[advisory-opinions/2017/advisory-opinion-no-2017-063-npc-advisoryopinionno-2017-063|Advisory Opinion No. 2017-063]][^4] we discussed the nature of biometrics as personal information, viz.:
 
  > As can be gleaned from Republic Act (RA) No. 10367,[^3] biometrics refer to “the quantitative analysis that provides a positive identification of an individual such as voice, photograph, fingerprint, signature, iris and/or such other identifiable features.”[^4]
  >
@@ -63,9 +63,9 @@ The full name of an individual is considered personal information. A photo of an
  >
  > In the same manner, unique information relating[^7] to an individual or when linked with other information will allow an individual to be distinguished from others, may be treated as personal information.
 
-Thus, the processing of an individual’s full name and photo must find lawful basis under Section 12 of the DPA.
+Thus, the processing of an individual’s full name and photo must find lawful basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]].
 
-On the other hand, date of birth is considered sensitive personal information as provided under Section 3(l)(1) of the DPA. Considering that the data set intended to be shared includes sensitive personal information, the processing of the entire data may find lawful basis under Section 13 of the DPA. It appears that Sections 13 (a) and 13 (f) of the DPA are the most appropriate lawful bases for the intended processing, viz.:
+On the other hand, date of birth is considered sensitive personal information as provided under Section 3(l)(1) of the DPA. Considering that the data set intended to be shared includes sensitive personal information, the processing of the entire data may find lawful basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]. It appears that Sections 13 (a) and 13 (f) of the DPA are the most appropriate lawful bases for the intended processing, viz.:
 
 (a) The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given his or her consent prior to processing;
 
@@ -85,7 +85,7 @@ In BGM v. IPP[^7], we had the occasion to clarify the nature of processing pursu
  >
  > In the case of NPC 17-018 dated 15 July 2019, this Commission held that “processing as necessary for the establishment of legal claims” does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of “establishment ... of legal claims” presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established.”
  >
- > This Commission in the same case went on further and held that: The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is “necessary” or may or may not be collected by lawyers for purposes of building a case, applying the qualifier “necessary” to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of “establishment of legal claims” consistent with the general principles of legitimate purpose and proportionality. As regards legitimate purpose, the Implementing Rules and Regulations (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.
+ > This Commission in the same case went on further and held that: The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is “necessary” or may or may not be collected by lawyers for purposes of building a case, applying the qualifier “necessary” to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of “establishment of legal claims” consistent with the general principles of legitimate purpose and proportionality. As regards legitimate purpose, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.
  >
  > Based on the foregoing, the disclosure to be made by the Respondent of the information of the recipient of Complainant’s personal information, for purposes of identification of the person liable for the alleged fraud, sans the latter’s consent, is necessary for the protection of the lawful rights and interests of the Complainant as contemplated by Section 13 (f) of the DPA. (underscoring supplied)
 
@@ -128,7 +128,7 @@ Director IV, Privacy Policy Office
 [^4]: NPC Advisory Opinion No. 2017-063, (09 February 2017).
 [^5]: Data Privacy Act of 2012, § 13(f).
 [^6]: Id. § 3 (b).
-[^7]: National Privacy Commission, BGM v. IPP [NPC 19-653] (Dec. 17, 2020).
+[^7]: National Privacy Commission, BGM v. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020).
 [^8]: Data Privacy Act of 2012, § 11 (a).
 [^9]: Id.
 [^10]: Id.

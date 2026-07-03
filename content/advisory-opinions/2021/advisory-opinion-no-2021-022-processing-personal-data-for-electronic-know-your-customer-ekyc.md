@@ -53,7 +53,7 @@ Agree button suffice as evidence of consent.
 
 #### Lawful Basis for Processing of Personal Data; Law or Regulation; Privacy Notice
 
-For this scenario, Section 13 (b) of the DPA on the processing of sensitive personal information
+For this scenario, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b) of the DPA]] on the processing of sensitive personal information
 based on existing laws and regulations is applicable and may be the most appropriate lawful basis
 for processing considering the bank’s relationship with its customers vis-à-vis compliance
 requirements with the BSP Manual of Regulations for Banks (MORB).
@@ -67,7 +67,7 @@ retains, and discloses personal information.[^4]
 #### Outsourcing; Data Subjects Rights
 
 For outsourcing, we note the MORB provisions you have provided. These are read together with
-the provisions of the Implementing Rules and Regulations[^5] (IRR) of the DPA, specifically Sections
+the provisions of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^5] (IRR) of the DPA, specifically Sections
 43-45. The stipulations for outsourcing agreements indicated in these provisions should be
 included in the bank’s agreement with its eKYC solutions provider.
 
@@ -99,8 +99,8 @@ OIC-Director IV, Privacy Policy Office
 
 [^1]: Tags: lawful basis for processing; laws and regulations; BSP; know your customer (KYC); outsourcing.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: National Privacy Commission, Data Subject Rights [NPC Advisory No. 2021 – 01] (Jan. 29, 2021).
+[^3]: National Privacy Commission, Data Subject Rights [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] (Jan. 29, 2021).
 [^4]: Id. citing National Privacy Commission, NPC Advisory Opinion 2018- 013 (2018).
 [^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-[^6]: Id. § 43 and NPC Advisory No. 2021 – 01, § 5 (c).
+[^6]: Id. § 43 and [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]], § 5 (c).
 [^7]: See generally: Cavoukian, Ann Ph.D., Privacy by Design - The 7 Foundational Principles - Implementation and Mapping of Fair Information Practices, available at https://iapp.org/media/pdf/resource_center/pbd_implement_7found_principles.pdf (last accessed 2 July 2021).

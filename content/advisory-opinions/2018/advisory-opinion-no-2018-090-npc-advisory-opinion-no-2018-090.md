@@ -24,7 +24,7 @@ Re: DATA PRIVACY AND OFFICE-ISSUED MOBILE DEVICES
 Dear [Redacted],
 
 We write in response to your inquiry regarding the use of office-issued mobile devices in
-relation to the Data Privacy Act of 2012[^2] (DPA). In particular, you are asking whether the
+relation to the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA). In particular, you are asking whether the
 access of your employer to your personal iCloud account using an office-issued mobile device
 would be in violation of your rights to data privacy or constitute any of the offenses
 punishable under the DPA.

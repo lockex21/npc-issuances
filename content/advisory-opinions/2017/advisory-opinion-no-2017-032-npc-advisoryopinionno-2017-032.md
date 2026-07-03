@@ -30,7 +30,7 @@ The Data Privacy Act of 2012 (DPA) protects all forms of personal information, i
 
 Financial and credit institutions are personal information controllers covered by the DPA and must ensure compliance with all applicable data privacy requirements when processing personal information, including sensitive personal information.
 
-The processing of sensitive personal information is generally prohibited unless one of the exceptions under Section 13 of the DPA applies. These exceptions include:
+The processing of sensitive personal information is generally prohibited unless one of the exceptions under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] applies. These exceptions include:
 
 1. When the data subject has given consent, specific to the purpose;
 2. When the processing is provided for by existing laws and regulations with adequate safeguards;

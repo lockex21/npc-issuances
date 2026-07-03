@@ -26,7 +26,7 @@ We write in response to your letter requesting for an advisory opinion received 
 
 As stated in your letter, a resident of Cuyapo, Nueva Ecija requested for copies of the SALN of certain municipal and barangay officials of Cuyapo, Nueva Ecija from your office, with the intent of using the SALN as evidence for the filing of falsification and malversation charges against the said officials. However, the BTr upholds its position that, although the SALN is a public document, the BTr cannot lawfully disclose copies of the SALN to a requesting third party since the BTr is not the official custodian of the said public document.
 
-You now seek clarification on whether the BTr can furnish copies of the SALN to a third party without violating the provisions of the Data Privacy Act of 2012[^3] (DPA), its Implementing Rules and Regulations (IRR) and other relevant issuances of the NPC.
+You now seek clarification on whether the BTr can furnish copies of the SALN to a third party without violating the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^3] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and other relevant issuances of the NPC.
 
 ### Discussion
 

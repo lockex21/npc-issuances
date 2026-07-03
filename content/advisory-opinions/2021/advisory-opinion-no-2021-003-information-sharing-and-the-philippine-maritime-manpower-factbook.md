@@ -23,7 +23,7 @@ Re: INFORMATION SHARING AND THE PHILIPPINE MARITIME MANPOWER FACTBOOK
 
 Dear [Redacted],
 
-We write in response to your letter requesting for clarification on whether the sharing of information between the National Maritime Polytechnic (NMP) and the other regulatory government agencies such as the Maritime Industry Authority (MARINA), Commission on Higher Education (CHED), Philippine Overseas Employment Administration (POEA), Philippine Coast Guard (PCG), and Overseas Workers Welfare Administration (OWWA) (collectively, data source agencies) is covered by NPC Circular No. 16-02 on Data Sharing Agreements (DSAs) involving Government Agencies.
+We write in response to your letter requesting for clarification on whether the sharing of information between the National Maritime Polytechnic (NMP) and the other regulatory government agencies such as the Maritime Industry Authority (MARINA), Commission on Higher Education (CHED), Philippine Overseas Employment Administration (POEA), Philippine Coast Guard (PCG), and Overseas Workers Welfare Administration (OWWA) (collectively, data source agencies) is covered by [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] on Data Sharing Agreements (DSAs) involving Government Agencies.
 
 We note from your letter and the attached draft Memorandum of Agreement (MOA) and annexures on the Data Needs for the Philippine Maritime Manpower Factbook (Factbook) and the Situation Briefer on the Effects of COVID-19 (collectively, data needs) that for the regular and timely production of the Factbook, the data source agencies will share to the NMP industry-related administrative data and statistics.
 
@@ -41,7 +41,7 @@ At the outset, please note that NPC Circular No. 2020-03 on Data Sharing Agreeme
 
 To determine whether data sharing falls within the scope of the Data Privacy Act of 2012[^4] (DPA) and NPC Circular No. 2020-03, it is important to first determine whether the subject matter of the DSA is personal information.
 
-To clarify, Section 4 of the DPA provides that the law applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing, whereas Section 3(g) of the same defines personal information as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+To clarify, [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] provides that the law applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing, whereas Section 3(g) of the same defines personal information as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 
 Further, NPC Circular No. 2020-03 defines DSA as a contract, joint issuance, or any similar document which sets out the obligations, responsibilities, and liabilities of the personal information controllers involved in the transfer of personal data between or among them, including the implementation of adequate safeguards for data privacy and security, and upholding the rights of the data subjects.
 
@@ -68,4 +68,4 @@ OIC-Director IV, Privacy Policy Office
 [^2]: Creation of a National Maritime Polytechnic, Presidential Decree No. 1369 (1978).
 [^3]: Id.
 [^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^5]: See: National Privacy Commission, Advisory Opinion No. 2020-028 (15 July 2020).
+[^5]: See: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-028-redacted-advisory-opinion-no-2020-028-2|Advisory Opinion No. 2020-028]] (15 July 2020).

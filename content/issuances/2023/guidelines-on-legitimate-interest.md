@@ -19,18 +19,18 @@ date: "2023-12-13"
 
 **Circular No. 2023-07**
 
-WHEREAS, [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]] or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]])  
+WHEREAS, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]])
 provides that the National Privacy Commission (NPC) is charged with the administration  
 and implementation of the [[laws/data-privacy-act-of-2012|DPA]], which includes ensuring the compliance of personal  
 information controllers (PICs), and carrying out efforts to formulate and implement plans  
 and policies that strengthen the protection of personal information in the country in  
 coordination with other government agencies and the private sector;
 
-WHEREAS, under Section 9 of the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|DPA]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]),  
+WHEREAS, under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] of the [[laws/data-privacy-act-of-2012|DPA]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]),
 the NPC is mandated to develop, promulgate, review, or amend rules and regulations for  
 the effective implementation of the [[laws/data-privacy-act-of-2012|DPA]];
 
-WHEREAS, [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]] provides that personal information may be  
+WHEREAS, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]] provides that personal information may be
 processed based on a legitimate interest pursued by the PIC or by a third party to whom  
 the data is disclosed;
 
@@ -42,11 +42,11 @@ freedoms;
 WHEREFORE, in view of the foregoing, the NPC hereby issues this Circular to provide  
 guidelines on legitimate interest as a lawful basis for processing personal information.
 
-**SECTION 1.** ***Scope and Purpose.*** This Circular applies to all PICs and third parties engaged in the processing of personal information based on legitimate interest under [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]]. It provides guidelines for self‑assessing whether legitimate interest constitutes a lawful basis for a specific processing activity.
+**SECTION 1.** ***Scope and Purpose.*** This Circular applies to all PICs and third parties engaged in the processing of personal information based on legitimate interest under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]]. It provides guidelines for self‑assessing whether legitimate interest constitutes a lawful basis for a specific processing activity.
 
 **SECTION 2.** ***Definition of Terms.*** The definition of terms in the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as amended, as well as in existing NPC issuances, are adopted herein.
 
-**SECTION 3.** ***General Considerations.*** [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]] permits the processing of personal information when the processing is necessary for the legitimate interests pursued by the PIC or a third party to whom the personal information is disclosed, except
+**SECTION 3.** ***General Considerations.*** [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]] permits the processing of personal information when the processing is necessary for the legitimate interests pursued by the PIC or a third party to whom the personal information is disclosed, except
 
 where such interests are overridden by fundamental rights and freedoms of the data  
 subject that require protection under the Philippine Constitution.
@@ -59,7 +59,7 @@ subject that require protection under the Philippine Constitution.
             processing of personal information. It cannot be relied upon when the  
             processing involves sensitive personal information and privileged information.
 
-   C.     The third party in [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]] refers to any natural or juridical  
+   C.     The third party in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]] refers to any natural or juridical
             person to whom personal information is disclosed and who is not the PIC, the  
             personal information processor (PIP), or the data subject of the specific  
             processing activity.
@@ -136,7 +136,7 @@ The factors that may be considered include but are not limited to:
             interest as part of their regular process.
 
    B.     A PIC must keep the records of the legitimate interest assessment made as the  
-            basis for relying on [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]] to process personal information.
+            basis for relying on [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]] to process personal information.
 
    C.     In case of an investigation or a compliance check, the NPC may require the  
             submission of the records of the legitimate interest assessment.
@@ -154,8 +154,7 @@ legitimate interest, such third party is considered a PIC.
 
 Legitimate interest may be considered the appropriate lawful basis for specific processing
 activities carried out by government agencies that are not expressly provided in their
-mandate and do not fall squarely on any of the other criteria for processing under Section
-12 of the DPA or as a special case under Section 4 of the DPA.[^12] Legitimate interest may
+mandate and do not fall squarely on any of the other criteria for processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] or as a special case under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]].[^12] Legitimate interest may
 apply as lawful basis for ancillary processing activities performed in the ordinary course
 of business. In such cases, the PIC must conduct a legitimate interest assessment.
 

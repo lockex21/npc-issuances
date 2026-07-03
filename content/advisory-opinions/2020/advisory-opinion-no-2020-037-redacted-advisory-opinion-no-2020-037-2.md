@@ -30,7 +30,7 @@ Specifically, the forms required the following personal information: 1) name, 2)
 
 Based on the screenshots you provided, only the landline phone account was transferred under your name. This prompted you to file a complaint with the Globe store in Trinoma. However, as you stated in your query, you discovered that the documents containing your personal information were missing. You then wrote a letter to the store's manager regarding the matter. You also further elevated the matter to Globe's customer care representative (CCR) through their customer hotline on Facebook Messenger, but to no avail as your complaint went unheeded.
 
-In one of the screenshots of your conversation with Globe's CCR, you stated that Globe's improper handling of your application led to the loss of the documents containing your personal information, which might be a violation of Section 27 (a) of the Data Privacy Act of 2012 (DPA), which penalizes improper disposal of personal information.
+In one of the screenshots of your conversation with Globe's CCR, you stated that Globe's improper handling of your application led to the loss of the documents containing your personal information, which might be a violation of [[laws/data-privacy-act-of-2012#section-27-improper-disposal-of-personal-information-and-sensitive-personal-information|Section 27 (a) of the Data Privacy Act of 2012]] (DPA), which penalizes improper disposal of personal information.
 
 ### Discussion
 

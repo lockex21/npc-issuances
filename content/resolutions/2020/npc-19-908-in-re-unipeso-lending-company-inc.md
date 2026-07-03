@@ -43,7 +43,7 @@ On 29 August 2019, a Fact-Finding Report ("Report") was submitted to the Commiss
 
 On 30 August 2019, an Order to File an Answer ("Answer") was issued by the Commission to the Respondents. The Commission instructed all the Respondents to file their respective Answers to the allegations in the Fact-Finding Report within ten (10) days from the receipt of said Order.
 
-On 16 September 2019, Respondents filed their Motion to Dismiss[^2] ("Motion") instead of an Answer. Respondents argued among other things, that the case is dismissible under the rules on *litis pendentia*, there being pending cases involving Respondent NSO filed by specific individual complainants who appear to be same parties in this case, and that the instant *sua sponte* case failed to comply with National Privacy Commission (NPC) Circular No. 16-04, otherwise known as the Rules of Procedure of the NPC ("Rules"), and hence violated their right to due process.
+On 16 September 2019, Respondents filed their Motion to Dismiss[^2] ("Motion") instead of an Answer. Respondents argued among other things, that the case is dismissible under the rules on *litis pendentia*, there being pending cases involving Respondent NSO filed by specific individual complainants who appear to be same parties in this case, and that the instant *sua sponte* case failed to comply with National Privacy Commission (NPC) [[issuances/undated/rules-of-procedure|Circular No. 16-04]], otherwise known as the Rules of Procedure of the NPC ("Rules"), and hence violated their right to due process.
 
 On 02 October 2019, the Commission issued a Resolution denying the Respondents' Motion to Dismiss. The Resolution also stated that Respondents "xxx having failed to substantiate their claims for dismissal, should do well to submit their Answer if they truly want to exercise their right to be heard."
 
@@ -65,7 +65,7 @@ Borrowing the words of the Respondents, "at the risk of sounding repetitive", th
 
 Respondents argued on both of its Motion to Dismiss and Motion for Reconsideration that a group of NPC personnel had come up with the Fact-Finding Report with no clear mandate to conduct investigation. Furthermore, Respondents called out the Commission and boldly claimed that the Commission has no power to constitute an investigating body under the NPC Rules.
 
-The power of the Commission to investigate on its own initiative flows from the law creating the Commission itself pursuant to Section 7(b) of the DPA which provides that:
+The power of the Commission to investigate on its own initiative flows from the law creating the Commission itself pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b) of the DPA]] which provides that:
 
 > xxx
 >

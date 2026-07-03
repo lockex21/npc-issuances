@@ -23,7 +23,7 @@ Re: ACCESS TO SUBSCRIBER RECORDS FOR INTERNAL REVENUE TAX PURPOSES
 
 Dear [Redacted],
 
-We write in response to your letter requesting for an Advisory Opinion received by the National Privacy Commission (NPC or the Commission) on the legality of providing the Bureau of Internal Revenue (BIR) subscriber records of certain individuals in view of the provisions of the Data Privacy Act of 2012[^1] (DPA).
+We write in response to your letter requesting for an Advisory Opinion received by the National Privacy Commission (NPC or the Commission) on the legality of providing the Bureau of Internal Revenue (BIR) subscriber records of certain individuals in view of the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA).
 
 We understand that the BIR, through its Regional Director for Revenue Region No. 8A- Makati City, sent a letter dated 16 September 2021 (BIR letter), requesting Globe Telecom, Inc. (Globe) to allow the attorneys of its Regional Investigation Division access to the records of and/or be furnished with the registered addresses of 782 persons enumerated in Annex A of the same. The BIR further stated that the request is made pursuant to Section 5 (b) of the National Internal Revenue Code (NIRC), as amended, and in consonance with Revenue Memorandum Circular (RMC) No. 97-2021, otherwise known as “Taxation of Any Income Received by Social Media Influencers.”
 
@@ -39,7 +39,7 @@ In the same vein, you brought up the concern that the request may be inconsisten
 
 The DPA provides specific kinds of information deemed as special cases, particularly under Section 4 of the law. The situation at hand involves the BIR as a public authority with a regulatory function. We reiterate our position in NPC Advisory Opinion No. 2021-28:[^2]
 
-> The DPA and its Implementing Rules and Regulations (IRR) provide for a list of specified information which do not fall within the scope of the law. In particular, information necessary to carry out functions of a public authority are considered special cases under the DPA, to wit:
+> The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for a list of specified information which do not fall within the scope of the law. In particular, information necessary to carry out functions of a public authority are considered special cases under the DPA, to wit:
 >
 > SECTION 5. Special Cases. The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, used, disclosure or other processing necessary to the purpose, function, or authority concerned:
 >
@@ -99,5 +99,5 @@ Very truly yours,
 OIC-Director IV, Privacy Policy Office
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: See: National Privacy Commission, NPC Advisory Opinion No. 2019-022 (07 May 2019), NPC Advisory Opinion No. 2020-015 (24 Feb 2020) and NPC Advisory Opinion No. 2021-28 (16 July 2021).
+[^2]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-022-npc-advisory-opinion-no-2019-022|NPC Advisory Opinion No. 2019-022]] (07 May 2019), [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|NPC Advisory Opinion No. 2020-015]] (24 Feb 2020) and NPC Advisory Opinion No. 2021-28 (16 July 2021).
 [^3]: Bureau of Internal Revenue, Revenue Memorandum Circular No. 97-2021 [BIR RMC No. 97-2021] (16 Aug 2021).

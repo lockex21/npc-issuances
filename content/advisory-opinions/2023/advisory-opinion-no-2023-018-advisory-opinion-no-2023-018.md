@@ -56,7 +56,7 @@ The DPA applies to the processing of personal and sensitive personal information
 >
 > xxx
 
-On the other hand, Section 5 of the Implementing Rules and Regulations (IRR) of the DPA provides for a list of special cases where the application of the DPA may be limited or qualified, thus:
+On the other hand, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the Implementing Rules and Regulations]] (IRR) of the DPA provides for a list of special cases where the application of the DPA may be limited or qualified, thus:
 
 > **Section 5. Special Cases.** The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:
 >
@@ -104,7 +104,7 @@ the law does not give PICs unbridled authority over the personal data collected.
 PDEA, must still adhere to the guidelines on how to properly process personal information
 under the DPA.
 
-You also cited in your request our Advisory Opinion 2021-028,[^7] and insisted on its application to your situation. To recall, Advisory Opinion 2021-028 involves somehow a similar situation in that a letter was sent by the Bureau of Internal Revenue (BIR) to a condominium corporation requesting the disclosure of personal data of tenants. In allowing the disclosure pursuant to Section 4 of the DPA, we discussed therein the following requirements, viz:
+You also cited in your request our Advisory Opinion 2021-028,[^7] and insisted on its application to your situation. To recall, Advisory Opinion 2021-028 involves somehow a similar situation in that a letter was sent by the Bureau of Internal Revenue (BIR) to a condominium corporation requesting the disclosure of personal data of tenants. In allowing the disclosure pursuant to [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]], we discussed therein the following requirements, viz:
 
    •    The information is necessary in order to carry out the law enforcement or
            regulatory function of a public authority;
@@ -156,7 +156,7 @@ Director IV, Privacy Policy Office
 [^4]: An Act Instituting the Comprehensive Dangerous Drugs Act of 2002, Repealing Republic Act No. 6425, otherwise known as the Dangerous Drugs Act of 1972, as amended, providing funds therefor and for other purposes [Comprehensive Dangerous Drugs Act of 2002] (2002), §84(b).
 [^5]: Comprehensive Dangerous Drugs Act of 2002, §84(c).
 [^6]: PDEA Code of Professional Conduct and Ethical Standards, §1(l).
-[^7]: National Privacy Commission, NPC Advisory Opinion No. 2021-028 (16 July 2021).
+[^7]: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-028-disclosure-of-personal-information-of-tenants-by-a-condominium-corporation-to-the-bureau-of-internal-revenue|NPC Advisory Opinion No. 2021-028]] (16 July 2021).
 [^8]: Republic Act No. 10173, §11(a).
 [^9]: *Id.* §13(c).
 [^10]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §18 (c) (2016).

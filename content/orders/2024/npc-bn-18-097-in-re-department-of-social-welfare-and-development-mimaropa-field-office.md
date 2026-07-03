@@ -64,7 +64,7 @@ DSWD MIMAROPA further narrated:
 
 > …
 >
-> Hired field staff are oriented to the salient features of the [Data Privacy Act] DPA of 2012, as it included in their training syllabus. Also, there are provisions in their contract on the confidentiality of the gathered information of the households.
+> Hired field staff are oriented to the salient features of the [[laws/data-privacy-act-of-2012|Data Privacy Act]] DPA of 2012, as it included in their training syllabus. Also, there are provisions in their contract on the confidentiality of the gathered information of the households.
 >
 > Furthermore, as mandated by Executive Order No. 867 series of 2010, National Household Targeting System for Poverty Reduction (NHTS-PR) or Listahanan is the repository of data on poor households and directs all national government agencies to use the NHTSPR of the DSWD as the mechanism for identifying poor HH who shall be recipient of social protection programs nationwide.
 >
@@ -183,7 +183,7 @@ Based on the above provisions, the notification to the affected data subjects mu
 
 In this case, the sample letter-notification submitted by DSWD MIMAROPA is not tantamount to actual notification to the affected data subjects. Therefore, such cannot be considered as substantial compliance to the notification requirements.
 
-While the Commission recognizes the efforts exerted by DSWD MIMAROPA in undertaking mitigation measures to address the incident, it must be stressed that a mere narration of notification having been made to the affected data subjects without submitting any proof of such notification is not considered as substantial compliance with the DPA, its Implementing Rules and Regulations, as well as NPC Circular No. 16-03 (Personal Data Breach Management).
+While the Commission recognizes the efforts exerted by DSWD MIMAROPA in undertaking mitigation measures to address the incident, it must be stressed that a mere narration of notification having been made to the affected data subjects without submitting any proof of such notification is not considered as substantial compliance with the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], as well as NPC Circular No. 16-03 (Personal Data Breach Management).
 
 Thus, DSWD MIMAROPA shall submit proof of individual notification. Such proof of notification is necessary in order for the Commission to determine whether DSWD MIMAROPA has undertaken reasonable mechanisms to ensure that all affected data subjects are made aware of the breach.[^64]
 

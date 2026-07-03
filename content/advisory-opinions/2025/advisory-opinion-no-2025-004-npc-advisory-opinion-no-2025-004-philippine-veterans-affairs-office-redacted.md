@@ -21,7 +21,7 @@ Re: DATA SHARING PROTOCOLS BETWEEN GOVERNMENT AGENCIES TO STREAMLINE IDENTITY VE
 
 Dear [Redacted]:
 
-This pertains to your request for guidance on the requirements for data sharing between the Philippine Veterans Affairs Office (PVAO) and the Philippine National Police (PNP) under the Data Privacy Act of 2012 (DPA),[^2] its Implementing Rules and Regulations (IRR), and other related issuances.
+This pertains to your request for guidance on the requirements for data sharing between the Philippine Veterans Affairs Office (PVAO) and the Philippine National Police (PNP) under the Data Privacy Act of 2012 (DPA),[^2] its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and other related issuances.
 
 ### Discussion
 
@@ -39,7 +39,7 @@ For the basic contents of a DSA, you may refer to Section 9 of NPC Circular No. 
 
 #### Lawful processing; statutory mandate
 
-Since data sharing is considered as processing of personal data, the parties to the DSA must satisfy at least one of the criteria set forth under Section 12 (for personal information) or Section 13 (for sensitive personal information and privileged information) of the DPA. In the present case, the processing of personal data may find basis under Section 12 (c) or Section 13 (b), to wit:
+Since data sharing is considered as processing of personal data, the parties to the DSA must satisfy at least one of the criteria set forth under Section 12 (for personal information) or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (for sensitive personal information and privileged information) of the DPA]]. In the present case, the processing of personal data may find basis under Section 12 (c) or Section 13 (b), to wit:
 
 > Sec. 12. Criteria for Lawful Processing of Personal Information – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 > xxx

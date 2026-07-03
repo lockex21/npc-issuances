@@ -23,7 +23,7 @@ Re: PHILHEALTH'S PUBLICATION OF THE LIST OF HEALTH CARE PROVIDERS WITH DENIED OR
 
 Dear [Redacted],
 
-We write in response to your request for an Advisory Opinion received by the National Privacy Commission (NPC) seeking clarification on whether the publication of the list of health care facilities with denied or return-to-hospital (RTH) claims, including the reasons thereof, violates the provisions of the Data Privacy Act of 2012[^1] (DPA), its Implementing Rules and Regulations[^2] (IRR) and other issuances of the NPC.
+We write in response to your request for an Advisory Opinion received by the National Privacy Commission (NPC) seeking clarification on whether the publication of the list of health care facilities with denied or return-to-hospital (RTH) claims, including the reasons thereof, violates the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^2] (IRR) and other issuances of the NPC.
 
 You stated in your letter that the Philippine Health Insurance Corporation (PhilHealth), in the interest of transparency and right to information of the public, is considering the publication of the abovementioned list. The proposed publication emanated from allegations that the PhilHealth still owes certain amounts of money when, upon verification, most of such pending claims were actually denied or RTH claims.
 

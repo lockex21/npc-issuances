@@ -48,11 +48,11 @@ discussions below.
 
 Lawful criteria for processing; Adherence to Data Privacy Principles
 
-The disclosure or sharing of personal and sensitive personal information (collectively, personal data) is considered as processing under the Data Privacy Act of 2012 (DPA). An incident report is a document which contains sensitive personal information because it necessarily involves information concerning an infraction committed or alleged to have been committed by an individual.[^2] In NPC Advisory Opinion 2020-013[^3] we stated that processing of sensitive personal information shall be considered lawful when it fulfills any one of the criteria listed under Section 13 of the DPA.
+The disclosure or sharing of personal and sensitive personal information (collectively, personal data) is considered as processing under the Data Privacy Act of 2012 (DPA). An incident report is a document which contains sensitive personal information because it necessarily involves information concerning an infraction committed or alleged to have been committed by an individual.[^2] In NPC Advisory Opinion 2020-013[^3] we stated that processing of sensitive personal information shall be considered lawful when it fulfills any one of the criteria listed under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 In response to questions 1, 2, 6 and 7, in general, the processing of sensitive personal information is prohibited, unless it is necessary for the protection of lawful rights and interests of natural or juridical persons in proceedings, or for the establishment, exercise or defense of legal claims, or when provided to government or public authority in the exercise of their mandate.[^4] Therefore, disclosure of sensitive personal information is permissible even without a court order if based upon the foregoing circumstances regardless if the disclosure is made to those directly involved, those merely mentioned, or to public authorities in the exercise of their mandate.
 
-But as we stated in NPC Advisory Opinion 2018-071,[^5] even if the DPA recognizes processing of personal data pursuant to the mandate of government agencies, the processing must still adhere to the principles of transparency, legitimate purpose, and proportionality. Personal information must be collected for specified and legitimate purposes determined and declared before, or as soon as reasonably practicable after collection, and later processed in a way compatible with such declared, specified, and legitimate purpose only. This means that the phrase, “necessary for law enforcement purposes” found in paragraph (e), Section 4 of the DPA is not a weapon that can be indiscriminately wielded by any agency that invokes it. The law enforcement agency must establish its mandate to enforce a particular law, and more importantly, that they are not unreasonably infringing on the rights of individuals guaranteed by the Constitution. Failure to establish both grounds renders the processing unnecessary and contrary to law.[^6]
+But as we stated in NPC Advisory Opinion 2018-071,[^5] even if the DPA recognizes processing of personal data pursuant to the mandate of government agencies, the processing must still adhere to the principles of transparency, legitimate purpose, and proportionality. Personal information must be collected for specified and legitimate purposes determined and declared before, or as soon as reasonably practicable after collection, and later processed in a way compatible with such declared, specified, and legitimate purpose only. This means that the phrase, “necessary for law enforcement purposes” found in paragraph (e), [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] is not a weapon that can be indiscriminately wielded by any agency that invokes it. The law enforcement agency must establish its mandate to enforce a particular law, and more importantly, that they are not unreasonably infringing on the rights of individuals guaranteed by the Constitution. Failure to establish both grounds renders the processing unnecessary and contrary to law.[^6]
 
 We wish to emphasize that an incident report serves to paint a full picture of the truth behind
 what transpired, and ultimately to advance the lawful rights and interests of those involved.
@@ -88,10 +88,10 @@ Director IV, Privacy Policy Office
 
 [^1]: Incident reports; court order; proportionality; law enforcement.
 [^2]: Data Privacy Act 2021, § 3 (l) (2).
-[^3]: National Privacy Commission, NPC Advisory Opinion No. 2020-013 (21 February 2020).
+[^3]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-013-redacted-advisory-opinion-no-2020-013-2|NPC Advisory Opinion No. 2020-013]] (21 February 2020).
 [^4]: Ibid. § 13
-[^5]: National Privacy Commission, NPC Advisory Opinion No. 2018-071 (5 October 2018).
+[^5]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-071-npc-advisory-opinion-no-2018-071|NPC Advisory Opinion No. 2018-071]] (5 October 2018).
 [^6]: National Privacy Commission, NPC Advisory Opinion No. 2023-18 (29 September 2023).
 [^7]: Data Privacy Act 2021, § 11
-[^8]: National Privacy Commission, NPC Advisory Opinion No. 2021-001 (19 January 2021).
+[^8]: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-001-request-of-an-overseas-filipino-worker-ofw-to-delete-records-stored-in-the-balik-manggagawa-online-system|NPC Advisory Opinion No. 2021-001]] (19 January 2021).
 [^9]: Ibid.

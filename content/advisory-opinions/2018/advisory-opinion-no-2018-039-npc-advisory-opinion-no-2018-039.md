@@ -24,7 +24,7 @@ RE: RIGHT TO ERASURE IN RELATION TO RETENTION OF PERSONAL INFORMATION
 
 Dear [Redacted],
 
-We write in response to your inquiry requesting for a clarification with regard to NPC Advisory Opinion No. 2017-024 on retention of personal data under Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA). Specifically, you seek to clarify the following:
+We write in response to your inquiry requesting for a clarification with regard to [[advisory-opinions/2017/advisory-opinion-no-2017-024-npc-advisoryopinionno-2017-024|NPC Advisory Opinion No. 2017-024]] on retention of personal data under Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA). Specifically, you seek to clarify the following:
 
 a. Whether a resigned employee may request that all his personal data kept by the former employer be deleted;
 b. Whether a resigned employee may demand the turnover of the compilation of his personal data under the employer's custody; and
@@ -34,11 +34,11 @@ c. Possible valid reasons for an employer to deny the above requests.
 
 #### Rights of the Data Subject
 
-Section 16 of the DPA clearly sets forth the right of every data subject to suspend, withdraw or order the removal or destruction of personal information from the filing system of a personal information controller (PIC) upon discovery and substantial proof that the personal information is outdated or is no longer necessary for the purposes for which they were collected, among other conditions.
+[[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]] clearly sets forth the right of every data subject to suspend, withdraw or order the removal or destruction of personal information from the filing system of a personal information controller (PIC) upon discovery and substantial proof that the personal information is outdated or is no longer necessary for the purposes for which they were collected, among other conditions.
 
 Thus, it is possible for employees as data subjects to request for deletion of their personal data held by former employers. Note however that this right is not absolute and is subject to existing laws and regulations governing the retention period of employment documents or records.
 
-Section 34(e) of the Implementing Rules and Regulations (IRR) of the Data Privacy Act provides that this right may be exercised upon discovery and substantial proof of any of the following:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34(e) of the Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that this right may be exercised upon discovery and substantial proof of any of the following:
 
 1. The personal data is incomplete, outdated, false, or unlawfully obtained;
 2. The personal data is being used for purpose not authorized by the data subject;

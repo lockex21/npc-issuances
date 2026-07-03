@@ -19,7 +19,7 @@ draft: false
 
 **22 November 2017**
 
-Re: DATA PRIVACY ACT AND ITS IMPLEMENTING RULES AND REGULATIONS
+Re: [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT]] AND ITS [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IMPLEMENTING RULES AND REGULATIONS]]
 
 Dear [Redacted],
 

@@ -47,7 +47,7 @@ x----------------------------------------x
 
 AGUIRRE, D.P.C.
 
-For consideration of the Commission is the Motion for Reconsideration filed by Complainants EA and TA (Complainants) of the Decision dated 15 July 2019 which dismissed the Complaint against the Respondents EJ, EE and HC (Respondents) on the ground that the elements for a violation of Section 25 (b) of the Data Privacy Act of 2012 (DPA) were not sufficiently established.
+For consideration of the Commission is the Motion for Reconsideration filed by Complainants EA and TA (Complainants) of the Decision dated 15 July 2019 which dismissed the Complaint against the Respondents EJ, EE and HC (Respondents) on the ground that the elements for a violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (b) of the Data Privacy Act of 2012]] (DPA) were not sufficiently established.
 
 In Complainants’ Motion for Reconsideration, they argued that the Commission’s reliance on Section 13(f) of the Act is “misplaced and runs contrary to established law.”[^1] They state thus:
 
@@ -77,7 +77,7 @@ Aside from this, Section 13(f) also requires compliance with the general princip
 
 The Decision has discussed the principles of legitimate purpose and proportionality. It stated thus:
 
-> As regards legitimate purpose, the Implementing Rules and Regulations (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy.[^6] This means that the processing done for the establishment of a legal claim
+> As regards legitimate purpose, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy.[^6] This means that the processing done for the establishment of a legal claim
 
 should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.
 >
@@ -91,7 +91,7 @@ should not in any manner be outside the limitations provided by law. The DPA is 
 >
 > In this case, considering that the documents were used in the falsification case and absent any showing that its use was unjustified, it cannot therefore be said that the processing done by Respondents was not necessary.[^7]
 
-The principle of transparency normally relates to the information provided by controllers through their privacy policies, notices, or terms and conditions regarding how personal information of data subjects may be used to establish, exercise, or defend legal claims. In discussing when information about the processing of personal information should be disclosed to the data subject, Section 11 of the DPA provides:
+The principle of transparency normally relates to the information provided by controllers through their privacy policies, notices, or terms and conditions regarding how personal information of data subjects may be used to establish, exercise, or defend legal claims. In discussing when information about the processing of personal information should be disclosed to the data subject, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] provides:
 
 > “Personal information must, be:,
 >

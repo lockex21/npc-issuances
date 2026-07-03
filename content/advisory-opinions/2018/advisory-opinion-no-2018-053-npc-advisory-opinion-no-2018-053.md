@@ -47,7 +47,7 @@ about the individual, and thus, covered by the DPA.
 
 Given that processing of personal information, including photographs, must be in
 accordance with law, pictures of hospital staff and doctors can only be lawfully taken and
-processed when at least one of the following conditions set forth in Section 12 of the DPA
+processed when at least one of the following conditions set forth in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]]
 exists:
 
    (a) The data subject has given his or her consent;

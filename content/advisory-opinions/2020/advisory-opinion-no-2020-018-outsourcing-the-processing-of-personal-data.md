@@ -27,7 +27,7 @@ Dear [Redacted],
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to clarify on whether it is permissible to relax or if there are
 alternatives to the requirement of an outsourcing agreement in instances where a stringent application
-of the Data Privacy Act of 2012 (DPA)[^2] and its Implementing Rules and Regulations (IRR)[^3] is
+of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^2] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^3] is
 operationally or relationally not feasible.
 
 In your letter, you disclosed that the University of the Philippines (UP) outsources the processing of
@@ -92,7 +92,7 @@ Privacy Commissioner and Chairman
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
 [^3]: Id. § 3 (f).
 [^4]: Id.
-[^5]: See: National Privacy Commission, NPC Advisory Opinion No. 2018-015 (April 12, 2018).
+[^5]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-015-npc-advisory-opinion-no-2018-015|NPC Advisory Opinion No. 2018-015]] (April 12, 2018).
 [^6]: Ibid.
 [^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 50.
 [^8]: Id. § 43.

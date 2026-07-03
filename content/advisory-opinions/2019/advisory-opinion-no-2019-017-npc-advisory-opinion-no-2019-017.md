@@ -47,7 +47,7 @@ Likewise, apart from the laws and regulations on privacy, any code of ethics or 
 
 It is a declared policy of the law "to protect the fundamental human right of privacy, of communication while ensuring free flow of information to promote innovation and growth."[^10] A constant but effective balancing of rights is necessary in the implementation of any State policy, which holds true for the NPC, as with any other government regulatory agency charged with implementing any particular set of laws or policies.[^11] This balancing of two equally important rights should be done on a case-to-case basis.
 
-Thus, researchers should always keep in mind that though the DPA recognizes that the processing of personal data is critical to quality research, the rights and freedoms of individuals is likewise of utmost importance. This view is consistent with Section 38 of the DPA, which calls for an interpretation of the law that is mindful of the rights and interests of data subjects.
+Thus, researchers should always keep in mind that though the DPA recognizes that the processing of personal data is critical to quality research, the rights and freedoms of individuals is likewise of utmost importance. This view is consistent with [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38 of the DPA]], which calls for an interpretation of the law that is mindful of the rights and interests of data subjects.
 
 #### Infrastructure within the National Privacy Commission (NPC) to handle academic research issues; types of data covered by the DPA
 

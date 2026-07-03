@@ -50,7 +50,7 @@ d. The entity is not a government agency or instrumentality.
 
 **SECTION 6.** ***Basis no longer true.*** I shall immediately register with the Commission within twenty (20) days after learning that the facts supporting this declaration are no longer accurate.
 
-**SECTION 7.** ***Compliance.*** This Sworn Declaration and Undertaking attests to the truthfulness of the foregoing statements and demonstrates compliance with the Data Privacy Act, its Implementing Rules and Regulations, and other relevant NPC issuances.
+**SECTION 7.** ***Compliance.*** This Sworn Declaration and Undertaking attests to the truthfulness of the foregoing statements and demonstrates compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and other relevant NPC issuances.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this _____ day of ______________, 20__ at ____________, Philippines.
 

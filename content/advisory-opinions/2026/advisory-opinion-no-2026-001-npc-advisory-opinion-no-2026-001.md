@@ -50,7 +50,7 @@ In response to your request for guidance, we shall address each of the foregoing
 
 #### Disclosure of employee lists; Lawful criteria for processing personal information
 
-Section 12 of the DPA provides that the processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] provides that the processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 
 (a) The data subject has given his or her consent;
 
@@ -70,7 +70,7 @@ Section 12(b) – processing is necessary for compliance with a legal obligation
 
 Section 12(e) – processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority.
 
-Additionally, Section 5 of the Implementing Rules and Regulations (IRR) of the DPA clarifies that government agencies may process personal data without consent when such processing is directly connected to their mandate and necessary for the discharge of official functions.[^4]
+Additionally, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the Implementing Rules and Regulations]] (IRR) of the DPA clarifies that government agencies may process personal data without consent when such processing is directly connected to their mandate and necessary for the discharge of official functions.[^4]
 
 Hence, the disclosure by government agencies of lists of their officials and employees to PAGCOR is undertaken to give effect to an explicit legal prohibition. Both the disclosing agencies and PAGCOR are acting pursuant to statutory and executive issuances.
 
@@ -82,7 +82,7 @@ As such, the data subject's consent is not required, as reliance on consent woul
 
 The DPA defines personal information as any information, whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^5]
 
-While the DPA protects personal information regardless of the data subject's status, Section 4(e) of the DPA also expressly provides that the Act does not apply to information necessary for the performance of a constitutional or statutory mandate of a public authority. This exemption recognizes that certain government functions inherently require the processing of personal data in order to be effectively carried out.
+While the DPA protects personal information regardless of the data subject's status, [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]] also expressly provides that the Act does not apply to information necessary for the performance of a constitutional or statutory mandate of a public authority. This exemption recognizes that certain government functions inherently require the processing of personal data in order to be effectively carried out.
 
 Given this, working on the assumption that the updated personnel lists requested by PAGCOR are limited to essential identifiers such as name, designation, and agency affiliation, the processing of such information is directly necessary for the enforcement of a statutory prohibition mandated by law.
 
@@ -90,7 +90,7 @@ Accordingly, such processing falls within the scope of the exemption under Secti
 
 #### Adherence to Data Privacy Principles
 
-Section 11 of the DPA requires that personal information controllers adhere to the fundamental principles of transparency, legitimate purpose and proportionality in processing of personal data.
+[[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] requires that personal information controllers adhere to the fundamental principles of transparency, legitimate purpose and proportionality in processing of personal data.
 
 Further, Sections 20 and 21 of the DPA and relevant IRR provisions require the implementation of reasonable and appropriate organizational, physical, and technical security measures.
 
@@ -102,7 +102,7 @@ Further, we encourage you to review NPC Circular No. 23-06, which outlines the s
 
 With respect to the execution of a NDA, the Commission respectfully defers to PAGCOR's management to determine its necessity as an additional contractual safeguard.
 
-It is relevant to note that, under NPC Advisory No. 2025-01, personal information controllers engaged in data sharing are not prohibited from sharing, disclosing, or transferring personal data where such processing is authorized or required by law. As earlier established, the collection and use of personal data for the purpose of enforcing the statutory prohibition against casino entry by government officials and employees are anchored on legal mandates. The DPA does not operate to impede such lawful processing, provided that data protection principles and security requirements are observed.
+It is relevant to note that, under [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|NPC Advisory No. 2025-01]], personal information controllers engaged in data sharing are not prohibited from sharing, disclosing, or transferring personal data where such processing is authorized or required by law. As earlier established, the collection and use of personal data for the purpose of enforcing the statutory prohibition against casino entry by government officials and employees are anchored on legal mandates. The DPA does not operate to impede such lawful processing, provided that data protection principles and security requirements are observed.
 
 As you mentioned, the licensees shall be given access to the NDRP, solely for inquiry purposes, limited to screening whether an individual is prohibited from entering casino or gaming establishments. Where such access does not allow licensees to download, store, extract, or otherwise further process personal data, and where control over the database and the determination of processing purposes and means remain with PAGCOR, the arrangement may be characterized as authorized access rather than data sharing between independent personal information controllers. This authorized access may form part of the functions stated in the licensing agreement, which includes the implementation of applicable laws and regulations, such as the prohibition of entry of government officials and employees in casinos.
 

@@ -24,7 +24,7 @@ Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to clarify issues on contact tracing and the public disclosure of
-identities of COVID-19 patients vis-à-vis the provisions of the Data Privacy Act of 2012[^2] (DPA)
+identities of COVID-19 patients vis-à-vis the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA)
 and other relevant issuances of the NPC and the Department of Health (DOH).
 
 Specifically, you ask what would be the measures to address patient tracking without publicly
@@ -80,7 +80,7 @@ level:
 
    “… In this case, the DPA does not prohibit the DOH from collecting and processing personal
          data for purposes necessary to its mandate, with the concomitant responsibility of
-         complying with the requirements of the DPA, its Implementing Rules and Regulations (IRR),
+         complying with the requirements of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR),
          and other issuances of the National Privacy Commission (NPC).
 
    xxx      xxx      xxx
@@ -164,7 +164,7 @@ Privacy Commissioner
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Department of Health, Updated Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease (COVID-19) Cases [Department Memorandum No. 2020-0189], § II (A) (April 17, 2020).
 [^4]: Id. § III (B).
-[^5]: National Privacy Commission, NPC Advisory Opinion No. 2018-083 (Nov. 26, 2018).
+[^5]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Nov. 26, 2018).
 [^6]: DOH Department Memorandum No. 2020-0189, Annex A - Guidelines for Processing and Disclosure of the Personal Information of Patient/Data Subject.
 [^7]: Department of Health and National Privacy Commission, Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response [Joint Memorandum Circular No. 2020-0002] (April 24, 2020).
 [^8]: Id. § VI (D) (3).

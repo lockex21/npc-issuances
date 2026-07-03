@@ -38,7 +38,7 @@ Before the Commission is the Partial Motion for Reconsideration (Partial MR) on 
 
 ### Facts
 
-On 17 December 2020, the Commission issued a Decision finding Respondents liable for violation of Section 25 of the Data Privacy Act of 2012 (DPA):
+On 17 December 2020, the Commission issued a Decision finding Respondents liable for violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the Data Privacy Act of 2012]] (DPA):
 
 WHEREFORE, all these premises considered, this Commission hereby:
 

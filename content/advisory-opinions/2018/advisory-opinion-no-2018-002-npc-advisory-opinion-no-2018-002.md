@@ -38,7 +38,7 @@ We understand that the BSP employee directory contains the following information
 
 #### Scope
 
-Section 4 of the DPA states that the law is applicable to the processing of all types of personal information and to any natural and juridical person involved in personal information processing, including those personal information controllers and processors, who, although not found or established in the Philippines, use equipment that are located in the Philippines or who maintain an office, branch or agency in the Philippines.
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] states that the law is applicable to the processing of all types of personal information and to any natural and juridical person involved in personal information processing, including those personal information controllers and processors, who, although not found or established in the Philippines, use equipment that are located in the Philippines or who maintain an office, branch or agency in the Philippines.
 
 Section 4(a) and (e) states some of the special cases where the law does not apply, to wit:
 
@@ -74,7 +74,7 @@ This means that the COA, as a personal information controller, is mandated under
 
 In determining whether the personal data being collected by the COA is necessary to carry out its functions, the personal data would have to be processed pursuant to a legitimate purpose, and in a proportional and transparent manner. COA must also implement appropriate security measures for personal data protection, and ensure that data subjects are able to exercise their rights within the limits provided by law.
 
-Thus, if COA’s processing of personal information, i.e. access to BSP’s employee directory, is not necessary to its constitutionally mandated functions, such processing should therefore be anchored on any of the criteria for lawful processing as stated in Section 12 and Section 13 of the DPA for personal and sensitive personal information, respectively.
+Thus, if COA’s processing of personal information, i.e. access to BSP’s employee directory, is not necessary to its constitutionally mandated functions, such processing should therefore be anchored on any of the criteria for lawful processing as stated in Section 12 and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] for personal and sensitive personal information, respectively.
 
 For your reference.
 

@@ -18,7 +18,7 @@ draft: false
 
 14 August 2017
 
-Re: DATA PRIVACY ACT AND FORCE MAJEURE
+Re: [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT]] AND FORCE MAJEURE
 
 Dear [Redacted],
 

@@ -57,7 +57,7 @@ On 12 August 2021, the Commission issued an Order requiring JuanHand and its res
 >
 > Let copies of this Order be furnished to the National Telecommunications Commission for their appropriate action, and Google LLC, which operates the Google Play Store for its compliance in accordance with the terms and conditions of its platform.
 >
-> Furthermore, Respondent Wefund Lending Corporation and its responsible officers are **ORDERED**, within ten (10) days from receipt of this Order, to file a **COMMENT** on the allegations in the attached Fact-Finding Report, pursuant to Section 6 of Rule X of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure).
+> Furthermore, Respondent Wefund Lending Corporation and its responsible officers are **ORDERED**, within ten (10) days from receipt of this Order, to file a **COMMENT** on the allegations in the attached Fact-Finding Report, pursuant to Section 6 of Rule X of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure).
 >
 > In case of failure by the Respondent and its responsible officers to file a Comment, this case shall be deemed submitted for resolution based on the evidence on record.
 >

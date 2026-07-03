@@ -36,7 +36,7 @@ We understand that the CPO of Santiago City is requesting for the following pers
 5. Final Diagnosis; and
 6. Barangay.
 
-The abovementioned information being requested by the CPO are health information. Health information, under the Data Privacy Act of 2012 (DPA),[^2] is considered as sensitive personal information and processing of such information is prohibited, except if the following cases:
+The abovementioned information being requested by the CPO are health information. Health information, under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA),[^2] is considered as sensitive personal information and processing of such information is prohibited, except if the following cases:
 
 a. The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing;
 
@@ -58,7 +58,7 @@ On its face, without the specific purpose and statutory basis of the CPO, the pl
 
 ### Discussion
 
-Should the data sharing push forward, SIGH must ensure that the proposed data sharing agreement with the CPO has complied with the requirements of the DPA, must conform with the NPC Circular No. 16-02, and has met any of the abovementioned criteria for lawful processing before sharing such information with the CPO of Santiago City. Likewise, the data sharing must adhere to the principles of transparency, legitimate purpose and proportionality.
+Should the data sharing push forward, SIGH must ensure that the proposed data sharing agreement with the CPO has complied with the requirements of the DPA, must conform with the [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], and has met any of the abovementioned criteria for lawful processing before sharing such information with the CPO of Santiago City. Likewise, the data sharing must adhere to the principles of transparency, legitimate purpose and proportionality.
 
 This opinion is based solely on the information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. The attached data sharing agreement was not reviewed for the purpose of clarifying the basis of the said processing.
 

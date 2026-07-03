@@ -42,7 +42,7 @@ x--------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by Complainant JVA against Respondent U-Peso.Ph Lending Corporation ("Upeso") for an alleged violation of R.A. 10173 ("Data Privacy Act").
+Before this Commission is a Complaint filed by Complainant JVA against Respondent U-Peso.Ph Lending Corporation ("Upeso") for an alleged violation of [[laws/data-privacy-act-of-2012|R.A. 10173]] ("Data Privacy Act").
 
 ### Facts
 
@@ -119,7 +119,7 @@ As Respondent recognizes in its Comment, there is a set of criteria provided in 
 
 To determine whether the consent given by the data subject is proper, an examination must be made whether such consent was freely given, specific, informed, and an indication of will.[^19] Respondent points to the fact that it was Complainant himself who provided his personal information to Upeso as proof of consent. While this may show that there was a positive act showing an indication of will on the part of the Complainant and that such act was freely given, it is not enough to show that the given consent was specific or informed. These two (2) requirements relate to the obligation of personal information controllers such as Upeso to comply with the general privacy principle of transparency.
 
-As the Implementing Rules and Regulations of the Data Privacy Act explains:
+As the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act explains:
 
 > The data subject must be aware of the nature, purpose, and extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of personal information controller, his or her rights as a data subject, and how these can be exercised. Any information and communication relating to the processing of personal data should be easy to access and understand, using clear and plain language.[^20]
 
@@ -241,7 +241,7 @@ National Privacy Commission
 [^30]: United Nations, *Universal Declaration of Human Rights* (nd) available at https://www.un.org/en/universal-declaration-human-rights/
 [^31]: *Ombudsman v. Fetalvero*, G.R. No. 211450, 23 July 2018.
 [^32]: Complaints-Assisted Form dated 8 July 2019, p. 5.
-[^33]: NPC Circular No. 16-04 dated 15 December 2016 ("NPC Rules of Procedure"), Section 22. Emphasis supplied.
+[^33]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] dated 15 December 2016 ("NPC Rules of Procedure"), Section 22. Emphasis supplied.
 [^34]: G.R. No. 165585, 20 November 2013, citing *Real v. Belo*, 542 Phil. 109 (2007).
 [^35]: Republic Act No. 10173, Section 25.
 [^36]: *Id.*, at Section 28.

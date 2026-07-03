@@ -74,7 +74,7 @@ On 12 March 2018, AIGSS-MS notified the National Privacy
 
 Commission (NPC) of a breach:
 
-In accordance with RA. 10173, "Data Privacy Act of the
+In accordance with [[laws/data-privacy-act-of-2012|RA. 10173]], "Data Privacy Act of the
 
 Philippines", this is to notify the Commission of a recent personal
 

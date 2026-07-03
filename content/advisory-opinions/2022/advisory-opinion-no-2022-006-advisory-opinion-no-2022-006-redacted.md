@@ -39,13 +39,13 @@ Further, we understand that there is an existing Memorandum of Agreement (MOA) b
 
 - m. To grant access to the authorized members of the PDEA, to the merchandise/items being sold, or about to be transported from the seller and/or from their facility/warehouse to the prospective buyer/client, whenever there is an intelligence report of merchandise, item or good suspected to be containing dangerous drugs and controlled precursors and essential chemicals.
 
-You mentioned that your company is inclined to deny the request in view of the prohibitions of the Data Privacy Act of 2012[^2] but noted the exceptions under Section 4 (e) of the law pertaining to information necessary in order to carry out the functions of public authorities. You now ask whether your company may grant the PDEA's request.
+You mentioned that your company is inclined to deny the request in view of the prohibitions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] but noted the exceptions under Section 4 (e) of the law pertaining to information necessary in order to carry out the functions of public authorities. You now ask whether your company may grant the PDEA's request.
 
 ### Discussion
 
 #### Scope of the DPA; special cases under the DPA; public authority; mandate; law enforcement
 
-The DPA and its Implementing Rules and Regulations[^3] (IRR) provide for a list of specified information which do not fall within the scope of the law.[^4] In particular, information necessary to carry out the functions of a public authority are considered special cases under the IRR, to wit:
+The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^3] (IRR) provide for a list of specified information which do not fall within the scope of the law.[^4] In particular, information necessary to carry out the functions of a public authority are considered special cases under the IRR, to wit:
 
 > "SECTION 5. Special Cases. The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, used, disclosure or other processing necessary to the purpose, function, or authority concerned: x x x
 >
@@ -113,5 +113,5 @@ OIC – Director IV, Privacy Policy Office
 [^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
 [^4]: *Id.* § 4 (e) (2012).
 [^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) (2016).
-[^6]: See: National Privacy Commission, NPC Advisory Opinion No. 2021-018 (18 June 2021).
+[^6]: See: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-018-pnp-request-for-personal-information-from-employers|NPC Advisory Opinion No. 2021-018]] (18 June 2021).
 [^7]: See: National Privacy Commission, NPC Advisory Opinion Nos. 2020-015 (24 Feb 2020) and 2021-028 (16 July 2021).

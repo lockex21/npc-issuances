@@ -88,7 +88,7 @@ DDC re-submitted the Breach Incident Report it submitted on 04 July 2018 which c
 
 DDC also submitted a Certification signed by its Data Protection Officer (DPO) and its Managing Director, which stated that DDC's former Communications Officer already deleted the 2017 survey form on 03 July 2018.[^16] DDC also presented an email from Typeform dated 27 April 2022 wherein Typeform confirmed the deletion of DDC's survey form in the Typeform platform.[^17]
 
-On the matter of DDC's security enhancement measures, it admitted that it had not implemented any policy related to the Data Privacy Act (DPA) in 2018.[^18] In 2019, it further admitted that there was still no policy implemented on "Third-party Online Survey Host[s]".[^19] Nevertheless, DDC claimed that after the incident, it changed and revised its customer survey forms by removing the collection of personal identifiable information of the data subjects.[^20]
+On the matter of DDC's security enhancement measures, it admitted that it had not implemented any policy related to the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA) in 2018.[^18] In 2019, it further admitted that there was still no policy implemented on "Third-party Online Survey Host[s]".[^19] Nevertheless, DDC claimed that after the incident, it changed and revised its customer survey forms by removing the collection of personal identifiable information of the data subjects.[^20]
 
 Further, it submitted a copy of its Customer Satisfaction Survey Procedures and Computer Software and Hardware Maintenance Policy, which became effective on 21 September 2021[^21] and 17 January 2022,[^22] respectively.
 

@@ -111,7 +111,7 @@ Finally, Dr. AMP contended that the government's interest does not override fund
 
 ### Issue
 
-Whether Dr. AMP violated Section 25 of the DPA (Unauthorized Processing) when he processed Dr. ARG's documents.
+Whether Dr. AMP violated [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]] (Unauthorized Processing) when he processed Dr. ARG's documents.
 
 ### Discussion
 
@@ -135,11 +135,11 @@ The first requisite for Unauthorized Processing is that the perpetrator processe
 
 Under Section 3(h) the DPA, a PIC is defined as, "a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf."[^95]
 
-A PIP is "any natural or juridical person qualified to act as such under [the DPA] to whom a [PIC] may outsource the processing of personal data pertaining to a data subject."[^96] The Implementing Rules and Regulations of the DPA (IRR) defines control as deciding on the information is collected, or the purpose or extent of its processing.[^97]
+A PIP is "any natural or juridical person qualified to act as such under [the DPA] to whom a [PIC] may outsource the processing of personal data pertaining to a data subject."[^96] The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the DPA (IRR) defines control as deciding on the information is collected, or the purpose or extent of its processing.[^97]
 
 In this case, Dr. AMP had control over the personal information in the DTRs. He decided on the information that was collected from Dr. ARG, specifically her DTRs. Further, he determined the purpose for collection, which was to file a complaint with the CSC. Thus, Dr. AMP is the PIC.
 
-Further, Dr. AMP argued that he only received the DTRs from JHH and such does not constitute processing under the DPA.[^98] Section 3 of the DPA defines processing as follows:
+Further, Dr. AMP argued that he only received the DTRs from JHH and such does not constitute processing under the DPA.[^98] [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] defines processing as follows:
 
 > Section 3. Definition of Terms. Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -172,7 +172,7 @@ Section 4(a) and (b) of the DPA states:
 
 Since [the Hospital] is a government hospital, the information contained in the DTRs fall under either Section 4(a) or 4(b) of the DPA. These pieces of information relate to Dr. ARG's position or functions to identify if she is a *plantilla* personnel, or the service she performed if she is under contract with [the Hospital]. The information covered by Section 4(a) is not limited to those enumerated in the provision. The use of the word "including" shows that Section 4(a) covers information that relates to how government officials performed their functions. Thus, since the pieces of information relate to the "position or functions of an individual," the information contained in the DTRs are excluded from the scope of the DPA.
 
-Further, if Dr. ARG was performing services under a contract with [the Hospital], the information on her DTR directly relates to how she performed her services as consultant in [the Hospital's] Department of [ ]. These pieces of information, especially her time of ingress and egress, fall squarely under Section 4(b) of the DPA and are likewise excluded from the scope of the DPA.
+Further, if Dr. ARG was performing services under a contract with [the Hospital], the information on her DTR directly relates to how she performed her services as consultant in [the Hospital's] Department of [ ]. These pieces of information, especially her time of ingress and egress, fall squarely under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(b) of the DPA]] and are likewise excluded from the scope of the DPA.
 
 Assuming the information contained in the DTRs are not excluded, the Commission has previously held that the name, signature, and designation of the data subject cannot be considered as sensitive personal information.[^104] Sensitive personal information refers to:
 
@@ -201,11 +201,11 @@ In this case, one of Dr. ARG's DTRs contained a notation that she was on "quaran
 
 Given these, the second requisite of Unauthorized Processing is present. Dr. AMP processed Dr. ARG's personal information.
 
-##### C. Dr. AMP processed Dr. ARG's personal information pursuant to Section 13(f) in relation Section 12(f) of the DPA.
+##### C. Dr. AMP processed Dr. ARG's personal information pursuant to Section 13(f) in relation [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]].
 
 The third requisite is that the processing was done without the consent of the data subject, or without being authorized under the DPA or any existing law.[^109] Dr. AMP argued that his only purpose in securing the DTRs was to provide proof and basis for his complaint against Dr. ARG and the other department staff before the CSC.[^110] He stated that he had lawful basis to process Dr. ARG's personal data under Sections 12(f) and 13(f) of the DPA.[^111]
 
-Section 13(f) of the DPA allows for the processing of sensitive personal information when it is necessary for the exercise or defense of legal claims:
+[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]] allows for the processing of sensitive personal information when it is necessary for the exercise or defense of legal claims:
 
 > Section 13. Sensitive Personal Information and Privileged Information. The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
@@ -302,7 +302,7 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 
-[^1]: Complaint-Affidavit, 24 November 2022, at 1, in ARG v. AMP, NPC 22-112 (NPC 2022).
+[^1]: Complaint-Affidavit, 24 November 2022, at 1, in ARG v. AMP, [[decisions/2024/npc-22-112-aqm-vs-pit-et-al|NPC 22-112]] (NPC 2022).
 [^2]: *Id.*
 [^3]: Memorandum for the Complainant, 22 March 2023, at 1, in ARG v. AMP, NPC 22-112 (NPC 2023).
 [^4]: Complaints-Assisted Form, 24 November 2022, Annex C, in ARG v. AMP, NPC 22-112 (NPC 2022).

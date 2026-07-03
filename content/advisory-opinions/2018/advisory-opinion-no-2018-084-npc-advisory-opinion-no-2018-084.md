@@ -25,7 +25,7 @@ Dear [Redacted],
 
 We write in response to your inquiry on whether secret surveillance on an employee’s
 computer activities through the installation of a monitoring software to record keystrokes and
-take random snapshot of computer screen is prohibited under the Data Privacy Act of 2012[^1]
+take random snapshot of computer screen is prohibited under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1]
 (DPA).
 
 ### Discussion

@@ -67,7 +67,7 @@ Note that under the Data Privacy Act of 2012, lawful processing of personal info
 - The processing is necessary in order to respond to national emergency; and
 - The processing is necessary for the purposes of the legitimate interests of the PIC, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
 
-As to sensitive personal information, the processing thereof is prohibited, except for any of the following cases under Section 13 of the DPA:
+As to sensitive personal information, the processing thereof is prohibited, except for any of the following cases under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]:
 
 - The data subject has given his or her consent, specific to the purpose to the processing;
 - The processing is provided for by existing laws and regulations;
@@ -78,7 +78,7 @@ As to sensitive personal information, the processing thereof is prohibited, exce
 
 In some of the above instances, the teacher may search through a minor student’s cellphone in order to protect vitally important interests of the student, including his life and health or probably to respond to national emergency. We believe that the consent criteria is not applicable in this case as a minor cannot validly provide the consent as defined under the DPA.
 
-Hence, any search through a minor student’s cellular phone without the necessary warrant or any other justification under a law or regulation allowing such act, is unlawful, and may be construed as unauthorized processing punishable under Section 25 of the DPA.
+Hence, any search through a minor student’s cellular phone without the necessary warrant or any other justification under a law or regulation allowing such act, is unlawful, and may be construed as unauthorized processing punishable under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].
 
 For your reference.
 

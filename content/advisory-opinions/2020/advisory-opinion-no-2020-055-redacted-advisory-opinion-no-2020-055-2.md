@@ -28,7 +28,7 @@ Re: APPLICABILITY OF THE CRITERIA FOR LAWFUL PROCESSING OF PERSONAL AND SENSITIV
 
 Dear [Redacted],
 
-We write in response to your respective requests for advisory opinion which sought to confirm the applicability of the criteria for lawful processing of personal and sensitive personal information (collectively, personal data) under the Data Privacy Act of 2012 (DPA)[^2] in the intended transactions of the following:
+We write in response to your respective requests for advisory opinion which sought to confirm the applicability of the criteria for lawful processing of personal and sensitive personal information (collectively, personal data) under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^2] in the intended transactions of the following:
 
 - National Home Mortgage Finance Corporation (NHMFC) in relation to the securitization of housing receivables through the issuance and sale of bonds/securities to the capital market; and
 - Social Housing Finance Corporation (SHFC) for the securitization of loan receivables through the sale of bonds to residential developers.
@@ -73,7 +73,7 @@ Finally, we would like to reiterate that while a government agency may collect a
 
 #### Implementing security measures; non-disclosure agreement
 
-The NHMFC and SHFC, as personal information controllers, are duty-bound to comply with the DPA, its Implementing Rules and Regulations (IRR), and other relevant issuances of the National Privacy Commission, including the implementation of security measures.
+The NHMFC and SHFC, as personal information controllers, are duty-bound to comply with the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and other relevant issuances of the National Privacy Commission, including the implementation of security measures.
 
 For this purpose, the transaction advisors and personnel who will be engaged and authorized by both GOCCs to process personal data in the conduct of due diligence and in preparing the securitization plan may be required to sign a non-disclosure agreement or similar contract to ensure confidentiality and to prevent any unauthorized processing of the collected personal data. Please refer also to Sections 43-45 of the IRR of the DPA on guidance for outsourcing and subcontracting agreements.
 

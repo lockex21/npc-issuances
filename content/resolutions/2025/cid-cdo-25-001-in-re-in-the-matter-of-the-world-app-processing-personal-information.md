@@ -72,7 +72,7 @@ On 06 October 2025, the Commission issued the CDO dated 23 September 2025.[^14] 
 
 On 11 October 2025, WCPH Corporation (WCPHC) submitted a letter in response to the abovementioned Compliance Letter.[^16] On even date, TFH likewise submitted a Response Letter dated 11 October 2025.[^17]
 
-Now, before this Commission is the compliance of TFH, received last 16 October 2025[^18], to the CDO dated 23 September 2025[^19]. The CDO was issued by this Commission on the ground of TFH's data privacy practices and processing of personal data in violation of the General Data Privacy Principles under Section 11[^20] and the Rights of Data Subjects under Section 16 of the DPA[^21].
+Now, before this Commission is the compliance of TFH, received last 16 October 2025[^18], to the CDO dated 23 September 2025[^19]. The CDO was issued by this Commission on the ground of TFH's data privacy practices and processing of personal data in violation of the General Data Privacy Principles under Section 11[^20] and the Rights of Data Subjects under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]][^21].
 
 The dispositive portion of the CDO dated 23 September 2025 is as follows:
 
@@ -152,7 +152,7 @@ In line with the foregoing, the Commission is now tasked to determine whether to
 
 The Commission takes this opportunity to elucidate the relationship between TFH and WCPHC, and to further provide education on the relationship between a PIC and a PIP.
 
-Under Section 3 of the DPA, the Personal Information Controller (PIC) and Personal Information Processor (PIP) are defined as follows:
+Under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]], the Personal Information Controller (PIC) and Personal Information Processor (PIP) are defined as follows:
 
 > (h) Personal information controller refers to a person or organization who **controls the collection, holding, processing or use of personal information**, including a person or organization who **instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf**.
 >
@@ -180,9 +180,9 @@ The classification of WCPHC as a PIP by the Commission is supported by several f
 
 The overarching purpose—to establish proof of unique personhood was conceived, designed, and operationalized entirely by TFH. WCPHC merely facilitates activities that enable this objective, such as user verification, logistics, and field assistance.[^58] In this respect, and consistent with Section 3 (h) and (i) of the DPA, WCPHC executes but does not control or define these operations.
 
-Second, WCPHC performs all its functions strictly in accordance with TFH's directions, policies, and training materials. WCPHC is obligated to, among others, "to study and implement policies and training materials provided by TFH."[^59] It implements pre-approved educational materials, follows TFH's prescribed verification workflow, and possesses no discretion to modify the Orb's functions, data flow, or retention protocol. This is consistent with Rule X, Section 44 (b) (1) of the Implementing Rules and Regulations of the DPA (IRR), which provides that a PIP shall act only upon the documented instructions of the PIC.
+Second, WCPHC performs all its functions strictly in accordance with TFH's directions, policies, and training materials. WCPHC is obligated to, among others, "to study and implement policies and training materials provided by TFH."[^59] It implements pre-approved educational materials, follows TFH's prescribed verification workflow, and possesses no discretion to modify the Orb's functions, data flow, or retention protocol. This is consistent with Rule X, Section 44 (b) (1) of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the DPA (IRR), which provides that a PIP shall act only upon the documented instructions of the PIC.
 
-Third, WCPHC lacks any independent authority to process data. It cannot collect additional categories of data, retain or delete data on its own initiative, or disclose data to third parties. All such determinations rest solely with TFH, as reinforced by Section 21 of the DPA, which establishes that the PIC remains responsible for personal data processed by a third party on its behalf.
+Third, WCPHC lacks any independent authority to process data. It cannot collect additional categories of data, retain or delete data on its own initiative, or disclose data to third parties. All such determinations rest solely with TFH, as reinforced by [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]], which establishes that the PIC remains responsible for personal data processed by a third party on its behalf.
 
 Fourth, WCPHC's functions are operational in nature rather than decisional. Its activities include the operation and maintenance of Orbs, on-site assistance during iris scanning, coordination of verification logistics, and the local implementation of TFH's training and policy materials—all of which are execution-level tasks devoid of independent decision-making.
 
@@ -264,7 +264,7 @@ Given these circumstances, the contention of WCPHC that it was not afforded the 
 
 Indeed, due process cannot be invoked by a party who, despite said opportunity, failed to act or avail itself of the remedies open to it. The constitutional guarantee of due process is meant to ensure fairness—not to shield negligence or inaction. As consistently held by the Supreme Court of the Philippines, "the essence of due process is simply the opportunity to be heard."[^83] It is not violated where a party is given the chance to present its side but fails to do so. Thus, WCPHC cannot now fault the Commission for its own failure to respond or comply, as the denial of due process cannot be predicated on a party's deliberate choice or neglect. To sustain WCPHC's claim would set a perilous precedent where a PIP having been notified by its PIC and even present in the very proceedings could later argue lack of due process by simply asserting technical non-notification. Such a view would distort the concept of administrative due process and defeat the very accountability structure established under the DPA, its IRR and issuances, which hold the PIC and its PIP to a unified standard of responsibility and cooperation as extensively discussed earlier.
 
-Further, indeed WCPHC is correct when it stated that the Commission is empowered to issue an ex parte CDO pursuant to NPC Circular No. 20-02, known as the Rules on the Issuance of Cease and Desist Orders (Rules on the Issuance of CDO)[^84], in relation to Section 7 (c) of the DPA.[^85] Under these provisions, the Commission may motu proprio or upon complaint, issue an ex parte order when all of the following concur:
+Further, indeed WCPHC is correct when it stated that the Commission is empowered to issue an ex parte CDO pursuant to NPC Circular No. 20-02, known as the Rules on the Issuance of Cease and Desist Orders (Rules on the Issuance of CDO)[^84], in relation to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 (c) of the DPA]].[^85] Under these provisions, the Commission may motu proprio or upon complaint, issue an ex parte order when all of the following concur:
 
 1) the Adverse Party is doing, threatening or is about to do, is procuring to be done, some act or practice in violation of the DPA, its IRR, or other related issuances;
 

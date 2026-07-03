@@ -30,7 +30,7 @@ access the Company’s records.
 
 You also seek clarification on whether the National Privacy Commission (NPC) can issue a
 letter of assurance to the U.S. SEC stating that: 1) NPC shall allow the U.S. SEC direct access
-to its records in accordance with the exemption stated in Section 4 of the DPA; and 2) the DPA
+to its records in accordance with the exemption stated in [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]]; and 2) the DPA
 shall not operate as a restriction in preventing the U.S. SEC from exercising its authority to
 review and examine relevant records kept and processed by the Company.
 
@@ -130,7 +130,7 @@ processing purposes.
 
 While the Company’s current situation qualifies for an exemption under the DPA, it is
 important to emphasize that the exemptions cited under the DPA and its IRR is not absolute.
-As stated in Section 5 of the IRR, personal information controllers (PICs) and personal
+As stated in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the IRR]], personal information controllers (PICs) and personal
 information processors (PIPs) are permitted to process personal data in special cases;
 however, such processing must be strictly limited to what is necessary to achieve the specific
 purpose, function, or activity.
@@ -148,8 +148,7 @@ required for co-regulation or public disclosure. Additionally, the agency must e
 robust security measures are in place to protect the personal data it processes.
 
 In the same vein, the U.S. SEC's review of relevant records in the Company’s custody qualifies
-as a special case of lawful processing under Section 4(g) of the DPA, in relation to Section 5 of
-the IRR. The processing conducted by the U.S. SEC serves the specific purpose of fulfilling
+as a special case of lawful processing under Section 4(g) of the DPA, in relation to Section 5 of the IRR. The processing conducted by the U.S. SEC serves the specific purpose of fulfilling
 regulatory requirements under the U.S. Securities and Exchange Act. Such processing
 complies with the requirement to be strictly limited to what is necessary to achieve the
 specified purpose. Further, as a government agency, the U.S. SEC is presumed to implement
@@ -212,7 +211,7 @@ Director IV, Privacy Policy Office
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
 
-[^5]: National Privacy Commission, NPC Advisory Opinion No. 2017-020 (18 July 2017).
+[^5]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-020-npc-advisoryopinionno-2017-020|NPC Advisory Opinion No. 2017-020]] (18 July 2017).
 
 [^7]: Sison v. The Board of Accountancy and Ferguzon, G.R. No. L-2529, December 31, 1949.
 

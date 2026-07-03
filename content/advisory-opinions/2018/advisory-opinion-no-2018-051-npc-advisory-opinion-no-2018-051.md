@@ -15,7 +15,7 @@ draft: false
 - Reference: Advisory Opinion No. 2018-051
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/AONo_2018-051.pdf
 - Issue date: 10/05/2018
-- Tags: Unconstitutional provisions in the dpa; personal information definition; data sharing agreements (dsa); section 4(d) of the dpa
+- Tags: Unconstitutional provisions in the dpa; personal information definition; data sharing agreements (dsa); [[laws/data-privacy-act-of-2012#section-4-scope|section 4(d) of the dpa]]
 - OCR used during extraction: no
 
 ## Text
@@ -38,7 +38,7 @@ Statutory acts of Congress are accorded with the presumption of validity. The pr
 
 #### How Does NPC Legally Define Personal Information?
 
-Section 3(g) of the DPA clearly defines personal information as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(g) of the DPA]] clearly defines personal information as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 
 #### How Does NPC Legally Define Sensitive Personal Information? What is the difference between Personal Information and Sensitive Personal Information?
 
@@ -52,7 +52,7 @@ Section 3 (l) of the Act enumerates what are considered as Sensitive Personal In
 >
 > (4) Specifically established by an executive order or an act of Congress to be kept classified.
 
-The DPA provides for different sets of criteria for lawful processing of personal information and sensitive personal information.[^3] In Section 12 of the DPA, processing of personal information is allowed only if not prohibited by law and when at least one of the conditions enumerated in the provision exists. On the other hand, Section 13 states that generally, processing of sensitive personal information and privileged information is prohibited, unless the basis for processing is among the cases indicated.
+The DPA provides for different sets of criteria for lawful processing of personal information and sensitive personal information.[^3] In [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], processing of personal information is allowed only if not prohibited by law and when at least one of the conditions enumerated in the provision exists. On the other hand, Section 13 states that generally, processing of sensitive personal information and privileged information is prohibited, unless the basis for processing is among the cases indicated.
 
 Moreover, the law imposes higher penalties for violations involving sensitive personal information.
 
@@ -68,7 +68,7 @@ You may also refer to NPC Advisory 2017-01 for further guidance on the designati
 
 #### If the "data processor" has never had any data protection officer what are the penalties?
 
-The designation of a DPO is a means to comply with Section 21(c) of the Data Privacy Act. A violation of the Data Privacy Act and any other issuances of the Commission can lead to compliance orders and other enforcement actions. The failure of the organization to appoint or designate a DPO will be taken into consideration in the event of an investigation or a compliance check. In the event of a breach, the lack of a DPO may be considered evidence of negligence.
+The designation of a DPO is a means to comply with [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21(c) of the Data Privacy Act]]. A violation of the Data Privacy Act and any other issuances of the Commission can lead to compliance orders and other enforcement actions. The failure of the organization to appoint or designate a DPO will be taken into consideration in the event of an investigation or a compliance check. In the event of a breach, the lack of a DPO may be considered evidence of negligence.
 
 #### What is the penalty if personal data is not processed fairly and lawfully by failing to update address, phone number, email, name in SSS/PhilHealth/Pag-Ibig/BIR, as stated in Section 11 (b) and (c)?
 
@@ -127,13 +127,13 @@ The provisions of the Anti-Photo and Video Voyeurism Act of 2009[^18] or the Cyb
 
 #### Scenario #3: Does the media or anyone who makes inquiries need to request consent of an interviewee before they can interview? Some of the ambush interviews tend to be rude and can come in at a wrong time, so does the law protect this? Does the law protect personal space in the same way as hands-off to private parts?
 
-Section 4(d) of the DPA provides for the non-applicability of the law on personal data processed for journalistic, artistic, literary or research purposes. The Implementing Rules and Regulations (IRR) explain that this non-applicability is made "in order to uphold freedom of speech, of expression, or of the press, subject to requirements of other applicable law or regulations."[^20] Note, however, that the non-applicability of the DPA is only to the minimum extent necessary to achieve the specific purpose, function, or activity concerned.[^21]
+Section 4(d) of the DPA provides for the non-applicability of the law on personal data processed for journalistic, artistic, literary or research purposes. The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) explain that this non-applicability is made "in order to uphold freedom of speech, of expression, or of the press, subject to requirements of other applicable law or regulations."[^20] Note, however, that the non-applicability of the DPA is only to the minimum extent necessary to achieve the specific purpose, function, or activity concerned.[^21]
 
 Stated otherwise, the exemption is not a carte blanche authorization that journalists can conveniently present to compel potential sources of information to turn over or disclosed data under their custody. After all, public disclosure of data remains subject to a range of policies, including internal constraints maintained by organizations, and other laws, as enacted or issued by the appropriate legislating authority. Thus, members of the media cannot compel a person to grant an interview without the latter's consent.
 
 As to the protection of physical personal space, it is not covered by the DPA. The DPA relates to informational privacy and protection of personal information. In any case, the right to privacy is constitutionally protected and accorded recognition independent of its identification with liberty. There are existing laws and regulations that protect the right to personal space.
 
-#### What happens if data subjects are not notified or informed of their rights under Section 16 of the DPA? How much do we have to pay to file a complaint or request an advisory opinion from the NPC?
+#### What happens if data subjects are not notified or informed of their rights under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]]? How much do we have to pay to file a complaint or request an advisory opinion from the NPC?
 
 The personal information controller or personal information processor shall uphold the rights of data subjects and adhere to general data privacy principles and the requirements of lawful processing. Thus, when a data subject thinks that an entity is processing his or her personal data in violation of his or her right as data subject, he or she may seek redress with the organization for appropriate action on the same or file a complaint with the Commission.[^22]
 

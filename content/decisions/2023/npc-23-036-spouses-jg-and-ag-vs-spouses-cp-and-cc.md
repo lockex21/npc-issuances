@@ -75,7 +75,7 @@ In Respondents' Verified Comment, they argued that the complaint should be dismi
 
 Second, Respondents argued that the Complainants failed to exhaust administrative remedies as the latter failed to inform the NBI in writing of the alleged disclosure.[^18] Moreover, Respondents argued that Complainants failed to exhaust remedies and to show any good cause as to why the complaint should be given merit, as there is no serious violation or breach of the DPA.[^19]
 
-Third, the Respondents claim that they have a legal basis under Section 13 (f) to process Complainants' information.[^20] Respondents argued that the disclosures were made to protect their rights and interests in NPS Docket No. INV-20B-01419.[^21] Respondents posited that "the information obtained was submitted to [OCP-QC] through the Investigating Prosecutor conducting the preliminary investigation and was therefore submitted to it in accordance with its mandate of determining the legal claims of the respondents against the complainants therein, and as such is considered as having been provided to 'government or public authority,' under Section 13 (f) of the Data Privacy Act."[^22]
+Third, the Respondents claim that they have a legal basis under Section 13 (f) to process Complainants' information.[^20] Respondents argued that the disclosures were made to protect their rights and interests in NPS Docket No. INV-20B-01419.[^21] Respondents posited that "the information obtained was submitted to [OCP-QC] through the Investigating Prosecutor conducting the preliminary investigation and was therefore submitted to it in accordance with its mandate of determining the legal claims of the respondents against the complainants therein, and as such is considered as having been provided to 'government or public authority,' under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the Data Privacy Act]]."[^22]
 
 Fourth, Respondents averred that Complainants' personal and sensitive personal information: name, address, and marital status, were already disclosed in the pleadings filed in NPS Docket No. INV-20B-01419.[^23]
 
@@ -103,7 +103,7 @@ On 04 October 2023, the CID issued a Notice dated 06 September 2023, informing t
 
 I. Whether the case should be outrightly dismissed for failure of the Complainants to exhaust administrative remedies; and
 
-II. Whether Respondents are liable for violating Section 25 of the DPA.
+II. Whether Respondents are liable for violating [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].
 
 ### Discussion
 
@@ -111,7 +111,7 @@ The Commission finds that the case should not be dismissed on procedural grounds
 
 #### I. Complainants did not violate the Rule on Exhaustion of Remedies.
 
-Section 2, Rule II of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure) provides:
+Section 2, Rule II of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure) provides:
 
 > **SECTION 2. Exhaustion of remedies.** – No complaint shall be given due course unless it has been sufficiently established and proven that:
 >
@@ -154,7 +154,7 @@ All the elements of unauthorized processing under Section 25 are present in this
 2. The information processed was personal information or sensitive personal information; and
 3. The processing was done without the consent of the data subject, or without authority under this Act or any existing law.[^46]
 
-As to the first element, Section 3 (j) of the DPA defines processing as "any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data."[^47]
+As to the first element, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (j) of the DPA]] defines processing as "any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data."[^47]
 
 Respondents processed Complainants' information when they attached the Affidavit of Desistance with Mutual Release and Quitclaim in the Joint and Consolidated Reply Affidavit dated 22 October 2020, "to establish that complainants had been previously charged with syndicated estafa also arising from the sale of shares of a corporation covering the same properties that were the subject of the estafa case filed by respondents against complainants."[^48]
 
@@ -294,5 +294,5 @@ GENERAL RECORDS UNIT
 [^56]: JBD v. JI and VVV, NPC 18-D-012, Decision dated 21 January 2021, at p. 13.
 [^57]: *Id.*
 [^58]: Complaints-Assisted Form dated 14 March 2023 of Spouses JG and AG, at p. 7 and Annex 1 "Joint and Consolidated Reply Affidavit" at p. 28.
-[^59]: National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18(b) (2016).
+[^59]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, rule IV, § 18(b) (2016).
 [^60]: Complaints-Assisted Form dated 14 March 2023 of Spouses JG and AG, at p. 7.

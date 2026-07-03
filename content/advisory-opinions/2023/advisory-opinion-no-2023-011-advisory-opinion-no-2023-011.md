@@ -65,7 +65,7 @@ DPA.
 The financial statements, balance sheets, and profit and loss statements (collectively,
 "financial information”) referred to in the current matter pertain to the employers who are
 juridical entities. Juridical entities are not considered as data subjects entitled to the
-protection of the DPA and its Implementing Rules and Regulations (IRR). Thus, the
+protection of the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR). Thus, the
 disclosure or processing of a company’s financial information fall outside the scope of the
 DPA. Consequently, the employers’ refusal to divulge their financial information to the
 employees’ union due to data privacy concerns is misplaced.
@@ -90,7 +90,7 @@ organizations have the right to be furnished by their employers with its annual 
 financial statements, including balance sheets and the profit and loss statement. However,
 the law did not mention the other documents that are being requested by your member-
 unions from their employers such as data on employees, enrollment of students and the
-distribution of benefits mandated by law. Be that as it may, Section 12 (f) of the DPA appears
+distribution of benefits mandated by law. Be that as it may, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] appears
 to be the most appropriate basis for processing such personal data, thus:
 
 > SECTION 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
@@ -116,7 +116,7 @@ information must be done in the least intrusive way so as not to impede the righ
 data subjects. In the scenario you provided, the data subjects are the employees and
 students.
 
-For the processing of sensitive personal information involved in the current matter, Section 13 (f) of the DPA appears to apply, to wit:
+For the processing of sensitive personal information involved in the current matter, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] appears to apply, to wit:
 
 > SECTION 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive personal information and privileged information shall be prohibited except in the following cases:
 >
@@ -184,12 +184,12 @@ Director IV, Privacy Policy Office
 
 [^3]: Data Privacy Act of 2012, § 12 (c).
 
-[^4]: National Privacy Commission, NPC Advisory Opinion No. 2022-005 (24 February 2022) citing United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 27 February 2023]
+[^4]: National Privacy Commission, [[advisory-opinions/2022/advisory-opinion-no-2022-005-advisory-opinion-no-2022-005-redacted|NPC Advisory Opinion No. 2022-005]] (24 February 2022) citing United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 27 February 2023]
 
 [^5]: Ibid.
 
-[^6]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [NPC 21-167] (Sept. 22, 2022).
+[^6]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]] (Sept. 22, 2022).
 
 [^7]: Data Privacy Act of 2012, § 13(f).
 
-[^8]: National Privacy Commission, BGM v. IPP [NPC 19-653] (Dec. 17, 2020).
+[^8]: National Privacy Commission, BGM v. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020).

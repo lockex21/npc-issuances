@@ -94,7 +94,7 @@ An observation of the ‘Retention Records Table’ vis-à-vis ‘Storage, Reten
 
 3. Collection of Data Table
 
-The Manual on the Use and Purpose of Data Collection referred to a Collection of Data Table which is supposed to include further details of the types of data collected and its purposes, the same is supposed to also demonstrate any data sharing to which the particular data is involved. However, the said table is left blank and it is not made clear who is responsible to accomplish the table. It should be reiterated that Data Inventory must be made part of the preparation of your Records of Processing Activities as required under Section 26(c) of the IRR of DPA which forms part of the organization’s data privacy compliance documentation.[^11]
+The Manual on the Use and Purpose of Data Collection referred to a Collection of Data Table which is supposed to include further details of the types of data collected and its purposes, the same is supposed to also demonstrate any data sharing to which the particular data is involved. However, the said table is left blank and it is not made clear who is responsible to accomplish the table. It should be reiterated that Data Inventory must be made part of the preparation of your Records of Processing Activities as required under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-26-organizational-security-measures|Section 26(c) of the IRR]] of DPA which forms part of the organization’s data privacy compliance documentation.[^11]
 
 4. Keeping Records of Processing Activities
 
@@ -158,7 +158,7 @@ On 10 November 2021, OWD submitted the Certificates of Participation of its empl
 
 The Commission finds that OWD has sufficiently complied with the Commission’s directives. As reflected in the revised Privacy Manual and Notices, OWD has fully addressed and corrected the deficiencies to the satisfaction of the Commission. It has also caused the participation of its employees in a data privacy orientation, as shown by the submission of Certificates of Participation to the NPC’s DPO Ace Level 1 Training Program.[^23]
 
-Section 7 of the DPA authorizes the Commission to ensure that personal information controllers (PICs) comply with the DPA, its IRR, and other issuances of the Commission:
+[[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] authorizes the Commission to ensure that personal information controllers (PICs) comply with the DPA, its IRR, and other issuances of the Commission:
 
 > Section 7. *Functions of the National Privacy Commission.* – To administer and implement the provisions of this Act, and to monitor and ensure compliance of the country with international standards set for data protection, there is hereby created an independent body to be known as the National Privacy Commission, which shall have the following functions:
 >

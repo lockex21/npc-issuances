@@ -20,7 +20,7 @@ draft: false
 
 1. **The Guidelines cover all Personal Information Controllers (PICs) and Personal Information Processors (PIPs) as defined by the Data Privacy Act of 2012 (DPA). Does this cover even PICs and PIPs established outside of the Philippines?**
 
-Yes, the Circular covers PICs and PIPs established outside of the Philippines. Section 1 of the Circular provides that it covers all PICs and PIPs as defined in the DPA, whether from the public or private sector. This also covers PICs and PIPs outside of the Philippines if they fall under the requisites found under Section 4 or Section 6 of the DPA. In such instances, the gross income of the foreign PIC or PIP within the Philippines that committed the infraction will be considered to determine the imposable fine.
+Yes, the Circular covers PICs and PIPs established outside of the Philippines. Section 1 of the Circular provides that it covers all PICs and PIPs as defined in the DPA, whether from the public or private sector. This also covers PICs and PIPs outside of the Philippines if they fall under the requisites found under Section 4 or [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|Section 6 of the DPA]]. In such instances, the gross income of the foreign PIC or PIP within the Philippines that committed the infraction will be considered to determine the imposable fine.
 
 2. **Will this apply to companies not registered with the National Privacy Commission (NPC)?**
 
@@ -36,7 +36,7 @@ In utilizing a percentage range, optimal deterrence will be achieved since it pr
 
 Furthermore, the Economic Study, which was prepared by the University of the Philippines Law Center with the help of their economic consultant, has determined that the use of percentage fines allows for the protection of the fundamental human right of privacy of communication while ensuring free flow of information. This mutually beneficial exchange of information leads to the promotion of innovation and growth.
 
-4. **Section 2 of the Circular provides that the PIP can be held equally liable as the PIC for administrative fines. Under the Principle of Accountability in the DPA, however, the PIC is liable for any violations even those performed by its subcontractors. Thus, following Section 21 of the DPA, shouldn’t the PIC be solely responsible and liable for the administrative infractions committed by the PIP under its control, subject only to contractual agreements between them on indemnity?**
+4. **Section 2 of the Circular provides that the PIP can be held equally liable as the PIC for administrative fines. Under the Principle of Accountability in the DPA, however, the PIC is liable for any violations even those performed by its subcontractors. Thus, following [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]], shouldn’t the PIC be solely responsible and liable for the administrative infractions committed by the PIP under its control, subject only to contractual agreements between them on indemnity?**
 
 No, the PIC will not be solely impleaded for purposes of administrative fines. The wording of the Circular includes both the PIC and PIP because in complaints initiated by the data subjects, the complainant may not be aware whether the entity is a PIC or PIP since he or she is not privy to these matters.
 
@@ -52,11 +52,11 @@ At any given time, however, the maximum imposable penalty for a single act is Ph
 
 This cap of Php 5,000,000.00 will be subject to periodic review by the Commission to determine if there is a need to revise the amount in the future.
 
-6. **How will the type of infraction be determined? Is it by counting the number of provisions under Section 11 or Section 16 of the DPA that were violated by PIC or PIP’s single action?**
+6. **How will the type of infraction be determined? Is it by counting the number of provisions under Section 11 or [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]] that were violated by PIC or PIP’s single action?**
 
 Yes, the type of infraction will be determined by taking into consideration the number of (1) general data privacy principles and (2) data subject rights violated. However, the number of principles and rights violated will not be compounded with the number of data subjects affected. Thus, to be considered a Major Infraction, the total affected data subjects is one thousand or below (1-1,000), while for Grave Infractions, the number of affected data subjects exceeds one thousand (1,001 or more).
 
-7. **Under Other Infractions, it states that “any natural or juridical person processing personal data that fails to comply with any Order, Resolution or Decision of the Commission, or of any of its duly authorized officers, pursuant to Section 7 of the DPA and its corresponding implementing issuances shall be subject to an administrative fine not exceeding Fifty Thousand Pesos (Php 50,000.00)”. How will this be determined and computed?**
+7. **Under Other Infractions, it states that “any natural or juridical person processing personal data that fails to comply with any Order, Resolution or Decision of the Commission, or of any of its duly authorized officers, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] and its corresponding implementing issuances shall be subject to an administrative fine not exceeding Fifty Thousand Pesos (Php 50,000.00)”. How will this be determined and computed?**
 
 Section 2 of the Circular, under Other Infractions (b) provides “the fine to be imposed as a result of this infraction shall be in addition to the fine imposed for the original infraction subject of the Order, Resolution or Decision of the Commission”.
 
@@ -76,7 +76,7 @@ No, the Commission has issuances on the interpretation of these general privacy 
 
 10. **Would there be guidelines released per sector just to have a view of what are reasonable and appropriate for the Commission?**
 
-No, there will be no guidelines released per sector. The DPA, IRR and NPC issuances are deemed sufficient to inform the public of the appropriate and reasonable security measures expected of all PICs and PIPs.
+No, there will be no guidelines released per sector. The DPA, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and NPC issuances are deemed sufficient to inform the public of the appropriate and reasonable security measures expected of all PICs and PIPs.
 
 The Commission shall evaluate PICs and PIPs based on the pleadings and evidence submitted to it. Thus, the compliance of the PICs and PIPs on appropriate and reasonable security measures shall be decided on a case-to-case basis.
 
@@ -142,7 +142,7 @@ Administrative fines imposed on a PIC or PIP may arise not only from complaints 
 
 21. **Is the Commission authorized to impose administrative fines under the [[laws/data-privacy-act-of-2012|DPA]]?**
 
-Yes, the Commission is authorized to impose administrative fines. [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]] mandates the Commission to: (1) ensure compliance of the PICs and PIPs with the [[laws/data-privacy-act-of-2012|DPA]]; (2) compel or petition any entity, government agency or instrumentality to abide by its orders or take action on a matter affecting data privacy; and (3) monitor compliance and recommend necessary action to meet minimum standards for protection of personal information.
+Yes, the Commission is authorized to impose administrative fines. [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] mandates the Commission to: (1) ensure compliance of the PICs and PIPs with the [[laws/data-privacy-act-of-2012|DPA]]; (2) compel or petition any entity, government agency or instrumentality to abide by its orders or take action on a matter affecting data privacy; and (3) monitor compliance and recommend necessary action to meet minimum standards for protection of personal information.
 
 First, taken together with the authority of the Commission to receive complaints, institute investigations, adjudicate, and award indemnity on matters affecting any personal information, these powers establish the Commission as a quasi-judicial authority with all the necessary and implied powers that come with it, such as the power to impose administrative fines.
 

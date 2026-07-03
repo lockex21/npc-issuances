@@ -84,8 +84,7 @@ and directly ascertained by the entity holding the information, or when put toge
 information would directly and certainly identify an individual.[^6] Hence, the DPA is limited in
 its application to the processing of personal data of natural persons, not juridical entities.
 
-We had the opportunity to discuss further the foregoing precept in Advisory Opinion No.
-2020-002,[^7] thus:
+We had the opportunity to discuss further the foregoing precept in [[advisory-opinions/2020/advisory-opinion-no-2020-002-redacted-advisory-opinion-no-2020-002-2|Advisory Opinion No. 2020-002]],[^7] thus:
 
    We wish to clarify that the DPA only applies to the processing of personal data
         of natural persons and not information of juridical entities recognized under the
@@ -106,7 +105,7 @@ DPA.
 On the other hand, the second and fourth questions involve matters that are covered by the
 DPA since it involves the processing of personal information of individuals. Hence, for the
 processing of personal information to be valid, there must be a legitimate purpose and its
-processing is not otherwise prohibited by existing law. Section 12 of the DPA provides the
+processing is not otherwise prohibited by existing law. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] provides the
 criteria for lawful processing of personal information. In the given scenario, Sections 12 (a)
 and (c) appear to be the most applicable basis for CIBI’s intended processing, to wit:
 
@@ -139,8 +138,7 @@ evidenced by written, electronic or recorded means as prescribed by the DPA.
 In keeping with best practices, CIBI may enter into a data sharing agreement (DSA) with each
 of its members to properly document the obligations, responsibilities, and liabilities of the
 PICs involved in the transfer of personal data. Under NPC Memorandum Circular No. 2020-
-03,[^9] the execution of a DSA demonstrates accountability on the part of the PICs as Section 21
-of the DPA requires the PIC to use contractual or other reasonable means to provide a
+03,[^9] the execution of a DSA demonstrates accountability on the part of the PICs as [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]] requires the PIC to use contractual or other reasonable means to provide a
 comparable level of protection while the personal data is being processed by a third party.
 
 Should the individual client refuse to consent to the processing, CIBI can also rely on Section
@@ -219,4 +217,4 @@ Director IV, Privacy Policy Office
 [^9]: National Privacy Commission, Data Sharing Agreements, Memorandum Circular No. 2020-03 [NPC Circular 2020-03] (23 December 2020).
 [^10]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed Feb. 12, 2020).
 [^11]: National Privacy Commission, MAF v. Shopee [NPC 19-073] (March 2021).
-[^12]: National Privacy Commission, NPC Advisory Opinion No. 2020-039 (11 December 2020).
+[^12]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-039-redacted-advisory-opinion-no-2020-039-2|NPC Advisory Opinion No. 2020-039]] (11 December 2020).

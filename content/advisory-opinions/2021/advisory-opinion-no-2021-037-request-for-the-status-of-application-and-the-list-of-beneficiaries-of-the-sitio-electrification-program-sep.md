@@ -27,7 +27,7 @@ Dear [Redacted],
 We write in response to your request for guidance on whether the Local Government of
 Infanta, Quezon (Infanta LGU) can lawfully request for certain information from the Quezon
 II Electric Cooperative, Inc. (QUEZELCO II) in relation to the Sitio Electrification Program
-(SEP) without violating the provisions of the Data Privacy Act of 2012[^2] (DPA).
+(SEP) without violating the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 We understand that the QUEZELCO II launched the SEP in 2019. The Infanta LGU supports
 the implementation of the SEP to ensure basic utilities are provided to far-flung communities
@@ -100,8 +100,8 @@ minimization.
 
 Lastly, as a PIC, the Infanta LGU is expected to implement the necessary organizational,
 technical, and physical safeguards for the protection of any personal data it collects and
-processes. It is bound by obligations under the DPA, its IRR, and issuances of the NPC,
-specifically NPC Circular No. 16-01 on the Security of Personal Data in Government Agencies.
+processes. It is bound by obligations under the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances of the NPC,
+specifically [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security of Personal Data in Government Agencies.
 
 This opinion is based solely on the limited information you have provided. Additional
 information may change the context of the inquiry and the appreciation of facts. This opinion

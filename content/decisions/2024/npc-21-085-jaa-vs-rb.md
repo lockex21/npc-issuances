@@ -157,7 +157,7 @@ Whether Respondent is liable for violation of Sections 31 and 32 of the DPA.
 
 ### Discussion
 
-#### Respondent is not liable for Malicious Disclosure under Section 31 of the DPA.
+#### Respondent is not liable for Malicious Disclosure under [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 of the DPA]].
 
 Malicious Disclosure, as penalized under Section 31 of the DPA, states:
 
@@ -169,7 +169,7 @@ Malicious Disclosure is committed when the following elements concur:
 
 In Respondent's Comment, he argued that the DPA does not apply to him because he is not involved in the processing of Complainant's personal information.[^46]
 
-Section 3 (h) of the DPA defines a personal information controller (PIC) as "a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf."[^47]
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (h) of the DPA]] defines a personal information controller (PIC) as "a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf."[^47]
 
 Following the abovementioned definition, Respondent is considered a PIC. As Barangay Captain, he is given access to the personal information of the COVID patients in BAA to effectively implement the provisions of Section 4 (f) of RA 11332, which states:
 
@@ -313,7 +313,7 @@ The abovementioned circumstances establish that Respondent was seemingly motivat
 
 Despite Respondent's overenthusiasm in upholding his responsibility as a public health authority duly tasked with the implementation of quarantine protocols that he disregarded Complainant's rights, as will be discussed in the succeeding paragraphs, the Commission still maintains that Respondent was not influenced by malice or bad faith when he disclosed Complainant's personal and sensitive personal information. Thus, Respondent is not liable for Malicious Disclosure under Section 31 of the DPA.
 
-#### Respondent is liable for Unauthorized Disclosure under Section 32 of the DPA.
+#### Respondent is liable for Unauthorized Disclosure under [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 of the DPA]].
 
 Unauthorized Disclosure under Section 32 of the DPA provides:
 
@@ -344,7 +344,7 @@ Section 32 of the DPA should be read together with Sections 12 and 13 on the cri
 
 However, the disclosure made by the Respondent does not fall under any of the lawful bases for processing under Sections 12 and 13 of the DPA. Although as earlier discussed that the Respondent's disclosure was not motivated by malice or bad faith, it still does not find justification under the DPA or the NPC's other issuances.
 
-Nonetheless, NPC Advisory Opinion No. 2020-022 clarifies that the DPA has never been a hindrance to contact tracing activities of the government as the law does not prevent government institutions from processing personal data when necessary to fulfill their mandates.[^90]
+Nonetheless, [[advisory-opinions/2020/advisory-opinion-no-2020-022-public-disclosure-of-identities-of-covid-patients-for-contact-tracing|NPC Advisory Opinion No. 2020-022]] clarifies that the DPA has never been a hindrance to contact tracing activities of the government as the law does not prevent government institutions from processing personal data when necessary to fulfill their mandates.[^90]
 
 In relation to this, DOH-NPC JMC 2020-0002 states that aggregate health information, or pseudonymized or anonymized detailed health information may be disclosed for a legitimate purpose, consistent with the DOH Updated Guidelines on Contact Tracing provisions on Protecting Data Privacy of COVID-19 Cases and Close Contacts.[^91]
 
@@ -362,7 +362,7 @@ At the time of the incident, proper procedures, as enunciated above, were alread
 
 It bears stressing that the right to privacy of health information shall be protected at all times. Regrettably, the facts and the evidence laid down in this case established that the rights of the Complainant have been infringed upon, therefore resulting in Unauthorized Disclosure under Section 32 of the DPA.
 
-#### Complainant is entitled to nominal damages under Section 16 (f) of the DPA.
+#### Complainant is entitled to nominal damages under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (f) of the DPA]].
 
 Section 16 (f) of the DPA entitles data subjects to be indemnified for any damages sustained due to such inaccurate, incomplete, outdated, false, unlawfully obtained or unauthorized use of personal information.[^96]
 
@@ -493,7 +493,7 @@ National Privacy Commission
 [^65]: Heirs of Severa P. Gregorio v. Court of Appeals, G.R. No. 117609, 29 December 1998.
 [^66]: Mary Elizabeth Ty-Delgado v. House of Representatives Electoral Tribunal, G.R. No. 219603, 26 January 2016.
 [^67]: Nancy S. Montinola v. Philippine Airlines, G.R. No. 198656, 08 September 2014.
-[^68]: JCB vs. FRL, NPC 21-031, Decision dated 03 March 2022, at p. 12.
+[^68]: JCB vs. FRL, [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], Decision dated 03 March 2022, at p. 12.
 [^69]: Attached Screenshots from the Complaints-Assisted Form dated 27 May 2021 of JAA, at p. 13.
 [^70]: Id, at p. 8.
 [^71]: Id, at p. 10.
@@ -509,10 +509,10 @@ National Privacy Commission
 [^81]: Id, at pp. 2-3.
 [^82]: Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern Act, § 9 (e).
 [^83]: Data Privacy Act of 2012, chapter VIII, § 32.
-[^84]: EG v. JI, RO, and RR, NPC 21-111, Decision dated 22 September 2022, at pp. 11-12.
+[^84]: EG v. JI, RO, and RR, [[decisions/2022/npc-21-111-eg-v-ji-ro-and-rr|NPC 21-111]], Decision dated 22 September 2022, at pp. 11-12.
 [^85]: Department of Health, Updated Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease Cases, Department Memorandum 2020-0189 (2020).
 [^86]: Department of Health Department Memorandum 2020-0189.
-[^87]: MVC, et al. v. DSL, NPC 21-010 to NPC 21-015, Decision dated 03 February 2022, at p. 11.
+[^87]: MVC, et al. v. DSL, [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010]] to NPC 21-015, Decision dated 03 February 2022, at p. 11.
 [^88]: Id, at p. 12.
 [^89]: Id, at p. 11.
 [^90]: Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion No. 2020-022, 08 June 2020, at p. 3.

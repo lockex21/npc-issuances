@@ -100,6 +100,6 @@ GENERAL RECORDS UNIT
 [^1]: Manifestation dated 01 February 2021, FGP vs. Maersk Global Service Centres, Philippines, Ltd., NPC CN 18-038
 [^2]: Decision dated 21 May 2020, FGP vs. Maersk Global Service Centres, Philippines, Ltd., NPC CN 18-038
 [^3]: Proof of receipt of Decision dated 21 May 2020
-[^4]: Section 51 of the Implementing Rules and Regulations of the Data Privacy Act of 2012
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-51-accountability-for-violation-of-the-act-these-rules-and-other-issuances-of-the-commission|Section 51 of the Implementing Rules and Regulations]] of the Data Privacy Act of 2012
 [^5]: Annex A and B of the Manifestation dated 01 February 2021
-[^6]: Section 16 of the Data Privacy Act of 2012
+[^6]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the Data Privacy Act of 2012]]

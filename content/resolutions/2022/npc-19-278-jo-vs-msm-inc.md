@@ -80,7 +80,7 @@ Rule VII, Section 30 of the NPC Circular 2016-04 or the Rules of Procedure (2016
 >
 > (Emphasis supplied)
 
-Likewise, Rule VIII, Section 4 of NPC Circular No. 2021-01, otherwise known as the 2021 NPC Rules of Procedure (2021 NPC Rules) states:
+Likewise, Rule VIII, Section 4 of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]], otherwise known as the 2021 NPC Rules of Procedure (2021 NPC Rules) states:
 
 > **SECTION 4. Appeal. – The decision of the Commission shall become final and executory fifteen (15) calendar days after receipt of a copy by both parties.** One motion for reconsideration may be filed, which shall suspend the running of the said period. Any appeal from the Decision shall be to the proper courts, in accordance with law and rules.[^22]
 
@@ -106,7 +106,7 @@ In fact, in resolving JO's complaint, the Commission even exercised its authorit
 
 > *I. The Commission exercises its authority to resolve the case on the merits.*
 >
-> MSMI contends that the case should be dismissed since JO did not prove that he complied with Section 4(a) of NPC Circular No. 16-04, also known as the 2016 NPC Rules of Procedure.
+> MSMI contends that the case should be dismissed since JO did not prove that he complied with Section 4(a) of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]], also known as the 2016 NPC Rules of Procedure.
 >
 > In response, JO claims that after resigning, he immediately informed the company to refrain from accessing his personal information.
 >
@@ -124,7 +124,7 @@ The Commission could have just resolved to dismiss outright JO's complaint simpl
 
 Further, regardless of the propriety of the Investigating Officer's alleged statement, the Decision was made only after the Commission scrutinized each party's submissions, evidence, and the law. The Commission ultimately decides on the matter, independent of the recommendations of the investigating officer, since "[t]he Commission shall review the evidence presented, including the Fact-Finding Report and supporting documents."[^35] Though his complaint was dismissed, this in itself does not automatically prove that there was bias.
 
-JO also repeats his claim that MSMI committed privacy violations when it "[used] the account name and code of complainant who has effectively resigned since 31 December 2018… There was a categorical admittance that the e-mail was provided for by the company (respondents), hence, bolster the fact that it is still being wantonly utilized by the company even after the complainant (data subject) effectively resigned since December 31, 2018 by another person. (sic)".[^36] He also claims that MSMI should be penalized for Section 33 of the DPA to act as deterrence for those similarly inclined to violate the law or commit data breaches.[^37]
+JO also repeats his claim that MSMI committed privacy violations when it "[used] the account name and code of complainant who has effectively resigned since 31 December 2018… There was a categorical admittance that the e-mail was provided for by the company (respondents), hence, bolster the fact that it is still being wantonly utilized by the company even after the complainant (data subject) effectively resigned since December 31, 2018 by another person. (sic)".[^36] He also claims that MSMI should be penalized for [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|Section 33 of the DPA]] to act as deterrence for those similarly inclined to violate the law or commit data breaches.[^37]
 
 The Commission has already extensively discussed JO's contentions in its Decision. Further, the Commission finds that there are no new material facts or information presented by JO in his Motion that would warrant the reversal of the Commission's Decision.
 

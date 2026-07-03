@@ -22,7 +22,7 @@ Re: CONSENT
 
 Dear [Redacted],
 
-This pertains to your query received by the National Privacy Commission (NPC) on 24 August 2017 seeking clarification on the interpretation of consent in relation to as defined under the Data Privacy Act of 2012 (DPA).
+This pertains to your query received by the National Privacy Commission (NPC) on 24 August 2017 seeking clarification on the interpretation of consent in relation to as defined under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Discussion
 

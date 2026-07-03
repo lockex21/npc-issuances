@@ -30,9 +30,9 @@ WHEREAS, Article III, Section 7 of the Constitution recognizes the right of the 
 
 WHEREAS, Article XI, Section 1 of the Constitution provides that public office is a public trust, and that public officers and employees must, at all times, be accountable to the people, serve them with utmost responsibility, integrity, loyalty and efficiency; act with patriotism and justice, and lead modest lives;
 
-WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2 of the DPA]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth;
 
-WHEREAS, [[laws/data-privacy-act-of-2012#Section 4|Section 4 of the DPA]] states that the law applies to the processing of all types of personal information and to any person involved in personal information processing, but provides that the Act will not apply to specified information, including those information processed for purposes of allowing public access to information that fall within matters of public concern;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] states that the law applies to the processing of all types of personal information and to any person involved in personal information processing, but provides that the Act will not apply to specified information, including those information processed for purposes of allowing public access to information that fall within matters of public concern;
 
 WHEREAS, the inclusion of the right to information in the Constitution is a recognition of the fundamental role of free and open exchange of information in a democracy meant to enhance transparency and accountability in government;
 
@@ -44,7 +44,7 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
 
 **SECTION 2.** ***Definition of Terms.*** Whenever used in this Advisory, the following terms shall have their respective meanings as hereinafter set forth:
 
-A. **Act** or **DPA** refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
+A. **Act** or **[[laws/data-privacy-act-of-2012|DPA]]** refers to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
 
 B. **Consent of the data subject** refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so.
 

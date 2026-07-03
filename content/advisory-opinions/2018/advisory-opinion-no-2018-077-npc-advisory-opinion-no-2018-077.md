@@ -63,8 +63,7 @@ as the list would now indicate name and address, albeit limited to district, of 
 The information is considered personal information and not sensitive personal information.
 
 3. Assuming the names and other information of beneficiaries are considered merely
-   “personal information” and not “sensitive personal information”, under Section 12(c) of
-   the DPA, the same may be processed when “The processing is necessary for compliance
+   “personal information” and not “sensitive personal information”, under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(c) of the DPA]], the same may be processed when “The processing is necessary for compliance
    with a legal obligation to which the personal information controller is subject.” In this
    instance, would the oversight function of Congress qualify as a “legal obligation” of the
    DSWD?
@@ -108,8 +107,7 @@ Committee on Appropriations may be founded on the fulfillment of the mandate of 
 Committee exercising its oversight function.
 
 4. Again assuming the names and other information of beneficiaries are considered merely
-   “personal information” and not “sensitive personal information”, under Section 12(f) of
-   the DPA, the same may be processed when “The processing is necessary for the purposes
+   “personal information” and not “sensitive personal information”, under Section 12(f) of the DPA, the same may be processed when “The processing is necessary for the purposes
    of the legitimate interests pursued by the personal information controller or by a third
    party or parties to whom the data is disclosed.” In this instance, would the “oversight
    function of Congress qualify as a “legitimate interest” of the Congress?
@@ -119,12 +117,10 @@ or mandated by a law, rule or regulation. Hence, legitimate interest of governme
 have statutory or constitutional basis.
 
 However, as discussed above, the disclosure of information by the DSWD to the Committee
-may be based on the fulfillment of the functions of a public authority under Section 12 (e) of
-the DPA.
+may be based on the fulfillment of the functions of a public authority under Section 12 (e) of the DPA.
 
 5. Assuming the names and other information of beneficiaries are considered merely
-   “sensitive personal information” (and not merely “personal information”), under Section
-   13(f) of the DPA, the same may be processed when “The processing concerns such
+   “sensitive personal information” (and not merely “personal information”), under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]], the same may be processed when “The processing concerns such
    personal information as is necessary for the protection of lawful rights and interests of
    natural or legal persons in court proceedings, or the establishment, exercise or defense of
    legal claims, or when provided to government or public authority.” In this instance, would
@@ -182,9 +178,9 @@ Should aggregated data be insufficient for the purpose, the House of Representat
 provide information why the specific personal information requested is necessary in relation
 to its declared purpose. Where the House of Representatives collects and processes this
 information from the DSWD, the House will be bound by its obligations under the DPA, its
-IRR, and issuances of the NPC, specifically NPC Circular No. 16-01 on the Security of Personal
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances of the NPC, specifically [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security of Personal
 
-Data in Government Agencies and NPC Circular No. 16-02 - Data Sharing Agreements
+Data in Government Agencies and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] - Data Sharing Agreements
 Involving Government Agencies.
 
 This opinion is based solely on the limited information you have provided. Additional

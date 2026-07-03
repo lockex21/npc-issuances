@@ -39,7 +39,7 @@ WHEREFORE, in consideration of these premises, the NPC hereby issues this Adviso
 
 **SECTION 1.** ***Purpose.*** This Advisory provides guidance to PICs on the nature of deceptive design patterns, and its impact on the lawful processing of personal data based on the data subject's consent and in line with the general privacy principles. This Advisory aims to prevent the usage of deceptive design patterns on analog and digital interfaces.
 
-**SECTION 2.** ***Definition of Terms.*** Terms used in the [[laws/data-privacy-act-of-2012|DPA]] and its Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), as amended, are adopted herein. In addition, whenever used in this Advisory, the following terms are defined as follows:
+**SECTION 2.** ***Definition of Terms.*** Terms used in the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), as amended, are adopted herein. In addition, whenever used in this Advisory, the following terms are defined as follows:
 
 A. “Deceptive Design Patterns” refer to design techniques embedded on an analog or digital interface that aim to manipulate or deceive a data subject to perform a specific act relating to the processing of their personal data.
 

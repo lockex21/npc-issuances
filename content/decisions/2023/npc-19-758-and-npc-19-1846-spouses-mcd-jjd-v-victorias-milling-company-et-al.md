@@ -120,7 +120,7 @@ On 28 June 2019, the Respondents disclosed that VMC filed before the Regional Tr
 
 Respondents argued that the complaint should be dismissed on the grounds that Complainants are guilty of forum shopping, that the claim or demand set forth in the complaint has been paid, waived, abandoned, or otherwise extinguished, and that the complaint lacks merit.[^56]
 
-Respondents contended that the information contained in the Disclosure Agreement only pertained to personal information as defined under the DPA and their processing was based on contracts under Section 12 (b), compliance with a legal obligation under Section 12 (c), and legitimate interest under Section 12 (f) of the DPA.[^57]
+Respondents contended that the information contained in the Disclosure Agreement only pertained to personal information as defined under the DPA and their processing was based on contracts under Section 12 (b), compliance with a legal obligation under Section 12 (c), and legitimate interest under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]].[^57]
 
 They explained that the processing of personal data was based on a contract.[^58] Further, they stated that at the time of processing, an employment relationship existed between them and Complainants which is governed by an employment contract.[^59] This allows them to process certain information that are necessary and related to the fulfillment of the contract:
 
@@ -148,7 +148,7 @@ They also stated that VMC has a legitimate interest in processing Complainants' 
 >
 > In this case, the processing of the personal information contained in the Disclosure Statement is based on the legitimate interest of the organization to prevent fraud and violation of its policies which may affect the business.[^64]
 
-Respondents argued that assuming the Disclosure Statements contained sensitive personal information, they still have lawful basis in processing the information because it is necessary for the protection of its lawful rights and interest pursuant to Section 13 (f) of the DPA.[^65]
+Respondents argued that assuming the Disclosure Statements contained sensitive personal information, they still have lawful basis in processing the information because it is necessary for the protection of its lawful rights and interest pursuant to [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]].[^65]
 
 The act of Complainants in withholding information which VMC requires from all its employees and consultants gave rise for VMC to process the information in order to protect its lawful rights and interest and implement company policies.[^66]
 
@@ -236,7 +236,7 @@ In sum, Complainants failed to discharge their burden and to submit substantial 
 
 While it has been established earlier that Complainants failed to identify which information Respondents processed, a perusal of the records shows that the personal data in the Disclosure Statements only involves personal information.
 
-Section 3 (g) of the DPA defines personal information:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (g) of the DPA]] defines personal information:
 
 > Section 3. **Definition of Terms.** Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -264,7 +264,7 @@ In this case, Respondents have clearly established that the processing and valid
 
 The first requisite of processing based on Section 12 (f) of the DPA is that the legitimate interest is established.[^124] This focuses on what the PIC seeks to accomplish with the specific processing activity. To determine whether this has been established, the PIC must comply with the general privacy principles of (1) legitimate purpose and (2) transparency.
 
-Section 11 of the DPA discusses legitimate purpose as follows:
+[[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] discusses legitimate purpose as follows:
 
 > Section 11. **General Data Privacy Principles.** The processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, **legitimate purpose** and proportionality.
 >
@@ -276,7 +276,7 @@ Section 11 of the DPA discusses legitimate purpose as follows:
 >
 > (e) Retained only for as long as necessary for the fulfillment of the purposes for which the data was obtained or for the establishment, exercise or defense of legal claims, or for **legitimate business purposes**, or as provided by law[.][^125]
 
-Elaborating on this, Section 18 of the Implementing Rules and Regulations of the DPA (IRR) provides:
+Elaborating on this, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 of the Implementing Rules and Regulations]] of the DPA (IRR) provides:
 
 > Section 18. **Principles of Transparency, Legitimate Purpose and Proportionality.** The processing of personal data shall be allowed subject to adherence to the principles of transparency, legitimate purpose, and proportionality.
 >
@@ -368,7 +368,7 @@ Section 11 (b) of the DPA states that the personal information must be processed
 >
 > (b) **Processed fairly and lawfully**[.][^153]
 
-Section 19 of the Implementing Rules and Regulations of the DPA (IRR) elaborates on fairness:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19 of the Implementing Rules and Regulations]] of the DPA (IRR) elaborates on fairness:
 
 > Section 19. **General principles in collection, processing and retention.**
 >
@@ -396,7 +396,7 @@ In sum, for processing based on Section 12 (f) of the DPA to apply, the PIC must
 
 In this case, Respondents complied with all three requisites for processing based on legitimate interest. Respondents have clearly established the legitimate interest in processing the Disclosure Statements. The investigations and interviews lawfully conducted were necessary to verify the accuracy of the entries in the Disclosure Statements. Further, their acts did not go beyond what could be reasonably expected by Complainants, as employees, when they submitted their Disclosure Statements. Thus, even if Complainants had presented substantial evidence to support their claims, Respondents would still have lawful basis under Section 12 (f) of the DPA when they processed Complainants' personal information.
 
-Given the foregoing, the Commission cannot find Respondents liable for violating Section 25 (Unauthorized Processing), Section 26 (Access due to Negligence), Section 28 (Processing for Unauthorized Purposes), Section 29 (Unauthorized Access or Intentional Breach), Section 31 (Malicious Disclosure), Section 32 (Unauthorized Disclosure), and Section 33 (Combination or Series of Acts) of the DPA.
+Given the foregoing, the Commission cannot find Respondents liable for violating Section 25 (Unauthorized Processing), Section 26 (Access due to Negligence), Section 28 (Processing for Unauthorized Purposes), Section 29 (Unauthorized Access or Intentional Breach), Section 31 (Malicious Disclosure), Section 32 (Unauthorized Disclosure), and [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|Section 33 (Combination or Series of Acts) of the DPA]].
 
 WHEREFORE, premises considered, this Commission resolves that the case filed by Spouses MCD and JJD against Victorias Milling Company, MOC, EVR, GEK, and SC is **DISMISSED** for lack of substantial evidence.
 
@@ -561,13 +561,13 @@ GENERAL RECORDS UNIT
 [^119]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (g) (2012).
 [^120]: Complaint-Affidavit of MCD, 27 June 2019, Annex A, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2019); Complaint-Affidavit of JJD, 27 June 2019, Annex A, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2019).
 [^121]: Data Privacy Act of 2012, § 12 (f).
-[^122]: MAF v. Shopee, NPC 21-167, 22 September 2022, at 9, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-21-167-2022.09.22-MAF-v.-Shopee-Decision-Final.pdf (last accessed 05 July 2023).
+[^122]: MAF v. Shopee, [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]], 22 September 2022, at 9, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-21-167-2022.09.22-MAF-v.-Shopee-Decision-Final.pdf (last accessed 05 July 2023).
 [^123]: Consolidated Comment, 18 October 2021, at 2, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2021).
 [^124]: MAF v. Shopee, NPC 21-167, at 9.
 [^125]: Data Privacy Act of 2012, § 11 (a)(e). Emphasis supplied.
 [^126]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, § 18 (a)(b) (2016) Emphasis supplied.
 [^127]: See Data Privacy Act of 2012, § 11; Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 18 (a)(b).
-[^128]: MLF v. MyTaxi.PH Corp., NPC 19-142, 31 March 2022, at 8, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-19-142-MLF-v.-Grab-Philippines-2022.03.31.-Decision.pdf (last accessed 24 August 2023).
+[^128]: MLF v. MyTaxi.PH Corp., [[decisions/2022/npc-19-142-mlf-v-grab-philippines|NPC 19-142]], 31 March 2022, at 8, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-19-142-MLF-v.-Grab-Philippines-2022.03.31.-Decision.pdf (last accessed 24 August 2023).
 [^129]: Id. at 8.
 [^130]: Consolidated Comment, 18 October 2021, at 3, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2021).
 [^131]: Securities and Exchange Commission, Code of Corporate Governance for Publicly-Listed Companies, Principle 8 (2016).

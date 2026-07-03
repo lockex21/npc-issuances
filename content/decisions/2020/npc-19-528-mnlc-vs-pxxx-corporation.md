@@ -94,7 +94,7 @@ On 28 October 2019, Respondents filed a Responsive Comment to the Complaint. The
 
 Respondents also filed an Addendum to the Responsive Comment. They added that processing the personal information of Complainant's church members was necessary to achieve lawful and non-commercial objectives considering that Respondent Corporation undertook heightened security measures in view of the crimes against properties committed to their tenants inside the building.[^28]
 
-On 14 November 2019, Complainant manifested that the contents of Respondents' Comment are a mere rehash of their previous arguments as discussed during the proceedings on the issuance of a temporary ban. Complainant also prayed for indemnification, destruction of its church members' personal data processed by Respondents, and a recommendation to prosecute Respondents for violation of Section 13 in relation to Section 25(b) of the Data Privacy Act.[^29]
+On 14 November 2019, Complainant manifested that the contents of Respondents' Comment are a mere rehash of their previous arguments as discussed during the proceedings on the issuance of a temporary ban. Complainant also prayed for indemnification, destruction of its church members' personal data processed by Respondents, and a recommendation to prosecute Respondents for violation of Section 13 in relation to [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25(b) of the Data Privacy Act]].[^29]
 
 On 18 November 2019, the Commission issued a Resolution denying the Motion for Reconsideration of the Order dated 11 September 2019 issuing a temporary ban on processing against Respondents. The Commission also required Respondents to submit an affidavit of compliance showing that they have complied with the Commission's order to: (1) return to complainant's church members all the copies of their passports and valid IDs; (2) delete or dispose all copies of the passports and valid IDs, digital or otherwise; and (3) to allow complainant to provide IDs for their church members and officers bearing only their photos and English names.[^30]
 
@@ -135,7 +135,7 @@ The important consideration in determining whether this Commission validly acqui
 
 In this case, IKP, the Head Elder of MNLC, Inc., alleged in his Complaint-Affidavit that Respondents committed acts violative of his privacy rights. The fact that he and the other church members, who executed affidavits in support of the Complaint-Affidavit, also sought to represent the other members of MNLCI does not change their status as affected data subjects.
 
-Whether IKP and the others were testifying as mere representatives or witnesses and not as complainants or whether each and every single member of MNLCI should have issued individual authorizations is of no moment. Strict adherence to the technicalities of NPC Circular No. 16-04 or the NPC Rules of Procedure ("Rules") may be dispensed with following Section 33 of the same Rules which provide for a liberal interpretation "in a manner mindful of the rights and interests of the person about whom personal data is processed."[^39] As the Supreme Court held in *Heirs of Amada Zaulda v. Zaulda*,[^40] technicalities may be dispensed with if it impedes the attainment of justice, thus:
+Whether IKP and the others were testifying as mere representatives or witnesses and not as complainants or whether each and every single member of MNLCI should have issued individual authorizations is of no moment. Strict adherence to the technicalities of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] or the NPC Rules of Procedure ("Rules") may be dispensed with following Section 33 of the same Rules which provide for a liberal interpretation "in a manner mindful of the rights and interests of the person about whom personal data is processed."[^39] As the Supreme Court held in *Heirs of Amada Zaulda v. Zaulda*,[^40] technicalities may be dispensed with if it impedes the attainment of justice, thus:
 
 > What should guide judicial action is the principle that a party-litigant should be given the fullest opportunity to establish the merits of his complaint or defense rather than for him to lose life, liberty, honor, or property on technicalities. The rules of procedure should be viewed as mere tools designed to facilitate the attainment of justice. Their strict and rigid application, which would result in technicalities that tend to frustrate rather than promote substantial justice, must always be eschewed.[^41]
 
@@ -377,7 +377,7 @@ With regard to the third element, the Commission has extensively discussed that 
 
 Following this, the Commission finds that Respondents' processing of the personal information of the Complainant's members meets all the elements of Section 25(b) of the Data Privacy Act.
 
-Considering that Respondent PXXX is a Corporation, Section 34 of the Data Privacy Act applies, thus:
+Considering that Respondent PXXX is a Corporation, [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the Data Privacy Act]] applies, thus:
 
 > Section 34. Extent of Liability. If the offender is a corporation, partnership, or any juridical person, the penalty shall be imposed upon the responsible officers, as the case may be, who participated in, or by their gross negligence, allowed the commission of the crime.
 
@@ -407,7 +407,7 @@ Pursuant to the New Civil Code and following the aforementioned findings that Re
 
 2. **FORWARDS** this Decision and a copy of the pertinent case records to the Secretary of Justice, recommending the prosecution of respondents for the crime of Unauthorized Processing under Section 25 of the Data Privacy Act, and for its further actions;
 
-3. **AWARDS** damages, in the amount of P1,000.00, to each member of Complainant MNLC as of the date of filing of the Complaint Affidavit on 23 July 2019 for Respondent's unlawful collection of their sensitive personal information, pursuant to Section 16(f) of the Data Privacy Act; and
+3. **AWARDS** damages, in the amount of P1,000.00, to each member of Complainant MNLC as of the date of filing of the Complaint Affidavit on 23 July 2019 for Respondent's unlawful collection of their sensitive personal information, pursuant to [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(f) of the Data Privacy Act]]; and
 
 4. **ORDERS** the submission of proof of compliance by Respondents' with abovementioned award within thirty (30) days of receipt of this Decision.
 
@@ -498,7 +498,7 @@ National Privacy Commission
 [^58]: Data Privacy Act, §3(b).
 [^59]: *Id.*
 [^60]: National Privacy Commission. Advisory Opinion 2019-034 Re: Consent and Its Withdrawal for Employment Purposes. 02 September 2019, *citing* European Commission, Article 29, Data Protection Working Party, Opinion 15/2011.
-[^61]: National Privacy Commission. Advisory Opinion No. 2018-013 Re: Privacy Policy and Consent of Data Subjects. 18 April 2018.
+[^61]: National Privacy Commission. [[advisory-opinions/2018/advisory-opinion-no-2018-013-npc-advisory-opinion-no-2018-013|Advisory Opinion No. 2018-013]] Re: Privacy Policy and Consent of Data Subjects. 18 April 2018.
 [^62]: *Supra* note 1, at 341.
 [^63]: *Id.*, at 294-295.
 [^64]: *Id.*, at 73.
@@ -519,7 +519,7 @@ National Privacy Commission
 [^79]: *Id.*, at 219-220.
 [^80]: *Id.*, at 239-240.
 [^81]: *Id.*, at 344.
-[^82]: Implementing Rules and Regulations (IRR) of R.A. 10173. §18(c).
+[^82]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of R.A. 10173. §18(c).
 [^83]: ICCPR, Art. 19; General Comment 34, par. 34; UNHRC, 'General Comment No. 22: Article 18 (Freedom of Thought, Conscience or Religion), (30 July 1993) UN Doc CCPR/c/21/Rev.1/Add.4 ('General Comment 22'), par. 8; *Shelton v. Tucker*, 364 US 479 (1960); *Thorgeirson v. Iceland* App No. 13778/88 (ECTHR, 25 June 1992).
 [^84]: *Supra* note 1, at 190 and 191.
 [^85]: *Id.*, at 291.

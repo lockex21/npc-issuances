@@ -50,7 +50,7 @@ On 28 April 2020, the case was submitted by the CID for Resolution of this Commi
 
 ### Discussion
 
-The Data Privacy Act (“DPA”) and the NPC Circular 16-03 require every Personal Information Controller (“PIC”) the twin responsibility of notifying the Commission and the affected data subjects when personal data breach occurs. Section 20 (f) of the DPA provides:
+The Data Privacy Act (“DPA”) and the NPC Circular 16-03 require every Personal Information Controller (“PIC”) the twin responsibility of notifying the Commission and the affected data subjects when personal data breach occurs. [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (f) of the DPA]] provides:
 
 > “(f) The personal information controller shall promptly notify the Commission and affected data subjects when sensitive personal information or other information that may, under the circumstances, be used to enable identify fraud are reasonably believed to have been acquired by an unauthorized person, and the personal information controller or the Commission believes that such unauthorized acquisitions is likely to give rise to real risk of serious harm to any affected data subjects…” (Emphasis supplied)
 

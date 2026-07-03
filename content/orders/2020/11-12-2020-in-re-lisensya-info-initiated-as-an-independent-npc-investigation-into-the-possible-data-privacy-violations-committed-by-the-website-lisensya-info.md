@@ -106,7 +106,7 @@ On the Application for Issuance of Cease and Desist Order dated 11 November 2020
 
 ### Discussion
 
-The NPC is an independent body created to administer and implement the provisions of the DPA. As provided in Section 7 of the DPA, the NPC has Rule Making, Advisory, Public Education, Compliance and Monitoring, Complaints and Investigation, and Enforcement powers[^10] to enable it to protect the fundamental human right of privacy while ensuring the free flow of information to promote innovation and growth.[^11]
+The NPC is an independent body created to administer and implement the provisions of the DPA. As provided in [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the NPC has Rule Making, Advisory, Public Education, Compliance and Monitoring, Complaints and Investigation, and Enforcement powers[^10] to enable it to protect the fundamental human right of privacy while ensuring the free flow of information to promote innovation and growth.[^11]
 
 Section 7(b) of the DPA specifically states that it is the mandate of the NPC to:
 
@@ -124,7 +124,7 @@ In addition, the DPA explicitly provides for the Commission's power to issue Cea
 
 > "Section 7 (c). Issue cease and desist orders, impose a temporary or permanent ban on the processing personal information, upon finding that the processing will be detrimental to national security and public interest."
 
-This was reiterated in the Implementing Rules and Regulations (IRR) of the DPA:
+This was reiterated in the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the DPA:
 
 > "Section 9. Functions. The National Privacy Commission shall have the following functions:
 >
@@ -168,7 +168,7 @@ In sum, there is sufficient ground to support the finding that Lisensya.Info vio
 
 The initial investigation and the technical report have clearly shown that the processing of the personal data on Lisensya.Info is without the consent of the affected data subject, or without authority under the DPA or any existing law, which is a blatant and complete violation of the DPA.
 
-Lisensya.Info displays the logo of the LTO prominently in its website pretending to be an official government website. It processed the personal data of the data subjects, the owners of the driver's license and motor vehicle file number, by storing the unlawfully obtained information from LTO in its website and using them to "verify" entries by the public without their consent or authority of law, as defined under Section 13 of the DPA.
+Lisensya.Info displays the logo of the LTO prominently in its website pretending to be an official government website. It processed the personal data of the data subjects, the owners of the driver's license and motor vehicle file number, by storing the unlawfully obtained information from LTO in its website and using them to "verify" entries by the public without their consent or authority of law, as defined under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 The license number, birthday, sex, and plate number are sensitive personal information that are generally prohibited to be processed except under the circumstances provided under Section 13 of the DPA, which provides:
 
@@ -218,7 +218,7 @@ Lisensya.Info's website is still active as of date. Its continued existence pose
 
 Identity theft is the most likely consequence, but there is no telling what other acts and further damage can be done to the stored data on Lisensya.Info's database as surveillance and threats to security may be among them. Allowing it to continue its operations increases the risk of exposing the personal data to identity fraud, and other grave and irreparable damage and/or injury.
 
-As discussed by the Commission in the case of *In re: Philippine Seven Corporation* (CID BN 18-081),[^14] viz:
+As discussed by the Commission in the case of *In re: Philippine Seven Corporation* ([[resolutions/2020/cid-bn-18-081-in-re-philippine-seven-corporation|CID BN 18-081]]),[^14] viz:
 
 > Identity theft occurs when individual/s wrongfully acquired, use, misuse, transfer, possession, alteration or deletion of identifying information without right. In *Jose Disini, Jr., et al., vs. Secretary of Justice*, the Supreme Court had this to say on the crime of Identity Theft:
 >

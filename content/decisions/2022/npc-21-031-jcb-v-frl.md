@@ -62,15 +62,15 @@ FRL failed to appear for the second time in the preliminary conference. Therefor
 
 On 03 November 2021, FRL filed her Comment.[^12] She argued that the Complaint should be dismissed for JCB's failure to exhaust administrative remedies.[^13]
 
-Particularly, FRL alleged that JCB failed to comply with Section 2, Rule II of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure). She cited JCB's statement in his Complaint-Assisted Form that he did not contact FRL because "she is not a person-in-interest and has no legal standing."[^14]
+Particularly, FRL alleged that JCB failed to comply with Section 2, Rule II of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure). She cited JCB's statement in his Complaint-Assisted Form that he did not contact FRL because "she is not a person-in-interest and has no legal standing."[^14]
 
 Further, FRL alleged that JCB's Complaint was not verified and did not contain a certification against forum shopping. As such, FRL argued that the Complaint should be dismissed for failure to comply with Section 3 (1) and (10), Rule II of NPC Circular No. 2021-01.[^15]
 
 Nonetheless, FRL argued that she did not violate the DPA because the processing of personal information was exempted from the coverage of the law.[^16]
 
-In applying Section 4 (a) of the DPA, FRL argued that she merely processed the information of JCB, who is an employee of DepEd, a government institution.[^17] She also claimed that the information processed were related to JCB's position or function as a government employee.[^18]
+In applying [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 (a) of the DPA]], FRL argued that she merely processed the information of JCB, who is an employee of DepEd, a government institution.[^17] She also claimed that the information processed were related to JCB's position or function as a government employee.[^18]
 
-Further, FRL stated that the processing of information was exempted under Section 13 (f) of the DPA.[^19] According to her, the affidavit was executed to support the administrative case filed by MSG, who intended "to exercise her legal right and responsibility to the Republic of the Philippines in helping it to get rid of unfit government officials and employees."[^20]
+Further, FRL stated that the processing of information was exempted under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]].[^19] According to her, the affidavit was executed to support the administrative case filed by MSG, who intended "to exercise her legal right and responsibility to the Republic of the Philippines in helping it to get rid of unfit government officials and employees."[^20]
 
 ### Issue
 
@@ -78,9 +78,9 @@ I. Whether the case should be dismissed on procedural grounds.
 
 II. Whether FRL had lawful basis in processing JCB's personal information.
 
-III. Whether FRL is liable under Section 31 (Malicious Disclosure) of the DPA.
+III. Whether FRL is liable under [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 (Malicious Disclosure) of the DPA]].
 
-IV. Whether FRL is liable under Section 32 (Unauthorized Disclosure) of the DPA.
+IV. Whether FRL is liable under [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].
 
 ### Discussion
 
@@ -169,7 +169,7 @@ Nevertheless, the Commission proceeds to explain the substantial aspect of the c
 
 FRL's affidavit narrates the incidents involving JCB and his colleagues and contained the names of JCB and his co-teachers.[^33]
 
-Personal information is defined under Section 3 (g) of the DPA:
+Personal information is defined under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (g) of the DPA]]:
 
 > Section 3. *Definition of Terms.* – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -183,7 +183,7 @@ The names stated in the affidavit can reasonably and directly ascertain the iden
 
 Apart from the claim that FRL violated Sections 32 and 36 of the DPA,[^35] JCB's Complaint-Affidavit did not contain a specific allegation on the unlawful processing of his personal information. Despite this, the Commission takes into consideration his narration of facts and proceeds to discuss the lawfulness of the processing of personal information.
 
-FRL's processing of personal information is based on a lawful criteria under Section 12 (f) of the DPA. Section 12 (f) of the DPA provides:
+FRL's processing of personal information is based on a lawful criteria under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]]. Section 12 (f) of the DPA provides:
 
 > Section 12. *Criteria for Lawful Processing of Personal Information.* – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -346,12 +346,12 @@ GENERAL RECORDS UNIT
 [^35]: Complaint Affidavit, 26 January 2021, ¶43, in JCB v. FRL, NPC 21-031 (NPC 2021).
 [^36]: Data Privacy Act of 2012, §12 (f).
 [^37]: CID Case No. 17-K003, 19 November 2019, (NPC 2019) (unreported).
-[^38]: BGM v. IPP, NPC 19-653, 17 December 2020, available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 17 March 2022).
+[^38]: BGM v. IPP, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]], 17 December 2020, available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 17 March 2022).
 [^39]: Data Privacy Act of 2012, §13 (f).
 [^40]: Comment, 03 November 2021, at 7, in JCB v. FRL, NPC 21-031 (NPC 2021).
 [^41]: Id. at 6.
 [^42]: Data Privacy Act of 2012, §31.
-[^43]: NPC 21-015, 03 February 2022, (NPC 2022) (unreported).
+[^43]: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-015]], 03 February 2022, (NPC 2022) (unreported).
 [^44]: Cruz v. Intermediate Appellate Court, G.R. No. 66327 (1984).
 [^45]: Complainant's Memorandum, 12 November 2021, at 15, in JCB v. FRL, NPC 21-031 (NPC 2021).
 [^46]: Id. at 16.
@@ -364,7 +364,7 @@ GENERAL RECORDS UNIT
 [^53]: Id.
 [^54]: Metropolitan Bank and Trust Co. v. Liberty Corrugated Boxes Manufacturing Corp., G.R. No.184317 (2017).
 [^55]: Fort Bonifacio Development Corp. v. Commissioner of Internal Revenue, G.R. Nos. 158885 & 170680 (Resolution) (2009).
-[^56]: See NPC 18-010, 17 December 2020 (NPC 2020) (unreported); NPC 19-134, 10 December 2021 (NPC 2021) (unreported); NPC 21-010, 03 February 2022 (NPC 2022) (unreported).
+[^56]: See NPC 18-010, 17 December 2020 (NPC 2020) (unreported); [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021 (NPC 2021) (unreported); NPC 21-010, 03 February 2022 (NPC 2022) (unreported).
 [^57]: People v. Liban, G.R. Nos. 136247 & 138330 (2000).
 [^58]: NPC 19-134, 10 December 2021 (NPC 2021) (unreported).
 [^59]: NPC 21-010, 03 February 2022 (NPC 2022) (unreported).

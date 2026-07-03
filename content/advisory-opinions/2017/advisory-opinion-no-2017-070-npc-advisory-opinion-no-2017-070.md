@@ -23,7 +23,7 @@ Re: PLDT’S PRIVACY POLICY
 
 Dear [Redacted],
 
-This pertains to your request for advisory opinion received by the National Privacy Commission (NPC) on 21 August 2017, which sought to clarify whether the privacy policy of PLDT complies with Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR)[^2] and relevant issuances.
+This pertains to your request for advisory opinion received by the National Privacy Commission (NPC) on 21 August 2017, which sought to clarify whether the privacy policy of PLDT complies with [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^2] and relevant issuances.
 
 In your letter-request, you have provided a portion of PLDT’s privacy policy, which also appears on their website:
 

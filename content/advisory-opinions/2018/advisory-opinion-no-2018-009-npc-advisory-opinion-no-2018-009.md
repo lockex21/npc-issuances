@@ -38,7 +38,7 @@ We understand that the above information will be forwarded to higher headquarter
 
 ### Discussion
 
-Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), states that the processing of personal information shall be allowed, subject to compliance with the requirements of the DPA and other laws allowing disclosure of information to the public and in adherence to the principles of transparency, legitimate purpose and proportionality.[^2]
+[[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), states that the processing of personal information shall be allowed, subject to compliance with the requirements of the DPA and other laws allowing disclosure of information to the public and in adherence to the principles of transparency, legitimate purpose and proportionality.[^2]
 
 Furthermore, Section 12(e) thereof provides for one criterion for lawful processing of personal information, to wit:
 
@@ -62,7 +62,7 @@ Hence, it may be prudent to ask for further clarification on the specific purpos
 
 Moreover, the disclosure of personal information to the 97th Military Intelligence Company should adhere to the principle of proportionality.[^7] An evaluation of the personal information required to be disclosed vis-a-vis its intended purpose should be done to ensure that it is adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.
 
-Finally, it should be noted that the data subjects such as the individual owners and/or station managers and anchors whose personal information will be disclosed should be informed of the same, including what personal information will be submitted, in relation to their right to be informed under the DPA and its IRR.[^8] The NTC may choose to include a statement on these types of disclosures or submissions through its Privacy Policy.
+Finally, it should be noted that the data subjects such as the individual owners and/or station managers and anchors whose personal information will be disclosed should be informed of the same, including what personal information will be submitted, in relation to their right to be informed under the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]].[^8] The NTC may choose to include a statement on these types of disclosures or submissions through its Privacy Policy.
 
 This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of the facts.
 

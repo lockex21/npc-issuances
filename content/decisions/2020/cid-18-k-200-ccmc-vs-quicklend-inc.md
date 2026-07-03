@@ -45,7 +45,7 @@ x----------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by Complainant CCMC against Respondent Quicklend, Inc. for an alleged violation of R.A. 10173 (“Data Privacy Act”).
+Before this Commission is a Complaint filed by Complainant CCMC against Respondent Quicklend, Inc. for an alleged violation of [[laws/data-privacy-act-of-2012|R.A. 10173]] (“Data Privacy Act”).
 
 ### Facts
 

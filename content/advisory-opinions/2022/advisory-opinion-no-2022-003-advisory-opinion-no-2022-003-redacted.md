@@ -29,7 +29,7 @@ We understand that the documents requested will be used by the requestor in conn
 
 ### Discussion
 
-#### Sensitive personal information; lawful processing; establishment, exercise or defense of legal claims under Section 13(f) of the Data Privacy Act of 2012
+#### Sensitive personal information; lawful processing; establishment, exercise or defense of legal claims under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the Data Privacy Act of 2012]]
 
 Republic Act No. 10713, otherwise known as the Data Privacy Act of 2012[^1] (DPA), provides a specific enumeration of personal data classified as sensitive personal information under the law, one of which involves a data subject's information pertaining to offenses and the incidence in relation thereto, to wit:
 
@@ -67,5 +67,5 @@ OIC – Director IV, Privacy Policy Office
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for other purposes [Data Privacy Act of 2012] Republic Act No. 10173, § 3 (l) (2) (2012).
 [^2]: *Id.*, § 3 (l) (2).
 [^3]: Data Privacy Act of 2012, § 13 (f).
-[^4]: See: National Privacy Commission, NPC Advisory Opinion No. 2021-044 (Dec. 29, 2021).
+[^4]: See: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-044-npc-advisory-opinion-no-2021-044|NPC Advisory Opinion No. 2021-044]] (Dec. 29, 2021).
 [^5]: *Id.*

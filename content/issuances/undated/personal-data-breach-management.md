@@ -26,8 +26,7 @@ the State values the dignity of every human person and guarantees full respect f
 rights;
 
 WHEREAS, Article II, Section 24, of the Constitution provides that the State recognizes
-the vital role of communication and information in nation-building, and Section 2 of Republic
-Act No. 10173, also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], provides that it is the policy of the
+the vital role of communication and information in nation-building, and Section 2 of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], provides that it is the policy of the
 State to protect the fundamental human right of privacy of communication while ensuring free
 flow of information to promote innovation and growth;
 
@@ -55,7 +54,7 @@ hereby issues this Circular governing personal data breach management.
 
 **RULE I.** ***General Provisions.***
 
-**SECTION 1.** ***Scope.*** These Rules apply to any natural and juridical person in the government or private sector processing personal data outside of the Philippines, subject to the relevant provisions of the Act and its Implementing Rules and Regulations.
+**SECTION 1.** ***Scope.*** These Rules apply to any natural and juridical person in the government or private sector processing personal data outside of the Philippines, subject to the relevant provisions of the Act and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]].
 
 **SECTION 2.** ***Purpose.*** These Rules provide the framework for personal data breach management and the procedure for personal data breach notification and other requirements.
 

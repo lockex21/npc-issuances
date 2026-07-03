@@ -134,7 +134,7 @@ In their Memorandum, Respondents claimed that they "informed JM and PM regarding
 
 Respondents alleged that "the CCTV System installed at the Chateau Elysée Condominium was provided by the Commander Security Services Inc. to the Condominium Corporation as part of the Contract Service Agreement and was publicly conveyed to all the members and unit owners based on this contract." Respondents alleged that RR was "assigned to [the] position [of] Security Officer who will conduct [the] review, [restoration], and make (sic) an investigation report pertaining to the CCTV System operation as part of his duties and responsibilities."
 
-Respondents, as part of their defense, argued that the release of the CCTV footage was justified since it was in accordance with Section 7 of NPC Advisory No. 2020-04 in relation to Section 13 of the DPA.
+Respondents, as part of their defense, argued that the release of the CCTV footage was justified since it was in accordance with Section 7 of [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|NPC Advisory No. 2020-04]] in relation to [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 Moreover, the Respondents argue that the "consent of the other party (like [EG]) is not necessary particularly when its release is contrary to the interest of the non-consenting [party] and necessary for the defense of the data subject, which is considered a legitimate interest."
 
@@ -152,7 +152,7 @@ Whether Respondents committed a violation of the DPA.
 
 The Commission dismisses the complaint for lack of merit.
 
-EG, as the complainant, has the obligation to prove by substantial evidence that either JI, RO, or RR committed a privacy violation under Section 32 of the DPA.
+EG, as the complainant, has the obligation to prove by substantial evidence that either JI, RO, or RR committed a privacy violation under [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 of the DPA]].
 
 As already established in past rulings, in administrative proceedings such as in this Commission, the burden is on the Complainant to prove by substantial evidence that the allegations in the complaint are true. In the case of *Billanes vs. Latido*, the Supreme Court defined substantial evidence as "that amount of evidence which a reasonable mind might accept as adequate to justify a conclusion."
 
@@ -166,7 +166,7 @@ Section 32 of the DPA provides:
 
 > **Section 32. Unauthorized Disclosure.** – (a) Any personal information controller or personal information processor or any of its officials, employees or agents, who discloses to a third party personal information not covered by the immediately preceding section without the consent of the data subject, shall be subject to imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00).
 
-As discussed by the Commission in NPC 21-010 to 21-015,
+As discussed by the Commission in [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010]] to 21-015,
 
 > Based on a literal reading of Section 32 of the DPA, a PIC or a PIP is liable if it discloses to a third party personal or sensitive personal information without the consent of the data subject. Following a literal reading, a PIC or PIP will have committed Unauthorized Disclosure if the disclosure is without the consent of the data subject even in the disclosure is justified by another lawful criterion for processing. It does not recognize that such disclosure may be based on other criteria for lawful processing enumerated in Sections 12 and 13 of the DPA. As such a literal reading of Section 32 of the DPA will result in absurdity.
 
@@ -204,7 +204,7 @@ Thus, the first element is present for RR since he is an agent acting on behalf 
 
 Personal information "refers to any information, whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information or, when put together with other information, would directly and certainly identify an individual."
 
-A CCTV "refers to closed-circuit television or camera surveillance system in a fixed or stationary location that can capture images of individuals or other information relating to individuals." In NPC Advisory Opinion No. 2019-023, "if a camera surveillance footage is of sufficient quality, a person with the necessary knowledge will be able to reasonably ascertain the identity of an individual from the footage."
+A CCTV "refers to closed-circuit television or camera surveillance system in a fixed or stationary location that can capture images of individuals or other information relating to individuals." In [[advisory-opinions/2019/advisory-opinion-no-2019-023-npc-advisory-opinion-no-2019-023|NPC Advisory Opinion No. 2019-023]], "if a camera surveillance footage is of sufficient quality, a person with the necessary knowledge will be able to reasonably ascertain the identity of an individual from the footage."
 
 Here, the CCTV footage contains personal information since it could identify parties such as EG through its system of recording videos or capturing images of the data subjects. Thus, the second element is present.
 
@@ -234,7 +234,7 @@ Meanwhile, under Section 7 of NPC Advisory No. 2020-04:
 >
 > xxx
 >
-> Where images of parties other than the requesting data subject and/or the person/s sought to be identified as part of the request (e.g. identification of malefactors for investigation or law enforcement purposes) appear on the CCTV footage, legitimate interest under Section 12(f) of the DPA may apply as basis for disclosing, subject to Section 9 of this Advisory. (Emphasis supplied)
+> Where images of parties other than the requesting data subject and/or the person/s sought to be identified as part of the request (e.g. identification of malefactors for investigation or law enforcement purposes) appear on the CCTV footage, legitimate interest under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]] may apply as basis for disclosing, subject to Section 9 of this Advisory. (Emphasis supplied)
 
 Here, the Spouses JM and PM cannot be reasonably considered third parties, given that they are also data subjects captured in the CCTV footage. As data subjects, Spouses KM and PM has a reasonable claim to access and obtain the CCTV footage used in the barangay dispute between EG and the Spouses JM and PM.
 
@@ -252,7 +252,7 @@ Further, the Supreme Court ruled in *Wong vs. Wong*:
 
 > The rule is well-settled that he who alleges a fact has the burden of proving it and a mere allegation is not evidence. Thus once more, his self-serving assertion cannot be given credence. This is especially so in light of the presumption of regularity, which herein ought to prevail due to the absence of any clear and convincing evidence to the contrary.
 
-In this case, EG did not prove that Respondents acted with malice or bad faith in disclosing his personal information. Indeed, EG accused the Respondents of violating Section 32 of the DPA, which is a privacy violation falling outside Malicious Disclosure under Section 31 of the DPA. Thus, the sixth element is also present.
+In this case, EG did not prove that Respondents acted with malice or bad faith in disclosing his personal information. Indeed, EG accused the Respondents of violating Section 32 of the DPA, which is a privacy violation falling outside Malicious Disclosure under [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 of the DPA]]. Thus, the sixth element is also present.
 
 #### VII. There Is a Lawful Basis on the Part of Respondent RR in Releasing the CCTV Footage to Spouses JM and PM
 
@@ -292,7 +292,7 @@ In the case of *KRL vs. Trinity University of Asia, et. al.*, the Commission rul
 
 In this case, although the CCTV footage is considered as personal information, Section 13(f) is applicable since the processing of the CCTV is pursued under a legitimate interest for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise, or defense of legal claims of Spouses JM and PM.
 
-Moreover, in NPC 21-031, the Commission ruled:
+Moreover, in [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], the Commission ruled:
 
 > The phrase 'for the protection of lawful rights and interests of natural or legal persons in court proceedings' cannot be interpreted to relate only to the person asserting the lawful basis of the processing of personal information. It also contemplates situations where those persons whose lawful rights and interests are protected in court proceedings may not be the same individuals who processed the personal information, such as in the case of witnesses. Similarly, the next clause 'establishment, exercise or defense of legal claims' may be interpreted to refer to the legal claims of persons other than those who processed the personal information.
 

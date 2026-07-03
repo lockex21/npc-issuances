@@ -52,7 +52,7 @@ The **TEMPORARY BAN ON PROCESSING OF PERSONAL DATA** shall remain in effect unti
 
 Let copies of this Order be furnished to the National Telecommunications Commission for their appropriate action, and Google LLC, which operates the Google Play Store for its compliance in accordance with the terms and conditions of its platform.
 
-Furthermore, Respondent Wefund Lending Corporation and its responsible officers are **ORDERED**, within ten (10) days from receipt of this Order, to file a **COMMENT** on the allegations in the attached Fact-Finding Report, pursuant to Section 6 of Rule X of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure).
+Furthermore, Respondent Wefund Lending Corporation and its responsible officers are **ORDERED**, within ten (10) days from receipt of this Order, to file a **COMMENT** on the allegations in the attached Fact-Finding Report, pursuant to Section 6 of Rule X of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure).
 
 In case of failure by the Respondent and its responsible officers to file a Comment, this case shall be deemed submitted for resolution based on the evidence on record.
 
@@ -60,7 +60,7 @@ The proceedings before the Commission based on the Fact-Finding Report of the CI
 
 **SO ORDERED.**[^1]
 
-On 02 September 2021, JuanHand filed a Comment to the Order and Temporary Ban dated 12 August 2021 (Comment).[^2] It also submitted a test version of the JuanHand online lending application (JuanHand version 4.1.1) for the Commission's perusal to ensure the version's compliance with the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Commission's orders and regulations.[^3]
+On 02 September 2021, JuanHand filed a Comment to the Order and Temporary Ban dated 12 August 2021 (Comment).[^2] It also submitted a test version of the JuanHand online lending application (JuanHand version 4.1.1) for the Commission's perusal to ensure the version's compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and the Commission's orders and regulations.[^3]
 
 On 10 September 2021, JuanHand, through counsel Vasig Abarquez Lumauig Abarquez Puno Law Offices, filed an Entry of Appearance with Motion to Admit [Supplemental Comment with Motion for Lifting of Temporary Ban][^4] and a Supplemental Comment with Motion for Lifting of Temporary Ban dated 10 September 2021 (Supplemental Comment).[^5]
 

@@ -35,7 +35,7 @@ The DPA applies to all types of processing of personal information subject to ce
 
 The Land Documents contain various personal and sensitive personal information of the individual owner or administrator such as name, address, and taxpayer identification number (TIN).
 
-Personal information, such as names and addresses, may be processed based on the various lawful criteria for processing under Section 12 of the DPA:
+Personal information, such as names and addresses, may be processed based on the various lawful criteria for processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]]:
 
 > SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -46,7 +46,7 @@ Personal information, such as names and addresses, may be processed based on the
 > (e) The processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate; or
 > (f) The processing is necessary for the purposes of the **legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed**, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
 
-On the other hand, a TIN is classified as a sensitive personal information[^3] as it is issued by government agencies peculiar to an individual. The law prohibits the processing of sensitive personal information and privileged information except in the following cases stated in Section 13 of the DPA, to wit:
+On the other hand, a TIN is classified as a sensitive personal information[^3] as it is issued by government agencies peculiar to an individual. The law prohibits the processing of sensitive personal information and privileged information except in the following cases stated in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], to wit:
 
 > Section 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive personal information and personal information shall be prohibited, except in the following cases:
 >
@@ -93,7 +93,7 @@ Director IV, Privacy Policy Office
 [^1]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^2]: Data Privacy Act of 2012, § 4.
 [^3]: Id. 3 (l): SECTION 3 . Definition of Terms . — Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth: x x x (l) Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
-[^4]: National Privacy Commission, NPC Advisory Opinion No. 2019-013 (April 1, 2019).
+[^4]: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-013-npc-advisory-opinion-no-2019-013|NPC Advisory Opinion No. 2019-013]] (April 1, 2019).
 [^5]: National Privacy Commission, EA and TA v. EJ, EE and HC, NPC Case No. 17-018, available at https://www.privacy.gov.ph/wp-content/uploads/2022/04/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf.
-[^6]: National Privacy Commission, BGM vs. IPP [NPC 19-653] (Dec. 17, 2020) (pages 6-8), available at https://privacy.gov.ph (last accessed 6 January 2023).
+[^6]: National Privacy Commission, BGM vs. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020) (pages 6-8), available at https://privacy.gov.ph (last accessed 6 January 2023).
 [^7]: National Privacy Commission, NPC Advisory Opinion No. 2021-36 (Sept. 23, 2021) citing National Privacy Commission, NPC 19-653 (Dec. 17, 2020).

@@ -46,11 +46,11 @@ Furthermore, as PICs processing employees’ personal data, both IBPM and TendoP
 
 Apart from adherence to the data privacy principles, PICs also have the duty to uphold data subjects’ rights under Sections 16 and 18 of the DPA. The exercise of data subjects’ rights will be different for IBPM and TendoPay, since their processing have different purposes.
 
-In addition, Section 20 of the DPA requires PICs to implement reasonable and appropriate physical, organizational and technical security measures for the protection of the personal data of employees. To determine if the security measures are appropriate with the processing of
+In addition, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 of the DPA]] requires PICs to implement reasonable and appropriate physical, organizational and technical security measures for the protection of the personal data of employees. To determine if the security measures are appropriate with the processing of
 
 personal data, factors such as the nature of the personal data to be protected, the risks represented by the processing, the size of the organization and complexity of its operations, current data privacy best practices and the cost of security information must be considered.[^5]
 
-Finally, we underscore that both the PICs have the obligation and duty to adhere to the DPA, its IRR, issuances by the NPC, and all other applicable laws. Notably, PICs remain accountable for personal information that is in its control including data outsourced to third parties.[^6]
+Finally, we underscore that both the PICs have the obligation and duty to adhere to the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], issuances by the NPC, and all other applicable laws. Notably, PICs remain accountable for personal information that is in its control including data outsourced to third parties.[^6]
 
 Please be advised that the foregoing was rendered based solely on the information provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Note that this communication is not intended to adjudicate the rights and obligations of the parties involved.
 

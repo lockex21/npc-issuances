@@ -27,7 +27,7 @@ WHEREAS, the National Privacy Commission (NPC) recognizes that such processing a
 may have a legitimate purpose and a lawful basis for processing under Sections 12 and 13 of  
 the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]);
 
-WHEREAS, [[laws/data-privacy-act-of-2012#Section 11|Section 11 of the DPA]] allows the processing of personal and sensitive personal  
+WHEREAS, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] allows the processing of personal and sensitive personal
 information (collectively, personal data) subject to compliance with the requirements of the  
 [[laws/data-privacy-act-of-2012|DPA]] and other laws allowing disclosure of information to the public, and adherence to the  
 general principles of privacy;
@@ -37,13 +37,13 @@ be adequate, relevant, suitable, necessary, and not excessive in relation to a d
 specified purpose, and that personal data shall be processed only if the purpose of the  
 processing could not be reasonably fulfilled by other means;
 
-WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the NPC is charged with the administration  
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the NPC is charged with the administration
 and implementation of the provisions of the law, which includes ensuring the compliance by  
 PICs with the provisions of the [[laws/data-privacy-act-of-2012|DPA]], and carrying out efforts to formulate and implement  
 plans and policies that strengthen the protection of personal data in the country, in  
 coordination with other government agencies and the private sector;
 
-WHEREAS, Section 9 of the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|DPA]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) provides  
+WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] of the [[laws/data-privacy-act-of-2012|DPA]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) provides
 that the Commission shall, among its other functions, develop, promulgate, review or amend  
 rules and regulations for the effective implementation of the law;
 

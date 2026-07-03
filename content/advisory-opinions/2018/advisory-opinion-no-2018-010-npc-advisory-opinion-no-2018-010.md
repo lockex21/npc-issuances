@@ -23,7 +23,7 @@ Re: PRECINCT FINDER AND COMELEC MINUTE RESOLUTION NO. 17-0715
 
 Dear [Redacted],
 
-This pertains to your letter received by the Privacy Policy Office of the National Privacy Commission (NPC) on 27 February 2018, requesting for an opinion on whether the alternative precinct finder of the COMELEC is compliant with Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA).
+This pertains to your letter received by the Privacy Policy Office of the National Privacy Commission (NPC) on 27 February 2018, requesting for an opinion on whether the alternative precinct finder of the COMELEC is compliant with [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA).
 
 We understand that the Precinct Finder search facility in the COMELEC website was
 made temporarily unavailable to the public after the 2016 National and Local Elections
@@ -107,6 +107,6 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 [^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, "Data Privacy Act of 2012" (15 August 2012).
-[^2]: Implementing Rules and Regulations (IRR) of RA No. 10173, §18(c).
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of RA No. 10173, §18(c).
 [^3]: In re: Investigation of the security incident involving COMELEC website and/or data processing system, NPC Case No. 16-001, 28 December 2016.
 [^4]: See: Information Commissioner's Office, The amount of personal data you may hold (Principle 3), https://ico.org.uk/for-organisations/guide-to-data-protection/principle-3-adequacy/ (last visited 28 February 2018).

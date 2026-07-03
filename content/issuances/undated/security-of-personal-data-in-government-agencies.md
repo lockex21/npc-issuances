@@ -34,13 +34,13 @@ recognizes the vital role of communication and information in nation-building. A
 time, Article II, Section 11 thereof emphasizes that the State values the dignity of every human
 person and guarantees full respect for human rights;
 
-WHEREAS, [[laws/data-privacy-act-of-2012#Section 2|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], provides that it is the policy of the State to protect the fundamental human right of
+WHEREAS, [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], provides that it is the policy of the State to protect the fundamental human right of
 privacy of communication while ensuring free flow of information to promote innovation and
 growth. The State also recognizes its inherent obligation to ensure that personal information in
 information and communications systems in the government and in the private sector are
 secured and protected;
 
-WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], the National Privacy
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the National Privacy
 Commission is charged with the administration and implementation of the provisions of the
 law, which includes ensuring the compliance by personal information controllers with the
 provisions of the Act and with international standards for data protection, and carrying out
@@ -48,17 +48,17 @@ efforts to formulate and implement plans and policies that strengthen the protec
 information in the country, in coordination with other government agencies and the private
 sector;
 
-WHEREAS, under [[laws/data-privacy-act-of-2012#Section 22|Section 22 of the DPA]], the head of each
+WHEREAS, under [[laws/data-privacy-act-of-2012#section-22-responsibility-of-heads-of-agencies|Section 22 of the DPA]], the head of each
 government agency or instrumentality is responsible for complying with the security
 requirements mentioned in the law. This includes ensuring all sensitive personal information
 maintained by his or her agency are secured, as far as practicable, with the use of the most
 appropriate standard recognized by the information and communications technology industry,
 and as recommended by the Commission;
 
-WHEREAS, under [[laws/data-privacy-act-of-2012#Section 23|Section 23 of the DPA]], the Commission may
+WHEREAS, under [[laws/data-privacy-act-of-2012#section-23-requirements-relating-to-access-by-agency-personnel-to-sensitive-personal-information|Section 23 of the DPA]], the Commission may
 issue guidelines relating to access by agency personnel to sensitive personal information;
 
-WHEREAS, Section 9 of the Implementing Rules and Regulations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] provides that, among the Commission’s functions, is to develop, promulgate,
+WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] provides that, among the Commission’s functions, is to develop, promulgate,
 review or amend rules and regulations for the effective implementation of the Act;
 
 hereby issues this Circular governing the security of personal data in government agencies.

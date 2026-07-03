@@ -46,7 +46,7 @@ You now inquire on whether the consent of all beneficiaries or data subjects are
 
 #### Scope of the DPA; special cases; data sharing; compliance with the DPA
 
-The DPA provides for a list of specified information that are not covered by the law. Section 5 of its Implementing Rules and Regulations (IRR)[^3] provides for the special cases wherein the law and the rules are not applicable. Specifically, Section 5 (d) may find application in this scenario:
+The DPA provides for a list of specified information that are not covered by the law. Section 5 of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^3] provides for the special cases wherein the law and the rules are not applicable. Specifically, Section 5 (d) may find application in this scenario:
 
 > Information necessary in order to carry out the functions of public authority, in accordance with a constitutionally or statutorily mandated function pertaining to law enforcement or regulatory function, including the performance of the functions of the independent, central monetary authority, subject to restrictions provided by law. Nothing in this Act shall be construed as having amended or repealed Republic Act No. 1405, otherwise known as the Secrecy of Bank Deposits Act; Republic Act No. 6426, otherwise known as the Foreign Currency Deposit Act; and Republic Act No. 9510, otherwise known as the Credit Information System Act (CISA);
 
@@ -60,7 +60,7 @@ the scope of the law is:
 
 #### Regulatory Functions of the Public Authority; Constitutional or Statutory Mandate
 
-Section 5(d) of the DPA is interpreted to the effect that a government agency having a constitutional or statutory mandate to collect and process personal data may do so even without the consent of the data subject in the exercise of its regulatory function. But this is with the concomitant responsibility of ensuring that organizational, physical and technical security measures are in place to protect the personal data it is processing.[^5]
+[[laws/data-privacy-act-of-2012#section-5-protection-afforded-to-journalists-and-their-sources|Section 5(d) of the DPA]] is interpreted to the effect that a government agency having a constitutional or statutory mandate to collect and process personal data may do so even without the consent of the data subject in the exercise of its regulatory function. But this is with the concomitant responsibility of ensuring that organizational, physical and technical security measures are in place to protect the personal data it is processing.[^5]
 
 In relation to the above, Republic Act No. 11201 or the Department of Human Settlements and Urban Development Act provides that the DHSUD shall be the sole and main planning and policy-making, regulatory, program coordination and performance monitoring entity for all housing, human settlement and urban development concerns, primarily focusing on the access to and the affordability of basic human needs.[^6]
 
@@ -121,10 +121,10 @@ Privacy Commissioner and Chairman
 [^1]: Tags: Consent; Department of Human Settlements and Urban Development (DHSUD); social housing; regulatory function; beneficiaries; statutory mandate.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission and other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4 (e) (2012).
 [^3]: Implementing Rules and Regulations of Republic Act No. 10173, known as the "Data Privacy Act of 2012" (24 August 2016).
-[^4]: *See:* National Privacy Commission, NPC Advisory Opinion No. 2018-079 (Oct. 23, 2018).
+[^4]: *See:* National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-079-v1-redacted-advisory-opinion-no-2018-079|NPC Advisory Opinion No. 2018-079]] (Oct. 23, 2018).
 [^5]: *Id.*
 [^6]: An Act Creating the Department of Human Settlements and Urban Development, Defining Its Mandate, Powers and Functions, and Appropriating Funds Therefor [Department of Human Settlements and Urban Development Act], Republic Act No. 11201, § 4 (2018).
 [^7]: *Ibid.*
 [^8]: Department of Human Settlements and Urban Development Act, § 12 and 22.
-[^9]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies, Circular No. 16-02 [NPC Circular 16-02], § 1 (October 10, 2016).
-[^10]: *See:* National Privacy Commission, NPC Advisory Opinion No. 2017-035 (July 27, 2017).
+[^9]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Circular No. 16-02]] [NPC Circular 16-02], § 1 (October 10, 2016).
+[^10]: *See:* National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-035-npc-advisoryopinionno-2017-035|NPC Advisory Opinion No. 2017-035]] (July 27, 2017).

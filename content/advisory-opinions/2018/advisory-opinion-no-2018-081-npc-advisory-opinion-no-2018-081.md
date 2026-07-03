@@ -73,7 +73,7 @@ own purposes, including the retention of records, the PIP may risk liability for
 
 #### Principle of Accountability
 
-The principle of accountability is articulated in Section 21 of the DPA, which provides:
+The principle of accountability is articulated in [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]], which provides:
 
    Section 21. Principle of Accountability. – Each personal information controller is
          responsible for personal information under its control or custody, including
@@ -85,7 +85,7 @@ The principle of accountability is articulated in Section 21 of the DPA, which p
          provide a comparable level of protection while the information are being processed
          by a third party. xxx
 
-Furthermore, Section 14 of the DPA provides that in case the PIC subcontracts the processing of
+Furthermore, [[laws/data-privacy-act-of-2012#section-14-subcontract-of-personal-information|Section 14 of the DPA]] provides that in case the PIC subcontracts the processing of
 personal information, the PIC is responsible for ensuring that proper safeguards are in place for
 data protection. This same section also provides that a personal information processor shall
 comply with all the requirements of the DPA and other applicable laws.

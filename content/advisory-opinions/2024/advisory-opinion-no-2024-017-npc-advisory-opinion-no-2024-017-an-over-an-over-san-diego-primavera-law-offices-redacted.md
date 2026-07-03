@@ -23,7 +23,7 @@ Re: PUBLICATION OF FORMER EMPLOYEES' PERSONAL DATA
 
 Dear [Redacted],
 
-We respond to your request for an Advisory Opinion on whether your client's intended action of publicizing its former employees' names, photographs, offenses or infractions committed, pending criminal cases, if applicable, and their severance from employment could be justified under Section 12(f) of the Data Privacy Act of 2012 (DPA).[^1]
+We respond to your request for an Advisory Opinion on whether your client's intended action of publicizing its former employees' names, photographs, offenses or infractions committed, pending criminal cases, if applicable, and their severance from employment could be justified under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the Data Privacy Act of 2012]] (DPA).[^1]
 
 You state that your client is a large construction company, and it has encountered various instances of unethical and unlawful conduct by its employees.[^2] Necessarily, such conduct has affected the company's integrity and reputation.
 
@@ -49,7 +49,7 @@ Further, processing is defined under the DPA as any operation or any set of oper
 
 Applying the foregoing to your present concern, the employees' names, photographs and the fact of their severance from the company is considered as personal information, while offenses, pending criminal cases, and employment severance details are considered sensitive personal information under the DPA.
 
-As regards the personal information intended to be published, we stated in Advisory Opinion No. 2019-024[^6] that:
+As regards the personal information intended to be published, we stated in [[advisory-opinions/2019/advisory-opinion-no-2019-024-npc-advisory-opinion-no-2019-024|Advisory Opinion No. 2019-024]][^6] that:
 
 > It has been the common practice for companies to publish notices in newspapers and other media that a certain person appearing in the photograph used to be their employee, but is now no longer connected with the company, and a warning that transactions with the said person on behalf of the company will no longer be honored. The above is still allowed under the DPA. The basis for processing may be Section 12(f) which provides for the processing that is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution. Legitimate interest refers to matters that are desired by or important to a PIC, which must not be contrary to law, morals or public policy. This includes business, financial or other reasonable purpose.
 
@@ -69,7 +69,7 @@ Indeed, your client's interest in preventing former employees from engaging in f
 
 However, there appears to be no applicable lawful criteria to publish sensitive personal information[^8] of these former employees, which include infractions committed and potential and/or pending cases. Disclosing their offenses and cases may be excessive to the primary purpose of the public notices, which is to forewarn the public against transacting with these individuals and to prevent the possibility of these employees misrepresenting their association with the company. To post case details before a final judgment has been rendered by the court may subject these former employees to public ridicule and prejudice. Furthermore, the publication may also be violative of an individual's right to due process, which is a basic right guaranteed and protected by the 1987 Philippine Constitution, alongside the right to privacy.
 
-With this, we suggest informing your client to reevaluate its proposed public notice mechanisms. The publication of severance of employment alone may be sufficient to inform the public, and to include additional information such as pending criminal action/s could be considered intrusive and violative of Section 13 of the DPA.
+With this, we suggest informing your client to reevaluate its proposed public notice mechanisms. The publication of severance of employment alone may be sufficient to inform the public, and to include additional information such as pending criminal action/s could be considered intrusive and violative of [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 #### General Data Protection Principles; Proportionality
 

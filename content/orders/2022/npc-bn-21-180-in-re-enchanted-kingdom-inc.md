@@ -161,8 +161,8 @@ GENERAL RECORDS UNIT
 [^7]: See Security Incident, accessed at https://www.asiapay.com/2021.html, as provided in the Initial Report.
 [^8]: Id.
 [^9]: Id.
-[^10]: Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012, Section 3(h).
-[^11]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Section 3(m).
+[^10]: [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012, Section 3(h).
+[^11]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, Section 3(m).
 [^12]: Initial Report dated 31 August 2021 of Enchanted Kingdom, Inc.
 [^13]: Section 11 of the NPC Circular No. 16-03.
 [^14]: Initial Report dated 31 August 2021 of Enchanted Kingdom, Inc.

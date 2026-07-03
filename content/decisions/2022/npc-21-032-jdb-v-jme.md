@@ -60,7 +60,7 @@ JME once again failed to appear in the Preliminary Conference dated 28 October 2
 
 On 08 November 2021, JME filed a Comment.[^13] He denied JCB's allegation that the Affidavit dated 24 August 2020 was malicious.[^14] He argued that the Affidavit was executed under oath and was based on his personal knowledge.[^15]
 
-JME also denied JCB's allegation that he committed a data privacy breach when he disclosed the incident between them.[^16] He argued that following JCB's reasoning would result in an "absurd situation wherein witnesses will be afraid to testify even when it is in defense of the rights of other people – in fear and under threat that the witness will be sued for [a] data privacy breach, which is not the essence of [the DPA]."[^17] Further, he argued that if there was indeed sensitive personal information that was processed, the processing is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings in accordance with Section 13 (f) of the DPA.[^18]
+JME also denied JCB's allegation that he committed a data privacy breach when he disclosed the incident between them.[^16] He argued that following JCB's reasoning would result in an "absurd situation wherein witnesses will be afraid to testify even when it is in defense of the rights of other people – in fear and under threat that the witness will be sued for [a] data privacy breach, which is not the essence of [the DPA]."[^17] Further, he argued that if there was indeed sensitive personal information that was processed, the processing is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings in accordance with [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]].[^18]
 
 As affirmative defenses, JME argued that JCB's complaint should be dismissed on the following grounds:
 
@@ -86,15 +86,15 @@ I. Whether the case should be dismissed on procedural grounds.
 
 II. Whether JME had lawful basis in processing JCB's personal information.
 
-III. Whether JME is liable under Section 31 (Malicious Disclosure) of the DPA.
+III. Whether JME is liable under [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 (Malicious Disclosure) of the DPA]].
 
-IV. Whether JME is liable under Section 32 (Unauthorized Disclosure) of the DPA.
+IV. Whether JME is liable under [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].
 
 ### Discussion
 
 #### I. The case should be dismissed outright on procedural grounds.
 
-JME argued that the case should be dismissed because JCB failed to exhaust administrative remedies as required under Section 2, Rule II of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure).[^29]
+JME argued that the case should be dismissed because JCB failed to exhaust administrative remedies as required under Section 2, Rule II of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure).[^29]
 
 He also argued that JCB did not observe Section 3, Rule II of the 2021 NPC Rules of Procedure because the complaint was not verified and did not contain a certification against forum shopping.[^30] He argued that "a pleading that lacks proper verification is treated as unsigned pleading, which produces no legal effect" and that the complaint is "clearly defective on its face and thus, should be dismissed."[^31]
 
@@ -186,7 +186,7 @@ The Commission, however, shall discuss the substantial aspect of the case for th
 
 The Affidavit and the Incident Report executed by JME contained personal information, specifically the names of JCB and JME.[^44]
 
-Section 3 (g) of the DPA defines personal information:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (g) of the DPA]] defines personal information:
 
 > Section 3. Definition of Terms. – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -202,7 +202,7 @@ JCB's complaint failed to provide specific allegations of unlawful processing of
 
 Nevertheless, the Commission proceeds to discuss the lawfulness of the processing of personal information.
 
-JME's processing of personal information is based on a lawful criteria under Section 12 (f) of the DPA. Section 12 (f) of the DPA provides:
+JME's processing of personal information is based on a lawful criteria under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]]. Section 12 (f) of the DPA provides:
 
 > Section 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -370,16 +370,16 @@ GENERAL RECORDS UNIT
 [^46]: *See* Complaint-Affidavit, 26 January 2021, ¶ 13, in JCB v. JME, NPC 21-032 (NPC 2021); Complainant's Memorandum, 06 January 2022, at 2-3, 10-12, in JCB v. JME, NPC 21-032 (NPC 2022).
 [^47]: Data Privacy Act of 2012, § 12 (f).
 [^48]: CID Case No. 17-K003, 19 November 2019, (NPC 2019) (unreported).
-[^49]: *BGM v. IPP*, NPC 19-653, 17 December 2020, available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 06 June 2022).
+[^49]: *BGM v. IPP*, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]], 17 December 2020, available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 06 June 2022).
 [^50]: Data Privacy Act of 2012, § 13 (f).
-[^51]: NPC 21-031, 03 March 2022, at 11, (NPC 2022) (unreported).
+[^51]: [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], 03 March 2022, at 11, (NPC 2022) (unreported).
 [^52]: Comment, 08 November 2021, at 10, in JCB v. JME, NPC 21-032 (NPC 2021).
 [^53]: Data Privacy Act of 2012, § 31.
-[^54]: NPC 21-015, 03 February 2022, (NPC 2022) (unreported).
+[^54]: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-015]], 03 February 2022, (NPC 2022) (unreported).
 [^55]: Complainant's Memorandum, 06 January 2022, at 3, in JCB v. JME, NPC 21-032 (NPC 2022).
 [^56]: *Id.* at 3-5.
 [^57]: Data Privacy Act of 2012, § 32.
-[^58]: NPC 19-134, 10 December 2021 (NPC 2021) (unreported).
+[^58]: [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021 (NPC 2021) (unreported).
 [^59]: *Metropolitan Bank and Trust Co. v. Liberty Corrugated Boxes Manufacturing Corp.*, G.R. No. 184317 (2017).
 [^60]: *Fort Bonifacio Development Corp. v. Commissioner of Internal Revenue*, G.R. Nos. 158885 & 170680 (Resolution) (2009).
 [^61]: *See e.g.*, NPC 18-010, 17 December 2020 (NPC 2020) (unreported); NPC 19-134, 10 December 2021 (NPC 2021) (unreported); NPC 21-010, 03 February 2022 (NPC 2022) (unreported).

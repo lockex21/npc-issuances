@@ -45,7 +45,7 @@ former employees to the PNP without violating the DPA.
 
 **Scope of the DPA; special cases; fulfillment of mandates**
 
-Section 4 of the DPA provides that the DPA applies to the processing of all types of personal
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] provides that the DPA applies to the processing of all types of personal
 information and to any natural and juridical person involved in personal information processing.
 Processing refers to any operation or any set of operations performed upon personal information, including, but not limited to, the collection, recording, organization, storage, updating or
 modification, retrieval, consultation, use, consolidation, blocking, erasure, or destruction of data.
@@ -53,8 +53,7 @@ modification, retrieval, consultation, use, consolidation, blocking, erasure, or
 Further, Section 4 (e) of the DPA provides that the processing of information necessary to carry
 out the functions of public authority, in accordance with a constitutionally or statutorily mandated
 function pertaining to law enforcement, subject to restrictions provided by law, is one of the
-special cases where the application of the provisions of the DPA and its Implementing Rules and
-Regulations (IRR) is qualified or limited.
+special cases where the application of the provisions of the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) is qualified or limited.
 
 This means that when the personal information is needed to be processed by a public authority,
 such as the PNP, pursuant to its statutory mandate, the processing of such personal data is may

@@ -48,15 +48,15 @@ Accordingly, the PCCP resolved to obtain consent as legal basis when collecting 
 
 #### Outsourcing the processing of personal data
 
-Section 14 of the DPA provides that a personal information controller (PIC),[^4] PCCP in this case, may subcontract the processing of personal data which includes outsourcing the development and maintenance of the Web-CAS.
+[[laws/data-privacy-act-of-2012#section-14-subcontract-of-personal-information|Section 14 of the DPA]] provides that a personal information controller (PIC),[^4] PCCP in this case, may subcontract the processing of personal data which includes outsourcing the development and maintenance of the Web-CAS.
 
-The outsourcing arrangement shall be governed by a contract or other legal document that binds the PCCP and the third party as a personal information processor[^5] (PIP). Section 44 of the Implementing Rules and Regulations (IRR) of the DPA sets forth the requirements to be considered in such outsourcing agreements.
+The outsourcing arrangement shall be governed by a contract or other legal document that binds the PCCP and the third party as a personal information processor[^5] (PIP). [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|Section 44 of the Implementing Rules and Regulations]] (IRR) of the DPA sets forth the requirements to be considered in such outsourcing agreements.
 
 Furthermore, both PIC and PIP shall ensure that reasonable and appropriate security measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing,[^6] including having mechanisms in place for the exercise of data subjects' rights, are implemented.
 
 #### Consent as basis for processing health information for accreditation purposes; general data privacy principles; advisory opinions as guidance
 
-As stated in Advisory Opinion No. 2018-056, personal data of the patient may be lawfully processed by the PCCP and its PIP if the patients or their legally authorized representative has given consent specific to the purpose of accreditation and training.
+As stated in [[advisory-opinions/2018/advisory-opinion-no-2018-056-npc-advisory-opinion-no-2018-056|Advisory Opinion No. 2018-056]], personal data of the patient may be lawfully processed by the PCCP and its PIP if the patients or their legally authorized representative has given consent specific to the purpose of accreditation and training.
 
 Correspondingly, the PCCP is required to adhere to the principles of transparency, legitimate purpose and proportionality. The patients must be made aware of the nature, purpose, and extent of the processing of personal data, as well as the risks and safeguards involved, and how they may be able to exercise their rights as data subjects.
 

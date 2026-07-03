@@ -58,7 +58,7 @@ But considering that the personal data being requested is information of public 
 2. Office Address of Employees; and
 3. Position/Designation in the Agency.
 
-The other requested information – sex, age, and civil status – do not form part of information of public concern. These are likewise sensitive personal information the processing of which is prohibited except in certain instances provided under Section 13 of the DPA.
+The other requested information – sex, age, and civil status – do not form part of information of public concern. These are likewise sensitive personal information the processing of which is prohibited except in certain instances provided under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 For your reference.
 
@@ -70,6 +70,6 @@ Privacy Commissioner and Chairman
 [^1]: Republic Act. No. 10173, AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, §4 and 6
 [^2]: Id., §4(a)
 [^3]: Id., §4(e)
-[^4]: See Implementing Rules and Regulations (IRR) of RA No. 10173, §5
+[^4]: See [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of RA No. 10173, §5
 [^5]: Directorate for Investigation and Detective Management Philippine National Police, PHILIPPINE NATIONAL POLICE MANUAL - CRIMINAL INVESTIGATION MANUAL (REVISED) 2011, available at http://www.pnp.gov.ph/images/Manuals_and_Guides/DIDM/Criminal-Investigation-Manual.pdf
 [^6]: Id., Chapter 1, §1.2

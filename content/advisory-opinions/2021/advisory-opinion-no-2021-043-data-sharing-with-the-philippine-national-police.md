@@ -32,7 +32,7 @@ Further, we understand the PNP Legal Service reiterated the request for the prod
 
 a. The PNP and the DILG, where the CHO belongs, are part of the nucleus of the inter-agency membership in the Dangerous Drugs Board and the drug rehabilitation program is one of the thrusts of the government’s anti-illegal drugs campaign. Being in the same inter-agency cooperation cluster, the PNP is not a third party. The legitimacy of the use of such data is inherent in the PNP’s function to collaborate with other government agencies to perform its duty. The collaboration and sharing of these data are essential in the government’s anti-illegal drugs campaign without further need for the PNP to justify the legitimacy of its purpose;
 
-b. Section 4 (e) of the DPA excludes from its coverage information necessary in order to carry out functions of public authority. These cases must be likewise distinguished from those which are purely private matters and does not involve public interest; and
+b. [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 (e) of the DPA]] excludes from its coverage information necessary in order to carry out functions of public authority. These cases must be likewise distinguished from those which are purely private matters and does not involve public interest; and
 
 c. The information from the CHO is essential for the accurate inventory of these cases as compared to those already available at hand and information gathered will be exclusively used for a legitimate purpose only and nothing else.
 
@@ -61,13 +61,13 @@ We wish to clarify that the execution of a DSA under the latest NPC issuance is 
 
 > SECTION 8. Data sharing agreement; key considerations. — Data sharing may be covered by a data sharing agreement (DSA) or a similar document containing the terms and conditions of the sharing arrangement, including obligations to protect the personal data shared, the responsibilities of the parties, mechanisms through which data subjects may exercise their rights, among others.
 >
-> The execution of a DSA is a sound recourse and demonstrates accountable personal data processing, as well as good faith in complying with the requirements of the DPA, its IRR, and issuances of the NPC. The Commission shall take this into account in case a complaint is filed pertaining to such data sharing and/or in the course of any investigation relating thereto, as well as in the conduct of compliance checks.
+> The execution of a DSA is a sound recourse and demonstrates accountable personal data processing, as well as good faith in complying with the requirements of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances of the NPC. The Commission shall take this into account in case a complaint is filed pertaining to such data sharing and/or in the course of any investigation relating thereto, as well as in the conduct of compliance checks.
 
 While the execution of a DSA is not mandatory, it is still advisable to execute one as it is a best practice and a demonstration of accountability amongst the parties to the data sharing. It is best to consult the respective data protection officers (DPOs) of the local government unit (LGU) and the PNP for a better understanding of the data sharing arrangement and whether the agencies should pursue the execution of a DSA.
 
 We also wish to emphasize that the Circular clarified that data sharing may be based on any of the criteria for lawful processing of personal data in Sections 12 and 13 of the DPA[^5] and may also be allowed pursuant to Section 4 of the law which specifies the special cases.[^6] The Circular further provides that it does not prohibit or limit the sharing, disclosure, or transfer of personal data that is already authorized or required by law.[^7]
 
-In relation to the above, as sensitive personal information is required by the PNP based on the sample forms provided, the processing, which includes sharing, of the same may fall under any of the instances provided for in Section 13 of the DPA, one of which is when processing is provided for by existing laws and regulations.[^8]
+In relation to the above, as sensitive personal information is required by the PNP based on the sample forms provided, the processing, which includes sharing, of the same may fall under any of the instances provided for in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], one of which is when processing is provided for by existing laws and regulations.[^8]
 
 #### Adherence to general data privacy principles; legitimate purpose; proportionality; purpose limitation; statistics
 
@@ -77,7 +77,7 @@ Specifically for legitimate purpose, this principle requires that the processing
 
 In addition, the principle of proportionality requires that the processing shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose and that personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.[^10]
 
-Hence, it is incumbent upon the PNP to declare the specific purpose/s for requesting the data in accordance with Section 11 (a) of the DPA as appropriately cited by the CHO in its letter to the PNP.
+Hence, it is incumbent upon the PNP to declare the specific purpose/s for requesting the data in accordance with [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 (a) of the DPA]] as appropriately cited by the CHO in its letter to the PNP.
 
 It bears stressing that the blanket statement of the PNP that “The legitimacy of the use of such data is inherent in the PNP’s function to collaborate with other government agencies to perform its duty. The collaboration and sharing of these data are essential in the government’s anti-illegal drugs campaign without further need for the PNP to justify the legitimacy of its purpose;” does not conform with the requirements of purpose limitation under the DPA.
 
@@ -87,7 +87,7 @@ We also note the statement from the PNP that “The information from the CHO is 
 
 If the purpose is for ensuring accuracy of the inventory of cases, then the first form (see Figure 1) requiring statistics should already suffice. Collecting individual level data which includes sensitive personal information for this purpose may be deemed to be excessive and no longer relevant, suitable, or necessary as the statistics or aggregated data should be enough to meet the PNP’s requirements.
 
-We reiterate our pronouncement in Advisory Opinion No. 2018-077 on the processing of personal data of vulnerable data subjects:
+We reiterate our pronouncement in [[advisory-opinions/2018/advisory-opinion-no-2018-077-npc-advisory-opinion-no-2018-077|Advisory Opinion No. 2018-077]] on the processing of personal data of vulnerable data subjects:
 
 > We underscore that the interpretation of any provision of the DPA must be in a manner mindful of the rights and interests of the data subject. Processing operations performed about vulnerable data subjects like minors, the mentally ill, asylum seekers, the elderly, patients, those involving criminal offenses, or in any other case where an imbalance exists in the relationship between a data subject and a personal information controller or personal information processor, require special protection.[^11]
 

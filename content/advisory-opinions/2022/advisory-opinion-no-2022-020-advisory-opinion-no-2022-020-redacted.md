@@ -36,7 +36,7 @@ You thus seek advice on your possible remedies to obtain the requested documents
 
 A Death Certificate is an official document setting forth particulars relating to a deceased individual. It contains data such as (a) date and place of death, (b) full name, (c) age, (d) sex, (e) occupation or profession, (f) residence, (g) civil status, (h) nationality of the deceased, and (i) probable cause of death. Some of these items are sensitive personal information under the DPA.
 
-The processing of sensitive personal information is generally prohibited under the DPA. However, the DPA provides for exceptions to this rule. Section 13 (f) of the DPA specifically recognizes processing for the establishment, exercise, or defense of legal claims, thus:
+The processing of sensitive personal information is generally prohibited under the DPA. However, the DPA provides for exceptions to this rule. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] specifically recognizes processing for the establishment, exercise, or defense of legal claims, thus:
 
 > SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases: x x x
 >
@@ -85,7 +85,7 @@ Very truly yours,
 (Sgd.) FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
-[^2]: National Privacy Commission, NPC 19-653 (17 December 2020)
+[^2]: National Privacy Commission, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (17 December 2020)
 
 [^3]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 8 September 2022].
 

@@ -38,9 +38,9 @@ Before us is a Motion for Reconsideration dated 28 February 2022 (Motion) by Res
 
 **WHEREFORE**, all the above premises considered, this Commission hereby:
 
-1. **FINDS** Respondent FCash Global Lending Inc. and its Board of Directors to have violated Section 25, 28, and Section 31 of the Data Privacy Act of 2012; and
+1. **FINDS** Respondent FCash Global Lending Inc. and its Board of Directors to have violated Section 25, 28, and [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 of the Data Privacy Act of 2012]]; and
 
-2. **FORWARDS** this Decision and a copy of the pertinent case records to the Secretary of Justice, recommending the prosecution of the Respondents for the crimes of Unauthorized Processing of Personal Information and Sensitive Personal Information under Section 25 of the DPA, Processing of Personal Information and Sensitive Personal Information for Unauthorized Purposes under Section 28 of the DPA, and Malicious Disclosure under Section 31 of the DPA. The maximum penalty for violations of the abovementioned provisions is recommended to be imposed following Section 35 of the DPA.[^1]
+2. **FORWARDS** this Decision and a copy of the pertinent case records to the Secretary of Justice, recommending the prosecution of the Respondents for the crimes of Unauthorized Processing of Personal Information and Sensitive Personal Information under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]], Processing of Personal Information and Sensitive Personal Information for Unauthorized Purposes under [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 of the DPA]], and Malicious Disclosure under Section 31 of the DPA. The maximum penalty for violations of the abovementioned provisions is recommended to be imposed following [[laws/data-privacy-act-of-2012#section-35-large-scale|Section 35 of the DPA]].[^1]
 
 Respondents' Motion reiterated the grounds they relied upon in their Motion to Dismiss, to wit:
 
@@ -152,7 +152,7 @@ As to the contention that the Decision is totally in conflict with the other dec
 
 > Being a by-product of mutual concessions and good faith of the parties, an amicable settlement has the force and effect of *res judicata* even if not judicially approved. It transcends being a mere contract binding only upon the parties thereto, and is akin to a judgment that is subject to execution in accordance with the Rules.[^23]
 
-Further, "[w]hile the Rules on Mediation embodied in NPC Circular No. 18-03 did not provide a distinction between cases which can and cannot undergo mediation, NPC Circular No. 16-04 categorically states that 'no settlement is allowed for criminal acts.'"[^24]
+Further, "[w]hile the Rules on Mediation embodied in [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|NPC Circular No. 18-03]] did not provide a distinction between cases which can and cannot undergo mediation, [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] categorically states that 'no settlement is allowed for criminal acts.'"[^24]
 
 The Commission also wishes to emphasize that the purpose of the mediation settlement is to help parties arrive at an acceptable compromise. Considering that the cause of action in a complaint borne out of a *sua sponte* investigation is the State's duty to protect the right to privacy and not to prosecute to claim reparation on behalf of private individuals, no compromise can be had between the State and the Respondent.
 

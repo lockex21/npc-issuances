@@ -25,7 +25,7 @@ Re: DATA SHARING AND DATA SHARING AGREEMENTS
 
 Dear [Redacted],
 
-This pertains to your inquiry received by the National Privacy Commission (NPC) on 3 November 2016, via email, relative to certain provisions of the Data Privacy Act of 2012 (DPA) and its Implementing Rules and Regulations (IRR) vis-à-vis data sharing agreements between private entities. Please find below your queries, with their corresponding answers:
+This pertains to your inquiry received by the National Privacy Commission (NPC) on 3 November 2016, via email, relative to certain provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and its Implementing Rules and Regulations (IRR) vis-à-vis data sharing agreements between private entities. Please find below your queries, with their corresponding answers:
 
 ### Discussion
 
@@ -45,13 +45,13 @@ Thus, even if both PICs engaged in a data sharing arrangement have registered th
 
 The NPC is actively working towards developing new policies aimed at ensuring the effective implementation of the DPA and its IRR. They include a separate circular providing further guidance on data sharing arrangements between private parties. In the interim, such arrangements shall be governed by the provisions of the IRR.[^3]
 
-For reference purposes, there is also NPC Circular No. 16-02, dated 10 October 2016, which concerns data sharing that involving government agencies. That Circular also covers personal data under the control or custody of a private entity that is being shared with or transferred to a government agency.[^4]
+For reference purposes, there is also [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], dated 10 October 2016, which concerns data sharing that involving government agencies. That Circular also covers personal data under the control or custody of a private entity that is being shared with or transferred to a government agency.[^4]
 
 #### 4. Are private entities engaged in data sharing now required to enter into data sharing agreements? Or should private entities wait for an MC on data sharing for private entities?
 
 Private entities currently engaged in data sharing are required to enter into data sharing agreements in accordance with the provisions of the IRR, particularly Section 20 thereof, even sans an NPC Circular on the matter. Any relevant subsequent issuance by the NPC shall only serve to complement the requirements already established in the IRR.
 
-The one-year period given in the second paragraph of Section 67 of the IRR, including the possible extension thereof, pertain to the requirement for registration of data processing systems, and of automated processing operations. Thus, PICs and PIPs are already mandated to comply with the other requirements of the DPA and its IRR as soon as both policies became effective.
+The one-year period given in the second paragraph of [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-67-period-for-compliance|Section 67 of the IRR]], including the possible extension thereof, pertain to the requirement for registration of data processing systems, and of automated processing operations. Thus, PICs and PIPs are already mandated to comply with the other requirements of the DPA and its IRR as soon as both policies became effective.
 
 For your reference.
 

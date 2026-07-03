@@ -22,7 +22,7 @@ Re: DATA PROCESSING SYSTEM REGISTRATION
 
 Dear [Redacted],
 
-This is with regard to your query received by the National Privacy Commission (NPC) on 18 April 2017 on the coverage of data processing system registration provided in the Implementing Rules and Regulation (IRR) of the Data Privacy Act of 2012 (DPA).
+This is with regard to your query received by the National Privacy Commission (NPC) on 18 April 2017 on the coverage of data processing system registration provided in the Implementing Rules and Regulation ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Discussion
 

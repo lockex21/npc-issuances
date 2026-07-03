@@ -59,7 +59,7 @@ The Complaints and Investigation Division (CID) of the National Privacy Commissi
 
 ### Facts
 
-On 10 June 2021, the CID submitted its FFR against Pesopop following numerous reports of continuing privacy violations committed by several online lending applications (OLAs).[^2] The CID initiated a *sua sponte* investigation against Pesopop pursuant to Section 7(b) of the DPA that mandates the NPC to institute investigations in cases it deems appropriate, and NPC Circular 21-01 (2021 Rules of Procedure) that permits the NPC to initiate *sua sponte* investigations and file complaints for DPA violations.[^3] The FFR serves as the complaint, with the CID as the Nominal Complainant, in *sua sponte* investigations.[^4]
+On 10 June 2021, the CID submitted its FFR against Pesopop following numerous reports of continuing privacy violations committed by several online lending applications (OLAs).[^2] The CID initiated a *sua sponte* investigation against Pesopop pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b) of the DPA]] that mandates the NPC to institute investigations in cases it deems appropriate, and NPC Circular 21-01 (2021 Rules of Procedure) that permits the NPC to initiate *sua sponte* investigations and file complaints for DPA violations.[^3] The FFR serves as the complaint, with the CID as the Nominal Complainant, in *sua sponte* investigations.[^4]
 
 On 14 May 2021, the CID downloaded Pesopop (version 1.5.1) from the Google Play Store on an Android device and simulated the registration process.[^5]
 
@@ -139,7 +139,7 @@ The CID further asserted that Pesopop's requirement that users grant Pesopop per
 
 Second, the CID asserted that Pesopop's requirement to grant it the "permission to access several phone capabilities, such as contacts, photos, media and files, in order to successfully install, register, and avail of its loan facilities, and failing to provide a separate interface for a user to provide character references or co-makers of his own choosing" is in violation of Section 3(D)(4) of the Loan-Related Transactions Circular.[^44] According to the CID, it is explicit in the Loan-Related Transactions Circular that processing of phone contacts list for use in debt collection is strictly prohibited.[^45] Further, it argued that "in all instances, online lending apps must have a separate interface where borrowers can provide character references and/or co-makers to their loan application, of their own choosing."[^46]
 
-The CID reiterated that "Pesopop's processing of personal data does not adhere to the [general] privacy principles of transparency, legitimate purpose, and proportionality."[^47] The CID reiterated that the access, use, and storage of the phone contact list finds no legitimate basis under the DPA.[^48] Thus, there is unauthorized processing under Section 25 of the DPA.[^49]
+The CID reiterated that "Pesopop's processing of personal data does not adhere to the [general] privacy principles of transparency, legitimate purpose, and proportionality."[^47] The CID reiterated that the access, use, and storage of the phone contact list finds no legitimate basis under the DPA.[^48] Thus, there is unauthorized processing under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].[^49]
 
 The CID further argued that since Pesopop is a corporation, "it is its board of directors who decides and should have the duty of diligence."[^50] Thus, according to CID, "liability should fall upon the Board of Directors, as responsible officers, who by their gross negligence, allowed the commission of violation of the DPA."[^51]
 
@@ -157,7 +157,7 @@ On 23 June 2021, the Commission attempted to personally serve the Order to Pesop
 
 On 24 June 2021, the Commission served the Order by email to Pesopop's email address available on its official website.[^57] Thus, Pesopop had until 04 July 2021 to file its position paper.[^58] As of 12 August 2021, the Commission did not receive any position paper from Pesopop.[^59]
 
-On 05 July 2021, the CID submitted a Supplemental Fact-Finding Report with Application for Issuance of Temporary Ban on the Processing of Personal Data, impleading specific responsible officers of Pesopop, namely RCJ, FLB, JIS, MM, and WL (collectively, individual respondents), in their official capacities as responsible officers of Pesopop in line with Section 34 of the DPA.[^60]
+On 05 July 2021, the CID submitted a Supplemental Fact-Finding Report with Application for Issuance of Temporary Ban on the Processing of Personal Data, impleading specific responsible officers of Pesopop, namely RCJ, FLB, JIS, MM, and WL (collectively, individual respondents), in their official capacities as responsible officers of Pesopop in line with [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the DPA]].[^60]
 
 On 12 August 2021, the Commission issued an Order granting the application for the issuance of a temporary ban against Pesopop given that all the requisites for granting a temporary ban were satisfied:
 
@@ -173,7 +173,7 @@ On 12 August 2021, the Commission issued an Order granting the application for t
 >
 > . . .
 >
-> Furthermore, Respondent Populus Lending Corporation and its responsible officers are ORDERED, within ten (10) days from receipt of this Order, to file a COMMENT on the allegations in the attached Fact-Finding Report, pursuant to Section 6 of Rule X of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure).[^61]
+> Furthermore, Respondent Populus Lending Corporation and its responsible officers are ORDERED, within ten (10) days from receipt of this Order, to file a COMMENT on the allegations in the attached Fact-Finding Report, pursuant to Section 6 of Rule X of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure).[^61]
 
 On 03 September 2021, Pesopop, through its counsel Zosa & Quijano Law Offices, submitted its Notice of Entry of Appearance with Motion for Reconsideration.[^62] The individual respondents also manifested that they are adopting the Motion as their comment in compliance with the Order to comment dated 12 August 2021.[^63]
 
@@ -343,7 +343,7 @@ Pesopop prayed that the Commission nullify and set aside the temporary ban.[^139
 
 On 11 March 2022, the CID filed its Memorandum.[^140] It reiterated the arguments found in its FFR.[^141] The CID stated that the Revised Privacy Policy submitted by Pesopop still does not conform with the principles of transparency, legitimate purpose, and proportionality.[^142]
 
-In addition, the CID argued that if found liable, the penalty shall be imposed upon the responsible officers, who by their gross negligence, allowed the commission of the violations.[^143] The CID stressed that Pesopop continued to make the app available during the pendency of the temporary ban on the processing of personal information imposed upon Pesopop.[^144] Further, the CID stated that based on their submissions and the EnD's findings, Pesopop has not rectified its operations to comply with the DPA, its Implementing Rules and Regulations (IRR), the Loan-Related Transactions Circular, and the lawful orders and issuances of the Commission.[^145]
+In addition, the CID argued that if found liable, the penalty shall be imposed upon the responsible officers, who by their gross negligence, allowed the commission of the violations.[^143] The CID stressed that Pesopop continued to make the app available during the pendency of the temporary ban on the processing of personal information imposed upon Pesopop.[^144] Further, the CID stated that based on their submissions and the EnD's findings, Pesopop has not rectified its operations to comply with the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), the Loan-Related Transactions Circular, and the lawful orders and issuances of the Commission.[^145]
 
 As to the individual respondents' liability, the CID explained that Pesopop's Board of Directors, despite their assertion that they have not actively participated in the processing of the data, have the duty to decide for the corporation, and as such, carry the duty of diligence.[^146]
 
@@ -880,7 +880,7 @@ National Privacy Commission
 
 [^170]: *Id.* § 1 (h).
 
-[^171]: MLF v. Grab Philippines, NPC 19-142, at 8.
+[^171]: MLF v. Grab Philippines, [[decisions/2022/npc-19-142-mlf-v-grab-philippines|NPC 19-142]], at 8.
 
 [^172]: *Id.*
 

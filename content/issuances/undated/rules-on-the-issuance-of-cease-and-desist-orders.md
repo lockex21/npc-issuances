@@ -19,7 +19,7 @@ date: "2020-10-26"
 
 **Circular No. 20-02**
 
-*Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#Section 7(c)|Section 7(c) of the DPA]], otherwise known as the "[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]," ([[laws/data-privacy-act-of-2012|DPA]]) to issue cease and desist orders on the processing of personal data, the following Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission are hereby prescribed and promulgated:*
+*Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(c) of the DPA]], otherwise known as the "[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]," ([[laws/data-privacy-act-of-2012|DPA]]) to issue cease and desist orders on the processing of personal data, the following Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission are hereby prescribed and promulgated:*
 
 ### Rule I. Preliminary Provisions
 

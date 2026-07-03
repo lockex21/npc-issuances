@@ -37,9 +37,9 @@ You ask whether the disclosure of the personal information provided to the onlin
 
 ### Credit card details; personal information; lawful processing
 
-We consider the above details provided to the online merchants during the order taking as personal information, the processing of which should comply with the provisions of the DPA, its Implementing Rules and Regulations[^4] (IRR), and related issuances of the National Privacy Commission (NPC).
+We consider the above details provided to the online merchants during the order taking as personal information, the processing of which should comply with the provisions of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^4] (IRR), and related issuances of the National Privacy Commission (NPC).
 
-Based on the given scenario, the disclosure of the personal information held by the online merchants to the credit card issuers for fraud investigation may fall under Section 12 (f) of the DPA, where processing is necessary for the purposes of the legitimate interests pursued by the personal information controller (PIC) or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.[^5]
+Based on the given scenario, the disclosure of the personal information held by the online merchants to the credit card issuers for fraud investigation may fall under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]], where processing is necessary for the purposes of the legitimate interests pursued by the personal information controller (PIC) or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.[^5]
 
 In the determination of legitimate interest, PICs must consider the following:[^6]
 

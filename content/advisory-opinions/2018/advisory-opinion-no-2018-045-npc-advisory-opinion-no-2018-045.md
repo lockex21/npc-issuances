@@ -12,7 +12,7 @@ draft: false
 - Reference: Advisory Opinion No. 2018-045
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/AONo_2018-045.pdf
 - Issue date: 08/13/2018
-- Tags: Data subject’s right to access; DPA IRR; hospital health information
+- Tags: Data subject’s right to access; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|DPA IRR]]; hospital health information
 - OCR used during extraction: no
 
 ## Text
@@ -40,7 +40,7 @@ We understand that the above provisions refer to the procedures for the release 
 
 #### Data subject’s right to access
 
-Under Section 16(c) of the DPA, the data subject is entitled to reasonable access to, upon demand,
+Under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(c) of the DPA]], the data subject is entitled to reasonable access to, upon demand,
 the following:
 
    1.    Contents of his or her personal information that were processed;

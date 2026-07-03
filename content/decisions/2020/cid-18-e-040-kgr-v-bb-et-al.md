@@ -37,7 +37,7 @@ Complainant,
 -versus-
 
 CID Case No. 18-E-040
-For: Violations of Sections 27, 28, 31, and 32 of the Data Privacy Act of 2012
+For: Violations of Sections 27, 28, 31, and 32 of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 
 BB, JA, AA
 
@@ -180,4 +180,4 @@ National Privacy Commission
 [^18]: Ombudsman v. Fetalvero, G.R. No. 211450, 23 July 2018.
 [^19]: Records, p. 38.
 [^20]: Supra at note 5.
-[^21]: NPC Circular No. 16-04 dated 15 December 2016 ("NPC Rules of Procedure"), Sec. 22, Emphasis supplied.
+[^21]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] dated 15 December 2016 ("NPC Rules of Procedure"), Sec. 22, Emphasis supplied.

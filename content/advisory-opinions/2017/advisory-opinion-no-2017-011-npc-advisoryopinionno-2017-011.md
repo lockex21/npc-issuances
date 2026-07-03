@@ -21,7 +21,7 @@ draft: false
 
 **2 February 2017**
 
-Re: COVERED SECTORS OF THE DATA PRIVACY ACT OF 2012
+Re: COVERED SECTORS OF THE [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT OF 2012]]
 
 Dear [Redacted],
 

@@ -27,7 +27,7 @@ title: 'CID 17-K-004: CBI vs. XXX'
 - Pages: 3
 
 ## Source Tags
-- Substantialcompliance, Burdenofproofandburdenofevidence, Compliancetothe Data Privacy Act, Reasonablesecuritymeasures
+- Substantialcompliance, Burdenofproofandburdenofevidence, Compliancetothe [[laws/data-privacy-act-of-2012|Data Privacy Act]], Reasonablesecuritymeasures
 
 ## Resolution Text
 CBI ,
@@ -118,7 +118,7 @@ morecomprehensiveanddetailedmanner, wefinditto
 
 substantiallycomplywiththerequirementsoftheabovementioned
 
-provisionsofthe DPA , its IRR , andwiththe Commission’s 21
+provisionsofthe DPA , its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] , andwiththe Commission’s 21
 
 September 2020 Order. Asjurisprudenceprovides, thesubstantial
 

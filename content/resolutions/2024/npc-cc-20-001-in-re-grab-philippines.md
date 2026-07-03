@@ -129,7 +129,7 @@ Thus, the Commission denied the Motion to Resolve and directed Grab PH to delete
 
 **SO ORDERED**.[^37]
 
-Subsequently, Grab PH filed its Motion for Reconsideration (MR) dated 18 December 2023 reducing the retention period for the Selfie data of users from forty (40) to ten (10) years.[^38] Grab PH also stated therein that the Selfie Project will assist law enforcement authorities in their investigation and enforcement functions, in consonance with the Commission's Advisory Opinion No. 2017-024 which provides that "prescription periods under existing laws may be considered as one of the factors in determining retention periods for personal data."[^39] Grab PH concluded that the 10-year retention period for the Selfie data has legal basis specifically for purposes of investigation and enforcement by law enforcement authorities.[^40]
+Subsequently, Grab PH filed its Motion for Reconsideration (MR) dated 18 December 2023 reducing the retention period for the Selfie data of users from forty (40) to ten (10) years.[^38] Grab PH also stated therein that the Selfie Project will assist law enforcement authorities in their investigation and enforcement functions, in consonance with the Commission's [[advisory-opinions/2017/advisory-opinion-no-2017-024-npc-advisoryopinionno-2017-024|Advisory Opinion No. 2017-024]] which provides that "prescription periods under existing laws may be considered as one of the factors in determining retention periods for personal data."[^39] Grab PH concluded that the 10-year retention period for the Selfie data has legal basis specifically for purposes of investigation and enforcement by law enforcement authorities.[^40]
 
 In resolving the MR, the Commission issued an Order dated 08 January 2024 stating that:
 
@@ -181,7 +181,7 @@ Grab PH insisted that:
 
 Nevertheless, Grab PH alleged that if the Commission deems that retention is subsumed under the principle of proportionality, Grab PH is still compliant considering that the 10-year retention period of Selfie data "originally collected will no longer be "adequate, relevant, suitable, necessary, and not excessive" in relation to purposes of user verification, crime deterrence, law enforcement assistance and prevention of violators from re-entering the platform unless Grab PH take steps to re-collect selfies of active users after the lapse of 10 years."[^66] As such, if the Selfie data were not recollected after ten (10) years, these data will become obsolete and outdated.[^67]
 
-Lastly, Grab PH submitted that it would follow the 10-year retention period following the principle of accuracy under Section 11(c) of the DPA.[^68] As stated by Grab, following the Commission's discussion in its previous Order, "after 10 years, the selfie initially collected may no longer be accurate because of the changes in facial features of individuals as they age."[^69] In this case, the data will no longer be relevant to the purposes for which they were initially collected.[^70]
+Lastly, Grab PH submitted that it would follow the 10-year retention period following the principle of accuracy under [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11(c) of the DPA]].[^68] As stated by Grab, following the Commission's discussion in its previous Order, "after 10 years, the selfie initially collected may no longer be accurate because of the changes in facial features of individuals as they age."[^69] In this case, the data will no longer be relevant to the purposes for which they were initially collected.[^70]
 
 Thus, in order to ensure accuracy, Grab PH "has put in place controls to immediately delete the selfie 10 years after collection, regardless of the user status, unless it is required by law to retain the data, such as when cases are filed in court."[^71]
 
@@ -285,7 +285,7 @@ Under the proportionality principle enshrined under Chapter II, Section 11 of th
 >
 > (e) Retained only for as long as necessary for the fulfillment of the purposes for which the data was obtained or for the establishment, exercise or defense of legal claims, or for legitimate business purposes, or as provided by law.[^99]
 
-In relation thereto, Rule IV, Section 18(c) of the Implementing Rules and Regulations (IRR) of the DPA states that:
+In relation thereto, Rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18(c) of the Implementing Rules and Regulations]] (IRR) of the DPA states that:
 
 > **Section 18. Principles of Transparency, Legitimate Purpose and Proportionality.** The processing of personal data shall be allowed subject to adherence to the principles of transparency, legitimate purpose, and proportionality.
 >

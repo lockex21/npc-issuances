@@ -18,7 +18,7 @@ draft: false
 
 **03 October 2017**
 
-Re: Offenses Under the Data Privacy Act of 2012
+Re: Offenses Under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 
 Dear [Redacted],
 
@@ -36,7 +36,7 @@ d. If yes, may the complaint be instituted directly with the courts or will Rule
 
 The exception on personal information originally collected from residents of foreign jurisdictions would not be a bar for prosecution of violations of the DPA.
 
-The Implementing Rules and Regulation (IRR) of the DPA provides that the non-applicability of the law does not extend to personal information controllers (PIC) or personal information processors (PIP), who remain subject to the requirements of implementing security measures for personal data protection. Further, the processing of information shall be exempted from the requirements of the law only to the minimum extent necessary to achieve the specific purpose, function, or activity.[^2]
+The Implementing Rules and Regulation ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) of the DPA provides that the non-applicability of the law does not extend to personal information controllers (PIC) or personal information processors (PIP), who remain subject to the requirements of implementing security measures for personal data protection. Further, the processing of information shall be exempted from the requirements of the law only to the minimum extent necessary to achieve the specific purpose, function, or activity.[^2]
 
 Thus, BPOs, as PICs and/or PIPs, are still obligated under the DPA to implement security measures to protect personal data that they process as well as comply with other provisions of the DPA. Consequently, when one of its agents or employees commits a violation of the law, even where personal information of foreign citizens is involved, such agent or employee may be held liable.
 
@@ -54,7 +54,7 @@ c. the complaint is filed within six (6) months from the occurrence of the claim
 
 Nevertheless, the NPC may waive any or all of the abovementioned requirements, at its discretion, upon good cause shown, or if the complaint involves a serious violation or breach of the DPA, taking into account the risk of harm to the affected data subject.[^3]
 
-As a rule, it should be the data subject who shall file a complaint for violation of his or her rights. Section 3 of NPC Circular No. 16-04 provides that persons who are the subject of a privacy violation or personal data breach, or who are otherwise personally affected by a violation of the Data Privacy Act, may file complaints for violations of the Act. However, a duly authorized representative may file the complaint, provided, that the circumstances of the authority must be established. Thus, it should be the affected account holders who should file the complaint unless, the BPO is authorized to do so by the foreign client.
+As a rule, it should be the data subject who shall file a complaint for violation of his or her rights. Section 3 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] provides that persons who are the subject of a privacy violation or personal data breach, or who are otherwise personally affected by a violation of the Data Privacy Act, may file complaints for violations of the Act. However, a duly authorized representative may file the complaint, provided, that the circumstances of the authority must be established. Thus, it should be the affected account holders who should file the complaint unless, the BPO is authorized to do so by the foreign client.
 
 As an alternative, the BPO may file the complaint as the person subject of a privacy violation or a personal data breach, not as a data subject, but as a PIP. "Person" may refer to both natural and juridical persons. The complaint may be brought as a violation of any of the provisions of the Data Privacy Act, where the PIC or PIP has been directly affected.
 

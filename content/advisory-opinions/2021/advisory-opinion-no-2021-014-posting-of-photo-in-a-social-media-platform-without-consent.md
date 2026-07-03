@@ -53,12 +53,12 @@ information, is of particular importance, and the protection of the right to pri
 public spaces and information that is publicly available.[^3]
 
 Accordingly, a person’s data privacy rights do not cease even when one is in a public space.
-In NPC Advisory Opinion No. 2018-051,[^4] the following advice was given regarding persons
+In [[advisory-opinions/2018/advisory-opinion-no-2018-051-npc-advisory-opinion-no-2018-051|NPC Advisory Opinion No. 2018-051]],[^4] the following advice was given regarding persons
 who may have been candidly and secretly photographed and whose photos were then posted
 online:
 
    “The act in the given scenario may be considered as unauthorized processing, depending
-         on circumstances of the case. The DPA penalizes persons who process personal
+         on circumstances of the case. The [[laws/data-privacy-act-of-2012|DPA]] penalizes persons who process personal
          information without the consent of the data subject, or without being authorized under
          the Act or any existing law. This is subject to other provisions of the DPA. x x x
 
@@ -69,7 +69,7 @@ online:
          collected. x x x.”
 
 As discussed above, data subjects should be able to exercise their rights under the Data
-Privacy Act of 2012[^5] (DPA). Kindly refer to NPC Advisory No. 2021 – 01 for further guidance
+Privacy Act of 2012[^5] (DPA). Kindly refer to [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] for further guidance
 on this matter.
 
 Finally, we note that based on our records, you were not able to submit the required

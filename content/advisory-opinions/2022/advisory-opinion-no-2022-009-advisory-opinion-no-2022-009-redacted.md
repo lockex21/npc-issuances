@@ -40,7 +40,7 @@ within the bank branches or premises.
 
 You now come to the Commission for guidance on the following inquiries:
 
-1. Whether the publication of employee names and the fact of severance of employment would be lawful under Section 12 (f) of the DPA; and
+1. Whether the publication of employee names and the fact of severance of employment would be lawful under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]]; and
 
 2. Whether it would be lawful for the bank as an alternative measure to notify its clients privately and directly, through bank authorized modes of communication, of the severance of employment of such former employee.
 
@@ -133,5 +133,5 @@ OIC-Director IV, Privacy Policy Office
 [^3]: Data Privacy Act of 2012, § 11.
 [^4]: See: National Privacy Commission, Advisory Opinion Nos. 2022-002 (Feb. 11, 2022), 2021-10 (March 22, 2021) and 2020-50 (Nov. 26, 2020) citing Data Privacy Act of 2012, § 12 (f) and United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/
 [^5]: See: National Privacy Commission, Advisory Opinion Nos. 2022-002 (Feb. 11, 2022) citing Article 29 Data Protection Working Party, Opinion 06/2014 on the notion of legitimate interests of the data controller under Article 7 of Directive 95/46/EC, Adopted on 9 April 2014, available at https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp217_en.pdf
-[^6]: See: National Privacy Commission, Advisory Opinion No. 2020-050 (Nov. 26, 2020) citing Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Recital 47 (2016).
+[^6]: See: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-050-redacted-advisory-opinion-no-2020-050-2|Advisory Opinion No. 2020-050]] (Nov. 26, 2020) citing Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Recital 47 (2016).
 [^7]: *Id.*

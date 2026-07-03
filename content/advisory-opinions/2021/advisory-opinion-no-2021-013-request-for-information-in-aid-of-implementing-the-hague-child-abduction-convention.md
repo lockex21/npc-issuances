@@ -28,7 +28,7 @@ Justice (DOJ) can request personal information from other Philippine government 
 relation to the requests for assistance of Contracting States to locate the whereabouts of
 children and Taking Parents, in accordance with the Hague Convention on the Civil Aspects
 of International Child Abduction or the Hague Child Abduction Convention (HCAC),
-without violating the provisions of the Data Privacy Act of 2012[^2] (DPA).
+without violating the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 We understand that the DOJ, through the Office of the Chief State Counsel, is the designated
 Philippine Central Authority for the HCAC. The objects of the said convention are as follows:
@@ -157,7 +157,7 @@ accountability amongst the parties to the data sharing:
 
 “SECTION 8. Data sharing agreement; key considerations. — Data sharing may be covered by a data sharing agreement (DSA) or a similar document containing the terms and conditions of the sharing arrangement, including obligations to protect the personal data shared, the responsibilities of the parties, mechanisms through which data subjects may exercise their rights, among others.
 
-The execution of a DSA is a sound recourse and demonstrates accountable personal data processing, as well as good faith in complying with the requirements of the DPA, its IRR, and issuances of the NPC. The Commission shall take this into account in case a complaint is filed pertaining to such data sharing and/or in the course of any investigation relating thereto, as well as in the conduct of compliance checks.”[^8]
+The execution of a DSA is a sound recourse and demonstrates accountable personal data processing, as well as good faith in complying with the requirements of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances of the NPC. The Commission shall take this into account in case a complaint is filed pertaining to such data sharing and/or in the course of any investigation relating thereto, as well as in the conduct of compliance checks.”[^8]
 
 This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
@@ -172,7 +172,7 @@ OIC-Director IV, Privacy Policy Office
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Instituting the “Administrative Code of 1987” [Administrative Code of 1987], Executive Order No. 292, Title III (1987).
 [^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
-[^5]: See: National Privacy Commission, NPC Advisory Opinion No. 2019-022 (May 9, 2019).
+[^5]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-022-npc-advisory-opinion-no-2019-022|NPC Advisory Opinion No. 2019-022]] (May 9, 2019).
 [^6]: National Privacy Commission, Data Sharing Agreements [NPC Circular No. 2020-03], § 2 (F) (23 December 2020).
 [^7]: NPC Circular No. 2020-03, § 2 (g).
 [^8]: Id. § 8.

@@ -25,12 +25,12 @@ Dear [Redacted],
 We respond to your request seeking guidance and clarification on the request of Intervest
 Projects Inc. (IPI) to your office for copies of death certificates of deceased veteran pensioners
 taking into account the provisions of Republic Act No. 10173, also known as the Data Privacy
-Act of 2012 (DPA), its Implementing Rules and Regulations (IRR) and relevant issuances of
+Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and relevant issuances of
 the National Privacy Commission (NPC).
 
 ### Discussion
 
-Pertinent to your request is NPC Advisory Opinion No. 2024-011, where it was noted that the
+Pertinent to your request is [[advisory-opinions/2024/advisory-opinion-no-2024-011-advisory-opinion-no-2024-011-sgd-redacted|NPC Advisory Opinion No. 2024-011]], where it was noted that the
 Philippine Veterans Bank (PVB) extends loans to Philippine Veterans Affairs Office (PVAO)
 pensioners pursuant to its partnership with PVAO Direct Remittance Pension Servicing
 System. The loans are paid through the pensioners’ monthly pension from PVAO. PVB
@@ -62,7 +62,7 @@ Data sharing
 A death certificate contains both personal information and sensitive personal information
 (collectively, personal data). As such, the processing2 of personal information shall be
 permitted only if not otherwise prohibited by law, and when at least one of the criteria under
-Section 12 of the DPA is met. Similarly, the processing of sensitive personal information and
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] is met. Similarly, the processing of sensitive personal information and
 privileged information shall be prohibited, except in the cases enumerated under Section 13.
 Thus, there is a need to satisfy at least one criterion under Sections 12 and 13, respectively, for
 the processing of personal data to be considered lawful.
@@ -121,7 +121,7 @@ As discussed in NPC Advisory Opinion No. 2022-05, :
               for a mechanism to ensure that the information to be disclosed will
               only be used for the purpose/s indicated.”
 
-Additionally, in NPC Advisory Opinion No. 2021-044, it was recommended that:
+Additionally, in [[advisory-opinions/2021/advisory-opinion-no-2021-044-npc-advisory-opinion-no-2021-044|NPC Advisory Opinion No. 2021-044]], it was recommended that:
 
    “xxx in case a request for personal information is granted, the
               requesting party should be required to sign an undertaking that the

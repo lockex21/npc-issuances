@@ -22,7 +22,7 @@ Re: REGISTRATION OF DATA PROCESSING SYSTEMS
 
 Dear [Redacted],
 
-This pertains to your query received by the National Privacy Commission (NPC) on 6 June 2017 with regard to data processing systems registration as provided in the Implementing Rules and Regulation (IRR) of the Data Privacy Act of 2012 (DPA).
+This pertains to your query received by the National Privacy Commission (NPC) on 6 June 2017 with regard to data processing systems registration as provided in the Implementing Rules and Regulation ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 Specifically, you ask for clarification on what is considered as processing that is "not occasional", and whether there is a threshold as to the number of times personal data processing is carried out in order to qualify as someone who processes data in a manner that is "not occasional".
 

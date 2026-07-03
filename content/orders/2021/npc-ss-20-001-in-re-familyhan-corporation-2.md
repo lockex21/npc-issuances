@@ -72,7 +72,7 @@ Section 4 of NPC Circular No. 20-02 (Rules on the Issuance of Cease and Desist O
 
 > Section 4. Grounds for the Issuance of Cease and Desist Order. – No CDO shall be issued unless it is established by substantial evidence that all of the following concur:
 >
-> A. the Adverse Party is doing, threatening or is about to do, is procuring to be done, some act or practice in violation of the DPA, its IRR, or other related issuances;
+> A. the Adverse Party is doing, threatening or is about to do, is procuring to be done, some act or practice in violation of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or other related issuances;
 >
 > B. such act or practice is detrimental to national security or public interest, or the CDO is necessary to preserve and protect the rights of a data subject; and
 >

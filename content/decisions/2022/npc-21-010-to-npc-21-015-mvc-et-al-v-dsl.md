@@ -178,9 +178,9 @@ On 11 October 2021, Complainants RRB, NMB, RMP, NDL, and MBN filed their respect
 
 ### Issue
 
-I. Whether DSL's publication of the 23 November 2021 letter containing Complainants' personal information is necessary for compliance under a legal obligation that GATICC is subject to, pursuant to Section 12 (c) of the DPA.
+I. Whether DSL's publication of the 23 November 2021 letter containing Complainants' personal information is necessary for compliance under a legal obligation that GATICC is subject to, pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the DPA]].
 
-II. Whether DSL's publication of the 23 November 2021 letter containing Complainants' personal information violates Section 32 (Unauthorized Disclosure) of the DPA.
+II. Whether DSL's publication of the 23 November 2021 letter containing Complainants' personal information violates [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].
 
 ### Discussion
 
@@ -230,7 +230,7 @@ DSL violated Section 32 of the DPA on Unauthorized Disclosure. Section 32 of the
 
 > Section. 32. *Unauthorized Disclosure.* – (a) Any personal information controller or personal information processor or any of its officials, employees or agents, who discloses to a third party personal information not covered by the immediately preceding section without the consent of the data subject, shall be subject to imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00).[^29]
 
-Section 32 of the DPA refers to the "immediately preceding section" or Section 31 of the DPA on Malicious Disclosure, which provides:
+Section 32 of the DPA refers to the "immediately preceding section" or [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 of the DPA]] on Malicious Disclosure, which provides:
 
 > Section 31. *Malicious Disclosure.* – Any personal information controller or personal information processor or any of its officials, employees or agents, who, with malice or in bad faith, discloses unwarranted or false information relative to any personal information or personal sensitive information obtained by him or her, shall be subject to imprisonment ranging from one (1) year and six (6) months to five (5) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00).[^30]
 
@@ -367,6 +367,6 @@ National Privacy Commission
 [^37]: Fort Bonifacio Development Corp. v. Commissioner of Internal Revenue, G.R. Nos. 158885 & 170680 (Resolution) (2009).
 [^38]: See Data Privacy Act of 2012, § 3(j) on the definition of processing which "refers to any operation or any set of operations performed upon personal information" which necessarily includes the sharing and disclosure of personal information.
 [^39]: *Id.* § 11.
-[^40]: NPC 19-134, 10 December 2021 (NPC 2021) (unreported).
+[^40]: [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021 (NPC 2021) (unreported).
 [^41]: People v. Liban, G.R. Nos. 136247 & 138330 (2000).
 [^42]: *Supra* note 40.

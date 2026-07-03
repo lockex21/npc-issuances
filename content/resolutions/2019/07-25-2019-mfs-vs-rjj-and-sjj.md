@@ -42,7 +42,7 @@ RJJ and SJJ,
 
 Respondents.
 
-For: Violation of Data Privacy Act of 2012
+For: Violation of [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 
 x------------------------------------------------x
 
@@ -230,6 +230,6 @@ Legal and Enforcement Office
 [^9]: PNB v. Hon. Paneda, et. al., G.R. No. 149236, 14 Feb. 2007.
 [^10]: Marikina Valley Development Corporation et. Al. v. Hon. Napoleon Flojo et.al., G.R. No. 11080, 8 December 1995.
 [^11]: Marylou Cabrera v. Felix Ng, G.R. No. 201601, 12 March 2014.
-[^12]: NPC Circular No. 16-04, Rules of Procedure of the National Privacy Commission.
+[^12]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]], Rules of Procedure of the National Privacy Commission.
 [^13]: Investigator’s Report dated 5 January 2018, In re: NPC Case No. 17-003 Salipot v Jimenez, p. 6.
 [^14]: Demaala v. COA, G.R. No. 199752, Feb. 17, 2015.

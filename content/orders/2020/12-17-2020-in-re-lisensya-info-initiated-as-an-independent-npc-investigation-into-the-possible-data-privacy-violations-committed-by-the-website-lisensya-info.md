@@ -36,7 +36,7 @@ x----------------------------------------------------x
 
 LIBORO, P.C.:
 
-On 12 November 2020, this Commission issued a Cease and Desist Order (Cease and Desist Order) against the Lisensya.Info website and its owner/operator, respondents Jose Minao and Billy James Jimena (Respondents) for unauthorized processing and unauthorized access of personal information and sensitive personal information which are violations of the Data Privacy Act of 2012 (DPA), with the following dispositive portion:
+On 12 November 2020, this Commission issued a Cease and Desist Order (Cease and Desist Order) against the Lisensya.Info website and its owner/operator, respondents Jose Minao and Billy James Jimena (Respondents) for unauthorized processing and unauthorized access of personal information and sensitive personal information which are violations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), with the following dispositive portion:
 
 > WHEREFORE, premises considered, Lisensya.Info and its owner/operator, JOSE MINAO, BILLY JAMES JIMENA and other responsible officers are hereby ordered to:
 >

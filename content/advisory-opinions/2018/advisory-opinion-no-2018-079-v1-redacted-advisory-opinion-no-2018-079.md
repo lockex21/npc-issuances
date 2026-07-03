@@ -23,7 +23,7 @@ Dear [Redacted],
 
 We write in response to your request for an advisory opinion on whether the National Bureau of Investigation (NBI) can secure data from any government or private offices in furtherance of investigations being conducted.
 
-In particular, you seek clarification on the exemption provided under Section 4 of the Data Privacy Act of 2012[^1] (DPA), since the Philippine Statistics Authority (PSA) allegedly refused to authenticate a copy of a marriage contract by invoking the DPA, which now impedes your investigation in relation to a case involving a violation of RA No. 9262 or the Anti-Violence Against Women and Their Children Act of 2004 and Article 349 of the Revised Penal Code for Bigamy.
+In particular, you seek clarification on the exemption provided under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the Data Privacy Act of 2012]][^1] (DPA), since the Philippine Statistics Authority (PSA) allegedly refused to authenticate a copy of a marriage contract by invoking the DPA, which now impedes your investigation in relation to a case involving a violation of RA No. 9262 or the Anti-Violence Against Women and Their Children Act of 2004 and Article 349 of the Revised Penal Code for Bigamy.
 
 ### Discussion
 
@@ -31,7 +31,7 @@ In particular, you seek clarification on the exemption provided under Section 4 
 
 The DPA applies to all types of processing of personal data,[^2] including disclosure through authentication of a copy of a marriage contract which is considered sensitive personal information.[^3]
 
-Note, however, that Section 4 of the law and Section 5 of its Implementing Rules and Regulations (IRR) exempt specific types of information from its scope and application. Specifically, paragraph (d) of the latter states:
+Note, however, that Section 4 of the law and Section 5 of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) exempt specific types of information from its scope and application. Specifically, paragraph (d) of the latter states:
 
 > Section 5. Special Cases. The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:
 >
@@ -71,7 +71,7 @@ Thus, it is fundamentally an investigative agency rather than a law enforcement 
 
 #### Lawful Processing of Sensitive Personal Information; Statutory Mandate; PSA Office Memorandum; Issuance of Certified Certificates
 
-Note that under Section 13 of the DPA, consent is not the only basis for processing sensitive
+Note that under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], consent is not the only basis for processing sensitive
 personal information. Processing may be based several other criteria, such a processing
 required by law, those necessary to protect the life and health of the data subject, to achieve
 the lawful and noncommercial objectives of public organizations, for medical treatment, or

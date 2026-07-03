@@ -68,7 +68,7 @@ On 3 July 2019, the Commission's Enforcement Division sought the assistance of t
 
 In the DSTSD report dated 07 August 2019, they concluded that PNB's remediation measures are at par with the industry standard requirements, specifically the Payment Card Industry Data Security Standard ("PCI DSS"). The DSTSD report also underlined the noticeable improvement on PNB's security measures after the Commission's issuance of the 13 July 2018 Order.
 
-The Enforcement Assessment Report dated 13 December 2019 categorically stated that the measures undertaken by PNB complies with the R.A. 10173 or the Data Privacy Act, its Implementing Rules and Regulation, and NPC Circular 16-03 on Personal Data Breach Management. Further, it was recommended that the PNB shall regularly review these measures and policies to further protect the interests of the data subjects.
+The Enforcement Assessment Report dated 13 December 2019 categorically stated that the measures undertaken by PNB complies with the [[laws/data-privacy-act-of-2012|R.A. 10173]] or the Data Privacy Act, its Implementing Rules and Regulation, and NPC Circular 16-03 on Personal Data Breach Management. Further, it was recommended that the PNB shall regularly review these measures and policies to further protect the interests of the data subjects.
 
 This Commission, after thoroughly reviewing all the pertinent documents and giving due credence to the evaluation and examination made by its two Divisions, finds that the PNB was able to substantially comply with the Commission's Compliance Order dated 13 July 2018.
 

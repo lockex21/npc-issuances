@@ -41,7 +41,7 @@ In this regard, you now seek clarification on the following matters:
 
 1. Since the local civil registry (LCR) is under the control and supervision of their respective local government units (LGUs) and the latter are under the jurisdiction of the DILG, can PVAO enter into a Memorandum of Agreement/Understanding and data sharing agreement (DSA) with DILG rather than entering into several DSAs with each and every LCR?
 
-2. PVAO, to ensure the authenticity of documents and determine the present status of the pensioner, uses the "record-deceased" submitted to it by PSA to check if any of those listed are PVAO claimants. This was restricted upon the enactment of the DPA. Does this arrangement require a DSA between PVAO and PSA?
+2. PVAO, to ensure the authenticity of documents and determine the present status of the pensioner, uses the "record-deceased" submitted to it by PSA to check if any of those listed are PVAO claimants. This was restricted upon the enactment of the [[laws/data-privacy-act-of-2012|DPA]]. Does this arrangement require a DSA between PVAO and PSA?
 
 3. To perform its mandate, PVAO has been requesting information from the LCR, PSA, and OTAG-NRD which were created to serve as the depository of information for the government. In line with this, the following queries were raised:
 
@@ -62,7 +62,7 @@ Data sharing is the sharing, disclosure, or transfer to a third party of persona
 All data sharing arrangements, whether or not covered by a DSA, are governed by the following principles:
 
 a. Adherence to the data privacy principles of transparency, legitimate purpose, and proportionality;
-b. Fulfillment of all applicable requirements prescribed by the DPA, its Implementing Rules and Regulations (IRR) and other issuances of the NPC;
+b. Fulfillment of all applicable requirements prescribed by the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and other issuances of the NPC;
 c. Recognition of upholding the rights of affected data subjects, unless otherwise provided by law;
 d. Ensuring that the shared and collected data are accurate, complete, and where necessary for the declared, specified and legitimate purpose, kept up to date; and
 e. Implementation of reasonable and appropriate organizational, physical, and technical security measures intended for the protection of personal data against any accidental or unlawful destruction, alteration, and disclosure as well as against any other unlawful processing.[^5]

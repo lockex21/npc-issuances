@@ -64,7 +64,7 @@ Thereafter, the Complainant was surprised that Respondent HBM leaked their strea
 
 The Complainant averred that Respondent HBM is claiming that she refused to meddle with their concern as it involves a personal matter.[^15] Complainant belied such claim and questioned why Respondent HBM testified and chose to go against her.[^16] Further, the Complainant posited that Respondent ARM convinced Respondent HBM to leak the confidential communication they had.[^17]
 
-The Complainant then charges the Respondents with violation of the DPA for the processing of her sensitive personal information and privileged information.[^18] She alleged that privileged information was defined under Section 3 of the DPA as any form of data which under the Rules of Court and other pertinent laws constitute privileged information.[^19] As such, she argued that "any unauthorized disclosure of the same is a violation of the [DPA]."[^20]
+The Complainant then charges the Respondents with violation of the DPA for the processing of her sensitive personal information and privileged information.[^18] She alleged that privileged information was defined under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] as any form of data which under the Rules of Court and other pertinent laws constitute privileged information.[^19] As such, she argued that "any unauthorized disclosure of the same is a violation of the [DPA]."[^20]
 
 In addition, Complainant contended that under Section 24, [Rule 130] of the Rules of Court, a communication made to a public officer in official confidence is privileged and should not be disclosed.[^21] Thus, Complainant argued that Respondent HBM is a public school teacher, and thus a public officer, and the communication that the Complainant made to her is privileged.[^22]
 
@@ -120,7 +120,7 @@ Whether the complaint should be dismissed for lack of merit.
 
 Delving into the alleged procedural infirmities, Respondents argued that the Complainant failed to exhaust remedies for her failure to give them the opportunity to address the complaint without justification and thus deserves outright dismissal.[^57]
 
-Section 2, Rule II of NPC Circular No. 2021-01 (NPC Rules of Procedure) reads:
+Section 2, Rule II of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (NPC Rules of Procedure) reads:
 
 > **SECTION 2. Exhaustion of remedies.** – No complaint shall be given due course unless it has been sufficiently established and proven that:
 >
@@ -140,7 +140,7 @@ It is true that the Complainant neither stated in her Complaint nor refuted in h
 
 Even so, the Commission held in *CL v. DDZ* and *DM v. DDZ*:[^59]
 
-> Moreover, this Commission takes this opportunity to remind its previous ruling in NPC Case No. 19-528, which states that the purpose of Section 4 of NPC Circular No. 16-04 [now Section 2, Rule II under the 2021 Amended Rules of Procedure] is to prevent the unduly clogging of the Commission's docket and avoid instances wherein a case shall be dismissed despite the good cause shown by the Complainant or the case involves a serious violation of the DPA. This Commission also reminds that the Rule is meant to prohibit instances of deciding cases based on mere technicalities.
+> Moreover, this Commission takes this opportunity to remind its previous ruling in NPC Case No. 19-528, which states that the purpose of Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] [now Section 2, Rule II under the 2021 Amended Rules of Procedure] is to prevent the unduly clogging of the Commission's docket and avoid instances wherein a case shall be dismissed despite the good cause shown by the Complainant or the case involves a serious violation of the DPA. This Commission also reminds that the Rule is meant to prohibit instances of deciding cases based on mere technicalities.
 
 Additionally, it shall be emphasized that the personal information of Complainants were already processed by the Respondent when he requested and accessed the passports and included it to his Complaint Affidavit. In this case, the Rule can no longer apply given that the Respondent cannot take any appropriate action to remedy the situation since the passports were already included in the Complaint Affidavit filed before the Office of the Prosecutor and cannot be withdrawn.
 
@@ -150,7 +150,7 @@ Here, it is clear that the Respondents have already processed the personal data 
 
 On the first argument, the Complainant claims that the messages she sent to Respondent HBM were entrusted by the former to the latter with confidence. As such, the Complainant submits that the said communication is considered as privileged communication under the Rules of Court.[^60]
 
-Section 13 of the DPA provides the instances when processing of sensitive personal information is allowed.[^61] Accordingly, the definition of privileged information is likewise provided in the same law, *viz*:
+[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] provides the instances when processing of sensitive personal information is allowed.[^61] Accordingly, the definition of privileged information is likewise provided in the same law, *viz*:
 
 > **SEC. 3. Definition of Terms.** – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -214,7 +214,7 @@ Hence, since the identity of the Complainant in the messages is apparent and can
 
 In her Judicial Affidavit, Respondent HBM stated that she is testifying to prove that the Complainant accused Respondent ARM of threat and that Complainant abused her right by intentionally reporting the unfounded or unverified accusation to Respondent ARM's workplace.[^72]
 
-Section 12 (f) of the DPA declares that:
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] declares that:
 
 > **SEC. 12. Criteria for Lawful Processing of Personal Information.** – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -390,7 +390,7 @@ National Privacy Commission
 [^56]: *Id.*
 [^57]: Joint Comment dated 10 October 2022 of Respondents ARM and HBM, ¶¶ 56-57.
 [^58]: 2021 RULES OF PROCEDURE OF THE NATIONAL PRIVACY COMMISSION, [NPC Circular No. 2021-01], rule II, § 2 (2021).
-[^59]: *CL v. DDZ, DM v. DDZ*, NPC 19-030, Decision dated 10 June 2021, p. 5.
+[^59]: *CL v. DDZ, DM v. DDZ*, [[decisions/2021/npc-19-030-and-npc-19-132-cl-vs-ddz-and-dm-vs-ddz|NPC 19-030]], Decision dated 10 June 2021, p. 5.
 [^60]: Complaint dated 15 August 2022 of Complainant TSO, ¶ 19.
 [^61]: Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 13.
 [^62]: Data Privacy Act of 2012, Republic Act No. 10173, chapter I, § 3 (k).
@@ -406,7 +406,7 @@ National Privacy Commission
 [^72]: Annex "D" of the Complaint dated 15 August 2022 by Complainant TSO, p. 3.
 [^73]: Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 12 (f).
 [^74]: Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 13 (f).
-[^75]: *JCB v. FRL*, NPC 21-031, Decision dated 03 March 2022, at p. 10.
+[^75]: *JCB v. FRL*, [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], Decision dated 03 March 2022, at p. 10.
 [^76]: *Id.* at p. 11.
 [^77]: Joint Comment dated 10 October 2022 of Respondents ARM and HBM, ¶ 34.
 [^78]: Annex "A" of Joint Comment dated 10 October 2022 of Respondents ARM and HBM, p. 61.

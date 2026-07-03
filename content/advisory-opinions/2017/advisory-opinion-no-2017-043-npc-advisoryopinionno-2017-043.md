@@ -18,7 +18,7 @@ draft: false
 
 14 August 2017
 
-Re: SECTION 47 OF THE IMPLEMENTING RULES AND REGULATIONS OF THE DATA PRIVACY ACT OF 2012
+Re: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|SECTION 47 OF THE IMPLEMENTING RULES AND REGULATIONS]] OF THE [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT OF 2012]]
 
 Dear [Redacted],
 

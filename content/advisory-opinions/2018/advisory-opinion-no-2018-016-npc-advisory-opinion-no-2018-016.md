@@ -35,7 +35,7 @@ The information that the PCS and POGS require include the following:
 4. Hospital number; and
 5. Attending physician/consultant.
 
-You are seeking guidance on how Capitol Medical Center (CMC) can resolve the issue without violating Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), given that consent from the patients was not obtained by CMC.
+You are seeking guidance on how Capitol Medical Center (CMC) can resolve the issue without violating [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), given that consent from the patients was not obtained by CMC.
 
 ### Discussion
 
@@ -73,7 +73,7 @@ Privacy Commissioner and Chairman
 
 [^2]: RA No. 10173, §11.
 
-[^3]: RA 10173 § 11; IRR § 20(b).
+[^3]: RA 10173 § 11; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] § 20(b).
 
 [^4]: RA No. 10173, §3(b) – Consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so.
 

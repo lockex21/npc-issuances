@@ -54,7 +54,7 @@ On 05 March 2021, GSS again asked GDFI for an update on the status of his loan b
 
 On 11 March 2021, GSS cancelled his car loan application and requested an explanation regarding the unlocking of his account with GDFI's affiliate.[^7] He claimed that he had no personal knowledge of applying for other loan products from them or any of their affiliates.[^8] He further averred that "[he] fears that someone might have used the personal data [he] had with GDFI without [his] knowledge whatsoever."[^9]
 
-GSS alleged that GDFI violated Section 25 (Unauthorized Processing) and Section 28 (Processing for Unauthorized Purposes) of the DPA.[^10] GSS also prayed for damages and a fine to be issued against GDFI.[^11]
+GSS alleged that GDFI violated Section 25 (Unauthorized Processing) and [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 (Processing for Unauthorized Purposes) of the DPA]].[^10] GSS also prayed for damages and a fine to be issued against GDFI.[^11]
 
 On 23 June 2021, the Commission, through its Complaints and Investigation Division (CID), issued an Order directing GDFI to file its comment within fifteen (15) calendar days from receipt of the Order.[^12]
 
@@ -84,7 +84,7 @@ GSS contended that GDFI violated Section 25 (Unauthorized Processing) and Sectio
 
 On 20 October 2021, GDFI submitted its Memorandum.[^33] GDFI alleged that the filing of the present case is grounded on suspicion and fear.[^34] GDFI claimed that it is compliant with the mandate of the DPA as it ensures that the personal information of its clients are secured and protected.[^35] It submitted a copy of the Loan Application Form that bears GSS's signature.[^36] It claimed that the signed Loan Application Form shows GSS authorizing GDFI to process GSS's personal data for an authorized purpose that is solely in relation with his loan application.[^37]
 
-GDFI alleged that it met the criteria for lawful processing of personal information stating Section 12 (a) and (b), and Section 13 (a) of the DPA as bases for its lawful processing.[^38] GDFI prayed that the case be dismissed for lack of merit.[^39]
+GDFI alleged that it met the criteria for lawful processing of personal information stating Section 12 (a) and (b), and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (a) of the DPA]] as bases for its lawful processing.[^38] GDFI prayed that the case be dismissed for lack of merit.[^39]
 
 ### Issue
 
@@ -92,7 +92,7 @@ Whether the complaint should have been dismissed outright on procedural grounds.
 
 ### Discussion
 
-**I. The complaint should not have been given due course pursuant to Section 2 of Rule II of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure).**
+**I. The complaint should not have been given due course pursuant to Section 2 of Rule II of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure).**
 
 Section 2 of Rule II of the 2021 NPC Rules of Procedure provides:
 
@@ -148,7 +148,7 @@ The 2021 NPC Rules of Procedure allows the outright dismissal of the case when t
 
 Contrary to GSS's allegations, having a namesake in the database of the company or its affiliate by itself does not automatically result to unauthorized processing or processing for an unauthorized purpose. GSS's fear of someone else using his personal information is primarily based on speculation. Thus, the Commission finds that the written communication between GSS and GDFI and the documents related to the application of a car loan that GSS submitted as evidence failed to substantiate GSS's claim of unauthorized processing or processing for an unauthorized purpose committed by GDFI.
 
-The Commission observes that although there may be fraud-related issues that fall under the DPA, the filing of cases pertaining solely to fraud-related issues without a privacy issue is not within the jurisdiction of the Commission. For the education of the public, the DPA covers data privacy-related issues. It cannot be used to seek redress against fraud-related issues that do not involve any privacy violations. Thus, the Commission's jurisdiction to hear and decide a case is based on whether the allegations in the complaint sets forth a violation of the DPA, its IRR, and other issuances of the Commission. Otherwise, the case is not within the jurisdiction of the Commission and it should be heard and decided by other appropriate bodies.
+The Commission observes that although there may be fraud-related issues that fall under the DPA, the filing of cases pertaining solely to fraud-related issues without a privacy issue is not within the jurisdiction of the Commission. For the education of the public, the DPA covers data privacy-related issues. It cannot be used to seek redress against fraud-related issues that do not involve any privacy violations. Thus, the Commission's jurisdiction to hear and decide a case is based on whether the allegations in the complaint sets forth a violation of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the Commission. Otherwise, the case is not within the jurisdiction of the Commission and it should be heard and decided by other appropriate bodies.
 
 As discussed, the complaint should not have been given due course not only because GSS failed to comply with the requirement of exhaustion of remedies but also because the complaint did not involve any privacy violation. Further, GSS failed to present anything aside from fear and speculation to substantiate the allegations in his complaint.
 

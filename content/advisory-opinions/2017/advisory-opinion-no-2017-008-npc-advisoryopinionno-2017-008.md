@@ -19,7 +19,7 @@ draft: false
 ## Text
 **9 January 2017**
 
-Re: CLARIFICATIONS ON THE DATA PRIVACY ACT AND ITS IMPLEMENTING RULES AND REGULATIONS
+Re: CLARIFICATIONS ON THE [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT]] AND ITS IMPLEMENTING RULES AND REGULATIONS
 
 Dear [Redacted],
 
@@ -36,7 +36,7 @@ f. What happens if the data is only physically stored to a storage provider who 
 
 #### Outsourcing / Subcontracting
 
-According to Section 9 of the Implementing Rules and Regulations (IRR) of the Data Privacy Act (DPA), a key function of the NPC is to develop rules and regulations for the effective implementation of the law. Pursuant thereto, the Commission issued on 10 October 2016, NPC Circular No. 16-02, which pertains to data sharing agreements involving government agencies. The issuance applies to personal data under the control or custody of a government agency that is being shared with or transferred to a third party, as well as to personal data under the control or custody of a private entity that is being shared with or transferred to a government agency.[^1] Its limited scope notwithstanding, the Circular may be utilized as guidance when taking up data sharing agreements in the private sector, including related concepts such as outsourcing or subcontracting.
+According to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] (IRR) of the Data Privacy Act (DPA), a key function of the NPC is to develop rules and regulations for the effective implementation of the law. Pursuant thereto, the Commission issued on 10 October 2016, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], which pertains to data sharing agreements involving government agencies. The issuance applies to personal data under the control or custody of a government agency that is being shared with or transferred to a third party, as well as to personal data under the control or custody of a private entity that is being shared with or transferred to a government agency.[^1] Its limited scope notwithstanding, the Circular may be utilized as guidance when taking up data sharing agreements in the private sector, including related concepts such as outsourcing or subcontracting.
 
 On that note, Section 3(d) of the Circular defines outsourcing as the "disclosure or transfer of personal data by a personal information controller to a personal information processor".[^2] Thus, it occurs when a natural or juridical person instructs another to process personal data on its behalf, regardless of the motivation or reason behind such arrangement.
 

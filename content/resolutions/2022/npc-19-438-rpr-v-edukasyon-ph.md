@@ -52,7 +52,7 @@ RPR participated in the Amazon Web Services Siklab Pilipinas Online Conference (
 
 On 06 June 2019, the National Privacy Commission (NPC) received RPR’s Complaint-Assisted Form.[^2] RPR alleged that after the Conference, Edukasyon sent a “thank you letter” through email in which all participants were entered and exposed in the email field “To:”.[^3] He further alleged that the email contained a Dropbox link that points to a zip file.[^4] When he opened the zip file, it had the names and corresponding certificates of one hundred and three (103) participants, including himself.[^5]
 
-RPR contended that Edukasyon violated Sections 25, 26, 29, 32, 33, and 35 of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).[^6] RPR prayed for a fine to be imposed and a cease and desist order to be issued against Edukasyon.[^7]
+RPR contended that Edukasyon violated Sections 25, 26, 29, 32, 33, and 35 of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA).[^6] RPR prayed for a fine to be imposed and a cease and desist order to be issued against Edukasyon.[^7]
 
 On 12 September 2019, the parties were ordered to appear before the Commission to confer for discovery on 02 October 2019.[^8]
 
@@ -112,7 +112,7 @@ Edukasyon was also ordered to submit its Security Incident Management Policy. Se
 >
 > D. Mitigation of possible harm and negative consequences to a data subject in the event of a personal data breach; and
 >
-> E. Compliance with the Act, its IRR, and all related issuances by the Commission pertaining to personal data breach notification.[^28]
+> E. Compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all related issuances by the Commission pertaining to personal data breach notification.[^28]
 
 In its compliance with the directive to submit its Security Incident Management Policy, Edukasyon attached its Incident Response Program that it implemented in October 2018.[^29] The EnD assessed the submission of Edukasyon:
 

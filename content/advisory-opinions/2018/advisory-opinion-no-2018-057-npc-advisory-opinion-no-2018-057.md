@@ -15,7 +15,7 @@ draft: false
 - Reference: Advisory Opinion No. 2018-057
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/AONo_2018-057.pdf
 - Issue date: 09/20/2018
-- Tags: Outsourcing agreement; automatic data processing (adp); clarification on data privacy act of 2012 (dpa)
+- Tags: Outsourcing agreement; automatic data processing (adp); clarification on [[laws/data-privacy-act-of-2012|data privacy act of 2012]] (dpa)
 - OCR used during extraction: no
 
 ## Text
@@ -30,7 +30,7 @@ We write in response to your query received by the National Privacy Commission (
 email. You stated that Automatic Data Processing (ADP) is a human capital management
 solutions company based in the United States. It has presence in the Philippines through ADP
 (Philippines) Inc. which provides payroll services to Philippine clients. You seek advice and
-clarification regarding Section 44 of the Implementing Rules and Regulations (IRR)[^1] of
+clarification regarding [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|Section 44 of the Implementing Rules and Regulations]] (IRR)[^1] of
 Republic Act No. 10173,[^2] otherwise known as the Data Privacy Act of 2012 (DPA).
 
 ### Discussion

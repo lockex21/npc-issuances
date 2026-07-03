@@ -99,8 +99,7 @@ information of individuals are protected.
 However, the DPA expressly provides under Section 4(c) thereof that information relating to any
 discretionary benefit of a financial nature given by the government to an individual, such as
 granting a license or permit, including the name of the individual and the exact nature of the
-benefit, is classified as a special case, where the provisions of the DPA and its Implementing
-Rules and Regulations (IRR) do not apply, subject to the qualification that such non-application
+benefit, is classified as a special case, where the provisions of the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) do not apply, subject to the qualification that such non-application
 of the law is only to the minimum extent of collection, access, use, disclosure or other processing
 necessary to the purpose, function, or activity concerned.[^8]
 
@@ -110,7 +109,7 @@ information of those granted discretionary financial benefits by the government 
 For other benefits granted by the government which are given in the course of an ordinary
 transaction or as a matter of right, the minimum extent of disclosure of personal information of
 beneficiaries may still find basis under any of the various criteria for lawful processing under
-Section 12 of the DPA.
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]].
 
 #### Public Disclosure of Pertinent Data in Relation to COVID-19 Response Programs; General Data Privacy Principles; Proportionality; Release of Statistical Data
 
@@ -154,8 +153,7 @@ On the release of information which are not personal information, such as:
 
    •    information of juridical persons (i.e., establishment/business names and addresses, amounts
          received, etc.);
-    •    aggregate or statistical data relating to PhilHealth Advisory No. 2020-022, and Circular
-         Nos. 2020-0009, 2020-0011, and 2020-0012 (i.e., number of recipients of full financial risk
+    •    aggregate or statistical data relating to PhilHealth Advisory No. 2020-022, and Circular Nos. 2020-0009, 2020-0011, and 2020-0012 (i.e., number of recipients of full financial risk
          protection, total amount disbursed (by hospital/health facility) between February 1 and April 14,
          2020, number of cases and total claims approved per hospital/health facility, and number of claims
          per benefit package under each circular); and
@@ -211,5 +209,5 @@ Privacy Commissioner
 [^7]: Id. No. 4.
 [^8]: Data Privacy Act of 2012, § 4 (c) and Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
 [^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c) (2016).
-[^10]: See: National Privacy Commission, NPC Advisory Opinion No. 2020-019 (April 28, 2020).
+[^10]: See: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-019-public-disclosure-of-the-list-of-social-amelioration-program-beneficiaries|NPC Advisory Opinion No. 2020-019]] (April 28, 2020).
 [^11]: See: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC [EU GENERAL DATA PROTECTION REGULATION], Article 4(5) (2016).

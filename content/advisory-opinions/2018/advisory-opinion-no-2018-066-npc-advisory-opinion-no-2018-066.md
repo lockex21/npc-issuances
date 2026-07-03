@@ -25,7 +25,7 @@ Dear [Redacted]:
 
 We write in response to your inquiry regarding the submission drug test results and other personal data of patients by Grepa Medical and Diagnostic Center (GMDC) to the Department of Health (DOH) through the Integrated Drug Testing Management Information System (IDTOMIS).
 
-Particularly, your main concern is whether the submission of the required personal data of patients who undergo drug testing is consistent with the general data privacy principles enshrined in the Data Privacy Act of 2012 (DPA)[^1] given the following situations:
+Particularly, your main concern is whether the submission of the required personal data of patients who undergo drug testing is consistent with the general data privacy principles enshrined in the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^1] given the following situations:
 
 1. In terms of transparency and legitimate purpose, the DOH may share the personal data of patients who undergo drug testing with other government agencies; and
 2. In terms of proportionality, the DOH collects personal data of other persons, i.e. name of the spouse of the person being tested.
@@ -38,7 +38,7 @@ Also, that the IDTOMIS is a system implemented by the DOH to facilitate collecti
 
 #### Legitimate Purpose
 
-Under the DPA and its Implementing Rules and Regulations (IRR), the principle of legitimate purpose pertains to the processing of personal information based on the declared and specified purpose, which is not contrary to law, morals or public policy.[^3] Lawful processing, on the other hand, is discussed under Sections 12 and 13 of the DPA for processing of personal information and sensitive personal information, respectively.
+Under the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), the principle of legitimate purpose pertains to the processing of personal information based on the declared and specified purpose, which is not contrary to law, morals or public policy.[^3] Lawful processing, on the other hand, is discussed under Sections 12 and 13 of the DPA for processing of personal information and sensitive personal information, respectively.
 
 In consideration of the foregoing, we confirm that the submission of personal data of patients who undergo drug testing by GMDC to the DOH, through the IDTOMIS, as well as sharing of the such information by the DOH to authorized government agencies, is permitted[^4] pursuant to the provisions of the Comprehensive Dangerous Drugs Act of 2002, to wit:
 

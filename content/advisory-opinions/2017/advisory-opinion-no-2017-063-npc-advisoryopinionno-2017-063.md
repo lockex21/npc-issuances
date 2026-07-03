@@ -40,7 +40,7 @@ d. If birthday (consist of month and day only) is considered a personal or sensi
 
 As a generic approach, blacklists are databases that consist of collected specific information relating to a specific group of persons, which may generally imply adverse and prejudicial effects for the individuals included thereon and which may discriminate against a group of people by barring them access to a specific service or harming their reputation.[^1]
 
-That said, blacklisting constitutes processing of personal data and is therefore subject to the general data privacy principles set out in the Data Privacy Act of 2012 (DPA). Thus, the law mandates that a data subject must be properly informed of the nature, purpose and extent of the processing of his or her personal data.[^2]
+That said, blacklisting constitutes processing of personal data and is therefore subject to the general data privacy principles set out in the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA). Thus, the law mandates that a data subject must be properly informed of the nature, purpose and extent of the processing of his or her personal data.[^2]
 
 Further, it is mandatory for an organization to clearly establish procedures that allow data subjects to exercise their right to access, rectification, erasure or blocking.
 
@@ -76,7 +76,7 @@ Very truly yours,
 Privacy Commissioner and Chairman
 
 [^1]: Article 29 of Directive 95/46/EC "Working document on Blacklists", Adopted on 3 October 2002, available at http://ec.europa.eu/justice/policies/privacy/docs/wpdocs/2002/wp65_en.pdf
-[^2]: IRR of RA 10173, §18(a)
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA 10173, §18(a)
 [^3]: AN ACT PROVIDING FOR MANDATORY BIOMETRICS VOTER REGISTRATION, 15 February 2013, §2(b)
 [^4]: R.A. No. 10367, §2(a)
 [^5]: Opinion 4/2007 on the concept of personal data, Adopted on 20th June 2007

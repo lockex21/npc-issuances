@@ -57,7 +57,7 @@ To clarify, Globe as a personal information controller, is required to register 
 
 Yes, processing of personal information of foreign nationals living in the Philippines falls under the scope of the DPA.
 
-Section 4 of the DPA states that the law "applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing including those personal information controllers and processors who, although not found or established in the Philippines, use equipment that are located in the Philippines, or those who maintain an office, branch or agency in the Philippines."
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] states that the law "applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing including those personal information controllers and processors who, although not found or established in the Philippines, use equipment that are located in the Philippines, or those who maintain an office, branch or agency in the Philippines."
 
 Based on such provision, it is clear that personal information controllers and processors processing information in the Philippines are covered by the law, regardless of the nationality of the data subjects.
 
@@ -73,7 +73,7 @@ The Commission has decided to process the registrations in two (2) phases. Phase
 
 #### 8. For an organization the size of Globe, what is the prescribed form of the Privacy Impact Assessment (PIA) report?
 
-Based on Section 20 of the DPA in determining the appropriate level of security to be implemented by the personal information controller, the following should be considered: nature of the personal information to be protected, the risks represented by the processing, size of the organization and complexity of operations, current data privacy best practices and the cost of security implementation.
+Based on [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 of the DPA]] in determining the appropriate level of security to be implemented by the personal information controller, the following should be considered: nature of the personal information to be protected, the risks represented by the processing, size of the organization and complexity of operations, current data privacy best practices and the cost of security implementation.
 
 Due to such considerations which vary from entity to entity, sector to sector, the Commission is not prescribing a particular format for the PIA report. The NPC will not restrict and limit the evaluation and assessment of the entities by requiring a specific format depending on the size of the organization, given that the organizational structure is only one of the factors to be considered the assessment.
 

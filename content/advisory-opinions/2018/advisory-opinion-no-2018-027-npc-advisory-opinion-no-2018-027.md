@@ -26,7 +26,7 @@ Re: PASIG CITY ORDINANCE NO. 11 "AN ORDINANCE REQUIRING THE REGISTRATION OF MIGR
 
 Dear [Redacted],
 
-This pertains to your request for advisory opinion from the National Privacy Commission (NPC) which sought to clarify whether Pasig City Ordinance No. 11[^1] (Ordinance) is compliant with Republic Act No. 10173,[^2] also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR) and relevant issuances of the NPC, and particularly respond to the following questions:
+This pertains to your request for advisory opinion from the National Privacy Commission (NPC) which sought to clarify whether Pasig City Ordinance No. 11[^1] (Ordinance) is compliant with [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^2] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and relevant issuances of the NPC, and particularly respond to the following questions:
 
 1. Whether or not the local government of Pasig City is compliant with the DPA vis-à-vis its ability to protect the information they are requesting;
 2. Whether or not a processor, Barangay Kapitolyo is compliant with the DPA; and

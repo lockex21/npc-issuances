@@ -27,7 +27,7 @@ Re: REQUEST FOR COMELEC TO COLLECT AND PUBLISH DATA ON WOMEN AND DIFFERENTLY-GEN
 
 Dear [Redacted],
 
-We write in response to your letter to the National Privacy Commission (NPC) which sought to clarify whether the collection of information regarding candidates' sexual orientation and gender identity and expression (SOGIE) by the Commission on Elections (COMELEC), to be anchored on the provisions of Republic Act No. 9710, known as the Magna Carta of Women, and the publication of the statistics relating thereto, is in accordance with Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA).
+We write in response to your letter to the National Privacy Commission (NPC) which sought to clarify whether the collection of information regarding candidates' sexual orientation and gender identity and expression (SOGIE) by the Commission on Elections (COMELEC), to be anchored on the provisions of Republic Act No. 9710, known as the Magna Carta of Women, and the publication of the statistics relating thereto, is in accordance with [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA).
 
 This is in relation to the 13 February 2018 letter from the Secretary General of the National Citizens' Movement for Free Elections (NAMFREL), which requested the COMELEC to collect data on the number of women and other differently-abled individual candidates and eventually elected, for each barangay, disaggregated by the type of election, and to publicize such information, for a better understanding of the political and electoral environment around these two elections.
 

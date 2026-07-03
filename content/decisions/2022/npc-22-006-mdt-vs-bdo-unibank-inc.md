@@ -139,7 +139,7 @@ Subsequently, BDO submitted its Compliance dated 09 August 2022 to the Resolutio
 
 ### Issue
 
-Whether BDO violated Section 26 (Accessing Personal Information and Sensitive Personal Information Due to Negligence) and Section 32 (Unauthorized Disclosure) of the DPA.
+Whether BDO violated Section 26 (Accessing Personal Information and Sensitive Personal Information Due to Negligence) and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].
 
 ### Discussion
 
@@ -165,7 +165,7 @@ Further, MDT failed to establish that the information provided by the caller ori
 
 Hence, based on the submitted pieces of evidence, MDT failed to establish by substantial evidence that BDO was negligent in protecting his personal information.
 
-#### I. BDO is not liable for Section 26 (Accessing Personal Information and Sensitive Personal Information Due to Negligence) of the DPA.
+#### I. BDO is not liable for [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Accessing Personal Information and Sensitive Personal Information Due to Negligence) of the DPA]].
 
 MDT alleged that BDO should be penalized for violating Section 26 of the DPA since BDO is the only one who should have access to his private information.[^91]
 
@@ -181,7 +181,7 @@ To be held liable under Section 26, the following requisites must be met:
 2. The access was not authorized under the DPA or any existing law; and
 3. The unauthorized access was due to the negligence of any person.[^93]
 
-The first element is present in this case since name, address, and contact number of MDT,[^94] are considered personal information. Section 3 (g) of the DPA defines personal information as:
+The first element is present in this case since name, address, and contact number of MDT,[^94] are considered personal information. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (g) of the DPA]] defines personal information as:
 
 > Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^95]
 
@@ -211,7 +211,7 @@ Section 32 of the DPA provides:
 >
 > (b) Any personal information controller or personal information processor or any of its officials, employees or agents, who discloses to a third party sensitive personal information not covered by the immediately preceding section without the consent of the data subject, shall be subject to imprisonment ranging from three (3) years to five (5) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00).[^99]
 
-The case of NPC 21-111, enumerated the requisites for violation Section 32 of the DPA:
+The case of [[decisions/2022/npc-21-111-eg-v-ji-ro-and-rr|NPC 21-111]], enumerated the requisites for violation Section 32 of the DPA:
 
 1. The perpetrator is a personal information controller or personal information processor or any of its officials, employees or agents;
 2. The information relates to personal or sensitive personal information;

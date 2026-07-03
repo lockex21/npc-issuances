@@ -49,11 +49,11 @@ ii) Are the proposed safeguards and features compliant with the DPA?
 
 #### Personal information; sensitive personal information; lawful basis; shared database of employees
 
-The DPA considers the name of an individual as personal information. Thus, the processing thereof must comply with the requirements of Section 12 of the DPA.
+The DPA considers the name of an individual as personal information. Thus, the processing thereof must comply with the requirements of [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]].
 
 On the other hand, an individual's date of birth is considered sensitive personal information. The same applies to data relating to an individual's commission of fraud or the fact that an individual is involved in an investigation for the possible commission of fraud.[^2]
 
-It must be noted that the data set intended to be shared includes sensitive personal information. As such, the entire data set may be treated as sensitive personal information and, thus, draw the basis for its processing under Section 13 of the DPA. In particular, Section 13 (f) on processing for the establishment of legal claims appears to be applicable, viz.:
+It must be noted that the data set intended to be shared includes sensitive personal information. As such, the entire data set may be treated as sensitive personal information and, thus, draw the basis for its processing under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]. In particular, Section 13 (f) on processing for the establishment of legal claims appears to be applicable, viz.:
 
 > SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
@@ -65,11 +65,11 @@ In BGM v. IPP, the National Privacy Commission (NPC) explained the nature of pro
 
 > In the case of NPC 17-018 dated 15 July 2019, this Commission held that "processing as necessary for the establishment of legal claims" does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of "establishment ... of legal claims" presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established."
 >
-> This Commission in the same case went on further and held that: The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is "necessary" or may or may not be collected by lawyers for purposes of building a case, applying the qualifier "necessary" to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of "establishment of legal claims" consistent with the general principles of legitimate purpose and proportionality. As regards legitimate purpose, the Implementing Rules and Regulations (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.
+> This Commission in the same case went on further and held that: The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is "necessary" or may or may not be collected by lawyers for purposes of building a case, applying the qualifier "necessary" to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of "establishment of legal claims" consistent with the general principles of legitimate purpose and proportionality. As regards legitimate purpose, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.
 >
 > Based on the foregoing, the disclosure to be made by the Respondent of the information of the recipient of Complainant's personal information, for purposes of identification of the person liable for the alleged fraud, sans the latter's consent, is necessary for the protection of the lawful rights and interests of the Complainant as contemplated by Section 13 (f) of the DPA.[^4]
 
-Relevant also to the Project is the concept of blacklisting as discussed in Advisory Opinion No. 2017-063, viz.:[^5]
+Relevant also to the Project is the concept of blacklisting as discussed in [[advisory-opinions/2017/advisory-opinion-no-2017-063-npc-advisoryopinionno-2017-063|Advisory Opinion No. 2017-063]], viz.:[^5]
 
 > As a generic approach, blacklists are databases that consist of collected specific information relating to a specific group of persons, which may generally imply adverse and prejudicial effects for the individuals included thereon and which may discriminate against a group of people by barring them access to a specific service or harming their reputation.
 >
@@ -120,7 +120,7 @@ Director IV, Privacy Policy Office
 
 [^3]: Data Privacy Act of 2012, § 13(f).
 
-[^4]: National Privacy Commission, BGM v. IPP [NPC 19-653] (Dec. 17, 2020).
+[^4]: National Privacy Commission, BGM v. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020).
 
 [^5]: National Privacy Commission, Advisory Opinion No. 2017-063 (Oct. 9, 2017) citing Article 29 of Directive 95/46/EC "Working document on Blacklists", Adopted on 3 October 2002 available at https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2002/wp65_en.pdf
 
@@ -138,4 +138,4 @@ Director IV, Privacy Policy Office
 
 [^12]: Id. § 20 (c).
 
-[^13]: NPC Advisory No. 2017-03, Guidelines on Privacy Impact Assessment, 31 July 2017.
+[^13]: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]], Guidelines on Privacy Impact Assessment, 31 July 2017.

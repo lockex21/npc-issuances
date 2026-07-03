@@ -39,11 +39,11 @@ You now seek clarification on the following issues:
 
 The data privacy principle of legitimate purpose requires that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals or public policy.[^3] The DPA explicitly provides the lawful criteria for processing of personal and sensitive personal information under Sections 12 and 13, respectively.
 
-In general, processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the conditions under Section 12 of the DPA are met.[^4] While verification or authentication of personal information submitted by an applicant as part of the pre-employment requirements may fall under Section 12 (b) of the DPA or Section 12 (f), said legal bases only apply to personal information and not sensitive personal information.
+In general, processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the conditions under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] are met.[^4] While verification or authentication of personal information submitted by an applicant as part of the pre-employment requirements may fall under Section 12 (b) of the DPA or Section 12 (f), said legal bases only apply to personal information and not sensitive personal information.
 
 It is worth emphasizing that the law delineates the differences in the treatment of the different types of personal data. Processing of sensitive personal information is generally prohibited unless any of the conditions provided by Section 13 are met.
 
-Dataflow verifies or authenticates documents on education and employment certificates, passports, practice licenses, among others. By their nature, these documents contain information that may be classified as sensitive personal information under Section 3 (l) of the DPA, such as information about an individual’s education or their government-issued identification numbers.
+Dataflow verifies or authenticates documents on education and employment certificates, passports, practice licenses, among others. By their nature, these documents contain information that may be classified as sensitive personal information under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]], such as information about an individual’s education or their government-issued identification numbers.
 
 Because of the limitation provided under Section 13, Dataflow would have to evaluate if the data processing involved in the verification would fall under any of the lawful criteria for processing under Section 13. Particularly in this scenario, the consent of the data subject and/or processing which is required by existing laws and regulations may be applicable.
 
@@ -65,7 +65,7 @@ From the attached sample letter of advice or letter of authorization, we note th
 
 Consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her.[^5] Consent shall be evidenced by written, electronic or recorded means.[^6]
 
-The DPA, its IRR and the issuances of the NPC do not require a particular format for the consent of the data subject. What matters is that the basic requirements of the law are clearly shown in the consent letter or letter of authorization, such that the data subject specifically agrees to the processing of his or her personal information for the purposes specified by the PIC.
+The DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and the issuances of the NPC do not require a particular format for the consent of the data subject. What matters is that the basic requirements of the law are clearly shown in the consent letter or letter of authorization, such that the data subject specifically agrees to the processing of his or her personal information for the purposes specified by the PIC.
 
 Regarding evidence of consent, the law only requires that consent is evidenced by written, electronic or recorded means. Digital signatures are thus acceptable.
 

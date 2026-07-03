@@ -72,7 +72,7 @@ Upon careful consideration of the submissions of both parties, the Commission ob
 
 Not all processing and disclosure of personal information, like Complainant's information in this case, are violations of the DPA. It allows lawful circumstances where personal information can be validly processed and disclosed notwithstanding the absence of consent.
 
-Section 12 of the DPA provides the criteria for lawful processing of personal information:
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] provides the criteria for lawful processing of personal information:
 
 > SEC. 12. The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -100,7 +100,7 @@ In this case, the legal obligation of Respondents arose from the *subpoena* issu
 
 The *subpoena* being required by the court and issued within its powers, created an obligation arising from law[^3] on the part of Respondents in this case. The *subpoena duces tecum* is, in all respects, like the ordinary *subpoena ad testificandum* which mandates the witness to bring with him and produce at the examination the books, documents, or things described in the *subpoena*.[^4] Like in this case, Respondents were required to submit a Certification[^5] containing all the details required in the *subpoena*. Ergo, Respondents cannot be faulted in processing the information because of its compliance with the aforementioned.
 
-Section 17 of the Implementing Rules and Regulations of the Data Privacy Act of 2012 (Rules) provides that:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-17-general-data-privacy-principles|Section 17 of the Implementing Rules and Regulations]] of the Data Privacy Act of 2012 (Rules) provides that:
 
 > The processing of personal data shall be allowed, subject to compliance with the requirements of the Act and other laws allowing disclosure of information to the public, and adherence to the principles of transparency, legitimate purpose, and proportionality.
 
@@ -155,6 +155,6 @@ National Privacy Commission
 [^3]: New Civil Code, Article 1157.
 [^4]: G.R. No. L-13463, H. C. LIEBENOW vs. THE PHILIPPINE VEGETABLE OIL COMPANY, November 9, 1918.
 [^5]: Respondent HQ's certification, which was submitted to the court, enumerates the following: a. Name of the driver: K.H.Q.; b. Vehicle type and plate number driven by K.H.Q.; c. Date of accreditation of K.H.Q. as HQ driver; d. Name of complainant as operator; and e. Breakdown of the number of rides, fares and incentives earned by K.H.Q. from January 2017 to January 2018.
-[^6]: Section 18 of the Implementing Rules and Regulations of the Data Privacy Act of 2012.
+[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 of the Implementing Rules and Regulations]] of the Data Privacy Act of 2012.
 [^7]: Section 18(c) of the Implementing Rules and Regulations of the Data Privacy Act of 2012.
-[^8]: NPC 17-047, Decision, National Privacy Commission.
+[^8]: [[decisions/2019/npc-17-047-jv-vs-jr|NPC 17-047]], Decision, National Privacy Commission.

@@ -56,7 +56,7 @@ On 11 May 2021, Bombardier submitted proof of notification to five (5) data subj
 
 The Commission resolves to deny the request of Bombardier for assistance and/or investigation.
 
-The responsibility of the PIC to investigate a security incident or a personal data breach follows the Accountability Principle provided in the Data Privacy Act:
+The responsibility of the PIC to investigate a security incident or a personal data breach follows the Accountability Principle provided in the [[laws/data-privacy-act-of-2012|Data Privacy Act]]:
 
 > **Section 21. Principle of Accountability.** – Each personal information controller is responsible for personal information under its control or custody, including information that have been transferred to a third party for processing, whether domestically or internationally, subject to cross-border arrangement and cooperation.
 

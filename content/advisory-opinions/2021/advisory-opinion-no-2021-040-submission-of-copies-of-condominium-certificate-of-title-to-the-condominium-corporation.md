@@ -24,7 +24,7 @@ Re: SUBMISSION OF COPIES OF CONDOMINIUM CERTIFICATE OF TITLE TO THE CONDOMINIUM 
 
 Dear [Redacted],
 
-We write in response to your letter received by the National Privacy Commission (NPC) which sought clarification on whether the Data Privacy Act of 2012[^2] (DPA) and its Implementing Rules and Regulations[^3] (IRR) allow a condominium corporation to request unit owners to submit copies of their Condominium Certificate of Title (CCT) and duplicate unit keys. If so permitted, you likewise ask about the minimum safeguards to be imposed as required by the DPA.
+We write in response to your letter received by the National Privacy Commission (NPC) which sought clarification on whether the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^3] (IRR) allow a condominium corporation to request unit owners to submit copies of their Condominium Certificate of Title (CCT) and duplicate unit keys. If so permitted, you likewise ask about the minimum safeguards to be imposed as required by the DPA.
 
 We understand from your letter that your client, Perla Condominium Corporation (PCC), is the condominium corporation managing the affairs of Perla Mansion. We further understand that the Master Deed of PCC provides that the amount of any assessment against a unit owner, including association dues, interest due in case of delinquency, costs of collection and/or suit including attorney's fees and penalties for delinquency shall constitute a lien on the unit. The Master Deed further allows PCC to validly foreclose on the unit as if a mortgage has been executed on it.
 
@@ -90,6 +90,6 @@ OIC-Director IV, Privacy Policy Office
 [^5]: Data Privacy Act of 2012, § 3 (c).
 [^6]: Ibid.
 [^7]: Id. § 13 (a).
-[^8]: National Privacy Commission, BGM vs. IPP [NPC 19-653] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
+[^8]: National Privacy Commission, BGM vs. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
 [^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c).
 [^10]: Ibid.

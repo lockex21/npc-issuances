@@ -98,7 +98,7 @@ Whether AdZU conducted proper breach management, including the implementation of
 
 The Commission finds that AdZU conducted proper breach management and implemented reasonable and appropriate security measures in addressing the breach. The Commission resolves to close the matter.
 
-Section 20 (a) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) provides that a Personal Information Controller (PIC) should implement reasonable and appropriate measures to protect personal information:
+Section 20 (a) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA) provides that a Personal Information Controller (PIC) should implement reasonable and appropriate measures to protect personal information:
 
 > Section 20. Security of Personal Information -
 >

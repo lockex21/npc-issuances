@@ -24,7 +24,7 @@ Dear [Redacted],
 
 This is with regard to your inquiry received by the National Privacy Commission (NPC) on 1 March 2017, on the following matters:
 
-1. What does the following opening paragraph of Section 5 of the IRR mean? How do we interpret or implement this?
+1. What does the following opening paragraph of [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the IRR]] mean? How do we interpret or implement this?
 
    "Section 5. Special Cases. The Act and these Rules shall not apply to the following specified information, *only to the minimum extent* of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:"
 
@@ -88,7 +88,7 @@ The processing of sensitive personal information? is prohibited except in the fo
 
 (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 
-From the foregoing, we believe that PDIC's processing of sensitive personal information, which may include the publication of reports containing the same, is allowed under Section 13(b) of the DPA above, i.e. the processing of the same is provided for by existing laws and regulations, and the processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or when provided to government or public authority, respectively.
+From the foregoing, we believe that PDIC's processing of sensitive personal information, which may include the publication of reports containing the same, is allowed under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(b) of the DPA]] above, i.e. the processing of the same is provided for by existing laws and regulations, and the processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or when provided to government or public authority, respectively.
 
 If it is within the mandate of the PDIC to publish reports on cases or complaints filed by the PDIC in order to inform the public, the DPA will not operate to hinder the said mandate.
 
@@ -100,7 +100,7 @@ Data sharing is the disclosure or transfer to a third party of personal data und
 
 A data sharing agreement refers to a contract, joint issuance, or any similar document that contains the terms and conditions of a data sharing arrangement between two or more parties.[^5]
 
-It is possible that directives from government agencies performing regulatory functions will be covered by the data sharing provisions of the IRR and NPC Circular No. 16-02 on data sharing agreements involving government agencies.
+It is possible that directives from government agencies performing regulatory functions will be covered by the data sharing provisions of the IRR and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] on data sharing agreements involving government agencies.
 
 However, for a better understanding of the facts, it may be advisable to provide us with additional information on the specific directives and government agencies involved in the sharing of personal data.
 

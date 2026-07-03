@@ -66,7 +66,7 @@ On 21 October 2019, RPR emailed his reply to Edukasyon.ph's responsive comment.[
 
 The Commission directs Edukasyon.ph to notify the participants of the online conference since their names and email addresses were exposed to the other participants as a result of the thank you letter that Edukasyon.ph sent by email.
 
-A Personal Information Controller (PIC), such as Edukasyon.ph, should implement reasonable and appropriate organizational, physical, and technical measures to protect the personal information of its data subjects.[^19] Section 20 (a) of the DPA provides:
+A Personal Information Controller (PIC), such as Edukasyon.ph, should implement reasonable and appropriate organizational, physical, and technical measures to protect the personal information of its data subjects.[^19] [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) of the DPA]] provides:
 
 > Section 20. Security of Personal Information. – (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.
 >
@@ -76,7 +76,7 @@ A Personal Information Controller (PIC), such as Edukasyon.ph, should implement 
 > (1) Safeguards to protect its computer network against accidental, unlawful or unauthorized usage or interference with or hindering of their functioning or availability;
 > (2) A security policy with respect to the processing of personal information[.][^20]
 
-Section 25 of the Implementing Rules and Regulations elaborates on the PIC's obligation to implement these measures:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Section 25 of the Implementing Rules and Regulations]] elaborates on the PIC's obligation to implement these measures:
 
 > Section 25. Data Privacy and Security. Personal information controllers and personal information processors shall implement reasonable and appropriate organizational, physical, and technical security measures for the protection of personal data.
 >

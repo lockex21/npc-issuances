@@ -40,7 +40,7 @@ We write in response to your letter requesting the National Privacy Commission (
 
 We would like to clarify that NPC is not mandated to grant permission, nor compel any institution to allow any request of a researcher when using clinical data. A researcher must comply with the requirements of applicable laws, regulations, or ethical standards for research.[^2]
 
-The Data Privacy Act of 2012[^3] (DPA) applies only to the processing of personal data.[^4] Statistical, aggregate, or anonymous data are no longer in the purview of the law.
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^3] (DPA) applies only to the processing of personal data.[^4] Statistical, aggregate, or anonymous data are no longer in the purview of the law.
 
 With this, you may consider requesting for the abovementioned clinical data from the OLLH sans all information that may lead to the identity of the patient. If there is a need for any personal data of the patient, it is best to obtain consent. Lastly, it is recommended that you submit your research protocol to a recognized research ethics committee/ethics review board to ensure that ethical standards are observed.
 

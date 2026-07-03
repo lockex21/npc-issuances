@@ -58,7 +58,7 @@ Sometime in January 2021, RTB brought the issue to EWBC's attention and stated t
 
 EWBC conducted an internal investigation and determined that its branch personnel inadvertently failed to deposit RTB's post-dated check designated for the payment due on 28 December 2020.[^8] EWBC's inaction resulted in the system's classification of RTB's account as past due and consequently, the referral of the account to its third-party collection agency for collection.[^9]
 
-On 25 May 2021, RTB filed a Complaint dated 14 May 2021 against EWBC.[^10] He alleges that EWBC processed and disclosed his personal information to third-party collection agents.[^11] He argues that EWBC violated Section 25 (Unauthorized Processing), Section 26 (Access due to Negligence), Section 28 (Processing for Unauthorized Purpose), and Section 32 (Unauthorized Disclosure) of the DPA.[^12] He prays for damages, issuance of a fine against EWBC, and a waiver of the outstanding balance of the car loan.[^13]
+On 25 May 2021, RTB filed a Complaint dated 14 May 2021 against EWBC.[^10] He alleges that EWBC processed and disclosed his personal information to third-party collection agents.[^11] He argues that EWBC violated Section 25 (Unauthorized Processing), Section 26 (Access due to Negligence), Section 28 (Processing for Unauthorized Purpose), and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].[^12] He prays for damages, issuance of a fine against EWBC, and a waiver of the outstanding balance of the car loan.[^13]
 
 On 24 June 2021, the Commission issued an Order directing EWBC to file a verified comment within fifteen (15) calendar days from receipt of this Order.[^14]
 
@@ -80,7 +80,7 @@ Whether EWBC has a lawful basis to process RTB's personal information, particula
 
 ### Discussion
 
-EWBC has lawful basis to process RTB's personal information under Section 12 (b) of the DPA, which provides:
+EWBC has lawful basis to process RTB's personal information under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (b) of the DPA]], which provides:
 
 > Section 12. *Criteria for Lawful Processing of Personal Information.* – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -100,7 +100,7 @@ For this reason, EWBC's act of processing RTB's personal information is necessar
 
 The existence of a lawful basis to process personal information must be properly applied based on the factual conditions of the case. Here, EWBC was remiss in its obligation as a Personal Information Controller (PIC) despite the lawful criterion to process based on the fulfillment of a contract. More so, it failed to exercise extraordinary diligence as is expected from a banking institution.[^31]
 
-Section 11 of the DPA requires PICs, such as EWBC, to ensure that the personal information of the data subject is kept up to date:
+[[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] requires PICs, such as EWBC, to ensure that the personal information of the data subject is kept up to date:
 
 > Section 11. *General Data Privacy Principles.* The processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.
 >
@@ -118,7 +118,7 @@ EWBC was sorely remiss in its duty to exercise the diligence required from it as
 
 Nonetheless, EWBC's carelessness is insufficient to warrant a recommendation for its prosecution. After all, EWBC's processing of RTB's personal information is still based on a lawful basis to process under Section 12 (b) of the DPA.
 
-EWBC's actions and consequently, the third-party collection agency's inaccurate use of RTB's personal information, however, justify an award of nominal damages. Section 16 (f) of the DPA provides:
+EWBC's actions and consequently, the third-party collection agency's inaccurate use of RTB's personal information, however, justify an award of nominal damages. [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (f) of the DPA]] provides:
 
 > Section 16. *Rights of the Data Subject.* The data subject is entitled to:
 >

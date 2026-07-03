@@ -24,7 +24,7 @@ Re: PPP CENTER PRIVACY MANUAL
 
 Dear [Redacted],
 
-We write in response to your letter request received by the National Privacy Commission (NPC) for the review of the Public-Private Partnership Center's (PPP Center) Privacy Manual in relation to its compliance with the Data Privacy Act of 2012 (DPA)[^1] and its Implementing Rules and Regulations (IRR).[^2] A copy of the draft Privacy Manual provided is attached herewith as Annex "A."
+We write in response to your letter request received by the National Privacy Commission (NPC) for the review of the Public-Private Partnership Center's (PPP Center) Privacy Manual in relation to its compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^1] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).[^2] A copy of the draft Privacy Manual provided is attached herewith as Annex "A."
 
 ### Discussion
 
@@ -152,7 +152,7 @@ We reiterate that there are lawful processing activities that is not based on co
 
 As stated in the form, it may be submitted via fax, courier or hard copy mail.
 
-Please note that pursuant to Section 28 of NPC Circular No. 16-01 - Security of Personal Data in Government Agencies, facsimile technology shall not be used for transmitting documents containing personal data. Hence, the PPP Center should consider revising the method of transmitting Annex 2.
+Please note that pursuant to Section 28 of [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] - Security of Personal Data in Government Agencies, facsimile technology shall not be used for transmitting documents containing personal data. Hence, the PPP Center should consider revising the method of transmitting Annex 2.
 
 Also, the terms "Data Privacy Officer" and "Data Protection Officer" were used in this form. Please choose the appropriate nomenclature and be consistent in all documentation.
 

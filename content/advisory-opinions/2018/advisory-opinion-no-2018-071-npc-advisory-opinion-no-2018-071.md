@@ -44,7 +44,7 @@ Disclosure of school records may not be warranted in this case due to the absenc
 
 #### Processing of personal information by law enforcement agencies
 
-Section 5 of the IRR provides that the DPA does not apply to certain categories of personal information, including those that are necessary to carry out the functions of public authority, in accordance with a constitutionally or statutorily mandated function pertaining to law enforcement or regulatory function. This exemption, however, is only to the minimum extent of collection, access, use, disclosure, or other processing necessary to the purpose, function, or activity concerned.
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the IRR]] provides that the DPA does not apply to certain categories of personal information, including those that are necessary to carry out the functions of public authority, in accordance with a constitutionally or statutorily mandated function pertaining to law enforcement or regulatory function. This exemption, however, is only to the minimum extent of collection, access, use, disclosure, or other processing necessary to the purpose, function, or activity concerned.
 
 For the exclusion to apply, the personal information processed by public authorities must be necessary to carry out their function as a law enforcement agency or regulatory body, and that such processing is in accordance with their constitutional or statutory mandate.
 
@@ -54,7 +54,7 @@ Thus, it is fundamentally an investigative agency rather than a law enforcement 
 
 #### Constitutional guarantee against unreasonable search and seizure
 
-Even if the NBI is acting as a law enforcement agency, the exemptions provided in Section 4 of the DPA (Section 5 of the IRR) apply only to the extent necessary to fulfill its statutory functions, based on the presumed public interest in the processing of these categories of information.
+Even if the NBI is acting as a law enforcement agency, the exemptions provided in [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] (Section 5 of the IRR) apply only to the extent necessary to fulfill its statutory functions, based on the presumed public interest in the processing of these categories of information.
 
 The phrase, “necessary for law enforcement purposes” is not a weapon that can be indiscriminately wielded by any agency that invokes it. The law enforcement agency must establish its mandate to enforce a particular law, and more importantly, that they are not unreasonably infringing on the rights of individuals guaranteed by the Constitution. Failure to establish both grounds renders the processing unnecessary and contrary to law.
 

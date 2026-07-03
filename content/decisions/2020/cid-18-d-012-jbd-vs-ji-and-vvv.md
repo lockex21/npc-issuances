@@ -117,7 +117,7 @@ The Commission is likewise bound to dispose of cases according to its Rules of P
 
 Respondent JI was given multiple opportunities to present her position against the Complaint. The Commission emphasizes that any party to a Complaint lodged in the Commission cannot refuse to accept any of its lawful Orders that were properly served to the correct address.
 
-#### Respondent JI Committed Unauthorized Processing Under Section 25 of the DPA.
+#### Respondent JI Committed Unauthorized Processing Under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].
 
 In his Complaint, Complainant argues that his SSS personal information was disclosed by Respondent VVV to PRC without his consent and for unauthorized purposes. He asserts that the contents of his SSS personal data were not authorized and authenticated by the organization since the annexes are pictures only from a personal computer of a certain individual who has access to the SSS data portal. He also alleges that he gave no consent for Respondents to acquire the sensitive personal information they presented as evidence in the PRC case.[^9] He prays for moral damages for the anxiety, sleepless nights, and extreme emotional pain that this caused.[^10]
 
@@ -193,7 +193,7 @@ The Complainant asserts that he has "given no consent and authorization to the r
 
 The fact that Complainant did not give his consent is not disputed by Respondent VVV, and Respondent JI did not participate nor did she submit anything to the contrary. The DPA also provides for lawful criteria other than consent to process personal information. For the subject personal and sensitive personal information in this case, the lawful criteria are found under Section 12[^19] and 13[^20] of the law.
 
-Respondent VVV particularly asserts that the attachment of Complainant's SSS Employment History and Actual Claims is justified under the lawful criteria of Section 13 (f) of the DPA which allows the processing if such "concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority."
+Respondent VVV particularly asserts that the attachment of Complainant's SSS Employment History and Actual Claims is justified under the lawful criteria of [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] which allows the processing if such "concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority."
 
 In the Rejoinder, Respondent VVV asserts thus:
 
@@ -222,7 +222,7 @@ The NPC has already ruled in a previous case that the processing of personal and
 
 > The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is "necessary" or may or may not be collected by lawyers for purposes of building a case, applying the qualifier "necessary" to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of "establishment of legal claims" consistent with the general principles of legitimate purpose and proportionality.
 >
-> As regards legitimate purpose, the Implementing Rules and Regulations (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy.[^22] **This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law.**[^23]
+> As regards legitimate purpose, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy.[^22] **This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law.**[^23]
 
 It has been clearly established that Respondent JI processed the personal data of Complainant when she caused the inclusion of Complainant's SSS Employment History and Actual Premiums in her Verified Position Paper for an ongoing PRC case. It is undisputed that this was done without the consent of Complainant, and Respondent JI cannot rely on Section 13(f) of the DPA as her lawful criterion to process the information from the SSS because such provision contemplates processing activities that are still within the limits of the law. Such is not the case here, considering the findings of the SSS Special Investigation Department – Investigation and Research Section.
 

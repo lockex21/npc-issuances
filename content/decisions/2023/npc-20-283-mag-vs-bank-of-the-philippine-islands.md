@@ -66,7 +66,7 @@ Thereafter, MAG received her BPI Statement of Account through email and the four
 
 MAG explained that prior to the call, she inquired with BPI's Hotline and talked to a bank officer seeking assistance on how to manage her bills and for the cancellation of her expired credit card.[^20] She narrated that the bank officer told her that she will be receiving a call from another bank officer in the coming days.[^21] She further explained that she received a call a few days later from a BPI bank officer who explained her possible payment options.[^22] MAG, however, could not decide which payment scheme to choose and told the bank officer that she would call the BPI Hotline once she has made up her mind.[^23] Thus, MAG contends that when the alleged fraudster called her and identified himself as a bank officer from BPI, she thought the call was legitimate.[^24]
 
-On 22 September 2020, MAG filed a complaint against BPI before the National Privacy Commission (NPC).[^25] She alleged that BPI violated Section 32 (Unauthorized Disclosure) of the DPA and prayed for the payment of damages, imposition of fines, and for BPI to write off the billed transactions on her credit card.[^26]
+On 22 September 2020, MAG filed a complaint against BPI before the National Privacy Commission (NPC).[^25] She alleged that BPI violated [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]] and prayed for the payment of damages, imposition of fines, and for BPI to write off the billed transactions on her credit card.[^26]
 
 On 07 December 2020, the NPC, through its Complaints and Investigation Division (CID), directed the parties to Confer for Discovery.[^27]
 
@@ -131,7 +131,7 @@ In her Memorandum, MAG stated that BPI, as a Personal Information Controller (PI
 
 MAG alleged that BPI was negligent in holding and storing personal information of its data subjects because how else would the alleged fraudster know that she is a BPI credit card holder and all her other personal information.[^71] She stated that there is clearly a breach of confidentiality and privacy on the part of BPI.[^72] She further alleged that "all surrounding circumstances also give doubt as to the security measures practiced and applied by BPI with regard to the protection of the personal information of their Data Subjects."[^73] MAG stated that when she filed a dispute with BPI, she was only "given an option on how to pay the unauthorized purchases, no more no less."[^74]
 
-Thus, according to MAG, BPI should be accountable for the negligence in holding and storing her personal information.[^75] She prayed that BPI be held liable under Section 26 (b) of the DPA.[^76] She further prayed for the reversal of the credit card charges, moral damages, and exemplary damages.[^77]
+Thus, according to MAG, BPI should be accountable for the negligence in holding and storing her personal information.[^75] She prayed that BPI be held liable under [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (b) of the DPA]].[^76] She further prayed for the reversal of the credit card charges, moral damages, and exemplary damages.[^77]
 
 To substantiate her allegations, she submitted the (1) printed screenshot of the call log,[^78] (2) printed screenshots of the BPI OTP,[^79] (3) email thread between BPI and her,[^80] (4) email thread between Shopee and her,[^81] (5) email thread between Lazada and her,[^82] (6) BPI Statement of Account,[^83] (7) BPI Cardholders' Statement of Disputed Item,[^84] and (8) NPC Complaints Assisted Form.[^85]
 
@@ -336,5 +336,5 @@ National Privacy Commission
 [^113]: Complaints-Assisted Form, 22 September 2020, at Annex C, in MAG v. Bank of the Philippine Islands, NPC 20-283 (NPC 2020).
 [^114]: Comment, dated 03 September 2021, at 9, in MAG v. Bank of the Philippine Islands, NPC 20-283 (NPC 2021).
 [^115]: Complaints-Assisted Form, 22 September 2020, at Annex C, in MAG v. Bank of the Philippine Islands, NPC 20-283 (NPC 2020).
-[^116]: EDF v. BPI, NPC 21-016, 17 March 2022, at 10, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-21-016-2022.03.17-EDF-v.-BPI-Decision-1.pdf (last accessed on 21 September 2023).
+[^116]: EDF v. BPI, [[decisions/2022/npc-21-016-edf-v-bpi|NPC 21-016]], 17 March 2022, at 10, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-21-016-2022.03.17-EDF-v.-BPI-Decision-1.pdf (last accessed on 21 September 2023).
 [^117]: Id.

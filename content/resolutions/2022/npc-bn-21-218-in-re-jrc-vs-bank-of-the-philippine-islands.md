@@ -23,7 +23,7 @@ draft: false
 - Pages: 5
 
 ## Source Tags
-- Sec (E) (3) Implementing Rules and Regulations of the Data Privacy Act 2012
+- Sec (E) (3) [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act]] 2012
 
 ## Resolution Text
 

@@ -38,9 +38,9 @@ The BIR cited Section 5(B) of the National Internal Revenue Code (Tax Code) as b
 
 ### Discussion
 
-Republic Act No. 10173,[^1] known as the Data Privacy Act of 2012 (DPA), provides the criterion for lawful processing of personal information under Section 12(e), *i.e.* that the processing is necessary in order to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.
+[[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] known as the Data Privacy Act of 2012 (DPA), provides the criterion for lawful processing of personal information under Section 12(e), *i.e.* that the processing is necessary in order to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.
 
-The Implementing Rules and Regulations (IRR) of the DPA defines a public authority as any government entity created by the Constitution or law and vested with law enforcement or regulatory authority and functions.[^2]
+The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the DPA defines a public authority as any government entity created by the Constitution or law and vested with law enforcement or regulatory authority and functions.[^2]
 
 The BIR is a public authority. Its powers and duties shall comprehend the assessment and collection of all national internal revenue taxes, fees, and charges, and the enforcement of all forfeitures, penalties, and fines connected therewith, including the execution of judgments in all cases decided in its favor by the Court of Tax Appeals and the ordinary courts.[^3] The BIR shall give effect to and administer the supervisory and police powers conferred to it by the Tax Code or other laws.[^4]
 

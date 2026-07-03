@@ -124,9 +124,9 @@ regulations, the Commission abides by the ruling of the Supreme Court in Disini,
 Secretary of Justice and thus, treats unsolicited commercial communications as legitimate forms
 of free expression.
 
-The Data Privacy Act of 2012[^7] (DPA) was enacted to protect the processing of individuals’
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^7] (DPA) was enacted to protect the processing of individuals’
 personal data and requires that the processing shall be in made in accordance with its
-provisions, its Implementing Rules and Regulations and other existing laws, rules and
+provisions, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] and other existing laws, rules and
 regulations. It does not prohibit unsolicited commercial communications per se, rather, it sets
 the limit and reasonable guidance how these may be made while protecting the data privacy
 rights of individuals.

@@ -80,7 +80,7 @@ However, we note that CCT numbers can only be regarded as personal information i
 certificate of title, in its entirety, is considered. This is the only time that a CCT number can be
 correlated with the name of the registered owner, a natural person, and therefore, indirectly
 identify such person. Under this context, the lawful processing of personal information shall have
-basis under Section 12 (f) of the DPA:
+basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]]:
 
    “SECTION 12. Criteria for Lawful processing of Personal Information. – The processing of personal
    information shall be permitted only if not otherwise prohibited by law, and when at least one of the
@@ -97,7 +97,7 @@ The disclosure of the requested documents and CCT numbers are necessary in order
 establish its legal claims for unpaid dues and other assessments against the unit owners
 concerned.
 
-Given the current scenario, Section 13(f) of the DPA may be applicable:
+Given the current scenario, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]] may be applicable:
 
    “SECTION 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive
    personal information and privileged information shall be prohibited, except in the following cases:
@@ -124,7 +124,7 @@ case of BGM v. IPP[^3]:
    for purposes of building a case, applying the qualifier “necessary” to the second instance in Section
    13(f) therefore, serves to limit the potentially broad concept of “establishment of legal claims”
    consistent with the general principles of legitimate purpose and proportionality. As regards
-   legitimate purpose, the Implementing Rules and Regulations (IRR) of the Data Privacy Act provides
+   legitimate purpose, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides
    that the processing of information shall be compatible with a declared and specified purpose which
    must not be contrary to law, morals, or public policy. This means that the processing done for the
    establishment of a legal claim should not in any manner be outside the limitations provided by law.
@@ -134,8 +134,7 @@ case of BGM v. IPP[^3]:
 https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
 
 In the same case, the Commission had the occasion to explain that the protection of lawful rights and
-interests under Section 13 (f) of the DPA is considered as legitimate interest pursuant to Section 12 (f) of
-the DPA:
+interests under Section 13 (f) of the DPA is considered as legitimate interest pursuant to Section 12 (f) of the DPA:
 
    “Based on the foregoing, the disclosure to be made by the Respondent of the information of the
     recipient of Complainant’s personal information, for purposes of identification of the person
@@ -178,7 +177,7 @@ not be subject to abuse. As we stated in Advisory Opinion No. 2022-05:[^4]
     legal action falls under the legitimate interests of the requesting party, the system must
     assess the request if it satisfies the three aforementioned tests. It must also provide for a
     mechanism to ensure that the information to be disclosed will only be used for the
-    purpose/s indicated. In Advisory Opinion No. 2021-044, it was recommended that in
+    purpose/s indicated. In [[advisory-opinions/2021/advisory-opinion-no-2021-044-npc-advisory-opinion-no-2021-044|Advisory Opinion No. 2021-044]], it was recommended that in
     case a request for personal information is granted, the requesting party should be
     required to sign an undertaking that the information will only be used for the purpose
 
@@ -298,11 +297,11 @@ Director IV, Privacy Policy Office
 
 [^1]: Tags: lawful processing; legal claims; contractual obligation; condominium corporation.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4 (2012).
-[^3]: National Privacy Commission, BGM v. IPP [NPC 19-653] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
+[^3]: National Privacy Commission, BGM v. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
 [^4]: NPC Advisory Opinion No. 2022-05, 24 February 2022.
 [^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016), § 18 (c).
 [^6]: Data Privacy Act of 2012, § 3(g).
 [^7]: Section 6 of the TICC By-Laws, as provided in the letter request of Duran & Duran-Schulze Law.
-[^8]: NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015, 03 February 2022, page 7.
+[^8]: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010]], NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015, 03 February 2022, page 7.
 [^9]: Data Privacy Act of 2012, § 11 (d).
 [^10]: NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015, 03 February 2022, page 8.

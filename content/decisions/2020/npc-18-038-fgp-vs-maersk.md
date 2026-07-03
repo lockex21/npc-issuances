@@ -72,7 +72,7 @@ After two (2) motions for extension of time to file its Responsive Comment, Resp
 
 ### Arguments of the Parties
 
-In their Comment, Respondent asserts that the Complaint should be dismissed on the ground of Complainant's failure to file the same within the proper reglementary period, citing NPC Circular No. 16-04 or the NPC Rules of Procedure ("Rules"):
+In their Comment, Respondent asserts that the Complaint should be dismissed on the ground of Complainant's failure to file the same within the proper reglementary period, citing [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] or the NPC Rules of Procedure ("Rules"):
 
 > Section 4. Exhaustion of remedies. No complaint shall be entertained unless:
 >
@@ -89,7 +89,7 @@ Respondent points out that Complainant's last communication with them was throug
 > 9. Notably, this Honorable Office may waive this requirement for the filing period of the Complaint, but ONLY IF:
 >
 > (1) Good cause is shown by the complainant; or
-> (2) The complaint involves a serious violation of the Data Privacy Act.
+> (2) The complaint involves a serious violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act]].
 >
 > In either instance, this Honorable office must take into account "the risk of harm to the affected data subject."
 >

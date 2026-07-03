@@ -103,7 +103,7 @@ Respondent filed a Manifestation dated 07 September 2021 stating that she could 
 
 On 21 September 2021, the Commission received a Motion for Extension of Time to File Memoranda from Complainant.[^33] The Commission thereafter issued a Resolution (on the Motion for Extension of Time to File Memoranda) granting Complainant's Motion for Extension of Time to File Memoranda and giving the parties seven calendar days counted from the first day of shifting to a lower alert level of GCQ or lenient community quarantine, whichever is earlier.[^34]
 
-Complainant submitted a Memorandum dated 25 October 2021.[^35] Complainant, in her Memorandum, argued that (i) the CCTV footage involves personal data under the DPA, NPC Advisory Opinion No. 2018-080, and NPC Advisory No. 2020-04, (ii) Respondent's act of capturing video footage beyond Respondent's property violates the criteria for lawful processing of personal information and the legitimate interest test under NPC Advisory Opinion No. 2020-039 and does not fall under the exemptions provided under NPC Advisory No. 2020-04, (iii) the capturing of the video footage violates the principle of proportionality under NPC Advisory No. 2020-04, (iv) the placement of the CCTV camera focuses on an area where there is a heightened expectation of privacy, (v) Respondent, as a personal information controller (PIC), did not comply with the NPC requirements on preserving the quality and integrity of data under NPC Advisory No. 2020-04, and (vi) that Respondent committed unauthorized processing of personal information, and processing of personal information for unauthorized purposes.[^36]
+Complainant submitted a Memorandum dated 25 October 2021.[^35] Complainant, in her Memorandum, argued that (i) the CCTV footage involves personal data under the DPA, [[advisory-opinions/2018/advisory-opinion-no-2018-080-npc-advisory-opinion-no-2018-080|NPC Advisory Opinion No. 2018-080]], and [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|NPC Advisory No. 2020-04]], (ii) Respondent's act of capturing video footage beyond Respondent's property violates the criteria for lawful processing of personal information and the legitimate interest test under [[advisory-opinions/2020/advisory-opinion-no-2020-039-redacted-advisory-opinion-no-2020-039-2|NPC Advisory Opinion No. 2020-039]] and does not fall under the exemptions provided under NPC Advisory No. 2020-04, (iii) the capturing of the video footage violates the principle of proportionality under NPC Advisory No. 2020-04, (iv) the placement of the CCTV camera focuses on an area where there is a heightened expectation of privacy, (v) Respondent, as a personal information controller (PIC), did not comply with the NPC requirements on preserving the quality and integrity of data under NPC Advisory No. 2020-04, and (vi) that Respondent committed unauthorized processing of personal information, and processing of personal information for unauthorized purposes.[^36]
 
 In alleging that the CCTV footage involves personal data under the DPA, Complainant cited the DPA and other NPC issuances as her bases in arguing that the CCTV footage is considered as personal information, *to wit*:
 
@@ -123,9 +123,9 @@ In NPC Advisory No. 2020-04, the Commission further stated that:
 
 xxx
 
-C. The capture, use, retention, and destruction of video and/or audio footages obtained from CCTVs are considered as processing of personal data under the Data Privacy Act of 2012 (DPA). Those who process personal data through CCTV systems, whether as PICs or PIPs shall comply with the Data Privacy Act of 2012, its Implementing Rules and Regulations (IRR) and relevant issuances of the National Privacy Commission (NPC).[^37]
+C. The capture, use, retention, and destruction of video and/or audio footages obtained from CCTVs are considered as processing of personal data under the Data Privacy Act of 2012 (DPA). Those who process personal data through CCTV systems, whether as PICs or PIPs shall comply with the Data Privacy Act of 2012, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and relevant issuances of the National Privacy Commission (NPC).[^37]
 
-Respondent submitted a Memorandum dated 21 October 2021, arguing that (i) the Commission lacks jurisdiction over the case, citing Sections 4 and 12 of NPC Circular No. 16-04, (ii) that the processing of data is allowed under Section 12 (f) and 13 (f) since the CCTV footage was used in mediation proceedings before the Barangay Lupon of Sun Valley, Paranaque, and (iii) that Respondent is not a PIC under Section 3 (G) of NPC Advisory No. 2020-04 which excludes an individual who collects, holds, processes or uses personal information in connection with the individual's personal, family or household affairs.[^38]
+Respondent submitted a Memorandum dated 21 October 2021, arguing that (i) the Commission lacks jurisdiction over the case, citing Sections 4 and 12 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]], (ii) that the processing of data is allowed under Section 12 (f) and 13 (f) since the CCTV footage was used in mediation proceedings before the Barangay Lupon of Sun Valley, Paranaque, and (iii) that Respondent is not a PIC under Section 3 (G) of NPC Advisory No. 2020-04 which excludes an individual who collects, holds, processes or uses personal information in connection with the individual's personal, family or household affairs.[^38]
 
 On 20 July 2022, Complainant submitted additional evidence in the form of videos, which, as explained in the email accompanying the videos, allegedly were CCTV footages captured by Respondent wherein the interior of Complainant's property is captured.[^39]
 
@@ -135,7 +135,7 @@ Complainant stated that these footages were obtained by her due to the fact that
 
 I. Whether the case should be outrightly dismissed for failure of the Complainant to exhaust administrative remedies; and
 
-II. Whether Respondent is liable for violating Sections 25 (Unauthorized Processing), Section 28 (Processing for Unauthorized Purposes), and/or Section 31 (Malicious Disclosure) of the DPA.
+II. Whether Respondent is liable for violating Sections 25 (Unauthorized Processing), Section 28 (Processing for Unauthorized Purposes), and/or [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 (Malicious Disclosure) of the DPA]].
 
 ### Discussion
 
@@ -143,7 +143,7 @@ The Commission dismisses the complaint on the ground of lack of merit.
 
 #### I. The instant case should not be dismissed outright despite Complainant's failure to exhaust administrative remedies.
 
-The Complainant filed his complaint prior to the effectivity of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure), thus, the applicable procedural rules at the time of its filing, which was on 05 December 2019, is NPC Circular 16-04 or the 2016 NPC Rules of Procedure.[^41]
+The Complainant filed his complaint prior to the effectivity of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure), thus, the applicable procedural rules at the time of its filing, which was on 05 December 2019, is NPC Circular 16-04 or the 2016 NPC Rules of Procedure.[^41]
 
 Section 4, Rule II of NPC Circular No. 16-04 (2016 NPC Rules of Procedure) provides:
 
@@ -169,7 +169,7 @@ In this case, it is alleged that Respondent has a recording of Complainant talki
 
 Considering that the subject video has allegedly already been shown by Respondent to the *Lupong Tagapamayapa*, that the Complainant and Respondent are already at odds with one another as both parties escalated their issues involving CCTVs they have respectively installed on their property, and that the complaint involves serious violations of the DPA, the Commission finds it appropriate to exercise its authority to resolve the case on the merits.
 
-#### II. Respondent did not commit Unauthorized Processing of Complainant's Personal Information as defined under Section 25 (a) of the DPA.
+#### II. Respondent did not commit Unauthorized Processing of Complainant's Personal Information as defined under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (a) of the DPA]].
 
 To reiterate, Complainant stated in her CAF that Respondent's CCTV cameras filmed her talking to Respondent's mother, and then walking from the front of Respondent's gate towards Complainant's garage and front door on 23 December 2017 from 3:00-4:30 p.m.[^50] Moreover, this footage was allegedly shown before the Office of the *Lupong Tagapamayapa* last April or May 2019.[^51]
 
@@ -187,7 +187,7 @@ To be held liable under Section 25 (a) of the DPA, the following requisites must
 2. That the information processed was personal information.
 3. That the processing was done without the consent of the data subject, or without authority under this Act or any existing law.[^55]
 
-As to the first requisite, Section 3 (j) of the DPA defines processing as "any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data."[^56]
+As to the first requisite, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (j) of the DPA]] defines processing as "any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data."[^56]
 
 A data subject is defined under Section 3 (c) of the DPA as "an individual whose personal information is processed."[^57]
 
@@ -211,7 +211,7 @@ As previously discussed, Complainant submitted videos on 20 July 2022 showing pe
 
 However, as to the third element, the Commission finds that the same is absent as Respondent had lawful basis to process under Sections 12 (f)[^66] and 13 (f)[^67] of the DPA.
 
-Section 12 (f) of the DPA allows for the processing of personal information when it is necessary for the purposes of the legitimate interests pursued by the PIC:
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] allows for the processing of personal information when it is necessary for the purposes of the legitimate interests pursued by the PIC:
 
 > Section 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -233,7 +233,7 @@ Given the angle of the CCTV cameras, it appears that the extent of recording by 
 
 Considering that not all the elements of Section 25 are present since the processing of personal information has lawful basis under the DPA, and that it is in accordance with the principle of proportionality, Respondent should not be held liable for Unauthorized Processing under the Section 25 of the DPA nor for non-adherence to the principle of proportionality.
 
-#### III. Respondent did not commit Processing of Complainant's Personal Information for Unauthorized Purposes as defined under Section 28 (a) of the DPA.
+#### III. Respondent did not commit Processing of Complainant's Personal Information for Unauthorized Purposes as defined under [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 (a) of the DPA]].
 
 In her Memorandum, Complainant argues that Respondent violated Section 28,[^71] thus:
 
@@ -254,7 +254,7 @@ As previously discussed, the first and second requisites are present in this cas
 
 To reiterate, the third requisite is present. As also discussed above, the processing by Respondent through the act of recording through the CCTV is authorized by Respondent's legitimate interest of securing her property.
 
-Moreover, Section 13 (f) of the DPA allows the processing of sensitive personal information in cases where the processing is necessary for the establishment, exercise, and defense of legal claims, thus:
+Moreover, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] allows the processing of sensitive personal information in cases where the processing is necessary for the establishment, exercise, and defense of legal claims, thus:
 
 > Section 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
@@ -378,7 +378,7 @@ National Privacy Commission
 [^44]: Complaints-Assisted Form dated 05 December 2019 of CBB, at p. 3.
 [^45]: *Id.*, at p. 3.
 [^46]: *Id.*, at p. 3.
-[^47]: *VVC v. CJB*, NPC 19-134, Decision dated 10 December 2021, at p. 6.
+[^47]: *VVC v. CJB*, [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], Decision dated 10 December 2021, at p. 6.
 [^48]: Complaints-Assisted Form dated 05 December 2019 of CBB, at p. 5.
 [^49]: *Id.*, at p. 5.
 [^50]: *Id.*, at p. 5.
@@ -407,7 +407,7 @@ National Privacy Commission
 [^73]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 28 (2012).
 [^74]: RLA v. PLDT, NPC 18-010, Resolution dated 10 December 2021.
 [^75]: *Id.*, chapter III, § 13 (f).
-[^76]: BGM v. IPP, NPC 19-653, Decision dated 17 December 2020, at p. 7-8.
+[^76]: BGM v. IPP, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]], Decision dated 17 December 2020, at p. 7-8.
 [^77]: *Id.*
 [^78]: Memorandum dated 25 October 2021 of CBB.
 [^79]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 13 (f) (2012).

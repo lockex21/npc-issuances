@@ -78,7 +78,7 @@ In his Reply to the Respondent's Position Paper dated 27 December 2018, Complain
 
 11. [T]his unauthorized changing of name is already an admission that he processed complainant's personal information WITHOUT HIS CONSENT.[^8]
 
-On the basis of this, Complainant alleged that Respondent violated Section 16 of the DPA, which pertains to the Rights of the Data Subject. In his Reply, Complainant prayed for the following:
+On the basis of this, Complainant alleged that Respondent violated [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]], which pertains to the Rights of the Data Subject. In his Reply, Complainant prayed for the following:
 
 WHEREFORE, complainant ACN pray (sic) that this Honorable Commission renders judgment finding respondent DT guilty of unauthorized access or intentional breach which carries a fine of Five Hundred Thousand Pesos (Php 500,000.00).
 
@@ -101,14 +101,14 @@ On 05 February 2020, Complainant filed a Motion to Render Judgment.
 ### Issues
 
 1. Whether the complaint may be dismissed for non-exhaustion of remedies;
-2. Whether Respondent is liable for unauthorized access or intentional breach under Section 29 of the DPA; and
-3. Whether Respondent is liable for malicious disclosure under Section 31 of the DPA.
+2. Whether Respondent is liable for unauthorized access or intentional breach under [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Section 29 of the DPA]]; and
+3. Whether Respondent is liable for malicious disclosure under [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 of the DPA]].
 
 ### Discussion
 
 #### The complaint may be dismissed for non-exhaustion of remedies.
 
-Section 4 of NPC Circular No. 16-04 (Rules of Procedure) provides the rule for the exhaustion of remedies:
+Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] (Rules of Procedure) provides the rule for the exhaustion of remedies:
 
 Section 4. Exhaustion of remedies – No complaint shall be entertained unless:
 
@@ -269,6 +269,6 @@ National Privacy Commission
 [^20]: Records, p.1.
 [^21]: "BoxRec About Us" page available at: Boxrec.com/en/about, last accessed on: 24 June 2021.
 [^22]: Id., at 9.
-[^23]: NPC 19-605, 05 November 2020.
+[^23]: [[resolutions/2021/npc-19-605-gmt-vs-fcash-global-lending-inc-fast-cash|NPC 19-605]], 05 November 2020.
 [^24]: Delgado v. HRET, G.R. No. 219603, 26 January 2016.
 [^25]: BSA Tower Condominium Corp. v. Reyes, II, A.C. NO. 11944, 20 June 2018.

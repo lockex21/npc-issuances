@@ -45,8 +45,7 @@ Verification Committee at the municipal level.
 
 #### Lawful Processing of Personal Information; Functions of the Public Authority; Statutory Mandate
 
-The public posting of the initial list of poor households may find basis under Section 12 of the
-DPA – where the processing of personal information is necessary to fulfill the functions of the
+The public posting of the initial list of poor households may find basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] – where the processing of personal information is necessary to fulfill the functions of the
 public authority which necessarily includes the processing of personal data for the fulfillment
 of its mandate.[^3]
 
@@ -85,7 +84,7 @@ It is worth noting that the inclusion of any sensitive personal information in t
 publicly posted should be carefully evaluated if the same is indeed necessary and
 proportional to the purpose. Note that generally, the processing (which includes public
 posting/disclosure) of sensitive personal information is prohibited, except for the instances
-provided by Section 13 of the DPA.
+provided by [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 Hence, if the birthday (a variation of the information on “age”) and/or other sensitive
 personal information of the data subjects (i.e. marital status, religion, etc.) are not

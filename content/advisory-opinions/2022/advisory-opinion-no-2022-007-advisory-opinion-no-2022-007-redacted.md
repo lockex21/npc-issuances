@@ -23,7 +23,7 @@ Re: TRANSPORT OF PHYSICAL MEDIA CONTAINING PERSONAL DATA
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC or the Commission) on whether the act of transporting physical media that may contain personal and sensitive personal information (collectively, personal data) is considered as “processing” of the personal data that are contained therein under existing data privacy legislation such as the Data Privacy Act of 2012[^1] (DPA), its Implementing Rules and Regulations (IRR) and applicable NPC issuances.
+We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC or the Commission) on whether the act of transporting physical media that may contain personal and sensitive personal information (collectively, personal data) is considered as “processing” of the personal data that are contained therein under existing data privacy legislation such as the Data Privacy Act of 2012[^1] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and applicable NPC issuances.
 
 We understand that your company is a courier and logistics company engaged in pick-up,
 transport and delivery of mails, letters, pouches, cargoes and personal effects of all kinds, wherein
@@ -124,7 +124,7 @@ ensuing liability may depend on whether the company is transporting the physical
 As to the claim of damages by data subjects, the determination of liability and indemnification for
 any damages sustained are made on a case-to-case basis.
 
-We reiterate that pursuant to the principle of accountability under Section 21 of the DPA, each PIC
+We reiterate that pursuant to the principle of accountability under [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]], each PIC
 is responsible for personal information under its control or custody, including information that
 have been transferred to a third party for processing, whether domestically or internationally,
 subject to cross-border arrangement and cooperation. Whereas, the PIP has the duty to comply

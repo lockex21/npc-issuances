@@ -118,7 +118,7 @@ Having stated that, there is also a need to determine and clarify the distinctio
 
 Being a mere notice, it is emphasized that the privacy policy or notice is not equivalent to consent. This document is an embodiment of the observance of the data privacy principle of transparency and upholding the right to information of data subjects.
 
-Lastly, we note the last paragraph of Section 16(b) of the DPA which states that any information supplied or declaration made to the data subject shall not be amended without prior notification of data subject. This is to be read in connection with the right to object under Section 34(b) of the IRR which in turn states that the data subject shall also be notified and given an opportunity to withhold consent to the processing in case of changes or any amendment to the information supplied or declared to the data subject.
+Lastly, we note the last paragraph of [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(b) of the DPA]] which states that any information supplied or declaration made to the data subject shall not be amended without prior notification of data subject. This is to be read in connection with the right to object under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34(b) of the IRR]] which in turn states that the data subject shall also be notified and given an opportunity to withhold consent to the processing in case of changes or any amendment to the information supplied or declared to the data subject.
 
 This opinion is being rendered based on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of the facts.
 

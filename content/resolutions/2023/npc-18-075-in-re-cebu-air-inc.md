@@ -130,7 +130,7 @@ The Corporation will implement the controls it identified in its review as descr
 
 On 07 January 2022, the Commission, through the Complaints and Investigation Division (CID) issued an Order to Cebu Pacific via email, directing to submit a Post Breach Report and supporting documents within fifteen (15) days from receipt:
 
-This Commission finds the breach notification report lacking details to fully appreciate and determine the compliance of Cebu Pacific with the Data Privacy Act and the issuances of this Commission.
+This Commission finds the breach notification report lacking details to fully appreciate and determine the compliance of Cebu Pacific with the [[laws/data-privacy-act-of-2012|Data Privacy Act]] and the issuances of this Commission.
 
 Thus, pursuant to Section 9, Rule IV of the NPC Circular No. 16-03 on Personal Data Breach Management, you are hereby required to submit a Post Breach Report detailing the incident that prompted the notification to the Commission, provide documentation/reports as to determination of the extent and number of data subjects affected, the security measures conducted before, during and after the security incident and remedial measures taken to address the incident and prevent its recurrence.
 

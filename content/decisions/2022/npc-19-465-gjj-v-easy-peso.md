@@ -88,7 +88,7 @@ On 03 December 2021, Easy Peso, in its Reply with Motion to Dismiss, argued that
 
 4. That a condition precedent for filing the claim has not been complied with.
 
-5. That the National Privacy Commission's Circular No. 16-04 Rules of Procedure of the National Privacy Commission Rule II, sec. 4 a, b, and c, states in pertinent parts that:
+5. That the National Privacy Commission's [[issuances/undated/rules-of-procedure|Circular No. 16-04]] Rules of Procedure of the National Privacy Commission Rule II, sec. 4 a, b, and c, states in pertinent parts that:
 
    a. the complainant has informed in writing, the personal information controller or concerned entity of the privacy violation or personal data breach to allow the appropriate action on the same;
 
@@ -184,7 +184,7 @@ The Commission, therefore, is left without any basis to recommend Easy Peso for 
 
 As such, the Commission finds that the evidence presented is insufficient to support the claims of GJJ that Easy Peso violated the DPA.
 
-##### B. Easy Peso did not violate Section 25 of the DPA.
+##### B. Easy Peso did not violate [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].
 
 Section 25 of the DPA or Unauthorized Processing of Personal or Sensitive Personal Information is committed when the following requisites concur:
 
@@ -194,7 +194,7 @@ Section 25 of the DPA or Unauthorized Processing of Personal or Sensitive Person
 
 3. The processing was done without the consent of the data subject, or without being authorized under the DPA or any existing law.[^45]
 
-Section 3 of the DPA defines personal information and processing as follows:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] defines personal information and processing as follows:
 
 > (g). Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 >
@@ -206,7 +206,7 @@ Given the foregoing, the first and second requisites are met. Easy Peso processe
 
 The third requisite, however, is absent.
 
-Personal information may be processed when it is for a legitimate interest. Section 12 (f) of the DPA provides:
+Personal information may be processed when it is for a legitimate interest. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] provides:
 
 > Section 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -258,7 +258,7 @@ Subject to the rights and obligations provided under the DPA, the Commission emp
 
 ##### C. Given that no DPA violation exists, it is not necessary to discuss and establish participation or gross negligence of Easy Peso's officers.
 
-Easy Peso is incorporated and duly authorized by the Securities and Exchange Commission to operate as a lending company.[^62] As such, Section 34 of the DPA applies, which provides:
+Easy Peso is incorporated and duly authorized by the Securities and Exchange Commission to operate as a lending company.[^62] As such, [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the DPA]] applies, which provides:
 
 > Section 34. Extent of Liability. – If the offender is a corporation, partnership or any juridical person, the penalty shall be imposed upon the responsible officers, as the case may be, who participated in, or by their gross negligence, allowed the commission of the crime.[^63]
 
@@ -344,7 +344,7 @@ GENERAL RECORDS UNIT
 [^42]: See People of the Philippines v. Sangcajo, Jr., G.R. No. 229204 (2018).
 [^43]: Re: Letter of Lucena Ofendo Reyes Alleging Illicit Activities Of A Certain Atty. Cajayon Involving Cases In The Court Of Appeals, Cagayan De Oro City, A.M. No. 16-12-03-CA (2017). Emphasis supplied.
 [^44]: NPC Circular No. 16-04, § 22. Emphasis supplied.
-[^45]: NPC 19-134, 10 December 2021, at 12 (NPC 2021) (unreported).
+[^45]: [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021, at 12 (NPC 2021) (unreported).
 [^46]: Answer to Complaint, 15 October 2019, in GJJ v. Creditable Lending Corporation, NPC Case No. 19-465 (NPC 2019).
 [^47]: *Id.*; See also Reply with Motion to Dismiss, 03 December 2021, Annex "A" at 1, 3-4, in GJJ v. Creditable Lending Corporation, NPC Case No. 19-465 (NPC 2019).
 [^48]: Bill of Particulars, 07 October 2019, at 3-5, in GJJ v. Creditable Lending Corporation, NPC Case No. 19-465 (NPC 2019).

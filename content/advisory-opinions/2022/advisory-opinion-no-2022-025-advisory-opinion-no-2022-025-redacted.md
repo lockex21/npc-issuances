@@ -33,7 +33,7 @@ Through a 31 March 2022 letter, the OIC-RD denied your request for copies of you
 
 > "… as an employee that is deemed Dropped from the Rolls, the Office has no more recourse left but to turn-over his/her 201 files. However, MC Number 1, series of 2011, of the Civil Service Commission, generally instructed the NGAs, GOCCs and SUC to undertake the turning over of 201 files to all those applicable former employees perhaps in batches, as the procedure provided in the mentioned MC entails coordination with several offices and requires the necessary clearances from affected former employees."
 
-In addition, the OIC-RD reasoned that, "as a former government employee, the provisions of the Data Privacy Act of 2012 do not apply to you." He cited Section 4 (a) of the Data Privacy Act of 2012 (DPA) and stated that the provisions of the DPA should be read together with the necessary Civil Service Rules and Issuances.
+In addition, the OIC-RD reasoned that, "as a former government employee, the provisions of the Data Privacy Act of 2012 do not apply to you." He cited [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 (a) of the Data Privacy Act of 2012]] (DPA) and stated that the provisions of the DPA should be read together with the necessary Civil Service Rules and Issuances.
 
 ### Discussion
 
@@ -58,13 +58,13 @@ n) Oath of Office
 o) Personal Data Sheet [CSC Form 212]
 p) Position Description Forms
 
-In Advisory Opinion No. 2018-028,[^1] we had the occasion to discuss that an employee, being a data subject, is entitled to have reasonable access to the personal information in his/her 201 file:
+In [[advisory-opinions/2018/advisory-opinion-no-2018-028-npc-advisory-opinion-no-2018-028|Advisory Opinion No. 2018-028]],[^1] we had the occasion to discuss that an employee, being a data subject, is entitled to have reasonable access to the personal information in his/her 201 file:
 
 > Accordingly, Employee A, being a data subject, is entitled to have reasonable access to the personal information in her 201 file. She may exercise her right to access in the manner provided under the DPA but she must still abide by company protocols in accessing her 201 file.
 >
 > Under the law, the company is obligated to respond and grant reasonable access to subject request. Should the request be ignored or denied, a complaint with the NPC may be initiated following the procedure laid down in NPC Circular No. 2016-04, as one of NPC's functions is to enforce and effectively implement the provisions of the DPA, including those pertaining to the rights of data subjects.
 
-In addition, the National Privacy Commission (NPC) issued NPC Advisory No. 2022-01, "Guidelines on Requests for Personal Data of Public Officers"[^2] to provide guidance in dealing with personal and sensitive personal information (collectively, personal data) of government employees. The said Advisory unequivocally states that public officers and employees are recognized as data subjects with all the concomitant rights and available redresses, viz.:
+In addition, the National Privacy Commission (NPC) issued [[issuances/2022/guidelines-on-requests-for-personal-data-of-public-officers|NPC Advisory No. 2022-01]], "Guidelines on Requests for Personal Data of Public Officers"[^2] to provide guidance in dealing with personal and sensitive personal information (collectively, personal data) of government employees. The said Advisory unequivocally states that public officers and employees are recognized as data subjects with all the concomitant rights and available redresses, viz.:
 
 > C. Public officers are data subjects within the purview of the Act, with all the concomitant rights and available redresses under the same. However, certain personal data relating to their positions and functions is subject to certain exceptions provided in the Act and disclosures required under other applicable laws.
 >
@@ -72,7 +72,7 @@ In addition, the National Privacy Commission (NPC) issued NPC Advisory No. 2022-
 
 Consequently, the unequivocal statement of the OIC-RD that the provisions of the DPA do not apply to government employees is misplaced. As a data subject, you have data privacy rights to your own personal data, including the right to access such information. A PIC must have policies to facilitate the exercise of a data subject's right to access. These policies must include, among others, the procedure to acquire the information, the retention period of the data and the mode of disposal or deletion. Thus, you should be provided with the information you requested in accordance with the policies of DA on a data subject's right to access information and the retention period for personal and sensitive personal information, as well as other existing policies related to government employment records.
 
-In addition, you mentioned that your request for a copy of your 201 files is to support your petition before the CSC to question your reassignment and your eventual dropping from the rolls. Thus, the request is made for the establishment, exercise or defense of legal claims which is a lawful criterion for processing under Section 13 (f) of the DPA, to wit:
+In addition, you mentioned that your request for a copy of your 201 files is to support your petition before the CSC to question your reassignment and your eventual dropping from the rolls. Thus, the request is made for the establishment, exercise or defense of legal claims which is a lawful criterion for processing under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]], to wit:
 
 > SECTION 13. Sensitive Personal Information and Privileged Information. — The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases: x x x
 >

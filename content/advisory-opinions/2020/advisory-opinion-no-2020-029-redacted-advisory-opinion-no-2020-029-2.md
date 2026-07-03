@@ -51,7 +51,7 @@ thereof.
 
 However, the law provides for special cases where the processing of certain personal
 information is excluded from its scope. These include personal information processed for
-journalistic, artistic, literary or research purposes.[^5] The Implementing Rules and Regulations
+journalistic, artistic, literary or research purposes.[^5] The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]]
 (IRR) of the DPA states that personal information that will be processed for research purpose,
 intended for a public benefit, subject to the requirements of applicable laws, regulations, or
 ethical standards, is outside of the scope of the law.[^6]
@@ -74,7 +74,7 @@ In determining whether the release of the abovementioned personal information ma
 allowed under the DPA, it is necessary to understand the nature of research which is
 contemplated by the DPA and its IRR.
 
-As stated in NPC Advisory Opinion No. 2019-017[^9] which discussed the implications of the
+As stated in [[advisory-opinions/2019/advisory-opinion-no-2019-017-npc-advisory-opinion-no-2019-017|NPC Advisory Opinion No. 2019-017]][^9] which discussed the implications of the
 DPA to the conduct of academic research vis-à-vis access to documents and records in the
 custody of government, “research is an activity that aims to develop or contribute to
 knowledge that can be generalized (including theories, principles, relationships), or any
@@ -107,7 +107,7 @@ limited where such limitation is necessary to maintain research integrity.[^14]
 
 #### Data subject’s rights; limitation on rights
 
-We note, however, that Section 19 of the DPA provides for the non-applicability of the rights
+We note, however, that [[laws/data-privacy-act-of-2012#section-19-non-applicability|Section 19 of the DPA]] provides for the non-applicability of the rights
 of data subjects where the processing of personal information is only for the needs of scientific
 and statistical research and, on the basis of such, no activities are carried out and no decisions
 are taken regarding the data subject. At the same time, the personal information shall be held
@@ -178,7 +178,7 @@ Privacy Commissioner
 
 [^12]: National Privacy Commission, NPC Advisory Opinion No. 2019-017 (March 5, 2019).
 
-[^13]: National Privacy Commission, NPC Advisory Opinion No. 2018-054 (Dec. 4, 2018).
+[^13]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-054-npc-advisory-opinion-no-2018-054|NPC Advisory Opinion No. 2018-054]] (Dec. 4, 2018).
 
 [^14]: Id.
 

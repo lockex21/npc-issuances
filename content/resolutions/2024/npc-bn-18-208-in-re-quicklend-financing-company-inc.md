@@ -163,7 +163,7 @@ Thus, notwithstanding that the emails contained information that may enable iden
 
 #### II. Quicklend has implemented sufficient, reasonable, and appropriate measures to address the incident.
 
-Section 20 (a) and (b) of the Data Privacy Act of 2012 (DPA) provides:
+Section 20 (a) and (b) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) provides:
 
 > **Sec. 20. Security of Personal Information.**
 >

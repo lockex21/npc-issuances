@@ -83,12 +83,12 @@ As such, its processing shall be subject to the provisions of the DPA, making it
 data subjects to be notified that personal data pertaining to him or her are being or have been
 processed, pursuant to their right to be informed. Likewise, data subjects’ consent must be
 obtained prior to collection and use of their data, unless the processing of such personal data
-will fall under any other criteria for lawful processing under Section 13 of the DPA.
+will fall under any other criteria for lawful processing under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 #### General data privacy principles; privacy by design and default
 
 In developing and implementing the National Census Project, POGS must be mindful of the
-provisions of the DPA and its Implementing Rules and Regulations (IRR), specifically on
+provisions of the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), specifically on
 adhering to the general data privacy principles of transparency, legitimate purpose and
 
 proportionality, implementing reasonable and appropriate organizational, physical, and
@@ -100,7 +100,7 @@ the risks to the rights and freedoms of the patients as data subjects, current d
 practices, among others.[^5]
 
 As for the purpose of verifying the authenticity of submitted requirements for diplomate
-examinations, we refer you to NPC Advisory Opinion No. 2018-016, where a hospital asked
+examinations, we refer you to [[advisory-opinions/2018/advisory-opinion-no-2018-016-npc-advisory-opinion-no-2018-016|NPC Advisory Opinion No. 2018-016]], where a hospital asked
 for guidance on the issue of submitting reports on the actual cases handled by resident
 physicians for diplomate board exam and accreditation, to wit:
 
@@ -140,7 +140,7 @@ information processor (PIP) wherein such transfer was directly instructed by the
 sharing agreement then refers to the contract which contains the terms and conditions of a
 data sharing arrangement between two or more PICs.[^8]
 
-On the other hand, Section 3(d) of NPC Circular No. 16-02 defines outsourcing as the
+On the other hand, Section 3(d) of [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] defines outsourcing as the
 disclosure or transfer of personal data by a PIC to a PIP, while an outsourcing agreement
 pertains to the disclosure or transfer of personal data by the PIC to a PIP in order for the latter
 to process the data according to the instructions of the controller.[^9]
@@ -180,7 +180,7 @@ registered with the Securities and Exchange Commission (SEC). Nonetheless, progr
 Regional Chapters are aligned with the purposes and projects of the POGS National Office,
 and regional activities are subject to the approval of the National Board of Trustees.
 
-As provided for in NPC Advisory No. 2017-01,12 PICs in the private sector may designate
+As provided for in [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]],12 PICs in the private sector may designate
 COPs, subject to the approval of the NPC and the provisions of said Advisory.[^12] Specifically, a
 group of related companies may appoint or designate the DPO of one of its members to be
 primarily accountable for ensuring the compliance of the entire group with all data protection
@@ -215,7 +215,7 @@ Privacy Commissioner and Chairman
 [^6]: National Privacy Commission, NPC Advisory Opinion No. 2018-016 (April 12, 2018), citing the Data Privacy Act of 2012, Article 29 Data Protection Working Party, Opinion 05/2014 on Anonymisation Techniques, 10 April 2014, and the EU General Data Protection Regulation, Recital 26.
 [^7]: Id.
 [^8]: National Privacy Commission, NPC Advisory Opinion No. 2017-57 (October 3, 2017).
-[^9]: National Privacy Commission, NPC Advisory Opinion No. 2017-008 (January 9, 2017).
+[^9]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-008-npc-advisoryopinionno-2017-008|NPC Advisory Opinion No. 2017-008]] (January 9, 2017).
 [^10]: Id.
 [^11]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Recital 26 (4 May 2016).
 [^12]: National Privacy Commission, NPC Advisory No. 2017-01.

@@ -245,7 +245,7 @@ PJLI provided the Data Protection Officer's (DPO) contact information, including
 
 In addition, PJLI took measures to sufficiently address the breach and adopted measures to prevent its recurrence.
 
-Section 20 of the DPA provides that PICs must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing:[^89]
+[[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 of the DPA]] provides that PICs must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing:[^89]
 
 > Section 20. *Security of Personal Information*. (a) The personal information controller must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.
 

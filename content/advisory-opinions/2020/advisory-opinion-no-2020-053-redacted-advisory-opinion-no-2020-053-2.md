@@ -31,7 +31,7 @@ We write in response to your letter received by the National Privacy Commission 
 
 We understand from your letter that such request was made for purposes of determining the unit owners since some units may have already been returned to the developer for failure to pay the installments, to update and confirm the *bona fide* members in good standing, and to prepare for the next members' meeting and solicit proxies, if necessary.
 
-You now ask on whether such disclosure is allowed under the Data Privacy Act of 2012 (DPA). Specifically, you seek clarification on the following issues:
+You now ask on whether such disclosure is allowed under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA). Specifically, you seek clarification on the following issues:
 
 1. Is the disclosure of the names, unit numbers, email addresses, and phone numbers of all unit owners of a condominium corporation to some of its members who requested for such information allowed under the DPA?
 2. Is the property manager allowed to disclose if a particular member is in good standing or is delinquent in the payment of dues? If so, do the requesting members have the right to confront a particular member if he or she is updated in the payment of dues without prying into said member's privacy?
@@ -40,7 +40,7 @@ You now ask on whether such disclosure is allowed under the Data Privacy Act of 
 
 ### Discussion
 
-#### Advisory Opinion No. 2019-027; personal information; lawful processing
+#### [[advisory-opinions/2019/advisory-opinion-no-2019-027-npc-advisory-opinion-no-2019-027|Advisory Opinion No. 2019-027]]; personal information; lawful processing
 
 The main issue discussed under NPC Advisory Opinion No. 2019-027 was whether or not the DPA allows a unit owner to be granted access to the personal information of other tenants and unit owners to confirm if the property is being used for commercial purposes.
 
@@ -70,5 +70,5 @@ Very truly yours,
 Privacy Commissioner
 
 [^2]: An Act Providing for the Revised Corporation Code of the Philippines [Revised Corporation Code of the Philippines], Republic Act No. 11232, § 73 (2019).
-[^3]: See: National Privacy Commission, NPC Advisory Opinion No. 2020-045 (6 November 2020).
+[^3]: See: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-045-redacted-advisory-opinion-no-2020-045-2|NPC Advisory Opinion No. 2020-045]] (6 November 2020).
 [^4]: Id.

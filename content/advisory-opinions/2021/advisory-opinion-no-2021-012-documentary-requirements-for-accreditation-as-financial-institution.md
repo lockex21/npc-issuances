@@ -38,12 +38,10 @@ of PNP borrowers-members which includes Billing Reports containing the Schedule 
 Computations of Loans such as principal amount, date of grant of loan, mode of
 payment/terms, interest and other charges, effectivity of first billing, and maturity.
 
-However, the PSSLAI did not submit the abovementioned requirements invoking the Data
-Privacy Act of 2012[^2] (DPA) and bank secrecy laws.
+However, the PSSLAI did not submit the abovementioned requirements invoking the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) and bank secrecy laws.
 
 You now seek clarification on whether the PSSLAI can furnish copies of the said documents
-to the PNP without violating the provisions of the DPA, its Implementing Rules and
-Regulations (IRR) and other relevant issuances of the NPC.
+to the PNP without violating the provisions of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and other relevant issuances of the NPC.
 
 ### Discussion
 
@@ -233,7 +231,7 @@ Finally, we take this opportunity to clarify the advisory functions of the NPC. 
 we noted that one of the actions requested of the Commission is to authorize PSSLAI to submit
 to the PNP the required documents.
 
-We wish to emphasize the provisions on NPC Circular No. 18-01 – Rules of Procedure on
+We wish to emphasize the provisions on [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|NPC Circular No. 18-01]] – Rules of Procedure on
 Requests for Advisory Opinions,[^9] that the advisory opinions of the NPC provide guidance to
 the requesting party and the general public on matters relating to the interpretation of the
 provisions of the DPA, its IRR, and NPC issuances, compliance requirements, enforcement of

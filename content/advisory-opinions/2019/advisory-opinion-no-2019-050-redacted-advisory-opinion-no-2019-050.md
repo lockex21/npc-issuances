@@ -50,7 +50,7 @@ From our understanding of the abovementioned provision, the purpose of the reque
 
 The Data Privacy Act of 2012[^4] (DPA) applies to all types of processing of personal data in the country or outside, subject to certain qualifications.[^5] The last known address of a former employee is considered personal information[^6] under the DPA.
 
-Pursuant to Section 12 of the DPA, processing of personal information may only be allowed if not otherwise prohibited by law and when justified by at least one of the conditions therein, such as the following:
+Pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], processing of personal information may only be allowed if not otherwise prohibited by law and when justified by at least one of the conditions therein, such as the following:
 
 > SECTION 12. Criteria for Lawful Processing of Personal Information. – xxx
 >

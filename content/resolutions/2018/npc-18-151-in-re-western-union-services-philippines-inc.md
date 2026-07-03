@@ -173,7 +173,7 @@ WUSPI provided the DPO's contact information, including an email address and pho
 
 In addition, WUSPI took measures to sufficiently address the breach and adopted measures to prevent its recurrence.[^70]
 
-Section 20 of Republic Act No. 10173 or the Data Privacy Act (DPA) provides that PICs must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any unlawful disclosure:
+Section 20 of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act (DPA) provides that PICs must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any unlawful disclosure:
 
 > **Section 20. Security of Personal Information.** (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^71]
 

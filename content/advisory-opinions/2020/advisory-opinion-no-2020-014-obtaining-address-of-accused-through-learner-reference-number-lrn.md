@@ -56,7 +56,7 @@ The complainant attached the following in his letter request:
           f.   CIDG Pampanga
           g.   Bureau of Immigration, Manila
 
-Thus, your Office now seeks clarification on the lawfulness of disclosure of the present address of the accused in relation to the provisions of the Data Privacy Act of 2012[^1] (DPA).
+Thus, your Office now seeks clarification on the lawfulness of disclosure of the present address of the accused in relation to the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA).
 
 ### Discussion
 

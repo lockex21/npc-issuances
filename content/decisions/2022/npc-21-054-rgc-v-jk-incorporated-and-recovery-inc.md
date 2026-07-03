@@ -88,7 +88,7 @@ On 25 February 2021, RGC alleged that his Facebook friends received a message th
 
 As a result, RGC alleged that his Facebook friends contacted him to inform him that the message is circulating among his Messenger contacts.[^29] Thus, this prompted RGC to inform JK Incorporated that it was illegal to access his personal information and that the latter maliciously disclosed his information to parties who were not privy to the transaction.[^30] RGC claimed that after informing JK Incorporated, "the message was suddenly 'unsent'."[^31]
 
-RGC Memorandum provided the following pieces of evidence: 1) a screenshot of the purported Facebook message subject of the complaint,[^32] the affidavit of RMC,[^33] and the affidavit of RC.[^34] JK Incorporated's act, according to RGC, was a violation of Section 29 (Unauthorized Access or Intentional Breach)[^35] and Section 31 (Malicious Disclosure)[^36] of the DPA. RGC further argued that none of the circumstances in Section 12 of the DPA were present to justify the use of RGC personal information.[^37]
+RGC Memorandum provided the following pieces of evidence: 1) a screenshot of the purported Facebook message subject of the complaint,[^32] the affidavit of RMC,[^33] and the affidavit of RC.[^34] JK Incorporated's act, according to RGC, was a violation of Section 29 (Unauthorized Access or Intentional Breach)[^35] and Section 31 (Malicious Disclosure)[^36] of the DPA. RGC further argued that none of the circumstances in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] were present to justify the use of RGC personal information.[^37]
 
 JK Incorporated filed its Memorandum dated 29 October 2021, alleging that it was the collecting agent of PS Bank.[^38] On 03 December 2020, it received an endorsement from PS Bank regarding RGC loan.[^39]
 
@@ -98,9 +98,9 @@ JK Incorporated posited that instead of settling the obligation, RGC filed the s
 
 It argued that RGC failed to state a cause of action since the complaint failed to allege the "manner and circumstances" of the commission of the offense charged.[^46]
 
-Further, JK Incorporated argued that it could not be liable for Section 29 of the DPA (Unauthorized Access or Intentional Breach) since it should be proven that "the offender [broke] in any way into the system where personal and sensitive personal information is stored."[^47] Here, JK Incorporated contended that it could not have committed unauthorized access when the information was readily and publicly available on the internet, particularly on Facebook.[^48]
+Further, JK Incorporated argued that it could not be liable for [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Section 29 of the DPA]] (Unauthorized Access or Intentional Breach) since it should be proven that "the offender [broke] in any way into the system where personal and sensitive personal information is stored."[^47] Here, JK Incorporated contended that it could not have committed unauthorized access when the information was readily and publicly available on the internet, particularly on Facebook.[^48]
 
-JK Incorporated further argued that it could not be liable for Section 32 of the DPA (Malicious Disclosure) since the message only requested to relay the message to RGC and it never mentioned his loan obligation.[^49] JK Incorporated also disputed RGC allegation that it sent messages to both RMC and to RC, since RMC was the only one identified by JK Incorporated through skip tracing.[^50]
+JK Incorporated further argued that it could not be liable for [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 of the DPA]] (Malicious Disclosure) since the message only requested to relay the message to RGC and it never mentioned his loan obligation.[^49] JK Incorporated also disputed RGC allegation that it sent messages to both RMC and to RC, since RMC was the only one identified by JK Incorporated through skip tracing.[^50]
 
 Thus, JK Incorporated prayed that the RGC complaint be dismissed.[^51]
 
@@ -118,7 +118,7 @@ JK Incorporated can be considered to have engaged in the practice of skip tracin
 
 > Good Day! may we ask for your assistance regarding one of your friend/colleague/relative of RGC to relay to the person to coordinate with us the soonest time possible likewise, the person may refer to all our contact details indicated herewith. Thanks and hoping for your urgent feedback. Please look for any officer of under legal counsel of JTF Tel. no. XXX/XXX.[^54]
 
-The Commission explained the concept of skip tracing in relation to the DPA in its Advisory Opinion No. 2018-059:
+The Commission explained the concept of skip tracing in relation to the DPA in its [[advisory-opinions/2018/advisory-opinion-no-2018-059-npc-advisory-opinion-no-2018-059|Advisory Opinion No. 2018-059]]:
 
 > The DPA does not prohibit the collection of personal information through skip tracing or probing, provided that the collection or any further processing is done in accordance with the law. In general, processing of personal data should adhere to the general data privacy principles of transparency, legitimate purpose, and proportionality. There should be procedures in place for data subjects to exercise their rights and appropriate security measures for data protection.
 >
@@ -184,7 +184,7 @@ There was also no evidence provided that RGC fully utilized the Facebook privacy
 
 Thus, there is no substantial evidence to find that JK Incorporated violated Section 29 of the DPA.
 
-#### III. JK Incorporated is not liable for Section 31 (Malicious Disclosure) of the DPA.
+#### III. JK Incorporated is not liable for [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 (Malicious Disclosure) of the DPA]].
 
 RGC alleged that JK Incorporated violated Section 31 of the DPA since "people who were not listed by [RGC] as reference list received messages from [JK Incorporated] about the fulfillment of [RGC's obligations.]"[^72]
 
@@ -201,7 +201,7 @@ The elements of Section 31 are:
 
 Here, JK Incorporated claimed that it is the collecting agent of PS Bank and received the endorsement of RGC's loan obligation.[^75]
 
-Section 2 (i) of the DPA provides:
+[[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2 (i) of the DPA]] provides:
 
 > (i) *Personal information processor* refers to any natural or juridical person qualified to act as such under this Act to whom a personal information controller may outsource the processing of personal data pertaining to a data subject.
 
@@ -326,12 +326,12 @@ GENERAL RECORDS UNIT
 [^57]: *Id.*
 [^58]: Memorandum (Complainant) dated 25 October 2021, Annex "A".
 [^59]: National Bureau of Investigation v. Nijera, G.R. No. 237522 (Resolution), 30 June 2020.
-[^60]: Data Privacy Act of 2012, chapter III, § 11. See also National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18 (2016) (IRR of the DPA).
+[^60]: Data Privacy Act of 2012, chapter III, § 11. See also National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, rule IV, § 18 (2016) (IRR of the DPA).
 [^61]: See Memorandum of the Respondent dated 29 October 2021, at p. 3; Memorandum (Complainant) dated 25 October 2021, ¶ 10.
 [^62]: *Id.* ¶ 8.
 [^63]: *Id.* ¶ 21.
 [^64]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 29 (2012).
-[^65]: NPC 18-109, 01 June 2021.
+[^65]: [[decisions/2021/npc-18-109-acn-v-dt|NPC 18-109]], 01 June 2021.
 [^66]: Facebook Privacy Policy, 9 September 2016, See "What kinds of information do we collect".
 [^67]: *Id*, See "How can I manage or delete information about me".
 [^68]: On the contrary, JK Incorporated stated that it was able to message Rica by visiting RGC's Facebook Account. Further, it alleged that it was able to get RMC details through the comments of RGC's public Facebook post.
@@ -340,7 +340,7 @@ GENERAL RECORDS UNIT
 [^71]: NPC Advisory Opinion 2018-059, Skip tracing and probing of contact details through the internet and third parties, (4 October 2018). See, DPA definition of processing in footnote.
 [^72]: Memorandum (Complainant) dated 25 October 2021, ¶ 24.
 [^73]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 31 (2012).
-[^74]: NPC 21-015, 03 February 2022
+[^74]: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-015]], 03 February 2022
 [^75]: Memorandum of the Respondent dated 29 October 2021, at p. 2.
 [^76]: Complaints-Assisted Form dated 25 February 2021 of RGC, at p. 3.
 [^77]: *Id.* Annex A

@@ -24,7 +24,7 @@ RE: CERTIFIED LIST OF DECEASED PERSONS REQUIRED UNDER REPUBLIC ACT NO. 8189
 
 Dear [Redacted],
 
-We write in response to your request for advisory opinion received by the National Privacy Commission (NPC) on 10 July 2018 for clarification on the requirement of Republic Act (RA) No. 8189 or the Voter's Registration Act of 1996 for the submission of a certified list of deceased persons by Local Civil Registrars to the COMELEC Election Officer for the purpose of cancelling their voter registration. You asked if providing the said list is violative of the provisions of RA No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA).
+We write in response to your request for advisory opinion received by the National Privacy Commission (NPC) on 10 July 2018 for clarification on the requirement of Republic Act (RA) No. 8189 or the Voter's Registration Act of 1996 for the submission of a certified list of deceased persons by Local Civil Registrars to the COMELEC Election Officer for the purpose of cancelling their voter registration. You asked if providing the said list is violative of the provisions of [[laws/data-privacy-act-of-2012|RA No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA).
 
 ### Discussion
 
@@ -36,7 +36,7 @@ Section 29 of RA No. 8189 provides as follows:
 
 Compliance with the provisions and requirements of existing laws is not violative of the DPA. In fact, the DPA provides for the criteria for lawful processing of personal information such as compliance with a legal obligation to which the personal information controller is subject[^2] and processing which is necessary to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.[^3]
 
-We wish to emphasize that the DPA, its Implementing Rules and Regulations, and related issuances of the NPC should be read together with existing laws, such as election laws. The DPA has the twin task of protecting the right to privacy and ensuring the free flow of information. The DPA should not be used as an excuse for non-compliance with other existing laws, rules, and regulations.
+We wish to emphasize that the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and related issuances of the NPC should be read together with existing laws, such as election laws. The DPA has the twin task of protecting the right to privacy and ensuring the free flow of information. The DPA should not be used as an excuse for non-compliance with other existing laws, rules, and regulations.
 
 This opinion is being rendered based on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of the facts.
 

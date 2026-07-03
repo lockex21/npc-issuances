@@ -71,7 +71,7 @@ Fund lots for profit.
 
 You now come to the Commission for guidance on whether the request of Atty. RAN, on
 behalf of his client, falls within the exemption of the prohibition of processing of sensitive
-personal information under Section 13 (f) of the DPA, specifically on the “establishment,
+personal information under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]], specifically on the “establishment,
 exercise or defense of legal claims.” You likewise seek clarity if the release of the requested
 documents or information is not prohibited even without the consent of the data subject.
 
@@ -120,7 +120,7 @@ from the alleged sale with Mr. ZPJ are deemed necessary. Section 13 (f) would be
 lawful criterion for such request if such vouchers contain sensitive personal information.
 
 If, however, only personal information is involved, the disclosure of the vouchers may
-still find basis under Section 12 (f) of the DPA which provides:
+still find basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] which provides:
 
    SEC. 12. Criteria for Lawful Processing of Personal Information. The processing of
          personal information shall be permitted only if not otherwise prohibited by law, and
@@ -159,6 +159,6 @@ OIC-Director IV, Privacy Policy Office
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Data Privacy Act of 2012, § 13 (f).
-[^4]: National Privacy Commission, NPC 19-653 (Dec. 17, 2020), available at https://www.privacy.gov.ph/wpcontent/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 07 September 2021).
+[^4]: National Privacy Commission, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wpcontent/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 07 September 2021).
 [^5]: Citations omitted.
 [^6]: See footnote 4; citing CID Case No. 17-K-003 dated 19 November 2019 and NPC 18-135 dated 06 August 2020.

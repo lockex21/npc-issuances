@@ -24,7 +24,7 @@ RE: DATA SHARING WITH THE MANILA INTERNATIONAL AIRPORT AUTHORITY (MIAA)
 
 Dear [Redacted],
 
-We write in response to your letter dated 6 June 2018 requesting for clarification regarding data sharing under Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA). Specifically, you seek to clarify whether air carriers may transfer personal information of ticket holders for the purpose of refunding terminal fees, without securing ticket holders' consent and without executing a data sharing agreement with the Manila International Airport Authority (MIAA).
+We write in response to your letter dated 6 June 2018 requesting for clarification regarding data sharing under [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA). Specifically, you seek to clarify whether air carriers may transfer personal information of ticket holders for the purpose of refunding terminal fees, without securing ticket holders' consent and without executing a data sharing agreement with the Manila International Airport Authority (MIAA).
 
 We understand that since August 2012, members of the Air Carriers Association of the Philippines (ACAP), namely: Air Philippines Corporation (PAL Express), Cebgo, Inc. (Cebgo), Cebu Air, Inc. (Cebu Pacific), Philippine Airlines, Inc. (PAL), and Philippines AirAsia, Inc. (AirAsia), have been collecting terminal fees directly from prospective passengers for their flights from the Ninoy Aquino International Airport.
 
@@ -42,11 +42,11 @@ MIAA is currently looking into a possible transfer from the carriers to MIAA of 
 
 #### Data Sharing
 
-The Implementing Rules and Regulations (IRR) of the DPA defines data sharing as the disclosure or transfer to a third party of personal data under the control or custody of a personal information controller.[^2]
+The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the DPA defines data sharing as the disclosure or transfer to a third party of personal data under the control or custody of a personal information controller.[^2]
 
 A data sharing agreement (DSA) refers to a contract, joint issuance, or any similar document that contains the terms and conditions of a data sharing arrangement between two or more personal information controllers.[^3]
 
-NPC Circular No. 16-02 sets out the guidelines for data sharing and DSAs involving government agencies. The circular covers personal data under the control or custody of a private entity that is being shared with or transferred to a government agency, and vice versa.[^4] Furthermore, the issuance states that a DSA is required when personal data is shared or transferred for the purpose of performing a public function or providing of a public service.[^5]
+[[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] sets out the guidelines for data sharing and DSAs involving government agencies. The circular covers personal data under the control or custody of a private entity that is being shared with or transferred to a government agency, and vice versa.[^4] Furthermore, the issuance states that a DSA is required when personal data is shared or transferred for the purpose of performing a public function or providing of a public service.[^5]
 
 As mentioned above, the contemplated transfer of terminal fees collected, including unused and unrefunded fees for refunding the ticket holders, to MIAA, will necessarily entail the transfer of personal data of each ticket holder (i.e., names, birthdates, contact details, bank details, credit card details, flight details, other personal information) to MIAA.
 

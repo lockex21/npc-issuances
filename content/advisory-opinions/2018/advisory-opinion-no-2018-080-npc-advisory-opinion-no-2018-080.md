@@ -23,7 +23,7 @@ RE: VIEWING AND/OR RELEASE OF CCTV FOOTAGES
 
 Dear [Redacted],
 
-We write in response to your inquiry which sought to clarify whether a joint viewing or releasing of a copy of your closed-circuit television (CCTV) camera footages to a customer is in accordance with the provisions stated of the Data Privacy Act of 2012[^2] (DPA), its Implementing Rules and Regulations (IRR) and relevant issuances of the National Privacy Commission (NPC).
+We write in response to your inquiry which sought to clarify whether a joint viewing or releasing of a copy of your closed-circuit television (CCTV) camera footages to a customer is in accordance with the provisions stated of the Data Privacy Act of 2012[^2] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and relevant issuances of the National Privacy Commission (NPC).
 
 ### Discussion
 
@@ -48,7 +48,7 @@ corresponding retention period.
 
 Given the crucial responsibility to secure personal information, the purpose and extent of
 disclosure requested by the customer and her counsel must be thoroughly evaluated based
-on the criteria for lawful processing of personal information in Section 12 of the DPA, to wit:
+on the criteria for lawful processing of personal information in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], to wit:
 
    a. The data subject has given his or her consent;
      b. The processing of personal information is necessary and is related to the fulfillment of

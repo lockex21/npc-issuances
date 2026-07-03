@@ -44,7 +44,7 @@ You also state that the counsel of Premier Islands Management Corporation (Premi
 alleged current owner of eleven (11) of the subject properties, is preventing the Municipal
 Assessor from releasing to the DOST copies of the requested documents. The counsel of
 Premier is claiming that disclosure of the requested documents to DOST would violate the
-Data Privacy Act of 2012 (DPA) and its Implementing Rules and Regulations (IRR) since it
+Data Privacy Act of 2012 (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) since it
 contains personal data.
 
 You thus ask if the position of Premier’s counsel is legally proper.
@@ -72,7 +72,7 @@ processing of personal data must find lawful basis under the DPA.
 
 The DPA allows the processing of personal data subject to compliance with the law and strict
 adherence to the principles of transparency, legitimate purpose, and proportionality. For the
-processing of personal information, Section 12 (e) of the DPA provides:
+processing of personal information, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e) of the DPA]] provides:
 
    “ SEC. 12 Criteria for Lawful Processing of Personal Information. The processing of personal
     information shall be permitted only if not otherwise prohibited by law, and when at least one of
@@ -85,7 +85,7 @@ processing of personal information, Section 12 (e) of the DPA provides:
     necessarily includes the processing of personal data for the fulfillment of its mandate; xxx”
     (Emphasis supplied).”[^3]
 
-In the same vein, Section 13(b) of the DPA allows for the processing of sensitive personal
+In the same vein, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(b) of the DPA]] allows for the processing of sensitive personal
 information, to wit:
 
    “SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive
@@ -143,8 +143,7 @@ DPA. In this case, the only personal data contained in the tax declarations woul
 and signature of the government employees who prepared and approved the same.
 
 We emphasize that the processing of sensitive personal information is allowed under the
-DPA, subject to compliance with the criteria provided by law. As stated earlier, Section 13(b)
-of the DPA recognizes the processing of sensitive personal information when it is provided
+DPA, subject to compliance with the criteria provided by law. As stated earlier, Section 13(b) of the DPA recognizes the processing of sensitive personal information when it is provided
 for by existing laws and regulations.[^5]
 
 Under Section 4(a)(4) of the DPA, any information about any individual who is or was an
@@ -227,4 +226,4 @@ Director IV, Privacy Policy Office
 [^3]: Id. § 12 (e).
 [^4]: Id. § 13 (b).
 [^5]: Data Privacy Act of 2012, § 13 (b) (2012).
-[^6]: National Privacy Commission, BGM v. IPP [NPC 19-653] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
+[^6]: National Privacy Commission, BGM v. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).

@@ -23,7 +23,7 @@ Re: DISCLOSURE OF THE NAMES OF THE UNIT OWNERS/MEMBERS OF A HOMEOWNERS' ASSOCIAT
 
 Dear [Redacted],
 
-We write in response to your request for advisory opinion seeking clarification on whether NPC Advisory Opinion No. 2018-011, which recognized the disclosure of unit numbers of members of a condominium association as allowable, is applicable as well to the scenario where the names of the homeowners and tenants occupying the property are requested by members of the Mahogany Place 3 Homeowners' Association, Inc. (the Association). The purpose of the request is for verification if the property in the subdivision is being used for commercial purposes.
+We write in response to your request for advisory opinion seeking clarification on whether [[advisory-opinions/2018/advisory-opinion-no-2018-011-npc-advisory-opinion-no-2018-011|NPC Advisory Opinion No. 2018-011]], which recognized the disclosure of unit numbers of members of a condominium association as allowable, is applicable as well to the scenario where the names of the homeowners and tenants occupying the property are requested by members of the Mahogany Place 3 Homeowners' Association, Inc. (the Association). The purpose of the request is for verification if the property in the subdivision is being used for commercial purposes.
 
 We understand from a subsequent email communication that the use of a unit for any business activity for profit is prohibited under the Association's House Rules. We understand further that a neighboring unit owner of the subject unit suspected of engaging in commercial activity, the same allegedly being used as a satellite office without official permits, would like to file a case to determine if there is a violation of this policy. In preparation to pursuing his legal remedies, the property management is requested to provide the list of names of the unit owners and tenants therein.
 
@@ -31,7 +31,7 @@ We understand from a subsequent email communication that the use of a unit for a
 
 #### Names of members of the Association as personal information; criteria for lawful processing; legal obligation to which the personal information controller is subject
 
-The names of the members of the Association, their respective unit numbers, and the names of their tenants are considered as personal information. Section 12 of the DPA provides for the various criteria for lawful processing of personal information, which includes processing that is necessary for compliance with a legal obligation to which the personal information controller is subject.[^2]
+The names of the members of the Association, their respective unit numbers, and the names of their tenants are considered as personal information. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] provides for the various criteria for lawful processing of personal information, which includes processing that is necessary for compliance with a legal obligation to which the personal information controller is subject.[^2]
 
 In relation to the above, Section 7 of the Magna Carta for Homeowners and Homeowners' Associations[^3] (Magna Carta) provides:
 

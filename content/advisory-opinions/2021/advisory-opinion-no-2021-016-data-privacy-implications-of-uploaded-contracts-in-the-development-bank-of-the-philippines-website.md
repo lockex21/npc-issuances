@@ -29,8 +29,8 @@ Commission (NPC) which sought to clarify the data privacy and security implicati
 website posting requirements mandated by National Budget Circular No. 542[^2] and
 Government Procurement Policy Board (GPPB) Circular No. 02-2020,[^3] issued in accordance
 to the requirements of Republic Act No. 9184[^4] otherwise known as the Government
-Procurement Reform Act and its revised Implementing Rules and Regulations[^5] (IRR), and
-how these can be reconciled with the provisions of the Data Privacy Act of 2012[^6] (DPA).
+Procurement Reform Act and its revised [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^5] (IRR), and
+how these can be reconciled with the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^6] (DPA).
 
 We understand that the Development Bank of the Philippines (DBP) is considering the
 implementation of various measures to mitigate possible risks that may arise in complying
@@ -70,7 +70,7 @@ and requesting parties.
 
 #### Government procurement; disclosure of procurement-related documents
 
-In NPC Advisory Opinion No. 2021-006,[^8] the Privacy Policy Office had the occasion to discuss
+In [[advisory-opinions/2021/advisory-opinion-no-2021-006-data-classification-for-the-disclosure-of-procurement-related-documents|NPC Advisory Opinion No. 2021-006]],[^8] the Privacy Policy Office had the occasion to discuss
 some of the principles governing procurement in the government in relation to the lawful
 criteria for processing personal data. These same principles may be the basis for the
 aforementioned issuances requiring the posting of various procurement-related documents,

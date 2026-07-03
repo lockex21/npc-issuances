@@ -42,7 +42,7 @@ x----x
 
 AGUIRRE, D.P.C.
 
-Before this Commission is a complaint by RBD (“Complainant”) against FCash Global Lending, Inc. (“Respondent”) for a violation of the Data Privacy Act.
+Before this Commission is a complaint by RBD (“Complainant”) against FCash Global Lending, Inc. (“Respondent”) for a violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act]].
 
 ### Facts
 
@@ -118,4 +118,4 @@ GENERAL RECORDS UNIT
 [^3]: *Id.*, at 9.
 [^4]: *Id.*, at 10.
 [^5]: *Id.*, at 11.
-[^6]: NPC Circular No. 16-04 dated 15 December 2016 (“NPC Rules of Procedure”), Sec. 22.
+[^6]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] dated 15 December 2016 (“NPC Rules of Procedure”), Sec. 22.

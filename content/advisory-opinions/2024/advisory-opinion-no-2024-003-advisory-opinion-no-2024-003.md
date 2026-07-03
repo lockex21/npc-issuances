@@ -38,7 +38,7 @@ Thus, you ask whether the Data Privacy Act of 2012[^2] (DPA): 1) permits the ins
 
 Generally, the factual circumstances of each case determine the reasonableness of the expectation of privacy. Similarly, customs, community norms, and practices may limit or extend an individual’s reasonable expectation of privacy. The reasonableness of a person’s expectation of privacy is, thus, determined on a case-to-case basis.[^3]
 
-Nevertheless, it is worth revisiting our discussion in NPC Advisory Opinion No. 2018-090[^4] on the application of this concept in the workplace, viz.:
+Nevertheless, it is worth revisiting our discussion in [[advisory-opinions/2018/advisory-opinion-no-2018-090-npc-advisory-opinion-no-2018-090|NPC Advisory Opinion No. 2018-090]][^4] on the application of this concept in the workplace, viz.:
 
 > (C)ourts have generally held that employees have a decreased expectation of privacy with respect to work devices, email accounts, and internet surfing activities. The same may be said for the contents therein, since there is an assumption that its use will be limited to work-related purposes.
 >
@@ -60,7 +60,7 @@ basis must be established for processing of personal data under either Sections 
 DPA.
 
 In the scenario you provided, your company may rely on either Section 12 (b) or 12 (f) of the
-DPA. Section 12 (b) of the DPA allows processing for the fulfillment of a contract with the
+DPA. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (b) of the DPA]] allows processing for the fulfillment of a contract with the
 data subject. You may utilize this basis as long as the employment contract provides specific
 provisions allowing the installation of equipment/software for furtherance of employment,
 including enhancement of productivity of telecommuting employees to ensure that they
@@ -86,7 +86,7 @@ software will pass the three-part test of legitimate interest, namely:
        overridden by the legitimate interests of the PICs or third party, considering the likely
        impact of the processing on the data subjects.
 
-The processing must also comply with the general data privacy principles of transparency, legitimate purpose, and proportionality. In NPC Advisory Opinion No. 2018-084, we stated that it is incumbent upon the employer to determine the purpose/s of computer monitoring which must not be contrary to law, morals, or public policy. Additionally, the principle of proportionality directs the employer to assess the proportionality of the information collected, and the ways and means of processing. This means that the employer shall process information that is adequate, relevant, suitable, necessary, and not excessive in relation to the declared and specified purpose. Since the monitoring of the employees’ surroundings may result in the capturing of personal data of other individuals, the company should determine whether the data collected is proportional to the achievement and fulfillment of the purpose of monitoring and that it clearly aligns with the need and objectives of the organization.[^9] Lastly, to ensure adherence to the principle of transparency, the employer should effectively communicate to the employees, through the issuance and dissemination of a policy, the conduct of employee monitoring, the specific purpose, scope and actual method of monitoring, security measures to protect personal data, as well as the procedure for redress in cases where the rights of the employee as a data subject are violated.
+The processing must also comply with the general data privacy principles of transparency, legitimate purpose, and proportionality. In [[advisory-opinions/2018/advisory-opinion-no-2018-084-npc-advisory-opinion-no-2018-084|NPC Advisory Opinion No. 2018-084]], we stated that it is incumbent upon the employer to determine the purpose/s of computer monitoring which must not be contrary to law, morals, or public policy. Additionally, the principle of proportionality directs the employer to assess the proportionality of the information collected, and the ways and means of processing. This means that the employer shall process information that is adequate, relevant, suitable, necessary, and not excessive in relation to the declared and specified purpose. Since the monitoring of the employees’ surroundings may result in the capturing of personal data of other individuals, the company should determine whether the data collected is proportional to the achievement and fulfillment of the purpose of monitoring and that it clearly aligns with the need and objectives of the organization.[^9] Lastly, to ensure adherence to the principle of transparency, the employer should effectively communicate to the employees, through the issuance and dissemination of a policy, the conduct of employee monitoring, the specific purpose, scope and actual method of monitoring, security measures to protect personal data, as well as the procedure for redress in cases where the rights of the employee as a data subject are violated.
 
 As to your query on written consent of the employees for virtual meetings, please note that consent may not be the most appropriate basis for such processing since employees are seldom in a position to freely give, refuse or revoke consent, given the dependency that results from the company-employee relationship.[^10] Instead, your company may still rely on either Sections 12(b) or 12(f) of the DPA as long as the recording of virtual meetings is work-related. Consequently, you may dispense with the requirement of obtaining the consent of employees every time virtual meetings are recorded.
 
@@ -116,4 +116,4 @@ Director IV, Privacy Policy Office
 [^8]: Privacy Guidelines: Monitoring and Personal Data Privacy at Work (April 2016), available at https://www.pcpd.org.hk/english/data_privacy_law/code_of_practices/files/Monitoring_and_Personal_Data_Privacy_At_Work_revis_Eng.pdf (last accessed Feb. 23, 2024).
 [^9]: *Id.*
 [^10]: ARTICLE 29 Data Protection Working Party, Opinion 2/2017 on data processing at work, available at https://ec.europa.eu/newsroom/article29/items/610169 (last accessed Feb.22, 2024).
-[^11]: NPC Advisory No. 2017-03, Guidelines on Privacy Impact Assessment, 31 July 2017.
+[^11]: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]], Guidelines on Privacy Impact Assessment, 31 July 2017.

@@ -20,11 +20,11 @@ date: '2024-08-12'
 
 **DATE:** 12 August 2024
 
-**SUBJECT:** **GUIDELINES ON PERSONAL DATA PROCESSING BASED ON SECTION 13 (F) OF THE DATA PRIVACY ACT OF 2012**
+**SUBJECT:** **GUIDELINES ON PERSONAL DATA PROCESSING BASED ON [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|SECTION 13 (F) OF THE DATA PRIVACY ACT OF 2012]]**
 
 **WHEREAS**, Section 7 (g) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) empowers the National Privacy Commission (NPC) to publish, on a regular basis, a guide to all laws relating to data protection;
 
-**WHEREAS**, Section 9 of the Implementing Rules and Regulations of the DPA (IRR) empowers the NPC to develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
+**WHEREAS**, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] of the DPA (IRR) empowers the NPC to develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
 
 **WHEREAS**, Section 13 (f) of the DPA provides that the processing of sensitive personal information and privileged information is lawful when it is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise, or defense of legal claims, or when provided to government or public authority;
 
@@ -36,7 +36,7 @@ date: '2024-08-12'
 
 **WHEREAS**, the DPA recognizes public authority’s need to process information in specific situations pursuant to its constitutional or statutory mandate or functions, as discussed in Section 4 (e), Section 12 (e), Section 13 (b), and Section 13 (f) of the DPA;
 
-**WHEREAS**, information necessary to carry out the functions of public authority following Section 4 (e) of the DPA may be processed without a lawful basis under Section 12 or 13 of the DPA;
+**WHEREAS**, information necessary to carry out the functions of public authority following [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 (e) of the DPA]] may be processed without a lawful basis under Section 12 or 13 of the DPA;
 
 **WHEREAS**, the information referred to in Section 4 (e) of the DPA does not pertain to personal information. The doctrine of last antecedent states that a qualifying or relative word or clause, such as “which,” “said,” and “such,” is to be construed as applying to the words, phrase, or clause next preceding or, as is frequently stated, to the next preceding antecedent, and not as extending to or including others more remote, unless a contrary intention appears.[^2] Following the doctrine of last antecedent, the phrase “which includes the processing of personal data” relates to the immediately preceding phrase “functions of public authority” and not to the term “information”;
 
@@ -44,7 +44,7 @@ date: '2024-08-12'
 
 **WHEREAS**, processing of personal data by the government or public authority in relation to its constitutional or statutory mandate can find lawful basis in Section 12 (e) or Section 13 (b) of the DPA;
 
-**WHEREAS**, Section 12 (e) of the DPA pertains to the processing of personal information when necessary to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority, which necessarily includes processing of personal information for the fulfillment of its mandate;
+**WHEREAS**, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e) of the DPA]] pertains to the processing of personal information when necessary to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority, which necessarily includes processing of personal information for the fulfillment of its mandate;
 
 **WHEREAS**, Section 13 (b) of the DPA allows the processing of sensitive personal information and privileged information when provided for by existing laws and regulations: provided, that such regulatory enactments guarantee the protection of the sensitive personal information and privileged information: provided further, that the consent of the data subjects are not required by law or regulation permitting the processing of sensitive personal information and privileged information;
 
@@ -110,7 +110,7 @@ Deputy Privacy Commissioner
 
 [^8]: Spouses MCD and JJD v. Victoria Milling Company, et al., NPC 19-758 & 19-1846, 30 June 2023, at 21, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-19-758-to-NPC-19-1846-2023.06.30-MCD-_-JJD-v-Victorias-Milling-Company-et-al-Decision-FinalP.pdf.
 
-[^9]: JCB v. FRL, NPC 21-031, 03 March 2022, at 11, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-031-2022.03.03-JCB-v.-FRL-Decision-FinalP.pdf.
+[^9]: JCB v. FRL, [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], 03 March 2022, at 11, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-031-2022.03.03-JCB-v.-FRL-Decision-FinalP.pdf.
 
 [^10]: JCB v. FRL, NPC 21-031, 03 March 2022, at 11, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-031-2022.03.03-JCB-v.-FRL-Decision-FinalP.pdf.
 

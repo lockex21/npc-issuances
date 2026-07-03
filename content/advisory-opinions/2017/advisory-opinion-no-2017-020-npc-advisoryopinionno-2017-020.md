@@ -32,7 +32,7 @@ Red Tape Program.
 
 Specifically, you are requesting for an opinion on whether or not the data collected and to be
 shared by and among certain government agencies, and to the public pursuant to the PBDB
-is exempt from the coverage of the Data Privacy Act of 2012 (DPA).
+is exempt from the coverage of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 #### Philippine Business Data Bank (PBDB)
 
@@ -165,7 +165,7 @@ However, we wish to emphasize that the exemption not absolute. The DPA and its
 Implementing Rules and Regulations (IRR) shall not apply to the specified information, but
 the exemption is limited “only to the minimum extent of collection, access, use, disclosure or
 other processing necessary to the purpose, function, or activity concerned,” as stated in
-Section 5 of the IRR.
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the IRR]].
 
 Further, the proviso in said section states:
 
@@ -197,8 +197,8 @@ physical and technical security measures are in place to protect the personal da
 agency is processing.
 
 Finally, we would like to remind all government agencies involved in the PBDB of the
-obligations set out in NPC Circular No. 16-01 - Security of Personal Data in Government
-Agencies and NPC Circular No. 16-02 - Data Sharing Agreements Involving Government
+obligations set out in [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] - Security of Personal Data in Government
+Agencies and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] - Data Sharing Agreements Involving Government
 Agencies.
 
 The first circular provides for the general obligations of government agencies engaged in the

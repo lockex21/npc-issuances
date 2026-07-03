@@ -25,8 +25,8 @@ Re: PRIVATE DETECTIVE SERVICES
 Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
-Commission (NPC). As a follow up to Advisory Opinion No. 2019-001,[^2] you now seek further
-clarification on the applicability of the Data Privacy Act of 2012[^3] (DPA) to the specific services
+Commission (NPC). As a follow up to [[advisory-opinions/2019/advisory-opinion-no-2019-001-npc-advisory-opinion-no-2019-001|Advisory Opinion No. 2019-001]],[^2] you now seek further
+clarification on the applicability of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^3] (DPA) to the specific services
 and engagements of your company, Eyespy Detectives and Investigators Co. (Eyespy).
 
 From your letter, we understand that Eyespy, a duly licensed private detective agency, offers
@@ -122,7 +122,7 @@ these specific inquiries:
          that Eyespy cease and desist from data gathering and furnish the data subject a copy of all
          reports, information and data gathered, is Eyespy legally bound to comply with such
          demands? Is this appliable to any or all of the engagements?
-    5.   In relation to Section 37 of the Implementing Rules and Regulations of the DPA (IRR), where
+    5.   In relation to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-37-limitation-on-rights|Section 37 of the Implementing Rules and Regulations]] of the DPA (IRR), where
          the rights of the data subject “are also not applicable to the processing of personal data gathered
          for the purposes of investigations in relation to any criminal, administrative or tax liabilities of
          a data subject,” is the same applicable to any or all of the abovementioned engagements?
@@ -231,7 +231,7 @@ possible to continue processing personal data where for example, the same is sti
 for the performance of or in relation to a contract or service to which the data subject is a party,
 or when necessary or desirable in the context of an employer-employee relationship.[^7]
 
-For further guidance, we refer to NPC Advisory No. 2021 – 01 on Data Subject Rights
+For further guidance, we refer to [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] on Data Subject Rights
 discussing the right to object, to wit:
 
    “SECTION 7. Right to Object. — x x x
@@ -265,7 +265,7 @@ provision states in part:
 The nature of investigations in the above provision pertain to those conducted by government
 agencies based on their respective mandates. This does not contemplate investigations made
 by private parties, even when it is in relation to an alleged crime such as adultery or
-concubinage as described in your letter. We again refer to NPC Advisory No. 2021 – 01 for
+concubinage as described in your letter. We again refer to [[issuances/2021/data-subject-rights|NPC Advisory No. 2021 – 01]] for
 further guidance:
 
    “SECTION 13. Limitations. — x x x

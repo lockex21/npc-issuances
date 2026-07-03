@@ -24,7 +24,7 @@ draft: false
 
 Dear [Redacted],
 
-We respond to your inquiry on whether the disclosure of documents and information pursuant to a Bureau of Internal Revenue Mission Order (MO) violates the Data Privacy Act of 2012 (DPA).[^2]
+We respond to your inquiry on whether the disclosure of documents and information pursuant to a Bureau of Internal Revenue Mission Order (MO) violates the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^2]
 
 You inform that the [Redacted] is the subject of the BIR's Tax Compliance Verification Drive (TCVD). Armed with an MO, the BIR revenue officers stated that the TCVD is aimed at determining whether taxes are being properly remitted for the lease of residential units at the [Redacted]. Hence, they verbally requested the [Redacted]'s Property Management Office (PMO) for the following information:
 
@@ -48,7 +48,7 @@ Hence, you inquire whether providing the requested information to the BIR would 
 
 #### Regulatory Mandate; Processing of Personal Information by a Public Authority
 
-The DPA and its Implementing Rules and Regulations (IRR) excludes certain types of information that are being processed by a public authority, viz.:
+The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) excludes certain types of information that are being processed by a public authority, viz.:
 
 > **SECTION 5. Special Cases:** The Act and these Rules do not apply to the following specified information, limited to the minimum required for collection, access, use, disclosure, or other processing necessary for the relevant purpose, function, or activity:
 >
@@ -58,7 +58,7 @@ The DPA and its Implementing Rules and Regulations (IRR) excludes certain types 
 >
 > Provided, that the non-applicability of the Act or these Rules do not extend to personal information controllers or personal information processors, who remain subject to the requirements of implementing security measures for personal data protection: Provided further, that the processing of the information provided in the preceding paragraphs shall be exempted from the requirements of the Act only to the minimum extent necessary to achieve the specific purpose, function, or activity.
 
-Hence, information required by a public authority in the exercise of its regulatory function pursuant to its constitutional or statutory mandate falls outside the DPA's scope. However, as we have previously stated in Advisory Opinion No. 2020-015,[^3] this exemption must be interpreted strictly such that:
+Hence, information required by a public authority in the exercise of its regulatory function pursuant to its constitutional or statutory mandate falls outside the DPA's scope. However, as we have previously stated in [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|Advisory Opinion No. 2020-015]],[^3] this exemption must be interpreted strictly such that:
 
 1. It applies solely to the minimum necessary collection, access, use, disclosure, or other processing related to the specific purpose, function, or activity. Any processing for regulatory purposes must comply with constitutional or statutory mandates and adhere strictly to all required substantive and procedural processes.
 

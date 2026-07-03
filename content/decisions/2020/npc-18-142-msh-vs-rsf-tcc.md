@@ -79,7 +79,7 @@ The personal information involved are the course and CHED S.O. number given that
 
 While TCC endeavored to rectify the discrepancies of MSH's personal information, the Commission finds that the respondent should indemnify MSH for the damages sustained due to the inaccurate and false information found in her previous TORs.
 
-A PIC is obligated to ensure compliance, among others, with Section 11 of the DPA, providing for the General Data Privacy Principles. Particularly, Section 11(c) states:
+A PIC is obligated to ensure compliance, among others, with [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]], providing for the General Data Privacy Principles. Particularly, Section 11(c) states:
 
 > SEC. 11. General Data Privacy Principles. – The processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.
 >
@@ -91,7 +91,7 @@ A PIC is obligated to ensure compliance, among others, with Section 11 of the DP
 >
 > xxx[^21]
 
-In this regard, Section 19(c) of the Implementing Rules and Regulations of the DPA (IRR) requires PICs to ensure data quality, to quote:
+In this regard, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19(c) of the Implementing Rules and Regulations]] of the DPA (IRR) requires PICs to ensure data quality, to quote:
 
 > SECTION 19. General Principles in Collection, Processing and Retention. — The processing of personal data shall adhere to the following general principles in the collection, processing, and retention of personal data:
 >
@@ -103,7 +103,7 @@ In this regard, Section 19(c) of the Implementing Rules and Regulations of the D
 >
 > 2. Inaccurate or incomplete data must be rectified, supplemented, destroyed or their further processing restricted.[^22]
 
-Meanwhile, a data subject has the right to rectification under Section 34 of the IRR:
+Meanwhile, a data subject has the right to rectification under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 of the IRR]]:
 
 > SECTION 34. Rights of the Data Subject. — The data subject is entitled to the following rights:
 >
@@ -111,7 +111,7 @@ Meanwhile, a data subject has the right to rectification under Section 34 of the
 >
 > d. Right to rectification. The data subject has the right to dispute the inaccuracy or error in the personal data and have the personal information controller correct it immediately and accordingly, unless the request is vexatious or otherwise unreasonable. If the personal data has been corrected, the personal information controller shall ensure the accessibility of both the new and the retracted information and the simultaneous receipt of the new and the retracted information by the intended recipients thereof: Provided, That recipients or third parties who have previously received such processed personal data shall be informed of its inaccuracy and its rectification, upon reasonable request of the data subject.[^23]
 
-Separate from the data subject's right to rectification is the right of a data subject to damages anchored on Section 16(f) of the DPA, which provides:
+Separate from the data subject's right to rectification is the right of a data subject to damages anchored on [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(f) of the DPA]], which provides:
 
 > SEC. 16. Rights of the Data Subject. – The data subject is entitled to:
 >
@@ -199,4 +199,4 @@ GENERAL RECORDS UNIT
 [^26]: *See* Complaint Assisted Form dated 25 September 2018 filed by Complainant MSH, at page 2; and Verified Comment dated 22 September 2021 filed by RSF and TCC, at page 2.
 [^27]: Republic Act No. 10173, or the Data Privacy Act of 2021, Section 16(f).
 [^28]: MCC Industrial Sales Corp. v. Ssangyong Corp., G.R. No. 170633, 17 October 2007.
-[^29]: EA v. Q288, Inc., NPC 18-103, 23 July 2020, at page 7.
+[^29]: EA v. Q288, Inc., [[decisions/2020/07-23-2020-eca-vs-xxx|NPC 18-103]], 23 July 2020, at page 7.

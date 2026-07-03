@@ -80,7 +80,7 @@ Aside from this, he claimed that it was "clearly an attempt to demean, discredit
 
 Lastly, RJC argued that he is entitled to moral, exemplary, and nominal damages considering DL's violation of the DPA.[^27]
 
-In his Memorandum, DL argued that he did not violate the DPA and claimed that the submission of RJC's transcript of records to the Office of the Ombudsman was in accordance with Section 13 (f) of the DPA.[^28] DL alleged that:
+In his Memorandum, DL argued that he did not violate the DPA and claimed that the submission of RJC's transcript of records to the Office of the Ombudsman was in accordance with [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]].[^28] DL alleged that:
 
 11. [RJC] in the above-said complaint before the Office of the Ombudsman built his legal claims on the basis of his own supposed solid academic background, contrasting this with the therein respondents' alleged incompetence and negligence, and blaming the latter for his supposed ignorance of the school's Maximum Residency Rule (MRR).
 
@@ -100,7 +100,7 @@ Whether DL's processing of RJC's personal data violated the DPA.
 
 DL did not violate the DPA when he processed RJC's personal data. The use of RJC's transcript of records in DL's counter-affidavit was lawful in accordance with Section 13 (f) of the DPA.
 
-RJC correctly argued that school records are sensitive personal information. Section 3 (l) of the DPA provides an enumeration of what constitutes sensitive personal information:
+RJC correctly argued that school records are sensitive personal information. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]] provides an enumeration of what constitutes sensitive personal information:
 
 > Section 3. Definition of Terms. – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -207,7 +207,7 @@ GENERAL RECORDS UNIT
 [^31]: *Id.* at 8.
 [^32]: Memorandum for Respondent, 04 August 2022, at 10, in RJC v. DL, NPC 22-012 (NPC 2022).
 [^33]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (l) (2012). Emphasis supplied.
-[^34]: MHH v. VCF and SFPS, NPC 18-141, 09 June 2020, at 7 available at https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision-NPC-Case-No.-18-141-MHH-v.-VCF-SPFS-1.pdf (last accessed 23 December 2022).
+[^34]: MHH v. VCF and SFPS, [[decisions/2017/npc-18-141-mhh-v-vcf-spfs|NPC 18-141]], 09 June 2020, at 7 available at https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision-NPC-Case-No.-18-141-MHH-v.-VCF-SPFS-1.pdf (last accessed 23 December 2022).
 [^35]: Francisco Chavez v. Judicial and Bar Council, Sen. Francis Escudero, and Rep. Niel Tupas, Jr., G.R. No. 202242 (2012).
 [^36]: Memorandum for Respondent, 04 August 2022, at 7-8, in RJC v. DL, NPC 22-012 (NPC 2022).
 [^37]: Data Privacy Act of 2012, § 13 (f). Emphasis supplied.

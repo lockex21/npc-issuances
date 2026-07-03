@@ -63,7 +63,7 @@ The TEMPORARY BAN ON PROCESSING OF PERSONAL DATA shall remain in effect until th
 
 Let copies of this Order be furnished to the National Telecommunications Commission for their appropriate action, and Google LLC, which operates the Google Play Store for its compliance in accordance with the terms and conditions of its platform.
 
-Furthermore, Respondent Populus Lending Corporation and its responsible officers are ORDERED, within ten (10) days from receipt of this Order, to file a COMMENT on the allegations in the attached Fact-Finding Report, pursuant to Section 6 of Rule X of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure).
+Furthermore, Respondent Populus Lending Corporation and its responsible officers are ORDERED, within ten (10) days from receipt of this Order, to file a COMMENT on the allegations in the attached Fact-Finding Report, pursuant to Section 6 of Rule X of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure).
 
 In case of failure by the Respondent and its responsible officers to file a Comment, this case shall be deemed submitted for resolution based on the evidence on record.
 
@@ -192,7 +192,7 @@ In its Motion for Reconsideration, Pesopop, through its Counsel, claimed that th
 
 Instead of explaining the discrepancy between Counsel’s representations in the Motion for Reconsideration on the access to the phone contact list and what its Privacy Policy dated 10 September 2021 states, Pesopop explained the necessity of the online lending application’s access to its users’ contact lists.[^39] Suffice to say, Pesopop’s explanation was unresponsive.
 
-The EnD also raised the glaring deficiencies in Pesopop’s Revised Privacy Policy. It observed that the Revised Privacy Policy does not fully abide by Section 16 of the DPA. For reference, Section 16 of the DPA states:
+The EnD also raised the glaring deficiencies in Pesopop’s Revised Privacy Policy. It observed that the Revised Privacy Policy does not fully abide by [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]]. For reference, Section 16 of the DPA states:
 
 Section 16. Rights of the Data Subject. – The data subject is entitled to:
 
@@ -234,7 +234,7 @@ b. “We will only keep your information for as long as we are either required t
 
 4. discuss the existence of rights of data subjects, except the right to update their personal data or the right to rectify.
 
-Upon comparison of the Privacy Policies in the different versions of the app, it can be observed that the respondent made several changes from the Privacy Policy in the 1.5.1 version (the one investigated by CID) and Policies in the later versions, which are all the same. Despite the changes, however, the revised Privacy Policy still lacks the required information mandated by the DPA and its IRR.
+Upon comparison of the Privacy Policies in the different versions of the app, it can be observed that the respondent made several changes from the Privacy Policy in the 1.5.1 version (the one investigated by CID) and Policies in the later versions, which are all the same. Despite the changes, however, the revised Privacy Policy still lacks the required information mandated by the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]].
 
 Further, the policy also failed to provide details on its use of profiling, automated processing, automated decision-making, or credit rating or scoring, and the categories of data considered in deciding whether to approve or disapprove a loan application.[^17] Despite informing its users that it will use the information it collects to prevent fraud, credit risk evaluation management, debt collection, identity verification, and anti-money laundering, activities that obviously involves profiling, credit rating or scoring.[^41]
 

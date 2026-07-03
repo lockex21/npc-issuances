@@ -29,7 +29,7 @@ WHEREAS, the NPC is a member of the GPA Global Frameworks and Standards Working 
 
 WHEREAS, the GPA GFSWG published a detailed comparison of model contractual clauses from different jurisdictions and regional organizations, including the Association of Southeast Asian Nations, Council of Europe, European Union, Ibero-American Network, Argentina, New Zealand, and the United Kingdom;
 
-WHEREAS, the NPC previously issued Advisory No. 2021-02 or Guidance for the Use of the Association of Southeast Asian Nations (ASEAN) Model Contract Clauses and ASEAN Data Management Framework;
+WHEREAS, the NPC previously issued [[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Advisory No. 2021-02]] or Guidance for the Use of the Association of Southeast Asian Nations (ASEAN) Model Contract Clauses and ASEAN Data Management Framework;
 
 WHEREAS, the ASEAN and European Commission published a comparative guide to model contractual clauses of the ASEAN and European Commission to facilitate cross-border transfers of personal data from the ASEAN to the European Union (EU), from EU to ASEAN or between EU and ASEAN, and within ASEAN;
 
@@ -41,7 +41,7 @@ WHEREFORE, in consideration of these premises, the NPC hereby issues this Adviso
 
 SECTION 1. Purpose. — This Advisory provides guidance to personal information controllers (PICs) and personal information processors (PIPs) on the availability of the various model contractual clauses for transfers of personal data across jurisdictions.
 
-SECTION 2. Definition of Terms. — The terms used in the [[laws/data-privacy-act-of-2012|DPA]] and its Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and other NPC issuances, as amended, are adopted herein.
+SECTION 2. Definition of Terms. — The terms used in the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and other NPC issuances, as amended, are adopted herein.
 
 SECTION 3. Model Contractual Clauses (MCCs). — MCCs are terms and conditions that PICs and PIPs may include in binding legal agreements that govern cross-border transfers of personal data. MCCs do not preclude PICs and PIPs from further negotiating legal agreements.
 

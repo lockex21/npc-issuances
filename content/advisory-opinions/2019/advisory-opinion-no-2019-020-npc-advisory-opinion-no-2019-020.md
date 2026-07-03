@@ -37,7 +37,7 @@ In particular, you seek clarification on the propriety of disclosure given the e
 
 The Data Privacy Act of 2012 (DPA)[^5] applies to all types of processing of personal data,[^6] including disclosure of basic credit data of individual borrowers.
 
-We affirm that Section 4 of the DPA and Section 5 of its Implementing Rules and Regulations (IRR) exempt certain categories of information from its scope and application. However, such exemption applies only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned.[^7]
+We affirm that [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] and Section 5 of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) exempt certain categories of information from its scope and application. However, such exemption applies only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned.[^7]
 
 Furthermore, the non-applicability is not absolute because the DPA still requires the personal information controller (PIC) or personal information processor (PIP) to comply with other conditions for personal data processing, including implementing security measures to protect personal data and upholding the rights of the data subjects.[^8]
 

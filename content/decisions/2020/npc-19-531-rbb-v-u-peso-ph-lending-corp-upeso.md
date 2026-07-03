@@ -73,7 +73,7 @@ The sole issue here is whether Respondent committed a violation of the Data Priv
 
 It is important to note that Complainant states in her Complaints-Assisted Form that she learned about this incident by “receiving it in her own number.”[^5] As her Complaint excludes the issue of disclosure of her personal information to third parties, and there are no other allegations on other uses of Complainant’s information, we focus our discussion on Respondent’s use of Complainant’s information for purposes of collecting the amount she loaned.
 
-The processing of personal information by Respondent, which resulted in communicating with Complainant through her mobile number, may be considered as “necessary for compliance with a legal obligation to which the personal information controller is subject” under Section 12 of the Data Privacy Act. In this case, Complainant admitted that she entered into a Contract of Loan with Respondent. This Contract created a legal obligation on the part of Complainant to pay her loan upon due date. Consequently, Respondent is permitted under Section 12 of the DPA to process Complainant’s data to ensure the latter’s compliance with her legal obligations.
+The processing of personal information by Respondent, which resulted in communicating with Complainant through her mobile number, may be considered as “necessary for compliance with a legal obligation to which the personal information controller is subject” under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the Data Privacy Act]]. In this case, Complainant admitted that she entered into a Contract of Loan with Respondent. This Contract created a legal obligation on the part of Complainant to pay her loan upon due date. Consequently, Respondent is permitted under Section 12 of the DPA to process Complainant’s data to ensure the latter’s compliance with her legal obligations.
 
 It is thus valid for Respondent to communicate with Complainant through her mobile number which she provided.
 
@@ -89,7 +89,7 @@ Respondent later states in their Comment that:
 
 > This means that the Complainant has consented for UPESO to contact her contact references and her contacts in case she continues to fail to pay her obligations with UPESO and to answer the calls and messages of UPESO.[^7]
 
-The Commission does not agree. Such vague and overbroad language in their loan agreement in no way complies with transparency, a general privacy principle. This is explained in the Implementing Rules and Regulations as such:
+The Commission does not agree. Such vague and overbroad language in their loan agreement in no way complies with transparency, a general privacy principle. This is explained in the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] as such:
 
 > The data subject must be aware of the nature, purpose, and extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of personal information controller, his or her rights as a data subject, and how these can be exercised. Any information and communication relating to the processing of personal data should be easy to access and understand, using clear and plain language.
 

@@ -29,7 +29,7 @@ This pertains to your query received by the National Privacy Commission (NPC) la
 
 ### Discussion
 
-The Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR), and issuances of the NPC govern the processing of personal information,[^1] sensitive personal information,[^2] and privileged communication.[^3] In the IRR, they are collectively referred to as “personal data”.[^4]
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and issuances of the NPC govern the processing of personal information,[^1] sensitive personal information,[^2] and privileged communication.[^3] In the IRR, they are collectively referred to as “personal data”.[^4]
 
 Based on the definition of the aforementioned terms, information that relate only to a corporation, such as its electricity and water consumption, do not constitute personal data. Thus, their processing is not governed by the DPA, and is likewise beyond the jurisdiction of the NPC. It is possible, however, that other laws such as the Cybercrime Prevention Act of 2012 (RA 10175), the E-Commerce Act of 2000 (RA 8792), and provisions of the Revised Penal Code, may be made to apply, depending on the attendant circumstances. Equally plausible is the scenario wherein the processing of information relating to juridical persons also involves some amount of personal data. In such a case, the application of the DPA shall persist.
 

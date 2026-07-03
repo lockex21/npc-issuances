@@ -139,7 +139,7 @@ any order or positive action from the Commission to make such
 
 notification.
 
-Section 20 (f) of the Republic Act No. 10173 or the Data
+Section 20 (f) of the [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data
 
 Privacy Act of 2012 provides: CID BN 18081
 

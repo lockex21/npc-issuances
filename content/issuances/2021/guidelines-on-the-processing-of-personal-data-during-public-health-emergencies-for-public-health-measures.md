@@ -28,13 +28,13 @@ WHEREAS, the National Privacy Commission (NPC) supports the implementation of pr
 
 WHEREAS, the NPC is cognizant of the vital role of data-driven technologies such as the development of contact tracing applications and vaccine card systems and applications which inevitably involve the processing of personal information;
 
-WHEREAS, Section 11 of the Data Privacy Act of 2012 (DPA) allows for the processing of personal information, subject to the compliance with the requirements of the law and adherence to the general principles of transparency, legitimate purpose, and proportionality, among others;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the Data Privacy Act of 2012]] (DPA) allows for the processing of personal information, subject to the compliance with the requirements of the law and adherence to the general principles of transparency, legitimate purpose, and proportionality, among others;
 
 WHEREAS, Sections 12 and 13 of the DPA enumerate the criteria for lawful processing of personal information, sensitive personal information, and privileged information (collectively, personal data);
 
-WHEREAS, pursuant to Section 7 of the DPA, the NPC is charged with the administration and implementation of the provisions of the law, which includes ensuring the compliance by personal information controllers with the provisions of the Act, and carrying out efforts to formulate and implement plans and policies that strengthen the protection of personal information in the country, in coordination with other government agencies and the private sector;
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the NPC is charged with the administration and implementation of the provisions of the law, which includes ensuring the compliance by personal information controllers with the provisions of the Act, and carrying out efforts to formulate and implement plans and policies that strengthen the protection of personal information in the country, in coordination with other government agencies and the private sector;
 
-WHEREAS, Section 9 of the Implementing Rules and Regulations (IRR) of the DPA provides that, among the Commission's functions, is to develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
+WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] (IRR) of the DPA provides that, among the Commission's functions, is to develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
 
 WHEREFORE, in consideration of these premises, the NPC hereby issues this Circular governing the processing of personal data in the implementation of public health measures during public health emergencies.
 
@@ -233,20 +233,20 @@ Sgd.                                                                    Sgd. LEA
 [^11]: International Organization for Standardization, ISO/TR 26999:2012(en), Intelligent transport systems, § 2.15, available at https://www.iso.org/obp/ui/#iso:std:iso:tr:26999:ed-1:v1:en (last accessed October 19, 2021).
 [^12]: International Organization for Standardization, ISO/IEC/IEEE 24765:2017(en), Systems and software engineering, § 3.4290, available at https://www.iso.org/obp/ui/#iso:std:iso-iec-ieee:24765:en (last accessed October 19, 2021).
 [^13]: Ann Cavoukian, "Privacy by Design - The 7 Foundational Principles - Implementation and Mapping of Fair Information Practices," available at https://iapp.org/media/pdf/resource_center/pbd_implement_7found_principles.pdf (last accessed 21 January 2021); and Data Privacy Act of 2012, § 20 (2012).
-[^14]: Data Privacy Act of 2012, § 16 (2012); Rules and Regulations Implementing the Data Privacy Act of 2012, §§ 34-37 (2016); and National Privacy Commission, Data Subject Rights, Advisory No. 2021-01 (29 January 2021).
+[^14]: Data Privacy Act of 2012, § 16 (2012); Rules and Regulations Implementing the Data Privacy Act of 2012, §§ 34-37 (2016); and National Privacy Commission, Data Subject Rights, [[issuances/2021/data-subject-rights|Advisory No. 2021-01]] (29 January 2021).
 [^15]: Council of Europe, Explanatory Report to the Protocol amending the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data, available at https://rm.coe.int/cets-223-explanatory-report-/to-the-protocol-amending-the-convention-fo/16808ac91a (last accessed 29 September 2021).
 [^16]: National Privacy Commission, JV v. JR, NPC Case No. 17-047 (13 August 2019), available at https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf; and Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002, § VI(F) (24 April 2020).
 [^17]: Department of Health (DOH) and National Privacy Commission (NPC), Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002, § VI(F) (24 April 2020).
 [^18]: Department of Trade and Industry (DTI) and Department of Labor and Employment (DOLE), Supplemental Guidelines on Workplace Prevention and Control of COVID-19, Joint Memorandum Circular No. 20-04-A Series of 2020 [JMC No. 20-04-A] (15 August 2020).
 [^19]: Department of Health and the National Task Force Against COVID-19, Rules and Regulations Implementing Republic Act No. 11525 [Joint Administrative Order No. 2021-0001], § VII(J)(1) (26 March 2021).
 [^20]: Id. § VII(J)(3).
-[^21]: National Privacy Commission, ECA v. XXX, NPC 18-103 (23 July 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2020/12/NPC-18-103-ECA-v-XXX-Decision-ADJU1.pdf.
+[^21]: National Privacy Commission, ECA v. XXX, [[decisions/2020/07-23-2020-eca-vs-xxx|NPC 18-103]] (23 July 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2020/12/NPC-18-103-ECA-v-XXX-Decision-ADJU1.pdf.
 [^22]: Data Privacy Act of 2012, § 20 (2012).
 [^23]: National Privacy Commission, Personal Data Breach Management [NPC Circular No. 2016-03] (15 December 2016).
 [^24]: Department of Health (DOH) and National Privacy Commission (NPC), Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002, § VI(C) (24 April 2020).
 [^25]: Department of Health, Omnibus Interim Guidelines on Prevention, Detection, Isolation Treatment, and Reintegration Strategies for COVID-19 [Department Memorandum No. 2020-0439] (6 October 2020).
 [^26]: Department of Trade and Industry (DTI) and Department of Labor and Employment (DOLE), Supplemental Guidelines on Workplace Prevention and Control of COVID-19, Joint Memorandum Circular No. 20-04-A Series of 2020 [JMC No. 20-04-A] (15 August 2020).
-[^27]: National Privacy Commission, NPC Advisory Opinion No. 2020-054 (28 December 2020).
+[^27]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-054-redacted-advisory-opinion-no-2020-054-2|NPC Advisory Opinion No. 2020-054]] (28 December 2020).
 [^28]: Department of Health, The Revised Disposition Schedule of Medical Records Amending Ministry Circular 77, s. 1981 [Department Circular No. 70, s. 1996] (8 May 1996); and Department of Health National Center for Health Facility Development, Hospital Health Information Management Manual (2010).
 
 ## Source And Notes

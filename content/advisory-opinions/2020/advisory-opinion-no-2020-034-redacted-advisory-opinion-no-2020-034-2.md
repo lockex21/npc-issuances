@@ -32,7 +32,7 @@ To facilitate an efficient and effective validation of the beneficiaries of the 
 
 #### Data Sharing; Proportionality
 
-The Implementing Rules and Regulations (IRR) of the Data Privacy Act of 2012 (DPA) defines data sharing as the disclosure or transfer to a third party of personal data under the control or custody of a personal information controller (PIC).
+The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) defines data sharing as the disclosure or transfer to a third party of personal data under the control or custody of a personal information controller (PIC).
 
 A data sharing agreement (DSA) refers to a contract, joint issuance, or any similar document that contains the terms and conditions of a data sharing arrangement between two or more PICs. For government agencies, the sharing or transfer of personal data under its control or custody to a third party through a DSA shall always be for the purpose of facilitating the performance of a public function or the providing public service.
 
@@ -69,6 +69,6 @@ Privacy Commissioner
 
 [^1]: Tags: Small Business Wage Subsidy; data sharing; proportionality; SSS; DSWD; public authority; mandate.
 [^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 3 (f) (2016).
-[^3]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies [NPC Circular No. 16-02], § 3 (E) (October 10, 2016).
+[^3]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], § 3 (E) (October 10, 2016).
 [^4]: Id. § 1.
 [^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c) (2016).

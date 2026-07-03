@@ -22,7 +22,7 @@ Re: THE USE OF BLOCKCHAIN TECHNOLOGY FOR THE PHILIPPINE PERSONAL PROPERTY SECURI
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC) which sought guidance on the use of blockchain technology to store personal information obtained from clients by the Land Registration Authority (LRA) in the creation of the Philippine Personal Property Security Agency (Registry), and if such practice is in conformity with the provisions of the Data Privacy Act of 2012 (DPA) and its Implementing Rules and Regulations (IRR).
+We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC) which sought guidance on the use of blockchain technology to store personal information obtained from clients by the Land Registration Authority (LRA) in the creation of the Philippine Personal Property Security Agency (Registry), and if such practice is in conformity with the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).
 
 We understand that the LRA is mandated under Republic Act (RA) No. 11057, also known as the Personal Property Security Act (PPSA) to establish a centralized, online notice-based registry where notices relating to transactions on personal property may be registered.
 
@@ -93,7 +93,7 @@ To resolve this issue, LRA, along with the other participants of the proposed bl
 
 Another option, if technologically feasible, would be to design the blockchain technology in such a way that the number of participants in the entire process is limited. This way, it will be easier to determine the actual PICs and the respective responsibilities of each participant.
 
-LRA may take into further consideration the conduct of a privacy impact assessment (PIA) which shall, among others, assist the LRA in the identification, assessment, evaluation and management of the risks involved in the processing of personal data using blockchain technology. For a more comprehensive discussion on the conduct of a PIA, kindly refer to NPC Advisory No. 2017-03 available at https://www.privacy.gov.ph/wp-content/files/attachments/nwsltr/NPC_AdvisoryNo.2017-03.pdf.
+LRA may take into further consideration the conduct of a privacy impact assessment (PIA) which shall, among others, assist the LRA in the identification, assessment, evaluation and management of the risks involved in the processing of personal data using blockchain technology. For a more comprehensive discussion on the conduct of a PIA, kindly refer to [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]] available at https://www.privacy.gov.ph/wp-content/files/attachments/nwsltr/NPC_AdvisoryNo.2017-03.pdf.
 
 Further, it is recommended that the blockchain technology be purposefully designed from a data privacy perspective to enable data subjects to have more control over personal data that relates to them, given that privacy was never one of blockchain's original problems to be addressed as the same provides solutions on authenticity only. There may be available technological approaches and solutions to address the matter of immutability vis-à-vis exercise of data subject rights, i.e. technical methods (pruning, off-chain storage, encrypted in blockchain), as well as cryptographic and other advanced methods aiming at conditionally removing the immutability of the blockchain.
 
@@ -111,7 +111,7 @@ Privacy Commissioner
 [^1]: Tags: Personal Property Security Act; public authority; special cases; general data privacy principles; blockchain technology; immutability; personal information controller; data subject rights.
 [^2]: An Act Protecting the Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) and last ¶ (2016).
-[^4]: See generally: National Privacy Commission, NPC Advisory Opinion No. 2018-079 (Oct. 23, 2018).
+[^4]: See generally: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-079-v1-redacted-advisory-opinion-no-2018-079|NPC Advisory Opinion No. 2018-079]] (Oct. 23, 2018).
 [^5]: An Act Strengthening the Secured Transactions Legal Framework in the Philippines, Which Shall Provide for the Creation, Perfection, Determination of Priority, Establishment of a Centralized Notice Registry, and Enforcement of Security Interests in Personal Property, and For Other Purposes [Personal Property Security Act], Republic Act No. 11057, § 26 (b) (2018).
 [^6]: Rules and Regulations Implementing the Personal Property Security Act, § 5.05 (a) (2018).
 [^7]: As disclosed by the LRA in the attachment to its letter request: Annex B-PPSA_Discussion Sheet_Data Inventory and Data Privacy_01 (2020.05.07).

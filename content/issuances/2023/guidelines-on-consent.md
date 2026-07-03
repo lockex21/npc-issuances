@@ -23,9 +23,9 @@ DATE: 07 November 2023
 
 SUBJECT: GUIDELINES ON CONSENT
 
-**WHEREAS,** Section 7 of the DPA provides that the National Privacy Commission (NPC) is charged with the administration and implementation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), which includes ensuring the compliance of personal information controllers (PIC) with the provisions of the Act, and carrying out efforts to formulate and implement plans and policies that strengthen the protection of personal information, sensitive personal information, and privileged information (collectively, personal data), in the country in coordination with other government agencies and the private sector;
+**WHEREAS,** [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] provides that the National Privacy Commission (NPC) is charged with the administration and implementation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), which includes ensuring the compliance of personal information controllers (PIC) with the provisions of the Act, and carrying out efforts to formulate and implement plans and policies that strengthen the protection of personal information, sensitive personal information, and privileged information (collectively, personal data), in the country in coordination with other government agencies and the private sector;
 
-**WHEREAS,** under Section 9 of the Implementing Rules and Regulations of the DPA (IRR), the NPC is mandated to, among others, develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
+**WHEREAS,** under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] of the DPA (IRR), the NPC is mandated to, among others, develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
 
 **WHEREAS,** Sections 12 and 13 of the DPA enumerate the various criteria for lawful processing of personal data which includes the consent of the data subject;
 
@@ -69,7 +69,7 @@ This Circular is limited to the requirements of consent in relation to the proce
      - d. A PIC may use creative options such as dynamic or interactive infographics, auditory notices through announcements or pre-recorded audios, or short videos. The information may also be delivered by a scripted spiel delivered on or before entry into the system. A PIC may also use any similarly creative options that can help the data subject easily understand the processing of their personal data.
   4. *Consent Form.* It should contain all the information required in a privacy notice and indicate that consent is the lawful criteria for processing relied on. Consequently, it must contain a PIC's proposal to the data subject asking the latter to consent to the processing of personal data pursuant to the terms stated in the consent form. The data subject's acceptance of the provisions of the consent form creates a contract between the data subject and a PIC on the terms of processing of the personal data.
   5. *When required.* The requirement of having a privacy statement and notice is separate and distinct from obtaining the consent of the data subject in an appropriate consent form or its equivalent for the lawful processing of personal data.
-     - a. *General rule.* A privacy notice is required in any instance of processing, whether based on consent, other lawful criteria for processing under Sections 12 or 13 of the DPA, or where processing is under a special case pursuant to Section 4 of the DPA.
+     - a. *General rule.* A privacy notice is required in any instance of processing, whether based on consent, other lawful criteria for processing under Sections 12 or 13 of the DPA, or where processing is under a special case pursuant to [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]].
      - b. *Exception.* When a consent form already provides the essential information relating to the specific processing activity that enables the data subject to make an informed decision, a separate privacy notice on that specific processing is no longer necessary.
 - **E.** *Accessibility of information.* Information on the processing of personal data must be easy to access and understandable. The information must be readily available, and in a language or dialect that an average member of the target audience can understand.
 - **F.** *Accountability.* A PIC shall be held responsible for the information it provides to the data subject to obtain consent for the processing of personal data. Insufficiency of the information provided by a PIC to the data subject may render the consent given invalid.
@@ -171,7 +171,7 @@ Consent must be granular. In cases where personal data is processed for multiple
 
 **SECTION 14.** ***Direct Marketing.*** — Processing for direct marketing purposes may require consent in certain instances.
 
-- **A.** When processing is limited to personal information, a PIC may consider direct marketing as a legitimate interest under Section 12 (f) of the DPA and the processing will not require the consent of the data subject. The PIC must conduct an assessment whether direct marketing falls under its legitimate interest. If the result of the assessment reveals otherwise, the PIC may process personal information based on consent.
+- **A.** When processing is limited to personal information, a PIC may consider direct marketing as a legitimate interest under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] and the processing will not require the consent of the data subject. The PIC must conduct an assessment whether direct marketing falls under its legitimate interest. If the result of the assessment reveals otherwise, the PIC may process personal information based on consent.
 - **B.** A PIC shall obtain the consent of the data subject for direct marketing in cases where the nature of the processing would significantly affect the rights and freedoms of the data subject.
 - **C.** If the basis for processing is consent and the consent is withdrawn, a PIC cannot claim legitimate interest to continue processing. The rights of the data subject to withdraw consent and to object to the processing, in this case, is absolute.
 
@@ -200,7 +200,7 @@ Consent must be granular. In cases where personal data is processed for multiple
 
 ### MISCELLANEOUS PROVISIONS
 
-**SECTION 19.** ***Consent as an essential element of contracts.*** — The processing of sensitive personal information through a contract between a PIC and a data subject is understood to be processing based on consent of the data subject under Section 13 (a) of the DPA as long as the contract entered into complies with the requirements for consent under the DPA.
+**SECTION 19.** ***Consent as an essential element of contracts.*** — The processing of sensitive personal information through a contract between a PIC and a data subject is understood to be processing based on consent of the data subject under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (a) of the DPA]] as long as the contract entered into complies with the requirements for consent under the DPA.
 
 **SECTION 20.** ***Waiver of the rights of the data subject.*** — A waiver by a data subject of his or her data privacy rights, including the right to file a complaint, is void.
 

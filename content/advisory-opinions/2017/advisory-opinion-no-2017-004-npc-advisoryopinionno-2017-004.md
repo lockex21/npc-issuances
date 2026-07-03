@@ -27,13 +27,13 @@ Dear [Redacted],
 This pertains to your query received by the National Privacy Commission (NPC) on 7 November 2016 via email. In particular, you inquired regarding the following topics:
 
 1. whether the Right to Access is related to the Right to Data Portability
-2. Sec. 37 of the IRR, vis-à-vis the practice of industrial engineers practicing the Lean Sigma approach in an organization.
+2. Sec. 37 of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], vis-à-vis the practice of industrial engineers practicing the Lean Sigma approach in an organization.
 
 ### Discussion
 
 #### Right to Access vis-à-vis Right to Data Portability
 
-The right of a data subject to access his or her personal data is related to the right to data portability. The right to access is enshrined in Section 16(c) of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 (DPA), which states that a data subject, if he or she so demands, is entitled to reasonable access to the following:
+The right of a data subject to access his or her personal data is related to the right to data portability. The right to access is enshrined in Section 16(c) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012 (DPA), which states that a data subject, if he or she so demands, is entitled to reasonable access to the following:
 
 1. Contents of his or her personal information that were processed;
 2. Sources from which personal information were obtained;

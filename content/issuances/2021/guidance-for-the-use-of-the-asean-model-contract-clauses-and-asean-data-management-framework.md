@@ -22,7 +22,7 @@ draft: false
 
 **SUBJECT:** Guidance for the Use of the ASEAN Model Contract Clauses and ASEAN Data Management Framework
 
-WHEREAS, Republic Act No. 10173, also known as the Data Privacy Act of 2012, provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth. The State also recognizes its inherent obligation to ensure that personal information in information and communications systems in the government and in the private sector are secured and protected;[^1]
+WHEREAS, [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the Data Privacy Act of 2012, provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth. The State also recognizes its inherent obligation to ensure that personal information in information and communications systems in the government and in the private sector are secured and protected;[^1]
 
 WHEREAS, the National Privacy Commission has the mandate to ensure proper and effective coordination with data privacy regulators in other countries and private accountability agents, and participate in international and regional initiatives for data privacy protection, such as the Association of Southeast Nations (ASEAN);[^2]
 
@@ -66,7 +66,7 @@ WHEREFORE, in consideration of these premises, the National Privacy Commission h
 
    1. The ASEAN MCCs are voluntary standards designed to provide guidance on baseline considerations for transferring personal data. Contracting Parties, which include PICs and PIPs, in ASEAN Member States (AMS) may voluntarily adopt the MCCs in the transfer of personal data to other parties in other AMS.
 
-   2. ASEAN MCCs may also be used by companies or organizations to fulfill its obligations under [[laws/data-privacy-act-of-2012#Section 21|Section 21 of the DPA]] as one of the contractual or other reasonable means to provide a comparable level of protection while personal data are being processed by a third party.
+   2. ASEAN MCCs may also be used by companies or organizations to fulfill its obligations under [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]] as one of the contractual or other reasonable means to provide a comparable level of protection while personal data are being processed by a third party.
 
    3. Parties may, by written agreement, adopt or modify the ASEAN MCCs in accordance with the principles set forth in the ASEAN Framework on Personal Data Protection (2016) or as required by the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and other relevant issuances of the NPC.
 
@@ -171,7 +171,7 @@ The ASEAN MCCs can be accessed at https://asean.org/storage/3-ASEAN-Model-Contra
 
 10. Will the adoption of ASEAN MCCs amend the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and related issuances?
 
-   The ASEAN MCCs do not amend the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other related issuances of the National Privacy Commission (NPC). Rather, it may be used by companies to fulfill their obligations under [[laws/data-privacy-act-of-2012#Section 21|Section 21 of the DPA]] as one of the contractual or other reasonable means to provide a comparable level of protection while personal data are being processed by a third party. Likewise, nothing in the MCCs shall preclude, limit, or constrain NPC's exercise of its regulatory rights, powers, and discretion.
+   The ASEAN MCCs do not amend the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other related issuances of the National Privacy Commission (NPC). Rather, it may be used by companies to fulfill their obligations under [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]] as one of the contractual or other reasonable means to provide a comparable level of protection while personal data are being processed by a third party. Likewise, nothing in the MCCs shall preclude, limit, or constrain NPC's exercise of its regulatory rights, powers, and discretion.
 
 #### ASEAN Data Management Framework (ASEAN DMF)
 

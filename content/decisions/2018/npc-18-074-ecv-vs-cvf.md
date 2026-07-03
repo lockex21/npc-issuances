@@ -56,7 +56,7 @@ Subsequently, ECV informed the Commission, through an email sent on 07 August 20
 
 > There are two Marriage Contract[s] from Philippine Statistics Authority attached in the last part of the affidavit that they have submitted to the Department of Education, Region X - Northern Mindanao, Cagayan de Oro City. The Marriage Contract belongs to RV & ECV and RV & EI. I know this is an opportunity to file a complaint and protect my rights.[^11]
 
-In the email, ECV attached a Complaint dated 09 May 2018 filed before the Department of Education (DepEd) for Misconduct (DepEd Complaint), which included, as an attachment, ECV's Marriage Contract with RV dated 10 July 1987.[^12] In a succeeding email sent at 1:47 AM of the same day, ECV attached a letter in response to the DepEd Complaint.[^13] In the letter, she claimed that CVF is in violation of Section 25 of the DPA.[^14]
+In the email, ECV attached a Complaint dated 09 May 2018 filed before the Department of Education (DepEd) for Misconduct (DepEd Complaint), which included, as an attachment, ECV's Marriage Contract with RV dated 10 July 1987.[^12] In a succeeding email sent at 1:47 AM of the same day, ECV attached a letter in response to the DepEd Complaint.[^13] In the letter, she claimed that CVF is in violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].[^14]
 
 The Commission, through the Complaints and Investigation Division (CID), issued an Order to Confer for Discovery, which directed the parties to appear before the Commission on 18 October 2018.[^15]
 
@@ -90,7 +90,7 @@ In an Order dated 13 April 2019, the CID directed the parties to submit their Co
 
 CVF submitted a Manifestation of Compliance dated 07 June 2019.[^20] She manifested that no compromise agreement was reached and attached her Responsive Comment to the Complaint.[^21]
 
-In her Responsive Comment dated 07 June 2019,[^22] CVF: 1) denied the allegation that she obtained ECV's Marriage Certificate, or that she made any processing in relation to said Marriage Certificate;[^23] 2) claimed that ECV has long harassed CVF and her family, which led the latter to file the DepEd Complaint for Misconduct, docketed as Admin Case No. 10-18-027;[^24] and 3) raised the defense that the Complaint should be dismissed outright for being filed beyond the reglementary period under Section 4(c), Rule II,[^25] and Section 12(b), (c), and (d), Rule III,[^26] of NPC Circular No. 16-04 (2016 NPC Rules of Procedure).
+In her Responsive Comment dated 07 June 2019,[^22] CVF: 1) denied the allegation that she obtained ECV's Marriage Certificate, or that she made any processing in relation to said Marriage Certificate;[^23] 2) claimed that ECV has long harassed CVF and her family, which led the latter to file the DepEd Complaint for Misconduct, docketed as Admin Case No. 10-18-027;[^24] and 3) raised the defense that the Complaint should be dismissed outright for being filed beyond the reglementary period under Section 4(c), Rule II,[^25] and Section 12(b), (c), and (d), Rule III,[^26] of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] (2016 NPC Rules of Procedure).
 
 ECV filed a Comment and Opposition dated 25 November 2019.[^27] She reiterated the contents anchoring her complaint,[^28] narrated various cases between the parties,[^29] and alleged that the complaint before the Commission was timely filed.[^30]
 
@@ -188,7 +188,7 @@ The Commission finds the first element present. There is substantial evidence to
 
 The second element of Section 25(b) of the DPA is also present. Under the DPA, sensitive personal information includes a person's marital race, status, and age.[^57] ECV's Marriage Contract contains these pieces of information.
 
-The last element of the crime requires that the processing be without the consent of the data subject or without authority under the DPA or any existing law.[^58] This element, however, is absent. The Commission finds that the processing of ECV's sensitive personal information was anchored on Section 13(f) of the DPA, which provides:
+The last element of the crime requires that the processing be without the consent of the data subject or without authority under the DPA or any existing law.[^58] This element, however, is absent. The Commission finds that the processing of ECV's sensitive personal information was anchored on [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]], which provides:
 
 > SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
@@ -210,7 +210,7 @@ CVF submitted various pieces of evidence to support her DepEd Complaint, namely:
 
 To be clear, the Commission is not the proper body to determine the merits of the legal claims that are sought to be established, exercised, or defended by parties, pursuant to Section 13(f) of the DPA.[^71] It cannot rule on whether the Marriage Contract helps or detracts from CVF's complaint. Rather, the Commission's task is to determine whether the processing of personal information complies with the DPA, and other related issuances of the Commission.
 
-Further, in relation to compliance with the DPA, the Commission emphasizes that though there may be lawful basis in processing personal or sensitive personal information, such as anchoring the processing in Section 13(f) of the DPA, the said processing must still adhere and be consistent with Section 11 of the DPA, which provides for the General Data Privacy Principles of transparency, legitimate purpose, and proportionality.[^72]
+Further, in relation to compliance with the DPA, the Commission emphasizes that though there may be lawful basis in processing personal or sensitive personal information, such as anchoring the processing in Section 13(f) of the DPA, the said processing must still adhere and be consistent with [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]], which provides for the General Data Privacy Principles of transparency, legitimate purpose, and proportionality.[^72]
 
 The DepEd Complaint relates to ECV's misconduct.[^73] CVF contextualizes the "strained relationship" between the parties as a result of a boundary dispute,[^74] and ECV's various gossips that tainted CVF and her family's reputation.[^75] She argues that "[a] teacher's duty is not limited to being an agent of knowledge but, above all else, an agent of morals… A teacher, both in her official and personal conduct, must display exemplary behavior."[^76]
 

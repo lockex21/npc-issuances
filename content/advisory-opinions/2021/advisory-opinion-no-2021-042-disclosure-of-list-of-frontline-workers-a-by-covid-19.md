@@ -45,7 +45,7 @@ Privacy Act of 2012[^2] (DPA).
 A list of names, by itself, is considered personal information under the DPA. However, a list
 of names of COVID-19 patients are considered sensitive personal information since it
 pertains to the health information of the said individuals. Hence, to be able to process such
-data, there must be lawful basis under Section 13 of the DPA.
+data, there must be lawful basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 In this scenario, the DOH, as the health authority of the country, has information on COVID-
 19 cases and related deaths. However, the processing of the said information is limited only

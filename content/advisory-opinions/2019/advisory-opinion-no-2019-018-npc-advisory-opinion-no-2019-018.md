@@ -27,7 +27,7 @@ Re: DATA COLLECTION SURVEYS BY GOVERNMENT AGENCIES
 
 Dear [Redacted],
 
-We write in response to your letter which sought guidance from the National Privacy Commission (NPC) with regard to the application of the Data Privacy Act of 2012[^2] (DPA) in data collection surveys conducted by the Philippine Statistics Authority (PSA).
+We write in response to your letter which sought guidance from the National Privacy Commission (NPC) with regard to the application of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) in data collection surveys conducted by the Philippine Statistics Authority (PSA).
 
 We understand that the PSA is a government agency primarily responsible for all national censuses and surveys, sectoral statistics, consolidation of selected administrative recording systems and compilation of the national accounts.[^3]
 
@@ -62,7 +62,7 @@ We understand that under the Philippine Statistical Act of 2013, there are insta
 
 Thus, where a statistical inquiry or survey is determined to be with an obligation to provide information, the same is mandatory and the PSA need not obtain consent of the data subjects for the collection of their personal data.
 
-We wish to emphasize that the DPA, its Implementing Rules and Regulations (IRR), and related issuances of the NPC should be read together with existing laws. The DPA has the twin task of protecting the right to privacy while ensuring the free flow of information, and should not be used as an excuse for non-compliance with other existing laws, rules, and regulations.[^7]
+We wish to emphasize that the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and related issuances of the NPC should be read together with existing laws. The DPA has the twin task of protecting the right to privacy while ensuring the free flow of information, and should not be used as an excuse for non-compliance with other existing laws, rules, and regulations.[^7]
 
 #### General Data Privacy Principles
 
@@ -78,7 +78,7 @@ Lastly, information collected, used and stored shall be adequate, relevant, suit
 
 Every PIC should implement reasonable and appropriate organizational, physical and technical security measures for protection of personal data. The appropriate level of security must take into account the nature of the personal data that requires protection, the risks posed by the processing, the size of the organization and complexity of its operations, current data privacy best practices, and the cost of security implementation, among others.[^11]
 
-As to the sharing of personal data between or among government agencies, it must always be for the purpose of a public function or provision of a public service and should be covered by a data sharing agreement.[^12] Relative thereto, the NPC issued Circular No. 16-02[^13] which sets out the guidelines for data sharing agreements involving government agencies.
+As to the sharing of personal data between or among government agencies, it must always be for the purpose of a public function or provision of a public service and should be covered by a data sharing agreement.[^12] Relative thereto, the NPC issued [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Circular No. 16-02]][^13] which sets out the guidelines for data sharing agreements involving government agencies.
 
 These provisions emphasize that the data sharing may be done to facilitate performance of a public function and to provide public services.[^14] Data sharing between government agencies for the above purposes is not prohibited provided that the function or service is consistent with and necessarily required under the general mandate of the agencies concerned.[^15]
 
@@ -103,7 +103,7 @@ Privacy Commissioner and Chairman
 [^4]: Philippine Statistics Authority, Resolution No. 5, Series of 2015, Article I (March 20, 2015).
 [^5]: Data Privacy Act of 2012, § 3 (g). *Personal information* refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 [^6]: *Id.* § 4.
-[^7]: *See:* National Privacy Commission, Advisory Opinion No. 2018-035 (20 July 2018).
+[^7]: *See:* National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-035-npc-advisory-opinion-no-2018-035|Advisory Opinion No. 2018-035]] (20 July 2018).
 [^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (2016).
 [^9]: *Id.* § 18 (a).
 [^10]: *Id.* § 18 (b).

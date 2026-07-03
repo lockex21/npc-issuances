@@ -50,7 +50,7 @@ On 20 February 2020, the Commission received a Compliance submission from Respon
 5. A copy of the presentation of Fynamics on its ongoing efforts for data collection and usage as well as optimization of data collection systems (Annex E); and
 6. A copy of the certification issued by Fynamics' external legal counsel, Gonzales & Quismorio Law Offices (Annex F).
 
-Under NPC Circular No. 16-04 or the NPC Rules of Procedure, the Commission may order the conduct of a clarificatory hearing if, in its discretion, additional information is needed to make a Decision.
+Under [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] or the NPC Rules of Procedure, the Commission may order the conduct of a clarificatory hearing if, in its discretion, additional information is needed to make a Decision.
 
 After due consideration of the evidence presented as of the date of this Order, the Commission finds that a clarificatory hearing is needed for the proper disposition of this case.
 

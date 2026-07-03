@@ -42,7 +42,7 @@ x----x
 
 AGUIRRE, D.P.C.
 
-Before this Commission is a Complaint by JRG (Complainant) against Creditable Lending Corporation (Respondent) for a violation of the Data Privacy Act of 2012.
+Before this Commission is a Complaint by JRG (Complainant) against Creditable Lending Corporation (Respondent) for a violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
 
 ### Facts
 
@@ -110,7 +110,7 @@ Personal information controllers who rely on consent as basis to process their i
 
 In its waiver provision, Respondent combines various purposes for disclosure and various parties to be given access of Complainant’s information. This does not meet the requirement for consent to be specific. Having an enumeration of each and every purpose of the processing in a single paragraph still fails to provide the data subject with a genuine choice as he or she will be bound to sign off on the entire provision in toto.[^20]
 
-Provisions that use vague and overbroad language, as in this case, cannot be said to comply with the general privacy principle of transparency. As the DPA’s Implementing Rules and Regulations explain:
+Provisions that use vague and overbroad language, as in this case, cannot be said to comply with the general privacy principle of transparency. As the DPA’s [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] explain:
 
 The data subject must be aware of the nature, purpose, and extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of personal information controller, his or her rights as a data subject, and how these can be exercised. Any information and communication relating to the processing of personal data should be easy to access and understand, using clear and plain language.
 
@@ -157,7 +157,7 @@ GENERAL RECORDS UNIT
 [^8]: Order dated 18 September 2019.
 [^9]: Comment dated 08 October 2019. Emphasis supplied.
 [^10]: *Ibid*.
-[^11]: NPC Circular No. 16-04 dated 15 December 2016 (“NPC Rules of Procedure”), Section 22. Emphasis supplied.
+[^11]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] dated 15 December 2016 (“NPC Rules of Procedure”), Section 22. Emphasis supplied.
 [^12]: G.R. No. 165585, 20 November 2013, citing *Real v. Belo*, 542 Phil. 109 (2007).
 [^13]: Republic Act No. 10173, Section 25.
 [^14]: *Id.*, at Section 28.

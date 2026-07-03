@@ -26,7 +26,7 @@ This pertains to your query received by the National Privacy Commission (NPC) on
 
 ### Discussion
 
-Section 4 of the Data Privacy Act of 2012 (DPA) provides for information excluded from its scope, to wit:
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the Data Privacy Act of 2012]] (DPA) provides for information excluded from its scope, to wit:
 
 "SECTION 4. Scope – xxx xxx xxx
 

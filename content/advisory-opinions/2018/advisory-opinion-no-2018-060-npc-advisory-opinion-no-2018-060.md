@@ -39,7 +39,7 @@ You likewise ask for clarification on the limitations to BSP's authority and the
 
 #### Exclusions from the Scope of the DPA
 
-Under Section 4(e) of the DPA, information necessary in order to carry out the functions of public authority is excluded from the scope of the law. This includes the processing of personal data for the performance by the independent central monetary authority its constitutionally and statutorily mandated functions.
+Under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]], information necessary in order to carry out the functions of public authority is excluded from the scope of the law. This includes the processing of personal data for the performance by the independent central monetary authority its constitutionally and statutorily mandated functions.
 
 The exclusion above is not absolute. The exclusion of the information specified in Section 4 of the DPA is only to the minimum extent necessary to achieve the specific purpose, function or activity. Given this, the personal and sensitive personal information (collectively, personal data) enumerated in Section 4 may be lawfully processed by a personal information controller (PIC), even without meeting the conditions under Sections 12 and 13 of the DPA, but the processing shall be limited to that necessary to achieve the specific purpose, function or activity. The PIC is still required, however, to implement measures to secure and protect the personal data.
 
@@ -58,7 +58,7 @@ Further, the BSP stated that the director and examiners of the concerned departm
 
 In this case, the BSP, having a constitutional[^2] and statutory[^3] mandate to collect and process personal data, may do so even without the consent of the data subjects. But this is with the concomitant responsibility of ensuring that organizational, physical, and technical security measures are in place to protect the personal data it is processing.
 
-In addition, we trust that the BSP is well aware of its obligations under the DPA, its IRR, and issuances of the NPC, specifically NPC Circular No. 16-01 on the Security of Personal Data in Government Agencies, which requires all government agencies engaged in the processing of personal data to observe the following duties and responsibilities:
+In addition, we trust that the BSP is well aware of its obligations under the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances of the NPC, specifically [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security of Personal Data in Government Agencies, which requires all government agencies engaged in the processing of personal data to observe the following duties and responsibilities:
 
 A. through its head of agency, designate a Data Protection Officer;
 B. conduct a Privacy Impact Assessment for each program, process or measure within the agency that involves personal data;

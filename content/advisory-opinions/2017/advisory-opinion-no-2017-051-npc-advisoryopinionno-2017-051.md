@@ -26,9 +26,9 @@ This is with regard to your query received by the National Privacy Commission (N
 
 ### Discussion
 
-Under Section 3(b) of the Data Privacy Act of 2012 (DPA) and Section 3(d) of its Implementing Rules and Regulations (IRR), consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. It shall be evidenced by written, electronic or recorded means. As such, implied, implicit or negative consent is not recognized under the law.
+Under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the Data Privacy Act of 2012]] (DPA) and Section 3(d) of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. It shall be evidenced by written, electronic or recorded means. As such, implied, implicit or negative consent is not recognized under the law.
 
-As a rule, the processing of personal information is PERMITTED under the DPA when at least one of the conditions provided under Section 12 of the DPA is present:
+As a rule, the processing of personal information is PERMITTED under the DPA when at least one of the conditions provided under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] is present:
 
 - **A.** The data subject has given his or her consent;
 - **B.** The processing of personal information is necessary and is related to the fulfillment of a contract with the data subject or in order to take steps at the request of the data subject prior to entering into a contract;
@@ -37,7 +37,7 @@ As a rule, the processing of personal information is PERMITTED under the DPA whe
 - **E.** The processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate; or
 - **F.** The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
 
-As to sensitive personal information, the processing thereof is PROHIBITED, except for any of the following cases under Section 13 of the DPA:
+As to sensitive personal information, the processing thereof is PROHIBITED, except for any of the following cases under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]:
 
 - **A.** The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing;
 - **B.** The processing of the same is provided for by existing laws and regulations: *Provided*, That such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: *Provided, further*, That the consent of the data subjects are not required by law or regulation permitting the processing of the sensitive personal information or the privileged information;

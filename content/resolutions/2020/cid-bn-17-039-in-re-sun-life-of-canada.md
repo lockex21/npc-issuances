@@ -72,13 +72,13 @@ The Commission recognizes that Sun Life has premised its request for exemption o
 
 However, Sun Life failed to take into account that the number of affected data subjects is more than one hundred (100) individuals which falls under the mandatory breach notification as provided by Section 13 (B) of NPC Circular 16-03.
 
-According to Section 38 of the Data Privacy Act of 2012 (DPA), "Any doubt in the interpretation of any provision of this Act shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed." Thus, the DPA and the rules and regulations in relation to data privacy should be interpreted in a manner that will uphold the data privacy rights of the individual. Hence, the Commission does not see any reason to disturb the general rule for the PIC to notify the data subjects affected by a personal data breach[^1].
+According to [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38 of the Data Privacy Act of 2012]] (DPA), "Any doubt in the interpretation of any provision of this Act shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed." Thus, the DPA and the rules and regulations in relation to data privacy should be interpreted in a manner that will uphold the data privacy rights of the individual. Hence, the Commission does not see any reason to disturb the general rule for the PIC to notify the data subjects affected by a personal data breach[^1].
 
 The Commission then deems it wise to order Sun Life to notify the affected data subjects to provide them the reasonable opportunity to take the necessary precautions or other measures to protect themselves against the possible effects of the breach.
 
 On another matter, the Commission notes that as of the date of the promulgation of this Resolution, it has yet to receive its full breach report as required under NPC Circular 16-03. The Commission reminds Sun Life that the DPA requires two (2) different reports in case of a data breach.
 
-As held by the Commission in the case of *In re: SLGF* (NPC BN 19-115):
+As held by the Commission in the case of *In re: SLGF* ([[resolutions/2020/npc-bn-19-115-in-re-sun-life-of-grepa-financial-inc|NPC BN 19-115]]):
 
 > Section 17 of the NPC Circular 16-03 speaks of two notification requirements to be submitted to the Commission in case a data breach cases. First is the initial notification[^2] that informs to the Commission that a personal data breach has occurred. This has no particular form or content as it merely requires that the Commission to be notified within seventy-two (72) hours. The second notification[^3] is the Full Breach Report which contains a more specific and concrete narration of facts surrounding the incident, the effect of such incident and the remedial actions taken by the PIC. The full breach report that the Commission requires must include, but not be limited to:
 >

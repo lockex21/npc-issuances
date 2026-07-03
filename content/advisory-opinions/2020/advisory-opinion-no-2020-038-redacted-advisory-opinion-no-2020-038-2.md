@@ -38,7 +38,7 @@ This would include having the appropriate policies in place to govern the proces
 
 #### Personal Data Breach; Notification Requirements
 
-As the incident happened prior to the effectivity of NPC Circular No. 16-03 on the management of personal data breaches, we refer instead to Section 38 of the Implementing Rules and Regulations (IRR) of the DPA, to wit:
+As the incident happened prior to the effectivity of NPC Circular No. 16-03 on the management of personal data breaches, we refer instead to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-38-data-breach-notification|Section 38 of the Implementing Rules and Regulations]] (IRR) of the [[laws/data-privacy-act-of-2012|DPA]], to wit:
 
 > Section 38. Data Breach Notification.
 >

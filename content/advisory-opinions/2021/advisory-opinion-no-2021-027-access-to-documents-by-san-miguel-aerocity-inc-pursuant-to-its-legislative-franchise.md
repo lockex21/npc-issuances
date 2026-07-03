@@ -42,8 +42,7 @@ government agencies and may contain personal and/or sensitive personal informati
 (collectively, personal data).
 
 You now ask whether SMAI may be provided with these documents and process the personal
-data contained therein pursuant to Sections 5 (c) and (d) and Section 22 (b) of the
-Implementing Rules and Regulations[^4] (IRR) of the Data Privacy Act of 2012[^5] (DPA).
+data contained therein pursuant to Sections 5 (c) and (d) and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-22-sensitive-personal-information-and-privileged-information|Section 22 (b) of the Implementing Rules and Regulations]][^4] (IRR) of the Data Privacy Act of 2012[^5] (DPA).
 
 #### Scope of the DPA; special cases; lawful basis for processing; legal obligation; laws and regulations
 
@@ -57,7 +56,7 @@ person, the DPA does not apply.
 
 As to those which pertain to natural persons, the processing of the same should have a lawful
 basis under the DPA. As mentioned in your letter, you posit that SMAI’s processing is
-anchored on Sections 5 (c) and (d) and Section 22 (b) of the DPA’s IRR, which refers to
+anchored on Sections 5 (c) and (d) and [[laws/data-privacy-act-of-2012#section-22-responsibility-of-heads-of-agencies|Section 22 (b) of the DPA]]’s IRR, which refers to
 information necessary for research, for carrying out functions as a public authority, and
 processing that is provided for by existing laws and regulations, respectively. Moreover, as
 specified in your letter, the SMAI’s right and authority over the requested documents refer to
@@ -100,7 +99,7 @@ personal data being processed, to wit:
 
 #### General data protection principles; proportionality; safeguards
 
-In Advisory Opinion No. 2020-036,[^6] we discussed a similar concern of the National Grid
+In [[advisory-opinions/2020/advisory-opinion-no-2020-036-redacted-advisory-opinion-no-2020-036-2|Advisory Opinion No. 2020-036]],[^6] we discussed a similar concern of the National Grid
 Corporation of the Philippines (NGCP) as to their request to secure land documents, under
 the custody of local government units:
 

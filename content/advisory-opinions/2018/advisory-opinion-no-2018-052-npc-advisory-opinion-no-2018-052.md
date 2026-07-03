@@ -29,8 +29,7 @@ We write in response to your letter to the National Privacy Commission (NPC), re
 comments on the authority of the Commission on Higher Education (CHED) to collect data for
 its “monitoring and validation activities” under CHED Memorandum Order No. 3, series of 2012,
 “Enhanced Policies, Guidelines and Procedures Governing Increases in Tuition and Other School
-Fees, Introduction of New Fees, and for Other Purposes” (CMO No. 03) in relation to the Data
-Privacy Act of 2012 (DPA).[^1] You have likewise provided us the following documents:
+Fees, Introduction of New Fees, and for Other Purposes” (CMO No. 03) in relation to the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^1] You have likewise provided us the following documents:
 
 ### Discussion
 
@@ -106,8 +105,8 @@ or policy.[^9] In addition, the security measures should ensure to maintain the 
 and confidentiality of personal data, protect the same from any accidental or unlawful
 destruction, alteration, disclosure and unlawful processing.[^10]
 
-We trust that the CHED is well aware of its obligations under the DPA, its IRR, and issuances of
-the NPC, specifically NPC Circular No. 16-01 on the Security of Personal Data in Government
+We trust that the CHED is well aware of its obligations under the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances of
+the NPC, specifically [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security of Personal Data in Government
 Agencies, which requires all government agencies engaged in the processing of personal data to
 observe the following duties and responsibilities:
 

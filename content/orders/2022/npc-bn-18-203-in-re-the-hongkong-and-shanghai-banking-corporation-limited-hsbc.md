@@ -223,7 +223,7 @@ GENERAL RECORDS UNIT
 [^30]: Initial Report (Data Breach Due to Lost Mail Packs dated 29 October 2018) of Hongkong and Shanghai Banking Corporation Limited, dated 31 October 2018, at p. 2.
 [^31]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16-03, rule V, § 11.
 [^32]: Full Breach Report (In Compliance with the Order dated 07 October 2020) of Hongkong and Shanghai Banking Corporation Limited, dated 23 October 2020, at p. 3.
-[^33]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter V, § 20 (f) (2012).
+[^33]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter V, § 20 (f) (2012).
 [^34]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16-03, rule V, § 11 (a).
 [^35]: Initial Report (Data Breach Due to Lost Mail Packs dated 29 October 2018) of Hongkong and Shanghai Banking Corporation Limited, dated 31 October 2018, at p. 2.
 [^36]: Initial Report (Data Breach Due to Lost Mail Packs dated 29 October 2018) of Hongkong and Shanghai Banking Corporation Limited, dated 31 October 2018, at p. 2.

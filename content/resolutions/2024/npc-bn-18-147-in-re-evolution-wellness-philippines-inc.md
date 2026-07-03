@@ -301,7 +301,7 @@ It is notable that in the notarized affidavit of RKH, the notifications are cons
 
 In addition, Evolution has implemented reasonable and appropriate organizational, physical, and technical measures to address the breach and prevent its recurrence.
 
-Relative to a personal information controller's (PIC) duty to implement measures to protect personal information, Section 20 (a) of the Data Privacy Act of 2012 (DPA) provides:
+Relative to a personal information controller's (PIC) duty to implement measures to protect personal information, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) of the Data Privacy Act of 2012]] (DPA) provides:
 
 > Sec. 20. Security of Personal Information.
 >

@@ -23,7 +23,7 @@ Re: REQUEST FOR OFFICIAL LIST OF LEGITIMATE TAXI OPERATORS
 
 Dear [Redacted],
 
-We write in response to your letter forwarded by the Civil Service Commission - Cordillera Administrative Region on the request of the Association of Independent Taxi Operations and Drivers in the Cordillera (Association) for legal opinion on matters involving the Data Privacy Act of 2012[^2] (DPA).
+We write in response to your letter forwarded by the Civil Service Commission - Cordillera Administrative Region on the request of the Association of Independent Taxi Operations and Drivers in the Cordillera (Association) for legal opinion on matters involving the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 We understand that the Association requested from the Land Transportation Franchising and Regulatory Board – Cordillera Administrative Region (LTFRB-CAR) the list of legitimate taxi operators in the CAR in order for the Association to assist concerned government agencies in the anti-colorum drive and traffic decongestion efforts.
 

@@ -98,11 +98,11 @@ On a Memorandum dated 31 January 2020, the DASCO recommended to this Commission 
 
 ### Discussion
 
-The power of this Commission to issue Cease and Desist Order is explicitly provided in Section 7(c) of the Data Privacy Act ("DPA"), thus:
+The power of this Commission to issue Cease and Desist Order is explicitly provided in [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(c) of the Data Privacy Act]] ("DPA"), thus:
 
 > Section 7(c). Issue cease and desist orders, impose a temporary or permanent ban on the processing of personal information, upon finding that the processing will be detrimental to national security and public interest. (Emphasis supplied)
 
-The same power was reiterated in Section 9.f.3 of the Implementing Rules and Regulations of the DPA, to wit:
+The same power was reiterated in Section 9.f.3 of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the DPA, to wit:
 
 > Section 9. Functions. The National Privacy Commission shall have the following functions:
 >

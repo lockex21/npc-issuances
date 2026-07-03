@@ -34,8 +34,7 @@ actions and measures pertaining to all aspects of disaster risk reduction and ma
 the National Capital Region.
 
 We understand further that the MMDRRMC is structured as a Regional Disaster Risk
-Reduction and Management Council (RDRRMC) under the Implementing Rules and
-Regulations (IRR) of Republic Act (RA) No. 10121 otherwise known as the Philippine Disaster
+Reduction and Management Council (RDRRMC) under the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of Republic Act (RA) No. 10121 otherwise known as the Philippine Disaster
 Risk Reduction and Management Act of 2010.
 
 As an RDRRMC, the MMDRRMC is mandated to coordinate, integrate, supervise, monitor
@@ -69,7 +68,7 @@ order to respond to national emergency, to comply with the requirements of publi
 safety, or to fulfill functions of public authority which necessarily includes the processing of
 personal data for the fulfillment of its mandate. For sensitive personal information, the
 processing of the same is generally prohibited except in certain instances provided for under
-Section 13 of the DPA, one of which is when processing is provided for by existing laws and
+[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], one of which is when processing is provided for by existing laws and
 regulations.
 
 The above provisions may be applicable to the data sharing involving the MMDRRMC and other government agencies engaged in disaster risk reduction and management since the data sharing arrangement is mandated by law or regulation.

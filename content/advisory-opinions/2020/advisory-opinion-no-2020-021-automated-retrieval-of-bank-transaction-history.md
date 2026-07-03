@@ -24,8 +24,7 @@ Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to clarify issues on the rights of data subjects and
-compliance requirements under the Data Privacy Act of 2012 (DPA), its Implementing Rules
-and Regulations (IRR) and other relevant issuances of the NPC in relation to automated
+compliance requirements under the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and other relevant issuances of the NPC in relation to automated
 retrieval of data.
 
 We understand that your client, ING Bank N.V. Philippines (ING), a banking entity, operates
@@ -85,7 +84,7 @@ done with personal data in any form, including by automated means.
 Hence, the name, account number and the bank account transaction history of a potential
 borrower are considered personal information since it directly identifies a specific individual.
 The automated retrieval thereof, considered a form of processing, must comply with the
-standards provided by Section 12 of the DPA.
+standards provided by [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]].
 
 #### Exercise of the rights of a data subject; right to access; right to data portability
 

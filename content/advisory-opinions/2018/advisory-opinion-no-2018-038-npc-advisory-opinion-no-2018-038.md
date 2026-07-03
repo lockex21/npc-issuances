@@ -28,7 +28,7 @@ We write in response to your request for advisory opinion received by the Nation
 
 In your letter, you have mentioned that there is currently a discussion as to who is the PIC and personal information processor (PIP) between the DOTr and AF Payments Inc. (AFPI), the entity tasked to issue the Concessionary BEEP™ Cards to identified patrons, in compliance with the Automated Fare Collection System (AFCS) Concession Agreement between AFPI and the DOTr.
 
-Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), clearly defines a PIC in Section 3(h) as the person or entity who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf.
+[[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), clearly defines a PIC in Section 3(h) as the person or entity who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf.
 
 There is control if the natural or juridical person or any other body decides on what information is collected, or the purpose or extent of its processing.[^2]
 
@@ -44,7 +44,7 @@ Although AFPI directly handles and processes personal information of applicants 
 
 It is worthy to note that indeed, while PIPs exercise some degree of control and are given freedom to execute technical strategies to carry out the activities instructed by the PIC, it is still the PIC who exercises overall control over the purpose and manner of processing.[^5] Particularly, when the basis of personal data processing is the statutory mandate of an entity, such organization continues to be the PIC.[^6]
 
-Considering the above discussion, it then follows that the scope and limitation of the processing activities to be performed by AFPI should be clearly defined in the Outsourcing Agreement. It is the duty of the PIC to ensure that the contract contains all the provisions discussed in Rule 10 of the Implementing Rules and Regulations (IRR) of the DPA and issuances of the NPC, particularly on the required security measures and personal data breach management.
+Considering the above discussion, it then follows that the scope and limitation of the processing activities to be performed by AFPI should be clearly defined in the Outsourcing Agreement. It is the duty of the PIC to ensure that the contract contains all the provisions discussed in Rule 10 of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the DPA and issuances of the NPC, particularly on the required security measures and personal data breach management.
 
 As to the role of the PTOs in the AFCS, there is a need to clarify and define their obligations with respect to its contract with AFPI *vis-à-vis* the AFCS Concession Agreement between DOTr and AFPI.
 

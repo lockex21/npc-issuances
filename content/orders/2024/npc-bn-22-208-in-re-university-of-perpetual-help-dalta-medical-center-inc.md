@@ -106,7 +106,7 @@ Section 11, NPC Circular No. 16-03 (Personal Data Breach Management) provides wh
 
 In this case, all the elements of mandatory breach notification are present. As to the first element, the incident that affected UPHDMC's systems contains sensitive personal information and other information that may be used to enable identity fraud.[^13]
 
-Section 3 (l) of Republic Act 10173 or the Data Privacy Act of 2012 (DPA) defines sensitive personal information as personal information:
+Section 3 (l) of Republic Act 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) defines sensitive personal information as personal information:
 
 > (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations;
 >

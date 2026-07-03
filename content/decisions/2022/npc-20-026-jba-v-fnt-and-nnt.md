@@ -174,7 +174,7 @@ After received JBA's Memorandum, FNT, through an email dated 14 June 2022, reque
 
 I. Whether NNT is liable for violating the DPA; and
 
-II. Whether FNT is liable for Section 25 (Unauthorized Processing of Personal or Sensitive Personal Information) of the DPA.
+II. Whether FNT is liable for [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (Unauthorized Processing of Personal or Sensitive Personal Information) of the DPA]].
 
 ### Discussion
 
@@ -228,7 +228,7 @@ Unauthorized Processing of Personal or Sensitive Personal Information is committ
 
 All three (3) requisites are present.
 
-On the first requisite, FNT processed the information of her data subject, JBA. Section 3 of the DPA defines processing as follows:
+On the first requisite, FNT processed the information of her data subject, JBA. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] defines processing as follows:
 
 > Section 3. Definition of Terms.
 >
@@ -270,7 +270,7 @@ JBA, however, also presented screenshots of websites demonstrating that ads were
 
 The dates of these particular ad listings show that they were posted after JBA's resignation dated 30 October 2018. To recall, JBA's resignation letter explicitly contained her withdrawal of consent and request for the exercise of her right to erasure.[^102] Thus, since these ads were posted after JBA's resignation, FNT's processing of JBA's personal information on these particular ads was done without her consent or authority under the DPA or any existing law.
 
-Section 16 of the DPA specifically provides for a data subject's right to erasure:
+[[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]] specifically provides for a data subject's right to erasure:
 
 > Section 16. Rights of the Data Subject. The data subject is entitled to:
 >
@@ -278,7 +278,7 @@ Section 16 of the DPA specifically provides for a data subject's right to erasur
 >
 > (e) Suspend, withdraw or order the blocking, removal or destruction of his or her personal information from the personal information controller's filing system upon discovery and substantial proof that the personal information are incomplete, outdated, false, unlawfully obtained, used for unauthorized purposes or are no longer necessary for the purposes for which they were collected. In this case, the personal information controller may notify third parties who have previously received such processed personal information.[^103]
 
-Section 34 of the Implementing Rules and Regulations (IRR) further explains when this right may be exercised:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 of the Implementing Rules and Regulations]] (IRR) further explains when this right may be exercised:
 
 > Section 34. Rights of the Data Subject. The data subject is entitled to the following rights:
 >
@@ -562,7 +562,7 @@ GENERAL RECORDS UNIT
 
 [^78]: National Privacy Commission, 2016 Rules of Procedure of the National Privacy Commission [NPC 2016 Rules of Procedure], rule II, 10 (15 December 2016). Emphasis supplied.
 
-[^79]: NPC 19-465, 03 March 2022, at 7, 10 (NPC 2022) (unreported).
+[^79]: [[decisions/2022/npc-19-465-gjj-v-easy-peso|NPC 19-465]], 03 March 2022, at 7, 10 (NPC 2022) (unreported).
 
 [^80]: Complaints-Assisted Form, 20 January 2020, at 3, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
 
@@ -580,7 +580,7 @@ GENERAL RECORDS UNIT
 
 [^87]: Verified Comment of FNT, 23 December 2021, at 1, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
 
-[^88]: NPC 19-134, 10 December 2021, at 12 (NPC 2021) (unreported).
+[^88]: [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021, at 12 (NPC 2021) (unreported).
 
 [^89]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, a nd For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, 3 (j) (2012). Emphasis supplied.
 
@@ -590,7 +590,7 @@ GENERAL RECORDS UNIT
 
 [^92]: Data Privacy Act of 2012, 3 (g).
 
-[^93]: NPC 21-031, 03 March 2022, at 9 (NPC 2022) (unreported).
+[^93]: [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], 03 March 2022, at 9 (NPC 2022) (unreported).
 
 [^94]: Complaints-Assisted Form, 20 January 2020, at 25-120, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
 

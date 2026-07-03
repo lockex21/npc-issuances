@@ -33,11 +33,11 @@ This pertains to your query received by the National Privacy Commission (NPC) on
 
 Section 1 of the Circular states:
 
-> Scope. These Rules apply to any natural and juridical person in the government or private sector processing personal data in (sic) outside of the Philippines, subject to the relevant provisions of the Act and its Implementing Rules and Regulations.
+> Scope. These Rules apply to any natural and juridical person in the government or private sector processing personal data in (sic) outside of the Philippines, subject to the relevant provisions of the Act and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]].
 
 The foregoing provision declares that the scope of the Circular includes those personal data processing activities that are conducted both within and outside the Philippines. The Commission regrets any confusion that may have been caused by the typographical error.
 
-Furthermore, note that the Circular should be read in conjunction with the applicable provisions of Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA), and its Implementing Rules and Regulations (IRR), particularly those pertaining to the law’s extra-territorial application.[^1]
+Furthermore, note that the Circular should be read in conjunction with the applicable provisions of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], or the Data Privacy Act of 2012 (DPA), and its Implementing Rules and Regulations (IRR), particularly those pertaining to the law’s extra-territorial application.[^1]
 
 #### Data Protection Officer
 

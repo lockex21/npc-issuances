@@ -58,7 +58,7 @@ Through the sincere efforts of the parties to arrive at an amicable resolution o
 
 ### Discussion
 
-Rule III, Section 9(e)(3) of the Implementing Rules and Regulations of the Data Privacy Act of 2012 (DPA) provides that:
+Rule III, Section 9(e)(3) of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012 (DPA) provides that:
 
 > The Commission shall adjudicate on complaints and investigations on matters affecting personal data: Provided, that in resolving any complaint or investigation, except where amicable settlement is reached by the parties, the Commission shall act as a collegial body. This includes:
 >
@@ -78,7 +78,7 @@ The new procedure being implemented by QBM of requiring the Complainant to secur
 
 The DPA should not be used to deprive the data subjects of their rights that are guaranteed by the DPA itself without a proper justification and notice to the data subjects.
 
-Section 34(c) of the DPA provides for the right to access which a data subject is entitled, *to wit*:
+[[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34(c) of the DPA]] provides for the right to access which a data subject is entitled, *to wit*:
 
 > Section 34. Rights of the Data Subject. The data subject is entitled to the following rights:
 >
@@ -104,7 +104,7 @@ Considering the foregoing, the DPA assures that a data subject is entitled to th
 
 Moreover, QBM as a PIC, is required to develop, implement, and review policies and procedures, to ensure that the aforesaid policies and procedures shall enforce and effectively implement the provisions of the DPA, including those pertaining to the rights of data subjects.[^4]
 
-The data subject has been defined by Section 3(c) of the DPA as an individual whose personal information, sensitive personal information, or privileged information is processed. Record shows that the trip pass allocation contains personal information such as the name of dependents and beneficiaries, relationship, or even the personal information of the retired QBM employee himself. In this case, Complainant is considered as a data subject of QBM because his full name appears in the travel pass information. Hence, the Complainant has the right to access to his personal information as explicitly provided by the DPA and its Implementing Rules and Regulations (IRR).
+The data subject has been defined by [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(c) of the DPA]] as an individual whose personal information, sensitive personal information, or privileged information is processed. Record shows that the trip pass allocation contains personal information such as the name of dependents and beneficiaries, relationship, or even the personal information of the retired QBM employee himself. In this case, Complainant is considered as a data subject of QBM because his full name appears in the travel pass information. Hence, the Complainant has the right to access to his personal information as explicitly provided by the DPA and its Implementing Rules and Regulations (IRR).
 
 WHEREFORE, premises considered, the Commission resolves to **CONFIRM** the Mediated Settlement Agreement executed by and between Complainant D.N.T. and Respondents K.K. and X.F. The case **NPC 19-1201 - "D.N.T. VS. K.K. AND X.F."** is hereby **CLOSED**.
 

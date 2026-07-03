@@ -77,8 +77,7 @@ SECTION 5. Subject of an advisory opinion.
 
 a. The following may be the subject of an advisory opinion:
 
-1. Interpretation of the provisions of the [[laws/data-privacy-act-of-2012|DPA]], its Implementing Rules and
-Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) and NPC Issuances;
+1. Interpretation of the provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) and NPC Issuances;
 2. Compliance requirements under the [[laws/data-privacy-act-of-2012|DPA]] and related issuances;
 3. Enforcement of data privacy laws and regulations; and
 4. Other related matters on personal data privacy, security, and protection.
@@ -179,7 +178,7 @@ Privacy Commissioner
 Deputy Privacy Commissioner Deputy Privacy Commissioner
 
 [^1]: Affidavit duly notarized for individual data subjects and Secretary’s Certificate for juridical persons. This documentary requirement may be waived in meritorious cases.
-[^7]: of Republic Act No. 10173, otherwise known as “The Data Privacy Act of 2012” (DPA), the following guidelines for requests for advisory opinions of the NPC are hereby prescribed and promulgated:
+[^7]: of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as “The Data Privacy Act of 2012” (DPA), the following guidelines for requests for advisory opinions of the NPC are hereby prescribed and promulgated:
 
 ## Source And Notes
 - Companion note: [[notes/undated/rules-of-procedure-on-requests-for-advisory-opinions|Analysis and metadata]]

@@ -59,7 +59,7 @@ In compliance with the Minute Resolution, AUB submitted its Supplemental Request
 
 AUB explained in its Supplemental Request that Entrego promptly coordinated with Unionbank regarding the deletion of the Daily Progressive Report "both from the concerned mailbox and trash bin."[^13]
 
-Additionally, in justifying its request for exemption, AUB stated that the notification is not in the interest of the public or the affected data subjects as it may cause unnecessary worry and anxiety among them, citing In re: Health Delivery System, Inc, NPC BN 20-049.[^14]
+Additionally, in justifying its request for exemption, AUB stated that the notification is not in the interest of the public or the affected data subjects as it may cause unnecessary worry and anxiety among them, citing In re: Health Delivery System, Inc, [[resolutions/2021/npc-bn-20-049-in-re-health-delivery-system-inc|NPC BN 20-049]].[^14]
 
 AUB also explained that Unionbank's acquisition and access to the Daily Progressive Report were only for less than six (6) hours and were deleted from its records within the same day.[^15] AUB reiterated in its request for exemption that Unionbank "confirmed and provided proof that the erroneously emailed Daily Progressive Report has been deleted from its records."[^16]
 

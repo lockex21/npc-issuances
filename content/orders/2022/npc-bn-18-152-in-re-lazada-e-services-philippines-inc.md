@@ -169,6 +169,6 @@ GENERAL RECORDS UNIT
 [^23]: Final Breach Report, 25 February 2022, at 3, in In re: Lazada E-Services Philippines, Inc., NPC BN 18-152 (NPC 2018).
 [^24]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], § 13 (15 December 2016).
 [^25]: Lazada E-Services Philippines, Inc. Notification/Advisory on Possible Data Breach, 10 August 2018, at 2, in In re: Lazada E-Services Philippines, Inc., NPC BN 18-152 (NPC 2018).
-[^26]: In re: Crosta Crociere S.p.A., NPC BN 21-185, Resolution dated 23 September 2021, at p. 6.
-[^27]: In re: Health Delivery System, Inc., NPC BN 20-049, Resolution dated 01 July 2021, at p. 5.
+[^26]: In re: Crosta Crociere S.p.A., [[resolutions/2021/npc-bn-21-185-in-re-costa-crociere|NPC BN 21-185]], Resolution dated 23 September 2021, at p. 6.
+[^27]: In re: Health Delivery System, Inc., [[resolutions/2021/npc-bn-20-049-in-re-health-delivery-system-inc|NPC BN 20-049]], Resolution dated 01 July 2021, at p. 5.
 [^28]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], § 13 (15 December 2016).

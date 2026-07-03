@@ -49,7 +49,7 @@ From acursory reading of the facts, it seems that the Risk Department will only 
 Privacy Compliance and may not necessarily interfere with the functions of the DPO. Further, being placed under the direct supervision of any of the company’s departments does not
 necessarily entail the loss of the DPO’s independence and autonomy.
 
-NPC Advisory No. 2017-01 is clear in its requirement that a DPO shall be allowed to enjoy a
+[[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]] is clear in its requirement that a DPO shall be allowed to enjoy a
 sufficient degree of autonomy, and that for this purpose, he/she must not receive instructions
 from the PIC or PIP regarding the exercise of his/her tasks. A DPO is not required to have total or
 complete autonomy as the independence required only pertains to the exercise of his/her tasks.

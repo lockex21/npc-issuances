@@ -19,13 +19,13 @@ date: '2016-09-16'
 
 **Circular No. 16-04**
 
-Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the DPA]], otherwise known as “The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]”, the following
+Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], otherwise known as “The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]”, the following
 Rules of Procedure of the National Privacy Commission are hereby prescribed and promulgated:
 
 ### Rule I. Preliminary Provisions
 
 SECTION 1. General Principles. – The National Privacy Commission is an independent body
-mandated to administer and implement provisions of the Data Privacy Act, and to monitor and
+mandated to administer and implement provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act]], and to monitor and
 ensure compliance of the country with international standards set for data protection. The
 Commission shall uphold the right to information privacy while supporting free flow of
 information.

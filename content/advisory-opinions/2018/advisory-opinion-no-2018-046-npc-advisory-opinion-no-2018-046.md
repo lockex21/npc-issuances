@@ -37,7 +37,7 @@ Organizations or individuals can use and store personal information as reflected
 
 #### Legitimate interests of the personal information controller
 
-Section 12(f) of the DPA provides that the processing of personal information shall be permitted when the processing is necessary for the purposes of the legitimate interests pursued by the PIC or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]] provides that the processing of personal information shall be permitted when the processing is necessary for the purposes of the legitimate interests pursued by the PIC or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
 
 Recital 47 of the EU General Data Protection Regulation (GDPR) states that legitimate interests of a controller may provide a legal basis for processing taking into consideration the reasonable expectations of data subjects based on their relationship with the controller.[^5]
 

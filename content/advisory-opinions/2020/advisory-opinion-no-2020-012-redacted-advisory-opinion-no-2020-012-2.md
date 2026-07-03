@@ -31,7 +31,7 @@ We understand that the NBI National Capital Region (NBI-NCR), through a letter s
 3. Monthly premiums; and
 4. Corresponding beneficiaries.
 
-Since the IC does not maintain a database of insurance policyholders and/or insurance policies issued by insurance companies, it endorsed the request to PLIA for appropriate action. The latter is of the opinion that complying with the NBI request may be a violation of the DPA, while the IC submits that there will be no violation as the processing is necessary to fulfill the functions of the NBI as a public authority under Section 12 (e) of the DPA.
+Since the IC does not maintain a database of insurance policyholders and/or insurance policies issued by insurance companies, it endorsed the request to PLIA for appropriate action. The latter is of the opinion that complying with the NBI request may be a violation of the DPA, while the IC submits that there will be no violation as the processing is necessary to fulfill the functions of the NBI as a public authority under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e) of the DPA]].
 
 ### Discussion
 

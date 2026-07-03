@@ -35,7 +35,7 @@ With the consent of the victim, IACAT requested the Philippine Statistics Author
 
 ### Sensitive personal information; criteria for lawful processing; Section 13
 
-Section 3 of the DPA provides the definition of sensitive personal information, which includes an individual's age. As a general rule, the processing of such information is prohibited unless any of the conditions provided for in Section 13 of the DPA is attendant. Specific to this scenario, the following lawful bases should be considered:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] provides the definition of sensitive personal information, which includes an individual's age. As a general rule, the processing of such information is prohibited unless any of the conditions provided for in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] is attendant. Specific to this scenario, the following lawful bases should be considered:
 
 - The data subject has given his or her consent to the processing;[^4]
 - The processing is provided for by existing laws and regulations;[^5] or
@@ -77,4 +77,4 @@ Privacy Commissioner and Chairman
 [^7]: Id. § 3 (b).
 [^8]: See: National Privacy Commission, NPC Advisory Opinion No. 2017-49 (August 29, 2017).
 [^9]: The Child and Youth Welfare Code [Child and Youth Welfare Code], P. D. No. 603 (2003).
-[^10]: See: National Privacy Commission, NPC Advisory Opinion No. 2018-083 (Nov. 26, 2018).
+[^10]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Nov. 26, 2018).

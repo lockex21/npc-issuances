@@ -22,7 +22,7 @@ Re: ASSIGNMENT OF A NON-RESIDENT DPO AND REQUIREMENTS FOR THE CONTACT DETAILS OF
 
 Dear [Redacted],
 
-We write in response to your inquiry received by the National Privacy Commission (NPC) via e-mail, which sought to clarify matters regarding the Data Privacy Act of 2012[^1] (DPA), specifically the appointment of a non-resident individual as Data Protection Officer (DPO).
+We write in response to your inquiry received by the National Privacy Commission (NPC) via e-mail, which sought to clarify matters regarding the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA), specifically the appointment of a non-resident individual as Data Protection Officer (DPO).
 
 You are inquiring whether it is acceptable to assign a new DPO who is based in the United States, in order to align with company policies and direction. You likewise ask for confirmation on the special requirement to have a local Philippine number to be assigned to the DPO.
 
@@ -30,11 +30,11 @@ You are inquiring whether it is acceptable to assign a new DPO who is based in t
 
 #### Assignment of a Non-Resident Individual as DPO
 
-We had a chance to touch upon on the same matter in our NPC Advisory Opinion No. 2017-018,[^4] to wit:
+We had a chance to touch upon on the same matter in our [[advisory-opinions/2017/advisory-opinion-no-2017-018-npc-advisoryopinionno-2017-018|NPC Advisory Opinion No. 2017-018]],[^4] to wit:
 
-> Given its definition, a DPO need not be a resident of the Philippines. However, he or she must be able to fulfill the functions laid out in NPC Advisory No. 2017-01 (Designation of Data Protection Officers). It is worth noting that such functions would require, as a minimum, being familiar with Philippine laws and regulations on data protection and data security.
+> Given its definition, a DPO need not be a resident of the Philippines. However, he or she must be able to fulfill the functions laid out in [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]] (Designation of Data Protection Officers). It is worth noting that such functions would require, as a minimum, being familiar with Philippine laws and regulations on data protection and data security.
 
-Considering that DPOs are accountable for ensuring compliance of the personal information controller (PIC) with the DPA, its Implementing Rules and Regulations (IRR), issuances of the NPC and other applicable laws and regulations relating to privacy and data protection, a DPO must be familiar with the DPA, IRR, and other pertinent Philippine laws and regulations on personal data processing in the Philippines, in order to lessen the risks of violations of the DPA and other applicable laws and policies.
+Considering that DPOs are accountable for ensuring compliance of the personal information controller (PIC) with the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), issuances of the NPC and other applicable laws and regulations relating to privacy and data protection, a DPO must be familiar with the DPA, IRR, and other pertinent Philippine laws and regulations on personal data processing in the Philippines, in order to lessen the risks of violations of the DPA and other applicable laws and policies.
 
 This is vital since one of the primary duties and responsibilities of a DPO is to inform and cultivate awareness on privacy and data protection within the organization as well as serve as the contact person of the NPC and other authorities in all matters concerning data privacy or security issues.
 

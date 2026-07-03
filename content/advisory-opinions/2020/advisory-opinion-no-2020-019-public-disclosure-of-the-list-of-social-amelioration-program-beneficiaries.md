@@ -51,12 +51,12 @@ beneficiaries of the SAP are considered personal information,[^5] and its disclo
 constitute processing[^6] which should comply with the requirements specifically on the criteria for
 lawful processing of personal information found under Section 12 thereof.
 
-For sensitive personal information,[^7] Section 13 of the DPA generally prohibits its processing,
+For sensitive personal information,[^7] [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] generally prohibits its processing,
 except in certain cases enumerated therein. Furthermore, the processing should adhere to the
 general data privacy principles of transparency, legitimate purpose, and proportionality.[^8]
 
 While we understand that there is no formal issuance as of yet from the DILG, the public
-disclosure of the list may find basis for processing under Section 12 of the DPA, specifically
+disclosure of the list may find basis for processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], specifically
 paragraphs (c) and (e), to wit:
 
    •    The processing is necessary for compliance with a legal obligation to which the personal

@@ -25,7 +25,7 @@ Dear [Redacted]:
 
 This pertains to your initial request for advisory opinion received by the National Privacy Commission (NPC) on 16 November 2017 and your letter response dated 15 March 2018, where we received the additional information and documents in order for us to respond to your initial inquiry.
 
-We understand that you seek to clarify the best approach regarding the residential directory listing of PLDT and its group of affiliates as part of the fulfillment of PLDT’s obligations as a telephone service provider vis-à-vis its compliance with Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR)[^2] and relevant issuances of the National Privacy Commission (NPC).
+We understand that you seek to clarify the best approach regarding the residential directory listing of PLDT and its group of affiliates as part of the fulfillment of PLDT’s obligations as a telephone service provider vis-à-vis its compliance with [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^2] and relevant issuances of the National Privacy Commission (NPC).
 
 We understand further that PLDT raised the issue of the printing of customer information (name, address, and telephone number) via the Directory Listing and the need for the consent of these customers. PLDT claims that its base of customers whose details have been printed have not expressly provided their consent to print their details in the existing DPC White Pages that meet the standards of a valid consent as contemplated by the DPA and DPA IRR.
 

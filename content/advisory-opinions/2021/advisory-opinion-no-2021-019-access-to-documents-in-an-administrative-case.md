@@ -37,9 +37,9 @@ provide for the right of private complainant to be given copies of the requested
 
 ### Discussion
 
-#### NPC Advisory Opinion No. 2019-011; Sensitive Personal Information in Proceedings; Lawful Criteria for Processing
+#### [[advisory-opinions/2019/advisory-opinion-no-2019-011-npc-advisory-opinion-no-2019-011|NPC Advisory Opinion No. 2019-011]]; Sensitive Personal Information in Proceedings; Lawful Criteria for Processing
 
-The Data Privacy Act of 2012 (DPA) considers information about any proceeding for any offense committed or alleged to have been committed by an individual, the disposal of such proceedings, or the sentence of any court in such proceedings, as sensitive personal information.[^2] As a rule, the processing of sensitive personal information is not allowed except for the instances provided under the DPA. Some of these exceptions include processing which is provided for by existing laws and regulations,[^3] necessary for the establishment, exercise, or defense of legal claims,[^4] among others.
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) considers information about any proceeding for any offense committed or alleged to have been committed by an individual, the disposal of such proceedings, or the sentence of any court in such proceedings, as sensitive personal information.[^2] As a rule, the processing of sensitive personal information is not allowed except for the instances provided under the DPA. Some of these exceptions include processing which is provided for by existing laws and regulations,[^3] necessary for the establishment, exercise, or defense of legal claims,[^4] among others.
 
 Thus, access to or disclosure of the above should have a lawful basis under the DPA, specifically under Section 13 of the law.
 

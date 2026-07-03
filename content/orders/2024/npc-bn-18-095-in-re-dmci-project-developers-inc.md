@@ -97,7 +97,7 @@ On 09 September 2022, DMCI submitted its Supplemental Post Breach Report dated 2
   - d.4 Inclusion of internal penalty system for breaches involving client information
   - d.5 Preparation of Data Risk Assessment.[^33]
 
-The Commission resolves to direct the CID to conduct a sua sponte investigation for concealment and/or possible violation of the DPA and consolidate the present breach notification with the investigation.
+The Commission resolves to direct the CID to conduct a sua sponte investigation for concealment and/or possible violation of the [[laws/data-privacy-act-of-2012|DPA]] and consolidate the present breach notification with the investigation.
 
 It was only on 24 October 2016 when EP informed DMCI, through TA, that the email address was allegedly fabricated by her son's former live-in partner, DS.[^34] It turned out that the email address [] was created by the "ex-girlfriend" of KP and that his name was used to collect information and documents from DMCI.[^35]
 

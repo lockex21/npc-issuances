@@ -62,7 +62,7 @@ Section 11 of NPC Circular No. 16-03 provides the criteria when notification is 
 
 3. The personal information controller or the Commission believes that the unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject.
 
-Further, Section 20(b) of the Republic Act No. 10173 known as the Data Privacy Act of 2012 (DPA) requires the personal information controller to implement reasonable and appropriate measures to protect personal information against natural dangers such as accidental loss or destruction, and human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration, and contamination.
+Further, Section 20(b) of the [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] known as the Data Privacy Act of 2012 (DPA) requires the personal information controller to implement reasonable and appropriate measures to protect personal information against natural dangers such as accidental loss or destruction, and human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration, and contamination.
 
 In this breach notification before the Commission, the information in the said accidental disclosure contains the full name, share capital, savings deposit, and existing loan of the data subjects that can be used to directly and certainly identify them. Hence, in light of the above-cited provisions, it is evident that there was a necessity for MSSECSC to notify both this Commission and the affected data subjects due to the significant risk associated with it, and the likelihood that the information contained therein may be used to vitiate the privacy of the data subject.
 

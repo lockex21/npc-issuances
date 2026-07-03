@@ -110,7 +110,7 @@ Further, Section 5 of NPC Circular No. 16-03 requires a data breach response tea
 >
 > B. Management of security incidents and personal data breaches; and
 >
-> C. Compliance by the personal information controller or personal information processor with the relevant provisions of the Act, its IRR, and all related issuances by the Commission on personal data breach management.
+> C. Compliance by the personal information controller or personal information processor with the relevant provisions of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all related issuances by the Commission on personal data breach management.
 >
 > The team must be ready to assess and evaluate a security incident, restore integrity to the information and communications system, mitigate and remedy any resulting damage, and comply with reporting requirements.
 >

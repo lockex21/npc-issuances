@@ -33,7 +33,7 @@ You now request guidance on the legality of cold calls and emails in relation to
 
 #### Publicly Sourced Personal Data Protected under the DPA
 
-Before all else, we note that “it is a misconception that publicly accessible personal data can be further used or disclosed for any purpose whatsoever without regulation.”[^2] In Section 4 of the DPA, the law specifies special cases where certain information may fall outside of its scope but only to the minimum extent necessary to achieve the specific purpose, function or activity.[^3] As it is not recognized as a special case, publicly sourced personal data fall under protection of the DPA.
+Before all else, we note that “it is a misconception that publicly accessible personal data can be further used or disclosed for any purpose whatsoever without regulation.”[^2] In [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]], the law specifies special cases where certain information may fall outside of its scope but only to the minimum extent necessary to achieve the specific purpose, function or activity.[^3] As it is not recognized as a special case, publicly sourced personal data fall under protection of the DPA.
 
 Even though personal information of potential clients are obtained from publicly available sources, marketers employing such methods become personal information controllers (PICs) who must meet the requirements under the law. Marketers are bound by the provisions on criteria for lawful processing of personal, sensitive personal and privileged information provided by the DPA.
 
@@ -66,7 +66,7 @@ the prospective client’s name and contact details. Thus, prior consent was not
 However, marketers may consider, with caution, legitimate interest as the basis of processing.
 
 In the assumption that only personal information and not sensitive personal information is
-involved, Section 12 (f) of the DPA may apply to this particular situation of direct marketing,
+involved, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] may apply to this particular situation of direct marketing,
 viz:
 
 > The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.[^8]
@@ -127,7 +127,7 @@ surrounding circumstances.
 We wish to emphasize that legitimate interest is not intended to be a broad justification for all
 purposes assumed by PICs. The NPC, on its own determination, may evaluate whether
 legitimate interest is the proper basis for the specific processing, considering the interpretation
-clause under Section 38 of the DPA, where the law is liberally interpreted in a manner mindful
+clause under [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38 of the DPA]], where the law is liberally interpreted in a manner mindful
 of the rights and interests of the data subject.
 
 #### Right to Information and Right to Object
@@ -174,6 +174,6 @@ Privacy Commissioner and Chairman
 [^20]: GDPR, Recital 47.
 [^21]: Information Commissioner’s Office, UK, What is the importance of reasonable expectations?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/?template=pdf&patch=16 (last accessed August 14, 2018).
 [^22]: Id.
-[^23]: Implementing Rules and Regulations of the Data Privacy Act of 2012, § 34 (b).
+[^23]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, § 34 (b).
 [^24]: Office of the Privacy Commissioner for Personal Data, Hong Kong, Guidance Note - New Guidance on Direct Marketing, January 2013, available at https://www.pcpd.org.hk/english/publications/files/GN_DM_e.pdf (last accessed May 31, 2018).
 [^25]: See Data Privacy Act of 2012, § 16.

@@ -63,8 +63,7 @@ for Homeowners and Homeowners’ Associations[^2] provides:
          laws; (underscoring supplied)
 
 The DPA applies to all the processing of all types of personal information and to any natural
-and judicial person involved in personal information processing. In NPC Advisory Opinion
-No. 2018-019, we stressed that a HOA, being a juridical entity engaged activities geared
+and judicial person involved in personal information processing. In [[advisory-opinions/2018/advisory-opinion-no-2018-019-npc-advisory-opinion-no-2018-019|NPC Advisory Opinion No. 2018-019]], we stressed that a HOA, being a juridical entity engaged activities geared
 towards the provision of basic community services and facilities for its members-
 homeowners, may inevitably perform processing of personal information of its individual
 members homeowners. It is therefore considered as a personal information controller[^3] (PIC)
@@ -72,7 +71,7 @@ and is covered by the DPA.
 
 In this case, the names and addresses of the lot owners are considered personal information
 under the DPA. Accordingly, any processing activities relating to personal information
-should comply with Section 12 of the DPA, to wit:
+should comply with [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], to wit:
 
    SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal
          information shall be permitted only if not otherwise prohibited by law, and when at least
@@ -114,8 +113,8 @@ requested personal data.
 
 #### Powers and Functions of the NPC; Clearance from the NPC on the Disclosure of Personal Data is Not Necessary
 
-The powers and functions of the NPC are explicitly provided in Section 7 of the DPA and
-Section 9 of its Implementing Rules and Regulations (IRR). It must be noted that neither the
+The powers and functions of the NPC are explicitly provided in [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] and
+Section 9 of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR). It must be noted that neither the
 DPA nor its IRR gives power to the NPC to issue clearance to authorize, among others, the
 disclosure and/or processing of personal data. The DPA provides for the various criteria for
 lawful processing of personal data and PICs should make the determination on what

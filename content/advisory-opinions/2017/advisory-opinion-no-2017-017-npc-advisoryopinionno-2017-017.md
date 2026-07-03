@@ -18,7 +18,7 @@ draft: false
 
 21 April 2017
 
-Re: Clarifications on Republic Act No. 10173, Otherwise Known as the Data Privacy Act of 2012 (DPA) and its Implementing Rules and Regulations (IRR)
+Re: Clarifications on [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], Otherwise Known as the Data Privacy Act of 2012 (DPA) and its Implementing Rules and Regulations (IRR)
 
 Dear [Redacted],
 
@@ -30,7 +30,7 @@ Relative thereto, the Commission has prepared a consolidated Advisory Opinion th
 
 #### Effectivity Date of the IRR
 
-The IRR of the DPA took effect on 9 September 2016, which is fifteen (15) days after it was published in the website of the Official Gazette on 25 August 2016. Note that Section 72 of the IRR explicitly provides for its effectivity fifteen (15) days after its publication.
+The IRR of the DPA took effect on 9 September 2016, which is fifteen (15) days after it was published in the website of the Official Gazette on 25 August 2016. Note that [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-72-effectivity-clause|Section 72 of the IRR]] explicitly provides for its effectivity fifteen (15) days after its publication.
 
 #### Consent Formats and Evidence
 
@@ -67,7 +67,7 @@ Rule VI of the IRR, which relates to “Security Measures for the Protection of 
 
 #### Encryption Technology Obligations
 
-The NPC has issued already Circular No. 16-01, which concerns the security of personal data in government agencies. While the issuance pertains to government entities, its provisions may nevertheless be used as guidance by the private sector.
+The NPC has issued already [[issuances/undated/security-of-personal-data-in-government-agencies|Circular No. 16-01]], which concerns the security of personal data in government agencies. While the issuance pertains to government entities, its provisions may nevertheless be used as guidance by the private sector.
 
 Some provisions thereof that take up the subject of encryption include the following:
 
@@ -78,7 +78,7 @@ Some provisions thereof that take up the subject of encryption include the follo
 
 #### Registration Requirements for PICs with 250-1,000 Employees
 
-Yes. Section 47 of the IRR states that PICs or PIPs that employ at least two hundred fifty (250) persons must register their data processing systems with the NPC. Those that maintain fewer employees would ordinarily be exempted from registration, unless any of the conditions set out in the same provision is determined to be present.
+Yes. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Section 47 of the IRR]] states that PICs or PIPs that employ at least two hundred fifty (250) persons must register their data processing systems with the NPC. Those that maintain fewer employees would ordinarily be exempted from registration, unless any of the conditions set out in the same provision is determined to be present.
 
 #### Registration When Risk Assessment is Disputed
 
@@ -108,7 +108,7 @@ Processing is not occasional when there is regularity and recurrence of the proc
 
 #### Data Protection Officer Location Requirements
 
-The NPC has issued its Advisory No. 2017-01 (Designation of Data Protection Officers [DPO]), which provides for guidelines regarding the mandatory designation, general qualifications, position, duties, and responsibilities of a DPO and Compliance Officer for Privacy (COP). While the Advisory is silent as regards the possibility of a DPO/COP being located outside the Philippines, the language thereof allows for such a scenario, provided that the concerned DPO/COP is able to fulfill his or her functions, as laid out in the issuance. Other requirements set out in the Advisory should also be met.
+The NPC has issued its [[issuances/2017/designation-of-data-protection-officers|Advisory No. 2017-01]] (Designation of Data Protection Officers [DPO]), which provides for guidelines regarding the mandatory designation, general qualifications, position, duties, and responsibilities of a DPO and Compliance Officer for Privacy (COP). While the Advisory is silent as regards the possibility of a DPO/COP being located outside the Philippines, the language thereof allows for such a scenario, provided that the concerned DPO/COP is able to fulfill his or her functions, as laid out in the issuance. Other requirements set out in the Advisory should also be met.
 
 #### Automated Processing Notification Requirements
 

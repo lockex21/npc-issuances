@@ -42,7 +42,7 @@ MDMC, INC.,
 
 Respondent.
 
-FOR: Violation of the Data Privacy Act of 2012
+FOR: Violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 
 x----------------------------------------------------x
 
@@ -76,7 +76,7 @@ In this case, Complainant avers that the documents he submitted to Respondent co
 
 Justice Alicia Austria-Martinez, speaking for the Supreme Court, ruled that he who alleges a fact has the burden of proving it and a mere allegation is not evidence.[^2]
 
-Similarly, in NPC 17-015, the Commission held that, “Complainant’s stand-alone allegation is not sufficient to file a complaint before the Commission because she is neither the subject of a privacy violation or personal data breach, or who is otherwise personally affected by a violation of the DPA. Put simply, Complainant does not have a legal standing to sue Respondent since she is not the affected data subject or was personally affected by a violation of the DPA.”
+Similarly, in [[decisions/2016/npc-17-015-id-y-s-v-ds-bank|NPC 17-015]], the Commission held that, “Complainant’s stand-alone allegation is not sufficient to file a complaint before the Commission because she is neither the subject of a privacy violation or personal data breach, or who is otherwise personally affected by a violation of the DPA. Put simply, Complainant does not have a legal standing to sue Respondent since she is not the affected data subject or was personally affected by a violation of the DPA.”
 
 With the aforementioned provisions and pronouncement of the Commission, the burden lies on Complainant to prove whether or not Respondent committed a violation of the DPA.
 

@@ -25,9 +25,9 @@ Dear [Redacted]:
 
 We write in response to your request to review the Armed Forces and Police Savings and Loan Association, Inc. (AFPSLAI) Data Privacy Consent Form template.
 
-We wish to emphasize that there is no requirement under the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR) and issuances of the NPC to have the various consent forms reviewed and approved by the NPC. Nonetheless, we take this opportunity to elucidate the concept of consent under the DPA and how this may be operationalized.
+We wish to emphasize that there is no requirement under the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and issuances of the NPC to have the various consent forms reviewed and approved by the NPC. Nonetheless, we take this opportunity to elucidate the concept of consent under the DPA and how this may be operationalized.
 
-Section 3(b) of the DPA defines consent of the data subject as any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so.
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the DPA]] defines consent of the data subject as any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so.
 
 The EU General Data Protection Regulation (GDPR) offers further interpretation on consent:
 
@@ -71,7 +71,7 @@ For instance, the information on beneficiary/ies such as name, age, birthdates, 
 
 Also, considering the proportionality principle and practicing data minimization, there is a need to re-evaluate if indeed, all of the listed personal data is absolutely necessary for AFPSLAI's processing activities. We reiterate that personal information must be adequate and not excessive in relation to the purposes for which they are collected and processed.[^8]
 
-In order to make this determination, the conduct of a privacy impact assessment (PIA) is necessary. Please refer to NPC Advisory No. 2017-03 on Guidelines for Privacy Impact Assessments for further information. This is available at our website at https://privacy.gov.ph/wpcontent/files/attachments/newsltr/NPC_AdvisoryNo.2017-03.pdf.
+In order to make this determination, the conduct of a privacy impact assessment (PIA) is necessary. Please refer to [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]] on Guidelines for Privacy Impact Assessments for further information. This is available at our website at https://privacy.gov.ph/wpcontent/files/attachments/newsltr/NPC_AdvisoryNo.2017-03.pdf.
 
 #### Privacy Notice
 

@@ -20,7 +20,7 @@ draft: false
 
 ## Source
 
-- Reference: NPC 21-010 to NPC 21-015
+- Reference: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010]] to NPC 21-015
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-010-to-NPC-21-015-2022.10.13-MVC-et.-al.-v.-DSL-Resolution-FinalP.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: October 13, 2022
@@ -114,7 +114,7 @@ On 03 February 2022, the Commission issued a Decision finding DSL liable for Sec
 
 **WHEREFORE, premises considered, the Commission hereby:**
 
-1. **FINDS** DSL liable for Section 32 (Unauthorized Disclosure) of the Data Privacy Act of 2012; and
+1. **FINDS** DSL liable for [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the Data Privacy Act of 2012]]; and
 
 2. **FORWARDS** this Decision and a copy of the pertinent case records to the Secretary of Justice and recommends the prosecution of DSL for the offense of Unauthorized Disclosure under Section 32 of the DPA.
 
@@ -124,7 +124,7 @@ On 21 March 2022, DSL, through his counsel, received a copy of the Decision date
 
 On 05 April 2022, DSL filed his Motion for Reconsideration alleging that the Commission erred in finding him liable for Unauthorized Disclosure under Section 32 of the DPA and recommending for his prosecution.[^3] He further asserted that the Commission committed an error when it took cognizance of the case despite the procedural lapses.[^4]
 
-In DSL’s Motion for Reconsideration, he claimed that he should not be held liable for Unauthorized Disclosure because as the President of the GA Tower 1 Condominium Corporation (GAT1CC), he was authorized to disclose the names of delinquent unit owners pursuant to the House Rules and Regulations of GAT1CC.[^5] He argued that the members of GAT1CC, which included Complainants MVC, RRB, NMB, RMP, NDL, and MBN (Complainants), are bound by the House Rules and Regulations of GAT1CC.[^6] Thus, according to DSL, the disclosure of the names of delinquent members through the publication of the letter dated 23 November 2021 was an obligation in accordance with Section 12 (c) of the DPA.[^7]
+In DSL’s Motion for Reconsideration, he claimed that he should not be held liable for Unauthorized Disclosure because as the President of the GA Tower 1 Condominium Corporation (GAT1CC), he was authorized to disclose the names of delinquent unit owners pursuant to the House Rules and Regulations of GAT1CC.[^5] He argued that the members of GAT1CC, which included Complainants MVC, RRB, NMB, RMP, NDL, and MBN (Complainants), are bound by the House Rules and Regulations of GAT1CC.[^6] Thus, according to DSL, the disclosure of the names of delinquent members through the publication of the letter dated 23 November 2021 was an obligation in accordance with [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the DPA]].[^7]
 
 He claimed that the Complainants failed to substantially prove that he was not authorized to bind GAT1CC.[^8] He also claimed that there was no evidence to prove that he did not issue the letter dated 23 November 2021 in the interest of GAT1CC nor was there evidence to support the Commission’s finding that he disclosed the personal information of the Complainants to cast doubt on their capability to manage the affairs of GAT1CC.[^9] To support his contentions, DSL pointed out that the Complainants "were not singled out" considering that the list included all the delinquent members.[^10]
 

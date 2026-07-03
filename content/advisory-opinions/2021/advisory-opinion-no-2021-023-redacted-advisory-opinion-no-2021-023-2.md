@@ -46,7 +46,7 @@ Scope of the DPA; research; special case
 
 Research is an activity that aims to develop or contribute to knowledge that can be generalized (including theories, principles, relationships), or any accumulation of information using scientific methods, observation, inference, and analysis.[^5]
 
-Section 4 of the DPA enumerates the categories of personal information and sensitive personal information (collectively, personal data) which fall outside the scope of the law. This includes the processing of personal data for research purposes.[^6] The DPA recognizes that research is critical to nation-building and serves a public interest.[^7] It is therefore the intent of the DPA to grant a certain degree of flexibility in the processing of personal data for purposes of research.[^8] Stated differently, a personal information controller, such as a researcher, may lawfully process personal data even without meeting the criteria provided by Section 12 and Section 13 of the DPA.[^9]
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] enumerates the categories of personal information and sensitive personal information (collectively, personal data) which fall outside the scope of the law. This includes the processing of personal data for research purposes.[^6] The DPA recognizes that research is critical to nation-building and serves a public interest.[^7] It is therefore the intent of the DPA to grant a certain degree of flexibility in the processing of personal data for purposes of research.[^8] Stated differently, a personal information controller, such as a researcher, may lawfully process personal data even without meeting the criteria provided by Section 12 and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].[^9]
 
 However, this exemption is not absolute. The following must be strictly complied with:
 
@@ -89,7 +89,7 @@ In addition, under the DPA, the data subject must be aware of the nature, purpos
 
 In the current matter, the data subjects involved were IPs/ICCs. The researcher, as personal information controller, should have considered the use of plain and simple language in the consent form to inform them of how exactly their data will be used and the consequences of providing such data to the researcher.
 
-Considering that there are concerns raised on the alleged lack of FPIC in relation to the absence of the required ethical clearance, the affected data subjects or their appropriate representatives may consider filing a complaint before the NPC pursuant to the provisions of NPC Circular No. 2021-01 or the 2021 Rules of Procedure of the National Privacy Commission.[^21]
+Considering that there are concerns raised on the alleged lack of FPIC in relation to the absence of the required ethical clearance, the affected data subjects or their appropriate representatives may consider filing a complaint before the NPC pursuant to the provisions of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] or the 2021 Rules of Procedure of the National Privacy Commission.[^21]
 
 This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
@@ -106,9 +106,9 @@ OIC – Director IV, Privacy Policy Office
 [^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^5]: Philippine Health Research Ethics Board Ad Hoc Committee for Updating the National Ethical Guidelines, National Ethical Guidelines for Health and Health Related Research, Introduction, p. 5 (2017).
 [^6]: Data Privacy Act of 2012, § 4 (d).
-[^7]: See NPC Advisory Opinion No. 2019-017 (March 5, 2019).
+[^7]: See [[advisory-opinions/2019/advisory-opinion-no-2019-017-npc-advisory-opinion-no-2019-017|NPC Advisory Opinion No. 2019-017]] (March 5, 2019).
 [^8]: Ibid.
-[^9]: See NPC Advisory Opinion No. 2020-029 (July 30, 2020).
+[^9]: See [[advisory-opinions/2020/advisory-opinion-no-2020-029-redacted-advisory-opinion-no-2020-029-2|NPC Advisory Opinion No. 2020-029]] (July 30, 2020).
 [^10]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
 [^11]: Id. § 5 (c).
 [^12]: Data Privacy Act of 2012, § 3 (l).

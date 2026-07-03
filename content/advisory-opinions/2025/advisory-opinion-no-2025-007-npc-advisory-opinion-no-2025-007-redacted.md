@@ -46,7 +46,7 @@ To ensure clarity, we will address each question individually.
 Applicability of NPC Circular 2023-03
 to the Unified ID System for PWDs
 
-NPC Circular No. 2023-03 prescribes the minimum requirements and standards for the lawful
+[[issuances/2023/guidelines-on-identification-cards|NPC Circular No. 2023-03]] prescribes the minimum requirements and standards for the lawful
 collection, processing, and issuance of identification cards containing personal data.
 
 However, as provided by Section 1 of the Circular:
@@ -70,7 +70,7 @@ Nonetheless, it bears emphasis that while the issuance of the Unified PWD ID its
 excluded from the coverage of NPC Circular No. 2023-03, the collection, storage, and
 processing of personal data—including personal and sensitive personal information, such as
 biometric data—for purposes of implementing the Unified ID System remain subject to the
-provisions of the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations
+provisions of the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]]
 (IRR), and other relevant issuances of the Commission. Thus, compliance with the principles
 of transparency, legitimate purpose, and proportionality, as well as the adoption of
 appropriate organizational, physical, and technical security measures, are strongly enjoined.
@@ -91,7 +91,7 @@ should you wish to have further discussion on these proposed guidelines.
 
 Processing of Biometric Data
 
-Section 4(e) of the DPA states that when the information is necessary in order to carry out the
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]] states that when the information is necessary in order to carry out the
 functions of public authority, which includes the processing of personal data for the
 performance by the independent, central monetary authority and law enforcement and
 regulatory agencies of their constitutionally and statutorily mandated functions. The
@@ -102,8 +102,7 @@ privileges for PWDs, preventing fraud and ensuring targeted delivery of services
 collection and processing of biometric data for this specific purpose may be considered
 
 essential to carry out the functions of the concerned government agencies. Consequently, such
-processing may fall under the scope of the public authority exemption under Section 4(e) of
-the DPA.
+processing may fall under the scope of the public authority exemption under Section 4(e) of the DPA.
 
 However, it must be emphasized that even when the processing of personal data falls within
 an exemption, data protection principles and security safeguards remain applicable as a

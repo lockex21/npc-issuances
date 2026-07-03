@@ -58,7 +58,7 @@ On 16 September 2020, Ms. T. submitted the required annexes and proofs of notifi
 
 This case before the Commission can now be considered closed.
 
-Under circumstances where sensitive personal information or other information are reasonably believed to have been acquired by an unauthorized person, Section 20(f) of the Data Privacy Act of 2012 (DPA) provides that:
+Under circumstances where sensitive personal information or other information are reasonably believed to have been acquired by an unauthorized person, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(f) of the Data Privacy Act of 2012]] (DPA) provides that:
 
 > The personal information controller shall promptly notify the Commission and affected data subjects when sensitive personal information or other information that may, under the circumstances, be used to enable identity fraud are reasonably believed to have been acquired by an unauthorized person, and the personal information controller or the Commission believes that such unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject. The notification shall at least describe the nature of the breach, the sensitive personal information possibly involved, and the measures taken by the entity to address the breach. Notification may be delayed only to the extent necessary to determine the scope of the breach, to prevent further disclosures, or to restore reasonable integrity to the information and communications system.
 

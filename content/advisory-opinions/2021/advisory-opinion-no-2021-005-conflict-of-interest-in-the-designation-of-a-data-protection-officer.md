@@ -27,7 +27,7 @@ We write in response to your letter requesting for clarification on whether ther
 
 ### Discussion
 
-#### Designation of DPOs; NPC Advisory No. 2017-01; independence; conflict of interest
+#### Designation of DPOs; [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]]; independence; conflict of interest
 
 NPC Advisory No. 2017-01 on the Designation of DPOs emphasizes the requirement that a DPO or a compliance officer for privacy (COP) must be independent in the performance of his or her functions, and should be accorded a significant degree of autonomy by the PIC or PIP.[^2] Further, the Advisory provides that in his or her capacity as DPO or COP, an individual may perform (or be assigned to perform) other tasks or assume other functions that do not give rise to any conflict of interest.[^3]
 

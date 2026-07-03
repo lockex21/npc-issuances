@@ -42,7 +42,7 @@ You thus seek clarification on the following:
 
 Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^2] Accordingly, the image of an identifiable individual captured in a photograph or video is personal information about the individual and, thus, covered by the Data Privacy Act of 2012 (DPA).
 
-The collection and use of audio-visual recordings may be justified under Section 12 of the DPA, specifically where the processing is necessary for compliance with a legal obligation,[^3] or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.[^4]
+The collection and use of audio-visual recordings may be justified under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], specifically where the processing is necessary for compliance with a legal obligation,[^3] or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.[^4]
 
 Under Section 12 of the DPA, the processing of personal information shall be permitted only if not otherwise prohibited by law and when at least one of the following conditions exists:
 
@@ -53,9 +53,9 @@ Under Section 12 of the DPA, the processing of personal information shall be per
 - (e) The processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate; or
 - (f) The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution. (emphasis ours)
 
-Thus, in NPC Advisory Opinion No. 2018-053,[^5] we stated that the processing of personal information, which in that case involves photographs of hospital staff and doctors, can only be lawfully taken and processed when at least one of the conditions set forth in Section 12 of the DPA exists.
+Thus, in [[advisory-opinions/2018/advisory-opinion-no-2018-053-npc-advisory-opinion-no-2018-053|NPC Advisory Opinion No. 2018-053]],[^5] we stated that the processing of personal information, which in that case involves photographs of hospital staff and doctors, can only be lawfully taken and processed when at least one of the conditions set forth in Section 12 of the DPA exists.
 
-In addition, Section 13 of the DPA may likewise apply where a footage or image involves sensitive personal information, such as clinical photographs which necessarily contain the health information of patients.[^6] Sensitive personal information refers to personal information:
+In addition, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] may likewise apply where a footage or image involves sensitive personal information, such as clinical photographs which necessarily contain the health information of patients.[^6] Sensitive personal information refers to personal information:
 
 - (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations;
 - (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings;

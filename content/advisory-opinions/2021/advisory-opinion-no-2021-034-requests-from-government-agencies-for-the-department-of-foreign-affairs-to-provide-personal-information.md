@@ -47,7 +47,7 @@ Scope of the DPA; special cases; fulfillment of mandate;
 public authority; law enforcement or regulatory
 functions
 
-The DPA and its Implementing Rules and Regulations (IRR) provide for a list of specified
+The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for a list of specified
 information that are not covered by certain requirements of the law, which includes
 information necessary to carry out functions of a public authority, to wit:
 
@@ -72,7 +72,7 @@ information necessary to carry out functions of a public authority, to wit:
           necessary to achieve the specific purpose, function, or activity.” (Underscoring
           supplied)
 
-We reiterate our discussions in NPC Advisory Opinion No. 2020-015 and 2021-028 wherein
+We reiterate our discussions in [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|NPC Advisory Opinion No. 2020-015]] and 2021-028 wherein
 we discussed the BIR’s duty and authority to, among others, ensure compliance with the
 NIRC, as amended, and other relevant tax laws and regulations. Particularly, the authority of
 the BIR Commissioner to obtain information in the evaluation of the tax compliance of any
@@ -149,11 +149,11 @@ and/or the PCGG additional details with respect to the validity of the letter re
 standard operating procedures of the agencies on these types of data requests made through
 letters instead of subpoenas.
 
-Finally, Section 19 of the DPA and Section 37 of its IRR provide for the limitations with respect
+Finally, [[laws/data-privacy-act-of-2012#section-19-non-applicability|Section 19 of the DPA]] and Section 37 of its IRR provide for the limitations with respect
 to the rights of the data subjects where the processing of personal data is for the purpose of
 investigations in relation to any criminal, administrative, or tax liabilities of the data subject.
 
-This is further clarified in Section 13 of NPC Advisory No. 2021-01 on Data Subject Rights,[^5]
+This is further clarified in Section 13 of [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] on Data Subject Rights,[^5]
 which provides:
 
    “SECTION 13. Limitations. — The exercise of the rights of data subjects shall be

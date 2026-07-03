@@ -24,11 +24,11 @@ Re: DEFINITION AND/OR SCOPE OF THE TERM "DATA SUBJECT"
 
 Dear [Redacted],
 
-This pertains to your query which was received by the National Privacy Commission (NPC) on 12 December 2016, via email. You requested for a clarification regarding the "proper construction/interpretation" of the term "data subject", as defined in Republic Act No. 10173, also known as the Data Privacy Act (DPA) of 2012, as well as in its Implementing Rules and Regulations (IRR).
+This pertains to your query which was received by the National Privacy Commission (NPC) on 12 December 2016, via email. You requested for a clarification regarding the "proper construction/interpretation" of the term "data subject", as defined in Republic Act No. 10173, also known as the Data Privacy Act (DPA) of 2012, as well as in its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).
 
 ### Discussion
 
-Section 3(c) of the DPA defines a data subject as "an individual whose personal information is processed." The IRR of the DPA is more specific when it declares that the term refers to "an individual whose personal, sensitive personal, or privileged information is processed."[^1]
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(c) of the DPA]] defines a data subject as "an individual whose personal information is processed." The IRR of the DPA is more specific when it declares that the term refers to "an individual whose personal, sensitive personal, or privileged information is processed."[^1]
 
 When the foregoing provisions are read in conjunction with Section 3(g),[^2] (l)[^3] and (q)[^4] of the DPA which provides for the definitions of personal information, sensitive personal information, and privileged information, respectively, it becomes abundantly clear that a data subject can only refer to a natural person.
 

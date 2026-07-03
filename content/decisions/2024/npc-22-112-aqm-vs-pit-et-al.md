@@ -140,7 +140,7 @@ On 12 October 2022, Complainant filed a Manifestation with Motion to Quash Memor
 
 ### Issue
 
-Whether Respondents violated Section 25 of the DPA when they processed Complainant's documents.
+Whether Respondents violated [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]] when they processed Complainant's documents.
 
 ### Discussion
 
@@ -162,7 +162,7 @@ The first requisite for Unauthorized Processing is that the perpetrator processe
 
 Complainant stated that Respondents processed her information when they used her documents in a petition for issuance of permanent protection order and in a criminal case for concubinage.[^72]
 
-Section 3 of the DPA defines processing as follows:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] defines processing as follows:
 
 > Section 3. *Definition of Terms*. Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -197,7 +197,7 @@ Section 3 of the DPA defines personal and sensitive personal information as:
 
 In this case, Respondents processed Complainant's personal information including her name, address, and contact details.[^77] Respondents likewise processed Complainant's sensitive personal information in her US Visa Application including her age, marital status, and passport number.[^78] Thus, the second requisite of Unauthorized Processing is likewise present.
 
-#### Respondents processed Complainant's personal and sensitive information pursuant to Section 12(f) and Section 13(f) of the DPA.
+#### Respondents processed Complainant's personal and sensitive information pursuant to Section 12(f) and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]].
 
 The third requisite is that the processing was done without the consent of the data subject, or without being authorized under the DPA or any existing law.[^79]
 
@@ -233,7 +233,7 @@ In this case, the documents were used to establish and support their allegations
 
 Therefore, Respondents had lawful basis to process Complainant's sensitive personal information under Section 13(f) of the DPA.
 
-Complainant's personal information was also processed pursuant to a lawful basis, specifically Section 12(f) of the DPA.
+Complainant's personal information was also processed pursuant to a lawful basis, specifically [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]].
 
 While Section 13(f) applies to sensitive personal information, the protection of lawful rights and interests under Section 13(f) is considered as legitimate interest pursuant to Section 12(f) of the DPA.[^93] This can be understood to include the establishment of legal claims as a legitimate interest. Thus, Respondents had lawful basis under the DPA to process Complainant's personal information.
 

@@ -70,7 +70,7 @@ As can be gleaned from the foregoing, a police blotter would, a fortiori, contai
 information or sensitive personal information (collectively referred to as “personal data”).
 
 Generally, the processing of personal data requires the establishment of the applicable lawful
-basis provided in Sections 12 and/or 13 of the DPA. Nevertheless, Section 4(d) of the DPA
+basis provided in Sections 12 and/or 13 of the DPA. Nevertheless, [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(d) of the DPA]]
 expressly treats as a special case the processing of personal data for journalistic, artistic,
 literary or research purposes. This means that the media need not establish the lawful basis
 for processing of the personal data contained in a police blotter. But this exception afforded
@@ -194,7 +194,7 @@ Director IV, Privacy Policy Office
 
 [^6]: Baldoza v. Dimaano, A.M. No. 1120-MJ (1976).
 
-[^7]: NPC Advisory Opinion No. 2020-026 (June 26, 2020).
+[^7]: [[advisory-opinions/2020/advisory-opinion-no-2020-026-redacted-advisory-opinion-no-2020-026-2|NPC Advisory Opinion No. 2020-026]] (June 26, 2020).
 
 [^8]: Office of the President, Operationalizing in The Executive Branch The People's Constitutional Right To Information and The State Policies to Full Public Disclosure and Transparency in The Public Service and Providing Guidelines Therefor, Executive Order No. 2 [EO No. 2] (July 23, 2016).
 

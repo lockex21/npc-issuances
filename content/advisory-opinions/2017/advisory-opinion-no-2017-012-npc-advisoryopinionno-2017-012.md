@@ -25,13 +25,13 @@ Re: PROCESSING OF PERSONAL DATA OUTSIDE THE PHILIPPINES
 
 Dear [Redacted],
 
-This is with regard to your query received by the National Privacy Commission (NPC) on 26 October 2016 regarding the Implementing Rules and Regulations (IRR) of Republic Act No. 10173, also known as the Data Privacy Act (DPA) of 2012. You inquired whether the IRR prohibits the transmission and processing of personal data outside the country, specifically in contexts involving cloud infrastructures or M2M applications.
+This is with regard to your query received by the National Privacy Commission (NPC) on 26 October 2016 regarding the Implementing Rules and Regulations (IRR) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the Data Privacy Act (DPA) of 2012. You inquired whether the IRR prohibits the transmission and processing of personal data outside the country, specifically in contexts involving cloud infrastructures or M2M applications.
 
 ### Discussion
 
 The DPA and its IRR do not prohibit the transmission and processing of personal data outside the country. Both sets of regulations explicitly recognize those instances wherein the processing of personal data is conducted outside of the Philippines, but still fall within the scope of the DPA.[^1] In such cases, the personal information controller (PIC) and/or personal information processor concerned must still comply with the provisions of the DPA, its IRR, and issuances by the NPC.
 
-It is also worth noting that Section 50 of the IRR highlights the responsibility of PICs over personal data which processing it decides to outsource or transfer to parties not located within the country, subject to the appropriate cross-border enforcement procedures.
+It is also worth noting that [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-50-accountability-for-transfer-of-personal-data|Section 50 of the IRR]] highlights the responsibility of PICs over personal data which processing it decides to outsource or transfer to parties not located within the country, subject to the appropriate cross-border enforcement procedures.
 
 For your reference.
 

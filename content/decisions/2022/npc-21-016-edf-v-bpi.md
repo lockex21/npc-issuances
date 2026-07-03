@@ -58,7 +58,7 @@ On 25 August 2021, EDF appeared for the first preliminary conference and express
 
 On 08 September 2021, both parties appeared for the second preliminary conference and manifested their willingness to undergo mediation proceedings.[^12]
 
-On 20 October 2021, BPI filed its Comment.[^13] BPI explains that it investigated the disputed online funds transfer transaction to GCash and the disputed credit card transactions.[^14] It maintains that the complaint should have been dismissed outright by the Commission according to Rule IV, Section 1 of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure).[^15] BPI argues that the cause of action neither pertains to a violation of the DPA nor involve a privacy violation or personal data breach, and that EDF presented insufficient information to substantiate the allegations in the complaint.[^16]
+On 20 October 2021, BPI filed its Comment.[^13] BPI explains that it investigated the disputed online funds transfer transaction to GCash and the disputed credit card transactions.[^14] It maintains that the complaint should have been dismissed outright by the Commission according to Rule IV, Section 1 of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure).[^15] BPI argues that the cause of action neither pertains to a violation of the DPA nor involve a privacy violation or personal data breach, and that EDF presented insufficient information to substantiate the allegations in the complaint.[^16]
 
 It also alleges that EDF failed to establish by competent evidence that the disputed online funds transfer and credit card transactions were unauthorized.[^17] It reiterates the validity of the transactions:
 
@@ -102,11 +102,11 @@ On 06 December 2021, EDF filed a Motion for Extension of Time to Submit Memorand
 
 On 27 December 2021, EDF filed his Memorandum.[^24] He alleges that he “never shared his mobile number to individuals not known to him, more so his BPI Accounts are only known to him and [BPI].”[^25] He further argues that BPI failed to perform its mandatory obligations
 
-under Section 20 of the DPA in implementing reasonable and appropriate organizational, physical, and technical measures for the protection of his personal information, particularly his personal mobile number, BPI Accounts, office address, date of birth, and mother’s maiden name.[^26]
+under [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 of the DPA]] in implementing reasonable and appropriate organizational, physical, and technical measures for the protection of his personal information, particularly his personal mobile number, BPI Accounts, office address, date of birth, and mother’s maiden name.[^26]
 
 He maintains that his confidential personal information was breached because BPI was remiss in its mandatory obligation to secure his personal information, which are “under the safekeeping of BPI.”[^27] He also avers that BPI did not exercise the necessary due diligence when it failed to inform him of the dubious Lazada transactions that were charged to his BPI credit card.[^28]
 
-Because of BPI’s supposed failure to safeguard EDF’s personal information, he prays that BPI should be held liable for Section 26 (Accessing of Personal Information and Sensitive Personal Information Due to Negligence), Section 27 (Improper Disposal of Personal Information and Sensitive Personal Information), and Section 32 (Unauthorized Disclosure) of the DPA.[^29] He also prays that BPI should be ordered to reverse the Lazada transactions and all other related charges as damages.[^30]
+Because of BPI’s supposed failure to safeguard EDF’s personal information, he prays that BPI should be held liable for Section 26 (Accessing of Personal Information and Sensitive Personal Information Due to Negligence), Section 27 (Improper Disposal of Personal Information and Sensitive Personal Information), and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].[^29] He also prays that BPI should be ordered to reverse the Lazada transactions and all other related charges as damages.[^30]
 
 BPI did not file its Memorandum.
 

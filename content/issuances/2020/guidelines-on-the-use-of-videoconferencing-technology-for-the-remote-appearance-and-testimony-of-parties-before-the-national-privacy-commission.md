@@ -34,7 +34,7 @@ WHEREAS, the use of videoconferencing technology has been widely accepted for th
 
 WHEREAS, allowing the remote appearance and/or testimony of parties through videoconferencing would reduce the risks of possible infection posed by face-to-face interactions and ensure the continuity of proceedings before the National Privacy Commission;
 
-WHEREAS, [[laws/data-privacy-act-of-2012#Section 7|Section 7 of the Data Privacy Act of 2012]] has vested authority in the National Privacy Commission to prescribe and promulgate its Rules of Procedure;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the Data Privacy Act of 2012]] has vested authority in the National Privacy Commission to prescribe and promulgate its Rules of Procedure;
 
 WHEREAS, in consideration of these premises, the National Privacy Commission resolves to approve and hereby issues the following Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission:
 
@@ -83,7 +83,7 @@ The following technical and operational standards shall be observed prior to the
    e. Video monitors;
    f. Audio system and speakers in the conference room;
    g. Reliable internet connection with high bandwidth; and
-   h. Compliance with the data security and privacy standards under the Data Privacy Act, its Implementing Rules and Regulations, and other issuances of the National Privacy Commission.
+   h. Compliance with the data security and privacy standards under the [[laws/data-privacy-act-of-2012|Data Privacy Act]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and other issuances of the National Privacy Commission.
 5. Technical Capacity Building - Investigating officers, mediation officers, and other concerned personnel shall undergo capacity-building activities on these guidelines, including the operation of videoconferencing equipment and other digital tools, to ensure familiarity with the guidelines and technology.
 6. Preparatory arrangements for videoconferencing - The concerned personnel of the concerned division of the Commission shall always conduct a videoconferencing test in advance of the proceedings, at least one (1) day before the scheduled e-hearing, to resolve any technical problem or glitches and ensure a proper and clear audio-video connection between the conference room, where e-hearings are conducted, and the remote facility.
 7. The investigating officer, mediation officer, or Commission shall issue an order informing the parties of the date and time of proceeding, the link or access code to the videoconference, and the fact that the proceedings shall be recorded. Orders shall be sent via e-mail to the address on record of the parties. Such orders shall be equivalent to physical copies of orders sent through mail or courier service. An e-mail read receipt shall constitute proof of service of the order upon the party when the email client has such feature. If not, any other proof of receipt, such as acknowledgement or response to the e-mail invitation, shall suffice. The orders issued by the concerned division or the Commission and sent through e-mail shall be deemed received at the time of the electronic transmission of the order, or when available, at the time that the e-mail read receipt of the order is sent.[^6]

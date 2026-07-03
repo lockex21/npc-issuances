@@ -583,7 +583,7 @@ On 20 August 2020, the Commission noted this submission and stated
 
 in an Order :
 
-Under NPC Circular No. 16 -04 or the NPC Rules of Procedure, the
+Under [[issuances/undated/rules-of-procedure|NPC Circular No. 16 -04]] or the NPC Rules of Procedure, the
 
 Commission may order the conduct of a clarificatory hearing if, in
 
@@ -803,11 +803,11 @@ Proportionality;
 
 of Personal Information and Sensitive Personal Information
 
-under Section 25 of the DPA;
+under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]];
 
 5. Whether Respondent FLI committed Processing for
 
-Unauthorized Purposes under Section 28 of the DPA; and
+Unauthorized Purposes under [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 of the DPA]]; and
 
 6. Whether the penalty shall be imposed upon the Board of
 
@@ -841,7 +841,7 @@ sponte investigation.
 
 The NPC is an independent body created to administer and implement
 
-the provisions of the DPA of 2012. As provided in Section 7 of the DPA,
+the provisions of the DPA of 2012. As provided in [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]],
 
 the NPC has Rule -Making, Advisory, Public Education, Compliance
 
@@ -1139,9 +1139,7 @@ Personal Information and
 
 Sensitive Personal
 
-Information under Section
-
-25 of the DPA
+Information under Section 25 of the DPA
 
 In determining whether a violation of Section 25 of the Data Privacy
 
@@ -1383,7 +1381,7 @@ limited to collection, data verification, use telecom operators, among
 
 others. Subject to the limitations as set forth under the Data Privacy
 
-Act and its Implementing Rules and Regulations. 32
+Act and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]]. 32
 
 Privacy Policy
 
@@ -2194,11 +2192,7 @@ in the law.
 
 C. Respondent FLI did not violate
 
-Section 28 (Processing for
-
-Unauthorized Purposes) of the
-
-DPA .
+Section 28 (Processing for Unauthorized Purposes) of the DPA .
 
 Processing of Personal Information and Sensitive Personal
 

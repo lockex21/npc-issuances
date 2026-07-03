@@ -80,7 +80,7 @@ Given this, mandatory breach notification to the Commission has the following re
 2. There is reason to believe that the information may have been acquired by an unauthorized person; and
 3. The unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject.[^19]
 
-For the first requisite the personal data involved is the employees’ phone numbers.[^20] This, however, cannot be considered as sensitive personal information.[^21] Section 3 (l) of the Data Privacy Act of 2012 defines sensitive personal information as:
+For the first requisite the personal data involved is the employees’ phone numbers.[^20] This, however, cannot be considered as sensitive personal information.[^21] [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the Data Privacy Act of 2012]] defines sensitive personal information as:
 
 > **Section 3. Definition of Terms.**
 >

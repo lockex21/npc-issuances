@@ -26,7 +26,7 @@ Dear [Redacted],
 We write in response to your letter request on whether the disclosure of the contact
 information of lot buyers/homeowners to the homeowner’s association, for purposes of
 collection of monthly association dues, is allowed under the provisions of the Data Privacy
-Act of 2012[^2] (DPA), its Implementing Rules and Regulations (IRR)[^3] and relevant issuances of
+Act of 2012[^2] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^3] and relevant issuances of
 the National Privacy Commission (NPC).
 
 In your letter addressed to '''''''''''' ''''''''''''''' '''''' '''''''''''''''''''''' of the Housing and Land Use
@@ -43,7 +43,7 @@ collection of the monthly association dues.
 
 It is worth noting that under the DPA, contact information of individuals are considered as
 personal information.[^4] The Developers, as personal information controllers (PICs), have the responsibility of ensuring the lawful processing of its clients’ personal information in
-accordance with Section 12 of the DPA.
+accordance with [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]].
 
 In particular, Section 12 (f) provides that the processing of personal data may be allowed if
 the processing is necessary for the purposes of the legitimate interests pursued by the PIC or

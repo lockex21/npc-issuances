@@ -56,9 +56,9 @@ On 04 October 2023, Complainant received a copy of a Notice to Explain from KMC,
 
 On 22 October 2023, KMC issued a Memorandum (Notice of Decision) absolving Complainant and clearing the Complainant of any wrongdoing.[^12] The Memorandum also states that the evidence provided by the Respondent did not substantiate the allegations of sexual or workplace harassment.[^13] Subsequently, the Complainant was reinstated after being suspended.[^14]
 
-Thus, Complainant alleged that Respondent should be held liable under Section 26 of the DPA.[^15] Complainant prayed for a fine and reprimand against Respondent together with a formal written apology for unauthorized disclosure and any other appropriate remedies deemed fit by the Commission.[^16]
+Thus, Complainant alleged that Respondent should be held liable under [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 of the DPA]].[^15] Complainant prayed for a fine and reprimand against Respondent together with a formal written apology for unauthorized disclosure and any other appropriate remedies deemed fit by the Commission.[^16]
 
-On 08 March 2024, the NPC, through its Legal and Enforcement Office (LEO), issued a Decision dismissing the complaint outright on the basis that "it does not pertain to a violation of the Data Privacy Act of 2012 or does not involve a privacy violation or personal data breach."[^17] In its Decision, the LEO held that the complaint "does not involve a privacy violation" because Respondent supposedly had lawful basis under Section 13 (f) in relation to Section 12 (f) of the DPA when it processed Complainant's personal data.[^18]
+On 08 March 2024, the NPC, through its Legal and Enforcement Office (LEO), issued a Decision dismissing the complaint outright on the basis that "it does not pertain to a violation of the Data Privacy Act of 2012 or does not involve a privacy violation or personal data breach."[^17] In its Decision, the LEO held that the complaint "does not involve a privacy violation" because Respondent supposedly had lawful basis under Section 13 (f) in relation to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] when it processed Complainant's personal data.[^18]
 
 In response to the LEO's Decision, Complainant filed an MR dated 26 March 2024.[^19]
 
@@ -72,7 +72,7 @@ Section 1 (3) of Rule IV of the 2021 NPC Rules of Procedure provides:
 >
 > 3. The complaint does not pertain to a violation of the Data Privacy Act of 2012 or does not involve a privacy violation or personal data breach[.][^20]
 
-In a previous case, the Commission explained that a complaint does not involve a privacy violation when the allegations in the complaint, assuming they are true, do not set forth a violation of the DPA, its IRR, or other issuances of the Commission.[^21] Such complaints are considered "without a privacy issue" and are outside the Commission's jurisdiction.[^22] It further explained "privacy violation" as follows:
+In a previous case, the Commission explained that a complaint does not involve a privacy violation when the allegations in the complaint, assuming they are true, do not set forth a violation of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or other issuances of the Commission.[^21] Such complaints are considered "without a privacy issue" and are outside the Commission's jurisdiction.[^22] It further explained "privacy violation" as follows:
 
 > A privacy violation pertains to the processing of personal information in violation of a person's reasonable expectation of confidentiality or privacy or in violation of any law, rules, or regulation relating to the protection of personal data, such as the DPA.[^23]
 
@@ -143,7 +143,7 @@ GENERAL RECORDS UNIT
 [^18]: Id. at 4.
 [^19]: Motion for Reconsideration, 26 March 2024, in RVB v. JTL, NPC 24-005 (NPC 2024).
 [^20]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], rule IV, § 1 (3) (28 January 2021).
-[^21]: GSS v. Global Dominion Financing, Inc., NPC 21-064, 16 June 2022, at 10, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-21-064-2022.06.16-GSS-v.-Global-Dominion-Financing-Inc.-Decision.pdf (last accessed 24 April 2024).
+[^21]: GSS v. Global Dominion Financing, Inc., [[decisions/2022/npc-21-064-gss-v-global-dominion-financing-inc|NPC 21-064]], 16 June 2022, at 10, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-21-064-2022.06.16-GSS-v.-Global-Dominion-Financing-Inc.-Decision.pdf (last accessed 24 April 2024).
 [^22]: Id. at 10.
 [^23]: Id. at 7.
 [^24]: Decision, 08 March 2024, at 2, in RVB v. JTL, NPC 24-005 (NPC 2024).

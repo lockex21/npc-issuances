@@ -74,7 +74,7 @@ On 01 March 2018, the following were submitted by the parties: (1) the Ex Parte 
 
 This Commission confirms the Compromise Agreement dated 27 February 2018 between the Complainant and the Respondents.
 
-Section 25 of the National Privacy Commission Circular No. 16-04 provides that the Commission shall facilitate or enable settlement through the use of alternative dispute resolution processes.
+Section 25 of the [[issuances/undated/rules-of-procedure|National Privacy Commission Circular No. 16-04]] provides that the Commission shall facilitate or enable settlement through the use of alternative dispute resolution processes.
 
 After a thorough study and adjudication of the case on hand, the Commission finds that the Compromise Agreement dated 27 February 2018 by and between the Complainant and Respondent is not contrary to law, public policy, morals, or good customs.
 

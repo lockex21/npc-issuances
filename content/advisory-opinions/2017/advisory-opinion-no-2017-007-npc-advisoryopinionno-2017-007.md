@@ -36,7 +36,7 @@ e. If a service provider (which is not a Business Process Outsourcing [BPO]) col
 
 #### Consent
 
-Under Section 3(b) of the DPA, and Section 3(d) of its Implementing Rules and Regulations (IRR), consent is defined as follows:
+Under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the DPA]], and Section 3(d) of its Implementing Rules and Regulations (IRR), consent is defined as follows:
 
 > "Consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so." (underscoring supplied)
 
@@ -75,11 +75,11 @@ Based on the foregoing, we believe that a PIC may charge reasonable fees to defr
 
 #### Processing of Personal Data That is Merely Incidental to the Nature of Services Offered by a Company Vis-à-vis Scope of the DPA
 
-Section 4 of the DPA provides, as follows:
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] provides, as follows:
 
 > "SEC. 4. Scope. – This Act applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing including those personal information controllers and processors who, although not found or established in the Philippines, use equipment that are located in the Philippines, or those who maintain an office, branch or agency in the Philippines subject to the immediately succeeding paragraph.. xxx"
 
-In addition, Section 4 of the IRR states:
+In addition, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|Section 4 of the IRR]] states:
 
 > "Sec. 4. Scope. – The Act and these Rules apply to the processing of personal data by any natural and juridical person in the government or private sector… xxx"
 

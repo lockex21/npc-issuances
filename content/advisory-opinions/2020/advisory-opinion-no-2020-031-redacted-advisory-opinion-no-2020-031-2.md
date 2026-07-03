@@ -72,7 +72,7 @@ drugs operations.
 
 #### Scope of the DPA; criteria for lawful processing of personal and sensitive personal information; mandate; law; security measures
 
-Section 4 of the DPA states that the law is applicable to the processing of all types of personal
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] states that the law is applicable to the processing of all types of personal
 information and to any natural and juridical person involved in personal information
 processing.
 
@@ -114,13 +114,13 @@ against illegal drugs.”[^8]
 We reiterate that the DPA is not an obstacle to the collection and processing of personal data
 by the various government agencies as long as the same is necessary for the fulfillment of their
 respective mandates.[^9] This is with the concomitant responsibility of complying with the
-requirements of the DPA, its Implementing Rules and Regulations, and other issuances of the
+requirements of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and other issuances of the
 NPC.[^10]
 
 Finally, any personal data processing should always adhere to the general data privacy
 principles of transparency, legitimate purpose, and proportionality. Government agencies, as
 personal information controllers, must implement reasonable and appropriate safeguards to
-secure and protect personal data, considering the provisions of NPC Circular No.16-01 on the
+secure and protect personal data, considering the provisions of [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No.16-01]] on the
 Security of Personal Data in Government Agencies.
 
 This opinion is rendered based on the limited information you have provided. Additional
@@ -147,6 +147,6 @@ Privacy Commissioner
 
 [^8]: Department of Justice letter addressed to the PDEA dated 17 July 2020, attached to the PDEA letter request.
 
-[^9]: See: National Privacy Commission, NPC Advisory Opinion No. 2019-040 (Oct. 17, 2019), citing National Privacy Commission, NPC Advisory Opinion No. 2018-083 (Nov. 26, 2018).
+[^9]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-040-npc-advisory-opinion-no-2019-040|NPC Advisory Opinion No. 2019-040]] (Oct. 17, 2019), citing National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Nov. 26, 2018).
 
 [^10]: Id.

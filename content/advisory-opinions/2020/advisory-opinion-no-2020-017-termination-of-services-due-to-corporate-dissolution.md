@@ -29,7 +29,7 @@ We write in response to your request for an advisory opinion received by the Nat
 Commission (NPC) which sought to clarify matters in relation to the termination of the
 Software Implementation Agreement (SIA) entered into by and between The Bayleaf, Lyceum
 of the Philippines (Bayleaf) and HDI System Technologies, Inc. (HDI) vis-à-vis the provisions
-of the Data Privacy Act of 2012[^2] (DPA).
+of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 We understand that Bayleaf and HDI executed a SIA for the latter to provide human resource
 software modules to the former.
@@ -91,13 +91,13 @@ disposal or any other instrument to ensure that proper safeguards were put in pl
 In this case, Paragraph 11.4 of the SIA provides for the proper and full turnover of confidential
 information upon termination of the Agreement between the parties. While there is a
 provision providing for the proper and full turnover of confidential information, the parties
-may also be guided by Section 27 (d) of the Implementing Rules and Regulations (IRR) of the
+may also be guided by [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-27-physical-security-measures|Section 27 (d) of the Implementing Rules and Regulations]] (IRR) of the
 Data Privacy Act of 2012[^3]. Said provision mandates the parties to implement policies and
 procedures regarding the transfer, removal, disposal, and re-use of electronic media, to ensure
 appropriate protection of personal data.
 
 On the other hand, in determining the appropriate level of security that should be
-implemented, the parties may be guided by Section 29 of the IRR. As such, the parties should
+implemented, the parties may be guided by [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-29-appropriate-level-of-security|Section 29 of the IRR]]. As such, the parties should
 take into account the nature of the personal data that requires protection, the risks posed by
 the processing, the size of the organization and complexity of its operations, current data
 privacy best practices, and the cost of security implementation.
@@ -118,7 +118,7 @@ means. With this, PIPs may still be held contractually liable to the PIC for vio
 agreement despite the provision on waiver in the Letter of Agreement.
 
 In any case, a data subject may file a complaint in case of violation of his or her rights. Section
-3 of NPC Circular No. 16-04 provides that persons who are the subject of a privacy violation
+3 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] provides that persons who are the subject of a privacy violation
 or personal data breach, or who are otherwise personally affected by a violation of the Data
 Privacy Act, may file complaints for violations of the Act.[^5]
 
@@ -168,6 +168,6 @@ Privacy Commissioner
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
 [^4]: Heirs of Severina San Miguel v. CA, 416 Phil. 943, 954 (2001).
-[^5]: National Privacy Commission, NPC Advisory Opinion No. 2017-058 (October 3, 2017).
+[^5]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-058-npc-advisoryopinionno-2017-058|NPC Advisory Opinion No. 2017-058]] (October 3, 2017).
 [^6]: An Act Providing for the Revised Corporation Code of the Philippines [Revised Corporation Code of the Philippines], Republic Act No. 11232 (2019).
 [^7]: Sec OGC-Opinion No. 18-09 dated June 4, 2018 citing Reburiano v. CA (G.R. No. 102965, January 21, 1999).

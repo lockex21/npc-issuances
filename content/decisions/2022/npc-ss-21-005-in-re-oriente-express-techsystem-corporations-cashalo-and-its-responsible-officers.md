@@ -62,13 +62,13 @@ In the CID’s Technical Report dated 14 May 2021, it further alleged:
 
 In its Complaint, the CID stated that OETC failed to adhere to the requirements of the DPA, specifically Section 11 which deals with the General Data Privacy Principles (transparency, legitimate purpose, proportionality).[^5]
 
-For the principle of transparency, the CID explained that this is related to the data subject’s right to information under Section 16 of the DPA.[^6] The CID claimed that OETC failed to uphold the principle of transparency since it “failed to provide the purpose for the storage of the personal information accessed, and such cannot be seen in the App’s Privacy Notice nor can be deduced from the permission it requires.”[^7]
+For the principle of transparency, the CID explained that this is related to the data subject’s right to information under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]].[^6] The CID claimed that OETC failed to uphold the principle of transparency since it “failed to provide the purpose for the storage of the personal information accessed, and such cannot be seen in the App’s Privacy Notice nor can be deduced from the permission it requires.”[^7]
 
 In terms of the legitimate purpose principle, the CID argued that it is upheld when one of the criteria for lawful processing, as provided in Sections 12 and 13 of the DPA, is met.[^8] According to the CID, OETC does not have a legitimate purpose in processing personal information of its users since it was done without valid consent.[^9] The CID stated that in Cashalo’s Privacy Policy, the data subjects have no opportunity to make an informed choice since in order for the users to avail of Cashalo’s services, they have no choice but to accept the terms and conditions it provided.[^10] CID further stated that such act of OETC is “misleading and inherently unfair.”[^11]
 
 The CID argued that Cashalo can access and store the personal information of the data subjects including their phone contacts, which is not relevant to the purpose of a loan transaction.[^12]
 
-Moreover, the CID stated that “the respondent is without a valid consent or authority under the DPA and other existing laws, to process and store the phone contacts of the borrowers. As such it should be deemed to be unauthorized and in violation of Section 25 of the DPA.”[^13]
+Moreover, the CID stated that “the respondent is without a valid consent or authority under the DPA and other existing laws, to process and store the phone contacts of the borrowers. As such it should be deemed to be unauthorized and in violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].”[^13]
 
 The CID alleged that in terms of proportionality, OETC failed to clearly indicate in Cashalo’s Privacy Notice the purpose and extent of accessing the personal information of its clients, including their phone contacts.[^14] The CID also referred to the portion of Cashalo’s Privacy Notice which states that OETC, with its subsidiaries and affiliates, “may share any and all information relating to User to each other for any legitimate business purposes [such as]... credit collection, outsourcing of collections to third parties, remedial measure for collection (i.e. referral to agents and lawyers for collection).”[^15] Further, in the Privacy Notice’s “Use/Purpose of Personal Data”, the CID cited that one of Cashalo’s enumerated use/purpose is “to facilitate loan processing from application, review, monitoring, payment, collection and other remedial measures.”[^16]
 
@@ -182,9 +182,7 @@ purpose. 41
 
 OETC claimed that it did not violate Section 11 (with regard to
 
-legitimate purpose) and Section 16 (in relation to a data subject’s
-
-right to information) of the DPA since “there are legitimate
+legitimate purpose) and Section 16 (in relation to a data subject’s right to information) of the DPA since “there are legitimate
 
 purpose(s) for the processing of personal information and the same
 
@@ -329,9 +327,7 @@ Id., ¶ 7.
 
 Id. , ¶¶ 7-8, ¶ 11 .NPC SS 21-005
 
-In support of its allegation that OETC violated Section 3(D)(4) of NPC
-
-Circular No. 20-01, the CID pointed out that since OETC hurriedly
+In support of its allegation that OETC violated Section 3(D)(4) of NPC Circular No. 20-01, the CID pointed out that since OETC hurriedly
 
 revised the Cashalo app after the sua sponte investigation , this act was
 
@@ -519,7 +515,7 @@ legitimate purpose, and proportionality .79
 
 2021 , at pp 26-27 .
 
-Id., at p. 27. See NPC Circular No. 2021-01, rule VIII, § 4.
+Id., at p. 27. See [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]], rule VIII, § 4.
 
 Compliance dated 10 December 2021 of Oriente Express Techsystem Corporation, ¶ 2. Annex
 
@@ -653,9 +649,7 @@ concise, transparent, and intelligible manner as to which information
 
 are being processed, as well as the purposes for such processing.” 95
 
-Further, OETC averred that it did not violate Section 3(D)(4) of NPC
-
-Circular No. 20-01 .96 Aside from CID’s alleged failure to substantiate
+Further, OETC averred that it did not violate Section 3(D)(4) of NPC Circular No. 20-01 .96 Aside from CID’s alleged failure to substantiate
 
 the violation, 97 the updated Cashalo app also no longer triggers or
 
@@ -775,7 +769,7 @@ National Privacy Commission, Implementing Rules and Regulations of the Data Priv
 
 NPC Circular No. 2021-01, rule X, §§ 3-5. See In re: FCash Global Lending Inc ., Operating FastCash
 
-Online Lending Application, NPC 19-909, Resolution dated 28 April 2022.
+Online Lending Application, [[resolutions/2019/npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application|NPC 19-909]], Resolution dated 28 April 2022.
 
 In re: FCash Global Lending Inc., Operating FastCash Online Lending Application, NPC 19-909,
 
@@ -1047,7 +1041,7 @@ assessment, transaction processing, and regulatory reporting, among
 
 others. 132
 
-Section 11 of the DPA provides for the General Data Privacy
+[[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] provides for the General Data Privacy
 
 Principles and specifically states that:
 
@@ -1075,7 +1069,7 @@ declared, specifie d and legitimate purposes only; (Emphasis
 
 supplied) 133
 
-Moreover, Section 18 (b) of the IRR provides that in adhering with
+Moreover, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 (b) of the IRR]] provides that in adhering with
 
 the principle of legitimate purpose, “the processing of information
 
@@ -1213,7 +1207,7 @@ online lending business, its continued existence heavily depends on
 
 the calculated trust they can extend to its users/borrowers. ”148
 
-Rule IV, Section 18(c) of the DPA’s IRR states:
+Rule IV, [[laws/data-privacy-act-of-2012#section-18-right-to-data-portability|Section 18(c) of the DPA]]’s IRR states:
 
 Proportionality. The processing of information shall be
 

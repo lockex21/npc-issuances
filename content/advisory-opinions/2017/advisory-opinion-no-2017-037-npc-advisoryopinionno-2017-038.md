@@ -18,7 +18,7 @@ draft: false
 
 27 July 2017
 
-Re: QUERIES ON DATA PRIVACY ACT OF 2012
+Re: QUERIES ON [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT OF 2012]]
 
 Dear [Redacted],
 
@@ -28,7 +28,7 @@ This pertains to your query received by the National Privacy Commission (NPC) on
 
 We confirm that as a general rule, the designation of a DPO is mandatory for all personal information controllers (PICs) and personal information processors (PIPs).[^1] In certain instances[^2], the PIC or PIP may designate a Compliance Officer for Privacy (COP).[^3]
 
-On the other hand, the registration of data processing systems is required under Section 47 of the IRR, which states that "the personal information controller or personal information processor that employs fewer than two hundred fifty (250) persons shall not be required to register unless the processing it carries out is likely to pose a risk to the rights and freedoms of data subjects, the processing is not occasional, or the processing includes sensitive personal information of at least one thousand (1,000) individuals."[^4]
+On the other hand, the registration of data processing systems is required under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Section 47 of the IRR]], which states that "the personal information controller or personal information processor that employs fewer than two hundred fifty (250) persons shall not be required to register unless the processing it carries out is likely to pose a risk to the rights and freedoms of data subjects, the processing is not occasional, or the processing includes sensitive personal information of at least one thousand (1,000) individuals."[^4]
 
 Thus, the general rule is that every personal information controller or personal information processor which employs at least two hundred fifty (250) employees will be required to register its data processing system/s.
 
@@ -77,5 +77,5 @@ Privacy Commissioner and Chairman
     b. Government Agencies. Each government agency shall designate a DPO. Where a government agency has regional, provincial, district offices, or any other similar sub-units, it may also appoint or designate a COP for each sub unit. Subject to the approval of the NPC, a group of related companies may appoint or designate the DPO or its members to be primarily accountable for ensuring the compliance of the entire group with all data protection policies. Where such common DPO is allowed by the NPC, the other members of the group must still have a COP as defined in this Advisory.
     c. Private Sector. Where a private entity that previously had its own officers, or any other component units, it may also appoint or designate a COP for each component unit. Subject to the approval of the NPC, a group of related companies may appoint or designate the DPO or its members to be primarily accountable for ensuring the compliance of the entire group with all data protection policies. Where such common DPO is allowed by the NPC, the other members of the group must still have a COP as defined in this Advisory.
     d. Other Analogous Cases. PICs or PIPs that are under similar or analogous circumstances may also seek the approval of the NPC for the appointment or designation of a COP, in lieu of a DPO.
-[^3]: NPC Advisory No. 2017-01, Definition of Terms, "Compliance Officer for Privacy" or "COP" refers to an individual or individuals who shall perform some of the functions of a DPO, as provided in this Advisory
+[^3]: [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]], Definition of Terms, "Compliance Officer for Privacy" or "COP" refers to an individual or individuals who shall perform some of the functions of a DPO, as provided in this Advisory
 [^4]: IRR of RA No. 10173, §47

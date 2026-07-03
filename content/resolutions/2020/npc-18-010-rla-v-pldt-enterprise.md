@@ -60,8 +60,8 @@ On 05 August 2021, PLDT filed its Motion for Reconsideration arguing
 the following:
 1. PLDT, in compliance with existing laws, acted under a legal
 obligation to process RLA ’s personal data, which is one of the
-conditions for lawful processing under Section 12 (c) of the DPA
-and the Implementing Rules and Regulations of the DPA (IRR) 3;
+conditions for lawful processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the DPA]]
+and the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the DPA (IRR) 3;
 2. None of PLDT ’s “responsible persons, officers, or individuals”
 should be held criminally liable for violations of the DPA, as
 PLDT acted under a legal obligation to process RLA ’s personal
@@ -718,7 +718,7 @@ any action to comply with NTC MC 05-06-2007 from the time it was
 issued.
 III. PLDT processed Personal Information for Unauthorized
 Purposes.
-PLDT violated Section 28 of the DPA or the Processing of Personal
+PLDT violated [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 of the DPA]] or the Processing of Personal
 Information for Unauthorized Purposes. Section 28 provides:
 Section 28. Processing of Personal Information and Sensitive
 Personal Information for Unauthorized Purposes. – The
@@ -812,8 +812,7 @@ information in the listing directory without his authority.
 PLDT asserts that it lawfully processed RLA ’s personal information
 under a legal obligation when it published his personal information in
 the listing directory. 83 Proc essing necessary for c ompliance under a
-legal obligation is a criterion for lawful processing under Section 12 of
-the DPA. Section 12 provides:
+legal obligation is a criterion for lawful processing under Section 12 of the DPA. Section 12 provides:
 Section 12. Criteria for Lawful Processing of Personal Information.
 – The processing of personal information shall be permitted
 only if not otherwise prohibited by law, and when at least
@@ -896,8 +895,7 @@ relied on.
 processing of personal information have not been complied
 with.
 Processing based on a legal obligation requires that all conditions
-imposed by the legal obligation have been complied with. Section 12
-(c) of the DPA requires not only that the processing is “necessary” but
+imposed by the legal obligation have been complied with. Section 12 (c) of the DPA requires not only that the processing is “necessary” but
 also that it be in “compliance with a legal obligation”. Compliance
 with everything re quired by the claimed legal obligation as a condition
 for the processing is an essential element for any claim of valid
@@ -997,13 +995,12 @@ necessarily requires compliance with the legal obligation claimed and,
 consequently, presupposes that everything required by that legal
 obligation has been complied with.
 Considering that PLDT processed RLA ’s personal information
-without satisfying a valid criterion for lawful processing under Section
-12 (c) of the DPA, and in the absence of any other basis for lawful
+without satisfying a valid criterion for lawful processing under Section 12 (c) of the DPA, and in the absence of any other basis for lawful
 processing that has been validly asserted by PLDT, it is liable under
 Section 28 of the DPA on Processing of Personal Information for
 Unauthorized Purposes.
 IV. PLDT committed Unauthorized Disclosure.
-PLDT violated Section 32 of the DPA o n Unauthorized Disclosure. As
+PLDT violated [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 of the DPA]] o n Unauthorized Disclosure. As
 held in the Decision dated 17 December 2021, all the elements of
 Section 32 are present in this case. 97 In particular, the Decision
 provide s:
@@ -1022,7 +1019,7 @@ one (1) year to three (3) years and a fine of not less than Five
 hundred thousand pesos (Php500,000.00) but not more than
 One milli on pesos (Php1,000,000.00).[^99]
 Section 32 of the DPA refers to “the immediately preceding section” or
-Section 31 of the DPA o n Malicious Disclosure, which states:
+[[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 of the DPA]] o n Malicious Disclosure, which states:
 Section 31. Malicious Disclosure. – Any personal information
 controller or personal information processor or any of its
 officials, employees or agents, who, with malice or in bad
@@ -1139,8 +1136,7 @@ V. PLDT is grossly negligent.
 PLDT manifested gross negligence when it failed to acquire its
 subscribers’ consent to publish their personal information in the listing
 directory since 2007. Its failure to inform its subscribers of the option
-to not be listed in the listing directory resulted in its violation of Section
-28 of the DPA. The Supreme Court defines gross negligence as:
+to not be listed in the listing directory resulted in its violation of Section 28 of the DPA. The Supreme Court defines gross negligence as:
 Gross negligence implies a want or absence of or a failure to
 exercise slight care or diligence, or the entire absence of care. It
 evinces a thoughtless disregard of consequences without
@@ -1238,7 +1234,7 @@ subscribers in order to lean towards the safe mandate of the law, and
 if such consent was not acquired, it should not have pushed through
 with publishing the personal info rmation of the subscriber.
 After all, in the event of uncertainty, a PIC must always be mindful of
-the rights and interests of the data subjects. Section 38 of the DPA
+the rights and interests of the data subjects. [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38 of the DPA]]
 provides :
 Section 38. Interpretation. – Any doubt in the interpretation of
 any provision of this Act shall be liberally interpreted in a
@@ -1461,7 +1457,7 @@ Privacy Commissioner
 [^122]: See, Liboro Dissenting Opinion, 10 December 2021, at 17, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021)
 [^123]: NPC 18010 Decision dated 17 December 2020.
 [^124]: Section 12 of the DPA.
-[^125]: Section 13 of the DPA.
+[^125]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 [^126]: Supra.
 [^127]: Section 28 of the DPA.
 [^128]: Public Service Commission, Public Service Commission Rules and Regulations for all Public Services, Revised Order No.
@@ -1843,8 +1839,7 @@ DPA.
 > less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00). NPC BN 18010
 Stated differently, if the alleged processing of personal and sensitive
 personal information is based on other lawful criteria, then such
-disclosure does not come within the purview of Section 32 of the
-DPA but under a different Section of the DPA.
+disclosure does not come within the purview of Section 32 of the DPA but under a different Section of the DPA.
 To interpret otherwise would result in an absurd situation where all
 forms of disclosure, without the data subject's consent, would be
 penalized under Section 32 even if they have other bases for
@@ -1864,8 +1859,7 @@ publishing the list of names of its telephone and DSL subscribers in the
 White Pages that is founded on a legal obligati on according to the
 Public Service Act.
 Since PLDT has a lawful basis for processing other than the consent
-requirement, then it follows that Section 32 (which penalizes
-disclosure without the consent of a data subject) of the DPA is not
+requirement, then it follows that Section 32 (which penalizes disclosure without the consent of a data subject) of the DPA is not
 likewise applicable.
 III. PLDT ’s accountability
 It must be reiterated that although the PLDT may not be liable for
@@ -1907,8 +1901,7 @@ clarify the matter and ask for guidance on how to best approach and
 address the situation they perceived as a "DPA gap."
 The “DPA gap” may be a consequence of the imperfections in the road
 to compliance of companies.
-In the questioned Decision, reference to NPC Advisory Opinion No.
-18021 was made wherein the Privacy Policy Office (PPO) of the NPC
+In the questioned Decision, reference to NPC Advisory Opinion No. 18021 was made wherein the Privacy Policy Office (PPO) of the NPC
 was sought to clarify the claim of PLDT that its “base of customers
 whose details have been printed have not expressly provided their
 consent to print their details in the existing DPC White Pages that meet
@@ -2040,8 +2033,7 @@ has a lawful criterion for processing, which is a legal obligation
 pursuant to the Public Service Act.
 PLDT should not be liable for violatin g Section 32, which is not
 applicable in this case. Again, the data subject's consent is not the basis
-for the disclosure; hence, the consent requirement under Section 32 of
-the DPA is immaterial.
+for the disclosure; hence, the consent requirement under Section 32 of the DPA is immaterial.
 There being no violations of Sections 28 and 32, it follow s that the
 PLDT ’s “responsible persons, officers or individuals” have no criminal
 liab ility. For this purpose, the directive in the Decision dated 17

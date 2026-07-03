@@ -158,7 +158,7 @@ Subsequently, CID issued an Order dated 14 June 2021 requiring Datascope to subm
 
 1. [T]he Audit Report containing the result of the physical audit of all external HDDs conducted by the Accounting Department; and
 
-2. [T]he result of the Privacy Impact Assessment (PIA) on the identification of privacy risks and adaption of the appropriate security measures to protect personal data against natural and human dangers with guidelines provided under NPC Advisory No. 2017-03 particularly on the process of scanning of employment record and transfer thereof of HDDs, and the handling, transport and storage of such HDDs containing backup copy of personal data.[^18]
+2. [T]he result of the Privacy Impact Assessment (PIA) on the identification of privacy risks and adaption of the appropriate security measures to protect personal data against natural and human dangers with guidelines provided under [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]] particularly on the process of scanning of employment record and transfer thereof of HDDs, and the handling, transport and storage of such HDDs containing backup copy of personal data.[^18]
 
 Accordingly on 19 May 2022, Datascope submitted to the Commission's CID the above-requested documents.[^19]
 
@@ -213,7 +213,7 @@ As to the safeguards it took to mitigate the impact of the data breach, Datascop
 
 In its Personal Information Protection Guidelines, Datascope stated that the 201 files of its employees "are disposed after 4 years of separation" from the company.[^39] The document also provided that the Human Resources (HR) Head acts as the data protection officer (DPO) of the company who shall:
 
-> [O]versee the compliance of the organization with the [Data Privacy Act of 2012] DPA, its [Implementing Rules and Regulations] IRR, and other related policies, including the conduct of [PIA], implementation of security measures, security incident and data breach protocol, and the inquiry and complaints procedure.[^40]
+> [O]versee the compliance of the organization with the [Data Privacy Act of 2012] DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] IRR, and other related policies, including the conduct of [PIA], implementation of security measures, security incident and data breach protocol, and the inquiry and complaints procedure.[^40]
 
 Moreover, the Personal Information Protection Guidelines provided for the precautionary measures in protecting its clients' or customers' personal data such as:
 
@@ -402,7 +402,7 @@ In order to allow the affected data subjects to take "necessary precautions or o
 
 The first requisite under Section 11 is present in this case considering that the missing external HDD contained scanned copies of personnel employment records which also contain sensitive personal information such as the dates of birth, annual medical records, education/transcripts/diplomas, disciplinary actions, among others.[^109]
 
-Moreover, Section 20(f) of the DPA in relation to Section 11(A) NPC Circular 16-03 states:
+Moreover, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(f) of the DPA]] in relation to Section 11(A) NPC Circular 16-03 states:
 
 > SEC. 20. Security of Personal Information. -
 >

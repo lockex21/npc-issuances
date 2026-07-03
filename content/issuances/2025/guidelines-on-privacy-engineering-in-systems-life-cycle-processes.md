@@ -23,11 +23,11 @@ date: '2025-08-27'
 
 **SUBJECT:** Guidelines on Privacy Engineering in Systems Life Cycle Processes
 
-**WHEREAS**, Section 7 (g) of the Data Privacy Act of 2012 (DPA) provides that the National Privacy Commission (NPC) is empowered to publish, on a regular basis, a guide to all laws relating to data protection;
+**WHEREAS**, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 (g) of the Data Privacy Act of 2012]] (DPA) provides that the National Privacy Commission (NPC) is empowered to publish, on a regular basis, a guide to all laws relating to data protection;
 
-**WHEREAS**, pursuant to Chapter V, Section 20 (a) of the DPA, the personal information controller must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration, and disclosure, as well as against any other unlawful processing;
+**WHEREAS**, pursuant to Chapter V, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) of the DPA]], the personal information controller must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration, and disclosure, as well as against any other unlawful processing;
 
-**WHEREAS**, Rule VI, Section 25 of the Implementing Rules and Regulations (IRR) of the DPA provides that Personal Information Controllers (PICs) and Personal Information Processors (PIPs) shall implement reasonable and appropriate organizational, physical, and technical security measures for the protection of personal data;
+**WHEREAS**, Rule VI, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Section 25 of the Implementing Rules and Regulations]] (IRR) of the DPA provides that Personal Information Controllers (PICs) and Personal Information Processors (PIPs) shall implement reasonable and appropriate organizational, physical, and technical security measures for the protection of personal data;
 
 **WHEREAS**, Rule II, Section 8 of the NPC Circular 2023-06 or the Security of Personal Data in the Government and the Private Sector provides that a PIC or a PIP should incorporate data privacy requirements throughout the development and implementation of data processing systems;
 
@@ -177,31 +177,31 @@ Deputy Privacy Commissioner                Deputy Privacy Commissioner
 
 [^2]: ISO/IEC/IEEE 21840:2019(En), Systems and Software Engineering — Guidelines for the Utilization of ISO/IEC/IEEE 15288 in the Context of System of Systems (SoS), available at https://www.iso.org/obp/ui#iso:std:iso-iec-ieee:21840:ed-1:v1:en:term:3.1.11.
 
-[^3]: [[laws/data-privacy-act-of-2012#Section 12. Criteria for Lawful Processing of Personal Information|Section 12 of the Republic Act 10173 - Data Privacy Act of 2012]].
+[^3]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the Republic Act 10173 - Data Privacy Act of 2012]].
 
-[^4]: [[laws/data-privacy-act-of-2012#Section 11. General Data Privacy Principles|Section 11 of the Republic Act 10173 - Data Privacy Act of 2012]].
+[^4]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the Republic Act 10173 - Data Privacy Act of 2012]].
 
 [^5]: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03: Guidelines on Privacy Impact Assessments]].
 
-[^6]: [[laws/data-privacy-act-of-2012#Section 20. Security of Personal Information|Section 20(c) of the Republic Act 10173 - Data Privacy Act of 2012]].
+[^6]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(c) of the Republic Act 10173 - Data Privacy Act of 2012]].
 
-[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 25. Data Privacy and Security|Section 25 of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
+[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Section 25 of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 
 [^8]: Data Protection Engineering From Theory to Practice, available at https://www.enisa.europa.eu/sites/default/files/publications/ENISA%20Report%20-%20Data%20Protection%20Engineering.pdf.
 
-[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 28. Guidelines for Technical Security Measures|Section 28(e) of the IRR of DPA]].
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|Section 28(e) of the IRR of DPA]].
 
-[^10]: [[laws/data-privacy-act-of-2012#Section 16. Rights of the Data Subject|Section 16 of the Republic Act 10173 - Data Privacy Act of 2012]].
+[^10]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the Republic Act 10173 - Data Privacy Act of 2012]].
 
 [^11]: Sections 16 and 19 of [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular 2023-06: Security of Personal Data in the Government and the Private Sector]].
 
 [^12]: Fuzz testing or fuzzing is an automated software testing method that injects invalid, malformed, or unexpected inputs into a system to reveal software defects and vulnerabilities, available at https://www.synopsys.com/glossary/what-is-fuzz-testing.html#:~:text=Definition,as%20crashes%20or%20information%20leakage.
 
-[^13]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 28. Guidelines for Technical Security Measures|Section 28(f) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
+[^13]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|Section 28(f) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 
 [^14]: [[issuances/2021/data-subject-rights|NPC Advisory 2021-01: Data Subject Rights]].
 
-[^15]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 28. Guidelines for Technical Security Measures|Section 28(b) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
+[^15]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|Section 28(b) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 
 [^16]: ISO/IEC 29101:2018(En), Information Technology — Security Techniques — Privacy Architecture Framework, available at https://www.iso.org/obp/ui/en/#iso:std:iso-iec:29101:ed-2:v1:en.
 
@@ -211,13 +211,13 @@ Deputy Privacy Commissioner                Deputy Privacy Commissioner
 
 [^19]: [[issuances/2023/guidelines-on-consent|NPC Circular No. 2023-04: Guidelines on Consent]].
 
-[^20]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 28. Guidelines for Technical Security Measures|Section 28(d-e) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
+[^20]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|Section 28(d-e) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 
-[^21]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 28. Guidelines for Technical Security Measures|Section 28(f) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
+[^21]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|Section 28(f) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 
 [^22]: [[issuances/2021/data-subject-rights|NPC Advisory 2021-01: Data Subject Rights]].
 
-[^23]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#Section 26. Organizational Security Measures|Section 26(d) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
+[^23]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-26-organizational-security-measures|Section 26(d) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 
 ## Source And Notes
 

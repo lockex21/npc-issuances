@@ -30,9 +30,9 @@ You mention that the COA is conducting a performance audit on the COVID-19 Natio
 
 However, the DOH expressed concerns about data privacy regarding the COA's request for access to the VIMS. The DOH reasoned that the local government units (LGUs) were solely responsible for collecting the data stored in the VIMS, while EB's role is limited to storing and managing the data in accordance with its mandate. Although the audit team had already conducted tests of the data against the source documents held by the LGUs, the conduct of a national-level review of the data from the VIMS will achieve a different audit objective.
 
-You thus seek guidance on how to conduct the audit process in compliance with the Data Privacy Act of 2012 (DPA).
+You thus seek guidance on how to conduct the audit process in compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
-#### NPC Advisory Opinion No. 2020-016; Constitutional or Statutory Mandate
+#### [[advisory-opinions/2020/advisory-opinion-no-2020-016-audit-procedures-of-the-commission-on-audit|NPC Advisory Opinion No. 2020-016]]; Constitutional or Statutory Mandate
 
 We reiterate our stance in NPC Advisory Opinion No. 2020-016 in which we acknowledged the authority of the COA as an independent constitutional body and recognized its power, authority, and duty to examine, audit and settle all accounts and expenditures of the funds and properties of the Philippine government.[^2] We also stated therein that:
 
@@ -44,7 +44,7 @@ As such, the COA's intended access to the VIMS database to review its completene
 
 #### General Data Privacy Principles; Security Measures
 
-Please note that although the COA has the authority to process personal data pursuant to its mandate, it still bears the responsibility of following other rules and regulations laid out in the DPA, its IRR, and any other guidelines set by the National Privacy Commission (NPC). This means that COA must process personal data lawfully and fairly, with strict adherence to the general data privacy principles. It is important to note that personal data collected must be proportionate, adequate and not excessive in relation to the original purposes for which they were collected,[^4] which is particularly relevant in the given scenario.
+Please note that although the COA has the authority to process personal data pursuant to its mandate, it still bears the responsibility of following other rules and regulations laid out in the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and any other guidelines set by the National Privacy Commission (NPC). This means that COA must process personal data lawfully and fairly, with strict adherence to the general data privacy principles. It is important to note that personal data collected must be proportionate, adequate and not excessive in relation to the original purposes for which they were collected,[^4] which is particularly relevant in the given scenario.
 
 The COA is also required to implement reasonable and appropriate physical, organizational and technical security measures to ensure the protection of the processed personal data. Furthermore, it is also required to regularly monitor for security breaches and take preventive, corrective and mitigating measures against incidents which may lead to security breaches.[^5] This is particularly significant as the data being processed are classified as sensitive personal information. Additionally, COA must ensure that the audit is confined only to data related to the COVID-19 National Vaccination Program, as specified in the engagement letter addressed to the DOH.
 

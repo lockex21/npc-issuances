@@ -22,7 +22,7 @@ Re: DISCLOSURE OF SCREENSHOTS OF A PRIVATE CONVERSATION
 
 Dear [Redacted],
 
-We write in response to your request for advisory opinion received by the National Privacy Commission (NPC) concerning various questions and clarifications regarding the Data Privacy Act of 2012[^2] (DPA), particularly the following:
+We write in response to your request for advisory opinion received by the National Privacy Commission (NPC) concerning various questions and clarifications regarding the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA), particularly the following:
 
 ### Discussion
 
@@ -100,5 +100,5 @@ Privacy Commissioner
 [^11]: Republic Act No. 8792 (June 14, 2000).
 [^12]: A.M. No. 01-7-01-SC (July 17, 2001).
 [^13]: *Id.*
-[^14]: See: Advisory Opinion No. 2019-023 (June 13, 2019).
+[^14]: See: [[advisory-opinions/2019/advisory-opinion-no-2019-023-npc-advisory-opinion-no-2019-023|Advisory Opinion No. 2019-023]] (June 13, 2019).
 [^15]: KRL v. Trinity University, National Privacy Commission CID Case No. 17-K-003 (2019).

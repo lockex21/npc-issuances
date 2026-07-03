@@ -56,7 +56,7 @@ Seeking the reconsideration of the Commission's 29 July 2019 Resolution, Sun Lif
 
 While Sun Life may have taken the necessary steps to secure its system and prevent a recurrence of that incident, these remain mere assertions in the absence of any evidence to support them. In addition, the steps outlined by Sun Life are only with regard to the risks that may arise in relation to its own system. It did not consider the other risks, such as phishing or social engineering attacks, that its data subjects may be subjected to as a result of the breach.
 
-When the Data Privacy Act ("DPA") states as one of the criteria for notification that the "unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject,"[^4] it does not qualify that the risks and harms that should be considered are only those within the control of the personal information controller that was breached. Instead, the risks and harms that data subjects may face must be viewed holistically taking into consideration all the relevant circumstances.
+When the [[laws/data-privacy-act-of-2012|Data Privacy Act]] ("DPA") states as one of the criteria for notification that the "unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject,"[^4] it does not qualify that the risks and harms that should be considered are only those within the control of the personal information controller that was breached. Instead, the risks and harms that data subjects may face must be viewed holistically taking into consideration all the relevant circumstances.
 
 ### B. The procedure followed by Sun Life is improper
 

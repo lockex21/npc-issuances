@@ -66,7 +66,7 @@ While the information of PSs and MSBs operating as sole proprietorships or partn
 
 For Section 4(e), the exclusion particularly pertains to information necessary in carrying out the functions of a public authority, which includes processing for the performance by the independent central monetary authority and law enforcement and regulatory agencies of their constitutionally and statutorily mandated functions.
 
-However, the exclusions above are not absolute. The exclusion of the information specified in Section 4 of the DPA is only to the minimum extent necessary to achieve the specific purpose, function, or activity. Thus, the use of the information claimed to be outside the scope of the DPA:
+However, the exclusions above are not absolute. The exclusion of the information specified in [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] is only to the minimum extent necessary to achieve the specific purpose, function, or activity. Thus, the use of the information claimed to be outside the scope of the DPA:
 
 1. Must be necessary in order to carry out the functions of public authority; and
 2. The processing of personal data is for the performance of a constitutional or statutory mandate.[^3]
@@ -83,7 +83,7 @@ Thus, only the information required to be processed pursuant to the said functio
 
 #### Data sharing
 
-Data sharing shall be allowed when it is expressly authorized by law. Further, Section 20 (d) of the IRR recognizes the data sharing between and among government agencies for the purpose of a public function or provision of a public service. The same section provides that the sharing arrangement shall be covered by a data sharing agreement (DSA), and that:
+Data sharing shall be allowed when it is expressly authorized by law. Further, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20 (d) of the IRR]] recognizes the data sharing between and among government agencies for the purpose of a public function or provision of a public service. The same section provides that the sharing arrangement shall be covered by a data sharing agreement (DSA), and that:
 
 1. All parties to the agreement shall comply with the DPA, its IRR, and issuances of the NPC, including putting in place adequate safeguards for data privacy and security; and
 2. The DSA shall be subject to review of the NPC, on its own initiative or upon complaint of a data subject.
@@ -98,7 +98,7 @@ On transparency and upholding the rights of the data subjects to be informed, it
 
 #### Data sharing agreement in a Joint Memorandum Circular
 
-NPC Circular No. 16-02 was enacted to govern data sharing involving government agencies.
+[[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] was enacted to govern data sharing involving government agencies.
 
 As defined in the circular, a data sharing agreement is a contract, joint issuance, or any similar document that contains the terms and conditions of a data sharing arrangement between two or more parties.[^5] With regard to the contents of a data sharing agreement, Section 6 enumerates the terms and conditions that must be complied with and must be included in the agreement.
 
@@ -133,5 +133,5 @@ Privacy Commissioner and Chairman
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: *See:* National Privacy Commission, NPC Advisory Opinions No. 2018-002 (Jan. 15, 2018), 2018-014 (May 9, 2018), and 2018-060 (Aug. 30, 2018).
-[^4]: *See:* National Privacy Commission, NPC Advisory Opinion No. 2018-060 (Aug. 30, 2018).
+[^4]: *See:* National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-060-npc-advisory-opinion-no-2018-060|NPC Advisory Opinion No. 2018-060]] (Aug. 30, 2018).
 [^5]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies, Circular No. 16-02 [NPC Circular 16-02] § 3 (E) (October 10, 2016).

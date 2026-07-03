@@ -96,12 +96,12 @@ If a PIC outsources or subcontracts the processing of personal data to another n
 
 ##### Does the provision mean that personal data lawfully collected in foreign jurisdictions without securing the consent of the data subject can be processed in the Philippines, but that the Philippine company (as PIC or PIP) must implement appropriate security measures in respect of such data?
 
-Section 5(f) of the IRR provides that personal data processed in the Philippines, but which
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5(f) of the IRR]] provides that personal data processed in the Philippines, but which
 were originally collected from residents of foreign jurisdictions in accordance with the laws
 thereof, fall outside the scope of the DPA.
 
 
-This means the collection itself of the personal data is governed by the laws of the foreign jurisdiction. Other types of processing that the personal data is subjected to here in the Philippines remain covered by the DPA. This interpretation is consistent with Section 38 of the DPA, which reads:
+This means the collection itself of the personal data is governed by the laws of the foreign jurisdiction. Other types of processing that the personal data is subjected to here in the Philippines remain covered by the DPA. This interpretation is consistent with [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38 of the DPA]], which reads:
 
 > Interpretation. — Any doubt in the interpretation of any provision of this Act shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed. (underscoring supplied)
 
@@ -144,8 +144,7 @@ In the private sector, it is permitted if the consent of the data subject is obt
 Data sharing between private sector entities—including that between affiliates, or between a
 company and its parent or subsidiary—is generally presumed to be in pursuit of some
 commercial objective or purpose, as is the compliance by such entities with the DSA
-requirement prior to any data sharing arrangement. This view is consistent with Section 38
-of the DPA, which calls for an interpretation of the law that is mindful of the rights and
+requirement prior to any data sharing arrangement. This view is consistent with Section 38 of the DPA, which calls for an interpretation of the law that is mindful of the rights and
 interests of data subjects. Accordingly, it is incumbent upon a private sector entity seeking
 to exempt itself from the DSA requirement to overcome the aforesaid presumptions.
 
@@ -168,7 +167,7 @@ names and addresses of the recipients of his or her personal data. Thus, should 
 
 Is it sufficient to post a notice of such recording in the company’s terms and conditions with clients, and in a privacy policy published on its website?
 
-Section 24 of the IRR seeks to elaborate on Section 44 (Repealing Clause) of the DPA, which states:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-24-surveillance-of-suspects-and-interception-of-recording-of-communications|Section 24 of the IRR]] seeks to elaborate on [[laws/data-privacy-act-of-2012#section-44-repealing-clause|Section 44 (Repealing Clause) of the DPA]], which states:
 
 > The provision of Section 7 of Republic Act No. 9372, otherwise known as the “Human Security Act of 2007”, is hereby amended. Except as otherwise expressly provided in this Act, all other laws, decrees, executive orders, proclamations and administrative regulations or parts thereof inconsistent herewith are hereby repealed or modified accordingly. (underscoring supplied)
 
@@ -193,9 +192,9 @@ A company measure informing the public of its practice of recording phone conver
 
 ##### Does the Data Protection Officer need to be a resident of the Philippines and employed by the data processor?
 
-Given its definition,[^19] a DPO need not be a resident of the Philippines. However, he or she must be able to fulfill the functions laid out in NPC Advisory No. 2017-01 (Designation of Data Protection Officers). It is worth noting that such functions would require, as a minimum, being familiar with Philippine laws and regulations on data protection and data security.
+Given its definition,[^19] a DPO need not be a resident of the Philippines. However, he or she must be able to fulfill the functions laid out in [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]] (Designation of Data Protection Officers). It is worth noting that such functions would require, as a minimum, being familiar with Philippine laws and regulations on data protection and data security.
 
-##### Are companies outside of the Philippines which process data covered by Section 4 of the IRR required to appoint their own Data Protection Officers under the IRR?
+##### Are companies outside of the Philippines which process data covered by [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|Section 4 of the IRR]] required to appoint their own Data Protection Officers under the IRR?
 
 The designation of a DPO is required for both PICs[^20] and PIPs[^21]. Since the DPA does not distinguish between entities operating in the Philippines or abroad, an offshore company that meets the criteria set in the law for the latter’s extra-territorial application is required to appoint a DPO. For additional guidance on this subject, reference must be made to NPC Advisory No. 2017-01.
 
@@ -207,7 +206,7 @@ As a general rule, each entity that forms part of a group of companies is treate
 
 ##### Section 34(b)(3): Does “legal obligation” extend to legal obligations under foreign law, or only to legal obligations originating in the Philippines?
 
-Section 34(b) of the IRR pertains to the right of a data subject to object or withhold his or her
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34(b) of the IRR]] pertains to the right of a data subject to object or withhold his or her
 consent to the processing of his or her personal data. By way of an exemption, subsection no.
 
 
@@ -260,7 +259,7 @@ If the processing of personal data is outsourced or subcontracted by a PIC to an
 
 In the event of a breach, the same process for determining any liability on the part of a PIC
 and/or any of its officers will be undertaken vis-à-vis a PIP and its officers. Accordingly, the
-extent of liability for either a PIC or PIP will also be governed by Section 61 of the IRR.
+extent of liability for either a PIC or PIP will also be governed by [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-61-extent-of-liability|Section 61 of the IRR]].
 
 
 ##### In the event of a breach, will the obligation to report a breach lie with the PIC, or the subcontractor/service provider?
@@ -271,7 +270,7 @@ Reference must be made to NPC Circular No. 2016-03 (Personal Data Breach Managem
 
 ##### If a PIC has less than 250 employees but processes data about such employees on an ongoing basis (not just “occasionally”) is it required to register? If a Philippine company has less than 50 employees, does it need to register?
 
-The policy provided in Section 47 of the IRR states that, if a PIC or PIP has at least 250 employees, it must register its personal data processing system with the NPC. If its employees are fewer than 250, it may still be required to register in three (3) scenarios. Specifically, if the processing it carries out:
+The policy provided in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Section 47 of the IRR]] states that, if a PIC or PIP has at least 250 employees, it must register its personal data processing system with the NPC. If its employees are fewer than 250, it may still be required to register in three (3) scenarios. Specifically, if the processing it carries out:
 
 1. is likely to pose a risk to the rights and freedoms of data subjects;
 2. is not occasional; or
@@ -298,7 +297,7 @@ Thus, regardless of the designation, title, or position of the officer concerned
 
 ##### Does the 1-year transition period apply to all requirements in the IRR and the DPA (as stated in the DPA), or only to the registration requirement (as stated in the IRR)? For instance, if there is a breach now, are we required to comply with breach notification requirement?
 
-Section 42 of the DPA states that existing industries, businesses, and offices affected by the
+[[laws/data-privacy-act-of-2012#section-42-transitory-provision|Section 42 of the DPA]] states that existing industries, businesses, and offices affected by the
 Act shall be given one (1) year transitory period from the effectivity of the IRR or such other
 period as may be determined by the NPC, to comply with the requirements of the DPA.
 
@@ -348,7 +347,7 @@ Policy and Planning
 [^16]: id., §20(b).
 [^17]: id., §20(b)(2).
 [^18]: IRR, §20(b)(3)(a).
-[^19]: see: NPC Circular No. 16-01, §3(F).
+[^19]: see: [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]], §3(F).
 [^20]: RA 10173, §21(b).
 [^21]: id., §14, in relation to §21(b).
 [^22]: Amores v. House of Representatives Electoral Tribunal, G.R. No. 189600 (29 June 2010).

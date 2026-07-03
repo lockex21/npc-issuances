@@ -22,7 +22,7 @@ Re: INSTALLATION OF CLOSED-CIRCUIT TELEVISION (CCTV) IN LOCAL GOVERNMENT UNIT OF
 
 Dear [Redacted],
 
-We write in response to your inquiries on the applicability of Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR), and relevant issuances of the National Privacy Commission (NPC) on the following concerns:
+We write in response to your inquiries on the applicability of Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and relevant issuances of the National Privacy Commission (NPC) on the following concerns:
 
 1) Installation and use of CCTV with audio recording inside the Office of the Municipal Treasurer, particularly facing her desk and vault;
 2) An order to transfer the monitoring and control to the Office of the Mayor with access through a personal laptop;
@@ -45,7 +45,7 @@ The DPA applies to the processing of all types of personal information and to an
 
 The processing of CCTV footage in a government office is allowed on account of fulfillment of functions of public authority[^4] which necessarily includes the processing of personal data for the fulfillment of mandate[^5] or for legitimate purposes.[^6]
 
-In addition, any of the criterion under Section 13 of the DPA may likewise apply in cases where CCTV footages or images would reveal sensitive personal information.
+In addition, any of the criterion under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] may likewise apply in cases where CCTV footages or images would reveal sensitive personal information.
 
 #### Security measures; General data privacy principles
 
@@ -61,7 +61,7 @@ Moreover, you stated that the CCTV with audio recording is positioned focusing o
 
 In connection with the immediately preceding paragraph, it is required that a privacy impact assessment (PIA) be conducted on the system used to process the footages and to other data processing systems used by the LGU to process personal data. A PIA includes the holistic assessment of the risks to the rights and freedoms of a data subject. An audio-enabled CCTV directly focused on an employee's desk and vault may be disproportionate and intrusive on the rights of data subjects. Appropriately, the LGU should only store and collect footage that are adequate, relevant, suitable, necessary, and not excessive in relation to the declared, specified, and legitimate purpose which warranted the installation of CCTVs.
 
-For additional information and guidance, you may refer to NPC Advisory No. 2017-03 (Guidelines on Privacy Impact Assessments) to know more about the conduct of a PIA, who should take part and what steps should be taken to ensure that the processing of CCTV footage, as well as its placement and monitoring, are compliant with the provisions of the DPA and its related issuances.
+For additional information and guidance, you may refer to [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]] (Guidelines on Privacy Impact Assessments) to know more about the conduct of a PIA, who should take part and what steps should be taken to ensure that the processing of CCTV footage, as well as its placement and monitoring, are compliant with the provisions of the DPA and its related issuances.
 
 In addition to the foregoing, the LGU shall ensure that the data subjects involved in the processing of personal data are informed about the details of the processing of their personal data. This may be operationalized through the posting of a privacy notice. This is consistent with the right of the data subject to be informed, thus, there is need to apprise data subjects of the following:[^12]
 

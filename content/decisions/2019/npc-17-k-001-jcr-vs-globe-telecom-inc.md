@@ -43,7 +43,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by Complainant JCR against Respondent Globe Telecom, Inc. for supposed violations of R.A. 10173 (“Data Privacy Act”).
+Before this Commission is a Complaint filed by Complainant JCR against Respondent Globe Telecom, Inc. for supposed violations of [[laws/data-privacy-act-of-2012|R.A. 10173]] (“Data Privacy Act”).
 
 ### Facts
 
@@ -61,7 +61,7 @@ After two weeks, Complainant inquired again about the status of her cancellation
 
 On 20 November 2017, Complainant filed her Complaint-Affidavit of even date before this Commission. According to her, she was worried about the integrity of her data and privacy because her primary means of communication and the repository of her personal data for six (6) years is now left uncertain in the hands of a stranger.
 
-Complainant alleges that “the inability of Globe to deactivate my lost Globe SIM, re-issue the same and restore my possession of my Globe number that belonged to me for the past six (6) years, qualify as a breach of its obligations under Republic Act No. 10173 or the Data Privacy Act of 2012 and its Implementing Rules and Regulations.”[^1]
+Complainant alleges that “the inability of Globe to deactivate my lost Globe SIM, re-issue the same and restore my possession of my Globe number that belonged to me for the past six (6) years, qualify as a breach of its obligations under Republic Act No. 10173 or the Data Privacy Act of 2012 and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]].”[^1]
 
 Complainant further alleges that Respondent violated Sections 25 and 28(d) of the Implementing Rules and Regulations (“IRR”) of the Data Privacy Act of 2012 for failure to implement reasonable and appropriate security measures to protect the availability, integrity and confidentiality of her personal data.
 

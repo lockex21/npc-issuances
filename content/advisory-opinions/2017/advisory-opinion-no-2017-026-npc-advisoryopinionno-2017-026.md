@@ -41,7 +41,7 @@ A professional identification card issued by the Professional Regulation Commiss
 7. Date of birth; and
 8. Signature.
 
-A PRC identification card contains both personal[^1] and sensitive personal information[^2], the lawful processing of which is provided for under Sections 12 and 13 of the Data Privacy Act of 2012 (DPA).
+A PRC identification card contains both personal[^1] and sensitive personal information[^2], the lawful processing of which is provided for under Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 We believe that the Academy, as a personal information controller, may lawfully process personal data contained in the professional licenses pursuant to the following provisions of the DPA:
 

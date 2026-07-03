@@ -44,7 +44,7 @@ Thus, you seek guidance as to whether you may legally accede to the COA’s requ
 
 #### Personal and Sensitive Personal Information
 
-Personal and sensitive personal information are defined under Section 3 of the DPA, as follows:
+Personal and sensitive personal information are defined under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]], as follows:
 
 > (g) *Personal information* refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 >
@@ -56,7 +56,7 @@ Personal and sensitive personal information are defined under Section 3 of the D
 
 It is clear that the name of a deceased individual is considered personal information. On the other hand, the complete date of birth qualifies as sensitive personal information as it can be used to ascertain an individual’s age.
 
-Therefore, the processing of such information should be anchored on *any* of the criteria for lawful processing outlined in Sections 12 and 13 of the DPA for personal and sensitive personal information, respectively. It is worthy to note, however, that Section 4(e) of the DPA establishes a special case when the processing is in the performance of an agency’s constitutional or statutory function or mandate.
+Therefore, the processing of such information should be anchored on *any* of the criteria for lawful processing outlined in Sections 12 and 13 of the DPA for personal and sensitive personal information, respectively. It is worthy to note, however, that [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]] establishes a special case when the processing is in the performance of an agency’s constitutional or statutory function or mandate.
 
 #### Constitutional or Statutory Mandate of the Commission on Audit
 
@@ -64,7 +64,7 @@ Under the 1987 Constitution,[^3] the COA is considered as the guardian of public
 
 Additionally, Section 3, Rule IV of the 2009 Revised Rules of Procedure of the Commission on Audit provides for the responsibility of the auditor to obtain sufficient evidence to support his/her findings as well as to safeguard the same.[^5]
 
-We reiterate our stance in NPC Advisory Opinion No. 2020-016 in which we acknowledged the
+We reiterate our stance in [[advisory-opinions/2020/advisory-opinion-no-2020-016-audit-procedures-of-the-commission-on-audit|NPC Advisory Opinion No. 2020-016]] in which we acknowledged the
 authority of the COA as an independent constitutional body and recognized its power,
 authority, and duty to examine, audit and settle all accounts and expenditures of the funds and properties of the Philippine government. We also stated therein that the DPA should not be interpreted to hamper, or interfere with, the performance of the duties and functions of duly constituted authorities. Further, the COA, in carrying out its mandate, enjoys the presumption of regularity in the performance of its duties. The determination of what methods to utilize in the collection or gathering of personal data in performing its auditing functions shall be left to the COA’s sound discretion.
 
@@ -88,7 +88,7 @@ There is a legal presumption granted to COA that it will lawfully process person
 >
 > *(Emphasis supplied).*
 
-The principle of proportionality was further elaborated in Section 18 of the Implementing Rules and Regulations (IRR) of the DPA:
+The principle of proportionality was further elaborated in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 of the Implementing Rules and Regulations]] (IRR) of the DPA:
 
 > **Section 18. Principles of Transparency, Legitimate Purpose and Proportionality.** The processing of personal data shall be allowed subject to adherence to the principles of transparency, legitimate purpose, and proportionality.
 >
@@ -121,6 +121,6 @@ Director IV, Privacy Policy Office
 [^3]: Section 2, Article IX-D of the 1987 Constitution
 [^4]: *Yap v. Commission on Audit*, G.R. No. 158562, 23 April 2010.
 [^5]: Commission on Audit, Issuances, Revised Rules of Procedure, available at https://www.coa.gov.ph/issuances/2009-revised-rules-of-procedures-of-the-commission-on-audit/ (last accessed 11 October 2024).
-[^6]: *See: National Privacy Commission, Advisory Opinion No. 2018-035* (20 July 2018).
+[^6]: *See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-035-npc-advisory-opinion-no-2018-035|Advisory Opinion No. 2018-035]]* (20 July 2018).
 [^7]: *Sanchez v. Commission on Audit*, G.R. No. 127545, 23 April 2008.
 [^8]: Security of Personal Data in the Government and the Private Sector.

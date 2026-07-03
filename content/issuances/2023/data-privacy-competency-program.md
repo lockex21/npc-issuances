@@ -19,9 +19,9 @@ draft: false
 
 **NPC Circular 2023-02**
 
-WHEREAS, Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA) mandates the National Privacy Commission (NPC) to administer and implement the provisions of the law, and implement plans and policies that strengthen the protection of personal data formulate in the country;
+WHEREAS, [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA) mandates the National Privacy Commission (NPC) to administer and implement the provisions of the law, and implement plans and policies that strengthen the protection of personal data formulate in the country;
 
-WHEREAS, Section 9 of the Implementing Rules and Regulations of the DPA (IRR) provides that the NPC shall develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
+WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] of the DPA (IRR) provides that the NPC shall develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
 
 WHEREAS, Section 9 of the IRR states that the NPC shall undertake the necessary or appropriate efforts to inform and educate the public on data privacy, data protection, and fair information rights and responsibilities;
 

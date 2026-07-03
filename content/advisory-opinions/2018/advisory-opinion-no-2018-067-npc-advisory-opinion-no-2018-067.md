@@ -23,7 +23,7 @@ RE: OWWA E-CARD PROJECT
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion which sought to confirm whether the OWWA E-Card Project is a special case within the purview of Section 4(e) of the Data Privacy Act of 2012 (DPA).[^1]
+We write in response to your request for an advisory opinion which sought to confirm whether the OWWA E-Card Project is a special case within the purview of [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the Data Privacy Act of 2012]] (DPA).[^1]
 
 As mentioned in your letter, Section 11 of the Overseas Workers Welfare Administration Act (OWWA Act)[^2] mandates the OWWA board to issue an OWWA E-Card, identification card or any other proof of membership upon payment of the member’s contribution. It likewise directed the OWWA to maintain a comprehensive and updated database of member-Overseas Filipino Workers (OFWs).
 
@@ -45,7 +45,7 @@ Hence, the processing[^4] of personal information for the OWWA e-card project is
 
 The letter that you have provided us failed to indicate the personal data that will be processed pursuant to the OWWA E-Card Project. However, considering that the stakeholders and data subjects involved are OFWs, it can be derived that sensitive personal information[^5] are involved, such as passport details and other government issued identification numbers and details.
 
-Section 13(b) of the DPA states that processing of sensitive personal information is permitted when the processing of the same is provided for by existing law and regulations. The OWWA Act clearly instructed the OWWA to issue any proof of membership upon payment of the required contribution to facilitate in availment of services, participation in welfare programs and receive assistance from the agency.
+[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(b) of the DPA]] states that processing of sensitive personal information is permitted when the processing of the same is provided for by existing law and regulations. The OWWA Act clearly instructed the OWWA to issue any proof of membership upon payment of the required contribution to facilitate in availment of services, participation in welfare programs and receive assistance from the agency.
 
 With this, there is evidently legal and lawful basis for the processing activities by OWWA.
 
@@ -55,7 +55,7 @@ The principle of transparency entails the awareness of the data subjects of the 
 
 Also, it is important to state that the purpose of processing their personal information is for the E-Card Project, the database and other related programs of the agency.[^9] Lastly, OWWA shall ensure that the information collected, used, and stored are all necessary, relevant and not excessive in relation to the declared purpose of processing.[^10]
 
-Furthermore, OWWA, as a PIC is duty-bound to comply with the DPA, its IRR and other relevant issuances, including the appointment or designation of a Data Protection Officer, registration of data processing system/s, implementation of organizational, physical and technical security measures, and formulation of data breach protocols, among others.
+Furthermore, OWWA, as a PIC is duty-bound to comply with the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and other relevant issuances, including the appointment or designation of a Data Protection Officer, registration of data processing system/s, implementation of organizational, physical and technical security measures, and formulation of data breach protocols, among others.
 
 The diagram of the process flow on the collection, use, processing and issuance of the OFW E-Card illustrates the intervention of a third party for the card printing. Each PIC shall be responsible for personal information transferred to a third-party for processing and shall ensure that agreements and contracts with such third parties have sufficient and appropriate safeguards in place.[^11]
 

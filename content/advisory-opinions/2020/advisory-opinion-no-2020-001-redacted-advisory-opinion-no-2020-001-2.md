@@ -47,9 +47,9 @@ The Memorandum and Policy issued by PEATC requires Patrol/Traffic Officers to us
 
 Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^6] Accordingly, the image of an identifiable individual captured in a photograph or video is personal information about the individual, and thus, covered by the DPA.
 
-The collection and use of audio-visual recordings captured by these BWCs may find basis under Section 12 of the DPA, specifically where the processing is necessary for compliance with a legal obligation[^7] or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.[^8]
+The collection and use of audio-visual recordings captured by these BWCs may find basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], specifically where the processing is necessary for compliance with a legal obligation[^7] or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.[^8]
 
-In addition, Section 13 of the DPA may likewise apply where a BWC footage or image would reveal sensitive personal information. Thus, the processing of the same may be allowed if provided for by existing laws and regulations.[^9]
+In addition, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] may likewise apply where a BWC footage or image would reveal sensitive personal information. Thus, the processing of the same may be allowed if provided for by existing laws and regulations.[^9]
 
 From the foregoing, PEATC has a mandated regulatory function specifically to enforce and
 monitor traffic rules and regulations within Cavitex. As such, the PEATC, being a public
@@ -78,8 +78,7 @@ from both the Patrol/Traffic Officers and the data subjects.
 
 Lastly, the PEATC and its Patrol/Traffic Officers are mandated under the DPA to uphold the
 rights of data subjects and implement reasonable and appropriate security measures for the
-protection of the personal data collected against unauthorized processing. Refer to NPC
-Circular No. 2016-01 - Security of Personal Data in Government Agencies for further details.
+protection of the personal data collected against unauthorized processing. Refer to NPC Circular No. 2016-01 - Security of Personal Data in Government Agencies for further details.
 
 This opinion is rendered based on the information you have provided. Additional information
 may change the context of the inquiry and the appreciation of the facts.

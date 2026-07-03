@@ -170,7 +170,7 @@ As discussed in *VVC v. CJB*:[^39]
 >
 > (4) Specifically established by an executive order or an act of Congress to be kept classified.[^40]
 
-The processing of sensitive personal information, such as those contained in the PDS of the Complainants, is prohibited under the DPA, except when the data subjects have consented to the processing or when there are other lawful criteria for the processing of sensitive personal information. Section 13 of the DPA provides that sensitive personal information cannot be processed, except for the specific instances stated therein, to wit:
+The processing of sensitive personal information, such as those contained in the PDS of the Complainants, is prohibited under the DPA, except when the data subjects have consented to the processing or when there are other lawful criteria for the processing of sensitive personal information. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] provides that sensitive personal information cannot be processed, except for the specific instances stated therein, to wit:
 
 > SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
@@ -352,7 +352,7 @@ GENERAL RECORDS UNIT
 
 [^38]: *Id.*
 
-[^39]: *VVC v. CJB*, NPC 19-134, Decision dated 10 December 2021.
+[^39]: *VVC v. CJB*, [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], Decision dated 10 December 2021.
 
 [^40]: *Id.*, at pp. 7-8.
 
@@ -362,7 +362,7 @@ GENERAL RECORDS UNIT
 
 [^43]: Responsive Comment dated 20 July 2018 of VMA, at p. 3.
 
-[^44]: *ACN v. DT*, NPC 18-109, Decision dated 01 June 2021, at p. 10.
+[^44]: *ACN v. DT*, [[decisions/2021/npc-18-109-acn-v-dt|NPC 18-109]], Decision dated 01 June 2021, at p. 10.
 
 [^45]: *VVC v. CJB*, NPC 19-134, Decision dated 10 December 2021, at p. 15.
 

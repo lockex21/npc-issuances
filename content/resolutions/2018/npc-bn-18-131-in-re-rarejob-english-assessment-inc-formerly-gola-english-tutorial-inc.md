@@ -117,13 +117,13 @@ In RCJ v. DL, however, the Commission explained that not all information related
 >
 > Granular or detailed information relating to the education of an individual can be used to profile that particular individual. For instance, transcript of records containing a comprehensive breakdown of a student’s grades and other definitive administrative information, such as a student identification number, can be used to personally identify the student.[^39]
 
-In that case, the Commission determined that the petitioner’s transcript of records, which included a detailed breakdown of his grades, was considered sensitive personal information since the information can profile him.[^40] Thus, the processing in relation to the information about his education should be in accordance with Section 13 of the DPA.[^41]
+In that case, the Commission determined that the petitioner’s transcript of records, which included a detailed breakdown of his grades, was considered sensitive personal information since the information can profile him.[^40] Thus, the processing in relation to the information about his education should be in accordance with [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].[^41]
 
-Here, the educational attainment and name of the school of REA’s applicants are general in nature and cannot be used to profile a particular applicant or enable identity fraud. As such, it cannot be considered as sensitive personal information under Section 3 (l) of the DPA.
+Here, the educational attainment and name of the school of REA’s applicants are general in nature and cannot be used to profile a particular applicant or enable identity fraud. As such, it cannot be considered as sensitive personal information under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]].
 
 Further, the applicants’ personal information—their name, address, mobile phone number, and name of their previous workplace—cannot be considered as other information that may, under the circumstances, be used to enable identity fraud.[^42]
 
-The first requisite of mandatory breach notification should be read together with Section 20 (f) of the DPA. Section 20 (f) expressly requires the consideration of the specific circumstances of a breach in determining whether other information involved in the breach may enable identity fraud:
+The first requisite of mandatory breach notification should be read together with [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (f) of the DPA]]. Section 20 (f) expressly requires the consideration of the specific circumstances of a breach in determining whether other information involved in the breach may enable identity fraud:
 
 > **Section 20. Security of Personal Information.**
 >

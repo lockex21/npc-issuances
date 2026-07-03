@@ -23,7 +23,7 @@ Re: SUBMISSION OF EMPLOYEE NAMES AND SALARY RECEIVED IN CY 2017 FOR ISSUANCE OF 
 
 Dear [Redacted],
 
-This pertains to your updated inquiry via email, received by the Privacy Policy Office of the National Privacy Commission (NPC) on 19 February 2018, which sought to clarify whether the employer’s disclosure of the list of employees with their corresponding salary in CY2017 to the Office of the City Treasurer City is in consonance with the provisions of Republic Act No. 10173[^1], also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR)[^2] and relevant issuances.
+This pertains to your updated inquiry via email, received by the Privacy Policy Office of the National Privacy Commission (NPC) on 19 February 2018, which sought to clarify whether the employer’s disclosure of the list of employees with their corresponding salary in CY2017 to the Office of the City Treasurer City is in consonance with the provisions of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]][^1], also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^2] and relevant issuances.
 
 To backtrack, there was an initial email inquiry dated 11 January 2018 where it was mentioned that the City of Dumaguete was requesting for employee information (name, address and educational attainment) as a new requirement for business permit renewal. We thereafter sent a clarificatory letter and requested for further information on the said requirement.
 

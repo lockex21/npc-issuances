@@ -23,7 +23,7 @@ Re: INSPECTION OF CORPORATE RECORDS CONCERNING AN INDIVIDUAL
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion on the interpretation of the provisions of the Data Privacy Act of 2012[^2] (DPA) and its Implementing Rules and Regulations (IRR)[^3] in relation to Section 74 of the Corporation Code of the Philippines (Corporation Code), specifically the following:
+We write in response to your request for an advisory opinion on the interpretation of the provisions of the Data Privacy Act of 2012[^2] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^3] in relation to Section 74 of the Corporation Code of the Philippines (Corporation Code), specifically the following:
 
 1. Whether case files involving a member of a corporation constitute personal information or sensitive personal information under the DPA; and
 2. Whether the disclosure of the case files to inspecting members of a corporation would constitute lawful processing under the DPA or unlawful disclosure giving rise to liability under the DPA.
@@ -34,7 +34,7 @@ We write in response to your request for an advisory opinion on the interpretati
 
 The DPA applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.
 
-As defined in Section 3(g) of the DPA, personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+As defined in [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(g) of the DPA]], personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 
 Thus, the files regarding a case before a company's ethics committee, which includes the committee report/s, minutes of the committee and Board of Directors' meetings, and any pertinent board resolution/s on the matter, which necessarily identifies the individual or data subject concerned, is considered as personal information.
 
@@ -58,7 +58,7 @@ In *In Re: Production of Court Records and Documents and the Attendance of Court
 
 Similarly, records of other types of proceedings may be treated with utmost protection, where the disclosure of such documents will hinder free discussion of issues, exchange of opinions, and positions of the individuals involved.
 
-Further, Section 38 of the DPA provides that any doubt in the interpretation of any provision of the Act shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed.
+Further, [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38 of the DPA]] provides that any doubt in the interpretation of any provision of the Act shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed.
 
 Hence, the protection of case files, which includes not only the resolution but the deliberations, evidence, notes, opinions or any other documentation relevant to the proceeding, is incumbent upon the personal information controller for these are sensitive personal information, as defined in the DPA.
 
@@ -78,7 +78,7 @@ e. The processing is necessary for purposes of medical treatment, is carried out
 
 f. That the processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 
-You have cited in your letter that the processing of sensitive personal information of the data subject concerned may fall under Section 13(b) of the DPA in relation with Section 74 of the Corporation Code, which provides for the right of any director, trustee, stockholder or member of the corporation to inspect the records of all business transactions of the corporation and the minutes of any meeting.
+You have cited in your letter that the processing of sensitive personal information of the data subject concerned may fall under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(b) of the DPA]] in relation with Section 74 of the Corporation Code, which provides for the right of any director, trustee, stockholder or member of the corporation to inspect the records of all business transactions of the corporation and the minutes of any meeting.
 
 In the case of *Philippine Associated Smelting and Refining Corporation vs. Lim*,[^9] the Supreme Court had the occasion to rule on Section 74 of the Corporation Code, to wit:
 

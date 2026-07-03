@@ -97,9 +97,9 @@ Conduct, specifically, 12.3.2 Sexual Harassment and for 12.3.4
 
 Workplace Harassment. 18
 
-Thus, RVB alleged that JTL should be held liable under Section 26 of the DPA (Access Due to Negligence).[^19] RVB prayed for a fine and reprimand against JTL together with a formal written apology for unauthorized disclosure and any other appropriate remedies deemed fit by the NPC.[^20]
+Thus, RVB alleged that JTL should be held liable under [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 of the DPA]] (Access Due to Negligence).[^19] RVB prayed for a fine and reprimand against JTL together with a formal written apology for unauthorized disclosure and any other appropriate remedies deemed fit by the NPC.[^20]
 
-On 08 March 2024, the NPC, through its Legal and Enforcement Office (LEO), issued a Decision dismissing the complaint outright on the basis that “it does not pertain to a violation of the Data Privacy Act of 2012 or does not involve a privacy violation or personal data breach.”[^21] In its Decision, the LEO held that the complaint “does not involve a privacy violation” because JTL supposedly had lawful basis under Section 13 (f) in relation to Section 12 (f) of the DPA when it processed RVB’s personal data.[^22]
+On 08 March 2024, the NPC, through its Legal and Enforcement Office (LEO), issued a Decision dismissing the complaint outright on the basis that “it does not pertain to a violation of the Data Privacy Act of 2012 or does not involve a privacy violation or personal data breach.”[^21] In its Decision, the LEO held that the complaint “does not involve a privacy violation” because JTL supposedly had lawful basis under Section 13 (f) in relation to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] when it processed RVB’s personal data.[^22]
 
 In response to the LEO’s Decision, RVB filed a Motion for Reconsideration (MR) dated 26 March 2024.[^23] In the MR, RVB emphasized that the conversation between him and JTL had “a reasonable expectation of privacy, as [they] are the only parties involved in that conversation.”[^24]
 
@@ -123,7 +123,7 @@ JTL argued that there was no violation of the DPA.[^32] He contended that the in
 
 JTL emphasized that the mere claim by RVB that the mobile number in the screenshots was his does not establish a violation, especially since KMC had no record of the number.[^36] He also argued that RVB could have easily denied ownership of the number but instead chose to voluntarily admit and claim it as his own.[^37]
 
-JTL also claimed that the shared information did not constitute sensitive personal information as defined under Section 3 (l) of the DPA.[^38] He emphasized that the screenshots submitted to the investigating panel did not contain any information in relation to the “sexual life of a person as there was no amorous relationship” between him and RVB.[^39] Thus, he concluded that there was no sensitive personal information involved.[^40]
+JTL also claimed that the shared information did not constitute sensitive personal information as defined under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]].[^38] He emphasized that the screenshots submitted to the investigating panel did not contain any information in relation to the “sexual life of a person as there was no amorous relationship” between him and RVB.[^39] Thus, he concluded that there was no sensitive personal information involved.[^40]
 
 JTL stated that “[g]ranting for the sake of argument that there was personal information involved”, it was still justified under the DPA, as the information was necessary for pursuing legal claims and protecting his lawful rights.[^41] He discussed the three requisites for processing based on legitimate interest and argued that these were met in this case:
 
@@ -133,7 +133,7 @@ In the case of GBA vs. SBG (NPC Case No. 20-317, October 13, 2022), the Commissi
 2. The processing necessary to fulfill the legitimate interest that is established; and
 3. The interest is legitimate or lawful and it does not override fundamental rights and freedoms of data subjects.[^42]
 
-For the first requisite, JTL argued that his legitimate interest is established under Section 13 (f) of the DPA, which allows the processing of sensitive personal information if it is “necessary for the protection of lawful rights and interests in court proceedings, or the establishment, exercise, or defense of legal claims.”[^43]
+For the first requisite, JTL argued that his legitimate interest is established under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]], which allows the processing of sensitive personal information if it is “necessary for the protection of lawful rights and interests in court proceedings, or the establishment, exercise, or defense of legal claims.”[^43]
 
 JTL cited the case of JCB vs. JME, where the NPC held that the protection of lawful rights and interests is considered a legitimate interest under Section 12(f) of the DPA.[^44] JTL argued that he had “a cause of action to file [a] sexual harassment administrative case against the complainant,” making the processing of personal information necessary to protect his lawful rights.[^45]
 
@@ -248,7 +248,7 @@ An investigating officer may dismiss a complaint outright if it “does not pert
 
 As the Commission explained its Order dated 18 April 2024:
 
-> [A] complaint does not involve a privacy violation when the allegations in the complaint, assuming they are true, do not set forth a violation of the DPA, its IRR, or other issuances of the Commission. Such complaints are considered “without a privacy issue” and are outside the Commission’s jurisdiction. It further explained “privacy violation” as follows:
+> [A] complaint does not involve a privacy violation when the allegations in the complaint, assuming they are true, do not set forth a violation of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or other issuances of the Commission. Such complaints are considered “without a privacy issue” and are outside the Commission’s jurisdiction. It further explained “privacy violation” as follows:
 >
 > A privacy violation pertains to the processing of personal information in violation of a person’s reasonable expectation of confidentiality or privacy or in violation of any law, rules, or regulation relating to the protection of personal data, such as the DPA.[^84]
 

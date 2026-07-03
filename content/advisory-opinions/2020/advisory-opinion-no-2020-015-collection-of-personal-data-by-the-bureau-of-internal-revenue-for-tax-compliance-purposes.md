@@ -42,7 +42,7 @@ You further stated in your letter that the BIR requested for assistance from the
 Foreign Affairs (DFA) in the course of its investigation and verification of the Filipino employees’
 compliance with the RMC. In particular, the BIR asked the DFA to obtain the list of names and
 the corresponding TINs of the locally hired employees of the foreign missions, citing Sections 4
-and 19 of the Data Privacy Act of 2012[^2] (DPA) as legal bases for the request. Despite the foregoing,
+and 19 of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) as legal bases for the request. Despite the foregoing,
 some of the embassies still refused to cooperate and claimed that the information being requested
 is sensitive and protected.
 
@@ -50,7 +50,7 @@ is sensitive and protected.
 
 #### Scope of the DPA; special cases; general data privacy principles; security measures
 
-The DPA and its Implementing Rules and Regulations (IRR) provide for a list of specified
+The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for a list of specified
 information that are not covered by the law, which includes information necessary to carry out
 functions of a public authority, to wit:
 
@@ -159,8 +159,8 @@ Privacy Commissioner and Chairman
 
 [^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) (2016).
 
-[^4]: See: National Privacy Commission, NPC Advisory Opinion No. 2019-022 (May 7, 2019).
+[^4]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-022-npc-advisory-opinion-no-2019-022|NPC Advisory Opinion No. 2019-022]] (May 7, 2019).
 
 [^5]: Data Privacy Act of 2012, § 19.
 
-[^6]: See: National Privacy Commission, NPC Advisory Opinion No. 2018-083 (Oct. 29, 2018).
+[^6]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Oct. 29, 2018).

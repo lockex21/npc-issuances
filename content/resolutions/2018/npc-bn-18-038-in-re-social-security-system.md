@@ -62,7 +62,7 @@ c. Proof of deletion of the subject email and its attachments from the subject e
 
 d. We noted that the attached proof of sending via registered mail contains only the mailing to 10 out of 22 affected data subjects. Attach proof of receipt/sending of notification via registered mail to the other 12 of the 22 affected data subjects;
 
-e. Attach the Results of the Privacy Impact Assessment (PIA) on the identification of privacy risks and adaption of the appropriate security measures to protect personal data against natural and human dangers in accordance with the guidelines provided under NPC Advisory No. 2017-03 on PIA;
+e. Attach the Results of the Privacy Impact Assessment (PIA) on the identification of privacy risks and adaption of the appropriate security measures to protect personal data against natural and human dangers in accordance with the guidelines provided under [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]] on PIA;
 
 f. Proof of cascading, training and continuing education in relation to personal data security/privacy and related policies as well as proof of attendance of the officers and employees and training materials thereof;
 
@@ -116,7 +116,7 @@ First, the breach involves sensitive personal information or information that ma
 
 According to the SSS, the information involved in the breach included the SSS Number, Full Name, Date of Birth and Gender of all twenty-two (22) affected data subjects.[^33] For three (3) of these data subjects, their Father's Name, Mother's Name, Contact Number, Email Address, Marital Status, Height and Weight, Place of Birth, Address, Photo, and Signature were involved in the breach.[^34]
 
-The SSS Number, Date of Birth, Gender, and Marital Status of the affected data subjects are considered sensitive personal information under Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA). Section 3 (l) of the DPA defines sensitive personal information as follows:
+The SSS Number, Date of Birth, Gender, and Marital Status of the affected data subjects are considered sensitive personal information under Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA). [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]] defines sensitive personal information as follows:
 
 > Section 3. *Definition of Terms.* – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 > 
@@ -269,7 +269,7 @@ National Privacy Commission
 [^28]: Letter, 25 January 2023, Annex V, in In re: Social Security System, NPC BN 18-038 (NPC 2023).
 [^29]: Id. Annex VI.
 [^30]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 11 (15 December 2016).
-[^31]: In re: Pacific Plaza Towers Condominium Corporation, NPC BN 18-138, 13 November 2023, at 7, available at https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-BN-18-138-2023.11.13-In-re-Pacific-Plaza-Resolution-Final.pdf (last accessed 03 January 2025).
+[^31]: In re: Pacific Plaza Towers Condominium Corporation, [[resolutions/2018/npc-bn-18-138-in-re-pacific-plaza-resolution|NPC BN 18-138]], 13 November 2023, at 7, available at https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-BN-18-138-2023.11.13-In-re-Pacific-Plaza-Resolution-Final.pdf (last accessed 03 January 2025).
 [^32]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers, NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-COMELEC-Decision-FinalP.pdf (last accessed 03 January 2025).
 [^33]: Data Breach Notification, 20 March 2018, at 1, in In re: Social Security System, NPC BN 18-038 (NPC 2018).
 [^34]: Id.

@@ -49,11 +49,11 @@ PICs that share personal data under a data sharing agreement are mandated to put
 
 Where a PIC fails to put in place the security measures required by law, regulations and the DSA, the said PIC may be solely accountable in the absence of fault or negligence on the other PIC. If no security measures are put in place by both parties or the DSA fails to provide for the same, both parties may be held accountable. Nonetheless, the determination of liability, if any, will be based on the particular facts and circumstances of the case.
 
-For data sharing between PLDT and another PIC, Section 20 of the IRR of the DPA should be followed and NPC Circular No. 16-02[^3] may be referred to for guidance.
+For data sharing between PLDT and another PIC, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20 of the IRR]] of the DPA should be followed and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]][^3] may be referred to for guidance.
 
 #### Duty of the PIC to Ensure that the PIPs Comply with the DPA
 
-It is recognized under the DPA that PICs may enter into agreements with other entities to process personal data on their behalf. Section 14 of the DPA states:
+It is recognized under the DPA that PICs may enter into agreements with other entities to process personal data on their behalf. [[laws/data-privacy-act-of-2012#section-14-subcontract-of-personal-information|Section 14 of the DPA]] states:
 
 > SECTION 14. Subcontract of Personal Information. — A PIC may subcontract the processing of personal information, provided, that the PIC shall be responsible for ensuring that proper safeguards are in place to ensure the confidentiality of the personal information processed, prevent its use for unauthorized purposes, and generally, comply with the requirements of this Act and other laws for processing of personal information. The personal information processor shall comply with all the requirements of this Act and other applicable laws.
 
@@ -63,7 +63,7 @@ In addition, Section 21 on accountability states as follows:
 >
 > (a) The personal information controller is accountable for complying with the requirements of this Act and shall use contractual or other reasonable means to provide a comparable level of protection while the information are being processed by a third party.
 
-As can be gleaned from the provisions above, it is the ultimate responsibility of the PIC to engage PIPs that are compliant with all applicable laws. The PIC is duty-bound to place the pertinent data privacy and protection provisions in the contract. The agreement with the PIP must comply with Section 44 of the IRR of the DPA, to wit:
+As can be gleaned from the provisions above, it is the ultimate responsibility of the PIC to engage PIPs that are compliant with all applicable laws. The PIC is duty-bound to place the pertinent data privacy and protection provisions in the contract. The agreement with the PIP must comply with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|Section 44 of the IRR]] of the DPA, to wit:
 
 - a. The contract or legal act shall set out the subject-matter and duration of the processing, the nature and purpose of the processing, the type of personal data and categories of data subjects, the obligations and rights of the personal information controller, and the geographic location of the processing under the subcontracting agreement.
 - b. The contract or other legal act shall stipulate, in particular, that the personal information processor shall:

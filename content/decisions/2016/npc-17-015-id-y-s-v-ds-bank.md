@@ -42,7 +42,7 @@ x----------------------------------------------------x
 
 LIBORO, P.C.:
 
-Before this Commission is a complaint filed by ID Y.S. (Complainant) against DS Bank (Respondent) for the violation of Data Privacy Act of 2012 (DPA).
+Before this Commission is a complaint filed by ID Y.S. (Complainant) against DS Bank (Respondent) for the violation of [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 

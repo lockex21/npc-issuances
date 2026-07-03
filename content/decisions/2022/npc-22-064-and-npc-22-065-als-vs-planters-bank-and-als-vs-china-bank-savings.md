@@ -187,7 +187,7 @@ Nonetheless, Respondent Bank's argument still fails since the identity of rights
 
 The cause of action in the civil case before the RTC San Fernando is for "Specific Performance/Delivery of Bank Statements," while the cause of action of the case before the Commission is Complainant's assertion of his right to access under the DPA.
 
-Section 16(c) of the DPA reads:
+[[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(c) of the DPA]] reads:
 
 > **SEC. 16. Rights of the Data Subject.** – The data subject is entitled to:
 >
@@ -227,7 +227,7 @@ Despite this, the Respondent Bank answered the BSP complaint in their letter dat
 
 The Respondent Bank also countered that the Complainant has already been provided with the SOAs, but he refused to recognize the said document, "claiming they were falsified" or that he was not satisfied with what was provided to him.
 
-On this note, it bears stressing that one of the functions of the Commission under Section 7(b) of the DPA is the receipt of complaints and adjudicate the same as well as the resolution thereof as a collegial body.
+On this note, it bears stressing that one of the functions of the Commission under [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b) of the DPA]] is the receipt of complaints and adjudicate the same as well as the resolution thereof as a collegial body.
 
 To emphasize this adjudicatory function in the context of the principle of forum shopping, a complainant can still raise a violation of the DPA before the Commission even if there is another matter pending in another forum. The Commission's jurisdiction covers matters that are also under the jurisdiction of other regulators. Hence, even if Respondent Bank's alleged failure to provide the SOA violates banking laws, it can still result in a violation of the DPA.
 
@@ -241,7 +241,7 @@ Nevertheless, as part of its Compliance, Respondent Bank already submitted copie
 
 In his last submission, the Complainant did not evince or deny that it had received a copy of the Respondent Bank's Memorandum along with the submitted copies of the subject SOAs. Complainant even conceded that upon expiration of the period given to submit their respective Memoranda, the case shall be considered for resolution with or without the submission of the pleadings required. Finally, Complainant manifested that he will just adopt his CAF as his Memorandum.
 
-Section 2, Rule VII of NPC Circular No. 2021-01 provides for the effect of a party's non-submission of Memorandum, viz:
+Section 2, Rule VII of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] provides for the effect of a party's non-submission of Memorandum, viz:
 
 > **SECTION 2. Submission of simultaneous memoranda.** – The investigating officer shall require the parties to submit simultaneous memoranda discussing and summarizing their respective causes of action, claims, and defenses within fifteen (15) calendar days from written notice. The memoranda must also include, in simple tabular form, a list of all the evidence presented by the party and purpose to his/her claim or defense. **Failure to submit the memorandum within the period provided shall be considered a waiver of such opportunity.**
 
@@ -253,7 +253,7 @@ Aside from the letter requests that he attached with his CAF, Complainant did no
 
 Moreover, "[i]n view of the basic rule that mere allegation is not evidence and is not equivalent to proof, the allegation is essentially self-serving and devoid of any evidentiary weight."
 
-Also, it bears stressing that the letter requests are not covered by the right to access under the DPA. Section 8(b) of NPC Advisory No. 2021-01 (Data Subject Rights) excludes the right to access on any analysis made by the PIC with respect to a data subject's personal data, i.e. inferred, derived, modeled, or business-generated data. Here, Complainant's request for the SOA of his business may not be covered by the right to access since it concerns the financial information of the business entity rather than personal information.
+Also, it bears stressing that the letter requests are not covered by the right to access under the DPA. Section 8(b) of [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] (Data Subject Rights) excludes the right to access on any analysis made by the PIC with respect to a data subject's personal data, i.e. inferred, derived, modeled, or business-generated data. Here, Complainant's request for the SOA of his business may not be covered by the right to access since it concerns the financial information of the business entity rather than personal information.
 
 Given that the only available evidence is the compliance and submissions by the Respondent Bank, the Commission rules to dismiss the instant complaint since Complainant's request is not covered by the right to access under the DPA and for lack of substantial evidence to prove that Complainant's right to access has been violated by the Respondent Bank. Moreso, the submission of the subject SOAs rendered the instant complaint moot and academic.
 

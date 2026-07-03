@@ -106,7 +106,7 @@ training participants refused to be video-recorded invoking their privacy rights
 The DPA allows the processing of personal data subject to compliance with the law and
 adherence to the principles of transparency, legitimate purpose, and proportionality.
 Consequently, the processing activities being required by the OSHC may find support under
-Section 12 (e) of the DPA where processing is necessary in order to fulfill functions of public
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e) of the DPA]] where processing is necessary in order to fulfill functions of public
 authority which necessarily includes the processing of personal data for the fulfillment of its
 mandate.
 
@@ -142,4 +142,4 @@ Privacy Commissioner and Chairman
 [^4]: Occupational Safety and Health Center, About OSHC available at http://www.oshc.dole.gov.ph/transparency-seal/history (last accessed December 4, 2019).
 [^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 4 (2016).
 [^6]: Data Privacy Act of 2012, § 20 (c).
-[^7]: See: National Privacy Commission, Advisory Opinion No. 2018-053 (26 November 2018).
+[^7]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-053-npc-advisory-opinion-no-2018-053|Advisory Opinion No. 2018-053]] (26 November 2018).

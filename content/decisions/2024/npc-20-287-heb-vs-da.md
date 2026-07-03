@@ -112,9 +112,9 @@ The Commission finds Respondent liable for violating Sections 25 and 32 of the D
 
 #### I. The instant case should not be dismissed outright despite Complainant's failure to exhaust remedies.
 
-The Complainant filed his complaint prior to the effectivity of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure), thus, the applicable procedural rules at the time of its filing, which was on 01 October 2020, is the NPC Circular 16-04 or the 2016 NPC Rules of Procedure.
+The Complainant filed his complaint prior to the effectivity of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure), thus, the applicable procedural rules at the time of its filing, which was on 01 October 2020, is the NPC Circular 16-04 or the 2016 NPC Rules of Procedure.
 
-Rule II, Section 4 of NPC Circular No. 16-04 (2016 NPC Rules of Procedure) provides:
+Rule II, Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] (2016 NPC Rules of Procedure) provides:
 
 > SECTION 4. Exhaustion of remedies. – No complaint shall be entertained unless:
 >
@@ -132,13 +132,13 @@ Complainant stated that he did not contact Respondent because doing so will only
 
 In this case, regardless of whether Respondent has acted upon the allegations provided herein, the latter has no longer any opportunity to "provide any plain, speedy or adequate remedy to the alleged violation."[^35] Thus, the Commission, at its discretion, finds that it is but proper to waive the requirement under Section 4 of NPC Circular No. 16-04 considering that the instant complaint involves serious violation of the DPA.
 
-It must be stressed that the DPA provides that the processing of sensitive personal information is prohibited unless such processing falls under the lawful criteria enshrined under Section 13 of the DPA.[^36] In this case, the Commission perceives of possible violations under the DPA considering the alleged unauthorized processing of Complainant's personal and sensitive personal information, as well as the disclosure thereof through a Facebook post which was made by Respondent.
+It must be stressed that the DPA provides that the processing of sensitive personal information is prohibited unless such processing falls under the lawful criteria enshrined under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].[^36] In this case, the Commission perceives of possible violations under the DPA considering the alleged unauthorized processing of Complainant's personal and sensitive personal information, as well as the disclosure thereof through a Facebook post which was made by Respondent.
 
 Lastly, the alleged unauthorized processing and disclosure of the criminal information for *estafa* may pose a risk of harm to Complainant when the same may be used in a manner that could expose him to harassment, discrimination, or even suffer from "insomnia, paranoia, humiliation, indiscreet alienation, verbal insult, and threats" as experienced by Complainant and his family as a result of the incident.[^37]
 
 As such, the Commission finds it appropriate to exercise its authority to resolve the case on the merits.
 
-#### II. Respondent violated Section 25 of the DPA or Unauthorized Processing of Personal and Sensitive Personal Information.
+#### II. Respondent violated [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]] or Unauthorized Processing of Personal and Sensitive Personal Information.
 
 Chapter VIII, Section 25 of the DPA or Unauthorized Processing of Personal and Sensitive Personal Information provides that the Respondent shall be liable if he or she processes personal and sensitive personal information of the data subject without his or her consent, or without the authority of DPA or any existing laws.[^38] Section 25 states:
 
@@ -152,7 +152,7 @@ To be held liable under Section 25 of the DPA, the following requisites must con
 2. The information processed was personal information or sensitive personal information;
 3. The processing was done without the consent of the data subject, or without being authorized under the DPA or any existing law.[^40]
 
-As to the first requisite, Section 3(j) of the DPA defines processing as "any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data."[^41]
+As to the first requisite, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(j) of the DPA]] defines processing as "any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data."[^41]
 
 In this case, Complainant stated in his CAF that Respondent is not involved in the criminal case for *estafa* filed against the former, except the fact that Respondent is the partner of the plaintiff therein.[^42] Thus, it can be inferred that Respondent acquired such information from his partner who is the plaintiff therein, as evidenced by the tagged Facebook account in the name of FA on the subject Facebook post.[^43] Considering that fact, Respondent was able to *use* the name of the Complainant and the existence of a bench warrant of arrest for *estafa* case in the post on the provincial Facebook page of Nueva Vizcaya.[^44] As defined above, the 'use' of personal data of the Complainant constitutes processing under the DPA.
 
@@ -194,7 +194,7 @@ Lastly, the records show that none of the criteria for lawful processing of pers
 
 Given that all requisites are present in this case, the Commission finds that the Respondent should be held liable for Section 25 of the DPA.
 
-#### III. Respondent violated Section 32 of the DPA or Unauthorized Disclosure.
+#### III. Respondent violated [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 of the DPA]] or Unauthorized Disclosure.
 
 Unauthorized Disclosure under Section 32 of the DPA provides:
 
@@ -240,13 +240,13 @@ Considering all the requisites above are present, Respondent should be held liab
 
 #### IV. For its violation of Sections 25 and 32 of the DPA, the Respondent should be held liable for Section 33 thereof.
 
-Section 33 of the DPA provides:
+[[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|Section 33 of the DPA]] provides:
 
 > SEC. 33. Combination or Series of Acts. – Any combination or series of acts as defined in Sections 25 to 32 shall make the person subject to imprisonment ranging from three (3) years to six (6) years and a fine of not less than One million pesos (Php1,000,000.00) but not more than Five million pesos (Php5,000,000.00).[^74]
 
 Given that all the requisites for Sections 25 and 32 of the DPA are present in this case, the combination of these privacy violations shall make the Respondent liable for Section 33 of the DPA.
 
-#### V. Complainant shall be awarded with nominal damages under Section 16(f) of the DPA.
+#### V. Complainant shall be awarded with nominal damages under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(f) of the DPA]].
 
 Section 16(f) of the DPA entitles data subjects to be indemnified for any damages sustained due to such inaccurate, incomplete, outdated, false, unlawfully obtained or unauthorized use of personal information.[^75]
 
@@ -360,7 +360,7 @@ National Privacy Commission
 [^57]: Data Privacy Act of 2012, chapter III, § 12.
 [^58]: *Id.*, § 13.
 [^59]: *Id.*, § 32.
-[^60]: NPC 22-006 (*unreported*) dated 19 January 2023, at p. 17.
+[^60]: [[decisions/2022/npc-22-006-mdt-vs-bdo-unibank-inc|NPC 22-006]] (*unreported*) dated 19 January 2023, at p. 17.
 [^61]: Data Privacy Act of 2012, chapter III, § 3(h).
 [^62]: Complaint-Assisted Form dated 01 October 2020 of HEB.
 [^63]: *Id.*
@@ -373,7 +373,7 @@ National Privacy Commission
 [^70]: *Id.*, § 13.
 [^71]: *Id.*
 [^72]: *Id.*
-[^73]: MVC, et al. v. DSL, NPC 21-010 to NPC 21-015, Decision dated 03 February 2022, at p. 12.
+[^73]: MVC, et al. v. DSL, [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010]] to NPC 21-015, Decision dated 03 February 2022, at p. 12.
 [^74]: *Id.*, at p. 11.
 [^75]: Complaint-Assisted Form dated 01 October 2020 of HEB.
 [^76]: An Act to Ordain and Institute the Civil Code of the Philippines [Civil Code of the Philippines], Republic Act No. 386, book IV, chapter 3, § 3, Art. 2221 (1949).

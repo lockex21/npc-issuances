@@ -120,7 +120,7 @@ Before POEA's confirmation, MSMI "was not able to receive the access credentials
 
 MSMI contends that the POEA-registered account is not personally registered or owned by JRO, especially since only LMAs are allowed to register in the SBECS.[^32]
 
-Even assuming that MSMI was processing JRO's personal information, the processing was lawful pursuant to MSMI's legitimate interest based on Section 12(f) of the DPA.[^33] MSMI claims that JRO's resignation placed the company in a "dire situation considering that POEA had yet to approve the access credentials of its new POEA Liaison Officer."[^34] If MSMI did not use the POEA account, "it would've experienced debilitating work stoppage for a period of four (4) months because of its inability to process seafarer contracts."[^35]
+Even assuming that MSMI was processing JRO's personal information, the processing was lawful pursuant to MSMI's legitimate interest based on [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]].[^33] MSMI claims that JRO's resignation placed the company in a "dire situation considering that POEA had yet to approve the access credentials of its new POEA Liaison Officer."[^34] If MSMI did not use the POEA account, "it would've experienced debilitating work stoppage for a period of four (4) months because of its inability to process seafarer contracts."[^35]
 
 MSMI claims that it did not get any complaints from JRO about the company's use of the "access credentials for purely business-related purposes", and so was shocked when it received JRO's Complaint through the Order to Confer Discovery dated 24 April 2019.[^36]
 
@@ -154,7 +154,7 @@ The Commission dismisses the Complaint for lack of merit.
 
 I. The Commission exercises its authority to resolve the case on the merits.
 
-MSMI contends that the case should be dismissed since JRO did not prove that he complied with Section 4(a) of NPC Circular No. 16-04, also known as the 2016 NPC Rules of Procedure.[^58]
+MSMI contends that the case should be dismissed since JRO did not prove that he complied with Section 4(a) of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]], also known as the 2016 NPC Rules of Procedure.[^58]
 
 In response, JRO claims that after resigning, he immediately informed the company to refrain from accessing his personal information.[^59]
 

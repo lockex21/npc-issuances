@@ -22,13 +22,13 @@ Re: USE OF POP-UPS FOR INFORMATION ON THE USE OF COOKIES
 
 Dear [Redacted],
 
-This has reference to your inquiry to the National Privacy Commission (NPC) received on 4 August 2017, via AskPriva. You specifically asked if information about the use of cookies in pop-ups format is still required by the Data Privacy Act (DPA) of 2012 even if it is already stated in the privacy policy.
+This has reference to your inquiry to the National Privacy Commission (NPC) received on 4 August 2017, via AskPriva. You specifically asked if information about the use of cookies in pop-ups format is still required by the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA) of 2012 even if it is already stated in the privacy policy.
 
 ### Discussion
 
 While the inclusion of privacy policy is necessary to demonstrate adherence to the data privacy principle of transparency and uphold the right to information of the data subjects, the law does not provide for a specific format or approach for the personal information controller (PIC) or personal information processor (PIP) to adopt on how this should be properly manifested.
 
-Instead, the law sets out a general principle, under Section 18(a) of the Implementing Rules and Regulations (IRR) of the DPA (2012), to wit:
+Instead, the law sets out a general principle, under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18(a) of the Implementing Rules and Regulations]] (IRR) of the DPA (2012), to wit:
 
 > "**Section 18. Principles of Transparency, Legitimate Purpose and Proportionality.** The processing of personal data shall be allowed subject to adherence to the principles of transparency, legitimate purpose, and proportionality.
 >

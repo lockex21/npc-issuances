@@ -64,7 +64,7 @@ Through a letter dated 25 August 2017, respondent PBI sent a response to the com
 
 Complainant then wrote his letter of protest dated 10 September 2017 to formally require Respondent to make and effect the necessary correction/removal and rectification of his account. However, complainant did not receive a reply on his letter of protest as well as a response to the second Cardholder’s Statement of Disputed Items Form.
 
-Hence, Complainant instituted this complaint before the Commission for violations of the Data Privacy Act.
+Hence, Complainant instituted this complaint before the Commission for violations of the [[laws/data-privacy-act-of-2012|Data Privacy Act]].
 
 *Allegations of Complainant*
 
@@ -90,7 +90,7 @@ They assert that the Complainant, assuming that he was a victim of phishing inci
 
 Respondent maintains that the Complainant was the proximate cause, if not the sole cause of the data breach and not the alleged failure of the respondent to ensure proper and legal processing of complainant’s data because he voluntarily disclosed his personal and financial information without verifying the link provided in the email.
 
-Respondent prays that the complaint be dismissed since the Complainant has no cause of action against the respondent under the DPA and its implementing rules and regulations as the data breach was a result of complainant’s own acts and not from the failure of respondent to set up, institute and implement the necessary, appropriate and adequate security measures.
+Respondent prays that the complaint be dismissed since the Complainant has no cause of action against the respondent under the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|implementing rules and regulations]] as the data breach was a result of complainant’s own acts and not from the failure of respondent to set up, institute and implement the necessary, appropriate and adequate security measures.
 
 *Issues*
 

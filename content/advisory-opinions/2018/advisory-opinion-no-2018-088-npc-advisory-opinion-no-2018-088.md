@@ -27,8 +27,7 @@ Dear [Redacted],
 
 We write in response to your letter which sought to clarify whether the denial of your request
 for a certified true copy of the Personal Data Sheet (PDS) of your co-employee for record
-purposes and to prove that an act of perjury is committed, is in accordance with the Data
-Privacy Act of 2012 (DPA)[^2] and NPC Advisory No. 2017-02 - Access to Personal Data Sheets
+purposes and to prove that an act of perjury is committed, is in accordance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^2] and [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|NPC Advisory No. 2017-02]] - Access to Personal Data Sheets
 of Government Personnel.[^3]
 
 ### Discussion

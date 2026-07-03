@@ -62,8 +62,7 @@ Executive Director rather than to the concerned NCDA personnel.
 
 The Data Privacy Act of 2012[^2] (DPA) considers an individual’s health information as sensitive
 personal information.[^3] As such, the processing of the same, as a general rule, is prohibited
-unless the processing falls within the criteria for lawful processing enumerated under Section
-13 of the DPA, to wit:
+unless the processing falls within the criteria for lawful processing enumerated under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], to wit:
 
    SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of
          sensitive personal information and privileged information shall be prohibited, except
@@ -101,7 +100,7 @@ unless the processing falls within the criteria for lawful processing enumerated
 
 In the above-quoted provisions as applied in this instance, consent may be the most
 appropriate lawful basis for the processing of the health information of the NCDA personnel.
-We wish to reiterate the definition of consent in Section 3 (b) of the DPA as follows:
+We wish to reiterate the definition of consent in [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (b) of the DPA]] as follows:
 
    “Consent of the data subject refers to any freely given, specific, informed indication of
             will, whereby the data subject agrees to the collection and processing of personal

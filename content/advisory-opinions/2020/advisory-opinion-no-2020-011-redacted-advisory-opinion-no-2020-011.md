@@ -26,7 +26,7 @@ Dear [Redacted],
 We write in response to your letter requesting for an advisory opinion from the National
 Privacy Commission (NPC) on whether you can be allowed to secure the birth certificates of
 your seven siblings from the Philippine Statistics Authority (PSA), pursuant to Section 12 (c)
-and (f) and Section 13 (f) of the Data Privacy Act of 2012[^2] (DPA).
+and (f) and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the Data Privacy Act of 2012]][^2] (DPA).
 
 ### Discussion
 
@@ -44,8 +44,7 @@ of the DPA as the reason for the denial.
 A birth certificate contains the following information of an individual, among others: name,
 sex, date of birth, place of birth, type of birth, birth order, weight at birth, parents’ details
 (name, citizenship, religion and occupation), among others. Most of the information contained
-in a birth certificate are considered sensitive personal information under Section 3(l) of the
-DPA.
+in a birth certificate are considered sensitive personal information under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]].
 
 The processing or disclosure of a birth certificate, which contains sensitive personal
 information, is generally prohibited except in certain cases enumerated under Section 13 of

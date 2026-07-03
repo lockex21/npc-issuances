@@ -23,7 +23,7 @@ Re: EMPLOYEE NON-DISCLOSURE UNDERTAKING
 
 Dear [Redacted],
 
-This pertains to your letter request for the review of the Philippine Institute for Development Studies’ (PIDS) proposed Non-Disclosure Undertaking for its officials and employees in relation to its compliance with Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), and its Implementing Rules and Regulations (IRR).[^2] A copy of the draft Non-Disclosure Undertaking provided is attached herewith as Annex “A.”
+This pertains to your letter request for the review of the Philippine Institute for Development Studies’ (PIDS) proposed Non-Disclosure Undertaking for its officials and employees in relation to its compliance with [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).[^2] A copy of the draft Non-Disclosure Undertaking provided is attached herewith as Annex “A.”
 
 At the outset, the DPA aims to protect individual personal information being processed by both the public and private sectors. Processing of personal information covers several activities, including but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.[^3] PIDS, as a nonstock, nonprofit government corporation,[^4] is necessarily subject to the provisions of the DPA when it processes personal information in the course of its research,[^5] dissemination and research utilization,[^6] and outreach programs.[^7]
 

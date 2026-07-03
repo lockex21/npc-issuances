@@ -13,7 +13,7 @@ draft: false
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2021-028.pdf
 - Issue date: 07/16/2021
 - Subject: Disclosure Of Personal Information Of Tenants By A Condominium Corporation To The Bureau Of Internal Revenue
-- Tags: Bureau of internal revenue; scope of the dpa; special cases
+- Tags: Bureau of internal revenue; scope of the [[laws/data-privacy-act-of-2012|dpa]]; special cases
 - OCR used during extraction: no
 
 ## Text
@@ -53,7 +53,7 @@ since the information were collected by ANCC for validation purposes only.
 
 #### Scope of the DPA; Special Cases under the DPA
 
-The DPA and its Implementing Rules and Regulations (IRR) provide for a list of specified
+The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for a list of specified
 information which do not fall within the scope of the law.[^3] In particular, information necessary
 to carry out functions of a public authority are considered special cases under the DPA, to wit:
 
@@ -91,7 +91,7 @@ are considered:
 
 #### BIR Mandate under the Tax Code, as Amended; Powers of the BIR Commissioner
 
-We reiterate the discussions in NPC Advisory Opinion No. 2020-015 that the BIR’s processing
+We reiterate the discussions in [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|NPC Advisory Opinion No. 2020-015]] that the BIR’s processing
 of personal data pursuant to its mandate falls under the special cases of the DPA.
 
 The BIR is tasked to, among others, ensure compliance with the National Internal Revenue

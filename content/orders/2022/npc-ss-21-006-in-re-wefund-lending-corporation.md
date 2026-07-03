@@ -57,7 +57,7 @@ On 12 August 2021, acting on an Application for Temporary Ban filed by the Commi
 >
 > Let copies of this Order be furnished to the National Telecommunications Commission for their appropriate action, and Google LLC, which operates the Google Play Store for its compliance in accordance with the terms and conditions of its platform.
 >
-> Furthermore, Respondent Wefund Lending Corporation and its responsible officers are **ORDERED**, within ten (10) days from receipt of this Order, to file a **COMMENT** on the allegations in the attached Fact-Finding Report, pursuant to Section 6 of Rule X of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure).
+> Furthermore, Respondent Wefund Lending Corporation and its responsible officers are **ORDERED**, within ten (10) days from receipt of this Order, to file a **COMMENT** on the allegations in the attached Fact-Finding Report, pursuant to Section 6 of Rule X of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure).
 >
 > In case of failure by the Respondent and its responsible officers to file a Comment, this case shall be deemed submitted for resolution based on the evidence on record.
 >
@@ -108,11 +108,11 @@ As verified by the EnD, the online lending application requires the user's permi
 
 The EnD also assessed JuanHand's Privacy Manual and Security Incident Management Policy. As stated in its Comment, JuanHand endeavors to establish "a comprehensive corporate data protection policy."[^21] While the Commission recognizes JuanHand's efforts, it notes that the Privacy Manual and Security Incident Management Policy still lacks the necessary information that should be contained in these documents.
 
-A Personal Information Controller (PIC), such as JuanHand, should implement reasonable and appropriate organizational, physical, and technical measures to protect the personal information of its data subjects.[^22] These measures should be contained in the Privacy Manual and Security Incident Management Policy of the PIC. Section 20 (a) of the DPA provides:
+A Personal Information Controller (PIC), such as JuanHand, should implement reasonable and appropriate organizational, physical, and technical measures to protect the personal information of its data subjects.[^22] These measures should be contained in the Privacy Manual and Security Incident Management Policy of the PIC. [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) of the DPA]] provides:
 
 > Section 20. Security of Personal Information. – (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^23]
 
-Section 25 of the IRR elaborates on the PIC's obligation to implement these measures:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Section 25 of the IRR]] elaborates on the PIC's obligation to implement these measures:
 
 > Section 25. Data Privacy and Security. Personal information controllers and personal information processors shall implement reasonable and appropriate organizational, physical, and technical security measures for the protection of personal data.
 >
@@ -124,7 +124,7 @@ Based on the EnD's assessment, JuanHand's Privacy Manual does not discuss organi
 
 It also does not discuss the following physical security measures: storage type and location, monitoring and limitation of access to room or facility, design of office space/ work station, and modes of transfer of personal data within the organization or to third parties.[^27] It also does not delve into the following technical security measures: safeguards on the computer network, including encryption and authentication processes that control access to personal information.[^28] As such, the Commission directs JuanHand to Sections 26 to 28 of the IRR for the guidelines for organizational, physical, and technical security measures.[^29]
 
-In addition, JuanHand's Privacy Manual does not discuss the mechanisms in determining the basis for lawful processing of personal data pursuant to Sections 12 and 13 of the DPA and upholding the rights of the data subjects in accordance with Section 16 of the DPA.[^30]
+In addition, JuanHand's Privacy Manual does not discuss the mechanisms in determining the basis for lawful processing of personal data pursuant to Sections 12 and 13 of the DPA and upholding the rights of the data subjects in accordance with [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]].[^30]
 
 JuanHand's Security Incident Management Policy does not fully comply with Section 4 of NPC Circular No. 16-03, which states:
 

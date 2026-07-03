@@ -48,9 +48,9 @@ You now seek guidance and clarification on the relatives who can give consent on
 
 #### Rights of data subjects; right to access; transmissibility of rights
 
-Data subjects are entitled to various rights under the Data Privacy Act of 2012[^1] (DPA) and its Implementing Rules and Regulations[^2] (IRR). One of the rights granted is the right of reasonable access to, upon demand, the contents of one's personal data that have been processed, among other information relating to the processing of his or her personal information and sensitive personal information (collectively, personal data).[^3]
+Data subjects are entitled to various rights under the Data Privacy Act of 2012[^1] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^2] (IRR). One of the rights granted is the right of reasonable access to, upon demand, the contents of one's personal data that have been processed, among other information relating to the processing of his or her personal information and sensitive personal information (collectively, personal data).[^3]
 
-This right to access, however, may be limited in certain instances. In the current scenario, the following provision of NPC Advisory No. 2021-01 on Data Subject Rights may be taken into consideration:
+This right to access, however, may be limited in certain instances. In the current scenario, the following provision of [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] on Data Subject Rights may be taken into consideration:
 
 > "SECTION 8. Right to Access. — x x x
 >
@@ -60,7 +60,7 @@ This right to access, however, may be limited in certain instances. In the curre
 
 Otherwise, the personal information controller (PIC) is obliged to grant the request of the data subject.
 
-The right to access, along with the other rights of data subjects, must be read together with Section 17 of the DPA on transmissibility of rights. The provision states that the lawful heirs and assigns of the data subject may invoke the rights of the data subject for which he or she is an heir or assignee at any time after the death of the data subject or when the data subject is incapacitated or incapable of exercising the rights under the DPA.[^5]
+The right to access, along with the other rights of data subjects, must be read together with [[laws/data-privacy-act-of-2012#section-17-transmissibility-of-rights-of-the-data-subject|Section 17 of the DPA]] on transmissibility of rights. The provision states that the lawful heirs and assigns of the data subject may invoke the rights of the data subject for which he or she is an heir or assignee at any time after the death of the data subject or when the data subject is incapacitated or incapable of exercising the rights under the DPA.[^5]
 
 Please take note that the DPA does not distinguish nor identify the persons considered to be the "lawful heirs and assigns of the data subject". Hence, the determination of such matter may be guided by the general laws on the hierarchy of legal heirs provided under several provisions of the Civil Code of the Philippines on the laws of succession and the rules on guardianship of incompetent persons.
 

@@ -40,7 +40,7 @@ Respondents.
 
 x----------------------------------------------------x
 
-For consideration of the Commission is the complaint filed by Complainants EA and TA against Respondents EJ, EE, and HC for Violation of Section 25(b) of the Data Privacy Act of 2012 (DPA).[^1]
+For consideration of the Commission is the complaint filed by Complainants EA and TA against Respondents EJ, EE, and HC for Violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25(b) of the Data Privacy Act of 2012]] (DPA).[^1]
 
 ### Relevant Facts
 
@@ -154,7 +154,7 @@ The DPA should not be seen as curtailing the practice of law in litigation. Cons
 
 #### Legitimate Purpose and Proportionality
 
-As regards legitimate purpose, the Implementing Rules and Regulations (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy.[^19]
+As regards legitimate purpose, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy.[^19]
 
 This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.
 

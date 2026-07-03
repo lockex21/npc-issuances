@@ -30,7 +30,7 @@ summary of your employees’ healthcare service usage. You also raised concern t
 Human Resource Office will not be made aware if any employee has a contagious illness that
 could put at risk other employees.
 
-Under the Data Privacy Act of 2012 (DPA), an individual’s health information is classified as sensitive personal information.[^1] This means that as a general rule, health information can only be processed if the data subject or patient consents, or if one of the conditions provided in the DPA is met. Section 13 of the DPA provides:
+Under the Data Privacy Act of 2012 (DPA), an individual’s health information is classified as sensitive personal information.[^1] This means that as a general rule, health information can only be processed if the data subject or patient consents, or if one of the conditions provided in the DPA is met. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] provides:
 
 > **Section 13. Sensitive Personal Information and Privileged Information.** – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
@@ -62,7 +62,7 @@ These conditions in the preceding paragraphs apply only to the medical record of
 1. Summaries of account usage or transaction costs that does not include health information (i.e. medical diagnosis and management details); or
 2. Aggregate data or statistical data of healthcare service usage for a given period.
 
-For non-sensitive information, Section 12 of the Data Privacy Act provides for the conditions when personal information (not sensitive personal or privileged information) may be processed without the consent of data subject. These conditions include:
+For non-sensitive information, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the Data Privacy Act]] provides for the conditions when personal information (not sensitive personal or privileged information) may be processed without the consent of data subject. These conditions include:
 
 1. Processing of personal information necessary and related to the fulfillment of a contract with the data subject or in order to take steps at the request of the data subject prior to entering into a contract;
 2. Processing is necessary to comply with a legal obligation;

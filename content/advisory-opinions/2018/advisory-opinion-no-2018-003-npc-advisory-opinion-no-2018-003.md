@@ -42,7 +42,7 @@ To observe the principle of transparency to the data subjects, a privacy notice 
 
 Kindly note that Singapore’s data protection authority, the Personal Data Protection Commission (PDPC), has decided a complaint in relation to the failure by a security company to safeguard their visitor logbook which resulted to a data breach incident.[^5] The PDPC ruled that the recording and safekeeping of logbooks were considered as activities involving processing of personal data, hence, actual processes, practices and policies must be put in place in order to protect personal data and ensure the safety of the logbook at all times.[^6]
 
-With regards to consent of data subjects, a personal information controller may lawfully process personal information if the circumstance falls under any of the criteria for lawful processing of personal information, consent being one of them.[^7] Legitimate interest is also a criterion for processing personal information. Please refer to Section 13 of the DPA for the criteria for lawful processing of sensitive personal information.
+With regards to consent of data subjects, a personal information controller may lawfully process personal information if the circumstance falls under any of the criteria for lawful processing of personal information, consent being one of them.[^7] Legitimate interest is also a criterion for processing personal information. Please refer to [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] for the criteria for lawful processing of sensitive personal information.
 
 On the registration requirement, NPC issued a circular – *Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making*,[^8] Section 5 of which provides:
 
@@ -83,4 +83,4 @@ Privacy Commissioner and Chairman
 [^6]: *Id.*
 [^7]: *Supra* note 1, §12.
 [^8]: See NPC Circular No. 2017-01.
-[^9]: Implementing Rules and Regulations (IRR) of the RA No. 10173, §3(e).
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the RA No. 10173, §3(e).

@@ -26,7 +26,7 @@ We respond to your request for an Advisory Opinion on the Independent Electricit
 
 ### Discussion
 
-We understand that IEMOP made this inquiry as the Market Operator of WESM and the Central Registration Body (CRB) of the RCOA and Green Energy Option Program (GEOP). IEMOP cites our Advisory Opinion No. 2020-052,[^2] which dealt with the Energy Regulatory Commission’s (ERC) publication of contestable customers. IEMOP’s position is that it is similarly situated to the ERC since it is also obligated by law and regulation to publish the names of WESM participants and the RCOA contestable customers. Incidentally, the RCOA contestable customers are the same contestable customers subject of the said Advisory Opinion.
+We understand that IEMOP made this inquiry as the Market Operator of WESM and the Central Registration Body (CRB) of the RCOA and Green Energy Option Program (GEOP). IEMOP cites our [[advisory-opinions/2020/advisory-opinion-no-2020-052-redacted-advisory-opinion-no-2020-052-2|Advisory Opinion No. 2020-052]],[^2] which dealt with the Energy Regulatory Commission’s (ERC) publication of contestable customers. IEMOP’s position is that it is similarly situated to the ERC since it is also obligated by law and regulation to publish the names of WESM participants and the RCOA contestable customers. Incidentally, the RCOA contestable customers are the same contestable customers subject of the said Advisory Opinion.
 
 We further understand that in accordance with several Department of Energy (DOE) issuances, the following are published by IEMOP on its website:
 
@@ -92,7 +92,7 @@ The Data Privacy Act of 2012[^7] (DPA) governs the processing of personal data. 
 
 In this regard, we reiterate the discussion in Advisory Opinion No. 2020-052 where we stated that information on juridical entities is outside the scope of the DPA. Thus, the publication of WESM members or applicants for registration and contestable customers in the RCOA that are juridical entities may be done in accordance with applicable laws, rules, and regulations without violating the DPA.
 
-We also discussed in Advisory Opinion No. 2020-052 that the publication of personal information of an individual or a sole proprietorship who may qualify as a WESM member or as a contestable customer is allowed subject to Section 12 of the DPA, thus:
+We also discussed in Advisory Opinion No. 2020-052 that the publication of personal information of an individual or a sole proprietorship who may qualify as a WESM member or as a contestable customer is allowed subject to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], thus:
 
 > In the event where the contestable customer is an individual or a sole proprietorship whose name and generic location would be subject to publication, Section 12 of the DPA states that that the processing of personal information shall be permitted **if necessary for compliance with a legal obligation to which the personal information controller is subject** or when necessary in order to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.
 >

@@ -66,7 +66,7 @@ The CID further assessed the website, "passport.gov.ph" and determined that atta
 
 A personal data breach is defined as "a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed."[^26] In this case, the Commission conducted a sua sponte investigation on the DFA passport system, including the website, "passport.gov.ph" to determine the circumstances of the incident and whether it meets the definition of a personal data breach.
 
-The Commission, through the CID, conducted a technical investigation and discovered several vulnerabilities in the website, "passport.gov.ph" which put the security of the DFA passport system into question. Section 20 of the Data Privacy Act of 2012 (DPA) requires the implementation of appropriate measures on systems and computer network to protect the personal information in its custody:
+The Commission, through the CID, conducted a technical investigation and discovered several vulnerabilities in the website, "passport.gov.ph" which put the security of the DFA passport system into question. [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 of the Data Privacy Act of 2012]] (DPA) requires the implementation of appropriate measures on systems and computer network to protect the personal information in its custody:
 
 > Section 20. Security of Personal Information. – (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^27]
 
@@ -86,7 +86,7 @@ It is incumbent upon the personal information controller to implement the follow
 >
 > (d) The personal information controller must further ensure that third parties processing personal information on its behalf shall implement the security measures required by this provision.
 
-Section 28 of the Implementing Rules and Regulations of the DPA further provides:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|Section 28 of the Implementing Rules and Regulations]] of the DPA further provides:
 
 > Section 28. Guidelines for Technical Security Measures. Where appropriate, personal information controllers and personal information processors shall adopt and establish the following technical security measures:
 >

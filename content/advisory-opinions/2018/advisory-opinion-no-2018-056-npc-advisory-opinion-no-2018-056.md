@@ -49,7 +49,7 @@ A patient’s health information is considered as sensitive personal information
 Data Privacy Act. The DPA views information about a person’s health as posing a
 significant risk to data subjects in case of unlawful or unauthorized processing due to its
 sensitive nature. In general, the processing[^2] of sensitive personal and privileged
-information are prohibited unless one of the conditions stipulated in Section 13 of the DPA
+information are prohibited unless one of the conditions stipulated in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]
 is satisfied. Thus, the transfer of patient data from a hospital to the Philippine College
 of Chest Physicians (PCCP), and its processing in the WebCAS for accreditation purposes,
 should rely on one of the conditions for lawful processing under Section 13 of the DPA.
@@ -122,7 +122,7 @@ pseudonymized data is that it demonstrates proportionality in data processing, w
 risks to the data subject are decreased.
 
 In all cases, the processing of the said personal data shall be subject to the compliance with
-the requirements of the DPA, IRR, NPC issuances and other relevant rules and regulations.
+the requirements of the DPA, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], NPC issuances and other relevant rules and regulations.
 There should be adherence to principles transparency, legitimate purpose and
 proportionality. Patients should be informed about their rights, and how they may
 exercise such rights. Personal information controllers, such as the hospitals and PCCP,

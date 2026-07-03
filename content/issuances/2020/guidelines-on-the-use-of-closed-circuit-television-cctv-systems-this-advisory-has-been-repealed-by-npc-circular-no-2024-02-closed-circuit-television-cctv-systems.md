@@ -30,7 +30,7 @@ A. CCTV systems, where used reasonably and appropriately, are tools that support
 
 B. The use of CCTV systems shall consider its impact on the rights and freedoms of data subjects and be subject to regular review to ensure that its use remains necessary for specified and legitimate purposes.
 
-C. The capture, use, retention, and destruction of video and/or audio footages obtained from CCTVs are considered processing of personal data under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]). Those who process personal data through CCTV systems, whether as PICs or PIPs, shall comply with the DPA, its Implementing Rules and Regulations ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and relevant issuances of the National Privacy Commission (NPC).
+C. The capture, use, retention, and destruction of video and/or audio footages obtained from CCTVs are considered processing of personal data under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]). Those who process personal data through CCTV systems, whether as PICs or PIPs, shall comply with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), and relevant issuances of the National Privacy Commission (NPC).
 
 **SECTION 2.** ***Scope.*** This Advisory shall apply to all PICs and PIPs engaged in the processing of personal data through the use of CCTV systems operating in public and semi-public areas. These include CCTV systems that record videos, as well as those systems with both video and audio capabilities.
 
@@ -134,7 +134,7 @@ D. Purpose or purposes of the request for access, which should not be contrary t
 
 E. Sufficient details on the requested footage such as the specific date or dates, approximate time, location, among others, to enable the PIC to locate such footage.
 
-Where images of parties other than the requesting data subject and/or the person or persons sought to be identified as part of the request (e.g. identification of malefactors for investigation or law enforcement purposes) appear on the CCTV footage, legitimate interest under [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]] may apply as basis for disclosing, subject to Section 9 of this Advisory.
+Where images of parties other than the requesting data subject and/or the person or persons sought to be identified as part of the request (e.g. identification of malefactors for investigation or law enforcement purposes) appear on the CCTV footage, legitimate interest under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]] may apply as basis for disclosing, subject to Section 9 of this Advisory.
 
 **SECTION 8.** ***Third Party Access Request.*** When a person, other than a data subject, requests for access to CCTV footage, it shall be treated as a third-party access request. The same policies and procedure as outlined in the previous section on data subject access request shall also be applicable.
 
@@ -158,7 +158,7 @@ Where images of parties other than the requesting data subject and/or the person
 
 E. Other third-party requests. Third-party access requests for CCTV footage and images shall be approached with care as wider disclosure may be unfair to the individuals concerned. In certain circumstances, it may be appropriate to release information to a third party, where their needs outweigh those of the data subjects whose information is recorded. The PIC must determine on a case-by-case basis if it will accede to such request taking into consideration the rights and freedoms of the data subjects whose images are recorded by the CCTV system, and considering the provisions of the immediately succeeding section.
 
-**SECTION 9.** ***Legitimate Interest Three-Part Test.*** In determining whether the data subject access request, in instances when the CCTV footage includes other data subjects, under Section 7, or the third-party access request under Section 8(E) may be allowed pursuant to legitimate interest as provided for under [[laws/data-privacy-act-of-2012#Section 12(f)|Section 12(f) of the DPA]], the following shall be considered:
+**SECTION 9.** ***Legitimate Interest Three-Part Test.*** In determining whether the data subject access request, in instances when the CCTV footage includes other data subjects, under Section 7, or the third-party access request under Section 8(E) may be allowed pursuant to legitimate interest as provided for under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]], the following shall be considered:
 
 A. Purpose test - The existence of a legitimate interest must be clearly established, including a determination of what the particular processing operation seeks to achieve.
 
@@ -166,7 +166,7 @@ B. Necessity test - The processing of personal information must be necessary for
 
 C. Balancing test - The fundamental rights and freedoms of data subjects must not be overridden by the legitimate interests of the PICs or third party, considering the likely impact of the processing on the data subjects.
 
-In this regard, CCTV footages requested for purposes of the protection of lawful rights and interests or the establishment, exercise, or defense of legal claims under [[laws/data-privacy-act-of-2012#Section 13(f)|Section 13(f) of the DPA]] may be considered as legitimate interest.[^6]
+In this regard, CCTV footages requested for purposes of the protection of lawful rights and interests or the establishment, exercise, or defense of legal claims under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]] may be considered as legitimate interest.[^6]
 
 At all times, PICs shall be mindful that footage to be disclosed, either by viewing or providing a copy, are only those that are necessary and not excessive to the purpose for which they are being disclosed.
 
@@ -218,7 +218,7 @@ Deputy Privacy Commissioner
 [^1]: Singapore Personal Data Protection Commission, Advisory Guidelines on the PDPA for Selected Topics (revised 28 March 2017).
 [^2]: Privacy Commissioner of New Zealand, Privacy and CCTV: A Guide to the Privacy Act for Businesses, Agencies, and Organizations (2009).
 [^3]: Department of Interior and Local Government, Directing Cities/Capital Towns To Require The Installation Of Closed-Circuit Televisions (CCTV) For Certain Business Establishments In Accordance With Section 16 (General Welfare Clause) Of Republic Act No. 7160 To Support The Maintenance Of Peace And Order And Public Safety [Memorandum Circular No. 2014-119] (Sept. 15, 2014).
-[^4]: National Privacy Commission, NPC Advisory Opinion No. 2018-084 and 2018-090.
+[^4]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-084-npc-advisory-opinion-no-2018-084|NPC Advisory Opinion No. 2018-084]] and 2018-090.
 [^5]: National Privacy Commission, Security of Personal Data in Government Agencies, Memorandum Circular No. 16-01 [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular 16-01]] (October 10, 2016).
 [^6]: KRL v. Trinity University, National Privacy Commission CID Case No. 17-K-003 (2019).
 

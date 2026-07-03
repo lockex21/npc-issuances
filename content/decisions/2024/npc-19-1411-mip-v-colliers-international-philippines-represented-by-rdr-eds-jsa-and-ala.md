@@ -740,20 +740,16 @@ II. Whether Colliers is liable under Section 25 (Unauthorized
 
 Processing of Personal Information), Section 32 (Unauthorized
 
-Disclosure), and Section 33 (Combination or Series of Acts) of
-
-the DPA.
+Disclosure), and [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|Section 33 (Combination or Series of Acts) of the DPA]].
 
 ### Discussion
 I. Colliers’ processing of personal information had lawful basis
 
-under Section 12 (f) of the DPA.
+under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]].
 
 Colliers processed the personal information involved according to a
 
-lawful criterion provided under Section 12 (f) of the DPA. Section 12
-
-(f) of the DPA allows for the processing of personal information when
+lawful criterion provided under Section 12 (f) of the DPA. Section 12 (f) of the DPA allows for the processing of personal information when
 
 it is necessary for the legitimate interests pursued by the Personal
 
@@ -837,7 +833,7 @@ named in the form will be allowed to enter or have access to the unit
 
 and the common areas of the condominium. 112
 
-Section 3 (g) of the DPA defines personal information:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (g) of the DPA]] defines personal information:
 
 MIP v. Colliers International Philippines
 
@@ -869,9 +865,7 @@ numbers, name of tenant/lessee, email address, signature, the names
 
 of the occupants and the ir relationship to the owners or lessors .114
 
-These are considered personal information under Section 3(g) of the
-
-DPA.
+These are considered personal information under Section 3(g) of the DPA.
 
 Further, CCTV footage that captures visual images used to identify or
 
@@ -961,7 +955,7 @@ the PIC must comply with the general privacy principles of (1)
 
 legitimate purpose and (2) transparency. 122
 
-Section 11 of the DPA discusses legitimate purpose as follows:
+[[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] discusses legitimate purpose as follows:
 
 MIP v. Colliers International Philippines
 
@@ -999,7 +993,7 @@ establishment, exercise or defense of legal claims, or for
 
 legitimate business purposes, or as provided by law [.] 123
 
-Further, Section 18 of the Implementing Rules and Regulations of the
+Further, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 of the Implementing Rules and Regulations]] of the
 
 DPA (IRR) provides:
 
@@ -1525,7 +1519,7 @@ Personal information must, be:
 
 (b) Processed fairly and lawfully[.] 164
 
-Section 19 of the Implementing Rules and Regulations of the DPA
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19 of the Implementing Rules and Regulations]] of the DPA
 
 (IRR) elaborates on fairness:
 
@@ -1687,11 +1681,11 @@ information with lawful basis.
 
 II. Colliers did not violate Section s 25 and 32 of the DPA
 
-Colliers is n either liable for Section 25 of the DPA on Unauthorized
+Colliers is n either liable for [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]] on Unauthorized
 
 Processing of Personal and Sensitive Personal Information nor
 
-Section 32 of the DPA on Unauthorized Disclosure.
+[[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 of the DPA]] on Unauthorized Disclosure.
 
 A. Colliers is not liable under Section 25 of the DPA
 
@@ -1995,17 +1989,13 @@ To summarize, the third requisite of Section 25 of the DPA
 
 the consent of the data subject or without authority under the DPA or
 
-any existing law. 175 Meanwhile, the fifth requisite of Section 32 of the
-
-DPA (Unauthorized Disclosure) provides that the processing of the
+any existing law. 175 Meanwhile, the fifth requisite of Section 32 of the DPA (Unauthorized Disclosure) provides that the processing of the
 
 information was without any of the lawful basis for processing,
 
 consent or otherwise, under Sections 12 (f) of the DPA. 176 Since there
 
-is lawful basis for processing, then the third requisite of Section 25 of
-
-the DPA and the fifth requisite of Section 32 of the DPA are not
+is lawful basis for processing, then the third requisite of Section 25 of the DPA and the fifth requisite of Section 32 of the DPA are not
 
 present.
 
@@ -2033,9 +2023,7 @@ JSA , and ALA liable for violating Section 25 (Unauthorized
 
 Processing) and Section 32 (Unauthorized Disclosure) of the DPA.
 
-Consequently, they are also not liable under Section 33 (Combination
-
-or Series of Acts) of the DPA.
+Consequently, they are also not liable under Section 33 (Combination or Series of Acts) of the DPA.
 
 WHEREFORE, premises considered, this Commission resolves that
 

@@ -45,7 +45,7 @@ The DPA recognizes the processing of personal and sensitive personal information
 subject to the adherence of the data privacy principles of transparency, legitimate purpose,
 and proportionality.
 
-In particular, Section 12 (f) of the DPA allows the processing of personal information if the
+In particular, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] allows the processing of personal information if the
 same is necessary for the purpose of the legitimate interests pursued by the personal
 information controller or by a third party. On the other hand, Section 13 (f) permits the
 processing of sensitive personal information if it is necessary for the protection of lawful rights
@@ -53,7 +53,7 @@ and interests of natural or legal persons in court proceedings, or the establish
 or defense of legal claims.
 
 The decision of the Commission in the case of BGM vs. IPP,[^3] may apply in this scenario. The
-Commission cited Section 12 (f) in relation to Section 13 (f) of the DPA as a possible lawful
+Commission cited Section 12 (f) in relation to [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] as a possible lawful
 criterion for processing personal information (as applied in this case, the addresses of the
 terminated employees) in relation to the protection of lawful rights and interests and legal claims
 (in this scenario, the criminal case for libel with the Office of the Prosecutor):
@@ -96,4 +96,4 @@ OIC-Director IV, Privacy Policy Office
 
 [^1]: Tags: lawful basis for processing; personal information; sensitive personal information; establishment of legal claims.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: National Privacy Commission, NPC 19-653 (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf, (last accessed 30 June 2021).
+[^3]: National Privacy Commission, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf, (last accessed 30 June 2021).

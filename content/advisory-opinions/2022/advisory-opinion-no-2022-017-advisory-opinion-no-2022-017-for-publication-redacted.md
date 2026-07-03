@@ -92,7 +92,7 @@ Sections 12 (f) and 13 (f) of the DPA state:
 >
 > (f) The processing concerns such personal information as is **necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims**, or when provided to government or public authority. (Emphasis supplied)
 
-In NPC Advisory Opinion No. 2021-036,[^6] the NPC once again discussed the application of the abovementioned provisions in relation to the processing of personal data necessary for the establishment, exercise or defense of a legal claims out of court, and likewise reiterated its ruling in *BGM vs. IPP*, viz:
+In [[advisory-opinions/2021/advisory-opinion-no-2021-036-disclosure-of-loan-documents-pursuant-to-a-legal-claim|NPC Advisory Opinion No. 2021-036]],[^6] the NPC once again discussed the application of the abovementioned provisions in relation to the processing of personal data necessary for the establishment, exercise or defense of a legal claims out of court, and likewise reiterated its ruling in *BGM vs. IPP*, viz:
 
 > In the interpretation of the phrase "establishment, exercise or defense of legal claims," the Commission reiterated its stand in the case of *BGM vs. IPP*, viz:
 >
@@ -108,7 +108,7 @@ In NPC Advisory Opinion No. 2021-036,[^6] the NPC once again discussed the appli
 >
 > The Commission's pronouncement in the same case of *BGM v. IPP* may be applied in the same vein:
 >
-> Although Section 13(f) applies to sensitive personal information while the information involved in this case is just personal information, the protection of lawful rights and interests under Section 13(f) by the Respondent is considered as legitimate interest pursuant to Section 12(f) of the DPA.[^7]
+> Although Section 13(f) applies to sensitive personal information while the information involved in this case is just personal information, the protection of lawful rights and interests under Section 13(f) by the Respondent is considered as legitimate interest pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]].[^7]
 
 Similar to the factual milieu of NPC Advisory Opinion No. 2021-036, it is apparent that Corporation A has a legal claim to the PhP249,011,058.00 that were allegedly fraudulently withdrawn from Brand B Davao Store. In order to aid its own investigation and establish its case, Corporation A would have to gather necessary information from Corporation C as the merchant partner involved in the transactions subject of the claim.
 
@@ -130,7 +130,7 @@ FRANKLIN ANTHONY M. TABAQUIN IV
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Data Privacy Act of 2012, § 3 (g).
 [^4]: *Id.* § 3 (l).
-[^5]: National Privacy Commission, *BGM vs. IPP*, NPC 19-653 (17 December 2020), available at https://www.privacy.gov.ph/wpcontent/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 03 February 2022).
+[^5]: National Privacy Commission, *BGM vs. IPP*, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (17 December 2020), available at https://www.privacy.gov.ph/wpcontent/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 03 February 2022).
 [^6]: National Privacy Commission, Advisory Opinion No. 2021-036 (23 September 2021).
 [^7]: *Id.* Citations omitted.
 [^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).

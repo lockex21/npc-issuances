@@ -57,7 +57,7 @@ processing.
 
 As to your additional query on the disclosure of seafarers’ records, this involves the
 processing of personal data and, hence, must find lawful basis under either Section 12 or
-Section 13 of the DPA. But the processing of personal information must also be done lawfully
+[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]. But the processing of personal information must also be done lawfully
 and fairly and with strict adherence to the basic data privacy principles. Particularly
 significant to your query is the data privacy principle of proportionality. This means that
 MARINA should only disclose such personal information that are adequate, necessary, and
@@ -82,5 +82,5 @@ Director IV, Privacy Policy Office
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Data Privacy Act of 2012, § 4.
 [^4]: Id. § 3 (g).
-[^5]: National Privacy Commission, NPC Advisory Opinion No. 2020-002 (06 Feb 2020).
+[^5]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-002-redacted-advisory-opinion-no-2020-002-2|NPC Advisory Opinion No. 2020-002]] (06 Feb 2020).
 [^6]: Maritime Industry Authority, Revised Rules for the Registration, Documentation and Deletion of Ships Operating in Philippine Waters (January 18, 2023).

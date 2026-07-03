@@ -55,7 +55,7 @@ On 01 December 2023, Grab PH's counsel received a copy of the 17 August 2023 Ord
 
 > In consideration of the Honorable Commission's findings above, and in its efforts to uphold the data privacy rights of its data subjects and, at the same time, address the primordial safety and security concerns of its partner-drivers and passengers, Grab reduced the retention period for Selfie data of users who committed heinous crimes, such as murder, rape, armed robbery, physical or sexual assault, and theft, from a maximum of forty (40) years to a maximum of ten (10) years. A copy of the revised Privacy Impact Assessment for the Consumer Verification via Selfie Project ("PIA PAX Selfie") is attached hereto as Annex "B", for this Honorable Commission's consideration and approval.[^8]
 
-According to Grab PH, the 10-year retention period is consistent with the provisions of Rule IV, Section 19 of Implementing Rules and Regulations (IRR) of the Data Privacy Act of 2012 (DPA) which states:
+According to Grab PH, the 10-year retention period is consistent with the provisions of Rule IV, Section 19 of [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) which states:
 
 > …
 > d. Personal Data shall not be retained longer than necessary:
@@ -78,7 +78,7 @@ Moreover, Grab PH justified the 10-year retention period by asserting that its "
 >
 > In the recorded instances, Grab was, in fact, able to prevent users who committed heinous crimes or violated the Grab Code of Conduct from accessing the platform after their accounts were revoked. Thus, it cannot be said that the fulfilment of the purpose of the Selfie Pax feature is not clearly defined and purely hypothetical.[^13]
 
-Further, Grab PH stated that its Selfie Project will help assist the law enforcement authorities in their investigation and enforcement functions, citing the Commission's Advisory Opinion No. 2017-024 which provides that "prescription periods under existing laws may be considered as one of the factors in determining retention periods for personal data."[^14]
+Further, Grab PH stated that its Selfie Project will help assist the law enforcement authorities in their investigation and enforcement functions, citing the Commission's [[advisory-opinions/2017/advisory-opinion-no-2017-024-npc-advisoryopinionno-2017-024|Advisory Opinion No. 2017-024]] which provides that "prescription periods under existing laws may be considered as one of the factors in determining retention periods for personal data."[^14]
 
 Grab PH added that Revised Penal Code provides for the maximum prescriptive period of twenty (20) years from the discovery of the crime, specifically those crimes punishable by reclusion perpetua and reclusion temporal.[^15]
 
@@ -90,7 +90,7 @@ Thus, Grab PH concluded it has legal basis to retain the Selfie data for ten (10
 
 Furthermore, Grab PH cited personal information controllers (PICs) whose photo verification retention period are publicly available online.[^18] Grab PH stated that "there is no specific or fixed minimum or maximum retention periods for Selfie data. The same shall be retained for as long as necessary to fulfill of the purposes for which the Selfie data was obtained."[^19] Thus, Grab PH submits that the 10-year retention period of the Selfie data is reasonable and lawful.[^20]
 
-NPC Advisory No. 2017-03 or the Guidelines on Privacy Impact Assessment provides:
+[[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]] or the Guidelines on Privacy Impact Assessment provides:
 
 > A Privacy Impact Assessment (PIA) helps a PIC and PIP navigate the process of understanding the personal data flows in the organization. It identifies and provides an assessment of various privacy risks, and proposes measures intended to address them.
 >

@@ -1,5 +1,5 @@
 ---
-title: "Advisory Opinion No. 2026-004 — SCOPE OF ACCOUNTABILITY AND REGISTRATION IN SECURITY INCIDENT AND PERSONAL DATA BREACH REPORTING"
+title: "NPC Advisory Opinion No. 2026-004 — Scope of Accountability and Registration in Security Incident and Personal Data Breach Reporting"
 description: "Re: Scope of Accountability and Registration of the Governance Levels in Security Incident and Personal Data Breach Reporting"
 tags:
   - "issuance"
@@ -13,7 +13,6 @@ draft: false
 - Reference: Advisory Opinion No. 2026-004
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2026/06/NPC-Advisory-Opinion-2026-004.pdf
 - Issue date: 06/12/2026
-- Subject: SCOPE OF ACCOUNTABILITY AND REGISTRATION IN SECURITY INCIDENT AND PERSONAL DATA BREACH REPORTING
 - Tags: PIC registration; data protection officer; Schools Division; personal data breach notification; security incident reporting; governance structure; NPC Circular No. 2022-04; centralized registration
 - OCR used during extraction: no
 
@@ -27,7 +26,7 @@ Dear [Redacted],
 
 Greetings from the National Privacy Commission!
 
-This pertains to your request for clarification on the scope of accountability of the different governance levels of the [Redacted] in relation to registration, security incident reporting, and personal data breach notification under Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012, its Implementing Rules and Regulations, and NPC Circular No. 2022-04.
+This pertains to your request for clarification on the scope of accountability of the different governance levels of the [Redacted] in relation to registration, security incident reporting, and personal data breach notification under [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and NPC Circular No. 2022-04.
 
 Based on your letter, [Redacted] current organizational levels consist of the Central Office (CO), Regional Offices, Schools Division Offices, and individual schools, following the reorganization under Republic Act No. 9155 and the modification introduced by [Redacted] Order No. 52, s. 2015. [Redacted] has registered its Personal Data Processing System, Notification Regarding Automated Decision-Making, Designation of Data Protection Officer, and application for the NPC Seal of Registration at the CO level under NPC Circular No. 2022-04.
 
@@ -119,13 +118,11 @@ VIDA ZORA G. BOCAR
 
 OIC-Director IV, Privacy Policy Office[^9]
 
-## Footnotes
-
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3(h) (2012).
-[^3]: NPC Circular No. 2022-04, § 5 (Dec. 5, 2022).
+[^3]: National Privacy Commission, Registration of Personal Data Processing Systems, Notification Regarding Automated Decision-Making or Profiling, Designation of Data Protection Officer, and the National Privacy Commission Seal of Registration, NPC Circular No. 2022-04, § 5 (Dec. 5, 2022).
 [^4]: Data Privacy Act of 2012, § 21; IRR, rule VI, § 26.
 [^5]: NPC Circular No. 2022-04, §§ 6-7.
-[^6]: NPC Circular No. 16-03.
+[^6]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16-03, § 3(A) (Dec. 15, 2016).
 [^7]: Id. § 11.
 [^8]: Id. §§ 17-18.
 [^9]: National Privacy Commission Special Order No. 095, s. 2025.

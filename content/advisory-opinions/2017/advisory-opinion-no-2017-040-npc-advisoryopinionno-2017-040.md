@@ -28,7 +28,7 @@ We understand that the FOI request was filed requesting for information submitte
 
 ### Discussion
 
-To clarify, the NPC is mandated to implement the Data Privacy Act of 2012 (DPA). The DPA's scope is limited to the processing of all types of personal information and to any natural and juridical person involved in personal information processing in the Philippines, and even outside the country in certain instances.[^1]
+To clarify, the NPC is mandated to implement the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA). The DPA's scope is limited to the processing of all types of personal information and to any natural and juridical person involved in personal information processing in the Philippines, and even outside the country in certain instances.[^1]
 
 Hence, corporate data or information of juridical entities, is outside of the scope of the DPA. The subject of the FOI request pertains to documents submitted by certain corporations to the PCAB, namely:
 

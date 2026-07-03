@@ -60,7 +60,7 @@ involved in the processing within and outside the Philippines.
 Under the law, personal data processing may be based any of the various criteria for lawful
 processing provided under Sections 12 and 13 of the DPA, respectively.
 
-Particularly applicable for IPOPHL’s proposed processing is Section 12 (c) of the DPA which
+Particularly applicable for IPOPHL’s proposed processing is [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the DPA]] which
 recognizes processing that is necessary for compliance with a legal obligation and/or Section
 12 (e) which allows processing for the fulfillment of the functions of a public authority which
 necessarily includes the processing of personal data for the fulfillment of its mandate. We
@@ -119,7 +119,7 @@ registrations is its mandate, there is no need to obtain consent of the data sub
 processing. The standard data privacy notification, which we assume to be the privacy notice,
 should already suffice for this purpose.
 
-Kindly refer to Section 16 of the DPA and NPC Advisory No. 2021 – 01 on Data Subject Rights
+Kindly refer to [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]] and [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] on Data Subject Rights
 (available at this link: https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-
 Advisory-2021-01-FINAL.pdf) for a discussion of privacy notices vis-à-vis transparency and
 the data subject right to be informed.

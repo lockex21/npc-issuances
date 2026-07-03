@@ -24,7 +24,7 @@ draft: false
 
 ## Source Tags
 - General Data Privacy Principles
-- Sec 19 D (3) of the Implementing Rules and Regulation of the Data Privacy Act of 2012 (IRR)
+- Sec 19 D (3) of the Implementing Rules and Regulation of the Data Privacy Act of 2012 ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]])
 - Motion to Lift Cease-and-Desist
 
 ## Order Text
@@ -65,7 +65,7 @@ In the Technical Report of CMD, it was indicated that:
 
 > In this case, Grab PH may consider as the basis of its retention period the prescriptive periods in filing the appropriate action for the resolution of the safety incident in the proper court or forum. Likewise, Grab PH may also consider defining the various gravity of its safety incidents and accordingly adjust the retention period depending on the gravity.[^8]
 
-Section 11(e) of the DPA provides:
+[[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11(e) of the DPA]] provides:
 
 > SEC. 11. General Data Privacy Principles. – The processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.
 >

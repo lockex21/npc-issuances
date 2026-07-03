@@ -71,7 +71,7 @@ personal data are outside its scope, thus:
                 (4) The name of the individual on a document prepared by the individual in
                     the course of employment with the government.[^2] (emphasis supplied)
 
-Furthermore, NPC Advisory No. 2017-02 provides for factors that must be considered by a government agency or office when resolving a request for access to public documents, viz.:
+Furthermore, [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|NPC Advisory No. 2017-02]] provides for factors that must be considered by a government agency or office when resolving a request for access to public documents, viz.:
 
 1. The information requested falls under matters of public concern;
 2. The individual requesting for personal data has declared and specified the purpose of his or her request;
@@ -88,8 +88,7 @@ laws, or jurisprudence.
 Based on the foregoing, the disclosure of documents to the requester relative to the purchase
 of real properties may be allowed pursuant to EO No. 2 since the information contained in
 these documents involve matters of public concern. Likewise, the personal data of public
-officers which are included in these documents can also be disclosed in light of Section 4 (a)
-of the DPA.
+officers which are included in these documents can also be disclosed in light of [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 (a) of the DPA]].
 
 However, we note that while the requested documents may be disclosed, it must only be to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned.[^5] Accordingly, there is a need to balance, on a case-to-case or per document basis, the right to information of the public and the right to data privacy of government personnel.
 
@@ -98,7 +97,7 @@ Thus, where the documents or forms contain personal data of the government offic
 Legitimate interest; general data privacy principles.
 
 As to the personal data of private individuals which may be part of the data requested, you
-may rely on Section 12 (f) of the DPA. Such provision permits the processing of personal
+may rely on [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]]. Such provision permits the processing of personal
 information when it is necessary for the purpose of the legitimate interests pursued by the
 PIC or by a third party or parties to whom the data is disclosed, except where such interests
 are overridden by fundamental rights and freedoms of the data subject which require
@@ -145,6 +144,6 @@ Director IV, Privacy Policy Office
 [^3]: National Privacy Commission, NPC Advisory No. 2017-02 (3 April 2017).
 [^4]: Office of the President, Operationalizing in the Executive Branch the People's Constitutional Right to Information and the State Policies to Full Public Disclosure and Transparency in the Public Service and Providing Guidelines Therefor, Executive Order No. 2 [EO No. 2] (July 23, 2016).
 [^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (a)(1) (2016).
-[^6]: National Privacy Commission, NPC Advisory Opinion No. 2019-026 (24 April 2019).
+[^6]: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-026-npc-advisory-opinion-no-2019-026|NPC Advisory Opinion No. 2019-026]] (24 April 2019).
 [^7]: National Privacy Commission, Guidelines on Legitimate Interest, NPC Circular No. 2023-07, (13 December 2023).
-[^8]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [NPC 21-167] (22 September 2022).
+[^8]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]] (22 September 2022).

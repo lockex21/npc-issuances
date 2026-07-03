@@ -67,7 +67,7 @@ address, date and time of admission, this may be disclosed subject to Section 12
          Constitution.”
 
 For sensitive health information, release is generally prohibited unless it is permitted by specific
-provision of law. The following provisions in Section 13 of the DPA may be applicable:
+provision of law. The following provisions in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] may be applicable:
 
    “(b) The processing of the same is provided for by existing laws and
          regulations: Provided, That such regulatory enactments guarantee the protection of

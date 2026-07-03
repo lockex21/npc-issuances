@@ -29,7 +29,7 @@ Dear [Redacted],
 We write in response to your request for an advisory opinion which sought to clarify the following matters regarding the Data Privacy Act of 2012[^2] (DPA) in relation to the mandate of the Department of Finance - Revenue Integrity Protection Service (DOF-RIPS). Specifically, you request for clarification on the following:
 
 1. Whether the DOF-RIPS, as a public authority which investigates and gathers information necessary to carry out its law enforcement functions, is exempt from the coverage of the DPA;
-2. Whether Section 4(e) of the DPA applies to information on marital and filial relations sought to be secured by DOF-RIPS in order to carry out its law enforcement functions; and
+2. Whether [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]] applies to information on marital and filial relations sought to be secured by DOF-RIPS in order to carry out its law enforcement functions; and
 3. Whether the DPA applies to information on marriage or filial records of a public officer or employee when there is doubt on the truthfulness of declarations made by the same in his/her Statement of Assets, Liabilities, and Net Worth (SALN) or Personal Data Sheet (PDS), or when it is necessary to carry out DOF-RIPS's law enforcement function.
 
 ### Discussion
@@ -48,7 +48,7 @@ Hence, the DOF-RIPS is a public authority, specifically, an investigative body, 
 
 #### Scope of the DPA; special cases
 
-The DPA provides for a list of specified information that are not covered by the law. Section 5 of the Implementing Rules and Regulations (IRR) of the DPA provides for the special cases wherein the law and the rules are not applicable:
+The DPA provides for a list of specified information that are not covered by the law. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the Implementing Rules and Regulations]] (IRR) of the DPA provides for the special cases wherein the law and the rules are not applicable:
 
 > SECTION 5. *Special Cases.* The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned: xxx
 >

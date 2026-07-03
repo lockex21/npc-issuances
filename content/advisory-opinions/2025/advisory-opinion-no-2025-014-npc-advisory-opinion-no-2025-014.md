@@ -22,7 +22,7 @@ Re: VERIFICATION OF CREDENTIALS SUBMITTED FOR VISA APPLICATION
 
 Dear [Redacted],
 
-We write in response to your inquiry on the processing of personal information and sensitive personal information (collectively, personal data) of individuals applying for visa, taking into account the provisions of Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR), and relevant issuances of the National Privacy Commission (NPC).
+We write in response to your inquiry on the processing of personal information and sensitive personal information (collectively, personal data) of individuals applying for visa, taking into account the provisions of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and relevant issuances of the National Privacy Commission (NPC).
 
 We understand that Dataflow Verification Services Ltd. (Dataflow) specializes in the verification of credentials of individuals applying for employment in the United Arab Emirates. Dataflow receives documentary requirements, which includes personal data of individuals, from various visa processing centers and government agencies, such as the Ministry of Human Resources and Emiratisation (MOHRE) for verification purposes.
 

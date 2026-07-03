@@ -15,7 +15,7 @@ draft: false
 - Reference: Advisory Opinion No. 2018-022
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/AdOpNo.2018-022.pdf
 - Issue date: 04/30/2018
-- Tags: Registration of the data processing system; data subjects outside of the philippines; applicability of the dpa; compliance; bpo company; processing of personal data
+- Tags: Registration of the data processing system; data subjects outside of the philippines; applicability of the [[laws/data-privacy-act-of-2012|dpa]]; compliance; bpo company; processing of personal data
 - OCR used during extraction: no
 
 ## Text
@@ -53,7 +53,7 @@ It is important to remember that storage of personal data is considered as a pro
 
 #### Data subjects outside of the Philippines
 
-Section 4 of the IRR clearly states that the DPA and its rules and issuances apply to entities involved in the processing of personal data that are found established or in the Philippines and when such processing is done in the country. Accordingly, the nationality and/or residence of the data subjects are immaterial in this scenario. The BPO company in the Philippines is required to comply with the law.
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|Section 4 of the IRR]] clearly states that the DPA and its rules and issuances apply to entities involved in the processing of personal data that are found established or in the Philippines and when such processing is done in the country. Accordingly, the nationality and/or residence of the data subjects are immaterial in this scenario. The BPO company in the Philippines is required to comply with the law.
 
 This opinion is being rendered based on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of the facts.
 

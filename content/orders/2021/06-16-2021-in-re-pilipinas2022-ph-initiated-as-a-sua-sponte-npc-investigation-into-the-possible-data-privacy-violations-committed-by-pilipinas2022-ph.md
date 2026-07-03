@@ -42,7 +42,7 @@ This resolves the Application for Issuance of Cease and Desist Order (Applicatio
 
 Pilipinas2022 is an online political survey platform designed to gather and display data to serve as an active pulse for the upcoming 2022 elections. It collects personal information from participants, particularly their full name, complete address, and mobile phone number, to be allowed to cast a vote and participate in the survey.[^1]
 
-The NPC is an independent body created to administer and implement the provisions of the Data Privacy Act of 2012 (DPA). As provided in Section 7 of the DPA, the NPC has Rule Making, Advisory, Public Education, Compliance and Monitoring, Complaints and Investigation, and Enforcement powers[^2] to enable it to protect the fundamental human right of privacy while ensuring the free flow of information to promote innovation and growth.[^3]
+The NPC is an independent body created to administer and implement the provisions of the Data Privacy Act of 2012 (DPA). As provided in [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the NPC has Rule Making, Advisory, Public Education, Compliance and Monitoring, Complaints and Investigation, and Enforcement powers[^2] to enable it to protect the fundamental human right of privacy while ensuring the free flow of information to promote innovation and growth.[^3]
 
 Section 7(b) of the DPA specifically states that it is the mandate of the NPC to:
 
@@ -52,7 +52,7 @@ In addition, the DPA explicitly provides for the Commission's power to issue Cea
 
 > Section 7(c). Issue cease and desist orders, impose a temporary or permanent ban on the processing personal information, upon finding that the processing will be detrimental to national security and public interest.
 
-This was reiterated in the Implementing Rules and Regulations (IRR) of the DPA:
+This was reiterated in the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the DPA:
 
 > Section 9. Functions. The National Privacy Commission shall have the following functions:
 >

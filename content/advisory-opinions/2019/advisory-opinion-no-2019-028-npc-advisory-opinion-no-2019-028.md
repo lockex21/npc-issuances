@@ -12,7 +12,7 @@ draft: false
 - Reference: Advisory Opinion No. 2019-028
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/AdOps_2019-028.pdf
 - Issue date: 08/01/2019
-- Tags: Scope of the DPA; lawful processing of personal data; posting of cases
+- Tags: Scope of the [[laws/data-privacy-act-of-2012|DPA]]; lawful processing of personal data; posting of cases
 - OCR used during extraction: no
 
 ## Text

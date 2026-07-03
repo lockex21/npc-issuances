@@ -20,11 +20,11 @@ draft: false
 
 **16 November 2017**
 
-Re: COMPLIANCE OBLIGATIONS OF BROKERS AND DEALERS UNDER THE DATA PRIVACY ACT OF 2012
+Re: COMPLIANCE OBLIGATIONS OF BROKERS AND DEALERS UNDER THE [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT OF 2012]]
 
 Dear [Redacted],
 
-This pertains to your letter received by the National Privacy Commission (the Commission) on 6 February 2017, via email. You requested for guidance from the Commission on the obligations of stockbrokers under the Data Privacy Act (DPA) and its Implementing Rules and Regulations (IRR).
+This pertains to your letter received by the National Privacy Commission (the Commission) on 6 February 2017, via email. You requested for guidance from the Commission on the obligations of stockbrokers under the Data Privacy Act (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).
 
 You have enumerated several provisions of the 2015 Securities Regulation Code (SRC) IRR which in your opinion are violative of the DPA. These provisions pertain to the requirement to submit certain client information to the SEC as well as the requirement to provide SEC with direct access to the brokers' respective databases and back office records. We noted that there is a statement in the letter that there is a pending case in court involving the enumerated provisions.
 

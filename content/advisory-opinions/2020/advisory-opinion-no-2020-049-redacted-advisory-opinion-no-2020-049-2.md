@@ -41,7 +41,7 @@ competent court or government agency is a pre-requisite for the issuance of OFW 
 to persons other than the OFW concerned, and claiming further that a letter request from a
 PAO lawyer would be sufficient basis for the release of the subject OFW information.
 
-On the other hand, you opined that a court order or request from a government agency is not necessary in this case because the processing of sensitive personal information (SPI) is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority is allowed under Section 13 (f) of the Data Privacy Act of 2012[^2] (DPA).
+On the other hand, you opined that a court order or request from a government agency is not necessary in this case because the processing of sensitive personal information (SPI) is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority is allowed under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the Data Privacy Act of 2012]][^2] (DPA).
 
 Specifically, your concern revolves mainly on whether the release by POEA of OFW information/records to the OFW’s wife is warranted under Section 13 (f) of the DPA.
 
@@ -57,7 +57,7 @@ While we are not privy to the actual contents of the OFW Information/Records bei
 >
 > **(f)** The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 
-In NPC Advisory Opinion No. 2019-013,[^4] we had the opportunity to expound on the above provision and clarify on the issue of whether a person, other than the registered owner of real property or his authorized representative, may secure a copy of a tax declaration, where such person requesting is claiming legal interest over a property:
+In [[advisory-opinions/2019/advisory-opinion-no-2019-013-npc-advisory-opinion-no-2019-013|NPC Advisory Opinion No. 2019-013]],[^4] we had the opportunity to expound on the above provision and clarify on the issue of whether a person, other than the registered owner of real property or his authorized representative, may secure a copy of a tax declaration, where such person requesting is claiming legal interest over a property:
 
 > Therefore, as long as the requestor may properly establish that there is a pending case in court where the tax declaration of the property is material or that the document is necessary to the establishment, exercise or defense of a legal claim, the assessor’s office may grant the request from persons other than the registered owner without the latter’s consent. This is subject to the existing policies, regulations, and procedures of the assessor’s office relative to the release of such document, i.e. payment of fees, etc.
 

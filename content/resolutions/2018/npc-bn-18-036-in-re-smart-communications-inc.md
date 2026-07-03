@@ -76,7 +76,7 @@ Whether Smart sufficiently addressed the breach and implemented security measure
 
 The Commission resolves to close the matter. Smart’s submissions show that it sufficiently addressed the breach and implemented security measures to prevent its recurrence.
 
-Section 20 (a) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) provides:
+Section 20 (a) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA) provides:
 
 > **Section 20. Security of Personal Information.** (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^32]
 

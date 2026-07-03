@@ -55,15 +55,15 @@ The Commission issued a Decision dated 15 April 2021 dismissing the Complaint fi
 
 This is without prejudice to the filing of appropriate civil, criminal, or administrative cases against Respondent before any other forum or tribunal, if any.[^3]
 
-TGM filed her Motion dated 10 June 2021, reiterating the arguments alleged in her Complaint. In her Motion, TGM argued that "[t]he share capital account is classified as sensitive personal information" hence, "[l]egitimate [r]easons" rule does not apply.[^4] TGM stated that Section 3(l) of the Data Privacy Act of 2012 (DPA) is not exclusive, emphasizing on the phrase "but not limited to," under paragraph 3 of the said provision.[^5]
+TGM filed her Motion dated 10 June 2021, reiterating the arguments alleged in her Complaint. In her Motion, TGM argued that "[t]he share capital account is classified as sensitive personal information" hence, "[l]egitimate [r]easons" rule does not apply.[^4] TGM stated that [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the Data Privacy Act of 2012]] (DPA) is not exclusive, emphasizing on the phrase "but not limited to," under paragraph 3 of the said provision.[^5]
 
 TGM further argued that the Commission "extended the meaning of "health records" to medical records kept by publicly-listed corporation notwithstanding the original tenor of Section 3(l) referring to health records issued by "government agencies" citing Advisory Opinion No. 2019-010.[^6]
 
 Moreover, TGM stated that the parties sufficiently established in their pleadings that shared capital accounts are sensitive personal information.[^7] According to TGM, the pleadings submitted to the Commission stated that the share capital account contains sensitive personal information, including deposits, withdrawals, and other loan details.[^8] Thus, she argued that the share capital account should be considered as a financial record that is confidential and sensitive information.[^9]
 
-TGM concluded that the "legitimate interests" rule is not applicable in this case as its applicability is limited to the processing of personal information pursuant to Section 12 of the DPA.[^10]
+TGM concluded that the "legitimate interests" rule is not applicable in this case as its applicability is limited to the processing of personal information pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]].[^10]
 
-Lastly, TGM stated in her Motion that Respondents violated her right to be informed of the processing of her information, which is tantamount to unauthorized processing of information under Section 25 of the DPA.[^11]
+Lastly, TGM stated in her Motion that Respondents violated her right to be informed of the processing of her information, which is tantamount to unauthorized processing of information under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].[^11]
 
 Therefore, TGM prayed for the Commission to reverse and set aside the Decision dated 15 April 2021, and to issue a new one recommending the case for prosecution for violating Section 25 (b) of the DPA.[^12]
 
@@ -109,7 +109,7 @@ Further, TGM cited in her Motion the Commission's Advisory Opinion 2019-010 whic
 
 #### II. Respondents did not violate Section 25 of the DPA for Unauthorized Processing of Personal and Sensitive Personal Information. The processing of share capital account has lawful basis.
 
-TGM stated that Respondents violated her right to be informed of the processing of her information under Section 16(a) of the DPA which is a violation of Section 25 for Unauthorized Processing of Personal and Sensitive Personal Information.[^23]
+TGM stated that Respondents violated her right to be informed of the processing of her information under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(a) of the DPA]] which is a violation of Section 25 for Unauthorized Processing of Personal and Sensitive Personal Information.[^23]
 
 In establishing whether there is a violation of Section 25 of the DPA, the following requisites must be present:
 

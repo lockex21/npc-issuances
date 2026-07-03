@@ -149,7 +149,7 @@ To date, the Commission has not received any submission from either party.
 
 ### Issue
 
-Whether Westparc is liable for violation of Complainants’ right to access under Section 16 (c) of the DPA.
+Whether Westparc is liable for violation of Complainants’ right to access under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (c) of the DPA]].
 
 ### Discussion
 
@@ -211,7 +211,7 @@ The records further reveal Westparc’s lack of interest, exemplified by its non
 
 Westparc’s inaction and disregard for Complainants’ right to access warrants the award of nominal damages.
 
-The DPA provides for restitution for any aggrieved party under the Civil Code.[^49] Section 37 of the DPA provides:
+The DPA provides for restitution for any aggrieved party under the Civil Code.[^49] [[laws/data-privacy-act-of-2012#section-37-restitution|Section 37 of the DPA]] provides:
 
 > Section 37. *Restitution.* Restitution for any aggrieved party shall be governed by the provisions of the New Civil Code.[^50]
 

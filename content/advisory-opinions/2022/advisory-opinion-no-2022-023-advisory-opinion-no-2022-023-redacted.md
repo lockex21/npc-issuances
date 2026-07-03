@@ -67,7 +67,7 @@ On the other hand, the disclosure of personal information may be justified as fa
 
 In the case of BGM vs. IPP,[^5] the Commission articulated that the protection of lawful rights and interests under Section 13(f) is considered as legitimate interest pursuant to Section 12(f):
 
-> Although Section 13(f) applies to sensitive personal information, the protection of lawful rights and interests under Section 13(f) by the Respondent is considered as legitimate interest pursuant to Section 12(f) of the DPA. This section provides that it is lawful to process personal information if it is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
+> Although Section 13(f) applies to sensitive personal information, the protection of lawful rights and interests under Section 13(f) by the Respondent is considered as legitimate interest pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]]. This section provides that it is lawful to process personal information if it is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
 >
 > By application in the instant case, Respondent may not be held liable for unauthorized processing should it disclose the requested information to Complainant as its disclosure would be in pursuance of the latter's legitimate interest as the same cannot be fulfilled by other means.
 
@@ -96,9 +96,9 @@ Director IV, Privacy Policy Office
 [^1]: An Act Prohibiting Hazing and Regulating Other Forms of Initiation Rites of Fraternities, Sororities, and Other Organizations, and Providing Penalties for Violations thereof, Amending for the Purpose Republic Act No. 8049, Entitled "An Act Regulating Hazing and Other Forms of Initiation Rites in Fraternities, Sororities, and Organizations and Providing Penalties therefor [Anti-Hazing Act of 2018], Republic Act No. 11053 (2018).
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Data Privacy Act of 2012, § 13 (f).
-[^4]: National Privacy Commission, NPC Advisory Opinion No. 2021-36 (Sept. 23, 2021) citing National Privacy Commission, NPC 19-653 (Dec. 17, 2020).
+[^4]: National Privacy Commission, NPC Advisory Opinion No. 2021-36 (Sept. 23, 2021) citing National Privacy Commission, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020).
 [^5]: National Privacy Commission, NPC 19-653 (17 December 2020).
 [^6]: National Privacy Commission, NPC Case No. 17-018 (15 July 2019).
 [^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
-[^8]: National Privacy Commission, NPC Advisory Opinion No. 2021-044 (29 December 2021).
-[^9]: See: National Privacy Commission, NPC Advisory Opinion No. 2022-005 (24 February 2022).
+[^8]: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-044-npc-advisory-opinion-no-2021-044|NPC Advisory Opinion No. 2021-044]] (29 December 2021).
+[^9]: See: National Privacy Commission, [[advisory-opinions/2022/advisory-opinion-no-2022-005-advisory-opinion-no-2022-005-redacted|NPC Advisory Opinion No. 2022-005]] (24 February 2022).

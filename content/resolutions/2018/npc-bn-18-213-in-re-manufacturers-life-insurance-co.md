@@ -224,7 +224,7 @@ Other similar information referred to in the last sentence of Section
 
 information .61  For mandatory breach notification, Section 20 (f) of
 
-Republic Act No. 10173 or the Data Privacy Act (DPA) only requires
+[[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act (DPA) only requires
 
 that the information may enable identity fraud :
 

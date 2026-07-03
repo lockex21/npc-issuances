@@ -109,7 +109,7 @@ On 05 April 2022, the EnD sent a letter to LSGH in relation to its submissions. 
 
 The EnD also made the following evaluation:
 
-> As to the other documents submitted by LSGH, the Commission observed that the: 1) Revised Data Policy; 2) Revised Privacy Security Incident Policy; 3) Offices Personal Data Inventory and Privacy Impact Assessment; 4) Data Privacy Security Incident Reporting Form; 5) Privacy Management Plan; 6) Social Media Policy for Students; and 7) Social Media Policy for Personnel and Partners, are too general and do not contain the necessary specificity to be considered compliant with the requirements of the Data Privacy Act of 2012 (DPA).[^19]
+> As to the other documents submitted by LSGH, the Commission observed that the: 1) Revised Data Policy; 2) Revised Privacy Security Incident Policy; 3) Offices Personal Data Inventory and Privacy Impact Assessment; 4) Data Privacy Security Incident Reporting Form; 5) Privacy Management Plan; 6) Social Media Policy for Students; and 7) Social Media Policy for Personnel and Partners, are too general and do not contain the necessary specificity to be considered compliant with the requirements of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^19]
 
 Thus, the EnD ordered LSGH to submit "(1) Report on the full implementation of the PIA, specifically on the aforementioned offices, and (2) Revised policies in compliance with the requirements of DPA."[^20]
 
@@ -170,7 +170,7 @@ After LSGH evaluated the processing activities conducted by its offices and depa
 
 #### *LSGH's Revised Privacy Policy and Security Incident Management Policy are compliant with the DPA*
 
-Advisory Opinion No. 2018-013 states:
+[[advisory-opinions/2018/advisory-opinion-no-2018-013-npc-advisory-opinion-no-2018-013|Advisory Opinion No. 2018-013]] states:
 
 > At the outset, it must be clarified that the submitted "privacy policy" should be referred to as the company's privacy notice. A privacy notice is a statement made to a data subject that **describes how the organization collects, uses, retains and discloses personal information.** A privacy notice is sometimes referred to as a privacy statement, a fair processing statement or sometimes a privacy policy.[^41]
 

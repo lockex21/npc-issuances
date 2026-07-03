@@ -58,7 +58,7 @@ On 07 February 2017, the Commission issued an Order[^5] for on-site Examination 
 
 On 08 February 2017, the Commission conducted the on-site examination in the COMELEC office in Taguig City. A preliminary report on the on-site inspection was submitted by the Commission on 09 February 2017.
 
-On 10 February 2017, the Commission En Banc issued a Compliance Order[^6], ordering COMELEC to erase all NLRV RV in the computer systems in different municipalities and cities and to notify the affected data subjects, among others. COMELEC was also ordered to submit its proposed revised measures in the voters’ registration process in keeping with the Data Privacy Act (DPA) and other issuances of the Commission.
+On 10 February 2017, the Commission En Banc issued a Compliance Order[^6], ordering COMELEC to erase all NLRV RV in the computer systems in different municipalities and cities and to notify the affected data subjects, among others. COMELEC was also ordered to submit its proposed revised measures in the voters’ registration process in keeping with the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA) and other issuances of the Commission.
 
 On 28 February 2017, EDT submitted to the Commission a Compliance Report in response to the Compliance Order dated 10 February 2017. The report stated the modifications implemented in the VRS, VS, and NLRV systems of the COMELEC in terms of registration of voters and access to the system. COMELEC also stated that it has notified the affected data subjects through publication of the notice through newspapers of general circulation in the Philippines. For those with records in the VRS in the Municipality of Wao, notification was done individually.[^7]
 

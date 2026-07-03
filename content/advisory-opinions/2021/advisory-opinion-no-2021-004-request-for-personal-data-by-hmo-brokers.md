@@ -39,7 +39,7 @@ With this, MediCard expressed hesitation in providing information to the brokers
 
 ### Discussion
 
-#### Data Privacy Act of 2012; scope; personal information controller; duties and responsibilities
+#### [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]; scope; personal information controller; duties and responsibilities
 
 The Data Privacy Act of 2012[^2] (DPA) applies to the processing of all types of personal information and to any natural and juridical person involved in processing personal information.[^3] When brokers request for utilization information details and process the same, they are engaged in processing personal data and are thus covered by the provisions of the DPA.
 

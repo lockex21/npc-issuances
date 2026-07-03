@@ -36,7 +36,7 @@ We understand further that the tax declaration contains personal information of 
 
 ### Discussion
 
-Under the law, an individual's TIN is classified as sensitive personal information and as such, may only be processed under the limited circumstances provided by Section 13 of the DPA, to wit:
+Under the law, an individual's TIN is classified as sensitive personal information and as such, may only be processed under the limited circumstances provided by [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], to wit:
 
 > SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >

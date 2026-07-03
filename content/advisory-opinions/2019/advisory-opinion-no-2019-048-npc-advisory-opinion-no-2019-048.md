@@ -29,7 +29,7 @@ We write in response to your request for an advisory opinion which sought to cla
 
 #### Scope of the DPA; Processing of Personal Data by the CCRO
 
-The Data Privacy Act of 2012[^1] (DPA) and its Implementing Rules and Regulations (IRR) applies to the processing of all types of personal information and to any natural and juridical person in the government or private sector involved in personal information processing.[^2]
+The Data Privacy Act of 2012[^1] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) applies to the processing of all types of personal information and to any natural and juridical person in the government or private sector involved in personal information processing.[^2]
 
 We understand that the civil registry was established by law to record the civil status of persons[^3] and that the City Civil Registrar has the primary function of keeping and preserving the following books and make the proper entries concerning the civil status of persons:
 
@@ -37,7 +37,7 @@ We understand that the civil registry was established by law to record the civil
 2. Marriage register, in which shall be entered not only the marriages solemnized but also divorces and dissolved marriages.
 3. Legitimation, acknowledgment, adoption, change of name and naturalization register.[^4]
 
-Given the foregoing, civil registry documents contain personal and sensitive personal information. The DPA considers the collection, storage and sharing of records by the CCRO of Iloilo under its custody as processing activities and is thus covered by the DPA.[^5] As a personal information controller (PIC), the CCRO must adhere to any of the lawful bases for processing provided under Sections 12 and/or Section 13 of the DPA.
+Given the foregoing, civil registry documents contain personal and sensitive personal information. The DPA considers the collection, storage and sharing of records by the CCRO of Iloilo under its custody as processing activities and is thus covered by the DPA.[^5] As a personal information controller (PIC), the CCRO must adhere to any of the lawful bases for processing provided under Sections 12 and/or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 #### Criteria of Lawful Processing of Sensitive Personal Information; Request from Government Agencies and Courts; PSA Memorandum Circular
 
@@ -81,6 +81,6 @@ Privacy Commissioner and Chairman
 [^9]: Philippine Statistics Authority, Guidelines on the Issuance of the Civil Registry Documents (CRDs)/Certifications including Authentication, Memorandum Circular No. 2019-15 [PSA MC 2019-015] (June 11, 2019).
 [^10]: *Id.* § II (6).
 [^11]: *Id.* § II (7).
-[^12]: National Privacy Commission, NPC Advisory Opinion No. 2018-083 (Nov. 26, 2018).
-[^13]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies, Circular No. 16-02 [NPC Circular 16-02] (October 10, 2016).
+[^12]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Nov. 26, 2018).
+[^13]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Circular No. 16-02]] [NPC Circular 16-02] (October 10, 2016).
 [^14]: Data Privacy Act of 2012, § 11.

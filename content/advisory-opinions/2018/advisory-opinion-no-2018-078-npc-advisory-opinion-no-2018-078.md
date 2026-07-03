@@ -49,7 +49,7 @@ and sensitive personal information of your employees, including:
        e) contracts with various vendors, which contain names, contact information and other
           personal information such as TIN of the signatories.
 
-You mentioned as well that while you recognize the Department of Labor and Employment’s (DOLE) authority to audit employers, you also need to ensure that you comply with both their requests and the requirements of Data Privacy Act of 2012[^1](DPA). Furthermore, you are concerned with similar situations that may arise from your transactions with other government agencies such as the Social Security System and Bureau of Internal Revenue. Hence, you wanted an opinion on the extent of information that you may provide to these government agencies.
+You mentioned as well that while you recognize the Department of Labor and Employment’s (DOLE) authority to audit employers, you also need to ensure that you comply with both their requests and the requirements of [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1](DPA). Furthermore, you are concerned with similar situations that may arise from your transactions with other government agencies such as the Social Security System and Bureau of Internal Revenue. Hence, you wanted an opinion on the extent of information that you may provide to these government agencies.
 
 ### Discussion
 

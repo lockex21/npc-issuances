@@ -42,7 +42,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission is a complaint filed by AC against ISG for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a complaint filed by AC against ISG for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA).
 
 ### Facts
 
@@ -66,7 +66,7 @@ On 13 July 2021, the Commission, through the Complaints and Investigation Divisi
 
 On 06 August 2021, ISG filed her Verified Comment.[^22] She admits that she used the CCTV footages as evidence in the criminal case filed against AC.[^23] She avers the complaint must be dismissed because it does not allege which provision of the DPA has been violated by the CCTV recording.[^24] She claims that "[AC] should not be allowed to ISG on a fishing expedition by alleging a violation of the law in general, and then picking out a particular violation as the proceedings ISG on."[^25]
 
-Further, ISG contends that under Sec. 4(A)(2) of NPC Advisory 2020-04 (Guidelines on the Use of Closed-Circuit Television (CCTV) Systems)[^26] "security of properties and protection of vitally important interests of individuals is a legitimate reason for installing a CCTV system."[^27] ISG contends that she installed the CCTV system to protect her rights and to document acts of harassment by AC.[^28] She also claims that the CCTV system was recording outdoors in a public place. Under Section 4 (E) of NPC Advisory No. 2020-04, CCTV cameras cannot record in places where there is a heightened expectation of privacy.[^29] She avers that an alley is not a place where there is such heightened expectation.[^30]
+Further, ISG contends that under Sec. 4(A)(2) of NPC Advisory 2020-04 (Guidelines on the Use of Closed-Circuit Television (CCTV) Systems)[^26] "security of properties and protection of vitally important interests of individuals is a legitimate reason for installing a CCTV system."[^27] ISG contends that she installed the CCTV system to protect her rights and to document acts of harassment by AC.[^28] She also claims that the CCTV system was recording outdoors in a public place. Under Section 4 (E) of [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|NPC Advisory No. 2020-04]], CCTV cameras cannot record in places where there is a heightened expectation of privacy.[^29] She avers that an alley is not a place where there is such heightened expectation.[^30]
 
 On 21 September 2021, both parties appeared in the Preliminary Conference and manifested that they are not seeking the discovery of any evidence or document from each other.[^31] AC manifested his unwillingness to under ISG mediation proceedings.[^32] The Commission ordered the parties to submit, within fifteen (15) calendar days after the Preliminary Conference, their respective Memoranda discussing and summarizing their respective causes of action, claims, and defenses.[^33]
 

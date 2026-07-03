@@ -26,15 +26,15 @@ Subject : Security of Personal Data in the Government and the Private Sector
 
 WHEREAS, Section 2 of Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012” (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote innovation and growth, and the State recognizes its obligation to ensure that personal information in information and communications systems in the government and the private sector are secured and protected;
 
-WHEREAS, pursuant to Section 7 of the DPA, the National Privacy Commission (NPC) is charged with administering and implementing the law, including ensuring that Personal Information Controllers (PICs) comply with the Act and relevant international standards, while coordinating with other government agencies and the private sector to strengthen personal data protection in the country;
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the National Privacy Commission (NPC) is charged with administering and implementing the law, including ensuring that Personal Information Controllers (PICs) comply with the Act and relevant international standards, while coordinating with other government agencies and the private sector to strengthen personal data protection in the country;
 
-WHEREAS, Rule III, Section 9 of the Implementing Rules and Regulations of the Data Privacy Act of 2012 (IRR) provides that the NPC’s functions include developing, promulgating, reviewing, and amending rules and regulations for the effective implementation of the DPA;
+WHEREAS, Rule III, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] of the Data Privacy Act of 2012 (IRR) provides that the NPC’s functions include developing, promulgating, reviewing, and amending rules and regulations for the effective implementation of the DPA;
 
-WHEREAS, Section 20 of the DPA requires PICs to implement reasonable and appropriate organizational, physical, and technical measures for the protection of personal data;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 of the DPA]] requires PICs to implement reasonable and appropriate organizational, physical, and technical measures for the protection of personal data;
 
-WHEREAS, under Section 22 of the DPA, heads of government agencies and instrumentalities are responsible for complying with the law’s security requirements, including securing all sensitive personal information under their custody with the most appropriate industry-recognized standards, as recommended by the NPC;
+WHEREAS, under [[laws/data-privacy-act-of-2012#section-22-responsibility-of-heads-of-agencies|Section 22 of the DPA]], heads of government agencies and instrumentalities are responsible for complying with the law’s security requirements, including securing all sensitive personal information under their custody with the most appropriate industry-recognized standards, as recommended by the NPC;
 
-WHEREAS, Section 23 of the DPA empowers the NPC to issue guidelines about agency personnel access to sensitive personal information;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-23-requirements-relating-to-access-by-agency-personnel-to-sensitive-personal-information|Section 23 of the DPA]] empowers the NPC to issue guidelines about agency personnel access to sensitive personal information;
 
 WHEREFORE, the abovementioned premises considered, the NPC hereby issues this Circular governing the security of personal data.
 

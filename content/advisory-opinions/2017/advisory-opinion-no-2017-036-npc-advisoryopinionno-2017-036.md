@@ -22,7 +22,7 @@ Re: WORK-RELATED PERSONAL DATA
 
 Dear [Redacted],
 
-This is with regard to your query received by the National Privacy Commission (NPC) on 6 February 2017. You inquired on whether work-related personal data is within the scope of Republic No. 10173, otherwise known as Data Privacy Act of 2012 (DPA).
+This is with regard to your query received by the National Privacy Commission (NPC) on 6 February 2017. You inquired on whether work-related personal data is within the scope of Republic No. 10173, otherwise known as [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 Likewise, you asked how the DPA will apply to a situation where a single proprietor (vendor/supplier) used his or her home address and personal mobile number as work address and work contact number respectively.
 
@@ -34,7 +34,7 @@ Work-related personal data, such as work email address and employee number, may 
 
 Note however that the DPA provides for special cases which is beyond the scope of the law, such as information about any individual who is or was an officer or employee of a government institution that relates to the position or functions of the individual, including his or her business address and office telephone number.[^2]
 
-On the use of personal contact number and home address as work contact details, the provisions of the DPA, its Implementing Rules and Regulations (IRR) and related issuances of the NPC would still be applicable to the processing of the same since these are still considered as personal information taking into account the above-mentioned definition.
+On the use of personal contact number and home address as work contact details, the provisions of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and related issuances of the NPC would still be applicable to the processing of the same since these are still considered as personal information taking into account the above-mentioned definition.
 
 For your reference.
 

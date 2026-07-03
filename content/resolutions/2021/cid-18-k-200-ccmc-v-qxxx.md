@@ -80,7 +80,7 @@ Rule II, Section 4 of NPC Circular No. 16-03 states that personal information co
 >
 > D. Mitigation of possible harm and negative consequences to a data subject in the event of a personal data breach; and
 >
-> E. Compliance with the Act, its IRR, and all related issuances by the Commission pertaining to personal data breach notification.
+> E. Compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all related issuances by the Commission pertaining to personal data breach notification.
 
 The Commission finds that the Data Privacy Security Incident Management Policy (SIMP) submitted by Quicklend has substantially complied with the Decision dated 17 January 2020 and NPC Circular No. 16-03 on Personal Data Breach Management.
 

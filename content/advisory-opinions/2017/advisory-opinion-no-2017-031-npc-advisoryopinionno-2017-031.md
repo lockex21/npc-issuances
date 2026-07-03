@@ -24,7 +24,7 @@ Dear [Redacted],
 
 ### Discussion
 
-This pertains to your query received by the National Privacy Commission (NPC) on 29 May 2017 regarding the processing of personal data in outsourcing and offshoring arrangements. Specifically, you seek guidance on whether the Data Privacy Act (DPA) applies to service providers that handle personal data on behalf of a company; whether there is a distinction between outsourcing to local and foreign entities; and whether the company remains liable even if the service provider violates data privacy obligations.
+This pertains to your query received by the National Privacy Commission (NPC) on 29 May 2017 regarding the processing of personal data in outsourcing and offshoring arrangements. Specifically, you seek guidance on whether the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA) applies to service providers that handle personal data on behalf of a company; whether there is a distinction between outsourcing to local and foreign entities; and whether the company remains liable even if the service provider violates data privacy obligations.
 
 The DPA applies to all natural and juridical persons involved in the processing of personal information.[^1] This includes personal information controllers and personal information processors.
 

@@ -128,7 +128,7 @@ On 12 March 2024, the CID issued a Notice submitting the case for decision of th
 
 ### Issue
 
-Whether Allied Bank (now Philippine National Bank) is liable for violation of Complainant's right to access under Section 16(c) of the DPA.
+Whether Allied Bank (now Philippine National Bank) is liable for violation of Complainant's right to access under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(c) of the DPA]].
 
 ### Discussion
 
@@ -165,11 +165,11 @@ Under Section 16(c) of the DPA, data subjects can request access to their person
 > (7) Date when his or her personal information concerning the data subject were last accessed and modified; and
 > (8) The designation, or name or identity and address of the personal information controller;[^53]
 
-While the Respondent Bank argued that it had already provided the Complainant with copies of SOAs in 2017,[^54] the Commission clarifies that having previously provided a copy does not mean data subjects can no longer request a new one. Nothing in the DPA and its Implementing Rules and Regulations (IRR) state that the right to access can only be exercised once. Thus, Complainant was not precluded from making a subsequent request in 2021.
+While the Respondent Bank argued that it had already provided the Complainant with copies of SOAs in 2017,[^54] the Commission clarifies that having previously provided a copy does not mean data subjects can no longer request a new one. Nothing in the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) state that the right to access can only be exercised once. Thus, Complainant was not precluded from making a subsequent request in 2021.
 
 Nonetheless, while the Complainant has the right to access his SOAs under the DPA,[^55] the Commission emphasizes that this right is not absolute. It must be exercised in accordance with the laws governing the confidentiality of bank records and the reasonable verification measures established by the Respondent Bank which, as stated in its Verified Comment, suggested that the Complainant may visit the branch during banking hours.[^56]
 
-Given the sensitive nature of bank records, financial institutions are duty bound to ensure that only authorized individuals are given access. This duty aligns with Section 5(b) of NPC Advisory No. 2021-01 (Data Subject Rights), which mandates that PICs shall use reasonable measures to verify the identity of the requesting data subject.[^57]
+Given the sensitive nature of bank records, financial institutions are duty bound to ensure that only authorized individuals are given access. This duty aligns with Section 5(b) of [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] (Data Subject Rights), which mandates that PICs shall use reasonable measures to verify the identity of the requesting data subject.[^57]
 
 Furthermore, bank records contain sensitive personal information and are protected under the DPA to prevent unauthorized access.[^58] As stated in Section 2 of the Bank Secrecy Law or Republic Act No. 1405:
 
@@ -187,7 +187,7 @@ In this regard, since Respondent Bank has countered Complainant's allegation by 
 
 However, instead of presenting countervailing evidence, Complainant merely filed a Manifestation with Motion, stating that "he is adopting his own Complaint as his memorandum."[^63]
 
-Section 2, Rule VII of NPC Circular No. 2021-01 (2021 NPC Rules of Procedure) provides for the effect of a party's non-submission of Memorandum, viz:
+Section 2, Rule VII of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure) provides for the effect of a party's non-submission of Memorandum, viz:
 
 > SECTION 2. Submission of simultaneous memoranda. – The investigating officer shall require the parties to submit simultaneous memoranda discussing and summarizing their respective causes of action, claims, and defenses within fifteen (15) calendar days from written notice. The memoranda must also include, in simple tabular form, a list of all the evidence presented by the party and purpose to his/her claim or defense. Failure to submit the memorandum within the period provided shall be considered a waiver of such opportunity.[^64]
 
@@ -293,7 +293,7 @@ National Privacy Commission
 [^54]: Verified Comment of Allied Bank (now Philippine National Bank) dated 18 November 2022.
 [^55]: National Privacy Commission, Data Privacy Act of 2012, Republic Act No. 10173, §16(c).
 [^56]: Verified Comment of Allied Bank (now Philippine National Bank) dated 18 November 2022.
-[^57]: National Privacy Commission, NPC Advisory No. 2021–01, §5(b) dated 29 January 2021.
+[^57]: National Privacy Commission, [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]], §5(b) dated 29 January 2021.
 [^58]: National Privacy Commission, Data Privacy Act of 2012, Republic Act No. 10173.
 [^59]: An Act Prohibiting Disclosure of or Inquiry into, Deposits with any Banking Institution and Providing Penalty therefor, R.A. No. 1405, §2.
 [^60]: *Simex International (Manila), Incorporated v. The Honorable Court of Appeals and Traders Royal Bank*, G.R. No. 88013 dated March 19, 1990.

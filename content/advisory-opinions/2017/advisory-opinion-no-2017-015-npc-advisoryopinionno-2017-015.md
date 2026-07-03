@@ -26,7 +26,7 @@ Re: SUBCONTRACTING OR OUTSOURCING OF THE PROCESSING OF PERSONAL DATA
 
 Dear [Redacted],
 
-This pertains to your query received by the National Privacy Commission (NPC) on 10 February 2017. Specifically, you inquired whether the disclosure by the Social Security System (SSS) of sensitive personal information of some of its members to certain banks would violate Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA). The members consist of those that have obtained loans from the SSS, while the banks are accredited collection agents of the SSS. You also mentioned that the members would be informed of such transfer, thereby directing them to the bank they shall make their loan payments.
+This pertains to your query received by the National Privacy Commission (NPC) on 10 February 2017. Specifically, you inquired whether the disclosure by the Social Security System (SSS) of sensitive personal information of some of its members to certain banks would violate [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the Data Privacy Act of 2012 (DPA). The members consist of those that have obtained loans from the SSS, while the banks are accredited collection agents of the SSS. You also mentioned that the members would be informed of such transfer, thereby directing them to the bank they shall make their loan payments.
 
 Based on the facts, the SSS is proposing to outsource or subcontract the specific personal data processing operation of loan or debt collection. Such a step is allowed under the DPA and its Implementing Rules and Regulations (IRR), provided that is carried out in accordance with their provisions.
 
@@ -42,7 +42,7 @@ In the DPA, the primary reference for the subcontracting or outsourcing of the p
 
 > **Subcontract of Personal Information.** – A personal information controller may subcontract the processing of personal information: *Provided, That* the personal information controller shall be responsible for ensuring that proper safeguards are in place to ensure the confidentiality of the personal information processed, prevent its use for unauthorized purposes, and generally, comply with the requirements of this Act and other laws for processing of personal information. The personal information processor shall comply with all the requirements of this Act and other applicable laws.
 
-This provision is essentially echoed by Section 43 of the IRR,[^3] although the latter elaborates on the subject by outlining the particulars of a typical subcontracting or outsourcing agreement in the next following provision:
+This provision is essentially echoed by [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-43-subcontract-of-personal-data|Section 43 of the IRR]],[^3] although the latter elaborates on the subject by outlining the particulars of a typical subcontracting or outsourcing agreement in the next following provision:
 
 > **Section 44. Agreements for Outsourcing.** Processing by a personal information processor shall be governed by a contract or other legal act that binds the personal information processor to the personal information controller.
 >

@@ -82,7 +82,7 @@ C. Implementation of an incident response procedure intended to contain a securi
 
 D. Mitigation of possible harm and negative consequences to a data subject in the event of a personal data breach; and
 
-E. Compliance with the Act, its IRR, and all related issuances by the Commission pertaining to personal data breach notification.
+E. Compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all related issuances by the Commission pertaining to personal data breach notification.
 
 This Commission highlights that the submission of the proof of the security measures implemented by Tuitt and their Security Incident Management Policy is necessary in order for the Commission to ensure and confirm that the security measures implemented are sufficient to prevent the security incident in resulting to personal data breach.
 

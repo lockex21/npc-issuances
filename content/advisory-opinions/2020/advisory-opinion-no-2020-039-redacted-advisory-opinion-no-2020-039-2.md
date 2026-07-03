@@ -26,7 +26,7 @@ We write in response to your letter received by the National Privacy Commission 
 
 We understand further that fraud transactions can effectively be investigated when transaction details, such as the following, are shared among affected banks and EMIs: 1) destination EMI; 2) destination account number; 3) origin EMI; 4) origin account number; 5) transaction type; 6) transaction date; 7) transaction time; 8) amount; 9) fraud type and 10) reference number.
 
-You now inquire on whether the disclosure or sharing of the above transaction details for purposes of fraud investigation is allowed under the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR) and other relevant issuances of the NPC.
+You now inquire on whether the disclosure or sharing of the above transaction details for purposes of fraud investigation is allowed under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and other relevant issuances of the NPC.
 
 ### Discussion
 
@@ -85,7 +85,7 @@ Privacy Commissioner
 
 [^1]: Tags: personal information; bank transaction details; fraud investigation; legitimate interests.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3 (g) (2012).
-[^3]: National Privacy Commission, NPC Advisory Opinion No. 2018-061 citing United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
+[^3]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-061-npc-advisory-opinion-no-2018-061|NPC Advisory Opinion No. 2018-061]] citing United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
 [^4]: Ibid.
 [^5]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Recital 47 (2016).
 [^6]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.

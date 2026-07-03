@@ -40,11 +40,11 @@ We confirm that Office 365 and its allied applications may be considered as a da
 
 #### Registration
 
-For the registration requirement, NPC Circular No. 17-01 and its Appendix 1 must be read together with the law and its IRR. Section 3 of the DPA provides for the definition of processing of personal data which refers to any operation or any set of operations performed upon personal information, including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
+For the registration requirement, NPC Circular No. 17-01 and its Appendix 1 must be read together with the law and its IRR. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] provides for the definition of processing of personal data which refers to any operation or any set of operations performed upon personal information, including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
 
 In connection with this, the natural or juridical person who may be required to register are those operating and doing business in the Philippines. Doing business is understood as it is defined under Executive Order No. 226, as amended, or the Omnibus Investment Code of 1987, the Foreign Investments Act of 1991, as amended, the respective IRRs, as amended, and other applicable laws, rules, regulations and jurisprudence on the matter.
 
-This is read in conjunction with Section 46 (a) of the IRR, which provides as follows:
+This is read in conjunction with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-46-enforcement-of-the-data-privacy-act|Section 46 (a) of the IRR]], which provides as follows:
 
 > Section 46. Enforcement of the Data Privacy Act. Pursuant to the mandate of the Commission to administer and implement the Act, and to ensure the compliance of personal information controllers with its obligations under the law, the Commission requires the following:
 >

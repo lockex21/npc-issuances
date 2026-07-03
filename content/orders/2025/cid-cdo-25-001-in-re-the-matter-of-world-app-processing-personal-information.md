@@ -114,9 +114,7 @@ reportedly connected to a device called the Orb.[^14]
 On 07 May 2025, the CID submitted its application for the issuance of
 a CDO and alleged that World App is doing some act or practice in
 violation of the DPA alleging that the entire processing activity
-conducted by TFH fail under the standards set forth under NPC
-Circular No. 2023-04 or the Guidelines on Consent (NPC Circular No.
-2023-04) namely:
+conducted by TFH fail under the standards set forth under [[issuances/2023/guidelines-on-consent|NPC Circular No. 2023-04]] or the Guidelines on Consent (NPC Circular No. 2023-04) namely:
 
 > 1. No statement on the specific purpose, nature, extent, duration,
 > and scope of processing for which consent is used as basis, the
@@ -447,7 +445,7 @@ deemed submitted for decision, to wit:
 
 
 The power of this Commission to issue a Cease and Desist Order is
-explicitly provided in Section 7 (c) of the DPA:
+explicitly provided in [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 (c) of the DPA]]:
 
 > Section 7(c). Issue cease and desist orders, impose a temporary
 > or permanent ban on the processing of personal information,
@@ -1229,7 +1227,7 @@ processed by World App and that no data is stored in the World
 App.[^137]
 
 
-Section 3(l) of the DPA considers personal information issued by
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]] considers personal information issued by
 government agencies peculiar to individuals such as passports and
 government-issued identification cards as sensitive personal
 information.[^138]
@@ -1372,7 +1370,7 @@ obtain the valid consent from which they base their processing of the
 data subjects’ personal data whether in the World App or in the Orb.
 Absent a valid consent, they lack a legal basis for the processing of the
 personal data of data subjects. Hence, the processing of TFH is
-unauthorized under Section 28 of the DPA.
+unauthorized under [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 of the DPA]].
 
 
 ##### II. Violation of the Data Privacy Principles of Transparency,
@@ -1407,7 +1405,7 @@ nature, purpose, and extent of the processing, using clear and plain
 language that is easy to understand.[^153]
 
 
-Section 18 of the IRR of the DPA[^154] elaborates on the data privacy
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 of the IRR]] of the DPA[^154] elaborates on the data privacy
 principle of transparency:
 
 > Section 18. Principles of Transparency, Legitimate Purpose and
@@ -1429,7 +1427,7 @@ principle of transparency:
 
 The requirement to use clear and plain language means that
 information should be provided in as simple a manner as possible.[^156]
-In NPC 19-450, the Commission emphasized the “clear and plain
+In [[decisions/2020/npc-19-450-jrg-v-cxxx|NPC 19-450]], the Commission emphasized the “clear and plain
 language” requirement:
 
 > The requirement to use clear and plain language does not mean
@@ -1904,7 +1902,7 @@ the DPA. Thus, TFH should be held accountable.
 ###### II.B. On Proportionality and Legitimate Purpose
 
 
-Section 11 of the DPA provides:
+[[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] provides:
 
 > Section 11. General Data Privacy Principles. The processing of
 > personal information shall be allowed, subject to compliance
@@ -2180,12 +2178,11 @@ personhood.
 
 
 The Commission finds that TFH, on multiple occasions, violated
-Section 16 of the DPA which outlines the guaranteed rights of data
+[[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]] which outlines the guaranteed rights of data
 subjects.
 
 
-The guaranteed rights of the data subjects are listed under Section 16
-of the DPA:
+The guaranteed rights of the data subjects are listed under Section 16 of the DPA:
 
 > SEC. 16. Rights of the Data Subject. – The data subject is entitled
 > to:
@@ -2236,8 +2233,7 @@ failed to disclose these rights in their key documents.
 
 Second, the Commission finds that TFH’s Privacy Notice[^222] and
 Biometric Consent Form[^223] failed to meet the standards set forth under
-NPC Circular No. 2023-04. The non-compliance to NPC Circular No.
-2023-04 is evident and proven by the Witness Affidavits of TFH’s data
+NPC Circular No. 2023-04. The non-compliance to NPC Circular No. 2023-04 is evident and proven by the Witness Affidavits of TFH’s data
 
 
 subjects (Witness Affidavits)[^224] to wit: 1) data subjects admitted to not
@@ -2446,8 +2442,7 @@ rights of the data subjects.
 
 
 Consistent with the CID’s Comment dated 18 August 2025, this section
-satisfies the requisites under Section 7 (c) of the DPA and NPC Circular
-No. 20-02 for the issuance of a CDO. TFH’s grave and serious
+satisfies the requisites under Section 7 (c) of the DPA and NPC Circular No. 20-02 for the issuance of a CDO. TFH’s grave and serious
 
 
 violations of the DPA, its IRR, and other related issuances warrant the

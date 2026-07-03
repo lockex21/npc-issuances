@@ -64,7 +64,7 @@ Aboitiz Land also stated that it has not notified the affected data subjects and
 
 On 19 October 2020, the CID issued an Order requiring Aboitiz Land to submit a Full Report pursuant to Section 17, Rule V of NPC Circular No. 16-03, detailing the incident containing the information provided therein.[^18]
 
-On 19 October 2022, the CID issued an Order requiring Aboitiz Land to submit a Post-Breach Report containing proper documentation of the security measures it implemented, proof of communication and notification to the data subjects, the outcome of the routine security assessments it has undertaken, and other proof of compliance with the Data Privacy Act of 2012 (DPA).[^19]
+On 19 October 2022, the CID issued an Order requiring Aboitiz Land to submit a Post-Breach Report containing proper documentation of the security measures it implemented, proof of communication and notification to the data subjects, the outcome of the routine security assessments it has undertaken, and other proof of compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^19]
 
 Accordingly, Aboitiz Land submitted its Post-Breach Report dated 03 November 2022 containing therein statements regarding the security measures it has taken to address the breach.[^20] Aboitiz Land stated that it had internal meetings with the departments concerned to conduct further investigations.[^21] Aboitiz Land emphasized that—
 

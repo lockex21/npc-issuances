@@ -23,7 +23,7 @@ Re: OBTAINING EMPLOYMENT RECORD OR CERTIFICATION FROM THE SOCIAL SECURITY SYSTEM
 
 Dear [Redacted],
 
-We write in response to your inquiry received by the National Privacy Commission (NPC or the Commission) to provide clarity on the permissibility of obtaining service records of individuals from the Social Security System (SSS) considering the provisions of the Data Privacy Act of 2012[^1] (DPA).
+We write in response to your inquiry received by the National Privacy Commission (NPC or the Commission) to provide clarity on the permissibility of obtaining service records of individuals from the Social Security System (SSS) considering the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA).
 
 From your email, we understand that VeritasPay Philippines, Inc. (VeritasPay) is a party to
 an ongoing labor case filed by its previous employees with the National Labor Relations

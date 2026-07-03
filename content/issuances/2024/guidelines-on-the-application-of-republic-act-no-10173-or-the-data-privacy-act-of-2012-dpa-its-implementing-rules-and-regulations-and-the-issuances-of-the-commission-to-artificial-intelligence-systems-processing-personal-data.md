@@ -19,7 +19,7 @@ draft: false
 
 **Advisory No. 2024-04**
 
-**Subject:** GUIDELINES ON THE APPLICATION OF REPUBLIC ACT NO. 10173 OR THE DATA PRIVACY ACT OF 2012 (DPA), ITS IMPLEMENTING RULES AND REGULATIONS, AND THE ISSUANCES OF THE COMMISSION TO ARTIFICIAL INTELLIGENCE SYSTEMS PROCESSING PERSONAL DATA
+**Subject:** GUIDELINES ON THE APPLICATION OF [[laws/data-privacy-act-of-2012|REPUBLIC ACT NO. 10173]] OR THE DATA PRIVACY ACT OF 2012 (DPA), ITS [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IMPLEMENTING RULES AND REGULATIONS]], AND THE ISSUANCES OF THE COMMISSION TO ARTIFICIAL INTELLIGENCE SYSTEMS PROCESSING PERSONAL DATA
 
 WHEREAS, Section 7 (g) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]) empowers the National Privacy Commission (NPC) to publish, on a regular basis, a guide to all laws relating to data protection;
 

@@ -43,9 +43,9 @@ Finally, we understand that the Requesting Party in his letter-request cited mul
 
 #### Special Cases; Information About Government Officers or Employees; Information About an Individual’s Education; Sensitive Personal Information
 
-The Requesting Party cited Section 4 of the DPA regarding information about an individual working for the government as justification for the release of the academic records. Section 4 of the DPA provides for its scope and the special cases in which the law may not be applicable.
+The Requesting Party cited [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] regarding information about an individual working for the government as justification for the release of the academic records. Section 4 of the DPA provides for its scope and the special cases in which the law may not be applicable.
 
-Section 4 (a) of the DPA, as expounded in Section 5 (a) (1) of the Implementing Rules and Regulations[^2] (IRR) of the DPA states that:
+Section 4 (a) of the DPA, as expounded in Section 5 (a) (1) of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^2] (IRR) of the DPA states that:
 
 > Section 5. Special Cases. The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:
 >
@@ -66,11 +66,11 @@ The exclusion of the above information from the scope of the law is limited to t
 
 Nevertheless, the exemption does not extend to personal information controllers (PICs) or personal information processors (PIPs), who remain subject to the requirements of implementing security measures for personal data protection.[^4]
 
-In this instance, the requested information relates to the Data Subject’s position or functions in CHMSC, particularly as his academic records form part of his qualifications as a member of CHMSC faculty. This falls squarely under Section 5 of the DPA’s IRR which may warrant the grant of the request, but only to the minimum extent necessary to achieve the specific purpose of the Requesting Party.
+In this instance, the requested information relates to the Data Subject’s position or functions in CHMSC, particularly as his academic records form part of his qualifications as a member of CHMSC faculty. This falls squarely under [[laws/data-privacy-act-of-2012#section-5-protection-afforded-to-journalists-and-their-sources|Section 5 of the DPA]]’s IRR which may warrant the grant of the request, but only to the minimum extent necessary to achieve the specific purpose of the Requesting Party.
 
 #### Filing of Complaint Before the Office of the Ombudsman; Section 13(f)
 
-In addition, we note that aside from the administrative complaint before the CHMSC, another purpose of the request is to support a complaint before the Office of the Ombudsman. This processing of sensitive personal information of the Data Subject for the complaint before the Office of the Ombudsman may also find basis under Section 13 of the DPA.
+In addition, we note that aside from the administrative complaint before the CHMSC, another purpose of the request is to support a complaint before the Office of the Ombudsman. This processing of sensitive personal information of the Data Subject for the complaint before the Office of the Ombudsman may also find basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 Specifically, Section 13 (f) recognizes the processing which concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.[^5]
 
@@ -98,6 +98,6 @@ OIC-Director IV, Privacy Policy Office
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
 [^3]: *Id.* § 5 (a).
-[^4]: National Privacy Commission, NPC Advisory Opinion No. 2017-056 (Sept. 20, 2017) citing the Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
+[^4]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-056-npc-advisoryopinionno-2017-056|NPC Advisory Opinion No. 2017-056]] (Sept. 20, 2017) citing the Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
 [^5]: Data Privacy Act of 2012, § 13 (f).
-[^6]: National Privacy Commission, NPC 19-653 (Dec. 17, 2020)
+[^6]: National Privacy Commission, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020)

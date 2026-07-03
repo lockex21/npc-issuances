@@ -59,7 +59,7 @@ which would significantly enhance integrity in the financial system
 ### Discussion
 
 You now ask whether the processing of sensitive personal information for the said proposals
-may fall under Section 13 (f) of the Data Privacy Act of 2012[^2] (DPA) which allows processing
+may fall under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the Data Privacy Act of 2012]][^2] (DPA) which allows processing
 of personal data for the protection of lawful rights and interests of natural or legal persons.
 You further ask on whether a court order is required under the said lawful basis or if a
 regulatory issuance by the BSP on fraud information sharing guidelines shall suffice.
@@ -103,7 +103,7 @@ required legal claims have already been established.”
             “necessary” to the second instance in Section 13(f) therefore, serves to limit the potentially
             broad concept of “establishment of legal claims” consistent with the general principles of
             legitimate purpose and proportionality. As regards legitimate purpose, the
-            Implementing Rules and Regulations (IRR) of the Data Privacy Act provides that the
+            [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the
             processing of information shall be compatible with a declared and specified purpose
             which must not be contrary to law, morals, or public policy. This means that the
             processing done for the establishment of a legal claim should not in any manner be
@@ -121,7 +121,7 @@ legal claims in relation to fraud investigations and fraud prevention may be all
 Section 13 (f) of the DPA. The same does not require an existing court proceeding, and thus,
 such processing will not necessarily require a court order.
 
-As we also discussed in Advisory Opinion No. 2021-017,[^5] requests for information from online
+As we also discussed in [[advisory-opinions/2021/advisory-opinion-no-2021-017-intellectual-property-investigation-and-enforcement-agencies-rights-to-inquiry-and-request-for-personal-information|Advisory Opinion No. 2021-017]],[^5] requests for information from online
 platforms and financial intermediaries by government agencies may come in various forms,
 i.e., courts orders, subpoenas, officially issued orders, memoranda, letters, and other
 communication, among others, depending on several factors, such as the stage of the
@@ -171,7 +171,7 @@ Hence, the disclosure of personal information, i.e., name, address, delivery add
 address, and mobile or other contact number, by online merchants, financial technology
 companies, digital payment platforms and telecommunications entities to credit card issuers
 or banks, or bank transaction details from one bank to another affected bank or electronic
-money issuer, for purposes of fraud investigation is allowed under Section 12 (f) of the DPA.
+money issuer, for purposes of fraud investigation is allowed under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]].
 
 As to the disclosure of such personal information to law enforcement, regulatory, or
 investigative agencies, the same may find basis under Section 12 (c), where processing is
@@ -241,7 +241,7 @@ OIC – Director IV, Privacy Policy Office
 
 [^2]: Data Privacy Act of 2012, § 13 (f) (2012).
 
-[^3]: National Privacy Commission, BGM vs. IPP [NPC 19-653] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
+[^3]: National Privacy Commission, BGM vs. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
 
 [^4]: National Privacy Commission, BGM vs. IPP [NPC 19-653] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
 
@@ -249,14 +249,14 @@ OIC – Director IV, Privacy Policy Office
 
 [^6]: Id.
 
-[^7]: National Privacy Commission, NPC Advisory Opinion No. 2020-039 (Oct. 30, 2020) citing NPC Case No. 17-047.
+[^7]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-039-redacted-advisory-opinion-no-2020-039-2|NPC Advisory Opinion No. 2020-039]] (Oct. 30, 2020) citing NPC Case No. 17-047.
 
-[^8]: National Privacy Commission, NPC Advisory Opinion No. 2017-063 (Oct. 9, 2017) citing Article 29 of Directive 95/46/EC "Working document on Blacklists", Adopted on 3 October 2002, available at http://ec.europa.eu/justice/policies/privacy/docs/wpdocs/2002/wp65_en.pdf
+[^8]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-063-npc-advisoryopinionno-2017-063|NPC Advisory Opinion No. 2017-063]] (Oct. 9, 2017) citing Article 29 of Directive 95/46/EC "Working document on Blacklists", Adopted on 3 October 2002, available at http://ec.europa.eu/justice/policies/privacy/docs/wpdocs/2002/wp65_en.pdf
 
 [^9]: Data Privacy Act of 2012, § 11 (b).
 
 [^10]: Id. § 11 (c).
 
-[^11]: National Privacy Commission, Guidelines on Privacy Impact Assessments [NPC Advisory No. 2017-03] (July 31, 2017).
+[^11]: National Privacy Commission, Guidelines on Privacy Impact Assessments [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]] (July 31, 2017).
 
-[^12]: National Privacy Commission, Data Subject Rights [NPC Advisory No. 2021-01] (Jan. 29, 2021).
+[^12]: National Privacy Commission, Data Subject Rights [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] (Jan. 29, 2021).

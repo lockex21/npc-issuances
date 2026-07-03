@@ -31,7 +31,7 @@ We understand that you sent Cashalo a request via email for deletion of your acc
 
 #### Data subjects’ rights; withdrawal of consent; procedure for the exercise of rights
 
-Section 16 of the Data Privacy Act of 2012[^2] (DPA) and Section 34 of its Implementing Rules and Regulations (IRR), provide for the rights of the data subjects. In particular, Section 34 (e) of the IRR states:
+[[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the Data Privacy Act of 2012]][^2] (DPA) and Section 34 of its Implementing Rules and Regulations (IRR), provide for the rights of the data subjects. In particular, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 (e) of the IRR]] states:
 
 > e. Right to Erasure or Blocking. The data subject shall have the right to suspend, withdraw or order the blocking, removal or destruction of his or her personal data from the personal information controller’s filing system.
 >

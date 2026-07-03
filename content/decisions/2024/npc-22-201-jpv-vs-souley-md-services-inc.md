@@ -70,7 +70,7 @@ On 24 February 2022, SMSI and Dr. JLT filed a complaint-affidavit for cyber libe
 
 According to SMSI, the Facebook post and comments "tarnished the image of Christ the Healer Hospital" as the malicious imputations in the post caused "dishonor and discredit" to the hospital not only in Southern Leyte but also in neighboring municipalities.[^12]
 
-On 07 September 2022, JPV filed a Complaint before the National Privacy Commission (NPC) against SMSI, Dr. JLT, and other corporate officers of SMSI for a violation of Section 32 (Unauthorized Disclosure) of the DPA.[^13] According to JPV, she was stunned that SMSI attached and disclosed her medical records in the complaint-affidavit.[^14]
+On 07 September 2022, JPV filed a Complaint before the National Privacy Commission (NPC) against SMSI, Dr. JLT, and other corporate officers of SMSI for a violation of [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].[^13] According to JPV, she was stunned that SMSI attached and disclosed her medical records in the complaint-affidavit.[^14]
 
 JPV also argued that SMSI and Dr. JLT filed a complaint-affidavit against a "digital person" and a Facebook user named "CPV," whom they erroneously thought was her daughter.[^15] She also said that she personally confronted her daughter, who denied writing about the social media post in question.[^16]
 
@@ -90,9 +90,9 @@ On 25 November 2022, the CID issued an Order noting Complainant's Compliance and
 
 On 20 December 2022, SMSI submitted its Memorandum.[^34]
 
-In its Memorandum, SMSI argued that the use of the medical records is allowed under Section 13 (f) of the DPA, which allows for the processing of sensitive personal information when necessary for the protection of lawful rights and interests of natural and legal persons in court proceedings or the establishment, exercise, or defense of legal claims, or when provided to government or public authority.[^35]
+In its Memorandum, SMSI argued that the use of the medical records is allowed under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]], which allows for the processing of sensitive personal information when necessary for the protection of lawful rights and interests of natural and legal persons in court proceedings or the establishment, exercise, or defense of legal claims, or when provided to government or public authority.[^35]
 
-SMSI also argued that a data subject's rights are not applicable to the processing of personal data gathered for investigations in relation to criminal liabilities of a data subject under Section 37 of the Implementing Rules and Regulations of the DPA (IRR).[^36] Lastly, SMSI reasoned that the medical records were owned by Christ the Healer Hospital and that CPV's posts caused dishonor and damage to it.[^37] SMSI prayed that JPV's Complaint be dismissed.[^38]
+SMSI also argued that a data subject's rights are not applicable to the processing of personal data gathered for investigations in relation to criminal liabilities of a data subject under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-37-limitation-on-rights|Section 37 of the Implementing Rules and Regulations]] of the DPA (IRR).[^36] Lastly, SMSI reasoned that the medical records were owned by Christ the Healer Hospital and that CPV's posts caused dishonor and damage to it.[^37] SMSI prayed that JPV's Complaint be dismissed.[^38]
 
 On 23 December 2022, JPV submitted her Memorandum.[^39] According to JPV, the complaint-affidavit for the cyber libel case attached twenty (20) medical records that pertain to her health status while being confined at the Christ the Healer Hospital.[^40]
 
@@ -112,7 +112,7 @@ The Commission dismisses the case for lack of merit. SMSI did not violate the DP
 
 In its cyber libel complaint, SMSI attached JPV's Admission and Discharge Records containing details on her diagnosis and operation and procedures administered, doctor's orders, nurse's notes, medical administration records, blood test results, antigen test results, temperature, pulse, and respiration (TPR) chart, discharge summary, and emergency room intervention form.[^48]
 
-Section 3 (l) of the DPA defines sensitive personal information:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]] defines sensitive personal information:
 
 > Section 3. *Definition of Terms.* Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -141,7 +141,7 @@ The purpose for attaching these medical records applies in both instances provid
 
 The qualifier "necessary" in the mentioned provision pertains to the general privacy principle of proportionality.
 
-Section 11 of the DPA provides:
+[[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] provides:
 
 > Section 11. *General Data Privacy Principles.* The processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.
 >
@@ -153,7 +153,7 @@ Section 11 of the DPA provides:
 >
 > (d) **Adequate and not excessive in relation to the purposes for which they are collected and processed**.[^54]
 
-Section 18 of the IRR also elaborates on proportionality:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 of the IRR]] also elaborates on proportionality:
 
 > Section 18. *Principles of Transparency, Legitimate Purpose and Proportionality.* The processing of personal data shall be allowed subject to adherence to the principles of transparency, legitimate purpose, and proportionality.
 >
@@ -292,5 +292,5 @@ GENERAL RECORDS UNIT
 [^58]: Diaz v. People, G.R. No. 159787 (2007).
 [^59]: Data Privacy Act of 2012, § 13 (f).
 [^60]: *Id.* § 32.
-[^61]: JCB v. FRL, NPC 21-031, 03 March 2022, at 15, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-031-2022.03.03-JCB-v.-FRL-Decision-FinalP.pdf.
+[^61]: JCB v. FRL, [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], 03 March 2022, at 15, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-031-2022.03.03-JCB-v.-FRL-Decision-FinalP.pdf.
 [^62]: Memorandum for Respondent, 20 December 2022, at 10, in JPV v. Souley MD Services, Inc., NPC 22-201 (NPC 2022).

@@ -92,7 +92,7 @@ vi. Whether GC provided sufficient evidence of compliance.
 
 The National Privacy Commission is an independent body mandated to administer and implement the Data Privacy Act of 2012 (DPA), and to monitor and ensure compliance of the country with international standards set for data protection.[^3] Section 7 (a) and (d) of the DPA specifically provides that the NPC is mandated to ensure compliance of personal information controllers with the provisions of the act and compel or petition any entity, government agency or instrumentality to abide by its orders or take action on a matter affecting data privacy, respectively.
 
-Corollary to the foregoing, Section 6 of the DPA explicitly provides for the extraterritorial application of the DPA to wit:
+Corollary to the foregoing, [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|Section 6 of the DPA]] explicitly provides for the extraterritorial application of the DPA to wit:
 
 > SEC. 6. Extraterritorial Application. – This Act applies to an act done or practice engaged in and outside of the Philippines by an entity if:
 >

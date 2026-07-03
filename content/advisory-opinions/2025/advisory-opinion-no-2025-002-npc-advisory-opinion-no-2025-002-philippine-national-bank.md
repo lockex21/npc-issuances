@@ -38,7 +38,7 @@ However, you mention that the Bank has encountered significant challenges in obt
 
 In a report by the Bank’s Property Valuation and Credit Information Division, it was noted that asset searches could not proceed in several key locations due to the lack of authorization from the registered owner to conduct leviable property verification, including instances where the registered owner is a juridical person. Consequently, the Bank asserts that this restriction has severely hindered its ability to make informed business decisions regarding the collectability of debts and the pursuit of legal remedies.
 
-The Bank posits that its asset search activities are justified under Section 13(f) of the Data Privacy Act of 2012 (DPA)[^2], which means that it need not obtain the registered owner’s consent. The Bank submits that this provision recognizes the necessity of processing personal data to protect the Bank’s lawful rights and interests, particularly in ensuring due diligence in its lending operations and safeguarding its financial stability.
+The Bank posits that its asset search activities are justified under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the Data Privacy Act of 2012]] (DPA)[^2], which means that it need not obtain the registered owner’s consent. The Bank submits that this provision recognizes the necessity of processing personal data to protect the Bank’s lawful rights and interests, particularly in ensuring due diligence in its lending operations and safeguarding its financial stability.
 
 Accordingly, this Advisory Opinion aims to address the issue of whether the Bank may lawfully obtain property information or secure copies of certificates of title and tax declarations from government offices without the property owner's consent, whether it be a natural or juridical person, in relation to the conduct of an asset search.
 
@@ -76,7 +76,7 @@ compliance with the DPA's provisions remains necessary.
 
 #### Lawful basis for processing under the DPA; Sec. 12(f) Legitimate Interest; Sec. 13(f) Establishment of Legal Claims.
 
-Section 12 of the DPA outlines the lawful bases for processing personal information of natural persons. In this context, the Bank may rely on the lawful ground of legitimate interest under Section 12(f), which states:
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] outlines the lawful bases for processing personal information of natural persons. In this context, the Bank may rely on the lawful ground of legitimate interest under Section 12(f), which states:
 
 > The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
 
@@ -104,13 +104,13 @@ status) contained in a TCT or tax declaration when the processing is necessary f
 of lawful rights and interests of natural or legal persons in court proceedings, or the
 establishment, exercise or defense of legal claims.
 
-In this case, the Bank’s request for property information pursuant to an asset search is essential in establishing or defending its legal claims against a defaulting borrower, which may or may not result to the filing of an actual case. The term “establishment” under Section 13(f) of the Data Privacy Act of 2012 (DPA) may extend to obtaining evidence by lawful means for prospective legal proceedings, which are not limited to actual cases filed in court. In BGM vs. IPP (NPC Case No. NPC 19-653), citing EA and TA vs. EJ, EE and HC (NPC Case No. 17-018) dated July 15, 2019, the NPC clarified:
+In this case, the Bank’s request for property information pursuant to an asset search is essential in establishing or defending its legal claims against a defaulting borrower, which may or may not result to the filing of an actual case. The term “establishment” under Section 13(f) of the Data Privacy Act of 2012 (DPA) may extend to obtaining evidence by lawful means for prospective legal proceedings, which are not limited to actual cases filed in court. In BGM vs. IPP (NPC Case No. [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]]), citing EA and TA vs. EJ, EE and HC (NPC Case No. 17-018) dated July 15, 2019, the NPC clarified:
 
 > To require a court proceeding for the application of Section 13(f) would disregard the distinction in the law and its clear intent. The very concept of ‘establishment … of legal claims’ presupposes that no case has been filed yet, as a case will only be initiated once legal claims have been established.
 
 Given these considerations, the processing of personal data in connection with the Bank’s efforts to establish or protect its legal claim is allowed under the DPA. In cases where documents such as certificates of title or tax declarations are sought by the Bank to properly evaluate or assert potential claims against a borrower, the relevant government agency may disclose the requested documents without the registered owner’s consent, provided that applicable laws, policies, and procedures are duly followed.
 
-NPC Advisory Opinion No. 2019-013[^5] also clarified that a person other than the registered owner of a real property or their authorized representative may obtain a copy of a tax declaration, particularly when the document is necessary for the establishment of a legal claim. This opinion stated that the assessor’s office may grant such a request if the requesting party establishes that the tax declaration is material to the case or necessary for the establishment, exercise, or defense of a legal claim. This remains subject to existing policies, regulations, and procedures, including payment of fees.
+[[advisory-opinions/2019/advisory-opinion-no-2019-013-npc-advisory-opinion-no-2019-013|NPC Advisory Opinion No. 2019-013]][^5] also clarified that a person other than the registered owner of a real property or their authorized representative may obtain a copy of a tax declaration, particularly when the document is necessary for the establishment of a legal claim. This opinion stated that the assessor’s office may grant such a request if the requesting party establishes that the tax declaration is material to the case or necessary for the establishment, exercise, or defense of a legal claim. This remains subject to existing policies, regulations, and procedures, including payment of fees.
 
 The Bank’s legitimate interest in securing payment and protecting its financial exposure qualifies
 as an actual and lawful basis for limited and proportionate data processing under the provisions
@@ -130,6 +130,6 @@ Director IV, Privacy Policy Office
 
 [^1]: Scope of DPA; Lawful processing; legitimate interest; legal claims.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
-[^3]: NPC Advisory Opinion No. 2023-002 (Jan. 18, 2023).
+[^3]: [[advisory-opinions/2023/advisory-opinion-no-2023-002-advisory-opinion-no-2023-002|NPC Advisory Opinion No. 2023-002]] (Jan. 18, 2023).
 [^4]: National Privacy Commission, Guidelines on Legitimate Interest, NPC Circular No. 2023 – 07, (13 December 2023).
 [^5]: NPC Advisory Opinion No. 2019-013 (Apr. 01, 2019).

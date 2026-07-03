@@ -31,7 +31,7 @@ One of the duties of the task force is to issue the guidelines for the selection
 
 Thus, the DOE drafted the guidelines for the composition, selection and voting of Sectoral Representatives and Members of the RPITF and NPPTF. The draft guidelines provide for the creation of an election committee in charge of the election of sectoral representatives. It also tasks the DOE to publish and provide the election committee with all the relevant personal information of individuals who wish to take part in the election, such as: 1. business name of LPG establishment; 2. name of the owner; 3. name of authorized representative; and 4. business address.
 
-Hence, you seek guidance on how to properly process the foregoing data for the elections consistent with the Data Privacy Act.[^4]
+Hence, you seek guidance on how to properly process the foregoing data for the elections consistent with the [[laws/data-privacy-act-of-2012|Data Privacy Act]].[^4]
 
 #### Scope of the DPA; Personal Information
 
@@ -66,6 +66,6 @@ Director IV, Privacy Policy Office
 [^5]: Ibid. § 4
 [^6]: Ibid. § 3 (g)
 [^7]: Id. § 3 (j)
-[^8]: National Privacy Commission, NPC Advisory Opinion No. 2020-052 (27 November 2020)
+[^8]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-052-redacted-advisory-opinion-no-2020-052-2|NPC Advisory Opinion No. 2020-052]] (27 November 2020)
 [^9]: Data Privacy Act of 2012, § 12 (e).
 [^10]: LPG Industry Regulation Act (2021), § 5

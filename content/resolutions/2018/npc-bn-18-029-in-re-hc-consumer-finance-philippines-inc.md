@@ -58,7 +58,7 @@ To assist the data subjects who may have been negatively affected by the breach,
 
 HCPH also applied for exemption from data subject notification:
 
-In addition, HCPH would like to apply for an exemptive relief of the requirement of Section 38(c) of the Implementing Rules and Regulations (IRR) which states that the Personal Information Controller (PIC) shall notify the affected data subjects within seventy-two (72) hours upon knowledge of, or when there is reasonable belief by the PIC that a personal data breach requiring notification has occurred. Our request is based on the following premises:
+In addition, HCPH would like to apply for an exemptive relief of the requirement of [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-38-data-breach-notification|Section 38(c) of the Implementing Rules and Regulations]] (IRR) which states that the Personal Information Controller (PIC) shall notify the affected data subjects within seventy-two (72) hours upon knowledge of, or when there is reasonable belief by the PIC that a personal data breach requiring notification has occurred. Our request is based on the following premises:
 
 1. Immediately after the breach, HCPH has applied appropriate technical and organization measures to protect the personal data and to ensure that high risk posed to data subjects is no longer likely to materialize. Actions taken are as follows:
    a. Deployed a script to wipe data/files the next time the stolen laptop connects to the internet and it will be reformatted automatically; and
@@ -121,7 +121,7 @@ Here, the first requisite is present. The breach involves sensitive personal inf
 
 According to HCPH, the information involved consists of HCPH customers’ dates of birth and copies of their identification documents such as Voter’s ID, Passport, UMID, SSS ID, and Driver’s License.[^37] These contain sensitive personal information under Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
 
-Section 3(l) of the DPA provides:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]] provides:
 
 > **Section 3. Definition of Terms.** – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -269,7 +269,7 @@ GENERAL RECORDS UNIT
 [^32]: Id. Annex C.
 [^33]: Id. Annex D.
 [^34]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 11 (15 December 2016).
-[^35]: In re: Pacific Plaza Towers Condominium Corporation, NPC BN 18-138, 13 November 2023, at 7, available at https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-BN-18-138-2023.11.13-In-re-Pacific-Plaza-Resolution-Final.pdf (last accessed 03 December 2024).
+[^35]: In re: Pacific Plaza Towers Condominium Corporation, [[resolutions/2018/npc-bn-18-138-in-re-pacific-plaza-resolution|NPC BN 18-138]], 13 November 2023, at 7, available at https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-BN-18-138-2023.11.13-In-re-Pacific-Plaza-Resolution-Final.pdf (last accessed 03 December 2024).
 [^36]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers, NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-COMELEC-Decision-FinalP.pdf (last accessed 25 September 2024).
 [^37]: Data Breach Notification, 01 March 2018, at 4, in In re: HC Consumer Finance Philippines, Inc., NPC BN 18-029 (NPC 2018).
 [^38]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3(l) (2012). Emphasis supplied.

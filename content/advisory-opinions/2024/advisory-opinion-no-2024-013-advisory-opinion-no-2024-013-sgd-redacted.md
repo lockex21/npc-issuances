@@ -65,7 +65,7 @@ vii. Government issued IDs such as passports, driver’s license.
 Thus, you seek guidance on the following:
 
 1. Whether the names of the MYC member’s vessels are considered as personal information under the DPA; and
-2. Whether granting the requests of the PCG and/or the BI for other information and/or examination of records may be deemed a violation of Section 32 of the DPA?
+2. Whether granting the requests of the PCG and/or the BI for other information and/or examination of records may be deemed a violation of [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 of the DPA]]?
 
 Considering that the issues you present are interrelated, we shall discuss them jointly.
 
@@ -75,7 +75,7 @@ The DPA defines personal information as any information from which the identity 
 individual is apparent or can be reasonably and directly ascertained, or when put together
 with other information would directly and certainly identify an individual.[^3] Meanwhile,
 sensitive personal information (SPI) are those personal information specifically classified
-under Section 3(l) of the DPA as sensitive. Both terms are jointly referred to as personal data.
+under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]] as sensitive. Both terms are jointly referred to as personal data.
 
 Thus, whether the name of the vessel of an MYC member, or information on yacht movement,
 constitutes personal information would depend on the context of the disclosure.

@@ -34,7 +34,7 @@ In view of the foregoing, you specifically asked if online merchants such as Met
 
 #### Criteria for Lawful Processing of Personal and Sensitive Personal Information
 
-Online merchants, including MetroDeal, as personal information controllers[^2] under the Data Privacy Act of 2012 (DPA), may save the credit card details and other personal information of their customers pursuant to the various criteria for lawful processing of personal as well as sensitive personal information under Sections 12 and 13 of the DPA, specifically the following provisions:
+Online merchants, including MetroDeal, as personal information controllers[^2] under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), may save the credit card details and other personal information of their customers pursuant to the various criteria for lawful processing of personal as well as sensitive personal information under Sections 12 and 13 of the DPA, specifically the following provisions:
 
 > **SECTION 12. Criteria for Lawful Processing of Personal Information.** — The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >

@@ -25,8 +25,8 @@ Dear [Redacted],
 
 This refers to your inquiry received by the National Privacy Commission (NPC) via email.
 You sought for clarification on the compliance of an insurance company with the
-requirements of Republic Act No. 10173,1 otherwise known as the Data Privacy Act of 2012
-(DPA) and its Implementing Rules and Regulation (IRR), in relation to a privacy policy
+requirements of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],1 otherwise known as the Data Privacy Act of 2012
+(DPA) and its Implementing Rules and Regulation ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), in relation to a privacy policy
 submitted by the said insurance company pursuant to the requirement under Insurance
 Commission (IC) Circular Letter (CL) No. 2014-47 - Guidelines on Electronic Commerce of
 Insurance Products. A copy of the privacy policy is attached herewith as Annex “A.”

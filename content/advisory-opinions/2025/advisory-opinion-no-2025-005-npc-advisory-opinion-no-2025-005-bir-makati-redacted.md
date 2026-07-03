@@ -73,9 +73,9 @@ authorities, to wit:
                    only to the minimum extent necessary to achieve the specific purpose, function,
                    or activity.
 
-In NPC Advisory Opinion No. 2024-016,[^4] we opined that:
+In [[advisory-opinions/2024/advisory-opinion-no-2024-016-npc-advisory-opinion-no-2024-016-disclosure-of-personal-data-pursuant-to-a-mo-by-the-bir-sgd-redacted|NPC Advisory Opinion No. 2024-016]],[^4] we opined that:
 
-   Hence, information required by a public authority in the exercise of its regulatory function pursuant to its constitutional or statutory mandate falls outside the DPA's scope. However, as we have previously stated in Advisory Opinion No. 2020-015,[^5] this exemption must be interpreted strictly such that:
+   Hence, information required by a public authority in the exercise of its regulatory function pursuant to its constitutional or statutory mandate falls outside the DPA's scope. However, as we have previously stated in [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|Advisory Opinion No. 2020-015]],[^5] this exemption must be interpreted strictly such that:
 
    1.   It applies solely to the minimum necessary collection, access, use, disclosure, or other
               processing related to the specific purpose, function, or activity. Any processing for
@@ -153,7 +153,7 @@ local government offices such as the BPLO, which may be in possession of the req
 
 Given that this request falls within the scope of BIR’s statutory mandate and that the
 information being sought is in fulfillment of that mandate, such processing of personal data
-in this context is deemed lawful under the DPA. In this regard, Section 4 of the DPA, in
+in this context is deemed lawful under the DPA. In this regard, [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]], in
 relation to Section 5 of its IRR provides for a valid basis for such processing. As such, the
 BPLO cannot resort to invoking the absence of consent to refuse disclosure of the requested
 information as consent is not the only lawful criterion for processing personal data under the
@@ -174,7 +174,7 @@ involved in the transfer of personal data between or among them, including the
 implementation of adequate safeguards for data privacy and security, and upholding the
 rights of the data subjects.
 
-In Advisory Opinion No. 2021-043,[^7] the NPC clarified that the execution of a DSA is not
+In [[advisory-opinions/2021/advisory-opinion-no-2021-043-data-sharing-with-the-philippine-national-police|Advisory Opinion No. 2021-043]],[^7] the NPC clarified that the execution of a DSA is not
 mandatory under existing regulations:
 
    “SECTION 8. Data sharing agreement; key considerations. — Data sharing may be covered by a data sharing agreement (DSA) or a similar document containing the terms and conditions of the sharing arrangement, including obligations to protect the personal data shared, the responsibilities of the parties, mechanisms through which data subjects may exercise their rights, among others.
@@ -194,8 +194,7 @@ While the BIR may have the statutory mandate, it is incumbent upon the agency to
 with its own procedures, as well as the internal procedures of where the data will be sourced
 from, which in this case, refers to the BPLO.
 
-In NPC Advisory Opinion 2023-015,[^8] we discussed that for Section 4(e) of the DPA and Section
-5(d) of the Implementing Rules and Regulations of the DPA to apply, the following should be
+In NPC Advisory Opinion 2023-015,[^8] we discussed that for Section 4(e) of the DPA and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5(d) of the Implementing Rules and Regulations]] of the DPA to apply, the following should be
 considered:
 
        The information is necessary in order to carry out the law enforcement or regulatory
@@ -236,7 +235,7 @@ While the processing of the taxpayers’ personal data is justified, we nonethel
 BIR to adhere to the general data privacy principles of transparency, legitimate purpose and
 proportionality.
 
-Section 11 of the DPA mandates that personal information obtained must be:
+[[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] mandates that personal information obtained must be:
 
    (a) Collected for specified and legitimate purposes determined and declared before, or
               as soon as reasonably practicable after collection, and later processed in a way
@@ -293,7 +292,7 @@ Director IV, Privacy Policy Office
 
 [^7]: National Privacy Commission, Re: Data Sharing with the Philippine National Police, Advisory Opinion No. 2021-043 (16 December 2021)
 
-[^8]: National Privacy Commission, Re: Disclosure to the National Bureau of Investigation of the Record of Barangay Inhabitants, NPC Advisory Opinion No. 2023-015 (24 August 2023)
+[^8]: National Privacy Commission, Re: Disclosure to the National Bureau of Investigation of the Record of Barangay Inhabitants, [[advisory-opinions/2023/advisory-opinion-no-2023-015-advisory-opinion-no-2023-015|NPC Advisory Opinion No. 2023-015]] (24 August 2023)
 
 [^9]: NBI Reorganization and Modernization Act
 

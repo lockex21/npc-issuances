@@ -41,7 +41,7 @@ x-----------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-For consideration of this Commission is the Motion for Reconsideration filed by Respondent Fynamics Lending Inc., operating the PondoPeso Online Lending Application, and its Board of Directors (Fynamics) of the Decision dated 17 December 2020. In that Decision, this Commission found that the Respondents have violated Section 25 of the Data Privacy Act of 2012 (DPA):
+For consideration of this Commission is the Motion for Reconsideration filed by Respondent Fynamics Lending Inc., operating the PondoPeso Online Lending Application, and its Board of Directors (Fynamics) of the Decision dated 17 December 2020. In that Decision, this Commission found that the Respondents have violated [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the Data Privacy Act of 2012]] (DPA):
 
 > WHEREFORE, all these premises considered, this Commission hereby:
 >
@@ -81,7 +81,7 @@ The Commission denies the Respondent's Motion for Reconsideration.
 
 The Commission finds that there are no new material facts alleged by Respondent Fynamics for its consideration and that it merely reiterated the arguments raised in its Answer dated 15 October 2019 and other previous submissions to the Commission. Nevertheless, this Commission will address each of their arguments to further clarify any misconceptions that Respondent Fynamics may continue to have.
 
-Respondent Fynamics gave an interpretation of the sua sponte investigation under the NPC Circular No. 16-04, stating thus:
+Respondent Fynamics gave an interpretation of the sua sponte investigation under the [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]], stating thus:
 
 > 7. At the onset, it bears stressing that under Rule II, Section 3 of Rule IV, Section 23 of the Rules of Procedure, a sua sponte investigation is not a special investigation but is similar to the proceeding wherein a Complaint is filed before this Honorable Commission. The main difference lies on the fact that it is the Honorable Commission that initiates a sua sponte investigation.
 
@@ -183,7 +183,7 @@ The argument that a sua sponte investigation is unnecessary because of its simil
 
 > The citation of allegations from different pending cases illustrate that the effects of the functionalities of Respondent Fynamics' application, the procedures it implemented coupled with its lack of transparency are not imagined but have translated to seriously harmful effects in the lives of their borrowers, all of whom are considered data subjects under the DPA.[^31]
 
-On the argument that Respondent Fynamics was not afforded the right to mediate as provided in NPC Circular No. 18-03, the Commission notes that this is not the first time that the Respondents raised the issue of mediation. On 16 September 2019, the Respondents filed an Appearance and Omnibus Motion which included a prayer to refer the case for mediation. On 07 October 2019, the Commission issued a Resolution which included a denial of the prayer of Respondents ML, CW, and BBS for the initiation of mediation proceedings:
+On the argument that Respondent Fynamics was not afforded the right to mediate as provided in [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|NPC Circular No. 18-03]], the Commission notes that this is not the first time that the Respondents raised the issue of mediation. On 16 September 2019, the Respondents filed an Appearance and Omnibus Motion which included a prayer to refer the case for mediation. On 07 October 2019, the Commission issued a Resolution which included a denial of the prayer of Respondents ML, CW, and BBS for the initiation of mediation proceedings:
 
 > As regards the prayer of the Respondents ML, CW, and BBS for the initiation of a mediation proceeding and the suspension of the proceedings pending the resolution of their Omnibus Motion, the Rule on Alternative Modes of Dispute Resolution under NPC Circular No. 16-04 finds application, thus:
 >

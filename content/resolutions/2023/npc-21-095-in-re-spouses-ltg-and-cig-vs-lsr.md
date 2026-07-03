@@ -98,7 +98,7 @@ Complainants alleged that in order for the processing should be necessary for th
 >
 > (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.[^24]
 
-Complainants stated that when JMB requested the subject certification there was no case filed.[^25] Hence, Complainants believe that the instant case does not fall under the exception provided in Section 13(f) of the DPA.[^26]
+Complainants stated that when JMB requested the subject certification there was no case filed.[^25] Hence, Complainants believe that the instant case does not fall under the exception provided in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]].[^26]
 
 In the case of EA and TA vs. EJ et. al, this Commission ruled that the application of Section 13(f) of the DPA does not require existing court proceedings.[^27] This Commission held that:
 
@@ -112,7 +112,7 @@ In the case of EA and TA vs. EJ et. al, this Commission ruled that the applicati
 >
 > The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is "necessary" or may or may not be collected by lawyers for purposes of building a case, applying the qualifier "necessary" to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of "establishment of legal claims" consistent with the general principles of legitimate purpose and proportionality.
 >
-> As regards legitimate purpose, the Implementing Rules and Regulations (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.[^28]
+> As regards legitimate purpose, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.[^28]
 
 Based on the foregoing, the Respondent's act of issuing the subject certification is within the ambit of Section 13(f) of DPA.
 

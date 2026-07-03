@@ -40,7 +40,7 @@ Respondent.
 
 x----x
 
-Before this Commission is a complaint filed by Complainant HNT against Respondent Eastwest Bank for an alleged violation of the Data Privacy Act of 2012.
+Before this Commission is a complaint filed by Complainant HNT against Respondent Eastwest Bank for an alleged violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
 
 ### Facts
 

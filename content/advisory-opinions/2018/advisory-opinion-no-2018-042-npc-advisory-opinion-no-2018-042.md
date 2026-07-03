@@ -23,7 +23,7 @@ RE: EMPLOYEE’S RIGHT TO ACCESS EMPLOYMENT RECORDS
 
 Dear [Redacted],
 
-This is in response to your inquiry received by the National Privacy Commission (NPC) regarding the employee’s right to access his employment records, pursuant to Section 16 of Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA). Specifically, you are seeking clarification on the following:
+This is in response to your inquiry received by the National Privacy Commission (NPC) regarding the employee’s right to access his employment records, pursuant to Section 16 of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA). Specifically, you are seeking clarification on the following:
 
 1. Whether an employee can request for a copy of the results (laboratory exam results, ECG paper or x-ray film) of his annual physical exam conducted by the company for personal use;
 2. Whether an employee may request for a copy of his 201 file, including the trainings attended or results of performance evaluation; and

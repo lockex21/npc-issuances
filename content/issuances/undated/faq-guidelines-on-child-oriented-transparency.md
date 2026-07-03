@@ -29,7 +29,7 @@ The Advisory is meant to be one of the first guidance issuances on children's pr
 A child is a person below 18, or a person 18 or older who cannot fully care for or protect themselves because of a physical or mental disability or condition.
 
 3. Why does the Advisory directly address children, even though they lack the legal capacity to act?
-Children remain data subjects and rights holders under the DPA. Their lack of legal capacity does not reduce their rights as data subjects.
+Children remain data subjects and rights holders under the [[laws/data-privacy-act-of-2012|DPA]]. Their lack of legal capacity does not reduce their rights as data subjects.
 
 4. When does the Advisory apply?
 It applies whenever PICs and PIPs process children's personal data, whether the processing happens in a digital or physical setting. It covers products or services intended for children or likely to be accessed by children, and it also applies to extraterritorial processing under the DPA.
@@ -41,7 +41,7 @@ No. The Advisory applies regardless of the lawful basis for processing. It is fo
 That kind of rule would require legislation, not an advisory. It would also affect capacity-to-act rules that are governed by the Civil Code and related laws.
 
 7. What are the enforcement mechanisms and penalties for non-compliance with the Advisory?
-The Advisory does not create new penalties. Existing obligations and enforcement mechanisms under the DPA, its IRR, and other Commission issuances still apply.
+The Advisory does not create new penalties. Existing obligations and enforcement mechanisms under the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other Commission issuances still apply.
 
 8. Will a PIC be given a period to ensure compliance with the provisions of the Advisory?
 No. The Advisory clarifies existing obligations and gives additional guidance for processing children's personal data.
