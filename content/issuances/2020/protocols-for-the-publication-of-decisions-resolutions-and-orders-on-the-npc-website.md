@@ -1,5 +1,6 @@
 ---
 title: "Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website (Advisory No. 2020-01)"
+description: "NPC advisory setting the protocols for publishing Commission En Banc decisions, resolutions, and orders on the NPC website, excluding settled cases, interlocutory issuances, and rulings still subject to reconsideration. It requires a second, pseudonymized version for publication that replaces data subjects' names with fictitious initials and limits disclosure of personal information, applying retroactively to cases already posted."
 aliases:
 - Advisory No. 2020-01
 - advisory no. 2020-01

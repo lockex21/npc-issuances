@@ -1,5 +1,6 @@
 ---
 title: "Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission (Advisory No. 2020-02)"
+description: "NPC advisory allowing parties to complaints and investigations before the Commission to appear and testify remotely by videoconferencing during the COVID-19 public health emergency, supplementing the NPC Rules of Procedure. It sets pre-hearing, hearing, and post-hearing requirements, including written consent of the parties, identity verification, minimum technical standards, and secure recording and storage of proceedings."
 aliases:
 - Advisory No. 2020-02
 - advisory no. 2020-02

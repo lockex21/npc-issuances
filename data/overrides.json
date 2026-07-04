@@ -1,4 +1,45 @@
 {
+  "2021-rules-of-procedure-of-the-national-privacy-commission": {
+    "title": "2021 Rules of Procedure of the National Privacy Commission (Original 2021 Version)",
+    "reference_label": "Circular No. 2021-01",
+    "canonical_reference": "circular no. 2021-01",
+    "aliases": [
+      "2021 rules of procedure of the national privacy commission",
+      "2021 rules of procedure of the npc",
+      "Circular No. 2021-01",
+      "circular no. 2021-01",
+      "npc circular no. 2021-01"
+    ],
+    "issue_date": "January 28, 2021",
+    "issue_date_iso": "2021-01-28",
+    "page_count": 30
+  },
+  "2021-rules-of-procedure-of-the-npc": {
+    "title": "2021 Rules of Procedure of the NPC, as Amended (Current Version)",
+    "reference_label": "Circular No. 2021-01",
+    "canonical_reference": "circular no. 2021-01",
+    "aliases": [
+      "2021 Rules of Procedure of the NPC",
+      "2021 Rules of Procedure of the NPC, as Amended",
+      "2021 NPC Rules of Procedure, as Amended",
+      "Current 2021 NPC Rules of Procedure",
+      "NPC Circular No. 2021-01",
+      "npc circular no. 2021-01"
+    ],
+    "kind": "Circular",
+    "year": "2024",
+    "issue_date": "March 4, 2024",
+    "issue_date_iso": "2024-03-04",
+    "tags": [
+      "issuance",
+      "type/circular",
+      "year/2024"
+    ],
+    "content_path": "content/issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended.md",
+    "notes_path": "content/notes/2024/2021-rules-of-procedure-of-the-npc-as-amended.md",
+    "source_note_path": "content/sources/2024/2021-rules-of-procedure-of-the-npc-as-amended.md",
+    "page_count": 31
+  },
   "security-of-personal-data-in-the-government-and-the-private-sector": {
     "reference_label": "Circular No. 2023-06",
     "canonical_reference": "circular no. 2023-06",

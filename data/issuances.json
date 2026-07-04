@@ -858,6 +858,46 @@
       "ocr_used": false
     },
     {
+      "title": "2021 Rules of Procedure of the NPC, as Amended (Current Version)",
+      "reference_label": "Circular No. 2021-01",
+      "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/03/2021-Rules-of-Procedure-of-the-NPC-As-Amended.pdf",
+      "pdf_path": "cache/pdfs/2021-Rules-of-Procedure-of-the-NPC-As-Amended.pdf",
+      "text_path": "cache/text/2021-Rules-of-Procedure-of-the-NPC-As-Amended.txt",
+      "raw_text_path": "cache/text_raw/2021-Rules-of-Procedure-of-the-NPC-As-Amended.txt",
+      "slug": "2021-rules-of-procedure-of-the-npc",
+      "year": "2024",
+      "kind": "Circular",
+      "canonical_reference": "circular no. 2021-01",
+      "aliases": [
+        "2021 Rules of Procedure of the NPC",
+        "2021 Rules of Procedure of the NPC, as Amended",
+        "2021 NPC Rules of Procedure, as Amended",
+        "Current 2021 NPC Rules of Procedure",
+        "NPC Circular No. 2021-01",
+        "npc circular no. 2021-01"
+      ],
+      "tags": [
+        "issuance",
+        "type/circular",
+        "year/2024"
+      ],
+      "excerpt": "SECTION 1. Title. – These Rules shall be known as the “2021 NPC Rules of Procedure”.",
+      "issue_date": "March 4, 2024",
+      "issue_date_iso": "2024-03-04",
+      "page_count": 31,
+      "citations": [
+        "circular no. 2024-01"
+      ],
+      "outgoing_refs": [
+        "amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission"
+      ],
+      "incoming_refs": [],
+      "content_path": "content/issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended.md",
+      "notes_path": "content/notes/2024/2021-rules-of-procedure-of-the-npc-as-amended.md",
+      "source_note_path": "content/sources/2024/2021-rules-of-procedure-of-the-npc-as-amended.md",
+      "ocr_used": false
+    },
+    {
       "title": "Online Payment",
       "reference_label": null,
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/03/Fees_Advisory_Final_15-March-2024.pdf",
@@ -1650,41 +1690,6 @@
       "ocr_used": false
     },
     {
-      "title": "2021 Rules of Procedure of the NPC",
-      "reference_label": null,
-      "source_url": "https://privacy.gov.ph/wp-content/uploads/2024/03/2021-Rules-of-Procedure-of-the-NPC-As-Amended.pdf",
-      "pdf_path": "cache/pdfs/2021-Rules-of-Procedure-of-the-NPC-As-Amended.pdf",
-      "text_path": "cache/text/2021-Rules-of-Procedure-of-the-NPC-As-Amended.txt",
-      "raw_text_path": "cache/text_raw/2021-Rules-of-Procedure-of-the-NPC-As-Amended.txt",
-      "slug": "2021-rules-of-procedure-of-the-npc",
-      "year": "2021",
-      "kind": "Issuance",
-      "canonical_reference": null,
-      "aliases": [
-        "2021 rules of procedure of the npc"
-      ],
-      "tags": [
-        "issuance",
-        "type/issuance",
-        "year/2021"
-      ],
-      "excerpt": "SECTION 1. Title. – These Rules shall be known as the “2021 NPC Rules of Procedure”.",
-      "issue_date": null,
-      "issue_date_iso": null,
-      "page_count": 31,
-      "citations": [
-        "circular no. 2024-01"
-      ],
-      "outgoing_refs": [
-        "amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission"
-      ],
-      "incoming_refs": [],
-      "content_path": "content/issuances/2021/2021-rules-of-procedure-of-the-npc.md",
-      "notes_path": "content/notes/2021/2021-rules-of-procedure-of-the-npc.md",
-      "source_note_path": "content/sources/2021/2021-rules-of-procedure-of-the-npc.md",
-      "ocr_used": false
-    },
-    {
       "title": "Guidelines On The Processing Of Personal Data During Public Health Emergencies For Public Health Measures",
       "reference_label": "Circular No. 2021-02",
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2021/11/Circular-on-Processing-for-Public-Health-Emergencies-FINAL.pdf",
@@ -1732,7 +1737,7 @@
       "ocr_used": false
     },
     {
-      "title": "2021 Rules of Procedure of the National Privacy Commission",
+      "title": "2021 Rules of Procedure of the National Privacy Commission (Original 2021 Version)",
       "reference_label": "Circular No. 2021-01",
       "source_url": "https://privacy.gov.ph/wp-content/uploads/2021/01/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf",
       "pdf_path": "cache/pdfs/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf",
@@ -1744,6 +1749,8 @@
       "canonical_reference": "circular no. 2021-01",
       "aliases": [
         "2021 rules of procedure of the national privacy commission",
+        "2021 rules of procedure of the npc",
+        "Circular No. 2021-01",
         "circular no. 2021-01",
         "npc circular no. 2021-01"
       ],
@@ -1753,8 +1760,8 @@
         "year/2021"
       ],
       "excerpt": "SECTION 1. Title. – These Rules shall be known as the “2021 NPC Rules of Procedure”.",
-      "issue_date": null,
-      "issue_date_iso": null,
+      "issue_date": "January 28, 2021",
+      "issue_date_iso": "2021-01-28",
       "page_count": 30,
       "citations": [
         "advisory no. 2020-02",

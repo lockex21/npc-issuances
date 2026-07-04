@@ -70,7 +70,6 @@ Ref No.: PDD-26-00093                                    NPC_PPO_PDD_AdTem-V3.0,
          URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
                                                         NPC Advisory No. 2026 - 01 – Guidelines on Data
                                                            Scraping of Publicly Available Personal Data
-                                                                                             Page 2 of 6
 
 SECTION 2. Definition of Terms. — The terms used in the DPA and its IRR, as amended,
 are adopted herein. In addition, whenever used in this Advisory, the following terms are
@@ -127,7 +126,6 @@ Ref No.: PDD-26-00093                                      NPC_PPO_PDD_AdTem-V3.
           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
                                                             NPC Advisory No. 2026 - 01 – Guidelines on Data
                                                                Scraping of Publicly Available Personal Data
-                                                                                                 Page 3 of 6
 
          those reasonably contemplated at the time it was provided, nor does it relieve a PIC of
          its obligations under the DPA.
@@ -182,7 +180,6 @@ Ref No.: PDD-26-00093                                         NPC_PPO_PDD_AdTem-
           URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
                                                              NPC Advisory No. 2026 - 01 – Guidelines on Data
                                                                 Scraping of Publicly Available Personal Data
-                                                                                                  Page 4 of 6
 
 SECTION 4. Unauthorized data scraping practices. — Data scraping is deemed
 unauthorized when it is conducted in violation of applicable laws, the DPA and its IRR, NPC
@@ -242,7 +239,6 @@ Ref No.: PDD-26-00093                                           NPC_PPO_PDD_AdTe
            URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
                                                     NPC Advisory No. 2026 - 01 – Guidelines on Data
                                                        Scraping of Publicly Available Personal Data
-                                                                                         Page 5 of 6
 
              a. Detecting automated or non-human “bot” activity patterns, such as sudden
                 or abnormal increases in web traffic;
@@ -298,7 +294,6 @@ Ref No.: PDD-26-00093                                  NPC_PPO_PDD_AdTem-V3.0, R
          URL: [https://www.privacy.gov.ph](https://www.privacy.gov.ph) Email Add: info@privacy.gov.ph Tel No. +632 5322 1322
                                                      NPC Advisory No. 2026 - 01 – Guidelines on Data
                                                         Scraping of Publicly Available Personal Data
-                                                                                          Page 6 of 6
 
     D. PICs shall not use scraped personal data in a manner that would cause harm to the
        data subject, including, but not limited to:

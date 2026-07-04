@@ -1,19 +1,21 @@
 ---
 title: "NPC Issuance Wiki"
-description: "Quartz workspace for NPC issuances, decisions, resolutions, and cross-references."
+description: "A cross-referenced reference library of NPC issuances, advisory opinions, decisions, resolutions, and orders."
 draft: false
 ---
 
-This Quartz workspace collects National Privacy Commission issuances and quasi-judicial documents.
+A cross-referenced collection of issuances, advisory opinions, decisions, resolutions, and orders of the National Privacy Commission (Philippines).
 
-- Corpus size: **65** issuances
-- Source index: https://privacy.gov.ph/pips-and-pics/advisories-circulars/
-- Local workflow: run `python3 scripts/build_npc_site.py build` for safe index/type refreshes, add `--rewrite-record-pages` only when you intentionally want to regenerate issuance/source/note pages, run `python3 scripts/build_npc_decisions_resolutions.py all --indexes-only` for safe decision/resolution index refreshes, then `npx quartz build --serve` to preview the wiki.
+- Primary issuances: **65** (plus advisory opinions, decisions, resolutions, and orders)
+- Official source index: https://privacy.gov.ph/pips-and-pics/advisories-circulars/
 
 ## Browse
 - [[issuances/index|Issuances by year]]
+- [[advisory-opinions/index|Advisory opinions]]
 - [[decisions/index|Decisions]]
 - [[resolutions/index|Resolutions]]
+- [[orders/index|Orders]]
+- [[laws/index|Laws]]
 - [[types/index|Issuances by type]]
 - [[topics/index|Topics]]
 - [[relationships/index|Reference map]]
@@ -32,5 +34,5 @@ This Quartz workspace collects National Privacy Commission issuances and quasi-j
 
 ## Manual Notes
 <!-- BEGIN MANUAL INDEX NOTES -->
-Use this space for a curated homepage blurb or reading guide.
+This is an unofficial reference library. Texts are cleaned extractions of official PDFs — see [[about|About this wiki]] for sources and caveats.
 <!-- END MANUAL INDEX NOTES -->

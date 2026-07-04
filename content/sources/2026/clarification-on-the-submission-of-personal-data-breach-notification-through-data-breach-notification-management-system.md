@@ -75,7 +75,6 @@ Ref No.: DPCJ-26-00475                                   NPC_PPO_PDD_AdTem-V3.0,
                                                    Submission of Personal Data Breach Notification
                                                    through Data Breach Notification Management
                                                    System
-                                                                                        Page 2 of 3
 
         stakeholders of the fact of the data breach or any other relevant information pending
         the approval of such request.

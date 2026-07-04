@@ -1,5 +1,6 @@
 ---
-title: "Guidelines on the Use of Closed-Circuit Television (CCTV) Systems (Advisory No. 2020-02)"
+title: "Guidelines on the Use of Closed-Circuit Television (CCTV) Systems (Advisory No. 2020-04)"
+description: "NPC advisory governing personal information controllers and processors that operate CCTV systems in public and semi-public areas, requiring a legitimate purpose, visible CCTV notices, a written CCTV policy, secure storage, and procedures for data subject and third-party access requests. This advisory has been repealed by NPC Circular No. 2024-02 (Closed-Circuit Television (CCTV) Systems)."
 aliases:
 - Advisory No. 2020-04
 - advisory no. 2020-04

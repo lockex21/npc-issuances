@@ -23,7 +23,7 @@ draft: false
                            NATIONAL PRIVACY COMMISSION
 
                                                                                    April   24, 2020  
-JOINT MEMORANDUM CIRCULAR No. 2020-9002
+JOINT MEMORANDUM CIRCULAR No. 2020-0002
 
     SUBJECT:            Privacy Guidelines on the Processing and Disclosure of COVID-19  
                         Related Data for Disease Surveillance and Response

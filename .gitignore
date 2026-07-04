@@ -13,3 +13,21 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# Finder/iCloud duplicate artifacts
+public [0-9]*
+* 2/
+* 2.*
+._*
+
+# Internal working artifacts (kept locally, not tracked)
+.cleanup-log.md
+CLEANUP_REPORT_2024_ADVISORY_OPINIONS.md
+eval-review-iteration-1.html
+cleanup_2018_035-045.py
+process_files.sh
+resolutions-audit.md
+*.skill
+/new-skills/
+/npc-order-cleanup/
+/notes/

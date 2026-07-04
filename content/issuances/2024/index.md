@@ -9,6 +9,7 @@ Generated notes for **2024**.
 ## Notes
 - [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data]] (Advisory No. 2024)
 - [[issuances/2024/guidelines-on-child-oriented-transparency|Guidelines on Child-Oriented Transparency]] (Advisory No. 2024)
+- [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure of the NPC, as Amended (Current Version)]] (Circular No. 2021-01)
 - [[issuances/2024/online-payment|Online Payment]]
 - [[issuances/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data|Model Contractual Clauses for Cross-Border Transfers of Personal Data]] (Advisory No. 2024-01)
 - [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012]] (Advisory No. 2024-02)

@@ -61,12 +61,6 @@ investigation and appropriate action, as may be necessary.
 SECTION 3. Scope and Coverage. – These rules shall apply to all requests for advisory  
 opinions cognizable by the NPC.
 
-                  5th Floor, Delegation Building, PICC Complex, Vicente Sotto St., Pasay City  
-                        URL: [https://privacy.gov.ph](https://privacy.gov.ph) Email Add: info@privacy.gov.ph  
-                                                                                NPC CIRCULAR NO. 18-01  
-                                                RULES OF PROCEDURE ON REQUESTS FOR ADVISORY OPINIONS  
-                                                                                     10 SEPTEMBER 2018
-
                               RULE II  
           REQUIREMENTS FOR REQUESTS FOR ADVISORY OPINIONS
 
@@ -113,10 +107,7 @@ SECTION 5. Subject of an advisory opinion.
             scope, overly abstract, anticipatory and speculative;
 
 1Affidavit duly notarized for individual data subjects and Secretary’s Certificate for juridical persons. This  
-documentary requirement may be waived in meritorious cases.  
-                                                                       NPC CIRCULAR NO. 18-01  
-                                       RULES OF PROCEDURE ON REQUESTS FOR ADVISORY OPINIONS  
-                                                                            10 SEPTEMBER 2018
+documentary requirement may be waived in meritorious cases.
 
        5. The request requires a review and interpretation of contracts or an opinion  
           on the validity of contracts; or  
@@ -162,10 +153,7 @@ the request for advisory opinion shall proceed accordingly.
 
 SECTION 9. Conference with the Requesting Party. – Where necessary, the NPC may,  
 in its discretion, require the requesting party to attend a conference, for a more  
-exhaustive and thorough discussion of the matter.  
-                                                                     NPC CIRCULAR NO. 18-01  
-                                     RULES OF PROCEDURE ON REQUESTS FOR ADVISORY OPINIONS  
-                                                                          10 SEPTEMBER 2018
+exhaustive and thorough discussion of the matter.
 
                                   RULE III  
                              GENERAL PROVISIONS

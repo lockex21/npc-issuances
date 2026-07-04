@@ -63,8 +63,6 @@ Companies and Lending Companies and Reporting of Online Lending Platforms [SEC M
 
 programs or systems where the services and products of FCs and LCs are made available.
 
-                                                                                       Page 2 of 3
-
 •   OLPs must have separate interfaces where data subjects can provide: (1) character
     references who are provided solely for identification or verification purposes; and (2)
     guarantors, who have expressly consented to assume the responsibility of the loan in
@@ -112,8 +110,6 @@ protecting their personal data through the following actions:
 •   OLPs may only access your contact list to allow you to select character references,
     guarantors, or to derive proportional metadata when necessary for specified and
     legitimate purposes. Unbridled processing of contact lists is prohibited.
-
-                                                                                     Page 3 of 3
 
 •   Inform your character references before providing their details. Your chosen
     guarantors must give separate consent before being bound to any obligation.

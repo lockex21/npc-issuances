@@ -1,5 +1,6 @@
 ---
 title: "Guidelines on the Use of Telemedicine in COVID-19 Response (Advisory Circular No. 2020-0001)"
+description: "DOH-NPC joint memorandum circular institutionalizing telemedicine so patients can receive health services at home during the COVID-19 enhanced community quarantine, applying to DOH- and PhilHealth-regulated healthcare providers and telemedicine partners. It requires informed consent, secure platforms, minimum NPC and DICT security standards, electronic prescriptions and clinical records, and free telemedicine services until the quarantine is lifted."
 aliases:
 - Memorandum Circular No. 2020-0001
 - Joint Memorandum Circular No. 2020-0001

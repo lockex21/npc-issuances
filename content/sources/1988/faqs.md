@@ -64,7 +64,6 @@ draft: false
    comment on the issued CDO (Section 9, CDO Rules) which shall be set for adjudication by  
    the Commission En Banc (Section 12, CDO Rules). After giving the respondent the
 
-                                           Page 1 of 7  
    opportunity to be heard, the Commission will decide whether to extend or lift the CDO no  
    later than thirty (30) days from the expiration of the period for the Adverse Party to file a  
    comment or the termination of the clarificatory hearing if one is held. In the event that the  
@@ -112,7 +111,6 @@ draft: false
    Division (CMD), or through a verified application by the aggrieved party upon  
    recommendation by the CID. It is issued ex parte, after the conduct of verification and
 
-                                          Page 2 of 7  
    investigation. Upon issuance, it is immediately executory and shall remain in force until  
    lifted or modified by the Commission.
 
@@ -161,7 +159,6 @@ draft: false
     that the PIC/Adverse Party may suffer due to malicious or erroneously issued CDO?  
     What will be their basis?
 
-                                           Page 3 of 7  
         The bond will be computed based on the assessment of the CID. Further details such as  
     rules on the assessment of bond, the period within which the bond should be posted, and  
     the effect of non-posting of the bond will be subject to another circular on fines, fees, and  
@@ -209,7 +206,6 @@ draft: false
 
 16. Will a CDO be proper after a mere privacy sweep or document submission? Will a Data
 
-                                           Page 4 of 7  
    Breach Notification by itself be a good cause for the issuance of a CDO?
 
        Every application will be decided on a case to case basis after the conduct of verification  
@@ -258,7 +254,6 @@ draft: false
    are covered by the Rules. Future actions that, if not prevented, will cause grave or  
    irreparable injury are actions which the CDO ultimately intends to enjoin.
 
-                                           Page 5 of 7  
 22. Can a CDO be immediately published regardless of the public interest or public  
     education?
 
@@ -305,7 +300,6 @@ draft: false
 
        Yes, these Rules apply to every personal information controller or processor.
 
-                                          Page 6 of 7  
 26. How will the penalties or fines be imposed? Will there a table of penalties to be included  
     in this circular or referred to?
 
@@ -313,5 +307,3 @@ draft: false
    separate Circular.
 
                                          ---Nothing follows---
-
-                                         Page 7 of 7

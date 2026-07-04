@@ -23,6 +23,7 @@ All generated notes tagged as **Circular**.
 - [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Circular No. 2020-03: Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements]]
 - [[issuances/2024/closed-circuit-television-cctv-systems|Circular No. 2024-02: Closed-Circuit Television (CCTV) Systems]]
 - [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Circular No. 2024-01: Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission]]
+- [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|Circular No. 2021-01: 2021 Rules of Procedure of the NPC, as Amended (Current Version)]]
 - [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Circular No. 2023-06: Security of Personal Data in the Government and the Private Sector]]
 - [[issuances/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Circular No. 2023-01: Schedule of Fees and Charges of the National Privacy Commission]]
 - [[issuances/2023/guidelines-on-legitimate-interest|Circular No. 2023-07: Guidelines on Legitimate Interest]]
@@ -35,7 +36,7 @@ All generated notes tagged as **Circular**.
 - [[issuances/2022/annex-1|Circular No. 2022-04: Annex 1]]
 - [[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Circular No. 20-01: Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions]]
 - [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Circular No. 2021-02: Guidelines On The Processing Of Personal Data During Public Health Emergencies For Public Health Measures]]
-- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|Circular No. 2021-01: 2021 Rules of Procedure of the National Privacy Commission]]
+- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|Circular No. 2021-01: 2021 Rules of Procedure of the National Privacy Commission (Original 2021 Version)]]
 - [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Circular No. 2020-03: Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.)]]
 - [[issuances/2020/data-sharing-agreements|Circular No. 2020-03: Data Sharing Agreements]]
 

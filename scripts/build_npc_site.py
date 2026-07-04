@@ -1147,16 +1147,18 @@ def build_content_tree(records: list[Issuance], *, write_record_pages: bool = Tr
     issuance_count = len(records)
     reference_rich = sorted(records, key=lambda item: (len(item.incoming_refs), item.title), reverse=True)[:10]
     home_lines = [
-        "This Quartz workspace collects National Privacy Commission issuances and quasi-judicial documents.",
+        "A cross-referenced collection of issuances, advisory opinions, decisions, resolutions, and orders of the National Privacy Commission (Philippines).",
         "",
-        f"- Corpus size: **{issuance_count}** issuances",
-        f"- Source index: {SOURCE_URL}",
-        "- Local workflow: run `python3 scripts/build_npc_site.py build` for safe index/type refreshes, add `--rewrite-record-pages` only when you intentionally want to regenerate issuance/source/note pages, run `python3 scripts/build_npc_decisions_resolutions.py all --indexes-only` for safe decision/resolution index refreshes, then `npx quartz build --serve` to preview the wiki.",
+        f"- Primary issuances: **{issuance_count}** (plus advisory opinions, decisions, resolutions, and orders)",
+        f"- Official source index: {SOURCE_URL}",
         "",
         "## Browse",
         "- [[issuances/index|Issuances by year]]",
+        "- [[advisory-opinions/index|Advisory opinions]]",
         "- [[decisions/index|Decisions]]",
         "- [[resolutions/index|Resolutions]]",
+        "- [[orders/index|Orders]]",
+        "- [[laws/index|Laws]]",
         "- [[types/index|Issuances by type]]",
         "- [[topics/index|Topics]]",
         "- [[relationships/index|Reference map]]",
@@ -1170,7 +1172,7 @@ def build_content_tree(records: list[Issuance], *, write_record_pages: bool = Tr
     render_index_page(
         CONTENT_DIR / "index.md",
         "NPC Issuance Wiki",
-        "Quartz workspace for NPC issuances, decisions, resolutions, and cross-references.",
+        "A cross-referenced reference library of NPC issuances, advisory opinions, decisions, resolutions, and orders.",
         home_lines,
         default_manual="Use this space for a curated homepage blurb or reading guide.",
     )

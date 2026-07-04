@@ -503,4 +503,4 @@ This Act, which is a consolidation of Senate Bill No. 2965 and House Bill No. 41
 (Sgd.) BENIGNO S. AQUINO III *President of the Philippines*
 
 ## Source
-- Source PDF: `/Users/reinier/Downloads/DPA-of-2012_1.pdf`
+- Source: [Data Privacy Act of 2012 (National Privacy Commission)](https://privacy.gov.ph/data-privacy-act/)

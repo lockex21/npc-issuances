@@ -1039,8 +1039,5 @@ Promulgated: August 24, 2016
 [^26]: For further information on agency access to personal data, please refer to National Privacy Commission, Security of Personal Data in Government Agencies [NPC Circular No. 16-01], Rule III (October 10, 2016).
 
 ## Source
-- Source PDF: `/Users/reinier/Downloads/IRR_RA-10173-as-amended.pdf`
+- Source: [Implementing Rules and Regulations of the Data Privacy Act of 2012 (National Privacy Commission)](https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/)
 
-[^21]: 
-
-[^22]: fead

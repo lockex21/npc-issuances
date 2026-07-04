@@ -12,8 +12,15 @@ tags:
 - issuance
 - type/circular
 - year/2021
-title: "2021 Rules of Procedure of the National Privacy Commission (Circular No. 2021-01)"
+title: "2021 Rules of Procedure of the National Privacy Commission (Original 2021 Version)"
 ---
+
+## Version Note
+
+This page preserves the original 2021 text of NPC Circular No. 2021-01. For the current consolidated text, see [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure of the NPC, as Amended]].
+
+- Original 2021 PDF: https://privacy.gov.ph/wp-content/uploads/2021/01/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf
+- Current as-amended PDF: https://privacy.gov.ph/wp-content/uploads/2024/03/2021-Rules-of-Procedure-of-the-NPC-As-Amended.pdf
 
 
 ## Issuance Text

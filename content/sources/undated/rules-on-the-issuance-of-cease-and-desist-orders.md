@@ -62,7 +62,6 @@ Section 3. Definition of Terms. -
       the National Privacy Commission whose function is to receive complaints and  
       conduct investigations regarding violations of the DPA, its Implementing
 
-                                         Page 1 of 7  
                                 Republic of the Philippines  
                        NATIONAL PRIVACY COMMISSION
 
@@ -106,7 +105,6 @@ concur:
    C. the commission or continuance of such act or practice, unless restrained, will  
       cause grave and irreparable injury to a data subject.
 
-                                       Page 2 of 7  
                                  Republic of the Philippines  
                         NATIONAL PRIVACY COMMISSION
 
@@ -149,7 +147,6 @@ CDO.
 initiated or a complaint has been filed, including the contents of the application and  
 complaint, shall be confidential.
 
-                                        Page 3 of 7  
                                Republic of the Philippines  
                       NATIONAL PRIVACY COMMISSION
 
@@ -193,7 +190,6 @@ Adverse Party, the Commission may order the conduct of a clarificatory hearing,
 whenever in its discretion, additional information is needed to make a decision on  
 the issued CDO. In case the Commission finds that a clarificatory hearing is
 
-                                      Page 4 of 7  
                                Republic of the Philippines  
                        NATIONAL PRIVACY COMMISSION
 
@@ -237,7 +233,6 @@ establishing the ground/s relied upon, the relevant documentary, testimonial and
 object evidence supporting the motion, and the proof of service of the copy of the  
 motion to the applicant.
 
-                                      Page 5 of 7  
                                Republic of the Philippines  
                        NATIONAL PRIVACY COMMISSION
 
@@ -280,7 +275,6 @@ cumulative and in addition to, not exclusive of or in substitution for, any righ
 remedies available to the applicant under the DPA, its IRR or other related  
 issuances: Provided, that when an applicant simultaneously or successively files an
 
-                                      Page 6 of 7  
                                Republic of the Philippines  
                       NATIONAL PRIVACY COMMISSION
 
@@ -322,5 +316,3 @@ Approved: 06 October 2020
              Sgd.                                                 Sgd.  
 LEANDRO ANGELO Y. AGUIRRE                                JOHN HENRY D. NAGA  
 Deputy Privacy Commissioner                              Deputy Privacy Commissioner
-
-                                      Page 7 of 7

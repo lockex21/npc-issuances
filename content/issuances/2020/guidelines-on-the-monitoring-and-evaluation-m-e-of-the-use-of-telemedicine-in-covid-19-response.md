@@ -1,5 +1,6 @@
 ---
 title: "Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response (Memorandum Circular No. 2020-0003)"
+description: "DOH-NPC joint memorandum circular establishing a monitoring and evaluation framework for telemedicine services during the COVID-19 enhanced community quarantine, covering DOH- and PhilHealth-regulated healthcare providers and DOH-engaged telemedicine partners. It requires signed performance commitments, privacy management program documentation, and weekly status reports, with oversight by the National eHealth Technical Working Group and its Sub-Committee on Telemedicine."
 aliases:
 - Memorandum Circular No. 2020-0003
 - memorandum circular no. 2020-0003

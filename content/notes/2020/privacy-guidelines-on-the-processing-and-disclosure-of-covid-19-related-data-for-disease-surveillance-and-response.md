@@ -24,7 +24,7 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response]]
 - Raw source note: [[sources/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Raw source text]]
-- Reference: Memorandum Circular No. 2020-9002
+- Reference: Memorandum Circular No. 2020-0002
 - Type: Memorandum Circular
 - Year: 2020
 - Issued: Unknown

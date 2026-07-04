@@ -14,7 +14,8 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    ignorePatterns: ["private", ".obsidian"],
+    baseUrl: "lockex21.github.io/npc-issuances",
+    ignorePatterns: ["private", ".obsidian", "**/_cleanup-log.md", "**/.cleanup-log.md"],
     defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",
