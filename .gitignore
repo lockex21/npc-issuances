@@ -31,3 +31,8 @@ resolutions-audit.md
 /new-skills/
 /npc-order-cleanup/
 /notes/
+
+# Regenerable wikilink-linker helper indexes
+reference-index.json
+advisory-opinions-missing-aliases.json
+index-by-type/
