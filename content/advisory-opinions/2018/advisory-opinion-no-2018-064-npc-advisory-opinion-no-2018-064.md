@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-064"
+  - "npc advisory opinion no. 2018-064"
+  - "Advisory Opinion No. 2018-064"
+  - "advisory opinion no. 2018-064"
 ---
 
 ## Source
@@ -23,13 +28,13 @@ Re: CLARIFICATIONS ON ISSUANCE OF PRESS RELEASES BY THE PHILIPPINE DEPOSIT INSUR
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion regarding the non-applicability of the Data Privacy Act of 2012 (DPA)[^1] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) on the press releases which the Philippine Deposit Insurance Corporation (PDIC) issues in its capacity as insurer of bank deposits, risk mitigator, together with other financial regulators, and as the statutory liquidator of closed banks based on [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]].
+We write in response to your request for an advisory opinion regarding the non-applicability of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^1] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) on the press releases which the Philippine Deposit Insurance Corporation (PDIC) issues in its capacity as insurer of bank deposits, risk mitigator, together with other financial regulators, and as the statutory liquidator of closed banks based on [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]].
 
-Section 4 of the DPA states that the law is applicable to the processing of all types of personal information and to any natural and juridical person involved in personal information processing. Likewise, it provides for certain personal information excluded from its scope – one of which is personal information necessary in order to carry out the functions of public authority, including the processing of personal data for the performance by the regulatory agencies of their constitutionally and statutorily mandated functions.[^2]
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] of the DPA states that the law is applicable to the processing of all types of personal information and to any natural and juridical person involved in personal information processing. Likewise, it provides for certain personal information excluded from its scope – one of which is personal information necessary in order to carry out the functions of public authority, including the processing of personal data for the performance by the regulatory agencies of their constitutionally and statutorily mandated functions.[^2]
 
 Note that the exclusion above is not absolute. The exclusion of the information specified in Section 4 of the DPA is only to the minimum extent necessary to achieve the specific purpose, function or activity.
 
-Given this, the personal and sensitive personal information enumerated in Section 4 may be lawfully processed by a personal information controller, even without meeting the conditions under Sections 12 and 13 of the DPA, but the processing shall be limited to that necessary to achieve the specific purpose, function, or activity. The PIC is still required, however, to implement measures to secure and protect personal information.
+Given this, the personal and sensitive personal information enumerated in Section 4 may be lawfully processed by a personal information controller, even without meeting the conditions under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, but the processing shall be limited to that necessary to achieve the specific purpose, function, or activity. The PIC is still required, however, to implement measures to secure and protect personal information.
 
 ### Discussion
 
@@ -61,7 +66,7 @@ Noted by:
 (Sgd.) RAYMOND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [DATA PRIVACY ACT OF 2012] Republic Act No. 10173 (2012).
-[^2]: *Id.*, § 4(e).
+[^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [DATA PRIVACY ACT OF 2012] [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
+[^2]: *Id.*, [[laws/data-privacy-act-of-2012#section-4-scope|§ 4(e)]].
 [^3]: An Act Establishing the Philippine Deposit Insurance Corporation, Defining its Powers and Duties and for other Purposes [PDIC CHARTER] Republic Act No. 3591 (1963), as amended, § 1.
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(c) (2016).
+[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(c)]] (2016).

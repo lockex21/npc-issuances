@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+  - topic/legitimate-interest
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2022-002"
+  - "npc advisory opinion no. 2022-002"
+  - "Advisory Opinion No. 2022-002"
+  - "advisory opinion no. 2022-002"
 ---
 
 ## Source
@@ -29,13 +35,13 @@ We understand that your client is engaged in the business of operating car deale
 
 We understand further that a number of these vehicles were purchased under financing arrangements with banks or financing companies. As the vehicles have been left in the repair shop for several months, if not years, there is the probability that the owners have stopped amortization payments for the abandoned vehicles.
 
-You now ask whether informing the concerned mortgagee banks or financing companies on the status of the unclaimed vehicles that they have financed is sanctioned under the Data Privacy Act of 2012[^1] (DPA), particularly as a valid disclosure falling under Section 12 (f) on legitimate interest.
+You now ask whether informing the concerned mortgagee banks or financing companies on the status of the unclaimed vehicles that they have financed is sanctioned under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA), particularly as a valid disclosure falling under Section 12 (f) on legitimate interest.
 
 ### Discussion
 
-#### Lawful processing of personal information; legitimate interest of personal information controllers; [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the Data Privacy Act of 2012]]
+#### Lawful processing of personal information; legitimate interest of personal information controllers; Section 12 (f) of the Data Privacy Act of 2012
 
-Under the DPA, the processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the conditions under Section 12 of the law exists. One condition under the law is processing necessary for the purposes of the legitimate interests of the personal information controller (PIC) or by a third party to whom the data is disclosed,[^2] to wit:
+Under the DPA, the processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the conditions under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the law]] exists. One condition under the law is processing necessary for the purposes of the legitimate interests of the personal information controller (PIC) or by a third party to whom the data is disclosed,[^2] to wit:
 
 > "(f) The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution."
 
@@ -72,9 +78,9 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Data Privacy Act of 2012, § 12 (f).
-[^3]: See: National Privacy Commission, Advisory Opinion Nos. 2021-10 (March 22, 2021) and 2020-50 (Nov. 26, 2020) citing Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^2]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (f)]].
+[^3]: See: National Privacy Commission, Advisory Opinion Nos. [[advisory-opinions/2021/advisory-opinion-no-2021-010-private-detective-services|2021-10]] (March 22, 2021) and [[advisory-opinions/2020/advisory-opinion-no-2020-050-redacted-advisory-opinion-no-2020-050-2|2020-50]] (Nov. 26, 2020) citing [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (f)]]; United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
 [^4]: Article 29 Data Protection Working Party, Opinion 06/2014 on the notion of legitimate interests of the data controller under Article 7 of Directive 95/46/EC, Adopted on 9 April 2014 (available at https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp217_en.pdf).
 [^5]: *Id.*
-[^6]: Data Privacy Act of 2012, § 11.
+[^6]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11]].

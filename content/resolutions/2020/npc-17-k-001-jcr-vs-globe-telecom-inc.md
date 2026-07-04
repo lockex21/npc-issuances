@@ -11,6 +11,8 @@ tags:
   - "type/resolution"
   - "npc-case"
   - "year/2020"
+  - "topic/breach-notification"
+  - "topic/security"
 date: "2020-09-10"
 draft: false
 ---
@@ -54,7 +56,7 @@ On 05 December 2019, this Commission issued a Decision[^2] with the following di
 
 **WHEREFORE**, all the premises considered, the Commission finds no violation of the Data Privacy Act on the part of Respondent Globe Telecom, Inc. that is sufficient to warrant a recommendation for criminal prosecution. This Commission finds, however, that Respondent failed to adopt and implement the necessary policies and procedure relating to the prevention, correction, and mitigation against security incidents that can lead to a personal data breach.
 
-The Commission hereby **ORDERS** Respondent Globe Telecom to submit a complete report on the measures it has undertaken or will undertake to address the issue of delayed SIM deactivation such as in this case, including the timeline for the implementation of such measures, within thirty (30) days from receipt of this Decision. Reference may be made to the requirements provided in the Implementing Rules and Regulations of the Data Privacy Act, particularly Section 28, paragraphs (c), (d), (e), and (f).
+The Commission hereby **ORDERS** Respondent Globe Telecom to submit a complete report on the measures it has undertaken or will undertake to address the issue of delayed SIM deactivation such as in this case, including the timeline for the implementation of such measures, within thirty (30) days from receipt of this Decision. Reference may be made to the requirements provided in the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|Implementing Rules and Regulations of the Data Privacy Act, particularly Section 28]], paragraphs (c), (d), (e), and (f).
 
 On 05 February 2020, this Commission received the Compliance Report of Respondent which included its Policy and Procedure Manual (PPM)[^3] concerning the Postpaid Change SIM Process in its Globe stores. Respondent claims that the PPM, which has been effective since 2018, outlines the procedure for processing requests to replace lost and defective SIM cards as well as to upgrade the same. Stringent subscriber verification protocols are in place to ensure that lost SIM cards are deactivated, and that replacement SIM cards are issued to the account owner on record within the same day of request. As a safeguard against privacy and security risks, a replacement SIM card will not be issued in case of incomplete submission of requirements, mismatched proof between identification details and customer details in the Globe My Business Support System, and failure to provide correct answers to any of the six (6) account verification questions.[^4]
 

@@ -1,10 +1,16 @@
 ---
 title: "NPC Advisory Opinion No. 2024-013 — Requests for Member and Vessel Information by Government Agencies Pursuant to a Senate Investigation"
 description: "Guidance on disclosure of member and vessel information to government agencies conducting law enforcement investigations."
+aliases:
+  - "NPC Advisory Opinion No. 2024-013"
+  - "npc advisory opinion no. 2024-013"
+  - "Advisory Opinion No. 2024-013"
+  - "advisory opinion no. 2024-013"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+  - "topic/government"
 draft: false
 ---
 
@@ -25,7 +31,7 @@ Dear [Redacted],
 
 We respond to your inquiry on whether the requests of the Philippine Coast Guard (PCG)
 and the Bureau of Immigration (BI) for information and access to records of the Manila Yacht
-Club (MYC) related to an ongoing Senate investigation violates the Data Privacy Act of 2012
+Club (MYC) related to an ongoing Senate investigation violates the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 (DPA).[^2]
 
 ### Discussion
@@ -88,8 +94,8 @@ identification of an individual, such disclosure can qualify as processing of pe
 which case, the proper basis/bases under the DPA must be established.
 
 Besides the member’s individual consent, the disclosure of personal data of MYC members to
-law enforcement authorities (LEA) may be justified under the circumstances based on Section
-12 (e) and Section 13 (b) and (f) of the DPA, viz.:
+law enforcement authorities (LEA) may be justified under the circumstances based on [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section
+12 (e)]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b) and (f)]] of the DPA, viz.:
 
 > **For personal information -**
 >
@@ -172,5 +178,5 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the private Sector, Creating for this Purpose a National Privacy Commission, and for other Purposes [Data Privacy Act of 2012], Republic Act No.10173 (2012).
-[^3]: *Id.*, §3(g)
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the private Sector, Creating for this Purpose a National Privacy Commission, and for other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No.10173]] (2012).
+[^3]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(g)]]

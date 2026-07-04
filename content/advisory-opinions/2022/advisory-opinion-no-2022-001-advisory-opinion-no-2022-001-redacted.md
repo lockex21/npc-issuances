@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2022
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2022-001"
+  - "npc advisory opinion no. 2022-001"
+  - "Advisory Opinion No. 2022-001"
+  - "advisory opinion no. 2022-001"
 ---
 
 ## Source
@@ -37,7 +42,7 @@ You now ask whether such publication is allowed under the DPA.
 
 #### Scope of the DPA; health care providers
 
-The DPA applies to the processing of all types of personal information and sensitive personal information (collectively, personal data) and to any natural or juridical person involved in the processing of personal data.[^4]
+The [[laws/data-privacy-act-of-2012#section-4-scope|DPA]] applies to the processing of all types of personal information and sensitive personal information (collectively, personal data) and to any natural or juridical person involved in the processing of personal data.[^4]
 
 This means that the scope of the DPA, with regard to the subject matter, is limited only to the processing of personal data or data pertaining to natural persons or individuals. Data pertaining to juridical entities (e.g., company name, address, financial information, etc.) are not covered by the DPA.
 
@@ -51,7 +56,7 @@ We wish to clarify further that should the terms "health care institution" or "h
 
 #### Lawful processing; legal obligation; functions of public authority; law or regulation
 
-In case the publication will involve personal data as discussed above, such processing by PhilHealth may be based on the applicable criterion under Sections 12 or 13 of the DPA, for the processing of personal information and sensitive personal information, respectively.
+In case the publication will involve personal data as discussed above, such processing by PhilHealth may be based on the applicable criterion under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, for the processing of personal information and sensitive personal information, respectively.
 
 Specifically, Section 12 (c) and (e) or Section 13 (b) may be applicable:
 
@@ -96,13 +101,13 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^2]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2016).
 [^3]: Rules and Regulations Implementing the National Health Insurance Act of 2013, Republic Act No. 7875 as amended, § 79 (2004).
-[^4]: Data Privacy Act of 2012, § 4.
+[^4]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
 [^5]: Rules and Regulations Implementing the National Health Insurance Act of 2013, as amended, § 3 (w).
-[^6]: Data Privacy Act of 2012, § 4 in relation to § 3 (g) and 3 (l).
+[^6]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]] in relation to [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g) and 3 (l)]].
 [^7]: *Ibid.*
 [^8]: *Id.* § 79.
-[^9]: Data Privacy Act of 2012, § 11.
-[^10]: Data Privacy Act of 2012, § 11 (d).
+[^9]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11]].
+[^10]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11 (d)]].

@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2021-020 — Installation And Use Of Global Positioning Systems (GPS) On Motorcycle Units"
 description: "Guidance on the legality of installing GPS trackers on motorcycle units under data privacy and proportionality principles."
+aliases:
+  - "NPC Advisory Opinion No. 2021-020"
+  - "npc advisory opinion no. 2021-020"
+  - "Advisory Opinion No. 2021-020"
+  - "advisory opinion no. 2021-020"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -106,7 +111,7 @@ OIC-Director IV, Privacy Policy Office
 
 [^1]: Tags: global positioning systems, GPS devices, real-time tracking; proportionality.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 11.
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^3]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11]].
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c)]] (2016).
 [^5]: Ibid.
-[^6]: Data Privacy Act of 2012, § 3 (b).
+[^6]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (b)]].

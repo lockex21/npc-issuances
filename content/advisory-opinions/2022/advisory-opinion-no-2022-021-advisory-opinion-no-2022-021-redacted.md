@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2022-021 — Publication of Information of List of Wholesale Electricity Spot Market Members and Retail Customer Information"
 description: "The NPC addresses the publication of names of WESM members and RCOA contestable customers by the Independent Electricity Market Operator."
+aliases:
+  - "NPC Advisory Opinion No. 2022-021"
+  - "npc advisory opinion no. 2022-021"
+  - "Advisory Opinion No. 2022-021"
+  - "advisory opinion no. 2022-021"
 tags:
   - issuance
   - "type/advisory-opinion"
@@ -88,7 +93,7 @@ The abovementioned information published by IEMOP is based on the non-confidenti
    d. names of counterparties
 4. Details contained in the ERC's Certificates of Contestability, as applicable.
 
-The Data Privacy Act of 2012[^7] (DPA) governs the processing of personal data. Under the DPA, the processing of personal data shall only be allowed under certain conditions provided in Sections 12 and 13 depending on whether the information involved is classified as personal information or sensitive personal information.
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^7] (DPA) governs the processing of personal data. Under the DPA, the processing of personal data shall only be allowed under certain conditions provided in Sections 12 and 13 depending on whether the information involved is classified as personal information or sensitive personal information.
 
 In this regard, we reiterate the discussion in Advisory Opinion No. 2020-052 where we stated that information on juridical entities is outside the scope of the DPA. Thus, the publication of WESM members or applicants for registration and contestable customers in the RCOA that are juridical entities may be done in accordance with applicable laws, rules, and regulations without violating the DPA.
 
@@ -98,7 +103,7 @@ We also discussed in Advisory Opinion No. 2020-052 that the publication of perso
 >
 > In this instance, the **ERC may cite the pertinent provisions of the Electric Power Industry Reform Act of 2001 (EPIRA) and/or other applicable laws and regulations to justify the publication of names and generic locations of individuals identified as qualified contestable customers as a legal obligation of the ERC** and/or part of the fulfillment of its mandate.
 
-Under the DPA, the processing of personal data is allowed when it is necessary for compliance with a legal obligation. In *RLA v. PLDT Enterprise*,[^8] the National Privacy Commission (NPC) discussed the elements that should exist for valid processing based on a legal obligation: “(1) if the legal obligation the PIC cites as lawful criteria exists and applies to the PIC; (2) if the processing that the PIC performs is necessary to comply with the legal obligation; and (3) if all the conditions imposed by the legal obligation for the processing of the personal information have been complied with.”[^8]
+Under the DPA, the processing of personal data is allowed when it is necessary for compliance with a legal obligation. In *[[resolutions/2020/npc-18-010-rla-v-pldt-enterprise|RLA v. PLDT Enterprise]]*,[^8] the National Privacy Commission (NPC) discussed the elements that should exist for valid processing based on a legal obligation: “(1) if the legal obligation the PIC cites as lawful criteria exists and applies to the PIC; (2) if the processing that the PIC performs is necessary to comply with the legal obligation; and (3) if all the conditions imposed by the legal obligation for the processing of the personal information have been complied with.”[^8]
 
 A survey of the relevant DOE regulations cited clearly show that the IEMOP has a legal obligation to publish the information provided above. As such, as long as the elements mentioned above are complied with, IEMOP can publish the names of WESM members and the names of applicants for WESM registration, by virtue of the WESM Rules. Similarly, the names of retail or contestable customers that are registered to participate in the RCOA may also be published on the basis of the Retail Manual – DCRCI.
 
@@ -124,6 +129,6 @@ Director IV, Privacy Policy Office
 
 [^6]: Ibid.
 
-[^7]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^7]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
-[^8]: National Privacy Commission, RLA v. PLDT Enterprise [NPC Resolution No. 2018-010] (10 December 2021).
+[^8]: National Privacy Commission, [[resolutions/2020/npc-18-010-rla-v-pldt-enterprise|RLA v. PLDT Enterprise]] [NPC Resolution No. 2018-010] (10 December 2021).

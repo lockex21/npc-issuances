@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2024-014 — Disclosure of Individuals’ Names in Relation to the Registration and Use of Fake National Identification Cards"
 description: "Advisory opinion on the propriety of disclosing the names of individuals in connection with their registration with the Philippine Statistics Authority for the issuance of national identification cards."
+aliases:
+  - "NPC Advisory Opinion No. 2024-014"
+  - "npc advisory opinion no. 2024-014"
+  - "Advisory Opinion No. 2024-014"
+  - "advisory opinion no. 2024-014"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -160,11 +165,11 @@ OIC-Director IV, Privacy Policy Office
 
 [^8]: Philippine Statistics Authority, PhilSys Check, available at https://philsys.gov.ph/philsys-check/ (last accessed 2 October 2024).
 
-[^9]: §4, Republic Act No. 10173.
+[^9]: [[laws/data-privacy-act-of-2012#section-4-scope|§4]], Republic Act No. 10173.
 
-[^10]: §3(g), Republic Act No. 10173.
+[^10]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(g)]], Republic Act No. 10173.
 
-[^11]: §3(j), Republic Act No. 10173.
+[^11]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(j)]], Republic Act No. 10173.
 
 [^12]: "Section 17. Protection Against Unlawful Disclosure of Information/Records. - No person may disclose, collect, record, convey, disseminate, publish, or use any information of registered persons with the PhilSys, give access thereto or give copies thereof to third parties or entities, including law enforcement agencies, national security agencies, or units of the Armed Forces of the Philippines (AFP), except in either of the following circumstances: (a) When the registered person has given his or her consent, specific to the purpose prior to the processing; and (b) When the compelling interest of public health or safety so requires, relevant information may be disclosed upon order of a competent court, provided that the risk of significant harm to the public is established and that the owner of the information is notified within seventy-two (72) hours of the fact of such disclosure. xxx."
 

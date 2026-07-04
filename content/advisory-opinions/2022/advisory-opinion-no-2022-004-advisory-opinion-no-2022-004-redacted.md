@@ -5,7 +5,15 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+  - topic/children
+  - topic/consent
+  - topic/data-subject-rights
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2022-004"
+  - "npc advisory opinion no. 2022-004"
+  - "Advisory Opinion No. 2022-004"
+  - "advisory opinion no. 2022-004"
 ---
 
 ## Source
@@ -48,7 +56,7 @@ You now seek guidance and clarification on the relatives who can give consent on
 
 #### Rights of data subjects; right to access; transmissibility of rights
 
-Data subjects are entitled to various rights under the Data Privacy Act of 2012[^1] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^2] (IRR). One of the rights granted is the right of reasonable access to, upon demand, the contents of one's personal data that have been processed, among other information relating to the processing of his or her personal information and sensitive personal information (collectively, personal data).[^3]
+Data subjects are entitled to various rights under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^2] (IRR). One of the rights granted is the right of [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|reasonable access]] to, upon demand, the contents of one's personal data that have been processed, among other information relating to the processing of his or her personal information and sensitive personal information (collectively, personal data).[^3]
 
 This right to access, however, may be limited in certain instances. In the current scenario, the following provision of [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] on Data Subject Rights may be taken into consideration:
 
@@ -78,7 +86,7 @@ Lastly, as to the applicability of the above discussions to deceased patients, w
 
 We emphasize that, as far as the DPA is concerned, the rights of data subjects including those who are deceased, incapacitated or otherwise incapable of exercising such rights, are respected. Although, the DPA does not distinguish the groups of relatives who may exercise the same, the rights of the deceased or incapacitated data subjects are still existent and may be exercised by his or her lawful heirs and assigns, subject to existing laws on succession and guardianship, whichever may be applicable. The foregoing laws referred to above may be considered, guided by applicable rules and ethical guidelines and considerations that the health sector is subject to.
 
-It is the responsibility of the PIC to establish policies on addressing issues on disclosures to relatives, subject to the applicable laws and rules. SLMC must still implement appropriate and reasonable security measures in the disclosure of medical information to legal heirs and assigns. For example, SLMC may implement policies on properly identifying the heirs of deceased and incapacitated patients by requiring the presentation of certain documents to prove their identities. Further, the fact of disclosure to the heir must be documented (i.e., the heir may be asked to sign certain documents to record such disclosure). In the establishment of these policies, SLMC should also consider the inclusion of policies and mechanisms on ensuring that the requesting party, acting on behalf of the data subject, is clearly informed of the reason in case of the limitation or denial of the request, as required under Section 14 of NPC Advisory No. 2021-01.
+It is the responsibility of the PIC to establish policies on addressing issues on disclosures to relatives, subject to the applicable laws and rules. SLMC must still implement appropriate and reasonable security measures in the disclosure of medical information to legal heirs and assigns. For example, SLMC may implement policies on properly identifying the heirs of deceased and incapacitated patients by requiring the presentation of certain documents to prove their identities. Further, the fact of disclosure to the heir must be documented (i.e., the heir may be asked to sign certain documents to record such disclosure). In the establishment of these policies, SLMC should also consider the inclusion of policies and mechanisms on ensuring that the requesting party, acting on behalf of the data subject, is clearly informed of the reason in case of the limitation or denial of the request, as required under Section 14 of [[issuances/2021/data-subject-rights#rights-of-a-data-subject|NPC Advisory No. 2021-01]].
 
 This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
@@ -89,10 +97,10 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-[^3]: Data Privacy Act of 2012, § 16 (c) (2012).
-[^4]: National Privacy Commission, Data Subject Rights [NPC Advisory No. 2021-01], § 8 (c) (4) (29 Jan 2021).
-[^5]: Data Privacy Act of 2012, § 17.
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^2]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2016).
+[^3]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, § 16 (c)]] (2012).
+[^4]: National Privacy Commission, Data Subject Rights [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]], § 8 (c) (4) (29 Jan 2021).
+[^5]: [[laws/data-privacy-act-of-2012#section-17-transmissibility-of-rights-of-the-data-subject|Data Privacy Act of 2012, § 17]].
 [^6]: SPECIAL PROCEEDINGS, Rule 92, § 2.
 [^7]: *Id.*, Rule 93, § 1.

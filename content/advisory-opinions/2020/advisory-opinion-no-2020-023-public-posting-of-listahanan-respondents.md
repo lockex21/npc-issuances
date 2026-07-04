@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+aliases:
+  - "NPC Advisory Opinion No. 2020-023"
+  - "npc advisory opinion no. 2020-023"
+  - "Advisory Opinion No. 2020-023"
+  - "advisory opinion no. 2020-023"
 draft: false
 ---
 ## Source
@@ -132,9 +137,9 @@ Very truly yours,
 Privacy Commissioner
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 12 (e).
+[^3]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (e)]].
 [^4]: Official Gazette, Department of Social Welfare and Development, available at https://www.officialgazette.gov.ph/section/briefing-room/department-of-social-welfare-and-development/ (last accessed May 18, 2020).
 [^5]: Office of the President Providing for the Adoption of the National Household Targeting System for Poverty Reduction as the Mechanism for Identifying Poor Households Who Shall Be Recipients of Social Protection Programs Nationwide, Executive Order No. 867 [E.O. No. 867], Section 1(March 9, 2010).
 [^6]: Id. § 2.
-[^7]: Data Privacy Act of 2012, § 11 (c).
-[^8]: Id. § 22.
+[^7]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11 (c)]].
+[^8]: Id. [[laws/data-privacy-act-of-2012#section-22-responsibility-of-heads-of-agencies|§ 22]].

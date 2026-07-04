@@ -43,13 +43,13 @@ date: "2020-10-26"
 
    G. "Compliance and Monitoring Division" or "CMD" refers to the Division of the National Privacy Commission whose function is to monitor the compliance of personal information controllers (PICs) and personal information processors (PIPs) to ensure effective implementation of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and other related issuances.
 
-   H. "Compliance Check" refers to the systematic and impartial evaluation of a PIC or PIP, in whole or any part, process or aspect thereof, to determine whether activities that involve the processing of personal data are carried out in accordance with the standards mandated by the [[laws/data-privacy-act-of-2012|DPA]] and other issuances of the Commission. It is an examination, which includes Privacy Sweeps, Documents Submissions and On-Site Visits, as defined under NPC Circular 18-02, Guidelines on Compliance Checks, intended to determine whether a PIC or PIP is able to demonstrate organizational commitment, program controls and review mechanisms intended to assure privacy and personal data protection in data processing systems.
+   H. "Compliance Check" refers to the systematic and impartial evaluation of a PIC or PIP, in whole or any part, process or aspect thereof, to determine whether activities that involve the processing of personal data are carried out in accordance with the standards mandated by the [[laws/data-privacy-act-of-2012|DPA]] and other issuances of the Commission. It is an examination, which includes Privacy Sweeps, Documents Submissions and On-Site Visits, as defined under [[issuances/undated/guidelines-on-compliance-checks|NPC Circular 18-02, Guidelines on Compliance Checks]], intended to determine whether a PIC or PIP is able to demonstrate organizational commitment, program controls and review mechanisms intended to assure privacy and personal data protection in data processing systems.
 
    I. "Data Subject" refers to an individual whose personal, sensitive personal, or privileged information is processed.
 
    J. "NPC" refers to the National Privacy Commission as a government agency.
 
-   K. "Rules of Procedure" refers to NPC Circular 16-04 or the "Rules of Procedure of the National Privacy Commission", as may be amended.
+   K. "Rules of Procedure" refers to [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] or the "Rules of Procedure of the National Privacy Commission", as may be amended.
 
    L. "*Sua Sponte* Investigation" shall refer to an investigation initiated by the NPC itself for possible violation of the [[laws/data-privacy-act-of-2012|DPA]] by one or more entities.
 
@@ -67,7 +67,7 @@ date: "2020-10-26"
 
    A. the CID, through its *sua sponte* investigation or the CMD through its conduct of compliance checks and handling of breach notifications, if there is a finding that the grounds for the issuance of the CDO are present; or
 
-   B. the Aggrieved Party, either attached to a complaint or as an independent action, with payment of filing fees in accordance with the Rules of Procedure of the NPC, and upon recommendation by the CID after its assessment that the application is sufficient in form and substance.
+   B. the Aggrieved Party, either attached to a complaint or as an independent action, with payment of filing fees in accordance with the [[issuances/undated/rules-of-procedure|Rules of Procedure of the NPC]], and upon recommendation by the CID after its assessment that the application is sufficient in form and substance.
 
 **SECTION 6.** ***Contents of a Verified Application.*** - The application for the issuance of a CDO must specify the following:
 

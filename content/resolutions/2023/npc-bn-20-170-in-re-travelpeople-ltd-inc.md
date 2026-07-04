@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2023
   - npc-case
+  - topic/breach-notification
 date: "2023-11-13"
 draft: false
 ---
@@ -88,7 +89,7 @@ Whether the Commission shall grant the Motion for Partial Reconsideration filed 
 
 The Commission notes the Compliance of TravelPeople dated 09 February 2021. Further, the Commission denies the Motion for Partial Reconsideration filed by TravelPeople.
 
-The case falls under mandatory data subject notification, as provided by the provisions of NPC Circular No. 16-03.
+The case falls under mandatory data subject notification, as provided by the provisions of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 
 Rule V, Section 11 of NPC Circular No. 16-03 provides:
 
@@ -119,7 +120,7 @@ As to the second requisite, the third-party forensic investigation engaged by Tr
 
 Moreover, as previously held by the Commission in its Resolution dated 21 September 2020:
 
-> It should be noted that a loss of control over personal data held in custody should be enough for a personal information controller to have “reason to believe that the information may have been acquired by an unauthorized person.” An indication of exfiltration of data is not a requirement in Section 11(b). Absolute certainty of acquisition by an unauthorized person is not required by either the Circular or the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA), considering that the condition only provides for a determination based on the existing circumstances that can give a “reason to believe.”[^27]
+> It should be noted that a loss of control over personal data held in custody should be enough for a personal information controller to have “reason to believe that the information may have been acquired by an unauthorized person.” An indication of exfiltration of data is not a requirement in Section 11(b). Absolute certainty of acquisition by an unauthorized person is not required by either the Circular or the Data Privacy Act (DPA), considering that the condition only provides for a determination based on the existing circumstances that can give a “reason to believe.”[^27]
 
 In this case, TravelPeople has lost control over the information of its clients. It must be noted that TravelPeople admitted that “booking records of approximately [one hundred thousand] 100,000 or more individuals became temporarily inaccessible” as a result of the ransomware attack in its system.[^28] Hence, it can be inferred that there is a loss of control over personal data when TravelPeople has lost access to its system.
 
@@ -141,7 +142,7 @@ In view thereof, considering that all the requisites for mandatory breach notifi
 
 2. **DIRECT** TravelPeople, Ltd., Inc. to **NOTIFY** the affected data subjects and **SUBMIT** proof of notification directly to the Compliance and Monitoring Division (CMD) within fifteen (15) days from receipt of this Resolution;
 
-3. **DIRECT** CMD to issue the appropriate orders necessary to evaluate and monitor the completeness of TravelPeople Ltd., Inc. Compliance, and assess its breach management pursuant to NPC Circular 16-03 (Personal Data Breach Management).
+3. **DIRECT** CMD to issue the appropriate orders necessary to evaluate and monitor the completeness of TravelPeople Ltd., Inc. Compliance, and assess its breach management pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]].
 
 **SO ORDERED.**
 
@@ -190,13 +191,13 @@ GENERAL RECORDS UNIT
 [^18]: Compliance and Motion for Partial Reconsideration dated 11 February 2021 of TravelPeople, Ltd., Inc.
 [^19]: Compliance and Motion for Partial Reconsideration dated 11 February 2021 of TravelPeople, Ltd., Inc.
 [^20]: Compliance and Motion for Partial Reconsideration dated 11 February 2021 of TravelPeople, Ltd., Inc.
-[^21]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).
+[^21]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], NPC Circular 16-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).
 [^22]: Full breach report dated 11 February 2021 of TravelPeople, Ltd., Inc.
-[^23]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3(g) (2012).
+[^23]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(g)]] (2012).
 [^24]: NPC BN 18-010 (unreported), Order dated 11 May 2023, at pp. 3-4.
 [^25]: Compliance and Motion for Partial Reconsideration dated 11 February 2021 of TravelPeople, Ltd., Inc.
 [^26]: Compliance and Motion for Partial Reconsideration dated 11 February 2021 of TravelPeople, Ltd., Inc.
 [^27]: In Re: TravelPeople, Ltd., Inc. NPC BN 20-170, Resolution dated 21 September 2020.
 [^28]: Full breach report dated 11 February 2021 of TravelPeople, Ltd., Inc.
-[^29]: In re: Batangas Bay Carriers, Inc. NPC BN 20-157, Resolution dated 21 September 2020.
-[^30]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).
+[^29]: [[resolutions/2020/npc-bn-20-157-in-re-batangas-bay-carriers-inc|In re: Batangas Bay Carriers, Inc.]] NPC BN 20-157, Resolution dated 21 September 2020.
+[^30]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], NPC Circular 16-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).

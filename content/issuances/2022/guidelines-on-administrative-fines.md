@@ -11,6 +11,7 @@ tags:
 - issuance
 - type/circular
 - year/2022
+- topic/data-subject-rights
 title: "Guidelines on Administrative Fines (Circular No. 2022-01)"
 ---
 
@@ -43,17 +44,17 @@ title: "Guidelines on Administrative Fines (Circular No. 2022-01)"
 
    b. For each infraction of any of the data subject rights pursuant to [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]], where the total number of affected data subjects is one thousand or below (1-1,000);
 
-   c. Any failure by a PIC to implement reasonable and appropriate measures to protect the security of personal information pursuant to Section 20 (a), (b), (c), or (e) of the [[laws/data-privacy-act-of-2012|DPA]];
+   c. Any failure by a PIC to implement reasonable and appropriate measures to protect the security of personal information pursuant to [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a), (b), (c), or (e) of the DPA]];
 
-   d. Any failure by a PIC to ensure that third parties processing personal information on its behalf shall implement security measures pursuant to Section 20 (c) or (d) of the [[laws/data-privacy-act-of-2012|DPA]]; or
+   d. Any failure by a PIC to ensure that third parties processing personal information on its behalf shall implement security measures pursuant to [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (c) or (d) of the DPA]]; or
 
-   e. Any failure by a PIC to notify the Commission and affected data subjects of personal data breaches pursuant to Section 20 (f) of the [[laws/data-privacy-act-of-2012|DPA]], unless otherwise punishable by [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Section 30 of the DPA]].
+   e. Any failure by a PIC to notify the Commission and affected data subjects of personal data breaches pursuant to [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (f) of the DPA]], unless otherwise punishable by [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Section 30 of the DPA]].
 
 **SECTION 2.3.** ***Other infractions.*** Any natural or juridical person processing personal data that commits any of the omissions provided hereunder shall be subject to an administrative fine of not less than Fifty Thousand Pesos (Php 50,000) but not exceeding Two Hundred Thousand Pesos (Php 200,000):
 
-   i. The failure to register the true identity or contact details of the PIC, the data processing system, or information on automated decision making, pursuant to Section 7(a), Section 16, and [[laws/data-privacy-act-of-2012#section-24-applicability-to-government-contractors|Section 24 of the DPA]] and its corresponding implementing issuances; or
+   i. The failure to register the true identity or contact details of the PIC, the data processing system, or information on automated decision making, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(a)]], [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16]], and [[laws/data-privacy-act-of-2012#section-24-applicability-to-government-contractors|Section 24 of the DPA]] and its corresponding implementing issuances; or
 
-   ii. The failure to provide updated information as to the identity or contact details of the PIC, the data processing system, or information on automated decision making, pursuant to Section 7(a), Section 16, and [[laws/data-privacy-act-of-2012#section-24-applicability-to-government-contractors|Section 24 of the DPA]] and its corresponding implementing issuances.
+   ii. The failure to provide updated information as to the identity or contact details of the PIC, the data processing system, or information on automated decision making, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(a)]], [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16]], and [[laws/data-privacy-act-of-2012#section-24-applicability-to-government-contractors|Section 24 of the DPA]] and its corresponding implementing issuances.
 
    b. Any natural or juridical person processing personal data that fails to comply with any Order, Resolution, or Decision of the Commission, or of any of its duly authorized officers, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] and its corresponding implementing issuances, shall be subject to an administrative fine not exceeding Fifty Thousand Pesos (Php 50,000).
 
@@ -109,7 +110,7 @@ No motion to reduce bond shall be entertained by the Commission.
 
 **SECTION 7.** ***Refusal to comply.*** In case of refusal to pay the adjudged administrative fine under this Circular, the PIC or PIP may be subject to a Cease and Desist Order (CDO), other processes or reliefs as the Commission may be authorized to initiate pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], and appropriate contempt proceedings under the Rules of Court.
 
-Notwithstanding the provisions of [[issuances/1988/faqs|NPC Circular No. 20-02]] or the Rules on the Issuance of Cease and Desist Orders, the failure to comply with the Order, Resolution, or Decision of the Commission may, after notice and hearing, result in the issuance of a CDO.
+Notwithstanding the provisions of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]] or the Rules on the Issuance of Cease and Desist Orders, the failure to comply with the Order, Resolution, or Decision of the Commission may, after notice and hearing, result in the issuance of a CDO.
 
 **SECTION 8.** ***Periodic review and modification.*** This Circular may be modified, amended, supplemented, or repealed as may be deemed necessary and proper by the Commission.
 

@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/online-lending"
 date: "2023-11-13"
 draft: false
 ---
@@ -76,7 +78,7 @@ FundKo claimed that they no longer heard from the 34 affected data subjects and 
 
 Upon evaluation of FundKo's Post-Breach Report, the Commission finds that the PIC has not sufficiently complied with the Order to provide proof of notification to the affected data subjects.
 
-Section 18 (D) of NPC Circular No. 16-03 or the Personal Data Breach Management states:
+Section 18 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 or the Personal Data Breach Management]] states:
 
 > D. Form. Notification of affected data subjects shall be done individually, using secure means of communication, whether written or electronic. The personal information controller shall take the necessary steps to ensure the proper identity of the data subject being notified, and to safeguard against further unnecessary disclosure of personal data.
 >
@@ -88,7 +90,7 @@ Thus, the Commission, in order to holistically resolve the matter deems it prope
 
 WHEREFORE, premises considered, Respondent Fintechnology, Inc. (FundKo) is hereby **ORDERED** to submit proof of notification to the affected data subjects within fifteen (15) days from the receipt of this Order directly to the Compliance and Monitoring Division (CMD).
 
-The Commission **DIRECTS** the Compliance and Monitoring Division (CMD) to issue the appropriate orders necessary to evaluate and monitor the completeness of Fintechnology, Inc.'s (FundKo) data breach notification and assess its breach management pursuant to NPC Circular 16-03 (Personal Data Breach Management).
+The Commission **DIRECTS** the Compliance and Monitoring Division (CMD) to issue the appropriate orders necessary to evaluate and monitor the completeness of Fintechnology, Inc.'s (FundKo) data breach notification and assess its breach management pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]].
 
 **SO ORDERED.**
 
@@ -150,7 +152,7 @@ GENERAL RECORDS UNIT
 [^29]: Post Breach Report dated 13 July 2022 of Fintechnology, Inc. (FundKo), at p. 3.
 [^30]: Id., at p. 4.
 [^31]: Id., at p. 4.
-[^32]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18 (D) (15 December 2016) (NPC Circular 16-03).
+[^32]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18 (D) (15 December 2016) (NPC Circular 16-03).
 [^33]: Notification of a Privacy Breach Incident dated 22 December 2018 of Fintechnology, Inc. (FundKo); Post Breach Report dated 13 July 2022 of Fintechnology, Inc. (FundKo).
 [^34]: Notification of a Privacy Breach Incident dated 22 December 2018 of Fintechnology, Inc. (FundKo), at p. 2.
 [^35]: Post Breach Report dated 13 July 2022 of Fintechnology, Inc. (FundKo), at p. 4.

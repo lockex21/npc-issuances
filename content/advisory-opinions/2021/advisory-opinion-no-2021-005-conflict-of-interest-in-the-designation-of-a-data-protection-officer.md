@@ -5,6 +5,12 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/registration"
+aliases:
+  - "NPC Advisory Opinion No. 2021-005"
+  - "npc advisory opinion no. 2021-005"
+  - "Advisory Opinion No. 2021-005"
+  - "advisory opinion no. 2021-005"
 draft: false
 ---
 

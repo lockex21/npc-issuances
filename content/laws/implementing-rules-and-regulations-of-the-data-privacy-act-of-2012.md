@@ -9,6 +9,16 @@ tags:
   - "law"
   - "philippines"
   - "data-privacy"
+  - "topic/ai"
+  - "topic/breach-notification"
+  - "topic/consent"
+  - "topic/cross-border-transfers"
+  - "topic/data-sharing"
+  - "topic/data-subject-rights"
+  - "topic/employment"
+  - "topic/government"
+  - "topic/registration"
+  - "topic/security"
 draft: false
 ---
 

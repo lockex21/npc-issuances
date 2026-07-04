@@ -5,6 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/ai
+  - topic/data-sharing
+aliases:
+  - "NPC Advisory Opinion No. 2017-008"
+  - "npc advisory opinion no. 2017-008"
+  - "Advisory Opinion No. 2017-008"
+  - "advisory opinion no. 2017-008"
 draft: false
 ---
 
@@ -25,10 +32,10 @@ Dear [Redacted],
 
 This pertains to your queries received by the National Privacy Commission (NPC) on 7 November 2016 through email. Specifically, you inquired regarding the following:
 
-a. What is the definition of outsourcing/subcontracting under Rule X? Does outsourcing refer to a function/activity which the Company can perform but decides to allow another person to do it for the Company? Does outsourcing refer to a function/activity which the Company cannot perform or is restricted from performing because it is not in its powers/primary/secondary purpose?
-b. What is meant by automated decision-making and profiling under Sec. 34.a.1 vs. automated processing or profiling under Sec. 34.a.2.b? – this is related to automated processing of personal data for profiling or processing for direct marketing and data sharing, under Sec. 19.a.1[^1]
-c. What is meant by "a report containing aggregated data" under Sec. 41b, Breach report, for security incidents not involving personal data?
-d. Why does Data Sharing exclude Outsourcing under Sec. 3f? What does this mean?
+a. What is the definition of outsourcing/subcontracting under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#rule-x-outsourcing-and-subcontracting-agreements|Rule X]]? Does outsourcing refer to a function/activity which the Company can perform but decides to allow another person to do it for the Company? Does outsourcing refer to a function/activity which the Company cannot perform or is restricted from performing because it is not in its powers/primary/secondary purpose?
+b. What is meant by automated decision-making and profiling under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Sec. 34.a.1]] vs. automated processing or profiling under Sec. 34.a.2.b? – this is related to automated processing of personal data for profiling or processing for direct marketing and data sharing, under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Sec. 19.a.1]][^1]
+c. What is meant by "a report containing aggregated data" under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-41-breach-report|Sec. 41b, Breach report]], for security incidents not involving personal data?
+d. Why does Data Sharing exclude Outsourcing under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|Sec. 3f]]? What does this mean?
 e. What is meant by data sharing for "commercial purposes"?
 f. What happens if the data is only physically stored to a storage provider who has no access at all to the data? Does this fall within the ambit of the Data Privacy Act?
 
@@ -44,13 +51,13 @@ That said, it must be emphasized that the processing of personal data must alway
 
 #### Automated Decision-making, Automated Processing and Profiling
 
-Section 34.a.1 of the IRR refers to the right of the data subject to be informed of the processing of his or her personal data, including the existence of automated decision-making and profiling. Section 34.a.2.b, on the other hand, pertains to the right of a data subject to be notified of the purpose of the processing (e.g., for profiling, direct marketing, etc.) of his or her personal data, prior to the entry of the latter into the processing system. Finally, Section 19.a.2 involves the general principle in data processing which states that a data subject must be given specific information about the purpose and extent of the processing (including automated processing) of his or her personal data.
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34.a.1 of the IRR]] refers to the right of the data subject to be informed of the processing of his or her personal data, including the existence of automated decision-making and profiling. Section 34.a.2.b, on the other hand, pertains to the right of a data subject to be notified of the purpose of the processing (e.g., for profiling, direct marketing, etc.) of his or her personal data, prior to the entry of the latter into the processing system. Finally, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19.a.2]] involves the general principle in data processing which states that a data subject must be given specific information about the purpose and extent of the processing (including automated processing) of his or her personal data.
 
 Taken together, these provisions emphasize that when a personal information controller is about to process the personal data of an individual, it must make sure that the latter is properly informed of such processing, including the purpose thereof.
 
 For the definitions of the key terms mentioned in the aforesaid provisions, please note the following:
 
-**a. Automated Processing.** The term is not defined in the DPA or its IRR. However, Section 48 of the latter does provide some guidance, to wit:
+**a. Automated Processing.** The term is not defined in the DPA or its IRR. However, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-48-notification-of-automated-processing-operations|Section 48]] of the latter does provide some guidance, to wit:
 
 > "Section 48. Notification for Automatic Processing Operations. The personal information controller shall notify the Commission before carrying out any wholly or partly automatic processing operations or set of such operations intended to serve a single purpose or several related purposes, including passive collection of data." (underscoring supplied)
 
@@ -76,7 +83,7 @@ While not prohibited by law, profiling is generally frowned upon, especially to 
 
 #### Aggregated Data
 
-Section 41.b of the IRR reads:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-41-breach-report|Section 41.b of the IRR]] reads:
 
 > "All security incidents and personal data breaches shall be documented through written reports, including those not covered by the notification requirements. In the case of personal data breaches, a report shall include the facts surrounding an incident, the effects of such incident, and the remedial actions taken by the personal information controller. In other security incidents not involving personal data, a report containing aggregated data shall constitute sufficient documentation. These reports shall be made available when requested by the Commission. A general summary of the reports shall be submitted to the Commission annually."
 
@@ -111,12 +118,12 @@ IVY D. PATDU
 Deputy Privacy Commissioner,
 Policy and Planning
 
-[^1]: NPC Circular No. 2016-02, § 2.
+[^1]: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 2016-02]], § 2.
 [^2]: NOTE: Under the DPA, a personal information controller refers to a natural or juridical person, or any other body who controls the processing of personal data, or instructs another to process personal data on its behalf, while personal information processor refers to any natural or juridical person or any other body to whom a personal information controller may outsource or instruct the processing of personal data pertaining to a data subject.
-[^3]: *See* RA 10173, § 12-13.
-[^4]: IRR of RA 10173, § 3(p).
-[^5]: *See* IRR of RA 10173, § 19(a)(2), § 34(a)(1), § 34(a)(2)(b).
-[^6]: IRR of RA 10173, § 34(b).
-[^7]: IRR of RA 10173, § 3(f).
+[^3]: *See* [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|RA 10173, § 12]]-[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]].
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR of RA 10173, § 3(p)]].
+[^5]: *See* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|IRR of RA 10173, § 19(a)(2)]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|§ 34(a)(1), § 34(a)(2)(b)]].
+[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|IRR of RA 10173, § 34(b)]].
+[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR of RA 10173, § 3(f)]].
 [^8]: *Ibid*.
-[^9]: IRR of RA 10173, § 3(o).
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR of RA 10173, § 3(o)]].

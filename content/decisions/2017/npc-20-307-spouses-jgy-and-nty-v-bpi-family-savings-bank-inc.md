@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2020"
   - "npc-case"
+  - "topic/employment"
+  - "topic/legitimate-interest"
 date: "2023-08-17"
 draft: false
 ---
@@ -55,7 +57,7 @@ For: Violation of the Data Privacy Act of 2012
 
 DE JESUS, D.P.C.;
 
-Before this Commission is a complaint filed by Spouses JGY and NTY (Complainants) against BPI Family Savings Bank, Inc. (Respondent) for an alleged violation of Section 32 (Unauthorized Disclosure) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a complaint filed by Spouses JGY and NTY (Complainants) against BPI Family Savings Bank, Inc. (Respondent) for an alleged violation of [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure)]] of Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -214,7 +216,7 @@ On 04 August 2021, the respective representatives of both parties were present.[
 1. The status or resolution of the case where the Joint Counter-Affidavit of directors, officers, and employees of MBDC was filed; and
 2. The list of other cases and/or status thereof between complainants and MBDC.[^67]
 
-Thereafter, and considering that both parties manifested their willingness to undergo mediation under NPC Circular 2021-01,[^68] the scheduled second preliminary conference was canceled, and the proceedings were suspended.[^69]
+Thereafter, and considering that both parties manifested their willingness to undergo mediation under [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 2021-01]],[^68] the scheduled second preliminary conference was canceled, and the proceedings were suspended.[^69]
 
 On 27 August 2021, the assigned investigating officer issued an Order approving the Application for Mediation filed by the parties, and ordering them to appear at the preliminary mediation conference set on 10 September 2021.[^70]
 
@@ -279,7 +281,7 @@ Whether Respondent violated Section 32 (Unauthorized Disclosure) of the Data Pri
 
 The instant Complaint for the alleged violation of the DPA must be dismissed for lack of merit.
 
-The Commission previously held in *RLA vs. PLDT Enterprise*[^118] that Section 32 of the DPA penalizes disclosure of personal information not falling within [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 of the DPA]] or due to malicious disclosure.[^119] According to the Commission:
+The Commission previously held in [[decisions/2016/npc-18-010-rla-v-pldt-enterprise|*RLA vs. PLDT Enterprise*]][^118] that Section 32 of the DPA penalizes disclosure of personal information not falling within [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 of the DPA]] or due to malicious disclosure.[^119] According to the Commission:
 
 > A PIC or a PIP may be held liable for malicious disclosure if it discloses unwarranted or false personal or sensitive personal information with malice of bad faith. A finding of Malicious Disclosure requires that first, the disclosed personal information is unwarranted or false, and second, the disclosure is malicious or in bad faith. If either of these two requisite is absent, then the offense falls under Section 32 or Unauthorized Disclosure.[^120]
 
@@ -294,7 +296,7 @@ Thus, in determining whether a violation of Section 32 of the DPA occurred, the 
 1. The perpetrator is a personal information controller or personal information processor;
 2. The information relates to personal data;
 3. The perpetrator disclosed information to a third party;
-4. The disclosure was without any of the lawful basis for processing, consent or otherwise, under Sections 12 and 13 of the DPA; and
+4. The disclosure was without any of the lawful basis for processing, consent or otherwise, under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA; and
 5. The disclosure neither relates to unwarranted or false information nor malicious or in bad faith.[^127]
 
 As to the first element, the DPA defines a personal information controller (PIC) as "a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf."[^128]
@@ -511,7 +513,7 @@ National Privacy Commission
 [^65]: Order Resetting the First Preliminary Conference, 27 July 2021.
 [^66]: Order dated 04 August 2021.
 [^67]: *Id.*
-[^68]: 2021 Rules of Procedure of the National Privacy Commission, NPC Circular No. 2021-01.
+[^68]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission, NPC Circular No. 2021-01]].
 [^69]: Order dated 04 August 2021.
 [^70]: Order to Mediate, 27 August 2021.
 [^71]: Notice of Non-Settlement of Dispute, 06 December 2021.
@@ -561,7 +563,7 @@ National Privacy Commission
 [^115]: *Id.*, at par. 22.
 [^116]: *Id.*, at par. 23.
 [^117]: *Id.*
-[^118]: NPC 18-010.
+[^118]: [[decisions/2016/npc-18-010-rla-v-pldt-enterprise|NPC 18-010]].
 [^119]: *Id.*, at p. 18.
 [^120]: *Id.*
 [^121]: [[decisions/2022/npc-21-111-eg-v-ji-ro-and-rr|NPC 21-111]].
@@ -570,14 +572,14 @@ National Privacy Commission
 [^124]: *Delgado v. HRET*, G.R. No. 219603, 26 January 2016.
 [^125]: *Montinola vs. Philippine Airlines*, G.R. No. 198656, 08 September 2014.
 [^126]: Complaints-Assisted Form, 26 November 2020, in Spouses JGY and NTY v. BPI Family Savings Bank, Inc. NPC 20-307.
-[^127]: Data Privacy Act of 2012, § 32, see also NPC 18-010.
-[^128]: Data Privacy Act of 2012, § 3(h).
+[^127]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|§ 32]], see also [[decisions/2016/npc-18-010-rla-v-pldt-enterprise|NPC 18-010]].
+[^128]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(h)]].
 [^129]: Complaints-Assisted Form, 26 November 2020, in Spouses JGY and NTY v. BPI Family Savings Bank, Inc. NPC 20-307, Annex "C."
-[^130]: Data Privacy Act of 2012, § 32.
-[^131]: Data Privacy Act of 2012, § 3(g).
+[^130]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|§ 32]].
+[^131]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(g)]].
 [^132]: Verified Comment (To Complaint dated October 13, 2020), 08 July 2021, par. 10.
 [^133]: Complaints-Assisted Form, 26 November 2020, in Spouses JGY and NTY v. BPI Family Savings Bank, Inc. NPC 20-307.
-[^134]: Data Privacy Act of 2012, § 3(g).
+[^134]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(g)]].
 [^135]: Complaints-Assisted Form, 26 November 2020, in Spouses JGY and NTY v. BPI Family Savings Bank, Inc. NPC 20-307, Annex "7" of Annex "D."
 [^136]: *Id.*, Annex "D."
 [^137]: *Id.*, Annex "7" of Annex "D."
@@ -592,12 +594,12 @@ National Privacy Commission
 [^146]: Complaints-Assisted Form, 26 November 2020, in Spouses JGY and NTY v. BPI Family Savings Bank, Inc. NPC 20-307, Annex "C."
 [^147]: Complainant's Memorandum, 20 April 2022.
 [^148]: *Id.*
-[^149]: Data Privacy Act of 2012, § 12.
+[^149]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]].
 [^150]: NPC 19-758, citing [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]], MAF v. Shopee Philippines, Inc., 22 September 2022.
 [^151]: Verified Comment (To Complaint dated October 13, 2020), 08 July 2021, par. 19.
 [^152]: The General Banking Law of 2000, § 39.
 [^153]: [[decisions/2022/npc-20-317-and-20-318-gba-v-sbg-and-lpl-v-sbg|NPC 20-317]] and 20-318 GBA v SBG & LPL v SBG available at https://www.privacy.gov.ph/wp-content/uploads/2023/03/NPC-20-317-and-20-318.pdf
-[^154]: NPC Privacy Policy Office Advisory Opinion No. 2020-050, 26 November 2020.
+[^154]: NPC Privacy Policy Office [[advisory-opinions/2020/advisory-opinion-no-2020-050-redacted-advisory-opinion-no-2020-050-2|Advisory Opinion No. 2020-050]], 26 November 2020.
 [^155]: The General Banking Law of 2000, § 39.
 [^156]: Complaints-Assisted Form, 26 November 2020, in Spouses JGY and NTY v. BPI Family Savings Bank, Inc. NPC 20-307, Annex "B."
 [^157]: Complaints-Assisted Form, 26 November 2020, in Spouses JGY and NTY v. BPI Family Savings Bank, Inc. NPC 20-307, page 5.

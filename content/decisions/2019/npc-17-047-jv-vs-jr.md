@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2017"
   - "npc-case"
+  - "topic/employment"
+  - "topic/security"
 date: "2019-08-13"
 draft: false
 ---
@@ -42,7 +44,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.
 
-For consideration before this Commission is a complaint filed by JV against JR, in her capacity as the Customer Service Manager of the SM Store, for an indeterminate violation of the Data Privacy Act (DPA).[^1]
+For consideration before this Commission is a complaint filed by JV against JR, in her capacity as the Customer Service Manager of the SM Store, for an indeterminate violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA).[^1]
 
 #### These Proceedings
 
@@ -117,7 +119,7 @@ The issues to be resolved in this case are:
 
 ### Discussion
 
-On the procedural aspect of the case, NPC Circular 16-04 provides for the form and content of Complaints, thus:
+On the procedural aspect of the case, [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] provides for the form and content of Complaints, thus:
 
 #### Form and Contents of Complaints
 
@@ -137,7 +139,7 @@ Considering that the complainant cites no specific violation of the Data Privacy
 
 It is undisputed that the birth certificate of the complainant contains personal information and sensitive personal information as defined under the Data Privacy Act.
 
-One of the criteria provided under Sections 12 and 13 of the Act for the lawful processing of both personal and sensitive personal information is consent of the data subject. This consent must be specific to the purpose declared prior to the processing.
+One of the criteria provided under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the Act for the lawful processing of both personal and sensitive personal information is consent of the data subject. This consent must be specific to the purpose declared prior to the processing.
 
 A person requesting his birth certificate from the PSA is asked to fill out an application form for the issuance of his birth certificate.
 
@@ -193,7 +195,7 @@ On the proper usage of publicly available data, for example, this Commission has
 
 In this case, while it is correct to say that the complainant cannot expect that only the PSA will handle his request for his birth certificate, it is incorrect to say that "there is no longer a reasonable expectation that the privacy of his birth certificate extends only to the PSA"[^39] and therefore there is no privacy violation under the DPA. Following the discussion above on the application of the reasonable expectation of privacy test to informational privacy cases, determining whether the privacy rights of the complainant were violated or not should be rooted in the provisions of the Data Privacy Act.
 
-From the facts of this case, the complainant clearly consented to the Customer Service Center of the SM Store at SM Bicutan processing his request for a birth certificate as an accredited partner of PSA when he filed and paid for his request through them. Consent under Sections 12(a) and 13(a) of the Data Privacy Act served as the lawful basis for the respondent as well as the authorized personnel of SM Bicutan and PSA to process complainant's request.
+From the facts of this case, the complainant clearly consented to the Customer Service Center of the SM Store at SM Bicutan processing his request for a birth certificate as an accredited partner of PSA when he filed and paid for his request through them. Consent under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12(a)]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13(a)]] of the Data Privacy Act served as the lawful basis for the respondent as well as the authorized personnel of SM Bicutan and PSA to process complainant's request.
 
 Having established that there was lawful basis for respondent to process complainant's personal and sensitive personal information, do the circumstances alleged by complainant rise to the level of a violation of the Data Privacy Act to warrant a recommendation for criminal prosecution? We answer in the negative. As will be shown hereunder, this does not mean, however, that there was no lapse on the part of respondent or SM Bicutan.
 
@@ -305,7 +307,7 @@ National Privacy Commission
 [^12]: *Id.*, pp. 48-49, 59-60.
 [^13]: *Ibid.*
 [^14]: *Id.*, at p. 102.
-[^15]: NPC Circular 16-04, Section 10.
+[^15]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04]], Section 10.
 [^16]: Application Form – Birth Certificate, https://www.psaserbilis.com.ph/Secure/Files/Birth%20Application%20Form.pdf (last accessed on 08 August 2019).
 [^17]: *Ibid.*
 [^18]: *Katz v. United States*, 389 U.S. 347 (1967).
@@ -314,21 +316,21 @@ National Privacy Commission
 [^21]: *Ibid.*
 [^22]: G.R. No. 127685, 292 SCRA 141, 23 July 1998.
 [^23]: *Ibid.*
-[^24]: Data Privacy Act, § 2.
+[^24]: [[laws/data-privacy-act-of-2012|Data Privacy Act]], [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|§ 2]].
 [^25]: See the discussion on the three strands of privacy in *Vivares v. St. Theresa's College*, G.R. No. 202666, 29 September 2014, citing Chief Justice Reynato Puno's speech, *The Common Right to Privacy*.
 [^26]: Canon of statutory construction that a specific law prevails over a general law. See *Lopez v. Civil Service Commission*, G.R. No. 87119, 16 April 1991, citing *Butuan Sawmill, Inc. v. City of Butuan*, No. L-21516, April 29, 1966, 16 SCRA 755.
 [^27]: See generally, Articulating the Complete Philippine Right to Privacy in Constitutional and Civil Law, 82(4) PHIL. L.J. 78 (2008), cited in *Pollo v. David*, G.R. No. 181881, Oct. 18, 2011 (Bersamin, J., separate opinion).
-[^28]: Data Privacy Act, § 16.
+[^28]: [[laws/data-privacy-act-of-2012|Data Privacy Act]], [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16]].
 [^29]: *Id.*, at § 4(l).
-[^30]: *Id.*, at § 20.
-[^31]: *Id.*, at § 11.
+[^30]: *Id.*, at [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20]].
+[^31]: *Id.*, at [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
 [^32]: *Ople v. Torres*, G.R. No. 127685, 292 SCRA 141, 23 July 1998.
 [^33]: *Ibid.*
-[^34]: Data Privacy Act, § 16.
-[^35]: *Id.*, at § 11.
-[^36]: *Id.*, at §§ 12 and 13.
+[^34]: [[laws/data-privacy-act-of-2012|Data Privacy Act]], [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16]].
+[^35]: *Id.*, at [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
+[^36]: *Id.*, at §§ [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]].
 [^37]: See EU General Data Protection Regulation, Recital 47.
-[^38]: NPC Advisory Opinion 2018-050.
+[^38]: [[advisory-opinions/2018/advisory-opinion-no-2018-050-npc-advisory-opinion-no-2018-050|NPC Advisory Opinion 2018-050]].
 [^39]: Records, p. 29.
 [^40]: *Id.*, at p. 55.
 [^41]: *Id.*, at p. 5.
@@ -336,8 +338,8 @@ National Privacy Commission
 [^43]: *Id.*, at p. 627.
 [^44]: Rules of Court, Rule 133, § 5.
 [^45]: *Supra* note 16.
-[^46]: Data Privacy Act, § 3(i).
+[^46]: [[laws/data-privacy-act-of-2012|Data Privacy Act]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(i)]].
 [^47]: Records, pages 22-33.
 [^48]: *Id.*, Pages 3 and 5.
 [^49]: *Id.*, Pages 48-49, 59-60.
-[^50]: Data Privacy Act, § 38.
+[^50]: [[laws/data-privacy-act-of-2012|Data Privacy Act]], [[laws/data-privacy-act-of-2012#section-38-interpretation|§ 38]].

@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2019"
+  - "topic/government"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-037"
+  - "npc advisory opinion no. 2019-037"
+  - "Advisory Opinion No. 2019-037"
+  - "advisory opinion no. 2019-037"
 ---
 
 ## Source
@@ -51,7 +57,7 @@ Hence, its processing, which includes disclosure, may find basis under [[laws/da
 
 The EO clarifies that while providing access to information, public records, and official records, responsible officials shall afford full protection to the right to privacy of the individual.[^8] For this purpose, it requires that each government office shall ensure that personal information in its custody or control is disclosed or released only if it is material or relevant to the subject-matter of the request and its disclosure is permissible under the EO or existing law, rules or regulations, among others.[^9]
 
-Guidance is now being sought on how to apply the relevant provisions of law, to afford full protection to the right of privacy of individuals. In this regard, the NPC issued Advisory No. 2017-02 — Access to Personal Data Sheets of Government Personnel to assist agencies in determining when the PDS of government personnel can be released, considering the purpose, necessity, and proportionality of disclosure and the rights and freedoms of data subjects.
+Guidance is now being sought on how to apply the relevant provisions of law, to afford full protection to the right of privacy of individuals. In this regard, the NPC issued [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|Advisory No. 2017-02 — Access to Personal Data Sheets of Government Personnel]] to assist agencies in determining when the PDS of government personnel can be released, considering the purpose, necessity, and proportionality of disclosure and the rights and freedoms of data subjects.
 
 Pursuant to this Advisory, it has been recommended that government agencies must consider the following when resolving a request for access to a PDS:
 

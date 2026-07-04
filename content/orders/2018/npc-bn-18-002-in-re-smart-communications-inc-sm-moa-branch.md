@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2018"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/registration"
 date: "2023-03-16"
 draft: false
 ---
@@ -81,7 +83,7 @@ On 09 February 2018, the National Privacy Commission (NPC), through its Complain
 
 However, the records show that Smart failed to comply with the directive of the Commission to submit its Full Report.
 
-Section 17 (C) and (D) of the NPC Circular No. 16-03 or the Personal Data Breach Management provides:
+Section 17 (C) and (D) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] or the Personal Data Breach Management provides:
 
 > C. When delay is prohibited. There shall be no delay in the notification if the breach involves at least one hundred (100) data subjects, or the disclosure of sensitive personal information will harm or adversely affect the data subject. In both instances, the Commission shall be notified within the 72-hour period based on available information. **The full report of the personal data breach must be submitted within five (5) days, unless the personal information controller is granted additional time by the Commission to comply.**[^22]
 >
@@ -109,7 +111,7 @@ Section 17 (C) and (D) of the NPC Circular No. 16-03 or the Personal Data Breach
 
 The full breach report is required to assess whether Smart acted appropriately to protect the rights of the affected data subject and to ascertain whether it has undertaken measures to avoid further damage and prevent similar incidents from recurrence, all of which is crucial for the Commission's assessment in compliance with the DPA.
 
-Thus, Section 18 (E) of the NPC Circular No. 16-03 states:
+Thus, Section 18 (E) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] states:
 
 > *E. Form.* Notification shall be in the form of a report, whether written or electronic, containing the required contents of notification: Provided, that the report shall also include the name and contact details of the data protection officer and a designated representative of the personal information controller: Provided further, that, where applicable, the manner of notification of the data subjects shall also be included in the report.
 >
@@ -119,11 +121,11 @@ Thus, Section 18 (E) of the NPC Circular No. 16-03 states:
 
 Moreover, as mentioned in their submissions, Smart claimed that JO has already been notified regarding the incident.[^25] However, no proof of such notification was submitted by Smart.
 
-Thus, the Commission deems it proper that Smart, as Personal Information Controller (PIC), shall submit its Full Breach Report pursuant to NPC Circular No. 16-03 and proof of notification sent to the affected data subject. Smart is sternly reminded of its obligation to comply with the orders of the Commission.
+Thus, the Commission deems it proper that Smart, as Personal Information Controller (PIC), shall submit its Full Breach Report pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] and proof of notification sent to the affected data subject. Smart is sternly reminded of its obligation to comply with the orders of the Commission.
 
 **WHEREFORE,** premises considered, Smart Communications, Inc. is hereby **ORDERED** to submit a Full Breach Report and Proof of Notification to the affected data subject **within fifteen (15) days** from the receipt of this Order to the Compliance and Monitoring Division (CMD).
 
-The Commission **DIRECTS** the CMD to issue the appropriate orders necessary to evaluate and monitor the completeness of Smart Communications, Inc.'s data breach notification and assess its breach management pursuant to NPC Circular No. 16-03 (Personal Data Breach Management).
+The Commission **DIRECTS** the CMD to issue the appropriate orders necessary to evaluate and monitor the completeness of Smart Communications, Inc.'s data breach notification and assess its breach management pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management).
 
 **SO ORDERED.**
 
@@ -177,7 +179,7 @@ National Privacy Commission
 [^19]: *In re: Smart Communications, Inc. -SM MOA Branch,* NPC BN 18-002, Letter of WB dated 06 January 2018.
 [^20]: *Id.*
 [^21]: *In re: Smart Communications, Inc. -SM MOA Branch,* NPC BN 18-002, Inquiry dated 09 February 2018, at pp 1-2.
-[^22]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 17 (c) (15 December 2016) (NPC Circular 16-03).
+[^22]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 17 (c) (15 December 2016) (NPC Circular 16-03).
 [^23]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 17 (d) (15 December 2016) (NPC Circular 16-03).
 [^24]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18 (e) (15 December 2016) (NPC Circular 16-03).
 [^25]: Data Breach Notification of Smart Communications, Inc. dated 05 January 2018 at 2.

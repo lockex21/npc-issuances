@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "npc-case"
   - "year/2020"
+  - "topic/breach-notification"
 date: "2020-11-26"
 draft: false
 ---
@@ -52,7 +53,7 @@ On 19 November 2020, this Commission received SLGFI’s submission of the copy o
 
 ### Discussion
 
-Evaluating the current submission of SLGFI, together with the Compliance letter dated 12 October 2020 and the Supplemental Report dated 13 October 2020, this Commission finds the totality of SLGFI’s submission to be compliant with the requirements of NPC Circular 16-03.
+Evaluating the current submission of SLGFI, together with the Compliance letter dated 12 October 2020 and the Supplemental Report dated 13 October 2020, this Commission finds the totality of SLGFI’s submission to be compliant with the requirements of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
 In the 15 October 2020 Order of the Commission, we noted that SLGFI’s submission to be incomplete due to the non-attachment of the notification letter that was sent to the affected data subjects. Upon review of the submitted notification, this Commission now finds the contents to satisfy the requirements of Section 18 (C) of NPC Circular 16-03[^1].
 

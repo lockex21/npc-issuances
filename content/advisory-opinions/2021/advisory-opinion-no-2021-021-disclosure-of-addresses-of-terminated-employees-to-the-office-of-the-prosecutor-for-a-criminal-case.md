@@ -1,10 +1,17 @@
 ---
 title: "NPC Advisory Opinion No. 2021-021 — Disclosure Of Addresses Of Terminated Employees To The Office Of The Prosecutor For A Criminal Case"
 description: "Guidance on disclosure of terminated employees' addresses to the Office of the Prosecutor in criminal cases."
+aliases:
+  - "NPC Advisory Opinion No. 2021-021"
+  - "npc advisory opinion no. 2021-021"
+  - "Advisory Opinion No. 2021-021"
+  - "advisory opinion no. 2021-021"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/employment"
+  - "topic/legitimate-interest"
 draft: false
 ---
 
@@ -29,7 +36,7 @@ Dear [Redacted],
 We write in response to your letter seeking clarification from the National Privacy
 Commission (NPC) on whether the disclosure of addresses of terminated employees to the
 Office of the Prosecutor in connection with the criminal case filed by a company violates the
-Data Privacy Act of 2012[^2] (DPA).
+[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 We understand from your letter that a certain company terminated several employees
 following all Department of Labor and Employment-prescribed procedures, and upon
@@ -47,7 +54,7 @@ and proportionality.
 
 In particular, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] allows the processing of personal information if the
 same is necessary for the purpose of the legitimate interests pursued by the personal
-information controller or by a third party. On the other hand, Section 13 (f) permits the
+information controller or by a third party. On the other hand, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] permits the
 processing of sensitive personal information if it is necessary for the protection of lawful rights
 and interests of natural or legal persons in court proceedings, or the establishment, exercise
 or defense of legal claims.

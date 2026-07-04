@@ -1,10 +1,16 @@
 ---
 title: "NPC Advisory Opinion No. 2024-009 — Use of Personal Information in Election Proceedings"
 description: "Guidance on the proper use of personal information in the conduct of elections for sectoral representatives pursuant to the LPG Industry Regulation Act."
+aliases:
+  - "NPC Advisory Opinion No. 2024-009"
+  - "npc advisory opinion no. 2024-009"
+  - "Advisory Opinion No. 2024-009"
+  - "advisory opinion no. 2024-009"
 tags:
   - issuance
   - type/advisory-opinion
   - year/2024
+  - topic/elections
 draft: false
 ---
 
@@ -41,7 +47,7 @@ Please note that personal information under the DPA refers to personal informati
 
 #### Lawful Criteria for Processing; Fulfillment of Mandate; Proportionality Principle
 
-Sec. 12 (e) of the DPA provides that a public authority’s statutory mandate is one of the lawful criteria for the processing of personal information.[^9] In this case, the lawful criteria by which the DOE can share and publish personal information is the LPG Industry Regulation Act[^10] together with the DOE’s general mandate of improving LPG programs under the JDC. Thus, in furtherance of its mandate, the DOE may share the personal information it has gathered to the election committee and publish the same to better facilitate the conduct of the elections.
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sec. 12 (e) of the DPA]] provides that a public authority’s statutory mandate is one of the lawful criteria for the processing of personal information.[^9] In this case, the lawful criteria by which the DOE can share and publish personal information is the LPG Industry Regulation Act[^10] together with the DOE’s general mandate of improving LPG programs under the JDC. Thus, in furtherance of its mandate, the DOE may share the personal information it has gathered to the election committee and publish the same to better facilitate the conduct of the elections.
 
 In line with the proportionality principle of the DPA, sharing and publication of the foregoing personal information must be limited to the fulfilment of DOE’s mandate. This means that the DOE may only share the necessary personal information only to facilitate the conduct of the elections.
 
@@ -62,10 +68,10 @@ Director IV, Privacy Policy Office
 [^1]: Sec. 12 DPA, Personal Information, Fulfillment of Mandate, Publication.
 [^2]: An Act Establishing The Regulatory Framework For The Safe Operations Of The Liquefied Petroleum Gas Industry, Delineating The Powers And Functions Of Various Government Agencies, Defining And Penalizing Certain Prohibited Acts, [LPG Industry Regulation Act, 2021] Republic Act 11592 (2021)
 [^3]: Department of Energy, Joint Department Circular No. JDC2022-11-0002, "LPG Cylinder Exchange, Swapping, and Improvement Programs and Its Implementing Guidelines" (25 November 2022)
-[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^5]: Ibid. § 4
-[^6]: Ibid. § 3 (g)
-[^7]: Id. § 3 (j)
+[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
+[^5]: Ibid. [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]]
+[^6]: Ibid. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]]
+[^7]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (j)]]
 [^8]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-052-redacted-advisory-opinion-no-2020-052-2|NPC Advisory Opinion No. 2020-052]] (27 November 2020)
-[^9]: Data Privacy Act of 2012, § 12 (e).
+[^9]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (e)]].
 [^10]: LPG Industry Regulation Act (2021), § 5

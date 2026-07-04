@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2026"
+  - "topic/government"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2026-003"
+  - "npc advisory opinion no. 2026-003"
+  - "Advisory Opinion No. 2026-003"
+  - "advisory opinion no. 2026-003"
 ---
 
 ## Source
@@ -94,11 +100,11 @@ VIDA ZORA G. BOCAR
 
 OIC-Director IV, Privacy Policy Office[^9]
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3(g) (2012).
-[^3]: Data Privacy Act of 2012, § 3(j).
-[^4]: Id. § 11.
-[^5]: Id. § 12(c).
-[^6]: Id. § 11.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(g)]] (2012).
+[^3]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(j)]].
+[^4]: Id. [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
+[^5]: Id. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12(c)]].
+[^6]: Id. [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
 [^7]: The Local Government Code of 1991, Republic Act No. 7160, § 16 (1991).
-[^8]: Id. § 11; IRR, §§ 17-18.
+[^8]: Id. [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]]; IRR, §§ 17-18.
 [^9]: National Privacy Commission Special Order No. 095, s. 2025.

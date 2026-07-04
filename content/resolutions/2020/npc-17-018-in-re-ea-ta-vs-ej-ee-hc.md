@@ -49,7 +49,7 @@ AGUIRRE, D.P.C.
 
 For consideration of the Commission is the Motion for Reconsideration filed by Complainants EA and TA (Complainants) of the Decision dated 15 July 2019 which dismissed the Complaint against the Respondents EJ, EE and HC (Respondents) on the ground that the elements for a violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (b) of the Data Privacy Act of 2012]] (DPA) were not sufficiently established.
 
-In Complainants’ Motion for Reconsideration, they argued that the Commission’s reliance on Section 13(f) of the Act is “misplaced and runs contrary to established law.”[^1] They state thus:
+In Complainants’ Motion for Reconsideration, they argued that the Commission’s reliance on [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the Act]] is “misplaced and runs contrary to established law.”[^1] They state thus:
 
 5. Moreover, the Decision states that the “establishment…of legal claims” as an exemption from the prohibition on processing sensitive personal information will set a dangerous precedent in allowing unauthorized persons from processing such personal sensitive information to their own nefarious ends.[^2]
 
@@ -59,7 +59,7 @@ In Respondents’ Comment / Opposition, they stressed that the Motion for Recons
 
 The Commission denies the Complainants’ Motion for Reconsideration.
 
-Complainants’ arguments relating to the exemption provided under Section 13(f) regarding the “establishment of legal claims” proceed from the erroneous assumption that a pending case is required. As this Commission has held in its Decision:
+Complainants’ arguments relating to the exemption provided under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f)]] regarding the “establishment of legal claims” proceed from the erroneous assumption that a pending case is required. As this Commission has held in its Decision:
 
 > “To require a[n existing] court proceeding for the application of Section 13(f)… would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of ‘establishment … of legal claims’ presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established.”[^4]
 
@@ -146,7 +146,7 @@ GENERAL RECORDS UNIT
 
 [^5]: Section 26. Irremovability of public record. — Any public record, an official copy of which is admissible in evidence, must not be removed from the office in which it is kept, except upon order of a court where the inspection of the record is essential to the just determination of a pending case.
 
-[^6]: Implementing Rules and Regulations of the Data Privacy Act of 2012 (hereinafter, "IRR"), § 18(b).
+[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Implementing Rules and Regulations of the Data Privacy Act of 2012]] (hereinafter, "IRR"), § 18(b).
 
 [^7]: Supra, Note 4.
 

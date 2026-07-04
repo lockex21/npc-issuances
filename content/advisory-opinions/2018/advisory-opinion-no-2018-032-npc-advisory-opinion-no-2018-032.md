@@ -5,6 +5,12 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/security
+aliases:
+  - "NPC Advisory Opinion No. 2018-032"
+  - "npc advisory opinion no. 2018-032"
+  - "Advisory Opinion No. 2018-032"
+  - "advisory opinion no. 2018-032"
 draft: false
 ---
 
@@ -146,7 +152,7 @@ Consent of the data subject refers to any freely given, specific, informed indic
 
 There is a need to revise this form as consent has to be specific in relation to a particular processing of personal data.
 
-We reiterate that there are lawful processing activities that is not based on consent. Please refer to Sections 12 and 13 of the DPA for the criteria for lawful processing of personal and sensitive personal information.
+We reiterate that there are lawful processing activities that is not based on consent. Please refer to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA for the criteria for lawful processing of personal and sensitive personal information.
 
 **2. Annex 2 – Inquiry Summary Form**
 

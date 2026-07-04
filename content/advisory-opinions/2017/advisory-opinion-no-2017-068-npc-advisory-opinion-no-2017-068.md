@@ -1,10 +1,16 @@
 ---
 title: "NPC Advisory Opinion No. 2017-068 — Data Privacy Act and Its Implementing Rules and Regulations"
+aliases:
+  - "NPC Advisory Opinion No. 2017-068"
+  - "npc advisory opinion no. 2017-068"
+  - "Advisory Opinion No. 2017-068"
+  - "advisory opinion no. 2017-068"
 description: "Advisory opinion clarifying the definition of personal information under the Data Privacy Act, distinguishing between prepaid and postpaid mobile numbers, and addressing requirements for obtaining consent when sharing personal information with third parties."
 tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/consent
 draft: false
 ---
 
@@ -60,9 +66,9 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, “Data Privacy Act of 2012” (15 August 2012).
-[^2]: Implementing Rules and Regulations of the Data Privacy Act (24 August 2016).
-[^3]: *Supra* note 1, §3(g).
+[^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]” (15 August 2012).
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act]] (24 August 2016).
+[^3]: *Supra* note 1, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(g)]].
 [^4]: Home Credit Philippines. Frequently Asked Questions. https://www.homecredit.ph/all-about-loans/frequently-asked-questions/. last visited: 13 October 2017.
-[^5]: *Supra* note 1, §16.
-[^6]: Implementing Rules and Regulations of RA No. 10173, §34(b).
+[^5]: *Supra* note 1, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§16]].
+[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Implementing Rules and Regulations of RA No. 10173, §34(b)]].

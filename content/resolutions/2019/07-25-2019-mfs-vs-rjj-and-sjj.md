@@ -48,7 +48,7 @@ x------------------------------------------------x
 
 LIBORO, P.C.:
 
-Assailed in this Motion for Reconsideration[^1] is the Decision[^2] dated 19 March 2018 of the National Privacy Commission (NPC) which declared that Respondents RJJ and SJJ did not violate Sections 25, 28, 29, 31, and 33 of the Data Privacy Act of 2012 (DPA) on unauthorized processing of personal information, processing of personal information and sensitive personal information for unauthorized purposes, unauthorized access or intentional breach, malicious disclosure, and combination of series of acts.
+Assailed in this Motion for Reconsideration[^1] is the Decision[^2] dated 19 March 2018 of the National Privacy Commission (NPC) which declared that Respondents RJJ and SJJ did not violate [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Sections 25]], [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|28]], [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|29]], [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|31]], and [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|33]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) on unauthorized processing of personal information, processing of personal information and sensitive personal information for unauthorized purposes, unauthorized access or intentional breach, malicious disclosure, and combination of series of acts.
 
 ### Facts
 
@@ -156,7 +156,7 @@ In other words, the movant is also required to point out succinctly *why* recons
 
 #### *A motion must comply with Sections 4 and 5 of Rule 15 of the Rules of Court*
 
-Section 32 of NPC Circular 16-04 states that the Rules of Court shall apply in suppletory character, and whenever practicable and convenient. A motion must comply with the requirements set forth under Sections 4 and 5 of Rule 15 of the Rules of Court.
+Section 32 of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] states that the Rules of Court shall apply in suppletory character, and whenever practicable and convenient. A motion must comply with the requirements set forth under Sections 4 and 5 of Rule 15 of the Rules of Court.
 
 A motion that does not comply with the abovementioned rule is a worthless piece of paper. The Supreme Court has held time and again, that under the aforementioned rule; mandatory is the requirement in a motion. As a rule, a motion without notice of hearing is considered *pro forma*.[^11]
 
@@ -166,7 +166,7 @@ Complainant’s motion for reconsideration, being a written motion must comply w
 
 Complainant alleges the failure of this Commission to comply with the rules and procedure of the NPC pertaining to investigation and examination of systems and procedures. He argues that the decision rendered by the Commission solely relied on the pleadings and pieces of evidence submitted by the parties without undergoing the requisite investigation undertaken by the investigating officer.
 
-NPC Circular 16-04 on the Rules of Procedure of the NPC outlines the procedure in filing complaints with the NPC. Complainant specifically raises in issue compliance with Section 16 of NPC Circular 16-04, pertinent portions reproduced below:
+[[issuances/undated/rules-of-procedure|NPC Circular 16-04]] on the Rules of Procedure of the NPC outlines the procedure in filing complaints with the NPC. Complainant specifically raises in issue compliance with Section 16 of NPC Circular 16-04, pertinent portions reproduced below:
 
 > **Section 16. Investigation; Examination of Systems and Procedures.** – The investigating officer shall investigate the circumstances surrounding the privacy violation or personal data breach. Investigations may include on-site examination of systems and procedures.[^12]
 

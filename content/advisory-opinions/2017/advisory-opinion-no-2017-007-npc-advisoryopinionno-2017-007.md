@@ -5,6 +5,14 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/consent
+  - topic/data-subject-rights
+  - topic/fees-and-payments
+aliases:
+  - "NPC Advisory Opinion No. 2017-007"
+  - "npc advisory opinion no. 2017-007"
+  - "Advisory Opinion No. 2017-007"
+  - "advisory opinion no. 2017-007"
 draft: false
 ---
 
@@ -98,9 +106,9 @@ IVY D. PATDU
 Deputy Privacy Commissioner,
 Policy and Planning
 
-[^1]: IRR of DPA of 2012, § 3(d).
+[^1]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR of DPA of 2012, § 3(d)]].
 [^2]: *Id*.
-[^3]: NPC Circular 16-04 – Rules of Procedure dated December 15, 2016, § 32.
+[^3]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04 – Rules of Procedure]] dated December 15, 2016, § 32.
 [^4]: Rules of Court, Rule 130, § 1.
 [^5]: *Id.*, § 2.
 [^6]: A.M. No. 01-7-01-SC - Rules on Electronic Evidence dated July 17, 2001, Rule 1, § 1.

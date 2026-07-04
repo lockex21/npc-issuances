@@ -11,6 +11,10 @@ tags:
   - type/decision
   - year/2019
   - npc-case
+  - topic/consent
+  - topic/government
+  - topic/legitimate-interest
+  - topic/security
 date: "2020-10-29"
 draft: false
 ---
@@ -42,7 +46,7 @@ x----------------------------------------------------x
 
 *AGUIRRE*, D.P.C.:
 
-Before this Commission is a Complaint filed by Complainant MNLC, Inc. (MNLCI) against Respondents PXXX Corporation, RCM, and AD, for an alleged violation of Republic Act No. 10173 ("Data Privacy Act").
+Before this Commission is a Complaint filed by Complainant MNLC, Inc. (MNLCI) against Respondents PXXX Corporation, RCM, and AD, for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 ("Data Privacy Act")]].
 
 ### The Facts
 
@@ -117,7 +121,7 @@ On 17 August 2020, Complainant filed a Motion to Resolve asking that the case al
 The issues in this case are:
 
 1. Whether this Commission validly acquired jurisdiction over this case;
-2. Whether the Complaint should be dismissed on the ground of non-exhaustion of remedies under NPC Circular 16-04;
+2. Whether the Complaint should be dismissed on the ground of non-exhaustion of remedies under [[issuances/undated/rules-of-procedure|NPC Circular 16-04]];
 3. Whether Respondent obtained valid consent from Complainant to collect and process personal and sensitive personal information from their members;
 4. Whether Respondent had a legitimate interest to collect and process personal and sensitive personal information from Complainant's members;
 5. Whether Respondent complied with the principle of proportionality in collecting and processing personal and sensitive personal information from Complainant's members;
@@ -152,7 +156,7 @@ In addition, Respondents mistakenly assume that the Commission can only acquire 
 
 Respondents claim that Complainant failed to exhaust administrative remedies because the correspondences sent by the latter's counsel lacked the required special power of attorney or the Secretary's Certificate.[^44]
 
-NPC Circular No. 16-04 provides for the rule on exhaustion of remedies, thus:
+[[issuances/undated/rules-of-procedure#rule-ii-complaints-for-violations-of-the-data-privacy-act|NPC Circular No. 16-04]] provides for the rule on exhaustion of remedies, thus:
 
 > Section 4. Exhaustion of remedies. No complaint shall be entertained unless:
 >
@@ -482,20 +486,20 @@ National Privacy Commission
 [^42]: *Supra* note 1, at 311-312. Emphasis supplied.
 [^43]: *Supra* note 2, at p. 6.
 [^44]: *Supra*, note 20.
-[^45]: Section 4, Rule II, NPC Circular 16-04. Dated 15 December 2016.
+[^45]: Section 4, [[issuances/undated/rules-of-procedure#rule-ii-complaints-for-violations-of-the-data-privacy-act|Rule II, NPC Circular 16-04]]. Dated 15 December 2016.
 [^46]: NPC Case No. 18-083, dated 21 May 2020.
 [^47]: *PNB v. Court of Appeals*, G.R. No. 218901, 15 February 2017.
 [^48]: *Supra* note 1, at 61.
 [^49]: *Id.*, at 5.
 [^50]: *Id.*, at 145.
 [^51]: *Id.*, at 42 dated 26 May 2019.
-[^52]: Data Privacy Act, §3.
+[^52]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act, §3]].
 [^53]: *Id.*, §13.
 [^54]: *Supra* note 1, at 341.
 [^55]: *Id.*, at 294-295.
 [^56]: *Id.*, at 341 and 348.
 [^57]: *Id.*, at 340 and 347.
-[^58]: Data Privacy Act, §3(b).
+[^58]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act, §3(b)]].
 [^59]: *Id.*
 [^60]: National Privacy Commission. Advisory Opinion 2019-034 Re: Consent and Its Withdrawal for Employment Purposes. 02 September 2019, *citing* European Commission, Article 29, Data Protection Working Party, Opinion 15/2011.
 [^61]: National Privacy Commission. [[advisory-opinions/2018/advisory-opinion-no-2018-013-npc-advisory-opinion-no-2018-013|Advisory Opinion No. 2018-013]] Re: Privacy Policy and Consent of Data Subjects. 18 April 2018.
@@ -531,12 +535,12 @@ National Privacy Commission
 [^91]: Order dated 11 September 2019.
 [^92]: Emphasis supplied.
 [^93]: *Supra* note 1 at 327-329.
-[^94]: Section 19, NPC Circular No. 16-04. Rules of Procedure of the National Privacy Commission. Dated 15 December 2016. Emphasis supplied.
+[^94]: Section 19, [[issuances/undated/rules-of-procedure#rule-iii-procedure-in-complaints|NPC Circular No. 16-04]]. Rules of Procedure of the National Privacy Commission. Dated 15 December 2016. Emphasis supplied.
 [^95]: Manifestation and Motion by Complainant, dated 3 February 2020.
 [^96]: Email dated 6 November 2020 by GSP.
 [^97]: *Supra* note 21.
 [^98]: NPC Case No. 17-018, Decision dated 15 July 2019.
-[^99]: Data Privacy Act, §3(j).
+[^99]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act, §3(j)]].
 [^100]: *Id.*, at § 3(l). Emphasis supplied.
 [^101]: *Id.*, at §16(f).
 [^102]: *Id.*, at §7(b).

@@ -1,10 +1,17 @@
 ---
 title: "NPC Advisory Opinion No. 2017-070 — PLDT’s Privacy Policy"
+aliases:
+  - "NPC Advisory Opinion No. 2017-070"
+  - "npc advisory opinion no. 2017-070"
+  - "Advisory Opinion No. 2017-070"
+  - "advisory opinion no. 2017-070"
 description: "Advisory opinion clarifying that privacy policies serve as public notifications of data processing practices rather than blanket consent, and addressing the requirement for individual consent for data sharing with sister companies, subsidiaries, and affiliates."
 tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/consent
+  - topic/data-sharing
 draft: false
 ---
 
@@ -63,9 +70,9 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, “Data Privacy Act of 2012” (15 August 2012).
-[^2]: Implementing Rules and Regulations of the Data Privacy Act (24 August 2016).
+[^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]” (15 August 2012).
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act]] (24 August 2016).
 [^3]: Office of the Privacy Commissioner for Personal Data, Hong Kong: Guidance Note-Guidance on Preparing Personal Information Collection Statement and Privacy Policy Statement, available at https://www.pcpd.org.hk/english/publications/files/GN_picspps_e.pdf
 [^4]: *Id.*
 [^5]: *Id.*
-[^6]: *Supra* note 1, §16.
+[^6]: *Supra* note 1, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§16]].

@@ -11,6 +11,8 @@ tags:
   - "type/resolution"
   - "year/2021"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/employment"
 date: "2021-04-29"
 draft: false
 ---
@@ -42,7 +44,7 @@ On 27 July 2018, the Cooperative’s associates accidentally transmitted the Sta
 
 On 02 August 2018, MSSECSC conducted a breach investigation and undertook the following measures to address the incident: i) It ordered the discontinuance of its original practice of sending SOA to all its members using email. As an alternative, it instead manually distributes the SOA to its members in order to prevent further disclosure or exposure; ii) It also sent notification to the affected data subjects; and iii) Asked the recipient who mistakenly received the email for its immediate deletion.[^2]
 
-On 28 October 2020, the Commission, through the Complaints and Investigation Division (CID), issued an Order requiring MSSECSC to submit a Post Breach Report detailing the incident, pursuant to NPC Circular No. 16-03 on Personal Data Breach Management.[^3]
+On 28 October 2020, the Commission, through the Complaints and Investigation Division (CID), issued an Order requiring MSSECSC to submit a Post Breach Report detailing the incident, pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] on Personal Data Breach Management.[^3]
 
 On 12 November 2020, the MSSECSC sent via email, a response to the aforementioned Order of the Commission.
 
@@ -54,7 +56,7 @@ Whether or not MSSECSC has implemented reasonable and appropriate measures to ad
 
 MSSECSC had implemented reasonable and appropriate measures in addressing the unauthorized disclosure of the data subjects’ information caused by a misdirected email.
 
-Section 11 of NPC Circular No. 16-03 provides the criteria when notification is required:
+Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides the criteria when notification is required:
 
 1. The personal data involves sensitive personal information or any other information that may be used to enable identity fraud. For this purpose, “other information” shall include, but not be limited to: data about the financial or economic situation of the data subject; usernames, passwords and other login data; biometric data; copies of identification documents, licenses or unique identifiers like Philhealth, SSS, GSIS, TIN number; or other similar information, which may be made the basis of decisions concerning the data subject, including the grant of rights or benefits.
 
@@ -62,7 +64,7 @@ Section 11 of NPC Circular No. 16-03 provides the criteria when notification is 
 
 3. The personal information controller or the Commission believes that the unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject.
 
-Further, Section 20(b) of the [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] known as the Data Privacy Act of 2012 (DPA) requires the personal information controller to implement reasonable and appropriate measures to protect personal information against natural dangers such as accidental loss or destruction, and human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration, and contamination.
+Further, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(b)]] of the [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] known as the Data Privacy Act of 2012 (DPA) requires the personal information controller to implement reasonable and appropriate measures to protect personal information against natural dangers such as accidental loss or destruction, and human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration, and contamination.
 
 In this breach notification before the Commission, the information in the said accidental disclosure contains the full name, share capital, savings deposit, and existing loan of the data subjects that can be used to directly and certainly identify them. Hence, in light of the above-cited provisions, it is evident that there was a necessity for MSSECSC to notify both this Commission and the affected data subjects due to the significant risk associated with it, and the likelihood that the information contained therein may be used to vitiate the privacy of the data subject.
 

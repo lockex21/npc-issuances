@@ -11,6 +11,10 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/breach-notification
+  - topic/elections
+  - topic/registration
+  - topic/security
 date: "2021-07-08"
 draft: false
 ---
@@ -74,13 +78,13 @@ Further, the Commission ordered COMELEC to comply with the following orders with
 
 1) The designation of Data Protection Officers/Compliance Officers for Privacy for every Regional Unit and the names and contact information thereof;
 
-2) A copy of its Security Incident Management Policy, pursuant to Sections 4 and 5 of NPC Circular 16-04, including documents demonstrating:
+2) A copy of its Security Incident Management Policy, pursuant to Sections 4 and 5 of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]], including documents demonstrating:
 
 a. Creation of its Breach Response Team, and the composition of thereof;
 
 b. Dissemination of this Security Policy to all election field offices;
 
-3) Complete Post-Breach Report on its management of this Personal Data Breach in compliance with Section 9 of NPC Circular 16-03.[^9]
+3) Complete Post-Breach Report on its management of this Personal Data Breach in compliance with Section 9 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].[^9]
 
 In a letter dated 07 December 2019, COMELEC submitted its compliance along with the pertinent attachments as proof of compliance with the orders of the Commission.
 
@@ -153,4 +157,4 @@ National Privacy Commission
 [^13]: Technical Report on BN 17-002 In re: Data Breach Notification dated 28 January 2017 of the COMELEC.
 [^14]: Memorandum issued by COMELEC Main Office regarding the breach incident in Wao, Lanao Del Sur dated 20 February 2017, Compliance Report.
 [^15]: *Id.*
-[^16]: Section 20 of R. A. 10173 or the Data Privacy Act of 2012
+[^16]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20]] of R. A. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]

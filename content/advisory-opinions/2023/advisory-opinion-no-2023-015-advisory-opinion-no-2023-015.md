@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2023"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-015"
+  - "npc advisory opinion no. 2023-015"
+  - "Advisory Opinion No. 2023-015"
+  - "advisory opinion no. 2023-015"
 ---
 
 ## Source
@@ -228,17 +233,17 @@ Very truly yours,
 ATTY. FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Id. § 4 (e) (2012).
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) (2016).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: [[laws/data-privacy-act-of-2012#section-4-scope|Id. § 4 (e)]] (2012).
+[^4]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5 (d)]] (2016).
 [^5]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-022-npc-advisory-opinion-no-2019-022|NPC Advisory Opinion No. 2019-022]] (07 May 2019) and [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|NPC Advisory Opinion No. 2020-015]] (24 Feb 2020).
 [^6]: NBI Reorganization and Modernization Act.
 [^7]: Instituting the National Drive to Suppress and Eradicate Professional Squatting and Squatting Syndicates, Amending Executive Order Nos. 178, s. 1999 and 129, s. 1993, and for Other Purposes, Executive Order No. 153, [December 10, 2002]
 [^8]: Id. § 3
-[^9]: Data Privacy Act of 2012, § 3 (g).
-[^10]: Id. § 3 (l).
-[^11]: Id. § 13 (f).
-[^12]: See: National Privacy Commission, NPC Advisory Opinion No. 2021-044 (Dec. 29, 2021).
-[^13]: National Privacy Commission, NPC Advisory Opinion No. 2022-005, 24 February 2022.
-[^14]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c) (2016).
+[^9]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (g)]].
+[^10]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id. § 3 (l)]].
+[^11]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Id. § 13 (f)]].
+[^12]: See: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-044-npc-advisory-opinion-no-2021-044|NPC Advisory Opinion No. 2021-044]] (Dec. 29, 2021).
+[^13]: National Privacy Commission, [[advisory-opinions/2022/advisory-opinion-no-2022-005-advisory-opinion-no-2022-005-redacted|NPC Advisory Opinion No. 2022-005]], 24 February 2022.
+[^14]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]] (2016).
 [^15]: Ibid.

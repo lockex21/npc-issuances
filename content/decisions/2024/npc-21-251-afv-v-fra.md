@@ -6,6 +6,7 @@ tags:
   - type/decision
   - year/2021
   - npc-case
+  - topic/legitimate-interest
 aliases:
   - "NPC 21-251"
   - "npc 21-251"
@@ -45,7 +46,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by AFV against FRA for an alleged violation of Sections 28, 31, and 32 of the Data Privacy Act of 2012 or Republic Act No. 10173 (DPA).
+Before this Commission is a Complaint filed by AFV against FRA for an alleged violation of [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Sections 28]], [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|31]], and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 or Republic Act No. 10173 (DPA)]].
 
 ### Facts
 
@@ -83,7 +84,7 @@ On 22 February 2022, FRA filed his Verified Comment.[^30] In his Verified Commen
 
 FRA also pointed out that he was authorized to be informed of the status of the collection of dues since he was the Treasurer of [HOA] at that time.[^35] He argues that as Treasurer, he had the authority to receive information on delinquent accounts pursuant to Section 1 (d) of the [HOA's] By-Laws since this involved [HOA's] financial status.[^36] He explained that he was [ ] in a special meeting dated 08 May 2019.[^37] He presented as proof the Affidavit of VSM who was the [ ],[^38] the Affidavit of LNF who was a [ ] from 21 February 2018 until 08 May 2019[^39] and [HOA] Memo No. 039-2019 informing the unit owners and residents of [the Condominium] of FRA's appointment.[^40]
 
-FRA further claimed that he had no control over the acts and opinions of the other unit owners in [the Condominium] and that he was not involved in the mocking of delinquent unit owners.[^41] FRA admitted that he suggested publishing the unit numbers of the delinquent unit owners but he emphasized that [the HOA] did not actually publish this information.[^42] Also, FRA stated that he denied the request of some [the HOA] members to disclose the names of the delinquent unit owners.[^43] According to FRA, he could not be faulted for the acts of [the HOA] members as they are entitled to their own opinion on the matter surrounding delinquent unit owners.[^44] He added that if there was indeed a valid request from a member in good standing of [the HOA] to be furnished a list of delinquent members for a valid purpose, the disclosure would be supported based on NPC Advisory Opinion 2018-011.[^45]
+FRA further claimed that he had no control over the acts and opinions of the other unit owners in [the Condominium] and that he was not involved in the mocking of delinquent unit owners.[^41] FRA admitted that he suggested publishing the unit numbers of the delinquent unit owners but he emphasized that [the HOA] did not actually publish this information.[^42] Also, FRA stated that he denied the request of some [the HOA] members to disclose the names of the delinquent unit owners.[^43] According to FRA, he could not be faulted for the acts of [the HOA] members as they are entitled to their own opinion on the matter surrounding delinquent unit owners.[^44] He added that if there was indeed a valid request from a member in good standing of [the HOA] to be furnished a list of delinquent members for a valid purpose, the disclosure would be supported based on [[advisory-opinions/2018/advisory-opinion-no-2018-011-npc-advisory-opinion-no-2018-011|NPC Advisory Opinion 2018-011]].[^45]
 
 FRA also argued that AFV did not prove his involvement in the opening of AFV's personal mail and packages.[^46] FRA also pointed out that AFV failed to establish his involvement in sending the email to the delinquent unit owners.[^47]
 
@@ -99,7 +100,7 @@ On 20 April 2022, AFV refiled her CAF and its attachments as her memorandum. She
 
 ### Issues
 
-I. Whether FRA had legitimate interest under Section 12 (f) to process AFV's personal information.
+I. Whether FRA had legitimate interest under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f)]] to process AFV's personal information.
 
 II. Whether there is substantial evidence to find FRA liable for violating Sections 28, 31, and 32 of the DPA.
 
@@ -308,9 +309,9 @@ National Privacy Commission
 [^51]: Memorandum, 11 April 2022, in AFV v. FRA, NPC 21-251 (NPC 2022).
 [^52]: E-mail, 20 April 2022, in AFV v. FRA, NPC 21-251 (NPC 2022).
 [^53]: CSS v. Global Dominion Financing Inc., [[decisions/2022/npc-21-064-gss-v-global-dominion-financing-inc|NPC 21-064]], 16 June 2022, at 7, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-064-2022.06.16-CSS-v.-Global-Dominion-Financing-Inc-Decision-FinalP.pdf (last accessed 09 September 2024).
-[^54]: An Act Protect Individual Personal Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (2012).
+[^54]: An Act Protect Individual Personal Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173 § 3]] (2012).
 [^55]: Complaints-Assisted Form, 22 September 2021, at 4, in AFV v. FRA, NPC 21-251 (NPC 2021).
-[^56]: Data Privacy Act of 2012, § 12 (f). Emphasis supplied.
+[^56]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (f)]]. Emphasis supplied.
 [^57]: MAF v. Shopee, [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]], 22 September 2022, at 9, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-167-2022.09.22-MAF-v.-Shopee-Decision-FinalP.pdf (last accessed 10 October 2024).
 [^58]: Complaints-Assisted Form, 22 September 2021, Appendix 2, in AFV v. FRA, NPC 21-251 (NPC 2021).
 [^59]: Id.

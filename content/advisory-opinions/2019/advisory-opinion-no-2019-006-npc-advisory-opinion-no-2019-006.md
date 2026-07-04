@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2019
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-006"
+  - "npc advisory opinion no. 2019-006"
+  - "Advisory Opinion No. 2019-006"
+  - "advisory opinion no. 2019-006"
 ---
 
 ## Source
@@ -59,6 +64,6 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: Tags: Health Research, Clinical Data, Health information
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (c) (2016).
+[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5 (c)]] (2016).
 [^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^4]: *Id.* § 4.
+[^4]: *Id.* [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]].

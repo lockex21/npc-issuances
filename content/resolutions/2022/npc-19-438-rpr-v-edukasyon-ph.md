@@ -11,6 +11,8 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/security"
 date: "2022-09-22"
 draft: false
 ---
@@ -52,7 +54,7 @@ RPR participated in the Amazon Web Services Siklab Pilipinas Online Conference (
 
 On 06 June 2019, the National Privacy Commission (NPC) received RPR’s Complaint-Assisted Form.[^2] RPR alleged that after the Conference, Edukasyon sent a “thank you letter” through email in which all participants were entered and exposed in the email field “To:”.[^3] He further alleged that the email contained a Dropbox link that points to a zip file.[^4] When he opened the zip file, it had the names and corresponding certificates of one hundred and three (103) participants, including himself.[^5]
 
-RPR contended that Edukasyon violated Sections 25, 26, 29, 32, 33, and 35 of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA).[^6] RPR prayed for a fine to be imposed and a cease and desist order to be issued against Edukasyon.[^7]
+RPR contended that Edukasyon violated Sections [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|25]], [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|26]], [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|29]], [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]], [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|33]], and [[laws/data-privacy-act-of-2012#section-35-large-scale|35]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA).[^6] RPR prayed for a fine to be imposed and a cease and desist order to be issued against Edukasyon.[^7]
 
 On 12 September 2019, the parties were ordered to appear before the Commission to confer for discovery on 02 October 2019.[^8]
 
@@ -76,7 +78,7 @@ Whether Edukasyon sufficiently complied with the Order dated 03 February 2022.
 
 ### Discussion
 
-Section 18 (D) of NPC Circular 16-03 (Personal Data Breach Management) provides:
+Section 18 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]] provides:
 
 > **Section 18. Notification of Data Subjects.** The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -100,7 +102,7 @@ On 08 August 2022, the NPC, through the EnD, received Edukasyon’s Supplemental
 
 Since only seventy-eight (78) participants were notified by the initial breach notification emails, Edukasyon still had to notify the remaining twenty-five (25) participants to complete the one hundred and three (103) participants who were affected by the personal data breach. Edukasyon attached its proof of notification sent to the remaining twenty-five (25) participants via “BCC” on 04 August 2022, thus completing the list of sending individual breach notification to the affected data subject.[^27]
 
-Edukasyon was also ordered to submit its Security Incident Management Policy. Section 4 of NPC Circular 16-03 (Personal Data Breach Management) provides:
+Edukasyon was also ordered to submit its Security Incident Management Policy. Section 4 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]] provides:
 
 > **Section 4. Security Incident Management Policy.** A personal information controller or personal information processor shall implement policies and procedures for the purpose of managing security incidents, including personal data breach. These policies and procedures must ensure:
 
@@ -120,7 +122,7 @@ In its compliance with the directive to submit its Security Incident Management 
 
 Based on the EnD’s assessment, Edukasyon’s Incident Response Program is adequate to comply with the requirements found in Section 4 of NPC Circular 16-03 (Personal Data Breach Management).
 
-As such, the Commission finds that Edukasyon’s submission of its Security Incident Management Program adheres to the DPA, its IRR and related issuances.
+As such, the Commission finds that Edukasyon’s submission of its Security Incident Management Program adheres to the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and related issuances.
 
 The Commission finds that Edukasyon has properly notified all affected data subjects in the personal data breach of the “thank you letter” sent by email to the participants of the Conference. The Commission also finds Edukasyon’s submission of its Incident Response Program as a form of Security Incident Management Policy adequate. As such, Edukasyon’s compliance with the Order dated 03 February 2022 is deemed sufficient.
 
@@ -167,7 +169,7 @@ GENERAL RECORDS UNIT
 [^12]: *Id.*
 [^13]: Order, 03 February 2022, in RPR v. Edukasyon.ph, NPC 19-438 (NPC 2022).
 [^14]: *Id.*
-[^15]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 18 (D) (15 December 2016).
+[^15]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 03, Series of 2016]] [NPC Circ. No. 16-03], § 18 (D) (15 December 2016).
 [^16]: Respondent's Entry of Appearance with Compliance to the Order dated 03 February 2022, 07 July 2022, in RPR v. Edukasyon.ph, NPC 19-438 (NPC 2022).
 [^17]: *Id.* at 3.
 [^18]: Complaints Assisted Form, 06 June 2019, at 5, in RPR v. Edukasyon.ph NPC 19-438 (NPC 2019).
@@ -180,6 +182,6 @@ GENERAL RECORDS UNIT
 [^25]: *Id.* at 3-4.
 [^26]: *Id.* at 3-4.
 [^27]: *Id.* at 4 & Annex D.
-[^28]: NPC Circ. No. 16-03, § 4.
+[^28]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 4.
 [^29]: Respondent's Entry of Appearance with Compliance to the Order dated 03 February 2022, 07 July 2022, at 4, in RPR v. Edukasyon.ph, NPC 19-438 (NPC 2022); *Id.* Annex H.
 [^30]: Final Enforcement Assessment Report, Enforcement Division, 17 August 2022, at 3, in RPR v. Edukasyon.ph NPC 19-438 (NPC 2022).

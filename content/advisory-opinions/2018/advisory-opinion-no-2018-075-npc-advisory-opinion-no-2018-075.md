@@ -5,7 +5,14 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/data-subject-rights
+  - topic/registration
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-075"
+  - "npc advisory opinion no. 2018-075"
+  - "Advisory Opinion No. 2018-075"
+  - "advisory opinion no. 2018-075"
 ---
 
 ## Source
@@ -124,8 +131,8 @@ such obligation. The barangay should have a designated Data Protection Officer (
 may instead appoint a Compliance Officer for Privacy (COP), provided that the latter shall be
 under the supervision of the Data Protection Officer (DPO) of the corresponding province,
 city, or municipality that the barangay is a part of. For further guidance, it would be helpful
-to look into NPC Circular No. 2016-01 which provides guidelines on security of personal
-information in government agencies, and NPC Advisory 2017-01 on the designation of a Data
+to look into [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 2016-01]] which provides guidelines on security of personal
+information in government agencies, and [[issuances/2017/designation-of-data-protection-officers|NPC Advisory 2017-01]] on the designation of a Data
 Protection Officer.
 
 On the part of data subjects, those with concerns about how their personal data is handled
@@ -140,7 +147,7 @@ safeguards for personal data protection in the provisions of the ordinance.
 
 Upon complaint of a data subject, or the discovery of a data breach occurring due to
 negligence, a personal information controller or its responsible officials may be subject to
-penalties specified in Chapter VII (Sections 25-37) of the DPA should they be found to have
+penalties specified in [[laws/data-privacy-act-of-2012#chapter-viii-penalties|Chapter VII (Sections 25-37)]] of the DPA should they be found to have
 failed to comply with provisions of the law and to take adequate precautions to protect
 personal information they collect and hold.
 
@@ -159,18 +166,18 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
 
 [^3]: Social Justice Society v. Atienza, Jr., G.R No. 156052 (13 February 2008).
 
-[^4]: Data Privacy Act of 2012, § 3 (h).
+[^4]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]].
 
-[^5]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (a) (2016).
+[^5]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (a)]] (2016).
 
-[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of DPA, § 18 (b) (2016).
+[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of DPA, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (b)]] (2016).
 
 [^7]: See: An Act Providing For A Local Government Code Of 1991 [Local Government Code of 1991], Republic Act No. 7160 § 16 (1991).
 
-[^8]: Id. § 18 (c).
+[^8]: Id. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]].
 
-[^9]: DPA § 11 (f)
+[^9]: DPA [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11 (f)]]

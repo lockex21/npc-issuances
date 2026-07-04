@@ -13,6 +13,10 @@ tags:
 - topic/elections
 - type/advisory
 - year/2021
+- topic/breach-notification
+- topic/consent
+- topic/data-subject-rights
+- topic/legitimate-interest
 title: "Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021)"
 ---
 
@@ -445,10 +449,10 @@ SGD.                                                                 SGD. LEANDR
 [^10]: See: Council of Europe, Explanatory Report to the Protocol amending the Convention for the Protection of Individuals with
 [^11]: See: National Privacy Commission, JV v. JR, NPC Case No. 17-047 (2019).
 [^12]: European Data Protection Board, Guidelines 05/2020 on consent under Regulation 2016/679, Version 1.1 Adopted on 4
-[^13]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner’s Office (ICO), What is the
+[^13]: See generally, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (f)]]; United Kingdom Information Commissioner’s Office (ICO), What is the
 [^14]: An Act Providing For A General Registration Of Voters, Adopting A System Of Continuing Registration, Prescribing The
 [^15]: National Privacy Commission, Data Subject Rights [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] (January 29, 2021).
-[^16]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 28 (d) (2016).
+[^16]: See: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 28 (d) (2016)]].
 [^17]: Id. § 19 (d) (2016).
 
 ## Source

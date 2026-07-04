@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2023"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2023-08-16"
 draft: false
 ---
@@ -62,11 +63,11 @@ In the best interest of the affected data subjects and to allow them to take the
 
 The Commission allows alternative means of notification in this incident in order to serve the intended purpose of data subject notification. While individual notification is still necessary, alternative data subject notification will inform the affected data subjects of the breach incident affecting their personal data.
 
-Moreover, the Commission deems it proper to allow alternative means of notification considering that more or less one hundred thousand (100,000) are still being determined by the PNP. In line with this, waiting for further information and identification of the affected data subjects for the purpose of individual notification will most likely just delay the notification requirement. Consequently, this will defeat the purpose of data subject notification as prescribed in the NPC Circular No. 16-03, Section 18. In the meantime, alternative means of notification will allow affected data subjects to be informed of the incident and to take the necessary precautions.
+Moreover, the Commission deems it proper to allow alternative means of notification considering that more or less one hundred thousand (100,000) are still being determined by the PNP. In line with this, waiting for further information and identification of the affected data subjects for the purpose of individual notification will most likely just delay the notification requirement. Consequently, this will defeat the purpose of data subject notification as prescribed in the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], Section 18. In the meantime, alternative means of notification will allow affected data subjects to be informed of the incident and to take the necessary precautions.
 
 Thus, the Commission grants the request for alternative means of notification in addition and not in lieu of the individual data subjects' notification.
 
-Section 18 (C) and (D), of NPC Circular No. 16-03 provide for the content of notification and methods of alternative means of notifying the affected data subjects:
+Section 18 (C) and (D), of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provide for the content of notification and methods of alternative means of notifying the affected data subjects:
 
 > SECTION 18. Notification of Data Subjects.
 > The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
@@ -87,7 +88,7 @@ Section 18 (C) and (D), of NPC Circular No. 16-03 provide for the content of not
 
 In view of the foregoing, the Commission grants PNP's request for alternative means of notification through public communication or any similar means in which the affected data subjects should be informed of the breach incident involving their personal data. The content of the notification should comply with the above-stated provision.
 
-Further, the Commission finds that the PNP's breach incident falls under the mandatory breach notification requirement and individual data subject notification is necessary to protect them from the risk of serious harm. Section 11 of the NPC Circular No. 16-03 (Personal Data Breach Management) provides for conditions on when notification is required, thus:
+Further, the Commission finds that the PNP's breach incident falls under the mandatory breach notification requirement and individual data subject notification is necessary to protect them from the risk of serious harm. Section 11 of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]] provides for conditions on when notification is required, thus:
 
 > SECTION 11. When notification is required.
 > Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
@@ -98,7 +99,7 @@ Further, the Commission finds that the PNP's breach incident falls under the man
 
 In this breach incident, all the elements of mandatory notification are present.
 
-First, there are government-issued IDs and eligibilities of the PNP employees which clearly contain sensitive personal information (SPI). Further, Section 3 (l) of the Republic Act 10173 also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] provides for the definition of Sensitive Personal Information, thus:
+First, there are government-issued IDs and eligibilities of the PNP employees which clearly contain sensitive personal information (SPI). Further, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l)]] of the Republic Act 10173 also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] provides for the definition of Sensitive Personal Information, thus:
 
 > SEC. 3. Definition of Terms. – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -115,7 +116,7 @@ Second, there are sample screenshots provided by the Commission containing perso
 
 Lastly, considering that there is a certainty that an unauthorized person had access to or acquired the sensitive personal information of the affected data subjects, it cannot be set aside that this incident would not cause serious harm to the affected data subjects. Thus, the third element of mandatory notification is present.
 
-Moreover, Section 13 of NPC Circular No. 16-03 also determines when there is a need to notify:
+Moreover, Section 13 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] also determines when there is a need to notify:
 
 > SECTION 13. Determination of the Need to Notify. Where there is uncertainty as to the need for notification, the personal information controller shall take into account, as a primary consideration, the likelihood of harm or negative consequences on the affected data subjects, and how notification, particularly of the data subjects, could reduce the risks arising from the personal data breach reasonably believed to have occurred. The personal information controller shall also consider if the personal data reasonably believed to have been compromised involves:
 > A. Information that would likely affect national security, public safety, public order, or public health;
@@ -127,7 +128,7 @@ In PNP's initial breach notification, it stated in its justification for alterna
 
 Moreover, it is imperative to acknowledge that the data involved in this breach incident pertains to our nation's law enforcement personnel. This emphasizes the gravity of the situation, as any compromise affecting sensitive personal information related to our law enforcement has the potential and possible impact that would likely negatively affect national security, public safety, and overall public order.
 
-Therefore, considering that all the elements of mandatory notification as provided in Section 11 of NPC Circular No. 16-03 and supplemented by Section 13 of the same circular on the guidelines in determining when there is a need to notify, the Commission deems it proper that individual data subject notification is necessary.
+Therefore, considering that all the elements of mandatory notification as provided in Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] and supplemented by Section 13 of the same circular on the guidelines in determining when there is a need to notify, the Commission deems it proper that individual data subject notification is necessary.
 
 The Commission, time and again, stresses the importance of notifying the affected data subjects. The purpose of such notification is to provide the affected data subjects with the precautions and necessary measures to safeguard themselves against any potential repercussions stemming from the breach.
 
@@ -177,8 +178,8 @@ GENERAL RECORDS UNIT
 [^8]: Id.
 [^9]: In re: Philippine National Police, NPC BN 23-110, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS) (26 April 2023).
 [^10]: In re: Philippine National Police, NPC BN 23-110, Minute Resolution dated 02 May 2023, at p. 1.
-[^11]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §18 (C) (D) (15 December 2016) (NPC Circular 16-03).
-[^12]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §11 (15 December 2016) (NPC Circular 16-03).
-[^13]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (l) (2012).
+[^11]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §18 (C) (D) (15 December 2016) (NPC Circular 16-03).
+[^12]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §11 (15 December 2016) (NPC Circular 16-03).
+[^13]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]] (2012).
 [^14]: In re: Philippine National Police, NPC BN 23-110, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS) (26 April 2023).
-[^15]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §13 (15 December 2016) (NPC Circular 16-03).
+[^15]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §13 (15 December 2016) (NPC Circular 16-03).

@@ -9,7 +9,14 @@ tags:
   - "special-case"
   - "public-authority"
   - "statutory-mandate"
+  - "topic/cctv-surveillance"
+  - "topic/data-subject-rights"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2024-018"
+  - "npc advisory opinion no. 2024-018"
+  - "Advisory Opinion No. 2024-018"
+  - "advisory opinion no. 2024-018"
 ---
 
 ## Source
@@ -30,7 +37,7 @@ We respond to your request for an Advisory Opinion on the data privacy implicati
 
 In your letter, you state that you requested toll road operators to share their CCTV footage showing real-time traffic flow in order to implement the TRB's Tollway Surveillance Monitoring Information System (TSMIS) Project.
 
-However, one of the toll road operators (hereafter, the "Operator") declined the request reasoning that the DPA generally requires the consent of motorists before publishing images or data captured by their tollway CCTV systems. The Operator also cites [[laws/data-privacy-act-of-2012#section-18-right-to-data-portability|Section 18 of the DPA]]'s Implementing Rules and Regulations (IRR) which mandates that if alternative means are available to comply with data protection requirements without releasing personal data, those means should be prioritized.
+However, one of the toll road operators (hereafter, the "Operator") declined the request reasoning that the DPA generally requires the consent of motorists before publishing images or data captured by their tollway CCTV systems. The Operator also cites Section 18 of the DPA's [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations (IRR)]] which mandates that if alternative means are available to comply with data protection requirements without releasing personal data, those means should be prioritized.
 
 The Operator further stated that they are already providing real-time traffic updates through TV and radio networks, as well as publishing updates on their Twitter account and their tollways app. Consequently, they believe that the requested "live feed" from their CCTV systems is unnecessary. Furthermore, they expressed their concern that live streaming of traffic from their CCTV systems via the proposed software (Discord, Skype, or Zoom) may lead to unauthorized processing and cybersecurity risks, as they do not have control over these software and any individuals with access to the stream could record or download the footage.
 
@@ -57,11 +64,11 @@ Hence, your present request.
 
 #### Personal Information; Processing; CCTV
 
-The Data Privacy Act of 2012 (DPA)[^2] defines personal information as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^3]
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (DPA)]][^2] defines personal information as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^3]
 
 Meanwhile, processing is defined as any operation or any set of operations performed upon personal data including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure, or destruction of data.[^4]
 
-On the other hand, NPC Circular No. 2024-02[^5] defines Closed-Circuit Television or "CCTV" as referring to closed-circuit television or camera surveillance systems in a fixed or stationary location that can capture images of individuals or other information relating to individuals.
+On the other hand, [[issuances/2024/closed-circuit-television-cctv-systems|NPC Circular No. 2024-02]][^5] defines Closed-Circuit Television or "CCTV" as referring to closed-circuit television or camera surveillance systems in a fixed or stationary location that can capture images of individuals or other information relating to individuals.
 
 Based on your statements, the screenshots of submitted CCTV footage from tollways reveal, at best, only vehicle plate numbers. The nature of tollways, where vehicles are moving at high speeds, makes it difficult to immediately identify an individual based solely on CCTV footage without employing high technology applications like automated license plate recognition (ALPR), facial recognition, and integrated data analytics that enhance the ability to identify vehicles and individuals.
 
@@ -91,7 +98,7 @@ However, for this exemption to apply, the following must be established:
 
 Presidential Decree No. 1112[^7] vests the TRB with the jurisdiction to regulate the operation and maintenance of toll facilities. As such, the CCTV footage that the TRB requests qualifies as information that is necessary for TRB to carry out its regulatory function. In other words, TRB's processing of CCTV footage is permitted under the DPA as this is necessarily included in its mandate to determine and decide the kind, type and nature of public improvements that will be constructed and/or operated on toll facilities, including the establishment, operation and maintenance of Service Facilities throughout the tollways.
 
-Further, the TRB's request may also find support under Section 7 of NPC Circular No. 2024-02, *to wit*:
+Further, the TRB's request may also find support under Section 7 of [[issuances/2024/closed-circuit-television-cctv-systems|NPC Circular No. 2024-02]], *to wit*:
 
 > SECTION 7. Third-party access request. — A third-party access request is a request to access CCTV footage made by a person other than the data subject involved in the footage or the latter's authorized representative. If a data subject involved in the footage or their authorized representative requests access to CCTV footage, the presence of another person's image within the CCTV footage does not automatically classify such request as a third-party access request. Further, in handling third-party access requests, the same policies and procedures outlined in the previous section shall apply.
 >
@@ -105,13 +112,13 @@ Further, the TRB's request may also find support under Section 7 of NPC Circular
 >
 > > a) Upon determination of PICs that the requesting third party's needs outweigh those of the data subjects to whom the CCTV footage and images pertain, it may release information to such requesting third party.
 > >
-> > b) PICs must determine on a case-to-case basis if they will accede to such request taking into consideration the general principles of privacy, the rights and freedoms of the data subjects whose images are recorded by the CCTV systems, and a lawful basis for processing under Section 12 or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
+> > b) PICs must determine on a case-to-case basis if they will accede to such request taking into consideration the general principles of privacy, the rights and freedoms of the data subjects whose images are recorded by the CCTV systems, and a lawful basis for processing under Section 12 or Section 13 of the DPA.
 
 Based on the foregoing, the Operator should consider TRB's regulatory function as an appropriate lawful basis under the DPA in allowing viewing access to live CCTV footage in its toll facilities.
 
 #### Data Privacy Principles; Security Measures; Accountability of the PIC
 
-It must be emphasized that even if the TRB's request to the Operator may be considered as a special case, this only means that it need not establish a lawful criteria for its processing of personal data under Sections 12 of the DPA. The TRB, as a Personal Information Controller (PIC), is still subject to the other requirements under the DPA, its IRR, and issuances of the NPC. Moreover, the TRB must also adhere to the general data privacy principles of transparency, legitimate purpose, proportionality[^8], and accountability.
+It must be emphasized that even if the TRB's request to the Operator may be considered as a special case, this only means that it need not establish a lawful criteria for its processing of personal data under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12 of the DPA]]. The TRB, as a Personal Information Controller (PIC), is still subject to the other requirements under the DPA, its IRR, and issuances of the NPC. Moreover, the TRB must also adhere to the general data privacy principles of transparency, legitimate purpose, proportionality[^8], and accountability.
 
 The principle of proportionality states that the processing of personal data shall be adequate, relevant, suitable necessary, and not excessive in relation to a declared specified purpose. It also states that personal data shall only be processed if the purpose of the processing cannot be reasonably fulfilled by any other means. Thus, TRB's access to CCTV footage should be limited to its specified purpose and to specific requested footage.
 
@@ -123,7 +130,7 @@ Lastly, the principle of accountability requires PICs to be responsible for pers
 
 In the present case, we suggest that the TRB and tollway operators post privacy notices in conspicuous areas where CCTVs are operated, like toll gates, which must cite the lawful criteria upon which the processing is based, as well as to duly inform affected data subjects.
 
-Finally, by virtue of NPC Circular 2023-06,[^11] TRB should ensure the implementation of organizational, physical, and technical security measures when it receives the requested footage and information, and have mechanisms in place to enable the free exercise of data subject rights, where appropriate. We recommend that the TRB ensure that it has proper guidelines in processing CCTV footage, especially those containing personal information, taking into consideration the above discussions.
+Finally, by virtue of [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular 2023-06]],[^11] TRB should ensure the implementation of organizational, physical, and technical security measures when it receives the requested footage and information, and have mechanisms in place to enable the free exercise of data subject rights, where appropriate. We recommend that the TRB ensure that it has proper guidelines in processing CCTV footage, especially those containing personal information, taking into consideration the above discussions.
 
 We advise that TRB adopt a more secure platform for accessing CCTV footage from toll operators. The TRB should collaborate with these toll operators to determine appropriate platforms for access and ensure that access is strictly limited to a designated personnel to prevent potential cybersecurity risks and unauthorized access.
 
@@ -140,12 +147,12 @@ FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: *Id.*, Sec. 3(g)
-[^4]: *Id.*, Sec. 3(j)
-[^5]: National Privacy Commission, NPC Circular No. 2024-02 (9 August 2024).
-[^6]: National Privacy Commission, NPC Advisory Opinion 2021-028 (16 July 2021).
+[^3]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Sec. 3(g)]]
+[^4]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Sec. 3(j)]]
+[^5]: National Privacy Commission, [[issuances/2024/closed-circuit-television-cctv-systems|NPC Circular No. 2024-02]] (9 August 2024).
+[^6]: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-028-disclosure-of-personal-information-of-tenants-by-a-condominium-corporation-to-the-bureau-of-internal-revenue|NPC Advisory Opinion 2021-028]] (16 July 2021).
 [^7]: Authorizing The Establishment Of Toll Facilities On Public Improvements, Creating A Board For The Regulation Thereof And For Other Purposes [Toll Operation Decree], Presidential Decree No. 1112.
-[^8]: Section 18, Implementing Rules and Regulations of the Data Privacy Act of 2012.
-[^9]: National Privacy Commission, NPC Advisory Opinion 2022-015 (23 June 2022).
-[^10]: Sec. (3), NPC Circular 2024-02.
+[^8]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18, Implementing Rules and Regulations of the Data Privacy Act of 2012]].
+[^9]: National Privacy Commission, [[advisory-opinions/2022/advisory-opinion-no-2022-015-use-of-camera-during-surveillance-visits|NPC Advisory Opinion 2022-015]] (23 June 2022).
+[^10]: Sec. (3), [[issuances/2024/closed-circuit-television-cctv-systems|NPC Circular 2024-02]].
 [^11]: National Privacy Commission, NPC Circular No. 2023-06 (01 December 2023).

@@ -11,6 +11,8 @@ tags:
 - issuance
 - type/advisory
 - year/2022
+- topic/consent
+- topic/government
 title: "Guidelines on Requests for Personal Data of Public Officers (Advisory No. 2022-01)"
 ---
 
@@ -90,7 +92,7 @@ B. Filipino citizens have the right to information on the data relating to publi
 
 C. Public officers are data subjects within the purview of the Act, with all the concomitant rights and available redresses under the same. However, certain personal data relating to their positions and functions is subject to certain exceptions provided in the Act and disclosures required under other applicable laws.
 
-In these exceptional cases, these information relating to their position and official functions are not covered by the [[laws/data-privacy-act-of-2012|DPA]].[^1] However, the exemption is not absolute. The exclusion of such information from the scope of the law is interpreted as an exemption from complying with the requirements of Sections 12 or 13 on lawful criteria for processing; and the collection, access, use, disclosure, or other processing is limited to the minimum extent necessary to achieve the purpose, function, or activity concerned. Personal information controllers (PICs) undertaking the processing of such information remain to be subject to the other requirements of the DPA, including implementing security measures to protect personal data and upholding the rights of the public officers as data subjects.
+In these exceptional cases, these information relating to their position and official functions are not covered by the [[laws/data-privacy-act-of-2012|DPA]].[^1] However, the exemption is not absolute. The exclusion of such information from the scope of the law is interpreted as an exemption from complying with the requirements of [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] on lawful criteria for processing; and the collection, access, use, disclosure, or other processing is limited to the minimum extent necessary to achieve the purpose, function, or activity concerned. Personal information controllers (PICs) undertaking the processing of such information remain to be subject to the other requirements of the DPA, including implementing security measures to protect personal data and upholding the rights of the public officers as data subjects.
 
 **SECTION 4.** ***Fair and Lawful Disclosure.*** Government agencies shall process various documents[^2] which pertain to, and contain personal data of, public officers pursuant to constitutional, statutory, or contractual requirements. The access to, or disclosure of, these documents may be regulated, notwithstanding their nature as a public record or public document. Each government agency shall provide for certain rules or a set of criteria against which a request for such documents shall be evaluated based on the mandate or public service performed and its relevance to the requesting party.
 
@@ -173,7 +175,7 @@ SGD.
 LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4(a) (2012) and Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, § 5 (2016).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-4-scope|§ 4(a)]] (2012) and Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5]] (2016).
 [^2]: National Archives of the Philippines, NAP General Circular No. 1, Rule 2 - Definitions, Document - refers to recorded information regardless of medium or characteristics. Frequently used interchangeably with "records" (Jan. 20, 2009).
 [^3]: Refers to the parents, spouse, and children, as well as any other relative within the fourth degree of consanguinity or affinity in the government service.
 [^4]: See: Civil Service Commission, Memorandum Circular No. 8, s. 2007 [MC No. 8, s. 2007] (May 17, 2007).

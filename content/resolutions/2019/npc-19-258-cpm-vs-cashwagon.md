@@ -97,4 +97,4 @@ Data Protection Officer
 GENERAL RECORDS UNIT
 ENFORCEMENT DIVISION
 
-[^1]: NPC Circular 16-04
+[^1]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04]]

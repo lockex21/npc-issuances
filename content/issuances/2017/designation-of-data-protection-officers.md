@@ -11,6 +11,9 @@ tags:
 - topic/registration
 - type/advisory
 - year/2017
+- topic/data-sharing
+- topic/government
+- topic/security
 draft: false
 date: '2017-03-14'
 ---
@@ -33,7 +36,7 @@ WHEREAS, pursuant to [[laws/implementing-rules-and-regulations-of-the-data-priva
 
 WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the National Privacy Commission (NPC) is charged with the administration and implementation of the provisions of the law, which includes ensuring compliance with the provisions of the [[laws/data-privacy-act-of-2012|DPA]] and with international standards for data protection, and carrying out efforts to formulate and implement plans and policies that strengthen the protection of personal information in the country, in coordination with other government agencies and the private sector;
 
-WHEREAS, Section 4 of NPC Circular 2016-01 declares that a government agency engaged in the processing of personal data shall, through its head of agency, designate a DPO;
+WHEREAS, Section 4 of [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular 2016-01]] declares that a government agency engaged in the processing of personal data shall, through its head of agency, designate a DPO;
 
 WHEREAS, in consideration of the foregoing premises, the NPC hereby issues this Advisory that prescribes the guidelines for the designation of a DPO:
 

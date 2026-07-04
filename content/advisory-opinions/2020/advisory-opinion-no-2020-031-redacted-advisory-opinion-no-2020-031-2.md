@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-031"
+  - "npc advisory opinion no. 2020-031"
+  - "Advisory Opinion No. 2020-031"
+  - "advisory opinion no. 2020-031"
 ---
 ## Source
 - Reference: Advisory Opinion No. 2020-031
@@ -25,7 +30,7 @@ We write in response to your letter which sought the opinion of the National Pri
 Commission (NPC) on whether the request for access by the Inter-Agency Review Panel, and
 the Department of Justice (DOJ) Panel of Prosecutors as stated in your letter, to files and
 records involving negation operations of the Philippine Drug Enforcement Agency (PDEA) is
-allowed under the Data Privacy Act of 2012[^2] (DPA).
+allowed under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 ### Discussion
 
@@ -77,7 +82,7 @@ information and to any natural and juridical person involved in personal informa
 processing.
 
 The processing of personal and sensitive personal information (collectively, personal data) by
-the DOJ and the Panel finds support in the DPA, specifically Sections 12 and 13 thereof
+the DOJ and the Panel finds support in the DPA, specifically [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] thereof
 providing the criteria for lawful processing, to wit:
 
    Section 12. Criteria for Lawful Processing of Personal Information. – The processing of
@@ -133,7 +138,7 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
 [^3]: Instituting the Administrative Code of 1987 [Administrative Code of 1987], Executive Order No. 292, BOOK IV, Title III, Chapter 1-General Provisions (1987).
 

@@ -1,10 +1,17 @@
 ---
 title: "NPC Advisory Opinion No. 2017-074 — Data Privacy Obligations of Online Salary Loan Platform Regarding Sensitive Personal Information Processing"
+aliases:
+  - "NPC Advisory Opinion No. 2017-074"
+  - "npc advisory opinion no. 2017-074"
+  - "Advisory Opinion No. 2017-074"
+  - "advisory opinion no. 2017-074"
 description: "Guidance on the data collection methods and sensitive personal information processing obligations of an online salary loan platform, and clarification that blanket waivers of data subject rights are impermissible."
 tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/data-subject-rights
+  - topic/employment
 draft: false
 ---
 
@@ -41,9 +48,9 @@ The personal information gathered includes personal identification information s
 
 The SSS number, as well as the UMID ID number and the TIN of the Borrower are considered as sensitive personal information (SPI) as these are government-issued identification numbers peculiar to an individual.[^3] Due to their nature as SPI, stricter security measures must be implemented by the personal information controller (PIC) in order to ensure the protection of such information.
 
-To clarify, the PIC is New Cross and not Uploan. Based on the description that you have provided, Uploan is an online platform owned and operated by New Cross. The latter is the entity which controls the collection, holding, processing or use of personal information[^4] and as such, is subject to the provisions of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and issuances of the NPC.
+To clarify, the PIC is New Cross and not Uploan. Based on the description that you have provided, Uploan is an online platform owned and operated by New Cross. The latter is the entity which controls the collection, holding, processing or use of personal information[^4] and as such, is subject to the provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and issuances of the NPC.
 
-As to the collection and processing of personal and sensitive personal information (collectively, personal data), these are permitted under the DPA under the various criteria for lawful processing pursuant to Section 12 for personal information, and Section 13 for sensitive personal information.
+As to the collection and processing of personal and sensitive personal information (collectively, personal data), these are permitted under the DPA under the various criteria for lawful processing pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] for personal information, and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]] for sensitive personal information.
 
 We understand that the consent of the Borrowers for processing their personal data is obtained when they create their Uploan wallet and when they apply for a loan. We understand further that this loan service is optional on the part of the employees of the accredited employers.
 
@@ -100,8 +107,8 @@ Privacy Commissioner and Chairman
 
 [^1]: Uploan, https://www.uploan.ph/investors. (last visited 29 November 2017)
 [^2]: *Id.*
-[^3]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES ("Data Privacy Act of 2012") (Republic Act No. 10173)(15 August 2012), §3(l)
+[^3]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES ("[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]") (Republic Act No. 10173)(15 August 2012), §3(l)
 [^4]: *Id.*, §3(h)
 [^5]: *Id.*, §3(b)
 [^6]: Uploan, https://secure.uploan.ph/terms-and-condition. (last visited 1 December 2017)
-[^7]: Implementing Rules and Regulations (IRR) of RA No. 10173, §6(a)
+[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations (IRR)]] of RA No. 10173, §6(a)

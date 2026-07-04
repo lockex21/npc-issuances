@@ -11,6 +11,9 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/breach-notification
+  - topic/employment
+  - topic/security
 date: "2021-06-01"
 draft: false
 ---
@@ -56,13 +59,13 @@ On 11 May 2021, Bombardier submitted proof of notification to five (5) data subj
 
 The Commission resolves to deny the request of Bombardier for assistance and/or investigation.
 
-The responsibility of the PIC to investigate a security incident or a personal data breach follows the Accountability Principle provided in the [[laws/data-privacy-act-of-2012|Data Privacy Act]]:
+The responsibility of the PIC to investigate a security incident or a personal data breach follows the [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Accountability Principle]] provided in the [[laws/data-privacy-act-of-2012|Data Privacy Act]]:
 
 > **Section 21. Principle of Accountability.** – Each personal information controller is responsible for personal information under its control or custody, including information that have been transferred to a third party for processing, whether domestically or internationally, subject to cross-border arrangement and cooperation.
 
-In the exercise of its rule-making power and to flesh out the provision above, the Commission issued NPC Circular No. 16-03 which recommends, among others, the establishment of policies and procedures by PICs for the conduct of investigations and the full assessment and evaluation of a security incident or a personal data breach.
+In the exercise of its rule-making power and to flesh out the provision above, the Commission issued [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] which recommends, among others, the establishment of policies and procedures by PICs for the conduct of investigations and the full assessment and evaluation of a security incident or a personal data breach.
 
-In case of a security incident or a personal data breach, a PIC is expected to conduct an investigation as part of its policies and procedures. Section 8 of NPC Circular No. 16-03 provides that:
+In case of a security incident or a personal data breach, a PIC is expected to conduct an investigation as part of its policies and procedures. Section 8 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides that:
 
 > **SECTION 8. Policies and Procedures.** The personal information controller or personal information processor shall implement policies and procedures for guidance of its data breach response team and other personnel in the event of a security incident.
 >
@@ -102,7 +105,7 @@ The PIC, upon knowledge of or when there is reasonable belief that a personal da
 >
 > A. **When should notification be done.** The data subjects shall be notified within seventy-two (72) hours upon knowledge of or reasonable belief by the personal information controller or personal information processor that a personal data breach has occurred. The notification may be made on the basis of available information within the 72-hour period if the personal data breach is likely to give rise to a real risk to the rights and freedoms of data subjects. It shall be undertaken in a manner that would allow data subjects to take the necessary precautions or other measures to protect themselves against the possible effects of the breach. It may be supplemented with additional information at a later stage on the basis of further investigation.
 
-Aside from the initial notification, the PIC should submit a full breach report in accordance with the requirements of NPC Circular No. 16-03:
+Aside from the initial notification, the PIC should submit a full breach report in accordance with the requirements of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]]:
 
 > **SECTION 17. Notification of the Commission.** The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 >
@@ -150,7 +153,7 @@ Aside from the initial notification, the PIC should submit a full breach report 
 
 A PIC should have processes and procedures in place to prevent security incidents and personal data breaches. The DPA and its issuances provide that a PIC should have protocols for investigating a breach, notification of the Commission and the affected data subjects, and for implementation of remediation measures to address the situation and to prevent the incident from recurring.
 
-The Commission notes from Bombardier's request that it has not even conducted its own investigation and wants to merely rely on the Commission to conduct it for them. The Commission stresses the responsibility of a PIC to conduct its own investigation on any security incident or personal data breach in their systems, its responsibility to notify all the affected data subjects and its responsibility to submit a Full Breach Report within the time prescribed in NPC Circular No. 16-03. As of this date, Bombardier has neither submitted its full breach report nor requested for an extension of time to file the same.
+The Commission notes from Bombardier's request that it has not even conducted its own investigation and wants to merely rely on the Commission to conduct it for them. The Commission stresses the responsibility of a PIC to conduct its own investigation on any security incident or personal data breach in their systems, its responsibility to notify all the affected data subjects and its responsibility to submit a Full Breach Report within the time prescribed in [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]]. As of this date, Bombardier has neither submitted its full breach report nor requested for an extension of time to file the same.
 
 Moreover, from the documents submitted, only five (5) of the thirteen (13) affected employees have been notified of the incident.
 
@@ -194,6 +197,6 @@ National Privacy Commission
 [^5]: Email from Bombardier dated 30 April 2021.
 [^6]: Form for Reporting a Suspected Personal Data Breach dated 29 April 2021, hereinafter referred to as the "Incident Report."
 [^7]: Notification and Confirmation emails to five (5) affected data subjects submitted on 11 May 2021.
-[^8]: Section 8, NPC Circular No. 16-03, "Personal Data Breach Management."
-[^9]: Sections 17(A) and 18(A), NPC Circular No. 16-03.
-[^10]: Section 17 (C), (D) and (E), NPC Circular No. 16-03.
+[^8]: Section 8, [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], "Personal Data Breach Management."
+[^9]: Sections 17(A) and 18(A), [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
+[^10]: Section 17 (C), (D) and (E), [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].

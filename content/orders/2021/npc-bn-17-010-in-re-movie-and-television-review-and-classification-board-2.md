@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2021"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/security"
 date: "2021-04-15"
 draft: false
 ---
@@ -50,7 +52,7 @@ According to MTRCB's data breach notification, the personal data of five hundred
 
 Shortly after its breach notification report, on 21 September 2017, MTRCB sent a letter[^5] to the Commission requesting for the postponement of the notification of the data subjects for twenty (20) days. MTRCB also reported that since the discovery of the breach, it was in close contact with the proper government agencies such as the Department of Information and Communications Technology ("DICT") and the Philippine National Police ("PNP") for the expeditious resolution of the case.[^6]
 
-On 5 October 2017, the Commission sent an e-mail[^7] to MTRCB in response to the latter's data breach incident report. The Commission required MTRCB to submit a full breach report following the requirements set forth in NPC Circular No. 16-03 on Data Breach Management within five (5) days from receipt of the e-mail.[^8]
+On 5 October 2017, the Commission sent an e-mail[^7] to MTRCB in response to the latter's data breach incident report. The Commission required MTRCB to submit a full breach report following the requirements set forth in [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] on Data Breach Management within five (5) days from receipt of the e-mail.[^8]
 
 On 10 October 2017, MTRCB submitted its full breach report along with a request for exemption from notification of data subjects.[^9] In its full breach report, MTRCB outlined its proposed remedial measures including an application for Vulnerability and Penetration Test (VAPT) with the DICT, installation of new antivirus software, and reformatting of the servers to prevent the spread of the virus to workstations.[^10]
 
@@ -78,13 +80,13 @@ The Commission notes the following actions of the MTRCB to comply with the 31 Ja
 
 1. Appointment of a Data Protection Officer;[^20]
 2. Creation of a Privacy Management Program (PMP) based on risk assessment;[^21]
-3. Implementation of appropriate organizational, physical and technical security measures in accordance with the provisions of NPC Circular No. 16-01 on Security of Personal Data in Government Agencies and submission of a progress report within six (6) months from receipt of the order.[^22]
+3. Implementation of appropriate organizational, physical and technical security measures in accordance with the provisions of [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on Security of Personal Data in Government Agencies and submission of a progress report within six (6) months from receipt of the order.[^22]
 
 The Commission notes the MTRCB's submission of its PMP, Privacy Impact Assessment, updates, and reports. However, MTRCB has yet to comply with the following directives: (1) Conduct of an independent security audit of all its personal data processing systems including those hosted by service providers; and (2) Notification of data subjects.
 
 In a letter dated 07 March 2018, MTRCB requested to be exempted from notifying the data subjects. If the extension is not feasible, it requested for a sixty (60)-day extension period.
 
-At the outset, it should be emphasized that notification of data subjects of a personal data breach is the general rule and exemptions are allowed only under specific circumstances. Section 18(A) of NPC Circular No. 16-03, provides the rule:
+At the outset, it should be emphasized that notification of data subjects of a personal data breach is the general rule and exemptions are allowed only under specific circumstances. Section 18(A) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], provides the rule:
 
 > SECTION 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -159,6 +161,6 @@ GENERAL RECORDS UNIT
 [^20]: Email from the Compliance and Monitoring Division dated 3 February 2021.
 [^21]: Annex A, Letter dated 4 February 2021.
 [^22]: Letter dated 4 February 2021.
-[^23]: NPC Circular No. 16-03, Personal Data Breach Management, December 15, 2016 (emphasis supplied).
+[^23]: [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], Personal Data Breach Management, December 15, 2016 (emphasis supplied).
 [^24]: *Ibid.*
 [^25]: Emphasis supplied.

@@ -6,6 +6,8 @@ tags:
   - type/resolution
   - year/2018
   - npc-case
+  - topic/breach-notification
+  - topic/security
 draft: false
 aliases:
   - "NPC BN 18-038"
@@ -82,13 +84,13 @@ On 25 January 2023, the SSS submitted its compliance with the Order dated 05 Jan
 
 ### Issue
 
-I. Whether the incident is subject to mandatory breach notification under Section 11 of NPC Circular 16-03 (Personal Data Breach Management).
+I. Whether the incident is subject to mandatory breach notification under Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).
 
 II. Whether the SSS conducted proper breach management in compliance with NPC Circular 16-03.
 
 ### Discussion
 
-The breach is subject to mandatory breach notification under Section 11 of NPC Circular 16-03. Here, the SSS conducted proper breach management by notifying its affected data subjects and implementing security measures to mitigate the risks associated with the breach and prevent its recurrence. Thus, the Commission resolves to close the matter.
+The breach is subject to mandatory breach notification under Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]. Here, the SSS conducted proper breach management by notifying its affected data subjects and implementing security measures to mitigate the risks associated with the breach and prevent its recurrence. Thus, the Commission resolves to close the matter.
 
 #### I. The matter falls under mandatory breach notification under Section 11 of NPC Circular 16-03.
 
@@ -116,7 +118,7 @@ First, the breach involves sensitive personal information or information that ma
 
 According to the SSS, the information involved in the breach included the SSS Number, Full Name, Date of Birth and Gender of all twenty-two (22) affected data subjects.[^33] For three (3) of these data subjects, their Father's Name, Mother's Name, Contact Number, Email Address, Marital Status, Height and Weight, Place of Birth, Address, Photo, and Signature were involved in the breach.[^34]
 
-The SSS Number, Date of Birth, Gender, and Marital Status of the affected data subjects are considered sensitive personal information under Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA). [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]] defines sensitive personal information as follows:
+The SSS Number, Date of Birth, Gender, and Marital Status of the affected data subjects are considered sensitive personal information under [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA). [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]] defines sensitive personal information as follows:
 
 > Section 3. *Definition of Terms.* – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 > 
@@ -134,7 +136,7 @@ The SSS Number, Date of Birth, Gender, and Marital Status of the affected data s
 
 Here, the SSS Number is considered sensitive personal information because it is issued by a government agency, and it is peculiar to the individual to whom it is issued. Date of Birth is also sensitive personal information because it can be used to determine the data subject's age. The SSS Number, Full Name, Father's Name, Mother's Name, Contact Number, Email address, Gender, Marital Status, Height and Weight, Date of Birth, Place of Birth, Address, Photo, and Signature of the affected data subjects can also be considered other information that may be used to enable identity fraud under the circumstances.
 
-In determining whether other information involved in the breach may enable identity fraud, Section 11 of NPC Circular 16-03 should be read together with Section 20 (f) of DPA. Section 20 (f) expressly requires the consideration of the specific circumstances of the breach in making this determination:
+In determining whether other information involved in the breach may enable identity fraud, Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] should be read together with [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (f) of DPA]]. Section 20 (f) expressly requires the consideration of the specific circumstances of the breach in making this determination:
 
 > Section 20. *Security of Personal Information.*
 > 
@@ -186,7 +188,7 @@ In this case, the SSS notified the Commission and the affected data subjects. Th
 
 Notably, MCM informed the SSS of the breach through its Data Protection Officers (DPOs) on 15 March 2018.[^54]
 
-Section 17 of NPC Circular 16-03 provides:
+Section 17 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides:
 
 > Section 17. *Notification of the Commission*. The personal information controller shall notify the Commission of a personal data breach subject to the following procedures.
 > 
@@ -268,14 +270,14 @@ National Privacy Commission
 [^27]: Id. Annex IV.
 [^28]: Letter, 25 January 2023, Annex V, in In re: Social Security System, NPC BN 18-038 (NPC 2023).
 [^29]: Id. Annex VI.
-[^30]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 11 (15 December 2016).
+[^30]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 ([[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]]), § 11 (15 December 2016).
 [^31]: In re: Pacific Plaza Towers Condominium Corporation, [[resolutions/2018/npc-bn-18-138-in-re-pacific-plaza-resolution|NPC BN 18-138]], 13 November 2023, at 7, available at https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-BN-18-138-2023.11.13-In-re-Pacific-Plaza-Resolution-Final.pdf (last accessed 03 January 2025).
-[^32]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers, NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-COMELEC-Decision-FinalP.pdf (last accessed 03 January 2025).
+[^32]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers, [[decisions/2022/npc-ss-22-001-and-npc-ss-22-008-in-re-commission-on-elections|NPC SS 22-001 and NPC SS 22-008]], 22 September 2022, at 19, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-COMELEC-Decision-FinalP.pdf (last accessed 03 January 2025).
 [^33]: Data Breach Notification, 20 March 2018, at 1, in In re: Social Security System, NPC BN 18-038 (NPC 2018).
 [^34]: Id.
-[^35]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3(l) (2012). Emphasis supplied.
+[^35]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173 § 3(l)]] (2012). Emphasis supplied.
 [^36]: Id. § 20 (f) Emphasis supplied.
-[^37]: In re: E-Science Corporation, NPC BN 20-124, 10 September 2020, at 3, available at https://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-20-124-2020.09.10-In-re-E-Science-Corporation-Resolution.pdf (last accessed 03 January 2025).
+[^37]: In re: E-Science Corporation, [[resolutions/2020/npc-bn-20-124-in-re-e-science-corporation|NPC BN 20-124]], 10 September 2020, at 3, available at https://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-20-124-2020.09.10-In-re-E-Science-Corporation-Resolution.pdf (last accessed 03 January 2025).
 [^38]: Id. Emphasis supplied.
 [^39]: Id. at 4.
 [^40]: Id.
@@ -284,8 +286,8 @@ National Privacy Commission
 [^43]: Id.
 [^44]: Id.
 [^45]: Letter Re Data Breach Incident Report Dated March 20, 2018, 21 September 2018, at 2, in In re: Social Security System, NPC BN 18-038 (NPC 2021).
-[^46]: NPC Circ. No. 16-03, § 11.
-[^47]: In re: Easytrip Services Corporation, NPC BN 17-028 and NPC BN 18-180, 11 May 2023, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/06/NPC-BN-17-028-_-18-180-2023.05.11-Resolution-FinalP.pdf (last accessed 03 January 2025).
+[^46]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 11.
+[^47]: In re: Easytrip Services Corporation, [[resolutions/2023/npc-17-028-and-npc-bn-18-180-in-re-easytrip-services-corporation|NPC BN 17-028 and NPC BN 18-180]], 11 May 2023, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/06/NPC-BN-17-028-_-18-180-2023.05.11-Resolution-FinalP.pdf (last accessed 03 January 2025).
 [^48]: Id.
 [^49]: Id.
 [^50]: Id.
@@ -293,7 +295,7 @@ National Privacy Commission
 [^52]: Id. at 1-2.
 [^53]: Letter Re Compliance with the Request to Submit Additional Documents Needed for Further Investigation, 12 October 2021, in In re: Social Security System, NPC BN 18-038 (NPC 2021).
 [^54]: Letter Re Compliance with the Request to Submit Additional Documents Needed for Further Investigation, 16 November 2021, at 2, in In re: Social Security System, NPC BN 18-038 (NPC 2021).
-[^55]: NPC Circ. No. 16-03, § 17.
+[^55]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 17.
 [^57]: Letter Re Compliance with the Request to Submit Additional Documents Needed for Further Investigation, 16 November 2021, at 1-3, in In re: Social Security System, NPC BN 18-038 (NPC 2021).
 [^58]: Id.
 [^59]: Id.

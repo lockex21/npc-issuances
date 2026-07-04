@@ -1,6 +1,11 @@
 ---
-title: “NPC Advisory Opinion No. 2017-026 — Collection of Data - Professional License”
-description: “Guidance on whether educational academies can collect professional license numbers and expiry dates from course participants for verification purposes.”
+title: "NPC Advisory Opinion No. 2017-026 — Collection of Data - Professional License"
+aliases:
+  - "NPC Advisory Opinion No. 2017-026"
+  - "npc advisory opinion no. 2017-026"
+  - "Advisory Opinion No. 2017-026"
+  - "advisory opinion no. 2017-026"
+description: "Guidance on whether educational academies can collect professional license numbers and expiry dates from course participants for verification purposes."
 tags:
   - issuance
   - type/advisory-opinion
@@ -41,7 +46,7 @@ A professional identification card issued by the Professional Regulation Commiss
 7. Date of birth; and
 8. Signature.
 
-A PRC identification card contains both personal[^1] and sensitive personal information[^2], the lawful processing of which is provided for under Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
+A PRC identification card contains both personal[^1] and sensitive personal information[^2], the lawful processing of which is provided for under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 We believe that the Academy, as a personal information controller, may lawfully process personal data contained in the professional licenses pursuant to the following provisions of the DPA:
 
@@ -67,6 +72,6 @@ Officer-in-Charge and
 Deputy Privacy Commissioner
 Policies and Planning
 
-[^1]: RA No. 10173, §3(g) - Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^1]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(g)]] - Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 [^2]: Id., §3(l) - Sensitive personal information refers to personal information: (1) About an individual’s race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual’s health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
 [^3]: Id., §3(b) – Consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so.

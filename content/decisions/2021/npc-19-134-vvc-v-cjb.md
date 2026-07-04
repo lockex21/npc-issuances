@@ -11,6 +11,8 @@ tags:
   - type/decision
   - year/2019
   - npc-case
+  - topic/consent
+  - topic/employment
 date: "2021-12-10"
 draft: false
 ---
@@ -48,7 +50,7 @@ Data Privacy Act of 2012
 
 AGUIRRE, D.P.C.;
 
-Before this Commission is a Complaint filed by VVC (VVC) against CJB (CJB) for an alleged violation of Section 25 or Unauthorized Processing of Personal or Sensitive Personal Information and Section 32 or Unauthorized Disclosure of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by VVC (VVC) against CJB (CJB) for an alleged violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25]] or Unauthorized Processing of Personal or Sensitive Personal Information and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32]] or Unauthorized Disclosure of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -108,7 +110,7 @@ The case should not be dismissed on procedural grounds. VVC expressly consented 
 
 #### I. The case should not be dismissed for VVC's alleged failure to give CJB an opportunity to address the complaint against him.
 
-CJB alleges that the Commission should dismiss the case against him since VVC failed to provide him with an opportunity to address the complaint against him as required in Section 4 (a) of NPC Circular No. 16-04.[^28] Section 4 (a) of NPC Circular No. 16-04 provides:
+CJB alleges that the Commission should dismiss the case against him since VVC failed to provide him with an opportunity to address the complaint against him as required in Section 4 (a) of NPC Circular No. 16-04.[^28] Section 4 (a) of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] provides:
 
 > Section 4. Exhaustion of remedies – No complaint shall be entertained unless:
 >
@@ -122,7 +124,7 @@ Where circumstances permit, it is a condition precedent to the filing of complai
 
 In this case, the complaint contains an allegation on CJB's alleged wanton processing of VVC's personal files, which contains sensitive personal information.[^33] The nature of sensitive personal information and the risks involved in the processing of such information increases the risk of harm to the data subject. This serves as sufficient basis to give the complaint due course.[^34]
 
-In any case, NPC Circular No. 21-01 (2021 Rules of Procedure) provides that the Commission may waive the conditions precedent when the respondent cannot provide any plain, speedy, or adequate remedy to the alleged violation:
+In any case, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 21-01]] (2021 Rules of Procedure) provides that the Commission may waive the conditions precedent when the respondent cannot provide any plain, speedy, or adequate remedy to the alleged violation:
 
 > Section 2. Exhaustion of remedies
 >
@@ -140,7 +142,7 @@ Given all these, the Commission waives the procedural technicalities cited by CJ
 
 #### II. A PDS contains personal and sensitive personal information of a government official or employee.
 
-A PDS is an official document that contains personal and sensitive personal information of a government employee or official.[^37] A PDS contains a government official of employee's personal background, qualifications, and eligibility[^38], which necessarily includes personal and sensitive personal information as defined by the DPA:
+A PDS is an official document that contains personal and sensitive personal information of a government employee or official.[^37] A PDS contains a government official of employee's personal background, qualifications, and eligibility[^38], which necessarily includes personal and sensitive personal information as defined by the [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|DPA]]:
 
 > Section 3. Definition of Terms. – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -201,7 +203,7 @@ The PDS specifically provides that the data subject permits the agency head or a
 
 #### IV. CJB is neither liable under Section 25 nor Section 32 of the DPA when he released the PDS to third parties.
 
-CJB is neither liable for [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]] on Unauthorized Processing of Personal and Sensitive Personal Information nor Section 32 of the DPA on Unauthorized Disclosure.
+CJB is neither liable for [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]] on Unauthorized Processing of Personal and Sensitive Personal Information nor [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 of the DPA]] on Unauthorized Disclosure.
 
 **CJB is not liable under Section 25 of the DPA on Unauthorized Processing of Personal and Sensitive Personal Information.**
 
@@ -334,29 +336,29 @@ National Privacy Commission
 [^26]: Answer to Responsive Rejoinder, 04 September 2019, at 1, in VVC vs. CJB, NPC 19-134 (NPC 2019).
 [^27]: Id.
 [^28]: Respondent's Responsive Comment, *supra* 18, at 1.
-[^29]: National Privacy Commission, Rules on Procedure of the National Privacy Commission, Circular No. 04, Series of 2016 [NPC Circular No. 16-04], §4 (a) (15 December 2016).
-[^30]: AC N v. DT, NPC Case No. 18-109 (2021).
-[^31]: NPC Circular No. 16-04, §4.
-[^32]: FGP v. Maersk, NPC Case No. 18-038 (2020).
+[^29]: National Privacy Commission, Rules on Procedure of the National Privacy Commission, Circular No. 04, Series of 2016 [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]], §4 (a) (15 December 2016).
+[^30]: AC N v. DT, [[decisions/2021/npc-18-109-acn-v-dt|NPC Case No. 18-109]] (2021).
+[^31]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]], §4.
+[^32]: FGP v. Maersk, [[decisions/2020/npc-18-038-fgp-vs-maersk|NPC Case No. 18-038]] (2020).
 [^33]: Answer to Responsive Rejoinder, *supra* note 26, at 1.
-[^34]: MNLC v. PXXX, et al., NPC Case No. 19-528 (2020).
-[^35]: National Privacy Commission, 2021 Rules on Procedure of the National Privacy Commission, Circular No. 01, Series of 2021 [NPC Circular No. 21-01], Rule II, §2 (28 January 2021). Emphasis supplied.
-[^36]: Declaro v. Declaro, et al., CID Case No. 18-D-012 (2020).
-[^37]: National Privacy Commission, Advisory on Access to Personal Data Sheets of Government Personnel, Advisory No. 02, Series of 2017 (03 April 2017).
+[^34]: MNLC v. PXXX, et al., [[decisions/2020/npc-19-528-mnlc-vs-pxxx-corporation|NPC Case No. 19-528]] (2020).
+[^35]: National Privacy Commission, 2021 Rules on Procedure of the National Privacy Commission, Circular No. 01, Series of 2021 [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 21-01]], Rule II, §2 (28 January 2021). Emphasis supplied.
+[^36]: Declaro v. Declaro, et al., [[decisions/2020/cid-18-d-012-jbd-vs-ji-and-vvv|CID Case No. 18-D-012]] (2020).
+[^37]: National Privacy Commission, Advisory on Access to Personal Data Sheets of Government Personnel, [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|Advisory No. 02, Series of 2017]] (03 April 2017).
 [^38]: Affidavit Complaint, *supra* note 1, Annex D.
-[^39]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3 (g), (l).
+[^39]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012]], Republic Act No. 10173, § 3 (g), (l).
 [^40]: Affidavit Complaint, *supra* note 1, Annex D.
-[^41]: Data Privacy Act of 2012, § 12 (a). Emphasis supplied.
+[^41]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (a)]]. Emphasis supplied.
 [^42]: Id. § 13 (a). Emphasis supplied.
 [^43]: Id. § 3. Emphasis supplied.
 [^44]: Id. Emphasis supplied.
-[^45]: MNLC, NPC Case No. 19-528 (2020).
+[^45]: MNLC, [[decisions/2020/npc-19-528-mnlc-vs-pxxx-corporation|NPC Case No. 19-528]] (2020).
 [^46]: Id.
 [^47]: Cabanting v. BPI Family Savings Bank, Inc., G.R. No. 201927 (2016).
 [^48]: Affidavit Complaint, *supra* note 1, Annex D.
-[^49]: Data Privacy Act of 2012, § 25.
-[^50]: MNLC, NPC Case No. 19-528.
-[^51]: Data Privacy Act of 2012, § 32.
+[^49]: [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Data Privacy Act of 2012, § 25]].
+[^50]: MNLC, [[decisions/2020/npc-19-528-mnlc-vs-pxxx-corporation|NPC Case No. 19-528]].
+[^51]: [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Data Privacy Act of 2012, § 32]].
 [^52]: Id.
 [^53]: Metropolitan Bank and Trust Co. v. Liberty Corrugated Boxes Manufacturing Corp., G.R. No.184317 (2017).
 [^54]: Fort Bonifacio Development Corp. v. Commissioner of Internal Revenue, G.R. Nos. 158885 & 170680 (Resolution) (2009).

@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/employment
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-090"
+  - "npc advisory opinion no. 2018-090"
+  - "Advisory Opinion No. 2018-090"
+  - "advisory opinion no. 2018-090"
 ---
 
 ## Source
@@ -169,10 +175,10 @@ Privacy Commissioner and Chairman
 [^5]: Id. Article 32.
 [^6]: Id.
 [^7]: *See*: *Pollo v. David*, G.R. No. 181881, (2011); *O'Connor v. Ortega* 480 U.S. 709 (1987).
-[^8]: Data Privacy Act of 2012, § 2.
-[^9]: Id. § 11.
+[^8]: [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Data Privacy Act of 2012, § 2]].
+[^9]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Id. § 11]].
 [^10]: Article 29 Working Party, Opinion 2/2017 on data processing at work (2017).
 [^11]: 201 N.J. 300, 990 A.2d. 650 (2010).
 [^12]: ECtHR, *Copland v. the United Kingdom*, No. 62617/00, 3 April 2007.
 [^13]: ECtHR, *Barbulescu v. Romania* [GC], No. 61496/08, 5 September 2017.
-[^14]: Data Privacy Act of 2012, § 3 (g) Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^14]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (g)]] Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.

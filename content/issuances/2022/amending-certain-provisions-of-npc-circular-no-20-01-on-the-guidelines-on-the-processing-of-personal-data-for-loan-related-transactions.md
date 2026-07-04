@@ -12,6 +12,7 @@ tags:
 - issuance
 - type/circular
 - year/2022
+- topic/online-lending
 title: "Amending Certain Provisions of Npc Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-related Transactions (Circular No. 2022)"
 ---
 
@@ -28,7 +29,7 @@ title: "Amending Certain Provisions of Npc Circular No. 20-01 on the Guidelines 
 
    5. LCs, FCs, and similar actors shall obtain consent when the requested personal data is necessary, providing just-in-time notices immediately before collecting the data. A just-in-time notice explains how the specific information will be processed and is delivered when the entity is about to process the relevant personal data.
 
-   6. Details about processing, mandated by Section 16(b) of the [[laws/data-privacy-act-of-2012|DPA]] and Section 34(a)(2) of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], should follow whichever format aligns with the entity’s business process while remaining accessible and convenient for borrowers. For mobile applications, the relevant information must be readily accessible in-app.
+   6. Details about processing, mandated by [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(b) of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34(a)(2) of the IRR]], should follow whichever format aligns with the entity’s business process while remaining accessible and convenient for borrowers. For mobile applications, the relevant information must be readily accessible in-app.
 
    B. Section 3(D) is rewritten with clearer subsections and bullet text:
 
@@ -46,7 +47,7 @@ title: "Amending Certain Provisions of Npc Circular No. 20-01 on the Guidelines 
 
    H. PIPs and third-party service providers operating in the Philippines under the instruction of LCs, FCs, or similar parties must also register with the NPC when processing personal data.
 
-   I. For overseas PIPs, the LC/FC must ensure appropriate technical and contractual safeguards that respect Sections 28–29 and 43–45 of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR of the DPA]].
+   I. For overseas PIPs, the LC/FC must ensure appropriate technical and contractual safeguards that respect [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|Sections 28]]–[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-29-appropriate-level-of-security|29]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-43-subcontract-of-personal-data|43]]–[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-45-duty-of-personal-information-processor|45]] of the IRR of the DPA.
 
    J. Upon determining a violation of this Circular, the NPC may revoke the PIC’s or PIP’s registration after notice and an opportunity to explain, according to existing revocation rules.
 

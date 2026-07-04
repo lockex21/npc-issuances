@@ -6,6 +6,11 @@ tags:
   - “type/advisory-opinion”
   - “year/2018”
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-017"
+  - "npc advisory opinion no. 2018-017"
+  - "Advisory Opinion No. 2018-017"
+  - "advisory opinion no. 2018-017"
 ---
 
 ## Source
@@ -23,7 +28,7 @@ Re: TRADE SECRETS
 
 Dear [Redacted]:
 
-This pertains to your query received by the National Privacy Commission (NPC) via email. You seek to clarify whether trade secrets as recognized by jurisprudence as privileged communication falls under the scope of Republic Act No. 10173,[^1] otherwise known as the Data Privacy Act of 2012 (DPA).
+This pertains to your query received by the National Privacy Commission (NPC) via email. You seek to clarify whether trade secrets as recognized by jurisprudence as privileged communication falls under the scope of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] otherwise known as the Data Privacy Act of 2012 (DPA).
 
 ### Discussion
 

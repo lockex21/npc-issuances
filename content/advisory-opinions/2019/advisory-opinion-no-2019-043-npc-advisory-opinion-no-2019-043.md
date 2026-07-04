@@ -1,10 +1,16 @@
 ---
 title: "NPC Advisory Opinion No. 2019-043 — Access to PSA Civil Registry Documents for Verification Purposes"
 description: "Guidance on AFPSLAI's access to civil registry documents from the Philippine Statistics Authority for membership verification and claims processing."
+aliases:
+  - "NPC Advisory Opinion No. 2019-043"
+  - "npc advisory opinion no. 2019-043"
+  - "Advisory Opinion No. 2019-043"
+  - "advisory opinion no. 2019-043"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2019"
+  - "topic/data-sharing"
 draft: false
 ---
 
@@ -92,5 +98,5 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: See: National Privacy Commission, NPC Advisory Opinion No. 2019-39 (Sept. 3, 2019).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-039-v1-redacted-advisory-opinion-no-2019-039|NPC Advisory Opinion No. 2019-39]] (Sept. 3, 2019).

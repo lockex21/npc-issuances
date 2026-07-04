@@ -6,6 +6,7 @@ tags:
   - type/resolution
   - year/2018
   - npc-case
+  - topic/breach-notification
 draft: false
 aliases:
   - "NPC 18-144"
@@ -97,7 +98,7 @@ Whether OWI sufficiently addressed the breach and implemented security measures 
 
 ### Discussion
 
-The Commission resolves to close the matter. The incident does not fall under mandatory breach notification under Section 11 of NPC Circular 16-03 (Personal Data Breach Management). Nevertheless, OWI sufficiently addressed the breach and implemented security measures to prevent its recurrence.
+The Commission resolves to close the matter. The incident does not fall under mandatory breach notification under Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management). Nevertheless, OWI sufficiently addressed the breach and implemented security measures to prevent its recurrence.
 
 Section 11 of NPC Circular 16-03 on mandatory breach notification provides:
 
@@ -119,7 +120,7 @@ Following this, the requisites for mandatory breach notification to the Commissi
 
 The first requisite is absent in this case. The nature of the information involved is neither sensitive personal information nor other information that, under the circumstances, may enable identity fraud.
 
-The first requisite of mandatory breach notification under Section 11 of NPC Circular 16-03 should be read together with Section 20(f) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA). Section 20(f) expressly requires the consideration of the specific circumstances of a breach in determining whether other information involved in the breach may enable identity fraud:
+The first requisite of mandatory breach notification under Section 11 of NPC Circular 16-03 should be read together with [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(f)]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA). Section 20(f) expressly requires the consideration of the specific circumstances of a breach in determining whether other information involved in the breach may enable identity fraud:
 
 > Section 20. Security of Personal Information.
 >
@@ -245,11 +246,11 @@ GENERAL RECORDS UNIT
 [^35]: *Id.* Annex 7.
 [^36]: *Id.* Annex 8.
 [^37]: Email Re: NPCBN 18-144, 25 January 2022, in In re: Office Warehouse, Inc., NPC BN 18-144 (NPC 2022).
-[^38]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 11 (15 December 2016).
+[^38]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 11 (15 December 2016).
 [^39]: NPC BN 18-158, 13 November 2023, at 10 (NPC 2023) (unreported).
-[^40]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers, NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at https://www.privacy.gov.ph/wp-content/uploads/2023/01/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-Commission-on-Elections-Decision-Final.pdf (last accessed 31 January 2024).
+[^40]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers, [[decisions/2022/npc-ss-22-001-and-npc-ss-22-008-in-re-commission-on-elections|NPC SS 22-001 and NPC SS 22-008]], 22 September 2022, at 19, available at https://www.privacy.gov.ph/wp-content/uploads/2023/01/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-Commission-on-Elections-Decision-Final.pdf (last accessed 31 January 2024).
 [^41]: *Id.*
-[^42]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20(f) (2012). Emphasis supplied.
+[^42]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20(f)]] (2012). Emphasis supplied.
 [^43]: NPC BN 20-124, 10 September 2020, at 3 (NPC 2020) (unreported).
 [^44]: *Id.* Emphasis supplied.
 [^45]: *Id.* at 4.
@@ -265,8 +266,8 @@ GENERAL RECORDS UNIT
 [^55]: Data Breach Report Form, 13 November 2020, at 1, in In re: Office Warehouse, Inc., NPC BN 18-144 (NPC 2020).
 [^56]: Compliance, 22 October 2021, Annex 4-5, in In re: Office Warehouse, Inc., NPC BN 18-144 (NPC 2021).
 [^57]: NPC BN 20-158, 21 September 2020, at 5 (NPC 2020) (unreported).
-[^58]: NPC Circ. No. 16-03, § 11.
-[^59]: In re: Easytrip Services Corporation, NPC BN 17-028 and NPC BN 18-180, 11 May 2023, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/06/NPC-BN-17-028-_-18-180-2023.05.11-Resolution-FinalP.pdf (last accessed 30 March 2024).
+[^58]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 11.
+[^59]: In re: Easytrip Services Corporation, [[resolutions/2023/npc-17-028-and-npc-bn-18-180-in-re-easytrip-services-corporation|NPC BN 17-028 and NPC BN 18-180]], 11 May 2023, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/06/NPC-BN-17-028-_-18-180-2023.05.11-Resolution-FinalP.pdf (last accessed 30 March 2024).
 [^60]: *Id.*
 [^61]: *Id.*
 [^62]: *Id.*

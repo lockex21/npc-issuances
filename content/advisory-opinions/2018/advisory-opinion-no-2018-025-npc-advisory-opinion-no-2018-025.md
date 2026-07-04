@@ -8,7 +8,14 @@ tags:
   - law-enforcement
   - personal-data-disclosure
   - government-employee-exemption
+  - topic/employment
+  - topic/government
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-025"
+  - "npc advisory opinion no. 2018-025"
+  - "Advisory Opinion No. 2018-025"
+  - "advisory opinion no. 2018-025"
 ---
 
 ## Source
@@ -26,7 +33,7 @@ Re: REQUEST FOR INFORMATION FROM LAW ENFORCEMENT AGENCIES
 
 Dear [Redacted],
 
-This pertains to your request for advisory opinion received by the Privacy Policy Office of the National Privacy Commission (NPC) on 10 April 2018, which sought to clarify whether the disclosure of Cebu Pacific passengers' personal information and travel records to law enforcement agencies is in accordance with Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR),[^2] and relevant issuances of the NPC.
+This pertains to your request for advisory opinion received by the Privacy Policy Office of the National Privacy Commission (NPC) on 10 April 2018, which sought to clarify whether the disclosure of Cebu Pacific passengers' personal information and travel records to law enforcement agencies is in accordance with [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR),[^2] and relevant issuances of the NPC.
 
 You mentioned in your letter that the Philippine Drug Enforcement Agency (PDEA) filed an administrative case against its employee, [Redacted]. In relation to the said case, PDEA would like to confirm [Redacted] whereabouts on 16 August 2015. Said personnel presented, as part of his defense the following:
 
@@ -39,7 +46,7 @@ PDEA requested Cebu Pacific to verify if indeed [Redacted] booked a flight and p
 
 #### Scope of the DPA
 
-The DPA applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.[^3] Personal information pertains to any information from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^4]
+The [[laws/data-privacy-act-of-2012#section-4-scope|DPA applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing]].[^3] Personal information pertains to any information from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^4]
 
 Consequently, the name of the passenger is considered as personal information, combined with the flight details, such information taken together will directly and certainly identify the individual.
 
@@ -83,5 +90,5 @@ Privacy Commissioner and Chairman
 [^3]: *Supra* note 1, §4.
 [^4]: *Id.*, §3(g).
 [^5]: *Supra* note 3.
-[^6]: *Supra* note 1, §25.
-[^7]: *Id.*, §32.
+[^6]: *Supra* note 1, [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|§25]].
+[^7]: *Id.*, [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|§32]].

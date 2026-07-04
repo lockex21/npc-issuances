@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/employment
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2017-046"
+  - "npc advisory opinion no. 2017-046"
+  - "Advisory Opinion No. 2017-046"
+  - "advisory opinion no. 2017-046"
 ---
 
 ## Source
@@ -32,7 +38,7 @@ The DPA defines processing as "any operation or any set of operations performed 
 
 The processing shall be considered occasional if it is only incidental to the mandate or the function of the PIC or PIP, or, if it only occurs under specific circumstances and is not regularly performed.[^2] We believe that the processing of employees' personal data is not occasional as there is regularity and recurrence in the same, i.e. the maintenance in a standard way of employee files which contain personal data would presumably include collection and storage of resumes or some other form of biodata or curriculum vitae, organization and storage of employment contracts, the processing of the compensation and mandatory statutory deductions on a semi-monthly or monthly basis, i.e. withholding of taxes, social security contributions, etc., updating or modifications on personal data, i.e. change in name, addresses, other contact details, etc., among others.
 
-For the limited purpose of registration, NPC Circular 17-01 includes in its Annex 1, an identification of the categories of personal information controllers and personal information processors required to register their data processing systems even if employees are less than 250, or processing includes sensitive personal information of less than 1,000 records.
+For the limited purpose of registration, [[issuances/undated/registration-of-data-processing-systems|NPC Circular 17-01]] includes in its Annex 1, an identification of the categories of personal information controllers and personal information processors required to register their data processing systems even if employees are less than 250, or processing includes sensitive personal information of less than 1,000 records.
 
 A company which employs only twenty-five employees would be required to register if it falls under any of the PIC or PIP in Annex 1.
 
@@ -44,4 +50,4 @@ RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
 [^1]: RA No. 10173, §3(J)
-[^2]: NPC Circular 17-01, §5(D)
+[^2]: [[issuances/undated/registration-of-data-processing-systems|NPC Circular 17-01]], §5(D)

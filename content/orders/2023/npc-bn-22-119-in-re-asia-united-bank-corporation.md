@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2023"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2023-01-26"
 draft: false
 ---
@@ -47,7 +48,7 @@ In justifying its request for exemption, AUB stated that Unionbank "has already 
 
 On 11 January 2023, the Commission issued a Minute Resolution ordering AUB to submit proof to substantiate its request for exemption to notify the data subjects:
 
-> Pursuant to Section 17(D) of NPC Circular No. 16-03 (Personal Data Breach Management), the Commission may require additional information, if necessary, for the proper resolution of the request for Exemption.
+> Pursuant to Section 17(D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management), the Commission may require additional information, if necessary, for the proper resolution of the request for Exemption.
 >
 > WHEREFORE, premises considered, the Commission hereby ORDERS Asia United Bank Corporation to SUBMIT within five (5) days upon receipt of this Minute Resolution proof to substantiate the request for Exemption.
 >
@@ -67,7 +68,7 @@ Lastly, AUB requested the Commission to allow it to submit the incident report f
 
 On 20 January 2023, AUB sent to the Commission, via email, Entrego's incident report dated 06 August 2022.[^18] The incident report stated that Entrego referred the incident to its Human Resources "for the imposition of disciplinary sanction on the erring employee for his negligence."[^19] Entrego also stated that the Progressive Daily Report mistakenly sent to Unionbank was not password protected which violates Entrego's Information Security Policy and Data Privacy Governance and Management Manual.[^20]
 
-Rule V, Section 18(A) of NPC Circular No. 16-03 (Personal Data Breach Management) states:
+Rule V, Section 18(A) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management) states:
 
 > A. When should notification be done. The data subjects shall be notified within seventy-two (72) hours upon knowledge of or reasonable belief by the personal information controller or personal information processor that a personal data breach has occurred. The notification may be made on the basis of available information within the 72-hour period if the personal data breach is likely to give rise to a real risk to the rights and freedoms of data subjects. It shall be undertaken in a manner that would allow data subjects to take the necessary precautions or other measures to protect themselves against the possible effects of the breach. It may be supplemented with additional information at a later stage on the basis of further investigation.[^21] (Emphasis supplied)
 
@@ -79,7 +80,7 @@ Thus, the Commission deems it proper to deny AUB's request for exemption from th
 
 WHEREFORE, premises considered, this Commission **DENIES** the request of Asia United Bank Corporation (AUB) for the exemption of notification of the data subjects affected by the breach.
 
-The Commission **DIRECTS** the Compliance and Monitoring Division (CMD) to issue the appropriate orders necessary to evaluate and monitor the completeness of AUB's data breach notification and assess its breach management pursuant to NPC Circular No. 16-03 (Personal Data Breach Management).
+The Commission **DIRECTS** the Compliance and Monitoring Division (CMD) to issue the appropriate orders necessary to evaluate and monitor the completeness of AUB's data breach notification and assess its breach management pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management).
 
 **SO ORDERED.**
 
@@ -124,5 +125,5 @@ GENERAL RECORDS UNIT
 [^18]: Electronic mail dated 20 January 2023 from Asia United Bank Corporation.
 [^19]: Incident Report dated 06 August 2022 of Entrego.
 [^20]: Electronic Mail dated 20 January 2023 from Asia United Bank.
-[^21]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §18(A) (15 December 2016).
-[^22]: NPC Circular 16-03, rule V, §18(B).
+[^21]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §18(A) (15 December 2016).
+[^22]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, §18(B).

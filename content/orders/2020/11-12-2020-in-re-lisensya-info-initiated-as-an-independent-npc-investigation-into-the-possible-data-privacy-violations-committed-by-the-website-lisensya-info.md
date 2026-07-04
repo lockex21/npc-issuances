@@ -11,6 +11,9 @@ tags:
   - "type/order"
   - "year/2020"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/consent"
+  - "topic/data-subject-rights"
 date: "2020-11-12"
 draft: false
 ---
@@ -38,7 +41,7 @@ x----------------------------------------------------x
 
 LIBORO, P.C.:
 
-This resolves the Application for Issuance of Cease and Desist Order of the National Privacy Commission (NPC)'s Complaints and Investigation Division (CID)[^1] pursuant to a Sua Sponte Investigation against respondent Lisensya.Info for unauthorized processing and unauthorized access of personal information and sensitive personal information which are violations of the Data Privacy Act of 2012 (DPA).
+This resolves the Application for Issuance of Cease and Desist Order of the National Privacy Commission (NPC)'s Complaints and Investigation Division (CID)[^1] pursuant to a Sua Sponte Investigation against respondent Lisensya.Info for unauthorized processing and unauthorized access of personal information and sensitive personal information which are violations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### The Facts
 
@@ -112,7 +115,7 @@ Section 7(b) of the DPA specifically states that it is the mandate of the NPC to
 
 > "(b) Receive complaints, institute investigations, facilitate or enable settlement of complaints through the use of alternative dispute resolution processes, adjudicate, award indemnity on matters affecting any personal information, prepare reports on disposition of complaints and resolution of any investigation it initiates, and, in cases it deems appropriate, publicize any such report: *Provided*, That in resolving any complaint or investigation (except where amicable settlement is reached by the parties), the Commission shall act as a collegial body. For this purpose, the Commission may be given access to personal information that is subject of any complaint and to collect the information necessary to perform its functions under this Act;" (Emphasis supplied)
 
-In the exercise of its rule-making power and to flesh out the provision above, the NPC issued NPC Circular 16-04 (NPC Rules of Procedure) on 15 December 2016. Section 3 thereof provides who may file complaints with the Commission:
+In the exercise of its rule-making power and to flesh out the provision above, the NPC issued [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] (NPC Rules of Procedure) on 15 December 2016. Section 3 thereof provides who may file complaints with the Commission:
 
 > "SECTION 3. Who may file complaints. – The National Privacy Commission, sua sponte, or persons who are the subject of a privacy violation or personal data breach, or who are otherwise personally affected by a violation of the Data Privacy Act, may file complaints for violations of the Act."
 
@@ -136,7 +139,7 @@ This was reiterated in the [[laws/implementing-rules-and-regulations-of-the-data
 >
 > 3. Issuing cease and desist orders, or imposing a temporary or permanent ban on the processing of personal data, upon finding that the processing will be detrimental to national security or public interest, or if it is necessary to preserve and protect the rights of data subjects." (Emphasis supplied)
 
-Furthermore, Section 4 of the recently issued NPC Circular No. 20-02 (Rules on the Issuance of Cease and Desist Orders) provides that the grounds for the issuance of Cease and Desist Order are the following:
+Furthermore, Section 4 of the recently issued [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]] (Rules on the Issuance of Cease and Desist Orders) provides that the grounds for the issuance of Cease and Desist Order are the following:
 
 > "Section 4. Grounds for the Issuance of Cease and Desist Order. – No CDO shall be issued unless it is established by substantial evidence that all of the following concur:
 >
@@ -230,7 +233,7 @@ Hence based on the foregoing, it is clear that grounds for the issuance of a Cea
 
 WHEREFORE, premises considered, Lisensya.Info and its owner/operator, JOSE MINAO, BILLY JAMES JIMENA and other responsible officers are hereby ordered to:
 
-1. File a **COMMENT**, within ten (10) days from receipt of this Order, on the allegations in the attached Application for Issuance of Cease and Desist Order, pursuant to Section 9 of the NPC Circular No. 20-02; and
+1. File a **COMMENT**, within ten (10) days from receipt of this Order, on the allegations in the attached Application for Issuance of Cease and Desist Order, pursuant to Section 9 of the [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]]; and
 2. **CEASE AND DESIST** from the processing the personal and sensitive personal information in its possession, until the Commission issues a decision on the submission of the Comment, which shall be made no more than thirty (30) days from the expiration of the period to file a Comment or of the termination of the clarificatory hearing if one is held, pursuant to NPC Circular No. 20-02.
 
 Furthermore, the NATIONAL TELECOMMUNICATIONS COMMISSION is hereby enjoined to take down the website Lisensya.Info immediately upon receipt of this Order.
@@ -260,8 +263,8 @@ Deputy Privacy Commissioner
 [^7]: Preliminary Report on Lisensya.Info/LTO dated 09 November 2020.
 [^8]: Technical Report dated 10 November 2020.
 [^9]: Supplemental Technical Report dated 11 November 2020.
-[^10]: See, RA 10173, Section 7.
+[^10]: See, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|RA 10173, Section 7]].
 [^11]: See, *Id.*, Section 2.
-[^12]: See Republic Act No. 10173, Section 3(b).
-[^13]: Implementing Rules and Regulations of the Data Privacy Act, Section 18(a).
+[^12]: See [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173, Section 3(b)]].
+[^13]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Implementing Rules and Regulations of the Data Privacy Act, Section 18(a)]].
 [^14]: Resolution dated 21 May 2020.

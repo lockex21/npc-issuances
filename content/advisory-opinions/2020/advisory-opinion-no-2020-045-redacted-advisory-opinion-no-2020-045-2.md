@@ -5,6 +5,7 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/legitimate-interest"
 draft: false
 ---
 
@@ -22,7 +23,7 @@ Re: DISCLOSURE OF UNIT OWNERS DETAILS FOR SECURING PROXIES
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion which sought clarification on whether or not [[advisory-opinions/2018/advisory-opinion-no-2018-011-npc-advisory-opinion-no-2018-011|Advisory Opinion No. 2018-011]][^2] which allows for the disclosure of unit numbers of members of the condominium association in accordance with the Data Privacy Act of 2012[^3] (DPA) also applies to the disclosure of the condominium corporation members’ other personal information such as the names, addresses, e-mail addresses, and telephone or mobile numbers for the purpose of assisting a member in contacting them to secure their proxies, in relation to Section 73 of the Revised Corporation Code[^4] (RCC) on inspection of corporate records.
+We write in response to your request for an advisory opinion which sought clarification on whether or not [[advisory-opinions/2018/advisory-opinion-no-2018-011-npc-advisory-opinion-no-2018-011|Advisory Opinion No. 2018-011]][^2] which allows for the disclosure of unit numbers of members of the condominium association in accordance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^3] (DPA) also applies to the disclosure of the condominium corporation members’ other personal information such as the names, addresses, e-mail addresses, and telephone or mobile numbers for the purpose of assisting a member in contacting them to secure their proxies, in relation to Section 73 of the Revised Corporation Code[^4] (RCC) on inspection of corporate records.
 
 ### Discussion
 
@@ -59,9 +60,9 @@ Privacy Commissioner
 
 [^1]: Tags: personal information; disclosure; lawful criteria for processing; legal obligation; corporation; proxies; Revised Corporation Code
 [^2]: National Privacy Commission, NPC Advisory Opinion No. 2018-011 (March 22, 2018).
-[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^4]: An Act Providing for the Revised Corporation Code of the Philippines [Revised Corporation Code of the Philippines], Republic Act No. 11232 (2019).
 [^5]: Revised Corporation Code of the Philippines, § 73(b).
 [^6]: *Id.* § 73(f).
-[^7]: Data Privacy Act of 2012, § 3(b).
-[^8]: See generally: Data Privacy Act of 2012, § 12(f) and United Kingdom Information Commissioner’s Office (ICO), What is the ‘Legitimate Interests’ basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
+[^7]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3(b)]].
+[^8]: See generally: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12(f)]] and United Kingdom Information Commissioner’s Office (ICO), What is the ‘Legitimate Interests’ basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.

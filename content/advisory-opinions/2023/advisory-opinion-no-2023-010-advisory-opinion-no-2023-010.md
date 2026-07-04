@@ -5,7 +5,13 @@ tags:
 - issuance
 - type/advisory-opinion
 - year/2023
+- topic/employment
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-010"
+  - "npc advisory opinion no. 2023-010"
+  - "Advisory Opinion No. 2023-010"
+  - "advisory opinion no. 2023-010"
 ---
 
 ## Source
@@ -42,7 +48,7 @@ You thus ask whether the automatic conversation recording feature of the VoIP ph
 
 #### Scope of the Data Privacy Act; Lawful Processing Recorded Calls Containing Personal Data; Proportionality
 
-RA 10173 or the Data Privacy Act of 2012 (DPA) applies to the processing of all types of personal
+RA 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) applies to the processing of all types of personal
 information[^2] and to any natural and juridical person involved in personal information
 processing.[^3]
 
@@ -307,11 +313,11 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-[^2]: Data Privacy Act of 2012, § 3 (g). Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (g)]]. Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 
-[^3]: Id. § 4.
+[^3]: [[laws/data-privacy-act-of-2012#section-4-scope|Id. § 4]].
 
-[^4]: Data Privacy Act of 2012, § 3 (f).
+[^4]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (f)]].
 
 [^5]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-063-npc-advisoryopinionno-2017-063|NPC Advisory Opinion No.2017-063]], (09 February 2017).
 
@@ -325,13 +331,13 @@ Director IV, Privacy Policy Office
 
 [^10]: EU Directive 95/46/EC Working Party Document No. WP 105 noted that "Data relates to an individual if it refers to the identity, characteristics or behavior of an individual or if such information is used to determine or influence the way in which that person is treated or evaluated."
 
-[^11]: Id. § 12,13.
+[^11]: Id. §§ 12, 13.
 
-[^12]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(a) (2016).
+[^12]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(a)]] (2016).
 
-[^13]: Id § 18(c) (2016).
+[^13]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Id § 18(c)]] (2016).
 
-[^14]: National Privacy Commission, NPC Advisory Opinion No. 2018-090 (28 November 2018).
+[^14]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-090-npc-advisory-opinion-no-2018-090|NPC Advisory Opinion No. 2018-090]] (28 November 2018).
 
 [^15]: Id.
 

@@ -15,10 +15,6 @@
     "status": "done",
     "timestamp": "2026-03-25T11:45:00Z"
   },
-  "advisory-opinion-no-2017-025-npc-advisoryopinionno-2017-024.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T08:23:13.325315Z"
-  },
   "advisory-opinion-no-2017-017-npc-advisoryopinionno-2017-017.md": {
     "status": "done",
     "timestamp": "2026-03-25T08:24:15.180821Z"
@@ -78,10 +74,6 @@
   "advisory-opinion-no-2017-020-npc-advisoryopinionno-2017-020.md": {
     "status": "done",
     "timestamp": "2026-03-25T08:25:52.254639Z"
-  },
-  "advisory-opinion-no-2017-021-npc-advisoryopinionno-2017-020.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T08:25:52.256407Z"
   },
   "advisory-opinion-no-2017-022-npc-advisoryopinionno-2017-022.md": {
     "status": "done",
@@ -191,10 +183,6 @@
     "status": "done",
     "timestamp": "2026-03-25T08:32:42.472777+00:00"
   },
-  "advisory-opinion-no-2017-037-npc-advisoryopinionno-2017-038.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T08:32:42.472777+00:00"
-  },
   "advisory-opinion-no-2017-038-npc-advisoryopinionno-2017-038.md": {
     "status": "done",
     "timestamp": "2026-03-25T08:32:42.472777+00:00"
@@ -255,10 +243,6 @@
     "status": "done",
     "timestamp": "2026-03-25T08:35:10.245257Z"
   },
-  "advisory-opinion-no-2017-053-npc-advisoryopinionno-2017-054.md": {
-    "status": "done",
-    "timestamp": "2026-03-25T08:35:10.245257Z"
-  },
   "advisory-opinion-no-2017-054-npc-advisoryopinionno-2017-054.md": {
     "status": "done",
     "timestamp": "2026-03-25T08:35:10.245257Z"
@@ -278,5 +262,21 @@
   "advisory-opinion-no-2017-074-v1-redacted-advisory-opinion-no-2017-074.md": {
     "status": "done",
     "timestamp": "2026-03-25T09:15:14.078004+00:00"
+  },
+  "advisory-opinion-no-2017-021-npc-advisoryopinionno-2017-021.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:25:52.256407Z"
+  },
+  "advisory-opinion-no-2017-025-npc-advisoryopinionno-2017-025.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:23:13.325315Z"
+  },
+  "advisory-opinion-no-2017-037-npc-advisoryopinionno-2017-037.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:32:42.472777+00:00"
+  },
+  "advisory-opinion-no-2017-053-npc-advisoryopinionno-2017-053.md": {
+    "status": "done",
+    "timestamp": "2026-03-25T08:35:10.245257Z"
   }
 }

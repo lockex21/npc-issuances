@@ -1,10 +1,22 @@
 ---
 title: "NPC Advisory Opinion No. 2017-023 — Clarifications on Data Privacy Act Provisions for Banks"
 description: "Advisory Opinion on clarifications on data privacy act provisions for banks under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2017-023"
+  - "npc advisory opinion no. 2017-023"
+  - "Advisory Opinion No. 2017-023"
+  - "advisory opinion no. 2017-023"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2017"
+  - "topic/breach-notification"
+  - "topic/consent"
+  - "topic/data-sharing"
+  - "topic/data-subject-rights"
+  - "topic/employment"
+  - "topic/registration"
+  - "topic/security"
 draft: false
 ---
 
@@ -24,8 +36,8 @@ draft: false
 Dear [Redacted],
 
 This pertains to the summary of queries you forwarded to the National Privacy Commission
-(NPC), by email, relating to Republic Act No. 10173, also known as the Data Privacy Act of
-2012 (DPA), and its Implementing Rules and Regulations (IRR).
+(NPC), by email, relating to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the Data Privacy Act of
+2012 (DPA), and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).
 
 ### Discussion
 
@@ -45,7 +57,7 @@ such a requirement, including means that merely provide an opt-out option (i.e.,
 is merely notified of the period within which he or she can object to the processing of his or
 her personal data).
 
-As regards Section 19(a)(1) of the IRR wherein it is stated that consent must be time-bound
+As regards [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19(a)(1) of the IRR]] wherein it is stated that consent must be time-bound
 vis-à-vis the declared, specified and legitimate purpose, the time-bound element does not
 necessarily mean that a specific date or period of time has to be declared. Thus, for instance,
 declaring that processing will be carried out for the duration of a contract between the
@@ -87,7 +99,7 @@ PIC or personal information processor (PIP) but will only
 need to comply with the data sharing requirements under
 [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20 of the IRR]].
 
-A PIC is defined under Section 3(h) of the DPA as a person or organization that controls the
+A PIC is defined under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(h) of the DPA]] as a person or organization that controls the
 collection, holding, processing or use of personal information, including a person or
 organization who instructs another person or organization to collect, hold, process, use,
 transfer or disclose personal information on his or her behalf. There is control if the natural
@@ -114,7 +126,7 @@ not the foreign bank in its entirety.
 
 The DPA applies to the processing of personal data, even if those engaged in it only maintain
 an office, branch, or agency in the Philippines.[^6] This extra-territorial application of the law is
-further emphasized in Section 6 thereof, which states, in part, that the law applies to an act
+further emphasized in [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|Section 6 thereof]], which states, in part, that the law applies to an act
 done or engaged in outside of the Philippines by an entity having a link with the country (i.e.,
 it has a branch, agency, office or subsidiary here).
 
@@ -191,9 +203,9 @@ officer, consumer protection officer, IT security officer,
 security officer). Will this suffice to comply with the
 requirement of a data privacy officer?
 
-Under Section 21(a)(b) of the DPA, the PIC shall designate an individual or individuals who
+Under [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21(a)(b) of the DPA]], the PIC shall designate an individual or individuals who
 are accountable for its compliance with the DPA. More recently, the NPC recently issued
-Advisory No. 2017-01 (March 14, 2017), which lays down the guidelines for the designation
+[[issuances/2017/designation-of-data-protection-officers|Advisory No. 2017-01]] (March 14, 2017), which lays down the guidelines for the designation
 of such individuals, now referred to as data protection officers (DPO) or, in some instances,
 compliance officers for privacy (COP). Among others, the advisory takes up the mandatory
 designation, general qualifications, duties and the responsibilities of a DPO.
@@ -372,7 +384,7 @@ PICs/PIPs. It may be necessary to provide a
 provide that data collected before the enactment date of
 the law is exempt if it is used for the same purposes.
 
-Section 16(a) and (b) of the DPA, as implemented by [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34(a) of the IRR]], relates to the
+[[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(a) and (b) of the DPA]], as implemented by [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34(a) of the IRR]], relates to the
 right of a data subject to be informed of the processing of his or her personal data, and the
 concomitant duty of a PIC to make such notification. In general, notification must be
 undertaken prior to processing; however, if this is not possible, it must be made at the next
@@ -452,8 +464,8 @@ subjects may be allowed in certain instances. Please
 confirm for proper guidance.
 
 Where a personal data breach warrants notification, a PIC or PIP need not simultaneously
-notify the NPC and the affected data subjects. This much is evident in the language of IRR,
-Section 40 and its subsections. Subsection (c) thereof states that the NPC may allow the PIC
+notify the NPC and the affected data subjects. This much is evident in the language of [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-40-delay-of-notification|IRR,
+Section 40]] and its subsections. Subsection (c) thereof states that the NPC may allow the PIC
 or PIP to postpone the notification of affected data subjects, if this will negatively affect an
 ongoing criminal investigation involving the breach. Meanwhile, under subsection (b), the
 NPC may even authorize the PIC or PIP to dispense altogether with the obligation to notify the affected data subjects, if, in its view, such notification will not be in the interest of the
@@ -471,7 +483,7 @@ report. If it is not reasonably possible to notify the data subjects within the 
 the personal information controller may also request the Commission for postponement of
 or an exemption from the notification of data subjects.
 
-Section 17(b) of NPC Circular 16-03 on breach management contemplates a scenario wherein a PIC has been remiss in its duty to promptly notify the NPC regarding a personal data breach incident. On such occasion, once the PIC belatedly notifies the Commission, the latter will make a determination whether the delay was warranted and/or may be excused. The section provides:
+Section 17(b) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] on breach management contemplates a scenario wherein a PIC has been remiss in its duty to promptly notify the NPC regarding a personal data breach incident. On such occasion, once the PIC belatedly notifies the Commission, the latter will make a determination whether the delay was warranted and/or may be excused. The section provides:
 
 > (b) Delay in Notification. Notification may only be delayed to the extent necessary to determine the scope of the breach, to prevent further disclosures, or to restore reasonable integrity to the information and communications system.
 >
@@ -517,7 +529,7 @@ year.
 
 The registration requirement is very onerous. It should be removed as it is not included in the DPA. In this jurisdiction, it is a fundamental legal tenet that in case of a discrepancy between a basic law and a rule or regulation issued to implement it, the basic law prevails.[^22] Rules that go beyond the basic law it seeks to implement are declared null and void.
 
-Sections 46 and 47 of the IRR provide for the requirement to register with the NPC the data processing systems of PICs and PIPs that meet the preset criteria. This mechanism is akin to the “notification of personal data processing systems” requirement currently found in other
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-46-enforcement-of-the-data-privacy-act|Sections 46]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|47]] of the IRR provide for the requirement to register with the NPC the data processing systems of PICs and PIPs that meet the preset criteria. This mechanism is akin to the “notification of personal data processing systems” requirement currently found in other
 jurisdictions with similar data protection regimes. As in most other cases, the purpose thereof
 is threefold: (1) to ensure that PICs and PIPs provide for adequate safeguards to protect the
 personal data of data subjects; (2) to promote transparency and public accountability; and (3)
@@ -587,33 +599,33 @@ for Policies and Planning
 
 [^1]: This advisory opinion is based on the limited information provided in the questions, and may vary based on additional information or when the facts are changed or elaborated.
 
-[^2]: IRR of RA 10173, §4.
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|IRR of RA 10173, §4]].
 
-[^3]: RA 10173, §3(j).
+[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA 10173, §3(j)]].
 
 [^4]: Id., §3(g).
 
-[^5]: IRR of RA 10173, §3(m).
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR of RA 10173, §3(m)]].
 
-[^6]: See: RA No. 10173, §4.
+[^6]: See: [[laws/data-privacy-act-of-2012#section-4-scope|RA No. 10173, §4]].
 
 [^7]: IRR of RA No. 7042 – Foreign Investment Act of 1991, §1(c).
 
 [^8]: PDIC vs. CITIBANK, N.A. and BANK OF AMERICA, S.T. & N.A, G.R. No. 170290, April 11, 2012.
 
-[^9]: RA No. 10173, §6(a).
+[^9]: [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|RA No. 10173, §6(a)]].
 
-[^10]: IRR, §5(a) and (d).
+[^10]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|IRR, §5(a) and (d)]].
 
 [^11]: Id., §5, last paragraph.
 
 [^12]: Id.
 
-[^13]: See: RA 10173, §7.
+[^13]: See: [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|RA 10173, §7]].
 
-[^14]: IRR, §3(f).
+[^14]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR, §3(f)]].
 
-[^15]: IRR, §3(m).
+[^15]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR, §3(m)]].
 
 [^16]: Kevin Lonergan, Why companies need pseudonymisation and data masking for GDPR compliance, 17 June 2016, http://www.information-age.com/why-companies-need-pseudonymisation-and-data-masking-gdpr-compliance-123461628/
 
@@ -629,8 +641,8 @@ for Policies and Planning
 
 [^22]: See: Commissioner of Internal Revenue v. Bicolandia Drug Corporation (Formerly known as Elmas Drug Co.), G.R. No. 148083, 21 July 2006.
 
-[^23]: RA 10173, §4.
+[^23]: [[laws/data-privacy-act-of-2012#section-4-scope|RA 10173, §4]].
 
-[^24]: See: RA 10173, §4(a) and (e).
+[^24]: See: [[laws/data-privacy-act-of-2012#section-4-scope|RA 10173, §4(a) and (e)]].
 
-[^25]: IRR, §48.
+[^25]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-48-notification-of-automated-processing-operations|IRR, §48]].

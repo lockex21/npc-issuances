@@ -6,6 +6,8 @@ tags:
   - type/decision
   - year/2019
   - npc-case
+  - topic/cctv-surveillance
+  - topic/legitimate-interest
 aliases:
   - "NPC 19-1429"
   - "npc 19-1429"
@@ -46,7 +48,7 @@ x------------------------------------------------------x
 
 NAGA, P.C.;
 
-Before the Commission is an Affidavit of Complaint dated 03 October 2019[^1] filed by Complainant AMS (Complainant) against Respondent CBB (Respondent) for violation of the Data Privacy Act of 2012[^2] (DPA).
+Before the Commission is an Affidavit of Complaint dated 03 October 2019[^1] filed by Complainant AMS (Complainant) against Respondent CBB (Respondent) for violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 ### Facts
 
@@ -148,7 +150,7 @@ On the same date that her Memorandum was filed, the Respondent also filed the Co
 
 I. Whether the Complainant was able to substantiate her claim that Respondent's CCTV Camera captured images or footages of the interior of Complainant's property.
 
-II. Whether Respondent is liable under Section 25 of the DPA.
+II. Whether Respondent is liable under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].
 
 ### Discussion
 
@@ -158,7 +160,7 @@ At the onset, Complainant prayed for the removal of the 360-degree PTZ CCTV came
 
 The Revised Rules of Evidence, as amended, provides that "[i]n cases filed before administrative or quasi-judicial bodies, a fact may be deemed established if it is supported by substantial evidence, or that amount of relevant evidence which a reasonable mind might accept as adequate to justify a conclusion."[^92]
 
-The Complainant must prove that Respondent has violated her data subject rights under the DPA and that the CCTV is doing 24-hour surveillance of their house. Mere allegation is not evidence, and he who alleges has the burden of proving his allegation with the requisite quantum of evidence.[^93]
+The Complainant must prove that Respondent has violated her data subject rights under the [[laws/data-privacy-act-of-2012|DPA]] and that the CCTV is doing 24-hour surveillance of their house. Mere allegation is not evidence, and he who alleges has the burden of proving his allegation with the requisite quantum of evidence.[^93]
 
 Complainant presented as evidence several photos showing the house of the Respondent that was taken during nighttime and during the day.[^94] From the perspective on which some nighttime photos were taken, a visible white light seems to emit where the subject CCTV camera is placed as if it was directed to the Complainant's residence.[^95] This similar description was shown on the subsequent photos submitted by the Complainant as part of her Petition for Issuance of Temporary Ban and/or Preliminary Injunction Order[^96] as well as the photos attached as part of her Memorandum dated 29 November 2021.[^97]
 
@@ -274,7 +276,7 @@ GENERAL RECORDS UNIT
 National Privacy Commission
 
 [^1]: Affidavit of Complaint dated 03 October 2019 of AMS.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173.
 [^3]: Affidavit of Complaint dated 03 October 2019 of AMS, ¶ 1.
 [^4]: Id.
 [^5]: Id., ¶ 3.
@@ -375,19 +377,19 @@ National Privacy Commission
 [^100]: Position Paper (Application for Temporary Ban on Processing of Personal Data) dated 08 October 2021 of CBB, at p. 11.
 [^101]: Compliance (To Order dated 16 November 2021) dated 02 December 2021 of CBB.
 [^102]: Petition (for Issuance of Temporary Ban and/or Preliminary Injunction Order) dated 15 June 2020 of AMS, ¶ 7.
-[^103]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter viii, § 25 (2012).
+[^103]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter viii, [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|§ 25]] (2012).
 [^104]: AQM v. PIT, NPT, and CNB, [[decisions/2024/npc-22-112-aqm-vs-pit-et-al|NPC 22-112]], Decision dated 18 April 2024, at p. 9.
-[^105]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (j) (2012).
-[^106]: Id., chapter I, § 3 (c).
+[^105]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (j)]] (2012).
+[^106]: Id., chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (c)]].
 [^107]: Petition (for Issuance of Temporary Ban and/or Preliminary Injunction Order) dated 15 June 2020 of AMS, Annex B.
 [^108]: Compliance (To Order dated 16 November 2021) dated 02 December 2021 of CBB, ¶ 3.
 [^109]: Id.
 [^110]: Compliance (To Order dated 16 November 2021) dated 02 December 2021 of CBB.
-[^111]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (g) (2012).
-[^112]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 12 (f).
+[^111]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]] (2012).
+[^112]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter III, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (f)]].
 [^113]: MAF v. Shopee Philippines, [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]], Decision dated 22 September 2022.
 [^114]: Position Paper (Application for Temporary Ban on Processing of Personal Data) dated 08 October 2021 of CBB, ¶ 34.
-[^115]: National Privacy Commission, Guidelines on the Use of Closed-Circuit Television (CCTV) Systems, NPC Advisory No. 2020-04, § 4 (E), 16 November 2020.
+[^115]: National Privacy Commission, [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Guidelines on the Use of Closed-Circuit Television (CCTV) Systems]], NPC Advisory No. 2020-04, § 4 (E), 16 November 2020.
 [^116]: Position Paper (Application for Temporary Ban on Processing of Personal Data) dated 08 October 2021 of CBB, at p. 12.
 [^117]: Id., at p. 11.
 [^118]: Compliance (To Order dated 16 November 2021) dated 02 December 2021 of CBB, ¶ 3.

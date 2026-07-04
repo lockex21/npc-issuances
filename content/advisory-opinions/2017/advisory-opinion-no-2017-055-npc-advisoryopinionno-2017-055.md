@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2017
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2017-055"
+  - "npc advisory opinion no. 2017-055"
+  - "Advisory Opinion No. 2017-055"
+  - "advisory opinion no. 2017-055"
 ---
 
 ## Source
@@ -91,7 +96,7 @@ Consumer Protection and Advocacy Bureau
 cpab-cpad@dti.gov.ph
 
 [^1]: www.metrodeal.com
-[^2]: RA No. 10173, §3(h) - Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf.
+[^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(h)]] - Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf.
 [^3]: See Privacy Policy, Item No. 2; available at: http://www.metrodeal.com/privacy-policy
-[^4]: RA No. 10173, §11(e)
-[^5]: RA No. 10173, §16(e)
+[^4]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|RA No. 10173, §11(e)]]
+[^5]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|RA No. 10173, §16(e)]]

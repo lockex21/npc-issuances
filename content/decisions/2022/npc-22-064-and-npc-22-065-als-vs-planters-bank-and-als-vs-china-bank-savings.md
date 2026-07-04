@@ -15,6 +15,7 @@ tags:
   - "type/decision"
   - "year/2022"
   - "npc-case"
+  - "topic/data-subject-rights"
 date: "2024-09-17"
 draft: false
 ---
@@ -61,7 +62,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before the Commission is the Complaints-Assisted Form (CAF) dated 18 March 2022 filed by Complainant ALS (Complainant) against Respondent Planters Bank, now China Bank Savings (Respondent Bank), for violation of the Data Privacy Act of 2012 or Republic Act No. 10173 (DPA).
+Before the Commission is the Complaints-Assisted Form (CAF) dated 18 March 2022 filed by Complainant ALS (Complainant) against Respondent Planters Bank, now China Bank Savings (Respondent Bank), for violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 or Republic Act No. 10173 (DPA)]].
 
 ### Facts
 
@@ -75,7 +76,7 @@ The Commission, through its Complaints and Investigation Division (CID), issued 
 
 In its Verified Comment dated 29 April 2022, Respondent Bank reasoned out that the requested bank statements have already been given to the Complainant as early as 20 May 2020, and were promptly given again on 07 September 2021 upon their receipt of his request. It continued that it has actively and timely addressed the concerns of Complainant since 2017 when he would often call and visit the Dolores Branch of the Respondent Bank.
 
-Respondent Bank also counters that they were never informed of the alleged privacy violation to allow it to act appropriately on the same under Section 2, Rule II of NPC Circular 2021-01. It argued that the letter dated 20 December 2021 and addressed to their DPO was returned to sender. As proof, it submitted a screenshot of the courier's tracking services on their website with the reference number showing that the "[s]hipment was returned to sender on 02/04/2022."
+Respondent Bank also counters that they were never informed of the alleged privacy violation to allow it to act appropriately on the same under [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|Section 2, Rule II of NPC Circular 2021-01]]. It argued that the letter dated 20 December 2021 and addressed to their DPO was returned to sender. As proof, it submitted a screenshot of the courier's tracking services on their website with the reference number showing that the "[s]hipment was returned to sender on 02/04/2022."
 
 Also, Respondent Bank stated that the Complainant is guilty of Forum Shopping under paragraph 10, Section 3, Rule II of NPC Circular 2021-01. Respondent attached the following pending cases before different tribunals:
 
@@ -129,7 +130,7 @@ III. Whether the complaint should be dismissed for lack of merit.
 
 #### I. Complainant Complied With the Rule on Exhaustion of Administrative Remedies
 
-On the procedural ground, Respondent Bank seeks to dismiss the instant case since it was supposedly never informed of the alleged privacy violation to allow it to act appropriately on it under Section 2, Rule II of NPC Circular 2021-01 (Rules of Procedure of the National Privacy Commission), which states:
+On the procedural ground, Respondent Bank seeks to dismiss the instant case since it was supposedly never informed of the alleged privacy violation to allow it to act appropriately on it under [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|Section 2, Rule II of NPC Circular 2021-01 (Rules of Procedure of the National Privacy Commission)]], which states:
 
 > **SECTION 2. Exhaustion of remedies.** – No complaint shall be given due course unless it has been sufficiently established and proven that:
 >
@@ -157,7 +158,7 @@ Therefore, Complainant did not fail to exhaust administrative remedies under Sec
 
 #### II. There Is No Forum Shopping in the Present Case
 
-Respondent Bank also asserts that the Complainant is guilty of Forum Shopping under paragraph 10, Section 3, Rule II of NPC Circular 2021-01. It also alleged that Complainant violated his sworn certification that he has not filed any other similar claim or action in any other court or quasi-judicial agency and that he violated his certification under oath that he would report within five calendar days the fact that a similar claim or action has been filed.
+Respondent Bank also asserts that the Complainant is guilty of Forum Shopping under [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|paragraph 10, Section 3, Rule II of NPC Circular 2021-01]]. It also alleged that Complainant violated his sworn certification that he has not filed any other similar claim or action in any other court or quasi-judicial agency and that he violated his certification under oath that he would report within five calendar days the fact that a similar claim or action has been filed.
 
 Section 3, Rule II of the NPC Circular 2021-01 provides for the forms and contents of a complaint, including:
 

@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/data-sharing
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-007"
+  - "npc advisory opinion no. 2018-007"
+  - "Advisory Opinion No. 2018-007"
+  - "advisory opinion no. 2018-007"
 ---
 
 ## Source
@@ -23,7 +29,7 @@ RE: DISCLOSURE OF THE MASTER LIST OF STUDENTS AND INDIVIDUALS WHO WERE VACCINATE
 
 Dear [Redacted],
 
-This pertains to your request for advisory opinion received by the Privacy Policy Office of the National Privacy Commission (NPC) on 05 February 2018, which sought to clarify whether the Department of Health (DOH) could provide a copy of the master list of students and individuals who were vaccinated with Dengvaxia®, without violating the provisions of Republic Act No. 10173[^1], also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^2] and relevant issuances.
+This pertains to your request for advisory opinion received by the Privacy Policy Office of the National Privacy Commission (NPC) on 05 February 2018, which sought to clarify whether the Department of Health (DOH) could provide a copy of the master list of students and individuals who were vaccinated with Dengvaxia®, without violating the provisions of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]][^1], also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^2] and relevant issuances.
 
 In your letter-request, you have stated that the Public Attorney’s Office (PAO) is seeking to obtain the following personal information for each of the children/individuals vaccinated, starting with those given in April 2016 for the purpose of extending free legal assistance in civil, criminal and administrative cases to all possible victims of Dengvaxia® related injuries, illnesses and deaths:
 
@@ -51,7 +57,7 @@ Under Republic Act No. 9406, it is our understanding that the mandate of PAO is 
 
 We take time to emphasize that the government is one of the biggest repositories of the personal data of citizens. The government or its agencies, however, do not have the blanket authority to access or use the information about private individuals under the custody of another agency.
 
-In all cases, the processing of personal data by any personal information controller, like the DOH or the PAO when expressly authorized by the data subject or by law, should always adhere to the general data privacy principles of transparency, legitimate purpose and proportionality.[^3] Aside from this, personal information controllers should implement appropriate security measures for data protection. Moreover, before any personal information is transferred from one agency to another, it is highly recommended that the agencies execute a Data Sharing Agreement to ensure that there are adequate safeguards for data privacy and security implemented by both parties.[^4] Kindly refer to NPC Circular No. 2016-02 – Data Sharing Agreements Involving Government Agencies for additional information.
+In all cases, the processing of personal data by any personal information controller, like the DOH or the PAO when expressly authorized by the data subject or by law, should always adhere to the general data privacy principles of transparency, legitimate purpose and proportionality.[^3] Aside from this, personal information controllers should implement appropriate security measures for data protection. Moreover, before any personal information is transferred from one agency to another, it is highly recommended that the agencies execute a Data Sharing Agreement to ensure that there are adequate safeguards for data privacy and security implemented by both parties.[^4] Kindly refer to [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 2016-02 – Data Sharing Agreements Involving Government Agencies]] for additional information.
 
 Lastly, as to the request of the media and other private organizations, the disclosure of statistical or aggregated information without involving any personal or sensitive personal information should suffice. The release of a copy of the master list of students and individuals who were vaccinated with Dengvaxia®, which contains sensitive personal information to the Requesting, to any requesting public, could constitute an unwarranted invasion of personal privacy.
 
@@ -66,5 +72,5 @@ Privacy Commissioner and Chairman
 
 [^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, “Data Privacy Act of 2012” (15 August 2012).
 [^2]: Implementing Rules and Regulations of the Data Privacy Act (24 August 2016).
-[^3]: *Supra* note 2., §18.
-[^4]: *Supra* note 2., §22(d).
+[^3]: *Supra* note 2., [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§18]].
+[^4]: *Supra* note 2., [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-22-sensitive-personal-information-and-privileged-information|§22(d)]].

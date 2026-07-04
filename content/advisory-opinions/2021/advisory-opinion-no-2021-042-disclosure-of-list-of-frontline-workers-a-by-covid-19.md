@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2021
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-042"
+  - "npc advisory opinion no. 2021-042"
+  - "Advisory Opinion No. 2021-042"
+  - "advisory opinion no. 2021-042"
 ---
 
 ## Source
@@ -37,8 +42,8 @@ workers who passed away or were severely affected by COVID-19. This request is p
 to ADB Fil-IS’ initiative to raise funds to help the affected Filipino frontline workers and their
 beneficiaries for the fund drive, Alay Dangal sa Bayaning Lumalaban sa COVID-19.
 
-You now ask on whether the disclosure of such information is allowed under the Data
-Privacy Act of 2012[^2] (DPA).
+You now ask on whether the disclosure of such information is allowed under the [[laws/data-privacy-act-of-2012|Data
+Privacy Act of 2012]][^2] (DPA).
 
 #### Lawful Basis for Processing; Health Information; Law; Mandate; Public Authority; Consent
 
@@ -80,7 +85,7 @@ must limit the use and disclosure of health information to the purpose specified
 of collection.[^5] Further, the processing of COVID-19-related personal data by public
 
 authorities should be limited to the pandemic response, specifically the following as stated
-in the DOH and NPC JOINT MEMORANDUM CIRCULAR No. 2020-0002:
+in the [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|DOH and NPC JOINT MEMORANDUM CIRCULAR No. 2020-0002]]:
 
 > V. GENERAL GUIDELINES
 >
@@ -137,8 +142,8 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: Tags: lawful basis for processing; law; public authority; consent; further processing; statistical data; COVID-19 patient information.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Department of Health and National Privacy Commission, Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002 [DOH-NPC JMC No. 2020-0002] (April 24, 2020).
-[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 13(a) (2012).
-[^5]: DOH-NPC JMC No. 2020 – 0002, § VI (D).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: Department of Health and National Privacy Commission, [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002]] [DOH-NPC JMC No. 2020-0002] (April 24, 2020).
+[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13(a)]] (2012).
+[^5]: [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|DOH-NPC JMC No. 2020 – 0002]], § VI (D).
 [^6]: Id. § V (2).

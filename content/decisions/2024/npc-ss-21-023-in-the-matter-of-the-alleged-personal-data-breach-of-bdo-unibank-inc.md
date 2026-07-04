@@ -11,6 +11,9 @@ tags:
   - type/decision
   - year/2021
   - npc-case
+  - topic/breach-notification
+  - topic/online-lending
+  - topic/security
 date: "2024-06-05"
 draft: false
 ---
@@ -57,7 +60,7 @@ NAGA, P.C.;
 
 Before the Commission is a Fact-Finding Report dated 12 July 2022 (FFR) and a Supplemental Fact-Finding Report dated 13 February 2023 (Supplemental FFR) from the Complaints and Investigation Division (CID) of the National Privacy Commission (NPC).
 
-The CID, pursuant to its power to conduct *sua sponte* investigations under Rule X of NPC Circular 2021-01 or the 2021 Rules of Procedure of the National Privacy Commission, filed an FFR against BDO Unibank, Inc. (BDO). The FFR stems from a *sua sponte* investigation of a possible personal data breach that resulted in unauthorized fund transfers that affected individuals holding bank accounts with BDO. Further, the FFR alleged that BDO committed violations of Sections 26 and 30 of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+The CID, pursuant to its power to conduct *sua sponte* investigations under [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-x-sua-sponte-investigation|Rule X of NPC Circular 2021-01 or the 2021 Rules of Procedure of the National Privacy Commission]], filed an FFR against BDO Unibank, Inc. (BDO). The FFR stems from a *sua sponte* investigation of a possible personal data breach that resulted in unauthorized fund transfers that affected individuals holding bank accounts with BDO. Further, the FFR alleged that BDO committed violations of [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Sections 26]] and [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|30]] of the [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA)]].
 
 ### Facts
 
@@ -371,9 +374,9 @@ Moreover, in the same Motion, BDO submitted the following documents: Annex A - S
 
 ### Issue
 
-I. Whether BDO Unibank Inc. is liable under Section 26 (Accessing Personal Information and Sensitive Personal Information Due to Negligence) of the DPA.
+I. Whether BDO Unibank Inc. is liable under [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Accessing Personal Information and Sensitive Personal Information Due to Negligence)]] of the DPA.
 
-II. Whether BDO Unibank Inc. is liable for Section 30 (Concealment of Security Breaches Involving Sensitive Personal Information) of the DPA.
+II. Whether BDO Unibank Inc. is liable for [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Section 30 (Concealment of Security Breaches Involving Sensitive Personal Information)]] of the DPA.
 
 ### Discussion
 
@@ -391,9 +394,9 @@ Guided by such pronouncements and after carefully considering the claims, and ev
 
 #### I. BDO is not liable for violating Section 26 (Accessing Personal Information and Sensitive Personal Information Due to Negligence) of the DPA.
 
-In the CID's FFR, it alleged that BDO is liable for Accessing Personal Information and Sensitive Personal Information Due to Negligence under Section 26 of the DPA.[^95]
+In the CID's FFR, it alleged that BDO is liable for Accessing Personal Information and Sensitive Personal Information Due to Negligence under [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 of the DPA]].[^95]
 
-Section 26 of the DPA provides:
+[[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 of the DPA]] provides:
 
 SEC. 26. *Accessing Personal Information and Sensitive Personal Information Due to Negligence.* - (a) Accessing personal information due to negligence shall be penalized by imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) shall be imposed on persons who, due to negligence, provided access to personal information without being authorized under this Act or any existing law.
 
@@ -410,20 +413,20 @@ To be held liable under Section 26, the following elements must be met:
 
 Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^98]
 
-Sensitive personal information is defined by Section 3(l) of the DPA as personal information:
+Sensitive personal information is defined by [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]] as personal information:
 
 (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations;
 (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings;
 (3) Issued by government agencies peculiar to an individual which includes, but is not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and
 (4) **Specifically established by an executive order or an act of Congress to be kept classified.**[^99]
 
-In CID's FFR, it alleged that the data subjects' bank deposit details, including their bank account number and the amount in it, are confidential under the Bank Secrecy Law and thus considered sensitive personal information.[^100] Moreover, the bank deposit details including the account number fall under "other information that may enable identity fraud" as specified in Section 20(f) and the second paragraph of Section 11(a), given that it pertains to the financial and economic situation of the data subject.[^101]
+In CID's FFR, it alleged that the data subjects' bank deposit details, including their bank account number and the amount in it, are confidential under the Bank Secrecy Law and thus considered sensitive personal information.[^100] Moreover, the bank deposit details including the account number fall under "other information that may enable identity fraud" as specified in [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(f)]] and the second paragraph of Section 11(a), given that it pertains to the financial and economic situation of the data subject.[^101]
 
 The Commission agrees that the user IDs, passwords, IMEI, mobile number, and email address constitute information "from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual" and is thus considered personal information.[^102] Thus, the first element is present.
 
 As to the second element, the CID asserted that the alleged threat actor was able to access at least 861 data subjects' user IDs, passwords, IMEI, bank account numbers, mobile numbers, email addresses, as well as financial information such as the data subject's accounts with the bank, including the amount of funds in each account.[^103]
 
-In the case of IBP vs PBI,[^104] Phishing has been defined as the fraudulent process of attempting to acquire private or confidential information by masquerading as a trustworthy entity in an electronic communication.[^105] In BDO's Position Paper, it claimed that the "phished credentials used in effecting the unauthorized fund transfers were obtained by the threat actors not from the Bank's computer systems but from the account holders themselves (whether inadvertently or otherwise) through sophisticated phishing techniques."[^106] Since BDO maintains that there was a phishing activity that led to the unauthorized fund transfers, the alleged threat actor was able to access the personal and sensitive personal information of the affected data subjects. Thus, the second element is likewise present.
+In the case of [[decisions/2017/ibc-vs-pbi|IBP vs PBI]],[^104] Phishing has been defined as the fraudulent process of attempting to acquire private or confidential information by masquerading as a trustworthy entity in an electronic communication.[^105] In BDO's Position Paper, it claimed that the "phished credentials used in effecting the unauthorized fund transfers were obtained by the threat actors not from the Bank's computer systems but from the account holders themselves (whether inadvertently or otherwise) through sophisticated phishing techniques."[^106] Since BDO maintains that there was a phishing activity that led to the unauthorized fund transfers, the alleged threat actor was able to access the personal and sensitive personal information of the affected data subjects. Thus, the second element is likewise present.
 
 The CID claims that BDO indeed provided access to the "attacker" and allowed the OTP generator to generate legitimate OTP, allowed access to rogue devices, allowed touch ID, and for failure to secure its system to prevent access.[^107] However, BDO, in its Position Paper claims that:
 
@@ -439,7 +442,7 @@ For *sua sponte* investigation before the Commission to prosper, the burden of p
 
 In administrative proceedings, the quantum of proof necessary for a finding of guilt is substantial evidence, i.e., that amount of relevant evidence that a reasonable mind might accept as adequate to support a conclusion. Further, the complainant has the burden of proving by substantial evidence the allegations in his complaint. The basic rule is that mere allegation is not evidence and is not equivalent to proof. Charges based on mere suspicion and speculation likewise cannot be given credence. Hence, when the complainant relies on mere conjectures and suppositions, and fails to substantiate his allegations, the administrative complaint must be dismissed for lack of merit.[^116]
 
-Rule XII, Section 8 of NPC Circular No. 2021-01 or the 2021 Rules of Procedure, provides:
+[[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-xii-miscellaneous-provisions|Rule XII, Section 8 of NPC Circular No. 2021-01 or the 2021 Rules of Procedure]], provides:
 
 SECTION 8. Application of Rules of Court. - The Rules of Court shall apply in a suppletory character and whenever practicable and convenient.[^117]
 
@@ -453,7 +456,7 @@ In this case, since CID failed to establish the third and fourth elements of Sec
 
 #### II. BDO is not liable for violating Section 30 (Concealment of Security Breach Involving Sensitive Personal Information) of the DPA.
 
-In CID's FFR, it alleged that BDO is liable for Concealment of Security Breaches Involving Sensitive Personal Information under Section 30 of the DPA. It provides:
+In CID's FFR, it alleged that BDO is liable for Concealment of Security Breaches Involving Sensitive Personal Information under [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Section 30 of the DPA]]. It provides:
 
 Section 30. Concealment of Security Breaches Involving Sensitive Personal Information. The penalty of imprisonment of one (1) year and six (6) months to five (5) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00) shall be imposed on persons who, after having knowledge of a security breach and of the obligation to notify the Commission pursuant to Section 20(f), intentionally or by omission conceals the fact of such security breach.[^119]
 
@@ -641,24 +644,24 @@ GENERAL RECORDS UNIT
 [^85]: Id., at p. 12.
 [^86]: BDO Unibank, Inc., Motion to Resolve Ad Cautelam dated 10 May 2024.
 [^87]: BDO Unibank, Inc., Motion to Resolve Ad Cautelam dated 10 May 2024.
-[^88]: See Data Privacy Act of 2012, chapter II, section 7.
-[^89]: NPC Circular No. 2021-01, rule X, sections 5-6.
+[^88]: See [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Data Privacy Act of 2012, chapter II, section 7]].
+[^89]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-x-sua-sponte-investigation|NPC Circular No. 2021-01, rule X, sections 5-6]].
 [^90]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, rule III, section (e)(1) (2016) (IRR of the DPA).
 [^91]: In re: FCash Global Lending Inc., Operating FastCash Online Lending Application, [[resolutions/2019/npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application|NPC 19-909]], Resolution dated 28 April 2022, at pp. 3-4.
-[^92]: NPC Circular No. 2021-01, rule X, sections 3-5. See In re: FCash Global Lending Inc., Operating FastCash Online Lending Application, NPC 19-909, Resolution dated 28 April 2022.
-[^93]: See Data Privacy Act of 2012, chapter II, section 7(b).
-[^94]: NPC Circular No. 2021-01, rule VIII, section 1.
+[^92]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-x-sua-sponte-investigation|NPC Circular No. 2021-01, rule X, sections 3-5]]. See In re: FCash Global Lending Inc., Operating FastCash Online Lending Application, [[resolutions/2019/npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application|NPC 19-909]], Resolution dated 28 April 2022.
+[^93]: See [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Data Privacy Act of 2012, chapter II, section 7(b)]].
+[^94]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-viii-decision|NPC Circular No. 2021-01, rule VIII, section 1]].
 [^95]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21-023, Fact-Finding Report dated 12 July 2022.
-[^96]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, section 26 (2012).
+[^96]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter VIII, [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|section 26]] (2012).
 [^97]: [[decisions/2022/npc-22-006-mdt-vs-bdo-unibank-inc|NPC 22-006]] (unreported), Decision dated 19 January 2023, at p. 15.
-[^98]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, section 3(g) (2012).
-[^99]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, section 3(l) (2012).
+[^98]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|section 3(g)]] (2012).
+[^99]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|section 3(l)]] (2012).
 [^100]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21-023, Fact-Finding Report dated 12 July 2022.
-[^101]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16-03, rule V, section 11 (a).
+[^101]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular No. 16-03]], rule V, section 11 (a).
 [^102]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21-023, Fact-Finding Report dated 12 July 2022.
 [^103]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21-023, Fact-Finding Report dated 12 July 2022.
 [^104]: ISO/IEC 27032:2012 (en), section 4 Terms and definitions.
-[^105]: IBC vs. PBI, NPC CID No. 17-K-004.
+[^105]: [[decisions/2017/ibc-vs-pbi|IBC vs. PBI, NPC CID No. 17-K-004]].
 [^106]: BDO Unibank, Inc., Position Paper dated 22 January 2022.
 [^107]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21-023, Fact-Finding Report dated 12 July 2022.
 [^108]: BDO Unibank, Inc., Position Paper dated 22 January 2022.
@@ -670,12 +673,12 @@ GENERAL RECORDS UNIT
 [^114]: Spouses Ramos vs. Obispo and Far East Bank and Trust Company, G.R. No. 193804, February 27, 2013.
 [^115]: De Jesus v. Guerrero III, G.R. No. 171491, 04 September 2009.
 [^116]: De Jesus v. Guerrero III, G.R. No. 171491, 04 September 2009.
-[^117]: Rule XII, Section 8 of NPC Circular No. 2021-01 or the 2021 Rules of Procedure.
+[^117]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-xii-miscellaneous-provisions|Rule XII, Section 8 of NPC Circular No. 2021-01 or the 2021 Rules of Procedure]].
 [^118]: 2019 Amendment to the 1989 Revised Rules on Evidence, A.M. No. 19-08-15-SC, Rule 131, Section 1. Emphasis supplied.
-[^119]: Data Privacy Act of 2021, Section 30.
-[^120]: Data Privacy Act of 2021, Section 30.
-[^121]: Data Privacy Act of 2012, section 20(f).
-[^122]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], section 11 (15 December 2016).
+[^119]: [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Data Privacy Act of 2021, Section 30]].
+[^120]: [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Data Privacy Act of 2021, Section 30]].
+[^121]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, section 20(f)]].
+[^122]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 3, Series of 2016]] [NPC Circ. No. 16-03], section 11 (15 December 2016).
 [^123]: In the Matter of Alleged Personal Data Breach of BDO Unibank, Inc., NPC SS 21-023, Fact-Finding Report dated 12 July 2022.
 [^124]: Id.
 [^125]: BDO Unibank, Inc., Comment Ad Cautelam dated 06 March 2024.

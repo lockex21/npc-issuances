@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2024"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2024-03-21"
 draft: false
 ---
@@ -82,7 +83,7 @@ Finally, DSWD MIMAROPA attached a copy of the breach notification letter given t
 
 The Commission, through its Complaints and Investigation Division, issued an Order dated 15 April 2019 requiring LBC Express, Inc. to "provide evidence of compliance with the standard of diligence required of those handling personal data under [DPA] and explain circumstances behind the loss of the parcel."[^27]
 
-On 8 July 2022, the CID issued another Order requiring DSWD MIMAROPA to submit a Post-Breach Report pursuant to Section 9, Rule IV of the NPC Circular 16-03 (Personal Data Breach Management).[^28]
+On 8 July 2022, the CID issued another Order requiring DSWD MIMAROPA to submit a Post-Breach Report pursuant to Section 9, Rule IV of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]].[^28]
 
 Accordingly, DSWD MIMAROPA submitted its Post-Breach Report dated 06 August 2022 in compliance with the Order of CID dated 08 July 2022.[^29] In its Post-Breach Report, DSWD MIMAROPA stated that among the measures taken to address the breach, it already requested technical assistance to the Postal Regulation Division of the Department of Information and Communications Technology (DICT) to trace the lost parcels as well as to the Department of Trade and Industry (DTI) for the possibility of misdelivered parcels to LBC's branches nationwide.[^30]
 
@@ -156,7 +157,7 @@ Meanwhile, DSWD MIMAROPA submitted its Supplementary Proof to the Post-Breach Re
 13. Sample Data Release Form authorizing the internal and external partners to acquire and use the privileged data from the National Household Targeting Unit;[^56] and,
 14. Regional Special Order on the Establishment of Regional Data Privacy Office and Technical Committee Membership.[^57]
 
-Rule V, Section 18 (C) and (D) of NPC Circular 16-03 (Personal Data Breach Management) provide:
+Rule V, Section 18 (C) and (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]] provide:
 
 > SECTION 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -183,7 +184,7 @@ Based on the above provisions, the notification to the affected data subjects mu
 
 In this case, the sample letter-notification submitted by DSWD MIMAROPA is not tantamount to actual notification to the affected data subjects. Therefore, such cannot be considered as substantial compliance to the notification requirements.
 
-While the Commission recognizes the efforts exerted by DSWD MIMAROPA in undertaking mitigation measures to address the incident, it must be stressed that a mere narration of notification having been made to the affected data subjects without submitting any proof of such notification is not considered as substantial compliance with the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], as well as NPC Circular No. 16-03 (Personal Data Breach Management).
+While the Commission recognizes the efforts exerted by DSWD MIMAROPA in undertaking mitigation measures to address the incident, it must be stressed that a mere narration of notification having been made to the affected data subjects without submitting any proof of such notification is not considered as substantial compliance with the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], as well as [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]].
 
 Thus, DSWD MIMAROPA shall submit proof of individual notification. Such proof of notification is necessary in order for the Commission to determine whether DSWD MIMAROPA has undertaken reasonable mechanisms to ensure that all affected data subjects are made aware of the breach.[^64]
 
@@ -280,10 +281,10 @@ GENERAL RECORDS UNIT
 [^55]: Id., attached as Regional Special Order Re: Designation.
 [^56]: Id., attached as Data Release Form.
 [^57]: Id., attached as Regional Special Order Re: Establishment of Regional Data Privacy Office and Technical Committee Membership dated 20 January 2023.
-[^58]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18(C) (15 December 2016) (NPC Circular 16-03).
-[^59]: NPC Circular 16-03, rule V, § 18(D).
+[^58]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18(C) (15 December 2016) (NPC Circular 16-03).
+[^59]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, § 18(D).
 [^60]: Data Breach Notification dated 25 July 2018 of Department of Social Welfare and Development-MIMAROPA Field Office, at pp. 3-4.
 [^61]: Id.
 [^62]: Id., at p. 4.
-[^63]: NPC Circular 16-03, rule V, § 18(C).
+[^63]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, § 18(C).
 [^64]: Id., § 18(D).

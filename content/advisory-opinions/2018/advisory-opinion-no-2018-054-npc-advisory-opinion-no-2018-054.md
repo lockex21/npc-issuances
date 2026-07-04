@@ -8,7 +8,13 @@ tags:
   - patient-registry
   - research
   - healthcare
+  - topic/data-sharing
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-054"
+  - "npc advisory opinion no. 2018-054"
+  - "Advisory Opinion No. 2018-054"
+  - "advisory opinion no. 2018-054"
 ---
 
 ## Source
@@ -35,8 +41,8 @@ information registries, particularly patient registries, for research studies.
 Specifically for ‘’’’’’’’ ‘’’’’’’’’’’’’’’’’’’’’’’’’s query, it sought advice regarding the linkage of cancer incidence
 data of the Department of Health (DOH) - Rizal Cancer Registry and Philippine Cancer Society (PCS)
 - Manila Cancer Registry (Registries) with mortality data from the Philippine Statistics Authority
-(PSA), and the possibility of an exemption or a special policy coverage under Republic Act No.
-10173,[^1] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^2]
+(PSA), and the possibility of an exemption or a special policy coverage under [[laws/data-privacy-act-of-2012|Republic Act No.
+10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^2]
 (IRR), and relevant issuances of the National Privacy Commission (NPC).
 
 #### DPA and research
@@ -110,7 +116,7 @@ In view of the foregoing, it is best to consult with the PSA Legal Service and c
 for the DOH and the PCS to provide PSA with a list of specific individuals from their respective
 databases and for the latter to match this with its mortality database, i.e. provide a “Yes” or “No”
 answer as to the status of those individuals, taking into consideration the provisions of NPC
-Circulars No. 2016-01 (Security of Personal Data in Government Agencies) and 2016-02 (Data
+Circulars No. [[issuances/undated/security-of-personal-data-in-government-agencies|2016-01]] (Security of Personal Data in Government Agencies) and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|2016-02]] (Data
 Sharing Agreements Involving Government Agencies)
 
 This opinion is provided based on the information you have provided. Additional information may
@@ -129,15 +135,15 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating For this Purpose a National Privacy Commission, and For Other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173.
-[^3]: Data Privacy Act of 2012, §4.
-[^4]: Id, §5.
-[^5]: Id., §5(c).
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173.
+[^3]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-4-scope|§4]].
+[^4]: Id, [[laws/data-privacy-act-of-2012#section-5-protection-afforded-to-journalists-and-their-sources|§5]].
+[^5]: Id., [[laws/data-privacy-act-of-2012#section-5-protection-afforded-to-journalists-and-their-sources|§5(c)]].
 [^6]: Supra note 13.
-[^7]: Id. § 3 (h).
-[^8]: Id. § 3 (i).
-[^9]: Id, §20.
-[^10]: Id, §21.
+[^7]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]].
+[^8]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (i)]].
+[^9]: Id, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§20]].
+[^10]: Id, [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|§21]].
 [^11]: Philippine Health Research Ethics Board Ad Hoc Committee for Updating the National Ethical Guidelines, National Ethical Guidelines for Health and Health Related Research 15 (2017).
 [^12]: An Act to Create a Bureau of the Census and Statistics to Consolidate Statistical Activities of the Government therein [BUREAU OF CENSUS AND STATISTICS], Commonwealth Act 591 (1940) §4.
 [^13]: Id.

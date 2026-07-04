@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2021"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2021-04-15"
 draft: false
 ---
@@ -50,7 +51,7 @@ On 21 January 2021, this Commission issued a Resolution with the following dispo
 >
 > (3) SHOW CAUSE in writing why it should not be held liable for failure to submit a full breach report and notify the affected data subjects within the required period under NPC Circular No. 16-03 and be subject to contempt proceedings, as permitted by law, before the appropriate court, and such other actions as may be available to the Commission.
 
-The Resolution dated 21 January 2021 containing a Show Cause Order was issued by the Commission because at that time, the reports submitted by SLU to NPC were not compliant with the previous Resolutions dated 23 July 2020 and 21 September 2020 issued by this Commission and with NPC Circular No. 16-03 and SLU have not yet notified the affected data subjects despite previous orders from the Commission.
+The Resolution dated 21 January 2021 containing a Show Cause Order was issued by the Commission because at that time, the reports submitted by SLU to NPC were not compliant with the previous Resolutions dated 23 July 2020 and 21 September 2020 issued by this Commission and with [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] and SLU have not yet notified the affected data subjects despite previous orders from the Commission.
 
 At that time, for SLU, there was no reason to believe that identity fraud could be perpetrated and that there is no reason to believe that the personal data involved have been acquired by an authorized person and that there is no real risk of serious harm to the data subjects. They have also implemented measures to address such incident and to prevent similar incidents from happening in the future. Thus, they considered the matter closed and for them, there is no more reason to inform any data subject.
 
@@ -149,4 +150,4 @@ GENERAL RECORDS UNIT
 [^2]: *Ibid.*
 [^3]: NPC BN 20-116 In re: Saint Louis University Attachment A Final Breach Report dated 29 March 2021.
 [^4]: *Id.* at pp. 7.
-[^5]: Section 18(B), NPC Circular 16-03.
+[^5]: Section 18(B), [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].

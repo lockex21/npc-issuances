@@ -11,6 +11,8 @@ tags:
   - "type/resolution"
   - "npc-case"
   - "year/2022"
+  - "topic/breach-notification"
+  - "topic/online-lending"
 date: "2022-04-28"
 draft: false
 ---
@@ -38,7 +40,7 @@ Before us is a Motion for Reconsideration dated 28 February 2022 (Motion) by Res
 
 **WHEREFORE**, all the above premises considered, this Commission hereby:
 
-1. **FINDS** Respondent FCash Global Lending Inc. and its Board of Directors to have violated Section 25, 28, and [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 of the Data Privacy Act of 2012]]; and
+1. **FINDS** Respondent FCash Global Lending Inc. and its Board of Directors to have violated [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25]], [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|28]], and [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 of the Data Privacy Act of 2012]]; and
 
 2. **FORWARDS** this Decision and a copy of the pertinent case records to the Secretary of Justice, recommending the prosecution of the Respondents for the crimes of Unauthorized Processing of Personal Information and Sensitive Personal Information under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]], Processing of Personal Information and Sensitive Personal Information for Unauthorized Purposes under [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 of the DPA]], and Malicious Disclosure under Section 31 of the DPA. The maximum penalty for violations of the abovementioned provisions is recommended to be imposed following [[laws/data-privacy-act-of-2012#section-35-large-scale|Section 35 of the DPA]].[^1]
 
@@ -64,7 +66,7 @@ Furthermore, in relation to the Petition for Certiorari under Rule 65 of the Rul
 
 #### *I. The assailed Decision was issued in compliance with the NPC Rules of Procedure*
 
-Respondents argue that the proceeding was not conducted in compliance with NPC Circular 16-04 or the NPC Rules of Procedure (Rules) as there was no complaint filed but instead a Fact-Finding Report, which Respondents argued does not satisfy the requirement to initiate a *sua sponte* investigation. Such matter has already been resolved by the Commission in its 02 October 2019 Resolution.
+Respondents argue that the proceeding was not conducted in compliance with [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] or the NPC Rules of Procedure (Rules) as there was no complaint filed but instead a Fact-Finding Report, which Respondents argued does not satisfy the requirement to initiate a *sua sponte* investigation. Such matter has already been resolved by the Commission in its 02 October 2019 Resolution.
 
 To reiterate, Section 23 of Rule IV of the Rules provides for the power of the Commission to investigate on its own initiative the circumstances surrounding a possible serious privacy violation or personal data breach, taking into account the risks of harm to a data subject. Consequently, the investigation shall be made in accordance with Rule III of the same Rules following the principle of uniform procedure sufficiently complied with in this case.[^5]
 
@@ -74,7 +76,7 @@ Further, in accordance with the Rules, Respondents, then, were given an opportun
 
 > SEC. 24. *Uniform procedure.* – The investigation shall be in accordance with Rule III of these Rules, provided that the respondent shall be provided a copy of the factfinding report and given an opportunity to submit an answer. In cases where the respondent or respondents fail without justification to submit an answer or appear before the National Privacy Commission when so ordered, the Commission shall render its decision on the basis of available information.[^8]
 
-As discussed by this Commission in its NPC 19-910 Resolution, "the procedure for a *sua sponte* investigation does not include a Discovery Conference because all the information and evidence in the hands of the Commission are already set out in and attached to the Fact-Finding report when it is provided to respondent."[^9]
+As discussed by this Commission in its [[resolutions/2021/npc-19-910-in-re-fynamics-lending-inc-pondo-peso-2|NPC 19-910 Resolution]], "the procedure for a *sua sponte* investigation does not include a Discovery Conference because all the information and evidence in the hands of the Commission are already set out in and attached to the Fact-Finding report when it is provided to respondent."[^9]
 
 It was emphasized by the Commission in NPC 19-910 Resolution that:
 
@@ -138,7 +140,7 @@ xxx
 
 The individual complaints were only cited to demonstrate the seriousness of the possible data privacy violation.[^19]
 
-The *sua sponte* investigation was conducted due to the potential harm to the data subjects. This is in consideration of the Commission's mandate in the DPA to ensure a personal information controller's compliance with the law[^20] and institute investigations when necessary.[^21] This is likewise in consideration of the provision in NPC Circular 202101, which allows conduct of *sua sponte* investigations of possible privacy violations or personal data breaches.[^22] Hence, the *sua sponte* investigation of the Commission was conducted due to its mandate and function and not because of several complaints.
+The *sua sponte* investigation was conducted due to the potential harm to the data subjects. This is in consideration of the Commission's mandate in the DPA to ensure a personal information controller's compliance with the law[^20] and institute investigations when necessary.[^21] This is likewise in consideration of the provision in [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 202101]], which allows conduct of *sua sponte* investigations of possible privacy violations or personal data breaches.[^22] Hence, the *sua sponte* investigation of the Commission was conducted due to its mandate and function and not because of several complaints.
 
 #### *III. The assailed Decision did not ignore the rule on litis pendentia, there being pending cases involving Respondent FCash filed by specific individual complainants who appear to be the same parties in the case*
 
@@ -170,7 +172,7 @@ There is no reason for the Commission to reverse its earlier finding that the Re
 
 The fact that the Board of Directors (BOD) failed to act on the voluminous and alarming privacy issues of their borrowers negates the legal presumption that the BOD employed ordinary care in the discharge of their duties and instead, presumes that the BOD knew about these collection practices and approved of it. There are one hundred and sixty-six (166) complaints against Respondent as of July 2019. The Complaint also attached user reviews on Respondent application in Google Play Store. The user comments narrated experiences on how the Respondent gains access to mobile phonebook/directory/contact list for the purpose of disclosing their transactions without their consent and authority.[^28] It can be reasonably said that the privacy complaints against Respondent have reached into the public's consciousness.[^29] Thus, it is the responsibility of the BOD to show to this Commission that they have employed the necessary diligence expected from them. However, no evidence was presented by the Respondent to rebut this presumption against them. Further, despite the BOD's responsibility to show the Commission that it employed necessary diligence, it unfortunately still refuses to present any evidence demonstrating that it addressed, or at the very least, did not allow such actions.
 
-Citing the SEC registration records of the Respondent, the Complaint specifically named KDM, TH, JPS, JCT, and ZS as the original incorporators, registered directors, and officers of Respondent. Thus, the abovementioned violations of the DPA shall be imputed against all of them due to their gross negligence following Section 34.[^30]
+Citing the SEC registration records of the Respondent, the Complaint specifically named KDM, TH, JPS, JCT, and ZS as the original incorporators, registered directors, and officers of Respondent. Thus, the abovementioned violations of the DPA shall be imputed against all of them due to their gross negligence following [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34]].[^30]
 
 Considering the foregoing, Respondents have not provided any new or material allegations that would merit the reversal of the Decision.
 
@@ -213,25 +215,25 @@ National Privacy Commission
 [^5]: Resolution dated 02 October 2019.
 [^6]: In re: FCash Global Lending Inc Fact-Finding Report dated 29 August 2019
 [^7]: Resolution dated 02 October 2019
-[^8]: Section 24, Rule IV of NPC Circular 16-04
-[^9]: NPC 19-910, Resolution dated 11 March 2021
+[^8]: Section 24, Rule IV of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]]
+[^9]: [[resolutions/2021/npc-19-910-in-re-fynamics-lending-inc-pondo-peso-2|NPC 19-910, Resolution]] dated 11 March 2021
 [^10]: Id
 [^11]: Resolution dated 02 October 2019
-[^12]: R.A. 10173
+[^12]: [[laws/data-privacy-act-of-2012|R.A. 10173]]
 [^13]: Resolution dated 02 October 2019
 [^14]: G.R. No. 186730, June 13, 2012
 [^15]: Id.
 [^16]: Supra Note 3, page 23
-[^17]: Section 4 (b), Rule II of NPC Circular No. 16-04
-[^18]: NPC 19910, Resolution
+[^17]: Section 4 (b), Rule II of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]]
+[^18]: [[resolutions/2021/npc-19-910-in-re-fynamics-lending-inc-pondo-peso-2|NPC 19910, Resolution]]
 [^19]: Id.
-[^20]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter II, § 7(a) (2012).
+[^20]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter II, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|§ 7(a)]] (2012).
 [^21]: Id. § 7(b).
-[^22]: NPC Circular No. 202101, rule X, §§ 56.
+[^22]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-x-sua-sponte-investigation|NPC Circular No. 202101, rule X]], §§ 56.
 [^23]: Miguel v. Montañez, G.R. No. 191336, 25 January 2012
-[^24]: NPC 19-910, Resolution
+[^24]: [[resolutions/2021/npc-19-910-in-re-fynamics-lending-inc-pondo-peso-2|NPC 19-910, Resolution]]
 [^25]: Motion for Reconsideration dated 28 February 2022
-[^26]: Section 34 of R.A. 10173
+[^26]: [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of R.A. 10173]]
 [^27]: Fernandez vs Office of the Ombudsman, GR No. 193983, March 14 2012.
 [^28]: Fact-Finding Report dated 29 August 2019, pg. 11-13.
 [^29]: See: https://manilastandard.net/business/bizplus/335368/sec-voids-license-of-fcash-global.html.

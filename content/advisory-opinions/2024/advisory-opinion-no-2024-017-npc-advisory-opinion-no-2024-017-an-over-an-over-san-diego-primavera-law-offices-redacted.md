@@ -5,7 +5,14 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+  - "topic/employment"
+  - "topic/legitimate-interest"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2024-017"
+  - "npc advisory opinion no. 2024-017"
+  - "Advisory Opinion No. 2024-017"
+  - "advisory opinion no. 2024-017"
 ---
 
 ## Source
@@ -53,7 +60,7 @@ As regards the personal information intended to be published, we stated in [[adv
 
 > It has been the common practice for companies to publish notices in newspapers and other media that a certain person appearing in the photograph used to be their employee, but is now no longer connected with the company, and a warning that transactions with the said person on behalf of the company will no longer be honored. The above is still allowed under the DPA. The basis for processing may be Section 12(f) which provides for the processing that is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution. Legitimate interest refers to matters that are desired by or important to a PIC, which must not be contrary to law, morals or public policy. This includes business, financial or other reasonable purpose.
 
-On the other hand, NPC Circular 2023-07[^7] provides that in the determination of legitimate interest, the following must be considered:
+On the other hand, [[issuances/2023/guidelines-on-legitimate-interest|NPC Circular 2023-07]][^7] provides that in the determination of legitimate interest, the following must be considered:
 
 > SECTION 3. General Considerations. — Section 12(f) of the DPA permits the processing of personal information when the processing is necessary for the legitimate interests pursued by the PIC or a third party to whom the personal information is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject that require protection under the Philippine Constitution.
 >

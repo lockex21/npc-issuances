@@ -5,7 +5,14 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2021
+  - topic/consent
+  - topic/data-sharing
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-043"
+  - "npc advisory opinion no. 2021-043"
+  - "Advisory Opinion No. 2021-043"
+  - "advisory opinion no. 2021-043"
 ---
 
 ## Source
@@ -26,7 +33,7 @@ We write in response to your request for an advisory opinion received by the Nat
 
 We understand that the Iloilo City Police Office (CPO) sent a letter to the CHO requesting for the data of drug surrenderers who are presently undergoing drug rehabilitation under the Iloilo City Community Change Center dubbed as “The Crossroads” (Community-based Drop-in Center).
 
-The CHO denied the request citing Sections 11 (a) and 13 of the Data Privacy Act of 2012[^1] (DPA), stating that the CPO did not provide the specific purpose for which the requested data will be utilized, and it was not shown that the circumstance fits any of the exceptions under Section 13 that would warrant the processing of sensitive personal information.
+The CHO denied the request citing [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Sections 11 (a)]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA), stating that the CPO did not provide the specific purpose for which the requested data will be utilized, and it was not shown that the circumstance fits any of the exceptions under Section 13 that would warrant the processing of sensitive personal information.
 
 Further, we understand the PNP Legal Service reiterated the request for the production of the necessary data on the following grounds:
 
@@ -123,16 +130,16 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: National Privacy Commission, Data Sharing Agreements [NPC Circular No. 2020-03], § 2 (F) (December 23, 2020).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^2]: National Privacy Commission, Data Sharing Agreements [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]], § 2 (F) (December 23, 2020).
 [^3]: Id. § 2 (G).
 [^4]: Id. § 8.
 [^5]: Id. § 6.
 [^6]: Id. § 7.
 [^7]: Id. § 6.
-[^8]: Data Privacy Act of 2012, § 13 (b).
-[^9]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (b) (2016).
+[^8]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13 (b)]].
+[^9]: See: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (b)]] (2016).
 [^10]: Id. § 18 (c).
-[^11]: National Privacy Commission, NPC Advisory Opinion No. 2018-077 (Oct. 25, 2018), citing Data Privacy Act of 2012, § 38, National Privacy Commission, Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making, Circular No. 17-01 [NPC Circular 17-01], § 5 (c) (3) (July 31, 2017), Article 29 Data Protection Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is “likely to result in a high risk” for the purposes of Regulation 2016/679, Item III (B)(a)(7), 4 April 2017, available at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236.
-[^12]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 5.
-[^13]: Data Privacy Act of 2012, § 13 (b).
+[^11]: National Privacy Commission, NPC Advisory Opinion No. 2018-077 (Oct. 25, 2018), citing [[laws/data-privacy-act-of-2012#section-38-interpretation|Data Privacy Act of 2012, § 38]], National Privacy Commission, Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making, Circular No. 17-01 [NPC Circular 17-01], § 5 (c) (3) (July 31, 2017), Article 29 Data Protection Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is "likely to result in a high risk" for the purposes of Regulation 2016/679, Item III (B)(a)(7), 4 April 2017, available at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236.
+[^12]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5]].
+[^13]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13 (b)]].

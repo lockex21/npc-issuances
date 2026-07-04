@@ -7,6 +7,12 @@ tags:
   - year/2017
   - data-sharing
   - data-privacy-act
+  - topic/data-sharing
+aliases:
+  - "NPC Advisory Opinion No. 2017-009"
+  - "npc advisory opinion no. 2017-009"
+  - "Advisory Opinion No. 2017-009"
+  - "advisory opinion no. 2017-009"
 draft: false
 ---
 
@@ -29,7 +35,7 @@ This pertains to your query received by the National Privacy Commission (NPC) on
 
 1. Whether or not the intention of the data sharing agreement requirement under the IRR is to go beyond the EU requirements, or does it correspond to the data processing agreement requirements by the EU?
 2. Whether or not it is now mandatory to comply with data sharing agreement requirement, given that the IRR does not provide for a period within which existing agreements should be covered and there are no applicable implementing regulations for the private sector?
-3. Whether or not 1-year compliance period under Sec. 67 of the IRR applies to the data sharing agreement requirement, and, if so, how does it operate?
+3. Whether or not 1-year compliance period under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-67-period-for-compliance|Sec. 67 of the IRR]] applies to the data sharing agreement requirement, and, if so, how does it operate?
 
 ### Discussion
 
@@ -57,6 +63,6 @@ Approved:
 IVY D. PATDU
 Deputy Privacy Commissioner, Policy and Planning
 
-[^1]: RA 10173, §2. *See also:* IRR, §2.
-[^2]: IRR, §72.
-[^3]: IRR, §67.
+[^1]: [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|RA 10173, §2]]. *See also:* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-2-policy|IRR, §2]].
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-72-effectivity-clause|IRR, §72]].
+[^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-67-period-for-compliance|IRR, §67]].

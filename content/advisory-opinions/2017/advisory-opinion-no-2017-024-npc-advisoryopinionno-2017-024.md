@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2017-024 — Retention Period for Personal Data"
 description: "Advisory Opinion on retention period for personal data under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2017-024"
+  - "npc advisory opinion no. 2017-024"
+  - "Advisory Opinion No. 2017-024"
+  - "advisory opinion no. 2017-024"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -39,7 +44,7 @@ The DPA provides that personal data shall only be retained for as long as necess
 fulfillment of the purposes for which the data was obtained or for the establishment, exercise
 or defense of legal claims, or for legitimate business purposes, or as provided by law.[^1]
 
-Further, the IRR expounds on such requirement under Section 19(d), to wit:
+Further, the IRR expounds on such requirement under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19(d)]], to wit:
 
    Section 19. General principles in collection, processing and retention. The
            processing of personal data shall adhere to the following general principles in
@@ -107,6 +112,6 @@ Officer in Charge
 Deputy Privacy Commissioner
 for Policies and Planning
 
-[^1]: Republic Act No. 10173, § 11(e).
-[^2]: Implementing Rules and Regulation of Republic Act No. 10173, §19(e)(3)
+[^1]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Republic Act No. 10173, § 11(e)]].
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Implementing Rules and Regulation of Republic Act No. 10173, §19(e)(3)]]
 [^3]: This advisory opinion is based on the limited information provided in the questions, and may vary based on additional information or when the facts are changed or elaborated.

@@ -6,6 +6,10 @@ tags:
   - type/resolution
   - year/2023
   - npc-case
+  - topic/breach-notification
+  - topic/cctv-surveillance
+  - topic/employment
+  - topic/security
 aliases:
   - "NPC BN 18-138"
   - "npc bn 18-138"
@@ -101,7 +105,7 @@ Whether PPTCC sufficiently addressed the breach and implemented security measure
 
 ### Discussion
 
-The Commission resolves to close the matter. The incident does not fall under mandatory breach notification under Section 11 of NPC Circular 16-03 (Personal Data Breach Management). Nevertheless, PPTCC sufficiently addressed the breach and implemented security measures to prevent its recurrence.
+The Commission resolves to close the matter. The incident does not fall under mandatory breach notification under Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management). Nevertheless, PPTCC sufficiently addressed the breach and implemented security measures to prevent its recurrence.
 
 Section 11 of NPC Circular 16-03 on mandatory breach notification provides:
 
@@ -121,7 +125,7 @@ Following this, the requisites for mandatory breach notification to the Commissi
 
 The first requisite is absent in this case. The nature of the information in this case is neither sensitive personal information nor other information that may enable identity fraud.
 
-This should be read together with Section 20 (f) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA). Section 20 (f) expressly requires the consideration of the specific circumstances of a breach in determining whether other information involved in the breach may enable identity fraud:
+This should be read together with [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (f)]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA). Section 20 (f) expressly requires the consideration of the specific circumstances of a breach in determining whether other information involved in the breach may enable identity fraud:
 
 > **Section 20. *Security of Personal Information*.**
 >
@@ -248,10 +252,10 @@ National Privacy Commission
 [^38]: *Id.*
 [^39]: Order, 18 July 2022, at 1, in In re: Pacific Plaza Towers Condominium Corporation, NPC BN 18-138 (NPC 2022).
 [^40]: Email from PPTCC, 11 October 2022, in In re: Pacific Plaza Towers Condominium Corporation, NPC BN 18-138 (NPC 2022).
-[^41]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 11 (15 December 2016).
+[^41]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 03, Series of 2016]] [NPC Circ. No. 16-03], § 11 (15 December 2016).
 [^42]: NPC BN 18-158, 13 November 2023, at 10 (NPC 2023) (unreported).
-[^43]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers, NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at https://www.privacy.gov.ph/wp-content/uploads/2023/01/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-Commission-on-Elections-Decision-Final.pdf (last accessed 31 January 2024).
-[^44]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (f) (2012). Emphasis supplied.
+[^43]: [[decisions/2022/npc-ss-22-001-and-npc-ss-22-008-in-re-commission-on-elections|In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers]], NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at https://www.privacy.gov.ph/wp-content/uploads/2023/01/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-Commission-on-Elections-Decision-Final.pdf (last accessed 31 January 2024).
+[^44]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (f)]] (2012). Emphasis supplied.
 [^45]: NPC BN 20-124, 10 September 2020, at 3 (NPC 2020) (unreported).
 [^46]: *Id.* Emphasis supplied.
 [^47]: *Id.* at 4.
@@ -265,7 +269,7 @@ National Privacy Commission
 [^55]: Personal Data Breach Notification from Pacific Plaza Towers Condominium Corporation, 27 July 2018, at 2, in In re: Pacific Plaza Towers Condominium Corporation, NPC BN 18-138 (NPC 2018).
 [^56]: *Id.*
 [^57]: *Id.*
-[^58]: NPC Circ. No. 16-03, § 11.
+[^58]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 11.
 [^59]: NPC BN 17-028 and NPC BN 18-180, 11 May 2023, at 8 (NPC 2023) (unreported).
 [^60]: *Id.*
 [^61]: *Id.*

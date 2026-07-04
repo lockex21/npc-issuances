@@ -7,6 +7,11 @@ tags:
 - type/resolution
 - year/2024
 - npc-case
+- topic/breach-notification
+- topic/employment
+- topic/registration
+- topic/security
+- topic/training-certification
 draft: false
 aliases:
 - '"NPC 18-151"'
@@ -36,7 +41,7 @@ IN RE: WESTERN UNION SERVICES (PHILIPPINES), INC.
 
 ---
 
-Before the Commission is Western Union Services (Philippines), Inc.'s (WUSPI) breach notification and management in compliance with NPC Circular 16-03 (Personal Data Breach Management).
+Before the Commission is Western Union Services (Philippines), Inc.'s (WUSPI) breach notification and management in compliance with [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).
 
 ### Facts
 
@@ -58,7 +63,7 @@ WUSPI also noted in its notification that it was "in the process of registering 
 
 On 15 October 2020, the NPC, through the Complaints and Investigation Division (CID), directed WUSPI to "submit a post-breach report detailing the results of the investigation conducted as well as the remedial measures taken to notify the affected data subjects, address the incident and prevent its recurrence" within fifteen (15) days from the receipt of the Order.[^12]
 
-On 28 March 2022, the CID issued another Order directing WUSPI, pursuant to Section 17 (D) of NPC Circular 16-03, to submit a Full Report detailing the incident within fifteen (15) days from receipt of the Order.[^13]
+On 28 March 2022, the CID issued another Order directing WUSPI, pursuant to Section 17 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], to submit a Full Report detailing the incident within fifteen (15) days from receipt of the Order.[^13]
 
 On 08 August 2022, WUSPI sent a letter requesting an extension of time to submit its response.[^14] In this letter, WUSPI explained that there was a delay in receiving the Order because it had been sent to the previous DPO, who left WU near the end of 2018.[^15] The DPO who succeeded him also left WU on 3 June 2022.[^16] Consequently, the current DPO was only able to register on 4 August 2022.[^17] Given these circumstances, WUSPI's DPO requested an extension of time to submit a response.[^18] She also stated that a response to the Order would be submitted within fifteen (15) days of receiving a copy of the incident report that WU submitted to the NPC.[^19]
 
@@ -140,7 +145,7 @@ The Commission resolves to close the matter. WUSPI's submissions show that it pr
 
 It is the responsibility of a Personal Information Controller (PIC), such as WUSPI, to ensure that affected data subjects of the breach are promptly and properly notified about the breach.[^61] The Commission has consistently emphasized that the purpose of notifying data subjects of a breach is to enable them to take necessary precautions or other actions to protect themselves from potential consequences.[^62]
 
-Section 18 of NPC Circular 16-03 provides the requirements on the content and form of the notification of data subjects:
+Section 18 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides the requirements on the content and form of the notification of data subjects:
 
 > **Section 18. Notification of Data Subjects.** The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -173,7 +178,7 @@ WUSPI provided the DPO's contact information, including an email address and pho
 
 In addition, WUSPI took measures to sufficiently address the breach and adopted measures to prevent its recurrence.[^70]
 
-Section 20 of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act (DPA) provides that PICs must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any unlawful disclosure:
+Section 20 of [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Republic Act No. 10173]] or the Data Privacy Act (DPA) provides that PICs must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any unlawful disclosure:
 
 > **Section 20. Security of Personal Information.** (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^71]
 
@@ -280,17 +285,17 @@ GENERAL RECORDS UNIT
 [^58]: Compliance, 07 September 2022, at 6, in In re: Western Union Services (Philippines), Inc., NPC BN 18-151 (NPC 2022).
 [^59]: *Id.*
 [^60]: *Id.*
-[^61]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
+[^61]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 ([[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]]), § 18 (A) (15 December 2016).
 [^62]: *Id.* § 18 (A).
-[^63]: NPC Circ. No. 16-03, § 18 (C) & (D).
+[^63]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 18 (C) & (D).
 [^64]: Notification to Affected Data Subject, 08 August 2018, in In re: Western Union Services (Philippines), Inc., NPC BN 18-151 (NPC 2018).
 [^65]: *Id.*
 [^66]: *Id.*
 [^67]: *Id.*
 [^68]: *Id.*
-[^69]: NPC Circ. No. 16-03, § 18 (C).
+[^69]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 18 (C).
 [^70]: Compliance, 07 September 2022, at 4, in In re: Western Union Services (Philippines), Inc., NPC BN 18-151 (NPC 2022).
-[^71]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (a) (2012).
+[^71]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Republic Act No. 10173 § 20 (a)]] (2012).
 [^72]: Compliance, 07 September 2022, at 4, in In re: Western Union Services (Philippines), Inc., NPC BN 18-151 (NPC 2022).
 [^73]: *Id.*
 [^74]: *Id.*

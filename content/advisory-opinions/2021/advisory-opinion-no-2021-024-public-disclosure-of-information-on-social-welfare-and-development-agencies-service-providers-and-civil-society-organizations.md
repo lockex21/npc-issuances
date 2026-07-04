@@ -1,10 +1,16 @@
 ---
 title: "NPC Advisory Opinion No. 2021-024 — Public Disclosure Of Information On Social Welfare And Development Agencies, Service Providers, And Civil Society Organizations"
 description: "Guidance on disclosure and processing of information concerning social welfare agencies, service providers, and civil society organizations."
+aliases:
+  - "NPC Advisory Opinion No. 2021-024"
+  - "npc advisory opinion no. 2021-024"
+  - "Advisory Opinion No. 2021-024"
+  - "advisory opinion no. 2021-024"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/consent"
 draft: false
 ---
 
@@ -29,8 +35,8 @@ We write in response to your request for advisory opinion received by the Nation
 Commission (NPC) to provide guidance on the various concerns with respect to the processing of
 data pertaining to Social Welfare and Development Agencies (SWDAs), Service Providers (SPs),
 and Civil Society Organizations (CSOs) registered, licensed, and accredited by the Department of
-Social Welfare and Development (DSWD) considering the provisions of the Data Privacy Act of
-2012[^2] (DPA).
+Social Welfare and Development (DSWD) considering the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of
+2012]][^2] (DPA).
 
 Specifically, you ask for clarification on the following:
 
@@ -94,10 +100,10 @@ In relation to the above, where disclosure of personal and/or sensitive personal
 (collectively, personal data) of individuals connected to the SWDA, SP, or CSO is involved, the
 DPA will apply.
 
-Under the DPA, Section 12 (e) provides that the processing of personal information shall be
+Under the DPA, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e)]] provides that the processing of personal information shall be
 permitted when it is necessary to fulfill the functions of a public authority which includes the
 processing of personal data for the fulfillment of its mandate. If sensitive personal information is
-involved, processing may be based on Section 13 (b) which recognizes processing that is provided
+involved, processing may be based on [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b)]] which recognizes processing that is provided
 for by existing laws and regulations.
 
 The DSWD may process any personal data of individuals, who may be directors, officers,
@@ -186,6 +192,6 @@ OIC – Director IV, Privacy Policy Office
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Department of Social Welfare and Development, Revised Guidelines Governing the Registration, Licensing of Social Welfare and Development (SWD) Agencies and Accreditation of SWD Programs and Services, Memorandum Circular No. 07, Series of 2018 [DSWD M.C. 07, s.2018] (August 29, 2018).
 [^4]: Department of Social Welfare and Development, Guidelines on the Accreditation of Civil Society Organizations (CSOs) To Implement DSWD Programs Using DSWD Funds, DSWD Memorandum Circular No.13, Series of 2019 [DSWD MC 13, s.2019] (July 26, 2019).
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c)]] (2016).
 [^6]: Ibid.
 [^7]: See: National Privacy Commission, Data Subject Rights [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]], § 6 (c) (Jan. 29, 2021).

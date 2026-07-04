@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2021"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/legitimate-interest"
 date: "2022-03-03"
 draft: false
 ---
@@ -42,7 +44,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by JCB against FRL for an alleged violation of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by JCB against FRL for an alleged violation of the [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -342,15 +344,15 @@ GENERAL RECORDS UNIT
 [^31]: NPC 2021 Rules of Procedure, rule II, §3 (10).
 [^32]: P v. Coca-Cola Philippines, Inc., G.R. No. 157966 (2008).
 [^33]: Complaint Affidavit, 26 January 2021, Annex C, in JCB v. FRL, NPC 21-031 (NPC 2021).
-[^34]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 §3 (g) (2012).
+[^34]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3 (g)]] (2012).
 [^35]: Complaint Affidavit, 26 January 2021, ¶43, in JCB v. FRL, NPC 21-031 (NPC 2021).
-[^36]: Data Privacy Act of 2012, §12 (f).
+[^36]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12 (f)]].
 [^37]: CID Case No. 17-K003, 19 November 2019, (NPC 2019) (unreported).
 [^38]: BGM v. IPP, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]], 17 December 2020, available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 17 March 2022).
-[^39]: Data Privacy Act of 2012, §13 (f).
+[^39]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§13 (f)]].
 [^40]: Comment, 03 November 2021, at 7, in JCB v. FRL, NPC 21-031 (NPC 2021).
 [^41]: Id. at 6.
-[^42]: Data Privacy Act of 2012, §31.
+[^42]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|§31]].
 [^43]: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-015]], 03 February 2022, (NPC 2022) (unreported).
 [^44]: Cruz v. Intermediate Appellate Court, G.R. No. 66327 (1984).
 [^45]: Complainant's Memorandum, 12 November 2021, at 15, in JCB v. FRL, NPC 21-031 (NPC 2021).
@@ -360,7 +362,7 @@ GENERAL RECORDS UNIT
 [^49]: Complainant's Memorandum, 12 November 2021, at 16, in JCB v. FRL, NPC 21-031 (NPC 2021).
 [^50]: AMENDMENTS TO THE 1989 REVISED RULES ON EVIDENCE, rule 130, §24 (e).
 [^51]: Complainant's Memorandum, 12 November 2021, at 16, in JCB v. FRL, NPC 21-031 (NPC 2021).
-[^52]: Data Privacy Act of 2012, §32.
+[^52]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|§32]].
 [^53]: Id.
 [^54]: Metropolitan Bank and Trust Co. v. Liberty Corrugated Boxes Manufacturing Corp., G.R. No.184317 (2017).
 [^55]: Fort Bonifacio Development Corp. v. Commissioner of Internal Revenue, G.R. Nos. 158885 & 170680 (Resolution) (2009).

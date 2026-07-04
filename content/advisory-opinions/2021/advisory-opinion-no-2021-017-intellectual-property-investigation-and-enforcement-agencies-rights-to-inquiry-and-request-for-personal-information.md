@@ -1,10 +1,16 @@
 ---
 title: "NPC Advisory Opinion No. 2021-017 — Intellectual Property Investigation And Enforcement Agencies’ Rights To Inquiry And Request For Personal Information"
 description: "The NPC clarified the scope of data processing rights available to intellectual property investigation and enforcement agencies when requesting personal information from online platforms and financial intermediaries for IPR investigations."
+aliases:
+  - "NPC Advisory Opinion No. 2021-017"
+  - "npc advisory opinion no. 2021-017"
+  - "Advisory Opinion No. 2021-017"
+  - "advisory opinion no. 2021-017"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/data-sharing"
 draft: false
 ---
 
@@ -39,7 +45,7 @@ queries on suspected IPR violators.
 
 #### Scope of the Data Privacy Act of 2012; criteria for lawful processing of personal data
 
-The Data Privacy Act of 2012[^2] (DPA) applies to the processing of personal information,
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) applies to the processing of personal information,
 sensitive personal information, and privileged information (collectively, personal data) of
 natural persons by the government and private entities and individuals, within and outside
 the Philippines.
@@ -49,8 +55,8 @@ this scenario, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-pr
 personal information necessary to fulfill functions of a public authority which necessarily
 includes the processing of personal data for the fulfillment of its mandate.
 
-In addition, for processing sensitive personal information and privileged information, Section
-13 should likewise be considered. The said provision recognizes various lawful bases for
+In addition, for processing sensitive personal information and privileged information, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section
+13]] should likewise be considered. The said provision recognizes various lawful bases for
 processing applicable in this case, i.e., the processing is provided for by existing laws and
 regulations,[^3] or the processing concerns such personal information as is necessary for the
 protection of lawful rights and interests of natural or legal persons in court proceedings, or
@@ -110,9 +116,9 @@ data subject rights provided for in the DPA.
 
 #### Security of personal data; data sharing agreement
 
-The NCIPR and its member agencies should consider the provisions of NPC Circular No. 16-
-01 on the Security of Personal Data in Government Agencies, and NPC Circular No. 2020-03
-on Data Sharing Agreements, as may be reasonable and appropriate with respect to the
+The NCIPR and its member agencies should consider the provisions of [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-
+01 on the Security of Personal Data in Government Agencies]], and [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03
+on Data Sharing Agreements]], as may be reasonable and appropriate with respect to the
 personal data processing activities of each agency in relation to its duties and responsibilities
 under EO No. 736 and related IPR laws, rules, and regulations.
 
@@ -134,7 +140,7 @@ OIC-Director IV, Privacy Policy Office
 
 [^1]: Tags: law enforcement; investigation; mandate; due process; data sharing; data sharing agreement;
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], (2012).
-[^3]: Data Privacy Act of 2012, § 13 (b).
+[^3]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13 (b)]].
 [^4]: Id. § 13 (f).
 [^5]: Office of the President, Institutionalizing Permanent Units To Promote, Protect And Enforce Intellectual Property Rights (IPR) In Different Law Enforcement And Other Agencies Under The Coordination Of The National Committee On Intellectual Property Rights (NCIPR), Executive Order No. 736 [E.O. No. 736] (June 21, 2008).
 [^6]: E.O. No. 736, § 4.

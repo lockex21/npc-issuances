@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-001"
+  - "npc advisory opinion no. 2018-001"
+  - "Advisory Opinion No. 2018-001"
+  - "advisory opinion no. 2018-001"
 ---
 
 ## Source
@@ -23,7 +28,7 @@ Re: REQUEST FOR OPINION ON THE APPLICABILITY OF THE DATA PRIVACY ACT OF 2012 ON 
 
 Dear [Redacted],
 
-This pertains to your request for advisory opinion received by the National Privacy Commission (NPC) on 20 November 2017, which sought guidance regarding Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA), particularly its applicability to contracts you execute in the normal course of operations.
+This pertains to your request for advisory opinion received by the National Privacy Commission (NPC) on 20 November 2017, which sought guidance regarding [[laws/data-privacy-act-of-2012|Republic Act No. 10173, also known as the Data Privacy Act of 2012]] (DPA), particularly its applicability to contracts you execute in the normal course of operations.
 
 ### Discussion
 
@@ -50,7 +55,7 @@ In your letter request, you have stated that you are collecting the following in
 
 Based on the definition above, it is clear that the data that you are collecting are considered as personal information and its processing is covered by the DPA, its IRR and issuances of the NPC.
 
-Some information, particularly, the civil status, nationality and the government-issued identification numbers as may be reflected in the ID cards are considered as sensitive personal information. Note that the lawful processing of personal and sensitive personal information should be based on the criteria provided for under Sections 12 and 13 of the DPA, respectively.
+Some information, particularly, the civil status, nationality and the government-issued identification numbers as may be reflected in the ID cards are considered as sensitive personal information. Note that the lawful processing of personal and sensitive personal information should be based on the criteria provided for under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13 of the DPA]], respectively.
 
 #### [Redacted] as Personal Information Controller
 
@@ -65,8 +70,8 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: RA No. 10173, §4.
-[^2]: RA No. 10173, §3(h). Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or an organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf. The term excludes: (1) A person or organization who performs such functions as instructed by another person or organization; and (2) An individual who collects, holds, processes, or uses personal information in connection with an individual’s personal, family or household affairs.
-[^3]: *Id.*, §11.
-[^4]: *Id.*, §20(a).
-[^5]: Implementing Rules and Regulations (IRR) of RA No. 10173, §6(a).
+[^1]: [[laws/data-privacy-act-of-2012#section-4-scope|RA No. 10173, §4]].
+[^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(h)]]. Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or an organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf. The term excludes: (1) A person or organization who performs such functions as instructed by another person or organization; and (2) An individual who collects, holds, processes, or uses personal information in connection with an individual’s personal, family or household affairs.
+[^3]: *Id.*, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§11]].
+[^4]: *Id.*, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§20(a)]].
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations (IRR)]] of RA No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-6-protection-afforded-to-data-subjects|§6(a)]].

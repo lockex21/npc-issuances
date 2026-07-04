@@ -5,7 +5,14 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/consent
+  - topic/employment
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-078"
+  - "npc advisory opinion no. 2018-078"
+  - "Advisory Opinion No. 2018-078"
+  - "advisory opinion no. 2018-078"
 ---
 
 ## Source
@@ -62,7 +69,7 @@ agencies. The collection, disclosure or any type of processing of the requested 
 by DOLE fall within the ambit of the law, which dictates the requirements that must be
 complied with.
 
-Sections 12 and 13 of the DPA lay down the specific criteria which must be met for the lawful
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA lay down the specific criteria which must be met for the lawful
 processing of personal information and sensitive personal information, respectively. In order
 to authorize any processing of personal data, a personal information controller (PIC) must
 adhere to all the requirements established by the DPA. Sections 12(e) and 13(b) provide:
@@ -167,9 +174,9 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: *Id.* § 3 (g) - Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
-[^3]: *Id.* § 3 (l) - Sensitive personal information refers to personal information: 1. About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; 2. About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; 3. Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and Specifically established by an executive order or an act of Congress to be kept classified.
-[^4]: *Id.* § 3 (k) - Privileged information refers to any and all forms of data which under the Rules of Court and other pertinent laws constitute privileged communication.
+[^2]: *[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id.]]* § 3 (g) - Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^3]: *[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id.]]* § 3 (l) - Sensitive personal information refers to personal information: 1. About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; 2. About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; 3. Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and Specifically established by an executive order or an act of Congress to be kept classified.
+[^4]: *[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id.]]* § 3 (k) - Privileged information refers to any and all forms of data which under the Rules of Court and other pertinent laws constitute privileged communication.
 [^5]: Office of the President, Instituting the "Administrative Code of 1987," Executive Order No. 292 [Administrative Code of 1987] (July 25, 1987).
 [^6]: *Id.* Book IV, Title VII, Chapter 1, § 2.
 [^7]: *Ibid.*

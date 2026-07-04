@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "npc-case"
   - "year/2020"
+  - "topic/breach-notification"
 date: "2020-08-20"
 draft: false
 ---
@@ -75,7 +76,7 @@ On 5 September 2019, Sun Life submitted a letter[^12] clarifying to the Commissi
 
 On 10 August 2020, the Enforcement Division issued its findings on the breach report, stating:
 
-> Upon assessment of the breach report, this Division found that the measures undertaken and the notification sent complies with [[laws/data-privacy-act-of-2012|R.A. 10173]] or the Data Privacy Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and specifically NPC Circular 16-03 on Personal Data Breach Management (Circular).
+> Upon assessment of the breach report, this Division found that the measures undertaken and the notification sent complies with [[laws/data-privacy-act-of-2012|R.A. 10173]] or the Data Privacy Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and specifically [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 on Personal Data Breach Management]] (Circular).
 >
 > Taking into consideration the actions taken by Sun Life immediately after the breach and its remedial measures, this Division assessed that Sun Life acted on the breach incident in accordance with the incident response procedure required by the Circular.
 
@@ -83,7 +84,7 @@ On 10 August 2020, the Enforcement Division issued its findings on the breach re
 
 The Commission hereby finds the Breach Notification Report dated 14 October 2017 of Sun Life sufficient and considers this matter closed.
 
-Section 17(D) of NPC Circular 16-03[^13] provides that the Notification shall include, but not be limited to:
+Section 17(D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]][^13] provides that the Notification shall include, but not be limited to:
 
 1. Nature of the Breach
    a. description of how the breach occurred and the vulnerability of the data processing system that allowed the breach;

@@ -63,26 +63,26 @@ On 23 February 2021, the Commission issued an Order sustaining the CDO issued ag
 On 21 June 2021, Familyhan filed a Motion to Lift the Cease and Desist Order.[^4] The grounds alleged by Familyhan to lift the CDO are:
 
 1. It stopped processing personal data on its database and ordered all its Loan Agents to discontinue processing personal data on its database. As further security, the access to its system was immediately cut off by the IT Department;[^5]
-2. In accordance with Section 12 of NPC Circular No. 20-02, the CDO to which it filed a Comment on 25 January 2021 is deemed automatically lifted;[^6] and
+2. In accordance with Section 12 of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]], the CDO to which it filed a Comment on 25 January 2021 is deemed automatically lifted;[^6] and
 3. The basis for which the CDO was issued no longer exists as it had already implemented measures to address the incident.[^7]
 
 ### Discussion
 
-Section 4 of NPC Circular No. 20-02 (Rules on the Issuance of Cease and Desist Orders) provides the grounds for the issuance of a CDO:
+Section 4 of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]] (Rules on the Issuance of Cease and Desist Orders) provides the grounds for the issuance of a CDO:
 
 > Section 4. Grounds for the Issuance of Cease and Desist Order. – No CDO shall be issued unless it is established by substantial evidence that all of the following concur:
 >
-> A. the Adverse Party is doing, threatening or is about to do, is procuring to be done, some act or practice in violation of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], or other related issuances;
+> A. the Adverse Party is doing, threatening or is about to do, is procuring to be done, some act or practice in violation of the DPA, its IRR, or other related issuances;
 >
 > B. such act or practice is detrimental to national security or public interest, or the CDO is necessary to preserve and protect the rights of a data subject; and
 >
 > C. the commission or continuance of such act or practice, unless restrained, will cause grave and irreparable injury to a data subject.[^8]
 
-A CDO is issued by the Commission against acts which are potentially harmful and in violation of the Data Privacy Act of 2012 to mitigate the harm that it produced. The lifting of a CDO is dependent on whether such harmful acts had been addressed and remedied to avoid further harm to data subjects. Section 15 of NPC Circular No. 20-02 provides:
+A CDO is issued by the Commission against acts which are potentially harmful and in violation of the Data Privacy Act of 2012 to mitigate the harm that it produced. The lifting of a CDO is dependent on whether such harmful acts had been addressed and remedied to avoid further harm to data subjects. Section 15 of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]] provides:
 
 > Section 15. Motion to Lift Extended CDO. - At any time during the effectivity of the extended CDO, the Adverse Party may file a motion to lift said order on the ground that the factual or legal basis for which it was issued no longer exists, furnishing a copy thereof to the applicant. The motion shall contain or specify the material facts establishing the ground/s relied upon, the relevant documentary, testimonial and object evidence supporting the motion, and the proof of service of the copy of the motion to the applicant.[^9]
 
-To properly determine whether the issues sought to be prevented by the CDO have been satisfactorily addressed, the Commission resolves to order the Applicant of the CDO, the Complaints and Investigation Division (CID) of the National Privacy Commission, to submit its Comment or Opposition to Familyhan's Motion, pursuant to Section 16 of NPC Circular No. 20-02 which provides:
+To properly determine whether the issues sought to be prevented by the CDO have been satisfactorily addressed, the Commission resolves to order the Applicant of the CDO, the Complaints and Investigation Division (CID) of the National Privacy Commission, to submit its Comment or Opposition to Familyhan's Motion, pursuant to Section 16 of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]] which provides:
 
 > Section 16. Comment or Opposition to the Motion. - The applicant may file a comment/opposition to the motion to lift within ten (10) days from receipt thereof and furnishing a copy thereof to the Adverse Party. It shall contain the relevant documentary, testimonial and object evidence supporting its position, and shall specify the material dates relevant to the same and proof of service of the copy of the Comment/Opposition to the Adverse Party.[^10]
 
@@ -145,6 +145,6 @@ GENERAL RECORDS UNIT
 [^5]: *Ibid.* at par. 2.
 [^6]: *Ibid.* at par. 5–6.
 [^7]: *Ibid.* at par. 7.
-[^8]: NPC Circular No. 20-02, Rules on the Issuance of Cease and Desist Orders, Section 4.
-[^9]: Section 15, NPC Circular No. 20-02.
-[^10]: Section 16, NPC Circular No. 20-02.
+[^8]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]], Rules on the Issuance of Cease and Desist Orders, Section 4.
+[^9]: Section 15, [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]].
+[^10]: Section 16, [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]].

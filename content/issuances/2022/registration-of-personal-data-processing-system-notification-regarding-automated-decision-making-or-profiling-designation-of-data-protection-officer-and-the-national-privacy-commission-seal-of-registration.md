@@ -14,6 +14,7 @@ tags:
 - topic/registration
 - type/circular
 - year/2022
+- topic/ai
 title: "Registration of Personal Data Processing System, Notification Regarding Automated Decision-making or Profiling, Designation of Data Protection Officer, and the National Privacy Commission Seal of Registration (Circular No. 2022-04)"
 ---
 
@@ -24,11 +25,11 @@ title: "Registration of Personal Data Processing System, Notification Regarding 
 
 WHEREAS, Article II, Sections 11 and 24 of the 1987 Constitution recognize the dignity of every person, protect the right to privacy, and anchor the importance of communication and information in nation-building;
 
-WHEREAS, Section 2 of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]) and Section 34 of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] make clear that data subjects must be informed of the purpose, scope, and methodology of any automated processing that applies to their information;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]) and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34]] of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] make clear that data subjects must be informed of the purpose, scope, and methodology of any automated processing that applies to their information;
 
-WHEREAS, Sections 7, 9, 24, 14, and related provisions of the [[laws/data-privacy-act-of-2012|DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] empower the [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|NPC]] to publish policies, monitor compliance, and issue guidance around high-risk processing such as contracts affecting at least one thousand individuals, sensitive personal information, automated decision-making, or profiling;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Sections 7]], [[laws/data-privacy-act-of-2012#section-9-organizational-structure-of-the-commission|9]], [[laws/data-privacy-act-of-2012#section-24-applicability-to-government-contractors|24]], [[laws/data-privacy-act-of-2012#section-14-subcontract-of-personal-information|14]], and related provisions of the [[laws/data-privacy-act-of-2012|DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] empower the [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|NPC]] to publish policies, monitor compliance, and issue guidance around high-risk processing such as contracts affecting at least one thousand individuals, sensitive personal information, automated decision-making, or profiling;
 
-WHEREAS, Sections 46-48, Rule XI of the IRR mandate monitoring of such high-risk systems, including those that touch vulnerable data subjects or national security interests;
+WHEREAS, Sections 46-48, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#rule-xi-registration-and-compliance-requirements|Rule XI]] of the IRR mandate monitoring of such high-risk systems, including those that touch vulnerable data subjects or national security interests;
 
 WHEREAS, these authorities collectively justify a unified circular on registration, automated decision-making notification, and the NPC Seal of Registration;
 

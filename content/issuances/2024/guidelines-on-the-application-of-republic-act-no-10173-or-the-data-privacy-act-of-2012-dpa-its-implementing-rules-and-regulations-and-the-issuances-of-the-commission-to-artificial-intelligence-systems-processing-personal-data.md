@@ -11,6 +11,7 @@ tags:
   - topic/ai
   - type/advisory
   - year/2024
+  - topic/data-subject-rights
 date: '2024-12-19'
 draft: false
 ---
@@ -69,7 +70,7 @@ WHEREFORE, in consideration of these premises, the NPC hereby issues this Adviso
 
    E. Data Minimization.[^13] PICs shall exclude, by default, any personal data that is unlikely to improve the development or deployment of AI systems, including its training and testing.
 
-   F. Lawful Basis for Processing.[^14] PICs shall determine the most appropriate lawful basis under Sections 12 and 13 of the [[laws/data-privacy-act-of-2012|DPA]] prior to the processing of personal data in the development or deployment of AI systems, including its training and testing.
+   F. Lawful Basis for Processing.[^14] PICs shall determine the most appropriate lawful basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the [[laws/data-privacy-act-of-2012|DPA]] prior to the processing of personal data in the development or deployment of AI systems, including its training and testing.
 
    Publicly available personal data do not lose the protection afforded by the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and the issuances of the Commission simply because it has been made public or is publicly accessible.[^15]
          When PICs process personal data that is publicly available, they shall determine the most appropriate lawful basis under the [[laws/data-privacy-act-of-2012|DPA]] and ensure that the processing adheres to the general privacy principles.
@@ -97,20 +98,20 @@ Approved:
       Deputy Privacy Commissioner                          Deputy Privacy Commissioner
 
 [^1]: See Independent High-Level Expert Group on Artificial Intelligence, Ethics Guidelines for Trustworthy AI, at 36, available at [https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1) (2019); OECD Council, Recommendation on Artificial Intelligence, OECD/LEGAL/0449, available at [https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449](https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449) (2024); ISO/IEC JTC 1/SC 42, Information Technology – Artificial Intelligence – Artificial Intelligence Concepts and Terminology, ISO/IEC 22989:2022, § 3.1.4, available at [https://www.iso.org/standard/74296.html](https://www.iso.org/standard/74296.html) (2022); National Institute of Standards and Technology, Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile, NIST AI 600-1 (2024), n. 1, available at [https://doi.org/10.6028/NIST.AI.600-1](https://doi.org/10.6028/NIST.AI.600-1).
-[^2]: See An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 11 (a) (2012).
+[^2]: See An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11 (a)]] (2012).
 [^3]: Id.
-[^4]: See Id. § 16 (a), (b), & (d).
-[^5]: National Privacy Commission, Guidelines on Consent, Circular No. 04, Series of 2023 [NPC Circ. No. 23-04], § 3 (D)(3) (07 November 2023).
-[^6]: See Data Privacy Act of 2012, § 21.
+[^4]: See Id. [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16 (a), (b), & (d)]].
+[^5]: National Privacy Commission, [[issuances/2023/guidelines-on-consent|Guidelines on Consent]], Circular No. 04, Series of 2023 [NPC Circ. No. 23-04], § 3 (D)(3) (07 November 2023).
+[^6]: See [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Data Privacy Act of 2012, § 21]].
 [^7]: Id.
-[^8]: See generally Id. §§ 20 & 21.
-[^9]: See National Privacy Commission, Security of Personal Data in the Government and the Private Sector, Circular No. 06, Series of 2023 [NPC Circ. No. 23-06] (01 December 2023).
-[^10]: See Data Privacy Act of 2012, § 16.
-[^11]: See National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, § 19 (b) (2016).
-[^12]: See Id. rule IV, § 19 (c).
-[^13]: See Id. rule IV, § 19 (b).
-[^14]: Data Privacy Act of 2012, §§ 12 & 13.
-[^15]: EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 7, available at [https://privacy.gov.ph/wp-content/uploads/2022/09/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf](https://privacy.gov.ph/wp-content/uploads/2022/09/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf).
+[^8]: See generally Id. [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§§ 20]] & [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|21]].
+[^9]: See National Privacy Commission, [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]], Circular No. 06, Series of 2023 [NPC Circ. No. 23-06] (01 December 2023).
+[^10]: See [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, § 16]].
+[^11]: See National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|§ 19 (b)]] (2016).
+[^12]: See Id. rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|§ 19 (c)]].
+[^13]: See Id. rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|§ 19 (b)]].
+[^14]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, §§ 12]] & [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]].
+[^15]: EA and TA v. EJ, EE and HC, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]], 15 July 2019, at 7, available at [https://privacy.gov.ph/wp-content/uploads/2022/09/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf](https://privacy.gov.ph/wp-content/uploads/2022/09/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf).
 [^16]: See National Privacy Commission, Data Subject Rights, Advisory No. 01, Series of 2021 [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] (29 January 2021).
 
 ## Source

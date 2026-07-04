@@ -11,6 +11,8 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/data-subject-rights"
+  - "topic/online-lending"
 date: "2022-01-27"
 draft: false
 ---
@@ -67,7 +69,7 @@ Furthermore, Respondent Populus Lending Corporation and its responsible officers
 
 In case of failure by the Respondent and its responsible officers to file a Comment, this case shall be deemed submitted for resolution based on the evidence on record.
 
-The proceedings before the Commission based on the Fact-Finding Report of the CID, which serves as the Complaint against Respondent Populus Lending Corporation and its responsible officers, will now resume, pursuant to Section 2, Rule IX of the 2021 NPC Rules of Procedure.
+The proceedings before the Commission based on the Fact-Finding Report of the CID, which serves as the Complaint against Respondent Populus Lending Corporation and its responsible officers, will now resume, pursuant to [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ix-ban-on-processing-of-personal-data|Section 2, Rule IX]] of the 2021 NPC Rules of Procedure.
 
 SO ORDERED.[^1]
 
@@ -149,7 +151,7 @@ Nevertheless, in the interest of fully assessing the issue at hand, the Commissi
 
 #### The Temporary Ban imposed on Pesopop is valid.
 
-Contrary to Pesopop’s assertions in its Motion for Reconsideration and its 02 January 2022 letter, the Temporary Ban is not *void ab initio*. Pesopop maintains that the Temporary Ban is unwarranted because the Commission failed to satisfy the second and third requisites enumerated in Rule IX Section 3 of NPC Circular No. 20-01 or the 2021 NPC Rules of Procedure. For reference, the requisites are:
+Contrary to Pesopop’s assertions in its Motion for Reconsideration and its 02 January 2022 letter, the Temporary Ban is not *void ab initio*. Pesopop maintains that the Temporary Ban is unwarranted because the Commission failed to satisfy the second and third requisites enumerated in [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ix-ban-on-processing-of-personal-data|Rule IX Section 3]] of NPC Circular No. 20-01 or the 2021 NPC Rules of Procedure. For reference, the requisites are:
 
 > Section 3. Requisites for temporary ban. – A temporary ban on processing of personal data may be granted only when:
 >
@@ -162,7 +164,7 @@ The requisites have been explained in the Order dated 12 August 2021. In respons
 
 As discussed in the Order dated 12 August 2021, the Fact-Finding Report with Application for the Issuance of a Temporary Ban (FFR) filed by the Complaints and Investigation Division (CID) of the NPC prayed for the imposition of a Temporary Ban against Pesopop.[^31] It alleged that undisclosed permissions that violate the right of the data subjects to be informed exist and merit the issuance of a temporary ban.[^32] Thus, the second requisite is satisfied.
 
-Further, the Commission reiterates that the CID of the NPC initiated the Complaint through a *sua sponte* investigation under Rule X of the 2021 NPC Rules of Procedure.[^33] As such, the NPC, as a government agency, is exempt from filing fees and consequently, the bond for the application of Temporary Ban as stated in Rule II Section 4 (a) of the 2021 NPC Rules of Procedure.[^34] Thus, the third requisite is also satisfied.
+Further, the Commission reiterates that the CID of the NPC initiated the Complaint through a *sua sponte* investigation under [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-x-sua-sponte-investigation|Rule X]] of the 2021 NPC Rules of Procedure.[^33] As such, the NPC, as a government agency, is exempt from filing fees and consequently, the bond for the application of Temporary Ban as stated in [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|Rule II Section 4 (a)]] of the 2021 NPC Rules of Procedure.[^34] Thus, the third requisite is also satisfied.
 
 Pesopop’s claim that the Order imposing the Temporary Ban was issued without authority is patently wrong. The Temporary Ban imposed on Pesopop’s processing of personal data is valid.
 
@@ -238,7 +240,7 @@ Upon comparison of the Privacy Policies in the different versions of the app, it
 
 Further, the policy also failed to provide details on its use of profiling, automated processing, automated decision-making, or credit rating or scoring, and the categories of data considered in deciding whether to approve or disapprove a loan application.[^17] Despite informing its users that it will use the information it collects to prevent fraud, credit risk evaluation management, debt collection, identity verification, and anti-money laundering, activities that obviously involves profiling, credit rating or scoring.[^41]
 
-Based on the EnD’s assessment, Pesopop also does not comply with the provisions of NPC Circular No. 20-01 (Guidelines on the Processing of Personal Data for Loan-Related Transactions), particularly Section 3 of NPC Circular No. 20-01, which states:
+Based on the EnD’s assessment, Pesopop also does not comply with the provisions of [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 20-01]] (Guidelines on the Processing of Personal Data for Loan-Related Transactions), particularly Section 3 of NPC Circular No. 20-01, which states:
 
 > Section 3. Guidelines. The processing of personal data for evaluating loan applications, granting loans, collection of loans, and closure of loan accounts shall be subject to the following general guidelines:
 >
@@ -288,7 +290,7 @@ Clearly, the app’s access to the phone contacts, though limited to five (5) co
 
 In its Motion for Reconsideration, Pesopop represented that it “do[es] not have any intention to violate any data privacy law, rules and regulations, issuances and will always consider the privacy rights of its customer supreme.”[^45] Pesopop, however, continued to make the online lending application available for download during the Temporary Ban and it has not rectified its operations to comply with the DPA, its IRR, and the issuances of the Commission. As such, it has not sufficiently shown to satisfaction of the Commission that lifting the Temporary Ban imposed in the Order dated 12 August 2021 is warranted. It also appears from Pesopop’s actions that it had no intention to comply with the Order dated 12 August 2021 to justify the lifting of the Temporary Ban imposed on its processing of personal data.
 
-Given all these, the Commission finds that Pesopop violated the Temporary Ban imposed in the Order dated 12 August 2021. Rule IX Section 8 of NPC Circular No. 21-01 or the 2021 Rules of Procedure states:
+Given all these, the Commission finds that Pesopop violated the Temporary Ban imposed in the Order dated 12 August 2021. [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ix-ban-on-processing-of-personal-data|Rule IX Section 8]] of NPC Circular No. 21-01 or the 2021 Rules of Procedure states:
 
 > Section 8. Duration of temporary ban. – When issued, the **temporary ban on processing of personal data shall remain in effect until the final resolution of the main case**, or upon further orders by the Commission or other lawful authority.[^46]
 
@@ -388,15 +390,15 @@ GENERAL RECORDS UNIT
 
 [^29]: Motion to Admit with Compliance, 20 October 2021, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
-[^30]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], rule IX, § 3 (28 January 2021).
+[^30]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]] [NPC 2021 Rules of Procedure], rule IX, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ix-ban-on-processing-of-personal-data|§ 3]] (28 January 2021).
 
 [^31]: Order, 12 August 2021, at 11, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
 [^32]: Order, 12 August 2021, at 6–9, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
-[^33]: NPC 2021 Rules of Procedure, rule X.
+[^33]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC 2021 Rules of Procedure]], [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-x-sua-sponte-investigation|rule X]].
 
-[^34]: NPC 2021 Rules of Procedure, rule II § 4 (a).
+[^34]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC 2021 Rules of Procedure]], [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|rule II § 4 (a)]].
 
 [^35]: Order, 12 August 2021, at 11, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
@@ -408,11 +410,11 @@ GENERAL RECORDS UNIT
 
 [^39]: Enforcement Division Memorandum, 12 January 2022, at 5, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022).
 
-[^40]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 16 (2012).
+[^40]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes ([[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]), Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16]] (2012).
 
 [^41]: Enforcement Division Memorandum, 12 January 2022, at 3–4, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022) (pending).
 
-[^42]: National Privacy Commission, Guidelines on the Processing of Personal Data for Loan-Related Transactions, Circular No. 01, Series of 2020 [NPC Circ. No. 20-01], § 3 (A), (D) (28 January 2021).
+[^42]: National Privacy Commission, [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions]], Circular No. 01, Series of 2020 [NPC Circ. No. 20-01], § 3 (A), (D) (28 January 2021).
 
 [^43]: Enforcement Division Memorandum, 12 January 2022, at 5, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2022) (pending).
 
@@ -420,4 +422,4 @@ GENERAL RECORDS UNIT
 
 [^45]: Notice of Appearance with Motion for Reconsideration, 03 September 2021, at 5, in In re: Populus Lending Corporation and its Responsible Officers, NPC SS 21-008 (NPC 2021).
 
-[^46]: NPC 2021 Rules of Procedure, rule IX § 8 (28 January 2021).
+[^46]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC 2021 Rules of Procedure]], [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ix-ban-on-processing-of-personal-data|rule IX § 8]] (28 January 2021).

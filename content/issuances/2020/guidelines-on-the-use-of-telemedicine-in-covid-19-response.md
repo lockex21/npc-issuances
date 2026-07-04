@@ -11,6 +11,8 @@ tags:
 - issuance
 - type/memorandum-circular
 - year/2020
+- topic/consent
+- topic/security
 draft: false
 date: '2020-04-14'
 ---
@@ -71,7 +73,7 @@ Specific objectives are:
 5. Telemedicine refers to the practice of medicine by means of electronic and telecommunications technologies such as phone call, chat or short messaging service (SMS), audio- and video-conferencing to deliver healthcare at a distance between a patient at an originating site, and a physician at a distant site.
 
 **SECTION 5.** ***Declaration of Principles.*** The following principles govern the implementation of this Joint Memorandum Circular:
-1. Telemedicine services shall follow the standards of practice of medicine as defined under Republic Act No. 2382, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and other applicable policies and guidelines, taking into account the absence of physical contact. While telemedicine is encouraged, the gold standard for clinical care remains to be face-to-face consultation.
+1. Telemedicine services shall follow the standards of practice of medicine as defined under Republic Act No. 2382, its Implementing Rules and Regulations, and other applicable policies and guidelines, taking into account the absence of physical contact. While telemedicine is encouraged, the gold standard for clinical care remains to be face-to-face consultation.
 2. The patient-physician relationship shall be based on full knowledge of the patient's medical history and a physical examination given the circumstances of a lack of physical contact (i.e., by inspection only). Telemedicine shall be employed when a licensed physician is physically inaccessible (e.g. such as during a national emergency with community quarantine in effect, among others), in the management of chronic health conditions, or follow-up check-ups after initial treatment.
 3. The patient-physician relationship shall be founded on mutual trust and respect in which they both identify themselves reliably during a telemedicine consultation. In case the patient is referred to a health facility, the physician who initially sees the patient shall be responsible for the coordination of care.
 4. Emergency and serious conditions, where face-to-face assessment and physical contact are most essential, should not be managed via telemedicine.

@@ -8,6 +8,7 @@ tags:
   - overseas-workers
   - sensitive-personal-information
   - legal-claims
+  - topic/employment
 draft: false
 ---
 
@@ -125,7 +126,7 @@ Very truly yours,
 Privacy Commissioner
 
 [^1]: Tags: release of documents by government agencies; criteria for processing sensitive personal information; processing necessary for exercise or defense of legal claims.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 13.
-[^4]: National Privacy Commission, NPC Advisory Opinion No. 2019-013 (April 1, 2019).
-[^5]: Data Privacy Act of 2012, § 2.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13]].
+[^4]: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-013-npc-advisory-opinion-no-2019-013|NPC Advisory Opinion No. 2019-013]] (April 1, 2019).
+[^5]: [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Data Privacy Act of 2012, § 2]].

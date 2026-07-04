@@ -5,6 +5,12 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+  - topic/data-subject-rights
+aliases:
+  - "NPC Advisory Opinion No. 2019-051"
+  - "npc advisory opinion no. 2019-051"
+  - "Advisory Opinion No. 2019-051"
+  - "advisory opinion no. 2019-051"
 draft: false
 ---
 
@@ -79,10 +85,10 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: Data Privacy Act of 2012, §3(h) - Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf. The term excludes: (1) A person or organization who performs such functions as instructed by another person or organization; and (2) An individual who collects, holds, processes or uses personal information in connection with the individual’s personal, family or household affairs.
+[^1]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, §3(h)]] - Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf. The term excludes: (1) A person or organization who performs such functions as instructed by another person or organization; and (2) An individual who collects, holds, processes or uses personal information in connection with the individual’s personal, family or household affairs.
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34(e) (2016).
+[^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34(e)]] (2016).
 
 [^4]: Cashalo, Privacy Policy, available at https://www.cashalo.com/privacy-policy/ (last accessed Dec. 18, 2019). Emphasis supplied.

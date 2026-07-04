@@ -1,10 +1,16 @@
 ---
 title: "NPC Advisory Opinion No. 2024-010 — Disclosure of Cooperative Member's Loan Ledgers"
 description: "Guidance on disclosure of loan ledgers containing personal and financial data of cooperative members to other members."
+aliases:
+  - "NPC Advisory Opinion No. 2024-010"
+  - "npc advisory opinion no. 2024-010"
+  - "Advisory Opinion No. 2024-010"
+  - "advisory opinion no. 2024-010"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+  - "topic/consent"
 draft: false
 ---
 
@@ -56,7 +62,7 @@ Meanwhile, processing is defined as any operation or any set of operations perfo
 
 Thus, the disclosure of personal and sensitive personal information (collectively referred to as "personal data") from an individual or entity to another is considered processing under the DPA.
 
-In this case, the loan ledgers and statements of account (SOA) are documents that contain personal data as they necessarily include information about members such as their name, address, and contact details. We assume it also includes members' financial records and transaction histories. Hence, the processing either of the loan ledgers or SOA should be based on any of the following lawful criteria for processing under Sections 12 and 13 of the DPA, to wit:
+In this case, the loan ledgers and statements of account (SOA) are documents that contain personal data as they necessarily include information about members such as their name, address, and contact details. We assume it also includes members' financial records and transaction histories. Hence, the processing either of the loan ledgers or SOA should be based on any of the following lawful criteria for processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, to wit:
 
 > SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -81,13 +87,13 @@ In this case, the loan ledgers and statements of account (SOA) are documents tha
 
 Based on these provisions, lawful processing of personal data is not always anchored on consent, as there are other criteria which may be more appropriate that may be invoked by the personal information controller (PIC).
 
-Thus, the disclosure of the loan ledgers and/or SOAs of members to other members even without the member's consent is permissible if it is based on any of the circumstances cited under Sections 12 and 13.
+Thus, the disclosure of the loan ledgers and/or SOAs of members to other members even without the member's consent is permissible if it is based on any of the circumstances cited under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]].
 
 #### Appointment of Data Protection Officer; Obligations as PIC
 
 The decision to disclose personal data rests with and its process owner.[^6] If no process owner is identified, , through its Board or General Assembly and in consultation with its Data Protection Officer (DPO), may decide whether and how much personal data will be disclosed.[^7]
 
-Please note that NPC Circular 22-048[^8] requires PICs to designate and register a DPO, who shall be responsible for ensuring compliance with the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], NPC issuances, and other relevant laws. The DPO may be consulted and may be allowed to participate in meetings of senior and middle management to represent the interest of the members.
+Please note that [[issuances/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|NPC Circular 22-048]][^8] requires PICs to designate and register a DPO, who shall be responsible for ensuring compliance with the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], NPC issuances, and other relevant laws. The DPO may be consulted and may be allowed to participate in meetings of senior and middle management to represent the interest of the members.
 
 It is important to note that the registration and designation of a DPO is a legal requirement imposed upon PICs like . For further guidance, you may check https://privacy.gov.ph/appointing-a-data-protection-officer/.
 
@@ -101,7 +107,7 @@ These rights are likewise recognized in the Cooperative Development Authority (C
 
 As a PIC, is mandated by the DPA to adhere to the data privacy principles of transparency, legitimate purpose, and proportionality[^11]. The principle of transparency dictates that the data subject must be aware of the nature, purpose and the extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of the PIC, his or her rights as a data subject, and how these can be exercised[^12]. The principle of legitimate purpose mandates that the processing of personal data shall be compatible with a declared and specified purpose, which must not be contrary to law, morals, or public policy. Lastly, the principle of proportionality requires that the processing of personal information shall be adequate, suitable, necessary, and not excessive in relation to the purpose sought to be achieved by the PIC.
 
-Hence, should the disclose the information being requested, they must comply with the foregoing principles. Otherwise, it may not be considered as lawful processing under the DPA. Further, NPC Circular 2023-06[^13] requires PICs to implement reasonable and appropriate organizational, physical, and technical security measures to ensure the protection of personal information against any accidental or unlawful destruction, alteration, or disclosure, and against any other unlawful processing. As a PIC, the must consider the issues it may encounter in the improper disclosure of personal data. This also includes the requirement to conduct privacy impact assessments to identify and assess various privacy risks and propose measures intended to address and mitigate their effect on the data subjects.
+Hence, should the disclose the information being requested, they must comply with the foregoing principles. Otherwise, it may not be considered as lawful processing under the DPA. Further, [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular 2023-06]][^13] requires PICs to implement reasonable and appropriate organizational, physical, and technical security measures to ensure the protection of personal information against any accidental or unlawful destruction, alteration, or disclosure, and against any other unlawful processing. As a PIC, the must consider the issues it may encounter in the improper disclosure of personal data. This also includes the requirement to conduct privacy impact assessments to identify and assess various privacy risks and propose measures intended to address and mitigate their effect on the data subjects.
 
 We emphasize that the DPA, its IRR, and other issuances of the NPC do not prohibit cooperatives from conducting their day-to-day activities and transactions.
 
@@ -115,15 +121,15 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Id., §. 3(g)
-[^4]: Id., §. 3(l)
-[^5]: Id., §. 3(j)
-[^6]: Data Privacy Act of 2012, §. 20(e).
-[^7]: Data Privacy Act of 2012, §. 12.
-[^8]: National Privacy Commission, NPC Circular 2022-04 (05 December 2022)
-[^9]: Data Privacy Act of 2012, §. 16.
+[^2]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
+[^3]: Id., [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§. 3(g)]]
+[^4]: Id., [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§. 3(l)]]
+[^5]: Id., [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§. 3(j)]]
+[^6]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, §. 20(e)]].
+[^7]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, §. 12]].
+[^8]: National Privacy Commission, [[issuances/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|NPC Circular 2022-04]] (05 December 2022)
+[^9]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, §. 16]].
 [^10]: Cooperative Development Authority, Memorandum Circular No. 2023-14 (11 July 2023)
-[^11]: Data Privacy Act of 2012, §. 11.
-[^12]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule IV, § 18.
-[^13]: National Privacy Commission, NPC Circular 2023-06 (01 December 2023)
+[^11]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, §. 11]].
+[^12]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule IV, § 18]].
+[^13]: National Privacy Commission, [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular 2023-06]] (01 December 2023)

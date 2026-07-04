@@ -104,11 +104,9 @@ Suchrequestshouldbeacteduponwithreasonableturnaround
 
 timeconsideringthattherequestisoneoftherightsprovidedinthe
 
-Data Privacy Act (DPA) toeverydatasubject 1. Further, this
+[[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA) toeverydatasubject 1. Further, this
 
-obligationisinrelationto Section 28 (d) ofthe Implementing Rules
-
-and Regulationsofthe DPA.
+obligationisinrelationto [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|Section 28 (d) ofthe Implementing Rules and Regulationsofthe DPA]].
 
 Whilethe Commissionopinesthatthe Complaint
 
@@ -172,5 +170,5 @@ ENFORCEMENT DIVISION
 
 GENERAL RECORDS UNIT
 
-[^1]: Section 16 (b) (8), DPA
+[^1]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (b) (8), DPA]]
 [^2]: Alvarezv. Peopleofthe Philippines, G.R. No. 192591 , 30 July 2012 CID No. 17K-004

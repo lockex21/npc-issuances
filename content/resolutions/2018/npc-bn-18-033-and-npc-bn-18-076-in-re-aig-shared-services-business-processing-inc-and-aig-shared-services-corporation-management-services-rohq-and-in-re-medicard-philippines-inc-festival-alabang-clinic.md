@@ -9,6 +9,9 @@ tags:
 - type/resolution
 - year/2018
 - npc-case
+- topic/breach-notification
+- topic/employment
+- topic/security
 draft: false
 aliases:
 - '"NPC BN 18-033"'
@@ -881,9 +884,9 @@ breach and to implement security measures to prevent its recurrence.
 ### Discussion
 The Commission resolves to close the matter. The incident does not fall
 
-under mandatory breach notification under Section 11 of NPC Circular
+under mandatory breach notification under Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular
 
-16 -03 (Personal Data Breach Notification) . Only the first two requisites
+16 -03]] (Personal Data Breach Notification) . Only the first two requisites
 
 are present in this case. The third requisite of real risk of serious harm
 
@@ -977,7 +980,7 @@ National Privacy Commission, Personal Data Breach Management, Circular No. 03, S
 
 In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John
 
-Does and Jane Does, NPC SS 22 -001 and NPC SS 22 -008, 22 September 2022, at 19 , available at
+Does and Jane Does, [[decisions/2022/npc-ss-22-001-and-npc-ss-22-008-in-re-commission-on-elections|NPC SS 22 -001 and NPC SS 22 -008]], 22 September 2022, at 19 , available at
 
 https://privacy.gov.ph/wp -content/uploads/2023/05/NPC -SS -22 -001 -and -NPC -SS -22 -008 -
 
@@ -1000,9 +1003,9 @@ AIG Shared Services Corporation – Management Services (ROHQ)
 In re: Medicard Philippines, Inc. – Festival Alabang Clinic
 
 
-sensitive personal information under Section 3 (l) of Republic Act No.
+sensitive personal information under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of Republic Act No.
 
-10173 or the Data Privacy Act of 2012 (DPA).  68
+10173]] or the Data Privacy Act of 2012 (DPA).  68
 
 Further, the information involved  may enable identity fraud, sin ce it
 
@@ -1061,7 +1064,7 @@ See An Act Protecting Individual Personal Information in Information and Communi
 
 Systems in the Government and the Private Sector, Creating for this purpose a National Privacy
 
-Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act N o. 10173 § 3 (l)
+Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act N o. 10173 § 3 (l)]]
 
 (2012).
 
@@ -1207,7 +1210,7 @@ The Commission takes this opportunity to discuss the factors
 
 considered in determining the presence of the third requisite of
 
-mandatory breach notification. Section 11 (C) of NPC Circular 16 -03
+mandatory breach notification. Section 11 (C) of [[issuances/undated/personal-data-breach-management|NPC Circular 16 -03]]
 
 provides:
 
@@ -1396,7 +1399,7 @@ We very much regret to advise you that we recently became
 
 aware of an incident involving your sensitive personal data. In
 
-compliance with the Data Privacy Act (Republic Act 10173) and
+compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act (Republic Act 10173)]] and
 
 AIG Shared Services Data Privacy Reporting Procedure, we are
 
@@ -1483,7 +1486,7 @@ regarding the breach (sent on 12 March and 13 March 2018) , and
 
 confirmation of deletion from the four (4) recipients .99
 
-Section 18 (C) of NPC Circular 16 -03 provides the required content of
+Section 18 (C) of [[issuances/undated/personal-data-breach-management|NPC Circular 16 -03]] provides the required content of
 
 proper notification of affected data subjects:
 
@@ -1546,7 +1549,7 @@ at the same time, they may be provided in phases without
 
 undue delay. 100
 
-Further, Section 18 (D) of NPC Circular 16 -03 provides the required
+Further, Section 18 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16 -03]] provides the required
 
 form of proper notification:
 
@@ -1819,7 +1822,7 @@ The Commission finds that Medicard’s reasoning is not justified . If
 
 Medicard w as truly committed to complying with its obligations
 
-under the DPA , as it claims, it should have promptly notified both the
+under the [[laws/data-privacy-act-of-2012|DPA]] , as it claims, it should have promptly notified both the
 
 NPC and the affected data subjects upon receipt of AIGSS’ email
 
@@ -1916,7 +1919,7 @@ LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner
 
 
-Resolution, NPC BN 20 -149 In re: National Privacy Commission 20 August 2020 , at 6 (NPC 202 0)
+Resolution, [[resolutions/2020/npc-bn-20-149-in-re-national-privacy-commission|NPC BN 20 -149 In re: National Privacy Commission]] 20 August 2020 , at 6 (NPC 202 0)
 
 available at https://www.privacy.gov.ph/wp -content/uploads/2022/01/Resolution -NPC -BN -20 -
 

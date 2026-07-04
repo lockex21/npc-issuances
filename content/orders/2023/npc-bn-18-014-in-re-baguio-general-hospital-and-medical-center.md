@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2023"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/employment"
 date: "2023-11-13"
 draft: false
 ---
@@ -111,7 +113,7 @@ Moreover, BGHMC reiterated in its Compliance its request for exemption of data s
 
 The Commission denies the request for exemption of data subject notification and further directs BGHMC to notify the affected data subjects, submit proof of such notification, and implement additional measures to correct the breach.
 
-Section 18(A) of NPC Circular No. 16-03 provides:
+Section 18(A) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides:
 
 > SECTION 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -121,7 +123,7 @@ Section 18(A) of NPC Circular No. 16-03 provides:
 
 In this case, BGHMC failed to notify the data subjects arguing that there were affected data subjects who did not have contact numbers or complete addresses.[^49] The Commission finds the reason of BGHMC insufficient. Further, the Commission reminds the PICs of its obligation to notify the affected data subjects of breach incidents involving personal data as a general rule. Considering that the incident involves sensitive personal information, the data were acquired by an unauthorized person, and it is likely to give rise to a real risk of serious harm to the affected data subjects, thus, this case falls under the mandatory notification requirement.
 
-Section 11 of NPC Circular No. 16-03 provides for the requisites of mandatory data subject notification, thus:
+Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides for the requisites of mandatory data subject notification, thus:
 
 > SECTION 11. When notification is required. Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 >
@@ -131,7 +133,7 @@ Section 11 of NPC Circular No. 16-03 provides for the requisites of mandatory da
 
 It is well established that the matter requires mandatory data subject notification as contemplated in the above-stated provision. In this case, all the requisites for mandatory data subject notification are present such as the involvement of sensitive personal information, the data being unauthorized accessed by LuzonHealth's employee, and the unauthorized acquisition of the data will likely give rise to a real risk to the affected data subjects.
 
-Further, Section 3(l) of NPC Circular No. 16-03 provides:
+Further, Section 3(l) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides:
 
 > SECTION 3. Definition of Terms. For the purpose of this Circular, the following terms are defined, as follows:
 >
@@ -148,11 +150,11 @@ Further, the second element is also apparent in this case, considering that BGHM
 
 The third element is also present since the unauthorized acquisition of information by LuzonHealth's employees is likely to give rise to a real risk of serious harm to the affected data subjects since the laptop used in copying the information of the affected data subjects was brought out of BGHMC's premises.[^52] Thus, there is the possibility that the copied information by LuzonHealth's employees may be leaked or used which would lead to serious harm to the data subjects.
 
-In addition, it must be noted that there are one hundred three thousand and one hundred thirty-five (103,135) affected data subjects, which BGHMC must take into consideration in determining whether to notify the affected data subjects. Section 13(B) of NPC Circular No. 16-03 provides that when there is uncertainty as to the need for notification, it must be taken into consideration the number of data subjects such as when there are at least one hundred (100) individuals involved.[^53]
+In addition, it must be noted that there are one hundred three thousand and one hundred thirty-five (103,135) affected data subjects, which BGHMC must take into consideration in determining whether to notify the affected data subjects. Section 13(B) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides that when there is uncertainty as to the need for notification, it must be taken into consideration the number of data subjects such as when there are at least one hundred (100) individuals involved.[^53]
 
-BGHMC's requested for exemption of data subject notification since the complete address and/or contact number of the affected data subjects are not available. However, BGHMC failed to justify that notification of data subjects would not be in the public interest or in the interest of the affected data subjects as provided in Section 18(B) of NPC Circular No. 16-03. There is nothing in BGHMC's submission that would satisfy and warrant granting its request for exemption of data subject notification. Thus, the Commission denies its request for data subject notification exemption considering that its justification does not fall under the conditions in granting such request.
+BGHMC's requested for exemption of data subject notification since the complete address and/or contact number of the affected data subjects are not available. However, BGHMC failed to justify that notification of data subjects would not be in the public interest or in the interest of the affected data subjects as provided in Section 18(B) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]]. There is nothing in BGHMC's submission that would satisfy and warrant granting its request for exemption of data subject notification. Thus, the Commission denies its request for data subject notification exemption considering that its justification does not fall under the conditions in granting such request.
 
-Section 18(B) of NPC Circular No. 16-03 provides for the conditions when the Commission may allow Personal Information Controllers (PIC) to be exempted from data subject notification:
+Section 18(B) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides for the conditions when the Commission may allow Personal Information Controllers (PIC) to be exempted from data subject notification:
 
 > SECTION 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -162,7 +164,7 @@ Section 18(B) of NPC Circular No. 16-03 provides for the conditions when the Com
 >
 > The Commission may authorize the postponement of notification where it may hinder the progress of a criminal investigation related to a serious breach, taking into account circumstances provided in Section 13 of this Circular, and other risks posed by the personal data breach. (emphasis supplied)[^54]
 
-Additionally, Section 19 of NPC Circular No. 16-03 further provides additional factors in case of doubt in determining when the Commission may allow PICs to be exempted for data subject notification, thus:
+Additionally, Section 19 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] further provides additional factors in case of doubt in determining when the Commission may allow PICs to be exempted for data subject notification, thus:
 
 > SECTION 19. Exemption from Notification Requirements. The following additional factors shall be considered in determining whether the Commission may exempt a personal information controller from notification:
 >
@@ -186,7 +188,7 @@ In addition, to prevent similar instances from happening in the future, BGHMC is
 
 WHEREFORE, premises considered, the Commission **DENIES** Baguio General Hospital and Medical Center's request for exemption of data subject notification. Moreover, Baguio General Hospital and Medical Center is hereby **ORDERED** to **NOTIFY** the affected data subjects and **SUBMIT** proof of notification directly to the Compliance and Monitoring Division and to **IMPLEMENT** additional remedial measures to correct the breach from receipt of this Order within fifteen (15) days from receipt of this Order.
 
-Further, the Commission **DIRECTS** the Compliance and Monitoring Division to issue appropriate orders necessary to evaluate and monitor the completeness of the Baguio General Hospital and Medical Center data breach notification and assess its breach management pursuant to NPC Circular No. 16-03 (Personal Data Breach Management).
+Further, the Commission **DIRECTS** the Compliance and Monitoring Division to issue appropriate orders necessary to evaluate and monitor the completeness of the Baguio General Hospital and Medical Center data breach notification and assess its breach management pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management).
 
 **SO ORDERED.**
 
@@ -262,12 +264,12 @@ GENERAL RECORDS UNIT
 [^45]: Baguio General Hospital and Medical Center Letter (Compliance) dated 19 January 2022.
 [^46]: Id.
 [^47]: Id.
-[^48]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §18(A) (15 December 2016).
+[^48]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §18(A) (15 December 2016).
 [^49]: Baguio General Hospital and Medical Center Letter (Compliance) dated 19 January 2022.
-[^50]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule I, §3(L) (15 December 2016).
+[^50]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule I, §3(L) (15 December 2016).
 [^51]: Baguio General Hospital and Medical Center initial notification report dated 09 February 2018.
 [^52]: Id.
-[^53]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §13(B) (15 December 2016).
-[^54]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §18(B) (15 December 2016).
-[^55]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §19 (15 December 2016).
+[^53]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §13(B) (15 December 2016).
+[^54]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §18(B) (15 December 2016).
+[^55]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §19 (15 December 2016).
 [^56]: Baguio General Hospital and Medical Center Letter (Compliance) dated 20 January 2022.

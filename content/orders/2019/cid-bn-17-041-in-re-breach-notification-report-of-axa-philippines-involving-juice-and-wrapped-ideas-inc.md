@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2019"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2019-10-24"
 draft: false
 ---
@@ -35,7 +36,7 @@ x----------------------------------------------------x
 
 On 20 August 2019, the Commission issued a Resolution containing the following dispositive portion:
 
-> WHEREFORE, all premises considered, it is resolved that there are no notable findings requiring further action from this Commission with regard to the data breach subject of the notification, and that AXA Philippines is ordered to submit a comprehensive report stating the above specifications and in compliance with Section 9 of Circular No. 16-03 within thirty (30) days of receipt of Resolution.
+> WHEREFORE, all premises considered, it is resolved that there are no notable findings requiring further action from this Commission with regard to the data breach subject of the notification, and that AXA Philippines is ordered to submit a comprehensive report stating the above specifications and in compliance with Section 9 of [[issuances/undated/personal-data-breach-management|Circular No. 16-03]] within thirty (30) days of receipt of Resolution.
 
 On 27 September 2019, AXA submitted its Compliance Report detailing the description of the personal data breach; actions and decisions of the incident response team; post-breach review and the outcome of the breach management and difficulties encountered; and compliance with notification requirements and assistance provided to affected data subjects.
 
@@ -43,7 +44,7 @@ In its Compliance Report, AXA conveyed that on 14 December 2017, after the repor
 
 For its post-breach review, AXA reported having implemented several improvements such as: (1) an improved and revised Data Breach Management process; (2) regular meeting with the Data Privacy Committee; (3) policy to ensure the training of all employees on Data Privacy on at least an annual basis; (4) inclusion of data privacy in the internal quality assessment process; (5) required approval by the Data Protection Officer for projects and third party engagements in dealing with processing of personal information; and (6) an improved central repository and logging system for their documents.
 
-Upon review of the Compliance Report submitted by AXA Philippines on 27 September 2019, the Commission finds that AXA has timely complied with the Order of this Commission in the Resolution of NPC BN 17-041, dated 20 August 2019, to submit a comprehensive report. The Post-Breach Review Report of AXA is substantially in compliance with Section 9 of Circular No. 16-03.
+Upon review of the Compliance Report submitted by AXA Philippines on 27 September 2019, the Commission finds that AXA has timely complied with the Order of this Commission in the Resolution of NPC BN 17-041, dated 20 August 2019, to submit a comprehensive report. The Post-Breach Review Report of AXA is substantially in compliance with Section 9 of [[issuances/undated/personal-data-breach-management|Circular No. 16-03]].
 
 WHEREFORE, all premises considered, it is resolved that the matter of NPC BN 17-041 is hereby considered **CLOSED.**
 

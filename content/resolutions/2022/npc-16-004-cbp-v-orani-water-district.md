@@ -13,6 +13,9 @@ tags:
 - type/resolution
 - year/2022
 - npc-case
+- topic/data-sharing
+- topic/employment
+- topic/registration
 title: 'NPC 16-004: CBP v. Orani Water District'
 ---
 
@@ -50,7 +53,7 @@ This Commission resolves the sufficiency of Orani Water District’s (OWD) Priva
 
 ### Facts
 
-On 15 December 2017, the Commission issued a Decision requiring OWD to submit its Privacy Manual and Notices, and proof of participation in any orientation on the Data Privacy Act of 2012 (DPA):
+On 15 December 2017, the Commission issued a Decision requiring OWD to submit its Privacy Manual and Notices, and proof of participation in any orientation on the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (DPA)]]:
 
 WHEREFORE, premises considered, CDBJ and SRM, [officers of Orani Water District] are STERNLY WARNED that repetition of the same or similar acts will be dealt with more severely.
 
@@ -78,7 +81,7 @@ An agency should adhere to the principle of transparency or openness in the proc
 
 It directed OWD to submit within thirty (30) days from receipt of the letter a revised Privacy Manual and Notices that indicate the manner of verification and validation of the contents of employees’ PDS, and a detailed and concrete Security Incident Management Policy according
 
-to the DPA and Section 4 of NPC Circular No. 16-03 (Personal Data Breach Management).[^6]
+to the DPA and Section 4 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management).[^6]
 
 On 19 May 2021, OWD complied with the EnD’s directive and submitted its revised Privacy Manual and Notices, which includes its Security Incident Management Policy, for the Commission’s perusal.[^7]
 
@@ -176,7 +179,7 @@ Based on the EnD’s assessment, it determined that OWD has sufficiently complie
 
 1. On the functions of the Personal Information Controller (PIC), Data Protection Officer (DPO), and Compliance Officer for Privacy (COP):
 
-The revised OWD Privacy Manual was already updated, the provisions as to the PIC, DPO, and COP functions are now addressed in accordance and in compliance with NPC Advisory No. 2017-01. Further, the Manual now refers to OWD as the PIC, and its functions as the PIC are now clear and adequately discussed.[^25]
+The revised OWD Privacy Manual was already updated, the provisions as to the PIC, DPO, and COP functions are now addressed in accordance and in compliance with [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]]. Further, the Manual now refers to OWD as the PIC, and its functions as the PIC are now clear and adequately discussed.[^25]
 
 2. On OWD’s Measures on Storage, Retentions, and Disposal Procedure found under its Manual:
 
@@ -288,7 +291,7 @@ GENERAL RECORDS UNIT
 
 [^23]: *Id.*
 
-[^24]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 7(a), (d), (f) (2012). Emphasis supplied.
+[^24]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Republic Act No. 10173]] § 7(a), (d), (f) (2012). Emphasis supplied.
 
 [^25]: Final Enforcement Assessment Report, 26 November 2021, at 5, in CBP v. Orani Water District, NPC 16-004 (NPC 2021).
 

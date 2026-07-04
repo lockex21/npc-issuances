@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+aliases:
+  - "NPC Advisory Opinion No. 2017-003"
+  - "npc advisory opinion no. 2017-003"
+  - "Advisory Opinion No. 2017-003"
+  - "advisory opinion no. 2017-003"
 draft: false
 ---
 
@@ -38,7 +43,7 @@ We confirm that banks and other financial institutions are covered by the DPA, i
 
 Regarding Section 5(e) of the IRR, it is important to note that the exemptions and/or special cases provided in the DPA and its IRR all pertain to specific types of information, and not those persons engaged in the processing thereof. Moreover, the exemption is not absolute. Even in those instances wherein the information being processed may be considered outside the scope of the law, the IRR clarifies that the processing shall be exempt from the requirements of the law "only to the minimum extent necessary to achieve the specific purpose, function, or activity."[^2]
 
-Established in 1963, LBP is considered a specialized government bank that has a universal banking license.[^3] Its major roles include: (1) implementing the Comprehensive Agrarian Reform Program of the government; (2) providing assistance to small farmers and fisher folk; (3) serving as an official depository of government funds; and (4) encouraging countryside development.[^4] As such, it is obliged to comply with the data privacy law, similar to any other bank or financial institution engaged in the processing of personal data. It must also abide by all applicable issuances of the NPC, such as NPC Circular Nos. 16-01 (Security of Personal Data in Government Agencies) and 16-02 (Data Sharing Agreements involving Government Agencies).
+Established in 1963, LBP is considered a specialized government bank that has a universal banking license.[^3] Its major roles include: (1) implementing the Comprehensive Agrarian Reform Program of the government; (2) providing assistance to small farmers and fisher folk; (3) serving as an official depository of government funds; and (4) encouraging countryside development.[^4] As such, it is obliged to comply with the data privacy law, similar to any other bank or financial institution engaged in the processing of personal data. It must also abide by all applicable issuances of the NPC, such as [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular Nos. 16-01 (Security of Personal Data in Government Agencies)]] and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|16-02 (Data Sharing Agreements involving Government Agencies)]].
 
 For your reference.
 
@@ -53,7 +58,7 @@ IVY D. PATDU
 Deputy Privacy Commissioner,
 Policy and Planning
 
-[^1]: IRR of RA 10173, § 4.
-[^2]: *Id.*, § 5.
+[^1]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|IRR of RA 10173, § 4]].
+[^2]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5]].
 [^3]: Corporate Profile, Landbank of the Philippines, accessed on 19 December 2016, available at https://www.landbank.com/corporate-profile.
 [^4]: Major Roles of Landbank, accessed on 19 December 2016, available at https://www.landbank.com/major-roles-of-landbank.

@@ -1,10 +1,17 @@
 ---
 title: "NPC Advisory Opinion No. 2022-022 — Disclosure of COVID-19 Swab Test Results in Group Chat"
 description: "We respond to your request for clarification on the data privacy implication of a proposed internal practice of disclosing COVID-19 test results in your office’s group chat."
+aliases:
+  - "NPC Advisory Opinion No. 2022-022"
+  - "npc advisory opinion no. 2022-022"
+  - "Advisory Opinion No. 2022-022"
+  - "advisory opinion no. 2022-022"
 tags:
   - issuance
   - "type/advisory-opinion"
   - "year/2022"
+  - topic/consent
+  - topic/employment
 draft: false
 ---
 
@@ -119,7 +126,7 @@ of personal data of employees under the circumstances.
 Consent not the appropriate basis for disclosure of
 COVID-19 swab test results
 
-Under the DPA, consent of the data subject that is freely given, specific, and informed, is
+Under the [[laws/data-privacy-act-of-2012|DPA]], consent of the data subject that is freely given, specific, and informed, is
 recognized as one of the lawful criteria for processing.[^6] In the present case, however, the
 parties do not stand on equal footing. In the field of data protection and privacy, it has been
 recognized that there is a clear imbalance of power between the employer and the employee
@@ -162,9 +169,9 @@ FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
 [^1]: Tags: COVID-19, swab test results, contact tracing, sensitive personal information, disclosure.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: See National Privacy Commission, NPC Advisory Opinion No. 2020-022 (8 June 2022).
 [^4]: See National Privacy Commission, Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures, NPC Circular No. 2021-02 [NPC Circular 21-02] (08 November 2021).
 [^5]: Department of Health, Update Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease (COVID19) Cases, Department Memorandum No. 2020-0189 (17 April 2020).
-[^6]: Data Privacy Act of 2012, § 3 (b).
+[^6]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (b)]].
 [^7]: See Article 29 Working Party, Opinion 8/2001 on the processing at work (13 September 2001) available at https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2001/wp48_en.pdf (last accessed 31 March 2022).

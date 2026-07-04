@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2025"
+  - "topic/security"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-009"
+  - "npc advisory opinion no. 2025-009"
+  - "Advisory Opinion No. 2025-009"
+  - "advisory opinion no. 2025-009"
 ---
 
 ## Source
@@ -23,7 +29,7 @@ Dear [Redacted],
 
 Greetings from the National Privacy Commission!
 
-We respond to your request for an Advisory Opinion seeking guidance on whether the unauthorized removal of student Transcript of Records (TORs) by university personnel violates the provisions of Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA).
+We respond to your request for an Advisory Opinion seeking guidance on whether the unauthorized removal of student Transcript of Records (TORs) by university personnel violates the provisions of [[laws/data-privacy-act-of-2012|Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA)]].
 
 In your letter-request, you mention that your university follows an established protocol whereby TORs from external campuses are delivered to the OUR for verification and thereafter handed to the University Registrar for signing within the OUR premises. However, from October 2024 to 6 February 2025, a Registrar II retained verified TORs and brought them to a Registrar IV for signing in another office outside the OUR premises. Further, on at least two occasions, the Registrar II also handed several TORs to the Registrar IV's spouse—an employee of the Supplies Office—for further transmission, without the knowledge or approval of the University Registrar or the University President.
 
@@ -51,7 +57,7 @@ sensitive educational records. Any deviation from this protocol, such as removin
 OUR without authority and handling them in unsecured locations outside the designated office—
 represents a failure to comply with these organizational safeguards.
 
-Based on the limited facts available, there is no conclusive basis to determine whether the acts described constitute punishable acts under the DPA, such as unauthorized processing (Sec. 25), unauthorized access (Sec. 26), or unauthorized disclosure (Sec. 29). The personnel involved were
+Based on the limited facts available, there is no conclusive basis to determine whether the acts described constitute punishable acts under the DPA, such as unauthorized processing ([[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Sec. 25]]), unauthorized access (Sec. 26), or unauthorized disclosure ([[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Sec. 29]]). The personnel involved were
 authorized to process student records by virtue of their positions, and no actual proof of
 unauthorized disclosure has been presented based on your query.
 
@@ -61,7 +67,7 @@ unauthorized disclosure has been presented based on your query.
 
 Based on the facts provided, the acts described may not be considered outright a punishable violation under the DPA. The personnel involved were authorized to process student records by virtue of their positions, and no proof of unauthorized disclosure has been presented. Nonetheless, whether a violation of the DPA may be established will ultimately depend on the results of the University’s internal investigation or other fact-finding, which may bring to light circumstances not reflected in the present request.
 
-Accordingly, their accountability may more appropriately be pursued through the University’s policies and internal administrative and disciplinary mechanisms, consistent with due process. Should further facts establish willful or negligent violations of the DPA itself, the personnel may fall within the scope of administrative sanctions under NPC Circular No. 2022-01[^11] as natural persons processing personal data or under the DPA itself.
+Accordingly, their accountability may more appropriately be pursued through the University’s policies and internal administrative and disciplinary mechanisms, consistent with due process. Should further facts establish willful or negligent violations of the DPA itself, the personnel may fall within the scope of administrative sanctions under [[issuances/2022/guidelines-on-administrative-fines|NPC Circular No. 2022-01]][^11] as natural persons processing personal data or under the DPA itself.
 
 It is worth noting that one of the employees previously served as the university’s Data Protection Officer, which may be relevant in assessing the gravity of the infraction.
 
@@ -83,5 +89,5 @@ OIC-Director IV, Privacy Policy Office
 [^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, Rule IV, § 20 (2016).
 [^8]: Id. § 26.
 [^9]: Id. § 26.
-[^10]: National Privacy Commission, Guidelines on Administrative Fines, NPC Circular No. 2022-01 (August 08, 2022).
+[^10]: National Privacy Commission, Guidelines on Administrative Fines, [[issuances/2022/guidelines-on-administrative-fines|NPC Circular No. 2022-01]] (August 08, 2022).
 [^11]: Id.

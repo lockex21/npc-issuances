@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2022-07-14"
 draft: false
 ---
@@ -73,7 +74,7 @@ The Commission resolves to deny the request for postponement of notification of 
 
 The Commission finds that the case falls under the mandatory breach notification requirement and notification of the affected data subjects is necessary in order to protect them from the risk of serious harm. As
 
-provided in Rule V, Section 11 of NPC Circular No. 16-03 (Personal Data Breach Management):
+provided in Rule V, Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management):
 
 > **SECTION 11. *When notification is required.* Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:**
 >
@@ -105,7 +106,7 @@ This Commission finds that the notification to the affected data subjects is nec
 
 Equicom’s justification for postponement is anchored on its claim that the breach is “currently undergoing investigation.”[^29] However, the Commission is not persuaded by the justification.
 
-Rule V, Section 18(B) of NPC Circular No. 16-03 provides that the Commission “may authorize the postponement of notification if such notification may hinder the progress of a criminal investigation related to a serious breach, taking into account circumstances provided in Section 13 of this Circular, and other risks posed by the personal data breach.”[^30] (Emphasis supplied)
+Rule V, Section 18(B) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides that the Commission “may authorize the postponement of notification if such notification may hinder the progress of a criminal investigation related to a serious breach, taking into account circumstances provided in Section 13 of this Circular, and other risks posed by the personal data breach.”[^30] (Emphasis supplied)
 
 Here, Equicom has not provided enough proof to show that there is an ongoing criminal investigation. The mere mention that it is “currently undergoing investigation”[^31] does not suffice. Thus, the Commission cannot grant its request to postpone the notification to the nineteen (19) clients whose bank accounts are subject to unauthorized fund transfers.
 
@@ -119,9 +120,9 @@ However, Equicom has yet to submit its Full Breach Report which includes the des
 
 Equicom is hereby **ORDERED**, within fifteen (15) days from receipt of this Resolution, to comply with the following:
 
-1. **NOTIFY** the affected data subjects, pursuant to Section 18 of the NPC Circular No. 16-03, and submit proof of compliance thereof, including the proof of receipt of the data subjects of such notification;
+1. **NOTIFY** the affected data subjects, pursuant to Section 18 of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], and submit proof of compliance thereof, including the proof of receipt of the data subjects of such notification;
 
-2. **SUBMIT** a Full Breach Report pursuant to Sections 17(D) in relation to Section 9 of NPC Circular No. 16-03; and
+2. **SUBMIT** a Full Breach Report pursuant to Sections 17(D) in relation to Section 9 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]]; and
 
 3. **SUBMIT** proof of security measures.
 
@@ -172,16 +173,16 @@ National Privacy Commission
 [^18]: *Id.*, 3.e Measures to prevent recurrence of incidence
 [^19]: In re: Equicom Savings Bank, NPC BN 22-094, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), 3.d Actions to inform data subjects of Equicom Savings Bank (01 July 2022).
 [^20]: *Id.* Type of Request.
-[^21]: NPC Circular No. 16-03, Rule V, § 11.
+[^21]: [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], Rule V, § 11.
 [^22]: *Id.*
 [^23]: In re: Equicom Savings Bank, NPC BN 22-094, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), 2.b Other info that may enable identity fraud (01 July 2022).
 [^24]: *Id.* 1.b. Chronology
 [^25]: In re: Equicom Savings Bank, NPC BN 22-094, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), 1.c Number of DS / Records of Equicom Savings Bank (01 July 2022).
 [^26]: *Id.* 3.d Actions to inform data subjects
-[^27]: NPC Circular No. 16-03, Rule V, § 18(A).
-[^28]: NPC Circular No. 16-03, Rule V, § 18(B).
+[^27]: [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], Rule V, § 18(A).
+[^28]: [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], Rule V, § 18(B).
 [^29]: In re: Equicom Savings Bank, NPC BN 22-094, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), Justification for postponement of Equicom Savings Bank (01 July 2022).
-[^30]: NPC Circular No. 16-03, Rule V, § 18(B).
+[^30]: [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], Rule V, § 18(B).
 [^31]: In re: Equicom Savings Bank, NPC BN 22-094, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), Justification for postponement of Equicom Savings Bank (01 July 2022).
 [^32]: In re: Equicom Savings Bank, NPC BN 22-094, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), ¶¶ of Equicom Savings Bank (01 July 2022).
-[^33]: NPC Circular 16-03, Rule IV, § 9.
+[^33]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], Rule IV, § 9.

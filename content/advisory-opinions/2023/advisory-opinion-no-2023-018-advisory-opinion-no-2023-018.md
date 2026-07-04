@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2023"
+aliases:
+  - "NPC Advisory Opinion No. 2023-018"
+  - "npc advisory opinion no. 2023-018"
+  - "Advisory Opinion No. 2023-018"
+  - "advisory opinion no. 2023-018"
 draft: false
 ---
 
@@ -32,11 +37,11 @@ You mention that PDEA-NCR’s anti-drug operations reveal that condominium units
 
 However, reports from several PDEA-NCR district offices reveal that most of the CAMOs hesitate to provide the requested information due to the perceived violation of the data privacy rights of the condominium unit owners/tenants. You also inform that barangay officials share in PDEA-NCR’s dilemma in connection with their barangay drug clearing programs.
 
-Thus, you ask if the CAMOs within PDEA-NCR’s jurisdiction can rightfully refuse the request for information citing the Data Privacy Act of 2012 (DPA).[^1]
+Thus, you ask if the CAMOs within PDEA-NCR’s jurisdiction can rightfully refuse the request for information citing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^1]
 
 #### Personal Data; Special Cases; Lawful Processing; Mandate of PDEA
 
-The DPA applies to the processing of personal and sensitive personal information (collectively, personal data) and to any natural and juridical person involved in the processing within and outside the Philippines. Information about the identity of a person and his or her corresponding address qualifies as personal data that is subject to protection under the DPA. The processing of personal data must be based on any of the grounds provided in Sections 12 or 13 of the DPA. Some of the provisions relevant to your concern are the following:
+The DPA applies to the processing of personal and sensitive personal information (collectively, personal data) and to any natural and juridical person involved in the processing within and outside the Philippines. Information about the identity of a person and his or her corresponding address qualifies as personal data that is subject to protection under the DPA. The processing of personal data must be based on any of the grounds provided in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA. Some of the provisions relevant to your concern are the following:
 
 > **SEC. 12. Criteria for Lawful Processing of Personal Information.** – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists: xxx
 >
@@ -150,13 +155,13 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: *Id.*, §12 (a), (e).
-[^3]: *Id.*, §13 (a), (b).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^2]: *Id.*, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12]] (a), (e).
+[^3]: *Id.*, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§13]] (a), (b).
 [^4]: An Act Instituting the Comprehensive Dangerous Drugs Act of 2002, Repealing Republic Act No. 6425, otherwise known as the Dangerous Drugs Act of 1972, as amended, providing funds therefor and for other purposes [Comprehensive Dangerous Drugs Act of 2002] (2002), §84(b).
 [^5]: Comprehensive Dangerous Drugs Act of 2002, §84(c).
 [^6]: PDEA Code of Professional Conduct and Ethical Standards, §1(l).
 [^7]: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-028-disclosure-of-personal-information-of-tenants-by-a-condominium-corporation-to-the-bureau-of-internal-revenue|NPC Advisory Opinion No. 2021-028]] (16 July 2021).
-[^8]: Republic Act No. 10173, §11(a).
-[^9]: *Id.* §13(c).
-[^10]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §18 (c) (2016).
+[^8]: Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§11(a)]].
+[^9]: *Id.* [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§13(c)]].
+[^10]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§18 (c)]] (2016).

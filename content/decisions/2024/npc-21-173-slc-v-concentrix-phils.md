@@ -6,6 +6,8 @@ tags:
   - type/decision
   - year/2021
   - npc-case
+  - topic/employment
+  - topic/security
 aliases:
   - "NPC 21-173"
   - "npc 21-173"
@@ -137,7 +139,7 @@ According to the Acknowledgement Receipt, SLC claimed the following documents fr
 
 Given the foregoing, Concentrix stated that it did not receive the SSS Sickness Notification Form from SLC.
 
-Concentrix also argued that it is not liable for Improper Disposal under Section 27 of the DPA.[^64]
+Concentrix also argued that it is not liable for Improper Disposal under [[laws/data-privacy-act-of-2012#section-27-improper-disposal-of-personal-information-and-sensitive-personal-information|Section 27 of the DPA]].[^64]
 
 First, Concentrix argued that it did not receive SLC’s missing SSS Sickness Notification Form. As such, “there is no personal information or sensitive personal information therein about [SLC] which [Concentrix] could have improperly disposed.”[^65]
 
@@ -298,7 +300,7 @@ Between SLC and Concentrix, Concentrix, as the PIC, is in a better position to p
 
 The Commission sternly reminds Personal Information Controllers (PICs) of their continuing obligation to ensure that the personal data they process, whether offline or online, are properly protected. The Commission has explained that PICs must implement, monitor, evaluate, and update their security measures considering the risks that data subjects are exposed to.[^132]
 
-Section 20 (a) and (c) of the DPA provide the PIC’s obligation to implement measures for the protection of personal information:
+[[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) and (c) of the DPA]] provide the PIC’s obligation to implement measures for the protection of personal information:
 
 > **Section 20. Security of Personal Information.**
 >
@@ -318,12 +320,12 @@ Section 20 (a) and (c) of the DPA provide the PIC’s obligation to implement me
 
 In this case, Concentrix failed to show how it handled SLC’s submitted documents. Concentrix also failed to show that its process for handling documents had sufficient safeguards to protect the personal data involved. The documents submitted by Concentrix’s employees, particularly those related to medical benefits and procedures like SLC’s, contain both personal and sensitive personal information. Since there is no secure process for handling these documents, however, Concentrix’s data subjects are exposed to higher levels of risk. Concentrix should have ensured that a reliable system with appropriate security measures and secure processes for tracking the receipt, processing, and storage of documents received from its employees was in place.
 
-The DPA provides that restitution for any aggrieved party shall be governed by the provisions of the New Civil Code.[^134] Article 2221 of the New Civil Code provides:
+The [[laws/data-privacy-act-of-2012#section-37-restitution|DPA provides that restitution]] for any aggrieved party shall be governed by the provisions of the New Civil Code.[^134] Article 2221 of the New Civil Code provides:
 
 > **Article 2221. Nominal damages** are adjudicated in order that a right of the plaintiff, which has been violated or invaded by the defendant, may be vindicated or recognized, and not for the purpose of indemnifying the plaintiff for any loss suffered by him.[^135]
 
-> 133 Data Privacy Act of 2012, § §20 (a), (c)(4).
-> 134 Id. §37.
+> 133 [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, § §20 (a), (c)(4)]].
+> 134 [[laws/data-privacy-act-of-2012#section-37-restitution|Id. §37]].
 > 135 An Act to Ordain and Institute the Civil Code of the Philippines [C IVIL CODE ], Republic Act
 > No. 386, art. 2221 (1950). NPC 21 -173
 
@@ -468,7 +470,7 @@ GENERAL RECORDS UNIT
 [^92]: Id. at 1-2.
 [^93]: Memorandum, 25 March 2022, in SLC v. Concentrix Philippines, NPC 21-173 (NPC 2021).
 [^94]: Comment, 16 December 2021, in SLC v. Concentrix Philippines, NPC 21-173 (NPC 2021).
-[^95]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 27 (2012).
+[^95]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-27-improper-disposal-of-personal-information-and-sensitive-personal-information|Republic Act No. 10173 § 27]] (2012).
 [^96]: Id.
 [^97]: Id.
 [^98]: Comment, 16 December 2021, at 3-4, in SLC v. Concentrix Philippines, NPC 21-173 (NPC 2021).
@@ -493,7 +495,7 @@ GENERAL RECORDS UNIT
 [^117]: Id. at 14.
 [^118]: Id.
 [^119]: Id.
-[^120]: Data Privacy Act of 2012, § 27.
+[^120]: [[laws/data-privacy-act-of-2012#section-27-improper-disposal-of-personal-information-and-sensitive-personal-information|Data Privacy Act of 2012, § 27]].
 [^121]: 2019 REVISED RULES ON EVIDENCE, rule 131, § 1.
 [^122]: Complaints-Assisted Form, 16 August 2021, at 15, in SLC v. Concentrix Philippines, NPC 21-173 (NPC 2021).
 [^123]: Id. at 9-20; Comment, 16 December 2021, Annex A-C, in SLC v. Concentrix Philippines, NPC 21-173 (NPC 2021).
@@ -506,9 +508,9 @@ GENERAL RECORDS UNIT
 [^130]: Complaints-Assisted Form, 16 August 2021, at 15, in SLC v. Concentrix Philippines, NPC 21-173 (NPC 2021).
 [^131]: St. Martin Polyclinic, Inc. v. LWV Construction Corporation, G.R. No. 217426 (2017).
 [^132]: NMF v. Bank of the Philippine Islands Family – Credit Card Division, [[decisions/2023/npc-19-1273-nfm-v-bpi|NPC 19-1273]], 19 January 2023, at 12, available at https://privacy.gov.ph/wp-content/uploads/2023/09/NPC-19-1273-NFM-v.-BPI-Decision.pdf.
-[^133]: Data Privacy Act of 2012, §§ 20 (a), (c)(4).
-[^134]: Id. § 37.
+[^133]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, §§ 20 (a), (c)(4)]].
+[^134]: [[laws/data-privacy-act-of-2012#section-37-restitution|Id. § 37]].
 [^135]: An Act to Ordain and Institute the Civil Code of the Philippines [CIVIL CODE], Republic Act No. 386, art. 2221 (1950).
-[^136]: Data Privacy Act of 2012, § 20 (c)(4).
+[^136]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, § 20 (c)(4)]].
 [^137]: Serrano v. Court of Appeals, 363 SCRA 223, 231 (2001).
 [^138]: NMF v. Bank of the Philippine Islands Family – Credit Card Division, NPC 19-1273, at 13.

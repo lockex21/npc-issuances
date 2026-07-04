@@ -5,6 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2024
+  - topic/ai
+  - topic/data-subject-rights
+aliases:
+  - "NPC Advisory Opinion No. 2024-002"
+  - "npc advisory opinion no. 2024-002"
+  - "Advisory Opinion No. 2024-002"
+  - "advisory opinion no. 2024-002"
 draft: false
 ---
 
@@ -30,7 +37,7 @@ We provide this Advisory Opinion upon the referral of the Department of Informat
 
 According to the Organization for Economic Co-operation and Development (OECD), "[a]n AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment."[^2]
 
-We reiterate the discussion in our 18 August 2023 letter that, at present, we see no manifest conflict with the use of AI in relation to the provisions of the Data Privacy Act of 2012 (DPA).[^3] The DPA recognizes the policy of the State to ensure the free flow of information and to promote innovation and growth, alongside its duty to protect the fundamental human rights of privacy and of communication.
+We reiterate the discussion in our 18 August 2023 letter that, at present, we see no manifest conflict with the use of AI in relation to the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^3] The DPA recognizes the policy of the State to ensure the free flow of information and to promote innovation and growth, alongside its duty to protect the fundamental human rights of privacy and of communication.
 
 [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] states that the law applies to the processing of all types of personal information, save for some exceptions. The DPA does not distinguish as to the type of technology used in the processing of personal information. Hence, whether the processing uses AI technology or not, the processing must abide by the provisions of the DPA as with other means and methods of processing information.
 
@@ -64,6 +71,6 @@ cc:
 
 [^2]: Organization for Economic Co-operation and Development (OECD), AI terms & concepts, available at: https://oecd.ai/en/ai-principles [last accessed date: 15 January 2024].
 
-[^3]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
 [^4]: Organization for Economic Co-operation and Development (OECD), Recommendation of the Council on Artificial Intelligence [OECD/Legal/0449], available at: https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449#:~:text=The%20OECD's%20work%20on%20Artificial,respond%20to%20key%20global%20challenges. [last accessed date: 15 January 2024]

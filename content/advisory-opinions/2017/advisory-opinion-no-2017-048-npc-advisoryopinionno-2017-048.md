@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/data-sharing
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2017-048"
+  - "npc advisory opinion no. 2017-048"
+  - "Advisory Opinion No. 2017-048"
+  - "advisory opinion no. 2017-048"
 ---
 
 ## Source

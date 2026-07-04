@@ -9,6 +9,11 @@ tags:
   - health-information
   - sensitive-data
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-029"
+  - "npc advisory opinion no. 2018-029"
+  - "Advisory Opinion No. 2018-029"
+  - "advisory opinion no. 2018-029"
 ---
 
 ## Source
@@ -55,7 +60,7 @@ It consists of replacing one attribute (typically a unique attribute) in a recor
 
 But note that pseudonymization of personal data does not change the nature of the data — it remains to be personal data.
 
-Thus, the HMOs and the brokers processing pseudonymized personal data are considered as personal information controllers which must have a basis for lawful processing under Sections 12 and 13 of the DPA, respectively. They must adhere to the general data privacy principles, implement reasonable and appropriate organizational, physical and technical security measures for the protection of personal data, and must at all times, uphold data subjects' rights.
+Thus, the HMOs and the brokers processing pseudonymized personal data are considered as personal information controllers which must have a basis for lawful processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, respectively. They must adhere to the general data privacy principles, implement reasonable and appropriate organizational, physical and technical security measures for the protection of personal data, and must at all times, uphold data subjects' rights.
 
 This opinion is being rendered based on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of the facts.
 

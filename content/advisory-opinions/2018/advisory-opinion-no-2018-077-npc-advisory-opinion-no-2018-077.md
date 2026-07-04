@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2018"
+  - "topic/legitimate-interest"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-077"
+  - "npc advisory opinion no. 2018-077"
+  - "Advisory Opinion No. 2018-077"
+  - "advisory opinion no. 2018-077"
 ---
 
 ## Source
@@ -39,8 +45,8 @@ part as follows:
 
 We understand that both the 4Ps and the Social Pension for Indigent Senior Citizens Program
 are government programs under the DSWD aimed at providing assistance to indigents. Both
-programs, in processing personal information of beneficiaries, are covered by the Data Privacy
-Act of 2012[^2] (DPA).
+programs, in processing personal information of beneficiaries, are covered by the [[laws/data-privacy-act-of-2012|Data Privacy
+Act of 2012]][^2] (DPA).
 
 1. Would the names of the beneficiaries be considered as personal information or sensitive
    personal information?
@@ -96,7 +102,7 @@ or upon order of the House:
            enacting new or additional legislation addressing subjects within their respective
            jurisdictions.[^8]
 
-Note that Section 12 of the DPA provides for the criteria for lawful processing of personal
+Note that [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] provides for the criteria for lawful processing of personal
 information. Included among these is the criterion relating to the mandate of public authorities,
 i.e. when “processing is necessary in order to respond to national emergency, to comply with
 the requirements of public order and safety, or to fulfill functions of public authority which
@@ -107,7 +113,7 @@ Committee on Appropriations may be founded on the fulfillment of the mandate of 
 Committee exercising its oversight function.
 
 4. Again assuming the names and other information of beneficiaries are considered merely
-   “personal information” and not “sensitive personal information”, under Section 12(f) of the DPA, the same may be processed when “The processing is necessary for the purposes
+   “personal information” and not “sensitive personal information”, under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]], the same may be processed when “The processing is necessary for the purposes
    of the legitimate interests pursued by the personal information controller or by a third
    party or parties to whom the data is disclosed.” In this instance, would the “oversight
    function of Congress qualify as a “legitimate interest” of the Congress?
@@ -117,7 +123,7 @@ or mandated by a law, rule or regulation. Hence, legitimate interest of governme
 have statutory or constitutional basis.
 
 However, as discussed above, the disclosure of information by the DSWD to the Committee
-may be based on the fulfillment of the functions of a public authority under Section 12 (e) of the DPA.
+may be based on the fulfillment of the functions of a public authority under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e) of the DPA]].
 
 5. Assuming the names and other information of beneficiaries are considered merely
    “sensitive personal information” (and not merely “personal information”), under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]], the same may be processed when “The processing concerns such
@@ -202,7 +208,7 @@ for Data Processing Systems
 
 [^1]: Tags: personal information, sensitive personal information, public authority, oversight function, proportionality
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, (2012).
 
 [^3]: Id. 3 (g).
 
@@ -216,11 +222,11 @@ for Data Processing Systems
 
 [^8]: Id.
 
-[^9]: Data Privacy Act of 2012, § 12 (e).
+[^9]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (e)]].
 
-[^10]: Data Privacy Act of 2012, § 38.
+[^10]: [[laws/data-privacy-act-of-2012#section-38-interpretation|Data Privacy Act of 2012, § 38]].
 
-[^11]: National Privacy Commission, Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making, Circular No. 17-01 [NPC Circular 17-01], § 5 (c) (3) (July 31, 2017).
+[^11]: National Privacy Commission, Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making, [[issuances/undated/registration-of-data-processing-systems|Circular No. 17-01]] [NPC Circular 17-01], § 5 (c) (3) (July 31, 2017).
 
 [^12]: Article 29 Data Protection Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is "likely to result in a high risk" for the purposes of Regulation 2016/679, Item III (B)(a)(7), 4 April 2017, available at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236, (last accessed 12 Oct 2018).
 

@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/breach-notification
 date: "2021-03-25"
 draft: false
 ---
@@ -62,7 +63,7 @@ After its receipt of the Resolution on 18 January 2021, Sun Life submitted its C
 
 Upon reviewing of the Compliance Letter submitted by Sun Life, this Commission finds that Sun Life has fully complied with the order of the Commission in its Resolution dated 21 May 2020.
 
-As provided in Section 9 of the NPC Circular No. 16-03 (Personal Data Breach Management), all actions that are implemented by a Personal Information Controller (PIC) shall be properly documented, which shall include the following:
+As provided in Section 9 of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management), all actions that are implemented by a Personal Information Controller (PIC) shall be properly documented, which shall include the following:
 
 A. Description of the personal data breach, its root cause and circumstances regarding its discovery;
 B. Actions and decisions of the incident response team;
@@ -116,4 +117,4 @@ ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 National Privacy Commission
 
-[^1]: Section 9 of NPC Circular 16-03
+[^1]: Section 9 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]

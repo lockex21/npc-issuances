@@ -5,6 +5,14 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/consent
+  - topic/data-sharing
+  - topic/fees-and-payments
+aliases:
+  - "NPC Advisory Opinion No. 2018-036"
+  - "npc advisory opinion no. 2018-036"
+  - "Advisory Opinion No. 2018-036"
+  - "advisory opinion no. 2018-036"
 draft: false
 ---
 
@@ -52,13 +60,13 @@ As mentioned above, the contemplated transfer of terminal fees collected, includ
 
 Considering the foregoing, the contemplated transfer of collected fees and personal data from the air carriers to MIAA falls squarely under the meaning of data sharing. Thus, a data sharing agreement is required.
 
-Subject to the separate determination of whether this proposed transfer of responsibility in refunding terminal fees to the MIAA is operationally feasible, it is recommended that an amendment of the existing Memorandum of Agreement between MIAA and the air carriers regarding the Passenger Service Charge (PSC) be made to include the required contents of a DSA pursuant to NPC Circular No. 16-02, and incorporate the data privacy principles, enforcement of the rights of data subjects, and implementation of appropriate security measures.[^6]
+Subject to the separate determination of whether this proposed transfer of responsibility in refunding terminal fees to the MIAA is operationally feasible, it is recommended that an amendment of the existing Memorandum of Agreement between MIAA and the air carriers regarding the Passenger Service Charge (PSC) be made to include the required contents of a DSA pursuant to [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], and incorporate the data privacy principles, enforcement of the rights of data subjects, and implementation of appropriate security measures.[^6]
 
 Furthermore, it should be noted that bookings of ticket holders prior to the effectivity of the DPA is still covered by the DPA. As we understand, the air carriers still store and retain personal information in relation to the said bookings and transfer thereof is yet to be done. The storage, retention, and transfer thereof are considered processing[^7] under the DPA and such processing is still ongoing until the present. As such, the DPA applies.
 
 #### Consent of Ticket Holders to the Data Sharing
 
-NPC Circular No. 16-02 provides that the consent of the data subjects to the data sharing is required except when such consent is not required for lawful processing[^8] of personal data.[^9]
+[[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] provides that the consent of the data subjects to the data sharing is required except when such consent is not required for lawful processing[^8] of personal data.[^9]
 
 Section 5 of Executive Order No. 903[^10] states the following powers and functions of MIAA, among others:
 
@@ -87,13 +95,13 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §3(f) (2016).
-[^3]: NPC Circular No. 16-02, §3(E)
+[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|§3(f)]] (2016).
+[^3]: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], §3(E)
 [^4]: *Id.*, §2.
 [^5]: *Id.*, §1.
 [^6]: *Id.*, §6.
-[^7]: Republic Act No. 10173, § 3(j). *Processing* refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
-[^8]: See: Republic Act No. 10173, §12 and 13.
-[^9]: See: NPC Circular No. 16-02, §4.
+[^7]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173, § 3(j)]]. *Processing* refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
+[^8]: See: Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]].
+[^9]: See: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], §4.
 [^10]: Executive Order No. 903, Providing for a Revision of Executive Order No. 778 Creating the Manila International Airport Authority, Transferring Existing Assets of the Manila International Airport to the Authority, and Vesting the Authority with Power to Administer and Operate the Manila International Airport (July 21, 1983).
-[^11]: See: Republic Act No. 10173, §16(a).
+[^11]: See: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Republic Act No. 10173, §16(a)]].

@@ -7,7 +7,13 @@ tags:
   - year/2018
   - data-collection
   - regulatory-authority
+  - topic/security
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-052"
+  - "npc advisory opinion no. 2018-052"
+  - "Advisory Opinion No. 2018-052"
+  - "advisory opinion no. 2018-052"
 ---
 
 ## Source
@@ -114,11 +120,11 @@ A. through its head of agency, designate a Data Protection Officer;
 
 B. conduct a Privacy Impact Assessment for each program, process or measure within the agency that involves personal data, *Provided*, that such assessment shall be updated as necessary;
 
-C. create privacy and data protection policies, taking into account the privacy impact assessments, as well as Sections 25 to 29 of the IRR;
+C. create privacy and data protection policies, taking into account the privacy impact assessments, as well as [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Sections 25]] to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-29-appropriate-level-of-security|29]] of the IRR;
 
 D. conduct a mandatory, agency-wide training on privacy and data protection policies once a year: *Provided*, that a similar training shall be provided during all agency personnel orientations.
 
-E. register its data processing systems with the Commission in cases where processing involves personal data of at least one thousand (1,000) individuals, taking into account Sections 46 to 49 of the IRR;
+E. register its data processing systems with the Commission in cases where processing involves personal data of at least one thousand (1,000) individuals, taking into account [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-46-enforcement-of-the-data-privacy-act|Sections 46]] to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-49-review-by-the-commission|49]] of the IRR;
 
 F. cooperate with the Commission when the agency’s privacy and data protection policies are subjected to review and assessment, in terms of their compliance with the requirements of the Act, its IRR, and all issuances by the Commission.[^11]
 
@@ -142,20 +148,20 @@ Privacy Commissioner and Chairman
 
 [^2]: CMO No. 03, § 7.2.2 and 7.2.3, as amended by CMO No. 08.
 
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 3 (l): Personal information refers to any information, whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|§ 3 (l)]]: Personal information refers to any information, whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 
-[^4]: *Id.* § 3 (t): Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such individual, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but is not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
+[^4]: *Id.* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|§ 3 (t)]]: Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such individual, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but is not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
 
 [^5]: An Act Providing for the Establishment and Maintenance of an Integrated System of Education [Education Act of 1982], Batas Pambansa Blg. 232 (1982).
 
 [^6]: An Act Creating the Commission on Higher Education, Appropriating Funds Therefor and for Other Purposes [Higher Education Act of 1994], Republic Act No. 7722 (1994).
 
-[^7]: IRR of the Data Privacy Act of 2012, § 18 (c).
+[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of the Data Privacy Act of 2012, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]].
 
 [^8]: *Ibid.*
 
-[^9]: *Id.* § 25.
+[^9]: *Id.* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|§ 25]].
 
 [^10]: *Ibid.*
 
-[^11]: NPC Circular No. 16-01 dated 10 October 2016, § 4.
+[^11]: [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] dated 10 October 2016, § 4.

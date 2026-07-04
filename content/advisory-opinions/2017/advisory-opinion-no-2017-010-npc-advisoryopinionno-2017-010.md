@@ -1,12 +1,17 @@
 ---
-title: “NPC Advisory Opinion No. 2017-010 — Rules Governing Certain Information Relating to Corporations”
-description: “Clarification on whether corporate information such as electricity and water consumption constitutes personal data under the Data Privacy Act.”
+title: "NPC Advisory Opinion No. 2017-010 — Rules Governing Certain Information Relating to Corporations"
+description: "Clarification on whether corporate information such as electricity and water consumption constitutes personal data under the Data Privacy Act."
 tags:
   - issuance
   - type/advisory-opinion
   - year/2017
   - personal-data
   - data-privacy-act
+aliases:
+  - "NPC Advisory Opinion No. 2017-010"
+  - "npc advisory opinion no. 2017-010"
+  - "Advisory Opinion No. 2017-010"
+  - "advisory opinion no. 2017-010"
 draft: false
 ---
 
@@ -45,7 +50,7 @@ Approved:
 IVY D. PATDU
 Deputy Privacy Commissioner, Policy and Planning
 
-[^1]: *See:* RA 10173, §3(g)
-[^2]: *See:* *Id.*, §3(l)
-[^3]: *See:* *Id.*, §3(k)
-[^4]: *Id.*, §3(j)
+[^1]: *See:* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA 10173, §3(g)]]
+[^2]: *See:* *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(l)]]
+[^3]: *See:* *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(k)]]
+[^4]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(j)]]

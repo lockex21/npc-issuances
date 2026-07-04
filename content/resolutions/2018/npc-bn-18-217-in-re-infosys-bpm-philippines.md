@@ -6,6 +6,8 @@ tags:
   - type/resolution
   - year/2018
   - npc-case
+  - topic/breach-notification
+  - topic/employment
 aliases:
   - "NPC BN 18-217"
   - "npc bn 18-217"
@@ -74,7 +76,7 @@ Lastly, Infosys enumerated the remedial steps it has undertaken to address the i
 
 This Commission finds Infosys to have committed a personal data breach.
 
-Section 3(F) of NPC Circular 16-03 provides that:
+Section 3(F) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides that:
 
 > “Personal data breach” refers to a breach of security leading to the accidental or unlawful destruction, loss, alteration, **unauthorized disclosure of, or access to, personal data** transmitted, stored, or otherwise processed. A personal data breach may be in the nature of:
 >
@@ -84,7 +86,7 @@ Section 3(F) of NPC Circular 16-03 provides that:
 
 In this case, there was unauthorized disclosure of an employee’s sensitive personal information, which is the latter’s marital status. Hence, a personal data breach has been committed.
 
-This Commission notes that Infosys failed to submit its Full Breach Report on the subject incident, as required by Section 17(C) of NPC Circular 16-03. It provides that:
+This Commission notes that Infosys failed to submit its Full Breach Report on the subject incident, as required by Section 17(C) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]. It provides that:
 
 > There shall be no delay in the notification if the breach involves at least one hundred (100) data subjects, or the disclosure of sensitive personal information will harm or adversely affect the data subject. In both instances, the Commission shall be notified within the 72-hour period based on available information. **The full report of the personal data breach must be submitted within five (5) days**, unless the personal information controller is granted additional time by the Commission to comply.[^9]
 

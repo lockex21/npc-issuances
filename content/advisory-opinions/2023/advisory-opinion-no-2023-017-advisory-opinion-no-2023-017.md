@@ -5,6 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2023"
+  - "topic/government"
+  - "topic/security"
+aliases:
+  - "NPC Advisory Opinion No. 2023-017"
+  - "npc advisory opinion no. 2023-017"
+  - "Advisory Opinion No. 2023-017"
+  - "advisory opinion no. 2023-017"
 draft: false
 ---
 
@@ -34,7 +41,7 @@ We gather that some government agencies have requested the PNP to have direct ac
 
 #### Criminal records containing personal data
 
-The Data Privacy Act of 2012 (DPA) protects individual personal information in information and communications systems in the government and the private sector.[^2] Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual. On the other hand, the DPA classifies the following as sensitive personal information, viz.:
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) protects individual personal information in information and communications systems in the government and the private sector.[^2] Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual. On the other hand, the DPA classifies the following as sensitive personal information, viz.:
 
  > (2) About an individual’s health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings;[^3] (Emphasis Supplied)
 
@@ -120,8 +127,8 @@ FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
 [^1]: Lawful Processing; Contractual Obligation; Legitimate Interest; Accountability.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: *Ibid.*, § 3 (g), (l).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: *Ibid.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (g), (l).
 [^4]: National Privacy Commission, NPC Advisory Opinion No. 2022-064 (28 February 2022).
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §18 (c) (2016).
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§18 (c)]] (2016).
 [^6]: National Privacy Commission, NPC Advisory Opinion No. 2020-036 (8 September 2020)

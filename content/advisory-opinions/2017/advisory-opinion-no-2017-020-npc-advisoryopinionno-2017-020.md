@@ -1,10 +1,17 @@
 ---
 title: "NPC Advisory Opinion No. 2017-020 — Philippine Business Data Bank"
 description: "Advisory Opinion on philippine business data bank under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2017-020"
+  - "npc advisory opinion no. 2017-020"
+  - "Advisory Opinion No. 2017-020"
+  - "advisory opinion no. 2017-020"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2017"
+  - "topic/data-sharing"
+  - "topic/government"
 draft: false
 ---
 
@@ -94,7 +101,7 @@ In the instances where personal data may be involved in the consolidation of bus
 related data of the PBDB, there is a need to determine if such personal data falls under the
 special cases which is outside of the scope of the law.
 
-As stated in the request, Sections 4(c) and (e) of the DPA may be a basis for the exemption,
+As stated in the request, [[laws/data-privacy-act-of-2012#section-4-scope|Sections 4(c) and (e) of the DPA]] may be a basis for the exemption,
 to wit:
 
 > “SECTION 4. Scope. — xxx
@@ -216,13 +223,13 @@ Sincerely,
 RAYMUND E. LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: RA No. 10173, §3(g) - Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^1]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(g)]] - Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 
 [^2]: Id., §3(l) - Sensitive personal information refers to personal information: 1.) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; 2.) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; 3.) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and 4.) Specifically established by an executive order or an act of Congress to be kept classified.
 
 [^3]: Id., §3(k) - Privileged information refers to any and all forms of data which under the Rules of Court and other pertinent laws constitute privileged communication.
 
-[^4]: See §6 of RA No. 10173 – Extraterritorial Application
+[^4]: See [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|§6 of RA No. 10173 – Extraterritorial Application]]
 
 [^5]: Office of the Information Commissioner of Canada, citing Bland v. Canada (National Capital Commission), [1991] 3 F.C. 325; 41 F.T.R. 202, 4 Admin D.L.R. (2d) 171; 36 C.P.R. (3d) 289 (T.D.), available at http://www.oic-ci.gc.ca/eng/inv_invgui-ati_gui-inv-ati_section_19.aspx
 

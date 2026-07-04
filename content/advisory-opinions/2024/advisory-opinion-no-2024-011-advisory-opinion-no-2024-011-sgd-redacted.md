@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2024-011 — Request of Death Certificates for the Processing of Insurance Claims"
 description: "Guidance on releasing death certificates for settlement of insurance claims involving loan obligations."
+aliases:
+  - "NPC Advisory Opinion No. 2024-011"
+  - "npc advisory opinion no. 2024-011"
+  - "Advisory Opinion No. 2024-011"
+  - "advisory opinion no. 2024-011"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -27,7 +32,7 @@ We respond to your request for an Advisory Opinion on the propriety of releasing
 
 You inform that [Redacted] grants loans to pensioners pursuant to its partnership with the [Redacted]. The loans are paid through the pensioners’ monthly pension from [Redacted]. The pensioners are covered by life insurance that in the event of demise, the proceeds will be applied to the loans and the excess, if any, shall go to the pensioners’ heirs. [Redacted], a wholly owned subsidiary of [Redacted], facilitates the processing of the insurance claims on behalf of [Redacted]. [Redacted] owns an insurance company currently servicing the insurance requirements of [Redacted].[^2]
 
-Upon the death of the pensioners, their heirs are entitled to claim burial and other death benefits from the [Redacted]. The process involves submission of the pensioners’ death certificates which serve as proof of death. The death certificates are also supposed to be submitted to [Redacted] for the processing of insurance claims to settle any outstanding loan of the pensioner. Most of the time, however, the heirs fail to submit a copy of the death certificate to [Redacted]. Accordingly, [Redacted] requested for copies of the death certificates from the Philippine Statistics Office (PSA) and [Redacted], but both offices denied the request citing the Data Privacy Act of 2012 (DPA).
+Upon the death of the pensioners, their heirs are entitled to claim burial and other death benefits from the [Redacted]. The process involves submission of the pensioners’ death certificates which serve as proof of death. The death certificates are also supposed to be submitted to [Redacted] for the processing of insurance claims to settle any outstanding loan of the pensioner. Most of the time, however, the heirs fail to submit a copy of the death certificate to [Redacted]. Accordingly, [Redacted] requested for copies of the death certificates from the Philippine Statistics Office (PSA) and [Redacted], but both offices denied the request citing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 Hence, this request for an Advisory Opinion.
 
@@ -54,11 +59,11 @@ On the other hand, sensitive personal information (SPI) refers to personal infor
 3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and
 4) Specifically established by an executive order or an act of Congress to be kept classified.[^6]
 
-Based on the definitions above, a death certificate contains both personal and sensitive personal information (collectively referred to as “personal data”). As such, the processing of a death certificate requires the establishment of the applicable lawful basis provided for in Sections 12 and 13 of the DPA.
+Based on the definitions above, a death certificate contains both personal and sensitive personal information (collectively referred to as “personal data”). As such, the processing of a death certificate requires the establishment of the applicable lawful basis provided for in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA.
 
 #### Lawful criteria for processing
 
-[Redacted]’s request for the death certificates of its deceased debtor-pensioners for the settlement of their financial obligations finds bases under Sections 12 (b) and 13 (f) of the DPA which respectively provides:
+[Redacted]’s request for the death certificates of its deceased debtor-pensioners for the settlement of their financial obligations finds bases under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12 (b)]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13 (f)]] of the DPA which respectively provides:
 
 > Section 12. Criteria for Lawful Processing of Personal Information – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -86,7 +91,7 @@ Related to the above provision, the consent clause states:
 
 In cases where the creditor obtained the insurance policy on the life of its debtors, the processing of the insurance claims usually involves the creditor securing and submitting the necessary proofs of death to the insurance company. In a case with a similar factual milieu,[^7] the Supreme Court took cognizance of a provision in the mortgage redemption insurance policy[^8] which states that the death benefit is payable to the creditor upon receipt and approval of the necessary proof of death. Similar to this case, we understand that [Redacted] secured a policy on the life of its debtors as a form of security whereby the proceeds shall cover the pensioners’ inability to repay the loan. Through the insurance policy, the pensioners consented to the processing of their personal information including the disclosure of the same to [Redacted] for the provision of any products or services and/or management of loan. Given the consent provided by the debtor-pensioners, it appears that either [Redacted] or its agent/subsidiary, [Redacted], may request for the release of the debtor-pensioners’ death certificate for purposes of the processing of the insurance claim.
 
-As to the processing based on [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]], please note that such criterion does not require a court order or an existing court proceeding for it to apply. It is enough that the processing is for the establishment of a legal claim. You may refer to NPC Advisory 2024-02 dated 12 August 2024[^9] for the other requirements of processing based on Section 13(f).
+As to the processing based on [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]], please note that such criterion does not require a court order or an existing court proceeding for it to apply. It is enough that the processing is for the establishment of a legal claim. You may refer to [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|NPC Advisory 2024-02]] dated 12 August 2024[^9] for the other requirements of processing based on Section 13(f).
 
 #### General data privacy principles; Reasonable and appropriate security measures
 
@@ -109,9 +114,9 @@ Director IV, Privacy Policy Office
 [^2]: Available at [Redacted] (last accessed 09 October 2024).
 [^3]: Philippine Statistics Authority, Death Certificate, available at https://psa.gov.ph/death-certificate (last accessed 04 September 2024).
 [^4]: §6, Law on Registry of Civil Status, Act No. 3753 (1930).
-[^5]: §3(g), Republic Act No. 10173.
-[^6]: Id., §3(L).
+[^5]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(g)]], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]].
+[^6]: Id., [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(L)]].
 [^7]: Noda v. Social Security System, G.R. L-57834, 12 November 1981.
 [^8]: The mortgage redemption insurance policy was procured by SSS on the life of its principal debtor.
-[^9]: Guidelines on Personal Data Processing Based on Section 13(f) of the Data Privacy Act of 2012.
+[^9]: [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|Guidelines on Personal Data Processing Based on Section 13(f) of the Data Privacy Act of 2012]].
 [^10]: §8, General Insuring Provisions, Group Credit Life Insurance Policy.

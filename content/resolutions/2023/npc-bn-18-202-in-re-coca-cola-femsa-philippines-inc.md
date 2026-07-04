@@ -11,6 +11,9 @@ tags:
   - type/resolution
   - year/2023
   - npc-case
+  - topic/breach-notification
+  - topic/employment
+  - topic/security
 date: "2023-10-19"
 draft: false
 ---
@@ -63,7 +66,7 @@ Moreover, CCFPI also stated its proposed measures to be taken to address the bre
 2. Continuing education for all ActiveOne's Onsite Personnel on Data Privacy Law and ActiveOne's Internal Policies on Medical Data Confidentiality.
 3. Include in ActiveOne's Clinic Process Manual a procedure on safeguarding electronic data by encryption.[^13]
 
-On 06 October 2020, the NPC's Complaints and Investigation Division (CID) issued an Order requiring CCFPI to submit a Full Report which contains the details provided under Rule V, Section 17 (D) of NPC Circular No. 16-03 (Personal Data Breach Management).[^14]
+On 06 October 2020, the NPC's Complaints and Investigation Division (CID) issued an Order requiring CCFPI to submit a Full Report which contains the details provided under Rule V, Section 17 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]].[^14]
 
 On 18 November 2020, CCFPI moved for a 15-day extension for the submission of its Full Report stating that it is encountering difficulties in coordinating with ActiveOne due to the pandemic[^15] which the CID granted in its 20 November 2020 Resolution.[^16]
 
@@ -79,7 +82,7 @@ CCBPI sufficiently complied with the Order of NPC dated 06 October 2020. The Com
 
 #### I. The incident falls under the mandatory breach notification requirement.
 
-Rule V, Section 11 of NPC Circular No. 16-03 provides:
+Rule V, Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides:
 
 > **Sec. 11. When notification is required.**
 >
@@ -103,7 +106,7 @@ As defined under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] 
 
 Based on the definition, the APE results contained not only the names of the affected data subjects, but also sensitive personal information such as their birthdates, age, gender, and the results of laboratory tests, medical check-up remarks and recommendations, and prescribed medications.[^22]
 
-Further, the employee numbers, names of the data subjects, personnel areas, and company positions,[^23] are considered other information that may be used to enable identity fraud, such as when a fraudster would identify himself or herself as an employee of CCFPI and whose medical records can be used to avail health care services or products that are covered by company medical programs. Thus, the first requisite of Section 11 of the Circular No. 16-03 is present in this case.
+Further, the employee numbers, names of the data subjects, personnel areas, and company positions,[^23] are considered other information that may be used to enable identity fraud, such as when a fraudster would identify himself or herself as an employee of CCFPI and whose medical records can be used to avail health care services or products that are covered by company medical programs. Thus, the first requisite of Section 11 of the [[issuances/undated/personal-data-breach-management|Circular No. 16-03]] is present in this case.
 
 Moreover, CCFPI reported that such APE results were accidentally sent to different recipients other than the affected data subjects.[^24] Even though the APE results were sent to employees of CCFPI, the said recipients were unauthorized to acquire the same. Thus, the second requisite is present considering that APE results were acquired by unauthorized persons.
 
@@ -202,15 +205,15 @@ National Privacy Commission
 [^15]: Motion for Extension dated 18 November 2020 of Coca-Cola FEMSA Philippines, Inc.
 [^16]: In re: Coca-Cola FEMSA Philippines, Inc., NPC BN 18-202, Resolution dated 20 November 2020.
 [^17]: Compliance dated 03 December 2020 of Coca-Cola FEMSA Philippines, Inc.
-[^18]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).
+[^18]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], NPC Circular 16-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).
 [^19]: Breach Notification dated 25 October 2018 of Coca-Cola FEMSA Philippines, Inc., at p. 2.
 [^20]: Id., at pp. 3-4.
-[^21]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3(l) (2012).
+[^21]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(l)]] (2012).
 [^22]: Breach Notification dated 25 October 2018 of Coca-Cola FEMSA Philippines, Inc., at pp. 3-4.
 [^23]: Id.
 [^24]: Id., at p. 2.
 [^25]: Id., at p. 3.
-[^26]: NPC Circular 16-03, rule V, § 18(A).
+[^26]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, § 18(A).
 [^27]: In re: Coca-Cola FEMSA Philippines, Inc., NPC BN 18-202, Order dated 06 October 2020, at pp. 1-2.
 [^28]: Id.
 [^29]: Compliance dated 03 December 2020 of Coca-Cola FEMSA Philippines, Inc.
@@ -235,6 +238,6 @@ National Privacy Commission
 [^48]: Id.
 [^49]: Compliance dated 03 December 2020 of Coca-Cola FEMSA Philippines, Inc., at p. 4; referred to as Annexes "F" to "F-39".
 [^50]: Id.
-[^51]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter V, § 20 (f) (2012).
-[^52]: NPC Circular 16-03, rule V, § 18(A).
-[^53]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 11 (2012); see also Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18(c) (2016).
+[^51]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], chapter V, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (f)]] (2012).
+[^52]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, § 18(A).
+[^53]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], chapter III, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]] (2012); see also [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]], rule IV, § 18(c) (2016).

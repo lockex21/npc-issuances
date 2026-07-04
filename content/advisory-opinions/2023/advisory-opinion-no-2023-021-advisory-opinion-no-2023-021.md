@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2023
+aliases:
+  - "NPC Advisory Opinion No. 2023-021"
+  - "npc advisory opinion no. 2023-021"
+  - "Advisory Opinion No. 2023-021"
+  - "advisory opinion no. 2023-021"
 draft: false
 ---
 
@@ -43,7 +48,7 @@ In the issuance of a PTOB, the applicant will submit documentary requirements re
 
 The more appropriate basis for disclosure of the requested data would be Sections 12 (f) and 13 (f) of the DPA. The requested information appears to be necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims.[^5]
 
-In *KRL v. Trinity University of Asia, etc.*,[^6] the NPC clarified that a document containing sensitive personal information of an individual used for the purpose of establishing legal claims under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] may be considered as a legitimate interest. The same case further held that in cases involving personal information, the protection of lawful rights and interests under Section 13 (f) of the DPA is considered as a legitimate interest contemplated by [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]].
+In [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|*KRL v. Trinity University of Asia, etc.*]],[^6] the NPC clarified that a document containing sensitive personal information of an individual used for the purpose of establishing legal claims under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] may be considered as a legitimate interest. The same case further held that in cases involving personal information, the protection of lawful rights and interests under Section 13 (f) of the DPA is considered as a legitimate interest contemplated by [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]].
 
 #### Data Privacy Principles; Proportionality
 
@@ -61,8 +66,8 @@ FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
 [^1]: Tags: non-applicability of DPA; special case; business permit and supporting documents.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Section 5, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of the DPA.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5, IRR]] of the DPA.
 [^4]: San Juan City, Business Permit and Licensing Office, available at https://www.sanjuancity.gov.ph/SanJuanCity/Makabagong_SJ_DLForms
-[^5]: *Id.* § 13 (f)
-[^6]: CID Case No. 17-K-003.
+[^5]: *Id.* [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13 (f)]]
+[^6]: [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|CID Case No. 17-K-003]].

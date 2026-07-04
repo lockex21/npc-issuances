@@ -5,7 +5,16 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2026"
+  - "topic/breach-notification"
+  - "topic/fees-and-payments"
+  - "topic/registration"
+  - "topic/security"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2026-004"
+  - "npc advisory opinion no. 2026-004"
+  - "Advisory Opinion No. 2026-004"
+  - "advisory opinion no. 2026-004"
 ---
 
 ## Source
@@ -28,7 +37,7 @@ Greetings from the National Privacy Commission!
 
 This pertains to your request for clarification on the scope of accountability of the different governance levels of the [Redacted] in relation to registration, security incident reporting, and personal data breach notification under [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and NPC Circular No. 2022-04.
 
-Based on your letter, [Redacted] current organizational levels consist of the Central Office (CO), Regional Offices, Schools Division Offices, and individual schools, following the reorganization under Republic Act No. 9155 and the modification introduced by [Redacted] Order No. 52, s. 2015. [Redacted] has registered its Personal Data Processing System, Notification Regarding Automated Decision-Making, Designation of Data Protection Officer, and application for the NPC Seal of Registration at the CO level under NPC Circular No. 2022-04.
+Based on your letter, [Redacted] current organizational levels consist of the Central Office (CO), Regional Offices, Schools Division Offices, and individual schools, following the reorganization under Republic Act No. 9155 and the modification introduced by [Redacted] Order No. 52, s. 2015. [Redacted] has registered its Personal Data Processing System, Notification Regarding Automated Decision-Making, Designation of Data Protection Officer, and application for the NPC Seal of Registration at the CO level under [[issuances/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|NPC Circular No. 2022-04]].
 
 You now seek clarification in view of the FAQ on the NPC website stating that a government-funded school under a [Redacted] need not register individually. Specifically, you ask:
 
@@ -76,7 +85,7 @@ Considering the nature and volume of personal data processed by [Redacted], incl
 
 Registration and incident reporting are related but distinct compliance obligations. Registration under NPC Circular No. 2022-04 concerns the registration of the PIC or PIP, its DPO, and its Data Processing Systems when the applicable thresholds or conditions are met. Security incident and personal data breach reporting, on the other hand, concerns the identification, assessment, documentation, escalation, and, when required, notification of security incidents and personal data breaches.
 
-Under NPC Circular No. 16-03, a personal data breach refers to a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed.[^6] The Circular requires notification to the NPC and affected data subjects when the breach involves sensitive personal information or any other information that may, under the circumstances, be used to enable identity fraud, when there is reason to believe that the information may have been acquired by an unauthorized person, and when the PIC or the NPC believes that the unauthorized acquisition is likely to give rise to a real risk of serious harm to the affected data subject.[^7] Where a breach is determined to be notifiable, [Redacted] should ensure that notification is made within the period and in the manner required under NPC Circular No. 16-03 and applicable NPC procedures.[^8]
+Under [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], a personal data breach refers to a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed.[^6] The Circular requires notification to the NPC and affected data subjects when the breach involves sensitive personal information or any other information that may, under the circumstances, be used to enable identity fraud, when there is reason to believe that the information may have been acquired by an unauthorized person, and when the PIC or the NPC believes that the unauthorized acquisition is likely to give rise to a real risk of serious harm to the affected data subject.[^7] Where a breach is determined to be notifiable, [Redacted] should ensure that notification is made within the period and in the manner required under NPC Circular No. 16-03 and applicable NPC procedures.[^8]
 
 If [Redacted] adopts a centralized registration and accountability model, the Central Office DPO may coordinate and submit breach notifications and the Annual Security Incident Report for [Redacted], provided that Regional Offices, Schools Division Offices, and schools are subject to clear and enforceable internal reporting and escalation protocols. These protocols should require the prompt reporting of actual or suspected security incidents to the designated privacy personnel, so that the appropriate office can assess whether the incident is notifiable and whether affected data subjects must be notified.
 
@@ -118,11 +127,11 @@ VIDA ZORA G. BOCAR
 
 OIC-Director IV, Privacy Policy Office[^9]
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3(h) (2012).
-[^3]: National Privacy Commission, Registration of Personal Data Processing Systems, Notification Regarding Automated Decision-Making or Profiling, Designation of Data Protection Officer, and the National Privacy Commission Seal of Registration, NPC Circular No. 2022-04, § 5 (Dec. 5, 2022).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(h)]] (2012).
+[^3]: National Privacy Commission, Registration of Personal Data Processing Systems, Notification Regarding Automated Decision-Making or Profiling, Designation of Data Protection Officer, and the National Privacy Commission Seal of Registration, [[issuances/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|NPC Circular No. 2022-04]], § 5 (Dec. 5, 2022).
 [^4]: Data Privacy Act of 2012, § 21; IRR, rule VI, § 26.
-[^5]: NPC Circular No. 2022-04, §§ 6-7.
-[^6]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16-03, § 3(A) (Dec. 15, 2016).
+[^5]: [[issuances/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|NPC Circular No. 2022-04]], §§ 6-7.
+[^6]: National Privacy Commission, Personal Data Breach Management, [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], § 3(A) (Dec. 15, 2016).
 [^7]: Id. § 11.
 [^8]: Id. §§ 17-18.
 [^9]: National Privacy Commission Special Order No. 095, s. 2025.

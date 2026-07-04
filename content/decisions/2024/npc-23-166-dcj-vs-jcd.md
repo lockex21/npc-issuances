@@ -45,7 +45,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.:
 
-Before this Commission is a Complaint[^1] filed by DCJ (Complainant) against JCD (Respondent) for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint[^1] filed by DCJ (Complainant) against JCD (Respondent) for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA)]].
 
 ### Facts
 
@@ -83,7 +83,7 @@ v. Screenshot of a Facebook post by a certain DN which reads, "Mugshot no more 2
 
 Complainant alleges that his concern was elevated by his sister, DCJ, to the barangay, but to no avail.[^17]
 
-In his prayer, Complainant referred to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-59-unauthorized-disclosure|Section 59 of the Implementing Rules and Regulations]] of the Data Privacy Act, stating that "ANY PERSONAL INFORMATION CONTROLLER OR PERSONAL INFORMATION PROCESSOR, OR ANY OF ITS OFFICIALS, EMPLOYEES, OR AGENTS, WHO DISCLOSES TO A THIRD PARTY PERSONAL INFORMATION WITHOUT THE CONSENT OF THE DATA SUBJECT SHALL BE SUBJECT TO IMPRISONMENT AND FINE."[^18] Further, Complainant indicated that he prays for the initiation or institution of a criminal action.[^19]
+In his prayer, Complainant referred to [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 59 of the Implementing Rules and Regulations]] of the Data Privacy Act, stating that "ANY PERSONAL INFORMATION CONTROLLER OR PERSONAL INFORMATION PROCESSOR, OR ANY OF ITS OFFICIALS, EMPLOYEES, OR AGENTS, WHO DISCLOSES TO A THIRD PARTY PERSONAL INFORMATION WITHOUT THE CONSENT OF THE DATA SUBJECT SHALL BE SUBJECT TO IMPRISONMENT AND FINE."[^18] Further, Complainant indicated that he prays for the initiation or institution of a criminal action.[^19]
 
 Subsequently, the Complaints and Investigation Division (CID) of the National Privacy Commission (NPC) issued an Order dated 11 September 2023 requiring the Respondent to file her Verified Comment within fifteen (15) calendar days from receipt.[^20] In the same Order, the parties were likewise required to virtually appear for a Preliminary Conference on 09 November 2023 and 01 February 2024 via Microsoft Teams.[^21]
 
@@ -105,7 +105,7 @@ Respondent denied being the owner of the Facebook account "JCD," and argued that
 
 On 27 October 2023, the CID issued an Order noting the Verified Comment filed by the Respondent and reminding the parties to appear virtually for preliminary conference on 09 November 2023 and 01 February 2024 via Microsoft Teams.[^34]
 
-During the first preliminary conference on 09 November 2023, both parties appeared and manifested that they are not availing of discovery, nor are they willing to explore the possibility of a settlement.[^35] In view thereof, the parties were required to submit their respective memoranda pursuant to Section 2, Rule VII of the 2021 Rules of Procedure of the NPC containing discussions and summaries of their causes of action, claims, and defenses.[^36]
+During the first preliminary conference on 09 November 2023, both parties appeared and manifested that they are not availing of discovery, nor are they willing to explore the possibility of a settlement.[^35] In view thereof, the parties were required to submit their respective memoranda pursuant to [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-vii-investigation-phase|Section 2, Rule VII of the 2021 Rules of Procedure of the NPC]] containing discussions and summaries of their causes of action, claims, and defenses.[^36]
 
 On 21 November 2023, Complainant, through an email, requested for an extension, until 01 December 2023, to submit his Memorandum,[^37] which the CID granted through an Order dated 22 November 2023.[^38]
 
@@ -117,7 +117,7 @@ Complainant argued that the said act constitutes a violation of [[laws/data-priv
 
 Finally, Complainant averred that he is adopting the pieces of evidence already attached to his Complaint.[^41]
 
-Subsequently, Respondent submitted her Memorandum dated 12 December 2023, arguing that Complainant failed to exhaust remedies pursuant to Section 2, Rule II of the 2021 NPC Rules of Procedure.[^42]
+Subsequently, Respondent submitted her Memorandum dated 12 December 2023, arguing that Complainant failed to exhaust remedies pursuant to [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|Section 2, Rule II of the 2021 NPC Rules of Procedure]].[^42]
 
 Respondent stated that the Complaint failed to exhaust remedies, as well as to warrant the waiver of such requirement.[^43] Moreover, Respondent argued that:
 
@@ -167,7 +167,7 @@ As such, the Commission finds it appropriate to exercise its authority to resolv
 
 #### II. The Complainant failed to provide substantial evidence to support his allegation of a violation of Section 29 of the DPA.
 
-In this case, Complainant has the burden to prove by substantial evidence that Respondent violated Section 29 of the DPA. However, Complainant failed to provide sufficient evidence to substantiate the allegations he made in his complaint. In one of the cases decided by the Commission, it stated that "in administrative proceedings, the burden is on the Complainant to prove by substantial evidence the allegations in his Complaint are true."[^53]
+In this case, Complainant has the burden to prove by substantial evidence that Respondent violated [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Section 29 of the DPA]]. However, Complainant failed to provide sufficient evidence to substantiate the allegations he made in his complaint. In one of the cases decided by the Commission, it stated that "in administrative proceedings, the burden is on the Complainant to prove by substantial evidence the allegations in his Complaint are true."[^53]
 
 For complaints before the Commission to prosper, the burden of proof required is substantial evidence, or "that amount of relevant evidence that a reasonable mind might accept as adequate to support a conclusion."[^54] The Supreme Court, in a plethora of cases explained that:
 
@@ -286,15 +286,15 @@ GENERAL RECORDS UNIT
 [^46]: Memorandum dated 12 December 2023 of JCD, at p. 7.
 [^47]: *Id.* at p. 7.
 [^48]: *Id.* at p. 5.
-[^49]: National Privacy Commission, Rules of Procedure of the National Privacy Commission, NPC Circular 2021-01, rule II, § 2 (28 January 2021) (NPC Circular 2021-21).
+[^49]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|Rules of Procedure of the National Privacy Commission, NPC Circular 2021-01, rule II, § 2]] (28 January 2021) (NPC Circular 2021-21).
 [^50]: *Id.*
-[^51]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (l) (2012).
+[^51]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]] (2012).
 [^52]: Heirs of Amada Zaulda v. Zaulda, G.R. No. 201234, 17 March 2014.
-[^53]: JLB v. Security Bank Corporation, CID-18-D-009, Decision dated 18 March 2021 at p. 4.
+[^53]: JLB v. Security Bank Corporation, [[decisions/2018/cid-18-d-009-jlb-vs-security-bank-corporation|CID-18-D-009]], Decision dated 18 March 2021 at p. 4.
 [^54]: De Jesus v. Guerrero III, G.R. No. 171491, 04 September 2009.
 [^55]: *Id.*
 [^56]: 2019 Amendment to the 1989 Revised Rules on Evidence, A.M. No. 19-08-15-SC, Rule 131, Section 1.
-[^57]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 29 (2012).
+[^57]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter VIII, [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|§ 29]] (2012).
 [^58]: RGC v. JK Incorporated and Recovery Inc., [[decisions/2022/npc-21-054-rgc-v-jk-incorporated-and-recovery-inc|NPC 21-054]], Decision dated 22 September 2022, at p. 11.
 [^59]: Complaints-Assisted Form dated 12 July 2023 of DCJ, at p. 4.
 [^60]: De Jesus v. Guerrero III, G.R. No. 171491, 04 September 2009.

@@ -11,6 +11,8 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/breach-notification
+  - topic/security
 date: "2021-03-18"
 draft: false
 ---
@@ -42,13 +44,13 @@ On 19 November 2017, during a meetup event, Tuitt became aware of a potential se
 
 On 21 November 2017, the Data Protection Officer (DPO) of Tuitt submitted to the Commission a Security Incident Report[^1] via email detailing that the unauthorized disclosure of WIFI login credentials may have compromised their network's security and the information of data subjects who accessed their machines through the same network. Tuitt also described in the Incident Report the measures they implemented to address the incident.
 
-On 08 July 2019, the Commission, through the Complaints and Investigation Division (CID), informed Tuitt the initial report they submitted did not comply with the reportorial requirements provided under NPC Circular 16-03. TPI was then required to submit a Full Breach Report in accordance with said Circular.
+On 08 July 2019, the Commission, through the Complaints and Investigation Division (CID), informed Tuitt the initial report they submitted did not comply with the reportorial requirements provided under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]. TPI was then required to submit a Full Breach Report in accordance with said Circular.
 
 On 26 July 2019, Tuitt submitted its Full Breach Report. In the Report, Tuitt claimed that upon review of the incident that occurred on 19 November 2017, such was not a personal data breach as initially reported, but a security incident. Tuitt based its assertion that the nature of the incident did not fit the definition of a personal data breach as defined in the same Circular considering that the network that was accessed contains no personal data.
 
 ### Discussion
 
-This Commission deems the incident as a Security Incident since it only affected the data protection aspect of Tuitt system and does not involve personal data. Section 3 (F) of the NPC Circular provides:
+This Commission deems the incident as a Security Incident since it only affected the data protection aspect of Tuitt system and does not involve personal data. Section 3 (F) of the [[issuances/undated/personal-data-breach-management|NPC Circular]] provides:
 
 > "Personal data breach" refers to a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed. A personal data breach may be in the nature of:
 >

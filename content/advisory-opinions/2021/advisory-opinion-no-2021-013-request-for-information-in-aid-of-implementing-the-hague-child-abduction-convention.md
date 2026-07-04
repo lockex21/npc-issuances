@@ -5,6 +5,15 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/children"
+  - "topic/data-sharing"
+  - "topic/data-subject-rights"
+  - "topic/government"
+aliases:
+  - "NPC Advisory Opinion No. 2021-013"
+  - "npc advisory opinion no. 2021-013"
+  - "Advisory Opinion No. 2021-013"
+  - "advisory opinion no. 2021-013"
 draft: false
 ---
 
@@ -103,7 +112,7 @@ derived from Executive Order No. 2923 or the Administrative Code of 1987.
 
 The DPA recognizes such mandates and thus, the processing of personal and sensitive
 personal information (collectively, personal data) which may be necessary and appropriate
-for the objects of the HCAC may be allowed under the law. Sections 12 and 13 of the DPA
+for the objects of the HCAC may be allowed under the law. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA
 provide for the various lawful criteria for processing, depending on the type of personal data
 being processed.
 
@@ -151,7 +160,7 @@ responsibilities and liabilities of the PICs involved in the transfer of persona
 among them, including the implementation of adequate standards for data privacy and
 security and upholding the rights of the data subjects.[^7]
 
-While not mandatory based on NPC Circular No. 2020-03, the DOJ may opt to execute DSAs
+While not mandatory based on [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]], the DOJ may opt to execute DSAs
 with the identified government agencies as the same is a best practice and a demonstration of
 accountability amongst the parties to the data sharing:
 
@@ -171,8 +180,8 @@ OIC-Director IV, Privacy Policy Office
 [^1]: Tags: Hague Child Abduction Convention; Department of Justice; mandate; lawful criteria for processing; general data privacy principles; data subject rights; data sharing.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Instituting the “Administrative Code of 1987” [Administrative Code of 1987], Executive Order No. 292, Title III (1987).
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c)]] (2016).
 [^5]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-022-npc-advisory-opinion-no-2019-022|NPC Advisory Opinion No. 2019-022]] (May 9, 2019).
-[^6]: National Privacy Commission, Data Sharing Agreements [NPC Circular No. 2020-03], § 2 (F) (23 December 2020).
-[^7]: NPC Circular No. 2020-03, § 2 (g).
+[^6]: National Privacy Commission, [[issuances/2020/data-sharing-agreements|Data Sharing Agreements]] [NPC Circular No. 2020-03], § 2 (F) (23 December 2020).
+[^7]: [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]], § 2 (g).
 [^8]: Id. § 8.

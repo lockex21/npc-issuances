@@ -11,6 +11,7 @@ tags:
   - "type/decision"
   - "year/2017"
   - "npc-case"
+  - "topic/employment"
 date: "2019-11-19"
 draft: false
 ---
@@ -42,7 +43,7 @@ x-----------------------------------------x
 
 AGUIRRE, D.P.C.
 
-For consideration before this Commission is a complaint filed by KRL against Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, and PB, for an indeterminate violation of the Data Privacy Act (DPA).[^1]
+For consideration before this Commission is a complaint filed by KRL against Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, and PB, for an indeterminate violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA).[^1]
 
 ### These Proceedings
 
@@ -78,7 +79,7 @@ The complainant now comes to the Commission saying that he feels his right to pr
 
 The respondent university, in their Notice of Entry of Appearance with Motion for Clarification of Procedure, argues that the complainant failed to allege that he has exhausted all remedies available to him.[^15] Citing the Commission’s Rules on the Alternative Modes of Dispute Resolution,[^16] it likewise raises that the complaint should have been referred to a Mediation Officer for assistance in reaching an amicable settlement[^17] since the complaint is devoid of any serious allegations that would warrant immediate conduct of investigation by the Commission.[^18]
 
-In their comment, the respondent university allege that they have substantially complied with the requirements of Republic Act No. 10173 or the Data Privacy Act of 2012 (“DPA”), having completed phases 1 and 2 of the registration process of the Commission. While it has already completed privacy impact assessments for most of its processes, the DTR system is not one of them. The respondent university conducted a privacy impact assessment on the DTR system after the Discovery Conference.[^19]
+In their comment, the respondent university allege that they have substantially complied with the requirements of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (“DPA”), having completed phases 1 and 2 of the registration process of the Commission. While it has already completed privacy impact assessments for most of its processes, the DTR system is not one of them. The respondent university conducted a privacy impact assessment on the DTR system after the Discovery Conference.[^19]
 
 The respondent university asserts that consent of data subjects is not required for the processing of the DTRs, because it is an administrative matter inherent in the operation and legitimate purpose of the university.[^20] It vehemently denies that there was unauthorized processing of complainant’s personal data, as DTRs contain no personal or sensitive personal information, nor are the DTRs considered confidential by the University and its faculty members.
 
@@ -230,7 +231,7 @@ National Privacy Commission
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes (DATA PRIVACY ACT).
 
-[^2]: Records, p. 46; see NPC Circular No. 16-04, Rule III, Section 15.
+[^2]: Records, p. 46; see [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]], Rule III, Section 15.
 
 [^3]: *Id.*, at p. 76.
 
@@ -258,7 +259,7 @@ National Privacy Commission
 
 [^15]: *Id.*, at p. 52.
 
-[^16]: NPC Circular 16-04, Sections 25–27.
+[^16]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04]], Sections 25–27.
 
 [^17]: Records, p. 55.
 
@@ -298,9 +299,9 @@ National Privacy Commission
 
 [^35]: *Ibid.*
 
-[^36]: R.A. 10173, Section 3(g).
+[^36]: [[laws/data-privacy-act-of-2012|R.A. 10173]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(g)]].
 
-[^37]: NPC Advisory 2017-03.
+[^37]: [[advisory-opinions/2017/advisory-opinion-no-2017-003-npc-advisoryopinionno-2017-003|NPC Advisory 2017-03]].
 
 [^38]: Records, p. 86.
 
@@ -320,11 +321,11 @@ National Privacy Commission
 
 [^46]: *Supra* note 8.
 
-[^47]: NPC Advisory Opinion 2018-20.
+[^47]: [[advisory-opinions/2018/advisory-opinion-no-2018-020-npc-advisory-opinion-no-2018-020|NPC Advisory Opinion 2018-20]].
 
-[^48]: *See*, *Villegas v. Revilles*, NPC Case 17-047, citing EU General Data Protection Regulation, Recital 47.
+[^48]: *See*, *Villegas v. Revilles*, [[decisions/2019/npc-17-047-jv-vs-jr|NPC Case 17-047]], citing EU General Data Protection Regulation, Recital 47.
 
-[^49]: R.A. 10173, Section 12(f).
+[^49]: [[laws/data-privacy-act-of-2012|R.A. 10173]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f)]].
 
 [^50]: Records, p. 1.
 

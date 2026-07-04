@@ -11,6 +11,8 @@ tags:
   - type/resolution
   - npc-case
   - year/2020
+  - topic/consent
+  - topic/employment
 date: "2020-12-17"
 draft: false
 ---
@@ -39,9 +41,9 @@ PLDT Enterprise on the Decision dated 17 December 2020.
 ### Facts
 On 17 December 2020, the Commission issued a Decision and held
 PLDT Enterprise (PLDT ) liable for violation of RLA ’s ( RLA ) rights
-under the Data Privacy Act of 2012 (DPA), particularly Sections 28
+under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), particularly [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Sections 28]]
 (Processing of Personal Information for Unauthorized Purposes) and
-32 (Unauthorized Disclosure) of the DPA :
+[[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]] (Unauthorized Disclosure) of the DPA :
 **WHEREFORE**, all these premises considered, this Commission
 resolves to AWARD Complainant[,] RLA [,] nominal damages in
 the amount of Fifty Thousand Pesos (P50,000.00) for Respondent
@@ -294,7 +296,7 @@ Commis sion shall proceed to further clarify its reasons for denying
 PLDT ’s Motion for Reconsideration.
 I. PLDT is a Personal Information Controller.
 PLDT acted as a PIC when it processed RLA ’s personal information.
-As defined in the DPA, a PIC is “a person or organization who controls
+As defined in the [[laws/data-privacy-act-of-2012|DPA]], a PIC is “a person or organization who controls
 the collection, holding, processing or use of personal information.” 25 A
 PIC also includes “a person or organization who instructs another
 person or organization to collect, hold, process, use, transfer or
@@ -329,7 +331,7 @@ Knutsen ’s employees, including that of the Complainant, to apply
 for PLDT ’s services. Knut sen merely supplied the personal
 information of its employees to PLDT, but the control over the
 personal information provided remained with PLDT.[^34]
-The Implementing Rules and Regulations of the DPA (IRR) defines
+The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the DPA (IRR) defines
 control as deciding on the information to be collected, or the purpose
 or extent of its processing.35 Through its decisionmaking power, a PIC
 determines the purposes and means of processing personal
@@ -812,7 +814,7 @@ information in the listing directory without his authority.
 PLDT asserts that it lawfully processed RLA ’s personal information
 under a legal obligation when it published his personal information in
 the listing directory. 83 Proc essing necessary for c ompliance under a
-legal obligation is a criterion for lawful processing under Section 12 of the DPA. Section 12 provides:
+legal obligation is a criterion for lawful processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]]. Section 12 provides:
 Section 12. Criteria for Lawful Processing of Personal Information.
 – The processing of personal information shall be permitted
 only if not otherwise prohibited by law, and when at least
@@ -1362,12 +1364,12 @@ Privacy Commissioner
 [^27]: Id. § 3 (i).
 [^28]: Motion for Reconsideration, 05 August 2021, at 1011, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
 [^29]: Id. at 10.
-[^30]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No.
+[^30]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No.
 [^31]: Motion for Reconsideration, 05 August 2021, at 1011, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
 [^32]: Id. at 10.
 [^33]: Decision, 17 December 2020, at 10, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2020) (pending).
 [^34]: Motion for Reconsideration, 05 August 2021, at 10, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
-[^35]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule I, § 3 (m).
+[^35]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule I, § 3]] (m).
 [^36]: EUROPEAN UNION AGENCY FOR FUNDAMENTAL RIGHTS AND COUNCIL OF EUROPE,HANDBOOK ON EUROPEAN DATA
 [^37]: Motion for Reconsideration, 05 August 2021, at 11, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
 [^38]: Id. at 10.
@@ -1376,7 +1378,7 @@ Privacy Commissioner
 [^41]: Motion for Reconsideration, 05 August 2021, at 6, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
 [^42]: Id.
 [^43]: Id.
-[^44]: Rules and Regulations Implementing the Data Privacy Act of 201 2, Republic Act No. 10173, rule X, § 44 (b) (1).
+[^44]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule X, § 44]] (b) (1).
 [^45]: Motion for Reconsideration, 05 August 2021, at 12, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
 [^46]: Rules and Regulations for all Public Services, Revised Order No. 1, Commonwealth Act No. 146, § 149. Emphasis
 [^47]: Motion for Reconsideration, 05 August 2021, at 2, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
@@ -1385,12 +1387,12 @@ Privacy Commissioner
 [^50]: NTC Memo. Circ. No. 05-06-2007, § 2.2.
 [^51]: See, Liboro Dissenting Opinion, 10 December 2021, at 6,in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
 [^52]: Decision, 17 December 2020, at 14,in RLA v. PLDT Enterprise,NPC 18010 (NPC 2020) (pending). Emphasis supplied.
-[^53]: Data Privacy Act of 2012, § 3 (b). Emphasis supplied.
+[^53]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3]] (b). Emphasis supplied.
 [^54]: Motion for Reconsideration, 05 August 2021, at 3, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
 [^55]: NTC Memo. Circ. No. 05-06-2007, § 2.2.
 [^56]: Id.
 [^57]: Id.
-[^58]: Data Privacy Act of 2012, § 3 (b). Emphasis supplied.
+[^58]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3]] (b). Emphasis supplied.
 [^59]: Liboro Dissenting Opinion, 10 December 2021, at 6,in RLA v. PLDT Enterprise, NPC 18010 (NPC 20 21 )(pending).
 [^60]: JMM Promotions & Management, Inc. v. National Labor Relations Commission, G.R. No. 109835, 22 November 1993.
 [^61]: Liboro Dissenting Opinion, 10 December 2021, at 10,in RLA v. PLDT Enterprise, NPC 18010 (NPC 20 21 )(pending).
@@ -1409,21 +1411,21 @@ Privacy Commissioner
 [^74]: Villafuerte v. C ordial, Jr., G.R. No. 222450 (2020).
 [^75]: See National Privacy Commission, Advisory on Telephone Directories, Advisory Opinion No. 2 1, Series of 2018 (27
 [^76]: See Liboro Dissenting Opinion, 10 December 2021, at 6, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
-[^77]: Data Privacy Act of 2012,§ 28. Emphasis supplied.
+[^77]: [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Data Privacy Act of 2012, § 28]]. Emphasis supplied.
 [^78]: Motion for Reconsideration by PLDT, Inc., 05 August 2021, at 11, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021)
 [^79]: Id.
 [^80]: Id.
 [^81]: Id.
 [^82]: Decision, 17 December 2020, at 11,in RLA v. PLDT Enterprise, NPC 18010 (NPC 20 20 )(pending).Emphasis supplied.
 [^83]: Motion for Reconsideration,05 August 2021, at 2, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
-[^84]: Data Privacy Act of 2012,§ 12 (c). Emphasis supplied.
+[^84]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12]] (c). Emphasis supplied.
 [^85]: EUROPEAN UNION AGENCY FOR FUNDAMENTAL RIGHTS AND COUNCIL OF EUROPE,HANDBOOK ON EUROPEAN DATA
 [^86]: Motion for Reconsideration,05 August 2021, at 2, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
 [^87]: Id.
 [^88]: Id. at 3.
 [^89]: Id.
 [^90]: Id. NPC 18010
-[^91]: Data Privacy Act of 2012,§ 12 (c).
+[^91]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12]] (c).
 [^92]: Id. § 11.
 [^93]: Decision, 17 December 2020, at 11 in RLA v. PLDT Enterprise, NPC 18010 (NPC 20 20 )(pending).
 [^94]: Motion for Reconsideration, 05 August 2021, at 3, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
@@ -1431,8 +1433,8 @@ Privacy Commissioner
 [^96]: Letter from Knutsen Philippines, Inc. to PLDT, Inc. (12 April 2016).
 [^97]: Decision, 17 December 2020, at 19,in RLA v. PLDT Enterprise, NPC 18010 (NPC 20 20 )(pending).
 [^98]: Id.
-[^99]: Data Privacy Act of 2012, § 32.
-[^100]: Id. § 31.
+[^99]: [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Data Privacy Act of 2012, § 32]].
+[^100]: Id. [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|§ 31]].
 [^101]: Id.
 [^102]: U.S. v. G oChico, G.R. No. 4963 (1909).
 [^103]: Metropolitan Bank and Trust Co. v. Liberty Corrugated Boxes Manufacturing Corp., G.R. No.184317 (2017).
@@ -1448,7 +1450,7 @@ Privacy Commissioner
 [^113]: Motion for Reconsideratio n, 05 August 2021, at 5, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021) (pending).
 [^114]: Id. at 3.
 [^115]: Liboro Dissenting Opinion, 10 December 2021, at 8,in RLA v. PLDT Enterprise, NPC 18010 (NPC 20 21 )(pending).
-[^116]: Data Privacy Act of 201 2, § 38. Emphasis supplied.
+[^116]: [[laws/data-privacy-act-of-2012#section-38-interpretation|Data Privacy Act of 2012, § 38]]. Emphasis supplied.
 [^117]: Id.
 [^118]: Liboro Dissenting Opinion, 10 December 2021, at 9,in RLA v. PLDT Enterprise, NPC 18010 (NPC 20 21 )(pending).
 [^119]: Id. at 9.
@@ -1456,10 +1458,10 @@ Privacy Commissioner
 [^121]: Id. at 17.
 [^122]: See, Liboro Dissenting Opinion, 10 December 2021, at 17, in RLA v. PLDT Enterprise, NPC 18010 (NPC 2021)
 [^123]: NPC 18010 Decision dated 17 December 2020.
-[^124]: Section 12 of the DPA.
+[^124]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]].
 [^125]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 [^126]: Supra.
-[^127]: Section 28 of the DPA.
+[^127]: [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 of the DPA]].
 [^128]: Public Service Commission, Public Service Commission Rules and Regulations for all Public Services, Revised Order No.
 [^129]: National Telecommunication Commission, Consumer Protection Guidelines [NTC Memo. Circ. No. 05-06-2007], Section
 [^130]: Subject Title, Id.

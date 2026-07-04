@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/data-sharing"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-038"
+  - "npc advisory opinion no. 2021-038"
+  - "Advisory Opinion No. 2021-038"
+  - "advisory opinion no. 2021-038"
 ---
 
 ## Source
@@ -42,7 +48,7 @@ and aggregated reports which could be released to the public as requested.
 
 You now seek guidance on how the Parties can pursue sharing of personal and sensitive
 personal information (collectively, personal data) required by the UHC Act and the JAO that
-is aligned with the provisions of the Data Privacy Act of 2012[^4] (DPA), particularly with the
+is aligned with the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^4] (DPA), particularly with the
 general data privacy principle of proportionality.
 
 ### Discussion
@@ -137,9 +143,9 @@ OIC-Director IV, Privacy Policy Office
 [^1]: Tags: criteria for lawful processing; compliance with legal obligation; law or regulation; consent; general data privacy principles; privacy impact assessment; privacy-by-design.
 [^2]: An Act Instituting Universal Healthcare for All Filipinos, Prescribing Reforms in the Healthcare System, and Appropriating Funds Therefore [Universal Healthcare Act], Republic Act No. 11223 (2018).
 [^3]: Department of Health and Professional Regulation Commission, Guidelines on the Establishment, Utilization, and Maintenance of the National Health Workforce Registry [Joint Administrative Order No. 2021-0001] (20 Jan. 2021).
-[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^5]: Universal Healthcare Act, § 25 (c).
-[^6]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^6]: See: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18]] (c) (2016).
 [^7]: IAPP, Glossary of Privacy Terms, available at https://iapp.org/resources/glossary/#paperwork-reduction-act-2.
-[^8]: NPC Advisory No. 201-03, Guidelines on Privacy Impact Assessment, 31 July 2017.
+[^8]: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 201-03, Guidelines on Privacy Impact Assessment]], 31 July 2017.
 [^9]: See generally: Cavoukian, Ann Ph.D., Privacy by Design - The 7 Foundational Principles - Implementation and Mapping of Fair Information Practices, available at https://iapp.org/media/pdf/resource_center/pbd_implement_7found_principles.pdf (last accessed 21 Oct 2021).

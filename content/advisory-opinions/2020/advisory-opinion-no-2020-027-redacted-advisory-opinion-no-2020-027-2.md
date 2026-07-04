@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+aliases:
+  - "NPC Advisory Opinion No. 2020-027"
+  - "npc advisory opinion no. 2020-027"
+  - "Advisory Opinion No. 2020-027"
+  - "advisory opinion no. 2020-027"
 draft: false
 ---
 ## Source
@@ -23,7 +28,7 @@ Dear [Redacted],
 We write in response to your request for an advisory opinion received by the National Privacy
 Commission (NPC) which sought to clarify matters relating to an official/faculty member’s
 Personal Data Sheet (PDS) to be used as evidence in an administrative investigation vis-à-vis
-the provisions of the Data Privacy Act of 2012[^2] (DPA) and NPC Advisory No. 2017-02.[^3]
+the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) and [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|NPC Advisory No. 2017-02]].[^3]
 
 We understand that a complaint was filed with the Civil Service Commission (CSC) by the
 Head of Human Resource Management Office (HRMO) of your University against the Vice
@@ -52,7 +57,7 @@ which recognizes the processing that is provided for by existing laws and regula
 Section 13(f) when such personal information is provided to government or public authority.
 
 While access to the PDS may be allowed, the same may still be regulated, taking into
-consideration a government official or employee’s right to data privacy. Thus, in NPC Advisory No. 2017-02, the NPC laid down the guidelines in resolving requests for access to a
+consideration a government official or employee’s right to data privacy. Thus, in [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|NPC Advisory No. 2017-02]], the NPC laid down the guidelines in resolving requests for access to a
 PDS as follows:
 
    1. The information requested falls under matters of public concern;
@@ -100,7 +105,7 @@ Very truly yours,
 Privacy Commissioner
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: National Privacy Commission, Access to Personal Data Sheets of Government Personnel [NPC Advisory No. 2017-02] (3 April 2017).
+[^3]: National Privacy Commission, Access to Personal Data Sheets of Government Personnel [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|NPC Advisory No. 2017-02]] (3 April 2017).
 [^4]: Advincula v. Dicen, G.R. No.162403 (2005).
 [^5]: Civil Service Commission, 2017 Rules on Administrative Cases in the Civil Service (July 3, 2017).
 [^6]: Id. § 3.

@@ -24,7 +24,7 @@ provision of goods and services as well as the implementation of safeguards for 
 systems and physical premises, among others;
 
 WHEREAS, the National Privacy Commission (NPC) recognizes that such processing activity  
-may have a legitimate purpose and a lawful basis for processing under Sections 12 and 13 of  
+may have a legitimate purpose and a lawful basis for processing under Sections [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of  
 the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]);
 
 WHEREAS, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] allows the processing of personal and sensitive personal

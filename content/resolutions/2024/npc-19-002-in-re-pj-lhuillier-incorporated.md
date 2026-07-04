@@ -11,6 +11,8 @@ tags:
   - type/resolution
   - year/2024
   - npc-case
+  - topic/breach-notification
+  - topic/security
 date: "2024-05-16"
 draft: false
 ---
@@ -37,7 +39,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before the Commission is PJ Lhuillier Incorporated's (PJLI) breach notification and management in compliance with NPC Circular 16-03 (Personal Data Breach Management).
+Before the Commission is PJ Lhuillier Incorporated's (PJLI) breach notification and management in compliance with [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]].
 
 ### Facts
 
@@ -212,7 +214,7 @@ The Commission resolves to close the matter. PJLI's submissions show that it pro
 
 It is the obligation of a Personal Information Controller (PIC), such as PJLI, to ensure that affected data subjects of the breach are promptly and properly notified.[^77] The Commission has consistently emphasized that the purpose of the required notification to the data subjects of a breach is to allow them to take the necessary precautions or other measures to protect themselves against its possible effects.[^78]
 
-Section 18 of NPC Circular 16-03 provides the requirements as to the content and form of the notification of data subjects:
+Section 18 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides the requirements as to the content and form of the notification of data subjects:
 
 > Section 18. *Notification of Data Subjects*. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -367,7 +369,7 @@ National Privacy Commission
 [^74]: *Id.*
 [^75]: *Id.*
 [^76]: *Id.*
-[^77]: National Privacy Commission, *Personal Data Breach Management, Circular No. 03, Series of 2016* [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
+[^77]: National Privacy Commission, *[[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], Circular No. 03, Series of 2016* [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
 [^78]: NPC Circ. No. 16-03, § 18 (A).
 [^79]: NPC Circ. No. 16-03, § 18 (C) & (D).
 [^80]: Compliance, 18 June 2021, *Notification to Affected Data Subjects, in In re: PJ Lhuillier, Inc.*, NPC BN 19-002 (NPC 2021).
@@ -379,7 +381,7 @@ National Privacy Commission
 [^86]: *Id.*
 [^87]: *Id.*
 [^88]: Compliance, 18 June 2021, *Notification to Affected Data Subjects, in In re: PJ Lhuillier, Inc.*, NPC BN 19-002 (NPC 2021).
-[^89]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (a) (2012).
+[^89]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (a)]] (2012).
 [^90]: Compliance, 18 June 2021, *Proof of Implementation - Organizational, in In re: PJ Lhuillier, Inc.*, NPC BN 19-002 (NPC 2021).
 [^91]: *Id.*
 [^92]: Technical Report, 30 June 2021, at 2, *in In re: PJ Lhuillier, Inc.*, NPC BN 19-002 (NPC 2021).

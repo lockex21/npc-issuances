@@ -5,7 +5,14 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+  - topic/consent
+  - topic/government
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2022-010"
+  - "npc advisory opinion no. 2022-010"
+  - "Advisory Opinion No. 2022-010"
+  - "advisory opinion no. 2022-010"
 ---
 
 ## Source
@@ -201,7 +208,7 @@ You thus seek clarification on the following:
        to act on behalf of the co-account holders under Deposit T&Cs, the express consent
        given by a co-accountholder to the updating of their data privacy consent to the
        2017 Data Privacy Terms, and the provisions of paragraph 8 of the 2017 Data
-       Privacy Terms in relation to Section 2.D of NPC Circular No. 2020-03, which grants
+       Privacy Terms in relation to Section 2.D of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]], which grants
        any co-account holder the authority to update or reconfirm the data privacy
        consents of the accountholders?
 
@@ -229,7 +236,7 @@ You thus seek clarification on the following:
 #### The Seller May Validly Transfer to the Buyer the Personal Information of the 11,483 Non-Responsive Depositors Who Have Adhered to the 2017 Data Privacy Terms
 
 For processing personal and sensitive personal information, this may be done pursuant
-to the applicable provisions of Section 12 and 13 of the DPA, to wit:
+to the applicable provisions of [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, to wit:
 
 SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing
 of personal information shall be permitted only if not otherwise prohibited by law, and
@@ -330,7 +337,7 @@ bank accounts provides that:
          without the consent of the other co-account holders.”
 
 As previously discussed, there are several criteria for processing personal and sensitive
-personal information under Sections 12 and 13 of the DPA. We must emphasize that the
+personal information under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA. We must emphasize that the
 aforementioned criteria as discussed is applicable as well to these 1,164 Non-Responsive
 Depositors whose “and/or” accounts were originally subject to Legacy T&Cs.
 
@@ -368,7 +375,7 @@ In addition, there are existing provisions in the Seller’s T&C which provide:
 
 It is evident from the prior discussions, that the transfer of the personal information of
 these Non-Responsive Depositors should comply with any of the of the various criteria
-for lawful processing under the DPA, specifically under Sections 12 or 13 of the law. Both
+for lawful processing under the DPA, specifically under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the law. Both
 the Seller and the Buyer may be allowed to process personal data based on the above
 provisions, and the consent of the Non-Responsive Depositors is no longer required in
 the conduct of due diligence and in the implementation of the planned transfer.
@@ -403,7 +410,7 @@ of the various communications sent but who are nevertheless covered by the 2017 
 Privacy terms and/or the Legacy terms on the disclosure of information.
 
 In this instance, the various criteria for lawful processing under the DPA, specifically
-under Sections 12 or 13 of the law as discussed above also applies to these non-responsive
+under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the law as discussed above also applies to these non-responsive
 depositors with bounced notifications. We emphasize that Processing of personal
 information may be based on consent, contract, legal obligation, legitimate interest,
 among others. Similarly for sensitive personal information, the processing thereof may be
@@ -432,7 +439,7 @@ purposes, such as customer servicing, remediating customers’ and/or regulatory
 claims/refunds as well as other compliance requirements.
 
 In this case, the previous discussions with regard to the various criteria for lawful
-processing under the DPA, specifically under Sections 12 or 13 of the law as discussed
+processing under the DPA, specifically under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the law as discussed
 also applies to these data subjects.
 
 We note that in this case, the personal information of herein data subjects may be
@@ -472,5 +479,5 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012), § 3(b).
-[^3]: NPC Advisory Opinion No. 2018-058.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012), [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(b)]].
+[^3]: [[advisory-opinions/2018/advisory-opinion-no-2018-058-npc-advisory-opinion-no-2018-058|NPC Advisory Opinion No. 2018-058]].

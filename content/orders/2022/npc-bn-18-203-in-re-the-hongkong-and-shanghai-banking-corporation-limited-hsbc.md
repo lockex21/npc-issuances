@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2024-02-08"
 draft: false
 ---
@@ -90,11 +91,11 @@ In addition, in its Post-Breach Report, HSBC claims that:
 >
 > In any event, security measures have been implemented and applied since the breach was reasonably believed to have occurred including measures that would prevent use of data by any person not authorized to access it. Moreover, measures have taken to ensure the risk of harm to the affected customers will not materialize. As an added precaution, HSBC informed the customer of the recommended option to carry out the blocking and replacement of credit cards to mitigate risk. A copy of the list of the Consolidated Report of the reach-out's including information on the block and replacement of cards is hereto attached and made an integral part hereof as Annex "2". Note that only customer opted not to have his/her card undergo block and replacement given the security in place.[^29]
 
-Upon evaluation of HSBC's Post-Breach Report, the Commission finds that the PIC has not sufficiently complied with NPC Circular No. 16-03 (Personal Data Breach Management).
+Upon evaluation of HSBC's Post-Breach Report, the Commission finds that the PIC has not sufficiently complied with [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]].
 
 In HSBC's Initial Report, they notified the Commission regarding an incident that an employee of their third party courier, INFORMEX, had lost the mail packs assigned to him.[^30] In addition, HSBC claimed that there were forty-eight (48) data subjects affected by the incident.
 
-Section 11 of NPC Circular No. 16-03 provides the conditions for mandatory breach notification:
+Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides the conditions for mandatory breach notification:
 
 > SECTION 11. When notification is required. Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 >
@@ -121,9 +122,9 @@ ii. Address;
 iii. Credit Card Number/Credit Card Account Number
 iv. Amount Due and other related information[^32]
 
-In this case, the information involved in the Credit Card Statement and Demand Letter particularly, the Credit Card Number/Credit Card Account Number, Transaction History and Amount Due is categorized within the purview of "sensitive personal information and any other information that, under the circumstances, may be used to enable identity fraud"[^33] provided by Section 11 (a) of NPC Circular 16-03. The credit card number/credit card account number are attributed under "other information" as specified in second paragraph of Section 11 (a), given that it pertains to the financial and economic situation of the data subject.[^34] To reiterate, the names and addresses coupled with the credit card number and credit card account numbers involved are considered as information that, under the circumstances, may be used to enable identity fraud. Thus, the first requisite is present in this case.
+In this case, the information involved in the Credit Card Statement and Demand Letter particularly, the Credit Card Number/Credit Card Account Number, Transaction History and Amount Due is categorized within the purview of "sensitive personal information and any other information that, under the circumstances, may be used to enable identity fraud"[^33] provided by Section 11 (a) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]. The credit card number/credit card account number are attributed under "other information" as specified in second paragraph of Section 11 (a), given that it pertains to the financial and economic situation of the data subject.[^34] To reiterate, the names and addresses coupled with the credit card number and credit card account numbers involved are considered as information that, under the circumstances, may be used to enable identity fraud. Thus, the first requisite is present in this case.
 
-For the second requisite, HSBC stated that the messenger claimed that he "retraced his route to locate the mail packs without success."[^35] Since the mail packs were lost along the route and failed to locate the lost mail packs, there is reason to believe that the Credit Card Statements and Demand Letters contained in the said mail packs may have been acquired by an unauthorized person. Moreover, the incident involves an "availability breach" due to the loss of mail packs by the messenger of INFORMEX.[^36] Under NPC Circular 16-03, there is an availability breach when "the breach resulted from loss, accidental, or unlawful destruction of personal data."[^37]
+For the second requisite, HSBC stated that the messenger claimed that he "retraced his route to locate the mail packs without success."[^35] Since the mail packs were lost along the route and failed to locate the lost mail packs, there is reason to believe that the Credit Card Statements and Demand Letters contained in the said mail packs may have been acquired by an unauthorized person. Moreover, the incident involves an "availability breach" due to the loss of mail packs by the messenger of INFORMEX.[^36] Under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], there is an availability breach when "the breach resulted from loss, accidental, or unlawful destruction of personal data."[^37]
 
 Lastly, since the nature of information involved pertains to the financial information and economic situation of the data subject contained in the Credit Card Statement and Demand Letter of forty-eight (48) affected data subjects, the loss of these likely gives rise to a real risk of serious harm to the affected data subjects.
 
@@ -131,13 +132,13 @@ To add, in HSBC's Post Breach Report, it claimed that "the information in this p
 
 Given the unwarranted exposure to unauthorized persons due to the loss of mail packs in the streets containing the sensitive personal information and other information that, under the circumstances, may enable identity fraud particularly the financial information of the affected data subjects, there is a belief that the incident likely gives rise to a real risk of serious harm to the affected data subjects. Hence, the third requisite is present.
 
-Since all the requirements were satisfied, the incident falls under mandatory notification to the Commission under Section 11 of NPC Circular No. 16-03.
+Since all the requirements were satisfied, the incident falls under mandatory notification to the Commission under Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 
 Therefore, it is the obligation of HSBC, as Personal Information Controller (PIC), to immediately notify the affected data subjects in order for them to take necessary precautions or to protect themselves against the possible effects of the breach.[^39]
 
-It must be noted that HSBC averred that its Customer Contact Centre Team already reached out to the affected data subjects via call-outs and Short Messaging Service (SMS) to inform them of the incident.[^40] However, the notification done by HSBC does not conform with NPC Circular 16-03.
+It must be noted that HSBC averred that its Customer Contact Centre Team already reached out to the affected data subjects via call-outs and Short Messaging Service (SMS) to inform them of the incident.[^40] However, the notification done by HSBC does not conform with [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
-Section 18 (C) and (D) of NPC Circular No. 16-03 states:
+Section 18 (C) and (D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] states:
 
 > Section 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -156,13 +157,13 @@ Section 18 (C) and (D) of NPC Circular No. 16-03 states:
 >
 > D. Form. Notification of affected data subjects shall be done individually, using secure means of communication, whether written or electronic. The personal information controller shall take the necessary steps to ensure the proper identity of the data subject being notified, and to safeguard against further unnecessary disclosure of personal data. The personal information controller shall establish all reasonable mechanisms to ensure that all affected data subjects are made aware of the breach: Provided, that where individual notification is not possible or would require a disproportionate effort, the personal information controller may seek the approval of the Commission to use alternative means of notification, such as through public communication or any similar measure through which the data subjects are informed in an equally effective manner: Provided further, that the personal information controller shall establish means through which the data subjects can exercise their rights and obtain more detailed information relating to the breach.[^41]
 
-The incident only involved forty-eight data subjects affected by the loss of the mail packs and the PIC could have attached their individual notification in their submissions.[^42] In their Post Breach Report, HSBC stated that "A copy of the list of the Consolidated Report of the reach-out's including information on the block and replacement of cards is hereto attached and made an integral part hereof as Annex '2'."[^43] However, upon careful review of the submissions of HSBC, the submitted document does not provide for the required contents which must be included in notifying the affected data subjects nor the means in notifying them provided under Circular No. 16-03.
+The incident only involved forty-eight data subjects affected by the loss of the mail packs and the PIC could have attached their individual notification in their submissions.[^42] In their Post Breach Report, HSBC stated that "A copy of the list of the Consolidated Report of the reach-out's including information on the block and replacement of cards is hereto attached and made an integral part hereof as Annex '2'."[^43] However, upon careful review of the submissions of HSBC, the submitted document does not provide for the required contents which must be included in notifying the affected data subjects nor the means in notifying them provided under [[issuances/undated/personal-data-breach-management|Circular No. 16-03]].
 
 Thus, the Commission, in order to resolve the matter deems it proper that HSBC to notify all the affected data subjects and to submit its proof of notification.
 
 WHEREFORE, premises considered, the Hongkong and Shanghai Banking Corporation Limited (HSBC) is hereby **ORDERED** to notify the affected data subjects and to submit proof the same within fifteen (15) days from the receipt of this Order directly to the Compliance and Monitoring Division (CMD).
 
-The Commission **DIRECTS** the Compliance and Monitoring Division (CMD) to issue the appropriate orders necessary to evaluate and monitor the completeness of the Hongkong and Shanghai Banking Corporation Limited (HSBC) data breach notification and assess its breach management pursuant to NPC Circular 16-03 (Personal Data Breach Management).
+The Commission **DIRECTS** the Compliance and Monitoring Division (CMD) to issue the appropriate orders necessary to evaluate and monitor the completeness of the Hongkong and Shanghai Banking Corporation Limited (HSBC) data breach notification and assess its breach management pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]].
 
 **SO ORDERED.**
 
@@ -221,16 +222,16 @@ GENERAL RECORDS UNIT
 [^28]: Id.
 [^29]: Post Breach Report of Hongkong and Shanghai Banking Corporation Limited, dated 10 May 2022, at p. 3.
 [^30]: Initial Report (Data Breach Due to Lost Mail Packs dated 29 October 2018) of Hongkong and Shanghai Banking Corporation Limited, dated 31 October 2018, at p. 2.
-[^31]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16-03, rule V, § 11.
+[^31]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular No. 16-03]], rule V, § 11.
 [^32]: Full Breach Report (In Compliance with the Order dated 07 October 2020) of Hongkong and Shanghai Banking Corporation Limited, dated 23 October 2020, at p. 3.
-[^33]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter V, § 20 (f) (2012).
-[^34]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16-03, rule V, § 11 (a).
+[^33]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012]], Republic Act No. 10173, chapter V, § 20 (f) (2012).
+[^34]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular No. 16-03]], rule V, § 11 (a).
 [^35]: Initial Report (Data Breach Due to Lost Mail Packs dated 29 October 2018) of Hongkong and Shanghai Banking Corporation Limited, dated 31 October 2018, at p. 2.
 [^36]: Initial Report (Data Breach Due to Lost Mail Packs dated 29 October 2018) of Hongkong and Shanghai Banking Corporation Limited, dated 31 October 2018, at p. 2.
-[^37]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16-03, rule I, § 3 (F).
+[^37]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular No. 16-03]], rule I, § 3 (F).
 [^38]: Post Breach Report of Hongkong and Shanghai Banking Corporation Limited, dated 10 May 2022.
-[^39]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16-03, rule V, § 18 (A).
+[^39]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular No. 16-03]], rule V, § 18 (A).
 [^40]: Full Breach Report (In Compliance with the Order dated 07 October 2020) of Hongkong and Shanghai Banking Corporation Limited, dated 23 October 2020, at p. 3.
-[^41]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16-03, rule V, § 18 (C) and (D).
+[^41]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular No. 16-03]], rule V, § 18 (C) and (D).
 [^42]: Post Breach Report of Hongkong and Shanghai Banking Corporation Limited, dated 10 May 2022.
 [^43]: Post Breach Report of Hongkong and Shanghai Banking Corporation Limited, dated 10 May 2022. See: Annex 2.

@@ -50,13 +50,13 @@ The Commission issued an Order dated 21 May 2020[^3] directing the Complainant t
 
 On 04 August 2020, Complainant filed a Motion for Extension to Comply with the said Order citing the lockdown of the PRC’s Legal Division from 20 July 2020 to 27 July 2020, and the present classification of the National Capital Region (NCR) as an area placed under Modified Enhanced Community Quarantine (MECQ). Complainant specifically requests that he be given until 02 September 2020 to comply with the said Order.[^4]
 
-On the other hand, Respondent VVV filed his Manifestation and Motion dated 29 July 2020 requesting the Commission to order the Complainant to furnish him a copy of the Verified Reply and allow him to file a Rejoinder. Respondent VVV claims that under Section 15 of NPC Circular 16-04, the respondent may file a Rejoinder after receipt of the Reply from the complainant. Respondent VVV also moved that his other prayers be granted, namely, to (a) note their manifestation; (b) hold in abeyance any clarificatory hearing pending the consideration of his Manifestation and Motion; and (c) note his counsel’s entry of appearance.[^5]
+On the other hand, Respondent VVV filed his Manifestation and Motion dated 29 July 2020 requesting the Commission to order the Complainant to furnish him a copy of the Verified Reply and allow him to file a Rejoinder. Respondent VVV claims that under [[issuances/undated/rules-of-procedure#rule-iii-procedure-in-complaints|Section 15 of NPC Circular 16-04]], the respondent may file a Rejoinder after receipt of the Reply from the complainant. Respondent VVV also moved that his other prayers be granted, namely, to (a) note their manifestation; (b) hold in abeyance any clarificatory hearing pending the consideration of his Manifestation and Motion; and (c) note his counsel’s entry of appearance.[^5]
 
 ### Discussion
 
 The Commission grants Complainant’s Motion for Extension to Comply with the Commission’s Order as well as Respondent VVV’s Manifestation and Motion.
 
-As to Respondent VVV’s Manifestation and Motion for them to file their Rejoinder, Section 15 of NPC Circular 16-04 is applicable. The said section provides that:
+As to Respondent VVV’s Manifestation and Motion for them to file their Rejoinder, [[issuances/undated/rules-of-procedure#rule-iii-procedure-in-complaints|Section 15 of NPC Circular 16-04]] is applicable. The said section provides that:
 
 > Following the receipt of the Discovery Conference Report, the investigating officer shall issue an Order directing the respondent or respondents, as the case may be, to submit within ten (10) days from receipt thereof, a responsive Comment to the Complaint, together with any supporting documents the respondent or respondents may have, including the affidavits of any of the respondents’ witnesses, if any. The investigating officer, upon his or her discretion, may require the complainant to file a Reply within ten (10) days after receipt of the Order requiring the filing of a Reply. Such an Order may also require the respondent to file a Rejoinder within ten (10) days after receipt of the Reply.[^6]
 

@@ -13,6 +13,9 @@ tags:
 - topic/cctv-surveillance
 - type/advisory
 - year/2020
+- topic/employment
+- topic/legitimate-interest
+- topic/security
 date: '2020-11-16'
 draft: false
 ---
@@ -71,7 +74,7 @@ A. Legitimate purpose. Prior to installing a CCTV system, the purpose or purpose
 3. Public order and safety; and
 4. Other legitimate interests.
 
-PICs shall identify an appropriate lawful basis for processing under the DPA and provide such basis when required by the Commission.
+PICs shall identify an appropriate lawful basis for processing under the [[laws/data-privacy-act-of-2012|DPA]] and provide such basis when required by the Commission.
 
 B. Proportionality. The PIC should evaluate whether the installation and operation of CCTV systems and the nature and kind thereof is necessary for its legitimate purpose, considering whether such purposes could be reasonably fulfilled by other less intrusive means. Collection and further processing of personal data from CCTV systems should only be to the extent necessary to fulfill the legitimate purpose.
 
@@ -103,7 +106,7 @@ H. Privacy Impact Assessment. A privacy impact assessment (PIA) helps a PIC dete
 
 A. Household. Generally, the use of CCTV systems for purely personal, family, or household affairs is outside the purview of this Advisory. Nonetheless, the use of these systems shall still bear in mind the rights of every individual to privacy.
 
-Where a CCTV faces outwards from an individual's private property and it captures images of individuals beyond the boundaries of such property, particularly where it monitors a public space, the CCTV system cannot be considered as being for a purely personal, family, or household purpose. As such, the operator of such CCTV system is deemed as a PIC and will be subjected to the obligations under the DPA and the provisions of this Advisory.
+Where a CCTV faces outwards from an individual's private property and it captures images of individuals beyond the boundaries of such property, particularly where it monitors a public space, the CCTV system cannot be considered as being for a purely personal, family, or household purpose. As such, the operator of such CCTV system is deemed as a PIC and will be subjected to the obligations under the [[laws/data-privacy-act-of-2012|DPA]] and the provisions of this Advisory.
 
 B. Security. The use of CCTVs as mandated by local government units (LGUs) for security and peace and order purposes is recognized. Reference can be made to the Department of Interior and Local Government (DILG) Memorandum Circular No. 2014-1193 on the requirement for the installation of CCTVs for certain business establishments and in strategic areas frequented by the public to support law enforcement and crime prevention, deterrence, detection, and solution efforts of the government.[^3]
 
@@ -139,7 +142,7 @@ Where images of parties other than the requesting data subject and/or the person
 
 **SECTION 8.** ***Third Party Access Request.*** When a person, other than a data subject, requests for access to CCTV footage, it shall be treated as a third-party access request. The same policies and procedure as outlined in the previous section on data subject access request shall also be applicable.
 
-PICs should decide on the merits of the request for disclosure based on its internal policy, the DPA, and other existing laws and regulations. Once a PIC has disclosed information to another, the latter becomes responsible for the copy they hold. It is their responsibility to comply with the DPA in relation to any further disclosures. The method of disclosing information should be secure to ensure they are only seen by the intended recipient.
+PICs should decide on the merits of the request for disclosure based on its internal policy, the [[laws/data-privacy-act-of-2012|DPA]], and other existing laws and regulations. Once a PIC has disclosed information to another, the latter becomes responsible for the copy they hold. It is their responsibility to comply with the DPA in relation to any further disclosures. The method of disclosing information should be secure to ensure they are only seen by the intended recipient.
 
 CCTV footage may be disclosed for, but not limited to, the following purposes:
 
@@ -219,9 +222,9 @@ Deputy Privacy Commissioner
 [^1]: Singapore Personal Data Protection Commission, Advisory Guidelines on the PDPA for Selected Topics (revised 28 March 2017).
 [^2]: Privacy Commissioner of New Zealand, Privacy and CCTV: A Guide to the Privacy Act for Businesses, Agencies, and Organizations (2009).
 [^3]: Department of Interior and Local Government, Directing Cities/Capital Towns To Require The Installation Of Closed-Circuit Televisions (CCTV) For Certain Business Establishments In Accordance With Section 16 (General Welfare Clause) Of Republic Act No. 7160 To Support The Maintenance Of Peace And Order And Public Safety [Memorandum Circular No. 2014-119] (Sept. 15, 2014).
-[^4]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-084-npc-advisory-opinion-no-2018-084|NPC Advisory Opinion No. 2018-084]] and 2018-090.
+[^4]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-084-npc-advisory-opinion-no-2018-084|NPC Advisory Opinion No. 2018-084]] and [[advisory-opinions/2018/advisory-opinion-no-2018-090-npc-advisory-opinion-no-2018-090|2018-090]].
 [^5]: National Privacy Commission, Security of Personal Data in Government Agencies, Memorandum Circular No. 16-01 [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular 16-01]] (October 10, 2016).
-[^6]: KRL v. Trinity University, National Privacy Commission CID Case No. 17-K-003 (2019).
+[^6]: [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|KRL v. Trinity University, National Privacy Commission CID Case No. 17-K-003]] (2019).
 
 ## Source
 

@@ -12,6 +12,8 @@ tags:
 - issuance
 - type/circular
 - year/2021
+- topic/breach-notification
+- topic/fees-and-payments
 title: "2021 Rules of Procedure of the National Privacy Commission (Original 2021 Version)"
 ---
 
@@ -241,13 +243,14 @@ amend the complaint once as a matter of right at any time before respondent has 
 
 **SECTION 3.** ***Submission of comment.***  Upon finding that the complaint may be given
 due course, respondent shall be required to file a verified comment within fifteen (15) calendar days from receipt of the order. A copy of the complaint, together with its supporting evidence, shall be attached to the order to comment.
-**SECTION 4.** ***Extraterritorial service by NPC, when allowed.*** When the respondent does not reside and is not found in the Philippines, service may be effected out of the Philippines by personal service or as provided for in international conventions to which the Philippines is a party; or by publication in a newspaper of general circulation in such places and for such time as the investigating officer or Commission may order, in which case a copy of the order to comment shall be sent by registered mail to the last known address of the respondent, or in any other manner the investigating officer or Commission may deem sufficient. The complainant shall bear the cost referred to in this Section.
 
-**SECTION 5.** ***Service by NPC to unknown respondent or respondent whose whereabouts are unknown.*** In cases where the respondent is unknown, or whenever his or her whereabouts are unknown and cannot be ascertained by diligent inquiry, service by the investigating officer or Commission shall be effected upon him or her by publication in a newspaper of general circulation in such places and for such time as the investigating officer or Commission may order. The complainant shall bear the cost of the publication.
+A complaint may be submitted for resolution if respondent does not file a comment within the period provided.
 
-In case the respondent has a known electronic mail address, service by the Commission may be effected upon him or her through electronic mail in lieu of publication.
+**SECTION 4.** ***Content of the comment.*** The respondent shall raise all of his or her defenses in his or her comment. No motions to dismiss shall be entertained: Provided, the investigating officer, in its discretion, may treat the motion to dismiss as the respondent’s comment.
 
-**SECTION 6.** ***Service of judgments, orders, or resolutions of the NPC.*** Judgments, orders, or resolutions shall be served either personally, by registered mail, by courier, or by electronic mail: Provided, that service by electronic mail shall only be made if the party recipient consents to such mode of service or by order of the Commission. Provided further, that when a complaint or pleading is filed through electronic mail, the Commission may serve its judgments, orders, or resolutions by electronic mail through the same electronic mail address used in the filing of the complaint or pleading, unless otherwise indicated therein.
+**SECTION 5.** ***Prohibited pleadings and motions.*** The following pleadings and motions shall not be allowed in the complaint proceedings:
+
+   1. motions to dismiss the complaint;
 
    2. motions for a bill of particulars;
 
@@ -345,9 +348,11 @@ The requesting party may specify the form in which the electronically-stored inf
 
 type of electronically-stored information, the responding party shall produce the information in the form in which it is ordinarily maintained or in a form that is reasonably usable; and (2) a party need not produce the same electronically-stored information in more than one form.
 
-**SECTION 3.** ***Failure of the parties to appear, effect.*** The failure of either of the parties to appear during the preliminary conference without justifiable reason shall cause the conference to be reset once, and upon failure of the party concerned once again to appear, said party shall be deemed to have waived his/her rights to the benefits hereto, including but not limited to mediation, discovery, and/or stipulation of facts.
+A party may object to the discovery of electronically-stored information from sources that the party identifies as not reasonably accessible because of undue burden or expense. In its objection, the party shall identify the reason for the undue burden or expense. In a motion to compel discovery or for a protective order relating to the discovery of electronically-stored information, a party objecting to discovery bears the burden of proving that the information is from a source that is not reasonably accessible because of undue burden or expense.
 
-**SECTION 4.** ***Discovery of electronically-stored information, process.*** If discovery of electronically-stored information is reasonably likely to be sought in the proceeding, the parties shall discuss:
+Despite a showing that electronically-stored information would come from a source that is not reasonably accessible because of undue burden or expense, the investigating officer may still order discovery of such information if the party requesting shows that the likely benefit of the proposed discovery outweighs the likely burden or expense, taking into account the amount in controversy, the resources of the parties, the effect of the privacy violation to the data subject, and the importance of the requested discovery in resolving the issues. The investigating officer may set conditions for discovery of the information, including allocation of the expense.
+
+The investigating officer shall limit the frequency or extent of discovery of electronically-stored information, even from a source that is reasonably accessible, if it is found that:
 
    a. it is possible to obtain the information from some other source that is more
       convenient, less burdensome, or less expensive;
@@ -495,11 +500,16 @@ issues on the basis of all the evidence presented and its own consideration of t
    a. an award of indemnity on matters affecting personal data protection, or rights of
       the data subject, where the indemnity amount to be awarded shall be determined
       based on the provisions of the Civil Code;
-**SECTION 2.** ***Submission of simultaneous memoranda.*** The investigating officer shall require the parties to submit simultaneous memoranda discussing and summarizing their respective causes of action, claims, and defenses within fifteen (15) calendar days from written notice. The memoranda must also include, in simple tabular form, a list of all the evidence presented by the party and purpose to his/her claim or defense. Failure to submit the memorandum within the period provided shall be considered a waiver of such opportunity.
 
-**SECTION 3.** ***Fact-Finding Report.*** Within thirty (30) calendar days from the last day of the reglementary period to file memoranda, the investigating officer shall submit to the Commission a Fact-Finding Report, including the results of the investigation, the evidence gathered, and recommendations. Within ten (10) calendar days from submission of the Fact-Finding Report to the Commission, both parties shall be furnished with a notice that the case has been submitted for decision of the Commission.
+   b. permanent ban on the processing of personal data;
 
-**SECTION 4.** ***Withdrawal of the complaint.*** At any period before the submission of the Fact-Finding Report, the complainant may withdraw the complaint upon approval of the investigating officer and upon such terms and conditions as the latter may deem proper. The investigating officer may recommend either the dismissal of the case, with or without prejudice, or the application of the Commission’s power to initiate sua sponte investigations.
+   c. a recommendation to the Department of Justice for the prosecution and imposition
+      of penalties specified in the Act;
+
+   d. compel or petition any entity, government agency or instrumentality to abide by
+      its orders or take action on a matter affecting data privacy;
+
+   e. impose fines for violations of the Act or issuances of the NPC; or
 
    f. any other order to enforce compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
 
@@ -586,7 +596,7 @@ The preceding paragraph shall likewise apply if the complaint proceedings occurr
 ## RULE XI. BREACH INVESTIGATION
 
 **SECTION 1.** ***Procedure for personal data breach notification.***  The procedure for
-personal data breach notification and other requirements shall be governed by the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Implementing Rules and Regulations, and [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], including any of its amendments. These Rules shall apply in a suppletory character.
+personal data breach notification and other requirements shall be governed by the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], including any of its amendments. These Rules shall apply in a suppletory character.
 
 **SECTION 2.** ***Receipt of data breach notifications.***  The CMD shall be the initial recipient
 of data breach notifications. The CMD shall assign an evaluating officer to evaluate the data breach notification.
@@ -610,16 +620,15 @@ shall endorse to the Commission the following requests from the PIC or PIP:
 **SECTION 5.** ***Initial breach notification evaluation and monitoring.***  The evaluating
 officer shall review the completeness of the data breach notification and determine the other documents needed to assess the PIC or PIP’s breach management.
 
-Moreover, the CMD shall monitor the compliance of the PIC or PIP with the periods in sections.
+Moreover, the CMD shall monitor the compliance of the PIC or PIP with the periods in [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] and the subsequent extensions allowed under the preceding sections.
 
 The CMD may order the submission of additional documents from the PIC or PIP; or in its discretion, apply for a Cease and Desist Order in accordance with Section 2, Rule XII of these Rules.
-**SECTION 4.** ***Conduct of sua sponte investigation.*** The investigating officer or special committee or task force shall investigate the circumstances surrounding the privacy violation or personal data breach. Investigations may include on-site examination of systems and procedures. In the course of the investigation, the parties subject of the investigation may be required to furnish additional information, document or evidence, or to produce additional witnesses.
 
-**SECTION 5.** ***Sua sponte Fact-Finding Report.*** Within thirty (30) calendar days from the termination of the investigation, the investigating officer or special committee or task force shall submit to the Commission a Fact-Finding Report, which shall include the results of the investigation, the evidence gathered, and any recommendations.
+**SECTION 6.** ***Final breach notification evaluation.*** Upon receipt of all the documents required to assess the PIC or PIP’s breach management, the evaluating officer shall prepare a Breach Notification Evaluation Report using all information available to him/her.
 
-**SECTION 6.** ***Order to comment.*** Upon receipt by the Commission of the Fact-Finding Report, the respondent identified after the conduct of the preceding investigation shall be provided a copy of the Fact-Finding Report and given an opportunity to submit a comment. In cases where the respondent or respondents fail without justification to submit an comment or appear before the NPC when so ordered, the Commission shall render its decision on the basis of available information under Rule VIII of these Rules.
+Upon the finding of a possible data privacy violation that needs further investigation, the CMD shall transmit the Breach Notification Evaluation Report to the CID. Otherwise, the CMD shall submit the same to the Commission for adjudication directly.
 
-and/or respondent may be required to furnish additional information, document or evidence, or to produce additional witnesses.
+**SECTION 7.** ***Conduct of breach investigation.*** Upon receipt of the Breach Notification Evaluation Report, an investigating officer shall be assigned by the CID to determine if there is a necessity to conduct an on-site or technical investigation. The investigating officer shall request a proper authority from the NPC before conducting any on-site or technical investigation. The investigating officer may also request assistance from technical personnel of the NPC. In the course of the investigation, the complainant and/or respondent may be required to furnish additional information, document or evidence, or to produce additional witnesses.
 
 **SECTION 8.** ***Fact-Finding Report.*** The investigating officer shall submit to the
 Commission a Fact-Finding Report within thirty (30) calendar days from the termination of the on-site or technical investigation or receipt of the Breach Notification Evaluation Report, whichever is applicable.
@@ -665,26 +674,18 @@ in a newspaper of general circulation.
 
 Approved:
 
-   (Sgd.)
+                                 (Sgd.)
                       RAYMUND ENRIQUEZ LIBORO
                      Privacy Commissioner and Chairman
 
-**SECTION 8.** ***Fact-Finding Report.*** The investigating officer shall submit to the Commission a Fact-Finding Report within thirty (30) calendar days from the termination of the on-site or technical investigation or receipt of the Breach Notification Evaluation Report, whichever is applicable.
+                (Sgd.)                                  (Sgd.)
+      JOHN HENRY DU NAGA                    LEANDRO ANGELO Y. AGUIRRE
+     Deputy Privacy Commissioner              Deputy Privacy Commissioner
 
-**SECTION 9.** ***Order to comment.*** Upon receipt by the Commission of the Fact-Finding Report, the respondent shall be provided a copy of such report and given an opportunity to submit a comment. In cases where the respondent or respondents fail without justification to submit a comment or appear before the NPC when so ordered, the Commission shall render its decision on the basis of available information under Rule VIII of these Rules.
+[^1]: A.M. 01-7-01 (Re: Rules on Electronic Evidence).
+[^2]: *See ibid.*
+[^3]: Act 3326: An Act To Establish Periods Of Prescription For Violations Penalized By Special Acts And Municipal Ordinances And To Provide When Prescription Shall Begin To Run.
 
-**SECTION 10.** ***Failure to submit breach notification.*** Should the NPC receive news, corroborated and substantiated tip, or anonymous complaint that a breach occurred but the PIC or PIP did not submit any notification to the NPC, the latter may use this information to initiate a sua sponte investigation under Rule X.
-
-If during the sua sponte investigation a breach notification was submitted by the PIC or PIP, the CID shall have the discretion to (1) continue the sua sponte investigation; or (2) suspend said investigation through notice to the investigating officer or special committee or task force and refer the breach notification to the CMD for evaluation under this Rule.
-
-**SECTION 11.** ***Post-breach monitoring and compliance.*** The CMD shall monitor and ensure compliance of PICs or PIPs to the judgments, resolutions or orders issued by the Commission with respect to any data breach related cases.
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/01/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf
 - OCR used during extraction: no
-**SECTION 3.** ***Procedure for requests for advisory opinion.*** Procedure for requests for advisory opinion shall be governed by [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|NPC Circular No. 18-01]] including its amendments.
-
-**SECTION 4.** ***Procedure for compliance checks.*** Procedure for the conduct of compliance checks shall be governed by [[issuances/undated/guidelines-on-compliance-checks|NPC Circular No. 18-02]] including its amendments.
-
-**SECTION 5.** ***Procedure for videoconferencing technology.*** Procedure for the use of videoconferencing technology for the remote appearance and testimony of parties before the NPC shall be governed by [[issuances/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|NPC Advisory No. 2020-02]] including its amendments. Notwithstanding any provision of these Rules, the conduct of preliminary conferences, summary hearings, mediation conferences, investigations, clarificatory hearings, and all other hearings conducted by the concerned division and/or Commission may be conducted through videoconferencing technology or through any electronic means as authorized by the Commission.
-
-**SECTION 6.** ***Repealing clause.*** NPC Circulars No. 16-04 and 18-03 are hereby repealed.
-All other issuances by the NPC which are contrary to the provisions of these Rules are also hereby repealed or amended accordingly.

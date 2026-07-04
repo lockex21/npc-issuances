@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-037"
+  - "npc advisory opinion no. 2021-037"
+  - "Advisory Opinion No. 2021-037"
+  - "advisory opinion no. 2021-037"
 ---
 
 ## Source
@@ -56,7 +61,7 @@ information considering the provisions of the DPA.
 #### Lawful Basis For Processing Personal And Sensitive Personal Information (Collectively, Personal Data); Sections 12 And 13
 
 The DPA provides for the various lawful bases for processing personal information under
-Section 12, and sensitive personal information under Section 13.
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]], and sensitive personal information under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]].
 
 We wish to clarify that consent of the data subject is just one of the possible lawful bases for
 processing. In this scenario where an LGU is requesting for information relating to the exercise
@@ -114,10 +119,10 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
-[^3]: Data Privacy Act of 2012, § 3 (b).
+[^3]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (b).
 
 [^4]: An Act Providing for a Local Government Code of 1991 [Local Government Code of 1991], Republic Act No. 7160 (1991).
 
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^5]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18]] (c) (2016).

@@ -1,10 +1,17 @@
 ---
 title: "NPC Advisory Opinion No. 2024-008 — Disclosure of Public Documents Relative to a Local Government Unit’s Purchase of Real Properties"
 description: "Guidance on disclosing public documents containing personal data in connection with government property purchases."
+aliases:
+  - "NPC Advisory Opinion No. 2024-008"
+  - "npc advisory opinion no. 2024-008"
+  - "Advisory Opinion No. 2024-008"
+  - "advisory opinion no. 2024-008"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+  - "topic/government"
+  - "topic/legitimate-interest"
 draft: false
 ---
 
@@ -45,7 +52,7 @@ manner and parameters in which the processing may be conducted, if allowed.
 
 ### Discussion
 
-The Data Privacy Act of 2012 (DPA)[^1] acknowledges that certain public documents containing
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^1] acknowledges that certain public documents containing
 personal data are outside its scope, thus:
 
    SEC. 4. Scope. – This Act applies to the processing of all types of personal
@@ -103,7 +110,7 @@ PIC or by a third party or parties to whom the data is disclosed, except where s
 are overridden by fundamental rights and freedoms of the data subject which require
 protection under the Philippine Constitution.
 
-Section 3(a) of NPC Circular No. 2023-07[^7] defines legitimate interest as any actual and real interest, benefit, or gain that a personal information controller (PIC) or third party may have in or may derive from the processing of personal information. However, processing based on a legitimate interest may only be relied upon when it involves processing of personal information and not when it involves sensitive personal information.
+Section 3(a) of [[issuances/2023/guidelines-on-legitimate-interest|NPC Circular No. 2023-07]][^7] defines legitimate interest as any actual and real interest, benefit, or gain that a personal information controller (PIC) or third party may have in or may derive from the processing of personal information. However, processing based on a legitimate interest may only be relied upon when it involves processing of personal information and not when it involves sensitive personal information.
 
 Please note that the determination of whether legitimate interest is established rests upon the PIC. The case of MAF v. Shopee[^8] is highly instructive on this matter, viz.:
 
@@ -139,11 +146,11 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], (2012).
 [^2]: Emphasis supplied.
-[^3]: National Privacy Commission, NPC Advisory No. 2017-02 (3 April 2017).
+[^3]: National Privacy Commission, [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|NPC Advisory No. 2017-02]] (3 April 2017).
 [^4]: Office of the President, Operationalizing in the Executive Branch the People's Constitutional Right to Information and the State Policies to Full Public Disclosure and Transparency in the Public Service and Providing Guidelines Therefor, Executive Order No. 2 [EO No. 2] (July 23, 2016).
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (a)(1) (2016).
+[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5 (a)(1)]] (2016).
 [^6]: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-026-npc-advisory-opinion-no-2019-026|NPC Advisory Opinion No. 2019-026]] (24 April 2019).
-[^7]: National Privacy Commission, Guidelines on Legitimate Interest, NPC Circular No. 2023-07, (13 December 2023).
+[^7]: National Privacy Commission, Guidelines on Legitimate Interest, [[issuances/2023/guidelines-on-legitimate-interest|NPC Circular No. 2023-07]], (13 December 2023).
 [^8]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]] (22 September 2022).

@@ -51,7 +51,7 @@ Following such submissions, the clarificatory hearing scheduled on 24 SEPTEMBER 
 
 Respondents are directed to APPEAR and address inquiries relating to the previous submissions made for this case. To enable the Commission to take the necessary measures for the security of the hearing, Respondents shall SUBMIT to the Commission, before the date of the hearing, the names and designations of their representatives or counsel, if any. Such representatives or counsel should be competent to address the inquiries relating to the previous submissions made for this case.
 
-In light of the restrictions brought about by the pandemic due to COVID-19, such clarificatory hearing shall be conducted via remote appearance through [ ] and guided by NPC Advisory No. 2020-02 or "Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission."
+In light of the restrictions brought about by the pandemic due to COVID-19, such clarificatory hearing shall be conducted via remote appearance through [ ] and guided by [[issuances/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|NPC Advisory No. 2020-02]] or "Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission."
 
 Failure to comply with this Order shall cause the Commission to adjudicate the issues on the basis of the evidence on record.
 

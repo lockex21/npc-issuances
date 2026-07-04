@@ -11,6 +11,9 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/breach-notification
+  - topic/registration
+  - topic/security
 date: "2021-01-21"
 draft: false
 ---
@@ -50,7 +53,7 @@ The affected data subject did not file any complaint in relation to the said bre
 
 On 15 August 2019, this Commission issued a Resolution[^2] disposing, thus:
 
-"WHEREFORE, premises considered, this Commission finds that no further action is necessary in this case, without prejudice to such other relief in case of new information. The SSS is ORDERED to submit a complete report on its management of this Personal Data Breach in compliance with Section 9 of Circular 16-03, within thirty (30) days from receipt of this Order."
+"WHEREFORE, premises considered, this Commission finds that no further action is necessary in this case, without prejudice to such other relief in case of new information. The SSS is ORDERED to submit a complete report on its management of this Personal Data Breach in compliance with Section 9 of [[issuances/undated/personal-data-breach-management|Circular 16-03]], within thirty (30) days from receipt of this Order."
 
 On 11 October 2019, SSS submitted a Compliance Report[^3] dated 09 October 2019 before this Commission.
 
@@ -67,7 +70,7 @@ The SSS Compliance Report contained the following attachments:
 5. Data Breach Notification Report submitted to NPC on 04 November 2017, thru email; and
 6. Office Memorandum confirming the conduct of series of seminars to SSS Personnel on Data Privacy Act of 2012 from 26 October 2017 to 17 January 2018.
 
-As provided in Section 9 of the NPC Circular 16-03, all actions that are implemented by a Personal Information Controller (PIC) shall be properly documented, which shall include the following:
+As provided in Section 9 of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], all actions that are implemented by a Personal Information Controller (PIC) shall be properly documented, which shall include the following:
 
 A. Description of the personal data breach, its root cause and circumstances regarding its discovery;
 B. Actions and decisions of the incident response team;
@@ -127,6 +130,6 @@ National Privacy Commission
 [^1]: SSS Breach Notification Report dated 04 November 2017
 [^2]: Resolution dated 15 August 2019
 [^3]: SSS Compliance with NPC Resolution dated 15 August 2019 "Re: Data Breach Notification of SSS" NPC BN 17-032, dated 09 October 2019
-[^4]: Section 9 of NPC Circular 16-03
-[^5]: Section 17 of the NPC Circular 16-03
-[^6]: Section 20 of R. A. 10173 or the Data Privacy Act of 2012
+[^4]: Section 9 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]
+[^5]: Section 17 of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]
+[^6]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20]] of R. A. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]

@@ -1,11 +1,18 @@
 ---
-title: “NPC Advisory Opinion No. 2017-049 — Teachers’ Right to Search a Minor Student’s Cellular Phone”
-description: “Advisory opinion on whether teachers may lawfully search a minor student’s cellular phone without consent, addressing constitutional protections and data privacy law.”
+title: "NPC Advisory Opinion No. 2017-049 — Teachers’ Right to Search a Minor Student’s Cellular Phone"
+description: "Advisory opinion on whether teachers may lawfully search a minor student’s cellular phone without consent, addressing constitutional protections and data privacy law."
 tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/children
+  - topic/consent
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2017-049"
+  - "npc advisory opinion no. 2017-049"
+  - "Advisory Opinion No. 2017-049"
+  - "advisory opinion no. 2017-049"
 ---
 
 ## Source

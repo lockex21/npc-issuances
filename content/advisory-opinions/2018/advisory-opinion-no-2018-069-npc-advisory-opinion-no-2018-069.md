@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/data-sharing
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-069"
+  - "npc advisory opinion no. 2018-069"
+  - "Advisory Opinion No. 2018-069"
+  - "advisory opinion no. 2018-069"
 ---
 
 ## Source
@@ -53,7 +59,7 @@ For your information, the DPA applies to any processing of all types of personal
 
 Under the DPA, the processing of personal data is allowed, subject to its compliance with the statute and other applicable laws. Adherence to the principles of transparency, legitimate purpose, and proportionality is also paramount.
 
-Sections 12 and 13 of the DPA lay down the criteria for the lawful processing of personal and sensitive personal information, respectively. Any permissible processing must rely on at least one of the conditions set out in the law, depending on the type of information involved.
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA lay down the criteria for the lawful processing of personal and sensitive personal information, respectively. Any permissible processing must rely on at least one of the conditions set out in the law, depending on the type of information involved.
 
 As personal information controllers, Mapúa and Globe are reminded of their obligations under the DPA, which includes the requirement to implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any accidental or unlawful processing.
 
@@ -74,9 +80,9 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
-[^2]: Data Privacy Act of 2012, § 3 (g).
+[^2]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]].
 [^3]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), Recital 26.
 [^4]: *Ibid.*
 [^5]: *Ibid.*
 [^6]: Article 29 Data Protection Working Party, Opinion 05/2014 on Anonymisation Techniques, 10 April 2014, §2.2.2 – Potential identifiability of anonymized data.
-[^7]: Data Privacy Act of 2012, § 3 (g).
+[^7]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]].

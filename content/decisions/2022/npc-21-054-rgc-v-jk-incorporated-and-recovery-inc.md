@@ -11,6 +11,7 @@ tags:
   - "type/decision"
   - "year/2021"
   - "npc-case"
+  - "topic/employment"
 date: "2022-09-22"
 draft: false
 ---
@@ -44,7 +45,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before this Commission is a Complaint filed by RGC against JK Incorporated & Recovery, Inc. (JK Incorporated) for alleged privacy violations of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by RGC against JK Incorporated & Recovery, Inc. (JK Incorporated) for alleged privacy violations of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -201,7 +202,7 @@ The elements of Section 31 are:
 
 Here, JK Incorporated claimed that it is the collecting agent of PS Bank and received the endorsement of RGC's loan obligation.[^75]
 
-[[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2 (i) of the DPA]] provides:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (i) of the DPA]] provides:
 
 > (i) *Personal information processor* refers to any natural or juridical person qualified to act as such under this Act to whom a personal information controller may outsource the processing of personal data pertaining to a data subject.
 
@@ -321,25 +322,25 @@ GENERAL RECORDS UNIT
 [^52]: Complaints-Assisted Form dated 25 February 2021 of RGC, at p. 3.
 [^53]: Memorandum (Complainant) dated 25 October 2021, ¶¶ 21-24.
 [^54]: *Id*, ¶ 11.
-[^55]: National Privacy Commission Advisory Opinion 2018-059, Skip tracing and probing of contact details through the internet and third parties, (4 October 2018).
+[^55]: National Privacy Commission [[advisory-opinions/2018/advisory-opinion-no-2018-059-npc-advisory-opinion-no-2018-059|Advisory Opinion 2018-059]], Skip tracing and probing of contact details through the internet and third parties, (4 October 2018).
 [^56]: De Jesus v. Guerrero III, G.R. No. 171491, 04 September 2009.
 [^57]: *Id.*
 [^58]: Memorandum (Complainant) dated 25 October 2021, Annex "A".
 [^59]: National Bureau of Investigation v. Nijera, G.R. No. 237522 (Resolution), 30 June 2020.
-[^60]: Data Privacy Act of 2012, chapter III, § 11. See also National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, rule IV, § 18 (2016) (IRR of the DPA).
+[^60]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter III, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]]. See also National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18]] (2016) (IRR of the DPA).
 [^61]: See Memorandum of the Respondent dated 29 October 2021, at p. 3; Memorandum (Complainant) dated 25 October 2021, ¶ 10.
 [^62]: *Id.* ¶ 8.
 [^63]: *Id.* ¶ 21.
-[^64]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 29 (2012).
+[^64]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter VIII, [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|§ 29]] (2012).
 [^65]: [[decisions/2021/npc-18-109-acn-v-dt|NPC 18-109]], 01 June 2021.
 [^66]: Facebook Privacy Policy, 9 September 2016, See "What kinds of information do we collect".
 [^67]: *Id*, See "How can I manage or delete information about me".
 [^68]: On the contrary, JK Incorporated stated that it was able to message Rica by visiting RGC's Facebook Account. Further, it alleged that it was able to get RMC details through the comments of RGC's public Facebook post.
 [^69]: *Id.*
 [^70]: *Id.* at p. 7.
-[^71]: NPC Advisory Opinion 2018-059, Skip tracing and probing of contact details through the internet and third parties, (4 October 2018). See, DPA definition of processing in footnote.
+[^71]: NPC [[advisory-opinions/2018/advisory-opinion-no-2018-059-npc-advisory-opinion-no-2018-059|Advisory Opinion 2018-059]], Skip tracing and probing of contact details through the internet and third parties, (4 October 2018). See, DPA definition of processing in footnote.
 [^72]: Memorandum (Complainant) dated 25 October 2021, ¶ 24.
-[^73]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 31 (2012).
+[^73]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter VIII, [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|§ 31]] (2012).
 [^74]: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-015]], 03 February 2022
 [^75]: Memorandum of the Respondent dated 29 October 2021, at p. 2.
 [^76]: Complaints-Assisted Form dated 25 February 2021 of RGC, at p. 3.

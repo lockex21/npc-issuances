@@ -1,10 +1,16 @@
 ---
 title: "NPC Advisory Opinion No. 2017-025 — Employer’s Access to Employee’s Healthcare Service Usage"
 description: "Guidance on whether employers can access detailed employee healthcare service usage information and how to address contagious disease concerns within data privacy law."
+aliases:
+  - "NPC Advisory Opinion No. 2017-025"
+  - "npc advisory opinion no. 2017-025"
+  - "Advisory Opinion No. 2017-025"
+  - "advisory opinion no. 2017-025"
 tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/employment
 draft: false
 ---
 
@@ -30,7 +36,7 @@ summary of your employees’ healthcare service usage. You also raised concern t
 Human Resource Office will not be made aware if any employee has a contagious illness that
 could put at risk other employees.
 
-Under the Data Privacy Act of 2012 (DPA), an individual’s health information is classified as sensitive personal information.[^1] This means that as a general rule, health information can only be processed if the data subject or patient consents, or if one of the conditions provided in the DPA is met. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] provides:
+Under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), an individual’s health information is classified as sensitive personal information.[^1] This means that as a general rule, health information can only be processed if the data subject or patient consents, or if one of the conditions provided in the DPA is met. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] provides:
 
 > **Section 13. Sensitive Personal Information and Privileged Information.** – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
@@ -99,4 +105,4 @@ Officer-in-Charge and
 Deputy Privacy Commissioner
 Policies and Planning
 
-[^1]: RA 10173 §3(l)
+[^1]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA 10173 §3(l)]]

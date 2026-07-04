@@ -5,6 +5,12 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/government
+aliases:
+  - "NPC Advisory Opinion No. 2017-029"
+  - "npc advisory opinion no. 2017-029"
+  - "Advisory Opinion No. 2017-029"
+  - "advisory opinion no. 2017-029"
 draft: false
 ---
 
@@ -24,7 +30,7 @@ Dear [Redacted],
 
 ### Discussion
 
-This refers to the letters of the Securities and Exchange Commission (SEC) dated 3 August 2016 and 4 February 2017 to the National Privacy Commission (NPC), seeking guidance regarding the implications of Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA), and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) on the operations of the SEC, including the public's access to the SEC Reverse Search Module (RSM).
+This refers to the letters of the Securities and Exchange Commission (SEC) dated 3 August 2016 and 4 February 2017 to the National Privacy Commission (NPC), seeking guidance regarding the implications of [[laws/data-privacy-act-of-2012|Republic Act No. 10173, also known as the Data Privacy Act of 2012]] (DPA), and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) on the operations of the SEC, including the public's access to the SEC Reverse Search Module (RSM).
 
 #### SEC and its Computerization Program
 
@@ -78,7 +84,7 @@ The SEC must re-examine its current data processing systems, practices, programs
 
 #### Tax Identification Number (TIN)
 
-[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] states that sensitive personal information includes personal information issued by government agencies peculiar to an individual. This makes an individual's TIN[^17] sensitive personal information the processing of which is prohibited, except in the instances provided in Section 13 of the same law. One such instance is when processing is allowed or required by existing laws and regulations[^18] and/or when the information is to be provided to a public authority or the government.[^19]
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] states that sensitive personal information includes personal information issued by government agencies peculiar to an individual. This makes an individual's TIN[^17] sensitive personal information the processing of which is prohibited, except in the instances provided in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]] of the same law. One such instance is when processing is allowed or required by existing laws and regulations[^18] and/or when the information is to be provided to a public authority or the government.[^19]
 
 Executive Order (EO) No. 98 (1999) directs all government agencies to require the TIN in all applications involving government permits, licenses, clearances, official papers, and/or documents. Whenever possible and where applicable, those documents cannot be issued without such information.[^20] In addition, the National Internal Revenue Code (NIRC), as amended, also requires that the TIN be indicated in certain documents, including those to be registered with the SEC.[^21]
 
@@ -133,21 +139,21 @@ for Policies and Planning
 [^10]: SEC Office Order No. 344, s. 2006.
 [^11]: id.
 [^12]: Ellen T. Toredesillas. SEC policy disallowing reverse search a blow to transparency. ABS-CBN News. (November 21, 2016). http://news.abs-cbn.com/opinions/11/20/16/sec-policy-disallowing-reverse-search-a-blow-to-transparency (last visited 21 February 2017).
-[^13]: IRR, §5(b).
+[^13]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|IRR, §5(b)]].
 [^14]: id., §5.
 [^15]: id.
-[^16]: IRR, §18(c).
+[^16]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|IRR, §18(c)]].
 [^17]: National Internal Revenue Code (NIRC), §236(J), "Only one Taxpayer Identification Number (TIN) shall be assigned to a taxpayer."; Revenue Regulations (RR) No. 7-2012, §3(3), "Taxpayer Identification Number (TIN)" - shall pertain to the system-generated reference index number issued and assigned by the BIR to each and every person registered in its database. In all of the business and/or personal transactions of the registered person whether these are with government offices or otherwise, this reference index number is required to be indicated.
-[^18]: RA 10173, §13(b)
+[^18]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|RA 10173, §13(b)]]
 [^19]: id., §13(f)
 [^20]: EO No. 98, §2
 [^21]: NIRC, §236(J)(5).
 [^22]: There is a prominent sign at the top of the sheet which states "NOT FOR UPLOADING".
-[^23]: RA 10173, §11(b).
-[^24]: IRR, §19(b).
+[^23]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|RA 10173, §11(b)]].
+[^24]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|IRR, §19(b)]].
 [^25]: EO 98, Whereas clauses.
 [^26]: RA 8799, §2.
 [^27]: PSE, http://www.pse.com.ph/corporate/home.html?tab=0, (last visited 21 April 2017).
 [^28]: see: http://edge.pse.com.ph/.
 [^29]: PSE EDGE, http://edge.pse.com.ph/page/aboutPseEdge.do, (last visited 21 April 2017).
-[^30]: RA 10173, §4(e).
+[^30]: [[laws/data-privacy-act-of-2012#section-4-scope|RA 10173, §4(e)]].

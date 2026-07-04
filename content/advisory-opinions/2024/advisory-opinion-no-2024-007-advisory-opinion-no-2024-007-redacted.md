@@ -1,10 +1,16 @@
 ---
 title: "NPC Advisory Opinion No. 2024-007 — Disclosure and Release of Incident Reports by an Educational Institution"
 description: "Guidance on releasing incident reports containing personal information while balancing privacy rights and institutional accountability."
+aliases:
+  - "NPC Advisory Opinion No. 2024-007"
+  - "npc advisory opinion no. 2024-007"
+  - "Advisory Opinion No. 2024-007"
+  - "advisory opinion no. 2024-007"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+  - "topic/data-subject-rights"
 draft: false
 ---
 
@@ -48,7 +54,7 @@ discussions below.
 
 Lawful criteria for processing; Adherence to Data Privacy Principles
 
-The disclosure or sharing of personal and sensitive personal information (collectively, personal data) is considered as processing under the Data Privacy Act of 2012 (DPA). An incident report is a document which contains sensitive personal information because it necessarily involves information concerning an infraction committed or alleged to have been committed by an individual.[^2] In NPC Advisory Opinion 2020-013[^3] we stated that processing of sensitive personal information shall be considered lawful when it fulfills any one of the criteria listed under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
+The disclosure or sharing of personal and sensitive personal information (collectively, personal data) is considered as processing under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA). An incident report is a document which contains sensitive personal information because it necessarily involves information concerning an infraction committed or alleged to have been committed by an individual.[^2] In NPC Advisory Opinion 2020-013[^3] we stated that processing of sensitive personal information shall be considered lawful when it fulfills any one of the criteria listed under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 In response to questions 1, 2, 6 and 7, in general, the processing of sensitive personal information is prohibited, unless it is necessary for the protection of lawful rights and interests of natural or juridical persons in proceedings, or for the establishment, exercise or defense of legal claims, or when provided to government or public authority in the exercise of their mandate.[^4] Therefore, disclosure of sensitive personal information is permissible even without a court order if based upon the foregoing circumstances regardless if the disclosure is made to those directly involved, those merely mentioned, or to public authorities in the exercise of their mandate.
 
@@ -87,11 +93,11 @@ FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
 [^1]: Incident reports; court order; proportionality; law enforcement.
-[^2]: Data Privacy Act 2021, § 3 (l) (2).
+[^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act 2021, § 3 (l) (2)]].
 [^3]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-013-redacted-advisory-opinion-no-2020-013-2|NPC Advisory Opinion No. 2020-013]] (21 February 2020).
-[^4]: Ibid. § 13
+[^4]: Ibid. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]]
 [^5]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-071-npc-advisory-opinion-no-2018-071|NPC Advisory Opinion No. 2018-071]] (5 October 2018).
 [^6]: National Privacy Commission, NPC Advisory Opinion No. 2023-18 (29 September 2023).
-[^7]: Data Privacy Act 2021, § 11
+[^7]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act 2021, § 11]]
 [^8]: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-001-request-of-an-overseas-filipino-worker-ofw-to-delete-records-stored-in-the-balik-manggagawa-online-system|NPC Advisory Opinion No. 2021-001]] (19 January 2021).
 [^9]: Ibid.

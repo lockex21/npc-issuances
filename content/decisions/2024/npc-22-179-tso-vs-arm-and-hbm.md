@@ -8,6 +8,7 @@ tags:
   - type/decision
   - year/2022
   - npc-case
+  - topic/legitimate-interest
 aliases:
   - "NPC 22-179"
   - "npc 22-179"
@@ -48,7 +49,7 @@ x------------------------------------------------------x
 
 NAGA, P.C.;
 
-Before the Commission is a Complaint dated 15 August 2022 filed by TSO (Complainant) against ARM and HBM (Respondents) for an alleged violation of the Data Privacy Act of 2012 or Republic Act No. 10173 (DPA).[^1]
+Before the Commission is a Complaint dated 15 August 2022 filed by TSO (Complainant) against ARM and HBM (Respondents) for an alleged violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 or Republic Act No. 10173 (DPA)]].[^1]
 
 ### Facts
 
@@ -180,7 +181,7 @@ Respondent HBM's Judicial Affidavit in the subject civil case[^66] also offered 
 
 A close perusal of the stream of messages[^68] reveals that the Complainant identified herself and made accusation of offenses allegedly committed against her and her family by Respondent ARM and her husband. However, the messages divulged by the Complainant to Respondent HBM could not be considered as privileged information since it would not satisfy the requirement that public interest would suffer by the disclosure. The issues of the information contained therein have no direct effect to the public and it would not naturally arouse the interest of an ordinary citizen.
 
-Neither can the communication between Respondent HBM and the Complainant be tagged as sensitive personal information. Section 3 (l) of the DPA is cited, thus:
+Neither can the communication between Respondent HBM and the Complainant be tagged as sensitive personal information. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]] is cited, thus:
 
 > **SEC. 3. Definition of Terms.** – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -389,23 +390,23 @@ National Privacy Commission
 [^55]: Motion to Dismiss dated 30 June 2023 of TSO.
 [^56]: *Id.*
 [^57]: Joint Comment dated 10 October 2022 of Respondents ARM and HBM, ¶¶ 56-57.
-[^58]: 2021 RULES OF PROCEDURE OF THE NATIONAL PRIVACY COMMISSION, [NPC Circular No. 2021-01], rule II, § 2 (2021).
+[^58]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|2021 RULES OF PROCEDURE OF THE NATIONAL PRIVACY COMMISSION, [NPC Circular No. 2021-01], rule II, § 2]] (2021).
 [^59]: *CL v. DDZ, DM v. DDZ*, [[decisions/2021/npc-19-030-and-npc-19-132-cl-vs-ddz-and-dm-vs-ddz|NPC 19-030]], Decision dated 10 June 2021, p. 5.
 [^60]: Complaint dated 15 August 2022 of Complainant TSO, ¶ 19.
-[^61]: Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 13.
-[^62]: Data Privacy Act of 2012, Republic Act No. 10173, chapter I, § 3 (k).
+[^61]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 13]].
+[^62]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, Republic Act No. 10173, chapter I, § 3 (k)]].
 [^63]: 2019 PROPOSED AMENDMENTS TO THE REVISED RULES ON EVIDENCE, rule 130, § 24 ¶ (e).
 [^64]: *Banco Filipino Savings and Mortgage Bank, v. The Monetary Board*, Central Bank of the Philippines, Jose B. Fernandez, Carlota P. Valenzuela, Arnulfo B. Aurellano and Ramon V. Tiaoqui, G.R. No. 70054, 11 December 1991.
 [^65]: *Mario Jose E. Sereno v. Committee on Trade and Related Matters (CTRM) of NEDA*, G.R. No. 175210, 01 February 2016.
 [^66]: Annex "D" of the Complaint dated 15 August 2022 by Complainant TSO, p. 1.
 [^67]: Annex "B" and series of the Complaint dated 15 August 2022 by Complainant TSO, pp. 15-18.
 [^68]: *Id.*
-[^69]: Data Privacy Act of 2012, Republic Act No. 10173, chapter I, § 3 (l).
-[^70]: Data Privacy Act of 2012, Republic Act No. 10173, chapter I, § 3 (g).
+[^69]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, Republic Act No. 10173, chapter I, § 3 (l)]].
+[^70]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, Republic Act No. 10173, chapter I, § 3 (g)]].
 [^71]: *Id.*
 [^72]: Annex "D" of the Complaint dated 15 August 2022 by Complainant TSO, p. 3.
-[^73]: Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 12 (f).
-[^74]: Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 13 (f).
+[^73]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 12 (f)]].
+[^74]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, Republic Act No. 10173, chapter III, § 13 (f)]].
 [^75]: *JCB v. FRL*, [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], Decision dated 03 March 2022, at p. 10.
 [^76]: *Id.* at p. 11.
 [^77]: Joint Comment dated 10 October 2022 of Respondents ARM and HBM, ¶ 34.
@@ -414,9 +415,9 @@ National Privacy Commission
 [^80]: Joint Comment dated 10 October 2022 of Respondents ARM and HBM, ¶ 20.
 [^81]: Joint Comment dated 10 October 2022 of Respondents ARM and HBM, ¶ 16.
 [^82]: Manifestation dated 13 April 2023 by the Respondents, ¶ 1.
-[^83]: NPC Circular 2021-01, rule VI, § 5, ¶ (1) (2021).
+[^83]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-vi-alternative-dispute-resolution|NPC Circular 2021-01, rule VI, § 5, ¶ (1)]] (2021).
 [^84]: Motion to Dismiss dated 30 June 2023 of Complainant TSO.
-[^85]: NPC Circular No. 2021-01, rule VII, § 4 (2021).
+[^85]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-vii-investigation-phase|NPC Circular No. 2021-01, rule VII, § 4]] (2021).
 [^86]: *Divina Palao v. Florentino International, Inc.*, G.R. No. 186967, January 18, 2017 (citing *Augusto R. Samalio v. Court of Appeals*).
 [^87]: Exhibit "A," Motion to Dismiss dated 30 June 2023 by Complainant TSO.
 [^88]: Emphasis supplied.

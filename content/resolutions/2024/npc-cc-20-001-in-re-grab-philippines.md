@@ -11,6 +11,11 @@ tags:
   - type/resolution
   - year/2024
   - npc-case
+  - topic/cctv-surveillance
+  - topic/consent
+  - topic/cross-border-transfers
+  - topic/data-subject-rights
+  - topic/security
 date: "2024-09-17"
 draft: false
 ---
@@ -73,7 +78,7 @@ Grab PH shall **SUBMIT** its compliance with the aforementioned directives of th
 
 **SO ORDERED**.[^15]
 
-In the said Order, the Commission deemed it necessary to require Grab PH to remediate the issues found in its PIA for the Consumer Verification via Selfie.[^16] According to the submitted PIA, Grab PH indicated that the Selfie data "may be retained as long as necessary if it is related to safety incidents."[^17] However, the Commission stated that the retention of the selfie data for an indefinite period is contrary to the Data Privacy Act of 2012 (DPA).[^18] Thus, the Commission required Grab PH to revise its PIA on the retention period in accordance with the DPA.[^19]
+In the said Order, the Commission deemed it necessary to require Grab PH to remediate the issues found in its PIA for the Consumer Verification via Selfie.[^16] According to the submitted PIA, Grab PH indicated that the Selfie data "may be retained as long as necessary if it is related to safety incidents."[^17] However, the Commission stated that the retention of the selfie data for an indefinite period is contrary to the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^18] Thus, the Commission required Grab PH to revise its PIA on the retention period in accordance with the DPA.[^19]
 
 Moreover, as observed by the Commission, Grab PH's PIA indicated that the "disposal of selfie data stored in AWS S3 is done by the Grab Database Team, upon request and approval from Grab Safety Engineering Team."[^20] Also, the PIA stated that the selfie data will be disposed if the same is requested by the Consumer or the removal thereof is due to the Consumer's inactive account, unless the account is related in safety incidents.[^21]
 
@@ -125,7 +130,7 @@ Thus, the Commission denied the Motion to Resolve and directed Grab PH to delete
 
 2. **DIRECTS** Grab PH to **DELETE** within three (3) months, the personal data of its previous clients with deactivated accounts and to **SUBMIT** proof of such deletion to the Compliance and Monitoring Division (CMD); and,
 
-3. **DIRECTS** the CMD to issue the appropriate orders to monitor the completeness of Grab PH's data breach notification and assess its breach management pursuant to NPC Circular 16-03 (Personal Data Breach Management).
+3. **DIRECTS** the CMD to issue the appropriate orders to monitor the completeness of Grab PH's data breach notification and assess its breach management pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).
 
 **SO ORDERED**.[^37]
 
@@ -191,7 +196,7 @@ Whether the Cease-and-Desist Order dated 03 February 2020 should be lifted.
 
 ### Discussion
 
-The DPA focuses on protecting people's privacy rights, setting rules for data protection, and encouraging openness among organizations.[^72] In enforcing privacy principles, a personal information controller (PIC) must put in place reasonable and appropriate organizational, physical, and technical measures to protect personal data.[^73]
+The [[laws/data-privacy-act-of-2012|DPA]] focuses on protecting people's privacy rights, setting rules for data protection, and encouraging openness among organizations.[^72] In enforcing privacy principles, a personal information controller (PIC) must put in place reasonable and appropriate organizational, physical, and technical measures to protect personal data.[^73]
 
 Moreover, a PIC has the obligation to collect personal information for specified and legitimate purposes only, collect and process the same adequately and not excessively.[^74] Personal information should be accurate, relevant, and up-to-date, and retained only for as long as necessary for the fulfillment of the purposes for which it was obtained.[^75]
 
@@ -271,7 +276,7 @@ Thus, the Commission finds that the reduction of the retention period of the Sel
 
 Nevertheless, Grab PH stated in its Manifestation dated 20 August 2024 that the Commission's findings that its PIA "did not specifically state that the Selfie data are retained "as long as it is necessary to fulfill the purposes for which [they were] obtained," or "retain them with a maximum period of 10 years" thus violating proportionality is incorrect."[^98]
 
-Under the proportionality principle enshrined under Chapter II, Section 11 of the DPA:
+Under the proportionality principle enshrined under Chapter II, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]]:
 
 > **SEC. 11. General Data Privacy Principles. –** The processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.
 >
@@ -626,10 +631,10 @@ National Privacy Commission
 [^69]: Id.
 [^70]: Id.
 [^71]: Id.
-[^72]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^73]: Id., chapter V § 20.
-[^74]: Id., chapter III § 11(d).
-[^75]: Id., § 11(e).
+[^72]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^73]: Id., chapter V [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20]].
+[^74]: Id., chapter III [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11(d)]].
+[^75]: Id., [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11(e)]].
 [^76]: In Re: Grab Ph Selfie Verification and In-Vehicle Audio and Video Recording, NPC CC 20-001, Cease-and-Desist Order dated 04 February 2020, at p. 7.
 [^77]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex B.
 [^78]: Id., referred to as Annex "B" at pp. 4-5.
@@ -653,8 +658,8 @@ National Privacy Commission
 [^96]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 5.
 [^97]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex "B" at p. 15.
 [^98]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 4.
-[^99]: Data Privacy Act of 2012, chapter III, § 11.
-[^100]: National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18(c) (2016).
+[^99]: Data Privacy Act of 2012, chapter III, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
+[^100]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]], rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(c)]] (2016).
 [^101]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, at p. 4.
 [^102]: Id., referred to as Annex "B" at p. 23.
 [^103]: Id., referred to as Annex "B" at p. 15.
@@ -691,7 +696,7 @@ National Privacy Commission
 [^134]: Id., at pp. 4-5.
 [^135]: Compliance Evaluation Report to the Amended PIA dated 15 August 2024 of Grab PH, at p. 1.
 [^136]: Id., at pp. 1-2.
-[^137]: Data Privacy Act of 2012, chapter III, § 11(c).
+[^137]: Data Privacy Act of 2012, chapter III, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11(c)]].
 [^138]: Manifestation (to Order dated 8 January 2024) dated 20 August 2024 of Grab Philippines, at p. 5.
 [^139]: Id.
 [^140]: Id.

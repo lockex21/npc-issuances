@@ -42,7 +42,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission is a Complaint filed by RTB against East West Banking Corporation (EWBC) for an alleged disclosure of his personal information without a lawful basis under the Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by RTB against East West Banking Corporation (EWBC) for an alleged disclosure of his personal information without a lawful basis under the [[laws/data-privacy-act-of-2012|Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -58,7 +58,7 @@ Sometime in January 2021, RTB brought the issue to EWBC's attention and stated t
 
 EWBC conducted an internal investigation and determined that its branch personnel inadvertently failed to deposit RTB's post-dated check designated for the payment due on 28 December 2020.[^8] EWBC's inaction resulted in the system's classification of RTB's account as past due and consequently, the referral of the account to its third-party collection agency for collection.[^9]
 
-On 25 May 2021, RTB filed a Complaint dated 14 May 2021 against EWBC.[^10] He alleges that EWBC processed and disclosed his personal information to third-party collection agents.[^11] He argues that EWBC violated Section 25 (Unauthorized Processing), Section 26 (Access due to Negligence), Section 28 (Processing for Unauthorized Purpose), and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].[^12] He prays for damages, issuance of a fine against EWBC, and a waiver of the outstanding balance of the car loan.[^13]
+On 25 May 2021, RTB filed a Complaint dated 14 May 2021 against EWBC.[^10] He alleges that EWBC processed and disclosed his personal information to third-party collection agents.[^11] He argues that EWBC violated [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (Unauthorized Processing)]], [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Access due to Negligence)]], [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 (Processing for Unauthorized Purpose)]], and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].[^12] He prays for damages, issuance of a fine against EWBC, and a waiver of the outstanding balance of the car loan.[^13]
 
 On 24 June 2021, the Commission issued an Order directing EWBC to file a verified comment within fifteen (15) calendar days from receipt of this Order.[^14]
 
@@ -192,11 +192,11 @@ National Privacy Commission
 [^26]: *Id.* at 10.
 [^27]: *Id.*
 [^28]: *Id.* at 11.
-[^29]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No.10173 § 12 (b) (2012).
+[^29]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No.10173 [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (b)]] (2012).
 [^30]: Comment (To Complaint dated 14 May 2021), 28 July 2021, at 3, in *RTB v. East West Banking Corporation*, NPC 21-086 (NPC 2021).
 [^31]: *Banta v. Equitable Bank, Inc.*, et al., G.R. No. 223694 (2021).
-[^32]: *Data Privacy Act of 2012, § 11 (c).*
+[^32]: *[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11 (c)]].*
 [^33]: *Id. § 16 (f).*
-[^34]: *Data Privacy Act of 2012, § 7 (b).*
+[^34]: *[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|§ 7 (b)]].*
 [^35]: NPC 18-038, 21 May 2020 (NPC 2020) (unreported).
 [^36]: *Id.*

@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+aliases:
+  - "NPC Advisory Opinion No. 2020-011"
+  - "npc advisory opinion no. 2020-011"
+  - "Advisory Opinion No. 2020-011"
+  - "advisory opinion no. 2020-011"
 draft: false
 ---
 
@@ -25,7 +30,7 @@ Dear [Redacted],
 
 We write in response to your letter requesting for an advisory opinion from the National
 Privacy Commission (NPC) on whether you can be allowed to secure the birth certificates of
-your seven siblings from the Philippine Statistics Authority (PSA), pursuant to Section 12 (c)
+your seven siblings from the Philippine Statistics Authority (PSA), pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c)]]
 and (f) and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the Data Privacy Act of 2012]][^2] (DPA).
 
 ### Discussion

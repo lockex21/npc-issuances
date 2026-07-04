@@ -7,7 +7,14 @@ tags:
   - year/2019
   - government-database
   - data-protection
+  - topic/government
+  - topic/security
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-012"
+  - "npc advisory opinion no. 2019-012"
+  - "Advisory Opinion No. 2019-012"
+  - "advisory opinion no. 2019-012"
 ---
 
 ## Source
@@ -37,7 +44,7 @@ Based on your letter, the FEO already processes online the applications for Lice
 
 #### No legal impediment for foreign host of database
 
-The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) does not prohibit hosting of government databases by a foreign entity. There is no requirement in the DPA relating to the nationality of service providers, either for the government or the private sector. In cases where a personal information controller[^3] (PIC) subcontracts or outsources the processing of personal data to a personal information processor[^4] (PIP), such as the engagement of a service provider for hosting services, the PIC remains primarily accountable for the protection of personal data under its control, even when it is already being processed by a PIP. Thus, the FEO is required to "use contractual or other reasonable means to ensure that proper safeguards are in place, to ensure the confidentiality, integrity and availability of the personal data processed, prevent its use for unauthorized purposes."[^5] The FEO must also consider the provisions on outsourcing or subcontracting of personal data processing under the law and its Implementing Rules and Regulations[^6] (IRR), and relevant provisions in Circular 16-01, "Security of Personal Data in Government Agencies" (2016)[^7]
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) does not prohibit hosting of government databases by a foreign entity. There is no requirement in the DPA relating to the nationality of service providers, either for the government or the private sector. In cases where a personal information controller[^3] (PIC) subcontracts or outsources the processing of personal data to a personal information processor[^4] (PIP), such as the engagement of a service provider for hosting services, the PIC remains primarily accountable for the protection of personal data under its control, even when it is already being processed by a PIP. Thus, the FEO is required to "use contractual or other reasonable means to ensure that proper safeguards are in place, to ensure the confidentiality, integrity and availability of the personal data processed, prevent its use for unauthorized purposes."[^5] The FEO must also consider the provisions on outsourcing or subcontracting of personal data processing under the law and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^6] (IRR), and relevant provisions in [[issuances/undated/security-of-personal-data-in-government-agencies|Circular 16-01]], "Security of Personal Data in Government Agencies" (2016)[^7]
 
 #### Considerations in the engagement of a database host
 
@@ -67,7 +74,7 @@ c) ISO 27018 (Code of Practice for Protection of Personal Identifiable Informati
 
 Lastly, in case the FEO opts to change the provider or host of its databases to a Filipino owned company, there is no clearance requirement from the NPC. However, the FEO must ensure that the previous host complies with its contractual obligations, significantly those relating to access, retention or deletion of data. The NPC reserves the right to audit a government agency's data center or that of its service provider. NPC may also require the agency to submit its contract with its service provider for review.[^8]
 
-Accountability is one of the key principles of data protection under the Data Privacy Act. Government agencies are responsible for personal data under its control, including information that have been transferred to a third-party for processing, whether domestically or internationally. The government agency, as a PIC, must be able to demonstrate that it has ensured a comparable level of protection, consistent with the DPA and other issuances, while personal data is being processed on its behalf by third parties.
+Accountability is one of the key principles of data protection under the [[laws/data-privacy-act-of-2012|Data Privacy Act]]. Government agencies are responsible for personal data under its control, including information that have been transferred to a third-party for processing, whether domestically or internationally. The government agency, as a PIC, must be able to demonstrate that it has ensured a comparable level of protection, consistent with the DPA and other issuances, while personal data is being processed on its behalf by third parties.
 
 This opinion is based solely on the information you have provided. Additional information may change the context of the inquiry and the appreciation of facts.
 
@@ -84,9 +91,9 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 3 (h) - Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf.
-[^4]: *Id.* § 3 (i) - Personal information processor refers to any natural or juridical person qualified to act as such under this Act to whom a personal information controller may outsource the processing of personal data pertaining to a data subject.
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 43.
+[^3]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]] - Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf.
+[^4]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (i)]] - Personal information processor refers to any natural or juridical person qualified to act as such under this Act to whom a personal information controller may outsource the processing of personal data pertaining to a data subject.
+[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-43-subcontract-of-personal-data|§ 43]].
 [^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-[^7]: NPC Circular 16-01, Security of Personal Data in Government Agencies, Rule II, § 7 (2016). See also §§ 8-13.
-[^8]: NPC Circular 16-01, Security of Personal Data in Government Agencies, Rule II, § 7 (2016). See also §§ 8-13.
+[^7]: [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular 16-01]], Security of Personal Data in Government Agencies, Rule II, § 7 (2016). See also §§ 8-13.
+[^8]: [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular 16-01]], Security of Personal Data in Government Agencies, Rule II, § 7 (2016). See also §§ 8-13.

@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/data-sharing"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-035"
+  - "npc advisory opinion no. 2020-035"
+  - "Advisory Opinion No. 2020-035"
+  - "advisory opinion no. 2020-035"
 ---
 
 ## Source
@@ -30,7 +36,7 @@ We understand that the Department of Health (DOH) is asking PhilHealth for the e
 
 #### Data Sharing; Data Sharing Agreement; NPC Circular 16-02
 
-The IRR of the DPA defines data sharing as the disclosure or transfer to a third party of personal data under the control or custody of a personal information controller (PIC). A DSA refers to a contract, joint issuance, or any similar document that contains the terms and conditions of a data sharing arrangement between two or more PICs.
+The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of the DPA defines data sharing as the disclosure or transfer to a third party of personal data under the control or custody of a personal information controller (PIC). A DSA refers to a contract, joint issuance, or any similar document that contains the terms and conditions of a data sharing arrangement between two or more PICs.
 
 [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20 of the IRR]] provides for the general requirements when data sharing is allowed, i.e. when it is expressly authorized by law and provided that there are adequate safeguards for data privacy and security, and that processing adheres to the principles of transparency, legitimate purpose, and proportionality.
 
@@ -67,8 +73,8 @@ Privacy Commissioner
 
 [^1]: Tags: data sharing; data sharing agreement; Universal Health Care Act; DOH; Philhealth; COVID-19
 [^2]: An Act Instituting Universal Health Care for All Filipinos, Prescribing Reforms in the Health Care System, and Appropriating Funds Therefor [Universal Health Care Act], Republic Act No. 11223 (2019).
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^5]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies [NPC Circular 16-02] (October 10, 2016).
-[^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 3(f) (2016).
-[^7]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies [NPC Circular 16-02], § 3 (E) (October 10, 2016).
+[^3]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2016).
+[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^5]: National Privacy Commission, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies]] [NPC Circular 16-02] (October 10, 2016).
+[^6]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|Data Privacy Act of 2012]], Republic Act No. 10173, § 3(f) (2016).
+[^7]: National Privacy Commission, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies]] [NPC Circular 16-02], § 3 (E) (October 10, 2016).

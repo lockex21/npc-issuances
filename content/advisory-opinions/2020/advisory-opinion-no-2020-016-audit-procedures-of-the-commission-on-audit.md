@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2020
+aliases:
+  - "NPC Advisory Opinion No. 2020-016"
+  - "npc advisory opinion no. 2020-016"
+  - "Advisory Opinion No. 2020-016"
+  - "advisory opinion no. 2020-016"
 draft: false
 ---
 
@@ -57,7 +62,7 @@ As your office correctly pointed out, the COA must still abide by the general da
 Nonetheless, we trust that the COA, as a PIC, is aware of its obligations under the DPA, its
 IRR, and issuances of the NPC, specifically [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security of Personal
 Data in Government Agencies, which includes the implementation of physical, organizational
-and technical security measures for the protection of personal data, among others, and NPC Circular No. 16-03 on Personal Data Breach Management.
+and technical security measures for the protection of personal data, among others, and [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] on Personal Data Breach Management.
 
 This opinion is rendered based on the information you have provided. Additional information
 may change the context of the inquiry and the appreciation of the facts.
@@ -69,11 +74,11 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4 (e) (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-4-scope|§ 4 (e)]] (2012).
 [^2]: Phil. Const. art. IX § 2 ¶ D.
 [^3]: Commission on Audit website, Commission on Audit Mission, available at https://www.coa.gov.ph/coa_at_a_glance/index.html#mission (last accessed 11 March 2020).
-[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4 (e) (2012).
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) (2016).
+[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-4-scope|§ 4 (e)]] (2012).
+[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5 (d)]] (2016).
 [^6]: PHIL. CONST. art. IX-D § 2.
 [^7]: Yap v. Lagtapon, 803 PHIL 652, (2017).
-[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]] (2016).

@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/data-subject-rights
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-081"
+  - "npc advisory opinion no. 2018-081"
+  - "Advisory Opinion No. 2018-081"
+  - "advisory opinion no. 2018-081"
 ---
 
 ## Source
@@ -23,7 +29,7 @@ Re: ACCESS TO MEDICAL RECORDS IN CR-DR SYSTEM
 
 Dear [Redacted],
 
-We write in response to your letter regarding the access, use and destruction of medical records of patients stored in a Computerized Radiography-Digital Radiography (CR-DR) system in relation to the provisions of the Data Privacy Act of 2012 (DPA).[^1]
+We write in response to your letter regarding the access, use and destruction of medical records of patients stored in a Computerized Radiography-Digital Radiography (CR-DR) system in relation to the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^1]
 
 In 2017, Western Visayas Medical Center (WVMC) requested a Special Audit from the
 Commission on Audit (COA) and pending the result thereof, held in abeyance the amount due to
@@ -137,5 +143,5 @@ Deputy Privacy Commissioner
 Officer-In-Charge
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Data Privacy Act of 2012, § 3 (h).
-[^3]: *Id.*, § 3 (i).
+[^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (h)]].
+[^3]: *[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id.]]*, § 3 (i).

@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2018"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-011"
+  - "npc advisory opinion no. 2018-011"
+  - "Advisory Opinion No. 2018-011"
+  - "advisory opinion no. 2018-011"
 ---
 
 ## Source
@@ -23,7 +28,7 @@ Re: Disclosure of the Unit Numbers of the Members of a Condominium Association
 
 Dear [Redacted],
 
-This pertains to your request for advisory opinion received by the Privacy Policy Office of the National Privacy Commission (NPC) on 23 February 2018, which sought to clarify whether the disclosure of unit numbers of the members of the Olympic Heights Condominium Association, Inc. (Olympic) for purposes of the determination and verification of the existence (or non-existence) of a quorum would violate the provisions of Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^2] and relevant issuances of the NPC.
+This pertains to your request for advisory opinion received by the Privacy Policy Office of the National Privacy Commission (NPC) on 23 February 2018, which sought to clarify whether the disclosure of unit numbers of the members of the Olympic Heights Condominium Association, Inc. (Olympic) for purposes of the determination and verification of the existence (or non-existence) of a quorum would violate the provisions of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^2] and relevant issuances of the NPC.
 
 In your email, you stated that you are a member in good standing of Olympic, which is a non-stock, non-profit corporation. On 10 February 2018, Olympic had its General Assembly where it was declared that there was no quorum.
 
@@ -61,9 +66,9 @@ Privacy Commissioner and Chairman
 
 [^2]: Implementing Rules and Regulations of the Data Privacy Act (24 August 2016).
 
-[^3]: *Supra* note 1, §3(g)—“Personal information” refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^3]: *Supra* note 1, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(g)]]—“Personal information” refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 
-[^4]: *Supra* note 1, §2.
+[^4]: *Supra* note 1, [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|§2]].
 
 [^5]: Philippine Associated Smelting and Refining Corporation vs. Pablito O. Lim, et. al., G.R No. 172948 (05 October 2016).
 

@@ -5,7 +5,16 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2026"
+  - "topic/data-sharing"
+  - "topic/employment"
+  - "topic/government"
+  - "topic/security"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2026-001"
+  - "npc advisory opinion no. 2026-001"
+  - "Advisory Opinion No. 2026-001"
+  - "advisory opinion no. 2026-001"
 ---
 
 ## Source
@@ -32,7 +41,7 @@ b. Memorandum Circular No. 06, s. 2016, issued by the Office of the President, w
 
 c. Section 2 of Republic Act No. 6713 (Code of Conduct and Ethical Standards for Public Officials and Employees), which mandates public officials to uphold the highest standards of ethics and integrity in public service.
 
-In your letter, it was signified that despite these clear prohibitions, PAGCOR has encountered resistance from some government agencies in providing updated lists of their personnel for inclusion in the NDRP. These agencies expressed reservations, citing potential violations of the Data Privacy Act of 2012 (RA 10173).[^2]
+In your letter, it was signified that despite these clear prohibitions, PAGCOR has encountered resistance from some government agencies in providing updated lists of their personnel for inclusion in the NDRP. These agencies expressed reservations, citing potential violations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (RA 10173).[^2]
 
 Thus, you now seek the NPC's guidance on the following:
 
@@ -92,11 +101,11 @@ Accordingly, such processing falls within the scope of the exemption under Secti
 
 [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] requires that personal information controllers adhere to the fundamental principles of transparency, legitimate purpose and proportionality in processing of personal data.
 
-Further, Sections 20 and 21 of the DPA and relevant IRR provisions require the implementation of reasonable and appropriate organizational, physical, and technical security measures.
+Further, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Sections 20]] and [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|21]] of the DPA and relevant IRR provisions require the implementation of reasonable and appropriate organizational, physical, and technical security measures.
 
 Accordingly, PAGCOR and the concerned government agencies must ensure that government personnel are informed of the existence of the NDRP, including its purpose and legal basis. The personal information collected and shared must be limited to what is strictly necessary to enforce the casino entry prohibition and must be used solely for that purpose. Processing should not extend to unrelated or incompatible uses.
 
-Further, we encourage you to review NPC Circular No. 23-06, which outlines the security measures applicable to both the government and private sector. The safeguards your institution implements should be aligned with those set out in the Circular to ensure the protection of personal data against unauthorized access, disclosure, or misuse. These include, among others, controlled access mechanisms, secure information systems, and clearly defined data retention and disposal policies.
+Further, we encourage you to review [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular No. 23-06]], which outlines the security measures applicable to both the government and private sector. The safeguards your institution implements should be aligned with those set out in the Circular to ensure the protection of personal data against unauthorized access, disclosure, or misuse. These include, among others, controlled access mechanisms, secure information systems, and clearly defined data retention and disposal policies.
 
 #### Execution of DSA or NDA between PAGCOR and its licensees
 
@@ -125,6 +134,6 @@ OIC-Director IV, Privacy Policy Office
 
 [^1]: Lawful Processing; Disclosure; Constitutional and Statutory Mandate; Data Privacy Principles; Data Sharing; Authorized Access.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for other purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Section 12 of RA 10173.
-[^4]: Section 5(d) of the Implementing Rules and Regulations of the DPA.
-[^5]: Section 3(g) of RA 10173.
+[^3]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] of RA 10173.
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5(d)]] of the Implementing Rules and Regulations of the DPA.
+[^5]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(g)]] of RA 10173.

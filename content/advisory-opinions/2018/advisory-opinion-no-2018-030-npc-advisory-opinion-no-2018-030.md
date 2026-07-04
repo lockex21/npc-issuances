@@ -9,6 +9,12 @@ tags:
   - sogie
   - gender-data
   - sensitive-information
+  - topic/elections
+aliases:
+  - "NPC Advisory Opinion No. 2018-030"
+  - "npc advisory opinion no. 2018-030"
+  - "Advisory Opinion No. 2018-030"
+  - "advisory opinion no. 2018-030"
 draft: false
 ---
 

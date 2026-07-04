@@ -5,7 +5,14 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/data-subject-rights"
+  - "topic/government"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-034"
+  - "npc advisory opinion no. 2021-034"
+  - "Advisory Opinion No. 2021-034"
+  - "advisory opinion no. 2021-034"
 ---
 
 ## Source
@@ -39,7 +46,7 @@ a Supreme Court case.
 
 You now come to the NPC for guidance on whether the OCA can disclose personal
 information and sensitive personal information (collectively, personal data) of OCA’s data
-subjects without violating the provisions of the Data Privacy Act of 2012[^1] (DPA).
+subjects without violating the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA).
 
 ### Discussion
 
@@ -72,7 +79,7 @@ information necessary to carry out functions of a public authority, to wit:
           necessary to achieve the specific purpose, function, or activity.” (Underscoring
           supplied)
 
-We reiterate our discussions in [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|NPC Advisory Opinion No. 2020-015]] and 2021-028 wherein
+We reiterate our discussions in [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|NPC Advisory Opinion No. 2020-015]] and [[advisory-opinions/2021/advisory-opinion-no-2021-028-disclosure-of-personal-information-of-tenants-by-a-condominium-corporation-to-the-bureau-of-internal-revenue|2021-028]] wherein
 we discussed the BIR’s duty and authority to, among others, ensure compliance with the
 NIRC, as amended, and other relevant tax laws and regulations. Particularly, the authority of
 the BIR Commissioner to obtain information in the evaluation of the tax compliance of any
@@ -96,11 +103,11 @@ sequestrations, among others.
 
 
 With this, the request for addresses and other information may then be anchored under
-Sections 12 and/or 13 of the DPA, depending on type of personal data involved.
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and/or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, depending on type of personal data involved.
 
-Specifically, Section 12 (e) recognizes the processing that is necessary to fulfill functions of
+Specifically, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e)]] recognizes the processing that is necessary to fulfill functions of
 public authority which necessarily includes the processing of personal data for the fulfillment
-of its mandate and Section 13 (b) which allows the processing which is provided for by
+of its mandate and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b)]] which allows the processing which is provided for by
 existing laws and regulations and Section (f) on the processing that is necessary for the
 protection of lawful rights and interests of natural or legal persons in court proceedings, or
 the establishment, exercise or defense of legal claims, or when provided to government or
@@ -111,8 +118,8 @@ subpoena powers; general data privacy principles; data
 subject rights; limitations
 
 Another concern you raised is that these requests from the BIR and/or from the PCGG were
-made through letter requests and not through subpoenas. You proceeded to cite Section 34
-(b) (1) of the IRR:
+made through letter requests and not through subpoenas. You proceeded to cite [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34
+(b) (1) of the IRR]]:
 
    “Section 34. Rights of the Data Subject. x x x
 
@@ -149,11 +156,11 @@ and/or the PCGG additional details with respect to the validity of the letter re
 standard operating procedures of the agencies on these types of data requests made through
 letters instead of subpoenas.
 
-Finally, [[laws/data-privacy-act-of-2012#section-19-non-applicability|Section 19 of the DPA]] and Section 37 of its IRR provide for the limitations with respect
+Finally, [[laws/data-privacy-act-of-2012#section-19-non-applicability|Section 19 of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-37-limitation-on-rights|Section 37 of its IRR]] provide for the limitations with respect
 to the rights of the data subjects where the processing of personal data is for the purpose of
 investigations in relation to any criminal, administrative, or tax liabilities of the data subject.
 
-This is further clarified in Section 13 of [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] on Data Subject Rights,[^5]
+This is further clarified in [[issuances/2021/data-subject-rights#limitation-on-rights|Section 13 of NPC Advisory No. 2021-01]] on Data Subject Rights,[^5]
 which provides:
 
    “SECTION 13. Limitations. — The exercise of the rights of data subjects shall be
@@ -195,7 +202,7 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
 [^2]: Office of the President, Creating the Presidential Commission on Good Government [Executive Order No. 1, s. 1986] (28 February 1986).
 
@@ -203,4 +210,4 @@ OIC – Director IV, Privacy Policy Office
 
 [^4]: Id. § 2 (b).
 
-[^5]: National Privacy Commission, Data Subject Rights [NPC Advisory No. 2021-01] (January 29, 2021).
+[^5]: National Privacy Commission, [[issuances/2021/data-subject-rights|Data Subject Rights]] [NPC Advisory No. 2021-01] (January 29, 2021).

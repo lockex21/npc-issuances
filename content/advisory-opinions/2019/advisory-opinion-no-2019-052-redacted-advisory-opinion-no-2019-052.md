@@ -8,6 +8,12 @@ tags:
   - "data-sharing"
   - "health-information"
   - "sensitive-personal-information"
+  - "topic/data-sharing"
+aliases:
+  - "NPC Advisory Opinion No. 2019-052"
+  - "npc advisory opinion no. 2019-052"
+  - "Advisory Opinion No. 2019-052"
+  - "advisory opinion no. 2019-052"
 draft: false
 ---
 
@@ -76,4 +82,4 @@ Privacy Commissioner
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 
-[^3]: *Id.* § 13.
+[^3]: *Id.* [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]].

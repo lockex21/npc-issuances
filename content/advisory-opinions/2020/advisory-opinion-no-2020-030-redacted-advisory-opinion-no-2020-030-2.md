@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/government"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-030"
+  - "npc advisory opinion no. 2020-030"
+  - "Advisory Opinion No. 2020-030"
+  - "advisory opinion no. 2020-030"
 ---
 ## Source
 - Reference: Advisory Opinion No. 2020-030
@@ -49,9 +55,9 @@ Coronavirus Disease 2019 (COVID-19) Cases.
 
 #### Processing of Sensitive Personal Information; Public Authority; Mandate; Proportionality
 
-Under the Data Privacy Act of 2012[^2] (DPA), personal information about an individual’s health
+Under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA), personal information about an individual’s health
 is considered as sensitive personal information (SPI), the processing of which is generally
-prohibited, unless it falls under any of the criteria for processing pursuant to Section 13.
+prohibited, unless it falls under any of the criteria for processing pursuant to [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]].
 Specifically applicable in this scenario is when such processing is provided for by existing
 laws and regulations, provided that such regulatory enactments guarantee the protection of
 the sensitive personal information and the privileged information,[^3] and when information is
@@ -101,9 +107,9 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: Id. § 13 (b).
-[^4]: Id. § 13 (f) and Rules and Regulations Implementing the Data Privacy Act of 2012, § 22 (f).
+[^4]: Id. § 13 (f) and Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-22-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 22]] (f).
 [^5]: Suppletory Guidelines on the Management of Human Remains for Patient Under Investigation (PUI) and Confirmed COVID-19 Cases (DILG Memorandum Circular No. 2020-063).
-[^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 17 (b).
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c).
+[^6]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-17-general-data-privacy-principles|Data Privacy Act of 2012, § 17]] (b).
+[^7]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Data Privacy Act of 2012, § 18]] (c).

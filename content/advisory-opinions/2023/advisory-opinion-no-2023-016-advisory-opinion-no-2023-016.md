@@ -5,6 +5,13 @@ tags:
   - “issuance”
   - “type/advisory-opinion”
   - “year/2023”
+  - topic/consent
+  - topic/legitimate-interest
+aliases:
+  - "NPC Advisory Opinion No. 2023-016"
+  - "npc advisory opinion no. 2023-016"
+  - "Advisory Opinion No. 2023-016"
+  - "advisory opinion no. 2023-016"
 draft: false
 ---
 
@@ -75,7 +82,7 @@ Director IV, Privacy Policy Office
 
 [^1]: Tags: (topics related to the subject of the advisory opinion, separated by commas).
 [^2]: Article 13(2), e-Privacy Directive.
-[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3(b) (2012).
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(b)]] (2012).
 [^4]: Ibid.
 [^5]: See NPC Advisory Opinion Nos. 2017-31 and 2017-42.
 [^6]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]] (Sept. 22, 2022).

@@ -11,6 +11,9 @@ tags:
   - "type/decision"
   - "year/2018"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/employment"
+  - "topic/security"
 date: "2020-01-17"
 draft: false
 ---
@@ -152,7 +155,7 @@ The information disclosed did not just consist of the names and email addresses 
 
 *The incident is a personal data breach.*
 
-A personal data breach is defined in NPC Circular 16-03 as “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed.”[^18]
+A personal data breach is defined in [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] as “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed.”[^18]
 
 It may be in the nature of an availability breach resulting from the loss, accidental or unlawful destruction of personal data; an integrity breach resulting from alteration of personal data or a confidentiality breach resulting from the unauthorized disclosure of or access to personal data.[^19]
 
@@ -168,13 +171,13 @@ This admitted disclosure was not justified by Respondent under any of the lawful
 (e) The processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate; or
 (f) The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.[^21]
 
-Lacking any basis under the law, such disclosure of Complainant’s personal information is considered unauthorized disclosure. This incident is in the nature of a confidentiality breach under NPC Circular 16-03.[^22]
+Lacking any basis under the law, such disclosure of Complainant’s personal information is considered unauthorized disclosure. This incident is in the nature of a confidentiality breach under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].[^22]
 
 The fact that such unauthorized disclosure was a “mere oversight on the part of the employee”[^23] does not relieve Respondent from the obligations provided by law and the Commission’s issuances.
 
 The Commission notes the delay of Respondent in notifying the Commission about the incident on 5 November and in notifying the affected data subjects on 7 November, despite having been informed by Complainant as early as 10 October 2018, when she replied to the email.
 
-This is in contravention of NPC Circular 16-03 which states that the Commission and the affected data subjects shall be notified within seventy-two (72) hours upon knowledge of or the reasonable belief by the personal information controller or personal information processor that a personal data breach has occurred.[^24]
+This is in contravention of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] which states that the Commission and the affected data subjects shall be notified within seventy-two (72) hours upon knowledge of or the reasonable belief by the personal information controller or personal information processor that a personal data breach has occurred.[^24]
 
 The 72 hour-requirement is not limited to working days, contrary to what Respondent proffers in their Comment. The intention for this period to be uninterrupted is underscored by the fact that it is stated as 72 “hours”, which should not be in any way affected by holidays or weekends. Delay for notification to the Commission is only justified to the extent necessary to determine the scope of the breach, to prevent further disclosures, or to restore reasonable integrity to the information and communications system.[^25] On the other hand, personal information controllers may request from the Commission either a delay in or exemption from notification of data subjects when it may hinder criminal investigation, or when it is not in the interest of the affected data subjects.[^26] Such grounds were not alleged by Respondent.
 
@@ -196,7 +199,7 @@ Respondents assert a supposed company practice of using blind carbon copy or “
 
 The lack of such policies inevitably lead to inadvertences such as in this case. Respondent must realize the impacts of such personal data breaches to the data subjects.
 
-WHEREFORE, all the above premises considered, the Commission hereby **ORDERS** Respondent to submit, within thirty (30) days from receipt of this Decision, their security incident management policy that is compliant with the guidelines stated in NPC Circular 16-03, pursuant to the undertaking in their 5 November 2018 letter to the Commission that a report to management will be made by 25 November 2018 regarding the review and recommendation of procedures by the DPO and his team.
+WHEREFORE, all the above premises considered, the Commission hereby **ORDERS** Respondent to submit, within thirty (30) days from receipt of this Decision, their security incident management policy that is compliant with the guidelines stated in [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], pursuant to the undertaking in their 5 November 2018 letter to the Commission that a report to management will be made by 25 November 2018 regarding the review and recommendation of procedures by the DPO and his team.
 
 **SO ORDERED.**
 
@@ -241,15 +244,15 @@ GENERAL RECORDS UNIT
 [^14]: Ibid., p. 13.
 [^15]: Records, p. 15-16.
 [^16]: Ibid. at, p. 15.
-[^17]: R.A. 10173, Sec. 7(b).
-[^18]: NPC Circular no. 16-03, dated 15 December 2018. Section 3(F).
+[^17]: [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|R.A. 10173, Sec. 7(b)]].
+[^18]: [[issuances/undated/personal-data-breach-management|NPC Circular no. 16-03]], dated 15 December 2018. Section 3(F).
 [^19]: Id.
 [^20]: Records, p. 13.
-[^21]: Data Privacy Act, Sec. 12.
-[^22]: NPC Circular 16-03 dated 15 December 2016. Section 3 (f).
+[^21]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act, Sec. 12]].
+[^22]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] dated 15 December 2016. Section 3 (f).
 [^23]: Records, p. 34.
-[^24]: NPC Circular 16-03 dated 15 December 2016. Section 17(a).
+[^24]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] dated 15 December 2016. Section 17(a).
 [^25]: Id., at Sec. 17(b).
 [^26]: Id., at Sec. 18(b).
 [^27]: Id., at Sec. 18(a).
-[^28]: NPC Circular 16-03, dated 15 December 2016. Sec. 8.
+[^28]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], dated 15 December 2016. Sec. 8.

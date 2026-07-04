@@ -11,6 +11,7 @@ tags:
   - "type/decision"
   - "year/2017"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2020-01-31"
 draft: false
 ---
@@ -62,13 +63,13 @@ The crux of the complaint is the allegation by Complainant that her data privacy
 
 Justice Alicia Austria-Martinez penned that he who alleges a fact has the burden of proving it and a mere allegation is not evidence.[^1] Hence, the burden lies on Complainant to prove whether or not Respondent committed a violation of the DPA.
 
-Section 3 (f), Rule 1 of NPC Circular 16-03 (Personal Data Breach Management) provides that:
+Section 3 (f), Rule 1 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management) provides that:
 
 > Personal data breach is a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed. A personal data breach may be in the nature of: An availability breach resulting from loss, accidental or unlawful destruction of personal data; Integrity breach resulting from alteration of personal data; and/or A confidentiality breach resulting from the unauthorized disclosure of or access to personal data.
 
 Upon careful examination of the case, Respondent sent several demand letters containing the personal data of ID L.S. ("Data Subject") to Complainant. Accordingly, the personal data of the Data Subject was breached or compromised due to the unauthorized disclosure by Respondent. However, Complainant as a mere recipient of the demand letter was not personally affected by the unauthorized disclosure committed by Respondent to the Data Subject.
 
-Settling the existence of breach in this case, the Commission now tackles the crux of the complaint. Section 3 of NPC Circular 16-04 (NPC Rules of Procedure) provides for who may file a complaint:
+Settling the existence of breach in this case, the Commission now tackles the crux of the complaint. Section 3 of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] (NPC Rules of Procedure) provides for who may file a complaint:
 
 > SECTION 3. Who may file complaints. – The National Privacy Commission, sua sponte, or persons who are the subject of a privacy violation or personal data breach, or who are otherwise personally affected by a violation of the Data Privacy Act, may file complaints for violations of the Act. The person who is the subject of the privacy violation or personal data breach, or his or her duly authorized representative may file the complaint, Provided, that the circumstances of the authority must be established. Any person who is not personally affected by the privacy violation or personal data breach may: (a) request for an advisory opinion on matters affecting protection of personal data; or (b) inform the National Privacy Commission of the data protection concern, which may in its discretion, conduct monitoring activities on the organization or take such further action as may be necessary.
 

@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/data-sharing
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-073"
+  - "npc advisory opinion no. 2018-073"
+  - "Advisory Opinion No. 2018-073"
+  - "advisory opinion no. 2018-073"
 ---
 
 ## Source
@@ -22,7 +28,7 @@ Re: TREATMENT OF INSURANCE AGENTS UNDER THE [[laws/data-privacy-act-of-2012|DPA]
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC) via email. You seek clarification on the nature of insurance agents in relation to the provisions of the Data Privacy Act of 2012[^1] (DPA), and their relationship with the insurance companies they may represent, be connected to, or affiliated with.
+We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC) via email. You seek clarification on the nature of insurance agents in relation to the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA), and their relationship with the insurance companies they may represent, be connected to, or affiliated with.
 
 From your inquiry, we understand that an insurance agent duly licensed by the Insurance Commission is allowed to carry or represent up to seven non-life insurance companies. You stated that these agents solicit business from individuals, businesses, and institutions, and then offer insurance quotations or proposals that the client will be amenable to. However, licensed agents also have the option to be an exclusive agent of an insurance company, and thus may no longer carry or represent other insurance companies.
 
@@ -78,9 +84,9 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
 [^2]: An Act Strengthening the Insurance Industry, Further Amending Presidential Decree No. 612, Otherwise Known as The Insurance Code, As Amended by Presidential Decree Nos. 1141, 1280, 1455, 1460, 1814 And 1981, and Batas Pambansa Blg. 874, and For Other Purposes [Insurance Code, as amended], Republic Act No. 10607 (2012).
 [^3]: Insurance Code, as amended, § 309.
 [^4]: Ibid.
-[^5]: Data Privacy Act of 2012, § 3 (h).
-[^6]: Id. § 3 (i).
+[^5]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]].
+[^6]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (i)]].

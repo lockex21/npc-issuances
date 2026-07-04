@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-047"
+  - "npc advisory opinion no. 2018-047"
+  - "Advisory Opinion No. 2018-047"
+  - "advisory opinion no. 2018-047"
 ---
 
 ## Source
@@ -35,7 +40,7 @@ You now inquire whether a violation of the [[laws/data-privacy-act-of-2012|Repub
 
 #### Acquisition of the Certificate of Live Birth for a Court Proceeding
 
-The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) applies to the processing[^2] of all types of personal information and to any natural and juridical person in the government or private sector.[^3] Personal information is defined by the law as "any information, whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual."[^4] The law then further categorizes certain personal information as sensitive personal information, which among others, includes an individual's race, ethnic origin, age, color and religion.[^5]
+The [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) applies to the processing[^2] of all types of personal information and to any natural and juridical person in the government or private sector.[^3] Personal information is defined by the law as "any information, whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual."[^4] The law then further categorizes certain personal information as sensitive personal information, which among others, includes an individual's race, ethnic origin, age, color and religion.[^5]
 
 The Certificate contains the following information of an individual: name, sex, date of birth, place of birth, citizenship, and religion, among others. By its very nature, the certificate issued by the Civil Registrar contains sensitive personal information.
 
@@ -78,14 +83,14 @@ Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 
-[^2]: *Id.* § 4 — Processing refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
+[^2]: *Id.* [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]] — Processing refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
 
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 4 (2016).
+[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|§ 4]] (2016).
 
-[^4]: *Id.* § 3 (l).
+[^4]: *Id.* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|§ 3 (l)]].
 
-[^5]: *Id.* § 3 (t) (1).
+[^5]: *Id.* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|§ 3 (t) (1)]].
 
-[^6]: *Id.* § 22.
+[^6]: *Id.* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-22-sensitive-personal-information-and-privileged-information|§ 22]].
 
 [^7]: Emphasis supplied.

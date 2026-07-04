@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2023"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-013"
+  - "npc advisory opinion no. 2023-013"
+  - "Advisory Opinion No. 2023-013"
+  - "advisory opinion no. 2023-013"
 ---
 
 ## Source
@@ -24,7 +29,7 @@ Dear [Redacted]:
 
 We respectfully provide you with our Advisory Opinion regarding your request for comments on the data privacy implications of the proposed Ordinance mentioned above (the “Ordinance”).
 
-We gather from the Whereas clauses of the Ordinance that it was authored owing to the perceived need of the Province of Palawan to have a barangay-level counterpart to Republic Act No. 11315, or the Community-Based Monitoring System Act (CBMSA).[^2] In essence, the CBMSA’s declared policy is to establish a database for conducting poverty analysis and needs prioritization with the end in view of designing appropriate policies and interventions for social services, but with due regard to the fundamental human right to privacy and the data protection principles under Republic Act No. 10173[^3] or the Data Privacy Act of 2012 (DPA).
+We gather from the Whereas clauses of the Ordinance that it was authored owing to the perceived need of the Province of Palawan to have a barangay-level counterpart to Republic Act No. 11315, or the Community-Based Monitoring System Act (CBMSA).[^2] In essence, the CBMSA’s declared policy is to establish a database for conducting poverty analysis and needs prioritization with the end in view of designing appropriate policies and interventions for social services, but with due regard to the fundamental human right to privacy and the data protection principles under Republic Act No. 10173[^3] or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 However, the CBMSA is implemented only at the Municipal/City Levels because of its complexity and costly requirements. Thus, the Ordinance was drafted for a similar purpose as the CBMSA but for the use of every barangay of component municipalities of the Province of Palawan. The Ordinance seeks to establish a database not only of inhabitants but also demographic and socio-economic data that will provide profiles necessary for crafting barangay-level policies and development plans for poverty-related measures. Concomitantly, a local barangay ID System will be implemented for each barangay. Hence, your request for comments on the Ordinance.
 
@@ -68,7 +73,7 @@ The Sangguniang Panlalawigan of Palawan may consider the requirement of collecti
 
 As to additional sensitive personal information required by the Ordinance which include the blood type, place of origin, and religion, these data do not appear to be necessary in the fulfillment of the Ordinance’s objectives. We suggest that the barangay refrain from collecting these personal data.
 
-It is worth emphasizing also that there must be a guarantee that adequate safeguards are in place before processing of information, such as provisions on retention periods and records disposal.[^13] The Ordinance lacks provisions on such safeguards. Hence, we also recommend that provisions relative thereto be included to ensure that personal data processed is kept secure. For reference as to what security measures should be put in place, you may refer to NPC Circular 16-01 – Security of Personal Data in Government Agencies.
+It is worth emphasizing also that there must be a guarantee that adequate safeguards are in place before processing of information, such as provisions on retention periods and records disposal.[^13] The Ordinance lacks provisions on such safeguards. Hence, we also recommend that provisions relative thereto be included to ensure that personal data processed is kept secure. For reference as to what security measures should be put in place, you may refer to [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular 16-01 – Security of Personal Data in Government Agencies]].
 
 #### Barangay ID System; Sensitive Personal Information
 
@@ -91,14 +96,14 @@ VIDA ZORA G. BOCAR
 OIC Director IV, Privacy Policy Office
 
 [^2]: Enacted on 17 April 2019.
-[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^4]: Id., § 3(j). Processing refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
-[^5]: Id. § 3(g).
-[^6]: Data Privacy Act of 2012, § 3(l).
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^4]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id., § 3(j)]]. Processing refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
+[^5]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id. § 3(g)]].
+[^6]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3(l)]].
 [^7]: Guidelines in the Establishment of the Barangay Profile System (BPS) Module under Barangay Information System (BIS), September 4, 2020.
 [^8]: Emphasis supplied.
 [^9]: Emphasis supplied.
-[^10]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(a).
-[^11]: Id. § 18(b).
-[^12]: Id. § 18(c).
-[^13]: Data Privacy Act of 2012, Republic Act No. 10173, § 11(f).
+[^10]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(a)]].
+[^11]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Id. § 18(b)]].
+[^12]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Id. § 18(c)]].
+[^13]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, Republic Act No. 10173, § 11(f)]].

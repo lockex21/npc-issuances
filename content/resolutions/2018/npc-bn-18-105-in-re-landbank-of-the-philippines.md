@@ -6,6 +6,7 @@ tags:
   - type/resolution
   - year/2020
   - npc-case
+  - topic/breach-notification
 aliases:
   - "CID BN 18-105"
   - "cid bn 18-105"
@@ -50,7 +51,7 @@ CCAD requested for the deletion of the name of [the individual] in the reporting
 
 Notably, Landbank does not state the results of such actions and has not made manifestations on further findings despite the lapse of almost two (2) years since the initial letter.
 
-Under NPC Circular 16-03,[^2] the Commission requires Landbank to submit a full report of the incident that indicates the outcomes of their above-stated remedial measures and the policies adopted to avoid such incidents in the future.
+Under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]],[^2] the Commission requires Landbank to submit a full report of the incident that indicates the outcomes of their above-stated remedial measures and the policies adopted to avoid such incidents in the future.
 
 This is pursuant to Section 17 (d)(3) of the same Circular which states that the personal information controller shall notify the Commission of the “actions performed or proposed to mitigate possible harm or negative consequences, and limit the damage or distress to those affected by the incident” as well as the “the measures being taken to prevent a recurrence of the incident.”
 
@@ -80,4 +81,4 @@ GENERAL RECORDS UNIT
 National Privacy Commission
 
 [^1]: Records, pp. 3-4, Letter dated 6 July 2018.
-[^2]: NPC Circular 16-03, “Data Breach Management”. Dated 15 December 2016.
+[^2]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], “Data Breach Management”. Dated 15 December 2016.

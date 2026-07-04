@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "npc-case"
   - "year/2020"
+  - "topic/breach-notification"
 date: "2020-09-21"
 draft: false
 ---
@@ -68,7 +69,7 @@ Hence, the instant request for postponement of notification of data subjects unt
 
 ### Discussion
 
-This Commission denies the herein request for postponement of notification to data subjects of TravelServices in accordance with NPC Circular No. 16-03 (Personal Data Breach Management).
+This Commission denies the herein request for postponement of notification to data subjects of TravelServices in accordance with [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]].
 
 At the outset, it should be emphasized that notification of data subjects of data breaches is the general rule. Under Section 18(A) of NPC Circular No. 16-03, it provides that:
 
@@ -96,17 +97,17 @@ Section 11 of NPC Circular 16-03 states the conditions for notification, thus:
 >
 > 3. The personal information controller or the Commission believes that the unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject.
 
-It should be noted that a loss of control over personal data held in custody should be enough for a personal information controller to have “reason to believe that the information may have been acquired by an unauthorized person.” An indication of exfiltration of data is not a requirement in Section 11(b). Absolute certainty of acquisition by an unauthorized person is not required by either the Circular or the Data Privacy Act (DPA), considering that the condition only provides for a determination based on the existing circumstances that can give a “reason to believe.”
+It should be noted that a loss of control over personal data held in custody should be enough for a personal information controller to have “reason to believe that the information may have been acquired by an unauthorized person.” An indication of exfiltration of data is not a requirement in Section 11(b). Absolute certainty of acquisition by an unauthorized person is not required by either the Circular or the [[laws/data-privacy-act-of-2012|Data Privacy Act (DPA)]], considering that the condition only provides for a determination based on the existing circumstances that can give a “reason to believe.”
 
 This liberal interpretation of the conditions necessitating mandatory breach notification is rooted in [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(f) of the DPA]] itself, which provides:
 
 > **The personal information controller shall promptly notify the Commission and affected data subjects when sensitive personal information or other information that may, under the circumstances, be used to enable identity fraud are reasonably believed to have been acquired by an unauthorized person, and the personal information controller or the Commission believes that such unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject.** The notification shall at least describe the nature of the breach, the sensitive personal information possibly involved, and the measures taken by the entity to address the breach. Notification may be delayed only to the extent necessary to determine the scope of the breach, to prevent further disclosures, or to restore reasonable integrity to the information and communications system.[^3]
 
-In the previous Resolutions[^4] issued by this Commission, it was held that:
+In the previous [[resolutions/2020/npc-bn-20-157-in-re-batangas-bay-carriers-inc-2|Resolutions]][^4] issued by this Commission, it was held that:
 
 > The infection of the system by a ransomware should be sufficient to form a reasonable belief for the personal information controllers. Ransomware is defined as “a type of malicious software that infects a computer and restricts users’ access to it until a ransom is paid to unlock it… Typically, these alerts state that the user’s systems have been locked or that the user’s files have been encrypted. Users are told that unless a ransom is paid, access will not be restored.” While ransomware primarily causes availability breaches, it is different from other availability breaches because a malefactor intentionally causes them. This is unlike other types of availability breaches that are caused by accidents or system glitches. In these cases, the total exercise of control over the data is removed from the personal information controller and is taken by the malefactor. Without this control, the personal information controller will be unable to exercise its obligations in processing the personal data according to the provisions of the DPA. Recent ransomware attacks have also shown a capability to release the encrypted data over the internet upon non-payment of the ransom, potentially leading to a confidentiality breach contemplated in Section 11(2). For the protection of the data subjects, such incidents must be notified both to the Commission and the affected data subjects.
 
-This construction of Section 11(2) is guided by the Interpretation Clause in the DPA which states:
+This construction of Section 11(2) is guided by the [[laws/data-privacy-act-of-2012#section-38-interpretation|Interpretation Clause]] in the DPA which states:
 
 > **Section 38. Interpretation.** – Any doubt in the interpretation of any provision of this Act shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed.
 

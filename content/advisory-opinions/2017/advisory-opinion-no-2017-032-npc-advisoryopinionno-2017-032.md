@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+aliases:
+  - "NPC Advisory Opinion No. 2017-032"
+  - "npc advisory opinion no. 2017-032"
+  - "Advisory Opinion No. 2017-032"
+  - "advisory opinion no. 2017-032"
 draft: false
 ---
 
@@ -26,7 +31,7 @@ Dear [Redacted],
 
 This pertains to your query received by the National Privacy Commission (NPC) on 29 May 2017 regarding the processing of sensitive personal information in financial transactions and credit card applications. You specifically inquire about the lawfulness of processing financial information, biometric data, and health information in these contexts.
 
-The Data Privacy Act of 2012 (DPA) protects all forms of personal information, including sensitive personal information. Sensitive personal information refers to personal information regarding an individual's physical health, mental health, genetic information, or any information concerning an individual's race, ethnic origin, marital status, age, color, religious, philosophical or political affiliations, and other matters of similar nature.
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) protects all forms of personal information, including sensitive personal information. Sensitive personal information refers to personal information regarding an individual's physical health, mental health, genetic information, or any information concerning an individual's race, ethnic origin, marital status, age, color, religious, philosophical or political affiliations, and other matters of similar nature.
 
 Financial and credit institutions are personal information controllers covered by the DPA and must ensure compliance with all applicable data privacy requirements when processing personal information, including sensitive personal information.
 

@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/data-subject-rights
 date: "2021-03-18"
 draft: false
 ---
@@ -50,7 +51,7 @@ Before this Commission is the Mediated Settlement Agreement executed by and betw
 
 ### Facts
 
-Record[^1] shows that Complainant is among the dependent and beneficiary of a retired employee of QBM (QBM). On 07 August 2019, he was not allowed by the Respondents herein to use the previously executed authorization from his brother which gives the Complainant the authority to avail travel benefits under QBM's retirement plan. In addition to this, Complainant was also denied of his trip pass allocation information and was required by Respondent K.K. to secure a new letter of authorization in accordance with QBM's new procedure for the availment of the travel benefits. When asked to explain, Respondent K.K. cited the Data Privacy Act of 2012 (DPA) as basis for the rules on letter of authorization and the non-disclosure of the details of the trip pass allocations of the Complainant. Complainant alleged that the Respondent cannot even point out the specific provision in the DPA which is the basis for the new procedure. Instead of explaining to the Complainant the purpose for the sudden changes in the new procedure, Respondent K.K. got upset and even allegedly said that the Complainant was not even the employee of QBM and was merely a dependent. Hence, this Complaint.
+Record[^1] shows that Complainant is among the dependent and beneficiary of a retired employee of QBM (QBM). On 07 August 2019, he was not allowed by the Respondents herein to use the previously executed authorization from his brother which gives the Complainant the authority to avail travel benefits under QBM's retirement plan. In addition to this, Complainant was also denied of his trip pass allocation information and was required by Respondent K.K. to secure a new letter of authorization in accordance with QBM's new procedure for the availment of the travel benefits. When asked to explain, Respondent K.K. cited the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) as basis for the rules on letter of authorization and the non-disclosure of the details of the trip pass allocations of the Complainant. Complainant alleged that the Respondent cannot even point out the specific provision in the DPA which is the basis for the new procedure. Instead of explaining to the Complainant the purpose for the sudden changes in the new procedure, Respondent K.K. got upset and even allegedly said that the Complainant was not even the employee of QBM and was merely a dependent. Hence, this Complaint.
 
 On 11 March 2020, the parties filed their Application for Mediation and on the same date, the Mediation Conference was conducted.
 
@@ -58,7 +59,7 @@ Through the sincere efforts of the parties to arrive at an amicable resolution o
 
 ### Discussion
 
-Rule III, Section 9(e)(3) of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012 (DPA) provides that:
+Rule III, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9(e)(3)]] of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012 (DPA) provides that:
 
 > The Commission shall adjudicate on complaints and investigations on matters affecting personal data: Provided, that in resolving any complaint or investigation, except where amicable settlement is reached by the parties, the Commission shall act as a collegial body. This includes:
 >
@@ -145,4 +146,4 @@ National Privacy Commission
 [^1]: Complaint-Affidavit dated 07 September 2019.
 [^2]: Municipal Board of Cabanatuan City v. Samahang Magsasaka, Inc., G.R. No. L-25818 dated 25 February 1975, 62 SCRA 435.
 [^3]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC [EU GENERAL DATA PROTECTION REGULATION].
-[^4]: Section 26. Organizational Security Measures. Where appropriate, personal information controllers and personal information processors shall comply with the following guidelines for organizational security: xxx e. Processing of Personal Data. Any natural or juridical person or other body involved in the processing of personal data shall develop, implement and review: xxx 4. Policies and procedures for data subjects to exercise their rights under the Act;
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-26-organizational-security-measures|Section 26]]. Organizational Security Measures. Where appropriate, personal information controllers and personal information processors shall comply with the following guidelines for organizational security: xxx e. Processing of Personal Data. Any natural or juridical person or other body involved in the processing of personal data shall develop, implement and review: xxx 4. Policies and procedures for data subjects to exercise their rights under the Act;

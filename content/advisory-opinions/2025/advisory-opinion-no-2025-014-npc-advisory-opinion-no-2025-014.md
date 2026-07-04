@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2025"
+  - "topic/legitimate-interest"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-014"
+  - "npc advisory opinion no. 2025-014"
+  - "Advisory Opinion No. 2025-014"
+  - "advisory opinion no. 2025-014"
 ---
 
 ## Source
@@ -38,7 +44,7 @@ On the other hand, a personal information processor (PIP) is any natural or juri
 
 From the facts provided, Dataflow may be considered a PIP as it processes personal data upon the documented instructions of visa processing centers and government agencies, such as the MOHRE. Accordingly, the PIC in this case would be the visa processing center or the government, which is primarily responsible for establishing the lawful basis for processing personal data.
 
-Sections 12 and 13 of the DPA provide for the conditions to justify the processing of personal information and sensitive personal information, respectively. Thus, given that the data to be processed includes sensitive personal information, Section 12 (f) on legitimate interest may not be the proper basis to justify the processing of sensitive personal information. The PIC would have to assess the various criteria under Section 13 to determine which among the criterion is the most appropriate basis.
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA provide for the conditions to justify the processing of personal information and sensitive personal information, respectively. Thus, given that the data to be processed includes sensitive personal information, Section 12 (f) on legitimate interest may not be the proper basis to justify the processing of sensitive personal information. The PIC would have to assess the various criteria under Section 13 to determine which among the criterion is the most appropriate basis.
 
 In connection therewith, you mentioned that you will include in your procedure a process where, prior to the commencement of the verification process, the data subject or the visa applicant will be given a 48-hour window to oppose the processing of his or her personal data. This procedure may not be necessary because the right to object is possible only if the processing is based on consent or legitimate interest. In the context of visa applications, the most appropriate basis of processing may be Section 13 (b) if provided for by existing laws and regulations; or (f) when provided to government or public authority. The text of Section 13 (b) does not expressly limit "existing laws and regulations" to Philippine statutes and issuances. Section 13 (f) likewise allows processing of sensitive personal information when provided to government or public authority. This provision is not strictly limited to the Philippine government; thus, it can be reasonably interpreted to include foreign government or authority.
 
@@ -64,7 +70,7 @@ As can be gleaned therefrom, in processing personal data further, it is required
 
 Moreover, it is crucial for PICs and its PIPs to comply with the proportionality principle. This requires that the processing of personal data shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means. It necessitates that only the information requested and necessary for the purpose indicated should be processed.
 
-Most importantly, it is also mandatory for all PICs and its PIPs to implement reasonable and appropriate organizational, physical, and technical security measures for the protection of personal data. We refer you to NPC Circular No. 2023-06 (Security of Personal Data in the Government and the Private Sector) to know more on what security measures may be deemed appropriate and applicable to the processing conducted on the part of both the PIC and PIP.
+Most importantly, it is also mandatory for all PICs and its PIPs to implement reasonable and appropriate organizational, physical, and technical security measures for the protection of personal data. We refer you to [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular No. 2023-06]] (Security of Personal Data in the Government and the Private Sector) to know more on what security measures may be deemed appropriate and applicable to the processing conducted on the part of both the PIC and PIP.
 
 Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note, further, that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
@@ -76,5 +82,5 @@ Very truly yours,
 VIDA ZORA G. BOCAR
 OIC – Director IV, Privacy Policy Office
 
-[^1]: NPC Advisory Opinion No. 2018-031.
-[^2]: NPC Circular No. 2023-06 (Security of Personal Data in the Government and the Private Sector).
+[^1]: [[advisory-opinions/2018/advisory-opinion-no-2018-031-npc-advisory-opinion-no-2018-031|NPC Advisory Opinion No. 2018-031]].
+[^2]: [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular No. 2023-06]] (Security of Personal Data in the Government and the Private Sector).

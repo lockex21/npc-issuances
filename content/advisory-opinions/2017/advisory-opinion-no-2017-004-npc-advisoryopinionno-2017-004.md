@@ -5,6 +5,12 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/data-subject-rights
+aliases:
+  - "NPC Advisory Opinion No. 2017-004"
+  - "npc advisory opinion no. 2017-004"
+  - "Advisory Opinion No. 2017-004"
+  - "advisory opinion no. 2017-004"
 draft: false
 ---
 
@@ -27,13 +33,13 @@ Dear [Redacted],
 This pertains to your query received by the National Privacy Commission (NPC) on 7 November 2016 via email. In particular, you inquired regarding the following topics:
 
 1. whether the Right to Access is related to the Right to Data Portability
-2. Sec. 37 of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], vis-à-vis the practice of industrial engineers practicing the Lean Sigma approach in an organization.
+2. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-37-limitation-on-rights|Sec. 37 of the IRR]], vis-à-vis the practice of industrial engineers practicing the Lean Sigma approach in an organization.
 
 ### Discussion
 
 #### Right to Access vis-à-vis Right to Data Portability
 
-The right of a data subject to access his or her personal data is related to the right to data portability. The right to access is enshrined in Section 16(c) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012 (DPA), which states that a data subject, if he or she so demands, is entitled to reasonable access to the following:
+The right of a data subject to access his or her personal data is related to the right to data portability. The right to access is enshrined in [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(c)]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012 (DPA), which states that a data subject, if he or she so demands, is entitled to reasonable access to the following:
 
 1. Contents of his or her personal information that were processed;
 2. Sources from which personal information were obtained;
@@ -44,7 +50,7 @@ The right of a data subject to access his or her personal data is related to the
 7. Date when his or her personal information concerning the data subject were last accessed and modified; and
 8. The designation or name or identity and address of the personal information controller.
 
-The right to data portability, on the other hand, is found in Section 18 of the statute. It refers to the right of the data subject to obtain from a personal information controller a copy of his or her personal data that is being or was processed by the latter, in an electronic or structured format (i.e., commonly used and allows for further use by the data subject). It primarily takes into account the right of the data subject to exercise control over his or her personal data that is being processed based on consent or contract, for commercial purpose, or through automated means.[^1]
+The right to data portability, on the other hand, is found in [[laws/data-privacy-act-of-2012#section-18-right-to-data-portability|Section 18]] of the statute. It refers to the right of the data subject to obtain from a personal information controller a copy of his or her personal data that is being or was processed by the latter, in an electronic or structured format (i.e., commonly used and allows for further use by the data subject). It primarily takes into account the right of the data subject to exercise control over his or her personal data that is being processed based on consent or contract, for commercial purpose, or through automated means.[^1]
 
 The right to data portability is based on the EU General Data Protection Regulation, which lets a data subject secure his or her personal data in an electronic format, allowing further use of the said data. In the United Kingdom (UK), the Information Commissioner's Office describes the right as allowing individuals "to obtain and reuse their personal data for their own purposes across different services. It allows them to move, copy or transfer personal data easily from one IT environment to another in a safe and secure way, without hindrance to usability".[^2] An example would be to "provide personal current account customers access to their transactional data for their account(s), which they can then upload to a third party price comparison website to compare and identify best value. A price comparison website displays alternative current account providers based on their own calculations".[^3]
 
@@ -69,6 +75,6 @@ IVY D. PATDU
 Deputy Privacy Commissioner,
 Policy and Planning
 
-[^1]: IRR of RA 10173, § 36.
+[^1]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-36-right-to-data-portability|IRR of RA 10173, § 36]].
 [^2]: Available at https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/individuals-rights/the-right-to-data-portability/ (last accessed Dec. 1, 2016).
 [^3]: *Ibid*.

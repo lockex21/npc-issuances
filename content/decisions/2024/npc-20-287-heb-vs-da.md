@@ -11,6 +11,8 @@ tags:
   - type/decision
   - year/2020
   - npc-case
+  - topic/breach-notification
+  - topic/consent
 date: "2024-03-21"
 draft: false
 ---
@@ -45,7 +47,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before this Commission is a Complaint filed by HEB (Complainant) against DA (Respondent) for an alleged violation of the Data Privacy Act of 2012 or Republic Act No. 10173 (DPA).[^1]
+Before this Commission is a Complaint filed by HEB (Complainant) against DA (Respondent) for an alleged violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 or Republic Act No. 10173 (DPA)]].[^1]
 
 ### Facts
 
@@ -88,7 +90,7 @@ On 12 May 2021, CID required the parties to appear for preliminary conferences o
 
 During the first preliminary conference dated 26 May 2021, only Complainant appeared.[^21] Complainant manifested therein that the email address of Respondent may be available through his Facebook account, but such email address was not provided therein.[^22] Accordingly, the parties were ordered to appear virtually for the next preliminary conference on 09 June 2021.[^23]
 
-During the second preliminary conference, only the Complainant appeared.[^24] In the Order (After the Second Preliminary Conference held on 09 June 2021), the CID stated that the "second failure to appear of a party shall be deemed a waiver of her rights to the benefits of the Preliminary Conference, including but not limited to mediation, discovery, and/or stipulation of facts," citing Section 2, Rule V if the 2021 Rules of Procedure of the NPC.[^25]
+During the second preliminary conference, only the Complainant appeared.[^24] In the Order (After the Second Preliminary Conference held on 09 June 2021), the CID stated that the "second failure to appear of a party shall be deemed a waiver of her rights to the benefits of the Preliminary Conference, including but not limited to mediation, discovery, and/or stipulation of facts," citing Section 2, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-v-preliminary-conference|Rule V]] if the 2021 Rules of Procedure of the NPC.[^25]
 
 Accordingly, CID required the parties to submit their respective memoranda discussing and summarizing their respective causes of action, claims, and defenses.[^26]
 
@@ -112,7 +114,7 @@ The Commission finds Respondent liable for violating Sections 25 and 32 of the D
 
 #### I. The instant case should not be dismissed outright despite Complainant's failure to exhaust remedies.
 
-The Complainant filed his complaint prior to the effectivity of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure), thus, the applicable procedural rules at the time of its filing, which was on 01 October 2020, is the NPC Circular 16-04 or the 2016 NPC Rules of Procedure.
+The Complainant filed his complaint prior to the effectivity of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure), thus, the applicable procedural rules at the time of its filing, which was on 01 October 2020, is the [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] or the 2016 NPC Rules of Procedure.
 
 Rule II, Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] (2016 NPC Rules of Procedure) provides:
 
@@ -130,7 +132,7 @@ Rule II, Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16
 
 Complainant stated that he did not contact Respondent because doing so will only aggravate the situation.[^33] Complainant alleged that by informing Respondent, he will make his own interpretation and "will further add insult to the injury."[^34]
 
-In this case, regardless of whether Respondent has acted upon the allegations provided herein, the latter has no longer any opportunity to "provide any plain, speedy or adequate remedy to the alleged violation."[^35] Thus, the Commission, at its discretion, finds that it is but proper to waive the requirement under Section 4 of NPC Circular No. 16-04 considering that the instant complaint involves serious violation of the DPA.
+In this case, regardless of whether Respondent has acted upon the allegations provided herein, the latter has no longer any opportunity to "provide any plain, speedy or adequate remedy to the alleged violation."[^35] Thus, the Commission, at its discretion, finds that it is but proper to waive the requirement under Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] considering that the instant complaint involves serious violation of the DPA.
 
 It must be stressed that the DPA provides that the processing of sensitive personal information is prohibited unless such processing falls under the lawful criteria enshrined under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].[^36] In this case, the Commission perceives of possible violations under the DPA considering the alleged unauthorized processing of Complainant's personal and sensitive personal information, as well as the disclosure thereof through a Facebook post which was made by Respondent.
 
@@ -332,36 +334,36 @@ National Privacy Commission
 [^29]: *Id.*
 [^30]: Letter dated 24 August 2023 of Complaints and Investigation Division to the Punong Barangay of Barangay Bonfal Proper, Bayombong, Nueva Vizcaya.
 [^31]: Certification dated 19 September 2023 of the Office of Punong Barangay of Barangay Bonfal Proper, Bayombong, Nueva Vizcaya.
-[^32]: National Privacy Commission, 2016 Rules of Procedure of the National Privacy Commission, NPC Circular No. 2016-04, rule II, § 4 (15 December 2016) (2016 NPC Rules of Procedure).
+[^32]: National Privacy Commission, [[issuances/undated/rules-of-procedure|2016 Rules of Procedure of the National Privacy Commission, NPC Circular No. 2016-04]], rule II, § 4 (15 December 2016) (2016 NPC Rules of Procedure).
 [^33]: Complaint-Assisted Form dated 01 October 2020 of HEB.
 [^34]: *Id.*
-[^35]: 2021 NPC Rules of Procedure, rule II, § 2.
-[^36]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 13 (2012).
+[^35]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|2021 NPC Rules of Procedure, rule II, § 2]].
+[^36]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Republic Act No. 10173, chapter III, § 13]] (2012).
 [^37]: *Id.*
-[^38]: Data Privacy Act of 2012, chapter VIII, § 25.
+[^38]: [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Data Privacy Act of 2012, chapter VIII, § 25]].
 [^39]: *Id.*
 [^40]: *Id.*
-[^41]: Data Privacy Act of 2012, chapter I, §3(j).
+[^41]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, chapter I, §3(j)]].
 [^42]: Complaint-Assisted Form dated 01 October 2020 of HEB.
 [^43]: *Id.*, see attached Notice of Arraignment and Pre-Trial Conference.
 [^44]: Complaint-Assisted Form dated 01 October 2020 of HEB.
 [^45]: *Id.*
-[^46]: Data Privacy Act of 2012, chapter I, §3(g).
+[^46]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, chapter I, §3(g)]].
 [^47]: *Id.*, chapter I, §3(l).
 [^48]: Complaint-Assisted Form dated 01 October 2020 of HEB.
 [^49]: *Id.*
 [^50]: *Id.*
 [^51]: *Id.*
-[^52]: JBD v. JI and VVV, CID Case No. 18-D-012 dated 21 January 2021.
+[^52]: JBD v. JI and VVV, [[decisions/2020/cid-18-d-012-jbd-vs-ji-and-vvv|CID Case No. 18-D-012]] dated 21 January 2021.
 [^53]: Complaint-Assisted Form dated 01 October 2020 of HEB.
 [^54]: *Id.*
 [^55]: *Id.*
-[^56]: Data Privacy Act of 2012, chapter III, § 13(f).
-[^57]: Data Privacy Act of 2012, chapter III, § 12.
+[^56]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, chapter III, § 13(f)]].
+[^57]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, chapter III, § 12]].
 [^58]: *Id.*, § 13.
 [^59]: *Id.*, § 32.
 [^60]: [[decisions/2022/npc-22-006-mdt-vs-bdo-unibank-inc|NPC 22-006]] (*unreported*) dated 19 January 2023, at p. 17.
-[^61]: Data Privacy Act of 2012, chapter III, § 3(h).
+[^61]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, chapter III, § 3(h)]].
 [^62]: Complaint-Assisted Form dated 01 October 2020 of HEB.
 [^63]: *Id.*
 [^64]: *Id.*
@@ -369,7 +371,7 @@ National Privacy Commission
 [^66]: *Id.*
 [^67]: Heirs of Severa P. Gregorio v. Court of Appeals, G.R. No. 117609 dated 29 December 1998.
 [^68]: Memorandum dated 25 June 2021 of HEB.
-[^69]: Data Privacy Act of 2012, chapter III, § 12.
+[^69]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, chapter III, § 12]].
 [^70]: *Id.*, § 13.
 [^71]: *Id.*
 [^72]: *Id.*

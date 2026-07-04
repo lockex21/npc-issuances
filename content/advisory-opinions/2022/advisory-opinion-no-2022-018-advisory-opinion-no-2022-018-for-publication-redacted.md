@@ -1,10 +1,17 @@
 ---
 title: "NPC Advisory Opinion No. 2022-018 — Data Subject Rights in the Philippine Identification System"
 description: "The NPC addresses the rights of data subjects under the Data Privacy Act in relation to the Philippine Identification System (PhilSys), including the right to withdraw consent and erasure."
+aliases:
+  - "NPC Advisory Opinion No. 2022-018"
+  - "npc advisory opinion no. 2022-018"
+  - "Advisory Opinion No. 2022-018"
+  - "advisory opinion no. 2022-018"
 tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+  - topic/consent
+  - topic/data-subject-rights
 draft: false
 ---
 
@@ -22,7 +29,7 @@ Re: DATA SUBJECT RIGHTS IN THE PHILIPPINE IDENTIFICATION SYSTEM
 
 Dear [Redacted],
 
-We respond to your email inquiry on the rights of a data subject in relation to the Philippine Identification System (PhilSys) and the provisions of R.A. No. 10173, also known as the Data Privacy Act of 2012 (DPA).[^3]
+We respond to your email inquiry on the rights of a data subject in relation to the Philippine Identification System (PhilSys) and the provisions of [[laws/data-privacy-act-of-2012|R.A. No. 10173, also known as the Data Privacy Act of 2012 (DPA)]].[^3]
 
 We understand that the Feedback and Grievance Division (FGD) of the PhilSys Registry Office (PRO) relayed to the Philippine Statistics Authority (PSA) Legal Service that a certain PhilSys registered person requested the deletion of his/her personal data. At the time of your inquiry, the PSA Legal Service has yet to confirm if the registered person was already issued a PhilSys Number (PSN) or PhilSys Card Number (PCN).
 
@@ -68,7 +75,7 @@ Since it is the law and not consent that is the basis for processing under the P
 
 #### Right to Erasure or Blocking Under the PhilSys
 
-On the other hand, the right to erasure or blocking has its own limitations as well. [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 (e) of the DPA]]'s IRR enumerates the instances when the right to erasure may be exercised:
+On the other hand, the right to erasure or blocking has its own limitations as well. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 (e) of the DPA]]'s IRR enumerates the instances when the right to erasure may be exercised:
 
 > Section 34. Rights of the Data Subject. The data subject is entitled to the following rights:
 >
@@ -136,11 +143,11 @@ FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
 [^1]: Tags: Philippine Identification System Act, PhilSys Act, PhilSys, national ID, identification system, rights of data subjects, right to object, right to erasure, right to deletion, lawful criteria for processing.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: *Id.*
 [^4]: Philippine Identification System Act.
-[^5]: Data Privacy Act of 2012, § 3 (g).
-[^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 34 (b) (2016).
+[^5]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (g)]].
+[^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|§ 34 (b)]] (2016).
 [^7]: Emphasis supplied.
 [^8]: See Revised Implementing Rules and Regulations of the Philippine Identification System Act, § 9.
 [^9]: *Id.*

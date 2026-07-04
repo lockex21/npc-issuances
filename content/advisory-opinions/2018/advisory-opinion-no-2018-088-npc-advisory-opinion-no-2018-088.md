@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-088"
+  - "npc advisory opinion no. 2018-088"
+  - "Advisory Opinion No. 2018-088"
+  - "advisory opinion no. 2018-088"
 ---
 
 ## Source
@@ -34,7 +39,7 @@ of Government Personnel.[^3]
 
 We note that the decision of the San Juan City Human Resource Development Department to
 deny your request took into consideration the principles enunciated in the DPA and is
-consistent with the recommendations set by NPC Advisory No. 2017-02 on resolving a
+consistent with the recommendations set by [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|NPC Advisory No. 2017-02]] on resolving a
 pending request for access to a PDS. This includes a statement from the City Human Resource
 Development Department of the City of San Juan, which you have attached, that a preliminary
 investigation is now being conducted by the Civil Service Commission (CSC) and docketed as
@@ -76,4 +81,4 @@ for Policies and Planning
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 
-[^3]: National Privacy Commission, Access to Personal Data Sheets of Government Personnel, Circular No. 17-02 [NPC Circular 17-02] (April 3, 2017).
+[^3]: National Privacy Commission, [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|Access to Personal Data Sheets of Government Personnel, Circular No. 17-02]] [NPC Circular 17-02] (April 3, 2017).

@@ -5,7 +5,15 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2025"
+  - "topic/consent"
+  - "topic/data-sharing"
+  - "topic/government"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-005"
+  - "npc advisory opinion no. 2025-005"
+  - "Advisory Opinion No. 2025-005"
+  - "advisory opinion no. 2025-005"
 ---
 
 ## Source
@@ -40,11 +48,11 @@ In its reply, the BPLO denied the said request on the following grounds:
           Government of Makati which authorizes the sharing of such information; and
       (3) The BPLO is not mandated to disclose such information in the absence of legal bases.
 
-Thus, the BIR now seeks guidance as to whether such request and any subsequent disclosure would constitute a violation of the Data Privacy Act of 2012 (DPA)[^2] and its Implementing Rules and Regulations (IRR), notwithstanding the powers vested in the BIR under the National Internal Revenue Code of 1997, as amended (NIRC).[^3]
+Thus, the BIR now seeks guidance as to whether such request and any subsequent disclosure would constitute a violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (DPA)]][^2] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations (IRR)]], notwithstanding the powers vested in the BIR under the National Internal Revenue Code of 1997, as amended (NIRC).[^3]
 
 Special cases; Processing of Personal Information by a Public Authority; Regulatory Mandate.
 
-The DPA recognizes certain exceptions in favor of the processing conducted by specific public
+The [[laws/data-privacy-act-of-2012|DPA]] recognizes certain exceptions in favor of the processing conducted by specific public
 authorities, to wit:
 
    Section 5. Special Cases. The Act and these Rules shall not apply to the following specified
@@ -164,7 +172,7 @@ Data Sharing Agreements (DSA)
 The BPLO also invoked the absence of a DSA with the BIR as a ground for its refusal to disclose
 the requested personal data.
 
-Under NPC Circular No. 2020-03,[^6] data sharing is defined as the sharing, disclosure, or transfer
+Under [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]],[^6] data sharing is defined as the sharing, disclosure, or transfer
 to a third party of personal data under the custody of a personal information controller to one
 or more other personal information controller/s.
 
@@ -194,7 +202,7 @@ While the BIR may have the statutory mandate, it is incumbent upon the agency to
 with its own procedures, as well as the internal procedures of where the data will be sourced
 from, which in this case, refers to the BPLO.
 
-In NPC Advisory Opinion 2023-015,[^8] we discussed that for Section 4(e) of the DPA and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5(d) of the Implementing Rules and Regulations]] of the DPA to apply, the following should be
+In [[advisory-opinions/2023/advisory-opinion-no-2023-015-advisory-opinion-no-2023-015|NPC Advisory Opinion 2023-015]],[^8] we discussed that for [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5(d) of the Implementing Rules and Regulations]] of the DPA to apply, the following should be
 considered:
 
        The information is necessary in order to carry out the law enforcement or regulatory

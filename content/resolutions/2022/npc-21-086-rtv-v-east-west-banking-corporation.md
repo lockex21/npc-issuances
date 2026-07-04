@@ -49,7 +49,7 @@ Before the Commission is the Compliance and Manifestation (Re: Letter/Order date
 
 ### Facts
 
-On 03 February 2022, the Commission issued a Decision dismissing the complaint filed by RTB against EWBC upon determining that EWBC’s processing of RTB’s personal information was based on a lawful criterion under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (b) of the Data Privacy Act of 2012]] (DPA).[^2] As a consequence of EWBC’s carelessness in the processing of RTB’s personal information, however, the Commission awarded nominal damages to RTB.[^3] In this case, EWBC did not comply with its obligation as a Personal Information Controller under [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 (c) of the DPA]].[^4] The dispositive portion of the Decision states:
+On 03 February 2022, the Commission issued a [[decisions/2022/npc-21-086-rtb-v-east-west-banking-corporation|Decision]] dismissing the complaint filed by RTB against EWBC upon determining that EWBC’s processing of RTB’s personal information was based on a lawful criterion under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (b) of the Data Privacy Act of 2012]] (DPA).[^2] As a consequence of EWBC’s carelessness in the processing of RTB’s personal information, however, the Commission awarded nominal damages to RTB.[^3] In this case, EWBC did not comply with its obligation as a Personal Information Controller under [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 (c) of the DPA]].[^4] The dispositive portion of the Decision states:
 
 > **WHEREFORE, premises considered, the Commission resolves to DISMISS the Complaint of RTB against East West Bank Corporation (EWBC). The Commission AWARDS nominal damages, in the amount of Fifteen Thousand Pesos (P15,000.00), to RTB for EWBC’s failure to fulfill its obligation as a Personal Information Controller under Section 11 (c) of the Data Privacy Act of 2012. EWBC is ORDERED to submit its compliance within fifteen (15) days from receipt of this Decision.**
 >
@@ -69,7 +69,7 @@ The Commission resolves to close the case.
 
 The Commission notes that EWBC complied with the order to pay RTB nominal damages in the amount of Fifteen Thousand Pesos (P15,000.00) as stated in the Decision dated 03 February 2022.[^17] The acknowledgement receipt signed by RTB together with RTB’s confirmation of the payment of nominal damages through his email to the Commission are deemed sufficient to prove that the payment has been made.[^18]
 
-As regards RTB’s statement in his email that he intends to file a Motion for Reconsideration,[^19] the Commission notes that he did not file a Motion for Reconsideration within the prescribed period under NPC Circular 2021-01 (2021 NPC Rules of Procedure).
+As regards RTB’s statement in his email that he intends to file a Motion for Reconsideration,[^19] the Commission notes that he did not file a Motion for Reconsideration within the prescribed period under [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 2021-01 (2021 NPC Rules of Procedure)]].
 
 **WHEREFORE, premises considered, Commission resolves that NPC 21-086 – RTB v. East West Banking Corporation is hereby CLOSED.**
 

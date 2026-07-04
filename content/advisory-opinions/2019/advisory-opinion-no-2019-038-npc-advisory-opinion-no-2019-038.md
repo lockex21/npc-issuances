@@ -1,10 +1,16 @@
 ---
 title: "NPC Advisory Opinion No. 2019-038 — Collaboration with Insurance Companies for Product Recall"
 description: "Advisory opinion on the lawful basis for sharing personal data with insurance companies to facilitate product recall notification under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2019-038"
+  - "npc advisory opinion no. 2019-038"
+  - "Advisory Opinion No. 2019-038"
+  - "advisory opinion no. 2019-038"
 tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+  - topic/legitimate-interest
 draft: false
 ---
 
@@ -23,8 +29,8 @@ Re: COLLABORATION WITH INSURANCE COMPANIES FOR ACCESS TO CONTACT DETAILS OF DATA
 
 Dear [Redacted],
 
-We write in response to your inquiry which sought to clarify matters regarding the Data
-Privacy Act of 20122 (DPA), particularly on the legitimate purpose in seeking assistance from
+We write in response to your inquiry which sought to clarify matters regarding the [[laws/data-privacy-act-of-2012|Data
+Privacy Act of 2012]][^2] (DPA), particularly on the legitimate purpose in seeking assistance from
 and collaborating with insurance companies for access to the updated personal information
 and contact details of the insured vehicle owners, in relation to the on-going campaign of
 Honda Cars Philippines, Inc. (HCPI) for the product recall pertaining to the replacement of
@@ -94,13 +100,13 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: Tags: personal information, legitimate purpose, lawful processing vitally important interests.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), Recital 26.
 [^4]: *Id.*, Recital 46.
 [^5]: UK Information Commissioner's Office, Vital interests, available at https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/vital-interests/ (last accessed: 27 August 2019).
 [^6]: *Id.*
 [^7]: *Id.*
-[^8]: Data Privacy Act of 2012, §12(b).
+[^8]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, §12(b)]].
 [^9]: *Id.*, § 12 (f).
-[^10]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^10]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c)]] (2016).
 [^11]: *Id.*

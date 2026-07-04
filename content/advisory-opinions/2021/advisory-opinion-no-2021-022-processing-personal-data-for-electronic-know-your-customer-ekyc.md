@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2021-022 — Processing Personal Data For Electronic Know-your-customer (eKYC)"
 description: "Clarification on the lawful basis for processing personal data for digital onboarding and electronic Know-Your-Customer verification."
+aliases:
+  - "NPC Advisory Opinion No. 2021-022"
+  - "npc advisory opinion no. 2021-022"
+  - "Advisory Opinion No. 2021-022"
+  - "advisory opinion no. 2021-022"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -67,8 +72,8 @@ retains, and discloses personal information.[^4]
 #### Outsourcing; Data Subjects Rights
 
 For outsourcing, we note the MORB provisions you have provided. These are read together with
-the provisions of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^5] (IRR) of the DPA, specifically Sections
-43-45. The stipulations for outsourcing agreements indicated in these provisions should be
+the provisions of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^5] (IRR) of the DPA, specifically [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-43-subcontract-of-personal-data|Sections
+43]]-[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-45-duty-of-personal-information-processor|45]]. The stipulations for outsourcing agreements indicated in these provisions should be
 included in the bank’s agreement with its eKYC solutions provider.
 
 We emphasize that the bank, as a personal information controller, shall use contractual or other
@@ -101,6 +106,6 @@ OIC-Director IV, Privacy Policy Office
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: National Privacy Commission, Data Subject Rights [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] (Jan. 29, 2021).
 [^4]: Id. citing National Privacy Commission, NPC Advisory Opinion 2018- 013 (2018).
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173 (2016).
 [^6]: Id. § 43 and [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]], § 5 (c).
 [^7]: See generally: Cavoukian, Ann Ph.D., Privacy by Design - The 7 Foundational Principles - Implementation and Mapping of Fair Information Practices, available at https://iapp.org/media/pdf/resource_center/pbd_implement_7found_principles.pdf (last accessed 2 July 2021).

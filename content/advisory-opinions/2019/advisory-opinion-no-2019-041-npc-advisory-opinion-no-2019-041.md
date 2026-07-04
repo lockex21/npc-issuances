@@ -1,10 +1,16 @@
 ---
 title: "NPC Advisory Opinion No. 2019-041 — Credit Card Fraud Investigation"
 description: "Guidance on disclosure of personal information from online merchants to credit card issuers for fraud investigation and claims processing."
+aliases:
+  - "NPC Advisory Opinion No. 2019-041"
+  - "npc advisory opinion no. 2019-041"
+  - "Advisory Opinion No. 2019-041"
+  - "advisory opinion no. 2019-041"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2019"
+  - "topic/legitimate-interest"
 draft: false
 ---
 
@@ -23,7 +29,7 @@ Re: CREDIT CARD FRAUD INVESTIGATION
 
 Dear [Redacted],
 
-We write in response to your inquiry seeking clarification on the provisions of the Data Privacy Act of 2012[^2] (DPA) in relation to the Philippine Credit Card Industry Regulation Law[^3] on credit card fraud investigations.
+We write in response to your inquiry seeking clarification on the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) in relation to the Philippine Credit Card Industry Regulation Law[^3] on credit card fraud investigations.
 
 ### Discussion
 
@@ -90,10 +96,10 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: An Act Regulating The Philippine Credit Card Industry [Philippine Credit Card Industry Regulation Law], Republic Act No. 10870 (2016).
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-[^5]: Data Privacy Act of 2012, § 12 (c) and (f).
-[^6]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on June 11, 2018].
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 17 (c).
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173 (2016).
+[^5]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (c) and (f)]].
+[^6]: See generally, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (f)]]; United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on June 11, 2018].
+[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-17-general-data-privacy-principles|Rules and Regulations Implementing the Data Privacy Act of 2012, § 17 (c)]].
 [^8]: Philippine Credit Card Industry Regulation Law, § 2.

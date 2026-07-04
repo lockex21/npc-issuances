@@ -5,6 +5,7 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/consent"
 draft: false
 ---
 
@@ -25,7 +26,7 @@ Dear [Redacted],
 
 We write in response to your request for an Advisory Opinion received by the National
 Privacy Commission (NPC) to provide clarification and guidance on school practices during
-this time of COVID-19 pandemic vis-à-vis the provisions of the Data Privacy Act of 2012[^2]
+this time of COVID-19 pandemic vis-à-vis the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2]
 (DPA). The following are your inquiries and our corresponding responses:
 
 ### Discussion
@@ -47,7 +48,7 @@ of consent and disclosure)?
 #### Sensitive personal information; education; lawful processing
 
 Under the DPA, information about an individual’s education is categorized as sensitive
-personal information,[^3] the processing of which is generally prohibited unless covered by the criteria set forth under Section 13 of the law and other existing laws, rules and regulations.
+personal information,[^3] the processing of which is generally prohibited unless covered by the criteria set forth under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the law]] and other existing laws, rules and regulations.
 
 Apart from the student’s name, the data set enumerated included in the class roster, i.e.
 student’s school name, grade level, section and test scores, are considered sensitive personal
@@ -137,11 +138,11 @@ Under the DPA, an individual’s name and photo are generally categorized as per
 information, and the posting on social media of the same should be grounded upon a lawful
 basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]]. In the case of the school, it may be possible to rely on the
 fulfilment of the school’s contract with its students as well as legitimate interest of the school
-pursuant to Section 12 (b) and (f) of the DPA, respectively.
+pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (b)]] and [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|(f)]] of the DPA, respectively.
 
 However, in certain instances where a photo would reveal sensitive personal information,
 which includes educational information, the posting of the same should find basis under
-Section 13 of the DPA instead.
+[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] instead.
 
 In this case, if the screenshots of online classes where students are identifiable by their names
 and images, would likewise reveal other education-related details, i.e. name of school, grade
@@ -211,7 +212,7 @@ representation, including school or government scholarship grants, all fall unde
 personal information since these are information on an individual’s education.
 
 Similar to the discussion in Item No. 2 above, the processing of such sensitive personal
-information should be based on any of the criteria provided under Section 13 of the DPA. In
+information should be based on any of the criteria provided under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]. In
 this scenario, consent may be the most appropriate lawful basis for processing.
 
 Expressly stating certain provisions on the subject in the student handbook is not a valid
@@ -234,8 +235,8 @@ made on a case-to-case basis, considering various factors and circumstances, i.e
 photos or videos involve a large crowd at a school event, etc.
 
 As discussed in Item No. 2, names and photographs may be considered as personal
-information and may be shared or disclosed pursuant to Section 12 of the DPA. If otherwise
-considered as sensitive personal information, Section 13 would then apply.
+information and may be shared or disclosed pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]]. If otherwise
+considered as sensitive personal information, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]] would then apply.
 
 The school would have to make the determination of the most appropriate lawful basis for
 processing, taking into account all relevant circumstances of the processing, adherence to the
@@ -273,15 +274,15 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
-[^3]: Data Privacy Act of 2012, § 3 (l).
+[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (l)]].
 
 [^4]: National Privacy Commission, NPC Advisory Opinion No. 2018-020 (Apr. 18, 2018).
 
 [^5]: Data Privacy Council Education Sector, Advisory No. 2020-1 - Data Privacy and Online Learning, available at https://www.privacy.gov.ph/wp-content/uploads/2020/10/DP-Council-Education-Sector-Advisory-No.-2020-1.pdf, p. 5-6 (last accessed 9 Nov 2020).
 
-[^6]: NPC Circular 17-01, §5(c)(3).
+[^6]: [[issuances/undated/registration-of-data-processing-systems|NPC Circular 17-01]], §5(c)(3).
 
 [^7]: Article 29 Data Protection Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is "likely to result in a high risk" for the purposes of Regulation 2016/679, Item III (B)(a)(7), 4 April 2017.
 

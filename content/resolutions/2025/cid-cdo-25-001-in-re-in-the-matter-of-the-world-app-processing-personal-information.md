@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2025
   - npc-case
+  - topic/data-subject-rights
 date: "2025-10-30"
 draft: false
 ---
@@ -48,7 +49,7 @@ In his book *The Five Types of Wealth*, Sahil Bloom wrote, "What gets measured g
 
 ### Facts
 
-On 07 May 2025, the Complaints and Investigation Division (CID) submitted its application for the issuance of a Cease and Desist Order (CDO) against Tools for Humanity Corporation (TFH) in relation to the latter's data privacy practices and processing of personal data in their application called "World App" and through their device called the "Orb", allegedly violative of the General Data Privacy Principles under Section 11 and the Rights of the Data Subjects under Section 16 of Republic Act 10173, otherwise known as the Data Privacy Act of 2012 (DPA).[^1]
+On 07 May 2025, the Complaints and Investigation Division (CID) submitted its application for the issuance of a Cease and Desist Order (CDO) against Tools for Humanity Corporation (TFH) in relation to the latter's data privacy practices and processing of personal data in their application called "World App" and through their device called the "Orb", allegedly violative of the General Data Privacy Principles under [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11]] and the Rights of the Data Subjects under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16]] of Republic Act 10173, otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^1]
 
 On 09 May 2025, the Commission issued a Minute Resolution dated 08 May 2025 requiring TFH to comment on the CID's application for a CDO and for the parties to appear before the Commission for a Clarificatory Hearing on 23 May 2025.[^2]
 
@@ -88,7 +89,7 @@ This Cease and Desist Order covers the following:
 
 Additionally, TFH is **ORDERED** to **SUBMIT** the total number of Filipinos registered in the World App and verified through the Orb and to **SUBMIT** all the locations where they are currently operating.
 
-Further, in accordance with Section 9 of NPC Circular No. 20-02, TFH is hereby **ORDERED** to **SUBMIT** a comment on the Order and to file the same within ten (10) days from receipt hereof.
+Further, in accordance with Section 9 of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]], TFH is hereby **ORDERED** to **SUBMIT** a comment on the Order and to file the same within ten (10) days from receipt hereof.
 
 Finally, the Enforcement Division of the NPC is hereby tasked to ensure the implementation of this Order no later than seventy-two (72) hours from receipt of TFH and to submit to the Commission a report within forty-eight (48) hours after the completion of the implementation.
 
@@ -140,7 +141,7 @@ TFH prayed that the Commission note their Compliance along with the correspondin
 
 Thereafter, on 27 October 2025, the Commission received TFH's Manifestation regarding the submission of apostilled documents dated 24 October 2025.[^49]
 
-In line with the foregoing, the Commission is now tasked to determine whether to extend or lift the issued CDO pursuant to Section 12, Rule II of NPC Circular No. 20-02:
+In line with the foregoing, the Commission is now tasked to determine whether to extend or lift the issued CDO pursuant to Section 12, Rule II of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]]:
 
 > Section 12. Decision on the Issued CDO. – If after giving the Adverse Party the opportunity to be heard, it appears that the applicant is entitled to have the act or practice enjoined and that there is a need for the extension of the issued CDO, the Commission shall extend its effectivity, otherwise, the same shall be lifted.
 >
@@ -202,7 +203,7 @@ Sixth, WCPHC operates entirely through TFH-owned infrastructure and systems, pri
 
 Finally, under Section 21 of the DPA[^63], TFH, as the PIC, remains accountable for all personal data processed by a third party on its behalf. Even though WCPHC takes part in the collection of biometric data, the legal and operational control, as well as ultimate accountability, rest with TFH. Taken together, these circumstances conclusively establish that WCPHC functions as a PIP performing data processing activities on behalf of and under the authority and control of TFH, the PIC.
 
-Now that the respective roles of TFH, as PIC, and WCPHC, as PIP, have been established, the Commission takes this opportunity to explain the importance of these roles in the context of due process. Under the DPA and its IRR, the PIC bears primary responsibility and accountability for all personal data processing activities carried out on its behalf, whether performed directly or through a processor.[^64]
+Now that the respective roles of TFH, as PIC, and WCPHC, as PIP, have been established, the Commission takes this opportunity to explain the importance of these roles in the context of due process. Under the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], the PIC bears primary responsibility and accountability for all personal data processing activities carried out on its behalf, whether performed directly or through a processor.[^64]
 
 Accordingly, notice to the PIC is deemed notice to its PIP, as the latter acts only under the authority, instruction, and control of the former. This principle ensures procedural fairness while preserving the integrity of regulatory proceedings by recognizing that the PIC cannot evade responsibility through outsourcing arrangements.
 
@@ -264,7 +265,7 @@ Given these circumstances, the contention of WCPHC that it was not afforded the 
 
 Indeed, due process cannot be invoked by a party who, despite said opportunity, failed to act or avail itself of the remedies open to it. The constitutional guarantee of due process is meant to ensure fairness—not to shield negligence or inaction. As consistently held by the Supreme Court of the Philippines, "the essence of due process is simply the opportunity to be heard."[^83] It is not violated where a party is given the chance to present its side but fails to do so. Thus, WCPHC cannot now fault the Commission for its own failure to respond or comply, as the denial of due process cannot be predicated on a party's deliberate choice or neglect. To sustain WCPHC's claim would set a perilous precedent where a PIP having been notified by its PIC and even present in the very proceedings could later argue lack of due process by simply asserting technical non-notification. Such a view would distort the concept of administrative due process and defeat the very accountability structure established under the DPA, its IRR and issuances, which hold the PIC and its PIP to a unified standard of responsibility and cooperation as extensively discussed earlier.
 
-Further, indeed WCPHC is correct when it stated that the Commission is empowered to issue an ex parte CDO pursuant to NPC Circular No. 20-02, known as the Rules on the Issuance of Cease and Desist Orders (Rules on the Issuance of CDO)[^84], in relation to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 (c) of the DPA]].[^85] Under these provisions, the Commission may motu proprio or upon complaint, issue an ex parte order when all of the following concur:
+Further, indeed WCPHC is correct when it stated that the Commission is empowered to issue an ex parte CDO pursuant to [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02, known as the Rules on the Issuance of Cease and Desist Orders]] (Rules on the Issuance of CDO)[^84], in relation to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 (c) of the DPA]].[^85] Under these provisions, the Commission may motu proprio or upon complaint, issue an ex parte order when all of the following concur:
 
 1) the Adverse Party is doing, threatening or is about to do, is procuring to be done, some act or practice in violation of the DPA, its IRR, or other related issuances;
 
@@ -307,8 +308,8 @@ According to TFH, the processing of iris scans and facial images aims to provide
 [^17]: Id.
 [^18]: Electronic Filing, sent to adjudication@privacy.gov.ph on 16 October 2025 at 10:17pm.
 [^19]: Cease and Desist Order (CDO) In the matter of World App Processing of Personal Information dated 23 September 2025.
-[^20]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 11, Chapter III (2012).
-[^21]: *Id* at Section 16.
+[^20]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11]], Chapter III (2012).
+[^21]: *Id* at [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16]].
 [^22]: Cease and Desist Order (CDO) In the matter of World App Processing of Personal Information dated 23 September 2025.
 [^23]: TFH's Comment dated 15 October 2025, in compliance with NPC CDO dated 23 September 2025.
 [^24]: Electronic Filing, sent to adjudication@privacy.gov.ph on 16 October 2025 at 10:17pm.
@@ -337,11 +338,11 @@ According to TFH, the processing of iris scans and facial images aims to provide
 [^47]: *Id* at par. 7.
 [^48]: *Id* at p. 9.
 [^49]: Manifestation of Tools for Humanity (Re: Submission of Apostilled Documents) dated 24 October 2025.
-[^50]: NPC Circular No. 20-02, known as the Rules on the Issuance of Cease and Desist Order of the National Privacy Commission, Section 12.
-[^51]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 3 (H), Chapter I (2012).
+[^50]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02, known as the Rules on the Issuance of Cease and Desist Order of the National Privacy Commission]], Section 12.
+[^51]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (H)]], Chapter I (2012).
 [^52]: WCPHC's Comment dated 16 October 2025, at par. 7.
 [^53]: *Id* at par. 46.
-[^54]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X; Cambridge Dictionary, *Available at* https://dictionary.cambridge.org/us/dictionary/english/outsourcing (last accessed 07 November 2025)
+[^54]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]], Rule X; Cambridge Dictionary, *Available at* https://dictionary.cambridge.org/us/dictionary/english/outsourcing (last accessed 07 November 2025)
 [^55]: WCPHC's Comment dated 16 October 2025, at par. 31.
 [^56]: *Id*.
 [^57]: *Id*. at par. 39.
@@ -349,12 +350,12 @@ According to TFH, the processing of iris scans and facial images aims to provide
 [^59]: *Id*. at par. 7.
 [^60]: See Transcription, Clarificatory Hearing CID CDO No. 25-001, Adju-25-00178, 23 May 2025.
 [^61]: WCPHC's Comment dated 16 October 2025, at par. 31.
-[^62]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 3 (i), Chapter I (2012).
-[^63]: *Id*. Section 21.
-[^64]: *Id*. Section 21; Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule XII.
+[^62]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (i)]], Chapter I (2012).
+[^63]: *Id*. [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21]].
+[^64]: *Id*. Section 21; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]], Rule XII.
 [^65]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X, Section 43 and 44.
 [^66]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X.
-[^67]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 21, Chapter VI (2012).
+[^67]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21]], Chapter VI (2012).
 [^68]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule X, Section 44 (b)(8).
 [^69]: WCPHC's Comment dated 16 October 2025, at par. 34.
 [^70]: Sharon Flores-Concepcion v. Judge Liberty Castaneda, Regional Trial Court, Branch 67, Paniqui, Tarlac, A.M. No. RTJ-15-2438 [Formerly OCA I.P.P No. 11-3681-RTJ], (September 02, 2020); Haydee C. Casimiro v. Filipino T. Tandog, G.R. No. 146137, (June 08, 2005).
@@ -370,9 +371,9 @@ According to TFH, the processing of iris scans and facial images aims to provide
 [^80]: See Transcription of Clarificatory Hearing dated 23 May 2025, at p. 57 to 58.
 [^81]: *Id*.
 [^82]: Minette Baptista v. Rosario Villanueva, G.R. No. 194709, (July 31, 2013).
-[^83]: NPC Circular No. 20-02 or the Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission.
-[^84]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 7 (c), Chapter II (2012).
-[^85]: NPC Circular No. 20-02 or the Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission, Section 4.
+[^83]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02 or the Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission]].
+[^84]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 (c)]], Chapter II (2012).
+[^85]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02 or the Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission]], Section 4.
 [^86]: Cease and Desist Order (CDO) In the matter of World App Processing of Personal Information dated 23 September 2025.
 [^87]: TFH's Comment dated 15 October 2025, at par. 148, in compliance with CDO dated 23 September 2025.
 [^88]: *Id*.

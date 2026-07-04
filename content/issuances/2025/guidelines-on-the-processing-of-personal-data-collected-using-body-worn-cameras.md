@@ -11,6 +11,8 @@ tags:
   - topic/cctv-surveillance
   - type/circular
   - year/2025
+  - topic/data-subject-rights
+  - topic/security
 draft: false
 date: '2025-05-26'
 ---
@@ -37,7 +39,7 @@ The following factors may be considered in determining whether a specific activi
 
 3. Processing of personal data about data subjects who have no personal, family, or household relationship with the person engaged in the processing.[^1]
 
-**SECTION 2.** ***Definition of Terms.*** Terms used in the Data Privacy Act of 2012 (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), as amended, and other NPC issuances, are adopted herein. In addition, whenever used in this Circular, the following terms are defined as follows:
+**SECTION 2.** ***Definition of Terms.*** Terms used in the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), as amended, and other NPC issuances, are adopted herein. In addition, whenever used in this Circular, the following terms are defined as follows:
 
 A. *"Alternative Recording Device"* or *"ARD"* refers to an electronic device or gadget with a camera system, other than a BWC, that is capable of creating, generating, sending, receiving, storing, displaying, and processing audio-visual recording and is capable of being bodily worn, handheld, attached to the person of an individual or operated as an alternative or substitute for BWC. This includes, but is not limited to, digital cameras, mobile phones, action cameras, smart watches or smart eyeglasses, and other similar devices.
 
@@ -77,7 +79,7 @@ J. *"Vlogger"* refers to someone who makes video blogs or vlogs (recording of th
 
 A. Law enforcement; security. BWCs or ARDs shall be used in a manner consistent with the aim of ensuring the protection of the fundamental rights and freedoms of all data subjects, including law enforcement officers and security guards. Personal data processing of LEAs and PSAs shall adhere to the following:
 
-1. Lawful basis for processing. The processing of personal data using BWCs or ARDs may be allowed in any of the instances provided under Sections 12 and 13 of the DPA, or as processing under a special case under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]].
+1. Lawful basis for processing. The processing of personal data using BWCs or ARDs may be allowed in any of the instances provided under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13 of the DPA]], or as processing under a special case under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]].
 2. General principles of privacy. The general data privacy principles shall be strictly adhered to:
 
 a. Transparency. An appropriate privacy notice shall be provided using clear, concise, and plain language, considering the different contexts and environments where personal data processing could take place.
@@ -115,7 +117,7 @@ C. Other persons or entities using BWCs or ARDs. The processing of personal data
 A. Providing for the conduct of comprehensive trainings or seminars for all relevant personnel on the proper use of BWCs or ARDs:
 
 1. Training materials shall include discussions on the right to data privacy, data protection policies, general data privacy principles, rights of the data subjects, and compliance with due process requirements as provided by law;
-2. Training materials shall also include a discussion of administrative, civil, and criminal penalties under the DPA; and
+2. Training materials shall also include a discussion of administrative, civil, and criminal penalties under the [[laws/data-privacy-act-of-2012|DPA]]; and
 3. Trainings shall be properly documented and conducted at least once a year: provided, that a similar training shall be provided during the onboarding or orientation of newly hired personnel.
 
 B. Regulating access to personal data collected through BWCs or ARDs:
@@ -144,7 +146,7 @@ F. Retain recordings only for as long as necessary for the fulfillment of the pu
 2. Retention of recordings by other persons or entities using BWCs or ARDs. Recordings made by persons or entities shall be retained for thirty (30) calendar days or as may be provided for in other laws or regulations that may require its retention.
 3. Disposal of recordings. Recordings shall be disposed in a secure manner that would prevent unauthorized further processing. The storage media must be electronically wiped, including back up data, to ensure that recordings are permanently erased and beyond recovery.
 
-**SECTION 5.** ***Upholding data subject rights.*** Mechanisms for data subjects to exercise their rights under Sections 16 to 18 of the DPA shall be provided.
+**SECTION 5.** ***Upholding data subject rights.*** Mechanisms for data subjects to exercise their rights under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Sections 16]] to [[laws/data-privacy-act-of-2012#section-18-right-to-data-portability|18 of the DPA]] shall be provided.
 
 A. The exercise of such rights is subject to reasonable limitations, such as when upholding data subject rights would prevent, impair, or otherwise prejudice ongoing police operations and other related law enforcement activities, or in the interest of national security or public order or safety, as may be provided for by law: provided, that when the identified reasonable limitations herein have ceased to exist, the data subject rights should subsequently be upheld, e.g., in case of an access request which was denied as it may affect ongoing police operations, the specific footage requested should be tagged, archived, and released when such action would no longer prevent, impair, or otherwise prejudice ongoing police operations.
 B. Data subjects may exercise their rights with due consideration of the rights and freedoms of others, e.g., in case of an access request for footage which captures other individuals who are irrelevant to the purpose of the request, PICs must mask the images of those other individuals prior to the release of such footage.
@@ -161,7 +163,7 @@ D. There shall be a careful determination and evaluation on whether the right to
 
 **SECTION 8.** ***Interpretation.*** Any doubt in the interpretation of any provision of this Circular shall be liberally interpreted in a manner mindful of the rights and interests of the data subjects, and without prejudice to the application of other pertinent laws and regulations on the matter.
 
-**SECTION 9.** ***Penalties.*** The processing of personal data in violation of this Circular shall carry criminal, civil, and administrative liability pursuant to the provisions of the DPA, its IRR, and related issuances of the NPC.
+**SECTION 9.** ***Penalties.*** The processing of personal data in violation of this Circular shall carry criminal, civil, and administrative liability pursuant to the provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and related issuances of the NPC.
 
 **SECTION 10.** ***Transitory Provisions.*** PICs and PIPs shall be given a period of sixty (60) calendar days from the effectivity of this Circular to comply with the requirements provided herein.
 
@@ -203,7 +205,7 @@ Deputy Privacy Commissioner                Deputy Privacy Commissioner
 
 [^11]: PNP Memorandum Circular No. 2018-009, § 6 (c) (2) (i) and (5) (a).
 
-[^12]: See: ECA v. XXX, NPC Case No. 18-103 (2020).
+[^12]: See: [[decisions/2020/07-23-2020-eca-vs-xxx|ECA v. XXX, NPC Case No. 18-103]] (2020).
 
 ## Source
 

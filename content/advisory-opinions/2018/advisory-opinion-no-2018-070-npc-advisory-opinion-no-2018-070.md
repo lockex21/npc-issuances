@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/employment
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-070"
+  - "npc advisory opinion no. 2018-070"
+  - "Advisory Opinion No. 2018-070"
+  - "advisory opinion no. 2018-070"
 ---
 
 ## Source
@@ -73,7 +79,7 @@ for Policies and Planning
 [^2]: Kautusang Panlungsod na Nag-Aatas sa lahat ng Kompanya/Bahay-Kalakal na Nagnenegosyo sa Lungsod ng Muntinlupa, na sa pagtanggap ng karaniwang kawani (rank and file), ang hindi bababa sa pitumpung porsiyento (70%) ng manggagawa ay dapat residente ng lungsod (01 July 1996).
 [^3]: *Id.* § 4.
 [^4]: *Id.* § 7.
-[^5]: *Id.* § 12 (c).
+[^5]: *Id.* [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (c)]].
 [^6]: Social Justice Society v. Hon. Jose L. Atienza, G.R No. 156052 (S.C., February 13, 2008) (Phil.), available at http://sc.judiciary.gov.ph/jurisprudence/2008/feb2008/156052.htm
-[^7]: *Id.* § 13 (b).
+[^7]: *Id.* [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13 (b)]].
 [^8]: *Supra* note 6.

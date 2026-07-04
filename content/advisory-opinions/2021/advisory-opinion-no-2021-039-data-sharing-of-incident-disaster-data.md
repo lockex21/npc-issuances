@@ -5,7 +5,14 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/data-sharing"
+  - "topic/government"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-039"
+  - "npc advisory opinion no. 2021-039"
+  - "Advisory Opinion No. 2021-039"
+  - "advisory opinion no. 2021-039"
 ---
 
 ## Source
@@ -48,17 +55,17 @@ and exchange incident/disaster data and information with other government agenci
 proper monitoring and documentation of all major and minor incidents and disaster
 occurrences in Metro Manila on its population, properties, and environment.
 
-You now ask if this data sharing arrangement is in adherence with the provisions of the Data Privacy Act of 2012[^2] (DPA).
+You now ask if this data sharing arrangement is in adherence with the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 ### Discussion
 
 #### NPC Circular No. 2020-03; data sharing; mandate; laws and regulations
 
-Data sharing is defined under NPC Circular No. 2020-03 as the sharing, disclosure, or transfer to a third party of personal data under the custody of a personal information controller to one or more other personal information controller/s.[^3]
+Data sharing is defined under [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] as the sharing, disclosure, or transfer to a third party of personal data under the custody of a personal information controller to one or more other personal information controller/s.[^3]
 
 Further, the said Circular clarified that data sharing may be based on any of the criteria for
-lawful processing of personal data in Sections 12 and 13 of the DPA[^4] and may also be allowed
-pursuant to Section 4 of the law which specifies the special cases.[^5] The Circular further
+lawful processing of personal data in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA[^4] and may also be allowed
+pursuant to [[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] of the law which specifies the special cases.[^5] The Circular further
 provides that it does not prohibit or limit the sharing, disclosure, or transfer of personal data
 that is already authorized or required by law.[^6]
 
@@ -92,7 +99,7 @@ responsibilities of the parties, mechanisms through which data subjects may exer
 rights. While the execution of a DSA is not mandatory, it is a sound recourse and demonstrates
 accountable personal data processing.[^7]
 
-For further guidance on DSAs, please refer to NPC Circular No. 2020-03 available at our website: https://www.privacy.gov.ph/memorandum-circulars/.
+For further guidance on DSAs, please refer to [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] available at our website: https://www.privacy.gov.ph/memorandum-circulars/.
 
 #### Statistics
 
@@ -115,9 +122,9 @@ Very truly yours,
 OIC-Director IV, Privacy Policy Office
 
 [^1]: Tags: criteria for lawful processing; data sharing; law and regulation; general data privacy principles.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: National Privacy Commission, Data Sharing Agreements [NPC Circular No. 2020-03], § 2 (F) (December 23, 2020).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: National Privacy Commission, [[issuances/2020/data-sharing-agreements|Data Sharing Agreements]] [NPC Circular No. 2020-03], § 2 (F) (December 23, 2020).
 [^4]: Id. § 6.
 [^5]: Id. § 7.
 [^6]: Id. § 6.
-[^7]: NPC Circular No. 2020-03, § 8.
+[^7]: [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]], § 8.

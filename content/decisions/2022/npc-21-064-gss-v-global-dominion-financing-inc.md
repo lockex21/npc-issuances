@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2021"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/online-lending"
 date: "2022-06-16"
 draft: false
 ---
@@ -42,7 +44,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission is a complaint filed by GSS against Global Dominion Financing Inc. (GDFI) for an alleged violation of Section 25 (Unauthorized Processing) and Section 28 (Processing for Unauthorized Purposes) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a complaint filed by GSS against Global Dominion Financing Inc. (GDFI) for an alleged violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (Unauthorized Processing)]] and [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 (Processing for Unauthorized Purposes)]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -84,7 +86,7 @@ GSS contended that GDFI violated Section 25 (Unauthorized Processing) and Sectio
 
 On 20 October 2021, GDFI submitted its Memorandum.[^33] GDFI alleged that the filing of the present case is grounded on suspicion and fear.[^34] GDFI claimed that it is compliant with the mandate of the DPA as it ensures that the personal information of its clients are secured and protected.[^35] It submitted a copy of the Loan Application Form that bears GSS's signature.[^36] It claimed that the signed Loan Application Form shows GSS authorizing GDFI to process GSS's personal data for an authorized purpose that is solely in relation with his loan application.[^37]
 
-GDFI alleged that it met the criteria for lawful processing of personal information stating Section 12 (a) and (b), and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (a) of the DPA]] as bases for its lawful processing.[^38] GDFI prayed that the case be dismissed for lack of merit.[^39]
+GDFI alleged that it met the criteria for lawful processing of personal information stating [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (a) and (b)]], and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (a) of the DPA]] as bases for its lawful processing.[^38] GDFI prayed that the case be dismissed for lack of merit.[^39]
 
 ### Issue
 
@@ -106,7 +108,7 @@ Section 2 of Rule II of the 2021 NPC Rules of Procedure provides:
 
 In order for the complaint to be given due course, Section 2 of Rule II of the 2021 NPC Rules of Procedure requires that the complainant must first inform, in writing, the concerned entity of the alleged privacy violation or personal data breach.[^41] Following the written notification, the concerned entity did not take timely or appropriate action on the alleged privacy violation nor did it respond within fifteen (15) calendar days from receipt of written information from the complainant.[^42] The fifteen (15) calendar days granted by the 2021 NPC Rules of Procedure affords the concerned entity an opportunity to address the alleged privacy violation by either taking timely or appropriate action, or responding to the written information given by the complainant.[^43] These two requisites should have been sufficiently established and proven before a complaint is given due course.[^44]
 
-The Commission finds that GSS's complaint should not have been given due course by the CID because GSS failed to comply with exhaustion of remedies. In *MRS v. National Conciliation and Mediation Board (NCMB) and Department of Labor and Employment (DOLE)*, the Commission dismissed the case for failure to exhaust remedies.[^45] The Commission held that "where circumstances permit, it is a condition precedent to the filing of complaints that complainants give the respondents the opportunity to address the complaints against them."[^46]
+The Commission finds that GSS's complaint should not have been given due course by the CID because GSS failed to comply with exhaustion of remedies. In *[[decisions/2020/npc-18-152-mrs-vs-national-conciliation-and-mediation-board-ncmb-and-department-of-labor-and-employment-dole|MRS v. National Conciliation and Mediation Board (NCMB) and Department of Labor and Employment (DOLE)]]*, the Commission dismissed the case for failure to exhaust remedies.[^45] The Commission held that "where circumstances permit, it is a condition precedent to the filing of complaints that complainants give the respondents the opportunity to address the complaints against them."[^46]
 
 In this case, GSS cancelled his application for a car loan through email on 11 March 2021.[^47] In the email, GSS did not inform GDFI in writing of the alleged privacy violation committed against him but merely notified GDFI of the cancellation of his application for the car loan.[^48] Subsequently, on 22 March 2021, eleven (11) calendar days after GSS cancelled his application for the car loan with GDFI, GSS filed a complaint with the NPC.[^49]
 
@@ -243,8 +245,8 @@ National Privacy Commission
 [^42]: *Id.*
 [^43]: *Id.*
 [^44]: *Id.*
-[^45]: KRL v. Trinity University of Asia, CID Case No. 17-K-003, 19 November 2019, at 6, *available at* https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-K-003-KRL-v-Trinity-Decision-PSD-10Aug2020.pdf (last accessed 23 June 2022).
-[^46]: *MRS v. National Conciliation and Mediation Board (NCMB) and Department of Labor and Employment (DOLE)*, NPC Case No. 18-152, 08 June 2020, at 4, *available at* https://www.privacy.gov.ph/wp-content/uploads/2020/12/NPC-18-152-MRS-v-NCMB-Pseudonymized-16Dec2020-ADJ1.pdf (last accessed 1 July 2022).
+[^45]: [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|KRL v. Trinity University of Asia]], CID Case No. 17-K-003, 19 November 2019, at 6, *available at* https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-K-003-KRL-v-Trinity-Decision-PSD-10Aug2020.pdf (last accessed 23 June 2022).
+[^46]: *[[decisions/2020/npc-18-152-mrs-vs-national-conciliation-and-mediation-board-ncmb-and-department-of-labor-and-employment-dole|MRS v. National Conciliation and Mediation Board (NCMB) and Department of Labor and Employment (DOLE)]]*, NPC Case No. 18-152, 08 June 2020, at 4, *available at* https://www.privacy.gov.ph/wp-content/uploads/2020/12/NPC-18-152-MRS-v-NCMB-Pseudonymized-16Dec2020-ADJ1.pdf (last accessed 1 July 2022).
 [^47]: *Id.*
 [^48]: *Id.*
 [^49]: *Id.*

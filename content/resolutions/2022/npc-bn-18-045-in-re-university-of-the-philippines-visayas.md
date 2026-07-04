@@ -11,6 +11,8 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/security"
 date: "2022-11-10"
 draft: false
 ---
@@ -81,7 +83,7 @@ In its Post-Breach Report dated 29 December 2020, it sufficiently explained the 
 
 More importantly, the Commission stresses that the SQL injection attempts were not subject to mandatory breach notification since it was a security incident. There is a distinction between a security incident and a personal data breach.
 
-Section 3 (F) of NPC Circular 16-03 defines a personal data breach:
+[[issuances/undated/personal-data-breach-management|Section 3 (F) of NPC Circular 16-03]] defines a personal data breach:
 
 > **Section 3. Definition of Terms.**
 >
@@ -153,7 +155,7 @@ GENERAL RECORDS UNIT
 [^15]: *Id.* at 1.
 [^16]: *Id.*
 [^17]: *Id.* at 2.
-[^18]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 3 (F) (15 December 2016).
+[^18]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 03, Series of 2016]] [NPC Circ. No. 16-03], § 3 (F) (15 December 2016).
 [^19]: *Id.* § 3 (J).
 [^20]: Data Breach Incident Report, 05 April 2018, at 1 in In re: University of the Philippines - Visayas, NPC BN 18-045 (NPC 2022); Post-Breach Report, 29 December 2020, at 1 in In re: University of the Philippines - Visayas, NPC BN 18-045 (NPC 2022).
 [^21]: *See* Post-Breach Report, 29 December 2020, at 2 in In re: University of the Philippines - Visayas, NPC BN 18-045 (NPC 2022).

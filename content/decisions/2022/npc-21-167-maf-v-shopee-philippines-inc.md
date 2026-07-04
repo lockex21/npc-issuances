@@ -11,6 +11,9 @@ tags:
   - "type/decision"
   - "year/2021"
   - "npc-case"
+  - "topic/children"
+  - "topic/consent"
+  - "topic/legitimate-interest"
 date: "2022-09-22"
 draft: false
 ---
@@ -42,7 +45,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission is a complaint filed by MAF against Shopee Philippines, Inc. (Shopee) for an alleged violation of Section 28 (Processing for an Unauthorized Purpose) and Section 32 (Unauthorized Disclosure) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a complaint filed by MAF against Shopee Philippines, Inc. (Shopee) for an alleged violation of [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 (Processing for an Unauthorized Purpose)]] and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure)]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA)]].
 
 ### Facts
 
@@ -92,7 +95,7 @@ On 10 May 2022, Shopee submitted its Memorandum.[^44] Shopee reiterated the fact
 
 I. Whether Shopee is liable under [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 (Processing for an Unauthorized Purpose) of the DPA]].
 
-II. Whether Shopee is liable under Section 32 (Unauthorized Disclosure) of the DPA.
+II. Whether Shopee is liable under [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].
 
 III. Whether Shopee violated the general privacy principle of proportionality.
 
@@ -106,7 +109,7 @@ Shopee, as the Personal Information Controller (PIC), is responsible for the act
 
 While Shopee, as the PIC, subcontracted the processing of personal information to the Third-Party Logistics Provider, its PIP, Shopee remains responsible for the Third-Party Logistics Provider's actions following the principle of accountability. This includes the processing of the photo as proof of delivery.
 
-Nevertheless, Shopee is not liable under Section 28 (Processing of Personal Information and Sensitive Personal Information for Unauthorized Purposes) of the DPA and Section 32 (Unauthorized Disclosure) of the DPA. Shopee, however, violated the general privacy principle of proportionality.
+Nevertheless, Shopee is not liable under [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 (Processing of Personal Information and Sensitive Personal Information for Unauthorized Purposes) of the DPA]] and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]]. Shopee, however, violated the general privacy principle of proportionality.
 
 #### I. Shopee is not liable under Section 28 (Processing of Personal Information and Sensitive Personal Information for Unauthorized Purposes) of the DPA.
 
@@ -336,26 +339,26 @@ GENERAL RECORDS UNIT
 [^44]: Respondent's Memorandum, 10 May 2022, in MAF v. Shopee Philippines, Inc. NPC 21-167 (NPC 2022).
 [^45]: *Id.*
 [^46]: *Id.*
-[^47]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 21 (2012). Emphasis supplied.
-[^48]: Data Privacy Act of 2012, § 28 (a). Emphasis supplied.
+[^47]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|§ 21]] (2012). Emphasis supplied.
+[^48]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|§ 28 (a)]]. Emphasis supplied.
 [^49]: [[decisions/2022/npc-19-142-mlf-v-grab-philippines|NPC 19-142]], 31 March 2022, at 12-13 (NPC 2022) (unreported).
-[^50]: Data Privacy Act of 2012, § 3 (g) & (j).
-[^51]: Data Privacy Act of 2012, § 12 (f). Emphasis supplied.
-[^52]: *See* Data Privacy Act of 2012, § 12 (f).
+[^50]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g) & (j)]].
+[^51]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (f)]]. Emphasis supplied.
+[^52]: *See* [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (f)]].
 [^53]: Respondent's Memorandum, 10 May 2022, at 24, in MAF v. Shopee Philippines, Inc. NPC 21-167 (NPC 2022).
 [^54]: *Id.*
 [^55]: *Id.*
-[^56]: Data Privacy Act of 2012, § 32 (a).
+[^56]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|§ 32 (a)]].
 [^57]: [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021 (NPC 2021) (unreported).
 [^58]: Metropolitan Bank and Trust Co. v. Liberty Corrugated Boxes Manufacturing Corp., G.R. No.184317 (2017).
 [^59]: Fort Bonifacio Development Corp. v. Commissioner of Internal Revenue, G.R. Nos. 158885 & 170680 (Resolution) (2009).
 [^60]: [[decisions/2022/npc-21-032-jdb-v-jme|NPC 21-032]], 16 May 2022 (NPC 2022) (unreported).
 [^61]: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010]], 03 February 2022 (NPC 2022) (unreported).
-[^62]: Data Privacy Act of 2012, § 12.
+[^62]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]].
 [^63]: Respondent's Memorandum, 10 May 2022, at 24, in MAF v. Shopee Philippines, Inc. NPC 21-167 (NPC 2022).
-[^64]: Data Privacy Act of 2012, § 11. Emphasis supplied.
-[^65]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, § 18 (c) (2016).
-[^66]: *See* Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 18 (c).
+[^64]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]]. Emphasis supplied.
+[^65]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]] (2016).
+[^66]: *See* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]].
 [^67]: *Id.*
 [^68]: Complainant's Memorandum, 06 May 2022, at 25, in MAF v. Shopee Philippines, Inc. NPC 21-167 (NPC 2022).
 [^69]: *Id.* at 20-21.

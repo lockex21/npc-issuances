@@ -9,6 +9,11 @@ tags:
   - media-disclosure
   - patient-privacy
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-049"
+  - "npc advisory opinion no. 2018-049"
+  - "Advisory Opinion No. 2018-049"
+  - "advisory opinion no. 2018-049"
 ---
 
 ## Source
@@ -39,7 +44,7 @@ regarding disclosure to the media:
 
 #### Disclosure to the Police in Relation to a Criminal Investigation
 
-The Data Privacy Act of 2012 (DPA)[^1] is a law that involves primarily one aspect of privacy, that of
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^1] is a law that involves primarily one aspect of privacy, that of
 information privacy. Strictly, the DPA does not include in its coverage hospital policies that pertain
 to hospital operations including procedures in dealing with law enforcement, except to the extent
 that they relate to the protection of personal data.
@@ -50,7 +55,7 @@ and adherence to the principles of transparency, legitimate purpose and proporti
 
 In general, a hospital should not release health information about patients unless with their
 consent or with authority of law. For personal information, which may include the name of patient,
-address, date and time of admission, this may be disclosed subject to Section 12 (d)(e)(f), to wit:
+address, date and time of admission, this may be disclosed subject to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (d)(e)(f)]], to wit:
 
    “(d) The processing is necessary to protect vitally important interests of the data
          subject, including life and health;
@@ -125,7 +130,7 @@ hospital. These records may be released with patient’s consent, or when being 
 to a court order, subpoena or subpoena duces tecum, search warrants, or other administrative
 orders authorized by law.
 
-Section 13(f) of the DPA does not provide law enforcement agencies unrestricted access to health
+[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f)]] of the DPA does not provide law enforcement agencies unrestricted access to health
 information being kept in a hospital. Note that under the EU General Data Protection Regulation
 (GDPR),[^7] “establishment, exercise or defense of legal claims” refers to processing of information
 in the context of seeking legal advice. This covers a range of activities, in the context of a criminal
@@ -151,7 +156,7 @@ Art. III, Section 2:
 While hospitals may disclose personal information of patients to the police in relation to a criminal investigation as discussed above, there is no similar obligation for hospitals and other healthcare facilities to disclose personal information of patients to the media.
 
 It should be noted that the DPA provides for the criteria for lawful processing of personal
-information and sensitive personal information in Section 12 and 13, respectively. Based on such
+information and sensitive personal information in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]], respectively. Based on such
 criteria set in the law, personal and sensitive personal information of the patient can only be
 disclosed to the media when the patient gives his or her consent. The media does not have the
 legal mandate to compel hospitals and other health care facilities to disclose the information of
@@ -220,15 +225,15 @@ Deputy Privacy Commissioner
 for Policies and Planning
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Data Privacy Act of 2012, § 11.
+[^2]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11]].
 [^3]: An Act Establishing The Philippine National Police Under A Reorganized Department Of The Interior And Local Government, And For Other Purposes [Department of the Interior and Local Government Act of 1990] Republic Act No. 6975 (1990).
 [^4]: Philippine National Police Criminal Investigation Manual (Revised), 2011.
 [^5]: P.D. 169, amended by E.O. No. 212, "Requiring Doctors, Hospitals, Clinics, etc. to Report Treatment of Physical Injuries" July 10, 1987
 [^6]: The Child and Youth Welfare Code [Presidential Decree No. 603] Art. 166 (1974).
 [^7]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119 (4 May 2016).
 [^8]: Working Party of EU Data Protection Authorities, Guidelines on Article 49 of Regulation 2016/679 (February 6, 2018).
-[^9]: Data Privacy Act of 2012, § 38.
+[^9]: [[laws/data-privacy-act-of-2012#section-38-interpretation|Data Privacy Act of 2012, § 38]].
 [^10]: As a rule, all crime incidents must be recorded in the official police blotter. See: Philippine National Police Criminal Investigation Manual (Revised), 2011.
-[^11]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
-[^12]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, § 34 (a).
+[^11]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]] (2016).
+[^12]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|§ 34 (a)]].
 [^13]: PHIL. CONST. art. III, § 12. (1) Any person under investigation for the commission of an offense shall have the right to be informed of his right to remain silent and to have competent and independent counsel preferably of his own choice. If the person cannot afford the services of counsel, he must be provided with one. These rights cannot be waived except in writing and in the presence of counsel.

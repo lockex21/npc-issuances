@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-044"
+  - "npc advisory opinion no. 2021-044"
+  - "Advisory Opinion No. 2021-044"
+  - "advisory opinion no. 2021-044"
 ---
 
 ## Source
@@ -37,7 +42,7 @@ These academic records were to be used as evidence in support of a complaint the
 
 We understand that the Requesting Party is questioning the authenticity of the signature in the Approval Sheet of the thesis as well as the regularity in the issuance of Official Transcript of Records by CHMSC.
 
-Finally, we understand that the Requesting Party in his letter-request cited multiple provisions of the Data Privacy Act of 2012[^1] (DPA) as justification for the disclosure of the requested academic records, specifically Sections 4, 11, and 12 of the DPA.
+Finally, we understand that the Requesting Party in his letter-request cited multiple provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) as justification for the disclosure of the requested academic records, specifically Sections 4, 11, and 12 of the DPA.
 
 ### Discussion
 
@@ -66,7 +71,7 @@ The exclusion of the above information from the scope of the law is limited to t
 
 Nevertheless, the exemption does not extend to personal information controllers (PICs) or personal information processors (PIPs), who remain subject to the requirements of implementing security measures for personal data protection.[^4]
 
-In this instance, the requested information relates to the Data Subject’s position or functions in CHMSC, particularly as his academic records form part of his qualifications as a member of CHMSC faculty. This falls squarely under [[laws/data-privacy-act-of-2012#section-5-protection-afforded-to-journalists-and-their-sources|Section 5 of the DPA]]’s IRR which may warrant the grant of the request, but only to the minimum extent necessary to achieve the specific purpose of the Requesting Party.
+In this instance, the requested information relates to the Data Subject’s position or functions in CHMSC, particularly as his academic records form part of his qualifications as a member of CHMSC faculty. This falls squarely under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the DPA’s IRR]] which may warrant the grant of the request, but only to the minimum extent necessary to achieve the specific purpose of the Requesting Party.
 
 #### Filing of Complaint Before the Office of the Ombudsman; Section 13(f)
 
@@ -74,7 +79,7 @@ In addition, we note that aside from the administrative complaint before the CHM
 
 Specifically, Section 13 (f) recognizes the processing which concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.[^5]
 
-The criterion “necessary for the establishment of legal claims,” was interpreted by the Commission in the case of BGM vs. IPP[^6] citing the case of NPC 17-018, to wit:
+The criterion “necessary for the establishment of legal claims,” was interpreted by the Commission in the case of BGM vs. IPP[^6] citing the case of [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]], to wit:
 
 > The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is “necessary” or may or may not be collected by lawyers for purposes of building a case, applying the qualifier “necessary” to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of “establishment of legal claims” consistent with the general principles of legitimate purpose and proportionality.
 >
@@ -95,9 +100,9 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^2]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2016).
 [^3]: *Id.* § 5 (a).
-[^4]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-056-npc-advisoryopinionno-2017-056|NPC Advisory Opinion No. 2017-056]] (Sept. 20, 2017) citing the Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
-[^5]: Data Privacy Act of 2012, § 13 (f).
+[^4]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-056-npc-advisoryopinionno-2017-056|NPC Advisory Opinion No. 2017-056]] (Sept. 20, 2017) citing the Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5]] (2016).
+[^5]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13 (f)]].
 [^6]: National Privacy Commission, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020)

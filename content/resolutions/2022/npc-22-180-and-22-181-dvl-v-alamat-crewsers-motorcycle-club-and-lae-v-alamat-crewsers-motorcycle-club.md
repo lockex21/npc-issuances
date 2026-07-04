@@ -11,6 +11,8 @@ tags:
   - type/resolution
   - year/2022
   - npc-case
+  - topic/employment
+  - topic/legitimate-interest
 date: "2022-11-10"
 draft: false
 ---
@@ -54,7 +56,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission are two separate complaints filed by DVL and LAE against Alamat Crewsers Motorcycle Club (Alamat Crewsers M.C.) for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission are two separate complaints filed by DVL and LAE against Alamat Crewsers Motorcycle Club (Alamat Crewsers M.C.) for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA)]].
 
 ### Facts
 
@@ -168,7 +170,7 @@ A PIC, as defined in the DPA, may be an individual or organization so long as it
 
 In determining the applicability of the lawful criteria in Section 12 (f) of the DPA, the Commission examines how the PIC processed personal information and does not look at its juridical personality or registration.
 
-With regard to the procedural aspect of the case, DVL and LAE are barred from submitting a second motion for reconsideration. The Commission, through the LEO, already issued two separate Decisions dated 22 September 2022.[^25] DVL and LAE had the opportunity to appeal the Decisions by way of filing one motion for reconsideration following Rule VIII, Section 4 of NPC Circular 2021-01 (2021 NPC Rules of Procedure):
+With regard to the procedural aspect of the case, DVL and LAE are barred from submitting a second motion for reconsideration. The Commission, through the LEO, already issued two separate Decisions dated 22 September 2022.[^25] DVL and LAE had the opportunity to appeal the Decisions by way of filing one motion for reconsideration following [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-viii-decision|Rule VIII, Section 4 of NPC Circular 2021-01 (2021 NPC Rules of Procedure)]]:
 
 Section 4. *Appeal.* The **decision of the Commission shall become final and executory fifteen (15) calendar days after receipt of a copy by both parties. One motion for reconsideration may be filed**, which shall suspend the running of the said period. Any appeal from the Decision shall be to the proper courts, in accordance with law and rules.[^26]
 
@@ -214,7 +216,7 @@ National Privacy Commission
 [^5]: *Id.* at 3-4; *Id.* at 3-4.
 [^6]: NPC 22-180, 22 September 2022 (NPC 2022) (unreported); NPC 22-181, 22 September 2022 (NPC 2022) (unreported).
 [^7]: *Id.* at 1-2; *Id.* at 1-2.
-[^8]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 12 (f) (2012).
+[^8]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (f)]] (2012).
 [^9]: [[decisions/2022/npc-20-317-and-20-318-gba-v-sbg-and-lpl-v-sbg|NPC 20-317]] and NPC 20-318, 13 October 2022, at 7 (NPC 2022) (unreported).
 [^10]: *Id.* at 1-2; *Id.* at 1-2.
 [^11]: *Id.* at 3-4; *Id.* at 3-4.
@@ -228,9 +230,9 @@ National Privacy Commission
 [^19]: Complaints-Assisted Form, 19 August 2022, Annex C, *in* DVL v. Alamat Crewsers Motorcycle Club, NPC Case 22-180 (NPC 2022); Complaints-Assisted Form, 19 August 2022, Annex C, *in* LAE v. Alamat Crewsers Motorcycle Club, NPC Case 22-181 (NPC 2022).
 [^20]: *Id.* at 11-13. Emphasis supplied.
 [^21]: *Id.* at 13-14.
-[^22]: Data Privacy Act of 2012, § 3 (h). Emphasis supplied.
+[^22]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]]. Emphasis supplied.
 [^23]: NPC 22-180, 22 September 2022 (NPC 2022) (unreported); NPC 22-181, 22 September 2022 (NPC 2022) (unreported).
-[^24]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], Rule VIII, Section 4 (28 January 2021). Emphasis supplied.
+[^24]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-viii-decision|2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], Rule VIII, Section 4]] (28 January 2021). Emphasis supplied.
 [^25]: Motion for Reconsideration, 07 October 2022 *in* DVL v. Alamat Crewsers Motorcycle Club, NPC Case 22-180 (NPC 2022) and LAE v. Alamat Crewsers Motorcycle Club, NPC Case 22-181 (NPC 2022).
-[^26]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], Rule VIII, Section 4 (28 January 2021). Emphasis supplied.
+[^26]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-viii-decision|2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], Rule VIII, Section 4]] (28 January 2021). Emphasis supplied.
 [^27]: Motion for Reconsideration, 07 October 2022 *in* DVL v. Alamat Crewsers Motorcycle Club, NPC Case 22-180 (NPC 2022) and LAE v. Alamat Crewsers Motorcycle Club, NPC Case 22-181 (NPC 2022).

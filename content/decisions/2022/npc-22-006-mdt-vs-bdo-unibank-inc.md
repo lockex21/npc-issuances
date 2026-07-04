@@ -43,7 +43,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before this Commission is a Complaint filed by MDT against BDO Unibank, Inc. (BDO) for alleged violations of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by MDT against BDO Unibank, Inc. (BDO) for alleged violations of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA)]].
 
 ### Facts
 
@@ -55,7 +55,7 @@ MDT alleged that based on the phone call, the caller knew his complete name, pho
 
 To support his claim, MDT attached his two Bangko Sentral ng Pilipinas (BSP) complaints dated 02 December 2021 and 12 January 2022 respectively which narrated the sequence of events of the incident.[^7] MDT also attached in his CAF the screenshot of the transaction confirmation[^8] received from BDO-Alert with Shopee Philippines Inc. amounting to eighty-three thousand and twenty-eight pesos (Php 83,028.00) as reflected in MDT's statement of account dated 25 November 2021.[^9]
 
-Thus, MDT prayed for a reversal of the sum of money charged in his credit card amounting to eighty-three thousand and twenty-eight pesos (Php 83,028.00) as well as all the charges in relation to the fraudulent transaction.[^10] MDT also prayed for the Commission to find BDO to have violated Sections 26 and 32 of the DPA.[^11]
+Thus, MDT prayed for a reversal of the sum of money charged in his credit card amounting to eighty-three thousand and twenty-eight pesos (Php 83,028.00) as well as all the charges in relation to the fraudulent transaction.[^10] MDT also prayed for the Commission to find BDO to have violated [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Sections 26]] and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]] of the DPA.[^11]
 
 On 11 February 2022, BDO was ordered by the Commission, through its Complaints and Investigation Division (CID), to file its Verified Comment.[^12] The same Order also ordered the parties to appear for a preliminary conference on 25 May 2022 and 22 June 2022 via Microsoft Teams.[^13]
 
@@ -139,13 +139,13 @@ Subsequently, BDO submitted its Compliance dated 09 August 2022 to the Resolutio
 
 ### Issue
 
-Whether BDO violated Section 26 (Accessing Personal Information and Sensitive Personal Information Due to Negligence) and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].
+Whether BDO violated [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Accessing Personal Information and Sensitive Personal Information Due to Negligence)]] and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].
 
 ### Discussion
 
 The Commission dismisses the Complaint for lack of merit and substantial evidence.
 
-In this case, MDT has the burden to prove by substantial evidence that BDO violated Sections 26 and 32 of the DPA. However, MDT failed to provide sufficient information and evidence to substantiate the allegations he made in his complaint. As ruled in one of the cases decided by the Commission, "in administrative proceedings, the burden is on the Complainant to prove by substantial evidence the allegations in his Complaint are true."[^86]
+In this case, MDT has the burden to prove by substantial evidence that BDO violated [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Sections 26]] and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]] of the DPA. However, MDT failed to provide sufficient information and evidence to substantiate the allegations he made in his complaint. As ruled in one of the cases decided by the Commission, "in administrative proceedings, the burden is on the Complainant to prove by substantial evidence the allegations in his Complaint are true."[^86]
 
 Based on the records and submissions, it was alleged that BDO violated the DPA. To support his claim, MDT attached in his CAF the Bangko Sentral ng Pilipinas (BSP) complaints form, screenshots of BDO-Alert messages, screenshots of correspondences, and letters from BDO.[^87] However, the submitted evidence does not suffice to prove that there was unauthorized disclosure of information.
 
@@ -366,20 +366,20 @@ GENERAL RECORDS UNIT
 [^83]: *Id.* Annex "A"
 [^84]: *Id.*
 [^85]: *Id.*
-[^86]: JLB v. Security Bank Corporation, CID-18-D-009, Decision dated 18 March 2021 at p. 4
+[^86]: [[decisions/2018/cid-18-d-009-jlb-vs-security-bank-corporation|JLB v. Security Bank Corporation, CID-18-D-009]], Decision dated 18 March 2021 at p. 4
 [^87]: Complaints-Assisted Form dated 26 January 2022 of MDT
 [^88]: *De Jesus v. Guerrero III*, G.R. No. 171491, 04 September 2009.
 [^89]: *Id.*
 [^90]: 2019 Amendment to the 1989 Revised Rules on Evidence, A.M. No. 19-08-15-SC, Rule 131, Section 1. Emphasis supplied
 [^91]: Complaints-Assisted Form dated 26 January 2022 of MDT
-[^92]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 26 (2012).
-[^93]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 26 (2012).
+[^92]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter VIII, [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|§ 26]] (2012).
+[^93]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter VIII, [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|§ 26]] (2012).
 [^94]: Complaints-Assisted Form dated 26 January 2022 of MDT
-[^95]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3(g) (2012).
-[^96]: Section 3(l)(4) of the DPA: Sensitive personal information refers to personal information which is specifically established by an executive order or an act of Congress to be kept classified. NPC 22-006
-[^97]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3(l) (2012).
+[^95]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(g)]] (2012).
+[^96]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l)(4) of the DPA]]: Sensitive personal information refers to personal information which is specifically established by an executive order or an act of Congress to be kept classified. NPC 22-006
+[^97]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(l)]] (2012).
 [^98]: NPC 18-G-077 (unreported), Decision dated 15 April 2021 at p. 9
-[^99]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 32 (2012).
+[^99]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter VIII, [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|§ 32]] (2012).
 [^100]: NPC 21-111 (unreported), Decision dated 22 September 2022 at p. 12
-[^101]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3 (h) (2012).
+[^101]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]] (2012).
 [^102]: Manifestation dated 01 July 2022 of MDT

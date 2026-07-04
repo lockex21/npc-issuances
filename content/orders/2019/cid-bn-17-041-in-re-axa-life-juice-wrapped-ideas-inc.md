@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2019"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2019-08-20"
 draft: false
 ---
@@ -36,7 +37,7 @@ x----------------------------------------------------x
 
 On 20 August 2019, the Commission issued a Resolution containing the following dispositive portion:
 
-> WHEREFORE, all premises considered, it is resolved that there are no notable findings requiring further action from this Commission with regard to the data breach subject of the notification, and that AXA Philippines is ordered to submit a comprehensive report stating the above specifications and in compliance with Section 9 of Circular No. 16-03 within thirty (30) days of receipt of Resolution.
+> WHEREFORE, all premises considered, it is resolved that there are no notable findings requiring further action from this Commission with regard to the data breach subject of the notification, and that AXA Philippines is ordered to submit a comprehensive report stating the above specifications and in compliance with Section 9 of [[issuances/undated/personal-data-breach-management|Circular No. 16-03]] within thirty (30) days of receipt of Resolution.
 
 On 27 September 2019, AXA submitted its Compliance Report detailing the description of the personal data breach; actions and decisions of the incident response team; post-breach review and the outcome of the breach management and difficulties encountered; and compliance with notification requirements and assistance provided to affected data subjects.
 
@@ -48,11 +49,11 @@ Once the representative from JWI coordinated with their IT specialist for the ex
 
 AXA Philippines has since reported that it: (1) changed the log-in and password; (2) exported the database and saved it in a secure location; and (3) continuously monitored the JWI server for possible intrusions of the app. AXA Philippines also reported that it ceased from engaging further with JWI after the incident, resolved to investigate employees who have dealt with JWI, and proposed to strengthen measures on third party engagements.
 
-Notably, there is a lack of notification to the affected data subjects. While this may be attributed to the inability to do so due to the loss of personal information, the Commission takes note of a statement made in the breach notification report: *"We emphasize to the Honorable Commission at this point that: (1) The data subjects are not clients of AXA Philippines as they are supposedly potential "leads" to be contacted by our Marketing team…"* It must be noted, however, that Section 15 of Circular 16-03 provides that "the personal information controller shall notify… the affected data subjects upon knowledge of, or when there is reasonable belief that a personal data breach has occurred. The obligation to notify remains with the personal information controller even if the processing of information is outsourced or subcontracted to a personal information processor." Hence, the fact that the affected individuals were still "leads" and not clients of the personal information controller should not be a factor in considering whether to notify data subjects of a breach.
+Notably, there is a lack of notification to the affected data subjects. While this may be attributed to the inability to do so due to the loss of personal information, the Commission takes note of a statement made in the breach notification report: *"We emphasize to the Honorable Commission at this point that: (1) The data subjects are not clients of AXA Philippines as they are supposedly potential "leads" to be contacted by our Marketing team…"* It must be noted, however, that Section 15 of [[issuances/undated/personal-data-breach-management|Circular 16-03]] provides that "the personal information controller shall notify… the affected data subjects upon knowledge of, or when there is reasonable belief that a personal data breach has occurred. The obligation to notify remains with the personal information controller even if the processing of information is outsourced or subcontracted to a personal information processor." Hence, the fact that the affected individuals were still "leads" and not clients of the personal information controller should not be a factor in considering whether to notify data subjects of a breach.
 
 Upon consideration of the Investigator's Report and the Breach Notification of AXA Philippines, the Commission hereby resolves that there are no notable findings requiring further action from the Commission with regard to the data breach subject of the notification.
 
-Taking note of the time that has lapsed since the incident, the Commission hereby requires a comprehensive report on the status of AXA Philippines' abovementioned investigation on the employees that have dealt with JWI, as well as its implementation of the "strengthened measures on third party engagements." Pursuant to Section 9 of Circular No. 16-03, the report shall also include:
+Taking note of the time that has lapsed since the incident, the Commission hereby requires a comprehensive report on the status of AXA Philippines' abovementioned investigation on the employees that have dealt with JWI, as well as its implementation of the "strengthened measures on third party engagements." Pursuant to Section 9 of [[issuances/undated/personal-data-breach-management|Circular No. 16-03]], the report shall also include:
 
 A. A description of the personal data breach, its root cause and circumstances regarding its discovery;
 B. Actions and decisions of the incident response team;

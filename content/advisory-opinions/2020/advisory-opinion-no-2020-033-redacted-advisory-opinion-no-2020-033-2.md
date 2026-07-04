@@ -5,7 +5,14 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/data-sharing"
+  - "topic/government"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-033"
+  - "npc advisory opinion no. 2020-033"
+  - "Advisory Opinion No. 2020-033"
+  - "advisory opinion no. 2020-033"
 ---
 
 ## Source
@@ -22,7 +29,7 @@ Re: DISCLOSURE OF BENEFICIARIES' PERSONAL DATA
 
 Dear [Redacted],
 
-We write in response to your request for an Advisory Opinion received by the National Privacy Commission (NPC) to provide guidance on whether the names and other personal information of beneficiaries of the Tertiary Education Subsidy (TES) and the Free Higher Education (HE) programs under Republic Act (RA) No. 10931 or the "Universal Access to Quality Tertiary Education Act" may be released to requesting government agencies and legislators by the Unified Student Financial Assistance System for Tertiary Education (UniFAST), considering the provisions of the Data Privacy Act of 2012 (DPA).
+We write in response to your request for an Advisory Opinion received by the National Privacy Commission (NPC) to provide guidance on whether the names and other personal information of beneficiaries of the Tertiary Education Subsidy (TES) and the Free Higher Education (HE) programs under Republic Act (RA) No. 10931 or the "Universal Access to Quality Tertiary Education Act" may be released to requesting government agencies and legislators by the Unified Student Financial Assistance System for Tertiary Education (UniFAST), considering the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 We understand that the information request by the various government agencies and legislators will be "used as reference of said agencies for the implementation of their respective mandates, projects and for other purposes."
 
@@ -36,7 +43,7 @@ We understand based on your letter request that in the implementation of the var
 
 #### Disclosure of List of Free HE, TES, and StuFAPS Beneficiaries; Lawful Criteria for Processing Personal and Sensitive Personal Information; Mandate; Legitimate Purpose
 
-The DPA provides for the lawful criteria of processing personal data under Sections 12 (processing of personal information) and Section 13 (processing of sensitive personal information). Specifically, disclosure may find support under the following provisions, to wit:
+The DPA provides for the lawful criteria of processing personal data under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] (processing of personal information) and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]] (processing of sensitive personal information). Specifically, disclosure may find support under the following provisions, to wit:
 
 > SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -50,7 +57,7 @@ The DPA provides for the lawful criteria of processing personal data under Secti
 
 The above should be read together with the provisions of the UniFAST Act, the Universal Access to Quality Tertiary Education Act, and the corresponding IRRs as possible legal bases for the release of personal data by UniFAST Board to other government agencies and the legislators.
 
-Particularly, we note Rule 4.2 (r) of the UniFAST Act [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] where the UniFAST Board may disclose information to other government agencies involved in the tracking of its student borrowers, specifically for the purpose of investigating and checking the whereabouts of delinquent student borrowers and setting up mechanisms for blacklisting of defaulting students.
+Particularly, we note Rule 4.2 (r) of the UniFAST Act IRR where the UniFAST Board may disclose information to other government agencies involved in the tracking of its student borrowers, specifically for the purpose of investigating and checking the whereabouts of delinquent student borrowers and setting up mechanisms for blacklisting of defaulting students.
 
 We also note the provisions on monitoring and evaluation by the Joint Congressional Oversight Committee on Universal Access to Tertiary Education Act as well as the Congressional Oversight Committee on the UniFAST Act.
 
@@ -84,13 +91,13 @@ Very truly yours,
 Privacy Commissioner
 
 [^1]: Tags: disclosure of beneficiary data; education sector; lawful criteria for processing; government agency; mandate; legitimate purpose; proportionality; data sharing agreement.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: An Act Providing for a Comprehensive and Unified Student Financial Assistance System for Tertiary Education (UniFAST), Thereby Rationalizing Access Thereto, Appropriating Funds Therefor and for Other Purposes [UniFAST Act], Republic Act No. 10687, § 5 (2015).
 [^4]: An Act Promoting Universal Access To Quality Tertiary Education By Providing For Free Tuition And Other School Fees In State Universities And Colleges, Local Universities And Colleges And State-Run Technical-Vocational Institutions, Establishing The Tertiary Education Subsidy And Student Loan Program, Strengthening The Unified Student Financial Assistance System For Tertiary Education, And Appropriating Fund Therefor [Universal Access to Tertiary Education Act], Republic Act No. 10931, § 17 (2017).
 [^5]: UniFAST Act, Republic Act No. 10687, § 24 (2015).
 [^6]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-077-npc-advisory-opinion-no-2018-077|NPC Advisory Opinion No. 2018-077]] (Oct. 25, 2018).
-[^7]: Data Privacy Act of 2012, § 22.
-[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (b) (2016).
+[^7]: [[laws/data-privacy-act-of-2012#section-22-responsibility-of-heads-of-agencies|Data Privacy Act of 2012, § 22]].
+[^8]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Data Privacy Act of 2012]], Republic Act No. 10173, § 18 (b) (2016).
 [^9]: Id. § 18 (c).
 [^10]: Id. § 20.
-[^11]: See: National Privacy Commission, NPC Circular 160-2 Data Sharing Agreements Involving Government Agencies (Oct. 10, 2016).
+[^11]: See: National Privacy Commission, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular 160-2 Data Sharing Agreements Involving Government Agencies]] (Oct. 10, 2016).

@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/breach-notification
 date: "2021-09-23"
 draft: false
 ---
@@ -85,7 +86,7 @@ With the measures undertaken to address the breach and protect the information o
 
 ### Discussion
 
-This Commission finds that the case falls under the mandatory breach notification requirement and the notification of the affected data subjects is necessary in order to protect them from the risk of serious harm. Section 11 of the NPC Circular No. 16-03 (Personal Data Breach Management) provides:
+This Commission finds that the case falls under the mandatory breach notification requirement and the notification of the affected data subjects is necessary in order to protect them from the risk of serious harm. Section 11 of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management) provides:
 
 > **SECTION 11. When notification is required.** Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 >
@@ -95,7 +96,7 @@ This Commission finds that the case falls under the mandatory breach notificatio
 >
 > C. The personal information controller or the Commission believes that the unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject.[^10]
 
-Moreover, Section 13 of the same Circular states:
+Moreover, Section 13 of the same [[issuances/undated/personal-data-breach-management|Circular]] states:
 
 > **SECTION 13. Determination of the Need to Notify.** Where there is uncertainty as to the need for notification, the personal information controller shall take into account, as a primary consideration, the likelihood of harm or negative consequences on the affected data subjects, and how notification, particularly of the data subjects, could reduce the risks arising from the personal data breach reasonably believed to have occurred. The personal information controller shall also consider if the personal data reasonably believed to have been compromised involves:
 >
@@ -117,21 +118,21 @@ This Commission also recognizes that Costa's request for exemption from individu
 
 In view of the foregoing, this Commission deems the notification to the affected data subjects as urgent and necessary while also taking into consideration the number of the affected data subjects and the disproportionate effort that Costa may have to undertake in order to notify them.
 
-Section 18(D) of NPC Circular No. 16-03 provides that, where individual notification is not possible or would require a disproportionate effort, the PIC may seek the approval of the Commission to use alternative means of notification, such as through public communication or any similar measure through which the data subjects are informed in an equally effective manner.[^14]
+Section 18(D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides that, where individual notification is not possible or would require a disproportionate effort, the PIC may seek the approval of the Commission to use alternative means of notification, such as through public communication or any similar measure through which the data subjects are informed in an equally effective manner.[^14]
 
-Accordingly, Section 4(c), Rule XI of the 2021 NPC Rules of Procedure, for the Commission to grant the use of alternative means of notification, a request has to be made by the PIC.[^15]
+Accordingly, Section 4(c), [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-xi-breach-investigation|Rule XI of the 2021 NPC Rules of Procedure]], for the Commission to grant the use of alternative means of notification, a request has to be made by the PIC.[^15]
 
 However, in this case, considering the large number of the affected data subjects and the urgency to notify them, the Commission orders Costa to use alternative modes of notification for a portion of the affected data subjects to enable Costa to comply with the orders of the Commission. For the affected data subjects with e-mail addresses, Costa shall individually notify them through e-mail. As for the affected data subjects without e-mail addresses, Costa shall notify the affected data subjects through publication in a newspaper of general circulation in the Philippines.
 
 This Commission also notes that Costa anchored its request on the security measures it has implemented to address the breach and prevent its reoccurrence. However, Costa failed to include any proof of such security measures it implemented to address the breach and ensure that the risk of harm or negative consequence to the data subjects will not materialize as indicated in its initial breach notification.
 
-In addition, the Commission has yet to receive the Full Breach Report from Costa. The Commission finds that Costa failed to provide within five (5) days from the initial report the Full Breach Report[^16] that contains the complete and necessary information as prescribed under Section 9 and Section 17(D) of the NPC Circular No. 16-03.
+In addition, the Commission has yet to receive the Full Breach Report from Costa. The Commission finds that Costa failed to provide within five (5) days from the initial report the Full Breach Report[^16] that contains the complete and necessary information as prescribed under Section 9 and Section 17(D) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 
 **WHEREFORE**, premises considered, this Commission resolves that the request for exemption from individual data subject notification filed by Costa Crociere S.p.A. is hereby **DENIED**.
 
 Costa Crociere S.p.A. is hereby **ORDERED** to comply with the following within ten (10) days from receipt of this Resolution:
 
-1. **NOTIFY** the affected data subjects. The affected data subjects with e-mail addresses shall be notified pursuant to Section 18 of the NPC Circular No. 16-03. The notification shall be done individually using secure means of communication, through e-mail. Costa shall submit proof of compliance, including the proof of receipt of the data subjects of such notification. The affected data subjects without e-mail addresses shall be notified through alternative means pursuant to Section 18(D) of the NPC Circular No. 16-03, through publication in a newspaper of general circulation in the Philippines. Costa shall also provide proof of compliance, including proof of notification / publication.
+1. **NOTIFY** the affected data subjects. The affected data subjects with e-mail addresses shall be notified pursuant to Section 18 of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]]. The notification shall be done individually using secure means of communication, through e-mail. Costa shall submit proof of compliance, including the proof of receipt of the data subjects of such notification. The affected data subjects without e-mail addresses shall be notified through alternative means pursuant to Section 18(D) of the NPC Circular No. 16-03, through publication in a newspaper of general circulation in the Philippines. Costa shall also provide proof of compliance, including proof of notification / publication.
 
 2. **SUBMIT** its Full Breach Report pursuant to Section 9 and Section 17(D) of the NPC Circular No. 16-03;
 

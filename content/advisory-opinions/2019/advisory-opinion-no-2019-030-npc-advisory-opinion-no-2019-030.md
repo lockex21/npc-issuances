@@ -5,7 +5,14 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+  - topic/data-subject-rights
+  - topic/legitimate-interest
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-030"
+  - "npc advisory opinion no. 2019-030"
+  - "Advisory Opinion No. 2019-030"
+  - "advisory opinion no. 2019-030"
 ---
 
 ## Source
@@ -23,7 +30,7 @@ Re: REQUEST FOR LIST OF BUSINESS INDUSTRIES AND THE NAMES OF REGISTERED BUSINESS
 
 Dear [Redacted],
 
-We write in response to your letter request seeking clarification on the applicability of the Data Privacy Act of 2012 (DPA)[^2] to a request for information made by a graduate student from the Bicol University.
+We write in response to your letter request seeking clarification on the applicability of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^2] to a request for information made by a graduate student from the Bicol University.
 
 Said student requested for the following data from your office: (1) list of business industries in Sorsogon City and (2) names of businesses in each industry registered with the BPLO from year 2008-2018. The requested data shall be used for the student's thesis on "Assessment on Survival Phase from Introduction to Growth stage of SMEs in Sorsogon City."
 
@@ -51,7 +58,7 @@ Article 44 of the Civil Code of the Philippines define juridical persons, to wit
 
 In this instance, the information requested from your office are not personal information as defined under the DPA. On its face, the lists of business industries and business names do not directly identify an individual, save in certain circumstances where the business involves a sole proprietorship.
 
-Nonetheless, the DPA recognizes various criteria for processing personal information under Section 12 thereof, specifically, where processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed.[^5] This may be a lawful basis for disclosing business names of sole proprietors for research purposes. But there is a need to consider whether trade names will be sufficient without necessarily disclosing the names of the individual sole proprietors.
+Nonetheless, the DPA recognizes various criteria for processing personal information under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] thereof, specifically, where processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed.[^5] This may be a lawful basis for disclosing business names of sole proprietors for research purposes. But there is a need to consider whether trade names will be sufficient without necessarily disclosing the names of the individual sole proprietors.
 
 For guidance, to determine if there is "legitimate interest" in processing personal information, personal information controllers (PICs) must consider the following:[^6]
 
@@ -102,7 +109,7 @@ Privacy Commissioner and Chairman
 [^4]: *Id.* § 3 (g).
 [^5]: *Id.* § 12 (f).
 [^6]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed on August 1, 2019).
-[^7]: NPC Advisory Opinion No. 2019-017.
+[^7]: [[advisory-opinions/2019/advisory-opinion-no-2019-017-npc-advisory-opinion-no-2019-017|NPC Advisory Opinion No. 2019-017]].
 [^8]: See: Directive 95/46/EC of the European Parliament and of the Council, Article 13 (2) (1995).
 [^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 37 (2016).
 [^10]: Data Privacy Act of 2012, § 11 and Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c) (2016).

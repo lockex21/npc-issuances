@@ -56,7 +56,7 @@ After due consideration of the evidence presented as of the date of this Order, 
 
 WHEREFORE, in the interest of conducting an exhaustive investigation and pursuant to the NPC Rules of Procedure, the Commission hereby resolves to ORDER Respondents to appear for a clarificatory hearing on 24 SEPTEMBER 2020 at 2:00 PM, in relation to its submissions for the case of NPC 19-910.
 
-In light of the restrictions brought about by the pandemic due to COVID-19, such clarificatory hearing shall be conducted via remote appearance through [Link] and guided by NPC Advisory No. 2020-02 or "Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission."
+In light of the restrictions brought about by the pandemic due to COVID-19, such clarificatory hearing shall be conducted via remote appearance through [Link] and guided by [[issuances/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|NPC Advisory No. 2020-02]] or "Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission."
 
 To enable the Commission to take the necessary measures for the security of the hearing, the Respondents are DIRECTED, before the date of the hearing, to submit the names and designations of its representatives to the clarificatory hearing who should be competent to address inquiries relating to the previous submissions made for this case.
 

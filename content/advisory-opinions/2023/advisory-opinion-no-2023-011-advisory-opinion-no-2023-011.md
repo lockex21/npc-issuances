@@ -6,7 +6,14 @@ tags:
 - issuance
 - type/advisory-opinion
 - year/2023
+- topic/employment
+- topic/legitimate-interest
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-011"
+  - "npc advisory opinion no. 2023-011"
+  - "Advisory Opinion No. 2023-011"
+  - "advisory opinion no. 2023-011"
 ---
 
 ## Source
@@ -42,7 +49,7 @@ distribution and amounts of Special Risk Allowance (SRA), Meals and Transportati
 Allowance (MAT), Health Emergency Allowance (HEA) and One COVID-19 Allowance
 (OCA) pursuant to Republic Act (R.A.) No. 11469 or the Bayanihan Heal As One Act and
 R.A. No. 11494, or the Bayanihan to Recover As One Act. The private hospitals, however,
-refuse to divulge such information citing the Data Privacy Act of 2012 (DPA). For the same
+refuse to divulge such information citing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA). For the same
 reason, private educational institutions have also refused to furnish data on employees,
 enrollment and “other income sources”, which are usually used as basis for collective
 bargaining negotiations, pursuant to R.A. No. 6728 or the Government Assistance to
@@ -180,9 +187,9 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]] (2012).
 
-[^3]: Data Privacy Act of 2012, § 12 (c).
+[^3]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (c)]].
 
 [^4]: National Privacy Commission, [[advisory-opinions/2022/advisory-opinion-no-2022-005-advisory-opinion-no-2022-005-redacted|NPC Advisory Opinion No. 2022-005]] (24 February 2022) citing United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 27 February 2023]
 
@@ -190,6 +197,6 @@ Director IV, Privacy Policy Office
 
 [^6]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]] (Sept. 22, 2022).
 
-[^7]: Data Privacy Act of 2012, § 13(f).
+[^7]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13(f)]].
 
 [^8]: National Privacy Commission, BGM v. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020).

@@ -11,6 +11,10 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/breach-notification
+  - topic/employment
+  - topic/registration
+  - topic/security
 date: "2021-01-21"
 draft: false
 ---
@@ -40,7 +44,7 @@ This refers to the breach notification report of Social Security System (SSS) da
 
 On 13 July 2018, the Commission issued a Compliance Order with a dispositive portion as follows:
 
-> “The Commission, pursuant to Section 7(a), 7(b), 7(d) and 7(e) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], and NPC Circular 16-03 on Personal Data Breach Management, finding the need for measure to address the current breach and to minimize the likelihood of the occurrence of another data breach, hereby ORDERS SSS to submit a report to this Commission on the status of the security measures being and proposed to be implemented within three (3) months from receipt of this Order.”
+> “The Commission, pursuant to Section 7(a), 7(b), 7(d) and 7(e) of the [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Data Privacy Act of 2012]], and [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] on Personal Data Breach Management, finding the need for measure to address the current breach and to minimize the likelihood of the occurrence of another data breach, hereby ORDERS SSS to submit a report to this Commission on the status of the security measures being and proposed to be implemented within three (3) months from receipt of this Order.”
 
 On 19 November 2018, SSS submitted a report on the status of the security measures being and proposed to be implemented. After evaluating said report, the Enforcement Division of this Commission directed the Data Protection Officer (DPO) of SSS to submit copies of the agency’s policies and procedures on the storage and transfer of personal data.
 
@@ -65,7 +69,7 @@ Further, SSS reported that they are implementing the following measures to ensur
 
 The Enforcement Division, through the assistance of this Commission’s Data Security and Technology Standards Division (DSTSD), issued its findings on the compliance of SSS, viz:
 
-> “The measures in the Letter that the SSS are currently implementing appear to be adequate. These measures can be improved by using AES-256 encryption for USB flash drives and to the individual records or files contained thereto. Further, whenever using removable media, the transfer of information to such media should be monitored, and procedures and authorization levels should be documented accordingly. The policies and procedures met most of the matching requirements from the NPC Circular 16-01 and ISO/IEC 27002. WHEREFORE, premises considered, the Enforcement Division respectfully recommends to CLOSE the instant case.”
+> “The measures in the Letter that the SSS are currently implementing appear to be adequate. These measures can be improved by using AES-256 encryption for USB flash drives and to the individual records or files contained thereto. Further, whenever using removable media, the transfer of information to such media should be monitored, and procedures and authorization levels should be documented accordingly. The policies and procedures met most of the matching requirements from the [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular 16-01]] and ISO/IEC 27002. WHEREFORE, premises considered, the Enforcement Division respectfully recommends to CLOSE the instant case.”
 
 Given the sufficiency of the submissions of SSS in compliance with the orders of this Commission, and the absence of error and abuse of discretion on the part of the Enforcement Division and DSTSD, this Commission finds no reason to disturb their recommendations.
 

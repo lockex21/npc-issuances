@@ -5,7 +5,15 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2025"
+  - "topic/consent"
+  - "topic/government"
+  - "topic/legitimate-interest"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-002"
+  - "npc advisory opinion no. 2025-002"
+  - "Advisory Opinion No. 2025-002"
+  - "advisory opinion no. 2025-002"
 ---
 
 ## Source
@@ -46,10 +54,9 @@ Accordingly, this Advisory Opinion aims to address the issue of whether the Bank
 
 #### Scope of the DPA.
 
-The DPA applies to the processing of personal information and sensitive personal information (collectively personal data), subject to certain qualifications. The disclosure of personal data contained in land records, including those listed in certificates of title (i.e. the owner’s name, address, marital status, property description, encumbrances, registration details, and annotations) and tax declarations (i.e. property location, property type, tax declaration number, and tax identification numbers) constitute processing of personal data and must therefore comply with the requirements set forth under the DPA.
+The [[laws/data-privacy-act-of-2012|DPA]] applies to the processing of personal information and sensitive personal information (collectively personal data), subject to certain qualifications. The disclosure of personal data contained in land records, including those listed in certificates of title (i.e. the owner’s name, address, marital status, property description, encumbrances, registration details, and annotations) and tax declarations (i.e. property location, property type, tax declaration number, and tax identification numbers) constitute processing of personal data and must therefore comply with the requirements set forth under the DPA.
 
-However, please note that the DPA applies only to natural persons. As stated in National Privacy
-Commission (NPC) Advisory Opinion No. 2023-0023, privacy rights under the DPA extend only
+However, please note that the DPA applies only to natural persons. As stated in [[advisory-opinions/2023/advisory-opinion-no-2023-023-advisory-opinion-no-2023-023|National Privacy Commission (NPC) Advisory Opinion No. 2023-0023]], privacy rights under the DPA extend only
 to individuals and do not cover juridical entities such as corporations, partnerships, or
 associations. The DPA is designed to protect personal data, which is defined as any information
 that can identify a natural person, whether directly or indirectly. Consequently, corporate or
@@ -80,7 +87,7 @@ compliance with the DPA's provisions remains necessary.
 
 > The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
 
-In processing sensitive personal information, Section 13(f) may be relied upon, particularly, for the establishment of legal claims by the Bank relative to the borrower’s loan obligations. Section 13(f) of the DPA states that:
+In processing sensitive personal information, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f)]] may be relied upon, particularly, for the establishment of legal claims by the Bank relative to the borrower’s loan obligations. Section 13(f) of the DPA states that:
 
 > The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 
@@ -104,7 +111,7 @@ status) contained in a TCT or tax declaration when the processing is necessary f
 of lawful rights and interests of natural or legal persons in court proceedings, or the
 establishment, exercise or defense of legal claims.
 
-In this case, the Bank’s request for property information pursuant to an asset search is essential in establishing or defending its legal claims against a defaulting borrower, which may or may not result to the filing of an actual case. The term “establishment” under Section 13(f) of the Data Privacy Act of 2012 (DPA) may extend to obtaining evidence by lawful means for prospective legal proceedings, which are not limited to actual cases filed in court. In BGM vs. IPP (NPC Case No. [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]]), citing EA and TA vs. EJ, EE and HC (NPC Case No. 17-018) dated July 15, 2019, the NPC clarified:
+In this case, the Bank’s request for property information pursuant to an asset search is essential in establishing or defending its legal claims against a defaulting borrower, which may or may not result to the filing of an actual case. The term “establishment” under Section 13(f) of the Data Privacy Act of 2012 (DPA) may extend to obtaining evidence by lawful means for prospective legal proceedings, which are not limited to actual cases filed in court. In BGM vs. IPP (NPC Case No. [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]]), citing [[decisions/2019/npc-17-018-ea-and-ta-v-ej|EA and TA vs. EJ, EE and HC (NPC Case No. 17-018)]] dated July 15, 2019, the NPC clarified:
 
 > To require a court proceeding for the application of Section 13(f) would disregard the distinction in the law and its clear intent. The very concept of ‘establishment … of legal claims’ presupposes that no case has been filed yet, as a case will only be initiated once legal claims have been established.
 

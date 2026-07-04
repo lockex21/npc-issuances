@@ -11,6 +11,8 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/registration"
 date: "2022-10-12"
 draft: false
 ---
@@ -92,7 +94,7 @@ The Commission resolves to close the case upon finding that ABS-CBN has complied
 
 In concurrence with the EnD’s assessment,[^50] the Commission finds that the documents submitted by ABS-CBN are sufficient to prove that it adequately notified the affected data subjects of the details of the breach.
 
-ABS-CBN’s notification to affected data subjects included the information required under NPC Circular 16-03 (Personal Data Breach Management).
+ABS-CBN’s notification to affected data subjects included the information required under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).
 
 Section 18 (C) of NPC Circular 16-03 provides:
 
@@ -116,13 +118,13 @@ In Re: ABS -CBN Corporation
 
 The notification stated that there was a report of a data breach of ABS-CBN’s online shopping facility and identified that the credit card details of the affected data subjects may have been exposed.[^52] The notification also specified that ABS-CBN temporarily took down the ABS-CBN Store and the UAAP Store websites.[^53] It also advised the data subjects to change their usernames and passwords and to not provide any personal data to anyone who claims to be an ABS-CBN representative.[^54] The notification also provided an e-mail address where the data subjects could send their questions or concerns.[^55]
 
-In addition, the copies of the e-mails sent to the affected data subjects,[^56] the Sworn Affidavit of RSC,[^57] the recordings of phone calls to affected data subjects,[^58] and the delivery status report from the courier[^59] substantially prove that ABS-CBN notified the affected data subjects regarding the breach. The EnD found that these submissions comply with the requirements provided under Section 18 (A) and Section 18 (D) of NPC Circular 16-03.[^60] Hence, it is recommended that the case be closed.[^61] The Commission affirms the EnD’s recommendation and closes the case.
+In addition, the copies of the e-mails sent to the affected data subjects,[^56] the Sworn Affidavit of RSC,[^57] the recordings of phone calls to affected data subjects,[^58] and the delivery status report from the courier[^59] substantially prove that ABS-CBN notified the affected data subjects regarding the breach. The EnD found that these submissions comply with the requirements provided under Section 18 (A) and Section 18 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].[^60] Hence, it is recommended that the case be closed.[^61] The Commission affirms the EnD’s recommendation and closes the case.
 
 Nonetheless, the Commission stresses that the determination of whether ABS-CBN’s acts or omissions contributed to the breach or gave rise to other violations of the [[laws/data-privacy-act-of-2012|DPA]] are beyond the scope of NPC Circular 16-03 and the matters currently before the Commission.
 
 **WHEREFORE**, premises considered, the Commission resolves that NPC BN 18-179 – In re: ABS-CBN Corporation is hereby **CLOSED**.
 
-Further, pursuant to Rule X, Section 1 of NPC Circular 2021-01 (2021 NPC Rules of Procedure), the Commission **ORDERS** its Complaints and Investigation Division (CID) to conduct a *sua sponte* investigation on possible violations under Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012, that may have been committed by ABS-CBN Corporation.
+Further, pursuant to [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-x-sua-sponte-investigation|Rule X, Section 1]] of NPC Circular 2021-01 (2021 NPC Rules of Procedure), the Commission **ORDERS** its Complaints and Investigation Division (CID) to conduct a *sua sponte* investigation on possible violations under [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012, that may have been committed by ABS-CBN Corporation.
 
 **SO ORDERED.**
 
@@ -254,7 +256,7 @@ GENERAL RECORDS UNIT
 
 [^50]: Enforcement Assessment Report, 27 September 2022, at 4, in In re: ABS-CBN Corporation, NPC BN 18-179 (NPC 2022).
 
-[^51]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], § 18 (C) (15 December 2016).
+[^51]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], § 18 (C) (15 December 2016).
 
 [^52]: E-mail from LSA, Data Protection Officer of ABS-CBN Corporation, to National Privacy Commission (12 May 2021), Annex A.
 

@@ -1,10 +1,16 @@
 ---
 title: "NPC Advisory Opinion No. 2021-027 — Access To Documents By San Miguel Aerocity Inc. Pursuant To Its Legislative Franchise"
 description: "Guidance on data privacy compliance for San Miguel Aerocity Inc.'s access to government documents pursuant to its legislative franchise for airport construction and maintenance."
+aliases:
+  - "NPC Advisory Opinion No. 2021-027"
+  - "npc advisory opinion no. 2021-027"
+  - "Advisory Opinion No. 2021-027"
+  - "advisory opinion no. 2021-027"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/government"
 draft: false
 ---
 
@@ -42,7 +48,7 @@ government agencies and may contain personal and/or sensitive personal informati
 (collectively, personal data).
 
 You now ask whether SMAI may be provided with these documents and process the personal
-data contained therein pursuant to Sections 5 (c) and (d) and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-22-sensitive-personal-information-and-privileged-information|Section 22 (b) of the Implementing Rules and Regulations]][^4] (IRR) of the Data Privacy Act of 2012[^5] (DPA).
+data contained therein pursuant to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Sections 5 (c) and (d)]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-22-sensitive-personal-information-and-privileged-information|Section 22 (b) of the Implementing Rules and Regulations]][^4] (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^5] (DPA).
 
 #### Scope of the DPA; special cases; lawful basis for processing; legal obligation; laws and regulations
 
@@ -66,7 +72,7 @@ infrastructure project.
 
 While we recognize SMAI’s personal data processing activities based on its legislative
 franchise, the same is not processing under a special case, but rather is more appropriately
-based on Sections 12 (c) and/or Section 13 (b) and (f) of the DPA, depending on the type of
+based on [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12 (c)]] and/or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b) and (f) of the DPA]], depending on the type of
 personal data being processed, to wit:
 
 > SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing
@@ -276,8 +282,8 @@ OIC – Director IV, Privacy Policy Office
 
 [^3]: An Act Facilitating The Acquisition Of Right-Of-Way Site Or Location For National Government Infrastructure Projects [The Right-of-Way Act], Republic Act No. 10752 (2016).
 
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173 (2016).
 
 [^5]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 
-[^6]: National Privacy Commission, NPC Advisory Opinion No. 2020-036 (Sept. 8, 2020).
+[^6]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-036-redacted-advisory-opinion-no-2020-036-2|NPC Advisory Opinion No. 2020-036]] (Sept. 8, 2020).

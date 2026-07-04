@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2019
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-009"
+  - "npc advisory opinion no. 2019-009"
+  - "Advisory Opinion No. 2019-009"
+  - "advisory opinion no. 2019-009"
 ---
 
 ## Source
@@ -23,7 +28,7 @@ Re: APPLICATION FOR EXEMPTION UNDER THE DATA PRIVACY ACT OF 2012
 
 Dear [Redacted],
 
-We write in response to your request which sought for the exemption of the Judiciary Savings and Loans Association, Inc. (JUSLA) from the coverage of Republic Act No. 10173,[^2] also known as the Data Privacy Act of 2012 (DPA), it being a non-bank financial institution, based on Section 4 (f)[^3] the law.
+We write in response to your request which sought for the exemption of the Judiciary Savings and Loans Association, Inc. (JUSLA) from the coverage of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^2] also known as the Data Privacy Act of 2012 (DPA), it being a non-bank financial institution, based on [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 (f)]][^3] the law.
 
 ### Discussion
 
@@ -33,7 +38,7 @@ We understand that JUSLA is a non-bank financial institution (NBFI) having 4,710
 
 It is important to note that the DPA applies to the processing of all types of personal information[^6] and to any natural and juridical person involved in personal information processing.
 
-JUSLA is principally engaged in the processing of personal and sensitive personal information (collectively, personal data) of its members. As provided for in Section 3(j) of the law, processing involves any operation or any set of operations performed upon personal information including, but not limited to the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
+JUSLA is principally engaged in the processing of personal and sensitive personal information (collectively, personal data) of its members. As provided for in [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(j)]] of the law, processing involves any operation or any set of operations performed upon personal information including, but not limited to the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
 
 Accordingly, the collection, organization, storage, and use of the personal data of JUSLA members for their savings and loans, among others, are considered as processing activities undertaken by JUSLA as a personal information controller[^7] (PIC). Thus, it is covered by the law.
 
@@ -73,11 +78,11 @@ Privacy Commissioner and Chairman
 
 [^1]: Tags: Scope, exemption, special cases, registration of data processing systems
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: *Id.* § 4. This Act does not apply to the following: (f) Information necessary for banks and other financial institutions under the jurisdiction of the independent, central monetary authority or Bangko Sentral ng Pilipinas to comply with Republic Act No. 9510, and Republic Act No. 9160, as amended, otherwise known as the Anti-Money Laundering Act and other applicable laws. (Emphasis supplied).
+[^3]: *Id.* [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]]. This Act does not apply to the following: (f) Information necessary for banks and other financial institutions under the jurisdiction of the independent, central monetary authority or Bangko Sentral ng Pilipinas to comply with Republic Act No. 9510, and Republic Act No. 9160, as amended, otherwise known as the Anti-Money Laundering Act and other applicable laws. (Emphasis supplied).
 [^4]: Judiciary Savings and Loans Association, Inc., About Us, available at https://jusla.com.ph/about_us.html.
 [^5]: Judiciary Savings and Loans Association, Inc., Frequently Asked Questions, available at https://jusla.com.ph/forms/JUSLA%20FAQs.pdf.
-[^6]: *Id.* § 3 (g).
-[^7]: *Id.* § 3 (h).
+[^6]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]].
+[^7]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]].
 [^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016)
-[^9]: *Id.* § 3 (i).
+[^9]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (i)]].
 [^10]: National Privacy Commission, NPC Advisory Opinion No. 2017-44 (16 August 2017).

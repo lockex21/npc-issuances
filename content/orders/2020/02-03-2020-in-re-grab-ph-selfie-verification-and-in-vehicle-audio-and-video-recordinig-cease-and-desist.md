@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2020"
   - "npc-case"
+  - "topic/data-subject-rights"
 date: "2020-02-03"
 draft: false
 ---
@@ -82,7 +83,7 @@ After reviewing all the submitted documents of Grab PH and the representations t
 
 Given these deficiencies, Grab PH must adopt the appropriate measures to correct or remedy the same. As such, Grab PH is hereby DIRECTED to comply with the following:
 
-1. Conduct/update the PIA for the processing systems according to NPC Advisory 2017-03, using a methodology that meets the following criteria:
+1. Conduct/update the PIA for the processing systems according to [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory 2017-03]], using a methodology that meets the following criteria:
 
    a. Provides a systematic description of the personal data flow and processing activities including the purpose of the processing, data inventory identifying the types of personal data held, sources and procedures of collection, functional description of the processing including information repositories, data transfers, storage and disposal method of personal data, accountable and responsible persons involved in the processing, and existing organizational, physical and technical security measures;
 

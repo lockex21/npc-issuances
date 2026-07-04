@@ -1,10 +1,17 @@
 ---
 title: "NPC Advisory Opinion No. 2022-015 — Use of Camera During Surveillance Visits"
 description: "Guidance on the taking of photos or videos during surveillance visits by the Regulations Licensing and Enforcement Division for monitoring purposes without consent."
+aliases:
+  - "NPC Advisory Opinion No. 2022-015"
+  - "npc advisory opinion no. 2022-015"
+  - "Advisory Opinion No. 2022-015"
+  - "advisory opinion no. 2022-015"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2022"
+  - "topic/consent"
+  - "topic/legitimate-interest"
 draft: false
 ---
 
@@ -95,7 +102,7 @@ On the other hand, the principle of transparency requires that the data subject 
 
 A privacy notice is statement made to a data subject that describes how an organization collects, uses, retains and discloses personal information. A privacy notice may be referred to as a privacy statement, a fair processing statement or, sometimes, a privacy policy.[^12] In the present case, we suggest that RLED create a privacy notice that taking of photographs or audio-visual recordings may be done during on-site visits or inspections and must include the lawful criteria on which the processing is based on. This privacy notice may be presented to the health facilities before conducting the inspection or when questions are raised on the propriety of taking photographs or videos by the RLED. By doing so, the data privacy principle of transparency is complied with.
 
-Lastly, the RLED is required by the DPA to uphold the rights of data subjects and implement reasonable and appropriate security measures for the protection of the personal data collected against unauthorized processing. As such, the RLED must integrate privacy and data protection in all processing activities involved in the conduct of its on-site visit/s, considering the nature of the personal data that requires protection, the risks to the rights and freedoms of the patients as data subjects, current data privacy best practices, among others.[^13] We also reiterate that the audio-visual recordings, should only be used for the intended purpose thereof. You may refer to NPC Circular No. 2016-01 - Security of Personal Data in Government Agencies for further details as to which appropriate security measures are applicable to your agency.
+Lastly, the RLED is required by the DPA to uphold the rights of data subjects and implement reasonable and appropriate security measures for the protection of the personal data collected against unauthorized processing. As such, the RLED must integrate privacy and data protection in all processing activities involved in the conduct of its on-site visit/s, considering the nature of the personal data that requires protection, the risks to the rights and freedoms of the patients as data subjects, current data privacy best practices, among others.[^13] We also reiterate that the audio-visual recordings, should only be used for the intended purpose thereof. You may refer to [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 2016-01 - Security of Personal Data in Government Agencies]] for further details as to which appropriate security measures are applicable to your agency.
 
 Please be advised that this Advisory Opinion was rendered based solely on your provided information. Any extraneous fact that may be subsequently furnished to us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
@@ -106,26 +113,26 @@ Very truly yours,
 (Sgd.) FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
-[^2]: Data Privacy Act of 2012, § 20 (c)
+[^2]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, § 20 (c)]]
 
-[^3]: Id. § 12 (c)
+[^3]: Id. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (c)]]
 
-[^4]: Id. § 12 (e)
+[^4]: Id. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (e)]]
 
 [^5]: NPC Advisory Opinion No. 2018-053 (November 26, 2018).
 
-[^6]: Data Privacy Act of 2012, § 3 (l) (2)
+[^6]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (l) (2)]]
 
-[^7]: Id. § 13 (b)
+[^7]: Id. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13 (b)]]
 
 [^8]: NPC Advisory Opinion No. 2018-053 (November 26, 2018).
 
-[^9]: CID Case No.17-K-003 dated 19 November 2019
+[^9]: [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|CID Case No.17-K-003]] dated 19 November 2019
 
-[^10]: R.A. 10173, Section 12(f); Ibid.
+[^10]: R.A. 10173, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f)]]; Ibid.
 
-[^11]: Data Privacy Act of 2012, § 11 (c)
+[^11]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11 (c)]]
 
 [^12]: IAPP, Glossary of Privacy Terms, available at https://iapp.org/resources/glossary/#paperwork-reduction-act-2
 
-[^13]: Data Privacy Act of 2012, § 20
+[^13]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, § 20]]

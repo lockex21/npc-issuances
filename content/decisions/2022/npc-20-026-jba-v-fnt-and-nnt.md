@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2020"
   - "npc-case"
+  - "topic/consent"
+  - "topic/data-subject-rights"
 date: "2022-09-22"
 draft: false
 ---
@@ -42,7 +44,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a complaint filed by JBA against FNT and NNT for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a complaint filed by JBA against FNT and NNT for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -180,7 +182,7 @@ II. Whether FNT is liable for [[laws/data-privacy-act-of-2012#section-25-unautho
 
 I. NNT is not liable for violating the DPA.
 
-The case against NNT should be dismissed for lack of merit. The CAF filed by JBA was dated 20 January 2020.[^77] Seeing as it was filed before 12 February 2021, which is the effectivity of NPC Circular 2021-01 or the 2021 NPC Rules of Procedure, NPC Circular 16-04 or the 2016 NPC Rules of Procedure is the applicable rule in this case.
+The case against NNT should be dismissed for lack of merit. The CAF filed by JBA was dated 20 January 2020.[^77] Seeing as it was filed before 12 February 2021, which is the effectivity of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 2021-01 or the 2021 NPC Rules of Procedure]], [[issuances/undated/rules-of-procedure|NPC Circular 16-04 or the 2016 NPC Rules of Procedure]] is the applicable rule in this case.
 
 Rule II, Section 10 of the 2016 NPC Rules of Procedure states the following:
 
@@ -214,9 +216,9 @@ Further, NNT maintained that she had no direct authority over JBA since JBA is a
 
 Given that JBA was not able to discharge the necessary burden of proof, the case against NNT should be dismissed for lack of merit.
 
-II. FNT is liable for Section 25 (Unauthorized Processing of Personal or Sensitive Personal Information) of the DPA.
+II. FNT is liable for [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (Unauthorized Processing of Personal or Sensitive Personal Information) of the DPA]].
 
-FNT violated Section 25 of the DPA, or Unauthorized Processing of Personal or Sensitive Personal Information, when she continued to post ads containing JBA's personal information even after JBA's withdrawal of consent.
+FNT violated [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]], or Unauthorized Processing of Personal or Sensitive Personal Information, when she continued to post ads containing JBA's personal information even after JBA's withdrawal of consent.
 
 Unauthorized Processing of Personal or Sensitive Personal Information is committed when:
 
@@ -340,7 +342,7 @@ The PIC, however, may deny the request for erasure or blocking, wholly or partly
 >
 > f) As may be provided by any existing law, rules, and regulations.[^106]
 
-In this case, none of the circumstances that would warrant a denial of a request for erasure under Section 10 (B) (2) of NPC Advisory 21-01 (Data Subject Rights) are present. Thus, there is no reason for FNT to deny the request for erasure. As the PIC, she should have complied with the request.
+In this case, none of the circumstances that would warrant a denial of a request for erasure under Section 10 (B) (2) of [[issuances/2021/data-subject-rights|NPC Advisory 21-01 (Data Subject Rights)]] are present. Thus, there is no reason for FNT to deny the request for erasure. As the PIC, she should have complied with the request.
 
 FNT received and acknowledged the resignation of JBA on 30 October 2018.[^107] After acknowledging JBA's withdrawal of consent to process her personal information and exercise of her right to erasure in her resignation letter, FNT, as the PIC, should not have processed JBA's personal information from that point onwards. Rather, she should have initiated the removal of JBA's personal information in the currently posted ads.
 
@@ -560,7 +562,7 @@ GENERAL RECORDS UNIT
 
 [^77]: Complaints-Assisted Form, 20 January 2020, at 5, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
 
-[^78]: National Privacy Commission, 2016 Rules of Procedure of the National Privacy Commission [NPC 2016 Rules of Procedure], rule II, 10 (15 December 2016). Emphasis supplied.
+[^78]: National Privacy Commission, [[issuances/undated/rules-of-procedure|2016 Rules of Procedure of the National Privacy Commission]] [NPC 2016 Rules of Procedure], rule II, 10 (15 December 2016). Emphasis supplied.
 
 [^79]: [[decisions/2022/npc-19-465-gjj-v-easy-peso|NPC 19-465]], 03 March 2022, at 7, 10 (NPC 2022) (unreported).
 
@@ -582,13 +584,13 @@ GENERAL RECORDS UNIT
 
 [^88]: [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021, at 12 (NPC 2021) (unreported).
 
-[^89]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, a nd For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, 3 (j) (2012). Emphasis supplied.
+[^89]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, a nd For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173, 3 (j)]] (2012). Emphasis supplied.
 
 [^90]: Verified Comment of FNT, 23 December 2021, at 2, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
 
 [^91]: See Complaints-Assisted Form, 20 January 2020, at 25-120, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
 
-[^92]: Data Privacy Act of 2012, 3 (g).
+[^92]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, 3 (g)]].
 
 [^93]: [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], 03 March 2022, at 9 (NPC 2022) (unreported).
 
@@ -610,11 +612,11 @@ GENERAL RECORDS UNIT
 
 [^102]: Complaints-Assisted Form, 20 January 2020, at 11, in JBA v. FNT and NNT, NPC Case No. 20-026 (NPC 2022).
 
-[^103]: Data Privacy Act of 2012, 16 (e).
+[^103]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, 16 (e)]].
 
-[^104]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, 34 (e) (2016). Emphasis supplied.
+[^104]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, 34 (e)]] (2016). Emphasis supplied.
 
-[^105]: National Privacy Commission, Data Subject Rights, Advisory No. 01, Series of 2021 [NPC Advisory No. 21-01], 10 (C)-(E) (29 January 2021). Emphasis supplied.
+[^105]: National Privacy Commission, [[issuances/2021/data-subject-rights|Data Subject Rights, Advisory No. 01, Series of 2021]] [NPC Advisory No. 21-01], 10 (C)-(E) (29 January 2021). Emphasis supplied.
 
 [^106]: *Id.* 10 (B) (2).
 

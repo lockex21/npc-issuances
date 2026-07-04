@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2025"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-007"
+  - "npc advisory opinion no. 2025-007"
+  - "Advisory Opinion No. 2025-007"
+  - "advisory opinion no. 2025-007"
 ---
 
 ## Source
@@ -24,7 +29,7 @@ We respond to your request for an advisory opinion regarding the following queri
 
 ### Discussion
 
-   1. Whether NPC Circular 2023-03 or the Guidelines on Identification Cards is applicable
+   1. Whether [[issuances/2023/guidelines-on-identification-cards|NPC Circular 2023-03]] or the Guidelines on Identification Cards is applicable
        to the Unified ID System for PWDs;
     2. Whether there are existing guidelines as to the collection, utilization, and processing
        of biometric data of data subjects; and
@@ -70,7 +75,7 @@ Nonetheless, it bears emphasis that while the issuance of the Unified PWD ID its
 excluded from the coverage of NPC Circular No. 2023-03, the collection, storage, and
 processing of personal data—including personal and sensitive personal information, such as
 biometric data—for purposes of implementing the Unified ID System remain subject to the
-provisions of the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]]
+provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (DPA)]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]]
 (IRR), and other relevant issuances of the Commission. Thus, compliance with the principles
 of transparency, legitimate purpose, and proportionality, as well as the adoption of
 appropriate organizational, physical, and technical security measures, are strongly enjoined.

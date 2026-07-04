@@ -78,7 +78,7 @@ Respondents EJ and EE submitted their Supplemental Comment containing substantia
 
 On 17 November 2017, Complainants personally filed before the Commission their Reply refuting the arguments of Respondents stating that:
 
-1. Personal sensitive information, as defined under the Data Privacy Act, is privileged and confidential and prohibits its processing except in certain circumstances, under Section 13 of R.A. 10173. Complainants allege that the act of respondents does not fall within the exceptions in processing sensitive personal information.
+1. Personal sensitive information, as defined under the Data Privacy Act, is privileged and confidential and prohibits its processing except in certain circumstances, under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of R.A. 10173]]. Complainants allege that the act of respondents does not fall within the exceptions in processing sensitive personal information.
 
 2. Neither EJ, EE, nor their authorized agents were the data subjects concerned in the documents requested. Therefore, they have no authority to access or use the personal sensitive information in the subject documents pertaining to the Complainants and their children. It is clear from the Data Privacy Act that these can only be obtained by the data subject themselves or their authorized representatives.[^7]
 
@@ -240,24 +240,24 @@ PICC Complex, 1307 Manila
 
 [^11]: *Id.*, at pp. 4-20. Annex of the Complaint-Affidavit.
 
-[^12]: Data Privacy Act of 2012, § 3(j).
+[^12]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(j)]].
 
-[^13]: Data Privacy Act of 2012, § 3(l). Emphasis supplied.
+[^13]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(l)]]. Emphasis supplied.
 
 [^14]: Records, p. 251.
 
-[^15]: *See*, Data Privacy Act of 2012, § 4; IRR §§ 4 & 5.
+[^15]: *See*, [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]]; IRR [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|§§ 4]] & [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|5]].
 
-[^16]: Data Privacy Act of 2012, § 13.
+[^16]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]].
 
 [^17]: Records, p. 6.
 
-[^18]: IRR, § 18(b).
+[^18]: IRR, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(b)]].
 
-[^19]: IRR, § 18(c), emphasis supplied.
+[^19]: IRR, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(c)]], emphasis supplied.
 
 [^20]: Records, p. 270.
 
 [^21]: Records, p. 276.
 
-[^22]: IRR, § 18(c), emphasis supplied.
+[^22]: IRR, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(c)]], emphasis supplied.

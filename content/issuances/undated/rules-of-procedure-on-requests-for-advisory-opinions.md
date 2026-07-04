@@ -34,7 +34,7 @@ response to the requesting party.
 SECTION 2. Advisory Opinion. – An advisory opinion refers to a determination of
 the NPC on matters relating to data privacy or data protection, at the request of any
 party, or on a complaint endorsed by the Complaints and Investigations Division
-(CID) under Sections 4 and 10 of Rule II of NPC Circular No. 2016-04.
+(CID) under Sections 4 and 10 of [[issuances/undated/rules-of-procedure#rule-ii-complaints-for-violations-of-the-data-privacy-act|Rule II of NPC Circular No. 2016-04]].
 
 It shall be based only on the facts and circumstances provided by the requesting party,
 taking into account applicable laws and regulations. It shall serve to provide guidance
@@ -71,7 +71,7 @@ e. All relevant documents and attachments that will enable the NPC to
 appropriately respond to the request.
 
 The letter request shall not be required if the matter is endorsed by the CID under
-Rule II of NPC Circular No. 2016-04.
+[[issuances/undated/rules-of-procedure#rule-ii-complaints-for-violations-of-the-data-privacy-act|Rule II of NPC Circular No. 2016-04]].
 
 SECTION 5. Subject of an advisory opinion.
 

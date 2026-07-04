@@ -5,7 +5,14 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2026"
+  - "topic/government"
+  - "topic/legitimate-interest"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2026-002"
+  - "npc advisory opinion no. 2026-002"
+  - "Advisory Opinion No. 2026-002"
+  - "advisory opinion no. 2026-002"
 ---
 
 ## Source
@@ -25,7 +32,7 @@ Re: REQUESTS FOR PERSONAL DATA FROM GOVERNMENT AGENCIES
 
 Dear [Redacted],
 
-This pertains to your request for an advisory opinion on the applicability of Republic Act No. 10173,[^2] also known as the Data Privacy Act of 2012 (DPA), to requests of information pertaining to individuals from government agencies in connection with case build-up, court compliance, and for the execution of court decisions, particularly:
+This pertains to your request for an advisory opinion on the applicability of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^2] also known as the Data Privacy Act of 2012 (DPA), to requests of information pertaining to individuals from government agencies in connection with case build-up, court compliance, and for the execution of court decisions, particularly:
 
 a) A request with a court order for information or confirmation of a foreign national’s address and immigration status for purposes of service of summons in a pending civil case, which was denied by the Bureau of Immigration (BI); and
 
@@ -87,7 +94,7 @@ f) The processing concerns such personal information as is necessary for the pro
 
 You mentioned that the requests for personal data from government agencies are for case build-up, court compliance, and for the execution of court decisions.
 
-Based thereon, such may be anchored in Section 12(f) (legitimate interest) and Section 13 (f) regarding the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, defense, or exercise of legal claims.
+Based thereon, such may be anchored in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f)]] (legitimate interest) and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] regarding the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, defense, or exercise of legal claims.
 
 Processing personal information based on legitimate interest requires the fulfillment of the following conditions:[^7]
 
@@ -144,18 +151,18 @@ OIC-Director IV, Privacy Policy Office[^17]
 ## Footnotes
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes.
-[^3]: § 4, IRR of Republic Act No. 10173.
-[^4]: § 3(g), Republic Act No. 10173.
-[^5]: Id. § 12.
-[^6]: Id. § 13.
-[^7]: NPC Circular No. 2023-07 (Guidelines on Legitimate Interest).
+[^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|§ 4]], IRR of Republic Act No. 10173.
+[^4]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(g)]], Republic Act No. 10173.
+[^5]: Id. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]].
+[^6]: Id. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]].
+[^7]: [[issuances/2023/guidelines-on-legitimate-interest|NPC Circular No. 2023-07]] (Guidelines on Legitimate Interest).
 [^8]: [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|NPC Advisory No. 2024-02]], § 2.
-[^9]: EA and TA vs. EJ, EE, and HC, NPC 17-018, 15 July 2019.
-[^10]: § 3(A), NPC Advisory No. 2024-02 (Guidelines on Personal Data Processing based on Section 13(f) of the Data Privacy Act of 2012).
+[^9]: EA and TA vs. EJ, EE, and HC, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]], 15 July 2019.
+[^10]: § 3(A), [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|NPC Advisory No. 2024-02]] (Guidelines on Personal Data Processing based on Section 13(f) of the Data Privacy Act of 2012).
 [^11]: Id. § 5 (A&B).
-[^12]: § 18(c), Implementing Rules and Regulations of R.A. No. 10173.
-[^13]: § 18(b), IRR of R.A. No. 10173.
-[^14]: EA and TA vs. EJ, EE, and HC, NPC 17-018, 15 July 2019.
-[^15]: NPC Advisory Opinion No. 2019-047.
+[^12]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(c)]], Implementing Rules and Regulations of R.A. No. 10173.
+[^13]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(b)]], IRR of R.A. No. 10173.
+[^14]: EA and TA vs. EJ, EE, and HC, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]], 15 July 2019.
+[^15]: [[advisory-opinions/2019/advisory-opinion-no-2019-047-redacted-advisory-opinion-no-2019-047|NPC Advisory Opinion No. 2019-047]].
 [^16]: BGM vs. IPP, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]], 17 December 2020.
 [^17]: PCSO No. 095, series of 2025.

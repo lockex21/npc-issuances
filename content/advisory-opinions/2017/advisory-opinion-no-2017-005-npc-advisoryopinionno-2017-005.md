@@ -5,6 +5,12 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/cross-border-transfers
+aliases:
+  - "NPC Advisory Opinion No. 2017-005"
+  - "npc advisory opinion no. 2017-005"
+  - "Advisory Opinion No. 2017-005"
+  - "advisory opinion no. 2017-005"
 draft: false
 ---
 
@@ -33,7 +39,7 @@ b. How does an entity located in the Philippines and engaged in cross-border tra
 
 #### Location of Personal Information Controller
 
-A personal information controller (PIC) subject to the provisions of Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA), may be located outside of the Philippines. Section 4 of the law reads:
+A personal information controller (PIC) subject to the provisions of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the Data Privacy Act of 2012 (DPA), may be located outside of the Philippines. [[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] of the law reads:
 
 > "Scope. – This Act applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing including those personal information controllers and processors who, although not found or established in the Philippines, use equipment that are located in the Philippines, or those who maintain an office, branch or agency in the Philippines subject to the immediately succeeding paragraph: Provided, That the requirements of Section 5 (sic) are complied with." (underscoring supplied)
 
@@ -66,5 +72,5 @@ IVY D. PATDU
 Deputy Privacy Commissioner,
 Policy and Planning
 
-[^1]: RA 10173, § 6.
-[^2]: RA 10173, § 3(h).
+[^1]: [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|RA 10173, § 6]].
+[^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA 10173, § 3(h)]].

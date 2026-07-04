@@ -1,10 +1,17 @@
 ---
 title: "NPC Advisory Opinion No. 2017-065 — Child Online Protection and Government Access to Suspect's Media Accounts and E-mail"
+aliases:
+  - "NPC Advisory Opinion No. 2017-065"
+  - "npc advisory opinion no. 2017-065"
+  - "Advisory Opinion No. 2017-065"
+  - "advisory opinion no. 2017-065"
 description: "Advisory opinion on whether government agencies can compel access to email and social media accounts of suspects in child protection investigations, and NPC participation in the government's Child Online Protection (COP) initiative."
 tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/children
+  - topic/government
 draft: false
 ---
 
@@ -29,7 +36,7 @@ This pertains to your query received by the National Privacy Commission (NPC) on
 2. Whether the NPC can require such action; and
 3. How the NPC participates in the government’s initiative in COP.
 
-In your email, you reiterated what Deputy Commissioner Patdu mentioned during the COP conference: “Online child abuse, exploitation and child pornography are not protected activities, and are recognized limitations on freedom of expression and right to privacy. Under the Data Privacy Act, law enforcement activities will not be unduly restricted, subject to requirements of due process. Existing laws safeguard the privacy of victims of child abuse and impose obligations on different sectors to cooperate in law enforcement investigations.”
+In your email, you reiterated what Deputy Commissioner Patdu mentioned during the COP conference: “Online child abuse, exploitation and child pornography are not protected activities, and are recognized limitations on freedom of expression and right to privacy. Under the [[laws/data-privacy-act-of-2012|Data Privacy Act]], law enforcement activities will not be unduly restricted, subject to requirements of due process. Existing laws safeguard the privacy of victims of child abuse and impose obligations on different sectors to cooperate in law enforcement investigations.”
 
 Indeed, materials on child abuse, exploitation and child pornography are outside the protection of the free speech and expression clause. In *Eliseo F. Soriano v. Ma. Consoliza P. Laguardia, et al.* and *Eliseo F. Soriano v. Movie and Television Review and Classification Board, et al.*,[^1] the Supreme Court ruled that:
 
@@ -67,7 +74,7 @@ Sections 9 and 11 of the Anti-Child Pornography Act[^5] clearly states the duty 
 
 It can be noted that nowhere in the provisions above allow for the access or opening of a suspected offender’s e-mail and/or social media accounts. The government, through the law enforcement agencies is only directed to obtain certain information relevant to the investigation and further prosecution of offenders. Based on the foregoing, just like any other document, personal writing or material, social media platforms deserve the same amount of protection because it is indeed still a form of communication, only online. Therefore, the law enforcers cannot compel such access to emails and/or social media accounts of suspects without due process and without a lawful order from the court.
 
-In relation to the provision of the DPA on law enforcement, Section 4 of the law and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the IRR]] exempt specific types or classes of information from its scope. In particular, paragraph (d) of the latter states:
+In relation to the provision of the [[laws/data-privacy-act-of-2012|DPA]] on law enforcement, [[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] of the law and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the IRR]] exempt specific types or classes of information from its scope. In particular, paragraph (d) of the latter states:
 
 > **Section 5. Special Cases.** *The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:* xxx
 >

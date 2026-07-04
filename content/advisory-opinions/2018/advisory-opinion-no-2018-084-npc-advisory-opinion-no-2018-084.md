@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/employment
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-084"
+  - "npc advisory opinion no. 2018-084"
+  - "Advisory Opinion No. 2018-084"
+  - "advisory opinion no. 2018-084"
 ---
 
 ## Source
@@ -44,7 +50,7 @@ covered by the provisions of the DPA.
 
 Monitoring employee activities when he or she is using an office-issued computer may be
 allowable under the DPA, provided the processing falls under any of the criteria for lawful
-processing of personal data under Sections 12 and/or 13 of the law.
+processing of personal data under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and/or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the law.
 
 Employers, as personal information controllers (PICs), shall ensure that the processing
 complies with the general data privacy principles of transparency, legitimate purpose and
@@ -133,10 +139,10 @@ Deputy Privacy Commissioner
 for Policies and Planning
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (b) (2016).
+[^2]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (b)]] (2016).
 [^3]: Privacy Commissioner for Personal Data, Hong Kong, Privacy Guidelines: Monitoring and Personal Data Privacy at Work (April 2016), available at https://www.pcpd.org.hk/english/data_privacy_law/code_of_practices/files/Monitoring_and_Personal_Data_Privacy_At_Work_revis_Eng.pdf (last accessed Oct. 26, 2018).
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c).
-[^5]: Id. § 18 (a).
+[^4]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]].
+[^5]: *[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Id.]]* § 18 (a).
 [^6]: Privacy Commissioner for Personal Data, Hong Kong, supra note 3.
 [^7]: Article 29 Data Protection Working Party, Opinion 2/2017 on Data Processing at Work (08 June 2017), available at ec.europa.eu/newsroom/document.cfm?doc_id=45631 (last accessed Sept. 26, 2018).
 [^8]: Supra note 5.

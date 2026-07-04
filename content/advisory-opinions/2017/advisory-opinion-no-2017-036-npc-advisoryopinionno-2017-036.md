@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2017"
+aliases:
+  - "NPC Advisory Opinion No. 2017-036"
+  - "npc advisory opinion no. 2017-036"
+  - "Advisory Opinion No. 2017-036"
+  - "advisory opinion no. 2017-036"
 draft: false
 ---
 
@@ -43,5 +48,5 @@ Sincerely,
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: RA No. 10173, §3(g)
+[^1]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(g)]]
 [^2]: *Id.*, §4(a)

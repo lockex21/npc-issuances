@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2018"
   - "npc-case"
+  - "topic/data-subject-rights"
+  - "topic/employment"
 date: "2020-05-21"
 draft: false
 ---
@@ -141,9 +143,9 @@ Complainant also addresses the issue of damages that may be awarded to him, stat
 
 ### Issue
 
-1. Whether the Complaint may be dismissed for being filed beyond the thirty (30)-day period as provided under Section 4(c) of the NPC Rules of Procedure.
+1. Whether the Complaint may be dismissed for being filed beyond the thirty (30)-day period as provided under Section 4(c) of the [[issuances/undated/rules-of-procedure|NPC Rules of Procedure]].
 
-2. Whether Respondent committed acts in violation of Complainant's rights to access and rectification under the Data Privacy Act (DPA).
+2. Whether Respondent committed acts in violation of Complainant's rights to access and rectification under the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA).
 
 ### Discussion
 
@@ -255,25 +257,25 @@ ENFORCEMENT DIVISION
 [^6]: Records at pp. 94-95.
 [^7]: *Id.*, at 49.
 [^8]: *Id.*, at 44.
-[^9]: Section 4, Rule II, NPC Circular 16-04. Dated 15 December 2016.
+[^9]: Section 4, Rule II, [[issuances/undated/rules-of-procedure#rule-ii-complaints-for-violations-of-the-data-privacy-act|NPC Circular 16-04]]. Dated 15 December 2016.
 [^10]: *Id.*, 30-34.
 [^11]: *Id.*, 14-26.
 [^12]: *Ibid.*
-[^13]: Section 4, NPC Circular 16-04. Dated 15 December 2016.
+[^13]: Section 4, [[issuances/undated/rules-of-procedure|NPC Circular 16-04]]. Dated 15 December 2016.
 [^14]: PNB v. Court of Appeals, G.R. No. 218901, 15 February 2017.
-[^15]: See R.A. 10173, Section 16(c).
+[^15]: See [[laws/data-privacy-act-of-2012|R.A. 10173]], [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(c)]].
 [^16]: *Ibid.*
 [^17]: Records, p. 67.
-[^18]: R.A. 10173, Section 16(d).
-[^19]: NPC Advisory Opinion 2018-018. Dated 21 April 2017.
+[^18]: [[laws/data-privacy-act-of-2012|R.A. 10173]], [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(d)]].
+[^19]: [[advisory-opinions/2018/advisory-opinion-no-2018-018-npc-advisory-opinion-no-2018-018|NPC Advisory Opinion 2018-018]]. Dated 21 April 2017.
 [^20]: *See*, EU General Data Protection Regulation, Article 16.
-[^21]: R.A. 10173, Section 16(f).
-[^22]: R.A. 10173, Sec. 7(b).
-[^23]: *Id*, at Sec. 11(c).
+[^21]: [[laws/data-privacy-act-of-2012|R.A. 10173]], [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(f)]].
+[^22]: [[laws/data-privacy-act-of-2012|R.A. 10173]], [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Sec. 7(b)]].
+[^23]: *Id*, at [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Sec. 11(c)]].
 [^24]: *Supra* at Note 17.
 [^25]: *Supra* at Note 16.
 [^26]: *Supra* at Note 21.
-[^27]: R.A. 10173, Sec. 37.
+[^27]: [[laws/data-privacy-act-of-2012|R.A. 10173]], [[laws/data-privacy-act-of-2012#section-37-restitution|Sec. 37]].
 [^28]: *See*, Handbook on European Data Protection Law, p. 246.
 [^29]: Seven Brothers Shipping Corporation v. DMC-Construction Resources, Inc. G.R. No. 193914. November 26 2014.
 [^30]: *Supra* at Note 23.

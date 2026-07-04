@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2023"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2023-03-20"
 draft: false
 ---
@@ -51,7 +52,7 @@ In justifying its request for postponement, FRPH stated that:
 
 On 09 February 2023, the Commission issued a Minute Resolution ordering FRPH to submit proof to substantiate FRPH's request for postponement. The Minute Resolution has the following dispositive portion:
 
-> Pursuant to Section 17 (D) of NPC Circular 16-03 (Personal Data Breach Management), the Commission may require additional information, if necessary, for the proper resolution of the request for postponement of notification of the affected data subjects.
+> Pursuant to Section 17 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management), the Commission may require additional information, if necessary, for the proper resolution of the request for postponement of notification of the affected data subjects.
 >
 > **WHEREFORE**, premises considered, the Commission hereby **ORDERS** Fast Retailing Philippines, Inc. to **SUBMIT** within five (5) days upon receipt of this Minute Resolution proof to substantiate the request for postponement of notification of the affected data subjects.
 >
@@ -79,11 +80,11 @@ Lastly, FRPH indicated that it continuously communicates with the sixty-four (64
 
 The Commission denies the request of FRPH for postponement to notify the affected data subjects.
 
-Rule V, Section 18(B) of the NPC Circular No. 16-03 (Personal Data Breach Management) provides:
+Rule V, Section 18(B) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management) provides:
 
 > B. Exemption or Postponement of Notification. If it is not reasonably possible to notify the data subjects within the prescribed period, the personal information controller shall request the Commission for an exemption from the notification requirement, or the postponement of the notification. A personal information controller may be exempted from the notification requirement where the Commission determines that such notification would not be in the public interest or in the interest of the affected data subjects. The Commission may authorize the postponement of notification where it may hinder the progress of a criminal investigation related to a serious breach, taking into account circumstances provided in Section 13 of this Circular, and other risks posed by the personal data breach.[^21]
 
-In this case, FRPH failed to show that the investigation it conducted was a criminal investigation contemplated under the NPC Circular No. 16-03. It also failed to prove that notification to the affected data subjects may hinder the progress of a criminal investigation related to a serious breach.
+In this case, FRPH failed to show that the investigation it conducted was a criminal investigation contemplated under the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]]. It also failed to prove that notification to the affected data subjects may hinder the progress of a criminal investigation related to a serious breach.
 
 In its Compliance, FRPH merely stated that it ordered a joint investigation to NEPC and Ninja Van PH to determine the root cause and the actual number of customers affected.[^22] However, FRPH failed to show that the investigation it conducted was criminal in nature, which would be a ground for the postponement of the notification requirement to the affected data subjects.
 
@@ -93,7 +94,7 @@ Further, it must be noted that it has been more than a month since the parcels w
 
 Nevertheless, FRPH stated that it continues to communicate with the sixty-four (64) data subjects regarding their requests for reship or refund.[^26] Also, with the available information that FRPH have in the course of its investigation, the Commission deems it necessary for FRPH to likewise notify the affected data subjects to allow them to take necessary measures to protect themselves from possible negative consequences of the breach.
 
-Lastly, Rule V, Section 18(C) of the NPC Circular No. 16-03 also provides:
+Lastly, Rule V, Section 18(C) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] also provides:
 
 > C. Content of Notification. The notification shall include, but not be limited to:
 >
@@ -110,7 +111,7 @@ Applying the foregoing provision, FRPH could have notified the affected data sub
 
 WHEREFORE, premises considered, the request for postponement from the notification requirement filed by Fast Retailing Philippines, Inc. (FRPH) is hereby **DENIED.** The Commission hereby **ORDERS** FRPH to **NOTIFY** the affected data subjects and submit proof of such notification.
 
-The Commission also **DIRECTS** the Compliance and Monitoring Division (CMD) to **ISSUE** appropriate orders necessary to evaluate and monitor the completeness of its data breach notification and breach management pursuant to NPC Circular No. 16-03 (Personal Data Breach Management).
+The Commission also **DIRECTS** the Compliance and Monitoring Division (CMD) to **ISSUE** appropriate orders necessary to evaluate and monitor the completeness of its data breach notification and breach management pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management).
 
 **SO ORDERED.**
 
@@ -158,10 +159,10 @@ GENERAL RECORDS UNIT
 [^18]: Compliance dated 14 February 2023 of Fast Retailing Philippines, Inc., at p. 2.
 [^19]: Id.
 [^20]: Id.
-[^21]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18(B) (15 December 2016) (NPC Circular 16-03).
+[^21]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18(B) (15 December 2016) (NPC Circular 16-03).
 [^22]: Compliance dated 14 February 2023 of Fast Retailing Philippines, Inc., at p. 1.
 [^23]: Id., at p. 2.
 [^24]: In re: Fast Retailing Philippines, Inc., NPC BN 23-007, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), Brief Summary of Fast Retailing Philippines, Inc. (12 January 2023).
-[^25]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).
+[^25]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 11 (15 December 2016) (NPC Circular 16-03).
 [^26]: Compliance dated 14 February 2023 of Fast Retailing Philippines, Inc., at p. 2.
-[^27]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18(C) (15 December 2016) (NPC Circular 16-03).
+[^27]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18(C) (15 December 2016) (NPC Circular 16-03).

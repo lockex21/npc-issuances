@@ -11,6 +11,9 @@ tags:
   - "type/order"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/online-lending"
+  - "topic/security"
 date: "2022-01-13"
 draft: false
 ---
@@ -88,7 +91,7 @@ On 13 January 2022, the Commission issued a Resolution lifting the Temporary Ban
 
 ### Discussion
 
-The Commission orders JuanHand to address the issues identified by the EnD in relation to JuanHand version 4.1.1, JuanHand version 4.2.0, its Privacy Manual, and its Security Incident Management Policy despite the lifting of the Temporary Ban. The EnD determined that JuanHand should rectify its camera permissions in compliance with NPC Circular No. 20-01 (Guidelines on the Processing of Personal Data for Loan-Related Transactions), and include provisions in its Privacy Manual and Security Incident Management Policy in compliance with the Data Privacy Act of 2012 (DPA), and its Implementing Rules and Regulations, and NPC Circular No. 16-03 (Personal Data Breach Management).
+The Commission orders JuanHand to address the issues identified by the EnD in relation to JuanHand version 4.1.1, JuanHand version 4.2.0, its Privacy Manual, and its Security Incident Management Policy despite the lifting of the Temporary Ban. The EnD determined that JuanHand should rectify its camera permissions in compliance with [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 20-01 (Guidelines on the Processing of Personal Data for Loan-Related Transactions)]], and include provisions in its Privacy Manual and Security Incident Management Policy in compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]].
 
 Based on the EnD's simulation of JuanHand version 4.1.1 and JuanHand version 4.2.0, it ascertained that the online lending application does not comply with NPC Circular No. 20-01, particularly Section 3 (D) (3) on camera permissions.[^16] Section 3 (D) (3) of NPC Circular No. 20-01 provides:
 
@@ -122,11 +125,11 @@ A Personal Information Controller (PIC), such as JuanHand, should implement reas
 
 Based on the EnD's assessment, JuanHand's Privacy Manual does not discuss organizational, physical, and technical security measures that it implements in the processing of personal information.[^25] JuanHand's Privacy Manual does not include provisions on the following organizational security measures: a procedure for appointing of a Data Protection Officer (DPO) and Compliance Officers and their respective functions, the conduct of privacy trainings or seminars for its personnel, conduct of a Privacy Impact Assessment, recording and documentation of activities carried out by the DPO or the organization itself, and mechanisms for review of data protection policies.[^26]
 
-It also does not discuss the following physical security measures: storage type and location, monitoring and limitation of access to room or facility, design of office space/ work station, and modes of transfer of personal data within the organization or to third parties.[^27] It also does not delve into the following technical security measures: safeguards on the computer network, including encryption and authentication processes that control access to personal information.[^28] As such, the Commission directs JuanHand to Sections 26 to 28 of the IRR for the guidelines for organizational, physical, and technical security measures.[^29]
+It also does not discuss the following physical security measures: storage type and location, monitoring and limitation of access to room or facility, design of office space/ work station, and modes of transfer of personal data within the organization or to third parties.[^27] It also does not delve into the following technical security measures: safeguards on the computer network, including encryption and authentication processes that control access to personal information.[^28] As such, the Commission directs JuanHand to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-26-organizational-security-measures|Sections 26]] to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|28]] of the IRR for the guidelines for organizational, physical, and technical security measures.[^29]
 
-In addition, JuanHand's Privacy Manual does not discuss the mechanisms in determining the basis for lawful processing of personal data pursuant to Sections 12 and 13 of the DPA and upholding the rights of the data subjects in accordance with [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]].[^30]
+In addition, JuanHand's Privacy Manual does not discuss the mechanisms in determining the basis for lawful processing of personal data pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA and upholding the rights of the data subjects in accordance with [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]].[^30]
 
-JuanHand's Security Incident Management Policy does not fully comply with Section 4 of NPC Circular No. 16-03, which states:
+JuanHand's Security Incident Management Policy does not fully comply with Section 4 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], which states:
 
 > Section 4. Security Incident Management Policy. A personal information controller or personal information processor shall implement policies and procedures for the purpose of managing security incidents, including personal data breach. These policies and procedures must ensure:
 > 1. Creation of a data breach response team, with members that have clearly defined responsibilities, to ensure timely action in the event of a security incident or personal data breach;
@@ -193,22 +196,22 @@ GENERAL RECORDS UNIT
 [^14]: Id. at 4.
 [^15]: Resolution, 13 January 2022, at 6-7, in In re: Wefund Lending Corporation and its Responsible Officers, NPC SS 21-006, (NPC 2022) (pending).
 [^16]: Enforcement Division Memorandum, 03 December 2021, at 7, in In re: Wefund Lending Corporation and its Responsible Officers, NPC SS 21-006, (NPC 2021) (pending).
-[^17]: National Privacy Commission, Guidelines on the Processing of Personal Data for Loan-Related Transactions, Circular No. 01, Series of 2020 [NPC Circ. No. 20-01], § 3 (D) (3) (14 September 2020).
+[^17]: National Privacy Commission, [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions, Circular No. 01, Series of 2020]] [NPC Circ. No. 20-01], § 3 (D) (3) (14 September 2020).
 [^18]: Enforcement Division Memorandum, 03 December 2021, at 7, in In re: Wefund Lending Corporation and its Responsible Officers, NPC SS 21-006, (NPC 2021) (pending).
 [^19]: Id.
 [^20]: Id.
 [^21]: Comment to the Order and Temporary Ban dated 01 September 2021, 02 September 2021, at 5, in In re: Wefund Lending Corporation and its Responsible Officers, NPC SS 21-006 (NPC 2021) (pending).
-[^22]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (2012).
+[^22]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012]], Republic Act No. 10173 § 20 (2012).
 [^23]: Id.
-[^24]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule VI, § 25.
+[^24]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, rule VI, § 25.
 [^25]: Enforcement Division Memorandum, 03 December 2021, at 8, in In re: Wefund Lending Corporation and its Responsible Officers, NPC SS 21-006, (NPC 2021) (pending).
 [^26]: Id.
 [^27]: Id.
 [^28]: Id.
-[^29]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule VI, § 26-28.
+[^29]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-26-organizational-security-measures|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, rule VI, § 26-28.
 [^30]: Enforcement Division Memorandum, 03 December 2021, at 9, in In re: Wefund Lending Corporation and its Responsible Officers, NPC SS 21-006, (NPC 2021) (pending).
-[^31]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16-03, § 4 (15 December 2016).
+[^31]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular No. 16-03]], § 4 (15 December 2016).
 [^32]: Enforcement Division Memorandum, 03 December 2021, at 9, in In re: Wefund Lending Corporation and its Responsible Officers, NPC SS 21-006, (NPC 2021) (pending).
-[^33]: NPC Circ. No. 16-03, § 8.
+[^33]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 8.
 [^34]: Enforcement Division Memorandum, 03 December 2021, at 9, in In re: Wefund Lending Corporation and its Responsible Officers, NPC SS 21-006, (NPC 2021) (pending).
 [^35]: Comment to the Order and Temporary Ban dated 01 September 2021, 02 September 2021, at 5, in In re: Wefund Lending Corporation and its Responsible Officers, NPC SS 21-006 (NPC 2021) (pending).

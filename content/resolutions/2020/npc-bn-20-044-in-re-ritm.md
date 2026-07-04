@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "npc-case"
   - "year/2020"
+  - "topic/breach-notification"
 date: "2020-06-22"
 draft: false
 ---
@@ -40,7 +41,7 @@ On 22 March 2020, a line list from the Research Institute for Tropical Medicine 
 
 As a response, RITM implemented a “No Cellphone Policy” within their units and circulated a non-disclosure agreement among their employees. Consequently, the Data Protection Officer (DPO) of RITM has sent a request to the National Privacy Commission (NPC) for assistance to conduct a full investigation of this matter.
 
-The Commission reiterates the requirement of NPC Circular No. 16-03 (Circular) for a personal information controller (PIC) like RITM to have a data breach response team, which may include its DPO. As provided in the Circular, “the team must be ready to assess and evaluate a security incident, restore integrity to the information and communications system, mitigate and remedy any resulting damage, and comply with reporting requirements.”[^1] Thus, the Commission finds that compliance with the Circular must first be made before NPC extends additional assistance, if warranted. The data breach response team, being the most familiar with the security incident management policy of RITM, should first conduct a proper investigation of the breach and immediately enforce the necessary remedial measures to prevent further security risks to the data subjects.
+The Commission reiterates the requirement of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Circular) for a personal information controller (PIC) like RITM to have a data breach response team, which may include its DPO. As provided in the Circular, “the team must be ready to assess and evaluate a security incident, restore integrity to the information and communications system, mitigate and remedy any resulting damage, and comply with reporting requirements.”[^1] Thus, the Commission finds that compliance with the Circular must first be made before NPC extends additional assistance, if warranted. The data breach response team, being the most familiar with the security incident management policy of RITM, should first conduct a proper investigation of the breach and immediately enforce the necessary remedial measures to prevent further security risks to the data subjects.
 
 It must be stressed that notification is the general rule during a personal data breach. Considering the reported discriminations against COVID-19 patients and those who are connected or related to them, the Commission finds that this personal data breach gives rise to the risk of serious harm to those PUI whose identity may have been revealed by said breach. As such, Section 11 of the Circular requires notification upon the occurrence of this kind of personal data breach. Notably, RITM has failed to show that the breach falls under any of the exemptions allowed by law.
 
@@ -79,5 +80,5 @@ COMPLIANCE AND MONITORING DIVISION
 ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 
-[^1]: NPC Circular 16-03, Section 5.
-[^2]: NPC Circular No. 16-03.
+[^1]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], Section 5.
+[^2]: [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].

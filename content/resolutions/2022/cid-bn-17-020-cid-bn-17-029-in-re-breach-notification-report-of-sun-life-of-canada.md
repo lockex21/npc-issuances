@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2022
   - npc-case
+  - topic/breach-notification
 date: "2022-09-22"
 draft: false
 ---
@@ -52,7 +53,7 @@ On 09 September 2019, Sun Life submitted a letter as compliance to the Resolutio
 
 Sun Life likewise reported that it had launched a new Advisor’s Home Office to replace the Agent’s Portal, with the new platform addressing the issues encountered in the old platform.[^13]
 
-The Commission, through its Enforcement Division (EnD), issued a letter dated 11 October 2019, reiterating the directive to submit a full report on its breach management consistent with Section 9 of NPC Circular 16-03 (Personal Data Breach Management).[^14]
+The Commission, through its Enforcement Division (EnD), issued a letter dated 11 October 2019, reiterating the directive to submit a full report on its breach management consistent with Section 9 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).[^14]
 
 Subsequently, in a letter dated 13 July 2022, the EnD directed Sun Life to submit its full report on its breach management after finding that Sun Life still had not complied with the Commission’s order.[^15]
 
@@ -68,7 +69,7 @@ The Commission finds that Sun Life sufficiently complied with the Commission’s
 
 To reiterate, Sun Life was ordered to submit a full report on its breach management.[^18]
 
-Rule IV, Section 9 of the NPC Circular No. 16-03 (Personal Data Breach Management) provides:
+Rule IV, Section 9 of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management) provides:
 
 > SECTION 9. **Documentation.** All actions taken by a personal information controller or personal information processor shall be properly documented. Reports should include:
 >
@@ -142,7 +143,7 @@ GENERAL RECORDS UNIT
 [^16]: Compliance Letter dated 21 July 2022 of Sun Life of Canada (Philippines), Inc., at pp. 2–4.
 [^17]: *Id.*, at pp. 4–5.
 [^18]: In re: Breach Notification Report of Sun Life of Canada (Philippines), NPC BN 17-020 and 17-029, Resolution dated 22 July 2019, at p. 1.
-[^19]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule IV, § 9 (15 December 2016).
+[^19]: National Privacy Commission, Personal Data Breach Management, [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule IV, § 9 (15 December 2016).
 [^20]: Compliance dated 21 July 2022 of Sun Life of Canada (Philippines), Inc. in Description of the personal data breach, its root cause and circumstances regarding its discovery, at p. 2.
 [^21]: *Id.*, at p. 3.
 [^22]: *Id.*, at pp. 3–4.

@@ -11,6 +11,8 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/employment"
 date: "2023-01-26"
 draft: false
 ---
@@ -47,7 +49,7 @@ On 17 March 2022, the Commission issued an Order to TTEC with the following disp
 
 WHEREFORE, premises considered, Teletech Customer Care Management Philippines, Inc. (TTEC) is **ORDERED** to comply with the following within a non-extendible period of fifteen (15) days upon receipt of the Order to:
 
-(1) **NOTIFY** the affected data subjects. For the current employees, they shall be notified pursuant to Section 18(D) of the NPC Circular No. 16-03. The notification shall be done individually using secure means of communication, through email. TTEC shall submit proof of compliance, including the proof of receipt of the data subjects of such notification. For the former employees, they shall be notified through alternative means pursuant to Section 18(D) of the NPC Circular No. 16-03, through the publication of the notice on the following media: (a) TTEC’s website; and (b) advertisement spaces to be procured from newspapers of national circulation (i.e., Philippine Daily Inquirer or Manila Bulletin), and regional circulation in key cities or provinces wherein TTEC has an office or contact center. TTEC shall also provide to the Commission proof of compliance, including proof of notification/publication;
+(1) **NOTIFY** the affected data subjects. For the current employees, they shall be notified pursuant to [[issuances/undated/personal-data-breach-management|Section 18(D) of the NPC Circular No. 16-03]]. The notification shall be done individually using secure means of communication, through email. TTEC shall submit proof of compliance, including the proof of receipt of the data subjects of such notification. For the former employees, they shall be notified through alternative means pursuant to Section 18(D) of the NPC Circular No. 16-03, through the publication of the notice on the following media: (a) TTEC’s website; and (b) advertisement spaces to be procured from newspapers of national circulation (i.e., Philippine Daily Inquirer or Manila Bulletin), and regional circulation in key cities or provinces wherein TTEC has an office or contact center. TTEC shall also provide to the Commission proof of compliance, including proof of notification/publication;
 
 The proof of notification must be supported by appropriate affidavits, as applicable, including evidence that TTEC has procured advertisement spaces in newspapers of national circulation, and newspapers of regional circulation in all the cities or provinces wherein TTEC has an office or contact center;
 
@@ -99,7 +101,7 @@ In complying with the said Order, TTEC sufficiently showed that it complied with
 
 On the other hand, TTEC provided an excel file to the Commission containing proof of e-mail notifications sent to its twelve thousand eight hundred sixty-six (12,866) current employees sent via email on 19 October 2022.[^28]
 
-Further, Section 18(C) of NPC Circular No. 16-03 provides for the content of notification to be sent to the affected data subjects:
+Further, [[issuances/undated/personal-data-breach-management|Section 18(C) of NPC Circular No. 16-03]] provides for the content of notification to be sent to the affected data subjects:
 
 > **C. Content of Notification.** The notification shall include, but not be limited to:
 >
@@ -118,7 +120,7 @@ Based on the foregoing, the Commission finds that TTEC has sufficiently complied
 
 #### *II. The Data Breach Report submitted by TTEC sufficiently complied with Section 17 (D) in relation to Section 9 of NPC Circular No. 16-03*
 
-In the Orders dated 13 January 2022[^32] and 17 March 2022,[^33] TTEC was ordered by the Commission to submit its Full Breach Report pursuant to Section 17 (D) in relation to Section 9 of NPC Circular No. 16-03, thus:
+In the Orders dated 13 January 2022[^32] and 17 March 2022,[^33] TTEC was ordered by the Commission to submit its Full Breach Report pursuant to [[issuances/undated/personal-data-breach-management|Section 17 (D) in relation to Section 9 of NPC Circular No. 16-03]], thus:
 
 > **SECTION 9. Documentation.** All actions taken by a personal information controller or personal information processor shall be properly documented. Reports should include:
 >
@@ -259,7 +261,7 @@ National Privacy Commission
 
 [^18]: Electronic mail dated 19 October 2022 from Teletech Customer Care Management Philippines, Inc.
 
-[^19]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18(D) (15 December 2016) (NPC Circular 16-03).
+[^19]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18(D) (15 December 2016) (NPC Circular 16-03).
 
 [^20]: In re: Teletech Customer Care Management Philippines, Inc., NPC BN 21-214, Order dated 17 March 2022, at p. 16.
 
@@ -279,7 +281,7 @@ National Privacy Commission
 
 [^28]: Electronic mail dated 19 October 2022 from Teletech Customer Care Management Philippines, Inc.
 
-[^29]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18 (C) (15 December 2016) (NPC Circular 16-03).
+[^29]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18 (C) (15 December 2016) (NPC Circular 16-03).
 
 [^30]: Compliance and Manifestation dated 28 February 2022 of Teletech Customer Care Management Philippines, Inc., Annex "A"
 
@@ -289,9 +291,9 @@ National Privacy Commission
 
 [^33]: In re: Teletech Customer Care Management Philippines, Inc., NPC BN 21-214, Order dated 17 March 2022, at p. 16.
 
-[^34]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule IV, § 9 (15 December 2016) (NPC Circular 16-03).
+[^34]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule IV, § 9 (15 December 2016) (NPC Circular 16-03).
 
-[^35]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule IV, § 17(D) (15 December 2016) (NPC Circular 16-03).
+[^35]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule IV, § 17(D) (15 December 2016) (NPC Circular 16-03).
 
 [^36]: In re: Teletech Customer Care Management Philippines, Inc., NPC BN 21-214, Order dated 17 March 2022, at p. 14.
 

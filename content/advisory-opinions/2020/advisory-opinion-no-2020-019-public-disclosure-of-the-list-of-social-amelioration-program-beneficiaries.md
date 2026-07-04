@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+aliases:
+  - "NPC Advisory Opinion No. 2020-019"
+  - "npc advisory opinion no. 2020-019"
+  - "Advisory Opinion No. 2020-019"
+  - "advisory opinion no. 2020-019"
 draft: false
 ---
 
@@ -49,7 +54,7 @@ The DPA applies to the processing of all types of personal information and to an
 juridical person involved in personal information processing.[^4] Under the law, the names of the
 beneficiaries of the SAP are considered personal information,[^5] and its disclosure to the public
 constitute processing[^6] which should comply with the requirements specifically on the criteria for
-lawful processing of personal information found under Section 12 thereof.
+lawful processing of personal information found under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] thereof.
 
 For sensitive personal information,[^7] [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] generally prohibits its processing,
 except in certain cases enumerated therein. Furthermore, the processing should adhere to the
@@ -193,20 +198,20 @@ Privacy Commissioner and Chairman
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: An Act Declaring The Existence Of A National Emergency Arising From The Coronavirus Disease 2019 (Covid-19) Situation And A National Policy In Connection Therewith, And Authorizing The President Of The Republic Of The Philippines For A Limited Period And Subject To Restrictions, To Exercise Powers Necessary And Proper To Carry Out The Declared National Policy And For Other Purposes [Bayanihan to Heal As One Act], Republic Act No. 11469 (2020).
-[^4]: Data Privacy Act of 2012, § 4.
+[^4]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
 [^5]: Id. § 3 (g) - Personal information pertains to any information from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 [^6]: Id. § 3 (j) - Processing refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
 [^7]: Id. § 3 (l) - Sensitive personal information refers to personal information: 1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; 2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; 3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and 4) Specifically established by an executive order or an act of Congress to be kept classified.
-[^8]: Id. § 11.
-[^9]: Id. § 12 (c).
-[^10]: Id. § 12 (e).
+[^8]: Id. [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
+[^9]: Id. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (c)]].
+[^10]: Id. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (e)]].
 [^11]: Department of Social Welfare and Development, Memorandum Circular No. 09, series of 2020: Omnibus Guidelines in the Implementation of the Emergency Subsidy Program (ESP) of the DSWD, April 9, 2020, available at https://www.dswd.gov.ph/issuances/MCs/MC_2020-009.pdf (last accessed April 28, 2020).
 [^12]: See: Department of the Interior and Local Government, DILG to Punong Barangays: Post list of SAP beneficiaries in barangay hall for transparency, April 18, 2020, available at https://www.dilg.gov.ph/news/DILG-to-Punong-Barangays-Post-list-of-SAP-beneficiaries-in-barangay-hall-for-transparency/NC-2020-1100 (last accessed April 28, 2020).
 [^13]: Ibid.
 [^14]: Ibid.
 [^15]: Ibid.
-[^16]: Data Privacy Act of 2012, § 2.
+[^16]: [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Data Privacy Act of 2012, § 2]].
 [^17]: PHIL. CONST. art. 3 § 7 - The right of the people to information on matters of public concern shall be recognized. Access to official records, and to documents, and papers pertaining to official acts, transactions, or decisions, as well as to government research data used as basis for policy development, shall be afforded the citizen, subject to such limitations as may be provided by law.
 [^18]: G.R. No. 170516, July 16, 2008.
-[^19]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
-[^20]: Data Privacy Act of 2012, § 13.
+[^19]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c)]] (2016).
+[^20]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13]].

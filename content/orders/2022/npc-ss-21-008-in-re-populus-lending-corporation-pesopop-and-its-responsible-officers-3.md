@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2022"
   - "npc-case"
+  - "topic/online-lending"
 date: "2022-03-31"
 draft: false
 ---
@@ -61,7 +62,7 @@ In all three instances, Pesopop failed to sufficiently explain why the applicati
 
 Despite repeated orders from the Commission to take down the application, the application kept re-appearing on the list of applications available for download in the Google Play Store.[^10] The Commission stresses that this is a blatant recurring violation of the Temporary Ban against Pesopop.
 
-Section 8, Rule IX of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (NPC 2021 Rules of Procedure) provides that "the [T]emporary [B]an on processing of personal data shall remain in effect until the final resolution of the main case, or upon further orders by the Commission or other lawful authority."[^11] Considering that the sua sponte investigation has not been finally resolved and that there is no order from the Commission or other lawful authority to lift the Temporary Ban, Pesopop must adhere to the Order dated 12 August 2021 that imposed the Temporary Ban on its processing of personal data.
+Section 8, Rule IX of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ix-ban-on-processing-of-personal-data|NPC Circular No. 2021-01]] (NPC 2021 Rules of Procedure) provides that "the [T]emporary [B]an on processing of personal data shall remain in effect until the final resolution of the main case, or upon further orders by the Commission or other lawful authority."[^11] Considering that the sua sponte investigation has not been finally resolved and that there is no order from the Commission or other lawful authority to lift the Temporary Ban, Pesopop must adhere to the Order dated 12 August 2021 that imposed the Temporary Ban on its processing of personal data.
 
 Given the foregoing, the Commission finds it proper to require Pesopop to explain why it should not be held in contempt for violating the Temporary Ban.
 
@@ -120,4 +121,4 @@ GENERAL RECORDS UNIT
 [^8]: See Re – Reply to letter dated 08 November 2021, 15 November 2021, in In re: Populus Lending Corporation (Pesopop) and its Responsible Officers, NPC SS 21-008 (NPC 2021); Re – Compliance to letter dated 28 December 2021, in In re: Populus Lending Corporation (Pesopop) and its Responsible Officers, NPC SS 21-008 (NPC 2022).
 [^9]: See Id.
 [^10]: See Letter re: Compliance with Order dated 12 August 2021, 08 November 2021, in In re: Populus Lending Corporation (Pesopop) and its Responsible Officers, NPC SS 21-008 (NPC 2021); Letter re: Compliance with Order dated 12 August 2021, 28 December 2021, in In re: Populus Lending Corporation (Pesopop) and its Responsible Officers, NPC SS 21-008 (NPC 2021).
-[^11]: National Privacy Commission, NPC Circular No. 21-01, "2021 Rules of Procedure of the National Privacy Commission" [NPC Circ. No. 2021-01], Rule IX, § 8 (28 January 2021).
+[^11]: National Privacy Commission, NPC Circular No. 21-01, "[[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ix-ban-on-processing-of-personal-data|2021 Rules of Procedure of the National Privacy Commission]]" [NPC Circ. No. 2021-01], Rule IX, § 8 (28 January 2021).

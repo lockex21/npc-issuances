@@ -11,6 +11,9 @@ tags:
 - issuance
 - type/advisory
 - year/2021
+- topic/consent
+- topic/data-subject-rights
+- topic/legitimate-interest
 title: "Data Subject Rights (Advisory No. 2021-01)"
 ---
 
@@ -27,17 +30,17 @@ WHEREAS, the right to privacy, which includes information privacy, is constituti
 
 WHEREAS, the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth;[^1]
 
-WHEREAS, the DPA provides that personal information must be collected for specified and legitimate purposes, processed fairly and lawfully, accurate, relevant and, where necessary, kept up to date, adequate and not excessive in relation to the purposes for processing, and retained only for as long as necessary;[^2]
+WHEREAS, the [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|DPA provides]] that personal information must be collected for specified and legitimate purposes, processed fairly and lawfully, accurate, relevant and, where necessary, kept up to date, adequate and not excessive in relation to the purposes for processing, and retained only for as long as necessary;[^2]
 
-WHEREAS, the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for the rights of the data subjects, instances where these may be duly exercised, and the obligations of personal information controllers and processors;[^3]
+WHEREAS, the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|provide for the rights of the data subjects]], instances where these may be duly exercised, and the obligations of personal information controllers and processors;[^3]
 
-WHEREAS, the DPA mandates that any doubt in the interpretation of any provision of the law shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed;[^4]
+WHEREAS, the [[laws/data-privacy-act-of-2012#section-38-interpretation|DPA mandates]] that any doubt in the interpretation of any provision of the law shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed;[^4]
 
 WHEREFORE, in consideration of the foregoing premises, the National Privacy Commission (NPC) hereby issues this Advisory on the Rights of Data Subjects relevant to the processing of their personal data.
 
 ### General Provisions
 
-**SECTION 1.** ***Scope.*** This Advisory shall apply to all natural or juridical persons, or any other body in the government or private sector engaged in the processing of personal data within and outside of the Philippines, subject to the applicable provisions of the DPA, its IRR, and issuances by the NPC.
+**SECTION 1.** ***Scope.*** This Advisory shall apply to all natural or juridical persons, or any other body in the government or private sector engaged in the processing of personal data within and outside of the Philippines, subject to the applicable provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances by the NPC.
 
 **SECTION 2.** ***General Principles.*** This Advisory is governed by the following principles:
 
@@ -182,7 +185,7 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
                Complex sentence structures and equivocal wordings that may be subject to
                different interpretations should be avoided.^[8]
 
-   2. Form. The DPA does not dictate the form and method of how PICs should inform
+   2. Form. The [[laws/data-privacy-act-of-2012|DPA]] does not dictate the form and method of how PICs should inform
              its data subjects. Nonetheless, in crafting privacy notices, PICs should consider
              when it is provided, how it is delivered, how it is communicated, and how choices
              are provided. PICs may likewise consider adopting multilayered privacy notices
@@ -224,7 +227,7 @@ processing of his or her personal data where such processing is based on consent
 
    C. When a data subject objects, the PIC shall cease the processing of personal data and
       comply with the objection, unless the processing falls under any other allowable
-      instances pursuant to in Sections 12 or 13, other than consent and legitimate interest.
+      instances pursuant to in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]], other than consent and legitimate interest.
 
    Should there be other grounds to continue processing the personal data, the PIC shall
       have the burden of determining and proving the appropriate lawful basis or
@@ -423,7 +426,7 @@ Fdoc_id%3D44099+&cd=1&hl=en&ct=clnk&gl=ph (last accessed: 6 October 2020). 12 Id
 **SECTION 12.** ***Right to Damages.*** — The data subjects have the right to be indemnified for any damages sustained due to inaccurate, incomplete, outdated, false, unlawfully obtained, or unauthorized use of their personal data, taking into account any violation of his or her rights and freedoms as data subject.
 
    A. When there is a perceived violation of his or her rights, the data subject may file a
-      complaint with the NPC, in accordance with its Rules of Procedure governing all
+      complaint with the NPC, in accordance with its [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|Rules of Procedure]] governing all
       complaints filed before the Commission.
 
    B. In cases where a data subject files a complaint for violation of his or her rights, and for
@@ -471,7 +474,7 @@ rights, the PIC should ensure that the data subject is clearly and fully informe
 
 SECTION 15. Reasonableness of the denial or limitation. — The determination of the
 reasonableness of the limitation on or the denial of the exercise of data subject rights shall be made by the NPC upon the filing of a complaint by the data subject pursuant to the NPC’s
-Rules of Procedure.
+[[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|Rules of Procedure]].
 
 SECTION 16. Interpretation. — Any doubt in the reasonableness of denying or limiting the
 exercise of data subject rights shall be liberally interpreted in a manner that would uphold the rights and interests of the data subject.
@@ -667,17 +670,17 @@ DATE RECEIVED:
 
 * PICs shall only require information that is necessary to the request and to confirm the identity of the requesting individual or his/her authorized representative, taking into consideration the principle of proportionality.
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012), § 2.
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012), [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|§ 2]].
 
-[^2]: Data Privacy Act of 2012, § 11.
+[^2]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11]].
 
-[^3]: Data Privacy Act of 2012, § 16-18.
+[^3]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, § 16]]-18.
 
-[^4]: Data Privacy Act of 2012, § 38; Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34-36.
+[^4]: [[laws/data-privacy-act-of-2012#section-38-interpretation|Data Privacy Act of 2012, § 38]]; Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|§ 34]]-36.
 
-[^5]: See: ECA v. XXX, NPC Case No. 18-103 (2020).
+[^5]: See: [[decisions/2020/07-23-2020-eca-vs-xxx|ECA v. XXX, NPC Case No. 18-103]] (2020).
 
-[^6]: See JVA v. U-PESO.PH LENDING CORPORATION (UPESO), NPC Case No. 19-498 (2020).
+[^6]: See [[decisions/2020/npc-19-498-jva-vs-u-peso-ph-lending-corporation-upeso|JVA v. U-PESO.PH LENDING CORPORATION (UPESO), NPC Case No. 19-498]] (2020).
 
 [^7]: Florian Schaub, Rebecca Balebako, Adam L. Durity, and Lorrie Faith Cranor, A design space for effective privacy notices, In Proceedings of the Symposium on Usable Privacy and Security (SOUPS'15), available at https://www.usenix.org/system/files/conference/soups2015/soups15-paper-schaub.pdf (2015) (last accessed 15 Jan 2021).
 

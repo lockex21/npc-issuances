@@ -16,8 +16,8 @@ date: '2017-08-09'
 Appendix 1.
 
 Re: Initial determination of the National Privacy Commission on sectors or institutions
-requiring Registration of Data Processing Systems under Sections 5(C) and 5(D) of NPC
-Circular 17-01 on the “Registration of Data Processing Systems and Notifications
+requiring Registration of Data Processing Systems under [[issuances/undated/registration-of-data-processing-systems#rule-ii-registration-of-data-processing-systems|Sections 5(C) and 5(D)]] of [[issuances/undated/registration-of-data-processing-systems|NPC
+Circular 17-01]] on the “Registration of Data Processing Systems and Notifications
 regarding automated decision-making.”
 
 The sectors or institutions provided herein that are processing personal data and

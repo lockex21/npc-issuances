@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2019"
   - "npc-case"
+  - "topic/employment"
+  - "topic/online-lending"
 date: "2025-07-03"
 draft: false
 ---
@@ -44,7 +46,7 @@ BELARMINO, *D.P.C.*;
 
 > Without personal information being processed, there can be no violations of Sections 25, 28, 29, and 33 of the DPA, as the processing of a data subject's personal information is a necessary element for establishing these violations.
 
-Before this Commission is a Complaint filed by FCG (Complainant) against Unipeso Lending Company Inc. (Respondent), for alleged violations of Sections 25, 28, 29 and 33 of Republic Act 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by FCG (Complainant) against Unipeso Lending Company Inc. (Respondent), for alleged violations of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Sections 25]], [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|28]], [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|29]] and [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|33]] of Republic Act 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -76,9 +78,9 @@ On 31 May 2024, a Notice informing the parties that the case has been submitted 
 
 ### Issues
 
-I. Whether the mobile numbers alleged in the Complaint constitute personal information under the DPA.
+I. Whether the mobile numbers alleged in the Complaint constitute personal information under the [[laws/data-privacy-act-of-2012|DPA]].
 
-II. Whether Respondent is liable under Section 25 (Unauthorized Processing), Section 28 (Processing for Unauthorized Purposes), Section 29 (Unauthorized Access or Intentional Breach), and Section 33 (Combination or a Series of Acts) under the DPA.
+II. Whether Respondent is liable under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25]] (Unauthorized Processing), [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28]] (Processing for Unauthorized Purposes), [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Section 29]] (Unauthorized Access or Intentional Breach), and [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|Section 33]] (Combination or a Series of Acts) under the DPA.
 
 ### Discussion
 
@@ -180,12 +182,12 @@ National Privacy Commission
 [^29]: Complaints-Assisted Form, 11 September 2019, in FCG v. Unipeso Lending Company Inc. (Handy Loan), NPC 19-1234 (NPC 2019).
 [^30]: *Id.*
 [^31]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the SIM Registration Act (2022).
-[^32]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act no. 10173, §3(g) (2012).
+[^32]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act no. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(g)]] (2012).
 [^33]: *Id.*
 [^34]: *Id.*
-[^35]: NPC Advisory Opinion No. 2018-002, dated 15 January 2018, Re: Commission on Audit (COA) Request for Access to Bangko Sentral ng Pilipinas (BSP) Employees' Directory.
+[^35]: [[advisory-opinions/2018/advisory-opinion-no-2018-002-npc-advisory-opinion-no-2018-002|NPC Advisory Opinion No. 2018-002]], dated 15 January 2018, Re: Commission on Audit (COA) Request for Access to Bangko Sentral ng Pilipinas (BSP) Employees' Directory.
 [^36]: *Id.*
-[^37]: NPC Advisory Opinion No. 2017-68, dated 22 November 2017, Re: Data Privacy Act And Its Implementing Rules And Regulations.
+[^37]: [[advisory-opinions/2017/advisory-opinion-no-2017-068-npc-advisory-opinion-no-2017-068|NPC Advisory Opinion No. 2017-68]], dated 22 November 2017, Re: Data Privacy Act And Its Implementing Rules And Regulations.
 [^38]: Office of the Ombudsman v. Fetalvero, G.R. No. 211450 (July 23, 2018).
 [^39]: Morales v. Ombudsman Conchita Carpio-Morales, et. al., G.R. No. 208086 (July 27, 2016).
 [^40]: *Id.*

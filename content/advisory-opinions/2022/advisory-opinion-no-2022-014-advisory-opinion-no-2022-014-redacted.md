@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2022
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2022-014"
+  - "npc advisory opinion no. 2022-014"
+  - "Advisory Opinion No. 2022-014"
+  - "advisory opinion no. 2022-014"
 ---
 
 ## Source
@@ -35,7 +40,7 @@ You now ask for the NPC’s guidance on whether the requirement of recording onl
 
 #### Lawful Criteria for Processing of Online Class Recordings; Educational Framework as the Contract Between the School and the Student
 
-Republic No. 10173 or the Data Privacy Act of 2012[^2] (DPA) is the law that governs the
+Republic No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) is the law that governs the
 processing of all types of personal information and provides for the rights of the data subjects.
 Recording of online classes and any kind of activity pertaining to the recording, be it
 uploading or storage, are considered as processing of personal data, considering the content
@@ -43,8 +48,8 @@ of the recording involves the names, images, videos, audio or other personal dat
 individuals in the online class. Thus, any activity done in relation to the online class must be
 in accordance with the provisions of the DPA.
 
-For the lawful criteria of processing of personal information, Section 12 of the law provides
-the instances when personal information may be processed, while Section 13 enumerates the
+For the lawful criteria of processing of personal information, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] of the law provides
+the instances when personal information may be processed, while [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]] enumerates the
 allowable grounds of processing of sensitive personal information.[^3] Should any of the
 grounds be present in the given scenario, there is lawful basis for the requirement of recording
 and uploading of online class sessions by the school.
@@ -158,8 +163,8 @@ Very truly yours,
 (Sgd.) FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: See Data Privacy Act of 2012, §§ 12-13.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: See Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§§ 12]]-[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]].
 [^4]: Non v. Danes II, 264 PHIL 98-131 (1990).
 [^5]: Isabelo, Jr. v. Perpetual Help College of Rizal, Inc., 298 PHIL 382-389 (1993).
 [^6]: Parents-Teachers Association of St. Mathew Christian Academy v. Metropolitan Bank and Trust Co., 627 PHIL 669-690 (2010).

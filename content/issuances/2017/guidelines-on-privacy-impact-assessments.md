@@ -10,6 +10,8 @@ tags:
 - issuance
 - type/advisory
 - year/2017
+- topic/data-subject-rights
+- topic/security
 draft: false
 date: '2017-07-31'
 ---
@@ -26,11 +28,11 @@ WHEREAS, Article II, Section 11 of the 1987 Constitution declares that the State
 
 WHEREAS, [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2 of the DPA]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth. The State also recognizes its inherent obligation to ensure that personal information in information and communications systems in the government and in the private sector are secured and protected;
 
-WHEREAS, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(c) of the DPA]] and Section 29 of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) provide that the determination of the appropriate level of security for an agency or organization processing personal data shall take into account the nature of the personal information to be protected, the risks represented by the processing to the rights and freedoms of data subjects, the size of the organization and complexity of its operations, current data privacy best practices, and the cost of security implementation;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(c) of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-29-appropriate-level-of-security|Section 29 of its Implementing Rules and Regulations]] ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) provide that the determination of the appropriate level of security for an agency or organization processing personal data shall take into account the nature of the personal information to be protected, the risks represented by the processing to the rights and freedoms of data subjects, the size of the organization and complexity of its operations, current data privacy best practices, and the cost of security implementation;
 
 WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the National Privacy Commission (NPC) is mandated to administer and implement the provisions of the [[laws/data-privacy-act-of-2012|DPA]], monitor and ensure compliance of the country with international standards set for data protection, and coordinate with government agencies and the private sector on efforts to formulate and implement plans and policies that strengthen the protection of personal information in the country;
 
-WHEREAS, Sections 4, 5, and 6 of NPC Circular 2016-01 requires government agencies to conduct a Privacy Impact Assessment (PIA) for each program, process, or measure within the agency that involves personal data. At the same time, Section 6 of NPC Circular 2016-03 recommends the conduct of a PIA as part of any organization’s security incident management policy.
+WHEREAS, Sections 4, 5, and 6 of [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular 2016-01]] requires government agencies to conduct a Privacy Impact Assessment (PIA) for each program, process, or measure within the agency that involves personal data. At the same time, Section 6 of [[issuances/undated/personal-data-breach-management|NPC Circular 2016-03]] recommends the conduct of a PIA as part of any organization’s security incident management policy.
 
 WHEREFORE, in consideration of the foregoing premises, the NPC hereby issues this Advisory that prescribes guidelines for the conduct of a Privacy Impact Assessment:
 
@@ -46,7 +48,7 @@ For the purpose of this Advisory, the following terms are defined, as follows:
 
 - **B. “Commission” or “NPC”** refers to the National Privacy Commission;
 
-- **C. “Compliance Officer for Privacy” or “COP”** refers to an individual that performs some of the functions of a DPO, as provided in NPC Advisory No. 17-01;
+- **C. “Compliance Officer for Privacy” or “COP”** refers to an individual that performs some of the functions of a DPO, as provided in [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 17-01]];
 
 - **D. “Control Framework”** refers to a comprehensive enumeration of measures a PIC or PIP has established for the protection of personal data against natural dangers such as accidental loss or destruction, and human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration and contamination;
 

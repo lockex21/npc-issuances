@@ -7,6 +7,12 @@ tags:
   - year/2017
   - cross-border-processing
   - data-privacy-act
+  - topic/cross-border-transfers
+aliases:
+  - "NPC Advisory Opinion No. 2017-012"
+  - "npc advisory opinion no. 2017-012"
+  - "Advisory Opinion No. 2017-012"
+  - "advisory opinion no. 2017-012"
 draft: false
 ---
 
@@ -40,4 +46,4 @@ Sincerely,
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: RA 10173, §4 and 6; IRR of RA No. 10173, §4.
+[^1]: [[laws/data-privacy-act-of-2012#section-4-scope|RA 10173, §4]] and [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|6]]; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|IRR of RA No. 10173, §4]].

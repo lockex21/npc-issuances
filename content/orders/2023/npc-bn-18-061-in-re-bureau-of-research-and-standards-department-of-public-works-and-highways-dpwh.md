@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2023"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2023-05-11"
 draft: false
 ---
@@ -47,7 +48,7 @@ To address the breach, DPWH stated that it pursued the following courses of acti
 
 Subsequently, the CID issued an Order dated 22 November 2021, with the following dispositive portion:
 
-> Pursuant to Section 9, Rule IV of the NPC Circular No. 16-03 on Personal Data Management, you are hereby required to submit a Post-Breach Report detailing following requirements:
+> Pursuant to Section 9, Rule IV of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] on Personal Data Management, you are hereby required to submit a Post-Breach Report detailing following requirements:
 >
 > 1. Results of the Department's request with Google to have the list removed from the search engines;
 >
@@ -101,7 +102,7 @@ On 18 November 2022, DPWH submitted its Post Breach Report, attaching therein th
 
 To properly resolve the breach incident, the Commission directs DPWH to submit proof of notification to the affected data subjects.
 
-NPC Circular No. 16-03 (Personal Data Management) Rule V Sections 18(A) and (D) state that:
+[[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Management) Rule V Sections 18(A) and (D) state that:
 
 > SECTION 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -117,11 +118,11 @@ It bears stressing that submission of a letter of notification allegedly sent to
 
 > It is noteworthy that the avowed purpose of the required notification to data subjects of a breach incident is for them to take the necessary precautions or other measures to protect themselves against possible effects of the breach. Moreover, personal information controllers (PICs) are required to establish all reasonable mechanisms to ensure that all affected data subjects are made aware of the breach. It therefore follows that PICs should guarantee that the notification they sent to data subjects has been received. Otherwise, it defeats the very purpose of notification of data subjects.[^18]
 
-Unfortunately, DPWH failed to show that they notified the affected data subjects because it only submitted a copy of the letter it purportedly sent to them, thereby defeating the avowed purpose of the notification requirement under NPC Circular 16-03.
+Unfortunately, DPWH failed to show that they notified the affected data subjects because it only submitted a copy of the letter it purportedly sent to them, thereby defeating the avowed purpose of the notification requirement under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
 Further, in DPWH's Initial Report, it stated that the personal information involved in the incident includes the home address and phone number of one thousand eighty-two (1,082) data subjects.[^19] This significant number further emphasizes the need to ensure that they were properly notified.
 
-In this regard, Section 13 of the same Circular provides:
+In this regard, [[issuances/undated/personal-data-breach-management|Section 13 of the same Circular]] provides:
 
 > SECTION 13. Determination of the Need to Notify. Where there is uncertainty as to the need for notification, the personal information controller shall take into account, as a primary consideration, the likelihood of harm or negative consequences on the affected data subjects, and how notification, particularly of the data subjects, could reduce the risks arising from the personal data breach reasonably believed to have occurred. The personal information controller shall also consider if the personal data reasonably believed to have been compromised involves:
 >
@@ -183,8 +184,8 @@ GENERAL RECORDS UNIT
 [^13]: Post Breach Report dated 18 November 2022, in In re: Bureau of Research and Standards – Department of Public Works and Highways, NPC BN 18-061 (NPC 2018), referred to as Annex A.
 [^14]: Id., referred to as Annex B.
 [^15]: Id., referred to as Annex C.
-[^16]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §18(A) (15 December 2016).
-[^17]: NPC Circular 16-03, rule V, §18(D).
+[^16]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §18(A) (15 December 2016).
+[^17]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, §18(D).
 [^18]: In re: Magsaysay Shipmanagement, Inc., NPC BN 20-161, Resolution dated 17 December 2020.
 [^19]: Initial Report dated 24 April 2018 of DPWH, at p. 1.
-[^20]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §13 (15 December 2016).
+[^20]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §13 (15 December 2016).

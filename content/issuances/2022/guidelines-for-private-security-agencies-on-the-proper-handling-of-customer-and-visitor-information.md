@@ -101,7 +101,7 @@ Security Guards and other Private Security Personnel in the Private Security Ind
          5. The geographic location of the processing under the agreement;
          6. The obligations and rights of PICs;
          7. The specific obligations of PSAs taking into consideration the mandatory stipulations
-            under Section 44 (b) of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR of the DPA]]; and
+            under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|Section 44 (b) of the IRR of the DPA]]; and
          8. The duty of PSAs to comply with the requirements of the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], other
             relevant issuances of the Commission, other applicable laws, and any other obligations
             with the PICs.

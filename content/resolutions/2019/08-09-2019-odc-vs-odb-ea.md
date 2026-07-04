@@ -11,6 +11,9 @@ tags:
   - "type/resolution"
   - "npc-case"
   - "year/2019"
+  - "topic/children"
+  - "topic/consent"
+  - "topic/data-sharing"
 date: "2019-08-09"
 draft: false
 ---
@@ -52,7 +55,7 @@ For this Commission’s resolution is the Motion for Reconsideration dated 20 De
 
 The facts are the following:
 
-On 3 February 2017, Complainant filed a formal complaint before this Commission alleging that Respondent ODB, without consent, deducted from his ODB Savings Account his unpaid balance in his AE Credit Card. According to Complainant, his personal data was processed without his consent, thus, a clear violation of the Data Privacy Act of 2012 (DPA).
+On 3 February 2017, Complainant filed a formal complaint before this Commission alleging that Respondent ODB, without consent, deducted from his ODB Savings Account his unpaid balance in his AE Credit Card. According to Complainant, his personal data was processed without his consent, thus, a clear violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 On 10 April 2017, Respondent ODB filed a Comment[^1] stating therein that the complaint should be dismissed due to several grounds. According to Respondent ODB, Complainant committed forum shopping as a prior complaint before the Bangko Sentral ng Pilipinas (BSP) has been lodged. Further, the complaint does not involve any violation of the DPA as no data sharing to a third party took place considering that Respondent ODB is the issuer of Complainant’s AE card. Respondent ODB likewise argued that Complainant was legally and contractually bound to pay his credit card bill.
 
@@ -90,7 +93,7 @@ Businesses and their lawyers must realize that personal data processing is now s
 
 Admittedly, there is transparency tension whenever legalese cross paths with user expectation. This tension often appears in situations where a power imbalance is present. Power imbalance in data privacy parlance is a condition where meaningful information for the data subject becomes more difficult to obtain especially when the controller, like a bank, hold considerable power over a depositor or customer because they are offering financial services that is vital to the needs of an individual. This situation presents itself in other contexts such as in the health sector where a hospital or a health professional wields considerable power over a patient and even in schools where administrators and teachers exercise a significant degree of control over students.
 
-Incidentally, these industries and sectors have been identified by the Commission to belong to a set of personal information controllers and processor that practice larger-scale and a higher-risk type of processing compared to other PICs and PIPs. They are all contained in Appendix 1 of NPC Circular 17-01 on the Registration of Data Processing Systems and Notification Regarding Automated Decision-Making[^7]. A bank and a credit card issuer like Respondent ODB belongs to one of these sectors. Since it practices a higher-risk type of processing that could lead to situations where a data subject may experience risks or threats or exposed to harm or even pain, it is expected that the data subject should be provided with clear, concise, intelligible, and easy to understand information to guide and provide them with a clear picture and a genuine choice about the use of their personal data.
+Incidentally, these industries and sectors have been identified by the Commission to belong to a set of personal information controllers and processor that practice larger-scale and a higher-risk type of processing compared to other PICs and PIPs. They are all contained in Appendix 1 of [[issuances/undated/registration-of-data-processing-systems|NPC Circular 17-01]] on the Registration of Data Processing Systems and Notification Regarding Automated Decision-Making[^7]. A bank and a credit card issuer like Respondent ODB belongs to one of these sectors. Since it practices a higher-risk type of processing that could lead to situations where a data subject may experience risks or threats or exposed to harm or even pain, it is expected that the data subject should be provided with clear, concise, intelligible, and easy to understand information to guide and provide them with a clear picture and a genuine choice about the use of their personal data.
 
 The NPC is aware of these contexts and seeks to reduce this tension. This is the reason why in these imbalanced conditions, the NPC takes a harder look on how controllers adhere to the principles of personal data processing, namely: transparency, legitimate purpose and proportionality. This Commission stands firm that the onus in resolving this transparency tension between legal mandates and user expectation lies with the business or the personal information controller and its processors. By treating data privacy accountability to their customers more seriously and having the data subject’s interest in mind, this tension can be reduced and potential transparency violations to the DPA prevented.
 
@@ -371,7 +374,7 @@ This case raises for the Commission’s consideration the issue of
 
 whether respondent ODB violated the principle of transparency under
 
-RA 10173 or the Data Privacy Act of 2012 (“DPA”) 10 by not informing
+RA 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (“DPA”) 10 by not informing
 
 complainant O DC when it opted to exercise its right to debit from his
 
@@ -1388,10 +1391,10 @@ Deputy Privacy Commissioner
 [^1]: Records, p. 19.
 [^2]: Decision dated 04 December 2017 at p. 9; Penned by Privacy Commissioner Raymund E. Liboro with Deputy Privacy Commissioner Ivy Patdu concurring.
 [^3]: *Id.*, at p. 9.
-[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector (Data Privacy Act of 2012) Chapter III Section 11.
+[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector ([[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]) Chapter III [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11]].
 [^5]: Recital 39 of the European General Data Protection Regulation (GDPR) available at http://www.privacyregulation.eu/en/recital-39GDPR.htm
 [^6]: Fergal McGovern, The GDPR and Plain Language: What you need to do to comply, available at https://www.cmswire.com/digital-experience/the-gdpr-and-plain-language-what-you-need-to-do-to-comply/, October 18, 2017.
-[^7]: National Privacy Circular 17-01 Registration of Data Processing Systems and Notification Regarding Automated Decision Making.
+[^7]: [[issuances/undated/registration-of-data-processing-systems|National Privacy Circular 17-01 Registration of Data Processing Systems and Notification Regarding Automated Decision Making]].
 [^8]: Terms and Conditions for issuance and use of the AE Credit Cards available at https://www.odb.com.ph/sites/default/files/pdf/AE-TCS.pdf / October 2013
 [^9]: Terms and Conditions for issuance and use of the AE Credit Cards available at https://www.odb.com.ph/sites/default/files/pdf/AE-TCS.pdf / March 2019
 [^10]: "An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes."
@@ -1410,16 +1413,16 @@ Deputy Privacy Commissioner
 [^23]: *Ibid.*, at p. 9.
 [^24]: Re: Letter of Lucena Ofendo Reyes Alleging Illicit Activities Of A Certain Atty. Cajayon Involving Cases In The Court Of Appeals, Cagayan De Oro City, A.M. No. 16-12-03-CA, 06 June 2017.
 [^25]: ODC Affidavit dated 03 February 2017.
-[^26]: IRR, Sec. 18.
+[^26]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|IRR, Sec. 18]].
 [^27]: Guidelines on transparency under Regulation 2016/679 of the Article 29 Working Party, 11 April 2018, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=622227.
 [^28]: *Ibid.*
-[^29]: IRR, Sec. 18.
+[^29]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|IRR, Sec. 18]].
 [^30]: Regulation (EU) 2016/679 of the European Parliament and of the Council (General Data Protection Regulation), 27 April 2016.
 [^31]: European Data Protection Board Endorsement 1/2018, 25 May 2018, available at https://edpb.europa.eu/sites/edpb/files/files/news/endorsement_of_wp29_documents_en_0.pdf.
 [^32]: Guidelines on Transparency under Regulation 2016/679 of the Article 29 Working Party, 11 April 2018, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=622227. Emphasis supplied.
-[^33]: Section 16(b), RA 10173.
+[^33]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(b), RA 10173]].
 [^34]: Guidelines on Transparency under Regulation 2016/679 of the Article 29 Working Party, 11 April 2018, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=622227. Emphasis supplied.
-[^35]: Section 16(b), RA 10173.
+[^35]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(b), RA 10173]].
 [^36]: Guidelines on Transparency under Regulation 2016/679 of the Article 29 Working Party, 11 April 2018, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=622227.
 [^37]: Resolution, NPC Case No. 17-001, p. 4, citing Fergal McGovern, The GDPR and Plain Language: What you need to do to comply, available at https://www.cmswire.com/digital-experience/the-gdpr-and-plain-language-what-you-need-to-do-to-comply/.
 [^38]: Guidelines on Transparency under Regulation 2016/679 of the Article 29 Working Party, 11 April 2018, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=622227. Emphasis supplied.

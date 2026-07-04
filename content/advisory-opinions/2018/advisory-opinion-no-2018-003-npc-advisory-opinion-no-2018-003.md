@@ -5,7 +5,14 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/consent
+  - topic/security
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-003"
+  - "npc advisory opinion no. 2018-003"
+  - "Advisory Opinion No. 2018-003"
+  - "advisory opinion no. 2018-003"
 ---
 
 ## Source
@@ -30,7 +37,7 @@ This pertains to your query received by the National Privacy Commission (NPC) vi
 
 In your inquiry, you have mentioned that for every visitor entering the building or office, you require them to provide certain information in the logbook, such as: (1) name; (2) time of arrival; (3) time of departure; and (4) signature, and visitors are likewise required to surrender one (1) government-issued identification card, in exchange for the visitor’s pass.
 
-These information are considered as personal and sensitive personal information under the Data Privacy Act of 2012 (DPA).[^1] Specifically, the name and signature of the individual or visitor are considered as personal information.[^2] On the other hand, the government-issued identification card containing the number specifically assigned to the individual by the issuing government agency is considered as sensitive personal information.[^3]
+These information are considered as personal and sensitive personal information under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^1] Specifically, the name and signature of the individual or visitor are considered as personal information.[^2] On the other hand, the government-issued identification card containing the number specifically assigned to the individual by the issuing government agency is considered as sensitive personal information.[^3]
 
 ### Discussion
 
@@ -44,7 +51,7 @@ Kindly note that Singapore’s data protection authority, the Personal Data Prot
 
 With regards to consent of data subjects, a personal information controller may lawfully process personal information if the circumstance falls under any of the criteria for lawful processing of personal information, consent being one of them.[^7] Legitimate interest is also a criterion for processing personal information. Please refer to [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] for the criteria for lawful processing of sensitive personal information.
 
-On the registration requirement, NPC issued a circular – *Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making*,[^8] Section 5 of which provides:
+On the registration requirement, NPC issued a circular – *[[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making]]*,[^8] Section 5 of which provides:
 
 > **SECTION 5: Mandatory Registration.** A PIC or PIP shall register its data processing system if it is processing personal data and operating in the country under any of the following conditions:
 >
@@ -75,12 +82,12 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: Republic Act No. 10173, An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and in the Private Sector, Creating for this purpose a National Privacy Commission and for other purposes, “Data Privacy Act of 2012” (15 August 2012).
-[^2]: *Id.*, §3(g).
-[^3]: *Id.*, §3(l).
-[^4]: *Id.*, §21.
+[^1]: [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and in the Private Sector, Creating for this purpose a National Privacy Commission and for other purposes, “Data Privacy Act of 2012” (15 August 2012).
+[^2]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(g)]].
+[^3]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(l)]].
+[^4]: *Id.*, [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|§21]].
 [^5]: Investigation under Section 50(1) of the PDPA 2012 and MCST 3696. Eagle Eye, Case Number: DP-1610-B0275, 29 June 2017. Available at https://www.pdpc.gov.sg/docs/default-source/enforcement-data-protection-cases/grounds-of-decision---eagle-eye---290617.pdf?sfvrsn=2. (Last accessed 13 December 2017).
 [^6]: *Id.*
-[^7]: *Supra* note 1, §12.
-[^8]: See NPC Circular No. 2017-01.
-[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the RA No. 10173, §3(e).
+[^7]: *Supra* note 1, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12]].
+[^8]: See [[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 2017-01]].
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the RA No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|§3(e)]].

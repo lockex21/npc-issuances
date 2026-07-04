@@ -11,6 +11,9 @@ tags:
   - "type/decision"
   - "year/2018"
   - "npc-case"
+  - "topic/consent"
+  - "topic/employment"
+  - "topic/government"
 date: "2023-02-22"
 draft: false
 ---
@@ -80,7 +83,7 @@ x----------------------------------------------------x
 
 NAGA, Privacy Commissioner:
 
-Before this Commission are the consolidated Complaints filed by JVT, LAR, CCW, and MLS (Complainants) against VMA for an alleged violation of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission are the consolidated Complaints filed by JVT, LAR, CCW, and MLS (Complainants) against VMA for an alleged violation of the [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -90,7 +93,7 @@ In their respective Complaint-Affidavits, JVT, LAR, and CCW averred that they ar
 
 Complainants stated that their PDS contained personal and sensitive personal information such as age, marital status, religious affiliation, education, and government-issued ID peculiar to an individual, including Tax Identification Number (TIN), Social Security System (SSS) ID, and Voter's ID.[^5]
 
-Complainants alleged that VMA violated their rights as data subjects and their right to privacy by failing to uphold Section 11 (General Privacy Principles) and Sections 12 and 13 (Criteria for Lawful Processing of Personal Information and Sensitive Personal Information) of the DPA.[^6]
+Complainants alleged that VMA violated their rights as data subjects and their right to privacy by failing to uphold [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 (General Privacy Principles)]] and [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13 (Criteria for Lawful Processing of Personal Information and Sensitive Personal Information)]] of the DPA.[^6]
 
 On 09 May 2018, MLS alleged in his Affidavit-Complaint that he wrote a letter to VMA asking for an explanation on why no criminal, civil, or administrative charges should be filed against her for the alleged acquisition of his PDS from the Human Resource Personnel of the OTC without his consent and for an unknown purpose.[^7]
 
@@ -140,7 +143,7 @@ The Commission dismisses the complaint for lack of merit.
 
 Complainants alleged that VMA, State Auditor IV, Audit Team Leader of DOTR 2 Audit Group assigned at the OTC, requested and collected, for unspecified, undeclared, and illegitimate purpose, copies of their PDS without their knowledge, information, consent, authorization, or agreement for its collection and processing.[^29]
 
-Complainants argued that their rights to data privacy have been violated by VMA[^30] and stated that the processing of personal information must conform to Section 11 (General Privacy Principles) and Sections 12 and 13 (Criteria for Lawful Processing of Personal Information and Sensitive Personal Information) of DPA. Lastly, Complainants alleged that the act of VMA does not fall under any of the exemptions provided for under the law [DPA].[^31]
+Complainants argued that their rights to data privacy have been violated by VMA[^30] and stated that the processing of personal information must conform to [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 (General Privacy Principles)]] and [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13 (Criteria for Lawful Processing of Personal Information and Sensitive Personal Information)]] of DPA. Lastly, Complainants alleged that the act of VMA does not fall under any of the exemptions provided for under the law [DPA].[^31]
 
 VMA argued that state auditors are required to audit contracts of services pursuant to the General Audit Instructions for CY 2017 and the Audit Area for the Specific Audit Instructions issued by the Cluster Director of the Cluster 7, National Government Sector, COA and the Supervising Auditor Department of Transportation 2 Audit Group for the preparation of the CY 2017 Annual Audit Report/Management Letter.[^32] She also alleged that the PDS of COS personnel hired by OTC were needed in the verification part of the auditing procedures to determine whether the qualification standards set by the OTC were met by these personnel, whether the hiring of such number of personnel was indeed necessary, and whether such hiring was part of the Annual Procurement Plan of the OTC pursuant to Sections 39 and 45 of P.D. 1445.[^33] VMA argues that her actions were officially performed as part of her duties and responsibilities as the Audit Team Leader.[^34]
 
@@ -346,7 +349,7 @@ GENERAL RECORDS UNIT
 
 [^35]: *Id.*, at pp. 2-3.
 
-[^36]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3(j) (2012).
+[^36]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(j)]] (2012).
 
 [^37]: Complaint-Affidavit dated 18 April 2018 of JVT, at p. 2; Complaint-Affidavit dated 18 April 2018 of LAR, at p. 2; Complaint-Affidavit dated 18 April 2018 of CCW, at p. 2; and Affidavit-Complaint dated 09 May 2018 of MLS at p. 1.
 
@@ -356,7 +359,7 @@ GENERAL RECORDS UNIT
 
 [^40]: *Id.*, at pp. 7-8.
 
-[^41]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 13 (2012).
+[^41]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]] (2012).
 
 [^42]: Complaint-Affidavit dated 18 April 2018 of JVT, at p. 2; Complaint-Affidavit dated 18 April 2018 of LAR, at p. 2; Complaint-Affidavit dated 18 April 2018 of CCW, at p. 2; and Affidavit-Complaint dated 09 May 2018 of MLS, at p. 1.
 
@@ -366,9 +369,9 @@ GENERAL RECORDS UNIT
 
 [^45]: *VVC v. CJB*, NPC 19-134, Decision dated 10 December 2021, at p. 15.
 
-[^46]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 12 (2012).
+[^46]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]] (2012).
 
-[^47]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 13 (2012).
+[^47]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]] (2012).
 
 [^48]: Philippine Constitution, Article IX (D)(2), 1987.
 

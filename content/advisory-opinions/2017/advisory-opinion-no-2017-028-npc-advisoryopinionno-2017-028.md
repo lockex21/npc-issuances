@@ -1,10 +1,18 @@
 ---
 title: "NPC Advisory Opinion No. 2017-028 — Data Sharing Agreement Between Government Agencies"
 description: "Guidance on data sharing between government agencies, including requirements for legal basis and informed consent in data warehouse processing."
+aliases:
+  - "NPC Advisory Opinion No. 2017-028"
+  - "npc advisory opinion no. 2017-028"
+  - "Advisory Opinion No. 2017-028"
+  - "advisory opinion no. 2017-028"
 tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/consent
+  - topic/data-sharing
+  - topic/government
 draft: false
 ---
 
@@ -34,7 +42,7 @@ This is with regard to your queries received by the National Privacy Commission 
 
 #### Data Sharing Between Government Agencies
 
-Section 20 of the Implementing Rules and Regulation (IRR) of the Data Privacy Act of 2012 (DPA) provides for the general requirements when data sharing is allowed, i.e., when it is expressly authorized by law and provided that there are adequate safeguards for data privacy and security, and that processing adheres to principle of transparency, legitimate purpose, and proportionality.[^1]
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20]] of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulation (IRR)]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) provides for the general requirements when data sharing is allowed, i.e., when it is expressly authorized by law and provided that there are adequate safeguards for data privacy and security, and that processing adheres to principle of transparency, legitimate purpose, and proportionality.[^1]
 
 Particularly for data sharing between government agencies, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20(d) of the IRR]] applies. It states that:
 
@@ -43,7 +51,7 @@ Particularly for data sharing between government agencies, [[laws/implementing-r
 > 1. Any or all government agencies party to the agreement shall comply with the Act, these Rules, and all other issuances of the Commission, including putting in place adequate safeguards for data privacy and security.
 > 2. The data sharing agreement shall be subject to review of the Commission, on its own initiative or upon complaint of data subject. (Underscoring supplied)
 
-The Commission has also issued NPC Circular 16-02 which sets out guidelines for data sharing agreements involving government agencies. Section 1 of the Circular provides:
+The Commission has also issued [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular 16-02]] which sets out guidelines for data sharing agreements involving government agencies. Section 1 of the Circular provides:
 
 > **SECTION 1. General Principle.** To facilitate the performance of a public function or the provision of a public service, a government agency may share or transfer personal data under its control or custody to a third party through a data sharing agreement: *Provided,* that nothing in this Circular shall be construed as prohibiting or limiting the sharing or transfer of any personal data that is already authorized or required by law.
 
@@ -67,7 +75,7 @@ The DPA defines consent as any freely given, specific, informed indication of wi
 
 Considering these provisions, it cannot be said that a data subject is giving an informed consent when he or she is not provided with pertinent information regarding the collection and processing of his or her personal information.
 
-However, with regard to personal data mined for general purposes in a data warehouse, it is possible that the personal data may still be subject of data sharing even without consent of data subject as the processing may fall under any of the listed criteria for lawful processing specified in Sections 12 and 13 of the DPA. Personal data collected for other purposes may also be processed for historical, statistical or scientific purposes, and in cases laid down in law may be stored for longer periods provided that adequate safeguards are guaranteed by said laws authorizing their processing.
+However, with regard to personal data mined for general purposes in a data warehouse, it is possible that the personal data may still be subject of data sharing even without consent of data subject as the processing may fall under any of the listed criteria for lawful processing specified in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA. Personal data collected for other purposes may also be processed for historical, statistical or scientific purposes, and in cases laid down in law may be stored for longer periods provided that adequate safeguards are guaranteed by said laws authorizing their processing.
 
 For your reference.
 
@@ -77,9 +85,9 @@ IVY GRACE T. VILLASOTO
 Chief
 Policy Development Division
 
-[^1]: See: IRR of RA No. 10173, §20(a)
-[^2]: NPC Circular No. 16-03, §4
+[^1]: See: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|IRR of RA No. 10173, §20(a)]]
+[^2]: [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], §4
 [^3]: Id.
 [^4]: ABAKADA Guro Party List vs. Purisima, G.R. No. 166715, August 14, 2008.
-[^5]: RA No. 10173, §3(b)
-[^6]: See: RA No. 10173, §16(a) and (b)
+[^5]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(b)]]
+[^6]: See: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|RA No. 10173, §16(a) and (b)]]

@@ -11,6 +11,9 @@ tags:
   - "type/decision"
   - "year/2021"
   - "npc-case"
+  - "topic/cctv-surveillance"
+  - "topic/consent"
+  - "topic/legitimate-interest"
 date: "2022-09-22"
 draft: false
 ---
@@ -47,7 +50,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before this Commission is a Complaint filed by EG against JI, RO, and RR (collectively, Respondents) for an alleged violation of Section 32 of Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by EG against JI, RO, and RR (collectively, Respondents) for an alleged violation of [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173, or the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -412,16 +415,16 @@ GENERAL RECORDS UNIT
 [^64]: Id., at ¶ 27.
 [^65]: Memorandum dated 22 February 2022 of Respondents JI, RO, and RR, at ¶ 22.
 [^66]: Id., at ¶ 22.
-[^67]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 32 (2012).
-[^68]: NPC 21-010 to 21-015, Decision dated 03 February 2022, at p. 11.
-[^69]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3 (h) (2012).
-[^70]: Data Privacy Act of 2012, § 3 (i).
+[^67]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter VIII, [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|§ 32]] (2012).
+[^68]: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010 to 21-015]], Decision dated 03 February 2022, at p. 11.
+[^69]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]] (2012).
+[^70]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (i)]].
 [^71]: Comment dated 25 September 2021 of Respondents JI, RO, and RR, at p. 1.
 [^72]: Memorandum dated 22 February 2022 of Respondents JI, RO, and RR, at ¶ 17.
 [^73]: Memorandum of Complainant EG dated 23 February 2022, at ¶ 12.
-[^74]: Section 3 (g) of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012
-[^75]: National Privacy Commission, Guidelines on the use of Closed-Circuit Television (CCTV) Systems, NPC Advisory 2020-04, § 3 (c) (16 November 2020) (NPC Advisory 2020-04).
-[^76]: National Privacy Commission Advisory Opinion No. 2019-023 dated 13 June 2019, Re: Processing of CCTV Footage Under the Data Privacy Act of 2012, at p. 2.
+[^74]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (g)]] of Republic Act No. 10173, otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
+[^75]: National Privacy Commission, Guidelines on the use of Closed-Circuit Television (CCTV) Systems, [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|NPC Advisory 2020-04]], § 3 (c) (16 November 2020) (NPC Advisory 2020-04).
+[^76]: National Privacy Commission [[advisory-opinions/2019/advisory-opinion-no-2019-023-npc-advisory-opinion-no-2019-023|Advisory Opinion No. 2019-023]] dated 13 June 2019, Re: Processing of CCTV Footage Under the Data Privacy Act of 2012, at p. 2.
 [^77]: Complaint-Affidavit dated 26 May 2021 of EG, at ¶ 5.
 [^78]: Comment dated 25 September 2021 of Respondents JI, RO, and RR, at p. 3.
 [^79]: Disclosure (Definition), 2017 Glossary of HIPAA Related Terms, Indiana University.
@@ -432,17 +435,17 @@ GENERAL RECORDS UNIT
 [^84]: Complaint-Affidavit dated 26 May 2021 of EG, at ¶ 11.
 [^85]: Comment dated 25 September 2021 of Respondents JI, RO, and RR, at p. 2.
 [^86]: Memorandum dated 22 February 2022 of Respondents JI, RO, and RR, at ¶ 26.
-[^87]: Section 7, of NPC Advisory 2020-04, otherwise known as Guidelines on the use of Closed-Circuit Television (CCTV) Systems.
+[^87]: Section 7, of [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|NPC Advisory 2020-04]], otherwise known as Guidelines on the use of Closed-Circuit Television (CCTV) Systems.
 [^88]: Delgado v. HIRET, G.R. No. 219603, 26 January 2016
 [^89]: Monfinola vs. Philippine Airlines, G.R. No. 198656, 8 September 2014.
 [^90]: Tzu Sun Wong vs. Kenny Wong, G.R. No. 180364, 03 December 2014.
 [^91]: Tzu Sun Wong vs. Kenny Wong, G.R. No. 180364, 03 December 2014, citing *Alcazar vs. Arante*, G.R. No. 177042, 10 December 2012.
 [^92]: Complaint-Affidavit dated 26 May 2021 of EG, at ¶ 11.
-[^93]: Section 12 (f) and Section 13 (f) of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012
-[^94]: Guidelines on the use of Closed-Circuit Television (CCTV) Systems, NPC Advisory 2020-04, § 9
+[^93]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f)]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] of Republic Act No. 10173, otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
+[^94]: Guidelines on the use of Closed-Circuit Television (CCTV) Systems, [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|NPC Advisory 2020-04]], § 9
 [^95]: Comment dated 25 September 2021 of Respondents JI, RO, and RR, at p. 2.
 [^96]: Memorandum dated 22 February 2022 of Respondents JI, RO, and RR, See: Annex "B".
 [^97]: Id., See: Annex "F".
-[^98]: KRL vs. Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, PB, CID Case no. 17-K-003, dated 19 November 2019.
-[^99]: JCB vs. FRL, NPC 21-031, dated 03 March 2022
+[^98]: [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|KRL vs. Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, PB]], CID Case no. 17-K-003, dated 19 November 2019.
+[^99]: [[decisions/2022/npc-21-031-jcb-v-frl|JCB vs. FRL]], NPC 21-031, dated 03 March 2022
 [^100]: Comment dated 25 September 2021 of Respondents JI, RO, and RR, at p. 3.

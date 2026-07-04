@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+  - topic/data-sharing
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-004"
+  - "npc advisory opinion no. 2019-004"
+  - "Advisory Opinion No. 2019-004"
+  - "advisory opinion no. 2019-004"
 ---
 
 ## Source
@@ -27,7 +33,7 @@ We write in response to your request for guidance on data-sharing arrangements e
 
 We understand that PLDT frequently enters into agreements with offshore companies to be able to provide products and services to its clients. These offshore companies either act as a personal information controller (PIC) or a personal information processor (PIP) depending upon the nature of service that they provide and the purpose of engagement.
 
-We understand further that contractual discussions on compliance with the Data Privacy Act of 2012 (DPA)[^2] have been a challenge for PLDT as these offshore companies may be unwilling to agree to data privacy commitments. Hence, you ask for guidance on possible courses of action or any framework that has been agreed upon by data privacy authorities to address the matter.
+We understand further that contractual discussions on compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^2] have been a challenge for PLDT as these offshore companies may be unwilling to agree to data privacy commitments. Hence, you ask for guidance on possible courses of action or any framework that has been agreed upon by data privacy authorities to address the matter.
 
 ### Discussion
 
@@ -57,7 +63,7 @@ It is recognized under the DPA that PICs may enter into agreements with other en
 
 > SECTION 14. Subcontract of Personal Information. — A PIC may subcontract the processing of personal information, provided, that the PIC shall be responsible for ensuring that proper safeguards are in place to ensure the confidentiality of the personal information processed, prevent its use for unauthorized purposes, and generally, comply with the requirements of this Act and other laws for processing of personal information. The personal information processor shall comply with all the requirements of this Act and other applicable laws.
 
-In addition, Section 21 on accountability states as follows:
+In addition, [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21]] on accountability states as follows:
 
 > SECTION 21. Principle of Accountability. — Each personal information controller is responsible for personal information under its control or custody, including information that have been transferred to a third party for processing, whether domestically or internationally, subject to cross-border arrangement and cooperation.
 >
@@ -97,5 +103,5 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: Tags: data sharing, outsourcing, personal information controller, personal information processor, compliance
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies Circular No. 16-02 [NPC Circular 16-02] (10 October 2016).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: National Privacy Commission, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies Circular No. 16-02]] [NPC Circular 16-02] (10 October 2016).

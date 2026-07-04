@@ -10,6 +10,7 @@ tags:
   - issuance
   - type/advisory
   - year/2021
+  - topic/cross-border-transfers
 date: "2021-06-28"
 draft: false
 ---
@@ -212,14 +213,14 @@ The ASEAN MCCs can be accessed at https://asean.org/storage/3-ASEAN-Model-Contra
 
    The DMF provides organizations with practical guidance to enable them to build their own policies and procedures using a risk-based data management methodology. The DMF is designed to provide voluntary and non-binding guidance based on best practices in the area of data management for businesses within AMS. The content should not be read as legal advice, nor construed as a tool for compliance to any law or regulation.
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012), § 2.
-[^2]: *Id.*, § 7(n).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012), [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|§ 2]].
+[^2]: *Id.*, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|§ 7(n)]].
 [^3]: ASEAN Member States include Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Viet Nam.
 [^4]: ISO, ISO/IEC TR 10032:2003(en) Information technology — Reference Model of Data Management, available *at* https://www.iso.org/obp/ui/#iso:std:iso-iec:38505:-1:ed-1:v1:en (last accessed April 15, 2021).
 [^5]: ISO, ISO 8000-2:2020(en) Data quality — Part 2: Vocabulary, *available at* https://www.iso.org/obp/ui/#iso:std:iso:8000:-2:ed-4:v1:en:term:3.16.1 (last accessed April 15, 2021).
-[^6]: Data Privacy Act of 2012, § 3 (m).
-[^7]: Data Privacy Act of 2012, § 3 (n).
-[^8]: *Id.* § 3(o).
+[^6]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (m)]].
+[^7]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (n)]].
+[^8]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(o)]].
 [^9]: The ASEAN MCCs can be accessed at https://asean.org/storage/3-ASEAN-Model-Contractual-Clauses-for-Cross-Border-Data-Flows_Final.pdf and the ASEAN DMF document at https://asean.org/storage/2-ASEAN-Data-Management-Framework_Final.pdf
 
 ## Source

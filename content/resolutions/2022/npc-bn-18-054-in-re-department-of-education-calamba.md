@@ -11,6 +11,10 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/employment"
+  - "topic/online-lending"
+  - "topic/security"
 date: "2024-09-17"
 draft: false
 ---
@@ -131,7 +135,7 @@ Whether DepEd Calamba has sufficiently complied with the Order dated 15 July 202
 
 ### Discussion
 
-The Commission finds that DepEd Calamba has sufficiently complied with the Order dated 15 July 2022 since the affected data subjects were sufficiently notified in accordance with NPC Circular 16-03, and that DepEd Calamba has implemented reasonable and appropriate security measures to address the breach and prevent a recurrence of the incident. As such, the Commission resolves to consider the matter closed.
+The Commission finds that DepEd Calamba has sufficiently complied with the Order dated 15 July 2022 since the affected data subjects were sufficiently notified in accordance with [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], and that DepEd Calamba has implemented reasonable and appropriate security measures to address the breach and prevent a recurrence of the incident. As such, the Commission resolves to consider the matter closed.
 
 #### *I. DepEd Calamba sufficiently notified the data subjects who were affected by the breach.*
 
@@ -272,9 +276,9 @@ National Privacy Commission
 [^27]: Notification on DepEd Data Breach dated 24 April 2018 of Department of Education-Calamba.
 [^28]: Department of Education Region IV-A CALABARZON Data Privacy Manual of Department of Education-Calamba.
 [^29]: Division Memorandum, Division Data Privacy Orientation dated 25 January 2019 of Department of Education-Calamba.
-[^30]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §18 (15 December 2016) (NPC Circular 16-03).
+[^30]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §18 (15 December 2016) (NPC Circular 16-03).
 [^31]: *Id.*
-[^32]: RPR vs. Edukasyon.ph, NPC 19-438, Resolution dated 22 September 2022, at p. 4.
+[^32]: [[resolutions/2022/npc-19-438-rpr-v-edukasyon-ph|RPR vs. Edukasyon.ph, NPC 19-438, Resolution dated 22 September 2022]], at p. 4.
 [^33]: Supplemental Post Breach Report dated 28 July 2022 of Department of Education-Calamba.
 [^34]: Notification on DepEd Data Breach dated 24 April 2018 of Department of Education-Calamba.
 [^35]: *Id.*
@@ -283,7 +287,7 @@ National Privacy Commission
 [^38]: Minutes of the Meeting, Orientation and Risk Assessment on Data Breach dated 30 April 2018 of Department of Education-Calamba.
 [^39]: Notification on DepEd Data Breach dated 24 April 2018 of Department of Education-Calamba.
 [^40]: Minutes of the Meeting, Orientation and Risk Assessment on Data Breach dated 30 April 2018 of Department of Education-Calamba.
-[^41]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter V, § 20 (2012).
+[^41]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter V, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20]] (2012).
 [^42]: Supplemental Post Breach Report dated 28 July 2022 of Department of Education-Calamba.
 [^43]: *Id.*
 [^44]: *Id.*

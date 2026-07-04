@@ -1,7 +1,8 @@
 {
   "2021-rules-of-procedure-of-the-national-privacy-commission.md": {
     "status": "done",
-    "timestamp": "2026-03-25T12:49:42.730981Z"
+    "timestamp": "2026-07-04T11:48:25Z",
+    "note": "Re-cleaned: removed duplicate-block corruption, restored overwritten sections from PDF"
   },
   "data-subject-rights.md": {
     "status": "done",

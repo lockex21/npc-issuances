@@ -10,6 +10,8 @@ tags:
   - issuance
   - type/rules-of-procedure
   - year/2024
+  - topic/breach-notification
+  - topic/government
 draft: false
 date: '2024-01-26'
 ---
@@ -20,7 +22,7 @@ date: '2024-01-26'
 
 ### Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission
 
-Pursuant to the authority vested in the National Privacy Commission (NPC) through [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b) of the DPA]], otherwise known as the “[Data Privacy Act of 2012](./laws/data-privacy-act-of-2012.md)” (DPA), to receive complaints and institute investigations, the following amendments repeal and renumber several provisions of the 2021 Rules of Procedure dated 28 January 2021.
+Pursuant to the authority vested in the National Privacy Commission (NPC) through [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]” (DPA), to receive complaints and institute investigations, the following amendments repeal and renumber several provisions of the 2021 Rules of Procedure dated 28 January 2021.
 
 **SECTION 1.** ***Rule I, Sections 4 and 5 – Definitions.*** The definitions referenced in the DPA and its implementing rules are adopted in this Circular. Key terminology now reads:
 
@@ -63,7 +65,7 @@ Once the NPC opts for electronic service, it will not issue duplicate physical s
 **SECTION 4.** ***Rule IV – Pre-Investigation Phase.*** Rule IV of the 2021 NPC Rules of Procedure is hereby amended and renumbered to read as follows:
 
 - **Section 1.** Outright dismissal, when allowed. – Within thirty (30) calendar days from receipt of the complaint, the Investigating Officer may give the complaint due course or dismiss the complaint without prejudice on any of the following grounds:
-    1. The complaint is insufficient in form or does not comply with Section 3, Rule II of these Rules;
+    1. The complaint is insufficient in form or does not comply with Section 3, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|Rule II]] of these Rules;
     2. The complainant does not give the respondent an opportunity to address the complaint, unless failure to do so is justified;
     3. The complaint does not pertain to a violation of the DPA or does not involve a privacy violation or data breach;
     4. There is insufficient information to substantiate the allegations in the complaint; or

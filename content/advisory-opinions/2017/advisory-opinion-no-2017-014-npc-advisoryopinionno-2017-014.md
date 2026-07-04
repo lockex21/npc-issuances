@@ -7,6 +7,12 @@ tags:
   - year/2017
   - data-sharing
   - compliance
+  - topic/data-sharing
+aliases:
+  - "NPC Advisory Opinion No. 2017-014"
+  - "npc advisory opinion no. 2017-014"
+  - "Advisory Opinion No. 2017-014"
+  - "advisory opinion no. 2017-014"
 draft: false
 ---
 
@@ -49,7 +55,7 @@ For reference purposes, there is also [[issuances/2020/data-sharing-agreements-i
 
 #### 4. Are private entities engaged in data sharing now required to enter into data sharing agreements? Or should private entities wait for an MC on data sharing for private entities?
 
-Private entities currently engaged in data sharing are required to enter into data sharing agreements in accordance with the provisions of the IRR, particularly Section 20 thereof, even sans an NPC Circular on the matter. Any relevant subsequent issuance by the NPC shall only serve to complement the requirements already established in the IRR.
+Private entities currently engaged in data sharing are required to enter into data sharing agreements in accordance with the provisions of the IRR, particularly [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20]] thereof, even sans an NPC Circular on the matter. Any relevant subsequent issuance by the NPC shall only serve to complement the requirements already established in the IRR.
 
 The one-year period given in the second paragraph of [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-67-period-for-compliance|Section 67 of the IRR]], including the possible extension thereof, pertain to the requirement for registration of data processing systems, and of automated processing operations. Thus, PICs and PIPs are already mandated to comply with the other requirements of the DPA and its IRR as soon as both policies became effective.
 
@@ -59,7 +65,7 @@ Sincerely,
 
 [Signature block not included in advisory opinion body]
 
-[^1]: IRR, §3(f).
+[^1]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR, §3(f)]].
 [^2]: *Id.*
-[^3]: IRR, §20.
-[^4]: NPC Circular No. 16-02, §2.
+[^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|IRR, §20]].
+[^4]: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], §2.

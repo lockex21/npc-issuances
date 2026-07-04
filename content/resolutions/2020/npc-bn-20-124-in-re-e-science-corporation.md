@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "npc-case"
   - "year/2020"
+  - "topic/breach-notification"
 date: "2020-08-06"
 draft: false
 ---
@@ -89,7 +90,7 @@ Hence, on 3 July 2020, E-Science sent an e-mail to the Commission requesting for
 
 ### Discussion
 
-This Commission grants the herein request for notification extension or postponement of notification to data subjects of E-Science in accordance with NPC Circular No. 16-03 (Personal Data Breach Management).
+This Commission grants the herein request for notification extension or postponement of notification to data subjects of E-Science in accordance with [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management).
 
 Under Section 18(A) of NPC Circular No. 16-03, the personal information controller (“PIC”) shall notify the data subjects affected by a personal data breach within seventy-two (72) hours upon knowledge of or reasonable belief by the personal information controller or personal information processor that a personal data breach has occurred. The notification may be made on the basis of available information within the seventy-two (72) hour period if the personal data breach is likely to give rise to a real risk to the rights and freedoms of data subjects. It shall be undertaken in a manner that would allow data subjects to take the necessary precautions or other measures to protect themselves against the possible effects of the breach. It may be supplemented with additional information at a later stage on the basis of further investigation.
 

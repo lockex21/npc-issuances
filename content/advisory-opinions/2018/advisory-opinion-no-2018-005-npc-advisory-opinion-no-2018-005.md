@@ -5,7 +5,15 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/data-sharing
+  - topic/employment
+  - topic/registration
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-005"
+  - "npc advisory opinion no. 2018-005"
+  - "Advisory Opinion No. 2018-005"
+  - "advisory opinion no. 2018-005"
 ---
 
 ## Source
@@ -70,11 +78,11 @@ Very truly yours,
 Privacy Commissioner and Chairman
 
 [^1]: FAQs, https://www.doxcheck.com/faqs/ (last accessed 30 January 2018).
-[^2]: IRR of RA No. 10173, §20.
-[^3]: *Id.*, §43-44.
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|IRR of RA No. 10173, §20]].
+[^3]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-43-subcontract-of-personal-data|§43]]-[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|44]].
 [^4]: IRR of RA No. 20173, §3(f).
 [^5]: FAQs, https://www.doxcheck.com/faqs/ (last accessed 30 January 2018).
 [^6]: *Id.*
-[^7]: RA No. 10173, §3(i).
-[^8]: IRR of RA No. 10173, 20(b)(2)(b).
-[^9]: NPC Circular No. 2017-01, “Conflict of Interest” refers to a scenario wherein a DPO is charged with performing tasks, duties, and responsibilities that may be opposed to or could affect his performance as DPO. This includes, inter alia, holding a position within the PIC or PIP that leads him to determine the purposes and the means of the processing of personal data. The term shall be liberally construed relative to the provisions of this Advisory.
+[^7]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(i)]].
+[^8]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|IRR of RA No. 10173, 20(b)(2)(b)]].
+[^9]: [[issuances/2017/designation-of-data-protection-officers|NPC Circular No. 2017-01]], “Conflict of Interest” refers to a scenario wherein a DPO is charged with performing tasks, duties, and responsibilities that may be opposed to or could affect his performance as DPO. This includes, inter alia, holding a position within the PIC or PIP that leads him to determine the purposes and the means of the processing of personal data. The term shall be liberally construed relative to the provisions of this Advisory.

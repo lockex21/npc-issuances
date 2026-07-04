@@ -5,7 +5,15 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+  - topic/employment
+  - topic/legitimate-interest
+  - topic/security
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2022-008"
+  - "npc advisory opinion no. 2022-008"
+  - "Advisory Opinion No. 2022-008"
+  - "advisory opinion no. 2022-008"
 ---
 
 ## Source
@@ -53,7 +61,7 @@ legal basis under the DPA and existing laws.
 
 In the present situation where there is a pending labor case with the NLRC, and the request
 for the employment records or certification is necessary for proper litigation of VeritasPay’s
-defense, the disclosure of such records may find ground under Sections 12 and 13 of the DPA,
+defense, the disclosure of such records may find ground under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA,
 viz:
 
    SEC. 12. Criteria for Lawful Processing of Personal Information. The processing
@@ -112,8 +120,8 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^2]: Tags: employee service record; protection of lawful rights and interest; court proceedings; legitimate interest.
-[^3]: Data Privacy Act of 2012, §§ 12 (f) & 13 (f).
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^3]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§§ 12 (f)]] & [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13 (f)]].
+[^4]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]] (2016).
 [^5]: Office of the President, Inventory of Exceptions to Executive Order No. 2 (S. 2016), Memorandum from the Executive Secretary (Nov. 24, 2016).

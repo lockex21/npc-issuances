@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2019
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-027"
+  - "npc advisory opinion no. 2019-027"
+  - "Advisory Opinion No. 2019-027"
+  - "advisory opinion no. 2019-027"
 ---
 
 ## Source
@@ -69,6 +74,6 @@ Privacy Commissioner and Chairman
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 12 (c) (2012).
 [^3]: An Act Providing for a Magna Carta for Homeowners and Homeowners' Associations, and For Other Purposes [Magna Carta for Homeowners and Homeowners' Associations], Republic Act No. 9904 (2010).
-[^4]: See: National Privacy Commission, NPC Advisory Opinion No. 2018-011 (Mar. 22, 2018).
+[^4]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-011-npc-advisory-opinion-no-2018-011|NPC Advisory Opinion No. 2018-011]] (Mar. 22, 2018).
 [^5]: Data Privacy Act of 2012, § 18 (c).
 [^6]: *Id.*

@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/data-subject-rights"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-029"
+  - "npc advisory opinion no. 2020-029"
+  - "Advisory Opinion No. 2020-029"
+  - "advisory opinion no. 2020-029"
 ---
 ## Source
 - Reference: Advisory Opinion No. 2020-029
@@ -24,8 +30,8 @@ Dear [Redacted],
 We write in response to your letters requesting for an advisory opinion from the National
 Privacy Commission (NPC) on whether a particular barangay could provide certain
 information on the Katarungang Pambarangay[^2] process to an individual as part of her data
-collection for her thesis without violating Republic Act (R.A.) No. 10173, or the Data Privacy
-Act of 2012[^3] (DPA).
+collection for her thesis without violating Republic Act (R.A.) No. 10173, or the [[laws/data-privacy-act-of-2012|Data Privacy
+Act of 2012]][^3] (DPA).
 
 We understand that an individual who is currently taking her master’s degree is requesting
 for the following information:
@@ -42,11 +48,11 @@ fear of committing a violation of applicable laws.
 
 #### Scope of the DPA; processing for research purposes; special case
 
-The DPA applies to all types of processing of personal information and to any natural and
+The [[laws/data-privacy-act-of-2012|DPA]] applies to all types of processing of personal information and to any natural and
 juridical person involved in personal information processing, subject to certain qualifications.[^4]
 Under the law, the names of the complainants and their addresses are considered personal
 information, and its disclosure constitutes processing which should meet the requirements
-such as the criteria for lawful processing of personal information found under Section 12
+such as the criteria for lawful processing of personal information found under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]]
 thereof.
 
 However, the law provides for special cases where the processing of certain personal
@@ -59,7 +65,7 @@ ethical standards, is outside of the scope of the law.[^6]
 Nevertheless, this exemption is not absolute. This is interpreted to the effect that there is a
 presumption that personal information may be lawfully processed under such special cases.[^7]
 Specifically in this case, a researcher may lawfully process personal information even without
-meeting the conditions under Sections 12 or 13 of the DPA, but the processing shall be limited
+meeting the conditions under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, but the processing shall be limited
 to that which is necessary to achieve the specific purpose, function, or activity, and the
 researcher, as a personal information controller, is still required to implement measures to
 secure and protect personal information.[^8]
@@ -158,32 +164,32 @@ Privacy Commissioner
 
 [^2]: An Act Providing for a Local Government Code of 1991 [Local Government Code of 1991], Republic Act No. 7160 (1991), Book III, Title I, Chapter VII.
 
-[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
 [^4]: Id. § 4.
 
-[^5]: Data Privacy Act of 2012, § 4 (d).
+[^5]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]] (d).
 
-[^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (c) (2016).
+[^6]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Data Privacy Act of 2012]], Republic Act No. 10173, § 5 (c) (2016).
 
-[^7]: See: National Privacy Commission, NPC Advisory Opinions No. 2017-035 (July 27, 2017), 2018-054 (Dec. 4, 2018), 2019-017 (March 5, 2019), and 2020-004 (Feb. 3, 2020).
+[^7]: See: National Privacy Commission, NPC Advisory Opinions No. [[advisory-opinions/2017/advisory-opinion-no-2017-035-npc-advisoryopinionno-2017-035|2017-035]] (July 27, 2017), [[advisory-opinions/2018/advisory-opinion-no-2018-054-npc-advisory-opinion-no-2018-054|2018-054]] (Dec. 4, 2018), [[advisory-opinions/2019/advisory-opinion-no-2019-017-npc-advisory-opinion-no-2019-017|2019-017]] (March 5, 2019), and [[advisory-opinions/2020/advisory-opinion-no-2020-004-redacted-advisory-opinion-no-2020-004-2|2020-004]] (Feb. 3, 2020).
 
 [^8]: Id.
 
-[^9]: National Privacy Commission, NPC Advisory Opinion No. 2019-017 (March 5, 2019).
+[^9]: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-017-npc-advisory-opinion-no-2019-017|NPC Advisory Opinion No. 2019-017]] (March 5, 2019).
 
 [^10]: Philippine Health Research Ethics Board Ad Hoc Committee for Updating the National Ethical Guidelines, National Ethical Guidelines for Health and Health Related Research, Introduction, p. 5 (2017).
 
 [^11]: Ibid.
 
-[^12]: National Privacy Commission, NPC Advisory Opinion No. 2019-017 (March 5, 2019).
+[^12]: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-017-npc-advisory-opinion-no-2019-017|NPC Advisory Opinion No. 2019-017]] (March 5, 2019).
 
 [^13]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-054-npc-advisory-opinion-no-2018-054|NPC Advisory Opinion No. 2018-054]] (Dec. 4, 2018).
 
 [^14]: Id.
 
-[^15]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 37 (2016).
+[^15]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-37-limitation-on-rights|Data Privacy Act of 2012]], Republic Act No. 10173, § 37 (2016).
 
-[^16]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^16]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Data Privacy Act of 2012]], Republic Act No. 10173, § 18 (c) (2016).
 
 [^17]: Ibid.

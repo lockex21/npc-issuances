@@ -11,6 +11,8 @@ tags:
   - type/resolution
   - year/2023
   - npc-case
+  - topic/breach-notification
+  - topic/security
 date: "2023-05-11"
 draft: false
 ---
@@ -92,7 +94,7 @@ Whether the breach incident falls under mandatory breach notification.
 
 The Commission finds that this matter does not fall under mandatory breach notification. Thus, the Commission resolves to close the case.
 
-Section 11 of the NPC Circular 16-03 (Personal Data Breach Management) provides:
+Section 11 of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management) provides:
 
 > Section 11. When notification is required. Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 >
@@ -110,7 +112,7 @@ As such, mandatory breach notification to the Commission has the following requi
 2. There is reason to believe that the information may have been acquired by an unauthorized person; and
 3. The unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject.[^38]
 
-The first requisite provides that the breach involves sensitive personal information or information that may be used to enable identity fraud. Section 3 (l) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) defines sensitive personal information as:
+The first requisite provides that the breach involves sensitive personal information or information that may be used to enable identity fraud. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l)]] of Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) defines sensitive personal information as:
 
 > Section 3. Definition of Terms.
 >
@@ -152,7 +154,7 @@ Considering all these factors, the unauthorized acquisition did not give rise to
 
 Since the first and third requisites for mandatory breach notification are absent in this case, the Commission finds that the breach reported by ESC does not require mandatory breach notification.
 
-Section 20 (a) and (c) of the DPA provides for the obligation of PICs in implementing security measures for the protection of personal information:
+[[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) and (c)]] of the DPA provides for the obligation of PICs in implementing security measures for the protection of personal information:
 
 > Section 20. Security of Personal Information.
 >
@@ -241,9 +243,9 @@ GENERAL RECORDS UNIT
 [^34]: *Id.*
 [^35]: Order (to submit Full-Breach Report), 27 October 2022, at 1, in In Re: Easytrip Services Corporation, NPC BN 17-028 and NPC BN 18-180 (NPC 2022).
 [^36]: Compliance, 11 November 2022, at 1, in In Re: Easytrip Services Corporation, NPC BN 17-028 and NPC BN 18-180 (NPC 2022).
-[^37]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], §11 (15 December 2016).
+[^37]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], §11 (15 December 2016).
 [^38]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers, NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at https://www.privacy.gov.ph/wp-content/uploads/2023/01/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-Commission-on-Elections-Decision-Final.pdf (last accessed 31 January 2023).
-[^39]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (l) (2012).
+[^39]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes ([[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]), Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]] (2012).
 [^40]: Full Report, 19 September 2018, at 2-3, in In Re: Easytrip Services Corporation, NPC BN 17-028 and NPC BN 18-180 (NPC 2018).
 [^41]: *Id.* at 1.
 [^42]: Full Report, 19 September 2018, at 5, in In Re: Easytrip Services Corporation, NPC BN 17-028 and NPC BN 18-180 (NPC 2018).
@@ -251,4 +253,4 @@ GENERAL RECORDS UNIT
 [^44]: *Id.* at 2.
 [^45]: Easytrip Breach Report, at 1, in In Re: Easytrip Services Corporation, NPC BN 17-028 and NPC BN 18-180 (NPC 2018).
 [^46]: Full Report, 19 September 2018, at 4, in In Re: Easytrip Services Corporation, NPC BN 17-028 and NPC BN 18-180 (NPC 2018).
-[^47]: Data Privacy Act of 2012, § 20.
+[^47]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20]].

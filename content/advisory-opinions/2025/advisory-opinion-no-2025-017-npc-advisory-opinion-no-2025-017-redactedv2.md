@@ -5,7 +5,14 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2025"
+  - "topic/children"
+  - "topic/data-subject-rights"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-017"
+  - "npc advisory opinion no. 2025-017"
+  - "Advisory Opinion No. 2025-017"
+  - "advisory opinion no. 2025-017"
 ---
 
 ## Source
@@ -37,7 +44,7 @@ Hence, this request for an Advisory Opinion.
 
 #### Student school records as personal and sensitive personal information under the DPA
 
-Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA) defines personal information as "any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual."[^2] The DPA further classifies as sensitive personal information, among others, information about an individual's age and marital status, information about an individual's education, as well as information classified as confidential under other laws.[^3]
+[[laws/data-privacy-act-of-2012|Republic Act No. 10173]], or the Data Privacy Act of 2012 (DPA) defines personal information as "any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual."[^2] The DPA further classifies as sensitive personal information, among others, information about an individual's age and marital status, information about an individual's education, as well as information classified as confidential under other laws.[^3]
 
 Batas Pambansa Blg. 232 or The Education Act of 1982 recognizes both the right of students to access their own school records and the obligation of schools to maintain and preserve the confidentiality of those records.[^4]
 
@@ -116,14 +123,14 @@ VIDA ZORA G. BOCAR
 OIC-Director IV, Privacy Policy Office
 
 [^1]: academic records; student grades; sensitive personal information; data subject rights; right to access.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3, ¶ g (2012).
-[^3]: Id. § 3, ¶ l(2).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3, ¶ g]] (2012).
+[^3]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3, ¶ l(2)]].
 [^4]: An Act Providing for the Establishment and Maintenance of An Integrated System of Education [Education Act of 1982] Batas Pambansa Blg. 232, § 9, ¶ 4 (1982).
-[^5]: Data Privacy Act of 2012, § 16, ¶ b, c, d.
-[^6]: Id. § 17.
+[^5]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16, ¶ b, c, d]].
+[^6]: Id. [[laws/data-privacy-act-of-2012#section-17-transmissibility-of-rights-of-the-data-subject|§ 17]].
 [^7]: The Family Code of the Philippines [Family Code], Executive Order No. 209, §§ 209-233 (1987).
 [^8]: Education Act of 1982, §§ 14, 16, 17.
-[^9]: Data Privacy Act of 2012, § 3, ¶ g.
-[^10]: National Privacy Commission, Consent of Data Subject Prior to Release of School Records by the Lyceum of the Philippines University (LPU), NPC Advisory Opinion No. 2018-006 (Feb. 6, 2018).
+[^9]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3, ¶ g]].
+[^10]: National Privacy Commission, Consent of Data Subject Prior to Release of School Records by the Lyceum of the Philippines University (LPU), [[advisory-opinions/2018/advisory-opinion-no-2018-006-npc-advisory-opinion-no-2018-006|NPC Advisory Opinion No. 2018-006]] (Feb. 6, 2018).
 [^11]: Education Act of 1982, § 54, § 57.
-[^12]: Data Privacy Act of 2012, § 7, ¶ a, b, d.
+[^12]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|§ 7, ¶ a, b, d]].

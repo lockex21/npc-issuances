@@ -11,6 +11,7 @@ tags:
   - "type/decision"
   - "year/2022"
   - "npc-case"
+  - "topic/legitimate-interest"
 date: "2024-08-12"
 draft: false
 ---
@@ -43,7 +44,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before this Commission is a Complaint[^1] filed by EFD (Complainant) against AOD (Respondent) for an alleged violation of Sections 25 (Unauthorized Processing), 31 (Malicious Disclosure), and 32 (Unauthorized Disclosure) of the Data Privacy Act of 2012 or Republic Act No. 10173 (DPA).
+Before this Commission is a Complaint[^1] filed by EFD (Complainant) against AOD (Respondent) for an alleged violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Sections 25 (Unauthorized Processing)]], [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|31 (Malicious Disclosure)]], and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32 (Unauthorized Disclosure)]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 or Republic Act No. 10173 (DPA)]].
 
 ### Facts
 
@@ -63,7 +64,7 @@ In the DepEd Complaint, Respondent accused Complainant of immorality for having 
 
 Thus, Complainant prayed for the payment of damages, imposition of fine, and the retrieval of the sensitive information, as well as the immediate deletion of the photos gathered by Respondent.[^9]
 
-Subsequently, the National Privacy Commission's (NPC) Complaints and Investigation Division (CID) issued an Order dated 09 March 2022 requiring the Respondent to file her Verified Comment within fifteen (15) calendar days from receipt of the said Order.[^10] In the same Order, the CID required the parties to appear virtually for preliminary conferences on 07 June 2022 and 05 July 2022 pursuant to Rule V of NPC Circular 2021-01.[^11]
+Subsequently, the National Privacy Commission's (NPC) Complaints and Investigation Division (CID) issued an Order dated 09 March 2022 requiring the Respondent to file her Verified Comment within fifteen (15) calendar days from receipt of the said Order.[^10] In the same Order, the CID required the parties to appear virtually for preliminary conferences on 07 June 2022 and 05 July 2022 pursuant to [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-v-preliminary-conference|Rule V of NPC Circular 2021-01]].[^11]
 
 Accordingly, on 25 March 2022, Respondent submitted her Verified Comment dated 23 March 2022, arguing that the complaint filed by the Complainant before the Commission does not involve a privacy violation.[^12] In her Verified Comment, Respondent cited [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]] which states:
 
@@ -83,7 +84,7 @@ In relation to the above stated provisions of the DPA, Respondent argued that:
 >
 > 10. Without presenting the foregoing proof, how can the respondent substantiate her claim before the DepEd that complainant is guilty of disgraceful and immoral conduct?[^15]
 
-Lastly, Respondent prayed that the complaint be dismissed outright considering that it does not involve any privacy violation or personal data breach, citing Section 12(b), Rule II of NPC Circular 2016-04 or the 2016 Rules of Procedure of the NPC.[^16]
+Lastly, Respondent prayed that the complaint be dismissed outright considering that it does not involve any privacy violation or personal data breach, citing Section 12(b), Rule II of [[issuances/undated/rules-of-procedure|NPC Circular 2016-04 or the 2016 Rules of Procedure of the NPC]].[^16]
 
 On 30 March 2022, the CID issued an Order noting the Verified Comment submitted by Respondent.[^17]
 
@@ -99,7 +100,7 @@ As to the stipulation or admission of facts or documents, Complainant's legal co
 2. That the Complainant personally knows Respondent's spouse.
 3. That the Complainant is a teacher by profession.[^25]
 
-Moreover, the parties manifested that they will not undergo discovery proceedings before the CID.[^26] Likewise, while Complainant is willing to undergo mediation proceedings, Respondent refused to undergo amicable settlement.[^27] Thus, the CID ordered the parties to submit their respective memoranda pursuant to Section 2, Rule VII of the 2021 NPC Rules of Procedure within fifteen (15) calendar days from receipt of such Order.[^28]
+Moreover, the parties manifested that they will not undergo discovery proceedings before the CID.[^26] Likewise, while Complainant is willing to undergo mediation proceedings, Respondent refused to undergo amicable settlement.[^27] Thus, the CID ordered the parties to submit their respective memoranda pursuant to Section 2, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-vii-investigation-phase|Rule VII of the 2021 NPC Rules of Procedure]] within fifteen (15) calendar days from receipt of such Order.[^28]
 
 Lastly, in the first preliminary conference, the CID required Complainant's legal counsel, TS (TS), to file his entry of appearance before the Commission.[^29] Thereafter, TS filed his Entry of Appearance dated 13 July 2022 as legal counsel for the Complainant.[^30] On 13 July 2022, the CID issued an Order noting TS' Entry of Appearance.[^31]
 
@@ -157,13 +158,13 @@ Nevertheless, while it is true that there is a privacy violation, the case shoul
 
 #### *II. The photos and Certificate of Live Birth attached by Respondent to the DepEd Complaint contain personal and sensitive personal information.*
 
-Section 3(g) of the DPA defines personal information as:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(g) of the DPA]] defines personal information as:
 
 > [A]ny information whether recorded in a material form or not, from which the identity of an individual is **apparent or can be reasonably and directly ascertained** by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^51]
 
 In this case, the photos of Complainant, as well as the other personal data contained in the Certificate of Live Birth attached by Respondent to the DepEd Complaint are considered as personal information since Complainant's identity is apparent or can be reasonably and directly ascertained.[^52]
 
-Moreover, Section 3(l) of the DPA defines sensitive personal information as personal information:
+Moreover, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]] defines sensitive personal information as personal information:
 
 > (1) About an individual's **race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations**;
 >
@@ -181,7 +182,7 @@ In her CAF, Complainant stated that Respondent attached documents in the DepEd C
 
 However, it must be emphasized that consent is not the only lawful basis for processing personal and sensitive personal information.[^56]
 
-Section 12(f) of the DPA provides the criteria for lawful processing of personal information and among them is processing which is "necessary for the purposes of the legitimate interest pursued by the personal information controller":
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]] provides the criteria for lawful processing of personal information and among them is processing which is "necessary for the purposes of the legitimate interest pursued by the personal information controller":
 
 > SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -191,7 +192,7 @@ Section 12(f) of the DPA provides the criteria for lawful processing of personal
 >
 > (Emphasis supplied)
 
-In relation to this, Section 13(f) of the DPA states:
+In relation to this, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]] states:
 
 > SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
@@ -311,22 +312,22 @@ National Privacy Commission
 [^47]: *Id.*, at p. 5.
 [^48]: *GSS v. Global Dominion Financing Inc.*, [[decisions/2022/npc-21-064-gss-v-global-dominion-financing-inc|NPC 21-064]], Decision dated 16 June 2022, at p. 7.
 [^49]: Verified Comment dated 23 March 2022 of AOD, at p. 1.
-[^50]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3(j) (2012).
-[^51]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3(g) (2012).
+[^50]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173, chapter I, § 3(j)]] (2012).
+[^51]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173, chapter I, § 3(g)]] (2012).
 [^52]: *MAF v. Shopee Philippines, Inc.*, [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]], Decision dated 22 September 2022, at p. 4.
-[^53]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3(l) (2012).
+[^53]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173, chapter I, § 3(l)]] (2012).
 [^54]: Complaints-Assisted Form dated 21 February 2022 of EFD, referred to as Annex "B."
 [^55]: *Id.*, at p. 3.
 [^56]: [[resolutions/2023/npc-21-095-in-re-spouses-ltg-and-cig-vs-lsr|NPC 21-095]] (unreported), Decision dated 28 July 2022.
-[^57]: Data Privacy Act of 2012, chapter III, § 12(f).
+[^57]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, chapter III, § 12(f)]].
 [^58]: *Id.*, § 13(f).
 [^59]: *Id.*
 [^60]: *Id.*
 [^61]: *BGM v. IPP*, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]], Decision dated 17 December 2020, at p. 7.
 [^62]: Complaints-Assisted Form dated 21 February 2022 of EFD, referred to as Annex "A-1."
 [^63]: *Id.*, referred to as Annex "B."
-[^64]: *EA and TA vs. EJ, EE, and HC*, NPC 17-018, Decision dated 15 July 2019, at p. 7.
-[^65]: National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18(b) (2016).
+[^64]: *EA and TA vs. EJ, EE, and HC*, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]], Decision dated 15 July 2019, at p. 7.
+[^65]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18(b)]] (2016).
 [^66]: *AQM v. PIT*, [[decisions/2024/npc-22-112-aqm-vs-pit-et-al|NPC 22-112]], Decision dated 18 April 2024, at p. 13.
 [^67]: Memorandum dated 18 July 2022 of EFD, at p. 4.
 [^68]: *Id.*, at pp. 4-5.

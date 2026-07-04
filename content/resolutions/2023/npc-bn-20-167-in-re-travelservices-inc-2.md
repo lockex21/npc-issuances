@@ -11,6 +11,8 @@ tags:
   - type/resolution
   - year/2023
   - npc-case
+  - topic/breach-notification
+  - topic/security
 date: "2023-11-13"
 draft: false
 ---
@@ -97,7 +99,7 @@ The Commission notes the Compliance of TravelServices dated 09 February 2021. Fu
 
 *The incident falls under the mandatory breach notification requirement.*
 
-Section 20(f) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012 (DPA) states:
+Section 20(f) of [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012 (DPA) states:
 
 > SEC. 20. Security of Personal Information. —
 >
@@ -105,7 +107,7 @@ Section 20(f) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], other
 >
 > (f) The personal information controller shall **promptly notify the Commission and affected data subjects when** sensitive personal information or **other information that may, under the circumstances, be used to enable identity fraud** are **reasonably believed to have been acquired by an unauthorized person**, and **the personal information controller or the Commission believes that such unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject**.[^24] (Emphasis supplied)
 
-In relation thereto, Rule V, Section 11 of NPC Circular No. 16-03 provides:
+In relation thereto, Rule V, Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides:
 
 > **Sec. 11. When notification is required.**
 >
@@ -203,13 +205,13 @@ GENERAL RECORDS UNIT
 [^21]: Id.
 [^22]: Compliance and Motion for Partial Reconsideration dated 09 February 2021 of TravelServices, Inc., at p. 3.
 [^23]: Id.
-[^24]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter V, § 20(f) (2012).
-[^25]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).
+[^24]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], chapter V, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20(f)]] (2012).
+[^25]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], NPC Circular 16-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).
 [^26]: Full breach report dated 09 February 2021 of TravelServices, Inc., at p. 2.
 [^27]: Compliance and Motion for Partial Reconsideration dated 09 February 2021 of TravelServices, Inc., at p. 3.
 [^28]: In Re: TravelServices, Inc., NPC BN 20-167, Resolution dated 21 September 2020.
 [^29]: Compliance and Motion for Partial Reconsideration dated 09 February 2021 of TravelServices, Inc., at p. 3.
-[^30]: NPC Circular 16-03, § 11.
+[^30]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], § 11.
 [^31]: Id., § 18(A).
 [^32]: Compliance and Motion for Partial Reconsideration dated 09 February 2021 of TravelServices, Inc., at p. 2.
-[^33]: NPC Circular 16-03, rule V, § 18(D).
+[^33]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, § 18(D).

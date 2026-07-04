@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2017"
   - "npc-case"
+  - "topic/data-subject-rights"
+  - "topic/security"
 date: "2017-09-01"
 draft: false
 ---
@@ -106,7 +108,7 @@ The sole issue to be resolved by this Commission is whether Respondent PBI is li
 
 Before the discussion on the issue of unauthorized processing, the Commission deems it necessary to discuss rights accorded to data subjects relevant to this case.
 
-Data subjects under the Data Privacy Act[^1] are entitled to rights, including the right to rectification[^2] of his or her records, to wit:
+Data subjects under the Data Privacy Act[^1] are entitled to rights, including the [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|right to rectification]][^2] of his or her records, to wit:
 
 > (d) Dispute the inaccuracy or error in the personal information and have the personal information controller correct it immediately and accordingly, unless the request is vexatious or otherwise unreasonable.
 >
@@ -131,13 +133,13 @@ For a person or a Personal Information Controller to be held liable for unauthor
 1. There must be processing of personal information;
 2. That such processing was without the consent of the data subject or that such was not authorized by the Data Privacy Act or any other existing law.
 
-Under the DPA, there are criteria for lawful processing of personal information[^4].
+Under the DPA, there are [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|criteria for lawful processing of personal information]][^4].
 
 The same criteria is applied in this case in determining whether the processing of the alleged unauthorized transaction by the bank was indeed lawful.
 
 In processing the personal information relevant to the transactions and charges made on the credit card, PBI may find support in section 12(b)[^5]:
 
-> **Section 12. Criteria for Lawful Processing of Personal Information.** – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
+> **[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12. Criteria for Lawful Processing of Personal Information.]]** – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
 > (a) The data subject has given his or her consent;
 >
@@ -157,7 +159,7 @@ The question now left for this Commission to decide is whether the Respondent ba
 
 Phishing is defined as the fraudulent process of attempting to acquire private or confidential information by masquerading as a trustworthy entity in an electronic communication[^9]. The responsibility for the avoidance of falling victim to phishing falls both on the Personal Information Controller and the data subject.
 
-The PIC must be able to implement appropriate security measures[^10] provided under the DPA to capture cases of phishing and be able to prevent it from happening for the protection of its data subjects.
+The PIC must be able to implement [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|appropriate security measures]][^10] provided under the DPA to capture cases of phishing and be able to prevent it from happening for the protection of its data subjects.
 
 In the case at bar, Complainant IBC argues that due to PBI’s negligence in not employing security measures, his personal information was illegally obtained through phishing.
 
@@ -217,15 +219,15 @@ ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 NATIONAL PRIVACY COMMISSION
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating For this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3(c) (2012) [hereinafter, DPA].
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating For this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(c)]] (2012) [hereinafter, DPA].
 
-[^2]: DPA, §16(d).
+[^2]: DPA, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§16(d)]].
 
 [^3]: Respondent's Comment, paragraphs 6-8.
 
-[^4]: DPA, §12.
+[^4]: DPA, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12]].
 
-[^5]: DPA, §12(b).
+[^5]: DPA, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12(b)]].
 
 [^6]: *Pantaleon v. American Express International*, G.R. No. 174269, February 23, 2011.
 
@@ -235,7 +237,7 @@ NATIONAL PRIVACY COMMISSION
 
 [^9]: ISO/IEC 27032:2012 (en), §4 Terms and definitions.
 
-[^10]: DPA, §20.
+[^10]: DPA, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§20]].
 
 [^11]: Respondent's Comment, Annex "5".
 

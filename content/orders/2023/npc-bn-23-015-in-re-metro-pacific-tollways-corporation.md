@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2023"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2023-03-16"
 draft: false
 ---
@@ -69,7 +70,7 @@ MPTC, however, claimed that the "attack was targeted more on inputting invalid r
 
 MPTC's statements in its Compliance, however, is contrary to its prior representations in its initial report through the DBNMS. MPTC initially stated that there are one hundred (100) affected data subjects although its actual number is still to be determined[^20] and that there is possible access to personal information of others such as name, username, and email address.[^21]
 
-The Commission emphasizes that the notification requirement under NPC Circular 16-03 (Personal Data Breach Management) is for the protection and benefit of data subjects.[^22] Section 11 of NPC Circular 16-03 requires a Personal Information Controller (PIC) to notify the Commission and the affected data subjects upon knowledge of or when there is reasonable belief by the PIC that a breach requiring notification occurred:
+The Commission emphasizes that the notification requirement under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management) is for the protection and benefit of data subjects.[^22] Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] requires a Personal Information Controller (PIC) to notify the Commission and the affected data subjects upon knowledge of or when there is reasonable belief by the PIC that a breach requiring notification occurred:
 
 > Section 11. When notification is required. Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 >
@@ -81,7 +82,7 @@ The Commission emphasizes that the notification requirement under NPC Circular 1
 >
 > C. The personal information controller or the Commission believes that the unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject.[^23]
 
-In addition, Section 13 of the same Circular provides that when the PIC is uncertain as to the need to notify, it shall take into account the likelihood of harm or negative consequences on the affected data subjects and how notification could reduce the risks arising from the data breach reasonably believed to have occurred.[^24] The PIC shall also consider if the personal data reasonably believed to have been compromised involves at least one hundred (100) individuals:
+In addition, [[issuances/undated/personal-data-breach-management|Section 13 of the same Circular]] provides that when the PIC is uncertain as to the need to notify, it shall take into account the likelihood of harm or negative consequences on the affected data subjects and how notification could reduce the risks arising from the data breach reasonably believed to have occurred.[^24] The PIC shall also consider if the personal data reasonably believed to have been compromised involves at least one hundred (100) individuals:
 
 > Section 13. Determination of the Need to Notify. Where there is uncertainty as to the need for notification, the personal information controller shall take into account, as a primary consideration, the likelihood of harm or negative consequences on the affected data subjects, and how notification, particularly of the data subjects, could reduce the risks arising from the personal data breach reasonably believed to have occurred.
 >
@@ -151,8 +152,8 @@ GENERAL RECORDS UNIT
 [^19]: Id. at 2-4.
 [^20]: Initial Notification through the Personal Data Breach Notification Form, 27 January 2023, in In re: Metro Pacific Tollways Corporation, NPC BN 23-015 (NPC 2023).
 [^21]: Id.
-[^22]: In re: Breach Notification Report of Sun Life of Canada, CID BN 17-021, 10 September 2020, at 6, available at https://www.privacy.gov.ph/wp-content/uploads/2023/01/NPC-BN-17-020-_-029-09.22.2022-In-Re-Sun-Life-of-Canada_Resolution.pdf (last accessed 16 March 2023).
-[^23]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16-03, § 11 (15 December 2016). Emphasis supplied.
+[^22]: [[resolutions/2020/cid-bn-17-021-in-re-breach-notification-report-of-sun-life-of-canada|In re: Breach Notification Report of Sun Life of Canada, CID BN 17-021]], 10 September 2020, at 6, available at https://www.privacy.gov.ph/wp-content/uploads/2023/01/NPC-BN-17-020-_-029-09.22.2022-In-Re-Sun-Life-of-Canada_Resolution.pdf (last accessed 16 March 2023).
+[^23]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular No. 16-03]], § 11 (15 December 2016). Emphasis supplied.
 [^24]: Id. § 13.
 [^25]: Id. Emphasis supplied.
-[^26]: In re: Batangas Bay Carriers, NPC BN 20-157, 17 December 2020, at 3, available at https://www.privacy.gov.ph/wp-content/uploads/2022/01/Resolution-NPC-BN-20-157-In-re-Batangas-Bay_Dec-17.pdf (last accessed 16 March 2023).
+[^26]: [[resolutions/2020/npc-bn-20-157-in-re-batangas-bay-carriers-inc|In re: Batangas Bay Carriers, NPC BN 20-157]], 17 December 2020, at 3, available at https://www.privacy.gov.ph/wp-content/uploads/2022/01/Resolution-NPC-BN-20-157-In-re-Batangas-Bay_Dec-17.pdf (last accessed 16 March 2023).

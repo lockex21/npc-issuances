@@ -11,6 +11,7 @@ tags:
   - "type/decision"
   - "year/2022"
   - "npc-case"
+  - "topic/security"
 date: "2024-06-05"
 draft: false
 ---
@@ -44,7 +45,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission is a Complaint filed by JPV against Souley MD Services, Inc. (SMSI) for an alleged violation of Section 32 (Unauthorized Disclosure) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by JPV against Souley MD Services, Inc. (SMSI) for an alleged violation of [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure)]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA)]].
 
 ### Facts
 
@@ -108,7 +109,7 @@ Whether SMSI's use of JPV's medical records in a complaint for cyber libel viola
 
 ### Discussion
 
-The Commission dismisses the case for lack of merit. SMSI did not violate the DPA when it used JPV's medical records in a complaint for cyber libel since the processing is with lawful basis under Section 13 (f) of the DPA.
+The Commission dismisses the case for lack of merit. SMSI did not violate the DPA when it used JPV's medical records in a complaint for cyber libel since the processing is with lawful basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]].
 
 In its cyber libel complaint, SMSI attached JPV's Admission and Discharge Records containing details on her diagnosis and operation and procedures administered, doctor's orders, nurse's notes, medical administration records, blood test results, antigen test results, temperature, pulse, and respiration (TPR) chart, discharge summary, and emergency room intervention form.[^48]
 
@@ -171,7 +172,7 @@ SMSI used JPV's medical records to establish a case for cyber libel against JPV'
 
 Given the foregoing, the use of JPV's medical records in the cyber libel case finds a lawful basis under Section 13(f) of the DPA.
 
-In her Complaint, JPV charged SMSI and Dr. JLT of Unauthorized Disclosure as defined and penalized under Section 32 of the DPA:
+In her Complaint, JPV charged SMSI and Dr. JLT of Unauthorized Disclosure as defined and penalized under [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 of the DPA]]:
 
 > Section 32. *Unauthorized Disclosure.* (a) Any personal information controller or personal information processor or any of its
 >
@@ -185,7 +186,7 @@ To determine whether there is Unauthorized Disclosure, the following requisites 
 2. The perpetrator disclosed information;
 3. The information relates to personal or sensitive personal information;
 4. The perpetrator disclosed the personal or sensitive personal information to a third party;
-5. The disclosure was without any of the lawful basis for processing, consent or otherwise, under Sections 12 and 13 of the DPA; and
+5. The disclosure was without any of the lawful basis for processing, consent or otherwise, under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA; and
 6. The disclosure is neither malicious nor done in bad faith and the information disclosed is not unwarranted or false information.[^61]
 
 As discussed, there is lawful processing under Section 13 (f) of the DPA when SMSI attached JPV's medical records for the establishment of the case on cyber libel. Thus, the fifth element is lacking in this case.
@@ -280,17 +281,17 @@ GENERAL RECORDS UNIT
 [^46]: *Id.* at 13.
 [^47]: *Id.* at 12.
 [^48]: Verified Comment, 09 November 2022, at 2, in JPV v. Souley MD Services, Inc., NPC 22-201 (NPC 2022).
-[^49]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (l) (2012).
-[^50]: *Id.* § 13.
-[^51]: *Id.* § 13 (f).
+[^49]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]] (2012).
+[^50]: *Id.* [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]].
+[^51]: *Id.* [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13 (f)]].
 [^52]: Verified Comment, 09 November 2022, at 2, in JPV v. Souley MD Services, Inc., NPC 22-201 (NPC 2022).
-[^53]: Data Privacy Act of 2012, § 13 (f).
-[^54]: *Id.* § 11 (c)(d). Emphasis supplied.
-[^55]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, § 18 (c). Emphasis supplied.
+[^53]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13 (f)]].
+[^54]: *Id.* [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11 (c)(d)]]. Emphasis supplied.
+[^55]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]]. Emphasis supplied.
 [^56]: Complaint, 04 September 2022, Annex A, in JPV v. Souley MD Services, Inc., NPC 22-201 (NPC 2022).
 [^57]: *Id.* at 2.
 [^58]: Diaz v. People, G.R. No. 159787 (2007).
-[^59]: Data Privacy Act of 2012, § 13 (f).
-[^60]: *Id.* § 32.
+[^59]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13 (f)]].
+[^60]: *Id.* [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|§ 32]].
 [^61]: JCB v. FRL, [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], 03 March 2022, at 15, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-031-2022.03.03-JCB-v.-FRL-Decision-FinalP.pdf.
 [^62]: Memorandum for Respondent, 20 December 2022, at 10, in JPV v. Souley MD Services, Inc., NPC 22-201 (NPC 2022).

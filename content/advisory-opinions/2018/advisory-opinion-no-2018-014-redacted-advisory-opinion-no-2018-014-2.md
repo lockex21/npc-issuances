@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2018"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-014"
+  - "npc advisory opinion no. 2018-014"
+  - "Advisory Opinion No. 2018-014"
+  - "advisory opinion no. 2018-014"
 ---
 
 ## Source
@@ -22,7 +27,7 @@ Re: INTERPRETATION OF THE [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT OF 20
 
 Dear [Redacted],
 
-This pertains to your query received by the National Privacy Commission (NPC) on 27 November 2017, via letter dated 08 November 2017, regarding the applicability of Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), to the records of the National Grid Corporation of the Philippines (NGCP) required for inspection by the National Transmission Corporation (TransCo) and the Power Sector Assets and Liabilities Management Corporation (PSALM) pursuant to the provisions of the Concession Agreement dated 28 February 2008 (Concession Agreement) executed among TransCo, PSALM and NGCP.
+This pertains to your query received by the National Privacy Commission (NPC) on 27 November 2017, via letter dated 08 November 2017, regarding the applicability of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), to the records of the National Grid Corporation of the Philippines (NGCP) required for inspection by the National Transmission Corporation (TransCo) and the Power Sector Assets and Liabilities Management Corporation (PSALM) pursuant to the provisions of the Concession Agreement dated 28 February 2008 (Concession Agreement) executed among TransCo, PSALM and NGCP.
 
 Per your letter, TransCo, PSALM and NGCP entered into the Concession Agreement for the operation of TransCo’s transmission business in line with the privatization mandate of Republic Act No. 9136, otherwise known as the “Electric Power Industry Reform Act of 2001” (EPIRA). Under the Concession Agreement, NGCP has the obligation to periodically report to TransCo and PSALM and allow the access to, and inspection of, its technical, regulatory, financial, and legal records.
 
@@ -73,7 +78,7 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, “Data Privacy Act of 2012” (15 August 2012).
-[^2]: RA No. 10173, §4(e)
+[^2]: [[laws/data-privacy-act-of-2012#section-4-scope|RA No. 10173, §4(e)]]
 [^3]: RA No. 9136, §8; see RA No. 10149, otherwise known as the “GOCC Governance Act of 2011.”
 [^4]: *Ibid.*
 [^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA No. 10173, §3(r) — “Public authority” refers to any government entity created by the Constitution or law, and vested with law enforcement or regulatory authority and functions.

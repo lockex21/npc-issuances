@@ -11,6 +11,9 @@ tags:
   - type/resolution
   - year/2024
   - npc-case
+  - topic/breach-notification
+  - topic/employment
+  - topic/legitimate-interest
 date: "2024-08-01"
 draft: false
 ---
@@ -45,11 +48,11 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before the Commission is a Complaint filed by RVB against JTL for an alleged violation of Section 26 (Accessing Personal Information and Sensitive Personal Information Due to Negligence) of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before the Commission is a Complaint filed by RVB against JTL for an alleged violation of [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26]] (Accessing Personal Information and Sensitive Personal Information Due to Negligence) of the Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
-On 24 January 2024, RVB filed a complaint against JTL for violating Section 26 (Access Due to Negligence) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).[^1]
+On 24 January 2024, RVB filed a complaint against JTL for violating [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26]] (Access Due to Negligence) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).[^1]
 
 RVB and JTL were employees of KMC Solutions, Inc. (KMC).[^2] RVB alleged that they were “engaged in private conversations through a messaging platform where [they] exchanged sensitive and confidential information.”[^3] He further claimed that without obtaining his “explicit consent,” JTL shared screenshots of their conversations, which displayed his registered mobile number, with individuals who were not part of their original conversation.[^4] According to RVB, the “action resulted in the unauthorized disclosure of [his] personal data, violating [his] right to privacy and significantly impacting his mental health.”[^5]
 
@@ -99,7 +102,7 @@ Workplace Harassment. 18
 
 Thus, RVB alleged that JTL should be held liable under [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 of the DPA]] (Access Due to Negligence).[^19] RVB prayed for a fine and reprimand against JTL together with a formal written apology for unauthorized disclosure and any other appropriate remedies deemed fit by the NPC.[^20]
 
-On 08 March 2024, the NPC, through its Legal and Enforcement Office (LEO), issued a Decision dismissing the complaint outright on the basis that “it does not pertain to a violation of the Data Privacy Act of 2012 or does not involve a privacy violation or personal data breach.”[^21] In its Decision, the LEO held that the complaint “does not involve a privacy violation” because JTL supposedly had lawful basis under Section 13 (f) in relation to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] when it processed RVB’s personal data.[^22]
+On 08 March 2024, the NPC, through its Legal and Enforcement Office (LEO), issued a Decision dismissing the complaint outright on the basis that “it does not pertain to a violation of the Data Privacy Act of 2012 or does not involve a privacy violation or personal data breach.”[^21] In its Decision, the LEO held that the complaint “does not involve a privacy violation” because JTL supposedly had lawful basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] in relation to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] when it processed RVB’s personal data.[^22]
 
 In response to the LEO’s Decision, RVB filed a Motion for Reconsideration (MR) dated 26 March 2024.[^23] In the MR, RVB emphasized that the conversation between him and JTL had “a reasonable expectation of privacy, as [they] are the only parties involved in that conversation.”[^24]
 
@@ -165,7 +168,7 @@ Whether JTL is liable under Section 26 of the DPA (Access Due to Negligence).
 
 The Commission finds that JTL is not liable for violating Section 26 of the DPA (Access Due to Negligence).
 
-A person who, through negligence and without proper authorization, allows access to personal or sensitive personal information is liable under Section 26 of the DPA (Access Due to Negligence). It provides:
+A person who, through negligence and without proper authorization, allows access to personal or sensitive personal information is liable under [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 of the DPA]] (Access Due to Negligence). It provides:
 
 > Section 26. Accessing Personal Information and Sensitive Personal Information Due to Negligence. (a) Accessing personal information due to negligence shall be penalized by imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) shall be imposed on persons who, due to negligence, provided access to personal information without being authorized under this Act or any existing law.
 >
@@ -180,7 +183,7 @@ To be held liable under Section 26 of the DPA (Access Due to Negligence), the fo
 
 In this case, the first and second elements are present as there was access to RVB’s mobile number during the investigation of the administrative case.
 
-Section 3 (g) of the DPA defines personal information as follows:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (g)]] of the DPA defines personal information as follows:
 
 > Section 3. Definition of Terms. Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -196,13 +199,13 @@ Further, RVB’s mobile number, when associated with other data in the screensho
 
 It is undisputed that JTL shared these screenshots containing RVB’s mobile number with the investigation panel, thereby granting them access to RVB’s personal information. The act of sharing these screenshots constitutes “access,” since the information was viewed and used by the panel members during the pendency of the administrative case against RVB.
 
-The third element requires that the access to personal or sensitive personal information was not authorized under the DPA or any other existing law. Here, the access was based on lawful criteria under Sections 12 and 13 of the DPA. Thus, this element is not present.
+The third element requires that the access to personal or sensitive personal information was not authorized under the DPA or any other existing law. Here, the access was based on lawful criteria under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA. Thus, this element is not present.
 
 Section 13 (f) of the DPA provides a lawful basis for processing sensitive personal information when it is “necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims.”[^74] This lawful basis for processing can be applied to personal information and treated as processing necessary for the purpose of legitimate interest under Section 12 (f) of the DPA.[^75]
 
 The processing of RVB’s personal information, which was included in the screenshots, was necessary for Respondent to defend his lawful rights in the administrative proceedings. This processing falls within the scope of legitimate interest under Section 12 (f) of the DPA, which allows for the lawful processing of personal information when it is necessary for legitimate interest, provided that these interests are not overridden by the fundamental rights and freedoms of the data subject.[^76]
 
-For lawful processing of personal information based on legitimate interest, the following requisites under Section 4 of the Guidelines on Legitimate Interest must also be complied with:
+For lawful processing of personal information based on legitimate interest, the following requisites under Section 4 of the [[issuances/2023/guidelines-on-legitimate-interest|Guidelines on Legitimate Interest]] must also be complied with:
 
 > Section 4. Requisites for Processing Based on Legitimate Interest; Legitimate Interest Assessment. Processing based on legitimate interest requires the fulfillment of the following conditions:
 >
@@ -234,7 +237,7 @@ Since the third element is not present, JTL is not liable for violating Section 
 
 Notwithstanding the foregoing, the Commission takes this opportunity to admonish the LEO for outrightly dismissing the complaint on substantive grounds in its 08 March 2024 Decision.[^81]
 
-The LEO’s interpretation of Section 1 (3) of Rule IV of NPC Circular 2021-01 (2021 NPC Rules of Procedure) and its decision to dismiss the complaint outright is not only misguided but also a blatant overreach of its authority.
+The LEO’s interpretation of Section 1 (3) of Rule IV of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 2021-01 (2021 NPC Rules of Procedure)]] and its decision to dismiss the complaint outright is not only misguided but also a blatant overreach of its authority.
 
 Section 1 (3) of Rule IV of the 2021 NPC Rules of Procedure provides:
 
@@ -364,16 +367,16 @@ GENERAL RECORDS UNIT
 [^68]: Id .at 6 .
 [^69]: Id.
 [^70]: Id. NPC 24-005
-[^71]: Id. §26 .NPC 24-005
-[^72]: Id. § 3 (g) .
+[^71]: Id. [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|§26]] .NPC 24-005
+[^72]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]] .
 [^73]: Id.
-[^74]: Id. §13 (f).
+[^74]: Id. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§13 (f)]].
 [^75]: KRL v . Trinity University of Asia, AA, MC, NCB, RG GV, GCT, RR, MR, PB, CID Case No. 17 -K-003,
-[^76]: Data Privacy Act 0f 2012, §12 (f).
-[^77]: National Privacy Commission, Guidelines on Legitimate Interest , Circular No. 07 , Series of 20 23
+[^76]: Data Privacy Act 0f 2012, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12 (f)]].
+[^77]: National Privacy Commission, [[issuances/2023/guidelines-on-legitimate-interest|Guidelines on Legitimate Interest]] , Circular No. 07 , Series of 20 23
 [^78]: Motion for Reconsideration, 26 March 2024, at 2, in RVB v. JTL , NPC 24-005 (NPC 2024).
 [^80]: Id .at 11 .
 [^81]: Decision, 08 March 2024, in RVB v. JTL , NPC 24-005 (NPC 2024).
-[^82]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission
+[^82]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]
 [^83]: Id. NPC 24-005
 [^84]: Order ,18 April 2024, at 4, in RVB v. JTL , NPC 24-005 (NPC 2024).

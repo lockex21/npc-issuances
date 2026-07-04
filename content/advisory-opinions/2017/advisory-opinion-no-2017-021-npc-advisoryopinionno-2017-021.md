@@ -1,10 +1,17 @@
 ---
 title: "NPC Advisory Opinion No. 2017-021 — Scope of the Data Privacy Act of 2012"
 description: "Advisory Opinion on scope of the data privacy act of 2012 under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2017-021"
+  - "npc advisory opinion no. 2017-021"
+  - "Advisory Opinion No. 2017-021"
+  - "advisory opinion no. 2017-021"
 tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2017"
+  - "topic/breach-notification"
+  - "topic/data-sharing"
 draft: false
 ---
 
@@ -23,8 +30,8 @@ draft: false
 Dear [Redacted],
 
 This pertains to your query received by the National Privacy Commission (NPC) on 12 May
-2017, via email, which sought to clarify the following matters regarding Republic Act No.
-101731, also known as the Data Privacy Act of 2012 (DPA):
+2017, via email, which sought to clarify the following matters regarding [[laws/data-privacy-act-of-2012|Republic Act No.
+101731]], also known as the Data Privacy Act of 2012 (DPA):
 
 ### Discussion
 
@@ -81,7 +88,7 @@ information submitted to the CIC by cooperatives is listed among those considere
 DPA as a special case.
 
 
-Section 4 of the law and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the Implementing Rules and Regulations]] (IRR) exempt
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the law]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the Implementing Rules and Regulations]] (IRR) exempt
 specific types or classes of information from its scope - in particular, paragraph (e) of the
 latter states:
 
@@ -139,7 +146,7 @@ personal information against any accidental or unlawful destruction, alteration 
 disclosure, as well as against any other unlawful processing.[^13]
 
 We also wish to emphasize the NPC’s circulars on data sharing agreements involving the
-government (NPC Circular No. 2016-02) and personal data breach management (NPC Circular No. 2016-03). The first circular requires the review of all existing data sharing
+government ([[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 2016-02]]) and personal data breach management ([[issuances/undated/personal-data-breach-management|NPC Circular No. 2016-03]]). The first circular requires the review of all existing data sharing
 arrangements and/or actual contracts, joint issuances, or any similar documents, and make
 the necessary revisions thereto, execution of a data sharing agreement where applicable, and
 the immediate termination of the sharing of personal data in instances where the
@@ -260,13 +267,13 @@ Privacy Commissioner and Chairman
 
 [^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, "Data Privacy Act of 2012" (15 August 2012).
 
-[^2]: Id., §3(g) Personal Information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id., §3(g)]] Personal Information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 
 [^3]: Id., §3(h) Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose perosnal information on his or her behalf. This term excludes: (1) A person or oganization who performs such functions as instructed by another person or organization; and (2) An individual who collects, holds, processes or use personal information in connection with the individual's personal, family or household affairs.
 
 [^4]: Id., §3(i) Personal information processor refers to any natural or juridical person qualified to act as such under this Act to whom a personal information controller may outsource the processing of personal data pertaining to a data subject.
 
-[^5]: Id., §4.
+[^5]: [[laws/data-privacy-act-of-2012#section-4-scope|Id., §4]].
 
 [^6]: AN ACT CREATING THE COOPERATIVE DEVELOPMENT AUTHORITY TO PROMOTE THE VIABILITY AND GROWTH OF COOPERATIVES AS INSTRUMENTS OF EQUITY, SOCIAL JUSTICE AND ECONOMIC DEVELOPMENT, DEFINING ITS POWERS, FUNCTIONS AND RESPONSIBILITIES, RATIONALIZING GOVERNMENT POLICIES AND AGENCIES WITH COOPERATIVE FUNCTIONS, SUPPORTING COOPERATIVE DEVELOPMENT, TRANSFERRING THE REGISTRATION AND REGULATION FUNCTIONS OF EXISTING GOVERNMENT AGENCIES ON COOPERATIVES AS SUCH AND CONSOLIDATING THE SAME WITH THE AUTHORITY, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES (10 March 1990).
 
@@ -282,16 +289,16 @@ Privacy Commissioner and Chairman
 
 [^12]: Id., §2.
 
-[^13]: DPA, §20
+[^13]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|DPA, §20]]
 
-[^14]: IRR of the DPA, §38(a).
+[^14]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-38-data-breach-notification|IRR of the DPA, §38(a)]].
 
-[^15]: IRR of the DPA, §41(a).
+[^15]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-41-breach-report|IRR of the DPA, §41(a)]].
 
 [^16]: Available at www.privacy.gov.ph
 
-[^17]: IRR of the DPA, §48.
+[^17]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-48-notification-of-automated-processing-operations|IRR of the DPA, §48]].
 
-[^18]: See DPA, §25-33
+[^18]: See [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|DPA, §25]]-33
 
-[^19]: DPA, §35.
+[^19]: [[laws/data-privacy-act-of-2012#section-35-large-scale|DPA, §35]].

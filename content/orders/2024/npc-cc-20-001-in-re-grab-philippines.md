@@ -55,7 +55,7 @@ On 01 December 2023, Grab PH's counsel received a copy of the 17 August 2023 Ord
 
 > In consideration of the Honorable Commission's findings above, and in its efforts to uphold the data privacy rights of its data subjects and, at the same time, address the primordial safety and security concerns of its partner-drivers and passengers, Grab reduced the retention period for Selfie data of users who committed heinous crimes, such as murder, rape, armed robbery, physical or sexual assault, and theft, from a maximum of forty (40) years to a maximum of ten (10) years. A copy of the revised Privacy Impact Assessment for the Consumer Verification via Selfie Project ("PIA PAX Selfie") is attached hereto as Annex "B", for this Honorable Commission's consideration and approval.[^8]
 
-According to Grab PH, the 10-year retention period is consistent with the provisions of Rule IV, Section 19 of [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) which states:
+According to Grab PH, the 10-year retention period is consistent with the provisions of Rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19]] of [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) which states:
 
 > …
 > d. Personal Data shall not be retained longer than necessary:
@@ -160,7 +160,7 @@ GENERAL RECORDS UNIT
 [^6]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, at p. 1.
 [^7]: Id.
 [^8]: Id., at p. 2.
-[^9]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173; see also National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 19(d) (2016).
+[^9]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173; see also National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]], rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|§ 19(d)]] (2016).
 [^10]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, at p. 3.
 [^11]: Id.
 [^12]: Id.
@@ -172,8 +172,8 @@ GENERAL RECORDS UNIT
 [^18]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, at p. 5.
 [^19]: Id.
 [^20]: Id.
-[^21]: National Privacy Commission, Guidelines on Privacy Impact Assessments, NPC Advisory 2017-03, in General Principles (31 July 2017) (NPC Advisory 2017-03).
+[^21]: National Privacy Commission, [[issuances/2017/guidelines-on-privacy-impact-assessments|Guidelines on Privacy Impact Assessments, NPC Advisory 2017-03]], in General Principles (31 July 2017) (NPC Advisory 2017-03).
 [^22]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, referred to as Annex "B" at p. 15.
 [^23]: Id.
-[^24]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 11 (2012); see also Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18(c) (2016).
+[^24]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]] (2012); see also [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]], rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(c)]] (2016).
 [^25]: Motion for Reconsideration dated 18 December 2023 of Grab Philippines, at p. 3.

@@ -5,7 +5,14 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/employment
+  - topic/government
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-008"
+  - "npc advisory opinion no. 2018-008"
+  - "Advisory Opinion No. 2018-008"
+  - "advisory opinion no. 2018-008"
 ---
 
 ## Source
@@ -45,7 +52,7 @@ The above is implemented by the City of Dumaguete under their own Local Tax Code
 
 We understand that the list of all employees with their corresponding annual salary for 2017 is being requested by the Office of the City Treasurer for submission prior to the actual visit of the representative of said office for purposes of facilitating the efficiency of the transaction, i.e. to enable them to prepare and print the CTCs beforehand, ready for signature and thumbprinting of the respective employees.
 
-Upon evaluation, the personal information being requested by the Office of the City Treasurer satisfies the general data privacy principles of transparency, legitimate purpose and proportionality.[^4]
+Upon evaluation, the personal information being requested by the Office of the City Treasurer satisfies the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-17-general-data-privacy-principles|general data privacy principles]] of transparency, legitimate purpose and proportionality.[^4]
 
 First, the collection and processing of personal information is pursuant to a statutory mandate.[^5] Second, there is an assurance that the personal information collected will be stored securely and kept confidential.[^6] Third, the information requested are relevant and necessary to enable the Office of the City Treasurer to accurately compute and determine the community tax to be collected from every employee.[^7]
 
@@ -70,7 +77,7 @@ Privacy Commissioner and Chairman
 [^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, “Data Privacy Act of 2012” (15 August 2012).
 [^2]: Implementing Rules and Regulations of the Data Privacy Act (24 August 2016).
 [^3]: Letter from the Office of the City Treasurer of Dumaguete City dated 12 February 2018.
-[^4]: Implementing Rules and Regulations of RA No. 10173, §17 and 18.
+[^4]: Implementing Rules and Regulations of RA No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-17-general-data-privacy-principles|§17]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|18]].
 [^5]: *Id.*
 [^6]: *Id.*
 [^7]: *Id.*

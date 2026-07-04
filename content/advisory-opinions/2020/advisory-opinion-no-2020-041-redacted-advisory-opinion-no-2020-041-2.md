@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/security"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-041"
+  - "npc advisory opinion no. 2020-041"
+  - "Advisory Opinion No. 2020-041"
+  - "advisory opinion no. 2020-041"
 ---
 
 ## Source
@@ -139,7 +145,7 @@ As such communications are well under the scope of the DPA, any processing of pe
 data for the purposes of sending unsolicited commercial communications should be in
 accordance with the provisions of the DPA, its IRR, NPC issuances as well as other existing
 laws, rules and regulations. Senders of unsolicited commercial communications must have a
-valid legal ground for processing under Section 12 or 13 of the DPA, where appropriate, and
+valid legal ground for processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, where appropriate, and
 effectively become personal information controllers (PICs) who must uphold data subject’s
 rights and fulfill specific requirements on security measures for the protection of personal
 data laid down by the law and its IRR.
@@ -190,4 +196,4 @@ Privacy Commissioner
 
 [^6]: An Act to Ordain and Institute the Civil Code of the Philippines, [CIVIL CODE OF THE PHILIPPINES], Republic Act No. 386, Art.8, (1949).
 
-[^7]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^7]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).

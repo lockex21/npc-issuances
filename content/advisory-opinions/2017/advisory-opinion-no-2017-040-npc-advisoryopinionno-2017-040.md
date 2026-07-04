@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2017"
+aliases:
+  - "NPC Advisory Opinion No. 2017-040"
+  - "npc advisory opinion no. 2017-040"
+  - "Advisory Opinion No. 2017-040"
+  - "advisory opinion no. 2017-040"
 draft: false
 ---
 
@@ -58,4 +63,4 @@ Very truly yours,
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: See: RA No. 10173, §4 and 6
+[^1]: See: [[laws/data-privacy-act-of-2012#section-4-scope|RA No. 10173, §4]] and [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|6]]

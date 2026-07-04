@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-079"
+  - "npc advisory opinion no. 2018-079"
+  - "Advisory Opinion No. 2018-079"
+  - "advisory opinion no. 2018-079"
 ---
 
 ## Source
@@ -31,7 +36,7 @@ In particular, you seek clarification on the exemption provided under [[laws/dat
 
 The DPA applies to all types of processing of personal data,[^2] including disclosure through authentication of a copy of a marriage contract which is considered sensitive personal information.[^3]
 
-Note, however, that Section 4 of the law and Section 5 of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) exempt specific types of information from its scope and application. Specifically, paragraph (d) of the latter states:
+Note, however, that [[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] of the law and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5]] of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) exempt specific types of information from its scope and application. Specifically, paragraph (d) of the latter states:
 
 > Section 5. Special Cases. The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:
 >
@@ -114,9 +119,9 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Id. § 4.
+[^2]: [[laws/data-privacy-act-of-2012#section-4-scope|Id. § 4]].
 [^3]: Id. § 3 (l) — Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
+[^4]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5]] (2016).
 [^5]: An Act Reorganizing and Modernizing the National Bureau of Investigation (NBI) And Providing Funds Therefor [NBI Reorganization and Modernization Act], Republic Act No. 10867, § 3 (2016).
 [^6]: An Act Defining the Crime of Child Pornography, Prescribing Penalties Therefor and For Other Purposes [Anti-Child Pornography Act Of 2009] Republic Act No. 9775, § 20 (2009).
 [^7]: An Act Instituting the Comprehensive Dangerous Drugs Act of 2002, Repealing Republic Act No. 6425, Otherwise known as the Dangerous Drugs Act of 1972, as Amended, Providing Funds Therefor, and for Other Purposes [Comprehensive Dangerous Drugs Act Of 2002] Republic Act No. 9165 (2002).

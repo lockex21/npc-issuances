@@ -11,6 +11,7 @@ tags:
   - "type/advisory"
   - "year/2023"
   - "topic/consent"
+  - "topic/data-subject-rights"
 draft: false
 date: '2023-11-07'
 ---
@@ -19,11 +20,11 @@ date: '2023-11-07'
 
 **Advisory No. 2023-01**
 
-WHEREAS, Section 7 (g) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]) provides that the National Privacy Commission (NPC) is empowered to publish, on a regular basis, a guide to all laws relating to data protection;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 (g) of the Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]) provides that the National Privacy Commission (NPC) is empowered to publish, on a regular basis, a guide to all laws relating to data protection;
 
 WHEREAS, the NPC issued a Circular on the “Guidelines on Consent” to elaborate on the processing of personal data based on consent and to emphasize the fair processing of personal data in a manner that is neither manipulative nor unduly oppressive to data subjects;
 
-WHEREAS, Section 7 (A) of the Guidelines on Consent provides that the use of deceptive methods, such as deceptive design patterns, results in vitiated consent for not being freely given;
+WHEREAS, [[issuances/2023/guidelines-on-consent#elements-of-consent|Section 7 (A) of the Guidelines on Consent]] provides that the use of deceptive methods, such as deceptive design patterns, results in vitiated consent for not being freely given;
 
 WHEREAS, consent is not freely given in instances where there is any element of pressure, intimidation, possibility of adverse consequences for refusal to give consent, or any other inability to exercise free will by the data subject;
 

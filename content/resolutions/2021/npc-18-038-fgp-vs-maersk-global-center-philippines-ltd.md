@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/data-subject-rights
 date: "2021-02-23"
 draft: false
 ---
@@ -58,13 +59,13 @@ Respondent also attached in its Manifestation copies of the email between them a
 
 This Commission deems the submission of the Respondent's Manifestation sufficient and satisfactory to its Order as indicated in its Decision dated 21 May 2020.
 
-In cases where the data subject files a complaint for the violation of his or her rights as a data subject, it is within this Commission's powers to award indemnity on the basis of applicable provisions of the Data Privacy Act of 2012 (DPA) and the New Civil Code.[^4] In the instant case, this Commission found that the Complainant's right to access under the DPA has been violated by the Respondent. Thus, the award of nominal damages is warranted.
+In cases where the data subject files a complaint for the violation of his or her rights as a data subject, it is within this Commission's powers to award indemnity on the basis of applicable provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and the New Civil Code.[^4] In the instant case, this Commission found that the Complainant's right to access under the DPA has been violated by the Respondent. Thus, the award of nominal damages is warranted.
 
 Respondent duly complied with the Commission's Order to pay nominal damages to Complainant within fifteen (15) days from receipt of the Decision. Further, this Commission recognizes the fact that the last day of the compliance period is on 30 January 2021 which falls on a Saturday and therefore, Respondent was able to comply with the Order on the next working day or on 01 February 2021.
 
 Upon review of the Manifestation and the attachments submitted by the Respondent, this Commission finds that they have submitted sufficient proof which shows their full compliance with the Order. The Respondent attached the copies of the following documents as proof of compliance: the Bank of the Philippine Islands (BPI) check to Complainant; the LBC official delivery receipt; Satisfaction of Judgment; and the screenshot of the delivery tracking details showing that the check was claimed by FGP on 02 February 2021.[^5] Moreover, this Commission, through the Enforcement Division, conducted a follow-up call on 11 February 2021, where the Complainant confirmed the receipt of the Respondent's payment on 02 February 2021.
 
-In consideration of the above information, this Commission finds that the Manifestation filed by Respondent and proof of payment of the nominal damages to Complainant adequately complies with the Commission's Decision. Further, this Commission avails the opportunity of once again reminding Personal Information Controllers (PICs), the importance of upholding the data subject rights such as the right to access, whereas PICs are required to provide reasonable access, upon demand, specific information such as the contents of their personal information that were processed, the manner by which they were processed, and the designation or name or identity and address of the PIC to the data subjects.[^6] Such exercise of rights should be liberally interpreted in a manner mindful of the rights and interests of the individual, subject only to few conditions provided in the DPA and its Implementing Rules and Regulations (IRR).
+In consideration of the above information, this Commission finds that the Manifestation filed by Respondent and proof of payment of the nominal damages to Complainant adequately complies with the Commission's Decision. Further, this Commission avails the opportunity of once again reminding Personal Information Controllers (PICs), the importance of upholding the data subject rights such as the right to access, whereas PICs are required to provide reasonable access, upon demand, specific information such as the contents of their personal information that were processed, the manner by which they were processed, and the designation or name or identity and address of the PIC to the data subjects.[^6] Such exercise of rights should be liberally interpreted in a manner mindful of the rights and interests of the individual, subject only to few conditions provided in the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).
 
 **WHEREFORE**, premises considered, this Commission hereby finds the submission of Maersk Global Service Centres, Philippines, Ltd., in its Manifestation **SUFFICIENT** in compliance with the Commission's Decision dated 21 May 2020. Further, this Commission hereby considers NPC Case No. 18-038, FGP v. Maersk Global Service Centres, Philippines, Ltd., **CLOSED**.
 

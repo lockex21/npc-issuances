@@ -30,7 +30,7 @@ data of beneficial owners of oil, gas, and mining companies, in line with an int
 campaign to counter or prevent the use of anonymous shell companies to hide or launder
 money and conceal potential conflicts of interest within the extractives sector, and how
 publication of this BO information can be done while complying with data privacy laws, such
-as the Data Privacy Act of 2012[^2] (DPA).
+as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 ### Discussion
 
@@ -114,7 +114,7 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
 [^3]: Securities and Exchange Commission, Amendment of SEC Memorandum Circular No. 17, Series of 2018, on the Revision of the General Information Sheet (GIS) to include Beneficial Ownership Information ("2019 Revision of the GIS"), Memorandum Circular No. 15, series of 2019 [SEC M.C. No. 15-2019] (Jul. 26, 2019).
 
@@ -128,4 +128,4 @@ Privacy Commissioner
 
 [^8]: Id. § 2.5 (d).
 
-[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c)
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]]

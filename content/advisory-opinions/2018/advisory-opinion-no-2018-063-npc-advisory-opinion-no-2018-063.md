@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/consent
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-063"
+  - "npc advisory opinion no. 2018-063"
+  - "Advisory Opinion No. 2018-063"
+  - "advisory opinion no. 2018-063"
 ---
 
 ## Source
@@ -25,7 +31,7 @@ Dear [Redacted]:
 
 We write in response to your request to review the Armed Forces and Police Savings and Loan Association, Inc. (AFPSLAI) Data Privacy Consent Form template.
 
-We wish to emphasize that there is no requirement under the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and issuances of the NPC to have the various consent forms reviewed and approved by the NPC. Nonetheless, we take this opportunity to elucidate the concept of consent under the DPA and how this may be operationalized.
+We wish to emphasize that there is no requirement under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and issuances of the NPC to have the various consent forms reviewed and approved by the NPC. Nonetheless, we take this opportunity to elucidate the concept of consent under the DPA and how this may be operationalized.
 
 [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the DPA]] defines consent of the data subject as any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so.
 
@@ -80,11 +86,11 @@ The provisions of the draft form may actually form part of the privacy notice of
 This document is an embodiment of the observance of the data privacy principle of transparency and upholding the right to information of data subjects. Being a mere notice, it is emphasized that the privacy notice is not equivalent to consent. Obtaining consent from the data subject for the purposes of processing his or her personal data is a different requirement altogether.
 
 [^1]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC [General Data Protection Regulation] 2016 O.J. (L 119), Recital 32.
-[^2]: Data Privacy Act of 2012, § 12 (b).
-[^3]: *Id.*, § 12(c).
-[^4]: *Id.*, § 12(f).
-[^5]: *Id.*, § 13(b).
-[^6]: *Id.*, § 13(d).
-[^7]: *Id.*, § 13(f).
-[^8]: *Id.*, § 11(d).
+[^2]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (b)]].
+[^3]: *Id.*, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12(c)]].
+[^4]: *Id.*, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12(f)]].
+[^5]: *Id.*, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13(b)]].
+[^6]: *Id.*, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13(d)]].
+[^7]: *Id.*, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13(f)]].
+[^8]: *Id.*, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11(d)]].
 [^9]: IAPP, Glossary of Privacy Terms, available at https://iapp.org/resources/glossary/#paperwork-reduction-act-2

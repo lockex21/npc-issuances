@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-033"
+  - "npc advisory opinion no. 2021-033"
+  - "Advisory Opinion No. 2021-033"
+  - "advisory opinion no. 2021-033"
 ---
 
 ## Source
@@ -37,8 +42,8 @@ You now seek opinion from the NPC on the following matters, as to whether:
    gave rise to the issuance of an arrest warrant or conviction) of erring personnel due to
    his/her administrative or criminal offense, through an internal e-mail dissemination or
    posting in an intranet (internal repository) as a measure to assist the bank’s efforts to
-   combat fraud and create a deterrent effect is permissible under the Data Privacy Act of
-   2012[^1] (DPA); and
+   combat fraud and create a deterrent effect is permissible under the [[laws/data-privacy-act-of-2012|Data Privacy Act of
+   2012]][^1] (DPA); and
 2. A caveat in the publication or email message warning its internal stakeholders that
    unauthorized dissemination of the information contained therein may be punishable
    under the DPA.
@@ -93,8 +98,8 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 17 (c) (2016).
+[^2]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-17-general-data-privacy-principles|§ 17]] (c) (2016).
 
 [^3]: Bangko Sentral ng Pilipinas, Amendments to Operational Risk Management and Internal Control Measures [Circular No. 1112, series of 2021] (April 8, 2021).

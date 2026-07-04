@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/legitimate-interest"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-039"
+  - "npc advisory opinion no. 2020-039"
+  - "Advisory Opinion No. 2020-039"
+  - "advisory opinion no. 2020-039"
 ---
 
 ## Source
@@ -36,7 +42,7 @@ The DPA defines personal information as any information, whether recorded in a m
 
 Based on this definition, transaction details such as bank account numbers and transaction reference numbers may be considered as personal information since said details can directly identify a person. In this regard, these transaction details fall within the scope of the DPA.
 
-Note that the processing of personal information shall be permitted if not otherwise prohibited by law, and when at least one of the criteria required by the DPA is met. In particular, Section 12 (f) of the law provides that the processing of personal information is allowed when it is "necessary for the purpose of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution."
+Note that the processing of personal information shall be permitted if not otherwise prohibited by law, and when at least one of the criteria required by the DPA is met. In particular, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f)]] of the law provides that the processing of personal information is allowed when it is "necessary for the purpose of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution."
 
 Under this provision, a personal information controller (PIC) must be able to establish that a legitimate interest in processing the personal information exists. As discussed in our previous Advisory Opinion, legitimate interests are matters that are desired or important to a PIC, which may include business, financial or other reasonable purpose, which are of course not contrary to law, morals or public policy. For this reason, the PIC or third party or parties to whom the personal data is disclosed must clearly identify such legitimate interest, reasonable purpose and intended outcome.
 
@@ -62,7 +68,7 @@ Second, only personal information which is necessary and proportionate to facili
 
 Lastly, it should be established that the fundamental rights and freedoms of data subjects are not overridden by the legitimate interests of the PIC. Hence, there should be minimal impact on the data subjects and in the exercise of their rights. To determine any potential risks, it must be assessed whether the data subjects had a reasonable expectation at the time and in the context of the collection of personal information that processing for fraud investigation purposes may take place.
 
-Among the factors which may be considered in assessing the reasonableness of the processing are the relationship between the PIC and the data subject and the transparency of the PIC at the time of the collection of data. For a more comprehensive discussion on reasonable expectation, kindly refer to NPC Case 17-047 available at https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf.
+Among the factors which may be considered in assessing the reasonableness of the processing are the relationship between the PIC and the data subject and the transparency of the PIC at the time of the collection of data. For a more comprehensive discussion on reasonable expectation, kindly refer to [[decisions/2019/npc-17-047-jv-vs-jr|NPC Case 17-047]] available at https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf.
 
 In the current matter, the data subjects who utilized the facilities of Union Bank for their electronic transactions may reasonably expect that the latter must ensure that all transactions are legitimate, which includes the prevention or resolution of possible and committed frauds, respectively. Moreover, the business of banking is of a fiduciary nature which requires high standards of integrity and performance.
 
@@ -84,11 +90,11 @@ Very truly yours,
 Privacy Commissioner
 
 [^1]: Tags: personal information; bank transaction details; fraud investigation; legitimate interests.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3 (g) (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012]], Republic Act No. 10173, § 3 (g) (2012).
 [^3]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-061-npc-advisory-opinion-no-2018-061|NPC Advisory Opinion No. 2018-061]] citing United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
 [^4]: Ibid.
 [^5]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Recital 47 (2016).
-[^6]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
+[^6]: See generally, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12]] (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
 [^7]: EU GDPR, Recital 47.
 [^8]: An Act Providing for the Regulation of the Organization and Operations of Banks, Quasi-Banks, Trust Entities, and for Other Purposes [General Banking Law of 2000] Republic Act No. 8791, § 2 (2000).
-[^9]: Data Privacy Act of 2012, § 20 (c) (4).
+[^9]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, § 20]] (c) (4).

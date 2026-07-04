@@ -6,6 +6,8 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/breach-notification
+  - topic/employment
 aliases:
   - "NPC BN 18-037"
   - "npc bn 18-037"
@@ -63,7 +65,7 @@ On 21 March 2018, Acesite sent a notification on the incident, which informed th
 
 On 29 August 2019, Acesite submitted its Full Breach Report (Report). On 13 January 2021, Acesite resubmitted the Full Breach Report.
 
-In an Order dated 21 January 2021, the Commission required Acesite to submit an Updated Report expounding the details of the incident, supplying the lacking information required pursuant to Section 17(D) of the NPC Circular 16-03, and attaching the specified documents to further help with the investigation of the data breach incident.[^3] On 01 March 2021, Acesite resubmitted its Full Breach Report.
+In an Order dated 21 January 2021, the Commission required Acesite to submit an Updated Report expounding the details of the incident, supplying the lacking information required pursuant to Section 17(D) of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], and attaching the specified documents to further help with the investigation of the data breach incident.[^3] On 01 March 2021, Acesite resubmitted its Full Breach Report.
 
 ### Issue
 
@@ -76,7 +78,7 @@ The issues in this case are as follows:
 
 #### *I. The matter reported is an availability breach with regard to the loss of the personal data caused by fire.*
 
-This Commission finds that the matter reported by Acesite is an availability breach which is one of the natures of a personal data breach. **Section 3(F) of the NPC Circular 16-03 provides:**
+This Commission finds that the matter reported by Acesite is an availability breach which is one of the natures of a personal data breach. **Section 3(F) of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides:**
 
 > **F.** “Personal data breach” refers to a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed. A personal data breach may be in the nature of:
 >
@@ -96,7 +98,7 @@ Considering that the records and files were accidentally destroyed and the perso
 
 #### *II. The incident does not fall within the scope of the mandatory breach notification requirements.*
 
-This Commission finds that this case does not fall under the mandatory breach notification requirements. In order to determine whether an incident falls under the mandatory breach notification requirement, **Section 11 of the NPC Circular 16-03 provides:**
+This Commission finds that this case does not fall under the mandatory breach notification requirements. In order to determine whether an incident falls under the mandatory breach notification requirement, **Section 11 of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides:**
 
 > Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 >
@@ -176,10 +178,10 @@ GENERAL RECORDS UNIT
 
 [^3]: Order dated 21 January 2021, p. 1-2.
 
-[^4]: Section 3(J) of the NPC Circular 16-03
+[^4]: Section 3(J) of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]
 
 [^5]: National Privacy Commission. (n.d.). Exercising Breach Reporting Procedures. Retrieved from https://www.privacy.gov.ph/exercising-breach-reporting-procedures/
 
 [^6]: Ibid. at p. 2.
 
-[^7]: Section 22 of the NPC Circular 16-03
+[^7]: Section 22 of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]

@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/data-subject-rights
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-045"
+  - "npc advisory opinion no. 2018-045"
+  - "Advisory Opinion No. 2018-045"
+  - "advisory opinion no. 2018-045"
 ---
 
 ## Source
@@ -87,6 +93,6 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: National Center for Health Facility Development (NCHFD), Hospital Health Information Management Manual - Third Edition (formerly Hospital Medical Records Management Manual) (2010).
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 26(e)(4) (2016).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-26-organizational-security-measures|§ 26(e)(4)]] (2016).
 [^4]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), Article 12 (2016).

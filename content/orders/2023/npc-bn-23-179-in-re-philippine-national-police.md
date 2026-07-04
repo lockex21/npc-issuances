@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2023"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2023-11-13"
 draft: false
 ---
@@ -47,7 +48,7 @@ At the time of said notification, the PNP averred that there was no data loss ba
 
 On 14 August 2023, the Commission issued a Minute Resolution with the following dispositive portion:
 
-> Pursuant to Section 17 (D) of NPC Circular No. 16-03 (Personal Data Breach Management), the Commission may require additional information, if necessary, for the proper resolution of the requests for exemption to notify the affected data subjects and extension of forty-five (45) days to submit its full report.
+> Pursuant to Section 17 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]], the Commission may require additional information, if necessary, for the proper resolution of the requests for exemption to notify the affected data subjects and extension of forty-five (45) days to submit its full report.
 >
 > **WHEREFORE**, premises considered, the Commission hereby **ORDERS** the Philippine National Police to **SUBMIT** within five (5) days upon receipt of this Minute Resolution proof to substantiate the requests for exemption to notify the affected data subjects and extension of forty-five (45) days to submit its full report.
 >
@@ -65,7 +66,7 @@ Nonetheless, the PNP reiterated its request for extension to submit full report 
 
 Accordingly, the Commission notes PNP's Compliance dated 22 August 2023. In PNP's Compliance, it withdrew the request for exemption, rendering such request moot. However, the Commission orders PNP to submit proof of notification directly to the CMD.
 
-At the outset, it should be emphasized that notification of data subjects of data breaches is the general rule. Section 18 (A) of NPC Circular 16-03 provides:
+At the outset, it should be emphasized that notification of data subjects of data breaches is the general rule. Section 18 (A) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides:
 
 > A. When should notification be done. The data subjects shall be notified within seventy-two (72) hours upon knowledge of or reasonable belief by the personal information controller or personal information processor that a personal data breach has occurred.
 >
@@ -81,7 +82,7 @@ Section 18 (B) of the same Circular provides for the circumstances where exempti
 
 In this case, aside from justifying its request on the basis that the affected data subject is a wanted person,[^16] the PNP failed to adduce sufficient evidence for the Commission to conclude that notification would not be in the public interest or in the interest of the affected data subjects.
 
-Furthermore, notwithstanding PNP's request for exemption, it already purportedly notified its affected data subjects.[^17] In this regard, Section 18 (D) of NPC Circular 16-03 states:
+Furthermore, notwithstanding PNP's request for exemption, it already purportedly notified its affected data subjects.[^17] In this regard, Section 18 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] states:
 
 > D. Form. Notification of affected data subjects shall be done individually, using secure means of communication, whether written or electronic. The personal information controller shall take the necessary steps to ensure the proper identity of the data subject being notified, and to safeguard against further unnecessary disclosure of personal data.
 >
@@ -143,11 +144,11 @@ GENERAL RECORDS UNIT
 [^11]: Id.
 [^12]: Id.
 [^13]: Id.
-[^14]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18 (A) (15 December 2016) (NPC Circular 16-03).
-[^15]: NPC Circular 2016-03, rule V, § 18 (B).
+[^14]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18 (A) (15 December 2016) (NPC Circular 16-03).
+[^15]: [[issuances/undated/personal-data-breach-management|NPC Circular 2016-03]], rule V, § 18 (B).
 [^16]: In re: Philippine National Police, NPC BN 23-179, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS).
 [^17]: Compliance dated 22 August 2023 of Philippine National Police, at p. 1.
-[^18]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18 (D) (15 December 2016) (NPC Circular 16-03).
+[^18]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18 (D) (15 December 2016) (NPC Circular 16-03).
 [^19]: Compliance dated 22 August 2023 of Philippine National Police, at p. 1.
 [^20]: In Re Health Delivery System, Inc., [[resolutions/2021/npc-bn-20-049-in-re-health-delivery-system-inc|NPC BN 20-049]], Resolution dated 01 July 2021, at p. 5.
 [^21]: Id, at p. 4.

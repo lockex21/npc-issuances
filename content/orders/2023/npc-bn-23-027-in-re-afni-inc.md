@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2023"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/employment"
 date: "2023-03-16"
 draft: false
 ---
@@ -62,7 +64,7 @@ On 16 February 2023, AFNI sent an email to the Commission requesting the deletio
 
 On 27 February 2023, the Commission issued a Minute Resolution resolving that:
 
-> Pursuant to Section 17 (D) of NPC Circular No. 16-03 (Personal Data Breach Management), the Commission may require additional information, if necessary, for the proper resolution of the request for exemption to notify the affected data subjects.
+> Pursuant to Section 17 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management), the Commission may require additional information, if necessary, for the proper resolution of the request for exemption to notify the affected data subjects.
 >
 > **WHEREFORE**, premises considered, the Commission hereby **ORDERS** Afni Inc to **SUBMIT** within five (5) days upon receipt of this Minute Resolution proof to substantiate the request for exemption to notify the affected data subjects.
 >
@@ -74,7 +76,7 @@ Accordingly, AFNI submitted its Manifestation/Compliance dated 06 March 2023, st
 
 The Commission resolves to deny AFNI's request for exemption to notify the affected data subjects.
 
-Section 18(B) of NPC Circular No. 16-03 (Personal Data Breach Management) provides:
+Section 18(B) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management) provides:
 
 > SECTION 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -92,7 +94,7 @@ Further, investigations by AFNI revealed that six (6) of its employees were invo
 
 AFNI also reported in its Initial Report that there was indeed a personal data breach that involved thirty (30) data subjects[^28] affecting their PIN numbers[^29] which can likely result to exposure to unlawful access of their confidential information.[^30] These initial reports made by AFNI contradict its statements made from its compliance with the Minute Resolution dated 27 February 2023 stating that no breach has occurred and that the incident is merely an internal error.[^31]
 
-Lastly, the Commission requires AFNI to explain on its belated notification to the Commission of the incident. Section 17(A) of NPC Circular No. 16-03 provides:
+Lastly, the Commission requires AFNI to explain on its belated notification to the Commission of the incident. Section 17(A) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides:
 
 > SECTION 17. Notification of the Commission. The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 >
@@ -108,7 +110,7 @@ WHEREFORE, premises considered, the Commission hereby **DENIES** the request of 
 
 Further, AFNI, INC. is hereby ordered to **SHOW CAUSE** in writing why it should not be subjected to contempt proceedings, as permitted by law, before the appropriate court, and other actions as may be available to the Commission, for its failure to notify the Commission within the prescribed period.
 
-Lastly, the Commission **DIRECTS** the Compliance and Monitoring Division (CMD) to issue the appropriate orders necessary to evaluate and monitor the completeness of AFNI, INC.'s data breach notification and assess its breach management pursuant to NPC Circular 16-03 (Personal Data Breach Management).
+Lastly, the Commission **DIRECTS** the Compliance and Monitoring Division (CMD) to issue the appropriate orders necessary to evaluate and monitor the completeness of AFNI, INC.'s data breach notification and assess its breach management pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).
 
 **SO ORDERED.**
 
@@ -156,18 +158,18 @@ GENERAL RECORDS UNIT
 [^18]: NPC BN 23-027, (unreported), Minute Resolution dated 27 February 2023, at p. 1.
 [^19]: Manifestation/Compliance dated 06 March 2023 of AFNI, Inc., ¶ 2.
 [^20]: Electronic mail dated 16 February 2023 of AFNI, Inc.
-[^21]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18(B) (15 December 2016) (NPC Circular 16-03).
+[^21]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18(B) (15 December 2016) (NPC Circular 16-03).
 [^22]: In re: AFNI, Inc., NPC BN 23-027, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS) (14 February 2023).
 [^23]: NPC BN 23-027, (unreported), Minute Resolution dated 27 February 2023, at p. 1.
 [^24]: Electronic mail dated 16 February 2023 of AFNI, Inc.
 [^25]: Manifestation/Compliance dated 06 March 2023 of AFNI, Inc., ¶ 2.
-[^26]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 17(D) (15 December 2016) (NPC Circular 16-03).
+[^26]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 17(D) (15 December 2016) (NPC Circular 16-03).
 [^27]: In re: AFNI, Inc., NPC BN 23-027, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), 1. b in Chronology of AFNI, Inc. (14 February 2023).
 [^28]: Id. 1.c Number of DS / Records (14 February 2023).
 [^29]: Id. 1. b in Chronology of AFNI, Inc. (14 February 2023).
 [^30]: Id. 1.e Likely Consequences of AFNI, Inc. (14 February 2023).
 [^31]: Manifestation/Compliance dated 06 March 2023 of AFNI, Inc., ¶ 2.
-[^32]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 17(A) (15 December 2016) (NPC Circular 16-03).
+[^32]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 17(A) (15 December 2016) (NPC Circular 16-03).
 [^33]: In re: AFNI, Inc., NPC BN 23-027, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), Brief Summary of AFNI, Inc. (14 February 2023).
 [^34]: Id. Date of Notification of AFNI, Inc. (14 February 2023).
 [^35]: Id. Brief Summary of AFNI, Inc. (14 February 2023).

@@ -5,7 +5,14 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2018"
+  - "topic/consent"
+  - "topic/legitimate-interest"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-020"
+  - "npc advisory opinion no. 2018-020"
+  - "Advisory Opinion No. 2018-020"
+  - "advisory opinion no. 2018-020"
 ---
 
 ## Source
@@ -23,7 +30,7 @@ Re: POSTING OF THE LIST OF ADMITTED STUDENTS ON THE BULLETIN BOARD OF THE SCHOOL
 
 Dear [Redacted]:
 
-This refers to your inquiry received by the Privacy Policy Office of the National Privacy Commission (NPC) on 21 March 2018. You asked whether the Data Privacy Act (DPA) of 2012 allows your school to post on its bulletin board, the names of accepted first year medical students in the College of Medicine without the students’ consent.
+This refers to your inquiry received by the Privacy Policy Office of the National Privacy Commission (NPC) on 21 March 2018. You asked whether the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA) of 2012 allows your school to post on its bulletin board, the names of accepted first year medical students in the College of Medicine without the students’ consent.
 
 We understand that it has been a common practice among universities such as the University of the East Ramon Magsaysay Memorial Medical Center, Inc. (UERMMMCI), a personal information controller (PIC),[^1] to post on its bulletin board, the names of successful applicants to the College of Medicine. This is done without the consent of the students. Under the DPA, such activity is considered as processing[^2] of personal information.
 

@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/online-lending"
 date: "2022-01-13"
 draft: false
 ---
@@ -56,7 +57,7 @@ Furthermore, Respondent Wefund Lending Corporation and its responsible officers 
 
 In case of failure by the Respondent and its responsible officers to file a Comment, this case shall be deemed submitted for resolution based on the evidence on record.
 
-The proceedings before the Commission based on the Fact-Finding Report of the CID, which serves as the Complaint against Respondent Wefund Lending Corporation and its responsible officers, will now resume, pursuant to Section 2, Rule IX of the 2021 NPC Rules of Procedure.
+The proceedings before the Commission based on the Fact-Finding Report of the CID, which serves as the Complaint against Respondent Wefund Lending Corporation and its responsible officers, will now resume, pursuant to [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ix-ban-on-processing-of-personal-data|Section 2, Rule IX]] of the 2021 NPC Rules of Procedure.
 
 **SO ORDERED.**[^1]
 
@@ -96,7 +97,7 @@ In its efforts to comply with the Order dated 12 August 2021, JuanHand revised i
 
 including changes in its Privacy Policy and Service Agreement.[^22] Finally, it also revised its Service Agreement and prepared a new Privacy Policy to address the concerns raised in the Complaints and Investigation Division's FFR and the Order dated 12 August 2021.[^23]
 
-Given all these, the Commission finds that JuanHand has sufficiently addressed the reasons for the issuance of the Temporary Ban stated in the 12 August 2021 Order. Rule IX Section 8 of NPC Circular No. 21-01 or the 2021 Rules of Procedure states:
+Given all these, the Commission finds that JuanHand has sufficiently addressed the reasons for the issuance of the Temporary Ban stated in the 12 August 2021 Order. [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ix-ban-on-processing-of-personal-data|Rule IX Section 8]] of NPC Circular No. 21-01 or the 2021 Rules of Procedure states:
 
 > Section 8. *Duration of temporary ban.* - When issued, the temporary ban on processing of personal data shall remain in effect until the final resolution of the main case, or **upon further orders by the Commission or other lawful authority.**[^24]
 
@@ -175,4 +176,4 @@ GENERAL RECORDS UNIT
 
 [^23]: Comment to the Order and Temporary Ban dated 01 September 2021, 02 September 2021, at 1 - 2, in In re: Wefund Lending Corporation, NPC SS 21-006, (NPC 2021); Supplemental Comment with Motion for Lifting of Temporary Ban, 10 September 2021, at 11, 15 - 18, in In re: Wefund Lending Corporation, NPC SS 21-006, (NPC 2021); Motion to Resolve, 17 December 2021, at 4 - 5 in In re: Wefund Lending Corporation, NPC SS 21-006, (NPC 2021); Supplemental Motion to Resolve, 10 January 2022, at 4 - 5, in In re: Wefund Lending Corporation, NPC SS 21-006, (NPC 2021).
 
-[^24]: National Privacy Commission, Personal Data Breach Management, Circular No. 01, Series of 2021 [NPC Circ. No. 21-01], Rule IX § 8 (28 January 2021). Emphasis supplied.
+[^24]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure]], Circular No. 01, Series of 2021 [NPC Circ. No. 21-01], [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ix-ban-on-processing-of-personal-data|Rule IX § 8]] (28 January 2021). Emphasis supplied.

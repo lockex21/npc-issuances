@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/government"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-036"
+  - "npc advisory opinion no. 2020-036"
+  - "Advisory Opinion No. 2020-036"
+  - "advisory opinion no. 2020-036"
 ---
 
 ## Source
@@ -34,7 +40,7 @@ However, some LGUs refused to issue the said documents to NGCP for concerns over
 
 #### Lawful Processing of Personal and Sensitive Personal Information; Criteria; Sections 12 and 13
 
-The DPA provides for the various criteria for processing personal and sensitive personal information (collectively, personal data) under Sections 12 and 13, respectively. Specifically applicable in this scenario are the following provisions:
+The DPA provides for the various criteria for processing personal and sensitive personal information (collectively, personal data) under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]], respectively. Specifically applicable in this scenario are the following provisions:
 
 > SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -80,7 +86,7 @@ Very truly yours,
 Privacy Commissioner
 
 [^1]: Tags: land documents; government franchise; eminent domain; expropriation; mandate; NGCP; legal obligation; law; legal claims.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: The letter of NGCP to DILG was attached by the latter in its letter to NPC as a supporting document.
 [^4]: An Act Granting the National Grid Corporation of the Philippines Franchise to Engage in the Business of Conveying or Transmitting Electricity Through High Voltage Backbone System of Interconnected Transmission Lines, Substations and Related Facilities, and For Other Purposes, Republic Act No. 9511 (2008).
 [^5]: R.A. No. 9511, § 1.
@@ -88,4 +94,4 @@ Privacy Commissioner
 [^7]: Id. § 4.
 [^8]: Id.
 [^9]: Abobon v. Abata, G.R. No. 155830, August 15, 2012 and Republic v. Metro Index Realty and Development Corporation, G.R. No. 198585, July 2, 2012.
-[^10]: National Privacy Commission, NPC Advisory Opinion No. 2018-083 (Oct. 29, 2018).
+[^10]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Oct. 29, 2018).

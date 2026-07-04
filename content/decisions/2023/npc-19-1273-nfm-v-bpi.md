@@ -11,6 +11,7 @@ tags:
   - type/decision
   - year/2019
   - npc-case
+  - topic/security
 date: "2023-01-19"
 draft: false
 ---
@@ -42,7 +43,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before the Commission is a complaint filed by NFM against the Bank of the Philippine Islands Family – Credit Card Division (BPI) for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before the Commission is a complaint filed by NFM against the Bank of the Philippine Islands Family – Credit Card Division (BPI) for an alleged violation of Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -137,7 +138,7 @@ NFM emphasized that extraordinary diligence is required of banks since their bus
 
 ### Issue
 
-Whether BPI's supposed failure to safeguard NFM's personal information constitutes a violation of the DPA.
+Whether BPI's supposed failure to safeguard NFM's personal information constitutes a violation of the [[laws/data-privacy-act-of-2012|DPA]].
 
 ### Discussion
 
@@ -167,7 +168,7 @@ It is not sufficient for a Complainant, such as NFM, to make allegations without
 
 The basic rule is that mere allegation is not evidence and is not equivalent to proof. Likewise, charges based on mere suspicion and speculation cannot be given credence.[^69]
 
-In this case, NFM did not present substantial evidence to prove that BPI's supposed failure to implement proper security measures was the cause of the unauthorized transaction and not her own negligence. Thus, the Commission cannot find BPI liable for violating Section 25 (Unauthorized Processing of Personal Information and Sensitive Personal Information) and Section 30 (Concealment of Security Breaches Involving Sensitive Personal Information) of the DPA.
+In this case, NFM did not present substantial evidence to prove that BPI's supposed failure to implement proper security measures was the cause of the unauthorized transaction and not her own negligence. Thus, the Commission cannot find BPI liable for violating [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (Unauthorized Processing of Personal Information and Sensitive Personal Information)]] and [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Section 30 (Concealment of Security Breaches Involving Sensitive Personal Information)]] of the DPA.
 
 NFM's contentions cannot give rise to the conclusion that BPI violated the DPA for its lack of security measures.
 
@@ -184,7 +185,7 @@ BPI's verification process, using the OTP sent to NFM's supposed registered mobi
 
 The Commission sternly reminds Personal Information Controllers (PICs) of their continuing obligation to ensure that the personal data they process, whether offline or online, are properly protected. As such, PICs must monitor, evaluate, and update their security measures considering the developments in technology and the risks that data subjects are exposed to.
 
-Section 20 (a) and (c) of the DPA provide the PIC's obligation to implement measures for the protection of personal information:
+[[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) and (c) of the DPA]] provide the PIC's obligation to implement measures for the protection of personal information:
 
 > Section 20. *Security of Personal Information*.
 >
@@ -214,7 +215,7 @@ As stated, there is an obligation for a PIC to observe regular monitoring and pr
 
 Thus, as a recognition and vindication of this right, this Commission awards nominal damages to NFM in the total amount of Five Thousand Pesos (Php 5,000.00). NFM, as a data subject, has a correlative right to anticipate that BPI is safeguarding her personal information.
 
-Although this case occurred before the effectivity of the NPC Circular 22-01 or the Guidelines on Administrative Fines, the Commission stresses that it will not hesitate to impose fines in order for PICs, such as banks, to adopt optimal levels of data protection and security in handling personal and sensitive personal information of their customers.
+Although this case occurred before the effectivity of the [[issuances/2022/guidelines-on-administrative-fines|NPC Circular 22-01 or the Guidelines on Administrative Fines]], the Commission stresses that it will not hesitate to impose fines in order for PICs, such as banks, to adopt optimal levels of data protection and security in handling personal and sensitive personal information of their customers.
 
 On NFM's prayer on the reversal of unauthorized transactions, such is beyond the jurisdiction of the Commission.
 
@@ -337,8 +338,8 @@ GENERAL RECORDS UNIT
 [^71]: Id.
 [^72]: Id. at 2.
 [^73]: Id.
-[^74]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (a), (c)(4) (2012).
+[^74]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (a), (c)(4)]] (2012).
 [^75]: Id.
 [^76]: An Act to Ordain and Institute the Civil Code of the Philippines [NEW CIVIL CODE], Republic Act No. 386, art. 2221 (1950).
-[^77]: Data Privacy Act, § 20 (c) 4.
+[^77]: [[laws/data-privacy-act-of-2012|Data Privacy Act]], [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (c) 4]].
 [^78]: Serrano v. Court of Appeals, 363 SCRA 223, 231 (2001).

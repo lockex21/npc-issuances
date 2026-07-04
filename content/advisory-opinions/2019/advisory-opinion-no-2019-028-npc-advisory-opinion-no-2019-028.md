@@ -5,7 +5,14 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+  - topic/employment
+  - topic/security
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-028"
+  - "npc advisory opinion no. 2019-028"
+  - "Advisory Opinion No. 2019-028"
+  - "advisory opinion no. 2019-028"
 ---
 
 ## Source
@@ -23,7 +30,7 @@ Re: PUBLICATION OF LIST OF CASES FILED AGAINST EMPLOYERS FOR NON-PAYMENT OF SOCI
 
 Dear [Redacted],
 
-We write in response to your request which sought clarification on whether the publication in the newspaper or posting in the Social Security System (SSS) website of a list of cases filed against the employers for non-payment of social security contributions and pending before the Social Security Commission (SSC) will be in violation of the Data Privacy Act of 2012 (DPA).[^2]
+We write in response to your request which sought clarification on whether the publication in the newspaper or posting in the Social Security System (SSS) website of a list of cases filed against the employers for non-payment of social security contributions and pending before the Social Security Commission (SSC) will be in violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^2]
 
 ### Discussion
 
@@ -52,7 +59,7 @@ We wish to reiterate that the DPA applies only to processing of personal informa
 
 Based on the foregoing, corporations are considered as juridical persons. Hence, the processing of a juridical person's information is outside the scope of the DPA. The publication in the newspaper or posting in the SSS website of cases of corporations may be allowed for purposes of availing the condonation program as provided under the SSA.
 
-As to the processing of personal and sensitive personal information (collectively, personal data) of employers who are individuals or natural persons, i.e. sole proprietorships, the processing of the same may find support in the DPA, specifically Section 12(e) – when processing is necessary in order to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate and/or Section 13(b) – when processing is provided for by existing laws and regulations.
+As to the processing of personal and sensitive personal information (collectively, personal data) of employers who are individuals or natural persons, i.e. sole proprietorships, the processing of the same may find support in the DPA, specifically [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(e)]] – when processing is necessary in order to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate and/or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(b)]] – when processing is provided for by existing laws and regulations.
 
 Nevertheless, we wish to emphasize that while the processing of personal data in this case is for the fulfillment of a statutory mandate, the SSC, as a personal information controller, is required to observe and adhere to the data privacy principles of transparency, proportionality and legitimate purpose, and uphold the rights of data subjects.
 

@@ -5,7 +5,14 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2025"
+  - "topic/data-sharing"
+  - "topic/government"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-004"
+  - "npc advisory opinion no. 2025-004"
+  - "Advisory Opinion No. 2025-004"
+  - "advisory opinion no. 2025-004"
 ---
 
 ## Source
@@ -21,7 +28,7 @@ Re: DATA SHARING PROTOCOLS BETWEEN GOVERNMENT AGENCIES TO STREAMLINE IDENTITY VE
 
 Dear [Redacted]:
 
-This pertains to your request for guidance on the requirements for data sharing between the Philippine Veterans Affairs Office (PVAO) and the Philippine National Police (PNP) under the Data Privacy Act of 2012 (DPA),[^2] its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and other related issuances.
+This pertains to your request for guidance on the requirements for data sharing between the Philippine Veterans Affairs Office (PVAO) and the Philippine National Police (PNP) under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (DPA)]],[^2] its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and other related issuances.
 
 ### Discussion
 
@@ -31,15 +38,15 @@ Currently, PVAO is implementing a Single ID System Program (the “Program”), 
 
 #### Data Sharing Agreements
 
-NPC Circular No. 2020-03 (On Data Sharing Agreements) defines “data sharing” as the sharing, disclosure, or transfer to a third party of personal data under the custody of a personal information controller (PIC) to one or more other PICs.[^4] Data sharing may be covered by a DSA or a similar document containing the terms and conditions of the sharing agreement, including obligations to protect the personal data shared, the responsibilities of the parties, mechanisms through which data subjects may exercise their rights, among others.[^5]
+[[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] (On Data Sharing Agreements) defines “data sharing” as the sharing, disclosure, or transfer to a third party of personal data under the custody of a personal information controller (PIC) to one or more other PICs.[^4] Data sharing may be covered by a DSA or a similar document containing the terms and conditions of the sharing agreement, including obligations to protect the personal data shared, the responsibilities of the parties, mechanisms through which data subjects may exercise their rights, among others.[^5]
 
 Please note that only PICs (such as PVAO and the PNP in this case) can be parties to a data sharing agreement. Please note further that a DSA need not be strictly in the form of a contract as the same may also be executed through a joint issuance or any similar document (e.g., policy or Memorandum of Agreement, etc).[^6] We emphasize, however, that despite the permissive language of NPC Circular 2020-03 regarding the execution of a DSA, it is highly recommended for PICs to execute one or any similar document as a matter of best practice and for purposes of accountability. The execution of a DSA is a sound recourse and demonstrates accountable personal data processing, as well as good faith in complying with the requirements of the DPA, its IRR, and issuances of the NPC.
 
-For the basic contents of a DSA, you may refer to Section 9 of NPC Circular No. 2020-03.
+For the basic contents of a DSA, you may refer to Section 9 of [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]].
 
 #### Lawful processing; statutory mandate
 
-Since data sharing is considered as processing of personal data, the parties to the DSA must satisfy at least one of the criteria set forth under Section 12 (for personal information) or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (for sensitive personal information and privileged information) of the DPA]]. In the present case, the processing of personal data may find basis under Section 12 (c) or Section 13 (b), to wit:
+Since data sharing is considered as processing of personal data, the parties to the DSA must satisfy at least one of the criteria set forth under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] (for personal information) or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (for sensitive personal information and privileged information) of the DPA]]. In the present case, the processing of personal data may find basis under Section 12 (c) or Section 13 (b), to wit:
 
 > Sec. 12. Criteria for Lawful Processing of Personal Information – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 > xxx
@@ -53,7 +60,7 @@ Since data sharing is considered as processing of personal data, the parties to 
 
 #### Adherence to general data privacy principles; Appropriate security measures
 
-In addition to establishing the appropriate lawful basis, any data sharing between or among government agencies, regardless of form or arrangement, must comply with the following principles under NPC Circular No. 2020-03 on Data Sharing Agreements:
+In addition to establishing the appropriate lawful basis, any data sharing between or among government agencies, regardless of form or arrangement, must comply with the following principles under [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] on Data Sharing Agreements:
 
 a) Adherence to the data privacy principles of transparency, legitimate purpose, and proportionality;
 b) Fulfillment of all applicable requirements prescribed by the DPA, its Implementing Rules and Regulations (IRR), and other issuances of the NPC;
@@ -84,7 +91,7 @@ In the case of *Ople vs. Torres*,[^9] the Supreme Court emphasized:
 >
 > It is plain and we hold that A.O. No. 308 falls short of assuring that personal information which will be gathered about our people will only be processed for unequivocally specified purposes. xxx
 
-As can be gleaned therefrom, the mere fact that personal data is shared with a government agency does not, by itself, ensure its security absent any express guarantee that adequate safeguards are in place for data protection. NPC Circular 2023-06 (Security of Personal Data in the Government and the Private Sector) outlines the minimum standards and requirements for the security of personal data. A PIC or a personal information processor (PIP) may implement more detailed or stricter policies and procedures that reflect industry-specific operating requirements. As such, the PIC or PIP is in the best position to determine the reasonable and appropriate organizational, physical, and technical security measures to implement, considering that it has the most knowledge of its own operations and IT infrastructure.
+As can be gleaned therefrom, the mere fact that personal data is shared with a government agency does not, by itself, ensure its security absent any express guarantee that adequate safeguards are in place for data protection. [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular 2023-06]] (Security of Personal Data in the Government and the Private Sector) outlines the minimum standards and requirements for the security of personal data. A PIC or a personal information processor (PIP) may implement more detailed or stricter policies and procedures that reflect industry-specific operating requirements. As such, the PIC or PIP is in the best position to determine the reasonable and appropriate organizational, physical, and technical security measures to implement, considering that it has the most knowledge of its own operations and IT infrastructure.
 
 Please be advised that this Advisory Opinion was rendered based solely on the information
 you have provided. Any extraneous fact that may be subsequently furnished us may affect
@@ -102,7 +109,7 @@ Director IV, Privacy Policy Office
 [^1]: Tags: data sharing; criteria for lawful processing; mandate; general data privacy principles; security measures.
 [^2]: Republic Act No. 10173.
 [^3]: An Act Standardizing and Upgrading the Benefits for Military Veterans and Their Dependents.
-[^4]: §2(F), NPC Circular No. 2020-03 (Data Sharing Agreements).
+[^4]: §2(F), [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] (Data Sharing Agreements).
 [^5]: Id. §8.
 [^6]: Id. §2(G).
 [^7]: Id. §3.

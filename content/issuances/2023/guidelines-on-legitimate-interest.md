@@ -141,7 +141,7 @@ The factors that may be considered include but are not limited to:
    C.     In case of an investigation or a compliance check, the NPC may require the  
             submission of the records of the legitimate interest assessment.
 
-**SECTION 9.** ***Further Processing of Personal Information Based on Legitimate Interest.*** For personal information originally collected based on consent, further processing for additional purposes that constitute a legitimate interest of the PIC may be allowed in accordance with Section 6(B) of the Circular on the Guidelines on Consent.
+**SECTION 9.** ***Further Processing of Personal Information Based on Legitimate Interest.*** For personal information originally collected based on consent, further processing for additional purposes that constitute a legitimate interest of the PIC may be allowed in accordance with Section 6(B) of the [[issuances/2023/guidelines-on-consent|Circular on the Guidelines on Consent]].
 
 **SECTION 10.** ***Legitimate Interest of Third Parties.*** A PIC shall verify the legitimate interest of the third party to whom personal information may be disclosed, either through its own legitimate interest assessment or on the basis of the third party’s legitimate interest assessment, as stated in Section 4 of this Circular.
 

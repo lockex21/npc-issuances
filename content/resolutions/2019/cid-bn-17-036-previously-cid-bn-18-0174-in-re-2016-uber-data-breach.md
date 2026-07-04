@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "npc-case"
   - "year/2019"
+  - "topic/breach-notification"
 date: "2019-07-31"
 draft: false
 ---
@@ -38,7 +39,7 @@ For consideration of this Commission is the data breach notification dated 27 No
 
 ### Facts
 
-Section 18 of Circular No. 16-03 provides when notification of data subjects should be done, thus:
+Section 18 of [[issuances/undated/personal-data-breach-management|Circular No. 16-03]] provides when notification of data subjects should be done, thus:
 
 > "The data subjects shall be notified within seventy-two (72) hours **upon knowledge of or reasonable belief by the personal information controller or personal information processor that a personal data breach has occurred**. The notification may be made on the basis of available information within the 72-hour period if the personal data breach is **likely to give rise to a real risk to the rights and freedoms of data subjects**. It shall be undertaken in a manner that would allow data subjects to take the necessary precautions or other measures to protect themselves against the possible effects of the breach. It may be supplemented with additional information at a later stage on the basis of further investigation."[^1]
 
@@ -82,7 +83,7 @@ UBER TECHNOLOGIES, INC.
 Market Street
 San Francisco, California
 
-[^1]: National Privacy Commission Circular No. 16-03, §18(a). Emphasis supplied.
+[^1]: National Privacy Commission [[issuances/undated/personal-data-breach-management|Circular No. 16-03]], §18(a). Emphasis supplied.
 [^2]: Records, p. 87.
 [^3]: Ibid.
 [^4]: Ibid.

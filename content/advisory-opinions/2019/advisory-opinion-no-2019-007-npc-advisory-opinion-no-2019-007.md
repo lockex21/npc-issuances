@@ -5,6 +5,7 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+  - topic/consent
 draft: false
 ---
 
@@ -23,7 +24,7 @@ Re: CREDIT VERIFICATION
 
 Dear [Redacted],
 
-We write in response to your inquiry regarding credit verification in relation to know-your-customer (KYC) requirements vis-à-vis the provisions of the Data Privacy Act of 2012 (DPA).[^2] In particular, you are seeking to use the existing government databases to confirm vital information submitted by credit card applicants.
+We write in response to your inquiry regarding credit verification in relation to know-your-customer (KYC) requirements vis-à-vis the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^2] In particular, you are seeking to use the existing government databases to confirm vital information submitted by credit card applicants.
 
 The use, including access thereto, of government databases is primarily subject to laws and regulations governing the respective databases. The purpose of access and use of the requesting party, as well as the particular information required to be obtained, depends upon the policy of the government agency, the purpose of the establishment of such database, and other relevant regulations.
 
@@ -33,7 +34,7 @@ The DPA applies to the processing of all types of personal information and to an
 
 ### Discussion
 
-We understand that for credit card applications, applicants provide both personal and sensitive personal information. Lawful processing of these personal data should be in accordance with Sections 12 and 13 for personal information and sensitive personal information, respectively.
+We understand that for credit card applications, applicants provide both personal and sensitive personal information. Lawful processing of these personal data should be in accordance with [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] for personal information and sensitive personal information, respectively.
 
 As stated in your letter, part of a bank's responsibility prior to issuing a credit card is to perform proper credit verification to confirm the identity and financial capability of the applicant. Likewise, the verification is important to strengthen KYC and credit underwriting processes and mitigate fraud.
 
@@ -76,8 +77,8 @@ Privacy Commissioner and Chairman
 
 [^1]: Tags: KYC; lawful processing; consent
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: *Id.* § 4.
-[^4]: *Id.* § 11.
+[^3]: *Id.* [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]].
+[^4]: *Id.* [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
 [^5]: See: National Privacy Commission, NPC Advisory 2017-42 (August 14, 2017).
-[^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(a) (2016).
-[^7]: *Id.* § 13 (c).
+[^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(a)]] (2016).
+[^7]: *Id.* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-13-organizational-structure|§ 13 (c)]].

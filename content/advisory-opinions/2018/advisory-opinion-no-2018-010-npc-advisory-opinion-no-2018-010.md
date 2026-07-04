@@ -5,7 +5,14 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/breach-notification
+  - topic/elections
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-010"
+  - "npc advisory opinion no. 2018-010"
+  - "Advisory Opinion No. 2018-010"
+  - "advisory opinion no. 2018-010"
 ---
 
 ## Source
@@ -107,6 +114,6 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 [^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, "Data Privacy Act of 2012" (15 August 2012).
-[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of RA No. 10173, §18(c).
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Implementing Rules and Regulations (IRR) of RA No. 10173, §18(c)]].
 [^3]: In re: Investigation of the security incident involving COMELEC website and/or data processing system, NPC Case No. 16-001, 28 December 2016.
 [^4]: See: Information Commissioner's Office, The amount of personal data you may hold (Principle 3), https://ico.org.uk/for-organisations/guide-to-data-protection/principle-3-adequacy/ (last visited 28 February 2018).

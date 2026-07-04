@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/legitimate-interest"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-036"
+  - "npc advisory opinion no. 2021-036"
+  - "Advisory Opinion No. 2021-036"
+  - "advisory opinion no. 2021-036"
 ---
 
 ## Source
@@ -27,8 +33,8 @@ Dear [Redacted],
 
 We write in response to your request for advisory opinion received by the National
 Privacy Commission (NPC or the Commission) to provide clarity on whether the release
-of loan documents containing personal data is allowed under the Data Privacy Act of
-2012[^2] (DPA), particularly in relation to Section 13 (f) on the establishment of legal claims.
+of loan documents containing personal data is allowed under the [[laws/data-privacy-act-of-2012|Data Privacy Act of
+2012]][^2] (DPA), particularly in relation to [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] on the establishment of legal claims.
 
 From your letter, we understand that Atty. RAN, on behalf of his client, Mr. CGS, wrote
 to the Home Development Mutual Fund (Pag-IBIG Fund) Loans Origination Department
@@ -93,7 +99,7 @@ The focal point of the query is Section 13 (f) of the DPA, which provides:
 In the interpretation of the phrase “establishment, exercise or defense of legal claims,” the
 Commission reiterated its stand in the case of BGM vs. IPP,[^4] viz:
 
-   In the case of NPC 17-018 dated 15 July 2019, this Commission held that “processing as
+   In the case of [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]] dated 15 July 2019, this Commission held that “processing as
          necessary for the establishment of legal claims” does not require an existing court
          proceeding. To require a court proceeding for the application of Section 13(f) to this
          instance would not only be to disregard the distinction provided in the law but the clear
@@ -157,8 +163,8 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 13 (f).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]] (f).
 [^4]: National Privacy Commission, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wpcontent/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 07 September 2021).
 [^5]: Citations omitted.
-[^6]: See footnote 4; citing CID Case No. 17-K-003 dated 19 November 2019 and NPC 18-135 dated 06 August 2020.
+[^6]: See footnote 4; citing [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|CID Case No. 17-K-003]] dated 19 November 2019 and [[resolutions/2018/npc-bn-18-135-in-re-kgjs-fleet-management-manila-inc|NPC 18-135]] dated 06 August 2020.

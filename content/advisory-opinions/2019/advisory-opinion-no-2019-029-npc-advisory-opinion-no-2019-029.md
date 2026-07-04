@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+  - topic/consent
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-029"
+  - "npc advisory opinion no. 2019-029"
+  - "Advisory Opinion No. 2019-029"
+  - "advisory opinion no. 2019-029"
 ---
 
 ## Source
@@ -25,7 +31,7 @@ Dear [Redacted],
 
 We write in response to your letter which sought guidance on the use of the Web-based Census and Accreditation System (Web-CAS) by the Philippine College of Chest Physicians (PCCP) in the processing of personal information. Specifically, you are concerned about the following:
 
-1. Whether or not the decision of PCCP to subcontract its processing of personal information to a third-party under a data processing agreement is allowed by Data Privacy Act (DPA);[^2] and
+1. Whether or not the decision of PCCP to subcontract its processing of personal information to a third-party under a data processing agreement is allowed by [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA);[^2] and
 2. Whether or not sharing of patient's information, limited to hospital's name, date of admittance and discharge, location, medical procedures, and initial and final diagnosis, to PCCP and its third-party processor based on explicit consent of the patient is lawful under the DPA.
 
 ### Discussion
@@ -83,9 +89,9 @@ for Policies and Planning
 *Per letter issued by the Office of the President dated 12 July 2019.
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: National Privacy Commission, NPC Advisory Opinion No. 2018-056 (5 October 2018).
+[^3]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-056-npc-advisory-opinion-no-2018-056|NPC Advisory Opinion No. 2018-056]] (5 October 2018).
 [^4]: Data Privacy Act of 2012, § 3 Definition of Terms, (h) Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf.
 [^5]: Data Privacy Act of 2012, § 3 Definition of Terms, (i) Personal information processor refers to any natural or juridical person qualified to act as such under this Act to whom a personal information controller may outsource the processing of personal data pertaining to a data subject.
 [^6]: Data Privacy Act of 2012, § 20.
-[^7]: National Privacy Commission, Rules of Procedure on Requests for Advisory Opinions, Circular No. 2018-01 [NPC Circular 18-01] (September 10, 2018), § 2.
+[^7]: National Privacy Commission, [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|Rules of Procedure on Requests for Advisory Opinions, Circular No. 2018-01]] [NPC Circular 18-01] (September 10, 2018), § 2.
 [^8]: *Id.*, § 5(a).

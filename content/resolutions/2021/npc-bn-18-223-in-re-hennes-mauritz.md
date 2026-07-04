@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/breach-notification
 date: "2021-06-01"
 draft: false
 ---
@@ -44,9 +45,9 @@ Before this Commission is the Compliance submitted by Hennes & Mauritz (H&M) wit
 
 On 15 April 2021, this Commission issued a Resolution with the following dispositive portion:
 
-**WHEREFORE**, premises considered, this Commission resolves to give Hennes & Mauritz a period of thirty (30) days from receipt of this Resolution to **EXPLAIN** its failure to report and notify the Commission and the data subject within the required periods under NPC Circular No. 16-03.
+**WHEREFORE**, premises considered, this Commission resolves to give Hennes & Mauritz a period of thirty (30) days from receipt of this Resolution to **EXPLAIN** its failure to report and notify the Commission and the data subject within the required periods under [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 
-The Resolution dated April 15 was received by H&M on 07 May 2021. In the aforesaid Resolution, the Commission determined that H&M failed to comply with the notification requirements pursuant to NPC Circular No. 16-03 on Personal Data Breach Management. Particularly, H&M failed to promptly notify this Commission within seventy-two (72) hours about the data breach from the time it figured out the incident on 14 November 2018, when the credit cards owner came back to the store and reported the incident.
+The Resolution dated April 15 was received by H&M on 07 May 2021. In the aforesaid Resolution, the Commission determined that H&M failed to comply with the notification requirements pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] on Personal Data Breach Management. Particularly, H&M failed to promptly notify this Commission within seventy-two (72) hours about the data breach from the time it figured out the incident on 14 November 2018, when the credit cards owner came back to the store and reported the incident.
 
 In its letter dated 19 May 2021, H&M stated that they were unable to confirm or even have a reasonable belief that a personal data breach has occurred until a thorough investigation was conducted and completed according to the company's standard operating procedure.
 
@@ -58,7 +59,8 @@ Therefore, H&M also argued that the seventy-two (72) hour period shall apply fro
 
 This Commission, upon reviewing the breach report and explanation submitted by H&M, finds that H&M has complied with the directive in the previous Resolution dated 15 April 2021 of the Commission and consider this matter closed.
 
-However, this Commission would like to reiterate that Section 11 of the NPC Circular No. 16-03 provides for the requirements of notification to this Commission and to the affected data subjects regarding the existence of a data breach, to wit:
+However, this Commission would like to reiterate that Section 11 of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides for the requirements of notification to this Commission and to the affected data subjects regarding the existence of a data breach, to wit:
+
 
 > Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 >
@@ -68,7 +70,7 @@ However, this Commission would like to reiterate that Section 11 of the NPC Circ
 >
 > C. The personal information controller or the Commission believes that the unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject.
 
-Corollary to this, Section 17 of the same Circular provides:
+Corollary to this, Section 17 of the same [[issuances/undated/personal-data-breach-management|Circular]] provides:
 
 > **SECTION 17. *Notification of the Commission.*** The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 >
@@ -84,7 +86,7 @@ It must be pointed out that the manager on duty discovered said credit card in t
 
 It is also worth noting that records show that the H&M concluded its investigation on 20 November 2018 but still belatedly notified the Commission on 28 November 2018.
 
-At this juncture, this Commission wants to emphasize that in case of a mandatory data breach, Personal Information Controllers (PICs) have the obligation to notify the Commission and the affected data subject within the periods mandated under NPC Circular No. 16-03.
+At this juncture, this Commission wants to emphasize that in case of a mandatory data breach, Personal Information Controllers (PICs) have the obligation to notify the Commission and the affected data subject within the periods mandated under [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 
 This Commission would like to note that H&M was able to demonstrate that it implemented reasonable and appropriate security measures to uphold data privacy and protection.
 
@@ -100,7 +102,7 @@ Moreover, H&M was able to investigate and determine the circumstances of the dat
 
 In view of the foregoing, it is therefore recognized that the security measures undertaken by H&M were sufficient in addressing the subject breach.
 
-**WHEREFORE**, premises considered, this Commission **NOTES** the explanation given by Hennes & Mauritz as to its failure to report and notify the Commission and the data subject within the required periods under NPC Circular No. 16-03.
+**WHEREFORE**, premises considered, this Commission **NOTES** the explanation given by Hennes & Mauritz as to its failure to report and notify the Commission and the data subject within the required periods under [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 
 Further, this Commission resolves that the matter NPC BN 18-223 – "In re: Hennes & Mauritz" is hereby considered **CLOSED**.
 

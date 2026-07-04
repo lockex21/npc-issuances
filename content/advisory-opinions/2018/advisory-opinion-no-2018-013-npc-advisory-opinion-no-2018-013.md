@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2018"
+  - "topic/consent"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-013"
+  - "npc advisory opinion no. 2018-013"
+  - "Advisory Opinion No. 2018-013"
+  - "advisory opinion no. 2018-013"
 ---
 
 ## Source
@@ -56,7 +62,7 @@ Being a mere notice, it is emphasized that the privacy policy or notice is not e
 consent. This document is an embodiment of the observance of the data privacy principle of
 transparency and upholding the right to information of data subjects.
 
-The principle of transparency adhered to by the DPA dictates that the data subject must be
+The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|principle of transparency]] adhered to by the DPA dictates that the data subject must be
 aware of the nature, purpose, and extent of the processing of his or her personal data,
 including the risks and safeguards involved, the identity of personal information controller, his or her rights as a data subject, and how these can be exercised.[^3] Any information and communication relating to the processing of personal data should be easy to access and understand, using clear and plain language.[^4]
 
@@ -116,8 +122,8 @@ Privacy Commissioner and Chairman
 
 [^2]: IAPP, Glossary of Privacy Terms, available at https://iapp.org/resources/glossary/#paperwork-reduction-act-2
 
-[^3]: IRR of RA No. 10173, §18(a).
+[^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|IRR of RA No. 10173, §18(a)]].
 
 [^4]: *Id.*
 
-[^5]: RA No. 10173, §3(b).
+[^5]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(b)]].

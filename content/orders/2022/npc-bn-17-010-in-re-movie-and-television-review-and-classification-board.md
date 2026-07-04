@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/security"
 date: "2022-07-14"
 draft: false
 ---
@@ -81,7 +83,7 @@ As to the conduct of an independent security audit, MTRCB submitted its Contract
 
 The Commission grants MTRCB's request for alternative means of notification of the remaining unnotified data subjects and denies the request for extension of the submission of an independent security audit.
 
-Data subject notification is an essential obligation of a Personal Information Controller (PIC).[^20] PICs are required to "establish all reasonable mechanisms to ensure that all affected data subjects are made aware of the breach."[^21] Section 18 (D) of NPC Circular 16-03 (Personal Data Breach Management) provides that a PIC may seek the Commission's approval to use alternative means of notification in lieu of individual notification in certain cases:
+Data subject notification is an essential obligation of a Personal Information Controller (PIC).[^20] PICs are required to "establish all reasonable mechanisms to ensure that all affected data subjects are made aware of the breach."[^21] Section 18 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]] provides that a PIC may seek the Commission's approval to use alternative means of notification in lieu of individual notification in certain cases:
 
 > Section 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -187,11 +189,11 @@ GENERAL RECORDS UNIT
 [^18]: Id. at 2.
 [^19]: Id.
 [^20]: NPC BN 21-035, 01 June 2021, at 4 (NPC 2021) (unreported).
-[^21]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 18 (D) (15 December 2016).
+[^21]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 03, Series of 2016]] [NPC Circ. No. 16-03], § 18 (D) (15 December 2016).
 [^22]: Id.
 [^23]: Compliance to the Order dated 15 April 2021 with Motion for Extension of Time to Comply with Directives and for Permission for other Modes of Public Notification, 14 February 2022, Annex A, in In re: Movie and Television Review and Classification Board, NPC BN No. 17-010 (NPC 2017).
 [^24]: Id. Annex A-1 to A-102, Annex B within Annex A.
-[^25]: See NPC Circ. No. 16-03, § 18.
+[^25]: See [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 18.
 [^26]: Compliance to the Order dated 15 April 2021 with Motion for Extension of Time to Comply with Directives and for Permission for other Modes of Public Notification, 14 February 2022, at 2, in In re: Movie and Television Review and Classification Board, NPC BN 17-010 (NPC 2017).
 [^27]: Id. Annex A.
 [^28]: Enforcement Division Letter Re: Compliance with National Privacy Commission (NPC) Order No. CID BN 17-010 dated 15 April 2021, 23 June 2022, at 2, in In re: Movie and Television Review and Classification Board, NPC BN 17-010 (NPC 2017).

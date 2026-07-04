@@ -5,6 +5,12 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2017"
+  - "topic/registration"
+aliases:
+  - "NPC Advisory Opinion No. 2017-034"
+  - "npc advisory opinion no. 2017-034"
+  - "Advisory Opinion No. 2017-034"
+  - "advisory opinion no. 2017-034"
 draft: false
 ---
 

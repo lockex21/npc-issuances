@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/employment"
 date: "2023-08-02"
 draft: false
 ---
@@ -80,7 +82,7 @@ However, Lazada expounded that before the issuance of the 05 November 2020 Order
 
 Accordingly, the Commission finds that Lazada must notify the affected data subjects due to the considerable number involved, submit proof of such notification and proof of the measures it allegedly took in order to address the incident.
 
-Section 18 (A) of NPC Circular No. 16-03 provides:
+Section 18 (A) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides:
 
 > SECTION 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -96,7 +98,7 @@ Further, Lazada stated that notwithstanding the lapse of time since the question
 
 It is therefore Lazada's assessment that aside from the fact that only the name and email address of the customers were primarily involved in the incident, no subsequent processing of the information in violation of the customers' privacy rights occurred.[^23]
 
-In addition, Section 13 (B) of the same Circular provides:
+In addition, Section 13 (B) of the same [[issuances/undated/personal-data-breach-management|Circular]] provides:
 
 > SECTION 13. Determination of the Need to Notify. Where there is uncertainty as to the need for notification, the personal information controller shall take into account, as a primary consideration, the likelihood of harm or negative consequences on the affected data subjects, and how notification, particularly of the data subjects, could reduce the risks arising from the personal data breach reasonably believed to have occurred. The personal information controller shall also consider if the personal data reasonably believed to have been compromised involves:
 >
@@ -162,13 +164,13 @@ GENERAL RECORDS UNIT
 [^16]: Id.
 [^17]: Response to Show Cause Order, 25 February 2022, at 1, in In re: Lazada E-Services Philippines, Inc., NPC BN 18-152 (NPC 2018).
 [^18]: Id.
-[^19]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], § 18 (15 December 2016).
+[^19]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 3, Series of 2016]] [NPC Circ. No. 16-03], § 18 (15 December 2016).
 [^20]: Final Breach Report, 25 February 2022, at 3, in In re: Lazada E-Services Philippines, Inc., NPC BN 18-152 (NPC 2018).
 [^21]: Lazada E-Services Philippines, Inc. Notification/Advisory on Possible Data Breach, 10 August 2018, at 1, in In re: Lazada E-Services Philippines, Inc., NPC BN 18-152 (NPC 2018).
 [^22]: Id.
 [^23]: Final Breach Report, 25 February 2022, at 3, in In re: Lazada E-Services Philippines, Inc., NPC BN 18-152 (NPC 2018).
-[^24]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], § 13 (15 December 2016).
+[^24]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 3, Series of 2016]] [NPC Circ. No. 16-03], § 13 (15 December 2016).
 [^25]: Lazada E-Services Philippines, Inc. Notification/Advisory on Possible Data Breach, 10 August 2018, at 2, in In re: Lazada E-Services Philippines, Inc., NPC BN 18-152 (NPC 2018).
 [^26]: In re: Crosta Crociere S.p.A., [[resolutions/2021/npc-bn-21-185-in-re-costa-crociere|NPC BN 21-185]], Resolution dated 23 September 2021, at p. 6.
 [^27]: In re: Health Delivery System, Inc., [[resolutions/2021/npc-bn-20-049-in-re-health-delivery-system-inc|NPC BN 20-049]], Resolution dated 01 July 2021, at p. 5.
-[^28]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], § 13 (15 December 2016).
+[^28]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 3, Series of 2016]] [NPC Circ. No. 16-03], § 13 (15 December 2016).

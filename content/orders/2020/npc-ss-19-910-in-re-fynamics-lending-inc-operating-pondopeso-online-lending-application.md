@@ -80,4 +80,4 @@ GENERAL RECORDS UNIT
 
 [^1]: Answer dated 15 October 2019, par. 18.
 [^2]: Answer dated 15 October 2019, par. 19.
-[^3]: R.A. 10173, Section 7 (d).
+[^3]: [[laws/data-privacy-act-of-2012|R.A. 10173]], [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 (d)]].

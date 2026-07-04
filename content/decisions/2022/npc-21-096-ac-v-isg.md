@@ -11,6 +11,7 @@ tags:
   - "type/decision"
   - "year/2021"
   - "npc-case"
+  - "topic/cctv-surveillance"
 date: "2022-05-16"
 draft: false
 ---
@@ -146,7 +147,7 @@ As a result of the non-compliance with Section 3 of Rule II of the 2021 NPC Rule
 
 Although this case warrants an outright dismissal for failure to submit a certification against forum shopping, the Commission takes this opportunity to discuss the general considerations of CCTV systems.
 
-NPC Advisory No. 2020-04 (Guidelines on the Use of Closed-Circuit Television (CCTV) Systems) was issued to guide the public on the use of CCTV systems considering its impact on the rights and freedoms of data subjects.[^51] The use of CCTV Systems shall be subject to regular review to ensure that its use remains to be necessary for specified and legitimate purposes.[^52]
+[[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|NPC Advisory No. 2020-04]] (Guidelines on the Use of Closed-Circuit Television (CCTV) Systems) was issued to guide the public on the use of CCTV systems considering its impact on the rights and freedoms of data subjects.[^51] The use of CCTV Systems shall be subject to regular review to ensure that its use remains to be necessary for specified and legitimate purposes.[^52]
 
 Section 5 (A) of NPC Advisory No. 2020-04 provides:
 
@@ -298,7 +299,7 @@ National Privacy Commission
 [^54]: *Id.* § 4 (A)(2), (B).
 [^55]: *Id.* § 4 (A)(2).
 [^56]: *Id.* § 4 (B).
-[^57]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, §§ (c) (2016).
+[^57]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§§ (c)]] (2016).
 [^58]: *Respondent's Memorandum, 06 October 2021, in AC v. ISG*, NPC 21-096 (NPC 2021).
 [^59]: *Verified Comment, 06 August 2021, in AC v. ISG*, NPC 21-096 (NPC 2021).
 [^60]: *NPC Advisory No. 20-04, § 4 (E).*

@@ -1,10 +1,16 @@
 ---
 title: "NPC Advisory Opinion No. 2017-061 — Compliance with National Privacy Commission Requirements"
+aliases:
+  - "NPC Advisory Opinion No. 2017-061"
+  - "npc advisory opinion no. 2017-061"
+  - "Advisory Opinion No. 2017-061"
+  - "advisory opinion no. 2017-061"
 description: "Addresses registration requirements for data processing systems, lawful processing and disclosure of health information, and requirements for data sharing and non-disclosure agreements."
 tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/data-sharing
 draft: false
 ---
 
@@ -34,7 +40,7 @@ This refers to your query which was received by the National Privacy Commission 
 
 #### Registration of Data Processing Systems
 
-[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Section 47 of the Implementing Rules and Regulations]] (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) in relation to Section 5 of NPC Circular No. 17-01 requires the registration of the data processing systems of personal information controllers (PICs) and personal information processors (PIPs) under the following conditions:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Section 47 of the Implementing Rules and Regulations]] (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) in relation to Section 5 of [[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-01]] requires the registration of the data processing systems of personal information controllers (PICs) and personal information processors (PIPs) under the following conditions:
 
 A. the PIC or PIP employs at least two hundred fifty (250) employees;
 
@@ -65,7 +71,7 @@ Phase 2 shall be through an online registration platform, whereby the details of
 
 #### Lawful Processing of Personal Data - Disclosure
 
-According to the DPA, the term "processing" refers any operation performed upon the personal data including, but not limited to, collection, access, disclosure of data.[^1]
+According to the [[laws/data-privacy-act-of-2012|DPA]], the term "processing" refers any operation performed upon the personal data including, but not limited to, collection, access, disclosure of data.[^1]
 
 The processing of health data, which is sensitive personal information, of a former employee is PROHIBITED, except for any of the following cases:[^2]
 
@@ -78,7 +84,7 @@ The processing of health data, which is sensitive personal information, of a for
 
 Thus, the HRD should consider the foregoing prior to disclosing any health information of the former employee.
 
-Further, in consideration of the rights of the data subject under the DPA, the former employee should be informed of the extent of disclosure of his or her health information.[^3] The disclosure of any information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.[^4]
+Further, in consideration of the rights of the data subject under the [[laws/data-privacy-act-of-2012|DPA]], the former employee should be informed of the extent of disclosure of his or her health information.[^3] The disclosure of any information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.[^4]
 
 #### Mandate of Tourism Information Enterprise Zone Authority (TIEZA)
 
@@ -88,9 +94,9 @@ Based on the limited information, any alternatives to privacy notices, data shar
 
 With regard to the data sharing agreements (DSAs) and non-disclosure agreements (NDAs), DSAs are required when there is sharing of personal data between government agencies for the purpose of a public function or provision of a public service.[^5]
 
-Note that a DSA may take the form of a contract, joint issuance, or any similar document that contains the terms and conditions of a data sharing arrangement.[^6] If there is already an existing written documentation on the sharing agreement, there is a need to review the same and determine compliance with the IRR and NPC Circular No. 16-02.[^7]
+Note that a DSA may take the form of a contract, joint issuance, or any similar document that contains the terms and conditions of a data sharing arrangement.[^6] If there is already an existing written documentation on the sharing agreement, there is a need to review the same and determine compliance with the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]].[^7]
 
-On the other hand, there is no explicit requirement under the DPA, IRR and issuances of the NPC on the need for an NDA. But where personal data is required to be kept confidential, one contractual way to ensure the same is through the execution of NDAs.
+On the other hand, there is no explicit requirement under the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and issuances of the NPC on the need for an NDA. But where personal data is required to be kept confidential, one contractual way to ensure the same is through the execution of NDAs.
 
 For your reference.
 
@@ -99,10 +105,10 @@ Very truly yours,
 **RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
-[^1]: RA No. 10173, §3
-[^2]: Id., §13
-[^3]: IRR of RA 10173, §18(a)
+[^1]: [[laws/data-privacy-act-of-2012|RA No. 10173]], §3
+[^2]: Id., [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§13]]
+[^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA 10173, §18(a)
 [^4]: Id., §18(b)
-[^5]: Id., §20(d)
+[^5]: Id., [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|§20(d)]]
 [^6]: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], §3(E)
-[^7]: NPC Circular No. 16-02, §19
+[^7]: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], §19

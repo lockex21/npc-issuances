@@ -10,6 +10,7 @@ tags:
 - issuance
 - type/faq
 - year/2020
+- topic/breach-notification
 draft: false
 date: "2020-10-06"
 ---

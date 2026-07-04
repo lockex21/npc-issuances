@@ -27,7 +27,7 @@ Re: PUBLICATION OF CONTESTABLE CUSTOMERS' INFORMATION IN THE ENERGY REGULATORY C
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC or Commission), which sought to clarify whether or not the Energy Regulatory Commission (ERC) may publish the names of those determined as contestable customers and their generic location, pursuant to the Retail Competition and Open Access (RCOA) scheme under Republic Act No. 9136[^2], in accordance with the provisions of the Data Privacy Act of 2012[^3] (DPA).
+We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC or Commission), which sought to clarify whether or not the Energy Regulatory Commission (ERC) may publish the names of those determined as contestable customers and their generic location, pursuant to the Retail Competition and Open Access (RCOA) scheme under Republic Act No. 9136[^2], in accordance with the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^3] (DPA).
 
 In your letter-request, we understand that the RCOA is a scheme which allows qualified end-users to choose among licensed suppliers of electricity, resulting in competitive prices offered in the market called the Competitive Retail Electricity Market (CREM). To implement this scheme, the ERC is mandated to provide transparency by publishing the list of qualified contestable customers in the ERC's website.
 
@@ -71,8 +71,8 @@ Very truly yours,
 Privacy Commissioner
 
 [^2]: An Act Ordaining Reforms in the Electric Power Industry, Amending for the Purpose Certain Laws and for Other Purposes [Electric Power Industry Reform Act of 2001], Republic Act No. 9136 (2001).
-[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^4]: Electric Power Industry Reform Act of 2001, § 31.
 [^5]: Ibid.
-[^6]: Data Privacy Act of 2012, § 12 (c).
-[^7]: Id. § 12 (e).
+[^6]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (c)]].
+[^7]: Id. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (e)]].

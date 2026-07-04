@@ -6,6 +6,7 @@ tags:
   - type/resolution
   - year/2018
   - npc-case
+  - topic/breach-notification
 draft: false
 aliases:
   - "NPC BN 18-069"
@@ -49,7 +50,7 @@ On 08 July 2020, the CID submitted the case to the Commission for its resolution
 
 ### Discussion
 
-Personal data refers to all types of personal information. Under the Data Privacy Act (DPA), it is divided into two major categories, namely: Personal Information[^1] and Sensitive Personal Information[^2].
+Personal data refers to all types of personal information. Under the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA), it is divided into two major categories, namely: Personal Information[^1] and Sensitive Personal Information[^2].
 
 On the other hand, Personal data breach is defined in the DPA [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) as, “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed.”[^3]
 
@@ -57,7 +58,7 @@ Given the above definitions, it can be deduced that no personal information was 
 
 On the concern regarding PRC and other government agencies logbook policies, while it is true that the logbook policy of every agency of the government should abide by the general data privacy principles of transparency, legitimate purpose, and proportionality[^5]; the concerned citizen failed to substantiate his general claim that the PRC violated the DPA.
 
-Section 22 of NPC Circular 16-04 or The Rules of Procedure of the National Privacy Commission provides that the Commission shall adjudicate the issues raised in the complaint on the basis of all the evidence presented and its own consideration of the law. Hence, this Commission gives greater weight to PRC’s statement that the logbook described in the social media post has not been in the possession or custody of any of its office over the bare allegations of the citizen in his social media post.
+Section 22 of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] or The Rules of Procedure of the National Privacy Commission provides that the Commission shall adjudicate the issues raised in the complaint on the basis of all the evidence presented and its own consideration of the law. Hence, this Commission gives greater weight to PRC’s statement that the logbook described in the social media post has not been in the possession or custody of any of its office over the bare allegations of the citizen in his social media post.
 
 **WHEREFORE**, premises considered, this Commission resolves that the matter of NPC BN No. 18-069 “In re: Professional Regulation Commission” is considered **CLOSED**.
 
@@ -86,12 +87,12 @@ ENFORCEMENT DIVISION
 COMPLAINTS AND INVESTIGATION DIVISION
 GENERAL RECORDS UNIT
 
-[^1]: Section 2 (g) Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^1]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 2 (g)]] Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 
-[^2]: Section 2 (l) Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
+[^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 2 (l)]] Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
 
-[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (k) of the DPA]] IRR.
+[^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|Section 3 (k) of the DPA]] IRR.
 
 [^4]: Attachment in the 08 May 2020 letter of the PRC to the CID
 
-[^5]: [[laws/data-privacy-act-of-2012#section-18-right-to-data-portability|Section 18 of the DPA]] IRR in relation to [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]].
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 of the DPA]] IRR in relation to [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]].

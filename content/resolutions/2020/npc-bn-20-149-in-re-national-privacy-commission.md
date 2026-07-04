@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "npc-case"
   - "year/2020"
+  - "topic/breach-notification"
 date: "2020-08-20"
 draft: false
 ---
@@ -66,13 +67,13 @@ Furthermore, the PIC has performed or proposed the following actions and measure
 
 (4) Remind the employees of CID, especially those in charge of collecting the e-mail addresses of the CDOs to double check their personal e-mail addresses and other contact information they have provided.[^9]
 
-Citing Section 19 of NPC Circular 16-03,[^10] the PIC requests to be exempted from notifying the data subject considering the personal information involved, the reasonable security measures implemented to ensure the protection of the data subject's personal information, and the notification may only result to unnecessary stress to the data subject. The PIC also claims that the actions it has taken will reduce the risk of harm or that the negative consequence to the data subject will not materialize. In the event of identity fraud committed against the data subject, the PIC also stated that it can be ascertained that it originated from the owner of the e-mail address pa@gmail.com.[^11]
+Citing Section 19 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]],[^10] the PIC requests to be exempted from notifying the data subject considering the personal information involved, the reasonable security measures implemented to ensure the protection of the data subject's personal information, and the notification may only result to unnecessary stress to the data subject. The PIC also claims that the actions it has taken will reduce the risk of harm or that the negative consequence to the data subject will not materialize. In the event of identity fraud committed against the data subject, the PIC also stated that it can be ascertained that it originated from the owner of the e-mail address pa@gmail.com.[^11]
 
 ### Discussion
 
 The Commission resolves to **deny** the request of the PIC for exemption from data subject notification.
 
-Under Section 11 of NPC Circular No. 16-03,[^12] notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
+Under Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]],[^12] notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 
 > A. The personal data involves sensitive personal information or any other information that may be used to enable identity fraud. For this purpose, "other information" shall include, but not be limited to: data about the financial or economic situation of the data subject; usernames, passwords and other login data; biometric data; copies of identification documents, licenses or unique identifiers like Philhealth, SSS, GSIS, **TIN number;** or other similar information, which may be made the basis of decisions concerning the data subject, including the grant of rights or benefits.
 >
@@ -150,7 +151,7 @@ National Privacy Commission
 [^7]: *Ibid.*, at p. 3.
 [^8]: *Ibid.*, at p. 3.
 [^9]: *Ibid.*, at pp. 3-4.
-[^10]: Personal Data Breach Management, 15 December 2016.
+[^10]: [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], 15 December 2016.
 [^11]: *Ibid.*, at p. 4.
 [^12]: *Supra* note 10.
 [^13]: Emphasis supplied.

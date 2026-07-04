@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2020"
   - "npc-case"
+  - "topic/employment"
 date: "2020-11-19"
 draft: false
 ---
@@ -48,7 +49,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-This Order refers to the compliance of Respondents with this Commission's Decision[^1] involving a Complaint[^2] filed by CBP (Complainant) against CDB and SRM who were officers of the Orani Water District (OWD), for the alleged violations of R.A. 10173 (Data Privacy Act). Considering that they are no longer connected to OWD due to the latter's change in management, SRM and CDB are dropped from the case which shall now continue to proceed with OWD as the Respondent.
+This Order refers to the compliance of Respondents with this Commission's Decision[^1] involving a Complaint[^2] filed by CBP (Complainant) against CDB and SRM who were officers of the Orani Water District (OWD), for the alleged violations of [[laws/data-privacy-act-of-2012|R.A. 10173 (Data Privacy Act)]]. Considering that they are no longer connected to OWD due to the latter's change in management, SRM and CDB are dropped from the case which shall now continue to proceed with OWD as the Respondent.
 
 ### The Facts
 
@@ -57,7 +58,7 @@ On 15 December 2017, this Commission issued a Decision with the following dispos
 > **WHEREFORE**, premises considered, **CDB** and **SRM** are **STERNLY WARNED** that repetition of the same or similar acts will be dealt with more severely. Respondents are hereby further ordered:
 >
 > 1. To coordinate with the head of agency of Orani Water District and submit to the National Privacy Commission the organization's privacy notice and existing privacy policies pertaining to their employees within fifteen (15) days from receipt of this Decision; and
-> 2. To submit to the National Privacy Commission proof of their attendance or participation in any orientation on the Data Privacy Act or similar events within sixty (60) days from receipt of this Decision.
+> 2. To submit to the National Privacy Commission proof of their attendance or participation in any orientation on the [[laws/data-privacy-act-of-2012|Data Privacy Act]] or similar events within sixty (60) days from receipt of this Decision.
 
 On 25 January 2018, OWD filed a Compliance[^3] with this Commission where it submitted: (1) the office memorandum[^4] dated 18 May 2017 from BPA, OWD General Manager, requiring all employees to sign an Employee Non-Disclosure and Confidentiality Agreement; and (2) the signed Employee Non-Disclosure and Confidentiality Agreements including those of Ms. Milante and Mr. Buenaventura.
 

@@ -46,7 +46,7 @@ Before the Commission is a Motion for Reconsideration dated 15 May 2022 filed by
 
 ### Facts
 
-JO, through a Complaints-Assisted Form dated 27 March 2019, filed a case against the Respondent, MSM, Inc (MSMI).[^1] On 31 March 2022, the Commission issued a Decision dismissing the complaint for lack of merit.[^2]
+JO, through a Complaints-Assisted Form dated 27 March 2019, filed a case against the Respondent, MSM, Inc (MSMI).[^1] On 31 March 2022, the Commission issued a [[decisions/2022/npc-19-278-jro-vs-msmi|Decision]] dismissing the complaint for lack of merit.[^2]
 
 The Decision was served via email to both parties on 29 April 2022.[^3] Subsequently, JO submitted an unsigned Motion for Reconsideration on 16 May 2022 via email.[^4] In the email, JO stated that, "I will send physical copy personally (signed),"[^5] and attached his unsigned Motion.[^6] Based on the records, JO filed a signed physical copy of his Motion on 17 May 2022.[^7]
 
@@ -56,7 +56,7 @@ He claims that there was bias or partiality in the dismissal of his complaint. T
 
 > The Investigating Officer have already decided the favorable resolution of the complaint to the respondent(s) since, quoted thereat the following remarks, "MADEDEHADO KA DITO (REFERRING TO NPC) KUNG WALA KANG ABOGADO" (sic)[^10]
 
-JO also argues that MSMI has committed data privacy violations, especially by MSMI's alleged admission that it was using "the account name and code of complainant who has effectively resigned since 31 December 2018."[^11] He further contends that MSMI should be penalized under Section 33 of Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA).[^12] Lastly, JO claims that MSMI could have performed its tasks manually, but opted to breach his personal data.[^13]
+JO also argues that MSMI has committed data privacy violations, especially by MSMI's alleged admission that it was using "the account name and code of complainant who has effectively resigned since 31 December 2018."[^11] He further contends that MSMI should be penalized under [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|Section 33]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA)]].[^12] Lastly, JO claims that MSMI could have performed its tasks manually, but opted to breach his personal data.[^13]
 
 In response, MSMI filed an Opposition (to the Motion for Reconsideration dated 15 May 2022) dated 01 June 2022.[^14] MSMI argues that "[JO's] Motion should be outrightly denied for being pro forma inasmuch as it fails to point out specifically the findings or conclusions of the Commission in its Decision which are not supported by the evidence or which are contrary to law…",[^15] and thereafter citing Rule 37 of the 2019 Rules of Civil Procedure.[^16]
 
@@ -74,7 +74,7 @@ The Commission denies JO's Motion for Reconsideration.
 
 #### *I. The Decision has already attained finality. JO's period to file a motion for reconsideration has already lapsed.*
 
-Rule VII, Section 30 of the NPC Circular 2016-04 or the Rules of Procedure (2016 NPC Rules of Procedure) states:
+Rule VII, Section 30 of the [[issuances/undated/rules-of-procedure|NPC Circular 2016-04]] or the Rules of Procedure (2016 NPC Rules of Procedure) states:
 
 > **SECTION 30. Appeal. – The decision of the National Privacy Commission shall become final and executory fifteen (15) days after the receipt of a copy thereof by the party adversely affected.** One motion for reconsideration may be filed, which shall suspend the running of the said period. Any appeal from the Decision shall be to the proper courts, in accordance with law and rules.[^21]
 >
@@ -86,7 +86,7 @@ Likewise, Rule VIII, Section 4 of [[issuances/2021/2021-rules-of-procedure-of-th
 
 The Decision dismissing the case was served to the parties via email on 29 April 2022. JO, in his Motion, claims that he received the Decision on 10 May 2022.[^23] Based on the records, this was the day he received the physical copy of the Decision after it was sent through private courier.[^24]
 
-Nevertheless, it should be noted that electronic service is allowed under Rule III, Section 6 of the NPC Rules.[^25] Also, there was no notification or other proof that there were problems with the electronic service.[^26] JO even sent an email attaching his unsigned Motion by replying to the Commission's email which electronically served him the Decision.[^27]
+Nevertheless, it should be noted that electronic service is allowed under Rule III, Section 6 of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Rules]].[^25] Also, there was no notification or other proof that there were problems with the electronic service.[^26] JO even sent an email attaching his unsigned Motion by replying to the Commission's email which electronically served him the Decision.[^27]
 
 Thus, the Commission finds that the electronic service of its Decision on 29 April 2022 was valid. Consequently, the Decision already became final on 14 May 2022, which was the fifteenth day from receipt of the Decision, since there was no appeal filed within the fifteen (15)-day period.
 
@@ -100,9 +100,9 @@ Setting aside the procedural infirmity, the Commission still finds that the Deci
 
 JO does not explicitly state that the Commission is biased. His Motion does not even cite any particular statement from the Decision that would be indicative of partiality. However, he claims that during the preliminary investigation proceedings, the Investigating Officer "already decided the favorable resolution of the complaint to the respondent(s)"[^30] due to the alleged statement "MADEDEHADO KA DITO (REFERRING TO NPC) KUNG WALA KANG ABOGADO."[^31]
 
-The Commission view allegations of bias seriously given that the National Privacy Commission is an independent body mandated to administer and implement the DPA.[^32] Taking into consideration its role, the Commission finds that JO has not proven that the Decision is tainted with bias against him.
+The Commission view allegations of bias seriously given that the National Privacy Commission is an independent body mandated to administer and implement the [[laws/data-privacy-act-of-2012|DPA]].[^32] Taking into consideration its role, the Commission finds that JO has not proven that the Decision is tainted with bias against him.
 
-In fact, in resolving JO's complaint, the Commission even exercised its authority to rule on the merits, rather than dismissing the complaint outright for non-exhaustion of remedies based on Section 4(a) of NPC Circular 16-04. To quote the Decision:
+In fact, in resolving JO's complaint, the Commission even exercised its authority to rule on the merits, rather than dismissing the complaint outright for non-exhaustion of remedies based on Section 4(a) of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]]. To quote the Decision:
 
 > *I. The Commission exercises its authority to resolve the case on the merits.*
 >
@@ -116,7 +116,7 @@ In fact, in resolving JO's complaint, the Commission even exercised its authorit
 >
 > **Nevertheless, the Commission exercises its authority to waive the requirement of exhaustion of administrative remedies, based on the last paragraph of Section 4 of the 2016 Rules of Procedure.**
 >
-> JO's allegations, if substantially proven, may lead the Commission to conclude that there was a serious violation of the DPA. The allegations also show that there may be serious risk of harm to JO, given that the emails he provided allegedly show acts which he did not do, but may be liable for.
+> JO's allegations, if substantially proven, may lead the Commission to conclude that there was a serious violation of the [[laws/data-privacy-act-of-2012|DPA]]. The allegations also show that there may be serious risk of harm to JO, given that the emails he provided allegedly show acts which he did not do, but may be liable for.
 >
 > **Thus, the Commission finds it appropriate to exercise its authority to resolve the case on the merits.**[^33] (Emphases supplied, citations omitted.)
 
@@ -134,7 +134,7 @@ MSMI had a legitimate interest to continue using the POEA Account to access the 
 
 MSMI also proved that it timely informed POEA about JO's resignation, and that it had to rely on POEA in order for MSMI to gain access to SBECS.[^39]
 
-Lastly, the Commission finds that JO failed to justify why MSMI should be penalized under Section 33 of the DPA "[a]s a deterrent to others who are similarly inclined to commit such serious Data Privacy Violations or Personal Data Breach (sic)".[^40]
+Lastly, the Commission finds that JO failed to justify why MSMI should be penalized under [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|Section 33 of the DPA]] "[a]s a deterrent to others who are similarly inclined to commit such serious Data Privacy Violations or Personal Data Breach (sic)".[^40]
 
 Section 33 of the DPA provides:
 
@@ -180,7 +180,7 @@ ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 
 [^1]: Complaints-Assisted Form dated 27 March 2019 of JO.
-[^2]: JO vs MSM, Inc., NPC 19-278, Decision dated 31 March 2022.
+[^2]: [[decisions/2022/npc-19-278-jro-vs-msmi|JO vs MSM, Inc., NPC 19-278, Decision dated 31 March 2022]].
 [^3]: See Electronic mail dated 29 April 2022 to JO and MSM, Inc.; Electronic Mail Delivery Receipts.
 [^4]: Motion for Reconsideration dated 15 May 2022 (unsigned) of JO.
 [^5]: Electronic Mail dated 16 May 2022 from JO.
@@ -198,25 +198,25 @@ GENERAL RECORDS UNIT
 [^17]: Id., ¶ 4.
 [^18]: Opposition (to the Motion for Reconsideration dated 15 May 2022) dated 01 June 2022 of Multinational Ship Management, Inc., ¶ 4(b).
 [^19]: Id., ¶ 4(c).
-[^20]: Id., ¶ 7. See JO vs MSM, Inc., NPC 19-278, Decision dated 31 March 2022, at p. 12.
-[^21]: National Privacy Commission, Rules of Procedure of the National Privacy Commission, NPC Circular No. 16-04, Rule VII, § 30 (15 December 2016) (2016 NPC Rules of Procedure)
-[^22]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission, NPC Circular No. 2021-01, Rule VIII, § 4 (28 January 2021) (2021 NPC Rules of Procedure).
+[^20]: Id., ¶ 7. See [[decisions/2022/npc-19-278-jro-vs-msmi|JO vs MSM, Inc., NPC 19-278, Decision dated 31 March 2022]], at p. 12.
+[^21]: National Privacy Commission, [[issuances/undated/rules-of-procedure|Rules of Procedure of the National Privacy Commission, NPC Circular No. 16-04]], Rule VII, § 30 (15 December 2016) (2016 NPC Rules of Procedure)
+[^22]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission, NPC Circular No. 2021-01]], Rule VIII, § 4 (28 January 2021) (2021 NPC Rules of Procedure).
 [^23]: Motion for Reconsideration dated 15 May 2022 of JO, at p. 1.
 [^24]: As per LBC tracking number.
-[^25]: 2021 NPC Rules of Procedure, Rule III, § 6.
+[^25]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 NPC Rules of Procedure]], Rule III, § 6.
 [^26]: See Electronic mail delivery receipts.
 [^27]: Electronic mail dated 16 May 2022 of JO.
-[^28]: See 2021 NPC Rules of Procedure, Rule XII, § 8.
+[^28]: See [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 NPC Rules of Procedure]], Rule XII, § 8.
 [^29]: 2019 Rules of Civil Procedure, Rule VII, § 3. (Emphasis supplied)
 [^30]: Motion for Reconsideration dated 15 May 2022 of JO, at p. 2.
 [^31]: Id.
-[^32]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes, [Data Privacy Act of 2012], Republic Act No. 10173, Chapter II, § 7 (2012).
-[^33]: JO v. MSM, Inc., NPC 19-278, Decision dated 31 March 2022, at pp. 9-11.
-[^34]: See National Privacy Commission, Rules of Procedure, NPC Circular No. 16-04, § 4(a) (15 December 2016).
-[^35]: 2021 NPC Rules of Procedure, Rule VIII, § 1.
+[^32]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes, [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, Chapter II, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|§ 7]] (2012).
+[^33]: [[decisions/2022/npc-19-278-jro-vs-msmi|JO v. MSM, Inc., NPC 19-278, Decision dated 31 March 2022]], at pp. 9-11.
+[^34]: See National Privacy Commission, [[issuances/undated/rules-of-procedure|Rules of Procedure, NPC Circular No. 16-04]], § 4(a) (15 December 2016).
+[^35]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 NPC Rules of Procedure]], Rule VIII, § 1.
 [^36]: Motion for Reconsideration dated 15 May 2022 of JO, at p. 2.
 [^37]: Id.
 [^38]: Philippine Overseas Employment Administration, Memorandum Circular No. 06, series of 2018, New Procedure for Online Registration of Seafarers and Seabased e-Contracts System (SBECS).
-[^39]: JO vs MSM, Inc., NPC 19-278, Decision dated 31 March 2022, at p. 14; see Motion to Dismiss dated 02 July 2019 of Multinational Ship Management, Inc., Annex "F".
+[^39]: [[decisions/2022/npc-19-278-jro-vs-msmi|JO vs MSM, Inc., NPC 19-278, Decision dated 31 March 2022]], at p. 14; see Motion to Dismiss dated 02 July 2019 of Multinational Ship Management, Inc., Annex "F".
 [^40]: Motion for Reconsideration dated 15 May 2022 of JO at p. 2.
-[^41]: Data Privacy Act of 2012, Chapter VIII, § 33.
+[^41]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Chapter VIII, [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|§ 33]].

@@ -11,6 +11,8 @@ tags:
   - type/decision
   - year/2019
   - npc-case
+  - topic/employment
+  - topic/legitimate-interest
 date: "2023-06-30"
 draft: false
 ---
@@ -64,7 +66,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission are the consolidated cases filed by Spouses MCD and JJD (collectively, Complainants) against Victorias Milling Company (VMC), MOC, EVR, GEK, and SC (Respondents) for alleged violations of Section 25 (Unauthorized Processing), Section 26 (Access due to Negligence), Section 28 (Processing for Unauthorized Purposes), Section 29 (Unauthorized Access or Intentional Breach), Section 31 (Malicious Disclosure), Section 32 (Unauthorized Disclosure), and Section 33 (Combination or Series of Acts) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission are the consolidated cases filed by Spouses MCD and JJD (collectively, Complainants) against Victorias Milling Company (VMC), MOC, EVR, GEK, and SC (Respondents) for alleged violations of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (Unauthorized Processing)]], [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Access due to Negligence)]], [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 (Processing for Unauthorized Purposes)]], [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Section 29 (Unauthorized Access or Intentional Breach)]], [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 (Malicious Disclosure)]], [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure)]], and [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|Section 33 (Combination or Series of Acts)]] of Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -92,7 +94,7 @@ On 18 December 2020, the National Privacy Commission (NPC), through its Complain
 
 On 11 March 2021, Respondents filed their Entry of Appearance.[^30]
 
-On 23 March 2021, only Complainants, through their representative, appeared for the discovery conference, while Respondents failed to appear.[^31] Complainants manifested that they are not willing to reset the discovery conference.[^32] Thus, in view of Complainants' manifestation and the effectivity of NPC Circular 2021-01 (2021 NPC Rules of Procedure), the CID ordered Respondents to file their verified comment within fifteen (15) days from receipt of the Order.[^33]
+On 23 March 2021, only Complainants, through their representative, appeared for the discovery conference, while Respondents failed to appear.[^31] Complainants manifested that they are not willing to reset the discovery conference.[^32] Thus, in view of Complainants' manifestation and the effectivity of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 2021-01 (2021 NPC Rules of Procedure)]], the CID ordered Respondents to file their verified comment within fifteen (15) days from receipt of the Order.[^33]
 
 On 30 September 2021, the CID issued an Order stating that it has not received a verified comment from Respondents.[^34] As a result, to give due course to the cause of both parties, it gave Respondents a final period of fifteen (15) days from receipt of the Order to file its verified comment to the complaint.[^35]
 
@@ -120,7 +122,7 @@ On 28 June 2019, the Respondents disclosed that VMC filed before the Regional Tr
 
 Respondents argued that the complaint should be dismissed on the grounds that Complainants are guilty of forum shopping, that the claim or demand set forth in the complaint has been paid, waived, abandoned, or otherwise extinguished, and that the complaint lacks merit.[^56]
 
-Respondents contended that the information contained in the Disclosure Agreement only pertained to personal information as defined under the DPA and their processing was based on contracts under Section 12 (b), compliance with a legal obligation under Section 12 (c), and legitimate interest under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]].[^57]
+Respondents contended that the information contained in the Disclosure Agreement only pertained to personal information as defined under the [[laws/data-privacy-act-of-2012|DPA]] and their processing was based on contracts under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (b)]], compliance with a legal obligation under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c)]], and legitimate interest under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]].[^57]
 
 They explained that the processing of personal data was based on a contract.[^58] Further, they stated that at the time of processing, an employment relationship existed between them and Complainants which is governed by an employment contract.[^59] This allows them to process certain information that are necessary and related to the fulfillment of the contract:
 
@@ -190,7 +192,7 @@ On 11 August 2022, Complainants filed their Memorandum.[^100] They maintained th
 
 ### Issue
 
-I. Whether there is substantial evidence to find Respondents liable for a violation of the DPA;
+I. Whether there is substantial evidence to find Respondents liable for a violation of the [[laws/data-privacy-act-of-2012|DPA]];
 
 II. Whether Respondents' act of processing the contents of the Disclosure Statements is a violation of the DPA.
 
@@ -198,7 +200,7 @@ II. Whether Respondents' act of processing the contents of the Disclosure Statem
 
 The Commission dismisses the case for lack of substantial evidence.
 
-Complainants failed to substantiate their allegations on how the Respondents violated the DPA. Other than the general statements made in their complaints and Memorandum, the Complainants neither specified the personal data that was unlawfully processed nor alleged the Respondents' specific acts that amount to a violation of the DPA.
+Complainants failed to substantiate their allegations on how the Respondents violated the [[laws/data-privacy-act-of-2012|DPA]]. Other than the general statements made in their complaints and Memorandum, the Complainants neither specified the personal data that was unlawfully processed nor alleged the Respondents' specific acts that amount to a violation of the DPA.
 
 Nevertheless, Respondents' acts of processing the contents of Complainants' Disclosure Statements was pursuant to its legitimate interest and did not go beyond what Complainants can reasonably expect upon submission of their Disclosure Statements.
 
@@ -206,7 +208,7 @@ Nevertheless, Respondents' acts of processing the contents of Complainants' Disc
 
 Respondents, who are VMC and its officers and employees, cannot be held liable for a violation of the DPA based on the allegations of and evidence submitted by Complainants.
 
-Complainants claimed that Respondents violated Sections 25, 26, 28, 29, 31, 32, and 33 of the DPA by processing their personal data without their authority and consent.[^103] To substantiate their complaint, Complainants submitted their Disclosure Statements,[^104] a copy of the blotter report that records the incident where Respondent GEK surreptitiously took and carried away their sugarcane for milling,[^105] the Notices to Explain issued by Respondents to MCD and JJD,[^106] the written Explanations of MCD and JJD,[^107] the Notices of Suspension,[^108] the Request for Grievance submitted by MCD,[^109] the Letter giving VMC the opportunity to reply before filing a complaint with the NPC,[^110] the Certification from Negros Del Norte Planters Association that JJD informed them about the expiration of the lease of one of the undisclosed haciendas,[^111] and the Letter from VMC stating that they are referring the matter to their legal counsel.[^112]
+Complainants claimed that Respondents violated [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Sections 25]], [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|26]], [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|28]], [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|29]], [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|31]], [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]], and [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|33]] of the DPA by processing their personal data without their authority and consent.[^103] To substantiate their complaint, Complainants submitted their Disclosure Statements,[^104] a copy of the blotter report that records the incident where Respondent GEK surreptitiously took and carried away their sugarcane for milling,[^105] the Notices to Explain issued by Respondents to MCD and JJD,[^106] the written Explanations of MCD and JJD,[^107] the Notices of Suspension,[^108] the Request for Grievance submitted by MCD,[^109] the Letter giving VMC the opportunity to reply before filing a complaint with the NPC,[^110] the Certification from Negros Del Norte Planters Association that JJD informed them about the expiration of the lease of one of the undisclosed haciendas,[^111] and the Letter from VMC stating that they are referring the matter to their legal counsel.[^112]
 
 Section 1 of Rule 131 of the 2019 Amendments to the Revised Rules on Evidence provides:
 
@@ -558,15 +560,15 @@ GENERAL RECORDS UNIT
 [^116]: Id.
 [^117]: Memorandum for the Respondents, 18 April 2022, at 20-22, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2022).
 [^118]: Complaint-Affidavit of MCD, 27 June 2019, at 2, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2019); Complaint-Affidavit of JJD, 27 June 2019, at 2, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2019).
-[^119]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (g) (2012).
+[^119]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]] (2012).
 [^120]: Complaint-Affidavit of MCD, 27 June 2019, Annex A, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2019); Complaint-Affidavit of JJD, 27 June 2019, Annex A, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2019).
-[^121]: Data Privacy Act of 2012, § 12 (f).
+[^121]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (f)]].
 [^122]: MAF v. Shopee, [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]], 22 September 2022, at 9, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-21-167-2022.09.22-MAF-v.-Shopee-Decision-Final.pdf (last accessed 05 July 2023).
 [^123]: Consolidated Comment, 18 October 2021, at 2, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2021).
-[^124]: MAF v. Shopee, NPC 21-167, at 9.
-[^125]: Data Privacy Act of 2012, § 11 (a)(e). Emphasis supplied.
-[^126]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, § 18 (a)(b) (2016) Emphasis supplied.
-[^127]: See Data Privacy Act of 2012, § 11; Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 18 (a)(b).
+[^124]: [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|MAF v. Shopee, NPC 21-167]], at 9.
+[^125]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11 (a)(e)]]. Emphasis supplied.
+[^126]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (a)(b)]] (2016) Emphasis supplied.
+[^127]: See [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]]; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (a)(b)]].
 [^128]: MLF v. MyTaxi.PH Corp., [[decisions/2022/npc-19-142-mlf-v-grab-philippines|NPC 19-142]], 31 March 2022, at 8, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-19-142-MLF-v.-Grab-Philippines-2022.03.31.-Decision.pdf (last accessed 24 August 2023).
 [^129]: Id. at 8.
 [^130]: Consolidated Comment, 18 October 2021, at 3, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2021).
@@ -574,25 +576,25 @@ GENERAL RECORDS UNIT
 [^132]: Id. Recommendation 15.2.
 [^133]: Consolidated Comment, 18 October 2021, at 2, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2021).
 [^134]: Emphasis supplied.
-[^135]: Data Privacy Act of 2012, § 11 (a).
-[^136]: Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 18 (a).
+[^135]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11 (a)]].
+[^136]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (a)]].
 [^137]: Complaint-Affidavit of MCD, 27 June 2019, Annex F, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2019).
 [^138]: Id.
-[^139]: MAF v. Shopee, NPC 21-167, at 9.
+[^139]: [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|MAF v. Shopee, NPC 21-167]], at 9.
 [^140]: See Data Privacy Act of 2012, § 11 (b)(c)(d).
-[^141]: EA and TA v. EJ, EE, and HC, NPC 17-018, 15 July 2019, at 10, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf (last accessed 24 August 2023).
-[^142]: Data Privacy Act of 2012, § 11 (c)(d).
+[^141]: [[decisions/2019/npc-17-018-ea-and-ta-v-ej|EA and TA v. EJ, EE, and HC, NPC 17-018]], 15 July 2019, at 10, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf (last accessed 24 August 2023).
+[^142]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11 (c)(d)]].
 [^143]: Id. § 11 (b)(c)(d). Emphasis supplied.
-[^144]: Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 18 (c). Emphasis supplied.
-[^145]: MAF v. Shopee, NPC 21-167, at 14.
+[^144]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]]. Emphasis supplied.
+[^145]: [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|MAF v. Shopee, NPC 21-167]], at 14.
 [^146]: Philippine Stock Exchange v. Secretary of Finance, G.R. No. 213860 (2022).
 [^147]: Complaint-Affidavit of MCD, 27 June 2019, at 2, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2019); Complaint-Affidavit of JJD, 27 June 2019, at 2, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2019).
 [^148]: Consolidated Comment, 18 October 2021, at 4, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2021).
 [^149]: Id. at 19.
-[^150]: See Data Privacy Act of 2012, § 11 (b).
-[^151]: MAF v. Shopee, NPC 21-167, at 9.
-[^152]: Data Privacy Act of 2012, § 11 (b).
+[^150]: See [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11 (b)]].
+[^151]: [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|MAF v. Shopee, NPC 21-167]], at 9.
+[^152]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11 (b)]].
 [^153]: Id. Emphasis supplied.
-[^154]: Rules and Regulations Implementing the Data Privacy Act of 2012, rule IV, § 19(b). Emphasis supplied.
+[^154]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|§ 19(b)]]. Emphasis supplied.
 [^155]: Consolidated Comment, 18 October 2021, at 2, in Sps. MCD-JJD v. Victorias Milling Company, NPC 19-758 & 19-1846 (NPC 2021).
-[^156]: MAF v. Shopee, NPC 21-167, at 9.
+[^156]: [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|MAF v. Shopee, NPC 21-167]], at 9.

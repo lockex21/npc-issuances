@@ -5,6 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2023"
+  - "topic/employment"
+  - "topic/legitimate-interest"
+aliases:
+  - "NPC Advisory Opinion No. 2023-020"
+  - "npc advisory opinion no. 2023-020"
+  - "Advisory Opinion No. 2023-020"
+  - "advisory opinion no. 2023-020"
 draft: false
 ---
 
@@ -35,8 +42,8 @@ employee and outsourced drivers (collectively, “data subjects”). The purpose
 vehicular accidents by ensuring that the data subjects are in a good physical and mental state
 without the influence of alcohol.
 
-Thus, you ask whether the use of breath analyzer falls within the scope of the Data Privacy
-Act of 2012 (DPA).[^3]
+Thus, you ask whether the use of breath analyzer falls within the scope of the [[laws/data-privacy-act-of-2012|Data Privacy
+Act of 2012]] (DPA).[^3]
 
 In particular, you seek guidance on the following:
 
@@ -137,9 +144,9 @@ FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
 [^2]: An Act Penalizing Persons Driving Under the Influence of Alcohol, Dangerous Drugs, and Similar Substances, and for Other Purposes [Anti-Drunk and Drugged Driving Act of 2013], Republic Act No. 10586 (2013).
-[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^4]: Id. § 4.
-[^5]: Id. § 3 (l).
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^4]: Id. [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]].
+[^5]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]].
 [^6]: National Privacy Commission and Department of Health, Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002 [NPC-DOH Joint Memorandum Circular 2020-002] (April 24, 2020).
 [^7]: Id. § IV (11).
 [^8]: ARTICLE 29 DATA PROTECTION WORKING PARTY, Opinion 2/2017 on data processing at work, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=610169

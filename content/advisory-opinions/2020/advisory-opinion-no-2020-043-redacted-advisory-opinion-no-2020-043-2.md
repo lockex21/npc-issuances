@@ -34,7 +34,7 @@ The DPA applies to the processing of all types of personal information[^3] and t
 
 It is worthy to note that the processing, i.e. sending out the screenshot to another person, will only come under the scope of the DPA if personal data is indeed involved – if the conversation/screenshot itself allows for the identification of the parties. If it is simply the content of the conversation, with names and other identifiers redacted or cropped out of the screenshot, it might not be within the scope of the DPA.
 
-Another factor to consider is whether processing was done by the person in connection with his or her personal, family, or household affairs pursuant to Section 3(h)(2) of the DPA. In such cases, the person is not considered as personal information controller (PIC), and hence, to a certain extent, such processing is generally excluded from the scope of the DPA.
+Another factor to consider is whether processing was done by the person in connection with his or her personal, family, or household affairs pursuant to [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(h)(2) of the DPA]]. In such cases, the person is not considered as personal information controller (PIC), and hence, to a certain extent, such processing is generally excluded from the scope of the DPA.
 
 Nevertheless, depending on the attendant circumstances, the taking of the screenshot and its transmittal to a third party, may not fall under the abovementioned exclusion.
 
@@ -72,9 +72,9 @@ To be admissible, evidence must be competent and relevant. The former requires t
 
 Note however, that the determination of the admissibility of evidence in court is not within the purview of NPC’s mandate.[^14] This matter is governed by the Rules of Court and other applicable rules as discussed above.
 
-But with respect to the provisions of the DPA, the law recognizes that personal information may be processed for legitimate interests under Section 12 (f), which may include the protection of lawful rights and interests,[^15] and for sensitive personal information, the same may be processed when necessary for the protection of lawful rights and interests of natural
+But with respect to the provisions of the DPA, the law recognizes that personal information may be processed for legitimate interests under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f)]], which may include the protection of lawful rights and interests,[^15] and for sensitive personal information, the same may be processed when necessary for the protection of lawful rights and interests of natural
 
-or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority under Section 13.
+or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]].
 
 Finally, for purposes of filing a case for a violation of the DPA with the NPC, the said screenshots may be used as evidence by both the complainant and the respondent, respectively.
 
@@ -88,10 +88,10 @@ Very truly yours,
 Privacy Commissioner
 
 [^1]: Tags: informational privacy; disclosure of personal data; writ of habeas data; admissibility of evidence
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 3(g). Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
-[^4]: Data Privacy Act of 2012, § 3(j).
-[^5]: Data Privacy Act of 2012, § 25.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3(g)]]. Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^4]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3(j)]].
+[^5]: [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Data Privacy Act of 2012, § 25]].
 [^6]: G.R. No. 121484, (January 31, 2005).
 [^7]: G.R. No. L-80364, (June 28, 1989).
 [^8]: A.M. No. 08-1-16-SC, Rule on the Writ of Habeas Data (Jan. 22, 2008).

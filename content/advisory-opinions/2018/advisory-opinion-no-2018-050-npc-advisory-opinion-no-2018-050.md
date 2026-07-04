@@ -8,7 +8,14 @@ tags:
   - direct-marketing
   - cold-calls
   - legitimate-interest
+  - topic/data-subject-rights
+  - topic/legitimate-interest
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-050"
+  - "npc advisory opinion no. 2018-050"
+  - "Advisory Opinion No. 2018-050"
+  - "advisory opinion no. 2018-050"
 ---
 
 ## Source
@@ -27,7 +34,7 @@ Dear [Redacted]:
 
 We write in response to your query received by the National Privacy Commission (NPC) via email. In your inquiry, you disclosed that majority of your activities as a salesman rely on making cold calls and sending cold emails to prospective clients. A potential customers’ contact information is commonly obtained from publicly available sources, such as calling cards from events, exhibits and expos and the internet. Another method of acquiring contact information is through a speculation of email addresses based on established patterns.
 
-You now request guidance on the legality of cold calls and emails in relation to Republic Act No. 10173,[^1] otherwise known as the Data Privacy Act of 2012 (DPA), given that the targeted individuals have not specifically given their consent to the use of their personal information for marketing of your products or services.
+You now request guidance on the legality of cold calls and emails in relation to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] otherwise known as the Data Privacy Act of 2012 (DPA), given that the targeted individuals have not specifically given their consent to the use of their personal information for marketing of your products or services.
 
 ### Discussion
 
@@ -52,8 +59,8 @@ and the calling and emailing by sales representatives, involve the processing of
 Marketers, in their capacity as PICs, must then comply with the provisions of the law,
 including adherence to the data privacy principles of transparency, legitimate purpose and
 proportionality. The law further provides that a PIC must have a legitimate purpose for the
-processing of personal data, the criteria of which are specifically enumerated in Sections 12
-and 13 thereof.[^5]
+processing of personal data, the criteria of which are specifically enumerated in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]]
+and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] thereof.[^5]
 
 In case the processing does not fall under any of the criteria enumerated under the law,
 consent given by the data subject should ideally be the basis of lawful processing of personal
@@ -127,7 +134,7 @@ surrounding circumstances.
 We wish to emphasize that legitimate interest is not intended to be a broad justification for all
 purposes assumed by PICs. The NPC, on its own determination, may evaluate whether
 legitimate interest is the proper basis for the specific processing, considering the interpretation
-clause under [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38 of the DPA]], where the law is liberally interpreted in a manner mindful
+clause under [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38]] of the DPA, where the law is liberally interpreted in a manner mindful
 of the rights and interests of the data subject.
 
 #### Right to Information and Right to Object
@@ -154,12 +161,12 @@ Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^2]: Office of the Privacy Commissioner for Personal Data, Hong Kong, Guidance Note - Guidance on Use of Personal Data Obtained from the Public Domain, August 2013, available at https://www.pcpd.org.hk/english/publications/files/GN_public_domain_e.pdf (last accessed May 31, 2018).
-[^3]: See Data Privacy Act of 2012, § 4.
-[^4]: Data Privacy Act of 2012, § 3 (d).
-[^5]: Id. § § 12-13.
-[^6]: Id. § 12 (a).
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 21 (a) (2016).
-[^8]: Id. § 12 (f).
+[^3]: See [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
+[^4]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (d)]].
+[^5]: Id. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§§ 12]]-[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]].
+[^6]: Id. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (a)]].
+[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-21-criteria-for-lawful-processing-of-personal-information|§ 21 (a)]] (2016).
+[^8]: Id. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (f)]].
 [^9]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119 (4 May 2016).
 [^10]: GDPR, Article 6 (1)(f) provides: (f) processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party except, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.
 [^11]: See GDPR, Recital 47.
@@ -174,6 +181,6 @@ Privacy Commissioner and Chairman
 [^20]: GDPR, Recital 47.
 [^21]: Information Commissioner’s Office, UK, What is the importance of reasonable expectations?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/?template=pdf&patch=16 (last accessed August 14, 2018).
 [^22]: Id.
-[^23]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, § 34 (b).
+[^23]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|§ 34 (b)]].
 [^24]: Office of the Privacy Commissioner for Personal Data, Hong Kong, Guidance Note - New Guidance on Direct Marketing, January 2013, available at https://www.pcpd.org.hk/english/publications/files/GN_DM_e.pdf (last accessed May 31, 2018).
-[^25]: See Data Privacy Act of 2012, § 16.
+[^25]: See [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, § 16]].

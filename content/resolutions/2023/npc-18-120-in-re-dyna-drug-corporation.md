@@ -11,6 +11,8 @@ tags:
   - type/resolution
   - year/2023
   - npc-case
+  - topic/breach-notification
+  - topic/security
 date: "2023-08-17"
 draft: false
 ---
@@ -66,7 +68,7 @@ Typeform responded immediately and fixed the source of the breach to prevent any
 
 On 18 April 2022, the Commission, through its Complaints and Investigation Division (CID), issued an Order directing DDC to submit a Post Breach Report detailing the incident:
 
-> Pursuant to Section 9, Rule IV of the National Privacy Commission Circular No. 16-03 on Personal Data Breach Management, you are hereby required to submit a Post Breach Report detailing the incident that prompted the notification to the Commission:
+> Pursuant to Section 9, Rule IV of the National Privacy Commission [[issuances/undated/personal-data-breach-management|Circular No. 16-03 on Personal Data Breach Management]], you are hereby required to submit a Post Breach Report detailing the incident that prompted the notification to the Commission:
 >
 > 1. DDC's investigation report;
 > 2. Certification that the survey form has been deleted;
@@ -112,7 +114,7 @@ DDC also advised its affected data subjects to watch out for potential phishing 
 
 Further, DDC informed the data subjects that it deleted the information from its affected data subjects' accounts in Typeform.[^36] DDC provided the data subjects with its contact information in case they have any further concerns regarding the breach.[^37]
 
-DDC also presented evidence of the notifications sent through email by attaching a screenshot of the email notification.[^38] The screenshot also showed that the email addresses of the recipient data subjects were inputted in the blind carbon copy (BCC) field.[^39] This conforms to the requirement under Section 18 (D) of NPC Circular 16-03 (Personal Data Breach Management), which provides that notification of affected data subjects shall be done individually, using secure means of communication, whether written or electronic.[^40]
+DDC also presented evidence of the notifications sent through email by attaching a screenshot of the email notification.[^38] The screenshot also showed that the email addresses of the recipient data subjects were inputted in the blind carbon copy (BCC) field.[^39] This conforms to the requirement under Section 18 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]], which provides that notification of affected data subjects shall be done individually, using secure means of communication, whether written or electronic.[^40]
 
 Although the screenshot presented by DDC captured only a part of the email BCC recipient list,[^41] it, nevertheless, submitted a Certification by its DPO to assure the Commission that all ninety-two (92) affected data subjects were notified through email.[^42]
 
@@ -132,7 +134,7 @@ DDC's Data Privacy Manual also contained provisions on outsourcing and subcontra
 
 It provided for the appointment of a Data Protection Officer (DPO) to make the necessary control measures in securing personal information and preserve the rights of the data subjects and to be the advisor of DDC's Managing Director in data protection improvement initiatives.[^65]
 
-It also outlined the creation of a Data Breach Response Team responsible for implementing security incident management policies, managing incidents, and ensuring compliance with the DPA.[^66]
+It also outlined the creation of a Data Breach Response Team responsible for implementing security incident management policies, managing incidents, and ensuring compliance with the [[laws/data-privacy-act-of-2012|DPA]].[^66]
 
 DDC, through its DPO, also implements preventive measures such as an annual Privacy Impact Assessment and Privacy Audit;[^67] backup systems are in place in case of data recovery and restoration;[^68] backup systems have their own backups to ensure data restoration in the event of data losses;[^69] and security breaches are reported directly to the DPO who assesses the breach and notifies the NPC.[^70]
 
@@ -194,7 +196,7 @@ GENERAL RECORDS UNIT
 [^26]: Breach Incident Report, 04 July 2018, Annex B, in In re: Dyna Drug Corporation, NPC BN 18-120 (NPC 2018).
 [^27]: *Id.* at 5.
 [^28]: Certification of Notification, 02 May 2022, at 1, in In re: Dyna Drug Corporation, NPC BN 18-120 (NPC 2022).
-[^29]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
+[^29]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 03, Series of 2016]] [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
 [^30]: *Id.*
 [^31]: Breach Incident Report, 04 July 2018, Annex B, in In re: Dyna Drug Corporation, NPC BN 18-120 (NPC 2018).
 [^32]: *Id.*
@@ -205,7 +207,7 @@ GENERAL RECORDS UNIT
 [^37]: Breach Incident Report, 04 July 2018, Annex B, in In re: Dyna Drug Corporation, NPC BN 18-120 (NPC 2018).
 [^38]: *Id.*
 [^39]: *Id.*
-[^40]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
+[^40]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 03, Series of 2016]] [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
 [^41]: Breach Incident Report, 04 July 2018, Annex B, in In re: Dyna Drug Corporation, NPC BN 18-120 (NPC 2018).
 [^42]: Certification of Notification, 02 May 2022, at 1, in In re: Dyna Drug Corporation, NPC BN 18-120 (NPC 2022).
 [^43]: Post Breach Report, 04 May 2022, at 3, in In re: Dyna Drug Corporation, NPC BN 18-120 (NPC 2022).

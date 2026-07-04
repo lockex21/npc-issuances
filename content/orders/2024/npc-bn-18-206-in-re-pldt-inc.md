@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2024"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/employment"
 date: "2024-05-16"
 draft: false
 ---
@@ -68,7 +70,7 @@ Finally, PLDT stated that it did not receive a response from the Commission with
 
 In view thereof, the Commission finds that PLDT must notify the affected data subjects and submit proof of notification.
 
-Section 11, NPC Circular No. 16-03 (Personal Data Breach Management) provides when notification shall be required, to wit:
+Section 11, [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]] provides when notification shall be required, to wit:
 
 > SECTION 11. When notification is required.
 > Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
@@ -81,7 +83,7 @@ Section 11, NPC Circular No. 16-03 (Personal Data Breach Management) provides wh
 
 In this case, all the elements of mandatory breach notification are present. As to the first element, the lab test results of the affected data subjects contain sensitive personal information such as age, marital status, and information about an individual's health.
 
-Section 3 (l) of Republic Act 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) defines sensitive personal information as personal information:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l)]] of Republic Act 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) defines sensitive personal information as personal information:
 
 > (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations;
 >
@@ -107,7 +109,7 @@ In this regard, the unauthorized acquisition is likely to give rise to a real ri
 
 The third element of mandatory data subject notification does not distinguish whether the unauthorized acquisition is within the internal environment of a personal information controller. It simply states that "the unauthorized acquisition is likely to give rise to a real risk of serious harm"[^24], hence, the CID is wrong in concluding that the third requisite does not exist based on the sole reason that the breach occurred within the organization.
 
-Lastly, as to PLDT's request for suspension of data subject notification, postponement of data subject notification will only be allowed in exceptional circumstances following NPC Circular No. 16-03, Section 18 B, which provides the guidelines for postponement of notification, thus:
+Lastly, as to PLDT's request for suspension of data subject notification, postponement of data subject notification will only be allowed in exceptional circumstances following [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], Section 18 B, which provides the guidelines for postponement of notification, thus:
 
 > B. Exemption or Postponement of Notification.
 > If it is not reasonably possible to notify the data subjects within the prescribed period, the personal information controller shall request the Commission for an exemption from the notification requirement, or the postponement of the notification.
@@ -169,13 +171,13 @@ GENERAL RECORDS UNIT
 [^13]: PLDT Inc. Letter (Order dated 10 May 2021 re NPC BN No. 18-206) dated 25 June 2021, Annex A p. 3
 [^14]: Id.
 [^15]: Id.
-[^16]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).
-[^17]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (l) (2012).
+[^16]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 2016-03]], rule V, § 11 (15 December 2016) (NPC Circular 16-03).
+[^17]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]] (2012).
 [^18]: PLDT Inc. Letter (Order dated 10 May 2021 re NPC BN No. 18-206) dated 25 June 2021, Annex A
 [^19]: Id. at p. 3
-[^20]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016-03, Rule I, § 3, L (15 December 2016) (NPC Circular 16-03).
+[^20]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 2016-03]], Rule I, § 3, L (15 December 2016) (NPC Circular 16-03).
 [^21]: PLDT Inc. Letter (Order dated 10 May 2021 re NPC BN No. 18-206) dated 25 June 2021, Annex A p. 1
-[^22]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter V, § 20 (f) (2012)
+[^22]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter V, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (f)]] (2012)
 [^23]: Final Breach Notification Evaluation Report dated 29 April 2024, NPC BN No. 18-206 In re: PLDT, Inc.
-[^24]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).
-[^25]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016-03, rule V, § 18, B (15 December 2016) (NPC Circular 16-03).
+[^24]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 2016-03]], rule V, § 11 (15 December 2016) (NPC Circular 16-03).
+[^25]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 2016-03]], rule V, § 18, B (15 December 2016) (NPC Circular 16-03).

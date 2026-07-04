@@ -114,7 +114,7 @@ requested personal data.
 #### Powers and Functions of the NPC; Clearance from the NPC on the Disclosure of Personal Data is Not Necessary
 
 The powers and functions of the NPC are explicitly provided in [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] and
-Section 9 of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR). It must be noted that neither the
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of its Implementing Rules and Regulations]] (IRR). It must be noted that neither the
 DPA nor its IRR gives power to the NPC to issue clearance to authorize, among others, the
 disclosure and/or processing of personal data. The DPA provides for the various criteria for
 lawful processing of personal data and PICs should make the determination on what
@@ -132,5 +132,5 @@ Very truly yours,
 Privacy Commissioner
 
 [^2]: An Act Providing for a Magna Carta for Homeowners and Homeowners' Associations, and For Other Purposes [Magna Carta for Homeowners and Homeowners' Associations], Republic Act No. 9904 (2010).
-[^3]: RA No. 10173, §3(h).
-[^4]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016) – (c) Proportionality. The processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.
+[^3]: [[laws/data-privacy-act-of-2012|RA No. 10173]], §3(h).
+[^4]: See: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]] (2016) – (c) Proportionality. The processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.

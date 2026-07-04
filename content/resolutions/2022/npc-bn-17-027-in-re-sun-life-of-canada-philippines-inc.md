@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2022-09-22"
 draft: false
 ---
@@ -75,7 +76,7 @@ The Commission resolves to close the case upon finding that Sun Life has complie
 
 The information provided in the Compliance Report dated 11 March 2020 and the attached copies of the email and the letter sent to the affected data subject are deemed sufficient to prove that Sun Life adequately notified the affected data subject of the details of the breach.
 
-Sun Life’s letter dated 09 March 2020 included the information required under NPC Circular 16-03 (Personal Data Breach Management).
+Sun Life’s letter dated 09 March 2020 included the information required under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]].
 
 Section 18 (C) of NPC Circular 16-03 provides:
 
@@ -168,7 +169,7 @@ GENERAL RECORDS UNIT
 
 [^16]: *Id.*
 
-[^17]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], §18 (C) (15 December 2016).
+[^17]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 3, Series of 2016]] [NPC Circ. No. 16-03], §18 (C) (15 December 2016).
 
 [^18]: Letter re: Resolutions of the Commission En Banc dated 25 July 2019 and 24 October 2019 (NPC BN No. 17-027 "In Re: Breach Notification Report of Sun Life of Canada (Philippines), Inc.", 05 May 2022, Annex B, in In Re: Sun Life of Canada (Philippines), Inc., NPC BN 17-027 (NPC 2022).
 

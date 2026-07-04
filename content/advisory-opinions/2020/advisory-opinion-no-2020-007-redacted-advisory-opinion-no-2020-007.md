@@ -5,6 +5,12 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/employment"
+aliases:
+  - "NPC Advisory Opinion No. 2020-007"
+  - "npc advisory opinion no. 2020-007"
+  - "Advisory Opinion No. 2020-007"
+  - "advisory opinion no. 2020-007"
 draft: false
 ---
 
@@ -63,4 +69,4 @@ Privacy Commissioner and Chairman
 [^6]: Civil Service Commission, Statement of Assets, Liabilities and Net Worth (SALN) Re: Amendment to the CSC Resolution No. 1300173 (January 24, 2013); Revised SALN Form, Resolution No. 150008 [CSC Resolution No. 1500088] (January 23, 2015).
 [^7]: Office of the Ombudsman, Guidelines on Public Access to Statements of Assets, Liabilities and Net Worth (SALNs) Filed with the Office of the Ombudsman, [Memorandum Circular No. 03], § (September 11, 2012).
 [^8]: *Id.*
-[^9]: Data Privacy Act of 2012, § 2.
+[^9]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|§ 2]].

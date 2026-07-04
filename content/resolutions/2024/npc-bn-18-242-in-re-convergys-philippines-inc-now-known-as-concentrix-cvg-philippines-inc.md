@@ -11,6 +11,8 @@ tags:
   - type/resolution
   - year/2024
   - npc-case
+  - topic/breach-notification
+  - topic/employment
 date: "2024-03-21"
 draft: false
 ---
@@ -80,11 +82,11 @@ Convergys further asserted that "MAD expressed no subsequent concerns on the mat
 
 ### Issue
 
-Whether or not Convergys has sufficiently addressed the breach incident pursuant to NPC Circular 16-03 (Personal Data Breach Management).
+Whether or not Convergys has sufficiently addressed the breach incident pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).
 
 ### Discussion
 
-The Commission holds that Convergys has sufficiently addressed the breach incident pursuant to NPC Circular 16-03 (Personal Data Breach Management). As such, the Commission resolves to terminate the investigation and consider the matter closed.
+The Commission holds that Convergys has sufficiently addressed the breach incident pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management). As such, the Commission resolves to terminate the investigation and consider the matter closed.
 
 Although the Commission finds that the incident falls under mandatory data subject notification, Convergys has already notified the affected data subject and implemented measures to prevent the recurrence of the incident.
 
@@ -216,7 +218,7 @@ National Privacy Commission
 [^27]: Id.
 [^28]: Compliance dated 26 March 2021 "Compliance with Order dated 11 March 2021 in NPCBN No. 18-240 (In re: Convergys Philippines Inc. Convergys Philippines, Inc.) from Convergys Philippines, Inc. (now known as Concentrix CVG Philippines, Inc.).
 [^29]: Id.
-[^30]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, Rule V, §11 (15 December 2016).
+[^30]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], Rule V, §11 (15 December 2016).
 [^31]: NPC Circular 16-03, rule I, § 3(L).
 [^32]: NPC Circular 16-03, rule V, §18 (C).
 [^33]: Compliance dated 26 March 2021 "Compliance with Order dated 11 March 2021 in NPCBN No. 18-240 (In re: Convergys Philippines Inc. Convergys Philippines, Inc.) from Convergys Philippines, Inc. (now known as Concentrix CVG Philippines, Inc.).

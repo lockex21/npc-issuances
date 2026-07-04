@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2020
+aliases:
+  - "NPC Advisory Opinion No. 2020-014"
+  - "npc advisory opinion no. 2020-014"
+  - "Advisory Opinion No. 2020-014"
+  - "advisory opinion no. 2020-014"
 draft: false
 ---
 
@@ -82,5 +87,5 @@ Privacy Commissioner and Chairman
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^2]: Department of Education, Adoption of the Unique Learners Reference Number, Department Order No. 22, s. 2012 [D.O. 22, s. 2012] (March 20, 2012).
 [^3]: Ibid.
-[^4]: Data Privacy Act of 2012, § 12.
+[^4]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12]].
 [^5]: Ibid., Footnote 4.

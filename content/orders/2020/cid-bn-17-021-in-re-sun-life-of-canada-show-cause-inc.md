@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2020"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2020-07-23"
 draft: false
 ---
@@ -37,7 +38,7 @@ x----------------------------------------------------x
 
 In a Resolution dated 29 July 2019, the Commission required Sun Life of Canada (Philippines), Inc. ("Sun Life") to comply with the notification of data subjects, stating:
 
-> In this case, despite the measures implemented by Sun Life, it cannot be said that there is no real risk of serious harm to the affected data subjects. Circular No. 16-03 requires, as a general rule, that the affected data subjects be notified. It is only in cases "where the Commission determines that such notification would not be in the public interest or in the interest of affected data subjects" may exemption be allowed. No evidence has been submitted to negate the possibility that other persons may have taken advantage of the same vulnerability to access the data.
+> In this case, despite the measures implemented by Sun Life, it cannot be said that there is no real risk of serious harm to the affected data subjects. [[issuances/undated/personal-data-breach-management|Circular No. 16-03]] requires, as a general rule, that the affected data subjects be notified. It is only in cases "where the Commission determines that such notification would not be in the public interest or in the interest of affected data subjects" may exemption be allowed. No evidence has been submitted to negate the possibility that other persons may have taken advantage of the same vulnerability to access the data.
 
 On 9 September 2019, the Commission received a letter from Sun Life in response to the Resolution, requesting for reconsideration thereof, stating, among others:
 
@@ -144,5 +145,5 @@ GENERAL RECORDS UNIT
 National Privacy Commission
 
 [^1]: Policy number, issue date, owner name, insured name, basic plan, face amount, mode of payment and premium amount.
-[^2]: NPC Circular 16-03. Personal Data Breach Management. Dated 15 December 2016.
+[^2]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03. Personal Data Breach Management.]] Dated 15 December 2016.
 [^3]: *Id.*, at Section 20. Emphasis supplied.

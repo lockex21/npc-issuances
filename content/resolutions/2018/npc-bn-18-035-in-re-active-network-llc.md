@@ -6,6 +6,8 @@ tags:
   - type/resolution
   - year/2018
   - npc-case
+  - topic/breach-notification
+  - topic/security
 aliases:
   - "NPC BN 18-035"
   - "npc bn 18-035"
@@ -34,7 +36,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before the Commission is Active Network, LLC's (Active) breach notification and management in compliance with NPC Circular 16-03 (Personal Data Breach Management).
+Before the Commission is Active Network, LLC's (Active) breach notification and management in compliance with [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).
 
 ### Facts
 
@@ -123,7 +125,7 @@ The Commission resolves to close the matter. Active's submissions show that it p
 
 It is the obligation of a Personal Information Controller (PIC), such as Active, to ensure that affected data subjects of the breach are promptly and properly notified.[^49] The Commission has consistently emphasized that the purpose of the required notification to the data subjects of a breach is to allow them to take the necessary precautions or other measures to protect themselves against its possible effects.[^50]
 
-Section 17 (D) (3) of NPC Circular 16-03 provides the obligation of a PIC to notify the NPC of a personal data breach and outlines the content of notification, specifically the measures that a PIC should take to address the breach:
+Section 17 (D) (3) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides the obligation of a PIC to notify the NPC of a personal data breach and outlines the content of notification, specifically the measures that a PIC should take to address the breach:
 
 > Section 17. **Notification of the Commission.** The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 > 
@@ -236,9 +238,9 @@ National Privacy Commission
 [^46]: Initial Report, 19 March 2018, at 4, in In Re: Active Network, LLC, NPC BN 18-035 (NPC 2018).
 [^47]: *Id.* at 5.
 [^48]: Response to NPC's Memorandum dated 07 September 2018, at 6, 11 October 2018, in In Re: Active Network, LLC, NPC BN 18-035 (NPC 2018).
-[^49]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
+[^49]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 ([[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]]), § 18 (A) (15 December 2016).
 [^50]: *Id.*
-[^51]: NPC Circ. No. 16-03, §17 (D) (3).
+[^51]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], §17 (D) (3).
 [^52]: Initial Report, 19 March 2018, at 3, in In Re: Active Network, LLC, NPC BN 18-035 (NPC 2018).
 [^53]: *Id.* at 2.
 [^54]: *Id.*

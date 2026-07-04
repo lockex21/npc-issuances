@@ -10,6 +10,7 @@ tags:
   - issuance
   - type/advisory
   - year/2024
+  - topic/legitimate-interest
 draft: false
 date: '2024-08-12'
 ---
@@ -22,11 +23,11 @@ date: '2024-08-12'
 
 **SUBJECT:** **GUIDELINES ON PERSONAL DATA PROCESSING BASED ON [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|SECTION 13 (F) OF THE DATA PRIVACY ACT OF 2012]]**
 
-**WHEREAS**, Section 7 (g) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) empowers the National Privacy Commission (NPC) to publish, on a regular basis, a guide to all laws relating to data protection;
+**WHEREAS**, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 (g)]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) empowers the National Privacy Commission (NPC) to publish, on a regular basis, a guide to all laws relating to data protection;
 
 **WHEREAS**, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] of the DPA (IRR) empowers the NPC to develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
 
-**WHEREAS**, Section 13 (f) of the DPA provides that the processing of sensitive personal information and privileged information is lawful when it is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise, or defense of legal claims, or when provided to government or public authority;
+**WHEREAS**, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] provides that the processing of sensitive personal information and privileged information is lawful when it is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise, or defense of legal claims, or when provided to government or public authority;
 
 **WHEREAS**, there is a need to clarify the application of Section 13 (f) of the DPA to enable personal information controllers (PICs) to properly rely on this provision as the basis for processing personal data;
 
@@ -98,27 +99,27 @@ Deputy Privacy Commissioner
 
 [^2]: Marvin L. San Juan v. People of the Philippines, G.R. No. 236628 (2023).
 
-[^3]: EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/06/NPC-17-018-2019.07.15-EA-and-TA-v-EJ-Decision-FinalP.pdf.
+[^3]: EA and TA v. EJ, EE and HC, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]], 15 July 2019, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/06/NPC-17-018-2019.07.15-EA-and-TA-v-EJ-Decision-FinalP.pdf.
 
 [^4]: KRL v. Trinity University of Asia, AA, MC, NCB, RG GV, GCT, RR, MR, PB, CID Case No. 17-K-003, 19 November 2019, at 6, available at https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-K-003-KRL-v-Trinity-Decision-PSD-10Aug2020.pdf.
 
 [^5]: See National Privacy Commission, Guidelines on Legitimate Interest, [[issuances/2023/guidelines-on-legitimate-interest|NPC Circular No. 2023-07]] (13 December 2023).
 
-[^6]: EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/06/NPC-17-018-2019.07.15-EA-and-TA-v-EJ-Decision-FinalP.pdf.
+[^6]: EA and TA v. EJ, EE and HC, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]], 15 July 2019, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/06/NPC-17-018-2019.07.15-EA-and-TA-v-EJ-Decision-FinalP.pdf.
 
-[^7]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule IV, § 18 (c) (2016); See Spouses MCD and JJD v. Victoria Milling Company, et al., NPC 19-758 & 19-1846, 30 June 2023, at 23, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-19-758-to-NPC-19-1846-2023.06.30-MCD-_-JJD-v-Victorias-Milling-Company-et-al-Decision-FinalP.pdf.
+[^7]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]] (2016); See Spouses MCD and JJD v. Victoria Milling Company, et al., [[decisions/2023/npc-19-758-and-npc-19-1846-spouses-mcd-jjd-v-victorias-milling-company-et-al|NPC 19-758 & 19-1846]], 30 June 2023, at 23, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-19-758-to-NPC-19-1846-2023.06.30-MCD-_-JJD-v-Victorias-Milling-Company-et-al-Decision-FinalP.pdf.
 
-[^8]: Spouses MCD and JJD v. Victoria Milling Company, et al., NPC 19-758 & 19-1846, 30 June 2023, at 21, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-19-758-to-NPC-19-1846-2023.06.30-MCD-_-JJD-v-Victorias-Milling-Company-et-al-Decision-FinalP.pdf.
+[^8]: Spouses MCD and JJD v. Victoria Milling Company, et al., [[decisions/2023/npc-19-758-and-npc-19-1846-spouses-mcd-jjd-v-victorias-milling-company-et-al|NPC 19-758 & 19-1846]], 30 June 2023, at 21, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-19-758-to-NPC-19-1846-2023.06.30-MCD-_-JJD-v-Victorias-Milling-Company-et-al-Decision-FinalP.pdf.
 
 [^9]: JCB v. FRL, [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], 03 March 2022, at 11, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-031-2022.03.03-JCB-v.-FRL-Decision-FinalP.pdf.
 
-[^10]: JCB v. FRL, NPC 21-031, 03 March 2022, at 11, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-031-2022.03.03-JCB-v.-FRL-Decision-FinalP.pdf.
+[^10]: JCB v. FRL, [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], 03 March 2022, at 11, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-031-2022.03.03-JCB-v.-FRL-Decision-FinalP.pdf.
 
-[^11]: RJC v. DL, NPC 22-012, 10 November 2022, at 8, available at https://privacy.gov.ph/wp-content/uploads/2023/08/NPC-22-012-2022.11.10-RJC-v.-DL-Decision.pdf.
+[^11]: RJC v. DL, [[decisions/2022/npc-22-012-rjc-v-dl|NPC 22-012]], 10 November 2022, at 8, available at https://privacy.gov.ph/wp-content/uploads/2023/08/NPC-22-012-2022.11.10-RJC-v.-DL-Decision.pdf.
 
-[^12]: RJC v. DL, NPC 22-012, 26 January 2023, at 11, available at https://privacy.gov.ph/wp-content/uploads/2023/07/NPC-22-012-2023.01.26-RJC-v.-DL-Resolution-w-Sgd-Final.pdf.
+[^12]: RJC v. DL, [[resolutions/2023/npc-22-012-rjc-v-dl|NPC 22-012]], 26 January 2023, at 11, available at https://privacy.gov.ph/wp-content/uploads/2023/07/NPC-22-012-2023.01.26-RJC-v.-DL-Resolution-w-Sgd-Final.pdf.
 
-[^13]: EA and TA v. EJ, EE and HC, NPC 17-018, 05 November 2020, at 3, available at https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-17-018-2020.11.05-EA-_-TA-v.-EJ-EE-_-HC-Resolution.pdf.
+[^13]: EA and TA v. EJ, EE and HC, [[resolutions/2020/npc-17-018-in-re-ea-ta-vs-ej-ee-hc|NPC 17-018]], 05 November 2020, at 3, available at https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-17-018-2020.11.05-EA-_-TA-v.-EJ-EE-_-HC-Resolution.pdf.
 
 ## Source
 

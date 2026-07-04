@@ -11,6 +11,8 @@ tags:
   - type/resolution
   - year/2024
   - npc-case
+  - topic/breach-notification
+  - topic/security
 date: "2024-10-17"
 draft: false
 ---
@@ -37,7 +39,7 @@ RESOLUTION
 
 NAGA, P.C.;
 
-Before the Commission is the Breach Notification submitted by Taguig City University (TCU) on 23 April 2018 pursuant to NPC Circular 16-03 (Personal Data Breach Management).
+Before the Commission is the Breach Notification submitted by Taguig City University (TCU) on 23 April 2018 pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).
 
 ### Facts
 
@@ -63,13 +65,13 @@ For the appropriate security measures implemented to mitigate any negative effec
 
 ### Issue
 
-Whether TCU has sufficiently addressed the breach and implemented appropriate measures pursuant to NPC Circular 16-03.
+Whether TCU has sufficiently addressed the breach and implemented appropriate measures pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
 ### Discussion
 
 The Commission resolves to close the matter. TCU's submissions show that it properly notified the affected data subjects, sufficiently addressed the breach, and implemented measures to prevent its recurrence.
 
-Rule V, Section 18 (C) and (D) of NPC Circular 16-03 provide:
+Rule V, Section 18 (C) and (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provide:
 
 > C. Content of Notification. The notification shall include, but not be limited to:
 >
@@ -159,11 +161,11 @@ National Privacy Commission
 [^17]: Post Breach Report dated 29 May 2023 of Taguig City University.
 [^18]: Id.
 [^19]: Id.
-[^20]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18 (15 December 2016) (NPC Circular 16-03).
+[^20]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18 (15 December 2016) (NPC Circular 16-03).
 [^21]: RPR vs. Edukasyon.ph, NPC 19-438, Resolution dated 22 September 2022, at p. 4.
 [^22]: Notice of Data Breach dated 05 May 2018 of Taguig City University.
 [^23]: In Re BPI Philam Life Assurance Corporation, [[orders/2021/npc-bn-no-21-054-in-re-bpi-philam-life-assurance-corporation|NPC BN 21-054]], Order dated 15 April 2021, at p. 3.
-[^24]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Chapter V, § 20 (a) (2012) (Data Privacy Act of 2012).
+[^24]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, Chapter V, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (a)]] (2012) (Data Privacy Act of 2012).
 [^25]: Breach Notification Report dated 23 April 2018 of Taguig City University at p.2.
 [^26]: Id.
 [^27]: Id.

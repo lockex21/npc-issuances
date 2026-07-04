@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2017-027 — Anonymized Data for Marketing Analytics"
 description: "Guidance on whether anonymized statistical data collected for marketing analytics falls within the scope of the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2017-027"
+  - "npc advisory opinion no. 2017-027"
+  - "Advisory Opinion No. 2017-027"
+  - "advisory opinion no. 2017-027"
 tags:
   - issuance
   - type/advisory-opinion
@@ -68,8 +73,8 @@ IVY D. PATDU
 Officer-in-Charge
 Deputy Privacy Commissioner for Policies
 
-[^1]: R.A. 10173 (2012), §4
-[^2]: Id., §3(g)
+[^1]: [[laws/data-privacy-act-of-2012#section-4-scope|R.A. 10173 (2012), §4]]
+[^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id., §3(g)]]
 [^3]: Recital 26, Regulation (EU) 2016/679
 [^4]: Regulation (EU) 2016/679 and DIRECTIVE 95/46/EC, Recital 26
 [^5]: Article 29 Data Protection Working Party, Opinion 05/2014 on Anonymisation Techniques, 10 April 2014, §2.1 – Definition in the EU legal context

@@ -5,6 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/employment"
+  - "topic/registration"
+aliases:
+  - "NPC Advisory Opinion No. 2020-025"
+  - "npc advisory opinion no. 2020-025"
+  - "Advisory Opinion No. 2020-025"
+  - "advisory opinion no. 2020-025"
 draft: false
 ---
 ## Source
@@ -124,7 +131,7 @@ may provide for the following, to wit:
 - Declare that the DPO has no conflict of interests with regard to his/her function as a DPO, as a way of raising awareness of this requirement;
 - Include safeguards in the internal rules of the organization and to ensure that the vacancy notice for the position of DPO or the service contract is sufficiently precise and detailed in order to avoid a conflict of interests.[^6]
 
-As provided in NPC Advisory 2017-01, the “opinion of the DPO or the Compliance Officer for
+As provided in [[issuances/2017/designation-of-data-protection-officers|NPC Advisory 2017-01]], the “opinion of the DPO or the Compliance Officer for
 Privacy(“COP”) must be given due weight. In case of disagreement, and should the PIC or PIP
 choose not to follow the advice of the DPO or COP, it is recommended, as good practice, to
 document the reasons therefor.”
@@ -140,8 +147,8 @@ Very truly yours,
 Privacy Commissioner
 
 [^1]: Tags: data protection officer; compliance officer; independence; conflict of interest.
-[^2]: National Privacy Commission, Designation of Data Protection Officers [NPC Advisory No. 2017-01] (March 14, 2017).
+[^2]: National Privacy Commission, Designation of Data Protection Officers [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]] (March 14, 2017).
 [^3]: Rural Bank of Cantilan, Inc. v. Julve, 545 Phil. 619 (2007).
-[^4]: NPC2017-01, Definition of Terms.
+[^4]: [[issuances/2017/designation-of-data-protection-officers|NPC 2017-01]], Definition of Terms.
 [^5]: European Commission, Article 29 Data Protection Working Party, Guidelines on Data Protection Officers (‘DPOs’), Adopted on 13 December 2016, As last Revised and Adopted on 5 April 2017, page 16, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612048 (last accessed: 17 June 2020).
 [^6]: See: European Commission, Article 29 Data Protection Working Party, Guidelines on Data Protection Officers (‘DPOs’), Adopted on 13 December 2016, As last Revised and Adopted on 5 April 2017, page 16, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612048 (last accessed: 17 June 2020).

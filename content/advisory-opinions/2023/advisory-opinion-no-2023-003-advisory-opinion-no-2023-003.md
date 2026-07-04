@@ -5,7 +5,13 @@ tags:
 - issuance
 - type/advisory-opinion
 - year/2023
+- topic/government
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-003"
+  - "npc advisory opinion no. 2023-003"
+  - "Advisory Opinion No. 2023-003"
+  - "advisory opinion no. 2023-003"
 ---
 
 ## Source
@@ -43,7 +49,7 @@ requesting entity, specifically to the private sector.
 
 ### Scope of the DPA; Lawful Basis for Processing; Legal Obligation; Fulfillment of Mandate
 
-At the outset, we wish to clarify that the Data Privacy Act of 2012 (DPA)[^2] only applies to the
+At the outset, we wish to clarify that the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^2] only applies to the
 processing of personal data of natural persons, and not to information concerning juridical
 entities such as corporations, associations, and partnerships.
 
@@ -97,7 +103,7 @@ including those that pertain to personal data, due to its obligations under R.A.
 the Right-of-Way Act.[^7] However, we also emphasized in both instances that while NGCP and
 SMAI have legal grounds to process personal data, such grounds should be duly documented.
 
-In RLA v. PLDT Enterprise,[^8] the NPC discussed the elements that should exist for valid
+In [[resolutions/2020/npc-18-010-rla-v-pldt-enterprise|RLA v. PLDT Enterprise]],[^8] the NPC discussed the elements that should exist for valid
 processing based on a legal obligation, viz.: “(1) if the legal obligation the PIC cites as lawful
 criteria exists and applies to the PIC; (2) if the processing that the PIC performs is necessary
 to comply with the legal obligation; and (3) if all the conditions imposed by the legal obligation
@@ -131,9 +137,9 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN, IV
 *Director IV, Privacy Policy Office*
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
-[^3]: Data Privacy Act of 2012, § 3 (g): "Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual."
+[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (g)]]: "Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual."
 
 [^4]: National Privacy Commission, NPC Advisory Opinion No. 2020-036 (8 September 2020).
 
@@ -143,8 +149,8 @@ FRANKLIN ANTHONY M. TABAQUIN, IV
 
 [^7]: Id.
 
-[^8]: National Privacy Commission, RLA v. PLDT Enterprise [NPC Resolution No. 2018-010] (10 December 2021).
+[^8]: National Privacy Commission, [[resolutions/2020/npc-18-010-rla-v-pldt-enterprise|RLA v. PLDT Enterprise]] [NPC Resolution No. 2018-010] (10 December 2021).
 
 [^9]: Id.
 
-[^10]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^10]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]] (2016).

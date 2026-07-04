@@ -11,6 +11,9 @@ tags:
   - "type/decision"
   - "year/2019"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/employment"
+  - "topic/legitimate-interest"
 date: "2021-09-17"
 draft: false
 ---
@@ -42,7 +45,7 @@ x--------------------------------------------x
 
 NAGA, D.P.C.:
 
-Before this Commission is a Complaint filed by GJ (Complainant) against VMJ and MTP (Respondents) for a violation of the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by GJ (Complainant) against VMJ and MTP (Respondents) for a violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -76,7 +79,7 @@ In the memorandum-reply dated 15 May 2018 of Complainant, Respondent VMJ alleged
 
 Respondents claimed that no breach of data privacy was committed as the information collected was specific, circumstances were legitimate, reasonable and for internal use only, which is intended to settle the liquidation of funds used for a particular training. Further, Complainant did not indicate in the Complaint when and how the Complainant’s 201 file was retrieved.[^19]
 
-In addition, Respondents argued that the Complaint should not have been entertained. They claim that the Complaint was filed in 31 January 2019, seven (7) months and twenty-four (24) days after Complainant’s last communication was transmitted to Respondents. Such act failed to conform to exhaustion of remedies under Section 4 (c) of NPC Circular No. 16-04.[^20]
+In addition, Respondents argued that the Complaint should not have been entertained. They claim that the Complaint was filed in 31 January 2019, seven (7) months and twenty-four (24) days after Complainant’s last communication was transmitted to Respondents. Such act failed to conform to exhaustion of remedies under Section 4 (c) of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]].[^20]
 
 Respondents stressed that the training directive is evidence that the training to be attended has been authorized by the office and obligates the employee to attend. It contains the name and position of the personnel, details of the training and the required submission. Respondents claims that it does not contain sensitive personal information as defined by [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]].[^21]
 
@@ -116,7 +119,7 @@ The instant Complaint lacks merit.
 
 #### Complainant is Exempted from Section 4 of the NPC Circular No. 16-04
 
-As provided by Section 4 of NPC Circular No. 16-04 or the NPC Rules of Procedure, the Commission has the sole discretion to waive the rule on period of filing upon good cause shown, or if the complaint involves a serious violation or breach of the DPA, taking into account the risk of harm to complainant, to wit:
+As provided by Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] or the NPC Rules of Procedure, the Commission has the sole discretion to waive the rule on period of filing upon good cause shown, or if the complaint involves a serious violation or breach of the DPA, taking into account the risk of harm to complainant, to wit:
 
 > **SECTION 4. Exhaustion of remedies.** – No complaint shall be entertained unless:
 >
@@ -142,9 +145,9 @@ Likewise, Section 2, Rule II of the [[issuances/2021/2021-rules-of-procedure-of-
 >
 > iii. the action of the respondent is patently illegal.
 
-In addition, as held by the Commission in the case of [[decisions/2021/npc-19-030-and-npc-19-132-cl-vs-ddz-and-dm-vs-ddz|NPC 19-030]] and NPC 19-132,[^33] it has been emphasized that despite the failure to exhaust all remedies under Section 4 of NPC Circular No. 16-04, the Commission has its discretionary power to waive the requirements under the said Section grounded on good cause shown, or if the complaint involves a serious violation or breach of the DPA, taking into account the risk of harm to complainant.
+In addition, as held by the Commission in the case of [[decisions/2021/npc-19-030-and-npc-19-132-cl-vs-ddz-and-dm-vs-ddz|NPC 19-030 and NPC 19-132]],[^33] it has been emphasized that despite the failure to exhaust all remedies under Section 4 of NPC Circular No. 16-04, the Commission has its discretionary power to waive the requirements under the said Section grounded on good cause shown, or if the complaint involves a serious violation or breach of the DPA, taking into account the risk of harm to complainant.
 
-Moreover, in NPC Case No. 19-528, the Commission states the purpose of Section 4 of NPC Circular No. 16-04 which is to prevent the unduly clogging of the Commission’s docket and avoid instances of dismissing a case based on mere technicalities.[^34]
+Moreover, in [[resolutions/2021/02-23-2021-mnlc-vs-pxxx-corporation|NPC Case No. 19-528]], the Commission states the purpose of Section 4 of NPC Circular No. 16-04 which is to prevent the unduly clogging of the Commission’s docket and avoid instances of dismissing a case based on mere technicalities.[^34]
 
 In consideration of the Rules and preceding decisions, the Commission weighed and found that herein Complainant was able to file a complaint which demonstrated good cause to justify the waiver of the procedural requirement.
 
@@ -154,7 +157,7 @@ In contrary with Respondents’ contention that the seriousness of the damage or
 
 It has been numerously held by the Commission that unsubstantiated allegations by either the complainant, respondent or both, cannot merit a favorable decision from the Commission and would warrant a dismissal of the case.
 
-As previously held by the Commission in NPC Case No. 19-569, a complaint bearing only allegations without any corresponding pieces of evidence to support complainant’s claim cannot merit a favorable decision from this Commission, to wit:
+As previously held by the Commission in [[decisions/2020/npc-19-569-mpm-vs-u-peso-ph-lending-corporation-pera4u|NPC Case No. 19-569]], a complaint bearing only allegations without any corresponding pieces of evidence to support complainant’s claim cannot merit a favorable decision from this Commission, to wit:
 
 > As the Supreme Court held in *Government Service Insurance System v. Prudential Guarantee*, “it is basic in the rule of evidence that bare allegations, unsubstantiated by evidence, are not equivalent to proof. In short, mere allegations are not evidence.”[^35]
 
@@ -172,7 +175,7 @@ In addition, NPC Case No. 18-135 was dismissed as the Commission cannot rely on 
 
 > In this case, the Complainant was not able to provide substantial evidence to prove the alleged recording of his phone calls without his consent. He did not adduce any evidence that could substantiate the existence thereof. Bare allegations, unsubstantiated by evidence, are not equivalent to proof.[^39]
 
-The Commission is bound to adjudicate complaints following Section 22 of NPC Circular 16-04, which provides:
+The Commission is bound to adjudicate complaints following Section 22 of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]], which provides:
 
 > **Section 22. Rendition of decision.** – The Decision of the Commission shall adjudicate the issues raised in the complaint **on the basis of all the evidence presented** and its own consideration of the law. (Emphasis supplied)
 
@@ -264,15 +267,15 @@ National Privacy Commission
 [^30]: Paragraphs 3-4, *Id.*
 [^31]: Paragraph 5, *Id.*
 [^32]: *Id.*
-[^33]: Resolution, NPC CN 19-030 and NPC 19-132 dated 10 June 2021.
-[^34]: Resolution, NPC Case No. 19-528 dated 23 February 2021.
+[^33]: Resolution, [[decisions/2021/npc-19-030-and-npc-19-132-cl-vs-ddz-and-dm-vs-ddz|NPC CN 19-030 and NPC 19-132]] dated 10 June 2021.
+[^34]: Resolution, [[resolutions/2021/02-23-2021-mnlc-vs-pxxx-corporation|NPC Case No. 19-528]] dated 23 February 2021.
 [^35]: G.R. No. 165585, 20 November 2013, citing *Real v. Belo*, 542 Phil. 109 (2007).
 [^36]: G.R No. 180364, 03 December 2014.
-[^37]: Decision, NPC Case No. 19-569 dated 19 November 2020.
+[^37]: Decision, [[decisions/2020/npc-19-569-mpm-vs-u-peso-ph-lending-corporation-pera4u|NPC Case No. 19-569]] dated 19 November 2020.
 [^38]: Decision, NPC Case No. 19-612 dated 13 November 2020.
 [^39]: Florencio Morales, Jr., v Ombudsman, G.R. No. 208086. July 27, 2016.
 [^40]: Decision, NPC Case No 18-135 dated 06 August 2020.
-[^41]: Section 12 and 13 of the DPA.
-[^42]: Section 12 (f) of R.A. No. 10173.
+[^41]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA.
+[^42]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f)]] of R.A. No. 10173.
 [^43]: DFXX Functional Statement Manpower Development Department, page 35.
 [^44]: *Yap v. Lagtapon*, GR No. 196347, 23 January 2017 citing *Gatmaitan v. Gonzales*, 525 Phil. 658, 671 (2006).

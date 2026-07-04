@@ -56,11 +56,11 @@ WHEREFORE, premises considered, the Complainants filed by SPOUSES LTG and CIG ag
 
 On 13 October 2022, Complainants received the Decision through electronic mail.[^2] Subsequently, Complainants filed their Motion for Reconsideration (MR) dated 25 October 2022.[^3]
 
-In their MR, Complainants stated that the Respondent's act of issuing the subject certification does not fall under the exception of Section 13(f) of Data Privacy Act of 2012 (DPA).[^4] According to Complainants, Respondent has the burden of proof to show that her act of issuing the subject certification to JMB (JMB) is an exception to the strict provision, which Respondent failed to do.[^5]
+In their MR, Complainants stated that the Respondent's act of issuing the subject certification does not fall under the exception of [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of Data Privacy Act of 2012]] (DPA).[^4] According to Complainants, Respondent has the burden of proof to show that her act of issuing the subject certification to JMB (JMB) is an exception to the strict provision, which Respondent failed to do.[^5]
 
 Complainants emphasized that to fall under the exception in Section 13(f) of DPA, there must be an ongoing court proceeding at the time the processing of the sensitive personal information was done.[^6] With this, Complainants argued that there was no ongoing court proceeding when the Respondent issued the subject certification to JMB.[^7]
 
-Moreover, Complainants cited Section 38 of DPA which provides that when there is doubt in the interpretation thereof shall be "liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed."[^8]
+Moreover, Complainants cited [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38 of DPA]] which provides that when there is doubt in the interpretation thereof shall be "liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed."[^8]
 
 Complainants also alleged that Respondent cannot hide behind the presumption of regularity in the exercise of her function.[^9] Since Respondent is the "keeper of records containing people's sensitive personal information, x x x [R]espondent should have been mindful of the rights and interests of complainants whose personal information shall be processed."[^10]
 
@@ -74,7 +74,7 @@ On 29 December 2022, Respondent filed its Comment/Opposition to the Complainant'
 
 In its Comment, Respondent argued that the grounds in Complainants' MR is a mere rehash of their arguments and that the "Complainants failed to raise new matters substantially plausible or compellingly persuasive to warrant its desired course of action."[^16]
 
-Respondent countered that the case falls under the exception set forth by the DPA where consent of the Complainants is not necessary.[^17] Respondent cited the case of EA and TA v. EJ, EE and HC, where this Commission ruled that "processing, as necessary for the establishment of legal claims" does not require an existing court proceeding.[^18]
+Respondent countered that the case falls under the exception set forth by the DPA where consent of the Complainants is not necessary.[^17] Respondent cited the case of [[decisions/2019/npc-17-018-ea-and-ta-v-ej|EA and TA v. EJ, EE and HC]], where this Commission ruled that "processing, as necessary for the establishment of legal claims" does not require an existing court proceeding.[^18]
 
 In addition, Respondent did not agree with the Complainants' argument that the former cannot hide behind the presumption of regularity in the exercise of her function.[^19] Respondent added that this argument of Complainant was already discussed in the Decision of the Commission dated 28 July 2022.[^20]
 
@@ -112,7 +112,7 @@ In the case of EA and TA vs. EJ et. al, this Commission ruled that the applicati
 >
 > The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is "necessary" or may or may not be collected by lawyers for purposes of building a case, applying the qualifier "necessary" to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of "establishment of legal claims" consistent with the general principles of legitimate purpose and proportionality.
 >
-> As regards legitimate purpose, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.[^28]
+> As regards legitimate purpose, the Implementing Rules and Regulations (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.[^28]
 
 Based on the foregoing, the Respondent's act of issuing the subject certification is within the ambit of Section 13(f) of DPA.
 
@@ -201,20 +201,20 @@ GENERAL RECORDS UNIT
 [^15]: Comment/Opposition dated 29 December 2022 of LSR.
 [^16]: Id., at p. 2.
 [^17]: Id., at p. 3.
-[^18]: EA and TA v. EJ, EE and HC, Resolution dated 15 July 2019.
+[^18]: [[decisions/2019/npc-17-018-ea-and-ta-v-ej|EA and TA v. EJ, EE and HC]], Resolution dated 15 July 2019.
 [^19]: Comment/Opposition dated 29 December 2022, at p. 6.
 [^20]: Id., at p. 6.
 [^21]: Id., at p. 6.
 [^22]: Id., at p. 7.
 [^23]: Motion for Reconsideration dated 25 October 2022 of Spouses LTG and CIG, at p. 2.
-[^24]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 13(f) (2012).
+[^24]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter III, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13(f)]] (2012).
 [^25]: Motion for Reconsideration dated 25 October 2022 of Spouses LTG and CIG, at p. 3.
 [^26]: Id., at p. 2.
 [^27]: EA and TA vs. EJ, EE, and HC, NPC 17-018, Decision dated 15 July 2019, at p. 8.
 [^28]: Id., at p. 7.
 [^29]: Motion for Reconsideration dated 25 October 2022 of Spouses LTG and CIG, at p. 3.
 [^30]: Id.
-[^31]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter IX, § 38 (2012).
+[^31]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter IX, [[laws/data-privacy-act-of-2012#section-38-interpretation|§ 38]] (2012).
 [^32]: CSB vs. DTB, G.R. No. 186400, 20 October 2010.
 [^33]: Id.
 [^34]: Motion for Reconsideration dated 25 October 2022 of Spouses LTG and CIG, at p. 4.

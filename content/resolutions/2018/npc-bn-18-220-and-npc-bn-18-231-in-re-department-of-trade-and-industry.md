@@ -6,6 +6,9 @@ tags:
   - type/resolution
   - year/2018
   - npc-case
+  - topic/breach-notification
+  - topic/cctv-surveillance
+  - topic/security
 aliases:
   - "NPC BN 18-220"
   - "npc bn 18-220"
@@ -112,13 +115,13 @@ Whether DTI-Rizal conducted proper breach management, including the implementati
 
 The Commission finds that DTI-Rizal conducted proper breach management and implemented reasonable and appropriate security measures in addressing the breach. The Commission resolves to close the matter.
 
-Section 20 (a) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA) provides that a Personal Information Controller (PIC) should implement reasonable and appropriate measures to protect personal information:
+Section 20 (a) of [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA) provides that a Personal Information Controller (PIC) should implement reasonable and appropriate measures to protect personal information:
 
 > **Section 20. Security of Personal Information.**
 >
 > **a.** The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^44]
 
-Similarly, Section 17 (D) (3) of NPC Circular 16-03 (Personal Data Breach Management) provides the obligation of a PIC to notify the NPC of a personal data breach.[^45] The provision also outlines the content of notification specifically the measures that a PIC took to address the breach:
+Similarly, Section 17 (D) (3) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management) provides the obligation of a PIC to notify the NPC of a personal data breach.[^45] The provision also outlines the content of notification specifically the measures that a PIC took to address the breach:
 
 > **Section 17. Notification of the Commission.** The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 >
@@ -288,9 +291,9 @@ GENERAL RECORDS UNIT
 
 [^43]: Memorandum, Complaints and Investigation Division, at 1, in In Re: Department of Trade and Industry -Rizal Provincial Office, NPC BN 18-220 and NPC BN 18-180 (NPC 2022).
 
-[^44]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (a) (2012).
+[^44]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 § 20 (a) (2012).
 
-[^45]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], § 17 (D) (3) (15 December 2016).
+[^45]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], § 17 (D) (3) (15 December 2016).
 
 [^46]: *Id.* § 17 (D) (3).
 

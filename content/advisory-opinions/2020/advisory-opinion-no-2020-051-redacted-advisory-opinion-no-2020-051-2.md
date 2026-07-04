@@ -9,6 +9,8 @@ tags:
   - surveillance
   - residential-condominium
   - legitimate-interest
+  - topic/cctv-surveillance
+  - topic/security
 draft: false
 ---
 
@@ -32,7 +34,7 @@ Commission (NPC) in relation to the above captioned.
 
 We understand that the Research and Analysis Division of the National Bureau of Investigation (NBI) Intelligence Service requested for the number/list of foreigners who availed of the Special Resident Retiree’s Visa (SRRV) based on an inquiry being conducted by the said division, while the 15th Army Intelligence Battalion of the Philippine Army (the Army) requested for pertinent information/data on the 28,000 Chinese National Retirees to conduct record check on the influx of Chinese nationals in the Philippines.
 
-Specifically, the request sought to clarify the following matters vis-à-vis the provisions of the Data Privacy Act of 2012[^2] (DPA):
+Specifically, the request sought to clarify the following matters vis-à-vis the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA):
 
 1. Whether the Philippine Retirement Authority (PRA) can legally submit the requested information (i.e. names, addresses, status etc.) of SRRV holders as a response to a mere letter request?
 2. Whether the PRA can divulge the requested information without owner’s consent?
@@ -72,7 +74,7 @@ Similarly, the 1987 Constitution states that the mandate of the Armed Forces of 
 
 Processing, which includes disclosure, of personal and sensitive personal information (collectively, personal data) by government agencies is recognized under the DPA.
 
-The law provides for the various criteria for lawful processing. For personal information, this may be disclosed pursuant to the applicable provisions of Section 12, particularly Section 12 (c) where the processing is necessary for compliance with a legal obligation, or Section 12 (e) where processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.
+The law provides for the various criteria for lawful processing. For personal information, this may be disclosed pursuant to the applicable provisions of [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]], particularly Section 12 (c) where the processing is necessary for compliance with a legal obligation, or Section 12 (e) where processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.
 
 For sensitive personal information, release or disclosure is generally prohibited unless it is permitted under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]. For the given scenario, Section 13 (b) recognizes the processing that is provided for by existing laws and regulations, while Section 13 (f) provides for the processing for the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 
@@ -134,8 +136,8 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 4.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
 [^4]: Creating the Philippine Retirement Park System, Providing Funds Therefor and Other Purposes, Executive Order No. 1037, s. 1985 (1985).
 [^5]: Philippine Retirement Authority, About Us, available at https://pra.gov.ph/mandate-vision-and-mision/ (last accessed 22 November 2020).
 [^6]: An Act Reorganizing and Modernizing the National Bureau of Investigation (NBI) And Providing Funds Therefor [NBI Reorganization and Modernization Act], Republic Act No. 10867, § 4 (2016).

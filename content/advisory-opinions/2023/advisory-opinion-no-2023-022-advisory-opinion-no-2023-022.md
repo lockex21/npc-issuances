@@ -5,6 +5,12 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2023
+  - topic/data-subject-rights
+aliases:
+  - "NPC Advisory Opinion No. 2023-022"
+  - "npc advisory opinion no. 2023-022"
+  - "Advisory Opinion No. 2023-022"
+  - "advisory opinion no. 2023-022"
 draft: false
 ---
 
@@ -34,7 +40,7 @@ prohibition violates the freedom of the press and of the right of the people to 
 For its part, the PNP cited PNP Memorandum Circular (MC) No. 2020-0372 as their basis for
 the prohibition. PNP MC No. 2020-037 essentially states that the police blotter shall be treated
 with confidentiality since it contains personal information of complainants, victims, and
-suspects. Citing the Data Privacy Act of 2012 (DPA), the PNP limits access to the police blotter
+suspects. Citing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), the PNP limits access to the police blotter
 only to a real party-in-interest or upon order of a court. Media practitioners, however, may
 submit a data request to the Public Information Officer (PIO) of the police station, which will
 be treated similarly to a Freedom of Information (FOI) request.
@@ -186,11 +192,11 @@ Director IV, Privacy Policy Office
 
 ## Footnotes
 
-[^3]: Republic Act No. 10173, § 3(g).
+[^3]: Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(g)]].
 
-[^4]: Republic Act No. 10173, § 3(l).
+[^4]: Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(l)]].
 
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5]] (2016).
 
 [^6]: Baldoza v. Dimaano, A.M. No. 1120-MJ (1976).
 
@@ -204,4 +210,4 @@ Director IV, Privacy Policy Office
 
 [^11]: PNP MC No. 2020-037, § 3 (2020).
 
-[^12]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^12]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]] (2016).

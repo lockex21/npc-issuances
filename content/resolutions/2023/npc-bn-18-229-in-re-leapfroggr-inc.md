@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2023
   - npc-case
+  - topic/breach-notification
 date: "2023-01-19"
 draft: false
 ---
@@ -57,7 +58,7 @@ The Commission finds that Leapfroggr has sufficiently complied with the Order da
 
 As reflected in the submissions made by Leapfroggr, the affidavits of LYB and TMR sufficiently proved that it actually notified the affected data subjects.
 
-Rule V, Section 18 (D) of NPC Circular No. 16-03 (Personal Data Breach Management) provides:
+Rule V, Section 18 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]] provides:
 
 > D. Form. Notification of affected data subjects shall be done individually, using secure means of communication, whether written or electronic. **The personal information controller shall take the necessary steps to ensure the proper identity of the data subject being notified, and to safeguard against further unnecessary disclosure of personal data. The personal information controller shall establish all reasonable mechanisms to ensure that all affected data subjects are made aware of the breach[.] x x x Provided further, that the personal information controller shall establish means through which the data subjects can exercise their rights and obtain more detailed information relating to the breach.**[^5]
 
@@ -110,7 +111,7 @@ National Privacy Commission
 [^2]: Id.
 [^3]: Affidavit dated 21 December 2022 of LYB.
 [^4]: Affidavit dated 21 December 2022 of TMR.
-[^5]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18(D) (15 December 2016) (NPC Circular 16-03).
+[^5]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], NPC Circular 16-03, rule V, § 18(D) (15 December 2016) (NPC Circular 16-03).
 [^6]: In re: Leapfroggr, Inc., NPC BN 18-229, Order dated 10 November 2022, at p. 3
 [^7]: Id., at p. 4
 [^8]: Affidavits dated 21 December 2022 of LYB and TMR.
@@ -121,4 +122,4 @@ National Privacy Commission
 [^13]: Id.
 [^14]: Id.
 [^15]: Id.
-[^16]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter V, § 20 (f) (2012).
+[^16]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], chapter V, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (f)]] (2012).

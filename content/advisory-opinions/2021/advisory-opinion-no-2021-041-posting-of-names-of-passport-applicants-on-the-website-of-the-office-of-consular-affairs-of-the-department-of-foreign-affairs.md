@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/legitimate-interest"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-041"
+  - "npc advisory opinion no. 2021-041"
+  - "Advisory Opinion No. 2021-041"
+  - "advisory opinion no. 2021-041"
 ---
 
 ## Source
@@ -54,7 +60,7 @@ juridical person involved in personal information processing.[^3]
 
 Under the DPA, the names of the passport applicants are considered as personal information,[^4]
 thus, posting of the same on the website of the DFA-OCA constitutes processing[^5] which
-should comply with the provisions of the DPA, particularly Section 12 of the law providing
+should comply with the provisions of the DPA, particularly [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] of the law providing
 for the criteria for lawful processing of personal information, to wit:
 
    SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of
@@ -158,11 +164,11 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 4.
-[^4]: Id. § 3 (g).
-[^5]: Id. § 3 (j).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]].
+[^4]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (g).
+[^5]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (j).
 [^6]: Philippine Passport Act of 1996, Republic Act No. 8239 (1996).
 [^7]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Art. 6 (1) (f) (4 May 2016).
-[^8]: Data Privacy Act of 2012, § 11 (c).
+[^8]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]] (c).
 [^9]: IAPP, Glossary of Privacy Terms, available at https://iapp.org/resources/glossary/#paperwork-reduction-act-2

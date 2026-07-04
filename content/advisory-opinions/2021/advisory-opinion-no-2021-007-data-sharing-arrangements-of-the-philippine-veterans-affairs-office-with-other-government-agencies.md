@@ -5,6 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/data-sharing"
+  - "topic/government"
+aliases:
+  - "NPC Advisory Opinion No. 2021-007"
+  - "npc advisory opinion no. 2021-007"
+  - "Advisory Opinion No. 2021-007"
+  - "advisory opinion no. 2021-007"
 draft: false
 ---
 
@@ -47,7 +54,7 @@ In this regard, you now seek clarification on the following matters:
 
    a. Is PVAO still considered a third party for the purpose of data sharing with the aforesaid government agencies?
    b. Is it safe to say that information provided by the data subjects to the aforesaid government agencies be used and processed by the government in general, so that all government agencies may process the information as long as it is in accordance with their mandated functions?
-   c. Further, are government agencies sharing data with other government agencies pursuant to the performance of their functions still need to comply with the requirements of the Data Privacy Act of 2012 (DPA)?
+   c. Further, are government agencies sharing data with other government agencies pursuant to the performance of their functions still need to comply with the requirements of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)?
 
 4. Are information shared among offices under the Department of National Defense (DND), such as the Armed Forces of the Philippines (AFP) and PVAO considered data sharing?
 
@@ -62,7 +69,7 @@ Data sharing is the sharing, disclosure, or transfer to a third party of persona
 All data sharing arrangements, whether or not covered by a DSA, are governed by the following principles:
 
 a. Adherence to the data privacy principles of transparency, legitimate purpose, and proportionality;
-b. Fulfillment of all applicable requirements prescribed by the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and other issuances of the NPC;
+b. Fulfillment of all applicable requirements prescribed by the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and other issuances of the NPC;
 c. Recognition of upholding the rights of affected data subjects, unless otherwise provided by law;
 d. Ensuring that the shared and collected data are accurate, complete, and where necessary for the declared, specified and legitimate purpose, kept up to date; and
 e. Implementation of reasonable and appropriate organizational, physical, and technical security measures intended for the protection of personal data against any accidental or unlawful destruction, alteration, and disclosure as well as against any other unlawful processing.[^5]
@@ -77,7 +84,7 @@ Stated differently, although government agencies may have legal bases for the pr
 
 #### Parties to a DSA; personal information controllers
 
-Regarding your first query as to who may be the proper party to the DSA with the LCRs, we wish to clarify that the execution of a DSA under the latest NPC issuance is not mandatory:[^7]
+Regarding your first query as to who may be the proper party to the DSA with the LCRs, we wish to clarify that the execution of a DSA under the latest [[issuances/2020/data-sharing-agreements|NPC issuance]] is not mandatory:[^7]
 
 > SECTION 8. Data sharing agreement; key considerations. – Data sharing may be covered by a data sharing agreement (DSA) or a similar document containing the terms and conditions of the sharing arrangement, including obligations to protect the personal data shared, the responsibilities of the parties, mechanisms through which data subjects may exercise their rights, among others.
 
@@ -95,7 +102,7 @@ Very truly yours,
 OIC-Director IV, Privacy Policy Office
 
 [^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^4]: National Privacy Commission, Data Sharing Agreements [NPC Circular No. 2020-03], § 2 (F) (23 December 2020).
+[^4]: National Privacy Commission, [[issuances/2020/data-sharing-agreements|Data Sharing Agreements]] [NPC Circular No. 2020-03], § 2 (F) (23 December 2020).
 [^5]: Id.
-[^6]: See: Data Privacy Act of 2012, § 4 (c), (c) – for processing personal information, or 13 (b) & (f) – for processing sensitive personal information.
-[^7]: NPC Circular No. 2020-03, § 8.
+[^6]: See: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4 (c), (c)]] – for processing personal information, or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13 (b) & (f)]] – for processing sensitive personal information.
+[^7]: [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]], § 8.

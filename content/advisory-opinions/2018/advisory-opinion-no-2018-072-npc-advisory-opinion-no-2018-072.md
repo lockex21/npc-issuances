@@ -5,7 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2018"
+  - "topic/consent"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-072"
+  - "npc advisory opinion no. 2018-072"
+  - "Advisory Opinion No. 2018-072"
+  - "advisory opinion no. 2018-072"
 ---
 
 ## Source
@@ -23,7 +29,7 @@ Re: Review of Consent Form
 
 Dear [Redacted],
 
-We write in response to your request received by the National Privacy Commission (NPC) to review the National Kidney Transplant Institute's (NKTI) Consent Form template regarding its compliance with the Data Privacy Act of 2012.[^1] Please see the template below with our comments:
+We write in response to your request received by the National Privacy Commission (NPC) to review the National Kidney Transplant Institute's (NKTI) Consent Form template regarding its compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].[^1] Please see the template below with our comments:
 
 ### Discussion
 
@@ -54,7 +60,7 @@ In addition, in view of research being a part of the NKTI's mandate, you inquire
 
 This is not possible. While Presidential Decree No. 1832, which created the NKTI, did include research as part of your institution's mandate, the processing of personal and sensitive personal information for research is still subject to the requirements of existing laws and regulations governing research.
 
-The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act of 2012[^7] (DPA) states that personal information that will be processed for research purposes, intended for a public benefit, subject to the requirements of applicable laws, regulations, or ethical standards, is outside of the scope of the law.[^8] But this exemption from the requirements of the DPA is only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned, and does not extend to personal information controllers who remain subject to the requirements of implementing security measures for personal data protection.
+The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^7] (DPA) states that personal information that will be processed for research purposes, intended for a public benefit, subject to the requirements of applicable laws, regulations, or ethical standards, is outside of the scope of the law.[^8] But this exemption from the requirements of the DPA is only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned, and does not extend to personal information controllers who remain subject to the requirements of implementing security measures for personal data protection.
 
 For health research and research involving human participants, we understand that the Department of Science and Technology — Philippine Council for Health Research and Development (DOST PCHRD) published the 2017 National Ethical Guidelines for Health and Health-Related Research (Guidelines), which was prepared by the Philippine Health Research Ethics Board Ad Hoc Committee for Updating the National Ethical Guideline.
 
@@ -90,11 +96,11 @@ Officer-in-Charge and
 Deputy Privacy Commissioner
 for Policies and Planning
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
 
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(c) (2016).
+[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(c)]] (2016).
 
-[^3]: Data Privacy Act § 3(i).
+[^3]: [[laws/data-privacy-act-of-2012|Data Privacy Act]] [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(i)]].
 
 [^4]: Opinion 05/2014 on Anonymisation Techniques of the Article 29 Data Protection Working Party of the European Commission provides an illustration on how a dataset would qualify as anonymous: "If an organisation collects data on individual travel movements, the individual travel patterns at event level would still qualify as personal data for any party, as long as the data controller (or any other party) still has access to the original raw data, even if direct identifiers have been removed from the set provided to third parties. But if the data controller would delete the raw data, and only provide aggregate statistics to third parties on a high level, such as 'on Mondays on trajectory X there are 160% more passengers than on Tuesdays', that would qualify as anonymous data."
 
@@ -102,9 +108,9 @@ for Policies and Planning
 
 [^6]: *Id.*
 
-[^7]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
+[^7]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
 
-[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
+[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5]] (2016).
 
 [^9]: *Id.*
 

@@ -11,6 +11,9 @@ tags:
   - type/resolution
   - year/2023
   - npc-case
+  - topic/breach-notification
+  - topic/employment
+  - topic/security
 date: "2023-11-13"
 draft: false
 ---
@@ -47,7 +50,7 @@ WHEREFORE, premises considered, Unilever Philippines is hereby **ORDERED** to co
 
 1. **NOTIFY** the affected data subject with dispatch;
 
-2. **SUBMIT** a full breach report in compliance with Section 9 of the NPC Circular 16-03, including the following documents:
+2. **SUBMIT** a full breach report in compliance with Section 9 of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], including the following documents:
    (a) Post-breach report detailing the measures it has since undertaken to prevent, avoid or reduce the recurrence of a similar personal data breach; (b) Proof of deletion of the subject email from the office email accounts and from all email recipients; and (c) Proof that subject email was not successfully delivered to the Yahoo! Email account; and
 
 3. **SHOW CAUSE** in writing why contempt proceedings should not be instituted in court for its failure to notify the affected data subjects as required under NPC Circular 16-03.[^2]
@@ -92,7 +95,7 @@ In Unilever's Compliance dated 26 February 2021, it stated that the affected dat
 >
 > Thank you.[^18]
 
-Section 18 (C) of NPC Circular 16-03 provides the contents of proper notification to the affected data subjects:
+Section 18 (C) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides the contents of proper notification to the affected data subjects:
 
 > Section 18. *Notification of Data Subjects.* The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -206,15 +209,15 @@ National Privacy Commission
 
 [^18]: Full Breach Report of Unilever Philippines dated 26 February 2021, Annex "C" Sample Notification sent to the affected data subjects.
 
-[^19]: National Privacy Commission, Personal Data Breach Management, NPC Circular No. 16-03, rule V, § 18 (C).
+[^19]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular No. 16-03]], rule V, § 18 (C).
 
 [^20]: Full Breach Report of Unilever Philippines dated February 2021, at p. 2.
 
-[^21]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Chapter V, § 20 (a) (2012) (Data Privacy Act of 2012).
+[^21]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, Chapter V, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (a)]] (2012) (Data Privacy Act of 2012).
 
-[^22]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Chapter V, § 20 (a) (2012) (Data Privacy Act of 2012).
+[^22]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, Chapter V, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (a)]] (2012) (Data Privacy Act of 2012).
 
-[^23]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016-03, rule II, § 4 (B) (15 December 2016) (NPC Circular 16-03).
+[^23]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 2016-03]], rule II, § 4 (B) (15 December 2016) (NPC Circular 16-03).
 
 [^24]: Full Breach Report of Unilever Philippines dated February 2021, at p. 2, See: Annex "B" Copy of E-mail confirming that the subject email was not successfully delivered to the Yahoo! Email.
 

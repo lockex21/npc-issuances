@@ -5,6 +5,14 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2017"
+  - "topic/data-sharing"
+  - "topic/employment"
+  - "topic/registration"
+aliases:
+  - "NPC Advisory Opinion No. 2017-037"
+  - "npc advisory opinion no. 2017-037"
+  - "Advisory Opinion No. 2017-037"
+  - "advisory opinion no. 2017-037"
 draft: false
 ---
 
@@ -71,11 +79,11 @@ Sincerely,
 RAYMUND E. LIBRO
 Privacy Commissioner and Chairman
 
-[^1]: See RA No. 10173, §21(h) and 14; Implementing Rules and Regulations (IRR) of RA No. 10173, §26(a)
+[^1]: See [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|RA No. 10173, §21(h)]] and [[laws/data-privacy-act-of-2012#section-14-subcontract-of-personal-information|14]]; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-26-organizational-security-measures|Implementing Rules and Regulations (IRR) of RA No. 10173, §26(a)]]
 [^2]: In certain cases, a PIC or PIP is allowed to designate a compliance officer for privacy (COP):
     a. Local Government Units (LGUs). Each LGU shall designate a DPO. However, a component city, municipality, or barangay is allowed to designate a COP, provided that the latter shall be under the supervision of the DPO of the corresponding province, city, or municipality that part of.
     b. Government Agencies. Each government agency shall designate a DPO. Where a government agency has regional, provincial, district offices, or any other similar sub-units, it may also appoint or designate a COP for each sub unit. Subject to the approval of the NPC, a group of related companies may appoint or designate the DPO or its members to be primarily accountable for ensuring the compliance of the entire group with all data protection policies. Where such common DPO is allowed by the NPC, the other members of the group must still have a COP as defined in this Advisory.
     c. Private Sector. Where a private entity that previously had its own officers, or any other component units, it may also appoint or designate a COP for each component unit. Subject to the approval of the NPC, a group of related companies may appoint or designate the DPO or its members to be primarily accountable for ensuring the compliance of the entire group with all data protection policies. Where such common DPO is allowed by the NPC, the other members of the group must still have a COP as defined in this Advisory.
     d. Other Analogous Cases. PICs or PIPs that are under similar or analogous circumstances may also seek the approval of the NPC for the appointment or designation of a COP, in lieu of a DPO.
 [^3]: [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]], Definition of Terms, "Compliance Officer for Privacy" or "COP" refers to an individual or individuals who shall perform some of the functions of a DPO, as provided in this Advisory
-[^4]: IRR of RA No. 10173, §47
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|IRR of RA No. 10173, §47]]

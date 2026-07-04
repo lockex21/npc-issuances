@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2020"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/training-certification"
 date: "2020-09-21"
 draft: false
 ---
@@ -41,7 +43,7 @@ On 22 March 2020, a list from the Research Institute for Tropical Medicine (RITM
 
 On 24 March 2020, the Data Protection Officer (DPO) of RITM has sent a breach report with a request to the National Privacy Commission (NPC) for assistance to conduct a full investigation of this matter[^1] and exemption for notification of affected data subjects.
 
-On 22 June 2020,[^2] the Commission issued a Resolution denying RITM's request for assistance and exemption for notification. In the Resolution, the Commission reiterated the requirement of NPC Circular No. 16-03 (Circular) for a personal information controller (PIC) like RITM to have a data breach response team, which may include its DPO. As provided in the Circular, "the team must be ready to assess and evaluate a security incident, restore integrity to the information and communications system, mitigate and remedy any resulting damage, and comply with reporting requirements." Thus, the Commission finds that compliance with the Circular must first be made before NPC extends additional assistance, if warranted.
+On 22 June 2020,[^2] the Commission issued a Resolution denying RITM's request for assistance and exemption for notification. In the Resolution, the Commission reiterated the requirement of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Circular) for a personal information controller (PIC) like RITM to have a data breach response team, which may include its DPO. As provided in the Circular, "the team must be ready to assess and evaluate a security incident, restore integrity to the information and communications system, mitigate and remedy any resulting damage, and comply with reporting requirements." Thus, the Commission finds that compliance with the Circular must first be made before NPC extends additional assistance, if warranted.
 
 Further, the Commission stressed on the Resolution[^3] that notification is the general rule during a personal data breach. Considering the reported discriminations against COVID-19 patients and those who are connected or related to them, the Commission finds that this personal data breach gives rise to the risk of serious harm to those PUI whose identity may have been revealed by said breach. As such, Section 11 of the Circular requires notification upon the occurrence of this kind of personal data breach.
 
@@ -57,11 +59,11 @@ The Commission adjudged that this case can now be considered closed.
 
 In this case, RITM had taken measures to address the breach and to reduce harm or negative consequences of the breach by implementing policies that will prevent the similar events from happening in the future. Right after the Commission's order to notify the data subjects, RITM promptly complied and sent secured notification letters[^7] to the data subjects electronically, which included, among others, the (1) nature of the breach; (2) personal data involved; (3) measures taken to address the breach; (4) measures taken to reduce the harm or negative consequences of the breach; (5) contact details of the personal information controller to whom further additional information can be obtained about the breach; and (6) assistance provided to the affected data subjects.
 
-With the foregoing, the Commission finds that RITM satisfactorily complied with the requirements of Section 18 of NPC Circular 16-03[^8] on Personal Data Breach Management, and as well as the Commission's Resolutions and Orders.
+With the foregoing, the Commission finds that RITM satisfactorily complied with the requirements of Section 18 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]][^8] on Personal Data Breach Management, and as well as the Commission's Resolutions and Orders.
 
 WHEREFORE, all premises considered, the Commission resolves that the matter of NPC BN 20-044 "In re: Research Institute For Tropical Medicine" is hereby considered **CLOSED.**
 
-With the compliance of both the Commission's Resolutions and the requirement of NPC Circular No. 16-03 for a PIC like RITM to have a data breach response team that is ready to assess and evaluate a security incident, restore integrity to the information and communications system, mitigate and remedy any resulting damage, and to comply with reporting requirements, the Commission finds it just to extend its assistance to RITM through its Public Information and Assistance Division (PIAD) for the conduct of training and seminar on implementation of privacy and data privacy implementation measure and personal data breach management. RITM may directly coordinate with PIAD through piad@privacy.gov.ph or call +63 234-2228 local 117 and 116.
+With the compliance of both the Commission's Resolutions and the requirement of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] for a PIC like RITM to have a data breach response team that is ready to assess and evaluate a security incident, restore integrity to the information and communications system, mitigate and remedy any resulting damage, and to comply with reporting requirements, the Commission finds it just to extend its assistance to RITM through its Public Information and Assistance Division (PIAD) for the conduct of training and seminar on implementation of privacy and data privacy implementation measure and personal data breach management. RITM may directly coordinate with PIAD through piad@privacy.gov.ph or call +63 234-2228 local 117 and 116.
 
 **SO ORDERED.**
 

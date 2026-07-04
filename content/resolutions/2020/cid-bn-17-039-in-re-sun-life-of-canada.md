@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "year/2020"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2020-10-15"
 draft: false
 ---
@@ -60,7 +61,7 @@ On 29 November 2017, Sun Life submitted the breach notification report before th
 
 ### Discussion
 
-As provided by Section 11 of the NPC Circular 16-03, notification to the affected data subjects shall be required upon knowledge of or when there is reasonable belief by the Personal Information Controller (PIC) or Personal Information Processor (PIP) that a personal data breach requiring notification has occurred, under the following conditions:
+As provided by Section 11 of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], notification to the affected data subjects shall be required upon knowledge of or when there is reasonable belief by the Personal Information Controller (PIC) or Personal Information Processor (PIP) that a personal data breach requiring notification has occurred, under the following conditions:
 
 A. The personal data involves sensitive personal information or any other information that may be used to enable identity fraud. For this purpose, "other information" shall include, but not be limited to: data about the financial or economic situation of the data subject; usernames, passwords and other login data; biometric data; copies of identification documents, licenses or unique identifiers like Philhealth, SSS, GSIS, TIN number; or other similar information, which may be made the basis of decisions concerning the data subject, including the grant of rights or benefits.
 
@@ -139,7 +140,7 @@ ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 National Privacy Commission
 
-[^1]: Section 18 of the NPC Circular 16-03
-[^2]: Section 17 (A) of the NPC Circular 16-03
-[^3]: Section 17 (D) of the NPC Circular 16-03
-[^4]: Section 17 (A) of NPC Circular 16-03
+[^1]: Section 18 of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]
+[^2]: Section 17 (A) of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]
+[^3]: Section 17 (D) of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]
+[^4]: Section 17 (A) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]

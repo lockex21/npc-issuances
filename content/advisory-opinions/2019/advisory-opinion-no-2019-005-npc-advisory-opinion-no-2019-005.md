@@ -5,7 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+  - topic/legitimate-interest
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-005"
+  - "npc advisory opinion no. 2019-005"
+  - "Advisory Opinion No. 2019-005"
+  - "advisory opinion no. 2019-005"
 ---
 
 ## Source
@@ -53,7 +59,7 @@ Nonetheless, the disclosure of such forms is still regulated by other applicable
 
 As to the request for information with MERALCO, this pertains to personal information. We understand that MERALCO likewise denied your request as this will allegedly be contrary to the provisions of the DPA as well as the Distribution Services and Open Access Rules (DSOAR), promulgated by the Energy Regulatory Commission (ERC) pursuant to RA No. 9136 or the Electric Power Industry Reform Act of 2001.
 
-Pursuant to the DPA, the processing of personal information, which includes the disclosure thereof, should be based on any of the following criteria for lawful processing under Section 12, to wit:
+Pursuant to the DPA, the processing of personal information, which includes the disclosure thereof, should be based on any of the following criteria for lawful processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]], to wit:
 
 > SECTION 12. Criteria for Lawful Processing of Personal Information. — xxx
 >
@@ -93,6 +99,6 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: Tags: data sharing, outsourcing, personal information controller, personal information processor, compliance
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: See generally, Data Privacy Act of 2012, § 12(f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed on June 11, 2018).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: See generally, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12(f)]]; United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed on June 11, 2018).
 [^4]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-080-npc-advisory-opinion-no-2018-080|Advisory Opinion No. 2018-080]] (Nov. 5, 2018).

@@ -5,7 +5,14 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/data-subject-rights"
+  - "topic/security"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-032"
+  - "npc advisory opinion no. 2020-032"
+  - "Advisory Opinion No. 2020-032"
+  - "advisory opinion no. 2020-032"
 ---
 
 ## Source
@@ -109,22 +116,22 @@ Very truly yours,
 Privacy Commissioner
 
 [^1]: Tags: Personal Property Security Act; public authority; special cases; general data privacy principles; blockchain technology; immutability; personal information controller; data subject rights.
-[^2]: An Act Protecting the Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) and last ¶ (2016).
+[^2]: An Act Protecting the Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Data Privacy Act of 2012]], Republic Act No. 10173, § 5 (d) and last ¶ (2016).
 [^4]: See generally: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-079-v1-redacted-advisory-opinion-no-2018-079|NPC Advisory Opinion No. 2018-079]] (Oct. 23, 2018).
 [^5]: An Act Strengthening the Secured Transactions Legal Framework in the Philippines, Which Shall Provide for the Creation, Perfection, Determination of Priority, Establishment of a Centralized Notice Registry, and Enforcement of Security Interests in Personal Property, and For Other Purposes [Personal Property Security Act], Republic Act No. 11057, § 26 (b) (2018).
 [^6]: Rules and Regulations Implementing the Personal Property Security Act, § 5.05 (a) (2018).
 [^7]: As disclosed by the LRA in the attachment to its letter request: Annex B-PPSA_Discussion Sheet_Data Inventory and Data Privacy_01 (2020.05.07).
 [^8]: Finck, Michèle, European Parliamentary Research Service, Blockchain and the General Data Protection Regulation Can distributed ledgers be squared with European data protection law?, available at https://www.europarl.europa.eu/RegData/etudes/STUD/2019/634445/EPRS_STU%282019%29634445_EN.pdf, p. I (last accessed Aug. 10, 2020).
 [^9]: Politou, Eugenia & Casino, Fran & Alepis, Efthymios & Patsakis, Constantinos, Blockchain Mutability: Challenges and Proposed Solutions (2019), available at https://arxiv.org/pdf/1907.07099.pdf, p. 5 (last accessed Aug. 12, 2020).
-[^10]: Data Privacy Act of 2012, § 21.
+[^10]: [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Data Privacy Act of 2012, § 21]].
 [^11]: See: Finck, Panel for the Future of Science and Technology, European Parliamentary Research Service, supra note 8, p. 43.
-[^12]: Data Privacy Act of 2012, § 16 (d) and (e).
+[^12]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, § 16]] (d) and (e).
 [^13]: Rules and Regulations Implementing the Personal Property Security Act, § 5.19.
 [^14]: See: Finck, Panel for the Future of Science and Technology, European Parliamentary Research Service, supra note 8, p. 101.
 [^15]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Art. 12 (5) (2016).
-[^16]: Data Privacy Act of 2012, § 2.
-[^17]: National Privacy Commission, Guidelines on Privacy Impact Assessments, NPC Advisory No. 2017-03 (July 31, 2017).
+[^16]: [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Data Privacy Act of 2012, § 2]].
+[^17]: National Privacy Commission, [[issuances/2017/guidelines-on-privacy-impact-assessments|Guidelines on Privacy Impact Assessments, NPC Advisory No. 2017-03]] (July 31, 2017).
 [^18]: See: Finck, Panel for the Future of Science and Technology, European Parliamentary Research Service, supra note 8, p. 101.
 [^19]: See: Politou, et. al., supra note 9, p. 4, citing V. Buterin, Privacy on the blockchain, https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/ (2016).
 [^20]: Id. p. 6-7, 10.

@@ -5,7 +5,15 @@ tags:
 - issuance
 - type/advisory-opinion
 - year/2023
+- topic/government
+- topic/legitimate-interest
+- topic/security
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-006"
+  - "npc advisory opinion no. 2023-006"
+  - "Advisory Opinion No. 2023-006"
+  - "advisory opinion no. 2023-006"
 ---
 
 ## Source
@@ -29,7 +37,7 @@ Thus, you ask whether it is lawful for Philhealth to disclose the personal infor
 
 *Lawful processing of personal information; legitimate interests*
 
-As far as Philhealth is concerned, the requested information is personal information since it pertains to information that can identify its member. Further, the said information also forms part of the files belonging to the missing husband and thus, is considered personal information. As such, Philhealth, as a personal information controller, is obliged under the DPA to process personal information of its members only when there is lawful basis and the requirements of the DPA are complied with.
+As far as Philhealth is concerned, the requested information is personal information since it pertains to information that can identify its member. Further, the said information also forms part of the files belonging to the missing husband and thus, is considered personal information. As such, Philhealth, as a personal information controller, is obliged under the [[laws/data-privacy-act-of-2012|DPA]] to process personal information of its members only when there is lawful basis and the requirements of the DPA are complied with.
 
 ### Discussion
 
@@ -71,7 +79,7 @@ Third, it is also necessary to establish that the processing of personal informa
 
 As a PIC, Philhealth must assess the purpose and reasonableness of the disclosure to the third party (*i.e.*, to disclose information which may be essential to locating her missing husband). This assessment includes whether or not disclosure of the spouse’s information may provide a means to discovering information leading to his discovery or disappearance. Locating a spouse who has been reportedly missing since 2015 constitutes as a legitimate interest of any spouse, especially if said spouse failed to disclose his last known whereabouts. Further, allowing a third-party access to personal information to pursue his or her own legitimate interest may also be considered a legitimate interest of Philhealth since the same is not unlawful or in violation of any rules or regulations.
 
-It is also worth noting that although this may not be one of the situations contemplated by the data subject during Philhealth’s collection of personal information, it may nonetheless be reasonable in view of the extraordinary circumstances. In addition, reasonableness may also be determined from the designation of a beneficiary of Philhealth benefits in case of the data subject’s death, incapacity or unavailability. In the current matter, the wife was able to present documents to establish her identity and relationship with the data subject and the reason for the request. For a more comprehensive discussion on reasonable expectation, kindly refer to NPC Case No. 17-047.[^10]
+It is also worth noting that although this may not be one of the situations contemplated by the data subject during Philhealth’s collection of personal information, it may nonetheless be reasonable in view of the extraordinary circumstances. In addition, reasonableness may also be determined from the designation of a beneficiary of Philhealth benefits in case of the data subject’s death, incapacity or unavailability. In the current matter, the wife was able to present documents to establish her identity and relationship with the data subject and the reason for the request. For a more comprehensive discussion on reasonable expectation, kindly refer to [[decisions/2019/npc-17-047-jv-vs-jr|NPC Case No. 17-047]].[^10]
 
 #### General Data Privacy Principles; Proportionality; Reasonable and Appropriate Security Measures
 
@@ -102,7 +110,7 @@ FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
 [^1]: Tags: lawful processing; legitimate interest; proportionality; security measures.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3 (g) (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]] (2012).
 [^3]: Data Privacy Act of 2012, § 12.
 [^4]: National Privacy Commission, [[advisory-opinions/2022/advisory-opinion-no-2022-005-advisory-opinion-no-2022-005-redacted|NPC Advisory Opinion No. 2022-005]] (24 February 2022) citing United Kingdom Information Commissioner's Office (ICO), "What is the 'Legitimate Interests' basis?", available at https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 18 January 2022]
 [^5]: *Ibid.*
@@ -110,4 +118,4 @@ Director IV, Privacy Policy Office
 [^7]: *Ibid.*
 [^8]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]] (Sept. 22, 2022).
 [^9]: EU GDPR, Recital 49.
-[^10]: https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf [last accessed on 4 August 2022].
+[^10]: [[decisions/2019/npc-17-047-jv-vs-jr|NPC 17-047, JV v. JR]], https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf [last accessed on 4 August 2022].
