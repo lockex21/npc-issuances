@@ -293,10 +293,8 @@ SGD SGD
 LEANDRO ANGELO Y. AGUIRRE NERISSA N. DE JESUS
 Deputy Privacy Commissioner Deputy Privacy Commissioner
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2023/security-of-personal-data-in-the-government-and-the-private-sector|Analysis and metadata]]
-- Raw source text: [[sources/2023/security-of-personal-data-in-the-government-and-the-private-sector|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/03/NPC-Circular-Repeal-16-01-Signed.pdf
 - OCR used during extraction: no
 ## Footnotes

@@ -229,9 +229,7 @@ Approved:
  IVY D. PATDU                                                   DAMIAN DOMINGO O. MAPA
      Deputy Privacy Commissioner                                 Deputy Privacy Commissioner
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Analysis and metadata]]
-- Raw source text: [[sources/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-02-Data-Sharing-Agreements-Involving-Government-Agencies.pdf
 - OCR used during extraction: no

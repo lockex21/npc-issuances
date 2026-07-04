@@ -516,8 +516,6 @@ Approved:
                                 LEANDRO ANGELO Y. AGUIRRE
                                   Deputy Privacy Commissioner
 
-## Source And Notes
-- Companion note: [[notes/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|Analysis and metadata]]
-- Raw source text: [[sources/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-2.pdf
 - OCR used during extraction: no

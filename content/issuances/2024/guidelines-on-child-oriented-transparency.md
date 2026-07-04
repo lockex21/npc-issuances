@@ -121,8 +121,6 @@ Approved:
 [^19]: See Id. § 3 (D)(3).
 [^20]: Data Privacy Act of 2012, § 21.
 
-## Source And Notes
-- Companion note: [[notes/2024/guidelines-on-child-oriented-transparency|Analysis and metadata]]
-- Raw source text: [[sources/2024/guidelines-on-child-oriented-transparency|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.17-Guidelines-on-Child-Oriented-Transparency-w-SGD.pdf
 - OCR used during extraction: no

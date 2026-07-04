@@ -72,8 +72,6 @@ date: "2020-10-06"
 
 26. **How will the penalties or fines be imposed? Will there a table of penalties be included in this circular or referred to?** The penalties, fees, fines, and the determination of the bond will be subject to a separate circular.
 
-## Source And Notes
-- Companion note: [[notes/1988/faqs|Analysis and metadata]]
-- Raw source text: [[sources/1988/faqs|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.pdf
 - OCR used during extraction: no

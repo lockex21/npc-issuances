@@ -29,8 +29,6 @@ date: '2024-12-17'
 
 [^1]: LANDBANK Link.Biz.Portal, available at https://www.lbp-eservices.com/egps/portal/index.jsp (last accessed March 25, 2024).
 
-## Source And Notes
-- Companion note: [[notes/2024/online-payment|Analysis and metadata]]
-- Raw source text: [[sources/2024/online-payment|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/03/Fees_Advisory_Final_15-March-2024.pdf
 - OCR used during extraction: no

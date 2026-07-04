@@ -61,8 +61,6 @@ SGD.                                                       SGD.
 NERISSA N. DE JESUS                        JOSE AMELITO S. BELARMINO II
 Deputy Privacy Commissioner                Deputy Privacy Commissioner
 
-## Source And Notes
-- Companion note: [[notes/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Analysis and metadata]]
-- Raw source text: [[sources/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2025/07/SGD-2025-01-DSA-Clarification.pdf
 - OCR used during extraction: no

@@ -93,9 +93,7 @@ SGD SGD
 LEANDRO ANGELO Y. AGUIRRE NERISSA N. DE JESUS
 Deputy Privacy Commissioner Deputy Privacy Commissioner
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Analysis and metadata]]
-- Raw source text: [[sources/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/03/Prerequisites-for-the-Philippine-Privacy-Mark-Signed.pdf
 - OCR used during extraction: no

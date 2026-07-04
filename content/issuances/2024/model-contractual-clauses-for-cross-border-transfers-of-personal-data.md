@@ -116,8 +116,6 @@ available at [https://asean.org/wp-content/uploads/2024/02/Joint-Guide-to-ASEAN-
 [^2]: Global Privacy Assembly, Working Group Reports, Global Frameworks and Standards WG Report GFSWG 2023- Annex
 [^3]: Association of Southeast Asian Nations and European Commission, Joint Guide to ASEAN MCCs and EU MCCs,
 
-## Source And Notes
-- Companion note: [[notes/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data|Analysis and metadata]]
-- Raw source text: [[sources/2024/model-contractual-clauses-for-cross-border-transfers-of-personal-data|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/06/Published-NPC-Advisory-No.-2024-01-Contractual-Clauses-for-Cross-Border-Transfers_30May24.pdf
 - OCR used during extraction: no

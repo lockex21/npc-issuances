@@ -264,8 +264,6 @@ Deputy Privacy Commissioner
 
 [^5]: Security measures to protect against accidental, unlawful, or unauthorized use or disclosure.
 
-## Source And Notes
-- Companion note: [[notes/2024/closed-circuit-television-cctv-systems|Analysis and metadata]]
-- Raw source text: [[sources/2024/closed-circuit-television-cctv-systems|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-Circular-No.-2024-02-CCTV-Systems.pdf
 - OCR used during extraction: no

@@ -200,9 +200,7 @@ Approved:
 [^4]: In the event of resignation, incapacity, or death of the DPO, or, where the term of the DPO is fixed or is coterminous with the appointing authority, in the case of government agencies, or based on a contract, in the case of private sector entities.
 [^5]: The designated DPO may also occupy some other position in the organization (e.g., legal counsel, risk management officer, etc.).
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2017/designation-of-data-protection-officers|Analysis and metadata]]
-- Raw source text: [[sources/2017/designation-of-data-protection-officers|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC-Advisory-2017-01-sgd.pdf
 - OCR used during extraction: no

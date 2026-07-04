@@ -100,8 +100,6 @@ Approved:
 [^2]: Securities and Exchange Commission, “Prohibition on Unfair Debt Collection Practices of Financing Companies (FC) and Lending Companies (LC),” SEC Memorandum Circular No. 18, series of 2019 [SEC MEMO. CIRC. 18, s. 2019], § 1 (19 August 2019): Unfair collection practices are as those which use or involve threats of use of violence or other criminal means to harm the physical person, reputation or property of any person, as well as those which use threats to take any action that cannot be legally taken.
 [^3]: See: Securities and Exchange Commission, “Prohibition on Unfair Debt Collection Practices of Financing Companies (FC) and Lending Companies (LC),” SEC Memorandum Circular No. 18, series of 2019 [SEC MEMO. CIRC. 18, s. 2019], § 1 (19 August 2019).
 
-## Source And Notes
-- Companion note: [[notes/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Analysis and metadata]]
-- Raw source text: [[sources/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-%E2%80%93-02-Amending-20-01-Loan-Related-Transactions.pdf
 - OCR used during extraction: no

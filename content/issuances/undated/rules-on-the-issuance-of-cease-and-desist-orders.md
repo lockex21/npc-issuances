@@ -151,8 +151,6 @@ Approved: 06 October 2020
  LEANDRO ANGELO Y. AGUIRRE                               JOHN HENRY D. NAGA
      Deputy Privacy Commissioner                                 Deputy Privacy Commissioner
 
-## Source And Notes
-- Companion note: [[notes/undated/rules-on-the-issuance-of-cease-and-desist-orders|Analysis and metadata]]
-- Raw source text: [[sources/undated/rules-on-the-issuance-of-cease-and-desist-orders|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/NPC-Circular-20-02_Circular-Rules-on-CDO.pdf
 - OCR used during extraction: no

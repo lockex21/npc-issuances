@@ -136,9 +136,7 @@ Deputy Privacy Commissioner            Deputy Privacy Commissioner
 [^5]: Republic Act No. 8792, Section 8, provides the rules for legal recognition of electronic signatures and their equivalence to handwritten signatures when the statutory conditions are met.
 [^6]: Supplemental application of Section 9, Rule 13 of A.M. No. 19-10-20-SC.
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Analysis and metadata]]
-- Raw source text: [[sources/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/FINAL-VERSION-Guidelines-on-the-Use-of-Videoconferencing-Technology-for-Remote-Appearance-before-the-NPC-OPC.pdf
 - OCR used during extraction: no

@@ -117,9 +117,7 @@ Department of Health
 
 (Sgd.) RAYMUND E. LIBORO Privacy Commissioner and Chairman
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Analysis and metadata]]
-- Raw source text: [[sources/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/DOH-mc2020-0016.pdf
 - OCR used during extraction: no

@@ -419,8 +419,6 @@ SECTION 13. Effectivity. – These amendments shall take effect fifteen (15) day
 [^9]: Persistent issues pertain to the inadequate implementation of security measures to address the heightened risk to the rights and freedoms of data subjects.
 [^10]: This includes a department, bureau, office, instrumentality, government-owned or controlled corporation, local government, state university and college, or a distinct unit in it.
 
-## Source And Notes
-- Companion note: [[notes/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Analysis and metadata]]
-- Raw source text: [[sources/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-2024-01-Amendments-to-the-2021-Rules-of-Procedure-of-the-NPC-FOR-PUBLICATION.pdf
 - OCR used during extraction: no

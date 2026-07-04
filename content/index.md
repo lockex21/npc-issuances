@@ -34,5 +34,5 @@ A cross-referenced collection of issuances, advisory opinions, decisions, resolu
 
 ## Manual Notes
 <!-- BEGIN MANUAL INDEX NOTES -->
-This is an unofficial reference library. Texts are cleaned extractions of official PDFs — see [[about|About this wiki]] for sources and caveats.
+This is an unofficial reference library. Texts are cleaned extractions of official PDFs, and raw extraction notes are not published on the public site. Cross-references and topic pages are early-stage finding aids, not exhaustive research maps — see [[about|About this wiki]] for sources and caveats.
 <!-- END MANUAL INDEX NOTES -->

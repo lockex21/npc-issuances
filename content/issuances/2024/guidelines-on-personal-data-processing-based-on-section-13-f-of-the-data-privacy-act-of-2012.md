@@ -120,9 +120,7 @@ Deputy Privacy Commissioner
 
 [^13]: EA and TA v. EJ, EE and HC, NPC 17-018, 05 November 2020, at 3, available at https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-17-018-2020.11.05-EA-_-TA-v.-EJ-EE-_-HC-Resolution.pdf.
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|Analysis and metadata]]
-- Raw source text: [[sources/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-Advisory-No.-2024-02-Personal-Data-Processing-Based-on-Section-13-f.pdf
 - OCR used during extraction: no

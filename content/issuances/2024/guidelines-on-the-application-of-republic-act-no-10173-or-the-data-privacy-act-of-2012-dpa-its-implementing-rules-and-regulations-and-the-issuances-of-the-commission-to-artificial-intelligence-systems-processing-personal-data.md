@@ -113,8 +113,6 @@ Approved:
 [^15]: EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 7, available at [https://privacy.gov.ph/wp-content/uploads/2022/09/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf](https://privacy.gov.ph/wp-content/uploads/2022/09/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf).
 [^16]: See National Privacy Commission, Data Subject Rights, Advisory No. 01, Series of 2021 [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] (29 January 2021).
 
-## Source And Notes
-- Companion note: [[notes/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Analysis and metadata]]
-- Raw source text: [[sources/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf
 - OCR used during extraction: no

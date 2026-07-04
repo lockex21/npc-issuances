@@ -66,9 +66,7 @@ Privacy Commissioner
 JOHN HENRY DU NAGA                     LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner            Deputy Privacy Commissioner
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Analysis and metadata]]
-- Raw source text: [[sources/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-2020-01-FINAL.pdf
 - OCR used during extraction: no

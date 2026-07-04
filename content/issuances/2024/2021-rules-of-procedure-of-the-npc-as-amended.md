@@ -1,6 +1,6 @@
 ---
 title: "2021 Rules of Procedure of the NPC, as Amended (Current Version)"
-description: "Current consolidated version of the 2021 NPC Rules of Procedure as amended, with links to the official 2024 PDF, raw extraction, original 2021 text, and amendment circular."
+description: "Current consolidated version of the 2021 NPC Rules of Procedure as amended, with links to the official 2024 PDF, original 2021 text, and amendment circular."
 aliases:
   - "2021 Rules of Procedure of the NPC"
   - "2021 Rules of Procedure of the NPC, as Amended"
@@ -16,11 +16,9 @@ date: '2024-03-04'
 
 ## Current Version
 
-Use this page as the current access point for the 2021 NPC Rules of Procedure, as amended. The full consolidated text is available in the official PDF and raw source extraction.
+Use this page as the current access point for the 2021 NPC Rules of Procedure, as amended. The full consolidated text is available in the official PDF.
 
 - Current official PDF: https://privacy.gov.ph/wp-content/uploads/2024/03/2021-Rules-of-Procedure-of-the-NPC-As-Amended.pdf
-- Raw extracted text: [[sources/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure of the NPC, as Amended Raw Source Text]]
-- Companion note: [[notes/2024/2021-rules-of-procedure-of-the-npc-as-amended|Analysis and metadata]]
 
 ## Version History
 
@@ -30,4 +28,4 @@ Use this page as the current access point for the 2021 NPC Rules of Procedure, a
 
 ## Editorial Status
 
-The official as-amended PDF is the authority for the current consolidated text. The raw extraction is available now; a full PDF-faithful Markdown cleanup pass remains pending.
+The official as-amended PDF is the authority for the current consolidated text. A full PDF-faithful Markdown cleanup pass remains pending.

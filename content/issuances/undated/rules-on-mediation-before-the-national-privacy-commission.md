@@ -523,8 +523,6 @@ City of Pasay, (date) ____________________.
 ____________________________________
 Investigating Officer
 
-## Source And Notes
-- Companion note: [[notes/undated/rules-on-mediation-before-the-national-privacy-commission|Analysis and metadata]]
-- Raw source text: [[sources/undated/rules-on-mediation-before-the-national-privacy-commission|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-03_RulesonMediationwAnnexes.pdf
 - OCR used during extraction: no

@@ -180,8 +180,6 @@ Deputy Privacy Commissioner Deputy Privacy Commissioner
 [^1]: Affidavit duly notarized for individual data subjects and Secretary’s Certificate for juridical persons. This documentary requirement may be waived in meritorious cases.
 [^7]: of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as “The Data Privacy Act of 2012” (DPA), the following guidelines for requests for advisory opinions of the NPC are hereby prescribed and promulgated:
 
-## Source And Notes
-- Companion note: [[notes/undated/rules-of-procedure-on-requests-for-advisory-opinions|Analysis and metadata]]
-- Raw source text: [[sources/undated/rules-of-procedure-on-requests-for-advisory-opinions|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-01_Request_forAdvisory_Opinion.pdf
 - OCR used during extraction: no

@@ -637,11 +637,9 @@ to If signed by person other than patient, provide relationship sa patient: Kung
 
 Witness: Date: Saksi: Petsa: <!-- END MANUAL ANNOTATED TEXT -->
 
-## Source And Notes
+## Source
 
 <!-- BEGIN GENERATED TEXT INFO -->
 
-- Companion note: [[notes/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Analysis and metadata]]
-- Raw source text: [[sources/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/11/MC2020-0024-1.pdf
 - OCR used during extraction: no <!-- END GENERATED TEXT INFO -->

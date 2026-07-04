@@ -38,8 +38,6 @@ date: "2023-11-28"
 
 **SECTION 8.** ***Publication and Effectivity.*** Circular 2023-06 was published in the Daily Tribune on March 15, 2024, and it took effect fifteen (15) calendar days later, as confirmed by Section 40.
 
-## Source And Notes
-- Companion note: [[notes/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|Analysis and metadata]]
-- Raw source text: [[sources/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/v12-19-2024_FAQ-NPC-Circular-2023-06_NNJ_JDN.pdf
 - OCR used during extraction: no

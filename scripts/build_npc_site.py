@@ -1006,7 +1006,6 @@ def render_companion_note(record: Issuance, by_slug: dict[str, Issuance]) -> str
     record_block = "\n".join(
         [
             f"- Issuance page: {wiki_link(record)}",
-            f"- Raw source note: {note_link(record.source_note_path, 'Raw source text')}",
             f"- Reference: {record.reference_label or 'None detected'}",
             f"- Type: {record.kind}",
             f"- Year: {record.year}",
@@ -1065,8 +1064,6 @@ def render_issuance_page(record: Issuance, alias_map: dict[str, Issuance]) -> st
         annotated_block = seeded_default
     source_info_block = "\n".join(
         [
-            f"- Companion note: {note_link(record.notes_path, 'Analysis and metadata')}",
-            f"- Raw source text: {note_link(record.source_note_path, 'Raw source extraction')}",
             f"- Official source PDF: {record.source_url}",
             f"- OCR used during extraction: {'yes' if record.ocr_used else 'no'}",
         ]
@@ -1078,7 +1075,7 @@ def render_issuance_page(record: Issuance, alias_map: dict[str, Issuance]) -> st
         "## Issuance Text",
         render_block(ANNOTATED_START, annotated_block, ANNOTATED_END),
         "",
-        "## Source And Notes",
+        "## Source",
         render_block(TEXT_INFO_START, source_info_block, TEXT_INFO_END),
         "",
     ]

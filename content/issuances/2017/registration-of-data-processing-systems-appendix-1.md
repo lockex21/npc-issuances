@@ -51,9 +51,7 @@ The National Privacy Commission determines, for the limited purpose of mandatory
 
 10. PERSONAL INFORMATION PROCESSORS PROCESSING PERSONAL DATA FOR A PERSONAL INFORMATION CONTROLLER INCLUDED IN THE PRECEDING ITEMS, AND DATA PROCESSING SYSTEMS INVOLVING AUTOMATED DECISION-MAKING
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2017/registration-of-data-processing-systems-appendix-1|Analysis and metadata]]
-- Raw source text: [[sources/2017/registration-of-data-processing-systems-appendix-1|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC17-01_Appendix-1.pdf
 - OCR used during extraction: no

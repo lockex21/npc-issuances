@@ -141,9 +141,7 @@ Deputy Privacy Commissioner                Deputy Privacy Commissioner
 [^10]: See generally DOH NPC JMC No. 2020-0002 and DOH DM No. 2020-0189.
 [^11]: See supra note 5.
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Analysis and metadata]]
-- Raw source text: [[sources/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-No.-2020-03-FINAL.pdf
 - OCR used during extraction: no

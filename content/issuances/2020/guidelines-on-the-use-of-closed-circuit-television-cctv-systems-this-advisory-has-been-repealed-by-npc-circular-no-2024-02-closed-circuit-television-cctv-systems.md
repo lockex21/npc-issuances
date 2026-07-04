@@ -223,9 +223,7 @@ Deputy Privacy Commissioner
 [^5]: National Privacy Commission, Security of Personal Data in Government Agencies, Memorandum Circular No. 16-01 [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular 16-01]] (October 10, 2016).
 [^6]: KRL v. Trinity University, National Privacy Commission CID Case No. 17-K-003 (2019).
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Analysis and metadata]]
-- Raw source text: [[sources/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/Advisory-on-CCTV-16NOV2020-FINAL.pdf
 - OCR used during extraction: no

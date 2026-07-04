@@ -168,8 +168,6 @@ Privacy Commissioner and Chairman
 (Sgd) IVY D. PATDU (Sgd) LEANDRO ANGELO Y. AGUIRRE
 Deputy Privacy Commissioner Deputy Privacy Commissioner
 
-## Source And Notes
-- Companion note: [[notes/undated/guidelines-on-compliance-checks|Analysis and metadata]]
-- Raw source text: [[sources/undated/guidelines-on-compliance-checks|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-02_ComplianceCheck.pdf
 - OCR used during extraction: no

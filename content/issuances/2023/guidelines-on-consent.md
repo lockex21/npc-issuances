@@ -236,9 +236,7 @@ SGD. | SGD.
 LEANDRO ANGELO Y. AGUIRRE | NERISSA N. DE JESUS
 Deputy Privacy Commissioner | Deputy Privacy Commissioner
 
-## Source And Notes
-- Companion note: [[notes/2023/guidelines-on-consent|Analysis and metadata]]
-- Raw source text: [[sources/2023/guidelines-on-consent|Raw source extraction]]
+## Source
 - Official PDF: [NPC-Circular-No.-2023-04_Guidelines-on-Consent_07Nov2023.pdf](https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Circular-No.-2023-04_Guidelines-on-Consent_07Nov2023.pdf)
 - OCR used during extraction: no
 

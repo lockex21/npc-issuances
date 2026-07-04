@@ -17,6 +17,7 @@ DATA_DIR = ROOT / "data"
 CONTENT_PATH_KEYS = ("content_path", "markdown_path", "notes_path", "source_note_path")
 RECORD_LIST_KEYS = ("records", "issuances", "orders", "decisions", "resolutions")
 SKIP_MARKDOWN_NAMES = {".cleanup-log.md", "_cleanup-log.md"}
+UNPUBLISHED_CONTENT_PREFIXES = ("notes/", "sources/")
 
 FRONTMATTER_RE = re.compile(r"\A---\n(?P<body>.*?)(?:\n---\n|\n---\Z)", re.DOTALL)
 WIKILINK_RE = re.compile(r"(?<!!)\[\[(?P<body>[^\]\n]+)\]\]")
@@ -59,6 +60,11 @@ def iter_markdown_files() -> list[Path]:
 
 def slug_for(path: Path) -> str:
     return path.relative_to(CONTENT_DIR).with_suffix("").as_posix()
+
+
+def is_unpublished_content(path: Path) -> bool:
+    slug = slug_for(path)
+    return slug.startswith(UNPUBLISHED_CONTENT_PREFIXES)
 
 
 def build_slug_index(markdown_files: list[Path]) -> tuple[set[str], set[str]]:
@@ -215,6 +221,17 @@ def validate_wikilinks(
             continue
 
         stats.wikilinks += 1
+        if not is_unpublished_content(path) and target.startswith(UNPUBLISHED_CONTENT_PREFIXES):
+            issues.append(
+                Issue(
+                    "wikilink.unpublished-target",
+                    path,
+                    f"published page links to unpublished target: {target}",
+                    line_for_offset(text, match.start()),
+                )
+            )
+            continue
+
         if target in slugs or f"{target}/index" in slugs:
             continue
         if "/" not in target and target in basenames:

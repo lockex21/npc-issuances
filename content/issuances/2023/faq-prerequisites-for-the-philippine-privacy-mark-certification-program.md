@@ -47,8 +47,6 @@ date: "2023-10-03"
 
 **SECTION XII.** ***When is the effectivity of this Circular?*** It took effect on 15 March 2024, and as provided in Section 9, it becomes effective immediately after publication.
 
-## Source And Notes
-- Companion note: [[notes/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program|Analysis and metadata]]
-- Raw source text: [[sources/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/v12-19-2024_FAQ-NPC-Circular-2023-05_LYA2_NNJ_JDN3.pdf
 - OCR used during extraction: no

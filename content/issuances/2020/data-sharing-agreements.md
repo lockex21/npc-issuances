@@ -228,9 +228,7 @@ Approved:
  LEANDRO ANGELO Y. AGUIRRE                                   JOHN HENRY D. NAGA
      Deputy Privacy Commissioner                                 Deputy Privacy Commissioner
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2020/data-sharing-agreements|Analysis and metadata]]
-- Raw source text: [[sources/2020/data-sharing-agreements|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/01/Circular-Data-Sharing-Agreement-amending-16-02-21-Dec-2020-clean-copy-FINAL-LYA-and-JDN-signed-minor-edit.pdf
 - OCR used during extraction: no

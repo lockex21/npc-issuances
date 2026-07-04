@@ -115,8 +115,6 @@ Sgd.                                                    Sgd.
 ATTY. LEANDRO ANGELO Y. AGUIRRE            ATTY. NERISSA N. DE JESUS
 Deputy Privacy Commissioner                 Deputy Privacy Commissioner
 
-## Source And Notes
-- Companion note: [[notes/2023/data-privacy-competency-program|Analysis and metadata]]
-- Raw source text: [[sources/2023/data-privacy-competency-program|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/Circular-on-Data-Privacy-Competency-Program-2023.09.26.pdf
 - OCR used during extraction: no

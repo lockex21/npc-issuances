@@ -63,8 +63,6 @@ SUBSCRIBED AND SWORN before me this ____ day of ______, 20__ with the Affiant pr
 
 Doc No. _____; Page No. ____; Book No. ____; Series of _____.
 
-## Source And Notes
-- Companion note: [[notes/2022/annex-1|Analysis and metadata]]
-- Raw source text: [[sources/2022/annex-1|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-Annex-1-1.pdf
 - OCR used during extraction: no

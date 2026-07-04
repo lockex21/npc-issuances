@@ -120,9 +120,7 @@ Deputy Privacy Commissioner
 [^16]: Fiyllero vs. People, 533 SCRA 97, G.R. No. 170583, (12 September 2007), citing Lumancas v. Intas, 347 SCRA 22, G.R. No. 133472 (5 December 2000).
 [^17]: Rule 132, §19.
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2017/access-to-personal-data-sheets-of-government-personnel|Analysis and metadata]]
-- Raw source text: [[sources/2017/access-to-personal-data-sheets-of-government-personnel|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_Advisory_No.2017-02.pdf
 - OCR used during extraction: yes

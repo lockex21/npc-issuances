@@ -285,8 +285,6 @@ Approved:
 ATTY. LEANDRO ANGELO Y. AGUIRRE                                  ATTY. NERISSA N. DE JESUS  
    Deputy Privacy Commissioner                                     Deputy Privacy Commissioner
 
-## Source And Notes
-- Companion note: [[notes/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Analysis and metadata]]
-- Raw source text: [[sources/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/Schedule-of-Fees-and-Charges-of-the-National-Privacy-Commission.pdf
 - OCR used during extraction: no

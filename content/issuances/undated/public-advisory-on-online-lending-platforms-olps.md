@@ -155,10 +155,8 @@ Communications Technology
                                                                               18 March 2026
 <!-- END MANUAL ANNOTATED TEXT -->
 
-## Source And Notes
+## Source
 <!-- BEGIN GENERATED TEXT INFO -->
-- Companion note: [[notes/undated/public-advisory-on-online-lending-platforms-olps|Analysis and metadata]]
-- Raw source text: [[sources/undated/public-advisory-on-online-lending-platforms-olps|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2026/03/DICT-NPC-SEC-Public-Advisory-on-Online-Lending-Platforms.pdf
 - OCR used during extraction: no
 <!-- END GENERATED TEXT INFO -->

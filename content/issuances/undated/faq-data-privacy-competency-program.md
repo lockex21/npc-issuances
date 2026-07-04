@@ -144,8 +144,6 @@ Questions Raised During the Public Consultation on 16 June 2023
 
 [^1]: The NPC wants to emphasize that there is no professional certification necessary to carry out the functions of a data privacy professional in the Philippines.
 
-## Source And Notes
-- Companion note: [[notes/undated/faq-data-privacy-competency-program|Analysis and metadata]]
-- Raw source text: [[sources/undated/faq-data-privacy-competency-program|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/FAQs-Circular-on-Data-Privacy-Competency-Program-Final.pdf
 - OCR used during extraction: no

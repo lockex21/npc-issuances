@@ -182,8 +182,6 @@ Approved:
 
 [^12]: Legitimate interest may apply as lawful basis for ancillary processing activities performed in the ordinary course of business. In such cases, the PIC must conduct a legitimate interest assessment.
 
-## Source And Notes
-- Companion note: [[notes/2023/guidelines-on-legitimate-interest|Analysis and metadata]]
-- Raw source text: [[sources/2023/guidelines-on-legitimate-interest|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-No.-2023-07_Guidelines-on-Legitimate-Interest_13-December-2023.pdf
 - OCR used during extraction: no

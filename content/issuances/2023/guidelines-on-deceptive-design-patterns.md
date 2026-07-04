@@ -135,8 +135,6 @@ Approved:
 
 [^1]: REGULATION (EU) 2022/2065 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act), Article 3 (m) (19 October 2022).
 
-## Source And Notes
-- Companion note: [[notes/2023/guidelines-on-deceptive-design-patterns|Analysis and metadata]]
-- Raw source text: [[sources/2023/guidelines-on-deceptive-design-patterns|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.pdf
 - OCR used during extraction: no

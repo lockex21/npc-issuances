@@ -130,8 +130,6 @@ Deputy Privacy Commissioner
 (Sgd.) ATTY. DUG CHRISTOPER B. MAH
 Deputy Privacy Commissioner
 
-## Source And Notes
-- Companion note: [[notes/2022/guidelines-on-administrative-fines|Analysis and metadata]]
-- Raw source text: [[sources/2022/guidelines-on-administrative-fines|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/08/NPC-CIRCULAR-NO.-2022-01-GUIDELINES-ON-ADMINISTRATIVE-FINES-dated-08-AUGUST-2022-w-SGD.pdf
 - OCR used during extraction: no

@@ -44,9 +44,7 @@ Approved:
  LEANDRO ANGELO Y. AGUIRRE                                   JOHN HENRY D. NAGA
      Deputy Privacy Commissioner                                 Deputy Privacy Commissioner
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Analysis and metadata]]
-- Raw source text: [[sources/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/Advisory-2020-03-A-FINAL.pdf
 - OCR used during extraction: no

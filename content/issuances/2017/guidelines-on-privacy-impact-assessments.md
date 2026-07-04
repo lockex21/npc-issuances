@@ -181,9 +181,7 @@ Approved:
 [^1]: Acceptable methodologies include ISO/IEC 29134, which provides standards for the conduct of the PIA.
 [^2]: This takes into consideration the Art. 29 Data Protection Working Party "Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is 'likely to result in a high risk' for the purposes of Regulation 2016/679" (4 April 2017) and the provisions of the DPA.
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2017/guidelines-on-privacy-impact-assessments|Analysis and metadata]]
-- Raw source text: [[sources/2017/guidelines-on-privacy-impact-assessments|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryNo.2017-03.pdf
 - OCR used during extraction: no

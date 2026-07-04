@@ -222,8 +222,6 @@ The ASEAN MCCs can be accessed at https://asean.org/storage/3-ASEAN-Model-Contra
 [^8]: *Id.* § 3(o).
 [^9]: The ASEAN MCCs can be accessed at https://asean.org/storage/3-ASEAN-Model-Contractual-Clauses-for-Cross-Border-Data-Flows_Final.pdf and the ASEAN DMF document at https://asean.org/storage/2-ASEAN-Data-Management-Framework_Final.pdf
 
-## Source And Notes
-- Companion note: [[notes/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Analysis and metadata]]
-- Raw source text: [[sources/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/06/Advisory-ASEAN-MCC-DMF_FINAL-signed.pdf
 - OCR used during extraction: no

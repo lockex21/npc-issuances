@@ -103,8 +103,6 @@ Deputy Privacy Commissioner
 [^9]: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]]: Guidelines on Privacy Impact Assessments, available at https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryNo.2017-03.pdf.
 [^10]: Section 20(c) of the Republic Act 10173 - Data Privacy Act of 2012, National Privacy Commission, available at https://privacy.gov.ph/data-privacy-act/.
 
-## Source And Notes
-- Companion note: [[notes/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry|Analysis and metadata]]
-- Raw source text: [[sources/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2025/03/NPC-IC-Joint-Advisory-2025.03.11-Considerations-on-the-Use-of-PETs-in-the-Insurance-Industry-w-SGD.pdf
 - OCR used during extraction: no

@@ -188,9 +188,7 @@ Secretary
 (Sgd.) RAYMUND E. LIBORO
 Privacy Commissioner and Chairman
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Analysis and metadata]]
-- Raw source text: [[sources/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/jmc2020-0002v1.pdf
 - OCR used during extraction: no

@@ -19,8 +19,8 @@ Decisions and resolutions are mirrored through `r.jina.ai` because the live NPC 
 ## Content Layout
 
 - Primary issuance pages (text-first, manually annotatable): `content/issuances/<year>/...`
-- Companion notes (summary, links, auto metadata/backlinks): `content/notes/<year>/...`
-- Raw extraction notes (regenerated): `content/sources/<year>/...`
+- Companion notes (summary, links, auto metadata/backlinks; internal only): `content/notes/<year>/...`
+- Raw extraction notes (regenerated, internal only): `content/sources/<year>/...`
 - Advisory opinions: `content/advisory-opinions/<year>/...`
 - Decisions: `content/decisions/<year>/...`
 - Resolutions: `content/resolutions/<year>/...`
@@ -137,5 +137,6 @@ Open `http://localhost:8080/`.
 
 - Automatic reference linking is strongest for numbered citations like `NPC Circular No. 2023-01`.
 - Companion/source notes are regenerated around preserved manual blocks.
+- `content/notes/` and `content/sources/` are internal maintenance folders and are excluded from the published Quartz site.
 - Prettier is intentionally scoped to code and templates; do not bulk-format the legal Markdown corpus.
 - If the source index drops a file, remove obsolete generated notes manually from `content/`.

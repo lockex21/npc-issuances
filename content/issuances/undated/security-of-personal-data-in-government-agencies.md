@@ -328,8 +328,6 @@ Privacy Commissioner
 (Sgd.) IVY D. PATDU (Sgd.) DAMIAN DOMINGO O. MAPA
 Deputy Privacy Commissioner Deputy Privacy Commissioner
 
-## Source And Notes
-- Companion note: [[notes/undated/security-of-personal-data-in-government-agencies|Analysis and metadata]]
-- Raw source text: [[sources/undated/security-of-personal-data-in-government-agencies|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-01-Security-of-Personal-Data-in-Government-Agencies.pdf
 - OCR used during extraction: no

@@ -451,8 +451,6 @@ SGD.                                                                 SGD. LEANDR
 [^16]: See: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 28 (d) (2016).
 [^17]: Id. § 19 (d) (2016).
 
-## Source And Notes
-- Companion note: [[notes/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Analysis and metadata]]
-- Raw source text: [[sources/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/11/Advisory_Election_Campaigning_03-Nov-21-FINAL.pdf - O
 CR used during extraction: no

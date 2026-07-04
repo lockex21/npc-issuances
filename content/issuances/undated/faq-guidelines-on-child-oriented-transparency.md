@@ -93,9 +93,7 @@ Yes. NPC Circular No. 16-03 provides the required form and contents. When childr
 21. Who is accountable?
 PICs remain responsible for children's personal data, including data processed by their PIPs on their behalf.
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/undated/faq-guidelines-on-child-oriented-transparency|Analysis and metadata]]
-- Raw source text: [[sources/undated/faq-guidelines-on-child-oriented-transparency|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/FAQs-Advisory-on-Guidelines-on-Child-Oriented-Transparency.pdf
 - OCR used during extraction: no

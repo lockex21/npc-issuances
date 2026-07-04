@@ -249,9 +249,7 @@ Sgd.                                                                    Sgd. LEA
 [^27]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-054-redacted-advisory-opinion-no-2020-054-2|NPC Advisory Opinion No. 2020-054]] (28 December 2020).
 [^28]: Department of Health, The Revised Disposition Schedule of Medical Records Amending Ministry Circular 77, s. 1981 [Department Circular No. 70, s. 1996] (8 May 1996); and Department of Health National Center for Health Facility Development, Hospital Health Information Management Manual (2010).
 
-## Source And Notes
-- Companion note: [[notes/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Analysis and metadata]]
-- Raw source text: [[sources/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2021/11/Circular-on-Processing-for-Public-Health-Emergencies-FINAL.pdf
 - OCR used during extraction: no
 

@@ -514,8 +514,6 @@ The summary of the circular is:
 - Data subjects or affected individuals shall be notified individually, by written or electronic means, unless the Commission allows alternative means.
 - Other requirements include cooperating with the Commission during investigations and documenting all security incidents, including submission of an annual report to the Commission.
 
-## Source And Notes
-- Companion note: [[notes/undated/personal-data-breach-management|Analysis and metadata]]
-- Raw source text: [[sources/undated/personal-data-breach-management|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/sgd-npc-circular-16-03-personal-data-breach-management.pdf
 - OCR used during extraction: no

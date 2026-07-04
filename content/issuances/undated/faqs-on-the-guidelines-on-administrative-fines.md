@@ -158,8 +158,6 @@ No, the administrative fines do not supersede the penalties enumerated under the
 
 On the other hand, the penalties found under the Circular are administrative in nature, not punishable by imprisonment, imposed by the Commission after due notice and hearing, and imposed on PICs or PIPs whether they are juridical or natural persons.
 
-## Source And Notes
-- Companion note: [[notes/undated/faqs-on-the-guidelines-on-administrative-fines|Analysis and metadata]]
-- Raw source text: [[sources/undated/faqs-on-the-guidelines-on-administrative-fines|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/FAQs-on-the-Guidelines-on-Administrative-Fines-.pdf
 - OCR used during extraction: no

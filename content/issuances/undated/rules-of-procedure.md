@@ -551,8 +551,6 @@ Commission will not award damages.
 5. Can I get additional information on this circular? You may request for additional
 information on the procedure through info@privacy.gov.ph
 
-## Source And Notes
-- Companion note: [[notes/undated/rules-of-procedure|Analysis and metadata]]
-- Raw source text: [[sources/undated/rules-of-procedure|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/sgd-npc-circular-16-04-rules-of-procedure.pdf
 - OCR used during extraction: no

@@ -532,8 +532,6 @@ Privacy Commissioner
 [Sgd] IVY D. PATDU [Sgd] DAMIAN DOMINGO O. MAPA
 Deputy Privacy Commissioner Deputy Privacy Commissioner
 
-## Source And Notes
-- Companion note: [[notes/undated/registration-of-data-processing-systems|Analysis and metadata]]
-- Raw source text: [[sources/undated/registration-of-data-processing-systems|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_Circular-17-01-Registration_final.pdf
 - OCR used during extraction: no

@@ -147,8 +147,6 @@ Deputy Privacy Commissioner Deputy Privacy Commissioner
 
 [^3]: An Act Amending Republic Act No. 5980, As Amended, Otherwise Known As The Financing Company Act [Financing Company Act of 1998], Republic Act No. 8556 (1998).
 
-## Source And Notes
-- Companion note: [[notes/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Analysis and metadata]]
-- Raw source text: [[sources/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/NPC-Circular-No.-20-01.pdf
 - OCR used during extraction: no

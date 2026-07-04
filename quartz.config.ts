@@ -15,7 +15,14 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "lockex21.github.io/npc-issuances",
-    ignorePatterns: ["private", ".obsidian", "**/_cleanup-log.md", "**/.cleanup-log.md"],
+    ignorePatterns: [
+      "private",
+      ".obsidian",
+      "notes/**",
+      "sources/**",
+      "**/_cleanup-log.md",
+      "**/.cleanup-log.md",
+    ],
     defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",

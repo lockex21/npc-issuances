@@ -205,9 +205,7 @@ Deputy Privacy Commissioner                Deputy Privacy Commissioner
 
 [^12]: See: ECA v. XXX, NPC Case No. 18-103 (2020).
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Analysis and metadata]]
-- Raw source text: [[sources/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2025/05/SGD-NPC-Circular-No.-2025-01-Body-Worn-Cameras.pdf
 - OCR used during extraction: no

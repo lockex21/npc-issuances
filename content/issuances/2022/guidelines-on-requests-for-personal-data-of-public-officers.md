@@ -181,9 +181,7 @@ Deputy Privacy Commissioner
 [^6]: See: An Act Promoting Ease of Doing Business and Efficient Delivery of Government Services, amending for the purpose, Republic Act No. 9485, otherwise known as the Anti-Red Tape Act of 2007, and for other purposes [Ease of Doing Business and Efficient Government Service Delivery Act of 2018], Republic Act No. 11032, § 9(b) (2018), and Office of the President, Operationalizing in the Executive Branch the Constitutional Right to Information and the State Policies of Full Public Disclosure and Transparency in the Public Service and Providing Guidelines Therefor, Executive Order No. 2 [E.O. No. 2] § 3 (4 May 2020).
 [^7]: See generally: European Data Protection Board, Guidelines 05/2020 on consent under Regulation 2016/679 Version 1.1, § 108 (4 May 2020), available at https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_202005_consent_en.pdf (last accessed 11 Sept 2021).
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2022/guidelines-on-requests-for-personal-data-of-public-officers|Analysis and metadata]]
-- Raw source text: [[sources/2022/guidelines-on-requests-for-personal-data-of-public-officers|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/08/NPC-Advisory-No.-2022-01-Request-for-Personal-Data-of-Public-Officers.pdf
 - OCR used during extraction: no

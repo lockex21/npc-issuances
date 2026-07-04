@@ -219,9 +219,7 @@ Deputy Privacy Commissioner                Deputy Privacy Commissioner
 
 [^23]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-26-organizational-security-measures|Section 26(d) of the Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Analysis and metadata]]
-- Raw source text: [[sources/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2025/12/NPC_Advisory2025-02.pdf
 - OCR used during extraction: no

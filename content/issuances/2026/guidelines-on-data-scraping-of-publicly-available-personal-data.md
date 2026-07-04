@@ -148,6 +148,6 @@ Deputy Privacy Commissioner                Deputy Privacy Commissioner
 [^5]: These measures may include a robots.txt exclusion protocol or integration of CAPTCHAs, among others. *See* Commission Nationale de l'Informatique et des Libertés (CNIL), *The legal basis of legitimate interest: focus sheet on the measures to implement in the case of data collection by web scraping*, available at https://www.cnil.fr/en/legal-basis-legitimate-interest-focus-sheet-measures-implement-case-data-collection-web-scraping (last accessed 26 March 2026).
 [^6]: *See generally*: Global Privacy Assembly (GPA) International Enforcement Cooperation Working Group, Joint statement on data scraping and the protection of privacy, available at https://ico.org.uk/media/about-the-ico/documents/4026232/joint-statement-data-scraping-202308.pdf (last accessed: 8 August 2024).
 
-## Source And Notes
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2026/04/SGD_A_1.pdf
 - OCR used during extraction: no

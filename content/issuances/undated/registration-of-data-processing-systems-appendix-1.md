@@ -54,8 +54,6 @@ COMMISSIONS, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED AND
 
 ### 10. Personal Information Processors Processing Personal Data For A Personal Information Controller Included In The Preceding Items, And Data Processing Systems Involving Automated Decision-Making
 
-## Source And Notes
-- Companion note: [[notes/undated/registration-of-data-processing-systems-appendix-1|Analysis and metadata]]
-- Raw source text: [[sources/undated/registration-of-data-processing-systems-appendix-1|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC17-01_Appendix-1.pdf
 - OCR used during extraction: no

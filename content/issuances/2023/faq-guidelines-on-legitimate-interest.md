@@ -95,10 +95,8 @@ draft: false
 
 34. The Circular clarifies existing law; it does not change obligations related to transparency, notice, or the right to object.
 
-## Source And Notes
+## Source
 
-- Companion note: [[notes/2023/faq-guidelines-on-legitimate-interest|Analysis and metadata]]
-- Raw source text: [[sources/2023/faq-guidelines-on-legitimate-interest|Raw source extraction]]
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/12/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.pdf
 - OCR used during extraction: no
 

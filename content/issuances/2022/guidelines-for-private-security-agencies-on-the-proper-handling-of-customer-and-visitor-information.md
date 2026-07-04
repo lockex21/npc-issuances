@@ -227,8 +227,6 @@ Approved:
 [^4]: DOLE DO No. 150-16, § 2 (j).
 [^5]: See: National Archives of the Philippines, General Records Disposition Schedule common to all Government Agencies, series 2009 which provides for the retention period of two (2) years after date of last entry for logbooks (available at https://nationalarchives.gov.ph/wp-content/uploads/2015/04/NAP-Gen.-Circular-1-2-and-GRDS-2009.pdf).
 
-## Source And Notes
-- Companion note: [[notes/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Analysis and metadata]]
-- Raw source text: [[sources/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Raw source extraction]]
+## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.pdf - O
 CR used during extraction: no
